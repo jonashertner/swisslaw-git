@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Übereinkommen vom 20. Mai 1987 über ein gemeinsames Versandverfahren (mit Anlagen und Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: de
-version: 2022-10-01
+version: 2024-10-18
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20221001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20241018-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20241018/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 20. Mai 1987 Von der Bundesversammlung genehmigt am 8. Oktober 1987[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 28. Oktober 1987 In Kraft getreten am 1. Januar 1988
 
-(Stand am 1. Oktober 2022)
+(Stand am 18. Oktober 2024)
 
 [^t-1]: Das Übereink. umfasste ursprünglich folgende Vertragsparteien: Europäische Wirtschaftsgemeinschaft, Republik Österreich, Republik Finnland, Republik Island, Königreich Norwegen, Königreich Schweden und Schweizerische Eidgenossenschaft. Die Republik Österreich, die Republik Finnland und das Königreich Schweden sind am 1. Jan. 1995 den Europäischen Gemeinschaften beigetreten und sind seither nicht mehr selbständige Vertragsparteien des Übereink. Die Republik Polen, die Slowakische Republik, die Tschechische Republik und die Republik Ungarn sind dem Übereink. am 1. Juli 1996 beigetreten (AS **1996** 2508). Mit dem Beitritt zur Europäischen Union, sind diese vier Länder seit dem 1. Mai 2004 nicht mehr selbständige Vertragsparteien des Übereinkommens. Die Republik Kroatien ist dem Übereink. am 1. Juli 2012 beigetreten (AS **2013** 81), die Republik Türkei am 1. Dez. 2012 (AS **2013** 827), die ehemalige jugoslawische Republik Mazedonien (heute: Nordmazedonien) am 1. Juli 2015 (AS **2015** 5967) und die Republik Serbien am 1. Febr. 2016 (AS **2016** 535).
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 8. Okt. 1987 ([AS 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -441,7 +441,7 @@ Anlage I[^t-3]
 
 ## Gemeinsames Versandverfahren
 
-[^t-3]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Bereinigt gemäss Art. 1 Ziff. 1 und 2 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), Art. 1 Ziff. 1 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), der Berichtigung vom 10. Aug. 2021 ([AS 2021 478](https://fedlex.data.admin.ch/eli/oc/2021/478)) und Art. 1 Ziff. 1 des Beschlusses Nr. 1/2022 des Gemischten Ausschusses vom 25. Aug. 2022, in Kraft für die Schweiz seit 25. Aug. 2022 ([AS 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)).
+[^t-3]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Bereinigt gemäss Art. 1 Ziff. 1 und 2 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), Art. 1 Ziff. 1 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), der Berichtigung vom 10. Aug. 2021 ([AS 2021 478](https://fedlex.data.admin.ch/eli/oc/2021/478)), Art. 1 Ziff. 1 des Beschlusses Nr. 1/2022 des Gemischten Ausschusses vom 25. Aug. 2022 ([AS 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)) und Art. 1 Ziff. 1 des Beschlusses Nr. 1/2024 des Gemischten Ausschusses vom 18. Okt. 2024, in Kraft für die Schweiz seit 18. Okt. 2024 ([AS 2025 302](https://fedlex.data.admin.ch/eli/oc/2025/302)).
 
 ### Titel I: Allgemeines
 
@@ -467,14 +467,14 @@ Das gemeinsame Versandverfahren ist auf Postsendungen (einschliesslich Postpaket
 
 Im Sinne dieses Übereinkommens gelten als:
 
-- a) «Zollbehörden»:
+- (a) «Zollbehörden»:
 - die für die Anwendung des Übereinkommens zuständigen Zollverwaltungen sowie jede andere Behörde, die nach nationalem Recht mit der Anwendung des Übereinkommens beauftragt wurde;
 - (b) «Person»:
 - eine natürliche Person, eine juristische Person oder eine Personenvereinigung, die keine juristische Person ist, der jedoch nach dem Unionsrecht, dem nationalen Recht oder dem Recht eines Landes des gemeinsamen Versandverfahrens Rechtsfähigkeit zuerkannt wurde;
 - (c) «Versandanmeldung»:
 - der Akt, durch den eine Person in der vorgeschriebenen Form und nach den vorgeschriebenen Modalitäten den Willen zur Überführung einer Ware in das gemeinsame Versandverfahren bekundet;
 - (d) «Versandbegleitdokument»:
-- das mit Mitteln der elektronischen Datenverarbeitung gedruckte Dokument, das die Waren begleitet und auf den Angaben in der Versandanmeldung beruht;
+- das mit Mitteln der elektronischen Datenverarbeitung erstellte Dokument, das die Waren begleitet und auf den Angaben in der Versandanmeldung beruht;
 - (e) «Anmelder»:
 - die Person, die eine Versandanmeldung im eigenen Namen abgibt, oder in deren Namen eine solche Anmeldung abgegeben wird;
 - (f) «Inhaber des Verfahrens»:
@@ -799,7 +799,9 @@ Eine Versandanmeldung kann jedoch Waren enthalten, die in mehr als einem Behält
 
 Die Einzelheiten und die Struktur der Daten der Versandanmeldung sind in den Anhängen A1, A2 und B6 der Anlage III dargelegt.
 
-Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 sind die Einzelheiten und die Struktur der Daten der Versandanmeldung in Anhang A1a der Anlage IIIa dargelegt.
+Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission[^annexI-lvlu1-titII-chapII-25-1] angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des Neuen EDV-gestützten Versandverfahrens (NCTS) gelten die in Anhang A1a der Anlage IIIa dargelegten Einzelheiten und die dort dargelegte Struktur der Daten der Versandanmeldung.
+
+[^annexI-lvlu1-titII-chapII-25-1]: Durchführungsbeschluss (EU) 2023/2879 der Kommission vom 15. Dezember 2023 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der im Zollkodex der Union vorgesehenen elektronischen Systeme (ABl. L, 2023/2879, 22.12.2023, ELI: [http://data.europa.eu/eli/dec\_impl/2023/2879/oj](https://eur-lex.europa.eu/eli/dec_impl/2023/2879/oj)).
 
 #### Art. 26
 
@@ -830,7 +832,7 @@ Die Zollbehörden nehmen eine papiergestützte Versandanmeldung in den folgenden
 
 In den Fällen gemäss Artikel 26 Absatz 1 Buchstabe a erstellt der Reisende die papiergestützte Versandanmeldung im Einklang mit den Artikeln 5 und 6 sowie Anhang B6 der Anlage III.
 
-Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 erstellt der Reisende in den Fällen gemäss Artikel 26 Absatz 1 Buchstabe a die papiergestützte Versandanmeldung im Einklang mit den Artikeln 5 und 6 sowie in Anhang A1a der Anlage IIIa.
+Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 erstellt der Reisende in den Fällen gemäss Artikel 26 Absatz 1 Buchstabe a die papiergestützte Versandanmeldung im Einklang mit den Artikeln 5 und 6 sowie in Anhang A1a der Anlage IIIa.
 
 #### Art. 28
 
@@ -856,7 +858,7 @@ Reicht der Inhaber des Verfahrens bei den Zollbehörden eine Versandanmeldung ei
 
 **Abgabe einer Versandanmeldung vor der Gestellung der Waren**
 
-Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 kann vor der voraussichtlichen Gestellung der Waren bei der Abgangszollstelle eine Versandanmeldung abgegeben werden. Werden die Waren nicht innerhalb von 30 Tagen nach Abgabe der Versandanmeldung gestellt, so gilt die Versandanmeldung als nicht abgegeben.
+Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 kann vor der voraussichtlichen Gestellung der Waren bei der Abgangszollstelle eine Versandanmeldung abgegeben werden. Werden die Waren nicht innerhalb von 30 Tagen nach Abgabe der Versandanmeldung gestellt, so gilt die Versandanmeldung als nicht abgegeben.
 
 ### Kapitel III: Förmlichkeiten bei der Abgangszollstelle
 
@@ -1037,29 +1039,39 @@ Diese Angaben stützen sich auf die Daten aus der Versandanmeldung und werden ge
 
 **Versandbegleitdokument und Liste der Warenpositionen**
 
-<sup>1.</sup> Die Abgangszollstelle stellt dem Anmelder ein Versandbegleitdokument aus. Das Versandbegleitdokument wird unter Verwendung des Formulars in Anhang A3 der Anlage III erstellt und enthält die Angaben gemäß Anhang A4 der Anlage III.
+<sup>1.</sup> Die Abgangszollstelle stellt dem Anmelder oder der Person, die die Waren bei der Abgangsstelle gestellt hat, auf deren Ersuchen ein Versandbegleitdokument aus. Das Versandbegleitdokument wird unter Verwendung des Formulars in Anhang A3 der Anlage III erstellt und enthält die Angaben gemäss Anhang A4 der Anlage III.
 
 <sup>2.</sup> Das Versandbegleitdokument wird erforderlichenfalls durch eine Liste der Warenpositionen ergänzt, die unter Verwendung des Formulars in Anhang A5 der Anlage III erstellt wird, und enthält die Angaben gemäß Anhang A6 der Anlage III. Die Liste der Warenpositionen ist ein Bestandteil des Versandbegleitdokuments.
 
-<sup>3.</sup> Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS stellt die Abgangszollstelle dem Anmelder ein Versandbegleitdokument, ergänzt durch eine Liste der Warenpositionen, aus. Die Liste der Warenpositionen ist ein Bestandteil des Versandbegleitdokuments.
+<sup>3.</sup> Ab dem im Anhang des Durchführungsbeschlusses (EU) 2023/2879 genannten Zeitpunkt der Inbetriebnahme der aufgerüsteten Version des NCTS stellt die Abgangszollstelle dem Anmelder oder der Person, die die Waren bei der Abgangsstelle gestellt hat, auf deren Ersuchen ein Versandbegleitdokument aus, das durch eine Liste der Warenpositionen ergänzt wird. Die Liste der Warenpositionen ist ein fester Bestandteil des Versandbegleitdokuments.
 
 Das Versandbegleitdokument wird unter Verwendung des Formulars in Anhang A3a der Anlage IIIa erstellt und enthält die Angaben gemäß Anhang A4a der Anlage IIIa. Die Liste der Warenpositionen unter Verwendung des Formulars in Anhang A5a der Anlage IIIa erstellt und enthält die Angaben gemäß Anhang A6a der Anlage IIIa.
-
-Das Versandbegleitdokument und die Liste der Warenpositionen werden in gedruckter Form erstellt.
 
 ### Kapitel IV: Förmlichkeiten während der Beförderung
 
 #### Art. 42
 
-**Vorlage des Versandbegleitdokuments**
+**Vorlage des Versandbegleitdokuments oder der MRN der Versandanmeldung**
 
-Das Versandbegleitdokument mit der MRN der Versandanmeldung und die übrigen die Waren begleitenden Dokumente sind den Zollbehörden auf Verlangen vorzulegen.
+Das Versandbegleitdokument mit der MRN der Versandanmeldung oder die MRN der Versandanmeldung und die übrigen die Waren begleitenden Dokumente sind vorzulegen, wenn die Vorlage vorgeschrieben ist oder von den Zollbehörden verlangt wird.
+
+Bis zur Inbetriebnahme der im Anhang des Durchführungsbeschlusses (EU) 2023/2879 genannten aufgerüsteten Version des NCTS sind das Versandbegleitdokument und die Liste der Warenpositionen in gedruckter Form vorzulegen.
+
+#### Art. 42a
+
+**Mittel zur Übermittlung der MRN eines Versandvorgangs an die Zollbehörden**
+
+Die MRN der Versandanmeldung wird den Zollbehörden ausschliesslich mit Mitteln der elektronischen Datenverarbeitung übermittelt.
+
+Ist die Übermittlung der MRN durch Mittel der elektronischen Datenverarbeitung nicht möglich, so akzeptiert die auskunftserhaltende Zollbehörde die Übermittlung der MRN mittels eines Versandbegleitdokuments oder eines Strichcodes und kann andere Mittel zur Übermittlung der MRN zulassen.
+
+Bis zu den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS ist die MRN einer Versandanmeldung den Zollbehörden anhand eines Versandbegleitdokuments vorzulegen.
 
 #### Art. 43
 
 **Vorführung der im gemeinsamen Versandverfahren beförderten Waren bei der Durchgangszollstelle**
 
-<sup>1.</sup> Die Waren sind jeder Durchgangszollstelle zusammen mit dem Versandbegleitdokument unter Angabe der MRN vorzuführen.
+<sup>1.</sup> Die Waren sind jeder Durchgangszollstelle zusammen mit der MRN der Versandanmeldung gemäss Artikel 42*a* vorzuführen.
 
 <sup>2.</sup> Die Durchgangszollstelle erfasst den Grenzübergang der Waren anhand der Angaben zu dem Vorgang des gemeinsamen Versandverfahrens, die sie von der Abgangszollstelle erhalten hat. Die Durchgangszollstelle unterrichtet die Abgangszollstelle von dem Grenzübertritt.
 
@@ -1073,9 +1085,13 @@ Das Versandbegleitdokument mit der MRN der Versandanmeldung und die übrigen die
 
 **Ereignisse während der Beförderung von Waren im gemeinsamen Versandverfahren**
 
-<sup>1.</sup> Sind die Zollbehörden, in deren Gebiet sich das Beförderungsmittel befindet, der Auffassung, dass der betreffende Vorgang des gemeinsamen Versandverfahrens fortgesetzt werden kann, sobald sie alle erforderlichen Massnahmen getroffen haben, so versehen sie die Angaben des Beförderers im Versandbegleitdokument mit einem Sichtvermerk.
+<sup>1.</sup> In den in Unterabsatz 1 Buchstaben c und f genannten Fällen gilt der Wechsel der Beförderungsart nicht als Ereignis im Sinne von Unterabsatz 1, wenn die Waren in ein und derselben intermodalen Beförderungseinheit befördert werden, die Beförderungsart ohne Behandlung der Waren selbst gewechselt wird und die intermodale Beförderungseinheit eine eindeutige Identifikationsnummer trägt.
 
-Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 führt der Beförderer bei einem Ereignis gemäss Unterabsatz 1 Buchstaben a bis f die Waren nach dem Ereignis zusammen mit dem Versandbegleitdokument mit der MRN der Versandanmeldung der nächstgelegenen Zollbehörde des Landes vor, in dessen Hoheitsgebiet sich das Beförderungsmittel befindet.
+Für die Zwecke von Unterabsatz 2 gelten als intermodale Beförderungseinheiten beispielsweise Container, Wechselbehälter oder Sattelanhänger. Unterabsatz 2 gilt auch für ein beladenes Fahrzeug, das seinerseits auf einem aktiven Beförderungsmittel befördert wird.
+
+Sind die Zollbehörden, in deren Gebiet sich das Beförderungsmittel befindet, der Auffassung, dass der betreffende Vorgang des gemeinsamen Versandverfahrens fortgesetzt werden kann, sobald sie alle erforderlichen Massnahmen getroffen haben, so versehen sie die Angaben des Beförderers im Versandbegleitdokument mit einem Sichtvermerk.
+
+Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS führt der Beförderer bei einem Ereignis gemäss Unterabsatz 1 Buchstaben a bis f die Waren unverzüglich nach dem Ereignis zusammen mit der MRN der Versandanmeldung der nächstgelegenen Zollbehörde des Landes vor, in dessen Hoheitsgebiet sich das in Unterabsatz 1 Buchstaben a bis f genannte Beförderungsmittel befindet.
 
 Sind die Zollbehörden, in deren Gebiet sich das Beförderungsmittel befindet, der Auffassung, dass der betreffende Vorgang des gemeinsamen Versandverfahrens fortgesetzt werden kann, leiten sie alle Massnahmen ein, die sie für erforderlich halten, und erfassen die massgeblichen Informationen über die Ereignisse gemäss Unterabsatz 1 dieses Absatzes im elektronischen Versandsystem gemäss Artikel 4.
 
@@ -1096,7 +1112,7 @@ In den folgenden Fällen ist es nicht erforderlich, dass der Beförderer der in 
 - b) bei Ereignissen gemäss Absatz 1 Buchstabe f, wenn wegen technischer Probleme ein oder mehrere Eisenbahnwagen von einem Zug mit mehreren Eisenbahnwagen abgekoppelt werden;
 - c) bei Ereignissen gemäss Absatz 1 Buchstabe f, wenn die Zugmaschine eines Strassenfahrzeugs ausgetauscht wird, nicht aber ihre Anhänger oder Sattelanhänger.
 
-Sofern der Inhaber des Verfahrens oder der Beförderer im Auftrag des Inhabers des Verfahrens der Zollbehörde die massgeblichen Informationen über das Ereignis übermittelt, ist es ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 in den folgenden Fällen nicht erforderlich, dass der Beförderer, wie in Absatz 1 dargelegt, die Waren zusammen mit dem Versandbegleitdokument mit der MRN der Versandanmeldung dieser Zollbehörde vorführt:
+Sofern der Inhaber des Verfahrens oder der Beförderer im Auftrag des Inhabers des Verfahrens der Zollbehörde gemäss Absatz 1 die massgeblichen Informationen über das Ereignis übermittelt, ist es ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS in den folgenden Fällen nicht erforderlich, dass der Beförderer dieser Zollbehörde die Waren vorführt und die MRN der Versandanmeldung vorlegt:
 
 - a) bei Ereignissen gemäss Absatz 1 Buchstabe c, wenn die Waren von einem Beförderungsmittel ohne Zollverschluss umgeladen werden;
 - b) bei Ereignissen gemäss Absatz 1 Buchstabe f, wenn wegen technischer Probleme ein oder mehrere Eisenbahnwagen von einem Zug mit mehreren Eisenbahnwagen abgekoppelt werden;
@@ -1104,7 +1120,7 @@ Sofern der Inhaber des Verfahrens oder der Beförderer im Auftrag des Inhabers d
 
 <sup>3.</sup> Die massgeblichen Informationen im Versandbegleitdokument über die Ereignisse gemäss Absatz 1 werden von den Zollbehörden, je nach Fall von der Durchgangszollstelle oder der Bestimmungszollstelle, im elektronischen Versandsystem erfasst.
 
-Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 werden die massgeblichen Informationen über die Ereignisse gemäss Absatz 1 von der nächstgelegenen Zollbehörde des Landes, in dessen Hoheitsgebiet sich das Beförderungsmittel befindet, im elektronischen Versandsystem erfasst.
+Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 werden die massgeblichen Informationen über die Ereignisse gemäss Absatz 1 von der nächstgelegenen Zollbehörde des Landes, in dessen Hoheitsgebiet sich das Beförderungsmittel befindet, im elektronischen Versandsystem erfasst.
 
 ### Kapitel V: Förmlichkeiten bei der Bestimmungszollstelle
 
@@ -1117,12 +1133,12 @@ Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 
 Treffen in ein gemeinsames Versandverfahren übergeführte Waren bei der Bestimmungszollstelle ein, ist dieser Zollstelle Folgendes vorzulegen bzw. zu gestellen:
 
 - (a) die Waren;
-- (b) das Versandbegleitdokument;
+- (b) die MRN der Versandanmeldung gemäss Artikel 42*a*;
 - (c) alle von der Bestimmungszollstelle benötigten Informationen.
 
 <sup>2.</sup> Hat die Vorlage bzw. Gestellung nach Ablauf der Frist stattgefunden, welche die Abgangszollstelle gemäss Artikel 34 Absatz 1 gesetzt hat, gilt die Frist als eingehalten, wenn der Inhaber des Verfahrens oder der Beförderer der Bestimmungszollstelle gegenüber nachweist, dass er nicht für die Verspätung verantwortlich ist.
 
-<sup>3.</sup> Die Bestimmungszollstelle behält das Versandbegleitdokument ein.
+<sup>3.</sup> Wird der Bestimmungszollstelle ein Versandbegleitdokument auf Papier vorgelegt, so behält sie es ein.
 
 Die Bestimmungszollstelle führt in der Regel anhand der Angaben der Anmeldung zum gemeinsamen Versandverfahren, die sie von der Abgangszollstelle erhalten hat, Zollkontrollen durch.
 
@@ -1138,9 +1154,9 @@ Wird das gemeinsame Versandverfahren beendet, ohne dass die Bestimmungszollstell
 
 **Eingangsbescheinigung**
 
-<sup>1.</sup> Auf Verlangen der Person, die der Bestimmungszollstelle die Waren gestellt, versieht diese Zollstelle eine Bescheinigung, mit der die Gestellung der Waren und die Vorlage des Versandbegleitdokuments bei dieser Zollstelle bestätigt wird, mit einem Sichtvermerk.
+<sup>1.</sup> Auf Verlangen der Person, die der Bestimmungszollstelle die Waren gestellt, versieht diese Zollstelle eine Bescheinigung, mit der die Gestellung der Waren bei dieser Zollstelle bestätigt wird.
 
-Die Bescheinigung enthält eine Bezugnahme auf die MRN der Versandanmeldung.
+Diese Bescheinigung enthält eine Bezugnahme auf die MRN der Versandanmeldung.
 
 <sup>2.</sup> Die Bescheinigung wird unter Verwendung des Formulars in Anhang B10 der Anlage III ausgestellt und ist von der betreffenden Person im Voraus auszufüllen.
 
@@ -1150,13 +1166,9 @@ Die Bescheinigung enthält eine Bezugnahme auf die MRN der Versandanmeldung.
 
 **Wareneingangsmeldung im gemeinsamen Versandverfahren und Kontrollergebnisse**
 
-<sup>1.</sup> Die Bestimmungszollstelle setzt die Abgangszollstelle am Tag der Gestellung der Waren und der Vorlage des Versandbegleitdokuments gemäss Artikel 45 Absatz 1 vom Eintreffen der Waren in Kenntnis.
+<sup>1.</sup> Die Bestimmungszollstelle setzt die Abgangszollstelle am Tag der Gestellung der Waren unter Angabe der MRN der Versandanmeldung gemäss Artikel 45 Absatz 1 vom Eintreffen der Waren in Kenntnis.
 
-Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 setzt die Bestimmungszollstelle die Abgangszollstelle am Tag der Gestellung der Waren und der Vorlage des Versandbegleitdokuments mit der MRN der Versandanmeldung gemäss Artikel 45 Absatz 1 vom Eintreffen der Waren in Kenntnis.
-
-<sup>2.</sup> Endet der Vorgang des gemeinsamen Versandverfahrens bei einer anderen Zollstelle als in der Versandanmeldung angegeben, setzt die gemäss Artikel 45 Absatz 5 als Bestimmungszollstelle geltende Zollstelle die Abgangszollstelle am Tag der Gestellung der Waren und der Vorlage des Versandbegleitdokuments gemäss Artikel 45 Absatz 1 vom Eintreffen der Waren in Kenntnis.
-
-Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 setzt die gemäss Artikel 45 Absatz 5 als Bestimmungszollstelle geltende Zollstelle die Abgangszollstelle am Tag der Gestellung der Waren und der Vorlage des Versandbegleitdokuments mit der MRN der Versandanmeldung gemäss Artikel 45 Absatz 1 vom Eintreffen der Waren in Kenntnis, wenn der Vorgang des gemeinsamen Versandverfahrens bei einer anderen Zollstelle endet als in der Versandanmeldung angegeben.
+<sup>2.</sup> Endet der Vorgang des gemeinsamen Versandverfahrens bei einer anderen Zollstelle als in der Versandanmeldung angegeben, so setzt die gemäss Artikel 45 Absatz 5 als Bestimmungszollstelle geltende Zollstelle die Abgangszollstelle am Tag der Gestellung der Waren unter Angabe der MRN der Versandanmeldung gemäss Artikel 45 Absatz 1 vom Eintreffen der Waren in Kenntnis.
 
 Die Abgangszollstelle setzt die in der Versandanmeldung angegebene Bestimmungszollstelle vom Eintreffen der Waren in Kenntnis.
 
@@ -1166,7 +1178,7 @@ Die Abgangszollstelle setzt die in der Versandanmeldung angegebene Bestimmungszo
 
 <sup>5.</sup> Werden die Waren von einem zugelassenen Empfänger gemäss Artikel 87 empfangen, so ist die Abgangszollstelle abweichend von Absatz 4 dieses Artikels spätestens am sechsten Tag nach dem Tag der Lieferung der Waren an den zugelassenen Empfänger zu unterrichten.
 
-Werden bei der Warenbeförderung im Eisenbahnverkehr wegen technischer Probleme ein oder mehrere Eisenbahnwagen gemäss Artikel 44 Absatz 2 Buchstabe b von einem Zug mit mehreren Eisenbahnwagen abgekoppelt, so wird ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 die Abgangszollstelle spätestens am zwölften Tag nach dem Tag, an dem der erste Teil der Waren gestellt wurde, unterrichtet.
+Werden bei der Warenbeförderung im Eisenbahnverkehr wegen technischer Probleme ein oder mehrere Eisenbahnwagen gemäss Artikel 44 Absatz 2 Buchstabe b von einem Zug mit mehreren Eisenbahnwagen abgekoppelt, so wird ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 die Abgangszollstelle spätestens am zwölften Tag nach dem Tag, an dem der erste Teil der Waren gestellt wurde, unterrichtet.
 
 ### Kapitel VI: Förmlichkeiten im Zusammenhang mit der Beendigung des Verfahrens
 
@@ -1202,7 +1214,7 @@ Erhält die Zollbehörde des Abgangslandes jedoch vor Ablauf dieser Fristen Info
 
 <sup>5.</sup> Hat die Bestimmungszollstelle nach einem Ersuchen gemäss Absatz 2 keine ausreichenden Informationen für die Erledigung des gemeinsamen Versandverfahrens erhalten, so ersucht die Zollbehörde des Abgangslandes spätestens 28 Tage nach Einleitung des Suchverfahrens den Inhaber des Verfahrens um diese Informationen.
 
-Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 ersucht die Zollbehörde des Abgangslandes spätestens 35 Tage nach Einleitung des Suchverfahrens den Inhaber des Verfahrens um Informationen, wenn die Bestimmungszollstelle nach einem Ersuchen gemäss Absatz 2 keine ausreichenden Informationen für die Erledigung des gemeinsamen Versandverfahrens erhalten hat.
+Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 ersucht die Zollbehörde des Abgangslandes spätestens 35 Tage nach Einleitung des Suchverfahrens den Inhaber des Verfahrens um Informationen, wenn die Bestimmungszollstelle nach einem Ersuchen gemäss Absatz 2 keine ausreichenden Informationen für die Erledigung des gemeinsamen Versandverfahrens erhalten hat.
 
 Der Inhaber des Verfahrens muss dieses Ersuchen innerhalb von 28 Tagen nach seiner Übermittlung beantworten.
 
@@ -1317,11 +1329,9 @@ Die Bewilligungen gemäss Artikel 1 Buchstabe i zur Verwendung einer Zollanmeldu
 - a) Warenbeförderungen im Eisenbahnverkehr;
 - b) Warenbeförderungen im Luftverkehr, wenn als Versandanmeldung kein elektronisches Beförderungsdokument verwendet wird.
 
-<sup>3.</sup> Bis zu den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 gilt das papiergestützte gemeinsame Versandverfahren für auf dem Luftweg beförderte Waren gemäss Absatz 1 Buchstabe e oder das papiergestützte gemeinsame Versandverfahren speziell für im Eisenbahnverkehr beförderte Waren gemäss Absatz 1 Buchstabe f. Nach diesen Zeitpunkten finden diese gemeinsamen Versandverfahren keine Anwendung mehr.
+<sup>3.</sup> Bis zu den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 gilt das papiergestützte gemeinsame Versandverfahren für auf dem Luftweg beförderte Waren gemäss Absatz 1 Buchstabe e oder das papiergestützte gemeinsame Versandverfahren speziell für im Eisenbahnverkehr beförderte Waren gemäss Absatz 1 Buchstabe f. Nach diesen Zeitpunkten finden diese gemeinsamen Versandverfahren keine Anwendung mehr.
 
-…
-
-Bis zu den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 findet die Vereinfachung gemäss Absatz 1 Buchstabe i keine Anwendung.
+Bis zu den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 findet die Vereinfachung gemäss Absatz 1 Buchstabe i keine Anwendung.
 
 #### Art. 56
 
@@ -1596,7 +1606,7 @@ Liegen der Zollstelle der Sicherheitsleistung die zur Ermittlung des Referenzbet
 
 Sollte der Referenzbetrag zur Absicherung der Vorgänge dieser Person nicht mehr ausreichen, unterrichtet sie die Zollstelle der Sicherheitsleistung hiervon.
 
-<sup>6.</sup> Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 überwachen die Zollbehörden die Sicherheitsleistung.
+<sup>6.</sup> Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 überwachen die Zollbehörden die Sicherheitsleistung.
 
 Die Überwachung des Referenzbetrags, der den Betrag der Schuld absichert, die möglicherweise im Zusammenhang mit in das gemeinsame Versandverfahren übergeführten Waren zu zahlen ist, wird für jeden Vorgang des gemeinsamen Versandverfahrens mit Mitteln des elektronischen Systems gemäss Artikel 4 Absatz 1 zu dem Zeitpunkt gewährleistet, zu dem die Waren in das gemeinsame Versandverfahren übergeführt werden.
 
@@ -1616,41 +1626,38 @@ Der Betrag der Gesamtsicherheit wird verringert auf:
 
   50 Prozent des gemäss Artikel 74 festgesetzten Betrags, wenn die folgenden Voraussetzungen erfüllt sind:
 
-  - i) der Antragsteller verwendet ein Buchführungssystem, das den allgemein anerkannten Buchführungsgrundsätzen der Vertragspartei, in der die Bücher geführt werden, entspricht, das auf Buchprüfungen basierende Zollkontrollen ermöglicht und in dem die Daten so archiviert werden, dass zum Zeitpunkt der Dateneingabe ein Prüfpfad entsteht;
-  - ii) der Antragsteller verfügt über eine Verwaltungsorganisation, die Art und Grösse des Unternehmens entspricht und für die Verwaltung der Warenbewegungen geeignet ist, sowie über interne Kontrollen, mit denen Fehler verhindert, erkannt und korrigiert sowie illegale oder nicht ordnungsgemässe Geschäfte verhindert und erkannt werden können;
-  - iii) der Antragsteller befindet sich nicht in einem Insolvenzverfahren;
-  - iv) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Schulden, die bei oder im Zusammenhang mit der Einfuhr oder der Ausfuhr von Waren erhoben wurden, nachgekommen;
+  - i) der Antragsteller verwendet ein Buchführungssystem, das den allgemein anerkannten Buchführungsgrundsätzen der Vertragspartei, in der die Bücher geführt werden, entspricht, das auf Buchprüfungen basierende Zollkontrollen ermöglicht und in dem die Daten so archiviert werden, dass zum Zeitpunkt der Dateneingabe ein Prüfpfad entsteht,
+  - ii) der Antragsteller verfügt über eine Verwaltungsorganisation, die Art und Grösse des Unternehmens entspricht und für die Verwaltung der Warenbewegungen geeignet ist, sowie über interne Kontrollen, mit denen Fehler verhindert, erkannt und korrigiert sowie illegale oder nicht ordnungsgemässe Geschäfte verhindert und erkannt werden können,
+  - iii) der Antragsteller befindet sich nicht in einem Insolvenzverfahren,
+  - iv) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Schulden, die bei oder im Zusammenhang mit der Einfuhr oder der Ausfuhr von Waren erhoben wurden, nachgekommen,
   - v) der Antragsteller weist anhand von Aufzeichnungen und Daten der letzten drei Jahre vor Antragstellung nach, dass er über eine ausreichende finanzielle Leistungsfähigkeit verfügt, um seinen Verpflichtungen in Bezug auf Art und Umfang seiner Geschäftstätigkeit nachzukommen, und vor allem keinen Negativsaldo bei den Aktiva ausweist, es sei denn, dieser kann ausgeglichen werden;
-  - vi) …
 
 - (b)
 
   30 Prozent des gemäss Artikel 74 festgesetzten Betrags, wenn die folgenden Voraussetzungen erfüllt sind:
 
-  - i) der Antragsteller verwendet ein Buchführungssystem, das den allgemein anerkannten Buchführungsgrundsätzen der Vertragspartei, in der die Bücher geführt werden, entspricht, das auf Buchprüfungen basierende Zollkontrollen ermöglicht und in dem die Daten so archiviert werden, dass zum Zeitpunkt der Dateneingabe ein Prüfpfad entsteht;
-  - ii) der Antragsteller verfügt über eine Verwaltungsorganisation, die Art und Grösse des Unternehmens entspricht und für die Verwaltung der Warenbewegungen geeignet ist, sowie über interne Kontrollen, mit denen Fehler verhindert, erkannt und korrigiert sowie illegale oder nicht ordnungsgemässe Geschäfte verhindert und erkannt werden können;
-  - iii) der Antragsteller trägt dafür Sorge, dass das betreffende Personal angewiesen ist, die Zollbehörden über jegliches Problem hinsichtlich der Einhaltung der Vorschriften zu unterrichten, und legt Verfahren für diese Unterrichtung fest;
-  - iv) der Antragsteller befindet sich nicht in einem Insolvenzverfahren;
-  - v) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Schulden, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr von Waren erhoben wurden, nachgekommen;
+  - i) der Antragsteller verwendet ein Buchführungssystem, das den allgemein anerkannten Buchführungsgrundsätzen der Vertragspartei, in der die Bücher geführt werden, entspricht, das auf Buchprüfungen basierende Zollkontrollen ermöglicht und in dem die Daten so archiviert werden, dass zum Zeitpunkt der Dateneingabe ein Prüfpfad entsteht,
+  - ii) der Antragsteller verfügt über eine Verwaltungsorganisation, die Art und Grösse des Unternehmens entspricht und für die Verwaltung der Warenbewegungen geeignet ist, sowie über interne Kontrollen, mit denen Fehler verhindert, erkannt und korrigiert sowie illegale oder nicht ordnungsgemässe Geschäfte verhindert und erkannt werden können,
+  - iii) der Antragsteller trägt dafür Sorge, dass das betreffende Personal angewiesen ist, die Zollbehörden über jegliches Problem hinsichtlich der Einhaltung der Vorschriften zu unterrichten, und legt Verfahren für diese Unterrichtung fest,
+  - iv) der Antragsteller befindet sich nicht in einem Insolvenzverfahren,
+  - v) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Schulden, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr von Waren erhoben wurden, nachgekommen,
   - vi) der Antragsteller weist anhand von Aufzeichnungen und Daten der letzten drei Jahre vor Antragstellung nach, dass er über eine ausreichende finanzielle Leistungsfähigkeit verfügt, um seinen Verpflichtungen in Bezug auf Art und Umfang seiner Geschäftstätigkeit nachzukommen, und vor allem keinen Negativsaldo bei den Aktiva ausweist, es sei denn, dieser kann ausgeglichen werden;
-  - vii) …
 
 - (c)
 
   0 Prozent des gemäss Artikel 74 festgesetzten Betrags, wenn die folgenden Voraussetzungen erfüllt sind:
 
-  - i) der Antragsteller verwendet ein Buchführungssystem, das den allgemein anerkannten Buchführungsgrundsätzen der Vertragspartei, in der die Bücher geführt werden, entspricht, das auf Buchprüfungen basierende Zollkontrollen ermöglicht und in dem die Daten so archiviert werden, dass zum Zeitpunkt der Dateneingabe ein Prüfpfad entsteht;
-  - ii) der Antragsteller gestattet der Zollbehörde den physischen Zugang zu seinen Buchführungssystemen sowie gegebenenfalls zu seinen Geschäftsbüchern und Beförderungsunterlagen;
-  - iii) der Antragsteller verfügt über ein Logistiksystem, das eine Unterscheidung zwischen Waren im freien Verkehr in der Vertragspartei und Nicht-Unionswaren zulässt und gegebenenfalls deren Lokalisierung ermöglicht;
-  - iv) der Antragsteller verfügt über eine Verwaltungsorganisation, die Art und Grösse des Unternehmens entspricht und für die Verwaltung der Warenbewegungen geeignet ist, sowie über interne Kontrollen, mit denen Fehler verhindert, erkannt und korrigiert sowie illegale oder nicht ordnungsgemässe Geschäfte verhindert und erkannt werden können;
-  - v) der Antragsteller verfügt gegebenenfalls über ausreichende Verfahren für die Bearbeitung von Lizenzen und Genehmigungen, die auf der Grundlage handelspolitischer Massnahmen erteilt wurden oder sich auf den Handel mit landwirtschaftlichen Erzeugnissen beziehen;
-  - vi) der Antragsteller verfügt über ausreichende Verfahren für die Archivierung seiner Aufzeichnungen und Informationen und für den Schutz vor Informationsverlust;
-  - vii) der Antragsteller trägt dafür Sorge, dass das betreffende Personal angewiesen ist, die Zollbehörden über jegliches Problem hinsichtlich der Einhaltung der Vorschriften zu unterrichten, und legt Verfahren für diese Unterrichtung fest;
-  - viii) der Antragsteller verfügt über geeignete Sicherheitsmassnahmen zum Schutz seines Computersystems vor unbefugtem Eindringen und zur Sicherung seiner Unterlagen;
-  - ix) der Antragsteller befindet sich nicht in einem Insolvenzverfahren;
-  - x) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Schulden, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr von Waren erhoben wurden, nachgekommen;
-  - xi) der Antragsteller weist anhand von Aufzeichnungen und Daten der letzten drei Jahre vor Antragstellung nach, dass er über eine ausreichende finanzielle Leistungsfähigkeit verfügt, um seinen Verpflichtungen in Bezug auf Art und Umfang seiner Geschäftstätigkeit nachzukommen, und vor allem keinen Negativsaldo bei den Aktiva ausweist, es sei denn, dieser kann ausgeglichen werden;
-  - xii) …
+  - i) der Antragsteller verwendet ein Buchführungssystem, das den allgemein anerkannten Buchführungsgrundsätzen der Vertragspartei, in der die Bücher geführt werden, entspricht, das auf Buchprüfungen basierende Zollkontrollen ermöglicht und in dem die Daten so archiviert werden, dass zum Zeitpunkt der Dateneingabe ein Prüfpfad entsteht,
+  - ii) der Antragsteller gestattet der Zollbehörde den physischen Zugang zu seinen Buchführungssystemen sowie gegebenenfalls zu seinen Geschäftsbüchern und Beförderungsunterlagen,
+  - iii) der Antragsteller verfügt über ein Logistiksystem, das eine Unterscheidung zwischen Waren im freien Verkehr in der Vertragspartei und Nicht-Unionswaren zulässt und gegebenenfalls deren Lokalisierung ermöglicht,
+  - iv) der Antragsteller verfügt über eine Verwaltungsorganisation, die Art und Grösse des Unternehmens entspricht und für die Verwaltung der Warenbewegungen geeignet ist, sowie über interne Kontrollen, mit denen Fehler verhindert, erkannt und korrigiert sowie illegale oder nicht ordnungsgemässe Geschäfte verhindert und erkannt werden können,
+  - v) der Antragsteller verfügt gegebenenfalls über ausreichende Verfahren für die Bearbeitung von Lizenzen und Genehmigungen, die auf der Grundlage handelspolitischer Massnahmen erteilt wurden oder sich auf den Handel mit landwirtschaftlichen Erzeugnissen beziehen,
+  - vi) der Antragsteller verfügt über ausreichende Verfahren für die Archivierung seiner Aufzeichnungen und Informationen und für den Schutz vor Informationsverlust,
+  - vii) der Antragsteller trägt dafür Sorge, dass das betreffende Personal angewiesen ist, die Zollbehörden über jegliches Problem hinsichtlich der Einhaltung der Vorschriften zu unterrichten, und legt Verfahren für diese Unterrichtung fest,
+  - viii) der Antragsteller verfügt über geeignete Sicherheitsmassnahmen zum Schutz seines Computersystems vor unbefugtem Eindringen und zur Sicherung seiner Unterlagen,
+  - ix) der Antragsteller befindet sich nicht in einem Insolvenzverfahren,
+  - x) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Schulden, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr von Waren erhoben wurden, nachgekommen,
+  - xi) der Antragsteller weist anhand von Aufzeichnungen und Daten der letzten drei Jahre vor Antragstellung nach, dass er über eine ausreichende finanzielle Leistungsfähigkeit verfügt, um seinen Verpflichtungen in Bezug auf Art und Umfang seiner Geschäftstätigkeit nachzukommen, und vor allem keinen Negativsaldo bei den Aktiva ausweist, es sei denn, dieser kann ausgeglichen werden.
 
 <sup>3.</sup> Bei der Prüfung, ob der Antragsteller über eine ausreichende finanzielle Leistungsfähigkeit verfügt, sodass eine Bewilligung für die Anwendung einer Gesamtsicherheit mit verringertem Betrag oder eine Befreiung von der Sicherheitsleistung gemäss Absatz 2 Buchstabe a Ziffer v, Absatz 2 Buchstabe b Ziffer vi und Absatz 2 Buchstabe c Ziffer xi erteilt werden kann, berücksichtigen die Zollbehörden, ob der Antragsteller seinen Verpflichtungen zur Begleichung seiner Schulden und anderer Abgaben, die möglicherweise entstehen und von der Sicherheitsleistung nicht abgedeckt sind, nachkommen kann.
 
@@ -1690,7 +1697,7 @@ Die Inanspruchnahme der Gesamtsicherheit und der Gesamtsicherheit mit verringert
 
 **Gesamtsicherheitsbescheinigung und Bescheinigung über die Befreiung von der Sicherheitsleistung**
 
-<sup>1.</sup> Auf der Grundlage der Bewilligung erhält der Inhaber des Verfahrens von der Zollstelle der Sicherheitsleistung eine oder mehrere unter Verwendung des Formulars in Anhang C5 der Anlage III ausgestellte Gesamtsicherheitsbescheinigung oder eine oder mehrere nach dem Formular in Anhang C6 der Anlage III ausgestellte Bescheinigungen über die Befreiung von der Sicherheitsleistung, anhand deren der Inhaber des Verfahrens die Leistung einer Gesamtsicherheit oder die Befreiung von der Sicherheitsleistung gemäss Artikel 26 Absatz 1 Buchstabe b nachweisen kann.
+<sup>1.</sup> Auf der Grundlage der Bewilligung und auf Ersuchen des Inhabers des Verfahrens erhält dieser von der Zollstelle der Sicherheitsleistung eine oder mehrere unter Verwendung des Formulars in Anhang C5 der Anlage III ausgestellte Gesamtsicherheitsbescheinigung(en) oder eine oder mehrere nach dem Formular in Anhang C6 der Anlage III ausgestellte Bescheinigung(en) über die Befreiung von der Sicherheitsleistung, anhand deren der Inhaber des Verfahrens die Leistung einer Gesamtsicherheit oder die Befreiung von der Sicherheitsleistung gemäss Artikel 26 Absatz 1 Buchstabe b nachweisen kann.
 
 <sup>2.</sup> Die Geltungsdauer einer Bescheinigung ist auf zwei Jahre befristet. Sie kann jedoch von der Zollstelle der Sicherheitsleistung einmal um höchstens zwei Jahre verlängert werden.
 
@@ -1786,7 +1793,7 @@ Der zugelassene Versender gibt folgende Angaben in das elektronische Versandsyst
 
 <sup>3.</sup> Der zugelassene Versender darf erst dann ein Versandbegleitdokument ausdrucken, wenn die Abgangszollstelle ihm mitgeteilt hat, dass die Waren in das gemeinsame Versandverfahren übergeführt sind.
 
-Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des elektronischen Versandsystems gemäss Artikel 4 druckt der zugelassene Versender ein Versandbegleitdokument aus, sofern die Abgangszollstelle ihm mitgeteilt hat, dass die Waren in das gemeinsame Versandverfahren übergeführt sind.
+Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS darf der zugelassene Versender ein Versandbegleitdokument ausdrucken, sofern die Abgangszollstelle ihm mitgeteilt hat, dass die Waren in das gemeinsame Versandverfahren übergeführt sind.
 
 ### Kapitel V: Status eines zugelassenen Empfängers
 
@@ -2114,7 +2121,7 @@ Aufgehoben
 
 **Konsultation vor der Bewilligung zur Verwendung eines elektronischen Beförderungsdokuments als Versandanmeldung für den Luftverkehr**
 
-<sup>1.</sup> Die für die Erteilung der Bewilligung zuständige Zollbehörde prüft, ob die in Artikel 57 Absatz 4 festgelegten Voraussetzungen für die Erteilung der Bewilligung zur Verwendung eines elektronischen Beförderungsdokuments als Versandanmeldung für den Luftverkehr gemäss Artikel 55 Absatz 1 Buchstabe h erfüllt sind und konsultiert die Zollbehörden am Abgangs- und am Bestimmungsflughafen.
+<sup>1.</sup> Die für die Erteilung der Bewilligung zuständige Zollbehörde prüft, ob die in Artikel Artikel 57 Absatz 5 festgelegten Voraussetzungen für die Erteilung der Bewilligung zur Verwendung eines elektronischen Beförderungsdokuments als Versandanmeldung für den Luftverkehr gemäss Artikel 55 Absatz 1 Buchstabe h erfüllt sind und konsultiert die Zollbehörden am Abgangs- und am Bestimmungsflughafen.
 
 Stellt die konsultierte Zollbehörde nach der in Unterabsatz 1 genannten Prüfung fest, dass der Antragsteller eine oder mehrere der Voraussetzungen und Kriterien für die Erteilung der Bewilligung nicht erfüllt, so wird das ordnungsgemäss dokumentierte und begründete Ergebnis der für die Erteilung der Bewilligung zuständigen Zollbehörde übermittelt.
 
@@ -2340,14 +2347,14 @@ Anhang II zu Anlage I
 
   - – das Einheitspapier oder
   - – das vom EDV-System des Wirtschaftsbeteiligten formlos auf Papier gedruckte Einheitspapier, wie in Anhang B6 der Anlage III vorgesehen, oder
-  - ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS das vom EDV-System des Wirtschaftsbeteiligten formlos auf Papier gedruckte Einheitspapier, wie in Anhang B6a der Anlage III vorgesehen, oder
+  - ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS das vom EDV-System des Wirtschaftsbeteiligten formlos auf Papier gedruckte Einheitspapier, wie in Anhang B6a der Anlage III vorgesehen, oder
   - – ein Versandbegleitdokument, erforderlichenfalls ergänzt durch die Liste der Warenpositionen;
-  - ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS ein Versandbegleitdokument, erforderlichenfalls ergänzt durch die Liste der Warenpositionen.
+  - ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS ein Versandbegleitdokument, erforderlichenfalls ergänzt durch die Liste der Warenpositionen.
 
 - 2\.2 Die papiergestützte Versandanmeldung kann durch einen oder mehrere Ergänzungsformulare gemäss Anhang I Anlage 3 des am 20. Mai 1987 in Interlaken geschlossenen Übereinkommens über die Vereinfachung der Förmlichkeiten im Warenverkehr (im Folgenden «Übereinkommen über das Einheitspapier») ergänzt werden. Die Formulare sind Bestandteil der Anmeldung. Anstelle von Ergänzungsformularen können als beschreibender Teil einer schriftlichen Versandanmeldung Ladelisten gemäss Anhang B5 der Anlage III verwendet werden, die unter Verwendung des Formulars in Anhang B4 der Anlage III zu erstellen und Bestandteil der Anmeldung sind.
-- Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS können anstelle von Ergänzungsformularen als beschreibender Teil einer schriftlichen Versandanmeldung Ladelisten gemäss Anhang B5a der Anlage III verwendet werden, die unter Verwendung des Formulars in Anhang B4a der Anlage III zu erstellen und Bestandteil der Anmeldung sind.
+- Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS können anstelle von Ergänzungsformularen als beschreibender Teil einer schriftlichen Versandanmeldung Ladelisten gemäss Anhang B5a der Anlage III verwendet werden, die unter Verwendung des Formulars in Anhang B4a der Anlage III zu erstellen und Bestandteil der Anmeldung sind.
 - 2\.3 Für die Anwendung der Nummer 2.1 dieses Anhangs wird die Versandanmeldung gemäss Anhang B6 der Anlage III ausgefüllt.
-- Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS wird für die Anwendung der Nummer 2.1 dieses Anhangs die Versandanmeldung gemäss Anhang B6a der Anlage III ausgefüllt.
+- Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS wird für die Anwendung der Nummer 2.1 dieses Anhangs die Versandanmeldung gemäss Anhang B6a der Anlage III ausgefüllt.
 
 ### Kapitel II: Durchführungsvorschriften
 
@@ -2357,7 +2364,7 @@ Anhang II zu Anlage I
   Die Vorschriften werden wie folgt umgesetzt:
 
   - – Die Versandanmeldung wird bei der Abgangszollstelle in den Exemplaren Nr. 1, 4 und 5 des Einheitspapiers gemäss dem Übereinkommen über das Einheitspapier oder in zwei Exemplaren des Versandbegleitdokuments, gegebenenfalls ergänzt durch die Liste der Warenpositionen, gemäss den Anhängen A3, A4, A5 und A6 der Anlage III abgegeben.
-  - Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS wird die Versandanmeldung bei der Abgangszollstelle in den Exemplaren Nr. 1, 4 und 5 des Einheitspapiers gemäss dem Übereinkommen über das Einheitspapier oder in zwei Exemplaren des Versandbegleitdokuments, gegebenenfalls ergänzt durch die Liste der Warenpositionen, gemäss den Anhängen A3a, A4a, A5a und A6a der Anlage III ausgefüllt und abgegeben.
+  - Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS wird die Versandanmeldung bei der Abgangszollstelle in den Exemplaren Nr. 1, 4 und 5 des Einheitspapiers gemäss dem Übereinkommen über das Einheitspapier oder in zwei Exemplaren des Versandbegleitdokuments, gegebenenfalls ergänzt durch die Liste der Warenpositionen, gemäss den Anhängen A3a, A4a, A5a und A6a der Anlage III ausgefüllt und abgegeben.
   - – Die Versandanmeldung wird in Feld C unter Verwendung eines Nummerierungssystem registriert, das sich von dem bei der Registrierung im elektronischen Versandsystem unterscheidet.
   - – Auf das Betriebskontinuitätsverfahren wird auf den Exemplaren der Versandanmeldung in Feld A des Einheitspapiers mit einem der Stempel unter Verwendung der Muster in Anhang B7 der Anlage III oder auf dem Versandbegleitdokument anstelle der MRN und des Strichcodes hingewiesen.
   - – Der zugelassene Versender erfüllt alle Bedingungen und Auflagen für die Eintragungen in die Anmeldung und die Verwendung des unter den Nummern 22 bis 25 dieses Anhangs genannten Sonderstempels unter Verwendung der Felder C und D.
@@ -2454,7 +2461,7 @@ Anhang II zu Anlage I
 - 19\.5 Jedes Land teilt der Europäischen Kommission die näheren Angaben zur Identifizierung der weiterhin gültigen Bescheinigungen mit, die noch nicht zurückgegeben oder als gestohlen, abhandengekommen oder gefälscht gemeldet worden sind. Die Kommission setzt die anderen Länder davon in Kenntnis.
 - 20\. Besondere Ladelisten
 - 20\.1 Die Zollbehörde kann Versandanmeldungen annehmen, denen Ladelisten beigefügt sind, die nicht alle in Anhang B5 der Anlage III aufgeführten Voraussetzungen erfüllen.
-- Ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS kann die Zollbehörde Versandanmeldungen annehmen, denen Ladelisten beigefügt sind, die nicht alle in Anhang B5a der Anlage III aufgeführten Voraussetzungen erfüllen.
+- Ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS kann die Zollbehörde Versandanmeldungen annehmen, denen Ladelisten beigefügt sind, die nicht alle in Anhang B5a der Anlage III aufgeführten Voraussetzungen erfüllen.
 -
 
   Solche Listen dürfen nur verwendet werden, wenn sie:
@@ -2462,7 +2469,7 @@ Anhang II zu Anlage I
   - – von Unternehmen ausgestellt werden, deren Geschäftsunterlagen mit einem elektronischen Datenverarbeitungssystem erstellt werden;
   - – so gestaltet sind und ausgefüllt werden, dass sie ohne Schwierigkeiten von der Zollbehörde ausgewertet werden können;
   - – für jede Warenposition die Angaben gemäss Anhang B5 der Anlage III enthalten;
-  - ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS für jede Warenposition die Angaben gemäss Anhang B5a der Anlage III enthalten.
+  - ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS für jede Warenposition die Angaben gemäss Anhang B5a der Anlage III enthalten.
 
 - 20\.2 Als Ladelisten nach Nummer 20.1 dieses Anhangs können auch zur Erfüllung der Versand- oder Ausfuhrförmlichkeiten verwendete Listen mit einer Beschreibung der Waren zugelassen werden, auch wenn diese Listen von Unternehmen ausgestellt werden, deren Geschäftsunterlagen nicht mit einem elektronischen Datenverarbeitungssystem erstellt werden.
 - 20\.3 Verwendet ein Inhaber des Verfahrens, dessen Geschäftsunterlagen mit einem elektronischen Datenverarbeitungssystem erstellt werden, bereits besondere Ladelisten, kann er diese Listen auch für gemeinsame Versandverfahren verwenden, die nur eine Warenart betreffen, sofern das System des Inhabers des Verfahrens dies erforderlich macht.
@@ -2848,7 +2855,7 @@ Anlage III[^t-5]
 
 ## Versandanmeldung und Vordrucke bei Anwendung von Mitteln der elektronischen Datenverarbeitung
 
-[^t-5]: Fassung gemäss Art. 1 Ziff. 6 und 7 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Ausschusses Nr. 3/2012 vom 26. Juni 2012 ([AS 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), Nr. 4/2012 vom 26. Juni 2012 ([AS 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)[977](https://fedlex.data.admin.ch/eli/oc/2013/207)), Nr. 1/2013 vom 1. Juli 2013 ([AS 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), Nr. 2/2013 vom 7. Nov. 2013 ([AS 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), Nr. 2/2015 vom 17. Juni 2015 ([AS 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), Nr. 4/2015 vom 26. Nov. 2015 ([AS 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), gemäss Art. 1 Ziff. 4–6 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), gemäss Art. 1 des Beschlusses Nr. 1/2018 des Gemischten Ausschusses vom 4. Dez. 2018 ([AS 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) und gemäss Art. 1 des Beschlusses Nr. 3/2022 des Gemischten Ausschusses vom 29. Sept. 2022, in Kraft seit 1. Okt. 2022 (AS **202****3** 297). Gemäss Art. 2 dieses Beschlusses dürfen die in den Anhängen C1 bis C6 wiedergegebenen Vordrucke in der am Tag vor dem Inkrafttreten dieses Beschlusses geltenden Fassung bis zum 1. April 2024 weiter verwendet werden, sofern die notwendigen geografischen Änderungen und die Änderungen hinsichtlich eines Wahldomizils oder eines Zustellungsbevollmächtigten entsprechend vorgenommen werden.
+[^t-5]: Fassung gemäss Art. 1 Ziff. 6 und 7 des Beschlusses Nr. 1/2008 des Gemischten Ausschusses vom 16. Juni 2008 ([AS 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Ausschusses Nr. 3/2012 vom 26. Juni 2012 ([AS 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), Nr. 4/2012 vom 26. Juni 2012 ([AS 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)[977](https://fedlex.data.admin.ch/eli/oc/2013/207)), Nr. 1/2013 vom 1. Juli 2013 ([AS 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), Nr. 2/2013 vom 7. Nov. 2013 ([AS 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), Nr. 2/2015 vom 17. Juni 2015 ([AS 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), Nr. 4/2015 vom 26. Nov. 2015 ([AS 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), gemäss Art. 1 Ziff. 4–6 des Beschlusses Nr. 1/2016 des Gemischten Ausschusses vom 28. April 2016 ([AS 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), gemäss Art. 1 Ziff. 5 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), gemäss Art. 1 Ziff. 3 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019, in Kraft seit 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)), gemäss Art. 1 des Beschlusses Nr. 1/2018 des Gemischten Ausschusses vom 4. Dez. 2018 ([AS 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)) und gemäss Art. 1 des Beschlusses Nr. 3/2022 des Gemischten Ausschusses vom 29. Sept. 2022, in Kraft seit 1. Okt. 2022 ([AS 2023 297](https://fedlex.data.admin.ch/eli/oc/2023/297)). Gemäss Art. 2 dieses Beschlusses dürfen die in den Anhängen C1 bis C6 wiedergegebenen Vordrucke in der am Tag vor dem Inkrafttreten dieses Beschlusses geltenden Fassung bis zum 1. April 2024 weiter verwendet werden, sofern die notwendigen geografischen Änderungen und die Änderungen hinsichtlich eines Wahldomizils oder eines Zustellungsbevollmächtigten entsprechend vorgenommen werden.
 
 #### Art. 1
 
@@ -4630,7 +4637,7 @@ Anhang A3 zu Anlage III
 
 ## Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image1.png)
 
 Anhang A4 zu Anlage III
 
@@ -5776,7 +5783,7 @@ Anhang B9 zu Anlage III
 
 ## Muster für den vom zugelassenen Versender zu verwendenden Sonderstempel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image2.png)
 
 - 1\. Wappen oder sonstige Zeichen oder Buchstaben des Landes
 - 2\. Kennnummer der Abgangszollstelle
@@ -5790,7 +5797,7 @@ Anhang B10 zu Anlage III
 ## Eingangsbescheinigung (TC 11)
 
 <table>
-<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ………… (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am ……………… (TT/MM/JJ) unter der Nr. ……………… (MRN<sup>(2)</sup>) von der Abgangszollstelle von ………………………… (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/de/xml/image/image3.png) (Ort) ……………, den …………… (TT/MM/JJ) …………………………………………………… (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
+<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ………… (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am ……………… (TT/MM/JJ) unter der Nr. ……………… (MRN<sup>(2)</sup>) von der Abgangszollstelle von ………………………… (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image3.png) (Ort) ……………, den …………… (TT/MM/JJ) …………………………………………………… (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
 </table>
 
 Anhang B11 zu Anlage III
@@ -5799,7 +5806,7 @@ Anhang B11 zu Anlage III
 
 (Versandverfahren im Eisenbahnverkehr)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image4.png)
 
 Anhang C1 zu Anlage III
 
@@ -5935,7 +5942,7 @@ Anhang C3 zu Anlage III
 
 ## Einzelsicherheitstitel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image5.png)
 
 Technische Anforderungen an den Sicherheitstitel
 
@@ -6126,13 +6133,15 @@ Anlage IIIa[^t-6]
 
 ## Versandanmeldungen, Versandbegleitdokumente und sonstige Papiere
 
-[^t-6]: Eingefügt durch Art. 1 Ziff. 4, 6 und 7 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)). Bereinigt gemäss Art. 1 Ziff. 4 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) und Art. 1 Ziff. 2 des Beschlusses Nr. 1/2022 des Gemischten Ausschusses vom 25. Aug. 2022, in Kraft für die Schweiz seit 25. Aug. 2022 ([AS 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)).
+[^t-6]: Eingefügt durch Art. 1 Ziff. 4, 6 und 7 des Beschlusses Nr. 1/2017 des Gemischten Ausschusses vom 5. Dez. 2017 ([AS 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)). Bereinigt gemäss Art. 1 Ziff. 4 des Beschlusses Nr. 1/2019 des Gemischten Ausschusses vom 4. Dez. 2019 ([AS 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) und Art. 1 Ziff. 2 des Beschlusses Nr. 1/2022 des Gemischten Ausschusses vom 25. Aug. 2022 ([AS 2023 60](https://fedlex.data.admin.ch/eli/oc/2023/60)) und Art. 1 Ziff. 2 des Beschlusses Nr. 1/2024 des Gemischten Ausschusses vom 18. Okt. 2024, in Kraft für die Schweiz seit 18. Okt. 2024 ([AS 2025 302](https://fedlex.data.admin.ch/eli/oc/2025/302)).
 
-Diese Anlage gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkt der Anpassung des NCTS.
+Diese Anlage gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission[^annexIIIbis-lvlu1-1] angegebenen Zeitpunkt der Anpassung des NCTS.
 
 #### Art. 1
 
 Diese Anlage enthält die Bestimmungen, Vordrucke und Muster für die Erstellung der Versandanmeldungen, der Versandbegleitdokumente und sonstigen Papiere, die im gemeinsamen Versandverfahren gemäss den Anlagen I und II zu verwenden sind.
+
+[^annexIIIbis-lvlu1-1]: Durchführungsbeschluss (EU) 2023/2879 der Kommission vom 15. Dezember 2023 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der im Zollkodex der Union vorgesehenen elektronischen Systeme (ABl. L, 2023/2879, 22.12.2023, ELI: [http://data.europa.eu/eli/dec\_impl/2023/2879/oj](https://eur-lex.europa.eu/eli/dec_impl/2023/2879/oj)).
 
 ### Titel I: Versandanmeldung und Vordrucke bei Anwendung von Mitteln der elektronischen Datenverarbeitung
 
@@ -6257,31 +6266,31 @@ Anhang A1a zu Anlage IIIa
 
 ## Gemeinsame Datenanforderungen für Versandanmeldungen
 
-Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2016/578 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS, mit Ausnahme der Bestimmungen über Datenelemente, die sich auf ein elektronisches Beförderungsdokument als Versandanmeldung gemäss Artikel 55 Absatz 1 Buchstabe h der Anlage I beziehen, die spätestens ab dem 1. Mai 2018 gelten.
+Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 oder in jeglicher späteren Aktualisierung dieses Beschlusses angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS, mit Ausnahme der Bestimmungen über Datenelemente, die sich auf ein elektronisches Beförderungsdokument als Versandanmeldung gemäss Artikel 55 Absatz 1 Buchstabe h der Anlage I beziehen, die spätestens ab dem 1. Mai 2018 gelten.
 
 ### Titel I: Datenanforderungen
 
-### Kapitel I: Einleitende Bemerkungen zur Tabelle mit den Datenanforderungen
+### Kapitel I Einleitende Bemerkungen zur Tabelle mit den Datenanforderungen
 
-(1) Die Datenelemente, Formate, Codes und gegebenenfalls die Struktur der Datenelemente in diesem Anhang gelten für Versandanmeldungen, die mit Mitteln der elektronischen Datenverarbeitung erstellt werden sowie für papiergestützte Anmeldungen.
+\1. Die Datenelemente, Formate und Codes sowie gegebenenfalls die Struktur der Datenelemente im Sinne dieses Anhangs gelten für Versandanmeldungen, die mit Mitteln der elektronischen Datenverarbeitung erstellt werden, sowie für papiergestützte Anmeldungen.
 
-(2) Die Datenelemente, die für jedes Versandverfahren angegeben werden können, und die Formate der Datenelemente gehen aus der Tabelle mit den Datenanforderungen in Titel II hervor. Der Status der in der Tabelle mit den Datenanforderungen festgelegten Datenelemente wird durch die in Titel III näher erläuterten spezifischen Vorschriften zu den einzelnen Datenelementen nicht berührt.
+\2. Die Datenelemente, die für jedes Versandverfahren angegeben werden können, und die Formate der Datenelemente gehen aus der Tabelle mit den Datenanforderungen in Titel II hervor. Der Status der in der Tabelle mit den Datenanforderungen festgelegten Datenelemente wird durch die in Titel III festgelegten spezifischen Vorschriften zu den einzelnen Datenelementen nicht berührt.
 
 Die Datenelemente sind in der Reihenfolge ihrer Datenelementnummer aufgeführt.
 
-(3) Die Zeichen «A», «B» oder «C» in der Tabelle in Titel II haben keinen Einfluss auf die Tatsache, dass bestimmte Daten nur erhoben werden, wenn die Umstände es erfordern. So wird beispielsweise das D.E. 18 09 057 000 Code der Kombinierten Nomenklatur (Status «A») nur erhoben, wenn dies in den Rechtsvorschriften der Vertragsparteien vorgesehen ist.
+\3. Die Zeichen «A», «B» oder «C» in der Tabelle in Titel II haben keinen Einfluss auf die Tatsache, dass bestimmte Daten nur erhoben werden, wenn die Umstände es erfordern. So wird beispielsweise der Code D.E. 18 09 057 000 der Kombinierten Nomenklatur (Status «A») nur erhoben, wenn dies in den Rechtsvorschriften der Vertragsparteien vorgesehen ist.
 
 Sie können um Bedingungen oder Präzisierungen ergänzt werden, die in den nummerierten Anmerkungen zu den Datenanforderungen in Titel II Kapitel II und in den Anmerkungen in Titel III aufgelistet sind.
 
-(4) Ohne die Verpflichtungen zur Bereitstellung von Informationen gemäss diesem Anhang zu berühren und unbeschadet des Artikels 29 der Anlage I basiert der Inhalt der den Zollbehörden für eine bestimmte Anforderung übermittelten Daten auf den dem Wirtschaftsbeteiligten zum Zeitpunkt der Übermittlung an die Zollbehörden bekannten Informationen.
+\4. Ohne die Verpflichtungen zur Bereitstellung von Informationen gemäss diesem Anhang zu berühren und unbeschadet des Artikels 29 der Anlage I basiert der Inhalt der den Zollbehörden für eine bestimmte Datenanforderung übermittelten Daten auf den dem Wirtschaftsbeteiligten zum Zeitpunkt der Übermittlung an die Zollbehörden bekannten Informationen.
 
-(5) Nehmen die Informationen in einer Versandanmeldung gemäss diesem Anhang die Form von Codes an, werden die Codeliste in Titel III oder, sofern vorgesehen, nationale Codes angewendet.
+\5. Nehmen die Informationen in einer Versandanmeldung gemäss diesem Anhang die Form von Codes an, werden die Codeliste in Titel III oder, sofern vorgesehen, nationale Codes angewendet.
 
-(6) Die Länder können nationale Codes für die Datenelemente 12 01 000 000 Vorpapier (Unterelement 12 01 005 000 Masseinheit und Qualifikator), 12 02 000 000 Zusätzliche Informationen (Unterelement 12 02 008 000 Code), 12 03 000 000 Unterlage (Unterelemente 12 03 002 000 Art), 12 04 000 000 Sonstiger Verweis (Unterelement 12 04 002 000 Art), Bescheinigungen und Bewilligungen verwenden.
+\6. Die Länder können nationale Codes für die Datenelemente verwenden: 12 01 000 000 Vorpapier (Unterelement 12 01 002 000 Art und Unterelement 12 01 005 000 Masseinheit und Qualifikator), 12 02 000 000 Zusätzliche Informationen (Unterelement 12 02 008 000 Code), 12 03 000 000 Unterlage (Unterelement 12 03 002 000 Art), 12 04 000 000 Zusätzliche Referenz (Unterelement 12 04 002 000 Art), Bescheinigungen und Bewilligungen.
 
 Mitgliedstaaten der Europäischen Union teilen der Kommission die Liste der für diese Datenelemente verwendeten nationalen Codes mit. Die Liste dieser Codes wird von der Kommission veröffentlicht.
 
-(7) Maximale Kardinalitäten für jedes Versandverfahren:
+\7. Maximale Kardinalitäten für jedes Versandverfahren:
 
 D 1x
 
@@ -6291,39 +6300,36 @@ HC 999x (pro MC für den Versand)
 
 HI 9,999x (pro HC)
 
-(8) Es werden folgende Verweise auf Codelisten, die in internationalen Normen oder in den Rechtsakten der Vertragsparteien festgelegt sind, verwendet:
+\8. Es werden folgende Verweise auf Codelisten, die in internationalen Normen oder in den Rechtsakten der Vertragsparteien festgelegt sind, verwendet:
 
 <table>
 <tr><th></th><th>Kurzbezeichnung</th><th>Quelle</th><th>Begriffsbestimmung</th></tr>
-<tr><td>1.</td><td>Code für die Art der Packstücke</td><td>UN/ECE-Empfehlung Nr. 21</td><td>Code für die Arten der Packstücke gemäss der aktuellen Fassung des Anhangs IV der UN/ECE-Empfehlung Nr. 21</td></tr>
+<tr><td>1.</td><td>Code für die Art der Verpackung</td><td>UN/ECE-Empfehlung Nr. 21</td><td>Code für die Arten der Verpackung gemäss der aktuellen Fassung des Anhangs IV der UN/ECE-Empfehlung Nr. 21</td></tr>
 <tr><td>2.</td><td>Währungscode</td><td>ISO 4217</td><td>Dreistelliger alphabetischer Code gemäss der Internationalen Norm ISO 4217</td></tr>
-<tr><td>3.</td><td>Ländercode</td><td>ISO-Alpha-2-Ländercode (ISO 3166)</td><td>Im Zusammenhang mit Versandverfahren ist der ISO-Alpha-2-Ländercode (ISO 3166) zu verwenden; für Nordirland ist der Code «XI» zu verwenden</td></tr>
+<tr><td>3.</td><td>Ländercode</td><td>ISO-Alpha-2-Ländercode (ISO 3166)</td><td>Im Zusammenhang mit Versandverfahren ist der ISO-Alpha-2-Ländercode (ISO 3166) zu verwenden; der Ländercode für Nordirland lautet «XI»</td></tr>
 <tr><td>4.</td><td>UN/LOCODE</td><td>UN/ECE-Empfehlung Nr. 16</td><td>UN/LOCODE gemäss der Definition in der UN/ECE-Empfehlung Nr. 16</td></tr>
 <tr><td>6.</td><td>Codes für Arten von Beförderungsmitteln</td><td>UN/ECE-Empfehlung Nr. 28</td><td>Codes für Arten von Beförderungsmitteln gemäss der UN/ECE-Empfehlung Nr. 28</td></tr>
 <tr><td>9.</td><td>CUS-Nummern</td><td>ECICS (Europäisches Zollinventar chemischer Substanzen)</td><td>Hauptsächlich chemischen Stoffen und Zubereitungen im Rahmen des Europäischen Zollinventars chemischer Erzeugnisse (ECICS) zugewiesene Kennung (CUS – Customs Union and Statistics)</td></tr>
 </table>
 
-(9) Die in Titel III angegebenen Codes, die in der TARIC-Datenbank enthalten sind, werden im Einvernehmen mit den Vertragsparteien festgelegt.
+\9. Die in Titel III angegebenen Codes, die in der TARIC-Datenbank enthalten sind, werden im Einvernehmen mit den Vertragsparteien festgelegt.
 
 ### Kapitel II: Tabelle – Legende
 
 ### Abschnitt 1: Spaltenüberschriften
 
 <table>
-<tr><th>Spalten</th><th>Anmeldungen/Mitteilungen/ Nachweis des zollrechtlichen Status von Unionswaren</th><th>Rechtsgrundlage</th></tr>
+<tr><th>Spalten</th><th>Anmeldungen/Mitteilungen/Nachweis des zollrechtlichen Status von Unionswaren</th><th>Rechtsgrundlage</th></tr>
 <tr><td>D.E. Nr.</td><td>Laufende Nummer für das betreffende Datenelement</td><td></td></tr>
-<tr><td>Alte Feldnr.</td><td>Feldnummer in ANHANG B6 der Anlage III gemäss dem Beschluss Nr. 1/2008 des Gemischten Ausschusses EG-EFTA über ein gemeinsames Versandverfahren vom 16. Juni 2008</td><td></td></tr>
-<tr><td>Datenelement/ Klassenbezeichnung</td><td>Bezeichnung des betreffenden Datenelements/der betreffenden Datenklasse</td><td></td></tr>
-<tr><td>Datenunterelement/ Bezeichnung der Datenunterklasse</td><td>Bezeichnung des betreffenden Datenunterelements/der betreffenden Datenunterklasse</td><td></td></tr>
+<tr><td>Alte Feldnr.</td><td>Feldnummer in Anhang B6 der Anlage III gemäss dem Beschluss Nr. 1/2008 des Gemischten Ausschusses EG‑EFTA über ein gemeinsames Versandverfahren vom 16. Juni 2008</td><td></td></tr>
+<tr><td>Datenelement / Klassenbezeichnung</td><td>Bezeichnung des betreffenden Datenelements / der betreffenden Datenklasse</td><td></td></tr>
+<tr><td>Datenunterelement / Bezeichnung der Datenunterklasse</td><td>Bezeichnung des betreffenden Datenunterelements / der betreffenden Datenunterklasse</td><td></td></tr>
 <tr><td>Bezeichnung des Datenunterelements</td><td>Bezeichnung des betreffenden Datenunterelements</td><td></td></tr>
 <tr><td>D1</td><td>Versandanmeldung</td><td>Artikel 25 und Artikel 26 der Anlage I</td></tr>
-<tr><td>D2</td><td>Anmeldung zum Versandverfahren mit verringertem Datensatz — (Eisenbahn-, Luft- und Seeverkehr)</td><td>Artikel 55 Absatz 1 Buchstabe i der Anlage I</td></tr>
+<tr><td>D2</td><td>Anmeldung zum Versandverfahren mit verringertem Datensatz – (Eisenbahn-, Luft- und Seeverkehr)</td><td>Artikel 55 Absatz 1 Buchstabe i der Anlage I</td></tr>
 <tr><td>D3</td><td>Versand – Verwendung eines elektronischen Beförderungspapiers als Zollanmeldung – (Beförderung im Luftverkehr)</td><td>Artikel 55 Absatz 1 Buchstabe h der Anlage I</td></tr>
 <tr><td>D4</td><td>Gestellungsmitteilung in Bezug auf die vorab eingereichte Anmeldung zum Versandverfahren</td><td>Artikel 29*a* der Anlage I</td></tr>
 <tr><td>D</td><td>Die Kardinalität gibt an, wie oft das Datenelement auf Ebene der Kopfdaten innerhalb einer Versandanmeldung verwendet werden darf.</td><td></td></tr>
-<tr><td>MC</td><td>Die Kardinalität gibt an, wie oft das Datenelement auf Ebene der Sammelbeförderung (Master Consignment – MC) verwendet werden darf.</td><td></td></tr>
-<tr><td>HC</td><td>Die Kardinalität gibt an, wie oft das Datenelement auf Ebene der Einzelsendung (House Consignment – HC) verwendet werden darf.</td><td></td></tr>
-<tr><td>HI</td><td>Die Kardinalität gibt an, wie oft das Datenelement auf Ebene der Warenposition in der Einzelsendung (House Consignment Goods Item – HI) verwendet werden darf.</td><td></td></tr>
 <tr><td>Format</td><td>Datenart und Datenlänge</td><td></td></tr>
 <tr><td>Codes in Titel III</td><td>Gibt an, ob ergänzende Anmerkungen zum Format und zu den Codes in Titel III verfügbar sind.</td><td></td></tr>
 </table>
@@ -6333,7 +6339,7 @@ HI 9,999x (pro HC)
 <table>
 <tr><th>Gruppe</th><th>Bezeichnung der Gruppe</th></tr>
 <tr><td>Gruppe 11</td><td>Informationsanzeige (einschliesslich Verfahrenscodes)</td></tr>
-<tr><td>Gruppe 12</td><td>Informationsanzeige (einschliesslich Verfahrenscodes)</td></tr>
+<tr><td>Gruppe 12</td><td>Bezugnahmen auf Nachrichten, Dokumente, Bescheinigungen, Bewilligungen</td></tr>
 <tr><td>Gruppe 13</td><td>Beteiligte</td></tr>
 <tr><td>Gruppe 16</td><td>Orte/Länder/Regionen</td></tr>
 <tr><td>Gruppe 17</td><td>Zollstellen</td></tr>
@@ -6348,26 +6354,31 @@ HI 9,999x (pro HC)
 <tr><th>Zeichen</th><th>Beschreibung des Zeichens</th></tr>
 <tr><td>A</td><td>Obligatorisch: von jedem Land verlangte Daten, unbeschadet der einleitenden Bemerkung 3.</td></tr>
 <tr><td>B</td><td>Fakultativ für die Länder: Es liegt im Ermessen der Länder, ob sie diese Angaben verlangen oder nicht.</td></tr>
-<tr><td>C</td><td>Fakultativ für Wirtschaftsbeteiligte: Diese Angaben können die Wirtschaftsbeteiligten von sich aus machen, dürfen von den Ländern jedoch nicht verlangt werden. Beschliesst ein Wirtschaftsteilnehmer, diese Angaben zu machen, müssen alle erforderlichen Unterelemente angegeben werden. Wird für ein Datenelement/eine Datenklasse «C» verwendet, so sind alle Datenunterelemente/Datenunterklassen, die zu diesem Datenelement/dieser Datenklasse gehören, obligatorisch, wenn der Anmelder beschliesst, diese Angaben zu machen, es sei denn, dies ist in Titel II Kapitel 1 anders angegeben.</td></tr>
+<tr><td>C</td><td>Fakultativ für Wirtschaftsbeteiligte: Diese Angaben können die Wirtschaftsbeteiligten von sich aus machen, dürfen von den Ländern jedoch nicht verlangt werden. Beschliesst ein Wirtschaftsteilnehmer, diese Angaben zu machen, müssen alle erforderlichen Unterelemente angegeben werden. Wird für ein Datenelement / eine Datenklasse «C» verwendet, so sind alle Datenunterelemente/Datenunterklassen, die zu diesem Datenelement / dieser Datenklasse gehören, obligatorisch, wenn der Anmelder beschliesst, diese Angaben zu machen, es sei denn, dies ist in Titel II Kapitel 1 anders angegeben.</td></tr>
 <tr><td>D</td><td>Auf Ebene der Kopfdaten der Versandanmeldung erforderliches Datenelement. Die Datenelemente auf der Ebene der Anmeldung enthalten Angaben, die für die gesamte Anmeldung gelten.</td></tr>
-<tr><td>MC</td><td>Auf Ebene der Sammelbeförderung erforderliches Datenelement. Die Datenelemente auf der Ebene der Sammelbeförderung enthalten Angaben, die für einen Beförderungsvertrag gelten, der von einem Beförderer und einer direkten Vertragspartei ausgestellt wurde. Diese Angaben auf Ebene der Kopfdaten gelten für jede Sammelsendungsposition bei den Anmeldungen und Mitteilungen, auf die in Titel II Kapitel I Bezug genommen wird.</td></tr>
+<tr><td>MC</td><td>Auf Ebene der Sammelsendung erforderliches Datenelement. Die Datenelemente auf der Ebene der Sammelsendung enthalten Angaben, die für einen Beförderungsvertrag gelten, der von einem Beförderer und einer direkten Vertragspartei ausgestellt wurde. Diese Angaben auf Ebene der Kopfdaten gelten für jede Sammelsendungsposition bei den Anmeldungen und Mitteilungen, auf die in Titel II Kapitel I Bezug genommen wird.</td></tr>
 <tr><td>HC</td><td>Auf Ebene der Einzelsendung erforderliches Datenelement. Die Datenelemente der Einzelsendungsebene enthalten Angaben, die für den untersten Beförderungsvertrag gelten, der von einem Spediteur, einem schiffs- oder luftfahrzeugbuchenden Verfrachter oder seinem Agenten oder einem Anbieter von Postdiensten ausgestellt wird. Diese Angaben auf Ebene der Kopfdaten gelten für jede Einzelsendungsposition bei den Anmeldungen und Mitteilungen, auf die Titel II Kapitel I Bezug genommen wird.</td></tr>
-<tr><td>HI</td><td>Auf Ebene der Warenposition in der Einzelsendung erforderliches Datenelement. Die Ebene der Warenposition in der Einzelsendung ist eine Unterebene zur Einzelsendungsebene. Die Datenelemente auf Ebene der Warenposition in der Einzelsendung enthalten Angaben, die aus unterschiedlichen Positionen in dem Beförderungspapier stammen, auf das in der aktuellen Einzelsendung Bezug genommen wird. Diese Positionsangaben gelten für Anmeldungen und Mitteilungen, auf die Titel II Kapitel I Bezug genommen wird.</td></tr>
+<tr><td>HI</td><td>Auf Ebene der Warenposition in der Einzelsendung erforderliches Datenelement. Die Ebene der Warenposition in der Einzelsendung ist eine Unterebene zur Einzelsendungsebene. Die Datenelemente auf Ebene der Warenposition in der Einzelsendung enthalten Angaben, die aus unterschiedlichen Positionen in dem Beförderungspapier stammen, auf das in der aktuellen Einzelsendung Bezug genommen wird. Diese Positionsangaben gelten für Anmeldungen und Mitteilungen, auf die in Titel II Kapitel I Bezug genommen wird.</td></tr>
+<tr><td>\*</td><td>Anwendbar ab dem 21. Januar 2025</td></tr>
+<tr><td>\*\*\*</td><td>Gilt ab dem 1. März 2027</td></tr>
+<tr><td>°</td><td>Ab dem 21. Januar 2025 nicht mehr anwendbar</td></tr>
+<tr><td>°°°</td><td>Ab dem 1. März 2027 nicht mehr anwendbar</td></tr>
+<tr><td>\*^)</td><td>Die Kardinalität der Zahl der Verschlüsse ist in Bezug auf die Beförderungsausrüstung zu sehen, d. h. 1x pro Container.</td></tr>
 </table>
 
 ### Abschnitt 4: Zeichen in der Spalte «Format»
 
-Der Begriff «Art/Länge» in den Erläuterungen zu den Attributen beschreibt die Anforderungen an Datenart und Datenlänge. Die Codes für die Datentypen sind:
+Der Begriff «Art/Länge» in den Erläuterungen zu einem Attribut zeigt die Anforderungen für Datenart und Datenlänge an. Die Codes für die Datenarten sind:
 
 a alphabetisch
 
 n numerisch
 
-an alphanumerisch.
+an alphanumerisch
 
 Die auf den Code folgende Zahl zeigt die zulässige Datenlänge an. Hierfür gilt Folgendes:
 
-Die beiden fakultativen Punkte vor der Längenkennung zeigen an, dass die Daten keine festgelegte, jedoch höchstens die in der Längenkennung angegebene Anzahl Ziffern haben. Ein Komma in der Längenkennung bedeutet, dass das Attribut Dezimalstellen enthalten kann, wobei die Ziffer vor dem Komma die Gesamtlänge des Attributs und die Ziffer nach dem Komma die Höchstzahl der Ziffern nach dem Dezimalzeichen anzeigt.
+Die beiden fakultativen Punkte vor der Längenkennung zeigen an, dass die Daten keine festgelegte Länge, jedoch höchstens die in der Längenkennung angegebene Anzahl Zeichen haben. Ein Komma in der Längenkennung bedeutet, dass das Attribut Dezimalstellen enthalten kann, wobei die Ziffer vor dem Komma die Gesamtlänge des Attributs und die Ziffer nach dem Komma die Höchstzahl der Ziffern nach dem Dezimalzeichen anzeigt.
 
 Beispiele für Feldlängen und Formate:
 
@@ -6377,9 +6388,9 @@ n2 2 numerische Zeichen, festgelegte Länge
 
 an3 3 alphanumerische Zeichen, festgelegte Länge
 
-a..4 bis zu 4 Buchstaben des Alphabets
+a..4 bis zu 4 Buchstaben
 
-n..5 bis zu 5 numerische Zeichen
+n..5 bis zu 5 Ziffern
 
 an..6 bis zu 6 alphanumerische Zeichen
 
@@ -6390,353 +6401,366 @@ n..7,2 bis zu 7 numerische Zeichen, einschliesslich höchstens 2 Dezimalstellen,
 ### Kapitel I: Tabelle
 
 <table>
-<tr><th>D.E. Nr.</th><th>Alte Feldnr.</th><th>Bezeichnung des Datenelements/ der Datenklasse</th><th>Bezeichnung des Datenunterelements/der Datenunterklasse</th><th>Bezeichnung des Datenunterelements</th><th colspan="3">Anmeldung</th><th colspan="2"></th><th></th><th></th><th colspan="3">Kardinalität</th><th colspan="2"></th><th></th><th></th><th>Format</th><th>Codes in Titel III</th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th><th>D1</th><th>D2</th><th colspan="2">D3</th><th colspan="3">D4</th><th>D</th><th>MC</th><th colspan="2">HC</th><th colspan="3">HI</th><th></th><th></th></tr>
-<tr><td colspan="21">Gruppe 11 — Informationsanzeige (einschliesslich Verfahrenscodes)</td></tr>
-<tr><td>11 01 000 000</td><td>1</td><td>Art der Anmeldung</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>an..5</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D HI</td><td>D HI</td><td colspan="2">D HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>11 02 000 000</td><td>Neu</td><td>Zusätzliche Art der Anmeldung</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>a1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>11 03 000 000</td><td>32</td><td>Positionsnummer</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>n..5</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>11 07 000 000</td><td>Neu</td><td>Sicherheit</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>n1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>11 08 000 000</td><td>Neu</td><td>Indikator für einen verringerten Datensatz</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>n1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="21">Gruppe 12 — Bezugnahmen auf Nachrichten, Dokumente, Bescheinigungen, Bewilligungen</td></tr>
-<tr><td>12 01 000 000</td><td>40</td><td>Vorpapier</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>9,999x</td><td colspan="2">99x</td><td colspan="3">99x</td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 01 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..70</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 01 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an4</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 01 003 000</td><td></td><td></td><td>Art der Packstücke</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>an..2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 01 004 000</td><td></td><td></td><td>Anzahl der Packstücke</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>n..8</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 01 005 000</td><td></td><td></td><td>Masseinheit und Qualifikator</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>an..4</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 01 006 000</td><td></td><td></td><td>Menge</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>n..16,6</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 01 007 000</td><td></td><td></td><td>Positionsnummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>n..5</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 01 079 000</td><td></td><td></td><td>Zusätzliche Angaben</td><td></td><td>C</td><td>C</td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 02 000 000</td><td>44</td><td>Zusätzliche Informationen</td><td></td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>99x</td><td colspan="2"></td><td colspan="3">99x</td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 02 008 000</td><td></td><td></td><td>Code</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3">1x</td><td>an5</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 02 009 000</td><td></td><td></td><td>Text</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3">1x</td><td>an..512</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 03 000 000</td><td>44</td><td>Unterlage</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>99x</td><td colspan="2"></td><td colspan="3">99x</td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 03 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3">1x</td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 03 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3">1x</td><td>an4</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 03 013 000</td><td></td><td></td><td>Zeilen-/Positionsnummer im Dokument</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3">1x</td><td>n..5</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td colspan="2">MC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 03 079 000</td><td></td><td></td><td>Zusätzliche Angaben</td><td></td><td>C</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3">1x</td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 04 000 000</td><td>44 Neu</td><td>Sonstiger Verweis</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>99x</td><td colspan="2">99x</td><td colspan="3">99x</td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 04 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 04 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an4</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 05 000 000</td><td>44 Neu</td><td>Beförderungspapier</td><td></td><td></td><td>A [8]</td><td>A [8]</td><td colspan="2">A [8]</td><td colspan="3"></td><td></td><td>99x</td><td colspan="2">99x</td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 05 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 05 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an4</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 08 000 000</td><td></td><td>Referenznummer/UCR</td><td></td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 09 000 000</td><td>Neu</td><td>LRN</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..22</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 12 000 000</td><td>44 Neu</td><td>Bewilligung</td><td></td><td></td><td>A [60]</td><td>A [60]</td><td colspan="2">A [60]</td><td colspan="3"></td><td>9x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 12 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A [60]</td><td>A [60]</td><td colspan="2">A [60]</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>12 12 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..4</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="21">Gruppe 13 — Beteiligte</td></tr>
-<tr><td>13 02 000 000</td><td>2</td><td>Versender</td><td></td><td></td><td>C</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 016 000</td><td></td><td></td><td>Name</td><td></td><td>A [6]</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 017 000</td><td>2 (Nr.)</td><td></td><td>Kennnummer</td><td></td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..17</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 018 000</td><td></td><td></td><td>Anschrift</td><td></td><td>A [6]</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 018 019</td><td></td><td></td><td></td><td>Strasse und Hausnummer</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 018 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 018 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..17</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 018 022</td><td></td><td></td><td></td><td>Ort</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 074 000</td><td></td><td></td><td>Kontaktperson</td><td></td><td>C</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>9x</td><td colspan="2">9x</td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 074 016</td><td></td><td></td><td></td><td>Name</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 074 075</td><td></td><td></td><td></td><td>Telefonnummer</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 02 074 076</td><td></td><td></td><td></td><td>E-Mail- Adresse</td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..256</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 03 000 000</td><td>8</td><td>Empfänger</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 03 016 000</td><td></td><td></td><td>Name</td><td></td><td>A [6]</td><td>A [6]</td><td colspan="2">A [6]</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 03 017 000</td><td>8 (Nr.)</td><td></td><td>Kennnummer</td><td></td><td>A [8]</td><td>A [8]</td><td colspan="2">A [8]</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..17</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 03 018 000</td><td></td><td></td><td>Anschrift</td><td></td><td>A [6]</td><td>A [6]</td><td colspan="2">A [6]</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 03 018 019</td><td></td><td></td><td></td><td>Strasse und Hausnummer</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 03 018 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 03 018 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..17</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 03 018 022</td><td></td><td></td><td></td><td>Ort</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 06 000 000</td><td>14</td><td>Vertreter</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 06 017 000</td><td>4 (Nr.)</td><td></td><td>Kennnummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 06 030 000</td><td>14</td><td></td><td>Status</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>n1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 06 074 000</td><td></td><td></td><td>Kontaktperson</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3">C</td><td>9x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 06 074 016</td><td></td><td></td><td></td><td>Name</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 06 074 075</td><td></td><td></td><td></td><td>Telefonnummer</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 06 074 076</td><td></td><td></td><td></td><td>E-Mail- Adresse</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..256</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 000 000</td><td>50</td><td>Inhaber des Versandverfahrens</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 016 000</td><td></td><td></td><td>Name</td><td></td><td>A [6]</td><td>A [6]</td><td colspan="2">A [6]</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 017 000</td><td>50 (Nr.)</td><td></td><td>Kennnummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 018 000</td><td></td><td></td><td>Anschrift</td><td></td><td>A [6]</td><td>A [6]</td><td colspan="2">A [6]</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 018 019</td><td></td><td></td><td></td><td>Strasse und Hausnummer</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 018 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 018 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 018 022</td><td></td><td></td><td></td><td>Ort</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 074 000</td><td></td><td></td><td>Kontaktperson</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 074 016</td><td></td><td></td><td></td><td>Name</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 074 075</td><td></td><td></td><td></td><td>Telefonnummer</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 07 074 076</td><td></td><td></td><td></td><td>E-Mail- Adresse</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..256</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 14 000 000</td><td>44</td><td>Zusätzlicher Wirtschaftsbeteiligter in der Lieferkette</td><td></td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td>99x</td><td colspan="2">99x</td><td colspan="3">99x</td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 14 017 000</td><td></td><td></td><td>Kennnummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>an..17</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>13 14 031 000</td><td></td><td></td><td>Funktion</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>a..3</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="21">Gruppe 16 — Orte/Länder/Regionen</td></tr>
-<tr><td>16 03 000 000</td><td>17a</td><td>Bestimmungsland</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2">MC HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 06 000 000</td><td>15</td><td>Versendungsland</td><td></td><td></td><td>A</td><td>C</td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3">1x</td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 12 000 000</td><td>Neu</td><td>Von der Sendung zu durchquerendes Land</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>99x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 12 020 000</td><td></td><td></td><td>Land</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 13 000 000</td><td>27</td><td>Ladeort</td><td></td><td></td><td>B [61]</td><td>B</td><td colspan="2">B</td><td colspan="3">B</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 13 020 000</td><td></td><td></td><td>Land</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 13 036 000</td><td></td><td></td><td>UN/LOCODE</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 13 037 000</td><td></td><td></td><td>Ort</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 000 000</td><td>30</td><td>Warenort</td><td></td><td></td><td>A [75]</td><td>A [75]</td><td colspan="2">A [75]</td><td colspan="3">A [75]</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 036 000</td><td></td><td></td><td>UN/LOCODE</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 045 000</td><td></td><td></td><td>Art des Ortes</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>a1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 046 000</td><td></td><td></td><td>Qualifikator der Identifizierung</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>a1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 047 000</td><td></td><td></td><td>Zollstelle</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 047 001</td><td></td><td></td><td></td><td>Referenznummer</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an8</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 048 000</td><td></td><td></td><td>GNSS</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 048 049</td><td></td><td></td><td></td><td>Breitengrad</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 048 050</td><td></td><td></td><td></td><td>Längengrad</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 051 000</td><td></td><td></td><td>Wirtschaftsbeteiligter</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 051 017</td><td></td><td></td><td></td><td>Kennnummer</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 052 000</td><td></td><td></td><td>Bewilligungsnummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 053 000</td><td></td><td></td><td>Zusätzliche Kennung</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..4</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 018 000</td><td></td><td></td><td>Anschrift</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 018 019</td><td></td><td></td><td></td><td>Strasse und Hausnummer</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 018 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 018 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 018 022</td><td></td><td></td><td></td><td>Ort</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 081 000</td><td></td><td></td><td>PLZ-Adresse</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 081 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 081 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 081 025</td><td></td><td></td><td></td><td>Hausnummer</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 074 000</td><td></td><td></td><td>Kontaktperson</td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3">C</td><td></td><td>9x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 074 016</td><td></td><td></td><td></td><td>Name</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..70</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 074 075</td><td></td><td></td><td></td><td>Telefonnummer</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 15 074 076</td><td></td><td></td><td></td><td>E-Mail- Adresse</td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..256</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>16 17 000 000</td><td>Neu</td><td>Vorgeschriebene Beförderungsroute</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>n1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="21">Gruppe 17 — Zollstellen</td></tr>
-<tr><td>17 03 000 000</td><td>NEU</td><td>Abgangszollstelle</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>17 03 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an8</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>17 04 000 000</td><td>51</td><td>Durchgangszollstelle</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>9x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>17 04 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an8</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>17 05 000 000</td><td>53</td><td>Bestimmungszollstelle</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>17 05 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an8</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2">D</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>17 06 000 000</td><td>Neu</td><td>Ausgangszollstelle für das Versandverfahren</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>9x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>17 06 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an8</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="21">Gruppe 18 — Nämlichkeit der Waren</td></tr>
-<tr><td>18 01 000 000</td><td>38</td><td>Eigenmasse</td><td></td><td></td><td>A</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>n..16,6</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 04 000 000</td><td>35</td><td>Rohmasse</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2">1x</td><td colspan="3">1x</td><td>n..16,6</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HC HI</td><td>HC HI</td><td colspan="2">HC HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 05 000 000</td><td>31</td><td>Warenbezeichnung</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>an..512</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 06 000 000</td><td>Neu</td><td>Verpackung</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">99x</td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 06 003 000</td><td>31</td><td></td><td>Art der Packstücke</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>an2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 06 004 000</td><td>31</td><td></td><td>Anzahl der Packstücke</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>n..8</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 06 054 000</td><td>31</td><td></td><td>Versandzeichen</td><td></td><td>A [8]</td><td>A [8]</td><td colspan="2">A [8]</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>an..512</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 08 000 000</td><td>31</td><td>CUS-Nummer</td><td></td><td></td><td>C</td><td>C</td><td colspan="2">C</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>an9</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 09 000 000</td><td></td><td>Warennummer</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">C</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 09 056 000</td><td>Neu</td><td></td><td>Code der Unterpositionen des Harmonisierten Systems</td><td></td><td>A</td><td>A</td><td colspan="2">C</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>an6</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>18 09 057 000</td><td>33</td><td></td><td>Code der Kombinierten Nomenklatur</td><td></td><td>B</td><td>B</td><td colspan="2">C</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3">1x</td><td>an2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td colspan="2">HI</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="21">Gruppe 19 — Angaben zur Beförderung (Art, Mittel und Ausrüstung)</td></tr>
-<tr><td>19 01 000 000</td><td>19</td><td>Container-Kennnummer</td><td></td><td></td><td>A [61]</td><td>A</td><td colspan="2">A</td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>n1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 03 000 000</td><td>25</td><td>Verkehrszweig an der Grenze</td><td></td><td></td><td>A [30] [61]</td><td>A [30]</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>n1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 04 000 000</td><td>26</td><td>Inländischer Verkehrszweig</td><td></td><td></td><td>B</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>n1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 05 000 000</td><td>18 (1)</td><td>Beförderungsmittel beim Abgang</td><td></td><td></td><td>A [34] [35] [36]</td><td>A [34] [35] [36]</td><td colspan="2">A [34] [35] [36]</td><td colspan="3"></td><td></td><td>999x</td><td colspan="2">999x</td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 05 017 000</td><td></td><td></td><td>Kennnummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 05 061 000</td><td></td><td></td><td>Art der Identifizierung</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>n2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 05 062 000</td><td>18 (2)</td><td></td><td>Staatszugehörigkeit</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2">1x</td><td colspan="3"></td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td colspan="2">MC HC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 07 000 000</td><td>Neu</td><td>Beförderungsausrüstung</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>9,999x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 07 044 000</td><td></td><td></td><td>Warenreferenz</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>9,999x</td><td colspan="2"></td><td colspan="3"></td><td>n..5</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 07 063 000</td><td>31</td><td></td><td>Containernummer</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 08 000 000</td><td>Neu</td><td>Aktives Grenzverkehrsmittel</td><td></td><td></td><td>A [34] [35] [36] [61] [70] [71]</td><td>A [34] [35] [36] [61] [70] [71]</td><td colspan="2"></td><td colspan="3">A [34] [35] [36] [70] [71]</td><td></td><td>9x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 08 000 047</td><td></td><td></td><td>Referenznummer der Zollstelle an der Grenze</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an8</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 08 017 000</td><td>21 (1)</td><td></td><td>Kennnummer</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 08 061 000</td><td></td><td></td><td>Art der Identifizierung</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>n2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 08 062 000</td><td>21 (2)</td><td></td><td>Staatszugehörigkeit</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3">A</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>a2</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 02 000 000</td><td></td><td></td><td>Nummer der Beförderung</td><td></td><td>B</td><td>B</td><td colspan="2"></td><td colspan="3">B</td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..17</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2"></td><td colspan="3">MC</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 10 000 000</td><td>D</td><td>Verschluss</td><td></td><td></td><td>A</td><td>A</td><td colspan="2">A [65]</td><td colspan="3"></td><td></td><td>99x</td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 10 068 000</td><td></td><td></td><td>Anzahl der Verschlüsse</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x \*)</td><td colspan="2"></td><td colspan="3"></td><td>n..4</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>19 10 015 000</td><td></td><td></td><td>Kennung</td><td></td><td>A</td><td>A</td><td colspan="2">A</td><td colspan="3"></td><td></td><td>1x</td><td colspan="2"></td><td colspan="3"></td><td>an..20</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td colspan="2">MC</td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td colspan="21">Gruppe 99 — Sonstige Datenelemente (statistische Daten, Sicherheitsleistungen, Daten im Zusammenhang mit dem Zolltarif)</td></tr>
-<tr><td>99 02 000 000</td><td>52</td><td>Art der Sicherheitsleistung</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>9x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an1</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>99 03 000 000</td><td>52</td><td>Referenznummer der Sicherheitsleistung</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>99x</td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>99 03 069 000</td><td></td><td></td><td>Referenznummer der Sicherheitsleistung</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..24</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>99 03 070 000</td><td></td><td></td><td>Zugriffscode</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..4</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>99 03 012 000</td><td></td><td></td><td>Währung</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>a3</td><td>Ja</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>99 03 071 000</td><td></td><td></td><td>Zu deckender Betrag</td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>1x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>n..16,2</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>99 03 073 000</td><td></td><td>Zeichen andere Form der Sicherheit</td><td></td><td></td><td>A</td><td>A</td><td colspan="2"></td><td colspan="3"></td><td>9x</td><td></td><td colspan="2"></td><td colspan="3"></td><td>an..35</td><td>Nein</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td colspan="2"></td><td colspan="3"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td></td><td></td></tr>
+<tr><th>D.E. Nr.</th><th>Alte Feldnr.</th><th>Bezeichnung des Datenelements / der Datenklasse</th><th>Bezeichnung des Datenunterelements / der Datenunterklasse</th><th>Bezeichnung des Datenunterelements</th><th colspan="4">Anmeldung</th><th colspan="4">Kardinalität</th><th>Format</th><th>Codes in Titel III</th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th><th>D1</th><th>D2</th><th>D3</th><th>D4</th><th>D</th><th>MC</th><th>HC</th><th>HI</th><th></th><th></th></tr>
+<tr><td colspan="15">Gruppe 11 – Informationsanzeige (einschliesslich Verfahrenscodes)</td></tr>
+<tr><td>11 01 000 000</td><td>1</td><td>Art der Anmeldung</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>1x</td><td>an..5</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D HI</td><td>D HI</td><td>D HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 02 000 000</td><td>Neu</td><td>Zusätzliche Art der Anmeldung</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>a1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 03 000 000</td><td>32</td><td>Positionsnummer</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>1x</td><td>n..5</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 07 000 000</td><td>Neu</td><td>Sicherheit</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td></td><td></td><td>n1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 08 000 000</td><td>Neu</td><td>Indikator für einen verringerten Datensatz</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>1x</td><td></td><td></td><td></td><td>n1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>11 11 000 000</td><td>Neu</td><td>Positionsnummer gemäss Anmeldung</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>1x</td><td>n.5</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td></td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">Gruppe 12 – Bezugnahmen auf Nachrichten, Dokumente, Bescheinigungen, Bewilligungen</td></tr>
+<tr><td>12 01 000 000</td><td>40</td><td>Vorpapier</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>9,999x</td><td>99x</td><td>99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 01 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an..70</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 01 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 01 003 000</td><td></td><td></td><td>Art der Verpackung</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>an..2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 01 004 000</td><td></td><td></td><td>Anzahl der Packstücke</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>n..8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 01 005 000</td><td></td><td></td><td>Masseinheit und Qualifikator</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>an..4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 01 006 000</td><td></td><td></td><td>Menge</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>n..16,6</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 01 007 000</td><td></td><td></td><td>Positionskennung°°° Positionsnummer\*\*\*</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>n..5</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 01 079 000</td><td></td><td></td><td>Zusätzliche Angaben</td><td></td><td>C</td><td>C</td><td></td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 02 000 000</td><td>44</td><td>Zusätzliche Informationen</td><td></td><td></td><td>C</td><td>C</td><td>C</td><td></td><td></td><td>99x</td><td></td><td>99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td>MC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 02 008 000</td><td></td><td></td><td>Code</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td>1x</td><td>an5</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td>MC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 02 009 000</td><td></td><td></td><td>Text</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td>1x</td><td>an..512</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td>MC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 03 000 000</td><td>44</td><td>Unterlage</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>99x</td><td></td><td>99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td>MC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 03 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td>1x</td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td>MC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 03 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td>1x</td><td>an4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td>MC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 03 013 000</td><td></td><td></td><td>Zeilen-/Positionsnummer im Dokument</td><td></td><td>C</td><td>C</td><td>C</td><td></td><td></td><td>1x</td><td></td><td>1x</td><td>n..5</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td>MC HI</td><td>MC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 03 079 000</td><td></td><td></td><td>Zusätzliche Angaben</td><td></td><td>C</td><td></td><td></td><td></td><td></td><td>1x</td><td></td><td>1x</td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 04 000 000</td><td>44 Neu</td><td>Zusätzliche Referenz</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>99x</td><td>99x</td><td>99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 04 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>C</td><td>C</td><td>C</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 04 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an4</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 05 000 000</td><td>44 Neu</td><td>Beförderungspapier</td><td></td><td></td><td>A [8]</td><td>A [8]</td><td>A [8]</td><td></td><td></td><td>99x</td><td>99x</td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 05 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 05 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 08 000 000</td><td></td><td>Referenznummer/UCR</td><td></td><td></td><td>C</td><td>C</td><td>C</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 09 000 000</td><td>Neu</td><td>LRN</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td>an..22</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 12 000 000</td><td>44 Neu</td><td>Bewilligung</td><td></td><td></td><td>A [60]</td><td>A [60]</td><td>A [60]</td><td></td><td>9x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 12 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>12 12 002 000</td><td></td><td></td><td>Art</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>an..4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">Gruppe 13 – Beteiligte</td></tr>
+<tr><td>13 02 000 000</td><td>2</td><td>Versender</td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 016 000</td><td></td><td></td><td>Name</td><td></td><td>A [6]</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 017 000</td><td>2 (Nr.)</td><td></td><td>Identifikationsnummer</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..17</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 018 000</td><td></td><td></td><td>Anschrift</td><td></td><td>A [6]</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 018 019</td><td></td><td></td><td></td><td>Strasse und Hausnummer</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 018 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>a2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 018 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 018 022</td><td></td><td></td><td></td><td>Ort</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 074 000</td><td></td><td></td><td>Kontaktperson</td><td></td><td>C</td><td></td><td></td><td></td><td></td><td>9x</td><td>9x</td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 074 016</td><td></td><td></td><td></td><td>Name</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 074 075</td><td></td><td></td><td></td><td>Telefonnummer</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 02 074 076</td><td></td><td></td><td></td><td>E‑Mail-Adresse</td><td>C</td><td></td><td></td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..256</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 03 000 000</td><td>8</td><td>Empfänger</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td>1x</td><td>1x</td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI°</td><td>MC HC HI°</td><td>MC HC HI°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 03 016 000</td><td></td><td></td><td>Name</td><td></td><td>A [6]</td><td>A [6]</td><td>A [6]</td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI°</td><td>MC HC HI°</td><td>MC HC HI°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 03 017 000</td><td>8 (Nr.)</td><td></td><td>Identifikationsnummer</td><td></td><td>A [8]</td><td>A [8]</td><td>A [8]</td><td></td><td></td><td>1x</td><td>1x</td><td></td><td>an..17</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI°</td><td>MC HC HI°</td><td>MC HC HI°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 03 018 000</td><td></td><td></td><td>Anschrift</td><td></td><td>A [6]</td><td>A [6]</td><td>A [6]</td><td></td><td></td><td>1x</td><td>1x</td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI°</td><td>MC HC HI°</td><td>MC HC HI°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 03 018 019</td><td></td><td></td><td></td><td>Strasse und Hausnummer</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI°</td><td>MC HC HI°</td><td>MC HC HI°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 03 018 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>a2</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI°</td><td>MC HC HI°</td><td>MC HC HI°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 03 018 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI°</td><td>MC HC HI°</td><td>MC HC HI°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 03 018 022</td><td></td><td></td><td></td><td>Ort</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI°</td><td>MC HC HI°</td><td>MC HC HI°</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 06 000 000</td><td>14</td><td>Vertreter</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 06 017 000</td><td>4 (Nr.)</td><td></td><td>Identifikationsnummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 06 030 000</td><td>14</td><td></td><td>Status</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td>n1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 06 074 000</td><td></td><td></td><td>Kontaktperson</td><td></td><td>C</td><td>C</td><td>C</td><td>C</td><td>9x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 06 074 016</td><td></td><td></td><td></td><td>Name</td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 06 074 075</td><td></td><td></td><td></td><td>Telefonnummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 06 074 076</td><td></td><td></td><td></td><td>E‑Mail-Adresse</td><td>C</td><td>C</td><td>C</td><td>C</td><td>1x</td><td></td><td></td><td></td><td>an..256</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 000 000</td><td>50</td><td>Inhaber des Versandverfahrens</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 016 000</td><td></td><td></td><td>Name</td><td></td><td>A [6] [7]</td><td>A [6] [7]</td><td>A [6] [7]</td><td></td><td>1x</td><td></td><td></td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 017 000</td><td>50 (Nr.)</td><td></td><td>Identifikationsnummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 018 000</td><td></td><td></td><td>Anschrift</td><td></td><td>A [6] [7]</td><td>A [6] [7]</td><td>A [6] [7]</td><td></td><td>1x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 018 019</td><td></td><td></td><td></td><td>Strasse und Hausnummer</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 018 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>a2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 018 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 018 022</td><td></td><td></td><td></td><td>Ort</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 074 000</td><td></td><td></td><td>Kontaktperson</td><td></td><td>C</td><td>C</td><td>C</td><td></td><td>1x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 074 016</td><td></td><td></td><td></td><td>Name</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 074 075</td><td></td><td></td><td></td><td>Telefonnummer</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 07 074 076</td><td></td><td></td><td></td><td>E‑Mail-Adresse</td><td>C</td><td>C</td><td>C</td><td></td><td>1x</td><td></td><td></td><td></td><td>an..256</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 14 000 000</td><td>44</td><td>Zusätzlicher Wirtschaftsbeteiligter in der Lieferkette</td><td></td><td></td><td>C</td><td>C</td><td>C</td><td></td><td></td><td>99x</td><td>99x</td><td>99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 14 017 000</td><td></td><td></td><td>Identifikationsnummer</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>13 14 031 000</td><td></td><td></td><td>Funktion</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>a..3</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">Gruppe 15 – Daten/Fristen/Zeiträume</td></tr>
+<tr><td>15 11 000 000</td><td>Neu</td><td>Datum der Frist</td><td></td><td></td><td>A [82]</td><td>A [82]</td><td></td><td>A [82]</td><td>1x</td><td></td><td></td><td></td><td>an..19</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">Gruppe 16 – Orte/Länder/Regionen</td></tr>
+<tr><td>16 03 000 000</td><td>17a</td><td>Bestimmungsland</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x\*</td><td>1x</td><td>a2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 06 000 000</td><td>15</td><td>Versendungsland</td><td></td><td></td><td>A</td><td>C</td><td></td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>a2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 12 000 000</td><td>Neu</td><td>Von der Sendung zu durchquerendes Land</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>99x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 12 020 000</td><td></td><td></td><td>Land</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>1x</td><td></td><td></td><td>a2</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 13 000 000</td><td>27</td><td>Ladeort</td><td></td><td></td><td>A [61]</td><td>A [61]</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 13 020 000</td><td></td><td></td><td>Land</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>a2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 13 036 000</td><td></td><td></td><td>UN/LOCODE</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 13 037 000</td><td></td><td></td><td>Ort</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 000 000</td><td>30</td><td>Warenort</td><td></td><td></td><td>A [61] [75]</td><td>A [61] [75]</td><td>A [61] [75]</td><td>A [61] [75]</td><td></td><td>1x</td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 036 000</td><td></td><td></td><td>UN/LOCODE</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 045 000</td><td></td><td></td><td>Art des Ortes</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>a1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 046 000</td><td></td><td></td><td>Qualifikator der Ortsbestimmung</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>a1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 047 000</td><td></td><td></td><td>Zollstelle</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 047 001</td><td></td><td></td><td></td><td>Referenznummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 048 000</td><td></td><td></td><td>GNSS</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 048 049</td><td></td><td></td><td></td><td>Breitengrad</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 048 050</td><td></td><td></td><td></td><td>Längengrad</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 051 000</td><td></td><td></td><td>Wirtschaftsbeteiligter</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 051 017</td><td></td><td></td><td></td><td>Identifikationsnummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 052 000</td><td></td><td></td><td>Bewilligungsnummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 053 000</td><td></td><td></td><td>Zusätzliche Kennung</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..4°°° an..8\*\*\*</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 018 000</td><td></td><td></td><td>Anschrift</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 018 019</td><td></td><td></td><td></td><td>Strasse und Hausnummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 018 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>a2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 018 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 018 022</td><td></td><td></td><td></td><td>Ort</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 081 000</td><td></td><td></td><td>PLZ-Adresse</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 081 020</td><td></td><td></td><td></td><td>Land</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>a2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 081 021</td><td></td><td></td><td></td><td>Postleitzahl</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 081 025</td><td></td><td></td><td></td><td>Hausnummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 074 000</td><td></td><td></td><td>Kontaktperson</td><td></td><td>C</td><td>C</td><td>C</td><td>C</td><td></td><td>9x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 074 016</td><td></td><td></td><td></td><td>Name</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..70</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 074 075</td><td></td><td></td><td></td><td>Telefonnummer</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 15 074 076</td><td></td><td></td><td></td><td>E‑Mail-Adresse</td><td>C</td><td>C</td><td>C</td><td>C</td><td></td><td>1x</td><td></td><td></td><td>an..256</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>16 17 000 000</td><td>Neu</td><td>Vorgeschriebene Beförderungsstrecke\*\*\*</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td></td><td></td><td>n1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">Gruppe 17 – Zollstellen</td></tr>
+<tr><td>17 03 000 000</td><td>Neu</td><td>Abgangszollstelle</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17 03 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>1x</td><td></td><td></td><td></td><td>an8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17 04 000 000</td><td>51</td><td>Durchgangszollstelle</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>9x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17 04 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td></td><td></td><td>an8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17 05 000 000</td><td>53</td><td>Bestimmungszollstelle</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17 05 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td></td><td>an8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17 06 000 000</td><td></td><td>Ausgangszollstelle für das Versandverfahren</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>9x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>17 06 001 000</td><td></td><td></td><td>Referenznummer</td><td></td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td></td><td></td><td>an8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">Gruppe 18 – Nämlichkeit der Waren</td></tr>
+<tr><td>18 01 000 000</td><td>38</td><td>Eigenmasse</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1x</td><td>n..16,6</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 02 000 000</td><td></td><td>Besondere Masseinheiten°°° Besondere Masseinheit\*\*\*</td><td></td><td></td><td></td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>1x</td><td>n..16,6</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 04 000 000</td><td>35</td><td>Rohmasse</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td>1x</td><td>1x</td><td>n..16,6</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC HI</td><td>MC HC HI</td><td>MC HC HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 05 000 000</td><td>31</td><td>Warenbezeichnung</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>an..512</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 06 000 000</td><td>Neu</td><td>Verpackung</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 06 003 000</td><td>31</td><td></td><td>Art der Verpackung</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>an2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 06 004 000</td><td>31</td><td></td><td>Anzahl der Packstücke</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>n..8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 06 054 000</td><td>31</td><td></td><td>Versandzeichen</td><td></td><td>A [8]</td><td>A [8]</td><td>A [8]</td><td></td><td></td><td></td><td></td><td>1x</td><td>an..512</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 07 000 000</td><td></td><td>Gefahrgut</td><td></td><td></td><td>C</td><td>C</td><td></td><td></td><td></td><td></td><td></td><td>99x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 07 055 000</td><td></td><td></td><td>UN-Nummer für Gefahrgut</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>1x</td><td>an.4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 08 000 000</td><td>31</td><td>CUS-Nummer</td><td></td><td></td><td>C</td><td>C</td><td>C</td><td></td><td></td><td></td><td></td><td>1x</td><td>an..512</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 09 000 000</td><td></td><td>Warennummer</td><td></td><td></td><td>A</td><td>A</td><td>C</td><td></td><td></td><td></td><td></td><td>1x</td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 09 056 000</td><td>Neu</td><td></td><td>Code der Unterposition des Harmonisierten Systems\*</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>1x</td><td>an6</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>18 09 057 000</td><td>33</td><td></td><td>Code der Kombinierten Nomenklatur</td><td></td><td>B</td><td>B</td><td>C</td><td></td><td></td><td></td><td></td><td>1x</td><td>an2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>HI</td><td>HI</td><td>HI</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">Gruppe 19 – Angaben zur Beförderung (Art, Mittel und Ausrüstung)</td></tr>
+<tr><td>19 01 000 000</td><td>19</td><td>Container-Indikator</td><td></td><td></td><td>A [61]</td><td>A [61]</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>n1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 02 000 000</td><td></td><td>Nummer der Beförderung</td><td></td><td></td><td>B</td><td>B</td><td></td><td>B</td><td></td><td>9x</td><td>9x</td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 03 000 000</td><td>25</td><td>Verkehrszweig an der Grenze</td><td></td><td></td><td>A [30]</td><td>A [30]</td><td></td><td></td><td></td><td>1x</td><td></td><td></td><td>n1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 04 000 000</td><td>26</td><td>Inländischer Verkehrszweig</td><td></td><td></td><td>B</td><td>B</td><td></td><td>B</td><td></td><td>1x</td><td></td><td></td><td>n1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 05 000 000</td><td>18(1)</td><td>Beförderungsmittel beim Abgang</td><td></td><td></td><td>A [34] [35] [36] [61]</td><td>A [34] [35] [36] [61]</td><td>A [34] [35] [36]</td><td>A [34] [35] [36]</td><td></td><td>999x</td><td>999x</td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 05 017 000</td><td></td><td></td><td>Identifikationsnummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td>1x</td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 05 061 000</td><td></td><td></td><td>Art der Identifikation</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td>1x</td><td></td><td>n2</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 05 062 000</td><td>18(2)</td><td></td><td>Staatszugehörigkeit</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td>1x</td><td></td><td>a2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td>MC HC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 07 000 000</td><td>Neu</td><td>Beförderungsausrüstung</td><td></td><td></td><td>A [61]</td><td>A [61]</td><td>A</td><td>A</td><td></td><td>9 999x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 07 044 000</td><td></td><td></td><td>Warenreferenz</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>9 999x</td><td></td><td></td><td>n..5</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 07 063 000</td><td>31</td><td></td><td>Containernummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..17</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 08 000 000</td><td>Neu</td><td>Grenzüberschreitendes aktives Beförderungsmittel</td><td></td><td></td><td>A [34] [35] [36] [61] [70] [71]</td><td>A [34] [35] [36] [61] [70] [71]</td><td></td><td>A [34] [35] [36] [70] [71]</td><td></td><td>9x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 08 017 000</td><td>21(1)</td><td></td><td>Kennzeichen</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 08 061 000</td><td></td><td></td><td>Art der Identifikation</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>1x</td><td></td><td></td><td>n2</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 08 062 000</td><td>21(2)</td><td></td><td>Staatszugehörigkeit</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>1x</td><td></td><td></td><td>a2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 08 084 000</td><td>Neu</td><td></td><td>Zollstelle an der Grenze</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an8</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td></td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 10 000 000</td><td>D</td><td>Verschluss</td><td></td><td></td><td>A [61]</td><td>A [61]</td><td>A [65]</td><td>A</td><td></td><td>99x</td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 10 068 000</td><td></td><td></td><td>Anzahl der Verschlüsse</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x\***^**)</td><td></td><td></td><td>n..4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>19 10 015 000</td><td></td><td></td><td>Verschlusskennzeichen</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>1x</td><td></td><td></td><td>an..20</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>MC</td><td>MC</td><td>MC</td><td>MC</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="15">Gruppe 99 – Sonstige Datenelemente (statistische Daten, Sicherheitsleistungen, Daten im Zusammenhang mit dem Zolltarif)</td></tr>
+<tr><td>99 02 000 000</td><td>52</td><td>Art der Sicherheitsleistung</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>9x</td><td></td><td></td><td></td><td>an1</td><td>J</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>99 03 000 000</td><td>52</td><td>Referenz der Sicherheitsleistung</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>99x</td><td></td><td></td><td></td><td></td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>99 03 069 000</td><td></td><td></td><td>GRN</td><td></td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td></td><td></td><td>an..24</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>99 03 070 000</td><td></td><td></td><td>Zugriffscode</td><td></td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td></td><td></td><td>an..4</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>99 03 012 000</td><td></td><td></td><td>Währung</td><td></td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td></td><td></td><td>a3</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>99 03 071 000</td><td></td><td></td><td>Zu deckender Betrag</td><td></td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td></td><td></td><td>n..16,2</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>99 04 000 000</td><td>Neu</td><td>Spezifische Referenz der Sicherheitsleistung</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>1x</td><td></td><td></td><td></td><td>an..35</td><td>N</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td>D</td><td>D</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-\*) Die Kardinalität der Zahl der Verschlüsse ist in Bezug auf die Beförderungsausrüstung zu sehen, d. h. 1x pro Container.
+^\*) Die Kardinalität der Zahl der Verschlüsse ist in Bezug auf die Beförderungsausrüstung zu sehen, d. h. 1x pro Container.
 
 ### Kapitel II: Anmerkungen
 
 <table>
-<tr><th colspan="2">Nummer der Anmerkung Beschreibung der Anmerkung</th></tr>
-<tr><td>[6]</td><td>Wird die EORI-Kennnummer oder eine eindeutige Kennnummer eines Landes des gemeinsamen Versandverfahrens oder eines Drittlands angegeben, die von der Abgangszollstelle anerkannt ist, so sind Name und Anschrift nicht anzugeben.</td></tr>
+<tr><th>Nummer der Anmerkung</th><th>Beschreibung der Anmerkung</th></tr>
+<tr><td>[6]</td><td>Wird die Registrierungs- und Identifizierungsnummer für Wirtschaftsbeteiligte (EORI) oder ein Land des gemeinsamen Versandverfahrens oder die von der Abgangszollstelle anerkannte eindeutige Drittlandsidentifikationsnummer angegeben, sind Name und Anschrift nicht anzugeben.</td></tr>
+<tr><td>[7]</td><td>Die Identifikationsnummer des Inhabers des Versandverfahrens ist nur dann obligatorisch, wenn die EORI-Nummer oder eine von der Union anerkannte eindeutige Drittlandsidentifikationsnummer der betreffenden Person nicht angegeben ist. Wird die EORI-Nummer oder die von der Union anerkannte eindeutige Drittlandsidentifikationsnummer angegeben, sind Name und Anschrift nicht anzugeben.</td></tr>
 <tr><td>[8]</td><td>Diese Angabe ist nur zu übermitteln, wenn sie vorliegt.</td></tr>
 <tr><td>[30]</td><td>Die Länder können bei anderen Verkehrsträgern als der Eisenbahn von dieser Anforderung absehen, wenn der Versandvorgang die Aussengrenze der Vertragsparteien nicht überschreitet.</td></tr>
 <tr><td>[34]</td><td>Nicht zu verwenden bei Postsendungen oder Beförderung durch festinstallierte Transporteinrichtungen.</td></tr>
-<tr><td>[35]</td><td>Bei multimodalen Beförderungseinheiten, beispielsweise Containern, Wechselbehältern und Sattelanhängern, können die Zollbehörden zulassen, dass der Inhaber des Versandverfahrens diese Angaben nicht bereitstellt, wenn aus logistischen Gründen bei der Abgangszollstelle zum Zeitpunkt der Überführung in das Versandverfahren Identität und Staatszugehörigkeit des Beförderungsmittels nicht bekannt sind, sofern die multimodalen Beförderungseinheiten eindeutige Kennnummern aufweisen und diese Nummern im D.E. 19 07 063 000 «Containernummer» verzeichnet sind.</td></tr>
-<tr><td>[36]</td><td>In folgenden Fällen sehen die Länder von der Verpflichtung ab, diese Angaben in einer Versandanmeldung bei der Abgangszollstelle im Zusammenhang mit dem Beförderungsmittel, auf das die Waren unmittelbar verladen wurden, anzugeben: wenn dieses Datenelement aus logistischen Gründen nicht angegeben werden kann und der Inhaber des Versandverfahrens den AEO-C-Status in der Union oder einen ähnlichen Status in einem Land des gemeinsamen Versandverfahrens hat und wenn die sachdienlichen Angaben von den Zollbehörden über die Buchführung des Inhabers des Versandverfahrens ermittelt werden können.</td></tr>
+<tr><td>[35]</td><td>Bei intermodalen Transporteinheiten, beispielsweise Containern, Wechselbehältern und Sattelanhängern, muss der Inhaber des Versandverfahrens diese Angaben nicht bereitstellen, wenn aus logistischen Gründen bei der Abgangszollstelle zum Zeitpunkt der Überführung in das Versandverfahren Identität und Staatszugehörigkeit des Beförderungsmittels nicht bekannt sind. Die intermodalen Transporteinheiten müssen eindeutige Identifikationsnummern aufweisen, und diese Nummern sind in D.E. 19 07 063 000 «Containernummer» anzugeben.</td></tr>
+<tr><td>[36]</td><td>In folgenden Fällen sehen die Länder von der Verpflichtung ab, diese Angaben in einer Versandanmeldung bei der Abgangszollstelle im Zusammenhang mit dem Beförderungsmittel, auf das die Waren unmittelbar verladen wurden, zu übermitteln: – wenn dieses Datenelement aus logistischen Gründen nicht angegeben werden kann und der Inhaber des Versandverfahrens den AEO-C-Status in der Union oder einen ähnlichen Status in einem Land des gemeinsamen Versandverfahrens hat und – wenn die sachdienlichen Angaben von den Zollbehörden über die Buchführung des Inhabers des Versandverfahrens ermittelt werden können.</td></tr>
 <tr><td>[60]</td><td>Dieses Datenelement ist anzugeben, wenn eine Bewilligung gemäss Artikel 55 der Anlage I vorliegt.</td></tr>
 <tr><td>[61]</td><td>Dieses Datenelement ist fakultativ, wenn die Anmeldung vor der Gestellung der Waren eingereicht wird.</td></tr>
 <tr><td>[65]</td><td>Diese Angaben sind nur erforderlich, wenn die Zollbehörde beschlossen hat, die Waren mit einem Verschluss zu versehen.</td></tr>
-<tr><td>[70]</td><td>Nicht zu verwenden, wenn keine Durchgangszollstelle (D.E. 17 04 000 000) angemeldet wurde.</td></tr>
-<tr><td>[71]</td><td>Diese Angaben sind nicht erforderlich, wenn sie mit dem Beförderungsmittel beim Abgang (D.E. 19 05 000 000) identisch sind.</td></tr>
+<tr><td>[70]</td><td>Nicht zu verwenden, wenn keine Durchgangszollstelle (D.E. 1704000000) angemeldet wurde.</td></tr>
+<tr><td>[71]</td><td>Diese Angaben sind nicht erforderlich, wenn sie mit dem Beförderungsmittel beim Abgang (D.E. 1905000000) identisch sind.</td></tr>
 <tr><td>[75]</td><td>Nur auszufüllen, wenn dies in den Rechtsvorschriften der Vertragsparteien vorgesehen ist.</td></tr>
+<tr><td>[82]</td><td>Diese Angaben sind nur dann zu liefern, wenn für die betreffende Anmeldung ein zugelassener Versender verwendet wird.</td></tr>
 </table>
 
 ### Titel III: Anmerkungen und Codes betreffend die gemeinsamen Datenanforderungen für Versandanmeldungen
 
-Der Begriff «Art/Länge» in den Erläuterungen zu den Attributen beschreibt die Anforderungen an Datenart und Datenlänge. Die Codes für die Datenarten sind nachstehend aufgeführt:
+Der Begriff «Art/Länge» in den Erläuterungen zu einem Attribut zeigt die Anforderungen für Datenart und Datenlänge an. Die Codes für die Datenarten sind nachstehend aufgeführt.
 
-Gruppe 11 — Informationsanzeige (einschliesslich Verfahrenscodes)
+Gruppe 11 – Informationsanzeige (einschliesslich Verfahrenscodes)
 
 11 01 000 000 Art der Anmeldung
 
@@ -6747,12 +6771,12 @@ Die zu verwendenden Codes sind:
 <table>
 <tr><th>Code</th><th>Beschreibung</th><th>Datensatz in der Tabelle mit den Datenanforderungen in Titel II dieses Anhangs</th></tr>
 <tr><td>C</td><td>Unionswaren, die im Rahmen der Anwendung des Artikels 55 Absatz 1 Buchstabe h der Anlage I nicht in ein Versandverfahren übergeführt werden.</td><td>D3</td></tr>
-<tr><td>T</td><td>Gemischte Sendungen, die sowohl Waren, die in das T1-Verfahren zu überführen sind, als auch Waren, die in das T2-Verfahren zu überführen sind, enthalten, gemäss Artikel 28 der Anlage I.</td><td>D1, D2</td></tr>
+<tr><td>T</td><td>Gemischte Sendungen, die sowohl Waren enthalten, die in das T1-Verfahren übergeführt werden sollen, als auch Waren, die in das T2-Verfahren gemäss Artikel 28 der Anlage I übergeführt werden sollen.</td><td>D1, D2</td></tr>
 <tr><td>T1</td><td>Waren ohne den zollrechtlichen Status von Unionswaren, die in das gemeinsame Versandverfahren übergeführt werden.</td><td>D1, D2, D3</td></tr>
 <tr><td>T2</td><td>Waren mit dem zollrechtlichen Status von Unionswaren, die in das Versandverfahren übergeführt werden.</td><td>D1, D2, D3</td></tr>
 <tr><td>T2F</td><td>Waren mit dem zollrechtlichen Status von Unionswaren, die zwischen einem Teil des Zollgebiets der Union, in dem die Bestimmungen der Richtlinie 2006/112/EG oder der Richtlinie 2008/118/EG keine Anwendung finden, und einem Land des gemeinsamen Versandverfahrens befördert werden.</td><td>D1, D2, D3</td></tr>
 <tr><td>TD</td><td>Waren, die im Rahmen der Anwendung des Artikels 55 Absatz 1 Buchstabe h der Anlage I bereits in ein Versandverfahren übergeführt wurden.</td><td>D3</td></tr>
-<tr><td>X</td><td>Unionswaren, deren Ausfuhr beendet und deren Ausgang bestätigt wurde und die nicht im Rahmen der Anwendung des Artikels 55 Absatz 1 Buchstabe h der Anlage I in ein Versandverfahren übergeführt werden.</td><td>D3</td></tr>
+<tr><td>X</td><td>Unionswaren, deren Ausfuhr abgeschlossen und deren Ausgang bestätigt wurde und die nicht im Zusammenhang mit Artikel 55 Absatz 1 Buchstabe h der Anlage I in ein Versandverfahren übergeführt wurden.</td><td>D3</td></tr>
 </table>
 
 11 02 000 000 Zusätzliche Art der Anmeldung
@@ -6762,13 +6786,13 @@ Anzugeben ist der entsprechende Code.
 Die zu verwendenden Codes sind:
 
 <table>
-<tr><th>A</th><th>für eine Standard-Zollanmeldung (gemäss den Artikeln 25 und 26 der Anlage I)</th></tr>
+<tr><td>A</td><td>für eine Standard-Zollanmeldung (gemäss den Artikeln 25 und 26 der Anlage I)</td></tr>
 <tr><td>D</td><td>für die Abgabe einer Standard-Zollanmeldung (wie in Code A genannt) im Einklang mit Artikel 29*a* der Anlage I</td></tr>
 </table>
 
 11 03 000 000 Positionsnummer
 
-Laufende Nummer der Warenposition, die Gegenstand der Anmeldung ist, wenn es sich um mehr als eine Warenposition handelt.
+Nummer der in der Anmeldung auf Einzelsendungsebene, der summarischen Anmeldung, der Meldung oder des Nachweises des zollrechtlichen Status von Unionswaren enthaltenen Warenposition. Es handelt sich um eine für die gesamte Einzelsendung eindeutige Nummer. Die Positionen sind fortlaufend zu nummerieren, beginnend mit 1 für die erste Position, wobei die Nummerierung für jede folgende Position pro Einzelsendung um 1 erhöht wird.
 
 11 07 000 000 Sicherheit
 
@@ -6795,7 +6819,13 @@ Die zu verwendenden Codes sind:
 <tr><td>1</td><td>Ja (Waren werden mit einem verringerten Datensatz angemeldet)</td></tr>
 </table>
 
-Gruppe 12 — Bezugnahmen auf Nachrichten, Dokumente, Bescheinigungen, Bewilligungen
+11 11 000 000 Positionsnummer gemäss Anmeldung
+
+Alle verwendeten relevanten Spalten der Datenanforderungstabelle:
+
+Es handelt sich um eine in der gesamten Anmeldung eindeutige Nummer. Die Positionen sind fortlaufend zu nummerieren, beginnend mit 1 für die erste Position, wobei die Nummerierung für jede folgende Position um 1 erhöht wird.
+
+Gruppe 12 – Bezugnahmen auf Nachrichten, Dokumente, Bescheinigungen, Bewilligungen
 
 12 01 000 000 Vorpapier
 
@@ -6805,13 +6835,13 @@ Für Mitgliedstaaten der Europäischen Union: Anzugeben sind die Einzelheiten zu
 
 12 01 001 000 Referenznummer
 
-Anzugeben ist die Referenz auf die vorübergehende Verwahrung oder das vorangegangene Zollverfahren oder die entsprechenden Zollpapiere.
+Anzugeben ist die Referenz für die vorübergehende Verwahrung oder das vorangegangene Zollverfahren oder die entsprechenden Zollpapiere.
 
 Für Mitgliedstaaten der Europäischen Union: Im Falle einer Ausfuhr mit anschliessendem Versand ist die MRN der Ausfuhranmeldung anzugeben.
 
 Die zu verwendenden Codes sind:
 
-Hier ist die Kennnummer oder ein sonstiger eindeutiger Hinweis anzugeben, anhand deren das Dokument zu erkennen ist.
+Die Identifikationsnummer oder ein sonstiger eindeutiger Hinweis des Dokuments wird in Datenelement 12 01 001 00 angegeben.
 
 Wird die MRN als Vorpapier ausgewiesen, muss die Referenznummer wie folgt strukturiert sein:
 
@@ -6859,19 +6889,19 @@ In Feld Nr. 4 «Verfahrenskennung» zu verwendende Codes:
 
 12 01 002 000 Art
 
-Unter Verwendung des entsprechenden Codes ist die Art des Dokuments anzugeben.
+Anzugeben ist die Art des Dokuments unter Verwendung des entsprechenden Codes.
 
 Die zu verwendenden Codes sind:
 
 Die Codes sind in der TARIC-Datenbank enthalten.
 
-12 01 003 000 Art der Packstücke
+12 01 003 000 Art der Verpackung
 
 Anzugeben ist der Code der für die Abschreibung der Anzahl der Packstücke relevanten Packstückart.
 
 Die zu verwendenden Codes sind:
 
-Code für die Art der Packstücke gemäss einleitender Bemerkung 8 Nummer 1.
+Code für die Art der Verpackung gemäss einleitender Bemerkung 8 Nummer 1.
 
 12 01 004 000 Anzahl der Packstücke
 
@@ -6879,7 +6909,7 @@ Anzugeben ist die relevante Zahl der Packstückabschreibungen.
 
 12 01 005 000 Masseinheit und Qualifikator
 
-Anzugeben ist die entsprechende Masseinheit und der Qualifikator für die Abschreibung.
+Anzugeben sind die entsprechende Masseinheit und der Qualifikator für die Abschreibung.
 
 Die zu verwendenden Codes und Formate sind:
 
@@ -6891,23 +6921,23 @@ Sind keine solchen Masseinheiten und Qualifikatoren im TARIC verfügbar, können
 
 Anzugeben ist die entsprechende Menge für die Abschreibung.
 
-12 01 007 000 Positionskennung
+12 01 007 000Positionskennung °°°Positionsnummer\*\*\*
 
-Anzugeben ist die im Vorpapier gemeldete Positionsnummer.
+Anzugeben ist die im Vorpapier angegebene Positionsnummer.
 
 12 01 079 000 Zusätzliche Angaben
 
 Anzugeben sind ergänzende Informationen zum Vorpapier.
 
-Dieses Datenelement ermöglicht es dem Wirtschaftsteilnehmer, ergänzende Angaben in Bezug auf das Vorpapier zu machen.
+Dieses Datenelement ermöglicht es dem Wirtschaftsbeteiligten, ergänzende Angaben in Bezug auf das Vorpapier zu machen.
 
-12 02 000 000 Zusätzliche Informationen:
+12 02 000 000 Zusätzliche Informationen
 
-Dieses Datenelement ist in Bezug auf Informationen zu verwenden, für die in den Rechtsvorschriften der Vertragsparteien nicht festgelegt wird, in welchem Feld sie einzugeben sind.
+Dieses Datenelement ist in Bezug auf Informationen zu verwenden, für die in den Rechtsvorschriften der Vertragsparteien nicht festgelegt wird, welchem Feld sie einzugeben sind.
 
 12 02 008 000 Code
 
-Anzugeben ist der entsprechende Code und gegebenenfalls der von dem betreffenden Land vorgesehene Code.
+Anzugeben sind der entsprechende Code und gegebenenfalls der von dem betreffenden Land vorgesehene Code.
 
 Die zu verwendenden Codes und Formate sind:
 
@@ -6921,7 +6951,7 @@ Die Codes «00200», «20100», «20200» und «20300» werden, sofern zutreffen
 
 <table>
 <tr><th>Code</th><th>Rechtsgrundlage</th><th>Sachverhalt</th><th>Zusätzliche Informationen</th></tr>
-<tr><td>00200</td><td>Anhang A1a Titel III</td><td>Mehrere Unterlagen und Parteien</td><td>«Verschiedene»</td></tr>
+<tr><td>00200</td><td>Anhang A1*a* Titel III</td><td>Mehrere Unterlagen und Parteien</td><td>«Verschiedene»</td></tr>
 <tr><td>20100</td><td>Artikel 18 des Übereinkommens</td><td>Beschränkungen unterliegende Ausfuhr aus einem Land einer Vertragspartei oder Beschränkungen unterliegende Ausfuhr aus der Union</td><td></td></tr>
 <tr><td>20200</td><td>Artikel 18 des Übereinkommens</td><td>Abgabenpflichtige Ausfuhr aus einem Land einer Vertragspartei oder abgabenpflichtige Ausfuhr aus der Union</td><td></td></tr>
 <tr><td>20300</td><td>Artikel 18 des Übereinkommens</td><td>Ausfuhr</td><td>«Ausfuhr»</td></tr>
@@ -6939,11 +6969,11 @@ Bei Bedarf können Erläuterungen zu dem angemeldeten Code gegeben werden.
 
 12 03 001 000 Referenznummer
 
-Kennnummer oder Referenznummer von Unterlagen oder Bescheinigungen der Vertragsparteien oder von internationalen Unterlagen oder Bescheinigungen, die zusammen mit der Anmeldung vorgelegt werden.
+Identifikations- oder Referenznummer von Unterlagen oder Bescheinigungen der Vertragsparteien oder von internationalen Unterlagen oder Bescheinigungen, die zusammen mit der Anmeldung vorgelegt werden.
 
 Unter Verwendung der vorgesehenen Codes sind die für spezifische Regelungen vorgeschriebenen Angaben und die Referenzdaten der zusammen mit der Anmeldung vorgelegten Unterlagen anzugeben.
 
-Kennnummer oder Referenznummer der nationalen Dokumente oder Bescheinigungen, die zusammen mit der Erklärung vorgelegt werden.
+Identifikations- oder Referenznummer der nationalen Dokumente oder Bescheinigungen, die zusammen mit der Erklärung vorgelegt werden.
 
 12 03 002 000 Art
 
@@ -6955,9 +6985,9 @@ Die zu verwendenden Codes und Formate sind:
 
 Die zusammen mit der Versandanmeldung vorgelegten Unterlagen, Bescheinigungen oder Bewilligungen der Vertragsparteien oder internationalen Unterlagen, Bescheinigungen oder Bewilligungen sind im Format a1an3 anzugeben. Das Verzeichnis der Unterlagen, Bescheinigungen und Bewilligungen mit den entsprechenden Codes ist in der TARIC-Datenbank enthalten.
 
-Nationale Unterlagen, Bescheinigungen und Bewilligungen, die zusammen mit der Anmeldung vorgelegt werden, sind im Format n1an3 anzugeben (z. B. 2123, 34d5). Die vier Zeichen des Codes ergeben sich aus der Nomenklatur des jeweiligen Landes.
+Nationale Unterlagen, Bescheinigungen und Bewilligungen, die zusammen mit der Anmeldung vorgelegt werden, sind im Format n1an3 anzugeben. Die vier Zeichen des Codes ergeben sich aus der Nomenklatur des jeweiligen Landes.
 
-12 03 013 000 Zeilen-/Positionsnummer im Dokument:
+12 03 013 000 Zeilen-/Positionsnummer im Dokument
 
 Anzugeben ist die laufende Nummer der Warenposition in der Unterlage (z. B. Bescheinigung, Lizenz, Genehmigung, Einfuhrdokument usw.), die der betreffenden Warenposition entspricht.
 
@@ -6967,11 +6997,11 @@ Anzugeben sind ergänzende Informationen zur Unterlage.
 
 Dieses Datenelement ermöglicht es dem Wirtschaftsteilnehmer, ergänzende Angaben in Bezug auf die Unterlage zu machen.
 
-12 04 000 000 Sonstiger Verweis
+12 04 000 000 Zusätzliche Referenz
 
 12 04 001 000 Referenznummer
 
-Referenznummer etwaiger zusätzlicher Anmeldungen, die nicht durch eine Unterlage, ein Beförderungspapier oder zusätzliche Informationen abgedeckt sind.
+Referenznummer oder sonstige eindeutige Referenznummer, die nicht unter Unterlage, Beförderungspapier oder Zusätzliche Informationen angegeben ist.
 
 12 04 002 000 Art
 
@@ -6981,13 +7011,17 @@ Die zu verwendenden Codes und Formate sind:
 
 Die Codes der Vertragsparteien für sonstige Verweise sind im Format a1an3 anzugeben. Das Verzeichnis der sonstigen Verweise mit den entsprechenden Codes ist in der TARIC-Datenbank enthalten.
 
-Die Länder können nationale Codes festlegen. Nationale Codes für sonstige Verweise sind im Format n1an3 anzugeben, gegebenenfalls gefolgt von einer Kennnummer oder einem anderen erkennbaren Verweis. Die vier Zeichen des Codes ergeben sich aus der Nomenklatur des jeweiligen Landes.
+Die Länder können nationale Codes festlegen. Nationale Codes für zusätzliche Referenzen sind im Format n1an3 anzugeben, gegebenenfalls gefolgt von einer Identifikationsnummer oder einer anderen erkennbaren Referenz. Die vier Zeichen des Codes ergeben sich aus der Nomenklatur des jeweiligen Landes.
 
 12 05 000 000 Beförderungspapier
 
 Dieses Datenelement enthält die Art und die Referenznummer des Beförderungspapiers.
 
 12 05 001 000 Referenznummer
+
+Tabelle mit den Datenanforderungen – Spalten D1 und D2:
+
+Dieses Datenelement umfasst die Referenznummer des Beförderungspapiers/der Beförderungspapiere für die Beförderung von Waren im Versand.
 
 Für Spalte D3:
 
@@ -7003,7 +7037,7 @@ Die Codes sind in der TARIC-Datenbank enthalten.
 
 12 08 000 000 Referenznummer/UCR
 
-Bei dieser Angabe handelt es sich um die eindeutige Kennnummer, die der Beteiligte der betreffenden Sendung gegeben hat.
+Bei dieser Angabe handelt es sich um die Kennnummer der Sendung, die der Beteiligte der betreffenden Sendung zugewiesen hat.
 
 Diese Angabe kann die Form von Codes der WZO (ISO 15459) oder gleichwertigen Codes annehmen. Sie bietet Zugang zu grundlegenden gewerblichen Daten, die für die Zollbehörden von Interesse sind.
 
@@ -7025,7 +7059,7 @@ Die zu verwendenden Codes sind:
 
 Die Codes sind in der TARIC-Datenbank enthalten.
 
-Gruppe 13 — Beteiligte
+Gruppe 13 – Beteiligte
 
 13 02 000 000 Versender
 
@@ -7037,25 +7071,25 @@ Diese Angabe ist erforderlich, wenn sie sich vom Anmelder unterscheidet.
 
 Anzugeben sind der vollständige Name und gegebenenfalls die Rechtsform des Beteiligten.
 
-13 02 017 000 Kennnummer:
+13 02 017 000 Identifikationsnummer
 
-Anzugeben ist die EORI-Nummer des Versenders oder die Kennnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
+Anzugeben ist die EORI-Nummer des Versenders oder die Identifikationsnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
 
-Werden Erleichterungen im Rahmen eines von der betroffenen Vertragspartei anerkannten Partnerschaftsprogramms für Drittlandsbeteiligte gewährt, kann diese Angabe in Form einer eindeutigen Drittlandskennnummer gemacht werden, die das betreffende Drittland der betroffenen Vertragspartei mitgeteilt hat. Diese Nummer kann, sofern sie dem Anmelder bekannt ist, verwendet werden.
+Werden Erleichterungen im Rahmen eines von der betroffenen Vertragspartei anerkannten Partnerschaftsprogramms für Drittlandsbeteiligte gewährt, kann diese Angabe in Form einer eindeutigen Drittlandsidentifikationsnummer gemacht werden, die das betreffende Drittland der betroffenen Vertragspartei mitgeteilt hat. Diese Nummer kann verwendet werden, sofern sie dem Anmelder bekannt ist.
 
 Die zu verwendenden Codes sind:
 
-Eine eindeutige Drittlandskennnummer, die der betreffenden Vertragspartei mitgeteilt wurde, hat folgende Struktur:
+Eine eindeutige Drittlandsidentifikationsnummer, die der betreffenden Vertragspartei mitgeteilt wurde, hat folgende Struktur:
 
 <table>
 <tr><th>Feld</th><th>Inhalt</th><th>Format</th></tr>
 <tr><td>1</td><td>Ländercode</td><td>a2</td></tr>
-<tr><td>2</td><td>Eindeutige Kennnummer in einem Drittland</td><td>an..15</td></tr>
+<tr><td>2</td><td>Eindeutige Identifikationsnummer in einem Drittland</td><td>an..15</td></tr>
 </table>
 
 Ländercode: Ländercode gemäss einleitender Bemerkung 8 Nummer 3.
 
-13 02 018 000 Anschrift:
+13 02 018 000 Anschrift
 
 13 02 018 019 Strasse und Hausnummer
 
@@ -7069,9 +7103,9 @@ Die zu verwendenden Codes sind:
 
 Ländercode gemäss einleitender Bemerkung 8 Nummer 3.
 
-13 02 018 021 Postleitzahl:
+13 02 018 021 Postleitzahl
 
-Anzugeben ist die Postleitzahl für die entsprechende Anschrift.
+Anzugeben ist die massgebliche Postleitzahl für die entsprechende Anschrift.
 
 13 02 018 022 Ort
 
@@ -7095,23 +7129,23 @@ Anzugeben ist die E-Mail-Adresse der Kontaktperson.
 
 Die Partei, der die Waren tatsächlich geliefert werden.
 
-Dieses Datenelement und seine Unterelemente können bis zur Aktualisierung des NCTS gemäss dem Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission durch alle Vertragsparteien auf HI-Ebene angemeldet werden.
+Dieses Datenelement und seine Unterelemente können bis zur Aktualisierung des NCTS gemäss dem Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission durch alle Vertragsparteien auf HI-Ebene angemeldet werden.
 
 13 03 016 000 Name
 
 Anzugeben sind der vollständige Name und gegebenenfalls die Rechtsform des Beteiligten.
 
-13 03 017 000 Kennnummer
+13 03 017 000 Identifikationsnummer
 
-Anzugeben ist die EORI-Nummer oder die Kennnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
+Anzugeben ist die EORI-Nummer oder die Identifikationsnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
 
-Werden Erleichterungen im Rahmen eines von der betroffenen Vertragspartei anerkannten Partnerschaftsprogramms für Drittlandsbeteiligte gewährt, kann diese Angabe in Form einer eindeutigen Drittlandskennnummer gemacht werden, die das betreffende Drittland der betroffenen Vertragspartei mitgeteilt hat. Diese Nummer kann, sofern sie dem Anmelder bekannt ist, verwendet werden.
+Werden Erleichterungen im Rahmen eines von der betroffenen Vertragspartei anerkannten Partnerschaftsprogramms für Drittlandsbeteiligte gewährt, kann diese Angabe in Form einer eindeutigen Drittlandsidentifikationsnummer gemacht werden, die das betreffende Drittland der betroffenen Vertragspartei mitgeteilt hat. Diese Nummer kann verwendet werden, sofern sie dem Anmelder bekannt ist.
 
 Die zu verwendenden Codes sind:
 
-Die für D.E. 13 02 017 000 Versender/Kennnummer festgelegte Kennnummer ist zu verwenden.
+Zu verwenden ist die für D.E. 13 02 017 000 Versender/Identifikationsnummer festgelegte Identifikationsnummer.
 
-13 03 018 000 Anschrift:
+13 03 018 000 Anschrift
 
 13 03 018 019 Strasse und Hausnummer
 
@@ -7129,9 +7163,9 @@ Für Länder des gemeinsamen Versandverfahrens ist der Code XI fakultativ.
 
 13 03 018 021 Postleitzahl
 
-Anzugeben ist die Postleitzahl für die entsprechende Anschrift.
+Anzugeben ist die massgebliche Postleitzahl für die entsprechende Anschrift.
 
-13 03 018 022 Ort:
+13 03 018 022 Ort
 
 Anzugeben ist Bezeichnung des Orts in der Anschrift des Beteiligten.
 
@@ -7139,13 +7173,13 @@ Anzugeben ist Bezeichnung des Orts in der Anschrift des Beteiligten.
 
 Diese Angaben sind erforderlich, falls nicht identisch mit D.E. 13 05 000 000 Anmelder oder ggf. D.E. 13 07 000 000 Inhaber des Versandverfahrens.
 
-13 06 017 000 Kennnummer
+13 06 017 000 Identifikationsnummer
 
-Anzugeben ist die EORI-Nummer des Beteiligten oder die Kennnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
+Anzugeben ist die EORI-Nummer des Beteiligten oder die Identifikationsnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
 
 Die zu verwendenden Codes sind:
 
-Die für D.E. 13 02 017 000 Versender/Kennnummer festgelegte Kennnummer ist zu verwenden.
+Zu verwenden ist die für D.E. 13 02 017 000 Versender/Identifikationsnummer festgelegte Identifikationsnummer.
 
 13 06 030 000 Status
 
@@ -7162,7 +7196,7 @@ Für den Status des Vertreters ist einer der folgenden Codes vor den Namen zu se
 
 Der Code 3 ist für das Versandverfahren nicht relevant.
 
-13 06 074 000 Kontaktperson:
+13 06 074 000 Kontaktperson
 
 13 06 074 016 Name
 
@@ -7176,21 +7210,21 @@ Anzugeben ist die Telefonnummer der Kontaktperson.
 
 Anzugeben ist die E-Mail-Adresse der Kontaktperson.
 
-13 07 000 000 Inhaber des Versandverfahrens:
+13 07 000 000 Inhaber des Versandverfahrens
 
-13 07 016 000 Name:
+13 07 016 000 Name
 
 Anzugeben sind Name und Vorname bzw. Firma und vollständige Anschrift des Inhabers des Versandverfahrens. Anzugeben sind gegebenenfalls Name und Vorname bzw. Firma des bevollmächtigten Vertreters, der die Versandanmeldung im Auftrag des Inhabers des Verfahrens vorlegt.
 
-13 07 017 000 Kennnummer
+13 07 017 000 Identifikationsnummer
 
-Anzugeben ist die EORI-Nummer des Inhabers des Versandverfahrens oder die Kennnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
+Anzugeben ist die EORI-Nummer des Inhabers des Versandverfahrens oder die Identifikationsnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
 
 Die zu verwendenden Codes sind:
 
-Die für D.E. 13 02 017 000 Versender/Kennnummer festgelegte Kennnummer ist zu verwenden.
+Zu verwenden ist die für D.E. 13 02 017 000 Versender/Identifikationsnummer festgelegte Identifikationsnummer.
 
-13 07 018 000 Anschrift:
+13 07 018 000 Anschrift
 
 13 07 018 019 Strasse und Hausnummer
 
@@ -7206,13 +7240,13 @@ Ländercode gemäss einleitender Bemerkung 8 Nummer 3.
 
 13 07 018 021 Postleitzahl
 
-Anzugeben ist die Postleitzahl für die entsprechende Anschrift.
+Anzugeben ist die massgebliche Postleitzahl für die entsprechende Anschrift.
 
 13 07 018 022 Ort
 
 Anzugeben ist Bezeichnung des Orts in der Anschrift des Beteiligten.
 
-13 07 074 000 Kontaktperson:
+13 07 074 000 Kontaktperson
 
 13 07 074 016 Name
 
@@ -7230,15 +7264,15 @@ Anzugeben ist die E-Mail-Adresse der Kontaktperson.
 
 Weitere Wirtschaftsbeteiligte in der Lieferkette können hier angegeben werden, um nachzuweisen, dass die gesamte Lieferkette von den Wirtschaftsbeteiligten abgedeckt wurde, die den AEO-Status innehatten.
 
-Wird diese Datenklasse verwendet, ist die Funktion und Kennnummer anzugeben, andernfalls ist dieses Datenelement fakultativ.
+Wird diese Datenklasse verwendet, ist die Funktion und Identifikationsnummer anzugeben, andernfalls ist dieses Datenelement fakultativ.
 
-13 14 017 000 Kennnummer
+13 14 017 000 Identifikationsnummer
 
-Die EORI-Nummer oder die eindeutige Drittlandskennnummer ist anzugeben, wenn dem Beteiligten eine solche Nummer zugeteilt wurde.
+Die EORI-Nummer oder die eindeutige Drittlandsidentifikationsnummer ist anzugeben, wenn dem Beteiligten eine solche Nummer zugeteilt wurde.
 
 Die zu verwendenden Codes sind:
 
-Die für D.E. 13 02 017 000 Versender/Kennnummer festgelegte Kennnummer ist zu verwenden.
+Zu verwenden ist die für D.E. 13 02 017 000 Versender/Identifikationsnummer festgelegte Identifikationsnummer.
 
 13 14 031 000 Funktion
 
@@ -7256,7 +7290,15 @@ Folgende Parteien können angegeben werden:
 <tr><td>WH</td><td>Lagerhalter</td><td>Partei, die die Verantwortung für eingelagerte Waren übernimmt</td></tr>
 </table>
 
-Gruppe 16 — Orte/Länder/Regionen
+Gruppe 15 – Daten/Fristen/Zeiträume
+
+15 11 000 000 Datum der Frist
+
+Alle verwendeten relevanten Spalten der Datenanforderungstabelle:
+
+Datum, bis zu dem die Waren der Bestimmungszollstelle zu gestellen sind.
+
+Gruppe 16 – Orte/Länder/Regionen
 
 16 03 000 000 Bestimmungsland
 
@@ -7272,7 +7314,7 @@ Für Länder des gemeinsamen Versandverfahrens ist der Code XI fakultativ.
 
 16 06 000 000 Versendungsland
 
-Anzugeben ist der entsprechende Code des Landes, aus dem die Waren versendet/ausgeführt werden.
+Unter Verwendung des entsprechenden Codes ist das Land anzugeben, aus dem die Waren versandt/ausgeführt werden oder in dem der Versandvorgang begonnen hat und die Versandanmeldung eingereicht wurde.\*\*\*
 
 Die zu verwendenden Codes sind:
 
@@ -7280,9 +7322,9 @@ Ländercode gemäss einleitender Bemerkung 8 Nummer 3.
 
 16 12 000 000 Von der Sendung zu durchquerendes Land
 
-Dieses Datenelement ist erforderlich, wenn eine vorgeschriebene Beförderungsstrecke von der Abgangszollstelle festgelegt wird (siehe 16 17 000 000 Vorgeschriebene Beförderungsstrecke).
+Dieses Datenelement ist erforderlich, wenn eine feste Beförderungsstrecke von der Abgangszollstelle vorgeschrieben wird (siehe 16 17 000 000 Vorgeschriebene Beförderungsstrecke). \*\*\*
 
-Kennung der Länder, die auf der Strecke des Beförderungsmittels zwischen dem Abgangsland und dem Bestimmungsland liegen (in chronologischer Reihenfolge). Dazu gehören auch das Abgangsland und das Land der Endbestimmung der Waren.
+Kennung der Länder, die auf der Beförderungsstrecke zwischen dem Abgangsland und dem Bestimmungsland liegen (in chronologischer Reihenfolge). Dazu gehören auch das Abgangsland und das Land der Endbestimmung der Waren.
 
 16 12 020 000 Land
 
@@ -7347,7 +7389,7 @@ Für die Art des Ortes sind die folgenden Codes zu verwenden:
 <tr><td>D</td><td>Sonstige</td></tr>
 </table>
 
-16 15 046 000 Qualifikator der Identifizierung
+16 15 046 000 Qualifikator der Ortsbestimmung
 
 Anzugeben ist der entsprechende Code für die Identifizierung des Ortes. Je nach verwendetem Qualifikator ist nur die massgebliche Kennung anzugeben.
 
@@ -7357,16 +7399,16 @@ Zur Kennzeichnung des Orts ist eine der folgenden Kennungen zu verwenden:
 
 <table>
 <tr><th>Qualifikator</th><th>Kennung</th><th>Beschreibung</th></tr>
-<tr><td>T</td><td>PLZ-Adresse</td><td>Die Postleitzahl mit oder ohne Hausnummer für den betreffenden Ort ist zu verwenden.</td></tr>
+<tr><td>T</td><td>PLZ-Adresse</td><td>Zu verwenden ist die Postleitzahl mit oder ohne Hausnummer für den betreffenden Ort.</td></tr>
 <tr><td>U</td><td>UN/LOCODE</td><td>UN/LOCODE gemäss einleitender Bemerkung 8 Nummer 4.</td></tr>
-<tr><td>V</td><td>Kennung der Zollstelle</td><td>Die unter D.E. 17 05 001 000 Bestimmungszollstelle/Referenznummer festgelegten Struktur.</td></tr>
-<tr><td>W</td><td>GNSS-Koordinaten</td><td>Dezimalgrade mit negativen Zahlen für den Süden und Westen. Beispiele: 44.424896°/8.774792° oder 50.838068°/4.381508°</td></tr>
-<tr><td>X</td><td>EORI-Nummer</td><td>Die für D.E. 13 02 017 000 Versender/Kennnummer festgelegte Kennnummer ist zu verwenden. Unterhält der Wirtschaftsbeteiligte Räumlichkeiten an mehr als einem Ort, wird die Nummer durch eine eindeutige Kennung des betreffenden Orts ergänzt.</td></tr>
+<tr><td>V</td><td>Kennung der Zollstelle</td><td>Zu verwenden ist die unter D.E. 17 05 001 000 Bestimmungszollstelle/Referenznummer festgelegte Struktur.</td></tr>
+<tr><td>W</td><td>GNSS-Koordinaten</td><td>Dezimalgrade mit negativen Zahlen für den Süden und Westen. Beispiele: 44.424896°/ 8.774792° oder 50.838068°/ 4.381508°</td></tr>
+<tr><td>X</td><td>EORI-Nummer</td><td>Zu verwenden ist die für D.E. 13 02 017 000 Versender/Identifikationsnummer festgelegte Identifikationsnummer. Unterhält der Wirtschaftsbeteiligte Räumlichkeiten an mehr als einem Ort, wird die Nummer durch eine eindeutige Kennung des betreffenden Orts ergänzt.</td></tr>
 <tr><td>Y</td><td>Bewilligungsnummer</td><td>Anzugeben ist die Bewilligungsnummer des betreffenden Orts, d. h. der Bewilligung in Bezug auf den Status eines zugelassenen Versenders. Gilt die Bewilligung für Räumlichkeiten an mehr als einem Ort, wird die Bewilligungsnummer durch eine eindeutige Kennung des betreffenden Orts ergänzt.</td></tr>
 <tr><td>Z</td><td>Anschrift</td><td>Anzugeben ist die Anschrift des betreffenden Orts.</td></tr>
 </table>
 
-Wird Code «X» (EORI-Nummer) oder Code «Y» (Bewilligungsnummer) zur Kennzeichnung des Orts verwendet und sind mehrere Orte mit der EORI-Nummer oder der Bewilligungsnummer verbunden, kann zur eindeutigen Kennzeichnung des Orts eine zusätzliche Kennung verwendet werden.
+Wird der Code «X» (EORI-Nummer) oder der Code «Y» (Nummer der Bewilligung) zur Kennzeichnung des Ortes verwendet und sind mehrere Orte mit der betreffenden EORI-Nummer oder der betreffenden Bewilligungsnummer verbunden, so kann zur eindeutigen Identifikation des Orts eine zusätzliche Kennung verwendet werden.
 
 16 15 047 000 Zollstelle
 
@@ -7394,15 +7436,15 @@ Anzugeben ist der Längengrad des Ortes, an dem die Waren zur Verfügung stehen.
 
 16 15 051 000 Wirtschaftsbeteiligter
 
-Zu verwenden ist die Kennnummer des Wirtschaftsbeteiligten, in dessen Räumlichkeiten die Waren kontrolliert werden können.
+Zu verwenden ist die Identifikationsnummer des Wirtschaftsbeteiligten, in dessen Räumlichkeiten die Waren kontrolliert werden können.
 
-16 15 051 017 Kennnummer
+16 15 051 017 Identifikationsnummer
 
-Anzugeben ist die EORI-Nummer des Bewilligungsinhabers oder die Kennnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
+Anzugeben ist die EORI-Nummer des Bewilligungsinhabers oder die Identifikationsnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens.
 
 Die zu verwendenden Codes sind:
 
-Die für D.E. 13 02 017 000 Versender/Kennnummer festgelegte Kennnummer ist zu verwenden.
+Zu verwenden ist die für D.E. 13 02 017 000 Versender/Identifikationsnummer festgelegte Identifikationsnummer.
 
 16 15 052 000 Bewilligungsnummer
 
@@ -7410,9 +7452,9 @@ Anzugeben ist die Bewilligungsnummer des betreffenden Ortes.
 
 16 15 053 000 Zusätzliche Kennung
 
-Damit der Ort, auf den sich eine EORI-Nummer, eine Kennnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens oder eine Bewilligung bezieht, genauer angegeben werden kann ist, soweit verfügbar, bei mehreren Räumlichkeiten der entsprechende Code anzugeben.
+Damit der Ort, auf den sich eine EORI-Nummer, eine Identifikationsnummer des Wirtschaftsbeteiligten in einem Land des gemeinsamen Versandverfahrens oder eine Bewilligung bezieht, genauer angegeben werden kann, ist bei mehreren Räumlichkeiten der entsprechende Code anzugeben, soweit verfügbar.
 
-16 15 018 000 Anschrift:
+16 15 018 000 Anschrift
 
 16 15 018 019 Strasse und Hausnummer
 
@@ -7428,7 +7470,7 @@ Ländercode gemäss einleitender Bemerkung 8 Nummer 3.
 
 16 15 018 021 Postleitzahl
 
-Anzugeben ist die Postleitzahl für die entsprechende Anschrift.
+Anzugeben ist die massgebliche Postleitzahl für die entsprechende Anschrift.
 
 16 15 018 022 Ort
 
@@ -7468,7 +7510,7 @@ Anzugeben ist die Telefonnummer der Kontaktperson.
 
 Anzugeben ist die E-Mail-Adresse der Kontaktperson.
 
-16 17 000 000 Vorgeschriebene Beförderungsstrecke
+16 17 000 000 Vorgeschriebene Beförderungsstrecke\*\*\*
 
 Unter Verwendung der entsprechenden Codes ist anzugeben, ob die vorgeschriebene Beförderungsstrecke angewendet wird.
 
@@ -7480,16 +7522,16 @@ Die folgenden Codes sind zu verwenden:
 
 <table>
 <tr><td>0</td><td>Die Waren müssen nicht auf einer vorgeschriebenen Beförderungsstrecke von der Abgangszollstelle zur Bestimmungszollstelle befördert werden.</td></tr>
-<tr><td>1</td><td>Die Waren müssen auf einer vorgeschriebenen Beförderungsstrecke von der Abgangszollstelle zur Bestimmungszollstelle befördert.</td></tr>
+<tr><td>1</td><td>Die Waren müssen auf einer vorgeschriebenen Beförderungsstrecke von der Abgangszollstelle zur Bestimmungszollstelle befördert werden.</td></tr>
 </table>
 
-Gruppe 17 — Zollstellen
+Gruppe 17 – Zollstellen
 
 17 03 000 000 Abgangszollstelle
 
 17 03 001 000 Referenznummer
 
-Unter Verwendung der entsprechenden Codes ist die Kennnummer der Zollstelle anzugeben, an der das Versandverfahren beginnen soll.
+Unter Verwendung der entsprechenden Codes ist die Referenznummer der Zollstelle anzugeben, an der das Versandverfahren beginnen soll.
 
 Die zu verwendenden Codes sind:
 
@@ -7499,9 +7541,9 @@ Die Kennung der Zollstelle richtet sich nach der für D.E. 17 05 001 000 Bestimm
 
 17 04 001 000 Referenznummer
 
-Anzugeben ist der Code für die Zollstelle, die für den Eingangsort in das Zollgebiet einer Vertragspartei zuständig ist, wenn die Waren im Versandverfahren befördert werden, oder die Zollstelle, die für den Ausgangsort aus dem Zollgebiet einer Vertragspartei zuständig ist, wenn die Waren dieses Zollgebiet im Verlauf eines Versandverfahrens über eine Grenze zwischen dieser Vertragspartei und einem Drittland verlassen.
+Anzugeben ist der Code für die Zollstelle, die für den Eingangsort in das Zollgebiet einer Vertragspartei zuständig ist, wenn die Waren im Versandverfahren befördert werden, oder die Zollstelle, die für den Ort des Ausgangs aus dem Zollgebiet einer Vertragspartei zuständig ist, wenn die Waren dieses Zollgebiet im Verlauf eines Versandverfahrens über eine Grenze zwischen dieser Vertragspartei und einem Drittland verlassen.
 
-Unter Verwendung des entsprechenden Codes ist die Kennnummer der betreffenden Zollstelle anzugeben.
+Unter Verwendung des entsprechenden Codes ist die Referenznummer der betreffenden Zollstelle anzugeben.
 
 Die zu verwendenden Codes sind:
 
@@ -7511,17 +7553,18 @@ Die Kennung der Zollstelle richtet sich nach der für D.E. 17 05 001 000 Bestimm
 
 17 05 001 000 Referenznummer
 
-Unter Verwendung der entsprechenden Codes ist die Kennnummer der Zollstelle anzugeben, bei der das Versandverfahren endet.
+Unter Verwendung der entsprechenden Codes ist die Identifikationsnummer der Zollstelle anzugeben, bei der das Versandverfahren endet.
 
 Die zu verwendenden Codes und Formate sind:
 
 Die Codes (an8) haben folgende Struktur:
 
-Die ersten beiden Zeichen (a2) geben mittels des Ländercodes gemäss einleitender Bemerkung 8 Nummer 3 das Land an,
+- – Die ersten beiden Zeichen (a2) geben mittels des Ländercodes gemäss einleitender Bemerkung 8 Nummer 3 das Land an;
+- –
 
-die nächsten sechs Zeichen (an6) stehen für die betreffende Zollstelle in dem Land. Hierfür wird folgende Struktur empfohlen:
+  die nächsten sechs Zeichen (an6) stehen für die betreffende Zollstelle in dem Land. Hierfür wird folgende Struktur empfohlen:
 
-Die ersten drei Zeichen (an3) stehen für den UN/LOCODE (Ortsbezeichnung) gefolgt von einer dreistelligen nationalen alphanumerischen Unterteilung (an3). Wird die Unterteilung nicht in Anspruch genommen, ist «000» anzugeben.
+  - – Die ersten drei Zeichen (an3) stehen für den UN/LOCODE (Ortsbezeichnung) gefolgt von einer dreistelligen nationalen alphanumerischen Unterteilung (an3). Wird die Unterteilung nicht in Anspruch genommen, ist «000» anzugeben.
 
 Beispiel: BEBRU000: BE = ISO 3166 für Belgien, BRU = UN/LOCODE für die Stadt Brüssel, 000 für die nicht in Anspruch genommene Unterteilung.
 
@@ -7529,7 +7572,7 @@ Beispiel: BEBRU000: BE = ISO 3166 für Belgien, BRU = UN/LOCODE für die Stadt B
 
 17 06 001 000 Referenznummer
 
-Unter Verwendung des entsprechenden Codes ist die Kennnummer der betreffenden Zollstelle anzugeben.
+Unter Verwendung des entsprechenden Codes ist die Identifikationsnummer der betreffenden Zollstelle anzugeben.
 
 Dieses Datenelement ist erforderlich, wenn die Anmeldung zum Versandverfahren mit der summarischen Ausgangsanmeldung kombiniert wird. Anzugeben ist der Code der vorgesehenen Zollstelle, an der der Versandvorgang den Sicherheitsbereich verlässt.
 
@@ -7539,7 +7582,7 @@ Die zu verwendenden Codes sind:
 
 Die Kennung der Zollstelle richtet sich nach der für D.E. 17 05 001 000 Bestimmungszollstelle/Referenznummer festgelegten Struktur.
 
-Gruppe 18 — Nämlichkeit der Waren
+Gruppe 18 – Nämlichkeit der Waren
 
 18 01 000 000 Eigenmasse
 
@@ -7547,11 +7590,14 @@ Anzugeben ist die Eigenmasse der in der entsprechenden Warenposition beschrieben
 
 Wenn die Eigenmasse mehr als 1 kg beträgt und einen Bruchteil der Masseinheit (kg) umfasst, kann wie folgt ab- oder aufgerundet werden:
 
-von 0,001 bis 0,499: abrunden auf das niedrigere ganze Kilogramm;
-
-von 0,5 bis 0,999: aufrunden auf das höhere ganze Kilogramm.
+- – von 0,001 bis 0,499: abrunden auf das ganze Kilogramm;
+- – von 0,5 bis 0,999: aufrunden auf das ganze Kilogramm.
 
 Beträgt die Eigenmasse weniger als 1 kg, so ist «0,» gefolgt von maximal sechs Dezimalstellen anzugeben, wobei alle Nullen am Ende der Menge weggelassen werden (z. B. 0,123 für ein Packstück von 123 Gramm, 0,00304 für ein Packstück von 3 Gramm und 40 Milligramm oder 0,000654 für ein Packstück von 654 Milligramm).
+
+18 02 000 000 Besondere Masseinheiten°°° Besondere Masseinheit\*\*\*
+
+Sofern erforderlich ist die Menge der betreffenden Position in der Masseinheit anzugeben, die in den Unionsvorschriften, wie im TARIC veröffentlicht, vorgesehen ist.
 
 18 04 000 000 Rohmasse
 
@@ -7559,9 +7605,8 @@ Die Rohmasse ist das Gewicht der Ware einschliesslich Verpackung, ausgenommen je
 
 Wenn die Rohmasse mehr als 1 kg beträgt und einen Bruchteil der Masseinheit (kg) umfasst, kann wie folgt ab- oder aufgerundet werden:
 
-von 0,001 bis 0,499: abrunden auf das niedrigere ganze Kilogramm;
-
-von 0,5 bis 0,999: aufrunden auf das höhere ganze Kilogramm.
+- – von 0,001 bis 0,499: abrunden auf das ganze Kilogramm;
+- – von 0,5 bis 0,999: aufrunden auf das ganze Kilogramm.
 
 Beträgt die Rohmasse weniger als 1 kg, so ist «0,» gefolgt von maximal sechs Dezimalstellen anzugeben, wobei alle Nullen am Ende der Menge weggelassen werden (z. B. 0,123 für ein Packstück von 123 Gramm, 0,00304 für ein Packstück von 3 Gramm und 40 Milligramm oder 0,000654 für ein Packstück von 654 Milligramm).
 
@@ -7571,7 +7616,7 @@ Betrifft die Anmeldung mehrere Warenpositionen, die sich auf Waren beziehen, die
 
 18 05 000 000 Warenbezeichnung
 
-Legt der Anmelder die CUS-Nummer für chemische Stoffe und Zubereitungen vor, können die Länder davon absehen, eine genaue Beschreibung der Waren zu verlangen.
+Legt der Anmelder oder der Inhaber des Versandverfahrens die CUS-Nummer für chemische Stoffe und Zubereitungen vor, können die Länder davon absehen, eine genaue Beschreibung der Waren zu verlangen.
 
 Es handelt sich um die übliche Handelsbezeichnung. Ist die Warennummer anzugeben, so muss diese Bezeichnung so genau sein, dass sie die Einreihung der Ware ermöglicht.
 
@@ -7579,13 +7624,13 @@ Es handelt sich um die übliche Handelsbezeichnung. Ist die Warennummer anzugebe
 
 Dieses Datenelement bezieht sich auf Einzelheiten der Verpackung der Waren, die Gegenstand der Anmeldung oder Mitteilung sind.
 
-18 06 003 000 Art der Packstücke
+18 06 003 000 Art der Verpackung
 
-Code für die Art der Packstücke.
+Code für die Art der Verpackung.
 
 Die zu verwendenden Codes sind:
 
-Code für die Art der Packstücke gemäss einleitender Bemerkung 8 Nummer 1.
+Code für die Art der Verpackung gemäss einleitender Bemerkung 8 Nummer 1.
 
 18 06 004 000 Anzahl der Packstücke
 
@@ -7597,11 +7642,15 @@ Bei Schüttgut ist diese Angabe nicht erforderlich.
 
 Angabe der Zeichen und Nummern auf Beförderungseinheiten oder Verpackungen in freier Form.
 
+18 07 000 000 Gefahrgut
+
+18 07 055 000 UN-Nummer für Gefahrgut
+
+Die UN-Gefahrgutnummer (UNDG) ist eine Seriennummer, die die Vereinten Nationen den in einer Liste der am häufigsten beförderten Gefahrgüter enthaltenen Stoffen und Artikeln zuweist.
+
 18 08 000 000 CUS-Nummer
 
-Die CUS-Nummer (Customs Union and Statistics) ist eine Kennung, die chemischen Stoffen und Zubereitungen im Rahmen des Europäischen Zollinventars chemischer Erzeugnisse (ECICS) zugewiesen wird.
-
-Ist für die betreffenden Waren in den Rechtsvorschriften der Vertragsparteien keine Massnahme festgelegt, kann der Anmelder diese Nummer auf freiwilliger Basis angeben, d. h. wenn die Vorlage dieser Nummer einen geringeren Aufwand bedeuten würde als eine vollständige Beschreibung der Ware.
+Anzugeben ist die CUS-Nummer (Customs Union and Statistics), die im Rahmen des Europäischen Zollinventars chemischer Erzeugnisse (ECICS) zugewiesen wird.
 
 Die zu verwendenden Codes sind:
 
@@ -7609,9 +7658,9 @@ CUS-Nummer gemäss einleitender Bemerkung 8 Nummer 9.
 
 18 09 000 000 Warennummer
 
-Es ist mindestens der Code der Unterposition des Harmonisierten Systems zu verwenden.
+Erforderlichenfalls ist mindestens der Code der Unterposition des Harmonisierten Systems zu verwenden.
 
-18 09 056 000 Code der Unterpositionen des Harmonisierten Systems
+18 09 056 000 Code der Unterposition des Harmonisierten Systems\*
 
 Anzugeben ist der Code der Unterposition des Harmonisierten Systems (sechsstelliger HS-Code).
 
@@ -7627,9 +7676,9 @@ Die zu verwendenden Codes sind:
 
 Die Codes sind in der TARIC-Datenbank enthalten.
 
-Gruppe 19 — Angaben zur Beförderung (Art, Mittel und Ausrüstung)
+Gruppe 19 – Angaben zur Beförderung (Art, Mittel und Ausrüstung)
 
-19 01 000 000 Container-Kennnummer
+19 01 000 000 Container-Indikator
 
 Unter Verwendung des entsprechenden Codes ist die voraussichtliche Situation beim Überschreiten der Aussengrenze der Vertragspartei anzugeben, und zwar auf der Grundlage der Informationen, die zum Zeitpunkt der Erfüllung der Förmlichkeiten des Versandverfahrens verfügbar sind.
 
@@ -7641,6 +7690,12 @@ Folgende Codes sind zu verwenden:
 <tr><td>0</td><td>Nicht in Containern beförderte Waren</td></tr>
 <tr><td>1</td><td>In Containern beförderte Waren</td></tr>
 </table>
+
+19 02 000 000 Nummer der Beförderung
+
+Fahrtkennung des Beförderungsmittels, z. B. Reisenummer, die IATA-Flugnummer oder Fahrtnummer, soweit anwendbar.
+
+Werden bei der Beförderung auf dem Luftweg Waren von dem Luftfahrtunternehmen im Rahmen einer Code-Sharing-Vereinbarung oder einer ähnlichen vertraglichen Vereinbarung mit Partnern befördert, so ist die Flugnummer der Partner zu verwenden.
 
 19 03 000 000 Verkehrszweig an der Grenze
 
@@ -7657,8 +7712,8 @@ Folgende Codes sind zu verwenden:
 <tr><td>3</td><td>Strassenverkehr</td></tr>
 <tr><td>4</td><td>Luftverkehr</td></tr>
 <tr><td>5</td><td>Postverkehr (aktiver Verkehrszweig unbekannt)</td></tr>
-<tr><td>7</td><td>Fest installierte Transporteinrichtungen</td></tr>
-<tr><td>8</td><td>Binnenschifffahrt</td></tr>
+<tr><td>7</td><td>Feste Transporteinrichtungen</td></tr>
+<tr><td>8</td><td>Beförderung auf Binnenwasserstrassen</td></tr>
 <tr><td>9</td><td>Sonstiger Verkehrszweig (d. h. Eigenantrieb)</td></tr>
 </table>
 
@@ -7668,11 +7723,11 @@ Unter Verwendung des entsprechenden Codes ist der beim Abgang benutzte Verkehrsz
 
 Die zu verwendenden Codes sind:
 
-Die in diesem Titel für D.E. 19 03 000 000 Verkehrszweig an der Grenze vorgesehenen Codes sind zu verwenden.
+Zu verwenden sind die in diesem Titel für D.E. 19 03 000 000 Verkehrszweig an der Grenze vorgesehenen Codes.
 
 19 05 000 000 Beförderungsmittel beim Abgang
 
-19 05 017 000 Kennnummer
+19 05 017 000 Identifikationsnummer
 
 Anzugeben ist bei der Beförderung auf dem Seeweg oder auf Binnenwasserstrassen die IMO-Schiffsnummer bzw. die einheitliche europäische Schiffsnummer (ENI-Nummer).
 
@@ -7680,7 +7735,7 @@ Für andere Beförderungsarten gilt folgende Kennzeichnung:
 
 <table>
 <tr><th>Beförderungsmittel</th><th>Kennzeichnung</th></tr>
-<tr><td>Beförderung auf Binnenwasserstrassen</td><td>Schiffsname</td></tr>
+<tr><td>Beförderung auf Binnenwasserstrassen</td><td>IMO-Schiffsnummer oder einheitliche europäische Schiffsnummer (ENI)</td></tr>
 <tr><td>Beförderung auf dem Luftweg</td><td>Nummer und Datum des Fluges (liegt die Flugnummer nicht vor, so ist die Zulassungsnummer des Flugzeuges anzugeben)</td></tr>
 <tr><td>Beförderung auf der Strasse</td><td>Kennzeichen des Fahrzeugs/Aufliegers</td></tr>
 <tr><td>Beförderung im Eisenbahnverkehr</td><td>Wagennummer</td></tr>
@@ -7688,9 +7743,9 @@ Für andere Beförderungsarten gilt folgende Kennzeichnung:
 
 Erfolgt die Beförderung der Waren durch eine Zugmaschine und einen Auflieger, so sind die Kennzeichen von Zugmaschine und Auflieger anzugeben. Ist das Kennzeichen der Zugmaschine nicht bekannt, so ist das Kennzeichen des Aufliegers anzugeben.
 
-19 05 061 000 Art der Identifizierung
+19 05 061 000 Art der Identifikation
 
-Unter Verwendung des entsprechenden Codes ist die Art der Kennnummer anzugeben.
+Unter Verwendung des entsprechenden Codes ist die Art der Identifikationsnummer anzugeben.
 
 Die zu verwendenden Codes sind:
 
@@ -7698,16 +7753,16 @@ Folgende Codes sind zu verwenden:
 
 <table>
 <tr><th>Code</th><th>Beschreibung</th></tr>
-<tr><th>10</th><th>IMO-Schiffsnummer</th></tr>
-<tr><th>11</th><th>Name des Seeschiffs</th></tr>
-<tr><th>20</th><th>Wagennummer</th></tr>
-<tr><th>21</th><th>Zugnummer</th></tr>
-<tr><th>30</th><th>Amtliches Kennzeichen des Strassenfahrzeugs</th></tr>
-<tr><th>31</th><th>Amtliches Kennzeichen des Strassenanhängers</th></tr>
-<tr><th>40</th><th>IATA-Flugnummer</th></tr>
-<tr><th>41</th><th>Registriernummer des Luftfahrzeugs</th></tr>
-<tr><th>80</th><th>Einheitliche europäische Schiffsnummer (ENI-Nummer)</th></tr>
-<tr><th>81</th><th>Name des Binnenschiffs</th></tr>
+<tr><td>10</td><td>IMO-Schiffsnummer</td></tr>
+<tr><td>11</td><td>Name des Seeschiffs</td></tr>
+<tr><td>20</td><td>Wagennummer</td></tr>
+<tr><td>21</td><td>Zugnummer</td></tr>
+<tr><td>30</td><td>Amtliches Kennzeichen des Strassenfahrzeugs</td></tr>
+<tr><td>31</td><td>Amtliches Kennzeichen des Strassenanhängers</td></tr>
+<tr><td>40</td><td>IATA-Flugnummer</td></tr>
+<tr><td>41</td><td>Registriernummer des Luftfahrzeugs</td></tr>
+<tr><td>80</td><td>Einheitliche europäische Schiffsnummer (ENI-Nummer)</td></tr>
+<tr><td>81</td><td>Name des Binnenschiffs</td></tr>
 </table>
 
 19 05 062 000 Staatszugehörigkeit
@@ -7740,9 +7795,9 @@ Falls zutreffend ist bei Containern, die der Norm ISO 6346 unterliegen, die vom 
 
 Bei Wechselbehältern und Sattelanhängern ist der durch die Europäische Norm EN 13044 eingeführte ILU-Code (Code zur Identifizierung intermodaler Ladeeinheiten) zu verwenden.
 
-19 08 000 000 Aktives Grenzverkehrsmittel
+19 08 000 000 Grenzüberschreitendes aktives Beförderungsmittel
 
-19 08 000 047 Referenznummer der Zollstelle an der Grenze
+19 08 084 000 Zollstelle an der Grenze
 
 Unter Verwendung des entsprechenden Codes ist die Referenznummer der Zollstelle anzugeben, bei der das aktive Beförderungsmittel die Grenze der Vertragspartei überschreitet.
 
@@ -7750,11 +7805,11 @@ Die zu verwendenden Codes sind:
 
 Die Kennung der Zollstelle richtet sich nach der für D.E. 17 05 001 000 Bestimmungszollstelle/Referenznummer festgelegten Struktur.
 
-19 08 017 000 Kennnummer
+19 08 017 000 Identifikationsnummer
 
 Anzugeben ist das Kennzeichen des aktiven Beförderungsmittels beim Überschreiten der Grenze der Vertragspartei.
 
-Handelt es sich um Huckepackverkehr oder werden mehrere Beförderungsmittel benutzt, so ist das aktive Beförderungsmittel dasjenige, das für den Antrieb der Zusammenstellung sorgt. Beispiel: Im Falle «Lastkraftwagen auf Seeschiff» ist das Schiff das aktive Beförderungsmittel. Im Falle «Zugmaschine mit Auflieger» ist die Zugmaschine das aktive Beförderungsmittel. Je nach Beförderungsmittel sind zur Kennzeichnung folgende Angaben zu machen:
+Handelt es sich um Huckepackverkehr oder werden mehrere Beförderungsmittel benutzt, so ist das aktive Beförderungsmittel dasjenige, das für den Antrieb der Zusammenstellung sorgt. Beispiel: Im Falle «Lastkraftwagen auf Seeschiff» ist das Schiff das aktive Beförderungsmittel. Im Falle «Zugmaschine mit Auflieger» ist die Zugmaschine das aktive Beförderungsmittel. Je nach Beförderungsmittel sind zur Kennzeichnung folgende Angaben zu machen: Beförderungsmittel:
 
 <table>
 <tr><th>Beförderungsmittel</th><th>Kennzeichnung</th></tr>
@@ -7764,19 +7819,19 @@ Handelt es sich um Huckepackverkehr oder werden mehrere Beförderungsmittel benu
 <tr><td>Beförderung im Eisenbahnverkehr</td><td>Wagennummer</td></tr>
 </table>
 
-19 08 061 000 Art der Identifizierung
+19 08 061 000 Art der Identifikation
 
-Unter Verwendung des entsprechenden Codes ist die Art der Kennnummer anzugeben.
+Unter Verwendung des entsprechenden Codes ist die Art der Identifikationsnummer anzugeben.
 
 Die zu verwendenden Codes sind:
 
-Die in diesem Titel für D.E. 19 05 061 000 Beförderungsmittel beim Abgang/Art der Identifizierung festgelegten Codes sind zu verwenden.
+Die in diesem Titel für D.E. 19 05 061 000 Beförderungsmittel beim Abgang/Art der Identifikation festgelegten Codes sind zu verwenden.
 
 19 08 062 000 Staatszugehörigkeit
 
 Unter Verwendung des entsprechenden Codes ist die Staatszugehörigkeit des beim Überschreiten der Grenze der Vertragspartei benutzten aktiven Beförderungsmittels anzugeben.
 
-Handelt es sich um Huckepackverkehr oder werden mehrere Beförderungsmittel benutzt, so ist das aktive Beförderungsmittel dasjenige, das für den Antrieb der Zusammenstellung sorgt. Beispiel: Im Falle «Lastkraftwagen auf Seeschiff» ist das Schiff das aktive Beförderungsmittel. Im Falle «Zugmaschine mit Auflieger» ist die Zugmaschine das aktive Beförderungsmittel.
+Handelt es sich um Huckepackverkehr oder werden mehrere Beförderungsmittel benutzt, so ist das aktive Beförderungsmittel dasjenige, das für den Antrieb der Zusammenstellung sorgt. Beispiel: Im Falle ‚Lastkraftwagen auf Seeschiff’ ist das Schiff das aktive Beförderungsmittel. Im Falle ‚Zugmaschine mit Auflieger’ ist die Zugmaschine das aktive Beförderungsmittel.
 
 Die zu verwendenden Codes sind:
 
@@ -7788,7 +7843,7 @@ Fahrtkennung des Beförderungsmittels, z. B. Reisenummer, die IATA-Flugnummer od
 
 Werden bei der Beförderung auf dem Luftweg Waren von dem Luftfahrtunternehmen im Rahmen einer Code-Sharing-Vereinbarung oder einer ähnlichen vertraglichen Vereinbarung mit Partnern befördert, so ist die Flugnummer der Partner zu verwenden.
 
-19 10 000 000 Verschluss:
+19 10 000 000 Verschluss
 
 19 10 068 000 Anzahl der Verschlüsse
 
@@ -7798,7 +7853,7 @@ Anzugeben ist die Anzahl der gegebenenfalls an der Beförderungsausrüstung ange
 
 Die Angabe ist zu machen, wenn die Anmeldung von einem zugelassenen Versender abgegeben wird, sofern die ihm erteilte Bewilligung die Verwendung von besonderen Verschlüssen vorsieht oder wenn einem Inhaber des Versandverfahrens eine Bewilligung zur Verwendung von besonderen Verschlüssen erteilt worden ist.
 
-Gruppe 99 — Sonstige Datenelemente (statistische Daten, Sicherheitsleistungen, Daten im Zusammenhang mit dem Zolltarif)
+Gruppe 99 – Sonstige Datenelemente (statistische Daten, Sicherheitsleistungen, Daten im Zusammenhang mit dem Zolltarif)
 
 99 02 000 000 Art der Sicherheitsleistung
 
@@ -7812,7 +7867,7 @@ Folgende Codes sind zu verwenden:
 <tr><th>Code</th><th>Beschreibung</th></tr>
 <tr><td>0</td><td>Befreiung von der Sicherheitsleistung (Artikel 75 Absatz 2 Buchstabe c der Anlage I)</td></tr>
 <tr><td>1</td><td>Gesamtsicherheit (Artikel 75 Absatz 1 und Absatz 2 Buchstaben a und b der Anlage I)</td></tr>
-<tr><td>2</td><td>Einzelsicherheit mit Verpflichtungserklärung eines Bürgen (Artikel 20 der Anlage I).</td></tr>
+<tr><td>2</td><td>Einzelsicherheit mit Verpflichtungserklärung eines Bürgen (Artikel 20 der Anlage I)</td></tr>
 <tr><td>3</td><td>Einzelsicherheit in bar oder einem anderen von den Zollbehörden der Barsicherheit gleichgestellten Zahlungsmittel in Euro oder der Währung des Landes, in dem die Sicherheit verlangt wird (Artikel 19 der Anlage I)</td></tr>
 <tr><td>4</td><td>Einzelsicherheit mit Sicherheitstiteln (Artikel 21 der Anlage I)</td></tr>
 <tr><td>8</td><td>Befreiung von der Sicherheitsleistung für bestimmte öffentliche Einrichtungen\*</td></tr>
@@ -7826,9 +7881,9 @@ Folgende Codes sind zu verwenden:
 
 \* Für Mitgliedstaaten der Europäischen Union.
 
-99 03 000 000 Referenznummer der Sicherheitsleistung
+99 03 000 000 Referenz der Sicherheitsleistung
 
-99 03 069 000 Sicherheits-Referenznummer
+99 03 069 000 GRN
 
 Anzugeben ist die Referenznummer der Sicherheitsleistung.
 
@@ -7848,516 +7903,156 @@ Währungscode gemäss einleitender Bemerkung 8 Nummer 2.
 
 Anzugeben ist der Betrag der Zollschuld, der im Zusammenhang mit der betreffenden Anmeldung entstehen kann oder entstanden ist und somit durch die Sicherheitsleistung gedeckt werden muss.
 
-99 03 073 000 Andere Zeichen der Sicherheitsleistung
+99 03 073 000 Andere Referenz der Sicherheitsleistung
 
-Anzugeben ist die Referenznummer der anderen Sicherheitsleistung, die für den Vorgang verwendet wurde.
+Anzugeben ist eine Referenz für die Sicherheitsleistung, bei der es sich nicht um die Referenznummer der Sicherheitsleistung (GRN) handelt.
+
+99 04 000 000 Spezifische Referenz der Sicherheitsleistung
+
+Alle verwendeten relevanten Spalten der Datenanforderungstabelle:
+
+Anzugeben ist eine Referenz für die Sicherheitsleistung, bei der es sich nicht um die Referenznummer der Sicherheitsleistung (GRN) handelt.
 
 ### Titel IV: Sprachenvermerke und entsprechende Codes
 
 <table>
-<tr><th colspan="2">Sprachenvermerke</th><th>Beschreibung</th></tr>
-<tr><td>BG</td><td>Ограничена валидност</td><td>Beschränkte Geltung – 99200</td></tr>
-<tr><td>CS</td><td>Omezená platnost</td><td></td></tr>
-<tr><td>DA</td><td>Begrænset gyldighed</td><td></td></tr>
-<tr><td>DE</td><td>Beschränkte Geltung</td><td></td></tr>
-<tr><td>EE</td><td>Piiratud kehtivus</td><td></td></tr>
-<tr><td>EL</td><td>Περιορισμένη ισχύς</td><td></td></tr>
-<tr><td>EN</td><td>Limited validity</td><td></td></tr>
-<tr><td>ES</td><td>Validez limitada</td><td></td></tr>
-<tr><td>FI</td><td>Voimassa rajoitetusti</td><td></td></tr>
-<tr><td>FR</td><td>Validité limitée</td><td></td></tr>
-<tr><td>GA</td><td>Bailíocht theoranta</td><td></td></tr>
-<tr><td>HR</td><td>Ograničena valjanost</td><td></td></tr>
-<tr><td>HU</td><td>Korlátozott érvényű</td><td></td></tr>
-<tr><td>IS</td><td>Takmarkað gildissvið</td><td></td></tr>
-<tr><td>IT</td><td>Validità limitata</td><td></td></tr>
-<tr><td>LT</td><td>Galiojimas apribotas</td><td></td></tr>
-<tr><td>LV</td><td>Ierobežots derīgums</td><td></td></tr>
-<tr><td>MK</td><td>Ограничено важење</td><td></td></tr>
-<tr><td>MT</td><td>Validità limitata</td><td></td></tr>
-<tr><td>NL</td><td>Beperkte geldigheid</td><td></td></tr>
-<tr><td>NO</td><td>Begrenset gyldighet</td><td></td></tr>
-<tr><td>PL</td><td>Ograniczona ważność</td><td></td></tr>
-<tr><td>PT</td><td>Validade limitada</td><td></td></tr>
-<tr><td>RO</td><td>Validitate limitată</td><td></td></tr>
-<tr><td>RS</td><td>Ограничена важност</td><td></td></tr>
-<tr><td>SK</td><td>Obmedzená platnosť</td><td></td></tr>
-<tr><td>SL</td><td>Omejena veljavnost</td><td></td></tr>
-<tr><td>SV</td><td>Begränsad giltighet</td><td></td></tr>
-<tr><td>TR</td><td>Sınırlı Geçerli</td><td></td></tr>
-<tr><td>BG</td><td>Освободено</td><td>Befreiung – 99201</td></tr>
-<tr><td>CS</td><td>Osvobození</td><td></td></tr>
-<tr><td>DA</td><td>Fritaget</td><td></td></tr>
-<tr><td>DE</td><td>Befreiung</td><td></td></tr>
-<tr><td>EE</td><td>Loobutud</td><td></td></tr>
-<tr><td>EL</td><td>Απαλλαγή</td><td></td></tr>
-<tr><td>EN</td><td>Waiver</td><td></td></tr>
-<tr><td>ES</td><td>Dispensa</td><td></td></tr>
-<tr><td>FI</td><td>Vapautettu</td><td></td></tr>
-<tr><td>FR</td><td>Dispense</td><td></td></tr>
-<tr><td>GA</td><td>Tarscaoileadh</td><td></td></tr>
-<tr><td>HR</td><td>Oslobođeno</td><td></td></tr>
-<tr><td>HU</td><td>Mentesség</td><td></td></tr>
-<tr><td>IS</td><td>Undanþegið</td><td></td></tr>
-<tr><td>IT</td><td>Dispensa</td><td></td></tr>
-<tr><td>LT</td><td>Leista neplombuoti</td><td></td></tr>
-<tr><td>LV</td><td>Derīgs bez zīmoga</td><td></td></tr>
-<tr><td>MK</td><td>Изземање</td><td></td></tr>
-<tr><td>MT</td><td>Tneħħija</td><td></td></tr>
-<tr><td>NL</td><td>Vrijstelling</td><td></td></tr>
-<tr><td>NO</td><td>Fritak</td><td></td></tr>
-<tr><td>PL</td><td>Zwolnienie</td><td></td></tr>
-<tr><td>PT</td><td>Dispensa</td><td></td></tr>
-<tr><td>RO</td><td>Derogarea</td><td></td></tr>
-<tr><td>RS</td><td>Ослобођење</td><td></td></tr>
-<tr><td>SK</td><td>Upustenie</td><td></td></tr>
-<tr><td>SL</td><td>Opustitev</td><td></td></tr>
-<tr><td>SV</td><td>Befrielse</td><td></td></tr>
-<tr><td>TR</td><td>Vazgeçme</td><td></td></tr>
-<tr><td>BG</td><td>Алтернативно доказателство</td><td>Alternativnachweis – 99202</td></tr>
-<tr><td>CS</td><td>Alternativní důkaz</td><td></td></tr>
-<tr><td>DA</td><td>Alternativt bevis</td><td></td></tr>
-<tr><td>DE</td><td>Alternativnachweis</td><td></td></tr>
-<tr><td>EE</td><td>Alternatiivsed tõendid</td><td></td></tr>
-<tr><td>EL</td><td>Εναλλακτική απόδειξη</td><td></td></tr>
-<tr><td>EN</td><td>Alternative proof</td><td></td></tr>
-<tr><td>ES</td><td>Prueba alternativa</td><td></td></tr>
-<tr><td>FI</td><td>Vaihtoehtoinen todiste</td><td></td></tr>
-<tr><td>FR</td><td>Preuve alternative</td><td></td></tr>
-<tr><td>GA</td><td>Cruthúnas malartach</td><td></td></tr>
-<tr><td>HR</td><td>Alternativni dokaz</td><td></td></tr>
-<tr><td>HU</td><td>Alternatív igazolás</td><td></td></tr>
-<tr><td>IS</td><td>Önnur sönnun</td><td></td></tr>
-<tr><td>IT</td><td>Prova alternativa</td><td></td></tr>
-<tr><td>LT</td><td>Alternatyvusis įrodymas</td><td></td></tr>
-<tr><td>LV</td><td>Alternatīvs pierādījums</td><td></td></tr>
-<tr><td>MK</td><td>Алтернативен доказ</td><td></td></tr>
-<tr><td>MT</td><td>Prova alternattiva</td><td></td></tr>
-<tr><td>NL</td><td>Alternatief bewijs</td><td></td></tr>
-<tr><td>NO</td><td>Alternativt bevis</td><td></td></tr>
-<tr><td>PL</td><td>Alternatywny dowód</td><td></td></tr>
-<tr><td>PT</td><td>Prova alternativa</td><td></td></tr>
-<tr><td>RO</td><td>Probă alternativă</td><td></td></tr>
-<tr><td>RS</td><td>Алтернативни доказ</td><td></td></tr>
-<tr><td>SK</td><td>Alternatívny dôkaz</td><td></td></tr>
-<tr><td>SL</td><td>Alternativno dokazilo</td><td></td></tr>
-<tr><td>SV</td><td>Alternativt bevis</td><td></td></tr>
-<tr><td>TR</td><td>Alternatif Kanıt</td><td></td></tr>
-<tr><td>BG</td><td>Различия: митническо учреждение, където стоките са представени ……………… (наименование и страна)</td><td>Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte … (Name und Land) – 99203</td></tr>
-<tr><td>CS</td><td>Nesrovnalosti: úřad, kterému bylo zboží předloženo ……………… (název a země)</td><td></td></tr>
-<tr><td>DA</td><td>Forskelle: det sted, hvor varerne blev frembudt …………………….. (navn og land)</td><td></td></tr>
-<tr><td>DE</td><td>Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte ……. (Name und Land)</td><td></td></tr>
-<tr><td>EE</td><td>Erinevused: asutus, kuhu kaup esitati ……………………………………… (nimi ja riik)</td><td></td></tr>
-<tr><td>EL</td><td>Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο …….. (Όνομα και χώρα)</td><td></td></tr>
-<tr><td>EN</td><td>Differences: office where goods were presented …………….. (name and country)</td><td></td></tr>
-<tr><td>ES</td><td>Diferencias: mercancías presentadas en la oficina ………………… (nombre y país)</td><td></td></tr>
-<tr><td>FI</td><td>Muutos: toimipaikka, jossa tavarat esitetty …………………………….. (nimi ja maa)</td><td></td></tr>
-<tr><td>FR</td><td>Différences: marchandises présentées au bureau ……………………… (nom et pays)</td><td></td></tr>
-<tr><td>GA</td><td>Difríochtaí: oifig inár cuireadh na hearraí i láthair … (ainm agus tír)</td><td></td></tr>
-<tr><td>HR</td><td>Razlike: Carinarnica kojoj je roba podnesena ……………………….. (naziv i zemlja)</td><td></td></tr>
-<tr><td>HU</td><td>Eltérések: hivatal, ahol az áruk bemutatása megtörtént ………….. (név és ország)</td><td></td></tr>
-<tr><td>IS</td><td>Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ……… (nafn og land)</td><td></td></tr>
-<tr><td>IT</td><td>Differenze: ufficio al quale sono state presentate le merci …….. (nome e paese)</td><td></td></tr>
-<tr><td>LT</td><td>Skirtumai: įstaiga, kuriai pateiktos prekės ……………… (pavadinimas ir valstybė)</td><td></td></tr>
-<tr><td>LV</td><td>Atšķirības: muitas iestāde, kurā preces tika uzrādītas ……………… (nosaukums un valsts)</td><td></td></tr>
-<tr><td>MK</td><td>Разлики: Испостава каде стоките се ставени на увид ………. (назив и земја)</td><td></td></tr>
-<tr><td>MT</td><td>Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż)</td><td></td></tr>
-<tr><td>NL</td><td>Verschillen: kantoor waar de goederen zijn aangebracht ……….. (naam en land)</td><td></td></tr>
-<tr><td>NO</td><td>Forskjell: det tollsted hvor varene ble fremlagt ……………………… (navn og land)</td><td></td></tr>
-<tr><td>PL</td><td>Niezgodności: urząd, w którym przedstawiono towar ……………… (nazwa i kraj)</td><td></td></tr>
-<tr><td>PT</td><td>Diferenças: mercadorias apresentadas na estância …………………… (nome e país)</td><td></td></tr>
-<tr><td>RO</td><td>Diferențe: mărfuri prezentate la biroul vamal ………………………… (nume și țara)</td><td></td></tr>
-<tr><td>RS</td><td>Разлике: царински орган којем је предата роба ……………… (назив и земља)</td><td></td></tr>
-<tr><td>SK</td><td>Rozdiely: úrad, ktorému bol tovar predložený …………………… (názov a krajina)</td><td></td></tr>
-<tr><td>SL</td><td>Razlike: urad, pri katerem je bilo blago predloženo …………… (naziv in država)</td><td></td></tr>
-<tr><td>SV</td><td>Avvikelse: tullkontor där varorna anmäldes ………………………… (namn och land)</td><td></td></tr>
-<tr><td>TR</td><td>Değişiklikler: Eşyanın sunulduğu idare ……………………………….. (adı ve ülkesi).</td><td></td></tr>
-<tr><td>BG</td><td>Излизането от …………………… подлежи на ограничения или такси съгласно Регламент/Директива/Решение № …,</td><td>Ausgang aus … gemäss Verordnung/Richtlinie/ Beschluss Nr. … Beschränkungen oder Abgaben unterworfen – 99204</td></tr>
-<tr><td>CS</td><td>Výstup ze ……………………………………… podléhá omezením nebo dávkám podle nařízení/směrnice/ rozhodnutí č. …</td><td></td></tr>
-<tr><td>DA</td><td>Udpassage fra …………………… undergivet restriktioner eller afgifter i henhold til forordning/direktiv/ afgørelse nr. …</td><td></td></tr>
-<tr><td>DE</td><td>Ausgang aus …………………… — gemäss Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen.</td><td></td></tr>
-<tr><td>EE</td><td>………………….. territooriumilt väljumise suhtes kohaldatakse piiranguid ja makse vastavalt määrusele/direktiivile/otsusele nr …</td><td></td></tr>
-<tr><td>EL</td><td>Η έξοδος από ……………………. υποβάλλεται σε περιορισμούς ή σε επιβαρύνσεις από τον κανονισμό/την οδηγία/την απόφαση αριθ. …</td><td></td></tr>
-<tr><td>EN</td><td>Exit from ……………………………………….. subject to restrictions or charges under Regulation/Directive/ Decision N<sup>o</sup> …</td><td></td></tr>
-<tr><td>ES</td><td>Salida de ………… sometida a restricciones o imposiciones en virtud del (de la) Reglamento/ Directiva/Decisión n<sup>o</sup> …</td><td></td></tr>
-<tr><td>FI</td><td>……… …….. vientiin sovelletaan asetuksen/ direktiivin/päätöksen N:o … mukaisia rajoituksia tai maksuja</td><td></td></tr>
-<tr><td>FR</td><td>Sortie de …… soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> …</td><td></td></tr>
-<tr><td>GA</td><td>Scoir faoi réir srianta nó muirir faoin Uimhir Rialachán/ Treoir/Cinneadh …</td><td></td></tr>
-<tr><td>HR</td><td>Izlaz iz …………………………….. podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/Odluke br …</td><td></td></tr>
-<tr><td>HU</td><td>A kilépés ……………. területéről a …………….. rendelet/irányelv/határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik</td><td></td></tr>
-<tr><td>IS</td><td>Útflutningur frá …………………………. háð takmörkunum eða gjöldum samkvæmt reglugerð/fyrirmælum/ákvörðun nr. ….</td><td></td></tr>
-<tr><td>IT</td><td>Uscita dal ………………… soggetta a restrizioni o ad imposizioni a norma del(la) regolamento/direttiva/ decisione n. …</td><td></td></tr>
-<tr><td>LT</td><td>Išvežimui iš …………………………… taikomi apribojimai arba mokesčiai, nustatyti Reglamentu/Direktyva/Sprendimu Nr. …</td><td></td></tr>
-<tr><td>LV</td><td>Izvešana no ………………. , piemērojot ierobežojumus vai maksājumus saskaņā ar Regulu/Direktīvu/Lēmumu Nr. …</td><td></td></tr>
-<tr><td>MK</td><td>Излез од ……………………….. предмет на ограничувања или давачки согласно Уредба/Директива/Решение № ….</td><td></td></tr>
-<tr><td>MT</td><td>Ħruġ mill-……………………………….. suġġett għal restrizzjonijiet jew ħlasijiet taħt Regola/Direttiva/Deċiżjoni Nru …</td><td></td></tr>
-<tr><td>NL</td><td>Bij uitgang uit de …………………………….. zijn de beperkingen of heffingen van Verordening/Richtlijn/ Besluit nr. … van toepassing.</td><td></td></tr>
-<tr><td>NO</td><td>Utførsel fra ………………………. underlagt restriksjoner eller avgifter i henhold til forordning/direktiv/vedtak nr. ….</td><td></td></tr>
-<tr><td>PL</td><td>Wyprowadzenie z …………………. podlega ograniczeniom lub opłatom zgodnie z rozporządzeniem/dyrektywą/decyzją nr …</td><td></td></tr>
-<tr><td>PT</td><td>Saída da …………………………………… sujeita a restrições ou a imposições pelo(a) Regulamento/Directiva/ Decisão n.° …</td><td></td></tr>
-<tr><td>RO</td><td>Ieșire din ………………………………. supusă restricțiilor sau impunerilor în temeiul Regulamentului/Directivei/Deciziei nr …</td><td></td></tr>
-<tr><td>RS</td><td>Излаз из ……………………. подлеже ограничењима или дажбинама на основу Уредбе/Директиве/Одлуке бр …</td><td></td></tr>
-<tr><td>SK</td><td>Výstup z ………………………………… podlieha obmedzeniam alebo platbám podľa nariadenia/smernice/rozhodnutia č. ….</td><td></td></tr>
-<tr><td>SL</td><td>Iznos iz …………………….. zavezan omejitvam ali obveznim dajatvam na podlagi Uredbe/Direktive/ Odločbe št. …</td><td></td></tr>
-<tr><td>SV</td><td>Utförsel från ………………. underkastad restriktioner eller avgifter i enlighet med förordning/direktiv/beslut nr …</td><td></td></tr>
-<tr><td>TR</td><td>Eşyanın ………….. 'dan çıkışı…………… . No.lu Tüzük/Direktif/Karar kapsamında kısıtlamalara veya mali yükümlülüklere tabidir</td><td></td></tr>
-<tr><td>BG</td><td>Одобрен изпращач</td><td>Zugelassener Versender – 99206</td></tr>
-<tr><td>CS</td><td>Schválený odesílatel</td><td></td></tr>
-<tr><td>DA</td><td>Godkendt afsender</td><td></td></tr>
-<tr><td>DE</td><td>Zugelassener Versender</td><td></td></tr>
-<tr><td>EE</td><td>Volitatud kaubasaatja</td><td></td></tr>
-<tr><td>EL</td><td>Εγκεκριμένος αποστολέας</td><td></td></tr>
-<tr><td>EN</td><td>Authorised consignor</td><td></td></tr>
-<tr><td>ES</td><td>Expedidor autorizado</td><td></td></tr>
-<tr><td>FI</td><td>Valtuutettu lähettäjä</td><td></td></tr>
-<tr><td>FR</td><td>Expéditeur agréé</td><td></td></tr>
-<tr><td>GA</td><td>Coinsíneoir údaraithe</td><td></td></tr>
-<tr><td>HR</td><td>Ovlašteni pošiljatelj</td><td></td></tr>
-<tr><td>HU</td><td>Engedélyezett feladó</td><td></td></tr>
-<tr><td>IS</td><td>Viðurkenndur sendandi</td><td></td></tr>
-<tr><td>IT</td><td>Speditore autorizzato</td><td></td></tr>
-<tr><td>LT</td><td>Įgaliotas siuntėjas</td><td></td></tr>
-<tr><td>LV</td><td>Atzītais nosūtītājs</td><td></td></tr>
-<tr><td>MK</td><td>Овластен испраќач</td><td></td></tr>
-<tr><td>MT</td><td>Awtorizzat li jibgħat</td><td></td></tr>
-<tr><td>NL</td><td>Toegelaten afzender</td><td></td></tr>
-<tr><td>NO</td><td>Autorisert avsender</td><td></td></tr>
-<tr><td>PL</td><td>Upoważniony nadawca</td><td></td></tr>
-<tr><td>PT</td><td>Expedidor autorizado</td><td></td></tr>
-<tr><td>RO</td><td>Expeditor agreat</td><td></td></tr>
-<tr><td>RS</td><td>Овлашћени пошиљалац</td><td></td></tr>
-<tr><td>SK</td><td>Schválený odosielateľ</td><td></td></tr>
-<tr><td>SL</td><td>Pooblaščeni pošiljatelj</td><td></td></tr>
-<tr><td>SV</td><td>Godkänd avsändare</td><td></td></tr>
-<tr><td>TR</td><td>İzinli Gönderici</td><td></td></tr>
-<tr><td>BG</td><td>Освободен от подпис</td><td>Freistellung von der Unterschriftsleistung – 99207</td></tr>
-<tr><td>CS</td><td>Podpis se nevyžaduje</td><td></td></tr>
-<tr><td>DA</td><td>Fritaget for underskrift</td><td></td></tr>
-<tr><td>DE</td><td>Freistellung von der Unterschriftsleistung</td><td></td></tr>
-<tr><td>EE</td><td>Allkirjanõudest loobutud</td><td></td></tr>
-<tr><td>EL</td><td>Δεν απαιτείται υπογραφή</td><td></td></tr>
-<tr><td>EN</td><td>Signature waived</td><td></td></tr>
-<tr><td>ES</td><td>Dispensa de firma</td><td></td></tr>
-<tr><td>FI</td><td>Vapautettu allekirjoituksesta</td><td></td></tr>
-<tr><td>FR</td><td>Dispense de signature</td><td></td></tr>
-<tr><td>GA</td><td>Tharscaoileadh an síniú</td><td></td></tr>
-<tr><td>HR</td><td>Oslobođeno potpisa</td><td></td></tr>
-<tr><td>HU</td><td>Aláírás alól mentesítve</td><td></td></tr>
-<tr><td>IS</td><td>Undanþegið undirskrift</td><td></td></tr>
-<tr><td>IT</td><td>Dispensa dalla firma</td><td></td></tr>
-<tr><td>LT</td><td>Leista nepasirašyti</td><td></td></tr>
-<tr><td>LV</td><td>Derīgs bez paraksta</td><td></td></tr>
-<tr><td>MK</td><td>Изземање од потпис</td><td></td></tr>
-<tr><td>MT</td><td>Firma mhux meħtieġa</td><td></td></tr>
-<tr><td>NL</td><td>Van ondertekening vrijgesteld</td><td></td></tr>
-<tr><td>NO</td><td>Fritatt for underskrift</td><td></td></tr>
-<tr><td>PL</td><td>Zwolniony ze składania podpisu</td><td></td></tr>
-<tr><td>PT</td><td>Dispensada a assinatura</td><td></td></tr>
-<tr><td>RO</td><td>Dispensă de semnătură</td><td></td></tr>
-<tr><td>RS</td><td>Ослобођено од потписа</td><td></td></tr>
-<tr><td>SK</td><td>Upustenie od podpisu</td><td></td></tr>
-<tr><td>SL</td><td>Opustitev podpisa</td><td></td></tr>
-<tr><td>SV</td><td>Befrielse från underskrift</td><td></td></tr>
-<tr><td>TR</td><td>İmzadan Vazgeçme</td><td></td></tr>
-<tr><td>BG</td><td>ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ</td><td>Gesamtbürgschaft untersagt – 99208</td></tr>
-<tr><td>CS</td><td>ZÁKAZ SOUBORNÉ JISTOTY</td><td></td></tr>
-<tr><td>DA</td><td>FORBUD MOD SAMLET SIKKERHEDSSTILLELSE</td><td></td></tr>
-<tr><td>DE</td><td>GESAMTBÜRGSCHAFT UNTERSAGT</td><td></td></tr>
-<tr><td>EE</td><td>ÜLDTAGATISE KASUTAMINE KEELATUD</td><td></td></tr>
-<tr><td>EL</td><td>ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ</td><td></td></tr>
-<tr><td>EN</td><td>COMPREHENSIVE GUARANTEE PROHIBITED</td><td></td></tr>
-<tr><td>ES</td><td>GARANTÍA GLOBAL PROHIBIDA</td><td></td></tr>
-<tr><td>FI</td><td>YLEISVAKUUDEN KÄYTTÖ KIELLETTY</td><td></td></tr>
-<tr><td>FR</td><td>GARANTIE GLOBALE INTERDITE</td><td></td></tr>
-<tr><td>GA</td><td>RATHAÍOCHT CHUIMSITHEACH COISCTHE</td><td></td></tr>
-<tr><td>HR</td><td>ZABRANJENO ZAJEDNIČKO JAMSTVO</td><td></td></tr>
-<tr><td>HU</td><td>ÖSSZKEZESSÉG TILOS</td><td></td></tr>
-<tr><td>IS</td><td>ALLSHERJARTRYGGING BÖNNUÐ</td><td></td></tr>
-<tr><td>IT</td><td>GARANZIA GLOBALE VIETATA</td><td></td></tr>
-<tr><td>LT</td><td>NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA</td><td></td></tr>
-<tr><td>LV</td><td>VISPĀRĒJS GALVOJUMS AIZLIEGTS</td><td></td></tr>
-<tr><td>MK</td><td>ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА</td><td></td></tr>
-<tr><td>MT</td><td>MHUX PERMESSA GARANZIJA KOMPRENSIVA</td><td></td></tr>
-<tr><td>NL</td><td>DOORLOPENDE ZEKERHEID VERBODEN</td><td></td></tr>
-<tr><td>NO</td><td>FORBUD MOT BRUK AV UNIVERSALGARANTI</td><td></td></tr>
-<tr><td>PL</td><td>ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ</td><td></td></tr>
-<tr><td>PT</td><td>GARANTIA GLOBAL PROIBIDA</td><td></td></tr>
-<tr><td>RO</td><td>GARANŢIA GLOBALĂ INTERZISĂ</td><td></td></tr>
-<tr><td>RS</td><td>ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ</td><td></td></tr>
-<tr><td>SK</td><td>ZÁKAZ CELKOVEJ ZÁRUKY</td><td></td></tr>
-<tr><td>SL</td><td>PREPOVEDANO SPLOŠNO ZAVAROVANJE</td><td></td></tr>
-<tr><td>SV</td><td>SAMLAD SÄKERHET FÖRBJUDEN</td><td></td></tr>
-<tr><td>TR</td><td>KAPSAMLI TEMİNAT YASAKLANMIȘTIR.</td><td></td></tr>
-<tr><td>BG</td><td>ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ</td><td>Unbeschränkte Verwendung – 99209</td></tr>
-<tr><td>CS</td><td>NEOMEZENÉ POUŽITÍ</td><td></td></tr>
-<tr><td>DA</td><td>UBEGRÆNSET ANVENDELSE</td><td></td></tr>
-<tr><td>DE</td><td>UNBESCHRÄNKTE VERWENDUNG</td><td></td></tr>
-<tr><td>EE</td><td>PIIRAMATU KASUTAMINE</td><td></td></tr>
-<tr><td>EL</td><td>ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ</td><td></td></tr>
-<tr><td>EN</td><td>UNRESTRICTED USE</td><td></td></tr>
-<tr><td>ES</td><td>UTILIZACIÓN NO LIMITADA</td><td></td></tr>
-<tr><td>FI</td><td>KÄYTTÖÄ EI RAJOITETTU</td><td></td></tr>
-<tr><td>FR</td><td>UTILISATION NON LIMITÉE</td><td></td></tr>
-<tr><td>GA</td><td>ÚSÁID NEAMHSHRIANTA</td><td></td></tr>
-<tr><td>HR</td><td>NEOGRANIČENA UPORABA</td><td></td></tr>
-<tr><td>HU</td><td>KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT</td><td></td></tr>
-<tr><td>IS</td><td>ÓTAKMÖRKUÐ NOTKUN</td><td></td></tr>
-<tr><td>IT</td><td>UTILIZZAZIONE NON LIMITATA</td><td></td></tr>
-<tr><td>LT</td><td>NEAPRIBOTAS NAUDOJIMAS</td><td></td></tr>
-<tr><td>LV</td><td>NEIEROBEŽOTS IZMANTOJUMS</td><td></td></tr>
-<tr><td>MK</td><td>УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ</td><td></td></tr>
-<tr><td>MT</td><td>UŻU MHUX RISTRETT</td><td></td></tr>
-<tr><td>NL</td><td>GEBRUIK ONBEPERKT</td><td></td></tr>
-<tr><td>NO</td><td>UBEGRENSET BRUK</td><td></td></tr>
-<tr><td>PL</td><td>NIEOGRANICZONE KORZYSTANIE</td><td></td></tr>
-<tr><td>PT</td><td>UTILIZAÇÃO ILIMITADA</td><td></td></tr>
-<tr><td>RO</td><td>UTILIZARE NELIMITATĂ</td><td></td></tr>
-<tr><td>RS</td><td>НЕОГРАНИЧЕНА УПОТРЕБА</td><td></td></tr>
-<tr><td>SK</td><td>NEOBMEDZENÉ POUŽITIE</td><td></td></tr>
-<tr><td>SL</td><td>NEOMEJENA UPORABA</td><td></td></tr>
-<tr><td>SV</td><td>OBEGRÄNSAD ANVÄNDNING</td><td></td></tr>
-<tr><td>TR</td><td>KISITLANMAMIȘ KULLANIM</td><td></td></tr>
-<tr><td>BG</td><td>Издаден впоследствие</td><td>Nachträglich ausgestellt – 99210</td></tr>
-<tr><td>CS</td><td>Vystaveno dodatečně</td><td></td></tr>
-<tr><td>DA</td><td>Udstedt efterfølgende</td><td></td></tr>
-<tr><td>DE</td><td>Nachträglich ausgestellt</td><td></td></tr>
-<tr><td>EE</td><td>Välja antud tagasiulatuvalt</td><td></td></tr>
-<tr><td>EL</td><td>Εκδοθέν εκ των υστέρων</td><td></td></tr>
-<tr><td>EN</td><td>Issued retroactively</td><td></td></tr>
-<tr><td>ES</td><td>Expedido a posteriori</td><td></td></tr>
-<tr><td>FI</td><td>Annettu jälkikäteen</td><td></td></tr>
-<tr><td>FR</td><td>Délivré a posteriori</td><td></td></tr>
-<tr><td>GA</td><td>Eisithe go haisghníomhach</td><td></td></tr>
-<tr><td>HR</td><td>Izdano naknadno</td><td></td></tr>
-<tr><td>HU</td><td>Kiadva visszamenőleges hatállyal</td><td></td></tr>
-<tr><td>IS</td><td>Útgefið eftir á</td><td></td></tr>
-<tr><td>IT</td><td>Rilasciato a posteriori</td><td></td></tr>
-<tr><td>LT</td><td>Retrospektyvusis išdavimas</td><td></td></tr>
-<tr><td>LV</td><td>Izsniegts retrospektīvi</td><td></td></tr>
-<tr><td>MK</td><td>Дополнително издадено</td><td></td></tr>
-<tr><td>MT</td><td>Maħruġ b'mod retrospettiv</td><td></td></tr>
-<tr><td>NL</td><td>Achteraf afgegeven</td><td></td></tr>
-<tr><td>NO</td><td>Utstedt i etterhånd</td><td></td></tr>
-<tr><td>PL</td><td>Wystawione retrospektywnie</td><td></td></tr>
-<tr><td>PT</td><td>Emitido a posteriori</td><td></td></tr>
-<tr><td>RO</td><td>Eliberat ulterior</td><td></td></tr>
-<tr><td>RS</td><td>Накнадно издато</td><td></td></tr>
-<tr><td>SK</td><td>Vyhotovené dodatočne</td><td></td></tr>
-<tr><td>SL</td><td>Izdano naknadno</td><td></td></tr>
-<tr><td>SV</td><td>Utfärdat i efterhand</td><td></td></tr>
-<tr><td>TR</td><td>Sonradan Düzenlenmiştir</td><td></td></tr>
-<tr><td>BG</td><td>Разни</td><td>Verschiedene – 99211</td></tr>
-<tr><td>CS</td><td>Různí</td><td></td></tr>
-<tr><td>DA</td><td>Diverse</td><td></td></tr>
-<tr><td>DE</td><td>Verschiedene</td><td></td></tr>
-<tr><td>EE</td><td>Erinevad</td><td></td></tr>
-<tr><td>EL</td><td>Διάφορα</td><td></td></tr>
-<tr><td>EN</td><td>Various</td><td></td></tr>
-<tr><td>ES</td><td>Varios</td><td></td></tr>
-<tr><td>FI</td><td>Useita</td><td></td></tr>
-<tr><td>FR</td><td>Divers</td><td></td></tr>
-<tr><td>GA</td><td>Éagsúil</td><td></td></tr>
-<tr><td>HR</td><td>Razni</td><td></td></tr>
-<tr><td>HU</td><td>Többféle</td><td></td></tr>
-<tr><td>IS</td><td>Ýmis</td><td></td></tr>
-<tr><td>IT</td><td>Vari</td><td></td></tr>
-<tr><td>LT</td><td>Įvairūs</td><td></td></tr>
-<tr><td>LV</td><td>Dažādi</td><td></td></tr>
-<tr><td>MK</td><td>Различни</td><td></td></tr>
-<tr><td>MT</td><td>Diversi</td><td></td></tr>
-<tr><td>NL</td><td>Diversen</td><td></td></tr>
-<tr><td>NO</td><td>Diverse</td><td></td></tr>
-<tr><td>PL</td><td>Różne</td><td></td></tr>
-<tr><td>PT</td><td>Diversos</td><td></td></tr>
-<tr><td>RO</td><td>Diverse</td><td></td></tr>
-<tr><td>RS</td><td>Разно</td><td></td></tr>
-<tr><td>SK</td><td>Rôzne</td><td></td></tr>
-<tr><td>SL</td><td>Razno</td><td></td></tr>
-<tr><td>SV</td><td>Flera</td><td></td></tr>
-<tr><td>TR</td><td>Çeșitli</td><td></td></tr>
-<tr><td>BG</td><td>Насипно</td><td>Lose – 99212</td></tr>
-<tr><td>CS</td><td>Volně loženo</td><td></td></tr>
-<tr><td>DA</td><td>Bulk</td><td></td></tr>
-<tr><td>DE</td><td>Lose</td><td></td></tr>
-<tr><td>EE</td><td>Pakendamata</td><td></td></tr>
-<tr><td>EL</td><td>Χύμα</td><td></td></tr>
-<tr><td>EN</td><td>Bulk</td><td></td></tr>
-<tr><td>ES</td><td>A granel</td><td></td></tr>
-<tr><td>FI</td><td>Irtotavaraa</td><td></td></tr>
-<tr><td>FR</td><td>Vrac</td><td></td></tr>
-<tr><td>GA</td><td>Bulc</td><td></td></tr>
-<tr><td>HR</td><td>Rasuto</td><td></td></tr>
-<tr><td>HU</td><td>Ömlesztett</td><td></td></tr>
-<tr><td>IS</td><td>Vara í lausu</td><td></td></tr>
-<tr><td>IT</td><td>Alla rinfusa</td><td></td></tr>
-<tr><td>LT</td><td>Nesupakuota</td><td></td></tr>
-<tr><td>LV</td><td>Berams</td><td></td></tr>
-<tr><td>MK</td><td>Рефус</td><td></td></tr>
-<tr><td>MT</td><td>Bil-kwantitá</td><td></td></tr>
-<tr><td>NL</td><td>Los gestort</td><td></td></tr>
-<tr><td>NO</td><td>Bulk</td><td></td></tr>
-<tr><td>PL</td><td>Luzem</td><td></td></tr>
-<tr><td>PT</td><td>A granel</td><td></td></tr>
-<tr><td>RO</td><td>Vrac</td><td></td></tr>
-<tr><td>RS</td><td>Расуто</td><td></td></tr>
-<tr><td>SK</td><td>Voľne ložené</td><td></td></tr>
-<tr><td>SL</td><td>Razsuto</td><td></td></tr>
-<tr><td>SV</td><td>Bulk</td><td></td></tr>
-<tr><td>TR</td><td>Dökme</td><td></td></tr>
-<tr><td>BG</td><td>Изпращач</td><td>Versender – 99213</td></tr>
-<tr><td>CS</td><td>Odesílatel</td><td></td></tr>
-<tr><td>DA</td><td>Afsender</td><td></td></tr>
-<tr><td>DE</td><td>Versender</td><td></td></tr>
-<tr><td>EE</td><td>Saatja</td><td></td></tr>
-<tr><td>EL</td><td>Αποστολέας</td><td></td></tr>
-<tr><td>EN</td><td>Consignor</td><td></td></tr>
-<tr><td>ES</td><td>Expedidor</td><td></td></tr>
-<tr><td>FI</td><td>Lähettäjä</td><td></td></tr>
-<tr><td>FR</td><td>Expéditeur</td><td></td></tr>
-<tr><td>GA</td><td>Coinsíneoir</td><td></td></tr>
-<tr><td>HR</td><td>Pošiljatelj</td><td></td></tr>
-<tr><td>HU</td><td>Feladó</td><td></td></tr>
-<tr><td>IS</td><td>Sendandi</td><td></td></tr>
-<tr><td>IT</td><td>Speditore</td><td></td></tr>
-<tr><td>LT</td><td>Siuntėjas</td><td></td></tr>
-<tr><td>LV</td><td>Nosūtītājs</td><td></td></tr>
-<tr><td>MK</td><td>Испраќач</td><td></td></tr>
-<tr><td>MT</td><td>Min jikkonsenja</td><td></td></tr>
-<tr><td>NL</td><td>Afzender</td><td></td></tr>
-<tr><td>NO</td><td>Avsender</td><td></td></tr>
-<tr><td>PL</td><td>Nadawca</td><td></td></tr>
-<tr><td>PT</td><td>Expedidor</td><td></td></tr>
-<tr><td>RO</td><td>Expeditor</td><td></td></tr>
-<tr><td>RS</td><td>Пошиљалац</td><td></td></tr>
-<tr><td>SK</td><td>Odosielateľ</td><td></td></tr>
-<tr><td>SL</td><td>Pošiljatelj</td><td></td></tr>
-<tr><td>SV</td><td>Avsändare</td><td></td></tr>
-<tr><td>TR</td><td>Gönderici</td><td></td></tr>
+<tr><th>Sprachenvermerke</th><th>Beschreibung</th></tr>
+<tr><td>BG опаковка N CS obal N DA N-emballager DE N-Umschliessungen EE N-pakendamine EL Συσκευασία N EN N packaging ES envases N FI N-pakkaus FR emballages N GA N - pacáistíocht HR N pakiranje HU N csomagolás IS N umbúðir IT imballaggi N LT N pakuoté LV N iepakojums MK N пакување MT ippakkjar N NL N-verpakkingen NO N-emballasje PL opakowania N PT embalagens N RO ambalaj N RS N паковање SI N embalaža SK N - obal SV N förpackning TR N Kaplar UA N паковання</td><td>N-Umschliessungen – 98200</td></tr>
+<tr><td>BG Ограничена валидност CS Omezená platnost DA Begrænset gyldighed DE Beschränkte Geltung EE Piiratud kehtivus EL Περιορισμένη ισχύς EN Limited validity ES Validez limitada FI Voimassa rajoitetusti FR Validité limitée GA Bailíocht theoranta HR Ograničena valjanost HU Korlátozott érvényű IS Takmarkað gildissvið IT Validità limitata LT Galiojimas apribotas LV Ierobežots derīgums MK Ограничено важење MT Validità limitata NL Beperkte geldigheid NO Begrenset gyldighet PL Ograniczona ważność PT Validade limitada RO Validitate limitată RS Ограничена важност SK Obmedzená platnosť SL Omejena veljavnost SV Begränsad giltighet TR Sınırlı Geçerli UA Дія обмежена</td><td>Beschränkte Geltung – 99200</td></tr>
+<tr><td>BG Освободено CS Osvobození DA Fritaget DE Befreiung EE Loobutud EL Απαλλαγή EN Waiver ES Dispensa FI Vapautettu FR Dispense GA Tarscaoileadh HR Oslobođeno HU Mentesség IS Undanþegið IT Dispensa LT Leista neplombuoti LV Derīgs bez zīmoga MK Изземање MT Tneħħija NL Vrijstelling NO Fritak PL Zwolnienie PT Dispensa RO Derogarea RS Ослобођење SK Upustenie SL Opustitev SV Befrielse TR Vazgeçme UA Звільнення</td><td>Befreiung – 99201</td></tr>
+<tr><td>BG Алтернативно доказателство CS Alternativní důkaz DA Alternativt bevis DE Alternativnachweis EE Alternatiivsed tõendid EL Εναλλακτική απόδειξη EN Alternative proof ES Prueba alternativa FI Vaihtoehtoinen todiste FR Preuve alternative GA Cruthúnas malartach HR Alternativni dokaz HU Alternatív igazolás IS Önnur sönnun IT Prova alternativa LT Alternatyvusis įrodymas LV Alternatīvs pierādījums MK Алтернативен доказ MT Prova alternattiva NL Alternatief bewijs NO Alternativt bevis PL Alternatywny dowód PT Prova alternativa RO Probă alternativă RS Алтернативни доказ SK Alternatívny dôkaz SL Alternativno dokazilo SV Alternativt bevis TR Alternatif Kanıt UA Альтернативне підтвердження</td><td>Alternativnachweis – 99202</td></tr>
+<tr><td>BG Различия: митническо учреждение, където стоките са представени…………….. .................. (наименование и страна) CS Nesrovnalosti: úřad, kterému bylo zboží předloženo ..................... (název a země) DA Forskelle: det sted, hvor varerne blev frembudt ............................. (navn og land) DE Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte ......... ……(Name und Land) EE Erinevused: asutus, kuhu kaup esitati ……............................................. (nimi ja riik) EL Διαφορές: εμπορεύματα προσκομισθέντα στο τελωνείο ........ (Όνομα και χώρα) EN Differences: office where goods were presented .......................... (name and country) ES Diferencias: mercancías presentadas en la oficina ..................... (nombre y país) FI Muutos: toimipaikka, jossa tavarat esitetty ................................... (nimi ja maa) FR Différences: marchandises présentées au bureau ........................... (nom et pays) GA Difríochtaí: oifig inár cuireadh na hearraí i láthair …...... (ainm agus tír) HR Razlike: Carinarnica kojoj je roba podnesena ............................. (naziv i zemlja) HU Eltérések: hivatal, ahol az áruk bemutatása megtörtént .............. (név és ország) IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Unstimmigkeiten: Stelle, bei der die Gestellung erfolgte … (Name und Land) – 99203</td></tr>
+<tr><td>BG Излизането от ........................ подлежи на ограничения или такси съгласно Регламент/Директива/Решение № …, CS Výstup ze ............................................. podléhá omezením nebo dávkám podle nařízení/směrnice/ rozhodnutí č. … DA Udpassage fra ........................ undergivet restriktioner eller afgifter i henhold til forordning/direktiv/ afgørelse nr. … DE Ausgang aus ........................ – gemäss Verordnung/Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen. EE ....................... territooriumilt väljumise suhtes kohaldatakse piiranguid ja makse vastavalt määrusele/ direktiivile/otsusele nr … EL Η έξοδος από ......................... υποβάλλεται σε περιορισμούς ή σε επιβαρύνσεις από τον κανονισμό/την οδηγία/την απόφαση αριθ. … EN Exit from ............................................... subject to restrictions or charges under Regulation/Directive/ Decision No … ES Salida de ............ sometida a restricciones o imposiciones en virtud del (de la) Reglamento/Directiva/ Decisión no … FI ......... ........ vientiin sovelletaan asetuksen/direktiivin/ päätöksen N:o … mukaisia rajoituksia tai maksuja FR Sortie de ...... soumise à des restrictions ou à des impositions par le règlement ou la directive/décision n<sup>o</sup> … GA Scoir faoi réir srianta nó muirir faoin Uimhir Rialachán/Treoir/Cinneadh … HR Izlaz iz ................................... podliježe ograničenjima ili pristojbama temeljem Uredbe/Direktive/Odluke br … HU A kilépés ................ területéről a ................. rendelet/ irányelv/határozat szerinti korlátozás vagy teher megfizetésének kötelezettsége alá esik IS Breyting: tollstjóraskrifstofa þar sem vörum var framvísað ......... (nafn og land) IT Differenze: ufficio al quale sono state presentate le merci ........ (nome e paese) LT Skirtumai: įstaiga, kuriai pateiktos prekės .................. (pavadinimas ir valstybė) LV Atšķirības: muitas iestāde, kurā preces tika uzrādītas .................. (nosaukums un valsts) MK Разлики: Испостава каде стоките се ставени на увид .......... (назив и земја) MT Differenzi: uffiċċju fejn l-oġġetti kienu ppreżentati (isem u pajjiż) NL Verschillen: kantoor waar de goederen zijn aangebracht ........... (naam en land) NO Forskjell: det tollsted hvor varene ble fremlagt ........................... (navn og land) PL Niezgodności: urząd, w którym przedstawiono towar .................. (nazwa i kraj) PT Diferenças: mercadorias apresentadas na estância ........................ (nome e país) RO Diferențe: mărfuri prezentate la biroul vamal .............................. (nume și țara) RS Разлике: царински орган којем је предата роба .................. (назив и земља) SK Rozdiely: úrad, ktorému bol tovar predložený ........................ (názov a krajina) SL Razlike: urad, pri katerem je bilo blago predloženo ............... (naziv in država) SV Avvikelse: tullkontor där varorna anmäldes .............................. (namn och land) TR Değişiklikler: Eşyanın sunulduğu idare ...................................... (adı ve ülkesi) UA Розбіжності: митниця, де товари були пред’явлені ………… (назва і країна)</td><td>Ausgang aus … – gemäss Verordnung/ Richtlinie/Beschluss Nr. … Beschränkungen oder Abgaben unterworfen – 99204</td></tr>
+<tr><td>BG Одобрен изпращач CS Schválený odesílatel DA Godkendt afsender DE Zugelassener Versender EE Volitatud kaubasaatja EL Εγκεκριμένος αποστολέας EN Authorised consignor ES Expedidor autorizado FI Valtuutettu lähettäjä FR Expéditeur agréé GA Coinsíneoir údaraithe HR Ovlašteni pošiljatelj HU Engedélyezett feladó IS Viðurkenndur sendandi IT Speditore autorizzato LT Įgaliotas gavėjas LV Atzītais nosūtītājs MK Овластен испраќач MT Awtorizzat li jibgħat NL Toegelaten afzender NO Autorisert avsender PL Upoważniony nadawca PT Expedidor autorizado RO Expeditor agreat RS Овлашћени пошиљалац SK Schválený odosielateľ SL Pooblaščeni pošiljatelj SV Godkänd avsändare TR İzinli Gönderici UA Авторизований вантажовідправник</td><td>Zugelassener Versender – 99206</td></tr>
+<tr><td>BG Освободен от подпис CS Podpis se nevyžaduje DA Fritaget for underskrift DE Freistellung von der Unterschriftsleistung EE Allkirjanõudest loobutud EL Δεν απαιτείται υπογραφή EN Signature waived ES Dispensa de firma FI Vapautettu allekirjoituksesta FR Dispense de signature GA Tharscaoileadh an síniú HR Oslobođeno potpisa HU Aláírás alól mentesítve IS Undanþegið undirskrift IT Dispensa dalla firma LT Leista nepasirašyti LV Derīgs bez paraksta MK Изземање од потпис MT Firma mhux meħtieġa NL Van ondertekening vrijgesteld NO Fritatt for underskrift PL Zwolniony ze składania podpisu PT Dispensada a assinatura RO Dispensă de semnătură RS Ослобођено од потписа SK Upustenie od podpisu SL Opustitev podpisa SV Befrielse från underskrift TR İmzadan Vazgeçme UA Звільнено від підпису</td><td>Freistellung von der Unterschriftsleistung – 99207</td></tr>
+<tr><td>BG ЗАБРАНЕНО ОБЩО ОБЕЗПЕЧЕНИЕ CS ZÁKAZ SOUBORNÉ JISTOTY DA FORBUD MOD SAMLET SIKKERHEDSSTILLELSE DE GESAMTSICHERHEIT UNTERSAGT EE ÜLDTAGATISE KASUTAMINE KEELATUD EL ΑΠΑΓΟΡΕΥΕΤΑΙ Η ΣΥΝΟΛΙΚΗ ΕΓΓΥΗΣΗ EN COMPREHENSIVE GUARANTEE PROHIBITED ES GARANTÍA GLOBAL PROHIBIDA FI YLEISVAKUUDEN KÄYTTÖ KIELLETTY FR GARANTIE GLOBALE INTERDITE GA RATHAÍOCHT CHUIMSITHEACH COISCTHE HR ZABRANJENO ZAJEDNIČKO JAMSTVO HU ÖSSZKEZESSÉG TILOS IS ALLSHERJARTRYGGING BÖNNUÐ IT GARANZIA GLOBALE VIETATA LT NAUDOTI BENDRĄJĄ GARANTIJĄ UŽDRAUSTA LV VISPĀRĒJS GALVOJUMS AIZLIEGTS MK ЗАБРАНА ЗА УПОТРЕБА НА ОПШТА ГАРАНЦИЈА MT MHUX PERMESSA GARANZIJA KOMPRENSIVA NL DOORLOPENDE ZEKERHEID VERBODEN NO FORBUD MOT BRUK AV UNIVERSALGARANTI PL ZAKAZ KORZYSTANIA Z GWARANCJI GENERALNEJ PT GARANTIA GLOBAL PROIBIDA RO GARANŢIA GLOBALĂ INTERZISĂ RS ЗАБРАЊЕНО ЗАЈЕДНИЧКО ОБЕЗБЕЂЕЊЕ SK ZÁKAZ CELKOVEJ ZÁRUKY SL PREPOVEDANO SPLOŠNO ZAVAROVANJE SV SAMLAD SÄKERHET FÖRBJUDEN TR KAPSAMLI TEMİNAT YASAKLANMIȘTIR UA ЗАГАЛЬНА ГАРАНТІЯ ЗАБОРОНЕНА</td><td>Gesamtsicherheit untersagt – 99208</td></tr>
+<tr><td>BG ИЗПОЛЗВАНЕ БЕЗ ОГРАНИЧЕНИЯ CS NEOMEZENÉ POUŽITÍ DA UBEGRÆNSET ANVENDELSE DE UNBESCHRÄNKTE VERWENDUNG EE PIIRAMATU KASUTAMINE EL ΑΠΕΡΙΟΡΙΣΤΗ ΧΡΗΣΗ EN UNRESTRICTED USE ES UTILIZACIÓN NO LIMITADA FI KÄYTTÖÄ EI RAJOITETTU FR UTILISATION NON LIMITÉE GA ÚSÁID NEAMHSHRIANTA HR NEOGRANIČENA UPORABA HU KORLÁTOZÁS ALÁ NEM ESŐ HASZNÁLAT IS ÓTAKMÖRKUÐ NOTKUN IT UTILIZZAZIONE NON LIMITATA LT NEAPRIBOTAS NAUDOJIMAS LV NEIEROBEŽOTS IZMANTOJUMS MK УПОТРЕБА БЕЗ ОГРАНИЧУВАЊЕ MT UŻU MHUX RISTRETT NL GEBRUIK ONBEPERKT NO UBEGRENSET BRUK PL NIEOGRANICZONE KORZYSTANIE PT UTILIZAÇÃO ILIMITADA RO UTILIZARE NELIMITATĂ RS НЕОГРАНИЧЕНА УПОТРЕБА SK NEOBMEDZENÉ POUŽITIE SL NEOMEJENA UPORABA SV OBEGRÄNSAD ANVÄNDNING TR KISITLANMAMIȘ KULLANIM UA ВИКОРИСТАННЯ БЕЗ ОБМЕЖЕНЬ</td><td>Unbeschränkte Verwendung – 99209</td></tr>
+<tr><td>BG Издаден впоследствие CS Vystaveno dodatečně DA Udstedt efterfølgende DE Nachträglich ausgestellt EE Välja antud tagasiulatuvalt EL Εκδοθέν εκ των υστέρων EN Issued retroactively ES Expedido a posteriori FI Annettu jälkikäteen FR Délivré a posteriori GA Eisithe go haisghníomhach HR Izdano naknadno HU Kiadva visszamenőleges hatállyal IS Útgefið eftir á IT Rilasciato a posteriori LT Retrospektyvusis išdavimas LV Izsniegts retrospektīvi MK Дополнително издадено MT Maħruġ b’mod retrospettiv NL Achteraf afgegeven NO Utstedt i etterhånd PL Wystawione retrospektywnie PT Emitido a posteriori RO Eliberat ulterior RS Накнадно издато SK Vyhotovené dodatočne SL Izdano naknadno SV Utfärdat i efterhand TR Sonradan Düzenlenmiştir UA Видано згодом</td><td>Nachträglich ausgestellt – 99210</td></tr>
+<tr><td>BG Разни CS Různí DA Diverse DE Verschiedene EE Erinevad EL Διάφορα EN Various ES Varios FI Useita FR Divers GA Éagsúil HR Razni HU Többféle IS Ýmis IT Vari LT Įvairūs LV Dažādi MK Различни MT Diversi NL Diversen NO Diverse PL Różne PT Diversos RO Diverse RS Разно SK Rôzne SL Razno SV Flera TR Çeșitli UA Різне</td><td>Verschiedene – 99211</td></tr>
+<tr><td>BG Насипно CS Volně loženo DA Bulk DE Lose EE Pakendamata EL Χύμα EN Bulk ES A granel FI Irtotavaraa FR Vrac GA Bulc HR Rasuto HU Ömlesztett IS Vara í lausu IT Alla rinfusa LT Nesupakuota LV Berams MK Рефус MT Bil-kwantitá NL Los gestort NO Bulk PL Luzem PT A granel RO Vrac RS Расуто SK Voľne ložené SL Razsuto SV Bulk TR Dökme UA Навалювальний вантаж</td><td>Lose – 99212</td></tr>
+<tr><td>BG Изпращач CS Odesílatel DA Afsender DE Versender EE Saatja EL Αποστολέας EN Consignor ES Expedidor FI Lähettäjä FR Expéditeur GA Coinsíneoir HR Pošiljatelj HU Feladó IS Sendandi IT Speditore LT Siuntėjas LV Nosūtītājs MK Испраќач MT Min jikkonsenja NL Afzender NO Avsender PL Nadawca PT Expedidor RO Expeditor RS Пошиљалац SK Odosielateľ SL Pošiljatelj SV Avsändare TR Gönderici UA Вантажовідправник</td><td>Versender – 99213</td></tr>
 </table>
 
 Anhang A3a zu Anlage IIIa
 
 ## Versandbegleitdokument
 
-Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkt der Anpassung des NCTS.
+Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 oder in jeglicher späteren Aktualisierung dieses Beschlusses angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS.
 
 Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image6.png)
 
 Anhang A4a zu Anlage IIIa
 
 ## Anmerkungen und besondere Angaben (Daten) zum Versandbegleitdokument
 
-Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkt der Anpassung des NCTS.
+Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 oder in jeglicher späteren Aktualisierung solcher Beschlüsse angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS.
 
-Die in diesem Anhang verwendete Kurzform «BKP» («Betriebskontinuitätsplan») bezieht sich auf Situationen, in denen das Betriebskontinuitätsverfahren nach Artikel 26 Anlage I angewandt wird.
+Die in diesem Anhang verwendete Kurzform «BKP» («Betriebskontinuitätsplan») bezieht sich auf das in Anlage I Artikel 26 beschriebene Betriebskontinuitätsverfahren.
 
-Das Versandbegleitdokument kann auf grünem Papier gedruckt werden.
+Das Versandbegleitdokument kann auf normalem Papier gedruckt werden.
 
-Das Versandbegleitdokument wird ausgedruckt auf der Grundlage der Angaben in der Versandanmeldung, die gegebenenfalls vom Inhaber des Versandverfahrens geändert und/oder von der Abgangszollstelle geprüft und wie folgt vervollständigt wurden:
+Das Versandbegleitdokument wird erstellt auf der Grundlage der Angaben in der Versandanmeldung, die gegebenenfalls vom Inhaber des Versandverfahrens geändert und/oder von der Abgangszollstelle geprüft und wie folgt vervollständigt wurden:
 
 ### 1. Feld MRN
 
-Die MRN ist auf der ersten Seite und auf allen Listen der Warenpositionen aufzudrucken, es sei denn, die Vordrucke werden im Rahmen des BKP verwendet, bei dem keine MRN zugewiesen wird.
+Die MRN ist auf der ersten Seite und auf allen Listen der Warenpositionen anzugeben, es sei denn, die Vordrucke werden im Rahmen des BKP verwendet, bei dem keine MRN zugewiesen wird.
 
-Die MRN wird ausserdem als Strichcode nach dem Muster «Code 128», Schriftzeichensatz «B», aufgedruckt.
+Die MRN wird ausserdem als Strichcode nach dem Muster «Code 128», Schriftzeichensatz «B», erstellt.
 
-### 2. Feld Vordrucke (1/4)
+### 2. Feld Vordrucke
 
-- – erstes Unterfeld: laufende Nummer des ausgedruckten Blattes;
-- – zweites Unterfeld: Gesamtzahl der ausgedruckten Blätter (einschliesslich Liste der Warenpositionen);
-- – wird bei nur einer Warenposition nicht verwendet.
+- – erstes Unterfeld: laufende Nummer des ausgedruckten Exemplars
+- – zweites Unterfeld: Gesamtzahl der ausgedruckten Exemplare (einschliesslich Liste der Warenpositionen)
 
-### 3. Unter dem Feld Referenznummer/UCR (2/4)
+### 3. Feld Sicherheit [11 07]
 
-Name und Anschrift der Zollstelle, der ein Exemplar des Versandbegleitdokuments zu übersenden ist, falls der BKP Anwendung findet.
+Enthält das Dokument keine sicherheitsrelevanten Angaben, bleibt das Feld frei.
 
-### 4. Feld Abgangszollstelle (C)
+### 4. Feld Positionen insg.
 
-- – Bezeichnung der Abgangszollstelle;
-- – Kennnummer der Abgangszollstelle;
-- – Datum der Annahme der Versandanmeldung;
-- – gegebenenfalls Name und Bewilligungsnummer des zugelassenen Versenders.
+Die Summe aller in einer Anmeldung enthaltenen Warenpositionen.
 
-### 5. Feld Kontrolle durch Abgangszollstelle (D)
+### 5. Feld Packstücke insg.
 
-- – Kontrollergebnisse;
-- – die angelegten Verschlüsse oder die Angabe «– –» für den Vermerk «Befreiung – 99201»;
-- – gegebenenfalls der Vermerk «verbindliche Beförderungsroute».
+Die Summe aller in einer Anmeldung enthaltenen Packstücke.
 
-Sofern im Übereinkommen nichts anderes festgelegt ist, sind Änderungen des Versandbegleitdokuments sowie Zusätze oder Streichungen nicht zulässig.
+### 6. Feld «BKP – Rückschein an folgende Zollstelle»
 
-### 6. Förmlichkeiten im Zusammenhang mit Ereignissen während der Beförderung von Waren
+Name, Anschrift und Identifikationsnummer der Zollstelle, der ein Exemplar des Versandbegleitdokuments zu übersenden ist, falls der BKP Anwendung findet.
 
-Dieses Verfahren wird angewendet, bis es den Zollbehörden möglich sein wird, diese Informationen direkt im System zu erfassen.
+### 7. Feld Sicherheit nicht gültig für:
 
-Möglicherweise sind zwischen dem Zeitpunkt des Abgangs der Waren von der Abgangszollstelle und dem Zeitpunkt ihres Eintreffens bei der Bestimmungszollstelle bestimmte Eintragungen auf den die Waren begleitenden Exemplaren des Versandpapiers hinzuzufügen. Diese die Beförderung betreffenden Eintragungen sind im Verlauf des Versandverfahrens von dem Beförderer vorzunehmen, der für das Beförderungsmittel verantwortlich ist, auf das die Waren verladen wurden. Diese Eintragungen können leserlich handschriftlich vorgenommen werden. In diesem Fall sind die Exemplare in Blockschrift mit Tinte auszufüllen.
+Findet der BKP Anwendung, so ist der Ländercode für die Länder anzugeben, in denen die gestellte Sicherheit nicht verwendet werden kann.
 
-Der Beförderer darf eine Umladung nur vornehmen, wenn ihm die Zollbehörden des Landes, in dem die Umladung stattfinden soll, eine entsprechende Bewilligung erteilt haben.
+### 8. Ereignisse während der Beförderung (BKP)
 
-Sind die Zollbehörden der Auffassung, dass das gemeinsame Versandverfahren ohne Weiteres fortgesetzt werden kann, versehen sie, nachdem sie gegebenenfalls die erforderlichen Massnahmen getroffen haben, das Versandbegleitdokument mit ihrem Sichtvermerk.
+Dieser Abschnitt ist zu verwenden, wenn der BKP Anwendung findet und es während der Beförderung zu Ereignissen gekommen ist.
 
-Die Zollbehörden der Durchgangszollstelle oder gegebenenfalls der Bestimmungszollstelle sind verpflichtet, die dem Versandbegleitdokument hinzugefügten Eintragungen in das EDV-System einzugeben. Dies kann auch durch den zugelassenen Empfänger geschehen.
+Möglicherweise sind zwischen dem Zeitpunkt des Abgangs der Waren von der Abgangszollstelle und dem Zeitpunkt ihres Eintreffens bei der Bestimmungszollstelle bestimmte Eintragungen auf den die Waren begleitenden Exemplaren des Versandpapiers vorzunehmen. Diese die Beförderung betreffenden Eintragungen sind im Verlauf des Versandverfahrens von dem Beförderer vorzunehmen, der für das Beförderungsmittel verantwortlich ist, auf das die Waren verladen wurden. Diese Eintragungen können lesbar in Handschrift vorgenommen werden. In diesem Fall sind die Exemplare in Blockschrift mit Tinte auszufüllen.
 
-Diese Eintragungen betreffen folgende Felder und Vorgänge:
+Unbeschadet der in Artikel 44 Anlage I vorgesehenen/festgelegten Ausnahmen darf der Beförderer eine Umladung nur vornehmen, wenn ihm die Zollbehörden des Landes, in dem die Umladung stattfinden soll, eine entsprechende Bewilligung erteilt haben.
 
-- – Umladungen: Auszufüllen ist das Feld 7/1.
+Bei intermodalen Transporteinheiten, beispielsweise Containern, Wechselbehältern und Sattelanhängern, muss der Inhaber des Versandverfahrens diese Angaben nicht bereitstellen, wenn aus logistischen Gründen bei der Abgangszollstelle zum Zeitpunkt der Überführung in das Versandverfahren Identität und Staatszugehörigkeit des Beförderungsmittels nicht bekannt sind. Die intermodalen Transporteinheiten müssen eindeutige Identifikationsnummern aufweisen, und diese Nummern sind in D.E. 19 07 063 000 «Containernummer» anzugeben; die Waren dürfen beim Wechsel des Verkehrszweigs selbst nicht behandelt werden.
 
-Feld Umladungen (7/1)
+Sind die Zollbehörden der Auffassung, dass das Unionsversandverfahren ohne Weiteres fortgesetzt werden kann, versehen sie, nachdem sie gegebenenfalls die erforderlichen Massnahmen getroffen haben, das Versandbegleitdokument mit ihrem Sichtvermerk.
 
-Die ersten drei Zeilen dieses Feldes sind vom Beförderer auszufüllen, wenn die Waren im Verlauf des betreffenden Versandverfahrens von einem Beförderungsmittel auf ein anderes oder aus einem Container in einen anderen umgeladen werden.
+Diese Eintragungen betreffen folgende Felder und Fälle:
 
-Bei Warenbeförderungen in Containern, die von Strassenfahrzeugen befördert werden sollen, können die Zollbehörden den Inhaber des Versandverfahrens ermächtigen, das Feld 7/7-/7/8 beim Abgang nicht auszufüllen, wenn aus logistischen Gründen bei der Abgangszollstelle zum Zeitpunkt der Erstellung der Versandanmeldung Kennzeichen und Staatszugehörigkeit nicht bekannt sind, sofern sie sicherstellen können, dass die erforderlichen Angaben zum Beförderungsmittel nachträglich in Feld 7/1 eingetragen werden.
+Feld Zollstelle, die die Registrierung des Ereignisses vorgenommen hat:
 
-- – Andere Ereignisse: Auszufüllen ist das Feld 7/19.
+Referenznummer der Zollstelle, bei der das Ereignis registriert wurde.
 
-Feld Andere Ereignisse bei der Beförderung (7/19)
+Feld Code Ereignis:
 
-Dieses Feld ist unter Beachtung der Verpflichtungen im Rahmen des Versandverfahrens auszufüllen.
+Angabe der Art des Ereignisses gemäss Anlage I Artikel 44 Absatz 1.
 
-Wurden die Waren auf einen Auflieger verladen und wird während der Beförderung die Zugmaschine (ohne Behandlung oder Umladung der Waren) ausgewechselt, so sind in diesem Feld Kennzeichen und Staatszugehörigkeit der neuen Zugmaschine anzugeben. In derartigen Fällen ist ein Sichtvermerk der Zollbehörden nicht erforderlich.
+### 9. Feld Abgangszollstelle [17 03]
+
+Gegebenenfalls sind auch der Name des zugelassenen Versenders und die Bewilligungsnummer in diesem Feld anzugeben.
+
+Sofern in dieser Verordnung nichts anderes festgelegt ist, sind Änderungen des Versandbegleitdokuments sowie Zusätze oder Streichungen nicht zulässig.
 
 Anhang A5a zu Anlage IIIa
 
 ## Liste der Warenpositionen
 
-Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkt der Anpassung des NCTS.»
+Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS.
 
 Muster der Liste der Warenpositionen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20221001/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20241018/de/xml/image/image7.png)»
 
 Anhang A6a zu Anlage IIIa
 
 ## Anmerkungen zur Liste der Warenpositionen mit den erforderlichen Angaben (Daten)
 
-Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkt der Anpassung des NCTS.
+Dieser Anhang gilt ab den im Anhang des Durchführungsbeschlusses (EU) 2023/2879 oder in jeglichem späteren Beschluss angegebenen Zeitpunkten der Inbetriebnahme der aufgerüsteten Version des NCTS.
 
 Die in diesem Anhang verwendete Kurzform «BKP» («Betriebskontinuitätsplan») bezieht sich auf Situationen, in denen das Betriebskontinuitätsverfahren nach Artikel 26 Anlage I angewandt wird.
 
-Die Felder der Liste der Warenpositionen sind vertikal erweiterbar. Abgesehen von den Bestimmungen in den Erläuterungen zu den Anhängen A1a und B6a gilt, dass die Daten wie folgt aufzudrucken sind, gegebenenfalls unter Verwendung von Codes:
+Die Felder der Liste der Warenpositionen sind vertikal erweiterbar. Abgesehen von den Bestimmungen in den Erläuterungen zu den Anhängen A1*a* und B6a gilt, dass die Daten wie folgt aufzudrucken sind, gegebenenfalls unter Verwendung von Codes:
 
-\1. Feld MRN – gemäss der Festlegung in Anhang A3a. Die MRN ist auf der ersten Seite und auf allen Listen der Warenpositionen aufzudrucken, es sei denn, die Vordrucke werden im Rahmen des BKP verwendet, bei dem keine MRN zugewiesen wird.
+Die Felder der Liste der Warenpositionen sind vertikal erweiterbar. Abgesehen von den Bestimmungen in den Erläuterungen zu Anhang A1a gilt, dass die Daten wie folgt aufzudrucken sind, gegebenenfalls unter Verwendung von Codes:
+
+\1. Feld MRN – gemäss der Festlegung in Anhang A3*a*. Die MRN ist auf der ersten Seite und auf allen Listen der Warenpositionen aufzudrucken, es sei denn, die Vordrucke werden im Rahmen des BKP verwendet, bei dem keine MRN zugewiesen wird.
 
 \2. In den einzelnen Feldern sind die Daten zu den jeweiligen Positionen wie folgt aufzudrucken:
 
-- a) Feld Art der Anmeldung (1/3) – dieses Feld ist nicht zu verwenden, wenn alle Waren der Anmeldung denselben Status haben, bei gemischten Sendungen ist der tatsächliche Status T1, T2 oder T2F anzugeben;
+- a) Feld Art [11 01] – Dieses Feld wird nur bei gemischten Sendungen verwendet. Hier ist der tatsächliche Status jeder Position (T1, T2 oder T2F) anzugeben.
 - b)
 
-  Feld Vordrucke (1/4):
+  Feld Vordrucke:
 
-  - – Erstes Unterfeld: laufende Nummer des ausgedruckten Blattes,
-  - – Zweites Unterfeld: Gesamtzahl der ausgedruckten Blätter;
-
-- c) Feld Positionsnummer (1/6) – laufende Nummer der jeweiligen Ware;
-- d) Feld Beförderungskosten, Code für die Zahlungsweise (4/2) – Code für die Zahlungsweise der Beförderungskosten eintragen.
+  - – Erstes Unterfeld: laufende Nummer des ausgedruckten Blattes;
+  - – Zweites Unterfeld: Gesamtzahl der ausgedruckten Blätter (Liste der Warenpositionen).
 
 Anhang B2a zu Anlage IIIa
 
 ## Gemeinsame Datenanforderungen für T2L/T2LF als Nachweise des zollrechtlichen Status von Unionswaren
 
-Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) festgelegten Zeitpunkt der Inbetriebnahme des PoUS.
+Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission festgelegten Zeitpunkt der Inbetriebnahme des PoUS.
 
 ### Titel I: Allgemeines
 
@@ -8628,7 +8323,7 @@ Anhang B3a zu Anlage IIIa
 
 ## Formate und Codes der gemeinsamen Datenanforderungen für T2L/T2LF als Nachweise des zollrechtlichen Status von Unionswaren
 
-Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) festgelegten Zeitpunkt der Inbetriebnahme des PoUS.
+Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission estgelegten Zeitpunkt der Inbetriebnahme des PoUS.
 
 ### Titel I: Allgemeines
 
@@ -8806,7 +8501,7 @@ Anhang B5a zu Anlage IIIa
 
 ## Merkblatt zur Ladeliste
 
-Sofern nichts anderes festgelegt wurde, gilt dieser Anhang ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 der Kommission vom 11. April 2016 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der elektronischen Systeme gemäss dem Zollkodex der Union (ABl. L 99 vom 15.4.2016, S. 6) angegebenen Zeitpunkt der Anpassung des NCTS.
+Sofern nichts anderes festgelegt wurde, gilt dieser Anhang ab dem im Anhang des Durchführungsbeschlusses (EU) 2023/2879 der Kommission angegebenen Zeitpunkt der Anpassung des NCTS.
 
 ### Titel I: Allgemeines
 
@@ -9409,4 +9104,4 @@ Geltungsbereich am 25. Februar 2021[^t-8]
 <tr><td colspan="5"><sup>a</sup> Mitglieder der Europäischen Union: Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Kroatien, Italien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, Zypern. <sup>b</sup> Mitglied der EFTA.</td></tr>
 </table>
 
-[^t-8]: [AS 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-8]: [AS 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
