@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Recepimento e trasposizione del regolamento (UE) 2024/1717 che modifica il regolamento (UE) 2016/399 che istituisce un codice dell’Unione relativo al regime di attraversamento delle frontiere da parte delle persone (sviluppo dell’acquis di Schengen) e modifica della legge federale sugli stranieri e la loro integrazione
 document: Progetto posto in consultazione-2
 language: it

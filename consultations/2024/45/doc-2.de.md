@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Übernahme und Umsetzung der Verordnung (EU) 2024/1717 zur Änderung der Verordnung (EU) 2016/399 über einen Unionskodex für das Überschreiten der Grenzen durch Personen (Schengen-Weiterentwicklung) sowie Änderung des Ausländer- und Integrationsgesetzes
 document: Vernehmlassungsvorlage-4
 language: de

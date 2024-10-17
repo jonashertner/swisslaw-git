@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Reprise et mise en œuvre du règlement (UE) 2024/1717 modifiant le règlement (UE) 2016/399 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (développement Schengen) et modification de la loi fédérale sur les étrangers et l’intégration
 document: Projet mis en consultation-3
 language: fr
