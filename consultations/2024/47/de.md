@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des ZGB – Erleichterte Stiefkindadoption
 document: Vernehmlassungsvorlage
 language: de

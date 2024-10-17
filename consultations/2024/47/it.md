@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica del codice civile – Adozione agevolata del figliastro
 document: Progetto posto in consultazione
 language: it

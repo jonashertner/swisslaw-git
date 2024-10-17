@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du code civil – Adoption facilitée de l’enfant du conjoint ou du partenaire
 document: Projet mis en consultation
 language: fr
