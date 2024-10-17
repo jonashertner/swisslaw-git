@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza concernente la preparazione e l’attuazione delle misure di solidarietà volte a garantire l’approvvigionamento di gas
 document: Progetto posto in consultazione
 language: it

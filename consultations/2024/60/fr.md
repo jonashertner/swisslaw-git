@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la préparation et la mise en œuvre des mesures de solidarité visant à garantir l’approvisionnement en gaz
 document: Projet mis en consultation
 language: fr
