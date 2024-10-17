@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifications d’ordonnances en raison de la reprise et de la mise en œuvre des règlements (UE) 2021/1133 et (UE) 2021/1134 relatifs au système central d’information sur les visas (développements de l’acquis de Schengen)
 document: Projet mis en consultation-5
 language: fr

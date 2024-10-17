@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungsanpassungen aufgrund der Übernahme und Umsetzung der Verordnungen (EU) 2021/1133 und (EU) 2021/1134 betreffend das zentrale Visa-Informationssystem (Weiterentwicklungen des Schengen-Besitzstands)
 document: Vernehmlassungsvorlage-2
 language: de

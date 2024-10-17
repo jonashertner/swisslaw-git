@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifiche d’ordinanze dovute al recepimento e all’attuazione dei regolamenti (UE) 2021/1133 e (UE) 2021/1134 (sviluppi dell’acquis di Schengen)
 document: Progetto posto in consultazione-5
 language: it
