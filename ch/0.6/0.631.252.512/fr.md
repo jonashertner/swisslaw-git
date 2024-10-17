@@ -3,11 +3,11 @@ sr: "0.631.252.512"
 title: Convention douanière du 14 novembre 1975 relative au transport international de marchandises sous le couvert de carnets TIR (Convention TIR) (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281"
 language: fr
-version: 2023-10-13
+version: 2024-10-18
 adopted: 1975-11-14
 in_force: 1978-08-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20231013-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/fedlex-data-admin-ch-eli-cc-1978-1281_1281_1281-20241018-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Texte original
 
 Conclue à Genève le 14 novembre 1975 Approuvée par l’Assemblée fédérale le 27 septembre 1977[^t-1] Instrument de ratification déposé par la Suisse le 3 février 1978 Entrée en vigueur pour la Suisse le 3 août 1978
 
-(État le 13 octobre 2023)
+(État le 18 octobre 2024)
 
 [^t-1]: [RO 1978 1280](https://fedlex.data.admin.ch/eli/oc/1978/1280_1280_1280)
 
@@ -830,9 +830,9 @@ Les bâches coulissantes, plancher, portes et autres éléments constitutifs du 
 
 Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image2.png)
 
 Lorsqu’il existe un dispositif spécial (chicane, etc.) empêchant d’avoir accès au compartiment réservé au chargement sans laisser de traces visibles, un rabat ne sera pas exigé.
 
@@ -840,37 +840,37 @@ Lorsqu’il existe un dispositif spécial (chicane, etc.) empêchant d’avoir a
 
 Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image3.png)
 
 *Croquis n**<sup>o</sup>* *2a*
 
 Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image4.png)
 
 *Croquis n**<sup>o</sup>* *3*
 
 Bâche faite de plusieurs pièces assemblées par soudure
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image5.png)
 
 *Croquis n**<sup>o</sup>* *4*
 
 Raccommodage de la bâche dure
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image6.png)
 
 *Croquis n**<sup>o</sup>* *5*
 
 Spécimen d’embout
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image7.png)
 
 *Croquis n**<sup>o</sup>* *6*
 
 Exemple de système de verrouillage de bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image8.png)
 
 La bâche de toit coulissante doit être conforme aux prescriptions des al. a) à c) ci‑après:
 
@@ -888,7 +888,7 @@ Le présent système de verrouillage de bâche peut être autorisé à condition
 
 Exemple de bâche fixée à une armature spécialement conçue
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image9.png)
 
 ### Description
 
@@ -898,7 +898,7 @@ Cette fixation de la bâche aux véhicules est acceptable à condition que les a
 
 Bâche à ouverture de chargement et de déchargement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image10.png)
 
 ### Description
 
@@ -908,39 +908,39 @@ Avec ce système de verrouillage, les deux bords des ouvertures de la bâche uti
 
 Modèle de construction d’un véhicule à bâches coulissantes
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image11.png)
 
 *Croquis n**<sup>o</sup>* *9.1*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image12.png)
 
 *Croquis n**<sup>o</sup>* *9.2*
 
 Guidage de la bâche et chevauchement-bas
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image13.png)
 
 *Croquis n**<sup>o</sup>* *9.3*
 
 Chevauchement de la bâche-bas
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image14.png)
 
 *Croquis n**<sup>o</sup>* *9.4*
 
 Pour tendre la bâche coulissante horizontalement, on utilise un enrouleur à cliquet (habituellement à l’arrière du véhicule). Le présent croquis donne deux exemples a) et b) de la manière de verrouiller l’enrouleur à cliquet ou le tendeur à réducteur.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image15.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image16.png)
 
 *Croquis n**<sup>o</sup>* *9.5*
 
 Pour fixer la bâche coulissante de l’autre côté (habituellement à l’avant du véhicule), on peut utiliser les systèmes a) ou b) suivants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image17.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image18.png)
 
 *Croquis n**<sup>o</sup>* *10*
 
@@ -948,25 +948,25 @@ Exemple de construction d’un véhicule à bâche de toit coulissante
 
 Ce croquis illustre un exemple de véhicule ainsi que les importantes prescriptions décrites à l’art. 5 du présent Règlement.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image19.png)
 
 *Croquis n**<sup>o</sup>* *10.1*
 
 Deux câbles d’acier précontraint, insérés dans l’ourlet des bâches latérales, sont fixés de part et d’autre du compartiment de chargement. Chacun d’eux est fixé à l’avant (voir croquis 10.2) et à l’arrière du compartiment (voir croquis 10.3). La force de traction et le disque de connexion sur chaque chariot de coulissage empêchent de soulever le câble et l’ourlet au-dessus de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image20.png)
 
 *Croquis n**<sup>o</sup>* *10.2*
 
 La bâche de toit coulissante doit recouvrir la partie pleine du toit à l’avant du compartiment de chargement de telle manière qu’elle ne puisse être tirée par-dessus l’arête supérieure de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image21.png)
 
 *Croquis n**<sup>o</sup>* *10.3*
 
 À l’arrière, un dispositif spécial, par exemple une plaque déflectrice, est monté sur le toit et empêche d’accéder au compartiment de chargement sans laisser de traces visibles une fois les portes fermées et scellées.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image22.png)
 
 - [tab] a) Verrouillage de l’enrouleur à cliquet
 
@@ -1364,7 +1364,7 @@ Annexe 6[^t-4]
 
 Exemple de charnière et de dispositif de scellement douanier pour les portes de véhicules munis de compartiments de chargements calorifugés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image23.png)
 
 *Croquis n**<sup>o</sup>* *1a*
 
@@ -1372,19 +1372,19 @@ Exemple de charnière ne nécessitant pas de protection particulière de la tige
 
 La charnière représentée ci‑après est conforme aux exigences énoncées dans la deuxième phrase du par. b) de la note 2.2.1 b). La conception de la lame et du pontet rend superflue toute protection particulière de la tige, étant donné que les becquets de la lame remontent jusque derrière les extrémités du pontet. Ces becquets empêchent ainsi que la porte scellée par la douane puisse être ouverte au niveau du dispositif d’attache sans laisser de traces visibles même si la tige non protégée a été enlevée.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image24.png)
 
 *Croquis n**<sup>o</sup>* *2*
 
 Véhicules bâchés à anneaux coulissants
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image25.png)
 
 *Croquis n**<sup>o</sup>* *2a*
 
 Exemple de pontet‑tourniquet (modèle «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image26.png)
 
 *Croquis n**<sup>o</sup>* *3*
 
@@ -1392,7 +1392,7 @@ Exemple de dispositif de fermeture d’une bâche de véhicule
 
 Le dispositif reproduit ci‑dessous répond aux prescriptions du dernier alinéa du par. 11 a) de l’art. 3 de l’annexe 2. Il répond aussi aux prescriptions du par. 6 de l’art. 3 de l’annexe 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image27.png)
 
 *Croquis n**<sup>o</sup>* *4*
 
@@ -1400,13 +1400,13 @@ Dispositif de fermeture d’une bâche
 
 Le dispositif reproduit ci‑dessous répond aux prescriptions de l’al. a) du par. 6 de l’art. 3 de l’annexe 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image28.png)
 
 *Croquis n**<sup>o</sup>* *5*
 
 Exemple de dispositif de fixation introduit de l’intérieurde la porte isolée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image29.png)
 
 Annexe 7[^t-5]
 
@@ -1554,13 +1554,13 @@ Bâche faite de plusieurs pièces
 
 (Assemblage par couture)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image30.png)
 
 *Croquis n**<sup>o</sup>* *2*
 
 Bâche faite de plusieurs pièces
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image31.png)
 
 *Croquis n**<sup>o</sup>* *3*
 
@@ -1568,25 +1568,25 @@ Bâche faite de plusieurs pièces
 
 (Assemblage par soudure)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image32.png)
 
 *Croquis n**<sup>o</sup>* *4*
 
 Raccommodage de la bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image33.png)
 
 *Croquis n**<sup>o</sup>* *5*
 
 Spécimen d’embout
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image34.png)
 
 *Croquis n**<sup>o</sup>* *6*
 
 Exemple de système de verrouillage de bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image35.png)
 
 La bâche de toit coulissante doit être conforme aux prescriptions des al. a) à c) ci‑après:
 
@@ -1606,7 +1606,7 @@ Le présent système de verrouillage de bâche peut être autorisé à condition
 
 Exemple de bâche fixée à une armature spécialement conçue
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image36.png)
 
 ### Description
 
@@ -1616,7 +1616,7 @@ Cette fixation de la bâche aux véhicules est acceptable à condition que les a
 
 Bâche à ouverture de chargement et de déchargement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image37.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image37.png)
 
 ### Description
 
@@ -1626,39 +1626,39 @@ Avec ce système de verrouillage, les deux bords des ouvertures de la bâche uti
 
 Modèle de construction d’un véhicule à bâches coulissantes
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image38.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image38.png)
 
 *Croquis n**<sup>o</sup>* *9.1*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image39.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image39.png)
 
 *Croquis n**<sup>o</sup>* *9.2*
 
 Guidage de la bâche et chevauchement-haut
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image40.png)
 
 *Croquis n**<sup>o</sup>* *9.3*
 
 Chevauchement de de la bâche-bas
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image41.png)
 
 *Croquis n**<sup>o</sup>* *9.4*
 
 Pour tendre la bâche coulissante horizontalement, on utilise un enrouleur à cliquet (habituellement à l’arrière du conteneur). Le présent croquis donne deux exemples a) et b) de la manière de verrouiller l’enrouleur à cliquet ou le tendeur à réducteur.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image42.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image42.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image43.png)
 
 *Croquis n**<sup>o</sup>* *9.5*
 
 Pour fixer la bâche coulissante de l’autre côté (habituellement à l’avant du véhicule), on peut utiliser les systèmes a) ou b) suivants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image44.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image18.png)
 
 *Croquis n**<sup>o</sup>* *10*
 
@@ -1666,19 +1666,19 @@ Exemple de construction d’un véhicule à bâche de toit coulissante
 
 Ce croquis illustre un exemple de conteneur ainsi que certains points importants décrits à l’art. 6 du présent Règlement.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image19.png)
 
 *Croquis n**<sup>o</sup>* *10.1*
 
 Deux câbles d’acier précontraint, insérés dans l’ourlet des bâches latérales, sont fixés de part et d’autre du conteneur. Chacun d’eux est fixé à l’avant (voir croquis 10.2) et à l’arrière du conteneur (voir croquis 10.3). La force de traction et le disque de connexion sur chaque chariot de coulissage empêchent de soulever le câble et l’ourlet au-dessus de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image45.png)
 
 *Croquis n**<sup>o</sup>* *10.2*
 
 La bâche de toit coulissante doit recouvrir la partie pleine du toit à l’avant du conteneur de telle manière qu’elle ne puisse être tirée par-dessus l’arête supérieure de la longrine supérieure.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image21.png)
 
 - [tab] a) Verrouillage de l’enrouleur à cliquet
 
@@ -1754,7 +1754,7 @@ Modèle N<sup>o</sup> I
 
 (version anglaise)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image46.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image46.png)
 
 *Appendice 1 de la deuxième partie*
 
@@ -1764,7 +1764,7 @@ Modèle N<sup>o</sup> I
 
 (version française)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image47.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image47.png)
 
 *Appendice 2 de la deuxième partie*
 
@@ -1854,7 +1854,7 @@ Dispositif de fixation d’une bâche autour des ferrures de coin
 
 Le dispositif reproduit ci-dessous répond aux prescriptions de l’alinéa a) du paragraphe 6 de l’article 4 de la première partie.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20231013/fr/xml/image/image48.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281/20241018/fr/xml/image/image48.png)
 
 Annexe 8[^t-6]
 
@@ -2284,7 +2284,7 @@ Réponse du bureau de douane de destination
 <tr><td>\*</td><td colspan="8">Veuillez noter que ces données se réfèrent au **bureau de douane de destination** où l’opération TIR s’est terminée.»</td></tr>
 </table>
 
-Champ d’application le 13 octobre 2023[^t-10]
+Champ d’application le 18 octobre 2024[^t-10]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -2346,11 +2346,7 @@ Champ d’application le 13 octobre 2023[^t-10]
 <tr><td>Ouzbékistan</td><td>28 septembre</td><td>1995 A</td><td>28 mars</td><td>1996</td></tr>
 <tr><td>Pakistan\*</td><td>21 juillet</td><td>2015 A</td><td>21 janvier</td><td>2016</td></tr>
 <tr><td>Palestine</td><td>29 décembre</td><td>2017 A</td><td>29 juin</td><td>2018</td></tr>
-<tr><td>Pays-Bas\* \*\*</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
-<tr><td>Aruba</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
-<tr><td>Curaçao</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
-<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
-<tr><td>Sint Maarten</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
+<tr><td>Pays-Bas\* \*\* <sup>b</sup></td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
 <tr><td>Pologne\*</td><td>23 décembre</td><td>1980 A</td><td>23 juin</td><td>1981</td></tr>
 <tr><td>Portugal</td><td>13 février</td><td>1979 A</td><td>13 août</td><td>1979</td></tr>
 <tr><td>Qatar</td><td>25 janvier</td><td>2018 A</td><td>25 juillet</td><td>2018</td></tr>
@@ -2375,7 +2371,7 @@ Champ d’application le 13 octobre 2023[^t-10]
 <tr><td>Ukraine</td><td>11 octobre</td><td>1994 S</td><td>12 septembre</td><td>1991</td></tr>
 <tr><td>Union européenne (CE/UE/CEE)\*\*</td><td>20 décembre</td><td>1982</td><td>20 juin</td><td>1983</td></tr>
 <tr><td>Uruguay</td><td>24 décembre</td><td>1980 A</td><td>24 juin</td><td>1981</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas à Hong Kong et Macao.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas à Hong Kong et Macao. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
 [^t-10]: [RO 1978 1281](https://fedlex.data.admin.ch/eli/oc/1978/1281_1281_1281); [1979 1258](https://fedlex.data.admin.ch/eli/oc/1979/1258_1258_1258); [1980 1716](https://fedlex.data.admin.ch/eli/oc/1980/1716_1716_1716); [1981 1434](https://fedlex.data.admin.ch/eli/oc/1981/1434_1434_1434); [1982 1445](https://fedlex.data.admin.ch/eli/oc/1982/1445_1445_1445); [1983 246](https://fedlex.data.admin.ch/eli/oc/1983/246_246_246); [1984 570](https://fedlex.data.admin.ch/eli/oc/1984/570_570_570), [875](https://fedlex.data.admin.ch/eli/oc/1984/875_875_875); [1985 867](https://fedlex.data.admin.ch/eli/oc/1985/867_867_867); [1987 1025](https://fedlex.data.admin.ch/eli/oc/1987/1025_1025_1025); [1990 1605](https://fedlex.data.admin.ch/eli/oc/1990/1605_1605_1605); **1994** 1162; [2003 664](https://fedlex.data.admin.ch/eli/oc/2003/133); [2007 595](https://fedlex.data.admin.ch/eli/oc/2007/120); [2013 713](https://fedlex.data.admin.ch/eli/oc/2013/139); [2018 971](https://fedlex.data.admin.ch/eli/oc/2018/140); [2019 377](https://fedlex.data.admin.ch/eli/oc/2019/67): **2023** 591. Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
