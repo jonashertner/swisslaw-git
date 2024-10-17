@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Elektrizitätsgesetzes (Beschleunigung beim Aus- und Umbau der Stromnetze)
 document: Vernehmlassungsvorlage
 language: de

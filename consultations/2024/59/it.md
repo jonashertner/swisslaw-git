@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sugli impianti elettrici (accelerazione della trasformazione e dell’ampliamento delle reti elettriche)
 document: Progetto posto in consultazione
 language: it

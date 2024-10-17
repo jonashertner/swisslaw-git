@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur les installations électriques (Accélération de l’extension et de la transformation des réseaux électriques)
 document: Projet mis en consultation
 language: fr
