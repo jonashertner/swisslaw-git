@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Transparence sur les questions de durabilité: Modification du code des obligations (CO), de la loi sur la surveillance de la révision (LSR) et du code pénal suisse (CP)"
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Trasparenza concernente lo sviluppo sostenibile: Modifica del diritto delle obbligazioni (CO), della legge sui revisori (LSR) e del codice penale svizzero (CP)"
 document: Progetto posto in consultazione
 language: it

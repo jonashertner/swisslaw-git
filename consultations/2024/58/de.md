@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Transparenz über Nachhaltigkeitsaspekte: Änderung des Obligationenrechts (OR), des Revisionsaufsichtsgesetzes (RAG) und des Strafgesetzbuchs (StGB)"
 document: Vernehmlassungsvorlage
 language: de
