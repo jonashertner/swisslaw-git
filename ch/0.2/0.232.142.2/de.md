@@ -4,11 +4,11 @@ title: "Europäisches Patentübereinkommen vom 5. Oktober 1973, revidiert in Mü
 short: EPÜ 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/849"
 language: de
-version: 2013-05-03
+version: 2024-10-21
 adopted: 2000-11-29
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/849/20130503/de/xml/fedlex-data-admin-ch-eli-cc-2007-849-20130503-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/849/20130503/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/849/20241021/de/xml/fedlex-data-admin-ch-eli-cc-2007-849-20241021-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/849/20241021/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -37,7 +37,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 12. Juni 2006
 
 In Kraft getreten für die Schweiz am 13. Dezember 2007
 
-(Stand am 3. Mai 2013)
+(Stand am 21. Oktober 2024)
 
 [^t-1]: Art. 1 Ziff. 3 des BB vom 29. Nov. 1976 ([AS 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
 [^t-2]: [AS 2007 6485](https://fedlex.data.admin.ch/eli/oc/2007/849); [BBl 2005 3773](https://fedlex.data.admin.ch/eli/fga/2005/556)
@@ -689,7 +689,7 @@ Europäische Patente werden nicht erteilt für:
 
 Für die Anwendung des Artikels 54 bleibt eine Offenbarung der Erfindung ausser Betracht, wenn sie nicht früher als sechs Monate vor Einreichung der europäischen Patentanmeldung erfolgt ist und unmittelbar oder mittelbar zurückgeht:
 
-- a) auf einen offensichtlichen Missbrauch zum Nachteil des Anmelders oder seines Rechtsvorgängers oder
+- a) auf einen offensichtlichen Missbrauch zum Nachteil des Anmelders oder seines Rechtsvorgängers; oder
 - b) auf die Tatsache, dass der Anmelder oder sein Rechtsvorgänger die Erfindung auf amtlichen oder amtlich anerkannten Ausstellungen im Sinn des am 22. November 1928[^55-1] in Paris unterzeichneten und zuletzt am 30. November 1972 revidierten Übereinkommens über internationale Ausstellungen zur Schau gestellt hat.
 
 <sup>(2)</sup> Im Fall des Absatzes 1 Buchstabe b ist Absatz 1 nur anzuwenden, wenn der Anmelder bei Einreichung der europäischen Patentanmeldung angibt, dass die Erfindung tatsächlich zur Schau gestellt worden ist, und innerhalb der Frist und unter den Bedingungen, die in der Ausführungsordnung vorgeschrieben sind, eine entsprechende Bescheinigung einreicht.
@@ -736,10 +736,12 @@ Die europäische Patentanmeldung kann auch von gemeinsamen Anmeldern oder von me
 
 **Anmeldung europäischer Patente durch Nichtberechtigte**
 
-<sup>(1)</sup> Wird durch rechtskräftige Entscheidung der Anspruch auf Erteilung des europäischen Patents einer Person zugesprochen, die nicht der Anmelder ist, so kann diese Person nach Massgabe der Ausführungsordnung
+<sup>(1)</sup>
 
-- a) die europäische Patentanmeldung anstelle des Anmelders als eigene Anmeldung weiterverfolgen,
-- b) eine neue europäische Patentanmeldung für dieselbe Erfindung einreichen oder
+Wird durch rechtskräftige Entscheidung der Anspruch auf Erteilung des europäischen Patents einer Person zugesprochen, die nicht der Anmelder ist, so kann diese Person nach Massgabe der Ausführungsordnung:
+
+- a) die europäische Patentanmeldung anstelle des Anmelders als eigene Anmeldung weiterverfolgen;
+- b) eine neue europäische Patentanmeldung für dieselbe Erfindung einreichen; oder
 - c) beantragen, dass die europäische Patentanmeldung zurückgewiesen wird.
 
 <sup>(2)</sup> Auf eine nach Absatz 1 b) eingereichte neue europäische Patentanmeldung ist Artikel 76 Absatz 1 entsprechend anzuwenden.
@@ -758,7 +760,9 @@ Der Erfinder hat gegenüber dem Anmelder oder Inhaber des europäischen Patents 
 
 <sup>(1)</sup> Die Laufzeit des europäischen Patents beträgt zwanzig Jahre, gerechnet vom Anmeldetag an.
 
-<sup>(2)</sup> Absatz 1 lässt das Recht eines Vertragsstaats unberührt, unter den gleichen Bedingungen, die für nationale Patente gelten, die Laufzeit eines europäischen Patents zu verlängern oder entsprechenden Schutz zu gewähren, der sich an den Ablauf der Laufzeit des Patents unmittelbar anschliesst,
+<sup>(2)</sup>
+
+Absatz 1 lässt das Recht eines Vertragsstaats unberührt, unter den gleichen Bedingungen, die für nationale Patente gelten, die Laufzeit eines europäischen Patents zu verlängern oder entsprechenden Schutz zu gewähren, der sich an den Ablauf der Laufzeit des Patents unmittelbar anschliesst:
 
 - a) um einem Kriegsfall oder einer vergleichbaren Krisenlage dieses Staats Rechnung zu tragen;
 - b) wenn der Gegenstand des europäischen Patents ein Erzeugnis oder ein Verfahren zur Herstellung oder eine Verwendung eines Erzeugnisses ist, das vor seinem Inverkehrbringen in diesem Staat einem gesetzlich vorgeschriebenen behördlichen Genehmigungsverfahren unterliegt.
@@ -801,9 +805,11 @@ Eine europäische Patentanmeldung, der ein Anmeldetag zuerkannt worden ist, hat 
 
 <sup>(2)</sup> Jeder Vertragsstaat kann vorsehen, dass die europäische Patentanmeldung nicht den Schutz nach Artikel 64 gewährt. Der Schutz, der mit der Veröffentlichung der europäischen Patentanmeldung verbunden ist, darf jedoch nicht geringer sein als der Schutz, der sich aufgrund des Rechts des betreffenden Staats aus der zwingend vorgeschriebenen Veröffentlichung der ungeprüften nationalen Patentanmeldungen ergibt. Zumindest hat jeder Vertragsstaat vorzusehen, dass der Anmelder für die Zeit von der Veröffentlichung der europäischen Patentanmeldung an von demjenigen, der die Erfindung in diesem Vertragsstaat unter Voraussetzungen benutzt hat, die nach dem nationalen Recht im Fall der Verletzung eines nationalen Patents sein Verschulden begründen würden, eine den Umständen nach angemessene Entschädigung verlangen kann.
 
-<sup>(3)</sup> Jeder Vertragsstaat kann für den Fall, dass keine seiner Amtssprachen Verfahrenssprache ist, vorsehen, dass der einstweilige Schutz nach den Absätzen 1 und 2 erst von dem Tag an eintritt, an dem eine Übersetzung der Patentansprüche nach Wahl des Anmelders in einer der Amtssprachen dieses Staats oder, soweit der betreffende Staat die Verwendung einer bestimmten Amtssprache vorgeschrieben hat, in dieser Amtssprache
+<sup>(3)</sup>
 
-- a) der Öffentlichkeit unter den nach nationalem Recht vorgesehenen Voraussetzungen zugänglich gemacht worden ist oder
+Jeder Vertragsstaat kann für den Fall, dass keine seiner Amtssprachen Verfahrenssprache ist, vorsehen, dass der einstweilige Schutz nach den Absätzen 1 und 2 erst von dem Tag an eintritt, an dem eine Übersetzung der Patentansprüche nach Wahl des Anmelders in einer der Amtssprachen dieses Staats oder, soweit der betreffende Staat die Verwendung einer bestimmten Amtssprache vorgeschrieben hat, in dieser Amtssprache:
+
+- a) der Öffentlichkeit unter den nach nationalem Recht vorgesehenen Voraussetzungen zugänglich gemacht worden ist; oder
 - b) demjenigen übermittelt worden ist, der die Erfindung in diesem Vertragsstaat benutzt.
 
 <sup>(4)</sup> Die in den Absätzen 1 und 2 vorgesehenen Wirkungen der europäischen Patentanmeldung gelten als von Anfang an nicht eingetreten, wenn die europäische Patentanmeldung zurückgenommen worden ist, als zurückgenommen gilt oder rechtskräftig zurückgewiesen worden ist. Das Gleiche gilt für die Wirkungen der europäischen Patentanmeldung in einem Vertragsstaat, dessen Benennung zurückgenommen worden ist oder als zurückgenommen gilt.
@@ -834,7 +840,9 @@ Die in den Artikeln 64 und 67 vorgesehenen Wirkungen der europäischen Patentanm
 
 <sup>(3)</sup> Jeder Vertragsstaat kann vorsehen, dass in diesem Staat eine von ihm nach diesem Übereinkommen vorgeschriebene Übersetzung in einer seiner Amtssprachen für den Fall massgebend ist, dass der Schutzbereich der europäischen Patentanmeldung oder des europäischen Patents in der Sprache der Übersetzung enger ist als der Schutzbereich in der Verfahrenssprache; dies gilt nicht für Nichtigkeitsverfahren.
 
-<sup>(4)</sup> Jeder Vertragsstaat, der eine Vorschrift nach Absatz 3 erlässt,
+<sup>(4)</sup>
+
+Jeder Vertragsstaat, der eine Vorschrift nach Absatz 3 erlässt:
 
 - a) muss dem Anmelder oder Patentinhaber gestatten, eine berichtigte Übersetzung der europäischen Patentanmeldung oder des europäischen Patents einzureichen. Die berichtigte Übersetzung hat erst dann rechtliche Wirkung, wenn die von dem Vertragsstaat in entsprechender Anwendung der Artikel 65 Absatz 2 oder Artikel 67 Absatz 3 aufgestellten Voraussetzungen erfüllt sind;
 - b) kann vorsehen, dass derjenige, der in diesem Staat in gutem Glauben eine Erfindung in Benutzung genommen oder wirkliche und ernsthafte Veranstaltungen zur Benutzung einer Erfindung getroffen hat, deren Benutzung keine Verletzung der Anmeldung oder des Patents in der Fassung der ursprünglichen Übersetzung darstellen würde, nach Eintritt der rechtlichen Wirkung der berichtigten Übersetzung die Benutzung in seinem Betrieb oder für die Bedürfnisse seines Betriebs unentgeltlich fortsetzen darf.
@@ -877,12 +885,14 @@ Soweit in diesem Übereinkommen nichts anderes bestimmt ist, unterliegt die euro
 
 Die europäische Patentanmeldung kann eingereicht werden:
 
-- a) beim Europäischen Patentamt oder
+- a) beim Europäischen Patentamt; oder
 - b) vorbehaltlich des Artikels 76 Absatz 1 bei der Zentralbehörde für den gewerblichen Rechtsschutz oder bei anderen zuständigen Behörden eines Vertragsstaats, wenn das Recht dieses Staats es gestattet. Eine in dieser Weise eingereichte Anmeldung hat dieselbe Wirkung, wie wenn sie an demselben Tag beim Europäischen Patentamt eingereicht worden wäre.
 
-<sup>(2)</sup> Absatz 1 steht der Anwendung der Rechts- und Verwaltungsvorschriften nicht entgegen, die in einem Vertragsstaat
+<sup>(2)</sup>
 
-- a) für Erfindungen gelten, die wegen ihres Gegenstands nicht ohne vorherige Zustimmung der zuständigen Behörden dieses Staats ins Ausland übermittelt werden dürfen, oder
+Absatz 1 steht der Anwendung der Rechts- und Verwaltungsvorschriften nicht entgegen, die in einem Vertragsstaat:
+
+- a) für Erfindungen gelten, die wegen ihres Gegenstands nicht ohne vorherige Zustimmung der zuständigen Behörden dieses Staats ins Ausland übermittelt werden dürfen; oder
 - b) bestimmen, dass Patentanmeldungen zuerst bei einer nationalen Behörde eingereicht werden müssen, oder die unmittelbare Einreichung bei einer anderen Behörde von einer vorherigen Zustimmung abhängig machen.
 
 #### Art. 76
@@ -907,9 +917,9 @@ Die europäische Patentanmeldung kann eingereicht werden:
 
 **Erfordernisse der europäischen Patentanmeldung**
 
-<sup>(1)</sup> Die europäische Patentanmeldung muss
+<sup>(1)</sup> enthalten und den Erfordernissen genügen, die in der Ausführungsordnung vorgeschrieben sind.
 
-enthalten und den Erfordernissen genügen, die in der Ausführungsordnung vorgeschrieben sind.
+Die europäische Patentanmeldung muss:
 
 - a) einen Antrag auf Erteilung eines europäischen Patents;
 - b) eine Beschreibung der Erfindung;
@@ -979,11 +989,11 @@ Die Zusammenfassung dient ausschliesslich der technischen Information; sie kann 
 
 **Prioritätsrecht**
 
-<sup>(1)</sup> Jedermann, der in einem oder mit Wirkung für
+<sup>(1)</sup> eine Anmeldung für ein Patent, ein Gebrauchsmuster oder ein Gebrauchszertifikat vorschriftsmässig eingereicht hat, oder sein Rechtsnachfolger geniesst für die Anmeldung derselben Erfindung zum europäischen Patent während einer Frist von zwölf Monaten nach dem Anmeldetag der ersten Anmeldung ein Prioritätsrecht.
 
-eine Anmeldung für ein Patent, ein Gebrauchsmuster oder ein Gebrauchszertifikat vorschriftsmässig eingereicht hat, oder sein Rechtsnachfolger geniesst für die Anmeldung derselben Erfindung zum europäischen Patent während einer Frist von zwölf Monaten nach dem Anmeldetag der ersten Anmeldung ein Prioritätsrecht.
+Jedermann, der in einem oder mit Wirkung für:
 
-- a) einen Vertragsstaat der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums[^87-1] oder
+- a) einen Vertragsstaat der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums[^87-1]; oder
 - b) ein Mitglied der Welthandelsorganisation
 
 <sup>(2)</sup> Als prioritätsbegründend wird jede Anmeldung anerkannt, der nach dem nationalen Recht des Staats, in dem die Anmeldung eingereicht worden ist, oder nach zwei- oder mehrseitigen Verträgen unter Einschluss dieses Übereinkommens die Bedeutung einer vorschriftsmässigen nationalen Anmeldung zukommt.
@@ -1046,9 +1056,11 @@ Das Europäische Patentamt erstellt und veröffentlicht nach Massgabe der Ausfü
 
 **Veröffentlichung der europäischen Patentanmeldung**
 
-<sup>(1)</sup> Das Europäische Patentamt veröffentlicht die europäische Patentanmeldung so bald wie möglich
+<sup>(1)</sup>
 
-- a) nach Ablauf von achtzehn Monaten nach dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen worden ist, nach dem Prioritätstag oder
+Das Europäische Patentamt veröffentlicht die europäische Patentanmeldung so bald wie möglich:
+
+- a) nach Ablauf von achtzehn Monaten nach dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen worden ist, nach dem Prioritätstag; oder
 - b) auf Antrag des Anmelders vor Ablauf dieser Frist.
 
 <sup>(2)</sup> Die europäische Patentanmeldung wird gleichzeitig mit der europäischen Patentschrift veröffentlicht, wenn die Entscheidung über die Erteilung des Patents vor Ablauf der in Absatz 1 a) genannten Frist wirksam wird.
@@ -1111,7 +1123,7 @@ Das Europäische Patentamt veröffentlicht die europäische Patentschrift so bal
 
 **Einspruchsgründe**
 
-Der Einspruch kann nur darauf gestützt werden, dass
+Der Einspruch kann nur darauf gestützt werden, dass:
 
 - a) der Gegenstand des europäischen Patents nach den Artikeln 52–57 nicht patentierbar ist;
 - b) das europäische Patent die Erfindung nicht so deutlich und vollständig offenbart, dass ein Fachmann sie ausführen kann;
@@ -1125,7 +1137,9 @@ Der Einspruch kann nur darauf gestützt werden, dass
 
 <sup>(2)</sup> Ist die Einspruchsabteilung der Auffassung, dass wenigstens ein Einspruchsgrund der Aufrechterhaltung des europäischen Patents entgegensteht, so widerruft sie das Patent. Andernfalls weist sie den Einspruch zurück.
 
-<sup>(3)</sup> Ist die Einspruchsabteilung der Auffassung, dass unter Berücksichtigung der vom Patentinhaber im Einspruchsverfahren vorgenommenen Änderungen das europäische Patent und die Erfindung, die es zum Gegenstand hat,
+<sup>(3)</sup>
+
+Ist die Einspruchsabteilung der Auffassung, dass unter Berücksichtigung der vom Patentinhaber im Einspruchsverfahren vorgenommenen Änderungen das europäische Patent und die Erfindung, die es zum Gegenstand hat:
 
 - a) den Erfordernissen dieses Übereinkommens genügen, so beschliesst sie die Aufrechterhaltung des Patents in geänderter Fassung, sofern die in der Ausführungsordnung genannten Voraussetzungen erfüllt sind;
 - b) den Erfordernissen dieses Übereinkommens nicht genügen, so widerruft sie das Patent.
@@ -1156,9 +1170,11 @@ Ist das europäische Patent nach Artikel 101 Absatz 3 a) in geänderter Fassung 
 
 **Beitritt des vermeintlichen Patentverletzers**
 
-<sup>(1)</sup> Jeder Dritte kann nach Ablauf der Einspruchsfrist nach Massgabe der Ausführungsordnung dem Einspruchsverfahren beitreten, wenn er nachweist, dass
+<sup>(1)</sup>
 
-- a) gegen ihn Klage wegen Verletzung dieses Patents erhoben worden ist oder
+Jeder Dritte kann nach Ablauf der Einspruchsfrist nach Massgabe der Ausführungsordnung dem Einspruchsverfahren beitreten, wenn er nachweist, dass:
+
+- a) gegen ihn Klage wegen Verletzung dieses Patents erhoben worden ist; oder
 - b) er nach einer Aufforderung des Patentinhabers, eine angebliche Patentverletzung zu unterlassen, gegen diesen Klage auf Feststellung erhoben hat, dass er das Patent nicht verletze.
 
 <sup>(2)</sup> Ein zulässiger Beitritt wird als Einspruch behandelt.
@@ -1237,7 +1253,9 @@ Ist die Beschwerde zulässig, so prüft die Beschwerdekammer, ob die Beschwerde 
 
 **Entscheidung oder Stellungnahme der Grossen Beschwerdekammer**
 
-<sup>(1)</sup> Zur Sicherung einer einheitlichen Rechtsanwendung oder wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt,
+<sup>(1)</sup>
+
+Zur Sicherung einer einheitlichen Rechtsanwendung oder wenn sich eine Rechtsfrage von grundsätzlicher Bedeutung stellt:
 
 - a) befasst die Beschwerdekammer, bei der ein Verfahren anhängig ist, von Amts wegen oder auf Antrag eines Beteiligten die Grosse Beschwerdekammer, wenn sie hierzu eine Entscheidung für erforderlich hält. Weist die Beschwerdekammer den Antrag zurück, so hat sie die Zurückweisung in der Endentscheidung zu begründen;
 - b) kann der Präsident des Europäischen Patentamts der Grossen Beschwerdekammer eine Rechtsfrage vorlegen, wenn zwei Beschwerdekammern über diese Frage voneinander abweichende Entscheidungen getroffen haben.
@@ -1252,12 +1270,14 @@ Ist die Beschwerde zulässig, so prüft die Beschwerdekammer, ob die Beschwerde 
 
 <sup>(1)</sup> Jeder Beteiligte an einem Beschwerdeverfahren, der durch die Entscheidung einer Beschwerdekammer beschwert ist, kann einen Antrag auf Überprüfung der Entscheidung durch die Grosse Beschwerdekammer stellen.
 
-<sup>(2)</sup> Der Antrag kann nur darauf gestützt werden, dass
+<sup>(2)</sup>
+
+Der Antrag kann nur darauf gestützt werden, dass:
 
 - a) ein Mitglied der Beschwerdekammer unter Verstoss gegen Artikel 24 Absatz 1 oder trotz einer Ausschlussentscheidung nach Artikel 24 Absatz 4 an der Entscheidung mitgewirkt hat;
 - b) der Beschwerdekammer eine Person angehörte, die nicht zum Beschwerdekammermitglied ernannt war;
 - c) ein schwerwiegender Verstoss gegen Artikel 113 vorliegt;
-- d) das Beschwerdeverfahren mit einem sonstigen, in der Ausführungsordnung genannten schwerwiegenden Verfahrensmangel behaftet war oder
+- d) das Beschwerdeverfahren mit einem sonstigen, in der Ausführungsordnung genannten schwerwiegenden Verfahrensmangel behaftet war; oder
 - e) eine nach Massgabe der Ausführungsordnung festgestellte Straftat die Entscheidung beeinflusst haben könnte.
 
 <sup>(3)</sup> Der Antrag auf Überprüfung hat keine aufschiebende Wirkung.
@@ -1441,7 +1461,9 @@ Das Europäische Patentamt gibt regelmässig folgende Veröffentlichungen heraus
 
 <sup>(1)</sup> Das Europäische Patentamt und die Zentralbehörden für den gewerblichen Rechtsschutz der Vertragsstaaten übermitteln einander auf Ersuchen sachdienliche Angaben über europäische oder nationale Patentanmeldungen und Patente und die sie betreffenden Verfahren, soweit dieses Übereinkommen oder das nationale Recht nichts anderes vorsieht.
 
-<sup>(2)</sup> Absatz 1 gilt nach Massgabe von Arbeitsabkommen auch für die Übermittlung von Angaben zwischen dem Europäischen Patentamt und
+<sup>(2)</sup>
+
+Absatz 1 gilt nach Massgabe von Arbeitsabkommen auch für die Übermittlung von Angaben zwischen dem Europäischen Patentamt und:
 
 - a) den Zentralbehörden für den gewerblichen Rechtsschutz anderer Staaten;
 - b) den zwischenstaatlichen Organisationen, die mit der Erteilung von Patenten beauftragt sind;
@@ -1485,18 +1507,20 @@ Das Europäische Patentamt gibt regelmässig folgende Veröffentlichungen heraus
 
 <sup>(1)</sup> Die Vertretung natürlicher oder juristischer Personen in den durch dieses Übereinkommen geschaffenen Verfahren kann nur durch zugelassene Vertreter wahrgenommen werden, die in einer beim Europäischen Patentamt zu diesem Zweck geführten Liste eingetragen sind.
 
-<sup>(2)</sup> Jede natürliche Person, die
+<sup>(2)</sup> kann in die Liste der zugelassenen Vertreter eingetragen werden.
 
-kann in die Liste der zugelassenen Vertreter eingetragen werden.
+Jede natürliche Person, die:
 
-- a) die Staatsangehörigkeit eines Vertragsstaats besitzt,
-- b) ihren Geschäftssitz oder Arbeitsplatz in einem Vertragsstaat hat und
+- a) die Staatsangehörigkeit eines Vertragsstaats besitzt;
+- b) ihren Geschäftssitz oder Arbeitsplatz in einem Vertragsstaat hat; und
 - c) die europäische Eignungsprüfung bestanden hat,
 
-<sup>(3)</sup> Während eines Zeitraums von einem Jahr ab dem Zeitpunkt, zu dem der Beitritt eines Staats zu diesem Übereinkommen wirksam wird, kann die Eintragung in diese Liste auch von jeder natürlichen Person beantragt werden, die
+<sup>(3)</sup>
 
-- a) die Staatsangehörigkeit eines Vertragsstaats besitzt,
-- b) ihren Geschäftssitz oder Arbeitsplatz in dem Staat hat, der dem Übereinkommen beigetreten ist, und
+Während eines Zeitraums von einem Jahr ab dem Zeitpunkt, zu dem der Beitritt eines Staats zu diesem Übereinkommen wirksam wird, kann die Eintragung in diese Liste auch von jeder natürlichen Person beantragt werden, die:
+
+- a) die Staatsangehörigkeit eines Vertragsstaats besitzt;
+- b) ihren Geschäftssitz oder Arbeitsplatz in dem Staat hat, der dem Übereinkommen beigetreten ist; und
 - c) befugt ist, natürliche oder juristische Personen auf dem Gebiet des Patentwesens vor der Zentralbehörde für den gewerblichen Rechtsschutz dieses Staats zu vertreten. Unterliegt diese Befugnis nicht dem Erfordernis einer besonderen beruflichen Befähigung, so muss die Person diese Vertretung in diesem Staat mindestens fünf Jahre lang regelmässig ausgeübt haben.
 
 <sup>(4)</sup> Die Eintragung erfolgt aufgrund eines Antrags, dem die Bescheinigungen beizufügen sind, aus denen sich ergibt, dass die in Absatz 2 oder 3 genannten Voraussetzungen erfüllt sind.
@@ -1539,7 +1563,9 @@ Der Verwaltungsrat ist befugt, Vorschriften zu erlassen und zu ändern über:
 
 **Umwandlungsantrag**
 
-\1) Die Zentralbehörde für den gewerblichen Rechtsschutz eines benannten Vertragsstaats leitet auf Antrag des Anmelders oder Inhabers eines europäischen Patents das Verfahren zur Erteilung eines nationalen Patents in den folgenden Fällen ein:
+<sup>(1)</sup>
+
+Die Zentralbehörde für den gewerblichen Rechtsschutz eines benannten Vertragsstaats leitet auf Antrag des Anmelders oder Inhabers eines europäischen Patents das Verfahren zur Erteilung eines nationalen Patents in den folgenden Fällen ein:
 
 - a) wenn die europäische Patentanmeldung nach Artikel 77 Absatz 3 als zurückgenommen gilt;
 - b) in den sonstigen vom nationalen Recht vorgesehenen Fällen, in denen nach diesem Übereinkommen die europäische Patentanmeldung zurückgewiesen oder zurückgenommen worden ist oder als zurückgenommen gilt oder das europäische Patent widerrufen worden ist.
@@ -1562,9 +1588,11 @@ Der Verwaltungsrat ist befugt, Vorschriften zu erlassen und zu ändern über:
 
 <sup>(1)</sup> Eine europäische Patentanmeldung, die nach Artikel 135 Absatz 2 oder 3 übermittelt worden ist, darf nicht Formerfordernissen des nationalen Rechts unterworfen werden, die von den im Übereinkommen vorgesehenen abweichen oder über sie hinausgehen.
 
-<sup>(2)</sup> Die Zentralbehörde für den gewerblichen Rechtsschutz, der die europäische Patentanmeldung übermittelt worden ist, kann verlangen, dass der Anmelder innerhalb einer Frist, die nicht weniger als zwei Monate betragen darf,
+<sup>(2)</sup>
 
-- a) die nationale Anmeldegebühr entrichtet und
+Die Zentralbehörde für den gewerblichen Rechtsschutz, der die europäische Patentanmeldung übermittelt worden ist, kann verlangen, dass der Anmelder innerhalb einer Frist, die nicht weniger als zwei Monate betragen darf:
+
+- a) die nationale Anmeldegebühr entrichtet; und
 - b) eine Übersetzung der europäischen Patentanmeldung in einer der Amtssprachen des betreffenden Staats einreicht, und zwar der ursprünglichen Fassung der Anmeldung und gegebenenfalls der im Verfahren vor dem Europäischen Patentamt geänderten Fassung, die der Anmelder dem nationalen Verfahren zugrunde zu legen wünscht.
 
 ### Kapitel II Nichtigkeit und ältere Rechte
@@ -1573,7 +1601,9 @@ Der Verwaltungsrat ist befugt, Vorschriften zu erlassen und zu ändern über:
 
 **Nichtigkeit europäischer Patente**
 
-<sup>(1)</sup> Vorbehaltlich des Artikels 139 kanndas europäische Patent mit Wirkung für einen Vertragsstaat nur für nichtig erklärt werden, wenn
+<sup>(1)</sup>
+
+Vorbehaltlich des Artikels 139 kanndas europäische Patent mit Wirkung für einen Vertragsstaat nur für nichtig erklärt werden, wenn:
 
 - a) der Gegenstand des europäischen Patents nach den Artikeln 52–57 nicht patentierbar ist;
 - b) das europäische Patent die Erfindung nicht so deutlich und vollständig offenbart, dass ein Fachmann sie ausführen kann;
@@ -1675,14 +1705,18 @@ Hat die Gruppe von Vertragsstaaten für das europäische Patent einheitliche Jah
 
 **Andere Übereinkommen zwischen den Vertragsstaaten**
 
-<sup>(1)</sup> Dieses Übereinkommen lässt das Recht aller oder einiger Vertragsstaaten unberührt, besondere Übereinkommen über alle europäische Patentanmeldungen oder Patente betreffenden Fragen zu schliessen, die nach diesem Übereinkommen nationalem Recht unterliegen und dort geregelt sind, wie insbesondere
+<sup>(1)</sup>
+
+Dieses Übereinkommen lässt das Recht aller oder einiger Vertragsstaaten unberührt, besondere Übereinkommen über alle europäische Patentanmeldungen oder Patente betreffenden Fragen zu schliessen, die nach diesem Übereinkommen nationalem Recht unterliegen und dort geregelt sind, wie insbesondere:
 
 - a) ein Übereinkommen über die Schaffung eines gemeinsamen europäischen Patentgerichts für die ihm angehörenden Vertragsstaaten;
 - b) ein Übereinkommen über die Schaffung einer gemeinsamen Einrichtung für die ihm angehörenden Vertragsstaaten, dieauf Ersuchen nationaler Gerichte oder gerichtsähnlicher Behörden Gutachten über Fragen des europäischen oder damit harmonisierten nationalen Patentrechts erstattet;
 - c) ein Übereinkommen, dem zufolge die ihm angehörenden Vertragsstaaten auf Übersetzungen europäischer Patente nach Artikel 65 ganz oder teilweise verzichten;
 - d) ein Übereinkommen, dem zufolge die ihm angehörenden Vertragsstaaten vorsehen, dass nach Artikel 65 vorgeschriebene Übersetzungen europäischer Patente beim Europäischen Patentamt eingereicht und von ihm veröffentlicht werden können.
 
-<sup>(2)</sup> Der Verwaltungsrat ist befugt zu beschliessen, dass
+<sup>(2)</sup>
+
+Der Verwaltungsrat ist befugt zu beschliessen, dass:
 
 - a) die Mitglieder der Beschwerdekammern oder der Grossen Beschwerdekammer in einem europäischen Patentgericht oder einer gemeinsamen Einrichtung tätig werden und in Verfahren vor diesem Gericht oder dieser Einrichtung nach Massgabe eines solchen Übereinkommens mitwirken dürfen;
 - b) das Europäische Patentamt einer gemeinsamen Einrichtung das Unterstützungspersonal, die Räumlichkeiten und die Ausstattung zur Verfügung stellt, die sie zur Durchführung ihrer Aufgaben benötigt, und die Kosten dieser Einrichtung ganz oder teilweise von der Organisation getragen werden.
@@ -1716,9 +1750,11 @@ Das Europäische Patentamt wird nach Massgabe einer zwischen der Organisation un
 
 **Das Europäische Patentamt als Bestimmungsamt oder ausgewähltes Amt**
 
-<sup>(1)</sup> Das Europäische Patentamt ist
+<sup>(1)</sup>
 
-- a) Bestimmungsamt für jeden in der internationalen Anmeldung bestimmten Vertragsstaat dieses Übereinkommens, für den der PCT in Kraft ist und für den der Anmelder ein europäisches Patent begehrt, und
+Das Europäische Patentamt ist:
+
+- a) Bestimmungsamt für jeden in der internationalen Anmeldung bestimmten Vertragsstaat dieses Übereinkommens, für den der PCT in Kraft ist und für den der Anmelder ein europäisches Patent begehrt; und
 - b) ausgewähltes Amt, wenn der Anmelder einen nach Buchstabe a bestimmten Staat ausgewählt hat.
 
 <sup>(2)</sup> Eine internationale Anmeldung, für die das Europäische Patentamt Bestimmungsamt oder ausgewähltes Amt ist und der ein internationaler Anmeldetag zuerkannt worden ist, hat die Wirkung einer vorschriftsmässigen europäischen Anmeldung (Euro‑PCT‑Anmeldung).
@@ -1917,7 +1953,7 @@ Die Regierung der Bundesrepublik Deutschland notifiziert den in Absatz 1 genannt
 
 <sup>(3)</sup> Die Regierung der Bundesrepublik Deutschland lässt dieses Übereinkommen beim Sekretariat der Vereinten Nationen registrieren.
 
-## Beschluss des Verwaltungsrats vom 28. Juni 2001****
+## Beschluss des Verwaltungsrats vom 28. Juni 2001
 
 [^lvlu13-1]
 
@@ -1940,7 +1976,7 @@ Gemäss Artikel 7 Absatz 1 Satz 2 der Revisionsakte gilt für die nachgenannten 
 
 Dieser Beschluss tritt mit dem Inkrafttreten der revidierten Fassung des Übereinkommens nach Artikel 8 der Revisionsakte in Kraft.
 
-Geltungsbereich am 3. Mai 2013**[^t-4]**
+Geltungsbereich am 21. Oktober 2024[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1962,9 +1998,10 @@ Geltungsbereich am 3. Mai 2013**[^t-4]**
 <tr><td>Litauen</td><td>3. September</td><td>2004 B</td><td>13. Dezember</td><td>2007</td></tr>
 <tr><td>Luxemburg</td><td>18. September</td><td>2007</td><td>13. Dezember</td><td>2007</td></tr>
 <tr><td>Malta</td><td>1. Dezember</td><td>2006 B</td><td>13. Dezember</td><td>2007</td></tr>
-<tr><td>Mazedonien</td><td>28. Oktober</td><td>2008 B</td><td>1. Januar</td><td>2009</td></tr>
 <tr><td>Monaco</td><td>12. November</td><td>2003</td><td>13. Dezember</td><td>2007</td></tr>
+<tr><td>Montenegro</td><td>15. Oktober</td><td>2022 B</td><td>1. Oktober</td><td>2022</td></tr>
 <tr><td>Niederlande</td><td>4. Oktober</td><td>2006</td><td>13. Dezember</td><td>2007</td></tr>
+<tr><td>Nordmazedonien</td><td>28. Oktober</td><td>2008 B</td><td>1. Januar</td><td>2009</td></tr>
 <tr><td>Norwegen</td><td>5. Oktober</td><td>2007 B</td><td>1. Januar</td><td>2008</td></tr>
 <tr><td>Österreich</td><td>6. Juni</td><td>2006</td><td>13. Dezember</td><td>2007</td></tr>
 <tr><td>Polen</td><td>30. Dezember</td><td>2003 B</td><td>13. Dezember</td><td>2007</td></tr>
@@ -1984,4 +2021,4 @@ Geltungsbereich am 3. Mai 2013**[^t-4]**
 <tr><td>Zypern</td><td>25. Oktober</td><td>2007 B</td><td>13. Dezember</td><td>2007</td></tr>
 </table>
 
-[^t-4]: [AS 2007 6485](https://fedlex.data.admin.ch/eli/oc/2007/849), [2009 3947](https://fedlex.data.admin.ch/eli/oc/2009/500)und [2013 1473](https://fedlex.data.admin.ch/eli/oc/2013/342). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 2007 6485](https://fedlex.data.admin.ch/eli/oc/2007/849); [2009 3947](https://fedlex.data.admin.ch/eli/oc/2009/500); [2013 1473](https://fedlex.data.admin.ch/eli/oc/2013/342); [2024 584](https://fedlex.data.admin.ch/eli/oc/2024/584). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

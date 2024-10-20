@@ -4,11 +4,11 @@ title: "Convention du 5 octobre 1973 sur le brevet européen, revisée à Munich
 short: CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/849"
 language: fr
-version: 2013-05-03
+version: 2024-10-21
 adopted: 2000-11-29
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/849/20130503/fr/xml/fedlex-data-admin-ch-eli-cc-2007-849-20130503-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/849/20130503/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/849/20241021/fr/xml/fedlex-data-admin-ch-eli-cc-2007-849-20241021-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/849/20241021/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -37,7 +37,7 @@ Instrument de ratification déposé par la Suisse le 12 juin 2006
 
 Entrée en vigueur pour la Suisse le 13 décembre 2007
 
-(Etat le 3 mai 2013)
+(État le 21 octobre 2024)
 
 [^t-1]: Art. 1 ch. 3 de l’AF du 29 nov. 1976 ([RO 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
 [^t-2]: [RO 2007 6485](https://fedlex.data.admin.ch/eli/oc/2007/849); [FF 2005 3569](https://fedlex.data.admin.ch/eli/fga/2005/556)
@@ -51,7 +51,7 @@ Entrée en vigueur pour la Suisse le 13 décembre 2007
 
 **Droit européen en matière de délivrance de brevets**
 
-Il est institué par la présente Convention un droit commun aux Etats contractants en matière de délivrance de brevets d’invention.
+Il est institué par la présente Convention un droit commun aux États contractants en matière de délivrance de brevets d’invention.
 
 #### Art. 2
 
@@ -59,13 +59,13 @@ Il est institué par la présente Convention un droit commun aux Etats contracta
 
 <sup>(1)</sup> Les brevets délivrés en vertu de la présente Convention sont dénommés brevets européens.
 
-<sup>(2)</sup> Dans chacun des Etats contractants pour lesquels il est délivré, le brevet européen a les mêmes effets et est soumis au même régime qu’un brevet national délivré dans cet Etat, sauf si la présente Convention en dispose autrement.
+<sup>(2)</sup> Dans chacun des États contractants pour lesquels il est délivré, le brevet européen a les mêmes effets et est soumis au même régime qu’un brevet national délivré dans cet État, sauf si la présente Convention en dispose autrement.
 
 #### Art. 3
 
 **Portée territoriale**
 
-La délivrance d’un brevet européen peut être demandée pour un ou plusieurs des Etats contractants.
+La délivrance d’un brevet européen peut être demandée pour un ou plusieurs des États contractants.
 
 #### Art. 4
 
@@ -84,9 +84,9 @@ Les organes de l’organisation sont:
 
 #### Art. 4<sup>bis</sup>
 
-**Conférence des ministres des Etats contractants**
+**Conférence des ministres des États contractants**
 
-Une conférence des ministres des Etats contractants compétents en matière de brevets se réunit au moins tous les cinq ans pour examiner les questions relatives à l’Organisation et au système du brevet européen.
+Une conférence des ministres des États contractants compétents en matière de brevets se réunit au moins tous les cinq ans pour examiner les questions relatives à l’Organisation et au système du brevet européen.
 
 ### Chapitre II L’Organisation européenne des brevets
 
@@ -96,7 +96,7 @@ Une conférence des ministres des Etats contractants compétents en matière de 
 
 <sup>(1)</sup> L’Organisation a la personnalité juridique.
 
-<sup>(2)</sup> Dans chacun des Etats contractants, l’Organisation possède la capacité juridique la plus large reconnue aux personnes morales par la législation nationale; elle peut notamment acquérir ou aliéner des biens immobiliers et mobiliers et ester en justice.
+<sup>(2)</sup> Dans chacun des États contractants, l’Organisation possède la capacité juridique la plus large reconnue aux personnes morales par la législation nationale; elle peut notamment acquérir ou aliéner des biens immobiliers et mobiliers et ester en justice.
 
 <sup>(3)</sup> Le Président de l’Office européen des brevets représente l’Organisation.
 
@@ -112,13 +112,13 @@ Une conférence des ministres des Etats contractants compétents en matière de 
 
 **Agences de l’Office européen des brevets**
 
-Par décision du Conseil d’administration, des agences de l’Office européen des brevets peuvent être créées, en tant que de besoin, dans un but d’information ou de liaison, dans les Etats contractants ou auprès d’organisations intergouvernementales compétentes en matière de propriété industrielle, sous réserve du consentement de l’Etat contractant concerné ou de l’organisation concernée.
+Par décision du Conseil d’administration, des agences de l’Office européen des brevets peuvent être créées, en tant que de besoin, dans un but d’information ou de liaison, dans les États contractants ou auprès d’organisations intergouvernementales compétentes en matière de propriété industrielle, sous réserve du consentement de l’État contractant concerné ou de l’organisation concernée.
 
 #### Art. 8
 
 **Privilèges et immunités**
 
-Le protocole sur les privilèges et immunités[^8-1] annexé à la présente Convention définit les conditions dans lesquelles l’Organisation, les membres du Conseil d’administration, les agents de l’Office européen des brevets ainsi que toutes autres personnes mentionnées dans ce protocole et participant aux activités de l’Organisation jouissent, dans chaque Etat contractant, des privilèges et immunités nécessaires à l’accomplissement de leur mission.
+Le protocole sur les privilèges et immunités[^8-1] annexé à la présente Convention définit les conditions dans lesquelles l’Organisation, les membres du Conseil d’administration, les agents de l’Office européen des brevets ainsi que toutes autres personnes mentionnées dans ce protocole et participant aux activités de l’Organisation jouissent, dans chaque État contractant, des privilèges et immunités nécessaires à l’accomplissement de leur mission.
 
 [^8-1]: Ce Prot. est publié sous le n<sup>o</sup> [RS 0.192.110.923.2](https://fedlex.data.admin.ch/eli/cc/1977/1834_1834_1835).
 
@@ -128,7 +128,7 @@ Le protocole sur les privilèges et immunités[^8-1] annexé à la présente Con
 
 <sup>(1)</sup> La responsabilité contractuelle de l’Organisation est régie par la loi applicable au contrat en cause.
 
-<sup>(2)</sup> La responsabilité non contractuelle de l’Organisation en ce qui concerne les dommages causés par elle ou par les agents de l’Office européen des brevets dans l’exercice de leurs fonctions est régie par la loi en vigueur en République fédérale d’Allemagne. Si les dommages ont été causés par le département de La Haye ou par une agence, ou par des agents relevant du département ou de cette agence, la loi applicable est celle de l’Etat contractant dans lequel le département ou l’agence est situé.
+<sup>(2)</sup> La responsabilité non contractuelle de l’Organisation en ce qui concerne les dommages causés par elle ou par les agents de l’Office européen des brevets dans l’exercice de leurs fonctions est régie par la loi en vigueur en République fédérale d’Allemagne. Si les dommages ont été causés par le département de La Haye ou par une agence, ou par des agents relevant du département ou de cette agence, la loi applicable est celle de l’État contractant dans lequel le département ou l’agence est situé.
 
 <sup>(3)</sup> La responsabilité personnelle des agents de l’Office européen des brevets envers l’Organisation est régie par leur statut ou le régime qui leur est applicable.
 
@@ -136,8 +136,8 @@ Le protocole sur les privilèges et immunités[^8-1] annexé à la présente Con
 
 Les juridictions compétentes pour régler les litiges visés aux par. 1 et 2 sont:
 
-- a) en ce qui concerne les litiges visés au par. 1, les juridictions de la République fédérale d’Allemagne, à défaut de la désignation d’une juridiction d’un autre Etat dans le contrat conclu entre les parties;
-- b) en ce qui concerne les litiges visés au par. 2, les juridictions de la République fédérale d’Allemagne ou de l’Etat dans lequel le département ou l’agence est situé.
+- a) en ce qui concerne les litiges visés au par. 1, les juridictions de la République fédérale d’Allemagne, à défaut de la désignation d’une juridiction d’un autre État dans le contrat conclu entre les parties;
+- b) en ce qui concerne les litiges visés au par. 2, les juridictions de la République fédérale d’Allemagne ou de l’État dans lequel le département ou l’agence est situé.
 
 ### Chapitre III L’Office européen des brevets
 
@@ -149,7 +149,7 @@ Les juridictions compétentes pour régler les litiges visés aux par. 1 et 2 so
 
 <sup>(2)</sup>
 
-A cette fin, le Président a notamment les fonctions et compétences suivantes:
+À cette fin, le Président a notamment les fonctions et compétences suivantes:
 
 - a) il prend toutes mesures utiles, y compris l’adoption d’instructions administratives internes et l’information du public, en vue d’assurer le fonctionnement de l’Office européen des brevets;
 - b) il détermine, sauf si la présente Convention en dispose autrement, les actes qui doivent être accomplis respectivement auprès de l’Office européen des brevets à Munich ou de son département à la Haye;
@@ -175,7 +175,7 @@ A cette fin, le Président a notamment les fonctions et compétences suivantes:
 
 <sup>(4)</sup> Le Conseil d’administration exerce le pouvoir disciplinaire sur les agents visés aux par. 1 à 3.
 
-<sup>(5)</sup> Le Conseil d’administration peut, le Président de l’Office européen des brevets entendu, également nommer en qualité de membres de la Grande Chambre de recours des membres juristes des juridictions nationales ou des autorités quasi judiciaires des Etats contractants, qui peuvent continuer à exercer leurs fonctions judiciaires au niveau national. Ils sont nommés pour une période de trois ans et peuvent être reconduits dans leurs fonctions.
+<sup>(5)</sup> Le Conseil d’administration peut, le Président de l’Office européen des brevets entendu, également nommer en qualité de membres de la Grande Chambre de recours des membres juristes des juridictions nationales ou des autorités quasi judiciaires des États contractants, qui peuvent continuer à exercer leurs fonctions judiciaires au niveau national. Ils sont nommés pour une période de trois ans et peuvent être reconduits dans leurs fonctions.
 
 #### Art. 12
 
@@ -201,7 +201,7 @@ Les agents de l’Office européen des brevets sont tenus, même après la cessa
 
 <sup>(3)</sup> La langue officielle de l’Office européen des brevets dans laquelle la demande de brevet européen a été déposée ou traduite doit être utilisée comme langue de la procédure, sauf si le règlement d’exécution en dispose autrement, dans toutes les procédures devant l’Office européen des brevets.
 
-<sup>(4)</sup> Les personnes physiques ou morales ayant leur domicile ou leur siège dans un Etat contractant ayant une langue autre que l’allemand, l’anglais ou le français comme langue officielle, et les nationaux de cet Etat ayant leur domicile à l’étranger peuvent produire, dans une langue officielle de cet Etat, des pièces devant être produites dans un délai déterminé. Toutefois, ils sont tenus de produire une traduction dans une langue officielle de l’Office européen des brevets conformément au règlement d’exécution. Si une pièce autre que les pièces composant de la demande de brevet européen n’est pas produite dans la langue prescrite ou si une traduction requise n’est pas produite dans les délais, la pièce est réputée n’avoir pas été produite.
+<sup>(4)</sup> Les personnes physiques ou morales ayant leur domicile ou leur siège dans un État contractant ayant une langue autre que l’allemand, l’anglais ou le français comme langue officielle, et les nationaux de cet État ayant leur domicile à l’étranger peuvent produire, dans une langue officielle de cet État, des pièces devant être produites dans un délai déterminé. Toutefois, ils sont tenus de produire une traduction dans une langue officielle de l’Office européen des brevets conformément au règlement d’exécution. Si une pièce autre que les pièces composant de la demande de brevet européen n’est pas produite dans la langue prescrite ou si une traduction requise n’est pas produite dans les délais, la pièce est réputée n’avoir pas été produite.
 
 <sup>(5)</sup> Les demandes de brevet européen sont publiées dans la langue de la procédure.
 
@@ -333,7 +333,7 @@ La Grande Chambre de recours est compétente pour:
 
 **Avis technique**
 
-A la requête de la juridiction nationale compétente saisie de l’action en contrefaçon ou en nullité, l’Office européen des brevets est tenu de fournir, contre paiement d’une redevance appropriée, un avis technique sur le brevet européen en cause. Les divisions d’examen sont compétentes pour la délivrance de ces avis.
+À la requête de la juridiction nationale compétente saisie de l’action en contrefaçon ou en nullité, l’Office européen des brevets est tenu de fournir, contre paiement d’une redevance appropriée, un avis technique sur le brevet européen en cause. Les divisions d’examen sont compétentes pour la délivrance de ces avis.
 
 ### Chapitre IV Le Conseil d’administration
 
@@ -341,7 +341,7 @@ A la requête de la juridiction nationale compétente saisie de l’action en co
 
 **Composition**
 
-<sup>(1)</sup> Le Conseil d’administration se compose des représentants des Etats contractants et de leurs suppléants. Chaque Etat contractant a le droit de désigner un représentant au Conseil d’administration et un suppléant.
+<sup>(1)</sup> Le Conseil d’administration se compose des représentants des États contractants et de leurs suppléants. Chaque État contractant a le droit de désigner un représentant au Conseil d’administration et un suppléant.
 
 <sup>(2)</sup> Les membres du Conseil d’administration peuvent se faire assister de conseillers ou d’experts, conformément au règlement intérieur du Conseil d’administration.
 
@@ -349,7 +349,7 @@ A la requête de la juridiction nationale compétente saisie de l’action en co
 
 **Présidence**
 
-<sup>(1)</sup> Le Conseil d’administration élit parmi les représentants des Etats contractants et leurs suppléants un Président et un Vice‑Président. Le Vice‑Président remplace de droit le Président en cas d’empêchement.
+<sup>(1)</sup> Le Conseil d’administration élit parmi les représentants des États contractants et leurs suppléants un Président et un Vice‑Président. Le Vice‑Président remplace de droit le Président en cas d’empêchement.
 
 <sup>(2)</sup> La durée du mandat du Président et du Vice‑Président est de trois ans. Ce mandat est renouvelable.
 
@@ -357,7 +357,7 @@ A la requête de la juridiction nationale compétente saisie de l’action en co
 
 **Bureau**
 
-<sup>(1)</sup> Le Conseil d’administration peut instituer un Bureau composé de cinq de ses membres, dès lors que le nombre des Etats contractants est de huit au minimum.
+<sup>(1)</sup> Le Conseil d’administration peut instituer un Bureau composé de cinq de ses membres, dès lors que le nombre des États contractants est de huit au minimum.
 
 <sup>(2)</sup> Le Président et le Vice‑Président du Conseil d’administration sont de droit membres du Bureau; les trois autres membres sont élus par le Conseil d’administration.
 
@@ -373,11 +373,11 @@ A la requête de la juridiction nationale compétente saisie de l’action en co
 
 <sup>(2)</sup> Le Président de l’Office européen des brevets prend part aux délibérations du Conseil d’administration.
 
-<sup>(3)</sup> Le Conseil d’administration tient une session ordinaire une fois par an; en outre, il se réunit à l’initiative de son Président ou à la demande du tiers des Etats contractants.
+<sup>(3)</sup> Le Conseil d’administration tient une session ordinaire une fois par an; en outre, il se réunit à l’initiative de son Président ou à la demande du tiers des États contractants.
 
 <sup>(4)</sup> Le Conseil d’administration délibère sur la base d’un ordre du jour déterminé, conformément à son règlement intérieur.
 
-<sup>(5)</sup> Toute question dont l’inscription à l’ordre du jour est demandée par un Etat contractant conformément au règlement intérieur est inscrite à l’ordre du jour provisoire.
+<sup>(5)</sup> Toute question dont l’inscription à l’ordre du jour est demandée par un État contractant conformément au règlement intérieur est inscrite à l’ordre du jour provisoire.
 
 #### Art. 30
 
@@ -427,7 +427,7 @@ Le Conseil d’administration a compétence, conformément à la présente Conve
 
 <sup>(3)</sup> Nonobstant l’art. 18, par. 2, le Conseil d’administration a compétence pour décider, si l’expérience le justifie, que, dans certaines catégories de cas, les divisions d’examen se composent d’un seul examinateur technicien. Cette décision peut être rapportée.
 
-<sup>(4)</sup> Le Conseil d’administration a compétence pour autoriser le Président de l’Office européen des brevets à négocier et, sous réserve de son approbation, à conclure, au nom de l’Organisation européenne des brevets, des accords avec des Etats ou des organisations intergouvernementales ainsi qu’avec des centres de documentation créés en vertu d’accords conclus avec ces organisations.
+<sup>(4)</sup> Le Conseil d’administration a compétence pour autoriser le Président de l’Office européen des brevets à négocier et, sous réserve de son approbation, à conclure, au nom de l’Organisation européenne des brevets, des accords avec des États ou des organisations intergouvernementales ainsi qu’avec des centres de documentation créés en vertu d’accords conclus avec ces organisations.
 
 <sup>(5)</sup>
 
@@ -440,19 +440,19 @@ Le Conseil d’administration ne peut prendre de décision en vertu du par. 1 b)
 
 **Droit de vote**
 
-<sup>(1)</sup> Les Etats contractants ont seuls droit de vote au Conseil d’administration.
+<sup>(1)</sup> Les États contractants ont seuls droit de vote au Conseil d’administration.
 
-<sup>(2)</sup> Sous réserve de l’application de l’art. 36, chaque Etat contractant dispose d’une voix.
+<sup>(2)</sup> Sous réserve de l’application de l’art. 36, chaque État contractant dispose d’une voix.
 
 #### Art. 35
 
 **Votes**
 
-<sup>(1)</sup> Sous réserve des dispositions des par. 2 et 3, le Conseil d’administration prend ses décisions à la majorité simple des Etats contractants représentés et votants.
+<sup>(1)</sup> Sous réserve des dispositions des par. 2 et 3, le Conseil d’administration prend ses décisions à la majorité simple des États contractants représentés et votants.
 
-<sup>(2)</sup> Requièrent la majorité des trois quarts des Etats contractants représentés et votants les décisions relevant de la compétence du Conseil d’administration en vertu de l’art. 7, de l’art. 11, par. 1, de l’art. 33, par. 1 a) et c) et 2 à 4, de l’art. 39, par. 1, de l’art. 40, par. 2 et 4, de l’art. 46, de l’art. 134<sup>bis</sup>, de l’art. 149<sup>bis</sup>, par. 2, de l’art. 152, de l’art. 153, par. 7, de l’art. 166 et de l’art. 172.
+<sup>(2)</sup> Requièrent la majorité des trois quarts des États contractants représentés et votants les décisions relevant de la compétence du Conseil d’administration en vertu de l’art. 7, de l’art. 11, par. 1, de l’art. 33, par. 1 a) et c) et 2 à 4, de l’art. 39, par. 1, de l’art. 40, par. 2 et 4, de l’art. 46, de l’art. 134<sup>bis</sup>, de l’art. 149<sup>bis</sup>, par. 2, de l’art. 152, de l’art. 153, par. 7, de l’art. 166 et de l’art. 172.
 
-<sup>(3)</sup> Requièrent l’unanimité des Etats contractants votants les décisions relevant de la compétence du Conseil d’administration en vertu de l’art. 33, par. 1 b). Le Conseil d’administration ne prend ces décisions que si tous les Etats contractants sont représentés. Une décision prise en vertu de l’art. 33, par. 1 b), ne prend pas effet si un Etat contractant déclare, dans un délai de douze mois à compter de la date de la décision, qu’il désire ne pas être lié par cette décision.
+<sup>(3)</sup> Requièrent l’unanimité des États contractants votants les décisions relevant de la compétence du Conseil d’administration en vertu de l’art. 33, par. 1 b). Le Conseil d’administration ne prend ces décisions que si tous les États contractants sont représentés. Une décision prise en vertu de l’art. 33, par. 1 b), ne prend pas effet si un État contractant déclare, dans un délai de douze mois à compter de la date de la décision, qu’il désire ne pas être lié par cette décision.
 
 <sup>(4)</sup> L’abstention n’est pas considérée comme un vote.
 
@@ -460,16 +460,16 @@ Le Conseil d’administration ne peut prendre de décision en vertu du par. 1 b)
 
 **Pondération des voix**
 
-<sup>(1)</sup> Pour l’adoption et la modification du règlement relatif aux taxes ainsi que, si la charge financière des Etats contractants s’en trouve accrue, pour l’adoption du budget de l’Organisation et des budgets modificatifs ou additionnels, tout Etat contractant peut exiger, après un premier scrutin dans lequel chaque Etat contractant dispose d’une voix et quel que soit le résultat de ce scrutin, qu’il soit procédé immédiatement à un second scrutin dans lequel les voix sont pondérées conformément aux dispositions du par. 2. La décision résulte de ce second scrutin.
+<sup>(1)</sup> Pour l’adoption et la modification du règlement relatif aux taxes ainsi que, si la charge financière des États contractants s’en trouve accrue, pour l’adoption du budget de l’Organisation et des budgets modificatifs ou additionnels, tout État contractant peut exiger, après un premier scrutin dans lequel chaque État contractant dispose d’une voix et quel que soit le résultat de ce scrutin, qu’il soit procédé immédiatement à un second scrutin dans lequel les voix sont pondérées conformément aux dispositions du par. 2. La décision résulte de ce second scrutin.
 
 <sup>(2)</sup>
 
-Le nombre de voix dont chaque Etat contractant dispose dans le nouveau scrutin se calcule comme suit:
+Le nombre de voix dont chaque État contractant dispose dans le nouveau scrutin se calcule comme suit:
 
-- a) le nombre correspondant au pourcentage qui résulte pour chaque Etat contractant de la clé de répartition des contributions financières exceptionnelles prévue à l’art. 40, par. 3 et 4, est multiplié par le nombre d’Etats contractants et divisé par cinq;
+- a) le nombre correspondant au pourcentage qui résulte pour chaque État contractant de la clé de répartition des contributions financières exceptionnelles prévue à l’art. 40, par. 3 et 4, est multiplié par le nombre d’États contractants et divisé par cinq;
 - b) le nombre de voix ainsi calculé est arrondi au nombre entier supérieur;
 - c) à ce nombre de voix s’ajoutent cinq voix supplémentaires;
-- d) toutefois, aucun Etat contractant ne peut disposer de plus de trente voix.
+- d) toutefois, aucun État contractant ne peut disposer de plus de trente voix.
 
 ### Chapitre V Dispositions financières
 
@@ -480,8 +480,8 @@ Le nombre de voix dont chaque Etat contractant dispose dans le nouveau scrutin s
 Le budget de l’Organisation est financé:
 
 - a) par les ressources propres de l’Organisation;
-- b) par les versements des Etats contractants au titre des taxes de maintien en vigueur des brevets européens perçues dans ces Etats;
-- c) si nécessaire, par des contributions financières exceptionnelles des Etats contractants;
+- b) par les versements des États contractants au titre des taxes de maintien en vigueur des brevets européens perçues dans ces États;
+- c) si nécessaire, par des contributions financières exceptionnelles des États contractants;
 - d) le cas échéant, par les recettes prévues à l’art. 146;
 - e) le cas échéant et exclusivement pour les immobilisations corporelles, par des emprunts contractés auprès de tiers et garantis par des terrains ou des bâtiments;
 - f) le cas échéant, par des fonds provenant de tiers pour des projets spécifiques.
@@ -497,15 +497,15 @@ Les ressources propres de l’Organisation comprennent:
 
 #### Art. 39
 
-**Versements des Etats contractants au titre des taxes de maintien en vigueur des brevets européens**
+**Versements des États contractants au titre des taxes de maintien en vigueur des brevets européens**
 
-<sup>(1)</sup> Chaque Etat contractant verse à l’Organisation, au titre de chaque taxe perçue pour le maintien en vigueur d’un brevet européen dans cet Etat, une somme dont le montant correspond à un pourcentage de cette taxe, à fixer par le Conseil d’administration, qui ne peut excéder 75% et est uniforme pour tous les Etats contractants. Si ledit pourcentage correspond à un montant inférieur au minimum uniforme fixé par le Conseil d’administration, l’Etat contractant verse ce minimum à l’Organisation.
+<sup>(1)</sup> Chaque État contractant verse à l’Organisation, au titre de chaque taxe perçue pour le maintien en vigueur d’un brevet européen dans cet État, une somme dont le montant correspond à un pourcentage de cette taxe, à fixer par le Conseil d’administration, qui ne peut excéder 75% et est uniforme pour tous les États contractants. Si ledit pourcentage correspond à un montant inférieur au minimum uniforme fixé par le Conseil d’administration, l’État contractant verse ce minimum à l’Organisation.
 
-<sup>(2)</sup> Chaque Etat contractant communique à l’Organisation tous les éléments jugés nécessaires par le Conseil d’administration pour déterminer le montant de ces versements.
+<sup>(2)</sup> Chaque État contractant communique à l’Organisation tous les éléments jugés nécessaires par le Conseil d’administration pour déterminer le montant de ces versements.
 
 <sup>(3)</sup> La date à laquelle ces versements doivent être effectués est fixée par le Conseil d’administration.
 
-<sup>(4)</sup> Si un versement n’est pas intégralement effectué à la date fixée, l’Etat contractant est redevable, à compter de cette date, d’un intérêt sur le montant impayé.
+<sup>(4)</sup> Si un versement n’est pas intégralement effectué à la date fixée, l’État contractant est redevable, à compter de cette date, d’un intérêt sur le montant impayé.
 
 #### Art. 40
 
@@ -513,20 +513,20 @@ Les ressources propres de l’Organisation comprennent:
 
 <sup>(1)</sup> Le montant des taxes et le pourcentage, visés respectivement aux art. 38 et 39, doivent être déterminés de manière que les recettes correspondantes permettent d’assurer l’équilibre du budget de l’Organisation.
 
-<sup>(2)</sup> Toutefois, lorsque l’Organisation se trouve dans l’impossibilité de réaliser l’équilibre du budget dans les conditions prévues au par. 1, les Etats contractants versent à l’Organisation des contributions financières exceptionnelles, dont le montant est fixé par le Conseil d’administration pour l’exercice budgétaire considéré.
+<sup>(2)</sup> Toutefois, lorsque l’Organisation se trouve dans l’impossibilité de réaliser l’équilibre du budget dans les conditions prévues au par. 1, les États contractants versent à l’Organisation des contributions financières exceptionnelles, dont le montant est fixé par le Conseil d’administration pour l’exercice budgétaire considéré.
 
-<sup>(3)</sup> Toutefois, les sommes mises à la charge des Etats dans lesquels le nombre des demandes de brevet déposées est supérieur à 25 000 sont reprises globalement et réparties à nouveau proportionnellement au nombre total des demandes de brevet déposées dans ces mêmes Etats.
+<sup>(3)</sup> Toutefois, les sommes mises à la charge des États dans lesquels le nombre des demandes de brevet déposées est supérieur à 25 000 sont reprises globalement et réparties à nouveau proportionnellement au nombre total des demandes de brevet déposées dans ces mêmes États.
 
-Les contributions financières exceptionnelles sont déterminées pour chacun des Etats contractants sur la base du nombre des demandes de brevet déposées au cours de l’avant‑dernière année précédant celle de l’entrée en vigueur de la présente Convention et selon la clé de répartition ci‑après:
+Les contributions financières exceptionnelles sont déterminées pour chacun des États contractants sur la base du nombre des demandes de brevet déposées au cours de l’avant‑dernière année précédant celle de l’entrée en vigueur de la présente Convention et selon la clé de répartition ci‑après:
 
-- a) pour moitié, proportionnellement au nombre des demandes de brevet déposées dans l’Etat contractant concerné;
-- b) pour moitié, proportionnellement au nombre des demandes de brevet déposées par les personnes physiques et morales ayant leur domicile ou leur siège sur le territoire de cet Etat dans celui des autres Etats contractants placé en seconde position, dans l’ordre décroissant des dépôts effectués par lesdites personnes dans les autres Etats contractants.
+- a) pour moitié, proportionnellement au nombre des demandes de brevet déposées dans l’État contractant concerné;
+- b) pour moitié, proportionnellement au nombre des demandes de brevet déposées par les personnes physiques et morales ayant leur domicile ou leur siège sur le territoire de cet État dans celui des autres États contractants placé en seconde position, dans l’ordre décroissant des dépôts effectués par lesdites personnes dans les autres États contractants.
 
-<sup>(4)</sup> Lorsque le montant de la contribution d’un Etat contractant ne peut être déterminé dans les conditions prévues au par. 3, le Conseil d’administration fixe ce montant en accord avec l’Etat concerné.
+<sup>(4)</sup> Lorsque le montant de la contribution d’un État contractant ne peut être déterminé dans les conditions prévues au par. 3, le Conseil d’administration fixe ce montant en accord avec l’État concerné.
 
 <sup>(5)</sup> L’art. 39, par. 3 et 4, est applicable aux contributions financières exceptionnelles.
 
-<sup>(6)</sup> Les contributions financières exceptionnelles sont remboursées avec un intérêt dont le taux est uniforme pour tous les Etats contractants. Les remboursements interviennent dans la mesure où il est possible de prévoir des crédits à cet effet dans le budget et le montant ainsi prévu sera réparti entre les Etats contractants en fonction de la clé de répartition visée aux par. 3 et 4.
+<sup>(6)</sup> Les contributions financières exceptionnelles sont remboursées avec un intérêt dont le taux est uniforme pour tous les États contractants. Les remboursements interviennent dans la mesure où il est possible de prévoir des crédits à cet effet dans le budget et le montant ainsi prévu sera réparti entre les États contractants en fonction de la clé de répartition visée aux par. 3 et 4.
 
 <sup>(7)</sup> Les contributions financières exceptionnelles versées au cours d’un exercice déterminé sont intégralement remboursées avant qu’il ne soit procédé au remboursement total ou partiel de toute contribution exceptionnelle versée au cours d’un exercice ultérieur.
 
@@ -534,7 +534,7 @@ Les contributions financières exceptionnelles sont déterminées pour chacun de
 
 **Avances**
 
-<sup>(1)</sup> Sur demande du Président de l’Office européen des brevets, les Etats contractants consentent à l’Organisation des avances de trésorerie, à valoir sur leurs versements et contributions, dans la limite du montant fixé par le Conseil d’administration. Ces avances sont réparties au prorata des sommes dues par les Etats contractants pour l’exercice considéré.
+<sup>(1)</sup> Sur demande du Président de l’Office européen des brevets, les États contractants consentent à l’Organisation des avances de trésorerie, à valoir sur leurs versements et contributions, dans la limite du montant fixé par le Conseil d’administration. Ces avances sont réparties au prorata des sommes dues par les États contractants pour l’exercice considéré.
 
 <sup>(2)</sup> L’art. 39, par. 3 et 4, est applicable aux avances.
 
@@ -586,9 +586,9 @@ L’exercice budgétaire commence le 1<sup>er</sup> janvier et s’achève le 31
 
 <sup>(2)</sup> Le Conseil d’administration peut, sous réserve que les autres conditions prévues au paragraphe premier soient respectées, autoriser les dépenses excédant le douzième.
 
-<sup>(3)</sup> A titre provisionnel, les versements visés à l’art. 37 b) continueront à être effectués dans les conditions prévues à l’art. 39 pour l’exercice précédant celui auquel se rapporte le projet de budget.
+<sup>(3)</sup> À titre provisionnel, les versements visés à l’art. 37 b) continueront à être effectués dans les conditions prévues à l’art. 39 pour l’exercice précédant celui auquel se rapporte le projet de budget.
 
-<sup>(4)</sup> Les Etats contractants versent chaque mois, à titre provisionnel et conformément à la clé de répartition visée à l’art. 40, par. 3 et 4, toutes contributions financières exceptionnelles nécessaires en vue d’assurer l’application des par. 1 et 2. L’art. 39, par. 4, est applicable à ces contributions.
+<sup>(4)</sup> Les États contractants versent chaque mois, à titre provisionnel et conformément à la clé de répartition visée à l’art. 40, par. 3 et 4, toutes contributions financières exceptionnelles nécessaires en vue d’assurer l’application des par. 1 et 2. L’art. 39, par. 4, est applicable à ces contributions.
 
 #### Art. 48
 
@@ -596,7 +596,7 @@ L’exercice budgétaire commence le 1<sup>er</sup> janvier et s’achève le 31
 
 <sup>(1)</sup> Le Président de l’Office européen des brevets exécute le budget ainsi que les budgets modificatifs ou additionnels, sous sa propre responsabilité et dans la limite des crédits alloués.
 
-<sup>(2)</sup> A l’intérieur du budget, le Président de l’Office européen des brevets peut procéder, dans les limites et conditions fixées par le règlement financier, à des virements de crédits, soit de chapitre à chapitre, soit de subdivision à subdivision.
+<sup>(2)</sup> À l’intérieur du budget, le Président de l’Office européen des brevets peut procéder, dans les limites et conditions fixées par le règlement financier, à des virements de crédits, soit de chapitre à chapitre, soit de subdivision à subdivision.
 
 #### Art. 49
 
@@ -617,7 +617,7 @@ L’exercice budgétaire commence le 1<sup>er</sup> janvier et s’achève le 31
 Le règlement financier détermine notamment:
 
 - a) les modalités relatives à l’établissement et à l’exécution du budget ainsi qu’à la reddition et à la vérification des comptes;
-- b) les modalités et la procédure selon lesquelles les versements et contributions prévus à l’art. 37, ainsi que les avances prévues à l’art. 41, doivent être mis à la disposition de l’Organisation par les Etats contractants;
+- b) les modalités et la procédure selon lesquelles les versements et contributions prévus à l’art. 37, ainsi que les avances prévues à l’art. 41, doivent être mis à la disposition de l’Organisation par les États contractants;
 - c) les règles et l’organisation du contrôle et la responsabilité des ordonnateurs et comptables;
 - d) les taux d’intérêts prévus aux art. 39, 40 et 47;
 - e) les modalités de calcul des contributions à verser au titre de l’art. 146;
@@ -663,7 +663,7 @@ Ne sont pas considérés comme des inventions au sens du par. 1 notamment:
 
 Les brevets européens ne sont pas délivrés pour:
 
-- a) les inventions dont l’exploitation commerciale serait contraire à l’ordre public ou aux bonnes moeurs, une telle contradiction ne pouvant être déduite du seul fait que l’exploitation est interdite, dans tous les Etats contractants ou dans plusieurs d’entre eux, par une disposition légale ou réglementaire;
+- a) les inventions dont l’exploitation commerciale serait contraire à l’ordre public ou aux bonnes moeurs, une telle contradiction ne pouvant être déduite du seul fait que l’exploitation est interdite, dans tous les États contractants ou dans plusieurs d’entre eux, par une disposition légale ou réglementaire;
 - b) les variétés végétales ou les races animales ainsi que les procédés essentiellement biologiques d’obtention de végétaux ou d’animaux, cette disposition ne s’appliquant pas aux procédés microbiologiques et aux produits obtenus par ces procédés;
 - c) les méthodes de traitement chirurgical ou thérapeutique du corps humain ou animal et les méthodes de diagnostic appliquées au corps humain ou animal, cette disposition ne s’appliquant pas aux produits, notamment aux substances ou compositions, pour la mise en œuvre d’une de ces méthodes.
 
@@ -720,13 +720,13 @@ Toute personne physique ou morale et toute société assimilée à une personne 
 
 **Pluralité de demandeurs**
 
-Une demande de brevet européen peut être également déposée soit par des codemandeurs, soit par plusieurs demandeurs qui désignent des Etats contractants différents.
+Une demande de brevet européen peut être également déposée soit par des codemandeurs, soit par plusieurs demandeurs qui désignent des États contractants différents.
 
 #### Art. 60
 
 **Droit au brevet européen**
 
-<sup>(1)</sup> Le droit au brevet européen appartient à l’inventeur ou à son ayant cause. Si l’inventeur est un employé, le droit au brevet européen est défini selon le droit de l’Etat dans lequel l’employé exerce son activité principale; si l’Etat dans lequel s’exerce l’activité principale ne peut être déterminé, le droit applicable est celui de l’Etat dans lequel se trouve l’établissement de l’employeur auquel l’employé est attaché.
+<sup>(1)</sup> Le droit au brevet européen appartient à l’inventeur ou à son ayant cause. Si l’inventeur est un employé, le droit au brevet européen est défini selon le droit de l’État dans lequel l’employé exerce son activité principale; si l’État dans lequel s’exerce l’activité principale ne peut être déterminé, le droit applicable est celui de l’État dans lequel se trouve l’établissement de l’employeur auquel l’employé est attaché.
 
 <sup>(2)</sup> Si plusieurs personnes ont réalisé l’invention indépendamment l’une de l’autre, le droit au brevet européen appartient à celle dont la demande de brevet européen a la date de dépôt la plus ancienne, sous réserve que cette première demande ait été publiée.
 
@@ -760,20 +760,22 @@ L’inventeur a le droit, à l’égard du titulaire de la demande de brevet eur
 
 <sup>(1)</sup> La durée du brevet européen est de vingt années à compter de la date de dépôt de la demande.
 
-<sup>(2)</sup> Le par. 1 ne saurait limiter le droit d’un Etat contractant de prolonger la durée d’un brevet européen ou d’accorder une protection correspondante dès l’expiration de cette durée aux mêmes conditions que celles applicables aux brevets nationaux,
+<sup>(2)</sup>
 
-- a) pour tenir compte d’un état de guerre ou d’un état de crise comparable affectant ledit Etat;
-- b) si l’objet du brevet européen est un produit ou un procédé de fabrication ou une utilisation d’un produit qui, avant sa mise sur le marché dans cet Etat, est soumis à une procédure administrative d’autorisation instituée par la loi.
+Le par. 1 ne saurait limiter le droit d’un État contractant de prolonger la durée d’un brevet européen ou d’accorder une protection correspondante dès l’expiration de cette durée aux mêmes conditions que celles applicables aux brevets nationaux:
 
-<sup>(3)</sup> Les dispositions du par. 2 s’appliquent aux brevets européens délivrés conjointement pour tout groupe d’Etats contractants visé à l’art. 142.
+- a) pour tenir compte d’un état de guerre ou d’un état de crise comparable affectant ledit État;
+- b) si l’objet du brevet européen est un produit ou un procédé de fabrication ou une utilisation d’un produit qui, avant sa mise sur le marché dans cet État, est soumis à une procédure administrative d’autorisation instituée par la loi.
 
-<sup>(4)</sup> Tout Etat contractant qui prévoit une prolongation de la durée du brevet ou une protection correspondante conformément au par. 2 b) peut, sur la base d’un accord conclu avec l’Organisation, transférer à l’Office européen des brevets des tâches afférentes à l’application de ces dispositions.
+<sup>(3)</sup> Les dispositions du par. 2 s’appliquent aux brevets européens délivrés conjointement pour tout groupe d’États contractants visé à l’art. 142.
+
+<sup>(4)</sup> Tout État contractant qui prévoit une prolongation de la durée du brevet ou une protection correspondante conformément au par. 2 b) peut, sur la base d’un accord conclu avec l’Organisation, transférer à l’Office européen des brevets des tâches afférentes à l’application de ces dispositions.
 
 #### Art. 64
 
 **Droits conférés par le brevet européen**
 
-<sup>(1)</sup> Sous réserve du par. 2, le brevet européen confère à son titulaire, à compter de la date à laquelle la mention de sa délivrance est publiée au Bulletin européen des brevets et dans chacun des Etats contractants pour lesquels il a été délivré, les mêmes droits que lui conférerait un brevet national délivré dans cet Etat.
+<sup>(1)</sup> Sous réserve du par. 2, le brevet européen confère à son titulaire, à compter de la date à laquelle la mention de sa délivrance est publiée au Bulletin européen des brevets et dans chacun des États contractants pour lesquels il a été délivré, les mêmes droits que lui conférerait un brevet national délivré dans cet État.
 
 <sup>(2)</sup> Si l’objet du brevet européen porte sur un procédé, les droits conférés par ce brevet s’étendent aux produits obtenus directement par ce procédé.
 
@@ -783,34 +785,34 @@ L’inventeur a le droit, à l’égard du titulaire de la demande de brevet eur
 
 **Traduction du brevet européen**
 
-<sup>(1)</sup> Tout Etat contractant peut prescrire, lorsque le brevet européen délivré, maintenu tel que modifié ou limité par l’Office européen des brevets n’est pas rédigé dans l’une de ses langues officielles, que le titulaire du brevet doit fournir à son service central de la propriété industrielle une traduction du brevet tel que délivré, modifié ou limité dans l’une de ses langues officielles, à son choix, ou, dans la mesure où cet Etat a imposé l’utilisation d’une langue officielle déterminée, dans cette dernière langue. La traduction doit être produite dans un délai de trois mois à compter de la date de publication au Bulletin européen des brevets de la mention de la délivrance du brevet européen ou de son maintien tel qu’il a été modifié, ou de sa limitation, à moins que l’Etat considéré n’accorde un délai plus long.
+<sup>(1)</sup> Tout État contractant peut prescrire, lorsque le brevet européen délivré, maintenu tel que modifié ou limité par l’Office européen des brevets n’est pas rédigé dans l’une de ses langues officielles, que le titulaire du brevet doit fournir à son service central de la propriété industrielle une traduction du brevet tel que délivré, modifié ou limité dans l’une de ses langues officielles, à son choix, ou, dans la mesure où cet État a imposé l’utilisation d’une langue officielle déterminée, dans cette dernière langue. La traduction doit être produite dans un délai de trois mois à compter de la date de publication au Bulletin européen des brevets de la mention de la délivrance du brevet européen ou de son maintien tel qu’il a été modifié, ou de sa limitation, à moins que l’État considéré n’accorde un délai plus long.
 
-<sup>(2)</sup> Tout Etat contractant qui a adopté des dispositions en vertu du par. 1 peut prescrire que le titulaire du brevet acquitte, dans un délai fixé par cet Etat, tout ou partie des frais de publication de la traduction.
+<sup>(2)</sup> Tout État contractant qui a adopté des dispositions en vertu du par. 1 peut prescrire que le titulaire du brevet acquitte, dans un délai fixé par cet État, tout ou partie des frais de publication de la traduction.
 
-<sup>(3)</sup> Tout Etat contractant peut prescrire que, si les dispositions adoptées en vertu des par. 1 et 2 ne sont pas observées, le brevet européen est, dès l’origine, réputé sans effet dans cet Etat.
+<sup>(3)</sup> Tout État contractant peut prescrire que, si les dispositions adoptées en vertu des par. 1 et 2 ne sont pas observées, le brevet européen est, dès l’origine, réputé sans effet dans cet État.
 
 #### Art. 66
 
 **Valeur de dépôt national du dépôt européen**
 
-La demande de brevet européen à laquelle une date de dépôt a été accordée a, dans les Etats contractants désignés, la valeur d’un dépôt national régulier, compte tenu, le cas échéant, du droit de priorité invoqué à l’appui de la demande de brevet européen.
+La demande de brevet européen à laquelle une date de dépôt a été accordée a, dans les États contractants désignés, la valeur d’un dépôt national régulier, compte tenu, le cas échéant, du droit de priorité invoqué à l’appui de la demande de brevet européen.
 
 #### Art. 67
 
 **Droits conférés par la demande de brevet européen après sa publication**
 
-<sup>(1)</sup> A compter de sa publication, la demande de brevet européen assure provisoirement au demandeur, dans les Etats contractants désignés dans la demande, la protection prévue à l’art. 64.
+<sup>(1)</sup> À compter de sa publication, la demande de brevet européen assure provisoirement au demandeur, dans les États contractants désignés dans la demande, la protection prévue à l’art. 64.
 
-<sup>(2)</sup> Tout Etat contractant peut prévoir que la demande de brevet européen n’assure pas la protection prévue à l’art. 64. Toutefois, la protection attachée à la publication de la demande de brevet européen ne peut être inférieure à celle que la législation de l’Etat considéré attache à la publication obligatoire des demandes de brevet national non examinées. En tout état de cause, chaque Etat contractant doit au moins prévoir qu’à partir de la publication de la demande de brevet européen, le demandeur peut exiger une indemnité raisonnable, fixée suivant les circonstances, de toute personne ayant exploité, dans cet Etat contractant, l’invention objet de la demande de brevet européen, dans des conditions qui, selon le droit national, mettraient en jeu sa responsabilité s’il s’agissait d’une contrefaçon d’un brevet national.
+<sup>(2)</sup> Tout État contractant peut prévoir que la demande de brevet européen n’assure pas la protection prévue à l’art. 64. Toutefois, la protection attachée à la publication de la demande de brevet européen ne peut être inférieure à celle que la législation de l’État considéré attache à la publication obligatoire des demandes de brevet national non examinées. En tout état de cause, chaque État contractant doit au moins prévoir qu’à partir de la publication de la demande de brevet européen, le demandeur peut exiger une indemnité raisonnable, fixée suivant les circonstances, de toute personne ayant exploité, dans cet État contractant, l’invention objet de la demande de brevet européen, dans des conditions qui, selon le droit national, mettraient en jeu sa responsabilité s’il s’agissait d’une contrefaçon d’un brevet national.
 
 <sup>(3)</sup>
 
-Tout Etat contractant qui n’a pas comme langue officielle la langue de la procédure peut prévoir que la protection provisoire visée aux par. 1 et 2 n’est assurée qu’à partir de la date à laquelle une traduction des revendications, soit dans l’une des langues officielles de cet Etat, au choix du demandeur, soit, dans la mesure où l’Etat en question a imposé l’utilisation d’une langue officielle déterminée, dans cette dernière langue:
+Tout État contractant qui n’a pas comme langue officielle la langue de la procédure peut prévoir que la protection provisoire visée aux par. 1 et 2 n’est assurée qu’à partir de la date à laquelle une traduction des revendications, soit dans l’une des langues officielles de cet État, au choix du demandeur, soit, dans la mesure où l’État en question a imposé l’utilisation d’une langue officielle déterminée, dans cette dernière langue:
 
 - a) a été rendue accessible au public dans les conditions prévues par sa législation nationale, ou
-- b) a été remise à la personne exploitant, dans cet Etat, l’invention objet de la demande de brevet européen.
+- b) a été remise à la personne exploitant, dans cet État, l’invention objet de la demande de brevet européen.
 
-<sup>(4)</sup> Les effets de la demande de brevet européen prévus aux par. 1 et 2 sont réputés nuls et non avenus lorsque la demande de brevet européen a été retirée, ou est réputée retirée, ou a été rejetée en vertu d’une décision passée en force de chose jugée. Il en est de même des effets de la demande de brevet européen dans un Etat contractant dont la désignation a été retirée ou est réputée retirée.
+<sup>(4)</sup> Les effets de la demande de brevet européen prévus aux par. 1 et 2 sont réputés nuls et non avenus lorsque la demande de brevet européen a été retirée, ou est réputée retirée, ou a été rejetée en vertu d’une décision passée en force de chose jugée. Il en est de même des effets de la demande de brevet européen dans un État contractant dont la désignation a été retirée ou est réputée retirée.
 
 #### Art. 68
 
@@ -820,7 +822,7 @@ La demande de brevet européen ainsi que le brevet européen auquel elle a donn�
 
 #### Art. 69
 
-**Etendue de la protection**[^69-1]
+**Étendue de la protection**[^69-1]
 
 <sup>(1)</sup> L’étendue de la protection conférée par le brevet européen ou par la demande de brevet européen est déterminée par les revendications. Toutefois, la description et les dessins servent à interpréter les revendications.
 
@@ -832,16 +834,18 @@ La demande de brevet européen ainsi que le brevet européen auquel elle a donn�
 
 **Texte de la demande de brevet européen ou du brevet européen faisant foi**
 
-<sup>(1)</sup> Le texte de la demande de brevet européen ou du brevet européen rédigé dans la langue de la procédure est le texte qui fait foi dans toutes les procédures devant l’Office européen des brevets et dans tous les Etats contractants.
+<sup>(1)</sup> Le texte de la demande de brevet européen ou du brevet européen rédigé dans la langue de la procédure est le texte qui fait foi dans toutes les procédures devant l’Office européen des brevets et dans tous les États contractants.
 
 <sup>(2)</sup> Toutefois, si la demande de brevet européen a été déposée dans une langue qui n’est pas une langue officielle de l’Office européen des brevets, ce texte constitue la demande telle qu’elle a été déposée, au sens de la présente Convention.
 
-<sup>(3)</sup> Tout Etat contractant peut prévoir qu’une traduction dans une de ses langues officielles, prescrite par cet Etat en vertu de la présente Convention, est considérée dans cet Etat comme étant le texte qui fait foi, hormis les cas d’actions en nullité, si la demande de brevet européen ou le brevet européen dans la langue de la traduction confère une protection moins étendue que celle conférée par ladite demande ou par ledit brevet dans la langue de la procédure.
+<sup>(3)</sup> Tout État contractant peut prévoir qu’une traduction dans une de ses langues officielles, prescrite par cet État en vertu de la présente Convention, est considérée dans cet État comme étant le texte qui fait foi, hormis les cas d’actions en nullité, si la demande de brevet européen ou le brevet européen dans la langue de la traduction confère une protection moins étendue que celle conférée par ladite demande ou par ledit brevet dans la langue de la procédure.
 
-<sup>(4)</sup> Tout Etat contractant qui arrête une disposition en application du par. 3,
+<sup>(4)</sup>
 
-- a) doit permettre au demandeur ou au titulaire du brevet de produire une traduction révisée de la demande de brevet européen ou du brevet européen. Cette traduction révisée n’a pas d’effet juridique aussi longtemps que les conditions fixées par l’Etat contractant en application de l’art. 65, par. 2, ou de l’art. 67, par. 3, n’ont pas été remplies;
-- b) peut prévoir que quiconque, dans cet Etat, a, de bonne foi, commencé à exploiter une invention ou a fait des préparatifs effectifs et sérieux à cette fin, sans que cette exploitation constitue une contrefaçon de la demande ou du brevet dans le texte de la traduction initiale, peut, après que la traduction révisée a pris effet, poursuivre à titre gratuit son exploitation dans son entreprise ou pour les besoins de celle‑ci.
+Tout État contractant qui arrête une disposition en application du par. 3:
+
+- a) doit permettre au demandeur ou au titulaire du brevet de produire une traduction révisée de la demande de brevet européen ou du brevet européen. Cette traduction révisée n’a pas d’effet juridique aussi longtemps que les conditions fixées par l’État contractant en application de l’art. 65, par. 2, ou de l’art. 67, par. 3, n’ont pas été remplies;
+- b) peut prévoir que quiconque, dans cet État, a, de bonne foi, commencé à exploiter une invention ou a fait des préparatifs effectifs et sérieux à cette fin, sans que cette exploitation constitue une contrefaçon de la demande ou du brevet dans le texte de la traduction initiale, peut, après que la traduction révisée a pris effet, poursuivre à titre gratuit son exploitation dans son entreprise ou pour les besoins de celle‑ci.
 
 ### Chapitre IV De la demande de brevet européen comme objet de propriété
 
@@ -849,7 +853,7 @@ La demande de brevet européen ainsi que le brevet européen auquel elle a donn�
 
 **Transfert et constitution de droits**
 
-La demande de brevet européen peut être transférée ou donner lieu à la constitution de droits pour un ou plusieurs des Etats contractants désignés.
+La demande de brevet européen peut être transférée ou donner lieu à la constitution de droits pour un ou plusieurs des États contractants désignés.
 
 #### Art. 72
 
@@ -861,13 +865,13 @@ La cession de la demande de brevet européen doit être faite par écrit et requ
 
 **Licence contractuelle**
 
-Une demande de brevet européen peut faire, en sa totalité ou en partie, l’objet de licences pour tout ou partie des territoires des Etats contractants désignés.
+Une demande de brevet européen peut faire, en sa totalité ou en partie, l’objet de licences pour tout ou partie des territoires des États contractants désignés.
 
 #### Art. 74
 
 **Droit applicable**
 
-Sauf si la présente Convention en dispose autrement, la demande de brevet européen comme objet de propriété est soumise, dans chaque Etat contractant désigné et avec effet dans cet Etat, à la législation applicable dans ledit Etat aux demandes de brevet national.
+Sauf si la présente Convention en dispose autrement, la demande de brevet européen comme objet de propriété est soumise, dans chaque État contractant désigné et avec effet dans cet État, à la législation applicable dans ledit État aux demandes de brevet national.
 
 ## Partie 3 La demande de brevet européen
 
@@ -882,13 +886,13 @@ Sauf si la présente Convention en dispose autrement, la demande de brevet europ
 La demande de brevet européen peut être déposée:
 
 - a) soit auprès de l’Office européen des brevets;
-- b) soit, si la législation d’un Etat contractant le permet, et sous réserve de l’art. 76, par. 1, auprès du service central de la propriété industrielle ou des autres autorités compétentes de cet Etat. Toute demande ainsi déposée a les mêmes effets que si elle avait été déposée à la même date à l’Office européen des brevets.
+- b) soit, si la législation d’un État contractant le permet, et sous réserve de l’art. 76, par. 1, auprès du service central de la propriété industrielle ou des autres autorités compétentes de cet État. Toute demande ainsi déposée a les mêmes effets que si elle avait été déposée à la même date à l’Office européen des brevets.
 
 <sup>(2)</sup>
 
-Le par. 1 ne peut faire obstacle à l’application des dispositions législatives ou réglementaires qui, dans un Etat contractant:
+Le par. 1 ne peut faire obstacle à l’application des dispositions législatives ou réglementaires qui, dans un État contractant:
 
-- a) régissent les inventions qui ne peuvent, en raison de leur objet, être communiquées à l’étranger sans autorisation préalable des autorités compétentes de cet Etat, ou
+- a) régissent les inventions qui ne peuvent, en raison de leur objet, être communiquées à l’étranger sans autorisation préalable des autorités compétentes de cet État, ou
 - b) prescrivent que toute demande de brevet doit être initialement déposée auprès d’une autorité nationale, ou soumettent à une autorisation préalable le dépôt direct auprès d’une autre autorité.
 
 #### Art. 76
@@ -897,13 +901,13 @@ Le par. 1 ne peut faire obstacle à l’application des dispositions législativ
 
 <sup>(1)</sup> Toute demande divisionnaire de brevet européen doit être déposée directement auprès de l’Office européen des brevets conformément au règlement d’exécution. Elle ne peut être déposée que pour des éléments qui ne s’étendent pas au‑delà du contenu de la demande antérieure telle qu’elle a été déposée; dans la mesure où il est satisfait à cette exigence, la demande divisionnaire est réputée déposée à la date de dépôt de la demande antérieure et bénéficie du droit de priorité.
 
-<sup>(2)</sup> Tous les Etats contractants désignés dans la demande antérieure lors du dépôt d’une demande divisionnaire de brevet européen sont réputés désignés dans la demande divisionnaire.
+<sup>(2)</sup> Tous les États contractants désignés dans la demande antérieure lors du dépôt d’une demande divisionnaire de brevet européen sont réputés désignés dans la demande divisionnaire.
 
 #### Art. 77
 
 **Transmission des demandes de brevet européen**
 
-<sup>(1)</sup> Le service central de la propriété industrielle de l’Etat contractant transmet à l’Office européen des brevets les demandes de brevet européen déposées auprès dudit service ou auprès de toute autre autorité compétente de cet Etat, conformément au règlement d’exécution.
+<sup>(1)</sup> Le service central de la propriété industrielle de l’État contractant transmet à l’Office européen des brevets les demandes de brevet européen déposées auprès dudit service ou auprès de toute autre autorité compétente de cet État, conformément au règlement d’exécution.
 
 <sup>(2)</sup> Toute demande de brevet européen dont l’objet a été mis au secret n’est pas transmise à l’Office européen des brevets.
 
@@ -927,13 +931,13 @@ La demande de brevet européen doit contenir:
 
 #### Art. 79
 
-**Désignation des Etats contractants**
+**Désignation des États contractants**
 
-<sup>(1)</sup> Tous les Etats contractants parties à la présente Convention lors du dépôt de la demande de brevet européen sont réputés désignés dans la requête en délivrance du brevet européen.
+<sup>(1)</sup> Tous les États contractants parties à la présente Convention lors du dépôt de la demande de brevet européen sont réputés désignés dans la requête en délivrance du brevet européen.
 
-<sup>(2)</sup> La désignation d’un Etat contractant peut donner lieu au paiement d’une taxe de désignation.
+<sup>(2)</sup> La désignation d’un État contractant peut donner lieu au paiement d’une taxe de désignation.
 
-<sup>(3)</sup> La désignation d’un Etat contractant peut être retirée à tout moment jusqu’à la délivrance du brevet européen.
+<sup>(3)</sup> La désignation d’un État contractant peut être retirée à tout moment jusqu’à la délivrance du brevet européen.
 
 #### Art. 80
 
@@ -985,16 +989,18 @@ L’abrégé sert exclusivement à des fins d’information technique; il ne peu
 
 **Droit de priorité**
 
-<sup>(1)</sup> Celui qui a régulièrement déposé, dans ou pour
+<sup>(1)</sup>
 
-- a) un Etat partie à la Convention de Paris pour la protection de la propriété industrielle[^87-1] ou
+Celui qui a régulièrement déposé, dans ou pour:
+
+- a) un État partie à la Convention de Paris pour la protection de la propriété industrielle[^87-1] ou
 - b) un membre de l’Organisation mondiale du commerce, une demande de brevet d’invention, de modèle d’utilité ou de certificat d’utilité, ou son ayant cause, jouit, pour effectuer le dépôt d’une demande de brevet européen pour la même invention, d’un droit de priorité pendant un délai de douze mois à compter de la date de dépôt de la première demande.
 
-<sup>(2)</sup> Est reconnu comme donnant naissance au droit de priorité tout dépôt ayant la valeur d’un dépôt national régulier en vertu de la législation nationale de l’Etat dans lequel il a été effectué ou d’accords bilatéraux ou multilatéraux, y compris la présente Convention.
+<sup>(2)</sup> Est reconnu comme donnant naissance au droit de priorité tout dépôt ayant la valeur d’un dépôt national régulier en vertu de la législation nationale de l’État dans lequel il a été effectué ou d’accords bilatéraux ou multilatéraux, y compris la présente Convention.
 
 <sup>(3)</sup> Par dépôt national régulier, on doit entendre tout dépôt qui suffit à établir la date à laquelle la demande a été déposée, quel que soit le sort ultérieur de cette demande.
 
-<sup>(4)</sup> Est considérée comme première demande, dont la date de dépôt est le point de départ du délai de priorité, une demande ultérieure ayant le même objet qu’une première demande antérieure, déposée dans ou pour le même Etat, à la condition que cette demande antérieure, à la date de dépôt de la demande ultérieure, ait été retirée, abandonnée ou refusée, sans avoir été soumise à l’inspection publique et sans laisser subsister de droits, et qu’elle n’ait pas encore servi de base pour la revendication du droit de priorité. La demande antérieure ne peut plus alors servir de base pour la revendication du droit de priorité.
+<sup>(4)</sup> Est considérée comme première demande, dont la date de dépôt est le point de départ du délai de priorité, une demande ultérieure ayant le même objet qu’une première demande antérieure, déposée dans ou pour le même État, à la condition que cette demande antérieure, à la date de dépôt de la demande ultérieure, ait été retirée, abandonnée ou refusée, sans avoir été soumise à l’inspection publique et sans laisser subsister de droits, et qu’elle n’ait pas encore servi de base pour la revendication du droit de priorité. La demande antérieure ne peut plus alors servir de base pour la revendication du droit de priorité.
 
 <sup>(5)</sup> Si le premier dépôt a été effectué auprès d’un service de la propriété industrielle qui n’est pas lié par la Convention de Paris pour la protection de la propriété industrielle ou par l’Accord instituant l’Organisation mondiale du commerce, les par. 1 à 4 s’appliquent si, suivant une communication émanant du Président de l’Office européen des brevets, ce service reconnaît qu’un premier dépôt effectué auprès de l’Office européen des brevets donne naissance à un droit de prioritésoumis à des conditions et ayant des effets équivalents à ceux prévus par la Convention de Paris.
 
@@ -1006,7 +1012,7 @@ L’abrégé sert exclusivement à des fins d’information technique; il ne peu
 
 <sup>(1)</sup> Le demandeur qui veut se prévaloir de la priorité d’un dépôt antérieur est tenu de produire une déclaration de priorité et tout autre document exigé, conformément au règlement d’exécution.
 
-<sup>(2)</sup> Des priorités multiples peuvent être revendiquées pour une demande de brevet européen même si elles proviennent d’Etats différents. Le cas échéant, des priorités multiples peuvent être revendiquées pour une même revendication. Si des priorités multiples sont revendiquées, les délais qui ont pour point de départ la date de priorité sont calculés à compter de la date de la priorité la plus ancienne.
+<sup>(2)</sup> Des priorités multiples peuvent être revendiquées pour une demande de brevet européen même si elles proviennent d’États différents. Le cas échéant, des priorités multiples peuvent être revendiquées pour une même revendication. Si des priorités multiples sont revendiquées, les délais qui ont pour point de départ la date de priorité sont calculés à compter de la date de la priorité la plus ancienne.
 
 <sup>(3)</sup> Lorsqu’une ou plusieurs priorités sont revendiquées pour la demande de brevet européen, le droit de priorité ne couvre que les éléments de la demande de brevet européen qui sont contenus dans la demande ou dans les demandes dont la priorité est revendiquée.
 
@@ -1042,7 +1048,7 @@ Par l’effet du droit de priorité, la date de priorité est considérée comme
 
 #### Art. 92
 
-**Etablissement du rapport de recherche européenne**
+**Établissement du rapport de recherche européenne**
 
 L’Office européen des brevets établit et publie, conformément au règlement d’exécution, un rapport de recherche européenne relatif à la demande de brevet européen sur la base des revendications, en tenant dûment compte de la description et des dessins existants.
 
@@ -1050,7 +1056,9 @@ L’Office européen des brevets établit et publie, conformément au règlement
 
 **Publication de la demande de brevet européen**
 
-<sup>(1)</sup> L’Office européen des brevets publie la demande de brevet européen dès que possible
+<sup>(1)</sup>
+
+L’Office européen des brevets publie la demande de brevet européen dès que possible:
 
 - a) après l’expiration d’un délai de dix‑huit mois à compter de la date de dépôt ou, si une priorité a été revendiquée, à compter de la date de priorité ou
 - b) avant l’expiration de ce délai sur requête du demandeur.
@@ -1105,11 +1113,11 @@ L’Office européen des brevets publie le fascicule du brevet européen dès qu
 
 <sup>(1)</sup> Dans un délai de neuf mois à compter de la publication dela mention de la délivrance du brevet européen au Bulletin européen des brevets, toute personne peut faire opposition à ce brevet auprès de l’Office européen des brevets, conformément au règlement d’exécution. L’opposition n’est réputée formée qu’après le paiement de la taxe d’opposition.
 
-<sup>(2)</sup> L’opposition au brevet européen affecte ce brevet dans tous les Etats contractants dans lesquels il produit ses effets.
+<sup>(2)</sup> L’opposition au brevet européen affecte ce brevet dans tous les États contractants dans lesquels il produit ses effets.
 
 <sup>(3)</sup> Les opposants sont parties, avec le titulaire du brevet, à la procédure d’opposition.
 
-<sup>(4)</sup> Si une personne apporte la preuve que, dans un Etat contractant, elle est inscrite au registre des brevets, en vertu d’une décision passée en force de chose jugée, au lieu et place du titulaire précédent, elle est, sur requête, substituée à ce dernier pour ledit Etat. Nonobstant l’art. 118, le titulaire précédent du brevet et la personne qui fait ainsi valoir ses droits ne sont pas considérés comme copropriétaires, à moins qu’ils ne demandent tous deux à l’être.
+<sup>(4)</sup> Si une personne apporte la preuve que, dans un État contractant, elle est inscrite au registre des brevets, en vertu d’une décision passée en force de chose jugée, au lieu et place du titulaire précédent, elle est, sur requête, substituée à ce dernier pour ledit État. Nonobstant l’art. 118, le titulaire précédent du brevet et la personne qui fait ainsi valoir ses droits ne sont pas considérés comme copropriétaires, à moins qu’ils ne demandent tous deux à l’être.
 
 #### Art. 100
 
@@ -1129,7 +1137,9 @@ L’opposition ne peut être fondée que sur les motifs suivants:
 
 <sup>(2)</sup> Si la division d’opposition estime qu’au moins un motif d’opposition s’oppose au maintien du brevet européen, elle révoque le brevet. Dans le cas contraire, elle rejette l’opposition.
 
-<sup>(3)</sup> Si la division d’opposition estime que, compte tenu des modifications apportées par le titulaire du brevet européen au cours de la procédure d’opposition, le brevet et l’invention qui en fait l’objet
+<sup>(3)</sup>
+
+Si la division d’opposition estime que, compte tenu des modifications apportées par le titulaire du brevet européen au cours de la procédure d’opposition, le brevet et l’invention qui en fait l’objet:
 
 - a) satisfont aux exigences de la présente Convention, elle décide de maintenir le brevet tel qu’il a été modifié, pour autant que les conditions prévues par le règlement d’exécution soient remplies;
 - b) ne satisfont pas aux exigences de la présente Convention, elle révoque le brevet.
@@ -1154,13 +1164,15 @@ Si le brevet européen a été maintenu tel qu’il a été modifié en vertu de
 
 <sup>(2)</sup> Le règlement d’exécution détermine la procédure de fixation des frais.
 
-<sup>(3)</sup> Toute décision finale de l’Office européen des brevets fixant le montant des frais est, aux fins de son exécution dans les Etats contractants, réputée être une décision passée en force de chose jugée rendue par une juridiction civile de l’Etat dans lequel cette exécution doit avoir lieu. Le contrôle d’une telle décision ne peut porter que sur son authenticité.
+<sup>(3)</sup> Toute décision finale de l’Office européen des brevets fixant le montant des frais est, aux fins de son exécution dans les États contractants, réputée être une décision passée en force de chose jugée rendue par une juridiction civile de l’État dans lequel cette exécution doit avoir lieu. Le contrôle d’une telle décision ne peut porter que sur son authenticité.
 
 #### Art. 105
 
 **Intervention du contrefacteur présumé**
 
-<sup>(1)</sup> Tout tiers peut, après l’expiration du délai d’opposition, intervenir dans la procédure d’opposition conformément au règlement d’exécution, à condition qu’il apporte la preuve
+<sup>(1)</sup>
+
+Tout tiers peut, après l’expiration du délai d’opposition, intervenir dans la procédure d’opposition conformément au règlement d’exécution, à condition qu’il apporte la preuve:
 
 - a) qu’une action en contrefaçon fondée sur ce brevet a été introduite à son encontre, ou
 - b) qu’après avoir été requis par le titulaire du brevet de cesser la contrefaçon alléguée de ce brevet, il a introduit à l’encontre dudit titulaire une action tendant à faire constater qu’il n’est pas contrefacteur.
@@ -1183,7 +1195,7 @@ Si le brevet européen a été maintenu tel qu’il a été modifié en vertu de
 
 <sup>(2)</sup> Si l’Office européen des brevets estime que la requête en limitation ou en révocation du brevet européen satisfait à ces exigences, il décide, conformément au règlement d’exécution, de limiter ou de révoquer le brevet européen. Dans le cas contraire, il rejette la requête.
 
-<sup>(3)</sup> La décision relative à la limitation ou à la révocation affecte le brevet européen avec effet dans tous les Etats contractants pour lesquels il a été délivré. Elle prend effet à la date à laquelle la mention de la décision est publiée au Bulletin européen des brevets.
+<sup>(3)</sup> La décision relative à la limitation ou à la révocation affecte le brevet européen avec effet dans tous les États contractants pour lesquels il a été délivré. Elle prend effet à la date à laquelle la mention de la décision est publiée au Bulletin européen des brevets.
 
 #### Art. 105<sup>quater</sup>
 
@@ -1233,7 +1245,7 @@ Si le recours est recevable, la chambre de recours examine s’il peut y être f
 
 **Décision sur le recours**
 
-<sup>(1)</sup> A la suite de l’examen au fond du recours, la chambre de recours statue sur le recours. Elle peut soit exercer les compétences de l’instance qui a rendu la décision attaquée, soit renvoyer l’affaire à ladite instance pour suite à donner.
+<sup>(1)</sup> À la suite de l’examen au fond du recours, la chambre de recours statue sur le recours. Elle peut soit exercer les compétences de l’instance qui a rendu la décision attaquée, soit renvoyer l’affaire à ladite instance pour suite à donner.
 
 <sup>(2)</sup> Si la chambre de recours renvoie l’affaire pour suite à donner à l’instance qui a rendu la décision attaquée, cette instance est liée par les motifs et le dispositif de la décision de la chambre de recours pour autant que les faits de la cause soient les mêmes. Si la décision attaquée a été rendue par la section de dépôt, la division d’examen est également liée par les motifs et le dispositif de la décision de la chambre de recours.
 
@@ -1274,7 +1286,7 @@ La requête ne peut être fondée que sur les motifs suivants:
 
 <sup>(5)</sup> La Grande Chambre de recours examine la requête en révision conformément au règlement d’exécution. Si la requête est fondée, la Grande Chambre de recours annule la décision et rouvre, conformément au règlement d’exécution, la procédure devant les chambres de recours.
 
-<sup>(6)</sup> Quiconque, dans un Etat contractant désigné, a, de bonne foi, dans la période entre la décision de la chambre de recours et la publication au Bulletin européen des brevets de la mention de la décision de la Grande Chambre de recours sur la requête en révision, commencé à exploiter ou a fait des préparatifs effectifs et sérieux pour exploiter l’invention qui fait l’objet d’une demande de brevet européen publiée ou d’un brevet européen, peut, à titre gratuit, poursuivre cette exploitation dans son entreprise ou pour les besoins de celle‑ci.
+<sup>(6)</sup> Quiconque, dans un État contractant désigné, a, de bonne foi, dans la période entre la décision de la chambre de recours et la publication au Bulletin européen des brevets de la mention de la décision de la Grande Chambre de recours sur la requête en révision, commencé à exploiter ou a fait des préparatifs effectifs et sérieux pour exploiter l’invention qui fait l’objet d’une demande de brevet européen publiée ou d’un brevet européen, peut, à titre gratuit, poursuivre cette exploitation dans son entreprise ou pour les besoins de celle‑ci.
 
 ## Partie 7 Dispositions communes
 
@@ -1336,13 +1348,13 @@ Dans les procédures devant l’Office européen des brevets, les mesures d’in
 
 **Unicité de la demande de brevet européen ou du brevet européen**
 
-Lorsque les demandeurs ou les titulaires d’un brevet européen ne sont pas les mêmes pour différents Etats contractants désignés, ils sont considérés comme codemandeurs ou comme copropriétaires aux fins de la procédure devant l’Office européen des brevets. L’unicité de la demande ou du brevet au cours de cette procédure n’en est pas affectée; en particulier, le texte de la demande ou du brevet doit être identique pour tous les Etats contractants désignés, sauf si la présente Convention en dispose autrement.
+Lorsque les demandeurs ou les titulaires d’un brevet européen ne sont pas les mêmes pour différents États contractants désignés, ils sont considérés comme codemandeurs ou comme copropriétaires aux fins de la procédure devant l’Office européen des brevets. L’unicité de la demande ou du brevet au cours de cette procédure n’en est pas affectée; en particulier, le texte de la demande ou du brevet doit être identique pour tous les États contractants désignés, sauf si la présente Convention en dispose autrement.
 
 #### Art. 119
 
 **Signification**
 
-Les décisions, citations, notifications et communications sont signifiées d’office par l’Office européen des brevets conformément au règlement d’exécution. Les significations peuvent être faites, lorsque des circonstances exceptionnelles l’exigent, par l’intermédiaire des services centraux de la propriété industrielle des Etats contractants.
+Les décisions, citations, notifications et communications sont signifiées d’office par l’Office européen des brevets conformément au règlement d’exécution. Les significations peuvent être faites, lorsque des circonstances exceptionnelles l’exigent, par l’intermédiaire des services centraux de la propriété industrielle des États contractants.
 
 #### Art. 120
 
@@ -1378,9 +1390,9 @@ Le règlement d’exécution détermine:
 
 <sup>(4)</sup> Est exclu de la *restitutio in integrum* le délai de présentation de la requête en *restitutio in integrum*. Le règlement d’exécution peut exclure d’autres délais de la *restitutio in integrum*.
 
-<sup>(5)</sup> Quiconque, dans un Etat contractant désigné, a, de bonne foi, dans la période entre la perte d’un droit visée au par. 1 et la publication au Bulletin européen des brevets de la mention du rétablissement dudit droit, commencé à exploiter ou a fait des préparatifs effectifs et sérieux pour exploiter l’invention qui fait l’objet d’une demande de brevet européen publiée ou d’un brevet européen, peut, à titre gratuit, poursuivre cette exploitation dans son entreprise ou pour les besoins de celle‑ci.
+<sup>(5)</sup> Quiconque, dans un État contractant désigné, a, de bonne foi, dans la période entre la perte d’un droit visée au par. 1 et la publication au Bulletin européen des brevets de la mention du rétablissement dudit droit, commencé à exploiter ou a fait des préparatifs effectifs et sérieux pour exploiter l’invention qui fait l’objet d’une demande de brevet européen publiée ou d’un brevet européen, peut, à titre gratuit, poursuivre cette exploitation dans son entreprise ou pour les besoins de celle‑ci.
 
-<sup>(6)</sup> Le présent article n’affecte pas le droit pour un Etat contractant d’accorder la restitutio in integrum quant aux délais prévus par la présente Convention et à observer à l’égard des autorités de cet Etat.
+<sup>(6)</sup> Le présent article n’affecte pas le droit pour un État contractant d’accorder la restitutio in integrum quant aux délais prévus par la présente Convention et à observer à l’égard des autorités de cet État.
 
 #### Art. 123
 
@@ -1404,7 +1416,7 @@ Le règlement d’exécution détermine:
 
 **Référence aux principes généraux**
 
-En l’absence d’une disposition de procédure dans la présente Convention, l’Office européen des brevets prend en considération les principes généralement admis en la matière dans les Etats contractants.
+En l’absence d’une disposition de procédure dans la présente Convention, l’Office européen des brevets prend en considération les principes généralement admis en la matière dans les États contractants.
 
 #### Art. 126
 
@@ -1445,15 +1457,15 @@ L’Office européen des brevets publie périodiquement:
 
 #### Art. 130
 
-**Echange d’informations**
+**Échange d’informations**
 
-<sup>(1)</sup> Sauf si la présente Convention ou la législation nationale en dispose autrement, l’Office européen des brevets et les services centraux de la propriété industrielle des Etats contractants se communiquent, sur requête, toutes informations utiles sur des demandes de brevets européens ou nationaux et des brevets européens ou nationaux ainsi que les procédures les concernant.
+<sup>(1)</sup> Sauf si la présente Convention ou la législation nationale en dispose autrement, l’Office européen des brevets et les services centraux de la propriété industrielle des États contractants se communiquent, sur requête, toutes informations utiles sur des demandes de brevets européens ou nationaux et des brevets européens ou nationaux ainsi que les procédures les concernant.
 
 <sup>(2)</sup>
 
 Le par. 1 s’applique à l’échange d’informations, en vertu d’accords de travail, entre l’Office européen des brevets, d’une part, et, d’autre part:
 
-- a) les services centraux de la propriété industrielle d’autres Etats;
+- a) les services centraux de la propriété industrielle d’autres États;
 - b) toute organisation intergouvernementale chargée de la délivrance de brevets;
 - c) toute autre organisation.
 
@@ -1463,15 +1475,15 @@ Le par. 1 s’applique à l’échange d’informations, en vertu d’accords de
 
 **Coopération administrative et judiciaire**
 
-<sup>(1)</sup> Sauf si la présente Convention ou la législation nationale en dispose autrement, l’Office européen des brevets et les juridictions ou autres autorités compétentes des Etats contractants s’assistent mutuellement, sur demande, en se communiquant des informations ou des dossiers. Lorsque l’Office européen des brevets met des dossiers à la disposition des juridictions, des ministères publics ou des services centraux de la propriété industrielle à des fins de consultation, celle‑ci n’est pas soumise aux restrictions prévues à l’art. 128.
+<sup>(1)</sup> Sauf si la présente Convention ou la législation nationale en dispose autrement, l’Office européen des brevets et les juridictions ou autres autorités compétentes des États contractants s’assistent mutuellement, sur demande, en se communiquant des informations ou des dossiers. Lorsque l’Office européen des brevets met des dossiers à la disposition des juridictions, des ministères publics ou des services centraux de la propriété industrielle à des fins de consultation, celle‑ci n’est pas soumise aux restrictions prévues à l’art. 128.
 
-<sup>(2)</sup> Sur requête de l’Office européen des brevets, les juridictions ou autres autorités compétentes des Etats contractants procèdent pour l’Office, dans les limites de leur compétence, aux mesures d’instruction ou autres actes juridictionnels.
+<sup>(2)</sup> Sur requête de l’Office européen des brevets, les juridictions ou autres autorités compétentes des États contractants procèdent pour l’Office, dans les limites de leur compétence, aux mesures d’instruction ou autres actes juridictionnels.
 
 #### Art. 132
 
-**Echange de publications**
+**Échange de publications**
 
-<sup>(1)</sup> L’Office européen des brevets et les services centraux de la propriété industrielle des Etats contractants échangent sur requête, pour leurs propres besoins et gratuitement, un ou plusieurs exemplaires de leurs publications respectives.
+<sup>(1)</sup> L’Office européen des brevets et les services centraux de la propriété industrielle des États contractants échangent sur requête, pour leurs propres besoins et gratuitement, un ou plusieurs exemplaires de leurs publications respectives.
 
 <sup>(2)</sup> L’Office européen des brevets peut conclure des accords portant sur l’échange ou l’envoi de publications.
 
@@ -1483,9 +1495,9 @@ Le par. 1 s’applique à l’échange d’informations, en vertu d’accords de
 
 <sup>(1)</sup> Sous réserve des dispositions du par. 2, nul n’est tenu de se faire représenter par un mandataire agréé dans les procédures instituées par la présente Convention.
 
-<sup>(2)</sup> Les personnes physiques et morales qui n’ont ni leur domicile ni leur siège dans un Etat contractant doivent être représentées par un mandataire agréé, et agir par son entremise, dans toute procédure instituée par la présente Convention, sauf pour le dépôt d’une demande de brevet européen; d’autres exceptions peuvent être prévues par le règlement d’exécution.
+<sup>(2)</sup> Les personnes physiques et morales qui n’ont ni leur domicile ni leur siège dans un État contractant doivent être représentées par un mandataire agréé, et agir par son entremise, dans toute procédure instituée par la présente Convention, sauf pour le dépôt d’une demande de brevet européen; d’autres exceptions peuvent être prévues par le règlement d’exécution.
 
-<sup>(3)</sup> Les personnes physiques et morales qui ont leur domicile ou leur siège dans un Etat contractant peuvent agir par l’entremise d’un employé dans toute procédure instituée par la présente Convention; cet employé, qui doit disposer d’un pouvoir conforme aux dispositions du règlement d’exécution, n’est pas tenu d’être un mandataire agréé. Le règlement d’exécution peut prévoir si et dans quelles conditions l’employé d’une personne morale peut également agir pour d’autres personnes morales qui ont leur siège dans un Etat contractant et ont des liens économiques avec elle.
+<sup>(3)</sup> Les personnes physiques et morales qui ont leur domicile ou leur siège dans un État contractant peuvent agir par l’entremise d’un employé dans toute procédure instituée par la présente Convention; cet employé, qui doit disposer d’un pouvoir conforme aux dispositions du règlement d’exécution, n’est pas tenu d’être un mandataire agréé. Le règlement d’exécution peut prévoir si et dans quelles conditions l’employé d’une personne morale peut également agir pour d’autres personnes morales qui ont leur siège dans un État contractant et ont des liens économiques avec elle.
 
 <sup>(4)</sup> Des dispositions particulières relatives à la représentation commune de parties agissant en commun peuvent être prévues dans le règlement d’exécution.
 
@@ -1495,25 +1507,27 @@ Le par. 1 s’applique à l’échange d’informations, en vertu d’accords de
 
 <sup>(1)</sup> La représentation de personnes physiques ou morales dans les procédures instituées par la présente Convention ne peut être assurée que par les mandataires agréés inscrits sur une liste tenue à cet effet par l’Office européen des brevets.
 
-<sup>(2)</sup> Toute personne physique qui
+<sup>(2)</sup> peut être inscrite sur la liste des mandataires agréés.
 
-peut être inscrite sur la liste des mandataires agréés.
+Toute personne physique qui:
 
-- a) possède la nationalité d’un Etat contractant,
-- b) a son domicile professionnel ou le lieu de son emploi dans un Etat contractant et
-- c) a satisfait aux épreuves de l’examen européen de qualification,
+- a) possède la nationalité d’un État contractant;
+- b) a son domicile professionnel ou le lieu de son emploi dans un État contractant; et
+- c) a satisfait aux épreuves de l’examen européen de qualification;
 
-<sup>(3)</sup> Pendant une période d’un an à compter de la date à laquelle l’adhésion d’un Etat à la présente Convention prend effet, peut également demander à être inscrite sur la liste des mandataires agréés toute personne physique qui
+<sup>(3)</sup>
 
-- a) possède la nationalité d’un Etat contractant,
-- b) a son domicile professionnel ou le lieu de son emploi dans l’Etat ayant adhéré à la convention et
-- c) est habilitée à représenter en matière de brevets d’invention des personnes physiques ou morales devant le service central de la propriété industrielle de cet Etat. Dans le cas où cette habilitation n’est pas subordonnée à l’exigence d’une qualification professionnelle spéciale, cette personne doit avoir agi dans cet Etat en tant que représentant à titre habituel pendant cinq ans au moins.
+Pendant une période d’un an à compter de la date à laquelle l’adhésion d’un État à la présente Convention prend effet, peut également demander à être inscrite sur la liste des mandataires agréés toute personne physique qui:
+
+- a) possède la nationalité d’un État contractant;
+- b) a son domicile professionnel ou le lieu de son emploi dans l’État ayant adhéré à la convention; et
+- c) est habilitée à représenter en matière de brevets d’invention des personnes physiques ou morales devant le service central de la propriété industrielle de cet État. Dans le cas où cette habilitation n’est pas subordonnée à l’exigence d’une qualification professionnelle spéciale, cette personne doit avoir agi dans cet État en tant que représentant à titre habituel pendant cinq ans au moins.
 
 <sup>(4)</sup> L’inscription est faite sur requête accompagnée d’attestations indiquant que les conditions visées au par. 2 ou 3 sont remplies.
 
 <sup>(5)</sup> Les personnes qui sont inscrites sur la liste des mandataires agréés sont habilitées à agir dans toute procédure instituée par la présente Convention.
 
-<sup>(6)</sup> Aux fins d’agir en qualité de mandataire agréé, toute personne inscrite sur la liste des mandataires agréés est habilitée à avoir un domicile professionnel dans tout Etat contractant dans lequel se déroulent les procédures instituées par la présente Convention, compte tenu du protocole sur la centralisation[^134-1] annexé à la présente Convention. Les autorités de cet Etat ne peuvent retirer cette habilitation que dans des cas particuliers et en vertu de la législation nationale relative à l’ordre public et à la sécurité publique. Le Président de l’Office européen des brevets doit être consulté avant qu’une telle mesure soit prise.
+<sup>(6)</sup> Aux fins d’agir en qualité de mandataire agréé, toute personne inscrite sur la liste des mandataires agréés est habilitée à avoir un domicile professionnel dans tout État contractant dans lequel se déroulent les procédures instituées par la présente Convention, compte tenu du protocole sur la centralisation[^134-1] annexé à la présente Convention. Les autorités de cet État ne peuvent retirer cette habilitation que dans des cas particuliers et en vertu de la législation nationale relative à l’ordre public et à la sécurité publique. Le Président de l’Office européen des brevets doit être consulté avant qu’une telle mesure soit prise.
 
 <sup>(7)</sup>
 
@@ -1522,7 +1536,7 @@ Le Président de l’Office européen des brevets peut consentir une dérogation
 - a) à l’exigence visée au par. 2 a) ou au par. 3 a) dans des circonstances particulières;
 - b) à l’exigence visée au par. 3 c), deuxième phrase, si le candidat apporte la preuve qu’il a acquis d’une autre manière les qualifications requises.
 
-<sup>(8)</sup> La représentation au même titre qu’un mandataire agréé dans les procédures instituées par la présente Convention peut être assurée par tout avocat habilité à exercer dans l’un des Etats contractants et y possédant son domicile professionnel, dans la mesure où il peut agir dans cet Etat en qualité de mandataire en matière de brevets d’invention. Les dispositions du par. 6 sont applicables.
+<sup>(8)</sup> La représentation au même titre qu’un mandataire agréé dans les procédures instituées par la présente Convention peut être assurée par tout avocat habilité à exercer dans l’un des États contractants et y possédant son domicile professionnel, dans la mesure où il peut agir dans cet État en qualité de mandataire en matière de brevets d’invention. Les dispositions du par. 6 sont applicables.
 
 [^134-1]: [RS 0.232.142.24](https://fedlex.data.admin.ch/eli/cc/2007/851)
 
@@ -1551,14 +1565,14 @@ Le Conseil d’administration a compétence pour arrêter et modifier des dispos
 
 <sup>(1)</sup>
 
-Le service central de la propriété industrielle d’un Etat contractant désigné engage, sur requête du demandeur ou du titulaire d’un brevet européen, la procédure de délivrance d’un brevet national dans les cas suivants:
+Le service central de la propriété industrielle d’un État contractant désigné engage, sur requête du demandeur ou du titulaire d’un brevet européen, la procédure de délivrance d’un brevet national dans les cas suivants:
 
 - a) si la demande de brevet européen est réputée retirée en vertu de l’art. 77, par. 3;
 - b) dans les autres cas prévus par la législation nationale où, en vertu de la présente Convention, la demande de brevet européen est soit rejetée, soit retirée, soit réputée retirée ou le brevet européen révoqué.
 
-<sup>(2)</sup> Dans le cas visé au par. 1 a), la requête en transformation doit être présentée au service central national de la propriété industrielle auprès duquel la demande de brevet européen avait été déposée. Sous réserve des dispositions relatives à la défense nationale, ce service transmet directement la requête aux services centraux des Etats contractants qui y sont mentionnés.
+<sup>(2)</sup> Dans le cas visé au par. 1 a), la requête en transformation doit être présentée au service central national de la propriété industrielle auprès duquel la demande de brevet européen avait été déposée. Sous réserve des dispositions relatives à la défense nationale, ce service transmet directement la requête aux services centraux des États contractants qui y sont mentionnés.
 
-<sup>(3)</sup> Dans les cas visés au par. 1 b), la requête en transformation doit être présentée à l’Office européen des brevets conformément au règlement d’exécution. Elle n’est réputée présentée qu’après le paiement de la taxe de transformation. L’Office européen des brevets transmet la requête aux services centraux de la propriété industrielle des Etats contractants qui y sont mentionnés.
+<sup>(3)</sup> Dans les cas visés au par. 1 b), la requête en transformation doit être présentée à l’Office européen des brevets conformément au règlement d’exécution. Elle n’est réputée présentée qu’après le paiement de la taxe de transformation. L’Office européen des brevets transmet la requête aux services centraux de la propriété industrielle des États contractants qui y sont mentionnés.
 
 <sup>(4)</sup> La demande de brevet européen cesse de produire les effets visés à l’art. 66 si la requête en transformation n’est pas transmise dans les délais.
 
@@ -1579,7 +1593,7 @@ Le service central de la propriété industrielle d’un Etat contractant désig
 Le service central de la propriété industrielle auquel la demande de brevet européen est transmise peut exiger que, dans un délai qui ne peut être inférieur à deux mois, le demandeur:
 
 - a) acquitte la taxe nationale de dépôt, et
-- b) produise, dans l’une des langues officielles de l’Etat concerné, une traduction du texte original de la demande de brevet européen ainsi que, le cas échéant, une traduction du texte modifié au cours de la procédure devant l’Office européen des brevets, sur la base duquel il désire que se déroule la procédure nationale.
+- b) produise, dans l’une des langues officielles de l’État concerné, une traduction du texte original de la demande de brevet européen ainsi que, le cas échéant, une traduction du texte modifié au cours de la procédure devant l’Office européen des brevets, sur la base duquel il désire que se déroule la procédure nationale.
 
 ### Chapitre II Nullité et droits antérieurs
 
@@ -1589,7 +1603,7 @@ Le service central de la propriété industrielle auquel la demande de brevet eu
 
 <sup>(1)</sup>
 
-Sous réserve de l’art. 139, le brevet européen ne peut être déclaré nul, avec effet pour un Etat contractant, que si:
+Sous réserve de l’art. 139, le brevet européen ne peut être déclaré nul, avec effet pour un État contractant, que si:
 
 - a) l’objet du brevet européen n’est pas brevetable en vertu des art. 52 à 57;
 - b) le brevet européen n’expose pas l’invention de façon suffisamment claire et complète pour qu’un homme du métier puisse l’exécuter;
@@ -1605,11 +1619,11 @@ Sous réserve de l’art. 139, le brevet européen ne peut être déclaré nul, 
 
 **Droits antérieurs et droits ayant pris naissance à la même date**
 
-<sup>(1)</sup> Dans tout Etat contractant désigné, une demande de brevet européen ou un brevet européen est traité du point de vue des droits antérieurs, par rapport à une demande de brevet national ou à un brevet national, de la même manière que s’il s’agissait d’une demande de brevet national ou d’un brevet national.
+<sup>(1)</sup> Dans tout État contractant désigné, une demande de brevet européen ou un brevet européen est traité du point de vue des droits antérieurs, par rapport à une demande de brevet national ou à un brevet national, de la même manière que s’il s’agissait d’une demande de brevet national ou d’un brevet national.
 
-<sup>(2)</sup> Une demande de brevet national ou un brevet national d’un Etat contractant est traité du point de vue des droits antérieurs, par rapport à un brevet européen qui désigne cet Etat contractant, de la même manière que si ce brevet européen était un brevet national.
+<sup>(2)</sup> Une demande de brevet national ou un brevet national d’un État contractant est traité du point de vue des droits antérieurs, par rapport à un brevet européen qui désigne cet État contractant, de la même manière que si ce brevet européen était un brevet national.
 
-<sup>(3)</sup> Tout Etat contractant demeure libre de décider si et dans quelles conditions peuvent être cumulées les protections assurées à une invention exposée à la fois dans une demande de brevet ou un brevet européen et dans une demande de brevet ou un brevet national ayant la même date de dépôt ou, si une priorité est revendiquée, la même date de priorité.
+<sup>(3)</sup> Tout État contractant demeure libre de décider si et dans quelles conditions peuvent être cumulées les protections assurées à une invention exposée à la fois dans une demande de brevet ou un brevet européen et dans une demande de brevet ou un brevet national ayant la même date de dépôt ou, si une priorité est revendiquée, la même date de priorité.
 
 ### Chapitre III Autres incidences sur le droit national
 
@@ -1617,7 +1631,7 @@ Sous réserve de l’art. 139, le brevet européen ne peut être déclaré nul, 
 
 **Modèles d’utilité et certificats d’utilité nationaux**
 
-Les art. 66, 124, 135, 137 et 139 sont applicables aux modèles d’utilité ou aux certificats d’utilité ainsi qu’aux demandes correspondantes, dans les Etats contractants dont la législation prévoit de tels titres de protection.
+Les art. 66, 124, 135, 137 et 139 sont applicables aux modèles d’utilité ou aux certificats d’utilité ainsi qu’aux demandes correspondantes, dans les États contractants dont la législation prévoit de tels titres de protection.
 
 #### Art. 141
 
@@ -1633,70 +1647,70 @@ Les art. 66, 124, 135, 137 et 139 sont applicables aux modèles d’utilité ou 
 
 **Brevet unitaire**
 
-<sup>(1)</sup> Tout groupe d’Etats contractants qui, dans un accord particulier, a disposé que les brevets européens délivrés pour ces Etats auront un caractère unitaire sur l’ensemble de leurs territoires, peut prévoir que les brevets européens ne pourront être délivrés que conjointement pour tous ces Etats.
+<sup>(1)</sup> Tout groupe d’États contractants qui, dans un accord particulier, a disposé que les brevets européens délivrés pour ces États auront un caractère unitaire sur l’ensemble de leurs territoires, peut prévoir que les brevets européens ne pourront être délivrés que conjointement pour tous ces États.
 
-<sup>(2)</sup> Les dispositions de la présente partie sont applicables lorsqu’un groupe d’Etats contractants a fait usage de la faculté visée au par. 1.
+<sup>(2)</sup> Les dispositions de la présente partie sont applicables lorsqu’un groupe d’États contractants a fait usage de la faculté visée au par. 1.
 
 #### Art. 143
 
 **Instances spéciales de l’Office européen des brevets**
 
-<sup>(1)</sup> Le groupe d’Etats contractants peut confier des tâches supplémentaires à l’Office européen des brevets.
+<sup>(1)</sup> Le groupe d’États contractants peut confier des tâches supplémentaires à l’Office européen des brevets.
 
-<sup>(2)</sup> Il peut, pour l’exécution de ces tâches supplémentaires, être créé à l’Office européen des brevets des instances spéciales communes aux Etats appartenant à ce groupe. Le Président de l’Office européen des brevets assure la direction de ces instances spéciales; les dispositions de l’art. 10, par. 2 et 3, sont applicables.
+<sup>(2)</sup> Il peut, pour l’exécution de ces tâches supplémentaires, être créé à l’Office européen des brevets des instances spéciales communes aux États appartenant à ce groupe. Le Président de l’Office européen des brevets assure la direction de ces instances spéciales; les dispositions de l’art. 10, par. 2 et 3, sont applicables.
 
 #### Art. 144
 
 **Représentation devant les instances spéciales**
 
-Le groupe d’Etats contractants peut prévoir une réglementation spéciale pour la représentation des parties devant les instances visées à l’art. 143, par. 2.
+Le groupe d’États contractants peut prévoir une réglementation spéciale pour la représentation des parties devant les instances visées à l’art. 143, par. 2.
 
 #### Art. 145
 
 **Comité restreint du Conseil d’administration**
 
-<sup>(1)</sup> Le groupe d’Etats contractants peut instituer un Comité restreint du Conseil d’administration afin de contrôler l’activité des instances spéciales créées en vertu de l’art. 143, par. 2; l’Office européen des brevets met à la disposition de ce Comité le personnel, les locaux et les moyens matériels nécessaires à l’accomplissement de sa mission. Le Président de l’Office européen des brevets est responsable des activités des instances spéciales devant le Comité restreint du Conseil d’administration.
+<sup>(1)</sup> Le groupe d’États contractants peut instituer un Comité restreint du Conseil d’administration afin de contrôler l’activité des instances spéciales créées en vertu de l’art. 143, par. 2; l’Office européen des brevets met à la disposition de ce Comité le personnel, les locaux et les moyens matériels nécessaires à l’accomplissement de sa mission. Le Président de l’Office européen des brevets est responsable des activités des instances spéciales devant le Comité restreint du Conseil d’administration.
 
-<sup>(2)</sup> La composition, les compétences et les activités du Comité restreint sont déterminées par le groupe d’Etats contractants.
+<sup>(2)</sup> La composition, les compétences et les activités du Comité restreint sont déterminées par le groupe d’États contractants.
 
 #### Art. 146
 
 **Couverture des dépenses pour les tâches spéciales**
 
-Pour autant qu’un groupe d’Etats contractants ait attribué des tâches supplémentaires à l’Office européen des brevets au sens de l’art. 143, il prend à sa charge les frais qu’entraîne pour l’Organisation l’exécution de ces tâches. Si des instances spéciales ont été instituées au sein de l’Office européen des brevets pour l’exécution de ces tâches supplémentaires, le groupe d’Etats contractants prend à sa charge les dépenses de personnel, de locaux et de matériel imputables auxdites instances. Les art. 39, par. 3 et 4, 41 et 47 sont applicables.
+Pour autant qu’un groupe d’États contractants ait attribué des tâches supplémentaires à l’Office européen des brevets au sens de l’art. 143, il prend à sa charge les frais qu’entraîne pour l’Organisation l’exécution de ces tâches. Si des instances spéciales ont été instituées au sein de l’Office européen des brevets pour l’exécution de ces tâches supplémentaires, le groupe d’États contractants prend à sa charge les dépenses de personnel, de locaux et de matériel imputables auxdites instances. Les art. 39, par. 3 et 4, 41 et 47 sont applicables.
 
 #### Art. 147
 
 **Versements au titre des taxes de maintien en vigueur du brevet unitaire**
 
-Si le groupe d’Etats contractants a établi un barème unique pour les taxes annuelles, le pourcentage visé à l’art. 39, par. 1, est calculé sur ce barème unique; le minimum visé à l’art. 39, par. 1, est également un minimum en ce qui concerne le brevet unitaire. L’art. 39, par. 3 et 4, est applicable.
+Si le groupe d’États contractants a établi un barème unique pour les taxes annuelles, le pourcentage visé à l’art. 39, par. 1, est calculé sur ce barème unique; le minimum visé à l’art. 39, par. 1, est également un minimum en ce qui concerne le brevet unitaire. L’art. 39, par. 3 et 4, est applicable.
 
 #### Art. 148
 
 **De la demande de brevet européen comme objet de propriété**
 
-<sup>(1)</sup> L’art. 74 est applicable lorsque le groupe d’Etats contractants n’a pas prévu d’autres dispositions.
+<sup>(1)</sup> L’art. 74 est applicable lorsque le groupe d’États contractants n’a pas prévu d’autres dispositions.
 
-<sup>(2)</sup> Le groupe d’Etats contractants peut prescrire que la demande de brevet européen, pour autant que ces Etats contractants sont désignés, ne peut être transférée, faire l’objet d’un nantissement ou d’une exécution forcée que pour tous ces Etats contractants et conformément aux dispositions de l’accord particulier.
+<sup>(2)</sup> Le groupe d’États contractants peut prescrire que la demande de brevet européen, pour autant que ces États contractants sont désignés, ne peut être transférée, faire l’objet d’un nantissement ou d’une exécution forcée que pour tous ces États contractants et conformément aux dispositions de l’accord particulier.
 
 #### Art. 149
 
 **Désignation conjointe**
 
-<sup>(1)</sup> Le groupe d’Etats contractants peut prescrire que la désignation des Etats du groupe ne peut se faire que conjointement et que la désignation d’un ou de plusieurs Etats dudit groupe vaut désignation de l’ensemble de ceux‑ci.
+<sup>(1)</sup> Le groupe d’États contractants peut prescrire que la désignation des États du groupe ne peut se faire que conjointement et que la désignation d’un ou de plusieurs États dudit groupe vaut désignation de l’ensemble de ceux‑ci.
 
-<sup>(2)</sup> Lorsque l’Office européen des brevets est l’office désigné au sens de l’art. 153, par. 1, le par. 1 du présent article est applicable si le demandeur fait connaître dans la demande internationale qu’il entend obtenir un brevet européen pour les Etats du groupe qu’il a désignés ou pour l’un d’entre eux seulement. La présente disposition est également applicable lorsque le demandeur a désigné dans la demande internationale un Etat contractant appartenant à ce groupe, si la législation de cet Etat prévoit qu’une désignation dudit Etat a les effets d’une demande de brevet européen.
+<sup>(2)</sup> Lorsque l’Office européen des brevets est l’office désigné au sens de l’art. 153, par. 1, le par. 1 du présent article est applicable si le demandeur fait connaître dans la demande internationale qu’il entend obtenir un brevet européen pour les États du groupe qu’il a désignés ou pour l’un d’entre eux seulement. La présente disposition est également applicable lorsque le demandeur a désigné dans la demande internationale un État contractant appartenant à ce groupe, si la législation de cet État prévoit qu’une désignation dudit État a les effets d’une demande de brevet européen.
 
 #### Art. 149<sup>bis</sup>
 
-**Autres accords entre les Etats contractants**
+**Autres accords entre les États contractants**
 
-<sup>(1)</sup> La présente Convention ne saurait être interprétée en ce sens qu’elle limite le droit de tous les Etats contractants ou de plusieurs d’entre eux de conclure des accords particuliers sur des questions relatives aux demandes de brevet européen ou aux brevets européens qui, en vertu de la présente Convention, relèvent du droit national et sont régis par lui, comme notamment
+<sup>(1)</sup> La présente Convention ne saurait être interprétée en ce sens qu’elle limite le droit de tous les États contractants ou de plusieurs d’entre eux de conclure des accords particuliers sur des questions relatives aux demandes de brevet européen ou aux brevets européens qui, en vertu de la présente Convention, relèvent du droit national et sont régis par lui, comme notamment
 
-- a) un accord portant création d’une juridiction des brevets européens commune aux Etats contractants parties audit accord;
-- b) un accord portant création d’une entité commune aux Etats contractants parties audit accord qui donne, sur requête des juridictions ou autorités quasi judiciaires nationales, des avis sur des questions relatives au droit européen des brevets ou au droit national harmonisé avec celui‑ci;
-- c) un accord aux termes duquel les Etats contractants parties audit accord renoncent en tout ou en partie aux traductions de brevets européens prévues à l’art. 65;
-- d) un accord aux termes duquel les Etats contractants parties audit accord prévoient que les traductions de brevets européens exigées conformément à l’art. 65 peuvent être produites auprès de l’Office européen des brevets et publiées par celui‑ci.
+- a) un accord portant création d’une juridiction des brevets européens commune aux États contractants parties audit accord;
+- b) un accord portant création d’une entité commune aux États contractants parties audit accord qui donne, sur requête des juridictions ou autorités quasi judiciaires nationales, des avis sur des questions relatives au droit européen des brevets ou au droit national harmonisé avec celui‑ci;
+- c) un accord aux termes duquel les États contractants parties audit accord renoncent en tout ou en partie aux traductions de brevets européens prévues à l’art. 65;
+- d) un accord aux termes duquel les États contractants parties audit accord prévoient que les traductions de brevets européens exigées conformément à l’art. 65 peuvent être produites auprès de l’Office européen des brevets et publiées par celui‑ci.
 
 <sup>(2)</sup> Le Conseil d’administration a compétence pour décider que
 
@@ -1726,16 +1740,18 @@ L’Office européen des brevets agit en qualité d’office récepteur au sens 
 
 **L’Office européen des brevets, administration chargée de la recherche internationale ou administration chargée de l’examen préliminaire international**
 
-L’Office européen des brevets agit en qualité d’administration chargée de la recherche internationale et en qualité d’administration chargée de l’examen préliminaire international au sens du PCT, conformément à un accord conclu entre l’Organisation et le Bureau international de l’Organisation Mondiale de la Propriété Intellectuelle, pour les demandeurs qui soit ont la nationalité d’un Etat partie à la présente Convention, soit y ont leur domicile ou leur siège. Cet accord peut prévoir que l’Office européen des brevets agit aussi pour d’autres demandeurs.
+L’Office européen des brevets agit en qualité d’administration chargée de la recherche internationale et en qualité d’administration chargée de l’examen préliminaire international au sens du PCT, conformément à un accord conclu entre l’Organisation et le Bureau international de l’Organisation Mondiale de la Propriété Intellectuelle, pour les demandeurs qui soit ont la nationalité d’un État partie à la présente Convention, soit y ont leur domicile ou leur siège. Cet accord peut prévoir que l’Office européen des brevets agit aussi pour d’autres demandeurs.
 
 #### Art. 153
 
 **L’Office européen des brevets, office désigné ou office élu**
 
-<sup>(1)</sup> L’Office européen des brevets est
+<sup>(1)</sup>
 
-- a) office désigné pour tout Etat partie à la présente Convention pour lequel le PCT est en vigueur, qui est désigné dans la demande internationale et pour lequel le demandeur souhaite obtenir un brevet européen, et
-- b) office élu, lorsque le demandeur a élu un Etat désigné conformément à la let. a).
+L’Office européen des brevets est:
+
+- a) office désigné pour tout État partie à la présente Convention pour lequel le PCT est en vigueur, qui est désigné dans la demande internationale et pour lequel le demandeur souhaite obtenir un brevet européen, et
+- b) office élu, lorsque le demandeur a élu un État désigné conformément à la let. a).
 
 <sup>(2)</sup> Une demande internationale pour laquelle l’Office européen des brevets est office désigné ou élu et à laquelle une date de dépôt internationale a été attribuée a la valeur d’une demande européenne régulière (demande euro‑PCT).
 
@@ -1804,7 +1820,7 @@ L’Office européen des brevets agit en qualité d’administration chargée de
 
 **Signature – Ratification**
 
-<sup>(1)</sup> La présente Convention est ouverte jusqu’au 5 avril 1974 à la signature des Etats qui ont participé à la Conférence intergouvernementale pour l’institution d’un système européen de délivrance de brevets ou qui ont été informés de la tenue de cette conférence et auxquels la faculté d’y participer a été offerte.
+<sup>(1)</sup> La présente Convention est ouverte jusqu’au 5 avril 1974 à la signature des États qui ont participé à la Conférence intergouvernementale pour l’institution d’un système européen de délivrance de brevets ou qui ont été informés de la tenue de cette conférence et auxquels la faculté d’y participer a été offerte.
 
 <sup>(2)</sup> La présente Convention est soumise à ratification; les instruments de ratification sont déposés auprès du gouvernement de la République fédérale d’Allemagne.
 
@@ -1816,10 +1832,10 @@ L’Office européen des brevets agit en qualité d’administration chargée de
 
 La présente Convention est ouverte à l’adhésion:
 
-- a) des Etats visés à l’art. 165, par. 1;
-- b) de tout autre Etat européen, sur l’invitation du Conseil d’administration.
+- a) des États visés à l’art. 165, par. 1;
+- b) de tout autre État européen, sur l’invitation du Conseil d’administration.
 
-<sup>(2)</sup> Tout Etat qui a été partie à la présente Convention et qui a cessé de l’être en application de l’art. 172, par. 4, peut à nouveau devenir partie à la convention en y adhérant.
+<sup>(2)</sup> Tout État qui a été partie à la présente Convention et qui a cessé de l’être en application de l’art. 172, par. 4, peut à nouveau devenir partie à la convention en y adhérant.
 
 <sup>(3)</sup> Les instruments d’adhésion sont déposés auprès du gouvernement de la République fédérale d’Allemagne.
 
@@ -1833,17 +1849,17 @@ La présente Convention est ouverte à l’adhésion:
 
 **Champ d’application territorial**
 
-<sup>(1)</sup> Tout Etat contractant peut déclarer, dans son instrument de ratification ou d’adhésion, ou à tout moment ultérieur, dans une notification adressée au gouvernement de la République fédérale d’Allemagne, que la convention est applicable à un ou plusieurs territoires pour lesquels il assume la responsabilité des relations extérieures. Les brevets européens délivrés pour cet Etat contractant ont également effet sur les territoires pour lesquels cette déclaration a pris effet.
+<sup>(1)</sup> Tout État contractant peut déclarer, dans son instrument de ratification ou d’adhésion, ou à tout moment ultérieur, dans une notification adressée au gouvernement de la République fédérale d’Allemagne, que la convention est applicable à un ou plusieurs territoires pour lesquels il assume la responsabilité des relations extérieures. Les brevets européens délivrés pour cet État contractant ont également effet sur les territoires pour lesquels cette déclaration a pris effet.
 
 <sup>(2)</sup> Si la déclaration visée au par. 1 est incluse dans l’instrument de ratification ou d’adhésion, elle prend effet à la même date que la ratification ou l’adhésion; si la déclaration est faite dans une notification postérieure au dépôt de l’instrument de ratification ou d’adhésion, cette notification prend effet six mois après la date de sa réception par le gouvernement de la République fédérale d’Allemagne.
 
-<sup>(3)</sup> Tout Etat contractant peut à tout moment déclarer que la convention cesse d’être applicable à certains ou à l’ensemble des territoires pour lesquels il a fait une déclaration en vertu du par. 1. Cette déclaration prend effet à l’expiration d’un délai d’une année à compter de la date à laquelle le gouvernement de la République fédérale d’Allemagne en a reçu notification.
+<sup>(3)</sup> Tout État contractant peut à tout moment déclarer que la convention cesse d’être applicable à certains ou à l’ensemble des territoires pour lesquels il a fait une déclaration en vertu du par. 1. Cette déclaration prend effet à l’expiration d’un délai d’une année à compter de la date à laquelle le gouvernement de la République fédérale d’Allemagne en a reçu notification.
 
 #### Art. 169
 
 **Entrée en vigueur**
 
-<sup>(1)</sup> La présente Convention entre en vigueur trois mois après le dépôt du dernier des instruments de ratification ou d’adhésion de six Etats sur le territoire desquels le nombre total de demandes de brevet déposées en 1970 s’est élevé à 180 000 au moins pour l’ensemble desdits Etats.
+<sup>(1)</sup> La présente Convention entre en vigueur trois mois après le dépôt du dernier des instruments de ratification ou d’adhésion de six États sur le territoire desquels le nombre total de demandes de brevet déposées en 1970 s’est élevé à 180 000 au moins pour l’ensemble desdits États.
 
 <sup>(2)</sup> Toute ratification ou adhésion postérieure à l’entrée en vigueur de la présente Convention prend effet le premier jour du troisième mois suivant le dépôt de l’instrument de ratification ou d’adhésion.
 
@@ -1851,11 +1867,11 @@ La présente Convention est ouverte à l’adhésion:
 
 **Cotisation initiale**
 
-<sup>(1)</sup> Tout Etat qui ratifie la présente Convention ou y adhère après son entrée en vigueur verse à l’Organisation une cotisation initiale qui ne sera pas remboursée.
+<sup>(1)</sup> Tout État qui ratifie la présente Convention ou y adhère après son entrée en vigueur verse à l’Organisation une cotisation initiale qui ne sera pas remboursée.
 
-<sup>(2)</sup> La cotisation initiale est égale à 5 % du montant qui résulte, pour un tel Etat, de l’application, au montant total des sommes dues par les autres Etats contractants au titre des exercices budgétaires antérieurs, de la clé de répartition des contributions financières exceptionnelles prévue à l’art. 40, par. 3 et 4, telle qu’elle est en vigueur à la date à laquelle la ratification ou l’adhésion dudit Etat prend effet.
+<sup>(2)</sup> La cotisation initiale est égale à 5 % du montant qui résulte, pour un tel État, de l’application, au montant total des sommes dues par les autres États contractants au titre des exercices budgétaires antérieurs, de la clé de répartition des contributions financières exceptionnelles prévue à l’art. 40, par. 3 et 4, telle qu’elle est en vigueur à la date à laquelle la ratification ou l’adhésion dudit État prend effet.
 
-<sup>(3)</sup> Dans le cas où des contributions financières exceptionnelles n’ont pas été exigées pour l’exercice budgétaire qui précède celui où se situe la date visée au par. 2, la clé de répartition visée dans ce paragraphe est celle qui aurait été applicable à l’Etat concerné pour le dernier exercice budgétaire au titre duquel des contributions financières exceptionnelles ont été appelées.
+<sup>(3)</sup> Dans le cas où des contributions financières exceptionnelles n’ont pas été exigées pour l’exercice budgétaire qui précède celui où se situe la date visée au par. 2, la clé de répartition visée dans ce paragraphe est celle qui aurait été applicable à l’État concerné pour le dernier exercice budgétaire au titre duquel des contributions financières exceptionnelles ont été appelées.
 
 #### Art. 171
 
@@ -1867,47 +1883,47 @@ La présente Convention est conclue sans limitation de durée.
 
 **Révision**
 
-<sup>(1)</sup> La présente Convention peut être révisée par une conférence des Etats contractants.
+<sup>(1)</sup> La présente Convention peut être révisée par une conférence des États contractants.
 
-<sup>(2)</sup> La conférence est préparée et convoquée par le Conseil d’administration. Elle ne délibère valablement que si les trois quarts au moins des Etats contractants y sont représentés. Pour être adopté, le texte révisé de la convention doit être approuvé par les trois quarts des Etats contractants représentés à la conférence et votants. L’abstention n’est pas considérée comme un vote.
+<sup>(2)</sup> La conférence est préparée et convoquée par le Conseil d’administration. Elle ne délibère valablement que si les trois quarts au moins des États contractants y sont représentés. Pour être adopté, le texte révisé de la convention doit être approuvé par les trois quarts des États contractants représentés à la conférence et votants. L’abstention n’est pas considérée comme un vote.
 
-<sup>(3)</sup> Le texte révisé de la convention entre en vigueur après le dépôt des instruments de ratification ou d’adhésion d’un nombre d’Etats contractants déterminé par la conférence et à la date qu’elle a fixée.
+<sup>(3)</sup> Le texte révisé de la convention entre en vigueur après le dépôt des instruments de ratification ou d’adhésion d’un nombre d’États contractants déterminé par la conférence et à la date qu’elle a fixée.
 
-<sup>(4)</sup> Les Etats qui, à la date d’entrée en vigueur de la convention révisée, ne l’ont pas ratifiée ou n’y ont pas adhéré, cessent d’être parties à la présente Convention à compter de ladite date.
+<sup>(4)</sup> Les États qui, à la date d’entrée en vigueur de la convention révisée, ne l’ont pas ratifiée ou n’y ont pas adhéré, cessent d’être parties à la présente Convention à compter de ladite date.
 
 #### Art. 173
 
-**Différends entre Etats contractants**
+**Différends entre États contractants**
 
-<sup>(1)</sup> Tout différend entre Etats contractants qui concerne l’interprétation ou l’application de la présente Convention et n’a pas été réglé par voie de négociation est, sur demande de l’un des Etats en cause, soumis au Conseil d’administration qui s’emploie à faire intervenir un accord entre lesdits Etats.
+<sup>(1)</sup> Tout différend entre États contractants qui concerne l’interprétation ou l’application de la présente Convention et n’a pas été réglé par voie de négociation est, sur demande de l’un des États en cause, soumis au Conseil d’administration qui s’emploie à faire intervenir un accord entre lesdits États.
 
-<sup>(2)</sup> Si un tel accord n’est pas intervenu dans un délai de six mois à compter de la date à laquelle le Conseil d’administration a été saisi du différend, l’un quelconque des Etats en cause peut porter le différend devant la Cour internationale de Justice en vue d’une décision liant les parties en cause.
+<sup>(2)</sup> Si un tel accord n’est pas intervenu dans un délai de six mois à compter de la date à laquelle le Conseil d’administration a été saisi du différend, l’un quelconque des États en cause peut porter le différend devant la Cour internationale de Justice en vue d’une décision liant les parties en cause.
 
 #### Art. 174
 
 **Dénonciation**
 
-Tout Etat contractant peut à tout moment dénoncer la présente Convention. La dénonciation est notifiée au gouvernement de la République fédérale d’Allemagne. Elle prend effet à l’expiration du délai d’une année à compter de la date de réception de cette notification.
+Tout État contractant peut à tout moment dénoncer la présente Convention. La dénonciation est notifiée au gouvernement de la République fédérale d’Allemagne. Elle prend effet à l’expiration du délai d’une année à compter de la date de réception de cette notification.
 
 #### Art. 175
 
 **Réserve des droits acquis**
 
-<sup>(1)</sup> Lorsqu’un Etat cesse d’être partie à la convention en vertu de l’art. 172, par. 4, ou de l’art. 174, il n’est pas porté atteinte aux droits acquis antérieurement en vertu de la présente Convention.
+<sup>(1)</sup> Lorsqu’un État cesse d’être partie à la convention en vertu de l’art. 172, par. 4, ou de l’art. 174, il n’est pas porté atteinte aux droits acquis antérieurement en vertu de la présente Convention.
 
-<sup>(2)</sup> Les demandes de brevet européen en instance à la date à laquelle un Etat désigné cesse d’être partie à la convention continuent à être instruites par l’Office européen des brevets, en ce qui concerne ledit Etat, comme si la convention, telle qu’elle est en vigueur après cette date, lui était applicable.
+<sup>(2)</sup> Les demandes de brevet européen en instance à la date à laquelle un État désigné cesse d’être partie à la convention continuent à être instruites par l’Office européen des brevets, en ce qui concerne ledit État, comme si la convention, telle qu’elle est en vigueur après cette date, lui était applicable.
 
 <sup>(3)</sup> Les dispositions du par. 2 sont applicables aux brevets européens à l’égard desquels, à la date mentionnée audit paragraphe, une opposition est en instance ou le délai d’opposition n’est pas expiré.
 
-<sup>(4)</sup> Le présent article ne porte pas atteinte au droit d’un Etat qui a cessé d’être partie à la présente Convention d’appliquer aux brevets européens les dispositions du texte de la convention à laquelle il était partie.
+<sup>(4)</sup> Le présent article ne porte pas atteinte au droit d’un État qui a cessé d’être partie à la présente Convention d’appliquer aux brevets européens les dispositions du texte de la convention à laquelle il était partie.
 
 #### Art. 176
 
-**Droits et obligations en matière financière d’un Etat contractant ayant cessé d’être partie à la convention**
+**Droits et obligations en matière financière d’un État contractant ayant cessé d’être partie à la convention**
 
-<sup>(1)</sup> Tout Etat qui a cessé d’être partie à la présente Convention en application de l’art. 172, par. 4, ou de l’art. 174 n’est remboursé par l’Organisation des contributions financières exceptionnelles qu’il a versées au titre de l’art. 40, par. 2, qu’à la date et dans les conditions où l’Organisation rembourse les contributions financières exceptionnelles qui lui ont été versées par d’autres Etats au cours du même exercice budgétaire.
+<sup>(1)</sup> Tout État qui a cessé d’être partie à la présente Convention en application de l’art. 172, par. 4, ou de l’art. 174 n’est remboursé par l’Organisation des contributions financières exceptionnelles qu’il a versées au titre de l’art. 40, par. 2, qu’à la date et dans les conditions où l’Organisation rembourse les contributions financières exceptionnelles qui lui ont été versées par d’autres États au cours du même exercice budgétaire.
 
-<sup>(2)</sup> Les sommes dont le montant correspond au pourcentage des taxes perçues pour le maintien en vigueur des brevets européens dans l’Etat visé au par. 1, telles qu’elles sont définies à l’art. 39, sont dues par cet Etat, alors même qu’il a cessé d’être partie à la présente Convention; le montant de ces sommes est celui qui devait être versé par l’Etat en cause à la date à laquelle il a cessé d’être partie à la présente Convention.
+<sup>(2)</sup> Les sommes dont le montant correspond au pourcentage des taxes perçues pour le maintien en vigueur des brevets européens dans l’État visé au par. 1, telles qu’elles sont définies à l’art. 39, sont dues par cet État, alors même qu’il a cessé d’être partie à la présente Convention; le montant de ces sommes est celui qui devait être versé par l’État en cause à la date à laquelle il a cessé d’être partie à la présente Convention.
 
 #### Art. 177
 
@@ -1915,17 +1931,17 @@ Tout Etat contractant peut à tout moment dénoncer la présente Convention. La 
 
 <sup>(1)</sup> La présente Convention est rédigée en un exemplaire en langues allemande, anglaise et française, qui est déposé aux archives du gouvernement de la République fédérale d’Allemagne, les trois textes faisant également foi.
 
-<sup>(2)</sup> Les textes de la présente Convention établis dans des langues officielles des Etats contractants autres que celles visées au par. 1 et agréés par le Conseil d’administration sont considérés comme textes officiels. En cas de contestation sur l’interprétation des divers textes, les textes visés au par. 1 font foi.
+<sup>(2)</sup> Les textes de la présente Convention établis dans des langues officielles des États contractants autres que celles visées au par. 1 et agréés par le Conseil d’administration sont considérés comme textes officiels. En cas de contestation sur l’interprétation des divers textes, les textes visés au par. 1 font foi.
 
 #### Art. 178
 
 **Transmissions et notifications**
 
-<sup>(1)</sup> Le gouvernement de la République fédérale d’Allemagne établit des copies certifiées conformes de la présente Convention et les transmet aux gouvernements de tous les Etats signataires ou adhérents.
+<sup>(1)</sup> Le gouvernement de la République fédérale d’Allemagne établit des copies certifiées conformes de la présente Convention et les transmet aux gouvernements de tous les États signataires ou adhérents.
 
 <sup>(2)</sup>
 
-Le gouvernement de la République fédérale d’Allemagne notifie aux gouvernements des Etats visés au par. 1:
+Le gouvernement de la République fédérale d’Allemagne notifie aux gouvernements des États visés au par. 1:
 
 - a) le dépôt de tout instrument de ratification ou d’adhésion;
 - b) toute déclaration ou notification reçue en application de l’art. 168;
@@ -1933,7 +1949,7 @@ Le gouvernement de la République fédérale d’Allemagne notifie aux gouvernem
 
 <sup>(3)</sup> Le gouvernement de la République fédérale d’Allemagne fait enregistrer la présente Convention auprès du Secrétariat de l’Organisation des Nations Unies.
 
-## Décision du conseil d’administration du 28 juin 2001****
+## Décision du conseil d’administration du 28 juin 2001
 
 [^lvlu13-1]
 
@@ -1956,10 +1972,10 @@ Conformément à l’art. 7, par. 1, deuxième phrase de l’acte de révision, 
 
 La présente décision prend effet à la date d’entrée en vigueur du texte révisé de la convention conformément à l’art. 8 de l’acte de révision.
 
-Champ d’application le 3 mai 2013**[^t-4]**
+Champ d’application le 21 octobre 2024[^t-4]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>11 février</td><td>2010 A</td><td>1<sup>er</sup> mai</td><td>2010</td></tr>
 <tr><td>Allemagne</td><td>31 octobre</td><td>2007</td><td>13 décembre</td><td>2007</td></tr>
 <tr><td>Autriche</td><td>6 juin</td><td>2006</td><td>13 décembre</td><td>2007</td></tr>
@@ -1981,9 +1997,10 @@ Champ d’application le 3 mai 2013**[^t-4]**
 <tr><td>Liechtenstein</td><td>23 novembre</td><td>2006</td><td>13 décembre</td><td>2007</td></tr>
 <tr><td>Lituanie</td><td>3 septembre</td><td>2004 A</td><td>13 décembre</td><td>2007</td></tr>
 <tr><td>Luxembourg</td><td>18 septembre</td><td>2007</td><td>13 décembre</td><td>2007</td></tr>
-<tr><td>Macédoine</td><td>28 octobre</td><td>2008 A</td><td>1<sup>er</sup> janvier</td><td>2009</td></tr>
+<tr><td>Macédoine du Nord</td><td>28 octobre</td><td>2008 A</td><td>1<sup>er</sup> janvier</td><td>2009</td></tr>
 <tr><td>Malte</td><td>1<sup>er</sup> décembre</td><td>2006 A</td><td>13 décembre</td><td>2007</td></tr>
 <tr><td>Monaco</td><td>12 novembre</td><td>2003</td><td>13 décembre</td><td>2007</td></tr>
+<tr><td>Monténégro</td><td>15 octobre</td><td>2022 A</td><td>1<sup>er</sup> octobre</td><td>2022</td></tr>
 <tr><td>Norvège</td><td>5 octobre</td><td>2007 A</td><td>1<sup>er</sup> janvier</td><td>2008</td></tr>
 <tr><td>Pays-Bas</td><td>4 octobre</td><td>2006</td><td>13 décembre</td><td>2007</td></tr>
 <tr><td>Pologne</td><td>30 décembre</td><td>2003 A</td><td>13 décembre</td><td>2007</td></tr>
@@ -2000,4 +2017,4 @@ Champ d’application le 3 mai 2013**[^t-4]**
 <tr><td>Turquie</td><td>12 novembre</td><td>2007</td><td>13 décembre</td><td>2007</td></tr>
 </table>
 
-[^t-4]: [RO 2007 6485](https://fedlex.data.admin.ch/eli/oc/2007/849), [2009 3947](https://fedlex.data.admin.ch/eli/oc/2009/500), [2013 1473](https://fedlex.data.admin.ch/eli/oc/2013/342). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-4]: [RO 2007 6485](https://fedlex.data.admin.ch/eli/oc/2007/849); [2009 3947](https://fedlex.data.admin.ch/eli/oc/2009/500); [2013 1473](https://fedlex.data.admin.ch/eli/oc/2013/342); [2024 584](https://fedlex.data.admin.ch/eli/oc/2024/584). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

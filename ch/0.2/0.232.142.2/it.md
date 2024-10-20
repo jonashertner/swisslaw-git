@@ -4,11 +4,11 @@ title: "Convenzione del 5 ottobre 1973 sul brevetto europeo, riveduta a Monaco i
 short: CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/849"
 language: it
-version: 2013-05-03
+version: 2024-10-21
 adopted: 2000-11-29
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/849/20130503/it/xml/fedlex-data-admin-ch-eli-cc-2007-849-20130503-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/849/20130503/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/849/20241021/it/xml/fedlex-data-admin-ch-eli-cc-2007-849-20241021-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/849/20241021/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -21,23 +21,11 @@ Traduzione
 
 (CBE 2000)
 
-Conclusa a Monaco il 5 ottobre 1973
+Conclusa a Monaco il 5 ottobre 1973 Approvata dall’Assemblea federale il 29 novembre 1976[^t-1] Strumento di ratifica depositato dalla Svizzera il 20 aprile 1977 Entrata in vigore per la Svizzera il 7 ottobre 1977
 
-Approvata dall’Assemblea federale il 29 novembre 1976[^t-1]
+Riveduta a Monaco il 29 novembre 2000[^t-2] Approvata dall’Assemblea federale il 16 dicembre 2005[^t-3] Strumento di ratifica depositato dalla Svizzera il 12 giugno 2006 Entrata in vigore per la Svizzera il 13 dicembre 2007
 
-Strumento di ratifica depositato dalla Svizzera il 20 aprile 1977
-
-Entrata in vigore per la Svizzera il 7 ottobre 1977
-
-Riveduta a Monaco il 29 novembre 2000[^t-2]
-
-Approvata dall’Assemblea federale il 16 dicembre 2005[^t-3]
-
-Strumento di ratifica depositato dalla Svizzera il 12 giugno 2006
-
-Entrata in vigore per la Svizzera il 13 dicembre 2007
-
-(Stato 3 maggio 2013)
+(Stato 21 ottobre 2024)
 
 [^t-1]: Art. 1 n. 3 del DF del 29 nov. 1976 ([RU 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709)).
 [^t-2]: [RU 2007 6485](https://fedlex.data.admin.ch/eli/oc/2007/849); [FF 2005 3397](https://fedlex.data.admin.ch/eli/fga/2005/556)
@@ -760,7 +748,9 @@ L’inventore ha il diritto, nei riguardi del titolare della domanda di brevetto
 
 <sup>(1)</sup> La durata del brevetto europeo è di venti anni a decorrere dalla data di deposito della domanda.
 
-<sup>(2)</sup> Il paragrafo 1 non pregiudica il diritto di uno Stato contraente di prorogare la durata di un brevetto europeo o di concedergli corrispondente protezione alla stessa stregua di quella dei brevetti nazionali allo scadere di detto termine,
+<sup>(2)</sup>
+
+Il paragrafo 1 non pregiudica il diritto di uno Stato contraente di prorogare la durata di un brevetto europeo o di concedergli corrispondente protezione alla stessa stregua di quella dei brevetti nazionali allo scadere di detto termine:
 
 - a) per tenere conto di un caso di guerra o di crisi simile di questo Stato;
 - b) se l’oggetto del brevetto europeo è un prodotti o un procedimento di fabbricazione o un’utilizzazione di un prodotto che prima della sua messa in circolazione in questo Stato sottostà a una procedura amministrativa di autorizzazione perscritta per legge.
@@ -941,7 +931,7 @@ La domanda di brevetto europeo deve soddisfare le condizioni previste dal regola
 
 **Data di deposito**
 
-- [tab] La data di deposito della domanda di brevetto europeo è quella in cui le condizioni previste dal regolamento di esecuzione sono adempiute.
+La data di deposito della domanda di brevetto europeo è quella in cui le condizioni previste dal regolamento di esecuzione sono adempiute.
 
 #### Art. 81
 
@@ -987,7 +977,9 @@ L’estratto serve esclusivamente a fini d’informazione tecnica; esso non può
 
 **Diritto di priorità**
 
-<sup>(1)</sup> Chiunque ha regolarmente depositato una domanda di brevetto d’invenzione, di modello di utilità o di certificato di utilità, in o con effetto per
+<sup>(1)</sup>
+
+Chiunque ha regolarmente depositato una domanda di brevetto d’invenzione, di modello di utilità o di certificato di utilità, in o con effetto per:
 
 - a) uno Stato parte della Convenzione di Parigi per la protezione della proprietà industriale[^87-1], oppure
 - b) uno Stato membro dell’Organizzazione mondiale del commercio, o il suo avente causa, fruisce, durante dodici mesi a decorrere dal giorno di deposito della prima domanda, di un diritto di priorità per effettuare il deposito di una domanda di brevetto europeo per la medesima invenzione.
@@ -1430,7 +1422,7 @@ L’Ufficio europeo dei brevetti tiene un Registro europeo dei brevetti, nel qua
 
 <sup>(4)</sup> Dopo la pubblicazione della domanda di brevetto europeo, gli inserti di tale domanda e del brevetto concesso in base alla medesima possono, su richiesta, essere aperti alla consultazione pubblica, fatte salve le restrizioni previste dal regolamento di esecuzione.
 
-- [tab] (5) L’Ufficio europeo dei brevetti può, già prima della pubblicazione della domanda di brevetto europeo, comunicare a terzi o pubblicare le indicazioni specificate nel regolamento di esecuzione.
+<sup>(5)</sup> L’Ufficio europeo dei brevetti può, già prima della pubblicazione della domanda di brevetto europeo, comunicare a terzi o pubblicare le indicazioni specificate nel regolamento di esecuzione.
 
 #### Art. 129
 
@@ -1538,7 +1530,8 @@ Il Consiglio d’amministrazione è competente a emanare e modificare le disposi
 - b) alla qualificazione e alla formazione richieste per l’ammissione all’esame europeo di idoneità, e all’organizzazione delle prove di tale esame;
 - c) al potere disciplinare esercitato dall’Istituto o dell’Ufficio europeo dei brevetti sui mandatari abilitati;
 - d) all’obbligo di riservatezza del mandatario abilitato e al suo diritto di rifiutarsi di divulgare, nelle procedure dinanzi all’Ufficio europeo dei brevetti, le comunicazioni con il suo cliente o con altre persone.
-- [tab] (2) Tutte le persone iscritte nella lista dei mandatari abilitati di cui all’articolo 134 paragrafo 1 sono membri dell’Istituto.
+
+<sup>(2)</sup> Tutte le persone iscritte nella lista dei mandatari abilitati di cui all’articolo 134 paragrafo 1 sono membri dell’Istituto.
 
 ## Parte ottava Incidenze sul diritto nazionale
 
@@ -1924,11 +1917,13 @@ Il governo della Repubblica federale di Germania notifica ai governi degli Stati
 
 <sup>(3)</sup> Il governo della Repubblica federale di Germania fa registrare la presente convenzione presso la Segreteria dell’Organizzazione delle Nazioni Unite.
 
-Decisione del Consiglio d’amministrazione del 28 luglio 2001**[^178-1]**
+## Decisione del Consiglio d’amministrazione del 28 luglio 2001
+
+[^lvlu13-1]
+
+[^lvlu13-1]: [RU 2007 7133](https://fedlex.data.admin.ch/eli/oc/2007/936)
 
 in vigore dal 13 dicembre 2007
-
-[^178-1]: [RU 2007 7133](https://fedlex.data.admin.ch/eli/oc/2007/936)
 
 #### Art. 1
 
@@ -1945,7 +1940,7 @@ Conformemente all’articolo 7 capoverso 1 secondo periodo dell’atto di revisi
 
 La presente decisione entra in vigore al momento dell’entrata in vigore del testo riveduto della convenzione conformemente all’articolo 8 dell’atto di revisione.
 
-Campo d’applicazione il 3 maggio 2013**[^t-4]**
+Campo d’applicazione il 21 ottobre 2024[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1969,9 +1964,10 @@ Campo d’applicazione il 3 maggio 2013**[^t-4]**
 <tr><td>Liechtenstein</td><td>23 novembre</td><td>2006</td><td>13 dicembre</td><td>2007</td></tr>
 <tr><td>Lituania</td><td>3 settembre</td><td>2004 A</td><td>13 dicembre</td><td>2007</td></tr>
 <tr><td>Lussemburgo</td><td>18 settembre</td><td>2007</td><td>13 dicembre</td><td>2007</td></tr>
-<tr><td>Macedonia</td><td>28 ottobre</td><td>2008 A</td><td>1° gennaio</td><td>2009</td></tr>
+<tr><td>Macedonia del Nord</td><td>28 ottobre</td><td>2008 A</td><td>1° gennaio</td><td>2009</td></tr>
 <tr><td>Malta</td><td>1° dicembre</td><td>2006 A</td><td>13 dicembre</td><td>2007</td></tr>
 <tr><td>Monaco</td><td>12 novembre</td><td>2003</td><td>13 dicembre</td><td>2007</td></tr>
+<tr><td>Montenegro</td><td>15 ottobre</td><td>2022 A</td><td>1° ottobre</td><td>2022</td></tr>
 <tr><td>Norvegia</td><td>5 ottobre</td><td>2007 A</td><td>1°gennaio</td><td>2008</td></tr>
 <tr><td>Paesi Bassi</td><td>4 ottobre</td><td>2006</td><td>13 dicembre</td><td>2007</td></tr>
 <tr><td>Polonia</td><td>30 dicembre</td><td>2003 A</td><td>13 dicembre</td><td>2007</td></tr>
@@ -1989,4 +1985,4 @@ Campo d’applicazione il 3 maggio 2013**[^t-4]**
 <tr><td>Ungheria</td><td>28 ottobre</td><td>2002 A</td><td>13 dicembre</td><td>2007</td></tr>
 </table>
 
-[^t-4]: [RU 2007 6485](https://fedlex.data.admin.ch/eli/oc/2007/849), [2009 3947](https://fedlex.data.admin.ch/eli/oc/2009/500)e [2013 1473](https://fedlex.data.admin.ch/eli/oc/2013/342). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 2007 6485](https://fedlex.data.admin.ch/eli/oc/2007/849); [2009 3947](https://fedlex.data.admin.ch/eli/oc/2009/500); [2013 1473](https://fedlex.data.admin.ch/eli/oc/2013/342); [2024 584](https://fedlex.data.admin.ch/eli/oc/2024/584). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
