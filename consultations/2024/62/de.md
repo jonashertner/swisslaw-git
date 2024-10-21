@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Kriegsmaterialgesetzes (KMG)
 document: Vernehmlassungsvorlage
 language: de

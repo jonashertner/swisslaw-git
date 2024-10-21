@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sul materiale bellico (LMB)
 document: Progetto posto in consultazione
 language: it
