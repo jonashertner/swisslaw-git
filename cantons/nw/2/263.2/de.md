@@ -3,20 +3,19 @@ canton: NW
 number: "263.2"
 title: Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten
 language: de
-version: 2020-01-01
-corrected: 2024-03-20
-version_adopted: 2020-04-20
+version: 2024-10-23
+version_adopted: 2024-10-23
 adopted: 2010-10-12
 in_force: 2011-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/263.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/831/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten
 
-vom 12.10.2010 (Stand 01.01.2020)
+vom 12.10.2010 (Stand 23.10.2024)
 
 Die Kantone Obwalden, Nidwalden und Uri
 
@@ -141,7 +140,7 @@ vereinbaren:
 
 **Inkrafttreten und Kündigung**
 
-<sup>1</sup> Die Vereinbarung tritt nach Unterzeichnung durch die Vertragsparteien und unter den Vorbehalt, dass der Landrat Nidwalden dieser Vereinbarung zustimmt sowie die erforderliche Stellenaufstockung bewilligt, am 1. Januar 2011 in Kraft.
+<sup>1</sup> Die Vereinbarung tritt nach Unterzeichnung durch die Vertragsparteien und unter dem Vorbehalt, dass der Landrat Nidwalden dieser Vereinbarung zustimmt sowie die erforderliche Stellenaufstockung bewilligt, am 1. Januar 2011 in Kraft.
 
 <sup>2</sup> Sie kann unter Beobachtung einer Kündigungsfrist von sechs Monaten auf das Ende eines Kalenderjahres gekündigt werden.
 
@@ -149,10 +148,10 @@ vereinbaren:
 
 #### Art. A1-1
 
-<sup>1</sup> Der Kostenteiler für den Grundbeitrag gemäss Art. 11 Abs. 1 der Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten wird auf den 1. Januar 2020 wie folgt festgelegt:
+<sup>1</sup> Der Kostenteiler für den Grundbeitrag gemäss Art. 11 Abs. 1 der Vereinbarung über die Zusammenarbeit bei der Verfolgung von Wirtschaftsdelikten wird auf den 1. Januar 2024 wie folgt festgelegt:
 
-- 1\. Kanton Nidwalden: — 49%
-- 2\. Kanton Obwalden: — 35%
+- 1\. Kanton Nidwalden: — 66%
+- 2\. Kanton Obwalden: — 18%
 - 3\. Kanton Uri: — 16%
 
 #### Art. A1-2
