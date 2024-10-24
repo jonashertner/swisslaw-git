@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Système national mobile de communication sécurisée (CMS)
 document: Projet mis en consultation
 language: fr
