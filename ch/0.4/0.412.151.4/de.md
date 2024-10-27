@@ -3,11 +3,11 @@ sr: "0.412.151.4"
 title: Abkommen vom 30. Oktober 2014 zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein über die gegenseitige Anerkennung von Fähigkeitszeugnissen und Berufsattesten der beruflichen Grundbildung (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/16"
 language: de
-version: 2024-01-01
+version: 2024-10-28
 adopted: 2014-10-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-16-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20241028/de/xml/fedlex-data-admin-ch-eli-cc-2015-16-20241028-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20241028/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 30. Oktober 2014
 
 In Kraft getreten durch Notenaustausch am 1. Januar 2015
 
-(Stand am 1. Januar 2024)
+(Stand am 28. Oktober 2024)
 
 Der Schweizerische Bundesrat und die Regierung des Fürstentums Liechtenstein
 
@@ -119,8 +119,8 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss der am 1. Jan. 2016 ([AS 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), der am 1. Jan. 2017 ([AS 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), der am 1. Jan. 2018 ([AS 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), der am 1. Jan. 2019 ([AS 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), der am 1. Jan. 2020 ([AS 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), der am 1. Jan. 2021 ([AS 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), der am 1. Jan. 2022 ([AS 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), der am 1. Jan. 2023 ([AS 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)) und der am 1. Januar 2024 in Kraft getretenen Änd. ([AS 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)).
-[^annexu1-lvlu1-1]: Für jeden Berufstitel wird eine entsprechende Verordnung in der Amtlichen Sammlung des Bundesrechts (AS) veröffentlicht und in der Systematischen Sammlung (SR) aufgenommen. Diese für die gegenseitig anerkannten Ausweise massgebenden schweizerischen Verordnungen können auf der öffentlich zugänglichen Publikationsplattform des Bundes unter www.fedlex.admin.ch abgerufen werden. Für jeden Berufstitel wird im Liechtensteinischen Landesgesetzblatt eine entsprechende Verordnung publiziert. Diese für die gegenseitig anerkannten Ausweise massgebenden liechtensteinischen Verordnungen können im Internet unter www.gesetze.li abgerufen werden.
+[^t-1]: Bereinigt gemäss der am 1. Jan. 2016 ([AS 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), der am 1. Jan. 2017 ([AS 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), der am 1. Jan. 2018 ([AS 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), der am 1. Jan. 2019 ([AS 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), der am 1. Jan. 2020 ([AS 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), der am 1. Jan. 2021 ([AS 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), der am 1. Jan. 2022 ([AS 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), der am 1. Jan. 2023 ([AS 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)), der am 1. Jan. 2024 in Kraft getretenen Änd. ([AS 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)) und der Berichtigung vom 28. Okt. 2024 ([AS 2024 596](https://fedlex.data.admin.ch/eli/oc/2024/596)).
+[^annexu1-lvlu1-1]: Für jeden Berufstitel wird eine entsprechende Verordnung in der Amtlichen Sammlung des Bundesrechts (AS) veröffentlicht und in der Systematischen Sammlung (SR) aufgenommen. Diese für die gegenseitig anerkannten Ausweise massgebenden schweizerischen Verordnungen können auf der öffentlich zugänglichen Publikationsplattform des Bundes unter www.fedlex.admin.ch abgerufen werden. Für jeden Berufstitel wird im Liechtensteinischen Landesgesetzblatt eine entsprechende Verordnung publiziert. Diese für die gegenseitig anerkannten Ausweise massgebenden liechtensteinischen Verordnungen können im Internet unter: www.gesetze.li abgerufen werden.
 
 <table>
 <tr><th>Berufs-nummer</th><th colspan="2">männliche Berufsbezeichnung CH/FL</th><th colspan="2">weibliche Berufsbezeichnung CH/FL</th><th colspan="2">Fachrichtung</th></tr>
@@ -504,7 +504,7 @@ Anhang[^t-1]
 <tr><td>64404</td><td colspan="2">Metallbaukonstrukteur EFZ / Metallbaukonstrukteur FZ</td><td colspan="2">Metallbaukonstrukteurin EFZ / Metallbaukonstrukteurin FZ</td><td colspan="2"></td></tr>
 <tr><td>44506</td><td colspan="2">Metallbaupraktiker EBA / Metallbaupraktiker BA</td><td colspan="2">Metallbaupraktikerin EBA / Metallbaupraktikerin BA</td><td colspan="2"></td></tr>
 <tr><td>21604</td><td colspan="3">Milchpraktiker EBA / Milchpraktiker BA</td><td>Milchpraktikerin EBA / Milchpraktikerin BA</td><td colspan="2"></td></tr>
-<tr><td>21607</td><td colspan="2">Milchpraktiker EFZ / Milchpraktiker FZ</td><td colspan="2">Milchpraktikerin EFZ / Milchpraktikerin FZ</td><td colspan="2"></td></tr>
+<tr><td>21607</td><td colspan="2">Milchpraktiker EBA / Milchpraktiker BA</td><td colspan="2">Milchpraktikerin EBA / Milchpraktikerin BA</td><td colspan="2"></td></tr>
 <tr><td>21605</td><td colspan="3">Milchtechnologe EFZ / Milchtechnologe FZ</td><td>Milchtechnologin EFZ / Milchtechnologin FZ</td><td colspan="2"></td></tr>
 <tr><td>21606</td><td colspan="2">Milchtechnologe EFZ / Milchtechnologe FZ</td><td colspan="2">Milchtechnologin EFZ / Milchtechnologin FZ</td><td colspan="2"></td></tr>
 <tr><td>47414</td><td colspan="2">Montage-Elektriker EFZ / Montage-Elektriker FZ</td><td colspan="2">Montage-Elektrikerin EFZ / Montage-Elektrikerin FZ</td><td colspan="2"></td></tr>
@@ -581,7 +581,7 @@ Anhang[^t-1]
 <tr><td>36104</td><td colspan="2">Schuhmacher EFZ / Schuhmacher FZ</td><td colspan="2">Schuhmacherin EFZ / Schuhmacherin FZ</td><td colspan="2"></td></tr>
 <tr><td>36106</td><td colspan="2">Schuhreparateur EBA / Schuhreparateur BA</td><td colspan="2">Schuhreparateurin EBA / Schuhreparateurin BA</td><td colspan="2"></td></tr>
 <tr><td>56503</td><td colspan="3">Seilbahner EBA / Seilbahner BA</td><td>Seilbahnerin EBA / Seilbahnerin BA</td><td colspan="2"></td></tr>
-<tr><td>56505</td><td colspan="2">Seilbahner EFZ / Seilbahner FZ</td><td colspan="2">Seilbahnerin EFZ / Seilbahnerin FZ</td><td colspan="2"></td></tr>
+<tr><td>56505</td><td colspan="2">Seilbahner EBA / Seilbahner BA</td><td colspan="2">Seilbahnerin EBA / Seilbahnerin BA</td><td colspan="2"></td></tr>
 <tr><td>56502</td><td colspan="3">Seilbahnmechatroniker EFZ / Seilbahnmechatroniker FZ</td><td>Seilbahnmechatronikerin EFZ / Seilbahnmechatronikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>56504</td><td colspan="2">Seilbahn-Mechatroniker EFZ / Seilbahn-Mechatroniker FZ</td><td colspan="2">Seilbahn-Mechatronikerin EFZ / Seilbahn-Mechatronikerin FZ</td><td colspan="2"></td></tr>
 <tr><td>45404</td><td colspan="3">Spengler EFZ / Spengler FZ</td><td>Spenglerin EFZ / Spenglerin FZ</td><td colspan="2"></td></tr>

@@ -3,11 +3,11 @@ sr: "0.412.151.4"
 title: Accord du 30 octobre 2014 entre le Conseil fédéral suisse et le gouvernement de la Principauté du Liechtenstein sur la reconnaissance mutuelle des certificats de capacité et des attestations de la formation professionnelle initiale (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/16"
 language: fr
-version: 2024-01-01
+version: 2024-10-28
 adopted: 2014-10-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-16-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20241028/fr/xml/fedlex-data-admin-ch-eli-cc-2015-16-20241028-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20241028/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu le 30 octobre 2014 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2015
 
-(État le 1<sup>er</sup> janvier 2024)
+(État le 28 octobre 2024)
 
 Le Conseil fédéral suisse et le gouvernement de la Principauté du Liechtenstein,
 
@@ -117,7 +117,7 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par les mod. entrées en vigueur le 1<sup>er</sup> janv. 2016 ([RO 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), le 1<sup>er</sup> janv. 2017 ([RO 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), le 1<sup>er</sup> janv. 2018 ([RO 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), le 1<sup>er</sup> janv. 2019 ([RO 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), le 1<sup>er</sup> janv. 2020 ([RO 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), le 1<sup>er</sup> janv. 2021 ([RO 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), le 1<sup>er</sup> janv. 2022 ([RO 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), le 1<sup>er</sup> janv. 2023 ([RO 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)) et le 1<sup>er</sup> janv. 2024 ([RO 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)).
+[^t-1]: Mise à jour par les mod. entrées en vigueur le 1<sup>er</sup> janv. 2016 ([RO 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), le 1<sup>er</sup> janv. 2017 ([RO 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), le 1<sup>er</sup> janv. 2018 ([RO 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), le 1<sup>er</sup> janv. 2019 ([RO 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), le 1<sup>er</sup> janv. 2020 ([RO 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), le 1<sup>er</sup> janv. 2021 ([RO 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), le 1<sup>er</sup> janv. 2022 ([RO 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), le 1<sup>er</sup> janv. 2023 ([RO 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)) et le 1<sup>er</sup> janv. 2024 ([RO 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)). Erratum du 28 oct. 2024, ne concerne que le texte allemand ([RO 2024 596](https://fedlex.data.admin.ch/eli/oc/2024/596)).
 [^annexu1-lvlu1-1]: Pour chaque titre professionnel, une ordonnance est publiée dans le Recueil officiel du droit fédéral (RO) et intégrée dans le Recueil systématique (RS). Les ordonnances suisses qui s’appliquent à la reconnaissance mutuelle des certificats peuvent être consultées en ligne sur la plateforme de publication du droit fédéral à l’adresse [www.fedlex.admin.ch](https://www.fedlex.admin.ch). Pour chaque titre professionnel, une ordonnance est publiée dans le Liechtensteinischen Landesgesetzblatt. Les ordonnances liechtensteinoises qui s’appliquent à la reconnaissance mutuelle des certificats peuvent être consultées en ligne à l’adresse [www.gesetze.li](https://www.gesetze.li/).
 
 <table>

@@ -3,11 +3,11 @@ sr: "0.412.151.4"
 title: Accordo del 30 ottobre 2014 tra il Consiglio federale svizzero e il Governo del Principato del Liechtenstein sul riconoscimento reciproco di attestati di capacità e certificati di formazione pratica della formazione professionale di base (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/16"
 language: it
-version: 2024-01-01
+version: 2024-10-28
 adopted: 2014-10-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-16-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20241028/it/xml/fedlex-data-admin-ch-eli-cc-2015-16-20241028-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20241028/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 30 ottobre 2014 Entrato in vigore mediante scambio di note il 1° gennaio 2015
 
-(Stato 1° gennaio 2024)
+(Stato 28 ottobre 2024)
 
 Il Consiglio federale svizzero
 
@@ -119,7 +119,7 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dalle mod. in vigore dal 1° gen. 2016 ([RU 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), dal 1° gen. 2017 ([RU 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), dal 1° gen. 2018 ([RU 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), dal 1° gen. 2019 ([RU 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), dal 1° gen. 2020 ([RU 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), dal 1° gen. 2021 ([RU 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), dal 1° gen. 2022 ([RU 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), dal 1° gen. 2023 ([RU 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)) e dal 1° gen. 2024 ([RU 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)).
+[^t-1]: Aggiornato dalle mod. in vigore dal 1° gen. 2016 ([RU 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), dal 1° gen. 2017 ([RU 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), dal 1° gen. 2018 ([RU 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), dal 1° gen. 2019 ([RU 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), dal 1° gen. 2020 ([RU 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), dal 1° gen. 2021 ([RU 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), dal 1° gen. 2022 ([RU 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), dal 1° gen. 2023 ([RU 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)), dal 1° gen. 2024 ([RU 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)) e dalla correzione del 28 ott. 2024 che concerne soltanto il testo in tedesco ([RU 2024 596](https://fedlex.data.admin.ch/eli/oc/2024/596)).
 [^annexu1-lvlu1-1]: Per ogni titolo è pubblicata nella Raccolta ufficiale delle leggi federali (RU) e poi ripresa nella Raccolta sistematica del diritto federale (RS) un’ordinanza corrispondente. Queste ordinanze svizzere, determinanti ai fini del riconoscimento reciproco dei diplomi, sono disponibili sulla piattaforma di pubblicazione della Confederazione, accessibile al pubblico, all’indirizzo [www.fedlex.admin.ch](http://www.fedlex.admin.ch/) Per ogni titolo è inoltre pubblicata la rispettiva ordinanza nel Liechtensteinischen Landesgesetzblatt. Le ordinanze del Liechtenstein determinanti ai fini del riconoscimento reciproco dei diplomi sono pubblicate su Internet all’indirizzo www.gesetze.li.
 
 <table>
