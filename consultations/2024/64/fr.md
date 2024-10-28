@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Quotes-parts de la redevance attribuées aux radios locales et aux télévisions régionales et mesures d’aide en faveur des médias électroniques
 document: Projet mis en consultation
 language: fr

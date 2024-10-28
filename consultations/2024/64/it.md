@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Quote di partecipazione al canone per emittenti radiofoniche locali ed emittenti televisive regionali nonché misure di sostegno a favore dei media elettronici
 document: Progetto posto in consultazione
 language: it

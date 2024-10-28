@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Abgabenanteile für lokale Radio- und regionale Fernsehveranstalter und Fördermassnahmen zugunsten der elektronischen Medien
 document: Vernehmlassungsvorlage
 language: de
