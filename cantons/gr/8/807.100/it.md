@@ -5,12 +5,12 @@ title: Legge stradale del Cantone dei Grigioni
 short: LStra
 language: it
 version: 2016-01-01
-corrected: 2021-02-26
+corrected: 2024-10-29
 version_adopted: 2015-12-07
 adopted: 2005-09-01
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/807.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2626/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3153/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -586,7 +586,7 @@ decide:
 
 **6. Divieto di causare danni**
 
-<sup>1</sup> Le costruzioni, gli impianti e le piantagioni lungo le strade cantonali devono essere realizzati, mantenuti e curati in modo da non causare pregiudizi o pericoli per queste strade e i suoi utenti.
+<sup>1</sup> Le costruzioni, gli impianti e le piantagioni lungo le strade cantonali devono essere realizzati, mantenuti e curati in modo da non causare pregiudizi o pericoli per queste strade e i loro utenti.
 
 <sup>2</sup> Chi causa un danno deve prendere i provvedimenti necessari alla sua eliminazione.
 

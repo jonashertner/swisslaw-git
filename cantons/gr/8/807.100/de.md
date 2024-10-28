@@ -5,12 +5,12 @@ title: Strassengesetz des Kantons Graubünden
 short: StrG
 language: de
 version: 2016-01-01
-corrected: 2021-02-26
+corrected: 2024-10-29
 version_adopted: 2015-12-07
 adopted: 2005-09-01
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/807.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2626/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3153/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
