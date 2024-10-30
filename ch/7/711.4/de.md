@@ -3,18 +3,18 @@ sr: "711.4"
 title: Verordnung vom 19. August 2020 über die Entschädigungen der eidgenössischen Schätzungskommissionen
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/750"
 language: de
-version: 2021-01-01
+version: 2024-10-31
 adopted: 2020-08-19
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/750/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-750-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/750/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/750/20241031/de/xml/fedlex-data-admin-ch-eli-cc-2020-750-20241031-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/750/20241031/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Entschädigungen der eidgenössischen Schätzungskommissionen
 
-vom 19. August 2020 (Stand am 1. Januar 2021)
+vom 19. August 2020 (Stand am 31. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -52,16 +52,17 @@ In dieser Verordnung bedeuten:
 <tr><td colspan="2"></td><td>Franken</td></tr>
 <tr><td>a. für das Präsidium der eidgenössischen Schätzungskommissionen:</td><td colspan="3">160.–</td></tr>
 <tr><td>b. für die übrigen Mitglieder der eidgenössischen Schätzungskommissionen:</td><td colspan="3">130–240.–</td></tr>
-<tr><td>c. für die Sekretärin oder den Sekretär:</td><td colspan="3">130.–</td></tr>
+<tr><td>c.[^3-1] für die Sekretärin oder den Sekretär:</td><td colspan="3">130.–</td></tr>
 </table>
 
 <sup>3</sup> Die Entschädigung für eine Arbeitsstunde der übrigen Mitglieder der eidgenössischen Schätzungskommissionen wird von der Präsidentin oder vom Präsidenten innerhalb des Rahmens von Absatz 2 Buchstabe b nach der für die Kommissionstätigkeit erforderlichen Fachkenntnis und nach den regional üblichen Ansätzen festgesetzt. Das Bundesverwaltungsgericht kann Weisungen erlassen.
 
 <sup>4</sup> Für die Mitglieder der Schätzungskommissionen mit hauptamtlicher Beschäftigung richtet sich die Entschädigung nach den vom Bundesgericht gestützt auf Artikel 59<sup>bis</sup> Absatz 3 EntG erlassenen Ausführungsbestimmungen.
 
-<sup>5</sup> Für das Personal der ständigen Sekretariate richtet sich die Entschädigung nach der Verordnung vom 26. September 2003[^3-1] über die Arbeitsverhältnisse des Personals des Bundesstrafgerichts, des Bundesverwaltungsgerichts und des Bundespatentgerichts.
+<sup>5</sup> Für das Personal der ständigen Sekretariate richtet sich die Entschädigung nach der Verordnung vom 26. September 2003[^3-2] über die Arbeitsverhältnisse des Personals des Bundesstrafgerichts, des Bundesverwaltungsgerichts und des Bundespatentgerichts.
 
-[^3-1]: [SR 172.220.117](https://fedlex.data.admin.ch/eli/cc/2003/518)
+[^3-1]: Die Berichtigung vom 31. Okt. 2024 betrifft nur den italienischen Text ([AS 2024 601](https://fedlex.data.admin.ch/eli/oc/2024/601)).
+[^3-2]: [SR 172.220.117](https://fedlex.data.admin.ch/eli/cc/2003/518)
 
 #### Art. 4
 

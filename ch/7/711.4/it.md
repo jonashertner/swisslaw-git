@@ -3,18 +3,18 @@ sr: "711.4"
 title: Ordinanza del 19 agosto 2020 sulle indennità delle commissioni federali di stima
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/750"
 language: it
-version: 2021-01-01
+version: 2024-10-31
 adopted: 2020-08-19
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/750/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-750-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/750/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/750/20241031/it/xml/fedlex-data-admin-ch-eli-cc-2020-750-20241031-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/750/20241031/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle indennità delle commissioni federali di stima
 
-del 19 agosto 2020 (Stato 1° gennaio 2021)
+del 19 agosto 2020 (Stato 31 ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -52,16 +52,17 @@ Nella presente ordinanza s’intende per:
 <tr><td>[tab]</td><td>franchi</td></tr>
 <tr><td>a. per la presidenza delle commissioni federali di stima:</td><td>160.–</td></tr>
 <tr><td>b. per gli altri membri delle commissioni federali di stima:</td><td>130–240.–</td></tr>
-<tr><td>c. per il segretario:</td><td>120.–</td></tr>
+<tr><td>c.[^3-1] per il segretario:</td><td>130.–</td></tr>
 </table>
 
 <sup>3</sup> L’indennità per un’ora di lavoro prestata dagli altri membri delle commissioni federali di stima è stabilita dal presidente entro i limiti stabiliti dal capoverso 2 lettera b in base alle conoscenze specialistiche richieste dall’attività della commissione e alle tariffe in uso a livello regionale. Il Tribunale amministrativo federale può emanare istruzioni pertinenti.
 
 <sup>4</sup> L’indennità per i membri delle commissioni federali di stima occupati a titolo principale è determinata in base alle disposizioni di esecuzione emanate dal Tribunale federale in virtù dell’articolo 59<sup>bis</sup> capoverso 3 LEspr.
 
-<sup>5</sup> L’indennità del personale delle segreterie permanenti è determinata in base all’ordinanza del 26 settembre 2003[^3-1] sui rapporti di lavoro del personale del Tribunale penale federale, del Tribunale amministrativo federale e del Tribunale federale dei brevetti.
+<sup>5</sup> L’indennità del personale delle segreterie permanenti è determinata in base all’ordinanza del 26 settembre 2003[^3-2] sui rapporti di lavoro del personale del Tribunale penale federale, del Tribunale amministrativo federale e del Tribunale federale dei brevetti.
 
-[^3-1]: [RS 172.220.117](https://fedlex.data.admin.ch/eli/cc/2003/518)
+[^3-1]: Correzione del 31 ott. 2024 ([RU 2024 601](https://fedlex.data.admin.ch/eli/oc/2024/601)).
+[^3-2]: [RS 172.220.117](https://fedlex.data.admin.ch/eli/cc/2003/518)
 
 #### Art. 4
 

@@ -3,18 +3,18 @@ sr: "711.4"
 title: "Ordonnance du 19 août 2020 sur les indemnités des commissions fédérales d'estimation"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/750"
 language: fr
-version: 2021-01-01
+version: 2024-10-31
 adopted: 2020-08-19
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/750/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-750-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/750/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/750/20241031/fr/xml/fedlex-data-admin-ch-eli-cc-2020-750-20241031-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/750/20241031/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les indemnités des commissions fédérales d’estimation
 
-du 19 août 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 19 août 2020 (État le 31 octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -52,16 +52,17 @@ Dans la présente ordonnance on entend par:
 <tr><td>[tab]</td><td>Francs</td></tr>
 <tr><td>a. pour le président de la commission fédérale d’estimation:</td><td>160.–</td></tr>
 <tr><td>b. pour les autres membres des commissions fédérales d’estimation:</td><td>130 à 240.–</td></tr>
-<tr><td>c. pour le secrétaire:</td><td>130.–</td></tr>
+<tr><td>c.[^3-1] pour le secrétaire:</td><td>130.–</td></tr>
 </table>
 
 <sup>3</sup> Le président fixe l’indemnité horaire des autres membres des commissions fédérales d’estimation, dans le cadre prévu à l’al. 2, let. b, en fonction des connaissances spécialisées requises pour l’activité de la commission et selon les taux usuels dans la région. Le Tribunal administratif fédéral peut édicter des directives.
 
 <sup>4</sup> En ce qui concerne les membres des commissions d’estimation engagés à titre principal, l’indemnité est régie par les dispositions d’exécution édictées par le Tribunal fédéral en vertu de l’art. 59<sup>bis</sup>, al. 3, LEx.
 
-<sup>5</sup> En ce qui concerne le personnel des secrétariats permanents, l’indemnité est fixée conformément aux dispositions de l’ordonnance du 26 septembre 2003 relative aux conditions de travail du personnel du Tribunal pénal fédéral, du Tribunal administratif fédéral et du Tribunal fédéral des brevets[^3-1].
+<sup>5</sup> En ce qui concerne le personnel des secrétariats permanents, l’indemnité est fixée conformément aux dispositions de l’ordonnance du 26 septembre 2003 relative aux conditions de travail du personnel du Tribunal pénal fédéral, du Tribunal administratif fédéral et du Tribunal fédéral des brevets[^3-2].
 
-[^3-1]: [RS 172.220.117](https://fedlex.data.admin.ch/eli/cc/2003/518)
+[^3-1]: Erratum du 31 oct. 2024, ne concerne que le texte italien ([RO 2024 601](https://fedlex.data.admin.ch/eli/oc/2024/601)).
+[^3-2]: [RS 172.220.117](https://fedlex.data.admin.ch/eli/cc/2003/518)
 
 #### Art. 4
 
