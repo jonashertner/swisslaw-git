@@ -4,11 +4,11 @@ title: Verordnung vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten
 short: KlinV-Mep
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: de
-version: 2023-11-01
+version: 2024-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20231101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20231101/de"
 
 (KlinV-Mep)
 
-vom 1. Juli 2020 (Stand am 1. November 2023)
+vom 1. Juli 2020 (Stand am 1. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -116,22 +116,25 @@ Die Durchführung nicht-interventioneller Leistungsstudien richtet sich nach dem
 
 Für klinische Versuche mit Produkten sind folgende Bestimmungen der Verordnung vom 20. September 2013[^3-1] über klinische Versuche (KlinV) anwendbar:
 
-- a. betreffend die wissenschaftliche Integrität und die wissenschaftliche Qualität: die Artikel 3 und 4 KlinV;
-- b. betreffend die Aufklärung, die Einwilligung und den Widerruf: die Artikel 7–9 KlinV;
+- a.[^3-2] betreffend die wissenschaftliche Integrität, wissenschaftliche Qualität und den Einschluss relevanter Personengruppen: die Artikel 3, 4 und 4*a* KlinV;
+- b.[^3-3] betreffend die Aufklärung, die Einwilligung, die Mitteilung von Ergebnissen und den Widerruf: die Artikel 7–9 KlinV;
 - c. betreffend die Haftung und die Sicherstellung: Artikel 10 Absätze 1 Buchstabe c und 2 sowie die Artikel 11–14 KlinV;
 - d. betreffend die Durchführung klinischer Versuche in Notfallsituationen: die Artikel 15–17 KlinV;
-- e. betreffend die Aufbewahrung gesundheitsbezogener Personendaten und biologischen Materials: Artikel 18 KlinV;
+- e.[^3-4] betreffend die Aufbewahrung gesundheitsbezogener Personendaten und biologischen Materials sowie den Umgang mit genetischen Daten bei Versicherungsverhältnissen: die Artikel 18 und 18*a* KlinV;
 - f. betreffend Inspektionen und Verwaltungsmassnahmen: Artikel 46 Absätze 1, 2, 4 und 5 sowie die Artikel 47 und 48 KlinV.
 
-<sup>2</sup> Die Befugnisse der Swissmedic und die Mitwirkungs- und Auskunftspflichten des Sponsors und der Prüfperson bei Inspektionen und Verwaltungsmassnahmen richten sich nach den Artikeln 77 und 78 MepV[^3-2] oder nach den Artikeln 70 und 71 IvDV[^3-3].[^3-4]
+<sup>2</sup> Die Befugnisse der Swissmedic und die Mitwirkungs- und Auskunftspflichten des Sponsors und der Prüfperson bei Inspektionen und Verwaltungsmassnahmen richten sich nach den Artikeln 77 und 78 MepV[^3-5] oder nach den Artikeln 70 und 71 IvDV[^3-6].[^3-7]
 
-<sup>3</sup> …[^3-5]
+<sup>3</sup> …[^3-8]
 
 [^3-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^3-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^3-3]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^3-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^3-5]: Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-6]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^3-7]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-8]: Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### 2. Abschnitt: Allgemeine Pflichten des Sponsors und der Prüfperson und fachliche Qualifikation
 
@@ -168,9 +171,12 @@ Die Prüfperson eines klinischen Versuchs muss:
 
 - a. zur Ausübung in eigener fachlicher Verantwortung des Arztberufs oder eines anderen Berufs, der sie zum klinischen Versuch spezifisch qualifiziert, berechtigt sein;
 - b. hinreichende Kenntnisse über die international anerkannten Anforderungen an die Durchführung klinischer Versuche sowie die für den klinischen Versuch notwendigen fachlichen Kenntnisse und Erfahrungen aufweisen; und
-- c. über Kenntnisse der gesetzlichen Voraussetzungen eines klinischen Versuchs verfügen oder diese mittels Einbezug entsprechender Expertise gewährleisten können.
+- c. über Kenntnisse der gesetzlichen Voraussetzungen eines klinischen Versuchs verfügen oder diese mittels Einbezug entsprechender Expertise gewährleisten können;
+- d.[^5-1] über angemessene Kenntnisse und Fertigkeiten in den Bereichen Datensicherheit und Datenschutz verfügen oder diese mittels Einbezug entsprechender Expertise gewährleisten können.
 
 <sup>2</sup> Die übrigen Personen, die den klinischen Versuch durchführen, müssen die Aus- und Fortbildung oder die Erfahrung auf dem betreffenden Fachgebiet aufweisen, die für die Durchführung klinischer Versuche erforderlich sind.
+
+[^5-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ## 2. Kapitel: Bewilligungs- und Meldeverfahren
 
@@ -294,9 +300,10 @@ Die zuständige Ethikkommission und die Swissmedic informieren sich gegenseitig 
 
 - a.[^9-1] die Kategorisierung der klinischen Versuche nach den Vorgaben von Artikel 6 oder 6*a*;
 - b. Aspekte, welche die Prüfbereiche sowohl nach Artikel 11 als auch nach Artikel 17 betreffen;
-- c. die Durchführung der Verfahren nach den Artikeln 12 und 19 sowie nach dem 3. Kapitel.
+- c.[^9-2] die Durchführung der Verfahren nach den Artikeln 12 und 19.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ### 2. Abschnitt: Verfahren bei der zuständigen Ethikkommission
 
@@ -308,17 +315,19 @@ Die zuständige Ethikkommission und die Swissmedic informieren sich gegenseitig 
 
 <sup>2</sup> Die Ethikkommission kann zusätzliche Informationen verlangen.
 
-<sup>3</sup> Anstelle des Sponsors kann die Prüfperson das Gesuch einreichen. Sie übernimmt diesfalls die Pflichten des Sponsors nach den Artikeln 14 und 15 sowie die Melde- und Berichterstattungspflichten gegenüber der zuständigen Ethikkommission. Die Gesuchsunterlagen müssen vom Sponsor mitunterzeichnet werden.
+<sup>3</sup> Anstelle des Sponsors kann die Prüfperson das Gesuch einreichen. Sie übernimmt diesfalls die Pflichten des Sponsors nach den Artikeln 14 und 15 sowie die Melde- und Berichterstattungspflichten gegenüber der zuständigen Ethikkommission.[^10-2]
 
 [^10-1]: Fassung gemäss Anhang Ziff. 1 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 11
 
-**Prüfbereiche**
+**Prüfbereiche**[^11-1]
 
-Die Bereiche, die die Ethikkommission zu prüfen hat, richten sich nach Artikel 25 KlinV[^11-1].
+Die Bereiche, die die Ethikkommission zu prüfen hat, richten sich sinngemäss nach Artikel 25 KlinV[^11-2].
 
-[^11-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^11-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^11-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 12
 
@@ -346,33 +355,39 @@ Die Bereiche, die die Ethikkommission zu prüfen hat, richten sich nach Artikel 
 
 #### Art. 14
 
-**Verfahren bei Untersuchungen mit Strahlungsquellen**
+**Verfahren bei Begleituntersuchungen mit ionisierender Strahlung**[^14-1]
 
-<sup>1</sup> Bei Untersuchungen mit Strahlungsquellen reicht der Sponsor die zusätzlichen Gesuchsunterlagen nach Anhang 1 Ziffer 4 ein. Das Bewilligungsverfahren richtet sich unter Vorbehalt der folgenden Absätze nach den Artikeln 10–13 und 15.[^14-1]
+<sup>1</sup> Bei Begleituntersuchungen mit ionisierender Strahlung reicht der Sponsor die zusätzlichen Gesuchsunterlagen nach Anhang 1 Ziffer 4 ein. Das Bewilligungsverfahren richtet sich unter Vorbehalt der Absätze 2–6 nach den Artikeln 10–13 und 15.
 
 <sup>2</sup>
 
-Der Sponsor reicht die zusätzlichen Gesuchsunterlagen nach Anhang 1 Ziffer 5 ein, wenn die effektive Dosis unter Berücksichtigung des Unsicherheitsfaktors pro Person über 5 mSv pro Jahr liegt und:[^14-2]
+Der Sponsor reicht die zusätzlichen Gesuchsunterlagen nach Anhang 1 Ziffer 5 ein, wenn:
 
-- a. ein Radiopharmazeutikum zur Anwendung kommt, das in der Schweiz nicht zugelassen ist;
-- b. ein Radiopharmazeutikum zur Anwendung kommt, das in der Schweiz zugelassen ist, und es sich nicht um eine nuklearmedizinische Routineuntersuchung handelt; oder
+- a. ein eingesetztes Radiopharmazeutikum nicht zulassungskonform angewendet wird oder in der Schweiz nicht zugelassen ist;
+- b.
+
+  ein eingesetztes Medizinprodukt, das ionisierende Strahlung aussenden kann:
+
+  - 1\. nicht gemäss Gebrauchsanweisung angewendet wird, oder
+  - 2\. kein Konformitätskennzeichen nach Artikel 13 MepV[^14-2] trägt; oder
+
 - c. eine andere radioaktive Quelle zur Anwendung kommt.
 
 <sup>3</sup> Die Ethikkommission übermittelt dem BAG die Gesuchsunterlagen gemäss Anhang 1 Ziffer 5.
 
-<sup>4</sup> Das BAG nimmt zuhanden der Ethikkommission Stellung zur Einhaltung der Strahlenschutzgesetzgebung sowie zur Dosisabschätzung. Es kann Ausnahmen von der Berichterstattungspflicht nach Artikel 39 Absatz 5 gewähren.
+<sup>4</sup> Das BAG nimmt innert angemessener Frist zuhanden der Ethikkommission Stellung zur Einhaltung der Strahlenschutzgesetzgebung sowie zur Dosisabschätzung.
 
 <sup>5</sup>
 
 Die Ethikkommission erteilt die Bewilligung, wenn:
 
 - a. die Anforderungen nach Artikel 11 eingehalten werden; und
-- b. das BAG innert angemessener Frist keine Einwände gegen den klinischen Versuch vorgebracht hat.
+- b. nach der Diskussion der Stellungnahme nach Absatz 4 keine Einwände gegen den klinischen Versuch verbleiben.
 
 <sup>6</sup> Sie teilt ihren Entscheid dem BAG mit.
 
-[^14-1]: Fassung gemäss Anhang Ziff. 1 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^14-2]: Fassung gemäss Anhang Ziff. 1 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^14-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 15
 
@@ -439,11 +454,11 @@ Sie führt eine vereinfachte Prüfung durch, wenn der Sponsor in seinem Gesuch F
 
 #### Art. 18
 
-**Klinische Versuche mit Produkten, die ionisierende Strahlen aussenden können**
+**Klinische Versuche mit Produkten, die ionisierende Strahlung aussenden können[^18-1]**
 
-<sup>1</sup> Für klinische Versuche der Kategorie C müssen die zusätzlichen Gesuchsunterlagen nach Anhang 1 Ziffern 4 und 5 eingereicht werden.[^18-1]
+<sup>1</sup> Für klinische Versuche der Kategorie C müssen die zusätzlichen Gesuchsunterlagen nach Anhang 1 Ziffern 4 und 5 eingereicht werden.[^18-2]
 
-<sup>2</sup> Die Swissmedic holt vor Erteilung der Bewilligung die Stellungnahme des BAG ein. Das BAG prüft die Einhaltung der Strahlenschutzgesetzgebung und die Dosisabschätzung.
+<sup>2</sup> Die Swissmedic holt vor Erteilung der Bewilligung eine Stellungnahme des BAG ein. Das BAG prüft die Einhaltung der Strahlenschutzgesetzgebung und die Dosisabschätzung.[^18-3]
 
 <sup>3</sup>
 
@@ -454,7 +469,9 @@ Die Swissmedic erteilt die Bewilligung, wenn:
 
 <sup>4</sup> Sie teilt ihren Entscheid dem BAG mit.
 
-[^18-1]: Fassung gemäss Anhang Ziff. 1 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^18-2]: Fassung gemäss Anhang Ziff. 1 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^18-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 19
 
@@ -585,13 +602,14 @@ Die Meldungen nach Absatz 1 sind auch den Vertragsstaaten zu erstatten, in denen
 
 **Jährliche Berichterstattung über die Sicherheit der teilnehmenden Personen**
 
-<sup>1</sup> Der Sponsor legt der zuständigen Ethikkommission einmal jährlich eine Liste der schwerwiegenden unerwünschten Ereignisse und der Produktemängel nach Artikel 33 vor und erstattet ihr einen Bericht über deren Schweregrad, deren Kausalität zum Produkt und zur Intervention sowie über die Sicherheit der teilnehmenden Personen (Annual Safety Report, ASR).
+<sup>1</sup> Der Sponsor legt der zuständigen Ethikkommission einmal jährlich eine Liste der schwerwiegenden unerwünschten Ereignisse und der Produktemängel nach Artikel 33 vor und erstattet ihr einen Bericht über deren Schweregrad, deren Kausalität zum Produkt und zur Intervention sowie über die Sicherheit der teilnehmenden Personen. Er informiert die Ethikkommission über den allgemeinen Fortschritt des klinischen Versuchs.[^35-1]
 
 <sup>2</sup> Bei klinischen Versuchen der Kategorie C, die auch im Ausland durchgeführt werden, sind zusätzlich die unerwünschten Ereignisse und Produktemängel im Ausland in die Liste und den Bericht aufzunehmen.
 
-<sup>2bis</sup> Bei klinischen Versuchen der Kategorie C, die auch in EU- oder EWR-Staaten durchgeführt werden oder werden sollen, ist der Bericht nach Absatz 2 mit dem Stand des klinischen Versuchs in den betreffenden Staaten zu ergänzen.[^35-1]
+<sup>2bis</sup> Bei klinischen Versuchen der Kategorie C, die auch in EU- oder EWR-Staaten durchgeführt werden oder werden sollen, ist der Bericht nach Absatz 2 mit dem Stand des klinischen Versuchs in den betreffenden Staaten zu ergänzen.[^35-2]
 
-[^35-1]: Eingefügt durch Anhang Ziff. 1 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^35-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^35-2]: Eingefügt durch Anhang Ziff. 1 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 #### Art. 36
 
@@ -641,25 +659,42 @@ Der Sponsor reicht der Ethikkommission einen Schlussbericht bei klinischen Prüf
 
 Für klinische Versuche der Kategorie C sind die Meldungen und Berichte nach den Artikeln 35–37 auch der Swissmedic zuzustellen.
 
-### 3. Abschnitt: Berichterstattung bei der Anwendung von Strahlenquellen und Aufbewahrungspflicht
+### 3. Abschnitt: Berichterstattung bei der Anwendung von ionisierender Strahlung und Aufbewahrungspflicht
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 39
 
-**Überprüfung, Meldung und Berichterstattung bei der Anwendung von Strahlungsquellen**
+**Überprüfung, Meldung und Berichterstattung bei der Anwendung von ionisierender Strahlung[^39-1]**
 
-<sup>1</sup> Der Sponsor überprüft bei klinischen Versuchen mit Produkten, die ionisierende Strahlen aussenden können, sowie bei Untersuchungen mit Strahlungsquellen die Einhaltung des Dosisrichtwerts nach Artikel 45 StSV[^39-1].
+<sup>1</sup> Die Prüfperson überprüft bei klinischen Versuchen mit jeglicher Anwendung von ionisierender Strahlung die Einhaltung des Dosisrichtwertes nach Artikel 45 der Strahlenschutzverordnung vom 26. April 2017[^39-2].[^39-3]
 
-<sup>2</sup> Er meldet eine Überschreitung des zulässigen Dosisrichtwertes innerhalb von 7 Tagen nach Bekanntwerden der zuständigen Ethikkommission.
+<sup>2</sup> Die Prüfperson oder der Sponsor meldet eine Überschreitung des zulässigen Dosisrichtwertes innerhalb von sieben Arbeitstagen nach Bekanntwerden der zuständigen Ethikkommission.[^39-4]
 
-<sup>3</sup> Für klinische Versuche der Kategorie C mit Produkten, die ionisierende Strahlen aussenden, ist die Meldung nach Absatz 2 auch der Swissmedic zu erstatten.
+<sup>3</sup> Für klinische Versuche der Kategorie C mit Produkten, die ionisierende Strahlung aussenden, ist die Meldung nach Absatz 2 auch der Swissmedic zu erstatten.[^39-5]
 
 <sup>4</sup> Die zuständige Ethikkommission und die Swissmedic können zur Beurteilung der Dosisberechnung oder der Dosisabschätzung sowie zur Bestimmung der weiteren Massnahmen die fachliche Beratung des BAG einholen.
 
-<sup>5</sup> Der Sponsor dokumentiert bei klinischen Versuchen nach Absatz 1 im Schlussbericht alle für den Strahlenschutz relevanten Angaben, insbesondere die Schätzung, welcher Dosis die teilnehmenden Personen ausgesetzt waren; vorbehalten bleibt eine Ausnahme von der Berichterstattungspflicht nach Artikel 14 Absatz 4.
+<sup>5</sup> Der Sponsor dokumentiert bei klinischen Versuchen nach Absatz 1 im Schlussbericht alle für den Strahlenschutz relevanten Angaben, insbesondere die retrospektive Dosisabschätzung für die teilnehmenden Personen.[^39-6]
 
-<sup>6</sup> Die zuständige Ethikkommission leitet den Schlussbericht an das BAG weiter.
+<sup>6</sup> Keine Berichterstattungspflicht nach Absatz 5 besteht bei zulassungskonform angewendeten Radiopharmazeutika und bei nach Gebrauchsanweisung angewendeten Medizinprodukten mit Konformitätskennzeichen nach Artikel 13 MepV[^39-7].[^39-8]
 
-[^39-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+<sup>7</sup> Das BAG kann im Rahmen der Stellungnahme nach Artikel 14 oder auf Gesuch hin weitere Ausnahmen von der Berichterstattungspflicht nach Absatz 5 vorsehen.[^39-9]
+
+<sup>8</sup> Die zuständige Ethikkommission leitet den Schlussbericht an das BAG weiter, falls das BAG eine Stellungnahme nach Artikel 14 oder 18 abgegeben hat.[^39-10]
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^39-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-5]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-6]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-7]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^39-8]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-9]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-10]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 40
 
@@ -766,6 +801,16 @@ Handelt es sich beim klinischen Versuch nach Artikel 48 um eine Leistungsstudie,
 
 [^48a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
+#### Art. 48b
+
+**Übergangsbestimmungen zur Änderung vom 7. Juni 2024**[^48b-1]
+
+Für klinische Versuche mit Produkten, die vor dem Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, sind betreffend die Haftungs- und Sicherstellungspflichten die Artikel 10 Absätze 1 Buchstabe c[^48b-2] und 2 sowie Artikel 11–14 KlinV[^48b-3] anwendbar. Wurde die Bewilligung für den klinischen Versuch befristet erteilt, so richten sich diese Pflichten bei Erneuerung der Bewilligung nach neuem Recht.
+
+[^48b-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^48b-2]: [AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)
+[^48b-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+
 #### Art. 49
 
 [^49-1]
@@ -788,7 +833,7 @@ Anhang 1[^t-1]
 
 ## Gesuchsunterlagen für das Bewilligungsverfahren für klinische Versuche
 
-[^t-1]: Bereinigt gemäss Anhang Ziff. 1 der V vom 19. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)) und Ziff. II der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^t-1]: Bereinigt gemäss Anhang Ziff. 1 der V vom 19. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)), Ziff. II der V vom 4. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) und 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ### 1 Gesuchsunterlagen für klinische Versuche der Kategorie A
 
@@ -805,7 +850,7 @@ Anhang 1[^t-1]
   Nicht eingereicht werden müssen folgende Angaben nach Anhang XV Kapitel II EU-MDR beziehungsweise Anhang XIV Kapitel I EU-IVDR:
 
   - a. die Angaben nach Abschnitt 1.16 (EU-MDR und EU-IVDR);
-  - b. die Angaben nach den Abschnitten 2.3–2.8 (EU-MDR) und im Falle von Leistungsstudien der Unterkategorie A1 nach den Abschnitten 2.4–2.8 (EU-IVDR);
+  - b. im Falle von klinischen Prüfungen die Angaben nach den Abschnitten 2.3–2.8 (EU-MDR) und im Falle von Leistungsstudien der Unterkategorie A1 die Angaben nach den Abschnitten 2.4–2.8 (EU-IVDR);
   - c. die Angaben nach Abschnitt 4.2 (EU-MDR und EU-IVDR).
 
 - 1\.3 Die Swissmedic informiert auf ihrer Internetseite über die delegierten Rechtsakte nach Ziffer 1.1, die gemäss dieser Verordnung in der jeweiligen für die EU-Mitgliedstaaten verbindlichen Fassung auch für die Schweiz direkt anwendbar sind (Art. 45).
@@ -829,26 +874,32 @@ Anhang 1[^t-1]
 
 ### 3 …
 
-### 4 Zusätzliche Gesuchsunterlagen für klinische Versuche mit Produkten, die ionisierende Strahlen aussenden können, sowie für Untersuchungen mit Strahlungsquellen (Art. 14 Abs. 1)
+### 4 Zusätzliche Gesuchsunterlagen für klinische Versuche mit Produkten, die ionisierende Strahlung aussenden können, sowie für Begleituntersuchungen mit ionisierender Strahlung (Art. 14 Abs. 1)
 
-Für klinische Versuche mit Produkten, die ionisierende Strahlen aussenden können, sowie für Untersuchungen mit Strahlungsquellen (Art. 14 Abs. 1), müssen zusätzlich folgende Angaben und Unterlagen eingereicht werden:
+Für klinische Versuche mit Produkten, die ionisierende Strahlung aussenden können, sowie für Begleituntersuchungen mit ionisierender Strahlung (Art. 14 Abs. 1), müssen zusätzlich folgende Angaben und Unterlagen eingereicht werden:
 
 - a. Angaben zu wesentlichen Strahlenschutzaspekten, insbesondere eine Berechnung beziehungsweise Abschätzung der effektiven Strahlendosis, der Organdosen und allfälliger Tumordosen;
 - b. die erforderlichen Bewilligungen gemäss Artikel 28 des Strahlenschutzgesetzes vom 22. März 1991[^annex1-lvlu1-lvl4-1].
 
 [^annex1-lvlu1-lvl4-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 
-### 5 Zusätzliche Gesuchsunterlagen für klinische Versuche der Kategorie C mit Produkten, die ionisierende Strahlen aussenden können sowie für klinische Versuche, die Untersuchungen mit Strahlungsquellen umfassen und eine Stellungnahme des BAG nach Artikel 14 Absatz 2 erfordern
+### 5. Zusätzliche Gesuchsunterlagen für klinische Versuche der Kategorie C mit Produkten, die ionisierende Strahlung aussenden können sowie für klinische Versuche, die Begleituntersuchungen mit ionisierender Strahlung umfassen und eine Stellungnahme des BAG nach Artikel 14 Absatz 2 erfordern
 
-Für klinische Versuche der Kategorie C mit Produkten, die ionisierende Strahlen aussenden können (Art. 18) sowie für Untersuchungen mit Strahlungsquellen, die eine Stellungnahme des BAG nach Artikel 14 Absatz 2 erfordern, müssen zusätzlich zu den Unterlagen nach Ziffer 4 folgende Angaben eingereicht werden:
+Für klinische Versuche der Kategorie C mit Produkten, die ionisierende Strahlung aussenden können (Art. 18) sowie für Begleituntersuchungen mit ionisierender Strahlung, die eine Stellungnahme des BAG nach Artikel 14 Absatz 2 erfordern, müssen zusätzlich zu den Unterlagen nach Ziffer 4 folgende Angaben eingereicht werden:
 
-- a. falls zutreffend Angaben zu den Eigenschaften, namentlich zur Pharmakokinetik, Qualität, Stabilität, radiochemischen Reinheit und Radionuklidreinheit;
-- b. bei zugelassenen Radiopharmazeutika: die Fachinformation;
-- c. bei nicht zugelassenen Radiopharmazeutika: die Angaben zum Herstellungsverfahren und zur Qualitätskontrolle des Radiopharmazeutikums, die Namen der hierfür verantwortlichen Personen sowie Angaben zu deren fachlicher Qualifikation;
-- d. die Namen der für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen sowie Angaben zu deren fachlicher Qualifikation;
-- e. Angaben gemäss Formular des BAG für klinische Versuche mit Radiopharmazeutika oder mit radioaktiv markierten Stoffen[^annex1-lvlu1-lvl5-1].
+- 5\.1
 
-[^annex1-lvlu1-lvl5-1]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse www.bag.admin.ch &gt; Gesund leben &gt; Umwelt & Gesundheit &gt; Strahlung, Radioaktivität & Schall abgerufen werden.
+  Angaben gemäss Formular des BAG für klinische Versuche mit Radiopharmazeutika oder mit radioaktiv markierten Stoffen[^annex1-lvlu1-lvl5-1]. Darunter fallen:
+
+  - a. Angaben zu den Eigenschaften, namentlich zur Pharmakokinetik, Qualität, Stabilität, radiochemischen Reinheit und Radionuklidreinheit,
+  - b. Angaben zur effektiven Dosis und zu Organdosen,
+  - c. bei zugelassenen Radiopharmazeutika: die Fachinformation,
+  - d. bei nicht zugelassenen Radiopharmazeutika oder radioaktiv markierten Stoffen: Angaben zur Herstellung und den fachlichen Qualifikationen der verantwortlichen Personen,
+  - e. die für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen und deren fachlichen Qualifikationen;
+
+- 5\.2 Angaben zu den Eigenschaften des Medizinprodukts, insbesondere Art und Intensität der ionisierenden Strahlung, sowie zur Art der Abweichung von der Gebrauchsanweisung.
+
+[^annex1-lvlu1-lvl5-1]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse [www.bag.admin.ch](https://www.bag.admin.ch) &gt; Gesetze & Bewilligungen &gt; Gesuche & Bewilligungen &gt; Strahlenschutz: Bewilligungen, Voraussetzungen und Aufsicht abgerufen werden.
 
 Anhang 2
 

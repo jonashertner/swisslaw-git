@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 2020 sulle sperimentazioni cliniche con disposit
 short: OSRUm-Dmed
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: it
-version: 2023-11-01
+version: 2024-11-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20231101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20231101/it"
 
 (OSRUm-Dmed)
 
-del 1° luglio 2020 (Stato 1° novembre 2023)
+del 1° luglio 2020 (Stato 1° novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -116,22 +116,25 @@ Lo svolgimento di studi non interventistici delle prestazioni è retto dal capit
 
 Alle sperimentazioni cliniche con dispositivi sono applicabili le seguenti disposizioni dell’ordinanza del 20 settembre 2013[^3-1] sulle sperimentazioni cliniche (OSRUm) per quanto concerne:
 
-- a. l’integrità scientifica e la qualità scientifica: articoli 3 e 4 OSRUm;
-- b. l’informazione, il consenso e la revoca: articoli 7–9 OSRUm;
+- a.[^3-2] l’integrità scientifica, la qualità scientifica e l’inclusione di gruppi di persone rilevanti: articoli 3, 4 e 4*a* OSRUm;
+- b.[^3-3] l’informazione, il consenso, la comunicazione dei risultati e la revoca: articoli 7–9 OSRUm;
 - c. la responsabilità civile e la garanzia: articolo 10 capoversi 1 lettera c e 2 nonché articoli 11–14 OSRUm;
 - d. lo svolgimento di sperimentazioni cliniche in situazioni d’emergenza: articoli 15–17 OSRUm;
-- e. la conservazione dei dati sanitari personali e del materiale biologico: articolo 18 OSRUm;
+- e.[^3-4] la conservazione dei dati sanitari personali e del materiale biologico nonché le operazioni relative ai dati genetici nell’ambito di rapporti assicurativi: articoli 18 e 18*a* OSRUm;
 - f. le ispezioni e le misure amministrative: articolo 46 capoversi 1, 2, 4 e 5 nonché articoli 47 e 48 OSRUm.
 
-<sup>2</sup> I poteri di Swissmedic e gli obblighi di collaborazione e di informazione del promotore e dello sperimentatore in caso di ispezioni e misure amministrative sono retti dagli articoli 77 e 78 ODmed[^3-2] o dagli articoli 70 e 71 ODIV[^3-3].[^3-4]
+<sup>2</sup> I poteri di Swissmedic e gli obblighi di collaborazione e di informazione del promotore e dello sperimentatore in caso di ispezioni e misure amministrative sono retti dagli articoli 77 e 78 ODmed[^3-5] o dagli articoli 70 e 71 ODIV[^3-6].[^3-7]
 
-<sup>3</sup> ....[^3-5]
+<sup>3</sup> ....[^3-8]
 
 [^3-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^3-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^3-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^3-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^3-5]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-6]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^3-7]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-8]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 2: Obblighi generali del promotore e dello sperimentatore e qualifica professionale
 
@@ -167,10 +170,13 @@ Il promotore e lo sperimentatore devono adempiere i requisiti seguenti:
 Lo sperimentatore di una sperimentazione clinica deve:
 
 - a. essere autorizzato a esercitare sotto la propria responsabilità professionale la professione di medico o un’altra professione che gli conferisce le qualifiche specifiche per svolgere la sperimentazione clinica;
-- b. disporre di sufficienti conoscenze sui requisiti internazionalmente riconosciuti per lo svolgimento di sperimentazioni cliniche nonché delle necessarie conoscenze ed esperienze specifiche per la sperimentazione clinica; ed
-- c. essere a conoscenza delle condizioni legali poste a una sperimentazione clinica o in grado di garantirle avvalendosi di un esperto.
+- b. disporre di sufficienti conoscenze sui requisiti internazionalmente riconosciuti per lo svolgimento di sperimentazioni cliniche nonché delle necessarie conoscenze ed esperienze specifiche per la sperimentazione clinica;
+- c. essere a conoscenza delle condizioni legali poste a una sperimentazione clinica o in grado di garantirle avvalendosi di un esperto; ed
+- d.[^5-1] disporre di adeguate conoscenze e competenze negli ambiti della sicurezza e della protezione dei dati o essere in grado di garantirle avvalendosi di un esperto.
 
 <sup>2</sup> Le altre persone che svolgono la sperimentazione clinica devono disporre della formazione e dell’aggiornamento o dell’esperienza nel pertinente settore specialistico necessari per lo svolgimento di sperimentazioni cliniche.
+
+[^5-1]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ## Capitolo 2: Procedura di autorizzazione e di notifica
 
@@ -294,9 +300,10 @@ La commissione d’etica competente e Swissmedic si informano reciprocamente e c
 
 - a.[^9-1] la classificazione delle sperimentazioni cliniche secondo le prescrizioni dell’articolo 6 o 6*a*;
 - b. aspetti che concernono gli ambiti di verifica di cui sia all’articolo 11 che all’articolo 17;
-- c. l’esecuzione di procedure di cui agli articoli 12 e 19 nonché al capitolo 3.
+- c.[^9-2] l’esecuzione di procedure di cui agli articoli 12 e 19.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ### Sezione 2: Procedura presso la commissione d’etica competente
 
@@ -308,17 +315,19 @@ La commissione d’etica competente e Swissmedic si informano reciprocamente e c
 
 <sup>2</sup> La commissione d’etica può esigere informazioni supplementari.
 
-<sup>3</sup> Lo sperimentatore può presentare la domanda al posto del promotore. In tal caso, egli si assume anche gli obblighi del promotore di cui agli articoli 14 e 15, nonché gli obblighi di notifica e di fare rapporto nei confronti della commissione d’etica competente. I documenti devono essere firmati anche dal promotore.
+<sup>3</sup> Lo sperimentatore può presentare la domanda al posto del promotore. In tal caso, egli si assume anche gli obblighi del promotore di cui agli articoli 14 e 15, nonché gli obblighi di notifica e di fare rapporto nei confronti della commissione d’etica competente.[^10-2]
 
 [^10-1]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 11
 
-**Ambiti di verifica**
+**Ambiti di verifica**[^11-1]
 
-Gli ambiti che la commissione d’etica deve verificare sono retti dall’articolo 25 OSRUm[^11-1].
+Gli ambiti che la commissione d’etica deve verificare sono retti per analogia dall’articolo 25 OSRUm[^11-2].
 
-[^11-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^11-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^11-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 12
 
@@ -346,33 +355,39 @@ Gli ambiti che la commissione d’etica deve verificare sono retti dall’artico
 
 #### Art. 14
 
-**Procedura per gli esami con sorgenti di radiazioni**
+**Procedura per gli esami di accompagnamento con radiazioni ionizzanti**[^14-1]
 
-<sup>1</sup> Per gli esami con sorgenti di radiazioni, il promotore presenta anche la documentazione di cui all’allegato 1 numero 4. La procedura di autorizzazione è retta dagli articoli 10–13 e 15.[^14-1]
+<sup>1</sup> Per gli esami di accompagnamento con radiazioni ionizzanti, il promotore presenta anche la documentazione di cui all’allegato 1 numero 4. Fatti salvi i capoversi 2–6, la procedura di autorizzazione è retta dagli articoli 10–13 e 15.
 
 <sup>2</sup>
 
-Il promotore presenta anche la documentazione di cui all’allegato 1 numero 5, nel caso in cui la dose efficace per persona, tenuto conto del fattore di incertezza, è superiore a 5 mSv all’anno e:[^14-2]
+Il promotore presenta anche la documentazione di cui all’allegato 1 numero 5 nel caso in cui:
 
-- a. viene utilizzato un radiofarmaco non omologato in Svizzera;
-- b. viene utilizzato un radiofarmaco omologato in Svizzera e non si tratta di un esame di routine di medicina nucleare; oppure
-- c. viene utilizzata un’altra sorgente radioattiva.
+- a. un radiofarmaco è impiegato in modo non conforme all’omologazione o non è omologato in Svizzera;
+- b.
+
+  un dispositivo medico che può emettere radiazioni ionizzanti:
+
+  - 1\. non è impiegato conformemente alle istruzioni per l’uso, o
+  - 2\. non reca un marchio di conformità secondo l’articolo 13 ODmed[^14-2]; oppure
+
+- c. è impiegata un’altra sorgente radioattiva.
 
 <sup>3</sup> La commissione d’etica trasmette all’UFSP la documentazione di cui all’allegato 1 numero 5.
 
-<sup>4</sup> L’UFSP formula un parere all’attenzione della commissione d’etica in merito al rispetto della legislazione sulla radioprotezione e alla stima delle dosi. Può concedere deroghe all’obbligo di presentare rapporto secondo l’articolo 39 capoverso 5.
+<sup>4</sup> Entro un termine congruo l’UFSP formula un parere all’attenzione della commissione d’etica in merito al rispetto della legislazione sulla radioprotezione e alla stima delle dosi.
 
 <sup>5</sup>
 
 La commissione d’etica rilascia l’autorizzazione se:
 
 - a. i requisiti di cui all’articolo 11 sono rispettati; e
-- b. l’UFSP non ha presentato obiezioni alla sperimentazione clinica entro un congruo termine.
+- b. dopo la discussione del parere di cui al capoverso 4 non sussistono obiezioni alla sperimentazione clinica.
 
 <sup>6</sup> Essa comunica la sua decisione all’UFSP.
 
-[^14-1]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^14-2]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^14-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 15
 
@@ -442,7 +457,7 @@ Swissmedic esegue una verifica semplificata se il promotore comprova nella doman
 
 <sup>1</sup> Per le sperimentazioni cliniche della categoria C, occorre presentare anche la documentazione di cui all’allegato 1 numeri 4 e 5.[^18-1]
 
-<sup>2</sup> Prima di rilasciare l’autorizzazione, Swissmedic chiede il parere dell’UFSP. L’UFSP verifica il rispetto della legislazione sulla radioprotezione e la stima delle dosi.
+<sup>2</sup> Prima di rilasciare l’autorizzazione, Swissmedic chiede un parere all’UFSP. L’UFSP verifica il rispetto della legislazione sulla radioprotezione e la stima delle dosi.[^18-2]
 
 <sup>3</sup>
 
@@ -454,6 +469,7 @@ Swissmedic rilascia l’autorizzazione se:
 <sup>4</sup> Esso comunica la sua decisione all’UFSP.
 
 [^18-1]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^18-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 19
 
@@ -568,50 +584,52 @@ Le notifiche di cui al capoverso 1 devono essere presentate anche agli Stati con
 
 <sup>1bis</sup> Per le sperimentazioni cliniche che sono o devono essere svolte anche in Stati UE o SEE, il promotore notifica entro due giorni alla commissione d’etica anche tutte le misure di sicurezza e tutela disposte o adottate volontariamente negli Stati UE o SEE nonché le circostanze per cui si sono rese necessarie.[^34-1]
 
-<sup>2</sup> Se una sperimentazione clinica deve essere arrestata o interrotta per motivi di sicurezza, il promotore deve notificarlo secondo l’articolo 36 capoverso 4.
+<sup>2</sup> Se una sperimentazione clinica deve essere arrestata prematuramente[^34-2] o interrotta per motivi di sicurezza, il promotore deve notificarlo secondo l’articolo 36 capoverso 4.
 
-<sup>3</sup> Per le sperimentazioni cliniche della categoria C, la notifica di cui ai capoversi 1 e 1<sup>bis</sup> deve essere presentata anche a Swissmedic.[^34-2]
+<sup>3</sup> Per le sperimentazioni cliniche della categoria C, la notifica di cui ai capoversi 1 e 1<sup>bis</sup> deve essere presentata anche a Swissmedic.[^34-3]
 
-<sup>4</sup> Per gli studi delle prestazioni della sottocategoria A2 riguardanti la conformità nonché per le sperimentazioni cliniche delle sottocategorie C1 e C2 il promotore presenta entro due giorni le notifiche di cui al capoverso 1 anche agli Stati contraenti in cui la sperimentazione clinica è o dev’essere svolta.[^34-3]
+<sup>4</sup> Per gli studi delle prestazioni della sottocategoria A2 riguardanti la conformità nonché per le sperimentazioni cliniche delle sottocategorie C1 e C2 il promotore presenta entro due giorni le notifiche di cui al capoverso 1 anche agli Stati contraenti in cui la sperimentazione clinica è o dev’essere svolta.[^34-4]
 
 [^34-1]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^34-2]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^34-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^34-2]: Nuova espressione giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)). Di detta mod. è tenuto conto in tutto il testo.
+[^34-3]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^34-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-### Sezione 2: Rapporto sulla sicurezza delle persone partecipanti alla sperimentazione nonché notifica e rapporto alla conclusione della sperimentazione clinica e in caso di arresto o interruzione
+### Sezione 2: Rapporto sulla sicurezza delle persone partecipanti alla sperimentazione nonché notifica e rapporto alla conclusione della sperimentazione clinica e in caso di arresto prematuro o interruzione
 
 #### Art. 35
 
 **Rapporto annuale sulla sicurezza delle persone partecipanti alla sperimentazione**
 
-<sup>1</sup> Il promotore sottopone una volta all’anno alla commissione d’etica competente un elenco degli eventi indesiderati gravi e dei difetti di un dispositivo di cui all’articolo 33 e le presenta un rapporto sul loro grado di gravità, sul relativo nesso di causalità con il dispositivo e con l’intervento e sulla sicurezza delle persone partecipanti (*Annual Safety Report, ASR*).
+<sup>1</sup> Il promotore sottopone una volta all’anno alla commissione d’etica competente un elenco degli eventi indesiderati gravi e dei difetti di un dispositivo di cui all’articolo 33 e le presenta un rapporto sul loro grado di gravità, sul relativo nesso di causalità con il dispositivo e con l’intervento e sulla sicurezza delle persone partecipanti. Egli informa la commissione d’etica sul progresso generale della sperimentazione clinica.[^35-1]
 
 <sup>2</sup> Per le sperimentazioni cliniche della categoria C che sono condotte anche all’estero, nell’elenco e nel rapporto devono inoltre figurare gli eventi indesiderati e i difetti di un dispositivo sopraggiunti all’estero.
 
-<sup>2bis</sup> Per le sperimentazioni cliniche della categoria C che sono o devono essere svolte anche in Stati UE o SEE, il rapporto di cui al capoverso 2 deve essere completato con lo stato della sperimentazione clinica negli Stati in questione.[^35-1]
+<sup>2bis</sup> Per le sperimentazioni cliniche della categoria C che sono o devono essere svolte anche in Stati UE o SEE, il rapporto di cui al capoverso 2 deve essere completato con lo stato della sperimentazione clinica negli Stati in questione.[^35-2]
 
-[^35-1]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^35-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^35-2]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 #### Art. 36
 
-**Notifica della conclusione, dell’arresto e dell’interruzione della sperimentazione clinica**
+**Notifica della conclusione, dell’arresto prematuro e dell’interruzione della sperimentazione clinica**
 
 <sup>1</sup> Il promotore notifica alla commissione d’etica entro 15 giorni la conclusione della sperimentazione clinica in Svizzera.
 
 <sup>2</sup> Per conclusione della sperimentazione clinica si intende l’ultima visita dell’ultima persona partecipante, salve disposizioni contrarie nel protocollo della sperimentazione.
 
-<sup>3</sup> Il promotore notifica alla commissione d’etica l’arresto o l’interruzione della sperimentazione clinica entro 15 giorni. Nella notifica occorre indicare i motivi dell’arresto o dell’interruzione.
+<sup>3</sup> Il promotore notifica alla commissione d’etica l’arresto prematuro o l’interruzione della sperimentazione clinica entro 15 giorni. Nella notifica occorre indicare i motivi dell’arresto prematuro o dell’interruzione.
 
 <sup>4</sup>
 
-Se l’arresto o l’interruzione avviene per motivi di sicurezza, vale quanto segue:
+Se l’arresto prematuro o l’interruzione avviene per motivi di sicurezza, vale quanto segue:
 
 - a. la notifica deve essere effettuata entro 24 ore;
 - b. la notifica deve essere presentata anche agli Stati contraenti in cui la sperimentazione clinica è o dev’essere svolta.
 
-<sup>4bis</sup> Per le sperimentazioni cliniche che sono svolte anche in Stati UE o SEE, il promotore notifica alla commissione d’etica entro 24 ore anche l’arresto o l’interruzione della sperimentazione clinica in Stati UE o SEE, se sono avvenuti per motivi di sicurezza.[^36-1]
+<sup>4bis</sup> Per le sperimentazioni cliniche che sono svolte anche in Stati UE o SEE, il promotore notifica alla commissione d’etica entro 24 ore anche l’arresto prematuro o l’interruzione della sperimentazione clinica in Stati UE o SEE, se sono avvenuti per motivi di sicurezza.[^36-1]
 
-<sup>5</sup> Se una sperimentazione clinica multicentrica viene arrestata o interrotta in uno dei luoghi di svolgimento, il promotore presenta la notifica di cui ai capoversi 3 e 4 anche alle altre commissioni d’etica coinvolte.
+<sup>5</sup> Se una sperimentazione clinica multicentrica viene arrestata prematuramente o interrotta in uno dei luoghi di svolgimento, il promotore presenta la notifica di cui ai capoversi 3 e 4 anche alle altre commissioni d’etica coinvolte.
 
 [^36-1]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
@@ -624,7 +642,7 @@ Se l’arresto o l’interruzione avviene per motivi di sicurezza, vale quanto s
 Il promotore presenta alla commissione d’etica un rapporto finale conformemente all’allegato XV capo I punto 2.8 e capo III punto 7 UE-MDR[^37-1] per le indagini cliniche e conformemente all’allegato XIII parte A punto 2.3.3 UE-IVDR[^37-2] per gli studi delle prestazioni:[^37-3]
 
 - a. entro un anno dalla conclusione della sperimentazione clinica;
-- b. entro tre mesi dall’arresto o dall’interruzione della sperimentazione clinica.
+- b. entro tre mesi dall’arresto prematuro o dall’interruzione della sperimentazione clinica.
 
 <sup>2</sup> Se il termine entro il quale presentare il rapporto di cui al capoverso 1 lettera a non può essere rispettato per motivi scientifici, il promotore deve presentare il rapporto non appena è disponibile. Nel protocollo della sperimentazione deve essere riportato, indicandone la motivazione, quando verrà presentato il rapporto finale.
 
@@ -640,33 +658,50 @@ Il promotore presenta alla commissione d’etica un rapporto finale conformement
 
 Per le sperimentazioni cliniche della categoria C, le notifiche e i rapporti di cui agli articoli 35–37 devono essere inviati anche a Swissmedic.
 
-### Sezione 3: Rapporto in caso di impiego di sorgenti di radiazioni e obbligo di conservazione
+### Sezione 3: Rapporto in caso di impiego di radiazioni ionizzanti e obbligo di conservazione
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 39
 
-**Monitoraggio, notifica e rapporto in caso di impiego di sorgenti di radiazioni**
+**Verifica, notifica e rapporto in caso di impiego di radiazioni ionizzanti[^39-1]**
 
-<sup>1</sup> Nel caso di sperimentazioni cliniche con dispositivi che possono emettere radiazioni ionizzanti e di esami con sorgenti di radiazioni, il promotore monitora il rispetto del vincolo di dose di cui all’articolo 45 ORaP[^39-1].
+<sup>1</sup> Per le sperimentazioni cliniche che prevedono l’impiego di radiazioni ionizzanti, lo sperimentatore verifica il rispetto del vincolo di dose di cui all’articolo 45 dell’ordinanza del 26 aprile 2017[^39-2] sulla radioprotezione.[^39-3]
 
-<sup>2</sup> Notifica alla commissione d’etica competente il superamento del vincolo di dose ammesso entro sette giorni dal momento in cui ne ha conoscenza.
+<sup>2</sup> Lo sperimentatore o il promotore notifica alla commissione d’etica competente il superamento del vincolo di dose ammesso entro sette giorni lavorativi dal momento in cui ne ha conoscenza.[^39-4]
 
-<sup>3</sup> Per le sperimentazioni cliniche della categoria C con dispositivi che emettono radiazioni ionizzanti occorre dare notifica anche a Swissmedic conformemente al capoverso 2.
+<sup>3</sup> Per le sperimentazioni cliniche della categoria C con dispositivi che emettono radiazioni ionizzanti, la notifica di cui al capoverso 2 deve essere presentata anche a Swissmedic.[^39-5]
 
 <sup>4</sup> La commissione d’etica competente e Swissmedic possono richiedere la consulenza tecnica dell’UFSP per valutare il calcolo o la stima della dose nonché per definire ulteriori misure.
 
-<sup>5</sup> Per le sperimentazioni cliniche di cui al capoverso 1 il promotore documenta nel rapporto finale tutte le indicazioni rilevanti ai fini della radioprotezione, in particolare la stima delle dosi alle quali sono state esposte le persone partecipanti; è fatta salva una deroga all’obbligo di presentare rapporto di cui all’articolo 14 capoverso 4.
+<sup>5</sup> Per le sperimentazioni cliniche di cui al capoverso 1 il promotore documenta nel rapporto finale tutte le indicazioni rilevanti ai fini della radioprotezione, in particolare la stima retrospettiva delle dosi per le persone partecipanti.[^39-6]
 
-<sup>6</sup> La commissione d’etica competente inoltra il rapporto finale all’UFSP.
+<sup>6</sup> Non sussiste alcun obbligo di fare rapporto secondo il capoverso 5 nel caso di radiofarmaci impiegati in modo conforme all’omologazione e nel caso di dispositivi medici recanti un marchio di conformità secondo l’articolo 13 ODmed[^39-7] impiegati conformemente alle istruzioni per l’uso.[^39-8]
 
-[^39-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+<sup>7</sup> Nell’ambito del parere di cui all’articolo 14 o su domanda, l’UFSP può prevedere ulteriori deroghe all’obbligo di fare rapporto di cui al capoverso 5.[^39-9]
+
+<sup>8</sup> Qualora l’UFSP abbia formulato un parere secondo l’articolo 14 o 18*,* la commissione d’etica competente inoltra il rapporto finale all’UFSP.[^39-10]
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^39-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-5]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-6]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-7]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^39-8]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-9]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-10]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 40
 
 **Obbligo di conservazione**
 
-<sup>1</sup> Il promotore conserva tutti i dati relativi alla sperimentazione clinica fino alla data di scadenza dell’ultima serie di dispositivi impiegata nella sperimentazione, ma almeno per dieci anni dalla conclusione o dall’arresto della sperimentazione clinica. Per i dispositivi impiantabili, il termine di conservazione è di almeno 15 anni.
+<sup>1</sup> Il promotore conserva tutti i dati relativi alla sperimentazione clinica fino alla data di scadenza dell’ultima serie di dispositivi impiegata nella sperimentazione, ma almeno per dieci anni dalla conclusione o dall’arresto prematuro della sperimentazione clinica. Per i dispositivi impiantabili, il termine di conservazione è di almeno 15 anni.
 
-<sup>2</sup> Lo sperimentatore conserva tutti i documenti necessari all’identificazione e alla cura successiva delle persone partecipanti alla sperimentazione, nonché tutti gli altri dati originali durante almeno dieci anni dalla conclusione o dall’arresto della sperimentazione clinica. Per i dispositivi impiantabili, il termine di conservazione è di almeno 15 anni.
+<sup>2</sup> Lo sperimentatore conserva tutti i documenti necessari all’identificazione e alla cura successiva delle persone partecipanti alla sperimentazione, nonché tutti gli altri dati originali durante almeno dieci anni dalla conclusione o dall’arresto prematuro della sperimentazione clinica. Per i dispositivi impiantabili, il termine di conservazione è di almeno 15 anni.
 
 ## Capitolo 5: Trasparenza
 
@@ -685,7 +720,7 @@ Il promotore deve registrare le sperimentazioni cliniche secondo gli articoli 64
 
 Il promotore deve pubblicare i risultati delle sperimentazioni cliniche in un registro riconosciuto secondo l’articolo 64 capoverso 1 OSRUm[^42-2] entro il seguente termine:
 
-- a. per le sperimentazioni cliniche concluse con dispositivi già provvisti di un marchio di conformità che sono utilizzati conformemente alle istruzioni per l’uso nonché in caso di arresto o interruzione della sperimentazione clinica: immediatamente dopo la presentazione del rapporto finale secondo l’articolo 37;
+- a. per le sperimentazioni cliniche concluse con dispositivi già provvisti di un marchio di conformità che sono utilizzati conformemente alle istruzioni per l’uso nonché in caso di arresto prematuro o interruzione della sperimentazione clinica: immediatamente dopo la presentazione del rapporto finale secondo l’articolo 37;
 - b. per tutte le altre sperimentazioni cliniche concluse: al più tardi prima che il dispositivo venga immesso in commercio, oppure un anno dopo la presentazione del rapporto finale secondo l’articolo 37 se fino a quel momento il dispositivo non è ancora stato immesso in commercio.
 
 [^42-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
@@ -726,7 +761,7 @@ Nell’esecuzione della presente ordinanza, in particolare per fornire moduli el
 - a. i moduli elettronici uniformi per le domande relative agli studi clinici e alla loro valutazione, per la procedura presso le commissioni d’etica e Swissmedic e per la procedura di valutazione coordinata;
 - b. i moduli elettronici uniformi per le modifiche essenziali;
 - c. i moduli elettronici uniformi per la notifica di eventi indesiderati gravi e dei difetti dei dispositivi;
-- d. lo scambio di informazioni tra gli Stati membri e la Svizzera nell’ambito dell’annuncio di misure, dell’arresto di una sperimentazione clinica per motivi di sicurezza, del ritiro di una domanda e del rifiuto di autorizzare una sperimentazione clinica;
+- d. lo scambio di informazioni tra gli Stati membri e la Svizzera nell’ambito dell’annuncio di misure, dell’arresto prematuro di una sperimentazione clinica per motivi di sicurezza, del ritiro di una domanda e del rifiuto di autorizzare una sperimentazione clinica;
 - e. i termini di notifica di eventi indesiderati gravi e dei difetti dei dispositivi che, a causa della loro gravità, sono soggetti all’obbligo di notifica;
 - f.[^46-4] i requisiti di cui all’allegato XV capo II UE-MDR e all’allegato XIV capo 1 UE-IVDR;
 - g.[^46-5] ...
@@ -765,6 +800,16 @@ Se la sperimentazione clinica di cui all’articolo 48 è uno studio delle prest
 
 [^48a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
+#### Art. 48b
+
+**Disposizioni transitorie relative alla modifica del 7 giugno 2024**[^48b-1]
+
+Per le sperimentazioni cliniche con dispositivi autorizzate prima dell’entrata in vigore della modifica del 7 giugno 2024, in merito agli obblighi di responsabilità e garanzia si applicano gli articoli 10 capoversi 1 lettera c[^48b-2] e 2 nonché gli articoli 11–14 OSRUm[^48b-3]. Se l’autorizzazione per la sperimentazione clinica è stata rilasciata a tempo determinato, in caso di rinnovo dell’autorizzazione tali obblighi sono retti dal nuovo diritto.
+
+[^48b-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^48b-2]: [RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)
+[^48b-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+
 #### Art. 49
 
 [^49-1]
@@ -783,11 +828,11 @@ Se la sperimentazione clinica di cui all’articolo 48 è uno studio delle prest
 
 Allegato 1[^t-1]
 
-(art. 10 cpv. 1, 14, 15 cpv. 6, 16 cpv. 1, 18 cpv. 1, 20 cpv. 5 e 23 cpv. 2)
+(art. 10 cpv. 1, 14, 15 cpv. 6, 16 cpv. 1, 18 cpv. 1, 20 cpv. 5, 23 cpv. 2)
 
 ## Documenti per la procedura di autorizzazione delle sperimentazioni cliniche
 
-[^t-1]: Aggiornato dell’all. n. 1 dell’O del 19 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)) e dal n. II dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^t-1]: Aggiornato dell’all. n. 1 dell’O del 19 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)), dal n. II delle O del 4 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) e del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ### 1. Documenti per le sperimentazioni cliniche della categoria A
 
@@ -804,7 +849,7 @@ Allegato 1[^t-1]
   Non occorre presentare le seguenti indicazioni di cui all’allegato XV capo II UE-MDR o all’allegato XIV capo I UE-IVDR:
 
   - a. le indicazioni di cui al punto 1.16 (UE-MDR e UE-IVDR);
-  - b. le indicazioni di cui ai punti 2.3–2.8 (UE-MDR) e, in caso di studi delle prestazioni della categoria A1, di cui ai punti 2.4–2.8 (UE-IVDR);
+  - b. in caso di indagini cliniche, le indicazioni di cui ai punti 2.3–2.8 (UE-MDR) e, in caso di studi delle prestazioni della categoria A1, le indicazioni di cui ai punti 2.4–2.8 (UE‑IVDR);
   - c. le indicazioni di cui al punto 4.2 (UE-MDR e UE-IVDR).
 
 - 1\.3 Swissmedic informa sul proprio sito Internet sugli atti delegati di cui al punto 1.1, la cui versione vincolante per gli Stati membri dell’UE è secondo la presente ordinanza direttamente applicabile anche per la Svizzera (art. 45).
@@ -828,26 +873,32 @@ Allegato 1[^t-1]
 
 ### 3. ...
 
-### 4 Ulteriori documenti per le sperimentazioni cliniche con dispositivi che possono emettere radiazioni ionizzanti nonché per gli esami con sorgenti di radiazioni (art. 14 cpv. 1)
+### 4 Ulteriori documenti per le sperimentazioni cliniche con dispositivi che possono emettere radiazioni ionizzanti nonché per gli esami di accompagnamento con radiazioni ionizzanti (art. 14 cpv. 1)
 
-Per le sperimentazioni cliniche con dispositivi che possono emettere radiazioni ionizzanti e per gli esami con sorgenti di radiazioni (art. 14 cpv. 1) occorre inoltre presentare le indicazioni e i documenti seguenti:
+Per le sperimentazioni cliniche con dispositivi che possono emettere radiazioni ionizzanti e per gli esami di accompagnamento con radiazioni ionizzanti (art. 14 cpv. 1) occorre inoltre presentare le indicazioni e i documenti seguenti:
 
 - a. indicazioni relative ad aspetti essenziali della radioprotezione, in particolare un calcolo o una stima della dose efficace di radiazioni, delle dosi relative agli organi e delle eventuali dosi tumorali;
 - b. le licenze richieste conformemente alla legge federale del 22 marzo 1991[^annex1-lvlu1-lvl4-1] sulla radioprotezione (LRaP).
 
 [^annex1-lvlu1-lvl4-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 
-### 5 Ulteriori documenti per le sperimentazioni cliniche della categoria C con dispositivi che possono emettere radiazioni ionizzanti nonché per le sperimentazioni cliniche che comprendono esami con sorgenti di radiazioni e richiedono un parere dell’UFSP conformemente all’articolo 14 capoverso 2
+### 5 Ulteriori documenti per le sperimentazioni cliniche della categoria C con dispositivi che possono emettere radiazioni ionizzanti nonché per le sperimentazioni cliniche che comprendono esami di accompagnamento con radiazioni ionizzanti e richiedono un parere dell’UFSP conformemente all’articolo 14 capoverso 2
 
-Oltre ai documenti di cui al numero 4, per le sperimentazioni cliniche della categoria C con dispositivi che possono emettere radiazioni ionizzanti (art. 18) e per gli esami con sorgenti di radiazioni, che richiedono un parere dell’UFSP conformemente all’articolo 14 capoverso 2, occorre presentare le seguenti indicazioni:
+Oltre ai documenti di cui al numero 4, per le sperimentazioni cliniche della categoria C con dispositivi che possono emettere radiazioni ionizzanti (art. 18) e per gli esami di accompagnamento con radiazioni ionizzanti, che richiedono un parere dell’UFSP conformemente all’articolo 14 capoverso 2, occorre presentare le seguenti indicazioni:
 
-- a. se pertinenti, indicazioni relative alle caratteristiche, segnatamente in materia di farmacocinetica, qualità, stabilità, purezza radiochimica e purezza del radionuclide;
-- b. in caso di radiofarmaci omologati: l’informazione professionale;
-- c. in caso di radiofarmaci non omologati: indicazioni sul procedimento di fabbricazione e sul controllo di qualità del radiofarmaco, nomi delle persone responsabili e indicazioni sulle loro qualifiche specifiche;
-- d. nomi delle persone responsabili dell’utilizzazione del radiofarmaco sull’essere umano e indicazioni sulle loro qualifiche specifiche;
-- e. indicazioni secondo il modulo dell’UFSP per sperimentazioni cliniche con radiofarmaci o con sostanze contrassegnate come radioattive[^annex1-lvlu1-lvl5-1].
+- 5\.1
 
-[^annex1-lvlu1-lvl5-1]: Il modulo può essere ottenuto presso l’Ufficio federale della sanità pubblica, Divisione Radioprotezione, 3003 Berna, oppure scaricato dal sito [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Vivere in salute &gt; Ambiente & salute &gt; Radiazioni, radioattività & suono.
+  Indicazioni secondo il modulo di domanda dell’UFSP per la realizzazione di sperimentazioni cliniche con radiofarmaci o con sostanze marcate radioattivamente[^annex1-lvlu1-lvl5-1]. Tra queste fugurano:
+
+  - a. le indicazioni sulle caratteristiche, segnatamente in materia di farmacocinetica, qualità, stabilità, purezza radiochimica e purezza del radionuclide,
+  - b. le indicazioni sulla dose efficace e sulle dosi relative agli organi,
+  - c. per i radiofarmaci omologati: l’informazione professionale,
+  - d. per i radiofarmaci non omologati o le sostanze marcate radioattivamente: le indicazioni sulla fabbricazione e sulle qualifiche professionali delle persone responsabili,
+  - e. l’indicazione delle persone responsabili dell’impiego del radiofarmaco sull’essere umano nonché le loro qualifiche professionali;
+
+- 5\.2 indicazioni sulle caratteristiche del dispositivo medico, segnatamente riguardo al tipo e all’intensità delle radiazioni ionizzanti nonché al tipo di divergenza dalle istruzioni per l’uso.
+
+[^annex1-lvlu1-lvl5-1]: Il modulo può essere ottenuto presso l’Ufficio federale della sanità pubblica, divisione Radioprotezione, 3003 Berna, oppure scaricato dal sito [www.ufsp.admin.ch](https://www.bag.admin.ch/bag/it/home/gesetze-und-bewilligungen/gesuche-bewilligungen/bewilligungen-aufsicht-im-strahlenschutz.html) &gt; Leggi e autorizzazioni &gt; Domande & autorizzazioni &gt; Radioprotezione: Licenze, condizioni e supervisione.
 
 Allegato 2
 
