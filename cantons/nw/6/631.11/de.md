@@ -4,13 +4,12 @@ number: "631.11"
 title: Vollzugsverordnung zum Gewässergesetz
 short: "Gewässerverordnung, GewV"
 language: de
-version: 2023-09-01
-valid_until: 2024-10-31
-version_adopted: 2023-05-16
+version: 2024-11-01
+version_adopted: 2024-10-15
 adopted: 2020-10-13
 in_force: 2020-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/631.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1141/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1307/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1141/pdf_file"
 
 (Gewässerverordnung, GewV)
 
-vom 13.10.2020 (Stand 01.09.2023)
+vom 13.10.2020 (Stand 01.11.2024)
 
 Der Regierungsrat von Nidwalden,
 
@@ -318,13 +317,11 @@ beschliesst:
 
 **2. Amt für Umwelt und Energie**
 
-<sup>1</sup> Das Amt für Umwelt und Energie ist unter Vorbehalt von § 24 das für die Belange der Gewässernutzung zuständige Amt.
+<sup>1</sup> Das Amt für Umwelt und Energie ist das für die Belange der Gewässernutzung zuständige Amt.
 
 #### § 24
 
-**3. Amt für Wald und Naturgefahren**
-
-<sup>1</sup> Das Amt für Wald und Naturgefahren ist zuständig für die Belange der Wasserkraftnutzung.
+**…**
 
 #### § 25
 
