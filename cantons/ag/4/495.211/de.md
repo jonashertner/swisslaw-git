@@ -4,13 +4,12 @@ number: "495.211"
 title: Verordnung zum Kulturgesetz
 short: VKG
 language: de
-version: 2021-09-01
-valid_until: 2024-10-31
-version_adopted: 2021-06-30
+version: 2024-11-01
+version_adopted: 2024-09-25
 adopted: 2009-11-04
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3075/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3662/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3075/pdf_file"
 
 (VKG)
 
-Vom 04.11.2009 (Stand 01.09.2021)
+Vom 04.11.2009 (Stand 01.11.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -102,13 +101,9 @@ beschliesst:
 
 **b) Entschädigung**
 
-<sup>1</sup> Die Entschädigung der Mitglieder des Aargauer Kuratoriums richtet sich nach den Bestimmungen des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen.
+<sup>1</sup> Den Mitgliedern des Aargauer Kuratoriums werden Jahresentschädigungen gemäss Anhang 2 und Spesenersatz gemäss den Bestimmungen des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen ausgerichtet.
 
-<sup>2</sup> Statt der Verdoppelung der Sitzungsgelder für das Präsidium und die Vorsitzenden der Fachgruppen werden folgende Jahresentschädigungen ausgerichtet:
-
-- a) Präsidentin oder Präsident — Fr. 10'000.–,
-- b) Vizepräsidentin oder Vizepräsident — Fr. 5'000.–,
-- c) Vorsitzende der Fachgruppen — Fr. 3'000.–.
+<sup>2</sup> …
 
 #### § 7
 
@@ -232,6 +227,12 @@ beschliesst:
 <sup>2</sup> Sie betreibt ein Bibliotheksverbundsystem, erstellt Richtlinien für die Zusammenarbeit und führt Schulungen durch. Der Verbund arbeitet nach internationalen Standards.
 
 <sup>3</sup> Dem Verbund können sich mittels Leistungsvereinbarungen auch nichtkantonale Bibliotheken anschliessen.
+
+#### § 17a
+
+**Sprach- und Leseförderung**
+
+<sup>1</sup> Die Kantonsbibliothek kann Massnahmen zur Sprach- und Leseförderung beschliessen und die öffentlichen Gemeindebibliotheken bei der freiwilligen Umsetzung solcher Massnahmen insbesondere fachlich, organisatorisch und finanziell unterstützen.
 
 #### § 18
 
@@ -443,19 +444,19 @@ beschliesst:
 
 **b) Bemessung bei Baudenkmälern**
 
-<sup>1</sup> Der Beitrag des Kantons an die Restaurierung und Pflege von kantonal geschützten Baudenkmälern berechnet sich nach der Formel: Punktzahl der Bedeutung des Objekts × 4 = Beitrag in Prozent der denkmalpflegerischen Mehrkosten. Vorbehalten sind die Absätze 5–7.
+<sup>1</sup> Der Beitrag des Kantons an die Restaurierung und Pflege von kantonal geschützten Baudenkmälern berechnet sich je nach Komplexität des Projekts mit einem entsprechenden Prozentsatz gemäss Anhang 3 an die beitragsberechtigten Kosten gemäss Absatz 3. Vorbehalten sind die Absätze 5–7.
 
-<sup>2</sup> Die kantonale Denkmalpflege stuft die Bedeutung der Objekte ein. Maximal können 12 Punkte vergeben werden. Kriterien sind dabei die künstlerische, historische, volkskundliche, typologische und ortsbildliche Bedeutung.
+<sup>2</sup> …
 
-<sup>3</sup> Als denkmalpflegerische Mehrkosten gelten der denkmalpflegerisch bedingte Aufwand für Substanz erhaltende Massnahmen. Im Anhang sind die prozentualen Anteile an den ausgewiesenen Kosten für die verschiedenen Arbeitsgattungen festgelegt.
+<sup>3</sup> Als beitragsberechtigte Kosten gelten der denkmalpflegerisch bedingte Anteil der Gesamtkosten im Zusammenhang mit der Konservierung, der Restaurierung und dem Unterhalt der historischen Substanz der Baudenkmäler.
 
-<sup>4</sup> Eigenleistungen der Bauherrschaft werden mitberücksichtigt, soweit diese auf Tagesrapporten mit Angabe der entsprechenden Arbeiten nachgewiesen werden.
+<sup>4</sup> Eigenleistungen der Bauherrschaft werden mitberücksichtigt, soweit diese auf Tagesrapporten mit Angabe der geleisteten Stunden und entsprechenden Arbeiten mit dazugehörigem Materialaufwand dokumentiert werden.
 
-<sup>5</sup> Bei Objekten mit hohem Nutzwert kann der Beitrag herabgesetzt werden. Bei Objekten ohne Nutzwert bemessen sich die Beiträge nach den Ansätzen auf den ausgewiesenen Kosten gemäss Anhang.
+<sup>5</sup> Bei Objekten ohne Nutzwert bemessen sich die Beiträge nach den Ansätzen auf den ausgewiesenen Gesamtkosten gemäss Anhang 3.
 
-<sup>6</sup> Bei Planungen, Erforschung und Dokumentation sowie beim Erwerb von Baudenkmälern beträgt der Beitrag des Kantons maximal 40 % der ausgewiesenen Kosten, wobei die finanziellen Möglichkeiten der Eigentümerschaft berücksichtigt werden.
+<sup>6</sup> Bei Planungen, Erforschung und Dokumentation sowie beim Erwerb von Baudenkmälern beträgt der Beitrag des Kantons maximal 40 % der ausgewiesenen Gesamtkosten.
 
-<sup>7</sup> Bei Unterhaltsarbeiten einfacher Art können Beiträge bis zu einem Betrag von Fr. 3'000.– pauschalisiert werden.
+<sup>7</sup> Bei Projekten einfacher Art können Beiträge bis zu einem Betrag von Fr. 5'000.– pauschalisiert werden.
 
 #### § 36
 
