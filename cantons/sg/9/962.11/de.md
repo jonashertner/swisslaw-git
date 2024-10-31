@@ -4,13 +4,13 @@ number: "962.11"
 title: Strafprozessverordnung
 short: StPV
 language: de
-version: 2024-01-01
-corrected: 2024-07-12
-version_adopted: 2023-10-10
+version: 2024-11-01
+valid_until: 2026-04-30
+version_adopted: 2024-10-15
 adopted: 2010-11-23
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3540/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3686/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3540/pdf_file"
 
 (StPV)
 
-vom 23.11.2010 (Stand 01.01.2024)
+vom 23.11.2010 (Stand 01.11.2024)
 
 Die Regierung des Kantons St.Gallen
 
