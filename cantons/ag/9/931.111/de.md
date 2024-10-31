@@ -4,13 +4,12 @@ number: "931.111"
 title: Verordnung zum Waldgesetz des Kantons Aargau
 short: AWaV
 language: de
-version: 2024-07-01
-valid_until: 2024-10-31
-version_adopted: 2024-03-13
+version: 2024-11-01
+version_adopted: 2024-09-25
 adopted: 1998-12-16
 in_force: 1999-03-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/931.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3518/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3663/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,19 +18,18 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3518/pdf_file"
 
 (AWaV)
 
-Vom 16.12.1998 (Stand 01.07.2024)
+Vom 16.12.1998 (Stand 01.11.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf Art. 16 der Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREBKV) vom 2. September 2009[^ingress-1], § 17 Abs. 1 lit. a des Gesetzes über die Geoinformation im Kanton Aargau (Kantonales Geoinformationsgesetz, KGeoIG) vom 24. Mai 2011[^ingress-2], § 1 Abs. 2 des Gesetzes über die amtlichen Publikationsorgane (Publikationsgesetz, PuG) vom 3. Mai 2011[^ingress-3], die §§ 3 Abs. 3, 9, 11 Abs. 4, 12 Abs. 2, 13 Abs. 2, 15 Abs. 2, 18 Abs. 2, 20 und 29 des Waldgesetzes des Kantons Aargau (AWaG) vom 1. Juli 1997[^ingress-4] sowie § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-5],
+gestützt auf § 17 Abs. 1 lit. a des Gesetzes über die Geoinformation im Kanton Aargau (Kantonales Geoinformationsgesetz, KGeoIG) vom 24. Mai 2011[^ingress-1], § 1 Abs. 2 des Gesetzes über die amtlichen Publikationsorgane (Publikationsgesetz, PuG) vom 3. Mai 2011[^ingress-2], die §§ 3 Abs. 3, 9, 11 Abs. 4, 12 Abs. 2, 13 Abs. 2, 18 Abs. 2, 20 und 29 des Waldgesetzes des Kantons Aargau (AWaG) vom 1. Juli 1997[^ingress-3] sowie § 50 Abs. 2 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-4],
 
 beschliesst:
 
-[^ingress-1]: SR [510.622.4](https://db.clex.ch/link/Bund/510.622.4/de)
-[^ingress-2]: SAR [740.100](https://gesetzessammlungen.ag.ch/data/740.100/de)
-[^ingress-3]: SAR [150.600](https://gesetzessammlungen.ag.ch/data/150.600/de)
-[^ingress-4]: SAR [931.100](https://gesetzessammlungen.ag.ch/data/931.100/de)
-[^ingress-5]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
+[^ingress-1]: SAR [740.100](https://gesetzessammlungen.ag.ch/data/740.100/de)
+[^ingress-2]: SAR [150.600](https://gesetzessammlungen.ag.ch/data/150.600/de)
+[^ingress-3]: SAR [931.100](https://gesetzessammlungen.ag.ch/data/931.100/de)
+[^ingress-4]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
 
 ## 1. Waldareal und Waldgrenzenplan
 
@@ -179,10 +177,10 @@ beschliesst:
 
 <sup>1</sup> Folgende Veranstaltungen erfordern eine Bewilligung:
 
-- a) Veranstaltungen mit mehr als 500 Beteiligten;
+- a) Veranstaltungen mit mehr als 500 Beteiligten, wenn sie nicht ausschliesslich auf Waldstrassen stattfinden;
 - b) Veranstaltungen zwischen 24.00 Uhr und 06.00 Uhr mit mehr als 100 Beteiligten;
-- c) Veranstaltungen mit Verwendung technischer Hilfsmittel wie Licht- oder Verstärkeranlagen;
-- d) Veranstaltungen in Naturschutzzonen.
+- c) Veranstaltungen mit Verwendung technischer Hilfsmittel wie Licht- oder Verstärkeranlagen.
+- d) …
 
 #### § 21
 
@@ -216,6 +214,10 @@ beschliesst:
 
 <sup>5</sup> Der Gemeinderat lässt auf Kosten der Einwohnergemeinde innert 2 Jahren seit Inkrafttreten dieser Verordnung auf allen Waldstrassen und Waldwegen das Signal «Verbot für Motorwagen, Motorräder und Motorfahrräder» mit dem Zusatz «Waldstrasse» und der Bezeichnung allfälliger Ausnahmen anbringen.
 
+<sup>6</sup> Die Abteilung Wald des Departements Bau, Verkehr und Umwelt führt den kantonalen Waldstrassenplan in elektronischer Form. Dieser wird als kantonaler Geobasisdatensatz veröffentlicht.
+
+<sup>7</sup> Der Gemeinderat übermittelt rechtskräftige Änderungen gemäss den Absätzen 2–4 der Abteilung Wald des Departements Bau, Verkehr und Umwelt zur Nachführung des kantonalen Waldstrassenplans.
+
 #### § 23
 
 **Nachteilige Nutzungen**
@@ -223,6 +225,10 @@ beschliesst:
 <sup>1</sup> Der Gemeinderat kann bei Vorliegen wichtiger Gründe mit Zustimmung der Waldeigentümerin oder des Waldeigentümers und des Kreisforstamtes das Reiten und nichtmotorisierte Fahren abseits von Waldstrassen und Waldwegen auf einzelnen Strecken ausnahmsweise bewilligen.
 
 <sup>2</sup> In den übrigen Fällen ist für die Erteilung von Ausnahmebewilligungen für nachteilige Nutzungen die Abteilung Wald des Departementes Bau, Verkehr und Umwelt zuständig.
+
+<sup>3</sup> Die gemäss den Absätzen 1 und 2 zuständige Behörde legt das Gesuch in den betroffenen Gemeinden während 30 Tagen öffentlich auf und macht die Auflage im kantonalen Amtsblatt und im amtlichen Publikationsorgan der Gemeinde bekannt.
+
+<sup>4</sup> Wer ein schutzwürdiges eigenes Interesse hat, kann innerhalb der Auflagefrist Einwendungen erheben.
 
 #### § 24
 
@@ -252,22 +258,7 @@ beschliesst:
 
 #### § 26
 
-**Waldentwicklungsplan**
-
-<sup>1</sup> Der Waldentwicklungsplan enthält namentlich Angaben über:
-
-- a) die Standortsverhältnisse, den Zustand und die Entwicklung des Waldes;
-- b) die Ziele und Kontrollgrössen für eine nachhaltige Waldentwicklung;
-- c) die bei der Waldbewirtschaftung zu beachtenden Grundsätze;
-- d) die Waldungen mit besonderen Auflagen.
-
-<sup>2</sup> Die Abteilung Wald des Departementes Bau, Verkehr und Umwelt erstellt unter Mitwirkung der betroffenen Gemeinden und der Waldeigentümerinnen und Waldeigentümer sowie weiterer interessierter Kreise den Waldentwicklungsplan.
-
-<sup>3</sup> Der Planentwurf wird in geeigneter Weise öffentlich bekannt gemacht. Alle interessierten Personen und Institutionen können Änderungen vorschlagen und Mängel beanstanden.
-
-<sup>4</sup> Die Abteilung Wald des Departementes Bau, Verkehr und Umwelt nimmt zu den Eingaben Stellung und fasst die Ergebnisse in einem Bericht zusammen. Die Akten dieses Verfahrens sind öffentlich.
-
-<sup>5</sup> Die Waldentwicklungspläne werden durch den Regierungsrat genehmigt und in Kraft gesetzt.
+**…**
 
 #### § 27
 
@@ -279,7 +270,7 @@ beschliesst:
 
 - a) den Zustand des Waldes und die Ergebnisse der bisherigen Waldbewirtschaftung;
 - b) die Ziele und Kontrollgrössen der künftigen Waldbewirtschaftung;
-- c) die Umsetzung des Waldentwicklungsplanes;
+- c) die Umsetzung der Vorgaben der überbetrieblichen Planungsinstrumente;
 - d) die waldbauliche Planung für die nächsten 10 bis 15 Jahre;
 - e) die geplante Holznutzung für die nächsten 10 bis 15 Jahre.
 
@@ -302,7 +293,7 @@ beschliesst:
 <sup>5</sup> Für kleinflächiges Waldeigentum bis zu 20 Hektaren gelten folgende Erleichterungen:
 
 - a) Das Anzeichnen der Bäume durch die zuständigen Revierförsterinnen und Revierförster gilt als Bewilligung. Soweit einem Holzschlagbegehren nicht voll entsprochen werden kann, entscheidet das Kreisforstamt.
-- b) Für Holzschläge bis zu 10 m3 Gesamtvolumen pro Jahr sind keine Bewilligung und Anzeichnung erforderlich; ausgenommen sind Holzschläge in Naturschutzgebieten von nationaler oder kantonaler Bedeutung.
+- b) Für Holzschläge bis zu 10 m³ Gesamtvolumen pro Jahr sind keine Bewilligung und Anzeichnung erforderlich; ausgenommen sind Holzschläge in Naturschutzgebieten von nationaler oder kantonaler Bedeutung sowie im Schutzwald.
 
 #### § 29
 
@@ -313,6 +304,16 @@ beschliesst:
 <sup>2</sup> Sie führt einen Kataster der zur Gewinnung von Saatgut einheimischer Waldbäume geeigneten Waldbestände.
 
 <sup>3</sup> Die Waldeigentümerinnen und Waldeigentümer können in ihren Beständen selbst Saatgut gewinnen und an Dritte abgeben. Sofern sie davon nicht Gebrauch machen, haben sie die Gewinnung von Saatgut durch den kantonalen Forstdienst oder mit dessen Zustimmung durch Dritte entschädigungslos zu dulden.
+
+#### § 29a
+
+**Schutzwaldpflege**
+
+<sup>1</sup> Die Abteilung Wald des Departements Bau, Verkehr und Umwelt schliesst mit den betriebsplanpflichtigen Waldeigentümerinnen und Waldeigentümern oder deren Forstbetriebe Vereinbarungen zur Sicherstellung der Schutzfunktion des Schutzwalds ab. Die Dauer der Vereinbarungen richtet sich in der Regel nach den Programmvereinbarungen mit dem Bund.
+
+<sup>2</sup> Erfordert es die Sicherstellung der Schutzfunktion des Schutzwalds, verpflichtet die Abteilung Wald des Departements Bau, Verkehr und Umwelt die Waldeigentümerinnen und Waldeigentümer zu einer minimalen Schutzwaldpflege. Diese beschränkt sich auf die Erhaltung der Schutzfunktion und die nachhaltige Sicherung der Bestandesstabilität.
+
+<sup>3</sup> Die Abteilung Wald des Departements Bau, Verkehr und Umwelt erhebt jährlich von den Einwohnergemeinden und Infrastrukturbetreibenden die Nutzniessendenbeiträge für die Schutzwaldpflege.
 
 ## 5. Forstorganisation
 
@@ -379,9 +380,7 @@ beschliesst:
 
 #### § 33
 
-**b) Veranstaltungen**
-
-<sup>1</sup> Gegen Einspracheentscheide der Gemeinderäte und der Kreisforstämter betreffend Veranstaltungen kann beim Departement Bau, Verkehr und Umwelt Beschwerde geführt werden. Dessen Entscheid ist an das Verwaltungsgericht weiterziehbar.
+**…**
 
 #### § 34
 
@@ -391,11 +390,7 @@ beschliesst:
 
 #### § 35
 
-**d) Beschwerdeberechtigte Organisationen**
-
-<sup>1</sup> Die Einsprache- und Beschwerdeberechtigung von gesamtkantonalen und regionalen Organisationen richtet sich nach § 4 Abs. 3 des Baugesetzes[^35-1].
-
-[^35-1]: SAR [713.100](https://db.clex.ch/link/Bund/713.100/de)
+**…**
 
 #### § 36
 
