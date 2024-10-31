@@ -4,11 +4,11 @@ title: "Ordinance of 14 November 2018 on Licensing in the Medicinal Products Sec
 short: MPLO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: en
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230901-en-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20241101/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20241101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Medicinal Products Licensing Ordinance, MPLO)
 
-of 14 November 2018 (Status as of 1 September 2023)
+of 14 November 2018 (Status as of 1 November 2024)
 
 The Swiss Federal Council,
 
@@ -816,7 +816,7 @@ A licence as described in paragraphs 1 and 2 may be granted provided the applica
 - a. confirms to Swissmedic that, following investigations, there is no evidence that the medicinal products in question will be used for capital punishment; and
 - b. submits a declaration by the customer stating that the medicinal products will not be used by the customer or by third parties for capital punishment.
 
-<sup>4</sup> Swissmedic publishes a list of medicinal products that can be used for capital punishment It takes into account valid EU law, in particular the delegated acts and implementing acts adopted by the European Commission on the basis of Council Regulation (EC) No. 1236/2005[^50-1].
+<sup>4</sup> Swissmedic publishes a list of medicinal products that can be used for capital punishment It takes into account valid EU law, in particular the delegated acts and implementing acts adopted by the European Commission on the basis of Council Regulation (EC) No 1236/2005[^50-1].
 
 [^50-1]: Council Regulation (EC) No 1236/2005 of 27 June 2005 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment; OJ L 200 of 30.07.2005 p. 1.
 
@@ -864,13 +864,14 @@ A temporary licence to use medicinal products in accordance with Article 9*b* pa
 
 **Preconditions**
 
-<sup>1</sup> The sponsor notifies Swissmedic of all major changes affecting the medicinal product or its usage by analogy with Article 34 paragraph 3 of the Ordinance of 20 September 2013[^54-1] on Clinical Trials.
+<sup>1</sup> The sponsor notifies Swissmedic of all major changes affecting the medicinal product or its usage by analogy with Article 34 paragraph 3 letters a‑c of the Ordinance of 20 September 2013[^54-1] on Clinical Trials.[^54-2]
 
 <sup>2</sup> The sponsor notifies Swissmedic of all adverse reactions and events in accordance with Article 59 TPA.
 
 <sup>3</sup> The sponsor sends Swissmedic a safety report once a year.
 
 [^54-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^54-2]: Amended by No III 2 of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 55
 
@@ -976,7 +977,7 @@ They notify each other about:
 
 <sup>3</sup> Swissmedic may require the customs authorities to detain medicinal products for further inspection and take samples.
 
-### Section 3 Data protection and Informing the general public
+### Section 3 Data protection and Informing the General Public
 
 #### Art. 66
 

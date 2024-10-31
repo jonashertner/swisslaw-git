@@ -4,18 +4,18 @@ title: "Ordinanza del 14 novembre 2018 sulle autorizzazioni nel settore dei medi
 short: OAMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: it
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230901-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20241101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle autorizzazioni nel settore dei medicamenti (Ordinanza sull’autorizzazione dei medicamenti, OAMed)
 
-del 14 novembre 2018 (Stato 1° settembre 2023)
+del 14 novembre 2018 (Stato 1° novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -860,13 +860,14 @@ Un’autorizzazione temporanea dell’uso di medicamenti secondo l’articolo 9*
 
 **Oneri**
 
-<sup>1</sup> Il promotore notifica a Swissmedic tutte le modifiche essenziali che hanno ripercussioni sul medicamento o sul suo utilizzo, per analogia, secondo l’articolo 34 capoverso 3 dell’ordinanza del 20 settembre 2013[^54-1] sulle sperimentazioni cliniche.
+<sup>1</sup> Il promotore notifica a Swissmedic tutte le modifiche essenziali che hanno ripercussioni sul medicamento o sul suo utilizzo, per analogia, secondo l’articolo 34 capoverso 3 lettere a–c dell’ordinanza del 20 settembre 2013[^54-1] sulle sperimentazioni cliniche.[^54-2]
 
 <sup>2</sup> Notifica a Swissmedic tutti gli effetti indesiderati e i fenomeni di cui all’articolo 59 LATer.
 
 <sup>3</sup> Trasmette annualmente a Swissmedic un rapporto sulla sicurezza.
 
 [^54-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^54-2]: Nuovo testo giusta il n. III 2 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 55
 
@@ -1075,10 +1076,10 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]: Versione della GU L 262 del 14.10.2003, pag. 22.
 [^annex1-lvlu1-2]: Versione della GU L 228 del 17.8.1991, pag. 70.
-[^annex1-lvlu1-3]: Il testo di questa guida può essere ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch o consultato all’indirizzo https://ec.europa.eu/health/documents/eudralex/vol-4\_en.
-[^annex1-lvlu1-4]: [RS 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Il testo di questi principi e di queste linee direttrici può essere richiesto al Segretariato PIC/S, casella postale 5695, CH-1211 Ginevra 11 o consultato all’indirizzo Internet: www.picscheme.org.
+[^annex1-lvlu1-3]: Il testo di questa guida può essere ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch) o consultato all’indirizzo [https://ec.europa.eu/health/documents/eudralex/vol-4\_en](https://ec.europa.eu/health/documents/eudralex/vol-4_en)
+[^annex1-lvlu1-4]: [RS 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Il testo di questi principi e di queste linee direttrici può essere richiesto al Segretariato PIC/S, casella postale 5695, CH-1211 Ginevra 11 o consultato all’indirizzo Internet: [www.picscheme.org/](https://picscheme.org/)
 [^annex1-lvlu1-5]: Versione della GU L 92 del 7.4.1990, pag. 42.
-[^annex1-lvlu1-6]: La raccomandazione può essere richiesta al Consiglio d’Europa, F-67075 Strasburgo (www.coe.int) o consultata all’indirizzo www.edqm.eu/en/blood-guide.
+[^annex1-lvlu1-6]: La raccomandazione può essere richiesta al Consiglio d’Europa, F-67075 Strasburgo ([www.coe.int](https://www.coe.int/en/web/portal/home)) o consultata all’indirizzo [www.edqm.eu/en/blood-guide](https://www.edqm.eu/en/blood-guide)
 
 Allegato 2[^t-2]
 
@@ -1090,7 +1091,7 @@ Allegato 2[^t-2]
 
 Quali norme della Buona prassi di fabbricazione di medicamenti in piccole quantità sono applicabili le disposizioni dei capitoli 20.1. e 20.2. della Pharmacopoea Helvetica[^annex2-lvlu1-1] (Ph. Helv.).
 
-[^annex2-lvlu1-1]: La Pharmacopoea Helvetica è pubblicata da Swissmedic e può essere acquistata presso l’UFCL, Vendita pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch, alle condizioni previste dall’O del 19 nov. 2014 sugli emolumenti per le pubblicazioni ([RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)**)**.
+[^annex2-lvlu1-1]: La Pharmacopoea Helvetica è pubblicata da Swissmedic e può essere acquistata presso l’UFCL, Vendita pubblicazioni federali, 3003 Berna, [www.pubblicazionifederali.admin.ch](https://www.bundespublikationen.admin.ch/cshop_bbl/b2c/start/(layout=7.01-13_131_69_135_6_133&carea=%24ROOT&rdb=0&uiarea=0)/.do), alle condizioni previste dall’O del 19 nov. 2014 sugli emolumenti per le pubblicazioni ([RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)**)**.
 
 Allegato 3
 

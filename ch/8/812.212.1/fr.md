@@ -4,11 +4,11 @@ title: Ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des 
 short: OAMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: fr
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230901-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20241101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/fr"
 
 (OAMéd)
 
-du 14 novembre 2018 (État le 1<sup>er</sup> septembre 2023)
+du 14 novembre 2018 (État le 1<sup>er</sup> novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -858,13 +858,14 @@ Une autorisation à durée limitée d’administration de médicaments selon l�
 
 **Charges**
 
-<sup>1</sup> Le promoteur communique à Swissmedic toutes les modifications essentielles qui ont des répercussions sur le médicament ou son utilisation, au sens de l’art. 34, al. 3, de l’ordonnance du 20 septembre 2013 sur les essais cliniques[^54-1] applicable par analogie.
+<sup>1</sup> Le promoteur communique à Swissmedic toutes les modifications essentielles qui ont des répercussions sur le médicament ou son utilisation, au sens de l’art. 34, al. 3, let. a à c, de l’ordonnance du 20 septembre 2013 sur les essais cliniques[^54-1] applicable par analogie.[^54-2]
 
 <sup>2</sup> Il communique à Swissmedic tout effet indésirable ou incident au sens de l’art. 59 LPTh.
 
 <sup>3</sup> Il transmet chaque année un rapport de sécurité à Swissmedic.
 
 [^54-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^54-2]: Nouvelle teneur selon le ch. III 2 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 (RO **202****4** 322).
 
 #### Art. 55
 

@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2018 über die Bewilligungen im Arzneimittelb
 short: AMBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: de
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230901-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20241101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20241101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230901/de"
 
 (Arzneimittel-Bewilligungsverordnung, AMBV)
 
-vom 14. November 2018 (Stand am 1. September 2023)
+vom 14. November 2018 (Stand am 1. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -862,13 +862,14 @@ Eine befristete Bewilligung zur Anwendung von Arzneimitteln gemäss Artikel 9*b*
 
 **Auflagen**
 
-<sup>1</sup> Der Sponsor meldet der Swissmedic alle wesentlichen Änderungen, die sich auf das Arzneimittel oder dessen Verwendung auswirken, sinngemäss nach Artikel 34 Absatz 3 der Verordnung vom 20. September 2013[^54-1] über klinische Versuche.
+<sup>1</sup> Der Sponsor meldet der Swissmedic alle wesentlichen Änderungen, die sich auf das Arzneimittel oder dessen Verwendung auswirken, sinngemäss nach Artikel 34 Absatz 3 Buchstaben a–c der Verordnung vom 20. September 2013[^54-1] über klinische Versuche.[^54-2]
 
 <sup>2</sup> Er meldet der Swissmedic alle unerwünschten Wirkungen und Vorkommnisse nach Artikel 59 HMG.
 
 <sup>3</sup> Er stellt der Swissmedic jährlich einen Sicherheitsbericht zu.
 
 [^54-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^54-2]: Fassung gemäss Ziff. III 2 der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 55
 
@@ -1077,10 +1078,10 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]: Fassung gemäss ABl. L 262 vom 14.10.2003, S. 22.
 [^annex1-lvlu1-2]: Fassung gemäss ABl. L 228 vom 17.8.1991, S. 70.
-[^annex1-lvlu1-3]: Der Text des Leitfadens kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch oder abgerufen werden unter: [https://ec.europa.eu/health/documents/eudralex/vol-4\_en](https://ec.europa.eu/health/documents/eudralex/vol-4_en)
-[^annex1-lvlu1-4]: [SR 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Der Text dieser Grundsätze und Leitlinien kann beim PIC/S-Secrétariat, case postale 5695, CH-1211 Genève 11, bezogen oder unter: www.picscheme.org abgerufen werden.
+[^annex1-lvlu1-3]: Der Text des Leitfadens kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch/](https://www.snv.ch/) oder abgerufen werden unter: [https://ec.europa.eu/health/documents/eudralex/vol-4\_en](https://ec.europa.eu/health/documents/eudralex/vol-4_en)
+[^annex1-lvlu1-4]: [SR 0.812.101](https://fedlex.data.admin.ch/eli/cc/1973/755_756_756). Der Text dieser Grundsätze und Leitlinien kann beim PIC/S-Secrétariat, case postale 5695, CH-1211 Genève 11, bezogen oder unter: [www.picscheme.org](https://www.picscheme.org) abgerufen werden.
 [^annex1-lvlu1-5]: Fassung gemäss ABl. L 92 vom 7.4.1990, S. 42.
-[^annex1-lvlu1-6]: Der Text dieser Empfehlung kann beim Europarat, F-67075 Strassburg (www.coe.int) bezogen oder unter: [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide) abgerufen werden.
+[^annex1-lvlu1-6]: Der Text dieser Empfehlung kann beim Europarat, F-67075 Strassburg ([www.coe.int](https://www.coe.int)) bezogen oder unter: [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide) abgerufen werden.
 
 Anhang 2[^t-2]
 
@@ -1092,7 +1093,7 @@ Anhang 2[^t-2]
 
 Als Regeln der Guten Herstellungspraxis für Arzneimittel in kleinen Mengen sind die Bestimmungen der Kapitel 20.1. und 20.2 der Pharmacopoea Helvetica[^annex2-lvlu1-1] (Ph. Helv.) anwendbar.
 
-[^annex2-lvlu1-1]: Die Pharmacopoea Helvetica wird von der Swissmedic herausgegeben und kann beim BBL, Verkauf Bundespublikationen, 3003 Bern, www.bundespublikationen.admin.ch, zu den in der GebV-Publ vorgesehenen Bedingungen bezogen werden ([SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)).
+[^annex2-lvlu1-1]: Die Pharmacopoea Helvetica wird von der Swissmedic herausgegeben und kann beim BBL, Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch), zu den in der GebV-Publ vorgesehenen Bedingungen bezogen werden ([SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)).
 
 Anhang 3
 
@@ -1204,7 +1205,7 @@ Anhang 5
 
 Empfehlung R (95) 15 des Europarats vom 12. Oktober 1995[^annex5-lvlu1-lvl1-1] für die Herstellung, Verwendung und Qualitätssicherung von Blutkomponenten einschliesslich Anhänge.
 
-[^annex5-lvlu1-lvl1-1]: Der Text dieser Empfehlung kann beim Europarat, F-67075 Strassburg (www.coe.int) bezogen oder unter: [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide) abgerufen werden.
+[^annex5-lvlu1-lvl1-1]: Der Text dieser Empfehlung kann beim Europarat, F-67075 Strassburg ([www.coe.int](https://www.coe.int)) bezogen oder unter: [www.edqm.eu/en/blood-guide](http://www.edqm.eu/en/blood-guide) abgerufen werden.
 
 ### 2 Anforderungen an das Testverfahren
 
