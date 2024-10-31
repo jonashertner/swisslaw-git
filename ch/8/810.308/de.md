@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 20. September 2013 zum Humanforschungsgesetz
 short: OV-HFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: de
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-644-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2013-644-20241101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20241101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/de"
 
 (Organisationsverordnung HFG, OV-HFG)
 
-vom 20. September 2013 (Stand am 1. September 2023)
+vom 20. September 2013 (Stand am 1. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -35,16 +35,23 @@ verordnet:
 
 <sup>1</sup>
 
-Die Ethikkommission für die Forschung (Ethikkommission) setzt sich mindestens zusammen aus Personen, die über ausgewiesene Fachkenntnisse in folgenden Bereichen verfügen:
+Die Ethikkommission für die Forschung (Ethikkommission) setzt sich mindestens zusammen aus:
 
-- a. Medizin;
-- b. Psychologie;
-- c. Pflege;
-- d. Pharmazie oder Pharmazeutische Medizin;
-- e. Biologie;
-- f. Biostatistik;
-- g. Ethik; und
-- h. Recht, einschliesslich Datenschutz.
+- a.
+
+  Personen, die über ausgewiesene Fachkenntnisse in folgenden Bereichen verfügen:
+
+  - 1\. Medizin,
+  - 2\. Psychologie,
+  - 3\. Pflege,
+  - 4\. Pharmazie oder Pharmazeutische Medizin,
+  - 5\. Biologie,
+  - 6\. Biostatistik,
+  - 7\. Ethik,
+  - 8\. Recht, einschliesslich Datenschutz,
+  - 9\. Informationstechnologie im Gesundheitsbereich; und
+
+- b. einer oder mehrerer Personen, welche die Patientinnen und Patienten vertritt.[^1-1]
 
 <sup>2</sup> Sie ist nach Geschlecht und Berufsgruppen ausgewogen zusammenzusetzen.
 
@@ -52,13 +59,17 @@ Die Ethikkommission für die Forschung (Ethikkommission) setzt sich mindestens z
 
 <sup>4</sup> Fehlen die notwendigen Fachkenntnisse für die Beurteilung eines Forschungsprojekts, so muss die Ethikkommission externe Fachpersonen beiziehen.
 
+[^1-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+
 #### Art. 2
 
 **Anforderungen an die Mitglieder**
 
 <sup>1</sup> Die Mitglieder der Ethikkommission müssen zu Beginn ihrer Tätigkeit eine Ausbildung betreffend die Aufgaben der Ethikkommission und die Grundlagen der Beurteilung von Forschungsprojekten besuchen und sich diesbezüglich regelmässig weiterbilden.
 
-<sup>2</sup> Die Mitglieder nach Artikel 1 Absatz 1 Buchstaben a–c müssen über Erfahrung in der Durchführung von Forschungsprojekten verfügen.
+<sup>2</sup> Die Mitglieder nach Artikel 1 Absatz 1 Buchstabe a Ziffern 1–3 müssen über Erfahrung in der Durchführung von Forschungsprojekten verfügen.[^2-1]
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 3
 
@@ -68,7 +79,7 @@ Die Ethikkommission für die Forschung (Ethikkommission) setzt sich mindestens z
 
 Personen, die im wissenschaftlichen Sekretariat tätig sind, müssen verfügen über:
 
-- a. ein abgeschlossenes Hochschulstudium in Medizin, Pharmazie, Naturwissenschaften, Psychologie oder Recht;
+- a.[^3-1] ein abgeschlossenes Hochschulstudium;
 - b. eine hinreichende Ausbildung in der Guten Klinischen Praxis;
 - c. Kenntnisse über die wissenschaftliche Methodik von Forschungsprojekten am Menschen; und
 - d. Kenntnisse der gesetzlichen Voraussetzungen der Forschung am Menschen.
@@ -79,6 +90,8 @@ Die personellen Ressourcen des wissenschaftlichen Sekretariats sind so zu bemess
 
 - a. dessen Verfügbarkeit für die Kommission und die Gesuchsteller sichergestellt; und
 - b. die Einhaltung der Verfahrensfristen gewährleistet ist.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 4
 
@@ -117,11 +130,12 @@ Die Ethikkommission entscheidet in einer Besetzung von drei Mitgliedern über:
 - a.[^6-1] klinische Versuche der Kategorie A nach den Artikeln 19 Absatz 1, 20 Absatz 1, 49 Absatz 1 und 61 Absatz 1 der Verordnung vom 20. September 2013[^6-2] über klinische Versuche (KlinV), wenn der Versuch nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden ist;
 - a<sup>bis</sup>.[^6-3] klinische Versuche der Unterkategorie A1 nach Artikel 6 Absatz 2 Buchstabe a und Artikel 6*a* Absatz 1 Buchstabe a der Verordnung vom 1. Juli 2020[^6-4] über klinische Versuche mit Medizinprodukten, wenn der Versuch nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden ist;
 - b. Forschungsprojekte mit Personen der Kategorie A nach Artikel 7 Absatz 1 der Humanforschungsverordnung vom 20. September 2013[^6-5];
+- b<sup>bis</sup>.[^6-6] Forschungsprojekte mit bereits vorhandenem biologischem Material und bereits vorhandenen gesundheitsbezogenen Personendaten nach den Artikeln 32 und 33 HFG, welche mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden sind;
 - c. die Weiterverwendung von biologischem Material und gesundheitsbezogenen Personendaten für die Forschung bei fehlender Einwilligung oder Information nach Artikel 34 HFG, die nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden ist;
 - d. Forschungsprojekte an verstorbenen Personen, mit Ausnahme der Forschungsprojekte an künstlich beatmeten verstorbenen Personen nach Artikel 37 Absatz 2 HFG;
-- e. wesentliche Änderungen an bewilligten Forschungsprojekten, die mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden sind.
+- e.[^6-7] wesentliche Änderungen an einem bewilligten Forschungsprojekt, welche mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden sind.
 
-<sup>2</sup> Der Dreierbesetzung müssen Mitglieder verschiedener Bereiche nach Artikel 1 angehören.[^6-6]
+<sup>2</sup> Die Dreierbesetzung ist so zu wählen, dass eine kompetente und interdisziplinäre Beurteilung des Gesuchs gewährleistet ist.[^6-8]
 
 <sup>3</sup> Ein schriftliches Verfahren ist zulässig, wenn kein Mitglied eine mündliche Beratung verlangt.
 
@@ -137,7 +151,9 @@ Das ordentliche Verfahren wird durchgeführt, wenn:
 [^6-3]: Eingefügt durch Anhang 2 Ziff. 3 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Fassung gemäss Anhang 2 Ziff. 3 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^6-4]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 [^6-5]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
-[^6-6]: Fassung gemäss Anhang 2 Ziff. 3 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^6-6]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^6-7]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^6-8]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 7
 
@@ -147,8 +163,8 @@ Das ordentliche Verfahren wird durchgeführt, wenn:
 
 Die Präsidentin oder der Präsident beziehungsweise die Vizepräsidentin oder der Vizepräsident der Ethikkommission entscheidet:
 
-- a. über Forschungsprojekte mit bereits vorhandenem biologischem Material und bereits vorhandenen gesundheitsbezogenen Personendaten, mit Ausnahme der Weiterverwendung nach Artikel 34 HFG;
-- b. über wesentliche Änderungen an bewilligten Forschungsprojekten, die nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden sind;
+- a.[^7-1] über Forschungsprojekte mit bereits vorhandenem biologischem Material und bereits vorhandenen gesundheitsbezogenen Personendaten nach den Artikeln 32 und 33 HFG, welche nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden sind;
+- b.[^7-2] über wesentliche Änderungen an einem bewilligten Forschungsprojekt, welche nicht mit besonderen Fragen in ethischer, wissenschaftlicher oder rechtlicher Hinsicht verbunden sind;
 - c. ob die Anforderungen an die lokalen Gegebenheiten bei multizentrischen Forschungsprojekten erfüllt sind;
 - d. über Nichteintreten auf unvollständige Gesuche;
 - e. über Abschreiben von Gesuchen infolge Gegenstandslosigkeit oder Rückzug;
@@ -156,6 +172,9 @@ Die Präsidentin oder der Präsident beziehungsweise die Vizepräsidentin oder d
 - g. die Anordnung behördlicher Massnahmen nach Artikel 48 HFG.
 
 <sup>2</sup> Sie oder er kann jederzeit die Durchführung des vereinfachten oder ordentlichen Verfahrens anordnen.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 8
 
@@ -171,27 +190,36 @@ Die Präsidentin oder der Präsident beziehungsweise die Vizepräsidentin oder d
 
 Die kantonale Aufsichtsbehörde meldet der Koordinationsstelle nach Artikel 10 die zuständige Ethikkommission.
 
-## 2. Kapitel: Koordinationsstelle
+## 2. Kapitel: Koordination und Information
+
+[^chap2-1]
+
+[^chap2-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 10
 
-<sup>1</sup> Das Bundesamt für Gesundheit (BAG) führt die Koordinationsstelle nach Artikel 55 HFG.
+**Aufgaben des Bundesamtes für Gesundheit und der Koordinationsstelle**
 
-<sup>2</sup>
+<sup>1</sup>
 
-Die Koordinationsstelle hat insbesondere folgende Aufgaben:
+Das Bundesamt für Gesundheit (BAG) hat insbesondere folgende Aufgaben:
 
-- a. Sie stellt einen regelmässigen Austausch zwischen den beteiligten Prüfbehörden sicher.
-- b. Sie stellt einen regelmässigen Austausch mit Vertretungen und Institutionen der Forschung sicher.
-- c. Sie stellt in Zusammenarbeit mit den Ethikkommissionen und allenfalls weiteren betroffenen Prüfbehörden Empfehlungen zum Bewilligungs- und zum Meldeverfahren und zu einzelnen Aspekten der Entscheidpraxis bereit.
-- d. Sie wirkt bei der Konzeption und Durchführung von Aus- und Weiterbildungsinhalten für Mitglieder der Ethikkommissionen mit.
-- e. Sie informiert die Öffentlichkeit, namentlich erstellt sie eine Zusammenfassung der Jahresberichte der Ethikkommissionen und eine statistische Übersicht über die bewilligten Forschungsprojekte.
+- a. es führt eine Koordinationsstelle zur Koordination zwischen den Ethikkommissionen sowie weiteren Prüfbehörden nach Artikel 55 Absatz 1 HFG;
+- b. es beaufsichtigt die nach Artikel 10*a* an Dritte ausgelagerten Koordinationsaufgaben;
+- c. es erlässt Richtlinien über den Inhalt der Berichterstattung der Ethikkommissionen nach Artikel 55 Absatz 2 HFG;
+- d. es informiert die Öffentlichkeit, namentlich erstellt es eine Zusammenfassung der Jahresberichte der Ethikkommissionen und eine statistische Übersicht über die bewilligten Forschungsprojekte.
 
-<sup>3</sup> Sie kann im Rahmen des Betriebs des Portals und der ergänzenden Datenbank des Bundes nach Artikel 67 KlinV[^10-1] den elektronischen Austausch von Dokumenten des Bewilligungs- und Meldeverfahrens zwischen Gesuchsteller und Bewilligungsbehörden ermöglichen.
+<sup>2</sup> Die Koordinationsstelle stellt insbesondere einen regelmässigen Austausch zwischen den beteiligten Prüfbehörden sicher.
 
-<sup>4</sup> Sie erlässt Richtlinien über den Inhalt der Berichterstattung der Ethikkommissionen nach Artikel 55 Absatz 2 HFG.
+<sup>3</sup> Sie kann in Zusammenarbeit mit den Ethikkommissionen und allenfalls weiteren betroffenen Prüfbehörden Empfehlungen zum Bewilligungs- und zum Meldeverfahren und zu einzelnen Aspekten der Entscheidpraxis bereitstellen.
 
-[^10-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+#### Art. 10a
+
+**Übertragung von Koordinationsaufgaben auf die Schweizerische Vereinigung der Forschungsethikkommissionen**
+
+<sup>1</sup> Die Koordination zwischen den Ethikkommissionen wird der Schweizerischen Vereinigung der Forschungsethikkommissionen (Swissethics) übertragen. Für den nachweisbaren Aufwand in diesem Zusammenhang erhält Swissethics eine Abgeltung des Bundes.
+
+<sup>2</sup> Einzelheiten betreffend die Aufgabenübertragung und die Abgeltung werden in einem öffentlich-rechtlichen Vertrag zwischen dem BAG und Swissethics geregelt.
 
 ## 3. Kapitel: Datenschutz
 
@@ -212,7 +240,7 @@ Bevor die Vollzugsbehörde Personendaten an die zuständigen Stellen nach Artike
 Die Pflichten gemäss Absatz 1 entfallen, wenn:
 
 - a.[^11-1] die betroffene Person bereits über die entsprechenden Informationen verfügt;
-- b.[^11-2] ...
+- b.[^11-2] …
 - c. die unmittelbare Gefahr besteht, dass Rechtsansprüche oder wichtige Interessen Dritter beeinträchtigt oder die Erfüllung gesetzlicher Aufgaben vereitelt werden; oder
 - d. die betroffene Person unauffindbar ist.
 
@@ -220,6 +248,19 @@ Die Pflichten gemäss Absatz 1 entfallen, wenn:
 
 [^11-1]: Fassung gemäss Anhang 2 Ziff. II 96 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^11-2]: Aufgehoben durch Anhang 2 Ziff. II 96 der Datenschutzverordnung vom 31. Aug. 2022, mit Wirkung seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 11a
+
+**Datenübermittlung durch die Kantone**[^11a-1]
+
+Die Kantone übermitteln dem BAG die Daten aus dem Informationssystem der Kantone, welche es benötigt für:
+
+- a. die Information der Öffentlichkeit;
+- b. die Evaluation der Humanforschungsgesetzgebung;
+- c. das Betreiben des Portals nach Artikel 67 KlinV[^11a-2].
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^11a-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 12
 

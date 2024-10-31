@@ -4,11 +4,11 @@ title: "Ordonnance d'organisation du 20 septembre 2013 concernant la loi relativ
 short: Org LRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: fr
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-644-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-644-20241101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20241101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/fr"
 
 (Ordonnance d’organisation concernant la LRH, Org LRH)
 
-du 20 septembre 2013 (État le 1<sup>er</sup> septembre 2023)
+du 20 septembre 2013 (État le 1<sup>er</sup> novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -35,16 +35,23 @@ arrête:
 
 <sup>1</sup>
 
-La commission d’éthique de la recherche (commission d’éthique) est constituée au moins de personnes disposant de connaissances spécifiques attestées dans les domaines suivants:
+La commission d’éthique de la recherche (commission d’éthique) est constituée au moins:
 
-- a. médecine;
-- b. psychologie;
-- c. soins;
-- d. pharmacie ou médecine pharmaceutique;
-- e. biologie;
-- f. biostatistique;
-- g. éthique, et
-- h. droit, protection des données incluse.
+- a.
+
+  de personnes disposant de connaissances spécifiques attestées dans les domaines suivants:
+
+  - 1\. médecine,
+  - 2\. psychologie,
+  - 3\. soins,
+  - 4\. pharmacie ou médecine pharmaceutique,
+  - 5\. biologie,
+  - 6\. biostatistique,
+  - 7\. éthique,
+  - 8\. droit, protection des données incluse,
+  - 9\. technologies de l’information dans le domaine de la santé, et
+
+- b. d’une ou de plusieurs personnes représentant les patients.[^1-1]
 
 <sup>2</sup> Les deux sexes et les groupes professionnels doivent être représentés équitablement au sein de la commission d’éthique.
 
@@ -52,13 +59,17 @@ La commission d’éthique de la recherche (commission d’éthique) est constit
 
 <sup>4</sup> Elle fait appel à des experts externes si les connaissances spécifiques requises pour l’appréciation d’un projet de recherche font défaut.
 
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+
 #### Art. 2
 
 **Exigences à l’égard des membres**
 
 <sup>1</sup> Les membres de la commission d’éthique doivent, au début de leur activité, suivre une formation concernant les tâches de la commission d’éthique et les principes en matière d’évaluation de projets de recherche; ils veillent à se perfectionner régulièrement dans ces domaines.
 
-<sup>2</sup> Les membres visés à l’art. 1, al. 1, let. a à c, doivent avoir de l’expérience dans la réalisation de projets de recherche.
+<sup>2</sup> Les membres visés à l’art. 1, al. 1, let. a, ch. 1 à 3, doivent avoir de l’expérience dans la réalisation de projets de recherche.[^2-1]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 3
 
@@ -68,7 +79,7 @@ La commission d’éthique de la recherche (commission d’éthique) est constit
 
 Les personnes qui travaillent au secrétariat scientifique doivent avoir:
 
-- a. accompli des études universitaires complètes en médecine, pharmacie, sciences naturelles, psychologie ou droit;
+- a.[^3-1] accompli des hautes études;
 - b. une formation suffisante en matière de bonnes pratiques cliniques;
 - c. des connaissances sur les méthodes scientifiques des projets de recherche sur l’être humain, et
 - d. des connaissances sur les conditions légales s’appliquant à la recherche sur l’être humain.
@@ -79,6 +90,8 @@ Les ressources en personnel du secrétariat scientifique sont calculées de mani
 
 - a. assurer une disponibilité suffisante pour la commission et les requérants, et
 - b. garantir le respect des délais de procédure.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324), [583](https://fedlex.data.admin.ch/eli/oc/2024/583)).
 
 #### Art. 4
 
@@ -117,11 +130,12 @@ La commission d’éthique statue dans une composition à trois membres sur:
 - a.[^6-1] les essais cliniques de la catégorie A au sens des art. 19, al. 1, 20, al. 1, 49, al. 1, et 61, al. 1, de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^6-2] si l’essai ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
 - a<sup>bis</sup>.[^6-3] les essais cliniques de sous-catégorie A1 au sens de l’art. 6, al. 2, let. a, et de l’art. 6*a*, al. 1, let. a, de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de dispositifs médicaux[^6-4], si l’essai ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
 - b. les projets de recherche sur des personnes de la catégorie A selon l’art. 7, al. 1, de l’ordonnance du 20 septembre 2013 relative à la recherche sur l’être humain[^6-5];
+- b<sup>bis</sup>.[^6-6] les projets de recherche avec du matériel biologique et des données personnelles liées à la santé déjà disponibles visés aux art. 32 et 33 LRH, si le projet soulève des questions spécifiques d’ordre éthique, scientifique ou juridique;
 - c. la réutilisation de matériel biologique et de données personnelles liées à la santé à des fins de recherche en cas de défaut de consentement ou d’information selon l’art. 34 LRH, si le projet de recherche ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
 - d. les projets de recherche sur des personnes décédées, exception faite des projets de recherche sur des personnes décédées placées sous respiration artificielle selon l’art. 37, al. 2, LRH;
-- e. les modifications essentielles apportées aux projets de recherche autorisés soulevant des questions spécifiques d’ordre éthique, scientifique ou juridique.
+- e.[^6-7] les modifications essentielles apportées à un projet de recherche autorisé soulevant des questions spécifiques d’ordre éthique, scientifique ou juridique.
 
-<sup>2</sup> La composition à trois doit comprendre des membres appartenant à différents domaines visés à l’art. 1.[^6-6]
+<sup>2</sup> La composition à trois doit être choisie de manière à garantir une évaluation compétente et interdisciplinaire de la demande.[^6-8]
 
 <sup>3</sup> Une procédure écrite est autorisée si aucun membre n’exige des délibérations orales.
 
@@ -137,7 +151,9 @@ La procédure ordinaire est appliquée quand:
 [^6-3]: Introduite par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^6-4]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 [^6-5]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
-[^6-6]: Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^6-6]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^6-7]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^6-8]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 7
 
@@ -147,8 +163,8 @@ La procédure ordinaire est appliquée quand:
 
 Le président ou le vice-président de la commission d’éthique statue:
 
-- a. sur les projets de recherche avec du matériel biologique et des données personnelles liées à la santé déjà disponibles, exception faite de la réutilisation selon l’art. 34 LRH;
-- b. sur les modifications essentielles apportées aux projets de recherche autorisés s’ils ne soulèvent pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
+- a.[^7-1] sur les projets de recherche avec du matériel biologique et des données personnelles liées à la santé déjà disponibles visés aux art. 32 et 33 LRH, si le projet ne soulève pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
+- b.[^7-2] sur les modifications essentielles apportées à un projet de recherche autorisé ne soulevant pas de questions spécifiques d’ordre éthique, scientifique ou juridique;
 - c. si les exigences requises pour les spécificités locales pour les essais cliniques multicentriques sont remplies;
 - d. sur la non-entrée en matière concernant des demandes incomplètes;
 - e. sur le classement de demandes devenues sans objet ou suite à un retrait;
@@ -156,6 +172,9 @@ Le président ou le vice-président de la commission d’éthique statue:
 - g. sur les mesures ordonnées par les autorités selon l’art. 48 LRH.
 
 <sup>2</sup> Il peut ordonner en tout temps l’application de la procédure simplifiée ou de la procédure ordinaire.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 8
 
@@ -167,31 +186,42 @@ Le président ou le vice-président de la commission d’éthique statue:
 
 #### Art. 9
 
-**Obligation d’annoncer**
+**Obligation de déclarer**[^9-1]
 
-L’autorité cantonale de surveillance annonce à l’organe de coordination visé à l’art. 10 quelle est la commission d’éthique compétente.
+L’autorité cantonale de surveillance déclare à l’organe de coordination visé à l’art. 10 quelle est la commission d’éthique compétente.
 
-## Chapitre 2 Organe de coordination
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+
+## Chapitre 2 Coordination et information
+
+[^chap2-1]
+
+[^chap2-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 10
 
-<sup>1</sup> L’Office fédéral de la santé publique (OFSP) gère l’organe de coordination conformément à l’art. 55 LRH.
+**Tâches de l’Office fédéral de la santé publique et de l’organe de coordination**
 
-<sup>2</sup>
+<sup>1</sup>
 
-L’organe de coordination assume notamment les tâches suivantes:
+L’Office fédéral de la santé publique (OFSP) assume notamment les tâches suivantes:
 
-- a. il garantit l’échange régulier entre les autorités de contrôle impliquées;
-- b. il garantit l’échange régulier avec les représentations et les institutions appartenant au domaine de la recherche;
-- c. il met à disposition, en collaboration avec les commissions d’éthique et les autres autorités de contrôle concernées, des recommandations relatives aux procédures en matière d’autorisations et d’annonces et à certains aspects de la pratique décisionnelle;
-- d. il participe à la conception et à la réalisation de programmes de formation et de formation continue destinés aux membres des commissions d’éthique;
-- e. il informe le public, notamment en résumant les rapports annuels des commissions d’éthique et en dressant un aperçu statistique des projets de recherche autorisés.
+- a. il gère un organe de coordination entre les commissions d’éthique et les autres autorités de contrôle en application de l’art. 55, al. 1, LRH;
+- b. il assume la surveillance des tâches de coordination confiées à des tiers conformément à l’art. 10*a*;
+- c. il émet des directives sur le contenu des rapports des commissions d’éthique prévus à l’art. 55, al. 2, LRH;
+- d. il informe le public, notamment en résumant les rapports annuels des commissions d’éthique et en dressant un aperçu statistique des projets de recherche autorisés.
 
-<sup>3</sup> Dans le cadre de l’exploitation du portail et de la banque de données complémentaire de la Confédération visée à l’art. 67 OClin[^10-1], il peut permettre l’échange électronique de documents de la procédure d’autorisation et d’annonce entre le requérant et les autorités chargées d’octroyer l’autorisation.
+<sup>2</sup> L’organe de coordination garantit notamment l’échange régulier entre les autorités de contrôle impliquées.
 
-<sup>4</sup> Il émet des directives sur le contenu des rapports des commissions d’éthique selon l’art. 55, al. 2, LRH.
+<sup>3</sup> Il peut mettre à disposition, en collaboration avec les commissions d’éthique et les autres autorités de contrôle concernées, des recommandations relatives aux procédures en matière d’autorisations et de déclarations et à certains aspects de la pratique décisionnelle.
 
-[^10-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+#### Art. 10a
+
+**Délégation de tâches de coordination à l’Association suisse des commissions d’éthique de la recherche**
+
+<sup>1</sup> La coordination entre les commissions d’éthique est déléguée à l’Association suisse des commissions d’éthique de la recherche (Swissethics). Les charges démontrables encourues par Swissethics dans l’accomplissement de cette tâche sont indemnisées par la Confédération.
+
+<sup>2</sup> Les modalités de la délégation des tâches et de l’indemnisation sont réglées dans un contrat de droit public entre l’OFSP et Swissethics.
 
 ## Chapitre 3 Protection des données
 
@@ -220,6 +250,19 @@ Les obligations visées à l’al. 1 ne s’appliquent pas quand:
 
 [^11-1]: Nouvelle teneur selon l’annexe 2 ch. II 96 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^11-2]: Abrogée par l’annexe 2 ch. II 94 de l’O du 31 août 2022 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 11a
+
+**Transmission de données par les cantons**[^11a-1]
+
+Les cantons transmettent à l’OFSP les données issues du système d’information des cantons dont ce dernier a besoin pour:
+
+- a. l’information du public;
+- b. l’évaluation de la législation relative à la recherche sur l’être humain;
+- c. l’exploitation du portail visé à l’art. 67 OClin[^11a-2].
+
+[^11a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^11a-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 12
 

@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Organisational Aspects of the Human Re
 short: OrgO-HRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: en
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2013-644-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20241101/en/xml/fedlex-data-admin-ch-eli-cc-2013-644-20241101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20241101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (HRA Organisation Ordinance, OrgO-HRA)
 
-of 20 September 2013 (Status as of 1 September 2023)
+of 20 September 2013 (Status as of 1 November 2024)
 
 The Swiss Federal Council,
 
@@ -37,16 +37,23 @@ ordains:
 
 <sup>1</sup>
 
-The research ethics committee (ethics committee) shall be composed at least of persons possessing expertise in the following disciplines:
+The research ethics committee (ethics committee) shall be composed at least of:
 
-- a. medicine;
-- b. psychology;
-- c. nursing;
-- d. pharmaceutics or pharmaceutical medicine;
-- e. biology;
-- f. biostatistics;
-- g. ethics; and
-- h. law, including data protection.
+- a.
+
+  persons possessing expertise in the following disciplines:
+
+  - 1\. medicine,
+  - 2\. psychology,
+  - 3\. nursing,
+  - 4\. pharmaceutics or pharmaceutical medicine,
+  - 5\. biology,
+  - 6\. biostatistics,
+  - 7\. ethics,
+  - 8\. law, including data protection,
+  - 9\. information technology in the health sector; and
+
+- b. one or more persons representing patients.[^1-1]
 
 <sup>2</sup> It shall be of balanced composition as regards gender and professional groups.
 
@@ -54,13 +61,17 @@ The research ethics committee (ethics committee) shall be composed at least of p
 
 <sup>4</sup> If the ethics committee lacks the expertise required for the assessment of a research project, it must call in external specialists.
 
+[^1-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+
 #### Art. 2
 
 **Requirements for members**
 
 <sup>1</sup> Members of the ethics committee must, on commencing their service, attend a course on the duties of the ethics committee and the fundamentals of the assessment of research projects, and must regularly undergo further training in this area.
 
-<sup>2</sup> The members specified in Article 1 paragraph 1 letters a–c must have experience in the conduct of research projects.
+<sup>2</sup> The members specified in Article 1 paragraph 1 letter a numbers 1–3 must have experience in the conduct of research projects.[^2-1]
+
+[^2-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 3
 
@@ -70,7 +81,7 @@ The research ethics committee (ethics committee) shall be composed at least of p
 
 Persons working for the scientific secretariat must have:
 
-- a. a degree in medicine, pharmaceutics, natural sciences, psychology or law;
+- a.[^3-1] a higher education degree;
 - b. adequate training in Good Clinical Practice;
 - c. a knowledge of scientific methods for human research projects; and
 - d. a knowledge of the legal requirements governing human research.
@@ -82,13 +93,15 @@ The scientific secretariat shall be staffed at a level that is sufficient:
 - a. to ensure its availability for the committee and for applicants; and
 - b. to guarantee that procedural deadlines are met.
 
+[^3-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+
 #### Art. 4
 
-**Withdrawal from participation**
+**Recusal**
 
 <sup>1</sup>
 
-Members of the ethics committee shall withdraw from participation in cases where:
+Members of the ethics committee shall recuse themselves from cases in which:
 
 - a. they are personally involved, or otherwise have a personal interest, in the research project;
 - b. persons reporting to them, to whom they report, or with whom they have close personal ties, are involved in the research project; or
@@ -117,13 +130,14 @@ Members of the ethics committee shall withdraw from participation in cases where
 The ethics committee shall make decisions with the participation of three members on:
 
 - a.[^6-1] Category A clinical trials, as specified in Article 19 paragraph 1, Article 20 paragraph 1, Article 49 paragraph 1 and Article 61 paragraph 1 of the Ordinance of 20 September 2013[^6-2] on Clinical Trials (ClinO), provided that the trial does not raise any particular ethical, scientific or legal issues;
-- a<sup>bis</sup>.[^6-3] clinical trials in Subcategory A1 as referred to in Article 6 paragraph 2 letter a and Article 6*a* paragraph 1 letter a of the Ordinance of 1 July 2020[^6-4] on Clinical Trials with Medical Devices, provided the trial does not raise any particular specific ethical, scientific or legal issues;
+- a<sup>bis</sup>.[^6-3] clinical trials in Subcategory A1 as referred to in Article 6 paragraph 2 letter a and Article 6*a* paragraph 1 letter a of the Ordinance of 1 July 2020[^6-4] on Clinical Trials of Medical Devices, provided the trial does not raise any particular specific ethical, scientific or legal issues;
 - b. Category A research projects involving persons, as specified in Article 7 paragraph 1 of the Human Research Ordinance of 20 September 2013[^6-5];
+- b<sup>bis</sup>.[^6-6] research projects involving existing biological material and existing health-related personal data in accordance with Articles 32 and 33 HRA, if they raise particular ethical, scientific or legal issues;
 - c. the further use for research of biological material or health-related personal data in the absence of informed consent, in accordance with Article 34 HRA, provided that this does not raise any particular ethical, scientific or legal issues;
 - d. research projects involving deceased persons, with the exception of research projects involving deceased persons undergoing artificial respiration, as specified in Article 37 paragraph 2 HRA;
-- e. significant changes to authorised research projects, if they raise particular ethical, scientific or legal issues.
+- e.[^6-7] substantial modifications to an approved research project, if they raise particular ethical, scientific or legal issues.
 
-<sup>2</sup> The group of three must comprise members from different disciplines specified in Article 1.[^6-6]
+<sup>2</sup> The group of three must be selected in such a way as to ensure an expert and interdisciplinary assessment of the application.[^6-8]
 
 <sup>3</sup> The conduct of proceedings in writing is permissible if no members request oral deliberations.
 
@@ -136,10 +150,12 @@ The regular procedure shall be adopted if:
 
 [^6-1]: Amended by Annex No 3 of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^6-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^6-3]: Inserted by Annex 2 No 3 of the O of 1 July 2020 on Clinical Trials with Medical Devices ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Amended by Annex 2 No 3 of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-3]: Inserted by Annex 2 No 3 of the O of 1 July 2020 on Clinical Trials on Medical Devices ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Amended by Annex 2 No 3 of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^6-4]: SR **812.213.3**
 [^6-5]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
-[^6-6]: Amended by Annex 2 No 3 of the O of 1 July 2020 on Clinical Trials with Medical Devices, in force since 26 May 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^6-6]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^6-7]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^6-8]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 7
 
@@ -149,8 +165,8 @@ The regular procedure shall be adopted if:
 
 The chair or vice-chair of the ethics committee shall make decisions on:
 
-- a. research projects involving existing biological material or existing health-related personal data, with the exception of further use in accordance with Article 34 HRA;
-- b. significant changes to authorised research projects which do not raise any particular ethical, scientific or legal issues;
+- a.[^7-1] research projects involving existing biological material and existing health-related personal data in accordance with Articles 32 and 33 HRA if they do not raise any particular ethical, scientific or legal issues;
+- b.[^7-2] substantial modifications to an approved research project if they do not raise any particular ethical, scientific or legal issues;
 - c. whether the requirements concerning local conditions in multicentre research projects are met;
 - d. refusal to consider incomplete applications;
 - e. the cancellation of applications which are no longer relevant or have been withdrawn;
@@ -159,11 +175,14 @@ The chair or vice-chair of the ethics committee shall make decisions on:
 
 <sup>2</sup> He or she may at any time order the adoption of the simplified or regular procedure.
 
+[^7-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^7-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+
 #### Art. 8
 
 **Obligation to retain documents and right of inspection**
 
-<sup>1</sup> Application documents submitted to the ethics committee, minutes of meetings and correspondence must be retained for ten years after the completion or discontinuation of a research project.
+<sup>1</sup> Application documents submitted to the ethics committee, minutes of meetings and correspondence must be retained for ten years after the completion or premature termination of a research project.
 
 <sup>2</sup> The cantonal supervisory authority may inspect these documents.
 
@@ -173,27 +192,36 @@ The chair or vice-chair of the ethics committee shall make decisions on:
 
 The cantonal supervisory authority shall notify the coordination office as specified in Article 10 of the responsible ethics committee.
 
-## Chapter 2 Coordination Office
+## Chapter 2 Coordination and Information
+
+[^chap2-1]
+
+[^chap2-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 10
 
-<sup>1</sup> The Federal Office of Public Health (FOPH) shall manage the coordination office as specified in Article 55 HRA.
+**Duties of the Federal Office of Public Health and of the Coordination Office**
 
-<sup>2</sup>
+<sup>1</sup>
 
-In particular, the coordination office has the following duties:
+The Federal Office of Public Health (FOPH) has, in particular, the following duties:
 
-- a. It ensures regular exchanges between the supervisory authorities concerned.
-- b. It ensures regular exchanges with research representatives and institutions.
-- c. In cooperation with the ethics committees and, where appropriate, other supervisory authorities concerned, it issues recommendations on authorisation and notification procedures and on specific aspects of decision-making practice.
-- d. It participates in the design and implementation of basic and further training for members of ethics committees.
-- e. It provides information for the public, preparing in particular a summary of the annual reports submitted by ethics committees and a statistical overview of the research projects authorised.
+- a. it operates a Coordination Office to ensure coordination between ethics committees and other supervisory authorities, as specified in Article 55 paragraph 1 HRA;
+- b. it oversees the coordination responsibilities delegated to third parties under Article 10*a*;
+- c. it issues guidelines concerning the content of the reports to be submitted by the ethics committees in accordance with Article 55 paragraph 2 HRA;
+- d. it provides information for the public, preparing in particular a summary of the annual reports submitted by ethics committees and a statistical overview of the research projects approved.
 
-<sup>3</sup> It may, within the framework of the operation of the portal and the supplementary federal database in accordance with Article 67 ClinO[^10-1], enable the electronic exchange of documents relating to the authorisation and notification procedures between applicants and authorisation authorities.
+<sup>2</sup> The Coordination Office, in particular, ensures regular exchanges between the supervisory authorities concerned.
 
-<sup>4</sup> It shall issue guidelines on the content of the reports to be submitted by ethics committees in accordance with Article 55 paragraph 2 HRA.
+<sup>3</sup> It may, in cooperation with the ethics committees and, where appropriate, other supervisory authorities concerned, issue recommendations on approval and notification procedures and on specific aspects of decision-making practice.
 
-[^10-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+#### Art. 10a
+
+**Delegation of coordination responsibilities to the Swiss Association of Research Ethics Committees**
+
+<sup>1</sup> Coordination between the ethics committees shall be delegated to the Swiss Association of Research Ethics Committees (Swissethics). For its demonstrable efforts in this connection, Swissethics shall receive federal compensation.
+
+<sup>2</sup> The details of the delegation of responsibilities and the compensation shall be determined in a public law contract between the FOPH and Swissethics.
 
 ## Chapter 3 Data Protection
 
@@ -218,10 +246,23 @@ The obligations specified in paragraph 1 do not apply if:
 - c. there is an immediate risk of legal claims or important third-party interests being prejudiced, or the fulfilment of legal duties being prevented; or
 - d. the data subject cannot be traced.
 
-<sup>3</sup> If data are to be published under Article 59 paragraph 3 HRA, all items which, when combined, would enable the data subject to be identified without disproportionate effort, must be masked or deleted. These include in particular the name, address, date of birth and unique identification numbers.
+<sup>3</sup> If data are to be published under Article 59 paragraph 3 HRA, all items which, when combined, would enable the data subject to be identified without disproportionate effort, must be made unrecognisable or deleted. These include in particular the name, address, date of birth and unique identification numbers.
 
 [^11-1]: Amended by Annex 2 No II 96 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^11-2]: Repealed by Annex 2 No II 96 of the Data Protection Ordinance of 31 Aug. 2022, with effect from 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 11a
+
+**Data transmission by the cantons**[^11a-1]
+
+The cantons shall transmit to the FOPH the data from the cantonal information system which it requires for:
+
+- a. the provision of information for the public;
+- b. the evaluation of human research legislation;
+- c. the operation of the portal specified in Article 67 ClinO[^11a-2].
+
+[^11a-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^11a-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 12
 

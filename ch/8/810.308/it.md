@@ -4,11 +4,11 @@ title: "Ordinanza sull'organizzazione del 20 settembre 2013 relativa alla legge 
 short: Org-LRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/644"
 language: it
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2013-644-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/644/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2013-644-20241101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20241101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/644/20230901/it"
 
 (Ordinanza sull’organizzazione relativa alla LRUm, Org-LRUm)
 
-del 20 settembre 2013 (Stato 1° settembre 2023) (Stato 1° settembre 2023)
+del 20 settembre 2013 (Stato 1° novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -35,16 +35,23 @@ ordina:
 
 <sup>1</sup>
 
-La commissione d’etica per la ricerca (commissione d’etica) è composta per lo meno di persone che possiedono comprovate conoscenze specialistiche nei seguenti settori:
+La commissione d’etica per la ricerca (commissione d’etica) è composta per lo meno di:
 
-- a. medicina;
-- b. psicologia;
-- c. cure;
-- d. farmacia o medicina farmacologica;
-- e. biologia;
-- f. biostatistica;
-- g. etica; e
-- h. diritto, compresa la protezione dei dati.
+- a.
+
+  persone che possiedono comprovate conoscenze specialistiche nei seguenti settori:
+
+  - 1\. medicina,
+  - 2\. psicologia,
+  - 3\. cure,
+  - 4\. farmacia o medicina farmacologica,
+  - 5\. biologia,
+  - 6\. biostatistica,
+  - 7\. etica,
+  - 8\. diritto, compresa la protezione dei dati,
+  - 9\. tecnologia dell’informazione in ambito sanitario; e
+
+- b. una o più persone che rappresentano i pazienti.[^1-1]
 
 <sup>2</sup> I due sessi e i gruppi professionali sono equamente rappresentati.
 
@@ -52,13 +59,17 @@ La commissione d’etica per la ricerca (commissione d’etica) è composta per 
 
 <sup>4</sup> La commissione d’etica ricorre a specialisti esterni se non dispone delle necessarie conoscenze specialistiche per la valutazione di un progetto di ricerca.
 
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+
 #### Art. 2
 
 **Esigenze poste ai membri**
 
 <sup>1</sup> I membri della commissione d’etica, all’inizio della loro attività, seguono una formazione concernente i compiti della commissione e i principi in materia di valutazione di progetti di ricerca e svolgono periodicamente una formazione continua in questi ambiti;
 
-<sup>2</sup> I membri di cui all’articolo 1 capoverso 1 lettere a–c devono disporre di esperienza nello svolgimento di progetti di ricerca.
+<sup>2</sup> I membri di cui all’articolo 1 capoverso 1 lettera a numeri 1–3 devono disporre di esperienza nello svolgimento di progetti di ricerca.[^2-1]
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 3
 
@@ -68,7 +79,7 @@ La commissione d’etica per la ricerca (commissione d’etica) è composta per 
 
 Le persone attive nella segreteria scientifica devono disporre di:
 
-- a. un titolo di studi universitari in medicina, farmacia, scienze naturali, psicologia o diritto;
+- a.[^3-1] un titolo di studi universitari;
 - b. una formazione sufficiente nella Buona prassi clinica;
 - c. conoscenze della metodologia scientifica dei progetti di ricerca sull’essere umano; e
 - d. conoscenze requisiti delle condizioni legali della ricerca sull’essere umano.
@@ -79,6 +90,8 @@ Le risorse umane della segreteria scientifica devono essere commisurate in manie
 
 - a. assicurare la sua disponibilità per la commissione e i richiedenti; e
 - b. garantire il rispetto dei termini procedurali.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 4
 
@@ -117,11 +130,12 @@ La commissione d’etica decide nella composizione di tre membri su:
 - a.[^6-1] sperimentazioni cliniche della categoria A secondo gli articoli 19 capoverso 1, 20 capoverso 1, 49 capoverso 1 e 61 capoverso 1 dell’ordinanza del 20 settembre 2013[^6-2] sulle sperimentazioni cliniche (OSRUm), se la sperimentazione non solleva questioni particolari di natura etica, scientifica o giuridica;
 - a<sup>bis</sup>.[^6-3] sperimentazioni cliniche della sottocategoria A1 secondo gli articoli 6 capoverso 2 lettera a e 6*a* capoverso 1 lettera a dell’ordinanza del 1° luglio 2020[^6-4] sulle sperimentazioni cliniche con dispositivi medici, se la sperimentazione non solleva questioni particolari di natura etica, scientifica o giuridica;
 - b. progetti di ricerca con persone della categoria A secondo l’articolo 7 capoverso 1 dell’ordinanza del 20 settembre 2013[^6-5] sulla ricerca umana;
+- b<sup>bis</sup>.[^6-6] progetti di ricerca che utilizzano materiale biologico e dati sanitari personali già disponibili secondo gli articoli 32 e 33 LRUm, se sollevano questioni particolari di natura etica, scientifica o giuridica;
 - c. la riutilizzazione di materiale biologico e di dati sanitari personali per la ricerca in caso di assenza di consenso o informazione secondo l’articolo 34 LRUm, se non solleva questioni particolari di natura etica, scientifica o giuridica;
 - d. progetti di ricerca su persone decedute, ad eccezione dei progetti di ricerca su persone decedute sottoposte a respirazione artificiale secondo l’articolo 37 capoverso 2 LRUm;
-- e. modifiche essenziali apportate a progetti di ricerca autorizzati, se sollevano questioni particolari di natura etica, scientifica o giuridica.
+- e.[^6-7] modifiche essenziali apportate a un progetto di ricerca autorizzato, se sollevano questioni particolari di natura etica, scientifica o giuridica.
 
-<sup>2</sup> La composizione a tre include membri di diversi settori secondo l’articolo 1.[^6-6]
+<sup>2</sup> La composizione a tre deve essere scelta in maniera da garantire una valutazione competente e interdisciplinare della domanda.[^6-8]
 
 <sup>3</sup> Una procedura scritta è ammessa se nessun membro esige una deliberazione orale.
 
@@ -137,7 +151,9 @@ La procedura ordinaria è svolta se:
 [^6-3]: Introdotta dall’all. 2 n. 3 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Nuovo testo giusta l’all. 2 n. 3 dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^6-4]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 [^6-5]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
-[^6-6]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 1° lug. 2020 sulle sperimentazioni cliniche con dispositivi medici, in vigore dal 26 mag. 2021 ([RU 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^6-6]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^6-7]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^6-8]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 7
 
@@ -147,8 +163,8 @@ La procedura ordinaria è svolta se:
 
 Il presidente o il vicepresidente della commissione d’etica decide:
 
-- a. sui progetti di ricerca che utilizzano materiale biologico e dati sanitari personali già disponibili, ad eccezione della riutilizzazione ai sensi dell’articolo 34 LRUm;
-- b. sulle modifiche essenziali apportate a progetti di ricerca autorizzati, se non sollevano questioni particolari di natura etica, scientifica o giuridica;
+- a.[^7-1] sui progetti di ricerca che utilizzano materiale biologico e dati sanitari personali già disponibili secondo gli articoli 32 e 33 LRUm, se non sollevano questioni particolari di natura etica, scientifica o giuridica;
+- b.[^7-2] sulle modifiche essenziali apportate a un progetto di ricerca autorizzato, se non sollevano questioni particolari di natura etica, scientifica o giuridica;
 - c. sull’adempimento delle esigenze riguardanti le particolarità locali per i progetti di ricerca multicentrici;
 - d. sulla non entrata nel merito di domande incomplete;
 - e. sullo stralcio di domande in quanto prive di oggetto o ritirate;
@@ -156,6 +172,9 @@ Il presidente o il vicepresidente della commissione d’etica decide:
 - g. sull’adozione dei provvedimenti delle autorità di cui all’articolo 48 LRUm.
 
 <sup>2</sup> Può ordinare in qualsiasi momento lo svolgimento della procedura semplificata o della procedura ordinaria.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 8
 
@@ -171,27 +190,36 @@ Il presidente o il vicepresidente della commissione d’etica decide:
 
 L’autorità cantonale di vigilanza notifica la commissione d’etica competente all’organo di coordinamento di cui all’articolo 10.
 
-## Capitolo 2: Organo di coordinamento
+## Capitolo 2: Coordinamento e informazione
+
+[^chap2-1]
+
+[^chap2-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
 
 #### Art. 10
 
-<sup>1</sup> L’Ufficio federale della sanità pubblica (UFSP) dirige l’organo di coordinamento conformemente all’articolo 55 LRUm.
+**Compiti dell’Ufficio federale della sanità pubblica e dell’organo di coordinamento**
 
-<sup>2</sup>
+<sup>1</sup>
 
-L’organo di coordinamento ha in particolare i seguenti compiti:
+L’Ufficio federale della sanità pubblica (UFSP) ha in particolare i seguenti compiti:
 
-- a. garantisce uno scambio periodico fra le autorità d’esame coinvolte;
-- b. garantisce uno scambio regolare con le rappresentanze e le istituzioni del settore della ricerca;
-- c. mette a disposizione raccomandazioni sulle procedure di autorizzazione e di notifica concernenti singoli aspetti della prassi decisionale, in collaborazione con le commissioni d’etica ed eventuali altre autorità d’esame interessate;
-- d. partecipa alla concezione e all’esecuzione di programmi di formazione e di formazione continua destinati ai membri delle commissioni d’etica;
-- e. informa il pubblico, segnatamente redigendo una sintesi dei rapporti annuali delle commissioni d’etica e un compendio statistico dei progetti di ricerca autorizzati.
+- a. dirige un organo che assicura il coordinamento tra le commissioni d’etica e le altre autorità d’esame conformemente all’articolo 55 capoverso 1 LRUm;
+- b. vigila sui compiti di coordinamento affidati a terzi conformemente all’articolo 10*a*;
+- c. emana direttive sul contenuto dei rapporti delle commissioni d’etica conformemente all’articolo 55 capoverso 2 LRUm;
+- d. informa il pubblico, segnatamente redigendo una sintesi dei rapporti annuali delle commissioni d’etica e un compendio statistico dei progetti di ricerca autorizzati.
 
-<sup>3</sup> Nell’ambito della gestione del portale e della banca dati complementare della Confederazione di cui all’articolo 67 OSRUm[^10-1], può consentire lo scambio elettronico di documenti delle procedure di autorizzazione e di notifica tra i richiedenti e le autorità preposte al rilascio dell’autorizzazione.
+<sup>2</sup> L’organo di coordinamento garantisce in particolare uno scambio periodico fra le autorità d’esame coinvolte.
 
-<sup>4</sup> Esso emana direttive sul contenuto dei rapporti delle commissioni d’etica conformemente all’articolo 55 capoverso 2 LRUm.
+<sup>3</sup> Può mettere a disposizione raccomandazioni sulle procedure di autorizzazione e di notifica concernenti singoli aspetti della prassi decisionale, in collaborazione con le commissioni d’etica ed eventuali altre autorità d’esame interessate.
 
-[^10-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+#### Art. 10a
+
+**Delega di compiti di coordinamento all’Associazione svizzera delle commissioni etiche della ricerca**
+
+<sup>1</sup> Il coordinamento fra le commissioni d’etica è delegato all’Associazione svizzera delle commissioni etiche della ricerca (swissethics). La Confederazione corrisponde un compenso a swissethics per le spese dimostrabili sostenute in questo contesto.
+
+<sup>2</sup> I dettagli concernenti la delega dei compiti e il compenso sono disciplinati in un contratto di diritto pubblico tra l’UFSP e swissethics.
 
 ## Capitolo 3: Protezione dei dati
 
@@ -218,8 +246,21 @@ Gli obblighi secondo il capoverso 1 vengono meno se:
 
 <sup>3</sup> Se i dati devono essere pubblicati in applicazione dell’articolo 59 capoverso 3 LRUm, tutte le indicazioni che, combinate, permettono di ristabilire senza un onere eccessivo l’identità della persona interessata devono essere rese irriconoscibili o cancellate. Si tratta in particolare del nome, dell’indirizzo, della data di nascita e dei numeri d’identificazione univoci.
 
-[^11-1]: Nuovo testo giusta l’all. 2 n. II 96 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^11-2]: Abrogata dall’all. 2 n. II 96 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-1]: Nuovo testo giusta l’all. 2 cifra II n. 96 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^11-2]: Abrogata dall’all. 2 cifra II n. 96 dell’O del 31 ago. 2022 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+
+#### Art. 11a
+
+**Trasmissione di dati da parte dei Cantoni**[^11a-1]
+
+I Cantoni trasmettono all’UFSP i dati presenti nel sistema d’informazione dei Cantoni necessari per:
+
+- a. l’informazione del pubblico;
+- b. la valutazione della legislazione in materia di ricerca sull’essere umano;
+- c. la gestione del portale secondo l’articolo 67 OSRUm[^11a-2].
+
+[^11a-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 324](https://fedlex.data.admin.ch/eli/oc/2024/324)).
+[^11a-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 12
 
@@ -246,7 +287,7 @@ In deroga all’articolo 16 capoversi 1 e 2 LPD, i dati personali possono essere
 
 <sup>4</sup> Se i dati personali sono comunicati all’estero, l’autorità di esecuzione comunica alla persona interessata a quale Stato od organo internazionale e se del caso le garanzie secondo l’articolo 16 capoverso 2 della LPD o l’applicazione di un’eccezione secondo l’articolo 17 LPD.
 
-[^12-1]: Nuovo testo giusta l’all. 2 n. II 96 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^12-1]: Nuovo testo giusta l’all. 2 cifra II n. 96 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^12-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 ## Capitolo 4: Entrata in vigore
