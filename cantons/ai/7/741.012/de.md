@@ -4,13 +4,13 @@ number: "741.012"
 title: Standeskommissionsbeschluss über das gebührenpflichtige Parkieren
 short: StKB Parkgebühren
 language: de
-version: 2022-07-01
-valid_until: 2024-10-31
-version_adopted: 2022-06-14
+version: 2024-11-01
+valid_until: 2025-06-30
+version_adopted: 2024-10-01
 adopted: 2019-07-02
 in_force: 2019-07-09
 url: "https://ai.clex.ch/app/de/texts_of_law/741.012"
-pdf: "https://ai.clex.ch/api/de/versions/2047/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2352/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2047/pdf_file"
 
 (StKB Parkgebühren)
 
-vom 02.07.2019 (Stand 01.07.2022)
+vom 02.07.2019 (Stand 01.11.2024)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -129,6 +129,18 @@ beschliesst:
 - 4\. bis 24 Stunden — Fr. 5.-- bis Fr. 8.--
 
 <sup>3</sup> Es darf höchstens sieben Tage durchgehend parkiert werden.
+
+#### Art. 9b
+
+**Gebühren Parkplätze D**
+
+<sup>1</sup> Die Gebührenpflicht gilt täglich rund um die Uhr.
+
+<sup>2</sup> Es werden folgende, proportional zur Parkierzeit ansteigende Gebühren erhoben:
+
+- 1\. bis 90 Minuten — fix Fr. 3.--
+- 2\. bis 4 Stunden — Fr. 3.-- bis Fr. 6.--
+- 3\. bis 24 Stunden — Fr. 6.-- bis Fr. 9.--
 
 #### Art. 10
 
