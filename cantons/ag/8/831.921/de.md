@@ -3,28 +3,27 @@ canton: AG
 number: "831.921"
 title: Organisationsreglement der SVA Aargau
 language: de
-version: 2017-09-01
-valid_until: 2024-10-31
-version_adopted: 2017-08-23
+version: 2024-11-01
+version_adopted: 2024-07-16
 adopted: 2017-08-23
 in_force: 2017-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/831.921"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2567/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3655/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Organisationsreglement der SVA Aargau
 
-Vom 23.08.2017 (Stand 01.09.2017)
+Vom 23.08.2017 (Stand 01.11.2024)
 
 Die Verwaltungskommission der SVA Aargau,
 
-gestützt auf § 6 des Einführungsgesetzes zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung (EG AHVG/IVG) vom 15. März 1994[^ingress-1],
+gestützt auf § 6 des Einführungsgesetzes zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung (EG AHVG/IVG) vom 15. März 1994[^ingress-1] und
 
 unter Berücksichtigung der Richtlinien zur Public Corporate Governance (PCG-Richtlinien) des Kantons Aargau vom 18. September 2013,
 
-beschliesst:
+erlässt folgendes Organisationsreglement:
 
 [^ingress-1]: SAR [831.100](https://gesetzessammlungen.ag.ch/data/831.100/de)
 
@@ -52,33 +51,37 @@ beschliesst:
 
 #### § 3
 
-**Aufgaben und Befugnisse**
+**Aufgaben und Kompetenzen**
 
 <sup>1</sup> Der Verwaltungskommission kommen namentlich folgende unübertragbare und unentziehbare Aufgaben zu (§ 6 EG AHVG/IVG):
 
 - a) die Wahl der Vizepräsidentin oder des Vizepräsidenten und der Sekretärin oder des Sekretärs,
-- b) die Oberleitung und Überwachung der Geschäftsführung,
+- b) die Oberleitung der SVA Aargau sowie die Überwachung der Geschäftsführung, soweit das einschlägige Bundessozialversicherungsrecht eine solche zulässt,
 - c) der Erlass des Organisationsreglements,
 - d) der Erlass eines vom Regierungsrat zu genehmigenden Personalreglements,
 - e) die Wahl der Revisionsstelle und die Arbeitgeberkontrolle,
 - f) die Festsetzung der Verwaltungskostenbeiträge und der Vergütungen an die Gemeinden,
-- g) die Verabschiedung der Jahresrechnung und des Jahresberichts.
+- g) die Verabschiedung der Jahresrechnung und des Jahresberichts,
+- m) die Regelung der Zeichnungsberechtigung.
 
-<sup>2</sup> Sie delegiert im Übrigen die Geschäftsführung vollumfänglich an die Geschäftsleitung, soweit nicht das Gesetz oder dieses Reglement etwas anderes vorsehen. Die Oberleitung und Überwachung der Geschäftsführung durch die Verwaltungskommission gemäss § 3 Abs. 1 lit. b umfasst insbesondere
+<sup>2</sup> Die Oberleitung der SVA Aargau und die Überwachung der Geschäftsführung durch die Verwaltungskommission (§ 3 Abs. 1 lit. b) umfasst insbesondere
 
-- a) die Verabschiedung der Unternehmensstrategie und der Jahresziele,
-- b) die Finanzplanung sowie die Genehmigung und Einhaltung des Budgets,
+- a) die Verabschiedung der Unternehmensstrategie und der Jahresziele sowie die Überwachung der Zielerreichung,
+- b) die Ausgestaltung des Rechnungswesens, die Finanzplanung sowie die Genehmigung und Einhaltung des Budgets,
 - c) die Verantwortung für ein angemessenes Risikomanagement und ein internes Kontrollsystem,
 - d) das Festlegen der Anlagestrategie und der Erlass eines Anlagereglements,
-- e) die Genehmigung der Bereiche,
+- e) die Festlegung der Organisation,
 - f) die Wahl und Abberufung der Direktorin oder des Direktors,
 - g) die Genehmigung der Ernennung und Abberufung der Mitglieder der Geschäftsleitung auf Antrag der Direktorin oder des Direktors,
 - h) der Erlass eines vom Regierungsrat zu genehmigenden Vergütungsreglements für die Verwaltungskommission und die Geschäftsleitung,
 - i) die Genehmigung der Übernahme weiterer Aufgaben durch die SVA Aargau, des Kaufs oder Verkaufs von Beteiligungen oder Unternehmensteilen sowie der Gründung von Tochtergesellschaften,
 - j) die Behandlung von Aufsichtsbeschwerden gegen die SVA Aargau und deren Geschäftsleitung,
 - k) die Sicherstellung eines direkten Zugangs zur Vizepräsidentin beziehungsweise zum Vizepräsidenten der Verwaltungskommission für Hinweisgeber von Unregelmässigkeiten, Korruption oder Gesetzesverletzungen.
+- l) die Repräsentation der SVA Aargau gegenüber dem Kanton als Eigentümer.
 
 <sup>3</sup> Die Verwaltungskommission kann zur Erfüllung ihrer Aufgaben Dritte beiziehen.
+
+<sup>4</sup> Sie delegiert die Geschäftsführung vollumfänglich an die Geschäftsleitung, soweit nicht das Gesetz oder dieses Reglement etwas anderes vorsieht.
 
 #### § 4
 
@@ -90,9 +93,11 @@ beschliesst:
 
 <sup>3</sup> Die Direktorin oder der Direktor nimmt mit beratender Stimme und dem Recht auf Antragstellung an den Sitzungen teil (§ 8 EG AHVG/IVG). Sie oder er kann sich im Verhinderungsfall durch ein Mitglied der Geschäftsleitung vertreten lassen.
 
-<sup>4</sup> Die weiteren Mitglieder der Geschäftsleitung können in Abstimmung mit der Verwaltungskommission oder der oder dem CEO mit beratender Stimme an den Sitzungen teilnehmen.
+<sup>4</sup> Die weiteren Mitglieder der Geschäftsleitung können in Abstimmung mit der Verwaltungskommission und nach Vorinformation der Direktorin oder des Direktors mit beratender Stimme an den Sitzungen teilnehmen.
 
-<sup>5</sup> Die oder der Vorsitzende kann Fachpersonen zu den Sitzungen einladen. Diese können fachliche Stellungnahmen abgeben und Fragen der Verwaltungskommission beantworten.
+<sup>4<sup>bis</sup></sup> Die Verwaltungskommission tagt regelmässig unter sich.
+
+<sup>5</sup> Die oder der Vorsitzende kann interne oder externe Fachpersonen zu den Sitzungen einladen. Diese können fachliche Stellungnahmen abgeben und Fragen der Verwaltungskommission beantworten.
 
 #### § 5
 
@@ -102,7 +107,7 @@ beschliesst:
 
 <sup>2</sup> Die Einberufung erfolgt durch die Präsidentin oder den Präsidenten oder im Verhinderungsfall durch die Vizepräsidentin oder den Vizepräsidenten oder ein anderes Mitglied der Verwaltungskommission mindestens sieben Tage vor dem Sitzungstag unter Bekanntgabe der Traktanden und durch Zustellung aller für die Beschlussfassung relevanten schriftlichen Unterlagen.
 
-<sup>3</sup> Jedes Mitglied der Verwaltungskommission kann unter Angabe der Gründe die unverzügliche Einberufung einer Sitzung verlangen.
+<sup>3</sup> Jedes Mitglied der Verwaltungskommission kann unter Angabe der Gründe die unverzügliche Einberufung einer ausserordentlichen Sitzung verlangen.
 
 <sup>4</sup> Werden Verhandlungsthemen später bekannt gegeben oder Unterlagen später zugestellt, können Beschlüsse nur im Einverständnis aller Mitglieder gefasst werden.
 
@@ -132,7 +137,7 @@ beschliesst:
 
 **Sorgfalts- und Treuepflicht**
 
-<sup>1</sup> Die Mitglieder der Verwaltungskommission erfüllen ihre Aufgaben im Rahmen des geltenden Rechts mit aller Sorgfalt und wahren die Interessen der SVA Aargau und des Kantons als Trägerin beziehungsweise Träger in guten Treuen.
+<sup>1</sup> Die Mitglieder der Verwaltungskommission erfüllen ihre Aufgaben im Rahmen des geltenden Rechts mit aller Sorgfalt und wahren die Interessen der SVA Aargau und des Kantons als Eigentümer in guten Treuen.
 
 <sup>2</sup> Die Mitglieder und die Protokollführerin oder der Protokollführer sind über alle Angelegenheiten zur Verschwiegenheit verpflichtet.
 
@@ -160,10 +165,11 @@ beschliesst:
 
 <sup>1</sup> Der Präsidentin oder dem Präsidenten der Verwaltungskommission stehen folgende Aufgaben und Kompetenzen zu:
 
-- a) Vorbereitung aller Geschäfte der Verwaltungskommission,
-- b) Leitung der Sitzung der Verwaltungskommission,
+- a) Vorbereitung aller Geschäfte der Verwaltungskommission und Leitung der Sitzungen der Verwaltungskommission,
+- b) …
 - c) Wahrnehmung der Entscheidungs- und Überwachungsaufgaben, die ihr oder ihm von der Verwaltungskommission zugewiesen sind,
-- d) Vorbereitung der Wahlgeschäfte Erneuerung der Verwaltungskommission sowie Wahl der Direktorin oder des Direktors.
+- d) Vorbereitung des Wahlgeschäfts Erneuerung der Verwaltungskommission,
+- e) Vorbereitung der Wahl der Direktorin oder des Direktors.
 
 <sup>2</sup> Die Präsidentin oder der Präsident wird im Verhinderungsfall durch die Vizepräsidentin oder den Vizepräsidenten oder durch ein anderes Mitglied der Verwaltungskommission vertreten.
 
@@ -177,7 +183,7 @@ beschliesst:
 
 <sup>3</sup> Die Präsidentin oder der Präsident kann in einem oder mehreren Ausschüssen Einsitz nehmen, nicht aber einen Vorsitz übernehmen. Das zuständige Mitglied der Geschäftsleitung nimmt an den Sitzungen der Ausschüsse teil.
 
-<sup>4</sup> Die Ausschüsse können nach Rücksprache mit der Geschäftsleitung interne und externe Fachpersonen zu Sitzungen einladen.
+<sup>4</sup> Die Ausschüsse können nach Vorinformation der Direktorin oder des Direktors interne und externe Fachpersonen zu Sitzungen einladen.
 
 ## 3. Geschäftsleitung
 
@@ -190,19 +196,26 @@ beschliesst:
 <sup>2</sup> Die oder der CEO
 
 - a) beaufsichtigt die Aufgabenerfüllung der Mitglieder der Geschäftsleitung und verantwortet die Zielvereinbarungen und die jährliche Beurteilung auf Basis der Unternehmensziele,
-- b) nimmt gegenüber den Bundesbehörden die Rechte und Pflichten der Leiterin oder des Leiters der Ausgleichskasse und der IV-Stelle wahr. Sie oder er kann diese Aufgaben an ein Mitglied der Geschäftsleitung delegieren,
-- c) bezeichnet eine Stellvertreterin oder einen Stellvertreter,
-- d) kann eine erweiterte Geschäftsleitung bilden.
+- b) …
+- c) bezeichnet eine Stellvertreterin oder einen Stellvertreter.
+- d) …
 
 #### § 13
 
-**Zusammensetzung und Wahl**
+**Zusammensetzung und Entscheidfindung**
 
-<sup>1</sup> Die oder der CEO bildet zusammen mit den Bereichsleitenden die Geschäftsleitung. Die Geschäftsleitung besteht aus fünf Mitgliedern.
+<sup>1</sup> Die Geschäftsleitung besteht aus fünf bis sieben Mitgliedern und setzt sich zusammen aus
 
-<sup>2</sup> Die Verwaltungskommission wählt die oder den Vorsitzenden der Geschäftsleitung und genehmigt auf ihren Antrag die Wahl der übrigen Mitglieder der Geschäftsleitung.
+- a) der Vorsitzenden oder dem Vorsitzenden,
+- b) der Leiterin oder dem Leiter der Ausgleichskasse,
+- c) der Leiterin oder dem Leiter der IV-Stelle,
+- d) weiteren von der Verwaltungskommission bezeichneten Mitgliedern.
+
+<sup>2</sup> …
 
 <sup>3</sup> Die oder der CEO hat den Vorsitz und trifft, falls sich die Geschäftsleitung nicht einig ist, den Endentscheid.
+
+<sup>4</sup> Die abschliessende Kompetenz bei sozialversicherungsrechtlichen Entscheidungen liegt bei der Leitung der Ausgleichskasse beziehungsweise der IV-Stelle.
 
 #### § 14
 
@@ -242,15 +255,19 @@ beschliesst:
 
 <sup>3</sup> Über die Beschlüsse der Geschäftsleitung wird ein Protokoll geführt. Stellungnahmen einzelner Mitglieder sind auf deren Wunsch hin in das Protokoll aufzunehmen. Dieses wird den Mitgliedern zugestellt und an der folgenden Sitzung zur Genehmigung vorgelegt.
 
+<sup>4</sup> Die Präsidentin oder der Präsident der Verwaltungskommission erhält die Protokolle der Geschäftsleitungssitzungen zur Kenntnis.
+
 ## 4. Übrige Bestimmungen
 
 #### § 18
 
 **Ausstand**
 
-<sup>1</sup> Alle Organe der Gesellschaft haben allfällige Interessenkonflikte, insbesondere Geschäfte, die sie selbst oder nahestehende natürliche oder juristische Personen betreffen, umgehend der Präsidentin oder dem Präsidenten offenzulegen. Die Verwaltungskommission entscheidet, ob ein Ausstandgrund gegeben ist.
+<sup>1</sup> Alle Organe der Gesellschaft haben allfällige Interessenkonflikte, insbesondere Geschäfte, die sie selbst oder nahestehende natürliche oder juristische Personen betreffen, umgehend der Präsidentin oder dem Präsidenten offenzulegen. Die Verwaltungskommission entscheidet, ob ein Ausstandsgrund gegeben ist.
 
-<sup>2</sup> Im Falle eines Ausstandgrundes darf der beziehungsweise die Betroffene weder bei der Diskussion noch bei der Abstimmung anwesend sein. Interessenkonflikte sind dem Kanton mitzuteilen.
+<sup>2</sup> Im Falle eines Ausstandsgrundes darf der beziehungsweise die Betroffene weder bei der Diskussion noch bei der Abstimmung anwesend sein. Interessenkonflikte sind dem Kanton mitzuteilen.
+
+<sup>3</sup> Die Mitglieder der Verwaltungskommission und der Geschäftsleitung legen ihre Mandate und Interessenbindungen im Geschäftsbericht offen.
 
 #### § 19
 
