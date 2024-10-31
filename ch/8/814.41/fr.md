@@ -4,11 +4,11 @@ title: Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)
 short: OPB
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: fr
-version: 2023-11-01
+version: 2024-11-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20231101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20241101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/fr"
 
 (OPB)
 
-du 15 décembre 1986 (État le 1<sup>er</sup> novembre 2023)
+du 15 décembre 1986 (État le 1<sup>er</sup> novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1158,13 +1158,13 @@ Pour le bruit causé par l’ensemble du trafic sur les aérodromes civils où c
 <tr><td colspan="4"><sup>1</sup> Les valeurs plus élevées sont applicables pour la première heure de la nuit (22 à 23 heures).</td></tr>
 </table>
 
-### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image1.png)</sub>max
+### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image1.png)</sub>max
 
-Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image2.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
+Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image2.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
 
 <table>
 <tr><td>Degré de sensibilité (art. 43)</td><td>Valeur de planification</td><td>Valeur limite d’immissions</td><td>Valeur d’alarme</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image3.png)</sub>max en dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image3.png)</sub>max en dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1234,17 +1234,19 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Les vols qui ont lieu après la deuxième (23 à 24 heures) et avant la dernière heure de la nuit (05 à 06 heures) sont attribués à la deuxième heure de la nuit (23 à 24 heures).
 
-### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image4.png)</sub>max pour les hélistations
+### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image4.png)</sub>max pour les hélistations
 
-<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image2.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
+<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image2.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
 
-<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image5.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
+<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image5.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
 
-Annexe 6
+Annexe 6[^t-4]
 
 (art. 40, al. 1)
 
 ## Valeurs limites d’exposition au bruit de l’industrie et des arts et métiers
+
+[^t-4]: Mise à jour par le ch. II de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ### 1 Champ d’application
 
@@ -1275,7 +1277,7 @@ Annexe 6
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit de l’industrie, des arts et métiers et autres bruits semblables se calcule séparément pour le jour (7 à 19 h) et pour la nuit (19 à 7 h) à partir des niveaux d’évaluation partiels Lr,i de chaque phase de bruit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image6.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lr,i se calcule pour la durée moyenne journalière de la phase de bruit i comme il suit:
 
@@ -1325,13 +1327,19 @@ ti = Ti/B
 - c. pour une audibilité nette des composantes impulsives 4;
 - d. pour une audibilité forte des composantes impulsives 6.
 
-Annexe 7[^t-4]
+### 34 Pompes à chaleur air-eau
+
+<sup>1</sup> S’agissant des pompes à chaleur air-eau destinées majoritairement au chauffage de locaux ou d’eau potable, le niveau d’évaluation est déterminé par le niveau de puissance acoustique pour une température extérieure de 2 °C.
+
+<sup>2</sup> L’OFEV recommande des méthodes de mesure et de calcul appropriées et adaptées à l’état de la technique.
+
+Annexe 7[^t-5]
 
 (art. 40, al. 1)
 
 ## Valeurs limites d’exposition au bruit des installations de tir civiles
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 1 de l’O du 23 août 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Mise à jour par le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du 23 août 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Mise à jour par le ch. II al. 1 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Champ d’application
 
@@ -1372,7 +1380,7 @@ Aucune valeur d’alarme n’est valable pour le bruit des installations publiqu
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit des installations de tir est la somme énergétique des niveaux d’évaluation partiels Lri des catégories d’armes:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image7.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lri est la somme du niveau de bruit moyen d’un coup de feu Li d’une catégorie d’armes et de la correction de niveau Ki:
 
@@ -1380,7 +1388,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Le niveau de bruit moyen d’un coup de feu Li est la moyenne énergétique, pondérée en fonction du nombre de coups de feu, des niveaux de bruit moyens des coups de feu Lj d’un type d’arme, respectivement d’un type de munition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image8.png)
 
 <sup>4</sup> La moyenne énergétique du niveau de bruit d’un coup de feu Lj est déterminée au moyen de mesures du niveau maximal, pondéré A, avec la constante de temps FAST.
 
@@ -1416,13 +1424,13 @@ Signification:
 
 <sup>2</sup> Si les relevés d’exploitation d’installations existantes font défaut ou que des installations sont construites ou modifiées, le nombre de coups de feu M est déterminé à l’aide de prévisions sur l’utilisation future.
 
-Annexe 8[^t-5]
+Annexe 8[^t-6]
 
 (art. 40, al. 1)
 
 ## Valeurs limites d’exposition au bruit des aérodromes militaires
 
-[^t-5]: Introduite par le ch. II de l’O du 27 juin 1995 ([RO 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Mise à jour par le ch. II al. 2 des O du 12 avr. 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) et du 23 août 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
+[^t-6]: Introduite par le ch. II de l’O du 27 juin 1995 ([RO 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Mise à jour par le ch. II al. 2 des O du 12 avr. 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) et du 23 août 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
 
 ### 1 Champ d’application
 
@@ -1504,13 +1512,13 @@ K2 = 0 pour N<sub>p</sub> ˂ 15 000
 
 K2 = 10 log (N<sub>p</sub>/15 000) pour N<sub>p</sub> ≥ 15 000
 
-Annexe 9[^t-6]
+Annexe 9[^t-7]
 
 (art. 40, al. 1)
 
 ## Valeurs limites d’exposition au bruit des places d’armes, de tir et d’exercice militaires
 
-[^t-6]: Introduite par le ch. II al. 2 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-7]: Introduite par le ch. II al. 2 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Champ d’application
 

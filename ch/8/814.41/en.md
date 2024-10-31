@@ -4,11 +4,11 @@ title: Noise Abatement Ordinance of 15 December 1986 (NAO)
 short: NAO
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: en
-version: 2023-11-01
+version: 2024-11-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20231101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20241101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NAO)
 
-of 15 December 1986 (Status as of 1 November 2023)
+of 15 December 1986 (Status as of 1 November 2024)
 
 The Swiss Federal Council,
 
@@ -55,7 +55,7 @@ It does not regulate:
 - a. protection against noise originating from an industrial site as long as this only affects industrial buildings and dwellings within the site;
 - b. protection against infra- and ultrasound.
 
-<sup>4</sup> ...[^1-1]
+<sup>4</sup> …[^1-1]
 
 [^1-1]: Repealed by No I of the O of 12 April 2000, with effect from 1 May 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
@@ -1160,13 +1160,13 @@ For the total traffic noise from civil aerodromes used by heavy aircraft, the fo
 <tr><td colspan="4">[tab] <sup>1</sup> The higher value applies for the first night hour (22-23 hours)</td></tr>
 </table>
 
-### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image1.png)</sub>max
+### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image1.png)</sub>max
 
-For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
+For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
 
 <table>
 <tr><td>Sensitivity level (Art. 43)</td><td>Planning value</td><td>Impact threshold</td><td>Alarm value</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1236,17 +1236,19 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Flights taking place after the second night hour (23-24 hours) and before the last night hour (05-06) are assigned to the second night hour (23-24 hours).
 
-### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image5.png)</sub>max for Heliports
+### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image5.png)</sub>max for Heliports
 
-<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
+<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
 
-<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
+<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
 
-Annex 6
+Annex 6 [^t-4]
 
 (Art. 40 para. 1)
 
 ## Exposure Limit Values for Industrial and Commercial Noise
+
+[^t-4]: Revised by No II of the O of 29 Sept. 2023, in force since 1 Nov. 2024 ([AS 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ### 1 Scope
 
@@ -1277,7 +1279,7 @@ Annex 6
 
 <sup>1</sup> The rating sound level Lr for industrial, commercial and similar types of noise is determined from the partial rating sound levels Lr,i for each noise phase as follows, whereby separate calculations are made for daytime (07 to 19 hours) and night-time (19 to 07 hours):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image7.png)
 
 <sup>2</sup> The partial rating sound level Lr,i is determined for the average daily duration of the noise phase i as follows:
 
@@ -1332,13 +1334,19 @@ ti = Ti/B
 - c. for clearly audible pulse content 4
 - d. for strongly audible pulse content 6.
 
-Annex 7[^t-4]
+### 34 Air-to-Water Heat Pumps
+
+<sup>1</sup> In order to determine the rating sound level in the case of air-to-water heat pumps that are primarily used for space heating or for heating drinking water the sound power level at an outdoor temperature of 2°C is decisive.
+
+<sup>2</sup> The FOEN shall recommend suitable measurement and calculation procedures for air-to-water heat pumps in accordance with the state of the art.
+
+Annex 7[^t-5]
 
 (Art. 40 para. 1)
 
 ## Exposure Limit Values for Noise from Civil Firing Range Installations
 
-[^t-4]: Amended by No I of the O of 23 Aug. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562).). Revised in accordance with No II para. 1 of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-5]: Amended by No I of the O of 23 Aug. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562).). Revised in accordance with No II para. 1 of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Scope
 
@@ -1379,7 +1387,7 @@ For noise from public installations according to Number 1 paragraph 3[^annex7-lv
 
 <sup>1</sup> The rating sound level Lr for the noise from firing range installations is the energetic sum of the partial rating sound level Lri for the weapons categories:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image8.png)
 
 <sup>2</sup> The partial rating sound level Lri is the sum of the average single shot sound level Li of a weapons category and the level correction Ki:
 
@@ -1387,7 +1395,7 @@ Lri = Li + Ki
 
 <sup>3</sup> The average single shot sound level Li is the energetic average weighted according to the number of shots of the energetically averaged single shot sound level Lj of a type of weapon or type of ammunition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/en/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image9.png)
 
 <sup>4</sup> The energetically averaged single shot sound level Lj must be determined using the measurements of the A-weighted maximum sound level with the FAST time constants.
 
@@ -1423,13 +1431,13 @@ Where:
 
 <sup>2</sup> If the operational logs of existing firing range installations are incomplete or if the firing range installations are new or have been modified, the number of shots M is determined from forecasts of future use.
 
-Annex 8[^t-5]
+Annex 8[^t-6]
 
 (Art. 40 para. 1)
 
 ## Exposure Limit Values for Noise at Military Aerodromes
 
-[^t-5]: Inserted by No II of the O of 27 June 1995 ([AS 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Revised in accordance with No II para. 2 of the O of 12 April 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) and of the O of 23 Aug. 2006, in force since 1 Nov. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
+[^t-6]: Inserted by No II of the O of 27 June 1995 ([AS 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Revised in accordance with No II para. 2 of the O of 12 April 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) and of the O of 23 Aug. 2006, in force since 1 Nov. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
 
 ### 1 Scope
 
@@ -1511,13 +1519,13 @@ K<sub>2</sub> = 0 for N<sub>p</sub> &lt; 15 000
 
 K<sub>2</sub> = 10 x log (N<sub>p</sub>/15 000) for N<sub>p</sub> ≥ 15 000
 
-Annex 9[^t-6]
+Annex 9[^t-7]
 
 (Art. 40 para. 1)
 
 ## Exposure Limit Values for Noise from Military Firing Ranges and Training Grounds
 
-[^t-6]: Inserted by No II para. 2 of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-7]: Inserted by No II para. 2 of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Scope
 

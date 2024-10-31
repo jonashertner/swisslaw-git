@@ -4,11 +4,11 @@ title: "Ordinanza del 15 dicembre 1986 contro l'inquinamento fonico (OIF)"
 short: OIF
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: it
-version: 2023-11-01
+version: 2024-11-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20231101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20241101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/it"
 
 (OIF)
 
-del 15 dicembre 1986 (Stato 1° novembre 2023)
+del 15 dicembre 1986 (Stato 1° novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -53,7 +53,7 @@ Essa non regola:
 - a. la protezione contro il rumore prodotto sull’area di un’azienda nella misura in cui colpisce l’edificio aziendale e le abitazioni annesse all’interno di detta area;
 - b. la protezione contro gli infrasuoni e gli ultrasuoni.
 
-<sup>4</sup> ...[^1-1]
+<sup>4</sup> …[^1-1]
 
 [^1-1]: Abrogato dal n. I dell’O del 12 apr. 2000, con effetto dal 1° mag. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
@@ -958,7 +958,7 @@ Allegato 3
 
 <sup>1</sup> Il livello di valutazione del rumore Lr del traffico stradale è calcolato a partire dai livelli di valutazione parziali del rumore dei veicoli a motore (Lr1) e del rumore dei treni (Lr2) con la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image1.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lr1 è la somma del livello energetico medio Leq,m, ponderato A, prodotto dai veicoli a motore e della correzione del livello K1:
 
@@ -1051,7 +1051,7 @@ Allegato 4
 
 <sup>1</sup> Il livello di valutazione del rumore Lr dei treni è calcolato a partire dai livelli di valutazione parziali del rumore della circolazione dei treni (Lr1) e del rumore dell’esercizio di manovra (Lr2) con la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image2.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lr1 è la somma del livello energetico medio Leq,f, ponderato A, prodotto dalla circolazione dei treni e della correzione del livello K1:
 
@@ -1158,13 +1158,13 @@ Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traf
 <tr><td colspan="4"><sup>1</sup> I valori più alti valgono per la prima ora della notte (ore 22–23).</td></tr>
 </table>
 
-### 23 Valori limite d’esposizione in ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image3.png)max
+### 23 Valori limite d’esposizione in ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image3.png)max
 
-Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traffico sugli aerodromi civili sui quali circolano esclusivamente elicotteri (eliporti) valgono i valori limite d’esposizione seguenti in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image4.png)</sub>max:
+Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traffico sugli aerodromi civili sui quali circolano esclusivamente elicotteri (eliporti) valgono i valori limite d’esposizione seguenti in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image4.png)</sub>max:
 
 <table>
 <tr><td>Grado di sensibilità (art. 43)</td><td>Valore di pianificazione</td><td>Valore limite d’immissione</td><td>Valore d’allarme</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image5.png)</sub>max in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image5.png)</sub>max in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1234,17 +1234,19 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> I voli effettuati dopo la seconda (ore 23–24) e prima dell’ultima ora della notte (ore 5–6) sono computati nella seconda ora della notte (ore 23–24).
 
-### 5 Determinazione del livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image6.png)</sub>max per gli eliporti
+### 5 Determinazione del livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image6.png)</sub>max per gli eliporti
 
-<sup>1</sup> Per gli eliporti, il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image4.png)</sub>max è la media energetica del livello di rumore massimo di un numero rappresentativo di sorvoli o di passaggi.
+<sup>1</sup> Per gli eliporti, il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image4.png)</sub>max è la media energetica del livello di rumore massimo di un numero rappresentativo di sorvoli o di passaggi.
 
-<sup>2</sup> Le misurazioni per determinare il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image7.png)</sub>max devono essere effettuate con il sonometro regolato su «SLOW».
+<sup>2</sup> Le misurazioni per determinare il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image7.png)</sub>max devono essere effettuate con il sonometro regolato su «SLOW».
 
-Allegato 6
+Allegato 6[^t-4]
 
 (art. 40 cpv. 1)
 
 ## Valori limite d’esposizione al rumore dell’industria e delle arti e mestieri
+
+[^t-4]: Aggiornato dal n. II dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ### 1 Campo d’applicazione
 
@@ -1275,7 +1277,7 @@ Allegato 6
 
 <sup>1</sup> Il livello di valutazione del rumore Lr dell’industria e delle arti e mestieri e degli altri rumori simili è calcolato separatamente per il giorno (dalle ore 7 alle 19) e per la notte (dalle ore 19 alle 7) a partire dai livelli di valutazione parziali Lr,i di ciascuna fase di rumore:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image8.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lr,i è calcolato per la durata media giornaliera della fase di rumore, con la formula seguente:
 
@@ -1328,13 +1330,19 @@ ti = Ti/B
 - c. 4, se la componente impulsiva è distintamente udibile;
 - d. 6, se la componente impulsiva è fortemente udibile.
 
-Allegato 7 [^t-4]
+### 34 Pompe di calore aria-acqua
+
+<sup>1</sup> Per stabilire il livello di valutazione delle pompe di calore aria-acqua utilizzate prevalentemente per il riscaldamento di locali o di acqua potabile è determinante il livello di potenza sonora a una temperatura esterna di 2 °C.
+
+<sup>2</sup> Per le pompe di calore aria-acqua, l’UFAM raccomanda metodi di misurazione e di calcolo adeguati in base allo stato della tecnica.
+
+Allegato 7[^t-5]
 
 (art. 40 cpv. 1)
 
 ## Valori limite d’esposizione al rumore degli impianti di tiro civili
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Aggiornato dal n. II cpv. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Aggiornato dal n. II cpv. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Campo d’applicazione
 
@@ -1375,7 +1383,7 @@ Per il rumore causato da impianti pubblici secondo la cifra 1 capoverso 3[^annex
 
 <sup>1</sup> Il livello di valutazione Lr per il rumore degli impianti di tiro è la somma energetica dei livelli di valutazione parziali Lri delle diverse categorie di armi:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image9.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lri è la somma del livello di rumore medio di un singolo colpo Li relativo a una categoria di armi e della correzione del livello Ki:
 
@@ -1383,7 +1391,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Il livello di rumore medio di un singolo colpo Li è la media energetica ponderata, in base al numero di colpi sparati, del livello di rumore dei singoli colpi Lj relativi a un tipo di arma e di munizioni calcolato come media energetica:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image10.png)
 
 <sup>4</sup> Il livello di rumore dei singoli colpi Lj calcolato come media energetica deve essere determinato sulla base di misurazioni del livello massimo ponderato A con la costante di tempo FAST.
 
@@ -1421,13 +1429,13 @@ Dsi numero annuo di semigiornate di tiro nelle domeniche o nei giorni festivi ge
 
 <sup>2</sup> Qualora per impianti di tiro esistenti non vi siano rilevamenti sufficienti o qualora gli impianti di tiro siano di nuova costruzione o modificati, il numero di colpi M viene determinato sulla base di previsioni relative all’utilizzazione futura.
 
-Allegato 8[^t-5]
+Allegato 8[^t-6]
 
 (art. 40 cpv. 1)
 
 ## Valori limite d’esposizione al rumore degli aerodromi militari
 
-[^t-5]: Introdotto dal n. II dell’O del 27 giu. 1995 ([RU 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Aggiornato giusta i n. II cpv. 2 delle O del 12 apr. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) e del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
+[^t-6]: Introdotto dal n. II dell’O del 27 giu. 1995 ([RU 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Aggiornato giusta i n. II cpv. 2 delle O del 12 apr. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) e del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
 
 ### 1 Campo d’applicazione
 
@@ -1509,13 +1517,13 @@ K2 = 0 per N<sub>p</sub> ˂ 15 000
 
 K2 = 10 log (N<sub>p</sub>/15 000) per N<sub>p</sub> ≥ 15 000
 
-Allegato 9[^t-6]
+Allegato 9[^t-7]
 
 (art. 40 cpv. 1)
 
 ## Valori limite d’esposizione al rumore su piazze d’armi, di tiro e d’esercizio militari
 
-[^t-6]: Introdotto dal n. II cpv. 2 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-7]: Introdotto dal n. II cpv. 2 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Campo d’applicazione
 
@@ -1544,7 +1552,7 @@ Allegato 9[^t-6]
 
 Il livello di valutazione Lr del rumore del tiro sulle piazze d’armi, di tiro e d’esercizio militari è calcolato a partire dai livelli dei fenomeni sonori L<sub>AE1</sub> e L<sub>AE2</sub> nonché dalle correzioni del livello K1 e K2 con la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image11.png)
 
 Dove:
 

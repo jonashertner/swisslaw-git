@@ -4,11 +4,11 @@ title: Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)
 short: LSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: de
-version: 2023-11-01
+version: 2024-11-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20231101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20241101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20231101/de"
 
 (LSV)
 
-vom 15. Dezember 1986 (Stand am 1. November 2023)
+vom 15. Dezember 1986 (Stand am 1. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -958,7 +958,7 @@ Die Belastungsgrenzwerte nach Ziffer 2 gelten für Strassenverkehrslärm. Dazu g
 
 <sup>1</sup> Der Beurteilungspegel Lr für Strassenverkehrslärm wird aus den Teilbeurteilungspegeln des Motorfahrzeuglärms (Lr1) und des Bahnlärms (Lr2) wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image1.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr1 ist die Summe des von Motorfahrzeugen verursachten A-bewerteten Mittelungspegels Leq,m und der Pegelkorrektur K1:
 
@@ -1051,7 +1051,7 @@ Anhang 4
 
 <sup>1</sup> Der Beurteilungspegel Lr für Eisenbahnlärm wird aus den Teilbeurteilungspegeln für Fahrlärm (Lr1) und Rangierlärm (Lr2) wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image2.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr1 ist die Summe des vom Fahrbetrieb verursachten A‑bewerteten Mittelungspegels Leq,f und der Pegelkorrektur K1:
 
@@ -1158,13 +1158,13 @@ Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm
 <tr><td colspan="4">[tab] <sup>1</sup> Die höheren Werte gelten für die erste Nachtstunde (22–23 Uhr)</td></tr>
 </table>
 
-### 23 Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image3.png)</sub>max
+### 23 Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image3.png)</sub>max
 
-Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm des Verkehrs auf zivilen Flugplätzen, auf denen ausschliesslich Helikopter verkehren (Helikopterflugplätze), die nachfolgenden Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image4.png)</sub>max:
+Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm des Verkehrs auf zivilen Flugplätzen, auf denen ausschliesslich Helikopter verkehren (Helikopterflugplätze), die nachfolgenden Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image4.png)</sub>max:
 
 <table>
 <tr><td>Empfindlichkeitsstufe (Art. 43)</td><td>Planungswert</td><td>Immissionsgrenzwert</td><td>Alarmwert</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image5.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image6.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image6.png)</sub>in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image5.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image6.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image6.png)</sub>in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1234,17 +1234,19 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Flüge nach der zweiten (23–24 Uhr) und vor der letzten Nachtstunde (05–06 Uhr) werden der zweiten Nachtstunde (23–24 Uhr) zugerechnet.
 
-### 5 Ermittlung des mittleren maximalen Lärmpegels <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image7.png)</sub>max bei Helikopterflugplätzen
+### 5 Ermittlung des mittleren maximalen Lärmpegels <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image7.png)</sub>max bei Helikopterflugplätzen
 
-<sup>1</sup> Der mittlere maximale Lärmpegel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image4.png)</sub>max bei Helikopterflugplätzen ist das energetische Mittel der maximalen Lärmpegel einer repräsentativen Anzahl Über- oder Vorbeiflüge.
+<sup>1</sup> Der mittlere maximale Lärmpegel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image4.png)</sub>max bei Helikopterflugplätzen ist das energetische Mittel der maximalen Lärmpegel einer repräsentativen Anzahl Über- oder Vorbeiflüge.
 
-<sup>2</sup> Messungen zur Ermittlung des <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image8.png)</sub>max müssen mit der Geräteeinstellung SLOW durchgeführt werden.
+<sup>2</sup> Messungen zur Ermittlung des <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image8.png)</sub>max müssen mit der Geräteeinstellung SLOW durchgeführt werden.
 
-Anhang 6
+Anhang 6[^t-4]
 
 (Art. 40 Abs. 1)
 
 ## Belastungsgrenzwerte für Industrie- und Gewerbelärm
+
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2024 ([AS 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ### 1 Geltungsbereich
 
@@ -1275,7 +1277,7 @@ Anhang 6
 
 <sup>1</sup> Der Beurteilungspegel Lr für Industrie- und Gewerbelärm und ähnliche Lärmarten wird, getrennt für den Tag (07 bis 19 Uhr) und die Nacht (19 bis 07 Uhr), aus den Teilbeurteilungspegeln Lr,i der einzelnen Lärmphasen wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image9.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr,i wird für die durchschnittliche tägliche Dauer der Lärmphase i wie folgt berechnet:
 
@@ -1330,13 +1332,19 @@ ti = Ti/B
 - c. bei deutlich hörbarem Impulsgehalt 4;
 - d. bei stark hörbarem Impulsgehalt 6.
 
-Anhang 7[^t-4]
+### 34 Luft/Wasser-Wärmepumpen
+
+<sup>1</sup> Für die Ermittlung des Beurteilungspegels bei Luft/Wasser-Wärmepumpen, die überwiegend der Raumheizung oder der Erwärmung von Trinkwasser dienen, ist der Schallleistungspegel bei 2°C Aussentemperatur massgebend.
+
+<sup>2</sup> Das BAFU empfiehlt entsprechend dem Stand der Technik geeignete Mess- und Berechnungsverfahren für Luft/Wasser-Wärmepumpen.
+
+Anhang 7[^t-5]
 
 (Art. 40 Abs. 1)
 
 ## Belastungsgrenzwerte für den Lärm ziviler Schiessanlagen
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 1 der V vom 23. Aug. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 23. Aug. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Geltungsbereich
 
@@ -1377,7 +1385,7 @@ Für Lärm von öffentlichen Anlagen nach Ziffer 1 Absatz 3[^annex7-lvlu1-lvl2-1
 
 <sup>1</sup> Der Beurteilungspegel Lr für den Lärm von Schiessanlagen ist die energetische Summe der Teilbeurteilungspegel Lri der Waffenkategorien:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image10.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lri ist die Summe des mittleren Einzelschusspegels Li einer Waffenkategorie und der Pegelkorrektur Ki:
 
@@ -1385,7 +1393,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Der mittlere Einzelschusspegel Li ist das über die Schusszahlen gewichtete energetische Mittel der energetisch gemittelten Einzelschusspegel Lj eines Waffen- bzw. Munitionstyps:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image11.png)
 
 <sup>4</sup> Der energetisch gemittelte Einzelschusspegel Lj ist anhand von Messungen des A‑bewerteten Maximalpegels mit der Zeitkonstanten FAST zu ermitteln.
 
@@ -1423,13 +1431,13 @@ Dsi die Anzahl jährlicher Schiesshalbtage an Sonn- und allgemeinen Feiertagen i
 
 <sup>2</sup> Fehlen bei bestehenden Schiessanlagen ausreichende Erhebungen oder werden Schiessanlagen neu erstellt oder geändert, wird die Schusszahl M anhand von Prognosen über die künftige Nutzung bestimmt.
 
-Anhang 8[^t-5]
+Anhang 8[^t-6]
 
 (Art. 40 Abs. 1)
 
 ## Belastungsgrenzwerte für Lärm von Militärflugplätzen
 
-[^t-5]: Eingefügt durch Ziff. II der V vom 27. Juni 1995 ([AS 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 12. April 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) und der V vom 23. Aug. 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
+[^t-6]: Eingefügt durch Ziff. II der V vom 27. Juni 1995 ([AS 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 12. April 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) und der V vom 23. Aug. 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
 
 ### 1 Geltungsbereich
 
@@ -1511,13 +1519,13 @@ K<sub>2</sub> = 0 für N<sub>p</sub> &lt; 15 000
 
 K<sub>2</sub> = 10 · log (N<sub>p</sub>/15 000) für N<sub>p</sub> ≥ 15 000
 
-Anhang 9[^t-6]
+Anhang 9[^t-7]
 
 (Art. 40 Abs. 1)
 
 ## Belastungsgrenzwerte für den Lärm militärischer Waffen-, Schiess- und Übungsplätze
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-7]: Eingefügt durch Ziff. II Abs. 2 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Geltungsbereich
 
@@ -1546,7 +1554,7 @@ Anhang 9[^t-6]
 
 Der Beurteilungspegel Lr für den Schiesslärm von militärischen Waffen-, Schiess- und Übungsplätzen wird aus den Schallereignispegeln LAE1 und LAE2 sowie den Pegelkorrekturen K1 und K2 wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20231101/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image12.png)
 
 Dabei bedeutet:
 
