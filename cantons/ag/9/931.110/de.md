@@ -4,13 +4,12 @@ number: "931.110"
 title: Dekret zum Waldgesetz des Kantons Aargau
 short: "Walddekret, AWaD"
 language: de
-version: 2019-01-01
-valid_until: 2024-10-31
-version_adopted: 2018-11-20
+version: 2024-11-01
+version_adopted: 2023-11-07
 adopted: 1998-11-03
 in_force: 1999-03-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/931.110"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2681/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3652/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2681/pdf_file"
 
 (Walddekret, AWaD)
 
-Vom 03.11.1998 (Stand 01.01.2019)
+Vom 03.11.1998 (Stand 01.11.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf die §§ 8 und 25 des Waldgesetzes des Kantons Aargau (AWaG) vom 1. Juli 1997[^ingress-1],
+gestützt auf die §§ 8, 25 und 26 des Waldgesetzes des Kantons Aargau (AWaG) vom 1. Juli 1997[^ingress-1],
 
 beschliesst:
 
@@ -74,7 +73,7 @@ beschliesst:
 
 <sup>1</sup> Die Beiträge an die Aufwendungen für Aufsichts-, Vollzugs- und Kontrollaufgaben der Revierförsterinnen und Revierförster werden jährlich ausgerichtet und berechnen sich wie folgt:
 
-- a) für Aufsichts- und Vollzugsaufgaben gemäss den §§ 4–7, 10–15 und 22 AWaG Fr. 20.– pro Hektare für Waldungen, die gemäss § 27 AWaG zwingend zu einem von einer Revierförsterin oder einem Revierförster geleiteten Betrieb gehören, Fr. 25.– pro Hektare für die übrigen Waldungen,
+- a) für Aufsichts- und Vollzugsaufgaben gemäss den §§ 4–7, 10–14 und 22 AWaG Fr. 20.– pro Hektare für Waldungen, die gemäss § 27 AWaG zwingend zu einem von einer Revierförsterin oder einem Revierförster geleiteten Betrieb gehören, Fr. 25.– pro Hektare für die übrigen Waldungen,
 - b) für die Überwachung der Holznutzung gemäss den §§ 17–19 AWaG Fr. 1.50 pro Festmeter Hiebsatz gemäss rechtsgültigem Betriebsplan für die Waldflächen, die gemäss § 27 AWaG zwingend zu einem von einer Revierförsterin oder einem Revierförster geleiteten Betrieb gehören,
 - c) für die Privatwaldbetreuung gemäss den §§ 17 und 23 AWaG Fr. 22.– pro Waldeigentümerin oder -eigentümer im kleinflächigen Waldeigentum,
 - d) für die Öffentlichkeitsarbeit gemäss § 23 AWaG Fr. 2.– pro Einwohnerin und Einwohner in Gemeinden, in denen die Revierförsterin oder der Revierförster für die Betreuung des kleinflächigen Waldeigentums gewählt ist, maximal Fr. 10'000.– pro Forstrevier.
@@ -85,15 +84,23 @@ beschliesst:
 
 #### § 5
 
-**Beiträge an die Waldpflege**
+**Beiträge an die Wald- und Schutzwaldpflege**
 
-<sup>1</sup> Die Beiträge an die im Interesse der nachhaltigen Waldentwicklung notwendige Pflege im Jungwald und in Waldungen mit speziellen Schutzfunktionen decken unter Einschluss allfälliger Bundesbeiträge und nach Abzug allfälliger Erlöse maximal 70 % der Kosten.
+<sup>1</sup> Die Beiträge an die im Interesse der nachhaltigen Waldentwicklung notwendige Pflege im Jungwald decken unter Einschluss allfälliger Bundesbeiträge und nach Abzug allfälliger Erlöse maximal 70 % der Kosten.
+
+<sup>1<sup>bis</sup></sup> Die Beiträge an Pflegemassnahmen zu Gunsten des Schutzwalds decken unter Einschluss allfälliger Bundes- und Nutzniessendenbeiträge und nach Abzug allfälliger Erlöse maximal 100 % der Kosten.
 
 <sup>2</sup> Der Regierungsrat kann für die Anrechnung der Kosten Pauschalansätze festlegen.
 
 #### § 6
 
 **…**
+
+#### § 6a
+
+**Beiträge der Gemeinden**
+
+<sup>1</sup> Die Einwohnergemeinden beteiligen sich an den Beiträgen für Pflegemassnahmen zu Gunsten des Schutzwalds mit maximal 20 % der Kosten.
 
 #### § 7
 
