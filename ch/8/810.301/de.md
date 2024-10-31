@@ -4,11 +4,11 @@ title: "Verordnung vom 20. September 2013 über die Humanforschung mit Ausnahme 
 short: HFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: de
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2013-642-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2013-642-20241101-de-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20241101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20230901/de"
 
 (Humanforschungsverordnung, HFV)
 
-vom 20. September 2013 (Stand am 1. September 2023)
+vom 20. September 2013 (Stand am 1. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -38,13 +38,26 @@ Diese Verordnung regelt:
 - a. die Anforderungen an die Durchführung von Projekten der Forschung am Menschen mit Ausnahme der klinischen Versuche; und
 - b. das Bewilligungs- und Meldeverfahren für Forschungsprojekte nach Buchstabe a.
 
+#### Art. 1a
+
+**Begriff**[^1a-1]
+
+Im Sinne dieser Verordnung gilt als Überschussinformation: Personenbezogene Ergebnisse, insbesondere Zufallsbefunde, die im Rahmen eines Forschungsprojekts anfallen und die weder für die Durchführung desselben noch für die Beantwortung der wissenschaftlichen Fragestellung benötigt werden.
+
+[^1a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 #### Art. 2
 
-**Anwendbare Bestimmungen**
+**Anwendbare Bestimmungen**[^2-1]
 
-Die Bestimmungen über die wissenschaftliche Integrität und die wissenschaftliche Qualität nach den Artikeln 3 und 4 der Verordnung vom 20. September 2013[^2-1] über klinische Versuche (KlinV) sind sinngemäss anwendbar.
+Folgende Bestimmungen der Verordnung vom 20. September 2013[^2-2] über klinische Versuche (KlinV) sind sinngemäss anwendbar:
 
-[^2-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+- a. Artikel 3 betreffend die wissenschaftliche Integrität;
+- b. Artikel 4 betreffend die wissenschaftliche Qualität;
+- c. Artikel 4*a* betreffend den Einschluss relevanter Personengruppen.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^2-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 3
 
@@ -64,9 +77,12 @@ Die Projektleitung eines Forschungsprojekts muss:
 
 - a. zur Ausübung des Berufs in eigener fachlicher Verantwortung berechtigt sein, der sie zum betreffenden Forschungsprojekt spezifisch qualifiziert;
 - b. die in Bezug auf die Durchführung des betreffenden Forschungsprojekts erforderliche Ausbildung und Erfahrung aufweisen;
-- c. über Kenntnisse der gesetzlichen Voraussetzungen eines Forschungsprojekts verfügen oder diese mittels Einbezug entsprechender Expertise gewährleisten können.
+- c. über Kenntnisse der gesetzlichen Voraussetzungen eines Forschungsprojekts verfügen oder diese mittels Einbezug entsprechender Expertise gewährleisten können;
+- d.[^4-1] über angemessene Kenntnisse und Fertigkeiten in den Bereichen Datensicherheit und Datenschutz verfügen oder diese mittels Einbezug entsprechender Expertise gewährleisten können.
 
 <sup>2</sup> Die übrigen Personen, die das Forschungsprojekt durchführen, müssen über ihrer jeweiligen Tätigkeit entsprechende fachliche Kenntnisse und Erfahrungen verfügen.
+
+[^4-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 5
 
@@ -85,8 +101,19 @@ Wer gesundheitsbezogene Personendaten für die Forschung aufbewahrt, muss deren 
 Wer biologisches Material für die Forschung aufbewahrt, muss namentlich:
 
 - a. die in Absatz 1 genannten Grundsätze sinngemäss beachten;
-- b. die technischen Anforderungen für die sachgerechte Aufbewahrung des biologischen Materials gewährleisten;
+- b.[^5-1] die technischen Anforderungen für die sachgerechte Aufbewahrung des biologischen Materials gewährleisten; dabei sind national und international anerkannte Leitlinien beizuziehen;
 - c. die erforderlichen Ressourcen für die Aufbewahrung bereitstellen.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 5a
+
+**Umgang mit genetischen Daten bei Versicherungsverhältnissen**[^5a-1]
+
+Bei Versicherungsverhältnissen gelten für den Umgang mit genetischen Daten aus Forschungsprojekten die Artikel 42–44 des Bundesgesetzes vom 15. Juni 2018[^5a-2] über genetische Untersuchungen bei Menschen (GUMG).
+
+[^5a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^5a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 ## 2. Kapitel: Forschung mit Personen, die mit Massnahmen zur Entnahme biologischen Materials oder zur Erhebung gesundheitsbezogener Personendaten verbunden ist
 
@@ -100,6 +127,14 @@ Als Forschungsprojekt nach diesem Kapitel gilt jedes Vorhaben, bei dem einer Per
 
 - a. eine wissenschaftliche Fragestellung zu beantworten; oder
 - b. das biologische Material beziehungsweise die gesundheitsbezogenen Personendaten zu Forschungszwecken weiterzuverwenden.
+
+#### Art. 6a
+
+**Abschluss des Forschungsprojektes**[^6a-1]
+
+Als Abschluss des Forschungsprojektes nach diesem Kapitel gilt die letzte Erhebung von gesundheitsbezogenen Personendaten oder die letzte Entnahme von biologischem Material in einem Forschungsprojekt, sofern im Forschungsplan nichts anderes bestimmt ist.
+
+[^6a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 7
 
@@ -120,12 +155,12 @@ Die Entnahme biologischen Materials oder die Erhebung gesundheitsbezogener Perso
 - e. Magnetresonanztomographien ohne Kontrastmittel, Ultraschalluntersuchungen oder Elektrogramme;
 - f.[^7-1]
 
-  Untersuchungen mit ionisierender Strahlung, sofern die effektive Dosis unter 5 mSv pro Forschungsprojekt und teilnehmender Person liegt und:
+  Begleituntersuchungen mit ionisierender Strahlung, sofern die effektive Dosis unter 5 mSv pro Forschungsprojekt und teilnehmende Person liegt, kein Kontrastmittel angewendet wird und:
 
-  - 1\. die dazu angewendeten Arzneimittel zugelassen oder zulassungsbefreit sind, oder
-  - 2\. die Produkte nach Artikel 1 der Medizinprodukteverordnung vom 1. Juli 2020[^7-2] ein Konformitätskennzeichen aufweisen und kein Kontrastmittel angewendet wird.
+  - 1\. die dazu eingesetzten Radiopharmazeutika zulassungskonform angewendet werden oder zulassungsbefreit sind, oder
+  - 2\. die Produkte nach Artikel 1 der Medizinprodukteverordnung vom 1. Juli 2020[^7-2] ein Konformitätskennzeichen nach Artikel 13 MepV aufweisen und gemäss Gebrauchsanweisung angewendet werden.
 
-[^7-1]: Fassung gemäss Anhang 2 Ziff. 1 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 [^7-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 8
@@ -140,6 +175,7 @@ Zusätzlich zu den Inhalten nach Artikel 16 Absatz 2 HFG muss die betroffene Per
 - b. ihr Recht, die Einwilligung ohne Begründung zu verweigern oder zu widerrufen;
 - c. die Konsequenzen eines Widerrufs der Einwilligung auf die weitere Verwendung des bis zum Widerruf gesammelten biologischen Materials und der bis zum Widerruf erhobenen Personendaten;
 - d. ihr Recht, jederzeit auf weitere Fragen Auskunft zu erhalten;
+- d<sup>bis</sup>.[^8-1] die Möglichkeit, dass Überschussinformationen entstehen und die Bedeutung der Entdeckung der Überschussinformationen sowie die Bedeutung der Ausübung des Rechts auf Wissen oder Nichtwissen;
 - e. ihr Recht, über die ihre Gesundheit betreffenden Ergebnisse informiert zu werden, sowie ihr Recht, auf diese Information zu verzichten oder eine Person zu bestimmen, die diese Entscheidung für sie treffen soll;
 - f. die Massnahmen, die zur Deckung allfälliger Schäden im Zusammenhang mit dem Forschungsprojekt vorgesehen sind, einschliesslich der Vorgehensweise im Schadensfall;
 - g. die Hauptfinanzierungsquellen des Forschungsprojekts;
@@ -149,7 +185,68 @@ Zusätzlich zu den Inhalten nach Artikel 16 Absatz 2 HFG muss die betroffene Per
 
 <sup>3</sup> Die Aufklärung kann in Etappen durchgeführt werden. Sie kann zusätzlich in anderer als der Textform erfolgen.
 
-<sup>4</sup> Es ist durch geeignete Massnahmen sicherzustellen, dass die betroffene Person die wesentlichen Aufklärungsinhalte versteht.
+<sup>4</sup>
+
+Es ist durch geeignete Massnahmen sicherzustellen, dass die betroffene Person die wesentlichen Aufklärungsinhalte versteht; insbesondere:
+
+- a. ist die betroffene Person über Sinn und Ablauf der Aufklärung zu informieren;
+- b. sind die Aufklärungsinhalte geeignet, strukturiert und anschaulich zu vermitteln.[^8-2]
+
+[^8-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 8a
+
+**Aufklärung bei genetischen Untersuchungen**[^8a-1]
+
+<sup>1</sup>
+
+Sofern bei der Durchführung präsymptomatischer genetischer Untersuchungen, pränataler genetischer Untersuchungen und Untersuchungen zur Familienplanung (Art. 3 Bst. e, g und i GUMG[^8a-2]) Ergebnisse anfallen, die ihre Gesundheit betreffen, muss die betroffene Person zusätzlich über Folgendes aufgeklärt werden:
+
+- a. Zweck, Art und Aussagekraft der Untersuchung;
+- b. Häufigkeit und Art der abzuklärenden Störung;
+- c. medizinische, psychische und soziale Auswirkungen in Zusammenhang mit der Untersuchung;
+- d. die mögliche Bedeutung des Ergebnisses für die betroffene Person sowie für Familienangehörige und deren Recht auf Nichtwissen.
+
+<sup>2</sup> Bei der Durchführung präsymptomatischer Untersuchungen (Art. 3 Bst. e GUMG) muss die betroffene Person zusätzlich über die Voraussetzungen, unter denen Versicherungseinrichtungen die Bekanntgabe von Daten aus durchgeführten genetischen Untersuchungen verlangen können, aufgeklärt werden (Art. 43 und Art. 44 GUMG).
+
+[^8a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^8a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 8b
+
+**Aufklärung bei pränatalen Risikoabklärungen**[^8b-1]
+
+Bei der Durchführung pränataler Risikoabklärungen (Art. 3 Bst. h GUMG[^8b-2]) muss die schwangere Frau zusätzlich über die Inhalte nach Artikel 23 GUMG aufgeklärt werden.
+
+[^8b-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^8b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 8c
+
+**Form der Einwilligung**[^8c-1]
+
+<sup>1</sup> Die Einwilligung muss durch eigenhändige Unterschrift oder in elektronischer Form abgegeben werden.
+
+<sup>2</sup>
+
+Die Einwilligungserklärung muss:
+
+- a. datiert sein; und
+- b. während der gesamten erforderlichen Aufbewahrungsdauer lesbar sein.
+
+<sup>3</sup>
+
+Die Einwilligung in elektronischer Form ist zulässig, sofern:
+
+- a. sie in einem Verfahren erteilt wurde, das die betroffene Person eindeutig identifiziert;
+- b. das gewählte Verfahren eine übereilte Entscheidung verhindert;
+- c. sie entsprechend dem Stand der Technik vor Veränderung geschützt ist;
+- d. in den Gesuchsunterlagen beschrieben wird, wie die Voraussetzungen nach Buchstaben a–c eingehalten werden.
+
+<sup>4</sup> Der betroffenen Person wird eine Kopie der Aufklärungsdokumente und der Einwilligungserklärung abgegeben, nach ihrer Wahl auf Papier oder in elektronischer Form.
+
+[^8c-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 9
 
@@ -177,6 +274,22 @@ Von der Schriftform der Aufklärung kann im Einzelfall abgewichen werden, wenn:
 - a. sich diese aufgrund der Sprachkenntnisse der betroffenen Person nur mit unverhältnismässigem Aufwand umsetzen lässt; und
 - b. zur mündlichen Aufklärung eine unabhängige qualifizierte Übersetzerin oder ein unabhängiger qualifizierter Übersetzer beigezogen wird und diese oder dieser die erfolgte Aufklärung schriftlich bestätigt.
 
+#### Art. 9a
+
+**Mitteilung von Ergebnissen**[^9a-1]
+
+<sup>1</sup> Das Recht der betroffenen Person auf Information nach Artikel 8 Absatz 1 HFG gilt für ihre Gesundheit betreffende Ergebnisse, die mit Untersuchungen gewonnen wurden, welche die aktuellen Standards der analytischen und der klinischen Validität erfüllen.
+
+<sup>2</sup>
+
+Der betroffenen Person bzw. gegebenenfalls der gesetzlichen Vertretung, der bezeichneten Vertrauensperson oder den nächsten Angehörigen (Art. 22–24 HFG) mitgeteilt werden müssen Ergebnisse:
+
+- a. die einer gesetzlichen Meldepflicht unterliegen, welche eine Information der betroffenen Person über das Ergebnis voraussetzt oder beinhaltet;
+- b. die eine gesundheitspolizeiliche Massnahme nach sich ziehen können, welche eine Information der betroffenen Person über das Ergebnis voraussetzt oder beinhaltet;
+- c. die von der zu informierenden Person zur Kenntnis genommen werden müssen, um das Leben und die Gesundheit von Dritten oder der von der Untersuchung betroffenen urteilsunfähigen Person zu schützen.
+
+[^9a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 #### Art. 10
 
 **Folgen des Widerrufs**
@@ -202,12 +315,9 @@ Auf Forschungsprojekte in Notfallsituationen sind die Artikel 15–17 KlinV[^11-
 
 #### Art. 12
 
-**Ausnahmen von der Haftpflicht**
+[^12-1]
 
-Von der Haftpflicht gemäss Artikel 19 Absatz 1 HFG wird befreit, wer beweist, dass der Schaden:
-
-- a. nur geringfügig und vorübergehend ist; und
-- b. nicht über ein nach dem Stand der Wissenschaft zu erwartendes Mass hinausgeht.
+[^12-1]: Aufgehoben durch Ziff. I der V vom 7. Juni 2024, mit Wirkung seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 13
 
@@ -256,16 +366,20 @@ Die zuständige Ethikkommission überprüft:
   - 7\. die Angemessenheit der Entschädigung der teilnehmenden Personen und die Einhaltung des Kommerzialisierungsverbots (Art. 9 HFG),
   - 8\. die Einhaltung der Vorgaben zur wissenschaftlichen Integrität;
 
+- c<sup>bis</sup>.[^15-1] gegebenenfalls die Einhaltung der Anforderungen an die Einwilligung in elektronischer Form (Art. 8*c* Abs. 3 Bst. a–c);
 - d. die Vollständigkeit der Unterlagen zur Rekrutierung, zur Aufklärung und zur Einwilligung sowie deren Verständlichkeit, namentlich in Bezug auf den allfälligen Einbezug besonders verletzbarer Personen;
+- d<sup>bis</sup>.[^15-2] die Berücksichtigung des Rechts der betroffenen Person auf Information (Art. 8 Abs. 1 HFG);
 - e. bei Forschungsprojekten der Kategorie B die Sicherstellung des Rechts auf Entschädigung im Schadensfall (Art. 20 HFG);
-- f. bei Untersuchungen mit Strahlungsquellen[^15-1] zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung, sofern keine Stellungnahme des Bundesamtes für Gesundheit (BAG) gemäss Artikel 19 Absatz 2 vorliegt;
+- f.[^15-3] bei Begleituntersuchungen mit ionisierender Strahlung zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung, sofern keine Stellungnahme des Bundesamtes für Gesundheit (BAG) gemäss Artikel 19 Absatz 4 einzuholen ist;
 - g. die fachliche Qualifikation der Projektleitung und der weiteren Forschenden;
 - h. die Einhaltung der Vorgaben zur Aufbewahrung des biologischen Materials oder der gesundheitsbezogenen Personendaten nach Artikel 5;
 - i. die Eignung der Infrastrukturen am Durchführungsort;
 - j. die Finanzierung des Forschungsprojekts sowie die Vereinbarungen zwischen Sponsor, Dritten und Projektleitung hinsichtlich der Zuteilung von Aufgaben, der Vergütung und der Publikation;
 - k. weitere Bereiche, sofern dies zur Beurteilung des Schutzes der teilnehmenden Personen notwendig ist.
 
-[^15-1]: Ausdruck gemäss Anhang 11 Ziff. 5 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^15-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^15-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321), [581](https://fedlex.data.admin.ch/eli/oc/2024/581)).
 
 #### Art. 16
 
@@ -302,7 +416,7 @@ Die zuständige Ethikkommission überprüft:
 Als wesentliche Änderungen gelten:
 
 - a. Änderungen, die sich auf die Sicherheit und Gesundheit sowie die Rechte und Pflichten der teilnehmenden Personen auswirken;
-- b. Änderungen des Forschungsplans, welche die Zielsetzung beziehungsweise die zentrale Fragestellung des Forschungsprojekts betreffen, sofern es sich um ein Forschungsprojekt der Kategorie B handelt;
+- b.[^18-1] Änderungen des Forschungsplans, welche die Zielsetzung beziehungsweise die zentrale Fragestellung des Forschungsprojekts betreffen;
 - c. die Änderung des Durchführungsortes oder die Durchführung des Forschungsprojekts an einem zusätzlichen Durchführungsort; oder
 - d. der Wechsel der Projektleitung oder des Sponsors.
 
@@ -310,32 +424,43 @@ Als wesentliche Änderungen gelten:
 
 <sup>5</sup> Auf das Bewilligungsverfahren bei wesentlichen Änderungen von bewilligten multizentrischen Forschungsprojekten ist Artikel 17 sinngemäss anwendbar.
 
+[^18-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 #### Art. 19
 
-**Verfahren bei Untersuchungen mit Strahlungsquellen**
+**Verfahren bei Begleituntersuchungen mit ionisierender Strahlung**[^19-1]
 
-<sup>1</sup> Bei Untersuchungen mit Strahlungsquellen reicht die Projektleitung der zuständigen Ethikkommission zusätzlich die Dokumente nach Anhang 2 Ziffer 2 ein. Das Bewilligungsverfahren richtet sich unter Vorbehalt der folgenden Absätze nach den Artikeln 14–18.
+<sup>1</sup> Bei Begleituntersuchungen mit ionisierender Strahlung reicht die Projektleitung der zuständigen Ethikkommission zusätzlich die Dokumente nach Anhang 2 Ziffer 2 ein. Das Bewilligungsverfahren richtet sich unter Vorbehalt der Absätze 2–6 nach den Artikeln 14–18.
 
 <sup>2</sup>
 
-Die Projektleitung reicht zusätzlich dem BAG die Gesuchsunterlagen nach Anhang 2 Ziffer 3 unter gleichzeitiger Mitteilung an die Ethikkommission ein, wenn die effektive Dosis unter Berücksichtigung des Unsicherheitsfaktors pro Person über 5 mSv pro Jahr liegt und:
+Die Projektleitung reicht zusätzlich dem BAG die Gesuchsunterlagen nach Anhang 2 Ziffer 3 ein, wenn:
 
-- a. ein Radiopharmazeutikum zur Anwendung kommt, das in der Schweiz nicht zugelassen ist;
-- b. ein Radiopharmazeutikum zur Anwendung kommt, das in der Schweiz zugelassen ist und es sich nicht um eine nuklearmedizinische Routineuntersuchungen handelt; oder
-- c. eine andere radioaktive Quelle[^19-1] zur Anwendung kommt.
+- a. ein eingesetztes Radiopharmazeutikum nicht zulassungskonform angewendet wird oder in der Schweiz nicht zugelassen ist;
+- b.
 
-<sup>3</sup> Das BAG nimmt zuhanden der Ethikkommission Stellung zur Einhaltung der Strahlenschutzgesetzgebung sowie zur Dosisabschätzung.
+  ein eingesetztes Medizinprodukt, das ionisierende Strahlung aussenden kann:
 
-<sup>4</sup>
+  - 1\. nicht gemäss Gebrauchsanweisung angewendet wird, oder
+  - 2\. kein Konformitätskennzeichen nach Artikel 13 MepV[^19-2] trägt; oder
+
+- c. eine andere radioaktive Quelle zur Anwendung kommt.
+
+<sup>3</sup> Falls eine zusätzliche Einreichung von Gesuchsunterlagen nach Absatz 2 erforderlich ist, teilt die Projektleitung dies der Ethikkommission mit.
+
+<sup>4</sup> Das BAG nimmt innert angemessener Frist zuhanden der Ethikkommission Stellung zur Einhaltung der Strahlenschutzgesetzgebung sowie zur Dosisabschätzung.
+
+<sup>5</sup>
 
 Die Ethikkommission erteilt die Bewilligung, wenn:
 
 - a. die Anforderungen nach Artikel 15 eingehalten werden; und
-- b. das BAG keine Einwände gegen das Forschungsprojekt vorgebracht hat.
+- b. nach der Diskussion der Stellungnahme nach Absatz 4 keine Einwände gegen das Forschungsprojekt verbleiben.
 
-<sup>5</sup> Sie entscheidet diesfalls innerhalb von 45 Tagen nach Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen. Sie teilt ihren Entscheid dem BAG mit.
+<sup>6</sup> Sie entscheidet diesfalls innerhalb von 45 Tagen nach Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen. Sie teilt ihren Entscheid dem BAG mit.
 
-[^19-1]: Ausdruck gemäss Anhang 11 Ziff. 5 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^19-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321), [581](https://fedlex.data.admin.ch/eli/oc/2024/581)).
+[^19-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### 3. Abschnitt: Meldungen und Berichterstattung
 
@@ -359,13 +484,16 @@ Als schwerwiegendes Ereignis gilt jedes nachteilige Ereignis, bei dem nicht ausg
 - b. zu einer bleibenden oder schwerwiegenden Behinderung oder Invalidität führt; oder
 - c. lebensbedrohlich ist oder zum Tod führt.
 
-<sup>3</sup> Ist es zur Gewährleistung der Sicherheit und Gesundheit der teilnehmenden Personen erforderlich, so sind im Prüfplan oder auf Verlangen der zuständigen Ethikkommission weitere Ereignisse als schwerwiegend zu bezeichnen.
+<sup>3</sup> Ist es zur Gewährleistung der Sicherheit und Gesundheit der teilnehmenden Personen erforderlich, so sind im Forschungsplan oder auf Verlangen der zuständigen Ethikkommission weitere Ereignisse als schwerwiegend zu bezeichnen.[^21-1]
 
 <sup>4</sup> Die Projektleitung meldet der Ethikkommission ein schwerwiegendes Ereignis innerhalb von 7 Tagen. Sie erstattet ihr zudem Bericht über den Zusammenhang zwischen dem Ereignis und der Erhebung gesundheitsbezogener Personendaten oder der Entnahme biologischen Materials. Gleichzeitig legt sie Vorschläge für das weitere Vorgehen vor.
 
-<sup>5</sup> Tritt bei einer Untersuchung mit einer Strahlungsquelle, zu der das BAG nach Artikel 19 Stellung genommen hat, ein schwerwiegendes Ereignis auf, so muss dieses innerhalb von 7 Tagen zusätzlich dem BAG gemeldet werden.
+<sup>5</sup> …[^21-2]
 
 <sup>6</sup> Die Ethikkommission entscheidet innerhalb von 30 Tagen nach Eingang des Berichts über die Fortführung des Forschungsprojekts.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^21-2]: Aufgehoben durch Ziff. I der V vom 7. Juni 2024, mit Wirkung seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 22
 
@@ -375,22 +503,34 @@ Die Projektleitung meldet der Ethikkommission den Abbruch oder Abschluss des For
 
 #### Art. 23
 
-**Überprüfung, Meldung und Berichterstattung bei der Anwendung von Strahlungsquellen**[^23-1]
+**Überprüfung, Meldung und Berichterstattung bei der Anwendung von ionisierender Strahlung[^23-2]**[^23-1]
 
-<sup>1</sup> Die Projektleitung überprüft bei Untersuchungen mit Strahlungsquellen die Einhaltung des Dosisrichtwerts nach Artikel 45 der Strahlenschutzverordnung vom 26. April 2017[^23-2].
+<sup>1</sup> Die Projektleitung überprüft bei Forschungsprojekten mit jeglicher Anwendung von ionisierender Strahlung die Einhaltung des Dosisrichtwertes nach Artikel 45 der Strahlenschutzverordnung vom 26. April 2017[^23-3].[^23-4]
 
 <sup>2</sup> Sie meldet eine Überschreitung des zulässigen Dosisrichtwertes innerhalb von sieben Arbeitstagen nach Bekanntwerden der zuständigen Ethikkommission.
 
 <sup>3</sup> Die zuständige Ethikkommission kann zur Beurteilung der Dosisberechnung oder der Dosisabschätzung sowie zur Bestimmung der weiteren Massnahmen die fachliche Beratung des BAG einholen.
 
-<sup>4</sup> Die Projektleitung übermittelt dem BAG innerhalb eines Jahres nach Abschluss oder Abbruch eines Forschungsprojekts, das Untersuchungen mit radioaktiven Quellen beinhaltete, einen Schlussbericht mit allen für den Strahlenschutz relevanten Angaben, insbesondere einer retrospektiven Dosisabschätzung der teilnehmenden Personen.
+<sup>4</sup> Die Projektleitung übermittelt dem BAG innerhalb eines Jahres nach Abschluss oder Abbruch eines Forschungsprojekts, das Begleituntersuchungen mit ionisierender Strahlung beinhaltete, einen Schlussbericht mit allen für den Strahlenschutz relevanten Angaben, insbesondere einer retrospektiven Dosisabschätzung für die teilnehmenden Personen.[^23-5]
 
-<sup>5</sup> Keine Berichterstattungspflicht nach Absatz 4 besteht bei nuklearmedizinischen Routineuntersuchungen mit zugelassenen Radiopharmazeutika.
+<sup>5</sup> Keine Berichterstattungspflicht nach Absatz 4 besteht bei zulassungskonform angewendeten Radiopharmazeutika und bei nach Gebrauchsanweisung angewendeten Medizinprodukten mit Konformitätskennzeichen.[^23-6]
 
 <sup>6</sup> Das BAG kann im Rahmen der Stellungnahme nach Artikel 19 oder auf Gesuch hin weitere Ausnahmen von der Berichterstattungspflicht nach Absatz 4 vorsehen.
 
 [^23-1]: Fassung gemäss Anhang 11 Ziff. 5 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^23-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^23-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-3]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^23-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-5]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-6]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 23a
+
+**Aufbewahrungspflicht**[^23a-1]
+
+Die Projektleitung muss alle Daten zum Forschungsprojekt während mindestens zehn Jahren nach Abschluss oder Abbruch des Forschungsprojekts aufbewahren.
+
+[^23a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 ## 3. Kapitel: Weiterverwendung biologischen Materials und gesundheitsbezogener Personendaten für die Forschung
 
@@ -409,21 +549,25 @@ Als Weiterverwendung biologischen Materials und gesundheitsbezogener Personendat
 
 #### Art. 25
 
-**Anonymisierung**
+**Anonymisierung**[^25-1]
 
-<sup>1</sup> Zur Anonymisierung biologischen Materials und gesundheitsbezogener Personendaten müssen alle Angaben, die in ihrer Kombination die Wiederherstellung des Bezugs zu einer Person ohne unverhältnismässigen Aufwand erlauben, irreversibel unkenntlich gemacht oder gelöscht werden.
+<sup>1</sup> Zur Anonymisierung von biologischem Material und gesundheitsbezogenen Personendaten muss der Bezug zu einer bestimmten Person verunmöglicht oder auf eine Weise aufgehoben werden, die die Wiederherstellung des Bezugs zu dieser Person nur noch mit unverhältnismässigem Aufwand ermöglicht.
 
-<sup>2</sup> Insbesondere unkenntlich gemacht oder gelöscht werden müssen Namen, Adresse, Geburtsdatum und eindeutig kennzeichnende Identifikationsnummern.
+<sup>2</sup> Die Anonymisierung hat gemäss einem methodischen Vorgehen basierend auf dem aktuellen Stand der Technik zu erfolgen. Insbesondere müssen Daten, die einzeln oder kombiniert die Wiederherstellung des Bezugs zu einer bestimmten Person ermöglichen, wie Vornamen, Namen, Adresse, Geburtsdatum und eindeutig kennzeichnende Identifikationsnummern, vernichtet oder verändert werden.
+
+<sup>3</sup> Die Methodik der Anonymisierung ist zu dokumentieren, einschliesslich der Beschreibung des verbleibenden Re-Identifikationsrisikos.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 26
 
-**Verschlüsselung**
+**Verschlüsselung**[^26-1]
 
-<sup>1</sup> Biologisches Material und gesundheitsbezogene Personendaten gelten im Sinne der Artikel 32 Absatz 2 und 33 Absatz 2 HFG als korrekt verschlüsselt, wenn sie aus der Sicht einer Person, die keinen Zugang zum Schlüssel hat, als anonymisiert zu qualifizieren sind.
+<sup>1</sup> Biologisches Material und gesundheitsbezogene Personendaten gelten im Sinne der Artikel 32 Absatz 2 und 33 Absatz 2 HFG als korrekt verschlüsselt, wenn es ohne Zugang zum Schlüssel oder zu den Quelldaten nur noch mit unverhältnismässigem Aufwand möglich ist, das biologische Material und die gesundheitsbezogenen Daten einer bestimmten Person zuzuordnen.
 
-<sup>2</sup> Der Schlüssel muss von einer im Gesuch zu bezeichnenden Person, die nicht am Forschungsprojekt beteiligt ist, getrennt vom biologischen Material beziehungsweise den Personendaten und gemäss den Grundsätzen nach Artikel 5 Absatz 1 aufbewahrt werden.[^26-1]
+<sup>2</sup> Die Verschlüsselung hat gemäss einem methodischen Vorgehen basierend auf dem aktuellen Stand der Technik zu erfolgen. Der Schlüssel muss von einer im Gesuch zu bezeichnenden Person oder Organisationseinheit, die nicht am Forschungsprojekt beteiligt ist, getrennt vom biologischen Material und den Personendaten sowie nach den Grundsätzen nach Artikel 5 Absatz 1 aufbewahrt werden.
 
-[^26-1]: Fassung gemäss Anhang 2 Ziff. II 95 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 27
 
@@ -456,9 +600,12 @@ Die betroffene Person muss schriftlich und mündlich aufgeklärt werden über:
 
 <sup>2</sup> Die Aufklärung kann zusätzlich in anderer als der Textform erfolgen.
 
-<sup>3</sup> Die Einwilligung ist schriftlich zu erteilen.
+<sup>3</sup> Die Form der Einwilligung richtet sich nach Artikel 8*c*.[^28-1]
 
-<sup>4</sup> Die Ausnahmen von der Schriftlichkeit richten sich sinngemäss nach Artikel 9.
+<sup>4</sup> Artikel 9 ist sinngemäss anwendbar.[^28-2]
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^28-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 29
 
@@ -473,7 +620,12 @@ Die betroffene Person muss schriftlich oder mündlich aufgeklärt werden über:
 - c. die Massnahmen zum Schutz des biologischen Materials und der Personendaten, namentlich die Verwaltung des Schlüssels;
 - d. die Möglichkeit der Weitergabe des biologischen Materials und der genetischen Personendaten zu Forschungszwecken an Dritte.
 
-<sup>2</sup> Die Einwilligung ist schriftlich zu erteilen; die Ausnahmen richten sich sinngemäss nach Artikel 9.
+<sup>2</sup> Die Form der Einwilligung richtet sich nach Artikel 8*c* Absätze 1, 2 Buchstabe a, 3 Buchstaben a–c und 4.[^29-1]
+
+<sup>3</sup> Artikel 9 ist sinngemäss anwendbar.[^29-2]
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^29-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 30
 
@@ -500,7 +652,12 @@ Die betroffene Person muss schriftlich oder mündlich aufgeklärt werden über:
 - d. die Massnahmen zum Schutz der Personendaten;
 - e. die Möglichkeit der Weitergabe der Personendaten zu Forschungszwecken an Dritte.
 
-<sup>2</sup> Die Einwilligung ist schriftlich zu erteilen; die Ausnahmen richten sich sinngemäss nach Artikel 9.
+<sup>2</sup> Die Form der Einwilligung richtet sich nach Artikel 8*c* Absätze 1, 2 Buchstabe a, 3 Buchstaben a–c und 4.[^31-1]
+
+<sup>3</sup> Artikel 9 ist sinngemäss anwendbar.[^31-2]
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^31-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 32
 
@@ -527,16 +684,20 @@ Als Forschungsprojekt nach diesem Abschnitt gilt jedes Vorhaben, bei dem bereits
 
 <sup>1</sup>
 
-Die Ethikkommission überprüft:
+Die zuständige Ethikkommission überprüft:[^34-1]
 
 - a. die Vollständigkeit des Gesuchs;
 - b. die Erfüllung der Voraussetzungen nach den Artikeln 32 und 33 HFG;
+- b<sup>bis</sup>.[^34-2] die wissenschaftliche Qualität;
 - c. bei Forschungsprojekten mit verschlüsseltem biologischem Material und verschlüsselten gesundheitsbezogenen Personendaten die korrekte und sichere Verschlüsselung;
 - d. die Einhaltung der Vorgaben zur Aufbewahrung des biologischen Materials oder der gesundheitsbezogenen Personendaten;
 - e. die fachliche Qualifikation der Projektleitung und der weiteren am Forschungsprojekt beteiligten Personen;
 - f. weitere Bereiche, sofern dies zur Beurteilung des Schutzes der betroffenen Personen notwendig ist.
 
 <sup>2</sup> Sie berücksichtigt dabei bereits vorliegende Bewilligungen von Ethikkommissionen betreffend das biologische Material oder die gesundheitsbezogenen Personendaten.
+
+[^34-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^34-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 35
 
@@ -562,7 +723,9 @@ Sinngemäss anwendbar sind:
 
 **Prüfbereiche**
 
-Die Ethikkommission überprüft:
+<sup>1</sup>
+
+Die zuständige Ethikkommission überprüft:[^37-1]
 
 - a. die Vollständigkeit des Gesuchs;
 - b. die Gründe nach Artikel 34 Buchstaben a und b HFG;
@@ -571,6 +734,8 @@ Die Ethikkommission überprüft:
 - e. die Einhaltung der Vorgaben zur Aufbewahrung des biologischen Materials oder der gesundheitsbezogenen Personendaten sowie der Kreis der zugriffsberechtigten Personen;
 - f. die fachliche Qualifikation der Personen, die zur Entgegennahme des biologischen Materials und der Personendaten berechtigt sind;
 - g. weitere Bereiche, sofern dies zur Beurteilung des Schutzes der betroffenen Personen notwendig ist.
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 38
 
@@ -657,24 +822,33 @@ Bei Forschungsprojekten an Embryonen und Föten aus Schwangerschaftsabbrüchen u
 
 <sup>2</sup> Die Aufklärung kann zusätzlich in anderer als der Textform erfolgen.
 
-<sup>3</sup> Die Einwilligung ist schriftlich zu erteilen. Die Folgen eines Widerrufs richten sich nach Artikel 10.
+<sup>3</sup> Die Form der Einwilligung richtet sich nach Artikel 8*c*.[^44-1]
 
-<sup>4</sup> Die Ausnahmen von der Schriftlichkeit richten sich sinngemäss nach Artikel 9.
+<sup>4</sup> Artikel 9 ist sinngemäss anwendbar.[^44-2]
+
+<sup>5</sup> Die Folgen eines Widerrufs richten sich nach Artikel 10.[^44-3]
+
+[^44-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^44-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^44-3]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 45
 
 **Prüfbereiche**
 
-Die Ethikkommission überprüft:
+Die zuständige Ethikkommission überprüft:[^45-1]
 
 - a. die Vollständigkeit des Gesuchs;
 - b. die wissenschaftliche Qualität;
-- c. die Einhaltung der Anforderungen an die Aufklärung und Einwilligung;
+- c.[^45-2] die Einhaltung der Anforderungen an die Aufklärung und Einwilligung, sowie gegebenenfalls die Einhaltung der Anforderungen an die Einwilligung in elektronischer Form (Art. 8*c* Abs. 3 Bst. a–c);
 - d. bei Forschungsprojekten an Embryonen und Föten aus Schwangerschaftsabbrüchen: die Einhaltung der Voraussetzungen nach Artikel 39 Absätze 1, 2 und 4 HFG;
 - e. die Einhaltung des Kommerzialisierungsverbots (Art. 9 HFG);
 - f. die Einhaltung der Vorgaben zur Aufbewahrung des biologischen Materials oder der gesundheitsbezogenen Personendaten;
 - g. die fachliche Qualifikation der Projektleitung und der weiteren Forschenden;
 - h. weitere Bereiche, sofern dies zur Beurteilung des Schutzes der schwangeren Frau oder des betroffenen Paares notwendig ist.
+
+[^45-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^45-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 46
 
@@ -716,6 +890,16 @@ Die Bestimmungen dieser Verordnung sind anwendbar:
 
 [^48-1]: [SR 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
 
+#### Art. 48a
+
+**Übergangsbestimmung zur Änderung vom 7. Juni 2024**[^48a-1]
+
+<sup>1</sup> Artikel 23*a* gilt nicht für Forschungsprojekte, die vor dem Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden.
+
+<sup>2</sup> Bei Forschungsprojekten, die vor dem Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, richten sich die Haftungspflichten nach bisherigem Recht.
+
+[^48a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321), [343](https://fedlex.data.admin.ch/eli/oc/2024/343)).
+
 #### Art. 49
 
 **Inkrafttreten**
@@ -734,17 +918,19 @@ Die Deckungssumme für Forschungsprojekte mit Personen der Kategorie B beträgt 
 - b. für Sachschäden: 20 000 Franken;
 - c. für das gesamte Forschungsprojekt: 3 Millionen Franken.
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 14, 17–19)
 
 ## Gesuchsunterlagen für das Verfahren bei der zuständigen Ethikkommission
 
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 ### 1 Gesuchsunterlagen für Forschungsprojekte mit Personen, die mit der Entnahme biologischen Materials oder der Erhebung gesundheitsbezogener Personendaten verbunden sind
 
-- 1\.1 Basisformular, einschliesslich der Zusammenfassung des Forschungsplans in der Landessprache des Durchführungsorts sowie der Begründung der beantragten Kategorisierung;
+- 1\.1 Administrative Informationen, einschliesslich der Zusammenfassung des Forschungsplans sowie der Begründung der beantragten Kategorisierung;
 - 1\.2 Forschungsplan;
-- 1\.3 Aufklärungsbogen und Einwilligungserklärung sowie Unterlagen betreffend die Rekrutierung, namentlich Anzeige oder Inseratetexte;
+- 1\.3 Unterlagen zur Aufklärung und Einwilligung sowie zur Rekrutierung, namentlich Anzeige oder Inseratetexte;
 - 1\.4 weitere Unterlagen, die der teilnehmenden Person abgegeben werden;
 - 1\.5 Angaben über Art und Ausmass der Entschädigung der teilnehmenden Personen;
 - 1\.6 bei Forschungsprojekten der Kategorie B: Versicherungsnachweis oder anderer Nachweis der Sicherstellung für allfällige Schäden;
@@ -753,26 +939,32 @@ Anhang 2
 - 1\.9 Nachweis über die Eignung und Verfügbarkeit der Infrastrukturen am Durchführungsort;
 - 1\.10 Vereinbarungen zwischen der Projektleitung und dem Sponsor oder Dritten, namentlich bezüglich der Finanzierung des Forschungsprojekts, der Vergütung der Projektleitung sowie bezüglich der Publikation.
 
-### 2 Zusätzliche Gesuchsunterlagen für Forschungsprojekte, welche Untersuchungen mit Strahlungsquellen umfassen
+### 2 Zusätzliche Gesuchsunterlagen für Forschungsprojekte, welche Begleituntersuchungen mit ionisierender Strahlung umfassen
 
 - 2\.1 Angaben zu wesentlichen Strahlenschutzaspekten, insbesondere eine Berechnung beziehungsweise Abschätzung der effektiven Strahlendosis, der Organdosen und allfälliger Tumordosen;
 - 2\.2 die erforderlichen Bewilligungen gemäss Artikel 28 des Strahlenschutzgesetzes vom 22. März 1991[^annex2-lvlu1-lvl2-1].
 
 [^annex2-lvlu1-lvl2-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 
-### 3 Zusätzliche Gesuchsunterlagen für Forschungsprojekte, welche Untersuchungen mit radioaktiven Quellen umfassen und eine Stellungnahme des BAG nach Artikel 19 Absatz 2 erfordern
+### 3 Zusätzliche Gesuchsunterlagen für Forschungsprojekte, welche Begleituntersuchungen mit ionisierender Strahlung umfassen und eine Stellungnahme des BAG nach Artikel 19 Absatz 2 erfordern
 
-- 3\.1 Angaben zu den Eigenschaften des Radiopharmazeutikums, namentlich zur Pharmakokinetik, Qualität, Stabilität, radiochemischen Reinheit und Radionuklidreinheit;
-- 3\.2 bei zugelassenen Radiopharmazeutika: die Fachinformation;
-- 3\.3 bei nicht zugelassenen Radiopharmazeutika: Angaben zum Herstellungsverfahren und zur Qualitätskontrolle des Radiopharmazeutikums sowie die Namen der hierfür verantwortlichen Personen sowie Angaben zu deren fachlicher Qualifikation;
-- 3\.4 die Namen der für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen sowie Angaben zu deren fachlicher Qualifikation;
-- 3\.5 Angaben gemäss Formular des BAG für Forschungsprojekte mit Radiopharmazeutika oder mit radioaktiv markierten Stoffen[^annex2-lvlu1-lvl3-1].
+- 3\.1
 
-[^annex2-lvlu1-lvl3-1]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse www.bag.admin.ch &gt; Gesund leben &gt; Umwelt & Gesundheit &gt; Strahlung, Radioaktivität & Schall abgerufen werden.
+  Angaben gemäss Formular des BAG für Forschungsprojekte mit Radiopharmazeutika oder mit radioaktiv markierten Stoffen[^annex2-lvlu1-lvl3-1]. Darunter fallen:
+
+  - a. Angaben zu den Eigenschaften, namentlich zur Pharmakokinetik, Qualität, Stabilität, radiochemischen Reinheit und Radionuklidreinheit,
+  - b. Angaben zur effektiven Dosis und zu Organdosen,
+  - c. bei zugelassenen Radiopharmazeutika: die Fachinformation,
+  - d. bei nicht zugelassenen Radiopharmazeutika oder radioaktiv markierten Stoffen: Angaben zur Herstellung und den fachlichen Qualifikationen der verantwortlichen Personen,
+  - e. die für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen und deren fachlichen Qualifikationen;
+
+- 3\.2 Angaben zu den Eigenschaften des Medizinprodukts, insbesondere Art und Intensität der ionisierenden Strahlung, sowie zur Art der Abweichung von der Gebrauchsanweisung.
+
+[^annex2-lvlu1-lvl3-1]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Gesetze & Bewilligungen &gt; Gesuche & Bewilligungen &gt; Strahlenschutz: Bewilligungen, Voraussetzungen und Aufsicht abgerufen werden.
 
 ### 4 Gesuchsunterlagen für Forschungsprojekte, bei denen biologisches Material oder gesundheitsbezogene Personendaten weiterverwendet werden
 
-- 4\.1 Basisformular, einschliesslich der Zusammenfassung der wissenschaftlichen Fragestellung in der Landessprache des Durchführungsorts;
+- 4\.1 Administrative Informationen, einschliesslich der Zusammenfassung der wissenschaftlichen Fragestellung;
 - 4\.2 Beschrieb der wissenschaftlichen Fragestellung;
 - 4\.3 Nachweis über die Herkunft des biologischen Materials und der gesundheitsbezogenen Personendaten sowie über die Einhaltung der Voraussetzungen bezüglich der Einwilligung nach Aufklärung beziehungsweise der Information über das Widerspruchsrecht nach den Artikeln 32 und 33 HFG;
 - 4\.4 bei der Weiterverwendung biologischen Materials und gesundheitsbezogener Personendaten in verschlüsselter Form: der Nachweis über deren sichere und korrekte Verschlüsselung;
@@ -783,7 +975,7 @@ Anhang 2
 
 ### 5 Gesuchsunterlagen für die Weiterverwendung biologischen Materials oder gesundheitsbezogener Personendaten bei fehlender Einwilligung und Information nach Artikel 34 HFG
 
-- 5\.1 Basisformular, einschliesslich der Zusammenfassung des Vorhabens in der Landessprache des Durchführungsortes;
+- 5\.1 Administrative Informationen, einschliesslich der Zusammenfassung des Vorhabens;
 - 5\.2 Vorgehensplan;
 - 5\.3 Beschreibung der beabsichtigten Forschungszwecke, für die das biologische Material oder die gesundheitsbezogenen Personendaten weiterverwendet werden sollen, einschliesslich einer Darlegung, inwiefern das Interesse der Forschung gegenüber dem Interesse der betroffenen Personen überwiegt;
 - 5\.4 Bezeichnung des biologischen Materials oder der gesundheitsbezogenen Personendaten, das oder die weiterverwendet werden sollen;
@@ -798,7 +990,7 @@ Anhang 2
 
 ### 6 Gesuchsunterlagen für Forschungsprojekte an verstorbenen Personen
 
-- 6\.1 Basisformular, einschliesslich der Zusammenfassung des Forschungsplans in der Landessprache des Durchführungsortes;
+- 6\.1 Administrative Informationen, einschliesslich der Zusammenfassung des Forschungsplans;
 - 6\.2 Forschungsplan;
 - 6\.3 Nachweis über die Einhaltung der Anforderungen an die Einwilligung gemäss Artikel 36 HFG;
 - 6\.4 Nachweis über die Einhaltung der vorgängigen Todesfeststellung nach Artikel 37 Absatz 1 HFG;
@@ -811,9 +1003,9 @@ Anhang 2
 
 ### 7 Gesuchsunterlagen für Forschungsprojekte an Embryonen und Föten aus Schwangerschaftsabbrüchen und Spontanaborten einschliesslich Totgeburten
 
-- 7\.1 Basisformular, einschliesslich der Zusammenfassung des Forschungsplans in der Landessprache des Durchführungsortes;
+- 7\.1 Administrative Informationen, einschliesslich der Zusammenfassung des Forschungsplans;
 - 7\.2 Forschungsplan;
-- 7\.3 Unterlagen betreffend die Rekrutierung, einschliesslich allfälliger Inseratetexte, sowie Aufklärungsbogen und Einwilligungserklärung;
+- 7\.3 Unterlagen zur Aufklärung und Einwilligung sowie zur Rekrutierung, namentlich Anzeige oder Inseratetexte;
 - 7\.4 Beschreibung der Vorkehren zur Einhaltung der Anforderungen an die Einwilligung gemäss Artikel 39 Absatz 1 oder 40 Absatz 1 HFG;
 - 7\.5 Beschreibung der Vorkehren zur Einhaltung der vorgängigen Todesfeststellung nach Artikel 39 Absatz 3 beziehungsweise 40 Absatz 2 HFG;
 - 7\.6 bei Forschungsprojekten an Embryonen und Föten aus Schwangerschaftsabbrüchen: der Nachweis über die Einhaltung der Voraussetzungen nach Artikel 39 Absätze 2 und 4 HFG;
@@ -825,9 +1017,9 @@ Anhang 2
 
 ### 8 Gesuchsunterlagen für die beteiligten Ethikkommissionen bei multizentrischen Forschungsprojekten
 
-- 8\.1 Basisformular, einschliesslich der Zusammenfassung des Forschungsprojekts in der Landessprache des Durchführungsorts;
+- 8\.1 Administrative Informationen, einschliesslich der Zusammenfassung des Forschungsprojekts;
 - 8\.2 Forschungsplan;
-- 8\.3 bei Forschungsprojekten mit Personen oder Forschungsprojekten an Embryonen und Föten aus Schwangerschaftsabbrüchen und Spontanaborten einschliesslich Totgeburten: die Aufklärungsbogen und die Einwilligungserklärung sowie Unterlagen betreffend die Rekrutierung, namentlich Anzeige- oder Inseratetexte, die am jeweiligen Durchführungsort verwendet werden;
+- 8\.3 bei Forschungsprojekten mit Personen oder Forschungsprojekten an Embryonen und Föten aus Schwangerschaftsabbrüchen und Spontanaborten einschliesslich Totgeburten: Unterlagen zur Aufklärung und Einwilligung sowie zur Rekrutierung, namentlich Anzeige- oder Inseratetexte, die am jeweiligen Durchführungsort verwendet werden;
 - 8\.4 bei Forschungsprojekten an verstorbenen Personen: der Nachweis über die Einhaltung der Anforderungen an die Einwilligung gemäss Artikel 36 HFG sowie der Nachweis über die Einhaltung der vorgängigen Todesfeststellung nach Artikel 37 Absatz 1 HFG am jeweiligen Durchführungsort;
 - 8\.5 Lebenslauf der am jeweiligen Durchführungsort verantwortlichen Person einschliesslich des Nachweises über deren Kenntnisse und Erfahrungen sowie eine Auflistung der weiteren am betreffenden Durchführungsort des Forschungsprojekts beteiligten Personen, einschliesslich ihrer Funktionen und der entsprechenden fachlichen Kenntnisse;
 - 8\.6 Nachweis über die Eignung und Verfügbarkeit der Infrastrukturen am jeweiligen Durchführungsort;

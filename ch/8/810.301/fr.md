@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2013 relative à la recherche sur l'être hum
 short: ORH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: fr
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2013-642-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-642-20241101-fr-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20241101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20230901/fr"
 
 (Ordonnance relative à la recherche sur l’être humain, ORH)
 
-du 20 septembre 2013 (État le 1<sup>er</sup> septembre 2023)
+du 20 septembre 2013 (État le 1<sup>er</sup> novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -36,15 +36,30 @@ arrête:
 La présente ordonnance règle:
 
 - a. les exigences fixées pour la réalisation de projets de recherche sur l’être humain à l’exception des essais cliniques, et
-- b. les procédures d’autorisation et d’annonce pour les projets de recherche au sens de la let. a.
+- b.[^1-1] les procédures d’autorisation et de déclaration pour les projets de recherche au sens de la let. a.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 1a
+
+**Définition**[^1a-1]
+
+Dans la présente ordonnance, on entend par informations excédentaires les résultats liés à la personne, en particulier les découvertes fortuites, qui sont obtenus dans le cadre d’un projet de recherche mais qui ne sont nécessaires ni à la réalisation du projet, ni à l’étude de la problématique scientifique*.*
+
+[^1a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 2
 
-**Dispositions applicables**
+**Dispositions applicables**[^2-1]
 
-Les dispositions sur l’intégrité scientifique et la qualité scientifique selon les art. 3 et 4 de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^2-1] sont applicables par analogie.
+Les dispositions suivantes de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^2-2] sont applicables par analogie:
 
-[^2-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+- a. l’art. 3, pour l’intégrité scientifique;
+- b. l’art. 4, pour la qualité scientifique;
+- c. l’art. 4*a*, pour l’inclusion des groupes de personnes pertinents.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^2-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 3
 
@@ -64,9 +79,12 @@ La direction d’un projet de recherche doit:
 
 - a. être habilitée à exercer sous sa propre responsabilité la profession qui lui donne les qualifications spécifiquement requises pour réaliser le projet de recherche concerné;
 - b. justifier de la formation et de l’expérience nécessaires en lien avec la réalisation du projet de recherche concerné;
-- c. disposer des connaissances relatives aux exigences légales applicables à un projet de recherche ou être en mesure de les garantir par le biais d’un expert.
+- c. disposer des connaissances relatives aux exigences légales applicables à un projet de recherche ou être en mesure de les garantir par le biais d’un expert;
+- d.[^4-1] disposer de connaissances et de compétences appropriées dans les domaines de la sécurité des données et de la protection des données ou être en mesure de garantir ces dernières en recourant à un expert.
 
 <sup>2</sup> Les autres personnes qui accomplissent le projet de recherche doivent disposer des connaissances et de l’expérience professionnelles nécessaires à l’activité concernée.
+
+[^4-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 5
 
@@ -85,8 +103,19 @@ Quiconque conserve des données personnelles liées à la santé à des fins de 
 Quiconque conserve du matériel biologique à des fins de recherche doit notamment:
 
 - a. respecter les principes au sens de l’al. 1;
-- b. garantir le respect des exigences techniques pour la conservation appropriée du matériel biologique;
+- b.[^5-1] garantir le respect des exigences techniques pour la conservation appropriée du matériel biologique; pour ce faire, il lui faut se référer aux directives reconnues sur les plans national et international;
 - c. mettre à disposition les ressources nécessaires à la conservation.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 5a
+
+**Utilisation de données génétiques dans le cadre de rapports d’assurance**[^5a-1]
+
+L’utilisation, dans le cadre de rapports d’assurance, de données génétiques obtenues lors de projets de recherche est régie par les art. 42 à 44 de la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine (LAGH)[^5a-2].
+
+[^5a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^5a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 ## Chapitre 2 Recherche sur des personnes en lien avec des mesures de prélèvement de matériel biologique ou de collecte de données personnelles liées à la santé
 
@@ -100,6 +129,14 @@ Est réputé être un projet de recherche en vertu du présent chapitre tout pro
 
 - a. de répondre à une problématique scientifique, ou
 - b. de réutiliser le matériel biologique ou les données liées à la santé à des fins de recherche.
+
+#### Art. 6a
+
+**Fin du projet de recherche**[^6a-1]
+
+Est réputée fin du projet de recherche au sens du présent chapitre la dernière collecte de données personnelles liées à la santé ou le dernier prélèvement de matériel biologique dans le cadre d’un projet de recherche, pour autant que le plan de recherche n’en dispose pas autrement.
+
+[^6a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 7
 
@@ -120,12 +157,12 @@ Les risques et les contraintes inhérents au prélèvement de matériel biologiq
 - e. les tomographies à résonance magnétique sans produit de contraste, les échographies et les électrogrammes;
 - f.[^7-1]
 
-  les examens au moyen de rayonnements ionisants, dans la mesure où la dose efficace est inférieure à 5 mSv par projet de recherche et par personne examinée et où:
+  les examens complémentaires au moyen de rayonnements ionisants, dans la mesure où la dose efficace est inférieure à 5 mSv par projet de recherche et par personne examinée, où aucun produit de contraste n’est utilisé et où:
 
-  - 1\. les médicaments utilisés à cet effet sont autorisés ou dispensés d’une autorisation, ou
-  - 2\. les dispositifs au sens de l’art. 1 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux[^7-2] sont pourvus d’un marquage de conformité et aucun produit de contraste n’est utilisé.
+  - 1\. les produits radiopharmaceutiques utilisés à cet effet le sont conformément à l’autorisation ou sont dispensés d’une autorisation, ou
+  - 2\. les dispositifs au sens de l’art. 1 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux (ODim)[^7-2] sont pourvus d’un marquage de conformité selon l’art. 13 ODim et utilisés conformément au mode d’emploi.
 
-[^7-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 [^7-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 8
@@ -140,6 +177,7 @@ En plus des informations figurant à l’art. 16, al. 2, LRH, la personne concer
 - b. le droit qu’elle a de refuser ou de révoquer son consentement sans avoir à justifier sa décision;
 - c. les conséquences d’une révocation du consentement sur l’utilisation ultérieure du matériel biologique prélevé avant la révocation et des données personnelles collectées avant la révocation;
 - d. le droit qu’elle a de recevoir en tout temps des renseignements sur d’autres questions;
+- d<sup>bis</sup>.[^8-1] la possibilité que le projet génère des informations excédentaires et l’importance de leur découverte ainsi que l’importance de l’exercice de son droit d’être informée ou de ne pas l’être;
 - e. le droit qu’elle a d’être informée des résultats concernant sa santé ou de renoncer à recevoir ces informations, ou de désigner une personne qui prend cette décision pour elle;
 - f. les dispositions prises pour couvrir d’éventuels dommages liés au projet de recherche, y compris la procédure en cas de dommages;
 - g. les principales sources de financement du projet de recherche;
@@ -149,7 +187,68 @@ En plus des informations figurant à l’art. 16, al. 2, LRH, la personne concer
 
 <sup>3</sup> L’information peut être effectuée par étapes successives. Elle peut, de plus, être donnée autrement que sous forme de texte.
 
-<sup>4</sup> Il est garanti par le biais de mesures appropriées, que la personne concernée comprend les éléments essentiels de l’information.
+<sup>4</sup>
+
+Les mesures appropriées doivent être prises afin de s’assurer que la personne concernée comprend les éléments essentiels de l’information; il convient en particulier:
+
+- a. d’expliquer à la personne concernée le sens et le déroulement de la procédure d’information;
+- b. de transmettre l’information de manière adéquate, structurée et compréhensible.[^8-2]
+
+[^8-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 8a
+
+**Information en cas d’analyses génétiques**[^8a-1]
+
+<sup>1</sup>
+
+Lorsque des analyses génétiques présymptomatiques, des analyses génétiques prénatales ou des analyses visant à établir un planning familial (art. 3, let. e, g et i, LAGH[^8a-2]) produisent des résultats relatifs à la santé de la personne concernée, cette dernière doit recevoir également des informations sur:
+
+- a. le but, le type et la pertinence de l’analyse;
+- b. la fréquence et la nature de l’anomalie à évaluer;
+- c. les conséquences médicales, psychiques et sociales découlant de l’analyse;
+- d. l’importance que les résultats pourraient avoir pour la personne concernée ainsi que pour les membres de sa famille et leur droit de ne pas être informés.
+
+<sup>2</sup> En cas d’analyses présymptomatiques (art. 3, let. e, LAGH), la personne concernée doit être également informée des conditions auxquelles les institutions d’assurance peuvent demander la communication de données provenant des analyses génétiques réalisées (art. 43 et 44 LAGH).
+
+[^8a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^8a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 8b
+
+**Information en cas d’analyses prénatales visant à évaluer un risque**[^8b-1]
+
+En cas d’analyses prénatales visant à évaluer un risque (art. 3, let. h, LAGH[^8b-2]), la femme enceinte doit également recevoir les informations mentionnées à l’art. 23 LAGH.
+
+[^8b-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^8b-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 8c
+
+**Forme du consentement**[^8c-1]
+
+<sup>1</sup> Le consentement doit être donné par signature manuscrite ou sous forme électronique.
+
+<sup>2</sup>
+
+La déclaration de consentement doit être:
+
+- a. datée, et
+- b. lisible pendant toute la durée de conservation requise.
+
+<sup>3</sup>
+
+Le consentement sous forme électronique est admis dès lors:
+
+- a. qu’il a été donné au cours d’une procédure permettant d’identifier sans équivoque la personne concernée;
+- b. que la procédure choisie empêche une décision précipitée;
+- c. qu’il est protégé, selon l’état de la technique, contre toute modification;
+- d. que les documents de la demande décrivent comment les conditions fixées aux let. a à c sont remplies.
+
+<sup>4</sup> La personne concernée reçoit une copie des documents d’information et de la déclaration de consentement; elle peut choisir la version papier ou la forme électronique.
+
+[^8c-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 9
 
@@ -160,7 +259,7 @@ En plus des informations figurant à l’art. 16, al. 2, LRH, la personne concer
 L’information et le consentement peuvent avoir lieu et être documentés sous une forme autre que la forme écrite:
 
 - a. lorsqu’il s’agit d’un projet de recherche de catégorie A selon la présente ordonnance qui est réalisé avec des adultes capables de discernement;
-- b. lorsqu’une information et un consentement écrits sont disproportionnés en raison du dispositif du projet, et
+- b.[^9-1] lorsqu’une information et un consentement écrits sont disproportionnés en raison de la configuration du projet, et
 - c. lorsque l’exception à la forme écrite est prévue dans la demande adressée à la commission d’éthique de la recherche (commission d’éthique) compétente.
 
 <sup>2</sup>
@@ -176,6 +275,24 @@ Dans le cas d’espèce, l’information peut être donnée sous une autre forme
 
 - a. lorsque les connaissances linguistiques de la personne concernée sont telles qu’une information par écrit représente une charge disproportionnée, et
 - b. lorsque, pour l’information verbale, un traducteur indépendant et qualifié est consulté et que celui-ci confirme par écrit que l’information a eu lieu.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 9a
+
+**Communication des résultats**[^9a-1]
+
+<sup>1</sup> Le droit de la personne concernée d’être informée conformément à l’art. 8, al. 1, LRH s’applique aux résultats de la recherche se rapportant à sa santé qui ont été obtenus par des examens répondant aux normes actuelles de validité analytique et clinique.
+
+<sup>2</sup>
+
+Sont à communiquer à la personne concernée ou, le cas échéant, à son représentant légal, à une personne de confiance ou à ses proches (art. 22 à 24 LRH) les résultats:
+
+- a. qui sont soumis à une obligation légale de communiquer supposant ou impliquant une information de la personne concernée sur le résultat;
+- b. qui sont susceptibles d’entraîner une mesure sanitaire supposant ou impliquant une information de la personne concernée sur le résultat;
+- c. dont la personne à informer doit prendre connaissance pour protéger la vie et la santé de tiers ou de la personne incapable de discernement concernée par l’analyse.
+
+[^9a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 10
 
@@ -202,12 +319,9 @@ Les art. 15 à 17 OClin[^11-1] sont applicables par analogie aux projets de rech
 
 #### Art. 12
 
-**Exceptions à la responsabilité**
+[^12-1]
 
-Est libéré de la responsabilité au sens de l’art. 19, al. 1, LRH celui qui prouve que le dommage:
-
-- a. n’a que des effets minimaux sur la santé et est temporaire, et
-- b. ne dépasse pas l’ampleur qui est à prévoir en fonction de l’état de la science.
+[^12-1]: Abrogé par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 13
 
@@ -256,16 +370,20 @@ La commission d’éthique compétente vérifie:
   - 7\. à une rémunération équitable des personnes participant au projet de recherche et au respect de l’interdiction de commercialiser (art. 9 LRH), et
   - 8\. au respect des prescriptions relatives à l’intégrité scientifique;
 
+- c<sup>bis</sup>.[^15-1] le cas échéant, le respect des exigences relatives au consentement sous forme électronique (art. 8*c*, al. 3, let. a à c);
 - d. l’intégralité des documents relatifs au recrutement, à l’information et au consentement ainsi que leur intelligibilité, notamment pour ce qui a trait à l’intégration éventuelle de personnes particulièrement vulnérables;
+- d<sup>bis</sup>.[^15-2] la prise en compte du droit de la personne concernée d’être informée (art. 8, al. 1, LRH);
 - e. pour les projets de recherche de catégorie B, la garantie du droit à l’indemnisation en cas de dommages (art. 20 LRH);
-- f. en outre, pour les examens à l’aide de sources de rayonnement[^15-1], la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose sauf si un avis de l’Office fédéral de la santé publique (OFSP) doit être sollicité en application de l’art. 19, al. 2;
+- f.[^15-3] en outre, pour les examens complémentaires au moyen de rayonnements ionisants, la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose, sauf si un avis de l’Office fédéral de la santé publique (OFSP) doit être sollicité en application de l’art. 19, al. 4;
 - g les qualifications professionnelles de la direction du projet et des autres chercheurs;
 - h. le respect des prescriptions sur la conservation du matériel biologique ou des données personnelles liées à la santé selon l’art. 5;
 - i. l’existence d’infrastructures appropriées au lieu de réalisation du projet de recherche;
 - j. le financement du projet de recherche et les accords entre le promoteur, les tiers et l’investigateur relatifs à la répartition des tâches, la rémunération et à la publication;
 - k. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection des personnes participant au projet.
 
-[^15-1]: Nouvelle expression selon l’annexe 11 ch. 5 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Il a été tenu compte de cette mod. dans tout le texte.
+[^15-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^15-2]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321), [581](https://fedlex.data.admin.ch/eli/oc/2024/581)).
 
 #### Art. 16
 
@@ -302,7 +420,7 @@ La commission d’éthique compétente vérifie:
 Sont considérées comme des modifications essentielles:
 
 - a. les modifications qui ont une influence sur la sécurité et la santé des personnes participant au projet de recherche ainsi que sur leurs droits et leurs obligations;
-- b. les modifications du plan de recherche qui ont trait à l’objectif ou à la problématique centrale du projet de recherche, pour autant qu’il s’agisse d’un projet de la catégorie B;
+- b.[^18-1] les modifications du plan de recherche qui ont trait à l’objectif ou à la problématique centrale du projet de recherche;
 - c. un changement de lieu de réalisation ou l’ajout d’un lieu de réalisation, ou
 - d. le changement de la direction du projet ou du promoteur.
 
@@ -310,40 +428,57 @@ Sont considérées comme des modifications essentielles:
 
 <sup>5</sup> L’art. 17 est applicable par analogie à la procédure d’autorisation en cas de modifications essentielles apportées à un projet de recherche multicentrique autorisé.
 
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 #### Art. 19
 
-**Procédure applicable aux examens à l’aide de sources de rayonnement**
+**Procédure applicable aux examens complémentaires au moyen de rayonnements ionisants**[^19-1]
 
-<sup>1</sup> Pour les examens à l’aide de sources de rayonnement, la direction du projet fournit à la commission d’éthique compétente les documents supplémentaires requis au sens de l’annexe 2, ch. 2. La procédure d’autorisation est régie par les art. 14 à 18, sous réserve des alinéas qui suivent.
+<sup>1</sup> Pour les examens complémentaires au moyen de rayonnements ionisants, la direction du projet fournit à la commission d’éthique compétente les documents supplémentaires requis au sens de l’annexe 2, ch. 2. La procédure d’autorisation est régie par les art. 14 à 18, sous réserve des al. 2 à 6.
 
 <sup>2</sup>
 
-La direction du projet fournit de plus à l’OFSP les documents de la demande requis au sens de l’annexe 2, ch. 3, et il en avise parallèlement la commission d’éthique, lorsque la dose efficace est supérieure à 5 mSv par personne et par an, compte tenu du facteur d’incertitude, et:
+La direction du projet fournit de plus à l’OFSP les documents de la demande requis au sens de l’annexe 2, ch. 3:
 
-- a. qu’un produit radiopharmaceutique non autorisé en Suisse est utilisé;
-- b. qu’un produit radiopharmaceutique autorisé en Suisse est utilisé et qu’il ne s’agit pas d’un examen de routine de médecine nucléaire, ou
-- c. qu’une autre source radioactive[^19-1].
+- a. lorsqu’un produit radiopharmaceutique n’est pas utilisé conformément à l’autorisation ou que le produit radiopharmaceutique utilisé n’est pas autorisé en Suisse;
+- b.
 
-<sup>3</sup> L’OFSP émet un avis à l’intention de la commission d’éthique sur le respect de la législation en matière de radioprotection ainsi que sur l’évaluation de la dose.
+  lorsqu’un dispositif médical susceptible d’émettre des rayonnements ionisants:
 
-<sup>4</sup>
+  - 1\. n’est pas utilisé conformément au mode d’emploi, ou
+  - 2\. qu’il ne porte pas de marquage de conformité au sens de l’art. 13 ODim[^19-2], ou
 
-La commission d’éthique accorde l’autorisation, lorsque:
+- c. lorsqu’une autre source radioactive est utilisée.
 
-- a. les exigences visées à l’art. 15 sont respectées, et que
-- b. l’OFSP n’oppose pas d’objections au projet de recherche.
+<sup>3</sup> Si un dépôt de documents supplémentaires est requis en vertu de l’al. 2, la direction du projet doit en aviser la commission d’éthique.
 
-<sup>5</sup> En pareil cas, elle rend sa décision dans les 45 jours, à compter de la confirmation de réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision à l’OFSP.
+<sup>4</sup> L’OFSP émet dans un délai approprié un avis à l’intention de la commission d’éthique sur le respect de la législation en matière de radioprotection ainsi que sur l’évaluation de la dose.
 
-[^19-1]: Nouvelle expression selon l’annexe 11 ch. 5 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Il a été tenu compte de cette mod. dans tout le texte.
+<sup>5</sup>
 
-### Section 3 Annonces et rapport
+La commission d’éthique accorde l’autorisation:
+
+- a. lorsque les exigences visées à l’art. 15 sont respectées, et
+- b. que, après examen de l’avis émis selon l’al. 4, il ne subsiste aucune objection à l’encontre du projet de recherche.
+
+<sup>6</sup> En pareil cas, elle rend sa décision dans les 45 jours à compter de la confirmation de réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision à l’OFSP.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321), [581](https://fedlex.data.admin.ch/eli/oc/2024/581)).
+[^19-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
+### Section 3 Déclarations et rapport
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 20
 
-**Annonce des mesures de sécurité et de protection**
+**Déclaration des mesures de sécurité et de protection**[^20-1]
 
-La direction du projet annonce à la commission d’éthique dans les sept jours les mesures de sécurité et de protection devant être prises immédiatement pendant la réalisation d’un projet de recherche ainsi que les événements qui ont rendu ces mesures nécessaires.
+La direction du projet déclare à la commission d’éthique dans les sept jours les mesures de sécurité et de protection devant être prises immédiatement pendant la réalisation d’un projet de recherche ainsi que les événements qui ont rendu ces mesures nécessaires.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 21
 
@@ -355,42 +490,62 @@ La direction du projet annonce à la commission d’éthique dans les sept jours
 
 Est considéré comme un événement grave tout événement préjudiciable dont on ne peut pas exclure qu’il soit imputable au prélèvement de matériel biologique ou à la collecte de données personnelles liées à la santé et qui:
 
-- a. nécessite un traitement stationnaire ou la prolongation de celui-ci alors que cette mesure n’était pas prévue dans le protocole de recherche;
+- a.[^21-1] nécessite un traitement stationnaire ou la prolongation de celui-ci alors que cette mesure n’était pas prévue dans le plan de recherche;
 - b. entraîne un handicap ou une invalidité durable ou grave;
 - c. met la vie en danger ou entraîne un décès.
 
-<sup>3</sup> Si cela est nécessaire pour garantir la sécurité et la santé des personnes participant au projet de recherche, d’autres événements doivent être désignés comme graves par le protocole de recherche ou à la demande de la commission d’éthique compétente.
+<sup>3</sup> Si cela est nécessaire pour garantir la sécurité et la santé des personnes participant au projet de recherche, d’autres événements doivent être désignés comme graves par le plan de recherche ou à la demande de la commission d’éthique compétente.[^21-2]
 
-<sup>4</sup> La direction du projet annonce à la commission d’éthique les événements graves dans les sept jours. Elle établit en outre, à l’intention de cette dernière, un rapport sur le lien entre l’événement grave annoncé et la collecte de données personnelles liées à la santé ou le prélèvement de matériel biologique. En même temps, elle présente des propositions sur la suite à donner.
+<sup>4</sup> La direction du projet déclare à la commission d’éthique les événements graves dans les sept jours. Elle établit en outre, à l’intention de cette dernière, un rapport sur le lien entre l’événement grave déclaré et la collecte de données personnelles liées à la santé ou le prélèvement de matériel biologique. En même temps, elle présente des propositions sur la suite à donner.[^21-3]
 
-<sup>5</sup> Si un événement grave se produit au cours d’un examen à l’aide d’une source de rayonnement pour lequel l’OFSP a rendu un avis selon l’art. 19, cet événement doit en outre être annoncé à l’OFSP dans les sept jours.
+<sup>5</sup> ...[^21-4]
 
 <sup>6</sup> La commission d’éthique rend sa décision sur la poursuite du projet de recherche dans les 30 jours suivant la réception du rapport.
 
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^21-4]: Abrogé par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 #### Art. 22
 
-**Annonce de la fin ou de l’arrêt du projet de recherche**
+**Déclaration de la fin ou de l’arrêt prématuré du projet de recherche**[^22-1]
 
-La direction du projet annonce à la commission d’éthique la fin ou l’arrêt du projet de recherche dans les 90 jours.
+La direction du projet déclare à la commission d’éthique la fin ou l’arrêt prématuré du projet de recherche dans les 90 jours.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 23
 
-**Contrôle, annonce et rapport sur les examens à l’aide de sources de rayonnement**[^23-1]
+**Contrôle, déclaration et rapport en cas d’utilisation de rayonnements ionisants[^23-2]**[^23-1]
 
-<sup>1</sup> Lors d’examens avec des sources de rayonnement, la direction du projet contrôle le respect de la contrainte de dose visée à l’art. 45 de l’ordonnance du 26 avril 2017 sur la radioprotection[^23-2].
+<sup>1</sup> Lors de projets de recherche utilisant des rayonnements ionisants, la direction du projet contrôle le respect de la contrainte de dose visée à l’art. 45 de l’ordonnance du 26 avril 2017 sur la radioprotection[^23-3].[^23-4]
 
-<sup>2</sup> Elle annonce un dépassement de la contrainte de dose dans un délai de sept jours ouvrables suivant la constatation de l’événement à la commission d’éthique.
+<sup>2</sup> Elle déclare un dépassement de la contrainte de dose dans un délai de sept jours ouvrables suivant la constatation de l’événement à la commission d’éthique.[^23-5]
 
 <sup>3</sup> La commission d’éthique peut solliciter l’expertise technique de l’OFSP pour l’appréciation du calcul ou de l’estimation des doses ainsi que la détermination des mesures à prendre.
 
-<sup>4</sup> La direction du projet transmet à l’OFSP dans l’année suivant la fin ou l’arrêt d’un projet de recherche qui comportait des examens avec des sources radioactives un rapport final avec toutes les indications pertinentes sur la radioprotection, en particulier une estimation a posteriori de la dose.
+<sup>4</sup> La direction du projet transmet à l’OFSP dans l’année suivant la fin ou l’arrêt prématuré d’un projet de recherche qui comportait des examens complémentaires au moyen de rayonnements ionisants un rapport final avec toutes les indications pertinentes sur la radioprotection, en particulier une estimation a posteriori de la dose pour les personnes participant au projet de recherche.[^23-6]
 
-<sup>5</sup> Aucun rapport au sens de l’al. 4 n’est exigé pour les examens de routine de médecine nucléaire avec des produits radiopharmaceutiques autorisés.
+<sup>5</sup> Aucun rapport au sens de l’al. 4 n’est exigé pour les produits radiopharmaceutiques utilisés conformément à l’autorisation et pour les dispositifs médicaux portant un marquage de conformité et utilisés conformément au mode d’emploi.[^23-7]
 
 <sup>6</sup> Dans le cadre de son avis au sens de l’art. 19 ou sur demande, l’OFSP peut prévoir d’autres exceptions à l’obligation d’établir un rapport visé à l’al. 4.
 
 [^23-1]: Nouvelle teneur selon l’annexe 11 ch. 5 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^23-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-3]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^23-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-6]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-7]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 23a
+
+**Obligation de conservation des données**[^23a-1]
+
+La direction du projet doit conserver toutes les données relatives au projet de recherche pendant au moins dix ans après la fin ou l’arrêt prématuré du projet de recherche.
+
+[^23a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 ## Chapitre 3 Réutilisation pour la recherche avec du matériel biologique et des données personnelles liées à la santé
 
@@ -409,21 +564,25 @@ Toute opération effectuée à des fins de recherche avec du matériel biologiqu
 
 #### Art. 25
 
-**Anonymisation**
+**Anonymisation**[^25-1]
 
-<sup>1</sup> Pour anonymiser du matériel biologique et des données personnelles liées à la santé, toutes les informations qui, combinées, permettent de rétablir l’identité de la personne sans efforts disproportionnés doivent être rendues définitivement méconnaissables ou être détruites.
+<sup>1</sup> Pour anonymiser du matériel biologique et des données personnelles liées à la santé, le lien avec une personne identifiée doit être rendu impossible ou supprimé de façon telle qu’il faudrait déployer des efforts démesurés pour rétablir le lien avec la personne.
 
-<sup>2</sup> Doivent être rendus méconnaissables ou être détruits, en particulier, le nom, l’adresse, la date de naissance et les numéros d’identification caractéristiques.
+<sup>2</sup> L’anonymisation doit être effectuée à l’aide d’une méthode conforme à l’état actuel de la technique. En particulier, les données qui, seules ou combinées, permettent de rétablir le lien avec une personne identifiée, telles que les prénoms, le nom, l’adresse, la date de naissance et les numéros d’identification caractéristiques, doivent être détruites ou modifiées.
+
+<sup>3</sup> Il convient de documenter la méthode utilisée pour l’anonymisation, y compris la description du risque de réidentification qui subsiste.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 26
 
-**Codage**
+**Codage**[^26-1]
 
-<sup>1</sup> Le matériel biologique et les données personnelles liées à la santé sont réputés correctement codés au sens de l’art. 32, al. 2, et 33, al. 2, LRH lorsqu’ils sont qualifiés d’anonymisés dans l’optique d’une personne qui n’a pas d’accès au code.
+<sup>1</sup> Le matériel biologique et les données personnelles liées à la santé sont réputés correctement codés au sens des art. 32, al. 2, et 33, al. 2, LRH lorsque, sans avoir accès au code ou aux données sources, il faudrait déployer des efforts démesurés pour attribuer le matériel biologique et les données personnelles liées à la santé à une personne précise.
 
-<sup>2</sup> Le code doit être conservé par une personne qui est désignée dans la demande et n’est pas impliquée dans le projet de recherche, séparément du matériel biologique ou des données personnelles et conformément aux principes visés à l’art. 5, al. 1.[^26-1]
+<sup>2</sup> Le codage doit être effectué à l’aide d’une méthode conforme à l’état actuel de la technique. Le code doit être conservé par une personne ou une unité administrative qui est désignée dans la demande et qui n’est pas impliquée dans le projet de recherche, séparément du matériel biologique et des données personnelles et conformément aux principes visés à l’art. 5, al. 1.
 
-[^26-1]: La mod. de l’annexe 2 ch. II 95 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023, ne concerne que les textes allemand et italien ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 27
 
@@ -456,9 +615,12 @@ Les informations suivantes doivent être fournies à la personne concernée par 
 
 <sup>2</sup> L’information peut de plus être donnée autrement que sous forme de texte.
 
-<sup>3</sup> Le consentement est donné par écrit.
+<sup>3</sup> La forme du consentement est réglée par l’art. 8*c*.[^28-1]
 
-<sup>4</sup> L’art. 9 s’applique par analogie aux exceptions à la forme écrite.
+<sup>4</sup> L’art. 9 s’applique par analogie.[^28-2]
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 29
 
@@ -473,7 +635,12 @@ Les informations suivantes doivent être fournies à la personne concernée par 
 - c. les mesures destinées à assurer la protection du matériel biologique et des données personnelles, en particulier la gestion du code;
 - d. la possibilité de transmettre du matériel biologique et des données personnelles génétiques à des tiers à des fins de recherche.
 
-<sup>2</sup> La personne concernée doit donner son consentement par écrit; l’art. 9 s’applique par analogie aux exceptions.
+<sup>2</sup> La forme du consentement est réglée par l’art. 8*c*, al. 1, 2, let. a, 3, let. a à c, et 4.[^29-1]
+
+<sup>3</sup> L’art. 9 s’applique par analogie.[^29-2]
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^29-2]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 30
 
@@ -500,7 +667,12 @@ Les informations suivantes doivent être fournies à la personne concernée par 
 - d. les mesures destinées à assurer la protection des données personnelles;
 - e. la possibilité de transmettre des données personnelles à des tiers à des fins de recherche.
 
-<sup>2</sup> La personne concernée doit donner son consentement par écrit; l’art. 9 s’applique par analogie aux exceptions.
+<sup>2</sup> La forme du consentement est réglée par l’art. 8*c*, al. 1, 2, let. a, 3, let. a à c, et 4.[^31-1]
+
+<sup>3</sup> L’art. 9 s’applique par analogie.[^31-2]
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^31-2]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 32
 
@@ -513,7 +685,11 @@ Les informations suivantes doivent être fournies à la personne concernée par 
 - c. les mesures destinées à assurer la protection des données personnelles, notamment la gestion du code;
 - d. la possibilité de transmettre des données personnelles à des tiers à des fins de recherche.
 
-### Section 3 Procédure d’autorisation et obligations d’annoncer pour les projets de recherche avec du matériel biologique et des données personnelles liées à la santé
+### Section 3 Procédure d’autorisation et obligations de déclarer pour les projets de recherche avec du matériel biologique et des données personnelles liées à la santé
+
+[^chap3-sec3-1]
+
+[^chap3-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 33
 
@@ -527,16 +703,20 @@ Est considéré comme un projet de recherche au sens de la présente section tou
 
 <sup>1</sup>
 
-La commission d’éthique vérifie:
+La commission d’éthique compétente vérifie:[^34-1]
 
 - a. que la demande est complète;
 - b. que les conditions visées aux art. 32 et 33 LRH sont remplies;
+- b<sup>bis</sup>.[^34-2] la qualité scientifique;
 - c. pour les projets de recherche portant sur du matériel biologique codé et des données personnelles codées liées à la santé, l’exactitude et la sécurité du codage;
 - d. le respect des exigences relatives à la conservation du matériel biologique ou des données personnelles liées à la santé;
 - e. les qualifications professionnelles de la direction du projet et des autres personnes prenant part au projet de recherche;
 - f. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection des personnes concernées.
 
 <sup>2</sup> Ce faisant, elle tient compte des autorisations déjà délivrées par des commissions d’éthique pour le matériel biologique concerné ou les données personnelles liées à la santé concernées.
+
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^34-2]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 35
 
@@ -550,19 +730,27 @@ Les dispositions suivantes sont applicables par analogie:
 
 #### Art. 36
 
-**Obligations d’annoncer**
+**Obligations de déclarer**[^36-1]
 
-<sup>1</sup> La direction du projet annonce au préalable à la commission d’éthique un changement de direction du projet.
+<sup>1</sup> La direction du projet déclare au préalable à la commission d’éthique un changement de direction du projet.
 
-<sup>2</sup> Elle annonce la fin ou l’arrêt du projet de recherche à la commission d’éthique dans les 90 jours.
+<sup>2</sup> Elle déclare la fin ou l’arrêt prématuré du projet de recherche à la commission d’éthique dans les 90 jours.
 
-### Section 4 Procédure d’autorisation et obligations d’annoncer pour la réutilisation de matériel biologique et de données personnelles liées à la santé à des fins de recherche en cas de défaut de consentement ou d’information au sens de l’art. 34 LRH
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+### Section 4 Procédure d’autorisation et obligations de déclarer pour la réutilisation de matériel biologique et de données personnelles liées à la santé à des fins de recherche en cas de défaut de consentement ou d’information au sens de l’art. 34 LRH
+
+[^chap3-sec4-1]
+
+[^chap3-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 37
 
 **Domaines de vérification**
 
-La commission d’éthique vérifie:
+<sup>1</sup>
+
+La commission d’éthique compétente vérifie:[^37-1]
 
 - a. que la demande est complète;
 - b. les raisons visées à l’art. 34, let. a et b, LRH;
@@ -572,6 +760,8 @@ La commission d’éthique vérifie:
 - f. les qualifications professionnelles des personnes habilitées à recevoir le matériel biologique et les données personnelles;
 - g. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection des personnes concernées.
 
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 #### Art. 38
 
 **Dispositions applicables**
@@ -580,7 +770,9 @@ Les dispositions suivantes sont applicables par analogie:
 
 - a. pour le dépôt de la demande, l’art. 14;
 - b. pour la procédure et les délais, l’art. 16;
-- c. pour la réutilisation ou la collecte de matériel biologique ou de données personnelles liées à la santé selon un protocole de recherche uniforme, mais dans différents cantons, la procédure selon l’art. 17.
+- c.[^38-1] pour la réutilisation ou la collecte de matériel biologique ou de données personnelles liées à la santé selon un plan de recherche uniforme, mais dans différents cantons, la procédure selon l’art. 17.
+
+[^38-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 39
 
@@ -595,11 +787,13 @@ L’autorisation comporte au moins les indications suivantes:
 
 #### Art. 40
 
-**Annonces**
+**Déclarations**[^40-1]
 
-<sup>1</sup> La direction du projet doit annoncer au préalable à la commission d’éthique toute modification des indications mentionnées dans l’autorisation.
+<sup>1</sup> La direction du projet doit déclarer au préalable à la commission d’éthique toute modification des indications mentionnées dans l’autorisation.
 
-<sup>2</sup> Elle annonce la fin ou l’arrêt de la collecte à la commission d’éthique dans les 90 jours.
+<sup>2</sup> Elle déclare la fin ou l’arrêt prématuré de la collecte à la commission d’éthique dans les 90 jours.
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 ## Chapitre 4 Recherche sur des personnes décédées
 
@@ -629,16 +823,20 @@ Les dispositions suivantes sont applicables par analogie:
 
 #### Art. 43
 
-**Annonces**
+**Déclarations[^43-1]**
 
 <sup>1</sup>
 
-La direction du projet doit annoncer au préalable à la commission d’éthique les modifications suivantes apportées au projet de recherche:
+La direction du projet doit déclarer au préalable à la commission d’éthique les modifications suivantes apportées au projet de recherche:[^43-2]
 
 - a. le changement de direction du projet;
 - b. pour les projets de recherche sur des personnes décédées placées sous respiration artificielle, toute modification essentielle du plan de recherche.
 
-<sup>2</sup> Elle annonce la fin ou l’arrêt du projet de recherche à la commission d’éthique dans les 90 jours.
+<sup>2</sup> Elle déclare la fin ou l’arrêt prématuré du projet de recherche à la commission d’éthique dans les 90 jours.[^43-3]
+
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^43-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^43-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 ## Chapitre 5 Recherche sur des embryons et des fœtus issus d’interruptions de grossesse et d’avortements spontanés, y compris des enfants mort-nés
 
@@ -657,24 +855,33 @@ Pour les projets de recherche sur des embryons et des foetus issus d’interrupt
 
 <sup>2</sup> L’information peut de plus être donnée autrement que sous forme de texte.
 
-<sup>3</sup> Les personnes concernées doivent donner leur consentement par écrit. Les conséquences d’une révocation sont régies par l’art. 10.
+<sup>3</sup> La forme du consentement est réglée par l’art. 8*c*.[^44-1]
 
-<sup>4</sup> L’art. 9 s’applique par analogie aux exceptions à la forme écrite.
+<sup>4</sup> L’art. 9 s’applique par analogie.[^44-2]
+
+<sup>5</sup> Les conséquences d’une révocation sont régies par l’art. 10.[^44-3]
+
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^44-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^44-3]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 45
 
 **Domaines de vérification**
 
-La commission d’éthique vérifie:
+La commission d’éthique compétente vérifie:[^45-1]
 
 - a. que la demande est complète;
 - b. la qualité scientifique;
-- c. la conformité avec les exigences relatives à l’information et au consentement;
+- c.[^45-2] la conformité avec les exigences relatives à l’information et au consentement, ainsi que, le cas échéant, le respect des exigences relatives au consentement sous forme électronique (art. 8*c*, al. 3, let. a à c);
 - d. pour les projets de recherche sur des embryons et des fœtus issus d’interruptions de grossesse, le respect des conditions visées à l’art. 39, al. 1, 2 et 4 LRH;
 - e. le respect de l’interdiction de commercialiser (art. 9 LRH);
 - f. le respect des exigences relatives à la conservation du matériel biologique ou des données personnelles liées à la santé;
 - g. les qualifications professionnelles de la direction du projet et des autres chercheurs;
 - h. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection de la femme enceinte ou du couple concerné.
+
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^45-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 46
 
@@ -685,7 +892,9 @@ Les dispositions suivantes sont applicables par analogie:
 - a. pour le dépôt de la demande, l’art. 14;
 - b. pour la procédure et les délais, l’art. 16;
 - c. pour les projets de recherche multicentriques, la procédure selon l’art. 17;
-- d. pour les obligations en matière d’annonce, l’art. 36.
+- d.[^46-1] pour les obligations en matière de déclaration, l’art. 36.
+
+[^46-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 ## Chapitre 6 Dispositions finales
 
@@ -716,6 +925,16 @@ Les dispositions de la présente ordonnance sont applicables:
 
 [^48-1]: [RS 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
 
+#### Art. 48a
+
+**Dispositions transitoires relatives à la modification du 7 juin 2024**[^48a-1]
+
+<sup>1</sup> L’art. 23*a* ne s’applique pas aux projets de recherche autorisés avant l’entrée en vigueur de la modification du 7 juin 2024.
+
+<sup>2</sup> Pour les projets de recherche autorisés avant l’entrée en vigueur de la modification du 7 juin 2024, les obligations en matière de responsabilité sont régies par l’ancien droit.
+
+[^48a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321), [343](https://fedlex.data.admin.ch/eli/oc/2024/343)).
+
 #### Art. 49
 
 **Entrée en vigueur**
@@ -734,17 +953,19 @@ Le montant de couverture pour les projets de recherche sur des personnes relevan
 - b. 20 000 francs pour les dommages matériels;
 - c. 3 millions de francs pour l’ensemble du projet de recherche.
 
-Annexe 2
+Annexe 2[^t-1]
 
-(art. 14, 17, 18 et 19)
+(art. 14, et 17 à 19)
 
 ## Documents requis pour la procédure auprès de la commission d’éthique compétente
 
+[^t-1]: Mise à jour par le ch. II de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 ### 1 Documents requis pour les projets de recherche sur des personnes en lien avec le prélèvement de matériel biologique et la collecte de données personnelles liées à la santé
 
-- 1\.1 Formulaire de base incluant le résumé du plan de recherche rédigé dans la langue nationale du lieu de réalisation du projet de recherche et une motivation de la demande de classification dans la catégorie souhaitée;
+- 1\.1 Informations administratives incluant le résumé du plan de recherche et une motivation de la demande de classification dans la catégorie souhaitée;
 - 1\.2 plan de recherche;
-- 1\.3 formulaires relatifs à l’information et au consentement, ainsi que les documents relatifs au recrutement, notamment l’annonce ou les textes des annonces;
+- 1\.3 documents relatifs à l’information, au consentement et au recrutement, notamment l’annonce ou les textes des annonces;
 - 1\.4 autres documents remis à la personne participant au projet de recherche;
 - 1\.5 indications relatives au mode et au montant de la rémunération des personnes qui participent au projet de recherche;
 - 1\.6 pour les projets de recherche de catégorie B, le certificat d’assurance ou autre attestation de garantie d’éventuels dommages;
@@ -753,26 +974,32 @@ Annexe 2
 - 1\.9 attestation du caractère approprié et de la disponibilité des infrastructures au lieu de réalisation du projet de recherche;
 - 1\.10 accords entre la direction du projet et le promoteur ou des tiers, notamment en ce qui concerne le financement du projet de recherche, la rémunération de la direction du projet et la publication.
 
-### 2 Documents supplémentaires requis pour les projets de recherche comportant des examens à l’aide de sources de rayonnement
+### 2 Documents supplémentaires requis pour les projets de recherche comportant des examens complémentaires au moyen de rayonnements ionisants
 
 - 2\.1 Données sur les aspects essentiels de la radioprotection, en particulier un calcul ou une estimation de la dose efficace de rayonnement, des doses délivrées aux organes et des éventuelles doses tumorales;
 - 2\.2 les autorisations nécessaires en vertu de l’art. 28 de la loi du 22 mars 1991 sur la radioprotection[^annex2-lvlu1-lvl2-1].
 
 [^annex2-lvlu1-lvl2-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 
-### 3 Documents supplémentaires requis pour les projets de recherche comportant des examens à l’aide de sources radioactives et nécessitant un avis de l’OFSP selon l’art. 19, al. 2
+### 3 Documents supplémentaires requis pour les projets de recherche comportant des examens complémentaires au moyen de rayonnements ionisants et nécessitant un avis de l’OFSP selon l’art. 19, al. 2
 
-- 3\.1 Données relatives aux propriétés radiopharmaceutiques, notamment la pharmacocinétique, la qualité, la stabilité, la pureté radiochimique et la pureté du radionucléide;
-- 3\.2 pour les produits radiopharmaceutiques autorisés, l’information professionnelle;
-- 3\.3 pour les produits radiopharmaceutiques non autorisés, les données sur le procédé de fabrication et le contrôle qualité du produit, le nom des personnes responsables et des informations sur leurs qualifications professionnelles;
-- 3\.4 le nom des personnes responsables de l’utilisation du produit radiopharmaceutique sur l’être humain et des informations sur leurs qualifications professionnelles;
-- 3\.5 les données selon le formulaire de l’OFSP pour les projets de recherche de produits radiopharmaceutiques ou de substances radiomarquées[^annex2-lvlu1-lvl3-1].
+- 3\.1
 
-[^annex2-lvlu1-lvl3-1]: Ce formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, Division de la radioprotection, 3003 Berne, ou consulté sur le site de l’office à l’adresse suivante: www.bag.admin.ch &gt; Vivre en bonne santé &gt; Environnement & santé &gt; Rayonnement, radioactivité & son.
+  Les données demandées dans le formulaire de l’OFSP pour les projets de recherche de produits radiopharmaceutiques ou de substances radiomarquées[^annex2-lvlu1-lvl3-1]. En font partie:
+
+  - a. les données relatives aux propriétés, notamment la pharmacocinétique, la qualité, la stabilité, la pureté radiochimique et la pureté du radionucléide,
+  - b. les données sur la dose efficace et sur les doses aux organes,
+  - c. pour les produits radiopharmaceutiques autorisés, l’information professionnelle,
+  - d. pour les produits radiopharmaceutiques ou les substances radiomarquées non autorisés, les données sur le procédé de fabrication ainsi que des informations sur les qualifications professionnelles des personnes responsables,
+  - e. les informations concernant les personnes responsables de l’utilisation du produit radiopharmaceutique sur l’être humain ainsi que leurs qualifications professionnelles;
+
+- 3\.2 les données sur les propriétés du dispositif médical, en particulier le type et l’intensité des rayonnements ionisants, ainsi que sur la nature des écarts par rapport au mode d’emploi.
+
+[^annex2-lvlu1-lvl3-1]: Ce formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, division Radioprotection, 3003 Berne, ou consulté sur le site de l’office à l’adresse suivante: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Lois & autorisations &gt; Demandes & autorisations &gt; Radioprotection: Autorisations, conditions et surveillance.
 
 ### 4 Documents requis pour les projets de recherche portant sur la réutilisation de matériel biologique et de données personnelles liées à la santé
 
-- 4\.1 Formulaire de base incluant le résumé de la problématique scientifique rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 4\.1 Informations administratives incluant le résumé de la problématique scientifique;
 - 4\.2 description de la problématique scientifique;
 - 4\.3 documentation de l’origine du matériel biologique et des données personnelles liées à la santé ainsi que du respect des conditions relatives au consentement éclairé et à l’information sur le droit d’opposition au sens des art. 32 et 33 LRH;
 - 4\.4 pour la réutilisation de matériel biologique et de données personnelles liées à la santé sous une forme codée, l’attestation de la sécurité et de l’exactitude de leur codage;
@@ -783,7 +1010,7 @@ Annexe 2
 
 ### 5 Documents requis pour la réutilisation de matériel biologique et de données personnelles liées à la santé en cas de défaut de consentement et d’information au sens de l’art. 34 LRH
 
-- 5\.1 Formulaire de base incluant le résumé du projet rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 5\.1 Informations administratives incluant le résumé du projet;
 - 5\.2 plan d’action;
 - 5\.3 description des buts de recherche envisagés nécessitant la réutilisation du matériel biologique ou des données personnelles liées à la santé, y compris un exposé présentant dans quelle mesure l’intérêt de la recherche prime celui des personnes concernées;
 - 5\.4 désignation du matériel biologique ou des données personnelles liées à la santé qui doivent être réutilisés;
@@ -798,7 +1025,7 @@ Annexe 2
 
 ### 6 Documents requis pour les projets de recherche sur des personnes décédées
 
-- 6\.1 Formulaire de base incluant le résumé du plan de recherche rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 6\.1 Informations administratives incluant le résumé du plan de recherche;
 - 6\.2 plan de recherche;
 - 6\.3 attestation du respect des exigences relatives au consentement au sens de l’art. 36 LRH;
 - 6\.4 preuve du constat préalable du décès au sens de l’art. 37, al. 1, LRH;
@@ -811,9 +1038,9 @@ Annexe 2
 
 ### 7 Documents requis pour les projets de recherche sur des embryons et des fœtus issus d’interruptions de grossesse et d’avortements spontanés, y compris des enfants mort-nés
 
-- 7\.1 Formulaire de base incluant le résumé du plan de recherche rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 7\.1 Informations administratives incluant le résumé du plan de recherche;
 - 7\.2 plan de recherche;
-- 7\.3 documents relatifs au recrutement, notamment les éventuels textes des annonces, ainsi que les formulaires relatifs à l’information et au consentement;
+- 7\.3 documents relatifs à l’information, au consentement et au recrutement, notamment l’annonce ou les textes des annonces;
 - 7\.4 description des mesures prévues pour garantir le respect des exigences relatives au consentement au sens des art. 39, al. 1, ou 40, al. 1, LRH;
 - 7\.5 description des mesures prévues pour garantir le respect du constat préalable du décès au sens des art. 39, al. 3, respectivement l’art. 40, al. 2, LRH;
 - 7\.6 pour les projets de recherche sur des embryons et des fœtus issus d’interruptions de grossesse, l’attestation du respect des conditions visées à l’art. 39, al. 2 et 4, LRH;
@@ -825,9 +1052,9 @@ Annexe 2
 
 ### 8 Documents à fournir aux commissions d’éthique concernées pour les projets de recherche multicentriques
 
-- 8\.1 Formulaire de base incluant le résumé du plan de recherche rédigé dans la langue nationale du lieu de réalisation du projet de recherche;
+- 8\.1 Informations administratives incluant le résumé du projet de recherche;
 - 8\.2 plan de recherche;
-- 8\.3 pour les projets de recherche sur des personnes ou les projets de recherche sur des embryons et des fœtus issus d’interruptions de grossesse et d’avortements spontanés, y compris des enfants mort-nés, les formulaires relatifs à l’information et au consentement, ainsi que les documents relatifs au recrutement, notamment l’annonce ou les textes des annonces, utilisés au lieu de réalisation concerné;
+- 8\.3 pour les projets de recherche sur des personnes ou les projets de recherche sur des embryons et des fœtus issus d’interruptions de grossesse et d’avortements spontanés, y compris des enfants mort-nés, les documents relatifs à l’information, au consentement et au recrutement, notamment l’annonce ou les textes des annonces, utilisés au lieu de réalisation concerné;
 - 8\.4 pour les projets de recherche sur des personnes décédées, l’attestation du respect des exigences relatives au consentement au sens de l’art. 36 LRH, ainsi que la preuve du constat préalable du décès au sens de l’art. 37, al. 1, LRH au lieu de réalisation concerné;
 - 8\.5 curriculum vitæ de la personne responsable du projet de recherche au lieu de réalisation concerné, incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent le projet de recherche au lieu de réalisation concerné, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
 - 8\.6 attestation du caractère approprié et de la disponibilité des infrastructures au lieu de réalisation concerné du projet de recherche;

@@ -4,11 +4,11 @@ title: "Ordinance of 20 September 2013 on Human Research with the Exception of C
 short: HRO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/642"
 language: en
-version: 2023-09-01
+version: 2024-11-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2013-642-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/642/20241101/en/xml/fedlex-data-admin-ch-eli-cc-2013-642-20241101-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/642/20241101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Human Research Ordinance, HRO)
 
-of 20 September 2013 (Status as of 1 September 2023)
+of 20 September 2013 (Status as of 1 November 2024)
 
 The Swiss Federal Council,
 
@@ -38,15 +38,28 @@ ordains:
 This Ordinance regulates:
 
 - a. the requirements for the conduct of human research projects with the exception of clinical trials; and
-- b. the authorisation and notification procedures for research projects as specified in letter a.
+- b. the approval and notification procedures for research projects as specified in letter a.
+
+#### Art. 1a
+
+**Definition**[^1a-1]
+
+In this Ordinance, *surplus information* means results relating to a specific person, in particular incidental findings, which arise in the course of a research project and which are not required either for the conduct thereof or to answer the scientific question.
+
+[^1a-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 2
 
-**Applicable provisions**
+**Applicable provisions**[^2-1]
 
-The provisions concerning scientific integrity and scientific quality set out in Articles 3 and 4 of the Ordinance of 20 September 2013[^2-1] on Clinical Trials (ClinO) apply *mutatis mutandis*.
+The following provisions of the Ordinance of 20 September 2013[^2-2] on Clinical Trials (ClinO) apply *mutatis mutandis*:
 
-[^2-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+- a. Article 3 concerning scientific integrity;
+- b. Article 4 concerning scientific quality;
+- c. Article 4*a* concerning the inclusion of relevant groups of persons.
+
+[^2-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^2-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 3
 
@@ -64,11 +77,14 @@ The provisions concerning scientific integrity and scientific quality set out in
 
 The project leader responsible for a research project must:
 
-- a. be entitled to practise independently the profession specifically qualifying him or her to conduct the research project in question;
+- a. be entitled to practise the profession under his or her own responsibility that specifically qualifies him or her to conduct the research project in question;
 - b. have the training and experience required to conduct the research project in question;
-- c. be conversant with the legal requirements for research projects or be able to ensure compliance by calling in appropriate expertise.
+- c. be conversant with the legal requirements for research projects or be able to ensure compliance by calling in appropriate expertise;
+- d.[^4-1] have appropriate knowledge and skills in the areas of data security and data protection or be able to ensure compliance by calling in appropriate expertise.
 
 <sup>2</sup> The other persons conducting the research project must have the professional knowledge and experience appropriate to the activities in question.
+
+[^4-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 5
 
@@ -87,8 +103,19 @@ Any person who stores health-related personal data for research must take approp
 Any person who stores biological material for research must, in particular:
 
 - a. comply with the principles set out in paragraph 1 *mutatis mutandis*;
-- b. ensure that the technical requirements are met for appropriate storage of the biological material;
+- b.[^5-1] ensure that the technical requirements are met for appropriate storage of the biological material; here, nationally and internationally recognised guidelines must be consulted;
 - c. make available the resources required for storage.
+
+[^5-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 5a
+
+**Handling of genetic data in connection with insurance**[^5a-1]
+
+In connection with insurance, Articles 42–44 of the Federal Act of 15 June 2018[^5a-2] on Human Genetic Testing (HGTA) apply to the handling of genetic data from research projects.
+
+[^5a-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^5a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 ## Chapter 2 Research Involving Measures for Sampling of Biological Material or Collection of Health-Related Personal Data from Persons
 
@@ -102,6 +129,14 @@ For the purposes of this Chapter, a research project is any project in which bio
 
 - a. answer a scientific question; or
 - b. make further use for research purposes of the biological material or the health-related personal data.
+
+#### Art. 6a
+
+**Completion of the research project**[^6a-1]
+
+The completion of a research project under this Chapter is marked by the last collection of health-related personal data or the last sampling of biological material in a research project, in the absence of provisions to the contrary in the protocol.
+
+[^6a-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 7
 
@@ -122,12 +157,12 @@ Sampling biological material or collecting health-related personal data entails 
 - e. magnetic resonance imaging scans without a contrast medium, ultrasound examinations or electrograms;
 - f.[^7-1]
 
-  examinations using ionising radiation, provided that the effective dose is below 5 mSv per research project and per person concerned and:
+  accompanying examinations involving ionising radiation, provided that the effective dose is below 5 mSv per research project and per person concerned, no contrast medium is used, and:
 
-  - 1\. the medicinal product used is authorised or exempt from authorisation, or
-  - 2\. the devices under Article 1 of the Medical Devices Ordinance of 1 July 2020[^7-2] bear conformity markings and no contrast medium is used.
+  - 1\. the radiopharmaceuticals employed are used in accordance with the authorisation or are exempt from authorisation, or
+  - 2\. the devices under Article 1 of the Medical Devices Ordinance of 1 July 2020[^7-2] bear conformity markings as specified in Article 13 MedDO and are used in accordance with the instructions for use.
 
-[^7-1]: Amended by Annex 2 No 1 of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^7-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 [^7-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 8
@@ -142,6 +177,7 @@ In addition to the points specified in Article 16 paragraph 2 HRA, the persons c
 - b. their right to withhold or to revoke their consent without giving reasons;
 - c. the consequences of revoking consent to further use of the biological material and personal data collected up to this point;
 - d. their right to receive information at any time in response to further questions;
+- d<sup>bis</sup>.[^8-1] the possibility of surplus information arising, and the significance of the discovery of surplus information and the significance of exercising one’s right to know or not to know;
 - e. their right to be informed of results concerning their health, and their right to forgo such information or to designate a person who is to take this decision for them;
 - f. the measures envisaged to cover any damage arising from the research project, including the procedure in the event of a claim;
 - g. the main sources of financing for the research project;
@@ -151,7 +187,68 @@ In addition to the points specified in Article 16 paragraph 2 HRA, the persons c
 
 <sup>3</sup> The information may be provided in stages. It may be additionally presented in a non-textual form.
 
-<sup>4</sup> Appropriate measures must be taken to ensure that the persons concerned have understood the essential elements of the information provided.
+<sup>4</sup>
+
+Appropriate measures must be taken to ensure that the persons concerned have understood the essential elements of the information provided; in particular:
+
+- a. the persons concerned must be informed about the purpose of and procedure for the provision of information;
+- b. the information elements must be communicated in an appropriate, structured and clear manner.[^8-2]
+
+[^8-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^8-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
+#### Art. 8a
+
+**Information in cases of genetic testing**[^8a-1]
+
+<sup>1</sup>
+
+If, when presymptomatic genetic testing, prenatal genetic testing, or testing for family planning purposes (Art. 3 let. e, g and i HGTA[^8a-2]) is conducted, results arise which concern the health of the person concerned, he or she must additionally receive information on the following:
+
+- a. the purpose, nature and significance of the test;
+- b. the frequency and nature of the disorder screened for;
+- c. medical, psychological and social implications of the test;
+- d. the possible significance of the results for the person concerned and for family members, and their right not to know.
+
+<sup>2</sup> When presymptomatic testing is conducted (Art. 3 let. e HGTA), the person concerned must additionally be informed about the conditions under which insurance providers may request the disclosure of data from genetic tests performed (Art. 43 and Art. 44 HGTA).
+
+[^8a-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^8a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 8b
+
+**Information in cases of prenatal risk assessment**[^8b-1]
+
+When a prenatal risk assessment is conducted (Art. 3 let. h HGTA[^8b-2]), the pregnant woman must additionally be informed about the matters specified in Article 23 HGTA.
+
+[^8b-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^8b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 8c
+
+**Form of consent**[^8c-1]
+
+<sup>1</sup> Consent must be signed by hand or given in electronic form.
+
+<sup>2</sup>
+
+The declaration of consent must:
+
+- a. be dated; and
+- b. be readable during the entire required retention period.
+
+<sup>3</sup>
+
+Consent given in electronic form is permissible provided that:
+
+- a. it has been given using a method which unequivocally identifies the person concerned;
+- b. the chosen method prevents an overhasty decision;
+- c. it is protected against modification in accordance with the state of the art;
+- d. it is described in the application documents how the requirements specified in letters a–c are met.
+
+<sup>4</sup> The person concerned can choose to receive a copy of the information documents and the declaration of consent either on paper or in electronic form.
+
+[^8c-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 9
 
@@ -179,6 +276,22 @@ In individual cases, the requirement to provide information in written form may 
 - a. this could only be implemented with disproportionate effort, given the language skills of the person concerned; and
 - b. an independent qualified translator is called in to provide oral information and gives written confirmation thereof.
 
+#### Art. 9a
+
+**Communication of results**[^9a-1]
+
+<sup>1</sup> The right of the persons concerned to receive information as specified in Article 8 paragraph 1 HRA applies to results concerning their health obtained by means of tests meeting current standards of analytical and clinical validity.
+
+<sup>2</sup>
+
+Results must be communicated to the persons concerned or, where applicable, to their legal representative, designated trusted person or the next of kin (Art. 22–24 HRA) in cases where:
+
+- a. the results are subject to a legal notification requirement which stipulates or involves informing the person concerned about the result;
+- b. the results may entail a public health measure which stipulates or involves informing the person concerned about the result;
+- c. the results must be noted by the person who is to be informed, in order to protect the life and health of third parties or of the person lacking capacity concerned by the test.
+
+[^9a-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 #### Art. 10
 
 **Consequences of revocation of consent**
@@ -204,14 +317,9 @@ For research projects in emergency situations, Articles 15–17 ClinO[^11-1] app
 
 #### Art. 12
 
-**Exemptions from liability**
+[^12-1]
 
-shall be exempt from liability under Article 19 paragraph 1 HRA.
-
-Any person who proves that:
-
-- a. the damage is only slight and temporary; and
-- b. the extent of the damage is no greater than would be expected in the current state of scientific knowledge
+[^12-1]: Repealed by No I of the O of 7 June 2024, with effect from 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 13
 
@@ -227,7 +335,7 @@ Any person who proves that:
 
 [^13-1]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
-### Section 2 Authorisation Procedure
+### Section 2 Approval Procedure
 
 #### Art. 14
 
@@ -260,16 +368,20 @@ The responsible ethics committee shall review:
   - 7\. the appropriateness of the remuneration for participants and compliance with the prohibition of commercialisation (Art. 9 HRA),
   - 8\. compliance with scientific integrity requirements;
 
+- c<sup>bis</sup>.[^15-1] where applicable, compliance with the requirements for consent in electronic form (Art. 8*c* para. 3 let. a–c);
 - d. the completeness of the documentation for recruitment, information and consent, and its comprehensibility, especially with regard to the possible involvement of particularly vulnerable persons;
-- e. for Category B research projects: the guaranteeing of the right to compensation in the event of damage (Art. 20 HRA);
-- f. for investigations involving radiation sources[^15-1]: additionally, compliance with radiological protection legislation and the dose estimation, in cases where an opinion does not have to be sought from the Federal Office of Public Health (FOPH) in accordance with Article 19 paragraph 2;
+- d<sup>bis</sup>.[^15-2] the consideration given to the right of the persons concerned to receive information (Art. 8 para. 1 HRA);
+- e. in the case of Category B research projects: the guaranteeing of the right to compensation in the event of damage (Art. 20 HRA);
+- f.[^15-3] in the case of accompanying examinations involving ionising radiation: additionally, compliance with radiological protection legislation and the dose estimation, provided the opinion of the Federal Office of Public Health (FOPH) in accordance with Article 19 paragraph 4 is not required;
 - g. the professional qualifications of the project leader and the other researchers;
 - h. compliance with the requirements concerning the storage of biological material or health-related personal data specified in Article 5;
 - i. the suitability of the infrastructure at the research site;
 - j. the financing of the research project and the agreements between the sponsor, third parties and the project leader concerning the allocation of tasks, remuneration and publication;
 - k. other areas, where this is necessary to assess the protection of participants.
 
-[^15-1]: Term in accordance with Annex 11 No 5 of the Radiation Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). This modification has been made throughout the text.
+[^15-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^15-2]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^15-3]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321), [581](https://fedlex.data.admin.ch/eli/oc/2024/581)).
 
 #### Art. 16
 
@@ -295,51 +407,62 @@ The responsible ethics committee shall review:
 
 #### Art. 18
 
-**Changes**
+**Modifications**
 
-<sup>1</sup> Significant changes to an authorised research project must be authorised by the ethics committee before being implemented. Exempt from this requirement are measures which have to be taken immediately in order to protect the participants.
+<sup>1</sup> Substantial modifications to an approved research project must be approved by the ethics committee before being implemented. Exempt from this requirement are measures which have to be taken immediately in order to protect the participants.
 
-<sup>2</sup> The project leader shall submit to the ethics committee any application documents specified in Annex 2 which are affected by the change. At the same time, the project leader shall provide information on the reasons for the change.
+<sup>2</sup> The project leader shall submit to the ethics committee any application documents specified in Annex 2 which are affected by the modification. At the same time, the project leader shall provide information on the reasons for the modification.
 
 <sup>3</sup>
 
-The following are considered to be significant changes:
+The following are considered to be substantial modifications:
 
-- a. changes affecting the participants’ safety and health, or their rights and obligations;
-- b. in the case of a Category B research project, changes to the protocol which concern the goal or the central topic of the research project;
+- a. modifications affecting the participants’ safety and health, or their rights and obligations;
+- b.[^18-1] modifications to the protocol which concern the goal or the central topic of the research project;
 - c. a change of research site or conducting the research project at an additional site; or
 - d. a change of project leader or sponsor.
 
-<sup>4</sup> The ethics committee shall reach a decision on significant changes within 30 days. Article 16 applies *mutatis mutandis*.
+<sup>4</sup> The ethics committee shall reach a decision on substantial modifications within 30 days. Article 16 applies *mutatis mutandis*.
 
-<sup>5</sup> For the authorisation procedure in the case of significant changes to authorised multicentre research projects, Article 17 applies *mutatis mutandis*.
+<sup>5</sup> For the approval procedure in the case of substantial modifications to approved multicentre research projects, Article 17 applies *mutatis mutandis*.
+
+[^18-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 19
 
-**Procedure for investigations involving radiation sources**
+**Procedure for accompanying examinations involving ionising radiation**[^19-1]
 
-<sup>1</sup> In the case of investigations involving radiation sources, the project leader shall additionally submit to the responsible ethics committee the documents specified in Annex 2 number 2. Subject to the provisions of the following paragraphs, the authorisation procedure is governed by Articles 14–18.
+<sup>1</sup> In the case of accompanying examinations involving ionising radiation, the project leader shall additionally submit to the responsible ethics committee the documents specified in Annex 2 number 2. Subject to the provisions of paragraphs 2–6, the approval procedure is governed by Articles 14–18.
 
 <sup>2</sup>
 
-The project leader shall additionally submit to the FOPH the application documents specified in Annex 2 number 3, informing the ethics committee at the same time if the effective dose per person, taking the uncertainty factor into account, is more than 5 mSv per year and:
+The project leader shall additionally submit to the FOPH the application documents specified in Annex 2 number 3 if:
 
-- a. a radiopharmaceutical is used which is not authorised in Switzerland;
-- b. a radiopharmaceutical is used which is authorised in Switzerland, and the intervention in question is not a routine nuclear medicine examination; or
-- c. some other radioactive source[^19-1] is used.
+- a. a radiopharmaceutical employed is not used in accordance with the authorisation or is not authorised in Switzerland;
+- b.
 
-<sup>3</sup> The FOPH shall deliver an opinion for the ethics committee on compliance with radiological protection legislation and on the dose estimation.
+  a medical device employed which is capable of emitting ionising radiation:
 
-<sup>4</sup>
+  - 1\. is not used in accordance with the instructions for use, or
+  - 2\. does not bear a conformity marking in accordance with Article 13 MedDO[^19-2]; or
 
-The ethics committee shall grant authorisation if:
+- c. some other radioactive source is used.
+
+<sup>3</sup> If additional documentation has to be submitted in accordance with paragraph 2, the project leader shall inform the ethics committee accordingly.
+
+<sup>4</sup> The FOPH shall, within a reasonable period, deliver an opinion for the ethics committee on compliance with radiological protection legislation and on the dose estimation.
+
+<sup>5</sup>
+
+The ethics committee shall grant approval if:
 
 - a. the requirements covered by Article 15 are met; and
-- b. the FOPH has raised no objections to the research project.
+- b. after discussion of the opinion specified in paragraph 4, there are no remaining objections to the research project.
 
-<sup>5</sup> It shall reach a decision in this case within 45 days after acknowledgement of receipt of the formally correct application documents. It shall inform the FOPH of its decision.
+<sup>6</sup> It shall reach a decision in this case within 45 days after acknowledgement of receipt of the formally correct application documents. It shall inform the FOPH of its decision.
 
-[^19-1]: Term in accordance with Annex 11 No 5 of the Radiation Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). This modification has been made throughout the text.
+[^19-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321), [581](https://fedlex.data.admin.ch/eli/oc/2024/581)).
+[^19-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 ### Section 3 Notifications and Reporting
 
@@ -363,38 +486,50 @@ A serious event is defined as any adverse event where it cannot be excluded that
 - b. results in permanent or significant incapacity or disability; or
 - c. is life-threatening or results in death.
 
-<sup>3</sup> If necessary in order to guarantee participants’ safety and health, further events are to be designated as serious in the protocol or at the request of the responsible ethics committee.
+<sup>3</sup> If necessary in order to guarantee participants’ safety and health, further events are to be designated as serious in the protocol or at the request of the responsible ethics committee.[^21-1]
 
-<sup>4</sup> The project leader shall notify the ethics committee of a serious event within 7 days. In addition, the project leader shall report to the committee on the connection between the event and the collection of health-related personal data or the sampling of biological material. At the same time, he or she shall submit proposals concerning the next steps to be taken.
+<sup>4</sup> The project leader shall report a serious event to the ethics committee within 7 days. In addition, the project leader shall report to the committee on the connection between the event and the collection of health-related personal data or the sampling of biological material. At the same time, he or she shall submit proposals concerning the next steps to be taken.
 
-<sup>5</sup> If a serious event occurs in connection with an investigation involving a radiation source on which the FOPH has delivered an opinion in accordance with Article 19, this must be additionally reported to the FOPH within 7 days.
+<sup>5</sup> …[^21-2]
 
 <sup>6</sup> The ethics committee shall reach a decision on the continuation of the research project within 30 days after receipt of the report.
 
+[^21-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^21-2]: Repealed by No I of the O of 7 June 2024, with effect from 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 #### Art. 22
 
-**Notification upon completion or discontinuation of a research project**
+**Notification upon completion or premature termination of a research project**
 
-The project leader shall notify the ethics committee of the discontinuation or completion of a research project within 90 days.
+The project leader shall notify the ethics committee of the premature termination or completion of a research project within 90 days.
 
 #### Art. 23
 
-**Assessment, notification and reporting on the use of radiation sources**[^23-1]
+**Assessment, notification and reporting on the use of ionising radiation[^23-2]**[^23-1]
 
-<sup>1</sup> In the case of investigations using radiation sources, the project leader shall assess compliance with the dose guidance value under Article 45 of the Radiological Protection Ordinance of 26 April 2017[^23-2].
+<sup>1</sup> In the case of research projects involving any use of ionising radiation, the project leader shall assess compliance with the dose constraint specified in Article 45 of the Radiological Protection Ordinance of 26 April 2017[^23-3].[^23-4]
 
-<sup>2</sup> He or she shall give notify the competent ethics committee if the permitted dose guidance value within seven working days of the information coming to light.
+<sup>2</sup> If the permitted dose constraint is exceeded, the project leader shall notify the competent ethics committee within seven working days of it becoming known.
 
 <sup>3</sup> The competent ethics committee may obtain technical advice from the FOPH in order to assess the dose calculation or the dose estimate and to decide what further measures are required.
 
-<sup>4</sup> Within a year of completing or discontinuing a research project which included investigations involving radioactive sources, the project leader shall submit to the FOPH a final report including all information of relevance for radiological protection, and in particular a retrospective dose estimation by the participants.
+<sup>4</sup> Within a year of the completion or premature termination of a research project which included accompanying examinations involving ionising radiation, the project leader shall submit to the FOPH a final report including all information of relevance for radiological protection, and in particular a retrospective dose estimation for the participants.[^23-5]
 
-<sup>5</sup> Routine nuclear medicine examinations involving authorised radiopharmaceuticals are exempt from the reporting requirement under paragraph 4.
+<sup>5</sup> Radiopharmaceuticals used in accordance with the authorisation and medical devices bearing a conformity marking used in accordance with the instructions for use are exempt from the reporting requirements specified in paragraph 4.[^23-6]
 
 <sup>6</sup> Within the framework of the opinion delivered in accordance with Article 19, or on request, the FOPH may specify further exemptions from the reporting requirements.
 
+**Art. 23***a*[^23-7] Data retention requirements
+
+The project leader must retain all the research project data for a period of at least ten years after the completion or premature termination of the research project.
+
 [^23-1]: Amended by Annex 11 No 5 of the Radiation Protection Ordinance of 26 Apr. 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^23-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^23-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-3]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^23-4]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-5]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-6]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^23-7]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 ## Chapter 3 Further Use of Biological Material and Health-related Personal Data for Research
 
@@ -413,21 +548,25 @@ Further use of biological material and health-related personal data is defined a
 
 #### Art. 25
 
-**Anonymisation**
+**Anonymisation**[^25-1]
 
-<sup>1</sup> For the anonymisation of biological material and health-related personal data, all items which, when combined, would enable the data subject to be identified without disproportionate effort, must be irreversibly masked or deleted.
+<sup>1</sup> For the anonymisation of biological material and health-related personal data, any association with a specific person must be rendered impossible or eliminated in such a way as to allow this association to be re-established only with disproportionate effort.
 
-<sup>2</sup> In particular, the name, address, date of birth and unique identification numbers must be masked or deleted.
+<sup>2</sup> Anonymisation must be effected using a method based on the current state of the art. In particular, items of data which, individually or in combination, allow the association with a specific person to be re-established, such as the first name, surname, address, date of birth or unique identification numbers, must be deleted or modified.
+
+<sup>3</sup> The method used for anonymisation must be documented, including a description of the residual risk of reidentification.
+
+[^25-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 26
 
-**Coding**
+**Coding**[^26-1]
 
-<sup>1</sup> Biological material and health-related personal data are considered to be correctly coded in accordance with Article 32 paragraph 2 and Article 33 paragraph 2 HRA if, from the perspective of a person who lacks access to the key, they are to be characterised as anonymised.
+<sup>1</sup> Biological material and health-related personal data are considered to be correctly coded in accordance with Article 32 paragraph 2 and Article 33 paragraph 2 HRA if, without access to the key or to the source data, it is only possible with disproportionate effort to link the biological material or the health–related data to a specific person.
 
-<sup>2</sup> The key must be stored separately from the biological material or personal data and in accordance with the principles of Article 5 paragraph 1, by a person to be designated in the application who is not involved in the research project.[^26-1]
+<sup>2</sup> Coding must be effected using a method based on the current state of the art. The key must be stored separately from the biological material or personal data and in accordance with the principles of Article 5 paragraph 1, by a person or organisational unit to be designated in the application, not involved in the research project.
 
-[^26-1]: Amended by Annex 2 No II 95 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^26-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 27
 
@@ -460,9 +599,12 @@ The persons concerned must receive written and oral information on:
 
 <sup>2</sup> The information may be additionally presented in a non-textual form.
 
-<sup>3</sup> Consent must be given in writing.
+<sup>3</sup> The form of consent is governed by Article 8*c*.[^28-1]
 
-<sup>4</sup> The exceptions to written form are governed by Article 9 *mutatis mutandis*.
+<sup>4</sup> Article 9 applies *mutatis mutandis*.[^28-2]
+
+[^28-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^28-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 29
 
@@ -472,21 +614,26 @@ The persons concerned must receive written and oral information on:
 
 The persons concerned must receive written or oral information on:
 
-- a. the proposed further use of the coded biological material and coded genetic personal data for research purposes;
+- a. the intended further use of the coded biological material and coded genetic personal data for research purposes;
 - b. their right to withhold or to revoke their consent at any time without giving reasons;
 - c. measures to protect the biological material and personal data, and in particular management of the key;
 - d. the possibility of the biological material and the genetic personal data being passed on to third parties for research purposes.
 
-<sup>2</sup> Consent must be given in writing; the exceptions are governed by Article 9 *mutatis mutandis*.
+<sup>2</sup> The form of consent is governed by Article 8*c* paragraphs 1, 2 letter a, 3 letters a–c and 4.[^29-1]
+
+<sup>3</sup> Article 9 applies *mutatis mutandis*.[^29-2]
+
+[^29-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^29-2]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 30
 
-**Information on the proposed anonymisation of biological material and genetic personal data for research purposes**
+**Information on the intended anonymisation of biological material and genetic personal data for research purposes**
 
 The persons concerned must receive written or oral information on:
 
-- a. the proposed anonymisation of the biological material and genetic personal data for research purposes;
-- b. their right to dissent;
+- a. the intended anonymisation of the biological material and genetic personal data for research purposes;
+- b. their right to object;
 - c. the consequences of anonymisation with regard to results concerning their health;
 - d. the possibility of the biological material and the data being passed on to third parties for research purposes.
 
@@ -498,26 +645,31 @@ The persons concerned must receive written or oral information on:
 
 The persons concerned must receive written or oral information on:
 
-- a. the proposed further use of the non-genetic health-related personal data for research purposes;
+- a. the intended further use of the non-genetic health-related personal data for research purposes;
 - b. their right to withhold or to revoke their consent at any time without giving reasons;
 - c. their right to be informed of results concerning their health, and their right to forgo such information;
 - d. measures to protect the personal data;
 - e. the possibility of the personal data being passed on to third parties for research purposes.
 
-<sup>2</sup> Consent must be given in writing; the exceptions are governed by Article 9 *mutatis mutandis*.
+<sup>2</sup> The form of consent is governed by Article 8*c* paragraphs 1, 2 letter a, 3 letters a–c and 4.[^31-1]
+
+<sup>3</sup> Article 9 applies *mutatis mutandis*.[^31-2]
+
+[^31-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^31-2]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 32
 
-**Information on the proposed further use of non-genetic health-related personal data in coded form for research purposes**
+**Information on the intended further use of non-genetic health-related personal data in coded form for research purposes**
 
 The persons concerned must receive written or oral information on:
 
-- a. the proposed further use of the non-genetic health-related personal data in coded form for research purposes;
-- b. their right to dissent;
+- a. the intended further use of the non-genetic health-related personal data in coded form for research purposes;
+- b. their right to object;
 - c. measures to protect the personal data, and in particular management of the key;
 - d. the possibility of the personal data being passed on to third parties for research purposes.
 
-### Section 3 Authorisation Procedure and Notification Requirements for Research Projects involving Biological Material and Health-Related Personal Data
+### Section 3 Approval Procedure and Notification Requirements for Research Projects involving Biological Material and Health-Related Personal Data
 
 #### Art. 33
 
@@ -531,16 +683,20 @@ For the purposes of this Section, a research project is any project in which fur
 
 <sup>1</sup>
 
-The ethics committee shall review:
+The responsible ethics committee shall review:[^34-1]
 
 - a. the completeness of the application;
 - b. the fulfilment of the conditions specified in Articles 32 and 33 HRA;
+- b<sup>bis</sup>.[^34-2] the scientific quality;
 - c. for research projects involving biological material and health-related personal data in coded form: correct and secure coding;
 - d. compliance with the requirements for the storage of biological material or health-related personal data;
 - e. the professional qualifications of the project leader and the other persons involved in the research project;
 - f. other areas, where this is necessary to assess the protection of the persons concerned.
 
-<sup>2</sup> In this process, it shall take into account existing authorisations from ethics committees with regard to the biological material or the health-related personal data.
+<sup>2</sup> In this process, it shall take into account existing approvals from ethics committees with regard to the biological material or the health-related personal data.
+
+[^34-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^34-2]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 35
 
@@ -558,23 +714,25 @@ The following provisions apply *mutatis mutandis*:
 
 <sup>1</sup> The project leader shall notify the ethics committee of a change of project leader in advance.
 
-<sup>2</sup> The project leader shall notify the ethics committee of the completion or discontinuation of the research project within 90 days.
+<sup>2</sup> The project leader shall notify the ethics committee of the completion or premature termination of the research project within 90 days.
 
-### Section 4 Authorisation Procedure and Notification Requirements for further Use of Biological Material and Health-Related Personal Data for Research in the Absence of Informed Consent in accordance with Article 34 HRA
+### Section 4 Approval Procedure and Notification Requirements for further Use of Biological Material and Health-Related Personal Data for Research in the Absence of Informed Consent in accordance with Article 34 HRA
 
 #### Art. 37
 
 **Review areas**
 
-The ethics committee shall review:
+The responsible ethics committee shall review:[^37-1]
 
 - a. the completeness of the application;
 - b. the reasons, as specified in Article 34 letters a and b HRA;
-- c. the interests of the proposed research which outweigh the interests of the person concerned in deciding on the further use of his or her biological material and health-related personal data;
+- c. the interests of the intended research which outweigh the interests of the person concerned in deciding on the further use of his or her biological material and health-related personal data;
 - d. the group of persons entitled to pass on the biological material and the personal data;
 - e. compliance with the requirements concerning the storage of biological material or health-related personal data and the group of persons with access rights;
 - f. the professional qualifications of the persons entitled to receive the biological material and the personal data;
 - g. other areas, where this is necessary to assess the protection of the persons concerned.
+
+[^37-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 38
 
@@ -588,12 +746,12 @@ The following provisions apply *mutatis mutandis*:
 
 #### Art. 39
 
-**Authorisation**
+**Approval**
 
-The authorisation shall include at least the following information:
+The approval shall include at least the following information:
 
 - a. the purpose for which further use may be made of the biological material and the health-related personal data;
-- b. the designation of the biological material and health-related personal data covered by the authorisation;
+- b. the designation of the biological material and health-related personal data covered by the approval;
 - c. the group of persons entitled to pass on the biological material and the health-related personal data;
 - d. the group of persons entitled to receive the biological material and the personal data.
 
@@ -601,9 +759,9 @@ The authorisation shall include at least the following information:
 
 **Notifications**
 
-<sup>1</sup> The project leader must notify the ethics committee in advance of any changes to the information given in the authorisation.
+<sup>1</sup> The project leader must notify the ethics committee in advance of any modification to the information given in the approval.
 
-<sup>2</sup> The project leader must notify the ethics committee of the completion or discontinuation of the collection process within 90 days.
+<sup>2</sup> The project leader must notify the ethics committee of the completion or premature termination of the collection process within 90 days.
 
 ## Chapter 4 Research Involving Deceased Persons
 
@@ -637,12 +795,12 @@ The following provisions apply *mutatis mutandis*:
 
 <sup>1</sup>
 
-The project leader must notify the ethics committee in advance of the following changes to the research project:
+The project leader must notify the ethics committee in advance of the following modifications to the research project:
 
 - a. change of project leader;
-- b. for research projects involving deceased persons undergoing artificial respiration: significant changes to the protocol.
+- b. for research projects involving deceased persons undergoing artificial respiration: substantial modifications to the protocol.
 
-<sup>2</sup> The project leader shall notify the ethics committee of the completion or discontinuation of the research project within 90 days.
+<sup>2</sup> The project leader shall notify the ethics committee of the completion or premature termination of the research project within 90 days.
 
 ## Chapter 5 Research involving Embryos and Foetuses from Induced Abortions and from Spontaneous Abortions including Stillbirths
 
@@ -661,24 +819,33 @@ For research projects involving embryos and foetuses from induced abortions and 
 
 <sup>2</sup> The information may be additionally presented in a non-textual form.
 
-<sup>3</sup> Consent must be given in writing. The consequences of revocation of consent are governed by Article 10.
+<sup>3</sup> The form of consent is governed by Article 8*c*.[^44-1]
 
-<sup>4</sup> The exceptions to written form are governed by Article 9 *mutatis mutandis*.
+<sup>4</sup> Article 9 applies *mutatis mutandis*.[^44-2]
+
+<sup>5</sup> The consequences of revocation of consent are governed by Article 10.[^44-3]
+
+[^44-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^44-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^44-3]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 45
 
 **Review areas**
 
-The ethics committee shall review:
+The responsible ethics committee shall review:[^45-1]
 
 - a. the completeness of the application;
 - b. the scientific quality;
-- c. compliance with the requirements for informed consent;
+- c.[^45-2] compliance with the requirements for informed consent, and, where applicable compliance with the requirements for consent in electronic form (Art. 8*c* para. 3 let. a–c);
 - d. for research projects involving embryos and foetuses from induced abortions: compliance with the requirements specified in Article 39 paragraphs 1, 2 and 4 HRA;
 - e. compliance with the prohibition of commercialisation (Art. 9 HRA);
 - f. compliance with the requirements concerning the storage of biological material or health-related personal data;
 - g. the professional qualifications of the project leader and the other researchers;
 - h. other areas, where this is necessary to assess the protection of the pregnant woman or the couple concerned.
+
+[^45-1]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+[^45-2]: Amended by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
 
 #### Art. 46
 
@@ -703,9 +870,9 @@ The Federal Department of Home Affairs may update the Annexes in accordance with
 
 **Transitional provisions**
 
-<sup>1</sup> Research projects as defined in Chapter 2 which were granted authorisation before 1 January 2014 are considered to be Category B research projects.
+<sup>1</sup> Research projects as defined in Chapter 2 which were granted approval before 1 January 2014 are considered to be Category B research projects.
 
-<sup>2</sup> On request, the authority which authorised the research project before 1 January 2014 may assign the research project to Category A. In this case, the liability, coverage and notification requirements are governed by the new law.
+<sup>2</sup> On request, the authority which approved the research project before 1 January 2014 may assign the research project to Category A. In this case, the liability, coverage and notification requirements are governed by the new law.
 
 <sup>3</sup> The ethics committee shall make the decision specified in paragraph 2 according to the simplified procedure specified in Article 6 of the HRA Organisation Ordinance of 20 September 2013[^48-1].
 
@@ -713,12 +880,22 @@ The Federal Department of Home Affairs may update the Annexes in accordance with
 
 The provisions of this Ordinance are applicable:
 
-- a. to the assessment of significant changes to research projects as specified in Chapter 2;
+- a. to the assessment of substantial modifications to research projects as specified in Chapter 2;
 - b. to notifications concerning research projects as specified in Chapters 3–5.
 
-<sup>5</sup> The responsible ethics committee shall make a decision on applications concerning research projects not subject to authorisation under existing law, submitted in accordance with Article 67 paragraph 2 HRA, within six months after acknowledgement of receipt of the formally correct application documents.
+<sup>5</sup> The responsible ethics committee shall make a decision on applications concerning research projects not subject to approval under existing law, submitted in accordance with Article 67 paragraph 2 HRA, within six months after acknowledgement of receipt of the formally correct application documents.
 
 [^48-1]: [SR 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+
+#### Art. 48a
+
+**Transitional provisions to the Amendment of 7 June 2024**[^48a-1]
+
+<sup>1</sup> Article 23*a* does not apply to research projects approved before the Amendment of 7 June 2024 comes into force.
+
+<sup>2</sup> For research projects approved before the before the Amendment of 7 June 2024 comes into force, the liability requirements are governed by the previous law.
+
+[^48a-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321), [343](https://fedlex.data.admin.ch/eli/oc/2024/343)).
 
 #### Art. 49
 
@@ -738,17 +915,19 @@ For Category B research projects involving persons, the policy value shall be at
 - b. for damage to property: 20 000 Swiss francs;
 - c. for the entire research project: 3 million Swiss francs.
 
-Annex 2
+Annex 2[^t-1]
 
 (Art. 14, 17–19)
 
 ## Application documents to be submitted to the responsible ethics committee for the procedure
 
+[^t-1]: Updated by No II of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 321](https://fedlex.data.admin.ch/eli/oc/2024/321)).
+
 ### 1 Application documents for research projects involving the sampling of biological material or the collection of health-related personal data from persons
 
-- 1\.1 Basic form, including a summary of the protocol in the national language of the research site and reasons for the requested categorisation;
+- 1\.1 Administrative information, including a summary of the protocol and reasons for the requested categorisation;
 - 1\.2 protocol;
-- 1\.3 information sheet and informed consent form, and recruitment documents, in particular the wording of announcements or advertisements;
+- 1\.3 informed consent documents and recruitment documents, in particular the wording of announcements or advertisements;
 - 1\.4 other documents issued to participants;
 - 1\.5 information on the type and amount of remuneration for participants;
 - 1\.6 for Category B research projects: certificate of insurance or other proof of coverage for possible damage;
@@ -757,37 +936,43 @@ Annex 2
 - 1\.9 information on the suitability and availability of infrastructure at the research site;
 - 1\.10 agreements between the project leader and the sponsor or third parties, in particular with regard to the financing of the research project, remuneration of the project leader and publication.
 
-### 2 Additional application documents for research projects which include investigations involving radiation sources
+### 2 Additional application documents for research projects which include accompanying examinations involving ionising radiation
 
 - 2\.1 Details of all relevant radiological protection aspects, and in particular a calculation or estimate of the effective dose, organ doses and any tumour doses;
 - 2\.2 the licences required under Article 28 of the Radiological Protection Act of 22 March 1991[^annex2-lvlu1-lvl2-1].
 
 [^annex2-lvlu1-lvl2-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 
-### 3 Additional application documents for research projects which include investigations involving radioactive sources and require an opinion from the FOPH in accordance with Article 19 paragraph 2
+### 3 Additional application documents for research projects which include accompanying examinations involving ionising radiation and require an opinion from the FOPH in accordance with Article 19 paragraph 2
 
-- 3\.1 Information on the properties of the radiopharmaceutical, and in particular on pharmacokinetics, quality, stability, radiochemical purity and radionuclide purity;
-- 3\.2 for authorised radiopharmaceuticals: the prescribing information;
-- 3\.3 for non-authorised radiopharmaceuticals: information on the manufacturing and quality control processes for the radiopharmaceutical, the names of the persons responsible for these processes and details of their professional qualifications;
-- 3\.4 the names of the persons responsible for the use of the radiopharmaceutical in humans and details of their professional qualifications;
-- 3\.5 information specified in the FOPH form for research projects involving radiopharmaceuticals or radiolabelled compounds[^annex2-lvlu1-lvl3-1].
+- 3\.1
 
-[^annex2-lvlu1-lvl3-1]: This form can be obtained [in French/German] from the Federal Office of Public Health, Radiological Protection Division, CH-3003 Bern; it can also be accessed online at: www.bag.admin.ch &gt; Themen &gt; Strahlung, Radioaktivität und Schall.
+  Information specified in the FOPH form for research projects involving radiopharmaceuticals or radiolabelled compounds[^annex2-lvlu1-lvl3-1]. This comprises:
+
+  - a. information on the properties, and in particular on pharmacokinetics, quality, stability, radiochemical purity and radionuclide purity,
+  - b. information on the effective dose and on organ doses,
+  - c. for authorised radiopharmaceuticals: the prescribing information,
+  - d. for non-authorised radiopharmaceuticals or radiolabelled compounds: information on production and on the professional qualifications of the persons responsible,
+  - e. the persons responsible for the use of the radiopharmaceutical in humans and their professional qualifications;
+
+- 3\.2 information on the properties of the medical device, and in particular the type and intensity of ionising radiation, and on the nature of the deviation from the instructions for use.
+
+[^annex2-lvlu1-lvl3-1]: This form can be obtained [in French/German] from the Federal Office of Public Health, Radiological Protection Division, CH-3003 Bern; it can also be accessed online at: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Gesetze & Bewilligungen &gt; Gesuche & Bewilligungen &gt; Strahlenschutz: Bewilligungen, Voraussetzungen und Aufsicht.
 
 ### 4 Application documents for research projects involving further use of biological material or health-related personal data
 
-- 4\.1 Basic form, including a summary of the scientific question in the national language of the research site;
+- 4\.1 Administrative information, including a summary of the scientific question;
 - 4\.2 description of the scientific question;
-- 4\.3 proof of the origin of the biological material and health-related personal data, and of compliance with the requirements concerning informed consent and information on the right to dissent specified in Articles 32 and 33 HRA;
+- 4\.3 proof of the origin of the biological material and health-related personal data, and of compliance with the requirements concerning informed consent and information on the right to object specified in Articles 32 and 33 HRA;
 - 4\.4 for further use of biological material and health-related personal data in coded form: proof of secure and correct coding;
 - 4\.5 proof of secure handling of biological material and personal data, and in particular the storage thereof;
 - 4\.6 the project leader’s CV, including evidence of his or her knowledge and experience, and a list of the other persons involved in the research project, indicating their responsibilities and relevant professional knowledge;
 - 4\.7 information on the infrastructure available at the research site;
-- 4\.8 any authorisations granted by ethics committees in Switzerland for the sampling of biological material or the collection of health-related personal data.
+- 4\.8 any approvals granted by ethics committees in Switzerland for the sampling of biological material or the collection of health-related personal data.
 
 ### 5 Application documents for further use of biological material or health-related personal data in the absence of informed consent in accordance with Article 34 HRA
 
-- 5\.1 Basic form, including a summary of the project in the national language of the research site;
+- 5\.1 Administrative information, including a summary of the project;
 - 5\.2 planned procedure;
 - 5\.3 description of the proposed research purposes for which further use is to made of the biological material or health-related personal data, including an explanation of how the research interests outweigh the interests of the persons concerned;
 - 5\.4 designation of the biological material or health-related personal data of which further use is to be made;
@@ -802,7 +987,7 @@ Annex 2
 
 ### 6 Application documents for research projects involving deceased persons
 
-- 6\.1 Basic form, including a summary of the protocol in the national language of the research site;
+- 6\.1 Administrative information, including a summary of the protocol;
 - 6\.2 protocol;
 - 6\.3 proof of compliance with the requirements for consent specified in Article 36 HRA;
 - 6\.4 proof of compliance with the requirement for prior determination of death specified in Article 37 paragraph 1 HRA;
@@ -815,9 +1000,9 @@ Annex 2
 
 ### 7 Application documents for research projects involving embryos and foetuses from induced abortions and from spontaneous abortions including stillbirths
 
-- 7\.1 Basic form, including a summary of the protocol in the national language of the research site;
+- 7\.1 Administrative information, including a summary of the protocol;
 - 7\.2 protocol;
-- 7\.3 recruitment documents, including the wording of any advertisements, and the information sheet and informed consent form;
+- 7\.3 informed consent documents and recruitment documents, in particular the wording of announcements or advertisements;
 - 7\.4 description of measures to ensure compliance with the requirements for consent specified in Article 39 paragraph 1 or Article 40 paragraph 1 HRA;
 - 7\.5 description of measures to ensure compliance with the requirement for prior determination of death specified in Article 39 paragraph 3 or Article 40 paragraph 2 HRA;
 - 7\.6 for research projects involving embryos and foetuses from induced abortions: proof of compliance with the requirements specified in Article 39 paragraphs 2 and 4 HRA;
@@ -829,9 +1014,9 @@ Annex 2
 
 ### 8 Application documents for the ethics committees concerned in multicentre research projects
 
-- 8\.1 Basic form, including a summary of the research project in the national language of the research site;
+- 8\.1 Administrative information, including a summary of the research project;
 - 8\.2 protocol;
-- 8\.3 for research projects involving persons or research projects involving embryos and foetuses from induced abortions and from spontaneous abortions including stillbirths: information sheet and informed consent form, and recruitment documents, in particular the wording of announcements or advertisements, used at the research site in question;
+- 8\.3 for research projects involving persons or research projects involving embryos and foetuses from induced abortions and from spontaneous abortions including stillbirths: informed consent documents and recruitment documents, in particular the wording of announcements or advertisements, used at the research site in question;
 - 8\.4 for research projects involving deceased persons: proof of compliance with the requirements for consent specified in Article 36 HRA and proof of compliance with the requirement for prior determination of death specified in Article 37 paragraph 1 HRA at the research site in question;
 - 8\.5 the CV of the person responsible at the research site in question, including evidence of his or her knowledge and experience, and a list of the other persons involved in the research project at the site concerned, indicating their responsibilities and relevant professional knowledge;
 - 8\.6 proof of the suitability and availability of the infrastructure at the research site in question;
