@@ -3,11 +3,11 @@ sr: "810.213"
 title: "Ordonnance du 16 mars 2007 sur la transplantation d'organes, de tissus et de cellules d'origine animale (Ordonnance sur la xénotransplantation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/283"
 language: fr
-version: 2014-01-01
+version: 2024-11-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/283/20140101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-283-20140101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/283/20140101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/283/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-283-20241101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/283/20241101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/283/20140101/fr"
 
 (Ordonnance sur la xénotransplantation)
 
-du 16 mars 2007 (Etat le 1<sup>er</sup> janvier 2014)
+du 16 mars 2007 (État le 1<sup>er</sup> novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -55,18 +55,14 @@ Au sens de la présente ordonnance, on entend par:
   - 3\. de transplants standardisés issus des organes, tissus ou cellules mentionnés aux ch. 1 et 2;
 
 - b. *personnes de contact:* personnes susceptibles d’entrer en contact direct ou indirect avec des liquides biologiques du receveur, notamment par voie percutanée ou par toute autre forme d’exposition directe, ou encore par contact avec les muqueuses, notamment le partenaire intime, le personnel médical et le personnel de laboratoire;
-- c.[^2-1] *intervention liée à la santé:* tout acte préventif, diagnostique, thérapeutique, palliatif ou de réhabilitation étudié dans le cadre d’un essai clinique;
-- d.[^2-2] *promoteur:* toute personne ou institution dont le siège ou une représentation se trouvent en Suisse, qui assume la responsabilité de l’initiative d’un essai clinique en Suisse, notamment du lancement, de la gestion et du financement;
-- e.[^2-3] *investigateur:* toute personne responsable de la réalisation pratique de l’essai clinique en Suisse et de la protection des personnes participant au projet de recherche au lieu de réalisation; lorsqu’un investigateur assume la responsabilité de l’initiative d’un essai clinique en Suisse, il est également promoteur.
+- c. à e. …[^2-1]
 
-<sup>2</sup> Au surplus, les définitions données à l’art. 2, al. 1, de l’ordonnance du 16 mars 2007 sur la transplantation[^2-4] et à l’art. 2 de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^2-5] sont applicables.[^2-6]
+<sup>2</sup> Au surplus, les définitions données à l’art. 2, al. 1, de l’ordonnance du 16 mars 2007 sur la transplantation[^2-2] et à l’art. 2 de l’ordonnance du 20 septembre 2013 sur les essais cliniques (OClin)[^2-3] sont applicables.[^2-4]
 
-[^2-1]: Introduite par le ch. 2 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^2-2]: Introduite par le ch. 2 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^2-3]: Introduite par le ch. 2 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^2-4]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
-[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2-6]: Nouvelle teneur selon le ch. 2 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^2-1]: Introduites par le ch. 2 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)). Abrogées par le ch. III 1 de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-2]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^2-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-4]: Nouvelle teneur selon le ch. 2 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 ## Section 2 Essais cliniques
 
@@ -194,13 +190,15 @@ Lorsque le receveur décède, le détenteur de l’autorisation:
 
 **Application de la législation relative à la recherche sur l’être humain**[^10-1]
 
-<sup>1</sup> Les art. 3 à 5, 6, al. 1, 2 et 4, et les art. 7 à 9, 24 à 29, 37 à 41, 43 et 44 OClin[^10-2] ainsi que l’ordonnance d’organisation concernant la LRH du 20 septembre 2013[^10-3] sont applicables.
+<sup>1</sup> Les art. 3 à 5, l’art. 6, al. 1, 2 et 4, et les art. 7, 7*a*, 7*c* à 9, 23*a* à 27, 29, 36*a*, 37 à 41 et 43 à 44*a* OClin[^10-2] ainsi que l’ordonnance d’organisation du 20 septembre 2013 concernant la LRH[^10-3] sont applicables.[^10-4]
 
-<sup>2</sup> Les obligations à l’égard de l’Institut suisse des produits thérapeutiques énoncées aux art. 37 à 41 et 43 OClin, sont applicables à l’égard de l’OFSP pour les essais cliniques de xénotransplantation.
+<sup>2</sup> Les obligations à l’égard de Swissmedic[^10-5] énoncées aux art. 37 à 41 et 43 OClin, sont applicables à l’égard de l’OFSP pour les essais cliniques de xénotransplantation.
 
 [^10-1]: Nouvelle teneur selon le ch. 2 de l’annexe 6 à l’O du 20 sept. 2013 sur les essais cliniques, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^10-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^10-3]: [RS 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^10-4]: Nouvelle teneur selon le ch. III 1 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^10-5]: Nouvelle expression selon le ch. III 1 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 11
 
@@ -327,13 +325,13 @@ La xénotransplantation est interdite s’il y a un indice suggérant la présen
 
 #### Art. 21
 
-**Etiquetage des organes, tissus ou cellules d’origine animale génétiquement modifiés**
+**Étiquetage des organes, tissus ou cellules d’origine animale génétiquement modifiés**
 
 Les organes, tissus ou cellules qui sont issus d’animaux génétiquement modifiés ou qui ont subi une modification génétique après leur prélèvement, les transplants standardisés qui en sont issus et les animaux ressources génétiquement modifiés sont étiquetés avec la mention «génétiquement modifié».
 
 #### Art. 22
 
-**Echantillons biologiques**
+**Échantillons biologiques**
 
 <sup>1</sup> Le détenteur de l’autorisation prélève une quantité suffisante d’échantillons biologiques en vue des examens visés aux art. 7 à 9, et 15 à 19.
 
@@ -448,9 +446,9 @@ Si des organes, des tissus ou des cellules d’origine animale génétiquement m
 
 <sup>1</sup> L’OFSP statue sur les demandes d’autorisation de xénotransplantation impliquant l’emploi d’organes, de tissus ou de cellules d’origine animale génétiquement modifiés, ou de transplants standardisés qui en sont issus, après avoir pris l’avis de l’OFEV, de la Commission fédérale d’experts pour la sécurité biologique (CFSB) et de la Commission fédérale d’éthique pour la biotechnologie dans le domaine non humain (CENH).
 
-<sup>2</sup> Si la demande concerne une xénotransplantation au sens de l’art. 2, al. 1, let. a, ch. 3, l’OFSP demande en outre l’avis de l’Institut suisse des produits thérapeutiques.
+<sup>2</sup> Si la demande concerne une xénotransplantation au sens de l’art. 2, al. 1, let. a, ch. 3, l’OFSP demande en outre l’avis de Swissmedic.
 
-<sup>3</sup> Il transmet sa décision à l’OFEV, à la CFSB et à la CENH; lorsque la décision concerne une demande d’autorisation d’essai clinique, il la transmet également à la commission d’éthique compétente et, lorsqu’elle concerne une demande visée à l’al. 2, également à l’Institut suisse des produits thérapeutiques.
+<sup>3</sup> Il transmet sa décision à l’OFEV, à la CFSB et à la CENH; lorsque la décision concerne une demande d’autorisation d’essai clinique, il la transmet également à la commission d’éthique compétente et, lorsqu’elle concerne une demande visée à l’al. 2, également à Swissmedic.
 
 #### Art. 30
 
@@ -569,7 +567,7 @@ Annexe 2
 [^annex2-lvlu1-lvl3-1]: Pour autant qu’elles soient disponibles à l’avance; les autres indications sont fournies ultérieurement.
 [^annex2-lvlu1-lvl3-2]: Les indications relatives aux examens finaux qui conduisent à l’approbation de la transplantation sont fournies ultérieurement si elles ne sont pas disponibles au moment de la remise de la demande.
 
-### 4 Journal de santé de l’animal ressource****
+### 4 Journal de santé de l’animal ressource
 
 [^annex2-lvlu1-lvl4-1]
 

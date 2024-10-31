@@ -3,11 +3,11 @@ sr: "810.213"
 title: "Ordinanza del 16 marzo 2007 concernente il trapianto di organi, tessuti e cellule animali (Ordinanza sugli xenotrapianti)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/283"
 language: it
-version: 2014-01-01
+version: 2024-11-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/283/20140101/it/xml/fedlex-data-admin-ch-eli-cc-2007-283-20140101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/283/20140101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/283/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2007-283-20241101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/283/20241101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/283/20140101/it"
 
 (Ordinanza sugli xenotrapianti)
 
-del 16 marzo 2007 (Stato 1° gennaio 2014)
+del 16 marzo 2007 (Stato 1° novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -55,18 +55,14 @@ Nella presente ordinanza s’intende per:
   - 3\. espianti standardizzati fabbricati con gli organi, i tessuti o le cellule di cui ai numeri 1 o 2;
 
 - b. *persone a contatto con il ricevente*: persone le quali, direttamente o indirettamente, possono entrare in contatto con liquidi corporei di riceventi, segnatamente mediante esposizione percutanea o altra esposizione diretta nonché mediante contatto della mucosa, segnatamente i partner intimi, il personale medico e il personale di laboratorio;
-- c.[^2-1] *intervento relativo alla salute*: azione preventiva, diagnostica, terapeutica, palliativa o riabilitativa esaminata nel quadro di una sperimentazione clinica;
-- d.[^2-2] *promotore*: persona o istituzione con sede o rappresentanza in Svizzera che assume la responsabilità dell’organizzazione di una sperimentazione clinica, segnatamente dell’avvio, della gestione e del finanziamento della stessa in Svizzera;
-- e.[^2-3] *sperimentatore*: persona responsabile sul posto dello svolgimento pratico di una sperimentazione clinica in Svizzera, nonché della protezione delle persone partecipanti; lo sperimentatore che assume la responsabilità di organizzare in Svizzera una sperimentazione clinica ne è allo stesso tempo il promotore.
+- c. a e. ... [^2-1]
 
-<sup>2</sup> Per il rimanente si applicano le definizioni di cui all’articolo 2 capoverso 1 dell’ordinanza del 16 marzo 2007[^2-4] sui trapianti e all’articolo 2 dell’ordinanza del 20 settembre 2013[^2-5] sulle sperimentazioni cliniche nella ricerca umana (OSRUm).[^2-6]
+<sup>2</sup> Per il rimanente si applicano le definizioni di cui all’articolo 2 capoverso 1 dell’ordinanza del 16 marzo 2007[^2-2] sui trapianti e all’articolo 2 dell’ordinanza del 20 settembre 2013[^2-3] sulle sperimentazioni cliniche nella ricerca umana (OSRUm).[^2-4]
 
-[^2-1]: Introdotta dal n. 2 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^2-2]: Introdotta dal n. 2 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^2-3]: Introdotta dal n. 2 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^2-4]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
-[^2-5]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2-6]: Nuovo testo giusta il n. 2 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^2-1]: Introdotte dall’all. 6 n. 2 dell’O del 20 set. 2013 sulle sperimentazioni cliniche ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)). Abrogate dal n. III 1 dell’O del 7 giu. 2024, con effetto dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-2]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^2-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-4]: Nuovo testo giusta l’all. 6 n. 2 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 ## Sezione 2: Sperimentazioni cliniche
 
@@ -116,7 +112,7 @@ Le sperimentazioni cliniche di xenotrapianti possono essere eseguite su persone 
   - 2\. il soggetto dello studio acquista con grande probabilità la capacità di discernimento,
   - 3\. lo xenotrapianto riduce con grande probabilità e in misura elevata la sofferenza del soggetto dello studio.
 
-[^4-1]: Abrogate dal n. 2 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^4-1]: Abrogate dell’all. 6 n. 2 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 #### Art. 5
 
@@ -137,7 +133,7 @@ L’informazione include segnatamente:
 
 <sup>3</sup> ...[^5-1]
 
-[^5-1]: Abrogato dal n. 2 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^5-1]: Abrogato dell’all. 6 n. 2 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 #### Art. 6
 
@@ -194,19 +190,21 @@ Se il ricevente decede, il titolare dell’autorizzazione:
 
 **Applicabilità della legislazione sulla ricerca umana**[^10-1]
 
-<sup>1</sup> Sono applicabili gli articoli 3–5, 6 capoversi 1, 2 e 4, e gli articoli 7–9, 24–29, 37–41, 43 e 44 OSRUm[^10-2], come pure l’ordinanza del 20 settembre 2013[^10-3] sull’organizzazione relativa alla LRUm.
+<sup>1</sup> Sono applicabili gli articoli 3–5, 6 capoversi 1, 2 e 4, e gli articoli 7, 7*a*, 7*c*–9, 23*a*–27, 29, 36*a*, 37–41 e 43–44*a* OSRUm[^10-2], nonché l’ordinanza del 20 settembre 2013[^10-3] sull’organizzazione relativa alla LRUm.[^10-4]
 
-<sup>2</sup> Gli obblighi di cui agli articoli 37–41 e 43 OSRUm nei confronti dell’Istituto svizzero per gli agenti terapeutici valgono nei confronti dell’UFSP per le sperimentazioni cliniche di xenotrapianti.
+<sup>2</sup> Gli obblighi di cui agli articoli 37–41 e 43 OSRUm nei confronti di Swissmedic[^10-5] valgono nei confronti dell’UFSP per le sperimentazioni cliniche di xenotrapianti.
 
-[^10-1]: Nuovo testo giusta il n. 2 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^10-1]: Nuovo testo giusta l’all. 6 n. 2 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^10-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^10-3]: [RS 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^10-4]: Nuovo testo giusta il n. III 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^10-5]: Nuova espressione. giusta il n. III 1 dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 11
 
 [^11-1]
 
-[^11-1]: Abrogato dal n. 2 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^11-1]: Abrogato dell’all. 6 n. 2 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, con effetto dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 #### Art. 12
 
@@ -216,7 +214,7 @@ Se il ricevente decede, il titolare dell’autorizzazione:
 
 <sup>2</sup> Il titolare dell’autorizzazione deve inoltre presentare all’UFSP i documenti interessati dalla modifica.[^12-1]
 
-[^12-1]: Nuovo testo giusta il n. 2 dell’all. 6 all’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^12-1]: Nuovo testo giusta l’all. 6 n. 2 dell’O del 20 set. 2013 sulle sperimentazioni cliniche, in vigore dal 1° gen. 2014 ([RU 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 ## Sezione 3: Trattamenti standard
 
@@ -448,9 +446,9 @@ Per lo xenotrapianto nell’ambito del quale sono utilizzati organi, tessuti o c
 
 <sup>1</sup> L’UFSP decide in merito a domande concernenti uno xenotrapianto con organi, tessuti o cellule animali geneticamente modificati o con espianti standardizzati fabbricati con essi, ottenuti i pareri dell’UFAM, della Commissione federale per la sicurezza biologica (CFSB) e della Commissione federale d’etica per l’ingegneria genetica nel settore non umano (CENU).
 
-<sup>2</sup> Se la domanda concerne uno xenotrapianto secondo l’articolo 2 capoverso 1 lettera a numero 3, l’UFSP chiede inoltre il parere dell’Istituto svizzero per gli agenti terapeutici.
+<sup>2</sup> Se la domanda concerne uno xenotrapianto secondo l’articolo 2 capoverso 1 lettera a numero 3, l’UFSP chiede inoltre il parere di Swissmedic.
 
-<sup>3</sup> L’UFSP presenta la sua decisione all’UFAM, alla CFSB, alla CENU e, nel caso di sperimentazioni cliniche, anche alla competente Commissione d’etica; nel caso di domande di cui al capoverso 2, anche all’Istituto svizzero per gli agenti terapeutici.
+<sup>3</sup> L’UFSP presenta la sua decisione all’UFAM, alla CFSB, alla CENU e, nel caso di sperimentazioni cliniche, anche alla competente Commissione d’etica; nel caso di domande di cui al capoverso 2, anche a Swissmedic.
 
 #### Art. 30
 
@@ -569,7 +567,7 @@ Allegato 2
 [^annex2-lvlu1-lvl3-1]: Se sono già disponibili; le altre indicazioni sono fornite in seguito.
 [^annex2-lvlu1-lvl3-2]: Le indicazioni devono essere fornite unitamente agli esami finali che portano all’approvazione del trapianto qualora non siano disponibili al momento dell’inoltro della domanda.
 
-### 4 Cartella clinica dell’animale da espianto****
+### 4 Cartella clinica dell’animale da espianto
 
 [^annex2-lvlu1-lvl4-1]
 

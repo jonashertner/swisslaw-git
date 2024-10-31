@@ -3,11 +3,11 @@ sr: "810.213"
 title: "Verordnung vom 16. März 2007 über die Transplantation von tierischen Organen, Geweben und Zellen (Xenotransplantationsverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/283"
 language: de
-version: 2014-01-01
+version: 2024-11-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/283/20140101/de/xml/fedlex-data-admin-ch-eli-cc-2007-283-20140101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/283/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/283/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2007-283-20241101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/283/20241101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/283/20140101/de"
 
 (Xenotransplantationsverordnung)
 
-vom 16. März 2007 (Stand am 1. Januar 2014)
+vom 16. März 2007 (Stand am 1. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -55,18 +55,14 @@ In dieser Verordnung bedeuten:
   - 3\. Transplantatprodukten, die aus den in Ziffer 1 oder 2 aufgeführten Organen, Geweben oder Zellen hergestellt wurden;
 
 - b. *Kontaktpersonen:* Personen, die direkt oder indirekt in Kontakt kommen können mit Körperflüssigkeiten von Empfängerinnen oder Empfängern, namentlich durch perkutane oder andere direkte Exposition sowie durch Schleimhautkontakt, insbesondere Intimpartnerinnen und Intimpartner, medizinisches Personal und Laborpersonal.
-- c.[^2-1] *gesundheitsbezogene Intervention:* präventive, diagnostische, therapeutische, palliative oder rehabilitative Handlung, die im Rahmen eines klinischen Versuchs untersucht wird;
-- d.[^2-2] *Sponsor:* Person oder Institution mit Sitz oder Vertretung in der Schweiz, die für die Veranlassung eines klinischen Versuchs, namentlich für dessen Einleitung, Management und Finanzierung in der Schweiz die Verantwortung übernimmt;
-- e.[^2-3] *Prüfperson:* Person, die in der Schweiz für die praktische Durchführung des klinischen Versuchs sowie für den Schutz der teilnehmenden Personen vor Ort verantwortlich ist; wenn eine Prüfperson für die Veranlassung eines klinischen Versuchs in der Schweiz die Verantwortung übernimmt, ist sie zugleich Sponsor.
+- [tab] c.–e. ...[^2-1]
 
-<sup>2</sup> Im Übrigen gelten die Begriffsbestimmungen nach Artikel 2 Absatz 1 der Transplantationsverordnung vom 16. März 2007[^2-4] sowie nach Artikel 2 der Verordnung vom 20. September 2013[^2-5] über klinische Versuche (KlinV).[^2-6]
+<sup>2</sup> Im Übrigen gelten die Begriffsbestimmungen nach Artikel 2 Absatz 1 der Transplantationsverordnung vom 16. März 2007[^2-2] sowie nach Artikel 2 der Verordnung vom 20. September 2013[^2-3] über klinische Versuche (KlinV).[^2-4]
 
-[^2-1]: Eingefügt durch Anhang 6 Ziff. 2 der V vom 20. Sept. 2013 über klinische Versuche, in Kraft seit 1. Jan. 2014 ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^2-2]: Eingefügt durch Anhang 6 Ziff. 2 der V vom 20. Sept. 2013 über klinische Versuche, in Kraft seit 1. Jan. 2014 ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^2-3]: Eingefügt durch Anhang 6 Ziff. 2 der V vom 20. Sept. 2013 über klinische Versuche, in Kraft seit 1. Jan. 2014 ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
-[^2-4]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
-[^2-5]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^2-6]: Fassung gemäss Anhang 6 Ziff. 2 der V vom 20. Sept. 2013 über klinische Versuche, in Kraft seit 1. Jan. 2014 ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
+[^2-1]: Eingefügt durch Anhang 6 Ziff. 2 der V vom 20. Sept. 2013 über klinische Versuche ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)). Aufgehoben durch Ziff. III 1 der V vom 7. Juni 2024, mit Wirkung seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-2]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
+[^2-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^2-4]: Fassung gemäss Anhang 6 Ziff. 2 der V vom 20. Sept. 2013 über klinische Versuche, in Kraft seit 1. Jan. 2014 ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 
 ## 2. Abschnitt: Klinische Versuche
 
@@ -194,13 +190,15 @@ Stirbt die Empfängerin oder der Empfänger, so muss die Inhaberin oder der Inha
 
 **Anwendbarkeit der Humanforschungsgesetzgebung**[^10-1]
 
-<sup>1</sup> Die Artikel 3–5, 6 Absätze 1, 2 und 4, Art. 7–9, 24–29, 37–41, 43 und 44 KlinV[^10-2] sowie die Organisationsverordnung HFG vom 20. September 2013[^10-3] sind anwendbar.
+<sup>1</sup> Die Artikel 3–5, 6 Absätze 1, 2 und 4, Artikel 7, 7*a*, 7*c*–9, 23*a*–27, 29, 36*a*, 37–41 und 43–44*a* KlinV[^10-2] sowie die Organisationsverordnung HFG vom 20. September 2013[^10-3] sind anwendbar.[^10-4]
 
-<sup>2</sup> Die in den Artikeln 37–41 und 43 KlinV aufgeführten Pflichten gegenüber dem Schweizerischen Heilmittelinstitut gelten für klinische Versuche der Xenotransplantation gegenüber dem BAG.
+<sup>2</sup> Die in den Artikeln 37–41 und 43 KlinV aufgeführten Pflichten gegenüber Swissmedic[^10-5] gelten für klinische Versuche der Xenotransplantation gegenüber dem BAG.
 
 [^10-1]: Fassung gemäss Anhang 6 Ziff. 2 der V vom 20. Sept. 2013 über klinische Versuche, in Kraft seit 1. Jan. 2014 ([AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)).
 [^10-2]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^10-3]: [SR 810.308](https://fedlex.data.admin.ch/eli/cc/2013/644)
+[^10-4]: Fassung gemäss Ziff. III 1 der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^10-5]: Ausdruck gemäss Ziff. III 1 der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 11
 
@@ -448,9 +446,9 @@ Werden für die Xenotransplantation gentechnisch veränderte tierische Organe, G
 
 <sup>1</sup> Das BAG entscheidet über Gesuche für eine Xenotransplantation mit gentechnisch veränderten tierischen Organen, Geweben oder Zellen oder daraus hergestellten Transplantatprodukten, nachdem es die Stellungnahme des BAFU, der Eidgenössischen Fachkommission für biologische Sicherheit (EFBS) und der Eidgenössischen Ethikkommission für die Biotechnologie im Ausserhumanbereich (EKAH) eingeholt hat.
 
-<sup>2</sup> Betrifft das Gesuch eine Xenotransplantation nach Artikel 2 Absatz 1 Buchstabe a Ziffer 3, so holt das BAG zusätzlich die Stellungnahme des Schweizerischen Heilmittelinstituts ein.
+<sup>2</sup> Betrifft das Gesuch eine Xenotransplantation nach Artikel 2 Absatz 1 Buchstabe a Ziffer 3, so holt das BAG zusätzlich die Stellungnahme von Swissmedic ein.
 
-<sup>3</sup> Es stellt seinen Entscheid dem BAFU, der EFBS, der EKAH, bei klinischen Versuchen zudem der zuständigen Ethikkommission und bei Gesuchen nach Absatz 2 zudem dem Schweizerischen Heilmittelinstitut zu.
+<sup>3</sup> Es stellt seinen Entscheid dem BAFU, der EFBS, der EKAH, bei klinischen Versuchen zudem der zuständigen Ethikkommission und bei Gesuchen nach Absatz 2 zudem Swissmedic zu.
 
 #### Art. 30
 
@@ -571,7 +569,7 @@ Die Dokumentation muss folgende Angaben enthalten:
 [^annex2-lvlu1-lvl3-1]: Soweit im Voraus verfügbar; restliche Aufzeichnungen sind nachzureichen.
 [^annex2-lvlu1-lvl3-2]: Die Angaben zu den Enduntersuchungen, die zur Freigabe zur Transplantation führen, sind nachzureichen, falls sie im Zeitpunkt der Gesuchseinreichung noch nicht verfügbar sind.
 
-### 4 Gesundheitsjournal zum Spendertier****
+### 4 Gesundheitsjournal zum Spendertier
 
 [^annex2-lvlu1-lvl4-1]
 
