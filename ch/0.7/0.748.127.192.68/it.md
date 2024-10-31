@@ -3,11 +3,11 @@ sr: "0.748.127.192.68"
 title: Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo (con allegato e atto finale)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/258"
 language: it
-version: 2024-02-01
+version: 2024-11-01
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/258/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2002-258-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/258/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/258/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2002-258-20241101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/258/20241101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Concluso il 21 giugno 1999 Approvato dall’Assemblea federale l’8 ottobre 1999[^t-1] Ratificato con strumenti depositati il 16 ottobre 2000
 
-(Stato 1° febbraio 2024)
+(Stato 1° novembre 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. e del DF dell’8 ott. 1999 ([RU 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
 
@@ -360,14 +360,14 @@ Allegato[^t-2]
 Ai fini del presente Accordo:
 
 - – in virtù del trattato di Lisbona, entrato in vigore il 1° dicembre 2009, l’Unione europea sostituisce e succede alla Comunità europea;
-- – in tutti i casi in cui gli atti richiamati nel presente allegato contengano riferimenti agli Stati membri della Comunità europea, quale sostituita dall’Unione europea, o prevedano la necessità di un collegamento con questi ultimi, tali riferimenti si intendono estesi, ai fini del presente Accordo, anche alla Svizzera o alla necessità di un collegamento identico con tale Paese;
+- – in tutti i casi in cui gli atti richiamati nel presente allegato contengano riferimenti agli Stati membri della Comunità europea, quale sostituita dall’Unione europea, o prevedano la necessità di un collegamento con questi ultimi, tali riferimenti si intendono estesi, ai fini del presente Accordo, anche alla Svizzera o alla necessità di un collegamento identico con tale paese;
 - – i riferimenti ai regolamenti del Consiglio (CEE) n. 2407/92 e (CEE) n. 2408/92, di cui agli articoli 4, 15, 18, 27 e 35 dell’Accordo, si intendono fatti al regolamento (CE) n. 1008/2008 del Parlamento europeo e del Consiglio;
 - – fatto salvo l’articolo 15 del presente Accordo, il termine «vettore aereo comunitario», utilizzato nei seguenti regolamenti e direttive dell’Unione, comprende un vettore aereo detentore di una licenza di esercizio e avente il proprio centro principale di attività ed, eventualmente, la propria sede sociale in Svizzera, a norma del regolamento (CE) n. 1008/2008. Qualsiasi riferimento al regolamento (CEE) n. 2407/92 del Consiglio si intende fatto al regolamento (CE) n. 1008/2008;
 - – nei testi che seguono gli eventuali riferimenti agli articoli 81 e 82 del trattato o agli articoli 101 e 102 del trattato sul funzionamento dell’Unione europea si intendono fatti agli articoli 8 e 9 del presente Accordo.
 
 ## 1. Liberalizzazione e altre norme in materia di aviazione civile
 
-[^t-2]: Nuovo testo giusta la Dec. n. 2/2023 del Comitato misto per il trasporto aereo Svizzera/UE del 23 nov. 2023, in vigore per la Svizzera dal 1° feb. 2024 ([RU 2024 26](https://fedlex.data.admin.ch/eli/oc/2024/26)).
+[^t-2]: Nuovo testo giusta la Dec. n. 1/2024 del Comitato misto per il trasporto aereo Svizzera/UE del 24 ott. 2024, in vigore per la Svizzera dal 1° nov. 2024 ([RU 2024 673](https://fedlex.data.admin.ch/eli/oc/2024/673)).
 
 **Regolamento (CE) n. 1008/2008** **del Parlamento europeo e del Consiglio**, del 24 settembre 2008, recante norme comuni per la prestazione di servizi aerei nella Comunità (rifusione) (GU L 293 del 31.10.2008, pag. 3), modificato da:
 
@@ -376,7 +376,7 @@ Ai fini del presente Accordo:
 - – regolamento delegato (UE) 2020/2114 della Commissione (GU L 426 del 17.12.2020, pag. 1). Il regolamento (UE) 2020/2114 è applicabile in Svizzera in tutti i suoi elementi dal 18.12.2020;
 - – regolamento delegato (UE) 2020/2115 della Commissione (GU L 426 del 17.12.2020, pag. 4). Il regolamento (UE) 2020/2115 è applicabile in Svizzera in tutti i suoi elementi dal 18.12.2020.
 
-**Direttiva 2000/79 del Consiglio**, del 27 novembre 2000, relativa all’attuazione dell’Accordo europeo sull’organizzazione dell’orario di lavoro del personale di volo nell’aviazione civile concluso da Association of European Airlines (AEA), European Transport Workers’ Federation (ETF), European Cockpit Association (ECA), European Regions Airline Association (ERA) e International Air Carrier Association (IACA) (testo rilevante ai fini del SEE) (GU L 302 dell’1.12.2000, pag. 57).
+**Direttiva 2000/79 del Consiglio**, del 27 novembre 2000, relativa all’attuazione dell’accordo europeo sull’organizzazione dell’orario di lavoro del personale di volo nell’aviazione civile concluso da Association of European Airlines (AEA), European Transport Workers’ Federation (ETF), European Cockpit Association (ECA), European Regions Airline Association (ERA) e International Air Carrier Association (IACA) (testo rilevante ai fini del SEE) (GU L 302 dell’1.12.2000, pag. 57).
 
 **Direttiva 2003/88/CE** **del Parlamento europeo e del Consiglio**, del 4 novembre 2003, concernente taluni aspetti dell’organizzazione dell’orario di lavoro (GU L 299 del 18.11.2003, pag. 9).
 
@@ -386,7 +386,7 @@ Ai fini del presente Accordo:
 
 - – regolamento (CE) n. 158/2007 della Commissione (GU L 49 del 17.2.2007, pag. 9).
 
-**Regolamento (CE) n. 785/2004** **del Parlamento europeo e del Consiglio**, del 21 aprile 2004, relativo ai requisiti assicurativi applicabili ai vettori aerei e agli esercenti di aeromobili (GU L 138 del 30.4.2004, pag. 1), modificato da:
+**Regolamento (CE) n. 785/2004 del Parlamento europeo e del Consiglio**, del 21 aprile 2004, relativo ai requisiti assicurativi applicabili ai vettori aerei e agli esercenti di aeromobili (GU L 138 del 30.4.2004, pag. 1), modificato da:
 
 - – regolamento (UE) n. 285/2010 della Commissione (GU L 87 del 7.4.2010, pag. 19);
 - – regolamento delegato (UE) 2020/1118 della Commissione (GU L 243 del 29.7.2020, pag. 1).
@@ -396,22 +396,22 @@ Ai fini del presente Accordo:
 - – regolamento (CE) n. 793/2004 (GU L 138 del 30.4.2004, pag. 50);
 - – regolamento (UE) 2020/459 (GU L 99 del 31.3.2020, pag. 1);
 - – regolamento delegato (UE) 2020/1477 della Commissione (GU L 338 del 15.10.2020, pag. 4);
-- – regolamento (UE) 2021/250 (GU L 58 del 19.2.2021, pag. 1). L’articolo 10<sup>bis</sup>, paragrafi 1 e 4, del regolamento (CEE) n. 95/93, quale modificato dall’articolo 1, paragrafo 6, del regolamento (UE) 2021/250 è applicabile in Svizzera dal 20.2.2021;
+- – regolamento (UE) 2021/250 (GU L 58 del 19.2.2021, pag. 1). L’articolo 10 bis, paragrafi 1 e 4, del regolamento (CEE) n. 95/93, quale modificato dall’articolo 1, paragrafo 6, del regolamento (UE) 2021/250 è applicabile in Svizzera dal 20.2.2021;
 - – regolamento delegato (UE) 2021/1889 della Commissione (GU L 384 del 29.10.2021, pag. 20);
 - – regolamento delegato (UE) 2022/255 della Commissione (GU L 42 del 23.2.2022, pag. 1);
 - – regolamento (UE) 2022/2038 (GU L 275 del 25.10.2022, pag. 14).
 
-**Direttiva 2009/12/CE** **del Parlamento europeo e del Consiglio**, dell’11 marzo 2009, concernente i diritti aeroportuali (testo rilevante ai fini del SEE) (GU L 70 del 14.3.2009, pag. 11).
+**Direttiva 2009/12/CE del Parlamento europeo e del Consiglio**, dell’11 marzo 2009, concernente i diritti aeroportuali (testo rilevante ai fini del SEE) (GU L 70 del 14.3.2009, pag. 11).
 
 **Direttiva 96/67/CE del Consiglio**, del 15 ottobre 1996, relativa all’accesso al mercato dei servizi di assistenza a terra negli aeroporti della Comunità (GU L 272 del 25.10.1996, pag. 36), articoli da 1 a 9 e da 11 a 23 e articolo 25.
 
-**Regolamento (CE) n. 80/2009** **del Parlamento europeo e del Consiglio**, del 14 gennaio 2009, relativo a un codice di comportamento in materia di sistemi telematici di prenotazione e che abroga il regolamento (CEE) n. 2299/89 del Consiglio (testo rilevante ai fini del SEE) (GU L 35 del 4.2.2009, pag. 47).
+**Regolamento (CE) n. 80/2009 del Parlamento europeo e del Consiglio**, del 14 gennaio 2009, relativo a un codice di comportamento in materia di sistemi telematici di prenotazione e che abroga il regolamento (CEE) n. 2299/89 del Consiglio (testo rilevante ai fini del SEE) (GU L 35 del 4.2.2009, pag. 47).
 
 ## 2. Regole di concorrenza
 
-**Regolamento (CE) n. 1/2003 del Consiglio**, del 16 dicembre 2002, concernente l’applicazione delle regole di concorrenza di cui agli articoli 81 e 82 del trattato (testo rilevante ai fini del SEE) (GU L 1 del 4.1.2003, pag. 1) (art. da 1 a 13 e da 15 a 45).
+**Regolamento (CE) n. 1/2003 del Consiglio**, del 16 dicembre 2002, concernente l’applicazione delle regole di concorrenza di cui agli articoli 81 e 82 del trattato (testo rilevante ai fini del SEE) (GU L 1 del 4.1.2003, pag. 1) (art. da 1 a 13 e da 15 a 45)
 
-(Nella misura in cui tale regolamento è pertinente per l’applicazione del presente Accordo. L’aggiunta di tale regolamento non incide sulla ripartizione dei compiti prevista dal presente Accordo.)
+(nella misura in cui tale regolamento è pertinente per l’applicazione del presente Accordo. L’aggiunta di tale regolamento non incide sulla ripartizione dei compiti prevista dal presente Accordo.)
 
 **Regolamento (CE) n. 773/2004 della Commissione**, del 7 aprile 2004, relativo ai procedimenti svolti dalla Commissione a norma degli articoli 81 e 82 del trattato CE (testo rilevante ai fini del SEE) (GU L 123 del 27.4.2004, pag. 18), modificato da:
 
@@ -442,9 +442,9 @@ Nel rispetto dei termini di cui all’articolo 4, paragrafi 4 e 5, all’articol
 
 **Regolamento (CE) n. 487/2009 del Consiglio**, del 25 maggio 2009, relativo all’applicazione dell’articolo 81, paragrafo 3, del trattato a talune categorie di accordi e pratiche concordate nel settore dei trasporti aerei (versione codificata) (testo rilevante ai fini del SEE) (GU L 148 dell’11.6.2009, pag. 1).
 
-## 3. Sicurezza aerea *(safety)*
+## 3. Sicurezza aerea (safety)
 
-**Regolamento (UE) 2018/1139** **del Parlamento europeo e del Consiglio**, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio (GU L 212 del 22.8.2018, pag. 1), modificato da:
+**Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio**, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio (GU L 212 del 22.8.2018, pag. 1), modificato da:
 
 - – regolamento delegato (UE) 2021/1087 della Commissione (GU L 236 del 5.7.2021, pag. 1).
 
@@ -487,19 +487,21 @@ Ai fini del presente Accordo il testo del regolamento si intende adattato come s
 
 - f) all’articolo 122 è aggiunto il paragrafo seguente:
 - «6. Le disposizioni relative al controllo finanziario esercitato dall’Unione in Svizzera nei riguardi dei partecipanti alle attività dell’Agenzia sono stabilite nell’allegato B del presente allegato.»;
-- g)
-
-  l’allegato I del regolamento è esteso ai seguenti aeromobili, in quanto prodotti disciplinati dall’articolo 3, paragrafo 1, lettera a), del regolamento (UE) n. 748/2012 della Commissione, del 3 agosto 2012, che stabilisce le regole di attuazione per la certificazione di aeronavigabilità ed ambientale di aeromobili e relativi prodotti, parti e pertinenze, nonché per la certificazione delle imprese di progettazione e di produzione[^annexu1-lvl3-1]:
-
-  - [tab] A/c – [HB-JES] – tipo Gulfstream G-V
-  - [tab] A/c – [HB-ZDF] – tipo MD900;
-
+- g) l’allegato I del regolamento è esteso ai seguenti aeromobili, in quanto prodotti disciplinati dall’articolo 3, paragrafo 1, lettera a), del regolamento (UE) n. 748/2012 della Commissione, del 3 agosto 2012, che stabilisce le regole di attuazione per la certificazione di aeronavigabilità ed ambientale di aeromobili e relativi prodotti, parti e pertinenze, nonché per la certificazione delle imprese di progettazione e di produzione[^annexu1-lvl3-1]:
+- A/c – [HB-JES] – tipo Gulfstream G–V
+- A/c – [HB-ZDF] – tipo MD900;
 - h) all’articolo 132, paragrafo 1, il riferimento al regolamento (UE) 2016/679 si intende fatto, per quanto riguarda la Svizzera, alla pertinente legislazione nazionale.
 - i) l’articolo 140, paragrafo 6, non si applica alla Svizzera.
 
 **Regolamento delegato (UE) 2022/1645 della Commissione**, del 14 luglio 2022, recante modalità di applicazione del regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio per quanto riguarda i requisiti per la gestione dei rischi per la sicurezza delle informazioni con un potenziale impatto sulla sicurezza aerea per le imprese disciplinate dai regolamenti (UE) n. 748/2012 e (UE) n. 139/2014 della Commissione e che modifica i regolamenti (UE) n. 748/2012 e (UE) n. 139/2014 della Commissione (GU L 248 del 26.9.2022, pag. 18).
 
-**Regolamento di esecuzione (UE) 2023/203 della Commissione**, del 27 ottobre 2022, che stabilisce le regole per l’applicazione del regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio per quanto riguarda i requisiti relativi alla gestione dei rischi per la sicurezza delle informazioni con un potenziale impatto sulla sicurezza aerea per le organizzazioni di cui ai regolamenti (UE) n. 1321/2014, (UE) n. 965/2012, (UE) n. 1178/2011 e (UE) 2015/340 della Commissione e ai regolamenti di esecuzione (UE) 2017/373 e (UE) 2021/664 della Commissione, e per le autorità competenti di cui ai regolamenti (UE) n. 748/2012, (UE) n. 1321/2014, (UE) n. 965/2012, (UE) n. 1178/2011, (UE) 2015/340 e (UE) n. 139/2014 della Commissione e ai regolamenti di esecuzione (UE) 2017/373 e (UE) 2021/664 della Commissione, e che modifica i regolamenti (UE) n. 1178/2011, (UE) n. 748/2012, (UE) n. 965/2012, (UE) n. 139/2014, (UE) n. 1321/2014 e (UE) 2015/340 della Commissione e i regolamenti di esecuzione (UE) 2017/373 e (UE) 2021/664 della Commissione (GU L 31 del 2.2.2023, pag. 1).
+**Regolamento di esecuzione (UE) 2023/203 della Commissione**, del 27 ottobre 2022, che stabilisce le regole per l’applicazione del regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio per quanto riguarda i requisiti relativi alla gestione dei rischi per la sicurezza delle informazioni con un potenziale impatto sulla sicurezza aerea per le organizzazioni di cui ai regolamenti (UE) n. 1321/2014, (UE) n. 965/2012, (UE) n. 1178/2011 e (UE) 2015/340 della Commissione e ai regolamenti di esecuzione (UE) 2017/373 e (UE) 2021/664 della Commissione, e per le autorità competenti di cui ai regolamenti (UE) n. 748/2012, (UE) n. 1321/2014, (UE) n. 965/2012, (UE) n. 1178/2011, (UE) 2015/340 e (UE) n. 139/2014 della Commissione e ai regolamenti di esecuzione (UE) 2017/373 e (UE) 2021/664 della Commissione, e che modifica i regolamenti (UE) n. 1178/2011, (UE) n. 748/2012, (UE) n. 965/2012, (UE) n. 139/2014, (UE) n. 1321/2014 e (UE) 2015/340 della Commissione e i regolamenti di esecuzione (UE) 2017/373 e (UE) 2021/664 della Commissione (GU L 31 del 2.2.2023, pag. 1), modificato da:
+
+- – regolamento di esecuzione (UE) 2023/1769 della Commissione (GU L 228 del 15.9.2023, pag. 19).
+
+**Regolamento di esecuzione (UE) 2023/2117 della Commissione**, del 12 ottobre 2023, che stabilisce le norme necessarie e i requisiti dettagliati per il funzionamento e la gestione di un repertorio di informazioni ai sensi del regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio (GU L, 2023/2117, 13.10.2023).
+
+I riferimenti al regolamento (UE) 2016/679[^annexu1-lvl3-2] contenuti nel regolamento di esecuzione (UE) 2023/2117 della Commissione si intendono fatti, per quanto riguarda la Svizzera, alla sua legislazione nazionale pertinente.
 
 **Regolamento (UE) n. 1178/2011 della Commissione**, del 3 novembre 2011, che stabilisce i requisiti tecnici e le procedure amministrative relativamente agli equipaggi dell’aviazione civile ai sensi del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio (GU L 311 del 25.11.2011, pag. 1), modificato da:
 
@@ -524,7 +526,7 @@ Ai fini del presente Accordo il testo del regolamento si intende adattato come s
 
 **Regolamento delegato (UE) 2020/723 della Commissione**, del 4 marzo 2020, che stabilisce norme dettagliate per quanto riguarda il riconoscimento dei certificati dei piloti rilasciati da paesi terzi e che modifica il regolamento (UE) n. 1178/2011 (GU L 170 del 2.6.2020, pag. 1).
 
-**Regolamento (CEE) n. 3922/91 del Consiglio**, del 16 dicembre 1991, concernente l’armonizzazione di regole tecniche e di procedure amministrative nel settore dell’aviazione civile (GU L 373 del 31.12.1991, pag. 4) (art. da 1 a 3, art. 4, par. 2, art. da 5 a 11 e art. 13), modificato da:
+**Regolamento (CEE) n. 3922/91 del Consiglio**, del 16 dicembre 1991, concernente l’armonizzazione di regole tecniche e di procedure amministrative nel settore dell’aviazione civile (GU L 373 del 31.12.1991, pag. 4) (art. da 1 a 3, art. 4, paragrafo 2, art. da 5 a 11 e art. 13), modificato da:
 
 - – regolamento (CE) n. 1899/2006 (GU L 377 del 27.12.2006, pag. 1);
 - – regolamento (CE) n. 1900/2006 (GU L 377 del 27.12.2006, pag. 176);
@@ -533,14 +535,14 @@ Ai fini del presente Accordo il testo del regolamento si intende adattato come s
 
 Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento (CEE) n. 3922/91 è abrogato a decorrere dalla data di applicazione delle norme dettagliate, adottate a norma dell’articolo 32, paragrafo 1, lettera a), del regolamento (UE) 2018/1139, sui limiti dei tempi di volo e di servizio nonché sui requisiti relativi ai tempi di riposo per quanto riguarda gli aerotaxi, i servizi medici di emergenza e le operazioni di trasporto aereo commerciale a pilotaggio singolo.
 
-**Regolamento (UE) n. 996/2010** **del Parlamento europeo e del Consiglio**, del 20 ottobre 2010, sulle inchieste e la prevenzione di incidenti e inconvenienti nel settore dell’aviazione civile e che abroga la direttiva 94/56/CE (testo rilevante ai fini del SEE) (GU L 295 del 12.11.2010, pag. 35), modificato da:
+**Regolamento (UE) n. 996/2010 del Parlamento europeo e del Consiglio**, del 20 ottobre 2010, sulle inchieste e la prevenzione di incidenti e inconvenienti nel settore dell’aviazione civile e che abroga la direttiva 94/56/CE (testo rilevante ai fini del SEE) (GU L 295 del 12.11.2010, pag. 35), modificato da:
 
 - – regolamento (UE) n. 376/2014 (GU L 122 del 24.4.2014, pag. 18);
 - – regolamento (UE) 2018/1139 (GU L 212 del 22.8.2018, pag. 1).
 
-**Regolamento (CE) n. 104/2004** **della Commissione**, del 22 gennaio 2004, recante norme sull’organizzazione e sulla composizione della commissione di ricorso dell’Agenzia europea per la sicurezza aerea (GU L 16 del 23.1.2004, pag. 20).
+**Regolamento (CE) n. 104/2004 della Commissione, del 22 gennaio 2004**, recante norme sull’organizzazione e sulla composizione della commissione di ricorso dell’Agenzia europea per la sicurezza aerea (GU L 16 del 23.1.2004, pag. 20).
 
-**Regolamento (CE) n. 2111/2005** **del Parlamento europeo e del Consiglio**, del 14 dicembre 2005, relativo all’istituzione di un elenco comunitario di vettori aerei soggetti a un divieto operativo all’interno della Comunità e alle informazioni da fornire ai passeggeri del trasporto aereo sull’identità del vettore aereo effettivo e che abroga l’articolo 9 della direttiva 2004/36/CE (testo rilevante ai fini del SEE) (GU L 344 del 27.12.2005, pag. 15), modificato da:
+**Regolamento (CE) n. 2111/2005 del Parlamento europeo e del Consiglio**, del 14 dicembre 2005, relativo all’istituzione di un elenco comunitario di vettori aerei soggetti a un divieto operativo all’interno della Comunità e alle informazioni da fornire ai passeggeri del trasporto aereo sull’identità del vettore aereo effettivo e che abroga l’articolo 9 della direttiva 2004/36/CE (testo rilevante ai fini del SEE) (GU L 344 del 27.12.2005, pag. 15), modificato da:
 
 - – regolamento (UE) 2018/1139 (GU L 212 del 22.8.2018, pag. 1);
 - – regolamento delegato (UE) 2023/661 della Commissione (GU L 83 del 22.3.2023, pag. 54).
@@ -549,7 +551,7 @@ Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento 
 
 **Regolamento (CE) n. 474/2006 della Commissione**, del 22 marzo 2006, che istituisce un elenco comunitario dei vettori aerei soggetti a un divieto operativo all’interno della Comunità ai sensi del Capo II del regolamento (CE) n. 2111/2005 del Parlamento europeo e del Consiglio (GU L 84 del 23.3.2006, pag. 14), modificato da ultimo da:
 
-- – regolamento di esecuzione (UE) 2023/1111 della Commissione (GU L 147 del 7.6.2023, pag. 142).
+- – regolamento di esecuzione (UE) 2024/1601 della Commissione (GU L, 2024/1601, 31.5.2024).
 
 **Regolamento (UE) n. 1332/2011** **della Commissione**, del 16 dicembre 2011, che stabilisce requisiti comuni per l’utilizzo dello spazio aereo e procedure operative comuni per prevenire le collisioni in volo (testo rilevante ai fini del SEE) (GU L 336 del 20.12.2011, pag. 20), modificato da:
 
@@ -557,7 +559,7 @@ Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento 
 
 **Regolamento di esecuzione (UE) n. 646/2012 della Commissione**, del 16 luglio 2012, che stabilisce norme attuative concernenti le multe e le sanzioni pecuniarie periodiche irrogate per violazione delle disposizioni del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio (testo rilevante ai fini del SEE) (GU L 187 del 17.7.2012, pag. 29).
 
-**Regolamento (UE) n. 748/2012 della Commissione**, del 3 agosto 2012, che stabilisce le regole di attuazione per la certificazione di aeronavigabilità ed ambientale di aeromobili e relativi prodotti, parti e pertinenze, nonché per la certificazione delle imprese di progettazione e di produzione (GU L 224 del 21.8.2012, pag. 1), modificato da:
+**Regolamento (UE) n. 748/2012 della Commissione**, del 3 agosto 2012, che stabilisce le regole di attuazione per la certificazione di aeronavigabilità e ambientale o la dichiarazione di conformità di aeromobili e relativi prodotti, parti e pertinenze, nonché per i requisiti in materia di idoneità delle imprese di progettazione e di produzione (GU L 224 del 21.8.2012, pag. 1), modificato da:
 
 - – regolamento (UE) n. 7/2013 della Commissione (GU L 4 del 9.1.2013, pag. 36);
 - – regolamento (UE) n. 69/2014 della Commissione (GU L 23 del 28.1.2014, pag. 12);
@@ -613,7 +615,8 @@ Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento 
 - – regolamento di esecuzione (UE) 2022/2502 della Commissione (GU L 325 del 20.12.2022, pag. 56);
 - – regolamento di esecuzione (UE) 2023/203 della Commissione (GU L 31 del 2.2.2023, pag. 1);
 - – regolamento di esecuzione (UE) 2023/217 della Commissione (GU L 30 del 2.2.2023, pag. 11);
-- – regolamento di esecuzione (UE) 2023/1020 della Commissione (GU L 137 del 25.5.2023, pag. 1).
+- – regolamento di esecuzione (UE) 2023/1020 della Commissione (GU L 137 del 25.5.2023, pag. 1);
+- – regolamento di esecuzione (UE) 2023/1754 della Commissione (GU L 224 del 12.9.2023, pag. 16).
 
 **Regolamento di esecuzione (UE) n. 628/2013 della Commissione**, del 28 giugno 2013, concernente i metodi di lavoro dell’Agenzia europea per la sicurezza aerea per quanto riguarda l’esecuzione di ispezioni in materia di standardizzazione e il controllo dell’applicazione delle norme del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio e che abroga il regolamento (CE) n. 736/2006 della Commissione (testo rilevante ai fini del SEE) (GU L 179 del 29.6.2013, pag. 46).
 
@@ -634,11 +637,12 @@ Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento 
 - – regolamento delegato (UE) 2022/1645 della Commissione (GU L 248 del 26.9.2022, pag. 18);
 - – regolamento delegato (UE) 2022/2074 della Commissione (GU L 280 del 28.10.2022, pag. 4);
 - – regolamento di esecuzione (UE) 2023/203 della Commissione (GU L 31 del 2.2.2023, pag. 1);
-- – regolamento delegato (UE) 2023/369 della Commissione (GU L 51 del 20.2.2023, pag. 23).
+- – regolamento delegato (UE) 2023/369 della Commissione (GU L 51 del 20.2.2023, pag. 23);
+- – regolamento di esecuzione (UE) 2024/894 della Commissione (GU L, 2024/894, 20.3.2024).
 
 **Regolamento di esecuzione (UE) 2019/2153 della Commissione**, del 16 dicembre 2019, relativo ai diritti e agli oneri riscossi dall’Agenzia dell’Unione europea per la sicurezza aerea e che abroga il regolamento (UE) n. 319/2014 (GU L 327 del 17.12.2019, pag. 36).
 
-**Regolamento (UE) n. 376/2014** **del Parlamento europeo e del Consiglio**, del 3 aprile 2014, concernente la segnalazione, l’analisi e il monitoraggio di eventi nel settore dell’aviazione civile, che modifica il regolamento (UE) n. 996/2010 del Parlamento europeo e del Consiglio e che abroga la direttiva 2003/42/CE del Parlamento europeo e del Consiglio e i regolamenti (CE) n. 1321/2007 e (CE) n. 1330/2007 della Commissione (testo rilevante ai fini del SEE) (GU L 122 del 24.4.2014, pag. 18), modificato da:
+**Regolamento (UE) n. 376/2014 del Parlamento europeo e del Consiglio**, del 3 aprile 2014, concernente la segnalazione, l’analisi e il monitoraggio di eventi nel settore dell’aviazione civile, che modifica il regolamento (UE) n. 996/2010 del Parlamento europeo e del Consiglio e che abroga la direttiva 2003/42/CE del Parlamento europeo e del Consiglio e i regolamenti (CE) n. 1321/2007 e (CE) n. 1330/2007 della Commissione (testo rilevante ai fini del SEE) (GU L 122 del 24.4.2014, pag. 18), modificato da:
 
 - – regolamento (UE) 2018/1139 (GU L 212 del 22.8.2018, pag. 1).
 
@@ -672,7 +676,8 @@ Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento 
 **Regolamento (UE) 2015/340 della Commissione**, del 20 febbraio 2015, che stabilisce i requisiti tecnici e le procedure amministrative concernenti licenze e certificati dei controllori del traffico aereo ai sensi del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, modifica il regolamento di esecuzione (UE) n. 923/2012 della Commissione e abroga il regolamento (UE) n. 805/2011 della Commissione (testo rilevante ai fini del SEE) (GU L 63 del 6.3.2015, pag. 1), modificato da:
 
 - – regolamento di esecuzione (UE) 2023/203 della Commissione (GU L 31 del 2.2.2023, pag. 1);
-- – regolamento di esecuzione (UE) 2023/893 della Commissione (GU L 118 del 4.5.2023, pag. 1).
+- – regolamento di esecuzione (UE) 2023/893 della Commissione (GU L 118 del 4.5.2023, pag. 1);
+- – regolamento di esecuzione (UE) 2023/2163 della Commissione (GU L, 2023/2163, 18.10.2023).
 
 **Regolamento (UE) 2015/640 della Commissione**, del 23 aprile 2015, relativo a specifiche di aeronavigabilità supplementari per determinati tipi di operazioni e che modifica il regolamento (UE) n. 965/2012 (GU L 106 del 24.4.2015, pag. 18), modificato da:
 
@@ -697,7 +702,7 @@ Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento 
 - – regolamento di esecuzione (UE) 2020/358 della Commissione (GU L 67 del 5.3.2020, pag. 57);
 - – regolamento di esecuzione (UE) 2021/1874 della Commissione (GU L 378 del 26.10.2021, pag. 4).
 
-**Regolamento (UE) 2019/494** **del Parlamento europeo e del Consiglio**, del 25 marzo 2019, relativo a determinati aspetti della sicurezza aerea in relazione al recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione (testo rilevante ai fini del SEE) (GU L 85 I del 27.3.2019, pag. 11).
+**Regolamento (UE) 2019/494 del Parlamento europeo e del Consiglio**, del 25 marzo 2019, relativo a determinati aspetti della sicurezza aerea in relazione al recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione (testo rilevante ai fini del SEE) (GU L 85 I del 27.3.2019, pag. 11).
 
 **Regolamento delegato (UE) 2019/945 della Commissione**, del 12 marzo 2019, relativo ai sistemi aeromobili senza equipaggio e agli operatori di paesi terzi di sistemi aeromobili senza equipaggio (GU L 152 dell’11.6.2019, pag. 1), modificato da:
 
@@ -706,22 +711,22 @@ Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento 
 
 Per quanto riguarda i prodotti elencati all’articolo 2, paragrafo 1, del regolamento delegato (UE) 2019/945, la Svizzera applica gli atti ivi richiamati in quanto inclusi nel presente allegato, anche secondo quanto di seguito indicato, restando tra l’altro inteso che il secondo trattino dell’allegato si applica anche agli atti seguenti:
 
-- – regolamento (CE) n. 765/2008[^annexu1-lvl3-2], richiamato all’articolo 3, punto 9, all’articolo 15, all’articolo 19, paragrafo 2, e all’articolo 39, paragrafo 1, lettera a), del regolamento delegato (UE) 2019/945;
-- – regolamento (UE) n. 1025/2012[^annexu1-lvl3-3], richiamato all’articolo 3, punto 20, e all’articolo 37, paragrafo 3, del regolamento delegato (UE) 2019/945;
-- – direttiva 2009/48/CE[^annexu1-lvl3-4], richiamata all’articolo 4, paragrafo 2, e all’articolo 13, paragrafo 2, lettera c), e all’allegato, parte 1, punto 10, del regolamento delegato (UE) 2019/945;
+- – regolamento (CE) n. 765/2008[^annexu1-lvl3-3], richiamato all’articolo 3, punto 9, all’articolo 15, all’articolo 19, paragrafo 2, e all’articolo 39, paragrafo 1, lettera a), del regolamento delegato (UE) 2019/945;
+- – regolamento (UE) n. 1025/2012[^annexu1-lvl3-4], richiamato all’articolo 3, punto 20, e all’articolo 37, paragrafo 3, del regolamento delegato (UE) 2019/945;
+- – direttiva 2009/48/CE[^annexu1-lvl3-5], richiamata all’articolo 4, paragrafo 2, e all’articolo 13, paragrafo 2, lettera c), e all’allegato, parte 1, punto 10, del regolamento delegato (UE) 2019/945;
 - –
 
-  direttiva 2006/42/CE[^annexu1-lvl3-5], richiamata all’articolo 4, paragrafo 2, del regolamento delegato (UE) 2019/945, compresa:
+  direttiva 2006/42/CE[^annexu1-lvl3-6], richiamata all’articolo 4, paragrafo 2, del regolamento delegato (UE) 2019/945, compresa:
 
-  - – direttiva 73/23/CEE[^annexu1-lvl3-6], richiamata all’articolo 1, paragrafo 2, lettera k), e all’allegato I, punto 1.5.1, della direttiva 2006/42/CE, tenendo presente che la direttiva 73/23/CEE è stata abrogata e che i riferimenti alla medesima devono intendersi fatti alle pertinenti disposizioni della direttiva 2014/35/UE[^annexu1-lvl3-7];
+  - – direttiva 73/23/CEE[^annexu1-lvl3-7], richiamata all’articolo 1, paragrafo 2, lettera k), e all’allegato I, punto 1.5.1, della direttiva 2006/42/CE, tenendo presente che la direttiva 73/23/CEE è stata abrogata e che i riferimenti alla medesima devono intendersi fatti alle pertinenti disposizioni della direttiva 2014/35/UE[^annexu1-lvl3-8];
 
 - –
 
-  regolamento (UE) 2019/1020[^annexu1-lvl3-8], compresi i riferimenti al medesimo contenuti all’articolo 5, paragrafo 3, e agli articoli 35 e 36 del regolamento delegato (UE) 2019/945, tenendo presente che i riferimenti alle disposizioni soppresse del regolamento (CE) n. 765/2008 devono intendersi fatti alle pertinenti disposizioni del regolamento (UE) 2019/1020[^annexu1-lvl3-9], compresi anche:
+  regolamento (UE) 2019/1020[^annexu1-lvl3-9], compresi i riferimenti al medesimo contenuti all’articolo 5, paragrafo 3, e agli articoli 35 e 36 del regolamento delegato (UE) 2019/945, tenendo presente che i riferimenti alle disposizioni soppresse del regolamento (CE) n. 765/2008 devono intendersi fatti alle pertinenti disposizioni del regolamento (UE) 2019/1020[^annexu1-lvl3-10], compresi anche:
 
-  - – regolamento (UE) 2019/515[^annexu1-lvl3-10], richiamato all’articolo 8, paragrafo 2, del regolamento (UE) 2019/1020, per quanto riguarda i punti di contatto per i prodotti;
+  - – regolamento (UE) 2019/515[^annexu1-lvl3-11], richiamato all’articolo 8, paragrafo 2, del regolamento (UE) 2019/1020, per quanto riguarda i punti di contatto per i prodotti;
   - – regolamento (CE) n. 765/2008, richiamato all’articolo 11, paragrafo 5, del regolamento (UE) 2019/1020;
-  - – direttiva 2001/95/CE[^annexu1-lvl3-11], richiamata all’articolo 20, paragrafo 4, e all’articolo 34, paragrafo 4, del regolamento (UE) 2019/1020.
+  - – direttiva 2001/95/CE[^annexu1-lvl3-12], richiamata all’articolo 20, paragrafo 4, e all’articolo 34, paragrafo 4, del regolamento (UE) 2019/1020.
 
 I riferimenti all’«Unione» di cui all’articolo 1, paragrafo 1 (ultima parte della frase), all’articolo 3, punti 1, 2, 9, 12 (prima parte della frase) e 21, all’articolo 4, paragrafo 1 (ultima parte della frase) e paragrafo 2, lettere a), b) e d), all’articolo 5, paragrafo 2, all’articolo 6, all’articolo 21, paragrafo 1 (ultima parte della frase), all’articolo 29, paragrafo 2, all’articolo 31, paragrafo 2, lettera p), del regolamento (UE) 2019/1020 si intendono estesi anche alla Svizzera.
 
@@ -739,9 +744,9 @@ I riferimenti all’«Unione» di cui all’articolo 1, paragrafo 2, all’artic
 
 Per quanto riguarda i sistemi aeromobili senza equipaggio, la Svizzera applica gli atti richiamati nel regolamento (UE) 2019/947 in quanto inclusi nel presente allegato, anche secondo quanto di seguito indicato, restando tra l’altro inteso che il secondo trattino dell’allegato si applica anche all’atto seguente:
 
-- – direttiva 2009/48/CE[^annexu1-lvl3-12], richiamata all’articolo 9, paragrafo 2, lettera a), e all’articolo 14, paragrafo 5, lettera a), punto ii), del regolamento (UE) 2019/947.
+- – direttiva 2009/48/CE[^annexu1-lvl3-13], richiamata all’articolo 9, paragrafo 2, lettera a), e all’articolo 14, paragrafo 5, lettera a), punto ii), del regolamento (UE) 2019/947.
 
-Il riferimento al regolamento (UE) 2016/679[^annexu1-lvl3-13] contenuto nell’allegato, parte B, punto UAS.SPEC.050, punto 1, lettera a) iv), del regolamento (UE) 2019/947, si intende fatto, per quanto riguarda la Svizzera, alla sua legislazione nazionale pertinente.
+Il riferimento al regolamento (UE) 2016/679[^annexu1-lvl3-14] contenuto nell’allegato, parte B, punto UAS.SPEC.050, punto 1, lettera a) iv), del regolamento (UE) 2019/947, si intende fatto, per quanto riguarda la Svizzera, alla sua legislazione nazionale pertinente.
 
 **Decisione di esecuzione (UE) 2019/1128 della Commissione**, del 1° luglio 2019, relativa ai diritti d’accesso alle raccomandazioni di sicurezza e alle risposte registrate nel repertorio centrale europeo e che abroga la decisione 2012/780/UE (testo rilevante ai fini del SEE) (GU L 177 del 2.7.2019, pag. 112).
 
@@ -752,22 +757,23 @@ Il riferimento al regolamento (UE) 2016/679[^annexu1-lvl3-13] contenuto nell’a
 - – regolamento di esecuzione (UE) 2023/203 della Commissione (GU L 31 del 2.2.2023, pag. 1).
 
 [^annexu1-lvl3-1]: GU L 224 del 21.8.2012, pag. 1.
-[^annexu1-lvl3-2]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 (GU L 218 del 13.8.2008, pag. 30), modificato dal regolamento (UE) 2019/1020 (GU L 169 del 25.6.2019, pag. 1).
-[^annexu1-lvl3-3]: Regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, sulla normazione europea, che modifica le direttive 89/686/CEE e 93/15/CEE del Consiglio nonché le direttive 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE del Parlamento europeo e del Consiglio e che abroga la decisione 87/95/CEE del Consiglio e la decisione n. 1673/2006/CE del Parlamento europeo e del Consiglio (GU L 316 del 14.11.2012, pag. 12), modificato da ultimo dalla direttiva (UE) 2015/1535 (GU L 241 del 17.9.2015, pag. 1).
-[^annexu1-lvl3-4]: Direttiva 2009/48/CE del Parlamento europeo e del Consiglio, del 18 giugno 2009, sulla sicurezza dei giocattoli (GU L 170 del 30.6.2009, pag. 1), modificata da ultimo dalla direttiva (UE) 2021/903 della Commissione (GU L 197 del 4.6.2021, pag. 110).
-[^annexu1-lvl3-5]: Direttiva 2006/42/CE del Parlamento europeo e del Consiglio, del 17 maggio 2006, relativa alle macchine e che modifica la direttiva 95/16/CE (rifusione) (GU L 157 del 9.6.2006, pag. 24), modificata da ultimo dal regolamento (UE) 2019/1243 (GU L 198 del 25.7.2019, pag. 241).
-[^annexu1-lvl3-6]: Direttiva 73/23/CEE del Consiglio, del 19 febbraio 1973, concernente il ravvicinamento delle legislazioni degli Stati Membri relative al materiale elettrico destinato ad essere adoperato entro taluni limiti di tensione (GU L 77 del 26.3.1973, pag. 29), abrogata da: – direttiva 2006/95/CE del Parlamento europeo e del Consiglio, del 12 dicembre 2006 (GU L 374 del 27.12.2006, pag. 10), a sua volta abrogata da: – direttiva 2014/35/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014 (GU L 96 del 29.3.2014, pag. 357);
-[^annexu1-lvl3-7]: Direttiva 2014/35/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato del materiale elettrico destinato a essere adoperato entro taluni limiti di tensione (GU L 96 del 29.3.2014, pag. 357).
-[^annexu1-lvl3-8]: Regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019, sulla vigilanza del mercato e sulla conformità dei prodotti e che modifica la direttiva 2004/42/CE e i regolamenti (CE) n. 765/2008 e (UE) n. 305/2011 (GU L 169 del 25.6.2019, pag. 1).
-[^annexu1-lvl3-9]: V. articolo 39 del regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019, sulla vigilanza del mercato e sulla conformità dei prodotti e che modifica la direttiva 2004/42/CE e i regolamenti (CE) n. 765/2008 e (UE) n. 305/2011.
-[^annexu1-lvl3-10]: Regolamento (UE) 2019/515 del Parlamento europeo e del Consiglio, del 19 marzo 2019, relativo al reciproco riconoscimento delle merci legalmente commercializzate in un altro Stato membro e che abroga il regolamento (CE) n. 764/2008 (GU L 91 del 29.3.2019, pag. 1).
-[^annexu1-lvl3-11]: Direttiva 2001/95/CE del Parlamento europeo e del Consiglio, del 3 dicembre 2001, relativa alla sicurezza generale dei prodotti (GU L 11 del 15.1.2002, pag. 4), modificata da ultimo dal regolamento (CE) 596/2009 del Parlamento europeo e del Consiglio (GU L 188 del 18.7.2009, pag. 14).
-[^annexu1-lvl3-12]: Direttiva 2009/48/CE del Parlamento europeo e del Consiglio, del 18 giugno 2009, sulla sicurezza dei giocattoli (GU L 170 del 30.6.2009, pag. 1), modificata da ultimo dalla direttiva (UE) 2021/903 della Commissione (GU L 197 del 4.6.2021, pag. 110).
-[^annexu1-lvl3-13]: Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) (GU L 119 del 4.5.2016, pag. 1).
+[^annexu1-lvl3-2]: Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) (GU L 119 del 4.5.2016, pag. 1).
+[^annexu1-lvl3-3]: Regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008, che pone norme in materia di accreditamento e vigilanza del mercato per quanto riguarda la commercializzazione dei prodotti e che abroga il regolamento (CEE) n. 339/93 (GU L 218 del 13.8.2008, pag. 30), modificato dal regolamento (UE) 2019/1020 (GU L 169 del 25.6.2019, pag. 1).
+[^annexu1-lvl3-4]: Regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio, del 25 ottobre 2012, sulla normazione europea, che modifica le direttive 89/686/CEE e 93/15/CEE del Consiglio nonché le direttive 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE e 2009/105/CE del Parlamento europeo e del Consiglio e che abroga la decisione 87/95/CEE del Consiglio e la decisione n. 1673/2006/CE del Parlamento europeo e del Consiglio (GU L 316 del 14.11.2012, pag. 12), modificato da ultimo dalla direttiva (UE) 2015/1535 (GU L 241 del 17.9.2015, pag. 1).
+[^annexu1-lvl3-5]: Direttiva 2009/48/CE del Parlamento europeo e del Consiglio, del 18 giugno 2009, sulla sicurezza dei giocattoli (GU L 170 del 30.6.2009, pag. 1), modificata da ultimo dalla direttiva (UE) 2021/903 della Commissione (GU L 197 del 4.6.2021, pag. 110).
+[^annexu1-lvl3-6]: Direttiva 2006/42/CE del Parlamento europeo e del Consiglio, del 17 maggio 2006, relativa alle macchine e che modifica la direttiva 95/16/CE (rifusione) (GU L 157 del 9.6.2006, pag. 24), modificata da ultimo dal regolamento (UE) 2019/1243 (GU L 198 del 25.7.2019, pag. 241).
+[^annexu1-lvl3-7]: Direttiva 73/23/CEE del Consiglio, del 19 febbraio 1973, concernente il ravvicinamento delle legislazioni degli Stati Membri relative al materiale elettrico destinato ad essere adoperato entro taluni limiti di tensione (GU L 77 del 26.3.1973, pag. 29), abrogata da: – direttiva 2006/95/CE del Parlamento europeo e del Consiglio, del 12 dicembre 2006 (GU L 374 del 27.12.2006, pag. 10), a sua volta abrogata da: – direttiva 2014/35/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014 (GU L 96 del 29.3.2014, pag. 357).
+[^annexu1-lvl3-8]: Direttiva 2014/35/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato del materiale elettrico destinato a essere adoperato entro taluni limiti di tensione (GU L 96 del 29.3.2014, pag. 357).
+[^annexu1-lvl3-9]: Regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019, sulla vigilanza del mercato e sulla conformità dei prodotti e che modifica la direttiva 2004/42/CE e i regolamenti (CE) n. 765/2008 e (UE) n. 305/2011 (GU L 169 del 25.6.2019, pag. 1).
+[^annexu1-lvl3-10]: V. articolo 39 del regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019, sulla vigilanza del mercato e sulla conformità dei prodotti e che modifica la direttiva 2004/42/CE e i regolamenti (CE) n. 765/2008 e (UE) n. 305/2011.
+[^annexu1-lvl3-11]: Regolamento (UE) 2019/515 del Parlamento europeo e del Consiglio, del 19 marzo 2019, relativo al reciproco riconoscimento delle merci legalmente commercializzate in un altro Stato membro e che abroga il regolamento (CE) n. 764/2008 (GU L 91 del 29.3.2019, pag. 1).
+[^annexu1-lvl3-12]: Direttiva 2001/95/CE del Parlamento europeo e del Consiglio, del 3 dicembre 2001, relativa alla sicurezza generale dei prodotti (GU L 11 del 15.1.2002, pag. 4), modificata da ultimo dal regolamento (CE) 596/2009 del Parlamento europeo e del Consiglio (GU L 188 del 18.7.2009, pag. 14).
+[^annexu1-lvl3-13]: Direttiva 2009/48/CE del Parlamento europeo e del Consiglio, del 18 giugno 2009, sulla sicurezza dei giocattoli (GU L 170 del 30.6.2009, pag. 1), modificata da ultimo dalla direttiva (UE) 2021/903 della Commissione (GU L 197 del 4.6.2021, pag. 110).
+[^annexu1-lvl3-14]: Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) (GU L 119 del 4.5.2016, pag. 1).
 
 ## 4. Sicurezza aerea (security)
 
-**Regolamento (CE) n. 300/2008** **del Parlamento europeo e del Consiglio**, dell’11 marzo 2008, che istituisce norme comuni per la sicurezza dell’aviazione civile e che abroga il regolamento (CE) n. 2320/2002 (testo rilevante ai fini del SEE) (GU L 97 del 9.4.2008, pag. 72), modificato da:
+**Regolamento (CE) n. 300/2008 del Parlamento europeo e del Consiglio**, dell’11 marzo 2008, che istituisce norme comuni per la sicurezza dell’aviazione civile e che abroga il regolamento (CE) n. 2320/2002 (testo rilevante ai fini del SEE) (GU L 97 del 9.4.2008, pag. 72), modificato da:
 
 - – regolamento (UE) n. 18/2010 della Commissione (GU L 7 del 12.1.2010, pag. 3).
 
@@ -810,7 +816,9 @@ Il riferimento al regolamento (UE) 2016/679[^annexu1-lvl3-13] contenuto nell’a
 - – regolamento di esecuzione (UE) 2022/421 della Commissione (GU L 87 del 15.3.2022, pag. 1);
 - – regolamento di esecuzione (UE) 2022/463 della Commissione (GU L 94 del 23.3.2022, pag. 3);
 - – regolamento di esecuzione (UE) 2022/1174 della Commissione (GU L 183 dell’8.7.2022, pag. 35), ad eccezione del nuovo punto 11.1.1, lettera b), dell’allegato del regolamento (UE) 2015/1998, quale introdotto dal punto 35 dell’allegato del regolamento (UE) 2022/1174;
-- – regolamento di esecuzione (UE) 2023/566 della Commissione (GU L 74 del 13.3.2023, pag. 47).
+- – regolamento di esecuzione (UE) 2023/566 della Commissione (GU L 74 del 13.3.2023, pag. 47);
+- – regolamento di esecuzione (UE) 2024/1255 della Commissione (GU L, 2024/1255);
+- – regolamento di esecuzione (UE) 2024/2108 della Commissione (GU L, 2024/2108).
 
 **Decisione di esecuzione C(2015) 8005 della Commissione**, del 16 novembre 2015, che stabilisce disposizioni particolareggiate per l’attuazione delle norme fondamentali comuni sulla sicurezza dell’aviazione civile contenenti le informazioni di cui all’articolo 18, lettera a), del regolamento (CE) n. 300/2008 (non pubblicata nella GU), modificata da:
 
@@ -824,13 +832,14 @@ Il riferimento al regolamento (UE) 2016/679[^annexu1-lvl3-13] contenuto nell’a
 
 - – decisione di esecuzione C(2021) 996 della Commissione;
 - – decisione di esecuzione C(2022) 4638 della Commissione;
-- – decisione di esecuzione C(2023) 1569 della Commissione.
+- – decisione di esecuzione C(2023) 1569 della Commissione;
+- – decisione di esecuzione C(2024) 2826 della Commissione.
 
 **Decisione (UE) 2021/2147 della Commissione**, del 3 dicembre 2021, relativa all’approvazione delle attrezzature di sicurezza dell’aviazione civile con «marchio UE» (GU L 433 del 6.12.2021, pag. 25).
 
 ## 5. Gestione del traffico aereo
 
-**Regolamento (CE) n. 549/2004** **del Parlamento europeo e del Consiglio**, del 10 marzo 2004, che stabilisce i principi generali per l’istituzione del cielo unico europeo («regolamento quadro») (testo rilevante ai fini del SEE) (GU L 96 del 31.3.2004, pag. 1), modificato da:
+**Regolamento (CE) n. 549/2004 del Parlamento europeo e del Consiglio**, del 10 marzo 2004, che stabilisce i principi generali per l’istituzione del cielo unico europeo («regolamento quadro») (testo rilevante ai fini del SEE) (GU L 96 del 31.3.2004, pag. 1), modificato da:
 
 - – regolamento (CE) n. 1070/2009 (GU L 300 del 14.11.2009, pag. 34).
 
@@ -840,13 +849,13 @@ L’articolo 10 è così modificato:
 
 al paragrafo 2, le parole «a livello comunitario» sono sostituite dalle parole «a livello comunitario, includendo la Svizzera».
 
-Nonostante l’adattamento orizzontale previsto al secondo trattino dell’allegato dell’Accordo tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo, i riferimenti agli «Stati membri» contenuti nell’articolo 5 del regolamento (CE) n. 549/2004 o nelle disposizioni della decisione 1999/468/CE menzionate in detta disposizione non si intendono estesi alla Svizzera.
+Nonostante l’adattamento orizzontale previsto al secondo trattino dell’allegato dell’Accordo tra la Comunità europea e la Confederazione Svizzera sul trasporto aereo, i riferimenti agli «Stati membri» contenuti nell’articolo 5 del regolamento (CE) n. 549/2004 o nelle disposizioni della decisione 1999/468/CE menzionate in detta disposizione non si intendono estesi alla Svizzera.
 
-**Regolamento (CE) n. 550/2004** **del Parlamento europeo e del Consiglio**, del 10 marzo 2004, sulla fornitura di servizi di navigazione aerea nel cielo unico europeo («regolamento sulla fornitura di servizi») (testo rilevante ai fini del SEE) (GU L 96 del 31.3.2004, pag. 10), modificato da:
+**Regolamento (CE) n. 550/2004 del Parlamento europeo e del Consiglio**, del 10 marzo 2004, sulla fornitura di servizi di navigazione aerea nel cielo unico europeo («regolamento sulla fornitura di servizi») (testo rilevante ai fini del SEE) (GU L 96 del 31.3.2004, pag. 10), modificato da:
 
 - – regolamento (CE) n. 1070/2009 (GU L 300 del 14.11.2009, pag. 34).
 
-La Commissione gode nei confronti della Svizzera dei poteri a essa concessi ai sensi degli articoli 9<sup>bis</sup>, 9<sup>ter</sup>, 15, 15<sup>bis</sup>, 16 e 17.
+La Commissione gode nei confronti della Svizzera dei poteri a essa concessi ai sensi degli articoli 9 bis, 9 ter, 15, 15 bis, 16 e 17.
 
 Ai fini del presente Accordo, le disposizioni del regolamento si intendono così modificate:
 
@@ -859,52 +868,20 @@ Ai fini del presente Accordo, le disposizioni del regolamento si intendono così
 - d) l’articolo 10 è così modificato:
 - al paragrafo 1, dopo le parole «nella Comunità», sono inserite le parole «e in Svizzera»;
 - e) all’articolo 16, il paragrafo 3 è sostituito dal seguente:
-- «3. La Commissione trasmette la decisione agli Stati membri e ne informa il fornitore di servizi, nella misura in cui quest’ultimo sia giuridicamente interessato».
+- «3. La Commissione trasmette la decisione agli Stati membri e ne informa il fornitore di servizi, nella misura in cui quest’ultimo sia giuridicamente interessato.».
 
-**Regolamento (CE) n. 551/2004** **del Parlamento europeo e del Consiglio**, del 10 marzo 2004, sull’organizzazione e l’uso dello spazio aereo nel cielo unico europeo («regolamento sullo spazio aereo») (testo rilevante ai fini del SEE) (GU L 96 del 31.3.2004, pag. 20), modificato da:
-
-- – regolamento (CE) n. 1070/2009 (GU L 300 del 14.11.2009, pag. 34).
-
-La Commissione gode in Svizzera dei poteri a essa concessi ai sensi degli articoli 3<sup>bis</sup>, 6 e 10.
-
-**Regolamento (CE) n. 552/2004** **del Parlamento europeo e del Consiglio**, del 10 marzo 2004, sull’interoperabilità della rete europea di gestione del traffico aereo («regolamento sull’interoperabilità») (testo rilevante ai fini del SEE) (GU L 96 del 31.3.2004, pag. 26), modificato da:
+**Regolamento (CE) n. 551/2004 del Parlamento europeo e del Consiglio**, del 10 marzo 2004, sull’organizzazione e l’uso dello spazio aereo nel cielo unico europeo («regolamento sullo spazio aereo») (testo rilevante ai fini del SEE) (GU L 96 del 31.3.2004, pag. 20), modificato da:
 
 - – regolamento (CE) n. 1070/2009 (GU L 300 del 14.11.2009, pag. 34).
 
-La Commissione gode in Svizzera dei poteri a essa concessi ai sensi degli articoli 4 e 7 e dell’articolo 10, paragrafo 3.
-
-Ai fini del presente Accordo, le disposizioni del regolamento si intendono così modificate:
-
-- a) l’articolo 5 è così modificato:
-- al paragrafo 2, dopo le parole «nella Comunità» sono inserite le parole «o in Svizzera»;
-- b) l’articolo 7 è così modificato:
-- al paragrafo 4, dopo le parole «nella Comunità» sono inserite le parole «o in Svizzera»;
-- c) l’allegato III è così modificato:
-- alla sezione 3, secondo e ultimo trattino, dopo le parole «nella Comunità» sono inserite le parole «o in Svizzera».
-
-Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento (CE) n. 552/2004 è abrogato con effetto a decorrere dall’11 settembre 2018. Tuttavia, gli articoli 4, 5, 6, 6<sup>bis</sup> e 7 di tale regolamento e i suoi allegati III e IV continuano ad applicarsi fino alla data di applicazione degli atti delegati di cui all’articolo 47 del regolamento (UE) 2018/1139 e a condizione che tali atti disciplinino la materia oggetto delle disposizioni pertinenti del regolamento (CE) n. 552/2004 e, in qualsiasi caso, non più tardi del 12 settembre 2023.
+La Commissione gode in Svizzera dei poteri a essa concessi ai sensi degli articoli 3 bis, 6 e 10.
 
 **Regolamento (CE) n. 2150/2005 della Commissione**, del 23 dicembre 2005, recante norme comuni per l’uso flessibile dello spazio aereo (testo rilevante ai fini del SEE) (GU L 342 del 24.12.2005, pag. 20).
-
-**Regolamento (CE) n. 1033/2006 della Commissione**, del 4 luglio 2006, recante disposizioni sulle procedure per i piani di volo nella fase che precede il volo nel contesto del cielo unico europeo (testo rilevante ai fini del SEE) (GU L 186 del 7.7.2006, pag. 46), modificato da:
-
-- – regolamento di esecuzione (UE) n. 923/2012 della Commissione (GU L 281 del 13.10.2012, pag. 1);
-- – regolamento di esecuzione (UE) n. 428/2013 della Commissione (GU L 127 del 9.5.2013, pag. 23);
-- – regolamento di esecuzione (UE) 2016/2120 della Commissione (GU L 329 del 3.12.2016, pag. 70);
-- – regolamento di esecuzione (UE) 2018/139 della Commissione (GU L 25 del 30.1.2018, pag. 4).
-
-**Regolamento (CE) n. 1032/2006 della Commissione**, del 6 luglio 2006, che stabilisce i requisiti per i sistemi automatici di scambio di dati di volo ai fini della notifica, del coordinamento e del trasferimento di voli tra enti di controllo del traffico aereo (testo rilevante ai fini del SEE) (GU L 186 del 7.7.2006, pag. 27), modificato da:
-
-- – regolamento (CE) n. 30/2009 della Commissione (GU L 13 del 17.1.2009, pag. 20).
 
 **Regolamento (CE) n. 219/2007 del Consiglio**, del 27 febbraio 2007, relativo alla costituzione di un’impresa comune per la realizzazione del sistema europeo di nuova generazione per la gestione del traffico aereo (SESAR) (GU L 64 del 2.3.2007, pag. 1), modificato da:
 
 - – regolamento (CE) n. 1361/2008 del Consiglio (GU L 352 del 31.12.2008, pag. 12);
 - – regolamento (UE) n. 721/2014 del Consiglio (GU L 192 dell’1.7.2014, pag. 1).
-
-**Regolamento (CE) n. 633/2007 della Commissione**, del 7 giugno 2007, che stabilisce i requisiti per l’applicazione di un protocollo per il trasferimento di messaggi di volo ai fini della notifica, del coordinamento e del trasferimento dei voli tra gli enti di controllo del traffico aereo (testo rilevante ai fini del SEE) (GU L 146 dell’8.6.2007, pag. 7), modificato da:
-
-- – regolamento (UE) n. 283/2011 della Commissione (GU L 77 del 23.3.2011, pag. 23).
 
 **Regolamento di esecuzione (UE) 2017/373 della Commissione**, del 1° marzo 2017, che stabilisce i requisiti comuni per i fornitori di servizi di gestione del traffico aereo e di navigazione aerea e di altre funzioni della rete di gestione del traffico aereo e per la loro sorveglianza, che abroga il regolamento (CE) n. 482/2008 e i regolamenti di esecuzione (UE) n. 1034/2011, (UE) n. 1035/2011 e (UE) 2016/1377 e che modifica il regolamento (UE) n. 677/2011 (testo rilevante ai fini del SEE) (GU L 62 dell’8.3.2017, pag. 1), modificato da:
 
@@ -918,21 +895,14 @@ Conformemente all’articolo 139 del regolamento (UE) 2018/1139, il regolamento 
 - – regolamento di esecuzione (UE) 2021/1338 della Commissione (GU L 289 del 12.8.2021, pag. 12);
 - – regolamento di esecuzione (UE) 2022/938 della Commissione (GU L 209 del 10.8.2022, pag. 1);
 - – regolamento di esecuzione (UE) 2022/2345 della Commissione (GU L 311 del 2.12.2022, pag. 58);
-- – regolamento di esecuzione (UE) 2023/203 della Commissione (GU L 31 del 2.2.2023, pag. 1).
+- – regolamento di esecuzione (UE) 2023/203 della Commissione (GU L 31 del 2.2.2023, pag. 1);
+- – regolamento di esecuzione (UE) 2023/1771 della Commissione (GU L 228 del 15.9.2023, pag. 49).
 
-**Regolamento (CE) n. 29/2009** **della Commissione**, del 16 gennaio 2009, che stabilisce i requisiti per i servizi di collegamento dati (data link) per il cielo unico europeo (testo rilevante ai fini del SEE) (GU L 13 del 17.1.2009, pag. 3), modificato da:
+**Regolamento delegato (UE) 2023/1768 della Commissione**, del 14 luglio 2023, che stabilisce norme dettagliate per la certificazione e la dichiarazione di sistemi e componenti per la gestione del traffico aereo e i servizi di navigazione aerea (GU L 228 del 15.9.2023, pag. 1).
 
-- – regolamento di esecuzione (UE) 2015/310 della Commissione (GU L 56 del 27.2.2015, pag. 30);
-- – regolamento di esecuzione (UE) 2019/1170 della Commissione (GU L 183 del 9.7.2019, pag. 6);
-- – regolamento di esecuzione (UE) 2020/208 della Commissione (GU L 43 del 17.2.2020, pag. 72).
+**Regolamento di esecuzione (UE) 2023/1769 della Commissione**, del 12 settembre 2023, che stabilisce i requisiti tecnici e le procedure amministrative per l’approvazione delle organizzazioni coinvolte nella progettazione o nella produzione di sistemi e componenti per la gestione del traffico aereo e i servizi di navigazione aerea e che modifica il regolamento di esecuzione (UE) 2023/203 (GU L 228 del 15.9.2023, pag. 19).
 
-Ai fini del presente Accordo, il testo del regolamento si intende adattato come segue:
-
-all’allegato I, parte A, è aggiunta la voce «Switzerland UIR».
-
-**Regolamento (CE) n. 262/2009 della Commissione**, del 30 marzo 2009, che fissa i requisiti per l’assegnazione e l’uso coordinati dei codici dell’interrogatore modo S per il cielo unico europeo (testo rilevante ai fini del SEE) (GU L 84 del 31.3.2009, pag. 20), modificato da:
-
-- – regolamento di esecuzione (UE) 2016/2345 della Commissione (GU L 348 del 21.12.2016, pag. 11).
+**Regolamento di esecuzione (UE) 2023/1770 della Commissione**, del 12 settembre 2023, recante disposizioni sugli impianti di bordo necessari per l’utilizzo dello spazio aereo del cielo unico europeo e sulle regole operative relative all’uso dello spazio aereo del cielo unico europeo e che abroga il regolamento (CE) n. 29/2009 e i regolamenti di esecuzione (UE) n. 1206/2011, (UE) n. 1207/2011 e (UE) n. 1079/2012 (GU L 228 del 15.9.2023, pag. 39).
 
 **Regolamento (UE) n. 255/2010 della Commissione**, del 25 marzo 2010, recante norme comuni per la gestione dei flussi del traffico aereo (testo rilevante ai fini del SEE) (GU L 80 del 26.3.2010, pag. 10), modificato da:
 
@@ -946,21 +916,6 @@ all’allegato I, parte A, è aggiunta la voce «Switzerland UIR».
 
 **Decisione C(2011) 4130 della Commissione**, del 7 luglio 2011, sulla nomina del gestore di rete per la gestione del traffico aereo (ATM) e le funzioni di rete del Cielo unico europeo (testo rilevante ai fini del SEE) (non pubblicata nella GU).
 
-**Regolamento di esecuzione (UE) n. 1206/2011 della Commissione**, del 22 novembre 2011, che stabilisce i requisiti relativi all’identificazione degli aeromobili ai fini della sorveglianza nel cielo unico europeo (testo rilevante ai fini del SEE) (GU L 305 del 23.11.2011, pag. 23), modificato da:
-
-- – regolamento di esecuzione (UE) 2020/587 della Commissione (GU L 138 del 30.4.2020, pag. 1).
-
-Ai fini del presente Accordo, il testo del regolamento di esecuzione (UE) n. 1206/2011 si intende adattato come segue:
-
-all’allegato I è aggiunta la voce «Switzerland UIR».
-
-**Regolamento di esecuzione (UE) n. 1207/2011 della Commissione**, del 22 novembre 2011, che stabilisce requisiti di prestazione e interoperabilità per la sorveglianza del cielo unico europeo (testo rilevante ai fini del SEE) (GU L 305 del 23.11.2011, pag. 35), modificato da:
-
-- – regolamento di esecuzione (UE) n. 1028/2014 della Commissione (GU L 284 del 30.9.2014, pag. 7);
-- – regolamento di esecuzione (UE) 2017/386 della Commissione (GU L 59 del 7.3.2017, pag. 34);
-- – regolamento di esecuzione (UE) 2020/587 della Commissione (GU L 138 del 30.4.2020, pag. 1);
-- – regolamento di esecuzione (UE) 2022/2 della Commissione (GU L 1 del 5.1.2022, pag. 1).
-
 **Regolamento di esecuzione (UE) n. 923/2012 della Commissione**, del 26 settembre 2012, che stabilisce regole dell’aria comuni e disposizioni operative concernenti servizi e procedure della navigazione aerea e che modifica il regolamento di esecuzione (UE) n. 1035/2011 e i regolamenti (CE) n. 1265/2007, (CE) n. 1794/2006, (CE) n. 730/2006, (CE) n. 1033/2006 e (UE) n. 255/2010 (testo rilevante ai fini del SEE) (GU L 281 del 13.10.2012, pag. 1), modificato da:
 
 - – regolamento (UE) 2015/340 della Commissione (GU L 63 del 6.3.2015, pag. 1);
@@ -973,13 +928,9 @@ all’allegato I è aggiunta la voce «Switzerland UIR».
   - – regolamento di esecuzione (UE) 2020/1177 della Commissione (GU L 259 del 10.8.2020, pag. 12);
 
 - – regolamento di esecuzione (UE) n. 2020/886 della Commissione (GU L 205 del 29.6.2020, pag. 14);
-- – regolamento di esecuzione (UE) 2021/666 della Commissione (GU L 139 del 23.4.2021, pag. 187).
-
-**Regolamento di esecuzione (UE) n. 1079/2012 della Commissione**, del 16 novembre 2012, che stabilisce norme sulla spaziatura dei canali di comunicazione vocale nel cielo unico europeo (testo rilevante ai fini del SEE) (GU L 320 del 17.11.2012, pag. 14), modificato da:
-
-- – regolamento di esecuzione (UE) n. 657/2013 della Commissione (GU L 190 dell’11.7.2013, pag. 37);
-- – regolamento di esecuzione (UE) 2016/2345 della Commissione (GU L 348 del 21.12.2016, pag. 11);
-- – regolamento di esecuzione (UE) 2017/2160 della Commissione (GU L 304 del 21.11.2017, pag. 47).
+- – regolamento di esecuzione (UE) 2021/666 della Commissione (GU L 139 del 23.4.2021, pag. 187);
+- – regolamento di esecuzione (UE) 2023/1772 della Commissione (GU L 228 del 15.9.2023, pag. 79);
+- – regolamento di esecuzione (UE) 2024/379 della Commissione (GU L, 2024/379, 26.1.2024).
 
 **Regolamento di esecuzione (UE) n. 409/2013 della Commissione**, del 3 maggio 2013, relativo alla definizione di progetti comuni, all’assetto di governance e all’indicazione di incentivi a sostegno dell’attuazione del piano generale di gestione del traffico aereo in Europa (testo rilevante ai fini del SEE) (GU L 123 del 4.5.2013, pag. 1), modificato da:
 
@@ -989,10 +940,10 @@ all’allegato I è aggiunta la voce «Switzerland UIR».
 
 Ai fini del presente Accordo, l’allegato del regolamento si intende adattato come segue:
 
-- (a) punto 1.2.1., dopo la lettera (r), è aggiunta la lettera seguente: «(s) Zurigo Kloten»;
-- (b) al punto 2.2.1., dopo la lettera (r), è aggiunta la lettera seguente: «(s) Zurigo Kloten»;
-- (c) al punto 2.2.2., dopo la lettera (r), è aggiunta la lettera seguente: «(s) Zurigo Kloten»;
-- (d) al punto 2.2.3, dopo le lettere (bb) sono aggiunte le lettere seguenti: «(cc) Ginevra; (dd) Zurigo Kloten».
+- (a) al punto 1.2.1., dopo la lettera (r), è aggiunta la lettera seguente: «(s) Zürich Kloten.»;
+- (b) al punto 2.2.1., dopo la lettera (r), è aggiunta la lettera seguente: «(s) Zürich Kloten.»;
+- (c) al punto 2.2.2., dopo la lettera (r), è aggiunta la lettera seguente: «(s) Zürich Kloten.»;
+- (d) al punto 2.2.3, dopo le lettere (bb) sono aggiunte le lettere seguenti: «(cc) Ginevra; (dd) Zürich Kloten.».
 
 **Regolamento di esecuzione (UE) 2018/1048 della Commissione**, del 18 luglio 2018, che stabilisce requisiti per l’utilizzo dello spazio aereo e procedure operative per la navigazione basata sulle prestazioni (GU L 189 del 26.7.2018, pag. 3).
 
@@ -1006,21 +957,19 @@ Ai fini del presente Accordo, l’allegato del regolamento si intende adattato c
 
 **Decisione di esecuzione (UE) 2021/891 della Commissione**, del 2 giugno 2021, relativa alla definizione di obiettivi prestazionali rivisti a livello dell’Unione per la rete di gestione del traffico aereo per il terzo periodo di riferimento (2020–2024) e che abroga la decisione di esecuzione (UE) 2019/903 (testo rilevante ai fini del SEE) (GU L 195 del 3.6.2021, pag. 3).
 
-**Decisione di esecuzione (UE) 2019/2167 della Commissione**, del 17 dicembre 2019, che approva il piano strategico della rete per le funzioni della rete di gestione del traffico aereo del cielo unico europeo per il periodo 2020–2029 (GU L 328 del 18.12.2019, pag. 89).
+**Decisione di esecuzione (UE) 2023/2718 della Commissione**, del 6 dicembre 2023, che approva il piano strategico della rete per le funzioni della rete di gestione del traffico aereo del cielo unico europeo per il periodo 2025–2029 e abroga la decisione di esecuzione (UE) 2019/2167 (GU L, 2023/2718, 8.12.2023).
 
 **Decisione di esecuzione (UE) 2019/2168 della Commissione**, del 17 dicembre 2019, relativa alla nomina del presidente e dei membri del consiglio di gestione della rete, nonché dei loro supplenti, e dei membri della cellula europea di coordinamento dell’aviazione in caso di crisi, nonché dei loro supplenti, per le funzioni della rete di gestione del traffico aereo per il terzo periodo di riferimento 2020–2024 (GU L 328 del 18.12.2019, pag. 90).
-
-**Decisione di esecuzione (UE) 2019/2012 della Commissione**, del 29 novembre 2019, sulle deroghe ai sensi dell’articolo 14 del regolamento (CE) n. 29/2009 che stabilisce i requisiti per i servizi di collegamento dati (data link) per il cielo unico europeo (testo rilevante ai fini del SEE) (GU L 312 del 3.12.2019, pag. 95).
 
 **Regolamento di esecuzione (UE) 2020/1627 della Commissione**, del 3 novembre 2020, relativo a misure eccezionali per il terzo periodo di riferimento (2020–2024) del sistema di prestazioni e di tariffazione nel cielo unico europeo dovute alla pandemia di COVID-19 (GU L 366 del 4.11.2020, pag. 7).
 
 ## 6. Ambiente e inquinamento acustico
 
-**Direttiva 2002/30/CE** **del Parlamento europeo e del Consiglio**, del 26 marzo 2002, che istituisce norme e procedure per l’introduzione di restrizioni operative ai fini del contenimento del rumore negli aeroporti della Comunità (art. da 1 a 12 e da 14 a 18) (testo rilevante ai fini del SEE) (GU L 85 del 28.3.2002, pag. 40).
+**Direttiva 2002/30/CE** del Parlamento europeo e del Consiglio, del 26 marzo 2002, che istituisce norme e procedure per l’introduzione di restrizioni operative ai fini del contenimento del rumore negli aeroporti della Comunità (art. da 1 a 12 e da 14 a 18) (testo rilevante ai fini del SEE) (GU L 85 del 28.3.2002, pag. 40).
 
-(Si applicano le modifiche dell’allegato I, derivanti dall’allegato II, capitolo 8 (Politica dei trasporti), sezione G (Trasporto aereo), punto 2, dell’Atto relativo alle condizioni di adesione della Repubblica Ceca, della Repubblica di Estonia, della Repubblica di Cipro, della Repubblica di Lettonia, della Repubblica di Lituania, della Repubblica di Ungheria, della Repubblica di Malta, della Repubblica di Polonia, della Repubblica di Slovenia e della Repubblica slovacca e agli adattamenti dei trattati sui quali si fonda l’Unione europea).
+(Si applicano le modifiche dell’allegato I, derivanti dall’allegato II, capitolo 8 (Politica dei trasporti), sezione G (Trasporto aereo), punto 2, dell’Atto relativo alle condizioni di adesione della Repubblica ceca, della Repubblica di Estonia, della Repubblica di Cipro, della Repubblica di Lettonia, della Repubblica di Lituania, della Repubblica di Ungheria, della Repubblica di Malta, della Repubblica di Polonia, della Repubblica di Slovenia e della Repubblica slovacca e agli adattamenti dei trattati sui quali si fonda l’Unione europea).
 
-**Direttiva 2006/93/CE** **del Parlamento europeo e del Consiglio**, del 12 dicembre 2006, sulla disciplina dell’utilizzazione degli aerei di cui all’allegato 16 della convenzione sull’aviazione civile internazionale, volume 1, parte II, capitolo 3, seconda edizione (1988) (versione codificata) (testo rilevante ai fini del SEE) (GU L 374 del 27.12.2006, pag. 1).
+**Direttiva 2006/93/CE** del Parlamento europeo e del Consiglio, del 12 dicembre 2006, sulla disciplina dell’utilizzazione degli aerei di cui all’allegato 16 della convenzione sull’aviazione civile internazionale, volume 1, parte II, capitolo 3, seconda edizione (1988) (versione codificata) (testo rilevante ai fini del SEE) (GU L 374 del 27.12.2006, pag. 1).
 
 ## 7. Protezione dei consumatori
 
@@ -1034,11 +983,11 @@ Ai fini del presente Accordo, l’allegato del regolamento si intende adattato c
 
 - – regolamento (CE) n. 889/2002 (GU L 140 del 30.5.2002, pag. 2).
 
-**Regolamento (CE) n. 261/2004** **del Parlamento europeo e del Consiglio**, dell’11 febbraio 2004, che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo o di ritardo prolungato, e che abroga il regolamento (CEE) n. 295/91 (testo rilevante ai fini del SEE) (GU L 46 del 17.2.2004, pag. 1)
+**Regolamento (CE) n. 261/2004 del Parlamento europeo e del Consiglio**, dell’11 febbraio 2004, che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo o di ritardo prolungato, e che abroga il regolamento (CEE) n. 295/91 (testo rilevante ai fini del SEE) (GU L 46 del 17.2.2004, pag. 1)
 
 (art. da 1 a 18)
 
-**Regolamento (CE) n. 1107/2006** **del Parlamento europeo e del Consiglio**, del 5 luglio 2006, relativo ai diritti delle persone con disabilità e delle persone a mobilità ridotta nel trasporto aereo (testo rilevante ai fini del SEE) (GU L 204 del 26.7.2006, pag. 1).
+**Regolamento (CE) n. 1107/2006 del Parlamento europeo e del Consiglio**, del 5 luglio 2006, relativo ai diritti delle persone con disabilità e delle persone a mobilità ridotta nel trasporto aereo (testo rilevante ai fini del SEE) (GU L 204 del 26.7.2006, pag. 1).
 
 ## 8. Varie
 
@@ -1049,7 +998,7 @@ Ai fini del presente Accordo, l’allegato del regolamento si intende adattato c
 ## 9. Allegati
 
 - A: Protocollo sui privilegi e sulle immunità dell’Unione europea
-- B: Disposizioni in materia di controllo finanziario esercitato dall’Unione europea per quanto riguarda i partecipanti svizzeri alle attività dell’AESA
+- B: Disposizioni in materia di controllo finanziario esercitato dall’Unione europea per quanto riguarda i partecipanti svizzeri alle attività dell’AESA.
 
 Allegato A
 
@@ -1057,7 +1006,7 @@ Allegato A
 
 Le alte parti contraenti,
 
-*considerando* che, ai termini dell’articolo 343 del trattato sul funzionamento dell’Unione europea e dell’articolo 191 del trattato che istituisce la Comunità europea dell’energia atomica (CEEA), l’Unione europea e la CEEA godono sul territorio degli Stati membri delle immunità e dei privilegi necessari all’assolvimento della loro missione;
+*considerando* che, ai termini dell’articolo 343 del trattato sul funzionamento dell’Unione europea e dell’articolo 191 del trattato che istituisce la Comunità europea dell’energia atomica (CEEA), l’Unione europea e la CEEA godono sul territorio degli Stati membri delle immunità e dei privilegi necessari all’assolvimento della loro missione,
 
 *hanno convenuto* le disposizioni seguenti, che sono allegate al trattato sull’Unione europea, al trattato sul funzionamento dell’Unione europea e al trattato che istituisce la Comunità europea dell’energia atomica:
 
@@ -1099,7 +1048,7 @@ I presidenti delle istituzioni dell’Unione possono rilasciare ai membri ed agl
 
 La Commissione può concludere accordi per far riconoscere tali lasciapassare come titoli di viaggio validi sul territorio di Stati terzi.
 
-### Capo III Membri del Parlamento europeo
+### Capo III Membri del parlamento europeo
 
 #### Art. 7
 
@@ -1179,7 +1128,7 @@ Lo Stato membro, sul cui territorio è situata la sede dell’Unione, riconosce 
 
 #### Art. 17
 
-I privilegi, le immunità e le agevolazioni sono concessi ai funzionari e agli altri agenti dell’Unione esclusivamente nell’interesse di quest’ultima.
+I privilegi, le immunità e le agevolazioni sono concesse ai funzionari e agli altri agenti dell’Unione esclusivamente nell’interesse di quest’ultima.
 
 Ciascuna istituzione dell’Unione ha l’obbligo di togliere l’immunità concessa a un funzionario o ad un altro agente ogniqualvolta essa reputi che ciò non sia contrario agli interessi dell’Unione.
 
@@ -1199,7 +1148,7 @@ Gli articoli da 11 a 14 e l’articolo 17 sono applicabili ai giudici, agli avvo
 
 Il presente protocollo si applica anche alla Banca europea per gli investimenti, ai membri dei suoi organi, al suo personale e ai rappresentanti degli Stati membri che partecipano ai suoi lavori, senza pregiudizio delle disposizioni del protocollo sullo statuto della Banca.
 
-La Banca europea per gli investimenti sarà, inoltre, esente da qualsiasi imposizione fiscale e parafiscale al momento degli aumenti del suo capitale, nonché dalle varie formalità che tali operazioni potranno comportare nello Stato in cui ha la propria sede. Parimenti, il suo scioglimento e la sua liquidazione non comporteranno alcuna imposizione fiscale. Infine, l’attività della Banca e dei suoi organi, svolgentesi secondo le condizioni statutarie, non darà luogo all’applicazione di tasse sulla cifra d’affari.
+La Banca europea per gli investimenti sarà, inoltre, esente da qualsiasi imposizione fiscale e parafiscale al momento degli aumenti del suo capitale, nonché dalle varie formalità che tali operazioni potranno comportare nello Stato in cui ha la propria sede. Parimenti, il suo scioglimento e la sua liquidazione non comporteranno alcuna imposizione fiscale. Infine, l’attività della Banca e dei suoi organi, svolgentesi secondo le condizioni statutarie, non darà luogo all’applicazione di tasse sulla cifra di affari.
 
 #### Art. 22
 
@@ -1231,8 +1180,8 @@ I funzionari e gli agenti dell’Agenzia, nonché i loro familiari affiliati al 
 
 La Corte di giustizia dell’Unione europea ha competenza esclusiva per tutte le questioni riguardanti i rapporti tra l’Agenzia o la Commissione e il suo personale per quanto concerne l’applicazione del regolamento (CEE/Euratom/CECA) n. 259/68[^annexu1-lvlu1-lvl3-2] del Consiglio e le altre disposizioni di diritto dell’Unione europea che stabiliscono le condizioni di lavoro.
 
-[^annexu1-lvlu1-lvl3-1]: Regolamento (Euratom, CECA, CEE) n. 549/69 del Consiglio, del 25 marzo 1969, che stabilisce le categorie di funzionari ed agenti delle Comunità europee ai quali si applicano le disposizioni degli articoli 12, 13, secondo comma, e 14 del protocollo sui privilegi e sulle immunità delle Comunità (GU L 74 del 27.3.1969, pag. 1). Regolamento modificato da ultimo dal regolamento (CE) n. 1749/2002 della Commissione (GU L 264 del 2.10.2002, pag. 13).
-[^annexu1-lvlu1-lvl3-2]: Regolamento (CEE, Euratom, CECA) n. 259/68 del Consiglio, del 29 febbraio 1968, che definisce lo statuto dei funzionari delle Comunità europee nonché il regime applicabile agli altri agenti di tali Comunità, ed istituisce speciali misure applicabili temporaneamente ai funzionari della Commissione (regime applicabile agli altri agenti) (GU L 56 del 4.3.1968, pag. 1). Regolamento modificato da ultimo dal regolamento (CE) n. 2104/2005 della Commissione (GU L 337 del 22.12.2005, pag. 7).
+[^annexu1-lvlu1-lvl3-1]: Regolamento (Euratom, CECA, CEE) n. 549/69 del Consiglio, del 25 marzo 1969, che stabilisce le categorie di funzionari ed agenti delle Comunità europee ai quali si applicano le disposizioni degli articoli 12, 13, secondo comma, e 14 del protocollo sui privilegi e sulle immunità delle Comunità (GU L 74 del 27.3.1969, pag. 1). Regolamento modificato da ultimo dal regolamento (CE, Euratom) n. 1749/2002 della Commissione (GU L 264 del 2.10.2002, pag. 13).
+[^annexu1-lvlu1-lvl3-2]: Regolamento (CEE, Euratom, CECA) n. 259/68 del Consiglio, del 29 febbraio 1968, che definisce lo statuto dei funzionari delle Comunità europee nonché il regime applicabile agli altri agenti di tali Comunità, ed istituisce speciali misure applicabili temporaneamente ai funzionari della Commissione (regime applicabile agli altri agenti) (GU L 56 del 4.3.1968, pag. 1). Regolamento modificato da ultimo dal regolamento (CE, Euratom) n. 2104/2005 della Commissione (GU L 337 del 22.12.2005, pag. 7).
 
 Allegato B
 
@@ -1248,7 +1197,7 @@ L’Agenzia e la Commissione comunicano direttamente con tutte le persone o gli 
 
 **Audit**
 
-<sup>1.</sup> In conformità al regolamento (CE, Euratom) n. 1605/2002 del Consiglio, del 25 giugno 2002, che stabilisce il regolamento finanziario applicabile al bilancio generale delle Comunità europee[^annexB-lvlu1-2-1] e al regolamento finanziario adottato dal consiglio di amministrazione dell’Agenzia il 26 marzo 2003, al regolamento (CE, Euratom) n. 2343/2002 della Commissione, del 23 dicembre 2002, che reca regolamento finanziario quadro degli organismi di cui all’articolo 185 del regolamento (CE, Euratom) n. 1605/2002 del Consiglio che stabilisce il regolamento finanziario applicabile al bilancio generale delle Comunità europee[^annexB-lvlu1-2-2], nonché agli altri strumenti menzionati nella presente decisione, i contratti o le convenzioni conclusi con beneficiari stabiliti in Svizzera e le decisioni prese nei confronti di questi ultimi possono prevedere l’esecuzione in qualsiasi momento di audit scientifici, finanziari, tecnici o di altra natura presso le loro sedi e le sedi dei loro subfornitori, ad opera di agenti dell’Agenzia e della Commissione o di altre persone da queste debitamente autorizzate.
+<sup>1.</sup> In conformità al regolamento (CE, Euratom) n. 1605/2002 del Consiglio, del 25 giugno 2002[^annexB-lvlu1-2-1], che stabilisce il regolamento finanziario applicabile al bilancio generale delle Comunità europee e al regolamento finanziario adottato dal consiglio di amministrazione dell’Agenzia il 26 marzo 2003, al regolamento (CE, Euratom) n. 2343/2002 della Commissione, del 23 dicembre 2002[^annexB-lvlu1-2-2], che reca regolamento finanziario quadro degli organismi di cui all’articolo 185 del regolamento (CE, Euratom) n. 1605/2002 del Consiglio che stabilisce il regolamento finanziario applicabile al bilancio generale delle Comunità europee, nonché agli altri strumenti menzionati nella presente decisione, i contratti o le convenzioni conclusi con beneficiari stabiliti in Svizzera e le decisioni prese nei confronti di questi ultimi possono prevedere l’esecuzione in qualsiasi momento di audit scientifici, finanziari, tecnici o di altra natura presso le loro sedi e le sedi dei loro subfornitori, ad opera di agenti dell’Agenzia e della Commissione o di altre persone da queste debitamente autorizzate.
 
 <sup>2.</sup> Gli agenti dell’Agenzia e della Commissione e le altre persone da queste autorizzate devono poter accedere ai siti, ai lavori e ai documenti, nonché a tutte le informazioni necessarie, comprese quelle in formato elettronico, per portare a termine efficacemente tali audit. Il diritto di accesso deve essere esplicitamente sancito nei contratti o nelle convenzioni conclusi in virtù degli strumenti menzionati nella presente decisione.
 
@@ -1265,7 +1214,7 @@ L’Agenzia e la Commissione comunicano direttamente con tutte le persone o gli 
 
 **Controlli sul posto**
 
-<sup>1.</sup> In base al presente Accordo la Commissione (OLAF) è autorizzata a effettuare controlli e verifiche in loco in territorio svizzero alle condizioni e secondo le modalità stabilite dal regolamento (CE, Euratom) n. 2185/96 del Consiglio, dell’11 novembre 1996, relativo ai controlli e alle verifiche sul posto effettuati dalla Commissione ai fini della tutela degli interessi finanziari delle Comunità europee contro le frodi e altre irregolarità[^annexB-lvlu1-3-1].
+<sup>1.</sup> In base al presente Accordo la Commissione (OLAF) è autorizzata a effettuare controlli e verifiche in loco in territorio svizzero alle condizioni e secondo le modalità stabilite dal regolamento (CE, Euratom) n. 2185/96 del Consiglio, dell’11 novembre 1996[^annexB-lvlu1-3-1], relativo ai controlli e alle verifiche sul posto effettuati dalla Commissione ai fini della tutela degli interessi finanziari delle Comunità europee contro le frodi e altre irregolarità.
 
 <sup>2.</sup> I controlli e le verifiche sul posto sono preparati ed eseguiti dalla Commissione in stretta collaborazione con il Controllo federale delle finanze svizzero o con le altre autorità svizzere competenti da quest’ultimo designate; tali autorità sono informate in tempo utile dell’oggetto, dello scopo e della base giuridica dei controlli e delle verifiche, in modo da poter fornire tutto l’aiuto necessario. A tal fine, gli agenti delle autorità svizzere competenti possono partecipare ai controlli e alle verifiche sul posto.
 
@@ -1295,7 +1244,7 @@ Le informazioni comunicate o acquisite in virtù del presente allegato, in quals
 
 **Misure e sanzioni amministrative**
 
-Ferma restando l’applicazione del diritto penale svizzero, l’Agenzia o la Commissione può imporre misure e sanzioni amministrative in conformità al regolamento (CE, Euratom) n. 1605/2002 del Consiglio, del 25 giugno 2002, e al regolamento (CE, Euratom) n. 2342/2002 della Commissione, del 23 dicembre 2002, nonché al regolamento (CE, Euratom) n. 2988/95 del Consiglio, del 18 dicembre 1995, relativo alla protezione degli interessi finanziari delle Comunità[^annexB-lvlu1-6-1].
+Ferma restando l’applicazione del diritto penale svizzero, l’Agenzia o la Commissione può imporre misure e sanzioni amministrative in conformità al regolamento (CE, Euratom) n. 1605/2002 del Consiglio, del 25 giugno 2002, e al regolamento (CE, Euratom) n. 2342/2002 della Commissione, del 23 dicembre 2002, nonché al regolamento (CE, Euratom) n. 2988/95 del Consiglio, del 18 dicembre 1995[^annexB-lvlu1-6-1], relativo alla protezione degli interessi finanziari delle Comunità.
 
 [^annexB-lvlu1-6-1]: GU L 312 del 23.12.1995, pag. 1.
 
