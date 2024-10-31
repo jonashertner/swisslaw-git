@@ -4,523 +4,779 @@ number: "550.100"
 title: Ordonnance de la loi sur la police cantonale
 short: OPol
 language: fr
-version: 2017-01-01
-corrected: 2017-08-05
-version_adopted: 2016-09-14
+version: 2024-11-01
+version_adopted: 2024-10-30
 adopted: 2017-12-20
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.100"
-pdf: "https://lex.vs.ch/api/fr/versions/390/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3590/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance de la loi sur la police cantonale
 
-du 1er octobre 1986
+(OPol)
+
+du 20.12.2017 (état 01.11.2024)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les articles 8 et 29 de la loi sur la police cantonale, du 20 janvier 1953; sur la proposition du Département de la sécurité et des institutions,
+vu la loi sur la police cantonale du 11 novembre 2016 (LPol);
 
-ordonne:
+vu l'article 89 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
 
-### Chapitre 1: Attributions de la police cantonale
+sur la proposition du Département de la sécurité, des institutions et du sport,
+
+ordonne:[^ingress-1]
+
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+
+## 1 Dispositions générales
 
 #### Art. 1
 
-**Missions générales**
+**Objet**
 
-<sup>1</sup> La police cantonale a les missions définies par la loi sur la police cantonale et le Code de procédure pénale.<sup>10</sup>
+<sup>1</sup> La présente ordonnance définit:
 
-<sup>2</sup> En outre, elle a pour tâches:
-
-- a) de prévenir ou d’empêcher autant que possible tout acte punissable;<sup>10</sup>
-
-- b) de rechercher les infractions et leurs auteurs, d’exécuter les tâches de police judiciaire et d’escorter les prévenus;<sup>10</sup>
-
-- c) d’organiser et de coordonner les forces et moyens d’intervention dans le cadre de ses missions primaires et des mesures d’urgence.<sup>10</sup>
-
-<sup>3</sup> Chaque membre de la police cantonale peut être appelé à remplir l’une ou l’autre de ces missions.<sup>10</sup>
+- a) l'organisation générale des unités de la police cantonale, leur implantation territoriale, leur désignation et leurs missions;
+- b) l'échelle des grades;
+- c) l'effectif du corps en policiers;
+- d) la durée de conservation des données de police;
+- e) le statut et les conditions d'admission du policier, de l'auxiliaire et de l'aspirant de police;
+- f) les émoluments forfaitaires perçus en cas d'engagement à titre préventif de la police cantonale, de son intervention lors d'une manifestation ou en cas de prestation en faveur d'un tiers.
 
 #### Art. 2
 
-**Tâches spéciales**
+**Organisation générale**
 
-<sup>1</sup> La police cantonale veille au respect de la législation en vigueur et pourvoit, cas échéant, à son exécution lorsque son concours est expressément prévu par la loi.
+<sup>1</sup> La police cantonale forme un seul corps, organisé militairement, dirigé par un commandant, comprenant:
 
-<sup>2</sup> Elle prête son concours pour l'exécution des décisions et jugements en force.
+- a) deux unités opérationnelles: la gendarmerie et la police judiciaire;
+- b) cinq unités d'appui: les unités direction et controlling, communication et prévention, planification, administration et affaires juridiques et logistique.
+
+<sup>2</sup> Chaque unité est dirigée par un officier d'état-major.
+
+<sup>3</sup> Le commandant et les officiers d'état-major forment le commandement.
+
+<sup>4</sup> La police cantonale dispose de structures opérationnelles additionnelles dont la responsabilité incombe à un officier. Elles sont définies dans une instruction de service.
+
+<sup>5</sup> Les unités collaborent et s'appuient réciproquement.
 
 #### Art. 3
 
-<sup>2</sup> Collaboration avec les polices communales
+**Missions générales**
 
-<sup>1</sup> Les polices cantonale et communale(s) recherchent une collaboration réciproque dans le maintien de l'ordre public.
+<sup>1</sup> La police cantonale a les missions définies par la loi sur la police cantonale.
 
-<sup>2</sup> Sous réserve des dispositions légales contraires, la police cantonale peut déléguer à la police communale, par convention, une partie de ses attributions.
+<sup>2</sup> Chaque membre de la police cantonale peut être appelé à remplir l'une ou l'autre de ces missions.
 
-### Chapitre 2: Organisation
+## 2 Organisation générale des unités de la police cantonale, désignation et missions
+
+### 2.1 Unités opérationnelles
 
 #### Art. 4
 
-<sup>2</sup> Organisation structurelle
+**Gendarmerie a) Organisation**
 
-<sup>1</sup> La police cantonale forme un seul corps comprenant la gendarmerie, la police de sûreté et les services généraux.<sup>10</sup>
+<sup>1</sup> La gendarmerie est organisée territorialement et comprend:
 
-<sup>2</sup> La gendarmerie assure le maintien de l’ordre, veille à la sécurité et à la tranquillité publiques, prévient et empêche autant que possible tout acte punissable, surveille les personnes et les véhicules empruntant la voie publique, aide les usagers de la route, établit les constats en cas d’accident et effectue les enquêtes judiciaires de sa compétence.<sup>10</sup>
+- a) trois arrondissements régionaux, soit l'arrondissement du Haut-Valais, du Valais central et du Bas-Valais;
+- b) des sections spécialisées, soit:
+  - 1\. la section unités spéciales,
+  - 2\. la section circulation,
+  - 3\. la section d'action rapide.
 
-<sup>3</sup> La police de sûreté recherche les infractions, recueille les indices et les preuves, établit l’identité des auteurs, les recherche et les met à la disposition de la justice.<sup>10</sup>
+<sup>2</sup> Chaque arrondissement se subdivise en bases territoriales et postes dont le nombre, l'importance et l'emplacement sont fixés selon les besoins du service.
 
-<sup>4</sup> Les services généraux assument notamment la gestion administrative et financière, l’informatique, les télécommunications, le recrutement, la formation, l’information, ainsi que la planification des interventions et fournissent au commandant les dossiers de base nécessaires au commandement.<sup>10</sup>
+#### Art. 4a
+
+**b) Tâches**
+
+<sup>1</sup> La gendarmerie est chargée d'assurer le maintien de l'ordre et la sécurité publique. Elle exécute notamment les tâches de la police de sécurité, de proximité ainsi que de circulation.
+
+<sup>2</sup> Elle exerce les tâches d'enquête qui n'exigent pas l'intervention de la police judiciaire.
+
+<sup>3</sup> Elle exerce les tâches de police administrative qui sont attribuées à la police cantonale par la législation spéciale.
+
+<sup>4</sup> Elle assure la permanence d’intervention 24h/24.
 
 #### Art. 5
 
-<sup>2</sup> Gendarmerie
+**c) Arrondissements régionaux**
 
-<sup>1</sup> La gendarmerie comprend:
+<sup>1</sup> Chaque arrondissement régional comprend:
 
-- a) trois unités régionales, à savoir:
-
-- l'arrondissement I, regroupant les districts du Haut-Valais;
-
-- l'arrondissement II, regroupant les districts du Valais central;
-
-- l'arrondissement III, regroupant les districts du Bas-Valais.
-
-- b) des unités spécialisées, notamment:
-
-- la section d'intervention, comprenant un groupe interventions et un groupe recherches.
-
-<sup>2</sup> Chaque arrondissement comprend des bases territoriales A, à Brigue et Viège pour l'arrondissement I, à Sierre et Sion pour l'arrondissement II et à Martigny et Monthey pour l'arrondissement III.
-
-<sup>3</sup> En outre, chaque arrondissement comprend des bases territoriales B et des postes décentralisés dont le nombre, l'importance et l'emplacement sont fixés selon les besoins du service.
-
-<sup>4</sup> La base territoriale A dispose d'un piquet de réserve et d'intervention pour l'arrondissement en offrant un service de guichet régulier avec l'effectif renforcé y relatif. La base territoriale B intervient dans le cadre de son secteur, n'effectue en principe aucun service de piquet et offre un service de guichet restreint. Le poste intervient dans son rayon et n'offre pas de service de guichet, sauf besoins temporaires reconnus.
-
-<sup>5</sup> L'unité mobile assure la permanence d'intervention dans tous les secteurs d'un arrondissement, y compris sur la route nationale. Les différents groupes qui la composent se répartissent, en principe, dans les bases territoriales A.
-
-<sup>6</sup> Le chef d'arrondissement de gendarmerie prend son service dans l'une et l'autre base territoriale A de son arrondissement, en fonction des besoins du service.
+- a) une unité mobile qui assure principalement la présence policière et la permanence de l'intervention 24 heures sur 24 dans tous les secteurs de l'arrondissement, y compris sur les routes nationales;
+- b) des bases territoriales A, des bases territoriales B et des postes, qui assurent principalement les tâches de la police de proximité, de la police administrative et effectuent les constats et enquêtes judiciaires de leur compétence. Les bases territoriales A offrent un service de guichet régulier. Les bases territoriales B et les postes offrent un service de guichet restreint;
+- c) un bureau de conduite d'arrondissement qui assure la planification, la coordination opérationnelle ainsi que la supervision administrative de l'arrondissement.
 
 #### Art. 6
 
-<sup>2</sup> Police de sûreté
+**d) Section unités spéciales**
 
-La police de sûreté comprend:
+<sup>1</sup> La section unités spéciales comprend:
 
-- a) trois unités régionales, à savoir
+- a) un groupe d'intervention;
+- b) un groupe canin;
+- c) un groupe aéroport et migration;
+- d) un groupe montagne.
 
-- l'arrondissement I pour les districts du Haut-Valais, à Viège;
-
-<sup>-</sup> l'arrondissement II pour les districts du Valais central, à Sion;
-
-- l'arrondissement III pour les districts du Bas-Valais, à Saint- Maurice;
-
-- b) des unités spécialisées, notamment:
-
-- la section d'identité judiciaire, comprenant le groupe d'identification et le groupe de coordination;
-
-- la section financière couvrant notamment les domaines de la criminalité économique et le blanchiment d'argent;
-
-- la section stupéfiants chargée en priorité de la répression du trafic illicite des stupéfiants;
-
-- la section observation effectuant la recherche du renseignement en matière de police judiciaire;
-
-- le groupe d'investigations spéciales exécutant les mandats du Ministère public de la Confédération.
+<sup>2</sup> La section unités spéciales appuie les unités opérationnelles lors d'interventions à risques. Elle assure la police aéroportuaire et coordonne les renvois en matière de migrations.
 
 #### Art. 7
 
-<sup>2</sup> Services généraux
+**e) Section circulation**
 
-Les services généraux comprennent des unités spécialisées, notamment:
+<sup>1</sup> La section circulation comprend:
 
-- a) la centrale d’engagement et l’état-major de crise de la Police cantonale;<sup>10</sup>
+- a) des groupes techniques;
+- b) des groupes chargés des centres de compétences du trafic lourd;
+- c) un groupe de prévention routière;
+- d) un groupe chargé du bureau de la circulation.
 
-- b) la section formation et prévention;<sup>10</sup>
+<sup>2</sup> La section circulation appuie les arrondissements de gendarmerie lors de contrôles spécifiques et techniques liés à la circulation routière. Elle coordonne également les activités d'éducation et de prévention routière et gère les tâches administratives liées notamment aux constats d'accident et d'infractions.
 
-- c) la section administration générale;<sup>10</sup>
+#### Art. 7a
 
-- d) la section technique / intendance / matériel;<sup>10</sup>
+**f) Section d'action rapide**
 
-- e) la section informatique et documentation;<sup>10</sup>
-
-- f) la section information.<sup>10</sup>
+<sup>1</sup> La section d’action rapide comprend des groupes chargés de combattre la criminalité de rue et les phénomènes sériels, de renforcer la présence dissuasive sur le terrain ainsi que de lutter contre la criminalité transfrontalière. Elle garantit en outre une capacité d'intervention rapide face à tout événement entravant l’espace public.
 
 #### Art. 8
 
-<sup>2</sup> Coordination judiciaire
+**Police judiciaire a) Organisation**
 
-<sup>1</sup> La coordination judiciaire incombe au groupe coordination de la section d'identification, qui recueille, exploite et diffuse les renseignements dans les arrondissements et les unités spécialisées.
+<sup>1</sup> La police judiciaire est organisée territorialement elle comprend:
 
-<sup>2</sup> Les chefs d'arrondissement de la police de sûreté et de la gendarmerie sont chargés d'effectuer la synthèse des enquêtes et opérations de lutte contre la criminalité qui se déroulent dans leur secteur et d'en informer le groupe coordination.
+- a) trois arrondissements régionaux, soit l'arrondissement du Haut-Valais, du Valais central et du Bas-Valais;
+- b) des sections spécialisées, soit:
+  - 1\. la section d'identité judiciaire,
+  - 2\. la section financière,
+  - 3\. la section stupéfiants,
+  - 4\. la section d'appui opérationnel,
+  - 5\. la section mineurs et moeurs,
+  - 6\. la section renseignement, analyse et documentation,
+  - 7\. la section cybercriminalité.
+
+<sup>2</sup> La police judiciaire est l'unité compétente pour collaborer avec l'Office fédéral de la police pour l'exécution de la loi fédérale instituant des mesures visant au maintien de la sûreté intérieure (LMSI), demander de prononcer des mesures visant à empêcher les activités terroristes et procéder à l'exécution et aux contrôles de ces mesures.
+
+#### Art. 8a
+
+**b) Tâches**
+
+<sup>1</sup> La police judiciaire:
+
+- a) exerce les tâches d'enquête dans les affaires dont l'importance, la complexité ou la nature particulière exigent son intervention;
+- b) coordonne l'activité dans le domaine judiciaire.
+
+<sup>2</sup> La répartition des tâches entre gendarmerie et police judiciaire fait l'objet d'une instruction de service interne à la police cantonale.
+
+<sup>3</sup> La police judiciaire assure un service de piquet 24h/24.
 
 #### Art. 9
 
-<sup>2</sup>
+**c) Arrondissements régionaux**
 
-Abrogé.
+<sup>1</sup> Chaque arrondissement régional prévient les infractions, les recherche, les constate et enquête. Il recueille les indices et les preuves, recherche les auteurs, établit leur identité et les met à disposition de la justice.
+
+<sup>2</sup> Dans les limites de ses compétences, il coordonne les enquêtes menées sur son territoire.
+
+<sup>3</sup> Il est également responsable:
+
+- a) des tâches dévolues à la police cantonale selon la législation sur la prostitution;
+- b) de conduire et coordonner la gestion de la menace.
 
 #### Art. 10
 
-<sup>9</sup> Compétences
+**d) Section d'identité judiciaire**
 
-<sup>1</sup> Sous réserve des dispositions légales contraires, le Conseil d'Etat exerce une compétence générale en matière de police; il édicte les dispositions nécessaires à l'application de la présente ordonnance et décide, sur proposition du chef du Département dont relève la police, notamment:
-
-- a) de l'approbation du règlement de service réglant le détail de l'organisation;
-
-- b) des missions données à la police cantonale;
-
-- c) de la création des unités spécialisées et des postes de police pour autant que celle-ci ne soit pas arrêtée dans la présente ordonnance;
-
-- d) de l'armement et de l'équipement;
-
-- e) de l'instruction, des nominations et des promotions;
-
-- f) du montant des indemnités à verser aux membres de la police cantonale;
-
-- g) des frais et émoluments perçus pour les interventions de police;
-
-- h) des conventions de collaboration avec les communes.
-
-<sup>2</sup> Pour les questions administratives, le corps de la police cantonale dépend du chef du Département.
-
-<sup>3</sup> En matière de police judiciaire, le corps de la police cantonale est fonctionnellement subordonné à la direction de la procédure. Si un membre de la police cantonale est impliqué dans une affaire pénale, le premier procureur désigne les personnes chargées de l'enquête.
-
-<sup>4</sup> Le commandant est chargé de la direction, de l'organisation et de la surveillance de l'ensemble de la police cantonale dans le cadre des structures arrêtées.
+<sup>1</sup> La section d'identité judiciaire recherche les traces et indices sur les lieux des infractions et les exploite. Elle identifie les personnes vivantes et mortes.
 
 #### Art. 11
 
-<sup>2</sup> Commandement
+**e) Section financière**
 
-<sup>1</sup> Le commandant est assisté d'un état-major de cinq officiers: le chef de la gendarmerie, le chef de la police de sûreté, le chef des services généraux, le chef opérations, le chef d'état-major. Leurs tâches sont définies dans le règlement de service et le cahier des charges établi pour chaque officier.
+<sup>1</sup> La section financière effectue les enquêtes importantes et complexes dans le domaine de la criminalité économique.
 
-<sup>2</sup> Le commandant et son état-major forment le commandement de la police cantonale.
-
-<sup>3</sup> La permanence est assurée par un des officiers: l'officier de service.
-
-<sup>4</sup> Le commandant désigne son remplaçant pour les cas d'absence ou d'empêchement.
+<sup>2</sup> Dans les affaires de blanchiment d'argent elle conduit et coordonne l'action dans les différentes régions du canton.
 
 #### Art. 12
 
-<sup>2</sup> Grades
+**f) Section stupéfiants**
 
-<sup>1</sup> Les grades des policiers portant l'uniforme, sont capitaine, lieutenant, adjudant, sergent-major, sergent, caporal, appointé, gendarme.
+<sup>1</sup> La section stupéfiants mène les enquêtes prioritairement inhérentes au trafic des stupéfiants.
 
-<sup>2</sup> A la police de sûreté, les grades sont: commissaire, inspecteur-chef, inspecteur principal, inspecteur I, inspecteur II, inspecteur III, agent de sûreté.
-
-<sup>3</sup> L'arrondissement et l'unité spécialisée sont dirigés par un lieutenant ou un adjudant, respectivement un inspecteur-chef ou un inspecteur principal selon les responsabilités et les exigences liées à la fonction. En vertu des mêmes critères, les bases territoriales et les groupes sont dirigés par un sergent-major ou un sergent, respectivement par un inspecteur principal ou un inspecteur I.
-
-<sup>4</sup> Demeure réservé l'engagement des fonctionnaires administratifs et scientifiques de police à ces différents postes lorsque la nécessité en est établie.
+<sup>2</sup> Elle contrôle régulièrement les lieux fréquentés par les toxicomanes et collabore à la prévention, notamment avec les institutions spécialisées dans la lutte contre les addictions.
 
 #### Art. 13
 
-<sup>4,8</sup> Effectif
+**g) Section d'appui opérationnel**
 
-<sup>1</sup> L'effectif de la police cantonale est déterminé par le Conseil d'Etat. Il est au maximum de un policier pour 650 habitants.
+<sup>1</sup> La section d'appui opérationnel comprend:
 
-<sup>2</sup> La dotation intervient en fonction des disponibilités budgétaires.
+- a) un groupe d'observation;
+- b) un groupe technique.
 
-<sup>3</sup> Ne sont pas comptabilisés dans l'effectif du corps:
-
-- a) les fonctionnaires administratifs de police qui, par la nature de leurs fonctions, secondent de manière étroite et permanente les membres du corps dans l'accomplissement des missions ne requérant pas la formation de policier;
-
-- b) le personnel civil qui assure l'intendance.
+<sup>2</sup> Elle seconde les unités dans la recherche du renseignement et dans la recherche ciblée de personnes ainsi que dans la mise en oeuvre de moyens techniques.
 
 #### Art. 14
 
-<sup>2</sup> Délégation de compétence, voie de service, ordre de service
+**h) Section mineurs et moeurs**
 
-<sup>1</sup> Sauf instruction contraire du commandant, chaque officier est investi d'une délégation générale de compétence pour toutes les affaires ordinaires dévolues à son service. Il peut déléguer, sous sa responsabilité, une partie de ses pouvoirs au lieutenant/adjudant, respectivement à l'inspecteur-chef.
+<sup>1</sup> La section mineurs et moeurs traite les affaires concernant la délinquance juvénile et assure la coordination de la prévention.
 
-<sup>2</sup> La voie de service est la règle.
+<sup>2</sup> Elle prend en charge les affaires de moeurs et procède aux auditions en application des mesures spéciales du code de procédure pénale suisse visant à protéger les victimes et les enfants.
 
-<sup>3</sup> Le commandant élabore le règlement de service et édicte les ordres de service nécessaires à la bonne marche du corps de police.
-
-### Chapitre 3: Recrutement, admission, avancement et mutation
-
-des policiers
+<sup>3</sup> …
 
 #### Art. 15
 
-**Recrutement**
+**i) Section renseignement, analyse et documentation**
 
-<sup>1</sup> L'accès à l'apprentissage de police, à l'école d'aspirants gendarmes ou à l'école d'aspirants inspecteurs de sûreté intervient en fonction des aptitudes spécifiques que requiert la profession et sur la base d'examens.
+<sup>1</sup> La section renseignement, analyse et documentation comprend:
 
-<sup>2</sup> Un règlement du Conseil d'Etat arrêtera les conditions d'admission à ces épreuves, l'organisation de l'apprentissage de police et des écoles d'aspirants, ainsi que la formation continue.
+- a) un groupe d'investigations spéciales et de lutte contre la violence lors de manifestations sportives qui constitue l’organe d’exécution cantonale au sens de la loi fédérale sur le renseignement;
+- b) un groupe de coordination et de documentation;
+- c) un groupe armes, explosifs et entreprises de sécurité.
 
-<sup>3</sup> Sur demande de l'autorité compétente, les agents des polices municipales peuvent être admis à suivre les cours organisés par la police.
+<sup>2</sup> Elle collecte, traite et exploite de manière permanente le renseignement et les statistiques au profit des unités opérationnelles et du commandement. Elle assure, sur le plan cantonal, le point d’entrée et la coordination en matière de crime organisé et de lutte contre les organisations criminelles.
+
+#### Art. 15a
+
+**j) Section cybercriminalité**
+
+<sup>1</sup> La section cybercriminalité effectue les enquêtes importantes et complexes dans le domaine de la criminalité informatique.
+
+<sup>2</sup> Elle appuie les unités opérationnelles dans la saisie et l’exploitation des données et des traces numériques.
 
 #### Art. 16
 
-<sup>2,4</sup> Admission, nomination, démission
+**Bureau de conduite**
 
-<sup>1</sup> Peut être admis dans les rangs de la police cantonale:
+<sup>1</sup> Les unités opérationnelles disposent d'un bureau de conduite, qui fournit un appui direct au chef d'unité concernant la gestion stratégique, opérationnelle et la planification de l'unité.
 
-- a) celui qui a fréquenté avec succès l'apprentissage ou l'une des écoles d'aspirants mentionnées à l'article 15;
-
-- b) celui qui est au bénéfice d'une formation jugée équivalente.
-
-<sup>2</sup> En outre, la nomination aux fonctions de commandant, de chef de service et de chef d'une unité territoriale ou spécialisée doit être précédée d'une mise au concours au Bulletin officiel. Demeurent réservées les possibilités de mutation avec un collaborateur du même rang. A qualités égales, la préférence est donnée aux candidats faisant déjà partie du corps.
-
-<sup>3</sup> Un agent nommé à titre définitif peut démissionner en tout temps, moyennant six mois de préavis; le Conseil d'Etat est compétent pour abréger ce délai. Si les rapports de service sont résiliés à la demande de l'agent ou consécutivement à une faute de sa part avant l'expiration d'un délai de cinq ans, les frais de formation professionnelle assumés par le canton devront être remboursés à concurrence de 10'000 francs dont il y a lieu de déduire 2'000 francs par année effective de service.
-
-<sup>4</sup> Tout aspirant démissionnaire ou licencié par sa faute est redevable d'une indemnité fixée par le règlement du Conseil d'Etat sur l'école d'aspirants.
+<sup>2</sup> Le bureau de conduite est dirigé par le remplaçant du chef de l'unité.
 
 #### Art. 17
 
-<sup>2</sup> Formation continue
-
-La formation continue est assurée par la section formation et prévention. Le personnel désigné par le commandant est tenu de participer aux cours dispensés par cette section et à ceux qui pourraient être organisés par d'autres autorités ou institutions.
+**…**
 
 #### Art. 18
 
-<sup>2,6</sup> Avancement
+**Service de piquet**
 
-<sup>1</sup> L'avancement des policiers relève de la compétence du Conseil d'Etat. Sa décision se fonde:
+<sup>1</sup> Les unités opérationnelles disposent de piquets d'intervention et de commandement dont le nombre et l'organisation sont définis par le commandant.
 
-- a) sur la qualité de la prestation fournie dans la fonction occupée et
-
-- b) sur le résultat d'examens établissant l'aptitude des postulants, et
-
-- c) sur la base des années de service, soit en principe au plus tôt après:
-
-- trois ans pour le grade d'appointé ou d'inspecteur III;
-
-- neuf ans pour le grade de caporal ou d'inspecteur II;
-
-- treize ans pour le grade de sergent ou d'inspecteur I.
-
-<sup>2</sup> L'accession à une fonction de sergent-major, d'inspecteur principal, d'adjudant, de lieutenant, d'inspecteur-chef ou d'officier doit répondre à un besoin structurel.
+### 2.2 Unités d'appui
 
 #### Art. 19
 
-**Mutation**
+**Direction et controlling**
 
-<sup>1</sup> La durée d'affectation à un poste ou à une fonction est dépendante des exigences du service et de la situation familiale de l'intéressé.
+<sup>1</sup> L'unité direction et controlling fournit un appui direct au commandant, notamment dans les domaines de la gestion des ressources humaines, du suivi des dossiers stratégiques du corps de police, du secrétariat du commandant et du controlling du service.
 
-<sup>2</sup> Les mutations sont de la compétence du commandant.
-
-### Chapitre 4: Modes d'intervention
+<sup>2</sup> Le chef de l'unité fonctionne en qualité d'adjoint du commandant.
 
 #### Art. 20
 
-**Principes**
+**Communication et prévention**
 
-<sup>1</sup> Les interventions de police doivent être dictées par un motif d'intérêt public et respecter le principe de proportionnalité.
-
-<sup>2</sup> L'uniforme sert de légitimation. Les membres de la police en civil se légitiment au moyen de leur carte de police lors de leurs interventions officielles sauf si des circonstances exceptionnelles les en empêchent.
+<sup>1</sup> L'unité communication et prévention est chargée de la communication interne et externe au corps de police ainsi que de la prévention de la criminalité. Elle informe la population par l'intermédiaire des médias et de l'Internet.
 
 #### Art. 21
 
-**Contrôle d'identité**
+**Planification a) Organisation**
 
-<sup>1</sup> Les policiers ont le droit d'exiger de toute personne qu'ils interpellent dans l'exercice de leur fonction qu'elle justifie de son identité.
+<sup>1</sup> L’unité planification comprend un bureau de conduite et trois sections, à savoir:
 
-<sup>2</sup> Si la personne n'est pas en mesure de justifier de son identité et qu'un contrôle supplémentaire se révèle nécessaire, elle peut être conduite dans un poste ou un bureau de police pour y être identifiée.
+- a) la centrale d'engagement;
+- b) la section formation de base;
+- c) la section formation continue.
 
-<sup>3</sup> Cette identification doit être menée sans délai; une fois cette formalité accomplie, la personne quitte immédiatement les locaux de la police.
+<sup>2</sup> Le chef de l'unité fonctionne comme chef d'état-major de crise de la police cantonale en cas de nécessité.
+
+#### Art. 21a
+
+**b) Centrale d'engagement**
+
+<sup>1</sup> Elle assure:
+
+- a) la permanence des tous les appels téléphoniques, de détresse, d'urgence et de l'écoute radiophonique;
+- b) la gestion et surveillance du trafic routier sur le plan cantonal;
+- c) le déclenchement des alertes et alarmes au sens de l'ordonnance sur la protection de la population et la gestion des situations particulières et extraordinaires.
+
+<sup>2</sup> Elle déclenche immédiatement tous les moyens appropriés en coordination avec les partenaires de la sécurité et du domaine sanitaire.
+
+#### Art. 21b
+
+**c) Section formation de base**
+
+<sup>1</sup> La section est chargée de la formation de base des aspirants de police durant leur première année de formation.
+
+#### Art. 21c
+
+**d) Section formation continue**
+
+<sup>1</sup> La section est chargée de la formation continue de l'ensemble du corps de police et du suivi des aspirants durant leur deuxième année de formation.
+
+<sup>2</sup> Elle est composée du groupe tir et sécurité personnelle.
+
+<sup>3</sup> Elle organise et conduit la session cantonale de l’examen professionnel fédérale de policier (Brevet fédéral).
 
 #### Art. 22
 
-**Mesures sur la personne**
+**Administration et affaires juridiques a) Organisation**
 
-<sup>1</sup> La personne prévenue ou, s'il y a péril en la demeure, celle suspectée d'avoir commis un crime ou un délit peut être soumise à des mesures d'identification telles que prise de photographie ou d'empreintes, propres à établir son identité ou sa culpabilité.
+<sup>1</sup> L'unité administration et affaires juridiques comprend un bureau de conduite et deux sections, à savoir:
 
-<sup>2</sup> Il en est de même en cas de besoin et sur décision d'un officier pour la personne dont l'identité est douteuse et ne peut être établie par aucun autre moyen, en particulier lorsqu'elle est soupçonnée de donner des indications inexactes.
+- a) la section comptabilité et chancellerie;
+- b) la section affaires juridiques.
 
-<sup>3</sup> Le matériel photographique, dactylographique ou autre recueilli sera détruit conformément à la loi concernant les dossiers de police judiciaire.
+#### Art. 22a
+
+**b) Section comptabilité et chancellerie**
+
+<sup>1</sup> La section comptabilité et chancellerie comprend:
+
+- a) un groupe comptabilité;
+- b) un groupe chancellerie.
+
+<sup>2</sup> Elle est en charge de la gestion financière de la police cantonale, de la réception de l’hôtel de police ainsi que du traitement du courrier et des réquisitions administratives.
+
+#### Art. 22b
+
+**c) Section affaires juridiques**
+
+<sup>1</sup> La section affaires juridiques comprend:
+
+- a) un groupe juridique;
+- b) un groupe séquestres.
+
+<sup>2</sup> Elle est en charge des aspects juridiques et législatifs relevant de la compétence de la police cantonale. Elle veille également à l'application de la législation en matière d'armes, d'entreprises de sécurité et de séquestres.
 
 #### Art. 23
 
-**Contrôle des véhicules et contenants**
+**Logistique a) Organisation**
 
-S'il y a péril en la demeure, les policiers peuvent fouiller les véhicules et contenants susceptibles de renfermer des objets de provenance délictueuse ainsi que des objets ayant servi ou devant servir à commettre des infractions.
+<sup>1</sup> L'unité logistique est chargée du support général au corps. Elle est composée d'un bureau de conduite et de trois sections, à savoir:
+
+- a) la section matériel, garage et soutien;
+- b) la section informatique;
+- c) la section technique et télécommunication.
+
+<sup>2</sup> En collaboration avec le Service immobilier et patrimoine, elle est en charge de la gestion immobilière de la police cantonale.
+
+#### Art. 23a
+
+**b) Section matériel, garage et soutien**
+
+<sup>1</sup> La section matériel, garage et soutien comprend:
+
+- a) un groupe matériel;
+- b) un groupe garage.
+
+<sup>2</sup> Elle est en charge des acquisitions et de la gestion des équipements du corps, notamment des uniformes, de l’armement, du parc automobile de la police cantonale, ainsi que de la gestion de la cafétéria de l'Hôtel de police et du soutien lors des engagements opérationnels.
+
+#### Art. 23b
+
+**c) Section informatique**
+
+<sup>1</sup> La section informatique est en charge de la mise en place et de la gestion des infrastructures informatiques et des logiciels ainsi que de la sécurité informatique de la police cantonale. Elle est également en charge des acquisitions et de la gestion du parc informatique de la police cantonale. Elle collabore étroitement avec le Service cantonal de l’informatique.
+
+#### Art. 23c
+
+**d) Section technique et télécommunication**
+
+<sup>1</sup> La section technique et télécommunication assume la fonction d’opérateur cantonal du réseau national de télécommunication. Elle est également en charge des acquisitions et de la gestion générale de tous les équipements techniques et électroniques de la police cantonale.
 
 #### Art. 24
 
-<sup>2,9</sup> Fouille des personnes
+**Organisation**
 
-<sup>1</sup> Les policiers peuvent fouiller, conformément au code de procédure pénale suisse, pour des raisons de sécurité, les personnes qui:
+<sup>1</sup> Les unités d'appui sont organisées en sections ou en groupes.
 
-- a) sont arrêtées ou appréhendées en vue d'être amenées devant la direction de la procédure;
-
-- b) sont soupçonnées d'avoir commis un crime ou un délit et de détenir le produit de leur infraction ou les instruments de sa commission;
-
-- c) sont soupçonnées de porter des armes;
-
-- d) sont retenues, par suite d'échec du contrôle d'identité, pour vérification complémentaire.
-
-<sup>2</sup> Pour des motifs de recherche, ils peuvent fouiller les personnes inconscientes, en état de détresse ou décédées et, s'il y a péril en la demeure, toute autre personne.
-
-<sup>3</sup> Lorsqu'elle s'avère nécessaire, la fouille doit être adaptée aux circonstances et aussi prévenante que possible. Sauf si la sécurité immédiate l'exige impérativement, les personnes fouillées ne doivent l'être que par des policiers du même sexe.
+<sup>2</sup> Elles peuvent disposer d'un bureau de conduite, chargé de la gestion administrative, de l'engagement et de la planification de l'unité.
 
 #### Art. 25
 
-**Arrestation**
+**Service de piquet**
 
-<sup>1</sup> En dehors des cas de flagrant délit, les policiers notifient le mandat d'arrêt à l'intéressé lors de l'arrestation.
+<sup>1</sup> Les unités d'appui peuvent disposer de piquets de réserve et d'intervention dont le nombre et l'organisation sont définis par le commandant.
 
-<sup>2</sup> Si le mandat d'arrêt n'est pas en mains du policier, il est donné connaissance à l'intéressé du motif de son arrestation.
-
-#### Art. 25a
-
-<sup>7,11</sup>
-
-Abrogé.
-
-#### Art. 25b
-
-<sup>7,11</sup>
-
-Abrogé.
-
-#### Art. 25c
-
-<sup>7,11</sup>
-
-Abrogé.
-
-### Chapitre 5: Statut des membres de la police cantonale
+### 2.3 Fanfare et service d'honneur
 
 #### Art. 26
 
-<sup>2,3</sup> Principe
+**Fanfare**
 
-<sup>1</sup> Sous réserve de la loi sur la police cantonale, de la présente ordonnance et des dispositions spéciales, et en application de l'article 8 de la loi précitée, la législation fixant le statut des fonctionnaires et employés de l'Etat du Valais s'applique aux membres de la police cantonale, aux aspirants et aux apprentis.
+<sup>1</sup> La police cantonale dispose d'une fanfare composée en particulier de membres du corps et d'autres collaborateurs de l'Etat du Valais.
 
-<sup>2</sup> Le statut des apprentis est, en outre, réglé par les dispositions impératives du droit fédéral et cantonal.
+<sup>2</sup> Le Conseil d'Etat est compétent pour autoriser les répétitions et les productions de la fanfare ainsi que les séances du comité sur le temps de service. Cette compétence peut être déléguée au commandant.
+
+<sup>3</sup> Le commandant règle l'organisation et les modalités d'engagement par une instruction de service et des ordres de service spécifiques.
 
 #### Art. 27
 
-**Comportement hors service**
+**Service d'honneur**
 
-<sup>1</sup> Les membres de la police cantonale adopteront en tout temps un comportement compatible avec leur fonction.
+<sup>1</sup> La police cantonale dispose d'un service d'honneur, en habit de cérémonie, dont les membres proviennent de l'ensemble de ses unités.
 
-<sup>2</sup> Ils signaleront tous les faits de nature à intéresser les autorités administratives ou judiciaires, et, au besoin, interviendront.
+<sup>2</sup> Le détachement d'honneur est mis sur pied notamment lors d'obsèques de personnalités et de manifestations cantonales.
+
+<sup>3</sup> Le commandant règle l'organisation, les modalités d'engagement et les différentes évolutions par une instruction de service.
+
+### 2.4 Echelle des grades et effectif du corps en policiers
 
 #### Art. 28
 
-**Réprimande**
+**Echelle des grades**
 
-<sup>1</sup> La réprimande, infligée sous forme de blâme oral ou écrit, est de la compétence du commandant; la commission disciplinaire n'est pas saisie du cas.
+<sup>1</sup> Le chef de la police cantonale porte le grade de commandant.
 
-<sup>2</sup> La décision est susceptible de recours au Conseil d'Etat.
+<sup>2</sup> Les officiers d'état-major portent le grade de lieutenant-colonel.
+
+<sup>3</sup> Les autres grades de la police cantonale, respectivement de la police judiciaire, sont les suivants:
+
+- a) officiers: major, capitaine et lieutenant;
+- b) sous-officiers supérieurs: adjudant, sergent-major; inspecteur principal;
+- c) sous-officiers: sergent, caporal; inspecteur principal adjoint, inspecteur I;
+- d) agents: appointé, gendarme; inspecteur II, inspecteur III;
+- e) agents en formation: aspirants.
+
+<sup>4</sup> Les remplaçants des chefs d'unités opérationnelles portent le grade de majors.
+
+<sup>5</sup> Les arrondissements et les sections spécialisées des unités opérationnelles sont dirigés par un capitaine dont le remplaçant est un lieutenant.
+
+<sup>6</sup> L'officier d'état-major en charge d'une unité d'appui désigne son remplaçant parmi ses subordonnés. Les chefs de section des unités d'appui portent le grade de capitaine.
 
 #### Art. 29
 
-**Domicile**
+**Effectif du corps en policiers**
 
-<sup>1</sup> Sauf circonstance exceptionnelle, les membres de la police cantonale doivent être domiciliés à un endroit leur permettant de se rendre à leur lieu habituel de travail dans un délai fixé par le commandant selon les impératifs de la fonction.
+<sup>1</sup> L'effectif du corps en policiers est déterminé par le Conseil d'Etat. Il est au maximum d'un policier pour 650 habitants.
 
-<sup>2</sup> Pour les besoins du service, ils peuvent être tenus d'occuper les logements de service.
+<sup>2</sup> La dotation intervient en fonction des disponibilités budgétaires.
+
+## 3 Conservation des données de police
 
 #### Art. 30
 
-**Durée du travail, congés et vacances**
+**Principe**
 
-<sup>1</sup> Les membres de la police cantonale sont tenus d'effectuer les heures de service supplémentaires que requiert la bonne marche du service.
-
-<sup>2</sup> Ils ont droit, au minimum, à un dimanche de congé par mois.
-
-<sup>3</sup> Si les circonstances l'exigent, le commandant peut exceptionnellement suspendre provisoirement les congés et les vacances.
+<sup>1</sup> Les données recueillies par la police cantonale dans l'accomplissement de ses tâches sont conservées en vue de les réutiliser à des fins de police.
 
 #### Art. 31
 
-**Assistance judiciaire**
+**Durée de conservation**
 
-Lorsqu'un membre de la police cantonale est impliqué dans une procédure civile, pénale ou administrative en raison d'un acte survenu dans l'exercice de ses fonctions, l'Etat lui garantit, en principe, l'assistance d'un avocat.
+<sup>1</sup> La durée de conservation des données:
+
+- a) de police judiciaire est réglementée par la législation concernant les dossiers de police judiciaire;
+- b) de police routière ou de police administrative est fixée à 7 ans;
+- c) de sécurité publique est fixée à 10 ans.
+
+<sup>2</sup> Les données relatives à la disparition d'une personne sont conservées tant que la personne disparue n'a pas été retrouvée. Cette durée ne peut toutefois excéder 50 ans.
+
+<sup>3</sup> Les délais de conservation fixés par le droit fédéral sont réservés.
+
+<sup>4</sup> Lorsque des fichiers contiennent des données de types différents, le délai de conservation le plus long s'applique.
 
 #### Art. 32
 
-<sup>2</sup> Armement, équipement et habillement
+**Prolongation**
 
-<sup>1</sup> Les membres de la police cantonale sont armés, équipés et habillés (uniformes) aux frais de l'Etat; ils sont tenus à restitution en cas de démission, de renvoi ou de départ à la retraite.
+<sup>1</sup> A l'échéance du délai de conservation, le commandant peut décider, sur la base des circonstances d'un cas d'espèce, de prolonger la conservation des données échues pour une durée qu'il détermine. Celle-ci ne peut toutefois excéder le délai maximal prévu par la loi.
 
-<sup>2</sup> L'habillement est renouvelé périodiquement selon les besoins dûment motivés et contrôlés.
+<sup>2</sup> La prolongation est admise notamment:
 
-<sup>3</sup> Abrogé.
+- a) lorsque la conservation des données échues demeure nécessaire pour la prévention ou la poursuite d'infractions pénales graves;
+- b) lorsque la conservation se justifie pour des motifs particuliers, entre autres d'ordre scientifique, didactique ou statistique.
+
+## 4 Statut des membres de la police cantonale
+
+### 4.1 Policiers
 
 #### Art. 33
 
-<sup>2,5</sup> Assurances
+**Conditions d'admission**
 
-<sup>1</sup> L'Etat assure les membres de la police cantonale contre les accidents professionnels et non professionnels.
+<sup>1</sup> Pour être admis en qualité de policier, il faut:
 
-<sup>2</sup> Il assure également contre les accidents et les conséquences de la responsabilité civile les personnes qui prêtent assistance à la police.
+- a) être citoyen suisse;
+- b) avoir un casier judiciaire vierge et jouir d'une excellente réputation;
+- c) avoir une bonne condition physique et une bonne santé;
+- d) être au bénéfice d'une formation académique, professionnelle ou militaire reconnue;
+- e) être titulaire du brevet fédéral d'aptitude ou d'un titre jugé équivalent;
+- f) ne pas faire l'objet de poursuites pour dettes et faillite, ni faire l'objet d'un acte de défaut de biens.
 
-<sup>3</sup> Abrogé.
-
-### Chapitre 6: Dispositions finales et transitoires
+<sup>2</sup> L'autorité d'engagement statue sur les cas particuliers.
 
 #### Art. 34
 
-<sup>1</sup> Abrogation et modification du droit antérieur
+**Affectation et mutation**
 
-<sup>1</sup> Toutes les dispositions contraires à la présente ordonnance sont abrogées, en particulier: le règlement d'exécution de la loi sur la police cantonale, du 4 juin 1969.
+<sup>1</sup> Les affectations et les mutations sont de la compétence du commandant et répondent aux exigences de service.
 
-<sup>2</sup> Sont notamment modifiées et adoptées les dispositions suivantes:
-
-- 1\. Abrogé.
-
-- 2\. L'article 7 de l'arrêté du 13 décembre 1976 concernant la perception de la taxe sur les chiens (texte inséré dans l'arrêté mentionné).
-
-- 3\. L'article 3 du règlement d'exécution du 21 janvier 1930, modifié le 28 octobre 1966, de la loi sur les affiches-réclame (texte inséré dans le règlement d'exécution mentionné).
-
-- 4\. L'article 18 du règlement d'exécution du 21 avril 1954 de la loi sur le timbre du 14 novembre 1953 (texte inséré dans le règlement d'exécution mentionné).
-
-- 5\. L'article 27 du règlement d'exécution du 3 mai 1937 de la loi du 11 novembre 1926 concernant l'exécution de la loi fédérale du 8 juin 1923 sur les loteries et les paris professionnels (texte inséré dans le règlement d'exécution mentionné).
-
-- 6\. Sans objet par l'approbation de la loi sur les représentations cinématographiques et autres spectacles analogues.
-
-- 7\. Sans objet par l'abrogation de la loi sur les contraventions de la police.
-
-- 8\. L'article 6, alinéa 1, de l'arrêté, du 3 avril 1936 concernant la protection des plantes sauvages (texte inséré dans l'arrêté mentionné).
-
-- 9\. L'article 3 de l'arrêté du 25 avril 1984 concernant la protection de la vallée de la Borgne (texte inséré dans l'arrêté mentionné).
-
-- 10\. L'article 3 de l'arrêté du 9 novembre 1983 concernant la protection du site paléontologique du Vieux-Emosson (texte inséré dans l'arrêté mentionné).
-
-- 11\. L'article 9, alinéa 1, de l'ordonnance du 5 février 1958 concernant l'établissement et l'exploitation de téléphériques et skilifts sans concession fédérale (texte inséré dans l'ordonnance mentionnée).
+<sup>2</sup> Il peut être tenu compte de la situation familiale de l'intéressé lors d'affectation ou de mutation.
 
 #### Art. 35
 
-**Disposition transitoire**
+**Avancement et promotion**
 
-Les avoirs constitués sous les dénominations «Masse de police» ainsi que «Caisse au décès et de secours» seront transférés aux ayants droit et soumis au droit privé.
+<sup>1</sup> L'avancement relève du chef de département et a lieu en tenant compte:
+
+- a) des états de service;
+- b) de la réussite d'examens d'aptitudes;
+- c) des années de service.
+
+<sup>2</sup> Peut prétendre au grade:
+
+- a) d'appointé ou d'inspecteur II, l'agent ayant au moins trois années de service révolus;
+- b) de caporal ou d'inspecteur I, l'agent ayant au moins neuf années de service révolus;
+- c) de sergent ou d'inspecteur principal adjoint, l'agent ayant au moins treize années de service révolus.
+
+<sup>3</sup> La promotion ou l'engagement à un grade d'officier d'Etat-major, d'officier et de sous-officier supérieurs doit répondre à un besoin structurel, se fait par voie de mise au concours interne ou externe et relève des dispositions de la législation sur le personnel de l'Etat.
 
 #### Art. 36
 
-**Droits acquis**
+**Tir, sécurité personnelle et condition physique**
 
-La situation matérielle et le grade des membres de la police cantonale actuellement en service ne sont pas modifiés du fait de l'entrée en vigueur de la présente ordonnance.
+<sup>1</sup> Les policiers doivent être, en tout temps, aptes à remplir leur mission. Dans ce sens, ils doivent se maintenir en bonne condition physique.
+
+<sup>2</sup> Le commandant prescrit, par des instructions ou des ordres de service, des entraînements obligatoires, notamment dans le domaine du tir, de la sécurité personnelle et du sport.
 
 #### Art. 37
 
-**Entrée en vigueur**
+**Equipement**
 
-Le Conseil d'Etat veillera à l'exécution de la présente ordonnance dont il fixe l'entrée en vigueur.
+<sup>1</sup> Selon leur mission et leur affectation, les policiers peuvent être tenus de porter un uniforme et des insignes.
 
-Ainsi adopté en séance du Conseil d'Etat, à Sion, le 1er octobre 1986, pour être soumis à l'approbation du Grand Conseil.
+<sup>2</sup> En service, les policiers sont armés.
 
-Le président du Conseil d'Etat: Bernard Comby Le chancelier d'Etat: Gaston Moulin
+<sup>3</sup> Ils sont équipés aux frais de l'Etat selon les directives du commandant. Ils sont tenus à la restitution en cas de démission, de licenciement ou de départ à la retraite. Le chef du département est compétent pour décider sur le rachat d'une pièce d'équipement, sur préavis du commandant.
 
-**Entrée en**
+<sup>4</sup> Le commandant délivre une carte de police aux policiers.
 
-### Intitulé et modifications Publication
+#### Art. 38
 
-vigueur Ordonnance de la loi sur la police cantonale RO/VS 1987, 211 01.01.1987 du 1er octobre 1986
+**Obligation d'intervenir**
 
-## Autres notes
+<sup>1</sup> En cas d'urgence, de flagrant délit ou de péril en la demeure, les policiers sont tenus d'intervenir ou, en raison du danger, de signaler les faits, même en dehors de leur temps de travail.
 
-- [1] Décret sur la procédure d'autorisation de RO/VS 1992, 173 01.07.1992 construire du 31 janvier 1992
-- [2] Ordonnance modifiant le règlement RO/VS 1996, 213 01.05.1996 d'exécution de la loi sur la police cantonale
-- [3] Ordonnance concernant le traitement des RO/VS 1996, 217 01.01.1997 membres du corps de la police cantonale du 20 décembre 1995
-- [4] Modification du 6 juillet 2001 RO/VS 2001, 163 01.01.2002
-- [5] Modification du 23 mars 2005 RO/VS 2005, 143 01.01.2005
-- [6] Modification du 16 février 2006 RO/VS 2006, 101 01.01.2006
-- [7] Modification du 14 mars 2007 RO/VS 2007, 211 01.07.2007
-- [8] Modification du 16 décembre 2008 BO No 20/2008 01.06.2007
-- [9] Modification du 11 février 2009 BO Nr. 13/2009 01.01.2011
-- [10] Modification du 15 février 2013 (Loi sur la BO No 9/2013, BO 01.01.2014 protection de la population et la gestion des No 52/2013 situations particulières et extraordinaires du 15 février 2013, art. 45)
-- [11] Modification du 14 septembre 2016 BO No 39/2016; BO 01.01.2017 (Ordonnance sur les violences domestiques du No 4/2016
-- [14] septembre 2016 (OVD), art. 22)
+<sup>2</sup> Dans ce cas, ils sont considérés comme étant en service.
+
+#### Art. 39
+
+**Domicile**
+
+<sup>1</sup> Les policiers doivent être domiciliés en Valais, sauf circonstance exceptionnelle et pour autant qu'ils puissent se rendre à leur lieu habituel de travail dans un délai fixé par le commandant.
+
+<sup>2</sup> Selon les besoins du service et leur fonction, ils peuvent être tenus d'élire domicile dans un secteur défini.
+
+#### Art. 40
+
+**Service militaire**
+
+<sup>1</sup> Les policiers sont exemptés du service militaire conformément à la loi fédérale sur l'armée et l'administration militaire. Ils ne peuvent dès lors pas prétendre à une école d'avancement (école de sous-officier ou d'officier).
+
+<sup>2</sup> Demeurent réservées des affectations dans des unités militaires spécifiques. Le commandant est compétent pour statuer sur les exceptions.
+
+#### Art. 41
+
+**Indemnité lors de la cessation des rapports de service**
+
+<sup>1</sup> Les policiers qui démissionnent ou sont licenciés par leur faute avant d'avoir accompli trois années de service sont en principe redevables d'un montant de 50'000 francs, correspondant à une participation aux frais de formation de base assumés par le canton. Ce montant est réduit proportionnellement aux années effectives de service.
+
+#### Art. 42
+
+**Congés, vacances et heures supplémentaires**
+
+<sup>1</sup> Si des circonstances exceptionnelles l'exigent, le commandant peut interdire la prise de vacances et de congés pendant une durée limitée. Il peut également imposer des vacances, les déplacer, voire ordonner le retour des policiers de leurs vacances. Dans ces cas, l'Etat prend à sa charge les frais éventuels encourus par les policiers.
+
+<sup>2</sup> Les policiers sont tenus d'effectuer les heures supplémentaires requises par les impératifs du Service.
+
+#### Art. 43
+
+**Comportement**
+
+<sup>1</sup> Les policiers éviteront, y compris hors service, tout comportement de nature à porter atteinte au crédit de leur fonction.
+
+#### Art. 44
+
+**Mesures administratives**
+
+<sup>1</sup> Les dispositions de la loi sur le personnel de l'Etat du Valais s'appliquent pour les mesures administratives.
+
+### 4.2 Auxiliaires de police
+
+#### Art. 45
+
+**Définition**
+
+<sup>1</sup> Les auxiliaires de police sont:
+
+- a) les collaborateurs civils;
+- b) les assistants de sécurité publique.
+
+<sup>2</sup> Les assistants de sécurité publique sont assermentés. Le commandant désigne les collaborateurs civils à assermenter.
+
+#### Art. 46
+
+**Conditions d'admission**
+
+<sup>1</sup> Pour être admis en qualité d'auxiliaire de police, il faut:
+
+- a) être majeur;
+- b) avoir un casier judiciaire vierge et justifier d'une excellente réputation;
+- c) ne pas faire l'objet de poursuites pour dettes et faillite, ni faire l'objet d'un acte de défaut de biens.
+
+<sup>2</sup> La mission attribuée au sein du corps définit la formation professionnelle souhaitée.
+
+#### Art. 47
+
+**…**
+
+#### Art. 48
+
+**Assistant de sécurité publique a) Conditions d'admission**
+
+<sup>1</sup> Pour être admis en qualité d'assistant de sécurité publique, il faut:
+
+- a) remplir les conditions pour être admis comme auxiliaire de police;
+- b) jouir d'une bonne condition physique et d'une excellente santé;
+- c) être au bénéfice du permis de conduire des catégories nécessaires à la fonction;
+- d) être titulaire d'un certificat fédéral de capacité ou d'une formation jugée équivalente, et
+- e) avoir suivi une formation d'assistant de sécurité publique et obtenu le diplôme ou un titre équivalent.
+
+#### Art. 49
+
+**b) Tâches**
+
+<sup>1</sup> Les assistants de sécurité publique effectuent notamment les tâches suivantes:
+
+- a) soutenir les agents de la gendarmerie;
+- b) transporter les détenus;
+- c) travailler comme opérateur au sein des centrales d'engagement.
+
+<sup>2</sup> Selon leur fonction et le type de mission attribuée, ils peuvent être formés et autorisés à faire usage des moyens de contrainte prévus par l'ordonnance sur l'usage des moyens de contrainte par la police cantonale, dont l'arme à feu.
+
+<sup>3</sup> Les assistants de sécurité publique portent un uniforme distinct de celui des policiers, qui leur sert de légitimation.
+
+#### Art. 50
+
+**c) Tir, sécurité personnelle et condition physique**
+
+<sup>1</sup> Les assistants de sécurité publique doivent être, en tout temps, aptes à remplir leur mission. Ce faisant, ils doivent se maintenir en bonne condition physique.
+
+<sup>2</sup> Le commandant prescrit, par des instructions ou des ordres de service, des entraînements obligatoires, notamment dans le domaine de la sécurité personnelle et du sport, ainsi que dans le domaine du tir pour les assistants de sécurité armés.
+
+#### Art. 51
+
+**Droit applicable**
+
+<sup>1</sup> Sous réserve de dispositions contraires, les articles 34, 35 alinéa 3, 37 alinéas 1 et 3, 39 et 42 à 44 s'appliquent par analogie aux auxiliaires de police.
+
+### 4.3 Aspirants de police
+
+#### Art. 52
+
+**Définition**
+
+<sup>1</sup> L'aspirant est le membre de la police cantonale en formation auprès d'une école de police ou en stage pratique, dans le but d'obtenir le brevet fédéral de policier compte tenu des directives de l'Institut suisse de police et du Secrétariat d'Etat à la formation, à la recherche et à l'innovation.
+
+<sup>2</sup> L'aspirant ne fait pas partie de l'effectif du corps de police.
+
+#### Art. 53
+
+**Conditions d'admission à l'école d'aspirants**
+
+<sup>1</sup> Les conditions d'admission à l'école d'aspirants sont les suivantes:
+
+- a) être citoyen suisse ou engagé dans une procédure de naturalisation qui doit être terminée au plus tard à la fin de la formation;
+- b) avoir un casier judiciaire vierge et justifier d'une excellente réputation;
+- c) jouir d'une bonne condition physique et d'une excellente santé;
+- d) être âgé de 18 ans au minimum au moment du dépôt de la candidature;
+- e) être au bénéfice d'une formation achevée conforme aux exigences requises pour la présentation aux examens du brevet fédéral de policier;
+- f) ne pas faire l'objet de poursuites pour dettes et faillite, ni faire l'objet d'un acte de défaut de biens.
+- g) avoir en principe une taille minimale de 160 centimètres pour les femmes et 170 centimètres pour les hommes;
+- h) être titulaire d'un permis de conduire de la catégorie B.
+
+<sup>2</sup> Sont réservées les conditions d'admission complémentaires prévues par le centre de formation.
+
+#### Art. 54
+
+**Examen et sélection**
+
+<sup>1</sup> Les candidats qui satisfont aux conditions d'admission intègrent le processus de sélection qui comprend notamment des tests de langues, de sport et psychométriques, des entretiens, une évaluation psychologique et un examen médical.
+
+<sup>2</sup> La sélection se déroule par phases éliminatoires.
+
+#### Art. 55
+
+**Droit applicable**
+
+<sup>1</sup> Les aspirants sont soumis aux mêmes règles que les policiers, applicables par analogie, sous réserve des dispositions qui suivent.
+
+<sup>2</sup> Sont réservées les règles relatives au centre de formation.
+
+<sup>3</sup> L'organisation de la phase de formation pratique est placée sous la responsabilité de la police cantonale en application et dans le respect des directives fédérales en la matière.
+
+<sup>4</sup> Les aspirants disposent des compétences de la police cantonale sous réserve des dispositions d’application définies par le commandant.
+
+#### Art. 56
+
+**Heures supplémentaires et indemnités**
+
+<sup>1</sup> Durant la période de formation en école, les aspirants doivent tout leur temps à leur formation. Les heures supplémentaires ne sont pas compensées; les heures de nuit et les activités hors du plan de formation font partie intégrante de la formation.
+
+<sup>1<sup>bis</sup></sup> Durant la période de formation pratique au sein du corps, les aspirants sont soumis aux mêmes règles que les policiers en ce qui concerne la comptabilisation du temps de travail.
+
+<sup>2</sup> Sauf directives particulières du commandant, les aspirants n'ont droit à aucune indemnité au sens de l'ordonnance sur le traitement et les indemnités.
+
+#### Art. 57
+
+**Rapports de service**
+
+<sup>1</sup> L'engagement des aspirants dure au maximum jusqu'à l'obtention du brevet fédéral de policier.
+
+<sup>2</sup> Le temps d'essai est de six mois. Après ce terme, le délai de résiliation est d'un mois jusqu'à la fin de la formation.
+
+<sup>3</sup> Les aspirants qui démissionnent ou qui sont licenciés pendant leur formation par leur faute sont redevables d'une indemnité maximale de 50'000 francs, correspondant à une participation aux frais de formation de base assumés par le canton, fixée proportionnellement à la durée de la formation suivie.
+
+<sup>4</sup> La réussite de la période de formation, respectivement l'obtention du brevet fédéral, ne donne pas droit à un engagement d'office.
+
+### 4.4 Aspirants des polices municipales, des polices cantonales et de la police fédérale
+
+#### Art. 57a
+
+<sup>1</sup> La police cantonale peut accueillir les aspirants d'autres corps de police pour des formations ou des stages pratiques dans le cadre de la formation de base.
+
+<sup>2</sup> Lorsque des aspirants d’autres corps de police effectuent des stages pratiques au sein de la police cantonale, ils sont assimilés aux aspirants de la police cantonale en ce qui concerne l’organisation du travail et les compétences policières. Ils dépendent de leur corps d’appartenance pour les domaines relevant du droit du personnel et des assurances.
+
+## 5 Emoluments forfaitaires
+
+#### Art. 58
+
+**Service d'ordre lors de manifestation**
+
+<sup>1</sup> Un émolument forfaitaire horaire de 250 francs par agent est perçu en cas:
+
+- a) d'engagement du service d'ordre de la police cantonale lors d'une manifestation non autorisée ou d'une manifestation autorisée pour laquelle les prescriptions de sécurité n'ont pas été observées;
+- b) …
+- c) d'intervention de la police cantonale, rendue nécessaire principalement par le comportement d'un particulier, ou par les actes de violence commis par des participants à une manifestation.
+
+<sup>2</sup> Un émolument forfaitaire journalier de 200 francs par agent est prélevé en cas d'engagement à titre préventif de la police cantonale lors d'un événement organisé dans un but économique, sportif, culturel ou autre.
+
+<sup>3</sup> L'ensemble des prestations facturées par la police cantonale sont définies dans un règlement validé par le Conseil d’Etat.
+
+## T1 Disposition transitoire
+
+#### Art. T1-1
+
+**Droit transitoire**
+
+<sup>1</sup> La situation salariale des membres de la police cantonale actuellement en service n'est pas péjorée du fait de changements structurels liés à l'entrée en vigueur de la présente ordonnance.
+
+RCV BO/Abl. 52/2017
