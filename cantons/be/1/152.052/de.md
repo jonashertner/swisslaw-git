@@ -4,13 +4,13 @@ number: "152.052"
 title: Verordnung über die Zentrale Personenverwaltung
 short: ZPV V
 language: de
-version: 2021-03-01
-valid_until: 2024-10-31
-version_adopted: 2021-01-20
+version: 2024-11-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-18
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.052"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3064/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3067/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3064/pdf_file"
 
 (ZPV V)
 
-vom 20.01.2021 (Stand 01.03.2021)
+vom 20.01.2021 (Stand 01.11.2024)
 
 Der Regierungsrat des Kantons Bern,
 

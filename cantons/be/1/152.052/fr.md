@@ -4,13 +4,13 @@ number: "152.052"
 title: Ordonnance sur le système de gestion centrale des personnes
 short: O GCP
 language: fr
-version: 2021-03-01
-valid_until: 2024-10-31
-version_adopted: 2021-01-20
+version: 2024-11-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-18
 adopted: 2021-01-20
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.052"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3064/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3067/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3064/pdf_file"
 
 (O GCP)
 
-du 20.01.2021 (état au 01.03.2021)
+du 20.01.2021 (état au 01.11.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
