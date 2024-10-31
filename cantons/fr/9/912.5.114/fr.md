@@ -1,54 +1,63 @@
 ---
 canton: FR
 number: "912.5.114"
-title: Ordonnance DIAF instituant des mesures de lutte contre le capricorne asiatique
+title: "Ordonnance DIAF instituant des mesures de lutte en cas d'attaque par le capricorne asiatique"
 language: fr
-version: 2019-04-01
-valid_until: 2024-10-31
-version_adopted: 2019-04-02
+version: 2024-11-01
+version_adopted: 2024-10-10
 adopted: 2024-10-10
 in_force: 2024-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/912.5.114"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5989/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8059/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance DIAF instituant des mesures de lutte contre le capricorne asiatique
+# Ordonnance DIAF instituant des mesures de lutte en cas d'attaque par le capricorne asiatique
 
-Mesures de lutte contre le capricorne asiatique – O
+Lutte contre le capricorne asiatique - O
 
-du 04.02.2015 (version entrée en vigueur le 01.04.2019)
+du 10.10.2024 (version entrée en vigueur le 01.11.2024)
 
 La Direction des institutions, de l'agriculture et des forêts
 
+Vu la loi fédérale du 4 octobre 1991 sur les forêts (LFo), en particulier ses articles 26 et suivants et 37 et suivants;
+
 Vu les articles 149 et suivants de la loi fédérale du 29 avril 1998 sur l'agriculture (LAgr);
 
-Vu la loi fédérale du 4 octobre 1991 sur les forêts (LFo);
+Vu l'ordonnance fédérale sur les forêts du 30 novembre 1992 (OFo), en particulier ses articles 28 et suivants et 40 et suivants;
 
-Vu l'ordonnance fédérale du 27 octobre 2010 sur la protection des végétaux (OPV);
+Vu l'ordonnance fédérale du 31 octobre 2018 sur la protection des végétaux contre les organismes nuisibles particulièrement dangereux (Ordonnance sur la santé des végétaux, OSaVé);
 
-Vu les articles 6 et 8 de la loi du 3 octobre 2006 sur l'agriculture (LAgri);
+Vu l'ordonnance du 14 novembre 2019 du DEFR et du DETEC relative à l'ordonnance sur la santé des végétaux (OSaVé-DEFR-DETEC);
 
-Vu les articles 34 al. 3 et 37 al. 1 et 2 let. d du règlement du 27 mars 2007 sur l'agriculture (RAgri);
+Vu l'ordonnance du 29 novembre 2017 de l'OFEV sur les mesures phytosanitaires au profit de la forêt (OMP-OFEV);
 
-Vu le «Manuel de gestion du risque dû au Capricorne asiatique (Anoplophora glabripennis)» édité par l'Office fédéral de l'agriculture (OFAG) et l'Office fédéral de l'environnement (OFEV) en juillet 2013 (projet pour essai);
+Vu la loi sur les forêts et la protection contre les catastrophes naturelles du 2 mars 1999 (LFCN), en particulier ses articles 58, 64c et 64f;
 
-Vu l'article 15 al. 1 de la loi du 16 octobre 2001 sur la publication des actes législatifs (LPAL);
+Vu l'article 6 de la loi du 3 octobre 2006 sur l'agriculture (LAgri);
+
+Vu le règlement sur les forêts et la protection contre les catastrophes naturelles du 11 décembre 2001 (RFCN), en particulier son article 53;
+
+Vu les articles 34 et suivants du règlement du 27 mars 2007 sur l'agriculture (RAgri);
+
+Vu le module 1 (Capricorne asiatique) de l'aide à l'exécution Protection des forêts édité par l'Office fédéral de l'environnement (OFEV) en 2018;
 
 Considérant:
 
-Le capricorne asiatique est qualifié d'organisme nuisible particulièrement dangereux, selon l'ordonnance fédérale sur la protection des végétaux, et, par conséquent, est soumis à l'obligation d'annonce et de lutte. Il s'attaque aux arbres feuillus sains et peut les détruire en quelques années.
+Le capricorne asiatique est qualifié d'organisme nuisible particulièrement dangereux, considéré comme organisme de quarantaine prioritaire selon l'OSaVé-DEFR-DETEC, et, par conséquent, est soumis à l'obligation d'annonce et de lutte. Il s'attaque aux arbres feuillus sains et peut les détruire en quelques années.
 
-Plusieurs foyers de cet insecte ont été trouvés sur le territoire du canton de Fribourg.
+Des foyers de cet insecte ont déjà été trouvés sur le territoire du canton de Fribourg et ont été éradiqués.
 
-La découverte de ces foyers nécessite des mesures urgentes de lutte et de prévention. Ces mesures peuvent être prises, en accord avec les concepts de gestion du risque développés par l'OFAG et l'OFEV, pour les plantes agricoles cultivées et l'horticulture, pour les arbres et arbustes forestiers à l'intérieur et à l'extérieur des forêts ainsi que pour les plantes sauvages menacées (art. 52 OPV).
+Cette ordonnance est adaptée, conformément à l'article 58 al. 5 LFCN en particulier et aux exigences posées par l'Office fédéral de l'environnement, pour tenir compte des expériences acquises en cas de découverte de nouveaux foyers de cet organisme sur le territoire cantonal.
 
-Le cas échéant, dans la zone noyau, les personnes concernées sont informées personnellement des mesures concrètement envisagées. En cas de désaccord, elles peuvent demander une décision formelle les concernant.
+Il s'agit notamment de délimiter des zones (centrale, focale et tampon) impliquant des mesures différenciées. Les personnes concernées sont informées personnellement des mesures concrètement envisagées. En cas de désaccord, elles peuvent demander une décision formelle les concernant.
 
-En application de l'article 37 al. 1 RAgri, l'Institut agricole de l'Etat de Fribourg (IAG), à Grangeneuve, fait office de Service phytosanitaire cantonal au sens de la législation fédérale. La directrice de l'IAG a délégué au responsable du Service phytosanitaire cantonal la compétence de la représenter lorsqu'il s'agit de rendre des décisions dans le cadre des mesures de prévention et de lutte contre le capricorne asiatique. En application de l'article 33 de la loi du 23 juin 2006 sur l'Institut agricole de l'Etat de Fribourg, les décisions de l'IAG en la matière rendues par le responsable du Service phytosanitaire cantonal peuvent donc, dans les trente jours, faire l'objet d'un recours direct au Tribunal cantonal.
+S'agissant d'un organisme présentant un danger pour les arbres et les forêts, la compétence d'appliquer les mesures de prévention et de lutte incombe au Service des forêts et de la nature.
 
-Sur la proposition du Service phytosanitaire cantonal,
+Quant aux frais, ils sont réglés conformément à l'article 58 LFCN.
+
+Sur la proposition du Service des forêts et de la nature,
 
 Adopte ce qui suit:
 
@@ -56,121 +65,96 @@ Adopte ce qui suit:
 
 **Compétence**
 
-<sup>1</sup> Le Service phytosanitaire cantonal assure la mise en œuvre des mesures ordonnées par l'Office fédéral de l'agriculture et l'Office fédéral de l'environnement. Il ordonne, le cas échéant, des mesures de lutte complémentaires.
+<sup>1</sup> Le Service des forêts et de la nature (ci-après: SFN) assure la mise en œuvre des mesures ordonnées par l'Office fédéral de l'environnement en forêt et hors forêt. Le SFN ordonne, le cas échéant, des mesures de lutte complémentaires.
 
-<sup>2</sup> La mise en œuvre des mesures hors forêt incombe au Service phytosanitaire cantonal. En forêt, leur mise en œuvre incombe au Service des forêts et de la nature.
-
-<sup>3</sup> Le Service phytosanitaire cantonal et le Service des forêts et de la nature agissent de manière coordonnée et concertée, en étroite collaboration avec les communes et les personnes propriétaires d'un bien foncier concernées.
+<sup>2</sup> Le SFN agit de manière coordonnée et en étroite collaboration avec le Service phytosanitaire cantonal, les communes et les personnes propriétaires des biens fonciers concernés.
 
 #### Art. 2
 
 **Zones délimitées et plantes hôtes prioritaires**
 
-<sup>1</sup> Des zones noyau, des zones focales et des zones tampon sont délimitées dans un plan de situation par le Service phytosanitaire cantonal. Ce plan contient en outre la liste des plantes hôtes prioritaires.
+<sup>1</sup> Le SFN délimite sur plan de situation, publié sur le guichet cartographique cantonal, trois sortes de zones incluant l'ensemble des foyers d'infestations découverts sur le territoire du canton de Fribourg.
 
-<sup>2</sup> Les zones délimitées cernent tous les foyers d'infestation découverts sur le territoire du canton de Fribourg. Ces zones sont les suivantes:
+<sup>2</sup> Ces trois sortes de zone sont les suivantes:
 
-- a) la zone noyau, qui décrit un cercle centré sur le foyer d'infestation et dont le rayon mesure au minimum 100 mètres;
-- b) la zone focale, qui décrit un cercle centré sur le foyer d'infestation et dont le rayon mesure entre 200 et 500 mètres;
-- c) la zone tampon, qui entoure la zone focale en décrivant un cercle centré sur le foyer d'infestation et dont le rayon mesure au minimum 2 kilomètres.
+- a) la zone centrale (ordre de grandeur: rayon de 100 m autour du foyer d'infestation);
+- b) la zone focale (ordre de grandeur: rayon de 200 à 500 m autour du foyer d'infestation);
+- c) la zone tampon (ordre de grandeur: rayon de 2 km autour du foyer d'infestation).
 
-<sup>3</sup> Le plan de situation, les zones y figurant ainsi que la liste des plantes hôtes prioritaires sont adaptés selon l'évolution de la situation.
+<sup>3</sup> Les zones sont délimitées en tenant compte de la gravité de l'infestation, des caractéristiques du terrain et des aspects pratiques pour mener à bien les mesures de lutte. La surface effective de chacune des zones dépend de ces critères. L'ordre de grandeur indiqué à l'alinéa 2 est indicatif.
 
-<sup>4</sup> Lorsque le capricorne est considéré comme éradiqué, les zones sont supprimées, et la population concernée est informée.
+<sup>4</sup> La liste des plantes hôtes prioritaires est fixée par le SFN et publiée sur le site internet du SFN.
+
+<sup>5</sup> Le plan de situation, les zones y figurant ainsi que la liste des plantes hôtes prioritaires sont adaptés selon l'évolution de la situation.
+
+<sup>6</sup> Lorsque le capricorne est considéré comme éradiqué, les zones sont supprimées et la population concernée est informée.
 
 #### Art. 3
 
-**Plan de situation**
+**Mesures de lutte dans la zone centrale**
 
-<sup>1</sup> Le plan de situation indiquant les différentes zones et la liste des plantes hôtes prioritaires sont disponibles sur le guichet cartographique cantonal ainsi qu'auprès des communes concernées.
+<sup>1</sup> Le SFN ou les entreprises ou personnes mandatées par lui se charge notamment d'exécuter ou de faire exécuter les mesures suivantes:
 
-<sup>2</sup> Ils sont également publiés sur les sites Internet du Service phytosanitaire cantonal et du Service des forêts et de la nature.
+- a) abattage immédiat des plantes contaminées;
+- b) après une pesée des intérêts, abattage préventif de toutes les plantes hôtes prioritaires;
+- c) broyage (en copeaux d'une dimension inférieure ou égale à 3 cm) dans les plus brefs délais, à l'intérieur de la zone centrale, de toutes les plantes abattues selon les lettres a et b;
+- d) incinération de tout le matériel obtenu en application de la lettre c et, le cas échéant, des emballages en bois soupçonnés de contamination, dans une installation respectant les normes de protection de l'air.
+
+<sup>2</sup> La personne propriétaire ou locataire du fonds est tenue d'accepter les travaux susmentionnés et de laisser l'accès au fonds.
 
 #### Art. 4
 
-**Mesures de lutte et de prévention dans la zone noyau**
+**Mesures de prévention dans les zones centrale et focale**
 
-<sup>1</sup> Toute personne propriétaire ou locataire d'un bien foncier ou forestier, de même que toute personne chargée d'entretenir ou de s'occuper de végétaux, est tenue d'exécuter ou de faire exécuter, notamment, les mesures suivantes:
+<sup>1</sup> Toute personne propriétaire ou locataire d'un bien foncier ou forestier, de même que toute personne chargée d'entretenir ou de s'occuper de végétaux est tenue d'exécuter, de faire exécuter ou de laisser exécuter, notamment, les mesures suivantes:
 
-- a) annonce au Service phytosanitaire cantonal des symptômes suspects;
-- b) abattage immédiat des plantes contaminées;
-- c) après une pesée des intérêts, abattage préventif de toutes les plantes hôtes prioritaires;
-- d) broyage (≤ 3 cm) dans les plus brefs délais, à l'intérieur de la zone noyau, de toutes les plantes abattues selon les lettres b et c ainsi que du bois et des rémanents de coupes et résidus de coupes de tous les feuillus;
-- e) incinération de tout le matériel obtenu en application de la lettre d et, le cas échéant, des emballages en bois soupçonnés de contamination, dans une installation respectant les normes de protection de l'air;
-- f) annonce préalable à la commune de la coupe de tout arbre feuillu dès 3 centimètres de diamètre.
+- a) annonce au SFN de symptômes suspects;
+- b) lors de l'abattage ou de la taille de plantes hôtes prioritaires, le processus est le suivant:
+  - 1\. en principe, le bois et les branches sont laissés sur place et sont broyés en copeaux d'une dimension inférieure ou égale à 3 centimètres. Le bois et les branches peuvent être laissés sur place sans être broyés, à condition d'être contrôlés par une personne agréée par le SFN;
+  - 2\. le bois et les branches d'un diamètre de plus de 3 centimètres peuvent être sortis de la parcelle, à condition d'avoir été préalablement broyés en copeaux d'une dimension inférieure ou égale à 3 centimètres. Les branches de moins de 3 centimètres de diamètre peuvent être transportées par le chemin le plus direct, sans broyage préalable, vers un site d'entreposage, agréé par le SFN et la commune, où elles seront ensuite éliminées;
+- c) lors de l'abattage ou de la taille d'arbres et d'arbustes feuillus (hormis les plantes hôtes prioritaires), le processus est le suivant:
+  - 1\. le bois et les branches de tout diamètre sont entreposés sur place (sur la même parcelle). Le bois peut être utilisé comme bois de feu uniquement sur place (sur la même parcelle);
+  - 2\. le bois et les branches de tout diamètre peuvent être transportés par le chemin le plus direct, sans broyage préalable, vers un site d'entreposage, agréé par le SFN et la commune, où ils seront ensuite éliminés;
+  - 3\. le bois et les branches de tout diamètre peuvent être déplacés hors des zones centrale et focale, à condition d'avoir été préalablement broyés sur place en copeaux d'une dimension inférieure ou égale à 3 centimètres.
 
-<sup>2</sup> Sont interdits dans l'ensemble de la zone noyau:
-
-- a) toute nouvelle plantation de feuillus;
-- b) tout ramassage de bois de feu;
-- c) tout commerce de plantes hôtes prioritaires.
-
-#### Art. 5
-
-**Mesures de prévention dans la zone focale**
-
-<sup>1</sup> Toute personne propriétaire ou locataire d'un bien foncier ou forestier, de même que toute personne chargée d'entretenir ou de s'occuper de végétaux, est tenue d'exécuter ou de faire exécuter, notamment, les mesures suivantes:
-
-- a) annonce au Service phytosanitaire cantonal des symptômes suspects;
-- b) annonce préalable à la commune de la coupe de tout arbre feuillu dès 3 centimètres de diamètre;
-- c) broyage (≤ 3 cm) dans les plus brefs délais, au sein de la zone focale, du bois ainsi que des rémanents de coupes et résidus de coupes de toutes les plantes hôtes prioritaires;
-- d) sortie de la zone focale du bois et des rémanents de coupes et résidus de coupes de tous les autres feuillus qu'à la condition que ceux-ci aient été préalablement broyés (≤ 3 cm).
-
-<sup>2</sup> Sont interdits dans l'ensemble de la zone focale:
+<sup>2</sup> Sont interdits dans l'ensemble de la zone centrale et de la zone focale:
 
 - a) toute nouvelle plantation de plantes hôtes prioritaires;
 - b) tout ramassage de bois de feu;
 - c) tout commerce de plantes hôtes prioritaires.
 
-<sup>3</sup> Les nouvelles plantations de feuillus qui ne sont pas des plantes hôtes prioritaires sont soumises à l'autorisation du Service phytosanitaire cantonal.
-
-#### Art. 6
+#### Art. 5
 
 **Mesures de prévention dans la zone tampon**
 
-<sup>1</sup> Hors forêt, toute personne propriétaire ou locataire d'un bien foncier, de même que toute personne chargée d'entretenir ou de s'occuper de végétaux, est tenue d'exécuter ou de faire exécuter, notamment, les mesures suivantes:
+<sup>1</sup> Hors forêt, toute personne propriétaire ou locataire d'un bien foncier, de même que toute personne chargée d'entretenir ou de s'occuper de végétaux, est tenue d'exécuter, de faire exécuter ou de laisser exécuter, notamment, les mesures suivantes:
 
-- a) annonce au Service phytosanitaire cantonal des symptômes suspects;
-- b) sortie de la zone tampon du bois et des rémanents de coupes et résidus de coupes de tous les feuillus qu'à la condition que ceux-ci aient été préalablement broyés (≤ 3 cm).
+- a) annonce au SFN de symptômes suspects;
+- b) lors de l'abattage ou de la taille de plantes hôtes prioritaires dans la zone tampon, le processus est le suivant:
+  - 1\. en principe, le bois et les branches de tout diamètre sont entreposés sur place (sur la même parcelle);
+  - 2\. ils peuvent néanmoins être transportés par le chemin le plus direct, sans broyage préalable, vers un site d'entreposage, agréé par le SFN et la commune, où ils seront ensuite éliminés;
+  - 3\. le bois et les branches de tout diamètre peuvent être déplacés hors de la zone tampon, à condition d'avoir été préalablement broyés sur place en copeaux d'une dimension inférieure ou égale à 3 centimètres.
 
 <sup>2</sup> En forêt, toute personne propriétaire ou locataire d'un bien forestier, de même que toute personne chargée d'entretenir ou de s'occuper de végétaux, est tenue d'exécuter ou de faire exécuter, notamment, les mesures suivantes:
 
-- a) annonce au Service phytosanitaire cantonal des symptômes suspects;
+- a) annonce au SFN de symptômes suspects;
 - b) martelage de toutes les coupes de bois (résineux et feuillus), y compris les coupes de moins de 10 plantes, pour propre usage, par le forestier ou la forestière de triage;
 - c) annonce au forestier ou à la forestière de triage des soins aux jeunes peuplements préalablement à leur réalisation;
 - d) contrôle en détail, par le forestier ou la forestière de triage ou par une personne formée, des bois des plantes hôtes prioritaires avant leur empilage ainsi que de leurs rémanents de coupes;
-- e) contrôle visuel, par le bûcheron ou la bûcheronne, des autres feuillus après abattage;
-- f) obtention d'une autorisation du forestier ou de la forestière de triage pour tous les transports de bois de feuillus provenant des forêts de la zone tampon, tant pour les transports à l'intérieur de la zone tampon que pour ceux à destination de l'extérieur de cette zone;
-- g) broyage (≤ 3 cm) du bois de feuillus destiné aux chauffages à copeaux avant sa sortie de la zone.
+- e) obtention d'une autorisation du forestier ou de la forestière de triage pour tous les transports de bois de plantes hôtes prioritaires provenant des forêts de la zone tampon, tant pour les transports à l'intérieur de la zone tampon que pour ceux à destination de l'extérieur de cette zone.
 
 <sup>3</sup> Les jardineries et commerces de plantes ont l'obligation d'examiner régulièrement leurs stocks.
+
+#### Art. 6
+
+**Surveillance**
+
+<sup>1</sup> Toute personne propriétaire ou locataire d'un bien foncier situé dans la zone centrale, focale ou tampon, doit laisser l'accès à l'ensemble de ses plantes aux professionnels en charge d'effectuer la surveillance du capricorne asiatique, aussi souvent que cela est nécessaire, en conformité avec les exigences de l'OFEV.
 
 #### Art. 7
 
 **Demandes de dérogations**
 
-<sup>1</sup> Les demandes de dérogations aux dispositions fixées dans la présente ordonnance doivent être adressées, préalablement à leur exécution, au Service phytosanitaire cantonal.
+<sup>1</sup> Les demandes de dérogations aux dispositions fixées dans la présente ordonnance doivent être adressées, préalablement à leur exécution, au SFN.
 
-#### Art. 8
-
-**Abrogation**
-
-<sup>1</sup> L'ordonnance du 5 août 2014 délimitant la commune de Marly en zones, en relation avec une contamination par le capricorne asiatique, et ordonnant des mesures d'éradication est abrogée.
-
-#### Art. 9
-
-**Publication**
-
-<sup>1</sup> La publication de la présente ordonnance est assurée de la manière suivante:
-
-- a) affichage public dans les communes concernées;
-- b) parution dans la Feuille officielle et dans le Recueil officiel fribourgeois;
-- c) communiqué de presse.
-
-#### Art. 10
-
-**Entrée en vigueur**
-
-<sup>1</sup> La présente ordonnance entre en vigueur avec effet rétroactif au 1<sup>er</sup> février 2015.
-
-2015\_012
+2024\_072

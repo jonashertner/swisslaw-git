@@ -1,54 +1,63 @@
 ---
 canton: FR
 number: "912.5.114"
-title: Verordnung ILFD über die Bekämpfung des Asiatischen Laubholzbockkäfers
+title: Verordnung ILFD über Bekämpfungsmassnahmen bei einem Befall mit dem Asiatischen Laubholzbockkäfer
 language: de
-version: 2019-04-01
-valid_until: 2024-10-31
-version_adopted: 2019-04-02
+version: 2024-11-01
+version_adopted: 2024-10-10
 adopted: 2024-10-10
 in_force: 2024-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/912.5.114"
-pdf: "https://bdlf.fr.ch/api/de/versions/5989/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8059/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung ILFD über die Bekämpfung des Asiatischen Laubholzbockkäfers
+# Verordnung ILFD über Bekämpfungsmassnahmen bei einem Befall mit dem Asiatischen Laubholzbockkäfer
 
-Bekämpfung des Asiatischen Laubholzbockkäfers – V
+mpf gegen den Asiatischen Laubholzbockkäfer - V
 
-vom 04.02.2015 (Fassung in Kraft getreten am 01.04.2019)
+vom 10.10.2024 (Fassung in Kraft getreten am 01.11.2024)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
+gestützt auf das Bundesgesetz vom 4. Oktober 1991 über den Wald (WaG), insbesondere die Artikel 26 ff. und 37 ff.;
+
 gestützt auf Artikel 149 ff. des Bundesgesetzes über die Landwirtschaft vom 29. April 1998 (LwG);
 
-gestützt auf das Bundesgesetz vom 4. Oktober 1991 über den Wald (WaG);
+gestützt auf die Verordnung des Bundes vom 30. November 1992 über den Wald (WaV), insbesondere die Artikel 28 ff. und 40 ff.;
 
-gestützt auf die Pflanzenschutzverordnung des Bundes vom 27. Oktober 2010 (PSV);
+gestützt auf die Verordnung des Bundes vom 31. Oktober 2018 über den Schutz von Pflanzen vor besonders gefährlichen Schadorganismen (Pflanzengesundheitsverordnung, PGesV);
 
-gestützt auf die Artikel 6 und 8 des Landwirtschaftsgesetzes vom 3. Oktober 2006 (LandwG);
+gestützt auf die Verordnung vom 14. November 2019 des WBF und des UVEK zur Pflanzengesundheitsverordnung (PGesV-WBF-UVEK);
 
-gestützt auf die Artikel 34 Abs. 3 und 37 Abs. 1 und 2 Bst. d des Landwirtschaftsreglements vom 27. März 2007 (LandwR);
+gestützt auf die Verordnung vom 29. November 2017 des BAFU über phytosanitäre Massnahmen für den Wald (VpM-BAFU);
 
-gestützt auf den «Leitfaden zum Umgang mit dem Asiatischen Laubholzbockkäfer ALB (Anoplophora glabripennis)», herausgegeben vom Bundesamt für Landwirtschaft (BLW) und vom Bundesamt für Umwelt (BAFU) im Juli 2013 (Entwurf zur Erprobung);
+gestützt auf das Gesetz vom 2. März 1999 über den Wald und den Schutz vor Naturereignissen (WSG), insbesondere die Artikel 58, 64c und 64f;
 
-gestützt auf Artikel 15 Abs. 1 des Gesetzes vom 16. Oktober 2001 über die Veröffentlichung der Erlasse (VEG);
+gestützt auf Artikel 6 des Landwirtschaftsgesetzes vom 3. Oktober 2006 (LandwG);
+
+gestützt auf das Reglement vom 11. Dezember 2001 über den Wald und den Schutz vor Naturereignissen (WSR), insbesondere Artikel 53;
+
+gestützt auf Artikel 34 ff. des Landwirtschaftsreglements vom 27. März 2007 (LandwR);
+
+gestützt auf das Modul 1 (Asiatischer Laubholzbockkäfer) der Vollzugshilfe Waldschutz, das 2018 vom Bundesamt für Umwelt (BAFU) herausgegeben wurde;
 
 in Erwägung:
 
-Der Asiatische Laubholzbockkäfer wird gemäss der Pflanzenschutzverordnung des Bundes als besonders gefährlicher Schadorganismus eingestuft und untersteht somit der Melde- und Bekämpfungspflicht. Der Käfer befällt gesunde Laubholzbäume und kann sie innert weniger Jahre zum Absterben bringen.
+Der Asiatische Laubholzbockkäfer wird gemäss PGesV-WBF-UVEK als besonders gefährlicher Schadorganismus eingestuft und gilt als prioritärer Quarantäneorganismus, und somit untersteht er der Melde- und Bekämpfungspflicht. Der Käfer befällt gesunde Laubholzbäume und kann sie innert weniger Jahre zum Absterben bringen.
 
-Auf dem Gebiet des Kantons Freiburg wurden mehrere Befallsherde dieses Insekts gefunden.
+Auf dem Gebiet des Kantons Freiburg wurden Befallsherde dieses Insekts schon gefunden und ausgerottet.
 
-Die Entdeckung des Befalls erfordert sofortige Bekämpfungs- und Präventionsmassnahmen. Diese Massnahmen können in Übereinstimmung mit den vom BLW und vom BAFU entwickelten Risikomanagementkonzepten für landwirtschaftliche Kulturpflanzen und den Gartenbau, Waldbäume und -sträucher inner- und ausserhalb des Waldareals sowie für gefährdete, wildlebende Pflanzen (Art. 52 PSV) ergriffen werden.
+Diese Verordnung wird insbesondere gemäss Artikel 58 Abs. 5 WSG und gemäss den vom Bundesamt für Umwelt gestellten Anforderungen angepasst, um die gesammelten Erfahrungen bei der Entdeckung neuer Befallsherde dieses Organismus auf dem Kantonsgebiet zu berücksichtigen.
 
-In der Kernzone werden die betroffenen Personen gegebenenfalls persönlich über die konkret geplanten Massnahmen informiert. Sind sie nicht einverstanden, so können sie einen sie betreffenden formellen Entscheid verlangen.
+Dazu gehört insbesondere die Gebietsabgrenzung (Kern-, Fokus- und Pufferzone), was differenzierte Massnahmen umfasst. Die betroffenen Personen werden persönlich über die konkret geplanten Massnahmen informiert. Sind sie nicht einverstanden, so können sie einen sie betreffenden formellen Entscheid verlangen.
 
-In Anwendung von Artikel 37 Abs. 1 LandwR amtet das Landwirtschaftliche Institut des Kantons Freiburg (LIG) in Grangeneuve als kantonaler Pflanzenschutzdienst im Sinne der Bundesgesetzgebung. Die Direktorin des LIG hat dem Verantwortlichen des kantonalen Pflanzenschutzdienstes die Zuständigkeit übertragen, sie für Entscheide im Rahmen der Präventions- und Bekämpfungsmassnahmen gegen den Asiatischen Laubholzbockkäfer zu vertreten. In Anwendung von Artikel 33 des Gesetzes vom 23. Juni 2006 über das Landwirtschaftliche Institut des Kantons Freiburg kann daher gegen Entscheide des LIG in diesem Bereich, die der Verantwortliche des kantonalen Pflanzenschutzdienstes gefällt hat, innert 30 Tagen beim Kantonsgericht eine direkte Beschwerde eingereicht werden.
+Da es sich um einen Organismus handelt, der eine Gefahr für die Bäume und die Wälder darstellt, liegt es in der Zuständigkeit des Amts für Wald und Natur, die Präventions- und Bekämpfungsmassnahmen anzuwenden.
 
-Auf Antrag des kantonalen Pflanzenschutzdienstes,
+Die Kosten werden gemäss Artikel 58 WSG geregelt.
+
+Auf Antrag des Amts für Wald und Natur,
 
 beschliesst:
 
@@ -56,121 +65,96 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Der kantonale Pflanzenschutzdienst sorgt für die Umsetzung der Massnahmen, die vom Bundesamt für Landwirtschaft und vom Bundesamt für Umwelt angeordnet wurden. Er ordnet gegebenenfalls zusätzliche Bekämpfungsmassnahmen an.
+<sup>1</sup> Das Amt für Wald und Natur (WNA) sorgt für die Umsetzung der vom Bundesamt für Umwelt angeordneten Massnahmen im Wald und ausserhalb des Waldes. Das WNA ordnet gegebenenfalls zusätzliche Bekämpfungsmassnahmen an.
 
-<sup>2</sup> Ausserhalb des Waldes ist der kantonale Pflanzenschutzdienst für die Umsetzung der Massnahmen zuständig. Im Wald ist das Amt für Wald und Natur für ihre Umsetzung zuständig.
-
-<sup>3</sup> Der kantonale Pflanzenschutzdienst und das Amt für Wald und Natur gehen in enger Zusammenarbeit mit den Gemeinden und den betroffenen Grundeigentümerinnen und -eigentümern koordiniert und aufeinander abgestimmt vor.
+<sup>2</sup> Das WNA geht koordiniert und in enger Zusammenarbeit mit dem kantonalen Pflanzenschutzdienst, den Gemeinden und den betroffenen Grundeigentümerinnen und -eigentümern vor.
 
 #### Art. 2
 
 **Abgegrenzte Gebiete und Hauptwirtspflanzen**
 
-<sup>1</sup> Der kantonale Pflanzenschutzdienst grenzt auf einem Übersichtsplan Kernzonen, Fokuszonen und Pufferzonen ab. Dieser Plan enthält zudem eine Liste der Hauptwirtspflanzen.
+<sup>1</sup> Das WNA grenzt auf einem Übersichtsplan, der auf dem Geoportal des Kantons Freiburg veröffentlicht wird, drei Arten von Zonen ab, die alle auf dem Gebiet des Kantons Freiburg entdeckten Befallsherde umfassen.
 
-<sup>2</sup> Die abgegrenzten Gebiete umfassen alle Befallsherde, die auf dem freiburgischen Kantonsgebiet entdeckt wurden. Es gibt folgende Zonen:
+<sup>2</sup> Es gibt folgende Zonen:
 
-- a) Die Kernzone umschliesst den Befallsherd kreisförmig, und der Radius beträgt mindestens 100 m.
-- b) Die Fokuszone umschliesst den Befallsherd kreisförmig, und der Radius beträgt 200 bis 500 m.
-- c) Die Pufferzone umschliesst die Fokuszone kreisförmig mit dem Befallsherd im Zentrum, und ihr Radius beträgt mindestens 2 km.
+- a) Kernzone (Grössenordnung: Radius von 100 m um den Befallsherd);
+- b) Fokuszone (Grössenordnung: Radius von 200 bis 500 m um den Befallsherd);
+- c) Pufferzone (Grössenordnung: Radius von 2 km um den Befallsherd).
 
-<sup>3</sup> Der Übersichtsplan, die darin enthaltenen Zonen und die Liste der Hauptwirtspflanzen werden entsprechend der Entwicklung der Situation angepasst.
+<sup>3</sup> Bei der Gebietsabgrenzung werden die Schwere des Befalls, die Eigenschaften des Geländes und praktische Aspekte für die Durchführung der Bekämpfungsmassnahmen berücksichtigt. Die effektive Fläche der einzelnen Zonen hängt von diesen Kriterien ab. Bei der Grössenordnung nach Absatz 2 handelt es sich um einen Richtwert.
 
-<sup>4</sup> Sobald der Laubholzbockkäfer als ausgerottet gilt, werden die Zonen aufgehoben und die betroffene Bevölkerung informiert.
+<sup>4</sup> Die Liste der Hauptwirtspflanzen wird vom WNA festgelegt und auf der Website des WNA veröffentlicht.
+
+<sup>5</sup> Der Übersichtsplan, die darin enthaltenen Zonen und die Liste der Hauptwirtspflanzen werden entsprechend der Entwicklung der Situation angepasst.
+
+<sup>6</sup> Sobald der Laubholzbockkäfer als ausgerottet gilt, werden die Zonen aufgehoben und die betroffene Bevölkerung informiert.
 
 #### Art. 3
 
-**Übersichtsplan**
+**Bekämpfungsmassnahmen in der Kernzone**
 
-<sup>1</sup> Der Übersichtsplan mit den verschiedenen Zonen und die Liste der Hauptwirtspflanzen stehen auf dem Geoportal des Kantons Freiburg und bei den betroffenen Gemeinden zur Verfügung.
+<sup>1</sup> Das WNA oder die von ihm beauftragten Unternehmen oder Personen führt namentlich die folgenden Massnahmen aus oder lässt sie ausführen:
 
-<sup>2</sup> Sie werden zudem auf den Websites des kantonalen Pflanzenschutzdienstes und des Amts für Wald und Natur veröffentlicht.
+- a) unverzügliche Vernichtung befallener Pflanzen;
+- b) präventive Fällung aller Hauptwirtspflanzen nach einer Interessenabwägung;
+- c) schnellstmögliches Häckseln (in Schnitzel mit einer Grösse von kleiner als oder gleich 3 cm) aller nach den Buchstaben a und b gefällten Pflanzen innerhalb der Kernzone;
+- d) Verbrennung des gesamten, in Anwendung von Buchstabe c erhaltenen Materials und gegebenenfalls der Holzverpackungen mit Verdacht auf Befall in einer Anlage, die den Luftschutznormen entspricht.
+
+<sup>2</sup> Eigentümerinnen und Eigentümer und Mieterinnen und Mieter der Liegenschaft sind gehalten, die oben genannten Arbeiten zu dulden und den Zugang zur Liegenschaft zu ermöglichen.
 
 #### Art. 4
 
-**Bekämpfungs- und Präventionsmassnahmen in der Kernzone**
+**Präventionsmassnahmen in der Kern- und Fokuszone**
 
-<sup>1</sup> Eigentümerinnen und Eigentümer sowie Mieterinnen und Mieter einer Liegenschaft oder eines Waldgrundstücks und Personen, die sich um die Pflege von Pflanzen kümmern, sind gehalten, namentlich die folgenden Massnahmen auszuführen oder ausführen zu lassen:
+<sup>1</sup> Eigentümerinnen und Eigentümer und Mieterinnen und Mieter einer Liegenschaft oder eines Waldgrundstücks sowie Personen, die sich um die Pflege von Pflanzen kümmern, sind gehalten, namentlich die folgenden Massnahmen auszuführen, ausführen zu lassen oder deren Ausführung zu akzeptieren:
 
-- a) Meldung von verdächtigen Symptomen an den kantonalen Pflanzenschutzdienst;
-- b) unverzügliche Vernichtung befallener Pflanzen;
-- c) präventive Fällung aller Hauptwirtspflanzen nach einer Interessenabwägung;
-- d) schnellstmögliches Häckseln aller nach den Buchstaben b und c gefällten Pflanzen sowie des Holzes, Schlagabraums und Schnittguts aller Laubhölzer (≤ 3 cm) innerhalb der Kernzone;
-- e) Verbrennung des gesamten, in Anwendung von Buchstabe d erhaltenen Materials und gegebenenfalls der Holzverpackungen mit Verdacht auf Befall in einer Anlage, die den Luftschutznormen entspricht;
-- f) vorgängige Ankündigung bei der Gemeinde, wenn Laubbäume ab 3 cm Durchmesser gefällt werden.
+- a) Meldung verdächtiger Symptome an das WNA;
+- b) beim Fällen oder Schneiden von Hauptwirtspflanzen ist wie folgt vorzugehen:
+  - 1\. Holz und Äste werden grundsätzlich vor Ort belassen und in Schnitzel mit einer Grösse von kleiner als oder gleich 3 cm gehäckselt. Holz und Äste können ungehäckselt vor Ort belassen werden, sofern sie von einer vom WNA anerkannten Person kontrolliert werden;
+  - 2\. Holz und Äste mit einem Durchmesser von mehr als 3 cm können von der Parzelle entfernt werden, wenn sie zuvor in Schnitzel mit einer Grösse von kleiner als oder gleich 3 cm gehäckselt wurden. Äste mit einem Durchmesser von weniger als 3 cm können, ohne zuvor gehäckselt zu werden, auf dem direktesten Weg an einen vom WNA und der Gemeinde zugelassenen Lagerungsort transportiert werden, wo sie anschliessend entsorgt werden;
+- c) beim Fällen oder Schneiden von Laubbäumen oder -sträuchern (abgesehen von Hauptwirtspflanzen) ist wie folgt vorzugehen:
+  - 1\. Holz und Äste jeglichen Durchmessers werden vor Ort (auf derselben Parzelle) gelagert. Das Holz kann einzig vor Ort (auf derselben Parzelle) als Brennholz verwendet werden;
+  - 2\. Holz und Äste jeglichen Durchmessers können, ohne zuvor gehäckselt zu werden, auf dem direktesten Weg an einen vom WNA und der Gemeinde zugelassenen Lagerungsort transportiert werden, wo sie anschliessend entsorgt werden;
+  - 3\. Holz und Äste jeglichen Durchmessers können ausserhalb der Kern- und Fokuszonen transportiert werden, wenn sie zuvor vor Ort in Schnitzel mit einer Grösse von kleiner als oder gleich 3 cm gehäckselt wurden.
 
-<sup>2</sup> In der gesamten Kernzone ist es verboten:
-
-- a) neue Laubbäume anzupflanzen;
-- b) Brennholz zu sammeln;
-- c) mit Hauptwirtspflanzen zu handeln.
-
-#### Art. 5
-
-**Präventionsmassnahmen in der Fokuszone**
-
-<sup>1</sup> Eigentümerinnen und Eigentümer sowie Mieterinnen und Mieter einer Liegenschaft oder eines Waldgrundstücks und Personen, die sich um die Pflege von Pflanzen kümmern, sind gehalten, namentlich die folgenden Massnahmen auszuführen oder ausführen zu lassen:
-
-- a) Meldung von verdächtigen Symptomen an den kantonalen Pflanzenschutzdienst;
-- b) vorgängige Ankündigung bei der Gemeinde, wenn Laubbäume ab 3 cm Durchmesser gefällt werden;
-- c) schnellstmögliches Häckseln des Holzes sowie des Schlagabraums und des Schnittguts aller Hauptwirtspflanzen (≤ 3 cm) innerhalb der Fokuszone;
-- d) Transport des Holzes sowie des Schlagabraums und des Schnittguts aller übrigen Laubbäume aus der Fokuszone nur, wenn alles vorhergehend gehäckselt wurde (≤ 3 cm).
-
-<sup>2</sup> In der gesamten Fokuszone ist es verboten:
+<sup>2</sup> In der gesamten Kern- und Fokuszone ist es verboten:
 
 - a) neue Hauptwirtspflanzen anzupflanzen;
 - b) Brennholz zu sammeln;
 - c) mit Hauptwirtspflanzen zu handeln.
 
-<sup>3</sup> Die Neuanpflanzung von Laubbäumen, die nicht Hauptwirtspflanzen sind, muss vom kantonalen Pflanzenschutzdienst bewilligt werden.
-
-#### Art. 6
+#### Art. 5
 
 **Präventionsmassnahmen in der Pufferzone**
 
-<sup>1</sup> Ausserhalb des Waldes sind Eigentümerinnen und Eigentümer sowie Mieterinnen und Mieter einer Liegenschaft und Personen, die sich um die Pflege von Pflanzen kümmern, gehalten, namentlich die folgenden Massnahmen auszuführen oder ausführen zu lassen:
+<sup>1</sup> Ausserhalb des Waldes sind Eigentümerinnen und Eigentümer und Mieterinnen und Mieter einer Liegenschaft sowie Personen, die sich um die Pflege von Pflanzen kümmern, gehalten, namentlich die folgenden Massnahmen auszuführen, ausführen zu lassen oder deren Ausführung zu akzeptieren:
 
-- a) Meldung von verdächtigen Symptomen an den kantonalen Pflanzenschutzdienst;
-- b) Transport des Holzes sowie des Schlagabraums und des Schnittguts aller Laubbäume aus der Pufferzone nur, wenn alles vorhergehend gehäckselt wurde (≤ 3 cm).
+- a) Meldung verdächtiger Symptome an das WNA;
+- b) beim Fällen oder Schneiden von Hauptwirtspflanzen ist wie folgt vorzugehen:
+  - 1\. Holz und Äste jeglichen Durchmessers werden grundsätzlich vor Ort (auf derselben Parzelle) gelagert;
+  - 2\. Sie können jedoch ungehäckselt auf dem direktesten Weg an einen vom WNA und der Gemeinde zugelassenen Lagerungsort transportiert werden, wo sie anschliessend entsorgt werden;
+  - 3\. Holz und Äste jeglichen Durchmessers können ausserhalb der Pufferzone transportiert werden, wenn sie zuvor vor Ort in Schnitzel mit einer Grösse von kleiner als oder gleich 3 cm gehäckselt wurden.
 
-<sup>2</sup> Im Wald sind Eigentümerinnen und Eigentümer sowie Mieterinnen und Mieter eines Waldgrundstücks und Personen, die sich um die Pflege von Pflanzen kümmern, gehalten, namentlich die folgenden Massnahmen auszuführen oder ausführen zu lassen:
+<sup>2</sup> Im Wald sind Eigentümerinnen und Eigentümer und Mieterinnen und Mieter eines Waldgrundstücks sowie Personen, die sich um die Pflege von Pflanzen kümmern, gehalten, namentlich die folgenden Massnahmen auszuführen oder ausführen zu lassen:
 
-- a) Meldung von verdächtigen Symptomen an den kantonalen Pflanzenschutzdienst;
+- a) Meldung verdächtiger Symptome an das WNA;
 - b) Anzeichnen aller Holzschläge (Nadel- und Laubbäume), einschliesslich der Holzschläge von weniger als 10 Pflanzen für den Eigenbedarf, durch die Revierförsterin oder den Revierförster;
 - c) Meldung der Jungwaldpflege an die Revierförsterin oder den Revierförster, bevor sie ausgeführt wird;
 - d) genaue Prüfung des Holzes und des Schlagabraums von Hauptwirtspflanzen vor dem Stapeln durch die Revierförsterin oder den Revierförster oder durch eine geschulte Person;
-- e) visuelle Kontrolle der übrigen Laubbäume nach dem Fällen durch die Holzfällerin oder den Holzfäller;
-- f) Einholen einer Bewilligung von der Revierförsterin oder vom Revierförster für jeglichen Transport von Laubholz aus Wäldern in der Pufferzone, sowohl für Transporte innerhalb der Pufferzone als auch für Transporte in eine andere Zone;
-- g) Häckseln des Holzes von Laubbäumen für Holzschnitzelheizungen (≤ 3 cm), bevor es aus der Zone heraustransportiert wird.
+- e) Einholen einer Bewilligung von der Revierförsterin oder vom Revierförster für jeglichen Transport von Hauptwirtspflanzen aus Wäldern in der Pufferzone, sowohl für Transporte innerhalb der Pufferzone als auch für Transporte in eine andere Zone.
 
 <sup>3</sup> Die Gartencenter und Pflanzenhandlungen sind verpflichtet, regelmässig ihre Bestände zu kontrollieren.
+
+#### Art. 6
+
+**Aufsicht**
+
+<sup>1</sup> Eigentümerinnen und Eigentümer und Mieterinnen und Mieter einer Liegenschaft in der Kern-, Fokus- oder Pufferzone müssen den Fachleuten, die mit der Überwachung des Asiatischen Laubholzbockkäfers beauftragt sind, entsprechend den Anforderungen des BAFU so oft wie nötig Zugang zu all ihren Pflanzen gewähren.
 
 #### Art. 7
 
 **Ausnahmegesuche**
 
-<sup>1</sup> Gesuche um Ausnahmen von den Bestimmungen dieser Verordnung müssen vor der Ausführung an den kantonalen Pflanzenschutzdienst gerichtet werden.
+<sup>1</sup> Gesuche um Ausnahmen von den Bestimmungen dieser Verordnung müssen vor der Ausführung an das WNA gerichtet werden.
 
-#### Art. 8
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Verordnung vom 5. August 2014 über die Einteilung der Gemeinde Marly in Gebiete in Zusammenhang mit dem Befall durch den Asiatischen Laubholzbockkäfer und die Tilgungsmassnahmen wird aufgehoben.
-
-#### Art. 9
-
-**Veröffentlichung**
-
-<sup>1</sup> Diese Verordnung wird wie folgt veröffentlicht:
-
-- a) öffentlicher Anschlag in den betroffenen Gemeinden;
-- b) Erscheinen im Amtsblatt und in der Amtlichen Sammlung des Kantons Freiburg;
-- c) Medienmitteilung.
-
-#### Art. 10
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung wird rückwirkend auf den 1. Februar 2015 in Kraft gesetzt.
-
-2015\_012
+2024\_072
