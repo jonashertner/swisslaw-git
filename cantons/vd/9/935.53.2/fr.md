@@ -4,7 +4,7 @@ number: "935.53.2"
 title: RÈGLEMENT du 01.09.2021 sur la répartition du bénéfice net résiduel des loteries et paris sportifs de grande envergure (RBGE)
 short: RBGE
 language: fr
-version: 2022-01-01
+version: 2024-11-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.53.2?id=e927585b-c97e-495e-87ef-7989046bfadb"
 ---
 
@@ -301,16 +301,13 @@ arrête
 
 #### Art. 26
 
-**Fonds pour la protection de la jeunesse [^25-2]**
+**... [^25-2]**
 
-<sup>1</sup> Le Fonds accorde une contribution annuelle au Fonds pour la protection de la jeunesse et en faveur de l'enfance malheureuse et abandonnée institué par l'article 60 de la loi sur la protection des mineurs (LProMin)[^26-1].
+<sup>1</sup> ...
 
-<sup>2</sup> Ce montant est prélevé pour moitié sur la part du Fonds affectée au domaine de l'action sociale, en application de l'article 17, alinéa 4, lettre a de la loi[^26-2] et pour moitié sur le solde disponible du Fonds après répartition conformément à l'article 17, alinéa 4 de la loi[^26-3].
+<sup>2</sup> ...
 
 [^25-2]: Modif. 2 du 11.12.2024: Abrogation tArt; entrée en vigueur au 01.11.2024; Abrogation Al. 1-2; entrée en vigueur au 01.11.2024
-[^26-1]: Loi du 04.05.2004 sur la protection des mineurs ([BLV 850.41](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.41?id=781fe426-5621-4eb9-945b-6fdabc74ba6b))
-[^26-2]: Loi du 26.01.2021 d'application de la loi fédérale du 29 septembre 2017 sur les jeux d'argent ([BLV 935.51](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.51?id=29ac35f2-bd36-4e4b-960b-cc464375b06d))
-[^26-3]: Loi du 26.01.2021 d'application de la loi fédérale du 29 septembre 2017 sur les jeux d'argent ([BLV 935.51](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.51?id=29ac35f2-bd36-4e4b-960b-cc464375b06d))
 
 #### Art. 27
 
