@@ -4,13 +4,13 @@ number: "550.1"
 title: Gesetz über die Kantonspolizei
 short: PolG
 language: de
-version: 2024-01-01
-valid_until: 2024-10-31
-version_adopted: 2023-03-16
+version: 2024-11-01
+valid_until: 2026-04-30
+version_adopted: 2024-05-16
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/de/versions/3541/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3542/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +19,13 @@ pdf: "https://lex.vs.ch/api/de/versions/3541/pdf_file"
 
 (PolG)
 
-vom 11.11.2016 (Stand 01.01.2024)
+vom 11.11.2016 (Stand 01.11.2024)
 
 Der Grosse Rat des Kantons Wallis
 
 eingesehen Artikel 57 der Bundesverfassung;
 
-eingesehen die Artikel 31 Absatz 1 Buchstabe a, 42 Absatz 1 und 56 Absatz 1 der Kantonsverfassung;
+eingesehen die Artikel 31 Absatz 1 Buchstabe a, 42 Absätze 1 und 56 Absatz 1 der Kantonsverfassung;
 
 eingesehen Artikel 39 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996;
 
@@ -77,7 +77,7 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Sie erfüllt ihren allgemeinen Auftrag durch präventives und repressives Handeln.
 
-<sup>3</sup> Sie beschafft sich die Informationen, unterhält und entwickelt die für ihre Aufträge dienlichen Netzwerke.
+<sup>3</sup> Sie sucht und verwertet Informationen, unterhält und entwickelt die für ihre Aufgaben relevanten Netzwerke.
 
 <sup>4</sup> Sie steht im Dienste der Bevölkerung und der Behörden.
 
@@ -142,16 +142,24 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Sie arbeitet mit dem Informationsdienst des Staates Wallis zusammen.
 
+#### Art. 9a
+
+**g) Ausbildung**
+
+<sup>1</sup> Die Kantonspolizei kann Leistungen im Bereich der polizeilichen Grundausbildung erbringen.
+
+<sup>2</sup> Für die Partner im Bereich der öffentlichen Sicherheit sind diese Ausbildungen mit Kosten verbunden, die in Zusammenarbeitsvereinbarungen festgelegt werden.
+
 ## 3 Organisation des kantonalen Polizeikorps
 
 #### Art. 10
 
 **Kommando und Organisationsstruktur**
 
-<sup>1</sup> Die Kantonspolizei bildet ein einziges Korps, das militärisch organisiert ist und durch einen Kommandanten geführt wird. Sie umfasst:
+<sup>1</sup> Die Kantonspolizei bildet ein einziges Korps, das militärisch organisiert ist, durch einen Kommandanten geführt wird und aus operativen und unterstützenden Einheiten besteht.
 
-- a) zwei operative Einheiten: die Gendarmerie und die Kriminalpolizei;
-- b) fünf Unterstützungseinheiten.
+- a) …
+- b) …
 
 <sup>2</sup> Jede Einheit wird von einem Stabsoffizier geführt.
 
@@ -203,60 +211,25 @@ verordnet:[^ingress-1]
 
 #### Art. 14
 
-**Gendarmerie a) Aufgaben**
-
-<sup>1</sup> Die Gendarmerie ist beauftragt, die Ordnung und die öffentliche Sicherheit aufrechtzuerhalten. Sie erfüllt namentlich die Aufgaben der Sicherheitspolizei, der bürgernahen Polizei und der Verkehrspolizei.
-
-<sup>2</sup> Sie erfüllt die Ermittlungsaufgaben, die nicht das Einschreiten der Kriminalpolizei erfordern.
-
-<sup>3</sup> Sie erfüllt die verwaltungspolizeilichen Aufgaben, welche ihr durch die Spezialgesetzgebung der Kantonspolizei übertragen werden.
+**…**
 
 #### Art. 15
 
-**b) Operative Einheiten und territoriale Organisation**
-
-<sup>1</sup> Die Gendarmerie ist gebietsmässig organisiert. Sie umfasst:
-
-- a) drei regionale Kreise:
-  - 1\. das Oberwallis,
-  - 2\. das Mittelwallis,
-  - 3\. das Unterwallis;
-- b) spezialisierte Abteilungen.
-
-<sup>2</sup> Jeder Kreis wird in territoriale Basen und Posten unterteilt. Deren Zahl, Bedeutung und Standort werden auf dem Verordnungswege und auf Grund der Bedürfnisse der Dienststelle festgelegt.
-
-<sup>3</sup> Die Gendarmerie erbringt den Bereitschaftsdienst rund um die Uhr.
+**…**
 
 #### Art. 16
 
-**Kriminalpolizei a) Aufgaben**
-
-<sup>1</sup> Die Kriminalpolizei:
-
-- a) führt die Ermittlungen in den Angelegenheiten, deren Wichtigkeit, Komplexität und besondere Art ihren Einsatz verlangen;
-- b) koordiniert die polizeiliche Tätigkeit in gerichtspolizeilichen Belangen.
-
-<sup>2</sup> Die Aufteilung der Aufgaben zwischen Gendarmerie und Kriminalpolizei bildet Gegenstand einer dienstinternen Weisung der Kantonspolizei.
+**…**
 
 #### Art. 17
 
-**b) Operative Einheiten und territoriale Organisation**
-
-<sup>1</sup> Die Kriminalpolizei ist territorial organisiert. Sie umfasst:
-
-- a) drei regionale Kreise:
-  - 1\. das Oberwallis,
-  - 2\. das Mittelwallis,
-  - 3\. das Unterwallis;
-- b) spezialisierte Abteilungen.
-
-<sup>2</sup> Die Kriminalpolizei stellt einen Pikettdienst rund um die Uhr sicher.
+**…**
 
 #### Art. 18
 
 **Übertragung von Zuständigkeiten - Dienstweg - Interne Dokumente**
 
-<sup>1</sup> Der Kommandant organisiert seine Stellvertretung und bezeichnet die Stabsoffiziere, die als Dienstoffiziere den operativen Bereitschaftsdienst wahrnehmen.
+<sup>1</sup> Der Kommandant organisiert seine Stellvertretung und bezeichnet die Stabsoffiziere und die Offiziere, die als Dienstoffiziere den operativen Bereitschaftsdienst wahrnehmen.
 
 <sup>2</sup> Unter Vorbehalt anders lautender Anweisungen des Kommandanten verfügt jeder Stabsoffizier über die allgemeine Zuständigkeitsübertragung für die ordentlichen Angelegenheiten, für die er die Verantwortung trägt. Dieser kann in eigener Verantwortung einen Teil seiner Befugnisse an seinen Stellvertreter übertragen.
 
@@ -344,6 +317,56 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Der Entscheid des Gerichtes kann vor einem Richter des Kantonsgerichtes angefochten werden. Die Artikel 379 bis 397 StPO kommen sinngemäss zur Anwendung.
 
+### 4.1a Bedrohungsmanagement
+
+#### Art. 26a
+
+**Zweck und Organisation**
+
+<sup>1</sup> Das Bedrohungsmanagement bezweckt die Früherkennung und die Verhinderung der Begehung von Straftaten durch Personen, deren Verhalten oder Äusserungen auf eine ausgeprägte Neigung zu zielgerichteter Gewalt gegen Dritte hindeuten und die mutmasslich imstande sind, die physische, psychische und sexuelle Integrität Dritter schwer zu beeinträchtigen. Es umfasst auch Fälle von Belästigung oder Cybermobbing, sobald ein solches Verhalten in Bezug auf eine Einzelperson oder eine Gruppe von Personen wiederholt gemeldet wurde.
+
+<sup>2</sup> Die Kriminalpolizei ist durch eine zusätzliche operative Struktur für das Bedrohungsmanagement zuständig. Sie leitet und koordiniert das Bedrohungsmanagement auf kantonaler Ebene.
+
+#### Art. 26b
+
+**Vernetzung und Informationsaustausch**
+
+<sup>1</sup> Die für das Bedrohungsmanagement zuständige Einheit der Kantonspolizei und namentlich die folgenden Partner teilen alle Informationen über ein erhebliches Risiko der Begehung einer Gewalttat, welche die physische, psychische oder sexuelle Integrität von Dritten beeinträchtigen könnte:
+
+- a) die Dienststellen des Staates, der Gemeinden und anderer öffentlich-rechtlicher Körperschaften sowie der öffentlich-rechtlichen Anstalten;
+- b) die Gerichtsbehörden;
+- c) private Institutionen, wenn sie öffentlich-rechtliche Aufgaben erfüllen;
+- d) Gesundheitsfachpersonen und Partner aus dem prähospitalen Bereich;
+- e) Vereine mit sozialem, präventivem oder unterstützendem Zweck und Religionsgemeinschaften.
+
+<sup>2</sup> Die Personen der Einheit, die innerhalb der Kantonspolizei für das Bedrohungsmanagement zuständig sind, die Angestellten im Sinne des Gesetzes über das Personal des Staates Wallis und die Mitglieder der Behörden sind von ihrem Amtsgeheimnis entbunden.
+
+<sup>3</sup> Gesundheitsfachpersonen sind unter den Bedingungen gemäss Gesundheitsgesetz vom Berufsgeheimnis entbunden.
+
+<sup>4</sup> Geistliche und ihre Hilfspersonen sind in ihren Beziehungen zu der für das Bedrohungsmanagement zuständigen Einheit der Kantonspolizei vom Berufsgeheimnis entbunden.
+
+#### Art. 26c
+
+**Massnahmen**
+
+<sup>1</sup> Wenn die gesammelten Elemente befürchten lassen, dass eine Person oder eine Gruppe von Personen eine Straftat im Sinne von Artikel 26a begeht, kann die für das Bedrohungsmanagement zuständige Einheit der Kantonspolizei:
+
+- a) Ermittlungen anstellen, um die Gefährlichkeit der Person oder der Gruppe von Personen zu beurteilen;
+- b) Personendaten, einschliesslich schützenswerter Daten, sammeln und bearbeiten, die für die Überwachung von Risikosituationen erforderlich sind;
+- c) Gespräche mit der Person oder den Personen zu präventiven Zwecken führen;
+- d) in Zusammenarbeit und Koordination mit den betroffenen Partnern Unterstützungsmassnahmen für die Person und ihr Umfeld vorschlagen;
+- e) die Massnahmen zwischen den betroffenen Partnern koordinieren und diese beim Monitoring der Personen unterstützen.
+
+#### Art. 26d
+
+**Bearbeitung von und Zugriff auf Daten**
+
+<sup>1</sup> Die bearbeiteten Daten werden in einer spezifischen Datenbank der für das Bedrohungsmanagement zuständigen Einheit gespeichert.
+
+<sup>2</sup> Der Zugriff auf die Datenbank ist auf das Personal der für das Bedrohungsmanagement zuständigen Einheit beschränkt, vorbehaltlich der Beamten der Kantonspolizei und des Personals der Einsatzzentrale, welche die notwendigen Informationen über die betroffenen Personen und das Fallmanagement erhalten, wenn dies für die Erfüllung ihrer Aufgaben erforderlich ist und um die Polizeieinsätze zu lenken.
+
+<sup>3</sup> Im Übrigen gelten die Artikel 50 fortfolgende dieses Gesetzes.
+
 ### 4.2 Polizeiliche Massnahmen
 
 #### Art. 27
@@ -362,7 +385,9 @@ verordnet:[^ingress-1]
 
 **Massnahmen zur Identifizierung**
 
-<sup>1</sup> Führen die üblichen Massnahmen zur Überprüfung der Identität einer Person nicht zu einem klärenden Ergebnis, kann diese durch die Kantonspolizei Identifizierungsmassnahmen wie der Aufnahme von Lichtbildern, der Abnahme von Finger- oder Handflächenabdrücken oder der Sicherung von anderen erkennungsdienstlichen biometrischen Daten unterzogen werden, die zur Feststellung der Identität geeignet sind.
+<sup>1</sup> Wenn die üblichen Verfahren zur Überprüfung der Identität einer Person nicht zu einem befriedigenden Ergebnis geführt haben oder wenn ein besonderer Verdacht besteht, kann diese Person von der Kantonspolizei erkennungsdienstlichen Massnahmen unterzogen werden, wie die Aufnahme von Fotografien, die Abnahme von Fingerabdrücken oder anderen biometrischen erkennungsdienstlichen Daten, die zur Feststellung der Identität geeignet sind.
+
+<sup>1<sup>bis</sup></sup> Vorbehalten bleiben die Bestimmungen der StPO über die Erfassung von erkennungsdienstlichen Daten.
 
 <sup>2</sup> Falls die Person sich diesen Massnahmen widersetzt, fällt der Dienstoffizier einen Entscheid. Gegen diesen Entscheid kann bei einem Richter des Kantonsgerichtes Beschwerde eingereicht werden. Unter Vorbehalt einer gegenteilig lautenden Verfügung des befassten Richters entfaltet die Beschwerde keine aufschiebende Wirkung. Des Weiteren wird das Gesetz über das VVRG sinngemäss angewendet.
 
@@ -449,7 +474,9 @@ verordnet:[^ingress-1]
 
 **Obhut von minderjährigen Personen**
 
-<sup>1</sup> Die Kantonspolizei kann Minderjährige in Obhut nehmen, um sie dem Sorgeberechtigen oder der zuständigen Kindes- und Erwachsenenschutzbehörde zuzuführen.
+<sup>1</sup> Die Kantonspolizei kann eine minderjährige Person in Obhut nehmen, um sie einer Person mit elterlicher Sorge, ihrem Vormund oder der Institution oder Einrichtung, in der sie untergebracht wurde, zu übergeben.
+
+<sup>2</sup> Die zuständige Kindes- und Erwachsenenschutzbehörde muss informiert werden.
 
 #### Art. 36
 
@@ -624,7 +651,7 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Der Polizeibeamte hat der so verletzten Person Hilfe zu leisten.
 
-<sup>4</sup> Der Polizeibeamte, der seine Waffe eingesetzt hat, informiert so schnell als möglich seine Vorgesetzten. Er erstellt einen ausführlichen Bericht zu Handen des Kommandanten.
+<sup>4</sup> Wird von der Waffe Gebrauch gemacht, benachrichtigt der Polizeibeamte oder sein Vorgesetzter unverzüglich den diensthabenden Offizier. Der Polizeibeamte, der von seiner Waffe Gebrauch gemacht hat, erstattet dem Kommandanten Bericht.
 
 <sup>5</sup> Der Gebrauch einer Schusswaffe mit letaler Munition ist zum Abschuss eines Tieres gestattet, insoweit die Dringlichkeit der Umstände dies erfordert.
 
@@ -668,7 +695,13 @@ verordnet:[^ingress-1]
 
 **Datenbearbeitungssysteme**
 
-<sup>1</sup> Die Kantonspolizei betreibt ihre Datenbearbeitungssysteme mit dem Zweck, ihre gesetzlichen Aufgaben zu erfüllen, insbesondere die Aufgaben der öffentlichen Sicherheit und der Verwaltungspolizei.
+<sup>1</sup> Die Kantonspolizei betreibt ihre Datenbearbeitungssysteme mit dem Zweck, ihre gesetzlichen Aufgaben zu erfüllen, insbesondere diejenigen im Rahmen:
+
+- a) ihrer Aufgaben der öffentlichen Sicherheit;
+- b) ihrer kriminalpolizeilichen Aufgaben;
+- c) ihrer verwaltungspolizeilichen Aufgaben.
+
+<sup>1<sup>bis</sup></sup> Die vorgenannten Aufgaben, die über die in diesem Gesetz aufgeführten hinausgehen, werden in der Ausführungsverordnung festgelegt.
 
 <sup>2</sup> Sie betreibt ebenfalls Datenbearbeitungssysteme zur Verwaltungsführung.
 
@@ -746,7 +779,7 @@ verordnet:[^ingress-1]
 
 **Automatisierte Fahrzeugfahndung**
 
-<sup>1</sup> Die Polizei kann zur Fahndung nach Personen oder Sachen sowie zur Verhinderung, Entdeckung und Verfolgung von Verbrechen und Vergehen Fahrzeuge sowie Kontrollschilder von Fahrzeugen automatisiert (optisch) erfassen.
+<sup>1</sup> Die Kantonspolizei kann zur Fahndung nach Personen oder Sachen sowie zur Verhinderung, Entdeckung und Verfolgung von Verbrechen und Vergehen Fahrzeuge sowie Kontrollschilder von Fahrzeugen automatisiert (optisch) erfassen. Die Dauer der Massnahme nach dieser Bestimmung ist auf maximal 100 Tage beschränkt.
 
 <sup>2</sup> Sie kann die Daten mit Datenbanken automatisiert abgleichen, analysieren und zur Erstellung von Bewegungsprofilen nutzen. Der automatisierte Abgleich ist zulässig:
 
@@ -802,12 +835,13 @@ verordnet:[^ingress-1]
 
 **Aufnahmebedingungen als Polizeibeamter**
 
-<sup>1</sup> Um als Polizist aufgenommen zu werden, muss er:
+<sup>1</sup> Um als Polizist aufgenommen zu werden, muss die Person:
 
 - a) Schweizerischer Staatsbürger sein;
-- b) im Genuss eines einwandfreien Leumunds sein;
-- c) über eine gute physische Verfassung verfügen; und
-- d) eine anerkannte akademische, berufliche oder militärische Ausbildung vorweisen.
+- b) handlungsfähig sein;
+- c) einen einwandfreien Leumund besitzen;
+- d) über eine gute physische Verfassung verfügen, und
+- e) eine anerkannte akademische, berufliche oder militärische Ausbildung vorweisen.
 
 <sup>2</sup> Die weiteren Aufnahmebedingungen werden in einer Verordnung des Staatsrates bestimmt.
 
@@ -817,7 +851,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Die Rekrutierung künftiger Polizisten erfolgt durch die Kantonspolizei gemäss entsprechendem Entscheid des Staatsrates, ein solches Rekrutierungsverfahren zu eröffnen.
 
-<sup>2</sup> Die Aufnahmebedingungen zur Aspirantenschule werden in einer Verordnung festgelegt.
+<sup>2</sup> Die Aufnahmebedingungen für die Ausbildung von Aspiranten werden in einer Verordnung festgelegt.
 
 <sup>3</sup> Nach Abschluss des Rekrutierungsverfahrens und auf Vorschlag des Kommandanten trifft der Departementsvorsteher den Entscheid, die Bewerber als Aspiranten aufzunehmen.
 
@@ -845,7 +879,9 @@ verordnet:[^ingress-1]
 
 **Entschädigungsleistung bei Beendigung des Dienstverhältnisses**
 
-<sup>1</sup> Jeder Polizeibeamte, der vor dem erfüllten fünften Dienstjahr von seinem Amte zurücktritt oder aus eigener Schuld entlassen wird, hat dem Staat als Entgelt für die erhaltene Ausbildung eine in der Verordnung festgelegte Entschädigung zu entrichten.
+<sup>1</sup> Jeder Polizeibeamte, der vor dem erfüllten 3. Dienstjahr von seinem Amt zurücktritt oder aus eigener Schuld entlassen wird, hat dem Staat als Entgelt für die erhaltene Ausbildung eine in der Verordnung festgelegte Entschädigung zu entrichten.
+
+<sup>1<sup>bis</sup></sup> Diese Bestimmung kann von einer Gemeinde oder einem Gemeindeverband für jeden Beamten einer Gemeindepolizei oder einer interkommunalen Polizei angewendet werden, der vor dem erfüllten 3. Dienstjahr von seinem Amt zurücktritt oder aus eigener Schuld entlassen wird. Diese pro rata temporis berechnete Entschädigung muss im Anstellungsvertrag entsprechend der erhaltenen Ausbildung spezifiziert werden.
 
 #### Art. 67
 
@@ -889,12 +925,13 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Der Staatsrat erlässt in einer Verordnung Bestimmungen über:
 
-- a) die Zuteilung, Versetzung und Beförderung;
+- a) die Zuteilung, Versetzung, Beförderung und den Aufstieg;
 - b) die Besoldung;
 - c) die Unterkunft;
 - d) die Entschädigungen;
 - e) den Urlaub;
-- f) die administrativen Massnahmen.
+- f) die administrativen Massnahmen;
+- g) den Status von Aspiranten.
 
 ## 7 Gemeindepolizei - Status, Aufträge und Zusammenarbeit
 
@@ -999,9 +1036,11 @@ verordnet:[^ingress-1]
 
 #### Art. 80
 
-**Verwaltungsentscheide**
+**Kosten und Gebühren**
 
 <sup>1</sup> Die von der Kantons- oder Gemeindepolizei getroffenen Verwaltungsentscheide führen zu einer Kostenfolge gemäss VVRG und dem Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden.
+
+<sup>2</sup> Der Staatsrat erlässt auf dem Verordnungsweg den Kosten- und Gebührentarif, die bei denjenigen erhoben werden, die in Anwendung des vorliegenden Gesetzes eine Amtshandlung provozieren oder verlangen.
 
 #### Art. 81
 
@@ -1063,11 +1102,13 @@ verordnet:[^ingress-1]
 
 #### Art. 87
 
-**Schadensfall**
+**Schadenfall - Versicherung**
 
 <sup>1</sup> Das Mitglied der Kantonspolizei, das beim Ausüben seiner Aufgabe an seinem persönlichen Besitz Schaden nimmt, hat Anspruch auf Wiedergutmachung des entstandenen Schadens.
 
 <sup>2</sup> Das Gleiche gilt für das Mitglied der Gemeindepolizei im Falle der Zusammenarbeit mit der Kantonspolizei (Art. 75).
+
+<sup>3</sup> Der Staat muss die Mitglieder der Kantonspolizei gegen Berufsunfälle versichern.
 
 #### Art. 88
 
@@ -1081,7 +1122,7 @@ verordnet:[^ingress-1]
 
 **Sicherheitsunternehmen**
 
-<sup>1</sup> Zum Ausüben von gewissen Aufgaben, wie sie im Konkordat über die Sicherheitsunternehmen bestimmt werden, können private Sicherheitsunternehmen herbeigezogen werden.
+<sup>1</sup> Für die Ausübung bestimmter Aufgaben können private Sicherheitsunternehmen eingesetzt werden, die gemäss dem Konkordat über Sicherheitsunternehmen zugelassen sind.
 
 <sup>2</sup> Jede Abtretung von öffentlich-rechtlichen Aufgaben, namentlich jene, die ein Sanktionsrecht enthalten, ist ausgeschlossen.
 
@@ -1096,7 +1137,10 @@ verordnet:[^ingress-1]
 - c) von einem Kantonspolizisten im Dringlichkeitsfall aufgefordert wird, ihm Mithilfe zu leisten, und sich ohne triftigen Grund weigert, dieser Aufforderung Folge zu leisten;
 - d) eine Drittperson, die aufgefordert wurde, Mithilfe zu leisten, daran hindert oder beim Ausüben ihrer Aufgabe behindert;
 - e) den Vorschriften und Massnahmen zuwiderhandelt, die ein Kantonspolizist zur Aufrechterhaltung der Ordnung, der Sicherheit oder der Sicherheit der Bewohner trifft;
-- f) ohne Rechtsgrund die Polizeiuniform trägt oder absichtlich Kleider überzieht, die zur Verwechslung mit der Polizeiuniform führen können.
+- f) ohne Rechtsgrund die Polizeiuniform trägt oder absichtlich Kleider überzieht, die zur Verwechslung mit der Polizeiuniform führen können;
+- g) einem Kantonspolizisten, aufgrund seines Verhaltens, den Dienst erschwert;
+- h) einen Kantonspolizisten beleidigt;
+- i) sich unanständig benimmt.
 
 <sup>2</sup> Absatz 1 kommt sinngemäss zur Anwendung, wenn es sich um eine Zuwiderhandlung gegen Vorschriften oder Massnahmen eines Gemeindepolizisten im Falle der Zusammenarbeit mit der Kantonspolizei handelt (Art. 75).
 
@@ -1114,12 +1158,10 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Der Staatsrat erlässt die Vollzugsbestimmungen zu diesem Gesetz.
 
-## T1 Übergangsbestimmung der Änderung vom 09.05.2019
+## T1
 
 #### Art. T1-1
 
-**Hängige Verfahren**
-
-<sup>1</sup> Zum Zeitpunkt des Inkrafttretens der Änderung des vorliegenden Gesetzes hängige Verfahren werden nach den Bestimmungen des bisherigen Rechts zu Ende geführt.
+**…**
 
 CSW BO/Abl. 49/2016, 49/2017

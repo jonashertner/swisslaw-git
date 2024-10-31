@@ -4,13 +4,13 @@ number: "550.1"
 title: Loi sur la police cantonale
 short: LPol
 language: fr
-version: 2024-01-01
-valid_until: 2024-10-31
-version_adopted: 2023-03-16
+version: 2024-11-01
+valid_until: 2026-04-30
+version_adopted: 2024-05-16
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3541/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3542/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3541/pdf_file"
 
 (LPol)
 
-du 11.11.2016 (état 01.01.2024)
+du 11.11.2016 (état 01.11.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -77,7 +77,7 @@ ordonne:[^ingress-1]
 
 <sup>2</sup> Elle exerce sa mission générale par des actions préventives et répressives.
 
-<sup>3</sup> Elle recherche le renseignement, maintient et développe les réseaux utiles à ses missions.
+<sup>3</sup> Elle recherche et exploite le renseignement, maintient et développe les réseaux utiles à ses missions.
 
 <sup>4</sup> Elle est au service de la population et des autorités.
 
@@ -142,16 +142,24 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> Elle collabore avec le Service de l'information de l'Etat du Valais.
 
+#### Art. 9a
+
+**g) Formation**
+
+<sup>1</sup> La police cantonale peut mettre en place des prestations dans le domaine de la formation de base des policiers.
+
+<sup>2</sup> Pour les partenaires de la sécurité publique, ces formations sont soumises à des frais qui sont fixés au travers des conventions de collaboration.
+
 ## 3 Organisation du corps de la police cantonale
 
 #### Art. 10
 
 **Commandement et organisation structurelle**
 
-<sup>1</sup> La police cantonale forme un seul corps, organisé militairement, dirigé par un commandant et comprenant:
+<sup>1</sup> La police cantonale forme un seul corps, organisé militairement, dirigé par un commandant et comprenant des unités opérationnelles et des unités d'appui.
 
-- a) deux unités opérationnelles: la gendarmerie et la police judiciaire;
-- b) cinq unités d’appui.
+- a) …
+- b) …
 
 <sup>2</sup> Chaque unité est dirigée par un officier d'état-major.
 
@@ -203,60 +211,25 @@ ordonne:[^ingress-1]
 
 #### Art. 14
 
-**Gendarmerie a) Tâches**
-
-<sup>1</sup> La gendarmerie est chargée d'assurer le maintien de l'ordre et la sécurité publique. Elle exécute notamment les tâches de la police de sécurité, de proximité ainsi que de circulation.
-
-<sup>2</sup> Elle exerce les tâches d'enquête qui n'exigent pas l'intervention de la police judiciaire.
-
-<sup>3</sup> Elle exerce les tâches de police administrative qui sont attribuées à la police cantonale par la législation spéciale.
+**…**
 
 #### Art. 15
 
-**b) Unités opérationnelles et organisation territoriale**
-
-<sup>1</sup> La gendarmerie est organisée territorialement. Elle comprend:
-
-- a) trois arrondissements régionaux, soit:
-  - 1\. Haut-Valais,
-  - 2\. Valais central,
-  - 3\. Bas-Valais;
-- b) des sections spécialisées.
-
-<sup>2</sup> Chaque arrondissement se subdivise en bases territoriales et postes dont le nombre, l'importance et l'emplacement sont fixés par voie d'ordonnance et selon les besoins du service.
-
-<sup>3</sup> La gendarmerie assure la permanence d’intervention 24h/24.
+**…**
 
 #### Art. 16
 
-**Police judiciaire a) Tâches**
-
-<sup>1</sup> La police judiciaire:
-
-- a) exerce les tâches d'enquête dans les affaires dont l'importance, la complexité ou la nature particulière exigent son intervention;
-- b) coordonne l'activité dans le domaine judiciaire.
-
-<sup>2</sup> La répartition des tâches entre gendarmerie et police judiciaire fait l'objet d'une instruction de service interne à la police cantonale.
+**…**
 
 #### Art. 17
 
-**b) Unités opérationnelles et organisation territoriale**
-
-<sup>1</sup> La police judiciaire est organisée territorialement. Elle comprend:
-
-- a) trois arrondissements régionaux, soit:
-  - 1\. Haut-Valais,
-  - 2\. Valais central,
-  - 3\. Bas-Valais;
-- b) des sections spécialisées.
-
-<sup>2</sup> La police judiciaire assure un service de piquet 24h/24.
+**…**
 
 #### Art. 18
 
 **Délégation de compétence - Voie de service - Documents internes**
 
-<sup>1</sup> Le commandant organise son remplacement et désigne les officiers d'état-major qui assument la permanence opérationnelle en qualité d'officiers de service.
+<sup>1</sup> Le commandant organise son remplacement et désigne les officiers d'état-major et les officiers qui assument la permanence opérationnelle en qualité d'officiers de service.
 
 <sup>2</sup> Sauf instruction contraire du commandant, chaque officier d'état-major est investi d'une délégation générale de compétence pour toutes les affaires ordinaires dont il a la responsabilité. Celui-ci peut déléguer, sous sa responsabilité, une partie de ses pouvoirs à son remplaçant.
 
@@ -344,6 +317,56 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> La décision du tribunal est sujette à recours auprès d’un juge du Tribunal cantonal. Les articles 379 à 397 CPP s’appliquent par analogie.
 
+### 4.1a Gestion des menaces
+
+#### Art. 26a
+
+**But et organisation**
+
+<sup>1</sup> La gestion des menaces a pour but la détection précoce et la prévention de la commission d'infractions par des personnes dont le comportement ou les propos laissent supposer une propension marquée à la violence dirigée contre des tiers et qui sont susceptibles de porter gravement atteinte à l'intégrité physique, psychique ou sexuelle de tiers. Elle inclut également les cas de harcèlement ou de cyberharcèlement dès qu'un tel comportement a été rapporté à plusieurs reprises par rapport à un individu ou à un groupe d'individus.
+
+<sup>2</sup> La police judiciaire, par une structure opérationnelle additionnelle, est en charge de la gestion des menaces. Elle conduit et coordonne la gestion des menaces sur le plan cantonal.
+
+#### Art. 26b
+
+**Réseau et échange d'informations**
+
+<sup>1</sup> L'unité en charge de la gestion des menaces au sein de la police cantonale et les partenaires suivants partagent toute information relative à un risque important de commission d'un acte de violence susceptible de porter atteinte à l'intégrité physique, psychique ou sexuelle de tiers notamment:
+
+- a) les services de l'Etat, des communes et des autres corporations de droit public ainsi que des établissements de droit public;
+- b) les autorités du Pouvoir judiciaire;
+- c) les institutions privées, lorsqu'elles accomplissent des tâches de droit public;
+- d) les professionnels de la santé et les partenaires du préhospitalier;
+- e) les associations poursuivant un but social, de prévention ou de soutien ainsi que les organisations religieuses.
+
+<sup>2</sup> Les personnes de l’unité en charge de la gestion des menaces au sein de la police cantonale, les employés au sens de la loi sur le personnel de l’Etat du Valais et les membres des autorités sont déliés de leur secret de fonction.
+
+<sup>3</sup> Les professionnels de la santé sont déliés de leur secret professionnel aux conditions fixées par la loi sur la santé.
+
+<sup>4</sup> Les ecclésiastiques et les auxiliaires sont déliés du secret professionnel dans leurs relations avec l'unité en charge de la gestion des menaces au sein de la police cantonale.
+
+#### Art. 26c
+
+**Mesures**
+
+<sup>1</sup> Si les éléments recueillis font craindre qu'une personne ou un groupe de personnes ne commette une infraction au sens de l'article 26a, l'unité en charge de la gestion des menaces au sein de la police cantonale peut:
+
+- a) enquêter afin d'évaluer la dangerosité de la personne ou du groupe de personnes;
+- b) recueillir et traiter des données personnelles, y compris des données sensibles, nécessaires au suivi des situations à risques;
+- c) s'entretenir avec la personne ou les personnes à des fins préventives;
+- d) proposer, en collaboration et coordination avec les partenaires concernés, des mesures de soutien à la personne et à son entourage;
+- e) coordonner les mesures entre les partenaires concernés et soutenir ceux-ci dans le suivi des personnes.
+
+#### Art. 26d
+
+**Traitement et accès aux données**
+
+<sup>1</sup> Les données traitées sont répertoriées dans une base de données spécifique de l'unité en charge de la gestion des menaces.
+
+<sup>2</sup> L'accès à la base de données est limité au personnel de l'unité en charge de la gestion des menaces, sous réserve des agents de la police cantonale et du personnel de la Centrale d'engagement qui reçoivent temporairement les renseignements nécessaires relatifs aux personnes concernées et à la gestion du cas lorsque l'accomplissement de leur tâche le nécessite et afin d'orienter les interventions de police.
+
+<sup>3</sup> Les articles 50 et suivants de la présente loi s'appliquent pour le surplus.
+
 ### 4.2 Mesures de police
 
 #### Art. 27
@@ -362,7 +385,9 @@ ordonne:[^ingress-1]
 
 **Mesures d’identification**
 
-<sup>1</sup> Lorsque les procédés ordinaires de vérification de l’identité d’une personne n’ont pas donné de résultat satisfaisant, celle-ci peut être soumise par la police cantonale à des mesures d’identification telles que la prise de photographies, d’empreintes digitales ou palmaires, ou d’autres données signalétiques biométriques propres à établir l’identité.
+<sup>1</sup> Lorsque les procédés ordinaires de vérification de l’identité d’une personne n’ont pas donné de résultat satisfaisant ou en cas de soupçons particuliers, celle-ci peut être soumise par la police cantonale à des mesures d’identification telles que la prise de photographies, d’empreintes ou d’autres données signalétiques biométriques propres à établir l’identité.
+
+<sup>1<sup>bis</sup></sup> Demeurent réservées les dispositions du CPP concernant la saisie des données signalétiques.
 
 <sup>2</sup> Si la personne s’oppose aux mesures, la décision est prise par l’officier de service. Un recours auprès d’un juge du Tribunal cantonal peut être formé contre cette décision. Il n’a pas d’effet suspensif sauf décision contraire du juge saisi. La LPJA s’applique pour le surplus.
 
@@ -449,7 +474,9 @@ ordonne:[^ingress-1]
 
 **Prise en charge de mineurs**
 
-<sup>1</sup> La police cantonale peut prendre en charge des mineurs pour les remettre aux personnes en ayant la garde ou à l’autorité de protection de l’enfant et de l’adulte compétente.
+<sup>1</sup> La police cantonale peut prendre en charge un mineur pour le remettre à une personne disposant de l'autorité parentale, à son tuteur ou à l'institution ou l'établissement dans lequel il a été placé.
+
+<sup>2</sup> L’autorité de la protection de l’enfant et de l’adulte compétente doit être informée.
 
 #### Art. 36
 
@@ -624,7 +651,7 @@ ordonne:[^ingress-1]
 
 <sup>3</sup> L’agent de police doit porter secours à la personne qui a été blessée.
 
-<sup>4</sup> L’agent qui a fait usage de son arme en avise dès que possible ses supérieurs. Il leur adresse un rapport circonstancié à l’intention du commandant.
+<sup>4</sup> En cas d'usage de l'arme, l'agent ou sa hiérarchie avise immédiatement l'officier de service. L'agent qui a fait usage de son arme adresse un rapport au commandant.
 
 <sup>5</sup> L’usage de l’arme à feu avec munition létale est autorisé pour abattre un animal si l’urgence de la situation l’exige.
 
@@ -668,7 +695,13 @@ ordonne:[^ingress-1]
 
 **Systèmes d’information**
 
-<sup>1</sup> La police cantonale exploite des systèmes d’information pour l’accomplissement de ses tâches légales, en particulier pour ses tâches de sécurité publique et de police administrative.
+<sup>1</sup> La police cantonale exploite des systèmes d’information pour l’accomplissement de ses tâches légales, en particulier celles relevant:
+
+- a) de ses tâches de sécurité publique;
+- b) de ses tâches de police judiciaire;
+- c) de ses tâches de police administrative.
+
+<sup>1<sup>bis</sup></sup> Les tâches précitées, en sus de ce qui figure dans la présente loi, sont définies dans l’ordonnance d’application.
 
 <sup>2</sup> Elle exploite en outre des systèmes d’information à des fins de gestion administrative.
 
@@ -746,7 +779,7 @@ ordonne:[^ingress-1]
 
 **Recherche automatisée de véhicules**
 
-<sup>1</sup> La police cantonale peut enregistrer de manière automatisée (optiquement) les véhicules et leurs plaques d'immatriculation à des fins de recherche de personnes ou de biens et pour la prévention, la détection et la poursuite de crimes et de délits.
+<sup>1</sup> La police cantonale peut enregistrer de manière automatisée (optiquement) les véhicules et leurs plaques d'immatriculation à des fins de recherche de personnes ou de biens et pour la prévention, la détection et la poursuite de crimes et de délits. La durée de la mesure selon la présente disposition se limite au maximum à 100 jours.
 
 <sup>2</sup> Elle peut comparer automatiquement les données avec des bases de données, les analyser et les utiliser pour créer des profils de mouvements. La comparaison automatisée des données est admissible:
 
@@ -805,9 +838,10 @@ ordonne:[^ingress-1]
 <sup>1</sup> Pour être admis en qualité de policier, il faut:
 
 - a) être citoyen suisse;
-- b) jouir d’une excellente réputation;
-- c) avoir une bonne condition physique, et
-- d) être au bénéfice d’une formation académique, professionnelle ou militaire reconnue.
+- b) avoir l'exercice des droits civils;
+- c) jouir d’une excellente réputation;
+- d) avoir une bonne condition physique, et
+- e) être au bénéfice d’une formation académique, professionnelle ou militaire reconnue.
 
 <sup>2</sup> Les autres conditions d’admission sont définies dans une ordonnance du Conseil d’Etat.
 
@@ -817,7 +851,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Le recrutement des futurs policiers est assuré par la police cantonale, sur la base d’une décision d’autorisation d’ouverture de campagne délivrée par le Conseil d’Etat.
 
-<sup>2</sup> Les conditions d’admission à l’école d’aspirants sont arrêtées dans une ordonnance.
+<sup>2</sup> Les conditions d’admission à la formation d’aspirants sont arrêtées dans une ordonnance.
 
 <sup>3</sup> Au terme de la procédure, la décision d’engagement en qualité d’aspirant relève de la compétence du Chef du Département sur proposition du commandant.
 
@@ -845,7 +879,9 @@ ordonne:[^ingress-1]
 
 **Indemnité lors de la cessation des rapports de service**
 
-<sup>1</sup> Tout agent qui démissionne ou qui est licencié par sa faute avant d’avoir accompli cinq années de service est redevable à l’Etat d’une indemnité fixée dans l’ordonnance à raison de la formation reçue.
+<sup>1</sup> Tout agent qui démissionne ou qui est licencié par sa faute avant d’avoir accompli 3 années de service est redevable à l’Etat d’une indemnité fixée dans l’ordonnance à raison de la formation reçue.
+
+<sup>1<sup>bis</sup></sup> Cette disposition peut être appliquée par une commune ou une association de communes pour tout agent d'une police municipale ou intercommunale qui démissionne ou qui est licencié par sa faute avant d'avoir accompli 3 années de service. L'indemnité calculée prorata temporis devra être spécifiée dans le contrat d'engagement en fonction de la formation reçue.
 
 #### Art. 67
 
@@ -894,7 +930,8 @@ ordonne:[^ingress-1]
 - c) du logement;
 - d) des indemnités;
 - e) des congés;
-- f) des mesures administratives.
+- f) des mesures administratives;
+- g) du statut des aspirants.
 
 ## 7 Police municipale - Statut, missions et collaboration
 
@@ -999,9 +1036,11 @@ ordonne:[^ingress-1]
 
 #### Art. 80
 
-**Décisions administratives**
+**Frais et émoluments**
 
 <sup>1</sup> Les décisions administratives rendues par la police cantonale donnent lieu à la perception de frais conformément à la LPJA et à la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives.
+
+<sup>2</sup> Le Conseil d'Etat arrête par voie réglementaire le tarif des frais et émoluments perçus auprès de celui qui provoque ou requiert, en application de la présente loi, une démarche de l'administration.
 
 #### Art. 81
 
@@ -1063,11 +1102,13 @@ ordonne:[^ingress-1]
 
 #### Art. 87
 
-**Dommage subi par un membre de la police cantonale**
+**Dommage - Assurance**
 
 <sup>1</sup> Le membre de la police cantonale qui a subi un dommage à du matériel privé dans l’accomplissement de sa mission a droit à la réparation du préjudice qu’il a subi.
 
 <sup>2</sup> Il en va de même pour un membre de la police municipale en cas de collaboration avec la police cantonale (art. 75).
+
+<sup>3</sup> L'Etat doit assurer les membres de la police cantonale contre les accidents professionnels.
 
 #### Art. 88
 
@@ -1081,7 +1122,7 @@ ordonne:[^ingress-1]
 
 **Entreprises de sécurité**
 
-<sup>1</sup> Pour l’exercice de certaines tâches, telles que définies par le concordat sur les entreprises de sécurité, il peut être fait appel à des entreprises de sécurité privées.
+<sup>1</sup> Pour l’exercice de certaines tâches, il peut être fait appel à des entreprises de sécurité privées autorisées au sens du Concordat sur les entreprises de sécurité.
 
 <sup>2</sup> Toute délégation de tâches de droit public, notamment celles qui impliquent le pouvoir de sanctionner, est exclue.
 
@@ -1096,7 +1137,10 @@ ordonne:[^ingress-1]
 - c) requis par un agent de la police cantonale de lui prêter assistance en cas d’urgence, aura refusé, sans motif valable, d’obtempérer à cette réquisition;
 - d) aura empêché un tiers requis de prêter assistance, ou l’aura entravé dans l’accomplissement de ce devoir;
 - e) aura contrevenu aux prescriptions et mesures prises par un agent de la police cantonale pour assurer l’ordre, la sécurité ou la sûreté des habitants;
-- f) aura porté sans droit l’uniforme de police ou aura revêtu intentionnellement des vêtements pouvant prêter à confusion avec cet uniforme.
+- f) aura porté sans droit l’uniforme de police ou aura revêtu intentionnellement des vêtements pouvant prêter à confusion avec cet uniforme;
+- g) entrave le travail d'un agent de la police cantonale par son comportement;
+- h) insulte un agent de la police cantonale;
+- i) se comporte de manière indécente.
 
 <sup>2</sup> L’alinéa 1 s’applique par analogie lorsqu’il est contrevenu à des prescriptions ou mesures d’un agent de la police municipale en cas de collaboration avec la police cantonale (art. 75).
 
@@ -1114,12 +1158,10 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Le Conseil d'Etat édicte les dispositions d'exécution de la présente loi.
 
-## T1 Disposition transitoire de la modification du 09.05.2019
+## T1
 
 #### Art. T1-1
 
-**Procédures pendantes**
-
-<sup>1</sup> Les procédures pendantes lors de l’entrée en vigueur de la modification de la présente loi sont poursuivies conformément à l’ancien droit.
+**…**
 
 RCV BO/Abl. 49/2016, 49/2017
