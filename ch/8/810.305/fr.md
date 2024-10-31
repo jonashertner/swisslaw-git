@@ -4,20 +4,20 @@ title: "Ordonnance du 20 septembre 2013 sur les essais cliniques hors essais cli
 short: OClin
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: fr
-version: 2022-05-26
+version: 2024-11-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20220526-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20220526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-643-20241101-fr-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20241101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur les essais cliniques hors essais cliniques de dispositifs médicaux****
+# Ordonnance sur les essais cliniques hors essais cliniques de dispositifs médicaux
 
 (Ordonnance sur les essais cliniques, OClin)[^t-1]
 
-du 20 septembre 2013 (Etat le 26 mai 2022)
+du 20 septembre 2013 (État le 1<sup>er</sup> novembre 2024)
 
 [^t-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -48,32 +48,33 @@ La présente ordonnance règle:
   les exigences fixées pour la réalisation:
 
   - 1\.[^1-2] d’essais cliniques de médicaments, y compris de combinaisons au sens de l’art. 2, al. 1, let. f et g, de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux (ODim)[^1-3], ou de transplants standardisés,
-  - 2\. d’essais cliniques …[^1-4] de dispositifs au sens de l’art. 2*a*, al. 2, LPTh[^1-5],
+  - 2\. d’essais cliniques …[^1-4] de produits[^1-5] au sens de l’art. 2*a*, al. 2, LPTh[^1-6],
   - 3\. d’essais cliniques de transplantation,
   - 4\. d’essais cliniques qui ne sont pas des essais cliniques visés aux ch. 1 à 3;
 
-- b. les procédures d’autorisation et de déclaration[^1-6] pour les essais cliniques;
-- c. les tâches et les compétences des commissions d’éthique de la recherche (commissions d’éthique), de l’Institut suisse des produits thérapeutiques (institut) ainsi que de l’Office fédéral de la santé publique (OFSP) en matière de procédures d’autorisation et de déclaration;
+- b. les procédures d’autorisation et de déclaration[^1-7] pour les essais cliniques;
+- c.[^1-8] les tâches et les compétences des commissions d’éthique de la recherche (commissions d’éthique), de l’Institut suisse des produits thérapeutiques (Swissmedic) ainsi que de l’Office fédéral de la santé publique (OFSP) en matière de procédures d’autorisation et de déclaration;
 - d. l’enregistrement des essais cliniques et l’accès du public au registre.
 
 <sup>2</sup>
 
-Sont applicables:
+Sont exclues du champ d’application de la présente ordonnance:
 
-- a.[^1-7] pour les essais cliniques de dispositifs médicaux au sens de l’art. 1 ODim et de l’art. 1 de l’ordonnance du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro[^1-8], l’ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de dispositifs médicaux[^1-9];
-- b. pour les essais cliniques de xénotransplantation, l’ordonnance du 16 mars 2007 sur la xénotransplantation[^1-10].[^1-11]
+- a. la réalisation d’essais cliniques de dispositifs médicaux au sens de l’art. 1 ODim et de l’art. 1 de l’ordonnance du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro[^1-9], régie par l’ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de dispositifs médicaux (OClin‑Dim)[^1-10];
+- b. la réalisation d’essais cliniques de xénotransplantation, régie par l’ordonnance du 16 mars 2007 sur la xénotransplantation[^1-11].[^1-12]
 
 [^1-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 [^1-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^1-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^1-4]: Expression abrogée par l’annexe 2 ch. 2 de l’O du 4 mai 2022, avec effet au 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-5]: Nouvelle expression selon l’annexe ch. 2 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-6]: Nouvelle expression selon l’annexe 2 ch. 2 al. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Il a été tenu compte de cette mod. dans tout le texte.
-[^1-7]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^1-8]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^1-9]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
-[^1-10]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
-[^1-11]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^1-5]: Nouvelle expression selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-6]: Nouvelle expression selon l’annexe ch. 2 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-7]: Nouvelle expression selon l’annexe 2 ch. 2 al. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-8]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^1-9]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
+[^1-10]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^1-11]: [RS 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
+[^1-12]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 2
 
@@ -81,8 +82,8 @@ Sont applicables:
 
 Dans la présente ordonnance, on entend par:
 
-- a. *essai clinique:* tout projet de recherche sur des personnes dans lequel les participants sont affectés dès le départ à des interventions liées à la santé afin d’évaluer les effets de ces dernières sur la santé ou sur la structure et le fonctionnement du corps humain;
-- b. *intervention liée à la santé**:* tout acte préventif, diagnostique, thérapeutique, palliatif ou de réhabilitation étudié dans le cadre d’un essai clinique;
+- a.[^2-2] *essai clinique:* tout projet de recherche sur des personnes dans lequel les participants sont affectés dès le départ à une intervention ou plusieurs interventions afin d’évaluer les effets de ces dernières sur la santé ou sur la structure et le fonctionnement du corps humain;
+- b.[^2-3] *intervention**:* tout acte effectué sur la personne participant à l’essai et dont les effets sur cette personne seront étudiés;
 - c.
 
   *risques et contraintes minimaux:* tous risques et contraintes dont l’intensité et la qualité, compte tenu de la vulnérabilité de la personne participant à l’essai clinique et des circonstances concrètes, n’ont que des effets minimes et temporaires sur sa santé; les actes suivants peuvent notamment présenter des risques et contraintes minimaux:
@@ -92,19 +93,27 @@ Dans la présente ordonnance, on entend par:
   - 3\. le prélèvement ou le recueil de substances corporelles sans mesures invasives, notamment les échantillons de salive, d’urine ou de selles,
   - 4\. les frottis,
   - 5\. les tomographies à résonance magnétique sans produit de contraste, échographies et électrogrammes,
-  - 6\.[^2-2]
+  - 6\.[^2-4]
 
-    les examens au moyen de rayonnements ionisants, dans la mesure où la dose efficace est inférieure à 5 mSv par projet de recherche et par personne examinée et où:
+    les examens complémentaires au moyen de rayonnements ionisants, dans la mesure où la dose efficace est inférieure à 5 mSv par projet de recherche et par personne examinée, où aucun produit de contraste n’est utilisé et où:
 
-    - – les médicaments utilisés à cet effet sont autorisés ou dispensés d’une autorisation, ou
-    - – les dispositifs au sens de l’art. 1 ODim[^2-3] sont pourvus d’un marquage de conformité et aucun produit de contraste n’est utilisé;
+    - – les produits radiopharmaceutiques utilisés à cet effet le sont conformément à l’autorisation ou sont dispensés d’une autorisation, ou
+    - – les dispositifs au sens de l’art. 1 ODim[^2-5] sont pourvus d’un marquage de conformité au sens de l’art. 13 ODim et utilisés conformément au mode d’emploi;
 
 - d. *promoteur:* toute personne ou institution dont le siège ou une représentation se trouvent en Suisse, qui assume la responsabilité de l’initiative d’un essai clinique en Suisse, notamment du lancement, de la gestion et du financement;
-- e. *investigateur:* toute personne responsable de la réalisation pratique de l’essai clinique en Suisse ainsi que de la protection des personnes participant à l’essai clinique au lieu de réalisation; lorsqu’un investigateur assume la responsabilité de l’initiative d’un essai clinique en Suisse, il est également promoteur.
+- e. *investigateur:* toute personne responsable de la réalisation pratique de l’essai clinique en Suisse ainsi que de la protection des personnes participant à l’essai clinique au lieu de réalisation; lorsqu’un investigateur assume la responsabilité de l’initiative d’un essai clinique en Suisse, il est également promoteur;
+- f.[^2-6] *informations excédentaires**:* résultats liés à la personne, en particulier les découvertes fortuites, qui sont obtenus dans le cadre d’un essai clinique, mais qui ne sont nécessaires ni à la réalisation de l’essai ni à l’étude de la problématique scientifique;
+- g.[^2-7] *produit de recherche:* produit testé dans le cadre d’un essai clinique de médicaments ou utilisé comme comparateur y compris comme placebo;
+- h.[^2-8] *placebo:* produit dépourvu de principe actif.
 
 [^2-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^2-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^2-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-6]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-7]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-8]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Section 2 Principes
 
@@ -121,7 +130,9 @@ Le promoteur, l’investigateur et les autres personnes impliquées dans l’ess
 - c. d’entraver ou d’empêcher de façon injustifiée des activités de recherche;
 - d. d’empêcher ou de sanctionner la révélation de comportements scientifiques répréhensibles.
 
-<sup>2</sup> Les principes de base et procédures relatifs à l’intégrité dans la recherche scientifique des Académies suisses des sciences, mentionnés dans l’annexe 1, ch. 1, sont applicables. Dans des cas justifiés, d’autres directives relatives à l’intégrité scientifique, reconnues et équivalentes, peuvent être appliquées.
+<sup>2</sup> Le code d’intégrité scientifique des Académies suisses des sciences, mentionné dans l’annexe 1, ch. 1, est applicable. Dans des cas justifiés, d’autres directives relatives à l’intégrité scientifique, reconnues et équivalentes, peuvent être appliquées.[^3-1]
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 4
 
@@ -132,6 +143,16 @@ Le promoteur et l’investigateur d’un essai clinique doivent en garantir la q
 - a. déterminer une problématique scientifique qui correspond à l’état actuel de la science;
 - b. appliquer une méthodologie scientifique adéquate, et
 - c. garantir la disponibilité des ressources et de l’infrastructure nécessaires à l’essai clinique.
+
+#### Art. 4a
+
+**Inclusion des groupes de personnes pertinents**[^4a-1]
+
+<sup>1</sup> Le promoteur et l’investigateur doivent garantir que les critères de sélection des personnes prévues pour participer à l’essai et la configuration de ce dernier permettent une représentation adéquate des groupes de personnes pertinents pour répondre à la problématique scientifique; ils tiennent compte en particulier de la représentation des sexes et des groupes d’âge.
+
+<sup>2</sup> L’exclusion ou la sous-représentation intentionnelle de groupes de personnes pertinents doit être déclarée et justifiée dans les documents de la demande.
+
+[^4a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 5
 
@@ -152,18 +173,24 @@ Le promoteur et l’investigateur d’un essai clinique doivent en garantir la q
 L’investigateur d’un essai clinique doit:
 
 - a. justifier d’une formation suffisante en matière de bonnes pratiques cliniques ainsi que des connaissances et de l’expérience professionnelles nécessaires; et
-- b. disposer des connaissances relatives aux exigences légales applicables aux essais cliniques ou être en mesure de les garantir par le biais d’un expert.
+- b. disposer des connaissances relatives aux exigences légales applicables aux essais cliniques ou être en mesure de les garantir par le biais d’un expert;
+- c.[^6-1] disposer de connaissances et de compétences appropriées dans les domaines de la sécurité des données et de la protection des données ou être en mesure de garantir ces dernières en recourant à un expert.
 
-<sup>2</sup> L’investigateur d’un essai clinique de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplantation doit de surcroît être habilité à exercer la profession de médecin sous sa propre responsabilité professionnelle.[^6-1]
+<sup>2</sup> L’investigateur d’un essai clinique de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplantation doit de surcroît être habilité à exercer la profession de médecin sous sa propre responsabilité professionnelle.[^6-2]
 
-<sup>3</sup> S’agissant d’essais cliniques au sens du chapitre 4, la responsabilité à titre d’investigateur peut également être assumée par une personne sans qualification médicale, pour autant qu’elle soit habilitée à exercer sous sa propre responsabilité la profession qui lui donne les qualifications spécifiquement requises pour pratiquer l’essai clinique.[^6-2]
+<sup>3</sup> S’agissant d’essais cliniques au sens du chapitre 4, la responsabilité à titre d’investigateur peut également être assumée par une personne sans qualification médicale, pour autant qu’elle soit habilitée à exercer sous sa propre responsabilité la profession qui lui donne les qualifications spécifiquement requises pour pratiquer l’essai clinique.[^6-3]
 
 <sup>4</sup> Les autres personnes qui accomplissent l’essai clinique doivent disposer des connaissances et de l’expérience professionnelles nécessaires à l’activité concernée.
 
-[^6-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^6-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-3]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-### Section 3 Information, consentement et révocation
+### Section 3 Information, consentement, communication des résultats et révocation
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7
 
@@ -178,18 +205,79 @@ En plus des informations figurant à l’art. 16, al. 2, LRH, la personne concer
 - c. du droit qu’elle a de refuser de participer à l’essai clinique ou de révoquer son consentement sans avoir à justifier sa décision et sans subir de préjudice par rapport à son traitement médical;
 - d. des conséquences d’une révocation du consentement sur la suite du traitement médical ainsi que sur l’utilisation ultérieure des données personnelles récoltées avant la révocation et du matériel biologique prélevé avant la révocation;
 - e. du droit qu’elle a de recevoir en tout temps des renseignements sur des questions se rapportant à l’essai clinique;
+- e<sup>bis</sup>.[^7-1] de la possibilité que le projet génère des informations excédentaires et de l’importance de leur découverte, ainsi que de l’importance de l’exercice de son droit d’être informée ou de ne pas l’être;
 - f. du droit qu’elle a d’être informée des résultats concernant sa santé ou de renoncer à recevoir ces informations, ou de désigner une personne qui prend cette décision pour elle;
 - g. des dispositions prises pour couvrir d’éventuels dommages liés à l’essai clinique, y compris de la procédure en cas de dommages;
 - h. du promoteur et des principales sources de financement de l’essai clinique;
 - i. d’autres éléments nécessaires pour qu’elle puisse prendre sa décision.
 
-<sup>2</sup> Si une réutilisation du matériel biologique prélevé lors de l’essai clinique ou des données personnelles liées à la santé récoltées lors de l’essai clinique est prévue pour la recherche, les informations figurant aux art. 28 à 32 de l’ordonnance du 20 septembre 2013 relative à la recherche sur l’être humain[^7-1] doivent être fournies à la personne concernée.
+<sup>2</sup> Si une réutilisation du matériel biologique prélevé lors de l’essai clinique ou des données personnelles liées à la santé récoltées lors de l’essai clinique est prévue pour la recherche, les informations figurant aux art. 28 à 32 de l’ordonnance du 20 septembre 2013 relative à la recherche sur l’être humain[^7-2] doivent être fournies à la personne concernée.
 
 <sup>3</sup> L’information peut être effectuée par étapes successives. Elle peut, de plus, être donnée autrement que sous forme de texte.
 
-<sup>4</sup> Les mesures appropriées doivent être prises afin de garantir que la personne concernée comprend les éléments essentiels de l’information.
+<sup>4</sup>
 
-[^7-1]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+Les mesures appropriées doivent être prises afin de s’assurer que la personne concernée comprend les éléments essentiels de l’information; il convient en particulier:
+
+- a. d’expliquer à la personne concernée le sens et le déroulement de la procédure d’information;
+- b. de transmettre l’information de manière adéquate, structurée et compréhensible.[^7-3]
+
+[^7-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7-2]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 7a
+
+**Information en cas d’analyses génétiques**[^7a-1]
+
+<sup>1</sup>
+
+Lorsque des analyses génétiques présymptomatiques, des analyses génétiques prénatales ou des analyses visant à établir un planning familial (art. 3, let. e, g et i, de la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine, [LAGH][^7a-2]) produisent des résultats relatifs à la santé de la personne concernée, cette dernière doit recevoir également des informations sur:
+
+- a. le but, le type et la pertinence de l’analyse;
+- b. la fréquence et la nature de l’anomalie à évaluer;
+- c. les conséquences médicales, psychiques et sociales découlant de l’analyse;
+- d. l’importance que les résultats pourraient avoir pour la personne concernée ainsi que pour les membres de sa famille et leur droit de ne pas être informés.
+
+<sup>2</sup> En cas d’analyses présymptomatiques (art. 3, let. e, LAGH), la personne concernée doit être également informée des conditions auxquelles les institutions d’assurance peuvent demander la communication de données provenant des analyses génétiques réalisées (art. 43 et 44 LAGH).
+
+[^7a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 7b
+
+**Information en cas d’analyses prénatales visant à évaluer un risque**[^7b-1]
+
+En cas d’analyses prénatales visant à évaluer un risque (art. 3, let. h, LAGH[^7b-2]), la femme enceinte doit également recevoir les informations mentionnées à l’art. 23 LAGH.
+
+[^7b-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7b-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 7c
+
+**Forme du consentement**[^7c-1]
+
+<sup>1</sup> Le consentement doit être donné par signature manuscrite ou sous forme électronique.
+
+<sup>2</sup>
+
+La déclaration de consentement doit être:
+
+- a. datée, et
+- b. lisible pendant toute la durée de conservation requise.
+
+<sup>3</sup>
+
+Le consentement sous forme électronique est admis dès lors:
+
+- a. qu’il a été donné au cours d’une procédure permettant d’identifier sans équivoque la personne concernée;
+- b. que la procédure choisie empêche une décision précipitée;
+- c. qu’il est protégé, selon l’état de la technique, contre toute modification;
+- d. que les documents de la demande décrivent comment les conditions fixées aux let. a à c sont remplies.
+
+<sup>4</sup> La personne concernée reçoit une copie des documents d’information et de la déclaration de consentement; elle peut choisir la version papier ou la forme électronique.
+
+[^7c-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 8
 
@@ -208,6 +296,22 @@ Dans le cas d’espèce, l’information peut être donnée sous une autre forme
 
 - a. lorsque les connaissances linguistiques de la personne concernée sont telles qu’une information par écrit représente une charge disproportionnée, et
 - b. lorsque, pour l’information verbale, un traducteur indépendant et qualifié est consulté et que celui-ci confirme par écrit que l’information a eu lieu.
+
+#### Art.8a
+
+**Communication des résultats**[^8a-1]
+
+<sup>1</sup> Le droit de la personne concernée d’être informée conformément à l’art. 8, al. 1, LRH s’applique aux résultats de la recherche se rapportant à sa santé qui ont été obtenus par des examens répondant aux normes actuelles de validité analytique et clinique.
+
+<sup>2</sup>
+
+Sont à communiquer à la personne concernée ou, le cas échéant, à son représentant légal, à une personne de confiance ou à ses proches (art. 22 à 24 LRH) les résultats:
+
+- a. qui sont soumis à une obligation légale de communiquer supposant ou impliquant une information de la personne concernée sur le résultat;
+- b. qui sont susceptibles d’entraîner une mesure sanitaire supposant ou impliquant une information de la personne concernée sur le résultat;
+- c. dont la personne à informer doit prendre connaissance pour protéger la vie et la santé de tiers ou de la personne incapable de discernement concernée par l’analyse.
+
+[^8a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 9
 
@@ -237,19 +341,16 @@ Est libéré de la responsabilité liée à l’essai clinique au sens de l’ar
 - a. l’administration d’un médicament autorisé et utilisé conformément à l’information professionnelle;
 - b. l’administration d’un médicament autorisé, lorsque la directive dont l’élaboration obéit à des critères de qualité reconnus internationalement en établit le caractère standard;
 - c.[^10-2] l’emploi d’un produit au sens de l’art. 2*a*, al. 2, LPTh qui a été déclaré conformément à l’art. 6, al. 3, ODim[^10-3] dans sa version du 1<sup>er</sup> janvier 2002[^10-4] en application de l’art. 108, al. 1, let. b, ODim et utilisé conformément au mode d’emploi;
-- d. l’application d’une autre intervention liée à la santé lorsque la directive dont l’élaboration obéit à des critères de qualité reconnus internationalement en établit le caractère standard.
+- d.[^10-5] l’application d’une autre intervention lorsque la directive dont l’élaboration obéit à des critères de qualité reconnus internationalement en établit le caractère standard.
 
-<sup>2</sup>
-
-Est en outre libéré de la responsabilité au sens de l’art. 19, al. 1, LRH celui qui prouve que le dommage ne dépasse pas l’ampleur qui est à prévoir en fonction de l’état de la science et:
-
-- a. qu’un dommage équivalent aurait également pu survenir si la personne lésée avait subi la thérapie utilisée habituellement pour le traitement de sa maladie, ou
-- b. que, en cas de maladie présentant un risque mortel immédiat, il n’existe aucune thérapie standard pour cette maladie.
+<sup>2</sup> Est en outre libéré de la responsabilité au sens de l’art. 19, al. 1, LRH celui qui prouve qu’un dommage comparable aurait également pu survenir si la personne lésée avait subi la thérapie utilisée habituellement pour le traitement de sa maladie.[^10-6]
 
 [^10-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^10-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^10-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^10-4]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
+[^10-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^10-6]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 11
 
@@ -257,11 +358,12 @@ Est en outre libéré de la responsabilité au sens de l’art. 19, al. 1, LRH c
 
 La prescription pour le droit à l’indemnisation des dommages dus à:
 
-- a. l’application de rayons ionisants est réglée par l’art. 40 de la loi du 22 mars 1991 sur la radioprotection[^11-1];
-- b. l’utilisation d’organismes génétiquement modifiés est réglée par l’art. 32 de la loi du 21 mars 2003 sur le génie génétique[^11-2].
+- a. l’application de rayonnements ionisants[^11-1] est réglée par l’art. 40 de la loi du 22 mars 1991 sur la radioprotection[^11-2];
+- b. l’utilisation d’organismes génétiquement modifiés est réglée par l’art. 32 de la loi du 21 mars 2003 sur le génie génétique[^11-3].
 
-[^11-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^11-2]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-1]: Nouvelle expression selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^11-2]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^11-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
 
 #### Art. 12
 
@@ -285,7 +387,9 @@ L’obligation de garantie peut être remplie:
 
 <sup>2</sup> Les montants de la couverture sont réglés à l’annexe 2.
 
-<sup>3</sup> La garantie doit couvrir les dommages survenus dans les dix ans à compter de la fin de l’essai clinique.
+<sup>3</sup> La garantie doit couvrir les dommages survenus dans les 20 ans à compter de la fin de l’essai clinique.[^13-1]
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 14
 
@@ -361,41 +465,75 @@ Quiconque conserve des données personnelles liées à la santé dans le cadre d
 Quiconque conserve du matériel biologique dans le cadre d’un essai clinique doit notamment:
 
 - a. respecter les principes au sens de l’al. 1;
-- b. garantir le respect des exigences techniques pour la conservation appropriée du matériel biologique;
+- b.[^18-1] garantir le respect des exigences techniques pour la conservation appropriée du matériel biologique; pour ce faire, il lui faut se référer aux directives reconnues sur les plans national et international;
 - c. mettre à disposition les ressources nécessaires à la conservation.
 
-## Chapitre 2 Procédures d’autorisation et de déclaration pour les essais cliniques de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+### Section 7 Utilisation de données génétiques dans le cadre de rapports d’assurance
+
+[^chap1-sec7-1]
+
+[^chap1-sec7-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 18a
+
+Dans le cadre de rapports d’assurance, l’utilisation de données génétiques obtenues lors d’essais cliniques est régie par les art. 42 à 44 LAGH[^18a-1].
+
+[^18a-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+## Chapitre 2 Procédures d’autorisation et de déclaration pour les essais cliniques de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
 
 ### Section 1 Dispositions générales
 
 #### Art. 19
 
-**Classification des essais cliniques de médicaments**
+**Classification des essais cliniques de médicaments**[^19-1]
 
 <sup>1</sup>
 
-Les essais cliniques de médicaments sont de catégorie A lorsque le médicament est autorisé en Suisse et que son utilisation:
+Les essais cliniques de médicaments sont de catégorie A:
 
-- a. a lieu conformément à l’information professionnelle;
-- b.
+- a. si le produit de recherche est un médicament autorisé en Suisse;
+- b. si le produit de recherche n’a pas été modifié, et
+- c.
 
-  s’écarte de l’information professionnelle relative à l’indication ou au dosage, mais que les critères suivants sont remplis:
+  si son utilisation:
 
-  - 1\. l’indication se trouve dans le même groupe de maladies de la Classification internationale des maladies de l’Organisation mondiale de la santé (*International Classification of Diseases, ICD*) visée à l’annexe 1, ch. 3,
-  - 2\. il s’agit d’une maladie auto-limitative et le médicament est moins dosé que ce qui est spécifié dans l’information professionnelle, ou
+  - 1\. a lieu conformément à l’information professionnelle,
+  - 2\.
 
-- c. est établie comme standard dans une directive dont l’élaboration obéit à des critères de qualité reconnus internationalement.
+    s’écarte de l’information professionnelle relative à l’indication ou au dosage, mais si les critères suivants sont remplis:
+
+    - − l’indication se trouve dans le même groupe de maladies de la Classification internationale des maladies de l’Organisation mondiale de la santé (*International Classification of Diseases, ICD*) visée à l’annexe 1, ch. 3
+    - − il s’agit d’une maladie auto-limitative et le médicament est moins dosé que ce qui est spécifié dans l’information professionnelle, ou
+
+  - 3\. est établie comme standard dans une directive dont l’élaboration obéit à des critères de qualité reconnus internationalement.
 
 <sup>2</sup>
 
-Les essais cliniques de médicaments sont de catégorie B lorsque le médicament:
+Les essais cliniques de médicaments sont de catégorie B si le produit de recherche:
 
-- a. est autorisé en Suisse, et
-- b. n’est pas utilisé conformément à l’al. 1.
+- a.
 
-<sup>3</sup> Ils sont de catégorie C lorsque le médicament n’est pas autorisé en Suisse.
+  est un médicament autorisé en Suisse:
 
-<sup>4</sup> Dans des cas justifiés, un essai clinique d’un médicament autorisé en Suisse peut être classé dans une autre catégorie si cela est possible ou nécessaire du point de vue de la sécurité des médicaments ou de la garantie de la sécurité et de la santé des personnes participant à l’essai clinique.
+  - 1\. qui n’est pas utilisé conformément à l’al. 1, let. c, ou
+  - 2\. qui a subi des modifications présentant des risques mineurs au sens de l’annexe 2<sup>bis</sup>;
+
+- b. est un médicament qui est autorisé dans un pays ayant institué un contrôle des médicaments équivalent au sens de l’art. 13 LPTh et qui n’a pas subi de modifications ou qui a subi des modifications présentant des risques mineurs au sens de l’annexe 2<sup>bis</sup>, ou
+- c. est un placebo spécialement fabriqué pour les essais cliniques.
+
+<sup>3</sup>
+
+Les essais cliniques de médicaments sont de catégorie C si le produit de recherche contient un principe actif et s’il s’agit:
+
+- a. d’un médicament autorisé en Suisse ou dans un pays ayant institué un contrôle des médicaments équivalent au sens de l’art. 13 LPTh, qui a subi des modifications plus importantes que celles réputées présenter des risques mineurs au sens de l’annexe 2<sup>bis</sup>, ou
+- b. d’un médicament qui n’est autorisé ni en Suisse ni dans un pays ayant institué un contrôle des médicaments équivalent au sens de l’art. 13 LPTh.
+
+<sup>4</sup> Si un essai clinique entre dans plusieurs catégories, il est classé dans la plus haute; les catégories s’entendent par ordre croissant de A à C.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 20
 
@@ -442,11 +580,37 @@ Les dispositions de la présente ordonnance relatives aux essais cliniques de m�
 
 #### Art. 23
 
-**Coordination et information lors de la procédure d’autorisation**
+**Coordination et information lors de la procédure d’autorisation et délai pour le dépôt de la demande auprès de la seconde autorité compétente en matière d’autorisation [^23-1]**
 
-<sup>1</sup> L’investigateur et le promoteur peuvent déposer leur demande simultanément auprès de la commission d’éthique et auprès de l’institut.
+<sup>1</sup> L’investigateur et le promoteur peuvent déposer leur demande simultanément auprès de la commission d’éthique et auprès de Swissmedic[^23-2].
 
-<sup>2</sup> La commission d’éthique compétente et l’institut s’échangent les informations relatives aux domaines de vérification visés non seulement à l’art. 25 mais aussi à l’art. 32 et coordonnent leurs évaluations.
+<sup>1bis</sup> Pour les essais cliniques des catégories B et C, la demande doit être déposée auprès de la seconde autorité compétente en matière d’autorisation dans les deux ans suivant l’octroi de l’autorisation par la première autorité.[^23-3]
+
+<sup>1ter</sup> À la demande de la personne titulaire de l’autorisation, la première autorité compétente peut prolonger le délai fixé à l’al. 1<sup>bis</sup>. Une telle requête est considérée comme une modification essentielle apportée à l’essai clinique.[^23-4]
+
+<sup>1quater</sup> En cas de dépassement du délai fixé à l’al. 1<sup>bis</sup> ou de la prolongation de délai fixée à l’al. 1<sup>ter</sup>, ou de rejet d’une demande de prolongation fondée sur l’al. 1<sup>ter</sup>, l’autorisation délivrée devient caduque.[^23-5]
+
+<sup>2</sup> La commission d’éthique compétente et Swissmedic s’échangent les informations relatives aux domaines de vérification visés non seulement à l’art. 25 mais aussi à l’art. 32 et coordonnent leurs évaluations.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-2]: Nouvelle expression selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Il a été tenu compte de cette mod. dans tout le texte.
+[^23-3]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-4]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-5]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 23a
+
+**Délai d’inclusion de la première personne participant à l’essai**[^23a-1]
+
+<sup>1</sup> La première personne participant à l’essai doit être incluse dans les deux ans suivant l’octroi de la dernière autorisation requise.
+
+<sup>2</sup> Pour les essais cliniques portant sur des maladies rares, les autorités compétentes en matière d’autorisation peuvent, à la demande du requérant, fixer un délai plus long dans le cadre de la procédure d’autorisation.
+
+<sup>3</sup> Le délai fixé à l’al. 1 ou 2 peut être prolongé sur demande de la personne titulaire de l’autorisation. La demande doit être déposée auprès de toutes les autorités concernées en charge de l’autorisation et est considérée comme une modification essentielle apportée à l’essai clinique. En cas de rejet, les autorisations délivrées deviennent caduques.
+
+<sup>4</sup> Si la première personne participant à l’essai clinique n’est pas incluse dans ce dernier dans le délai visé aux al. 1 à 3, l’essai clinique est réputé interrompu au sens de l’art. 38, al. 2, 3<sup>e</sup> phrase. L’essai clinique ne peut commencer qu’après l’approbation d’une demande de prolongation de délai fondée sur l’al. 3.
+
+[^23a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Section 2 Procédure auprès de la commission d’éthique compétente
 
@@ -458,7 +622,9 @@ Les dispositions de la présente ordonnance relatives aux essais cliniques de m�
 
 <sup>2</sup> La commission d’éthique peut exiger des informations supplémentaires.
 
-<sup>3</sup> Le promoteur peut déposer la demande en lieu et place de l’investigateur. En pareil cas, il assume les obligations de l’investigateur découlant des art. 28 et 29 et les obligations en matière de déclaration et de rapport à la commission d’éthique compétente. Les documents de la demande sont cosignés par l’investigateur.
+<sup>3</sup> Le promoteur peut déposer la demande en lieu et place de l’investigateur. En pareil cas, il assume les obligations de l’investigateur découlant des art. 29 et 36*a* et les obligations en matière de déclaration et de rapport à la commission d’éthique compétente.[^24-1]
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 25
 
@@ -482,16 +648,21 @@ La commission d’éthique compétente vérifie:
   - 7\. à un dédommagement équitable des personnes participant à l’essai clinique,
   - 8\. au respect des prescriptions relatives à l’intégrité scientifique;
 
+- d<sup>bis</sup>.[^25-1] le cas échéant, le respect des exigences relatives au consentement sous forme électronique (art. 7*c*, al. 3, let. a à c);
 - e. l’intégralité des documents relatifs au recrutement, à l’information et au consentement ainsi que leur intelligibilité, notamment en ce qui concerne l’intégration éventuelle de personnes particulièrement vulnérables;
+- e<sup>bis</sup>.[^25-2] la prise en compte du droit de la personne concernée d’être informée (art. 8, al. 1, LRH);
 - f. la garantie du droit à l’indemnisation en cas de dommages (art. 20 LRH);
 - g. que l’investigateur et les autres personnes qui réalisent l’essai clinique disposent de connaissances et d’une expérience suffisantes dans le domaine concerné et pour la réalisation d’un essai clinique;
 - h. l’existence d’infrastructures appropriées au lieu de réalisation de l’essai clinique;
 - i. le financement de l’essai clinique et les accords entre le promoteur, les tiers et l’investigateur relatifs à la répartition des tâches, la rémunération et à la publication;
-- j. en outre, pour les essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh classés dans la catégorie A susceptibles d’émettre des rayonnements ionisants, la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose;
-- k. en outre, pour les examens de sources de rayonnement[^25-1], la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose, sauf si un avis de l’OFSP doit être sollicité en application de l’art. 28;
+- j.[^25-3] en outre, pour les essais cliniques de médicaments classés dans la catégorie A susceptibles d’émettre des rayonnements ionisants, la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose;
+- k.[^25-4] en outre, pour les examens complémentaires au moyen de rayonnements ionisants, la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose, sauf si un avis de l’OFSP doit être sollicité en application de l’art. 36*a*, al. 4;
 - l. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la protection des personnes participant à l’essai clinique.
 
-[^25-1]: Nouvelle expression selon l’annexe 11 ch. 6 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Il a été tenu compte de cette mod. dans tout le texte.
+[^25-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-2]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 26
 
@@ -503,7 +674,7 @@ La commission d’éthique compétente vérifie:
 
 <sup>3</sup> Si la commission d’éthique exige des informations supplémentaires au sens de l’art. 24, al. 2, le délai est suspendu jusqu’à la réception de ces documents.
 
-<sup>4</sup> Elle communique à l’institut ses décisions concernant les essais cliniques de catégories B et C.
+<sup>4</sup> Elle communique à Swissmedic ses décisions concernant les essais cliniques de catégories B et C.
 
 #### Art. 27
 
@@ -517,35 +688,13 @@ La commission d’éthique compétente vérifie:
 
 <sup>4</sup> Sur demande de la commission directrice, l’investigateur coordinateur fournit les documents requis au sens de l’annexe 3 en nombre suffisant aux commissions d’éthique compétentes pour les différents lieux de réalisation des essais cliniques (commissions d’éthique concernées). Celles-ci examinent si les exigences locales sont remplies et transmettent leur avis à la commission directrice dans les quinze jours.
 
-<sup>5</sup> La commission directrice rend une décision dans les 45 jours à compter de l’attestation de la réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision aux commissions d’éthique concernées et, pour les essais cliniques de catégories B et C, à l’institut.
+<sup>5</sup> La commission directrice rend une décision dans les 45 jours à compter de l’attestation de la réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision aux commissions d’éthique concernées et, pour les essais cliniques de catégories B et C, à Swissmedic.
 
 #### Art. 28
 
-**Procédure applicable aux examens de sources de rayonnement**
+[^28-1]
 
-<sup>1</sup> Pour les examens de sources de rayonnement, l’investigateur fournit à la commission d’éthique compétente les documents supplémentaires requis au sens de l’annexe 3, ch. 5. La procédure d’autorisation est régie par les art. 24 à 27 et 29, sous réserve des alinéas qui suivent.
-
-<sup>2</sup>
-
-L’investigateur fournit de plus à l’OFSP les documents de la demande requis au sens de l’annexe 3, ch. 6; il avise parallèlement la commission d’éthique lorsque la dose efficace est supérieure à 5 mSv par personne et par an, compte tenu du facteur d’incertitude, et:[^28-1]
-
-- a. qu’un produit radiopharmaceutique non autorisé en Suisse est utilisé;
-- b. qu’un produit radiopharmaceutique autorisé en Suisse est utilisé et qu’il ne s’agit pas d’un examen de routine de médecine nucléaire, ou
-- c. qu’une autre source radioactive[^28-2] est utilisée.
-
-<sup>3</sup> L’OFSP émet un avis à l’intention de la commission d’éthique sur le respect de la législation en matière de radioprotection ainsi que sur l’évaluation de la dose.
-
-<sup>4</sup>
-
-La commission d’éthique accorde l’autorisation si:
-
-- a. les exigences visées à l’art. 25 sont respectées, et que
-- b. l’OFSP n’oppose pas d’objections à l’essai clinique.
-
-<sup>5</sup> Elle rend sa décision dans les 45 jours à compter de la confirmation de la réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision à l’OFSP.
-
-[^28-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> juil. 2020 sur les essais cliniques de dispositifs médicaux, en vigueur depuis le 26 mai 2021 ([RO 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^28-2]: Nouvelle expression selon l’annexe 11 ch. 6 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^28-1]: Abrogé par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 29
 
@@ -560,9 +709,10 @@ La commission d’éthique accorde l’autorisation si:
 Sont considérées comme des modifications essentielles:
 
 - a. les modifications qui ont une influence sur la sécurité et la santé des personnes participant à l’essai clinique ou sur leurs droits et obligations;
-- b. les modifications du protocole de recherche, notamment les modifications dues à de nouvelles connaissances scientifiques, qui ont trait au dispositif de l’essai, à la méthode de recherche, aux critères cibles ou au concept d’évaluation statistique;
+- b.[^29-1] les modifications du protocole de recherche, notamment les modifications dues à de nouvelles connaissances scientifiques, qui ont trait à la configuration de l’essai, à la méthode de recherche, aux critères cibles ou au concept d’évaluation statistique;
 - c. un changement de lieu de réalisation ou l’ajout d’un lieu de réalisation, ou
-- d. le changement de promoteur, d’investigateur coordinateur ou d’investigateur responsable du lieu de réalisation.
+- d. le changement de promoteur, d’investigateur coordinateur ou d’investigateur responsable du lieu de réalisation;
+- e.[^29-2] la prolongation des délais visés aux art. 23, 23*a* et 50; l’investigateur indique dans la demande à l’intention de la commission d’éthique si les documents sont encore à jour, en particulier en ce qui concerne la pertinence scientifique de la problématique; si ce n’est pas le cas, il remet des documents actualisés.
 
 <sup>4</sup> La commission d’éthique rend une décision sur les modifications essentielles dans les 30 jours. L’art. 26 est applicable par analogie.
 
@@ -570,13 +720,16 @@ Sont considérées comme des modifications essentielles:
 
 <sup>6</sup> Les autres modifications doivent être déclarées à la commission d’éthique dans le rapport annuel sur la sécurité selon l’art. 43.
 
-### Section 3 Procédure auprès de l’Institut suisse des produits thérapeutiques
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^29-2]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+### Section 3 Procédure auprès de Swissmedic
 
 #### Art. 30
 
 **Exception au régime de l’autorisation**[^30-1]
 
-Les essais cliniques de catégorie A ne sont pas soumis à l’autorisation de l’institut selon l’art. 54, al. 1, LPTh.
+Les essais cliniques de catégorie A ne sont pas soumis à l’autorisation de Swissmedic selon l’art. 54, al. 1, LPTh.
 
 [^30-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
@@ -584,9 +737,13 @@ Les essais cliniques de catégorie A ne sont pas soumis à l’autorisation de l
 
 **Demande**
 
-<sup>1</sup> Le promoteur fournit les documents de la demande requis au sens de l’annexe 4 à l’institut pour examen.
+<sup>1</sup> Le promoteur fournit les documents de la demande requis au sens de l’annexe 4 à Swissmedic pour examen.
 
-<sup>2</sup> L’institut peut exiger des informations supplémentaires.
+<sup>1bis</sup> Swissmedic peut établir une liste de documents spécifiques requis pour le dépôt de la demande conformément au contenu de l’annexe 4.[^31-1]
+
+<sup>2</sup> Swissmedic peut exiger des informations supplémentaires.
+
+[^31-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 32
 
@@ -594,19 +751,19 @@ Les essais cliniques de catégorie A ne sont pas soumis à l’autorisation de l
 
 <sup>1</sup>
 
-Pour les essais cliniques de médicaments, l’institut vérifie:
+Pour les essais cliniques de médicaments, Swissmedic vérifie:
 
 - a. que le dossier de demande est complet;
 - b. la sécurité du médicament, notamment la pharmacologie préclinique et clinique, la toxicologie, la galénique, la pharmacocinétique ainsi que le dosage et l’indication prévus;
 - c. l’évaluation et la gestion des risques basées sur les données relatives à la sécurité du médicament;
-- d. la qualité du médicament et le respect des bonnes pratiques de fabrication (*Good Manufa**c**turing Practice, GMP*);
+- d. la qualité du médicament et le respect des bonnes pratiques de fabrication (*Good Manufacturing Practice, GMP*);
 - e. d’autres domaines dans la mesure où cela est nécessaire pour évaluer la sécurité ou la qualité du médicament.
 
 <sup>2</sup> Pour les essais cliniques de catégorie B de médicaments susceptibles d’émettre des rayonnements ionisants, il vérifie en outre la conformité à la législation sur la radiprotection ainsi que l’estimation de la dose.
 
 <sup>3</sup>
 
-Pour les essais cliniques de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, il vérifie:
+Pour les essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh, il vérifie:
 
 - a. que le dossier de demande est complet;
 - b. les exigences fixées par l’art. 54, al. 4, let. b, LPTh.
@@ -615,154 +772,243 @@ Pour les essais cliniques de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, 
 
 **Procédure et délais**
 
-<sup>1</sup> L’institut confirme la réception de la demande au promoteur dans les sept jours et lui indique les éléments du dossier qui ne sont pas conformes aux exigences formelles.
+<sup>1</sup> Swissmedic confirme la réception de la demande au promoteur dans les sept jours et lui indique les éléments du dossier qui ne sont pas conformes aux exigences formelles.
 
 <sup>2</sup> Il rend une décision dans les 30 jours à compter de la confirmation de la réception du dossier conforme aux exigences formelles.
 
-<sup>3</sup> Si le médicament ou le dispositif au sens de l’art. 2*a*, al. 2, LPTh est utilisé pour la première fois sur des personnes ou s’il est fabriqué selon un nouveau procédé, il peut prolonger ce délai de 30 jours au plus. Il communique cette prolongation au promoteur.
+<sup>3</sup> Si le médicament ou le produit au sens de l’art. 2*a*, al. 2, LPTh[^33-1] est utilisé pour la première fois sur des personnes ou s’il est fabriqué selon un nouveau procédé, il peut prolonger ce délai de 30 jours au plus. Il communique cette prolongation au promoteur.
 
-<sup>4</sup> Si l’institut exige des informations supplémentaires au sens de l’art. 31, al. 2, le délai est suspendu jusqu’à la réception de ces documents.
+<sup>4</sup> Si Swissmedic exige des informations supplémentaires au sens de l’art. 31, al. 2, le délai est suspendu jusqu’à la réception de ces documents.
 
-<sup>5</sup> L’institut communique sa décision à la commission d’éthique compétente et aux autres autorités cantonales compétentes.
+<sup>5</sup> Swissmedic communique sa décision à la commission d’éthique compétente et aux autres autorités cantonales compétentes.
+
+[^33-1]: Fussnotentext
 
 #### Art. 34
 
 **Modifications**
 
-<sup>1</sup> Les modifications essentielles apportées à un essai clinique autorisé doivent être autorisées par l’institut avant leur mise en œuvre. Les mesures qui doivent être prises immédiatement pour la protection de la personne participant à l’essai clinique sont exemptées de cette obligation.
+<sup>1</sup> Les modifications essentielles apportées à un essai clinique autorisé doivent être autorisées par Swissmedic avant leur mise en œuvre. Les mesures qui doivent être prises immédiatement pour la protection de la personne participant à l’essai clinique sont exemptées de cette obligation.
 
-<sup>2</sup> Le promoteur fournit à l’institut les documents requis au sens de l’annexe 4 qui sont concernés par la modification. En même temps, il l’informe sur les raisons de la modification.
+<sup>2</sup> Le promoteur fournit à Swissmedic les documents requis au sens de l’annexe 4 qui sont concernés par la modification. En même temps, il l’informe sur les raisons de la modification.
 
 <sup>3</sup>
 
 Sont considérées comme des modifications essentielles:
 
-- a. les modifications apportées au médicament ou au dispositif au sens de l’art. 2*a*, al. 2, LPTh ou encore à l’administration, respectivement l’utilisation de celui-ci;
+- a. les modifications apportées au médicament ou au produit au sens de l’art. 2*a*, al. 2, LPTh ou encore à l’administration, respectivement l’utilisation de celui-ci;
 - b. les modifications apportées sur la base de nouvelles données précliniques ou cliniques qui peuvent avoir un effet sur la sécurité du produit, ou
-- c. les modifications dans la fabrication du médicament ou du dispositif au sens de l’art. 2*a*, al. 2, LPTh qui peuvent avoir un effet sur la sécurité du produit.
+- c. les modifications dans la fabrication du médicament ou du produit au sens de l’art. 2*a*, al. 2, LPTh qui peuvent avoir un effet sur la sécurité du produit;
+- d.[^34-1] la prolongation des délais visés aux art. 23 et 23*a*; le promoteur indique dans la demande à l’intention de Swissmedic si les documents sont encore à jour, en particulier en ce qui concerne la qualité et la sécurité des médicaments; si ce n’est pas le cas, il remet des documents actualisés.
 
-<sup>4</sup> L’institut rend une décision dans les 30 jours à compter de la réception de l’ensemble des documents concernés par la modification. L’art. 33 est applicable par analogie.
+<sup>4</sup> Swissmedic rend une décision dans les 30 jours à compter de la réception de l’ensemble des documents concernés par la modification. L’art. 33 est applicable par analogie.
 
-<sup>5</sup> Les autres modifications qui concernent des documents fournis à l’institut doivent être déclarées le plus rapidement possible à l’institut.
+<sup>5</sup> Les autres modifications qui concernent des documents fournis à Swissmedic doivent être déclarées le plus rapidement possible à Swissmedic.
 
-### Section 4 Dispositions particulières pour les essais cliniques de thérapie génique, pour les essais cliniques avec des organismes génétiquement modifiés ou pathogènes et pour les essais cliniques avec des rayonnements ionisants
+[^34-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+### Section 4 Dispositions particulières pour les essais cliniques de thérapie génique, pour les essais cliniques avec des organismes génétiquement modifiés ou pathogènes et pour les essais cliniques utilisant des rayonnements ionisants
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 35
 
 **Essais cliniques de thérapie génique et essais cliniques avec des organismes génétiquement modifiés ou pathogènes**
 
-<sup>1</sup> Pour les essais cliniques de catégories B et C de thérapie génique et pour les essais cliniques avec des organismes génétiquement modifiés ou pathogènes au sens de l’art. 22, les documents requis au sens de l’annexe 4, ch. 4, doivent être fournis à l’institut.
+<sup>1</sup> Pour les essais cliniques de catégories B et C de thérapie génique et pour les essais cliniques avec des organismes génétiquement modifiés ou pathogènes au sens de l’art. 22, les documents requis au sens de l’annexe 4, ch. 1, doivent être fournis à Swissmedic.[^35-1]
 
-<sup>2</sup> Avant d’octroyer l’autorisation, l’institut requiert l’avis de la Commission fédérale d’experts pour la sécurité biologique (CFSB), de l’Office fédéral de l’environnement (OFEV) et de l’OFSP.
+<sup>2</sup> Avant d’octroyer l’autorisation, Swissmedic requiert l’avis de la Commission fédérale d’experts pour la sécurité biologique (CFSB), de l’Office fédéral de l’environnement (OFEV) et de l’OFSP.
 
-<sup>3</sup> Il examine, en plus des domaines de vérification visés à l’art. 32, si la qualité et la sécurité biologique du produit sont garanties aussi bien à l’égard des personnes participant à l’essai clinique que des êtres humains et de l’environnement.
+<sup>3</sup> Il examine, en plus des domaines de vérification visés à l’art. 32, si la qualité et la sécurité biologique de la préparation sont garanties aussi bien à l’égard des personnes participant à l’essai clinique que des êtres humains et de l’environnement.[^35-2]
 
 <sup>4</sup>
 
 Il accorde l’autorisation lorsque:
 
-- a.[^35-1] la CFSB a confirmé la qualité et la sécurité biologique du produit aussi bien à l’égard des personnes participant à l’essai clinique que des êtres humains et de l’environnement, et que
+- a.[^35-3] la CFSB a confirmé la qualité et la sécurité biologique de la préparation aussi bien à l’égard des personnes participant à l’essai clinique que des êtres humains et de l’environnement, et que
 - b. l’OFSP et l’OFEV n’ont pas formulé d’objections à l’égard de l’essai clinique sur la base de l’évaluation des données environnementales.
 
-<sup>5</sup> L’institut octroie l’autorisation dans les 60 jours à compter de la confirmation de la réception du dossier conforme aux exigences formelles. L’institut communique sa décision aux autorités fédérales et cantonales compétentes.
+<sup>5</sup> Swissmedic rend sa décision dans les 60 jours à compter de la confirmation de la réception du dossier de demande conforme aux exigences formelles. Il communique sa décision aux autorités fédérales et cantonales compétentes.[^35-4]
 
-<sup>6</sup> L’autorisation est valable pour la durée de l’essai clinique, mais au maximum pendant cinq ans après avoir été octroyée.
+<sup>6</sup> …[^35-5]
 
-<sup>7</sup> L’institut, l’OFSP et l’OFEV édictent conjointement des directives relatives à l’évaluation des risques pour l’être humain et l’environnement.
+<sup>7</sup> Swissmedic, l’OFSP et l’OFEV édictent conjointement des directives relatives à l’évaluation des risques pour l’être humain et l’environnement.
 
-[^35-1]: Erratum du 27 déc. 2013 ([RO 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^35-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^35-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^35-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^35-5]: Abrogé par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 36
 
-**Essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants**
+**Essais cliniques de médicaments susceptibles d’émettre des rayonnements ionisants[^36-1]**
 
-<sup>1</sup> Pour les essais cliniques de catégories B et C de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants, les documents supplémentaires requis au sens de l’annexe 4, ch. 5, doivent être fournis à l’institut.
+<sup>1</sup> Pour les essais cliniques de catégories B et C de médicaments susceptibles d’émettre des rayonnements ionisants, les documents supplémentaires requis au sens de l’annexe 4, ch. 5, doivent être fournis à Swissmedic.[^36-2]
 
-<sup>2</sup> Pour les essais cliniques de catégorie C, l’institut sollicite l’avis de l’OFSP avant d’octroyer l’autorisation. L’OFSP vérifie la conformité à la législation sur la radioprotection ainis que l’estimation de la dose.
+<sup>2</sup> Pour les essais cliniques de catégorie C, Swissmedic sollicite l’avis de l’OFSP avant d’octroyer l’autorisation. L’OFSP vérifie la conformité à la législation sur la radioprotection ainsi que l’estimation de la dose.[^36-3]
 
 <sup>3</sup>
 
-L’institut octroie l’autorisation si:
+Swissmedic octroie l’autorisation si:
 
 - a. les exigences visées à l’art. 32 sont respectées, et que
 - b. l’OFSP n’oppose pas d’objections à l’essai clinique.
 
-<sup>4</sup> L’institut statue sur les essais cliniques de catégorie C dans les 60 jours à compter de la confirmation de la réception du dossier conforme aux exigences formelles. Il communique sa décision à l’OFSP.
+<sup>4</sup> Swissmedic statue sur les essais cliniques de catégorie C dans les 60 jours à compter de la confirmation de la réception du dossier conforme aux exigences formelles. Il communique sa décision à l’OFSP.
+
+<sup>5</sup> …[^36-4]
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-4]: Abrogé par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 36a
+
+**Procédure applicable aux examens complémentaires au moyen de rayonnements ionisants**[^36a-1]
+
+<sup>1</sup> Pour les examens complémentaires au moyen de rayonnements ionisants, l’investigateur fournit à la commission d’éthique compétente les documents supplémentaires requis au sens de l’annexe 3, ch. 5. La procédure d’autorisation est régie par les art. 24 à 27 et 29, sous réserve des al. 2 à 6.
+
+<sup>2</sup>
+
+L’investigateur fournit de plus à l’OFSP les documents de la demande requis au sens de l’annexe 3, ch. 6:
+
+- a. lorsqu’un produit radiopharmaceutique n’est pas utilisé conformément à l’autorisation ou que le produit radiopharmaceutique utilisé n’est pas autorisé en Suisse;
+- b.
+
+  lorsqu’un dispositif médical susceptible d’émettre des rayonnements ionisants:
+
+  - 1\. n’est pas utilisé conformément au mode d’emploi, ou
+  - 2\. qu’il ne porte pas de marquage de conformité au sens de l’art. 13 ODim[^36a-2], ou
+
+- c. lorsqu’une autre source radioactive est utilisée.
+
+<sup>3</sup> Si un dépôt de documents supplémentaires est requis en vertu de l’al. 2, l’investigateur doit en aviser la commission d’éthique.
+
+<sup>4</sup> L’OFSP émet dans un délai approprié un avis à l’intention de la commission d’éthique sur le respect de la législation en matière de radioprotection ainsi que sur l’évaluation de la dose.
 
 <sup>5</sup>
 
-Pour les essais cliniques de catégorie C, il transmet à l’OFSP immédiatement après réception:
+La commission d’éthique accorde l’autorisation:
 
-- a. le rapport final selon l’art. 38, al. 3, avec toutes les indications pertinentes sur la radioprotection, en particulier l’estimation a posteriori de la dose à laquelle ont été exposées les personnes ayant participé à l’essai clinique, sauf si l’OFSP en a disposé autrement;
-- b. les déclarations prévues par les art. 41, al. 2, et 42, al. 1.
+- a. lorsque les exigences visées à l’art. 25 sont respectées, et
+- b. que, après examen de l’avis émis selon l’al. 4, il ne subsiste aucune objection à l’encontre de l’essai clinique.
 
-### Section 5 Déclarations et rapports
+<sup>6</sup> Elle rend sa décision dans les 45 jours à compter de la confirmation de la réception du dossier de demande conforme aux exigences formelles. Elle communique sa décision à l’OFSP.
+
+[^36a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
+[^36a-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
+### Section 5 Documentation, déclarations et rapports
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 37
 
-**Déclaration des mesures de sécurité et de protection**
+**En cas de mesures de sécurité et de protection[^37-1]**
 
 <sup>1</sup> L’investigateur déclare à la commission d’éthique dans les sept jours les mesures de sécurité et de protection qui doivent être prises immédiatement pendant la réalisation d’un essai clinique ainsi que les circonstances qui ont rendu ces mesures nécessaires.
 
-<sup>2</sup> Pour les essais cliniques de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, la déclaration est à remettre dans les deux jours.
+<sup>2</sup> Pour les essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh, la déclaration est à remettre dans les deux jours.
 
-<sup>3</sup> Pour les essais cliniques de catégories B et C, les déclarations au sens des al. 1 et 2 sont effectuées auprès de l’institut. Cette obligation incombe au promoteur.
+<sup>3</sup> Pour les essais cliniques de catégories B et C, les déclarations au sens des al. 1 et 2 doivent en outre être remises à Swissmedic. Cette obligation incombe au promoteur.[^37-2]
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^37-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 38
 
-**Déclaration et rapport à la fin ou en cas d’arrêt ou d’interruption de l’essai clinique**
+**En cas de première visite ainsi que de fin, d’arrêt prématuré, d’interruption ou de reprise de l’essai clinique**[^38-1]
 
-<sup>1</sup> L’investigateur déclare à la commission d’éthique la fin de l’essai clinique en Suisse dans les 90 jours. L’essai clinique est réputé terminé après la dernière visite de suivi de la dernière personne participant à l’essai clinique (*follow-up visit*), sauf si le protocole de recherche en dispose autrement.
+<sup>1</sup>
 
-<sup>2</sup> Il déclare à la commission d’éthique l’arrêt ou l’interruption de l’essai clinique dans les quinze jours. Les raisons de l’arrêt ou de l’interruption sont indiquées dans la déclaration.
+L’investigateur déclare à la commission d’éthique dans les 30 jours:
 
-<sup>3</sup> L’investigateur fournit un rapport final à la commission d’éthique dans un délai d’une année à compter de la fin ou de l’arrêt de l’essai clinique, à moins que le protocole de recherche ne prévoie un délai plus long.
+- a. la première visite de la première personne participant à l’essai clinique en Suisse, et
+- b. la fin de l’essai clinique en Suisse.
 
-<sup>4</sup> Si un essai clinique multicentrique sur un lieu de réalisation est arrêté ou interrompu, l’investigateur coordinateur remet la déclaration selon l’al. 2 également à la commission d’éthique compétente concernée.
+<sup>1bis</sup> L’investigateur déclare à la commission d’éthique dans les 90 jours la fin d’un essai clinique multinational dans l’ensemble des pays participants.
 
-<sup>5</sup> Pour les essais cliniques de catégories B et C, les déclarations et les rapports selon les al. 1 à 3 doivent être remis à l’institut. Ces obligations incombent au promoteur.
+<sup>1ter</sup> L’essai clinique est réputé terminé après la dernière visite de suivi de la dernière personne participant à l’essai clinique, sauf si le protocole de recherche en dispose autrement.
+
+<sup>2</sup> L’investigateur déclare à la commission d’éthique l’arrêt prématuré, l’interruption ou la reprise de l’essai clinique dans les quinze jours. Les raisons de l’arrêt prématuré, de l’interruption ou de la reprise sont indiquées dans la déclaration. Une interruption de plus de deux ans équivaut à un arrêt prématuré.
+
+<sup>3</sup> L’investigateur fournit un rapport final de synthèse à la commission d’éthique dans un délai d’une année à compter de la fin ou de l’arrêt prématuré de l’essai clinique, à moins que le protocole de recherche ne prévoie un délai plus long.
+
+<sup>4</sup> Si, sur un lieu de réalisation, un essai clinique multicentrique est arrêté prématurément, interrompu ou a repris, l’investigateur coordinateur remet la déclaration visée à l’al. 2 également à la commission d’éthique concernée.
+
+<sup>5</sup> Pour les essais cliniques de catégories B et C, les déclarations et les rapports prévus aux al. 1 à 3 doivent en outre être remis à Swissmedic. Ces obligations incombent au promoteur.
+
+[^38-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 39
 
-**Documentation des événements indésirables (*Adverse Events, AE*) survenus au cours d’essais cliniques de médicaments**
+**En cas d’événements indésirables (*Adverse Events, AE*) survenus au cours d’essais cliniques de médicaments [^39-1]**
 
-<sup>1</sup> Si, au cours de la réalisation d’un essai clinique de catégorie C de médicaments, des événements indésirables que l’on ne peut qualifier de graves se produisent sur des personnes participant à l’essai clinique, ils doivent être documentés par l’investigateur de manière standardisée.
+<sup>1</sup> Si des événements indésirables se produisent au cours de la réalisation d’un essai clinique de catégorie C, l’investigateur doit les documenter de manière standardisée.[^39-2]
 
-<sup>2</sup> Les événements indésirables qui se produisent au cours de la réalisation d’un essai clinique de catégorie B doivent être documentés de manière standardisée si le protocole de recherche le prévoit ou si les autorités qui ont octroyé l’autorisation l’exigent.
+<sup>1bis</sup> Dans des cas exceptionnels motivés, le promoteur peut exclure de l’obligation de documenter des événements indésirables jugés non critiques pour l’évaluation de la sécurité dans le protocole de recherche concernant des essais cliniques de catégorie C.[^39-3]
+
+<sup>2</sup>
+
+Si des événements indésirables se produisent au cours de la réalisation d’un essai clinique de catégorie B, l’investigateur doit les documenter de manière standardisée:
+
+- a. si les événements indésirables sont jugés critiques pour l’évaluation de la sécurité dans le protocole de recherche, ou
+- b. si les autorités ayant octroyé l’autorisation l’exigent.[^39-4]
 
 <sup>3</sup> Il n’y a pas d’obligation de documenter les événements indésirables pour les essais cliniques de catégorie A.
 
 <sup>4</sup> La définition des événements indésirables obéit aux règles de bonnes pratiques cliniques selon l’annexe 1, ch. 2.
 
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-3]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
 #### Art. 40
 
-**Événements indésirables graves (*Serious Adverse Events, SAE*) survenus au cours d’essais cliniques de médicaments**
+**En cas d’événements indésirables graves (*Serious Adverse Events, SAE*) survenus au cours d’essais cliniques de médicaments [^40-1]**
 
 <sup>1</sup> Si, au cours de la réalisation d’un essai clinique, des événements indésirables graves se produisent sur des personnes participant à l’essai clinique, l’investigateur doit les documenter de manière standardisée et les déclarer au promoteur dans les 24 heures suivant la constatation de l’événement. Sont exceptés les événements qui ne doivent pas être déclarés en vertu du protocole de recherche.
 
-<sup>2</sup> Sauf si le protocole de recherche en dispose autrement, l’investigateur déclare dans les sept jours à la commission d’éthique compétente un événement indésirable grave survenu sur un lieu de réalisation en Suisse et ayant entraîné un décès.
-
-<sup>3</sup> S’agissant d’un essai clinique multicentrique, l’investigateur coordinateur déclare en outre dans le même délai l’événement indésirable visé à l’al. 2 à la commission d’éthique compétente concernée.
+<sup>2</sup> et <sup>3</sup> … [^40-2]
 
 <sup>4</sup> La définition des événements indésirables graves obéit aux règles de bonnes pratiques cliniques selon l’annexe 1, ch. 2.
 
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^40-2]: Abrogés par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
 #### Art. 41
 
-**Suspicion d’effets indésirables graves inattendus du médicament (*Suspected Unexpected Serious Adverse Reaction, SUSAR*) au cours d’un essai clinique de médicaments**
+**Lors de cas de suspicion d’effets indésirables graves inattendus du médicament (*Suspected Unexpected Serious Adverse Reaction, SUSAR*) au cours d’un essai clinique de médicaments[^41-1]**
 
-<sup>1</sup> Si une suspicion d’effets indésirables graves inattendus du médicament apparaît sur des personnes participant à l’essai clinique durant sa réalisation, l’investigateur doit les documenter de manière standardisée et les déclarer au promoteur dans les 24 heures suivant la constatation.
+<sup>1</sup> Si un cas de suspicion d’effets indésirables graves inattendus du médicament se produit pour une personne participant à l’essai clinique durant la réalisation de ce dernier, l’investigateur doit les documenter de manière standardisée et les déclarer au promoteur dans les 24 heures suivant la constatation.[^41-2]
 
-<sup>2</sup> L’investigateur déclare dans les sept jours à la commission d’éthique compétente une suspicion d’effets indésirables inattendus du médicament ayant entraîné un décès en Suisse; pour une autre suspicion d’effets indésirables graves inattendus du médicament, le délai est de quinze jours.
+<sup>2</sup> L’investigateur déclare dans les sept jours à la commission d’éthique compétente tout cas de suspicion d’effets indésirables inattendus du médicament ayant mis en danger la vie d’une personne participant à l’essai ou entraîné un décès en Suisse; pour tout autre cas de suspicion d’effets indésirables graves inattendus du médicament, le délai est de quinze jours.[^41-3]
 
-<sup>3</sup> Si, sur un lieu de réalisation d’une étude multicentrique, une suspicion d’effets indésirables graves inattendus du médicament se produit, l’investigateur coordinateur remet la déclaration selon l’al. 2 dans le même délai à la commission d’éthique compétente concernée également.
+<sup>3</sup> Si, sur un des lieux où l’on réalise en Suisse un essai clinique multicentrique, un cas de suspicion d’effets indésirables graves inattendus du médicament se produit, l’investigateur coordinateur remet également à la commission d’éthique concernée la déclaration prévue à l’al. 2 dans le même délai.[^41-4]
 
-<sup>4</sup> Pour les essais cliniques de catégories B et C, les déclarations selon l’al. 2 sont également à remettre à l’institut. Cette obligation incombe au promoteur. Pour les essais cliniques de catégorie A, l’obligation de déclarer selon l’art. 59, al. 1 et 2, LPTh incombe au promoteur.
+<sup>4</sup> Pour les essais cliniques de catégories B et C, les déclarations selon l’al. 2 sont également à remettre à Swissmedic. Cette obligation incombe au promoteur. Pour les essais cliniques de catégorie A, l’obligation de déclarer selon l’art. 59, al. 1 et 2, LPTh incombe au promoteur.
 
-<sup>5</sup> La définition de la suspicion d’événements indésirables graves inattendus obéit aux règles de bonnes pratiques cliniques selon l’annexe 1, ch. 2.
+<sup>4bis</sup> Les obligations visées aux al. 1 à 4 s’appliquent également lorsque l’investigateur ou le promoteur prend connaissance d’un cas de suspicion apparu après la fin de l’essai clinique réalisé en Suisse ou qu’il n’a connaissance d’un tel cas qu’après la fin de l’essai clinique.[^41-5]
+
+<sup>5</sup> La définition d’un cas de suspicion d’effets indésirables graves inattendus obéit aux règles de bonnes pratiques cliniques selon l’annexe 1, ch. 2.[^41-6]
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-5]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-6]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 42
 
-**Événements indésirables graves (*Serious Adverse Events, SAE*) et défectuosités des produits au sens de l’art. 2*a*, al. 2, LPTh au cours d’essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh**[^42-1]
+**En cas d’événements indésirables graves (*Serious Adverse Events, SAE*) et de défectuosités au cours d’essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh[^42-2]**[^42-1]
 
 <sup>1</sup>
 
@@ -777,101 +1023,122 @@ L’investigateur déclare dans les sept jours à la commission d’éthique com
 
 - b. toute défectuosité des produits à analyser au sens de l’art. 2*a*, al. 2, LPTh qui aurait pu déboucher sur un événement indésirable grave en l’absence de mesures appropriées ou d’une intervention ou si les circonstances avaient été moins favorables.
 
-<sup>2</sup> Si des événements indésirables graves ou des défectuosités des produits au sens de l’art. 2*a*, al. 2, LPTh se produisent lors d’un essai clinique multicentrique sur l’un des lieux de réalisation, l’investigateur coordinateur remet également la déclaration à la commission d’éthique compétente concernée.
+<sup>2</sup> Si des événements indésirables graves ou des défectuosités des produits au sens de l’art. 2*a*, al. 2, LPTh se produisent lors d’un essai clinique multicentrique sur l’un des lieux de réalisation, l’investigateur coordinateur remet également la déclaration à la commission d’éthique concernée.[^42-3]
 
-<sup>3</sup> Pour un essai clinique de catégorie C, les déclarations visées à l’al. 1 sont également remises à l’institut. Cette obligation incombe au promoteur. Il déclare de surcroît à l’institut les événements survenus à l’étranger et les défectuosités constatées des produits au sens de l’art. 2*a*, al. 2, LPTh. Pour un essai clinique de catégorie A, l’obligation de déclarer visée à l’art. 15, al. 1, ODim[^42-2] dans sa version du 1<sup>er</sup> janvier 2002[^42-3] en application de l’art. 103, al. 2, ODim incombe au promoteur.
+<sup>3</sup> Pour un essai clinique de catégorie C, les déclarations visées à l’al. 1 sont également remises à Swissmedic. Cette obligation incombe au promoteur. Il déclare de surcroît à Swissmedic les événements survenus à l’étranger et les défectuosités constatées des produits au sens de l’art. 2*a*, al. 2, LPTh. Pour un essai clinique de catégorie A, l’obligation de déclarer visée à l’art. 15, al. 1, ODim[^42-4] dans sa version du 1<sup>er</sup> janvier 2002[^42-5] en application de l’art. 103, al. 2, ODim incombe au promoteur.
 
 <sup>4</sup> La définition des événements indésirables graves et des défectuosités des produits au sens de l’art. 2*a*, al. 2, LPTh obéit aux règles de bonnes pratiques cliniques définies dans l’annexe 1, ch. 2.
 
 [^42-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^42-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^42-3]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^42-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^42-4]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-5]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 43
 
 **Rapport sur la sécurité des personnes participant au projet de recherche**
 
-<sup>1</sup> L’investigateur soumet une fois par an à la commission d’éthique compétente une liste des événements et des défectuosités des produits à analyser au sens de l’art. 2*a*, al. 2, LPTh et des effets du médicament au sens des art. 40 à 42, avec un rapport sur leur degré de gravité, leur lien de causalité avec l’intervention et la sécurité des personnes participant à l’essai clinique (*Annual Safety Report, ASR*).[^43-1]
+<sup>1</sup> L’investigateur soumet une fois par an à la commission d’éthique compétente une liste des événements et des défectuosités des produits à analyser au sens de l’art. 2*a*, al. 2, LPTh et des effets du médicament au sens des art. 40 à 42. Ce faisant, il lui présente un rapport sur leur degré de gravité, leur lien de causalité avec l’intervention et la sécurité des personnes participant à l’essai clinique, et il informe la commission d’éthique de l’avancement général de l’essai clinique.[^43-1]
 
 <sup>2</sup> Pour les investigations cliniques qui sont aussi réalisées à l’étranger sur la base du même protocole de recherche, les événements, les défectuosités des produits à analyser au sens de l’art. 2*a*, al. 2, LPTh et les effets du médicament observés à l’étranger doivent figurer en sus dans la liste et le rapport.[^43-2]
 
-<sup>3</sup> Pour les essais cliniques de catégories B et C, le rapport visé aux al. 1 et 2 est également remis à l’institut. Cette obligation incombe au promoteur.
+<sup>3</sup> Pour les essais cliniques de catégories B et C, le rapport visé aux al. 1 et 2 est également remis à Swissmedic. Cette obligation incombe au promoteur.
 
-[^43-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^43-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 44
 
-**Contrôle, déclaration et rapport sur les examens à l’aide de sources de rayonnement**[^44-1]
+**En cas d’utilisation de rayonnements ionisants [^44-2]**[^44-1]
 
-<sup>1</sup> Lors des essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh qui peuvent émettre des rayonnements ionisants ainsi que lors d’examens avec des sources de rayonnement, l’investigateur contrôle le respect de la contrainte de dose visée à l’art. 45 de l’ordonnance du 26 avril 2017 sur la radioprotection[^44-2].
+<sup>1</sup> Lors des essais cliniques impliquant l’utilisation de rayonnements ionisants, l’investigateur contrôle le respect de la contrainte de dose visée à l’art. 45 de l’ordonnance du 26 avril 2017 sur la radioprotection[^44-3].[^44-4]
 
 <sup>2</sup> Il déclare un dépassement de la contrainte de dose dans un délai de sept jours ouvrables suivant la constatation de l’événement à la commission d’éthique.
 
-<sup>3</sup> Pour les essais cliniques de catégories B et C de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh émettant des rayonnements ionisants, la déclaration visée à l’al. 2 doit aussi être envoyée à l’Institut. Cette obligation incombe au sponsor.
+<sup>3</sup> Pour les essais cliniques de catégories B et C de médicaments émettant des rayonnements ionisants, la déclaration visée à l’al. 2 doit aussi être envoyée à Swissmedic. Cette obligation incombe au promoteur.[^44-5]
 
-<sup>4</sup> La commission d’éthique et l’Institut peuvent solliciter l’expertise technique de l’OFSP pour l’appréciation du calcul ou de l’estimation des doses ainsi que la détermination des mesures à prendre.
+<sup>4</sup> La commission d’éthique et Swissmedic peuvent solliciter l’expertise technique de l’OFSP pour l’appréciation du calcul ou de l’estimation des doses ainsi que la détermination des mesures à prendre.
 
-<sup>5</sup> L’investigateur transmet à l’OFSP, dans un délai d’une année à compter de la fin ou de l’arrêt de l’essai clinique qui comporte des examens à l’aide de sources radioactives, un rapport final avec toutes les indications pertinentes sur la radioprotection, en particulier l’estimation a posteriori de la dose à laquelle ont été exposées les personnes ayant participé à l’essai clinique.
+<sup>5</sup> Lorsque des rayonnements ionisants sont utilisés, l’investigateur documente dans le rapport final de synthèse visé à l’art. 38 toutes les indications pertinentes pour la radioprotection, en particulier l’estimation a posteriori de la dose pour les personnes participant à l’essai clinique.[^44-6]
 
-<sup>6</sup> Aucun rapport visé à l’al. 5 n’est exigé sur les examens de routine de médecine nucléaire avec des produits radiopharmaceutiques autorisés.
+<sup>6</sup> Aucun rapport visé à l’al. 5 n’est exigé en cas d’utilisation conforme à l’autorisation d’un produit radiopharmaceutique ou d’utilisation conforme au mode d’emploi d’un dispositif médical pourvu d’un marquage de conformité au sens de l’art. 13 ODim[^44-7].[^44-8]
 
-<sup>7</sup> Dans le cadre de sa prise de position au sens de l’art. 28 ou sur demande, l’OFSP peut prévoir d’autres exceptions à l’obligation d’établir un rapport visé à l’al. 5.
+<sup>7</sup> Dans le cadre de son avis au sens de l’art. 36*a* ou sur demande, l’OFSP peut prévoir d’autres exceptions à l’obligation d’établir un rapport visé à l’al. 5.[^44-9]
+
+<sup>8</sup> L’investigateur transmet le rapport final de synthèse à l’OFSP lorsque ce dernier a remis un avis au sens de l’art. 36 ou 36*a*.[^44-10]
 
 [^44-1]: Nouvelle teneur selon l’annexe 11 ch. 6 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^44-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-3]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-6]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-7]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^44-8]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-9]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-10]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 44a
+
+**Reprise, par le promoteur, des obligations de l’investigateur en matière de déclaration et de rapport**[^44a-1]
+
+Le promoteur peut assumer en lieu et place de l’investigateur les obligations en matière de déclaration et de rapport à l’égard de la ou des commissions d’éthique mentionnées dans la présente section si les documents de la demande le prévoient.
+
+[^44a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 45
 
 **Obligation de conservation**
 
-<sup>1</sup> Le promoteur est tenu de conserver toutes les données relatives à l’essai clinique jusqu’à la date du dernier lot livré du médicament testé ou du dernier produit à analyser au sens de l’art. 2*a*, al. 2, LPTh fabriqué, mais au moins pendant 10 ans à compter de la fin ou de l’arrêt de l’essai clinique. Pour les produits implantables au sens de l’art. 2*a*, al. 2, LPTh, le délai de conservation est de 15 ans au moins.[^45-1]
+<sup>1</sup> Le promoteur est tenu de conserver toutes les données relatives à l’essai clinique jusqu’à la date de péremption du dernier lot livré du médicament testé ou du dernier produit à analyser au sens de l’art. 2*a*, al. 2, LPTh fabriqué, mais au moins pendant 20 ans à compter de la fin ou de l’arrêt prématuré de l’essai clinique.[^45-1]
 
-<sup>2</sup> L’investigateur est tenu de conserver tous les documents nécessaires à l’identification et au suivi médical des personnes participant à l’essai clinique ainsi que toutes les autres données originales pendant 10 ans au moins à compter de la fin ou de l’arrêt de l’essai clinique. Pour les produits implantables au sens de l’art. 2*a*, al. 2, LPTh, le délai de conservation est de 15 ans au moins.[^45-2]
+<sup>2</sup> L’investigateur est tenu de conserver tous les documents nécessaires à l’identification et au suivi médical des personnes participant à l’essai clinique ainsi que toutes les autres données originales pendant 20 ans au moins à compter de la fin ou de l’arrêt prématuré de l’essai clinique.[^45-2]
 
 <sup>3</sup> Pour les essais cliniques de transplants standardisés et pour les essais cliniques avec du sang ou des produits sanguins, l’obligation de conservation est régie par l’art. 40, al. 1, LPTh.
 
-[^45-1]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^45-2]: Nouvelle teneur selon l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^45-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Section 6 Inspections et mesures administratives
 
 #### Art. 46
 
-**Inspections effectuées par l’institut**
+**Inspections effectuées par Swissmedic**
 
-<sup>1</sup> L’institut a le droit d’inspecter tous les essais cliniques de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés.
+<sup>1</sup> Swissmedic a le droit d’inspecter tous les essais cliniques de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés.
 
-<sup>2</sup> Si l’institut procède à des inspections, il en informe au préalable la commission d’éthique ainsi que les autorités cantonales et fédérales compétentes. Celles-ci peuvent prendre part à l’inspection.
+<sup>2</sup> Si Swissmedic procède à des inspections, il en informe au préalable la commission d’éthique ainsi que les autorités cantonales et fédérales compétentes. Celles-ci peuvent prendre part à l’inspection.
 
-<sup>3</sup> Les compétences de l’institut sont réglées par l’art. 62 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^46-1].
+<sup>3</sup> Les compétences de Swissmedic sont réglées par l’art. 62 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^46-1].
 
-<sup>4</sup> L’institut peut de surcroît faire des inspections à l’étranger aux frais du promoteur, lorsqu’une telle mesure est nécessaire pour vérifier l’essai clinique mis en œuvre en Suisse. Le sponsor doit être informé au préalable.
+<sup>4</sup> Swissmedic peut de surcroît faire des inspections à l’étranger aux frais du promoteur lorsqu’une telle mesure est nécessaire pour vérifier l’essai clinique mis en œuvre en Suisse. Le promoteur doit être informé au préalable.[^46-2]
 
-<sup>5</sup> L’institut informe la commission d’éthique et les autorités cantonales et fédérales compétentes des résultats de l’inspection.
+<sup>5</sup> Swissmedic informe la commission d’éthique et les autorités cantonales et fédérales compétentes des résultats de l’inspection.
 
 [^46-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^46-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 47
 
-**Mesures administratives prises par l’institut**
+**Mesures administratives prises par Swissmedic**
 
-L’institut peut révoquer l’autorisation, la suspendre ou soumettre la poursuite de l’essai clinique à des charges supplémentaires, notamment lorsque:
+Swissmedic peut révoquer l’autorisation, la suspendre ou soumettre la poursuite de l’essai clinique à des charges supplémentaires, notamment lorsque:
 
 - a. la sécurité ou la santé des personnes participant à l’essai clinique sont mises en danger, notamment à cause de la sécurité des produits insuffisante ou de leur défaut de fabrication;
 - b. la qualité des données collectées est défectueuse;
-- c. l’essai clinique n’est pas réalisé conformément aux documents de la demande autorisés par l’institut ou par la commission d’éthique;
+- c. l’essai clinique n’est pas réalisé conformément aux documents de la demande autorisés par Swissmedic ou par la commission d’éthique;
 - d. les obligations d’autorisation et de déclaration ne sont pas respectées.
 
 #### Art. 48
 
 **Coordination et information**
 
-<sup>1</sup> La commission d’éthique compétente, l’institut et les autres autorités cantonales compétentes coordonnent préalablement les mesures administratives à prendre.
+<sup>1</sup> La commission d’éthique compétente, Swissmedic et les autres autorités cantonales compétentes coordonnent préalablement les mesures administratives à prendre.
 
 <sup>2</sup> Sont réservées les mesures qui doivent être immédiatement ordonnées afin de protéger la sécurité ou la santé de ces personnes. Les commissions d’éthique et les autres autorités cantonales et fédérales compétentes s’échangent immédiatement les informations relatives à ces mesures.
 
-## Chapitre 3 Procédures d’autorisation et de déclaration pour les essais cliniques de transplantation d’organes, de tissus ou de cellules d’origine humaine
+## Chapitre 3Procédures d’autorisation et de déclaration pour les essais cliniques de transplantation d’organes, de tissus ou de cellules d’origine humaine
 
 ### Section 1 Dispositions générales
 
@@ -887,17 +1154,32 @@ L’institut peut révoquer l’autorisation, la suspendre ou soumettre la pours
 
 #### Art. 50
 
-**Information et coordination lors de la procédure d’autorisation**
+**Information et coordination lors de la procédure d’autorisation et délai pour le dépôt auprès de la seconde autorité compétente en matière d’autorisation [^50-1]**
 
 <sup>1</sup> L’investigateur et le promoteur peuvent déposer leur demande simultanément auprès de la commission d’éthique et de l’OFSP.
 
+<sup>1bis</sup> Pour les essais cliniques de la catégorie C, la demande doit être déposée auprès de la seconde autorité compétente en matière d’autorisation dans les deux ans suivant l’octroi de l’autorisation par la première autorité.[^50-2]
+
+<sup>1ter</sup> À la demande de la personne titulaire de l’autorisation, la première autorité compétente peut prolonger le délai fixé à l’al. 1<sup>bis</sup>. Une telle requête est considérée comme une modification essentielle apportée à l’essai clinique.[^50-3]
+
+<sup>1quater</sup> En cas de dépassement du délai fixé à l’al. 1<sup>bis</sup> ou de la prolongation de délai fixée à l’al. 1<sup>ter</sup>, ou de rejet d’une demande de prolongation du délai fondée sur l’al. 1<sup>ter</sup>, l’autorisation délivrée devient caduque.[^50-4]
+
 <sup>2</sup> La commission d’éthique compétente et l’OFSP s’échangent les informations relatives aux domaines de vérification visés non seulement à l’art. 25 mais aussi à l’art. 53 et coordonnent leurs évaluations.
+
+[^50-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-2]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-3]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-4]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Section 2 Procédure auprès de la commission d’éthique compétente
 
 #### Art. 51
 
-Les art. 24 à 29 sont applicables par analogie à la procédure d’autorisation des essais cliniques de transplantation auprès de la commission d’éthique compétente.
+[^51-1]
+
+Les art. 23*a* à 27, 29 et 36*a* sont applicables par analogie à la procédure d’autorisation des essais cliniques de transplantation auprès de la commission d’éthique compétente.
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Section 3 Procédure auprès de l’OFSP
 
@@ -942,13 +1224,19 @@ Pour les essais cliniques de transplantation, l’OFSP vérifie:
 Sont considérées comme des modifications essentielles:
 
 - a. les nouvelles connaissances scientifiques, notamment fondées sur de nouvelles données précliniques et cliniques, qui ont une influence sur l’évaluation de la sécurité des organes, des tissus ou des cellules utilisés, ou
-- b. les modifications concernant l’origine, les tests à effectuer ou le stockage des organes, des tissus ou des cellules utilisés.
+- b. les modifications concernant l’origine, les tests à effectuer ou le stockage des organes, des tissus ou des cellules utilisés;
+- c.[^55-1] pour les essais cliniques de transplantation de tissus et cellules embryonnaires ou fœtaux: les modifications susceptibles d’avoir des conséquences pour la sécurité des personnes participantes;
+- d.[^55-2] la prolongation des délais visés aux art. 23*a* et 50; le promoteur indique dans la demande à l’intention de l’OFSP si les documents sont encore à jour, en particulier en ce qui concerne la provenance, la sécurité et la qualité des organes, tissus et cellules utilisés; si ce n’est pas le cas, il remet des documents actualisés.
 
-<sup>4</sup> Sont également considérées commes essentielles les modifications pour les essais cliniques de transplantation de tissus ou de cellules issus d’embryons ou de fœtus qui peuvent avoir une influence sur la sécurité des personnes participant au projet de recherche.
+<sup>4</sup> …[^55-3]
 
 <sup>5</sup> L’OFSP rend une décision dans les 30 jours à compter de la réception de l’intégralité des documents concernés par la modification. L’art. 33 est applicable par analogie.
 
 <sup>6</sup> Les autres modifications concernant les documents fournis à l’OFSP doivent être déclarées à l’OFSP dans les meilleurs délais.
+
+[^55-1]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^55-2]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^55-3]: Abrogé par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 56
 
@@ -962,17 +1250,54 @@ Sont considérées comme des modifications essentielles:
 
 [^56-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
 
-### Section 4 Déclarations et rapports
+### Section 4 Documentation, déclarations et rapports
+
+[^chap3-sec4-1]
+
+[^chap3-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 57
 
-<sup>1</sup> Les art. 37 à 41, 43 et 44 sont applicables par analogie aux déclarations et aux rapports relatifs aux essais cliniques de transplantation.[^57-1]
+**Dispositions applicables[^57-1]**
 
-<sup>2</sup> Les obligations qui doivent être observées selon ces dispositions à l’égard de l’institut sont à observer à l’égard de l’OFSP pour les essais cliniques de transplantation.
+<sup>1</sup> Les art. 37 à 39, 44 et 44*a* sont applicables par analogie à la documentation, aux déclarations et aux rapports relatifs aux essais cliniques de transplantation.[^57-2]
+
+<sup>2</sup> Les obligations qui doivent être observées selon ces dispositions à l’égard de Swissmedic sont à observer à l’égard de l’OFSP pour les essais cliniques de transplantation.
 
 <sup>3</sup> Pour les essais cliniques de transplantation, les obligations en matière de documentation, de traçabilité et de conservation qui incombent au promoteur et à l’investigateur sont réglées par les art. 34 et 35 de la loi sur la transplantation.
 
-[^57-1]: Erratum du 27 déc. 2013 ([RO 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
+[^57-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^57-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 57a
+
+**Déclaration d’événements indésirables graves**[^57a-1]
+
+<sup>1</sup> Si, au cours de la réalisation d’un essai clinique, des événements indésirables graves se produisent sur des personnes participant à l’essai clinique, l’investigateur doit les documenter de manière standardisée et les déclarer au promoteur dans les 24 heures suivant la constatation de l’événement. Sont exceptés les événements qui ne doivent pas être déclarés en vertu du protocole de recherche.
+
+<sup>2</sup> L’investigateur déclare dans les sept jours à la commission d’éthique compétente les événements indésirables graves ayant mis en danger la vie d’une personne participant à l’essai ou entraîné un décès en Suisse; pour les autres événements indésirables graves, le délai est de quinze jours.
+
+<sup>3</sup> Si, sur un lieu de réalisation en Suisse d’un essai clinique multicentrique, un événement indésirable grave se produit, l’investigateur coordinateur remet également à la commission d’éthique concernée la déclaration prévue à l’al. 2 dans le même délai.
+
+<sup>4</sup> Pour les essais cliniques de catégorie C, les déclarations prévues à l’al. 2 doivent également être remises à l’OFSP. Cette obligation incombe au promoteur.
+
+<sup>5</sup> Les obligations visées aux al. 1 à 4 s’appliquent également lorsque l’investigateur ou le promoteur prend connaissance d’un événement indésirable grave apparu après la fin de l’essai clinique réalisé en Suisse ou qu’il n’a connaissance d’un tel événement qu’après la fin de l’essai clinique.
+
+<sup>6</sup> La définition des événements indésirables graves obéit aux règles de bonnes pratiques cliniques mentionnées dans l’annexe 1, ch. 2.
+
+[^57a-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 57b
+
+**Rapport sur la sécurité des personnes participant à l’essai clinique**[^57b-1]
+
+<sup>1</sup> L’investigateur soumet une fois par an à la commission d’éthique compétente une liste des événements au sens de l’art. 57*a*, assortie d’un rapport sur leur degré de gravité, leur lien de causalité avec l’intervention et la sécurité des personnes participant à l’essai clinique, et il informe la commission d’éthique de l’avancement général de l’essai clinique.
+
+<sup>2</sup> Pour les essais cliniques qui sont aussi réalisés à l’étranger sur la base du même protocole de recherche, les événements à l’étranger doivent figurer en sus dans la liste et le rapport.
+
+<sup>3</sup> Pour les essais cliniques de catégorie C, le rapport visé aux al. 1 et 2 est également remis à l’OFSP. Cette obligation incombe au promoteur.
+
+[^57b-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Section 5 Inspections et mesures administratives
 
@@ -1005,7 +1330,7 @@ L’OFSP peut révoquer l’autorisation, la suspendre ou soumettre la poursuite
 
 **Objet**
 
-Le présent chapitre est applicable aux essais cliniques qui ne sont ni des essais cliniques de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés, ni des essais cliniques de transplantation.
+Le présent chapitre est applicable aux essais cliniques qui ne sont ni des essais cliniques de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés, ni des essais cliniques de transplantation.
 
 #### Art. 61
 
@@ -1015,15 +1340,18 @@ Le présent chapitre est applicable aux essais cliniques qui ne sont ni des essa
 
 Un essai clinique est de catégorie A lorsque:
 
-- a. l’intervention liée à la santé soumise à l’essai clinique ne comporte que des risques et des contraintes minimaux, ou que
+- a.[^61-1] l’intervention soumise à l’essai clinique ne comporte que des risques et des contraintes minimaux, ou que
 - b. le caractère standard de l’intervention est établi par une directive dont l’élaboration obéit à des critères de qualité reconnus internationalement.
 
 <sup>2</sup>
 
 Un essai clinique est de catégorie B:
 
-- a. lorsque l’intervention liée à la santé soumise à l’essai clinique comporte des risques et des contraintes plus que minimaux, et que
+- a.[^61-2] lorsque l’intervention soumise à l’essai clinique comporte des risques et des contraintes plus que minimaux, et que
 - b. le caractère standard de l’intervention n’est pas établi selon l’al. 1, let. b.
+
+[^61-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^61-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### Section 2 Procédures d’autorisation et de déclaration auprès de la commission d’éthique compétente
 
@@ -1033,11 +1361,18 @@ Un essai clinique est de catégorie B:
 
 Sont applicables par analogie:
 
-- a. pour la procédure d’autorisation pour les essais cliniques, les art. 24 à 29;
+- a.[^62-1] pour la procédure d’autorisation pour les essais cliniques, les art. 24 à 27, 29 et 36*a*;
+- a<sup>bis</sup>.[^62-2] pour la limitation de la durée de l’autorisation, l’art. 23*a*;
 - b. pour la déclaration des mesures de sécurité et de protection, l’art. 37, al. 1;
-- c. pour la déclaration et le rapport à la fin ou en cas d’arrêt ou d’interruption de l’essai clinique, l’art. 38, al. 1 à 4;
+- c.[^62-3] pour la déclaration de la première visite de la première personne participant à l’essai clinique ainsi que pour la déclaration et le rapport à la fin ou en cas d’arrêt prématuré, d’interruption ou de reprise de l’essai clinique, l’art. 38, al. 1 à 4;
 - d. pour le rapport sur la sécurité des personnes participant à l’essai clinique, l’art. 43, al. 1 et 2;
+- d<sup>bis</sup>.[^62-4] pour la déclaration et le rapport concernant les examens complémentaires au moyen de rayonnements ionisants, l’art. 44;
 - e. pour l’obligation de conservation, l’art. 45, al. 2.
+
+[^62-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-2]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-4]: Introduite par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 63
 
@@ -1061,9 +1396,9 @@ Sont considérés comme des événements indésirables graves les incidents qui:
 
 <sup>3</sup> Si cela est nécessaire pour garantir la sécurité et la santé des personnes participant à l’essai clinique, d’autres événements indésirables sont à désigner comme devant être documentés et déclarés dans le protocole de recherche ou à la demande de la commission d’éthique compétente.
 
-<sup>4</sup> Si, au cours d’un essai clinique multicentrique, des événements indésirables graves se produisent sur un lieu de réalisation, l’investigateur coordinateur remet la déclaration selon les al. 1 et 3 dans le même délai à la commission d’éthique compétente concernée.[^63-1]
+<sup>4</sup> Si, au cours d’un essai clinique multicentrique, des événements indésirables graves se produisent sur un lieu de réalisation, l’investigateur coordinateur remet également à la commission d’éthique concernée la déclaration visée aux al. 1 et 3 dans le même délai.[^63-1]
 
-[^63-1]: Erratum du 27 déc. 2013 ([RO 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
+[^63-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ## Chapitre 5 Enregistrement
 
@@ -1164,15 +1499,24 @@ La modification d’autres actes est réglée dans l’annexe 6.
 
 #### Art. 72
 
-**Disposition transitoire pour les essais cliniques non assujettis à autorisation selon l’ancien droit**
+**Dispositions transitoires relatives à la modification du 7 juin 2024**[^72-1]
 
-La commission d’éthique compétente rend une décision sur la demande d’autorisation d’un essai clinique non assujetti à autorisation selon l’ancien droit au sens de l’art. 67, al. 2, LRH dans les six mois à compter de la confirmation de la réception du dossier conforme aux exigences formelles.
+<sup>1</sup> Pour les essais cliniques en cours autorisés avant l’entrée en vigueur de la modification du 7 juin 2024, les délais prévus aux art. 23*a*, al. 1, 38, al. 2, 3<sup>e</sup> phrase, et 65*a*, al. 1, 2<sup>e</sup> phrase[^72-2], commencent à courir dès l’entrée en vigueur de la présente modification; pour les essais cliniques qui, avant l’entrée en vigueur de la présente modification, ne disposent que d’une des deux autorisations nécessaires, le délai prévu aux art. 23, al. 1<sup>bis</sup>, et 50, al. 1<sup>bis</sup>, commence à courir dès l’entrée en vigueur de la présente modification.
+
+<sup>2</sup> Pour les essais cliniques en cours autorisés avant l’entrée en vigueur de la modification du 7 juin 2024, l’ensemble des obligations de déclarer, de faire rapport et de documenter selon le chapitre 2, section 5, le chapitre 3, section 4, et le chapitre 4, section 2, peut être rempli selon l’ancien droit jusqu’à un an après l’entrée en vigueur de la présente modification.
+
+<sup>3</sup> Pour les essais cliniques autorisés avant l’entrée en vigueur de la modification du 7 juin 2024, les obligations en matière de responsabilité, de garantie et de conservation sont régies par l’ancien droit. Si l’autorisation de l’essai clinique a été octroyée pour une durée limitée, ces obligations sont régies, en cas de renouvellement de l’autorisation, par le nouveau droit.
+
+<sup>4</sup> Si, après l’entrée en vigueur de la modification du 7 juin 2024, un essai clinique de médicament autorisé relève, en vertu du nouveau droit, d’une autre catégorie selon l’art. 19, le promoteur peut, jusqu’à un an après l’entrée en vigueur de la modification du 7 juin 2024, demander une adaptation de la catégorie sous la forme d’une modification essentielle. Celle‑ci doit d’abord être soumise à Swissmedic, puis, après son approbation, à la commission d’éthique compétente.
+
+[^72-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^72-2]: Entre vigueur le 1<sup>er</sup> mars 2025 ([RU 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 73
 
-**Disposition transitoire relatives à l’obligation d’enregistrement**
+[^73-1]
 
-Le promoteur d’un essai clinique autorisé qui n’est pas terminé dans l’année qui suit l’entrée en vigueur de la LRH doit enregistrer dans les six mois les données visées à l’annexe 5, ch. 1, dans un registre au sens de l’art. 64, al. 1.
+[^73-1]: Abrogé par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 74
 
@@ -1180,45 +1524,47 @@ Le promoteur d’un essai clinique autorisé qui n’est pas terminé dans l’a
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2014.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 3, 5, 19 et 39 à 42)
 
 ## Règles et classification
 
-[^t-2]: Mise à jour par le ch. I de l’O du DFI du 24 mars 2017 ([RO 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)) et l’annexe ch. 1 de l’O du 25 oct. 2017, en vigueur depuis le 26 nov. 2017 ([RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+[^t-2]: Mise à jour par le ch. I de l’O du DFI du 24 mars 2017 ([RO 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), l’annexe ch. 1 de l’O du 25 oct. 2017 ([RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)) et le ch. II al. 1 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 1. Règles relatives à l’intégrité scientifique
 
-Les principes de base et procédures des Académies suisses des sciences relatives à l’intégrité dans la recherche scientifique sont applicables en leur version du 28 février 2008[^annex1-lvlu1-lvl1-1].
+Le code d’intégrité scientifique des Académies suisses des sciences est applicable dans sa version de mai 2021[^annex1-lvlu1-lvl1-1].
 
-[^annex1-lvlu1-lvl1-1]: Cette directive peut être obtenue contre paiement ou consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou être consultée gratuitement sur les sites suivants: www.bag.admin.ch &gt; Médecine & recherche &gt; Recherche sur l’être humain et www.academies-suisses.ch &gt; Publications &gt; Directives et Recommandations.
+[^annex1-lvlu1-lvl1-1]: [www.akademien-schweiz.ch](https://akademien-schweiz.ch/fr/publications/more) &gt; Publications &gt; Autres publications
 
 ### 2. Règles de bonnes pratiques cliniques
 
 Les règles de bonnes pratiques cliniques suivantes sont applicables:
 
 - 1\. pour les essais cliniques de médicaments et de transplants standardisés, la directive de la Conférence internationale sur l’harmonisation relative aux bonnes pratiques cliniques, dans sa version du 9 novembre 2016 (directive ICH)[^annex1-lvlu1-lvl2-1];
-- 2\. pour les essais cliniques de dispositifs au sens de l’art. 2*a*, al. 2, LPTh, les annexes VIII et X de la directive 93/42/CEE[^annex1-lvlu1-lvl2-2] et les annexes 6 et 7 de la directive 90/385/CEE[^annex1-lvlu1-lvl2-3] concrétisée par la norme EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]; la définition de l’événement indésirable grave (*Serious Adverse Event*) visé à l’art. 42 est régie par les *Guidelines on Medical Devices* (MEDDEV 2.7/3) de mai 2015[^annex1-lvlu1-lvl2-5];
-- 3\. pour les essais cliniques au sens des chapitres 3 et 4 de la présente ordonnance, la directive ICH est applicable par analogie.
+- 2\. pour les essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh, les annexes VIII et X de la directive 93/42/CEE[^annex1-lvlu1-lvl2-2] et les annexes 6 et 7 de la directive 90/385/CEE[^annex1-lvlu1-lvl2-3] concrétisée par la norme EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]; la définition de l’événement indésirable grave (*Serious Adverse Event*) visé à l’art. 42 est régie par les *Guidelines on Medical Devices* (MEDDEV 2.7/3) de mai 2015[^annex1-lvlu1-lvl2-5];
+- 3\. pour les essais cliniques au sens des chapitres 3 et 4, la directive ICH est applicable par analogie.
 
-[^annex1-lvlu1-lvl2-1]: Cette directive peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou sur les sites suivants: www.bag.admin.ch &gt; Médecine & recherche &gt; Recherche sur l’être humain et www.ich.org &gt; work products &gt; ICH Guidelines &gt; Efficacy Guidelines.
+[^annex1-lvlu1-lvl2-1]: Cette directive peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou sur les sites suivants: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Médecine & recherche &gt; Recherche sur l’être humain et [www.ich.org](http://www.ich.org) &gt; work products &gt; ICH Guidelines &gt; Efficacy Guidelines.
 [^annex1-lvlu1-lvl2-2]: Directive 93/42/CEE du Conseil, du 14 juin 1993, relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1, modifiée en dernier lieu par la directive 2007/47/CE, JO L 247 du 21.9.2007, p. 21.
 [^annex1-lvlu1-lvl2-3]: Directive 90/385/CEE du Conseil, du 20 juin 1990, concernant le rapprochement des législations des États membres relatives aux dispositifs médicaux implantables actifs, JO L 189 du 20.7.1990, p. 17, modifiée en dernier lieu par la directive 2007/47/CE, JO L 247 du 21.9.2007, p. 21.
-[^annex1-lvlu1-lvl2-4]: Cette norme peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne ou auprès de l’Institut suisse des produits thérapeutiques, 3003 Berne. Elle peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^annex1-lvlu1-lvl2-5]: Cette directive peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou à l’adresse suivante: www.ec.europa.eu &gt; dg health & consumer &gt; public health &gt; medical devices &gt; documents.
+[^annex1-lvlu1-lvl2-4]: Cette norme peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne ou auprès de Swissmedic, 3003 Berne. Elle peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch/fr/)
+[^annex1-lvlu1-lvl2-5]: Cette directive peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou à l’adresse suivante: [www.ec.europa.eu](http://www.ec.europa.eu) &gt; dg health & consumer &gt; public health &gt; medical devices &gt; documents.
 
 ### 3. Classification internationale des maladies
 
 La classification internationale des maladies de l’Organisation mondiale de la santé (*International Classification of Diseases*) est applicable en sa version de 2010 (ICD‑10)[^annex1-lvlu1-lvl3-1]. Est déterminant le groupe de maladies défini par un code à trois caractères.
 
-[^annex1-lvlu1-lvl3-1]: Cette classification peut être obtenue contre paiement ou consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou être consultée sur les sites suivants: www.bag.admin.ch &gt; Médecine & recherche &gt; Recherche sur l’être humain et www.who.int &gt; health topics &gt; Classifications.
+[^annex1-lvlu1-lvl3-1]: Cette classification peut être obtenue contre paiement ou consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou être consultée sur les sites suivants: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Médecine & recherche &gt; Recherche sur l’être humain et [www.who.int](http://www.who.int) &gt; Data &gt; Classifications.
 
-Annexe 2
+Annexe 2[^t-3]
 
 (art. 13)
 
 ## Montants de couverture
+
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 - 1\.
 
@@ -1230,31 +1576,45 @@ Annexe 2
 
 - 2\.
 
-  Le montant de couverture pour les autres essais cliniques est d’au moins:
+  Le montant de couverture pour tous les essais cliniques ne tombant pas sous le ch. 1 est d’au moins:
 
   - a. 1 million de francs par personne;
   - b. 50 000 francs pour les dommages matériels;
   - c. 10 millions de francs pour l’ensemble de l’essai clinique.
 
-Annexe 3*[^t-3]*
+Annexe 2<sup>bis</sup>[^t-4]
 
-(art. 24 et 27 à 29)
+(art. 19)
+
+## Modifications du produit de recherche présentant des risques mineurs
+
+[^t-4]: Introduite par le ch. II al. 3 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+Sont réputés présenter des risques mineurs:
+
+- 1\. les modifications apportées au conditionnement secondaire qui n’altèrent pas sa fonction de protection;
+- 2\. les modifications apportées au conditionnement primaire de préparations hors médicaments stériles et produits immunologiques, pour autant qu’il soit prouvé que la conservation reste garantie dans des conditions de stockage conformes à l’information professionnelle;
+- 3\. le conditionnement sous forme de capsules d’un médicament solide pour le reste inchangé, pour autant que l’absorption ne soit pas modifiée et qu’il soit prouvé que la conservation reste garantie dans des conditions de stockage conformes à l’information professionnelle.
+
+Annexe 3[^t-5]
+
+(art. 24, 27, 29 et 36*a*)
 
 ## Documents requis pour la procédure auprès de la commission d’éthique compétente pour les essais cliniques
 
-[^t-3]: Mise à jour par l’erratum du 27 déc. 2013 ([RO 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)) et l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^t-5]: Mise à jour par l’erratum du 27 déc. 2013 ([RO 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)), l’annexe 2 ch. 2 de l’O du 4 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) et le ch. II al. 1 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-### 1 Documents requis pour les essais cliniques de catégorie A de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
+### 1 Documents requis pour les essais cliniques de catégorie A de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
 
-- 1\.1 Formulaire de base incluant le résumé du protocole de recherche rédigé dans la langue nationale du lieu de réalisation et une motivation de la demande de classification dans la catégorie souhaitée;
+- 1\.1 Informations administratives incluant le résumé du protocole de recherche et une motivation de la demande de classification dans la catégorie souhaitée;
 - 1\.2 protocole de recherche;
 - 1\.3 cahier d’observation (*Case Report Form, CRF*);
-- 1\.4 formulaires relatifs à l’information et au consentement, ainsi que les documents relatifs au recrutement, notamment la déclaration ou les textes des déclarations;
+- 1\.4 documents relatifs à l’information, au consentement et au recrutement, notamment l’annonce ou les textes des annonces;
 - 1\.5 autres documents remis à la personne participant au projet de recherche;
 - 1\.6 données relatives au mode et au montant du dédommagement des personnes participant au projet de recherche;
 - 1\.7 pour les essais cliniques de médicaments, l’information professionnelle relative au produit;
 - 1\.8 pour les essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh déclarés conformément à l’art. 6, al. 3, ODim[^annex3-lvlu1-lvl1-1] dans sa version du 1<sup>er</sup> janvier 2002[^annex3-lvlu1-lvl1-2] en application de l’art. 108, al. 1, let. b, ODim, les données sur la conformité, l’usage prévu et le mode d’emploi fournies lors de la déclaration;
-- 1\.9 pour les essais cliniques qui n’utilisent pas de préparations originales, documentation de la conformité aux bonnes pratiques cliniques et à l’étiquetage correct des médicaments ou des dispositifs au sens de l’art. 2*a*, al. 2, LPTh;
+- 1\.9 pour les essais cliniques qui n’utilisent pas de préparations originales, documentation de la conformité aux bonnes pratiques cliniques et à l’étiquetage correct des médicaments ou des produits au sens de l’art. 2*a*, al. 2, LPTh;
 - 1\.10 curriculum vitæ de l’investigateur incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent l’essai clinique, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
 - 1\.11 données relatives aux infrastructures appropriées et disponibles au lieu de réalisation de l’essai clinique;
 - 1\.12 données relatives à la sécurité du traitement des données personnelles;
@@ -1265,35 +1625,35 @@ Annexe 3*[^t-3]*
 [^annex3-lvlu1-lvl1-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^annex3-lvlu1-lvl1-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
-### 2 Documents requis pour les essais cliniques des catégories B et C de médicaments, de dispositifs au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
+### 2 Documents requis pour les essais cliniques des catégories B et C de médicaments, de produits au sens de l’art. 2*a*, al. 2, LPTh ou de transplants standardisés
 
-- 2\.1 Formulaire de base incluant le résumé du protocole de recherche rédigé dans la langue nationale du lieu de réalisation et une motivation de la demande de classification dans la catégorie souhaitée;
+- 2\.1 Informations administratives incluant le résumé du protocole de recherche et une motivation de la demande de classification dans la catégorie souhaitée;
 - 2\.2 protocole de recherche;
 - 2\.3 cahier d’observation (*Case Report Form, CRF*);
-- 2\.4 formulaires relatifs à l’information et au consentement, ainsi que les documents relatifs au recrutement, notamment la déclaration ou les textes des déclarations;
+- 2\.4 documents relatifs à l’information, au consentement et au recrutement, notamment l’annonce ou les textes des annonces;
 - 2\.5 autres documents remis à la personne participant au projet de recherche;
 - 2\.6 données relatives au mode et au montant du dédommagement des personnes participant au projet de recherche;
 - 2\.7 pour les essais cliniques de médicaments de catégorie B, l’information professionnelle et la brochure de l’investigateur (*Investigator’s Brochure, IB*), uniquement en ce qui concerne les déviations de l’administration du produit;
 - 2\.8 pour les essais cliniques de médicaments de catégorie C, la brochure de l’investigateur (*Investigator’s Brochure, IB)*;
-- 2\.9 pour les essais cliniques de dispositifs au sens de l’art. 2*a*, al. 2, LPTh de catégorie C sans marque de conformité: les documents mentionnés dans l’annexe 4, ch. 3.4, let. a;
+- 2\.9 pour les essais cliniques de produits au sens de l’art. 2*a*, al. 2, LPTh de catégorie C sans marque de conformité: les documents mentionnés dans l’annexe 4, ch. 3.4, let. a;
 - 2\.10 pour les essais cliniques de classe C de produits au sens de l’art. 2*a*, al. 2, LPTh déclarés conformément à l’art. 6, al. 3, ODim[^annex3-lvlu1-lvl2-1] dans sa version du 1<sup>er</sup> janvier 2002[^annex3-lvlu1-lvl2-2] en application de l’art. 108, al. 1, let. b, ODim qui s’écartent de l’usage prévu ou du mode d’emploi: les documents mentionnés dans l’annexe 4, ch. 3.5, let. a à d;
 - 2\.11 curriculum vitæ de l’investigateur incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent l’essai clinique, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
 - 2\.12 données relatives aux infrastructures appropriées et disponibles au lieu de réalisation de l’essai clinique;
 - 2\.13 données relatives à la sécurité du traitement des données personnelles;
 - 2\.14 accords entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur, notamment en ce qui concerne le financement de l’essai clinique, la rémunération de l’investigateur et la publication;
 - 2\.15 certificat d’assurance ou autre attestation de garantie d’éventuels dommages, y compris les accords qui s’y rapportent entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur;
-- 2\.16 pour les essais cliniques de thérapie génique, les données mentionnées dans l’annexe 4, ch. 4;
+- 2\.16 pour les essais cliniques de thérapie génique, les données mentionnées dans l’annexe 4, ch. 1;
 - 2\.17 décisions ou avis éventuels rendus sur l’essai clinique par des commissions d’éthique à l’étranger, y compris les éventuelles objections et leurs motivations.
 
 [^annex3-lvlu1-lvl2-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^annex3-lvlu1-lvl2-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
-### 3 Documents requis pour les essais cliniques de transplantation et les essais cliniques sans médicament ou dispositif au sens de l’art. 2*a*, al. 2, LPTh
+### 3 Documents requis pour les essais cliniques de transplantation et les essais cliniques sans médicament ou produit au sens de l’art. 2*a*, al. 2, LPTh
 
-- 3\.1 Formulaire de base incluant le résumé du protocole de recherche rédigé dans la langue nationale du lieu de réalisation et une motivation de la demande de classification dans la catégorie souhaitée;
+- 3\.1 Informations administratives incluant le résumé du protocole de recherche et une motivation de la demande de classification dans la catégorie souhaitée;
 - 3\.2 protocole de recherche;
 - 3\.3 cahier d’observation (*Case Report Form, CRF*);
-- 3\.4 formulaires relatifs à l’information et au consentement, ainsi que les documents relatifs au recrutement, notamment la déclaration ou les textes des déclarations;
+- 3\.4 documents relatifs à l’information, au consentement et au recrutement, notamment l’annonce ou les textes des annonces;
 - 3\.5 autres documents remis à la personne participant au projet de recherche;
 - 3\.6 données relatives au mode et au montant du dédommagement des personnes participant au projet de recherche;
 - 3\.7 pour les essais cliniques de transplantation d’organes, de tissus ou de cellules d’origine humaine, les données relatives à l’information et au consentement du donneur;
@@ -1315,66 +1675,60 @@ Annexe 3*[^t-3]*
 
 ### 4 Documents à fournir aux commissions d’éthiques concernées pour les essais cliniques multicentriques
 
-- 4\.1 Formulaire de base incluant le résumé du protocole de recherche rédigé dans la langue nationale du lieu de réalisation et une motivation de la demande de classification dans la catégorie souhaitée;
+- 4\.1 Informations administratives incluant le résumé du protocole de recherche et une motivation de la demande de classification dans la catégorie souhaitée;
 - 4\.2 protocole de recherche;
-- 4\.3 formulaires relatifs à l’information et au consentement, ainsi que les documents relatifs au recrutement, notamment la déclaration ou les textes des déclarations utilisés au lieu de réalisation concerné;
+- 4\.3 documents relatifs à l’information, au consentement et au recrutement, notamment l’annonce ou les textes des annonces, utilisés au lieu de réalisation concerné;
 - 4\.4 curriculum vitæ de l’investigateur actif au lieu de réalisation concerné, incluant l’attestation de ses connaissances et de son expérience, ainsi qu’une liste des autres personnes qui accomplissent l’essai clinique au lieu de réalisation concerné, avec leurs fonctions ainsi que leurs connaissances professionnelles en la matière;
 - 4\.5 données relatives aux infrastructures appropriées et disponibles au lieu de réalisation concerné de l’essai clinique;
 - 4\.6 accords entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur coordinateur ainsi que les investigateurs sur les autres lieux de réalisation, notamment en ce qui concerne la rémunération de l’investigateur actif au lieu de réalisation concerné;
 - 4\.7 certificat d’assurance ou autre attestation de garantie d’éventuels dommages survenus au lieu de réalisation concerné, y compris les accords qui s’y rapportent entre le promoteur, ou les tiers qu’il a mandatés, et l’investigateur.
 
-### 5 Documents supplémentaires requis pour les essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants entrant dans la catégorie A et pour les examens de sources de rayonnement
+### 5. Documents supplémentaires requis pour les essais cliniques de médicaments susceptibles d’émettre des rayonnements ionisants entrant dans la catégorie A et pour les examens complémentaires au moyen de rayonnements ionisants
 
 - 5\.1 Données sur les aspects essentiels de la radioprotection, en particulier un calcul ou une estimation de la dose efficace, des doses délivrées aux organes et des éventuelles doses tumorales;
 - 5\.2 les autorisations nécessaires en vertu de l’art. 28 de la loi du 22 mars 1991 sur la radioprotection[^annex3-lvlu1-lvl5-1].
 
 [^annex3-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 
-### 6 Documents supplémentaires requis pour les essais cliniques comportant des examens à l’aide de sources de rayonnement et nécessitant un avis de l’OFSP selon l’art. 28, al. 2
+### 6. Documents supplémentaires requis pour les essais cliniques comportant des examens complémentaires au moyen de rayonnements ionisants et nécessitant un avis de l’OFSP selon l’art. 36*a*, al. 4
 
-- 6\.1 Données relatives aux propriétés radiopharmaceutiques, notamment la pharmacocinétique, la qualité, la stabilité, la pureté radiochimique et la pureté radionucléidique;
-- 6\.2 pour les produits radiopharmaceutiques autorisés, l’information professionnelle;
-- 6\.3 pour les produits radiopharmaceutiques non autorisés, les données sur le procédé de fabrication et le contrôle de la qualité du produit, le nom des personnes responsables et des informations sur leurs qualifications professionnelles;
-- 6\.4 le nom des personnes responsables de l’utilisation du produit radiopharmaceutique sur l’être humain et des informations sur leurs qualifications professionnelles;
-- 6\.5 les données selon le formulaire de l’OFSP pour les essais cliniques de produits radiopharmaceutiques ou de substances radiomarquées[^annex3-lvlu1-lvl6-1].
+- 6\.1
 
-[^annex3-lvlu1-lvl6-1]: Ce formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, Division de la radioprotection, 3003 Berne, ou être consulté sur le site de l’office à l’adresse suivante: www.bag.admin.ch &gt; Vivre en bonne santé &gt; Environnement & santé &gt; Rayonnement, radioactivité & son.
+  Les données demandées dans le formulaire de l’OFSP pour les essais cliniques de produits radiopharmaceutiques ou de substances radiomarquées[^annex3-lvlu1-lvl6-1]. En font partie:
 
-Annexe 4*[^t-4]*
+  - a. les données relatives aux propriétés, notamment la pharmacocinétique, la qualité, la stabilité, la pureté radiochimique et la pureté du radionucléide;
+  - b. les données sur la dose efficace et sur les doses aux organes;
+  - c. pour les produits radiopharmaceutiques autorisés, l’information professionnelle;
+  - d. pour les produits radiopharmaceutiques ou les substances radiomarquées non autorisés, les données sur le procédé de fabrication ainsi que des informations sur les qualifications professionnelles des personnes responsables;
+  - e. les informations concernant les personnes responsables de l’utilisation du produit radiopharmaceutique sur l’être humain ainsi que leurs qualifications professionnelles.
+
+- 6\.2 Les données sur les propriétés du dispositif médical, en particulier le type et l’intensité des rayonnements ionisants, ainsi que sur la nature des écarts par rapport au mode d’emploi.
+
+[^annex3-lvlu1-lvl6-1]: Ce formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, division Radioprotection, 3003 Berne, ou être consulté sur le site de l’office à l’adresse suivante: [www.ofsp.admin.ch](https://www.bag.admin.ch/bag/fr/home/gesetze-und-bewilligungen/gesuche-bewilligungen/bewilligungen-aufsicht-im-strahlenschutz.html) &gt; Lois & autorisations &gt; Demandes & autorisations &gt; Radioprotection: Autorisations, conditions et surveillance.
+
+Annexe 4[^t-6]
 
 (art. 31, 34 à 36, 54 et 55)
 
-## Documents requis pour la procédure auprès de l’Institut suisse des produits thérapeutiques et auprès de l’OFSP pour les essais cliniques de médicaments, de dispositifs selon l’art. 2*a*, al. 2, LPTh ou de transplants standardisés, pour les essais de thérapie génique, pour les essais avec des organismes génétiquement modifiés ou pathogènes et pour les essais cliniques de transplantation
+## Documents requis pour la procédure auprès de Swissmedic et auprès de l’OFSP pour les essais cliniques de médicaments, de produits selon l’art. 2*a*, al. 2, LPTh ou de transplants standardisés, pour les essais de thérapie génique, pour les essais avec des organismes génétiquement modifiés ou pathogènes et pour les essais cliniques de transplantation
 
-[^t-4]: Mise à jour par l’annexe 2 ch. 2 de l’O du 4 mai 2022, en vigueur depuis le 26 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^t-6]: Mise à jour par l’annexe 2 ch. 2 de l’O du 4 mai 2022 ([RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) et le ch. II al. 1 de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-### 1 Documents requis pour les essais cliniques de catégorie B de médicaments et de transplants standardisés
+### 1. Documents requis pour les essais cliniques de catégories B et C de médicaments ou de transplants standardisés, les essais de thérapie génique ainsi que les essais avec des organismes génétiquement modifiés ou pathogènes
 
-- 1\.1 Formulaire de base;
+- 1\.1 Informations administratives;
 - 1\.2 protocole de recherche;
-- 1\.3 information professionnelle relative au médicament ou au transplant standardisé;
-- 1\.4 documents relatifs à la qualité du médicament, uniquement en ce qui concerne les modifications éventuelles de sa composition ou de sa fabrication;
-- 1\.5 brochure de l’investigateur (*Investigator’s Brochure, IB*), uniquement en ce qui concerne les modifications de l’administration du médicament;
-- 1\.6 documentation de la conformité aux bonnes pratiques de fabrication (*Good Manufacturing Pra**c**tice, GMP*);
-- 1\.7 documentation de la conformité à l’étiquetage correct;
-- 1\.8 éventuelles décisions relatives à l’essai clinique prises par des autorités chargées de la surveillance des médicaments dans d’autres pays, incluant d’éventuelles charges et leur motivation;
-- 1\.9 informations sur d’éventuelles demandes pendantes devant une commission d’éthique en Suisse, et sur d’éventuelles décisions de commissions d’éthique en Suisse.
+- 1\.3 documents relatifs au mode d’utilisation, à la sécurité et à l’analyse bénéfice-risque des produits de recherche et des produits soumis à l’essai sur la base des données cliniques et non cliniques;
+- 1\.4 documents relatifs à la qualité et à la fabrication des produits de recherche et des produits soumis à l’essai, y compris attestation de la conformité aux bonnes pratiques de fabrication (*Good Manufacturing Practices, GMP*);
+- 1\.5 documentation de la conformité à l’étiquetage correct;
+- 1\.6 informations sur d’éventuelles procédures d’autorisation pendantes ou achevées auprès d’autorités chargées de la surveillance des médicaments dans d’autres pays;
+- 1\.7 informations sur d’éventuelles procédures d’autorisation pendantes ou achevées auprès d’une commission d’éthique en Suisse.
 
-### 2 Documents requis pour les essais cliniques de catégorie C de médicaments et de transplants standardisés
+### 2 …
 
-- 2\.1 Formulaire de base;
-- 2\.2 protocole de recherche;
-- 2\.3 documents relatifs à la qualité du médicament ou du transplant standardisé;
-- 2\.4 brochure de l’investigateur (*Investigator’s Brochure, IB*) incluant des données relatives à l’évaluation des risques; si le médicament testé est autorisé pour l’utilisation prévue aux fins de l’essai dans un pays ayant un système comparable de contrôle des médicaments, l’information professionnelle correspondante peut être fournie; pour les essais cliniques dans lesquels le médicament ou le transplant standardisé testé est utilisé pour la première fois sur des personnes, les études mentionnées dans la brochure de l’investigateur doivent en outre être fournies;
-- 2\.5 pour les essais cliniques de transplants standardisés et de thérapie génique, les documents relatifs à la préclinique et à la toxicologie;
-- 2\.6 documentation de la conformité aux bonnes pratiques de fabrication (*Good Manufacturing Pra**c**tice, GMP*);
-- 2\.7 documentation de la conformité à l’étiquetage correct;
-- 2\.8 éventuelles décisions relatives à l’essai clinique prises par des autorités chargées de la surveillance des médicaments dans d’autres pays, incluant d’éventuelles charges et leur motivation;
-- 2\.9 informations sur d’éventuelles demandes pendantes devant une commisson d’éthique en Suisse, et sur d’éventuelles décisions de commissions d’éthique en Suisse.
+### 3 Documents requis pour les essais cliniques de catégorie C de produits au sens de l’art. 2*a*, al. 2, LPTh
 
-### 3 Documents requis pour les essais cliniques de catégorie C de dispositifs au sens de l’art. 2*a*, al. 2, LPTh
-
-- 3\.1 Formulaire de base;
+- 3\.1 Informations administratives;
 - 3\.2 protocole de recherche;
 - 3\.3 cahier d’observation (*Case Report Form, CRF*);
 - 3\.4
@@ -1382,7 +1736,7 @@ Annexe 4*[^t-4]*
   pour les essais cliniques d’un produit au sens de l’art. 2*a*, al. 2, LPTh n’ayant pas été déclaré conformément à l’art. 6, al. 3, ODim[^annex4-lvlu1-lvl3-1] dans sa version du 1<sup>er</sup> janvier 2002[^annex4-lvlu1-lvl3-2] en application de l’art. 108, al. 2, let. b, ODim, la documentation qui s’y rapporte incluant:
 
   - a. la brochure de l’investigateur *(Investigator’s Brochure, IB)* avec une liste des informations cliniques et non cliniques actuelles relatives au produit à tester et à ses composants,
-  - b. la liste des normes applicables aux dispositifs au sens de l’art. 2*a*, al. 2, LPTh et la description de tous les écarts,
+  - b. la liste des normes applicables aux produits au sens de l’art. 2*a*, al. 2, LPTh et la description de tous les écarts,
   - c. la documentation et la motivation des éventuels écarts par rapport à la norme ISO 14155,
   - d. la déclaration, respectivement la libération du fabricant au sens de l’annexe VIII de la directive 93/42/CEE[^annex4-lvlu1-lvl3-3] ou de l’annexe 6 de la directive 90/385/CEE[^annex4-lvlu1-lvl3-4],
   - e. déclaration de mise à disposition des documents mentionnés dans l’annexe VIII de la directive 93/42/CEE ou de l’annexe 6 de la directive 90/385/CEE,
@@ -1392,14 +1746,14 @@ Annexe 4*[^t-4]*
 
   pour les essais cliniques d’un produit au sens de l’art. 2*a*, al. 2, LPTh déclaré conformément à l’art. 6, al. 3, ODim dans sa version du 1<sup>er</sup> janvier 2002 en application de l’art. 108, al. 1, let. b, ODim qui s’écartent de l’usage prévu ou du mode d’emploi, la documentation qui s’y rapporte incluant:
 
-  - a. les données sur la conformité du dispositif au sens de l’art. 2*a*, al. 2, LPTh,
+  - a. les données sur la conformité du produit au sens de l’art. 2*a*, al. 2, LPTh,
   - b. l’information sur le produit (notice d’emballage),
   - c. l’analyse des risques de la nouvelle utilisation et les mesures de sécurité qui en découlent,
-  - d. d’autres éléments figurant dans la brochure de l’investigateur *(Invest**i**gator’s Brochure, IB)* et qui concernent la nouvelle utilisation,
-  - e. une liste des normes pour dispositifs au sens de l’art. 2*a*, al. 2, LPTh applicables et la description des éventuelles déviations dues à la nouvelle utilisation,
+  - d. d’autres éléments figurant dans la brochure de l’investigateur *(Investigator’s Brochure, IB)* et qui concernent la nouvelle utilisation,
+  - e. une liste des normes pour produits au sens de l’art. 2*a*, al. 2, LPTh applicables et la description des éventuelles déviations dues à la nouvelle utilisation,
   - f. la documentation et la motivation des éventuels écarts par rapport à la norme ISO 14155;
 
-- 3\.6 feuille d’information et déclaration du consentement éclairé;
+- 3\.6 documents relatifs à l’information et au consentement;
 - 3\.7 éventuelles décisions relatives à l’essai clinique prises par des autorités chargées de la surveillance des médicaments dans d’autres pays, incluant d’éventuelles conditions et leur motivation;
 - 3\.8 informations sur d’éventuelles demandes pendantes devant une commisson d’éthique en Suisse, et sur d’éventuelles décisions de commissions d’éthique en Suisse.
 
@@ -1408,33 +1762,28 @@ Annexe 4*[^t-4]*
 [^annex4-lvlu1-lvl3-3]: Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1; modifiée en dernier lieu par la directive 2007/47/CEE, JO L 247 du 21.9.2007, p. 21.
 [^annex4-lvlu1-lvl3-4]: Directive 90/385/CEE du Conseil du 20 juin 1990 concernant le rapprochement des législations des Etats membres relatives aux dispositifs médicaux implantables actifs, JO L 189 du 20.7.1990, p. 17; modifiée en dernier lieu par la directive 2007/47/CEE, JO L 247 du 21.9.2007, p. 21.
 
-### 4 Documents supplémentaires requis pour les essais cliniques de catégories B et C de thérapie génique ou avec des organismes génétiquement modifiés ou pathogènes
+### 4 …
 
-- 4\.1 Données sur les risques liés au produit soumis à l’essai avec des organismes génétiquement modifiés ou pathogènes;
-- 4\.2 évaluation des risques liés à la réalisation de l’essai clinique pour la protection de l’être humain et de l’environnement;
-- 4\.3 description des mesures de sécurité nécessaires à la protection de l’être humain, de l’animal et de l’environnement, notamment les mesures permettant d’empêcher la libération de microorganismes dans l’environnement pendant et après la transplantation, lors du transport, du stockage et du traitement des déchets.
-
-### 5 Documents supplémentaires requis pour les essais cliniques de médicaments ou de dispositifs au sens de l’art. 2*a*, al. 2, LPTh susceptibles d’émettre des rayonnements ionisants
+### 5. Documents supplémentaires requis pour les essais cliniques de médicaments susceptibles d’émettre des rayonnements ionisants
 
 - 5\.1 Données sur les aspects essentiels de la radioprotection, en particulier un calcul ou une estimation de la dose efficace, des doses délivrées aux organes et des éventuelles doses tumorales;
 - 5\.2 les autorisations nécessaires en vertu de l’art. 28 de la loi du 22 mars 1991 sur la radioprotection[^annex4-lvlu1-lvl5-1];
 - 5\.3
 
-  pour les médicament ou dispositifs au sens de l’art. 2*a*, al. 2, LPTh qui contiennent des sources radioactives[^annex4-lvlu1-lvl5-2]:
+  pour les médicaments susceptibles d’émettre des rayonnements ionisants: les données demandées dans le formulaire de l’OFSP pour les essais cliniques de produits radiopharmaceutiques ou de substances radiomarquées[^annex4-lvlu1-lvl5-2]. En font partie:
 
-  - a. les données relatives aux propriétés radiopharmaceutiques, notamment la pharmacocinétique, la qualité, la stabilité, la pureté radiochimique et l’unité d’activité du radionucléide,
-  - b. pour les produits radiopharmaceutiques autorisés, l’information professionnelle,
-  - c. pour les produits radiopharmaceutiques non autorisés, les données sur le procédé de fabrication et le contrôle de la qualité du produit, le nom des personnes responsables et des informations sur leurs qualifications professionnelles,
-  - d. les noms des personnes responsables de l’utilisation du produit radiopharmaceutique sur l’être humain et des informations sur leurs qualifications professionnelles,
-  - e. les données selon le formulaire de l’OFSP pour les essais cliniques de produits radiopharmaceutiques ou de substances radiomarquées[^annex4-lvlu1-lvl5-3].
+  - a. les données relatives aux propriétés, notamment la pharmacocinétique, la qualité, la stabilité, la pureté radiochimique et la pureté du radionucléide,
+  - b. les données sur la dose efficace et sur les doses aux organes,
+  - c. pour les produits radiopharmaceutiques autorisés, l’information professionnelle,
+  - d. pour les produits radiopharmaceutiques ou les substances radiomarquées non autorisés, les données sur le procédé de fabrication ainsi que des informations sur les qualifications professionnelles des personnes responsables,
+  - e. les informations concernant les personnes responsables de l’utilisation du produit radiopharmaceutique sur l’être humain ainsi que leurs qualifications professionnelles.
 
 [^annex4-lvlu1-lvl5-1]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex4-lvlu1-lvl5-2]: Nouvelle expression selon l’annexe 11 ch. 6 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^annex4-lvlu1-lvl5-3]: Ce formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, Division de la radioprotection, 3003 Berne, ou être consulté auprès de l’office à l’adresse suivante: www.bag.admin.ch &gt; Vivre en bonne santé &gt; Environnement & santé &gt; Rayonnement, radioactivité & son.
+[^annex4-lvlu1-lvl5-2]: Ce formulaire peut être obtenu auprès de l’Office fédéral de la santé publique, division Radioprotection, 3003 Berne, ou être consulté auprès de l’office à l’adresse suivante: [www.ofsp.admin.ch](https://www.bag.admin.ch/bag/fr/home/gesetze-und-bewilligungen/gesuche-bewilligungen/bewilligungen-aufsicht-im-strahlenschutz.html) &gt; Lois & autorisations &gt; Demandes & autorisations &gt; Radioprotection: Autorisations, conditions et surveillance.
 
 ### 6 Documents requis pour les essais cliniques de catégorie C de transplantation d’organes, de tissus ou de cellules d’origine humaine
 
-- 6\.1 Formulaire de base;
+- 6\.1 Informations administratives;
 - 6\.2 protocole de recherche;
 - 6\.3 documentation de l’origine des organes, des tissus et des cellules utilisés;
 - 6\.4 documents relatifs à la qualité des organes, des tissus et des cellules utilisés, en particulier les tests effectués;
@@ -1454,7 +1803,7 @@ Annexe 5
 
 Les données correspondant à la série minimale de données fixée par l’OMS dans la version 1.2.1[^annex5-lvlu1-lvl1-1] doivent être inscrites dans un registre selon l’art. 64, al. 1.
 
-[^annex5-lvlu1-lvl1-1]: La série minimale de données peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou sur les sites suivants: www.bag.admin.ch &gt; Médecine & recherche &gt; Recherche sur l’être humain et www.who.int &gt; Programmes and projects &gt; Clinical trial international registry platform &gt; Registry network.
+[^annex5-lvlu1-lvl1-1]: La série minimale de données peut être consultée gratuitement auprès de l’Office fédéral de la santé publique, 3003 Berne, ou sur les sites suivants: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Médecine & recherche &gt; Recherche sur l’être humain et [www.who.int](http://www.who.int) &gt; Programmes and projects &gt; Clinical trial international registry platform &gt; Registry network.
 
 ### 2. Données à enregistrer dans la banque de données complémentaire
 
@@ -1475,6 +1824,6 @@ Annexe 6
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annex6-lvlu1-1]
+…[^annex6-lvlu1-1]
 
 [^annex6-lvlu1-1]: Les mod. peuvent être consultées au [RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643).

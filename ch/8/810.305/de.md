@@ -4,20 +4,20 @@ title: Verordnung vom 20. September 2013 über klinische Versuche mit Ausnahme k
 short: KlinV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/643"
 language: de
-version: 2022-05-26
+version: 2024-11-01
 adopted: 2013-09-20
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20220526-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20220526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/643/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2013-643-20241101-de-xml-26.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/643/20241101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über klinische Versuche mit Ausnahme klinischer Versuche mit Medizinprodukten****
+# Verordnung über klinische Versuche mit Ausnahme klinischer Versuche mit Medizinprodukten
 
 (Verordnung über klinische Versuche; KlinV)[^t-1]
 
-vom 20. September 2013 (Stand am 26. Mai 2022)
+vom 20. September 2013 (Stand am 1. November 2024)
 
 [^t-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 
@@ -53,26 +53,26 @@ Diese Verordnung regelt:
   - 4\. klinische Versuche die keine klinischen Versuche nach Ziffern 1 bis 3 sind;
 
 - b. die Bewilligungs- und Meldeverfahren für klinische Versuche;
-- c. die Aufgaben und Zuständigkeiten der Ethikkommissionen für die Forschung (Ethikkommissionen), des Schweizerischen Heilmittelinstituts (Institut) sowie des Bundesamtes für Gesundheit (BAG) im Zusammenhang mit den Bewilligungs- und Meldeverfahren;
+- c.[^1-6] die Aufgaben und Zuständigkeiten der Ethikkommissionen für die Forschung (Ethikkommissionen), des Schweizerischen Heilmittelinstituts (Swissmedic) sowie des Bundesamtes für Gesundheit (BAG) im Zusammenhang mit den Bewilligungs- und Meldeverfahren;
 - d. die Registrierung klinischer Versuche sowie den Zugang der Öffentlichkeit zum Register.
 
 <sup>2</sup>
 
-Anwendbar sind:
+Die Durchführung folgender klinischer Versuche ist nicht Gegenstand dieser Verordnung:
 
-- a.[^1-6] für klinische Versuche mit Medizinprodukten nach Artikel 1 MepV und Artikel 1 der Verordnung vom 4. Mai 2022[^1-7] über In-vitro-Diagnostika: die Verordnung vom 1. Juli 2020[^1-8] über klinische Versuche mit Medizinprodukten;
-- b. für klinische Versuche der Xenotransplantation: die Xenotransplantationsverordnung vom 16. März 2007[^1-9].[^1-10]
+- a. klinische Versuche mit Medizinprodukten nach Artikel 1 MepV und Artikel 1 der Verordnung vom 4. Mai 2022[^1-7] über In‑vitro-Diagnostika; für sie gilt die Verordnung vom 1. Juli 2020[^1-8] über klinische Versuche mit Medizinprodukten (KlinV-Mep);
+- b. klinische Versuche der Xenotransplantation; für sie gilt die Xenotransplantationsverordnung vom 16. März 2007[^1-9].[^1-10]
 
 [^1-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
 [^1-2]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^1-3]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^1-4]: Ausdruck gestrichen gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, mit Wirkung seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)). Die Änderung wurde im ganzen Erlass berücksichtigt.
 [^1-5]: Ausdruck gemäss Anhang Ziff. 2 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^1-6]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^1-6]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^1-7]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 [^1-8]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
 [^1-9]: [SR 810.213](https://fedlex.data.admin.ch/eli/cc/2007/283)
-[^1-10]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
+[^1-10]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 2
 
@@ -80,30 +80,38 @@ Anwendbar sind:
 
 Im Sinne dieser Verordnung gelten als:
 
-- a. klinischer Versuch: Forschungsprojekt mit Personen, das diese prospektiv einer gesundheitsbezogenen Intervention zuordnet, um deren Wirkungen auf die Gesundheit oder auf den Aufbau und die Funktion des menschlichen Körpers zu untersuchen;
-- b. *gesundheitsbezogene Intervention:* präventive, diagnostische, therapeutische, palliative oder rehabilitative Handlung, die im Rahmen eines klinischen Versuchs untersucht wird;
+- a.[^2-2] *klinischer Versuch:* Forschungsprojekt mit Personen, das diese prospektiv einer Intervention oder mehreren Interventionen zuordnet, um deren Wirkungen auf die Gesundheit oder auf den Aufbau und die Funktion des menschlichen Körpers zu untersuchen;
+- b.[^2-3] *Intervention**:* jede Handlung, die an der teilnehmenden Person vorgenommen wird und deren Wirkung auf diese Person untersucht werden soll;
 - c.
 
-  *minimale Risiken und Bela**s**tungen:* Risiken und Belastungen, die sich unter Berücksichtigung der Verletzbarkeit der teilnehmenden Personen und der konkreten Umstände in ihrer Intensität und Qualität nur geringfügig und vorübergehend auf die Gesundheit der teilnehmenden Personen auswirken; mit minimalen Risiken und Belastungen können namentlich verbunden sein:
+  *minimale Risiken und Belastungen:* Risiken und Belastungen, die sich unter Berücksichtigung der Verletzbarkeit der teilnehmenden Personen und der konkreten Umstände in ihrer Intensität und Qualität nur geringfügig und vorübergehend auf die Gesundheit der teilnehmenden Personen auswirken; mit minimalen Risiken und Belastungen können namentlich verbunden sein:
 
   - 1\. Befragungen und Beobachtungen,
   - 2\. periphere venöse oder kapillare Blutentnahmen sowie kleinflächige Stanzbiopsien der Haut,
   - 3\. die Entnahme oder Abgabe von Körpersubstanzen ohne invasive Massnahmen, insbesondere Speichel-, Urin- und Stuhlproben,
   - 4\. Abstriche,
   - 5\. Magnetresonanztomographien ohne Kontrastmittel, Ultraschalluntersuchungen oder Elektrogramme,
-  - 6\.[^2-2]
+  - 6\.[^2-4]
 
-    Untersuchungen mit ionisierender Strahlung, sofern die effektive Dosis unter 5 mSv pro Forschungsprojekt und teilnehmender Person liegt und:
+    Begleituntersuchungen mit ionisierender Strahlung, sofern die effektive Dosis unter 5 mSv pro Forschungsprojekt und teilnehmende Person liegt, kein Kontrastmittel angewendet wird und:
 
-    - – die dazu angewendeten Arzneimittel zugelassen oder zulassungsbefreit sind, oder
-    - – die Produkte nach Artikel 1 MepV[^2-3] ein Konformitätskennzeichen aufweisen und kein Kontrastmittel angewendet wird;
+    - – die dazu eingesetzten Radiopharmazeutika zulassungskonform angewendet werden oder zulassungsbefreit sind oder
+    - – die Produkte nach Artikel 1 MepV[^2-5] ein Konformitätskennzeichen nach Artikel 13 MepV aufweisen und gemäss Gebrauchsanweisung angewendet werden;
 
 - d. *Sponsor:* Person oder Institution mit Sitz oder Vertretung in der Schweiz, die für die Veranlassung eines klinischen Versuchs, namentlich für dessen Einleitung, Management und Finanzierung in der Schweiz die Verantwortung übernimmt;
-- e. *Prüfperson:* Person, die in der Schweiz für die praktische Durchführung des klinischen Versuchs sowie für den Schutz der teilnehmenden Personen vor Ort verantwortlich ist; wenn eine Prüfperson für die Veranlassung eines klinischen Versuchs in der Schweiz die Verantwortung übernimmt, ist sie zugleich Sponsor.
+- e. *Prüfperson:* Person, die in der Schweiz für die praktische Durchführung des klinischen Versuchs sowie für den Schutz der teilnehmenden Personen vor Ort verantwortlich ist; wenn eine Prüfperson für die Veranlassung eines klinischen Versuchs in der Schweiz die Verantwortung übernimmt, ist sie zugleich Sponsor;
+- f.[^2-6] *Überschussinformationen:* Personenbezogene Ergebnisse, insbesondere Zufallsbefunde, die im Rahmen eines klinischen Versuchs anfallen und die weder für die Durchführung desselben noch für die Beantwortung der wissenschaftlichen Fragestellung benötigt werden;
+- g.[^2-7] *Prüfpräparat:* Produkt, welches in einem klinischen Versuch mit Arzneimitteln untersucht oder als Vergleichspräparat, auch als Placebo, eingesetzt wird;
+- h.[^2-8] *Placebo:* Produkt ohne Wirkstoff.
 
 [^2-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten, in Kraft seit 26. Mai 2021 ([AS 2020 3033](https://fedlex.data.admin.ch/eli/oc/2020/553)).
-[^2-2]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^2-3]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-5]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^2-6]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-7]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^2-8]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 2. Abschnitt: Grundsätze
 
@@ -120,7 +128,9 @@ Der Sponsor und die Prüfperson sowie die weiteren am klinischen Versuch beteili
 - c. Forschungstätigkeiten ungerechtfertigt zu behindern oder zu verhindern;
 - d. die Aufdeckung wissenschaftlichen Fehlverhaltens zu verhindern oder zu sanktionieren.
 
-<sup>2</sup> Anwendbar sind die Grundsätze und Verfahrensregeln über die wissenschaftliche Integrität der Akademien der Wissenschaften Schweiz gemäss Anhang 1 Ziffer 1. In begründeten Fällen können andere anerkannte, gleichwertige Richtlinien zur wissenschaftlichen Integrität angewendet werden.
+<sup>2</sup> Anwendbar ist der Kodex zur wissenschaftlichen Integrität der Akademien der Wissenschaften Schweiz gemäss Anhang 1 Ziffer 1. In begründeten Fällen können andere anerkannte, gleichwertige Richtlinien zur wissenschaftlichen Integrität angewendet werden.[^3-1]
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 4
 
@@ -131,6 +141,16 @@ Der Sponsor und die Prüfperson eines klinischen Versuchs haben die wissenschaft
 - a. legen sie eine Fragestellung fest, die auf dem aktuellen Stand der Wissenschaft beruht;
 - b. wenden sie eine geeignete wissenschaftliche Methodik an; und
 - c. stellen sie die Verfügbarkeit der für den klinischen Versuch erforderlichen Ressourcen und die nötige Infrastruktur sicher.
+
+#### Art. 4a
+
+**Einschluss relevanter Personengruppen**[^4a-1]
+
+<sup>1</sup> Der Sponsor und die Prüfperson müssen gewährleisten, dass die Kriterien zur Auswahl der zur Teilnahme vorgesehenen Personen und die Versuchsanordnung eine angemessene Repräsentation der Personengruppen, die für die Beantwortung der wissenschaftlichen Fragestellung relevant sind, erlauben; dabei berücksichtigen sie insbesondere die Verteilung der Geschlechter und die Altersgruppen.
+
+<sup>2</sup> Der Ausschluss oder die beabsichtigte Unterrepräsentation relevanter Personengruppen muss in den Gesuchsunterlagen ausgewiesen und begründet werden.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 5
 
@@ -150,19 +170,25 @@ Der Sponsor und die Prüfperson eines klinischen Versuchs haben die wissenschaft
 
 Die Prüfperson eines klinischen Versuchs muss:
 
-- a. eine hinreichende Ausbildung in der Guten Klinischen Praxis sowie die für den klinischen Versuch notwendigen fachlichen Kenntnisse und Erfahrungen aufweisen; und
-- b. über Kenntnisse der gesetzlichen Voraussetzungen eines klinischen Versuchs verfügen oder diese mittels Einbezug entsprechender Expertise gewährleisten können.
+- a. eine hinreichende Ausbildung in der Guten Klinischen Praxis sowie die für den klinischen Versuch notwendigen fachlichen Kenntnisse und Erfahrungen aufweisen;
+- b. über Kenntnisse der gesetzlichen Voraussetzungen eines klinischen Versuchs verfügen oder diese mittels Einbezug entsprechender Expertise gewährleisten können; und
+- c.[^6-1] über angemessene Kenntnisse und Fertigkeiten in den Bereichen Datensicherheit und Datenschutz verfügen oder diese mittels Einbezug entsprechender Expertise gewährleisten können.
 
-<sup>2</sup> Die Prüfperson eines klinischen Versuchs mit Arzneimitteln, Produkten nach Artikel 2*a* Absatz 2 HMG oder der Transplantation muss zudem zur Ausübung des Arztberufs in eigener fachlicher Verantwortung berechtigt sein.[^6-1]
+<sup>2</sup> Die Prüfperson eines klinischen Versuchs mit Arzneimitteln, Produkten nach Artikel 2*a* Absatz 2 HMG oder der Transplantation muss zudem zur Ausübung des Arztberufs in eigener fachlicher Verantwortung berechtigt sein.[^6-2]
 
-<sup>3</sup> Für klinische Versuche nach dem 4. Kapitel ist auch eine Person ohne ärztliche Qualifikation als Prüfperson befugt, sofern sie zur Ausübung des Berufs, der sie zum klinischen Versuch spezifisch qualifiziert, in eigener fachlicher Verantwortung berechtigt ist.[^6-2]
+<sup>3</sup> Für klinische Versuche nach dem 4. Kapitel ist auch eine Person ohne ärztliche Qualifikation als Prüfperson befugt, sofern sie zur Ausübung des Berufs, der sie zum klinischen Versuch spezifisch qualifiziert, in eigener fachlicher Verantwortung berechtigt ist.[^6-3]
 
 <sup>4</sup> Die übrigen Personen, die den klinischen Versuch durchführen, müssen über die ihrer jeweiligen Tätigkeit entsprechenden fachlichen Kenntnisse und Erfahrungen verfügen.
 
-[^6-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^6-2]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-3]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
-### 3. Abschnitt: Aufklärung, Einwilligung und Widerruf
+### 3. Abschnitt: Aufklärung, Einwilligung, Mitteilung von Ergebnissen und Widerruf
+
+[^chap1-sec3-1]
+
+[^chap1-sec3-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 7
 
@@ -177,18 +203,79 @@ Zusätzlich zu den Inhalten nach Artikel 16 Absatz 2 HFG muss die betroffene Per
 - c. ihr Recht, die Einwilligung ohne Begründung und ohne Nachteile in Bezug auf ihre medizinische Behandlung zu verweigern oder zu widerrufen;
 - d. die Konsequenzen eines Widerrufs der Einwilligung auf ihre weitere medizinische Behandlung sowie auf die weitere Verwendung der bis zum Widerruf erhobenen Personendaten und des bis zum Widerruf gesammelten biologischen Materials;
 - e. ihr Recht, jederzeit auf weitere Fragen in Bezug auf den klinischen Versuch Auskunft zu erhalten;
+- e<sup>bis</sup>.[^7-1] die Möglichkeit, dass Überschussinformationen entstehen und die Bedeutung der Entdeckung der Überschussinformationen sowie die Bedeutung der Ausübung des Rechts auf Wissen oder Nichtwissen;
 - f. ihr Recht, über die ihre Gesundheit betreffenden Ergebnisse informiert zu werden, sowie ihr Recht, auf diese Information zu verzichten oder eine Person zu bestimmen, die diese Entscheidung für sie treffen soll;
 - g. die Massnahmen, die zur Deckung allfälliger Schäden im Zusammenhang mit dem klinischen Versuch vorgesehen sind, einschliesslich der Vorgehensweise im Schadensfall;
 - h. den Sponsor und die Hauptfinanzierungsquellen des klinischen Versuchs;
 - i. weitere Inhalte, die für den Entscheid der betroffenen Person erforderlich sind.
 
-<sup>2</sup> Ist eine Weiterverwendung des im klinischen Versuch entnommenen biologischen Materials oder der im klinischen Versuch erhobenen gesundheitsbezogenen Personendaten für die Forschung beabsichtigt, so muss die betroffene Person zusätzlich über die Inhalte nach den Artikeln 28–32 der Humanforschungsverordnung vom 20. September 2013[^7-1] aufgeklärt werden.
+<sup>2</sup> Ist eine Weiterverwendung des im klinischen Versuch entnommenen biologischen Materials oder der im klinischen Versuch erhobenen gesundheitsbezogenen Personendaten für die Forschung beabsichtigt, so muss die betroffene Person zusätzlich über die Inhalte nach den Artikeln 28–32 der Humanforschungsverordnung vom 20. September 2013[^7-2] aufgeklärt werden.
 
 <sup>3</sup> Die Aufklärung kann in Etappen durchgeführt werden. Sie kann zusätzlich in anderer als der Textform erfolgen.
 
-<sup>4</sup> Es ist durch geeignete Massnahmen sicherzustellen, dass die betroffene Person die wesentlichen Aufklärungsinhalte versteht.
+<sup>4</sup>
 
-[^7-1]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+Es ist durch geeignete Massnahmen sicherzustellen, dass die betroffene Person die wesentlichen Aufklärungsinhalte versteht; insbesondere:
+
+- a. ist die betroffene Person über Sinn und Ablauf der Aufklärung zu informieren;
+- b. sind die Aufklärungsinhalte geeignet, strukturiert und anschaulich zu vermitteln.[^7-3]
+
+[^7-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7-2]: [SR 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
+[^7-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 7a
+
+**Aufklärung bei genetischen Untersuchungen**[^7a-1]
+
+<sup>1</sup>
+
+Sofern bei der Durchführung präsymptomatischer genetischer Untersuchungen, pränataler genetischer Untersuchungen und Untersuchungen zur Familienplanung (Art. 3 Bst. e, g und i des Bundesgesetzes über genetische Untersuchungen beim Menschen vom 15. Juni 2018[^7a-2], GUMG) Ergebnisse anfallen, die ihre Gesundheit betreffen, muss die betroffene Person zusätzlich über Folgendes aufgeklärt werden:
+
+- a. Zweck, Art und Aussagekraft der Untersuchung;
+- b. Häufigkeit und Art der abzuklärenden Störung;
+- c. medizinische, psychische und soziale Auswirkungen in Zusammenhang mit der Untersuchung;
+- d. die mögliche Bedeutung des Ergebnisses für die betroffene Person sowie für Familienangehörige und deren Recht auf Nichtwissen.
+
+<sup>2</sup> Bei der Durchführung präsymptomatischer Untersuchungen (Art. 3 Bst. e GUMG) muss die betroffene Person zusätzlich über die Voraussetzungen, unter denen Versicherungseinrichtungen die Bekanntgabe von Daten aus durchgeführten genetischen Untersuchungen verlangen können, aufgeklärt werden (Art. 43 und Art. 44 GUMG).
+
+[^7a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 7b
+
+**Aufklärung bei pränatalen Risikoabklärungen**[^7b-1]
+
+Bei der Durchführung pränataler Risikoabklärungen (Art. 3 Bst. h GUMG[^7b-2]) muss die schwangere Frau zusätzlich über die Inhalte nach Artikel 23 GUMG aufgeklärt werden.
+
+[^7b-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^7b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
+#### Art. 7c
+
+**Form der Einwilligung**[^7c-1]
+
+<sup>1</sup> Die Einwilligung muss durch eigenhändige Unterschrift oder in elektronischer Form abgegeben werden.
+
+<sup>2</sup>
+
+Die Einwilligungserklärung muss:
+
+- a. datiert sein; und
+- b. während der gesamten erforderlichen Aufbewahrungsdauer lesbar sein.
+
+<sup>3</sup>
+
+Die Einwilligung in elektronischer Form ist zulässig, sofern:
+
+- a. sie in einem Verfahren erteilt wurde, das die betroffene Person eindeutig identifiziert;
+- b. das gewählte Verfahren eine übereilte Entscheidung verhindert;
+- c. sie entsprechend dem Stand der Technik vor Veränderung geschützt ist;
+- d. in den Gesuchsunterlagen beschrieben wird, wie die Voraussetzungen nach Buchstaben a–c eingehalten werden.
+
+<sup>4</sup> Der betroffenen Person wird eine Kopie der Aufklärungsdokumente und der Einwilligungserklärung abgegeben, nach ihrer Wahl auf Papier oder in elektronischer Form.
+
+[^7c-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 8
 
@@ -207,6 +294,22 @@ Von der Schriftform der Aufklärung kann im Einzelfall abgewichen werden, wenn:
 
 - a. sich diese aufgrund der Sprachkenntnisse der betroffenen Person nur mit unverhältnismässigem Aufwand umsetzen lässt; und
 - b. zur mündlichen Aufklärung eine unabhängige qualifizierte Übersetzerin oder ein unabhängiger qualifizierter Übersetzer beigezogen wird und diese oder dieser die erfolgte Aufklärung schriftlich bestätigt.
+
+#### Art. 8a
+
+**Mitteilung von Ergebnissen**[^8a-1]
+
+<sup>1</sup> Das Recht der betroffenen Person auf Information nach Artikel 8 Absatz 1 HFG gilt für ihre Gesundheit betreffende Ergebnisse, die mit Untersuchungen gewonnen wurden, welche die aktuellen Standards der analytischen und der klinischen Validität erfüllen.
+
+<sup>2</sup>
+
+Der betroffenen Person bzw. gegebenenfalls der gesetzlichen Vertretung, der bezeichneten Vertrauensperson oder den nächsten Angehörigen (Art. 22–24 HFG) mitgeteilt werden müssen Ergebnisse:
+
+- a. die einer gesetzlichen Meldepflicht unterliegen welche eine Information der betroffenen Person über das Ergebnis voraussetzt oder beinhaltet;
+- b. die eine gesundheitspolizeiliche Massnahme nach sich ziehen können, welche eine Information der betroffenen Person über das Ergebnis voraussetzt oder beinhaltet;
+- c. die von der zu informierenden Person zur Kenntnis genommen werden müssen, um das Leben und die Gesundheit von Dritten oder der von der Untersuchung betroffenen urteilsunfähigen Person zu schützen.
+
+[^8a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 9
 
@@ -236,18 +339,15 @@ Von der Haftpflicht bei klinischen Versuchen gemäss Artikel 19 Absatz 1 HFG wir
 - a. die Verabreichung eines zugelassenen, gemäss der Fachinformation angewendeten Arzneimittels;
 - b. die Verabreichung eines zugelassenen Arzneimittels, wenn diese in einer nach international anerkannten Qualitätskriterien verfassten Leitlinie als Standard ausgewiesen ist;
 - c.[^10-1] den Einsatz eines Produkts nach Artikel 2*a* Absatz 2 HMG, das nach Artikel 6 Absatz 3 MepV[^10-2] in der Fassung vom 1. Januar 2002[^10-3] in Anwendung von Artikel 108 Absatz 1 Buchstabe b MepV gemeldet wurde und gemäss der Gebrauchsanweisung angewendet wird;
-- d. die Anwendung einer anderen gesundheitsbezogenen Intervention, die in einer nach international anerkannten Qualitätskriterien verfassten Leitlinie als Standard ausgewiesen ist.
+- d.[^10-4] die Anwendung einer anderen Intervention, die in einer nach international anerkannten Qualitätskriterien verfassten Leitlinie als Standard ausgewiesen ist.
 
-<sup>2</sup>
-
-Von der Haftpflicht gemäss Artikel 19 Absatz 1 HFG wird zudem befreit, wer beweist, dass der Schaden nicht über ein nach dem Stand der Wissenschaft zu erwartendes Mass hinausgeht und:
-
-- a. ein vergleichbarer Schaden auch dann hätte eintreten können, wenn sich die geschädigte Person zur Behandlung ihrer Krankheit der üblichen Therapie unterzogen hätte; oder
-- b. im Fall von unmittelbar lebensbedrohlichen Krankheiten, zu deren Behandlung keine Standardtherapie besteht.
+<sup>2</sup> Von der Haftpflicht gemäss Artikel 19 Absatz 1 HFG wird zudem befreit, wer beweist, dass ein vergleichbarer Schaden auch dann hätte eintreten können, wenn sich die geschädigte Person zur Behandlung ihrer Krankheit der üblichen Therapie unterzogen hätte.[^10-5]
 
 [^10-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^10-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^10-3]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
+[^10-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^10-5]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 11
 
@@ -255,11 +355,12 @@ Von der Haftpflicht gemäss Artikel 19 Absatz 1 HFG wird zudem befreit, wer bewe
 
 Die Verjährung von Ersatzansprüchen für Schäden, die auf:
 
-- a. die Anwendung ionisierender Strahlen zurückzuführen sind, richtet sich nach Artikel 40 des Strahlenschutzgesetzes vom 22. März 1991[^11-1];
-- b. die Verwendung gentechnisch veränderter Organismen zurückzuführen sind, richtet sich nach Artikel 32 des Gentechnikgesetzes vom 21. März 2003[^11-2].
+- a. die Anwendung ionisierender Strahlung[^11-1] zurückzuführen sind, richtet sich nach Artikel 40 des Strahlenschutzgesetzes vom 22. März 1991[^11-2];
+- b. die Verwendung gentechnisch veränderter Organismen zurückzuführen sind, richtet sich nach Artikel 32 des Gentechnikgesetzes vom 21. März 2003[^11-3].
 
-[^11-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^11-2]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^11-1]: Ausdruck gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^11-2]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^11-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
 
 #### Art. 12
 
@@ -283,7 +384,9 @@ Die Sicherstellungspflicht kann erfüllt werden:
 
 <sup>2</sup> Die Höhe der Deckungssumme richtet sich nach Anhang 2.
 
-<sup>3</sup> Die Sicherstellung muss Schäden, die bis zu zehn Jahre nach Abschluss des klinischen Versuchs eintreten, umfassen.
+<sup>3</sup> Die Sicherstellung muss Schäden, die bis zu 20 Jahre nach Abschluss des klinischen Versuchs eintreten, umfassen.[^13-1]
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 14
 
@@ -359,8 +462,22 @@ Wer im Rahmen eines klinischen Versuchs gesundheitsbezogene Personendaten aufbew
 Wer im Rahmen eines klinischen Versuchs biologisches Material aufbewahrt, muss namentlich:
 
 - a. die in Absatz 1 genannten Grundsätze sinngemäss beachten;
-- b. die technischen Anforderungen für die sachgerechte Aufbewahrung des biologischen Materials gewährleisten;
+- b.[^18-1] die technischen Anforderungen für die sachgerechte Aufbewahrung des biologischen Materials gewährleisten; dabei sind national und international anerkannte Leitlinien beizuziehen;
 - c. die erforderlichen Ressourcen für die Aufbewahrung bereitstellen.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+### 7. Abschnitt: Umgang mit genetischen Daten bei Versicherungsverhältnissen
+
+[^chap1-sec7-1]
+
+[^chap1-sec7-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 18a
+
+Bei Versicherungsverhältnissen gelten für den Umgang mit genetischen Daten aus klinischen Versuchen die Artikel 42–44 GUMG[^18a-1].
+
+[^18a-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 ## 2. Kapitel: Bewilligungs- und Meldeverfahren für klinische Versuche mit Arzneimitteln, Produkten nach Artikel 2*a* Absatz 2 HMG oder Transplantatprodukten
 
@@ -368,32 +485,52 @@ Wer im Rahmen eines klinischen Versuchs biologisches Material aufbewahrt, muss n
 
 #### Art. 19
 
-**Kategorisierung der klinischen Versuche mit Arzneimitteln**
+**Kategorisierung der klinischen Versuche mit Arzneimitteln**[^19-1]
 
 <sup>1</sup>
 
-Klinische Versuche mit Arzneimitteln entsprechen der Kategorie A, wenn das Arzneimittel in der Schweiz zugelassen ist und die Anwendung:
+Klinische Versuche mit Arzneimitteln entsprechen der Kategorie A, wenn:
 
-- a. gemäss der Fachinformation erfolgt;
-- b.
+- a. das Prüfpräparat ein in der Schweiz zugelassenes Arzneimittel ist;
+- b. das Prüfpräparat nicht verändert wurde; und
+- c.
 
-  von der Fachinformation in Bezug auf die Indikation oder die Dosierung abweicht, aber die folgenden Kriterien erfüllt:
+  die Anwendung des Prüfpräparates:
 
-  - 1\. die Indikation liegt innerhalb derselben Krankheitsgruppe der Internationalen Klassifizierung von Krankheiten der Weltgesundheitsorganisation *(**International Classification of Diseases, ICD)* gemäss Anhang 1 Ziffer 3,
-  - 2\. es handelt sich um eine selbstlimitierende Krankheit und das Arzneimittel wird niedriger dosiert als in der Fachinformation spezifiziert; oder
+  - 1\. gemäss der Fachinformation erfolgt,
+  - 2\.
 
-- c. in einer nach international anerkannten Qualitätskriterien verfassten Leitlinie als Standard ausgewiesen ist.
+    von der Fachinformation in Bezug auf die Indikation oder die Dosierung abweicht, aber die folgenden Kriterien erfüllt:
+
+    - – die Indikation liegt innerhalb derselben Krankheitsgruppe der Internationalen Klassifizierung von Krankheiten der Weltgesundheitsorganisation (*International Classification of Diseases, ICD*) gemäss Anhang 1 Ziffer 3
+    - – es handelt sich um eine selbstlimitierende Krankheit und das Arzneimittel wird niedriger dosiert als in der Fachinformation spezifiziert, oder
+
+  - 3\. in einer nach international anerkannten Qualitätskriterien verfassten Leitlinie als Standard ausgewiesen ist.
 
 <sup>2</sup>
 
-Klinische Versuche mit Arzneimitteln entsprechen der Kategorie B, wenn das Arzneimittel:
+Sie entsprechen der Kategorie B, wenn das Prüfpräparat:
 
-- a. in der Schweiz zugelassen ist; und
-- b. nicht gemäss Absatz 1 angewendet wird.
+- a.
 
-<sup>3</sup> Sie entsprechen der Kategorie C, wenn das Arzneimittel in der Schweiz nicht zugelassen ist.
+  ein in der Schweiz zugelassenes Arzneimittel ist, das:
 
-<sup>4</sup> In begründeten Fällen kann ein klinischer Versuch mit einem in der Schweiz zugelassenen Arzneimittel in eine andere Kategorie eingeteilt werden, wenn dies mit Bezug auf die Arzneimittelsicherheit oder die Gewährleistung von Sicherheit und Gesundheit der teilnehmenden Personen möglich oder erforderlich ist.
+  - 1\. nicht gemäss Absatz 1 Buchstabe c angewendet wird, oder
+  - 2\. risikoarm gemäss Anhang 2<sup>bis</sup> verändert wurde;
+
+- b. ein in einem Land mit vergleichbarer Arzneimittelkontrolle nach Artikel 13 HMG zugelassenes Arzneimittel ist und nicht oder risikoarm gemäss Anhang 2<sup>bis</sup> verändert wurde; oder
+- c. ein speziell für klinische Versuche hergestelltes Placebo ist.
+
+<sup>3</sup>
+
+Sie entsprechen der Kategorie C, wenn das Prüfpräparat einen Wirkstoff enthält und:
+
+- a. ein in der Schweiz oder in einem Land mit vergleichbarer Arzneimittelkontrolle nach Artikel 13 HMG zugelassenes Arzneimittel ist und mehr als risikoarm gemäss Anhang 2<sup>bis</sup> verändert wurde; oder
+- b. ein weder in der Schweiz noch in einem Land mit vergleichbarer Arzneimittelkontrolle nach Artikel 13 HMG zugelassenes Arzneimittel ist.
+
+<sup>4</sup> Entspricht ein klinischer Versuch mehreren Kategorien, so fällt er in die höchste dieser Kategorien; die Einteilung der Kategorien erfolgt aufsteigend von A nach C.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 20
 
@@ -440,11 +577,37 @@ Für klinische Versuche mit Transplantatprodukten gelten sinngemäss die Vorschr
 
 #### Art. 23
 
-**Koordination und Information bei Bewilligungsverfahren**
+**Koordination und Information bei Bewilligungsverfahren sowie Frist zur Einreichung des Gesuchs bei der zweiten Bewilligungsbehörde[^23-1]**
 
-<sup>1</sup> Die Prüfperson und der Sponsor können die Gesuche bei der zuständigen Ethikkommission und beim Institut gleichzeitig einreichen.
+<sup>1</sup> Die Prüfperson und der Sponsor können die Gesuche bei der zuständigen Ethikkommission und bei der Swissmedic[^23-2] gleichzeitig einreichen.
 
-<sup>2</sup> Die zuständige Ethikkommission und das Institut informieren sich gegenseitig über Aspekte, welche die Prüfbereiche sowohl nach Artikel 25 als auch nach Artikel 32 betreffen, und koordinieren ihre Beurteilungen.
+<sup>1bis</sup> Für klinische Versuche der Kategorien B und C muss das Gesuch innerhalb von zwei Jahren nach Erteilung der Bewilligung durch die erste Bewilligungsbehörde bei der zweiten Bewilligungsbehörde eingereicht werden.[^23-3]
+
+<sup>1ter</sup> Auf Antrag der Inhaberin oder des Inhabers der Bewilligung kann die erste Bewilligungsbehörde die Frist nach Absatz 1<sup>bis</sup> verlängern. Ein solcher Antrag gilt als wesentliche Änderung am klinischen Versuch.[^23-4]
+
+<sup>1quater</sup> Wird die Frist nach Absatz 1<sup>bis</sup> oder die nach Absatz 1<sup>ter</sup> verlängerte Frist überschritten oder wird ein Antrag auf Fristverlängerung gemäss Absatz 1<sup>ter</sup> abgelehnt, so verfällt die erteilte Bewilligung.[^23-5]
+
+<sup>2</sup> Die zuständige Ethikkommission und die Swissmedic informieren sich gegenseitig über Aspekte, welche die Prüfbereiche sowohl nach Artikel 25 als auch nach Artikel 32 betreffen, und koordinieren ihre Beurteilungen.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-2]: Ausdruck gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^23-3]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-4]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^23-5]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 23a
+
+**Frist bis zum Einschluss der ersten teilnehmenden Person**[^23a-1]
+
+<sup>1</sup> Die erste teilnehmende Person muss innerhalb von zwei Jahren nach Erteilung der letzten erforderlichen Bewilligung in den klinischen Versuch eingeschlossen werden.
+
+<sup>2</sup> Bei klinischen Versuchen zu seltenen Krankheiten können die Bewilligungsbehörden im Rahmen des Bewilligungsverfahrens auf Antrag des Gesuchstellers eine längere Frist festlegen.
+
+<sup>3</sup> Die Frist nach Absatz 1 oder 2 kann auf Antrag der Inhaberin oder des Inhabers der Bewilligung verlängert werden. Der Antrag muss an alle beteiligten Bewilligungsbehörden gestellt werden und gilt als wesentliche Änderung am klinischen Versuch. Wird die Änderung nicht bewilligt, so verfallen schon erteilte Bewilligungen.
+
+<sup>4</sup> Wird die erste teilnehmende Person nicht innerhalb der Frist gemäss den Absätzen 1–3 in den klinischen Versuch eingeschlossen, so gilt der klinische Versuch als unterbrochen gemäss Artikel 38 Absatz 2 dritter Satz. Mit dem klinischen Versuch darf erst begonnen werden, wenn ein Antrag auf Fristverlängerung gemäss Absatz 3 bewilligt wurde.
+
+[^23a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 2. Abschnitt: Verfahren bei der zuständigen Ethikkommission
 
@@ -456,7 +619,9 @@ Für klinische Versuche mit Transplantatprodukten gelten sinngemäss die Vorschr
 
 <sup>2</sup> Die Ethikkommission kann zusätzliche Informationen verlangen.
 
-<sup>3</sup> Anstelle der Prüfperson kann der Sponsor das Gesuch einreichen. Er übernimmt diesfalls die Pflichten der Prüfperson nach den Artikeln 28 und 29 sowie die Melde- und Berichterstattungspflichten gegenüber der zuständigen Ethikkommission. Die Gesuchsunterlagen müssen von der Prüfperson mitunterzeichnet werden.
+<sup>3</sup> Anstelle der Prüfperson kann der Sponsor das Gesuch einreichen. Er übernimmt diesfalls die Pflichten der Prüfperson nach den Artikeln 29 und 36*a* sowie die Melde- und Berichterstattungspflichten gegenüber der zuständigen Ethikkommission.[^24-1]
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 25
 
@@ -480,16 +645,21 @@ Die zuständige Ethikkommission überprüft:
   - 7\. die Angemessenheit der Entschädigung der teilnehmenden Personen,
   - 8\. die Einhaltung der Vorgaben zur wissenschaftlichen Integrität;
 
+- d<sup>bis</sup>.[^25-1] gegebenenfalls die Einhaltung der Anforderungen an die Einwilligung in elektronischer Form (Art. 7*c* Abs. 3 Bst. a–c);
 - e. die Vollständigkeit der Unterlagen zur Rekrutierung, zur Aufklärung und zur Einwilligung sowie deren Verständlichkeit, namentlich hinsichtlich eines allfälligen Einbezugs besonders verletzbarer Personen;
+- e<sup>bis</sup>.[^25-2] die Berücksichtigung des Rechts der betroffenen Person auf Information (Art. 8 Abs. 1 HFG);
 - f. die Sicherstellung des Rechts auf Entschädigung im Schadensfall (Art. 20 HFG);
 - g. die hinreichenden Kenntnisse und Erfahrungen der Prüfperson und der übrigen Personen, die den klinischen Versuch durchführen, in Bezug auf das betreffende Fachgebiet sowie die Durchführung eines klinischen Versuchs;
 - h. die Eignung der Infrastrukturen am Durchführungsort;
 - i. die Finanzierung des klinischen Versuchs sowie die Vereinbarungen zwischen Sponsor, Dritten und Prüfperson hinsichtlich der Zuteilung von Aufgaben, der Vergütung und der Publikation;
-- j. bei klinischen Versuchen mit Arzneimitteln oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können und der Kategorie A zugeordnet sind: zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung;
-- k. bei Untersuchungen mit Strahlungsquellen[^25-1]: zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung, sofern keine Stellungnahme des BAG gemäss Artikel 28 einzuholen ist;
+- j.[^25-3] bei klinischen Versuchen mit Arzneimitteln, die ionisierende Strahlung aussenden können und der Kategorie A zugeordnet sind: zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung;
+- k.[^25-4] bei Begleituntersuchungen mit ionisierender Strahlung: zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung, sofern keine Stellungnahme des BAG gemäss Artikel 36*a* Absatz 4 einzuholen ist;
 - l. weitere Bereiche, sofern dies zur Beurteilung des Schutzes der teilnehmenden Personen notwendig ist.
 
-[^25-1]: Ausdruck gemäss Anhang 11 Ziff. 6 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^25-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^25-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 26
 
@@ -501,7 +671,7 @@ Die zuständige Ethikkommission überprüft:
 
 <sup>3</sup> Verlangt die Ethikkommission zusätzliche Informationen nach Artikel 24 Absatz 2, so steht die Frist bis zu deren Eingang still.
 
-<sup>4</sup> Sie teilt den Entscheid bei klinischen Versuchen der Kategorie B und C dem Institut mit.
+<sup>4</sup> Sie teilt den Entscheid bei klinischen Versuchen der Kategorie B und C der Swissmedic mit.
 
 #### Art. 27
 
@@ -515,34 +685,13 @@ Die zuständige Ethikkommission überprüft:
 
 <sup>4</sup> Auf Aufforderung der Leitkommission reicht die koordinierende Prüfperson die Gesuchsunterlagen nach Anhang 3 in der nötigen Anzahl den für die weiteren Durchführungsorte zuständigen Ethikkommissionen (beteiligte Ethikkommissionen) ein. Diese prüfen die lokalen Voraussetzungen und teilen ihre Bewertung der Leitkommission innerhalb von 15 Tagen mit.
 
-<sup>5</sup> Die Leitkommission entscheidet innerhalb von 45 Tagen nach der Bestätigung des Eingangs des formal korrekten Gesuchs. Sie teilt den Entscheid den beteiligten Ethikkommissionen und bei klinischen Versuchen der Kategorien B und C dem Institut mit.
+<sup>5</sup> Die Leitkommission entscheidet innerhalb von 45 Tagen nach der Bestätigung des Eingangs des formal korrekten Gesuchs. Sie teilt den Entscheid den beteiligten Ethikkommissionen und bei klinischen Versuchen der Kategorien B und C der Swissmedic mit.
 
 #### Art. 28
 
-**Verfahren bei Untersuchungen mit Strahlungsquellen**
+[^28-1]
 
-<sup>1</sup> Bei Untersuchungen mit Strahlungsquellen reicht die Prüfperson der zuständigen Ethikkommission zusätzlich die Dokumente nach Anhang 3 Ziffer 5 ein. Das Bewilligungsverfahren richtet sich unter Vorbehalt der folgenden Absätze nach den Artikeln 24–27 und 29.
-
-<sup>2</sup>
-
-Die Prüfperson reicht zusätzlich dem BAG die Gesuchsunterlagen nach Anhang 3 Ziffer 6 unter gleichzeitiger Mitteilung an die Ethikkommission ein, wenn die effektive Dosis unter Berücksichtigung des Unsicherheitsfaktors pro Person über 5 mSv pro Jahr liegt und:
-
-- a. ein Radiopharmazeutikum zur Anwendung kommt, das in der Schweiz nicht zugelassen ist;
-- b. ein Radiopharmazeutikum zur Anwendung kommt, das in der Schweiz zugelassen ist, und es sich nicht um eine nuklearmedizinische Routineuntersuchung handelt; oder
-- c. eine andere radioaktive Quelle[^28-1] zur Anwendung kommt.
-
-<sup>3</sup> Das BAG nimmt zuhanden der Ethikkommission Stellung zur Einhaltung der Strahlenschutzgesetzgebung sowie zur Dosisabschätzung.
-
-<sup>4</sup>
-
-Die Ethikkommission erteilt die Bewilligung, wenn:
-
-- a. die Anforderungen nach Artikel 25 eingehalten werden; und
-- b. das BAG keine Einwände gegen den klinischen Versuch vorgebracht hat.
-
-<sup>5</sup> Sie entscheidet innerhalb von 45 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen. Sie teilt ihren Entscheid dem BAG mit.
-
-[^28-1]: Ausdruck gemäss Anhang 11 Ziff. 6 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^28-1]: Aufgehoben durch Ziff. I der V vom 7. Juni 2024, mit Wirkung seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 29
 
@@ -558,8 +707,9 @@ Als wesentliche Änderungen gelten:
 
 - a. Änderungen, die sich auf die Sicherheit und Gesundheit der teilnehmenden Personen oder deren Rechte und Pflichten auswirken;
 - b. Änderungen des Prüfplans, namentlich Änderungen aufgrund neuer wissenschaftlicher Erkenntnisse, welche die Versuchsanordnung, die Prüfmethode, die Zielkriterien oder das statistische Auswertungskonzept betreffen;
-- c. die Änderung des Durchführungsortes oder die Durchführung des klinischen Versuchs an einem zusätzlichen Durchführungsort; oder
-- d. die Änderung des Sponsors, der koordinierenden Prüfperson oder der an einem Durchführungsort verantwortlichen Prüfperson.
+- c. die Änderung des Durchführungsortes oder die Durchführung des klinischen Versuchs an einem zusätzlichen Durchführungsort;
+- d. die Änderung des Sponsors, der koordinierenden Prüfperson oder der an einem Durchführungsort verantwortlichen Prüfperson; oder
+- e.[^29-1] die Verlängerung der Frist nach den Artikeln 23, 23*a* und 50; die Prüfperson legt im Gesuch an die Ethikkommission dar, ob die Gesuchsunterlagen noch aktuell sind, insbesondere in Bezug auf die wissenschaftliche Relevanz der Fragestellung; ist dies nicht der Fall, so reicht sie aktualisierte Gesuchsunterlagen ein.
 
 <sup>4</sup> Die Ethikkommission entscheidet über wesentliche Änderungen innerhalb von 30 Tagen. Artikel 26 ist sinngemäss anwendbar.
 
@@ -567,13 +717,15 @@ Als wesentliche Änderungen gelten:
 
 <sup>6</sup> Übrige Änderungen müssen der Ethikkommission mit dem jährlichen Sicherheitsbericht nach Artikel 43 gemeldet werden.
 
-### 3. Abschnitt: Verfahren beim Schweizerischen Heilmittelinstitut
+[^29-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+### 3. Abschnitt: Verfahren bei der Swissmedic
 
 #### Art. 30
 
 **Ausnahme von der Bewilligungspflicht**[^30-1]
 
-Klinische Versuche der Kategorie A sind von der Bewilligungspflicht beim Institut nach Artikel 54 Absatz 1 HMG ausgenommen.
+Klinische Versuche der Kategorie A sind von der Bewilligungspflicht bei Swissmedic nach Artikel 54 Absatz 1 HMG ausgenommen.
 
 [^30-1]: Fassung gemäss Anhang Ziff. 2 der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
@@ -581,9 +733,13 @@ Klinische Versuche der Kategorie A sind von der Bewilligungspflicht beim Institu
 
 **Gesuch**
 
-<sup>1</sup> Der Sponsor reicht dem Institut die Gesuchsunterlagen gemäss Anhang 4 zur Prüfung ein.
+<sup>1</sup> Der Sponsor reicht der Swissmedic die Gesuchsunterlagen gemäss Anhang 4 zur Prüfung ein.
 
-<sup>2</sup> Das Institut kann zusätzliche Informationen verlangen.
+<sup>1bis</sup> In Übereinstimmung mit dem Inhalt von Anhang 4 kann die Swissmedic eine Liste spezifischer Unterlagen erstellen, die für die Einreichung des Gesuchs erforderlich sind.[^31-1]
+
+<sup>2</sup> Die Swissmedic kann zusätzliche Informationen verlangen.
+
+[^31-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 32
 
@@ -591,7 +747,7 @@ Klinische Versuche der Kategorie A sind von der Bewilligungspflicht beim Institu
 
 <sup>1</sup>
 
-Das Institut überprüft bei klinischen Versuchen mit Arzneimitteln:
+Die Swissmedic überprüft bei klinischen Versuchen mit Arzneimitteln:
 
 - a. die Vollständigkeit des Gesuchs;
 - b. die Sicherheit des Arzneimittels, namentlich die präklinische und klinische Pharmakologie, die Toxikologie, die Galenik, die Pharmakokinetik sowie die vorgesehene Dosierung und Indikation;
@@ -599,7 +755,7 @@ Das Institut überprüft bei klinischen Versuchen mit Arzneimitteln:
 - d. die Qualität des Arzneimittels sowie die Einhaltung der Guten Herstellungspraxis (*Good Manufacturing Practice, GMP*);
 - e. andere Bereiche, sofern dies für die Beurteilung der Sicherheit oder Qualität des Arzneimittels notwendig ist.
 
-<sup>2</sup> Bei klinischen Versuchen der Kategorie B mit Arzneimitteln, die ionisierende Strahlen aussenden können, überprüft es zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung.
+<sup>2</sup> Bei klinischen Versuchen der Kategorie B mit Arzneimitteln, die ionisierende Strahlung aussenden können, überprüft es zusätzlich die Einhaltung der Strahlenschutzgesetzgebung sowie die Dosisabschätzung.
 
 <sup>3</sup>
 
@@ -612,47 +768,54 @@ Es überprüft bei klinischen Versuchen mit Produkten nach Art. 2*a* Absatz 2 HM
 
 **Verfahren und Fristen**
 
-<sup>1</sup> Das Institut bestätigt dem Sponsor innerhalb von 7 Tagen den Eingang des Gesuchs und teilt ihm formale Mängel in den Gesuchsunterlagen mit.
+<sup>1</sup> Die Swissmedic bestätigt dem Sponsor innerhalb von 7 Tagen den Eingang des Gesuchs und teilt ihm formale Mängel in den Gesuchsunterlagen mit.
 
-<sup>2</sup> Es entscheidet innerhalb von 30 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen.
+<sup>2</sup> Die Swissmedic entscheidet innerhalb von 30 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen.
 
 <sup>3</sup> Wird ein Arzneimittel oder Produkt nach Art. 2*a* Absatz 2 HMG erstmals an Personen angewendet oder in einem neuen Verfahren hergestellt, so kann es diese Frist um höchstens 30 Tage verlängern. Es teilt die Verlängerung dem Sponsor mit.
 
-<sup>4</sup> Verlangt das Institut zusätzliche Informationen nach Artikel 31 Absatz 2, so steht die Frist bis zu deren Eingang still.
+<sup>4</sup> Verlangt die Swissmedic zusätzliche Informationen nach Artikel 31 Absatz 2, so steht die Frist bis zu deren Eingang still.
 
-<sup>5</sup> Das Institut teilt seinen Entscheid der zuständigen Ethikkommission sowie weiteren zuständigen Behörden der Kantone mit.
+<sup>5</sup> Die Swissmedic teilt seinen Entscheid der zuständigen Ethikkommission sowie weiteren zuständigen Behörden der Kantone mit.
 
 #### Art. 34
 
 **Änderungen**
 
-<sup>1</sup> Wesentliche Änderungen am bewilligten klinischen Versuch müssen vor ihrer Durchführung vom Institut bewilligt werden. Von dieser Pflicht ausgenommen sind Massnahmen, die zum Schutz der teilnehmenden Personen unverzüglich getroffen werden müssen.
+<sup>1</sup> Wesentliche Änderungen am bewilligten klinischen Versuch müssen vor ihrer Durchführung von der Swissmedic bewilligt werden. Von dieser Pflicht ausgenommen sind Massnahmen, die zum Schutz der teilnehmenden Personen unverzüglich getroffen werden müssen.
 
-<sup>2</sup> Der Sponsor muss dem Institut die Gesuchsunterlagen gemäss Anhang 4, die von der Änderung betroffen sind, einreichen. Er informiert gleichzeitig über die Gründe der Änderung.
+<sup>2</sup> Der Sponsor muss der Swissmedic die Gesuchsunterlagen gemäss Anhang 4, die von der Änderung betroffen sind, einreichen. Er informiert gleichzeitig über die Gründe der Änderung.
 
 <sup>3</sup>
 
 Als wesentliche Änderungen gelten:
 
 - a. Änderungen am Arzneimittel oder Produkt nach Art. 2*a* Absatz 2 HMG oder an dessen Verabreichung beziehungsweise Anwendung;
-- b. Änderungen aufgrund neuer präklinischer und klinischer Daten, die sich auf die Produktesicherheit auswirken können; oder
-- c. Änderungen betreffend die Herstellung des Arzneimittels oder Produkts nach Art. 2*a* Absatz 2 HMG, die sich auf die Produktesicherheit auswirken können.
+- b. Änderungen aufgrund neuer präklinischer und klinischer Daten, die sich auf die Produktesicherheit auswirken können;
+- c. Änderungen betreffend die Herstellung des Arzneimittels oder Produkts nach Art. 2*a* Absatz 2 HMG, die sich auf die Produktesicherheit auswirken können; oder
+- d.[^34-1] die Verlängerung der Frist nach den Artikeln 23 und 23*a*; der Sponsor legt im Antrag an die Swissmedic dar, ob die Gesuchsunterlagen noch aktuell sind, insbesondere in Bezug auf Arzneimittelsicherheit und -qualität; ist dies nicht der Fall, so reicht er aktualisierte Gesuchsunterlagen ein.
 
-<sup>4</sup> Das Institut entscheidet innerhalb von 30 Tagen nach Eingang der vollständigen von der Änderung betroffenen Gesuchsunterlagen. Artikel 33 ist sinngemäss anwendbar.
+<sup>4</sup> Die Swissmedic entscheidet innerhalb von 30 Tagen nach Eingang der vollständigen von der Änderung betroffenen Gesuchsunterlagen. Artikel 33 ist sinngemäss anwendbar.
 
-<sup>5</sup> Übrige Änderungen, die dem Institut eingereichte Unterlagen betreffen, müssen dem Institut so rasch als möglich gemeldet werden.
+<sup>5</sup> Übrige Änderungen, die an die Swissmedic eingereichte Unterlagen betreffen, müssen der Swissmedic so rasch als möglich gemeldet werden.
 
-### 4. Abschnitt: Besondere Bestimmungen für klinische Versuche der Gentherapie, für klinische Versuche mit gentechnisch veränderten oder mit pathogenen Organismen sowie für klinische Versuche mit ionisierenden Strahlen
+[^34-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+### 4. Abschnitt: Besondere Bestimmungen für klinische Versuche der Gentherapie, für klinische Versuche mit gentechnisch veränderten oder mit pathogenen Organismen sowie für klinische Versuche, bei denen ionisierende Strahlung zur Anwendung kommt
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 35
 
 **Klinische Versuche der Gentherapie und klinische Versuche mit gentechnisch veränderten oder mit pathogenen Organismen**
 
-<sup>1</sup> Bei klinischen Versuchen der Kategorien B und C der Gentherapie und bei klinischen Versuchen mit gentechnisch veränderten oder mit pathogenen Organismen nach Artikel 22 müssen dem Institut die Dokumente nach Anhang 4 Ziffer 4 eingereicht werden.
+<sup>1</sup> Bei klinischen Versuchen der Kategorien B und C der Gentherapie und bei klinischen Versuchen mit gentechnisch veränderten oder mit pathogenen Organismen nach Artikel 22 müssen der Swissmedic die Dokumente nach Anhang 4 Ziffer 1 eingereicht werden.[^35-1]
 
-<sup>2</sup> Vor der Erteilung der Bewilligung holt das Institut die Stellungnahme der Eidgenössischen Fachkommission für biologische Sicherheit (EFBS), des Bundesamtes für Umwelt (BAFU) und des BAG ein.
+<sup>2</sup> Vor der Erteilung der Bewilligung holt die Swissmedic die Stellungnahme der Eidgenössischen Fachkommission für biologische Sicherheit (EFBS), des Bundesamtes für Umwelt (BAFU) und des BAG ein.
 
-<sup>3</sup> Es prüft zusätzlich zu den Prüfbereichen nach Artikel 32, ob die Qualität und die biologische Sicherheit des Präparates in Bezug auf die teilnehmenden Personen sowie in Bezug auf Mensch und Umwelt gewährleistet sind.
+<sup>3</sup> Die Swissmedic prüft zusätzlich zu den Prüfbereichen nach Artikel 32, ob die Qualität und die biologische Sicherheit des Präparates in Bezug auf die teilnehmenden Personen sowie in Bezug auf Mensch und Umwelt gewährleistet sind.
 
 <sup>4</sup>
 
@@ -661,103 +824,180 @@ Es erteilt die Bewilligung, wenn:
 - a. die EFBS die Qualität und die biologische Sicherheit des Präparates in Bezug auf die teilnehmenden Personen sowie in Bezug auf Mensch und Umwelt bestätigt hat; und
 - b. das BAG und das BAFU gestützt auf die Beurteilung der Umweltdaten keine Einwände gegen den klinischen Versuch vorgebracht haben.
 
-<sup>5</sup> Das Institut erteilt die Bewilligung innerhalb von 60 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen. Das Institut teilt seinen Entscheid den zuständigen Behörden des Bundes und der Kantone mit.
+<sup>5</sup> Die Swissmedic entscheidet innerhalb von 60 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen. Sie teilt ihren Entscheid den zuständigen Behörden des Bundes und der Kantone mit.[^35-2]
 
-<sup>6</sup> Die Bewilligung bleibt für die Dauer des klinischen Versuchs, höchstens jedoch während fünf Jahren nach Erteilung, gültig.
+<sup>6</sup> …[^35-3]
 
-<sup>7</sup> Das Institut, das BAG und das BAFU erlassen gemeinsam Richtlinien zur Beurteilung des Risikos für Mensch und Umwelt.
+<sup>7</sup> Die Swissmedic, das BAG und das BAFU erlassen gemeinsam Richtlinien zur Beurteilung des Risikos für Mensch und Umwelt.
+
+[^35-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^35-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^35-3]: Aufgehoben durch Ziff. I der V vom 7. Juni 2024, mit Wirkung seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 36
 
-**Klinische Versuche mit Arzneimitteln oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlenaussenden können**
+**Klinische Versuche mit Arzneimitteln, die ionisierende Strahlung aussenden können[^36-1]**
 
-<sup>1</sup> Für klinische Versuche der Kategorien B und C mit Arzneimitteln oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können, müssen dem Institut zusätzlich die Dokumente nach Anhang 4 Ziffer 5 eingereicht werden.
+<sup>1</sup> Für klinische Versuche der Kategorien B und C mit Arzneimitteln, die ionisierende Strahlung aussenden können, müssen der Swissmedic zusätzlich die Dokumente nach Anhang 4 Ziffer 5 eingereicht werden.[^36-2]
 
-<sup>2</sup> Bei klinischen Versuchen der Kategorie C holt das Institut vor der Erteilung der Bewilligung die Stellungnahme des BAG ein. Das BAG prüft die Einhaltung der Strahlenschutzgesetzgebung und die Dosisabschätzung.
+<sup>2</sup> Bei klinischen Versuchen der Kategorie C holt die Swissmedic vor der Erteilung der Bewilligung eine Stellungnahme des BAG ein. Das BAG prüft die Einhaltung der Strahlenschutzgesetzgebung und die Dosisabschätzung.[^36-3]
 
 <sup>3</sup>
 
-Das Institut erteilt die Bewilligung, wenn:
+Die Swissmedic erteilt die Bewilligung, wenn:
 
 - a. die Anforderungen nach Artikel 32 eingehalten werden; und
 - b. das BAG keine Einwände gegen den klinischen Versuch vorgebracht hat.
 
-<sup>4</sup> Das Institut entscheidet über klinische Versuche der Kategorie C innerhalb von 60 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen. Es teilt seinen Entscheid dem BAG mit.
+<sup>4</sup> Die Swissmedic entscheidet über klinische Versuche der Kategorie C innerhalb von 60 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen. Die Swissmedic teilt seinen Entscheid dem BAG mit.
+
+<sup>5</sup> …[^36-4]
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^36-4]: Aufgehoben durch Ziff. I der V vom 7. Juni 2024, mit Wirkung seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 36a
+
+**Verfahren bei Begleituntersuchungen mit ionisierender Strahlung**[^36a-1]
+
+<sup>1</sup> Bei Begleituntersuchungen mit ionisierender Strahlung reicht die Prüfperson der zuständigen Ethikkommission die zusätzlichen Gesuchsunterlagen nach Anhang 3 Ziffer 5 ein. Das Bewilligungsverfahren richtet sich unter Vorbehalt der Absätze 2–6 nach den Artikeln 24–27 und 29.
+
+<sup>2</sup>
+
+Die Prüfperson reicht zusätzlich dem BAG die Gesuchsunterlagen nach Anhang 3 Ziffer 6 ein, wenn:
+
+- a. ein eingesetztes Radiopharmazeutikum nicht zulassungskonform angewendet wird oder in der Schweiz nicht zugelassen ist;
+- b. ein eingesetztes Medizinprodukt, das ionisierende Strahlung aussenden kann,
+  - 1\. nicht gemäss Gebrauchsanweisung angewendet wird, oder
+  - 2\. kein Konformitätskennzeichen nach Artikel 13 MepV[^36a-2] trägt; oder
+
+- c. eine andere radioaktive Quelle zur Anwendung kommt.
+
+<sup>3</sup> Falls eine zusätzliche Einreichung von Gesuchsunterlagen nach Absatz 2 erforderlich ist, teilt die Prüfperson dies der Ethikkommission mit.
+
+<sup>4</sup> Das BAG nimmt innert angemessener Frist zuhanden der Ethikkommission Stellung zur Einhaltung der Strahlenschutzgesetzgebung sowie zur Dosisabschätzung.
 
 <sup>5</sup>
 
-Es übermittelt dem BAG bei klinischen Versuchen der Kategorie C unmittelbar nach Erhalt:
+Die Ethikkommission erteilt die Bewilligung, wenn:
 
-- a. den Schlussbericht nach Artikel 38 Absatz 3 mit allen für den Strahlenschutz relevanten Angaben, insbesondere einer retrospektiven Dosisabschätzung der teilnehmenden Personen, sofern das BAG nichts anderes bestimmt hat;
-- b. die Meldungen nach den Artikeln 41 Absatz 2 und 42 Absatz 1.
+- a. die Anforderungen nach Artikel 25 eingehalten werden; und
+- b. nach der Diskussion der Stellungnahme nach Absatz 4 keine Einwände gegen den klinischen Versuch verbleiben.
 
-### 5. Abschnitt: Meldungen und Berichterstattung
+<sup>6</sup> Sie entscheidet innerhalb von 45 Tagen nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen. Sie teilt ihren Entscheid dem BAG mit.
+
+[^36a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322), [582](https://fedlex.data.admin.ch/eli/oc/2024/582)).
+[^36a-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+
+### 5. Abschnitt: Dokumentation, Meldungen und Berichterstattung
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 37
 
-**Meldung von Sicherheits- und Schutzmassnahmen**
+**Bei Sicherheits- und Schutzmassnahmen[^37-1]**
 
 <sup>1</sup> Müssen während der Durchführung eines klinischen Versuchs unverzüglich Sicherheits- und Schutzmassnahmen getroffen werden, so meldet die Prüfperson diese Massnahmen sowie die Umstände, aufgrund derer sie notwendig wurden, der Ethikkommission innerhalb von 7 Tagen.
 
 <sup>2</sup> Bei klinischen Versuchen mit Produkten nach Art. 2*a* Absatz 2 HMG ist diese Meldung innerhalb von 2 Tagen zu erstatten.
 
-<sup>3</sup> Für klinische Versuche der Kategorien B und C sind die Meldungen nach den Absätzen 1 und 2 dem Institut zu erstatten. Diese Pflicht obliegt dem Sponsor.
+<sup>3</sup> Für klinische Versuche der Kategorien B und C sind die Meldungen nach den Absätzen 1 und 2 zusätzlich der Swissmedic zu erstatten. Diese Pflicht obliegt dem Sponsor.[^37-2]
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^37-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 38
 
-**Meldung und Berichterstattung bei Abschluss, Abbruch oder Unterbruch des klinischen Versuchs**
+**Bei erster Visite sowie Abschluss, Abbruch, Unterbruch und Wiederaufnahme des klinischen Versuchs**[^38-1]
 
-<sup>1</sup> Die Prüfperson meldet der Ethikkommission den Abschluss des klinischen Versuchs in der Schweiz innerhalb von 90 Tagen. Als Abschluss des klinischen Versuchs gilt der letzte Folgebesuch der letzten teilnehmenden Person (*Follow up visit*), sofern im Prüfplan nichts anderes bestimmt ist.
+<sup>1</sup>
 
-<sup>2</sup> Sie meldet der Ethikkommission den Abbruch oder Unterbruch des klinischen Versuchs innerhalb von 15 Tagen. In der Meldung sind die Gründe für den Abbruch oder den Unterbruch anzugeben.
+Die Prüfperson meldet der Ethikkommission innerhalb von 30 Tagen:
 
-<sup>3</sup> Sie reicht der Ethikkommission innerhalb eines Jahres nach Abschluss oder Abbruch des klinischen Versuchs einen Schlussbericht ein, es sei denn, der Prüfplan sieht eine längere Frist vor.
+- a. die erste Visite der ersten teilnehmenden Person in der Schweiz; und
+- b. den Abschluss des klinischen Versuchs in der Schweiz.
 
-<sup>4</sup> Wird ein multizentrischer klinischer Versuch an einem der Durchführungsorte abgebrochen oder unterbrochen, so erstattet die koordinierende Prüfperson die Meldung nach Absatz 2 auch der zuständigen beteiligten Ethikkommission.
+<sup>1bis</sup> Die Prüfperson meldet der Ethikkommission den globalen Abschluss bei einem multinationalen klinischen Versuch innerhalb von 90 Tagen.
 
-<sup>5</sup> Für klinische Versuche der Kategorien B und C sind die Meldungen und Berichte nach den Absätzen 1–3 dem Institut zu erstatten. Diese Pflichten obliegen dem Sponsor.
+<sup>1ter</sup> Als Abschluss des klinischen Versuchs gilt der letzte Folgebesuch der letzten teilnehmenden Person, sofern im Prüfplan nichts anderes bestimmt ist.
+
+<sup>2</sup> Die Prüfperson meldet der Ethikkommission einen Abbruch, einen Unterbruch sowie eine Wiederaufnahme des klinischen Versuchs innerhalb von 15 Tagen. In der Meldung sind die Gründe für den Abbruch, den Unterbruch und die Wiederaufnahme anzugeben. Ein mehr als zwei Jahre dauernder Unterbruch gilt als Abbruch.
+
+<sup>3</sup> Sie reicht der Ethikkommission innerhalb eines Jahres nach Abschluss oder Abbruch des klinischen Versuchs einen zusammenfassenden Schlussbericht ein, es sei denn, der Prüfplan sieht eine längere Frist vor.
+
+<sup>4</sup> Wird ein multizentrischer klinischer Versuch an einem der Durchführungsorte abgebrochen, unterbrochen oder wiederaufgenommen, so erstattet die koordinierende Prüfperson die Meldung nach Absatz 2 auch der beteiligten Ethikkommission.
+
+<sup>5</sup> Für klinische Versuche der Kategorien B und C sind die Meldungen und Berichte nach den Absätzen 1–3 zusätzlich der Swissmedic zu erstatten. Diese Pflichten obliegen dem Sponsor.
+
+[^38-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 39
 
-**Dokumentation unerwünschter Ereignisse (*Adverse Events, AE*) bei klinischen Versuchen mit Arzneimitteln**
+**Bei unerwünschten Ereignissen (*Adverse Events, AE*) bei klinischen Versuchen mit Arzneimitteln[^39-1]**
 
-<sup>1</sup> Treten bei der Durchführung eines klinischen Versuchs der Kategorie C mit Arzneimitteln bei teilnehmenden Personen unerwünschte Ereignisse auf, die nicht als schwerwiegend zu qualifizieren sind, so muss die Prüfperson diese in standardisierter Weise dokumentieren.
+<sup>1</sup> Treten bei der Durchführung eines klinischen Versuchs der Kategorie C unerwünschte Ereignisse auf, so muss die Prüfperson diese in standardisierter Weise dokumentieren.[^39-2]
 
-<sup>2</sup> Unerwünschte Ereignisse bei der Durchführung eines klinischen Versuchs der Kategorie B müssen in standardisierter Weise dokumentiert werden, wenn dies im Prüfplan vorgesehen ist oder von den Bewilligungsbehörden gefordert wurde.
+<sup>1bis</sup> In begründeten Ausnahmefällen kann der Sponsor im Prüfplan unerwünschte Ereignisse, welche als nicht kritisch für die Sicherheitsbewertung bezeichnet sind, bei klinischen Versuchen der Kategorie C von der Dokumentationspflicht ausnehmen.[^39-3]
+
+<sup>2</sup>
+
+Treten bei der Durchführung eines klinischen Versuchs der Kategorie B unerwünschte Ereignisse auf, so muss die Prüfperson diese in standardisierter Weise dokumentieren, wenn:
+
+- a. die unerwünschten Ereignisse im Prüfplan als kritisch für die Sicherheitsbewertung bezeichnet sind; oder
+- b. dies von den Bewilligungsbehörden gefordert wurde.[^39-4]
 
 <sup>3</sup> Für klinische Versuche der Kategorie A besteht keine Pflicht zur Dokumentation unerwünschter Ereignisse.
 
 <sup>4</sup> Die Definition unerwünschter Ereignisse richtet sich nach den Regeln der Guten Klinischen Praxis nach Anhang 1 Ziffer 2.
 
+[^39-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-3]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^39-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
 #### Art. 40
 
-**Schwerwiegende unerwünschte Ereignisse (*Serious Adverse Events, SAE*) bei klinischen Versuchen mit Arzneimitteln**
+**Bei schwerwiegenden unerwünschten Ereignissen (*Serious Adverse Events, SAE*) bei klinischen Versuchen mit Arzneimitteln[^40-1]**
 
 <sup>1</sup> Treten bei der Durchführung des klinischen Versuchs bei teilnehmenden Personen schwerwiegende unerwünschte Ereignisse auf, so muss die Prüfperson diese in standardisierter Weise dokumentieren und dem Sponsor innerhalb von 24 Stunden nach Bekanntwerden melden. Ausgenommen sind Ereignisse, die gemäss Prüfplan nicht meldepflichtig sind.
 
-<sup>2</sup> Sofern dies im Prüfplan nicht anders vorgesehen ist, meldet die Prüfperson der zuständigen Ethikkommission ein an einem Durchführungsort in der Schweiz aufgetretenes schwerwiegendes unerwünschtes Ereignis mit Todesfolge innerhalb von 7 Tagen.
-
-<sup>3</sup> Die koordinierende Prüfperson meldet bei einem multizentrischen klinischen Versuch Ereignisse nach Absatz 2 innert gleicher Frist auch der zuständigen beteiligten Ethikkommission.
+<sup>2</sup> und <sup>3</sup> …[^40-2]
 
 <sup>4</sup> Die Definition schwerwiegender unerwünschter Ereignisse richtet sich nach den Regeln der Guten Klinischen Praxis nach Anhang 1 Ziffer 2.
 
+[^40-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^40-2]: Aufgehoben durch Ziff. I der V vom 7. Juni 2024, mit Wirkung seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
 #### Art. 41
 
-**Verdacht auf eine unerwartete schwerwiegende Arzneimittelwirkung (*Suspected Unexpected Serious Adverse Reaction,* *SUSAR*) bei klinischen Versuchen mit Arzneimitteln**
+**Bei Verdachtsfällen auf eine unerwartete schwerwiegende Arzneimittelwirkung *(Suspected Unexpected Serious Adverse* *Reaction**,* *SUSAR**)* bei klinischen Versuchen mit Arzneimitteln[^41-1]**
 
-<sup>1</sup> Tritt bei der Durchführung des Versuchs bei teilnehmenden Personen ein Verdacht auf eine unerwartete schwerwiegende Arzneimittelwirkung auf, so muss die Prüfperson diesen in standardisierter Weise dokumentieren und dem Sponsor innert 24 Stunden nach Bekanntwerden melden.
+<sup>1</sup> Tritt bei der Durchführung des Versuchs bei einer teilnehmenden Person ein Verdachtsfall auf eine unerwartete schwerwiegende Arzneimittelwirkung auf, so muss die Prüfperson diesen in standardisierter Weise dokumentieren und dem Sponsor innert 24 Stunden nach Bekanntwerden melden.[^41-2]
 
-<sup>2</sup> Die Prüfperson meldet einen in der Schweiz aufgetretenen Verdacht auf eine unerwartete Arzneimittelwirkung mit Todesfolge der zuständigen Ethikkommission innerhalb von 7 Tagen, einen Verdacht auf eine sonstige unerwartete schwerwiegende Arzneimittelwirkung innerhalb von 15 Tagen.
+<sup>2</sup> Die Prüfperson meldet einen in der Schweiz aufgetretenen Verdachtsfall auf eine unerwartete Arzneimittelwirkung mit lebensbedrohlichen oder tödlichen Folgen der zuständigen Ethikkommission innerhalb von 7 Tagen, einen Verdachtsfall auf eine sonstige unerwartete schwerwiegende Arzneimittelwirkung innerhalb von 15 Tagen.[^41-3]
 
-<sup>3</sup> Tritt bei einem multizentrischen klinischen Versuch ein Verdacht auf eine unerwartete schwerwiegende Arzneimittelwirkung an einem der Durchführungsorte auf, so erstattet die koordinierende Prüfperson die Meldung nach Absatz 2 innert gleicher Frist auch der zuständigen beteiligten Ethikkommission.
+<sup>3</sup> Tritt bei einem multizentrischen klinischen Versuch ein Verdachtsfall auf eine unerwartete schwerwiegende Arzneimittelwirkung an einem der Durchführungsorte in der Schweiz auf, so erstattet die koordinierende Prüfperson die Meldung nach Absatz 2 innert gleicher Frist auch der beteiligten Ethikkommission.[^41-4]
 
-<sup>4</sup> Für klinische Versuche der Kategorien B und C sind die Meldungen nach Absatz 2 auch dem Institut zu erstatten. Diese Pflicht obliegt dem Sponsor. Für klinische Versuche der Kategorie A obliegt dem Sponsor die Meldepflicht nach Artikel 59 Absätze 1 und 2 HMG.
+<sup>4</sup> Für klinische Versuche der Kategorien B und C sind die Meldungen nach Absatz 2 auch der Swissmedic zu erstatten. Diese Pflicht obliegt dem Sponsor. Für klinische Versuche der Kategorie A obliegt dem Sponsor die Meldepflicht nach Artikel 59 Absätze 1 und 2 HMG.
 
-<sup>5</sup> Die Definition des Verdachts auf eine unerwartete schwerwiegende Arzneimittelwirkung richtet sich nach den Regeln der Guten Klinischen Praxis nach Anhang 1 Ziffer 2.
+<sup>4bis</sup> Die Pflichten nach den Absätzen 1*–*4 gelten auch dann, wenn die Prüfperson oder der Sponsor von einem Verdachtsfall Kenntnis erlangen, der nach Abschluss des klinischen Versuchs in der Schweiz aufgetreten ist, oder wenn die Prüfperson oder der Sponsor erst nach Abschluss des klinischen Versuchs von einem solchen Verdachtsfall Kenntnis erlangen.[^41-5]
+
+<sup>5</sup> Die Definition des Verdachtsfalls auf eine unerwartete schwerwiegende Arzneimittelwirkung richtet sich nach den Regeln der Guten Klinischen Praxis nach Anhang 1 Ziffer 2.[^41-6]
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-5]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^41-6]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 42
 
-**Schwerwiegende unerwünschte Ereignisse (Serious Adverse Events, SAE) und Mängel an Produkten nach Artikel 2*a* Absatz 2 HMG bei klinischen Versuchen mit Produkten nach Artikel 2*a* Absatz 2 HMG**[^42-1]
+**Bei schwerwiegenden unerwünschten Ereignissen (*Serious Adverse Events, SAE*) und Mängeln bei klinischen Versuchen mit Produkten nach Artikel 2*a* Absatz 2 HMG[^42-2]**[^42-1]
 
 <sup>1</sup>
 
@@ -772,97 +1012,117 @@ Die Prüfperson meldet der zuständigen Ethikkommission innerhalb von 7 Tagen:
 
 - b. Mängel am zu untersuchenden Produkt nach Artikel 2*a* Absatz 2 HMG, die ohne angemessene Massnahmen, ohne einen Eingriff oder unter weniger günstigen Umständen zu schwerwiegenden unerwünschten Ereignissen hätten führen können.
 
-<sup>2</sup> Treten bei einem multizentrischen klinischen Versuch an einem der Durchführungsorte schwerwiegende unerwünschte Ereignisse oder Mängel am zu untersuchenden Produkt nach Artikel 2*a* Absatz 2 HMG auf, so erstattet die koordinierende Prüfperson die Meldung auch der zuständigen beteiligten Ethikkommission.
+<sup>2</sup> Treten bei einem multizentrischen klinischen Versuch an einem der Durchführungsorte schwerwiegende unerwünschte Ereignisse oder Mängel am zu untersuchenden Produkt nach Artikel 2*a* Absatz 2 HMG auf, so erstattet die koordinierende Prüfperson die Meldung auch der beteiligten Ethikkommission.[^42-3]
 
-<sup>3</sup> Für einen klinischen Versuch der Kategorie C sind die Meldungen nach Absatz 1 auch dem Institut zu erstatten. Diese Pflicht obliegt dem Sponsor. Er meldet dem Institut zudem im Ausland aufgetretene Ereignisse und am zu untersuchenden Produkt nach Artikel 2*a* Absatz 2 HMG beobachtete Mängel. Bei einem klinischen Versuch der Kategorie A obliegt dem Sponsor die Meldepflicht nach Artikel 15 Absatz 1 MepV[^42-2] in der Fassung vom 1. Januar 2002[^42-3] in Anwendung von Artikel 103 Absatz 2 MepV.
+<sup>3</sup> Für einen klinischen Versuch der Kategorie C sind die Meldungen nach Absatz 1 auch der Swissmedic zu erstatten. Diese Pflicht obliegt dem Sponsor. Er meldet der Swissmedic zudem im Ausland aufgetretene Ereignisse und am zu untersuchenden Produkt nach Artikel 2*a* Absatz 2 HMG beobachtete Mängel. Bei einem klinischen Versuch der Kategorie A obliegt dem Sponsor die Meldepflicht nach Artikel 15 Absatz 1 MepV[^42-4] in der Fassung vom 1. Januar 2002[^42-5] in Anwendung von Artikel 103 Absatz 2 MepV.
 
 <sup>4</sup> Die Definition schwerwiegender unerwünschter Ereignisse und Mängel an Produkten nach Artikel 2*a* Absatz 2 HMG richtet sich nach den Regeln der Guten Klinischen Praxis nach Anhang 1 Ziffer 2.
 
 [^42-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^42-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^42-3]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
+[^42-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^42-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^42-4]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^42-5]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520)
 
 #### Art. 43
 
 **Berichterstattung über die Sicherheit der teilnehmenden Personen**
 
-<sup>1</sup> Die Prüfperson legt der zuständigen Ethikkommission einmal jährlich eine Liste der Ereignisse und Mängel am zu untersuchenden Produkt nach Artikel 2*a* Absatz 2 HMG beziehungsweise Arzneimittelwirkungen nach den Artikeln 40–42 vor und erstattet ihr daraus abgeleitet einen Bericht über deren Schweregrad, deren Kausalität zur Intervention sowie über die Sicherheit der teilnehmenden Personen (Annual Safety Report, ASR).[^43-1]
+<sup>1</sup> Die Prüfperson legt der zuständigen Ethikkommission einmal jährlich eine Liste der Ereignisse und Mängel am zu untersuchenden Produkt nach Artikel 2*a* Absatz 2 HMG beziehungsweise Arzneimittelwirkungen nach den Artikeln 40–42 vor. Sie erstattet ihr daraus abgeleitet einen Bericht über deren Schweregrad, deren Kausalität zur Intervention sowie über die Sicherheit der teilnehmenden Personen, und informiert die Ethikkommission über den allgemeinen Fortschritt des klinischen Versuchs.[^43-1]
 
 <sup>2</sup> Bei klinischen Versuchen, die nach gleichem Prüfplan auch im Ausland durchgeführt werden, sind zusätzlich die Ereignisse und Mängel am zu untersuchenden Produkt nach Artikel 2*a* Absatz 2 HMG beziehungsweise die Arzneimittelwirkungen im Ausland in die Liste und den Bericht aufzunehmen.[^43-2]
 
-<sup>3</sup> Für klinische Versuche der Kategorien B und C ist auch dem Institut Bericht nach den Absätzen 1 und 2 zu erstatten. Diese Pflicht obliegt dem Sponsor.
+<sup>3</sup> Für klinische Versuche der Kategorien B und C ist auch der Swissmedic Bericht nach den Absätzen 1 und 2 zu erstatten. Diese Pflicht obliegt dem Sponsor.
 
-[^43-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^43-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 [^43-2]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 44
 
-**Überprüfung, Meldung und Berichterstattung bei der Anwendung von Strahlungsquellen**[^44-1]
+**Bei der Anwendung von ionisierender Strahlung[^44-2]**[^44-1]
 
-<sup>1</sup> Die Prüfperson überprüft bei klinischen Versuchen mit Arzneimitteln oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können, sowie bei Untersuchungen mit Strahlungsquellen die Einhaltung des Dosisrichtwerts nach Artikel 45 der Strahlenschutzverordnung vom 26. April 2017[^44-2].
+<sup>1</sup> Die Prüfperson überprüft bei klinischen Versuchen mit jeglicher Anwendung von ionisierender Strahlung die Einhaltung des Dosisrichtwertes nach Artikel 45 der Strahlenschutzverordnung vom 26. April 2017[^44-3].[^44-4]
 
 <sup>2</sup> Sie meldet eine Überschreitung des zulässigen Dosisrichtwertes innerhalb von sieben Arbeitstagen nach Bekanntwerden der zuständigen Ethikkommission.
 
-<sup>3</sup> Für klinische Versuche der Kategorien B und C mit Arzneimitteln oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden, ist die Meldung nach Absatz 2 auch dem Institut zu erstatten. Diese Pflicht obliegt dem Sponsor.
+<sup>3</sup> Für klinische Versuche der Kategorien B und C mit Arzneimitteln, die ionisierende Strahlung aussenden, ist die Meldung nach Absatz 2 auch der Swissmedic zu erstatten. Diese Pflicht obliegt dem Sponsor.[^44-5]
 
-<sup>4</sup> Die zuständige Ethikkommission und das Institut können zur Beurteilung der Dosisberechnung oder der Dosisabschätzung sowie zur Bestimmung der weiteren Massnahmen die fachliche Beratung des BAG einholen.
+<sup>4</sup> Die zuständige Ethikkommission und Swissmedic können zur Beurteilung der Dosisberechnung oder der Dosisabschätzung sowie zur Bestimmung der weiteren Massnahmen die fachliche Beratung des BAG einholen.
 
-<sup>5</sup> Die Prüfperson übermittelt dem BAG innerhalb eines Jahres nach Abschluss oder Abbruch eines klinischen Versuchs, der Untersuchungen mit radioaktiven Quellen beinhaltete, einen Schlussbericht mit allen für den Strahlenschutz relevanten Angaben, insbesondere einer retrospektiven Dosisabschätzung der teilnehmenden Personen.
+<sup>5</sup> Die Prüfperson dokumentiert bei jeglicher Anwendung von ionisierender Strahlung im zusammenfassenden Schlussbericht nach Artikel 38 alle für den Strahlenschutz relevanten Angaben, insbesondere die retrospektive Dosisabschätzung für die teilnehmenden Personen.[^44-6]
 
-<sup>6</sup> Keine Berichterstattungspflicht nach Absatz 5 besteht bei nuklearmedizinischen Routineuntersuchungen mit zugelassenen Radiopharmazeutika.
+<sup>6</sup> Keine Berichterstattungspflicht nach Absatz 5 besteht bei zulassungskonform angewendeten Radiopharmazeutika und bei nach Gebrauchsanweisung angewendeten Medizinprodukten mit Konformitätskennzeichen nach Artikel 13 MepV[^44-7].[^44-8]
 
-<sup>7</sup> Das BAG kann im Rahmen der Stellungnahme nach Artikel 28 oder auf Gesuch hin weitere Ausnahmen von der Berichterstattungspflicht nach Absatz 5 vorsehen.
+<sup>7</sup> Das BAG kann im Rahmen der Stellungnahme nach Artikel 36*a* oder auf Gesuch hin weitere Ausnahmen von der Berichterstattungspflicht nach Absatz 5 vorsehen.[^44-9]
+
+<sup>8</sup> Die Prüfperson leitet den zusammenfassenden Schlussbericht an das BAG weiter, falls das BAG eine Stellungnahme nach Artikel 36 oder 36*a* abgegeben hat.[^44-10]
 
 [^44-1]: Fassung gemäss Anhang 11 Ziff. 6 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^44-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-3]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^44-4]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-5]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-6]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-7]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^44-8]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-9]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^44-10]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 44a
+
+**Übernahme der Melde- und Berichterstattungspflichten der Prüfperson durch den Sponsor**[^44a-1]
+
+Anstelle der Prüfperson kann der Sponsor die in diesem Abschnitt aufgeführten Melde- und Berichterstattungspflichten gegenüber der Ethikkommission oder den Ethikkommissionen übernehmen, wenn dies in den Gesuchsunterlagen so vorgesehen ist.
+
+[^44a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 45
 
 **Aufbewahrungspflicht**
 
-<sup>1</sup> Der Sponsor muss sämtliche Daten, die den klinischen Versuch betreffen, bis zum Verfalldatum der letzten ausgelieferten Charge des zu untersuchenden Arzneimittels oder des zuletzt hergestellten Produkts nach Artikel 2*a* Absatz 2 HMG, mindestens aber während zehn Jahren nach Abschluss oder Abbruch des klinischen Versuchs aufbewahren. Bei implantierbaren Produkten nach Artikel 2*a* Absatz 2 HMG beträgt die Aufbewahrungsfrist mindestens 15 Jahre.[^45-1]
+<sup>1</sup> Der Sponsor muss sämtliche Daten, die den klinischen Versuch betreffen, bis zum Verfalldatum der letzten ausgelieferten Charge des zu untersuchenden Arzneimittels oder des zuletzt hergestellten Produkts nach Artikel 2*a* Absatz 2 HMG, mindestens aber während zwanzig Jahren nach Abschluss oder Abbruch des klinischen Versuchs aufbewahren.[^45-1]
 
-<sup>2</sup> Die Prüfperson muss sämtliche für die Identifizierung und die Nachbetreuung der teilnehmenden Personen notwendigen Unterlagen sowie alle anderen Originaldaten während mindestens zehn Jahren nach Abschluss oder Abbruch des klinischen Versuchs aufbewahren. Bei implantierbaren Produkten nach Artikel 2*a* Absatz 2 HMG beträgt die Aufbewahrungsfrist mindestens 15 Jahre.[^45-2]
+<sup>2</sup> Die Prüfperson muss sämtliche für die Identifizierung und die Nachbetreuung der teilnehmenden Personen notwendigen Unterlagen sowie alle anderen Originaldaten während mindestens zwanzig Jahren nach Abschluss oder Abbruch des klinischen Versuchs aufbewahren.[^45-2]
 
 <sup>3</sup> Für klinische Versuche mit Transplantatprodukten und für klinische Versuche mit Blut und Blutprodukten richtet sich die Aufbewahrungspflicht nach Artikel 40 Absatz 1 HMG.
 
-[^45-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^45-2]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^45-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^45-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 6. Abschnitt: Inspektionen und Verwaltungsmassnahmen
 
 #### Art. 46
 
-**Inspektionen des Instituts**
+**Inspektionen von Swissmedic**
 
-<sup>1</sup> Das Institut ist zur Inspektion sämtlicher klinischer Versuche mit Arzneimitteln, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten berechtigt.
+<sup>1</sup> Die Swissmedic ist zur Inspektion sämtlicher klinischer Versuche mit Arzneimitteln, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten berechtigt.
 
-<sup>2</sup> Führt das Institut Inspektionen durch, so informiert es vorgängig die zuständige Ethikkommission sowie weitere zuständige Behörden des Kantons und des Bundes. Diese können an der Inspektion teilnehmen.
+<sup>2</sup> Führt die Swissmedic Inspektionen durch, so informiert die Swissmedic vorgängig die zuständige Ethikkommission sowie weitere zuständige Behörden des Kantons und des Bundes. Diese können an der Inspektion teilnehmen.
 
-<sup>3</sup> Die Befugnisse des Instituts richten sich nach Artikel 62 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^46-1].
+<sup>3</sup> Die Befugnisse von Swissmedic richten sich nach Artikel 62 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^46-1].
 
-<sup>4</sup> Das Institut kann zudem im Ausland Inspektionen zulasten des Sponsors durchführen, wenn dies zur Überprüfung des in der Schweiz durchgeführten klinischen Versuchs notwendig ist. Der Sponsor ist vorgängig zu informieren.
+<sup>4</sup> Die Swissmedic kann zudem im Ausland Inspektionen zulasten des Sponsors durchführen, wenn dies zur Überprüfung des in der Schweiz durchgeführten klinischen Versuchs notwendig ist. Der Sponsor ist vorgängig zu informieren.
 
-<sup>5</sup> Das Institut informiert die zuständige Ethikkommission sowie weitere zuständige Behörden des Kantons und des Bundes über die Ergebnisse der Inspektion.
+<sup>5</sup> Die Swissmedic informiert die zuständige Ethikkommission sowie weitere zuständige Behörden des Kantons und des Bundes über die Ergebnisse der Inspektion.
 
 [^46-1]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
 
 #### Art. 47
 
-**Verwaltungsmassnahmen des Instituts**
+**Verwaltungsmassnahmen von Swissmedic**
 
-Das Institut kann die erteilte Bewilligung widerrufen, sistieren oder die Weiterführung des klinischen Versuchs von zusätzlichen Auflagen abhängig machen, namentlich wenn:
+Die Swissmedic kann die erteilte Bewilligung widerrufen, sistieren oder die Weiterführung des klinischen Versuchs von zusätzlichen Auflagen abhängig machen, namentlich wenn:
 
 - a. die Sicherheit oder die Gesundheit der teilnehmenden Personen gefährdet ist, namentlich durch mangelnde Produktesicherheit oder Herstellungsmängel;
 - b. die Qualität der erhobenen Daten mangelhaft ist;
-- c. der klinische Versuch nicht gemäss den vom Institut oder von der Ethikkommission bewilligten Gesuchsunterlagen durchgeführt wird;
+- c. der klinische Versuch nicht gemäss den von Swissmedic oder von der Ethikkommission bewilligten Gesuchsunterlagen durchgeführt wird;
 - d. die Bewilligungs- und Meldepflichten nicht eingehalten wurden.
 
 #### Art. 48
 
 **Koordination und Information**
 
-<sup>1</sup> Die zuständige Ethikkommission, das Institut sowie die weiteren zuständigen Behörden der Kantone koordinieren vorgängig die zu treffenden Verwaltungsmassnahmen.
+<sup>1</sup> Die zuständige Ethikkommission, die Swissmedic sowie die weiteren zuständigen Behörden der Kantone koordinieren vorgängig die zu treffenden Verwaltungsmassnahmen.
 
 <sup>2</sup> Vorbehalten bleiben Massnahmen, die zum Schutz der Sicherheit oder der Gesundheit dieser Personen unverzüglich angeordnet werden müssen. Die Ethikkommissionen sowie die weiteren zuständigen Behörden von Bund und Kantonen informieren sich unverzüglich gegenseitig über diese Massnahmen.
 
@@ -882,17 +1142,32 @@ Das Institut kann die erteilte Bewilligung widerrufen, sistieren oder die Weiter
 
 #### Art. 50
 
-**Information und Koordination bei Bewilligungsverfahren**
+**Information und Koordination bei Bewilligungsverfahren sowie Frist zur Einreichung bei der zweiten Bewilligungsbehörde[^50-1]**
 
 <sup>1</sup> Die Prüfperson und der Sponsor können die Gesuche bei der zuständigen Ethikkommission und beim BAG gleichzeitig einreichen.
 
+<sup>1bis</sup> Für klinische Versuche der Kategorie C muss das Gesuch innerhalb von zwei Jahren nach Erteilung der Bewilligung durch die erste Bewilligungsbehörde bei der zweiten Bewilligungsbehörde eingereicht werden.[^50-2]
+
+<sup>1ter</sup> Auf Antrag der Inhaberin oder des Inhabers der Bewilligung kann die erste Bewilligungsbehörde die Frist nach Absatz 1<sup>bis</sup> verlängern. Ein solcher Antrag gilt als wesentliche Änderung am klinischen Versuch.[^50-3]
+
+<sup>1quater</sup> Wird die Frist nach Absatz 1<sup>bis</sup> oder die nach Absatz 1<sup>ter</sup> verlängerte Frist überschritten oder ein Antrag auf Fristverlängerung gemäss Absatz 1<sup>ter</sup> abgelehnt, so verfällt die erteilte Bewilligung.[^50-4]
+
 <sup>2</sup> Die zuständige Ethikkommission und das BAG informieren sich gegenseitig über Aspekte, welche die Prüfbereiche sowohl nach Artikel 25 als auch nach Artikel 53 betreffen, und koordinieren ihre Beurteilungen.
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-3]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^50-4]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 2. Abschnitt: Verfahren bei der zuständigen Ethikkommission
 
 #### Art. 51
 
-Für das Bewilligungsverfahren klinischer Versuche der Transplantation bei der zuständigen Ethikkommission sind die Artikel 24–29 sinngemäss anwendbar.
+[^51-1]
+
+Für das Bewilligungsverfahren klinischer Versuche der Transplantation bei der zuständigen Ethikkommission sind die Artikel 23*a*–27, 29 und 36*a* sinngemäss anwendbar.
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 3. Abschnitt: Verfahren beim BAG
 
@@ -936,14 +1211,20 @@ Das BAG überprüft bei klinischen Versuchen der Transplantation:
 
 Als wesentliche Änderungen gelten:
 
-- a. neue wissenschaftliche Erkenntnisse, namentlich aufgrund neuer präklinischer und klinischer Daten, die sich auf die Beurteilung der Sicherheit der verwendeten Organe, Gewebe und Zellen auswirken; oder
-- b. Änderungen betreffend die Herkunft, die durchzuführenden Tests oder die Lagerung der verwendeten Organe, Gewebe und Zellen.
+- a. neue wissenschaftliche Erkenntnisse, namentlich aufgrund neuer präklinischer und klinischer Daten, die sich auf die Beurteilung der Sicherheit der verwendeten Organe, Gewebe und Zellen auswirken;
+- b. Änderungen betreffend die Herkunft, die durchzuführenden Tests oder die Lagerung der verwendeten Organe, Gewebe und Zellen; oder
+- c.[^55-1] bei klinischen Versuchen der Transplantation embryonaler oder fötaler Gewebe und Zellen: Änderungen, die sich auf die Sicherheit der teilnehmenden Personen auswirken können;
+- d.[^55-2] die Verlängerung der Fristen nach den Artikeln 23*a* und 50; der Sponsor legt im Antrag an das BAG dar, ob die Gesuchsunterlagen noch aktuell sind, insbesondere in Bezug auf Fragen der Herkunft, Sicherheit und Qualität der verwendeten Organe, Gewebe und Zellen; ist dies nicht der Fall, so reicht er aktualisierte Gesuchsunterlagen ein.
 
-<sup>4</sup> Zudem gelten bei klinischen Versuchen der Transplantation embryonaler oder fötaler Gewebe und Zellen Änderungen, die sich auf die Sicherheit der teilnehmenden Personen auswirken können, als wesentlich.
+<sup>4</sup> …[^55-3]
 
 <sup>5</sup> Das BAG entscheidet innerhalb von 30 Tagen nach Eingang der vollständigen von der Änderung betroffenen Gesuchsunterlagen. Artikel 33 ist sinngemäss anwendbar.
 
 <sup>6</sup> Übrige Änderungen, die dem BAG eingereichte Unterlagen betreffen, müssen dem BAG so rasch als möglich gemeldet werden.
+
+[^55-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^55-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^55-3]: Aufgehoben durch Ziff. I der V vom 7. Juni 2024, mit Wirkung seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 56
 
@@ -957,17 +1238,54 @@ Als wesentliche Änderungen gelten:
 
 [^56-1]: [SR 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
 
-### 4. Abschnitt: Meldungen und Berichterstattung
+### 4. Abschnitt: Dokumentation, Meldungen und Berichterstattung
+
+[^chap3-sec4-1]
+
+[^chap3-sec4-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 57
 
-<sup>1</sup> Für die Meldungen und die Berichterstattung für klinische Versuche der Transplantation sind die Artikel 37–41, 43 und 44 sinngemäss anwendbar.[^57-1]
+**Anwendbare Bestimmungen[^57-1]**
 
-<sup>2</sup> Die Pflichten, die nach diesen Bestimmungen gegenüber dem Institut wahrgenommen werden müssen, sind für klinische Versuche der Transplantation gegenüber dem BAG wahrzunehmen.
+<sup>1</sup> Für die Dokumentation, die Meldungen und die Berichterstattung für klinische Versuche der Transplantation sind die Artikel 37–39, 44 und 44*a* sinngemäss anwendbar.[^57-2]
+
+<sup>2</sup> Die Pflichten, die nach diesen Bestimmungen gegenüber der Swissmedic wahrgenommen werden müssen, sind für klinische Versuche der Transplantation gegenüber dem BAG wahrzunehmen.
 
 <sup>3</sup> Für klinische Versuche der Transplantation richten sich die Aufzeichnungspflicht, die Rückverfolgbarkeit und die Aufbewahrungspflichten des Sponsors und des Prüfers nach den Artikeln 34 und 35 des Transplantationsgesetzes.
 
-[^57-1]: Berichtigung vom 27. Dez. 2013 ([AS 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
+[^57-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^57-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 57a
+
+**Meldung schwerwiegender unerwünschter Ereignisse**[^57a-1]
+
+<sup>1</sup> Treten bei der Durchführung des klinischen Versuchs bei teilnehmenden Personen schwerwiegende unerwünschte Ereignisse auf, so muss die Prüfperson diese in standardisierter Weise dokumentieren und dem Sponsor innerhalb von 24 Stunden nach Bekanntwerden melden. Ausgenommen sind Ereignisse, die gemäss Prüfplan nicht meldepflichtig sind.
+
+<sup>2</sup> Die Prüfperson meldet ein in der Schweiz aufgetretenes schwerwiegendes unerwünschtes Ereignis mit lebensbedrohlichen oder tödlichen Folgen der zuständigen Ethikkommission innerhalb von 7 Tagen, ein sonstiges schwerwiegendes unerwünschtes Ereignis innerhalb von 15 Tagen.
+
+<sup>3</sup> Tritt bei einem multizentrischen klinischen Versuch ein schwerwiegendes unerwünschtes Ereignis an einem der Durchführungsorte in der Schweiz auf, so erstattet die koordinierende Prüfperson die Meldung nach Absatz 2 innert gleicher Frist auch der beteiligten Ethikkommission.
+
+<sup>4</sup> Für klinische Versuche der Kategorie C sind die Meldungen nach Absatz 2 auch dem BAG zu erstatten. Diese Pflicht obliegt dem Sponsor.
+
+<sup>5</sup> Die Pflichten nach den Absätzen 1*–*4 gelten auch dann, wenn die Prüfperson oder der Sponsor von einem schwerwiegenden unerwünschten Ereignis Kenntnis erlangen, das nach Abschluss des klinischen Versuchs in der Schweiz aufgetreten ist, oder wenn die Prüfperson oder der Sponsor erst nach Abschluss des klinischen Versuchs von einem solchen Ereignis Kenntnis erlangen.
+
+<sup>6</sup> Die Definition schwerwiegender unerwünschter Ereignisse richtet sich nach den Regeln der Guten Klinischen Praxis nach Anhang 1 Ziffer 2.
+
+[^57a-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+#### Art. 57b
+
+**Berichterstattung über die Sicherheit der teilnehmenden Personen**[^57b-1]
+
+<sup>1</sup> Die Prüfperson legt der zuständigen Ethikkommission einmal jährlich eine Liste der Ereignisse nach Artikel 57*a* vor und erstattet ihr daraus abgeleitet einen Bericht über deren Schweregrad, deren Kausalität zur Intervention sowie über die Sicherheit der teilnehmenden Personen und informiert die Ethikkommission über den allgemeinen Fortschritt des klinischen Versuchs.
+
+<sup>2</sup> Bei klinischen Versuchen, die nach gleichem Prüfplan auch im Ausland durchgeführt werden, sind zusätzlich die Ereignisse im Ausland in die Liste und den Bericht aufzunehmen.
+
+<sup>3</sup> Für klinische Versuche der Kategorie C ist auch dem BAG Bericht nach den Absätzen 1 und 2 zu erstatten. Diese Pflicht obliegt dem Sponsor.
+
+[^57b-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 5. Abschnitt: Inspektionen und Verwaltungsmassnahmen
 
@@ -1008,17 +1326,20 @@ Dieses Kapitel ist anwendbar auf klinische Versuche, die weder Versuche mit Arzn
 
 <sup>1</sup>
 
-Ein klinischer Versuch entspricht der Kategorie A, wenn die untersuchte gesundheitsbezogene Intervention:
+Ein klinischer Versuch entspricht der Kategorie A, wenn die untersuchte Intervention:[^61-1]
 
 - a. nur mit minimalen Risiken und Belastungen verbunden ist; oder
 - b. in einer nach international anerkannten Qualitätskriterien verfassten Leitlinie als Standard ausgewiesen ist.
 
 <sup>2</sup>
 
-Ein klinischer Versuch entspricht der Kategorie B, wenn die untersuchte gesundheitsbezogene Intervention:
+Ein klinischer Versuch entspricht der Kategorie B, wenn die untersuchte Intervention:[^61-2]
 
 - a. mit mehr als minimalen Risiken und Belastungen verbunden ist; und
 - b. nicht als Standard nach Absatz 1 Buchstabe b ausgewiesen ist.
+
+[^61-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^61-2]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 2. Abschnitt: Bewilligungs- und Meldeverfahren bei der zuständigen Ethikkommission
 
@@ -1028,11 +1349,18 @@ Ein klinischer Versuch entspricht der Kategorie B, wenn die untersuchte gesundhe
 
 Sinngemäss anwendbar sind:
 
-- a. für das Bewilligungsverfahren für klinische Versuche die Artikel 24–29;
+- a.[^62-1] für das Bewilligungsverfahren für klinische Versuche die Artikel 24–27, 29 und 36*a*;
+- a<sup>bis</sup>.[^62-2] für die Befristung der Bewilligung Artikel 23*a*;
 - b. für die Meldung von Sicherheits- und Schutzmassnahmen Artikel 37 Absatz 1;
-- c. für die Meldung und die Berichterstattung bei Abschluss, Abbruch oder Unterbruch des klinischen Versuchs Artikel 38 Absätze 1–4;
+- c.[^62-3] für die Meldung der ersten Visite der ersten teilnehmenden Person sowie für die Meldung und Berichterstattung bei Abschluss, Abbruch, Unterbruch und Wiederaufnahme des klinischen Versuchs Artikel 38 Absätze 1–4;
 - d. für die Berichterstattung über die Sicherheit der teilnehmenden Personen Artikel 43 Absätze 1 und 2;
+- d<sup>bis</sup>.[^62-4] für die Meldung und Berichterstattung bei Begleituntersuchungen mit ionisierender Strahlung Artikel 44;
 - e. für die Aufbewahrungspflicht Artikel 45 Absatz 2.
+
+[^62-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-2]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^62-4]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 63
 
@@ -1056,9 +1384,9 @@ Als schwerwiegendes unerwünschtes Ereignis gilt jedes Ereignis, das:
 
 <sup>3</sup> Ist es zur Gewährleistung der Sicherheit und der Gesundheit der teilnehmenden Personen erforderlich, so sind im Prüfplan oder auf Verlangen der zuständigen Ethikkommission weitere unerwünschte Ereignisse zu bezeichnen, die dokumentiert oder gemeldet werden müssen.
 
-<sup>4</sup> Treten bei einem multizentrischen klinischen Versuch schwerwiegende unerwünschte Ereignisse an einem der Durchführungsorte auf, so erstattet die koordinierende Prüfperson die Meldung nach den Absätzen 1 und 3 innert gleicher Frist auch der zuständigen beteiligten Ethikkommission.[^63-1]
+<sup>4</sup> Treten bei einem multizentrischen klinischen Versuch schwerwiegende unerwünschte Ereignisse an einem der Durchführungsorte auf, so erstattet die koordinierende Prüfperson die Meldung nach den Absätzen 1 und 3 innert gleicher Frist auch der beteiligten Ethikkommission.[^63-1]
 
-[^63-1]: Berichtigung vom 27. Dez. 2013 ([AS 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
+[^63-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ## 5. Kapitel: Registrierung
 
@@ -1077,8 +1405,8 @@ Der Sponsor muss für einen bewilligten klinischen Versuch die Daten nach Anhang
 
 <sup>3</sup> Die Daten sind in der von der zuständigen Ethikkommission bewilligten Fassung einzutragen.
 
-[^64-1]: Die Register sind einsehbar unter www.who.int &gt; Programmes and projects &gt; Clinical Trials International Registry Platform.
-[^64-2]: Das Register ist einsehbar unter www.clinicaltrials.gov.
+[^64-1]: Die Register sind einsehbar unter: [www.who.int/](http://www.who.int/) &gt; Programmes and projects &gt; Clinical Trials International Registry Platform.
+[^64-2]: Das Register ist einsehbar unter: [www.clinicaltrials.gov](http://www.clinicaltrials.gov).
 
 #### Art. 65
 
@@ -1159,15 +1487,24 @@ Die Änderung anderer Erlasse wird in Anhang 6 geregelt.
 
 #### Art. 72
 
-**Übergangsbestimmung für nach bisherigem Recht nicht bewilligungspflichtige klinische Versuche**
+**Übergangsbestimmungen zur Änderung vom 7. Juni 2024**[^72-1]
 
-Die zuständige Ethikkommission entscheidet über Gesuche für nach bisherigem Recht nicht bewilligungspflichtige klinische Versuche im Sinne von Artikel 67 Absatz 2 HFG innerhalb von sechs Monaten nach der Bestätigung des Eingangs der formal korrekten Gesuchsunterlagen.
+<sup>1</sup> Die Fristen nach den Artikeln 23*a* Absatz 1, 38 Absatz 2 dritter Satz, und 65*a* Absatz 1 zweiter Satz[^72-2] beginnen bei laufenden klinischen Versuchen, die vor Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, ab Inkrafttreten dieser Änderung zu laufen; bei klinischen Versuchen, die vor Inkrafttreten dieser Änderung erst über eine von zwei notwendigen Bewilligungen verfügen, beginnt die Frist nach den Artikeln 23 Absatz 1<sup>bis</sup> und 50 Absatz 1<sup>bis</sup> ab Inkrafttreten dieser Änderung zu laufen.
+
+<sup>2</sup> Bei laufenden klinischen Versuchen, die vor Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, können die Melde-, Berichterstattungs- und Dokumentationspflichten in ihrer Gesamtheit nach Kapitel 2 Abschnitt 5, Kapitel 3 Abschnitt 4 sowie Kapitel 4 Abschnitt 2 bis ein Jahr nach Inkrafttreten dieser Änderung nach bisherigem Recht erfüllt werden.
+
+<sup>3</sup> Bei klinischen Versuchen, die vor dem Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, richten sich die Haftungs-, Sicherstellungs- und Aufbewahrungspflichten nach bisherigem Recht. Wurde die Bewilligung für den klinischen Versuch befristet erteilt, richten sich diese Pflichten bei Erneuerung der Bewilligung nach neuem Recht.
+
+<sup>4</sup> Fällt ein bewilligter klinischer Versuch mit Arzneimitteln nach dem Inkrafttreten der Änderung vom 7. Juni 2024 nach neuem Recht in eine andere Kategorie nach Artikel 19, so kann der Sponsor bis ein Jahr nach Inkrafttreten der Änderung vom 7. Juni 2024 eine Anpassung der Kategorie in Form einer wesentlichen Änderung beantragen. Diese muss zuerst bei der Swissmedic und nach deren Bewilligung bei der zuständigen Ethikkommission eingereicht werden.
+
+[^72-1]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+[^72-2]: Tritt am 1. März 2025 in Kraft ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 73
 
-**Übergangsbestimmung zur Registrierungspflicht**
+[^73-1]
 
-Der Sponsor eines bewilligten klinischen Versuchs, der nicht innerhalb eines Jahres nach Inkrafttreten des HFG abgeschlossen wird, muss die Daten nach Anhang 5 Ziffer 1 innerhalb von sechs Monaten in ein Register nach Artikel 64 Absatz 1 eintragen.
+[^73-1]: Aufgehoben durch Ziff. I der V vom 7. Juni 2024, mit Wirkung seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 #### Art. 74
 
@@ -1175,19 +1512,19 @@ Der Sponsor eines bewilligten klinischen Versuchs, der nicht innerhalb eines Jah
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 3, 5, 19, 39–42)
 
 ## Regeln und Klassifizierungen
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des EDI vom 24. März 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)) und Anhang Ziff. 1 der V vom 25. Okt. 2017, in Kraft seit 26. Nov. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)).
+[^t-2]: Bereinigt gemäss Ziff. I der V des EDI vom 24. März 2017 ([AS 2017 2439](https://fedlex.data.admin.ch/eli/oc/2017/227)), Anhang Ziff. 1 der V vom 25. Okt. 2017 ([AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)) und Ziff. II Abs. 1 der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 1. Regeln über die wissenschaftliche Integrität
 
-Anwendbar sind die Grundsätze und Verfahrensregeln über die wissenschaftliche Integrität der Akademien der Wissenschaften Schweiz in der Fassung vom 28. Februar 2008[^annex1-lvlu1-lvl1-1].
+Anwendbar ist der Kodex zur wissenschaftlichen Integrität der Akademien der Wissenschaften Schweiz in der Fassung vom Mai 2021[^annex1-lvlu1-lvl1-1].
 
-[^annex1-lvlu1-lvl1-1]: Der Text der Richtlinie kann beim Bundesamt für Gesundheit, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter: www.bag.admin.ch &gt; Medizin & Forschung &gt; Forschung am Menschen, sowie unter www.akademien-schweiz.ch &gt; Publikationen &gt; Richtlinien und Empfehlungen.
+[^annex1-lvlu1-lvl1-1]: [www.akademien-schweiz.ch](https://akademien-schweiz.ch/de/publications/more/) &gt; Publikationen &gt; Weitere Publikationen
 
 ### 2. Regeln über die Gute Klinische Praxis
 
@@ -1195,25 +1532,27 @@ Als Regeln der Guten Klinischen Praxis sind anwendbar:
 
 - 1\. bei klinischen Versuchen mit Arzneimitteln und Transplantatprodukten: die Leitlinie der Guten Klinischen Praxis der Internationalen Harmonisierungskonferenz in der Fassung vom 9. November 2016[^annex1-lvlu1-lvl2-1] (ICH-Leitlinie);
 - 2\. bei klinischen Versuchen mit Produkten nach Art. 2*a* Absatz 2 HMG: die Anhänge VIII und X der Richtlinie 93/42/EWG[^annex1-lvlu1-lvl2-2] sowie die Anhänge 6 und 7 der Richtlinie 90/385/EWG[^annex1-lvlu1-lvl2-3] und die Konkretisierung durch die Norm EN ISO 14155: 2011[^annex1-lvlu1-lvl2-4]. Die Definition des *Serious Adverse Event* nach Artikel 42 richtet sich nach den *Guidelines on Medical Devices* (MEDDEV 2.7/3) vom Mai 2015[^annex1-lvlu1-lvl2-5];
-- 3\. bei klinischen Versuchen nach dem 3. und 4. Kapitel dieser Verordnung sinngemäss die ICH-Leitlinie.
+- 3\. bei klinischen Versuchen nach dem 3. und 4. Kapitel sinngemäss die ICH-Leitlinie.
 
-[^annex1-lvlu1-lvl2-1]: Der Text der Leitlinie kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: www.bag.admin.ch &gt; Medizin & Forschung &gt; Forschung am Menschen sowie unter www.ich.org &gt; Work products &gt; ICH Guidelines &gt; Efficacy Guidelines.
+[^annex1-lvlu1-lvl2-1]: Der Text der Leitlinie kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Medizin & Forschung &gt; Forschung am Menschen sowie unter: [www.clinicaltrials.gov](http://www.clinicaltrials.gov) &gt; Work products &gt; ICH Guidelines &gt; Efficacy Guidelines.
 [^annex1-lvlu1-lvl2-2]: Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte, ABl. L 169 vom 12.7.1993, S. 1; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
 [^annex1-lvlu1-lvl2-3]: Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte, ABl. L 189 vom 20.7.1990, S. 17; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
-[^annex1-lvlu1-lvl2-4]: Diese Norm kann beim Bundesamt für Gesundheit, 3003 Bern, sowie beim Schweizerischen Heilmittelinstitut, 3003 Bern, kostenlos eingesehen werden. Sie kann zudem gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex1-lvlu1-lvl2-5]: Der Text der Leitlinie kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: www.ec.europa.eu/growth/ &gt; Sectors &gt; Medical devices &gt; Guidance www.ec.europa.eu/growth/ &gt; Sectors &gt; Medical devices &gt; Guidance.
+[^annex1-lvlu1-lvl2-4]: Diese Norm kann beim Bundesamt für Gesundheit, 3003 Bern, sowie bei der Swissmedic, 3003 Bern, kostenlos eingesehen werden. Sie kann zudem gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^annex1-lvlu1-lvl2-5]: Der Text der Leitlinie kann beim Bundesamt für Gesundheit, 3003 Bern kostenlos eingesehen oder abgerufen werden unter: [www.ec.europa.eu/growth/](http://www.ec.europa.eu/growth/) &gt; Sectors &gt; Medical devices &gt; Guidance.
 
 ### 3. Internationale Klassifizierung von Krankheiten
 
 Anwendbar ist die *International Classification of Diseases* der WHO in der Fassung von 2010 (ICD-10)[^annex1-lvlu1-lvl3-1]; massgebend ist die mit dreistelligem Code definierte Krankheitsgruppe.
 
-[^annex1-lvlu1-lvl3-1]: Der Text der Klassifizierung kann beim Bundesamt für Gesundheit, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter: www.bag.admin.ch &gt; Medizin & Forschung &gt; Forschung am Menschen, sowie unter www.who.int &gt; Health topics &gt; Classifications of disease.
+[^annex1-lvlu1-lvl3-1]: Der Text der Klassifizierung kann beim Bundesamt für Gesundheit, 3003 Bern gegen Verrechnung bezogen, kostenlos eingesehen oder abgerufen werden unter: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Medizin & Forschung &gt; Forschung am Menschen, sowie unter: [www.who.int/](http://www.who.int/) &gt; Data &gt; Classifications.
 
-Anhang 2
+Anhang 2[^t-3]
 
 (Art. 13)
 
 ## Deckungssummen der Sicherstellung
+
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 - 1\.
 
@@ -1225,26 +1564,40 @@ Anhang 2
 
 - 2\.
 
-  Die Deckungssumme für übrige klinische Versuche beträgt mindestens:
+  Die Deckungssumme für alle klinischen Versuche, die nicht unter Ziffer 1 fallen, beträgt mindestens:
 
   - a. pro Person: 1 Million Franken;
   - b. für Sachschäden: 50 000 Franken;
   - c. für den gesamten klinischen Versuch: 10 Millionen Franken.
 
-Anhang 3*[^t-3]*
+Anhang 2<sup>bis</sup> [^t-4]
 
-(Art. 24, 27–29)
+(Art. 19)
+
+## Risikoarme Veränderungen am Prüfpräparat
+
+[^t-4]: Eingefügt durch Ziff. II Abs. 3 der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
+
+Als risikoarm gelten folgende Veränderungen:
+
+- 1\. Veränderung an der Sekundärverpackung, sofern ihre Schutzfunktion nicht beeinträchtigt wird;
+- 2\. Veränderung an der Primärverpackung, sofern es sich nicht um ein steriles Arzneimittel oder ein immunologisches Produkt handelt und erwiesen ist, dass bei Lagerung gemäss Fachinformation die Haltbarkeit nicht beeinträchtigt wird;
+- 3\. Veränderung durch Verkapselung eines ansonsten unveränderten festen Arzneimittels, welche die Absorption nicht beeinflusst und bei der erwiesen ist, dass bei Lagerung gemäss Fachinformation die Haltbarkeit nicht beeinträchtigt wird.
+
+Anhang 3[^t-5]
+
+(Art. 24, 27, 29 und 36*a*)
 
 ## Gesuchsunterlagen für das Verfahren bei der zuständigen Ethikkommission für klinische Versuche
 
-[^t-3]: Bereinigt gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^t-5]: Bereinigt gemäss Berichtigung vom 27. Dez. 2013 ([AS 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)), Anhang 2 Ziff. 2 der V vom 4. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) und Ziff. II Abs. 1 der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
 ### 1 Gesuchsunterlagen für klinische Versuche der Kategorie A mit Arzneimitteln, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten
 
-- 1\.1 Basisformular, einschliesslich der Zusammenfassung des Prüfplans in der Landessprache des Durchführungsorts sowie der Begründung der beantragten Kategorisierung;
+- 1\.1 Administrative Informationen, einschliesslich der Zusammenfassung des Prüfplans sowie der Begründung der beantragten Kategorisierung;
 - 1\.2 Prüfplan;
 - 1\.3 Datenerhebungsbogen (*Case Report Form, CRF*);
-- 1\.4 Aufklärungsbogen und Einwilligungserklärung sowie Unterlagen betreffend die Rekrutierung, namentlich Anzeige oder Inseratetexte;
+- 1\.4 Unterlagen zur Aufklärung und Einwilligung sowie zur Rekrutierung, namentlich Anzeige oder Inseratetexte;
 - 1\.5 weitere Unterlagen, die der teilnehmenden Person abgegeben werden;
 - 1\.6 Angaben über Art und Ausmass der Entschädigung der teilnehmenden Personen;
 - 1\.7 bei klinischen Versuchen mit Arzneimitteln: die Fachinformation;
@@ -1262,13 +1615,13 @@ Anhang 3*[^t-3]*
 
 ### 2 Gesuchsunterlagen für klinische Versuche der Kategorien B und C mit Arzneimitteln, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten
 
-- 2\.1 Basisformular, einschliesslich der Zusammenfassung des Prüfplans in der Landessprache des Durchführungsorts sowie der Begründung der beantragten Kategorisierung;
+- 2\.1 Administrative Informationen, einschliesslich der Zusammenfassung des Prüfplans sowie der Begründung der beantragten Kategorisierung;
 - 2\.2 Prüfplan;
 - 2\.3 Datenerhebungsbogen (*Case Report Form, CRF*);
-- 2\.4 Aufklärungsbogen und Einwilligungserklärung sowie Unterlagen betreffend die Rekrutierung, namentlich Anzeige oder Inseratetexte;
+- 2\.4 Unterlagen zur Aufklärung und Einwilligung sowie zur Rekrutierung, namentlich Anzeige oder Inseratetexte;
 - 2\.5 weitere Unterlagen, die der teilnehmenden Person abgegeben werden;
 - 2\.6 Angaben über Art und Ausmass der Entschädigung der teilnehmenden Personen;
-- 2\.7[^annex3-lvlu1-lvl2-1] bei klinischen Versuchen mit Arzneimitteln der Kategorie B: die Fachinformation sowie die die Abweichungen der Verabreichung betreffende Prüferinformation (*Investigator’s Brochure, IB*);
+- 2\.7 bei klinischen Versuchen mit Arzneimitteln der Kategorie B: die Fachinformation sowie die die Abweichungen der Verabreichung betreffende Prüferinformation (*Investigator’s Brochure, IB*);
 - 2\.8 bei klinischen Versuchen mit Arzneimitteln der Kategorie C: die Prüferinformation (*Investigator’s Brochure, IB*);
 - 2\.9 bei klinischen Versuchen mit der Kategorie C ohne Konformitätsbewertung: die Unterlagen nach Anhang 4 Ziffer 3.4 Buchstabe a;
 - 2\.10 bei klinischen Versuchen der Kategorie C mit Produkten nach Artikel 2*a* Absatz 2 HMG die nach Artikel 6 Absatz 3 MepV in der Fassung vom 1. Januar 2002 in Anwendung von Artikel 108 Absatz 1 Buchstabe b MepV gemeldet wurden, die ausserhalb der Zweckbestimmung beziehungsweise der Gebrauchsanweisung verwendet werden: die Unterlagen nach Anhang 4 Ziffer 3.5 Buchstaben a–d;
@@ -1277,17 +1630,15 @@ Anhang 3*[^t-3]*
 - 2\.13 Angaben über den sicheren Umgang mit Personendaten;
 - 2\.14 Vereinbarungen zwischen Sponsor beziehungsweise von ihm beauftragten Dritten und der Prüfperson, namentlich bezüglich der Finanzierung des klinischen Versuchs, der Vergütung der Prüfperson sowie bezüglich der Publikation;
 - 2\.15 Versicherungsnachweis oder anderer Nachweis der Sicherstellung für allfällige Schäden einschliesslich der diesbezüglichen Vereinbarungen zwischen Sponsor beziehungsweise von ihm beauftragter Dritter und der Prüfperson;
-- 2\.16 bei klinischen Versuchen der Gentherapie: die Angaben nach Anhang 4 Ziffer 4;
+- 2\.16 bei klinischen Versuchen der Gentherapie: die Angaben nach Anhang 4 Ziffer 1;
 - 2\.17 allfällige Entscheide oder Stellungnahmen von Ethikkommissionen im Ausland zum klinischen Versuch, einschliesslich allfälliger Auflagen und deren Begründung.
-
-[^annex3-lvlu1-lvl2-1]: Berichtigung vom 27. Dez. 2013 ([AS 2013 5579](https://fedlex.data.admin.ch/eli/oc/2013/892)).
 
 ### 3 Gesuchsunterlagen für klinische Versuche der Transplantation sowie für klinische Versuche ohne Arzneimittel oder Produkte nach Art. 2*a* Absatz 2 HMG
 
-- 3\.1 Basisformular, einschliesslich der Zusammenfassung des Prüfplans in der Landessprache des Durchführungsorts sowie der Begründung der beantragten Kategorisierung;
+- 3\.1 Administrative Informationen, einschliesslich der Zusammenfassung des Prüfplans sowie der Begründung der beantragten Kategorisierung;
 - 3\.2 Prüfplan;
 - 3\.3 Datenerhebungsbogen (*Case Report Form, CRF*);
-- 3\.4 Aufklärungsbogen und Einwilligungserklärung sowie Unterlagen betreffend die Rekrutierung, namentlich Anzeige oder Inseratetexte;
+- 3\.4 Unterlagen zur Aufklärung und Einwilligung sowie zur Rekrutierung, namentlich Anzeige oder Inseratetexte;
 - 3\.5 weitere Unterlagen, die der teilnehmenden Person abgegeben werden;
 - 3\.6 Angaben über Art und Ausmass der Entschädigung der teilnehmenden Personen;
 - 3\.7 bei klinischen Versuchen der Transplantation menschlicher Organe, Gewebe und Zellen: Angaben über die Information und die Zustimmung der Spenderin oder des Spenders;
@@ -1309,66 +1660,61 @@ Anhang 3*[^t-3]*
 
 ### 4 Gesuchsunterlagen für die beteiligten Ethikkommissionen bei multizentrischen klinischen Versuchen
 
-- 4\.1 Basisformular, einschliesslich der Zusammenfassung des Prüfplans in der Landessprache des Durchführungsorts sowie der Begründung der beantragten Kategorisierung;
+- 4\.1 Administrative Informationen, einschliesslich der Zusammenfassung des Prüfplans sowie der Begründung der beantragten Kategorisierung;
 - 4\.2 Prüfplan;
-- 4\.3 Aufklärungsbogen und Einwilligungserklärung sowie Unterlagen betreffend die Rekrutierung, namentlich Anzeige- oder Inseratetexte, die am jeweiligen Durchführungsort verwendet werden;
+- 4\.3 Unterlagen zur Aufklärung und Einwilligung sowie zur Rekrutierung, namentlich Anzeige- oder Inseratetexte, die am jeweiligen Durchführungsort verwendet werden;
 - 4\.4 Lebenslauf der am jeweiligen Durchführungsort tätigen Prüfperson einschliesslich des Nachweises ihrer Kenntnisse und Erfahrungen sowie eine Auflistung der weiteren am betreffenden Durchführungsort des klinischen Versuchs beteiligten Personen, einschliesslich ihrer Funktionen und der entsprechenden fachlichen Kenntnisse;
 - 4\.5 Angaben über die Geeignetheit und Verfügbarkeit der Infrastrukturen am jeweiligen Durchführungsort;
 - 4\.6 Vereinbarungen zwischen Sponsor beziehungsweise von ihm beauftragten Dritten und der koordinierenden Prüfperson sowie weiteren Prüfpersonen an den übrigen Durchführungsorten, namentlich bezüglich der Vergütung der Prüfperson am jeweiligen Durchführungsort;
 - 4\.7 Versicherungsnachweis oder anderer Nachweis der Sicherstellung für allfällige Schäden am jeweiligen Durchführungsort einschliesslich der diesbezüglichen Vereinbarungen zwischen Sponsor beziehungsweise von ihm beauftragter Dritter und der Prüfperson.
 
-### 5 Zusätzliche Gesuchsunterlagen für klinische Versuche der Kategorie A mit Arzneimitteln oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können, sowie für Untersuchungen mit Strahlungsquellen
+### 5 Zusätzliche Gesuchsunterlagen für klinische Versuche der Kategorie A mit Arzneimitteln, die ionisierende Strahlung aussenden können, sowie für Begleituntersuchungen mit ionisierender Strahlung
 
 - 5\.1 Angaben zu wesentlichen Strahlenschutzaspekten, insbesondere eine Berechnung beziehungsweise Abschätzung der effektiven Strahlendosis, der Organdosen und allfälliger Tumordosen;
 - 5\.2 die erforderlichen Bewilligungen gemäss Artikel 28 des Strahlenschutzgesetzes vom 22. März 1991[^annex3-lvlu1-lvl5-1].
 
 [^annex3-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
 
-### 6 Zusätzliche Gesuchsunterlagen für klinische Versuche, welche Untersuchungen mit Strahlungsquellen umfassen und eine Stellungnahme des BAG nach Artikel 28 Absatz 2 erfordern
+### 6. Zusätzliche Gesuchsunterlagen für klinische Versuche, welche Begleituntersuchungen mit ionisierender Strahlung umfassen und eine Stellungnahme des BAG nach Artikel 36*a* Absatz 4 erfordern
 
-- 6\.1 Angaben zu den Eigenschaften des Radiopharmazeutikums, namentlich zur Pharmakokinetik, Qualität, Stabilität, radiochemischen Reinheit und Radionuklidreinheit;
-- 6\.2 bei zugelassenen Radiopharmazeutika: die Fachinformation;
-- 6\.3 bei nicht zugelassene Radiopharmazeutika: die Angaben zum Herstellungsverfahren und zur Qualitätskontrolle des Radiopharmazeutikums, die Namen der hierfür verantwortlichen Personen sowie Angaben zu deren fachlicher Qualifikation;
-- 6\.4 die Namen der für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen sowie Angaben zu deren fachlicher Qualifikation;
-- 6\.5 Angaben gemäss Formular des BAG für klinische Versuche mit Radiopharmazeutika oder mit radioaktiv markierten Stoffen[^annex3-lvlu1-lvl6-1].
+- 6\.1
 
-[^annex3-lvlu1-lvl6-1]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse www.bag.admin.ch &gt; Gesund leben &gt; Umwelt & Gesundheit &gt; Strahlung, Radioaktivität & Schall abgerufen werden.
+  Angaben gemäss Formular des BAG für klinische Versuche mit Radiopharmazeutika oder mit radioaktiv markierten Stoffen[^annex3-lvlu1-lvl6-1]. Darunter fallen:
 
-Anhang 4*[^t-4]*
+  - a. Angaben zu den Eigenschaften, namentlich zur Pharmakokinetik, Qualität, Stabilität, radiochemischen Reinheit und Radionuklidreinheit;
+  - b. Angaben zur effektiven Dosis und zu Organdosen;
+  - c. bei zugelassenen Radiopharmazeutika: die Fachinformation;
+  - d. bei nicht zugelassenen Radiopharmazeutika oder radioaktiv markierten Stoffen: Angaben zur Herstellung und den fachlichen Qualifikationen der verantwortlichen Personen;
+  - e. die für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen und deren fachlichen Qualifikationen.
+
+- 6\.2 Angaben zu den Eigenschaften des Medizinprodukts, insbesondere Art und Intensität der ionisierenden Strahlung, sowie zur Art der Abweichung von der Gebrauchsanweisung.
+- [tab]
+
+[^annex3-lvlu1-lvl6-1]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse: [www.bag.admin.ch](https://www.bag.admin.ch/bag/de/home/gesetze-und-bewilligungen/gesuche-bewilligungen/bewilligungen-aufsicht-im-strahlenschutz.html) &gt; Gesetze & Bewilligungen &gt; Gesuche & Bewilligungen &gt; Strahlenschutz: Bewilligungen, Voraussetzungen und Aufsicht.
+
+Anhang 4[^t-6]
 
 (Art. 31, 34–36, 54, 55)
 
-## Gesuchsunterlagen für das Verfahren beim Schweizerischen Heilmittelinstitut beziehungsweise beim BAG für klinische Versuche mit Arzneimitteln, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten, für klinische Versuche der Gentherapie und mit gentechnisch veränderten oder mit pathogenen Organismen sowie für klinische Versuche der Transplantation
+## Gesuchsunterlagen für das Verfahren bei der Swissmedic beziehungsweise beim BAG für klinische Versuche mit Arzneimitteln, Produkten nach Art. 2*a* Absatz 2 HMG oder Transplantatprodukten, für klinische Versuche der Gentherapie und mit gentechnisch veränderten oder mit pathogenen Organismen sowie für klinische Versuche der Transplantation
 
-[^t-4]: Bereinigt gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022, in Kraft seit 26. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^t-6]: Bereinigt gemäss Anhang 2 Ziff. 2 der V vom 4. Mai 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) und Ziff. II Abs. 1 der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 322](https://fedlex.data.admin.ch/eli/oc/2024/322)).
 
-### 1 Gesuchsunterlagen für klinische Versuche der Kategorie B mit Arzneimitteln und Transplantatprodukten
+### 1 Gesuchsunterlagen für klinische Versuche der Kategorie B und C mit Arzneimitteln, Transplantatprodukten, der Gentherapie sowie mit gentechnisch veränderten oder pathogenen Organismen
 
-- 1\.1 Basisformular;
+- 1\.1 Administrative Informationen;
 - 1\.2 Prüfplan;
-- 1\.3 Fachinformation des Arzneimittels oder Transplantatproduktes;
-- 1\.4 Unterlagen zur Qualität des Arzneimittels, nur die allfälligen Änderungen betreffend dessen Zusammensetzung und Herstellung;
-- 1\.5 Prüferinformation (*Investigator’s Brochure, IB*), nur die Änderungen betreffend die Verabreichung des Arzneimittels;
-- 1\.6 Nachweis der Einhaltung der Guten Herstellungspraxis (*Good Manufact**u**ring Practice, GMP*);
-- 1\.7 Nachweis der Einhaltung der korrekten Kennzeichnung;
-- 1\.8 allfällige Entscheide von Arzneimittelaufsichtsbehörden anderer Länder zum klinischen Versuch, einschliesslich allfälliger Auflagen und deren Begründung;
-- 1\.9 Information über allfällige Gesuche, die bei einer Ethikkommission in der Schweiz hängig sind, und über allfällige Entscheide von Ethikkommissionen in der Schweiz.
+- 1\.3 Unterlagen zur Anwendungsart, zur Sicherheit und zur Risiko-Nutzen Bewertung der Prüfpräparate bzw. -produkte basierend auf den klinischen und nicht-klinischen Daten;
+- 1\.4 Unterlagen zur Qualität und zur Herstellung der Prüfpräparate bzw. -produkte, einschliesslich dem Nachweis der Einhaltung der Guten Herstellungspraxis (*Good Manufacturing Practices**, GMP*);
+- 1\.5 Nachweis der Einhaltung der korrekten Kennzeichnung;
+- 1\.6 Informationen über allfällige laufende oder abgeschlossene Bewilligungsverfahren bei Arzneimittelaufsichtsbehörden in anderen Ländern;
+- 1\.7 Informationen über allfällige laufende oder abgeschlossene Bewilligungsverfahren bei einer Ethikkommission in der Schweiz.
 
-### 2 Gesuchsunterlagen für klinische Versuche der Kategorie C mit Arzneimitteln und Transplantatprodukten
-
-- 2\.1 Basisformular;
-- 2\.2 Prüfplan;
-- 2\.3 Unterlagen zur Qualität des Arzneimittels oder Transplantatproduktes;
-- 2\.4 Prüferinformation (*Investigator’s Brochure, IB*), einschliesslich Angaben zur Risikobewertung; ist das untersuchte Arzneimittel in einem Land mit vergleichbarer Arzneimittelkontrolle in der vorgesehenen Anwendung zugelassen, so kann die entsprechende Fachinformation eingereicht werden; bei klinischen Versuchen, in denen das untersuchte Arzneimittel beziehungsweise Transplantatprodukt erstmals an Personen angewendet wird: zusätzlich die in der Prüferinformation erwähnten Studienberichte;
-- 2\.5 bei Versuchen mit Transplantatprodukten oder der Gentherapie: die Unterlagen zur Präklinik und zur Toxikologie;
-- 2\.6 Nachweis der Einhaltung der Guten Herstellungspraxis (*Good Manufact**u**ring Practice, GMP*);
-- 2\.7 Nachweis der Einhaltung der korrekten Kennzeichnung;
-- 2\.8 allfällige Entscheide von Arzneimittelaufsichtsbehörden anderer Länder zum klinischen Versuch, einschliesslich allfälliger Auflagen und deren Begründung;
-- 2\.9 Information über allfällige Gesuche, die bei einer Ethikkommission in der Schweiz hängig sind, und über allfällige Entscheide von Ethikkommissionen in der Schweiz.
+### 2 …
 
 ### 3 Gesuchsunterlagen für klinische Versuche der Kategorie C mit Produkten nach Art. 2*a* Absatz 2 HMG
 
-- 3\.1. Basisformular;
+- 3\.1 Administrative Informationen;
 - 3\.2 Prüfplan;
 - 3\.3 Datenerhebungsbogen *(Case Report Form, CRF)*;
 - 3\.4
@@ -1393,7 +1739,7 @@ Anhang 4*[^t-4]*
   - e. Liste der anwendbaren Normen für Produkte nach Art. 2*a* Absatz 2 HMG, Beschreibung der Abweichungen davon aufgrund der neuen Anwendung,
   - f. Dokumentation und Begründung allfälliger Abweichungen von der Norm ISO 14155;
 
-- 3\.6 Aufklärungsbogen und Einwilligungserklärung;
+- 3\.6 Unterlagen zur Aufklärung und Einwilligung;
 - 3\.7 allfällige Entscheide von Medizinprodukteaufsichtsbehörden anderer Länder zum klinischen Versuch, einschliesslich allfälliger Auflagen und deren Begründung;
 - 3\.8 Information über allfällige Gesuche, die bei einer Ethikkommission in der Schweiz hängig sind, und über allfällige Entscheide von Ethikkommissionen in der Schweiz.
 
@@ -1402,33 +1748,28 @@ Anhang 4*[^t-4]*
 [^annex4-lvlu1-lvl3-3]: Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte, ABl. L 169 vom 12.7.1993, S. 1; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
 [^annex4-lvlu1-lvl3-4]: Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte, ABl. L 189 vom 20.7.1990, S. 17; zuletzt geändert durch die Richtlinie 2007/47/EG, ABl. L 247 vom 21.9.2007, S. 21.
 
-### 4 Zusätzliche Gesuchsunterlagen für klinische Versuche der Kategorien B und C der Gentherapie sowie mit gentechnisch veränderten oder mit pathogenen Organismen
+### 4 …
 
-- 4\.1 Angaben zu den Risiken des Prüfprodukts mit gentechnisch veränderten oder pathogenen Organismen;
-- 4\.2 Risikobewertung der Durchführung des klinischen Versuchs bezüglich des Schutzes von Mensch und Umwelt;
-- 4\.3 eine Beschreibung der für den Schutz von Mensch, Tier und Umwelt notwendigen Sicherheitsmassnahmen, namentlich der Massnahmen zur Verhinderung einer Freisetzung von Mikroorganismen in die Umwelt während und nach der Transplantation, beim Transport, bei der Lagerung und der Entsorgung.
-
-### 5 Zusätzliche Gesuchsunterlagen für klinische Versuche mit Arzneimitteln oder Produkten nach Art. 2*a* Absatz 2 HMG, die ionisierende Strahlen aussenden können
+### 5 Zusätzliche Gesuchsunterlagen für klinische Versuche mit Arzneimitteln, die ionisierende Strahlung aussenden können
 
 - 5\.1 Angaben zu wesentlichen Strahlenschutzaspekten, insbesondere eine Berechnung beziehungsweise Abschätzung der effektiven Strahlendosis, der Organdosen und allfälliger Tumordosen;
 - 5\.2 die erforderlichen Bewilligungen gemäss Artikel 28 des Strahlenschutzgesetzes vom 22. März 1991[^annex4-lvlu1-lvl5-1];
 - 5\.3
 
-  bei Arzneimitteln oder Produkten nach Art. 2*a* Absatz 2 HMG, die radioaktive Quellen[^annex4-lvlu1-lvl5-2] enthalten:
+  bei Arzneimitteln, die ionisierende Strahlung aussenden können: Angaben gemäss Formular des BAG für klinische Versuche mit Radiopharmazeutika oder mit radioaktiv markierten Stoffen[^annex4-lvlu1-lvl5-2]. Darunter fallen:
 
-  - a. Angaben zu den Eigenschaften des Radiopharmazeutikums, namentlich zur Pharmakokinetik, Qualität, Stabilität, radiochemischen Reinheit und Radionuklidreinheit,
-  - b. bei zugelassenen Radiopharmazeutika: die Fachinformation,
-  - c. bei nicht zugelassenen Radiopharmazeutika: die Angaben zum Herstellungsverfahren und zur Qualitätskontrolle des Radiopharmazeutikums, die Namen der hierfür verantwortlichen Personen sowie Angaben zu deren fachlicher Qualifikation,
-  - d. die Namen der für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen sowie Angaben zu deren fachlicher Qualifikation,
-  - e. Angaben gemäss Formular des BAG für klinische Versuche mit Radiopharmazeutika oder mit radioaktiv markierten Stoffen[^annex4-lvlu1-lvl5-3].
+  - a. Angaben zu den Eigenschaften, namentlich zur Pharmakokinetik, Qualität, Stabilität, radiochemischen Reinheit und Radionuklidreinheit,
+  - b. Angaben zur effektiven Dosis und zu Organdosen,
+  - c. bei zugelassenen Radiopharmazeutika: die Fachinformation,
+  - d. bei nicht zugelassenen Radiopharmazeutika oder radioaktiv markierten Stoffen: Angaben zur Herstellung und den fachlichen Qualifikationen der verantwortlichen Personen,
+  - e. die für die Anwendung des Radiopharmazeutikums am Menschen verantwortlichen Personen und deren fachlichen Qualifikationen.
 
 [^annex4-lvlu1-lvl5-1]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^annex4-lvlu1-lvl5-2]: Ausdruck gemäss Anhang 11 Ziff. 6 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
-[^annex4-lvlu1-lvl5-3]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse www.bag.admin.ch &gt; Gesund leben &gt; Umwelt & Gesundheit &gt; Strahlung, Radioaktivität & Schall abgerufen werden.
+[^annex4-lvlu1-lvl5-2]: Dieses Formular kann beim Bundesamt für Gesundheit, Abteilung Strahlenschutz, 3003 Bern, bezogen oder unter der Internetadresse [www.bag.admin.ch](https://www.bag.admin.ch/bag/de/home/gesetze-und-bewilligungen/gesuche-bewilligungen/bewilligungen-aufsicht-im-strahlenschutz.html) &gt; Gesetze & Bewilligungen &gt; Gesuche & Bewilligungen &gt; Strahlenschutz: Bewilligungen, Voraussetzungen und Aufsicht abgerufen werden.
 
 ### 6 Gesuchsunterlagen für klinische Versuche der Transplantation menschlicher Organe, Gewebe und Zellen der Kategorie C
 
-- 6\.1 Basisformular;
+- 6\.1 Administrative Informationen;
 - 6\.2 Prüfplan;
 - 6\.3 Nachweis der Herkunft der verwendeten Organe, Gewebe und Zellen;
 - 6\.4 Unterlagen zur Qualität der verwendeten Organe, Gewebe und Zellen, insbesondere der durchgeführten Tests;
@@ -1448,7 +1789,7 @@ Anhang 5
 
 In einem Register nach Artikel 64 Absatz 1 sind die Daten nach dem von der WHO festgelegten Minimaldatensatz der Version 1.2.1[^annex5-lvlu1-lvl1-1] einzutragen.
 
-[^annex5-lvlu1-lvl1-1]: Der Minimaldatensatz kann beim Bundesamt für Gesundheit, 3003 Bern, kostenlos eingesehen oder unter folgenden Internetadressen abgerufen werden: www.bag.admin.ch &gt; Medizin & Forschung &gt; Forschung am Menschen, sowie unter www.who.int &gt; Programmes and projects &gt; Clinical Trials International Registry Platform &gt; Registry network.
+[^annex5-lvlu1-lvl1-1]: Der Minimaldatensatz kann beim Bundesamt für Gesundheit, 3003 Bern, kostenlos eingesehen oder unter folgenden Internetadressen abgerufen werden: www.bag.admin.ch &gt; Medizin & Forschung &gt; Forschung am Menschen, sowie unter [www.who.int](https://www.who.int) &gt; Programmes and projects &gt; Clinical Trials International Registry Platform &gt; Registry network.
 
 ### 2. In der ergänzenden Datenbank einzutragende Daten
 
