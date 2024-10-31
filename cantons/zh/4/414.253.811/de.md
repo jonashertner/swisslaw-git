@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.811"
 title: "Studienordnung für die Bachelorstudiengänge Angewandtes Recht, Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2024-08-01"
-nachtrag: "125"
-valid_until: 2024-11-01
+version: "2024-11-01"
+nachtrag: "127"
 adopted: 2009-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_811-2009_01_29-2009_06_01-125.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_811-2009_01_29-2009_06_01-127.html"
 text: pdf
 ---
 
@@ -61,13 +60,11 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Vertiefungen
 
 **1**
 
-- 1\. 7. 24 - 125
+- 1\. 1. 25 - 127 f.[^3-3] Insurance Management,
 
-- f. Marketing,
+- g. Marketing,
 
-- g. Politics and Management,
-
-- h. Risk and Insurance.
+- h. Politics and Management.
 
 <sup>3</sup> Der Studiengang Wirtschaftsinformatik kann in den folgenden Vertiefungen durchgeführt werden:
 
@@ -75,15 +72,16 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Vertiefungen
 
 - b. Data Science.
 
-[^3-1]: Fassung gemäss B vom 1. Juni 2023 (OS 78, 314; ABl 2023-07-21). In Kraft seit 1. August 2024. 1. 7. 24 - 125 9
+[^3-1]: Fassung gemäss B vom 1. Juni 2023 (OS 78, 314; ABl 2023-07-21). In Kraft seit 1. August 2024.
 [^3-2]: Eingefügt durch B vom 8. Juli 2021 (OS 77, 14; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
-[^3-3]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^3-3]: Eingefügt durch B vom 19. August 2024 (OS 79, 392; ABl 2024-08-23). In Kraft seit 1. November 2024.
+[^3-4]: Fassung gemäss B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 #### § 4
 
 **Studienform**
 
-<sup>1</sup> Die Bachelorstudiengänge können als Vollzeit- und als Teilzeitstudium geführt werden.[^3-3]
+<sup>1</sup> Die Bachelorstudiengänge können als Vollzeit- und als Teilzeitstudium geführt werden.[^3-4]
 
 <sup>2</sup> Ein Wechsel vom Vollzeitstudium ins Teilzeitstudium und umgekehrt ist erst nach bestandenem Assessment möglich.
 
@@ -188,7 +186,7 @@ Der Beginn des Hauptstudiums in einer Vertiefung setzt das Bestehen des Assessme
 
 **3**
 
-- 1\. 7. 24 - 125
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Nicht bestandene Module der Modulgruppe des Hauptstudiums können nur nach Nichtbestehen des gesamten Hauptstudiums wiederholt werden.
 
@@ -289,7 +287,7 @@ Das Bachelordiplom wird erteilt, wenn a. das Assessment und das Hauptstudium bes
 
 - e. Bachelor of Science ZHAW in Wirtschaftsrecht.
 
-[^21-1]: Aufgehoben durch B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^21-1]: Aufgehoben durch B vom 20. August 2020 (OS 75, 577; ABl 2020-10-23). In Kraft seit 1. Januar 2021. 1. 1. 25 - 127 9
 [^21-2]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 514; ABl 2022-08-19). In Kraft seit 1. April 2023.
 [^21-3]: Eingefügt durch B vom 22. August 2019 (OS 75, 37; ABl 2019-11-01). In Kraft seit 1. April 2020.
 [^21-4]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 514; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
@@ -306,7 +304,7 @@ Das Bachelordiplom wird erteilt, wenn a. das Assessment und das Hauptstudium bes
 
 **5**
 
-- 1\. 7. 24 - 125
+- 1\. 1. 25 - 127
 
 ### H. Übergangsbestimmungen
 
@@ -349,8 +347,6 @@ Studierende, die ihr Studium vor dem Herbstsemester 2009/ 2010 aufgenommen haben
 **Studierende im Assessment**
 
 § 29.[^hIÜbergangsbestimmu-1] <sup>1</sup> Studierende, die das Assessment im Studiengang Betriebsökonomie mit Vertiefung in Business Information Technology nicht bestanden haben, wiederholen das Assessment im Studiengang Wirtschaftsinformatik.
-
-**Studierende im Hauptstudium**
 
 <sup>2</sup> Bereits erbrachte Leistungen werden vollumfänglich angerechnet. § 30.[^hIÜbergangsbestimmu-1] Studierende im Hauptstudium des Studiengangs Betriebsökonomie mit Vertiefung in Business Information Technology schliessen ihr Studium mit dem Titel «Bachelor of Science ZFH in Betriebsökonomie mit Vertiefung in Business Information Technology» ab.
 
@@ -396,11 +392,11 @@ Studierende, die ihr Studium vor dem Herbstsemester 2009/ 2010 aufgenommen haben
 
 <sup>3</sup> Der Anhang legt fest, welche bereits erbrachten Leistungen angerechnet werden und welche neu zu erbringen sind.
 
-§ 36.[^hKÜbergangsbestimmu-2] <sup>1</sup> Studierende, die ab dem Frühlingssemester 2022 mit dem Hauptstudium beginnen, wählen eine der Vertiefungsrichtungen. Sie schliessen mit dem Titel «Bachelor of Science ZHAW in Wirtschaftsinformatik mit Vertiefung in [Vertiefungsrichtung]» ab.
-
 **7**
 
-- 1\. 7. 24 - 125
+- 1\. 1. 25 - 127 § 36.[^hKÜbergangsbestimmu-2] <sup>1</sup> Studierende, die ab dem Frühlingssemester 2022 mit dem Hauptstudium beginnen, wählen eine der Vertiefungsrichtungen. Sie schliessen mit dem Titel «Bachelor of Science ZHAW in Wirtschaftsinformatik mit Vertiefung in [Vertiefungsrichtung]» ab.
+
+**Studierende im Hauptstudium**
 
 <sup>2</sup> Die Studierenden, die das Hauptstudium noch ohne Vertiefung begonnen haben, schliessen bis Ende des Frühlingssemesters 2024 mit dem Titel «Bachelor of Science ZHAW in Wirtschaftsinformatik» ab. Danach schliessen sie mit dem Titel «Bachelor of Science ZHAW in Wirtschaftsinformatik mit Vertiefung in Business Information Systems» ab.
 
@@ -436,17 +432,36 @@ Studierende, die ihr Studium vor dem Herbstsemester 2009/ 2010 aufgenommen haben
 <sup>3</sup> Der Anhang legt fest, welche bereits erbrachten Leistungen angerechnet werden und welche neu zu erbringen sind.
 
 [^hMÜbergangsbestimmu-1]: Eingefügt durch B vom 1. Juni 2023 (OS 78, 314; ABl 2023-07-21). In Kraft seit 1. August 2024.
-[^hMÜbergangsbestimmu-2]: Fassung gemäss B vom 1. Juni 2023 (OS 78, 314; ABl 2023-07-21). In Kraft seit 1. August 2024. 1. 7. 24 - 125 9
+[^hMÜbergangsbestimmu-2]: Eingefügt durch B vom 19. August 2024 (OS 79, 392; ABl 2024-08-23). In Kraft seit 1. November 2024.
+
+### N. Übergangsbestimmungen zur Änderung vom 19. August 2024
+
+[^hMÜbergangsbestimmu-2]
+
+**Studierende im Studiengang Betriebsökonomie, Vertiefung Risk and Insurance**
+
+§ 39.[^hNÜbergangsbestimmu-1] <sup>1</sup> Studierende im Studiengang Betriebsökonomie, Vertiefung Risk and Insurance, die vor dem Herbstsemester 2025/2026 mit dem Studium begonnen und das Studium bis Ende des Frühlingssemesters 2028 erfolgreich beendet haben, schliessen mit dem Titel «Bachelor of Science ZHAW in Betriebsökonomie mit Vertiefung in Risk and Insurance» ab.
+
+<sup>2</sup> Alle anderen Studierenden schliessen mit dem Titel «Bachelor of Science ZHAW in Betriebsökonomie mit Vertiefung in Insurance Management» ab.
+
+<sup>3</sup> Der Anhang legt fest, welche bereits erbrachten Leistungen angerechnet werden und welche neu zu erbringen sind.
+
+[^hNÜbergangsbestimmu-1]: Eingefügt durch B vom 19. August 2024 (OS 79, 392; ABl 2024-08-23). In Kraft seit 1. November 2024.
+[^hNÜbergangsbestimmu-2]: Fassung gemäss vom 19. August 2024 (OS 79, 392; ABl 2024-08-23). In Kraft seit 1. November 2024.
 
 ### Anhang zur Studienordnung für die Bachelorstudiengänge Angewandtes Recht, Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften
 
-[^hMÜbergangsbestimmu-2]
+[^hNÜbergangsbestimmu-2]
 
 Der Anhang zur Studienordnung für die Bachelorstudiengänge Angewandtes Recht, Betriebsökonomie, International Management, Wirtschaftsinformatik und Wirtschaftsrecht an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
 Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
+
+**11**
+
+- 1\. 1. 25 - 127
 
 ## Weitere Fussnoten
 
