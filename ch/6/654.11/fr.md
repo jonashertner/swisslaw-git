@@ -4,11 +4,11 @@ title: "Ordonnance du 29 septembre 2017 sur l'échange international automatique
 short: OEDPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/646"
 language: fr
-version: 2023-08-01
+version: 2024-11-01
 adopted: 2017-09-29
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20230801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-646-20230801-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20230801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-646-20241101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20241101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20230801/fr"
 
 (OEDPP)
 
-du 29 septembre 2017 (État le 1<sup>er</sup> août 2023)
+du 29 septembre 2017 (État le 1<sup>er</sup> novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -76,10 +76,10 @@ La déclaration pays par pays contient, par État et territoire (juridiction fis
 
 ### (art. 3, al. 2, LEDPP)
 
-Si les instructions du 7 octobre 2022 de l’Organisation de coopération et de développement économiques (OCDE)[^2-2] donnent des possibilités de choix quant à la déclaration pays par pays, toute entité déclarante peut exploiter ces possibilités.
+Si les instructions du 24 mai 2024 de l’Organisation de coopération et de développement économiques (OCDE)[^2-2] donnent des possibilités de choix quant à la déclaration pays par pays, toute entité déclarante peut exploiter ces possibilités.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 350](https://fedlex.data.admin.ch/eli/oc/2023/350)).
-[^2-2]: Les instructions de l’OCDE peuvent être consultées gratuitement sur le site Internet de l’AFC à l’adresse [www.estv.admin.ch](https://www.estv.admin.ch/estv/fr/accueil.html) &gt; Droit fiscal international &gt; Country-by-Country-Reporting CbCR &gt; Publications sur CbCR &gt; OCDE &gt; Instructions de l’OCDE relatives à la mise en œuvre de la déclaration pays par pays (texte original en français et anglais).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 533](https://fedlex.data.admin.ch/eli/oc/2024/533)).
+[^2-2]: Les instructions de l’OCDE peuvent être consultées gratuitement sur le site Internet de l’AFC à l’adresse suivante: [www.estv.admin.ch](https://www.oecd.org/fr/themes/transparence-fiscale-et-cooperation-internationale.html) &gt; Droit fiscal international &gt; Country-by-Country-Reporting CbCR &gt; Publications sur CbCR &gt; OCDE &gt; Instructions de l’OCDE relatives à la mise en œuvre de la déclaration pays par pays (texte original en français et en anglais).
 
 #### Art. 3
 
@@ -109,7 +109,7 @@ Si l’Administration fédérale des contributions (AFC) prescrit à une autre e
 
 <sup>3</sup> Elle donne accès aux déclarations, au moyen d’une procédure d’appel, aux autorités compétentes pour la taxation et pour la perception des impôts directs du canton dans lequel les entités constitutives résidentes de Suisse sont assujetties à l’impôt.
 
-- [tab] <sup>4</sup> Les collaborateurs de ces autorités n’ont accès aux renseignements au moyen d’une procédure d’appel que s’ils disposent d’une authentification à deux facteurs, dont l’un doit être un élément d’identification physique, incontestable et infalsifiable.
+<sup>4</sup> Les collaborateurs de ces autorités n’ont accès aux renseignements au moyen d’une procédure d’appel que s’ils disposent d’une authentification à deux facteurs, dont l’un doit être un élément d’identification physique, incontestable et infalsifiable.
 
 #### Art. 6
 
@@ -145,7 +145,7 @@ L’AFC détruit les données au plus tard 20 ans après la fin de l’année ci
 
 ### (art. 24, al. 1, LEDPP)
 
-- [tab] Les demandes visant à suspendre l’échange automatique des déclarations pays par pays avec un État partenaire doivent être adressées au Secrétariat d’État aux questions financières internationales.
+Les demandes visant à suspendre l’échange automatique des déclarations pays par pays avec un État partenaire doivent être adressées au Secrétariat d’État aux questions financières internationales.
 
 #### Art. 10
 

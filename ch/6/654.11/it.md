@@ -4,11 +4,11 @@ title: Ordinanza del 29 settembre 2017 sullo scambio automatico internazionale d
 short: OSRPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/646"
 language: it
-version: 2023-08-01
+version: 2024-11-01
 adopted: 2017-09-29
 in_force: 2017-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20230801/it/xml/fedlex-data-admin-ch-eli-cc-2017-646-20230801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20230801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/646/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2017-646-20241101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20241101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/646/20230801/it"
 
 (OSRPP)
 
-del 29 settembre 2017 (Stato 1° agosto 2023)
+del 29 settembre 2017 (Stato 1° novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -35,17 +35,21 @@ ordina:
 
 Una rendicontazione Paese per Paese contiene, distinti per Stato e territorio (Giurisdizioni fiscali):
 
-- a. un elenco della somma dei seguenti dati per gli enti costitutivi del gruppo di imprese multinazionale nella Giurisdizione fiscale (tabella 1 dell’allegato):
-- 1\. cifre d’affari conseguite tramite transazioni con imprese indipendenti,
-- 2\. cifre d’affari conseguite tramite transazioni con imprese associate,
-- 3\. cifra d’affari complessiva,
-- 4\. utili o perdite al lordo delle imposte,
-- 5\. imposte sugli utili pagate (principio di cassa),
-- 6\. imposte sugli utili dovute (anno corrente),
-- 7\. capitale dichiarato,
-- 8\. utili non distribuiti (prima del loro impiego),
-- 9\. numero di impiegati,
-- 10\. valori patrimoniali materiali (senza liquidità);
+- a.
+
+  un elenco della somma dei seguenti dati per gli enti costitutivi del gruppo di imprese multinazionale nella Giurisdizione fiscale (tabella 1 dell’allegato):
+
+  - 1\. cifre d’affari conseguite tramite transazioni con imprese indipendenti,
+  - 2\. cifre d’affari conseguite tramite transazioni con imprese associate,
+  - 3\. cifra d’affari complessiva,
+  - 4\. utili o perdite al lordo delle imposte,
+  - 5\. imposte sugli utili pagate (principio di cassa),
+  - 6\. imposte sugli utili dovute (anno corrente),
+  - 7\. capitale dichiarato,
+  - 8\. utili non distribuiti (prima del loro impiego),
+  - 9\. numero di impiegati,
+  - 10\. valori patrimoniali materiali (senza liquidità);
+
 - b.
 
   un elenco di tutti gli enti costitutivi del gruppo di imprese multinazionale con i seguenti dati sulle principali attività economiche da esso esercitate nelle Giurisdizioni fiscali, in cui sono residenti, in cui sono stati istituiti o nel cui registro di commercio sono stati iscritti (tabella 2 dell’allegato):
@@ -72,10 +76,10 @@ Una rendicontazione Paese per Paese contiene, distinti per Stato e territorio (G
 
 ### (art. 3 cpv. 2 LSRPP)
 
-Laddove le Linee Guida dell’OCSE del 7 ottobre 2022[^2-2] consentono a uno Stato o a un territorio di scegliere tra più opzioni per la rendicontazione Paese per Paese, ogni ente notificante ha diritto di disporre delle medesime opzioni.
+Laddove le Linee Guida dell’OCSE del 24 maggio 2024[^2-2] consentono di scegliere tra più opzioni per la rendicontazione Paese per Paese, ogni ente notificante ha diritto di disporre di tali opzioni.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 350](https://fedlex.data.admin.ch/eli/oc/2023/350)).
-[^2-2]: Le Linee Guida dell’OCSE possono essere scaricate gratuitamente dal sito Internet dell’AFC all’indirizzo [www.estv.admin.ch](https://www.oecd.org/ctp/exchange-of-tax-information/guidance-on-country-by-country-reporting-beps-action-13.htm) &gt; Diritto fiscale internazionale &gt; Country‑by‑Country-Reporting CbCR &gt; Pubblicazioni CbCR &gt; Documenti dell’OCSE &gt; Guidance on the Implementation of Country-by-Country Reporting (testo originale in francese e inglese).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 27 set. 2024, in vigore dal 1° nov. 2024 ([RU 2024 533](https://fedlex.data.admin.ch/eli/oc/2024/533)).
+[^2-2]: Le Linee Guida dell’OCSE possono essere scaricate gratuitamente dal sito Internet dell’AFC all’indirizzo [www.estv.admin.ch](https://www.oecd.org/fr/themes/transparence-fiscale-et-cooperation-internationale.html) &gt; Diritto fiscale internazionale &gt; Country-by-Country-Reporting CbCR &gt; Pubblicazioni CbCR &gt; Documenti dell’OCSE &gt; Guidance on the Implementation of Country-by-Country Reporting (testo originale in francese e inglese).
 
 #### Art. 3
 
