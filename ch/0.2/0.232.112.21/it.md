@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Regolamento di esecuzione del 2 ottobre 2018 concernente il Protocollo relativo all'Accordo di Madrid per la registrazione internazionale dei marchi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: it
-version: 2023-11-01
+version: 2024-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20231101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20241101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20241101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in vigore il 1° febbraio 2020
 
-(Stato 1° novembre 2023)
+(Stato 1° novembre 2024)
 
 [^t-1]: Correzione del 12 apr. 2022 ([RU 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -30,7 +30,7 @@ Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in v
 <tr><td>Capitolo 1:</td><td>Disposizioni generali</td></tr>
 <tr><td>Regola 1:</td><td>Espressioni abbreviate</td></tr>
 <tr><td>Regola 1<sup>bis</sup>:</td><td>...</td></tr>
-<tr><td>Regola 2:</td><td>Comunicazioni con l’Ufficio internazionale; firma</td></tr>
+<tr><td>Regola 2:</td><td>Comunicazioni con l’Ufficio internazionale</td></tr>
 <tr><td>Regola 3:</td><td>Rappresentanza dinnanzi all’Ufficio internazionale</td></tr>
 <tr><td>Regola 4:</td><td>Calcolo dei termini di scadenza</td></tr>
 <tr><td>Regola 5:</td><td>Giustificazione di ritardo nell’osservanza dei termini</td></tr>
@@ -41,16 +41,16 @@ Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in v
 <tr><td>Regola 8:</td><td>Pluralità di depositanti</td></tr>
 <tr><td>Regola 9:</td><td>Requisiti relativi alla domanda internazionale</td></tr>
 <tr><td>Regola 10:</td><td>Emolumenti e tasse relativi alla domanda internazionale</td></tr>
-<tr><td>Regola 11:</td><td>Irregolarità diverse da quelle relative alla classificazione dei prodotti e dei servizi od alla loro indicazione</td></tr>
-<tr><td>Regola 12:</td><td>Irregolarità relative alla classificazione dei prodotti e dei servizi</td></tr>
-<tr><td>Regola 13:</td><td>Irregolarità relative all’indicazione dei prodotti e dei servizi</td></tr>
+<tr><td>Regola 11:</td><td>Irregolarità diverse da quelle relative alla classificazione dei prodotti e dei servizi o alla loro indicazione</td></tr>
+<tr><td>Regola 12:</td><td>Irregolarità riguardanti la classificazione dei prodotti e dei servizi</td></tr>
+<tr><td>Regola 13:</td><td>Irregolarità riguardanti l’indicazione dei prodotti e dei servizi</td></tr>
 <tr><td>Capitolo 3:</td><td>Registrazione internazionale</td></tr>
 <tr><td>Regola 14:</td><td>Registrazione del marchio nel registro internazionale</td></tr>
-<tr><td>Regola 15:</td><td>Data della registrazione internazionale in casi speciali</td></tr>
+<tr><td>Regola 15:</td><td>Data della registrazione internazionale</td></tr>
 <tr><td>Capitolo 4:</td><td>Fatti sopravvenuti fra le parti contraenti che incidono sulle registrazioni internazionali</td></tr>
 <tr><td>Regola 16:</td><td>Possibilità di notifica di un rifiuto provvisorio fondato su un’opposizione secondo l’articolo 5.2)c) del Protocollo</td></tr>
 <tr><td>Regola 17:</td><td>Rifiuto provvisorio</td></tr>
-<tr><td>Regola 18:</td><td>Rifiuti irregolari</td></tr>
+<tr><td>Regola 18:</td><td>Notifiche irregolari di rifiuto provvisorio</td></tr>
 <tr><td>Regola 18<sup>bis</sup>:</td><td>Situazione provvisoria del marchio in una parte contraente designata</td></tr>
 <tr><td>Regola 18<sup>ter</sup>:</td><td>Decisione finale concernente la situazione del marchio in una parte contraente designata</td></tr>
 <tr><td>Regola 19:</td><td>Invalidazioni in parti contraenti designate</td></tr>
@@ -60,12 +60,12 @@ Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in v
 <tr><td>Regola 21<sup>bis</sup>:</td><td>Altri fatti relativi a una rivendicazione di preesistenza</td></tr>
 <tr><td>Regola 22:</td><td>Cessazione degli effetti della domanda di base, della registrazione che ne risulta o della registrazione di base</td></tr>
 <tr><td>Regola 23:</td><td>Divisione o fusione delle domande di base, delle registrazioni che ne risultano o delle registrazioni di base</td></tr>
-<tr><td>Capitolo 5:</td><td>Designazioni posteriori; modifiche</td></tr>
 <tr><td>Regola 23<sup>bis</sup>:</td><td>Comunicazioni degli Uffici delle parti contraenti designate inviate per il tramite dell’Ufficio internazionale</td></tr>
+<tr><td>Capitolo 5:</td><td>Designazioni posteriori; modifiche</td></tr>
 <tr><td>Regola 24:</td><td>Designazione successiva alla registrazione internazionale</td></tr>
-<tr><td>Regola 25:</td><td>Domanda di iscrizione di una modifica; domanda di iscrizione di una radiazione</td></tr>
+<tr><td>Regola 25:</td><td>Domanda di iscrizione di una modifica</td></tr>
 <tr><td>Regola 26:</td><td>Irregolarità nelle domande di iscrizione in virtù della regola 25</td></tr>
-<tr><td>Regola 27:</td><td>Iscrizione e notifica di una modifica o di una radiazione; dichiarazione per cui un cambiamento di titolare o una limitazione è privo di effetto</td></tr>
+<tr><td>Regola 27:</td><td>Iscrizione e notifica relativi alla regola 25; dichiarazione per cui un cambiamento di titolare o una limitazione è privo di effetto</td></tr>
 <tr><td>Regola 27<sup>bis</sup>:</td><td>Divisione di una registrazione internazionale</td></tr>
 <tr><td>Regola 27<sup>ter</sup>:</td><td>Fusione di registrazioni internazionali</td></tr>
 <tr><td>Regola 28:</td><td>Rettifiche apportate al registro internazionale</td></tr>
@@ -90,12 +90,14 @@ Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in v
 
 ## Capitolo 1: Disposizioni generali
 
-### **Regola 1**Espressioni abbreviate
+#### Regola 1
+
+**Espressioni abbreviate**
 
 Ai sensi di questo regolamento di esecuzione:
 
-- i) per «Accordo» deve intendersi l’Accordo di Madrid per la registrazione internazionale dei marchi del 14 aprile 1891, riveduto a Stoccolma il 14 luglio 1967 e modificato il 28 settembre 1979[^chap1-lvlu1-1];
-- ii) per «Protocollo» deve intendersi il Protocollo relativo all’Accordo di Madrid per la registrazione internazionale dei marchi, adottato a Madrid il 27 giugno 1989[^chap1-lvlu1-2];
+- i) per «Accordo» deve intendersi l’Accordo di Madrid per la registrazione internazionale dei marchi del 14 aprile 1891, riveduto a Stoccolma il 14 luglio 1967 e modificato il 28 settembre 1979[^1-1];
+- ii) per «Protocollo» deve intendersi il Protocollo relativo all’Accordo di Madrid per la registrazione internazionale dei marchi, adottato a Madrid il 27 giugno 1989[^1-2];
 - iii) per «parte contraente» deve intendersi qualsiasi Stato od organizzazione intergovernativa parte del Protocollo;
 - iv) per «Stato contraente» deve intendersi una parte contraente che è uno Stato;
 - v) per «organizzazione contraente» deve intendersi una parte contraente che è un<sup>’</sup>organizzazione intergovernativa;
@@ -117,7 +119,7 @@ Ai sensi di questo regolamento di esecuzione:
 - xx) per «bollettino» deve intendersi il bollettino periodico oggetto della regola 32;
 - xxi) per «titolare» deve intendersi la persona fisica o giuridica a nome della quale la registrazione internazionale è iscritta nel registro internazionale;
 - xxii) per «classificazione internazionale degli elementi figurativi» deve intendersi la classificazione fissata dall’Accordo di Vienna del 12 giugno 1973 il quale istituiva una classificazione internazionale degli elementi figurativi dei marchi;
-- xxiii) per «classificazione internazionale dei prodotti e dei servizi» deve intendersi la classificazione fissata dall’Accordo di Nizza relativo alla classificazione internazionale dei prodotti e dei servizi per la registrazione dei marchi del 15 giugno 1957[^chap1-lvlu1-3], riveduto a Stoccolma il 14 luglio 1967[^chap1-lvlu1-4] ed a Ginevra il 13 maggio 1977[^chap1-lvlu1-5];
+- xxiii) per «classificazione internazionale dei prodotti e dei servizi» deve intendersi la classificazione fissata dall’Accordo di Nizza relativo alla classificazione internazionale dei prodotti e dei servizi per la registrazione dei marchi del 15 giugno 1957[^1-3], riveduto a Stoccolma il 14 luglio 1967[^1-4] ed a Ginevra il 13 maggio 1977[^1-5];
 - xxiv) per «registro internazionale» deve intendersi la raccolta ufficiale – curata dall’Ufficio internazionale – dei dati relativi alle registrazioni internazionali, dati la cui iscrizione è richiesta o autorizzata dal Protocollo o da questo regolamento di esecuzione, a prescindere dal mezzo sul quale tali dati sono conservati;
 - [tab] xxv) per «Ufficio» deve intendersi l’Ufficio di una parte contraente incaricato della registrazione dei marchi, o l’Ufficio comune di cui all<sup>’</sup>articolo 9<sup>quater</sup> del Protocollo;
 - xxvi) per «Ufficio d’origine» deve intendersi l’Ufficio d’origine precisato all<sup>’</sup>articolo 2.2) del Protocollo;
@@ -131,31 +133,45 @@ Ai sensi di questo regolamento di esecuzione:
 - [tab] xxx) per «Ufficio internazionale» deve intendersi l’Ufficio internazionale dell’Organizzazione Mondiale della Proprietà Intellettuale;
 - [tab] xxxi) per «istruzioni amministrative» deve intendersi le istruzioni amministrative di cui alla regola 41.
 
-[^chap1-lvlu1-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^chap1-lvlu1-2]: [RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
-[^chap1-lvlu1-3]: [RS 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)
-[^chap1-lvlu1-4]: [RS 0.232.112.8](https://fedlex.data.admin.ch/eli/cc/1970/685_683_684)
-[^chap1-lvlu1-5]: [RS 0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
+[^1-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^1-2]: [RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
+[^1-3]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061)
+[^1-4]: [RS 0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062)
+[^1-5]: [RS 0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
-### **Regola 1**<sup>bis</sup>...
+#### Regola 1<sup>bis</sup>
 
-### **Regola 2**Comunicazioni con l’Ufficio internazionale
+**...**
+
+#### Regola 2
+
+**Comunicazioni con l’Ufficio internazionale**
 
 Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettuate secondo le modalità specificate nelle istruzioni amministrative.
 
-### **Regola 3**Rappresentanza dinnanzi all’Ufficio internazionale
+#### Regola 3
+
+**Rappresentanza dinnanzi all’Ufficio internazionale**
 
 \1) [Mandatario; numero di mandatari]
+
+\2) [Costituzione del mandatario]
+
+\3) [Costituzione irregolare]
+
+\4) [Iscrizione e notifica della costituzione di un mandatario; data di entrata in vigore della costituzione]
+
+\5) [Effetti della costituzione di un mandatario]
+
+\6) [Radiazione dell’iscrizione; data di entrata in vigore della radiazione]
 
 - a) Il depositante o il titolare può avere un mandatario presso l’Ufficio internazionale.
 - b) Il depositante o il titolare può avere un solo mandatario. Quando l’atto di costituzione indica più mandatari, soltanto quello che è indicato per primo è considerato mandatario ed iscritto come tale.
 - c) Quando uno studio od un ufficio legale, oppure un ufficio di consulenza per brevetti o marchi, è stato indicato all’Ufficio internazionale come mandatario, esso è considerato come unico mandatario.
 - d) ...
 
-\2) [Costituzione del mandatario]
-
-- a)[^chap1-lvlu4-1] La costituzione di un mandatario può essere fatta nella domanda internazionale o dal nuovo titolare della registrazione internazionale in una domanda di cui alla regola 25.1)a)i), che deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del mandatario.
-- b)[^chap1-lvlu4-2]
+- a)[^3-1] La costituzione di un mandatario può essere fatta nella domanda internazionale o dal nuovo titolare della registrazione internazionale in una domanda di cui alla regola 25.1)a)i), che deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del mandatario.
+- b)[^3-2]
 
   La costituzione di un mandatario può anche essere fatta in una comunicazione separata, purché sia utilizzato il modulo ufficiale previsto, e può riferirsi ad una o a più domande internazionali specifiche o ad una o più registrazioni internazionali specifiche del medesimo depositante o titolare. Tale modulo deve essere presentato all’Ufficio internazionale:
 
@@ -164,24 +180,16 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 
 - Il modulo deve essere firmato dal depositante o dal titolare, o dall’Ufficio che presenta la domanda.
 
-\3) [Costituzione irregolare]
-
 - a) Quando l’Ufficio internazionale considera che la costituzione di un mandatario fatta in virtù dell’alinea 2) è irregolare, esso ne dà notifica al depositante o titolare, al mandatario presunto e, se è stato un Ufficio ad inviare o a trasmettere l’atto di costituzione, a tale Ufficio.
 - b) Fintantoché i requisiti applicabili in conformità dell’alinea 2) non sono soddisfatti, l’Ufficio internazionale invia tutte le comunicazioni pertinenti al depositante od al titolare, ma non al mandatario presunto.
 - c) ...
 
-\4) [Iscrizione e notifica della costituzione di un mandatario; data di entrata in vigore della costituzione]
-
-- a)[^chap1-lvlu4-3] Quando l’Ufficio internazionale constata che la costituzione di un mandatario soddisfa i requisiti stabiliti, esso iscrive nel registro internazionale il fatto che il depositante o titolare ha un mandatario, nonché il nome, l’indirizzo e l’indirizzo di posta elettronica del mandatario. In questo caso, la data di entrata in vigore della costituzione è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale, la domanda o la comunicazione separata con la quale il mandatario è costituito.
+- a)[^3-3] Quando l’Ufficio internazionale constata che la costituzione di un mandatario soddisfa i requisiti stabiliti, esso iscrive nel registro internazionale il fatto che il depositante o titolare ha un mandatario, nonché il nome, l’indirizzo e l’indirizzo di posta elettronica del mandatario. In questo caso, la data di entrata in vigore della costituzione è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale, la domanda o la comunicazione separata con la quale il mandatario è costituito.
 - b) L’Ufficio internazionale notifica l’iscrizione di cui al punto a) sia al depositante che al titolare e, in quest’ultimo caso, anche agli Uffici delle parti contraenti designate, nonché al mandatario. Quando la costituzione è stata fatta tramite una comunicazione separata presentata attraverso un Ufficio, l’Ufficio internazionale notifica anche l’iscrizione a tale Ufficio.
-
-\5) [Effetti della costituzione di un mandatario]
 
 - a) Salvo esplicita disposizione contraria contenuta in questo regolamento di esecuzione, la firma di un mandatario iscritto in conformità dell’alinea 4)a) sostituisce la firma del depositante o titolare.
 - b) Salvo quando questo regolamento di esecuzione fa esplicita richiesta a che un invito, una notifica od altra comunicazione sia inviata sia al depositante o titolare che al mandatario, l’Ufficio internazionale invia al mandatario iscritto in conformità dell’alinea 4)a) qualsiasi invito, notifica od altra comunicazione che, in assenza di mandatario, avrebbe dovuto essere indirizzata al depositante o titolare; qualsiasi invito, notifica od altra comunicazione in tal modo inviata al suddetto mandatario ha i medesimi effetti che se fosse stata inviata al depositante o titolare.
 - c) Qualsiasi comunicazione inviata all’Ufficio internazionale dal mandatario iscritto in conformità dell’alinea 4)a) ha i medesimi effetti che se fosse stata inviata a tale Ufficio dal depositante o titolare.
-
-\6) [Radiazione dell’iscrizione; data di entrata in vigore della radiazione]
 
 - a) Qualsiasi iscrizione fatta in conformità dell’alinea 4)a) è radiata quando la radiazione è richiesta tramite una comunicazione firmata dal depositante, dal titolare o dal mandatario. L’iscrizione è radiata d<sup>’</sup>ufficio dall’Ufficio internazionale quando è nominato un nuovo mandatario o, nel caso in cui sia stato iscritto un cambiamento di titolare, quando il nuovo titolare della registrazione internazionale non costituisce un mandatario.
 - b) Fatto salvo il punto c), la radiazione entra in vigore alla data in cui l’Ufficio internazionale riceve la comunicazione corrispondente.
@@ -193,16 +201,18 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
   - ii) la data di scadenza di un periodo di due mesi a decorrere dalla ricezione della comunicazione con la quale il mandatario chiede la radiazione dell’iscrizione.
 
 - Fino alla data in cui la radiazione entra in vigore, l’Ufficio internazionale invia tutte le comunicazioni di cui all<sup>’</sup>alinea 5)b) sia al depositante o titolare che al mandatario.
-- d)[^chap1-lvlu4-4] Quando riceve una domanda di radiazione fatta dal mandatario, l’Ufficio internazionale notifica tale fatto al depositante o al titolare.
+- d)[^3-4] Quando riceve una domanda di radiazione fatta dal mandatario, l’Ufficio internazionale notifica tale fatto al depositante o al titolare.
 - e) Non appena è nota la data di entrata in vigore della radiazione, l’Ufficio internazionale notifica la radiazione e la data in cui essa entra in vigore al mandatario la cui iscrizione è stata radiata, al depositante o titolare e, se la costituzione del mandatario è stata presentata attraverso un Ufficio, a tale Ufficio.
 - f) Le radiazioni richieste dal titolare o dal suo mandatario sono notificate anche agli Uffici delle parti contraenti designate.
 
-[^chap1-lvlu4-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu4-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
-[^chap1-lvlu4-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu4-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
+[^3-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
-### **Regola 4**Calcolo dei termini di scadenza
+#### Regola 4
+
+**Calcolo dei termini di scadenza**
 
 \1) [Termini espressi in anni]
 
@@ -224,36 +234,41 @@ Se un termine di scadenza spira un giorno in cui l’Ufficio internazionale o l�
 
 In tutti i casi in cui l’Ufficio internazionale comunica un termine di scadenza, esso indica la data in cui tale termine scade in conformità degli alinea 1) a 3).
 
-### **Regola 5**Giustificazione di ritardo nell’osservanza dei termini
+#### Regola 5
 
-[^chap1-lvlu6-1]
-
-[^chap1-lvlu6-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+**Giustificazione di ritardo nell’osservanza dei termini[^5-1]**
 
 \1) [Giustificazione di ritardo nell’osservanza dei termini dovuto a motivi di forza maggiore]
 
-L’inosservanza, ad opera di una parte interessata, di un termine di scadenza previsto dal presente regolamento per il compimento di un atto dinanzi all’Ufficio internazionale è giustificata se la parte interessata produce la prova, tale da soddisfare l’Ufficio internazionale, che il termine di scadenza non è stato osservato a causa di guerra, rivoluzione, disordini civili, scioperi, calamità naturali, o di perturbazioni nel servizio postale, nel funzionamento di un’agenzia di recapito o nella comunicazione elettronica dovute a circostanze straordinarie indipendenti dalla sua volontà o ad altri motivi di forza maggiore.[^chap1-lvlu6-2]
+L’inosservanza, ad opera di una parte interessata, di un termine di scadenza previsto dal presente regolamento per il compimento di un atto dinanzi all’Ufficio internazionale è giustificata se la parte interessata produce la prova, tale da soddisfare l’Ufficio internazionale, che il termine di scadenza non è stato osservato a causa di guerra, rivoluzione, disordini civili, scioperi, calamità naturali, o di perturbazioni nel servizio postale, nel funzionamento di un’agenzia di recapito o nella comunicazione elettronica dovute a circostanze straordinarie indipendenti dalla sua volontà o ad altri motivi di forza maggiore.[^5-2]
 
-\2) e 3) ...[^chap1-lvlu6-3]
+\2) e 3) ...[^5-3]
 
 \4) [Limiti alla giustificazione]
 
-L’inosservanza di un termine di scadenza è giustificata, in virtù di questa regola, solo se la prova e l’atto di cui all’alinea 1) sono ricevuti dall’Ufficio internazionale e compiuti dinanzi ad esso, non appena ciò sia ragionevolmente possibile e al più tardi sei mesi dopo la scadenza dei termini.[^chap1-lvlu6-4]
+L’inosservanza di un termine di scadenza è giustificata, in virtù di questa regola, solo se la prova e l’atto di cui all’alinea 1) sono ricevuti dall’Ufficio internazionale e compiuti dinanzi ad esso, non appena ciò sia ragionevolmente possibile e al più tardi sei mesi dopo la scadenza dei termini.[^5-4]
 
 \5) [Domanda internazionale e designazione successiva]
 
-Quando l’Ufficio internazionale riceve una domanda internazionale o una designazione successiva dopo il termine di scadenza di due mesi di cui all’articolo 3.4) del Protocollo ed alla regola 24.6)b), e l’Ufficio interessato indica che la ricezione tardiva risulta da circostanze di cui all’alinea 1), si applicano gli alinea 1) e 4).[^chap1-lvlu6-5]
+Quando l’Ufficio internazionale riceve una domanda internazionale o una designazione successiva dopo il termine di scadenza di due mesi di cui all’articolo 3.4) del Protocollo ed alla regola 24.6)b), e l’Ufficio interessato indica che la ricezione tardiva risulta da circostanze di cui all’alinea 1), si applicano gli alinea 1) e 4).[^5-5]
 
-[^chap1-lvlu6-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu6-3]: Abrogati dalla mod. con effetto dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu6-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu6-5]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
+[^5-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-3]: Abrogati dalla mod. con effetto dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-5]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
-### **Regola 5**<sup>bis</sup>Proseguimento della procedura
+#### Regola 5<sup>bis</sup>
+
+**Proseguimento della procedura**
 
 \1) [Richiesta]
 
-- a)[^chap1-lvlu7-1]
+\2) [Iscrizione e notifica]
+
+L’Ufficio internazionale iscrive nel Registro internazionale ogni proseguimento della procedura e lo notifica al depositante o al titolare.
+
+- a)[^5bis-1]
 
   Se un depositante o un titolare non ha osservato uno dei termini prescritti o stabiliti nelle regole 11.2), 11.3), 12.7), 20<sup>bis</sup>.2), 24.5)b), 26.2), 27<sup>bis</sup>.3)c), 34.3)c)iii) e 39.1), l’Ufficio internazionale prosegue comunque il trattamento della domanda internazionale, della designazione successiva, del pagamento o della richiesta interessata se:
 
@@ -262,19 +277,21 @@ Quando l’Ufficio internazionale riceve una domanda internazionale o una design
 
 - b) Una richiesta che non soddisfa le condizioni di cui ai punti i) e ii) del punto a) non è considerata tale e il depositante o il titolare riceve una notifica in questo senso.
 
-\2) [Iscrizione e notifica]
+[^5bis-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
-L’Ufficio internazionale iscrive nel Registro internazionale ogni proseguimento della procedura e lo notifica al depositante o al titolare.
+#### Regola 6
 
-[^chap1-lvlu7-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-
-### **Regola 6**Lingue
+**Lingue**
 
 \1) [Domanda internazionale]
 
 La domanda internazionale dev’essere redatta in francese, inglese o spagnolo secondo quanto prescritto dall’Ufficio d’origine, fermo restando che l’Ufficio d’origine può consentire ai depositanti di scegliere fra il francese, l’inglese e lo spagnolo.
 
 \2) [Comunicazioni diverse dalla domanda internazionale]
+
+\3) [Iscrizione e pubblicazione]
+
+\4) [Traduzione]
 
 Ogni comunicazione relativa a una domanda internazionale o a una registrazione internazionale deve, fatta salva la regola 17.2)v) e 3), essere redatta:
 
@@ -283,17 +300,15 @@ Ogni comunicazione relativa a una domanda internazionale o a una registrazione i
 - iii) nella lingua della domanda internazionale quando la comunicazione è una notifica inviata dall’Ufficio internazionale ad un Ufficio, a meno che tale Ufficio non abbia notificato all’Ufficio internazionale che tutte queste notifiche devono essere redatte in francese, in inglese o in spagnolo; quando la notifica inviata dall’Ufficio internazionale riguarda l’iscrizione di una registrazione internazionale nel registro internazionale, essa deve indicare la lingua nella quale l’Ufficio internazionale ha ricevuto la domanda internazionale corrispondente;
 - iv) nella lingua della domanda internazionale quando la comunicazione è una notifica inviata dall’Ufficio internazionale al depositante od al titolare, a meno che tale depositante o titolare non abbia espresso il desiderio di ricevere tali notifiche in francese, in inglese o in spagnolo.
 
-\3) [Iscrizione e pubblicazione]
-
 - a) L’iscrizione nel registro internazionale e la pubblicazione sul bollettino della registrazione internazionale e di qualsiasi dato che debba essere oggetto sia di una iscrizione che di una pubblicazione, in virtù di questo regolamento di esecuzione, per quanto riguarda tale registrazione internazionale sono effettuate in francese, in inglese e in spagnolo. L’iscrizione e la pubblicazione della registrazione internazionale recano l’indicazione della lingua nella quale l’Ufficio internazionale ha ricevuto la domanda internazionale.
 - b) Se una prima designazione successiva è fatta per quanto riguarda una registrazione internazionale che, in virtù delle versioni anteriori della presente regola, è stata pubblicata unicamente in francese, o unicamente in francese e in inglese, l’Ufficio internazionale effettua, contemporaneamente alla pubblicazione di tale designazione successiva sul bollettino, o una pubblicazione della registrazione internazionale in inglese e in spagnolo ed una nuova pubblicazione della registrazione internazionale in francese o una pubblicazione della registrazione internazionale in spagnolo ed una nuova pubblicazione della registrazione internazionale in inglese e in francese, a seconda del caso. Detta designazione successiva è iscritta nel registro internazionale in francese, in inglese e in spagnolo.
-
-\4) [Traduzione]
 
 - a) Le traduzioni necessarie per le notifiche in virtù dell’alinea 2) iii) e iv), e per le iscrizioni e le pubblicazioni effettuate in virtù dell’alinea 3), sono redatte dall’Ufficio internazionale. Il depositante o il titolare, a seconda del caso, può allegare alla domanda internazionale, o ad una domanda di iscrizione di una designazione successiva o di una modifica, una proposta di traduzione di qualsiasi testo contenuto nella domanda internazionale o la domanda di iscrizione. Se l’Ufficio internazionale ritiene che la traduzione proposta non è corretta, la corregge dopo aver invitato il depositante o il titolare ad avanzare, entro un mese dall’invito, delle osservazioni relative alle correzioni proposte.
 - b) Nonostante il punto a), l’Ufficio internazionale non traduce il marchio. Quando il depositante o il titolare fornisce, in conformità della regola 9.4)b)iii) o della regola 24.3)c), una o più traduzioni del marchio, l’Ufficio internazionale non controlla l’esattezza di tale traduzione o di tali traduzioni.
 
-### **Regola 7**Notifica di talune esigenze particolari
+#### Regola 7
+
+**Notifica di talune esigenze particolari**
 
 \1) …
 
@@ -308,7 +323,9 @@ Quando una parte contraente pretende, in quanto parte contraente designata, una 
 
 ## Capitolo 2: Domande internazionali
 
-### **Regola 8**Pluralità di depositanti
+#### Regola 8
+
+**Pluralità di depositanti**
 
 \1) ...
 
@@ -316,7 +333,9 @@ Quando una parte contraente pretende, in quanto parte contraente designata, una 
 
 Più depositanti possono depositare congiuntamente una domanda internazionale se hanno depositato congiuntamente la domanda di base o se sono congiuntamente titolari della registrazione di base, e se ciascuno di loro ha, nei confronti della parte contraente il cui Ufficio è l’Ufficio d’origine, i requisiti per depositare una domanda internazionale in virtù dell’articolo 2.1) del Protocollo.
 
-### **Regola 9**Requisiti relativi alla domanda internazionale
+#### Regola 9
+
+**Requisiti relativi alla domanda internazionale**
 
 \1) [Presentazione]
 
@@ -324,26 +343,30 @@ La domanda internazionale è presentata all’Ufficio internazionale dall’Uffi
 
 \2) [Modulo e firma]
 
-- a) La domanda internazionale deve essere presentata sul modulo ufficiale.
-- b) La domanda internazionale deve essere firmata dall’Ufficio d’origine e, quando l’Ufficio d’origine lo pretende, anche dal depositante. Quando l’Ufficio d’origine non pretende che la domanda internazionale sia firmata dal depositante ma consente che essa sia firmata anche dal depositante, il depositante può firmare la domanda internazionale.
-
 \3) [Emolumenti e tasse]
 
 Gli emolumenti e tasse prescritti che sono applicabili alla domanda internazionale devono essere pagati in conformità delle regole 10, 34 e 35.
 
 \4) [Contenuto della domanda internazionale]
 
+\5) [Contenuto suppletivo della domanda internazionale]
+
+6)–7) …
+
+- a) La domanda internazionale deve essere presentata sul modulo ufficiale.
+- b) La domanda internazionale deve essere firmata dall’Ufficio d’origine e, quando l’Ufficio d’origine lo pretende, anche dal depositante. Quando l’Ufficio d’origine non pretende che la domanda internazionale sia firmata dal depositante ma consente che essa sia firmata anche dal depositante, il depositante può firmare la domanda internazionale.
+
 - a)
 
   La domanda internazionale deve contenere o indicare:
 
   - i) il nome del depositante, indicato conformemente alle istruzioni amministrative;
-  - ii)[^chap2-lvlu2-1] l’indirizzo del depositante, indicato conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
-  - iii)[^chap2-lvlu2-2] il nome e l’indirizzo del mandatario, se ve ne è uno, indicati conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
+  - ii)[^9-1] l’indirizzo del depositante, indicato conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
+  - iii)[^9-2] il nome e l’indirizzo del mandatario, se ve ne è uno, indicati conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
   - iv) quando il depositante desidera, in virtù della Convenzione di Parigi per la protezione della proprietà industriale, beneficiare della priorità di un deposito precedente, una dichiarazione con la quale richieda la priorità di tale deposito, integrata dall’indicazione del nome dell’Ufficio presso il quale tale deposito è stato effettuato come pure dalla data e, se disponibile, dal numero di tale deposito e, quando il deposito precedente non copre l’insieme dei prodotti e servizi elencati nella domanda internazionale, dall’indicazione dei prodotti e servizi coperti dal deposito precedente;
-  - v)[^chap2-lvlu2-3] una rappresentazione del marchio, fornita conformemente alle istruzioni amministrative, che deve essere a colori quando il colore è richiesto in virtù del punto vii);
+  - v)[^9-3] una rappresentazione del marchio, fornita conformemente alle istruzioni amministrative, che deve essere a colori quando il colore è richiesto in virtù del punto vii);
   - vi) quando il depositante desidera che il marchio sia considerato come marchio a caratteri standard, una dichiarazione in tal senso;
-  - vii)[^chap2-lvlu2-4] quando il colore è richiesto nella domanda di base o nella registrazione di base, o quando il depositante desidera richiedere il colore quale elemento distintivo del marchio e il marchio contenuto nella domanda di base o la registrazione di base è a colori o è oggetto di una domanda di protezione a colori o è protetto a colori, un’indicazione che il colore è richiesto e un’indicazione, espressa in parole, del colore o della combinazione di colori richiesta;
+  - vii)[^9-4] quando il colore è richiesto nella domanda di base o nella registrazione di base, o quando il depositante desidera richiedere il colore quale elemento distintivo del marchio e il marchio contenuto nella domanda di base o la registrazione di base è a colori o è oggetto di una domanda di protezione a colori o è protetto a colori, un’indicazione che il colore è richiesto e un’indicazione, espressa in parole, del colore o della combinazione di colori richiesta;
   - [tab] vii<sup>bis</sup>) quando il marchio che è oggetto della domanda di base o della registrazione di base consiste in un colore o in una combinazione di colori in quanto tali, un’indicazione di questo fatto;
   - viii) quando la domanda di base o la registrazione di base si riferisce ad un marchio tridimensionale, l’indicazione «marchio tridimensionale»;
   - ix) quando la domanda di base o la registrazione di base si riferisce ad un marchio sonoro, l’indicazione «marchio sonoro»;
@@ -365,8 +388,6 @@ Gli emolumenti e tasse prescritti che sono applicabili alla domanda internaziona
   - v) quando il depositante desidera rinunciare alla protezione di una parte del marchio, un’indicazione di questo fatto e dell’elemento o degli elementi di cui non è richiesta la protezione;
   - vi) una descrizione del marchio espressa in parole o, se il depositante lo desidera, la descrizione del marchio espressa in parole contenuta nella domanda di base o nella registrazione di base, quando questa non è stata presentata in conformità dell’alinea 4)a)xi).
 
-\5) [Contenuto suppletivo della domanda internazionale]
-
 - a) ...
 - b)
 
@@ -386,7 +407,7 @@ Gli emolumenti e tasse prescritti che sono applicabili alla domanda internaziona
   - ii) che il depositante nominato nella domanda internazionale e il depositante nominato nella domanda di base o il titolare nominato nella registrazione di base sono, a seconda del caso, una sola ed unica persona;
   - iii) che qualsiasi indicazione di cui all’alinea 4)a)vii<sup>bis</sup>) a xi) e contenuta nella domanda internazionale figura anche nella domanda di base o nella registrazione di base, a seconda del caso;
   - iv) che il marchio oggetto della domanda internazionale è il medesimo che figura nella domanda di base o nella registrazione di base, a seconda del caso;
-  - v) [^chap2-lvlu2-5] che, se il colore è richiesto quale elemento distintivo del marchio nella domanda di base o nella registrazione di base o che il marchio che è oggetto della domanda di base o della registrazione di base è a colori o protetto a colori, una richiesta di colore figura nella domanda internazionale o che, se il colore è richiesto quale elemento distintivo del marchio nella domanda internazionale senza esserlo stato nella domanda di base o nella registrazione di base, il marchio nella domanda di base o nella registrazione di base è proprio del colore o della combinazione di colori richiesta; e
+  - v) [^9-5] che, se il colore è richiesto quale elemento distintivo del marchio nella domanda di base o nella registrazione di base o che il marchio che è oggetto della domanda di base o della registrazione di base è a colori o protetto a colori, una richiesta di colore figura nella domanda internazionale o che, se il colore è richiesto quale elemento distintivo del marchio nella domanda internazionale senza esserlo stato nella domanda di base o nella registrazione di base, il marchio nella domanda di base o nella registrazione di base è proprio del colore o della combinazione di colori richiesta; e
   - vi) che i prodotti e servizi indicati nella domanda internazionale sono coperti dall’elenco di prodotti e servizi che figurano nella domanda di base o nella registrazione di base a seconda del caso.
 
 - e) Quando la domanda internazionale è fondata su più domande di base o registrazioni di base, la dichiarazione di cui al punto d) è considerata applicarsi a tutte queste domande di base ed a tutte queste registrazioni di base.
@@ -404,15 +425,15 @@ Gli emolumenti e tasse prescritti che sono applicabili alla domanda internaziona
   - i) se il depositante desidera rivendicare, in virtù della legislazione di questa organizzazione contraente, la preesistenza di uno o più marchi anteriori registrati in, o per, uno Stato membro di questa organizzazione, una dichiarazione in tal senso con l’indicazione dello Stato o degli Stati membri in cui, o per cui, è registrato il marchio anteriore, la data da cui la registrazione corrispondente è divenuta effettiva, il numero della registrazione considerata e i prodotti e servizi per i quali il marchio anteriore è registrato. Queste indicazioni sono fornite su un modulo ufficiale allegato alla domanda internazionale;
   - ii) se, in virtù della legislazione di questa organizzazione contraente, il depositante deve indicare una seconda lingua di lavoro davanti all’Ufficio di questa organizzazione contraente, oltre a quella della domanda internazionale, un’indicazione di questa seconda lingua.
 
-6)–7) …
+[^9-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^9-2]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^9-3]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^9-4]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^9-5]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
-[^chap2-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^chap2-lvlu2-2]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^chap2-lvlu2-3]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^chap2-lvlu2-4]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^chap2-lvlu2-5]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+#### Regola 10
 
-### **Regola 10**Emolumenti e tasse relativi alla domanda internazionale
+**Emolumenti e tasse relativi alla domanda internazionale**
 
 \1) ...
 
@@ -422,21 +443,33 @@ La domanda internazionale è subordinata al pagamento dell’emolumento di base,
 
 \3) ...
 
-### **Regola 11**Irregolarità diverse da quelle relative alla classificazione dei prodotti e dei servizi o alla loro indicazione
+#### Regola 11
+
+**Irregolarità diverse da quelle relative alla classificazione dei prodotti e dei servizi o alla loro indicazione**
 
 \1) ...
 
 \2) [Irregolarità la cui correzione incombe al depositante]
 
+\3) [Irregolarità la cui correzione incombe al depositante o all’Ufficio d’origine]
+
+\4) [Irregolarità la cui correzione incombe all’Ufficio d’origine]
+
+\5) [Rimborso degli emolumenti e tasse]
+
+Quando, in conformità degli alinea 2)b), 3) oppure 4)b), la domanda internazionale è considerata abbandonata, l’Ufficio internazionale rimborsa all’autore del pagamento gli emolumenti e tasse pagati per tale domanda, dopo la deduzione di un ammontare corrispondente a metà dell’emolumento di base di cui al punto 2.1.1 della tabella degli emolumenti e tasse.
+
+\6) [Altra irregolarità relativa alla designazione di una parte contraente]
+
+\7) [Domanda internazionale non considerata tale]
+
+Se la domanda internazionale è presentata direttamente all’Ufficio internazionale dal depositante o se essa non soddisfa i requisiti applicabili in conformità della regola 6.1), essa non è considerata tale ed è rinviata al mittente.
+
 - a) Se l’Ufficio internazionale ritiene che la domanda internazionale contenga delle irregolarità diverse da quelle oggetto degli alinea 3), 4) e 6) e delle regole 12 e 13, esso notifica l’irregolarità al depositante e ne informa contemporaneamente l’Ufficio d’origine.
 - b) Tali irregolarità possono essere corrette dal depositante entro tre mesi a decorrere dalla data in cui sono state notificate dall’Ufficio internazionale. Se un’irregolarità non è corretta entro tre mesi a decorrere dalla data in cui è stata notificata dall’Ufficio internazionale, la domanda internazionale è considerata abbandonata e l’Ufficio internazionale notifica tale fatto contemporaneamente al depositante ed all’Ufficio d’origine.
 
-\3) [Irregolarità la cui correzione incombe al depositante o all’Ufficio d’origine]
-
 - a) Nonostante l’alinea 2), quando gli emolumenti e tasse che devono essere pagati in virtù della regola 10 sono stati pagati all’Ufficio internazionale dall’Ufficio d<sup>’</sup>origine e l’Ufficio internazionale ritiene che l’ammontare ricevuto degli emolumenti e tasse sia inferiore all’ammontare dovuto, esso notifica questo fatto contemporaneamente all’Ufficio d’origine ed al depositante. La notifica precisa l’ammontare ancora dovuto.
 - b) L’ammontare ancora dovuto può essere pagato dall’Ufficio d’origine o dal depositante entro tre mesi a decorrere dalla data della notifica da parte dell’Ufficio internazionale. Se l’ammontare ancora dovuto non è pagato entro tre mesi a decorrere dalla data in cui l’irregolarità è stata notificata dall’Ufficio internazionale, la domanda internazionale è considerata abbandonata e l’Ufficio internazionale notifica tale fatto contemporaneamente all’Ufficio d’origine ed al depositante.
-
-\4) [Irregolarità la cui correzione incombe all’Ufficio d’origine]
 
 - a)
 
@@ -453,26 +486,15 @@ La domanda internazionale è subordinata al pagamento dell’emolumento di base,
 - lo notifica all’Ufficio d’origine e ne informa contemporaneamente il depositante.
 - b) Tali irregolarità possono essere corrette dall’Ufficio d’origine entro tre mesi a decorrere dalla data in cui sono state notificate dall’Ufficio internazionale. Se una irregolarità non è corretta entro tre mesi a decorrere dalla data in cui è stata notificata dall’Ufficio internazionale, la domanda internazionale è considerata abbandonata e l’Ufficio internazionale notifica tale fatto contemporaneamente all’Ufficio d’origine ed al depositante.
 
-\5) [Rimborso degli emolumenti e tasse]
-
-Quando, in conformità degli alinea 2)b), 3) oppure 4)b), la domanda internazionale è considerata abbandonata, l’Ufficio internazionale rimborsa all’autore del pagamento gli emolumenti e tasse pagati per tale domanda, dopo la deduzione di un ammontare corrispondente a metà dell’emolumento di base di cui al punto 2.1.1 della tabella degli emolumenti e tasse.
-
-\6) [Altra irregolarità relativa alla designazione di una parte contraente]
-
 - a) Quando, in conformità dell’articolo 3.4) del Protocollo, una domanda internazionale è ricevuta dall’Ufficio internazionale entro due mesi dalla data di ricezione di tale domanda internazionale da parte dell’Ufficio d’origine e quando l’Ufficio internazionale considera che una dichiarazione di intenzione di utilizzare il marchio è richiesta in conformità della regola 9.5)f) ma che essa fa difetto o non soddisfa le prescrizioni applicabili, l’Ufficio internazionale notifica tale fatto senza indugio e contemporaneamente al depositante ed all’Ufficio d’origine.
 - b) La dichiarazione di intenzione di utilizzare il marchio è considerata essere stata ricevuta dall’Ufficio internazionale insieme alla domanda internazionale se la dichiarazione che faceva difetto o la dichiarazione regolarizzata è ricevuta dall’Ufficio internazionale entro il termine di due mesi di cui al punto a).
 - c) La domanda internazionale è considerata non contenere la designazione della parte contraente per la quale è richiesta la dichiarazione di intenzione di utilizzare il marchio, se la dichiarazione che faceva difetto o la dichiarazione regolarizzata è ricevuta dopo la scadenza del termine di due mesi di cui al punto b). L’Ufficio internazionale notifica tale fatto contemporaneamente al depositante ed all’Ufficio d’origine, rimborsa la tassa di designazione già pagata per tale parte contraente ed indica che la designazione della suddetta parte contraente può essere effettuata sotto forma di designazione successiva in conformità della regola 24, a condizione che tale designazione sia accompagnata dalla dichiarazione richiesta.
 
-\7) [Domanda internazionale non considerata tale]
+#### Regola 12
 
-Se la domanda internazionale è presentata direttamente all’Ufficio internazionale dal depositante o se essa non soddisfa i requisiti applicabili in conformità della regola 6.1), essa non è considerata tale ed è rinviata al mittente.
-
-### **Regola 12**Irregolarità riguardanti la classificazione dei prodotti e dei servizi
+**Irregolarità riguardanti la classificazione dei prodotti e dei servizi**
 
 \1) [Proposta di classificazione]
-
-- a) Se l’Ufficio internazionale ritiene che le condizioni stabilite alla regola 9.4)a)xiii) non siano soddisfatte, esso presenta una sua proposta di classificazione e di raggruppamento, la notifica all’Ufficio d’origine e ne informa contemporaneamente il depositante.
-- b) La notifica della proposta indica anche, all’occorrenza, l’ammontare degli emolumenti e tasse da pagare in rapporto alla classificazione ed al raggruppamento proposti.
 
 \2) [Divergenza di pareri nei confronti della proposta]
 
@@ -496,10 +518,6 @@ Se, nonostante il parere di cui all’alinea 2), l’Ufficio internazionale conf
 
 \7) [Emolumenti e tasse]
 
-- a) Se non è stato comunicato alcun parere all’Ufficio internazionale in conformità dell’alinea 2), l’ammontare di cui all’alinea 1)b) deve essere pagato entro quattro mesi a decorrere dalla data della notifica di cui all’alinea 1)a), altrimenti la domanda internazionale è considerata abbandonata e l’Ufficio internazionale notifica questo fatto all’Ufficio d’origine e ne informa contemporaneamente il depositante.
-- b) Se un parere è stato comunicato all’Ufficio internazionale in conformità dell’alinea 2), l’ammontare di cui all’alinea 1)b) o, all’occorrenza, all’alinea 5) deve essere pagato entro tre mesi a decorrere dalla data in cui l’Ufficio internazionale ha comunicato la modifica o la conferma della sua proposta in virtù dell’alinea 5) o 6), a seconda del caso, altrimenti la domanda internazionale è considerata abbandonata e l’Ufficio internazionale notifica questo fatto all’Ufficio d’origine e ne informa contemporaneamente il depositante.
-- c) Se un parere è stato comunicato all’Ufficio internazionale in virtù dell’alinea 2) e se, considerato tale parere, l’Ufficio internazionale ritira la sua proposta in conformità dell’alinea 4), l’ammontare di cui all’alinea 1)b) non è dovuto.
-
 \8) [Rimborso degli emolumenti e tasse]
 
 Quando, in conformità dell’alinea 7) la domanda internazionale è considerata abbandonata, l’Ufficio internazionale rimborsa all’autore del pagamento gli emolumenti e tasse pagati per tale domanda, dopo la deduzione di un ammontare corrispondente a metà dell’emolumento di base di cui al punto 2.1.1 della tabella degli emolumenti e tasse.
@@ -512,7 +530,16 @@ L’Ufficio internazionale esamina le limitazioni contenute in una domanda inter
 
 A condizione che la domanda internazionale soddisfi le altre condizioni richieste, il marchio è registrato con la classificazione ed il raggruppamento che l’Ufficio internazionale considera corretti.
 
-### **Regola 13**Irregolarità riguardanti l’indicazione dei prodotti e dei servizi
+- a) Se l’Ufficio internazionale ritiene che le condizioni stabilite alla regola 9.4)a)xiii) non siano soddisfatte, esso presenta una sua proposta di classificazione e di raggruppamento, la notifica all’Ufficio d’origine e ne informa contemporaneamente il depositante.
+- b) La notifica della proposta indica anche, all’occorrenza, l’ammontare degli emolumenti e tasse da pagare in rapporto alla classificazione ed al raggruppamento proposti.
+
+- a) Se non è stato comunicato alcun parere all’Ufficio internazionale in conformità dell’alinea 2), l’ammontare di cui all’alinea 1)b) deve essere pagato entro quattro mesi a decorrere dalla data della notifica di cui all’alinea 1)a), altrimenti la domanda internazionale è considerata abbandonata e l’Ufficio internazionale notifica questo fatto all’Ufficio d’origine e ne informa contemporaneamente il depositante.
+- b) Se un parere è stato comunicato all’Ufficio internazionale in conformità dell’alinea 2), l’ammontare di cui all’alinea 1)b) o, all’occorrenza, all’alinea 5) deve essere pagato entro tre mesi a decorrere dalla data in cui l’Ufficio internazionale ha comunicato la modifica o la conferma della sua proposta in virtù dell’alinea 5) o 6), a seconda del caso, altrimenti la domanda internazionale è considerata abbandonata e l’Ufficio internazionale notifica questo fatto all’Ufficio d’origine e ne informa contemporaneamente il depositante.
+- c) Se un parere è stato comunicato all’Ufficio internazionale in virtù dell’alinea 2) e se, considerato tale parere, l’Ufficio internazionale ritira la sua proposta in conformità dell’alinea 4), l’ammontare di cui all’alinea 1)b) non è dovuto.
+
+#### Regola 13
+
+**Irregolarità riguardanti l’indicazione dei prodotti e dei servizi**
 
 \1) [Comunicazione di un<sup>’</sup>irregolarità da parte dell’Ufficio internazionale all’Ufficio d’origine]
 
@@ -525,7 +552,9 @@ Se l’Ufficio internazionale ritiene che taluni prodotti e servizi siano indica
 
 ## Capitolo 3: Registrazione internazionale
 
-### **Regola 14**Registrazione del marchio nel registro internazionale
+#### Regola 14
+
+**Registrazione del marchio nel registro internazionale**
 
 \1) [Registrazione del marchio nel registro internazionale]
 
@@ -542,9 +571,15 @@ La registrazione internazionale contiene:
 - v) ...
 - vi) le indicazioni allegate alla domanda internazionale, conformemente alla regola 9.5)g)i), relative allo Stato membro o agli Stati membri in cui o per cui è registrato un marchio anteriore di cui si rivendica la preesistenza, alla data da cui la registrazione di questo marchio anteriore è divenuta effettiva e al numero della registrazione corrispondente.
 
-### **Regola 15**Data della registrazione internazionale
+#### Regola 15
+
+**Data della registrazione internazionale**
 
 \1) [Irregolarità che incidono sulla data della registrazione internazionale]
+
+\2) [Data della registrazione internazionale negli altri casi]
+
+In tutti gli altri casi, la registrazione internazionale porta la data che è stabilita conformemente all’articolo 3.4) del Protocollo.
 
 - a)
 
@@ -552,41 +587,57 @@ La registrazione internazionale contiene:
 
   - i) le indicazioni che permettano di stabilire l<sup>’</sup>identità del depositante e che siano sufficienti per entrare in contatto con il depositante o con il mandatario, se ve ne è uno;
   - ii) le parti contraenti designate;
-  - iii)[^chap3-lvlu2-1] una rappresentazione del marchio;
+  - iii)[^15-1] una rappresentazione del marchio;
   - iv) l’indicazione dei prodotti e servizi per i quali è richiesta la registrazione del marchio;
   - v) ...
 
 - la registrazione internazionale porta la data in cui l’ultimo degli elementi mancanti è pervenuto all’Ufficio internazionale; tuttavia, se l’ultimo degli elementi mancanti perviene all’Ufficio internazionale entro il termine di due mesi di cui all’articolo 3.4) del Protocollo, la registrazione internazionale porta la data in cui la domanda internazionale in difetto è stata ricevuta dall’Ufficio d’origine.
 - b) ...
 
-\2) [Data della registrazione internazionale negli altri casi]
-
-In tutti gli altri casi, la registrazione internazionale porta la data che è stabilita conformemente all’articolo 3.4) del Protocollo.
-
-[^chap3-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^15-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ## Capitolo 4: Fatti sopravvenuti fra le parti contraenti che incidono sulle registrazioni internazionali
 
-### **Regola 16**Possibilità di notifica di un rifiuto provvisorio fondato su un’opposizione secondo l’articolo 5.2)c) del Protocollo
+#### Regola 16
+
+**Possibilità di notifica di un rifiuto provvisorio fondato su un’opposizione secondo l’articolo 5.2)c) del Protocollo**
 
 \1) [Informazioni relative ad eventuali opposizioni e termine per notificare un rifiuto provvisorio fondato su un’opposizione]
-
-- a) Fatto salvo l’articolo 9<sup>sexies</sup>.1)b) del Protocollo, quando una dichiarazione è stata fatta da una parte contraente in virtù dell’articolo 5.2)b) e c), prima frase, del Protocollo e risulta che per quel che riguarda una data registrazione internazionale che designa tale parte contraente il termine di opposizione spirerà troppo tardi perché un rifiuto provvisorio fondato su una opposizione possa essere notificato all’Ufficio internazionale entro la scadenza del termine di 18 mesi di cui all’articolo 5.2)b), l’Ufficio di tale parte contraente informa l’Ufficio internazionale del numero, e del nome del titolare, di tale registrazione internazionale.
-- b) Quando, al momento della comunicazione delle informazioni di cui al punto a), sono note le date in cui il periodo di opposizione ha inizio e fine, tali date sono indicate nella comunicazione. Se, in quel momento, tali date non sono ancora note, esse sono comunicate all’Ufficio internazionale appena sono note.
-- c) Quando si applica il punto a) e quando l’Ufficio oggetto di questo punto ha informato l’Ufficio internazionale, prima della scadenza del termine di 18 mesi oggetto del medesimo punto, che il termine per il deposito delle opposizioni spirerà entro i 30 giorni che precedono la scadenza del termine di 18 mesi e della possibilità che siano depositate delle opposizioni nel corso di questi 30 giorni, un rifiuto provvisorio fondato su una opposizione depositata durante questi 30 giorni può essere notificato all’Ufficio internazionale entro un mese a decorrere dalla data del deposito dell’opposizione.
 
 \2) [Iscrizione e trasmissione delle informazioni]
 
 L’Ufficio internazionale iscrive sul registro internazionale le informazioni ricevute in conformità dell’alinea 1) e le trasmette al titolare.
 
-### **Regola 17**Rifiuto provvisorio
+- a) Fatto salvo l’articolo 9<sup>sexies</sup>.1)b) del Protocollo, quando una dichiarazione è stata fatta da una parte contraente in virtù dell’articolo 5.2)b) e c), prima frase, del Protocollo e risulta che per quel che riguarda una data registrazione internazionale che designa tale parte contraente il termine di opposizione spirerà troppo tardi perché un rifiuto provvisorio fondato su una opposizione possa essere notificato all’Ufficio internazionale entro la scadenza del termine di 18 mesi di cui all’articolo 5.2)b), l’Ufficio di tale parte contraente informa l’Ufficio internazionale del numero, e del nome del titolare, di tale registrazione internazionale.
+- b) Quando, al momento della comunicazione delle informazioni di cui al punto a), sono note le date in cui il periodo di opposizione ha inizio e fine, tali date sono indicate nella comunicazione. Se, in quel momento, tali date non sono ancora note, esse sono comunicate all’Ufficio internazionale appena sono note.
+- c) Quando si applica il punto a) e quando l’Ufficio oggetto di questo punto ha informato l’Ufficio internazionale, prima della scadenza del termine di 18 mesi oggetto del medesimo punto, che il termine per il deposito delle opposizioni spirerà entro i 30 giorni che precedono la scadenza del termine di 18 mesi e della possibilità che siano depositate delle opposizioni nel corso di questi 30 giorni, un rifiuto provvisorio fondato su una opposizione depositata durante questi 30 giorni può essere notificato all’Ufficio internazionale entro un mese a decorrere dalla data del deposito dell’opposizione.
+
+#### Regola 17
+
+**Rifiuto provvisorio**
 
 \1) [Notifica di rifiuto provvisorio]
 
+\2) [Contenuto della notifica]
+
+\3) [Condizioni supplementari riguardanti una notifica di rifiuto provvisorio fondato su un’opposizione]
+
+Quando il rifiuto provvisorio è fondato su un’opposizione, o su un’opposizione ed altri motivi, la notifica deve non soltanto soddisfare le condizioni richieste al punto 2) ma altresì indicare questo fatto nonché il nome dell’oppositore e del mandatario, all’occorrenza, e, nella misura del possibile, il loro indirizzo; tuttavia, nonostante il punto 2) v), l’Ufficio che fa la notifica deve, quando l’opposizione è fondata su un marchio che è stato oggetto di una domanda o di una registrazione, comunicare l’elenco dei prodotti e servizi su cui si fonda l’opposizione e può, inoltre, comunicare l’elenco completo dei prodotti e servizi di tale domanda precedente o di tale registrazione precedente, essendo convenuto che i suddetti elenchi possono essere redatti nella lingua della domanda precedente o della registrazione precedente.[^17-1]
+
+\4) [Iscrizione; trasmissione di copie delle notifiche]
+
+L’Ufficio internazionale iscrive il rifiuto provvisorio sul registro internazionale insieme ai dati che figurano nella notifica e con un’indicazione della data in cui la notifica è stata inviata all’Ufficio internazionale o è considerata esserlo stata in virtù della regola 18.1)d) e ne trasmette una copia all’Ufficio d’origine, se quest’ultimo ha comunicato all’Ufficio internazionale che desidera ricevere tali copie nello stesso tempo del titolare.
+
+\5) [Dichiarazioni relative alla possibilità di un riesame]
+
+\6) …
+
+\7) [Informazioni relative al termine di risposta a un rifiuto provvisorio]
+
+Le parti contraenti notificano all’Ufficio internazionale la durata del termine previsto al punto 2) vii) e la modalità di calcolo di tale termine.[^17-2]
+
 - a) Una notifica di rifiuto provvisorio può comprendere una dichiarazione che indica i motivi per cui l’Ufficio che effettua la notifica considera che la protezione non può essere accordata nella parte contraente interessata («rifiuto provvisorio d’ufficio») o una dichiarazione secondo cui la protezione non può essere accordata nella parte contraente interessata poiché è stata depositata un’opposizione («rifiuto provvisorio fondato su un’opposizione») oppure entrambe le dichiarazioni.
 - b) Una notifica di rifiuto provvisorio deve riferirsi ad una sola registrazione internazionale, essere datata ed essere firmata dall’Ufficio che effettua tale notifica.
-
-\2) [Contenuto della notifica]
 
 Una notifica di rifiuto provvisorio contiene o indica:
 
@@ -594,22 +645,12 @@ Una notifica di rifiuto provvisorio contiene o indica:
 - ii) il numero della registrazione internazionale, accompagnato, di preferenza, da altre indicazioni che permettono di confermare l’identità della registrazione internazionale, come gli elementi verbali della marca o il numero della domanda di base o della registrazione di base;
 - iii) …
 - iv) tutti i motivi sui quali è fondato il rifiuto provvisorio, accompagnati da un rinvio alle corrispondenti disposizioni essenziali della legge;
-- v)[^chap4-lvlu2-1] quando i motivi su cui si fonda il rifiuto provvisorio si riferiscono ad un marchio che è stato oggetto di una domanda o di una registrazione e con cui il marchio che è oggetto della registrazione internazionale appare essere in conflitto, la data ed il numero di deposito, la data di priorità, all’occorrenza, la data ed il numero di registrazione, se sono disponibili, il nome del titolare e del mandatario, all’occorrenza, il loro indirizzo, nella misura del possibile, ed una rappresentazione di questo primo marchio o come procedere per accedere a questa rappresentazione, nonché l’elenco di tutti i prodotti e servizi o dei prodotti e servizi pertinenti che figurano nella domanda o la registrazione riguardante questo primo marchio, essendo convenuto che il suddetto elenco può essere redatto nella lingua della suddetta domanda o della suddetta registrazione;
+- v)[^17-3] quando i motivi su cui si fonda il rifiuto provvisorio si riferiscono ad un marchio che è stato oggetto di una domanda o di una registrazione e con cui il marchio che è oggetto della registrazione internazionale appare essere in conflitto, la data ed il numero di deposito, la data di priorità, all’occorrenza, la data ed il numero di registrazione, se sono disponibili, il nome del titolare e del mandatario, all’occorrenza, il loro indirizzo, nella misura del possibile, ed una rappresentazione di questo primo marchio o come procedere per accedere a questa rappresentazione, nonché l’elenco di tutti i prodotti e servizi o dei prodotti e servizi pertinenti che figurano nella domanda o la registrazione riguardante questo primo marchio, essendo convenuto che il suddetto elenco può essere redatto nella lingua della suddetta domanda o della suddetta registrazione;
 - vi) sia che i motivi su cui è fondato il rifiuto provvisorio concernono la totalità dei prodotti e servizi, sia un’indicazione dei prodotti e servizi che sono interessati, o che non sono interessati, dal rifiuto provvisorio;
-- vii)[^chap4-lvlu2-2] il termine, di almeno due mesi[^chap4-lvlu2-3], per presentare una richiesta di riesame o un ricorso riferito al rifiuto provvisorio d’ufficio o al rifiuto provvisorio fondato su un’opposizione e, all’occorrenza, per presentare una risposta all’opposizione;
-- viii)[^chap4-lvlu2-4] quando il termine menzionato al punto 2) vii) decorre da una data diversa da quella in cui l’Ufficio internazionale trasmette una copia della notifica al titolare o in cui il titolare riceve suddetta copia, un’indicazione della data in cui il suddetto termine comincia e spira;
-- ix)[^chap4-lvlu2-5] l’autorità competente per giudicare tale richiesta di riesame, tale ricorso o tale risposta; e
-- x)[^chap4-lvlu2-6] un’indicazione, all’occorrenza, dell’obbligo di presentare la richiesta di riesame, il ricorso o la risposta tramite un mandatario che ha l’indirizzo sul territorio della parte contraente il cui Ufficio ha pronunciato il rifiuto.
-
-\3) [Condizioni supplementari riguardanti una notifica di rifiuto provvisorio fondato su un’opposizione]
-
-Quando il rifiuto provvisorio è fondato su un’opposizione, o su un’opposizione ed altri motivi, la notifica deve non soltanto soddisfare le condizioni richieste al punto 2) ma altresì indicare questo fatto nonché il nome dell’oppositore e del mandatario, all’occorrenza, e, nella misura del possibile, il loro indirizzo; tuttavia, nonostante il punto 2) v), l’Ufficio che fa la notifica deve, quando l’opposizione è fondata su un marchio che è stato oggetto di una domanda o di una registrazione, comunicare l’elenco dei prodotti e servizi su cui si fonda l’opposizione e può, inoltre, comunicare l’elenco completo dei prodotti e servizi di tale domanda precedente o di tale registrazione precedente, essendo convenuto che i suddetti elenchi possono essere redatti nella lingua della domanda precedente o della registrazione precedente.[^chap4-lvlu2-7]
-
-\4) [Iscrizione; trasmissione di copie delle notifiche]
-
-L’Ufficio internazionale iscrive il rifiuto provvisorio sul registro internazionale insieme ai dati che figurano nella notifica e con un’indicazione della data in cui la notifica è stata inviata all’Ufficio internazionale o è considerata esserlo stata in virtù della regola 18.1)d) e ne trasmette una copia all’Ufficio d’origine, se quest’ultimo ha comunicato all’Ufficio internazionale che desidera ricevere tali copie nello stesso tempo del titolare.
-
-\5) [Dichiarazioni relative alla possibilità di un riesame]
+- vii)[^17-4] il termine, di almeno due mesi[^17-5], per presentare una richiesta di riesame o un ricorso riferito al rifiuto provvisorio d’ufficio o al rifiuto provvisorio fondato su un’opposizione e, all’occorrenza, per presentare una risposta all’opposizione;
+- viii)[^17-6] quando il termine menzionato al punto 2) vii) decorre da una data diversa da quella in cui l’Ufficio internazionale trasmette una copia della notifica al titolare o in cui il titolare riceve suddetta copia, un’indicazione della data in cui il suddetto termine comincia e spira;
+- ix)[^17-7] l’autorità competente per giudicare tale richiesta di riesame, tale ricorso o tale risposta; e
+- x)[^17-8] un’indicazione, all’occorrenza, dell’obbligo di presentare la richiesta di riesame, il ricorso o la risposta tramite un mandatario che ha l’indirizzo sul territorio della parte contraente il cui Ufficio ha pronunciato il rifiuto.
 
 - a)–c) …
 - d)
@@ -622,24 +663,22 @@ L’Ufficio internazionale iscrive il rifiuto provvisorio sul registro internazi
 - Quando si applica questa dichiarazione e l’Ufficio non è in grado di comunicare la suddetta decisione direttamente al titolare della registrazione internazionale interessato, l’Ufficio invia all’Ufficio internazionale, nonostante il fatto che tutte le procedure davanti al suddetto Ufficio concernenti la protezione del marchio possano non essere concluse, la dichiarazione di cui alla regola 18<sup>ter</sup>.2) o 3) immediatamente dopo la suddetta decisione. Ogni nuova decisione che incide sulla protezione del marchio è inviata all’Ufficio internazionale conformemente alla regola 18<sup>ter</sup>.4).
 - e) L’Ufficio di una parte contraente può, in una dichiarazione, notificare al Direttore generale il fatto che, conformemente alla legislazione della suddetta parte contraente, un rifiuto provvisorio d’ufficio notificato all’Ufficio internazionale non è suscettibile di riesame davanti al suddetto Ufficio. Quando si applica questa dichiarazione, ogni notifica di un rifiuto provvisorio d’ufficio emessa dal suddetto Ufficio include una dichiarazione conformemente alla regola 18<sup>ter</sup>.2)ii) o 3).
 
-\6) …
+[^17-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-2]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-5]: Quando ha adottato questa disposizione l’Assemblea dell’Unione di Madrid ha considerato che le parti contraenti la cui legislazione prevede un termine di 60 giorni feriali o consecutivi adempiono la condizione stabilita dalla regola 17.2) vii).
+[^17-6]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-7]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-8]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
-\7) [Informazioni relative al termine di risposta a un rifiuto provvisorio]
+#### Regola 18
 
-Le parti contraenti notificano all’Ufficio internazionale la durata del termine previsto al punto 2) vii) e la modalità di calcolo di tale termine.[^chap4-lvlu2-8]
-
-[^chap4-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-3]: Quando ha adottato questa disposizione l’Assemblea dell’Unione di Madrid ha considerato che le parti contraenti la cui legislazione prevede un termine di 60 giorni feriali o consecutivi adempiono la condizione stabilita dalla regola 17.2) vii).
-[^chap4-lvlu2-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-5]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-6]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-7]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-8]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-
-### **Regola 18**Notifiche irregolari di rifiuto provvisorio
+**Notifiche irregolari di rifiuto provvisorio**
 
 \1) [Informazioni generali]
+
+\2) [Notifica di rifiuto provvisorio effettuata secondo l’articolo 5.2)c) del Protocollo]
 
 - a)
 
@@ -647,10 +686,10 @@ Le parti contraenti notificano all’Ufficio internazionale la durata del termin
 
   - i) se essa non contiene nessun numero di registrazione internazionale, a meno che altre indicazioni contenute nella notifica non permettano di identificare la registrazione internazionale alla quale si riferisce il rifiuto provvisorio;
   - ii) se essa non indica alcun motivo di rifiuto; oppure
-  - iii)[^chap4-lvlu3-1] se essa è indirizzata tardivamente all’Ufficio internazionale, cioè dopo la scadenza del termine applicabile in virtù dell’articolo 5.2) a) o, fatto salvo l’articolo 9<sup>sexies</sup>.1) b) del Protocollo, in virtù dell’articolo 5.2) b) oppure c) ii) del Protocollo, a decorrere dalla data in cui l’Ufficio internazionale ha inviato la notifica della registrazione internazionale o della designazione successiva.
+  - iii)[^18-1] se essa è indirizzata tardivamente all’Ufficio internazionale, cioè dopo la scadenza del termine applicabile in virtù dell’articolo 5.2) a) o, fatto salvo l’articolo 9<sup>sexies</sup>.1) b) del Protocollo, in virtù dell’articolo 5.2) b) oppure c) ii) del Protocollo, a decorrere dalla data in cui l’Ufficio internazionale ha inviato la notifica della registrazione internazionale o della designazione successiva.
 
-- b)[^chap4-lvlu3-2] Quando si applica il punto a), l’Ufficio internazionale trasmette ciononostante una copia della notifica al titolare, informa contemporaneamente il titolare e l’Ufficio che ha inviato la notifica di rifiuto provvisorio del fatto che questa notifica non è considerata come tale dall’Ufficio internazionale e ne indica i motivi.
-- c)[^chap4-lvlu3-3]
+- b)[^18-2] Quando si applica il punto a), l’Ufficio internazionale trasmette ciononostante una copia della notifica al titolare, informa contemporaneamente il titolare e l’Ufficio che ha inviato la notifica di rifiuto provvisorio del fatto che questa notifica non è considerata come tale dall’Ufficio internazionale e ne indica i motivi.
+- c)[^18-3]
 
   Se la notifica:
 
@@ -662,46 +701,43 @@ Le parti contraenti notificano all’Ufficio internazionale la durata del termin
   - vi) non contiene, all’occorrenza, il nome e l’indirizzo dell’opponente e neppure l’indicazione dei prodotti e servizi su cui è fondata l’opposizione (regola 17.3));
 
 - l’Ufficio internazionale iscrive ciononostante il rifiuto provvisorio nel registro internazionale. L’Ufficio internazionale invita l’Ufficio che ha comunicato il rifiuto provvisorio a inviare una notifica regolarizzata entro due mesi a decorrere dall’invito e trasmette al titolare una copia della notifica irregolare di rifiuto e dell’invito inoltrato all’Ufficio interessato.
-- d)[^chap4-lvlu3-4] Quando la notifica non soddisfa le condizioni stabilite dalla regola 17.2) vii)–x), il rifiuto provvisorio non è considerato tale e non è iscritto nel registro internazionale. L’Ufficio internazionale informa in merito l’Ufficio che ha comunicato il rifiuto provvisorio, ne indica i motivi e trasmette al titolare una copia della notifica irregolare. Ciononostante, se l’Ufficio invia una notifica regolarizzata entro due mesi dalla data in cui l’Ufficio internazionale ha informato detto Ufficio della notifica irregolare, la notifica regolarizzata sarà considerata, ai sensi dell’articolo 5 del Protocollo, essere stata inviata alla data in cui la notifica irregolare era stata inviata all’Ufficio internazionale e sarà iscritta nel registro internazionale.
-- e)[^chap4-lvlu3-5] Ogni notifica regolarizzata indica, quando lo permette la legislazione applicabile, un nuovo termine e contiene le informazioni di cui alla regola 17.2) vii)–x) per presentare una richiesta di riesame o un ricorso in relazione al rifiuto provvisorio pronunciato d’ufficio o al rifiuto provvisorio fondato su un’opposizione e, all’occorrenza, per presentare una risposta all’opposizione.
-- f)[^chap4-lvlu3-6] L’Ufficio internazionale trasmette una copia di ogni notifica regolarizzata al titolare.
-
-\2) [Notifica di rifiuto provvisorio effettuata secondo l’articolo 5.2)c) del Protocollo]
+- d)[^18-4] Quando la notifica non soddisfa le condizioni stabilite dalla regola 17.2) vii)–x), il rifiuto provvisorio non è considerato tale e non è iscritto nel registro internazionale. L’Ufficio internazionale informa in merito l’Ufficio che ha comunicato il rifiuto provvisorio, ne indica i motivi e trasmette al titolare una copia della notifica irregolare. Ciononostante, se l’Ufficio invia una notifica regolarizzata entro due mesi dalla data in cui l’Ufficio internazionale ha informato detto Ufficio della notifica irregolare, la notifica regolarizzata sarà considerata, ai sensi dell’articolo 5 del Protocollo, essere stata inviata alla data in cui la notifica irregolare era stata inviata all’Ufficio internazionale e sarà iscritta nel registro internazionale.
+- e)[^18-5] Ogni notifica regolarizzata indica, quando lo permette la legislazione applicabile, un nuovo termine e contiene le informazioni di cui alla regola 17.2) vii)–x) per presentare una richiesta di riesame o un ricorso in relazione al rifiuto provvisorio pronunciato d’ufficio o al rifiuto provvisorio fondato su un’opposizione e, all’occorrenza, per presentare una risposta all’opposizione.
+- f)[^18-6] L’Ufficio internazionale trasmette una copia di ogni notifica regolarizzata al titolare.
 
 - a) ...
 - b) L<sup>’</sup>alinea 1)a) si applica per determinare se il termine prima della cui scadenza l’Ufficio della parte contraente interessata deve fornire all’Ufficio internazionale l<sup>’</sup>informazione oggetto dell’articolo 5.2)c)i) del Protocollo, è stato rispettato. Se tale informazione è fornita dopo la scadenza di tale termine, essa è considerata come se non fosse stata fornita e l’Ufficio internazionale ne informa l’Ufficio interessato.
 - c) Quando la notifica di rifiuto provvisorio è fatta in virtù dell’articolo 5.2)c)ii) del Protocollo senza che le condizioni dell’articolo 5.2)c)i) siano state soddisfatte, tale notifica di rifiuto provvisorio non è considerata tale. In questo caso, l’Ufficio internazionale trasmette ciononostante una copia della notifica al titolare, informa contemporaneamente il titolare e l’Ufficio che ha inviato la notifica del fatto che la notifica di rifiuto provvisorio non è considerata tale dall’Ufficio internazionale e ne indica i motivi.
 
-[^chap4-lvlu3-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-5]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-6]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-5]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-6]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
-### **Regola 18**<sup>bis</sup>Situazione provvisoria del marchio in una parte contraente designata
+#### Regola 18<sup>bis</sup>
+
+**Situazione provvisoria del marchio in una parte contraente designata**
 
 \1) [Esame d’ufficio terminato, ma opposizione o osservazioni da parte di terzi ancora possibili]
-
-- a) Un Ufficio che non ha comunicato una notifica di rifiuto provvisorio può, entro il termine applicabile in virtù dell’articolo 5.2)a) o b) del Protocollo, trasmettere all’Ufficio internazionale una dichiarazione indicante che l’esame d’ufficio è terminato e che l’Ufficio non ha rilevato alcun motivo di rifiuto ma che la protezione del marchio può ancora essere oggetto di un’opposizione o di osservazioni da parte di terzi; l’Ufficio indicherà fino a quale data possono essere presentate opposizioni o osservazioni.
-- b) Un Ufficio che ha comunicato una notifica di rifiuto provvisorio può trasmettere all’Ufficio internazionale una dichiarazione indicante che l’esame d’ufficio è terminato ma che la protezione del marchio può ancora essere oggetto di un’opposizione o di osservazioni da parte di terzi; l’Ufficio indicherà fino a quale data possono essere presentate opposizioni o osservazioni.
 
 \2) [Iscrizione, informazione del titolare e trasmissione di copie]
 
 L’Ufficio internazionale iscrive nel Registro internazionale ogni dichiarazione ricevuta in virtù della presente regola, ne informa il titolare e, quando la dichiarazione è stata comunicata o può essere riprodotta sotto forma di documento distinto, trasmette una copia di tale documento al titolare.
 
-### **Regola 18**<sup>ter</sup>Decisione finale concernente la situazione del marchio in una parte contraente designata
+- a) Un Ufficio che non ha comunicato una notifica di rifiuto provvisorio può, entro il termine applicabile in virtù dell’articolo 5.2)a) o b) del Protocollo, trasmettere all’Ufficio internazionale una dichiarazione indicante che l’esame d’ufficio è terminato e che l’Ufficio non ha rilevato alcun motivo di rifiuto ma che la protezione del marchio può ancora essere oggetto di un’opposizione o di osservazioni da parte di terzi; l’Ufficio indicherà fino a quale data possono essere presentate opposizioni o osservazioni.
+- b) Un Ufficio che ha comunicato una notifica di rifiuto provvisorio può trasmettere all’Ufficio internazionale una dichiarazione indicante che l’esame d’ufficio è terminato ma che la protezione del marchio può ancora essere oggetto di un’opposizione o di osservazioni da parte di terzi; l’Ufficio indicherà fino a quale data possono essere presentate opposizioni o osservazioni.
 
-\1) [Dichiarazione di concessione della protezione quando non è stata comunicata alcuna notifica di rifiuto provvisorio][^chap4-lvlu5-1]
+#### Regola 18<sup>ter</sup>
 
-Quando, prima della scadenza del termine previsto all’articolo 5.2)a), b) o c) del Protocollo, tutte le procedure dinnanzi a un Ufficio sono concluse e non sussiste alcun motivo per cui tale Ufficio debba rifiutare la protezione, l’Ufficio invia all’Ufficio internazionale, non appena possibile e prima della scadenza di tale termine, una dichiarazione indicante che la protezione del marchio oggetto della registrazione internazionale è concessa nella parte contraente interessata.[^chap4-lvlu5-2]
+**Decisione finale concernente la situazione del marchio in una parte contraente designata**
+
+\1) [Dichiarazione di concessione della protezione quando non è stata comunicata alcuna notifica di rifiuto provvisorio][^18ter-1]
+
+Quando, prima della scadenza del termine previsto all’articolo 5.2)a), b) o c) del Protocollo, tutte le procedure dinnanzi a un Ufficio sono concluse e non sussiste alcun motivo per cui tale Ufficio debba rifiutare la protezione, l’Ufficio invia all’Ufficio internazionale, non appena possibile e prima della scadenza di tale termine, una dichiarazione indicante che la protezione del marchio oggetto della registrazione internazionale è concessa nella parte contraente interessata.[^18ter-2]
 
 \2) [Dichiarazione di concessione della protezione a seguito di un rifiuto provvisorio]
-
-Quando tutte le procedure concernenti la protezione del marchio davanti all’Ufficio sono concluse, un Ufficio che ha comunicato una notifica di rifiuto provvisorio invia all’Ufficio internazionale, a meno che non abbia inviato una dichiarazione in virtù dell’alinea 3):
-
-- i) una dichiarazione indicante che il rifiuto provvisorio è ritirato e che la protezione del marchio è concessa nella parte contraente interessata per tutti i prodotti e i servizi per cui la protezione è stata richiesta; oppure
-- ii) una dichiarazione indicante i prodotti e i servizi per cui la protezione del marchio è concessa nella parte contraente interessata.
 
 \3) [Conferma di rifiuto provvisorio totale]
 
@@ -709,19 +745,28 @@ Un Ufficio che ha inviato all’Ufficio internazionale una notifica di rifiuto p
 
 \4) [Nuova decisione]
 
-Quando una notifica di rifiuto provvisorio non è stata inviata entro il termine applicabile in virtù dell’articolo 5.2) del Protocollo, o quando, dopo l’invio di una dichiarazione in virtù dell’alinea 1), 2) o 3) una nuova decisione, presa dall’Ufficio o da un’altra autorità, influisce sulla protezione del marchio, l’Ufficio, nella misura in cui è a conoscenza di tale decisione, senza pregiudicare le disposizioni della regola 19, invia all’Ufficio internazionale una nuova dichiarazione indicante lo stato del marchio e, all’occorrenza, i prodotti e i servizi per cui il marchio è protetto nella parte contraente interessata.[^chap4-lvlu5-3]
+Quando una notifica di rifiuto provvisorio non è stata inviata entro il termine applicabile in virtù dell’articolo 5.2) del Protocollo, o quando, dopo l’invio di una dichiarazione in virtù dell’alinea 1), 2) o 3) una nuova decisione, presa dall’Ufficio o da un’altra autorità, influisce sulla protezione del marchio, l’Ufficio, nella misura in cui è a conoscenza di tale decisione, senza pregiudicare le disposizioni della regola 19, invia all’Ufficio internazionale una nuova dichiarazione indicante lo stato del marchio e, all’occorrenza, i prodotti e i servizi per cui il marchio è protetto nella parte contraente interessata.[^18ter-3]
 
 \5) [Iscrizione, informazione del titolare e trasmissione di copie]
 
 L’Ufficio internazionale iscrive nel Registro internazionale ogni dichiarazione ricevuta in virtù della presente regola, ne informa il titolare e, quando la dichiarazione è stata comunicata o può essere riprodotta sotto forma di documento distinto, trasmette una copia di tale documento al titolare.
 
-[^chap4-lvlu5-1]: Quando ha adottato questa disposizione l’Assemblea dell’Unione di Madrid ha considerato che una dichiarazione di concessione della protezione può riferirsi a più registrazioni internazionali e assumere le sembianze di un elenco, comunicato elettronicamente o in forma cartacea, che consente di identificare queste registrazioni internazionali.
-[^chap4-lvlu5-2]: Quando ha adottato gli alinea 1) e 2) di questa regola l’Assemblea dell’Unione di Madrid ha considerato che quando la regola 34.3) sarà applicabile, la protezione sarà concessa previo pagamento della seconda parte della tassa.
-[^chap4-lvlu5-3]: Dichiarazione interpretativa approvata dall’Assemblea dell’Unione di Madrid: «Nella regola 18<sup>ter</sup>.4), il riferimento a una nuova decisione che influisce sulla protezione del marchio si estende anche alle nuove decisioni prese dall’Ufficio, ad esempio in caso di restitutio in integrum, anche nei casi in cui lo stesso ha già dichiarato che le procedure davanti all’Ufficio sono concluse».
+Quando tutte le procedure concernenti la protezione del marchio davanti all’Ufficio sono concluse, un Ufficio che ha comunicato una notifica di rifiuto provvisorio invia all’Ufficio internazionale, a meno che non abbia inviato una dichiarazione in virtù dell’alinea 3):
 
-### **Regola 19**Invalidazioni in parti contraenti designate
+- i) una dichiarazione indicante che il rifiuto provvisorio è ritirato e che la protezione del marchio è concessa nella parte contraente interessata per tutti i prodotti e i servizi per cui la protezione è stata richiesta; oppure
+- ii) una dichiarazione indicante i prodotti e i servizi per cui la protezione del marchio è concessa nella parte contraente interessata.
+
+[^18ter-1]: Quando ha adottato questa disposizione l’Assemblea dell’Unione di Madrid ha considerato che una dichiarazione di concessione della protezione può riferirsi a più registrazioni internazionali e assumere le sembianze di un elenco, comunicato elettronicamente o in forma cartacea, che consente di identificare queste registrazioni internazionali.
+[^18ter-2]: Quando ha adottato gli alinea 1) e 2) di questa regola l’Assemblea dell’Unione di Madrid ha considerato che quando la regola 34.3) sarà applicabile, la protezione sarà concessa previo pagamento della seconda parte della tassa.
+[^18ter-3]: Dichiarazione interpretativa approvata dall’Assemblea dell’Unione di Madrid: «Nella regola 18<sup>ter</sup>.4), il riferimento a una nuova decisione che influisce sulla protezione del marchio si estende anche alle nuove decisioni prese dall’Ufficio, ad esempio in caso di restitutio in integrum, anche nei casi in cui lo stesso ha già dichiarato che le procedure davanti all’Ufficio sono concluse».
+
+#### Regola 19
+
+**Invalidazioni in parti contraenti designate**
 
 \1) [Contenuto della notifica di invalidazione]
+
+\2) [Iscrizione dell’invalidazione e informazione del titolare e dell’Ufficio interessato]
 
 Quando gli effetti di una registrazione internazionale sono invalidati in una parte contraente designata, in virtù dell’articolo 5.6) del Protocollo, e quando l’invalidazione non può essere oggetto di ricorso, l’Ufficio della parte contraente di cui l’autorità competente ha pronunciato l’invalidazione, notifica tale fatto all’Ufficio internazionale. La notifica contiene o indica:
 
@@ -732,18 +777,14 @@ Quando gli effetti di una registrazione internazionale sono invalidati in una pa
 - v) se l’invalidazione non concerne la totalità dei prodotti e dei servizi, quei prodotti e servizi per i quali essa è stata pronunciata o quelli per i quali non è stata pronunciata; e
 - vi) la data in cui l’invalidazione è stata pronunciata nonché, se possibile, la data in cui essa entra in vigore.
 
-\2) [Iscrizione dell’invalidazione e informazione del titolare e dell’Ufficio interessato]
-
 - a) L’Ufficio internazionale iscrive l’invalidazione nel registro internazionale con i dati che figurano nella notifica di invalidazione, e ne informa il titolare. L’Ufficio internazionale informa anche l’Ufficio che ha comunicato la notifica di invalidazione della data in cui l’invalidazione è stata iscritta nel registro internazionale se tale Ufficio ha chiesto di ricevere queste informazioni.
 - b) L’invalidazione è iscritta alla data di ricezione da parte dell’Ufficio internazionale di una notifica che soddisfi le condizioni richieste.
 
-### **Regola 20**Restrizione del diritto del titolare a disporre della registrazione internazionale
+#### Regola 20
+
+**Restrizione del diritto del titolare a disporre della registrazione internazionale**
 
 \1) [Comunicazione dell’informazione]
-
-- a) Il titolare di una registrazione internazionale o l’Ufficio della parte contraente del titolare può informare l’Ufficio internazionale che il diritto del titolare a disporre della registrazione internazionale è stato ristretto, indicando, se è il caso, le parti contraenti interessate.
-- b) L’Ufficio di una parte contraente designata può informare l’Ufficio internazionale che il diritto del titolare a disporre della registrazione internazionale è stato ristretto sul territorio di tale parte contraente.
-- c) L’informazione data conformemente al punto a) o b) deve consistere in un compendio dei fatti principali riguardanti tale restrizione.
 
 \2) [Ritiro parziale o totale della restrizione]
 
@@ -751,14 +792,32 @@ Quando l’Ufficio internazionale è stato informato, in conformità dell’alin
 
 \3) [Iscrizione]
 
+\4) …
+
+- a) Il titolare di una registrazione internazionale o l’Ufficio della parte contraente del titolare può informare l’Ufficio internazionale che il diritto del titolare a disporre della registrazione internazionale è stato ristretto, indicando, se è il caso, le parti contraenti interessate.
+- b) L’Ufficio di una parte contraente designata può informare l’Ufficio internazionale che il diritto del titolare a disporre della registrazione internazionale è stato ristretto sul territorio di tale parte contraente.
+- c) L’informazione data conformemente al punto a) o b) deve consistere in un compendio dei fatti principali riguardanti tale restrizione.
+
 - a) L’Ufficio internazionale iscrive nel registro internazionale le informazioni comunicate in virtù degli alinea 1) e 2) e ne informa il titolare, l’Ufficio della parte contraente del titolare e gli Uffici delle parti contraenti designate interessate.
 - b) Le informazioni comunicate in virtù degli alinea 1) e 2) sono iscritte alla data di ricezione da parte dell’Ufficio internazionale, a condizione che la comunicazione soddisfi le condizioni richieste.
 
-\4) …
+#### Regola 20<sup>bis</sup>
 
-### **Regola 20**<sup>bis</sup>Licenze
+**Licenze**
 
 \1) [Domanda d’iscrizione di una licenza]
+
+\2) [Domanda irregolare]
+
+\3) [Iscrizione e notifica]
+
+\4) [Modifica o radiazione dell’iscrizione di una licenza]
+
+Gli alinea 1) a 3) si applicano *mutatis mutandis* a una domanda di modifica o di radiazione dell’iscrizione di una licenza.
+
+\5) [Dichiarazione in base alla quale l’iscrizione di una data licenza è priva di effetto]
+
+\6) [Dichiarazione in base alla quale l’iscrizione delle licenze nel registro internazionale è priva di effetto in una parte contraente]
 
 - a) Una domanda d’iscrizione di una licenza deve essere presentata all’Ufficio internazionale tramite l’apposito formulario ufficiale, dal titolare o, se l’Ufficio ammette tale presentazione, dall’Ufficio della parte contraente del titolare o dall’Ufficio di una parte contraente nei confronti della quale la licenza è accordata.
 - b)
@@ -784,22 +843,12 @@ Quando l’Ufficio internazionale è stato informato, in conformità dell’alin
 
 - d) La domanda deve essere firmata dal titolare o dall’Ufficio tramite il quale è stata presentata.
 
-\2) [Domanda irregolare]
-
 - a) Se la domanda d’iscrizione di una licenza non soddisfa le condizioni previste all’alinea 1)a), b) e d), l’Ufficio internazionale notifica tale fatto al titolare e, se la domanda è stata presentata da un Ufficio, a tale Ufficio.
 - b) Se l’irregolarità non è corretta entro tre mesi a decorrere dalla data della notifica dell’irregolarità da parte dell’Ufficio internazionale, la domanda è considerata abbandonata e l’Ufficio internazionale notifica tale fatto contemporaneamente al titolare e, se la domanda è stata presentata da un Ufficio, a tale Ufficio e rimborsa tutte le tasse pagate all’autore del pagamento di queste tasse, dopo aver dedotto un importo corrispondente alla metà delle relative tasse di cui al punto 7 della tabella degli emolumenti e tasse.
-
-\3) [Iscrizione e notifica]
 
 - a) Quando la domanda soddisfa le condizioni previste all’alinea 1) a), b) e d), l’Ufficio internazionale iscrive la licenza nel registro internazionale, con le informazioni contenute nella domanda, notifica questo fatto all’Ufficio delle parti contraenti designate per le quali è accordata la licenza e informa contemporaneamente il titolare e, se la domanda è stata presentata da un Ufficio, tale Ufficio.
 - b) La licenza è iscritta alla data di ricezione da parte dell’Ufficio internazionale di una domanda che soddisfi le condizioni richieste.
 - c) Nonostante il punto b), quando il proseguimento della procedura è stato iscritto in virtù della regola 5<sup>bis</sup>, la licenza è iscritta nel registro internazionale alla data in cui scade il termine previsto al punto 2)b).
-
-\4) [Modifica o radiazione dell’iscrizione di una licenza]
-
-Gli alinea 1) a 3) si applicano *mutatis mutandis* a una domanda di modifica o di radiazione dell’iscrizione di una licenza.
-
-\5) [Dichiarazione in base alla quale l’iscrizione di una data licenza è priva di effetto]
 
 - a) L’Ufficio di una parte contraente designata a cui l’Ufficio internazionale notifica l’iscrizione di una licenza riguardante tale parte contraente può dichiarare che questa iscrizione è priva di effetto nella suddetta parte contraente.
 - b)
@@ -815,18 +864,20 @@ Gli alinea 1) a 3) si applicano *mutatis mutandis* a una domanda di modifica o d
 - d) L’Ufficio internazionale iscrive nel registro internazionale qualsiasi dichiarazione fatta conformemente al punto c), e la notifica, a seconda che la domanda d’iscrizione della licenza sia stata presentata dal titolare o dall’Ufficio, al suddetto titolare o al suddetto Ufficio. La dichiarazione è iscritta alla data di ricezione da parte dell’Ufficio internazionale di una comunicazione che soddisfi le condizioni richieste.
 - e) Qualsiasi decisione definitiva riguardante una dichiarazione fatta conformemente al punto a) è notificata all’Ufficio internazionale, il quale la iscrive nel registro internazionale e la notifica, a seconda che la domanda di iscrizione della licenza sia stata presentata dal titolare o da un Ufficio, al suddetto titolare o al suddetto Ufficio.
 
-\6) [Dichiarazione in base alla quale l’iscrizione delle licenze nel registro internazionale è priva di effetto in una parte contraente]
-
 - a) L’Ufficio di una parte contraente la cui legislazione non prevede l’iscrizione di licenze di marchi può notificare al Direttore generale che l’iscrizione delle licenze nel registro internazionale è priva di effetto in questa parte contraente.
 - b) L’Ufficio di una parte contraente la cui legislazione prevede l’iscrizione di licenze di marchi può, prima della data in cui la presente regola entra in vigore o alla data in cui la suddetta parte contraente diventa vincolata dal Protocollo, notificare al Direttore generale che l’iscrizione delle licenze nel registro internazionale è priva di effetto in questa parte contraente. Tale notifica può essere ritirata in ogni momento.
 
-### **Regola 21**Sostituzione di una registrazione nazionale o regionale con una registrazione internazionale
+#### Regola 21
 
-[^chap4-lvlu9-1]
-
-[^chap4-lvlu9-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+**Sostituzione di una registrazione nazionale o regionale con una registrazione internazionale**[^21-1]
 
 \1) [Domanda e notifica]
+
+La notifica può anche includere informazioni su qualsiasi altro diritto acquisito in seguito a questa registrazione nazionale o regionale o a queste registrazioni nazionali o regionali.
+
+\2) [Iscrizione]
+
+\3) [Precisazioni ulteriori relative alla sostituzione]
 
 A partire dalla data della notifica della registrazione internazionale o della designazione successiva, secondo il caso, il titolare può presentare direttamente all’Ufficio di una parte contraente designata una domanda intesa a far sì che tale Ufficio annoti la registrazione internazionale nel proprio registro, in conformità dell’articolo 4<sup>bis</sup>.2) del Protocollo. Quando, in seguito a tale domanda, l’Ufficio ha annotato nel proprio registro il fatto che una registrazione nazionale o regionale oppure delle registrazioni nazionali o regionali, secondo il caso, sono state sostituite da una registrazione internazionale, tale Ufficio lo notifica all’Ufficio internazionale. Tale notifica indica:
 
@@ -834,33 +885,27 @@ A partire dalla data della notifica della registrazione internazionale o della d
 - ii) quando la sostituzione riguarda soltanto uno o taluni dei prodotti e servizi elencati nella registrazione internazionale, tali prodotti e servizi; e
 - iii) la data e il numero di deposito, la data e il numero di registrazione e, all’occorrenza, la data di priorità della registrazione nazionale o regionale o delle registrazioni nazionali o regionali che sono state sostituite dalla registrazione internazionale.
 
-La notifica può anche includere informazioni su qualsiasi altro diritto acquisito in seguito a questa registrazione nazionale o regionale o a queste registrazioni nazionali o regionali.
-
-\2) [Iscrizione]
-
 - a) L’Ufficio internazionale iscrive nel registro internazionale le indicazioni notificate in virtù dell’alinea 1 e ne informa il titolare.
 - b) Le indicazioni notificate in virtù dell’alinea 1 sono iscritte alla data di ricezione da parte dell’Ufficio internazionale di una notifica che soddisfi le condizioni richieste.
 
-\3) [Precisazioni ulteriori relative alla sostituzione]
-
 - a) La protezione del marchio oggetto della registrazione internazionale non può essere rifiutata, neppure parzialmente, sulla base di una registrazione nazionale o regionale considerata sostituita da tale registrazione internazionale.
-- b) Una registrazione nazionale o regionale e la registrazione internazionale che l’ha sostituita possono coesistere. Il titolare non può essere obbligato a rinunciare a una registrazione nazionale o regionale considerata sostituita da una registrazione internazionale o a chiederne la radiazione e, se lo desidera, dovrebbe essere autorizzato a rinnovarla in conformità della legislazione nazionale o regionale applicabile.
+- b)[^21-2] Una registrazione nazionale o regionale e la registrazione internazionale che l’ha sostituita possono coesistere. Il titolare non può essere obbligato a rinunciare a una registrazione nazionale o regionale considerata sostituita da una registrazione internazionale o a chiederne la radiazione e, se lo desidera, deve essere autorizzato a rinnovarla in conformità della legislazione nazionale o regionale applicabile.
 - c) Prima di annotare la registrazione internazionale nel proprio registro, l’Ufficio di una parte contraente designata esamina la domanda di cui all’alinea 1 al fine di determinare se le condizioni di cui all’articolo 4<sup>bis</sup>.1) del Protocollo sono soddisfatte.
 - d) I prodotti e servizi interessati dalla sostituzione elencati nella registrazione nazionale o regionale devono essere coperti da quelli elencati nella registrazione internazionale. La sostituzione può interessare anche solo determinati prodotti e servizi elencati nella registrazione nazionale o regionale.
 - e) Una registrazione nazionale o regionale è considerata sostituita da una registrazione internazionale a partire dalla data nella quale tale registrazione entra in vigore in conformità dell’articolo 4.1).a) del Protocollo.
 
-### **Regola 21**<sup>bis</sup>Altri fatti relativi a una rivendicazione di preesistenza
+[^21-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+[^21-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2024 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+
+#### Regola 21<sup>bis</sup>
+
+**Altri fatti relativi a una rivendicazione di preesistenza**
 
 \1) [Rifiuto definitivo di una rivendicazione di preesistenza]
 
 Quando una rivendicazione di preesistenza è stata iscritta sul registro internazionale nei confronti della designazione di un’organizzazione contraente, l’Ufficio di tale organizzazione notifica all’Ufficio internazionale qualsiasi decisione definitiva che rifiuta, in tutto o in parte, la validità di questa rivendicazione.
 
 \2) [Preesistenza rivendicata successivamente alla registrazione internazionale]
-
-Quando il titolare di una registrazione internazionale che designa un’organizzazione contraente ha, in virtù della legislazione di tale organizzazione contraente, rivendicato direttamente presso l’Ufficio di tale organizzazione la preesistenza di uno o più marchi anteriori in, o per, uno Stato membro di questa organizzazione, e quando questa rivendicazione è stata accettata dall’Ufficio interessato, questo Ufficio notifica tale fatto all’Ufficio internazionale. La notifica indica:
-
-- i) il numero della registrazione internazionale considerata; e
-- ii) lo Stato o gli Stati membri in cui, o per cui, è registrato il marchio anteriore, nonché la data da cui la registrazione di questo marchio è divenuta effettiva e il numero della registrazione corrispondente.
 
 \3) [Altre decisioni riguardanti una rivendicazione di preesistenza]
 
@@ -870,9 +915,18 @@ L’Ufficio di un’organizzazione contraente notifica all’Ufficio internazion
 
 L’Ufficio internazionale iscrive nel registro internazionale le informazioni notificate in virtù degli alinea 1) a 3).
 
-### **Regola 22**Cessazione degli effetti della domanda di base, della registrazione che ne risulta o della registrazione di base
+Quando il titolare di una registrazione internazionale che designa un’organizzazione contraente ha, in virtù della legislazione di tale organizzazione contraente, rivendicato direttamente presso l’Ufficio di tale organizzazione la preesistenza di uno o più marchi anteriori in, o per, uno Stato membro di questa organizzazione, e quando questa rivendicazione è stata accettata dall’Ufficio interessato, questo Ufficio notifica tale fatto all’Ufficio internazionale. La notifica indica:
+
+- i) il numero della registrazione internazionale considerata; e
+- ii) lo Stato o gli Stati membri in cui, o per cui, è registrato il marchio anteriore, nonché la data da cui la registrazione di questo marchio è divenuta effettiva e il numero della registrazione corrispondente.
+
+#### Regola 22
+
+**Cessazione degli effetti della domanda di base, della registrazione che ne risulta o della registrazione di base**
 
 \1) [Notifica relativa alla cessazione degli effetti della domanda di base, della registrazione che ne risulta o della registrazione di base]
+
+\2) [Iscrizione e trasmissione della notifica; radiazione della registrazione internazionale]
 
 - a)
 
@@ -884,9 +938,7 @@ L’Ufficio internazionale iscrive nel registro internazionale le informazioni n
   - iv) quando i suddetti fatti e decisioni incidono sulla registrazione internazionale soltanto nei confronti di taluni dei prodotti e servizi, i prodotti e servizi su cui tali fatti e decisioni incidono o quelli su cui tali fatti e decisioni non incidono.
 
 - b) Quando una procedura oggetto del punto i), ii) oppure iii) dell’articolo 6.3) del Protocollo, ha avuto inizio prima della scadenza del periodo di cinque anni ma non si è conclusa, prima della scadenza di tale periodo, con la decisione finale oggetto della seconda frase dell’articolo 6.3) del Protocollo o con il ritiro o la rinuncia oggetto della terza frase dell’articolo 6.3) del Protocollo, l’Ufficio d’origine, quando ne è a conoscenza, notifica tale fatto all’Ufficio internazionale non appena possibile dopo la scadenza del suddetto periodo.
-- c)[^chap4-lvlu11-1] Non appena la procedura oggetto del punto b) si è conclusa con la decisione finale oggetto della seconda frase dell’articolo 6.3) del Protocollo o col ritiro o la rinuncia oggetto della terza frase dell’articolo 6.3) del Protocollo, l’Ufficio d’origine, quando ne è a conoscenza, notifica tale fatto all’Ufficio internazionale e fornisce le indicazioni oggetto del punto a)i) a iv). Quando la procedura oggetto del punto b) si conclude senza giudizio definitivo, ritiro o rinuncia di cui sopra, l’Ufficio d’origine, quando ne è a conoscenza, o a richiesta del titolare, lo notifica all’Ufficio internazionale.
-
-\2) [Iscrizione e trasmissione della notifica; radiazione della registrazione internazionale]
+- c)[^22-1] Non appena la procedura oggetto del punto b) si è conclusa con la decisione finale oggetto della seconda frase dell’articolo 6.3) del Protocollo o col ritiro o la rinuncia oggetto della terza frase dell’articolo 6.3) del Protocollo, l’Ufficio d’origine, quando ne è a conoscenza, notifica tale fatto all’Ufficio internazionale e fornisce le indicazioni oggetto del punto a)i) a iv). Quando la procedura oggetto del punto b) si conclude senza giudizio definitivo, ritiro o rinuncia di cui sopra, l’Ufficio d’origine, quando ne è a conoscenza, o a richiesta del titolare, lo notifica all’Ufficio internazionale.
 
 - a) L’Ufficio internazionale iscrive sul registro internazionale la notifica di cui all<sup>’</sup>alinea 1) e trasmette una copia di tale notifica agli Uffici delle parti contraenti designate ed al titolare.
 - b) Quando una notifica di cui all’alinea 1) a) oppure c) richiede la radiazione della registrazione internazionale e soddisfa le condizioni di tale alinea, l’Ufficio internazionale radia, nei limiti applicabili, la registrazione internazionale nel registro internazionale. A seguito della suddetta notifica, l’Ufficio internazionale radia, nei limiti applicabili, anche le registrazioni internazionali risultanti da un cambiamento parziale di titolare o da una divisione iscritte sotto la registrazione internazionale radiata e quelle risultanti dalla loro fusione.
@@ -898,17 +950,13 @@ L’Ufficio internazionale iscrive nel registro internazionale le informazioni n
   - ii) quando la radiazione riguarda l<sup>’</sup>insieme dei prodotti e dei servizi, tale fatto;
   - iii) quando la radiazione concerne soltanto taluni dei prodotti e dei servizi, quelli che sono stati indicati in virtù dell’alinea 1)a)iv).
 
-[^chap4-lvlu11-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^22-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
-### **Regola 23**Divisione o fusione delle domande di base, delle registrazioni che ne risultano o delle registrazioni di base
+#### Regola 23
+
+**Divisione o fusione delle domande di base, delle registrazioni che ne risultano o delle registrazioni di base**
 
 \1) [ Notifica della divisione della domanda di base o della fusione delle domande di base]
-
-Quando, durante il periodo di cinque anni oggetto dell’articolo 6.3) del Protocollo, la domanda di base è divisa in più domande, o quando più domande di base sono fuse in una sola domanda, l’Ufficio d’origine notifica questo fatto all’Ufficio internazionale e indica:
-
-- i) il numero della registrazione internazionale o, se la registrazione internazionale non è stata ancora effettuata, il numero della domanda di base;
-- ii) il nome del titolare o del depositante;
-- iii) il numero di ogni domanda che risulta dalla divisione o il numero della domanda che risulta dalla fusione.
 
 \2) [Iscrizione e notifica effettuate dall’Ufficio internazionale]
 
@@ -918,11 +966,19 @@ L’Ufficio internazionale iscrive nel registro internazionale la notifica ogget
 
 Si applicano gli alinea 1) e 2), *mutatis mutandis*, alla divisione di qualsiasi registrazione che risulti dalla domanda di base o alla fusione di qualsiasi registrazione che risulti da domande di base se tale divisione o tale fusione è intervenuta durante il periodo di cinque anni oggetto dell’articolo 6.3) del Protocollo, ed alla divisione della registrazione di base o alla fusione di registrazioni di base se tale divisione o tale fusione è intervenuta durante il periodo di cinque anni oggetto dell’articolo 6.3) del Protocollo.
 
-### **Regola 23**<sup>bis</sup> Comunicazioni degli Uffici delle parti contraenti designate inviate per il tramite dell’Ufficio internazionale
+Quando, durante il periodo di cinque anni oggetto dell’articolo 6.3) del Protocollo, la domanda di base è divisa in più domande, o quando più domande di base sono fuse in una sola domanda, l’Ufficio d’origine notifica questo fatto all’Ufficio internazionale e indica:
+
+- i) il numero della registrazione internazionale o, se la registrazione internazionale non è stata ancora effettuata, il numero della domanda di base;
+- ii) il nome del titolare o del depositante;
+- iii) il numero di ogni domanda che risulta dalla divisione o il numero della domanda che risulta dalla fusione.
+
+#### Regola 23<sup>bis</sup>
+
+**Comunicazioni degli Uffici delle parti contraenti designate inviate per il tramite dell’Ufficio internazionale**
 
 \1) [Comunicazioni che non rientrano nel presente regolamento di esecuzione]
 
-Quando la legislazione di una parte contraente designata non autorizza l’Ufficio a trasmettere una comunicazione inerente a una registrazione internazionale direttamente al titolare, tale Ufficio può chiedere all’Ufficio internazionale di trasmettere la comunicazione a suo nome al titolare.
+L’Ufficio di una parte contraente designata può chiedere all’Ufficio internazionale di trasmettere al titolare, a suo nome, comunicazioni relative a una registrazione internazionale.[^23bis-1]
 
 \2) [Formato della comunicazione]
 
@@ -932,17 +988,45 @@ L’Ufficio internazionale definisce il formato per la trasmissione della comuni
 
 L’Ufficio internazionale trasmette al titolare la comunicazione di cui all’alinea 1) nel formato definito dall’Ufficio internazionale, senza esaminarne il contenuto e senza iscriverla nel registro internazionale.
 
+[^23bis-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2024 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+
 ## Capitolo 5: Designazioni posteriori; modifiche
 
-### **Regola 24**Designazione successiva alla registrazione internazionale
+#### Regola 24
+
+**Designazione successiva alla registrazione internazionale**
 
 \1) [Capacità]
+
+\2) [Presentazione; modulo e firma]
+
+\3) [Contenuto]
+
+\4) [Emolumenti e tasse]
+
+La designazione successiva è subordinata al pagamento degli emolumenti e tasse precisati o previsti al punto 5 della tabella degli emolumenti e tasse.
+
+\5) [Irregolarità]
+
+\6) [Data della designazione successiva]
+
+\7) [Designazione successiva risultante da una conversione]
+
+\8) [Iscrizione e notifica]
+
+Quando l’Ufficio internazionale constata che la designazione successiva soddisfa le condizioni richieste, la iscrive sul registro internazionale e notifica questo fatto all’Ufficio della parte contraente che è stata designata nella designazione successiva, e ne informa contemporaneamente il titolare e, se la designazione successiva è stata presentata da un Ufficio, tale Ufficio.
+
+\9) [Rifiuto]
+
+Le regole da 16 a 18<sup>ter</sup> si applicano *mutatis mutandis*.
+
+\10) [Designazione successiva non considerata tale]
+
+Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione successiva non è considerata tale e l’Ufficio internazionale ne informa il mittente.
 
 - a) Una parte contraente può essere oggetto di una designazione successiva alla registrazione internazionale (in seguito detta «designazione successiva») quando, all’atto di tale designazione, il titolare soddisfa le condizioni previste all’articolo 2 del Protocollo per essere il titolare di una registrazione internazionale.
 - b) ...
 - c) ...
-
-\2) [Presentazione; modulo e firma]
 
 - a)
 
@@ -954,14 +1038,12 @@ L’Ufficio internazionale trasmette al titolare la comunicazione di cui all’a
 
 - b) La designazione successiva deve essere presentata sul modulo ufficiale. Quando essa è presentata dal titolare, deve essere firmata dal titolare. Quando è presentata da un Ufficio, deve essere firmata da tale Ufficio e, quando l’Ufficio lo pretende, anche dal titolare. Quando essa è presentata da un Ufficio e quando questo Ufficio, senza pretendere che la designazione successiva sia firmata dal titolare, consente che sia anche firmata dal titolare, il titolare può firmare la designazione successiva.
 
-\3) [Contenuto]
-
 - a)
 
   Fatto salvo l’alinea 7)b), la designazione successiva deve contenere o indicare:
 
   - i) il numero di registrazione internazionale considerata;
-  - ii)[^chap5-lvlu1-1] il nome del titolare;
+  - ii)[^24-1] il nome del titolare;
   - iii) la parte contraente che è designata;
   - iv) se la designazione successiva si riferisce a tutti i prodotti e servizi elencati nella registrazione internazionale considerata, tale fatto, oppure, se la designazione successiva si riferisce soltanto a una parte dei prodotti e servizi elencati nella registrazione internazionale considerata, tali prodotti e servizi;
   - v) l’ammontare degli emolumenti e tasse pagati e le modalità di pagamento, o le direttive per prelevare l’ammontare richiesto degli emolumenti e tasse da un conto aperto presso l’Ufficio internazionale, e l’identità dell’autore del pagamento o delle direttive; e
@@ -984,17 +1066,9 @@ L’Ufficio internazionale trasmette al titolare la comunicazione di cui all’a
 
 - d) ...
 
-\4) [Emolumenti e tasse]
-
-La designazione successiva è subordinata al pagamento degli emolumenti e tasse precisati o previsti al punto 5 della tabella degli emolumenti e tasse.
-
-\5) [Irregolarità]
-
 - a) Se la designazione successiva non soddisfa le condizioni richieste, e fatto salvo l’alinea 10), l’Ufficio internazionale notifica tale fatto al titolare e, se la designazione successiva è stata presentata da un Ufficio, a tale Ufficio.
 - b) Se l’irregolarità non è corretta entro tre mesi a decorrere dalla data della sua notifica dall’Ufficio internazionale, la designazione successiva è considerata abbandonata, e l’Ufficio internazionale notifica tale fatto contemporaneamente al titolare e, se la designazione successiva è stata presentata da un Ufficio, a tale Ufficio, e rimborsa all’autore del pagamento gli emolumenti e tasse pagati, dopo la deduzione di un ammontare corrispondente a metà dell’emolumento di base di cui al punto 5.1 della tabella degli emolumenti e tasse.
 - c) Nonostante i punti a) e b), quando le condizioni stabilite all’alinea 3)b)i) non sono soddisfatte nei confronti di una o più delle parti contraenti designate, la designazione successiva è considerata non contenere la designazione di tali parti contraenti, e tutti gli emolumenti complementari o le tasse individuali già pagati a nome di tali parti contraenti sono rimborsati. Se le condizioni dell’alinea 3)b)i) non sono soddisfatte nei confronti di nessuna delle parti contraenti designate, si applica il punto b).
-
-\6) [Data della designazione successiva]
 
 - a) Una designazione successiva presentata all’Ufficio internazionale direttamente dal titolare porta, fatto salvo il punto c)i), la data di ricezione da parte dell’Ufficio internazionale.
 - b) Una designazione successiva presentata all’Ufficio internazionale da un Ufficio porta, fatto salvo il punto c)i), d) ed e), la data in cui essa è stata ricevuta da tale Ufficio, a condizione che la suddetta designazione sia stata ricevuta dall’Ufficio internazionale entro il termine di due mesi a decorrere da tale data. Se la designazione successiva non è stata ricevuta dall’Ufficio internazionale entro tale termine, essa porta, fatto salvo il punto c)i), d) ed e), la data della sua ricezione da parte dell’Ufficio internazionale.
@@ -1008,8 +1082,6 @@ La designazione successiva è subordinata al pagamento degli emolumenti e tasse 
 - d) Nonostante i punti a), b) e c), quando contiene una richiesta presentata conformemente al capoverso 3)c)ii), la designazione successiva può recare una data successiva a quella risultante dall’applicazione del punto a), b) o c).
 - e) Quando una designazione successiva risulta da una conversione conformemente all’alinea 7), questa designazione successiva porta la data in cui la designazione dell’organizzazione contraente è stata iscritta nel registro internazionale.
 
-\7) [Designazione successiva risultante da una conversione]
-
 - a) Quando la designazione di un’organizzazione contraente è stata iscritta nel registro internazionale e nella misura in cui questa designazione è stata ritirata, rifiutata o ha cessato di avere effetto in virtù della legislazione di questa organizzazione, il titolare della registrazione internazionale considerata può domandare che la designazione della suddetta organizzazione contraente sia convertita in una designazione di qualsiasi Stato membro di questa organizzazione che è partecipe del Protocollo.
 - b)
 
@@ -1018,23 +1090,21 @@ La designazione successiva è subordinata al pagamento degli emolumenti e tasse 
   - i) l’organizzazione contraente la cui designazione deve essere convertita; e
   - ii) il fatto che la designazione successiva di uno Stato membro risultante dalla conversione concerne tutti i prodotti e servizi coperti dalla designazione dell’organizzazione contraente o, se la designazione successiva di tale Stato membro riguarda solo una parte di questi prodotti e servizi, tali prodotti e servizi.
 
-\8) [Iscrizione e notifica]
+[^24-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
-Quando l’Ufficio internazionale constata che la designazione successiva soddisfa le condizioni richieste, la iscrive sul registro internazionale e notifica questo fatto all’Ufficio della parte contraente che è stata designata nella designazione successiva, e ne informa contemporaneamente il titolare e, se la designazione successiva è stata presentata da un Ufficio, tale Ufficio.
+#### Regola 25
 
-\9) [Rifiuto]
-
-Le regole da 16 a 18<sup>ter</sup> si applicano *mutatis mutandis*.
-
-\10) [Designazione successiva non considerata tale]
-
-Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione successiva non è considerata tale e l’Ufficio internazionale ne informa il mittente.
-
-[^chap5-lvlu1-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-
-### **Regola 25**Domanda di iscrizione di una modifica
+**Domanda di iscrizione di una modifica**
 
 \1) [Presentazione della domanda]
+
+\2) [Contenuto della domanda]
+
+\3) ...
+
+\4) [Pluralità di nuovi titolari]
+
+Quando la domanda di iscrizione di un cambiamento di titolare della registrazione internazionale indica una pluralità di nuovi titolari, ognuno di loro deve soddisfare le condizioni di cui all’articolo 2 del Protocollo di Madrid per essere titolare della registrazione internazionale.
 
 - a)
 
@@ -1051,15 +1121,13 @@ Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione succes
 - c) ...
 - d) Quando la domanda è presentata dal titolare, essa deve essere firmata dal titolare. Quando è presentata da un Ufficio, deve essere firmata da questo Ufficio e, quando l’Ufficio lo pretende, anche dal titolare. Quando la domanda è presentata da un Ufficio e quando questo Ufficio, senza pretendere che la domanda sia firmata dal titolare, consente che sia firmata anche dal titolare, il titolare può firmare la domanda.
 
-\2) [Contenuto della domanda]
-
 - a)
 
   La domanda di iscrizione di una modifica o la domanda di iscrizione di una radiazione deve contenere o indicare, oltre all’iscrizione o alla radiazione richiesta:
 
   - i) il numero della registrazione internazionale considerata;
   - ii) il nome del titolare o il nome del mandatario, quando la modifica si riferisce al nome o all’indirizzo del mandatario;
-  - iii)[^chap5-lvlu2-1] nel caso di un cambiamento di titolare della registrazione internazionale, il nome e l’indirizzo, indicati in conformità delle istruzioni amministrative, nonché l’indirizzo di posta elettronica della persona fisica o giuridica indicata nella domanda come nuovo titolare della registrazione internazionale (più avanti chiamato «nuovo titolare»);
+  - iii)[^25-1] nel caso di un cambiamento di titolare della registrazione internazionale, il nome e l’indirizzo, indicati in conformità delle istruzioni amministrative, nonché l’indirizzo di posta elettronica della persona fisica o giuridica indicata nella domanda come nuovo titolare della registrazione internazionale (più avanti chiamato «nuovo titolare»);
   - iv) nel caso di un cambiamento di titolare della registrazione internazionale, la parte contraente o le parti contraenti nei cui confronti il nuovo titolare soddisfa le condizioni previste nell’articolo 2 del Protocollo per essere il titolare di una registrazione internazionale;
   - v) nel caso di un cambiamento di titolare della registrazione internazionale, quando l’indirizzo del nuovo titolare indicato in conformità del punto iii) non è sul territorio della parte contraente o di una delle parti contraenti, indicato in conformità del punto iv), e a meno che il nuovo titolare non abbia indicato di essere cittadino di uno Stato contraente o di uno Stato membro di un’organizzazione contraente, l’indirizzo dell’azienda, o il domicilio, del nuovo titolare nella parte contraente o in una delle parti contraenti nei confronti della quale costui soddisfa le condizioni richieste per essere titolare della registrazione internazionale;
   - vi) nel caso di un cambiamento di titolare della registrazione internazionale che non riguarda tutti i prodotti e servizi e neppure tutte le parti contraenti designate, i prodotti e servizi e le parti contraenti designate che sono interessate dal cambiamento di titolare; e
@@ -1075,15 +1143,11 @@ Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione succes
 - c) La domanda di iscrizione di una modifica o di una radiazione può anche contenere una richiesta intesa a far sì che questa iscrizione sia effettuata prima o dopo quella di un’altra modifica o radiazione o di una designazione successiva concernente la registrazione internazionale in questione o dopo il rinnovo della registrazione internazionale.
 - d) La domanda di iscrizione di una limitazione deve raggruppare unicamente i prodotti e i servizi limitati secondo i numeri corrispondenti delle classi della classificazione internazionale dei prodotti e dei servizi che figurano nella registrazione internazionale o, quando la limitazione riguarda tutti i prodotti e i servizi in una o più di tali classi, deve indicare le classi da sopprimere.
 
-\3) ...
+[^25-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
-\4) [Pluralità di nuovi titolari]
+#### Regola 26
 
-Quando la domanda di iscrizione di un cambiamento di titolare della registrazione internazionale indica una pluralità di nuovi titolari, ognuno di loro deve soddisfare le condizioni di cui all’articolo 2 del Protocollo di Madrid per essere titolare della registrazione internazionale.
-
-[^chap5-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-
-### **Regola 26**Irregolarità nelle domande di iscrizione in virtù della regola 25
+**Irregolarità nelle domande di iscrizione in virtù della regola 25**
 
 \1) [Domanda irregolare]
 
@@ -1097,7 +1161,9 @@ L’irregolarità può essere corretta entro tre mesi a decorrere dalla data del
 
 Se le condizioni della regola 25.1)b) non sono soddisfatte, la domanda non è considerata tale e l’Ufficio internazionale ne informa il mittente.
 
-### **Regola 27**Iscrizione e notifica relativi alla regola 25; dichiarazione per cui un cambiamento di titolare o una limitazione è privo di effetto
+#### Regola 27
+
+**Iscrizione e notifica relativi alla regola 25; dichiarazione per cui un cambiamento di titolare o una limitazione è privo di effetto**
 
 \1) [Iscrizione e notifica]
 
@@ -1105,14 +1171,16 @@ Se le condizioni della regola 25.1)b) non sono soddisfatte, la domanda non è co
 - b) Le indicazioni, la modifica o la radiazione sono iscritte alla data di ricezione da parte dell’Ufficio internazionale della domanda d’iscrizione che soddisfa le condizioni richieste; tuttavia, quando è stata presentata conformemente alla regola 25.2)c), una richiesta può essere iscritta a una data ulteriore.
 - c) Nonostante il punto b), quando il proseguimento della procedura è stato iscritto in virtù della regola 5<sup>bis</sup>, la modifica o la radiazione viene iscritta nel registro internazionale alla data di scadenza del termine prescritto dalla regola 26.2); tuttavia, quando una richiesta è stata presentata in conformità della regola 25.2)c), essa può essere iscritta a una data successiva.
 
-(2) [Iscrizione di un cambiamento parziale di titolare]
-
-- a) Un cambiamento di titolare della registrazione internazionale riguardante una parte soltanto dei prodotti e servizi o soltanto talune delle parti contraenti designate è iscritto nel registro internazionale sotto il numero della registrazione internazionale interessata dal cambiamento parziale di titolare.
-- b) La parte della registrazione internazionale per la quale è stato iscritto il cambiamento di titolare è radiata dalla registrazione internazionale interessata ed è oggetto di una registrazione internazionale separata.
+<sup>(2)</sup> [Iscrizione di un cambiamento parziale di titolare]
 
 \3) ...
 
 \4) [Dichiarazione in base alla quale un cambiamento di titolare è privo di effetto]
+
+\5) [Dichiarazione in base alla quale una limitazione è priva di effetto]
+
+- a) Un cambiamento di titolare della registrazione internazionale riguardante una parte soltanto dei prodotti e servizi o soltanto talune delle parti contraenti designate è iscritto nel registro internazionale sotto il numero della registrazione internazionale interessata dal cambiamento parziale di titolare.
+- b) La parte della registrazione internazionale per la quale è stato iscritto il cambiamento di titolare è radiata dalla registrazione internazionale interessata ed è oggetto di una registrazione internazionale separata.
 
 - a) L’Ufficio di una parte contraente designata a cui l’Ufficio internazionale notifica un cambiamento di titolare riguardante tale parte contraente può dichiarare che questo cambiamento di titolare è privo di effetto nella suddetta parte contraente. Questa dichiarazione ha come conseguenza che, nei confronti della suddetta parte contraente, la registrazione internazionale considerata rimane a nome del titolare precedente.
 - b)
@@ -1126,8 +1194,6 @@ Se le condizioni della regola 25.1)b) non sono soddisfatte, la domanda non è co
 - c) La dichiarazione di cui al punto a) è inviata all’Ufficio internazionale prima della scadenza del termine di 18 mesi a decorrere dalla data in cui la notifica di cui al punto a) è stata inviata all’Ufficio interessato.
 - d) L’Ufficio internazionale iscrive nel registro internazionale qualsiasi dichiarazione fatta conformemente al punto c) e, a seconda del caso, iscrive come registrazione internazionale separata quella parte della registrazione internazionale che è stata oggetto della suddetta dichiarazione, e notifica questo fatto, a seconda che la domanda di iscrizione di un cambiamento di titolare sia stata presentata dal titolare o da un Ufficio al suddetto titolare o al suddetto Ufficio, nonché al nuovo titolare.
 - e) Qualsiasi decisione definitiva riguardante una dichiarazione fatta conformemente al punto c) è notificata all’Ufficio internazionale, il quale la iscrive nel registro internazionale e, all’occorrenza, modifica il registro internazionale di conseguenza, e notifica questo fatto a seconda che la domanda di iscrizione di un cambiamento di titolare sia stata presentata dal titolare o da un Ufficio, al suddetto titolare o al suddetto Ufficio, nonché al nuovo titolare.
-
-\5) [Dichiarazione in base alla quale una limitazione è priva di effetto]
 
 - a) L’Ufficio di una parte contraente designata a cui l’Ufficio internazionale notifica una limitazione della lista dei prodotti e servizi riguardante tale parte contraente può dichiarare che la limitazione è priva di effetto nella suddetta parte contraente. Questa dichiarazione ha come conseguenza che, nei confronti della suddetta parte contraente, la limitazione non si applica ai prodotti e servizi considerati dalla dichiarazione.
 - b)
@@ -1143,9 +1209,27 @@ Se le condizioni della regola 25.1)b) non sono soddisfatte, la domanda non è co
 - d) L’Ufficio internazionale iscrive nel registro internazionale qualsiasi dichiarazione fatta conformemente al punto c) e la notifica, a seconda che la domanda di iscrizione della limitazione sia stata presentata dal titolare o da un Ufficio, al suddetto titolare o al suddetto Ufficio.
 - e) Qualsiasi decisione definitiva riguardante una dichiarazione fatta conformemente al punto c) è notificata all’Ufficio internazionale, il quale la iscrive nel registro internazionale e la notifica, a seconda che la domanda di iscrizione della limitazione sia stata presentata dal titolare o da un Ufficio, al suddetto titolare o al suddetto Ufficio.
 
-### **Regola 27**<sup>bis</sup>Divisione di una registrazione internazionale
+#### Regola 27<sup>bis</sup>
+
+**Divisione di una registrazione internazionale**
 
 \1) [Domanda di divisione di una registrazione internazionale]
+
+\2) [Tassa]
+
+La divisione di una domanda internazionale è subordinata al pagamento della tassa indicata al punto 7.7 dell’elenco delle tasse e degli emolumenti.
+
+\3) [Domanda irregolare]
+
+\4) [Iscrizione e notifica]
+
+\5) [Domanda non considerata tale]
+
+Una domanda di divisione di una registrazione internazionale nei confronti di una parte contraente designata che non è oppure non è più designata per le classi della classificazione internazionale dei prodotti e servizi indicate nella domanda, non è considerata tale.
+
+\6) [Dichiarazione in base alla quale una parte contraente non presenterà una domanda di divisione]
+
+Una parte contraente la cui legislazione non prevede la divisione delle domande di registrazione o delle registrazioni può, prima della data in cui la presente regola entra in vigore o della data in cui la suddetta parte contraente diventa vincolata dal Protocollo, notificare al Direttore generale che non presenterà una domanda di cui all’alinea 1) all’Ufficio internazionale. Tale dichiarazione può essere ritirata in ogni momento.
 
 - a) Le domande di divisione di una registrazione internazionale presentate da un titolare per una parte soltanto dei prodotti e servizi nei confronti di una parte contraente designata devono essere presentate all’Ufficio internazionale tramite il modulo ufficiale dell’Ufficio di tale parte contraente designata appena quest’ultima è certa che la divisione oggetto della domanda soddisfa, anche in materia di tasse, i requisiti del diritto applicabile.
 - b)
@@ -1162,30 +1246,16 @@ Se le condizioni della regola 25.1)b) non sono soddisfatte, la domanda non è co
 - c) La domanda deve essere firmata dall’Ufficio che presenta la domanda e, quando l’Ufficio lo pretende, anche dal titolare.
 - d) Una domanda presentata in virtù del presente alinea può contenere o essere accompagnata da una dichiarazione trasmessa in conformità della regola 18<sup>bis</sup> o 18<sup>ter</sup> per i prodotti e servizi indicati nella domanda.
 
-\2) [Tassa]
-
-La divisione di una domanda internazionale è subordinata al pagamento della tassa indicata al punto 7.7 dell’elenco delle tasse e degli emolumenti.
-
-\3) [Domanda irregolare]
-
 - a) Se la domanda non soddisfa le condizioni di cui all’alinea 1), l’Ufficio internazionale invita l’Ufficio che ha presentato la domanda a correggere l’irregolarità e ne informa contemporaneamente il titolare.
 - b) Se l’ammontare della tassa ricevuta è inferiore all’ammontare previsto dall’alinea 2), l’Ufficio internazionale notifica questo fatto contemporaneamente al titolare e all’Ufficio che ha presentato la domanda.
 - c) Se l’irregolarità non viene corretta entro tre mesi a decorrere dalla data della comunicazione prevista dai punti a) o b), la domanda è considerata abbandonata e l’Ufficio internazionale notifica questo fatto all’Ufficio che ha presentato la domanda e contemporaneamente ne informa il titolare e rimborsa la tassa pagata in virtù dall’alinea 2), dopo la deduzione di un ammontare corrispondente a metà della tassa.
 
-\4) [Iscrizione e notifica]
-
 - a) Se l’Ufficio internazionale constata che la domanda soddisfa le condizioni richieste, iscrive la divisione, crea una registrazione internazionale divisa nel registro internazionale e notifica questo fatto contemporaneamente all’Ufficio che ha presentato la domanda e al titolare.
 - b) La divisione di una registrazione internazionale è iscritta con la data in cui la domanda è stata ricevuta dall’Ufficio internazionale o, se del caso, la data in cui è stata corretta l’irregolarità di cui all’alinea 3).
 
-\5) [Domanda non considerata tale]
+#### Regola 27<sup>ter</sup>
 
-Una domanda di divisione di una registrazione internazionale nei confronti di una parte contraente designata che non è oppure non è più designata per le classi della classificazione internazionale dei prodotti e servizi indicate nella domanda, non è considerata tale.
-
-\6) [Dichiarazione in base alla quale una parte contraente non presenterà una domanda di divisione]
-
-Una parte contraente la cui legislazione non prevede la divisione delle domande di registrazione o delle registrazioni può, prima della data in cui la presente regola entra in vigore o della data in cui la suddetta parte contraente diventa vincolata dal Protocollo, notificare al Direttore generale che non presenterà una domanda di cui all’alinea 1) all’Ufficio internazionale. Tale dichiarazione può essere ritirata in ogni momento.
-
-### **Regola 27**<sup>ter</sup>Fusione di registrazioni internazionali
+**Fusione di registrazioni internazionali**
 
 \1) [Fusione di registrazioni internazionali che risultano da un cambiamento parziale di titolare]
 
@@ -1196,7 +1266,9 @@ Se la medesima persona fisica o giuridica è iscritta come titolare di due o pi�
 - a) Una registrazione internazionale che risulta da una divisione è fusa con la registrazione internazionale da cui è stata divisa dietro richiesta del titolare, presentata per il tramite dell’Ufficio che ha presentato la domanda di cui alla regola 27<sup>bis</sup> 1), sempreché la stessa persona fisica o giuridica sia stata iscritta come titolare delle due registrazioni internazionali suddette e che l’Ufficio interessato sia certo che la domanda soddisfa le condizioni definite nel diritto applicabile incluse le condizioni relative alle tasse. La domanda è presentata all’Ufficio internazionale mediante l’apposito modulo ufficiale. L’Ufficio internazionale iscrive la fusione e notifica questo fatto contemporaneamente all’Ufficio che ha presentato la domanda e al titolare.
 - b) L’Ufficio di una parte contraente la cui legislazione non prevede la fusione delle registrazioni può, prima della data in cui la presente regola entra in vigore o della data in cui la suddetta parte contraente diventa vincolata dal Protocollo, notificare al Direttore generale che non presenterà una domanda di cui al punto a) all’Ufficio internazionale. Tale dichiarazione può essere ritirata in ogni momento.
 
-### **Regola 28**Rettifiche apportate al registro internazionale
+#### Regola 28
+
+**Rettifiche apportate al registro internazionale**
 
 \1) [Rettifica]
 
@@ -1216,13 +1288,25 @@ Nonostante l’alinea 1), un errore imputabile a un ufficio, la rettifica del qu
 
 ## Capitolo 6: Rinnovi
 
-### **Regola****29**Avviso ufficioso di scadenza
+#### Regola29
+
+**Avviso ufficioso di scadenza**
 
 Il fatto che l’avviso ufficioso di scadenza di cui all’articolo 7.3) del Protocollo non sia ricevuto non costituisce una giustificazione per l’inosservanza di uno qualsiasi dei termini di scadenza previsti nella regola 30.
 
-### **Regola 30**Precisazioni relative al rinnovo
+#### Regola 30
+
+**Precisazioni relative al rinnovo**
 
 \1) [Emolumenti e tasse]
+
+\2) [Precisazioni ulteriori]
+
+\3) [Pagamento insufficiente]
+
+\4) [Periodo per il quale sono pagati gli emolumenti e tasse di rinnovo]
+
+Gli emolumenti e tasse richiesti per ciascun rinnovo sono pagati per un periodo di dieci anni.
 
 - a)
 
@@ -1232,10 +1316,8 @@ Il fatto che l’avviso ufficioso di scadenza di cui all’articolo 7.3) del Pro
   - ii) all’occorrenza, dell’emolumento suppletivo; e
   - iii) dell’emolumento complementare o della tassa individuale, a seconda del caso, per ciascuna parte contraente designata per la quale nessuna dichiarazione di rifiuto in virtù della regola 18<sup>ter</sup> né invalidazione per l’insieme dei prodotti e servizi considerati sono iscritte nel registro internazionale, come specificati o elencati al punto 6 degli emolumenti e tasse. Tuttavia, questo pagamento può essere fatto entro un termine di sei mesi a decorrere dalla data in cui il rinnovo della registrazione deve essere effettuato, a condizione che la sovrattassa specificata al punto 6.5 dell’elenco delle tasse e degli emolumenti sia pagata contemporaneamente.
 
-- b)[^chap6-lvlu2-1] Qualsiasi pagamento per il rinnovo che è ricevuto dall’Ufficio internazionale oltre sei mesi prima della data in cui il rinnovo della registrazione internazionale deve essere effettuato è considerato essere stato ricevuto sei mesi prima di tale data.
+- b)[^30-1] Qualsiasi pagamento per il rinnovo che è ricevuto dall’Ufficio internazionale oltre sei mesi prima della data in cui il rinnovo della registrazione internazionale deve essere effettuato è considerato essere stato ricevuto sei mesi prima di tale data.
 - c) Senza pregiudicare le disposizioni dell’alinea 2, quando una dichiarazione in virtù della regola 8<sup>ter</sup>.2) o 4) è stata iscritta nel registro internazionale per una parte contraente a cui è dovuto il pagamento di una tassa individuale in virtù del punto a)iii), l’ammontare di tale tassa individuale è determinato tenendo conto unicamente dei prodotti e servizi indicati nella dichiarazione in questione.
-
-\2) [Precisazioni ulteriori]
 
 - a) Quando il titolare non desidera rinnovare la registrazione internazionale nei confronti di una parte contraente designata per la quale nessuna dichiarazione di rifiuto in virtù della regola 18<sup>ter</sup> per l’insieme dei prodotti e servizi considerati è iscritta nel registro internazionale, il pagamento delle tasse richieste deve essere accompagnato da una dichiarazione del titolare in base alla quale il rinnovo della registrazione internazionale non deve essere iscritto nel registro internazionale nei confronti di questa parte contraente.
 - b) Quando il titolare desidera rinnovare la registrazione internazionale nei confronti di una parte contraente designata nonostante il fatto che una dichiarazione di rifiuto in virtù della regola 18<sup>ter</sup> è iscritta nel registro internazionale per questa parte contraente per l’insieme dei prodotti e servizi considerati, il pagamento delle tasse richieste, compresi l’emolumento complementare o la tassa individuale, a seconda del caso, per tale parte contraente, deve essere accompagnato da una dichiarazione del titolare in base alla quale il rinnovo della registrazione internazionale deve essere iscritto nel registro internazionale nei confronti di tale parte contraente per tutti i prodotti e servizi considerati.
@@ -1243,19 +1325,15 @@ Il fatto che l’avviso ufficioso di scadenza di cui all’articolo 7.3) del Pro
 - d) ...
 - e) Il fatto che la registrazione internazionale non sia rinnovata nei confronti di tutte le parti contraenti designate non è considerato costituire una modifica ai sensi dell’articolo 7.2) del Protocollo.
 
-\3) [Pagamento insufficiente]
-
 - a) Se l’ammontare degli emolumenti e tasse ricevuto è inferiore all’ammontare degli emolumenti e tasse richiesto per il rinnovo, l’Ufficio internazionale notifica questo fatto senza indugio e contemporaneamente al titolare e all’eventuale mandatario. La notifica precisa l’ammontare ancora dovuto.
 - b) Se, alla scadenza del termine di sei mesi di cui all’alinea 1)a), l’ammontare degli emolumenti e tasse ricevuto è inferiore all’ammontare richiesto in virtù dell’alinea 1), l’Ufficio internazionale, fatto salvo il punto c), non iscrive il rinnovo, notifica tale fatto al titolare e all<sup>’</sup>eventuale mandatario e rimborsa l<sup>’</sup>ammontare ricevuto all’autore del pagamento.
 - c) Se la notifica di cui al punto a) è stata spedita entro i tre mesi che precedono la scadenza del termine dei sei mesi di cui all’alinea 1)a) e se l<sup>’</sup>ammontare degli emolumenti e tasse ricevuto è, alla scadenza di questo termine, inferiore all’ammontare richiesto in virtù dell’alinea 1) ma pari ad almeno il 70% di tale ammontare, l’Ufficio internazionale procede conformemente alle disposizioni della regola 31.1) e 3). Se l’ammontare richiesto non è integralmente pagato entro un termine di tre mesi a decorrere da tale notifica, l’Ufficio internazionale annulla il rinnovo, notifica questo fatto al titolare, all’eventuale mandatario e agli Uffici ai quali era stato notificato il rinnovo, e rimborsa l<sup>’</sup>ammontare ricevuto all’autore del pagamento.
 
-\4) [Periodo per il quale sono pagati gli emolumenti e tasse di rinnovo]
+[^30-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
-Gli emolumenti e tasse richiesti per ciascun rinnovo sono pagati per un periodo di dieci anni.
+#### Regola 31
 
-[^chap6-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
-
-### **Regola 31**Iscrizione del rinnovo; notifica e certificato
+**Iscrizione del rinnovo; notifica e certificato**
 
 \1) [Iscrizione e data di entrata in vigore del rinnovo]
 
@@ -1276,9 +1354,19 @@ L’Ufficio internazionale notifica il rinnovo agli Uffici delle parti contraent
 
 ## Capitolo 7: Bollettino e base dati
 
-### **Regola****32**Bollettino
+#### Regola32
+
+**Bollettino**
 
 \1) [Informazioni riguardanti le registrazioni internazionali]
+
+\2) [Informazioni riguardanti esigenze particolari e talune dichiarazioni di parti contraenti, nonché altre informazioni generali]
+
+\3) [Pubblicazioni sul sito Internet]
+
+L’Ufficio internazionale effettua le pubblicazioni di cui agli alinea 1) e 2) sul sito Internet dell’Organizzazione Mondiale della Proprietà Intellettuale.
+
+\4) …
 
 - a)
 
@@ -1295,36 +1383,31 @@ L’Ufficio internazionale notifica il rinnovo agli Uffici delle parti contraent
   - [tab] viii<sup>bis</sup>) le divisioni iscritte in virtù della regola 27<sup>bis</sup> 4) e le fusioni iscritte in virtù della regola 27<sup>ter</sup>;
   - ix) rettifiche effettuate in virtù della regola 28;
   - x) invalidazioni iscritte in virtù della regola 19.2);
-  - xi) le informazioni iscritte in virtù delle regole 20, 20<sup>bis</sup>, 21, 21<sup>bis</sup>, 22 2)a), 23 e 27 4);
+  - xi)[^32-1] le informazioni iscritte in virtù delle regole 20, 20<sup>bis</sup>, 21, 21<sup>bis</sup>, 22 2) a), 23, 27.4) e 5);
   - xii) registrazioni internazionali non rinnovate;
   - xiii) iscrizioni della costituzione del mandatario del titolare comunicata in virtù della regola 3.2)b) e radiazioni richieste dal titolare o dal mandatario del titolare in virtù della regola 3.6)a).
 
-- b)[^chap7-lvlu1-1] La rappresentazione del marchio è pubblicata come fornita nella domanda internazionale. Quando il depositante ha fatto una dichiarazione di cui alla regola 9.4)a)vi), la pubblicazione indica tale fatto.
-- c)[^chap7-lvlu1-2] ...
-
-\2) [Informazioni riguardanti esigenze particolari e talune dichiarazioni di parti contraenti, nonché altre informazioni generali]
+- b)[^32-2] La rappresentazione del marchio è pubblicata come fornita nella domanda internazionale. Quando il depositante ha fatto una dichiarazione di cui alla regola 9.4)a)vi), la pubblicazione indica tale fatto.
+- c)[^32-3] ...
 
 L’Ufficio internazionale pubblica sul bollettino:
 
-- i)[^chap7-lvlu1-3] qualsiasi notifica fatta in virtù delle regole 7, 17.7), 20bis.6), 27bis.6), 27ter.2) b) o 40.6) e 7) e qualsiasi dichiarazione fatta in virtù della regola 17.5) d) o e);
+- i)[^32-4] qualsiasi notifica fatta in virtù delle regole 7, 17.7), 20bis.6), 27bis.6), 27ter.2) b) o 40.6) e 7) e qualsiasi dichiarazione fatta in virtù della regola 17.5) d) o e);
 - ii) qualsiasi dichiarazione fatta in virtù dell’articolo 5.2)b) o dell’articolo 5.2)b) e c), prima frase, del Protocollo;
 - iii) qualsiasi dichiarazione fatta in virtù dell’articolo 8.7) del Protocollo;
 - iv) qualsiasi notifica fatta in virtù della regola 34.2)b) o 3)a);
 - v) l’elenco dei giorni in cui è previsto che l’Ufficio internazionale non sarà aperto al pubblico durante l’anno civile in corso e l’anno civile successivo.
 
-\3) [Pubblicazioni sul sito Internet]
+[^32-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2024 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^32-2]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-3]: Abrogata dalla mod. con effetto dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
-L’Ufficio internazionale effettua le pubblicazioni di cui agli alinea 1) e 2) sul sito Internet dell’Organizzazione Mondiale della Proprietà Intellettuale.
+#### Regola 33
 
-\4) …
+**Base dati informatizzata**
 
-[^chap7-lvlu1-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^chap7-lvlu1-2]: Abrogata dalla mod. con effetto dal 1° feb. 2023 ([RU 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^chap7-lvlu1-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-
-### **Regola 33**Base dati informatizzata
-
-\1. [Contenuto della base dati]
+<sup>1.</sup> [Contenuto della base dati]
 
 I dati che sono iscritti sia nel registro internazionale che pubblicati sul bollettino in virtù della regola 32 sono incorporati in una base dati informatizzata.
 
@@ -1338,7 +1421,9 @@ La base dati informatizzata è messa a disposizione degli Uffici delle parti con
 
 ## Capitolo 8: Emolumenti e tasse
 
-### **Regola****34**Importo e pagamento degli emolumenti e tasse
+#### Regola34
+
+**Importo e pagamento degli emolumenti e tasse**
 
 \1) [Importo degli emolumenti e tasse]
 
@@ -1346,10 +1431,20 @@ L’importo degli emolumenti e tasse dovuti in virtù del Protocollo o del prese
 
 \2) [Pagamenti]
 
+\3) [Tassa individuale pagabile in due rate]
+
+\4) [Modalità di pagamento degli emolumenti e delle tasse all’Ufficio internazionale]
+
+Gli emolumenti e tasse sono pagati all’Ufficio internazionale secondo le modalità specificate nelle istruzioni amministrative.
+
+\5) [Indicazioni che corredano il pagamento]
+
+\6) [Data del pagamento]
+
+\7) [Modifica dell’importo degli emolumenti e tasse]
+
 - a) Gli emolumenti e tasse che figurano nella tabella degli emolumenti e tasse possono essere pagati all’Ufficio internazionale dal depositante o dal titolare o, quando l’Ufficio della parte contraente del titolare accetta di percepirli e trasferirli ed il depositante o il titolare lo desidera, da tale Ufficio.
 - b) Ogni parte contraente il cui Ufficio accetta di percepire e trasferire gli emolumenti e tasse notifica questo fatto al Direttore generale.
-
-\3) [Tassa individuale pagabile in due rate]
 
 - a) Una parte contraente che fa, o che ha fatto, una dichiarazione in virtù dell’articolo 8.7) del Protocollo può notificare al Direttore generale che la tassa individuale da pagare in relazione a una designazione di tale parte contraente comprende due rate, la prima delle quali deve essere pagata al momento del deposito della domanda internazionale o della designazione successiva della detta parte contraente e la seconda a una data successiva che è stabilita conformemente alla legislazione di tale parte contraente.
 - b) In caso di applicazione del punto a), i riferimenti a una tassa individuale ai punti 2 e 5 della tabella degli emolumenti e tasse vanno intesi come riferimenti alla prima rata della tassa individuale.
@@ -1364,23 +1459,13 @@ L’importo degli emolumenti e tasse dovuti in virtù del Protocollo o del prese
 
 - d) L’Ufficio internazionale trasmette la notifica al titolare. Se la seconda rata della tassa individuale è pagata entro il termine applicabile, l’Ufficio internazionale iscrive il pagamento nel registro internazionale e notifica tale fatto all’Ufficio della parte contraente considerata. Se la seconda rata della tassa individuale non è pagata entro il termine applicabile, l’Ufficio internazionale notifica tale fatto all’Ufficio della parte contraente considerata, radia la registrazione internazionale dal registro internazionale in relazione alla parte contraente considerata e notifica questo fatto al titolare.
 
-\4) [Modalità di pagamento degli emolumenti e delle tasse all’Ufficio internazionale]
-
-Gli emolumenti e tasse sono pagati all’Ufficio internazionale secondo le modalità specificate nelle istruzioni amministrative.
-
-\5) [Indicazioni che corredano il pagamento]
-
 Al momento del pagamento di un emolumento o di una tassa all’Ufficio internazionale, occorre indicare:
 
 - i) prima della registrazione internazionale, il nome del depositante, il marchio considerato e l’oggetto del pagamento;
 - ii) dopo la registrazione internazionale, il nome del titolare, il numero della registrazione internazionale considerata e l’oggetto del pagamento.
 
-\6) [Data del pagamento]
-
 - a) Fatte salve la regola 30.1)b) e il punto b), un emolumento o una tassa è considerato pagato all’Ufficio internazionale il giorno in cui l’Ufficio internazionale riceve l’importo dovuto.
 - b) Quando l’importo dovuto è disponibile su un conto aperto presso l’Ufficio internazionale e l’Ufficio ha ricevuto dal titolare del conto le istruzioni per operare il prelievo, l’emolumento o la tassa è considerato pagato all’Ufficio internazionale il giorno in cui l’Ufficio internazionale riceve una domanda internazionale, una designazione successiva, una domanda d’iscrizione di una modifica o l’istruzione di rinnovare una registrazione internazionale.
-
-\7) [Modifica dell’importo degli emolumenti e tasse]
 
 - a) Quando l’ammontare degli emolumenti e tasse che devono essere pagati per il deposito di una domanda internazionale è modificato tra, da un lato, la data in cui la richiesta di presentazione di una domanda internazionale all’Ufficio internazionale è ricevuta dall’Ufficio d’origine e, d’altro lato, la data della ricezione da parte dell’Ufficio internazionale della domanda internazionale, gli emolumenti e tasse applicabili sono quelli che erano in vigore alla prima di queste due date.
 - b) Quando una designazione in conformità della regola 24 è presentata dall’Ufficio della parte contraente del titolare e quando l’ammontare degli emolumenti e tasse che devono essere pagati per questa designazione è modificato tra, da un lato, la data di ricezione da parte dell’Ufficio della richiesta del titolare per la suddetta designazione e, d’altro lato, la data in cui la designazione è ricevuta dall’Ufficio internazionale, gli emolumenti e tasse applicabili sono quelli che erano in vigore alla prima di queste due date.
@@ -1388,7 +1473,9 @@ Al momento del pagamento di un emolumento o di una tassa all’Ufficio internazi
 - d) Quando l’ammontare degli emolumenti e tasse che devono essere pagati per il rinnovo di una registrazione internazionale è modificato tra la data del pagamento e la data in cui il rinnovo deve essere effettuato, l’ammontare che è applicabile è quello che era in vigore alla data del pagamento, o alla data considerata essere quella del pagamento in conformità della regola 30.1)b). Quando il pagamento avviene dopo la data in cui il rinnovo doveva essere effettuato, l’ammontare che è applicabile è quello che era in vigore a tale data.
 - e) Quando l’ammontare di qualsiasi emolumento o di qualsiasi tassa diversi dagli emolumenti e tasse di cui ai punti a), b), c) e d) è modificato, l’ammontare applicabile è quello che era in vigore alla data in cui l’emolumento o la tassa sono stati ricevuti dall’Ufficio internazionale.
 
-### **Regola 35**Valuta di pagamento
+#### Regola 35
+
+**Valuta di pagamento**
 
 \1) [Obbligo di utilizzare la valuta svizzera]
 
@@ -1401,12 +1488,14 @@ Tutti i pagamenti dovuti in conformità di questo regolamento di esecuzione devo
 - c) Quando, durante più di tre mesi consecutivi, il tasso ufficiale di cambio delle Nazioni Unite tra la valuta svizzera ed un’altra valuta nella quale l’ammontare di una tassa individuale è stato indicato da una parte contraente, è superiore o inferiore di almeno il 5 % in rapporto all’ultimo tasso di cambio applicato per la determinazione dell’ammontare della tassa individuale in valuta svizzera, l’Ufficio di questa parte contraente può chiedere al Direttore generale di stabilire un nuovo ammontare della tassa individuale in valuta svizzera sulla base del tasso ufficiale di cambio delle Nazioni Unite applicabile il giorno che precede quello in cui questa domanda è presentata. Il Direttore generale prende le disposizioni necessarie in tal senso. Il nuovo ammontare è applicabile a decorrere dalla data fissata dal Direttore generale, essendo convenuto che questa data è situata al più presto un mese ed al più tardi due mesi dopo la data della pubblicazione del suddetto ammontare sul bollettino.
 - d) Quando, durante più di tre mesi consecutivi, il tasso ufficiale di cambio delle Nazioni Unite tra la valuta svizzera ed un’altra valuta nella quale l’ammontare di una tassa individuale è stato indicato da una parte contraente, è inferiore di almeno il 10 % in rapporto all’ultimo tasso di cambio applicato per la determinazione dell’ammontare della tassa individuale in valuta svizzera, il Direttore generale stabilisce un nuovo ammontare della tassa individuale in valuta svizzera, sulla base del tasso attuale ufficiale di cambio delle Nazioni Unite. Il nuovo ammontare è applicabile a decorrere dalla data stabilita dal Direttore generale, essendo convenuto che tale data è situata al più presto un mese e al più tardi due mesi dopo la data della pubblicazione del suddetto ammontare sul bollettino.
 
-### **Regola 36**Esenzione dalle tasse
+#### Regola 36
+
+**Esenzione dalle tasse**
 
 Le iscrizioni relative ai seguenti dati sono esenti da tasse:
 
 - i) la costituzione di un mandatario, qualsiasi modifica riguardante un mandatario e la radiazione dell’iscrizione di un mandatario;
-- ii)[^chap8-lvlu3-1] qualsiasi modifica riguardante il numero di telefono, l’indirizzo per la corrispondenza, l’indirizzo di posta elettronica e gli altri mezzi di comunicazione elettronica con il depositante, il titolare o il mandatario, secondo le modalità specificate nelle istruzioni amministrative;
+- ii)[^36-1] qualsiasi modifica riguardante il numero di telefono, l’indirizzo per la corrispondenza, l’indirizzo di posta elettronica e gli altri mezzi di comunicazione elettronica con il depositante, il titolare o il mandatario, secondo le modalità specificate nelle istruzioni amministrative;
 - iii) la radiazione della registrazione internazionale;
 - iv) qualsiasi rinuncia in virtù della regola 25.1)a)iii);
 - v) qualsiasi limitazione effettuata nella domanda internazionale stessa in virtù della regola 9.4)a)xiii) o in una designazione successiva in conformità della regola 24.3)a)iv);
@@ -1418,11 +1507,15 @@ Le iscrizioni relative ai seguenti dati sono esenti da tasse:
 - xi) qualsiasi notifica in virtù della regola 21 o della regola 23;
 - xii) qualsiasi rettifica del registro internazionale.
 
-[^chap8-lvlu3-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^36-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
-### **Regola 37**Ripartizione degli emolumenti suppletivi e degli emolumenti complementari
+#### Regola 37
+
+**Ripartizione degli emolumenti suppletivi e degli emolumenti complementari**
 
 \1) Il coefficiente indicato nell’articolo 8.5) e 6) del Protocollo è il seguente:
+
+\2) Il coefficiente quattro è applicato anche alle parti contraenti che procedono d’ufficio a ricerche di anteriorità con indicazione delle anteriorità più pertinenti.
 
 <table>
 <tr><td>per le parti contraenti che procedono ad un esame soltanto dei motivi assoluti di rifiuto</td><td>due</td></tr>
@@ -1431,20 +1524,17 @@ Le iscrizioni relative ai seguenti dati sono esenti da tasse:
 <tr><td>b) d’ufficio</td><td>quattro</td></tr>
 </table>
 
-\2) Il coefficiente quattro è applicato anche alle parti contraenti che procedono d’ufficio a ricerche di anteriorità con indicazione delle anteriorità più pertinenti.
+#### Regola 38
 
-### **Regola 38**Iscrizione dell’ammontare delle tasse individuali portato a credito delle parti contraenti interessate
+**Iscrizione dell’ammontare delle tasse individuali portato a credito delle parti contraenti interessate**
 
 Qualsiasi tassa individuale pagata all’Ufficio internazionale nei confronti di una parte contraente che ha fatto una dichiarazione in conformità dell’articolo 8.7)a) del Protocollo, è accreditata sul conto di questa parte contraente presso l’Ufficio internazionale nel mese che segue quello dell’iscrizione della registrazione internazionale, della designazione successiva o del rinnovo per il quale tale tassa è stata pagata oppure nel mese che segue quello dell’iscrizione del pagamento della seconda rata della tassa individuale.
 
 ## Capitolo 9: Disposizioni diverse
 
-### **Regola****39**Continuazione degli effetti delle registrazioni internazionali in taluni Stati successori
+#### Regola39
 
-\1) Quando uno Stato («Stato successore») il cui territorio faceva parte, prima dell’indipendenza di tale Stato, del territorio di una parte contraente («parte contraente predecessora») ha deposto dinnanzi al Direttore generale una dichiarazione di continuazione che ha come effetto l’applicazione del Protocollo da parte dello Stato successore, qualsiasi registrazione internazionale che era in vigore nella parte contraente predecessora alla data stabilita in conformità dell’alinea 2) produce i suoi effetti nello Stato successore se sono osservate le condizioni seguenti:[^chap9-lvlu1-1]
-
-- i) deposito presso l’Ufficio internazionale, entro i sei mesi che seguono un parere indirizzato in tal senso dall’Ufficio internazionale al titolare della registrazione considerata, di una domanda affinché tale registrazione internazionale continui ad avere effetto nello Stato successore; e
-- ii)[^chap9-lvlu1-2] pagamento all’Ufficio internazionale, entro i medesimi termini di scadenza, della tassa indicata al punto 10.1 dell’elenco delle tasse e degli emolumenti dovuta all’Ufficio internazionale e della tassa indicata al punto 10.2 di tale elenco, che sarà trasferita dall’Ufficio internazionale allo Stato successore.
+**Continuazione degli effetti delle registrazioni internazionali in taluni Stati successori**
 
 \2) La data di cui all’alinea 1) è la data notificata dallo Stato successore all’Ufficio internazionale ai sensi di questa regola, a condizione che tale data non sia antecedente alla data dell’indipendenza dello Stato successore.
 
@@ -1454,16 +1544,41 @@ Qualsiasi tassa individuale pagata all’Ufficio internazionale nei confronti di
 
 \5) Questa regola non si applica alla Federazione russa, né a uno Stato che abbia depositato presso il Direttore generale una dichiarazione in cui affermi di essere il prosecutore della personalità giuridica di una parte contraente.
 
-[^chap9-lvlu1-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap9-lvlu1-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+\1) Quando uno Stato («Stato successore») il cui territorio faceva parte, prima dell’indipendenza di tale Stato, del territorio di una parte contraente («parte contraente predecessora») ha deposto dinnanzi al Direttore generale una dichiarazione di continuazione che ha come effetto l’applicazione del Protocollo da parte dello Stato successore, qualsiasi registrazione internazionale che era in vigore nella parte contraente predecessora alla data stabilita in conformità dell’alinea 2) produce i suoi effetti nello Stato successore se sono osservate le condizioni seguenti:[^39-1]
 
-### **Regola 40**Entrata in vigore; disposizioni transitorie
+- i) deposito presso l’Ufficio internazionale, entro i sei mesi che seguono un parere indirizzato in tal senso dall’Ufficio internazionale al titolare della registrazione considerata, di una domanda affinché tale registrazione internazionale continui ad avere effetto nello Stato successore; e
+- ii)[^39-2] pagamento all’Ufficio internazionale, entro i medesimi termini di scadenza, della tassa indicata al punto 10.1 dell’elenco delle tasse e degli emolumenti dovuta all’Ufficio internazionale e della tassa indicata al punto 10.2 di tale elenco, che sarà trasferita dall’Ufficio internazionale allo Stato successore.
+
+[^39-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^39-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+
+#### Regola 40
+
+**Entrata in vigore; disposizioni transitorie**
 
 \1) [Entrata in vigore]
 
 Questo regolamento di esecuzione entra in vigore il 1° febbraio 2020 e sostituisce, a decorrere da tale data, il Regolamento di esecuzione comune all’Accordo di Madrid per la registrazione internazionale dei marchi ed al Protocollo relativo a tale Accordo così come era in vigore fino al 31 gennaio 2020 (più avanti chiamato «regolamento di esecuzione comune»).
 
 \2) [Disposizioni transitorie generali]
+
+\3) ...
+
+\4) [Disposizioni transitorie riguardanti le lingue]
+
+\5) …
+
+\6) [Incompatibilità con la legislazione nazionale o regionale]
+
+Se, alla data in cui la presente regola entra in vigore o alla data in cui una parte contraente diventa vincolata dal Protocollo, le regole 27<sup>bis</sup> 1) o 27<sup>ter</sup> 2) a) non sono compatibili con la legislazione nazionale o regionale della suddetta parte contraente, tale o tali alinea, secondo il caso, non si applicano nei confronti della suddetta parte contraente fintantoché continuano a essere incompatibili con tale legislazione, a condizione che la suddetta parte contraente notifichi questo fatto all’Ufficio internazionale prima della data in cui la presente regola entra in vigore o della data in cui la suddetta parte contraente diventa vincolata dal Protocollo. Tale notifica può essere ritirata in ogni momento.
+
+\7) [Disposizione transitoria relativa alla sostituzione parziale]
+
+Nessun Ufficio è tenuto ad applicare il secondo periodo della regola 21.3)d) prima del 1° febbraio 2025.[^40-1]
+
+\8) [Disposizione transitoria relativa alle regole 17.2) v) e vii) e 3) e 18.1) e)]
+
+Le parti contraenti possono continuare ad applicare le regole 17.2) v) e vii) e 3) e 18.1) e) nel tenore in vigore al 1° novembre 2021 fino al 1° febbraio 2025 o fino a una data successiva, a condizione che la parte contraente interessata notifichi questo fatto all’Ufficio internazionale prima del 1° febbraio 2025 o della data in cui la suddetta parte contraente diventa vincolata dal Protocollo, se questa seconda data è posteriore. In seguito, la parte contraente può ritirare la suddetta notifica in ogni momento[^40-2].[^40-3]
 
 - a)
 
@@ -1479,10 +1594,6 @@ Questo regolamento di esecuzione entra in vigore il 1° febbraio 2020 e sostitui
 - c) Una notifica in virtù delle regole 6.2)iii), 7.2), 17.5)d), 20<sup>bis</sup>.6), 27<sup>bis</sup>.6), 27<sup>ter</sup>.2)b), 34.3)a) o 40.6) del regolamento di esecuzione comune inviata dall’Ufficio di una parte contraente all’Ufficio internazionale prima del 1° febbraio 2020 continua a produrre i suoi effetti in conformità delle regole 6.2)iii), 7.2), 17.5)d), 20<sup>bis</sup>.6), 27<sup>bis</sup>.6), 27<sup>ter</sup>.2)b), 34.3)a) oppure 40.6).
 - d) ...
 
-\3) ...
-
-\4) [Disposizioni transitorie riguardanti le lingue]
-
 - a)
 
   La regola 6 del regolamento di esecuzione comune così come era in vigore prima del 1° aprile 2004 continua ad applicarsi nei confronti di qualsiasi domanda internazionale depositata prima di tale data e di qualsiasi domanda internazionale dipendente esclusivamente dall’Accordo, come definita alla regola 1.viii) del regolamento di esecuzione comune, depositata entro questa data e il 31 agosto 2008 incluso, come pure nei confronti di qualsiasi comunicazione ad essa relativa e di qualsiasi comunicazione, iscrizione nel registro internazionale o pubblicazione nel bollettino relativa alla registrazione internazionale che ne è scaturita, tranne nel caso in cui:
@@ -1493,30 +1604,15 @@ Questo regolamento di esecuzione entra in vigore il 1° febbraio 2020 e sostitui
 
 - b) Ai fini del presente alinea, una domanda internazionale è considerata depositata alla data alla quale la richiesta di presentazione della domanda internazionale all’Ufficio internazionale è stata ricevuta o è considerata essere stata ricevuta, in conformità della regola 11.1)a) o c) del regolamento di esecuzione comune, dall’Ufficio di origine e una registrazione internazionale è considerata essere oggetto di una designazione successiva alla data alla quale la designazione successiva è presentata all’Ufficio internazionale, se è presentata direttamente dal titolare, o alla data alla quale la richiesta di presentazione della designazione successiva è stata consegnata all’Ufficio della parte contraente del titolare, se è presentata dall’intermediario di questo Ufficio.
 
-\5) …
+[^40-1]: Introdotto dalla mod. in vigore dal 1° nov. 2021 ([RU 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+[^40-2]: Quando ha adottato questa disposizione l’Assemblea dell’Unione di Madrid ha considerato che le parti contraenti non sono tenute a precisare nella notifica la data a partire dalla quale applicheranno le regole 17.2) v) e vii) e 18.1) e) nel tenore in vigore dal 1° novembre 2023.
+[^40-3]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
-\6) [Incompatibilità con la legislazione nazionale o regionale]
+#### Regola 41
 
-Se, alla data in cui la presente regola entra in vigore o alla data in cui una parte contraente diventa vincolata dal Protocollo, le regole 27<sup>bis</sup> 1) o 27<sup>ter</sup> 2) a) non sono compatibili con la legislazione nazionale o regionale della suddetta parte contraente, tale o tali alinea, secondo il caso, non si applicano nei confronti della suddetta parte contraente fintantoché continuano a essere incompatibili con tale legislazione, a condizione che la suddetta parte contraente notifichi questo fatto all’Ufficio internazionale prima della data in cui la presente regola entra in vigore o della data in cui la suddetta parte contraente diventa vincolata dal Protocollo. Tale notifica può essere ritirata in ogni momento.
-
-\7) [Disposizione transitoria relativa alla sostituzione parziale]
-
-Nessun Ufficio è tenuto ad applicare il secondo periodo della regola 21.3)d) prima del 1° febbraio 2025.[^chap9-lvlu2-1]
-
-\8) [Disposizione transitoria relativa alle regole 17.2) v) e vii) e 3) e 18.1) e)]
-
-Le parti contraenti possono continuare ad applicare le regole 17.2) v) e vii) e 3) e 18.1) e) nel tenore in vigore al 1° novembre 2021 fino al 1° febbraio 2025 o fino a una data successiva, a condizione che la parte contraente interessata notifichi questo fatto all’Ufficio internazionale prima del 1° febbraio 2025 o della data in cui la suddetta parte contraente diventa vincolata dal Protocollo, se questa seconda data è posteriore. In seguito, la parte contraente può ritirare la suddetta notifica in ogni momento[^chap9-lvlu2-2].[^chap9-lvlu2-3]
-
-[^chap9-lvlu2-1]: Introdotto dalla mod. in vigore dal 1° nov. 2021 ([RU 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
-[^chap9-lvlu2-2]: Quando ha adottato questa disposizione l’Assemblea dell’Unione di Madrid ha considerato che le parti contraenti non sono tenute a precisare nella notifica la data a partire dalla quale applicheranno le regole 17.2) v) e vii) e 18.1) e) nel tenore in vigore dal 1° novembre 2023.
-[^chap9-lvlu2-3]: Introdotto dalla mod. in vigore dal 1° nov. 2023 ([RU 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-
-### **Regola 41**Istruzioni amministrative
+**Istruzioni amministrative**
 
 \1) [Istruzioni amministrative e materie trattate]
-
-- a) Il Direttore generale elabora istruzioni amministrative. Il Direttore generale può modificarle. Prima di stabilire o di modificare le istruzioni amministrative, il Direttore generale consulta gli Uffici che sono direttamente interessati dalle istruzioni amministrative o dalle modifiche proposte.
-- b) Le istruzioni amministrative trattano questioni per le quali il presente regolamento di esecuzione rinvia esplicitamente a tali istruzioni e particolari relativi all’applicazione del presente regolamento di esecuzione.
 
 \2) [Controllo dell’Assemblea]
 
@@ -1524,12 +1620,15 @@ L’Assemblea può invitare il Direttore generale a modificare qualsiasi disposi
 
 \3) [Pubblicazione ed entrata in vigore]
 
-- a) Le istruzioni amministrative e ogni modifica di cui sono oggetto vengono pubblicate nel bollettino.
-- b) Ciascuna pubblicazione precisa la data in cui entrano in vigore le disposizioni pubblicate. Le date possono essere differenti per disposizioni diverse, fermo restando che nessuna disposizione può entrare in vigore prima della sua pubblicazione nel bollettino.
-
 \4) [Divergenza fra le istruzioni amministrative e il Protocollo o il presente regolamento di esecuzione]
 
 In caso di divergenza fra una disposizione delle istruzioni amministrative, da un canto, e una disposizione del Protocollo o del presente regolamento di esecuzione, dall’altro, quest’ultima prevale.
+
+- a) Il Direttore generale elabora istruzioni amministrative. Il Direttore generale può modificarle. Prima di stabilire o di modificare le istruzioni amministrative, il Direttore generale consulta gli Uffici che sono direttamente interessati dalle istruzioni amministrative o dalle modifiche proposte.
+- b) Le istruzioni amministrative trattano questioni per le quali il presente regolamento di esecuzione rinvia esplicitamente a tali istruzioni e particolari relativi all’applicazione del presente regolamento di esecuzione.
+
+- a) Le istruzioni amministrative e ogni modifica di cui sono oggetto vengono pubblicate nel bollettino.
+- b) Ciascuna pubblicazione precisa la data in cui entrano in vigore le disposizioni pubblicate. Le date possono essere differenti per disposizioni diverse, fermo restando che nessuna disposizione può entrare in vigore prima della sua pubblicazione nel bollettino.
 
 ## Elenco delle tasse e degli emolumenti
 
@@ -1554,7 +1653,7 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 <tr><td colspan="2">4. Irregolarità riguardanti la classificazione dei prodotti e dei servizi</td></tr>
 <tr><td>Le seguenti tasse devono essere pagate (regola 12.1)b)):</td><td></td></tr>
 <tr><td>4.1 Quando i prodotti e servizi non sono raggruppati per classi</td><td>77 più 4 per ogni termine oltre i 20</td></tr>
-<tr><td>4.2 Quando la classificazione indicata nella domanda per uno o più termini è inesatta [tab]</td><td>20 più 4 per ogni termine la cui classificazione è inesatta</td></tr>
+<tr><td>4.2 Quando la classificazione indicata nella domanda per uno o più termini è inesatta</td><td>20 più 4 per ogni termine la cui classificazione è inesatta</td></tr>
 <tr><td>essendo convenuto che, se l’ammontare totale dovuto in virtù di questo punto nei confronti di una domanda internazionale è inferiore a 150 franchi svizzeri, nessuna tassa dovrà essere pagata</td><td></td></tr>
 <tr><td colspan="2">5. Designazione successiva alla registrazione internazionale</td></tr>
 <tr><td>I seguenti emolumenti e tasse devono essere pagati e coprono il periodo tra la data in cui la designazione entra in vigore e la scadenza del periodo per il quale la registrazione internazionale è in vigore (articolo 3<sup>ter</sup>.2) del Protocollo):</td><td></td></tr>

@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Règlement d'exécution du 2 octobre 2018 du Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: fr
-version: 2023-11-01
+version: 2024-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20231101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20241101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20241101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par l’Assemblée de l’Union de Madrid le 2 octobre 2018
 
 Entré en vigueur le 1<sup>er</sup> février 2020
 
-(État le 1<sup>er</sup> novembre 2023)
+(État le 1<sup>er</sup> novembre 2024)
 
 [^t-1]: Erratum du 12 avr. 2022 ([RO 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -135,11 +135,11 @@ Au sens du présent règlement d’exécution:
 - xxx) «Bureau international» s’entend du Bureau international de l’Organisation Mondiale de la Propriété Intellectuelle;
 - xxxi) «instructions administratives» s’entend des instructions administratives visées à la règle 41.
 
-[^1-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^1-2]: [RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
-[^1-3]: [RS 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)
-[^1-4]: [RS 0.232.112.8](https://fedlex.data.admin.ch/eli/cc/1970/685_683_684)
-[^1-5]: [RS 0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
+[^1-1]: [RS 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^1-2]: [RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
+[^1-3]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061)
+[^1-4]: [RS 0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062)
+[^1-5]: [RS 0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
 #### Règle 1<sup>bis</sup>
 
@@ -375,7 +375,7 @@ Les émoluments et taxes prescrits qui sont applicables à la demande internatio
   - x) lorsque la demande de base ou l’enregistrement de base concerne une marque collective ou une marque de certification ou une marque de garantie, une indication de ce fait;
   - xi) lorsque la demande de base ou l’enregistrement de base contient une description de la marque exprimée par des mots et que l’Office d’origine exige l’inclusion de la description, cette même description; lorsque ladite description est dans une langue autre que la langue de la demande internationale, la description doit être donnée dans la langue de la demande internationale;
   - xii) lorsque la marque se compose, en tout ou en partie, de caractères autres que latins ou de chiffres autres qu’arabes ou romains, une translittération de ces caractères en caractères latins ou de ces chiffres en chiffres arabes; la translittération en caractères latins doit suivre la phonétique de la langue de la demande internationale;
-  - xiii) les noms des produits et services pour lesquels l’enregistrement international de la marque est demandé, groupés selon les classes appropriées de la classification internationale des produits et des services, chaque groupe étant précédé du numéro de la classe et présenté dans l’ordre des classes de cette classification ; les produits et services doivent être indiqués en termes précis, de préférence au moyen des termes qui figurent dans la liste alphabétique de ladite classification; la demande internationale peut contenir une limitation de la liste des produits et services à l’égard de l’une ou de plusieurs ou de l’ensemble des parties contractantes désignées; la limitation peut être différente pour chaque partie contractante;
+  - xiii) les noms des produits et services pour lesquels l’enregistrement international de la marque est demandé, groupés selon les classes appropriées de la classification internationale des produits et des services, chaque groupe étant précédé du numéro de la classe et présenté dans l’ordre des classes de cette classification; les produits et services doivent être indiqués en termes précis, de préférence au moyen des termes qui figurent dans la liste alphabétique de ladite classification; la demande internationale peut contenir une limitation de la liste des produits et services à l’égard de l’une ou de plusieurs ou de l’ensemble des parties contractantes désignées; la limitation peut être différente pour chaque partie contractante;
   - xiv) le montant des émoluments et taxes payés et le mode de paiement, ou des instructions à l’effet de prélever le montant requis des émoluments et taxes sur un compte ouvert auprès du Bureau international, et l’identité de l’auteur du paiement ou des instructions, et
   - xv) les parties contractantes désignées.
 
@@ -891,12 +891,13 @@ La notification peut aussi inclure des informations sur tout autre droit acquis 
 - b) Les indications notifiées en vertu de l’al. 1) sont inscrites à la date de réception par le Bureau international d’une notification remplissant les conditions requises.
 
 - a) La protection de la marque qui fait l’objet d’un enregistrement international ne peut être refusée, même partiellement, sur la base d’un enregistrement national ou régional qui est réputé avoir été remplacé par cet enregistrement international.
-- b) Un enregistrement national ou régional et l’enregistrement international qui l’a remplacé peuvent coexister. Le titulaire ne peut être tenu de renoncer à un enregistrement national ou régional qui est réputé avoir été remplacé par un enregistrement international ou d’en demander la radiation et il devrait être autorisé à renouveler cet enregistrement, s’il le souhaite, conformément à la législation nationale ou régionale applicable.
+- b)[^21-2] Un enregistrement national ou régional et l’enregistrement international qui l’a remplacé peuvent coexister. Le titulaire ne peut être tenu de renoncer à un enregistrement national ou régional qui est réputé avoir été remplacé par un enregistrement international ou d’en demander la radiation et il doit être autorisé à renouveler cet enregistrement, s’il le souhaite, conformément à la législation nationale ou régionale applicable.
 - c) Avant de prendre note de l’enregistrement international dans son registre, l’Office d’une partie contractante désignée examine la demande visée à l’al. 1) afin de déterminer si les conditions énoncées à l’art. 4<sup>bis</sup>.1) du Protocole sont remplies.
 - d) Les produits et services concernés par le remplacement, énumérés dans l’enregistrement national ou régional, doivent être couverts par ceux qui sont énumérés dans l’enregistrement international. Le remplacement peut ne concerner que certains des produits et services énumérés dans l’enregistrement national ou régional.
 - e) Un enregistrement national ou régional est réputé avoir été remplacé par un enregistrement international à compter de la date à laquelle cet enregistrement international prend effet dans la partie contractante désignée concernée, conformément à l’art. 4.1)a) du Protocole.
 
 [^21-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+[^21-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2024 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 #### Règle 21<sup>bis</sup>
 
@@ -979,7 +980,7 @@ Lorsque, au cours de la période de cinq ans visée à l’art. 6.3) du Protocol
 
 \1) [Communications qui ne sont pas couvertes par le présent règlement d’exécution]
 
-Lorsque la législation d’une partie contractante désignée n’autorise pas l’Office à transmettre une communication concernant un enregistrement international directement au titulaire, cet Office peut demander au Bureau international de transmettre cette communication en son nom au titulaire.
+L’Office d’une partie contractante désignée peut demander au Bureau international de transmettre au titulaire, en son nom, des communications relatives à un enregistrement international.[^23bis-1]
 
 \2) [Format de la communication]
 
@@ -988,6 +989,8 @@ Le Bureau international établit le format dans lequel la communication visée �
 \3) [Transmission au titulaire]
 
 Le Bureau international transmet au titulaire la communication visée à l’al. 1), au format établi par le Bureau international, sans examiner son contenu ni l’inscrire au registre international.
+
+[^23bis-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2024 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 ## Chapitre 5 Désignations postérieures; modifications
 
@@ -1107,7 +1110,7 @@ Lorsque la demande d’inscription d’un changement de titulaire de l’enregis
 
 - a)
 
-  Une demande d’inscription doit être présentée au Bureau international sur le formulaire officiel correspondant lorsque cette demande se rapporte à :
+  Une demande d’inscription doit être présentée au Bureau international sur le formulaire officiel correspondant lorsque cette demande se rapporte à:
 
   - i) un changement de titulaire de l’enregistrement international pour tout ou partie des produits et services et à l’égard de l’ensemble ou de certaines des parties contractantes désignées;
   - ii) une limitation de la liste des produits et services à l’égard de l’ensemble ou de certaines des parties contractantes désignées;
@@ -1382,25 +1385,26 @@ Le Bureau international effectue les publications visées aux al. 1) et 2) sur l
   - viii<sup>bis</sup>) aux divisions inscrites en vertu de la règle 27<sup>bis</sup>*.*4) et aux fusions inscrites en vertu de la règle 27<sup>ter</sup>;
   - ix) aux rectifications effectuées en vertu de la règle 28;
   - x) aux invalidations inscrites en vertu de la règle 19.2);
-  - xi) aux informations inscrites en vertu des règles 20, 20<sup>bis</sup>, 21, 21<sup>bis</sup>, 22.2)a), 23 et 27.4);
+  - xi)[^32-2] aux informations inscrites en vertu des règles 20, 20<sup>bis</sup>, 21, 21<sup>bis</sup>, 22.2)a), 23, 27.4) et 5);
   - xii) aux enregistrements internationaux qui n’ont pas été renouvelés;
   - xiii) aux inscriptions de la constitution du mandataire du titulaire communiquée en vertu de la règle 3.2)b) et aux radiations à la demande du titulaire ou du mandataire du titulaire en vertu de la règle 3.6)a).
 
-- b)[^32-2] La représentation de la marque est publiée telle qu’elle est fournie dans la demande internationale. Lorsque le déposant a fait la déclaration visée à la règle 9.4)a)vi), la publication indique ce fait.
-- c)[^32-3] …
+- b)[^32-3] La représentation de la marque est publiée telle qu’elle est fournie dans la demande internationale. Lorsque le déposant a fait la déclaration visée à la règle 9.4)a)vi), la publication indique ce fait.
+- c)[^32-4] …
 
 Le Bureau international publie dans la gazette:
 
-- i)[^32-4] toute notification faite en vertu des règles 7, 17.7), 20<sup>bis</sup>.6), 27<sup>bis</sup>.6), 27<sup>ter</sup>.2)b) ou 40.6) et 7) et toute déclaration faite en vertu de la règle 17.5)d) ou e);
+- i)[^32-5] toute notification faite en vertu des règles 7, 17.7), 20<sup>bis</sup>.6), 27<sup>bis</sup>.6), 27<sup>ter</sup>.2)b) ou 40.6) et 7) et toute déclaration faite en vertu de la règle 17.5)d) ou e);
 - ii) toute déclaration faite en vertu de l’art. 5.2)b) ou de l’art. 5.2)b) et c), première phrase, du Protocole;
 - iii) toute déclaration faite en vertu de l’art. 8.7) du Protocole;
 - iv) toute notification faite en vertu de la règle 34.2)b) ou 3)a);
 - v) la liste des jours où il est prévu que le Bureau international ne sera pas ouvert au public pendant l’année civile en cours et l’année civile suivante.
 
 [^32-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^32-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^32-3]: Abrogée par la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^32-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^32-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2024 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^32-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-4]: Abrogée par la D entrée en vigueur le 1<sup>er</sup> fév. 2023 ([RO 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-5]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2023 ([RO 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
 #### Règle 33
 

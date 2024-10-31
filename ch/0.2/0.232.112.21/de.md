@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: Ausführungsordnung von 2. Oktober 2018 betreffend das Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: de
-version: 2023-11-01
+version: 2024-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20231101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20241101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20241101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2020** 1667[^t-1]
 
 Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft getreten am 1. Februar 2020
 
-(Stand am 1. November 2023)
+(Stand am 1. November 2024)
 
 [^t-1]: Berichtigung vom 12. April 2022 ([AS 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -42,7 +42,7 @@ Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft
 <tr><td>Regel 9</td><td>Erfordernisse bezüglich des internationalen Gesuchs</td></tr>
 <tr><td>Regel 10</td><td>Gebühren für das internationale Gesuch</td></tr>
 <tr><td>Regel 11</td><td>Andere als die Klassifikation der Waren und Dienstleistungen betreffende Mängel</td></tr>
-<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und D (Stand am 1. November 2023)ienstleistungen</td></tr>
+<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und Dienstleistungen</td></tr>
 <tr><td>Regel 13</td><td>Mängel in bezog auf die Angabe der Waren und Dienstleistungen</td></tr>
 <tr><td>Kapitel 3:</td><td>Internationale Registrierungen</td></tr>
 <tr><td>Regel 14</td><td>Eintragung der Marke im internationalen Register</td></tr>
@@ -90,12 +90,14 @@ Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft
 
 ## Kapitel 1 Allgemeine Bestimmungen
 
-### **Regel 1**Abkürzungen
+#### Regel 1
+
+**Abkürzungen**
 
 Im Sinne dieser Ausführungsordnung bedeutet:
 
-- i) «Abkommen» das Madrider Abkommen über die internationale Registrierung von Marken vom 14. April 1891, revidiert in Stockholm am 14. Juli 1967 und geändert am 28. September 1979[^chap1-lvlu1-1];
-- ii) «Protokoll» das Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken, angenommen in Madrid am 27. Juni 1989[^chap1-lvlu1-2];
+- i) «Abkommen» das Madrider Abkommen über die internationale Registrierung von Marken vom 14. April 1891, revidiert in Stockholm am 14. Juli 1967 und geändert am 28. September 1979[^1-1];
+- ii) «Protokoll» das Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken, angenommen in Madrid am 27. Juni 1989[^1-2];
 - iii) «Vertragspartei» jeden Staat oder jede zwischenstaatliche Organisation, die Vertragspartei des Protokolls sind;
 - iv) «Vertragsstaat» eine Vertragspartei, bei der es sich um einen Staat handelt;
 - v) «Vertragsorganisation» eine Vertragspartei, bei der es sich um eine zwischenstaatliche Organisation handelt;
@@ -117,7 +119,7 @@ Im Sinne dieser Ausführungsordnung bedeutet:
 - xx) «Blatt» das in Regel 32 genannte regelmässig erscheinende Blatt;
 - xxi) «Inhaber» die natürliche oder juristische Person, auf deren Namen die internationale Registrierung im internationalen Register eingetragen ist;
 - xxii) «Internationale Klassifikation der Bildbestandteile» die durch das Wiener Abkommen vom 12. Juni 1973 über die Errichtung einer internationalen Klassifikation der Bildbestandteile von Marken geschaffene Klassifikation;
-- xxiii) «Internationale Klassifikation von Waren und Dienstleistungen» die durch das Abkommen von Nizza vom 15. Juni 1957[^chap1-lvlu1-3] über die internationale Klassifikation von Waren und Dienstleistungen für die Eintragung von Marken, revidiert in Stockholm am 14. Juli 1967[^chap1-lvlu1-4] und in Genf am 13. Mai 1977[^chap1-lvlu1-5], geschaffene Klassifikation;
+- xxiii) «Internationale Klassifikation von Waren und Dienstleistungen» die durch das Abkommen von Nizza vom 15. Juni 1957[^1-3] über die internationale Klassifikation von Waren und Dienstleistungen für die Eintragung von Marken, revidiert in Stockholm am 14. Juli 1967[^1-4] und in Genf am 13. Mai 1977[^1-5], geschaffene Klassifikation;
 - xxiv) «internationales Register» die beim Internationalen Büro geführte amtliche Sammlung von Daten über internationale Registrierungen, welche aufgrund des Protokolls oder der Ausführungsordnung eingetragen werden müssen oder dürfen, ungeachtet des Mediums, in dem die Daten gespeichert sind;
 - xxv) «Behörde» die für die Eintragung von Marken zuständige Behörde einer Vertragspartei oder die in Artikel 9<sup>quater</sup> des Protokolls genannte gemeinsame Behörde;
 - xxvi) «Ursprungsbehörde» die in Artikel 2 Absatz 2 des Protokolls bezeichnete Ursprungsbehörde;
@@ -131,31 +133,45 @@ Im Sinne dieser Ausführungsordnung bedeutet:
 - xxx) «Internationales Büro» das Internationale Büro der Weltorganisation für geistiges Eigentum;
 - xxxi «Verwaltungsvorschriften» die in Regel 41 genannten Verwaltungsvorschriften.
 
-[^chap1-lvlu1-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/eli/cc/1970/1689_1694_1693)
-[^chap1-lvlu1-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
-[^chap1-lvlu1-3]: [SR 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)
-[^chap1-lvlu1-4]: [SR 0.232.112.8](https://fedlex.data.admin.ch/eli/cc/1970/685_683_684)
-[^chap1-lvlu1-5]: [SR 0.232.112.9](https://fedlex.data.admin.ch/eli/cc/1986/532_532_532)
+[^1-1]: [SR 0.232.112.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1057)
+[^1-2]: [SR 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
+[^1-3]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061)
+[^1-4]: [SR 0.232.112.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1062)
+[^1-5]: [SR 0.232.112.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1063)
 
-### **Regel 1**<sup>bis</sup>…
+#### Regel 1<sup>bis</sup>
 
-### **Regel 2**Mitteilungen an das Internationale Büro
+**…**
+
+#### Regel 2
+
+**Mitteilungen an das Internationale Büro**
 
 An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in den Verwaltungsvorschriften beschrieben.
 
-### **Regel 3**Vertretung vor dem Internationalen Büro
+#### Regel 3
+
+**Vertretung vor dem Internationalen Büro**
 
 \1) [Vertreter; Anzahl der Vertreter]
+
+\2) [Bestellung des Vertreters]
+
+\3) [Nicht vorschriftsmäßige Bestellung]
+
+\4) [Eintragung der Bestellung eines Vertreters und Mitteilung darüber; Datum des Wirksamwerdens der Bestellung]
+
+\5) [Wirkung der Bestellung eines Vertreters]
+
+\6) [Löschung der Eintragung; Datum des Wirksamwerdens der Löschung]
 
 - a) Der Hinterleger oder der Inhaber kann sich durch einen Vertreter vor dem Internationalen Büro vertreten lassen.
 - b) Der Hinterleger oder der Inhaber kann nur einen Vertreter haben. Werden in der Bestellung mehrere Vertreter angegeben, so gilt nur der zuerst genannte Vertreter als Vertreter und wird als solcher eingetragen.
 - c) Ist eine Kanzlei oder Kanzleigemeinschaft von Rechtsanwälten, Patentanwälten oder Markenanwälten als Vertreterin beim Internationalen Büro angegeben worden, so gilt diese als ein Vertreter.
 - d) …
 
-\2) [Bestellung des Vertreters]
-
-- a)[^chap1-lvlu4-1] Die Bestellung eines Vertreters kann in dem internationalen Gesuch oder vom neuen Inhaber der internationalen Registrierung in einem Antrag nach Regel 25 Absatz 1 Buchstabe a Ziffer i erfolgen und hat den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse des Vertreters anzugeben.
-- b)[^chap1-lvlu4-2]
+- a)[^3-1] Die Bestellung eines Vertreters kann in dem internationalen Gesuch oder vom neuen Inhaber der internationalen Registrierung in einem Antrag nach Regel 25 Absatz 1 Buchstabe a Ziffer i erfolgen und hat den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse des Vertreters anzugeben.
+- b)[^3-2]
 
   Die Bestellung eines Vertreters kann auch in einer getrennten Mitteilung erfolgen, sofern das dafür vorgesehene amtliche Formblatt verwendet wird, und sie kann sich auf eine oder mehrere bestimmte internationale Gesuche oder internationale Registrierungen desselben Hinterlegers oder Inhabers beziehen. Einzureichen ist dieses Formblatt beim Internationalen Büro:
 
@@ -164,24 +180,16 @@ An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in 
 
 - Das Formblatt ist vom Hinterleger, vom Inhaber oder von der einreichenden Behörde zu unterschreiben.
 
-\3) [Nicht vorschriftsmäßige Bestellung]
-
 - a) Ist nach Auffassung des Internationalen Büros die Bestellung eines Vertreters nach Absatz 2 nicht vorschriftsmäßig, so benachrichtigt es den Hinterleger oder den Inhaber, den vermeintlichen Vertreter und, falls es sich bei dem Absender oder Übermittler um eine Behörde handelt, diese Behörde entsprechend.
 - b) Solange die einschlägigen Erfordernisse nach Absatz 2 nicht erfüllt sind, übersendet das Internationale Büro alle diesbezüglichen Mitteilungen an den Hinterleger oder Inhaber, jedoch nicht an den vermeintlichen Vertreter.
 - c) …
 
-\4) [Eintragung der Bestellung eines Vertreters und Mitteilung darüber; Datum des Wirksamwerdens der Bestellung]
-
-- a)[^chap1-lvlu4-3] Stellt das Internationale Büro fest, dass die Bestellung eines Vertreters den geltenden Erfordernissen entspricht, so trägt es die Tatsache, dass der Hinterleger oder Inhaber einen Vertreter hat, sowie Namen, Anschrift und E-Mail-Adresse des Vertreters im internationalen Register ein. In diesem Fall ist das Datum des Wirksamwerdens der Bestellung das Datum, an dem das Internationale Büro das internationale Gesuch, den Antrag oder die gesonderte Mitteilung, in welcher der Vertreter bestellt worden ist, erhalten hat.
+- a)[^3-3] Stellt das Internationale Büro fest, dass die Bestellung eines Vertreters den geltenden Erfordernissen entspricht, so trägt es die Tatsache, dass der Hinterleger oder Inhaber einen Vertreter hat, sowie Namen, Anschrift und E-Mail-Adresse des Vertreters im internationalen Register ein. In diesem Fall ist das Datum des Wirksamwerdens der Bestellung das Datum, an dem das Internationale Büro das internationale Gesuch, den Antrag oder die gesonderte Mitteilung, in welcher der Vertreter bestellt worden ist, erhalten hat.
 - b) Das Internationale Büro unterrichtet sowohl den Hinterleger oder den Inhaber – und im letzteren Fall auch die Ämter der benannten Vertragsparteien – als auch den Vertreter von der Eintragung nach Buchstabe a. Erfolgte die Bestellung in einer gesonderten Mitteilung über eine Behörde, so unterrichtet das Internationale Büro auch diese Behörde von der Eintragung.
-
-\5) [Wirkung der Bestellung eines Vertreters]
 
 - a) Sofern diese Ausführungsordnung nicht ausdrücklich etwas anderes vorsieht, ersetzt die Unterschrift eines nach Absatz 4 Buchstabe a eingetragenen Vertreters die Unterschrift des Hinterlegers oder des Inhabers.
 - b) Sofern in dieser Ausführungsordnung nicht ausdrücklich eine Aufforderung, Unterrichtung oder sonstige Mitteilung sowohl an den Hinterleger oder Inhaber als auch an den Vertreter verlangt wird, richtet das Internationale Büro alle Aufforderungen, Unterrichtungen oder sonstigen Mitteilungen, die in Ermangelung eines Vertreters an den Hinterleger oder Inhaber gesandt werden müssten, an den nach Absatz 4 Buchstabe a eingetragenen Vertreter; jede Aufforderung, Unterrichtung oder sonstige Mitteilung, die auf diese Weise an den genannten Vertreter gerichtet wird, hat dieselbe Wirkung, als sei sie an den Hinterleger oder den Inhaber gerichtet worden.
 - c) Jede von dem nach Absatz 4 Buchstabe a eingetragenen Vertreter an das Internationale Büro gerichtete Mitteilung hat dieselbe Wirkung, als sei sie vom Hinterleger oder vom Inhaber an das Büro gerichtet worden.
-
-\6) [Löschung der Eintragung; Datum des Wirksamwerdens der Löschung]
 
 - a) Jede Eintragung nach Absatz 4 Buchstabe a wird gelöscht, wenn die Löschung in einer vom Hinterleger, vom Inhaber oder vom Vertreter unterzeichneten Mitteilung beantragt wird. Die Eintragung wird vom Internationalen Büro von Amts wegen gelöscht, wenn ein neuer Vertreter bestellt wird oder wenn eine Änderung des Inhabers eingetragen und vom neuen Inhaber der internationalen Registrierung kein Vertreter bestellt worden ist.
 - b) Vorbehaltlich des Buchstabens c ist die Löschung ab dem Datum des Eingangs der entsprechenden Mitteilung beim Internationalen Büro wirksam.
@@ -193,16 +201,18 @@ An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in 
   - ii) dem Datum, an dem eine Frist von zwei Monaten nach Eingang des Antrags des Vertreters auf Löschung der Eintragung abläuft.
 
 - Bis zum Datum des Wirksamwerdens der Löschung richtet das Internationale Büro alle in Absatz 5 Buchstabe b genannten Mitteilungen sowohl an den Hinterleger oder den Inhaber als auch an den Vertreter.
-- d)[^chap1-lvlu4-4] Das Internationale Büro unterrichtet nach Eingang eines vom Vertreter gestellten Antrags auf Löschung den Hinterleger oder den Inhaber entsprechend.
+- d)[^3-4] Das Internationale Büro unterrichtet nach Eingang eines vom Vertreter gestellten Antrags auf Löschung den Hinterleger oder den Inhaber entsprechend.
 - e) Sobald der Zeitpunkt des Wirksamwerdens der Löschung bekannt ist, unterrichtet das Internationale Büro den Vertreter, dessen Eintragung gelöscht worden ist, den Hinterleger oder den Inhaber, und, wenn die Bestellung des Vertreters über eine Behörde eingereicht worden ist, diese Behörde über die Löschung und das Datum des Wirksamwerdens.
 - f) Über Löschungen auf Antrag des Inhabers oder des Vertreters des Inhabers sind auch die Ämter der benannten Vertragsparteien zu unterrichten.
 
-[^chap1-lvlu4-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu4-2]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
-[^chap1-lvlu4-3]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu4-4]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-2]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
+[^3-3]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-4]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
-### **Regel 4**Berechnung der Fristen
+#### Regel 4
+
+**Berechnung der Fristen**
 
 \1) [Nach Jahren bemessene Fristen]
 
@@ -224,36 +234,41 @@ Endet eine Frist an einem Tag, an dem das Internationale Büro oder die betreffe
 
 Das Internationale Büro gibt in allen Fällen, in denen es eine Frist setzt, das Datum des Ablaufs der entsprechenden Frist nach den Absätzen 1 bis 3 an.
 
-### **Regel 5**Entschuldigung der Fristversäumnis
+#### Regel 5
 
-[^chap1-lvlu6-1]
-
-[^chap1-lvlu6-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+**Entschuldigung der Fristversäumnis[^5-1]**
 
 \1) [Entschuldigung der Fristversäumnis aufgrund von höherer Gewalt]
 
-Versäumt ein Beteiligter eine in der Ausführungsordnung vorgesehene Frist für die Vornahme einer Handlung, die an das Internationale Büro gerichtet ist, so wird dies entschuldigt, wenn der Beteiligte dem Internationalen Büro überzeugend nachweist, dass die Fristversäumnis durch einen Krieg, eine Revolution, eine Störung der öffentlichen Ordnung, einen Streik, eine Naturkatastrophe oder Störungen im Post- und Zustelldienst oder bei elektronisch übersandten Mitteilungen aufgrund von Umständen, auf die der Beteiligte keinen Einfluss hat, oder aus einem anderen Grund höherer Gewalt verursacht wurde.[^chap1-lvlu6-2]
+Versäumt ein Beteiligter eine in der Ausführungsordnung vorgesehene Frist für die Vornahme einer Handlung, die an das Internationale Büro gerichtet ist, so wird dies entschuldigt, wenn der Beteiligte dem Internationalen Büro überzeugend nachweist, dass die Fristversäumnis durch einen Krieg, eine Revolution, eine Störung der öffentlichen Ordnung, einen Streik, eine Naturkatastrophe oder Störungen im Post- und Zustelldienst oder bei elektronisch übersandten Mitteilungen aufgrund von Umständen, auf die der Beteiligte keinen Einfluss hat, oder aus einem anderen Grund höherer Gewalt verursacht wurde.[^5-2]
 
-\2) und 3)[^chap1-lvlu6-3]
+\2) und 3)[^5-3]
 
 \4) [Einschränkung der Entschuldigung]
 
-Ein Fristversäumnis wird aufgrund dieser Regel nur entschuldigt, wenn der Nachweis oder die Handlung nach Absatz 1 sobald als vernunftgemäss möglich und spätestens sechs Monate nach Ablauf der anwendbaren Frist beim Internationalen Büro eingeht beziehungsweise vorgenommen wird.[^chap1-lvlu6-4]
+Ein Fristversäumnis wird aufgrund dieser Regel nur entschuldigt, wenn der Nachweis oder die Handlung nach Absatz 1 sobald als vernunftgemäss möglich und spätestens sechs Monate nach Ablauf der anwendbaren Frist beim Internationalen Büro eingeht beziehungsweise vorgenommen wird.[^5-4]
 
-(5) [Internationales Gesuch und nachträgliche Benennung]
+<sup>(5)</sup> [Internationales Gesuch und nachträgliche Benennung]
 
-Erhält das Internationale Büro ein internationales Gesuch oder eine nachträgliche Benennung nach Ablauf der in Artikel 3 Absatz 4 des Protokolls und in Regel 24 Absatz 6 Buchstabe b vorgesehenen Frist von zwei Monaten und gibt die beteiligte Behörde an, dass der verspätete Eingang auf die in Absatz 1 genannten Umstände zurückzuführen ist, so finden Absätze 1und 4 Anwendung.[^chap1-lvlu6-5]
+Erhält das Internationale Büro ein internationales Gesuch oder eine nachträgliche Benennung nach Ablauf der in Artikel 3 Absatz 4 des Protokolls und in Regel 24 Absatz 6 Buchstabe b vorgesehenen Frist von zwei Monaten und gibt die beteiligte Behörde an, dass der verspätete Eingang auf die in Absatz 1 genannten Umstände zurückzuführen ist, so finden Absätze 1und 4 Anwendung.[^5-5]
 
-[^chap1-lvlu6-2]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu6-3]: Aufgehoben durch die am 1. Nov. 2021 in Kraft getretene Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu6-4]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu6-5]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
+[^5-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-2]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-3]: Aufgehoben durch die am 1. Nov. 2021 in Kraft getretene Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-4]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-5]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
-### **Regel 5**<sup>bis</sup>Weiterbehandlung
+#### Regel 5<sup>bis</sup>
+
+**Weiterbehandlung**
 
 \1) [Antrag]
 
-- a)[^chap1-lvlu7-1]
+\2) [Eintragung und Mitteilung]
+
+Das Internationale Büro trägt jede Weiterbehandlung in das internationale Register ein und teilt dies dem Hinterleger oder Inhaber mit.
+
+- a)[^5bis-1]
 
   Hat ein Hinterleger oder Inhaber eine der in den Regeln 11 Absätze 2 und 3, 12 Absatz 7, 20<sup>bis</sup> Absatz 2, 24 Absatz 5 Buchstabe b, 26 Absatz 2, 27<sup>bis</sup> Absatz 3 Buchstabe c, 34 Absatz 3 Buchstabe c Ziffer iii und 39 Absatz 1 angegebenen oder genannten Fristen nicht eingehalten, so behandelt das Internationale Büro das internationale Gesuch, die nachträgliche Benennung, die betreffende Zahlung oder den betreffenden Antrag dennoch weiter, wenn:
 
@@ -262,19 +277,21 @@ Erhält das Internationale Büro ein internationales Gesuch oder eine nachträgl
 
 - b) Ein Antrag, der Buchstabe a Ziffern i und ii nicht erfüllt, wird nicht als solcher betrachtet, und das Internationale Büro teilt dies dem Hinterleger oder Inhaber mit.
 
-\2) [Eintragung und Mitteilung]
+[^5bis-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
-Das Internationale Büro trägt jede Weiterbehandlung in das internationale Register ein und teilt dies dem Hinterleger oder Inhaber mit.
+#### Regel 6
 
-[^chap1-lvlu7-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-
-### **Regel 6**Sprachen
+**Sprachen**
 
 \1) [Internationales Gesuch]
 
-- [tab] Das internationale Gesuch ist je nach Vorschrift der Ursprungsbehörde in Englisch, Französisch oder Spanisch abzufassen, wobei die Ursprungsbehörde dem Hinterleger die Wahl zwischen Englisch, Französisch und Spanisch freistellen kann.
-
 \2) [Andere Mitteilungen als internationale Gesuche]
+
+\3) [Eintragung und Veröffentlichung]
+
+\4) [Übersetzung]
+
+- [tab] Das internationale Gesuch ist je nach Vorschrift der Ursprungsbehörde in Englisch, Französisch oder Spanisch abzufassen, wobei die Ursprungsbehörde dem Hinterleger die Wahl zwischen Englisch, Französisch und Spanisch freistellen kann.
 
 Mitteilungen über ein internationales Gesuch oder eine internationale Registrierung sind, vorbehältlich der Regel 17 Absatz 2 Ziffer v und Absatz 3, wie folgt abzufassen:
 
@@ -283,17 +300,15 @@ Mitteilungen über ein internationales Gesuch oder eine internationale Registrie
 - iii) in der Sprache des internationalen Gesuchs, wenn es sich bei der Mitteilung um eine vom Internationalen Büro an eine Behörde gerichtete Benachrichtigung handelt, es sei denn, diese Behörde hat dem Internationalen Büro mitgeteilt, dass alle derartigen Benachrichtigungen in Englisch abzufassen sind oder in Französisch abzufassen sind oder in Spanisch abzufassen sind; betrifft die Mitteilung des Internationalen Büros die Eintragung einer internationalen Registrierung in das internationale Register, so ist in der Mitteilung anzugeben, in welcher Sprache das entsprechende internationale Gesuch beim Internationalen Büro eingegangen ist;
 - iv) in der Sprache des internationalen Gesuchs, wenn es sich bei der Mitteilung um eine vom Internationalen Büro an den Hinterleger oder den Inhaber gerichtete Benachrichtigung handelt, es sei denn dieser Hinterleger oder Inhaber hat den Wunsch geäussert, alle derartigen Benachrichtigungen in Englisch oder in Französisch oder in Spanisch zu erhalten.
 
-\3) [Eintragung und Veröffentlichung]
-
 - a) Die Eintragung in das internationale Register und die im Blatt vorzunehmende Veröffentlichung der internationalen Registrierung und aller Angaben, die aufgrund dieser Ausführungsordnung in Bezug auf die internationale Registrierung sowohl einzutragen als auch zu veröffentlichen sind, sind in Englisch, Französisch und Spanisch abzufassen. In der Eintragung und in der Veröffentlichung der internationalen Registrierung ist die Sprache anzugeben, in der das internationale Gesuch beim Internationalen Büro eingegangen ist.
 - b) Wird eine erste nachträgliche Benennung in Bezug auf eine internationale Registrierung vorgenommen, die aufgrund früheren Fassungen dieser Regel nur in Französisch oder nur in Englisch und Französisch veröffentlicht worden ist, so veröffentlicht das Internationale Büro zusammen mit der Veröffentlichung dieser nachträglichen Benennung im Blatt entweder die internationale Registrierung in Englisch und Spanisch und veröffentlicht sie erneut in Französisch oder es veröffentlicht die internationale Registrierung in Spanisch und veröffentlicht sie erneut in Englisch und Französisch. Diese nachträgliche Benennung ist in Englisch, Französisch und Spanisch in das internationale Register einzutragen.
-
-\4) [Übersetzung]
 
 - a) Die für die Mitteilungen nach Absatz 2 Ziffern iii) und iv) und die Eintragungen und Veröffentlichungen nach Absatz 3 erforderlichen Übersetzungen werden vom Internationalen Büro gefertigt. Der Hinterleger beziehungsweise der Inhaber kann dem internationalen Gesuch oder einem Antrag auf Eintragung einer nachträglichen Benennung oder einer Änderung einen Übersetzungsvorschlag für jeden im internationalen Gesuch oder im Antrag enthaltenen Text beifügen. Wird der Übersetzungsvorschlag vom Internationalen Büro nicht für richtig befunden, so wird er vom Internationalen Büro berichtigt, nachdem der Hinterleger oder der Inhaber aufgefordert worden ist, innerhalb eines Monats nach der Aufforderung zu den vorgeschlagenen Berichtigungen Stellung zu nehmen.
 - b) Ungeachtet des Buchstabens a übersetzt das Internationale Büro die Marke nicht. Gibt der Hinterleger oder der Inhaber in Übereinstimmung mit Regel 9 Absatz 4 Buchstabe b Ziffer iii oder Regel 24 Absatz 3 Buchstabe c eine oder mehrere Übersetzungen der Marke an, so wird die Richtigkeit dieser Übersetzungen vom Internationalen Büro nicht geprüft.
 
-### **Regel 7**Notifikation bestimmter besonderer Erfordernisse
+#### Regel 7
+
+**Notifikation bestimmter besonderer Erfordernisse**
 
 \1) …
 
@@ -308,7 +323,9 @@ Verlangt eine Vertragspartei als eine benannte Vertragspartei eine Erklärung ü
 
 ## Kapitel 2 Internationale Gesuche
 
-### **Regel 8**Mehrere Hinterleger
+#### Regel 8
+
+**Mehrere Hinterleger**
 
 \1) …
 
@@ -316,7 +333,9 @@ Verlangt eine Vertragspartei als eine benannte Vertragspartei eine Erklärung ü
 
 Zwei oder mehr Hinterleger können ein internationales Gesuch gemeinsam einreichen, wenn das Basisgesuch von ihnen gemeinsam eingereicht worden ist oder, wenn sie gemeinsam Inhaber der Basiseintragung sind und jeder von ihnen berechtigt ist, im Hinblick auf die Vertragspartei, deren Behörde die Ursprungsbehörde ist, ein internationales Gesuch nach Artikel 2 Absatz 1 des Protokolls einzureichen.
 
-### **Regel 9**Erfordernisse bezüglich des internationalen Gesuchs
+#### Regel 9
+
+**Erfordernisse bezüglich des internationalen Gesuchs**
 
 \1) [Einreichung]
 
@@ -324,26 +343,30 @@ Das internationale Gesuch ist von der Ursprungsbehörde beim Internationalen Bü
 
 \2) [Formblatt und Unterschrift]
 
-- a) Das internationale Gesuch ist auf dem amtlichen Formblatt einzureichen.
-- b) Das internationale Gesuch ist von der Ursprungsbehörde und, falls die Ursprungsbehörde dies verlangt, auch vom Hinterleger zu unterschreiben. Verlangt die Ursprungsbehörde nicht, lässt es aber zu, dass der Hinterleger das internationale Gesuch unterschreibt, so kann der Hinterleger das internationale Gesuch unterschreiben.
-
 \3) [Gebühren]
 
 Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nach den Regeln 10, 34 und 35 zu entrichten.
 
 \4) [Inhalt des Internationalen Gesuchs]
 
+\5) [Zusätzlicher Inhalt des internationalen Gesuchs]
+
+6)–7) …
+
+- a) Das internationale Gesuch ist auf dem amtlichen Formblatt einzureichen.
+- b) Das internationale Gesuch ist von der Ursprungsbehörde und, falls die Ursprungsbehörde dies verlangt, auch vom Hinterleger zu unterschreiben. Verlangt die Ursprungsbehörde nicht, lässt es aber zu, dass der Hinterleger das internationale Gesuch unterschreibt, so kann der Hinterleger das internationale Gesuch unterschreiben.
+
 - a)
 
-  Das internationale Gesuch muss Folgendes enthalten oder angeben:[^chap2-lvlu2-1]
+  Das internationale Gesuch muss Folgendes enthalten oder angeben:[^9-1]
 
   - i) den nach den Verwaltungsvorschriften angegebenen Namen des Hinterlegers;
-  - ii)[^chap2-lvlu2-2] die nach den Verwaltungsvorschriften angegebene Anschrift und die E-Mail-Adresse des Hinterlegers;
-  - iii)[^chap2-lvlu2-3] gegebenenfalls den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift, sowie die E-Mail-Adresse des Vertreters;
+  - ii)[^9-2] die nach den Verwaltungsvorschriften angegebene Anschrift und die E-Mail-Adresse des Hinterlegers;
+  - iii)[^9-3] gegebenenfalls den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift, sowie die E-Mail-Adresse des Vertreters;
   - iv) falls der Hinterleger sich aufgrund der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums die Priorität einer früheren Anmeldung zunutze zu machen wünscht, eine Erklärung, in der die Priorität dieser früheren Anmeldung beansprucht wird, zusammen mit der Angabe des Namens der Behörde, bei der die Anmeldung eingereicht wurde, und des Datums sowie, falls vorhanden, die Nummer dieser Anmeldung und, falls sich die frühere Anmeldung nicht auf alle in dem internationalen Gesuch aufgeführten Waren und Dienstleistungen bezieht, die Angabe der Waren und Dienstleistungen, auf die sich die frühere Anmeldung bezieht;
-  - v)[^chap2-lvlu2-4] eine Abbildung der Marke, die gemäss den Verwaltungsvorschriften eingereicht wird, muss in Farbe sein, wenn die Farbe gemäss Ziffer vii) beansprucht wird;
+  - v)[^9-4] eine Abbildung der Marke, die gemäss den Verwaltungsvorschriften eingereicht wird, muss in Farbe sein, wenn die Farbe gemäss Ziffer vii) beansprucht wird;
   - vi) falls der Hinterleger wünscht, dass die Marke als Marke in Standardschriftzeichen angesehen wird, eine dahin gehende Erklärung;
-  - vii)[^chap2-lvlu2-5] falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder der Hinterleger Farbe als unterscheidendes Merkmal der Marke beanspruchen möchte und die im Basisgesuch oder der Basiseintragung enthaltene Marke in Farbe ist, in Farbe geschützt ist, oder der Schutz der Farbe beantragt wurde, die Angabe, dass Farbe beansprucht wird, und die Angabe der beanspruchten Farbe oder Farbenzusammenstellung in Worten;
+  - vii)[^9-5] falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder der Hinterleger Farbe als unterscheidendes Merkmal der Marke beanspruchen möchte und die im Basisgesuch oder der Basiseintragung enthaltene Marke in Farbe ist, in Farbe geschützt ist, oder der Schutz der Farbe beantragt wurde, die Angabe, dass Farbe beansprucht wird, und die Angabe der beanspruchten Farbe oder Farbenzusammenstellung in Worten;
   - [tab] vii<sup>bis</sup> falls die Marke, die Gegenstand des Basisgesuchs oder der Basiseintragung ist, aus einer Farbe oder einer Kombination von Farben an sich besteht, eine dahingehende Angabe;
   - viii) falls sich das Basisgesuch oder die Basiseintragung auf eine dreidimensionale Marke bezieht, die Angabe «three-dimensional mark»/«marque tridimensionnelle» («dreidimensionale Marke»);
   - ix) falls sich das Basisgesuch oder die Basiseintragung auf ein Hörzeichen bezieht, die Angabe «sound mark»/«marque sonore» («Hörzeichen»);
@@ -365,8 +388,6 @@ Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nac
   - v) falls der Hinterleger auf den Schutz eines Bestandteils der Marke verzichten möchte, einen dahingehenden Hinweis und die Angabe des Bestandteils oder der Bestandteile, bei welchen auf Schutz verzichtet wird;
   - vi) eine Beschreibung der Marke in Worten oder, wenn der Hinterleger dies wünscht, die im Basisgesuch oder der Basiseintragung enthaltene Beschreibung der Marke in Worten, wenn diese nicht nach Absatz 4 Buchstabe a Ziffer xi eingereicht worden ist.
 
-\5) [Zusätzlicher Inhalt des internationalen Gesuchs]
-
 - a) …
 - b)
 
@@ -386,7 +407,7 @@ Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nac
   - ii) dass der in dem internationalen Gesuch genannte Hinterleger und der Inhaber der Basiseintragung dieselbe Person ist;
   - iii) dass jede in Absatz 4 Buchstabe a Ziffern viibis bis xi genannte und im internationalen Gesuch gemachte Angabe auch im Basisgesuch beziehungsweise in der Basiseintragung gemacht wurde;
   - iv) dass die Marke, die Gegenstand des internationalen Gesuchs ist, dieselbe ist wie im Basisgesuch beziehungsweise in der Basiseintragung;
-  - v)[^chap2-lvlu2-6] dass, falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder, falls für die Marke im Basisgesuch oder der Basiseintragung der Schutz der Farbe beantragt wurde oder die Marke in Farbe geschützt ist, ein Farbanspruch in das internationale Gesuch aufgenommen wird, oder, falls Farbe als unterscheidendes Merkmal der Marke im internationalen Gesuch beansprucht wird, ohne im Basisgesuch oder der Basiseintragung beansprucht worden zu sein, die Marke im Basisgesuch oder der Basiseintragung tatsächlich in der beanspruchten Farbe oder Farbkombination ist; und
+  - v)[^9-6] dass, falls Farbe als unterscheidendes Merkmal der Marke im Basisgesuch oder der Basiseintragung beansprucht wird, oder, falls für die Marke im Basisgesuch oder der Basiseintragung der Schutz der Farbe beantragt wurde oder die Marke in Farbe geschützt ist, ein Farbanspruch in das internationale Gesuch aufgenommen wird, oder, falls Farbe als unterscheidendes Merkmal der Marke im internationalen Gesuch beansprucht wird, ohne im Basisgesuch oder der Basiseintragung beansprucht worden zu sein, die Marke im Basisgesuch oder der Basiseintragung tatsächlich in der beanspruchten Farbe oder Farbkombination ist; und
   - vi) dass die im internationalen Gesuch angegebenen Waren und Dienstleistungen von dem Verzeichnis der Waren und Dienstleistungen des Basisgesuchs beziehungsweise der Basiseintragung erfasst sind.
 
 - e) Stützt sich das internationale Gesuch auf zwei oder mehr Basisgesuche oder Basiseintragungen, so gilt die unter Buchstabe d genannte Erklärung als auf alle jene Basisgesuche oder Basiseintragungen anwendbar.
@@ -401,16 +422,16 @@ Die für das internationale Gesuch geltenden vorgeschriebenen Gebühren sind nac
   - i) falls der Hinterleger nach dem Recht dieser Vertragsorganisation den Zeitrang einer oder mehrerer älterer Marken beansprucht, die in einem oder für einen Mitgliedstaat dieser Organisation eingetragen sind, eine dahin gehende Erklärung, in welcher der Mitgliedstaat oder die Mitgliedstaaten angegeben werden, in denen oder für die die ältere Marke eingetragen ist, das Datums des Wirksamwerdens der betreffenden Registrierung, die Nummer der betreffenden Registrierung und die Waren und Dienstleistungen, für die die ältere Marke eingetragen ist. Diese Angaben sind dem internationalen Gesuch auf einem amtlichen Formblatt beizufügen.
   - ii) wenn der Hinterleger nach dem Recht der Vertragsorganisation zusätzlich zu der Sprache des internationalen Gesuches eine zweite Arbeitssprache vor der Behörde der Vertragsorganisation angeben muss, die Angabe dieser zweiten Sprache.
 
-6)–7) …
+[^9-1]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^9-2]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^9-3]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^9-4]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^9-5]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^9-6]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
-[^chap2-lvlu2-1]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^chap2-lvlu2-2]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^chap2-lvlu2-3]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^chap2-lvlu2-4]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^chap2-lvlu2-5]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^chap2-lvlu2-6]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+#### Regel 10
 
-### **Regel 10**Gebühren für das internationale Gesuch
+**Gebühren für das internationale Gesuch**
 
 \1) …
 
@@ -420,21 +441,33 @@ Für das internationale Gesuch ist die Zahlung der unter Nummer 2 des Gebührenv
 
 \3) …
 
-### **Regel 11**Andere als die Klassifikation der Waren und Dienstleistungen betreffende Mängel
+#### Regel 11
+
+**Andere als die Klassifikation der Waren und Dienstleistungen betreffende Mängel**
 
 \1) …
 
 \2) [Vom Hinterleger zu behebende Mängel]
 
+\3) [Von dem Hinterleger oder der Ursprungsbehörde zu behebende Mängel]
+
+\4) [Von der Ursprungsbehörde zu behebende Mängel]
+
+\5) [Erstattung von Gebühren]
+
+Gilt das internationale Gesuch nach Absatz 2 Buchstabe b, Absatz 3 oder Absatz 4 Buchstabe b als zurückgenommen, so erstattet das Internationale Büro dem Einzahler die für das Gesuch entrichteten Gebühren nach Abzug eines Betrags in Höhe der halben unter Nummer 2.1.1 des Gebührenverzeichnisses genannten Grundgebühr zurück.
+
+\6) [Andere Mängel in bezog auf die Benennung einer Vertragspartei]
+
+\7) [Internationales Gesuch, das nicht als solches betrachtet wird]
+
+Wird das internationale Gesuch vom Hinterleger unmittelbar beim Internationalen Büro eingereicht oder entspricht es nicht dem Erfordernis der Regel 6 Absatz 1, so wird das internationale Gesuch nicht als solches betrachtet und wird an den Absender zurückgesandt.
+
 - a) Enthält das internationale Gesuch nach Auffassung des Internationalen Büros andere als die in den Absätzen 3, 4 und 6 und in den Regeln 12 und 13 genannten Mängel, so teilt es dem Hinterleger den Mangel mit und benachrichtigt gleichzeitig die Ursprungsbehörde.
 - b) Diese Mängel können vom Hinterleger innerhalb von drei Monaten nach dem Datum behoben werden, an dem das Internationale Büro den Mangel mitgeteilt hat. Wird ein Mangel nicht innerhalb von drei Monaten nach dem Datum behoben, an dem das Internationale Büro den Mangel mitgeteilt hat, so gilt das internationale Gesuch als zurückgenommen, und das Internationale Büro benachrichtigt davon gleichzeitig den Hinterleger und die Ursprungsbehörde.
 
-\3) [Von dem Hinterleger oder der Ursprungsbehörde zu behebende Mängel]
-
 - a) Sind ungeachtet des Absatzes 2 die nach Regel 10 zu entrichtenden Gebühren von der Ursprungsbehörde an das Internationale Büro entrichtet worden und liegt der eingegangene Gebührenbetrag nach Auffassung des Internationalen Büros unter dem erforderlichen Betrag, so teilt es dies gleichzeitig der Ursprungsbehörde und dem Hinterleger mit. Der Fehlbetrag wird in der Mitteilung angegeben.
 - b) Der Fehlbetrag kann von der Ursprungsbehörde oder vom Hinterleger innerhalb von drei Monaten nach dem Datum der Mitteilung durch das Internationale Büro entrichtet werden. Wird der Fehlbetrag nicht innerhalb von drei Monaten nach dem Datum entrichtet, an dem das Internationale Büro den Mangel mitgeteilt hat, so gilt das internationale Gesuch als zurückgenommen, und das Internationale Büro benachrichtigt davon gleichzeitig die Ursprungsbehörde und den Hinterleger.
-
-\4) [Von der Ursprungsbehörde zu behebende Mängel]
 
 - a)
 
@@ -451,26 +484,15 @@ Für das internationale Gesuch ist die Zahlung der unter Nummer 2 des Gebührenv
 - so teilt es dies der Ursprungsbehörde mit und benachrichtigt gleichzeitig den Hinterleger.
 - b) Mängel dieser Art können von der Ursprungsbehörde innerhalb von drei Monaten nach dem Datum behoben werden, an dem das Internationale Büro den Mangel mitgeteilt hat. Wird ein Mangel nicht innerhalb von drei Monaten nach dem Datum behoben, an dem das Internationale Büro ihn mitgeteilt hat, so gilt das internationale Gesuch als zurückgenommen, und das Internationale Büro benachrichtigt davon gleichzeitig die Ursprungsbehörde und den Hinterleger.
 
-\5) [Erstattung von Gebühren]
-
-Gilt das internationale Gesuch nach Absatz 2 Buchstabe b, Absatz 3 oder Absatz 4 Buchstabe b als zurückgenommen, so erstattet das Internationale Büro dem Einzahler die für das Gesuch entrichteten Gebühren nach Abzug eines Betrags in Höhe der halben unter Nummer 2.1.1 des Gebührenverzeichnisses genannten Grundgebühr zurück.
-
-\6) [Andere Mängel in bezog auf die Benennung einer Vertragspartei]
-
 - a) Geht ein internationales Gesuch nach Artikel 3 Absatz 4 des Protokolls beim Internationalen Büro innerhalb von zwei Monaten nach Eingang desselben internationalen Gesuchs bei der Ursprungsbehörde ein, und ist das Internationale Büro der Auffassung, dass eine Erklärung über die beabsichtigte Benutzung der Marke nach Regel 9 Absatz 5 Buchstabe f erforderlich ist, diese jedoch fehlt oder den geltenden Erfordernissen nicht entspricht, so teilt das Internationale Büro dies umgehend und gleichzeitig dem Hinterleger und der Ursprungsbehörde mit.
 - b) Die Erklärung über die beabsichtigte Benutzung der Marke gilt als zusammen mit dem internationalen Gesuch beim Internationalen Büro eingegangen, wenn die fehlende oder berichtigte Erklärung beim Internationalen Büro innerhalb des unter Buchstabe a genannten Zeitraums von zwei Monaten eingeht.
 - c) Das internationale Gesuch gilt als ohne die Benennung einer Vertragspartei hinterlegt, für welche eine Erklärung über die beabsichtigte Benutzung der Marke erforderlich ist, wenn die fehlende oder berichtigte Erklärung nach Ablauf des unter Buchstabe b genannten Zeitraums von zwei Monaten eingeht. Das Internationale Büro teilt dies gleichzeitig dem Hinterleger und der Ursprungsbehörde mit, erstattet die für diese Vertragspartei bereits entrichtete Benennungsgebühr und weist darauf hin, dass die Benennung dieser Vertragspartei als nachträgliche Benennung nach Regel 24 erfolgen kann, sofern dieser Benennung die erforderliche Erklärung beigefügt ist.
 
-\7) [Internationales Gesuch, das nicht als solches betrachtet wird]
+#### Regel 12
 
-Wird das internationale Gesuch vom Hinterleger unmittelbar beim Internationalen Büro eingereicht oder entspricht es nicht dem Erfordernis der Regel 6 Absatz 1, so wird das internationale Gesuch nicht als solches betrachtet und wird an den Absender zurückgesandt.
-
-### **Regel 12**Mängel in Bezug auf die Klassifikation der Waren und Dienstleistungen
+**Mängel in Bezug auf die Klassifikation der Waren und Dienstleistungen**
 
 \1) [Klassifikationsvorschlag]
-
-- a) Sind nach Auffassung des Internationalen Büros die Erfordernisse der Regel 9 Absatz 4 Buchstabe a Ziffer xiii nicht erfüllt, so unterbreitet das Internationale Büro für die Klassifikation und Gruppierung einen eigenen Vorschlag, übersendet der Ursprungsbehörde eine Mitteilung über seinen Vorschlag und benachrichtigt gleichzeitig den Hinterleger.
-- b) In der Mitteilung wird gegebenenfalls auch der Betrag der aufgrund der vorgeschlagenen Klassifikation und Gruppierung fälligen Gebühren angegeben.
 
 \2) [Von dem Vorschlag abweichende Stellungnahme]
 
@@ -494,10 +516,6 @@ Bestätigt das Internationale Büro ungeachtet der in Absatz 2 genannten Stellun
 
 \7) [Gebühren]
 
-- a) Ist dem Internationalen Büro keine Stellungnahme nach Absatz 2 übermittelt worden, so ist der in Absatz 1 Buchstabe b genannte Betrag innerhalb von vier Monaten nach dem Datum der in Absatz 1 Buchstabe a genannten Mitteilungen zu zahlen; andernfalls gilt das internationale Gesuch als zurückgenommen, und das Internationale Büro teilt dies der Ursprungsbehörde mit und benachrichtigt gleichzeitig den Hinterleger.
-- b) Ist dem Internationalen Büro eine Stellungnahme nach Absatz 2 übermittelt worden, so ist der in Absatz 1 Buchstabe b oder gegebenenfalls in Absatz 5 genannte Betrag innerhalb von drei Monaten nach dem Datum der Mitteilung des Internationalen Büros über die Änderung oder Bestätigung seines Vorschlags nach Absatz 5 beziehungsweise Absatz 6 zu zahlen; andernfalls gilt das internationale Gesuch als zurückgenommen, und das Internationale Büro teilt dies der Ursprungsbehörde mit und benachrichtigt gleichzeitig den Hinterleger.
-- c) Ist dem Internationalen Büro eine Stellungnahme nach Absatz 2 übermittelt worden und nimmt das Internationale Büro aufgrund dieser Stellungnahme seinen Vorschlag nach Absatz 4 zurück, so wird der in Absatz 1 Buchstabe b genannte Betrag nicht fällig.
-
 \8) [Erstattung der Gebühren]
 
 Gilt das internationale Gesuch nach Absatz 7 als zurückgenommen, so erstattet das Internationale Büro dem Einzahler die für dieses Gesuch entrichteten Gebühren nach Abzug eines Betrags in Höhe der halben unter Nummer 2.1.1 des Gebührenverzeichnisses genannten Grundgebühr zurück.
@@ -510,7 +528,16 @@ Das Internationale Büro prüft die in einem internationalen Gesuch enthaltenen 
 
 Vorbehaltlich der Übereinstimmung des internationalen Gesuchs mit den sonstigen massgeblichen Erfordernissen wird die Marke mit der Klassifikation und Gruppierung eingetragen, die das Internationale Büro für richtig erachtet.
 
-### **Regel 13**Mängel in Bezug auf die Angabe der Waren und Dienstleistungen
+- a) Sind nach Auffassung des Internationalen Büros die Erfordernisse der Regel 9 Absatz 4 Buchstabe a Ziffer xiii nicht erfüllt, so unterbreitet das Internationale Büro für die Klassifikation und Gruppierung einen eigenen Vorschlag, übersendet der Ursprungsbehörde eine Mitteilung über seinen Vorschlag und benachrichtigt gleichzeitig den Hinterleger.
+- b) In der Mitteilung wird gegebenenfalls auch der Betrag der aufgrund der vorgeschlagenen Klassifikation und Gruppierung fälligen Gebühren angegeben.
+
+- a) Ist dem Internationalen Büro keine Stellungnahme nach Absatz 2 übermittelt worden, so ist der in Absatz 1 Buchstabe b genannte Betrag innerhalb von vier Monaten nach dem Datum der in Absatz 1 Buchstabe a genannten Mitteilungen zu zahlen; andernfalls gilt das internationale Gesuch als zurückgenommen, und das Internationale Büro teilt dies der Ursprungsbehörde mit und benachrichtigt gleichzeitig den Hinterleger.
+- b) Ist dem Internationalen Büro eine Stellungnahme nach Absatz 2 übermittelt worden, so ist der in Absatz 1 Buchstabe b oder gegebenenfalls in Absatz 5 genannte Betrag innerhalb von drei Monaten nach dem Datum der Mitteilung des Internationalen Büros über die Änderung oder Bestätigung seines Vorschlags nach Absatz 5 beziehungsweise Absatz 6 zu zahlen; andernfalls gilt das internationale Gesuch als zurückgenommen, und das Internationale Büro teilt dies der Ursprungsbehörde mit und benachrichtigt gleichzeitig den Hinterleger.
+- c) Ist dem Internationalen Büro eine Stellungnahme nach Absatz 2 übermittelt worden und nimmt das Internationale Büro aufgrund dieser Stellungnahme seinen Vorschlag nach Absatz 4 zurück, so wird der in Absatz 1 Buchstabe b genannte Betrag nicht fällig.
+
+#### Regel 13
+
+**Mängel in Bezug auf die Angabe der Waren und Dienstleistungen**
 
 \1) [Mitteilung von Mängeln durch das Internationale Büro an die Ursprungsbehörde]
 
@@ -523,7 +550,9 @@ Ist das Internationale Büro der Auffassung, dass Waren oder Dienstleistungen im
 
 ## Kapitel 3 Internationale Registrierungen
 
-### **Regel 14**Eintragung der Marke im internationalen Register
+#### Regel 14
+
+**Eintragung der Marke im internationalen Register**
 
 \1) [Eintragung der Marke im internationalen Register]
 
@@ -540,9 +569,15 @@ Die internationale Registrierung enthält folgendes:
 - v) …
 - vi) dem internationalen Gesuch gemäss Regel 9 Absatz 5) Buchstabe g) Ziffer i) beigefügte Angaben betreffend den Mitgliedstaat oder die Mitgliedstaaten, in denen oder für die eine ältere Marke, deren Zeitrang beansprucht wird, eingetragen ist, das Datum des Wirksamwerdens der Eintragung dieser älteren Marke und die Nummer der entsprechenden Registrierung.
 
-### **Regel 15**Datum der internationalen Registrierung
+#### Regel 15
+
+**Datum der internationalen Registrierung**
 
 \1) [Mängel, die das Datum der internationalen Registrierung berühren]
+
+\2) [Datum der internationalen Registrierung in sonstigen Fällen]
+
+In allen sonstigen Fällen trägt die internationale Registrierung das nach Artikel 3 Absatz 4 des Protokolls bestimmte Datum.
 
 - a)
 
@@ -550,40 +585,56 @@ Die internationale Registrierung enthält folgendes:
 
   - i) Angaben, welche die Feststellung der Identität des Hinterlegers gestatten und ausreichen, um mit dem Hinterleger oder gegebenenfalls dem Vertreter in Verbindung zu treten,
   - ii) die benannten Vertragsparteien;
-  - iii)[^chap3-lvlu2-1] eine Abbildung der Marke;
+  - iii)[^15-1] eine Abbildung der Marke;
   - iv) die Angabe der Waren und Dienstleistungen, für die um Registrierung der Marke nachgesucht wird,
 
 - so trägt die internationale Registrierung das Datum des Tages, an dem der letzte fehlende Bestandteil beim Internationalen Büro eingegangen ist; geht der letzte der fehlenden Bestandteile jedoch innerhalb der in Artikel 3 Absatz 4 des Protokolls genannten Frist von zwei Monaten beim Internationalen Büro ein, so trägt die internationale Registrierung das Datum des Tages, an dem das fehlerhafte internationale Gesuch bei der Ursprungsbehörde eingegangen ist.
 - b) …
 
-\2) [Datum der internationalen Registrierung in sonstigen Fällen]
-
-In allen sonstigen Fällen trägt die internationale Registrierung das nach Artikel 3 Absatz 4 des Protokolls bestimmte Datum.
-
-[^chap3-lvlu2-1]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^15-1]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
 
 ## Kapitel 4 Sachverhalte bei den Vertragsparteien, die internationale Registrierungen berühren
 
-### **Regel 16**Möglichkeit der Mitteilung über eine vorläufige Schutzverweigerung, die auf einen Widerspruch nach Artikel 5 Absatz 2 Buchstabe c des Protokolls gestützt ist
+#### Regel 16
+
+**Möglichkeit der Mitteilung über eine vorläufige Schutzverweigerung, die auf einen Widerspruch nach Artikel 5 Absatz 2 Buchstabe c des Protokolls gestützt ist**
 
 \1) [Mitteilung bezüglich möglicher Widersprüche und Frist für die Mitteilung über eine vorläufige Schutzverweigerung, die auf einen Widerspruch gestützt ist]
-
-- a) Hat eine Vertragspartei eine Erklärung nach Artikel 5 Absatz 2 Buchstaben b und c erster Satz des Protokolls abgegeben, so teilt die Behörde dieser Vertragspartei, vorbehältlich des Artikels 9<sup>sexies</sup> Absatz 1 Buchstabe b des Protokolls, dem Internationalen Büro die Nummer und den Namen des Inhabers dieser internationalen Registrierung mit, wenn es bezüglich einer bestimmten internationalen Registrierung, in der diese Vertragspartei benannt worden ist, offensichtlich geworden ist, dass die Widerspruchsfirst zu spät abläuft, um eine auf einen Widerspruch gestützte vorläufige Schutzverweigerung dem Internationalen Büro innerhalb der in Artikel 5 Absatz 2 Buchstabe b genannten Frist von 18 Monaten mitzuteilen.
-- b) Sind zum Zeitpunkt der Übermittlung der unter Buchstabe a genannten Mitteilung die Daten des Beginns und des Endes der Widerspruchsfrist bekannt, so werden diese in der Benachrichtigung angegeben. Sind die Daten zu dem betreffenden Zeitpunkt noch nicht bekannt, so werden sie dem Internationalen Büro mitgeteilt, sobald sie bekannt sind.
-- c) Findet Buchstabe a Anwendung und hat die dort genannte Behörde vor Ablauf der dort genannten Frist von 18 Monaten dem Internationalen Büro mitgeteilt, dass die Frist zur Einlegung von Widersprüchen innerhalb von 30 Tagen vor Ablauf der Frist von 18 Monaten abläuft und dass während dieser 30 Tage die Möglichkeit zur Einlegung von Widersprüchen besteht, so kann dem Internationalen Büro innerhalb eines Monats nach Einlegung des Widerspruchs eine vorläufige Schutzverweigerung, die sich auf einen innerhalb dieser 30 Tage eingelegten Widerspruch stützt, mitgeteilt werden.
 
 \2) [Eintragung und Übermittlung der Mitteilung]
 
 Das Internationale Büro trägt die nach Absatz 1 eingegangene Mitteilung im internationalen Register ein und übermittelt sie an den Inhaber.
 
-### **Regel 17**Vorläufige Schutzverweigerung
+- a) Hat eine Vertragspartei eine Erklärung nach Artikel 5 Absatz 2 Buchstaben b und c erster Satz des Protokolls abgegeben, so teilt die Behörde dieser Vertragspartei, vorbehältlich des Artikels 9<sup>sexies</sup> Absatz 1 Buchstabe b des Protokolls, dem Internationalen Büro die Nummer und den Namen des Inhabers dieser internationalen Registrierung mit, wenn es bezüglich einer bestimmten internationalen Registrierung, in der diese Vertragspartei benannt worden ist, offensichtlich geworden ist, dass die Widerspruchsfirst zu spät abläuft, um eine auf einen Widerspruch gestützte vorläufige Schutzverweigerung dem Internationalen Büro innerhalb der in Artikel 5 Absatz 2 Buchstabe b genannten Frist von 18 Monaten mitzuteilen.
+- b) Sind zum Zeitpunkt der Übermittlung der unter Buchstabe a genannten Mitteilung die Daten des Beginns und des Endes der Widerspruchsfrist bekannt, so werden diese in der Benachrichtigung angegeben. Sind die Daten zu dem betreffenden Zeitpunkt noch nicht bekannt, so werden sie dem Internationalen Büro mitgeteilt, sobald sie bekannt sind.
+- c) Findet Buchstabe a Anwendung und hat die dort genannte Behörde vor Ablauf der dort genannten Frist von 18 Monaten dem Internationalen Büro mitgeteilt, dass die Frist zur Einlegung von Widersprüchen innerhalb von 30 Tagen vor Ablauf der Frist von 18 Monaten abläuft und dass während dieser 30 Tage die Möglichkeit zur Einlegung von Widersprüchen besteht, so kann dem Internationalen Büro innerhalb eines Monats nach Einlegung des Widerspruchs eine vorläufige Schutzverweigerung, die sich auf einen innerhalb dieser 30 Tage eingelegten Widerspruch stützt, mitgeteilt werden.
+
+#### Regel 17
+
+**Vorläufige Schutzverweigerung**
 
 \1) [Mitteilung der vorläufigen Schutzverweigerung]
 
+\2) [Inhalt der Mitteilung]
+
+\3) [Zusätzliche Erfordernisse bezüglich der Mitteilung über eine auf einen Widerspruch gestützte vorläufige Schutzverweigerung]
+
+Stützt sich die vorläufige Schutzverweigerung auf einen Widerspruch oder auf einen Widerspruch und andere Gründe, so hat die Mitteilung nicht nur die in Absatz 2 genannten Erfordernisse zu erfüllen, sondern auch einen dahin gehenden Hinweis und den Namen des Widersprechenden und des Vertreters, gegebenenfalls ihre Anschrift, sofern möglich, zu enthalten; ungeachtet des Absatzes 2 Ziffer v muss jedoch die mitteilende Behörde im Fall eines Widerspruchs, der sich auf eine Marke stützt, die Gegenstand einer Anmeldung oder einer Eintragung war, das Verzeichnis der Waren und Dienstleistungen übermitteln, auf die sich der Widerspruch stützt, und kann zusätzlich das vollständige Verzeichnis der Waren und Dienstleistungen dieser früheren Anmeldung oder dieser früheren Eintragung mitteilen, wobei diese Verzeichnisse in der Sprache der früheren Anmeldung oder der früheren Eintragung abgefasst sein können.[^17-1]
+
+\4) [Eintragung; Übermittlung von Kopien der Mitteilungen]
+
+Das internationale Büro trägt die vorläufige Schutzverweigerung im internationalen Register zusammen mit den in der Mitteilung enthaltenen Angaben und mit Angabe des Datums ein, an dem die Mitteilung an das Internationale Büro abgesandt wurde oder nach Regel 18 Absatz 1 Buchstabe d als an das Internationale Büro abgesandt betrachtet wird, und übermittelt eine Kopie hiervon an die Ursprungsbehörde, falls diese Behörde gegenüber dem Internationalen Büro mitgeteilt hat, dass es solche Kopien zu erhalten wünscht, sowie gleichzeitig an den Inhaber.
+
+\5) [Bestätigung oder Rücknahme einer vorläufigen Schutzverweigerung]
+
+\6) …
+
+\7) [Informationen bezüglich der Antwortfrist auf eine vorläufige Schutzverweigerung]
+
+Die Vertragsparteien teilen dem Internationalen Büro die in Absatz 2 Ziffer vii vorgesehene Frist mit, sowie die Art und Weise, wie diese Frist berechnet wird.[^17-2]
+
 - a) Eine Mitteilung über die vorläufige Schutzverweigerung kann eine Erklärung der mitteilenden Behörde mit einer Begründung für deren Auffassung, dass der Schutz in der betroffenen Vertragspartei nicht gewährt werden kann («vorläufige Schutzverweigerung von Amts wegen»), oder eine Erklärung, dass der Schutz in der betroffenen Vertragspartei nicht gewährt werden kann, weil Widerspruch eingelegt worden ist («vorläufige auf einen Widerspruch gestützte Schutzverweigerung»), oder beide Erklärungen enthalten.
 - b) Eine Mitteilung über die vorläufige Schutzverweigerung bezieht sich auf eine einzige internationale Registrierung; sie ist mit einem Datum zu versehen und von der mitteilenden Behörde zu unterschreiben.
-
-\2) [Inhalt der Mitteilung]
 
 Eine Mitteilung über die vorläufige Schutzverweigerung hat folgendes zu enthalten oder anzugeben:
 
@@ -591,22 +642,12 @@ Eine Mitteilung über die vorläufige Schutzverweigerung hat folgendes zu enthal
 - ii) die Nummer der internationalen Registrierung, vorzugsweise versehen mit anderen Angaben, die die Identifizierung der internationalen Registrierung erlauben, wie zum Beispiel Wortbestandteile der Marke oder die Nummer des Basisgesuchs oder der Basiseintragung;
 - iii) …
 - iv) alle Gründe, auf die sich die vorläufige Schutzverweigerung stützt, mit einem Hinweis auf die entsprechenden wesentlichen Bestimmungen des Gesetzes;
-- v)[^chap4-lvlu2-1] beziehen sich die Gründe, auf die sich die vorläufige Schutzverweigerung stützt, auf eine Marke, die Gegenstand einer Anmeldung oder einer Eintragung gewesen ist und mit der die Marke, die Gegenstand der internationalen Registrierung ist, offenbar kollidiert, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung, den Namen des Inhabers und des Vertreters, gegebenenfalls ihre Anschrift, sofern möglich, sowie eine Abbildung der früheren Marke, oder Angaben dazu wie man darauf zugreifen kann, zusammen mit einem Verzeichnis sämtlicher oder der betroffenen Waren und Dienstleistungen in der Anmeldung oder der Eintragung der früheren Marke, wobei dieses Verzeichnis in der Sprache dieser Anmeldung oder dieser Eintragung abgefasst sein kann;
+- v)[^17-3] beziehen sich die Gründe, auf die sich die vorläufige Schutzverweigerung stützt, auf eine Marke, die Gegenstand einer Anmeldung oder einer Eintragung gewesen ist und mit der die Marke, die Gegenstand der internationalen Registrierung ist, offenbar kollidiert, das Anmeldedatum und die Anmeldenummer, gegebenenfalls das Prioritätsdatum, das Datum und die Nummer der Eintragung, den Namen des Inhabers und des Vertreters, gegebenenfalls ihre Anschrift, sofern möglich, sowie eine Abbildung der früheren Marke, oder Angaben dazu wie man darauf zugreifen kann, zusammen mit einem Verzeichnis sämtlicher oder der betroffenen Waren und Dienstleistungen in der Anmeldung oder der Eintragung der früheren Marke, wobei dieses Verzeichnis in der Sprache dieser Anmeldung oder dieser Eintragung abgefasst sein kann;
 - vi) entweder, dass die Gründe, auf die die vorläufige Schutzverweigerung gestützt ist, alle Waren und Dienstleistungen berühren oder eine Angabe der Waren und Dienstleistungen, die von der vorläufigen Schutzverweigerung berührt beziehungsweise nicht berührt sind;
-- vii)[^chap4-lvlu2-2] die Frist von mindestens zwei Monaten[^chap4-lvlu2-3] zur Einreichung des Antrags auf Überprüfung oder Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise zur Einreichung einer Erwiderung auf den Widerspruch;
-- viii)[^chap4-lvlu2-4] die Angabe des Datums an dem die in Absatz 2 Ziffer vii angegebene Frist beginnt und endet, wenn besagte Frist an einem anderen Datum beginnt, als jenes an welchem das Internationale Büro dem Inhaber eine Kopie der Mitteilung zustellt, oder jenes an welchem der Inhaber besagte Kopie erhält;
-- ix)[^chap4-lvlu2-5] die für diesen Antrag auf Überprüfung, diese Beschwerde oder diese Erwiderung zuständige Behörde; und
-- x)[^chap4-lvlu2-6] gegebenenfalls einen Hinweis, dass der Antrag auf Überprüfung, die Beschwerde oder die Erwiderung über einen Vertreter einzureichen ist, dessen Anschrift sich innerhalb des Gebiets der Vertragspartei befindet, deren Behörde die Schutzverweigerung ausgesprochen hat.
-
-\3) [Zusätzliche Erfordernisse bezüglich der Mitteilung über eine auf einen Widerspruch gestützte vorläufige Schutzverweigerung]
-
-Stützt sich die vorläufige Schutzverweigerung auf einen Widerspruch oder auf einen Widerspruch und andere Gründe, so hat die Mitteilung nicht nur die in Absatz 2 genannten Erfordernisse zu erfüllen, sondern auch einen dahin gehenden Hinweis und den Namen des Widersprechenden und des Vertreters, gegebenenfalls ihre Anschrift, sofern möglich, zu enthalten; ungeachtet des Absatzes 2 Ziffer v muss jedoch die mitteilende Behörde im Fall eines Widerspruchs, der sich auf eine Marke stützt, die Gegenstand einer Anmeldung oder einer Eintragung war, das Verzeichnis der Waren und Dienstleistungen übermitteln, auf die sich der Widerspruch stützt, und kann zusätzlich das vollständige Verzeichnis der Waren und Dienstleistungen dieser früheren Anmeldung oder dieser früheren Eintragung mitteilen, wobei diese Verzeichnisse in der Sprache der früheren Anmeldung oder der früheren Eintragung abgefasst sein können.[^chap4-lvlu2-7]
-
-\4) [Eintragung; Übermittlung von Kopien der Mitteilungen]
-
-Das internationale Büro trägt die vorläufige Schutzverweigerung im internationalen Register zusammen mit den in der Mitteilung enthaltenen Angaben und mit Angabe des Datums ein, an dem die Mitteilung an das Internationale Büro abgesandt wurde oder nach Regel 18 Absatz 1 Buchstabe d als an das Internationale Büro abgesandt betrachtet wird, und übermittelt eine Kopie hiervon an die Ursprungsbehörde, falls diese Behörde gegenüber dem Internationalen Büro mitgeteilt hat, dass es solche Kopien zu erhalten wünscht, sowie gleichzeitig an den Inhaber.
-
-\5) [Bestätigung oder Rücknahme einer vorläufigen Schutzverweigerung]
+- vii)[^17-4] die Frist von mindestens zwei Monaten[^17-5] zur Einreichung des Antrags auf Überprüfung oder Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise zur Einreichung einer Erwiderung auf den Widerspruch;
+- viii)[^17-6] die Angabe des Datums an dem die in Absatz 2 Ziffer vii angegebene Frist beginnt und endet, wenn besagte Frist an einem anderen Datum beginnt, als jenes an welchem das Internationale Büro dem Inhaber eine Kopie der Mitteilung zustellt, oder jenes an welchem der Inhaber besagte Kopie erhält;
+- ix)[^17-7] die für diesen Antrag auf Überprüfung, diese Beschwerde oder diese Erwiderung zuständige Behörde; und
+- x)[^17-8] gegebenenfalls einen Hinweis, dass der Antrag auf Überprüfung, die Beschwerde oder die Erwiderung über einen Vertreter einzureichen ist, dessen Anschrift sich innerhalb des Gebiets der Vertragspartei befindet, deren Behörde die Schutzverweigerung ausgesprochen hat.
 
 - [tab] a)–c) …
 - d)
@@ -619,24 +660,22 @@ Das internationale Büro trägt die vorläufige Schutzverweigerung im internatio
 - Findet diese Erklärung Anwendung und ist die Behörde nicht in der Lage, dem Inhaber der betroffenen internationalen Registrierung diese Entscheidung unmittelbar mitzuteilen, muss die Behörde die in Regel 18<sup>ter</sup> Absatz 2 oder 3 genannte Erklärung an das Internationale Büro unmittelbar im Anschluss an diese Entscheidung übermitteln, ungeachtet der Tatsache, dass möglicherweise vor dieser Behörde noch nicht alle Verfahren zum Schutz der Marke abgeschlossen sind. Weitere Entscheidungen, die den Schutz der Marke berühren, sind dem Internationalen Büro nach Regel 18<sup>ter</sup> Absatz 4 zu übermitteln.
 - e) Die Behörde einer Vertragspartei kann den Generaldirektor in einer Erklärung davon unterrichten, dass nach dem Recht dieser Vertragspartei eine vorläufige Schutzverweigerung von Amts wegen, von der das Internationale Büro unterrichtet worden ist, der Überprüfung durch diese Behörde nicht zugänglich ist. Findet diese Erklärung Anwendung, so gilt eine Erklärung nach Regel 18<sup>ter</sup> Absatz 2 Ziffer ii oder Absatz 3 als in einer Mitteilung über eine vorläufige Schutzverweigerung von Amts wegen durch diese Behörde enthalten.
 
-\6) …
+[^17-1]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-2]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-3]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-4]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-5]: Die Annahme dieser Bestimmung durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass die Vertragsparteien, für welche die Gesetzgebung eine Frist von 60 Kalendertagen oder aufeinanderfolgenden Tagen vorsieht, die Bedingung von Regel 17 Absatz 2 Ziffer vii erfüllen.
+[^17-6]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-7]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^17-8]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
-\7) [Informationen bezüglich der Antwortfrist auf eine vorläufige Schutzverweigerung]
+#### Regel 18
 
-Die Vertragsparteien teilen dem Internationalen Büro die in Absatz 2 Ziffer vii vorgesehene Frist mit, sowie die Art und Weise, wie diese Frist berechnet wird.[^chap4-lvlu2-8]
-
-[^chap4-lvlu2-1]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-2]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-3]: Die Annahme dieser Bestimmung durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass die Vertragsparteien, für welche die Gesetzgebung eine Frist von 60 Kalendertagen oder aufeinanderfolgenden Tagen vorsieht, die Bedingung von Regel 17 Absatz 2 Ziffer vii erfüllen.
-[^chap4-lvlu2-4]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-5]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-6]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-7]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu2-8]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-
-### **Regel 18**Nicht vorschriftsmässige Mitteilungen über die vorläufige Schutzverweigerung
+**Nicht vorschriftsmässige Mitteilungen über die vorläufige Schutzverweigerung**
 
 \1) [Allgemeines]
+
+\2) [Mitteilung über die vorläufige Schutzverweigerung nach Artikel 5 Absatz 2 Buchstabe c des Protokolls]
 
 - a)
 
@@ -644,10 +683,10 @@ Die Vertragsparteien teilen dem Internationalen Büro die in Absatz 2 Ziffer vii
 
   - i) wenn sie keine Nummer einer internationalen Registrierung enthält, es sei denn andere in der Mitteilung enthaltene Angaben erlauben die Identifizierung der internationalen Registrierung, auf die sich die vorläufige Schutzverweigerung bezieht;
   - ii) wenn sie keine Gründe für die Schutzverweigerung nennt; oder
-  - iii)[^chap4-lvlu3-1] wenn sie dem Internationalen Büro zu spät, d. h. wenn sie nach Ablauf der gemäss Artikel 5 Absatz 2 Buchstabe a oder, vorbehaltlich des Artikels 9<sup>sexies</sup> Absatz 1 Buchstabe b des Protokolls, der gemäss Artikel 5 Absatz 2 Buchstabe b oder Buchstabe c Ziffer ii des Protokolls geltenden Frist nach dem Datum zugesandt wurde, an dem das Internationale Büro die Mitteilung über die internationale Registrierung oder die nachträgliche Benennung versendet hat.
+  - iii)[^18-1] wenn sie dem Internationalen Büro zu spät, d. h. wenn sie nach Ablauf der gemäss Artikel 5 Absatz 2 Buchstabe a oder, vorbehaltlich des Artikels 9<sup>sexies</sup> Absatz 1 Buchstabe b des Protokolls, der gemäss Artikel 5 Absatz 2 Buchstabe b oder Buchstabe c Ziffer ii des Protokolls geltenden Frist nach dem Datum zugesandt wurde, an dem das Internationale Büro die Mitteilung über die internationale Registrierung oder die nachträgliche Benennung versendet hat.
 
-- b)[^chap4-lvlu3-2] Findet Buchstabe a Anwendung, so übermittelt das Internationale Büro dem Inhaber dennoch eine Kopie der Mitteilung und benachrichtigt gleichzeitig den Inhaber und die mitteilende Behörde davon, dass die Mitteilung über die vorläufige Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird, und gibt hierfür die Gründe an.
-- c)[^chap4-lvlu3-3]
+- b)[^18-2] Findet Buchstabe a Anwendung, so übermittelt das Internationale Büro dem Inhaber dennoch eine Kopie der Mitteilung und benachrichtigt gleichzeitig den Inhaber und die mitteilende Behörde davon, dass die Mitteilung über die vorläufige Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird, und gibt hierfür die Gründe an.
+- c)[^18-3]
 
   Falls die Mitteilung:
 
@@ -658,46 +697,43 @@ Die Vertragsparteien teilen dem Internationalen Büro die in Absatz 2 Ziffer vii
   - vi) gegebenenfalls nicht den Namen und die Anschrift des Widersprechenden sowie die Angabe der Waren und Dienstleistungen enthält, auf die sich der Widerspruch stützt (Regel 17 Absatz 3),
 
 - so trägt das Internationale Büro die vorläufige Schutzverweigerung trotzdem in das internationale Register ein. Das Internationale Büro fordert die Behörde, welche die vorläufige Schutzverweigerung mitgeteilt hat, auf, eine berichtigte Mitteilung innerhalb von zwei Monaten nach der Aufforderung zu übermitteln, und übermittelt Kopien der nicht vorschriftsmässigen Mitteilung und der der beteiligten Behörde zugeleiteten Aufforderung an den Inhaber.
-- d)[^chap4-lvlu3-4] Entspricht die Mitteilung nicht den Erfordernissen der Regel 17 Absatz 2 Ziffer vii bis x, so wird die vorläufige Schutzverweigerung nicht als solche betrachtet und wird nicht in das internationale Register eingetragen. Das Internationale Büro informiert die Behörde, welche die vorläufige Schutzverweigerung ausgesprochen hat, gibt die Gründe dafür an und leitet dem Inhaber eine Kopie der fehlerhaften Mitteilung weiter. Sendet die Behörde jedoch eine berichtigte Mitteilung innerhalb von zwei Monaten ab dem Datum, an dem das Internationale Büro diese Behörde über die fehlerhafte Mitteilung informiert hat, so gilt die berichtigte Mitteilung für die Zwecke von Artikel 5 des Protokolls als an dem Datum zugeleitet, an dem die fehlerhafte Mitteilung dem Internationalen Büro zugestellt wurde und wird ins internationale Register eingetragen.
-- e)[^chap4-lvlu3-5] Falls das anwendbare Recht dies zulässt, enthält jede berichtigte Mitteilung eine Angabe über eine neue Frist sowie Informationen gemäss Regel 17 Absatz 2 Ziffer vii bis x zur Einreichung eines Antrags auf Überprüfung oder einer Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige, auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise für die Erwiderung auf einen Widerspruch.
-- f)[^chap4-lvlu3-6] Das Internationale Büro übermittelt eine Kopie jeder berichtigten Mitteilung an den Inhaber.
-
-\2) [Mitteilung über die vorläufige Schutzverweigerung nach Artikel 5 Absatz 2 Buchstabe c des Protokolls]
+- d)[^18-4] Entspricht die Mitteilung nicht den Erfordernissen der Regel 17 Absatz 2 Ziffer vii bis x, so wird die vorläufige Schutzverweigerung nicht als solche betrachtet und wird nicht in das internationale Register eingetragen. Das Internationale Büro informiert die Behörde, welche die vorläufige Schutzverweigerung ausgesprochen hat, gibt die Gründe dafür an und leitet dem Inhaber eine Kopie der fehlerhaften Mitteilung weiter. Sendet die Behörde jedoch eine berichtigte Mitteilung innerhalb von zwei Monaten ab dem Datum, an dem das Internationale Büro diese Behörde über die fehlerhafte Mitteilung informiert hat, so gilt die berichtigte Mitteilung für die Zwecke von Artikel 5 des Protokolls als an dem Datum zugeleitet, an dem die fehlerhafte Mitteilung dem Internationalen Büro zugestellt wurde und wird ins internationale Register eingetragen.
+- e)[^18-5] Falls das anwendbare Recht dies zulässt, enthält jede berichtigte Mitteilung eine Angabe über eine neue Frist sowie Informationen gemäss Regel 17 Absatz 2 Ziffer vii bis x zur Einreichung eines Antrags auf Überprüfung oder einer Beschwerde gegen die vorläufige Schutzverweigerung von Amts wegen oder die vorläufige, auf einen Widerspruch gestützte Schutzverweigerung beziehungsweise für die Erwiderung auf einen Widerspruch.
+- f)[^18-6] Das Internationale Büro übermittelt eine Kopie jeder berichtigten Mitteilung an den Inhaber.
 
 - a) …
 - b) Absatz 1 Buchstabe a wird angewendet, um festzustellen, ob die Frist eingehalten wurde, bis zu deren Ablauf die Behörde der beteiligten Vertragspartei dem Internationalen Büro die in Artikel 5 Absatz 2 Buchstabe c Ziffer i des Protokolls genannte Information erteilen muss. Wird die Information nach Ablauf dieser Frist erteilt, so wird sie als nicht erteilt betrachtet, und das Internationale Büro unterrichtet die beteiligte Behörde entsprechend.
 - c) Erfolgt die Mitteilung über die vorläufige Schutzverweigerung nach Artikel 5 Absatz 2 Buchstabe c Ziffer ii des Protokolls, ohne dass die Erfordernisse des Artikels 5 Absatz 2 Buchstabe c Ziffer i des Protokolls erfüllt sind, so wird sie nicht als Mitteilung über die vorläufige Schutzverweigerung betrachtet. In diesem Fall übermittelt das Internationale Büro dem Inhaber dennoch eine Kopie der Mitteilung, teilt dem Inhaber und der Behörde, welche die Mitteilung übersandt hat, gleichzeitig mit, dass die Mitteilung über die vorläufige Schutzverweigerung vom Internationalen Büro nicht als solche betrachtet wird, und gibt die Gründe hierfür an.
 
-[^chap4-lvlu3-1]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-2]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-3]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-4]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-5]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-[^chap4-lvlu3-6]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-1]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-2]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-3]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-4]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-5]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^18-6]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
-### **Regel 18**<sup>bis</sup>Interimstatus einer Marke in einer benannten Vertragspartei
+#### Regel 18<sup>bis</sup>
+
+**Interimstatus einer Marke in einer benannten Vertragspartei**
 
 \1) [Prüfung von Amts wegen abgeschlossen, Widerspruch oder Stellungnahmen durch Dritte noch möglich]
-
-- a) Eine Behörde, die keine Mitteilung über die vorläufige Schutzverweigerung übermittelt hat, kann innerhalb der in Artikel 5 Absatz 2 Buchstabe a oder b des Protokolls vorgesehenen Frist dem Internationalen Büro eine Erklärung übersenden, dass die Prüfung von Amts wegen abgeschlossen ist und die Behörde keine Gründe für eine Schutzverweigerung geltend gemacht hat, jedoch durch Dritte noch Widerspruch gegen den Schutz der Marke eingelegt oder Stellung genommen werden kann, mit der Angabe des Datums, bis zu dem solche Widersprüche oder Stellungnahmen eingelegt werden können.
-- b) Eine Behörde, die eine Mitteilung über die vorläufige Schutzverweigerung übermittelt hat, kann dem Internationalen Büro eine Erklärung übersenden, dass die Prüfung von Amts wegen abgeschlossen ist, jedoch durch Dritte noch Widerspruch gegen den Schutz der Marke eingelegt oder Stellung genommen werden kann, mit der Angabe des Datums, bis zu dem solche Widersprüche oder Stellungnahmen eingelegt werden können.
 
 \2) [Eintragung, Benachrichtigung des Inhabers und Übermittlung von Kopien]
 
 Das Internationale Büro trägt die nach dieser Regel eingegangenen Erklärungen im internationalen Register ein, benachrichtigt davon den Inhaber und übersendet, sofern die Erklärung in Form eines bestimmten Dokuments übermittelt wurde oder wiedergegeben werden kann, dem Inhaber eine Kopie dieses Dokuments.
 
-### **Regel 18**<sup>ter</sup>Endgültige Entscheidung über den Status einer Marke in einer benannten Vertragspartei
+- a) Eine Behörde, die keine Mitteilung über die vorläufige Schutzverweigerung übermittelt hat, kann innerhalb der in Artikel 5 Absatz 2 Buchstabe a oder b des Protokolls vorgesehenen Frist dem Internationalen Büro eine Erklärung übersenden, dass die Prüfung von Amts wegen abgeschlossen ist und die Behörde keine Gründe für eine Schutzverweigerung geltend gemacht hat, jedoch durch Dritte noch Widerspruch gegen den Schutz der Marke eingelegt oder Stellung genommen werden kann, mit der Angabe des Datums, bis zu dem solche Widersprüche oder Stellungnahmen eingelegt werden können.
+- b) Eine Behörde, die eine Mitteilung über die vorläufige Schutzverweigerung übermittelt hat, kann dem Internationalen Büro eine Erklärung übersenden, dass die Prüfung von Amts wegen abgeschlossen ist, jedoch durch Dritte noch Widerspruch gegen den Schutz der Marke eingelegt oder Stellung genommen werden kann, mit der Angabe des Datums, bis zu dem solche Widersprüche oder Stellungnahmen eingelegt werden können.
 
-\1) [Erklärung über die Schutzgewährung, wenn keine Mitteilung über die vorläufige Schutzverweigerung übermittelt wurde][^chap4-lvlu5-1]
+#### Regel 18<sup>ter</sup>
 
-Wurden alle Verfahren vor einer Behörde vor Ablauf der in Artikel 5 Absatz 2 Buchstabe a, b oder c des Protokolls vorgesehenen Frist abgeschlossen und besteht für diese Behörde kein Grund für eine Schutzverweigerung, so übersendet diese Behörde schnellstmöglich und vor Ablauf dieser Frist dem Internationalen Büro eine Erklärung, dass der Marke, die in der betroffenen Vertragspartei Gegenstand der internationalen Registrierung ist, Schutz gewährt wird.[^chap4-lvlu5-2]
+**Endgültige Entscheidung über den Status einer Marke in einer benannten Vertragspartei**
+
+\1) [Erklärung über die Schutzgewährung, wenn keine Mitteilung über die vorläufige Schutzverweigerung übermittelt wurde][^18ter-1]
+
+Wurden alle Verfahren vor einer Behörde vor Ablauf der in Artikel 5 Absatz 2 Buchstabe a, b oder c des Protokolls vorgesehenen Frist abgeschlossen und besteht für diese Behörde kein Grund für eine Schutzverweigerung, so übersendet diese Behörde schnellstmöglich und vor Ablauf dieser Frist dem Internationalen Büro eine Erklärung, dass der Marke, die in der betroffenen Vertragspartei Gegenstand der internationalen Registrierung ist, Schutz gewährt wird.[^18ter-2]
 
 \2) [Erklärung über die Schutzgewährung nach vorläufiger Schutzverweigerung]
-
-Eine Behörde, die eine Mitteilung über die vorläufige Schutzverweigerung übermittelt hat, muss dem Internationalen Büro nach Abschluss aller Verfahren zum Schutz der Marke vor dieser Behörde eine Erklärung übermitteln, in der eine der folgenden Angaben gemacht wird:
-
-- i) dass die vorläufige Schutzverweigerung zurückgenommen wurde und der Marke in der betroffenen Vertragspartei für alle Waren und Dienstleistungen, für die um Schutz nachgesucht wurde, Schutz gewährt wird; oder
-- ii) die Waren und Dienstleistungen, für welche der Marke in der betroffenen Vertragspartei Schutz gewährt wird,
 
 es sei denn, diese Behörde übersendet eine Erklärung nach Absatz 3.
 
@@ -707,19 +743,28 @@ Eine Behörde, die dem Internationalen Büro eine Mitteilung über eine völlige
 
 \4) [Weitere Entscheidung]
 
-Sofern eine Mitteilung über eine vorläufige Schutzverweigerung nicht innerhalb der nach Artikel 5 Absatz 2 des Protokolls vorgesehenen Frist übermittelt worden ist oder sofern nach der Übersendung einer Erklärung nach Absatz 1, 2 oder 3 eine weitere von der Behörde oder einer anderen Stelle getroffene Entscheidung den Schutz der Marke berührt, muss die Behörde, soweit sie von dieser Entscheidung Kenntnis hat, unbeschadet der Regel 19 dem Internationalen Büro eine weitere Erklärung übersenden, in der der Status der Marke und gegebenenfalls die Waren und Dienstleistungen angegeben werden, für welche die Marke in der betroffenen Vertragspartei geschützt wird.[^chap4-lvlu5-3]
+Sofern eine Mitteilung über eine vorläufige Schutzverweigerung nicht innerhalb der nach Artikel 5 Absatz 2 des Protokolls vorgesehenen Frist übermittelt worden ist oder sofern nach der Übersendung einer Erklärung nach Absatz 1, 2 oder 3 eine weitere von der Behörde oder einer anderen Stelle getroffene Entscheidung den Schutz der Marke berührt, muss die Behörde, soweit sie von dieser Entscheidung Kenntnis hat, unbeschadet der Regel 19 dem Internationalen Büro eine weitere Erklärung übersenden, in der der Status der Marke und gegebenenfalls die Waren und Dienstleistungen angegeben werden, für welche die Marke in der betroffenen Vertragspartei geschützt wird.[^18ter-3]
 
 \5) [Eintragung, Benachrichtigung des Inhabers und Übermittlung von Kopien]
 
 Das Internationale Büro trägt die nach dieser Regel eingegangenen Erklärungen im internationalen Register ein, benachrichtigt davon den Inhaber und übersendet, sofern die Erklärung in Form eines bestimmten Dokuments übermittelt wurde oder wiedergegeben werden kann, dem Inhaber eine Kopie dieses Dokuments.
 
-[^chap4-lvlu5-1]: Die Annahme dieser Bestimmung durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass eine Erklärung über die Schutzgewährung mehrere inernationale Registrierungen betreffen und die Form einer Liste haben kann, welche – elektronisch oder in Papierform übermittelt – die Identifizierung dieser internationalen Registrierungen erlaubt.
-[^chap4-lvlu5-2]: Die Annahme der Absätze 1 und 2 dieser Regel durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass, sofern Regel 34 Absatz 3 Anwendung findet, die Schutzgewährung erst erfolgt, wenn der zweite Teilbetrag entrichtet ist.
-[^chap4-lvlu5-3]: Von der Versammlung des Madrider Verbands gebilligte Auslegungserklärung: «Die Bezugnahme in Regel 18<sup>ter</sup> Absatz 4 auf eine weitere Entscheidung, die den Schutz der Marke berührt, gilt auch für den Fall, dass das Amt diese weitere Entscheidung trifft, zum Beispiel für den Fall einer Wiedereinsetzung in den vorigen Stand, selbst wenn das Amt bereits erklärt hat, dass die Verfahren vor dem Amt abgeschlossen sind.»
+Eine Behörde, die eine Mitteilung über die vorläufige Schutzverweigerung übermittelt hat, muss dem Internationalen Büro nach Abschluss aller Verfahren zum Schutz der Marke vor dieser Behörde eine Erklärung übermitteln, in der eine der folgenden Angaben gemacht wird:
 
-### **Regel 19**Ungültigerklärungen in benannten Vertragsparteien
+- i) dass die vorläufige Schutzverweigerung zurückgenommen wurde und der Marke in der betroffenen Vertragspartei für alle Waren und Dienstleistungen, für die um Schutz nachgesucht wurde, Schutz gewährt wird; oder
+- ii) die Waren und Dienstleistungen, für welche der Marke in der betroffenen Vertragspartei Schutz gewährt wird,
+
+[^18ter-1]: Die Annahme dieser Bestimmung durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass eine Erklärung über die Schutzgewährung mehrere inernationale Registrierungen betreffen und die Form einer Liste haben kann, welche – elektronisch oder in Papierform übermittelt – die Identifizierung dieser internationalen Registrierungen erlaubt.
+[^18ter-2]: Die Annahme der Absätze 1 und 2 dieser Regel durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass, sofern Regel 34 Absatz 3 Anwendung findet, die Schutzgewährung erst erfolgt, wenn der zweite Teilbetrag entrichtet ist.
+[^18ter-3]: Von der Versammlung des Madrider Verbands gebilligte Auslegungserklärung: «Die Bezugnahme in Regel 18<sup>ter</sup> Absatz 4 auf eine weitere Entscheidung, die den Schutz der Marke berührt, gilt auch für den Fall, dass das Amt diese weitere Entscheidung trifft, zum Beispiel für den Fall einer Wiedereinsetzung in den vorigen Stand, selbst wenn das Amt bereits erklärt hat, dass die Verfahren vor dem Amt abgeschlossen sind.»
+
+#### Regel 19
+
+**Ungültigerklärungen in benannten Vertragsparteien**
 
 \1) [Inhalt der Mitteilung der Ungültigerklärung]
+
+\2) [Eintragung der Ungültigerklärung sowie Benachrichtigung des Inhabers und der betroffenen Behörde]
 
 Werden die Wirkungen einer internationalen Registrierung in einer benannten Vertragspartei nach Artikel 5 Absatz 6 des Protokolls für ungültig erklärt und kann die Ungültigerklärung nicht mehr einem Rechtsmittel unterliegen, so benachrichtigt die Behörde der Vertragspartei, deren zuständige Behörde die Ungültigerklärung ausgesprochen hat, das Internationale Büro davon. Die Mitteilung hat folgendes zu enthalten oder anzugeben:
 
@@ -730,18 +775,14 @@ Werden die Wirkungen einer internationalen Registrierung in einer benannten Vert
 - v) falls die Ungültigerklärung nicht alle Waren und Dienstleistungen betrifft, die Waren und Dienstleistungen, für welche die Ungültigkeit erklärt beziehungsweise nicht erklärt worden ist; und
 - vi) das Datum, an dem die Ungültigerklärung ausgesprochen wurde und soweit möglich das Datum des Wirksamwerdens der Erklärung.
 
-\2) [Eintragung der Ungültigerklärung sowie Benachrichtigung des Inhabers und der betroffenen Behörde]
-
 - a) Das Internationale Büro trägt die Ungültigerklärung zusammen mit den in der Mitteilung der Ungültigerklärung enthaltenen Angaben im internationalen Register ein und unterrichtet den Inhaber entsprechend. Das Internationale Büro benachrichtigt auch die Behörde, die die Mitteilung der Ungültigerklärung übermittelt hat, über das Datum, an dem die Ungültigerklärung im internationalen Register eingetragen wurde, falls diese Behörde den Wunsch geäussert hat, diese Benachrichtigung zu erhalten.
 - b) Die Ungültigerklärung wird mit dem Datum des Tages eingetragen, an dem eine den geltenden Erfordernissen entsprechende Mitteilung beim Internationalen Büro eingeht.
 
-### **Regel 20**Einschränkung des Verfügungsrechts des Inhabers
+#### Regel 20
+
+**Einschränkung des Verfügungsrechts des Inhabers**
 
 \1) [Übermittlung von Informationen]
-
-- (a) Der Inhaber einer internationalen Registrierung oder die Behörde einer Vertragspartei des Inhabers kann das Internationale Büro davon benachrichtigen, dass das Verfügungsrecht des Inhabers in Bezug auf die internationale Registrierung eingeschränkt wurde und die gegebenenfalls betroffenen Vertragsparteien angeben.
-- (b) Die Behörde einer benannten Vertragspartei kann dem Internationalen Büro mitteilen, dass das Verfügungsrecht des Inhabers in Bezug auf die internationale Registrierung in dem Gebiet dieser Vertragspartei eingeschränkt wurde.
-- (c) Informationen nach Buchstabe a oder b bestehen aus einer kurzen Übersicht über den wesentlichen Sachverhalt bezüglich dieser Einschränkung.
 
 \2) [Teilweise oder völlige Aufhebung der Einschränkung]
 
@@ -749,14 +790,32 @@ Wurde dem Internationalen Büro eine Einschränkung des Verfügungsrechts des In
 
 \3) [Eintragung]
 
+\4) …
+
+- (a) Der Inhaber einer internationalen Registrierung oder die Behörde einer Vertragspartei des Inhabers kann das Internationale Büro davon benachrichtigen, dass das Verfügungsrecht des Inhabers in Bezug auf die internationale Registrierung eingeschränkt wurde und die gegebenenfalls betroffenen Vertragsparteien angeben.
+- (b) Die Behörde einer benannten Vertragspartei kann dem Internationalen Büro mitteilen, dass das Verfügungsrecht des Inhabers in Bezug auf die internationale Registrierung in dem Gebiet dieser Vertragspartei eingeschränkt wurde.
+- (c) Informationen nach Buchstabe a oder b bestehen aus einer kurzen Übersicht über den wesentlichen Sachverhalt bezüglich dieser Einschränkung.
+
 - a) Das Internationale Büro trägt die nach den Absätzen 1 und 2 übermittelten Informationen im internationalen Register ein und benachrichtigt davon den Inhaber, die Behörde der Vertragspartei des Inhabers und die Behörden der betroffenen benannten Vertragsparteien.
 - b) Die nach den Absätzen 1 und 2 übermittelten Informationen werden mit dem Datum ihres Eingangs beim Internationalen Büro eingetragen, sofern die Mitteilung den geltenden Erfordernissen entspricht.
 
-\4) …
+#### Regel 20<sup>bis</sup>
 
-### **Regel 20**<sup>bis</sup>Lizenzen
+**Lizenzen**
 
 \1) [Antrag auf Eintragung einer Lizenz]
+
+\2) [Nicht vorschriftsmässiger Antrag]
+
+\3) [Eintragung und Mitteilung]
+
+\4) [Änderung oder Löschung der Eintragung einer Lizenz]
+
+Die Absätze 1–3 gelten sinngemäss für einen Antrag auf Änderung oder Löschung der Eintragung einer Lizenz.
+
+\5) [Erklärung über die Unwirksamkeit der Eintragung einer bestimmten Lizenz]
+
+\6) [Erklärung der Unwirksamkeit der Eintragung von Lizenzen in das internationale Register in einer Vertragspartei]
 
 - a) Ein Antrag auf die Eintragung einer Lizenz muss beim Internationalen Büro auf dem entsprechenden amtlichen Formblatt vom Inhaber oder, falls die Behörde eine solche Einreichung zulässt, von der Behörde der Vertragspartei des Inhabers oder der Behörde der Vertragspartei, in Bezug auf welche die Lizenz gewährt wird, eingereicht werden.
 - b)
@@ -777,27 +836,17 @@ Wurde dem Internationalen Büro eine Einschränkung des Verfügungsrechts des In
   - ii) ist der Lizenznehmer eine juristische Person, Angaben über die Rechtsnatur der juristischen Person sowie den Staat und gegebenenfalls die Gebietseinheit innerhalb des Staates, nach dessen oder deren Recht die juristische Person gegründet ist;
   - iii) dass die Lizenz nur einen Teil des Gebietes einer angegebenen benannten Vertragspartei betrifft;
   - iv) hat der Lizenznehmer einen Vertreter, den Namen und die Anschrift des Vertreters nach den Verwaltungsvorschriften;
-  - v) gegebenenfalls die Tatsache, dass die Lizenz eine ausschliessliche Lizenz oder eine alleinige Lizenz ist;[^chap4-lvlu8-1]
+  - v) gegebenenfalls die Tatsache, dass die Lizenz eine ausschliessliche Lizenz oder eine alleinige Lizenz ist;[^20bis-1]
   - vi) gegebenenfalls die Laufzeit der Lizenz.
 
 - d) Der Antrag ist vom Inhaber oder der Behörde, über die er eingereicht wird, zu unterschreiben.
 
-\2) [Nicht vorschriftsmässiger Antrag]
-
 - a) Entspricht der Antrag auf Eintragung einer Lizenz nicht den Erfordernissen des Absatzes 1 Buchstaben a, b und d, so teilt das Internationale Büro dies dem Inhaber und, falls der Antrag von einer Behörde eingereicht wurde, dieser Behörde mit.
 - b) Wird der Mangel nicht innerhalb von drei Monaten nach dem Datum der Mitteilung des Internationalen Büros über den Mangel behoben, so gilt der Antrag als zurückgenommen, und das Internationale Büro teilt dies gleichzeitig dem Inhaber und, falls der Antrag auf Eintragung einer Lizenz von einer Behörde eingereicht wurde, dieser Behörde mit und erstattet dem Einzahler die entrichteten Gebühren nach Abzug eines Betrags in Höhe der Hälfte der entsprechenden unter Nummer 7 des Gebührenverzeichnisses genannten Gebühren.
-
-\3) [Eintragung und Mitteilung]
 
 - a) Entspricht der Antrag den Erfordernissen des Absatzes 1 Buchstaben a, b und d, trägt das Internationale Büro die Lizenz sowie die im Antrag enthaltenen Angaben in das internationale Register ein, teilt dies den Behörden der benannten Vertragsparteien, in Bezug auf welche die Lizenz gewährt wird, mit und benachrichtigt gleichzeitig den Inhaber und, falls der Antrag von einer Behörde eingereicht wurde, diese Behörde.
 - b) Die Lizenz wird mit dem Datum des Tages eingetragen, an dem ein den geltenden Erfordernissen entsprechender Antrag beim Internationalen Büro eingeht.
 - c) Ungeachtet des Buchstabens b wird die Lizenz in das internationale Register mit dem Datum des Tages eingetragen, an dem die in Absatz 2 Buchstabe b angegebene Frist abgelaufen ist, wenn eine Weiterbehandlung nach Regel 5<sup>bis</sup> eingetragen worden ist.
-
-\4) [Änderung oder Löschung der Eintragung einer Lizenz]
-
-Die Absätze 1–3 gelten sinngemäss für einen Antrag auf Änderung oder Löschung der Eintragung einer Lizenz.
-
-\5) [Erklärung über die Unwirksamkeit der Eintragung einer bestimmten Lizenz]
 
 - a) Die Behörde einer benannten Vertragspartei, die vom Internationalen Büro über die Eintragung einer Lizenz in Bezug auf diese Vertragspartei benachrichtigt wird, kann erklären, dass die Eintragung für diese Vertragspartei unwirksam ist.
 - b)
@@ -813,20 +862,22 @@ Die Absätze 1–3 gelten sinngemäss für einen Antrag auf Änderung oder Lösc
 - d) Das Internationale Büro trägt in das internationale Register jede Erklärung ein, die nach Buchstabe c abgegeben wurde, und unterrichtet, je nachdem, ob der Inhaber oder die Behörde den Antrag auf Eintragung der Lizenz eingereicht hat, diesen Inhaber oder diese Behörde entsprechend. Die Erklärung wird mit dem Datum des Tages eingetragen, an dem eine den geltenden Erfordernissen entsprechende Mitteilung beim Internationalen Büro eingeht.
 - e) Jede rechtskräftige Entscheidung, die eine nach Buchstabe c abgegebene Erklärung betrifft, ist dem Internationalen Büro mitzuteilen, das diese in das internationale Register einträgt und die Partei (Inhaber oder Behörde), die den Antrag auf Eintragung der Lizenz eingereicht hat, entsprechend unterrichtet.
 
-\6) [Erklärung der Unwirksamkeit der Eintragung von Lizenzen in das internationale Register in einer Vertragspartei]
-
 - a) Die Behörde einer Vertragspartei, nach deren Recht die Eintragung von Lizenzen für Marken nicht vorgesehen ist, kann dem Generaldirektor mitteilen, dass die Eintragung von Lizenzen in das internationale Register in dieser Vertragspartei unwirksam ist.
 - b) Die Behörde einer Vertragspartei, nach deren Recht die Eintragung von Lizenzen für Marken vorgesehen ist, kann vor dem Datum, an dem die vorliegende Regel in Kraft tritt, oder dem Datum, an dem diese Vertragspartei durch das Protokoll gebunden wird, dem Generaldirektor mitteilen, dass die Eintragung von Lizenzen in das internationale Register in dieser Vertragspartei unwirksam ist. Diese Mitteilung kann jederzeit zurückgenommen werden.
 
-[^chap4-lvlu8-1]: Von der Versammlung des Madrider Verbands gebilligte Auslegungserklärung: «Wenn der Antrag auf Eintragung einer Lizenz keine Angaben gemäss Regel 20<sup>bis</sup>.1)c), zu der Tatsache enthält, dass die Lizenz eine ausschliessliche Lizenz oder eine alleinige Lizenz ist, wird angenommen, dass es sich um eine nicht exklusive Lizenz handelt.»
+[^20bis-1]: Von der Versammlung des Madrider Verbands gebilligte Auslegungserklärung: «Wenn der Antrag auf Eintragung einer Lizenz keine Angaben gemäss Regel 20<sup>bis</sup>.1)c), zu der Tatsache enthält, dass die Lizenz eine ausschliessliche Lizenz oder eine alleinige Lizenz ist, wird angenommen, dass es sich um eine nicht exklusive Lizenz handelt.»
 
-### **Regel 21**Ersetzung einer nationalen oder regionalen Eintragung durch eine internationale Registrierung
+#### Regel 21
 
-[^chap4-lvlu9-1]
-
-[^chap4-lvlu9-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+**Ersetzung einer nationalen oder regionalen Eintragung durch eine internationale Registrierung**[^21-1]
 
 \1) [Antrag und Mitteilung]
+
+Die Mitteilung kann auch Angaben über andere, aufgrund dieser nationalen oder regionalen Eintragung oder Eintragungen erworbenen Rechte enthalten.
+
+\2) [Eintragung]
+
+\3) [Weitere Einzelheiten betreffend die Ersetzung]
 
 Ab dem Datum der Mitteilung über die internationale Registrierung beziehungsweise über die nachträgliche Benennung kann der Inhaber unmittelbar bei der Behörde einer benannten Vertragspartei einen Antrag stellen, dass diese Behörde die internationale Registrierung nach Artikel 4<sup>bis</sup> Absatz 2 des Protokolls in ihrem Register vermerkt. Hat die Behörde auf Grund dieses Antrags in ihrem Register vermerkt, dass eine nationale oder regionale Eintragung beziehungsweise Eintragungen durch die internationale Registrierung ersetzt wurden, so benachrichtigt diese Behörde das Internationale Büro davon. Die Mitteilung hat Folgendes anzugeben:
 
@@ -834,33 +885,27 @@ Ab dem Datum der Mitteilung über die internationale Registrierung beziehungswei
 - ii) betrifft die Ersetzung lediglich eine oder mehrere der in der internationalen Registrierung angegebenen Waren und Dienstleistungen, diese Waren und Dienstleistungen, und
 - iii) das Anmeldedatum und die Anmeldenummer, das Eintragungsdatum und die Eintragungsnummer sowie gegebenenfalls das Prioritätsdatum der nationalen oder regionalen Eintragung oder Eintragungen, die durch die internationale Registrierung ersetzt wurden.
 
-Die Mitteilung kann auch Angaben über andere, aufgrund dieser nationalen oder regionalen Eintragung oder Eintragungen erworbenen Rechte enthalten.
-
-\2) [Eintragung]
-
 - a) Das Internationale Büro trägt die nach Absatz 1 mitgeteilten Angaben im internationalen Register ein und benachrichtigt davon den Inhaber.
 - b) Die nach Absatz 1 mitgeteilten Angaben werden mit dem Datum des Tages eingetragen, an dem eine den geltenden Erfordernissen entsprechende Mitteilung beim Internationalen Büro eingeht.
 
-\3) [Weitere Einzelheiten betreffend die Ersetzung]
-
 - a) Der Schutz der Marke, die Gegenstand einer internationalen Registrierung ist, darf weder ganz noch teilweise aufgrund einer nationalen oder regionalen Eintragung, die als durch diese internationale Registrierung ersetzt gilt, verweigert werden.
-- b) Eine nationale oder regionale Eintragung muss neben der internationalen Registrierung, die diese ersetzt hat, bestehen können. Vom Inhaber darf nicht verlangt werden, dass er auf eine nationale oder regionale Eintragung, die als durch eine internationale Registrierung ersetzt gilt, verzichtet oder deren Löschung beantragt und ihm soll gestattet werden, sofern er dies wünscht, diese Eintragung nach dem anwendbaren nationalen oder regionalen Recht zu erneuern.
+- b)[^21-2] Eine nationale oder regionale Eintragung muss neben der internationalen Registrierung, die diese ersetzt hat, bestehen können. Vom Inhaber darf nicht verlangt werden, dass er auf eine nationale oder regionale Eintragung, die als durch eine internationale Registrierung ersetzt gilt, verzichtet oder deren Löschung beantragt und ihm muss gestattet werden, sofern er dies wünscht, diese Eintragung nach dem anwendbaren nationalen oder regionalen Recht zu erneuern.
 - c) Bevor die Behörde einer benannten Vertragspartei einen Vermerk in ihrem Register vornimmt, prüft sie den in Absatz 1 genannten Antrag, um festzustellen, ob die in Artikel 4<sup>bis</sup> Absatz 1 des Protokolls genannten Voraussetzungen erfüllt worden sind.
 - d) Die die Ersetzung betreffenden, in der nationalen oder regionalen Eintragung angegebenen Waren und Dienstleistungen sind durch die in der internationalen Registrierung angegebenen Waren und Dienstleistungen erfasst. Die Ersetzung kann lediglich einige der in der nationalen oder regionalen Eintragung angegebenen Waren und Dienstleistungen betreffen.
 - e) Eine nationale oder regionale Eintragung gilt ab dem Datum als durch eine internationale Registrierung ersetzt, an dem diese internationale Registrierung in der betreffenden benannten Vertragspartei nach Artikel 4 Absatz 1 Buchstabe a des Protokolls wirksam wird.
 
-### **Regel 21**<sup>bis</sup>Andere Sachverhalte hinsichtlich der Inanspruchnahme des Zeitrangs
+[^21-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+[^21-2]: Fassung gemäss der am 1. Nov. 2024 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+
+#### Regel 21<sup>bis</sup>
+
+**Andere Sachverhalte hinsichtlich der Inanspruchnahme des Zeitrangs**
 
 \1) [Rechtskräftige Zurückweisung der Inanspruchnahme des Zeitrangs]
 
 Ist eine Inanspruchnahme des Zeitrangs in Bezug auf die Benennung einer Vertragsorganisation in das internationale Register eingetragen worden, so unterrichtet die Behörde dieser Organisation das Internationalen Büro über jede rechtskräftige Entscheidung über die vollständige oder teilweise Zurückweisung des Anspruchs.
 
 \2) [Inanspruchnahme des Zeitrangs nach der internationalen Registrierung]
-
-Beansprucht der Inhaber einer internationalen Registrierung, in der eine Vertragsorganisation benannt wird, nach dem Recht dieser Organisation den Zeitrang einer oder mehrerer älterer Marken, die in einem oder für einen Mitgliedstaat dieser Organisation eingetragen sind, direkt bei der Behörde dieser Vertragsorganisation und hat diese Behörde den Anspruch anerkannt, so hat diese Behörde das Internationale Büro hiervon zu benachrichtigen. In dieser Benachrichtigung ist Folgendes anzugeben:
-
-- i) die Nummer der betreffenden internationalen Registrierung; und
-- ii) der Mitgliedstaat oder die Mitgliedstaaten, in denen oder für die die ältere Marke eingetragen ist, zusammen mit dem Datum des Wirksamwerdens der Eintragung dieser älteren Marke und der Nummer der entsprechenden Registrierung.
 
 \3) [Andere Entscheidungen, die die Inanspruchnahme des Zeitrangs berühren]
 
@@ -870,9 +915,18 @@ Die Behörde einer Vertragsorganisation unterrichtet das Internationale Büro ü
 
 Das Internationale Büro trägt die nach den Absätzen 1 bis 3 mitgeteilten Angaben in das internationale Register ein.
 
-### **Regel 22**Erlöschen der Wirkung des Basisgesuchs, der sich aus ihm ergebenden Eintragung oder der Basiseintragung
+Beansprucht der Inhaber einer internationalen Registrierung, in der eine Vertragsorganisation benannt wird, nach dem Recht dieser Organisation den Zeitrang einer oder mehrerer älterer Marken, die in einem oder für einen Mitgliedstaat dieser Organisation eingetragen sind, direkt bei der Behörde dieser Vertragsorganisation und hat diese Behörde den Anspruch anerkannt, so hat diese Behörde das Internationale Büro hiervon zu benachrichtigen. In dieser Benachrichtigung ist Folgendes anzugeben:
+
+- i) die Nummer der betreffenden internationalen Registrierung; und
+- ii) der Mitgliedstaat oder die Mitgliedstaaten, in denen oder für die die ältere Marke eingetragen ist, zusammen mit dem Datum des Wirksamwerdens der Eintragung dieser älteren Marke und der Nummer der entsprechenden Registrierung.
+
+#### Regel 22
+
+**Erlöschen der Wirkung des Basisgesuchs, der sich aus ihm ergebenden Eintragung oder der Basiseintragung**
 
 \1) [Mitteilung über das Erlöschen der Wirkung des Basisgesuchs, der sich aus ihm ergebenden Eintragung oder der Basiseintragung]
+
+\2) [Eintragung und Übermittlung der Mitteilung; Löschung der internationalen Registrierung]
 
 - a)
 
@@ -884,9 +938,7 @@ Das Internationale Büro trägt die nach den Absätzen 1 bis 3 mitgeteilten Anga
   - iv) falls die genannten Tatsachen und Entscheidungen die internationale Registrierung nur in Bezug auf einige der Waren und Dienstleistungen berühren, diejenigen Waren und Dienstleistungen, die von den Tatsachen und Entscheidungen berührt beziehungsweise nicht berührt werden.
 
 - b) Hat ein in Artikel 6 Absatz 3 Ziffer i, ii oder iii des Protokolls genanntes Verfahren vor Ablauf der Frist von fünf Jahren begonnen, hat es aber vor Ablauf dieser Frist nicht zu der in Artikel 6 Absatz 3 Satz 2 des Protokolls genannten rechtskräftigen Entscheidung oder zu der Rücknahme oder dem Verzicht nach Artikel 6 Absatz 3 Satz 3 des Protokolls geführt, so teilt die Ursprungsbehörde, wenn sie davon Kenntnis hat und so bald wie möglich nach Ablauf der genannten Frist, dies dem Internationalen Büro mit.
-- c)[^chap4-lvlu11-1] Sobald das unter Buchstabe b genannte Verfahren zu der in Artikel 6 Absatz 3 Satz 2 des Protokolls genannten rechtskräftigen Entscheidung oder zu der Rücknahme oder dem Verzicht nach Artikel 6 Absatz 3 Satz 3 des Protokolls geführt hat, teilt die Ursprungsbehörde, wenn sie davon Kenntnis hat, dies umgehend dem Internationalen Büro mit und macht die unter Buchstabe a Ziffern i bis iv genannten Angaben. Sofern das unter Buchstabe b genannte Verfahren abgeschlossen worden ist, aber nicht zu einem rechtskräftigen Urteil, einer rechtskräftigen Entscheidung, einer Rücknahme oder einem Verzicht, wie oben genannt, geführt hat, teilt die Ursprungsbehörde, wenn sie davon Kenntnis hat oder auf Antrag des Inhabers, dies umgehend dem Internationalen Büro mit.
-
-\2) [Eintragung und Übermittlung der Mitteilung; Löschung der internationalen Registrierung]
+- c)[^22-1] Sobald das unter Buchstabe b genannte Verfahren zu der in Artikel 6 Absatz 3 Satz 2 des Protokolls genannten rechtskräftigen Entscheidung oder zu der Rücknahme oder dem Verzicht nach Artikel 6 Absatz 3 Satz 3 des Protokolls geführt hat, teilt die Ursprungsbehörde, wenn sie davon Kenntnis hat, dies umgehend dem Internationalen Büro mit und macht die unter Buchstabe a Ziffern i bis iv genannten Angaben. Sofern das unter Buchstabe b genannte Verfahren abgeschlossen worden ist, aber nicht zu einem rechtskräftigen Urteil, einer rechtskräftigen Entscheidung, einer Rücknahme oder einem Verzicht, wie oben genannt, geführt hat, teilt die Ursprungsbehörde, wenn sie davon Kenntnis hat oder auf Antrag des Inhabers, dies umgehend dem Internationalen Büro mit.
 
 - a) Das Internationale Büro trägt jede in Absatz 1 genannte Mitteilung im internationalen Register ein und übermittelt eine Kopie der Mitteilung an die Behörden der benannten Vertragsparteien und an den Inhaber.
 - b) Wird in einer in Absatz 1 Buchstabe a oder c genannten Mitteilung die Löschung der internationalen Registrierung beantragt und entspricht die Mitteilung den Erfordernissen jenes Absatzes, so löscht das Internationale Büro im entsprechenden Umfang die internationale Registrierung im internationalen Register. Im Anschluss an die oben genannte Mitteilung löscht das Internationale Büro im entsprechenden Umfang auch internationale Registrierungen, die sich aus einer teilweisen Änderung des Inhabers oder Teilung ergeben, die unter der gelöschten internationalen Registrierung eingetragen ist, und jene, die sich aus deren Zusammenführung ergeben.
@@ -898,17 +950,13 @@ Das Internationale Büro trägt die nach den Absätzen 1 bis 3 mitgeteilten Anga
   - ii) wenn die Löschung alle Waren und Dienstleistungen betrifft, diese Tatsache;
   - iii) wenn die Löschung nur einige der Waren und Dienstleistungen betrifft, die nach Absatz 1 Buchstabe a Ziffer iv angegebenen Waren und Dienstleistungen.
 
-[^chap4-lvlu11-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^22-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
-### **Regel 23**Teilung oder Zusammenführung von Basisgesuchen, von sich aus ihnen ergebenden Eintragungen oder von Basiseintragungen
+#### Regel 23
+
+**Teilung oder Zusammenführung von Basisgesuchen, von sich aus ihnen ergebenden Eintragungen oder von Basiseintragungen**
 
 \1) [Mitteilung der Teilung des Basisgesuchs oder der Zusammenführung von Basisgesuchen]
-
-Wird innerhalb der in Artikel 6 Absatz 3 des Protokolls genannten Fünfjahresfrist das Basisgesuch in zwei oder mehr Gesuche geteilt, oder werden mehrere Basisgesuche in ein einziges Gesuch zusammengeführt, so unterrichtet die Ursprungsbehörde das Internationale Büro entsprechend und gibt folgendes an:
-
-- i) die Nummer der internationalen Registrierung oder die Nummer des Basisgesuchs, falls die internationale Registrierung noch nicht erfolgt ist;
-- ii) den Namen des Inhabers oder Hinterlegers;
-- iii) die Nummer jedes sich aus der Teilung ergebenden Gesuchs oder die Nummer des sich aus der Zusammenführung ergebenden Gesuchs.
 
 \2) [Eintragung und Benachrichtigung durch das Internationale Büro]
 
@@ -918,11 +966,19 @@ Das Internationale Büro trägt die in Absatz 1 genannte Mitteilung im internati
 
 Die Absätze 1 und 2 gelten sinngemäss für die Teilung oder Zusammenführung von Eintragungen, die sich aus dem Basisgesuch oder den Basisgesuchen während der Fünfjahresfrist nach Artikel 6 Absatz 3 des Protokolls ergeben haben, und für die Teilung der Basiseintragung oder Zusammenführung von Basiseintragungen während der Fünfjahresfrist nach Artikel 6 Absatz 3 des Protokolls.
 
-### **Regel 23**<sup>bis</sup>Durch das Internationale Büro übersandte Mitteilungen der Behörden der benannten Vertragsparteien
+Wird innerhalb der in Artikel 6 Absatz 3 des Protokolls genannten Fünfjahresfrist das Basisgesuch in zwei oder mehr Gesuche geteilt, oder werden mehrere Basisgesuche in ein einziges Gesuch zusammengeführt, so unterrichtet die Ursprungsbehörde das Internationale Büro entsprechend und gibt folgendes an:
+
+- i) die Nummer der internationalen Registrierung oder die Nummer des Basisgesuchs, falls die internationale Registrierung noch nicht erfolgt ist;
+- ii) den Namen des Inhabers oder Hinterlegers;
+- iii) die Nummer jedes sich aus der Teilung ergebenden Gesuchs oder die Nummer des sich aus der Zusammenführung ergebenden Gesuchs.
+
+#### Regel 23<sup>bis</sup>
+
+**Durch das Internationale Büro übersandte Mitteilungen der Behörden der benannten Vertragsparteien**
 
 \1) [Nicht von dieser Ausführungsordnung erfasste Mitteilungen]
 
-Ist es nach dem Recht einer benannten Vertragspartei nicht zulässig, dass die Behörde eine Mitteilung, die eine internationale Registrierung betrifft, unmittelbar dem Inhaber übermittelt, so kann diese Behörde das Internationale Büro ersuchen, diese Mitteilung in ihrem Namen an den Inhaber zu übermitteln.
+Die Behörde einer bestimmten Vertragspartei kann das Internationale Büro ersuchen, Mitteilungen bezüglich einer internationalen Registrierung in ihrem Namen an den Inhaber zu übermitteln.[^23bis-1]
 
 \2) [Format der Mitteilung]
 
@@ -932,17 +988,45 @@ Das Internationale Büro legt das Format fest, in dem die in Absatz 1 genannte M
 
 Das Internationale Büro übermittelt die in Absatz 1 genannte Mitteilung in dem vom Internationalen Büro festgelegten Format an den Inhaber, ohne deren Inhalt zu prüfen oder sie in das internationale Register einzutragen.
 
+[^23bis-1]: Fassung gemäss der am 1. Nov. 2024 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+
 ## Kapitel 5 Nachträgliche Benennungen; Änderungen
 
-### **Regel 24**Benennung im Anschluss an die internationale Registrierung
+#### Regel 24
+
+**Benennung im Anschluss an die internationale Registrierung**
 
 \1) [Berechtigung]
+
+\2) [Einreichung; Formblatt und Unterschrift]
+
+\3) [Inhalt]
+
+\4) [Gebühren]
+
+Die nachträgliche Benennung unterliegt der Zahlung der unter Nummer 5 des Gebührenverzeichnisses angegebenen oder genannten Gebühren.
+
+\5) [Mängel]
+
+\6) [Datum der nachträglichen Benennung]
+
+\7) [Nachträgliche Benennung infolge Umwandlung]
+
+\8) [Eintragung und Mitteilung]
+
+Stellt das Internationale Büro fest, dass die nachträgliche Benennung den geltenden Erfordernissen entspricht, so trägt es die Benennung im internationalen Register ein und benachrichtigt davon die Behörde der in der nachträglichen Benennung benannten Vertragspartei und teilt dies gleichzeitig dem Inhaber und gegebenenfalls der Behörde mit, welche die nachträgliche Benennung eingereicht hat.
+
+\9) [Schutzverweigerung]
+
+Die Regeln 16 bis 18<sup>ter</sup> gelten sinngemäss.
+
+\10) [Nachträgliche Benennung, die nicht als solche betrachtet wird]
+
+Werden die Erfordernisse des Absatzes 2 Buchstabe a) nicht erfüllt, so wird die nachträgliche Benennung nicht als solche betrachtet und das Internationale Büro teilt dies dem Einsender mit.
 
 - a) Eine Vertragspartei kann Gegenstand einer Benennung im Anschluss an die internationale Registrierung (im folgenden als «nachträgliche Benennung» bezeichnet) sein, sofern der Inhaber zum Zeitpunkt der Benennung nach Artikel 2 des Protokolls die Voraussetzungen für die Inhaberschaft einer internationalen Registrierung erfüllt.
 - b) …
 - c) …
-
-\2) [Einreichung; Formblatt und Unterschrift]
 
 - a)
 
@@ -954,14 +1038,12 @@ Das Internationale Büro übermittelt die in Absatz 1 genannte Mitteilung in dem
 
 - b) Die nachträgliche Benennung ist auf dem amtlichen Formblatt einzureichen. Wird sie von dem Inhaber eingereicht, so ist sie vom Inhaber zu unterschreiben. Wird sie von einer Behörde eingereicht, so ist sie von der betreffenden Behörde und auf Verlangen der Behörde ebenfalls vom Inhaber zu unterschreiben. Wird sie von einer Behörde eingereicht, die nicht verlangt, dass der Inhaber sie unterschreibt, die aber gestattet, dass der Inhaber sie auch unterschreibt, so kann der Inhaber so verfahren.
 
-\3) [Inhalt]
-
 - a)
 
   Vorbehaltlich des Absatzes 7) Buchstabe b) hat die nachträgliche Benennung Folgendes zu enthalten oder anzugeben:
 
   - i) die Nummer der betreffenden internationalen Registrierung;
-  - ii)[^chap5-lvlu1-1] den Namen des Inhabers;
+  - ii)[^24-1] den Namen des Inhabers;
   - iii) die Vertragspartei, die benannt worden ist;
   - iv) falls die nachträgliche Benennung für alle in der betreffenden internationalen Registrierung angegebenen Waren und Dienstleistungen gilt, diese Tatsache, oder, wenn die nachträgliche Benennung lediglich für einen Teil der in der betreffenden internationalen Registrierung angegebenen Waren und Dienstleistungen gilt, diese Waren und Dienstleistungen;
   - v) die Höhe der zu zahlenden Gebühren und die gewählte Zahlungsweise oder den Auftrag zur Abbuchung des erforderlichen Gebührenbetrags von einem beim Internationalen Büro eröffneten Konto sowie die Bezeichnung des Einzahlers oder Auftraggebers; und
@@ -984,17 +1066,9 @@ Das Internationale Büro übermittelt die in Absatz 1 genannte Mitteilung in dem
 
 - d) …
 
-\4) [Gebühren]
-
-Die nachträgliche Benennung unterliegt der Zahlung der unter Nummer 5 des Gebührenverzeichnisses angegebenen oder genannten Gebühren.
-
-\5) [Mängel]
-
 - a) Entspricht die nachträgliche Benennung nicht den geltenden Erfordernissen, so teilt vorbehaltlich des Absatzes 10) das Internationale Büro diese Tatsache dem Inhaber und, falls die nachträgliche Benennung durch eine Behörde eingereicht wurde, dieser Behörde mit.
 - b) Wird der Mangel nicht innerhalb von drei Monaten nach dem Datum behoben, an dem das Internationale Büro den Mangel mitgeteilt hat, so wird die nachträgliche Benennung als zurückgenommen betrachtet, und das Internationale Büro benachrichtigt davon den Inhaber und, im Fall der Einreichung der nachträglichen Benennung durch eine Behörde, gleichzeitig diese Behörde und erstattet dem Einzahler die entrichteten Gebühren nach Abzug eines Betrags in Höhe der Hälfte der unter Nummer 5.1 des Gebührenverzeichnisses genannten Grundgebühr zurück.
 - c) Werden ungeachtet der Buchstaben a und b die Erfordernisse des Absatzes 3 Buchstabe b Ziffer i in Bezug auf eine oder mehrere benannte Vertragsparteien nicht erfüllt, so gilt die Benennung dieser Vertragsparteien als in der nachträglichen Benennung nicht enthalten, und für diese Vertragsparteien bereits gezahlte Ergänzungsgebühren oder individuelle Gebühren werden erstattet. Werden die Erfordernisse des Absatzes 3 Buchstabe b Ziffer i in Bezug auf keine der benannten Vertragsparteien erfüllt, so findet Buchstabe b Anwendung.
-
-\6) [Datum der nachträglichen Benennung]
 
 - a) Eine vom Inhaber beim Internationalen Büro unmittelbar eingereichte nachträgliche Benennung trägt vorbehaltlich des Buchstabens c Ziffer i das Datum ihres Eingangs beim Internationalen Büro.
 - b) Eine von einer Behörde beim Internationalen Büro eingereichte nachträgliche Benennung trägt vorbehaltlich des Buchstabens c) Ziffer i), sowie der Buchstaben d und e das Datum ihres Eingangs bei der betreffenden Behörde, sofern diese Benennung innerhalb von zwei Monaten nach diesem Datum beim Internationalen Büro eingegangen ist. Geht die nachträgliche Benennung nicht innerhalb dieser Frist beim Internationalen Büro ein, so trägt sie vorbehaltlich des Buchstabens c Ziffer i), sowie der Buchstaben d und e das Datum ihres Eingangs beim Internationalen Büro.
@@ -1008,8 +1082,6 @@ Die nachträgliche Benennung unterliegt der Zahlung der unter Nummer 5 des Gebü
 - d) Enthält die nachträgliche Benennung einen Antrag nach Absatz 3 Buchstabe c Ziffer ii, so kann sie, ungeachtet der Buchstaben a, b und c, ein späteres Datum als das sich aus den Buchstaben a, b oder c ergebende tragen.
 - e) Ergibt sich eine nachträgliche Benennung aus einer Umwandlung nach Absatz 7, so trägt die nachträgliche Benennung das Datum, an dem die Benennung der Vertragsorganisation in das internationale Register eingetragen wurde.
 
-\7) [Nachträgliche Benennung infolge Umwandlung]
-
 - a) Wenn die Benennung einer Vertragsorganisation in das internationale Register eingetragen worden ist und soweit diese Benennung zurückgenommen oder zurückgewiesen worden ist oder nach dem Recht Organisation ihre Wirkung verloren hat, kann der Inhaber der betreffenden internationalen Registrierung die Umwandlung der Benennung dieser Vertragsorganisation in die Benennung jedes Mitgliedsstaates dieser Organisation, der Vertragspartei des Protokolls ist, beantragen.
 - b)
 
@@ -1018,23 +1090,21 @@ Die nachträgliche Benennung unterliegt der Zahlung der unter Nummer 5 des Gebü
   - i) die Vertragsorganisation, deren Benennung umgewandelt werden soll; und
   - ii) wenn die sich aus einer Umwandlung ergebende nachträgliche Benennung eines Vertragsstaates alle in Bezug auf die Benennung der Vertragsorganisation angegebenen Waren und Dienstleistungen betrifft, diese Tatsache, oder, wenn die nachträgliche Benennung dieses Vertragsstaates nur einen Teil der in der Benennung dieser Vertragsorganisation angegebenen Waren und Dienstleistungen betrifft, diese Waren und Dienstleistungen.
 
-\8) [Eintragung und Mitteilung]
+[^24-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
-Stellt das Internationale Büro fest, dass die nachträgliche Benennung den geltenden Erfordernissen entspricht, so trägt es die Benennung im internationalen Register ein und benachrichtigt davon die Behörde der in der nachträglichen Benennung benannten Vertragspartei und teilt dies gleichzeitig dem Inhaber und gegebenenfalls der Behörde mit, welche die nachträgliche Benennung eingereicht hat.
+#### Regel 25
 
-\9) [Schutzverweigerung]
-
-Die Regeln 16 bis 18<sup>ter</sup> gelten sinngemäss.
-
-\10) [Nachträgliche Benennung, die nicht als solche betrachtet wird]
-
-Werden die Erfordernisse des Absatzes 2 Buchstabe a) nicht erfüllt, so wird die nachträgliche Benennung nicht als solche betrachtet und das Internationale Büro teilt dies dem Einsender mit.
-
-[^chap5-lvlu1-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-
-### **Regel 25**Antrag auf Eintragung
+**Antrag auf Eintragung**
 
 \1) [Einreichung des Antrags]
+
+\2) [Inhalt des Antrags]
+
+\3) …
+
+\4) [Mehrere Erwerber]
+
+Sind in dem Antrag auf Eintragung einer Änderung des Inhabers der internationalen Registrierung mehrere Erwerber genannt, so muss jeder Erwerber die Voraussetzungen nach Artikel 2 des Madrider Protokolls für die Inhaberschaft der internationalen Registrierung erfüllen.
 
 - a)
 
@@ -1051,15 +1121,13 @@ Werden die Erfordernisse des Absatzes 2 Buchstabe a) nicht erfüllt, so wird die
 - c) …
 - d) Wird der Antrag vom Inhaber eingereicht, so ist er vom Inhaber zu unterschreiben. Wird er von einer Behörde eingereicht, so ist er von dieser Behörde und auf Verlangen der Behörde ebenfalls vom Inhaber zu unterschreiben. Wird der Antrag von einer Behörde eingereicht, die nicht verlangt, dass der Inhaber ihn unterschreibt, die aber gestattet, dass der Inhaber ihn auch unterschreibt, so kann der Inhaber so verfahren.
 
-\2) [Inhalt des Antrags]
-
 - a)
 
-  Ein Antrag nach Absatz 1 Buchstabe a hat neben der beantragten Eintragung Folgendes zu enthalten oder anzugeben:[^chap5-lvlu2-1]
+  Ein Antrag nach Absatz 1 Buchstabe a hat neben der beantragten Eintragung Folgendes zu enthalten oder anzugeben:[^25-1]
 
   - i) die Nummer der betreffenden internationalen Registrierung;
   - ii) den Namen des Inhabers oder den Namen des Vertreters, wenn die Änderung den Namen oder die Anschrift des Vertreters betrifft;
-  - iii)[^chap5-lvlu2-2] im Fall einer Änderung des Inhabers der internationalen Registrierung den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse der natürlichen oder juristischen Person, die im Antrag als neuer Inhaber der internationalen Registrierung genannt wird (im Folgenden als «Erwerber» bezeichnet);
+  - iii)[^25-2] im Fall einer Änderung des Inhabers der internationalen Registrierung den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse der natürlichen oder juristischen Person, die im Antrag als neuer Inhaber der internationalen Registrierung genannt wird (im Folgenden als «Erwerber» bezeichnet);
   - iv) im Fall einer Änderung des Inhabers der internationalen Registrierung die Vertragspartei oder die Vertragsparteien, für die der Erwerber die Voraussetzungen nach Artikel 2 des Protokolls für die Inhaberschaft einer internationalen Registrierung erfüllt;
   - v) im Fall einer Änderung des Inhabers der internationalen Registrierung, wenn die nach Ziffer iii angegebene Anschrift des Erwerbers nicht im Gebiet der nach Ziffer iv angegebenen Vertragspartei oder einer der Vertragsparteien liegt und sofern der Erwerber nicht angegeben hat, Angehöriger eines Vertragsstaats oder eines Staates zu sein, der Mitglied einer Vertragsorganisation ist, die Anschrift der Niederlassung oder des Wohnsitzes des Erwerbers in der Vertragspartei oder in einer der Vertragsparteien, für die der Erwerber die Voraussetzungen für die Inhaberschaft einer internationalen Registrierung erfüllt;
   - vi) im Fall einer Änderung des Inhabers der internationalen Registrierung, die nicht alle Waren und Dienstleistungen und nicht alte benannten Vertragsparteien betrifft, die Waren und Dienstleistungen und die benannten Vertragsparteien, auf die sich die Änderung des Inhabers bezieht; und
@@ -1075,16 +1143,12 @@ Werden die Erfordernisse des Absatzes 2 Buchstabe a) nicht erfüllt, so wird die
 - c) Der Antrag auf Eintragung einer Änderung oder einer Löschung kann auch einen Antrag enthalten, diese Eintragung vor oder nach der Eintragung einer anderen Änderung oder Löschung oder einer nachträglichen Benennung in Bezug auf die betreffende internationale Registrierung oder nach der Erneuerung der internationalen Registrierung vorzunehmen.
 - d) Im Antrag auf Eintragung einer Einschränkung sind die eingeschränkten Waren und Dienstleistungen nur unter den entsprechenden Nummern der in der internationalen Registrierung vorkommenden Klassen der internationalen Klassifikation von Waren und Dienstleistungen zu gruppieren oder, falls die Einschränkung alle Waren und Dienstleistungen einer oder mehrerer dieser Klassen betrifft, die zu streichenden Klassen anzugeben.
 
-\3) …
+[^25-1]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^25-2]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
-\4) [Mehrere Erwerber]
+#### Regel 26
 
-Sind in dem Antrag auf Eintragung einer Änderung des Inhabers der internationalen Registrierung mehrere Erwerber genannt, so muss jeder Erwerber die Voraussetzungen nach Artikel 2 des Madrider Protokolls für die Inhaberschaft der internationalen Registrierung erfüllen.
-
-[^chap5-lvlu2-1]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-[^chap5-lvlu2-2]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
-
-### **Regel 26**Mängel in den Anträgen auf Eintragung nach Regel 25
+**Mängel in den Anträgen auf Eintragung nach Regel 25**
 
 \1) [Nicht vorschriftsmässiger Antrag]
 
@@ -1098,22 +1162,26 @@ Der Mangel kann innerhalb von drei Monaten nach dem Datum behoben werden, an dem
 
 Sind die Erfordernisse der Regel 25 Absatz 1 Buchstabe b nicht erfüllt, so wird der Antrag nicht als solcher betrachtet, und das Internationale Büro teilt dies dem Einsender mit.
 
-### **Regel 27**Eintragung und Mitteilung einer Änderung oder einer Löschung; Erklärung über die Unwirksamkeit einer Änderung des Inhabers oder einer Einschränkung
+#### Regel 27
+
+**Eintragung und Mitteilung einer Änderung oder einer Löschung; Erklärung über die Unwirksamkeit einer Änderung des Inhabers oder einer Einschränkung**
 
 \1) [Eintragung und Mitteilung]
+
+\2) [Eintragung einer teilweisen Änderung des Inhabers]
+
+\3) …
+
+\4) [Erklärung der Unwirksamkeit einer Änderung des Inhabers]
+
+\5) [Erklärung der Unwirksamkeit einer Einschränkung]
 
 - a) Entspricht der in Regel 25 Absatz 1 Buchstabe a genannte Antrag den Vorschriften, so trägt das Internationale Büro die Angaben, die Änderung oder die Löschung umgehend im internationalen Register ein, teilt dies den Behörden der benannten Vertragsparteien, in denen die Eintragung wirksam wird, oder, im Fall einer Löschung, den Behörden aller benannten Vertragsparteien mit und unterrichtet gleichzeitig den Inhaber und, falls der Antrag von einer Behörde eingereicht wurde, die betreffende Behörde. Bezieht sich die Eintragung auf eine Änderung des Inhabers, so unterrichtet das Internationale Büro bei einer vollständigen Änderung des Inhabers auch den früheren Inhaber und bei einer teilweisen Änderung des Inhabers den Inhaber des Teils der internationalen Registrierung, der abgetreten oder auf andere Weise übertragen worden ist. Wurde der Antrag auf Eintragung einer Löschung vom Inhaber oder einer anderen als der Ursprungsbehörde innerhalb der in Artikel 6 Absatz 3 des Protokolls genannten Fünfjahresfrist eingereicht, so unterrichtet das Internationale Büro auch die Ursprungsbehörde.
 - b) Die Angaben, die Änderung oder die Löschung werden mit dem Datum des Tages eingetragen, an dem ein den geltenden Erfordernissen entsprechender Antrag beim Internationalen Büro eingeht; bei Antragstellung nach Regel 25 Absatz 2 Buchstabe c können sie jedoch mit einem späteren Datum eingetragen werden.
 - c) Unbeschadet des Buchstabens b wird die Änderung oder Löschung bei Ablauf der in Regel 26 Absatz 2 vorgeschriebenen Frist in das internationale Register eingetragen, wenn die Weiterbehandlung nach Regel 5<sup>bis</sup> eingetragen worden ist; ein Antrag, der gemäss Regel 25 Absatz 2 Buchstabe c eingereicht worden ist, kann jedoch zu einem späteren Zeitpunkt eingetragen werden.
 
-\2) [Eintragung einer teilweisen Änderung des Inhabers]
-
 - a) Eine Änderung des Inhabers der internationalen Registrierung in Bezug auf nur einige der Waren und Dienstleistungen oder nur einige der benannten Vertragsparteien wird unter der Nummer der von der teilweisen Änderung des Inhabers betroffenen internationalen Registrierung in das internationale Register eingetragen.
 - b) Der Teil der internationalen Registrierung, für den eine Änderung des Inhabers eingetragen worden ist, wird in der betreffenden internationalen Registrierung gestrichen und als eigenständige internationale Registrierung eingetragen.
-
-\3) …
-
-\4) [Erklärung der Unwirksamkeit einer Änderung des Inhabers]
 
 - a) Die Behörde einer benannten Vertragspartei, der das Internationale Büro eine diese Vertragspartei betreffende Änderung des Inhabers mitgeteilt hat, kann erklären, dass die Änderung des Inhabers für diese Vertragspartei unwirksam ist. Diese Erklärung bewirkt, dass die betreffende internationale Registrierung für diese Vertragspartei weiterhin auf den Namen des Übertragenden lautet.
 - b)
@@ -1127,8 +1195,6 @@ Sind die Erfordernisse der Regel 25 Absatz 1 Buchstabe b nicht erfüllt, so wird
 - c) Die unter Buchstabe a genannte Erklärung wird vor Ablauf von 18 Monaten nach dem Datum, an dem die in Buchstabe a genannte Mitteilung der betroffenen Behörde übersandt wurde, an das Internationale Büro gesandt.
 - d) Das Internationale Büro trägt jede nach Buchstabe c abgegebene Erklärung in das Internationale Register ein und trägt gegebenenfalls den Teil der internationalen Registrierung, der Gegenstand der betreffenden Erklärung war, als eigenständige internationale Registrierung ein und unterrichtet die Partei (Inhaber oder Behörde), die den Antrag auf Eintragung einer Änderung des Inhabers eingereicht hat, und den neuen Inhaber entsprechend.
 - e) Jede rechtskräftige Entscheidung hinsichtlich einer nach Buchstabe c abgegebenen Erklärung wird dem Internationalen Büro mitgeteilt, welches sie in das internationale Register einträgt und gegebenenfalls das internationale Register entsprechend ändert und die Partei (Inhaber oder Behörde), die den Antrag auf Eintragung einer Änderung des Inhabers eingereicht hat, und den neuen Inhaber entsprechend unterrichtet.
-
-\5) [Erklärung der Unwirksamkeit einer Einschränkung]
 
 - a) Wird die Behörde einer benannten Vertragspartei vom Internationalen Büro über eine diese Vertragspartei betreffende Einschränkung des Verzeichnisses der Waren und Dienstleistungen unterrichtet, so kann sie erklären, dass die Einschränkung in der betreffenden Vertragspartei unwirksam ist. Eine solche Erklärung hat die Wirkung, dass die Einschränkung in Bezug auf diese Vertragspartei für die von der Erklärung betroffenen Waren und Dienstleistungen keine Anwendung findet.
 - b)
@@ -1144,9 +1210,27 @@ Sind die Erfordernisse der Regel 25 Absatz 1 Buchstabe b nicht erfüllt, so wird
 - d) Das Internationale Büro trägt jede Erklärung nach Buchstabe c in das internationale Register ein und unterrichtet die Partei (Inhaber oder Behörde), die den Antrag auf Eintragung der Einschränkung eingereicht hat, entsprechend.
 - e) Das Internationale Büro wird über jede rechtswirksame Entscheidung in Bezug auf eine Erklärung nach Buchstabe c unterrichtet; es trägt die Entscheidung in das Internationale Register ein und unterrichtet die Partei (Inhaber oder Behörde), die den Antrag auf Eintragung der Einschränkung eingereicht hat, entsprechend.
 
-### **Regel 27**<sup>bis</sup>Teilung einer internationalen Registrierung
+#### Regel 27<sup>bis</sup>
+
+**Teilung einer internationalen Registrierung**
 
 \1) [Antrag auf Teilung einer internationalen Registrierung]
+
+\2) [Gebühr]
+
+Die Teilung einer internationalen Registrierung unterliegt der Zahlung der unter Nummer 7.7 des Gebührenverzeichnisses angegebenen Gebühr.
+
+\3) [Nicht vorschriftsmässiger Antrag]
+
+\4) [Eintragung und Mitteilung]
+
+\5) [Antrag, der nicht als solcher betrachtet wird]
+
+Ein Antrag auf Teilung einer internationalen Registrierung in Bezug auf eine benannte Vertragspartei, die nicht oder nicht mehr für die im Antrag genannten Klassen der internationalen Klassifikation von Waren und Dienstleistungen benannt ist, wird nicht als solcher betrachtet.
+
+\6) [Erklärung, dass eine Vertragspartei keine Teilungsanträge einreichen wird]
+
+Eine Vertragspartei, deren Recht die Teilung von Gesuchen um Eintragung einer Marke oder die Teilung von Eintragungen einer Marke nicht vorsieht, kann vor dem Datum, an dem diese Regel in Kraft tritt, oder dem Datum, von dem an diese Vertragspartei durch das Protokoll gebunden ist, dem Generaldirektor mitteilen, dass sie den in Absatz 1 genannten Antrag nicht beim Internationalen Büro einreichen wird. Diese Erklärung kann jederzeit zurückgenommen werden.
 
 - a) Ein Antrag des Inhabers auf die Teilung einer internationalen Registrierung für nur einige der Waren und Dienstleistungen in Bezug auf eine benannte Vertragspartei ist beim Internationalen Büro auf dem entsprechenden amtlichen Formblatt von der Behörde dieser benannten Vertragspartei einzureichen, sobald letztere überzeugt ist, dass die Teilung, deren Eintragung beantragt wird, die Erfordernisse ihres anwendbaren Rechts einschliesslich der Erfordernisse bezüglich Gebühren erfüllt.
 - b)
@@ -1163,30 +1247,16 @@ Sind die Erfordernisse der Regel 25 Absatz 1 Buchstabe b nicht erfüllt, so wird
 - c) Der Antrag ist von der Behörde zu unterschreiben, die den Antrag einreicht, und, falls die Behörde dies verlangt, auch vom Inhaber.
 - d) Ein nach diesem Absatz eingereichter Antrag kann eine in Übereinstimmung mit Regel 18<sup>bis</sup> oder Regel 18<sup>ter</sup> übersandte Erklärung für die im Antrag angegebenen Waren und Dienstleistungen enthalten, oder dem Antrag kann eine solche Erklärung beigefügt werden.
 
-\2) [Gebühr]
-
-Die Teilung einer internationalen Registrierung unterliegt der Zahlung der unter Nummer 7.7 des Gebührenverzeichnisses angegebenen Gebühr.
-
-\3) [Nicht vorschriftsmässiger Antrag]
-
 - a) Entspricht der Antrag nicht den Erfordernissen nach Absatz 1, so fordert das Internationale Büro die Behörde, die den Antrag eingereicht hat, auf, den Mangel zu beheben, und unterrichtet gleichzeitig den Inhaber.
 - b) Ist die entrichtete Gebühr niedriger als der Betrag der Gebühr nach Absatz 2, so unterrichtet das Internationale Büro den Inhaber darüber und teilt dies gleichzeitig der Behörde mit, die den Antrag eingereicht hat.
 - c) Wird der Mangel nicht innerhalb von drei Monaten nach dem Datum der Aufforderung nach Buchstabe a oder b behoben, so gilt der Antrag als zurückgenommen und das Internationale Büro teilt dies der Behörde mit, die den Antrag eingereicht hat; gleichzeitig unterrichtet es den Inhaber und erstattet die nach Absatz 2 entrichtete Gebühr nach Abzug eines Betrags in Höhe der Hälfte dieser Gebühr zurück.
 
-\4) [Eintragung und Mitteilung]
-
 - a) Entspricht der Antrag den geltenden Erfordernissen, so trägt das Internationale Büro die Teilung ein, nimmt eine internationale Teilregistrierung im internationalen Register vor, teilt dies der Behörde, die den Antrag eingereicht hat, mit, und unterrichtet gleichzeitig den Inhaber.
 - b) Die Teilung einer internationalen Registrierung wird mit dem Datum eingetragen, an dem der Antrag beim Internationalen Büro eingegangen ist, oder gegebenenfalls dem Datum, an dem der in Absatz 3 genannte Mangel behoben wurde.
 
-\5) [Antrag, der nicht als solcher betrachtet wird]
+#### Regel 27<sup>ter</sup>
 
-Ein Antrag auf Teilung einer internationalen Registrierung in Bezug auf eine benannte Vertragspartei, die nicht oder nicht mehr für die im Antrag genannten Klassen der internationalen Klassifikation von Waren und Dienstleistungen benannt ist, wird nicht als solcher betrachtet.
-
-\6) [Erklärung, dass eine Vertragspartei keine Teilungsanträge einreichen wird]
-
-Eine Vertragspartei, deren Recht die Teilung von Gesuchen um Eintragung einer Marke oder die Teilung von Eintragungen einer Marke nicht vorsieht, kann vor dem Datum, an dem diese Regel in Kraft tritt, oder dem Datum, von dem an diese Vertragspartei durch das Protokoll gebunden ist, dem Generaldirektor mitteilen, dass sie den in Absatz 1 genannten Antrag nicht beim Internationalen Büro einreichen wird. Diese Erklärung kann jederzeit zurückgenommen werden.
-
-### **Regel 27**<sup>ter</sup>Zusammenführung internationaler Registrierungen
+**Zusammenführung internationaler Registrierungen**
 
 \1) [Zusammenführung von sich aus der Eintragung einer teilweisen Änderung des Inhabers ergebenden internationalen Registrierungen]
 
@@ -1197,7 +1267,9 @@ Ist dieselbe natürliche oder juristische Person aufgrund einer teilweisen Ände
 - a) Auf Antrag des Inhabers, der über die Behörde eingereicht wird, die den in Regel 27<sup>bis</sup> Absatz 1 genannten Antrag eingereicht hat, wird eine sich aus einer Teilung ergebende internationale Registrierung mit der internationalen Registrierung zusammengeführt, von der sie abgetrennt wurde, sofern dieselbe natürliche oder juristische Person der eingetragene Inhaber beider oben genannter internationaler Registrierungen ist und die betroffene Behörde überzeugt ist, dass der Antrag die Erfordernisse des für sie anwendbaren Rechts einschliesslich der Erfordernisse bezüglich Gebühren erfüllt. Der Antrag ist auf dem entsprechenden amtlichen Formblatt beim Internationalen Büro einzureichen. Das Internationale Büro trägt die Zusammenführung ein, teilt dies der Behörde, die den Antrag eingereicht hat, mit und unterrichtet gleichzeitig den Inhaber.
 - b) Die Behörde einer Vertragspartei, deren Recht die Zusammenführung von Registrierungen einer Marke nicht vorsieht, kann vor dem Datum, an dem diese Regel in Kraft tritt, oder dem Datum, von dem an diese Vertragspartei durch das Protokoll gebunden ist, dem Generaldirektor mitteilen, dass sie den unter Buchstabe a genannten Antrag nicht beim Internationalen Büro einreichen wird. Diese Erklärung kann jederzeit zurückgenommen werden.
 
-### **Regel 28**Berichtigungen im internationalen Register
+#### Regel 28
+
+**Berichtigungen im internationalen Register**
 
 \1) [Berichtigung]
 
@@ -1217,13 +1289,25 @@ Ungeachtet des Absatzes 1 kann ein Fehler, der einer Behörde zuzuschreiben ist 
 
 ## Kapitel 6 Erneuerungen
 
-### **Regel 29**Offiziöse Mitteilung über den Schutzablauf
+#### Regel 29
+
+**Offiziöse Mitteilung über den Schutzablauf**
 
 Die Tatsache, dass die in Artikel 7 Absatz 3 des Protokolls genannte offiziöse Mitteilung nicht eingegangen ist, stellt keine Entschuldigung für die Nichteinhaltung einer Frist nach Regel 30 dar.
 
-### **Regel 30**Einzelheiten betreffend die Erneuerung
+#### Regel 30
+
+**Einzelheiten betreffend die Erneuerung**
 
 \1) [Gebühren]
+
+\2) [Weitere Einzelheiten]
+
+\3) [Nicht ausreichende Gebühren]
+
+\4) [Zeitraum, für den die Erneuerungsgebühren entrichtet werden]
+
+Die für jede Erneuerung erforderlichen Gebühren werden für einen Zeitraum von zehn Jahren entrichtet.
 
 - a)
 
@@ -1233,10 +1317,8 @@ Die Tatsache, dass die in Artikel 7 Absatz 3 des Protokolls genannte offiziöse 
   - ii) gegebenenfalls der Zusatzgebühr; und
   - iii) der Ergänzungsgebühr beziehungsweise der individuellen Gebühr für jede benannte Vertragspartei, für die keine Erklärung über die Schutzverweigerung nach Regel 18<sup>ter</sup> oder Ungültigerklärung in Bezug auf alle betroffenen Waren und Dienstleistungen im internationalen Register eingetragen ist, wie unter Nummer 6 des Gebührenverzeichnisses angegeben oder genannt. Die Zahlung kann jedoch innerhalb von sechs Monaten nach dem Datum erfolgen, an dem die Erneuerung der internationalen Registrierung vorzunehmen ist, sofern gleichzeitig die unter Nummer 6.5 des Gebührenverzeichnisses angegebene Zuschlagsgebühr entrichtet wird.
 
-- b)[^chap6-lvlu2-1] Gehen Zahlungen zum Zweck der Erneuerung beim Internationalen Büro mehr als sechs Monate vor dem Datum ein, an dem die Erneuerung der internationalen Registrierung fällig ist, so gelten sie als sechs Monate vor dem Fälligkeitsdatum der Erneuerung eingegangen.
+- b)[^30-1] Gehen Zahlungen zum Zweck der Erneuerung beim Internationalen Büro mehr als sechs Monate vor dem Datum ein, an dem die Erneuerung der internationalen Registrierung fällig ist, so gelten sie als sechs Monate vor dem Fälligkeitsdatum der Erneuerung eingegangen.
 - c) Ist unbeschadet des Absatzes 2 eine Erklärung gemäss Regel 18<sup>ter</sup> Absatz 2 oder 4 im internationalen Register für eine Vertragspartei eingetragen worden, für welche die Zahlung einer individuellen Gebühr nach Buchstabe a Ziffer iii geschuldet ist, so wird der Betrag dieser individuellen Gebühr nur unter Berücksichtigung der in der genannten Erklärung angegebenen Waren und Dienstleistungen ermittelt.
-
-\2) [Weitere Einzelheiten]
 
 - a) Beabsichtigt der Inhaber nicht, die internationale Registrierung für eine benannte Vertragspartei, für die keine Erklärung über die Schutzverweigerung nach Regel 18<sup>ter</sup> in Bezug auf alle betroffenen Waren und Dienstleistungen im internationalen Register eingetragen ist, zu erneuern, so ist der Zahlung der erforderlichen Gebühren eine Erklärung des Inhabers beizufügen, dass die Erneuerung der internationalen Registrierung für diese Vertragspartei im internationalen Register nicht einzutragen ist.
 - b) Beabsichtigt der Inhaber, die internationale Registrierung für eine benannte Vertragspartei ungeachtet der Tatsache zu erneuern, dass für diese Vertragspartei im internationalen Register eine Erklärung über die Schutzverweigerung nach Regel 18<sup>ter</sup> in Bezug auf alle betroffenen Waren und Dienstleistungen eingetragen ist, so ist der Zahlung der erforderlichen Gebühren einschliesslich der Ergänzungsgebühr beziehungsweise der individuellen Gebühr für diese Vertragspartei eine Erklärung des Inhabers beizufügen, dass die Erneuerung der internationalen Registrierung für diese Vertragspartei für die betroffenen Waren und Dienstleistungen im internationalen Register einzutragen ist.
@@ -1244,19 +1326,15 @@ Die Tatsache, dass die in Artikel 7 Absatz 3 des Protokolls genannte offiziöse 
 - d) …
 - e) Die Tatsache, dass die internationale Registrierung nicht für alle benannten Vertragsparteien erneuert wird, gilt nicht als Änderung im Sinne des Artikels 7 Absatz 2 des Protokolls.
 
-\3) [Nicht ausreichende Gebühren]
-
 - a) Liegt der eingegangene Gebührenbetrag unter dem für die Erneuerung erforderlichen Gebührenbetrag, so teilt das Internationale Büro dies gleichzeitig dem Inhaber und gegebenenfalls dem Vertreter umgehend mit. In der Mitteilung wird der Fehlbetrag angegeben.
 - b) Liegt der bei Ablauf der in Absatz 1 Buchstabe a genannten Frist von sechs Monaten eingegangene Gebührenbetrag unter dem nach Absatz 1 erforderlichen Betrag, so trägt das Internationale Büro, vorbehaltlich des Buchstabens c, die Erneuerung nicht ein, erstattet dem Einzahler den eingegangenen Betrag zurück und teilt dies dem Inhaber sowie gegebenenfalls dem Vertreter mit.
 - c) Wurde die unter Buchstabe a genannte Mitteilung innerhalb von drei Monaten vor Ablauf der in Absatz 1 Buchstabe a genannten Frist von sechs Monaten abgesandt und liegt der eingegangene Gebührenbetrag bei Ablauf dieser Frist unter dem nach Absatz 1 erforderlichen Betrag, beläuft sich jedoch auf mindestens 70 v. H. dieses Betrags, so verfährt das Internationale Büro wie in Regel 31 Absätze 1 und 3 vorgesehen. Wird der erforderliche Betrag nicht innerhalb von drei Monaten nach dieser Mitteilung vollständig entrichtet, so löscht das Internationale Büro die Erneuerung, teilt dies dem Inhaber, gegebenenfalls dem Vertreter, und den Behörden mit, denen die Erneuerung mitgeteilt worden war, und erstattet dem Einzahler den eingegangenen Betrag zurück.
 
-\4) [Zeitraum, für den die Erneuerungsgebühren entrichtet werden]
+[^30-1]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
-Die für jede Erneuerung erforderlichen Gebühren werden für einen Zeitraum von zehn Jahren entrichtet.
+#### Regel 31
 
-[^chap6-lvlu2-1]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
-
-### **Regel 31**Eintragung der Erneuerung; Mitteilung und Bescheinigung
+**Eintragung der Erneuerung; Mitteilung und Bescheinigung**
 
 \1) [Eintragung und Erneuerungsdatum]
 
@@ -1277,9 +1355,19 @@ Das Internationale Büro teilt die Erneuerung den Behörden der beteiligten bena
 
 ## Kapitel 7 Blatt und Datenbank
 
-### **Regel 32**Blatt
+#### Regel 32
+
+**Blatt**
 
 \1) [Information über internationale Registrierungen]
+
+\2) [Informationen über besondere Erfordernisse und bestimmte Erklärungen von Vertragsparteien sowie andere allgemeine Informationen]
+
+\3) [Veröffentlichungen auf der Internetseite]
+
+Das Internationale Büro nimmt die Veröffentlichungen nach den Absätzen 1 und 2 auf der Internetseite der Weltorganisation für geistiges Eigentum vor.
+
+\4) …
 
 - a)
 
@@ -1296,34 +1384,29 @@ Das Internationale Büro teilt die Erneuerung den Behörden der beteiligten bena
   - [tab] viii<sup>bis</sup>) die nach Regel 27<sup>bis</sup> Absatz 4 eingetragene Teilung und die nach Regel 27<sup>ter</sup> eingetragene Zusammenführung;
   - ix) die nach Regel 28 vorgenommenen Berichtigungen;
   - x) die nach Regel 19 Absatz 2 eingetragenen Ungültigerklärungen;
-  - xi) die nach den Regeln 20, 20<sup>bis</sup>, 21, 21<sup>bis</sup>, 22 Absatz 2 Buchstabe a, 23 und 27 Absatz 4 eingetragenen Informationen;
+  - xi)[^32-1] die nach den Regeln 20, 20<sup>bis</sup>, 21, 21<sup>bis</sup>, 22 Absatz 2 Buchstabe a, 23 und 27 Absatz 4 und 5 eingetragenen Informationen;
   - xii) die nicht erneuerten internationalen Registrierungen;
   - xiii) Eintragungen der nach Regel 3 Absatz 2 Buchstabe b mitgeteilten Bestellung des Vertreters des Inhabers und Löschungen auf Antrag des Inhabers oder des Vertreters des Inhabers nach Regel 3 Absatz 6 Buchstabe a.
 
-- b)[^chap7-lvlu1-1] Die Abbildung der Marke wird in der im internationalen Gesuch eingereichten Form veröffentlicht. Hat der Hinterleger die in Regel 9 Absatz 4 Buchstabe a Ziffer vi genannte Erklärung abgegeben, so wird in der Veröffentlichung darauf hingewiesen.
-- c)[^chap7-lvlu1-2] …
-
-\2) [Informationen über besondere Erfordernisse und bestimmte Erklärungen von Vertragsparteien sowie andere allgemeine Informationen]
+- b)[^32-2] Die Abbildung der Marke wird in der im internationalen Gesuch eingereichten Form veröffentlicht. Hat der Hinterleger die in Regel 9 Absatz 4 Buchstabe a Ziffer vi genannte Erklärung abgegeben, so wird in der Veröffentlichung darauf hingewiesen.
+- c)[^32-3] …
 
 Das Internationale Büro veröffentlicht im Blatt:
 
-- i)[^chap7-lvlu1-3] jede Mitteilung nach Regel 7, 17 Absatz 7, 20<sup>bis</sup> Absatz 6, 27<sup>bis</sup> Absatz 6, 27<sup>ter</sup> Absatz 2 Buchstabe b oder 40 Absatz 6 und 7 und jede Erklärung nach Regel 17 Absatz 5 Buchstabe d oder e;
+- i)[^32-4] jede Mitteilung nach Regel 7, 17 Absatz 7, 20<sup>bis</sup> Absatz 6, 27<sup>bis</sup> Absatz 6, 27<sup>ter</sup> Absatz 2 Buchstabe b oder 40 Absatz 6 und 7 und jede Erklärung nach Regel 17 Absatz 5 Buchstabe d oder e;
 - ii) Erklärungen nach Artikel 5 Absatz 2 Buchstabe b oder Artikel 5 Absatz 2 Buchstabe b und Buchstabe c Satz 1 des Protokolls;
 - iii) Erklärungen nach Artikel 8 Absatz 7 des Protokolls;
 - iv) jede Mitteilung nach Regel 34 Absatz 2 Buchstabe b oder Absatz 3 Buchstabe a;
 - v) eine Aufstellung der Tage, an denen das Internationale Büro im laufenden und im folgenden Kalenderjahr für die Öffentlichkeit nicht geöffnet hat.
 
-\3) [Veröffentlichungen auf der Internetseite]
+[^32-1]: Fassung gemäss der am 1. Nov. 2024 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
+[^32-2]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-3]: Aufgehoben durch die am 1. Febr. 2023 in Kraft getretene Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
+[^32-4]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
-Das Internationale Büro nimmt die Veröffentlichungen nach den Absätzen 1 und 2 auf der Internetseite der Weltorganisation für geistiges Eigentum vor.
+#### Regel 33
 
-\4) …
-
-[^chap7-lvlu1-1]: Fassung gemäss der am 1. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^chap7-lvlu1-2]: Aufgehoben durch die am 1. Febr. 2023 in Kraft getretene Änd. ([AS 2023 68](https://fedlex.data.admin.ch/eli/oc/2023/68)).
-[^chap7-lvlu1-3]: Fassung gemäss der am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-
-### **Regel 33**Elektronische Datenbank
+**Elektronische Datenbank**
 
 \1) [Inhalt der Datenbank]
 
@@ -1339,7 +1422,9 @@ Die elektronische Datenbank wird den Behörden der Vertragsparteien und gegebene
 
 ## Kapitel 8 Gebühren
 
-### **Regel 34**Gebührenbetrag und Zahlung der Gebühren
+#### Regel 34
+
+**Gebührenbetrag und Zahlung der Gebühren**
 
 \1) [Gebührenbetrag]
 
@@ -1347,10 +1432,20 @@ Die Beträge der nach dem Protokoll oder dieser Ausführungsordnung zu entrichte
 
 \2) [Zahlungen]
 
+\3) [Individuelle Gebühr zahlbar in zwei Teilbeträgen]
+
+\4) [Zahlungsweise für Gebühren, die an das Internationale Büro entrichtet werden]
+
+Gebühren sind wie in den Verwaltungsvorschriften angegeben an das Internationale Büro zu entrichten.
+
+\5) [Angaben bei der Zahlung]
+
+\6) [Datum der Zahlung]
+
+\7) [Änderung des Gebührenbetrags]
+
 - a) Die im Gebührenverzeichnis angegebenen Gebühren können vom Hinterleger oder Inhaber oder, falls die Behörde der Vertragspartei des Inhabers den Einzug und die Weiterleitung dieser Gebühren übernommen hat und der Hinterleger oder Inhaber dies wünscht, von dieser Behörde an das internationale Büro gezahlt werden.
 - b) Jede Vertragspartei, deren Behörde den Einzug und die Weiterleitung der Gebühren übernommen hat, teilt dies dem Generaldirektor mit.
-
-\3) [Individuelle Gebühr zahlbar in zwei Teilbeträgen]
 
 - a) Eine Vertragspartei, die eine Erklärung nach Artikel 8 Absatz 7 des Protokolls abgibt oder abgegeben hat, kann dem Generaldirektor mitteilen, dass die individuelle Gebühr, die für eine Benennung dieser Vertragspartei zu entrichten ist, aus zwei Teilbeträgen besteht, wobei der erste Teilbetrag zum Zeitpunkt der Einreichung des internationalen Gesuchs oder der nachträglichen Benennung dieser Vertragspartei zu entrichten ist und der zweite Teilbetrag zu einem späteren Zeitpunkt, der sich nach dem Recht dieser Vertragspartei bestimmt.
 - b) Findet Buchstabe a Anwendung, so werden Hinweise auf eine individuelle Benennungsgebühr unter Punkt 2 und 5 des Gebührenverzeichnisses als Hinweise auf den ersten Teilbetrag der individuellen Gebühr betrachtet.
@@ -1365,23 +1460,13 @@ Die Beträge der nach dem Protokoll oder dieser Ausführungsordnung zu entrichte
 
 - d) Das Internationale Büro übersendet die Mitteilung an den Inhaber. Wird der zweite Teilbetrag der individuellen Gebühr innerhalb der massgeblichen Frist entrichtet, so trägt das Internationale Büro die Zahlung in das internationale Register ein und unterrichtet die Behörde der betroffenen Vertragspartei entsprechend. Wird der zweite Teilbetrag der individuellen Gebühr nicht innerhalb der massgeblichen Frist entrichtet, so unterrichtet das Internationale Büro die Behörde der betroffenen Vertragspartei, löscht die internationale Registrierung im internationalen Register in Bezug auf die betroffene Vertragspartei und unterrichtet den Inhaber entsprechend.
 
-\4) [Zahlungsweise für Gebühren, die an das Internationale Büro entrichtet werden]
-
-Gebühren sind wie in den Verwaltungsvorschriften angegeben an das Internationale Büro zu entrichten.
-
-\5) [Angaben bei der Zahlung]
-
 Bei jeder Gebührenzahlung an das Internationale Büro ist folgendes anzugeben:
 
 - i) vor der internationalen Registrierung der Name des Hinterlegers, die betreffende Marke sowie der Zweck der Zahlung;
 - ii) nach der internationalen Registrierung der Name des Inhabers, die Nummer der betreffenden internationalen Registrierung und der Zweck der Zahlung.
 
-\6) [Datum der Zahlung]
-
 - a) Vorbehaltlich der Regel 30 Absatz 1 Buchstabe b und des Buchstabens b des vorliegenden Absatzes gilt jede Gebühr als an dem Tag an das Internationale Büro gezahlt, an dem der erforderliche Betrag beim Internationalen Büro eingeht.
 - b) Ist der erforderliche Betrag auf einem beim Internationalen Büro bestehenden Konto verfügbar und hat das Internationale Büro vorn Kontoinhaber den Auftrag zur Abbuchung des Betrags von diesem Konto erhalten, so gilt die Gebühr als an dem Tag an das Internationale Büro gezahlt, an dem ein internationales Gesuch, eine nachträgliche Benennung, ein Antrag auf Eintragung einer Änderung oder ein Auftrag zur Erneuerung einer internationalen Registrierung beim Internationalen Büro eingeht.
-
-\7) [Änderung des Gebührenbetrags]
 
 - a) Tritt zwischen dem Datum, an dem bei der Ursprungsbehörde der Antrag auf Einreichung des internationalen Gesuchs beim Internationalen Büro eingeht, und dem Eingangsdatum des internationalen Gesuchs beim Internationalen Büro hinsichtlich des für die Einreichung eines internationalen Gesuchs zu entrichtenden Gebührenbetrags eine Änderung ein, so findet die Gebühr Anwendung, die am ersteren Datum gilt.
 - b) Wird von der Behörde der Vertragspartei des Inhabers eine Benennung nach Regel 24 eingereicht und tritt zwischen dem Eingangsdatum des Antrags des Inhabers auf Einreichung dieser Benennung bei der Behörde und dem Eingangsdatum der Benennung beim Internationalen Büro hinsichtlich des für diese Benennung zu entrichtenden Gebührenbetrags eine Änderung ein, so findet die Gebühr Anwendung, die am ersteren Datum gilt.
@@ -1389,7 +1474,9 @@ Bei jeder Gebührenzahlung an das Internationale Büro ist folgendes anzugeben:
 - d) Tritt zwischen dem Datum der Zahlung und dem Fälligkeitsdatum der Erneuerung hinsichtlich des für die Erneuerung einer internationalen Registrierung zu entrichtenden Gebührenbetrags eine Änderung ein, so findet die Gebühr Anwendung, die am Datum der Zahlung oder an dem Tag gilt, der nach Regel 30 Absatz 1 Buchstabe b als Datum der Zahlung betrachtet wird. Erfolgt die Zahlung nach dem Fälligkeitsdatum, so findet die am Fälligkeitsdatum geltende Gebühr Anwendung.
 - e) Ändert sich der Betrag einer anderen als der unter den Buchstaben a, b, c und d genannten Gebühren, so findet der am Datum des Eingangs der Gebühr beim Internationalen Büro geltende Betrag Anwendung.
 
-### **Regel 35**Währung, in der die Zahlungen zu entrichten sind
+#### Regel 35
+
+**Währung, in der die Zahlungen zu entrichten sind**
 
 \1) [Verpflichtung zur Zahlung in Schweizer Währung]
 
@@ -1402,12 +1489,14 @@ Alle aufgrund dieser Ausführungsordnung fälligen Zahlungen sind in Schweizer W
 - c) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die andere Währung, in der eine Vertragspartei den Betrag der individuellen Gebühr angegeben hat, während eines Zeitraums von mehr als drei aufeinander folgenden Monaten mindestens 5 v. H. über oder unter dem letzten Wechselkurs, der bei der Festsetzung des Betrags der individuellen Gebühr in Schweizer Währung zu Grunde gelegt wurde, so kann die Behörde dieser Vertragspartei den Generaldirektor ersuchen, den Betrag der individuellen Gebühr in Schweizer Währung auf der Grundlage des am Tag vor der Einreichung des Antrags geltenden amtlichen Wechselkurses der Vereinten Nationen erneut festzulegen. Der Generaldirektor handelt entsprechend. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, das jedoch zwischen einem Monat und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrags im Blatt liegen muss.
 - d) Liegt der amtliche Wechselkurs der Vereinten Nationen für die Schweizer Währung und die andere Währung, in der eine Vertragspartei den Betrag der individuellen Gebühr angegeben hat, während eines Zeitraums von mehr als drei aufeinanderfolgenden Monaten mindestens 10 v. H. unter dem letzten Wechselkurs, der bei der Festsetzung des Betrags der individuellen Gebühr in Schweizer Währung zu Grunde gelegt wurde, so legt der Generaldirektor einen neuen Betrag der individuellen Gebühr in Schweizer Währung nach dem gegenwärtigen amtlichen Wechselkurs der Vereinten Nationen fest. Der neue Betrag gilt von einem vom Generaldirektor festgelegten Datum an, das jedoch zwischen einem Monat und zwei Monaten nach dem Datum der Veröffentlichung dieses Betrags im Blatt liegen muss.
 
-### **Regel 36**Gebührenfreiheit
+#### Regel 36
+
+**Gebührenfreiheit**
 
 Die nachstehenden Eintragungen sind gebührenfrei:
 
 - i) die Bestellung eines Vertreters, jede Änderung betreffend einen Vertreter und die Löschung der Eintragung eines Vertreters;
-- ii)[^chap8-lvlu3-1] jede Änderung betreffend die Telefonnummer, Zustellanschrift, E-Mail-Adresse und jedes andere Mittel der Kommunikation mit dem Hinterleger, Inhaber oder Vertreter, wie in den Verwaltungsvorschriften angegeben;
+- ii)[^36-1] jede Änderung betreffend die Telefonnummer, Zustellanschrift, E-Mail-Adresse und jedes andere Mittel der Kommunikation mit dem Hinterleger, Inhaber oder Vertreter, wie in den Verwaltungsvorschriften angegeben;
 - iii) die Löschung der internationalen Registrierung;
 - iv) jeder Verzicht nach Regel 25 Absatz 1 Buchstabe a Ziffer iii;
 - v) jede Einschränkung im internationalen Gesuch selbst nach Regel 9 Absatz 4 Buchstabe a Ziffer xiii oder in einer nachträglichen Benennung nach Regel 24 Absatz 3 Buchstabe a Ziffer iv;
@@ -1419,11 +1508,15 @@ Die nachstehenden Eintragungen sind gebührenfrei:
 - xi) jede Mitteilung nach Regel 21 oder 23;
 - xii) jede Berichtigung im internationalen Register.
 
-[^chap8-lvlu3-1]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^36-1]: Fassung gemäss der am 1. Febr. 2021 in Kraft getretenen Änd. ([AS 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
-### **Regel 37**Verteilung der Zusatz- und Ergänzungsgebühren
+#### Regel 37
+
+**Verteilung der Zusatz- und Ergänzungsgebühren**
 
 \1) Der in Artikel 8 Absätze 5 und 6 des Protokolls genannte Koeffizient ist folgender:
+
+\2) Der Koeffizient vier wird auch auf Vertragsparteien angewendet, die von Amts wegen Recherchen nach älteren Rechten unter Angabe der besonders in Betracht kommenden älteren Rechte vornehmen.
 
 <table>
 <tr><td>bei Vertragsparteien, die eine Prüfung nur auf absolute Schutzverweigerungsgründe durchführen</td><td>zwei</td></tr>
@@ -1432,20 +1525,17 @@ Die nachstehenden Eintragungen sind gebührenfrei:
 <tr><td>b) von Amts wegen</td><td>vier</td></tr>
 </table>
 
-\2) Der Koeffizient vier wird auch auf Vertragsparteien angewendet, die von Amts wegen Recherchen nach älteren Rechten unter Angabe der besonders in Betracht kommenden älteren Rechte vornehmen.
+#### Regel 38
 
-### **Regel 38**Gutschrift individueller Gebühren auf den Konten der betroffenen Vertragsparteien
+**Gutschrift individueller Gebühren auf den Konten der betroffenen Vertragsparteien**
 
 Jede in Bezug auf eine Vertragspartei, die eine Erklärung nach Artikel 8 Absatz 7 Buchstabe a des Protokolls abgegeben hat, an das Internationale Büro entrichtete individuelle Gebühr wird dem Konto dieser Vertragspartei beim Internationalen Büro in dem Monat gutgeschrieben, der auf den Monat folgt, in dessen Verlauf die Eintragung der internationalen Registrierung, der nachträglichen Benennung oder der Erneuerung erfolgt ist, für die diese Gebühr entrichtet wurde oder die Zahlung des zweiten Teilbetrags der individuellen Gebühr eingetragen wurde.
 
 ## Kapitel 9 Verschiedenes
 
-### **Regel 39**Fortdauer der Wirkungen internationaler Registrierungen in bestimmten Nachfolgestaaten
+#### Regel 39
 
-\1) Hat ein Staat («Nachfolgestaat»), dessen Hoheitsgebiet vor der Unabhängigkeit des Staates Teil des Hoheitsgebiets einer Vertragspartei («Vorgängervertragspartei») war, beim Generaldirektor eine Weitergeltungserklärung hinterlegt, welche die Anwendung des Protokolls durch den Nachfolgestaat bewirkt, so wirkt sich eine internationale Registrierung mit einer in der Vorgängervertragspartei vor dem in Absatz 2 festgesetzten Datum wirksamen Ausdehnung des Schutzes im Nachfolgestaat erst aus, wenn folgende Voraussetzungen erfüllt sind:
-
-- i) Hinterlegung eines Gesuchs beim Internationalen Büro um Fortdauer der Wirkungen der betreffenden internationalen Registrierung im Nachfolgestaat innerhalb von sechs Monaten nach dem Datum einer vom Internationalen Büro zu diesem Zweck an den Inhaber der internationalen Registrierung übersandten Mitteilung; und
-- ii)[^chap9-lvlu1-1] Zahlung an das Internationale Büro innerhalb derselben Frist der unter der Nr. 10.1 des Gebührenverzeichnisses dem Internationalen Büro zustehenden Gebühr und der unter der Nr. 10.2 dieses Gebührenverzeichnisses angegebenen Gebühr, die dieses an den Nachfolgestaat überweist.
+**Fortdauer der Wirkungen internationaler Registrierungen in bestimmten Nachfolgestaaten**
 
 \2) Das in Absatz 1 genannte Datum ist das vom Nachfolgestaat dem Internationalen Büro für die Zwecke dieser Regel notifizierte Datum; allerdings darf dieses Datum nicht vor dem Datum der Unabhängigkeit des Nachfolgestaats liegen.
 
@@ -1455,15 +1545,40 @@ Jede in Bezug auf eine Vertragspartei, die eine Erklärung nach Artikel 8 Absatz
 
 \5) Diese Regel findet weder auf die Russische Föderation noch auf einen Staat, der beim Generaldirektor eine Erklärung abgegeben hat, er sei Rechtsnachfolger einer Vertragspartei, Anwendung.
 
-[^chap9-lvlu1-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+\1) Hat ein Staat («Nachfolgestaat»), dessen Hoheitsgebiet vor der Unabhängigkeit des Staates Teil des Hoheitsgebiets einer Vertragspartei («Vorgängervertragspartei») war, beim Generaldirektor eine Weitergeltungserklärung hinterlegt, welche die Anwendung des Protokolls durch den Nachfolgestaat bewirkt, so wirkt sich eine internationale Registrierung mit einer in der Vorgängervertragspartei vor dem in Absatz 2 festgesetzten Datum wirksamen Ausdehnung des Schutzes im Nachfolgestaat erst aus, wenn folgende Voraussetzungen erfüllt sind:
 
-### **Regel 40**Inkrafttreten; Übergangsbestimmungen
+- i) Hinterlegung eines Gesuchs beim Internationalen Büro um Fortdauer der Wirkungen der betreffenden internationalen Registrierung im Nachfolgestaat innerhalb von sechs Monaten nach dem Datum einer vom Internationalen Büro zu diesem Zweck an den Inhaber der internationalen Registrierung übersandten Mitteilung; und
+- ii)[^39-1] Zahlung an das Internationale Büro innerhalb derselben Frist der unter der Nr. 10.1 des Gebührenverzeichnisses dem Internationalen Büro zustehenden Gebühr und der unter der Nr. 10.2 dieses Gebührenverzeichnisses angegebenen Gebühr, die dieses an den Nachfolgestaat überweist.
+
+[^39-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+
+#### Regel 40
+
+**Inkrafttreten; Übergangsbestimmungen**
 
 \1) [Inkrafttreten]
 
 Diese Ausführungsordnung tritt am 1. Februar 2020 in Kraft und ersetzt von diesem Zeitpunkt an die am 31. Januar 2020 geltende Gemeinsame Ausführungsordnung zum Madrider Abkommen über die internationale Registrierung von Marken und zum Protokoll zu diesem Abkommen (im Folgenden als «Gemeinsame Ausführungsordnung» bezeichnet).
 
 \2) [Allgemeine Übergangsbestimmungen]
+
+\3) …
+
+\4) [Übergangsbestimmungen hinsichtlich der Sprachen]
+
+\5) …
+
+\6) [Unvereinbarkeit mit nationalem oder regionalem Recht]
+
+Ist an dem Datum, an dem die vorliegende Regel in Kraft tritt, oder dem Datum, von dem an eine Vertragspartei durch das Protokoll gebunden ist, Regel 27<sup>bis</sup> Absatz 1 oder Regel 27<sup>ter</sup> Absatz 2 Buchstabe a nicht mit dem innerstaatlichen oder regionalen Recht dieser Vertragspartei vereinbar, so ist der betreffende Absatz beziehungsweise sind die betreffenden Absätze in Bezug auf diese Vertragspartei nicht anwendbar, solange er oder sie weiterhin nicht mit diesem Recht vereinbar ist oder sind, vorausgesetzt, diese Vertragspartei teilt dies vor dem Datum, an dem diese Regel in Kraft tritt, oder dem Datum, von dem an diese Vertragspartei durch das Protokoll gebunden ist, dem Internationalen Büro mit. Diese Mitteilung kann jederzeit zurückgenommen werden.
+
+\7) [Übergangsbestimmung hinsichtlich der Teilersetzung]
+
+Kein Amt ist verpflichtet, Regel 21 Absatz 3 Buchstabe d Satz 2 vor dem 1. Februar 2025 anzuwenden.[^40-1]
+
+\8) [Übergangsbestimmung zu den Regeln 17 Absatz 2 Ziffer v und vii und Absatz 3 sowie 18 Absatz 1 Buchstabe e)]
+
+Die Vertragsparteien können weiterhin die Regeln 17 Absatz 2 Ziffer v und vii und Absatz 3 sowie 18 Absatz 1 Buchstabe e, wie sie seit dem 1. November 2021 in Kraft sind, bis am 1. Februar 2025 oder bis zu einem späteren Datum anwenden, sofern die betreffende Vertragspartei dem Internationalen Büro vor dem 1. Februar 2025 oder vor dem Datum, an welches diese Vertragspartei durch das Protokoll gebunden ist, eine Mitteilung sendet. Das spätere Datum wird berücksichtigt. Die Vertragspartei kann diese Mitteilung nachfolgend jederzeit zurückziehen.[^40-2] [^40-3]
 
 - a)
 
@@ -1479,10 +1594,6 @@ Diese Ausführungsordnung tritt am 1. Februar 2020 in Kraft und ersetzt von dies
 - c) Eine Mitteilung nach den Regeln 6 Absatz 2 Ziffer iii, 7 Absatz 2, 17 Absatz 5 Buchstabe d, 20<sup>bis</sup> Absatz 6, 27<sup>bis</sup> Absatz 6, 27<sup>ter</sup> Absatz 2 Buchstabe b, 34 Absatz 3 Buchstabe a oder 40 Absatz 6 der Gemeinsamen Ausführungsordnung, die von der Behörde einer Vertragspartei vor dem 1. Februar 2020 an das Internationale Büro übersandt wird, wirkt sich nach den Regeln 6 Absatz 2 Ziffer iii, 7 Absatz 2, 17 Absatz 5 Buchstabe d, 20<sup>bis</sup> Absatz 6, 27<sup>bis</sup> Absatz 6, 27<sup>ter</sup> Absatz 2 Buchstabe b, 34 Absatz 3 Buchstabe a oder 40 Absatz 6 weiterhin aus..
 - d) …
 
-\3) …
-
-\4) [Übergangsbestimmungen hinsichtlich der Sprachen]
-
 - a)
 
   Regel 6 in der vor dem 1. April 2004 geltenden Fassung der Gemeinsamen Ausführungsordnung findet weiterhin Anwendung auf jedes internationale Gesuch, das vor diesem Datum eingereicht wurde und auf jedes zwischen diesem Datum und einschliesslich dem 31. August 2008 eingereichte internationale Gesuch gemäss der Definition in Regel 1 Ziffer viii der Gemeinsamen Ausführungsordnung, für das ausschliesslich das Abkommen massgebend ist sowie auf jede diesbezügliche Mitteilung und auf jede Mitteilung, Eintragung in das internationale Register oder Veröffentlichung im Blatt bezüglich der sich daraus ergebenden internationalen Registrierung, es sei denn:
@@ -1493,30 +1604,15 @@ Diese Ausführungsordnung tritt am 1. Februar 2020 in Kraft und ersetzt von dies
 
 - b) Für die Zwecke des vorliegenden Absatzes gilt ein internationales Gesuch als an dem Datum eingereicht, an dem der Antrag, das internationale Gesuch beim Internationalen Büro einzureichen, bei der Ursprungsbehörde eingeht oder nach Regel 11 Absatz 1 Buchstabe a oder c der Gemeinsamen Ausführungsordnung als eingegangen gilt und eine nachträgliche Benennung in Bezug auf eine internationale Registrierung gilt als an dem Datum erfolgt, an dem die nachträgliche Benennung beim Internationalen Büro eingereicht wird, falls sie unmittelbar vom Inhaber eingereicht wird, oder an dem Datum, an dem der Antrag auf Einreichung der nachträglichen Benennung der Behörde der Vertragspartei des Inhabers übergeben wird, falls sie über diese Behörde eingereicht wird.
 
-\5) …
+[^40-1]: Eingefügt gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
+[^40-2]: Die Annahme dieser Bestimmung durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass die Vertragsparteien nicht verpflichtet sind, in der Mitteilung das Datum anzugeben, an dem sie die Regeln 17 Absatz 2 Ziffer v und vii sowie 18 Absatz 1 Buchstabe e, wie sie am 1. November 2023 in Kraft getreten sind, anwenden werden.
+[^40-3]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
 
-\6) [Unvereinbarkeit mit nationalem oder regionalem Recht]
+#### Regel 41
 
-Ist an dem Datum, an dem die vorliegende Regel in Kraft tritt, oder dem Datum, von dem an eine Vertragspartei durch das Protokoll gebunden ist, Regel 27<sup>bis</sup> Absatz 1 oder Regel 27<sup>ter</sup> Absatz 2 Buchstabe a nicht mit dem innerstaatlichen oder regionalen Recht dieser Vertragspartei vereinbar, so ist der betreffende Absatz beziehungsweise sind die betreffenden Absätze in Bezug auf diese Vertragspartei nicht anwendbar, solange er oder sie weiterhin nicht mit diesem Recht vereinbar ist oder sind, vorausgesetzt, diese Vertragspartei teilt dies vor dem Datum, an dem diese Regel in Kraft tritt, oder dem Datum, von dem an diese Vertragspartei durch das Protokoll gebunden ist, dem Internationalen Büro mit. Diese Mitteilung kann jederzeit zurückgenommen werden.
-
-\7) [Übergangsbestimmung hinsichtlich der Teilersetzung]
-
-Kein Amt ist verpflichtet, Regel 21 Absatz 3 Buchstabe d Satz 2 vor dem 1. Februar 2025 anzuwenden.[^chap9-lvlu2-1]
-
-\8) [Übergangsbestimmung zu den Regeln 17 Absatz 2 Ziffer v und vii und Absatz 3 sowie 18 Absatz 1 Buchstabe e)]
-
-Die Vertragsparteien können weiterhin die Regeln 17 Absatz 2 Ziffer v und vii und Absatz 3 sowie 18 Absatz 1 Buchstabe e, wie sie seit dem 1. November 2021 in Kraft sind, bis am 1. Februar 2025 oder bis zu einem späteren Datum anwenden, sofern die betreffende Vertragspartei dem Internationalen Büro vor dem 1. Februar 2025 oder vor dem Datum, an welches diese Vertragspartei durch das Protokoll gebunden ist, eine Mitteilung sendet. Das spätere Datum wird berücksichtigt. Die Vertragspartei kann diese Mitteilung nachfolgend jederzeit zurückziehen.[^chap9-lvlu2-2] [^chap9-lvlu2-3]
-
-[^chap9-lvlu2-1]: Eingefügt gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2023 66](https://fedlex.data.admin.ch/eli/oc/2023/66)).
-[^chap9-lvlu2-2]: Die Annahme dieser Bestimmung durch die Versammlung des Madrider Verbands erfolgte in dem Verständnis, dass die Vertragsparteien nicht verpflichtet sind, in der Mitteilung das Datum anzugeben, an dem sie die Regeln 17 Absatz 2 Ziffer v und vii sowie 18 Absatz 1 Buchstabe e, wie sie am 1. November 2023 in Kraft getreten sind, anwenden werden.
-[^chap9-lvlu2-3]: Eingefügt durch die am 1. Nov. 2023 in Kraft getretenen Änd. ([AS 2023 806](https://fedlex.data.admin.ch/eli/oc/2023/806)).
-
-### **Regel 41**Verwaltungsvorschriften
+**Verwaltungsvorschriften**
 
 \1) [Erlass von Verwaltungsvorschriften; in den Verwaltungsvorschriften geregelte Angelegenheiten]
-
-- a) Die Verwaltungsvorschriften werden vom Generaldirektor erlassen. Der Generaldirektor kann sie ändern. Vor Erlass oder Änderung der Verwaltungsvorschriften konsultiert der Generaldirektor die von den vorgeschlagenen Verwaltungsvorschriften oder ihrer vorgeschlagenen Änderung unmittelbar betroffenen Behörden.
-- b) Die Verwaltungsvorschriften regeln Angelegenheiten, hinsichtlich derer diese Ausführungsordnung ausdrücklich auf diese Vorschriften verweist, sowie Einzelheiten der Anwendung dieser Ausführungsordnung.
 
 \2) [Aufsicht der Versammlung]
 
@@ -1524,12 +1620,15 @@ Die Versammlung kann den Generaldirektor auffordern, Bestimmungen der Verwaltung
 
 \3) [Veröffentlichung und Inkrafttreten]
 
-- a) Die Verwaltungsvorschriften sowie alle Änderungen dieser Vorschriften werden im Blatt veröffentlicht.
-- b) Bei jeder Veröffentlichung wird der Zeitpunkt angegeben, an dem die veröffentlichten Bestimmungen in Kraft treten. Der Zeitpunkt muss nicht für alle Bestimmungen derselbe sein, jedoch kann keine Bestimmung vor dem Datum ihrer Veröffentlichung im Blatt in Kraft treten.
-
 \4) [Widerspruch zwischen den Verwaltungsvorschriften und dem Protokoll oder dieser Ausführungsordnung]
 
 Im Falle eines Widerspruchs zwischen einer Bestimmung der Verwaltungsvorschriften einerseits und einer Bestimmung des Protokolls oder dieser Ausführungsordnung andererseits hat letztere Vorrang.
+
+- a) Die Verwaltungsvorschriften werden vom Generaldirektor erlassen. Der Generaldirektor kann sie ändern. Vor Erlass oder Änderung der Verwaltungsvorschriften konsultiert der Generaldirektor die von den vorgeschlagenen Verwaltungsvorschriften oder ihrer vorgeschlagenen Änderung unmittelbar betroffenen Behörden.
+- b) Die Verwaltungsvorschriften regeln Angelegenheiten, hinsichtlich derer diese Ausführungsordnung ausdrücklich auf diese Vorschriften verweist, sowie Einzelheiten der Anwendung dieser Ausführungsordnung.
+
+- a) Die Verwaltungsvorschriften sowie alle Änderungen dieser Vorschriften werden im Blatt veröffentlicht.
+- b) Bei jeder Veröffentlichung wird der Zeitpunkt angegeben, an dem die veröffentlichten Bestimmungen in Kraft treten. Der Zeitpunkt muss nicht für alle Bestimmungen derselbe sein, jedoch kann keine Bestimmung vor dem Datum ihrer Veröffentlichung im Blatt in Kraft treten.
 
 ## Gebührenverzeichnis
 
