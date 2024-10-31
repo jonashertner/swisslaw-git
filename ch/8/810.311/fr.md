@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2005 relative à la recherche sur les cellules 
 short: ORCS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/105"
 language: fr
-version: 2012-04-01
+version: 2024-11-01
 adopted: 2005-02-02
 in_force: 2005-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/105/20120401/fr/xml/fedlex-data-admin-ch-eli-cc-2005-105-20120401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/105/20120401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/105/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-105-20241101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/105/20241101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/105/20120401/fr"
 
 (Ordonnance relative à la recherche sur les cellules souches, ORCS)
 
-du 2 février 2005 (Etat le 1<sup>er</sup> avril 2012)
+du 2 février 2005 (État le 1<sup>er</sup> novembre 2024)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 17 de la loi du 19 décembre 2003 relative à la recherche sur les cellules souches (loi)[^ingress-1],
+vu l’art. 17 de la loi du 19 décembre 2003 relative à la recherche sur les cellules souches (LRCS)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 ## Section 1 Information et consentement du couple concerné
 
@@ -37,7 +38,9 @@ Si un embryon ne peut être utilisé pour induire une grossesse, le médecin exp
 
 - a. que ledit embryon est surnuméraire;
 - b. pourquoi il l’est, et
-- c. qu’il devra être détruit s’il n’est pas utilisé, dans le respect des conditions fixées par la loi, pour la production de cellules souches embryonnaires en vue de la réalisation d’un projet de recherche (production de cellules souches) ou pour un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires.
+- c. qu’il devra être détruit s’il n’est pas utilisé, dans le respect des conditions fixées par la LRCS[^1-1], pour la production de cellules souches embryonnaires en vue de la réalisation d’un projet de recherche (production de cellules souches) ou pour un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires.
+
+[^1-1]: Nouvelle expression selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
@@ -45,60 +48,81 @@ Si un embryon ne peut être utilisé pour induire une grossesse, le médecin exp
 
 <sup>1</sup>
 
-Si un projet de production de cellules souches embryonnaires ou un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires a été autorisé, le médecin informe le couple par oral et de manière compréhensible:
+Si la production de cellules souches embryonnaires ou un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires a été autorisé, le médecin informe le couple par oral et de manière compréhensible:[^2-1]
 
-- a. de la nature et du but du projet de recherche considéré, et de la date prévue pour le début du projet;
-- b. de ses droits visés à l’art. 5, al. 3, de la loi et aux al. 3 et 4 du présent article;
-- c. de la gratuité prévue à l’art. 4 de la loi;
+- a.[^2-2] de la nature et du but du projet de recherche concerné, et de la date prévue pour le début de ce dernier;
+- b.[^2-3] de ses droits visés à l’art. 5, al. 3, LRCS, à l’al. 3 du présent article et à l’art. 3, al. 2;
+- c. de la gratuité prévue à l’art. 4 de la LRCS;
 - d. des mesures prévues à l’art. 27 pour protéger les données personnelles du couple;
-- e. que des tiers peuvent acquérir des droits sur des cellules souches embryonnaires ou des produits obtenus à partir de cellules souches embryonnaires, en conformité, par exemple, avec les dispositions de la loi du 25 juin 1954 sur les brevets[^2-1], sans que le couple puisse se prévaloir d’un quelconque droit;
+- e.[^2-4] que des tiers peuvent acquérir des droits sur des cellules souches embryonnaires ou des produits obtenus à partir de cellules souches embryonnaires, sans que le couple puisse se prévaloir d’un quelconque droit;
 - f. que les cellules souches embryonnaires ou les produits obtenus à partir de cellules souches embryonnaires peuvent être utilisés dans la recherche et la pratique cliniques sans que le couple puisse se prévaloir d’un quelconque droit;
-- g. que les cellules souches embryonnaires, conformément à l’art. 9, al. 1, let. c, de la loi, pourront être transmises à d’autres projets de recherche; et
-- h. du contenu du formulaire de consentement visé à l’art. 3.
+- g. que les cellules souches embryonnaires, conformément à l’art. 9, al. 1, let. c, de la LRCS, pourront être transmises à d’autres projets de recherche; et
+- h.[^2-5] du contenu du formulaire de consentement visé à l’art. 3, al. 1.
 
 <sup>2</sup> Le médecin remet au couple une feuille d’information et un formulaire de consentement fournis par la personne responsable du projet de recherche (direction du projet).
 
 <sup>3</sup> Le couple a le droit de poser ou de faire poser des questions à la direction du projet.
 
-<sup>4</sup> Un délai de réflexion raisonnable doit être accordé au couple avent qu’il ne prenne sa décision.
+<sup>4</sup> ...[^2-6]
 
-[^2-1]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^2-6]: Abrogé par le ch. I de l’O du 7 juin 2024, avec effet au 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 3
 
-**Contenu du formulaire de consentement**
+**Consentement**[^3-1]
 
-En signant le formulaire de consentement, le couple déclare avoir été informé conformément à l’art. 2 et autorise l’utilisation de l’embryon surnuméraire pour la production de cellules souches ou pour un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires.
+<sup>1</sup> En signant le formulaire de consentement, le couple déclare avoir été informé conformément à l’art. 2 et consent à l’utilisation de l’embryon surnuméraire pour la production de cellules souches ou pour un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires.
+
+<sup>2</sup> Un délai de réflexion raisonnable doit être accordé au couple avant qu’il ne prenne sa décision.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 4
 
-**Conséquences d’un refus ou d’un retrait du consentement**
+**Conséquences d’un refus ou de la révocation du consentement**[^4-1]
 
-Le refus ou le retrait du consentement par le couple ou par l’un des deux partenaires ne doit porter aucun préjudice au couple dans la suite du traitement.
+Le refus ou la révocation du consentement par le couple ou par l’un des deux partenaires ne doit porter aucun préjudice au couple dans la suite du traitement.
 
-## Section 2 Autorisation de produire des cellules souches embryonnaires
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+
+## Section 2 Procédure d’autorisation pour produire des cellules souches embryonnaires
+
+[^sec2-1]
+
+[^sec2-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 5
 
 **Demande d’autorisation**
 
-Quiconque souhaite obtenir l’autorisation de produire des cellules souches embryonnaires en vue de réaliser un projet de recherche (art. 7 de la loi) doit soumettre à l’Office fédéral de la santé publique (office) les documents ci-après pour examen:
+Quiconque souhaite obtenir l’autorisation de produire des cellules souches embryonnaires en vue de réaliser un projet de recherche (art. 7 de la LRCS) doit soumettre à l’Office fédéral de la santé publique (OFSP[^5-1]) les documents ci-après pour examen:
 
-- a. le dossier complet du projet de production de cellules souches embryonnaires, y compris une attestation de l’adéquation des installations du laboratoire;
-- b. le dossier complet du projet de recherche pour lequel des cellules souches embryonnaires seront utilisées, tel qu’il a été soumis à la commission d’éthique compétente en application de l’art. 17;
-- c. l’avis favorable de la commission d’éthique compétente sur le projet de recherche;
-- d. une note, basée sur un extrait du registre visé à l’art. 18 de la loi, expliquant pourquoi les cellules souches embryonnaires disponibles en Suisse ne conviennent pas pour le projet de recherche en question;
+- a.[^5-2] le dossier complet du processus pour la production de cellules souches embryonnaires, y compris une attestation de l’adéquation des installations du laboratoire;
+- b.[^5-3] le dossier complet du projet de recherche pour lequel des cellules souches embryonnaires seront utilisées, tel qu’il a été soumis à la commission d’éthique compétente selon l’art. 17 ou selon la loi du 30 septembre 2011 relative à la recherche sur l’être humain (LRH)[^5-4];
+- c.[^5-5] la décision de la commission d’éthique compétente autorisant le projet de recherche;
+- d. une note, basée sur un extrait du registre visé à l’art. 18 de la LRCS, expliquant pourquoi les cellules souches embryonnaires disponibles en Suisse ne conviennent pas pour le projet de recherche en question;
 - e. l’indication du nombre d’embryons surnuméraires qui seront probablement nécessaires.
+
+[^5-1]: Nouvelle expression selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^5-4]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 6
 
 **Examen du dossier**
 
-<sup>1</sup> L’office vérifie:
+<sup>1</sup> L’OFSP vérifie:
 
 a. que le dossier fourni est complet;
 
-b. que les conditions d’autorisation fixées par la loi sont remplies.
+b. que les conditions d’autorisation fixées par la LRCS sont remplies.
 
 <sup>2</sup> Il peut demander à la direction du projet de lui fournir des documents supplémentaires.
 
@@ -106,35 +130,46 @@ b. que les conditions d’autorisation fixées par la loi sont remplies.
 
 **Délai**
 
-<sup>1</sup> L’office décide dans les 60 jours.
+<sup>1</sup> L’OFSP décide dans les 60 jours.
 
-<sup>2</sup> Si l’office demande à la direction du projet des documents supplémentaires, le délai commence à courir à compter du jour de la réception des documents requis; l’office indique à la direction du projet la date à laquelle le délai commence à courir.
+<sup>2</sup> Si l’OFSP demande à la direction du projet des documents supplémentaires, le délai commence à courir à compter du jour de la réception des documents requis.[^7-1]
 
-## Section 3 Autorisation des projets de recherche visant à améliorer les processus de production de cellules souches embryonnaires
+<sup>3</sup> L’OFSP indique à la direction du projet la date à laquelle le délai commence à courir.[^7-2]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^7-2]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+
+## Section 3 Procédure d’autorisation pour des projets de recherche visant à améliorer les processus de production de cellules souches embryonnaires
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 8
 
 **Demande d’autorisation**
 
-Quiconque souhaite obtenir l’autorisation de réaliser un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires (art. 8 de la loi) doit soumettre à l’office les documents ci-après pour examen:
+Quiconque souhaite obtenir l’autorisation de réaliser un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires (art. 8 de la LRCS) doit soumettre à l’OFSP les documents ci-après pour examen:
 
 - a. le dossier complet du projet de recherche, y compris une attestation de l’adéquation des installations du laboratoire;
 - b. un note expliquant en quoi le projet de recherche pourrait permettre d’obtenir des connaissances essentielles pour l’amélioration des processus de production;
-- c. une note expliquant pourquoi il n’est pas possible d’obtenir d’une autre manière des connaissances d’égale valeur, notamment par des expériences sur des embryons animaux;
+- c.[^8-1] une note expliquant pourquoi il n’est pas possible d’obtenir d’une autre manière des connaissances d’égale valeur, notamment par des projets de recherche avec des cellules souches pluripotentes induites (CSPi);
 - d. l’indication du nombre d’embryons surnuméraires qui seront probablement nécessaires;
 - e. la feuille d’information et le formulaire de consentement.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 9
 
 **Examen du dossier**
 
-<sup>1</sup> L’office vérifie:
+<sup>1</sup> L’OFSP vérifie:
 
 a. que le dossier fourni est complet;
 
 b. que la feuille d’information et le formulaire de consentement sont compréhensibles et complets;
 
-c. que les conditions d’autorisation fixées par la loi sont remplies.
+c. que les conditions d’autorisation fixées par la LRCS sont remplies.
 
 <sup>2</sup> Il peut demander à la direction du projet de lui fournir des documents supplémentaires.
 
@@ -142,19 +177,28 @@ c. que les conditions d’autorisation fixées par la loi sont remplies.
 
 **Délai**
 
-<sup>1</sup> L’office décide dans les 60 jours.
+<sup>1</sup> L’OFSP décide dans les 60 jours.
 
-<sup>2</sup> Si l’office demande à la direction du projet des documents supplémentaires, le délai commence à courir à compter du jour de la réception des documents requis; l’office indique à la direction du projet la date à laquelle le délai commence à courir.
+<sup>2</sup> Si l’OFSP demande à la direction du projet des documents supplémentaires, le délai commence à courir à compter du jour de la réception des documents requis.[^10-1]
 
-## Section 4 Autorisation de conserver des embryons surnuméraires
+<sup>3</sup> L’OFSP indique à la direction du projet la date à laquelle le délai commence à courir.[^10-2]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^10-2]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+
+## Section 4 Procédure d’autorisation pour conserver des embryons surnuméraires
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 11
 
 **Demande d’autorisation**
 
-Quiconque souhaite obtenir l’autorisation de conserver des embryons surnuméraires (art. 10 de la loi) doit soumettre à l’office les documents ci-après pour examen:
+Quiconque souhaite obtenir l’autorisation de conserver des embryons surnuméraires (art. 10 de la LRCS) doit soumettre à l’OFSP les documents ci-après pour examen:
 
-- a. l’autorisation délivrée en application des art. 7 ou 8 de la loi;
+- a. l’autorisation délivrée en application des art. 7 ou 8 de la LRCS;
 - b. une note expliquant pourquoi la conservation des embryons surnuméraires est absolument indispensable;
 - c. une attestation des qualifications du personnel;
 - d. une attestation de l’adéquation des installations du laboratoire.
@@ -163,77 +207,99 @@ Quiconque souhaite obtenir l’autorisation de conserver des embryons surnuméra
 
 **Examen du dossier**
 
-L’office vérifie:
+L’OFSP vérifie:
 
 - a. que le dossier fourni est complet;
-- b. que les conditions d’autorisation fixées par la loi sont remplies.
+- b. que les conditions d’autorisation fixées par la LRCS sont remplies.
 
-## Section 5 Autorisation d’importer des cellules souches embryonnaires
+## Section 5 Procédure d’autorisation pour importer des cellules souches embryonnaires
+
+[^sec5-1]
+
+[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 13
 
 **Demande d’autorisation**
 
-Quiconque souhaite obtenir l’autorisation d’importer des cellules souches embryonnaires (art. 15 de la loi) doit fournir à l’office les documents ci-après pour examen:
+Quiconque souhaite obtenir l’autorisation d’importer des cellules souches embryonnaires (art. 15 de la LRCS) doit fournir à l’OFSP les documents ci-après pour examen:
 
-- a. le dossier complet du projet de recherche pour lequel des cellules souches embryonnaires seront utilisées, tel qu’il a été soumis à la commission d’éthique compétente en application de l’art. 17;
-- b. l’avis favorable de la commission d’éthique compétente sur le projet de recherche;
+- a.[^13-1] le dossier complet du projet de recherche pour lequel des cellules souches embryonnaires seront utilisées, tel qu’il a été soumis à la commission d’éthique compétente selon l’art. 17 ou selon la LRH[^13-2];
+- b.[^13-3] la décision de la commission d’éthique compétente autorisant le projet de recherche;
 - c. l’indication du nombre de cellules souches embryonnaires et de lignées de cellules souches embryonnaires nécessaires, et leur caractérisation, conformément à l’art. 29, al. 1, let. b;
 - d.
 
-  l’attestation, fournie par l’organe compétent en vertu du droit en vigueur dans le pays concerné ou par un autre organe reconnu par ce pays, selon laquelle:
+  l’attestation selon laquelle:[^13-4]
 
   - 1\. les cellules souches embryonnaires ont été obtenues à partir d’embryons surnuméraires,
   - 2\. le couple concerné, après avoir été informé, a consenti librement à l’utilisation de l’embryon à des fins de recherche,
   - 3\. le couple ne perçoit aucune rémunération.
 
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^13-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^13-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+
 #### Art. 14
 
 **Examen du dossier**
 
-L’office vérifie:
+L’OFSP vérifie:
 
 - a. que le dossier fourni est complet;
-- b. que les conditions d’autorisation fixées par la loi sont remplies.
+- b. que les conditions d’autorisation fixées par la LRCS sont remplies.
 
-## Section 6 Autorisation d’exporter des cellules souches embryonnaires
+## Section 6 Procédure d’autorisation pour exporter des cellules souches embryonnaires
+
+[^sec6-1]
+
+[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 15
 
 **Demande d’autorisation**
 
-Quiconque souhaite obtenir l’autorisation d’exporter des cellules souches embryonnaires (art. 15 de la loi) doit fournir à l’office les documents ci-après pour examen:
+Quiconque souhaite obtenir l’autorisation d’exporter des cellules souches embryonnaires (art. 15 de la LRCS) doit fournir à l’OFSP les documents ci-après pour examen:
 
 - a. le titre, le but et le lieu de réalisation du projet de recherche pour lequel des cellules souches embryonnaires seront utilisées;
 - b. le nom et l’adresse de la direction du projet;
 - c. l’indication du nombre de cellules souches embryonnaires et de lignées de cellules souches embryonnaires à exporter, et leur caractérisation, conformément à l’art. 29, al. 1, let. b;
 - d.
 
-  l’attestation, fournie par l’organe compétent en vertu du droit en vigueur dans le pays concerné ou par un autre organe reconnu par ce pays, selon laquelle:
+  l’attestation selon laquelle:[^15-1]
 
   - 1\. le projet permet d’obtenir des connaissances essentielles sur le diagnostic, le traitement ou la prévention de maladies graves ou sur la biologie du développement de l’être humain,
   - 2\. le projet a été approuvé du point de vue éthique par un organe indépendant de la direction du projet.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 16
 
 **Examen du dossier**
 
-L’office vérifie:
+L’OFSP vérifie:
 
 - a. que le dossier fourni est complet;
-- b. que les conditions d’autorisation fixées par la loi sont remplies.
+- b. que les conditions d’autorisation fixées par la LRCS sont remplies.
 
-## Section 7 Avis de la commission d’éthique compétente et autorisation de lancement du projet de recherche
+## Section 7 Procédure d’autorisation auprès de la commission d’éthique compétente et procédure d’autorisation pour le lancement du projet de recherche
+
+[^sec7-1]
+
+[^sec7-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 17
 
 **Demande d’autorisation**
 
-Quiconque a besoin d’un avis de la commission d’éthique pour réaliser un projet de recherche pour lequel des cellules souches embryonnaires seront utilisées (art. 11 de la loi) doit lui soumettre les documents ci-après pour examen:
+Quiconque a besoin d’une autorisation pour réaliser un projet de recherche pour lequel des cellules souches embryonnaires seront utilisées (art. 11 LRCS) doit soumettre à la commission d’éthique compétente les documents ci‑après pour examen:[^17-1]
 
 - a. un dossier complet du projet de recherche;
-- b. une note expliquant pourquoi il n’est pas possible d’obtenir d’une autre manière des connaissances d’égale valeur;
+- b.[^17-2] une note expliquant pourquoi il n’est pas possible d’obtenir d’une autre manière des connaissances d’égale valeur, notamment en utilisant des CSPi;
 - c. la feuille d’information et le formulaire de consentement, s’il est nécessaire de produire des cellules souches embryonnaires pour le projet de recherche concerné.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 18
 
@@ -244,19 +310,25 @@ Quiconque a besoin d’un avis de la commission d’éthique pour réaliser un p
 La commission d’éthique vérifie:
 
 - a. que le dossier fourni est complet;
-- b. que les conditions fixées par la loi pour la réalisation du projet de recherche pour lequel des cellules souches seront utilisées sont remplies.
+- b. que les conditions fixées par la LRCS pour la réalisation du projet de recherche pour lequel des cellules souches seront utilisées sont remplies.
 
-<sup>2</sup> Si le projet de recherche est réalisé sur plusieurs sites, il suffit que la commission d’éthique compétente pour le premier site ait rendu un avis favorable dans le cadre d’une procédure ordinaire; les autres commissions d’éthique concernées pourront prendre leur décision dans le cadre d’une procédure simplifiée. La direction du projet doit présenter l’avis favorable de la commission d’éthique compétente du premier site.
+<sup>2</sup> Si le projet de recherche est réalisé sur plusieurs sites, il suffit que la commission d’éthique compétente pour le premier site ait délivré une autorisation dans le cadre d’une procédure ordinaire; les autres commissions d’éthique concernées pourront prendre leur décision dans le cadre d’une procédure simplifiée. La direction du projet doit présenter l’autorisation de la commission d’éthique compétente du premier site.[^18-1]
 
 <sup>3</sup> La commission d’éthique peut, pour évaluer le projet de recherche, faire appel à des experts et demander à la direction du projet des documents supplémentaires.
 
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+
 #### Art. 19
 
-**Délai**
+**Délai**[^19-1]
 
-<sup>1</sup> La commission d’éthique émet son avis dans les 30 jours.
+<sup>1</sup> La commission d’éthique rend sa décision dans les 30 jours.
 
-<sup>2</sup> Si elle fait appel à des experts ou qu’elle demande à la direction du projet de lui fournir des documents supplémentaires, le délai commence à courir à compter du jour de la réception de l’avis des experts ou des documents requis; elle indique à la direction du projet la date à laquelle le délai commence à courir.
+<sup>2</sup> Si elle fait appel à des experts ou qu’elle demande à la direction du projet de lui fournir des documents supplémentaires, le délai commence à courir à compter du jour de la réception de l’avis des experts ou des documents requis.
+
+<sup>3</sup> La commission d’éthique indique à la direction du projet la date à laquelle le délai commence à courir.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 20
 
@@ -264,72 +336,88 @@ La commission d’éthique vérifie:
 
 <sup>1</sup>
 
-Avant de lancer le projet de recherche, la direction du projet annonce le projet à l’office et lui communique:
+Avant de lancer le projet de recherche, la direction du projet déclare[^20-1] le projet à l’OFSP et lui communique:
 
-- a. le titre du projet de recherche, si l’office a déjà reçu le dossier relatif au projet de recherche dans le cadre de la procédure d’autorisation visée aux art. 5 ou 13;
-- b. le dossier complet du projet de recherche, tel qu’il a été soumis à la commission d’éthique compétente en application de l’art. 17, et l’avis favorable de la commission d’éthique, s’il s’agit d’un projet pour lequel seront utilisées des cellules souches embryonnaires disponibles en Suisse.
+- a. le titre du projet de recherche, si l’OFSP a déjà reçu le dossier relatif au projet de recherche dans le cadre de la procédure d’autorisation visée aux art. 5 ou 13;
+- b.[^20-2] le dossier complet du projet de recherche, tel qu’il a été soumis à la commission d’éthique compétente en application de l’art. 17, et l’autorisation de la commission d’éthique, s’il s’agit d’un projet pour lequel seront utilisées des cellules souches embryonnaires disponibles en Suisse.
 
-<sup>2</sup> L’office peut demander à la direction du projet de lui fournir des documents supplémentaires.
+<sup>2</sup> L’OFSP peut demander à la direction du projet de lui fournir des documents supplémentaires.
 
-<sup>3</sup> Si le projet ne donne lieu à aucune objection de sa part, l’office attribue un numéro de référence au projet de recherche dans les 15 jours à compter de la date de la réception de l’annonce ou des documents requis. Il communique ce numéro à la direction du projet.
+<sup>3</sup> Si le projet ne donne lieu à aucune objection de sa part, l’OFSP attribue un numéro de référence au projet de recherche dans les 15 jours à compter de la date de la réception de la déclaration[^20-3] ou des documents requis. Il communique ce numéro à la direction du projet.
 
 <sup>4</sup> Le projet de recherche peut démarrer dès que le numéro de référence a été communiqué.
 
+[^20-1]: Nouvelle expression selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)). Il a été tenu compte de cette mod. dans tout le texte.
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^20-3]: Nouvelle expression selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)). Il a été tenu compte de cette mod. dans tout le texte.
+
 #### Art. 21
 
-**Réévaluation d’un projet et retrait de l’avis favorable**
+**Réévaluation d’un projet et retrait de l’autorisation[^21-1]**
 
-<sup>1</sup> La commission d’éthique peut procéder à la réévaluation d’un projet de recherche et, le cas échéant, retirer son avis favorable si des faits scientifiques nouveaux et la réévaluation éthique qui en découle le requièrent.
+<sup>1</sup> La commission d’éthique peut procéder à la réévaluation d’un projet de recherche et, le cas échéant, retirer son autorisation si des faits scientifiques nouveaux et la réévaluation éthique qui en découle le requièrent.[^21-2]
 
-<sup>2</sup> Elle notifie sans délai le retrait de son avis favorable à la direction du projet et à l’office.
+<sup>2</sup> Elle notifie sans délai le retrait de son autorisation à la direction du projet et à l’OFSP.[^21-3]
 
-<sup>3</sup> Si elle soupçonne des irrégularités dans la mise en œuvre du projet, elle en informe l’office sans délai.
+<sup>3</sup> Si elle soupçonne des irrégularités dans la mise en œuvre du projet, elle en informe l’OFSP sans délai.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 ## Section 8 Modification d’un projet
 
 #### Art. 22
 
-<sup>1</sup> Quiconque produit des cellules souches embryonnaires, réalise un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires, conserve des embryons surnuméraires ou encore importe ou exporte des cellules souches embryonnaires, doit annoncer à l’office toute modification importante qu’il compte apporter au projet concerné.
+<sup>1</sup> Quiconque produit des cellules souches embryonnaires, réalise un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires, conserve des embryons surnuméraires ou encore importe ou exporte des cellules souches embryonnaires, doit déclarer à l’OFSP toute modification importante qu’il compte apporter au projet concerné.
 
-<sup>2</sup> Quiconque réalise un projet de recherche pour lequel des cellules souches embryonnaires sont utilisées doit annoncer à la commission d’éthique et à l’office toute modification importante qu’il compte apporter au protocole de recherche.
+<sup>2</sup> Quiconque réalise un projet de recherche pour lequel des cellules souches embryonnaires sont utilisées doit déclarer à la commission d’éthique et à l’OFSP toute modification importante qu’il compte apporter au protocole de recherche.
 
-<sup>3</sup> L’office ou la commission d’éthique et l’office se prononcent dans les 30 jours à compter de la date de la réception de l’annonce des modifications.
+<sup>3</sup> L’OFSP ou la commission d’éthique et l’OFSP se prononcent dans les 30 jours à compter de la date de la réception de la déclaration des modifications.
 
-<sup>4</sup> Un projet au sens de l’al. 1 ne peut être poursuivi selon les modifications annoncées que si l’office délivre une nouvelle autorisation.
+<sup>4</sup> Un projet au sens de l’al. 1 ne peut être poursuivi selon les modifications annoncées que si l’OFSP délivre une nouvelle autorisation.
 
-<sup>5</sup> Un projet de recherche au sens de l’al. 2 ne peut être poursuivi selon les modifications annoncées que si la commission d’éthique émet un nouvel avis favorable et que l’office autorise le redémarrage du projet.
+<sup>5</sup> Un projet de recherche au sens de l’al. 2 ne peut être poursuivi conformément au protocole de recherche modifié que si la commission d’éthique délivre une nouvelle autorisation et que l’OFSP autorise le redémarrage du projet.[^22-1]
 
-## Section 9 Obligation d’annoncer et rapports
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+
+## Section 9 Obligation de déclarer et rapports
+
+[^sec9-1]
+
+[^sec9-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 23
 
-**Annonce après l’interruption ou l’achèvement d’un projet**
+**Déclaration après l’interruption ou l’achèvement d’un projet ou de la production de cellules souches embryonnaires**[^23-1]
 
-<sup>1</sup> Quiconque produit des cellules souches embryonnaires ou réalise un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires doit annoncer à l’office, dans les 15 jours, l’interruption ou l’achèvement du projet concerné.
+<sup>1</sup> Quiconque produit des cellules souches embryonnaires ou réalise un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires doit déclarer à l’OFSP, dans les 15 jours, l’interruption ou l’achèvement de la production des cellules souches embryonnaires ou du projet de recherche.
 
-<sup>2</sup> Quiconque réalise un projet de recherche pour lequel des cellules souches embryonnaires sont utilisées doit annoncer à l’office et à la commission d’éthique, dans les 15 jours, l’interruption ou l’achèvement du projet.
+<sup>2</sup> Quiconque réalise un projet de recherche pour lequel des cellules souches embryonnaires sont utilisées doit déclarer à l’OFSP et à la commission d’éthique, dans les 15 jours, l’interruption ou l’achèvement du projet.
 
-<sup>3</sup> Les motifs de l’interruption doivent être précisés dans l’annonce.
+<sup>3</sup> Les motifs de l’interruption doivent être précisés dans la déclaration.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 24
 
 **Rapport final**
 
-<sup>1</sup> Quiconque produit des cellules souches embryonnaires ou réalise un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires doit présenter un rapport à l’office dans les six mois qui suivent l’interruption ou l’achèvement du projet concerné.
+<sup>1</sup> Quiconque produit des cellules souches embryonnaires ou réalise un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires doit présenter un rapport à l’OFSP dans les six mois qui suivent l’interruption ou l’achèvement du projet concerné.
 
-<sup>2</sup> Quiconque réalise un projet de recherche pour lequel des cellules souches embryonnaires sont utilisées doit présenter un rapport à l’office et à la commission d’éthique dans les six mois qui suivent l’interruption ou l’achèvement du projet.
+<sup>2</sup> Quiconque réalise un projet de recherche pour lequel des cellules souches embryonnaires sont utilisées doit présenter un rapport à l’OFSP et à la commission d’éthique dans les six mois qui suivent l’interruption ou l’achèvement du projet.
 
-<sup>3</sup> L’office peut raccourcir ce délai si des motifs importants le justifient; il peut le prolonger dans des cas exceptionnels dûment motivés par la direction du projet.
+<sup>3</sup> L’OFSP peut raccourcir ce délai si des motifs importants le justifient; il peut le prolonger dans des cas exceptionnels dûment motivés par la direction du projet.
 
 #### Art. 25
 
 **Contenu du rapport final**
 
-<sup>1</sup> Tout rapport final doit documenter le déroulement et les résultats du projet de production de cellules souches embryonnaires, du projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires ou du projet de recherche pour lequel des cellules souches ont été utilisées.
+<sup>1</sup> Tout rapport final doit documenter le déroulement et les résultats de la production de cellules souches embryonnaires, du projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires ou du projet de recherche pour lequel des cellules souches ont été utilisées.[^25-1]
 
 <sup>2</sup>
 
-Le rapport final sur un projet de production de cellules souches embryonnaires doit en outre préciser:
+Le rapport final sur la production de cellules souches embryonnaires doit en outre préciser:[^25-2]
 
 - a. le nombre d’embryons qui ont été utilisés;
 - b. le nombre de cellules souches embryonnaires qui ont été produites et le nombre de lignées de cellules souches embryonnaires ainsi que leur caractérisation, conformément à l’art. 29, al. 1, let. b.
@@ -340,15 +428,20 @@ Le rapport final sur un projet de recherche visant à améliorer les processus d
 
 - a. préciser le nombre d’embryons qui ont été utilisés;
 - b. préciser le nombre de cellules souches embryonnaires qui ont été produites et le nombre de lignées de cellules souches embryonnaires ainsi que leur caractérisation, conformément à l’art. 29, al. 1, let. b, si de telles cellules souches ont été produites en lien avec le projet;
-- c. contenir un résumé des résultats positifs et négatifs.
+- c.[^25-3] contenir un résumé des résultats obtenus.
 
-<sup>4</sup> Le rapport final sur un projet de recherche pour lequel des cellules souches embryonnaires ont été utilisées doit en outre contenir un résumé des résultats positifs et négatifs.
+<sup>4</sup> Le rapport final sur un projet de recherche pour lequel des cellules souches embryonnaires ont été utilisées doit en outre contenir un résumé des résultats obtenus.[^25-4]
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^25-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
+[^25-4]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 #### Art. 26
 
 **Conservation de cellules souches embryonnaires**
 
-Quiconque conserve des cellules souches embryonnaires doit indiquer à l’office, au 1<sup>er</sup> juillet de chaque année, le nombre de cellules souches entrées et sorties, le nombre de lignées de cellules souches stockées et leur caractérisation, conformément à l’art. 29, al. 1, let. b.
+Quiconque conserve des cellules souches embryonnaires doit indiquer à l’OFSP, au 1<sup>er</sup> juillet de chaque année, le nombre de cellules souches entrées et sorties, le nombre de lignées de cellules souches stockées et leur caractérisation, conformément à l’art. 29, al. 1, let. b.
 
 ## Section 10 Protection des données
 
@@ -356,9 +449,11 @@ Quiconque conserve des cellules souches embryonnaires doit indiquer à l’offic
 
 <sup>1</sup> Les données permettant l’identification du couple concerné ne doivent pas être communiquées aux personnes participant à la production de cellules souches embryonnaires ou aux projets de recherche.
 
-<sup>2</sup> Avant de mettre un embryon surnuméraire à la disposition d’un projet de production de cellules souches ou à celle d’un projet de recherche visant à améliorer les processus de production de cellules souches, la clinique où la fécondation in vitro a été pratiquée rend anonymes les données relatives à l’embryon surnuméraire en leur attribuant un code.
+<sup>2</sup> Avant de mettre un embryon surnuméraire à la disposition de la production de cellules souches ou à celle d’un projet de recherche visant à améliorer les processus de production de cellules souches, la clinique où la fécondation in vitro a été pratiquée pseudonymise les données relatives à l’embryon surnuméraire en leur attribuant un code.[^27-1]
 
 <sup>3</sup> Elle conserve pendant 10 ans les données relatives au couple concerné, la feuille d’information, l’original du formulaire de consentement signé et la clé du code. Les mesures de sécurité concernant les données doivent correspondre à l’état actuel de la technique.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 ## Section 11 Registre public
 
@@ -366,9 +461,9 @@ Quiconque conserve des cellules souches embryonnaires doit indiquer à l’offic
 
 **But du registre**
 
-Le registre visé à l’art. 18 de la loi doit notamment:
+Le registre visé à l’art. 18 de la LRCS doit notamment:
 
-- a. servir à la remise de cellules souches embryonnaires pour des projets de recherche menés en Suisse au sens de l’art. 9, al. 1, let. c, de la loi;
+- a. servir à la remise de cellules souches embryonnaires pour des projets de recherche menés en Suisse au sens de l’art. 9, al. 1, let. c, de la LRCS;
 - b. permettre d’évaluer si des cellules souches embryonnaires appropriées sont disponibles en Suisse pour un projet de recherche donné;
 - c. donner une vue d’ensemble des projets de recherche en cours ou achevés en Suisse.
 
@@ -378,7 +473,7 @@ Le registre visé à l’art. 18 de la loi doit notamment:
 
 <sup>1</sup>
 
-Quiconque produit des cellules souches embryonnaires, réalise un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires ou un projet pour lequel des cellules souches embryonnaires sont utilisées, ou encore importe des cellules souches embryonnaires, doit communiquer à l’office:
+Quiconque produit des cellules souches embryonnaires, réalise un projet de recherche visant à améliorer les processus de production de cellules souches embryonnaires ou un projet pour lequel des cellules souches embryonnaires sont utilisées, ou encore importe des cellules souches embryonnaires, doit communiquer à l’OFSP:
 
 - a.
 
@@ -386,16 +481,18 @@ Quiconque produit des cellules souches embryonnaires, réalise un projet de rech
 
   - 1\. le titre du projet,
   - 2\. son but,
-  - 3\. le nom et l’adresse de la direction du projet,
+  - 3\.[^29-1] le nom et l’adresse du titulaire de l’autorisation,
   - 4\. la date prévue pour le début du projet et sa durée probable;
 
 - b. la caractérisation des cellules souches embryonnaires produites ou utilisées lors du projet ainsi que celle des lignées de cellules souches embryonnaires utilisées; par lignées de cellules souches embryonnaires, on entend les cellules pluripotentes prélevées sur les cellules d’un embryon à un stade précoce, qui peuvent être cultivées et reproduites in vitro pendant plusieurs générations et qui se caractérisent par un génotype et un phénotype stables.
 
-<sup>2</sup> L’office inscrit dans le registre les indications requises à l’al. 1, let. a, lorsqu’il accorde des autorisations visées aux art. 5, 8 ou 13 ou lorsqu’il reçoit l’annonce prévue à l’art. 20.
+<sup>2</sup> L’OFSP inscrit dans le registre les indications requises à l’al. 1, let. a, lorsqu’il accorde des autorisations visées aux art. 5, 8 ou 13 ou lorsqu’il reçoit la déclaration prévue à l’art. 20.
 
 <sup>3</sup> Il publie dans le registre les résumés prévus à l’art. 25, al. 3, let. c, et al. 4.
 
 <sup>4</sup> Il peut demander des précisions sur les indications fournies.
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 325](https://fedlex.data.admin.ch/eli/oc/2024/325)).
 
 ## Section 12 Emoluments
 
@@ -411,7 +508,7 @@ Quiconque produit des cellules souches embryonnaires, réalise un projet de rech
 
 **Montant des émoluments**
 
-L’office perçoit notamment les émoluments suivants:
+L’OFSP perçoit notamment les émoluments suivants:
 
 <table>
 <tr><th></th><th>en francs</th></tr>
@@ -432,7 +529,7 @@ L’office perçoit notamment les émoluments suivants:
 
 **Supplément**
 
-L’office peut exiger un supplément allant jusqu’à 50 % des émoluments si la prestation:
+L’OFSP peut exiger un supplément allant jusqu’à 50 % des émoluments si la prestation:
 
 - a. est, sur demande, fournie d’urgence ou en dehors des horaires habituels;
 - b. est d’une ampleur inhabituelle ou présente des difficultés particulières.
@@ -441,7 +538,7 @@ L’office peut exiger un supplément allant jusqu’à 50 % des émoluments si 
 
 **Débours**
 
-Outre les émoluments, l’office facture les débours dans le cas d’espèce. Sont notamment considérés comme des débours:
+Outre les émoluments, l’OFSP facture les débours dans le cas d’espèce. Sont notamment considérés comme des débours:
 
 - a. les honoraires des membres des commissions, des experts et des mandataires;
 - b. les frais liés à la recherche de preuves, aux analyses scientifiques, aux examens spéciaux ou à la nécessité de se procurer des documents;
@@ -453,10 +550,10 @@ Outre les émoluments, l’office facture les débours dans le cas d’espèce. 
 
 #### Art. 34
 
-L’office peut prescrire des formulaires:
+L’OFSP peut prescrire des formulaires:
 
 - a. pour les procédures d’autorisation visées aux art. 5, 8, 11, 13 et 15;
-- b. pour les annonces ou les rapports visés aux art. 20, 23 et 24;
+- b. pour les déclarations ou les rapports visés aux art. 20, 23 et 24;
 - c. pour les indications qui doivent être inscrites dans le registre des cellules souches embryonnaires.
 
 ## Section 14 Entrée en vigueur
