@@ -4,13 +4,12 @@ number: "931.100"
 title: Waldgesetz des Kantons Aargau
 short: AWaG
 language: de
-version: 2019-01-01
-valid_until: 2024-10-31
-version_adopted: 2018-06-05
+version: 2024-11-01
+version_adopted: 2023-11-07
 adopted: 1997-07-01
 in_force: 1999-03-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/931.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2665/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3651/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2665/pdf_file"
 
 (AWaG)
 
-Vom 01.07.1997 (Stand 01.01.2019)
+Vom 01.07.1997 (Stand 01.11.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -53,7 +52,9 @@ beschliesst:
 
 <sup>3</sup> Besondere Leistungen im Bereich der Schutz- und Wohlfahrtsfunktionen werden durch die Nutzniessenden oder die Verursachenden abgegolten.
 
-<sup>4</sup> Der Wald ist nach Massgabe des Bundesrechts öffentlich zugänglich. Wer sich darin aufhält, hat ihn zu schonen.
+<sup>3<sup>bis</sup></sup> Im Schutzwald beteiligen sich die Einwohnergemeinden und Infrastrukturbetreibenden nach Massgabe ihres jeweiligen Sondervorteils mit maximal 20 % der Kosten an der Schutzwaldpflege gemäss Art. 20 Abs. 5 WaG.
+
+<sup>4</sup> Der Wald ist nach Massgabe des Bundesrechts öffentlich zugänglich. Wer sich darin aufhält, tut dies auf eigene Verantwortung und hat den Wald zu schonen.
 
 #### § 3
 
@@ -103,7 +104,7 @@ beschliesst:
 
 <sup>1</sup> Die Waldeigentümerinnen und Waldeigentümer haben auf den naturschützerisch besonders wertvollen Flächen über den naturnahen Waldbau hinaus je nach Zielsetzung geeignete Pflegemassnahmen zu Gunsten des Arten- und Biotopschutzes durchzuführen oder zur Gewährleistung natürlicher Abläufe ganz auf die Holznutzung zu verzichten.
 
-<sup>2</sup> Als besonders wertvoll gelten der Waldrand sowie diejenigen Flächen und seltenen Waldgesellschaften, die im Waldentwicklungsplan gemäss § 15 entsprechend bezeichnet sind.
+<sup>2</sup> Als besonders wertvoll gelten der Waldrand sowie diejenigen Flächen und seltenen Waldgesellschaften, die in den überbetrieblichen Planungsinstrumenten gemäss § 14a entsprechend bezeichnet sind.
 
 <sup>3</sup> Für vertraglich gesicherte Nutzungsverzichte und besondere Pflegemassnahmen im Dienst des Naturschutzes leistet der Kanton finanzielle Beiträge.
 
@@ -115,9 +116,11 @@ beschliesst:
 
 <sup>1</sup> Der Kanton sorgt in der Richtplanung für den Einbezug der Ziele und Massnahmen dieses Gesetzes und für deren Abstimmung mit den andern raumwirksamen Tätigkeiten.
 
-<sup>2</sup> Die Einwohnergemeinden berücksichtigen die Ziele und Massnahmen dieses Gesetzes in der Nutzungsplanung. Sie lassen das im Waldgrenzenplan rechtskräftig festgelegte Waldareal als Orientierungsinhalt in den Nutzungsplänen eintragen. Wo nötig, schaffen sie Schutzzonen im Wald.
+<sup>2</sup> Die Einwohnergemeinden berücksichtigen die Ziele und Massnahmen dieses Gesetzes in der Nutzungsplanung. Sie lassen das im Waldgrenzenplan rechtskräftig festgelegte Waldareal als Orientierungsinhalt in den Nutzungsplänen eintragen. Wo nötig, schaffen sie Schutzzonen und Zonen zur Freizeitnutzung im Wald[^6-1].
 
 <sup>3</sup> Die forstliche Planung berücksichtigt die raumplanerischen Vorgaben.
+
+[^6-1]: Vom Bund unter Vorbehalt genehmigt am 4. September 2024 (siehe Materialien)
 
 ### 2.2. Rodungen
 
@@ -148,6 +151,8 @@ beschliesst:
 
 <sup>5</sup> …
 
+<sup>6</sup> Der Kanton verwendet die Ausgleichsabgaben gemäss den Absätzen 1 und 2 für Leistungen gemäss § 25.
+
 #### § 9
 
 **Ausführungsbestimmungen**
@@ -166,13 +171,15 @@ beschliesst:
 
 **Veranstaltungen**
 
-<sup>1</sup> Für Veranstaltungen im Wald oder am Waldrand, die erhebliche nachteilige Auswirkungen auf den Wald haben können, ist eine Bewilligung der Einwohnergemeinde erforderlich. Betrifft die Veranstaltung mehrere Gemeinden, ist eine Bewilligung der zuständigen kantonalen Behörde erforderlich.
+<sup>1</sup> Für eine Veranstaltung im Wald oder am Waldrand, die erhebliche nachteilige Auswirkungen auf den Wald haben kann, ist eine Bewilligung der Einwohnergemeinde erforderlich. Betrifft die Veranstaltung mehrere Gemeinden, ist eine Bewilligung der zuständigen kantonalen Behörde erforderlich.
+
+<sup>1<sup>bis</sup></sup> Für eine Veranstaltung gemäss Absatz 1 ist keine Ausnahmebewilligung für eine nachteilige Nutzung gemäss § 13 erforderlich.
 
 <sup>2</sup> Die Bewilligungsinstanz lehnt das Gesuch ab, wenn die Veranstaltung wegen des damit verbundenen Lärms oder aus einem anderen Grund mit den Zielen dieses Gesetzes oder anderen schützenswerten privaten oder öffentlichen Interessen unvereinbar ist.
 
 <sup>3</sup> Die Einwohnergemeinde kontrolliert die Einhaltung der Bedingungen und Auflagen.
 
-<sup>4</sup> Der Regierungsrat regelt das Verfahren. Er kann für bestimmte Veranstaltungen an Stelle der Bewilligungspflicht lediglich eine vorgängige Meldepflicht vorsehen.
+<sup>4</sup> Der Regierungsrat regelt das Verfahren durch Verordnung. Er kann für bestimmte Veranstaltungen an Stelle der Bewilligungspflicht lediglich eine vorgängige Meldepflicht vorsehen.
 
 #### § 12
 
@@ -180,10 +187,11 @@ beschliesst:
 
 <sup>1</sup> Waldstrassen, Waldwege und Waldbestand dürfen nur zu forstlichen Zwecken mit motorisierten Fahrzeugen befahren werden. Vorbehalten bleiben die bundesrechtlichen Ausnahmen für militärische und bestimmte andere öffentliche Aufgaben.
 
-<sup>2</sup> Der Regierungsrat regelt
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung
 
 - a) weitere Ausnahmen wie Unterhalt von Versorgungsanlagen, Landwirtschaftsverkehr, Jagd und Wildhege;
 - b) die Errichtung von Signalisationen und die Erstellung von Einrichtungen, die das unbefugte Befahren mit motorisierten Fahrzeugen verhindern;
+- b<sup>bis</sup>) die Erstellung eines in elektronischer Form zu führenden kantonalen Waldstrassenplans;
 - c) Zuständigkeiten und Verfahren, einschliesslich Strafverfolgung.
 
 #### § 13
@@ -192,7 +200,7 @@ beschliesst:
 
 <sup>1</sup> Die Waldweide, das Niederhalten von Bäumen sowie Ablagerungen gehören zu den unzulässigen nachteiligen Nutzungen (Art. 16 WaG). Das Gleiche gilt für das Reiten und das Fahren abseits von Waldstrassen und Waldwegen.
 
-<sup>2</sup> Ausnahmsweise können diese und andere nachteilige Nutzungen aus wichtigen Gründen durch die vom Regierungsrat bezeichnete Behörde unter der Voraussetzung bewilligt werden, dass sie mit den Zielen des Gesetzes im Einzelfall vereinbar sind.
+<sup>2</sup> Ausnahmsweise können diese und andere nachteilige Nutzungen aus wichtigen Gründen durch die vom Regierungsrat bezeichnete Behörde unter der Voraussetzung bewilligt werden, dass sie mit den Zielen des Gesetzes im Einzelfall vereinbar sind. Der Regierungsrat regelt das Verfahren durch Verordnung.
 
 ## 3. Pflege und Nutzung des Waldes
 
@@ -202,25 +210,25 @@ beschliesst:
 
 **Planarten und Planungsziele**
 
-<sup>1</sup> Die forstliche Planung umfasst den Waldentwicklungsplan und den Betriebsplan.
+<sup>1</sup> Die forstliche Planung umfasst die überbetrieblichen Planungsinstrumente und den Betriebsplan.
 
-<sup>2</sup> Sie setzt die Ziele dieses und anderer Gesetze um und stellt einen naturnahen Waldbau sowie die Verwirklichung des Grundsatzes der Nachhaltigkeit sicher.
+<sup>2</sup> Die überbetrieblichen Planungsinstrumente und der Betriebsplan setzen die Ziele dieses und anderer Gesetze um und stellen einen naturnahen Waldbau sowie die Verwirklichung des Grundsatzes der Nachhaltigkeit sicher.
+
+#### § 14a
+
+**Überbetriebliche Planungsinstrumente**
+
+<sup>1</sup> Als überbetriebliche Planungsinstrumente gelten namentlich der Richtplan, kantonale und kommunale Nutzungsplanungen, Sachpläne und Dekrete, soweit sie ihrem Zweck entsprechend Vorgaben zur Waldentwicklung, Gewichtung der Waldfunktionen und zur Abstimmung von raumwirksamen Tätigkeiten machen.
 
 #### § 15
 
-**Waldentwicklungsplan**
-
-<sup>1</sup> Der Waldentwicklungsplan gibt Aufschluss über die Standortverhältnisse, die Waldfunktionen und deren Gewichtung sowie über die angestrebten Entwicklungen.
-
-<sup>2</sup> Der Regierungsrat erlässt oder ändert den Waldentwicklungsplan nach der Durchführung eines Mitwirkungsverfahrens. In diesem wird der Planentwurf aufgelegt. Den Waldeigentümerinnen und Waldeigentümern, den Einwohnergemeinden und der Öffentlichkeit wird die Möglichkeit gegeben, Einwendungen zu erheben und Vorschläge einzureichen.
-
-<sup>3</sup> Der Waldentwicklungsplan umfasst das ganze Kantonsgebiet; er kann in regionale Waldentwicklungspläne unterteilt werden.
+**…**
 
 #### § 16
 
 **Betriebsplan**
 
-<sup>1</sup> Der Betriebsplan konkretisiert die Vorgaben des Waldentwicklungsplans für die einzelnen Forstbetriebe. Er regelt die Pflege und Nutzung des Waldes näher.
+<sup>1</sup> Der Betriebsplan konkretisiert die Vorgaben der überbetrieblichen Planungsinstrumente für die einzelnen Forstbetriebe. Er regelt die Pflege und Nutzung des Waldes näher.
 
 <sup>2</sup> Er wird von den Waldeigentümerinnen und Waldeigentümern erstellt und bedarf der Genehmigung durch das zuständige Departement, das vorgängig die Stellungnahmen der betroffenen Einwohnergemeinden einholt.
 
@@ -234,7 +242,7 @@ beschliesst:
 
 <sup>1</sup> Die Bewirtschaftung des Waldes ist Sache der Waldeigentümerinnen und Waldeigentümer. Sie trägt zu ausreichender Versorgung mit Holz als Rohstoff und Energieträger bei.
 
-<sup>2</sup> Eine Bewirtschaftungspflicht besteht nur insoweit, als sie bei der Genehmigung des Betriebsplans festgelegt worden ist.
+<sup>2</sup> Eine Bewirtschaftungspflicht besteht nur insoweit, als sie bei der Genehmigung des Betriebsplans beziehungsweise für den Privatwald und den nicht betriebsplanpflichtigen öffentlichen Wald durch Verfügung festgelegt worden ist.
 
 <sup>3</sup> Die Bewirtschaftung hat den Anforderungen des naturnahen Waldbaus zu entsprechen. Dazu gehören Naturverjüngungen, standortgerechte Baum- und Straucharten sowie die Orientierung an natürlichen Abläufen.
 
@@ -264,9 +272,11 @@ beschliesst:
 
 **Zuständigkeit des Regierungsrates**
 
-<sup>1</sup> Der Regierungsrat regelt die inhaltlichen Anforderungen und das Verfahren für die forstliche Planung.
+<sup>1</sup> Der Regierungsrat regelt die inhaltlichen Anforderungen und das Verfahren für die forstliche Planung durch Verordnung.
 
 <sup>2</sup> Er kann für kleinflächiges Waldeigentum eine vereinfachte Betriebsplanung oder die gänzliche Entbindung von der Betriebsplanungspflicht vorsehen und geringfügige Holzschläge von der Bewilligungspflicht befreien.
+
+<sup>3</sup> Er regelt durch Verordnung die Sicherstellung minimaler waldbaulicher Massnahmen im Schutzwald sowie das Verfahren und die behördliche Zuständigkeit zur Festlegung der Schutzwaldpflegebeiträge gemäss § 25 und der durch die Nutzniessenden zu leistenden Beiträge gemäss § 2 Abs. 3<sup>bis</sup>.
 
 ## 4. Förderungsmassnahmen
 
@@ -316,13 +326,16 @@ beschliesst:
 
 - a) naturschutzbedingte Nutzungsverzichte oder Pflegemassnahmen;
 - b) Massnahmen zur Verhütung und Behebung von Waldschäden gemäss § 19 Abs. 2;
-- c) Leistungen der Forstreviere gemäss § 28 Abs. 1.
+- c) Leistungen der Forstreviere gemäss § 28 Abs. 1;
+- d) Pflegemassnahmen zu Gunsten des Schutzwaldes.
 
 <sup>2</sup> Er kann für Massnahmen und für die Erfüllung von Aufgaben, die der Walderhaltung und der Sicherung nachhaltiger Waldleistungen dienen, projektbezogene oder pauschale Beiträge entrichten, namentlich für die Jungwaldpflege.
 
 <sup>3</sup> Er kann im Weiteren Beiträge entrichten für Massnahmen, die vom Bund selbstständig oder in Abhängigkeit von kantonalen Beiträgen unterstützt werden, sofern die Voraussetzungen nach § 24 erfüllt sind.
 
-<sup>4</sup> Der Grosse Rat legt die Grundsätze für die Gewährung und Bemessung der Beiträge in einem Dekret fest.
+<sup>4</sup> Der Grosse Rat legt die Grundsätze für die Gewährung und Bemessung der Beiträge durch Dekret fest.
+
+<sup>5</sup> Die Beiträge gemäss den Absätzen 1–3 sind inklusive einer allfälligen Mehrwertsteuer zu verstehen.
 
 #### § 26
 
@@ -336,9 +349,17 @@ beschliesst:
 
 **Programmvereinbarungen mit dem Bund**
 
-<sup>1</sup> Der Regierungsrat ist im Rahmen der beschlossenen Budgetmittel und Verpflichtungskredite sowie der beschlossenen Ziele endgültig zuständig für den Abschluss von Programmvereinbarungen gemäss Art. 36–38 des Bundesgesetzes über den Wald (Waldgesetz, WaG) vom 4. Oktober 1991[^26a-1].
+<sup>1</sup> Der Regierungsrat ist im Rahmen der beschlossenen Budgetmittel und Verpflichtungskredite sowie der beschlossenen Ziele endgültig zuständig für den Abschluss von Programmvereinbarungen gemäss den Art. 36–38 WaG.
 
-[^26a-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
+### 4.3. Holzförderung und Holzverwendung
+
+#### § 26b
+
+**Bauten und Anlagen des Kantons**
+
+<sup>1</sup> Der Kanton fördert die Verwendung von nachhaltig produziertem Holz als Bau- und Werkstoff sowie als Energieträger bei der Planung und Errichtung sowie beim Betrieb eigener Bauten und Anlagen.
+
+<sup>2</sup> Bei der Beschaffung von Holz und Holzerzeugnissen berücksichtigt er die nachhaltige und naturnahe Waldbewirtschaftung sowie das Ziel der Reduktion von Treibhausgasemissionen.
 
 ## 5. Organisation und Verfahren
 
@@ -390,6 +411,8 @@ beschliesst:
 
 <sup>1</sup> Kanton und Gemeinden üben ihre Zuständigkeiten durch Verfügung oder durch öffentlich-rechtlichen Vertrag aus.
 
+<sup>1<sup>bis</sup></sup> Der Verkehr mit den Behörden gemäss Absatz 1 kann in elektronischer Form erfolgen. Der Regierungsrat erlässt die notwendigen Ausführungsbestimmungen durch Verordnung.
+
 <sup>2</sup> Vertragliche Regelungen im Dienste des Vollzugs von Gesetzes- oder Verordnungsvorschriften können wie eine rechtskräftige Verfügung vollstreckt werden.
 
 <sup>3</sup> Der Schutz der Rechte Dritter muss bei allen Handlungsformen gewährleistet bleiben.
@@ -408,7 +431,7 @@ beschliesst:
 
 #### § 33a
 
-**Rechtsschutz**
+**Rechtsschutz a) Allgemeines**
 
 <sup>1</sup> Wer ein schutzwürdiges eigenes Interesse geltend macht, kann innerhalb der Auflagefrist bei der für die Festlegung des Waldareals beziehungsweise bei der für Rodungsgesuche zuständigen kantonalen Behörde Einsprachen gegen den Waldgrenzenplan beziehungsweise Einwendungen gegen Rodungsgesuche erheben. Vorbehalten bleibt Art. 46 WaG.
 
@@ -418,11 +441,19 @@ beschliesst:
 
 <sup>4</sup> Einsprachen und Beschwerden gegen den Erlass des Waldgrenzenplans haben nur aufschiebende Wirkung, wenn und soweit sie die Rechtsmittelinstanz gewährt.
 
-<sup>5</sup> Entscheide der für die Festlegung des Waldareals beziehungsweise für Rodungsgesuche zuständigen kantonalen Behörde können beim Regierungsrat mit Beschwerde angefochten werden.
+<sup>5</sup> …
 
 <sup>6</sup> Entscheide der für die Erhebung der Ausgleichsabgabe zuständigen kantonalen Behörde können beim Spezialverwaltungsgericht mit Beschwerde angefochten werden.
 
 [^33a-1]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
+
+#### § 33b
+
+**b) Beschwerdeberechtigte Organisationen**
+
+<sup>1</sup> Die Einwendungs-, Einsprache- und Beschwerdeberechtigung von gesamtkantonalen und regionalen Organisationen richten sich nach § 4 Abs. 3 des Gesetzes über Raumentwicklung und Bauwesen (Baugesetz, BauG) vom 19. Januar 1993[^33b-1].
+
+[^33b-1]: SAR [713.100](https://gesetzessammlungen.ag.ch/data/713.100/de)
 
 #### § 34
 
