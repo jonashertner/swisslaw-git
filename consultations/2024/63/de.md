@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "18.455 n Pa. Iv. Grossen Jürg. Selbstständigkeit ermöglichen, Parteiwillen berücksichtigen"
 document: Vernehmlassungsvorlage
 language: de

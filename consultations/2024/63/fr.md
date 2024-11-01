@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 18.455 n Iv. pa. Grossen Jürg. Accorder la qualité de personne exerçant une activité lucrative indépendante en tenant compte de la volonté des parties
 document: Projet mis en consultation
 language: fr

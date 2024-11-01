@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 18.455 n Iv. pa. Grossen Jürg. Consentire l’indipendenza tenendo conto della volontà delle parti
 document: Progetto posto in consultazione
 language: it
