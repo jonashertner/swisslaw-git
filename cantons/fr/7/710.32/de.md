@@ -3,13 +3,13 @@ canton: FR
 number: "710.32"
 title: Verordnungen über die Änderungen des kantonalen Richtplans
 language: de
-version: 2022-01-06
-valid_until: 2024-11-04
-version_adopted: 2022-01-06
+version: 2024-11-05
+valid_until: 2024-11-05
+version_adopted: 2024-11-05
 adopted: 2022-01-06
 in_force: 2022-01-06
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.32"
-pdf: "https://bdlf.fr.ch/api/de/versions/7085/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8071/pdf_file"
 text: pdf
 ---
 
@@ -23,4 +23,4 @@ Die verschiedenen Verordnungen über die Änderungen des kantonalen Richtplans w
 
 Titel
 
-Verordnung vom 17. September 2019 über die ASF 2019\_74 Änderungen des kantonalen Richtplans Verordnung vom 7. Dezember 2021 über die ASF 2021\_175 Änderungen des kantonalen Richtplans
+Verordnung vom 17. September 2019 über die ASF 2019\_74 Änderungen des kantonalen Richtplans Verordnung vom 7. Dezember 2021 über die ASF 2021\_175 Änderungen des kantonalen Richtplans Verordnung vom 5. November 2024 über die ASF 2024\_089 Änderungen des kantonalen Richtplans
