@@ -3,13 +3,12 @@ canton: FR
 number: "710.32"
 title: Ordonnances portant adoption de modifications du plan directeur cantonal
 language: fr
-version: 2024-11-05
-valid_until: 2024-11-05
-version_adopted: 2024-11-05
+version: 2024-11-06
+version_adopted: 2025-01-07
 adopted: 2022-01-06
 in_force: 2022-01-06
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.32"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8071/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8504/pdf_file"
 text: pdf
 ---
 
@@ -23,4 +22,4 @@ Les différentes ordonnances portant adoption de modifications du plan directeur
 
 Titre publication
 
-Ordonnance du 17 septembre 2019 portant ROF 2019\_74 adoption de modifications du plan directeur cantonal Ordonnance du 7 décembre 2021 portant adoption ROF 2021\_175 de modifications du plan directeur cantonal Ordonnance du 5 novembre 2024 portant adoption ROF 2024\_089 de modifications du plan directeur cantonal
+Ordonnance du 17 septembre 2019 portant ROF 2019\_74 adoption de modifications du plan directeur cantonal Ordonnance du 7 décembre 2021 portant adoption ROF 2021\_175 de modifications du plan directeur cantonal Ordonnance du 5 novembre 2024 portant adoption ROF 2024\_089 de modifications du plan directeur cantonal Rectification du 07.01.2025 – Ordonnance portant ROF 2025\_002 adoption de modifications du plan directeur cantonal, du 05.11.2024 (ROF 2024\_089)
