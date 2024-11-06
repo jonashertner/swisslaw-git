@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2024-08-16
+version: 2024-11-07
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240816/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240816-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240816/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20241107/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20241107-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20241107/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 16 agosto 2024)
+dell’11 novembre 2015 (Stato 7 novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -77,7 +77,7 @@ La Segreteria di Stato dell’economia (SECO) può autorizzare la vendita, la fo
 - a. usi medici o farmaceutici;
 - b. scopi umanitari, emergenze sanitarie, prevenzione o mitigazione urgente di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente, o in risposta a catastrofi naturali.
 
-[^2a-1]: Introdotto dal n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 3
 
@@ -110,16 +110,16 @@ La Segreteria di Stato dell’economia (SECO) rilascia l’autorizzazione per i 
 <sup>5</sup> L’esercizio di un’attività di cui al capoverso 1 deve essere notificato alla SECO entro cinque giorni lavorativi. La SECO comunica l’esercizio dell’attività al Consiglio di sicurezza delle Nazioni Unite e all’Agenzia internazionale per l’energia atomica conformemente alla risoluzione 2231 (2015).[^3-11]
 
 [^3-1]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^3-2]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-2]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^3-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 [^3-4]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
 [^3-5]: Le direttive del Gruppo dei fornitori nucleari sono consultabili in francese e in inglese al seguente indirizzo Internet: [www.nuclearsuppliersgroup.org](http://www.nuclearsuppliersgroup.org) &gt; Directives.
-[^3-6]: Nuovo testo giusta il n. I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
-[^3-7]: Introdotto dal n. I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
-[^3-8]: Introdotto dal n. I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
+[^3-6]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
+[^3-7]: Introdotto dalla cifra I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
+[^3-8]: Introdotto dalla cifra I dell’O del 18 mag. 2016, in vigore dal 18 mag. 2016 ([RU 2016 1479](https://fedlex.data.admin.ch/eli/oc/2016/282)).
 [^3-9]: La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^3-10]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^3-11]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-10]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^3-11]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 4
 
@@ -185,15 +185,15 @@ Le imprese che intendono concludere accordi con persone od organizzazioni irania
 [^6-1]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
 [^6-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352). Il contenuto dell’all. 2 OBDI è disponibile al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 [^6-3]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^6-4]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^6-4]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^6-5]: La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^6-6]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^6-6]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 ## Sezione 4: Restrizioni finanziarie
 
 [^sec4-1]
 
-[^sec4-1]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^sec4-1]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 7
 
@@ -236,13 +236,13 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 
 <sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze e, se del caso, in conformità alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite.[^7-7]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^7-2]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-3]: Introdotto dal n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^7-2]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-3]: Introdotto dalla cifra I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 [^7-4]: Il testo del piano d’azione congiunto globale è contenuto nell’allegato A della risoluzione 2231 (2015) del Consiglio di sicurezza delle Nazioni Unite. La risoluzione è consultabile in francese e inglese all’indirizzo [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt; Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^7-5]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^7-6]: Introdotto dal n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^7-7]: Introdotto dal n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-5]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^7-6]: Introdotto dalla cifra I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^7-7]: Introdotto dalla cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 8
 
@@ -284,9 +284,9 @@ La SEM può concedere deroghe alle persone fisiche di cui agli allegati 6 e 6*a*
 - b. per consentire la partecipazione a congressi di organismi internazionali o a un dialogo politico concernente l’Iran; o
 - c. per tutelare interessi svizzeri.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
-[^10-2]: Nuovo testo giusta il n. I 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^10-2]: Nuovo testo giusta la cifra I n. 9 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 11
 
@@ -331,7 +331,7 @@ La SEM può concedere deroghe alle persone fisiche di cui agli allegati 6 e 6*a*
 
 [^sec7-1]
 
-[^sec7-1]: Nuovo testo giusta il n. I 12 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^sec7-1]: Nuovo testo giusta la cifra I n. 12 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 
 #### Art. 14
 
@@ -339,7 +339,7 @@ La SEM può concedere deroghe alle persone fisiche di cui agli allegati 6 e 6*a*
 
 Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite (allegato 5), sono recepite automaticamente.
 
-[^14-1]: Nuovo testo giusta il n. I 12 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^14-1]: Nuovo testo giusta la cifra I n. 12 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 
 #### Art. 14a
 
@@ -347,7 +347,7 @@ Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate d
 
 Le voci secondo gli allegati 5–7 sono pubblicate nella Raccolta ufficiale delle leggi federali (RU) e nella Raccolta sistematica del diritto federale (RS) soltanto mediante rimando.
 
-[^14a-1]: Introdotto dal n. I 12 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Nuovo testo giusta il n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^14a-1]: Introdotto dalla cifra I n. 12 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Nuovo testo giusta la cifra I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 15
 
@@ -355,7 +355,7 @@ Le voci secondo gli allegati 5–7 sono pubblicate nella Raccolta ufficiale dell
 
 L’ordinanza del 19 gennaio 2011[^15-1] che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran è abrogata.
 
-[^15-1]: [[RU 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)n. I 1, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
+[^15-1]: [[RU 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)cifra I n. 1, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 
 #### Art. 15a
 
@@ -363,7 +363,7 @@ L’ordinanza del 19 gennaio 2011[^15-1] che istituisce provvedimenti nei confro
 
 I divieti secondo l’articolo 2*a* capoversi 1–3 per i beni e le tecnologie di cui all’allegato 1*a* non si applicano fino al 27 ottobre 2023 agli obblighi derivanti da contratti conclusi prima del 29 settembre 2023.
 
-[^15a-1]: Introdotto dal n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^15a-1]: Introdotto dalla cifra I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 #### Art. 16
 
@@ -377,7 +377,7 @@ Allegato 1[^t-1]
 
 ## Beni, tecnologie e software per i sistemi di lancio che rientrano nell’ambito d’applicazione dei divieti di cui all’articolo 2
 
-[^t-1]: Aggiornato dal n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^t-1]: Aggiornato dalla cifra I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 ### Beni, tecnologie e software
 
@@ -394,61 +394,78 @@ Allegato 1a[^t-2]
 
 ## Beni e tecnologie che rientrano nell’ambito d’applicazione dei divieti di cui all’articolo 2*a*
 
-[^t-2]: Introdotto dal n. I dell’O del 29 sett. 2023, in vigore dal 29 sett. 2023 alle ore 18.00 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^t-2]: Introdotto dalla cifra I dell’O del 29 sett. 2023 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Nuovo testo giusta la cifra I cpv. 1 dedll’O del del 6 nov. 2024, in vigore dal 7 nov. 2024 ([RU 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)).
 
-### A. Categoria 1 – Veicoli aerei senza equipaggio
+### A. Definizioni
 
-<table>
-<tr><th>Codice SA</th><th>Designazione</th></tr>
-<tr><td>8806.91</td><td>Veicoli aerei senza equipaggio, non concepiti per il trasporto di passeggeri, non concepiti unicamente per essere teleguidati, di peso a pieno carico al decollo non eccedente 250 g</td></tr>
-<tr><td>8806.92</td><td>Veicoli aerei senza equipaggio, non concepiti per il trasporto di passeggeri, non concepiti unicamente per essere teleguidati, di peso a pieno carico al decollo eccedente 250 g ma non eccedente 7 kg</td></tr>
-<tr><td>8806.93</td><td>Veicoli aerei senza equipaggio, non concepiti per il trasporto di passeggeri, non concepiti unicamente per essere teleguidati, di peso a pieno carico al decollo eccedente 7 kg ma non eccedente 25 kg</td></tr>
-<tr><td>8806.94</td><td>Veicoli aerei senza equipaggio, non concepiti per il trasporto di passeggeri, non concepiti unicamente per essere teleguidati, di peso a pieno carico al decollo eccedente 25 kg ma non eccedente 150 kg</td></tr>
-<tr><td>8806.99</td><td>Veicoli aerei senza equipaggio, non concepiti per il trasporto di passeggeri, non concepiti unicamente per essere teleguidati, di peso a pieno carico al decollo eccedente 150 kg</td></tr>
-</table>
+Nel presente allegato s’intende per:
 
-### B. Categoria 2 – Prodotti per la propulsione e la navigazione
+- a. *aeromobile*: veicolo aereo ad ala fissa, ala a geometria variabile, ala rotante, rotore basculante o ala basculante;
+- b. *circuito integrato monolitico a microonde* (MMIC): circuito integrato monolitico che funziona a frequenze d’onda millimetriche o microonde;
+- c. *cella primaria*: cella che non è progettata per essere caricata da un’altra sorgente;
+- d. *sistema di navigazione via satellite*: sistema per calcolare la posizione dei ricevitori sulla base dei segnali ricevuti dai satelliti, compresi i sistemi globali di navigazione via satellite (GNSS) e i sistemi regionali di navigazione via satellite (RNSS);
+- e. *veicolo aereo senza equipaggio* (UAV): aeromobile capace di alzarsi in volo e di eseguire il volo controllato e la navigazione senza presenza umana a bordo.
 
-<table>
-<tr><th>Codice SA</th><th>Designazione</th></tr>
-<tr><td>ex 8411.11</td><td>Turboreattori per aeromobili, di spinta non eccedente 25 kN</td></tr>
-<tr><td>ex 8411.12</td><td>Turboreattori per aeromobili, di spinta eccedente 25 kN</td></tr>
-<tr><td>ex 8411.21</td><td>Turbopropulsori per aeromobili, di potenza non eccedente 1100 kW</td></tr>
-<tr><td>ex 8411.22</td><td>Turbopropulsori per aeromobili, di potenza eccedente 1100 kW</td></tr>
-<tr><td>ex 8411.91</td><td>Componenti appositamente concepiti per turboreattori o turbopropulsori per aeromobili</td></tr>
-<tr><td>8407.10</td><td>Motori a pistone alternativo o rotativo, con accensione a scintilla (motoria scoppio) per l’aviazione</td></tr>
-<tr><td>8409.10</td><td>Parti riconoscibili come destinate, esclusivamente o principalmente, ai motori a pistone per l’aviazione</td></tr>
-<tr><td>ex 8408.90</td><td>Motori a pistone, con accensione per compressione per l’aviazione</td></tr>
-<tr><td>ex 9014.20</td><td>Sistemi di navigazione inerziale, unità di misura inerziali (IMU), accelerometri o giroscopi</td></tr>
-<tr><td>ex 8526.10</td><td>Radar per veicoli aerei senza equipaggio e loro componenti appositamente concepiti</td></tr>
-<tr><td>ex 8529.90</td><td>Radar per veicoli aerei senza equipaggio e loro componenti appositamente concepiti</td></tr>
-<tr><td>ex 8526.91</td><td>Apparecchi di radionavigazione per aeromobili e loro componenti appositamente concepiti</td></tr>
-<tr><td>ex 8529.90</td><td>Apparecchi di radionavigazione per aeromobili e loro componenti appositamente concepiti</td></tr>
-<tr><td>ex 8807.30</td><td>Unità di controllo di volo per veicoli aerei senza equipaggio (UAV)</td></tr>
-<tr><td>ex 8807.30</td><td>Unità di controllo a distanza per veicoli aerei senza equipaggio (UAV)</td></tr>
-</table>
-
-### C. Categoria 3 – Componenti e dispositivi elettronici
+### B. Categoria 3 — Materiali elettronici
 
 <table>
 <tr><th>Codice SA</th><th>Designazione</th></tr>
-<tr><td>ex 8542.31</td><td>Circuiti integrati, come segue: rete di porte programmabili dall’utilizzatore (FPGA), microcontrollore, microprocessori, processore di segnale, analizzatore di segnale</td></tr>
-<tr><td>ex 8542.39</td><td>Circuiti integrati, come segue: rete di porte programmabili dall’utilizzatore (FPGA), microcontrollore, microprocessori, processore di segnale, analizzatore di segnale</td></tr>
-<tr><td>ex 8542.33</td><td>Amplificatori MMIC (Microwave Monolithic Integrated Circuit)</td></tr>
-<tr><td>ex 8548.00</td><td>Filtri RF o filtri per interferenza elettromagnetica (EMI) adatti per aeromobili</td></tr>
-<tr><td>8525.83</td><td>Apparecchi per visione notturna</td></tr>
-<tr><td>ex 8525.89</td><td>Apparecchi da ripresa (visibile o termico) appositamente progettati per veicoli aerei senza equipaggio</td></tr>
-<tr><td>ex 9006.30</td><td>Apparecchi da ripresa per rilevazione aerea</td></tr>
-<tr><td>ex 9025.80</td><td>Sensori termici per apparecchi da ripresa in veicoli aerei senza equipaggio (UAV)</td></tr>
-<tr><td>ex 9027.50</td><td>Sensori termici per apparecchi da ripresa in veicoli aerei senza equipaggio (UAV)</td></tr>
+<tr><td>8532 21</td><td>Condensatori al tantalio</td></tr>
+<tr><td>8532 22</td><td>Condensatori elettrolitici all’alluminio</td></tr>
+<tr><td>8532 24</td><td>Condensatori a dielettrico di ceramica, a più strati</td></tr>
+<tr><td>8541 60</td><td>Cristalli piezoelettrici montati</td></tr>
+<tr><td>ex 8542 31 ex 8542 39</td><td>Circuiti integrati, come segue: rete di porte programmabili dall’utilizzatore (FPGA), microcontrollori, microprocessori, processori di segnale, analizzatori di segnale, convertitori analogico-digitale (ADC), regolatori di tensione, codificatori video e convertitori CC/CC</td></tr>
+<tr><td>ex 8542 32</td><td>Memorie a circuiti integrati, come segue: a. memorie di sola lettura cancellabili e programmabili elettricamente (EEPROM) con capacità di memoria: 1. superiore a 16 Mbit per package per tipi a memoria flash; o 2. superiore a uno dei seguenti limiti per tutti gli altri tipi di EEPROM: – superiore a 1 Mbit per package, o – superiore a 256 kbit per package e con un tempo massimo di accesso inferiore a 80 ns; b. memorie statiche ad accesso casuale (SRAM) con capacità di memoria: 1. superiore a 1 Mbit per package; o 2. superiore a 256 kbit per package e con un tempo massimo di accesso inferiore a 25 ns.</td></tr>
+<tr><td>ex 8542 33 8543 70 02</td><td>Amplificatori e dispositivi MMIC</td></tr>
+<tr><td>ex 8548 00</td><td>Filtri RF o filtri per interferenza elettromagnetica (EMI) adatti per aeromobili</td></tr>
 </table>
 
-### D. Categoria 4 – Altri prodotti
+### C. Categoria 6 — Sensori e laser
 
-- 1\. Attrezzature per sistemi di navigazione satellitare, comprese le antenne adatte alla ricezione di segnali GNSS
-- 2\. Telemetro laser avionico
-- 3\. Sistemi LIDAR (Light Detection and Ranging)
-- 4\. Tecnologie concepite o specificamente adattate per testare, sviluppare o produrre le attrezzature di cui sopra
+<table>
+<tr><th>Codice SA</th><th>Designazione</th></tr>
+<tr><td>ex 8506</td><td>Celle primarie o batterie aventi una densità di energia di 150 Wh/kg o più alla temperatura di 293 K (20°C)</td></tr>
+<tr><td>8525 83</td><td>Apparecchi da ripresa per la visione notturna</td></tr>
+<tr><td>ex 8525 89 ex 9006 30</td><td>Apparecchi da ripresa che soddisfano i criteri dell’allegato 2 parte 2 numero 6A003 lettera b numero 4 dell’ordinanza del 3 giugno 2016[^annex1a-lvlu1-lvlC-1] sul controllo dei beni a duplice impiego</td></tr>
+<tr><td>ex 8529 90 ex 8542 39 ex 9006 91 ex 9013 80 ex 9025 80 ex 9025 90 ex 9026 80 ex 9026 90 ex 9027 50 ex 9032 10</td><td>Sensori termici per apparecchi da ripresa</td></tr>
+<tr><td>ex 9006 30</td><td>Apparecchi da ripresa per rilevazione aerea</td></tr>
+<tr><td>ex 9013 20 ex 9013 80 ex 9013 90 ex 9015 10 ex 9015 80 ex 9015 90 ex 9031 80 ex 9031 90 ex 9033</td><td>Telemetri laser avionici</td></tr>
+</table>
+
+[^annex1a-lvlu1-lvlC-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+
+### D. Categoria 7 – Materiale avionico e di navigazione
+
+<table>
+<tr><th>Codice SA</th><th>Designazione</th></tr>
+<tr><td>ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 90 ex 8807 30</td><td>Unità di controllo a distanza per veicoli aerei senza equipaggio (UAV)</td></tr>
+<tr><td>ex 8517 62 ex 8517 69</td><td>Apparecchiature, dispositivi o macchinari di telecomunicazione per aeromobili</td></tr>
+<tr><td>ex 8517 71 ex 8529 10</td><td>Antenne e riflettori di antenne per aeromobili</td></tr>
+<tr><td>ex 8517 71 ex 8526 10 ex 8526 91 ex 8526 92 ex 8529 10 ex 8529 90</td><td>Attrezzature del sistema di navigazione via satellite, comprese le antenne adatte alla ricezione di segnali GNSS</td></tr>
+<tr><td>ex 8526 10 ex 8529 90</td><td>Radar per veicoli aerei senza equipaggio (UAV) e loro componenti appositamente concepiti, fra gli altri i sistemi radar seguenti: a rivelazione e misura della distanza a mezzo della luce (LIDAR), avioportato da intercettazione (AI), di inseguimento del bersaglio (TT), di artiglieria contraerea (AAA), di acquisizione del bersaglio (TA), avioportato di allarme tempestivo (AEW)</td></tr>
+<tr><td>ex 8526 91 ex 8529 90</td><td>Apparecchi di radionavigazione per aeromobili e loro componenti appositamente concepiti</td></tr>
+<tr><td>ex 8537 10 ex 8807 30</td><td>Unità di controllo di volo (FCU) per veicoli aerei senza equipaggio (UAV)</td></tr>
+<tr><td>8543 70 04</td><td>Registratori digitali di dati di volo</td></tr>
+<tr><td>ex 9014 20</td><td>Sistemi di navigazione inerziale, unità di misura inerziali (IMU), accelerometri o giroscopi</td></tr>
+</table>
+
+### E. Categoria 9 – Materiale aerospaziale e propulsione
+
+<table>
+<tr><th>Codice SA</th><th>Designazione</th></tr>
+<tr><td>8407 10</td><td>Motori a pistone alternativo o rotativo, con accensione a scintilla (motori a scoppio) per aeromobili</td></tr>
+<tr><td>ex 8408 90</td><td>Motori a pistone, con accensione per compressione per aeromobili</td></tr>
+<tr><td>8409 10</td><td>Parti riconoscibili come destinate, esclusivamente o principalmente, ai motori a pistone a combustione interna per aeromobili</td></tr>
+<tr><td>ex 8411 11 ex 8411 12 ex 8411 21 ex 8411 22 ex 8411 91</td><td>Motori aeronautici a turbina a gas (turboelica, turbogetto e turboventola) per aeromobili, e loro componenti appositamente concepiti</td></tr>
+<tr><td>ex 8807 30 ex 8501</td><td>Servomotori per veicoli aerei senza equipaggio (UAV)</td></tr>
+<tr><td>ex 8805 10 ex 8807 30</td><td>Sistemi di lancio per veicoli aerei senza equipaggio (UAV)</td></tr>
+<tr><td>8806 91 8806 92 8806 93 8806 94 8806 99</td><td>Veicoli aerei senza equipaggio (UAV) diversi da quelli destinati al trasporto di passeggeri</td></tr>
+<tr><td>ex 8807 30</td><td>Apparecchiature e assiemi di supporto a terra per veicoli aerei senza equipaggio (UAV)</td></tr>
+</table>
+
+### F. Categoria 10 – Tecnologie
+
+Tecnologie concepite o specificamente adattate per testare, sviluppare o produrre le attrezzature di cui sopra
 
 Allegato 2
 
@@ -716,7 +733,7 @@ Allegato 5[^t-3]
 
 [^annex5-lvlu1-1]
 
-[^t-3]: Nuovo testo giusta il n. I 12 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^t-3]: Nuovo testo giusta la cifra I n. 12 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 [^annex5-lvlu1-1]: Non pubblicato nella RU. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 **Nota bene**
@@ -735,7 +752,7 @@ Allegato 6[^t-4]
 
 [^annex6-lvlu1-1]
 
-[^t-4]: Aggiornato dal n. I delle O del DEFR del 27 gen. 2016 ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 31 ott. 2016 ([RU 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), del 26 gen. 2017 ([RU 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), del 19 giu. 2018 ([RU 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), del 17 giu. 2019 ([RU 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), del 29 nov. 2019 ([RU 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), del 6 lug. 2020 ([RU 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), del 26 nov. 2020 ([RU 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), del 17 ago. 2021 ([RU 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), del 2 ago. 2022 ([RU 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), del 10 mag. 2023 ([RU 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), del 25 ott. 2023 ([RU 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)) e del 15 ago. 2024, in vigore dal 16 ago. 2024 alle 18.00 (RU **202****4** 422).
+[^t-4]: Aggiornato dalla cifra I delle O del DEFR del 27 gen. 2016 ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 31 ott. 2016 ([RU 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), del 26 gen. 2017 ([RU 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), del 19 giu. 2018 ([RU 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), del 17 giu. 2019 ([RU 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), del 29 nov. 2019 ([RU 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), del 6 lug. 2020 ([RU 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), del 26 nov. 2020 ([RU 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), del 17 ago. 2021 ([RU 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), del 2 ago. 2022 ([RU 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), del 10 mag. 2023 ([RU 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), del 25 ott. 2023 ([RU 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)) e del 15 ago. 2024, in vigore dal 16 ago. 2024 alle 18.00 ([RU 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)).
 [^annex6-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 6a[^t-5]
@@ -746,8 +763,8 @@ Allegato 6a[^t-5]
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Introdotto dal n. I dell’O del 29 set. 2023 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Aggiornato dal dal n. I dell’O del DEFR del 20 dic. 2023, in vigore dal 21 dic. 2023 alle ore 18.00 ([RU 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)).
-[^annex6a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/817](https://fedlex.data.admin.ch/eli/oc/2023/817) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
+[^t-5]: Introdotto dalla cifra I dell’O del 29 set. 2023 ([RU 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Aggiornato dalla cifra I dell’O del DEFR del 20 dic. 2023 ([RU 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)) e dalla cifra I cpv. 2 dell’O del 6 nov. 2024, in vigore dal 7 nov. 2024 ([RU 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)).
+[^annex6a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/616](https://fedlex.data.admin.ch/eli/oc/2024/616) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 7[^t-6]
 

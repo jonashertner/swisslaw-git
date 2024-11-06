@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2024-08-16
+version: 2024-11-07
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240816/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240816-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240816/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20241107/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20241107-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20241107/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (État le 16 août 2024)
+du 11 novembre 2015 (État le 7 novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -377,7 +377,7 @@ Annexe 1[^t-1]
 
 ## Biens, technologies et logiciels servant à des systèmes vecteurs visés par les interdictions prévues à l’art. 2
 
-[^t-1]: Mise à jour selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^t-1]: Mise à jour par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
 
 ### Biens, technologies et logiciel
 
@@ -392,63 +392,80 @@ Annexe 1a[^t-2]
 
 (art. 2*a*, al. 1 à 4)
 
-## Biens et technologie visés par les interdictions prévues à l’art 2*a*
+## Biens et technologies visés par les interdictions prévues à l’art. 2*a*
 
-[^t-2]: Introduite par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 29 sept. 2023 à 18 heures ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^t-2]: Introduite par le ch. I de l’O du 29 sept. 2023 ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Nouvelle teneur selon le ch. I al. 1 de l’O du 6 nov. 2024, en vigueur depuis le 7 nov. 2024 ([RO 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)).
 
-### A. Catégorie 1 – Véhicules aériens sans pilote
+### A. Définitions
 
-<table>
-<tr><th>Code SH</th><th>Description</th></tr>
-<tr><td>8806.91</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage n’excédant pas 250 g</td></tr>
-<tr><td>8806.92</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage excédant 250 g mais n’excédant pas 7 kg</td></tr>
-<tr><td>8806.93</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage excédant 7 kg mais n’excédant pas 25 kg</td></tr>
-<tr><td>8806.94</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage excédant 25 kg mais n’excédant pas 150 kg</td></tr>
-<tr><td>8806.99</td><td>Véhicules aériens sans pilote, autres que ceux conçus pour le transport de passagers, autres que ceux conçus uniquement pour être téléguidés, d’un poids maximal au décollage excédant 150 kg</td></tr>
-</table>
+On entend par:
 
-### B. Catégorie 2 – Éléments de propulsion et de navigation
+- a. *aéronef:* un véhicule aérien à voilure fixe, à voilure pivotante, à voilure rotative, à rotor basculant ou à voilure basculante;
+- b. *circuit* *intégré monolithique hyperfréquences* *(**MMIC**):* un circuit intégré monolithique fonctionnant sur des hyperfréquences ou des fréquences d’ondes millimétriques;
+- c. *pile* *primaire**:* une pile qui n’est pas conçue pour être chargée par une autre source;
+- d. *système* *de navigation par satellite**:* tout système qui permet de calculer les positions du récepteur sur la base des signaux reçus des satellites, y compris les systèmes mondiaux de radionavigation par satellite (GNSS) et les systèmes régionaux de radionavigation par satellite (RNSS);
+- e. *véhicule* *aérien sans pilote (UAV):* tout aéronef capable de décoller et d’effectuer des vols et des navigations contrôlés sans présence humaine à bord.
 
-<table>
-<tr><th>Code SH</th><th>Description</th></tr>
-<tr><td>ex 8411.11</td><td>Turboréacteurs destinés aux aéronefs, d’une poussée n’excédant pas 25 kN</td></tr>
-<tr><td>ex 8411.12</td><td>Turboréacteurs destinés aux aéronefs, d’une poussée excédant 25 kN</td></tr>
-<tr><td>ex 8411.21</td><td>Turbopropulseurs destinés aux aéronefs, d’une puissance n’excédant pas 1100 kW</td></tr>
-<tr><td>ex 8411.22</td><td>Turbopropulseurs destinés aux aéronefs, d’une puissance excédant 1100 kW</td></tr>
-<tr><td>ex 8411.91</td><td>Parties spécialement conçues pour turboréacteurs ou turbopropulseurs destinés aux aéronefs</td></tr>
-<tr><td>8407.10</td><td>Moteurs à piston alternatif ou rotatif, à allumage par étincelles (moteurs à explosion) pour l’aviation</td></tr>
-<tr><td>8409.10</td><td>Parties reconnaissables comme étant exclusivement ou principalement destinées aux moteurs à piston pour l’aviation</td></tr>
-<tr><td>ex 8408.90</td><td>Moteurs à piston, à allumage par compression pour aéronefs</td></tr>
-<tr><td>ex 9014.20</td><td>Systèmes de navigation à inertie, unités de mesure inertielles (IMU), accéléromètres ou gyroscopes</td></tr>
-<tr><td>ex 8526.10</td><td>Radars pour véhicules aériens sans pilote et leurs composants spécialement conçus</td></tr>
-<tr><td>ex 8529.90</td><td>Radars pour véhicules aériens sans pilote et leurs composants spécialement conçus</td></tr>
-<tr><td>ex 8526.91</td><td>Appareils de radionavigation pour aéronefs et leurs composants spécialement conçus</td></tr>
-<tr><td>ex 8529.90</td><td>Appareils de radionavigation pour aéronefs et leurs composants spécialement conçus</td></tr>
-<tr><td>ex 8807.30</td><td>Contrôle de vol pour véhicule aérien sans pilote (UAV)</td></tr>
-<tr><td>ex 8807.30</td><td>Télécommande pour les véhicules aériens sans pilote (UAV)</td></tr>
-</table>
-
-### C. Catégorie 3 – Composants et dispositifs électroniques
+### B. Catégorie 3 – Électronique
 
 <table>
 <tr><th>Code SH</th><th>Description</th></tr>
-<tr><td>ex 8542.31</td><td>Circuits intégrés, comme suit: Réseau programmable de portes (FPGA), microcontrôleur, microprocesseur, dispositif de traitement des signaux, analyseur de signaux</td></tr>
-<tr><td>ex 8542.39</td><td>Circuits intégrés, comme suit: Réseau programmable de portes (FPGA), microcontrôleur, microprocesseur, dispositif de traitement des signaux, analyseur de signaux</td></tr>
-<tr><td>ex 8542.33</td><td>Amplificateur «MMIC»</td></tr>
-<tr><td>ex 8548.00</td><td>Filtre «RF» ou filtre à interférence électromagnétique (EMI) adapté aux aéronefs</td></tr>
-<tr><td>8525.83</td><td>Appareils à vision nocturne</td></tr>
-<tr><td>ex 8525.89</td><td>Caméras (visibles ou thermiques) spécialement conçues pour les véhicules aériens sans pilote</td></tr>
-<tr><td>ex 9006.30</td><td>Caméras pour photographie aérienne</td></tr>
-<tr><td>ex 9025.80</td><td>Capteurs thermiques pour caméras équipant des UAV</td></tr>
-<tr><td>ex 9027.50</td><td>Capteurs thermiques pour caméras équipant des UAV</td></tr>
+<tr><td>8532 21</td><td>Condensateurs au tantale</td></tr>
+<tr><td>8532 22</td><td>Condensateurs électrolytiques à l’aluminium</td></tr>
+<tr><td>8532 24</td><td>Condensateurs à diélectrique en céramique, multicouches</td></tr>
+<tr><td>8541 60</td><td>Cristaux piézo-électriques montés</td></tr>
+<tr><td>ex 8542 31 ex 8542 39</td><td>Circuits intégrés, comme suit: réseau programmable de portes (FPGA), microcontrôleurs, microprocesseurs, dispositifs de traitement des signaux, analyseurs de signaux, convertisseurs analogique-numérique, régulateurs de tension, encodeurs vidéo et convertisseurs CC‑CC</td></tr>
+<tr><td>ex 8542 32</td><td>Circuits intégrés mémoires, comme suit: a. mémoires mortes effaçables et programmables électriquement (EEPROM) dont la capacité de mémorisation: 1. dépasse 16 Mbits par paquet pour les mémoires de type flash, ou 2. dépasse l’une des limites suivantes pour tous les autres types d’EEPROM: – dépasse 1 Mbit par paquet, ou – dépasse 256 kbit par paquet et a un temps d’accès maximal inférieur à 80 ns; b. mémoires vives statiques (SRAM) dont la capacité de mémorisation: 1. dépasse 1 Mbit par paquet, ou 2. dépasse 256 kbit par paquet et a un temps d’accès maximal inférieur à 25 ns</td></tr>
+<tr><td>ex 8542 33 ex 8543 70</td><td>Amplificateurs et dispositifs à circuits intégrés monolithiques hyperfréquences (MMIC)</td></tr>
+<tr><td>ex 8548 00</td><td>Filtres RF ou filtres à interférence électromagnétique (EMI) adaptés aux aéronefs</td></tr>
 </table>
 
-### D. Catégorie 4 – Autres biens
+### C. Catégorie 6 – Capteurs et lasers
 
-- 1\. Équipements de «système de navigation par satellite», y compris les antennes adaptées à la réception des signaux GNSS
-- 2\. Laser pour la mesure des distances aéroporté
-- 3\. Systèmes LIDAR
-- 4\. Technologies, conçues ou spécifiquement adaptées au test, au développement ou à la production des équipements énumérés ci-dessus
+<table>
+<tr><th>Code SH</th><th>Description</th></tr>
+<tr><td>ex 8506</td><td>Piles primaires ou batteries ayant une densité d’énergie de 150 Wh/kg ou plus à 293 K (20 °C)</td></tr>
+<tr><td>8525 83</td><td>Caméras à vision nocturne</td></tr>
+<tr><td>ex 8525 89 ex 9006 30</td><td>Appareils de prise de vue qui remplissent les critères de l’annexe 2, partie 2, ch. 6A003, let. b, ch. 4, de l’ordonnance du 3 juin 2016 sur le contrôle des biens[^annex1a-lvlu1-lvlC-1]</td></tr>
+<tr><td>ex 8529 90 ex 8542 39 ex 9006 91 ex 9013 80 ex 9025 80 ex 9025 90 ex 9026 80 ex 9026 90 ex 9027 50 ex 9032 10</td><td>Capteurs thermiques pour appareils de prise de vue</td></tr>
+<tr><td>ex 9006 30</td><td>Appareils de prise de vue aérienne</td></tr>
+<tr><td>ex 9013 20 ex 9013 80 ex 9013 90 ex 9015 10 ex 9015 80 ex 9015 90 ex 9031 80 ex 9031 90 ex 9033</td><td>Télémètres laser aéroportés</td></tr>
+</table>
+
+[^annex1a-lvlu1-lvlC-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+
+### D. Catégorie 7 – Navigation et aéro-électronique
+
+<table>
+<tr><th>Code SH</th><th>Description</th></tr>
+<tr><td>ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 ex 8543 70 90 ex 8807 30</td><td>Télécommandes pour véhicules aériens sans pilote (UAV)</td></tr>
+<tr><td>ex 8517 62 ex 8517 69</td><td>Appareils, dispositifs et machines de télécommunication pour aéronefs</td></tr>
+<tr><td>ex 8517 71 ex 8529 10</td><td>Antennes et réflecteurs d’antennes pour aéronefs</td></tr>
+<tr><td>ex 8517 71 ex 8526 10 ex 8526 91 ex 8526 92 ex 8529 10 ex 8529 90</td><td>Équipements de système de navigation par satellite, y compris les antennes adaptées à la réception des signaux GNSS</td></tr>
+<tr><td>ex 8526 10 ex 8529 90</td><td>Radars pour véhicules aériens sans pilote (UAV) et leurs composants spécialement conçus, notamment les radars suivants: radars de télédétection et télémétrie par onde lumineuse (LIDAR), radars d’interception aéroportés, radars de poursuite de cibles (TT), artillerie antiaérienne, acquisition d’objectif, alerte lointaine par moyens aéroportés</td></tr>
+<tr><td>ex 8526 91 ex 8529 90</td><td>Appareils de radionavigation pour aéronefs et leurs composants spécialement conçus</td></tr>
+<tr><td>ex 8537 10 ex 8807 30</td><td>Modules de commande de vol (FCU) pour véhicules aériens sans pilote (UAV)</td></tr>
+<tr><td>ex 8543 70</td><td>Enregistreurs numériques de données de vol</td></tr>
+<tr><td>ex 9014 20</td><td>Systèmes de navigation à inertie, unités de mesure inertielles (IMU), accéléromètres ou gyroscopes</td></tr>
+</table>
+
+### E. Catégorie 9 – Aérospatiale et propulsion
+
+<table>
+<tr><th>Code SH</th><th>Description</th></tr>
+<tr><td>8407 10</td><td>Moteurs à pistons alternatifs ou rotatifs, à combustion interne et à allumage par étincelles pour aéronefs</td></tr>
+<tr><td>ex 8408 90 ex 8501</td><td>Moteurs à pistons à combustion interne et à allumage par compression pour aéronefs</td></tr>
+<tr><td>8409 10</td><td>Pièces exclusivement ou principalement utilisables pour des moteurs à pistons à combustion interne pour aéronefs</td></tr>
+<tr><td>ex 8411 11 ex 8411 12 ex 8411 21 ex 8411 22 ex 8411 91</td><td>Moteurs à turbine à gaz aéronautiques (turbopropulseur, turboréacteur et turbomoteur) pour aéronefs et leurs composants spécialement conçus</td></tr>
+<tr><td>ex 8501 ex 8807 30</td><td>Servomoteurs pour véhicules aériens sans pilote (UAV)</td></tr>
+<tr><td>ex 8805 10 ex 8807 30</td><td>Systèmes de lancement pour véhicules aériens sans pilote (UAV)</td></tr>
+<tr><td>8806 91 8806 92 8806 93 8806 94 8806 99</td><td>Véhicules aériens sans pilote (UAV), autres que ceux conçus pour le transport de passagers</td></tr>
+<tr><td>ex 8807 30</td><td>Matériel d’appui au sol pour véhicules aériens sans pilote (UAV)</td></tr>
+</table>
+
+### F. Catégorie 10 – Technologie
+
+Technologies conçues ou spécifiquement adaptées au test, au développement ou à la production des équipements énumérés ci-dessus.
 
 Annexe 2
 
@@ -717,7 +734,7 @@ Annexe 5[^t-3]
 [^annex5-lvlu1-1]
 
 [^t-3]: Nouvelle teneur selon le ch. I 12 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
-[^annex5-lvlu1-1]: Cette annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^annex5-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/435](https://fedlex.data.admin.ch/eli/oc/2022/435) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 **Remarque**
 
@@ -736,7 +753,7 @@ Annexe 6[^t-4]
 [^annex6-lvlu1-1]
 
 [^t-4]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), du 17 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), du 2 août 2022 ([RO 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), du 10 mai 2023 ([RO 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), du 25 oct. 2023 ([RO 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)) et du 15 août 2024, en vigueur depuis le 16 août 2024 à 18 heures ([RO 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)).
-[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^annex6-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 6a[^t-5]
 
@@ -746,8 +763,8 @@ Annexe 6a[^t-5]
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023 ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2023, en vigueur depuis le 21 déc. 2023 à 18 heures ([RO 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)).
-[^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/817](https://fedlex.data.admin.ch/eli/oc/2023/817) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-5]: Introduite par le ch. I de l’O du 29 sept. 2023 ([RO 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Mise à jour par le ch. I de l’O du DEFR du 20 déc. 2023 ([RO 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)) et le ch. I al. 2 de l’O du 6 nov. 2024, en vigueur depuis le 7 nov. 2024 ([RO 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)).
+[^annex6a-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/616](https://fedlex.data.admin.ch/eli/oc/2024/616) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7[^t-6]
 
@@ -758,4 +775,4 @@ Annexe 7[^t-6]
 [^annex7-lvlu1-1]
 
 [^t-6]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)), du 27 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)), du 24 mai 2022 ([RO 2022 316](https://fedlex.data.admin.ch/eli/oc/2022/316)) et du 29 avr. 2024, en vigueur depuis le 30 avr. 2024 à 18 heures ([RO 2024 177](https://fedlex.data.admin.ch/eli/oc/2024/177)).
-[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/177](https://fedlex.data.admin.ch/eli/oc/2024/177) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2024-08-16
+version: 2024-11-07
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240816/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240816-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240816/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20241107/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20241107-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20241107/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 16. August 2024)
+vom 11. November 2015 (Stand am 7. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -389,61 +389,78 @@ Anhang 1a[^t-2]
 
 ## Güter und Technologie, die unter die Verbote nach Artikel 2*a* fallen
 
-[^t-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023, in Kraft seit 29. Sept. 2023 um 18.00 Uhr ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)).
+[^t-2]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023 ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Fassung gemäss Ziff. I Abs. 1 der V vom 6. Nov. 2024, in Kraft seit 7. Nov. 2024 ([AS 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)).
 
-### A. Kategorie 1 – Unbemannte Luftfahrzeuge
+### A. Begriffe
 
-<table>
-<tr><th>HS-Code</th><th>Beschreibung</th></tr>
-<tr><td>8806.91</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von nicht mehr als 250 g</td></tr>
-<tr><td>8806.92</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von mehr als 250 g, jedoch nicht mehr als 7 kg</td></tr>
-<tr><td>8806.93</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von mehr als 7 kg, jedoch nicht mehr als 25 kg</td></tr>
-<tr><td>8806.94</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von mehr als 25 kg, jedoch nicht mehr als 150 kg</td></tr>
-<tr><td>8806.99</td><td>Luftfahrzeuge ohne Besatzung, nicht zum Befördern von Passagieren hergerichtet, nicht ausschliesslich zum ferngesteuerten Betrieb hergerichtet, mit einem höchstzulässigen Abfluggewicht von mehr als 150 kg</td></tr>
-</table>
+In diesem Anhang bedeuten:
 
-### B. Kategorie 2 – Antriebs- und Navigationselemente
+- a. *Luftfahrzeug*: Fluggerät mit feststehenden, schwenkbaren oder rotierenden Tragflächen, mit Kipprotoren oder Kippflügeln;
+- b. *monolithisch integrierte Mikrowellenschaltung (MMIC)*: monolithisch integrierte Schaltung, die bei Frequenzen im Mikrowellen- oder Millimeterbereich arbeitet;
+- c. *Primärzelle*: Zelle, die nicht durch irgendeine andere Quelle aufgeladen werden kann;
+- d. *Satellitennavigationssystem*: System zur Berechnung der Standorte von Empfangsgeräten auf der Grundlage der von den Satelliten empfangenen Signale, einschliesslich globale Satellitennavigationssysteme (GNSS) und regionale Satellitennavigationssysteme (RNSS);
+- e. *unbemanntes Luftfahrzeug (UAV)*: Luftfahrzeug, das in der Lage ist, ohne Anwesenheit einer Person an Bord einen Flug zu beginnen, einen kontrollierten Flug beizubehalten und die Navigation durchzuführen.
 
-<table>
-<tr><th>HS-Code</th><th>Beschreibung</th></tr>
-<tr><td>ex 8411.11</td><td>Turbostrahltriebwerke für Luftfahrzeuge mit einer Schubkraft von nicht mehr als 25 kN</td></tr>
-<tr><td>ex 8411.12</td><td>Turbostrahltriebwerke für Luftfahrzeuge mit einer Schubkraft von mehr als 25 kN</td></tr>
-<tr><td>ex 8411.21</td><td>Turbopropellertriebwerke für Luftfahrzeuge mit einer Leistung von nicht mehr als 1100 kW</td></tr>
-<tr><td>ex 8411.22</td><td>Turbopropellertriebwerke für Luftfahrzeuge mit einer Leistung von mehr als 1100 kW</td></tr>
-<tr><td>ex 8411.91</td><td>Speziell konzipierte Teile für Turbostrahltriebwerke oder Turbopropellertriebwerke für Luftfahrzeuge</td></tr>
-<tr><td>8407.10</td><td>Hubkolben- oder Kreiskolbenmotoren mit Funkenzündung (Verbrennungsmotoren) für Luftfahrzeuge</td></tr>
-<tr><td>8409.10</td><td>Teile, erkennbar als ausschliesslich oder hauptsächlich für Kolbenmotoren für Luftfahrzeuge bestimmt</td></tr>
-<tr><td>ex 8408.90</td><td>Kolbenmotoren mit Kompressionszündung für Luftfahrzeuge</td></tr>
-<tr><td>ex 9014.20</td><td>Trägheitsnavigationssysteme, Trägheitsplattformen (Intertial measurement Unit IMU), Beschleunigungsmesser oder Kreisel</td></tr>
-<tr><td>ex 8526.10</td><td>Radar für Luftfahrzeuge ohne Besatzung und speziell konzipierte Bestandteile hierfür</td></tr>
-<tr><td>ex 8529.90</td><td>Radar für Luftfahrzeuge ohne Besatzung und speziell konzipierte Bestandteile hierfür</td></tr>
-<tr><td>ex 8526.91</td><td>Geräte für Funknavigation für Luftfahrzeuge und speziell konzipierte Bestandteile hierfür</td></tr>
-<tr><td>ex 8529.90</td><td>Geräte für Funknavigation für Luftfahrzeuge und speziell konzipierte Bestandteile hierfür</td></tr>
-<tr><td>ex 8807.30</td><td>Flugsteuerorgane (FCU) für Luftfahrzeuge ohne Besatzung (UAV)</td></tr>
-<tr><td>ex 8807.30</td><td>Fernsteuerungsgeräte für Luftfahrzeuge ohne Besatzung (UAV)</td></tr>
-</table>
-
-### C. Kategorie 3 – Elektronische Bauelemente und Systeme
+### B. Kategorie 3 – Allgemeine Elektronik
 
 <table>
 <tr><th>HS-Code</th><th>Beschreibung</th></tr>
-<tr><td>ex 8542.31</td><td>Integrierte Schaltungen wie folgt: FPGA (Field Programmable Gate Array, anwenderprogrammierbares Logikgatter), Mikrocontroller, Mikroprozessor, Signalprozessor, Signalanalysator</td></tr>
-<tr><td>ex 8542.39</td><td>Integrierte Schaltungen wie folgt: FPGA (Field Programmable Gate Array, anwenderprogrammierbares Logikgatter), Mikrocontroller, Mikroprozessor, Signalprozessor, Signalanalysator</td></tr>
-<tr><td>ex 8542.33</td><td>MMIC (monolithisch integrierte Mikrowellenschaltkreise)</td></tr>
-<tr><td>ex 8548.00</td><td>HF- oder EMI-Abschirmungen gegen elektromagnetische Interferenzen, geeignet für Luftfahrzeuge</td></tr>
-<tr><td>8525.83</td><td>Nachtsichtgeräte</td></tr>
-<tr><td>ex 8525.89</td><td>(Sichtlicht- oder Wärmebild-) Kameras, besonders konzipiert für die Verwendung in Luftfahrzeugen ohne Besatzung</td></tr>
-<tr><td>ex 9006.30</td><td>Luftbild-Überwachungskamera</td></tr>
-<tr><td>ex 9025.80</td><td>Wärmesensoren für UAV-Kameras</td></tr>
-<tr><td>ex 9027.50</td><td>Wärmesensoren für UAV-Kameras</td></tr>
+<tr><td>8532 21</td><td>Tantalkondensatoren</td></tr>
+<tr><td>8532 22</td><td>Aluminium-Elektrolytkondensatoren</td></tr>
+<tr><td>8532 24</td><td>Mehrschichtige Keramikkondensatoren</td></tr>
+<tr><td>8541 60</td><td>Gefasste oder montierte piezoelektrische Kristalle</td></tr>
+<tr><td>ex 8542 31 ex 8542 39</td><td>Integrierte Schaltungen wie folgt: anwenderprogrammierbares Logikgatter (Field Programmable Gate Array, FPGA), Mikrocontroller, Mikroprozessoren, Signalprozessoren, Signalanalysatoren, Analog-Digital-Wandler (ADC), Spannungsregler, Video-Encoder und Gleichstrom-Gleichstrom-Wandler</td></tr>
+<tr><td>ex 8542 32</td><td>Speicherschaltungen wie folgt: a. elektrisch programmierbare und löschbare Festwertspeicher (EEPROM) mit Speicherkapazität von: 1. mehr als 16 Mbit/s pro Paket für Flash-Speicher-Typen; oder 2. mehr als einem der folgenden Grenzwerte für alle anderen EEPROM-Typen: – mehr als 1 Mbit pro Paket, oder – mehr als 256 kbit pro Paket und maximale Zugriffszeit kleiner als 80 ns; b. statische Schreib-Lese-Speicher (SRAM) mit einer Speicherkapazität von: 1. mehr als 1 Mbit pro Paket, oder 2. mehr als 256 kbit pro Paket und maximale Zugriffszeit kleiner als 25 ns.</td></tr>
+<tr><td>ex 8542 33 ex 8543 70</td><td>MMIC-Verstärker und -Geräte</td></tr>
+<tr><td>ex 8548 00</td><td>HF- oder EMI-Abschirmung gegen elektromagnetische Interferenzen, geeignet für Luftfahrzeuge</td></tr>
 </table>
 
-### D. Kategorie 4 – Sonstige Güter
+### C. Kategorie 6 – Sensoren und Laser
 
-- 1\. Ausrüstung für Satellitennavigationssysteme, einschliesslich für den Empfang von GNSS-Signalen geeigneter Antennen
-- 2\. luftgestützte Laser-Entfernungsmesser
-- 3\. LIDAR (Light Detection and Ranging)-Systeme
-- 4\. Technologie, die für die Erprobung, Entwicklung oder Herstellung der vorstehend in der Liste aufgeführten Ausrüstung konzipiert oder speziell angepasst wurde
+<table>
+<tr><th>HS-Code</th><th>Beschreibung</th></tr>
+<tr><td>ex 8506</td><td>Primärzellen oder Batterien mit einer Energiedichte, die grösser oder gleich 150 Wh/kg bei 293 K (20 °C) ist</td></tr>
+<tr><td>8525 83</td><td>Nachtsichtkameras</td></tr>
+<tr><td>ex 8525 89 ex 9006 30</td><td>Kameras, die die Kriterien von Anhang 2 Teil 2 Ziffer 6A003 Buchstabe b Ziffer 4 der Güterkontrollverordnung vom 3. Juni 2016[^annex1a-lvlu1-lvlC-1] erfüllen</td></tr>
+<tr><td>ex 8529 90 ex 8542 39 ex 9006 91 ex 9013 80 ex 9025 80 ex 9025 90 ex 9026 80 ex 9026 90 ex 9027 50 ex 9032 10</td><td>Wärmesensoren für Kameras</td></tr>
+<tr><td>ex 9006 30</td><td>Luftbild-Überwachungskameras</td></tr>
+<tr><td>ex 9013 20 ex 9013 80 ex 9013 90 ex 9015 10 ex 9015 80 ex 9015 90 ex 9031 80 ex 9031 90 ex 9033</td><td>Luftgestützte Laser-Entfernungsmesser</td></tr>
+</table>
+
+[^annex1a-lvlu1-lvlC-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
+
+### D. Kategorie 7 – Luftfahrtelektronik und Navigation
+
+<table>
+<tr><th>HS-Code</th><th colspan="2">Beschreibung</th></tr>
+<tr><td>ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 90 ex 8807 30</td><td colspan="2">Fernsteuerungsgeräte für unbemannte Luftfahrzeuge (UAV)</td></tr>
+<tr><td>ex 8517 62 ex 8517 69</td><td colspan="2">Telekommunikationsapparate, -geräte oder -anlagen für Luftfahrzeuge</td></tr>
+<tr><td>ex 8517 71 ex 8529 10</td><td colspan="2">Antennen und Antennenreflektoren für Luftfahrzeuge</td></tr>
+<tr><td>ex 8517 71 ex 8526 10 ex 8526 91 ex 8526 92 ex 8529 10 ex 8529 90</td><td colspan="2">Ausrüstung für Satellitennavigationssysteme, einschliesslich für den Empfang von GNSS-Signalen geeigneter Antennen</td></tr>
+<tr><td>ex 8526 10 ex 8529 90</td><td colspan="2">Radargeräte für unbemannte Luftfahrzeuge (UAV) und speziell konzipierte Komponenten hierfür, namentlich folgende Radargeräte: Lichtradar (LIDAR), Funkmessvisier (Airborne Intercept, AI), Zielverfolgungsradar (Target Tracking, TT), Flugabwehrartillerie (Anti-aircraft Artillery, AAA), Zielerfassungsradar (Target Acquisition, TA), luftgestützte Frühwarnung (Airborne Early Warning, AEW)</td></tr>
+<tr><td>ex 8526 91 ex 8529 90</td><td colspan="2">Funknavigationsgeräte für Luftfahrzeuge und speziell konzipierte Komponenten hierfür</td></tr>
+<tr><td colspan="2">ex 8537 10 ex 8807 30</td><td>Flugsteuerorgane (FCU) für unbemannte Luftfahrzeuge (UAV)</td></tr>
+<tr><td colspan="2">8543 70 04</td><td>Digitale Flugdatenschreiber</td></tr>
+<tr><td colspan="2">ex 9014 20</td><td>Trägheitsnavigationssysteme, Trägheitsplattformen (IMU), Beschleunigungsmesser oder Kreisel</td></tr>
+</table>
+
+### E. Kategorie 9 – Luftfahrt, Raumfahrt und Antriebe
+
+<table>
+<tr><th>HS-Code</th><th>Beschreibung</th></tr>
+<tr><td>8407 10</td><td>Hub- und Rotationskolbenverbrennungsmotoren mit Fremdzündung für Luftfahrzeuge</td></tr>
+<tr><td>ex 8408 90</td><td>Kolbenverbrennungsmotoren mit Selbstzündung für Luftfahrzeuge</td></tr>
+<tr><td>8409 10</td><td>Teile, erkennbar ausschliesslich oder hauptsächlich für Kolbenverbrennungsmotoren für Luftfahrzeuge bestimmt</td></tr>
+<tr><td>ex 8411 11 ex 8411 12 ex 8411 21 ex 8411 22 ex 8411 91</td><td>Gasturbinenflugtriebwerke (Turboproptriebwerk, Turbostrahltriebwerk und Mantelstromtriebwerk) für Luftfahrzeuge und speziell konzipierte Komponenten hierfür</td></tr>
+<tr><td>ex 8807 30 ex 8501</td><td>Servomotoren für unbemannte Luftfahrzeuge (UAV)</td></tr>
+<tr><td>ex 8805 10 ex 8807 30</td><td>Startsysteme für unbemannte Luftfahrzeuge (UAV)</td></tr>
+<tr><td>8806 91 8806 92 8806 93 8806 94 8806 99</td><td>Unbemannte Luftfahrzeuge (UAV), ausgenommen solche für die Beförderung von Fluggästen</td></tr>
+<tr><td>ex 8807 30</td><td>Bodendienstgeräte für unbemannte Luftfahrzeuge (UAV)</td></tr>
+</table>
+
+### F. Kategorie 10 – Technologie
+
+Technologie, die für die Erprobung, Entwicklung oder Herstellung der vorstehend aufgeführten Ausrüstung konzipiert oder speziell angepasst wurde.
 
 Anhang 2
 
@@ -730,7 +747,7 @@ Anhang 6[^t-4]
 
 [^annex6-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), vom 10. Mai 2023 ([AS 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), vom 25. Okt. 2023 ([AS 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)) und vom 15. Aug. 2024, in Kraft seit 16. Aug. 2024 um 18.00 Uhr (AS **202****4** 422).
+[^t-4]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), vom 17. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), vom 2. Aug. 2022 ([AS 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), vom 10. Mai 2023 ([AS 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), vom 25. Okt. 2023 ([AS 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)) und vom 15. Aug. 2024, in Kraft seit 16. Aug. 2024 um 18.00 Uhr ([AS 2024 422](https://fedlex.data.admin.ch/eli/oc/2024/422)).
 [^annex6-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 6a[^t-5]
@@ -741,8 +758,8 @@ Anhang 6a[^t-5]
 
 [^annex6a-lvlu1-1]
 
-[^t-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023 ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Bereinigt gemäss Ziff. I der V des WBF vom 20. Dez. 2023, in Kraft seit 21. Dez. 2023 um 18.00 Uhr ([AS 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)).
-[^annex6a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/817](https://fedlex.data.admin.ch/eli/oc/2023/817) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Eingefügt durch Ziff. I der V vom 29. Sept. 2023 ([AS 2023 555](https://fedlex.data.admin.ch/eli/oc/2023/555)). Bereinigt gemäss Ziff. I der V des WBF vom 20. Dez. 2023 ([AS 2023 817](https://fedlex.data.admin.ch/eli/oc/2023/817)) und Ziff. I Abs. 2 der V vom 6. Nov. 2024, in Kraft seit 7. Nov. 2024 ([AS 2024 616](https://fedlex.data.admin.ch/eli/oc/2024/616)).
+[^annex6a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/616](https://fedlex.data.admin.ch/eli/oc/2024/616) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 7[^t-6]
 
