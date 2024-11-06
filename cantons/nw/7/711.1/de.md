@@ -5,12 +5,12 @@ title: Gesetz zur Erhaltung und Förderung der Gesundheit
 short: "Gesundheitsgesetz, GesG"
 language: de
 version: 2024-07-01
-valid_until: 2025-02-28
+corrected: 2024-11-07
 version_adopted: 2024-04-24
 adopted: 2007-05-30
 in_force: 2009-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1309/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1282/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1260,7 +1260,7 @@ beschliesst:
 
 <sup>2</sup> Ist ein Beruf weiterhin bewilligungspflichtig, bleibt die bisherige Bewilligung in Kraft.
 
-<sup>3</sup> Personen, die beim Inkrafttreten dieses Gesetzes einen bewilligungspflichtigen Beruf des Gesundheitswesens ausüben und über 70 Jahre alt sind, müssen binnen drei Monaten ein Gesuch gemäss Art. 27 Abs. 1 Ziff. 2 einreichen.
+<sup>3</sup> Personen, die beim Inkrafttreten dieses Gesetzes einen bewilligungspflichtigen Beruf des Gesundheitswesens ausüben und über 70 Jahre alt sind, müssen binnen drei Monaten ein Gesuch gemäss Art. 264 1 Ziff. 2 einreichen.
 
 <sup>4</sup> Personen, die zum Zeitpunkt des Inkrafttretens dieses Gesetzes eine neu der Bewilligungspflicht unterstellte Tätigkeit ausüben, haben innerhalb von sechs Monaten ein Gesuch einzureichen.
 
