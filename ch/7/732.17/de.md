@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Dezember 2007 über den Stilllegungsfonds und den Ents
 short: SEFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/64"
 language: de
-version: 2022-01-01
+version: 2024-11-07
 adopted: 2007-12-07
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-64-20220101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20241107/de/xml/fedlex-data-admin-ch-eli-cc-2008-64-20241107-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20241107/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20220101/de"
 
 (Stilllegungs- und Entsorgungsfondsverordnung, SEFV)
 
-vom 7. Dezember 2007 (Stand am 1. Januar 2022)
+vom 7. Dezember 2007 (Stand am 7. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -99,7 +99,7 @@ Zu den Entsorgungskosten gehören namentlich die Kosten für:
 
 <sup>5</sup> Die Kommission legt gestützt auf die Kostenstudien, die Überprüfung nach Absatz 4 und den Prüfbericht sowie in Kenntnis der Stellungnahme des UVEK die voraussichtliche Höhe der Stilllegungs- und Entsorgungskosten für jede Kernanlage fest.[^4-6]
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 (AS **20****15** 4043).
+[^4-1]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
 [^4-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 [^4-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
@@ -157,7 +157,9 @@ Beiträge an den Stilllegungsfonds sind zu leisten durch den Eigentümer einer K
 Von der Beitragspflicht sind für ihre Kernanlagen befreit:
 
 - a. die Institutionen aus dem Bereich der Eidgenössischen Technischen Hochschulen;
-- b. die kantonalen Universitäten.
+- b. die kantonalen Universitäten.[^6-1]
+
+[^6-1]: Die Bereichtigung vom 7. Nov. 2024 betrifft nur den französischen Text ([AS 2024 617](https://fedlex.data.admin.ch/eli/oc/2024/617)).
 
 #### Art. 7
 
@@ -452,7 +454,7 @@ Grundlage für die Berechnung der Kosten, der Beiträge und der Ansprüche ist d
 [^18-3]: Fassung gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 [^18-4]: Aufgehoben durch Ziff. I der V vom 25. Juni 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
-## 7. Abschnitt:**** Rückstellungen für Entsorgungskosten vor der endgültigen Ausserbetriebnahme der Kernkraftwerke
+## 7. Abschnitt: Rückstellungen für Entsorgungskosten vor der endgültigen Ausserbetriebnahme der Kernkraftwerke
 
 [^sec7-1]
 
@@ -650,7 +652,7 @@ Die Kommission hat insbesondere folgende Aufgaben:
 [^23-6]: Ausdruck gemäss Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Die Änd. wurde im ganzen Erlass berücksichtigt.
 [^23-7]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
 [^23-8]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-9]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 (AS **2****021** 821).
+[^23-9]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^23-10]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^23-11]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^23-12]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
@@ -792,10 +794,10 @@ Folgende Erlasse werden aufgehoben:
 - 3\. Reglement des UVEK vom 21. Februar 1985[^33-3] für den Stilllegungsfonds für Kernanlagen;
 - 4\. Reglement des UVEK vom 15. Oktober 2001[^33-4] für den Entsorgungsfonds für Kernkraftwerke.
 
-[^33-1]: [[AS 1983 1871](https://fedlex.data.admin.ch/eli/oc/1983/1871_1871_1871), [1996 2782](https://fedlex.data.admin.ch/eli/oc/1996/2782_2782_2782), [2001 78](https://fedlex.data.admin.ch/eli/oc/2001/14), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 59]
-[^33-2]: [[AS 2000 1027](https://fedlex.data.admin.ch/eli/oc/2000/159), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 60]
-[^33-3]: [[AS 1985 327](https://fedlex.data.admin.ch/eli/oc/1985/327_327_327), [1994 1757](https://fedlex.data.admin.ch/eli/oc/1994/1757_1757_1757), [1996 3433](https://fedlex.data.admin.ch/eli/oc/1996/3433_3433_3433), **2004** 643]
-[^33-4]: [[AS 2002 66](https://fedlex.data.admin.ch/eli/oc/2002/13), [2004 645](https://fedlex.data.admin.ch/eli/oc/2004/55)]
+[^33-1]: [[AS 1983 1871](https://fedlex.data.admin.ch/eli/oc/1983/1871_1871_1871); [1996 2782](https://fedlex.data.admin.ch/eli/oc/1996/2782_2782_2782); [2001 78](https://fedlex.data.admin.ch/eli/oc/2001/14); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 59]
+[^33-2]: [[AS 2000 1027](https://fedlex.data.admin.ch/eli/oc/2000/159); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 60]
+[^33-3]: [[AS 1985 327](https://fedlex.data.admin.ch/eli/oc/1985/327_327_327); [1994 1757](https://fedlex.data.admin.ch/eli/oc/1994/1757_1757_1757); [1996 3433](https://fedlex.data.admin.ch/eli/oc/1996/3433_3433_3433); **2004** 643]
+[^33-4]: [[AS 2002 66](https://fedlex.data.admin.ch/eli/oc/2002/13); [2004 645](https://fedlex.data.admin.ch/eli/oc/2004/55)]
 
 #### Art. 33a
 
@@ -820,7 +822,7 @@ Die fünfjährige Veranlagungsperiode nach Artikel 9 Absatz 1 wird nach dem Inkr
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 8*a* Abs. 3 und 19 Abs. 1<sup>bis</sup>)
 
@@ -834,7 +836,7 @@ Der Beitragsberechnung nach Artikel 8*a* Absätze 1 und 2 werden zugrunde gelegt
 - 2\. eine Teuerungsrate von 0,5 Prozent.
 - [tab]
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 8*a* Abs. 2, 9 Abs. 2 und 2<sup>bis</sup>)
 
@@ -847,7 +849,7 @@ In dieser Verordnung bedeuten:
 - 1 *Barwert:* der heutige Wert eines in der Zukunft erwarteten Geldbetrags.
 - 1\.1 Der Barwert wird durch Abzinsung des künftigen Geldbetrags mit einem Kapitalzinssatz nach der folgenden Formel ermittelt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20241107/de/xml/image/image1.png)
 
 - PV: Barwert
 - C<sub>t</sub>: Geldbetrag im Zeitpunkt
@@ -859,7 +861,7 @@ In dieser Verordnung bedeuten:
 - 3 …
 - 4
 
-  *Soll-We**rt:*
+  *Soll-Wert:*
 
   - 4\.1 vor der endgültigen Ausserbetriebnahme: der Wert per Bilanzstichtag, der basierend auf dem Soll-Wert am Ende der vorangehenden Veranlagungsperiode über die angenommene Restbetriebsdauer einer Kernanlage mittels konstanter jährlicher Beiträge (unter Berücksichtigung der Anlagerendite) bis zur Ausserbetriebnahme zum Zielwert führt;
   - 4\.2 nach der endgültigen Ausserbetriebnahme: der Barwert der zukünftigen Kosten nach aktueller Kostenstudie am Ende des jeweiligen Kalenderjahres bis zum Abschluss der Stilllegung- oder der Entsorgungsarbeiten, unter Einbezug von Anlagerendite und Teuerungsrate nach Anhang 1.

@@ -4,11 +4,11 @@ title: "Ordonnance du 7 décembre 2007 sur le fonds de désaffectation et sur le
 short: OFDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/64"
 language: fr
-version: 2022-01-01
+version: 2024-11-07
 adopted: 2007-12-07
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-64-20220101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20241107/fr/xml/fedlex-data-admin-ch-eli-cc-2008-64-20241107-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20241107/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20220101/fr"
 
 (Ordonnance sur le fonds de désaffectation et sur le fonds de gestion, OFDG)
 
-du 7 décembre 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 7 décembre 2007 (État le 7 novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -152,7 +152,14 @@ Le propriétaire d’une installation nucléaire est tenu de verser des contribu
 
 <sup>2</sup> Le propriétaire d’une centrale nucléaire est tenu de verser des contributions au fonds de gestion.
 
-<sup>3</sup> Les institutions du domaine des Écoles polytechniques fédérales et les universités cantonales ne sont pas soumises à l’obligation de verser des contributions pour leurs installations nucléaires.
+<sup>3</sup>
+
+Ne sont pas soumises à l’obligation de verser des contributions pour leurs installations nucléaires:
+
+- a. les institutions du domaine des Écoles polytechniques fédérales;
+- b. les universités cantonales.[^6-1]
+
+[^6-1]: Erratum du 7 nov. 2024 ([RO 2024 617](https://fedlex.data.admin.ch/eli/oc/2024/617)).
 
 #### Art. 7
 
@@ -242,7 +249,7 @@ Elle procède à une taxation intermédiaire:
 
 <sup>1</sup> Si la mise hors service définitive intervient pendant une période de taxation, la commission procède à une taxation intermédiaire pour le reste de la période de taxation.
 
-<sup>2</sup> ...[^9a-2]
+<sup>2</sup> …[^9a-2]
 
 <sup>3</sup> Si des contributions doivent être prélevées après la mise hors service définitive en raison de la taxation ou de la taxation intermédiaire, la commission peut accorder des délais de paiement de cinq ans au maximum.[^9a-3]
 
@@ -447,7 +454,7 @@ Les coûts, les contributions et les créances sont calculés en francs suisses.
 [^18-3]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 [^18-4]: Abrogé par le ch. I de l’O du 25 juin 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
-## Section 7**** Provisions pour des coûts de gestion des déchets antérieurs à la mise hors service définitive des centrales nucléaires
+## Section 7 Provisions pour des coûts de gestion des déchets antérieurs à la mise hors service définitive des centrales nucléaires
 
 [^sec7-1]
 
@@ -815,7 +822,7 @@ La période de taxation de cinq ans visée à l’art. 9, al. 1, est maintenue a
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 8*a*, al. 3, et 19, al. 1<sup>bis</sup>)
 
@@ -828,7 +835,7 @@ Le montant des contributions visé à l’art. 8*a*, al. 1 et 2, se détermine e
 - 1\. d’un rendement du capital de 2,1 % (après déduction des coûts de la gestion de fortune y compris les frais bancaires et les droits de timbre de négociation);
 - 2\. d’un taux de renchérissement de 0,5 %.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 8*a*, al. 2, 9, al. 2 et 2<sup>bis</sup>)
 
@@ -841,7 +848,7 @@ Dans la présente ordonnance, on entend par:
 - 1 *valeur actuelle:* la valeur du jour d’un montant en espèces attendu ultérieurement.
 - 1\.1 La valeur actuelle s’obtient au moyen de la formule ci-après après actualisation du montant attendu par le taux d’intérêt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20241107/fr/xml/image/image1.png)
 
 - PV: valeur actuelle
 - C<sub>t</sub>: montant au moment t
@@ -850,7 +857,7 @@ Dans la présente ordonnance, on entend par:
 
 - 1\.2 La valeur actuelle des coûts futurs s’obtient en appliquant la formule indiquée au ch. 1.1 à chaque élément de coûts futur (montant C<sub>t</sub>) et en additionnant les résultats pour avoir une valeur actuelle totale.
 - 2 *Valeur réelle:* valeur de la part de chaque fonds obtenue pour chaque installation nucléaire à la date de clôture du bilan.
-- 3 *...*
+- 3 *…*
 - 4
 
   *Valeur de consigne:*

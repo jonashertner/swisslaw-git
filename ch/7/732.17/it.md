@@ -4,11 +4,11 @@ title: "Ordinanza del 7 dicembre 2007 sul Fondo di disattivazione e sul Fondo di
 short: OFDS
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/64"
 language: it
-version: 2022-01-01
+version: 2024-11-07
 adopted: 2007-12-07
 in_force: 2008-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-64-20220101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20241107/it/xml/fedlex-data-admin-ch-eli-cc-2008-64-20241107-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20241107/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/64/20220101/it"
 
 (Ordinanza sul Fondo di disattivazione e sul Fondo di smaltimento, OFDS)
 
-del 7 dicembre 2007 (Stato 1° gennaio 2022)
+del 7 dicembre 2007 (Stato 7 novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ visti gli articoli 81 capoverso 5, 82 capoverso 2 e 101 della legge federale del
 ordina:
 
 [^ingress-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 ## Sezione 1: Sede
 
@@ -77,7 +77,7 @@ I costi di smaltimento comprendono in particolare i costi:
 - g. di assicurazione;
 - h. amministrativi.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
 
 #### Art. 4
 
@@ -99,12 +99,12 @@ I costi di smaltimento comprendono in particolare i costi:
 
 <sup>5</sup> Sulla base degli studi sui costi, della verifica di cui al capoverso 4 e del rapporto di verifica e tenuto conto del parere del DATEC, la Commissione stabilisce il prevedibile ammontare dei costi di disattivazione e di smaltimento per ogni impianto nucleare.[^4-6]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^4-2]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
-[^4-4]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^4-5]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^4-6]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^4-2]: Introdotto dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^4-4]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^4-5]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^4-6]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 4a
 
@@ -114,7 +114,7 @@ I costi di smaltimento comprendono in particolare i costi:
 
 <sup>2</sup> La Commissione può autorizzare il posticipo del nuovo calcolo alla successiva scadenza ordinaria dello studio sui costi, qualora questo studio sia comunque previsto in un futuro prossimo.
 
-[^4a-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
 
 #### Art. 5
 
@@ -134,8 +134,8 @@ Per costi amministrativi si intendono in particolare:
 
 <sup>2</sup> I costi di gestione del patrimonio non sono considerati costi amministrativi.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 ## Sezione 3: Obbligo di contribuire e importo dei contributi
 
@@ -157,7 +157,9 @@ I contributi al Fondo di disattivazione sono versati dai proprietari di impianti
 Sono esentati dall’obbligo di contribuire per i loro impianti nucleari:
 
 - a. gli istituti del settore dei politecnici federali;
-- b. le università cantonali.
+- b. le università cantonali.[^6-1]
+
+[^6-1]: La mod. del 7 nov. 2024 concerne soltanto il testo francese ([RU 2024 617](https://fedlex.data.admin.ch/eli/oc/2024/617)).
 
 #### Art. 7
 
@@ -167,7 +169,7 @@ Sono esentati dall’obbligo di contribuire per i loro impianti nucleari:
 
 <sup>2</sup> Esso termina nel momento in cui la disattivazione dell’impianto in questione è conclusa (art. 29 cpv. 1 LENu).
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 #### Art. 8
 
@@ -186,9 +188,9 @@ Per messa fuori servizio definitiva si intende:
 
 <sup>4</sup> La durata d’esercizio presunta per gli impianti di smaltimento è stabilita nel programma di smaltimento delle scorie.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 [^8-2]: [RS 732.11](https://fedlex.data.admin.ch/eli/cc/2005/68)
-[^8-3]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 8a
 
@@ -209,7 +211,7 @@ L’importo dei contributi è determinato in base:
 
 <sup>4</sup> Il reddito del capitale e il tasso di rincaro sono fissati nell’allegato 1. In caso di sostanziali modifiche delle condizioni quadro, il DATEC adegua l’allegato 1 d’intesa con il Dipartimento federale delle finanze e il Dipartimento federale dell’economia, della formazione e della ricerca.
 
-[^8a-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 
 #### Art. 9
 
@@ -235,11 +237,11 @@ La Commissione effettua una tassazione intermedia se:
 
 <sup>6</sup> I proprietari tenuti a versare contributi possono corrispondere anticipi.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^9-4]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^9-5]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^9-4]: Introdotto dalla cifra I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta la cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^9-5]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 #### Art. 9a
 
@@ -255,9 +257,9 @@ La Commissione effettua una tassazione intermedia se:
 
 <sup>5</sup> Per il resto, si applica per analogia l’articolo 9.
 
-[^9a-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^9a-2]: Abrogato dal n. I dell’O del 6 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
-[^9a-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^9a-2]: Abrogato dalla cifra I dell’O del 6 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^9a-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 
 #### Art. 9b
 
@@ -267,7 +269,7 @@ La Commissione effettua una tassazione intermedia se:
 
 <sup>2</sup> Se al termine dell’obbligo di contribuire sono ancora dovuti contributi, questi ultimi vanno versati entro cinque anni.
 
-[^9b-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^9b-1]: Introdotto dalla cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 #### Art. 9c
 
@@ -277,8 +279,8 @@ La Commissione effettua una tassazione intermedia se:
 
 <sup>2</sup> Se la centrale appartiene a una società anonima che non dispone di attivi sufficienti a garantire il pagamento dei contributi ancora dovuti, il capoverso 1 è applicabile solamente se la società anonima fornisce una corrispondente garanzia dei suoi azionisti.
 
-[^9c-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^9c-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^9c-1]: Introdotto dalla cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^9c-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 
 #### Art. 10
 
@@ -347,7 +349,7 @@ Sono dedotti dal capitale accumulato:
 
 <sup>4</sup> ...[^13-1]
 
-[^13-1]: Abrogato dal n. I dell’O del 25 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^13-1]: Abrogato dalla cifra I dell’O del 25 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 #### Art. 13a
 
@@ -355,7 +357,7 @@ Sono dedotti dal capitale accumulato:
 
 Il capitale accumulato in eccedenza nei Fondi è rimborsato ai proprietari tenuti a versare contributi dopo il conteggio finale secondo l’articolo 78 capoverso 2 LENu.
 
-[^13a-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^13a-1]: Introdotto dalla cifra I dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 
 #### Art. 14
 
@@ -370,8 +372,8 @@ La Commissione stabilisce un quadro finanziario per il versamento delle risorse 
 
 <sup>2</sup> In casi eccezionali la Commissione può adeguare il quadro finanziario precedentemente stabilito.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 14a
 
@@ -381,7 +383,7 @@ La Commissione stabilisce un quadro finanziario per il versamento delle risorse 
 
 <sup>2</sup> La Commissione approva il piano dei costi e versa ratealmente ai proprietari l’80 per cento dei versamenti autorizzati, esclusa l’imposta sul valore aggiunto.
 
-[^14a-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 
 #### Art. 14b
 
@@ -397,7 +399,7 @@ La Commissione stabilisce un quadro finanziario per il versamento delle risorse 
 
 <sup>5</sup> La Commissione stabilisce in una direttiva i dettagli della procedura per il versamento e i requisiti per il piano dei costi e il conteggio finale.
 
-[^14b-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^14b-1]: Introdotto dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 
 ## Sezione 5: Politica d’investimento
 
@@ -411,7 +413,7 @@ La Commissione stabilisce un quadro finanziario per il versamento delle risorse 
 
 <sup>2</sup> Per ogni Fondo è tenuta una contabilità separata.
 
-[^15-1]: Introdotto dal n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^15-1]: Introdotto dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 
 #### Art. 16
 
@@ -449,14 +451,14 @@ I costi, i contributi e le pretese sono calcolati in franchi svizzeri.
 
 [^18-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^18-2]: Correzione del 12 ago. 2014 ([RU 2014 2487](https://fedlex.data.admin.ch/eli/oc/2014/440)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^18-4]: Abrogato dal n. I dell’O del 25 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^18-4]: Abrogato dalla cifra I dell’O del 25 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
-## Sezione 7:**** Accantonamenti per i costi di smaltimento prima della messa fuori servizio definitiva delle centrali nucleari
+## Sezione 7: Accantonamenti per i costi di smaltimento prima della messa fuori servizio definitiva delle centrali nucleari
 
 [^sec7-1]
 
-[^sec7-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^sec7-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 #### Art. 19
 
@@ -466,7 +468,7 @@ I costi, i contributi e le pretese sono calcolati in franchi svizzeri.
 
 <sup>2</sup> Essi presentano inoltre alla Commissione il rapporto del Servizio di revisione che attesta il rispetto dei piani di accantonamento e l’utilizzazione a destinazione vincolata di accantonamenti.
 
-[^19-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^19-1]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 ## Sezione 8: Organizzazione
 
@@ -483,7 +485,7 @@ Gli organi dei Fondi sono:
 - e. l’Ufficio;
 - f. il Servizio di revisione.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 20a
 
@@ -499,7 +501,7 @@ Gli organi dei Fondi sono:
 
 <sup>5</sup> Ai membri della Commissione e dei comitati si applica per analogia la limitazione della durata della funzione di cui all’articolo 8*i* dell’ordinanza del 25 novembre 1998[^20a-2] sull’organizzazione del Governo e dell’Amministrazione (OLOGA).
 
-[^20a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^20a-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 20b
@@ -512,7 +514,7 @@ Gli organi dei Fondi sono:
 
 <sup>3</sup> Per la rappresentanza dei sessi e delle comunità linguistiche in seno alla Commissione e ai comitati si applicano per analogia gli articoli 8*c* capoverso 1 e 8*c*<sup>bis</sup> capoverso 1 OLOGA[^20b-2]. È possibile derogare eccezionalmente a queste disposizioni per ragioni di qualifiche.
 
-[^20b-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^20b-1]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^20b-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 21
@@ -533,7 +535,7 @@ Il comitato della Commissione si compone di quattro membri ed è formato:
 
 <sup>4</sup> La presidenza e la vicepresidenza della Commissione, nonché la presidenza del comitato della Commissione e dei comitati, sono esercitate da membri indipendenti della Commissione (art. 21*a* cpv. 1).
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 21a
 
@@ -543,8 +545,8 @@ Il comitato della Commissione si compone di quattro membri ed è formato:
 
 <sup>2</sup> Se intende intraprendere un’attività che potrebbe essere incompatibile con l’esigenza di indipendenza, un membro di cui al capoverso precedente deve previamente chiedere la raccomandazione della Commissione. In caso di dubbio, la Commissione chiede una valutazione al DATEC.
 
-[^21a-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
-[^21a-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^21a-1]: Introdotto dalla cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^21a-2]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 21b
 
@@ -558,7 +560,7 @@ Il comitato della Commissione si compone di quattro membri ed è formato:
 
 <sup>4</sup> L’obbligo di serbare il segreto vige anche per i membri uscenti.
 
-[^21b-1]: Introdotto dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^21b-1]: Introdotto dalla cifra I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 [^21b-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 21c
@@ -571,8 +573,8 @@ Il comitato della Commissione si compone di quattro membri ed è formato:
 
 <sup>3</sup> Il DATEC può aumentare gli importi al massimo del 50 per cento per i membri indipendenti.
 
-[^21c-1]: Introdotto dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^21c-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)**.****1**
+[^21c-1]: Introdotto dalla cifra I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^21c-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 21d
 
@@ -587,7 +589,7 @@ I membri della Commissione, del comitato della Commissione e dei comitati che ra
 - a. in occasione di controversie legali in cui sono coinvolti i proprietari rappresentati e il Fondo di disattivazione o il Fondo di smaltimento; o
 - b. in relazione alla propria persona.
 
-[^21d-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^21d-1]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 22
 
@@ -601,7 +603,7 @@ I membri della Commissione, del comitato della Commissione e dei comitati che ra
 
 <sup>4</sup> I gruppi di specialisti e i gruppi di lavoro elaborano basi decisionali per la Commissione.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 22a
 
@@ -609,7 +611,7 @@ I membri della Commissione, del comitato della Commissione e dei comitati che ra
 
 Nello svolgimento delle proprie attività i membri della Commissione, del comitato della Commissione e dei comitati si adoperano per garantire un finanziamento sufficiente del Fondo di disattivazione e del Fondo di smaltimento.
 
-[^22a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^22a-1]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 23
 
@@ -642,20 +644,20 @@ La Commissione svolge in particolare i seguenti compiti:
 - s.[^23-13] fornisce all’Ufficio federale dell’energia (UFE) tutte le informazioni necessarie all’esercizio della vigilanza;
 - t.[^23-14] allestisce i rapporti e i conti annuali e sottopone i rapporti annuali al Consiglio federale per approvazione.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^23-3]: Introdotta dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-4]: Introdotta dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^23-5]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^23-6]: Nuovo termine giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^23-7]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-8]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-9]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^23-10]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^23-11]: Introdotta dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^23-12]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^23-13]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^23-14]: Introdotta dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-3]: Introdotta dalla cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-4]: Introdotta dalla cifra I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-5]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-6]: Nuovo termine giusta la cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^23-7]: Nuovo testo giusta la cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-8]: Nuovo testo giusta la cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-9]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-10]: Introdotta dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-11]: Introdotta dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-12]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23-13]: Nuovo testo giusta la cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^23-14]: Introdotta dalla cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
 
 #### Art. 23a
 
@@ -669,7 +671,7 @@ La Commissione svolge in particolare i seguenti compiti:
 
 <sup>4</sup> Il comitato per il controllo dei costi è competente in particolare per l’allestimento dello studio sui costi e la sua verifica.
 
-[^23a-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 24
 
@@ -715,7 +717,7 @@ L’Ufficio svolge in particolare i seguenti compiti:
 
 <sup>3</sup> Dopo la presentazione di nuovi studi sui costi e prima della fissazione dei contributi, il Servizio di revisione certifica la plausibilità del modello attuariale e ne verifica il corretto funzionamento nonché l’acquisizione dei dati dagli studi sui costi.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 
 #### Art. 28
 
@@ -731,7 +733,7 @@ Le diarie e le indennità di viaggio ai membri della Commissione, nonché le spe
 
 I Fondi sottostanno alla vigilanza del Consiglio federale.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
 
 #### Art. 29a
 
@@ -757,9 +759,9 @@ Il DATEC ha le seguenti competenze:
 
 <sup>3</sup> L’UFE è competente per la preparazione e l’esecuzione delle decisioni del Consiglio federale e del DATEC.
 
-[^29a-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
-[^29a-2]: Abrogate dal n. I dell’O del 24 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
-[^29a-3]: Introdotta dal n. I dell’O del 6 nov. 2019 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^29a-1]: Introdotto dalla cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^29a-2]: Abrogate dalla cifra I dell’O del 24 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^29a-3]: Introdotta dalla cifra I dell’O del 6 nov. 2019 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Nuovo testo giusta la cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 #### Art. 30
 
@@ -779,7 +781,7 @@ La procedura per l’emanazione e l’impugnazione di decisioni del Fondo è dis
 
 [^32-1]
 
-[^32-1]: Abrogato dal n. I dell’O del 25 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^32-1]: Abrogato dalla cifra I dell’O del 25 giu. 2014, con effetto dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 #### Art. 33
 
@@ -792,10 +794,10 @@ I seguenti atti normativi sono abrogati:
 - 3\. regolamento del DATEC del 21 febbraio 1985[^33-3] concernente il Fondo per lo spegnimento di impianti nucleari;
 - 4\. regolamento del DATEC del 15 ottobre 2001[^33-4] concernente il Fondo per lo smaltimento delle scorie radioattive prodotte dalle centrali nucleari.
 
-[^33-1]: [[RU 1983 1871](https://fedlex.data.admin.ch/eli/oc/1983/1871_1871_1871), [1996 2782](https://fedlex.data.admin.ch/eli/oc/1996/2782_2782_2782), [2001 78](https://fedlex.data.admin.ch/eli/oc/2001/14), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 59]
-[^33-2]: [[RU 2000 1027](https://fedlex.data.admin.ch/eli/oc/2000/159), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 60]
-[^33-3]: [[RU 1985 327](https://fedlex.data.admin.ch/eli/oc/1985/327_327_327), [1994 1757](https://fedlex.data.admin.ch/eli/oc/1994/1757_1757_1757), [1996 3433](https://fedlex.data.admin.ch/eli/oc/1996/3433_3433_3433), **2004** 643]
-[^33-4]: [[RU 2002 66](https://fedlex.data.admin.ch/eli/oc/2002/13), [2004 645](https://fedlex.data.admin.ch/eli/oc/2004/55)]
+[^33-1]: [[RU 1983 1871](https://fedlex.data.admin.ch/eli/oc/1983/1871_1871_1871); [1996 2782](https://fedlex.data.admin.ch/eli/oc/1996/2782_2782_2782); [2001 78](https://fedlex.data.admin.ch/eli/oc/2001/14); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 59]
+[^33-2]: [[RU 2000 1027](https://fedlex.data.admin.ch/eli/oc/2000/159); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 60]
+[^33-3]: [[RU 1985 327](https://fedlex.data.admin.ch/eli/oc/1985/327_327_327); [1994 1757](https://fedlex.data.admin.ch/eli/oc/1994/1757_1757_1757); [1996 3433](https://fedlex.data.admin.ch/eli/oc/1996/3433_3433_3433); **2004** 643]
+[^33-4]: [[RU 2002 66](https://fedlex.data.admin.ch/eli/oc/2002/13); [2004 645](https://fedlex.data.admin.ch/eli/oc/2004/55)]
 
 #### Art. 33a
 
@@ -803,7 +805,7 @@ I seguenti atti normativi sono abrogati:
 
 Il periodo di tassazione di cinque anni di cui all’articolo 9 capoverso 1 viene mantenuto dopo l’entrata in vigore della modifica del 25 giugno 2014.
 
-[^33a-1]: Introdotto dal n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
+[^33a-1]: Introdotto dalla cifra I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)).
 
 #### Art. 33b
 
@@ -811,7 +813,7 @@ Il periodo di tassazione di cinque anni di cui all’articolo 9 capoverso 1 vien
 
 ...[^33b-2]
 
-[^33b-1]: Introdotto dal n. I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
+[^33b-1]: Introdotto dalla cifra I dell’O del 7 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)).
 [^33b-2]: La mod. può essere consultata alla [RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675).
 
 #### Art. 34
@@ -820,33 +822,33 @@ Il periodo di tassazione di cinque anni di cui all’articolo 9 capoverso 1 vien
 
 La presente ordinanza entra in vigore il 1° febbraio 2008.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 8*a* cpv. 3 e 19 cpv. 1<sup>bis</sup>)
 
 ## Reddito del capitale e tasso di rincaro
 
-[^t-1]: Introdotto dal n. II dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta il n. II cpv. 1 dell’O del 6 nov. 2019 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
+[^t-1]: Introdotto dalla cifra II dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)). Nuovo testo giusta la cifra II cpv. 1 dell’O del 6 nov. 2019 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)). Aggiornato dalla cifra II dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 821](https://fedlex.data.admin.ch/eli/oc/2021/821)).
 
 Per il calcolo dei contributi secondo l’articolo 8a capoversi 1 e 2 si suppone:
 
 - 1\. un reddito del capitale del 2,1 per cento (dedotti i costi di gestione del patrimonio, comprese le spese bancarie e le tasse di negoziazione);
 - 2\. un tasso di rincaro dello 0,5 per cento.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 8*a* cpv. 2, 9 cpv. 2 e 2<sup>bis</sup>)
 
 ## Definizioni e regole per determinare il valore dei Fondi
 
-[^t-2]: Originario all. Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Aggiornato dal n. II cpv. 2 dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
+[^t-2]: Originario all. Introdotto dalla cifra II dell’O del 25 giu. 2014 ([RU 2014 2231](https://fedlex.data.admin.ch/eli/oc/2014/373)). Aggiornato dalla cifra II cpv. 2 dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4213](https://fedlex.data.admin.ch/eli/oc/2019/724)).
 
 Nella presente ordinanza:
 
 - 1 Il termine *valore attuale* indica il valore al momento attuale di un importo di denaro atteso in futuro.
 - 1\.1 Il valore attuale si ottiene scontando l’importo futuro con il tasso d’interesse sul capitale, secondo la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/64/20241107/it/xml/image/image1.png)
 
 - PV: valore attuale
 - C<sub>t</sub>: importo al momento t
