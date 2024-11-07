@@ -2,28 +2,28 @@
 canton: ZG
 number: "162.1"
 title: Gesetz über den Rechtsschutz in Verwaltungssachen
-short: Verwaltungsrechtspflegegesetz; VRG
+short: "Verwaltungsrechtspflegegesetz, VRG"
 language: de
-version: 2023-01-13
-valid_until: 2024-11-07
-version_adopted: 2022-10-27
+version: 2024-11-08
+valid_until: 2025-10-16
+version_adopted: 2024-08-29
 adopted: 1976-04-01
 in_force: 1977-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/162.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2404/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2631/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Rechtsschutz in Verwaltungssachen
 
-(Verwaltungsrechtspflegegesetz; VRG)
+(Verwaltungsrechtspflegegesetz, VRG)
 
-Vom 1. April 1976 (Stand 13. Januar 2023)
+Vom 1. April 1976 (Stand 8. November 2024)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -53,7 +53,7 @@ beschliesst:
 - 1\. die Verwaltungsbehörden des Kantons und der Gemeinden;
 - 2\. das kantonale Verwaltungsgericht.
 
-<sup>2</sup> Sind einzelne Amtsstellen, Beamte und Kommissionen entscheidungsberechtigt, so gelten sie im Sinne dieses Gesetzes als Behörde.
+<sup>2</sup> Sind einzelne Amtsstellen, Personen und Kommissionen entscheidungsberechtigt, so gelten sie im Sinne dieses Gesetzes als Behörde.
 
 #### § 3
 
@@ -99,7 +99,7 @@ beschliesst:
 
 **Weiterleitung**
 
-<sup>1</sup> Eingaben an eine unzuständige Instanz sind von Amtes wegen und unter Mitteilung an den Absender an die zuständige Behörde weiterzuleiten.
+<sup>1</sup> Eingaben an eine unzuständige Instanz sind von Amtes wegen und unter Mitteilung an die Absenderin bzw. den Absender an die zuständige Behörde weiterzuleiten.
 
 <sup>2</sup> Für die Einhaltung von Fristen ist der Zeitpunkt der Einreichung bei der unzuständigen Behörde massgebend.
 
@@ -118,16 +118,16 @@ beschliesst:
 
 **Verwaltungsgericht**
 
-<sup>1</sup> Richter und Gerichtsschreiber treten in Ausstand, wenn sie
+<sup>1</sup> Richterinnen und Richter sowie Gerichtsschreiberinnen und Gerichtsschreiber treten in Ausstand, wenn sie
 
 - a) in der Sache ein persönliches Interesse haben;
-- b) in einer anderen Stellung, insbesondere als Mitglied einer Behörde, als Rechtsberater einer Partei, als sachverständige Person oder als Zeuge in der gleichen Sache tätig waren;
-- c) mit einer Partei, ihrem Vertreter oder einer Person, die in der gleichen Sache als Mitglied der Vorinstanz tätig war, verheiratet sind oder in eingetragener Partnerschaft oder dauernder Lebensgemeinschaft leben oder in gerader Linie oder in der Seitenlinie bis und mit dem dritten Grad verwandt oder verschwägert sind;
-- d) aus anderen Gründen, insbesondere wegen besonderer Freundschaft oder persönlicher Feindschaft mit einer Partei oder ihrem Vertreter befangen sein könnten.
+- b) in einer anderen Stellung, insbesondere als Mitglied einer Behörde, als Rechtsberatung einer Partei, als sachverständige Person oder als Zeugin oder Zeuge in der gleichen Sache tätig waren;
+- c) mit einer Partei, deren Vertretung oder einer Person, die in der gleichen Sache als Mitglied der Vorinstanz tätig war, verheiratet sind oder in eingetragener Partnerschaft oder dauernder Lebensgemeinschaft leben oder in gerader Linie oder in der Seitenlinie bis und mit dem dritten Grad verwandt oder verschwägert sind;
+- d) aus anderen Gründen, insbesondere wegen besonderer Freundschaft oder persönlicher Feindschaft mit einer Partei oder deren Vertretung befangen sein könnten.
 
 <sup>2</sup> Die Mitwirkung in einem früheren Verfahren des Verwaltungsgerichts bildet für sich allein keinen Ausstandsgrund.
 
-<sup>3</sup> Tritt ein Ausstandsgrund ein, so hat die betroffene Person dies rechtzeitig dem Vorsitzenden der Kammer mitzuteilen.
+<sup>3</sup> Tritt ein Ausstandsgrund ein, so hat die betroffene Person dies rechtzeitig der oder dem Vorsitzenden der Kammer mitzuteilen.
 
 <sup>4</sup> Eine Partei hat ein Ausstandsbegehren schriftlich einzureichen, sobald sie vom Ausstandsgrund Kenntnis erhalten hat. Die den Ausstand begründenden Tatsachen sind glaubhaft zu machen.
 
@@ -190,7 +190,7 @@ beschliesst:
 
 <sup>2</sup> Eine behördlich angesetzte Frist kann erstreckt werden, wenn vor Fristablauf ein Gesuch gestellt und ein ausreichender Grund glaubhaft gemacht wird.
 
-<sup>3</sup> Eine versäumte Frist kann wiederhergestellt werden, wenn der Gesuchsteller oder sein Vertreter unverschuldet abgehalten wurde, innert der Frist zu handeln, und er binnen zehn Tagen nach Wegfall des Hindernisses ein begründetes Gesuch um Wiederherstellung einreicht.
+<sup>3</sup> Eine versäumte Frist kann wiederhergestellt werden, wenn die gesuchstellende Partei oder ihre Vertretung unverschuldet abgehalten wurde, innert der Frist zu handeln, und sie binnen zehn Tagen nach Wegfall des Hindernisses ein begründetes Gesuch um Wiederherstellung einreicht.
 
 ### 2.4. Verfahrensvorschriften
 
@@ -206,7 +206,7 @@ beschliesst:
 
 <sup>1</sup> Die Behörde kann zur Feststellung des Sachverhaltes Parteien und Drittpersonen befragen, Urkunden beiziehen, Augenscheine vornehmen und Gutachten einholen.
 
-<sup>2</sup> Dem Regierungsrat, den Direktionsvorstehern, den Generalsekretären sowie dem Verwaltungsgericht und dessen Generalsekretär steht überdies das Recht zur förmlichen Partei- und Zeugenbefragung zu.
+<sup>2</sup> Dem Regierungsrat, den Direktionsvorsteherinnen und Direktionsvorstehern, den Generalsekretärinnen und Generalsekretären sowie dem Verwaltungsgericht und dessen Generalsekretärin oder Generalsekretär steht überdies das Recht zur förmlichen Partei- und Zeugenbefragung zu.
 
 #### § 14
 
@@ -275,7 +275,7 @@ beschliesst:
 
 <sup>1</sup> Der Entscheid ist in der Regel schriftlich zu begründen.
 
-<sup>2</sup> Bei einseitigen Verwaltungsentscheiden kann auf eine schriftliche Begründung verzichtet werden, wenn sie dem Begehren des Antragstellers voll entsprechen und keine Rechte Dritter betreffen.
+<sup>2</sup> Bei einseitigen Verwaltungsentscheiden kann auf eine schriftliche Begründung verzichtet werden, wenn sie dem Begehren der antragstellenden Partei voll entsprechen und keine Rechte Dritter betreffen.
 
 <sup>3</sup> Rechtsmittelentscheide können im Dispositiv ohne Begründung oder mit einer Kurzbegründung mitgeteilt werden, worauf jede Partei innert 30 Tagen seit der Mitteilung schriftlich einen vollständig begründeten Entscheid verlangen kann. Andernfalls erwächst er in Rechtskraft.
 
@@ -283,7 +283,7 @@ beschliesst:
 
 **Mitteilung**
 
-<sup>1</sup> Der Entscheid ist den Parteien durch die Post zuzustellen.
+<sup>1</sup> Der Entscheid ist den Parteien durch die Post zuzustellen. Ist eine Partei vertreten, so stellt die Behörde ihre Mitteilung der Vertretung zu, solange sie nicht über die Beendigung des Vertretungsverhältnisses unterrichtet worden ist.
 
 <sup>1a</sup> Die Eröffnung kann auf elektronischem Weg erfolgen, wenn die Partei ausdrücklich damit einverstanden ist. Entscheide sind mit einer elektronischen Signatur gemäss Vorgaben des Bundesrechts[^21-1] zu versehen. Der Regierungsrat regelt die Anforderungen an die elektronische Eröffnung.
 
@@ -336,7 +336,7 @@ beschliesst:
 <sup>1</sup> Die Kosten trägt:
 
 - 1\. im erstinstanzlichen Verwaltungsverfahren: die Partei, welche die Amtshandlung in ihrem eigenen Interesse beantragt oder durch ihr Verhalten veranlasst hat;
-- 2\. im Einspracheverfahren: der Einsprecher, wenn er mutwillig Einsprache erhoben hat;
+- 2\. im Einspracheverfahren: die Partei, wenn sie mutwillig Einsprache erhoben hat;
 - 3\. im Beschwerdeverfahren vor den Verwaltungsbehörden und im Verfahren vor dem Verwaltungsgericht: die unterliegende Partei.
 
 <sup>2</sup> Hat im Beschwerdeverfahren oder im verwaltungsgerichtlichen Prozess keine Partei ganz obsiegt, sind die Kosten in dem Verhältnis zu teilen, in welchem die Parteien unterlegen sind.
@@ -353,7 +353,7 @@ beschliesst:
 
 <sup>2</sup> Den übrigen Gemeinwesen sowie deren Behörden werden Kosten auferlegt, wenn sie am Verfahren wirtschaftlich interessiert sind oder zum Verfahren durch einen groben Verfahrensmangel oder durch eine offenbare Rechtsverletzung Anlass gegeben haben.
 
-<sup>3</sup> Die aus der Geltendmachung des Enteignungsrechts entstehenden Kosten trägt der Enteigner. Bei offensichtlich missbräuchlichen Begehren oder bei offensichtlich übersetzten Forderungen können die Kosten ganz oder teilweise den Enteigneten auferlegt werden.
+<sup>3</sup> Die aus der Geltendmachung des Enteignungsrechts entstehenden Kosten trägt die Enteignerin bzw. der Enteigner. Bei offensichtlich missbräuchlichen Begehren oder bei offensichtlich übersetzten Forderungen können die Kosten ganz oder teilweise den Enteigneten auferlegt werden.
 
 #### § 25
 
@@ -369,7 +369,7 @@ beschliesst:
 
 **Kosten – Kostenvorschuss**
 
-<sup>1</sup> Die Behörde kann von demjenigen, der eine Amtshandlung beantragt oder ein Verfahren einleitet, einen angemessenen Kostenvorschuss verlangen.
+<sup>1</sup> Die Behörde kann von der Partei, die eine Amtshandlung beantragt oder ein Verfahren einleitet, einen angemessenen Kostenvorschuss verlangen.
 
 <sup>2</sup> Wird der verlangte Vorschuss trotz Androhung der Folgen innert der angesetzten Frist nicht geleistet, so kann die Amtshandlung unterbleiben beziehungsweise das Verfahren abgeschrieben werden.
 
@@ -379,9 +379,9 @@ beschliesst:
 
 <sup>1</sup> Wenn einer Partei die nötigen Mittel fehlen und ihr Begehren nicht offensichtlich aussichtslos erscheint, so kann ihr die entscheidende Behörde die unentgeltliche Rechtspflege bewilligen.
 
-<sup>2</sup> Auf begründetes Gesuch kann mit der Bewilligung der unentgeltlichen Rechtspflege die Bestellung eines Rechtsbeistandes verbunden werden, wenn es zur Wahrung der Rechte der Partei notwendig ist.
+<sup>2</sup> Auf begründetes Gesuch kann mit der Bewilligung der unentgeltlichen Rechtspflege die Rechtsverbeiständung verbunden werden, wenn es zur Wahrung der Rechte der Partei notwendig ist.
 
-<sup>3</sup> Der Rechtsbeistand hat gegenüber der ihn bestellenden Behörde Anspruch auf eine angemessene Entschädigung, soweit der Aufwand für die Vertretung nicht aus einer zugesprochenen Parteientschädigung gedeckt werden kann.
+<sup>3</sup> Die Rechtsbeiständin oder der Rechtsbeistand hat gegenüber der bestellenden Behörde Anspruch auf eine angemessene Entschädigung, soweit der Aufwand für die Vertretung nicht aus einer zugesprochenen Parteientschädigung gedeckt werden kann.
 
 #### § 28
 
@@ -396,9 +396,9 @@ beschliesst:
 
 <sup>2a</sup> Bund, Kantonen und den Gemeinden sowie mit öffentlich-rechtlichen Aufgaben betrauten Organisationen wird in der Regel keine Parteientschädigung zugesprochen, wenn sie in ihrem amtlichen Wirkungskreis obsiegen.
 
-<sup>3</sup> Im Prozess über verwaltungsgerichtliche Klagen ist die unterliegende Partei in der Regel zum Ersatz aller dem Gegner verursachten notwendigen Kosten und Umtriebe zu verpflichten. Wenn der Entscheid nicht ausschliesslich zugunsten einer Partei ausfällt oder wenn sie die Kosten durch unnötige Weitläufigkeit oder Obstruktion vermehrt hat, tritt in der Regel eine verhältnismässige Kostenteilung ein. Wenn eine Partei durch den Entscheid nicht wesentlich mehr erhält als ihr von der Gegenpartei für den Fall gütlicher Beilegung des Streites angeboten wurde, so kann sie zu allen Kosten verurteilt werden.
+<sup>3</sup> Im Prozess über verwaltungsgerichtliche Klagen ist die unterliegende Partei in der Regel zum Ersatz aller der Gegenseite verursachten notwendigen Kosten und Umtriebe zu verpflichten. Wenn der Entscheid nicht ausschliesslich zugunsten einer Partei ausfällt oder wenn sie die Kosten durch unnötige Weitläufigkeit oder Obstruktion vermehrt hat, tritt in der Regel eine verhältnismässige Kostenteilung ein. Wenn eine Partei durch den Entscheid nicht wesentlich mehr erhält als ihr von der Gegenpartei für den Fall gütlicher Beilegung des Streites angeboten wurde, so kann sie zu allen Kosten verurteilt werden.
 
-<sup>4</sup> Der Enteigner hat für die notwendigen aussergerichtlichen Kosten der Enteigneten im Einsprache-, im Einigungs- und im Schätzungsverfahren eine angemessene Entschädigung zu bezahlen. Werden die Begehren der Enteigneten ganz oder zum grösseren Teil abgewiesen, so kann von der Zusprechung einer Parteientschädigung ganz oder teilweise abgesehen werden. Bei offensichtlich missbräuchlichen Begehren oder bei offensichtlich übersetzten Forderungen können die Enteigneten zur Bezahlung einer Parteientschädigung an den Enteigner verhalten werden.
+<sup>4</sup> Die Enteignerin bzw. der Enteigner hat für die notwendigen aussergerichtlichen Kosten der Enteigneten im Einsprache-, im Einigungs- und im Schätzungsverfahren eine angemessene Entschädigung zu bezahlen. Werden die Begehren der Enteigneten ganz oder zum grösseren Teil abgewiesen, so kann von der Zusprechung einer Parteientschädigung ganz oder teilweise abgesehen werden. Bei offensichtlich missbräuchlichen Begehren oder bei offensichtlich übersetzten Forderungen können die Enteigneten zur Bezahlung einer Parteientschädigung an die Enteignerin bzw. den Enteigner verhalten werden.
 
 ### 2.7. Änderung oder Aufhebung von Verwaltungsentscheiden
 
@@ -418,7 +418,7 @@ beschliesst:
 
 **Entschädigung**
 
-<sup>1</sup> Erleidet jemand, der im Vertrauen auf den aufgehobenen oder geänderten Entscheid gutgläubig Aufwendungen oder Vorkehren getroffen hat, durch die Aufhebung oder Änderung Schaden, so hat er Anspruch auf eine angemessene Entschädigung, wenn ihn an der Aufhebung oder der Änderung des Entscheides kein Verschulden trifft. Der Anspruch richtet sich gegen das Gemeinwesen, dessen Behörde den aufgehobenen oder geänderten Entscheid getroffen hat.
+<sup>1</sup> Erleidet eine Person, die im Vertrauen auf den aufgehobenen oder geänderten Entscheid gutgläubig Aufwendungen oder Vorkehren getroffen hat, durch die Aufhebung oder Änderung Schaden, so hat sie Anspruch auf eine angemessene Entschädigung, wenn sie an der Aufhebung oder der Änderung des Entscheides kein Verschulden trifft. Der Anspruch richtet sich gegen das Gemeinwesen, dessen Behörde den aufgehobenen oder geänderten Entscheid getroffen hat.
 
 ### 2.8. Allgemeine Ordnungsvorschriften
 
@@ -466,7 +466,7 @@ beschliesst:
 
 <sup>1</sup> Die Einsprache ist schriftlich einzureichen und soll einen Antrag und eine Begründung enthalten.
 
-<sup>2</sup> Die Beweismittel, auf die sich der Einsprecher beruft, sind zu bezeichnen und soweit möglich beizufügen.
+<sup>2</sup> Die Beweismittel, auf die sich die Einsprecherin bzw. der Einsprecher beruft, sind zu bezeichnen und soweit möglich beizufügen.
 
 #### § 38
 
@@ -506,7 +506,7 @@ beschliesst:
 - b) durch den angefochtenen Entscheid oder Erlass besonders berührt ist und
 - c) ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat.
 
-<sup>2</sup> Zur Wahrung öffentlicher Interessen steht das Beschwerderecht den zuständigen Gemeinderäten und den Vertretern selbstständiger öffentlich-rechtlicher Anstalten und Stiftungen zu.
+<sup>2</sup> Zur Wahrung öffentlicher Interessen steht das Beschwerderecht den zuständigen Gemeinderäten und der Vertretung der selbstständigen öffentlich-rechtlichen Anstalten und Stiftungen zu.
 
 <sup>3</sup> Beschwerdeberechtigt ist auch, wer durch besondere Vorschrift dazu ermächtigt ist.
 
@@ -532,9 +532,9 @@ beschliesst:
 
 <sup>1</sup> Die Beschwerdeschrift muss einen Antrag und eine Begründung enthalten. Der angefochtene Entscheid ist beizufügen oder genau zu bezeichnen.
 
-<sup>2</sup> Die Beweismittel, auf die sich der Beschwerdeführer beruft, sind zu bezeichnen und soweit möglich beizufügen.
+<sup>2</sup> Die Beweismittel, auf die sich die Beschwerdeführerin oder der Beschwerdeführer beruft, sind zu bezeichnen und soweit möglich beizufügen.
 
-<sup>3</sup> Genügt die Beschwerdeschrift diesen Anforderungen nicht, so wird dem Beschwerdeführer eine kurze Frist zur Behebung des Mangels angesetzt unter der Androhung, dass sonst auf die Beschwerde nicht eingetreten werde.
+<sup>3</sup> Genügt die Beschwerdeschrift diesen Anforderungen nicht, so wird der Beschwerdeführerin oder dem Beschwerdeführer eine kurze Frist zur Behebung des Mangels angesetzt unter der Androhung, dass sonst auf die Beschwerde nicht eingetreten werde.
 
 #### § 45
 
@@ -542,7 +542,7 @@ beschliesst:
 
 <sup>1</sup> Die Verwaltungsbeschwerde hat aufschiebende Wirkung, sofern die anordnende Behörde nicht aus zwingenden Gründen den sofortigen Vollzug des anfechtbaren Entscheides angeordnet hat.
 
-<sup>2</sup> Der Präsident der Beschwerdeinstanz kann die aufschiebende Wirkung von Amtes wegen oder auf Gesuch hin wiederherstellen.
+<sup>2</sup> Das Präsidium der Beschwerdeinstanz kann die aufschiebende Wirkung von Amtes wegen oder auf Gesuch hin wiederherstellen.
 
 #### § 46
 
@@ -586,7 +586,7 @@ beschliesst:
 
 **Rechtsverweigerungsbeschwerde**
 
-<sup>1</sup> Jeder Betroffene kann bei der vorgesetzten Behörde wegen Rechtsverweigerung oder Rechtsverzögerung Beschwerde führen.
+<sup>1</sup> Betroffene können bei der vorgesetzten Behörde wegen Rechtsverweigerung oder Rechtsverzögerung Beschwerde führen.
 
 <sup>2</sup> Die Vorschriften über die Verwaltungsbeschwerde sind sinngemäss anzuwenden.[^51-1]
 
@@ -596,11 +596,11 @@ beschliesst:
 
 **Aufsichtsbeschwerde**
 
-<sup>1</sup> Mit der Aufsichtbeschwerde kann jedermann die Aufsichtsbehörde über Tatsachen in Kenntnis setzen, die ein Einschreiten der Aufsichtsbehörde gegen eine untere Verwaltungsbehörde von Amtes wegen erfordern.[^52-1]
+<sup>1</sup> Mit der Aufsichtsbeschwerde kann jedermann die Aufsichtsbehörde über Tatsachen in Kenntnis setzen, die ein Einschreiten der Aufsichtsbehörde gegen eine untere Verwaltungsbehörde von Amtes wegen erfordern.[^52-1]
 
-<sup>2</sup> Der Anzeiger hat nicht die Rechte einer Partei.
+<sup>2</sup> Die Anzeige erstattende Person hat nicht die Rechte einer Partei.
 
-<sup>3</sup> Die Art der Erledigung ist ihm mitzuteilen.
+<sup>3</sup> Die Art der Erledigung ist der Anzeige erstattenden Person mitzuteilen.
 
 <sup>4</sup> Eine Pflicht zur Begründung besteht nicht.
 
@@ -620,7 +620,7 @@ beschliesst:
 
 <sup>3</sup> Der Kantonsrat beschliesst die Festlegungen nach Abs. 2 jeweils vor der Wahl auf Antrag des Verwaltungsgerichts.
 
-<sup>4</sup> Bei Ergänzungswahlen während laufender Amtsperiode kann die erweiterte Justizprüfungskommission des Kantonsrats auf Antrag des Verwaltungsgerichts vollamtliche Richterstellen mit Teilämtern zu je 50 Prozent zur Wahl ausschreiben lassen. Sie teilt dies dem Regierungsrat zwecks Festsetzung der Ergänzungswahl gemäss § 57 Abs. 1 WAG[^53-1] mit. Die Ausschreibung erfolgt gemäss § 29 Abs. 1 WAG durch die Staatskanzlei.
+<sup>4</sup> Bei Ergänzungswahlen während laufender Amtsperiode kann die erweiterte Justizprüfungskommission des Kantonsrats auf Antrag des Verwaltungsgerichts vollamtliche Richterinnen- und Richterstellen mit Teilämtern zu je 50 Prozent zur Wahl ausschreiben lassen. Sie teilt dies dem Regierungsrat zwecks Festsetzung der Ergänzungswahl gemäss § 57 Abs. 1 WAG[^53-1] mit. Die Ausschreibung erfolgt gemäss § 29 Abs. 1 WAG durch die Staatskanzlei.
 
 <sup>5</sup> Das Verwaltungsgericht kann während der laufenden Amtsperiode im Rahmen der für das Gericht gesamthaft festgelegten Stellenprozente und mit Zustimmung der betroffenen Richterinnen und Richter deren Beschäftigungsgrade bis zu höchstens 50 Stellenprozenten verändern.
 
@@ -632,7 +632,7 @@ beschliesst:
 
 <sup>1</sup> Das Verwaltungsgericht wird vom Volk auf eine Amtsdauer von sechs Jahren gewählt.
 
-<sup>2</sup> Der Kantonsrat bezeichnet den Präsidenten, der im Hauptamt tätig ist. Er kann weitere hauptamtliche Richter bezeichnen
+<sup>2</sup> Der Kantonsrat bezeichnet die Präsidentin oder den Präsidenten, die bzw. der im Hauptamt tätig ist. Er kann weitere hauptamtliche Richterinnen und Richter bezeichnen.
 
 #### § 54a
 
@@ -641,26 +641,26 @@ beschliesst:
 <sup>1</sup> Der Kantonsrat wählt ausserordentliche Ersatzmitglieder:
 
 - 1\. Für einzelne Verfahren, wenn sämtliche Ersatzmitglieder zu einer ordnungsgemässen Besetzung des Gerichtes nicht ausreichen;
-- 2\. für die Dauer der Verhinderung, wenn ein hauptamtlicher Richter infolge Krankheit oder aus anderen Gründen voraussichtlich für mehrere Monate an der Ausübung seines Amtes verhindert sein wird;
+- 2\. für die Dauer der Verhinderung, wenn ein hauptamtliches Mitglied infolge Krankheit oder aus anderen Gründen voraussichtlich für mehrere Monate an der Ausübung seines Amtes verhindert sein wird;
 - 3\. für die Dauer von höchstens zwei Jahren, wenn ein Gericht wegen einer ausserordentlichen Zunahme der Arbeitslast nicht mehr in der Lage ist, seine Aufgaben innert angemessener Frist zu erfüllen.
 
-<sup>2</sup> Gerichtsschreiber sind in diesen Fällen als Ersatzmitglieder wählbar.
+<sup>2</sup> Gerichtsschreiberinnen und Gerichtsschreiber sind in diesen Fällen als Ersatzmitglieder wählbar.
 
 #### § 55
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Der Präsident und die Mitglieder des Verwaltungsgerichtes können nicht gleichzeitig dem Regierungsrat, dem Kantonsgericht, dem Strafgericht, dem Obergericht oder einem Einwohnerrat angehören, Beamte oder Angestellte des Kantons oder einer Gemeinde sein.
+<sup>1</sup> Die Mitglieder des Verwaltungsgerichts können nicht gleichzeitig dem Regierungsrat, dem Kantonsgericht, dem Strafgericht, dem Obergericht oder einem Einwohnerrat angehören oder Angestellte des Kantons oder einer Gemeinde sein.
 
 <sup>2</sup> Mitglieder des Verwaltungsgerichtes dürfen keine Vertretungen im Rechtsmittelverfahren vor den Verwaltungsbehörden und dem Verwaltungsgericht übernehmen.
 
-<sup>3</sup> Hauptamtliche Verwaltungsrichter dürfen nicht im Verwaltungs- oder Aufsichtsorgan privater Erwerbsgesellschaften sowie öffentlicher Anstalten und Dienstleistungsbetriebe tätig sein.
+<sup>3</sup> Hauptamtliche Mitglieder des Verwaltungsgerichts dürfen nicht im Verwaltungs- oder Aufsichtsorgan privater Erwerbsgesellschaften sowie öffentlicher Anstalten und Dienstleistungsbetriebe tätig sein.
 
 #### § 55a
 
 **Offenlegung von Interessenbindungen**
 
-<sup>1</sup> Bei Amtsantritt unterrichten alle Mitglieder und Ersatzmitglieder das Verwaltungsgerichts schriftlich über:
+<sup>1</sup> Bei Amtsantritt unterrichten alle Mitglieder und Ersatzmitglieder das Verwaltungsgericht schriftlich über:
 
 - a) berufliche Nebenbeschäftigungen oder die berufliche Haupttätigkeit;
 - b) die Tätigkeit in Führungs- und Aufsichtsgremien kommunaler, kantonaler, schweizerischer und ausländischer Körperschaften, Anstalten und Stiftungen des privaten und öffentlichen Rechts;
@@ -671,6 +671,16 @@ beschliesst:
 
 <sup>3</sup> Das Verwaltungsgericht erstellt ein Register über die Angaben gemäss Abs. 1 und sorgt dafür, dass die entsprechenden Informationen in elektronischer Form öffentlich zugänglich gemacht werden. Es wacht über die Einhaltung der Offenlegungspflichten.
 
+#### § 55b
+
+**Erlöschen des Amts**
+
+<sup>1</sup> Das Amt eines vom Volk gewählten Mitglieds oder Ersatzmitglieds des Verwaltungsgerichts erlischt, wenn das Mitglied oder Ersatzmitglied das Stimmrecht in kantonalen Angelegenheiten verliert.
+
+<sup>2</sup> Die betroffene Person meldet den Verlust ihres Stimmrechts umgehend dem Verwaltungsgericht sowie der Staatskanzlei.
+
+<sup>3</sup> Der betroffenen Person sind ab dem Zeitpunkt des Verlusts des für ihr Amt erforderlichen Stimmrechts jegliche Amtshandlungen untersagt.
+
 #### § 56
 
 **Geschäftsordnung**
@@ -679,13 +689,13 @@ beschliesst:
 
 <sup>2</sup> Das Verwaltungsgericht kann im Rahmen seiner Geschäftsordnung Kammern bilden, die aus drei oder fünf Mitgliedern bestehen.
 
-<sup>3</sup> Die Geschäftsordnung legt fest, welche Entscheide oder Verfügungen der Vorsitzende oder ein anderes Mitglied des Verwaltungsgerichtes in Einzelkompetenz treffen kann.
+<sup>3</sup> Die Geschäftsordnung legt fest, welche Entscheide oder Verfügungen die oder der Vorsitzende oder ein anderes Mitglied des Verwaltungsgerichts in Einzelkompetenz treffen kann.
 
 #### § 57
 
 **Beratung und Stimmpflicht**
 
-<sup>1</sup> Die Beratungen finden unter Ausschluss der Öffentlichkeit und der Parteien statt. Bei der Urteilsfällung ist jeder Richter zur Stimmabgabe verpflichtet.
+<sup>1</sup> Die Beratungen finden unter Ausschluss der Öffentlichkeit und der Parteien statt. Bei der Urteilsfällung ist jede Richterin und jeder Richter zur Stimmabgabe verpflichtet.
 
 #### § 58
 
@@ -697,7 +707,7 @@ beschliesst:
 
 **Kanzlei**
 
-<sup>1</sup> Das Verwaltungsgericht wählt die Gerichtsschreiber, stellt das Kanzleipersonal an und ernennt den Generalsekretär.
+<sup>1</sup> Das Verwaltungsgericht wählt die Gerichtsschreiberinnen und Gerichtsschreiber, stellt das Kanzleipersonal an und ernennt die Generalsekretärin oder den Generalsekretär.
 
 <sup>2</sup> Der Regierungsrat stellt dem Verwaltungsgericht nach dessen Anhörung Sitzungslokale und Amtsräume zur Verfügung.
 
@@ -721,7 +731,7 @@ beschliesst:
 - 2\. gegen Verwaltungsentscheide des Regierungsrats, soweit die Gesetzgebung den Weiterzug nicht ausnahmsweise ausschliesst;
 - 3\. gegen Verwaltungsentscheide der oder des Datenschutzbeauftragten sowie der Ombudsperson.
 
-<sup>2</sup> Bei Zustimmung des Beschwerdeführers kann der Regierungsrat eine Verwaltungsstreitsache unter Verzicht auf einen Entscheid an das Verwaltungsgericht zur direkten Beurteilung überweisen; der Regierungsrat kann zur Beschwerde Stellung nehmen und Anträge einreichen.
+<sup>2</sup> Bei Zustimmung der beschwerdeführenden Partei kann der Regierungsrat eine Verwaltungsstreitsache unter Verzicht auf einen Entscheid an das Verwaltungsgericht zur direkten Beurteilung überweisen; der Regierungsrat kann zur Beschwerde Stellung nehmen und Anträge einreichen.
 
 #### § 62
 
@@ -733,7 +743,7 @@ beschliesst:
 - b) durch den angefochtenen Entscheid oder Erlass besonders berührt ist und
 - c) ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat.
 
-<sup>2</sup> Zur Wahrung öffentlicher Interessen steht das Beschwerderecht den zuständigen Gemeinderäten und den Vertretern selbständiger öffentlich-rechtlicher Anstalten und Stiftungen zu.
+<sup>2</sup> Zur Wahrung öffentlicher Interessen steht das Beschwerderecht den zuständigen Gemeinderäten und der Vertretung der selbständigen öffentlich-rechtlichen Anstalten und Stiftungen zu.
 
 <sup>3</sup> Beschwerdeberechtigt ist auch, wer durch besondere Vorschrift dazu ermächtigt ist.
 
@@ -767,9 +777,9 @@ beschliesst:
 
 <sup>1</sup> Die Beschwerdeschrift muss einen Antrag und eine Begründung enthalten. Der angefochtene Entscheid ist beizulegen oder genau zu bezeichnen.
 
-<sup>2</sup> Die Beweismittel, auf die sich der Beschwerdeführer beruft, sind zu bezeichnen und soweit möglich beizufügen.
+<sup>2</sup> Die Beweismittel, auf die sich die Beschwerdeführerin bzw. der Beschwerdeführer beruft, sind zu bezeichnen und soweit möglich beizufügen.
 
-<sup>3</sup> Genügt die Beschwerdeschrift diesen Erfordernissen nicht, so wird dem Beschwerdeführer eine kurze Frist zur Behebung des Mangels angesetzt unter der Androhung, dass sonst auf die Beschwerde nicht eingetreten werde.
+<sup>3</sup> Genügt die Beschwerdeschrift diesen Erfordernissen nicht, so wird der Beschwerdeführerin bzw. dem Beschwerdeführer eine kurze Frist zur Behebung des Mangels angesetzt unter der Androhung, dass sonst auf die Beschwerde nicht eingetreten werde.
 
 #### § 66
 
@@ -777,13 +787,13 @@ beschliesst:
 
 <sup>1</sup> Die Verwaltungsgerichtsbeschwerde hat aufschiebende Wirkung, sofern die anordnende Behörde nicht aus zwingenden Gründen den sofortigen Vollzug des anfechtbaren Entscheides angeordnet hat.
 
-<sup>2</sup> Der Präsident des Verwaltungsgerichtes kann die aufschiebende Wirkung von Amtes wegen oder auf Gesuch hin wiederherstellen.
+<sup>2</sup> Das Präsidium des Verwaltungsgerichts kann die aufschiebende Wirkung von Amtes wegen oder auf Gesuch hin wiederherstellen.
 
 #### § 67
 
 **Beschwerdeverfahren – Vorprüfung**
 
-<sup>1</sup> Der Präsident des Verwaltungsgerichtes prüft die eingehenden Beschwerden und setzt dem Beschwerdeführer zur Verbesserung allfälliger Mängel eine Nachfrist an.
+<sup>1</sup> Das Präsidium des Verwaltungsgerichts prüft die eingehenden Beschwerden und setzt der beschwerdeführenden Partei zur Verbesserung allfälliger Mängel eine Nachfrist an.
 
 <sup>2</sup> Kann auf eine Beschwerde nicht eingetreten werden oder erweist sie sich als offensichtlich unbegründet, so entscheidet das Gericht ohne Weiterungen.
 
@@ -817,7 +827,7 @@ beschliesst:
 
 **Überprüfungsbefugnis**
 
-<sup>1</sup> Das Verwaltunsgericht überprüft die Beschwerde im Rahmen der gestellten Rechtsbegehren. Es darf den vorinstanzlichen Entscheid nicht zum Nachteil des Beschwerdeführers abändern, hat jedoch den Fall an die Vorinstanz zur Neubeurteilung zurückzuweisen, wenn es findet, dass der Entscheid zu Ungunsten des Beschwerdeführers abgeändert werden muss.
+<sup>1</sup> Das Verwaltungsgericht überprüft die Beschwerde im Rahmen der gestellten Rechtsbegehren. Es darf den vorinstanzlichen Entscheid nicht zum Nachteil der Beschwerdeführerin bzw. des Beschwerdeführers abändern, hat jedoch den Fall an die Vorinstanz zur Neubeurteilung zurückzuweisen, wenn es findet, dass der Entscheid zuungunsten der Beschwerdeführerin bzw. des Beschwerdeführers abgeändert werden muss.
 
 #### § 72
 
@@ -945,8 +955,8 @@ beschliesst:
 
 - 1\. vermögensrechtliche Ansprüche Privater gegen Kanton oder Gemeinden, soweit sie sich auf öffentliches Recht stützen und die Gesetzgebung nicht eine andere Behörde als erste Instanz bezeichnet hat;
 - 2\. …
-- 3\. Streitigkeiten aus Konzessionen zwischen einer Körperschaft des öffentlichen Rechts und dem Konzessionär oder zwischen Konzessionären unter sich;
-- 4\. Streitigkeiten zwischen dem Beliehenen und andern Nutzungsberechtigten oder der Verleihungsbehörde nach dem Bundesgesetz über die Nutzbarmachung der Wasserkräfte.[^81-1]
+- 3\. Streitigkeiten aus Konzessionen zwischen einer Körperschaft des öffentlichen Rechts und der Konzessionärin oder dem Konzessionär oder zwischen Konzessionärinnen und Konzessionären unter sich;
+- 4\. Streitigkeiten zwischen der oder dem Beliehenen und andern Nutzungsberechtigten oder der Verleihungsbehörde nach dem Bundesgesetz über die Nutzbarmachung der Wasserkräfte.[^81-1]
 
 [^81-1]: BG vom 22. Dez. 1916 über die Nutzbarmachung der Wasserkräfte (SR [721.80](https://db.clex.ch/link/Bund/721.80/de)).
 
@@ -962,15 +972,15 @@ beschliesst:
 
 <sup>1</sup> Die Klageschrift ist in zweifacher Ausfertigung einzureichen. Sie muss einen Antrag und eine Begründung enthalten.
 
-<sup>2</sup> Genügt die Klageschrift diesen Erfordernissen nicht, so wird dem Kläger eine kurze Frist zur Behebung des Mangels angesetzt unter der Androhung, dass sonst auf die Klage nicht eingetreten wird.
+<sup>2</sup> Genügt die Klageschrift diesen Erfordernissen nicht, so wird der Klägerin bzw. dem Kläger eine kurze Frist zur Behebung des Mangels angesetzt unter der Androhung, dass sonst auf die Klage nicht eingetreten wird.
 
-<sup>3</sup> Die Beweismittel, auf die sich der Kläger beruft, sind zu bezeichnen und soweit möglich der Klageschrift beizufügen.
+<sup>3</sup> Die Beweismittel, auf die sich die klagende Partei beruft, sind zu bezeichnen und soweit möglich der Klageschrift beizufügen.
 
 #### § 84
 
 **Verfahren – Schriftenwechsel**
 
-<sup>1</sup> Der Beklagte erhält Gelegenheit zur schriftlichen Beantwortung der Klage. Die Klageantwort ist in zweifacher Ausfertigung einzureichen. Die Beweismittel sind zu bezeichnen und soweit möglich beizufügen.
+<sup>1</sup> Die beklagte Partei erhält Gelegenheit zur schriftlichen Beantwortung der Klage. Die Klageantwort ist in zweifacher Ausfertigung einzureichen. Die Beweismittel sind zu bezeichnen und soweit möglich beizufügen.
 
 <sup>2</sup> Es kann ein weiterer Schriftenwechsel angeordnet oder zu einer mündlichen Verhandlung vorgeladen werden.
 
@@ -982,7 +992,7 @@ beschliesst:
 
 <sup>2</sup> Das Verwaltungsgericht würdigt die Anträge der Parteien in tatsächlicher und rechtlicher Hinsicht frei.
 
-<sup>3</sup> Das Gericht darf dem Kläger weder mehr noch anderes zusprechen, als er selbst verlangt, noch weniger, als der Beklagte anerkannt hat.
+<sup>3</sup> Das Gericht darf der klagenden Partei weder mehr noch anderes zusprechen, als sie selbst verlangt, noch weniger, als die beklagte Partei anerkannt hat.
 
 #### § 86
 
@@ -998,8 +1008,8 @@ beschliesst:
 
 <sup>1</sup> Die Revision eines Urteils des Verwaltungsgerichtes kann verlangt werden:
 
-- 1\. wenn auf dem Wege des Strafverfahrens erwiesen wird, dass durch ein Verbrechen oder Vergehen zum Nachteil des Gesuchstellers auf den Entscheid eingewirkt wurde. Die Verurteilung durch den Strafrichter ist nicht erforderlich. Bei Unmöglichkeit des Strafverfahrens kann der Beweis auf andere Weise erbracht werden;
-- 2\. wenn der Gesuchsteller nachträglich neue erhebliche Tatsachen erfährt oder entscheidende Beweismittel auffindet, die er trotz zumutbarer Sorgfalt im früheren Verfahren nicht rechtzeitig beibringen konnte.
+- 1\. wenn auf dem Wege des Strafverfahrens erwiesen wird, dass durch ein Verbrechen oder Vergehen zum Nachteil der gesuchstellenden Partei auf den Entscheid eingewirkt wurde. Die Verurteilung durch die Strafrichterin oder den Strafrichter ist nicht erforderlich. Bei Unmöglichkeit des Strafverfahrens kann der Beweis auf andere Weise erbracht werden;
+- 2\. wenn die gesuchstellende Partei nachträglich neue erhebliche Tatsachen erfährt oder entscheidende Beweismittel auffindet, die sie bzw. er trotz zumutbarer Sorgfalt im früheren Verfahren nicht rechtzeitig beibringen konnte.
 
 #### § 88
 
@@ -1051,11 +1061,11 @@ beschliesst:
 
 **Sonstige Leistungen**
 
-<sup>1</sup> Lautet der Entscheid auf Vornahme einer Handlung, auf Duldung oder Unterlassung, so erfolgt die Zwangsvollstreckung auf dem Wege der Ersatzvornahme durch die Behörde oder einen von ihr beauftragten Dritten oder durch unmittelbaren Zwang. Hiefür kann die Polizei beansprucht werden.
+<sup>1</sup> Lautet der Entscheid auf Vornahme einer Handlung, auf Duldung oder Unterlassung, so erfolgt die Zwangsvollstreckung auf dem Wege der Ersatzvornahme durch die Behörde oder eine von ihr beauftragte Drittperson oder durch unmittelbaren Zwang. Hiefür kann die Polizei beansprucht werden.
 
 <sup>2</sup> Der Ersatzvornahme und der Anwendung unmittelbaren Zwanges muss unter Fristansetzung eine entsprechende Androhung vorangehen. In dringenden Fällen kann von einer solchen Androhung Umgang genommen werden.
 
-<sup>3</sup> Ist Ersatzvornahme auf Kosten des Pflichtigen angeordnet worden, so sind die Kostenentscheide einem vollstreckbaren Urteil gleichgestellt.
+<sup>3</sup> Ist Ersatzvornahme auf Kosten der oder des Pflichtigen angeordnet worden, so sind die Kostenentscheide einem vollstreckbaren Urteil gleichgestellt.
 
 #### § 96
 
