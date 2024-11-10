@@ -4,18 +4,18 @@ title: Ordinanza del 27 ottobre 1999 sugli emolumenti in materia di stato civile
 short: OESC
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/490"
 language: it
-version: 2022-07-01
+version: 2024-11-11
 adopted: 1999-10-27
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1999-490-20220701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20241111/it/xml/fedlex-data-admin-ch-eli-cc-1999-490-20241111-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20241111/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sugli emolumenti in materia di stato civile (OESC)
 
-del 27 ottobre 1999 (Stato 1° luglio 2022)
+del 27 ottobre 1999 (Stato 11 novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -220,11 +220,9 @@ Gli emolumenti e i disborsi possono essere ridotti o condonati per motivi import
 
 #### Art. 14
 
-**Esecuzione forzata**
+[^14-1]
 
-Le decisioni sugli emolumenti sono assimilate in tutta la Svizzera alle sentenze ai sensi dell’articolo 80 della legge federale dell’11 aprile 1889[^14-1] sull’esecuzione e sul fallimento.
-
-[^14-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^14-1]: Abrogato dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 334](https://fedlex.data.admin.ch/eli/oc/2024/334)).
 
 #### Art. 15
 
@@ -264,7 +262,7 @@ Allegato 1[^t-1]
 
 ## Prestazioni degli uffici dello stato civile
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dal n. II dell’O del 7 nov. 2012 ([RU 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), dal n. I dell’O del 14 mag. 2014 ([RU 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), dal n. II dell’O del 26 ott. 2016 ([RU 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), dall’all. n. II 1 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), dai n. I delle O del 31 ott. 2018 ([RU 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)), del 27 ott. 2021 ([RU 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)) e dal n. II dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dal n. II dell’O del 7 nov. 2012 ([RU 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), dal n. I dell’O del 14 mag. 2014 ([RU 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), dal n. II dell’O del 26 ott. 2016 ([RU 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), dall’all. n. II 1 dell’O dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica ([RU 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), dai n. I delle O del 31 ott. 2018 ([RU 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)), del 27 ott. 2021 ([RU 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)), dal n. II dell’O del 30 mar. 2022 ([RU 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)) e dal n. II cpv. 1 dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 334](https://fedlex.data.admin.ch/eli/oc/2024/334)).
 
 Il trasferimento dei dati personali dal registro delle famiglie al registro dello stato civile (art. 93 OSC[^annex1-lvlu1-1]) e il rilevamento obbligatorio di dati (art. 7 e 8 OSC) e di persone (art. 15a cpv. 1 e 2 OSC) nel registro dello stato civile non sono soggetti a emolumenti.
 
@@ -354,13 +352,18 @@ Il trasferimento dei dati personali dal registro delle famiglie al registro dell
 <tr><td>– Iscrizione della costituzione di un mandato precauzionale e del luogo in cui lo stesso è depositato</td><td>75</td></tr>
 <tr><td>– modifica dell’iscrizione</td><td>75</td></tr>
 <tr><td>– cancellazione dell’iscrizione</td><td>75</td></tr>
+<tr><td>24. Adeguamento della grafia dei nomi secondo l’articolo 99*f* OSC, se la relativa domanda è presentata indipendentemente da un fatto di stato civile da documentare nel registro dello stato civile:</td><td></td></tr>
+<tr><td>– se la domanda è presentata per una persona</td><td>75</td></tr>
+<tr><td>– se la domanda è presentata contemporaneamente da due persone coniugate o che vivono in un’unione domestica registrata</td><td>100</td></tr>
+<tr><td>– se la domanda è presentata da un genitore o da entrambi i genitori per loro e per i loro figli</td><td>100</td></tr>
+<tr><td>*L’emolumento include una conferma dell’ufficio dello stato civile che* *l’adeguamento* *della grafia dei nomi è stato documentato nel registro dello stato civile**.*</td><td></td></tr>
 <tr><td>VI. Prestazioni fornite in base a una delega di competenza dell’autorità cantonale di vigilanza in materia di stato civile</td><td></td></tr>
 <tr><td>Gli emolumenti riscossi per le prestazioni fornite in base a una delega di competenza dell’autorità cantonale di vigilanza in materia di stato civile sono retti dall’allegato 2</td><td></td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362)
 [^annex1-lvlu1-2]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362)
-[^annex1-lvlu1-3]: Legge sull’unione domestica registrata; [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^annex1-lvlu1-3]: L sull’unione domestica registrata; [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
 Allegato 2[^t-2]
 
@@ -397,7 +400,7 @@ Allegato 3[^t-3]
 
 ## Prestazioni delle rappresentanze svizzere all’estero
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dal n. II dell’O del 7 nov. 2012 ([RU 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), dal n. I dell’O del 27 ott. 2021 ([RU 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)) e dal n. II dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)).
+[^t-3]: Nuovo testo giusta il n. II dell’O del 4 giu. 2010 ([RU 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Aggiornato dal n. II dell’O del 7 nov. 2012 ([RU 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), dal n. I dell’O del 27 ott. 2021 ([RU 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)), dal n. II dell’O del 30 mar. 2022 ([RU 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)) e dal n. II cpv. 2 dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 334](https://fedlex.data.admin.ch/eli/oc/2024/334)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -442,6 +445,7 @@ Allegato 3[^t-3]
 <tr><td>7. Perizie, informazioni giuridiche o rapporti su richiesta di un ufficio dello stato civile, di un’autorità cantonale di vigilanza in materia di stato civile oppure dell’Ufficio federale dello stato civile comprese l’ottenimento di documenti, le indagini condotte per accertare un fatto e il trattamento dei dossier da parte di un avvocato di fiducia o di un altro esperto (art. 5 cpv. 1 lett. h OSC), per mezz’ora</td><td>75</td></tr>
 <tr><td>8. Audizione di una persona o della coppia, su richiesta dell’ufficio dello stato civile o dell’autorità cantonale di vigilanza in materia di stato civile, al fine di accertare fatti che indicano che l’interessato manifestamente non intende costituire l’unione coniugale bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri (art. 97*a* CC), compreso l’allestimento del rapporto, se l’autorità competente respinge la domanda della coppia interessata per abuso di diritto, per mezz’ora</td><td>75</td></tr>
 <tr><td>9. Trasmissione di una domanda di informazioni sulle generalità dei genitori biologici (art. 268*c* CC) nonché cooperazione negli accertamenti necessari, per mezz’ora</td><td>75</td></tr>
+<tr><td>10. Trasmissione di domande all’ufficio dello stato civile competente in Svizzera e riscossione degli emolumenti</td><td>30</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362)

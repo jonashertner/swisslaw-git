@@ -4,11 +4,11 @@ title: Verordnung vom 27. Oktober 1999 über die Gebühren im Zivilstandswesen (
 short: ZStGV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/490"
 language: de
-version: 2022-07-01
+version: 2024-11-11
 adopted: 1999-10-27
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1999-490-20220701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20241111/de/xml/fedlex-data-admin-ch-eli-cc-1999-490-20241111-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20241111/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20220701/de"
 
 (ZStGV)
 
-vom 27. Oktober 1999 (Stand am 1. Juli 2022)
+vom 27. Oktober 1999 (Stand am 11. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -223,11 +223,9 @@ Gebühren und Auslagen können aus wichtigen Gründen ermässigt oder erlassen w
 
 #### Art. 14
 
-**Zwangsvollstreckung**
+[^14-1]
 
-Gebührenverfügungen sind in der ganzen Schweiz den Gerichtsurteilen im Sinne von Artikel 80 des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889[^14-1] gleichgestellt.
-
-[^14-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^14-1]: Aufgehoben durch Ziff. I der V vom 26. Juni 2024, mit Wirkung seit 11. Nov. 2024 ([AS 2024 334](https://fedlex.data.admin.ch/eli/oc/2024/334)).
 
 #### Art. 15
 
@@ -267,7 +265,7 @@ Anhang 1[^t-1]
 
 ## Dienstleistungen der Zivilstandsämter
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 7. Nov. 2012 ([AS 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), Ziff. I der V vom 14. Mai 2014 ([AS 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662), [5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), Anhang Ziff. II 1 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)), vom 27. Okt. 2021 ([AS 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)) und Ziff. II der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 7. Nov. 2012 ([AS 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), Ziff. I der V vom 14. Mai 2014 ([AS 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662), [5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), Anhang Ziff. II 1 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)), vom 27. Okt. 2021 ([AS 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)), Ziff. II der V vom 30. März 2022 ([AS 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)) und Ziff. II Abs. 1 der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 334](https://fedlex.data.admin.ch/eli/oc/2024/334)).
 
 Die Übertragung der Personenstandsdaten aus dem Familienregister in das Personenstandsregister (Art. 93 ZStV[^annex1-lvlu1-1]) und die obligatorische Aufnahme von Daten (Art. 7, 8 ZStV) und Personen (Art. 15a Abs. 1 und 2 ZStV) in das Personenstandsregister sind gebührenfrei.
 
@@ -356,6 +354,11 @@ Die Übertragung der Personenstandsdaten aus dem Familienregister in das Persone
 <tr><td>– Eintragung der Tatsache, dass eine Person einen Vorsorgeauftrag errichtet hat, und Eintragung des Hinterlegungsortes</td><td>75</td></tr>
 <tr><td>– Änderung des Eintrags</td><td>75</td></tr>
 <tr><td>– Löschung des Eintrags</td><td>75</td></tr>
+<tr><td>24. Anpassung der Namensschreibweise nach Artikel 99*f* ZStV, wenn das entsprechende Gesuch unabhängig von einem im Personenstandsregister zu beurkundenden Zivilstandsereignis gestellt wird:</td><td></td></tr>
+<tr><td>– wenn das Gesuch für eine Einzelperson gestellt wird</td><td>75</td></tr>
+<tr><td>– wenn zwei Personen, die miteinander verheiratet sind oder in einer eingetragenen Partnerschaft leben, gleichzeitig ein Gesuch stellen</td><td>100</td></tr>
+<tr><td>– wenn ein Elternteil oder beide Eltern für sich und seine oder ihre Kinder gleichzeitig ein Gesuch stellt oder stellen</td><td>100</td></tr>
+<tr><td>*In der Gebühr inbegriffen ist eine Bestätigung des Zivilstandsamts, dass die Anpassung der Namensschreibweise im* *Personenstands**register* *beurkundet worden ist.*</td><td></td></tr>
 <tr><td>VI. Dienstleistungen aufgrund einer Kompetenzdelegation der kantonalen Aufsichtsbehörde im Zivilstandswesen</td><td></td></tr>
 <tr><td>*Die Gebühren für Dienstleistungen, die gestützt auf eine Kompetenzdelegation von der kantonalen Aufsichtsbehörde im* *Zivilstandswesen erbracht werden, richten sich nach Anhang 2.*</td><td></td></tr>
 </table>
@@ -400,7 +403,7 @@ Anhang 3[^t-3]
 
 ## Dienstleistungen der schweizerischen Vertretungen im Ausland
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 7. Nov. 2012 ([AS 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), Ziff. I der V vom 27. Okt. 2021 ([AS 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)) und Ziff. II der V vom 30. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)).
+[^t-3]: Fassung gemäss Ziff. II der V vom 4. Juni 2010 ([AS 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Bereinigt gemäss Ziff. II der V vom 7. Nov. 2012 ([AS 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), Ziff. I der V vom 27. Okt. 2021 ([AS 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)), Ziff. II der V vom 30. März 2022 ([AS 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)) und Ziff. II Abs. 2 der V vom 26. Juni 2024, in Kraft seit 11. Nov. 2024 ([AS 2024 334](https://fedlex.data.admin.ch/eli/oc/2024/334)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -442,6 +445,7 @@ Anhang 3[^t-3]
 <tr><td>7. Gutachten, Rechtsauskunft oder Bericht auf Verlangen eines Zivilstandsamtes, einer kantonalen Aufsichtsbehörde im Zivilstandswesen oder des Eidgenössischen Amtes für das Zivilstandswesen, einschliesslich Beschaffung von Unterlagen, Ermittlungen zur Klärung eines Sachverhaltes und Behandlung von Dossiers, mit denen ein Vertrauensanwalt oder ein anderer Experte betraut worden ist (Art. 5 Abs. 1 Bst. h ZStV), pro halbe Stunde</td><td>75</td></tr>
 <tr><td>8. Befragung einer Person oder eines Paares auf Verlangen eines Zivilstandsamtes oder einer kantonalen Aufsichtsbehörde im Zivilstandswesen zur Klärung von Tatsachen, die darauf hindeuten, dass die betroffene Person offensichtlich keine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will (Art. 97*a* ZGB), einschliesslich Erstellung des Berichtes, wenn die zuständige Behörde das Gesuch des betroffenen Paares wegen Rechtsmissbrauchs abweist, pro halbe Stunde</td><td>75</td></tr>
 <tr><td>9. Weiterleitung des Gesuches um Auskunft über Angaben betreffend die leiblichen Eltern (Art. 268*c* ZGB) sowie Mitwirkung bei den nötigen Abklärungen, pro halbe Stunde</td><td>75</td></tr>
+<tr><td>10. Weiterleitung von Gesuchen an das zuständige Zivilstandsamt in derSchweiz sowie Einkassieren der Gebühren</td><td>30</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [SR 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362)

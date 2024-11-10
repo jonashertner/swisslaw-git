@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1999 sur les émoluments en matière d'état ci
 short: OEEC
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/490"
 language: fr
-version: 2022-07-01
+version: 2024-11-11
 adopted: 1999-10-27
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1999-490-20220701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/490/20241111/fr/xml/fedlex-data-admin-ch-eli-cc-1999-490-20241111-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20241111/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/490/20220701/fr"
 
 (OEEC)
 
-du 27 octobre 1999 (État le 1<sup>er</sup> juillet 2022)
+du 27 octobre 1999 (État le 11 novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -222,11 +222,9 @@ Les émoluments et les débours peuvent être réduits ou remis pour de justes m
 
 #### Art. 14
 
-**Exécution**
+[^14-1]
 
-Les décisions d’émolument sont assimilées dans toute la Suisse à des jugements au sens de l’art. 80 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^14-1].
-
-[^14-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^14-1]: Abrogé par le ch. I de l’O du 26 juin 2024, avec effet au 11 nov. 2024 ([RO 2024 334](https://fedlex.data.admin.ch/eli/oc/2024/334)).
 
 #### Art. 15
 
@@ -266,7 +264,7 @@ Annexe 1[^t-1]
 
 ## Prestations des offices de l’état civil
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour par le ch. II de l’O du 7 nov. 2012 ([RO 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), le ch. I de l’O du 14 mai 2014 ([RO 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), le ch. II de l’O du 26 oct. 2016 ([RO 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), l’annexe ch. II 1 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), le ch. I des O du 31 oct. 2018 ([RO 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)), du 27 oct. 2021 ([RO 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)) et le ch. II de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour par le ch. II de l’O du 7 nov. 2012 ([RO 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), le ch. I de l’O du 14 mai 2014 ([RO 2014 1325](https://fedlex.data.admin.ch/eli/oc/2014/281)), le ch. II de l’O du 26 oct. 2016 ([RO 2016 3919](https://fedlex.data.admin.ch/eli/oc/2016/662)[5109](https://fedlex.data.admin.ch/eli/oc/2016/810)), l’annexe ch. II 1 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)), le ch. I des O du 31 oct. 2018 ([RO 2018 4303](https://fedlex.data.admin.ch/eli/oc/2018/691)), du 27 oct. 2021 ([RO 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)), le ch. II de l’O du 30 mars 2022 ([RO 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)) et le ch. II al. 1 de l’O du 26 juin 2024, en vigueur depuis le 11 nov. 2024 ([RO 2024 334](https://fedlex.data.admin.ch/eli/oc/2024/334)).
 
 Aucun émolument n’est perçu pour le transfert des données du registre des familles au registre de l’état civil (art. 93 OEC[^annex1-lvlu1-1]) et pour la saisie obligatoire de données (art. 7 et 8 OEC) et de personnes (art. 15a, al. 1 et 2, OEC) dans le registre de l’état civil.
 
@@ -354,6 +352,11 @@ Aucun émolument n’est perçu pour le transfert des données du registre des f
 <tr><td>– Inscription de la constitution d’un mandat pour cause d’inaptitude et inscription du lieu de dépôt</td><td>75</td></tr>
 <tr><td>– Modification de l’inscription</td><td>75</td></tr>
 <tr><td>– Radiation de l’inscription</td><td>75</td></tr>
+<tr><td>24. Adaptation de la graphie du nom au sens de l’art. 99*f* OEC demandée indépendamment d’un fait d’état civil à enregistrer dans le registre de l’état civil:</td><td></td></tr>
+<tr><td>– si la demande est déposée pour une personne seule</td><td>75</td></tr>
+<tr><td>– si la demande est déposée simultanément par deux conjoints ou partenaires enregistrés</td><td>100</td></tr>
+<tr><td>– si un parent ou les deux parents déposent la demande simultanément pour eux-mêmes et leurs enfants</td><td>100</td></tr>
+<tr><td>*L’émolument donne droit à une confirmation de l’office de l’état* *civil* *que l’adaptation de la graphie du nom a été enregistrée dans le registre de l’état civil.*</td><td></td></tr>
 <tr><td>VI. Prestations effectuées sur la base d’une délégation de compétence de l’autorité cantonale de surveillance de l’état civil</td><td></td></tr>
 <tr><td>*Les émoluments perçus pour des prestations effectuées sur la base d’une délégation de* *compétence* *de l’autorité cantonale de surveillance de l’état civil sont régis par l’annexe 2.*</td><td></td></tr>
 </table>
@@ -396,7 +399,7 @@ Annexe 3[^t-3]
 
 ## Prestations des représentations de la Suisse à l’étranger
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour par le ch. II de l’O du 7 nov. 2012 ([RO 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), le ch. I de l’O du 27 oct. 2021 ([RO 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)) et le ch. II de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 4 juin 2010 ([RO 2010 3037](https://fedlex.data.admin.ch/eli/oc/2010/409)). Mise à jour par le ch. II de l’O du 7 nov. 2012 ([RO 2012 6451](https://fedlex.data.admin.ch/eli/oc/2012/770)), le ch. I de l’O du 27 oct. 2021 ([RO 2021 665](https://fedlex.data.admin.ch/eli/oc/2021/665)), le ch. II de l’O du 30 mars 2022 ([RO 2022 242](https://fedlex.data.admin.ch/eli/oc/2022/242)) et le ch. II al. 2 de l’O du 26 juin 2024, en vigueur depuis le 11 nov. 2024 ([RO 2024 334](https://fedlex.data.admin.ch/eli/oc/2024/334)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -438,6 +441,7 @@ Annexe 3[^t-3]
 <tr><td>7. Expertise, renseignement juridique ou rapport fournis à la demande d’un office de l’état civil, d’une autorité cantonale de surveillance de l’état civil ou de l’Office fédéral de l’état civil, y compris l’obtention de documents, les investigations menées pour clarifier un fait et le traitement des dossiers confiés à un avocat de confiance ou à un autre expert (art. 5, al. 1, let. h, OEC), par demi-heure</td><td>75</td></tr>
 <tr><td>8. Audition d’une personne ou d’un couple sur demande d’un office de l’état civil ou d’une autorité cantonale de surveillance de l’état civil pour clarifier les faits indiquant que la personne concernée ne veut manifestement pas fonder une communauté conjugale mais éluder les dispositions sur l’admission et le séjour des étrangers (art. 97*a* CC), y compris l’établissement du rapport si l’autorité compétente rejette la demande du couple en raison de l’abus de droit constaté, par demi-heure</td><td>75</td></tr>
 <tr><td>9. Transmission de la demande de renseignements sur l’identité des parents biologiques (art. 268*c* CC) et collaboration lors des investigations nécessaires, par demi-heure</td><td>75</td></tr>
+<tr><td>10. Transmission de la demande à l’office de l’état civil compétent en Suisse et encaissement des émoluments</td><td>30</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [RS 211.112.2](https://fedlex.data.admin.ch/eli/cc/2004/362)
