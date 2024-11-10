@@ -3,18 +3,18 @@ sr: "143.111"
 title: "Ordinanza del DFGP del 16 febbraio 2010 sui documenti d'identità dei cittadini svizzeri"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/96"
 language: it
-version: 2023-07-01
+version: 2024-11-11
 adopted: 2010-02-16
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20230701/it/xml/fedlex-data-admin-ch-eli-cc-2010-96-20230701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/96/20241111/it/xml/fedlex-data-admin-ch-eli-cc-2010-96-20241111-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/96/20241111/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFGP sui documenti d’identità dei cittadini svizzeri
 
-del 16 febbraio 2010 (Stato 1° luglio 2023)
+del 16 febbraio 2010 (Stato 11 novembre 2024)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -40,7 +40,7 @@ ordina:
 
 [^2-1]
 
-[^2-1]: Abrogato dal n. I dell’O del DFGP del 20 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4711](https://fedlex.data.admin.ch/eli/oc/2018/749)).
+[^2-1]: Abrogato dalla cifra I dell’O del DFGP del 20 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4711](https://fedlex.data.admin.ch/eli/oc/2018/749)).
 
 ## Capitolo 2: Forma e contenuto
 
@@ -55,9 +55,9 @@ ordina:
 <sup>2</sup> La carta d’identità (CID) è rilasciata in formato carta di credito in formato ID-1[^3-3].[^3-4]
 
 [^3-1]: ISO/IEC 7810; formato ID-3; OACI 9303; la norma può essere ottenuta a pagamento all’indirizzo Internet [www.iso.org/store.html](https://www.iso.org/fr/home.html) &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 oppure consultata gratuitamente presso l’Associazione svizzera di normalizzazione (SNV) Sulzerallee 70, 8404 Winterthur.
-[^3-2]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 [^3-3]: ISO/IEC 7810; formato ID-1; OACI 9303; la norma può essere ottenuta a pagamento all’indirizzo Internet [www.iso.org/store.html](https://www.iso.org/fr/home.html) &gt; Standards catalogue &gt; 35 &gt; 35.240 &gt; 35.240.15 oppure consultata gratuitamente presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur.
-[^3-4]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### Sezione 2: Contenuto del documento d’identità
 
@@ -73,8 +73,8 @@ ordina:
 
 <sup>4</sup> ...[^4-2]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^4-2]: Abrogato dal n. I dell’O del DFGP del 29 gen. 2014, con effetto dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^4-2]: Abrogato dalla cifra I dell’O del DFGP del 29 gen. 2014, con effetto dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 4a
 
@@ -91,7 +91,7 @@ La prima parte del cognome d’affinità è costituita dall’attuale cognome uf
 
 <sup>3</sup> Un cognome d’affinità già utilizzato può essere mantenuto anche dopo lo scioglimento del matrimonio o dell’unione registrata, se il cognome ufficiale non è stato modificato al momento dello scioglimento.
 
-[^4a-1]: Introdotto dal n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^4a-1]: Introdotto dalla cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 5
 
@@ -105,7 +105,7 @@ La prima parte del cognome d’affinità è costituita dall’attuale cognome uf
 
 <sup>4</sup> Se la persona richiedente non ha un nome, si iscrivono tre asterischi (\*\*\*).
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 6
 
@@ -115,7 +115,7 @@ La prima parte del cognome d’affinità è costituita dall’attuale cognome uf
 
 <sup>2</sup> Se in Infostar figura soltanto l’anno di nascita, il giorno e il mese di nascita possono essere ripresi da documenti ufficiali esistenti. Se non esistono documenti ufficiali recanti il giorno e il mese di nascita, può essere iscritto il 1° gennaio.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFGP del 20 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4711](https://fedlex.data.admin.ch/eli/oc/2018/749)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 20 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4711](https://fedlex.data.admin.ch/eli/oc/2018/749)).
 
 #### Art. 7
 
@@ -135,7 +135,7 @@ La statura è iscritta in centimetri (cm). Se la statura è omessa in virtù del
 
 Il luogo d’origine in Svizzera è iscritto conformemente alla grafia dell’elenco ufficiale dei Comuni della Svizzera dell’Ufficio federale di statistica, seguito dalla sigla ufficiale del relativo Cantone.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 10
 
@@ -143,13 +143,14 @@ Il luogo d’origine in Svizzera è iscritto conformemente alla grafia dell’el
 
 <sup>1</sup> La rubrica delle integrazioni d’ufficio è disponibile unicamente nel passaporto e comprende al massimo 380 caratteri compresi gli spazi vuoti.
 
-<sup>2</sup> Su richiesta della persona richiedente è consentito inserire integrazioni d’ufficio in una lingua nazionale svizzera o in un’altra lingua, se ciò agevola i viaggi della persona richiedente. Sono consentiti unicamente i caratteri contenuti nella tabella dei caratteri allegata.
+<sup>2</sup> Su richiesta della persona richiedente è consentito inserire integrazioni d’ufficio in una lingua nazionale svizzera o in un’altra lingua, se ciò agevola i viaggi della persona richiedente.[^10-1]
 
 <sup>3</sup> Le limitazioni della validità del passaporto sono iscritte sotto forma di integrazioni d’ufficio.
 
-<sup>4</sup> La successiva iscrizione di un complemento ufficiale[^10-1] o la sua cancellazione dev’essere richiesta all’autorità di rilascio competente, che la documenta. La persona richiedente deve portare con sé il passaporto quando si presenta personalmente all’autorità.
+<sup>4</sup> La successiva iscrizione di un complemento ufficiale[^10-2] o la sua cancellazione dev’essere richiesta all’autorità di rilascio competente, che la documenta. La persona richiedente deve portare con sé il passaporto quando si presenta personalmente all’autorità.
 
-[^10-1]: Nuova espr. giusta il n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 13 apr. 2025, in vigore dall’11 nov. 2024 ([RU 2025 265](https://fedlex.data.admin.ch/eli/oc/2025/265)).
+[^10-2]: Nuova espr. giusta la cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 11
 
@@ -183,9 +184,9 @@ Per il formato valgono i requisiti seguenti:
 
 <sup>6</sup> Il fatto di portare una fotografia non comporta una riduzione dell’emolumento. Alla persona richiedente non sono rimborsate le spese.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 13
 
@@ -216,7 +217,7 @@ Se non è possibile rilevare le impronte digitali di una mano, si registrano due
 
 Il servizio preposto all’allestimento assegna un numero unico a ogni documento d’identità, creato secondo il principio di casualità.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 12 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 ### Sezione 3: Registrazione di ulteriori dati in ISA
 
@@ -247,7 +248,7 @@ Se la persona richiedente è sotto tutela o curatela generale, si registrano anc
 - a. per le persone minorenni, il cognome ufficiale e il nome del tutore;
 - b. per le persone maggiorenni, il cognome ufficiale e il nome del curatore.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 20
 
@@ -285,9 +286,12 @@ In relazione al trattamento dei dati previsto all’articolo 13 LDI[^21-1] e all
 
 #### Art. 22
 
-**Tabella dei caratteri**
+**Set di caratteri**[^22-1]
 
-Per registrare i dati della richiesta è consentito utilizzare unicamente i caratteri contenuti nella tabella allegata.
+I dati sono registrati con il set di caratteri ISO-Norm 8859-1 + Latin Extended-A[^22-2].
+
+[^22-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 13 apr. 2025, in vigore dall’11 nov. 2024 ([RU 2025 265](https://fedlex.data.admin.ch/eli/oc/2025/265)).
+[^22-2]: La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione, Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch) o consultata gratuitamente sul sito Internet dell’Organizzazione internazionale di normazione all’indirizzo [www.iso.org](http://www.iso.org).
 
 #### Art. 23
 
@@ -397,7 +401,7 @@ Se una persona richiede ripetutamente passaporti provvisori e vi è motivo di so
 
 [^chap6-1]
 
-[^chap6-1]: Nuovo testo giusta il n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^chap6-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 34
 
@@ -409,7 +413,7 @@ Ovunque il presente capitolo non disponga diversamente, si applicano per analogi
 
 [^35-1]
 
-[^35-1]: Abrogato n. I dell’O del DFGP del 29 gen. 2014, con effetto dal 31 dic. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^35-1]: Abrogato dalla cifra I dell’O del DFGP del 29 gen. 2014, con effetto dal 31 dic. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 35a
 
@@ -433,8 +437,8 @@ Il software utilizzato dal Comune di domicilio deve soddisfare i seguenti requis
 - d.[^35a-2] ...
 - e. architettura interamente a 32 o 64 bit.
 
-[^35a-1]: Introdotto dal n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
-[^35a-2]: Abrogata dal n. I dell’O del DFGP del 12 mag. 2023, con effetto dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
+[^35a-1]: Introdotto dalla cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^35a-2]: Abrogata dalla cifra I dell’O del DFGP del 12 mag. 2023, con effetto dal 1° lug. 2023 ([RU 2023 267](https://fedlex.data.admin.ch/eli/oc/2023/267)).
 
 #### Art. 36
 
@@ -444,8 +448,8 @@ Il software utilizzato dal Comune di domicilio deve soddisfare i seguenti requis
 
 <sup>2</sup> ...[^36-2]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
-[^36-2]: Abrogato n. I dell’O del DFGP del 29 gen. 2014, con effetto dal 31 dic. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^36-2]: Abrogato dalla cifra I dell’O del DFGP del 29 gen. 2014, con effetto dal 31 dic. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 #### Art. 37
 
@@ -457,7 +461,7 @@ I requisiti che la fotografia deve soddisfare si basano sul campionario di fotog
 
 [^3839-1]
 
-[^3839-1]: Abrogati n. I dell’O del DFGP del 29 gen. 2014, con effetto dal 31 dic. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
+[^3839-1]: Abrogati dalla cifra I dell’O del DFGP del 29 gen. 2014, con effetto dal 31 dic. 2014 ([RU 2014 459](https://fedlex.data.admin.ch/eli/oc/2014/78)).
 
 ## Capitolo 7: Entrata in vigore
 
@@ -465,56 +469,6 @@ I requisiti che la fotografia deve soddisfare si basano sul campionario di fotog
 
 La presente ordinanza entra in vigore il 1° marzo 2010.
 
-Allegato
+Allegato[^t-1]
 
-(art. 10 cpv. 2 e art. 22)
-
-## Tabella dei caratteri ECMA-94 Latin 1 – ISO 8859/1 (True Type carattere Arial)
-
-<table>
-<tr><td>0</td><td></td><td>32</td><td>Space</td><td>64</td><td>@</td><td>96</td><td>\`</td><td>128</td><td>€</td><td>160</td><td></td><td>192</td><td>À</td><td>224</td><td>à</td></tr>
-<tr><td>1</td><td></td><td>33</td><td>!</td><td>65</td><td>A</td><td>97</td><td>a</td><td>129</td><td></td><td>161</td><td>¡</td><td>193</td><td>Á</td><td>225</td><td>á</td></tr>
-<tr><td>2</td><td></td><td>34</td><td>"</td><td>66</td><td>B</td><td>98</td><td>b</td><td>130</td><td>‚</td><td>162</td><td>¢</td><td>194</td><td>Â</td><td>226</td><td>â</td></tr>
-<tr><td>3</td><td></td><td>35</td><td>#</td><td>67</td><td>C</td><td>99</td><td>c</td><td>131</td><td>ƒ</td><td>163</td><td>£</td><td>195</td><td>Ã</td><td>227</td><td>ã</td></tr>
-<tr><td>4</td><td></td><td>36</td><td>$</td><td>68</td><td>D</td><td>100</td><td>d</td><td>132</td><td>„</td><td>164</td><td>¤</td><td>196</td><td>Ä</td><td>228</td><td>ä</td></tr>
-<tr><td>5</td><td></td><td>37</td><td>%</td><td>69</td><td>E</td><td>101</td><td>e</td><td>133</td><td>…</td><td>165</td><td>¥</td><td>197</td><td>Å</td><td>229</td><td>å</td></tr>
-<tr><td>6</td><td></td><td>38</td><td>&</td><td>70</td><td>F</td><td>102</td><td>f</td><td>134</td><td>†</td><td>166</td><td>¦</td><td>198</td><td>Æ</td><td>230</td><td>æ</td></tr>
-<tr><td>7</td><td></td><td>39</td><td>'</td><td>71</td><td>G</td><td>103</td><td>g</td><td>135</td><td>‡</td><td>167</td><td>§</td><td>199</td><td>Ç</td><td>231</td><td>ç</td></tr>
-<tr><td>8</td><td></td><td>40</td><td>(</td><td>72</td><td>H</td><td>104</td><td>h</td><td>136</td><td>ˆ</td><td>168</td><td>¨</td><td>200</td><td>È</td><td>232</td><td>è</td></tr>
-<tr><td>9</td><td></td><td>41</td><td>)</td><td>73</td><td>I</td><td>105</td><td>i</td><td>137</td><td>‰</td><td>169</td><td>©</td><td>201</td><td>É</td><td>233</td><td>é</td></tr>
-<tr><td>10</td><td></td><td>42</td><td>\*</td><td>74</td><td>J</td><td>106</td><td>j</td><td>138</td><td>Š</td><td>170</td><td>ª</td><td>202</td><td>Ê</td><td>234</td><td>ê</td></tr>
-<tr><td>11</td><td></td><td>43</td><td>+</td><td>75</td><td>K</td><td>107</td><td>k</td><td>139</td><td>‹</td><td>171</td><td>«</td><td>203</td><td>Ë</td><td>235</td><td>ë</td></tr>
-<tr><td>12</td><td></td><td>44</td><td>,</td><td>76</td><td>L</td><td>108</td><td>l</td><td>140</td><td>Œ</td><td>172</td><td>¬</td><td>204</td><td>Ì</td><td>236</td><td>ì</td></tr>
-<tr><td>13</td><td></td><td>45</td><td>-</td><td>77</td><td>M</td><td>109</td><td>m</td><td>141</td><td></td><td>173</td><td>­</td><td>205</td><td>Í</td><td>237</td><td>í</td></tr>
-<tr><td>14</td><td></td><td>46</td><td>.</td><td>78</td><td>N</td><td>110</td><td>n</td><td>142</td><td>Ž</td><td>174</td><td>®</td><td>206</td><td>Î</td><td>238</td><td>î</td></tr>
-<tr><td>15</td><td></td><td>47</td><td>/</td><td>79</td><td>O</td><td>111</td><td>o</td><td>143</td><td></td><td>175</td><td>¯</td><td>207</td><td>Ï</td><td>239</td><td>ï</td></tr>
-<tr><td>16</td><td></td><td>48</td><td>0</td><td>80</td><td>P</td><td>112</td><td>p</td><td>144</td><td></td><td>176</td><td>°</td><td>208</td><td>Ð</td><td>240</td><td>ð</td></tr>
-<tr><td>17</td><td></td><td>49</td><td>1</td><td>81</td><td>Q</td><td>113</td><td>q</td><td>145</td><td>‘</td><td>177</td><td>±</td><td>209</td><td>Ñ</td><td>241</td><td>ñ</td></tr>
-<tr><td>18</td><td></td><td>50</td><td>2</td><td>82</td><td>R</td><td>114</td><td>r</td><td>146</td><td>’</td><td>178</td><td>²</td><td>210</td><td>Ò</td><td>242</td><td>ò</td></tr>
-<tr><td>19</td><td></td><td>51</td><td>3</td><td>83</td><td>S</td><td>115</td><td>s</td><td>147</td><td>“</td><td>179</td><td>³</td><td>211</td><td>Ó</td><td>243</td><td>ó</td></tr>
-<tr><td>20</td><td></td><td>52</td><td>4</td><td>84</td><td>T</td><td>116</td><td>t</td><td>148</td><td>”</td><td>180</td><td>´</td><td>212</td><td>Ô</td><td>244</td><td>ô</td></tr>
-<tr><td>21</td><td></td><td>53</td><td>5</td><td>85</td><td>U</td><td>117</td><td>u</td><td>149</td><td>•</td><td>181</td><td>µ</td><td>213</td><td>Õ</td><td>245</td><td>õ</td></tr>
-<tr><td>22</td><td></td><td>54</td><td>6</td><td>86</td><td>V</td><td>118</td><td>v</td><td>150</td><td>–</td><td>182</td><td>¶</td><td>214</td><td>Ö</td><td>246</td><td>ö</td></tr>
-<tr><td>23</td><td></td><td>55</td><td>7</td><td>87</td><td>W</td><td>119</td><td>w</td><td>151</td><td>—</td><td>183</td><td>·</td><td>215</td><td>×</td><td>247</td><td>÷</td></tr>
-<tr><td>24</td><td></td><td>56</td><td>8</td><td>88</td><td>X</td><td>120</td><td>x</td><td>152</td><td>˜</td><td>184</td><td>¸</td><td>216</td><td>Ø</td><td>248</td><td>ø</td></tr>
-<tr><td>25</td><td></td><td>57</td><td>9</td><td>89</td><td>Y</td><td>121</td><td>y</td><td>153</td><td>™</td><td>185</td><td>¹</td><td>217</td><td>Ù</td><td>249</td><td>ù</td></tr>
-<tr><td>26</td><td></td><td>58</td><td>:</td><td>90</td><td>Z</td><td>122</td><td>z</td><td>154</td><td>š</td><td>186</td><td>º</td><td>218</td><td>Ú</td><td>250</td><td>ú</td></tr>
-<tr><td>27</td><td></td><td>59</td><td>;</td><td>91</td><td>[</td><td>123</td><td>{</td><td>155</td><td>›</td><td>187</td><td>»</td><td>219</td><td>Û</td><td>251</td><td>û</td></tr>
-<tr><td>28</td><td></td><td>60</td><td>&lt;</td><td>92</td><td>\\</td><td>124</td><td>|</td><td>156</td><td>œ</td><td>188</td><td>¼</td><td>220</td><td>Ü</td><td>252</td><td>ü</td></tr>
-<tr><td>29</td><td></td><td>61</td><td>=</td><td>93</td><td>]</td><td>125</td><td>}</td><td>157</td><td></td><td>189</td><td>½</td><td>221</td><td>Ý</td><td>253</td><td>ý</td></tr>
-<tr><td>30</td><td>‑</td><td>62</td><td>&gt;</td><td>94</td><td>^</td><td>126</td><td>~</td><td>158</td><td>ž</td><td>190</td><td>¾</td><td>222</td><td>Þ</td><td>254</td><td>þ</td></tr>
-<tr><td>31</td><td></td><td>63</td><td>?</td><td>95</td><td>\_</td><td>127</td><td></td><td>159</td><td>Ÿ</td><td>191</td><td>¿</td><td>223</td><td>ß</td><td>255</td><td>ÿ</td></tr>
-</table>
-
-### Applicazione (solo per i fonemi)
-
-<table>
-<tr><td>138: S</td><td>156: oe</td><td>208: D</td><td>230: ae</td></tr>
-<tr><td>140: Oe</td><td>158: z</td><td>216: OE</td><td>240: d</td></tr>
-<tr><td>142: Z</td><td>159: Y</td><td>222: TH</td><td>248: oe</td></tr>
-<tr><td>154: s</td><td>198: Ae</td><td>223: ss</td><td>254: th</td></tr>
-</table>
-
-### Osservazione
-
-Nei cognomi e nei nomi è consentito utilizzare esclusivamente i segni evidenziati in grigio chiaro. I segni evidenziati in grigio scuro sono anche consentiti nella rubrica delle integrazioni d’ufficio.
+[^t-1]: Abrogato dalla cifra II dell’O del DFGP del 13 apr. 2025, con effetto dall’11 nov. 2024 ([RU 2025 265](https://fedlex.data.admin.ch/eli/oc/2025/265)).
