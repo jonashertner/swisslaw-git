@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, du 15 octobre 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: fr
-version: 2024-03-20
+version: 2024-11-11
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20240320/fr/xml/fedlex-data-admin-ch-eli-cc-2018-820-20240320-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20240320/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20241111/fr/xml/fedlex-data-admin-ch-eli-cc-2018-820-20241111-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20241111/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Instrument de ratification déposé par la Suisse le 7 novembre 2018
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2019
 
-(État le 20 mars 2024)
+(État le 11 novembre 2024)
 
 Texte original
 
@@ -344,7 +344,7 @@ Toute Partie peut, à tout moment avant l’entrée en vigueur du présent Amend
 
 (Suivent les signatures)
 
-Champ d’application le 20 mars 2024[^t-1]
+Champ d’application le 11 novembre 2024[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -358,6 +358,7 @@ Champ d’application le 20 mars 2024[^t-1]
 <tr><td>Australie</td><td>27 octobre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Autriche</td><td>27 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Bahamas</td><td>30 mai</td><td>2023</td><td>28 août</td><td>2023</td></tr>
+<tr><td>Bahreïn</td><td>1<sup>er</sup> juillet</td><td>2024</td><td>29 septembre</td><td>2024</td></tr>
 <tr><td>Bangladesh</td><td>8 juin</td><td>2020</td><td>6 septembre</td><td>2020</td></tr>
 <tr><td>Barbade</td><td>19 avril</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Bélarus</td><td>3 novembre</td><td>2022</td><td>1<sup>er</sup> février</td><td>2023</td></tr>
@@ -393,6 +394,7 @@ Champ d’application le 20 mars 2024[^t-1]
 <tr><td>Djibouti</td><td>8 mars</td><td>2024</td><td>6 juin</td><td>2024</td></tr>
 <tr><td>Égypte</td><td>22 août</td><td>2023</td><td>20 novembre</td><td>2023</td></tr>
 <tr><td>El Salvador</td><td>13 septembre</td><td>2021</td><td>12 décembre</td><td>2021</td></tr>
+<tr><td>Émirats arabes unis</td><td>19 avril</td><td>2024</td><td>18 juillet</td><td>2024</td></tr>
 <tr><td>équateur</td><td>22 janvier</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Érythrée</td><td>7 février</td><td>2023</td><td>8 mai</td><td>2023</td></tr>
 <tr><td>Espagne</td><td>9 juin</td><td>2023</td><td>7 septembre</td><td>2023</td></tr>
@@ -426,6 +428,7 @@ Champ d’application le 20 mars 2024[^t-1]
 <tr><td>Kenya</td><td>22 septembre</td><td>2023</td><td>21 décembre</td><td>2023</td></tr>
 <tr><td>Kirghizistan</td><td>8 septembre</td><td>2020</td><td>7 décembre</td><td>2020</td></tr>
 <tr><td>Kiribati</td><td>26 octobre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Koweït</td><td>4 novembre</td><td>2024</td><td>2 février</td><td>2025</td></tr>
 <tr><td>Laos</td><td>16 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Lesotho</td><td>7 octobre</td><td>2019</td><td>5 janvier</td><td>2020</td></tr>
 <tr><td>Lettonie</td><td>17 août</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -456,6 +459,7 @@ Champ d’application le 20 mars 2024[^t-1]
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>3 octobre</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Îles Cook</td><td>22 août</td><td>2019</td><td>20 novembre</td><td>2019</td></tr>
 <tr><td>Nioué</td><td>24 avril</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Oman</td><td>8 novembre</td><td>2024</td><td>6 février</td><td>2025</td></tr>
 <tr><td>Ouganda</td><td>21 juin</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Palaos</td><td>29 août</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Panama</td><td>28 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -494,6 +498,7 @@ Champ d’application le 20 mars 2024[^t-1]
 <tr><td>Tadjikistan</td><td>29 juin</td><td>2022</td><td>27 septembre</td><td>2022</td></tr>
 <tr><td>Tanzanie</td><td>25 mars</td><td>2022</td><td>23 juin</td><td>2022</td></tr>
 <tr><td>Tchad</td><td>26 mars</td><td>2019</td><td>24 juin</td><td>2019</td></tr>
+<tr><td>Thaïlande</td><td>3 avril</td><td>2024</td><td>2 juillet</td><td>2024</td></tr>
 <tr><td>Togo</td><td>8 mars</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Tonga</td><td>17 septembre</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>17 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -511,4 +516,4 @@ Champ d’application le 20 mars 2024[^t-1]
 <tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Amendement au Protocole de Montréal ne s’applique pas au Groenland. <sup>b</sup> L’Amendement au Protocole de Montréal ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-1]: [RO 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591); [2023 96](https://fedlex.data.admin.ch/eli/oc/2023/96); [2024 90](https://fedlex.data.admin.ch/eli/oc/2024/90), [126](https://fedlex.data.admin.ch/eli/oc/2024/126). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-1]: [RO 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591); [2023 96](https://fedlex.data.admin.ch/eli/oc/2023/96); [2024 90](https://fedlex.data.admin.ch/eli/oc/2024/90), [126](https://fedlex.data.admin.ch/eli/oc/2024/126), [656](https://fedlex.data.admin.ch/eli/oc/2024/656). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

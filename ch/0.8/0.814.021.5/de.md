@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, vom 15. Oktober 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: de
-version: 2024-03-20
+version: 2024-11-11
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20240320/de/xml/fedlex-data-admin-ch-eli-cc-2018-820-20240320-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20240320/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20241111/de/xml/fedlex-data-admin-ch-eli-cc-2018-820-20241111-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20241111/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 7. November 2018
 
 In Kraft getreten für die Schweiz am 1. Januar 2019
 
-(Stand am 20. März 2024)
+(Stand am 11. November 2024)
 
 Übersetzung
 
@@ -168,7 +168,7 @@ Die Änderung in Artikel 5 Absatz 5 betrifft nicht die deutsche Übersetzung. Na
   - ii) 2032 bis 2036: 90 Prozent,
   - iii) 2037 bis 2041: 80 Prozent,
   - iv) 2042 bis 2046: 70 Prozent,
-  - iv) 2047 und danach: 15 Prozent;
+  - v) 2047 und danach: 15 Prozent;
 
 - c) Zur Berechnung ihres Basisverbrauchs nach Artikel 2J ist jede in Absatz 1 bezeichnete Vertragspartei berechtigt, den Durchschnittswert des berechneten Umfangs ihres Verbrauchs der geregelten Stoffe der Anlage F für die Jahre 2020, 2021 und 2022 zuzüglich 65 Prozent ihres Basisverbrauchs der geregelten Stoffe der Gruppe I der Anlage C gemäss Absatz 8<sup>ter</sup> zu verwenden;
 - d) Ungeachtet des Buchstabens c können die Vertragsparteien beschliessen, dass eine in Absatz 1 bezeichnete Vertragspartei zur Berechnung ihres Basisverbrauchs nach Artikel 2J berechtigt ist, den Durchschnittswert des berechneten Umfangs ihres Verbrauchs der geregelten Stoffe der Anlage F für die Jahre 2024, 2025 und 2026 zuzüglich 65 Prozent ihres Basisverbrauchs der geregelten Stoffe der Gruppe I der Anlage C gemäss Absatz 8<sup>ter</sup> zu verwenden;
@@ -343,7 +343,7 @@ Jede Vertragspartei kann jederzeit vor Inkrafttreten dieser Änderung für sie e
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 20. März 2024[^t-1]
+Geltungsbereich am 11. November 2024[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -356,6 +356,7 @@ Geltungsbereich am 20. März 2024[^t-1]
 <tr><td>Äthiopien</td><td>5. Juli</td><td>2019</td><td>3. Oktober</td><td>2019</td></tr>
 <tr><td>Australien</td><td>27. Oktober</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Bahamas</td><td>30. Mai</td><td>2023</td><td>28. August</td><td>2023</td></tr>
+<tr><td>Bahrain</td><td>1. Juli</td><td>2024</td><td>29. September</td><td>2024</td></tr>
 <tr><td>Bangladesch</td><td>8. Juni</td><td>2020</td><td>6. September</td><td>2020</td></tr>
 <tr><td>Barbados</td><td>19. April</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Belarus</td><td>3. November</td><td>2022</td><td>1. Februar</td><td>2023</td></tr>
@@ -420,6 +421,7 @@ Geltungsbereich am 20. März 2024[^t-1]
 <tr><td>Korea (Süd-)</td><td>19. Januar</td><td>2023</td><td>19. April</td><td>2023</td></tr>
 <tr><td>Kroatien</td><td>6. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Kuba</td><td>20. Juni</td><td>2019</td><td>18. September</td><td>2019</td></tr>
+<tr><td>Kuwait</td><td>4. November</td><td>2024</td><td>2. Februar</td><td>2025</td></tr>
 <tr><td>Laos</td><td>16. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Lesotho</td><td>7. Oktober</td><td>2019</td><td>5. Januar</td><td>2020</td></tr>
 <tr><td>Lettland</td><td>17. August</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
@@ -452,6 +454,7 @@ Geltungsbereich am 20. März 2024[^t-1]
 <tr><td>Nigeria</td><td>20. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Nordmazedonien</td><td>12. März</td><td>2020</td><td>10. Juni</td><td>2020</td></tr>
 <tr><td>Norwegen</td><td>6. September</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Oman</td><td>8. November</td><td>2024</td><td>6. Februar</td><td>2025</td></tr>
 <tr><td>Österreich</td><td>27. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Palau</td><td>29. August</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Panama</td><td>28. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
@@ -487,6 +490,7 @@ Geltungsbereich am 20. März 2024[^t-1]
 <tr><td>Syrien</td><td>5. April</td><td>2021</td><td>4. Juli</td><td>2021</td></tr>
 <tr><td>Tadschikistan</td><td>29. Juni</td><td>2022</td><td>27. September</td><td>2022</td></tr>
 <tr><td>Tansania</td><td>25. März</td><td>2022</td><td>23. Juni</td><td>2022</td></tr>
+<tr><td>Thailand</td><td>3. April</td><td>2024</td><td>2. Juli</td><td>2024</td></tr>
 <tr><td>Togo</td><td>8. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Tonga</td><td>17. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Trinidad und Tobago</td><td>17. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
@@ -501,6 +505,7 @@ Geltungsbereich am 20. März 2024[^t-1]
 <tr><td>Uruguay</td><td>12. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Vanuatu</td><td>20. April</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Venezuela</td><td>5. Dezember</td><td>2022</td><td>5. März</td><td>2023</td></tr>
+<tr><td>Vereinigte Arabische Emirate</td><td>19. April</td><td>2024</td><td>18. Juli</td><td>2024</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>14. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Gibraltar</td><td>18. Oktober</td><td>2019</td><td>18. Oktober</td><td>2019</td></tr>
 <tr><td>Insel Man</td><td>25. Februar</td><td>2021</td><td>25. Februar</td><td>2021</td></tr>
@@ -510,4 +515,4 @@ Geltungsbereich am 20. März 2024[^t-1]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Änderung des Montrealer Protokolls gilt nicht für Grönland. <sup>b</sup> Die Änderung des Montrealer Protokolls gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-1]: [AS 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591); [2023 96](https://fedlex.data.admin.ch/eli/oc/2023/96); [2024 90](https://fedlex.data.admin.ch/eli/oc/2024/90), [126](https://fedlex.data.admin.ch/eli/oc/2024/126). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-1]: [AS 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554); [2022 55](https://fedlex.data.admin.ch/eli/oc/2022/55), [334](https://fedlex.data.admin.ch/eli/oc/2022/334), [591](https://fedlex.data.admin.ch/eli/oc/2022/591); [2023 96](https://fedlex.data.admin.ch/eli/oc/2023/96); [2024 90](https://fedlex.data.admin.ch/eli/oc/2024/90), [126](https://fedlex.data.admin.ch/eli/oc/2024/126), [656](https://fedlex.data.admin.ch/eli/oc/2024/656). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
