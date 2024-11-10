@@ -4,11 +4,11 @@ title: Ordinanza del 28 aprile 2004 sullo stato civile (OSC)
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: it
-version: 2024-01-01
+version: 2024-11-11
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241111/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241111-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241111/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20240101/it"
 
 (OSC)
 
-del 28 aprile 2004 (Stato 1° gennaio 2024)
+del 28 aprile 2004 (Stato 11 novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -113,7 +113,7 @@ Essi possono incaricare gli uffici dello stato civile speciali di documentare:
 
 Per essere nominato o eletto ufficiale dello stato civile sono richiesti:
 
-- a. la cittadinanza svizzera;
+- a.[^4-2] ...
 - b. l’esercizio dei diritti civili;
 - c. l’attestato professionale federale di ufficiale dello stato civile.
 
@@ -121,9 +121,11 @@ Per essere nominato o eletto ufficiale dello stato civile sono richiesti:
 
 <sup>5</sup> D’intesa con il responsabile dell’ufficio dello stato civile, l’autorità di vigilanza stabilisce i compiti che l’ufficiale dello stato civile può eseguire sino al conseguimento dell’attestato professionale tenuto conto delle sue conoscenze teoriche e pratiche.
 
-<sup>6</sup> I Cantoni possono stabilire altre condizioni per la nomina o l’elezione di un ufficiale dello stato civile.
+<sup>6</sup> ... [^4-3]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^4-2]: Abrogata dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^4-3]: Abrogato dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 5
 
@@ -138,25 +140,32 @@ In materia di stato civile le rappresentanze svizzere all’estero svolgono in p
 - c.[^5-3] ricevono e trasmettono domande e dichiarazioni per la celebrazione del matrimonio in Svizzera (art. 63 cpv. 2 e 65 cpv. 1) o per il rilascio di certificati di capacità al matrimonio in vista della celebrazione del matrimonio all’estero (art. 75) e procedono all’audizione dei fidanzati (art. 74*a* cpv. 2);
 - c<sup>bis</sup>.[^5-4] ricevono e trasmettono dichiarazioni di conversione dell’unione domestica registrata in matrimonio (art. 75*n*);
 - d. ricevono e trasmettono dichiarazioni concernenti la paternità (art. 11 cpv. 6), se il riconoscimento del figlio non può essere documentato all’estero.
-- e.[^5-5] ricevono e trasmettono dichiarazioni concernenti il cognome (art. 12 cpv. 2, 12*a* cpv. 2, 13 cpv. 1, 13*a* cpv. 1, 14 cpv. 2, 14*a* cpv. 1, 37 cpv. 4 e 37*a* cpv. 5);
+- e.[^5-5] ricevono e trasmettono dichiarazioni concernenti il cognome (art. 12 cpv. 2, 13 cpv. 1, 13*a* cpv. 1, 14 cpv. 2, 14*a* cpv. 1, 37 cpv. 4 e 37*a* cpv. 5);
 - e<sup>bis</sup>.[^5-6] ricevono e trasmettono dichiarazioni concernenti il cambiamento del sesso e, se del caso, dei prenomi iscritti nel registro dello stato civile (art. 14*b*);
+- e<sup>ter</sup>.[^5-7] ricevono e trasmettono domande di adeguamento della grafia dei nomi (art. 99*f*);
 - f. accertano le cittadinanze comunali e cantonali, nonché la cittadinanza svizzera;
 - g. verificano l’autenticità dei documenti esteri;
 - h. ottengono e trasmettono informazioni sul diritto estero;
 - i. riscuotono emolumenti.
 
-<sup>2</sup> Le rappresentanze svizzere all’estero comunicano all’ufficio dello stato civile e all’autorità di vigilanza, per trasmissione all’autorità cantonale competente in materia di migrazione, i fatti indicanti che è previsto o è già stato contratto un matrimonio o un’unione domestica registrata al fine di eludere le disposizioni in materia di ammissione e soggiorno di stranieri (art. 82*a* dell’ordinanza del 24 ottobre 2007[^5-7] sull’ammissione, il soggiorno e l’attività lucrativa, OASA).[^5-8]
+<sup>2</sup> Le rappresentanze svizzere all’estero comunicano all’ufficio dello stato civile e all’autorità di vigilanza, per trasmissione all’autorità cantonale competente in materia di migrazione, i fatti indicanti che è previsto o è già stato contratto un matrimonio o un’unione domestica registrata al fine di eludere le disposizioni in materia di ammissione e soggiorno di stranieri (art. 82*a* dell’ordinanza del 24 ottobre 2007[^5-8] sull’ammissione, il soggiorno e l’attività lucrativa, OASA).[^5-9]
 
-<sup>3</sup> L’UFSC emana le necessarie istruzioni ed esercita la vigilanza.
+<sup>3</sup> La competenza della rappresentanza è retta dall’articolo 3 dell’ordinanza del 7 ottobre 2015[^5-10] sugli Svizzeri all’estero.[^5-11]
+
+<sup>4</sup> L’UFSC emana le necessarie istruzioni ed esercita la vigilanza.[^5-12]
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^5-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^5-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^5-4]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^5-5]: Nuovo testo giusta il n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^5-5]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^5-6]: Introdotta dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^5-7]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^5-8]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-7]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^5-8]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-9]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-10]: [RS 195.11](https://fedlex.data.admin.ch/eli/cc/2015/654)
+[^5-11]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^5-12]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 6
 
@@ -190,7 +199,7 @@ L’UFSC fissa i moduli da utilizzare in forma cartacea o elettronica nell’amb
 
 <sup>2</sup>
 
-Sono registrati:
+Sono documentati:[^7-1]
 
 - a. nascita;
 - b. trovatello;
@@ -199,7 +208,7 @@ Sono registrati:
 - e. dichiarazione concernente il cognome;
 - f. riconoscimento;
 - g. cittadinanza;
-- h. procedura preparatoria al matrimonio;
+- h.[^7-2] ...
 - i. matrimonio;
 - j. scioglimento del matrimonio;
 - k. cambiamento di nome;
@@ -207,32 +216,23 @@ Sono registrati:
 - m. adozione;
 - n. dichiarazione di scomparsa;
 - o. cambiamento di sesso;
-- p.[^7-1] ...
-- q.[^7-2] registrazione dell’unione domestica;
-- r.[^7-3] scioglimento dell’unione domestica registrata.
+- p.[^7-3] ...
+- q.[^7-4] registrazione dell’unione domestica;
+- r.[^7-5] scioglimento dell’unione domestica registrata.
 
-[^7-1]: Introdotta dal n. I dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Abrogata dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^7-2]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^7-3]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^7-2]: Abrogata dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^7-3]: Introdotta dal n. I dell’O del 28 giu. 2006 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Abrogata dal n. I dell’O del 30 mar. 2022, con effetto dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^7-4]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^7-5]: Introdotta dal n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 8
 
-**Dati**
+**Dati documentati**[^8-1]
 
-I seguenti dati sono tenuti nel registro dello stato civile:
+I seguenti dati sulla persona sono tenuti e documentati nel registro dello stato civile:
 
 - a.
-
-  dati del sistema:
-
-  - 1\. numeri del sistema,
-  - 2\. tipo di iscrizione,
-  - 3\. stato dell’iscrizione,
-  - 4\. elenchi (Comuni, circondari dello stato civile, Stati, indirizzi);
-
-- b.[^8-1] numero AVS;
-- b<sup>bis</sup>.[^8-2] …
-- c.
 
   nomi:
 
@@ -241,8 +241,8 @@ I seguenti dati sono tenuti nel registro dello stato civile:
   - 3\. nomi,
   - 4\. altri nomi ufficiali;
 
-- d. sesso;
-- e.
+- b. sesso: maschile/femminile;
+- c.
 
   nascita:
 
@@ -251,14 +251,14 @@ I seguenti dati sono tenuti nel registro dello stato civile:
   - 3\. luogo,
   - 4\. nati morti;
 
-- f.
+- d.
 
   stato civile:
 
-  - 1\.[^8-3] stato (celibe o nubile – coniugato/divorziato/vedovo/non coniugato – in unione domestica registrata/unione domestica sciolta: unione domestica sciolta giudizialmente/unione domestica sciolta per decesso/unione domestica sciolta in seguito a dichiarazione di scomparsa),
+  - 1\. stato: celibe o nubile; coniugato/divorziato/vedovo/non coniugato; in unione domestica registrata/unione domestica sciolta giudizialmente/ unione domestica sciolta per decesso/unione domestica sciolta in seguito a una dichiarazione di scomparsa,
   - 2\. data;
 
-- g.
+- e.
 
   morte:
 
@@ -266,72 +266,78 @@ I seguenti dati sono tenuti nel registro dello stato civile:
   - 2\. ora,
   - 3\. luogo;
 
-- h. domicilio;
-- i. luogo di soggiorno;
-- j. stato di vita;
-- k.[^8-4]
+- f. stato di vita: vivo, deceduto, disperso, nato morto, sconosciuto;
+- g.
+
+  genitori:
+
+  - 1\. cognome dei genitori,
+  - 2\. nomi dei genitori,
+  - 3\. altri nomi ufficiali dei genitori;
+
+- h.
+
+  genitori adottivi:
+
+  - 1\. cognome dei genitori adottivi,
+  - 2\. nomi dei genitori adottivi,
+  - 3\. altri nomi ufficiali dei genitori adottivi;
+
+- i.
+
+  cittadinanza svizzera/cittadinanza cantonale/luogo di attinenza:
+
+  - 1\. data: valida a partire da/valida fino a,
+  - 2\. motivo dell’acquisto,
+  - 3\. annotazione del motivo dell’acquisto,
+  - 4\. motivo della perdita,
+  - 5\. annotazione del motivo della perdita;
+
+- j.
+
+  dati relativi alla relazione:
+
+  - 1\. tipo: vincolo matrimoniale/unione domestica registrata/rapporto di filiazione,
+  - 2\. data: valida a partire da/valida fino a,
+  - 3\. motivo dello scioglimento.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+
+#### Art. 8a
+
+**Ulteriori informazioni e dati**[^8a-1]
+
+Nel registro dello stato civile sono tenuti ulteriori informazioni e dati che non sono tuttavia documentati. Fra questi rientrano in particolare:
+
+- a. procedura preparatoria al matrimonio;
+- b.
+
+  dati del sistema:
+
+  - 1\. numeri del sistema,
+  - 2\. tipo di iscrizione,
+  - 3\. stato dell’iscrizione,
+  - 4\. elenchi di Comuni, circondari dello stato civile, Stati e indirizzi;
+
+- c. numero d’assicurato secondo l’articolo 50*c* della legge federale del 20 dicembre 1946[^8a-2] sull’assicurazione per la vecchiaia e per i superstiti (numero AVS);
+- d. numero SIMIC/numero N;
+- e. riferimento del registro delle famiglie;
+- f. diritto di patriziato o di corporazione;
+- g. cittadinanza estera o apolidia secondo certificato di cittadinanza o documento d’identità;
+- h.
 
   protezione degli adulti:
 
   - 1\. costituzione di un mandato precauzionale e luogo in cui lo stesso è depositato (art. 361 cpv. 3 CC),
-  - 2\. curatela generale o efficacia di un mandato precauzionale a causa di durevole incapacità di discernimento (art 449*c* CC);
+  - 2\. curatela generale o effetto di un mandato precauzionale a causa di durevole incapacità di discernimento (art. 449*c* CC);
 
-- l.
+- i. dati statistici secondo l’ordinanza del 30 giugno 1993[^8a-3] sulle rilevazioni statistiche;
+- j. se noti, i dati relativi alla filiazione genetica e biologica di un bambino concepito all’estero nell’ambito di una maternità surrogata o dono di ovuli o spermatozoi e non registrati nei dati di filiazione (art. 8 lett. g);
+- k. ulteriori osservazioni sulle particolarità di una determinata fattispecie.
 
-  genitori:
-
-  - 1\. cognome della madre,
-  - 2\. nomi della madre,
-  - 3\. altri nomi ufficiali della madre,
-  - 4\. cognome del padre,
-  - 5\. nomi del padre,
-  - 6\. altri nomi ufficiali del padre;
-
-- m.
-
-  genitori adottivi:
-
-  - 1\. cognome della madre adottiva,
-  - 2\. nomi della madre adottiva,
-  - 3\. altri nomi ufficiali della madre adottiva,
-  - 4\. cognome del padre adottivo,
-  - 5\. nomi del padre adottivo,
-  - 6\. altri nomi ufficiali del padre adottivo;
-
-- n.
-
-  attinenza/cittadinanza:
-
-  - 1\. data (valida a partire da/valida fino a),
-  - 2\. motivo dell’acquisto,
-  - 3\. annotazione del motivo dell’acquisto,
-  - 4\. motivo della perdita,
-  - 5\. annotazione del motivo della perdita,
-  - 6\. riferimento del registro delle famiglie,
-  - 7\. diritto di patriziato o di corporazione;
-
-- o.
-
-  dati relativi alla relazione:
-
-  - 1\.[^8-5] tipo (vincolo matrimoniale/unione domestica registrata/rapporto di filiazione),
-  - 2\. data (valida a partire da/valida fino a),
-  - 3\. motivo dello scioglimento.
-
-[^8-1]: Nuovo testo giusta l’all. n. II 8 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^8-2]: Introdotta dall’all. n. 2 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Abrogata dal n. I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^8-3]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^8-4]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^8-5]: Nuovo testo giusta il n. I dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-
-#### Art. 8a
-
-**Attribuzione del numero AVS[^8a-2]**[^8a-1]
-
-L’Ufficio centrale di compensazione dell’assicurazione per la vecchiaia e per i superstiti (UCC) attribuisce alle persone notificate conformemente all’articolo 53 capoverso 1 il numero AVS.
-
-[^8a-1]: Introdotto dall’all. n. 2 dell’O del 21 nov. 2007 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^8a-2]: Nuova espr. giusta l’all. n. II 8 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il testo.
+[^8a-1]: Introdotto dall’all. n. 2 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^8a-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^8a-3]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
 #### Art. 9
 
@@ -376,7 +382,7 @@ Alla comunicazione devono essere allegati i seguenti documenti:
 <sup>4</sup> L’ufficio dello stato civile conserva la comunicazione e i documenti allegati. Gli articoli 31–33 si applicano per analogia.
 
 [^9b-1]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^9b-2]: Disponibile gratuitamente sul sito www.ufsc.admin.ch.
+[^9b-2]: Disponibile gratuitamente sul sito www.ufsc.admin.ch
 
 #### Art. 9c
 
@@ -562,7 +568,9 @@ Uno straniero i cui dati non sono disponibili è rilevato nel registro dello sta
 
 <sup>3</sup> Se è impossibile o non può ragionevolmente essere preteso che uno straniero presenti i documenti necessari al suo rilevamento nel registro dello stato civile, l’ufficiale dello stato civile verifica se sia possibile raccogliere una dichiarazione conformemente all’articolo 41 capoverso 1 CC.
 
-<sup>4</sup> Se il rilevamento secondo il capoverso 2 risulta dalla documentazione di una filiazione, in casi eccezionali motivati l’ufficiale dello stato civile può rinunciare a rilevare immediatamente alcuni dati dello stato civile della madre e del padre.
+<sup>4</sup> Se il rilevamento avviene in occasione di una nascita o di un riconoscimento e non è possibile provare i dati sui genitori in tempo utile e in modo giuridicamente soddisfacente, in casi eccezionali motivati l’ufficiale dello stato civile può rinunciare a rilevare alcuni dati dello stato civile dei genitori.[^15a-4]
+
+<sup>4bis</sup> Tale rinuncia non è possibile per quanto riguarda il nome, il cognome, il sesso e la data di nascita. Se non è possibile provare questi dati in tempo utile e in modo giuridicamente soddisfacente, in casi eccezionali motivati i genitori vengono rilevati nel registro dello stato civile con nomi, cognomi, sesso e data di nascita e con la menzione «dati non verificati».[^15a-5]
 
 <sup>5</sup> Se il rilevamento secondo il capoverso 2 risulta dalla documentazione di una morte, in casi eccezionali motivati l’ufficiale dello stato civile può rinunciare a rilevare immediatamente alcuni dati dati dello stato civile del morto.
 
@@ -571,6 +579,8 @@ Uno straniero i cui dati non sono disponibili è rilevato nel registro dello sta
 [^15a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^15a-2]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^15a-3]: Introdotto dal n. I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Abrogato dal n. I dell’O del 27 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^15a-4]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^15a-5]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 15b
 
@@ -895,29 +905,40 @@ Titoli e gradi non sono registrati.
 
 **Nomi di località**[^26-1]
 
+<sup>1</sup>
+
 È documentato come luogo:
 
 - a. il nome del Comune svizzero giusta l’elenco ufficiale dei Comuni della Svizzera;
 - b. il nome dello Stato estero o della regione d’importanza internazionale geograficamente delimitata; i nomi di città, quartieri, località e divisioni territoriali sono registrati a titolo complementare come sono registrati nei documenti probatori, se consentito dal set di caratteri standard (art. 80).
 
+<sup>2</sup> Il nome dello Stato estero è documentato con la denominazione abbreviata conformemente alla «Lista delle denominazioni degli Stati»[^26-2] gestita dalla Cancelleria federale.[^26-3]
+
+<sup>3</sup> Se il luogo dell’evento si trova in una regione la cui appartenenza a uno Stato è controversa, il nome dello Stato è documentato conformemente alla lista dei Codici degli Stati e dei territori gestita dall’Ufficio federale della statistica e utilizzata nelle statistiche della Confederazione[^26-4].[^26-5]
+
 [^26-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^26-2]: La lista della denominazione degli Stati è consultabile sul sito [www.bk.admin.ch](https://www.bk.admin.ch/bk/it/home.html) &gt; Sostegno al Governo &gt; Lingue &gt; Terminologia &gt; Elenco degli Stati.
+[^26-3]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^26-4]: La lista Codici degli Stati e dei territori utilizzata nelle statistiche della Confederazione è consultabile sul sito [www.bfs.admin.ch](https://www.bfs.admin.ch/bfs/it/home.html) &gt; Basi statistiche e rilevazioni &gt; Stati e territori.
+[^26-5]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 27
 
-**Cittadinanza estera e apolidia**
+[^27-1]
 
-Sono registrate:
+[^27-1]: Abrogato dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
-- a. le cittadinanze estere, se una persona non possiede la cittadinanza svizzera;
-- b. l’apolidia.
+### Sezione 4: Documentazione
 
-### Sezione 4: Chiusura dei dati
+[^chap3-sec4-1]
+
+[^chap3-sec4-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 28
 
-<sup>1</sup> La validazione della documentazione dei dati dello stato civile avviene tramite la funzione di chiusura.
+<sup>1</sup> La validazione della documentazione dei dati dello stato civile avviene tramite la funzione di documentazione nel registro dello stato civile.
 
-<sup>2</sup> Soltanto gli ufficiali dello stato civile con il pertinente diritto d’accesso (art. 79) possono effettuare la chiusura identificandosi personalmente come utenti.
+<sup>2</sup> Soltanto gli ufficiali dello stato civile con il pertinente diritto d’accesso (art. 79) possono effettuare la documentazione identificandosi personalmente come utenti..
 
 ### Sezione 5: Modifica dei dati
 
@@ -927,35 +948,56 @@ Sono registrate:
 
 <sup>1</sup> La modifica amministrativa della documentazione dei dati dello stato civile conformemente all’articolo 43 CC è effettuata per ordine dell’autorità di vigilanza; tuttavia, le inesattezze constatate prima di documentare un nuovo fatto di stato civile possono essere rettificate dall’ufficio dello stato civile che ha commesso l’errore, sotto la sua esclusiva responsabilità.[^29-1]
 
-<sup>2</sup> Se concerne più autorità di vigilanza, la modifica è effettuata conformemente alle direttive dell’UFSC.
+<sup>2</sup>
 
-<sup>3</sup> e <sup>4</sup> …[^29-2]
+Se concerne più autorità di vigilanza, la modifica spetta all’autorità di vigilanza competente per:
+
+- a. la prima documentazione dei dati dello stato civile da modificare; o
+- b. i fatti di stato civile che hanno avuto luogo prima dell’ultima documentazione e devono successivamente essere documentati.[^29-2]
+
+<sup>3</sup> Se le competenze non sono chiare, la modifica è effettuata conformemente alle direttive dell’UFSC.[^29-3]
+
+<sup>4</sup> …[^29-4]
 
 [^29-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^29-2]: Abrogati dal n. I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^29-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^29-3]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^29-4]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+
+#### Art. 29a
+
+**Da parte di un’autorità dello stato civile di un altro Cantone**[^29a-1]
+
+Se un Cantone, a causa di una temporanea carenza, non dispone di personale idoneo per modificare i dati dello stato civile, le modifiche possono essere eseguite, per un periodo di tempo limitato e d’intesa con l’UFSC, da un’autorità dello stato civile di un altro Cantone.
+
+[^29a-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 30
 
-**Da parte dei tribunali**
+**Da parte di un’autorità giudiziaria**[^30-1]
 
-<sup>1</sup> Fatto salvo l’articolo 29, i tribunali decidono in merito alla modifica dei dati dello stato civile effettuata (art. 42 CC).
+<sup>1</sup> La modifica ordinata da un’autorità giudiziaria è eseguita dall’autorità di vigilanza del luogo in cui ha sede l’autorità giudiziaria.
 
-<sup>2</sup> …[^30-1]
+<sup>2</sup> Se concerne più Cantoni, la competenza è retta per analogia dall’articolo 29.
 
-[^30-1]: Abrogato dal n. II 2 dell’O del 18 giu. 2010 che adegua ordinanze al Codice di procedura civile, con effetto dal 1° gen. 2011 ([RU 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^30-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 ### Sezione 6: Documenti giustificativi
 
 #### Art. 31
 
-**Archivio**
+**Archiviazione**[^31-1]
 
-<sup>1</sup> I Cantoni provvedono ad archiviare adeguatamente i documenti giustificativi relativi alla documentazione dei dati dello stato civile (art. 7).
+<sup>1</sup> I Cantoni sono responsabili dell’archiviazione adeguata e sicura dei documenti giustificativi relativi alla documentazione dei dati dello stato civile (art. 7) e dei documenti relativi ad altri dati del registro dello stato civile (art. 8).
 
-<sup>2</sup> I documenti giustificativi di cui al capoverso 1 inoltrati alla SEM in applicazione dell’articolo 2*b* dell’ordinanza 1 dell’11 agosto 1999[^31-1] sull’asilo sono conservati da tale autorità. Essa li tiene a disposizione delle autorità dello stato civile.[^31-2]
+<sup>2</sup> La Confederazione mette a disposizione dei Cantoni un sistema centrale per archiviare in forma elettronica i documenti giustificativi.
 
-[^31-1]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
-[^31-2]: Introdotto dal n. III 1 dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+<sup>3</sup> Gli uffici dello stato civile devono archiviare i documenti giustificativi in forma elettronica se la modifica di dati dello stato civile concerne più autorità di vigilanza e la competenza è retta dall’articolo 29 capoverso 2.
+
+<sup>4</sup> I documenti giustificativi relativi alla documentazione di dati dello stato civile, inoltrati alla Segreteria di Stato della migrazione (SEM) secondo l’articolo 2*b* dell’ordinanza 1 dell’11 agosto 1999[^31-2] sull’asilo, sono conservati da quest’ultima. La SEM li tiene a disposizione delle autorità dello stato civile.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^31-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 32
 
@@ -963,7 +1005,12 @@ Sono registrate:
 
 <sup>1</sup> I documenti giustificativi vanno conservati per 50 anni.
 
-<sup>2</sup> Se i documenti sono salvati mediante microfilm o su un supporto di dati elettronico, possono essere distrutti dopo 10 anni con il consenso dell’autorità di vigilanza.
+<sup>2</sup> Se sono digitalizzati e archiviati in forma elettronica nel sistema centrale (art. 31 cpv. 2), i documenti giustificativi cartacei possono essere distrutti tre mesi dopo l’archiviazione, sempre che ne sia stata proposta la restituzione alle persone interessate e queste vi abbiano espressamente rinunciato.[^32-1]
+
+<sup>3</sup> Agli atti di stato civile stranieri nonché alle decisioni giudiziarie e amministrative straniere che non possono essere restituiti si applica il capoverso 1.[^32-2]
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^32-2]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 33
 
@@ -1026,20 +1073,35 @@ La morte è notificata:
 
 <sup>5</sup> Se è notificata la morte o un infante nato morto, va presentato un certificato medico.
 
-<sup>6</sup> Se la nascita è notificata da una delle persone di cui all’articolo 34 lettera b<sup>bis</sup>, l’ufficio dello stato civile può chiedere una conferma del parto da parte del medico. Se al momento della nascita la madre è sposata con una donna, e se il figlio è stato concepito mediante dono di spermatozoi secondo le disposizioni della legge del 18 dicembre 1998[^35-5] sulla medicina della procreazione (LPAM), nei casi in cui la nascita è notificata da una persona di cui all’articolo 34 lettera b<sup>bis</sup> deve essere presentata la conferma medica del concepimento mediante dono di spermatozoi secondo la LPAM.[^35-6]
+<sup>6</sup> Se la nascita è notificata da una delle persone di cui all’articolo 34 lettera b<sup>bis</sup>, l’ufficio dello stato civile può chiedere una conferma del parto da parte del medico.[^35-5]
 
-<sup>7</sup> Se è fatta in forma cartacea, la notificazione deve essere firmata dalla persona tenuta a notificare la morte.[^35-7]
+<sup>6bis</sup> Un certificato scritto del medico curante tenuto a notificare la nascita conformemente all’articolo 25 della legge del 18 dicembre 1998[^35-6] sulla medicina della procreazione (LPAM) deve attestare all’ufficio dello stato civile che al momento della nascita la madre è sposata con una donna e che il figlio è stato concepito mediante dono di spermatozoi secondo le disposizioni della LPAM. Il certificato può essere presentato, insieme alla notifica della nascita o successivamente, all’ufficio dello stato civile in cui è stata documentata la nascita.[^35-7]
 
-<sup>8</sup> La trasmissione di notificazioni e certificati medici in forma elettronica è retta dall’articolo 89 capoverso 4.[^35-8]
+<sup>7</sup> Se è fatta in forma cartacea, la notificazione deve essere firmata dalla persona tenuta a notificare la morte.[^35-8]
+
+<sup>8</sup> La trasmissione di notificazioni e certificati medici in forma elettronica è retta dall’articolo 89 capoverso 4.[^35-9]
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^35-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^35-3]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^35-4]: Nuovo testo giusta del per. giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^35-5]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
-[^35-6]: Introdotto dal n. I dell’O del 26 ott. 2016 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^35-7]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-5]: Introdotto dal n. I dell’O del 26 ott. 2016 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^35-6]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^35-7]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^35-8]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-9]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+
+#### Art. 35a
+
+**Nascita di un bambino con una variante dello sviluppo sessuale**[^35a-1]
+
+<sup>1</sup> Se il sesso del neonato non può essere stabilito in modo univoco e ciò è attestato da un certificato medico, in un primo momento la nascita può essere notificata e documentata senza indicare il sesso.
+
+<sup>2</sup> Il sesso deve essere notificato, al più tardi tre mesi dopo il giorno della nascita, all’ufficio dello stato civile che ha documentato la nascita. I genitori sono tenuti alla notifica. Nel contempo possono dare nuovi nomi al figlio.
+
+<sup>3</sup> Il sesso notificato a posteriori va documentato per ordine dell’autorità cantonale di vigilanza sullo stato civile. Essa ordina, se del caso, la rettifica dell’iscrizione dei nomi del bambino.
+
+[^35a-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 36
 
@@ -1248,8 +1310,14 @@ L’allestimento su richiesta degli atti dello stato civile è disciplinato come
 - c. i certificati di famiglia e i certificati relativi all’unione domestica possono inoltre essere rilasciati, rinnovati o sostituiti dall’ufficio dello stato civile che ha documentato l’ultimo evento concernente l’interessato;
 - d. gli estratti di un registro dello stato civile cartacei sono rilasciati dall’ufficio dello stato civile che conserva il registro (art. 92*a* cpv. 1).[^44a-2]
 
+<sup>3</sup> Se al richiedente non è chiaro quale sia l’ufficio dello stato civile competente per la divulgazione dei dati, l’UFSC, se dispone delle informazioni necessarie, lo indirizza su richiesta all’ufficio competente.[^44a-3]
+
+<sup>4</sup> Se più uffici dello stato civile sono competenti e se dal trattamento della domanda da parte di più uffici risulterebbe un onere relativamente importante, l’UFSC può stabilire quale ufficio è competente per la divulgazione dei dati o divulgare i dati esso stesso.[^44a-4]
+
 [^44a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^44a-2]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^44a-3]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^44a-4]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 45
 
@@ -1257,9 +1325,10 @@ L’allestimento su richiesta degli atti dello stato civile è disciplinato come
 
 <sup>1</sup> …[^45-1]
 
-<sup>2</sup> I dati dello stato civile non ancora documentati definitivamente (art. 28), da modificare (art. 29 e 30) o bloccati (art. 46) possono essere divulgati soltanto previa autorizzazione dell’autorità di vigilanza.
+<sup>2</sup> I dati dello stato civile non aggiornati (art. 16 cpv. 1 lett. c) o non ancora documentati in modo giuridicamente soddisfacente (art. 28), da modificare (art. 29 e 30) o bloccati (art. 46) possono essere divulgati soltanto previa autorizzazione dell’autorità di vigilanza.[^45-2]
 
 [^45-1]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^45-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 46
 
@@ -1271,9 +1340,10 @@ L’autorità di vigilanza dispone il blocco della divulgazione di dati dello st
 
 - a. su richiesta o d’ufficio, se ciò è necessario per la protezione della persona interessata o previsto dalla legge;
 - b.[^46-1] sulla base di una decisione giudiziaria;
-- c.[^46-2] a titolo di provvedimento superprovvisionale in attesa di una decisione giudiziaria; il ricorso non ha effetto sospensivo.
+- c.[^46-2] a titolo di provvedimento superprovvisionale in attesa di una decisione giudiziaria; il ricorso non ha effetto sospensivo;
+- d.[^46-3] se i dati non sono attuali e un aggiornamento è possibile in un futuro prossimo.
 
-<sup>1bis</sup> A titolo di provvedimento superprovvisonale ai sensi del capoverso 1 lettera c, l’autorità di vigilanza dispone in particolare il blocco se è in corso una procedura di annullamento del matrimonio o dell’unione domestica registrata.[^46-3]
+<sup>1bis</sup> A titolo di provvedimento superprovvisonale ai sensi del capoverso 1 lettera c, l’autorità di vigilanza dispone in particolare il blocco se è in corso una procedura di annullamento del matrimonio o dell’unione domestica registrata.[^46-4]
 
 <sup>2</sup> Se vengono a cadere le condizioni per il blocco, l’autorità di vigilanza dispone la revoca del blocco.
 
@@ -1281,7 +1351,8 @@ L’autorità di vigilanza dispone il blocco della divulgazione di dati dello st
 
 [^46-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^46-2]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^46-3]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^46-3]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^46-4]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 46a
 
@@ -1376,16 +1447,18 @@ Per permettere la tenuta del registro del controllo degli abitanti, l’ufficio 
 - a.[^49-2] la nascita, la morte, la dichiarazione di scomparsa e l’annullamento di tale dichiarazione;
 - b.[^49-3] ogni modifica del cognome, dello stato civile, della cittadinanza, della filiazione o del sesso;
 - c. ogni modifica di dati dello stato civile, se ha effetto sui dati attuali della persona;
-- d. l’iscrizione e la cancellazione dell’istituzione di una curatela generale o dell’accertamento dell’efficacia di un mandato precauzionale per una persona durevolmente incapace di discernimento (art. 42 cpv. 1 lett. c).
+- d.[^49-4] ...
 
-<sup>2</sup> Nella comunicazione è indicato il numero AVS dell’interessato, se l’UCC glielo ha attribuito (art. 8*a*).
+<sup>2</sup> Nella comunicazione è indicato il numero AVS[^49-5] dell’interessato, se l’UCC glielo ha attribuito (art. 8*a*).
 
-<sup>3</sup> L’invio dei dati avviene automaticamente in forma elettronica.[^49-4]
+<sup>3</sup> L’invio dei dati avviene automaticamente in forma elettronica.[^49-6]
 
 [^49-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^49-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^49-3]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^49-4]: Vedi anche l’art. 99*b*.
+[^49-4]: Abrogata dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^49-5]: Nuova espressione giusta l’all. n. II 8 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il testo.
+[^49-6]: Vedi anche l’art. 99*b*.
 
 #### Art. 49a
 
@@ -1411,24 +1484,29 @@ Se l’interessato è titolare di un diritto di patriziato o di corporazione nel
 
 L’ufficio dello stato civile competente per la documentazione comunica all’autorità di protezione dei minori del luogo di domicilio del figlio:[^50-2]
 
-- a. la nascita di un figlio i cui genitori non sono uniti in matrimonio nonché la sua morte, se quest’ultima si verifica entro il primo anno di vita e a quel momento non sussiste alcun rapporto di filiazione nei confronti del padre;
+- a.[^50-3] la nascita di un figlio, se al momento della nascita sussiste un rapporto di filiazione con un solo genitore;
 - b. la nascita di un figlio entro 300 giorni dalla morte o dalla dichiarazione di scomparsa del marito della madre;
 - c. il riconoscimento di un figlio minorenne;
-- c<sup>bis</sup>.[^50-3] la dichiarazione concernente l’autorità parentale congiunta fatta insieme all’atto del riconoscimento e la convenzione sull’assegnazione degli accrediti per compiti educativi;
+- c<sup>bis</sup>.[^50-4] la dichiarazione concernente l’autorità parentale congiunta fatta insieme all’atto del riconoscimento e la convenzione sull’assegnazione degli accrediti per compiti educativi;
+- c<sup>ter</sup>.[^50-5] l’iscrizione successiva di una seconda madre secondo l’articolo 35 capoverso 6<sup>bis</sup>;
 - d. la morte di un genitore esercitante l’autorità parentale;
+- d<sup>bis</sup>.[^50-6] la morte nel corso del primo anno di vita di un figlio, se non sussiste alcun rapporto di filiazione con un secondo genitore;
 - e. il ritrovamento di un trovatello;
-- f.[^50-4] l’adozione di un figlio avvenuta all’estero.
+- f.[^50-7] l’adozione di un figlio avvenuta all’estero.
 
-<sup>2</sup> ...[^50-5]
+<sup>2</sup> ...[^50-8]
 
-<sup>3</sup> L’autorità di vigilanza che riceve una domanda di riconoscimento di un matrimonio celebrato all’estero con un minorenne lo comunica all’autorità di protezione dei minori del luogo di domicilio di quest’ultimo.[^50-6]
+<sup>3</sup> L’autorità di vigilanza che riceve una domanda di riconoscimento di un matrimonio celebrato all’estero con un minorenne lo comunica all’autorità di protezione dei minori del luogo di domicilio di quest’ultimo.[^50-9]
 
 [^50-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^50-2]: Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^50-3]: Introdotta dal n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)). Seconda parte del per. in vigore dal 1° gen. 2015 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^50-4]: Introdotta dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^50-5]: Abrogato dal n. I dell’O del 27 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^50-6]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^50-3]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^50-4]: Introdotta dal n. I dell’O del 14 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)). Seconda parte del per. in vigore dal 1° gen. 2015 ([RU 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^50-5]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^50-6]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^50-7]: Introdotta dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^50-8]: Abrogato dal n. I dell’O del 27 ott. 2021, con effetto dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^50-9]: Introdotto dal n. I dell’O del 27 mar. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 51
 
@@ -1543,7 +1621,11 @@ L’avviso avviene senza indugio e contiene, nella misura in cui siano disponibi
 
 **Ai tribunali e alle autorità amministrative**
 
-Le autorità dello stato civile sono obbligate a divulgare ai tribunali e alle autorità amministrative svizzere su richiesta i dati dello stato civile che sono indispensabili all’esercizio dei loro compiti legali.
+<sup>1</sup> Le autorità dello stato civile sono obbligate a divulgare ai tribunali e alle autorità amministrative svizzere su richiesta i dati dello stato civile che sono indispensabili all’esercizio dei loro compiti legali.
+
+<sup>2</sup> Le richieste della Croce Rossa Svizzera nell’ambito dell’adempimento dei suoi compiti, segnatamente per quanto riguarda la ricerca di origini e di persone scomparse, sono equiparate alle richieste di tribunali e autorità amministrative svizzere.[^58-1]
+
+[^58-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 59
 
@@ -2000,10 +2082,10 @@ L’UFG è responsabile della salvaguardia dei dati del sistema.
 
 **Set di caratteri**[^80-1]
 
-I dati sono registrati con il set di caratteri ISO 8859-15[^80-2].
+I dati sono registrati con il set di caratteri ISO-Norm 8859-1 + Latin Extended-A[^80-2].
 
 [^80-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^80-2]: La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch. Può inoltre essere consultata sul sito Internet dell’Organizzazione internazionale per la normalizzazione; www.iso.org
+[^80-2]: La norma può essere ottenuta a pagamento presso l’Associazione svizzera normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch. Può inoltre essere consultata gratuitamente sul sito Internet dell’Organizzazione nazionale per la normalizzazione, www.iso.org.
 
 ## Capitolo 9: Protezione e sicurezza dei dati
 
@@ -2054,21 +2136,29 @@ I dati sono registrati con il set di caratteri ISO 8859-15[^80-2].
 
 **Autorità**
 
-<sup>1</sup> L’UFSC esercita l’alta vigilanza sul servizio dello stato civile svizzero.[^84-1]
+<sup>1</sup> L’UFSC esercita l’alta vigilanza sul servizio dello stato civile e provvede all’applicazione corretta e uniforme del diritto federale.[^84-1]
 
 <sup>2</sup> Le autorità di vigilanza si occupano dell’esecuzione tecnicamente corretta dei compiti dello stato civile nel loro Cantone. Più Cantoni possono prevedere una ripartizione dei compiti o unire le loro autorità di vigilanza. Prendono gli accordi necessari d’intesa con l’UFSC.
 
 <sup>3</sup>
 
-L’UFSC ha in particolare i seguenti compiti:[^84-2]
+L’UFSC esercita l’alta vigilanza segnatamente attraverso i seguenti strumenti:
 
-- a.[^84-3] emanazione d’istruzioni concernenti in particolare la documentazione dello stato civile, la preparazione e la celebrazione del matrimonio, la ricezione e la documentazione di dichiarazioni nonché la salvaguardia dei registri e dei documenti giustificativi;
-- b. ispezione degli uffici dello stato civile, delle autorità cantonali di vigilanza sullo stato civile e degli archivi cantonali dello stato civile;
-- c.[^84-4] ...
+- a. emanazione d’istruzioni;
+- b. emanazione e messa a disposizione di moduli dello stato civile obbligatori o facoltativi;
+- c. ispezione delle autorità cantonali di vigilanza sullo stato civile e degli archivi cantonali dello stato civile;
+- d. ricezione dei rapporti periodici d’ispezione cantonali (art. 85 cpv. 2);
+- e. preparazione dell’approvazione di atti normativi cantonali nell’ambito dello stato civile (art. 49 cpv. 3 CC);
+- f. preparazione dei ricorsi dell’UFG contro le decisioni cantonali in materia di stato civile (art. 90 cpv. 4);
+- g. consulenza e sostegno delle autorità cantonali dello stato civile e delle rappresentanze svizzere sulle questioni di stato civile;
+- h. formazione del personale consolare in materia di stato civile;
+- i. garanzia della conformità del registro dello stato civile con le disposizioni del diritto federale;
+- j. salvaguardia degli interessi della Svizzera nella Commissione internazionale dello stato civile (CISC);
+- k. esame delle domande di divulgazione dei dati dello stato civile ad autorità estere (art. 61).[^84-2]
 
 <sup>4</sup> Ai fini dello scambio e dell’ottenimento degli atti di stato civile, esso è autorizzato a corrispondere direttamente con le rappresentanze svizzere all’estero.
 
-<sup>5</sup> L’UFG[^84-5] può concludere in modo autonomo trattati internazionali di portata limitata in materia di scambio e acquisizione di dati dello stato civile.[^84-6]
+<sup>5</sup> L’UFG[^84-3] può concludere in modo autonomo trattati internazionali di portata limitata in materia di scambio e acquisizione di dati dello stato civile.[^84-4]
 
 <sup>6</sup>
 
@@ -2078,15 +2168,13 @@ Il SIS è responsabile degli aspetti tecnici della gestione, dello sviluppo e de
 - b. svolgimento di ispezioni tecniche;
 - c. gestione dei registri dei Comuni e dei luoghi d’origine;
 - d. scambio e acquisizione di atti dello stato civile;
-- e. armonizzazione dei registri con il numero AVS.[^84-7]
+- e. armonizzazione dei registri con il numero AVS.[^84-5]
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^84-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^84-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° lug. 2022 ([RU 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^84-4]: Abrogata dal n. I dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^84-5]: Nuova espr. giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Di detta mod. è tenuto conto in tutto il testo.
-[^84-6]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^84-7]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^84-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^84-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^84-3]: Nuova espr. giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Di detta mod. è tenuto conto in tutto il testo.
+[^84-4]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^84-5]: Introdotto dal n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 85
 
@@ -2133,9 +2221,11 @@ Le autorità di vigilanza fanno rapporto ogni anno all’UFSC su:[^85-1]
 
 #### Art. 88
 
-[^88-1]
+**Adeguamento tecnico di gruppi di dati dello stato civile**[^88-1]
 
-[^88-1]: Abrogato dal n. II 1 dell’O del 12 set. 2007 concernente l’abrogazione e l’adeguamento di ordinanze nell’ambito del riordinamento delle commissioni extraparlamentari, con effetto dal 1° gen. 2008 ([RU 2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637)).
+Se per un gruppo di dati dello stato civile che sono oggetto di documentazioni è necessario eseguire uno stesso adeguamento di natura puramente tecnica, l’UFSC può incaricare il Servizio Infostar mediante decisione scritta di adeguare tali dati nel registro dello stato civile.
+
+[^88-1]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 ## Capitolo 11: Procedura e rimedi giuridici
 
@@ -2220,19 +2310,22 @@ Dopo l’introduzione del sistema di documentazione Infostar, non devono più es
 
 L’ufficio dello stato civile competente in virtù del diritto cantonale deve poter accedere agli originali dei registri dello stato civile tenuti nel suo circondario almeno per i periodi seguenti:
 
-- a. registro delle nascite, a partire dal 1° gennaio 1900;
-- b. registro dei matrimoni, a partire dal 1° gennaio 1930;
-- c. registro delle morti, a partire dal 1° gennaio 1960;
+- a.[^92a-2] registro delle nascite, per 110 anni;
+- b.[^92a-3] registro dei matrimoni, per 80 anni;
+- c.[^92a-4] registro delle morti, per 50 anni;
 - d. registro delle famiglie e registro dei riconoscimenti, a partire dalla loro introduzione.
 
-<sup>1bis</sup> L’UFSC deve poter accedere agli originali dei registri dello stato civile tenuti dalle rappresentanze svizzere all’estero a cui il DFGP ha affidato funzioni di stato civile per i periodi di cui al capoverso 1.[^92a-2]
+<sup>1bis</sup> L’UFSC deve poter accedere agli originali dei registri dello stato civile tenuti dalle rappresentanze svizzere all’estero a cui il DFGP ha affidato funzioni di stato civile per i periodi di cui al capoverso 1.[^92a-5]
 
 <sup>2</sup> Gli originali possono essere sostituiti da supporti elettronici di dati oppure da copie leggibili su microfilm.
 
 <sup>3</sup> Se è possibile divulgare i dati accedendo a un supporto elettronico, le indicazioni secondo l’articolo 93 capoverso 1 e le modifiche secondo l’articolo 98 vanno aggiornate soltanto nella versione elettronica dei registri.
 
 [^92a-1]: Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^92a-2]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^92a-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^92a-3]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^92a-4]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^92a-5]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 92b
 
@@ -2337,6 +2430,7 @@ Nel registro delle nascite vanno iscritte d’ufficio le seguenti annotazioni a 
 - d. il matrimonio successivo dei genitori;
 - e. l’annullamento del rapporto di filiazione con il marito della madre;
 - f. il cambiamento del cognome;
+- f<sup>bis</sup>.[^98-2] adeguamenti della grafia dei nomi in seguito alle richieste secondo l’articolo 99*f*;
 - g. il cambiamento del nome;
 - h. il cambiamento di sesso.
 
@@ -2367,10 +2461,11 @@ Vanno radiate dal registro delle famiglie le iscrizioni concernenti:
 
 <sup>6</sup> L’ufficio dello stato civile competente per la documentazione comunica i fatti di stato civile menzionati nei capoversi 1–4 all’ufficio dello stato civile competente per aggiornare i registri dello stato civile cartacei.
 
-<sup>7</sup> I registri dello stato civile considerati archivi (art. 6*a* cpv. 3) non sono aggiornati.[^98-2]
+<sup>7</sup> I registri dello stato civile considerati archivi (art. 6*a* cpv. 3) non sono aggiornati.[^98-3]
 
 [^98-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^98-2]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^98-2]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^98-3]: Introdotto dal n. I dell’O del 26 ott. 2016, in vigore dal 1° lug. 2017 ([RU 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 99
 
@@ -2426,12 +2521,30 @@ Entro cinque anni dall’entrata in vigore della modifica, la persona che ha mes
 
 #### Art. 99e
 
-**Disposizione transitoria della modifica del 27 ottobre 2021**[^99e-1]
+[^99e-1]
 
-Le iscrizioni nel Registro svizzero dei pubblici ufficiali secondo l’articolo 6 capoverso 2 OAPuE[^99e-2] devono essere effettuate entro tre anni dall’entrata in vigore della modifica del 27 ottobre 2021.
+[^99e-1]: Introdotto dal n. I dell’O del 27 ott. 2021 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)). Abrogato dal n. I dell’O del 26 giu. 2024, con effetto dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
-[^99e-1]: Introdotto dal n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^99e-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+#### Art. 99f
+
+**Disposizioni transitorie della modifica del 26 giugno 2024**[^99f-1]
+
+<sup>1</sup> Una persona i cui dati sono stati iscritti nel registro dello stato civile prima dell’entrata in vigore della presente modifica può chiedere a ogni ufficio dello stato civile in Svizzera e alla rappresentanza svizzera competente all’estero che i propri nomi siano scritto con il set di caratteri di cui all’articolo 80 della presente modifica.
+
+<sup>2</sup>
+
+La domanda può essere presentata:
+
+- a. in qualsiasi momento nell’ambito della documentazione di un fatto di stato civile;
+- b. dal 1° gennaio 2025, in qualsiasi momento e indipendentemente da un fatto di stato civile.
+
+<sup>3</sup> I coniugi aventi un cognome coniugale possono presentare soltanto congiuntamente la domanda per l’adeguamento della grafia dei nomi.
+
+<sup>4</sup> La domanda per un minorenne va presentata dal rappresentante legale. Se il minorenne ha compiuto il dodicesimo anno di età, è necessario il suo consenso.
+
+<sup>5</sup> Per la domanda va utilizzato il modulo messo a disposizione dall’UFSC.
+
+[^99f-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dall’11 nov. 2024 ([RU 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 100
 

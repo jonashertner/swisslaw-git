@@ -4,11 +4,11 @@ title: "Ordinaziun dals 28 d'avrigl 2004 davart il stadi civil (OSC)"
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: rm
-version: 2024-01-01
+version: 2024-11-11
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20240101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241111/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241111-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241111/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OSC)
 
-dals 28 d’avrigl 2004 (versiun dal 1. da schaner 2024)
+dals 28 d’avrigl 2004 (versiun dals 11 da november 2024)
 
 Il Cussegl federal svizzer,
 
@@ -114,7 +114,7 @@ Als uffizis dal stadi civil spezials pon els attribuir las suandantas incumbensa
 
 La nominaziun u l’elecziun ad in funcziunari dal stadi civil premetta:
 
-- a. il dretg da burgais svizzer;
+- a.[^4-2] …
 - b. l’abilitad d’agir;
 - c. il certificat professiunal federal per funcziunaris dal stadi civil.
 
@@ -122,9 +122,11 @@ La nominaziun u l’elecziun ad in funcziunari dal stadi civil premetta:
 
 <sup>5</sup> Fin a l’acquist dal certificat professiunal decida l’autoritad da surveglianza en enclegientscha cun il manader da l’uffizi dal stadi civil davart il sectur d’activitad d’in funcziunari dal stadi civil, e quai resguardond las enconuschientschas specificas teoreticas e praticas acquistadas.
 
-<sup>6</sup> Ils chantuns pon prescriver ulteriuras premissas per nominar u per eleger in funcziunari dal stadi civil.
+<sup>6</sup> …[^4-3]
 
 [^4-1]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^4-2]: Abolì tras la cifra I da l’O dals 26 da zer. 2024, cun effect dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^4-3]: Abolì tras la cifra I da l’O dals 26 da zer. 2024, cun effect dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 5
 
@@ -139,25 +141,32 @@ Las represchentanzas da la Svizra a l’exteriur han en spezial las suandantas i
 - c.[^5-3] retschaiver e transmetter dumondas e decleraziuns concernent la maridaglia en Svizra (art. 63 al. 2 e 65 al. 1) sco er concernent l’emissiun d’attests d’abilitad da maridar en vista a la maridaglia a l’exteriur (art. 75) e tadlar ils spus (art. 74*a* al. 2);
 - c<sup>bis</sup>.[^5-4] retschaiver e transmetter decleraziuns concernent la conversiun dal partenadi registrà en ina lètg (art. 75*n*);
 - d. retschaiver e transmetter decleraziuns davart la paternitad (art. 11 al. 6), sch’i n’è betg pussaivel da documentar a l’exteriur la renconuschientscha da l’uffant;
-- e.[^5-5] retschaiver e transmetter decleraziuns davart il num (art. 12 al. 2, 12*a* al. 2, 13 al. 1, 13*a* al. 1, 14 al. 2, 14*a* al. 1, 37 al. 4 sco er 37*a* al. 5);
+- e.[^5-5] retschaiver e transmetter decleraziuns davart il num (art. 12 al. 2, 13 al. 1, 13*a* al. 1, 14 al. 2, 14*a* al. 1, 37 al. 4 sco er 37*a* al. 5);
 - e<sup>bis</sup>.[^5-6] retschaiver e transmetter decleraziuns concernent la midada da la schlattaina ch’è inscritta en il register dal stadi civil e concernent la midada dals prenums che resulta qua tras (art. 14*b*);
+- e<sup>ter</sup>.[^5-7] retschaiver e transmetter dumondas d’adattar la scripziun dal num (art. 99*f*);
 - f. sclerir dretgs da burgais communals e chantunals ed il dretg da burgais svizzer;
 - g. controllar l’autenticitad da documents esters;
 - h. acquistar e transmetter infurmaziuns davart il dretg ester;
 - i. incassar taxas.
 
-<sup>2</sup> Ellas communitgeschan a l’uffizi dal stadi civil ed a l’autoritad da surveglianza per mauns da l’autoritad chantunala responsabla per las persunas estras fatgs che laschan supponer, che la constituziun dal partenadi registrà intenziunada u succedida ha l’intent da guntgir las disposiziuns davart l’admissiun e davart la dimora da persunas estras (art 82*a* da l’O dals 24 d’oct. 2007[^5-7] davart l’admissiun, la dimora e l’activitad da gudogn, OADA).[^5-8]
+<sup>2</sup> Ellas communitgeschan a l’uffizi dal stadi civil ed a l’autoritad da surveglianza per mauns da l’autoritad chantunala responsabla per las persunas estras fatgs che laschan supponer, che la constituziun dal partenadi registrà intenziunada u succedida ha l’intent da guntgir las disposiziuns davart l’admissiun e davart la dimora da persunas estras (art 82*a* da l’O dals 24 d’oct. 2007[^5-8] davart l’admissiun, la dimora e l’activitad da gudogn, OADA).[^5-9]
 
-<sup>3</sup> Il UFSC decretescha las directivas necessarias ed exequescha la surveglianza.
+<sup>3</sup> La cumpetenza da la represchentanza sa drizza tenor l’artitgel 3 da l’Ordinaziun dals 7 d’october 2015[^5-10] davart ils Svizzers a l’exteriur.[^5-11]
+
+<sup>4</sup> Il UFSC decretescha las directivas necessarias ed exequescha la surveglianza.[^5-12]
 
 [^5-1]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^5-2]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^5-3]: Versiun tenor la cifra I da l’O dals 30 da mars 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
 [^5-4]: Integrà tras la cifra I da l’O dals 30 da mars 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^5-5]: Versiun tenor la cifra I da l’O dals 14 da matg 2014, en vigur dapi il 1. da fan. 2014 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^5-5]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^5-6]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^5-7]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^5-8]: Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-7]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^5-8]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+[^5-9]: Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^5-10]: [SR 195.11](https://fedlex.data.admin.ch/eli/cc/2015/654)
+[^5-11]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^5-12]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 6
 
@@ -191,7 +200,7 @@ Il UFSC determinescha ils formulars che ston vegnir duvrads en ils fatgs dal sta
 
 <sup>2</sup>
 
-Registrads vegnan:
+Ils suandants fatgs vegnan documentads:[^7-1]
 
 - a. naschientscha;
 - b. uffant chattà;
@@ -200,7 +209,7 @@ Registrads vegnan:
 - e. decleraziun concernent il num;
 - f. renconuschientscha d’in uffant;
 - g. dretg da burgais;
-- h. preparaziun da la lètg;
+- h.[^7-2] …
 - i. lètg;
 - j. schliaziun da la lètg;
 - k. midada dal num;
@@ -208,58 +217,49 @@ Registrads vegnan:
 - m. adopziun;
 - n. decleraziun da spariziun;
 - o. midada da la schlattaina;
-- p.[^7-1] …
-- q.[^7-2] registraziun dal partenadi;
-- r.[^7-3] schliaziun d’in partenadi registrà.
+- p.[^7-3] …
+- q.[^7-4] registraziun dal partenadi;
+- r.[^7-5] schliaziun d’in partenadi registrà.
 
-[^7-1]: Integrà tras la cifra I da l’O dals 28 da zer. 2006 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Abolì tras la cifra I da l’O dals 30 da mars 2022, cun effect dapi il 1. da fan. 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^7-2]: Integrà tras la cifra I da l’O dals 28 da zer. 2006, en vigur dapi il 1. da schan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^7-3]: Integrà tras la cifra I da l’O dals 28 da zer. 2006, en vigur dapi il 1. da schan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^7-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^7-2]: Abolì tras la cifra I da l’O dals 26 da zer. 2024, cun effect dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^7-3]: Integrà tras la cifra I da l’O dals 28 da zer. 2006 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)). Abolì tras la cifra I da l’O dals 30 da mars 2022, cun effect dapi il 1. da fan. 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
+[^7-4]: Integrà tras la cifra I da l’O dals 28 da zer. 2006, en vigur dapi il 1. da schan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^7-5]: Integrà tras la cifra I da l’O dals 28 da zer. 2006, en vigur dapi il 1. da schan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 
 #### Art. 8
 
-**Datas**
+**Datas documentadas**[^8-1]
 
-Las suandantas datas vegnan administradas en il register dal stadi civil:
+Las suandantas indicaziuns davart la persuna vegnan administradas e documentadas en il register dal stadi civil:
 
 - a.
 
-  datas dal sistem:
-
-  - 1\. numers dal sistem,
-  - 2\. tip da l’inscripziun,
-  - 3\. status da l’inscripziun,
-  - 4\. glistas (vischnancas, circuls dal stadi civil, stadis, adressas);
-
-- b.[^8-1] numer da la AVS;
-- b<sup>bis</sup>.[^8-2] …
-- c.
-
-  num:
+  nums:
 
   - 1\. num da famiglia,
   - 2\. num da nubil,
   - 3\. prenums,
   - 4\. auters nums uffizials;
 
-- d. schlattaina;
-- e.
+- b. schlattaina: masculin / feminin;
+- c.
 
   naschientscha:
 
   - 1\. data,
   - 2\. uras,
   - 3\. lieu,
-  - 4\. naschientscha d’in uffant mort;
+  - 4\. uffant naschì mort;
 
-- f.
+- d.
 
   stadi civil:
 
-  - 1\.[^8-3] status (nubil – maridà/divorzià/vaiv/betg maridà – en in partenadi registrà/partenadi schlià: partenadi schlià tras ina sentenzia giudiziala/partenadi schlià tras la mort/partenadi schlià tras ina decleraziun da spariziun),
+  - 1\. status: nubil; maridà / divorzià / vaiv / betg maridà; en in partenadi registrà / partenadi schlià tras sentenzia giudiziala / partenadi schlià tras mort / partenadi schlià tras decleraziun da spariziun,
   - 2\. data;
 
-- g.
+- e.
 
   mort:
 
@@ -267,73 +267,78 @@ Las suandantas datas vegnan administradas en il register dal stadi civil:
   - 2\. uras,
   - 3\. lieu;
 
-- h.[^8-4] domicil;
-- i. lieu da dimora;
-- j. status da vita;
-- k.[^8-5]
+- f. status da vita: viv, mort, sparì, naschì mort, nunenconuschent;
+- g.
+
+  geniturs:
+
+  - 1\. num da famiglia dals geniturs,
+  - 2\. prenums dals geniturs,
+  - 3\. auters nums uffizials dals geniturs;
+
+- h.
+
+  geniturs adoptivs:
+
+  - 1\. num da famiglia dals geniturs adoptivs,
+  - 2\. prenums dals geniturs adoptivs,
+  - 3\. auters nums uffizials dals geniturs adoptivs;
+
+- i.
+
+  naziunalitad svizra / dretg da burgais chantunal / lieu d’origin:
+
+  - 1\. data: valaivel a partir dals / valaivel fin ils,
+  - 2\. motiv da l’acquist,
+  - 3\. remartga tar il motiv da l’acquist,
+  - 4\. motiv da la perdita,
+  - 5\. remartga tar il motiv da la perdita;
+
+- j.
+
+  datas concernent la relaziun:
+
+  - 1\. tip: lètg / partenadi registrà / relaziun da figlialanza,
+  - 2\. data: valaivel a partir dals / valaivel fin ils,
+  - 3\. motiv da la schliaziun.
+
+[^8-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+
+#### Art. 8a
+
+**Ulteriuras fatschentas e datas**[^8a-1]
+
+En il register dal stadi civil vegnan administradas ulteriuras fatschentas e datas, che na vegnan dentant betg documentadas. Quai èn en spezial las suandantas fatschentas e datas:
+
+- a. preparaziun da la lètg;
+- b.
+
+  datas dal sistem:
+
+  - 1\. numers dal sistem,
+  - 2\. tip da l’inscripziun,
+  - 3\. status da l’inscripziun,
+  - 4\. glistas da vischnancas, da circuls dal stadi civil, da stadis e d’adressas;
+
+- c. numer d’assicuranza tenor l’artitgel 50*c* da la Lescha federala dals 20 da december 1946[^8a-2] davart l’assicuranza per vegls e survivents (numer da la AVS);
+- d. numer SIMIC / numer N;
+- e. referenza al register da famiglia;
+- f. dretg da burgais u dretg da corporaziun;
+- g. naziunalitad estra u apatridia tenor il certificat da naziunalitad ubain tenor il document d’identitad;
+- h.
 
   protecziun da creschids:
 
   - 1\. constituziun d’in mandat preventiv e lieu, nua ch’el è deposità (art. 361 al. 3 CCS),
-  - 2\. curatella cumplessiva u efficacitad d’in mandat preventiv pervia d’inabilitad permanenta da giuditgar (art. 449*c* CCS);
+  - 2\. curatella cumplessiva u effect d’in mandat preventiv pervia d’inabilitad permanenta da giuditgar (art. 449*c* CCS);
 
-- l.
+- i. indicaziuns statisticas tenor l’Ordinaziun dals 30 da zercladur 1993[^8a-3] davart las retschertgas statisticas;
+- j. indicaziuns davart la derivanza genetica u biologica d’in uffant ch’è vegnì schendrà a l’exteriur en il rom d’ina maternitad substitutiva ubain d’ina donaziun da cellas d’ov u da sperma, uschenavant che questas indicaziuns èn enconuschentas e betg gia registradas tar las datas davart la derivanza (art. 8 lit. g);
+- k. ulteriuras remartgas davart particularitads d’in tschert cas.
 
-  geniturs:
-
-  - 1\. num da famiglia da la mamma,
-  - 2\. prenums da la mamma,
-  - 3\. auters nums uffizials da la mamma,
-  - 4\. num da famiglia dal bab,
-  - 5\. prenums dal bab,
-  - 6\. auters nums uffizials dal bab;
-
-- m.
-
-  geniturs adoptivs:
-
-  - 1\. num da famiglia da la mamma adoptiva,
-  - 2\. prenums da la mamma adoptiva,
-  - 3\. auters nums uffizials da la mamma adoptiva,
-  - 4\. num da famiglia dal bab adoptiv,
-  - 5\. prenums dal bab adoptiv,
-  - 6\. auters nums uffizials dal bab adoptiv;
-
-- n.
-
-  dretg da burgais / naziunalitad:
-
-  - 1\. data (valaivla a partir da/valaivla fin),
-  - 2\. motiv da l’acquist,
-  - 3\. remartga tar il motiv da l’acquist,
-  - 4\. motiv da la perdita,
-  - 5\. remartga tar il motiv da la perdita,
-  - 6\. referenza dal register da famiglia,
-  - 7\. dretg da burgais u dretg da corporaziun;
-
-- o.
-
-  datas concernent la relaziun:
-
-  - 1\.[^8-6] tip (relaziun matrimoniala/partenadi registrà/relaziun da figlialanza),
-  - 2\. data (valaivla a partir da/valaivla fin),
-  - 3\. motiv da l’annullaziun.
-
-[^8-1]: Versiun tenor la cifra II 8 da l’agiunta da l’O dals 17 da nov. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^8-2]: Integrà tras la cifra 2 da l’agiunta da l’O dals 21 da nov. 2007 davart l’armonisaziun dals registers ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Abolì tras la cifra I da l’O dals 4 da zer. 2010, cun effect dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^8-3]: Versiun tenor la cifra I da l’O dals 28 da zer. 2006, en vigur dapi il 1. da schan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^8-4]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^8-5]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^8-6]: Versiun tenor la cifra I da l’O dals 28 da zer. 2006, en vigur dapi il 1. da schan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-
-#### Art. 8a
-
-**Attribuziun dal numer da la AVS[^8a-2]**[^8a-1]
-
-L’Uffizi central da cumpensaziun da l’assicuranza per vegls e survivents (UCC) attribuescha il numer da la AVS a la persuna annunziada tenor l’artitgel 53 alinea 1.
-
-[^8a-1]: Integrà tras la cifra 2 da l’agiunta da l’O dals 21 da nov. 2007 davart l’armonisaziun dals registers, en vigur dapi il 1. da schan. 2008 ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)).
-[^8a-2]: Expressiun tenor la cifra II 8 da l’agiunta da l’O dals 17 da nov. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Questa midada è vegnida resguardada en l’entir decret.
+[^8a-1]: Integrà tras la cifra 2 da l’agiunta da l’O dals 21 da nov. 2007 davart l’armonisaziun dals registers ([AS 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^8a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^8a-3]: [SR 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
 
 #### Art. 9
 
@@ -378,7 +383,7 @@ A l’annunzia ston vegnir agiuntads ils suandants documents:
 <sup>4</sup> L’uffizi dal stadi civil tegna en salv l’annunzia ensemen cun ils auters documents. Ils artitgels 31–33 èn applitgabels tenor il senn.
 
 [^9b-1]: Integrà tras la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^9b-2]: Il formular po vegnir chargià giu gratuitamain da la pagina d’internet www.eazw.admin.ch.
+[^9b-2]: Il formular tudestg po vegnir chargià giu gratuitamain da la pagina d’internet [www.bj.admin.ch/bj/de/home/gesellschaft/zivilstand.html](https://www.bj.admin.ch/bj/de/home/gesellschaft/zivilstand.html).
 
 #### Art. 9c
 
@@ -408,18 +413,19 @@ Sco uffant chattà vala in uffant mess a l’abandun da derivanza nunenconuschen
 
 <sup>3</sup> Exclusa è la documentaziun da la renconuschientscha d’in uffant adoptà.
 
-<sup>4</sup> En ils cas tenor l’artitgel 260 alinea 2 CCS sto il represchentant legal dar il consentiment en scrit. Las cumpetenzas da represchentanza ston vegnir cumprovadas e las suttascripziuns ston vegnir legalisadas.[^11-1]
+<sup>4</sup> En ils cas tenor l’artitgel 260 alinea 2 CCS sto il represchentant legal[^11-1] dar il consentiment en scrit. Las cumpetenzas da represchentanza ston vegnir cumprovadas e las suttascripziuns ston vegnir legalisadas.[^11-2]
 
-<sup>5</sup> Cun resalva da l’artitgel 71 alinea 1 LDIP[^11-2] po mintga funcziunari dal stadi civil retschaiver la decleraziun da renconuschientscha ed il consentiment dal represchentant legal.[^11-3]
+<sup>5</sup> Cun resalva da l’artitgel 71 alinea 1 LDIP[^11-3] po mintga funcziunari dal stadi civil retschaiver la decleraziun da renconuschientscha ed il consentiment dal represchentant legal.[^11-4]
 
-<sup>6</sup> Sch’il renconuschider u il represchentant legal cumprova ch’igl è evidentamain insupportabel per el da cumparair persunalmain davant l’uffizi dal stadi civil, po la decleraziun respectivamain il consentiment vegnir retschavì en in auter lieu, en spezial en ina clinica, en ina chasa da dimora u en in stabiliment giudizial, ubain tras l’intermediaziun da la represchentanza cumpetenta da la Svizra a l’exteriur.[^11-4]
+<sup>6</sup> Sch’il renconuschider u il represchentant legal cumprova ch’igl è evidentamain insupportabel per el da cumparair persunalmain davant l’uffizi dal stadi civil, po la decleraziun respectivamain il consentiment vegnir retschavì en in auter lieu, en spezial en ina clinica, en ina chasa da dimora u en in stabiliment giudizial, ubain tras l’intermediaziun da la represchentanza cumpetenta da la Svizra a l’exteriur.[^11-5]
 
 <sup>7</sup> La renconuschientscha d’in uffant sto vegnir communitgada – renviond als artitgels 260*a*–260*c* CCS – a la mamma sco er a l’uffant u – suenter sia mort – als descendents.
 
-[^11-1]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^11-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^11-3]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^11-1]: Expressiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)). Questa midada è vegnida resguardada en l’entir decret.
+[^11-2]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^11-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 [^11-4]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^11-5]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 
 #### Art. 11a
 
@@ -489,11 +495,11 @@ Sche l’uffant vegn renconuschì dal bab e sche quai n’è betg l’emprim uff
 
 <sup>1</sup> En connex cun in eveniment che la concerna persunalmain, po la persuna svizra, che ha ses domicil a l’exteriur, u la persuna estra declerar en scrit envers il funcziunari dal stadi civil da vulair suttametter ses num al dretg naziunal (art. 37 al. 2 LDIP[^14-2]).[^14-3]
 
-<sup>2</sup> En connex cun in eveniment da stadi civil ester po ina tala decleraziun vegnir fatga directamain envers l’autoritad da surveglianza u tras intermediaziun da la represchentanza da la Svizra.[^14-4]
+<sup>2</sup> En connex cun in eveniment dal stadi civil ester po ina tala decleraziun vegnir fatga directamain envers l’autoritad da surveglianza u tras intermediaziun da la represchentanza da la Svizra.[^14-4]
 
 <sup>3</sup> Sch’ina persuna svizra fa la decleraziun concernent il num tenor ils artitgels 12, 13, 13*a*, 14*a*, 37 alinea 2 u 3 u 37*a* alinea 3 u 4, vala quai sco decleraziun da vulair suttametter il num al dretg naziunal.[^14-5]
 
-<sup>4</sup> En connex cun in eveniment da stadi civil che la concerna persunalmain, po la persuna svizra, che ha ses domicil a l’exteriur, u la persuna estra declerar en scrit envers il funcziunari dal stadi civil da vulair suttametter al dretg naziunal l’inscripziun da la schlattaina en il register dal stadi civil e la midada dals prenums che resulta qua tras (art. 40*a* LDIP).[^14-6]
+<sup>4</sup> En connex cun in eveniment dal stadi civil che la concerna persunalmain, po la persuna svizra, che ha ses domicil a l’exteriur, u la persuna estra declerar en scrit envers il funcziunari dal stadi civil da vulair suttametter al dretg naziunal l’inscripziun da la schlattaina en il register dal stadi civil e la midada dals prenums che resulta qua tras (art. 40*a* LDIP).[^14-6]
 
 <sup>5</sup> Sch’ina persuna svizra fa ina decleraziun concernent la midada da la schlattaina inscritta en il register dal stadi civil tenor l’artitgel 14*b*, vala quai sco decleraziun da vulair suttametter la schlattaina al dretg naziunal.[^14-7]
 
@@ -537,9 +543,9 @@ Sche l’uffant vegn renconuschì dal bab e sche quai n’è betg l’emprim uff
 
 <sup>1</sup> Mintga persuna vegn inscritta mo ina giada en il register dal stadi civil. L’artitgel 15*b* resta resalvà.[^15-2]
 
-<sup>2</sup> La documentaziun d’in eveniment da stadi civil u d’in fatg da stadi civil premetta che las datas actualas da las persunas pertutgadas sajan disponiblas en il register dal stadi civil; questa premissa croda tar la documentaziun da la naschientscha d’in uffant chattà (art. 10) e da la mort d’ina persuna nunenconuschenta.
+<sup>2</sup> La documentaziun d’in eveniment dal stadi civil u d’in fatg dal stadi civil premetta che las datas actualas da las persunas pertutgadas sajan disponiblas en il register dal stadi civil; questa premissa croda tar la documentaziun da la naschientscha d’in uffant chattà (art. 10) e da la mort d’ina persuna nunenconuschenta.
 
-<sup>3</sup> Ils eveniments da stadi civil d’ina persuna vegnan documentads en successiun cronologica.
+<sup>3</sup> Ils eveniments dal stadi civil d’ina persuna vegnan documentads en successiun cronologica.
 
 <sup>4</sup> Las unitads da datas (totalitad da las datas davart ina persuna) da las persunas ch’il register dal stadi civil cuntegna vegnan colliadas ina cun l’autra sin basa da las relaziuns da dretg da famiglia. Sche la relaziun giuridica vegn abolida, croda la colliaziun.
 
@@ -558,7 +564,7 @@ Sche l’uffant vegn renconuschì dal bab e sche quai n’è betg l’emprim uff
 
 Ina persuna estra, da la quala las datas n’èn betg disponiblas, vegn inscritta en il register dal stadi civil, sch’ella:
 
-- a. è pertutgada d’in eveniment u d’ina decleraziun da stadi civil che sto vegnir documentada en Svizra;
+- a. è pertutgada d’in eveniment u d’ina decleraziun dal stadi civil che sto vegnir documentada en Svizra;
 - b. fa la dumonda da survegnir il dretg da burgais svizzer;
 - c. fa la dumonda d’inscriver la constituziun d’in mandat preventiv (art. 8 lit. k cifra 1).[^15a-2]
 
@@ -566,7 +572,9 @@ Ina persuna estra, da la quala las datas n’èn betg disponiblas, vegn inscritt
 
 <sup>3</sup> Sch’i n’è betg pussaivel u pretendibel ch’ina persuna estra preschentia – en connex cun l’inscripziun en il register dal stadi civil – ils documents necessaris davart ses stadi civil, vegni examinà, sch’igl è pussaivel d’acceptar ina decleraziun tenor l’artitgel 41 alinea 1 CCS.
 
-<sup>4</sup> Sche l’inscripziun tenor l’alinea 2 vegn fatga areguard la registraziun da las indicaziuns davart la derivanza d’in uffant entaifer in temp util, vegni renunzià en cas excepziunals motivads da registrar singulas datas davart il stadi civil da la mamma e dal bab.
+<sup>4</sup> Sche l’inscripziun vegn fatga a chaschun d’ina naschientscha u d’ina renconuschientscha d’in uffant e sche las indicaziuns davart ils geniturs na pon betg vegnir cumprovadas en moda giuridicamain suffizienta entaifer in temp util, vegni renunzià, en cas excepziunals motivads, d’inscriver singulas datas davart il stadi civil dals geniturs.[^15a-4]
+
+<sup>4bis</sup> Ina tala renunzia n’è betg pussaivla per l’indicaziun dal num, dal prenum, da la schlattaina e da la data da naschientscha. Sche questas indicaziuns na pon betg vegnir cumprovadas en moda giuridicamain suffizienta entaifer in temp util, vegnan ils geniturs, en cas excepziunals motivads, inscrits en il register dal stadi civil cun il num, il prenum, la schlattaina, la data da naschientscha sco er la cun remartga «datas persunalas betg verifitgadas».[^15a-5]
 
 <sup>5</sup> Sche l’inscripziun tenor l’alinea 2 vegn fatga areguard la documentaziun da la mort entaifer in temp util, vegni renunzià en cas excepziunals motivads da registrar singulas datas davart il stadi civil da la persuna defuncta.
 
@@ -575,6 +583,8 @@ Ina persuna estra, da la quala las datas n’èn betg disponiblas, vegn inscritt
 [^15a-1]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^15a-2]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^15a-3]: Integrà tras la cifra I da l’O dals 7 da nov. 2012 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Abolì tras la cifra I da l’O dals 27 d’oct. 2021, cun effect dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^15a-4]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^15a-5]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 15b
 
@@ -899,29 +909,40 @@ Titels e grads na vegnan betg endatads.
 
 **Nums locals**[^26-1]
 
+<sup>1</sup>
+
 Sco lieu da l’eveniment vegn documentà:
 
 - a. il num da la vischnanca svizra tenor la glista uffiziala da las vischnancas da la Svizra;
 - b. il num dal stadi ester u da la regiun cunfinabla geograficamain che ha ina impurtanta naziunala; nums da citads, da quartiers, da lieus e da repartiziuns dal territori vegnan endatads sco indicaziuns supplementaras sco ch’els èn scrits en ils documents d’identitad decisivs ed uschenavant ch’il set da caracters da standard tenor l’artitgel 80 permetta quai.
 
+<sup>2</sup> Il num dal stadi ester vegn documentà cun la furma curta tenor la «Glista da las designaziuns dals stadis»[^26-2], che vegn manada da la Chanzlia federala.[^26-3]
+
+<sup>3</sup> Sch’il lieu da l’eveniment sa chatta en in territori, nua che l’appartegnientscha ad in stadi è contestada, vegn il num dal stadi documentà sco lieu da l’eveniment tenor la glista dals codes dals stadis e dals territoris per las statisticas da la Confederaziun[^26-4].[^26-5]
+
 [^26-1]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^26-2]: La glista tudestga da las designaziuns dals stadis po vegnir consultada gratuitamain sut: [www.bk.admin.ch](http://www.bk.admin.ch) &gt; Dokumentation &gt; Sprachen &gt; Hilfsmittel für Textredaktion und Übersetzung &gt; Liste der Staatenbezeichnungen.
+[^26-3]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^26-4]: La glista tudestga dals codes dals stadis e dals territoris per las statisticas da la Confederaziun po vegnir consultada gratuitamain sut [www.bfs.admin.ch](http://www.bfs.admin.ch) &gt; Grundlagen und Erhebungen &gt; Staaten und Gebiete.
+[^26-5]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 27
 
-**Naziunalitad estra ed apatridia**
+[^27-1]
 
-Registradas vegnan:
+[^27-1]: Abolì tras la cifra I da l’O dals 26 da zer. 2024, cun effect dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
-- a. naziunalitads estras, sch’ina persuna na posseda betg il dretg da burgais svizzer;
-- b. l’apatridia.
+### 4. secziun Documentar
 
-### 4. secziun Terminar
+[^chap3-sec4-1]
+
+[^chap3-sec4-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 28
 
-<sup>1</sup> La documentaziun legalmain valaivla da las datas davart il stadi civil succeda cun la funcziun dal terminar.
+<sup>1</sup> Las datas davart il stadi civil vegnan documentadas en moda giuridicamain valaivla en il register dal stadi civil cun la funcziun da la documentaziun.
 
-<sup>2</sup> Terminar dastgan mo funcziunaris dal stadi civil che han ils dretgs d’access correspundents (art. 79) s’identifitgond persunalmain sco utilisaders.
+<sup>2</sup> Documentar dastgan mo funcziunaris dal stadi civil che han ils dretgs d’access correspundents (art. 79) e che utiliseschan lur identificaziun persunala.
 
 ### 5. secziun Rectificaziun
 
@@ -929,37 +950,58 @@ Registradas vegnan:
 
 **Tras las autoritads dal stadi civil**
 
-<sup>1</sup> La rectificaziun administrativa da la documentaziun da datas davart il stadi civil tenor l’artitgel 43 CCS vegn fatga sin disposiziun da l’autoritad da surveglianza; sch’inexactadads vegnan constatadas avant che documentar in nov eveniment da stadi civil, pon quellas però vegnir rectifitgadas en atgna cumpetenza da l’uffizi dal stadi civil fallibel.[^29-1]
+<sup>1</sup> La rectificaziun administrativa da la documentaziun da datas davart il stadi civil tenor l’artitgel 43 CCS vegn fatga sin disposiziun da l’autoritad da surveglianza; sch’inexactadads vegnan constatadas avant che documentar in nov eveniment dal stadi civil, pon quellas però vegnir rectifitgadas en atgna cumpetenza da l’uffizi dal stadi civil fallibel.[^29-1]
 
-<sup>2</sup> Sche pliras autoritads da surveglianza èn pertutgadas, sto la rectificaziun vegnir fatga tenor las directivas dal UFSC.
+<sup>2</sup>
 
-<sup>3</sup> e <sup>4</sup> …[^29-2]
+Sche pliras autoritads da surveglianza èn pertutgadas, è la rectificaziun chaussa da quella autoritad da surveglianza:
+
+- a. che ha documentà l’emprima giada las datas davart il stadi civil che duain vegnir rectifitgadas; u
+- b. che sto documentar posteriuramain eveniments u fatgs dal stadi civil ch’èn capitads avant l’ultima documentaziun.[^29-2]
+
+<sup>3</sup> Sche las cumpetenzas n’èn betg cleras, vegn la rectificaziun fatga tenor las directivas dal UFSC.[^29-3]
+
+<sup>4</sup> …[^29-4]
 
 [^29-1]: Versiun tenor la cifra I da l’O dals 28 da zer. 2006, en vigur dapi il 1. da schan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^29-2]: Abolì tras la cifra I da l’O dals 4 da zer. 2010, cun effect dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^29-2]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^29-3]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^29-4]: Abolì tras la cifra I da l’O dals 4 da zer. 2010, cun effect dapi ils 1 da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+
+#### Art. 29a
+
+**Rectificaziuns tras in’autoritad dal stadi civil d’in auter chantun**[^29a-1]
+
+Sch’in chantun na dispona – pervia d’ina mancanza da persunal temporara – betg d’ina persuna adattada per rectifitgar las datas davart il stadi civil, pon las rectificaziuns vegnir exequidas durant in temp limità tras in’autoritad dal stadi civil d’in auter chantun en enclegientscha cun il UFSC.
+
+[^29a-1]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 30
 
-**Tras las dretgiras**
+**Tras las dretgiras**[^30-1]
 
-<sup>1</sup> Cun resalva da l’artitgel 29 decidan las dretgiras davart la rectificaziun da la documentaziun da datas davart il stadi civil (art. 42 CCS).
+<sup>1</sup> Sch’ina dretgira ha ordinà ina rectificaziun, vegn quella exequida tras l’autoritad da surveglianza al lieu da la dretgira.
 
-<sup>2</sup> …[^30-1]
+<sup>2</sup> Sche plirs chantuns èn pertutgads, sa drizza la cumpetenza tenor il senn da l’artitgel 29.
 
-[^30-1]: Abolì tras la cifra II 2 da l’O dals 18 da zer. 2010 davart l’adattaziun d’ordinaziuns al Cudesch da procedura civila svizzer, cun effect dapi il 1. da schan. 2011 ([AS 2010 3053](https://fedlex.data.admin.ch/eli/oc/2010/410)).
+[^30-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 ### 6. secziun Mussaments
 
 #### Art. 31
 
-**Deposit**
+**Deposit**[^31-1]
 
-<sup>1</sup> Ils chantuns procuran per in deposit cunvegnent dals mussaments concernent la documentaziun da datas davart il stadi civil (art. 7).
+<sup>1</sup> Ils chantuns èn responsabels per deponer en moda cunvegnenta e segira ils mussaments ch’èn vegnids duvrads per documentar las datas davart il stadi civil (art. 7) sco er ils documents davart ulteriuras datas administradas en il register dal stadi civil (art. 8).
 
-<sup>2</sup> Ils mussaments tenor l’alinea 1, che ston vegnir transmess al Secretariat da stadi per migraziun en applicaziun da l’artitgel 2*b* da l’Ordinaziun d’asil 1 dals 11 d’avust 1999[^31-1], vegnan tegnids en salv da questa autoritad. Ella metta a disposiziun ils mussaments a las autoritads dal stadi civil.[^31-2]
+<sup>2</sup> La Confederaziun metta a disposiziun als chantuns la pussaivladad da deponer ils mussaments en furma electronica en in sistem central.
 
-[^31-1]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
-[^31-2]: Integrà tras la cifra III 1 da l’O dals 8 da zer. 2018, en vigur dapi il 1. da mars 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+<sup>3</sup> Ils uffizis dal stadi civil ston deponer ils mussaments en furma electronica, sche pliras autoritads da surveglianza èn pertutgadas d’ina rectificaziun da datas davart il stadi civil e sche la cumpetenza sa drizza tenor l’artitgel 29 alinea 2.
+
+<sup>4</sup> Ils mussaments ch’èn vegnids duvrads per documentar las datas davart il stadi civil e che vegnan transmess al Secretariat da stadi per migraziun tenor l’artitgel 2*b* da l’Ordinaziun d’asil 1 dals 11 d’avust 1999[^31-2], vegnan tegnids en salv da questa autoritad. Ella metta a disposiziun ils mussaments a las autoritads dal stadi civil.
+
+[^31-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^31-2]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
 
 #### Art. 32
 
@@ -967,7 +1009,12 @@ Registradas vegnan:
 
 <sup>1</sup> Ils mussaments ston vegnir tegnids en salv 50 onns.
 
-<sup>2</sup> Sch’ils mussaments vegnan segirads sin microfilm u en furma electronica, dastgan els vegnir destruids – cun la permissiun da l’autoritad da surveglianza – suenter 10 onns.
+<sup>2</sup> Sch’ils mussaments sin palpiri vegnan digitalisads e deponids en furma electronica en il sistem central (art. 31 al. 2), pon els vegnir destruids 3 mais suenter ch’els èn vegnids deponids, uschenavant che las persunas pertutgadas han survegnì la pussaivladad da prender enavos ils mussaments sin palpiri ed han desistì explicitamain da far quai.[^32-1]
+
+<sup>3</sup> Per documents dal stadi civil esters e per decisiuns giudizialas ed administrativas estras che na pon betg vegnir restituidas, vegn applitgà l’alinea 1.[^32-2]
+
+[^32-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^32-2]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 33
 
@@ -1030,20 +1077,35 @@ Obligads d’annunziar la mort èn:
 
 <sup>5</sup> Sch’i vegn communitgada la mort u la naschientscha d’in uffant mort, sto vegnir inoltrà in attest d’in medi.
 
-<sup>6</sup> L’uffizi dal stadi civil po pretender ina conferma medicala da la naschientscha, sche l’annunzia vegn fatga d’ina persuna menziunada en l’artitgel 34 litera b<sup>bis</sup>. Sche la mamma è maridada cun ina dunna il mument da la naschientscha e sche l’uffant è vegnì schendrà tras ina donaziun da sperma tenor las disposiziuns da la Lescha dals 18 da december 1998[^35-5] davart la medischina da reproducziun (LRAM), sto vegnir preschentada ina conferma medicala da la schendrientscha tras ina donaziun da sperma tenor la LRAM en ils cas che la naschientscha vegn annunziada d’ina persuna menziunada en l’artitgel 34 litera b<sup>bis</sup>.[^35-6]
+<sup>6</sup> L’uffizi dal stadi civil po pretender ina conferma medicala da la naschientscha, sche l’annunzia vegn fatga d’ina persuna menziunada en l’artitgel 34 litera b<sup>bis</sup>.[^35-5]
 
-<sup>7</sup> Sche l’annunzia vegn fatga sin palpiri, sto ella vegnir suttascritta da la persuna ch’è obligada da far l’annunzia.[^35-7]
+<sup>6bis</sup> Sche la mamma è maridada cun ina dunna il mument da la naschientscha e sche l’uffant è vegnì schendrà tras ina donaziun da sperma tenor las disposiziuns da la Lescha dals 18 da december 1998[^35-6] davart la medischina da reproducziun (LRAM), sto quai vegnir cumprovà envers l’uffizi dal stadi civil tras ina conferma en scrit dal medi tractant, ch’è obligà d’annunziar la naschientscha tenor l’artitgel 25 LRAM. Il mussament po vegnir inoltrà a l’uffizi dal stadi civil che ha documentà la naschientscha, quai ensemen cun l’annunzia da la naschientscha u posteriuramain.[^35-7]
 
-<sup>8</sup> La transmissiun electronica d’annunzias e d’attestaziuns medicalas sa drizza tenor l’artitgel 89 alinea 4.[^35-8]
+<sup>7</sup> Sche l’annunzia vegn fatga sin palpiri, sto ella vegnir suttascritta da la persuna ch’è obligada da far l’annunzia.[^35-8]
+
+<sup>8</sup> La transmissiun electronica d’annunzias e d’attestaziuns medicalas sa drizza tenor l’artitgel 89 alinea 4.[^35-9]
 
 [^35-1]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
 [^35-2]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^35-3]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^35-4]: Versiun da la segunda frasa tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^35-5]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
-[^35-6]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Versiun tenor la cifra I da l’O dals 30 da mars 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^35-7]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-5]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)). Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^35-6]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^35-7]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 [^35-8]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^35-9]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+
+#### Art. 35a
+
+**Naschientscha d’in uffant cun ina varianta dal svilup da la schlattaina**[^35a-1]
+
+<sup>1</sup> Sche la schlattaina dal novnaschì na po betg vegnir constatada definitivamain e sche quai vegn confermà tras in attest d’in medi, po la naschientscha vegnir annunziada e documentada, per il mument, senza inditgar la schlattaina.
+
+<sup>2</sup> Il pli tard 3 mais suenter il di da la naschientscha sto la schlattaina vegnir annunziada a l’uffizi dal stadi civil che ha documentà la naschientscha. Obligads d’annunziar la schlattaina èn ils geniturs da l’uffant. A medem temp pon els dar novs prenums a l’uffant.
+
+<sup>3</sup> La schlattaina annunziada posteriuramain sto vegnir documentada sin ordinaziun da l’autoritad chantunala da surveglianza dal stadi civil. Sche necessari ordinescha tala, che l’inscripziun dals prenums da l’uffant vegnia rectifitgada.
+
+[^35a-1]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 36
 
@@ -1245,12 +1307,18 @@ Las dretgiras communitgeschan las sentenzias e las renconuschientschas d’uffan
 
 La redacziun da documents dal stadi civil sin empustaziun è chaussa dals suandants uffizis dal stadi civil:
 
-- a. Documents davart eveniments da stadi civil vegnan emess da l’uffizi dal stadi civil che ha documentà l’eveniment.
-- b. Attests davart il stadi civil e davart il stadi da famiglia vegnan emess da l’uffizi dal stadi civil dal lieu d’origin u, sche la persuna na posseda betg il dretg da burgais svizzer, da l’uffizi dal stadi civil dal domicil u da la dimora u da l’ultim domicil.
-- c. Certificats da famiglia e certificats davart il partenadi registrà pon ultra da quai vegnir emess, renovads u remplazzads da l’uffizi dal stadi civil che ha documentà l’ultim eveniment concernent la persuna pertutgada.
-- d. Extracts dals registers dal stadi civil manads sin palpiri vegnan emess da l’uffizi dal stadi civil che tegna en salv il register (art. 92*a* al. 1).
+- a. documents davart eveniments dal stadi civil vegnan emess da l’uffizi dal stadi civil che ha documentà l’eveniment;
+- b. attests davart il stadi civil e davart il stadi da famiglia vegnan emess da l’uffizi dal stadi civil dal lieu d’origin u, sche la persuna na posseda betg il dretg da burgais svizzer, da l’uffizi dal stadi civil dal domicil u da la dimora u da l’ultim domicil;
+- c. certificats da famiglia e certificats davart il partenadi registrà pon ultra da quai vegnir emess, renovads u remplazzads da l’uffizi dal stadi civil che ha documentà l’ultim eveniment concernent la persuna pertutgada;
+- d. extracts dals registers dal stadi civil manads sin palpiri vegnan emess da l’uffizi dal stadi civil che tegna en salv il register (art. 92*a* al. 1).
+
+<sup>3</sup> Sche la persuna petenta giavischa infurmaziuns davart tschertas datas e sch’i n’è betg cler per ella, tge uffizi dal stadi civil ch’è cumpetent per la communicaziun da las datas, la renviescha il UFSC – sch’el posseda las infurmaziuns necessarias – sin dumonda a l’uffizi cumpetent.[^44a-2]
+
+<sup>4</sup> Sche plirs uffizis dal stadi civil èn cumpetents e sch’i resultass extraordinariamain blera lavur, en cas che plirs uffizis elavurassan la dumonda, po il UFSC decider, tge uffizi ch’è cumpetent per communitgar las datas, u communitgar sez las datas.[^44a-3]
 
 [^44a-1]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^44a-2]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^44a-3]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 45
 
@@ -1258,9 +1326,10 @@ La redacziun da documents dal stadi civil sin empustaziun è chaussa dals suanda
 
 <sup>1</sup> …[^45-1]
 
-<sup>2</sup> Datas davart il stadi civil che n’èn anc betg vegnidas documentadas cun vigur legala (art. 28), che ston vegnir rectifitgadas (art. 29 e 30) u ch’èn bloccadas (art. 46), dastgan vegnir communitgadas mo cun la permissiun da l’autoritad da surveglianza.
+<sup>2</sup> Datas davart il stadi civil che n’èn betg sin il stadi il pli actual (art. 16 al. 1 lit. c) u che n’èn anc betg vegnidas documentadas cun vigur legala (art. 28), che ston vegnir rectifitgadas (art. 29 e 30) u ch’èn bloccadas (art. 46), dastgan vegnir communitgadas mo cun la permissiun da l’autoritad da surveglianza.[^45-2]
 
 [^45-1]: Abolì tras la cifra I da l’O dals 4 da zer. 2010, cun effect dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^45-2]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 46
 
@@ -1272,9 +1341,10 @@ L’autoritad da surveglianza procura per la bloccada da la communicaziun da dat
 
 - a. sin dumonda u d’uffizi, sche quai è inevitabel u previs tenor lescha per proteger la persuna pertutgada;
 - b.[^46-1] sin basa d’ina disposiziun giudiziala;
-- c.[^46-2] en vista ad ina decisiun giudiziala sco mesira superprovisorica; in med legal applitgà n’ha nagin effect suspensiv.
+- c.[^46-2] en vista ad ina decisiun giudiziala sco mesira superprovisorica; in med legal applitgà n’ha nagin effect suspensiv;
+- d.[^46-3] sch’ellas n’èn betg actualas e sch’ina actualisaziun è pussaivla en il proxim temp.
 
-<sup>1bis</sup> Sco mesira superprovisorica tenor l’alinea 1 litera c decretescha l’autoritad da surveglianza la bloccada en spezial, sch’i vegn iniziada ina procedura per annullar ina lètg u in partenadi registrà.[^46-3]
+<sup>1bis</sup> Sco mesira superprovisorica tenor l’alinea 1 litera c decretescha l’autoritad da surveglianza la bloccada en spezial, sch’i vegn iniziada ina procedura per annullar ina lètg u in partenadi registrà.[^46-4]
 
 <sup>2</sup> Sche las premissas per la bloccada crodan davent, procura l’autoritad da surveglianza che la bloccada vegnia abolida.
 
@@ -1282,7 +1352,8 @@ L’autoritad da surveglianza procura per la bloccada da la communicaziun da dat
 
 [^46-1]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
 [^46-2]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^46-3]: Integrà tras la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^46-3]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^46-4]: Integrà tras la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 46a
 
@@ -1298,7 +1369,7 @@ L’autoritad da surveglianza procura per la bloccada da la communicaziun da dat
 
 **Furma da la communicaziun**[^47-1]
 
-<sup>1</sup> Eveniments da stadi civil e fatgs da stadi civil sco er datas davart il stadi civil vegnan communitgads sin ils formulars dal stadi civil previs (art. 6) en furma d’in document public.
+<sup>1</sup> Eveniments dal stadi civil e fatgs dal stadi civil sco er datas davart il stadi civil vegnan communitgads sin ils formulars dal stadi civil previs (art. 6) en furma d’in document public.
 
 <sup>2</sup>
 
@@ -1321,7 +1392,7 @@ Sch’i n’è betg previs in formular u sche sia utilisaziun n’è betg cunveg
 
 <sup>1</sup> Ils documents publics e las legalisaziuns sin palpiri ston vegnir datads, attestads sco corrects cun la suttascripziun dal funcziunari dal stadi civil e munids cun il bul uffizial.
 
-<sup>2</sup> Il UFSC decretescha directivas davart la qualitad dal palpiri e davart l’inscripziun da documents dal stadi civil. Per communitgar eveniments da stadi civil, fatgs da stadi civil sco er datas davart il stadi civil sto vegnir duvrà il palpiri da segirezza definì dal UFSC.
+<sup>2</sup> Il UFSC decretescha directivas davart la qualitad dal palpiri e davart l’inscripziun da documents dal stadi civil. Per communitgar eveniments dal stadi civil, fatgs dal stadi civil sco er datas davart il stadi civil sto vegnir duvrà il palpiri da segirezza definì dal UFSC.
 
 <sup>3</sup> Per la legalisaziun da documents da partenza electronics tenor l’artitgel 18*a* alinea 2 vala l’Ordinaziun dals 8 da december 2017[^47a-2] davart l’emissiun da documents publics electronics e da legalisaziuns electronicas (ODPE), en spezial l’artitgel 17 ODPE.
 
@@ -1377,15 +1448,17 @@ Per la gestiun dal register d’abitants communitgescha l’uffizi dal stadi civ
 - a.[^49-2] la naschientscha, la mort, la decleraziun da spariziun sco er sia aboliziun;
 - b.[^49-3] mintga midada dal num, dal stadi civil, dal dretg da burgais, da la derivanza u da la schlattaina;
 - c. la rectificaziun da las datas davart il stadi civil, uschenavant che quellas han ina influenza sin las datas actualas da la persuna;
-- d. inscripziun ed extincziun d’ina curatella cumplessiva u d’ina constataziun da l’efficacitad d’in mandat preventiv per ina persuna ch’è permanentamain inabla da giuditgar (art. 42 al. 1 lit. c).
+- d.[^49-4] …
 
-<sup>2</sup> La communicaziun cuntegna il numer da la AVS, sch’el è vegnì attribuì dal UCC a la persuna pertutgada (art. 8*a*).
+<sup>2</sup> La communicaziun cuntegna il numer da la AVS[^49-5], sch’el è vegnì attribuì dal UCC a la persuna pertutgada (art. 8*a*).
 
 <sup>3</sup> La datas vegnan furnidas en moda automatisada ed en furma electronica.
 
 [^49-1]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^49-2]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 [^49-3]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^49-4]: Abolì tras la cifra I da l’O dals 26 da zer. 2024, cun effect dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^49-5]: Expressiun tenor la cifra II 8 da l’agiunta da l’O dals 17 da nov. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Questa midada è vegnida resguardada en l’entir decret.
 
 #### Art. 49a
 
@@ -1411,25 +1484,30 @@ Sch’ina persuna posseda en ses lieu d’origin in dretg da burgais u da corpor
 
 L’uffizi dal stadi civil ch’è cumpetent per la documentaziun communitgescha a l’autoritad per la protecziun d’uffants dal domicil da l’uffant:[^50-2]
 
-- a. la naschientscha d’in uffant, dal qual ils geniturs n’èn betg maridads in cun l’auter, sco er sia mort, sche quella capita entaifer l’emprim onn da vita e sch’i na dat quel mument nagina relaziun da figlialanza cun il bab;
+- a.[^50-3] la naschientscha d’in uffant, sch’ina relaziun da figlialanza exista il mument da la naschientscha mo cun in genitur;
 - b. la naschientscha d’in uffant ch’è naschì entaifer 300 dis suenter la mort u suenter la decleraziun da spariziun dal consort da la mamma;
-- c.[^50-3] la renconuschientscha d’in uffant minoren;
-- c<sup>bis</sup>.[^50-4] la decleraziun davart la tgira genituriala cuminaivla ch’è vegnida fatga ensemen cun la renconuschientscha sco er la cunvegna davart l’imputaziun da la bunificaziun d’educaziun;
+- c.[^50-4] la renconuschientscha d’in uffant minoren;
+- c<sup>bis</sup>.[^50-5] la decleraziun davart la tgira genituriala cuminaivla ch’è vegnida fatga ensemen cun la renconuschientscha sco er la cunvegna davart l’imputaziun da la bunificaziun d’educaziun;
+- c<sup>ter</sup>.[^50-6] l’annunzia posteriura d’ina segunda mamma tenor l’artitgel 35 alinea 6<sup>bis</sup>;
 - d. la mort d’in genitur ch’exequescha la tgira genituriala;
+- d<sup>bis</sup>.[^50-7] la mort d’in uffant entaifer ses emprim onn da vita, sch’i n’exista nagina relaziun da figlialanza cun in segund genitur;
 - e. il chat d’in uffant chattà;
-- f.[^50-5] l’adopziun d’in uffant a l’exteriur.
+- f.[^50-8] l’adopziun d’in uffant a l’exteriur.
 
-<sup>2</sup> …[^50-6]
+<sup>2</sup> …[^50-9]
 
-<sup>3</sup> L’autoritad da surveglianza communitgescha a l’autoritad per la protecziun d’uffants, che sa chatta al domicil da la persuna en dumonda, l’entrada d’ina dumonda per la renconuschientscha d’ina lètg ch’è vegnida concludida a l’exteriur cun ina persuna minorenna.[^50-7]
+<sup>3</sup> L’autoritad da surveglianza communitgescha a l’autoritad per la protecziun d’uffants, che sa chatta al domicil da la persuna en dumonda, l’entrada d’ina dumonda per la renconuschientscha d’ina lètg ch’è vegnida concludida a l’exteriur cun ina persuna minorenna.[^50-10]
 
 [^50-1]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
 [^50-2]: Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^50-3]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
-[^50-4]: Integrà tras la cifra I da l’O dals 14 da matg 2014, en vigur dapi il 1. da fan. 2014, segunda part da la frasa dapi il 1. da schan. 2015 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
-[^50-5]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^50-6]: Abolì tras la cifra I da l’O dals 27 d’oct. 2021, cun effect dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^50-7]: Integrà tras la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
+[^50-3]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^50-4]: Versiun tenor la cifra I da l’O dals 7 da nov. 2012, en vigur dapi il 1. da schan. 2013 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)).
+[^50-5]: Integrà tras la cifra I da l’O dals 14 da matg 2014, en vigur dapi il 1. da fan. 2014, segunda part da la frasa dapi il 1. da schan. 2015 ([AS 2014 1327](https://fedlex.data.admin.ch/eli/oc/2014/282)).
+[^50-6]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^50-7]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^50-8]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
+[^50-9]: Abolì tras la cifra I da l’O dals 27 d’oct. 2021, cun effect dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^50-10]: Integrà tras la cifra I da l’O dals 27 da mars 2013, en vigur dapi il 1. da fan. 2013 ([AS 2013 1045](https://fedlex.data.admin.ch/eli/oc/2013/229)).
 
 #### Art. 51
 
@@ -1437,7 +1515,7 @@ L’uffizi dal stadi civil ch’è cumpetent per la documentaziun communitgescha
 
 <sup>1</sup>
 
-L’uffizi dal stadi civil ch’è cumpetent per la documentaziun communitgescha al Secretariat da stadi per migraziun ils suandants eveniments da stadi civil e las suandantas midadas da datas davart il stadi civil che concernan persunas cun basegn da protecziun, requirents d’asil, requirents d’asil refusads, persunas admessas provisoricamain, fugitivs admess provisoricamain u fugitivs cun ina permissiun da dimora u da domicil:[^51-3]
+L’uffizi dal stadi civil ch’è cumpetent per la documentaziun communitgescha al Secretariat da stadi per migraziun ils suandants eveniments dal stadi civil e las suandantas midadas da datas davart il stadi civil che concernan persunas cun basegn da protecziun, requirents d’asil, requirents d’asil refusads, persunas admessas provisoricamain, fugitivs admess provisoricamain u fugitivs cun ina permissiun da dimora u da domicil:[^51-3]
 
 - a. naschientschas;
 - b.[^51-4] constituziuns ed annullaziuns da relaziuns da figlialanza;
@@ -1457,7 +1535,7 @@ L’uffizi dal stadi civil ch’è cumpetent per la documentaziun communitgescha
 
 **A l’Uffizi federal da statistica**
 
-<sup>1</sup> L’Uffizi federal da statistica survegn las indicaziuns statisticas tenor l’Ordinaziun dals 30 zercladur 1993[^52-1] davart la realisaziun da las retschertgas statisticas federalas.
+<sup>1</sup> L’Uffizi federal da statistica survegn las indicaziuns statisticas tenor l’Ordinaziun dals 30 zercladur 1993[^52-1] davart la realisaziun da retschertgas statisticas federalas.
 
 <sup>2</sup> La datas vegnan furnidas en moda automatisada ed en furma electronica.[^52-2]
 
@@ -1544,7 +1622,11 @@ L’annunzia vegn fatga immediatamain e cuntegna las suandantas indicaziuns, usc
 
 **A dretgiras ed ad autoritads administrativas**
 
-Las autoritads dal stadi civil èn obligadas da communitgar a dretgiras ed ad autoritads administrativas sin dumonda las datas davart il stadi civil ch’èn necessarias per ademplir lur incumbensas legalas.
+<sup>1</sup> Las autoritads dal stadi civil èn obligadas da communitgar a las dretgiras ed a las autoritads administrativas svizras, sin dumonda, las datas davart il stadi civil ch’èn necessarias per ademplir lur incumbensas legalas.
+
+<sup>2</sup> Il medem status sco dumondas da las dretgiras e da las autoritads administrativas svizras han dumondas da la Crusch Cotschna Svizra en il rom da l’adempliment da sias incumbensas, en spezial sch’i sa tracta da la tschertga da l’origin e da la tschertga da persunas sparidas.[^58-1]
+
+[^58-1]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 59
 
@@ -2000,10 +2082,10 @@ Il UFG è responsabel per segirar las datas dal sistem.
 
 **Caracters**[^80-1]
 
-Las datas vegnan registradas tenor il set da caracters (norma ISO 8859-15[^80-2]).
+Las datas vegnan registradas tenor il set da caracters da la norma ISO 8859-1 + Latin Extended-A[^80-2].
 
-[^80-1]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^80-2]: La norma pon ins retrair tar l’Associaziun svizra per normas, Sulzerallee 70, 8404 Winterthur; www.snv.ch. Ella po er vegnir consultada en l’internet sin la pagina da l’Organisaziun internaziunala da normalisaziun (www.iso.org).
+[^80-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^80-2]: La norma po vegnir retratga cunter pajament tar l’Associaziun svizra per normas (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch). Ella po er vegnir consultada gratuitamain en l’internet sin la pagina da l’Organisaziun internaziunala da normalisaziun sut [www.iso.org](http://www.iso.org).
 
 ## 9. chapitel Protecziun e segirezza da las datas
 
@@ -2054,21 +2136,29 @@ Las datas vegnan registradas tenor il set da caracters (norma ISO 8859-15[^80-2]
 
 **Autoritads**
 
-<sup>1</sup> Il UFSC ha la surveglianza suprema dal stadi civil svizzer.[^84-1]
+<sup>1</sup> Il UFSC ha la surveglianza suprema dal stadi civil svizzer e procura ch’il dretg federal vegnia applitgà en moda correcta ed unitara.[^84-1]
 
 <sup>2</sup> Las autoritads da surveglianza procuran per l’execuziun fidada e professiunala dal stadi civil en lur chantun. Plirs chantuns pon prevair ina repartiziun da las incumbensas u unir lur autoritads da surveglianza. En enclegientscha cun il UFSC fan els las cunvegnas necessarias.
 
 <sup>3</sup>
 
-Il UFSC ha en spezial las suandantas incumbensas:[^84-2]
+Il UFSC exequescha la surveglianza suprema en spezial cun:
 
-- a.[^84-3] decretar directivas, en spezial davart la documentaziun dal stadi civil, davart la preparaziun e la celebraziun da la maridaglia, davart la recepziun e la documentaziun da decleraziuns sco er davart la segirada dals registers e dals mussaments;
-- b. inspecziunar ils uffizis dal stadi civil, las autoritads da surveglianza ed ils archivs chantunals dal stadi civil;
-- c.[^84-4] …
+- a. decretar directivas;
+- b. decretar e metter a disposiziun formulars dal stadi civil obligatorics e facultativs;
+- c. inspectar las autoritads da surveglianza sco er ils archivs chantunals dal stadi civil;
+- d. retschaiver ils rapports d’inspecziun che vegnan suttamess periodicamain dals chantuns (art. 85 al. 2);
+- e. preparar ed approvar ils decrets chantunals dal sectur dal stadi civil (art. 49 al. 3 CCS);
+- f. preparar ils recurs dal UFG cunter decisiuns chantunalas en fatgs dal stadi civil (art. 90 al. 4);
+- g. cussegliar e sustegnair las autoritads chantunalas dal stadi civil e las represchentanzas svizras en dumondas dal stadi civil;
+- h. scolar ils collavuraturs consulars en fatgs dal stadi civil;
+- i. procurar per la confurmitad dal register dal stadi civil cun las prescripziuns giuridicas dal dretg federal;
+- j. defender ils interess da la Svizra en la Cumissiun internaziunala dal stadi civil (CIEC);
+- k. examinar dumondas da communicaziun da datas dal stadi civil ad autoritads estras (art. 61).[^84-2]
 
 <sup>4</sup> Per barattar e per procurar per documents dal stadi civil po el tractar directamain cun las represchentanzas da la Svizra a l’exteriur sco er cun autoritads ed uffizis esters.
 
-<sup>5</sup> Il UFG[^84-5] po concluder independentamain contracts internaziunals d’impurtanza limitada en il sectur dal barat e da la procuraziun da datas davart il stadi civil.[^84-6]
+<sup>5</sup> Il UFG[^84-3] po concluder independentamain contracts internaziunals d’impurtanza limitada en il sectur dal barat e da la procuraziun da datas davart il stadi civil.[^84-4]
 
 <sup>6</sup>
 
@@ -2078,15 +2168,13 @@ Il SIS è responsabel per il aspects tecnics da la gestiun, dal svilup e da la s
 - b. realisar inspecziuns tecnicas;
 - c. tgirar ils registers da las vischnancas e dals lieus d’origin;
 - d. barattar e procurar per documents dal stadi civil;
-- e. armonisar ils registers cun il numer da la AVS.[^84-7]
+- e. armonisar ils registers cun il numer da la AVS.[^84-5]
 
-[^84-1]: Versiun tenor la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^84-2]: Versiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^84-3]: Versiun tenor la cifra I da l’O dals 30 da mars 2022, en vigur dapi il 1. da fan. 2022 ([AS 2022 243](https://fedlex.data.admin.ch/eli/oc/2022/243)).
-[^84-4]: Abolì tras la cifra I da l’O dals 31 d’oct. 2018, cun effect dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
-[^84-5]: Expressiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Questa midada è vegnida resguardada en l’entir decret.
-[^84-6]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
-[^84-7]: Integrà tras la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
+[^84-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^84-2]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^84-3]: Expressiun tenor la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)). Questa midada è vegnida resguardada en l’entir decret.
+[^84-4]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^84-5]: Integrà tras la cifra I da l’O dals 31 d’oct. 2018, en vigur dapi il 1. da schan. 2019 ([AS 2018 4309](https://fedlex.data.admin.ch/eli/oc/2018/693)).
 
 #### Art. 85
 
@@ -2133,9 +2221,11 @@ Las autoritads da surveglianza rapportan al UFSC annualmain davart:[^85-1]
 
 #### Art. 88
 
-[^88-1]
+**Adattaziun tecnica da gruppas da datas davart il stadi civil**[^88-1]
 
-[^88-1]: Abolì tras la cifra II 1 da l’O dals 12 da sett. 2007 davart l’aboliziun e l’adattaziun d’ordinaziuns en il rom da la reordinaziun da las cumissiuns extraparlamentaras, cun effect dapi il 1. da schan. 2008 ([AS 2007 4525](https://fedlex.data.admin.ch/eli/oc/2007/637)).
+Sch’ina adattaziun puramain tecnica e da medema natira è necessaria tar ina gruppa da datas davart il stadi civil documentadas, po il UFSC incaricar il SIS, tras ina disposiziun en scrit, d’adattar questas datas en il register dal stadi civil.
+
+[^88-1]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 ## 11. chapitel Proceduras e meds legals
 
@@ -2221,19 +2311,22 @@ Suenter l’introducziun dal sistem da documentaziun Infostar na dastgan betg pl
 
 Ils originals dals registers dal stadi civil manads per mintga circul dal stadi civil ston esser accessibels per l’uffizi dal stadi civil cumpetent tenor il dretg chantunal almain durant las suandantas periodas:
 
-- a. register da las naschientschas a partir dal 1. da schaner 1900;
-- b. register matrimonial a partir dal 1. da schaner 1930;
-- c. register dals mortoris a partir dal 1. da schaner 1960;
+- a.[^92a-2] register da las naschientschas 110 onns;
+- b.[^92a-3] register matrimonial 80 onns;
+- c.[^92a-4] register dals mortoris 50 onns;
 - d. register da famiglia e register da las renconuschientschas a partir da lur introducziun.
 
-<sup>1bis</sup> Ils originals dals registers ch’èn vegnids manads da las represchentanzas svizras a l’exteriur incumbensadas dal DFGP cun funcziuns d’uffizi dal stadi civil, ston esser accessibels al UFSC durant las periodas numnadas en l’alinea 1.[^92a-2]
+<sup>1bis</sup> Ils originals dals registers ch’èn vegnids manads da las represchentanzas svizras a l’exteriur incumbensadas dal DFGP cun funcziuns d’uffizi dal stadi civil, ston esser accessibels al UFSC durant las periodas numnadas en l’alinea 1.[^92a-5]
 
 <sup>2</sup> Ils originals pon vegnir remplazzads tras purtaders electronics da datas u tras purtaders electronics da datas u tras copias copias legiblas sin microfilm.
 
 <sup>3</sup> Sch’in access sin purtaders electronics da datas è pussaivel per communitgar las datas, ston vegnir actualisadas las infurmaziuns tenor l’artitgel 93 alinea 1 e las midadas tenor l’artitgel 98 mo en la versiun electronica dal register.
 
 [^92a-1]: Integrà tras la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^92a-2]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^92a-2]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^92a-3]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^92a-4]: Versiun tenor la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^92a-5]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 92b
 
@@ -2338,6 +2431,7 @@ En il register da las naschientschas ston vegnir inscrittas d’uffizi:
 - d. maridaglia posteriuras dals geniturs;
 - e. annullaziuns da la relaziun da figlialanza cun il consort da la mamma;
 - f. midadas dal num da famiglia;
+- f<sup>bis</sup>.[^98-2] adattaziuns da la scripziun dal num sin basa da dumondas tenor l’artitgel 99*f*;
 - g. midadas dal prenum;
 - h. midadas da la schlattaina.
 
@@ -2358,7 +2452,7 @@ A medem temp cun annullar l’inscripziun ston vegnir inscrittas en il register 
 
 <sup>4</sup>
 
-A chaschun da la documentaziun dals suandants eveniments da stadi civil en il register dal stadi civil ston vegnir annulladas en il register da famiglia las inscripziuns pertutgant:
+A chaschun da la documentaziun dals suandants eveniments dal stadi civil en il register dal stadi civil ston vegnir annulladas en il register da famiglia las inscripziuns pertutgant:
 
 - a. l’uffant sin il fegl dal bab giuridic, sche la relaziun da figlialanza cun el è vegnida annullada;
 - b. l’uffant sin il fegl da la mamma biologica e dal bab natiral, sche la relaziun da figlialanza è annullada pervia d’adopziun;
@@ -2366,12 +2460,13 @@ A chaschun da la documentaziun dals suandants eveniments da stadi civil en il re
 
 <sup>5</sup> Las annullaziuns tenor l’alinea 4 vegnan motivadas; fegls ch’èn daventads nunvalaivels tras quai vegnan eliminads.
 
-<sup>6</sup> L’uffizi dal stadi civil ch’è cumpetent per la documentaziun annunzia ils eveniments ed ils fatgs da stadi civil tenor ils alineas 1–4 a l’uffizi dal stadi civil ch’è cumpetent per l’actualisaziun dals registers dal stadi civil manads sin palpiri.
+<sup>6</sup> L’uffizi dal stadi civil ch’è cumpetent per la documentaziun annunzia ils eveniments ed ils fatgs dal stadi civil tenor ils alineas 1–4 a l’uffizi dal stadi civil ch’è cumpetent per l’actualisaziun dals registers dal stadi civil manads sin palpiri.
 
-<sup>7</sup> Ils registers dal stadi civil che valan sco archivalias (art. 6*a* al. 3), na vegnan betg actualisads.[^98-2]
+<sup>7</sup> Ils registers dal stadi civil che valan sco archivalias (art. 6*a* al. 3), na vegnan betg actualisads.[^98-3]
 
 [^98-1]: Versiun tenor la cifra I da l’O dals 4 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
-[^98-2]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
+[^98-2]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
+[^98-3]: Integrà tras la cifra I da l’O dals 26 d’oct. 2016, en vigur dapi il 1. da fan. 2017 ([AS 2016 3925](https://fedlex.data.admin.ch/eli/oc/2016/664)).
 
 #### Art. 99
 
@@ -2427,12 +2522,30 @@ Entaifer 5 onns suenter l’entrada en vigur da questa midada po la dunna che ha
 
 #### Art. 99e
 
-**Disposiziun transitorica da la midada dals 27 d’october 2021**[^99e-1]
+[^99e-1]
 
-Las inscripziuns en il Register svizzer dals funcziunaris da documentaziun tenor l’artitgel 6 alinea 2 ODPE[^99e-2] ston vegnir fatgas entaifer 3 onns suenter l’entrada en vigur da la midada dals 27 d’october 2021.
+[^99e-1]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)). Abolì tras la cifra I da l’O dals 26 da zer. 2024, cun effect dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
-[^99e-1]: Integrà tras la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
-[^99e-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
+#### Art. 99f
+
+**Disposiziuns transitoricas da la midada dals 26 da zercladur 2024**[^99f-1]
+
+<sup>1</sup> Sche las datas d’ina persuna èn vegnidas inscrittas en il register dal stadi civil avant l’entrada en vigur da questa midada, po la persuna pertutgada pretender da mintga uffizi dal stadi civil en Svizra e da la represchentanza svizra a l’exteriur, che ses nums vegnian scrits cun il set da caracters tenor l’artitgel 80 en la versiun da questa midada.
+
+<sup>2</sup>
+
+La dumonda po vegnir inoltrada:
+
+- a. da tut temp en il rom d’in eveniment dal stadi civil ch’è da documentar en il register dal stadi civil;
+- b. a partir dal 1. da schaner 2025 da tut temp ed independentamain d’in eveniment dal stadi civil.
+
+<sup>3</sup> Persunas maridadas che han in num da famiglia cuminaivel, pon inoltrar mo cuminaivlamain la dumonda davart l’adattaziun da la scripziun dal num.
+
+<sup>4</sup> La dumonda per in uffant minoren vegn inoltrada dal represchentant legal. Sche l’uffant ha cumplenì 12 onns, dovri ses consentiment.
+
+<sup>5</sup> Per la dumonda sto vegnir utilisà il formular che vegn mess a disposiziun dal UFSC.
+
+[^99f-1]: Integrà tras la cifra I da l’O dals 26 da zer. 2024, en vigur dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
 #### Art. 100
 
