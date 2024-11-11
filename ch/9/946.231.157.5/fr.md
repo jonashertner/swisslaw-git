@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: "Ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: fr
-version: 2024-05-14
+version: 2024-11-12
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20240514/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20240514-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20240514/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20241112/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20241112-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20241112/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Myanmar
 
-du 17 octobre 2018 (État le 14 mai 2024)
+du 17 octobre 2018 (État le 12 novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -227,8 +227,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), du 30 juin 2021 ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), du 4 mars 2022 ([RO 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), du 21 nov. 2022 ([RO 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), du 1<sup>er</sup> mars 2023 ([RO 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), du 9 mai 2023 ([RO 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), du 2 août 2023 ([RO 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), du 27 nov. 2023 ([RO 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), du 20 déc. 2023 ([RO 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)) et du 13 mai 2024, en vigueur depuis le 14 mai 2024 à 18 heures ([RO 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/213](https://fedlex.data.admin.ch/eli/oc/2024/213) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), du 30 juin 2021 ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), du 4 mars 2022 ([RO 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), du 21 nov. 2022 ([RO 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), du 1<sup>er</sup> mars 2023 ([RO 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), du 9 mai 2023 ([RO 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), du 2 août 2023 ([RO 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), du 27 nov. 2023 ([RO 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), du 20 déc. 2023 ([RO 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), du 13 mai 2024 ([RO 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)) et du 11 nov. 2024, en vigueur depuis le 12 nov. 2024 à 18 heures ([RO 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/629](https://fedlex.data.admin.ch/eli/oc/2024/629) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2
 
@@ -253,8 +253,7 @@ Annexe 2
 
   Explosifs et dispositifs connexes, autres que ceux visés à l’annexe 1 OMG et aux annexes 3 et 5 OCB, comme suit:
 
-  - 4\.1 appareils et dispositifs spécialement conçus pour déclencher des explosions par des moyens électriques ou non électriques, y compris les dispositifs de mise à feu, détonateurs, igniteurs, relais de détonation et cordeaux détonants, et leurs composants spécialement conçus;
-  - font exception les appareils et dispositifs qui sont utilisés dans les produits industriels, par exemple les gonfleurs de coussins d’air de voiture;
+  - 4\.1 appareils et dispositifs spécialement conçus pour déclencher des explosions par des moyens électriques ou non électriques, y compris les dispositifs de mise à feu, détonateurs, igniteurs, relais de détonation et cordeaux détonants, et leurs composants spécialement conçus; font exception les appareils et dispositifs qui sont utilisés dans les produits industriels, par exemple les gonfleurs de coussins d’air de voiture;
   - 4\.2 charges explosives à découpage linéaire;
   - 4\.3
 

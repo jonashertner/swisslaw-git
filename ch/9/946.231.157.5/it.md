@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Ordinanza del 17 ottobre 2018 che istituisce provvedimenti nei confronti del Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: it
-version: 2024-05-14
+version: 2024-11-12
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20240514/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20240514-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20240514/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20241112/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20241112-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20241112/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Myanmar
 
-del 17 ottobre 2018 (Stato 14 maggio 2024)
+del 17 ottobre 2018 (Stato 12 novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -65,8 +65,8 @@ La Segreteria di Stato dell’economia (SECO), d’intesa con i competenti uffic
 
 <sup>4</sup> La SECO, d’intesa con i competenti uffici del DFAE et del DFF, può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 quando le transazioni finanziarie sono necessarie per fornire aiuto umanitario, come fornire o facilitare la fornitura di assistenza, comprese forniture mediche, cibo o trasferimento di operatori umanitari e relativa assistenza o per evacuazioni dal Myanmar.[^2-2]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 19 mag. 2021, in vigore dal 15 giu. 2021 ([RU 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
-[^2-2]: Introdotto dal n. I dell’O del 19 mag. 2021, in vigore dal 15 giu. 2021 ([RU 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 19 mag. 2021, in vigore dal 15 giu. 2021 ([RU 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
+[^2-2]: Introdotto dalla cifra I dell’O del 19 mag. 2021, in vigore dal 15 giu. 2021 ([RU 2021 283](https://fedlex.data.admin.ch/eli/oc/2021/283)).
 
 #### Art. 3
 
@@ -227,8 +227,8 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. I delle O del DEFR del 17 gen. 2019 ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), del 20 mag. 2019 ([RU 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), del 6 mag. 2020 ([RU 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), dal n. I dell’O del 31 mar. 2021 ([RU 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), dal n. I delle O del DEFR del 29 apr. 2021 ([RU 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), del 10 mag. 2021 ([RU 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), del 30 giu. 2021 ([RU 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), del 4 mar. 2022 ([RU 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), del 21 nov. 2022 ([RU 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), del 1° mar. 2023 ([RU 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), del 9 mag. 2023 ([RU 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), del 2 ago. 2023 ([RU 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), del 27 nov. 2023 ([RU 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), del 20 dic. 2023 ([RU 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)) e del 13 mag. 2024, in vigore dal 14 mag. 2024 alle ore 18.00 ([RU 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)).
-[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/213](https://fedlex.data.admin.ch/eli/oc/2024/213) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dalla cifra I delle O del DEFR del 17 gen. 2019 ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), del 20 mag. 2019 ([RU 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), del 6 mag. 2020 ([RU 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), dalla cifra I dell’O del 31 mar. 2021 ([RU 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), dalla cifra I delle O del DEFR del 29 apr. 2021 ([RU 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), del 10 mag. 2021 ([RU 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), del 30 giu. 2021 ([RU 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), del 4 mar. 2022 ([RU 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), del 21 nov. 2022 ([RU 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), del 1° mar. 2023 ([RU 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), del 9 mag. 2023 ([RU 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), del 2 ago. 2023 ([RU 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), del 27 nov. 2023 ([RU 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), del 20 dic. 2023 ([RU 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), del 13 mag. 2024 ([RU 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)) e dell’11 nov. 2024, in vigore dal 12 nov. 2024 alle ore 18.00 ([RU 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)).
+[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/629](https://fedlex.data.admin.ch/eli/oc/2024/629) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2
 
