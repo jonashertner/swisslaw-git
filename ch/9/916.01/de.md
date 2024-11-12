@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2024-11-01
+version: 2024-11-13
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241113/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241113-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241113/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241101/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. November 2024)
+vom 26. Oktober 2011 (Stand am 13. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -769,7 +769,7 @@ Anhang 1[^t-1]
 
 ## Verzeichnis der anwendbaren Zollansätze bei der Einfuhr von landwirtschaftlichen Erzeugnissen mit Angabe der GEB-Pflicht, der Importrichtwerte und der Zuordnung zu den marktordnungsspezifischen Vorschriften, zu den Gruppen der Schwellenpreise sowie zu den Zoll- oder Teilzollkontingenten
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), Anhang der V vom 2. April 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)), Ziff. II der V vom 29. Okt. 2014 ([AS 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), Anhang 3 Ziff. 11 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V des WBF vom 16. Sept. 2016 ([AS 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)) und vom 23. Okt. 2019 ([AS 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)), Ziff. I der V des BLW vom 19. Sept. 2022 ([AS 2022 535](https://fedlex.data.admin.ch/eli/oc/2022/535)), vom 21. März 2023 ([AS 2023 161](https://fedlex.data.admin.ch/eli/oc/2023/161)) vom 20. Juni 2023, ([AS 2023 334](https://fedlex.data.admin.ch/eli/oc/2023/334)) und vom 20. Okt. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 611](https://fedlex.data.admin.ch/eli/oc/2023/611)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Okt. 2013 ([AS 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), Anhang der V vom 2. April 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)), Ziff. II der V vom 29. Okt. 2014 ([AS 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), Anhang 3 Ziff. 11 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. I der V des WBF vom 16. Sept. 2016 ([AS 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), Ziff. II der V vom 26. Okt. 2016 ([AS 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)) und vom 23. Okt. 2019 ([AS 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), Ziff. II Abs. 1 der V vom 3. Nov. 2021 ([AS 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)), Ziff. I der V des BLW vom 20. Juni 2023 ([AS 2023 334](https://fedlex.data.admin.ch/eli/oc/2023/334)) und vom 20. Okt. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 611](https://fedlex.data.admin.ch/eli/oc/2023/611)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -2870,7 +2870,7 @@ Anhang 3[^t-3]
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I Abs. 1 der V vom 30. März 2022 ([AS 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), Ziff. I der V des BLW vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), Ziff. I Abs. 1 der V vom 10. Juni 2022 ([AS 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), Ziff. I der V des BLW vom 9. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), vom 26. Sept. 2022 ([AS 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), vom 28. Sept. 2023 ([AS 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), vom 16. Okt. 2023 ([AS 2023 599](https://fedlex.data.admin.ch/eli/oc/2023/599)), vom 10. Jan. 2024 ([AS 2024 35](https://fedlex.data.admin.ch/eli/oc/2024/35)), vom 18. März 2024 ([AS 2024 124](https://fedlex.data.admin.ch/eli/oc/2024/124)), vom 15. April 2024 ([AS 2024 171](https://fedlex.data.admin.ch/eli/oc/2024/171)), Ziff. I der V vom 14. Aug. 2024 ([AS 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), Ziff. I der V des BLW vom 30. Juli 2024 ([AS 2024 440](https://fedlex.data.admin.ch/eli/oc/2024/440)) und vom 4. Okt. 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 560](https://fedlex.data.admin.ch/eli/oc/2024/560)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), vom 9. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), vom 26. Sept. 2022 ([AS 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), vom 28. Sept. 2023 ([AS 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), vom 16. Okt. 2023 ([AS 2023 599](https://fedlex.data.admin.ch/eli/oc/2023/599)), vom 10. Jan. 2024 ([AS 2024 35](https://fedlex.data.admin.ch/eli/oc/2024/35)), vom 18. März 2024 ([AS 2024 124](https://fedlex.data.admin.ch/eli/oc/2024/124)), vom 15. April 2024 ([AS 2024 171](https://fedlex.data.admin.ch/eli/oc/2024/171)), Ziff. I der V vom 14. Aug. 2024 ([AS 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), Ziff. I der V des BLW vom 30. Juli 2024 ([AS 2024 440](https://fedlex.data.admin.ch/eli/oc/2024/440)), vom 4. Okt. 2024 ([AS 2024 560](https://fedlex.data.admin.ch/eli/oc/2024/560)) und Ziff. I Abs. 1 der V vom 30. Okt. 2024, in Kraft seit 13. Nov. 2024 ([AS 2024 600](https://fedlex.data.admin.ch/eli/oc/2024/600)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -3047,17 +3047,15 @@ Anhang 3[^t-3]
 ### 12. Marktordnungen Hartweizen, Brot- und Grobgetreide
 
 <table>
-<tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th colspan="2">Umfang des Zollkontingents (Tonnen)</th></tr>
-<tr><th></th><th></th><th colspan="2">**[1]**</th></tr>
-<tr><td>26</td><td>Hartweizen, zur menschlichen Ernährung</td><td colspan="2">110 000</td></tr>
-<tr><td></td><td></td><td colspan="2">**[2]**</td></tr>
-<tr><td>27</td><td>Brotgetreide</td><td colspan="2">70 000</td></tr>
-<tr><td></td><td></td><td colspan="2">**[2]**</td></tr>
-<tr><td>27.1</td><td>Vorübergehende Erhöhung des Zollkontingents für 2022</td><td colspan="2">40 000</td></tr>
-<tr><td>27.2</td><td colspan="2">Vorübergehende Erhöhung des Zollkontingents für 2022</td><td colspan="2">20 000</td></tr>
-<tr><td>28</td><td>Grobgetreide zur menschlichen Ernährung</td><td colspan="2">70 000</td></tr>
-<tr><td></td><td></td><td colspan="2">**[2]**</td></tr>
-<tr><td colspan="5">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen** **nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
+<tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th>Umfang des Zollkontingents (Tonnen)</th></tr>
+<tr><th></th><th></th><th>**[1]**</th></tr>
+<tr><td>26</td><td>Hartweizen, zur menschlichen Ernährung</td><td>110 000</td></tr>
+<tr><td></td><td></td><td>**[2]**</td></tr>
+<tr><td>27</td><td>Brotgetreide</td><td>70 000</td></tr>
+<tr><td>27.1</td><td>Vorübergehende Erhöhung des Zollkontingents für 2024</td><td>20 000</td></tr>
+<tr><td>28</td><td>Grobgetreide zur menschlichen Ernährung</td><td>70 000</td></tr>
+<tr><td></td><td></td><td>**[2]**</td></tr>
+<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen** **nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
 ### 13. Marktordnung Wein, Traubensaft und ‑most
@@ -3077,7 +3075,7 @@ Anhang 4[^t-4]
 
 ## Freigabe des Zollkontingents Brotgetreide
 
-[^t-4]: Fassung gemäss Ziff. I der V des BLW vom 23. Sept. 2024, in Kraft seit 4. Okt. 2024 ([AS 2024 516](https://fedlex.data.admin.ch/eli/oc/2024/516)).
+[^t-4]: Fassung gemäss Ziff. I Abs. 2 der V vom 30. Okt. 2024, in Kraft seit 13. Nov. 2024 ([AS 2024 600](https://fedlex.data.admin.ch/eli/oc/2024/600)).
 
 <table>
 <tr><th>Zollkontingentsteilmenge</th><th>Periode für die Einfuhr zum KZA</th></tr>
@@ -3087,6 +3085,7 @@ Anhang 4[^t-4]
 <tr><td>10 000 t brutto</td><td>7. Mai – 31. Dezember</td></tr>
 <tr><td>15 000 t brutto</td><td>3. September – 31. Dezember</td></tr>
 <tr><td>15 000 t brutto</td><td>4. Oktober – 31. Dezember</td></tr>
+<tr><td>20 000 t brutto</td><td>13. November – 31. Dezember</td></tr>
 </table>
 
 Anhang 5[^t-5]

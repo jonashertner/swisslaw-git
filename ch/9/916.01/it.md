@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente l'importazione di prodotti agr
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: it
-version: 2024-11-01
+version: 2024-11-13
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241113/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241113-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241113/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241101/it"
 
 (Ordinanza sulle importazioni agricole, OIAgr)
 
-del 26 ottobre 2011 (Stato 1° novembre 2024)
+del 26 ottobre 2011 (Stato 13 novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -773,7 +773,7 @@ Allegato 1[^t-1]
 
 ## Elenco delle aliquote di dazio applicabili all’importazione di prodotti agricoli con indicazione dell’obbligo di PGI, dei valori indicativi d’importazione e dell’assegnazione alle prescrizioni specifiche di disciplinamento del mercato, ai gruppi dei prezzi soglia e ai contingenti doganali interi o parziali
 
-[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), dall’all. dell’O del 2 apr. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)[1201](https://fedlex.data.admin.ch/eli/oc/2014/254)), dal n. II dell’O del 29 ott. 2014 ([RU 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), dall’all. 3 n. 11 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I dell’O del DEFR del 16 set. 2016 ([RU 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), dal n. II dell’O del 26 ott. 2016 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), dal n. I dell’O del DEFR del 9 giu. 2017 ([RU 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), dal n. II delle O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), del 23 ott. 2019 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)), dal n. I delle O dell’UFAG del 19 set. 2022 ([RU 2022 535](https://fedlex.data.admin.ch/eli/oc/2022/535)), del 21 mar. 2023 ([RU 2023 160](https://fedlex.data.admin.ch/eli/oc/2023/160)), del 20 giu. 2023 ([RU 2023 334](https://fedlex.data.admin.ch/eli/oc/2023/334)) e del 20 ott. 2023, in vigore dal 1° nov. 2023 ([RU 2023 611](https://fedlex.data.admin.ch/eli/oc/2023/611)).
+[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), dall’all. dell’O del 2 apr. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)[1201](https://fedlex.data.admin.ch/eli/oc/2014/254)), dal n. II dell’O del 29 ott. 2014 ([RU 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), dall’all. 3 n. 11 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I dell’O del DEFR del 16 set. 2016 ([RU 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), dal n. II dell’O del 26 ott. 2016 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), dal n. I dell’O del DEFR del 9 giu. 2017 ([RU 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), dal n. II delle O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), del 23 ott. 2019 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)), dal n. I delle O dell’UFAG del 20 giu. 2023 ([RU 2023 334](https://fedlex.data.admin.ch/eli/oc/2023/334)) e del 20 ott. 2023, in vigore dal 1° nov. 2023 ([RU 2023 611](https://fedlex.data.admin.ch/eli/oc/2023/611)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -2874,7 +2874,7 @@ Allegato 3[^t-3]
 
 ## Contingenti doganali interi e parziali
 
-[^t-3]: Aggiornato dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dal n. I cpv. 1 dell’O del 30 mar. 2022 ([RU 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), dal n. I dell’O dell’UFAG del 14 giu. 2022 ([RU 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), dal n. I cpv. 1 dell’O del 10 giu. 2022 ([RU 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), dal n. I delle O dell’UFAG del 9 ago. 2022 ([RU 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), del 26 set. 2022 ([RU 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), dal n. I delle O del 5 dic. 2022 ([RU 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), del 15 set. 2023 ([RU 2023 525](https://fedlex.data.admin.ch/eli/oc/2023/525)), del 28 set. 2023 ([RU 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), del 16 ott. 2023 ([RU 2023 599](https://fedlex.data.admin.ch/eli/oc/2023/599)), del 10 gen. 2024 ([RU 2024 35](https://fedlex.data.admin.ch/eli/oc/2024/35)), del 18 mar. 2024 ([RU 2024 124](https://fedlex.data.admin.ch/eli/oc/2024/124)), del 15 apr. 2024 ([RU 2024 171](https://fedlex.data.admin.ch/eli/oc/2024/171)), del 14 ago. 2024 ([RU 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), dai n. I delle O dell’UFAG del 30 lug. 2024 ([RU 2024 440](https://fedlex.data.admin.ch/eli/oc/2024/440)) e del 4 ott. 2024, in vigore dal 1° nov. 2024 ([RU 2024 560](https://fedlex.data.admin.ch/eli/oc/2024/560)).
+[^t-3]: Aggiornato dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dal n. I dell’O dell’UFAG del 14 giu. 2022 ([RU 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), dal n. I delle O dell’UFAG del 9 ago. 2022 ([RU 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), del 26 set. 2022 ([RU 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), dal n. I delle O del 5 dic. 2022 ([RU 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), del 15 set. 2023 ([RU 2023 525](https://fedlex.data.admin.ch/eli/oc/2023/525)), del 28 set. 2023 ([RU 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), del 16 ott. 2023 ([RU 2023 599](https://fedlex.data.admin.ch/eli/oc/2023/599)), del 10 gen. 2024 ([RU 2024 35](https://fedlex.data.admin.ch/eli/oc/2024/35)), del 18 mar. 2024 ([RU 2024 124](https://fedlex.data.admin.ch/eli/oc/2024/124)), del 15 apr. 2024 ([RU 2024 171](https://fedlex.data.admin.ch/eli/oc/2024/171)), del 14 ago. 2024 ([RU 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), dai n. I delle O dell’UFAG del 30 lug. 2024 ([RU 2024 440](https://fedlex.data.admin.ch/eli/oc/2024/440)), del 4 ott. 2024 ([RU 2024 560](https://fedlex.data.admin.ch/eli/oc/2024/560)) e dal n. I cpv. 1 dell’O del 30 ott. 2024, in vigore dal 13 nov. 2024 ([RU 2024 600](https://fedlex.data.admin.ch/eli/oc/2024/600)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -3068,8 +3068,7 @@ Allegato 3[^t-3]
 <tr><td>26</td><td>Grano duro, per l’alimentazione umana</td><td>110 000</td></tr>
 <tr><td></td><td></td><td>**[2]**</td></tr>
 <tr><td>27</td><td>Cereali panificabili</td><td>70 000</td></tr>
-<tr><td>27.1</td><td>Aumento temporaneo del contingente doganale per il 2022</td><td>40 000</td></tr>
-<tr><td>27.2</td><td>Aumento temporaneo del contingente doganale per il 2022</td><td>20 000</td></tr>
+<tr><td>27.1</td><td>Aumento temporaneo del contingente doganale per il 2024</td><td>**20 000**</td></tr>
 <tr><td>28</td><td>Cereali grezzi per l’alimentazione umana</td><td>70 000</td></tr>
 <tr><td></td><td></td><td>**[2]**</td></tr>
 <tr><td colspan="4">**[1]** **In grassetto le indicazioni che divergono dalla tariffa generale. Le importazioni dalle zone franche secondo il regolamento del 22 dic. 1933 concernente le importazioni in Svizzera dei prodotti delle zone franche (RS** *0.631.256.934.953***) non vengono computate sul contingente da ripartire.**</td></tr>
@@ -3094,7 +3093,7 @@ Allegato 4[^t-4]
 
 ## Liberazione del contingente doganale dei cereali panificabili
 
-[^t-4]: Nuovo testo giusta il n. I dell’O dell’UFAG del 23 set. 2024, in vigore dal 4 ott. 2024 ([RU 2024 516](https://fedlex.data.admin.ch/eli/oc/2024/516)).
+[^t-4]: Nuovo testo giusta il n. I cpv. 2 dell’O del 30 ott. 2024, in vigore dal 13 nov. 2024 ([RU 2024 600](https://fedlex.data.admin.ch/eli/oc/2024/600)).
 
 <table>
 <tr><th>Quantitativo parziale del contingente doganale</th><th>Periodo per l’importazione all’aliquota di dazio del contingente</th></tr>
@@ -3104,6 +3103,7 @@ Allegato 4[^t-4]
 <tr><td>10 000 t lorde</td><td>7 maggio – 31 dicembre</td></tr>
 <tr><td>15 000 t lorde</td><td>3 settembre – 31 dicembre</td></tr>
 <tr><td>15 000 t lorde</td><td>4 ottobre – 31 dicembre</td></tr>
+<tr><td>20 000 t lorde</td><td>13 novembre – 31 dicembre</td></tr>
 </table>
 
 Allegato 5[^t-5]
