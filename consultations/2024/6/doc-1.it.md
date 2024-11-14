@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nuovo regime di immatricolazione dei veicoli – Revisione parziale di cinque ordinanze in materia di circolazione stradale
 document: Progetto posto in consultazione
 language: it

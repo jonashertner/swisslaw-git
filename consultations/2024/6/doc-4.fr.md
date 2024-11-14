@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nouveau régime d’admission des véhicules – Révision partielle de cinq ordonnances relevant du droit de la circulation routière
 document: Projet mis en consultation-5
 language: fr

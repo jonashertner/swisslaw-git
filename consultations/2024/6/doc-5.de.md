@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neues Zulassungsregime Fahrzeuge – Teilrevision von fünf Verordnungen des Strassenverkehrsrechts
 document: Vernehmlassungsvorlage-2
 language: de
