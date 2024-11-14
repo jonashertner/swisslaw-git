@@ -3,13 +3,12 @@ canton: FR
 number: "431.0.16"
 title: Verordnung über die Einschreibegebühr der Studierenden und der Hörerinnen und Hörer der Universität Freiburg
 language: de
-version: 2018-01-01
-valid_until: 2024-11-14
-version_adopted: 2017-11-07
+version: 2024-11-15
+version_adopted: 2024-10-29
 adopted: 2017-11-07
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.0.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/5203/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8065/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5203/pdf_file"
 
 Universität, Einschreibegebühr – V
 
-vom 07.11.2017 (Fassung in Kraft getreten am 01.01.2018)
+vom 07.11.2017 (Fassung in Kraft getreten am 15.11.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -54,7 +53,7 @@ beschliesst:
 
 <sup>1</sup> Für Studierende beträgt die Einschreibegebühr:
 
-- a) 720 Franken pro Semester für Studierende, die schweizerische oder liechtensteinische Staatsangehörige sind, für ausländische Studierende, deren Eltern ihren Wohnsitz in der Schweiz oder in Liechtenstein haben, und für ausländische Studierende mit einer Niederlassungsbewilligung;
+- a) 720 Franken pro Semester für Studierende schweizerischer oder liechtensteinischer Staatsangehörigkeit und für Studierende ausländischer Staatsangehörigkeit, die zum Zeitpunkt des Erwerbs ihres Zulassungsausweises ihren gesetzlichen Wohnsitz in der Schweiz oder in Liechtenstein hatten;
 - b) 870 Franken pro Semester für die übrigen Studierenden.
 
 #### Art. 4

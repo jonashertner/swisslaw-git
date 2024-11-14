@@ -3,13 +3,12 @@ canton: FR
 number: "431.0.16"
 title: "Ordonnance concernant la taxe d'inscription des étudiants et étudiantes et des auditeurs et auditrices de l'Université de Fribourg"
 language: fr
-version: 2018-01-01
-valid_until: 2024-11-14
-version_adopted: 2017-11-07
+version: 2024-11-15
+version_adopted: 2024-10-29
 adopted: 2017-11-07
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.0.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5203/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8065/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5203/pdf_file"
 
 Université, taxe d'inscription – O
 
-du 07.11.2017 (version entrée en vigueur le 01.01.2018)
+du 07.11.2017 (version entrée en vigueur le 15.11.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -54,7 +53,7 @@ Arrête:
 
 <sup>1</sup> Pour les étudiants et étudiantes, la taxe d'inscription se monte à:
 
-- a) 720 francs par semestre pour les étudiants et étudiantes de nationalité suisse ou liechtensteinoise, pour les étudiants et étudiantes étrangers dont les parents sont domiciliés en Suisse ou au Liechtenstein ainsi que pour les étudiants et étudiantes étrangers au bénéfice d'une autorisation d'établissement;
+- a) 720 francs par semestre pour les étudiants et étudiantes de nationalité suisse ou liechtensteinoise et pour les étudiants et étudiantes de nationalité étrangère qui avaient leur domicile légal en Suisse ou au Liechtenstein au moment de l'obtention de leur certificat d'accès aux études;
 - b) 870 francs par semestre pour les autres étudiants et étudiantes.
 
 #### Art. 4
