@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 18 novembre 2015 concernente l'importazione, il tr
 short: OITE-PT-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: it
-version: 2024-08-07
+version: 2024-11-15
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20240807/it/xml/fedlex-data-admin-ch-eli-cc-2015-845-20240807-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20240807/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20241115/it/xml/fedlex-data-admin-ch-eli-cc-2015-845-20241115-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20241115/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20240807/it"
 
 (OITE-PT-DFI)
 
-del 18 novembre 2015 (Stato 7 agosto 2024)
+del 18 novembre 2015 (Stato 15 novembre 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -58,8 +58,8 @@ Per l’importazione degli animali e dei prodotti animali riportati di seguito d
 
 <sup>2</sup> Le garanzie sanitarie di cui al capoverso 1 lettere a e b sono riconosciute solo se soddisfano le condizioni previste nell’allegato 2.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
 
 #### Art. 3
 
@@ -95,7 +95,7 @@ Le condizioni di polizia sanitaria per lʼimportazione e il transito nel traffic
 
 Gli animali e i prodotti animali per le cui partite è prescritto un controllo veterinario di confine in caso di importazione e transito sono definiti negli articoli 3 e 4 del regolamento delegato (UE) 2019/2122[^6-2], nel regolamento delegato (UE) 2021/630[^6-3] e nel regolamento di esecuzione (UE) 2021/632[^6-4].
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
 [^6-2]: Regolamento delegato (UE) 2019/2122 della Commissione, del 10 ottobre 2019, che integra il regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda alcune categorie di animali e merci esenti da controlli ufficiali ai posti di controllo frontalieri, i controlli specifici relativamente al bagaglio personale dei passeggeri e a piccole partite di merci spedite a persone fisiche, non destinate all’immissione in commercio, e che modifica il regolamento (UE) n. 142/2011 della Commissione, GU L 321 del 12.12.2019, pag. 45; modificato da ultimo dal regolamento delegato (UE) 2023/1674, GU L 216 del 1.9.2023, pag. 1.
 [^6-3]: Regolamento delegato (UE) 2021/630 della Commissione, del 16 febbraio 2021, che integra il regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda alcune categorie di merci esenti da controlli ufficiali ai posti di controllo frontalieri, e che modifica la decisione 2007/275/CE della Commissione, GU L 132 del 19.4.2021, pag. 17; modificato da ultimo dal regolamento delegato (UE) 2023/1674, GU L 216 del 1.9.2023, pag. 1.
 [^6-4]: Regolamento di esecuzione (UE) 2021/632 della Commissione, del 13 aprile 2021, recante modalità di applicazione del regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda gli elenchi di animali, prodotti di origine animale, materiale germinale, sottoprodotti di origine animale e prodotti derivati, prodotti composti, fieno e paglia soggetti a controlli ufficiali ai posti di controllo frontalieri, e che abroga il regolamento di esecuzione (UE) 2019/2007 della Commissione e la decisione 2007/275/CE della Commissione, GU L 132 del 19.4.2021, pag. 24; modificato da ultimo dal regolamento di esecuzione (UE) 2022/1322, GU L 200 del 29.7.2022, pag. 25.
@@ -144,7 +144,7 @@ L’USAV adegua gli allegati 2, 3, 4 e 7 agli sviluppi internazionali o tecnici.
 
 L’ordinanza del DFI del 16 maggio 2007[^12-1] sul controllo dell’importazione e del transito di animali e prodotti animali è abrogata.
 
-[^12-1]: [[RU 2007 2717](https://fedlex.data.admin.ch/eli/oc/2007/359); [2008 4443](https://fedlex.data.admin.ch/eli/oc/2008/615), [5273](https://fedlex.data.admin.ch/eli/oc/2008/743); [2009 1619](https://fedlex.data.admin.ch/eli/oc/2009/236); [2010 5097](https://fedlex.data.admin.ch/eli/oc/2010/737); [2012 461](https://fedlex.data.admin.ch/eli/oc/2012/62), [807](https://fedlex.data.admin.ch/eli/oc/2012/124), [1607](https://fedlex.data.admin.ch/eli/oc/2012/233), [3469](https://fedlex.data.admin.ch/eli/oc/2012/391), [6439](https://fedlex.data.admin.ch/eli/oc/2012/767), [6883](https://fedlex.data.admin.ch/eli/oc/2012/831); [2013 801](https://fedlex.data.admin.ch/eli/oc/2013/162), [1061](https://fedlex.data.admin.ch/eli/oc/2013/233), [1263](https://fedlex.data.admin.ch/eli/oc/2013/283), [2129](https://fedlex.data.admin.ch/eli/oc/2013/453), [2343](https://fedlex.data.admin.ch/eli/oc/2013/493), [2697](https://fedlex.data.admin.ch/eli/oc/2013/549), [3265](https://fedlex.data.admin.ch/eli/oc/2013/625), [4089](https://fedlex.data.admin.ch/eli/oc/2013/749), [4139](https://fedlex.data.admin.ch/eli/oc/2013/762)n. I 2; [2014 391](https://fedlex.data.admin.ch/eli/oc/2014/58), [705](https://fedlex.data.admin.ch/eli/oc/2014/149), [1265](https://fedlex.data.admin.ch/eli/oc/2014/271), [2469](https://fedlex.data.admin.ch/eli/oc/2014/433), [3017](https://fedlex.data.admin.ch/eli/oc/2014/509), [3139](https://fedlex.data.admin.ch/eli/oc/2014/531), [3191](https://fedlex.data.admin.ch/eli/oc/2014/541), [4517](https://fedlex.data.admin.ch/eli/oc/2014/754); [2015 561](https://fedlex.data.admin.ch/eli/oc/2015/86), [565](https://fedlex.data.admin.ch/eli/oc/2015/87), [633](https://fedlex.data.admin.ch/eli/oc/2015/100), [725](https://fedlex.data.admin.ch/eli/oc/2015/124), [931](https://fedlex.data.admin.ch/eli/oc/2015/167), [1141](https://fedlex.data.admin.ch/eli/oc/2015/230), [1211](https://fedlex.data.admin.ch/eli/oc/2015/241), [2405](https://fedlex.data.admin.ch/eli/oc/2015/449), [2707](https://fedlex.data.admin.ch/eli/oc/2015/508), [2911](https://fedlex.data.admin.ch/eli/oc/2015/546), [4193](https://fedlex.data.admin.ch/eli/oc/2015/701), [4989](https://fedlex.data.admin.ch/eli/oc/2015/817)]
+[^12-1]: [[RU 2007 2717](https://fedlex.data.admin.ch/eli/oc/2007/359); [2008 4443](https://fedlex.data.admin.ch/eli/oc/2008/615), [5273](https://fedlex.data.admin.ch/eli/oc/2008/743); [2009 1619](https://fedlex.data.admin.ch/eli/oc/2009/236); [2010 5097](https://fedlex.data.admin.ch/eli/oc/2010/737); [2012 461](https://fedlex.data.admin.ch/eli/oc/2012/62), [807](https://fedlex.data.admin.ch/eli/oc/2012/124), [1607](https://fedlex.data.admin.ch/eli/oc/2012/233), [3469](https://fedlex.data.admin.ch/eli/oc/2012/391), [6439](https://fedlex.data.admin.ch/eli/oc/2012/767), [6883](https://fedlex.data.admin.ch/eli/oc/2012/831); [2013 801](https://fedlex.data.admin.ch/eli/oc/2013/162), [1061](https://fedlex.data.admin.ch/eli/oc/2013/233), [1263](https://fedlex.data.admin.ch/eli/oc/2013/283), [2129](https://fedlex.data.admin.ch/eli/oc/2013/453), [2343](https://fedlex.data.admin.ch/eli/oc/2013/493), [2697](https://fedlex.data.admin.ch/eli/oc/2013/549), [3265](https://fedlex.data.admin.ch/eli/oc/2013/625), [4089](https://fedlex.data.admin.ch/eli/oc/2013/749), [4139](https://fedlex.data.admin.ch/eli/oc/2013/762)cifra I n. 2; [2014 391](https://fedlex.data.admin.ch/eli/oc/2014/58), [705](https://fedlex.data.admin.ch/eli/oc/2014/149), [1265](https://fedlex.data.admin.ch/eli/oc/2014/271), [2469](https://fedlex.data.admin.ch/eli/oc/2014/433), [3017](https://fedlex.data.admin.ch/eli/oc/2014/509), [3139](https://fedlex.data.admin.ch/eli/oc/2014/531), [3191](https://fedlex.data.admin.ch/eli/oc/2014/541), [4517](https://fedlex.data.admin.ch/eli/oc/2014/754); [2015 561](https://fedlex.data.admin.ch/eli/oc/2015/86), [565](https://fedlex.data.admin.ch/eli/oc/2015/87), [633](https://fedlex.data.admin.ch/eli/oc/2015/100), [725](https://fedlex.data.admin.ch/eli/oc/2015/124), [931](https://fedlex.data.admin.ch/eli/oc/2015/167), [1141](https://fedlex.data.admin.ch/eli/oc/2015/230), [1211](https://fedlex.data.admin.ch/eli/oc/2015/241), [2405](https://fedlex.data.admin.ch/eli/oc/2015/449), [2707](https://fedlex.data.admin.ch/eli/oc/2015/508), [2911](https://fedlex.data.admin.ch/eli/oc/2015/546), [4193](https://fedlex.data.admin.ch/eli/oc/2015/701), [4989](https://fedlex.data.admin.ch/eli/oc/2015/817)]
 
 #### Art. 13
 
@@ -158,7 +158,7 @@ Allegato 1[^t-1]
 
 ## Atti normativi determinanti dell’UE sulle condizioni di importazione e transito armonizzate
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 31 mag. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)). Aggiornato dal n. I dell’O dell’USAV del 5 ago. 2024, in vigore dal 7 ago. 2024 ([RU 2024 402](https://fedlex.data.admin.ch/eli/oc/2024/402)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 31 mag. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)). Aggiornato dai n. I delle O dell’USAV del 5 ago. 2024 ([RU 2024 402](https://fedlex.data.admin.ch/eli/oc/2024/402)) e del 13 nov. 2024, in vigore dal 15 nov. 2024 ([RU 2024 644](https://fedlex.data.admin.ch/eli/oc/2024/644)).
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
@@ -192,16 +192,17 @@ Allegato 1[^t-1]
 <tr><td>28. Regolamento (UE) 2016/429</td><td>Regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, del 9 marzo 2016, relativo alle malattie animali trasmissibili e che modifica e abroga taluni atti in materia di sanità animale («normativa in materia di sanità animale»), GU L 84 del 31.3.2016, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2018/1629, GU L 272 del 31.10.2018, pag. 11.</td></tr>
 <tr><td>29. Regolamento delegato (UE) 2020/692</td><td>Regolamento delegato (UE) 2020/692 della Commissione, del 30 gennaio 2020, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme per l’ingresso nell’Unione, e per i movimenti e la manipolazione dopo l’ingresso, di partite di determinati animali, materiale germinale e prodotti di origine animale, GU L 174 del 3.6.2020, pag. 379; modificato da ultimo dal regolamento delegato (UE) 2023/119, GU L 16 del 18.1.2023, pag. 5.</td></tr>
 <tr><td>30. Regolamento di esecuzione (UE) 2020/1641</td><td>Regolamento di esecuzione (UE) 2020/1641 della Commissione, del 5 novembre 2020, relativo alle importazioni dagli Stati Uniti d’America di molluschi bivalvi, echinodermi, tunicati e gasteropodi marini vivi, refrigerati, congelati o trasformati destinati al consumo umano, GU L 370 del 6.11.2020, pag. 4; modificato da ultimo dal regolamento di esecuzione (UE) 2022/158, GU L 26 del 7.2.2022, pag. 1.</td></tr>
-<tr><td>31. Regolamento di esecuzione (UE) 2020/2235</td><td>Regolamento di esecuzione (UE) 2020/2235 della Commissione, del 16 dicembre 2020, recante modalità di applicazione dei regolamenti (UE) 2016/429 e (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda i modelli di certificati sanitari, i modelli di certificati ufficiali e i modelli di certificati sanitari/ufficiali per l’ingresso nell’Unione e i movimenti all’interno dell’Unione di partite di determinate categorie di animali e merci nonché la certificazione ufficiale relativa a tali certificati e che abroga il regolamento (CE) n. 599/2004, i regolamenti di esecuzione (UE) n. 636/2014 e (UE) 2019/628, la direttiva 98/68/CE e le decisioni 2000/572/CE, 2003/779/CE e 2007/240/CE, GU L 442 del 30.12.2020, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2024/1874, GU L, 2024/1874, 9.7.2024.</td></tr>
+<tr><td>31. Regolamento di esecuzione (UE) 2020/2235</td><td>Regolamento di esecuzione (UE) 2020/2235 della Commissione, del 16 dicembre 2020, recante modalità di applicazione dei regolamenti (UE) 2016/429 e (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda i modelli di certificati sanitari, i modelli di certificati ufficiali e i modelli di certificati sanitari/ufficiali per l’ingresso nell’Unione e i movimenti all’interno dell’Unione di partite di determinate categorie di animali e merci nonché la certificazione ufficiale relativa a tali certificati e che abroga il regolamento (CE) n. 599/2004, i regolamenti di esecuzione (UE) n. 636/2014 e (UE) 2019/628, la direttiva 98/68/CE e le decisioni 2000/572/CE, 2003/779/CE e 2007/240/CE, GU L 442 del 30.12.2020, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2024/2020, GU L, 2024/2020, 29.7.2024.</td></tr>
 <tr><td>32. Regolamento di esecuzione (UE) 2020/2236</td><td>Regolamento di esecuzione (UE) 2020/2236 della Commissione, del 16 dicembre 2020, recante modalità di applicazione dei regolamenti (UE) 2016/429 e (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda i modelli di certificati sanitari per l’ingresso nell’Unione e i movimenti all’interno dell’Unione di partite di animali acquatici e di determinati prodotti di origine animale ottenuti da animali acquatici nonché la certificazione ufficiale relativa a tali certificati e che abroga il regolamento (CE) n. 1251/2008, GU L 442 del 30.12.2020, pag. 410; modificato da ultimo dal regolamento di esecuzione (UE) 2023/516, GU L 71 del 9.3.2023, pag. 27.</td></tr>
 <tr><td>33. Regolamento di esecuzione (UE) 2021/403</td><td>Regolamento di esecuzione (UE) 2021/403 della Commissione, del 24 marzo 2021, recante modalità di applicazione dei regolamenti (UE) 2016/429 e (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda i modelli di certificati sanitari e i modelli di certificati sanitari/ufficiali per l’ingresso nell’Unione e i movimenti tra Stati membri di partite di determinate categorie di animali terrestri e del relativo materiale germinale nonché la certificazione ufficiale relativa a tali certificati e che abroga la decisione 2010/470/UE, GU L 113 del 31.3.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2024/1044, GU L, 2024/1044, 26.4.2024.</td></tr>
-<tr><td>34. Regolamento di esecuzione (UE) 2021/404</td><td>Regolamento di esecuzione (UE) 2021/404 della Commissione, del 24 marzo 2021, che stabilisce gli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di animali, materiale germinale e prodotti di origine animale conformemente al regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, GU L 114 del 31.3.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2024/2028, GU L, 2024/2028, 23.7.2024.</td></tr>
+<tr><td>34. Regolamento di esecuzione (UE) 2021/404</td><td>Regolamento di esecuzione (UE) 2021/404 della Commissione, del 24 marzo 2021, che stabilisce gli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di animali, materiale germinale e prodotti di origine animale conformemente al regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, GU L 114 del 31.3.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2024/2677, GU L, 2024/2677, 10.10.2024.</td></tr>
 <tr><td>35. Regolamento di esecuzione (UE) 2021/405</td><td>Regolamento di esecuzione (UE) 2021/405 della Commissione, del 24 marzo 2021, che istituisce gli elenchi dei paesi terzi o loro regioni da cui è autorizzato l’ingresso nell’Unione di determinati animali e merci destinati al consumo umano in conformità al regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, GU L 114 del 31.3.2021, pag. 118; modificato da ultimo dal regolamento di esecuzione (UE) 2024/334, GU L, 2024/334, 22.1.2024.</td></tr>
 <tr><td>36. Regolamento di esecuzione (UE) 2021/1938</td><td>Regolamento di esecuzione (UE) 2021/1938 della Commissione, del 9 novembre 2021, che stabilisce il modello di documento di identificazione per i movimenti a carattere non commerciale di uccelli da compagnia verso uno Stato membro da un territorio o un paese terzo e che abroga la decisione 2007/25/CE, versione della GU L 396 del 10.11.2021, pag. 47.</td></tr>
 <tr><td>37. Regolamento di esecuzione (UE) 2022/478</td><td>Regolamento di esecuzione (UE) 2022/478 della Commissione, del 24 marzo 2022, relativo al mantenimento di misure di protezione sulle importazioni di molluschi bivalvi originari della Turchia destinati al consumo umano, GU L 98 del 25.3.2022, pag. 54; modificato dal regolamento di esecuzione (UE) 2024/360, GU L, 2024/360, 25.1.2024.</td></tr>
 <tr><td>38. Decisione di esecuzione (UE) 2022/575</td><td>Decisione di esecuzione (UE) 2022/575 della Commissione, del 6 aprile 2022, relativa a misure di emergenza volte a impedire l’introduzione nell’Unione dell’afta epizootica tramite partite di fieno e paglia provenienti da paesi terzi o territori e che abroga il regolamento di esecuzione (UE) 2020/2208, versione della GU L 109 dell’8.4.2022, pag. 69.</td></tr>
 <tr><td>39. Regolamento delegato (UE) 2022/2292</td><td>Regolamento delegato (UE) 2022/2292 della Commissione, del 6 settembre 2022, che integra il regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio per quanto riguarda le prescrizioni per l’ingresso nell’Unione di partite di animali destinati alla produzione di alimenti e di determinate merci destinate al consumo umano, GU L 304 del 24.11.2022, pag. 1; modificato dal regolamento delegato (UE) 2023/1149, GU L 152 del 13.6.2023, pag. 1.</td></tr>
 <tr><td>40. Regolamento delegato (UE) 2023/905</td><td>Regolamento delegato (UE) 2023/905 della Commissione, del 27 febbraio 2023, che integra il regolamento (UE) 2019/6 del Parlamento europeo e del Consiglio per quanto riguarda l’applicazione del divieto di impiego di determinati medicinali antimicrobici negli animali o nei prodotti di origine animale esportati da paesi terzi nell’Unione, versione della GU L 116 del 4.5.2023, pag. 1.</td></tr>
+<tr><td>41. Regolamento di esecuzione (UE) 2022/2463</td><td>Regolamento di esecuzione (UE) 2024/2463 della Commissione, del 12 settembre 2024, che stabilisce i metodi di analisi applicabili ai controlli ufficiali effettuati per verificare la conformità degli operatori del settore alimentare al regolamento (CE) n. 2073/2005, versione della GU L, 2024/2463, 13.9.2024</td></tr>
 </table>
 
 Allegato 2[^t-2]
@@ -210,7 +211,7 @@ Allegato 2[^t-2]
 
 ## Condizioni per il riconoscimento delle garanzie sanitarie
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
 
 ### 1 Garanzie sanitarie per gli animali della specie bovina, i camelidi del vecchio e del nuovo mondo e i cervidi
 
@@ -228,7 +229,7 @@ Allegato 3[^t-3]
 
 ## Prodotti animali che comportano rischi più elevati di epizoozie o per l’igiene delle derrate alimentari
 
-[^t-3]: Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 13 lug. 2020 ([RU 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)) e dal n. II cpv. 2 dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
+[^t-3]: Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 13 lug. 2020 ([RU 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)) e dalla cifra II cpv. 2 dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
 
 I prodotti animali che comportano rischi più elevati di epizoozie o per l’igiene delle derrate alimentari secondo l’articolo 8 capoverso 1 lettera a OITE‑PT sono prodotti per i quali è indispensabile uno dei seguenti documenti di accompagnamento:
 
@@ -251,7 +252,7 @@ Allegato 4[^t-4]
 
 ## Trasporto nel traffico turistico di prodotti animali
 
-[^t-4]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’USAV del 13 lug. 2020 ([RU 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)). Aggiornato dal n. II cpv. 2 dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
+[^t-4]: Nuovo testo giusta la cifra I cpv. 2 dell’O dell’USAV del 13 lug. 2020 ([RU 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
 
 I. Non possono essere importati o fatti transitare:
 
@@ -321,7 +322,7 @@ Allegato 5[^t-5]
 
 ## Atti normativi determinanti dell’UE sull’identificazione dell’imballaggio più esterno dei prodotti animali
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 268](https://fedlex.data.admin.ch/eli/oc/2024/268)).
 
 <table>
 <tr><th>Atto normativo dell’UE</th><th>Disposizioni determinanti</th></tr>
@@ -335,7 +336,7 @@ Allegato 6[^t-6]
 
 ## Requisiti formali per i certificati sanitari
 
-[^t-6]: Nuovo testo giusta il n. II dell’O del DFI del 26 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
+[^t-6]: Nuovo testo giusta la cifra II dell’O del DFI del 26 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
 
 ### 1 Requisiti formali per i certificati sanitari in forma cartacea
 
@@ -409,7 +410,7 @@ Allegato 8[^t-7]
 
 ## Requisiti per i locali, le installazioni e gli impianti dei posti d’ispezione frontalieri riconosciuti
 
-[^t-7]: Nuovo testo giusta il n. II dell’O del DFI del 26 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
+[^t-7]: Nuovo testo giusta la cifra II dell’O del DFI del 26 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
 
 ### 1 Requisiti generali per i locali, le installazioni e gli impianti dei posti d’ispezione frontalieri riconosciuti
 
