@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Reprise et mise en œuvre des bases légales relatives au pacte de l’Union européenne sur la migration et l’asile (développements de l’acquis de Schengen/Dublin)
 document: Projet mis en consultation-3
 language: fr

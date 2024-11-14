@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Recepimento e trasposizione delle basi legali relative al Patto sulla migrazione e l’asilo dell’UE (sviluppo dell’acquis di Schengen/Dublino)
 document: Progetto posto in consultazione-9
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Übernahme und Umsetzung der Rechtsgrundlagen zum EU-Migrations- und Asylpakt (Weiterentwicklungen des Schengen-/Dublin-Besitzstands)
 document: Vernehmlassungsvorlage
 language: de
