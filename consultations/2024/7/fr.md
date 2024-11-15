@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approbation des arrêtés fédéraux relatifs à l'introduction de l'échange automatique international de renseignements relatifs aux crypto-actifs avec les États partenaires pertinents à partir de 2026"
 document: Projet mis en consultation
 language: fr

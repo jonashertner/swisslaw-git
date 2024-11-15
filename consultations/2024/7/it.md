@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approvazione dei decreti federali che introducono lo scambio automatico internazionale di informazioni relative a cripto-attività con gli Stati partner rilevanti dal 2026
 document: Progetto posto in consultazione
 language: it

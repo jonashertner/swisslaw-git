@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung der Bundesbeschlüsse über die Einführung des internationalen automatischen Informationsaustauschs über Kryptowerte mit den relevanten Partnerstaaten ab 2026
 document: Vernehmlassungsvorlage
 language: de
