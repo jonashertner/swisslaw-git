@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale dell’ordinanza del DFF concernente il compenso alle autorità cantonali per le loro spese sostenute nell’ambito della riscossione della tassa sul traffico pesante
 document: Progetto posto in consultazione
 language: it

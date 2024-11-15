@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Verordnung des EFD über die Entschädigung der kantonalen Behörden für ihren Aufwand im Zusammenhang mit der Erhebung der Schwerverkehrsabgabe
 document: Vernehmlassungsvorlage
 language: de

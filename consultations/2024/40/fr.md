@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision totale de l’ordonnance du DFF sur l’indemnisation des autorités cantonales pour leurs dépenses liées à la perception de la redevance sur le trafic des poids lourds
 document: Projet mis en consultation
 language: fr
