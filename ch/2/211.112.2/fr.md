@@ -4,11 +4,11 @@ title: "Ordonnance du 28 avril 2004 sur l'état civil (OEC)"
 short: OEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: fr
-version: 2024-11-11
+version: 2024-11-18
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241111/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241111-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241111/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241118/fr/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241118-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241111/fr"
 
 (OEC)
 
-du 28 avril 2004 (État le 11 novembre 2024)
+du 28 avril 2004 (État le 18 novembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -523,9 +523,10 @@ Lorsqu’il est reconnu par le père et qu’il ne s’agit pas du premier enfan
 
 <sup>2</sup> Dans les cas visés à l’art. 30*b,* al. 4, CC, le consentement du représentant légal doit être donné par écrit. Les personnes qui donnent leur consentement doivent justifier leur pouvoir de représentation et les signatures doivent être légalisées.
 
-<sup>3</sup> Si la personne déclarante ou le représentant légal démontre que son déplacement à l’office de l’état civil ne peut manifestement pas être exigé, la déclaration ou le consentement peut être reçu dans un autre lieu, notamment dans un établissement hospitalier, médico-social ou d’exécution des peines.
+<sup>3</sup> Si la personne déclarante ou le représentant légal démontre que son déplacement à l’office de l’état civil ne peut manifestement pas être exigé, la déclaration ou le consentement peut être reçu dans un autre lieu, notamment dans un établissement hospitalier, médico-social ou d’exécution des peines.[^14b-2]
 
 [^14b-1]: Introduit par le ch. I de l’O du 7 nov. 2012 ([RO 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Nouvelle teneur selon le ch. I de l’O du 27 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14b-2]: Erratum du 18 nov. 2024, ne concerne que le texte italien ([RO 2024 651](https://fedlex.data.admin.ch/eli/oc/2024/651)).
 
 ## Chapitre 3 Procédure d’enregistrement
 
@@ -2431,7 +2432,7 @@ Sont inscrits d’office en marge du registre des naissances:[^98-2]
 - d. tout mariage ultérieur des parents;
 - e. toute rupture du lien de filiation avec le mari de la mère;
 - f. tout changement de nom de famille;
-- [tab] f<sup>bis</sup>.[^98-3] toute demande d’adaptation de la graphie du nom en vertu de l’art. 99*f*;
+- f<sup>bis</sup>.[^98-3] toute demande d’adaptation de la graphie du nom en vertu de l’art. 99*f*;
 - g. tout changement de prénom;
 - h. tout changement de sexe.
 
@@ -2570,19 +2571,13 @@ Annexe[^t-1]
 
 Abréviations
 
-A Appeler
-
-E Enregistrer
-
-S Saisir
-
-ACS Autorité cantonale de surveillance de l’état civil
-
-CH EC Collaborateur de l’office de l’état civil, habilité à signer (officier de l’état civil)
-
-CS EC Collaborateur spécialiste de l’office de l’état civil
-
-OFEC + Aut. hab. OFEC et autorités habilitées désignées à l’art. 43*a*, al. 4, CC
+- A Appeler
+- E Enregistrer
+- S Saisir
+- ACS Autorité cantonale de surveillance de l’état civil
+- CH EC Collaborateur de l’office de l’état civil, habilité à signer (officier de l’état civil)
+- CS EC Collaborateur spécialiste de l’office de l’état civil
+- OFEC + Aut. hab. OFEC et autorités habilitées désignées à l’art. 43*a*, al. 4, CC
 
 Droits d’accès
 

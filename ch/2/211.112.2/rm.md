@@ -4,11 +4,11 @@ title: "Ordinaziun dals 28 d'avrigl 2004 davart il stadi civil (OSC)"
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: rm
-version: 2024-11-11
+version: 2024-11-18
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241111/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241111-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241111/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241118/rm/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241118-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OSC)
 
-dals 28 d’avrigl 2004 (versiun dals 11 da november 2024)
+dals 28 d’avrigl 2004 (versiun dals 18 da november 2024)
 
 Il Cussegl federal svizzer,
 
@@ -529,9 +529,10 @@ Sche l’uffant vegn renconuschì dal bab e sche quai n’è betg l’emprim uff
 
 <sup>2</sup> En ils cas tenor l’artitgel 30*b* alinea 4 CCS sto il represchentant legal dar il consentiment en scrit. Las cumpetenzas da represchentanza ston vegnir cumprovadas e las suttascripziuns ston vegnir legalisadas.
 
-<sup>3</sup> Sch’il declerader u il represchentant legal cumprova ch’igl è evidentamain insupportabel per el da cumparair persunalmain davant l’uffizi dal stadi civil, po la decleraziun respectivamain il consentiment vegnir retschavì en in auter lieu, en spezial en ina clinica, en ina chasa da dimora u en in stabiliment giudizial.
+<sup>3</sup> Sch’il declerader u il represchentant legal cumprova ch’igl è evidentamain insupportabel per el da cumparair persunalmain davant l’uffizi dal stadi civil, po la decleraziun respectivamain il consentiment vegnir retschavì en in auter lieu, en spezial en ina clinica, en ina chasa da dimora u en in stabiliment giudizial.[^14b-2]
 
 [^14b-1]: Integrà tras la cifra I da l’O dals 7 da nov. 2012 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Versiun tenor la cifra I da l’O dals 27 d’oct. 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14b-2]: La rectificaziun dals 18 da nov. 2024 concerna mo il text talian ([AS 2024 651](https://fedlex.data.admin.ch/eli/oc/2024/651)).
 
 ## 3. chapitel Procedura da documentaziun
 
@@ -932,7 +933,7 @@ Sco lieu da l’eveniment vegn documentà:
 
 [^27-1]: Abolì tras la cifra I da l’O dals 26 da zer. 2024, cun effect dapi ils 11 da nov. 2024 ([AS 2024 335](https://fedlex.data.admin.ch/eli/oc/2024/335)).
 
-### 4. secziun Documentar
+### 4. secziun: Documentar
 
 [^chap3-sec4-1]
 

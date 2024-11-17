@@ -4,11 +4,11 @@ title: Ordinanza del 28 aprile 2004 sullo stato civile (OSC)
 short: OSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: it
-version: 2024-11-11
+version: 2024-11-18
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241111/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241111-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241111/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241118/it/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241118-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241111/it"
 
 (OSC)
 
-del 28 aprile 2004 (Stato 11 novembre 2024)
+del 28 aprile 2004 (Stato 18 novembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -525,9 +525,10 @@ Se non è il primo figlio in comune di genitori non uniti in matrimonio, il figl
 
 <sup>2</sup> Nei casi di cui all’articolo 30*b* capoverso 4 CC è necessario il consenso scritto del rappresentante legale. I poteri di rappresentanza vanno comprovati e le firme autenticate.
 
-<sup>3</sup> Se l’autore del riconoscimento o il rappresentante legale dimostra che non è manifestamente esigibile che egli si rechi all’ufficio dello stato civile, la dichiarazione o il consenso possono essere ricevuti in un altro luogo, segnatamente in un ospedale, una casa di riposo o un penitenziario.
+<sup>3</sup> Se il dichiarante o il rappresentante legale dimostra che non è manifestamente esigibile che egli si rechi all’ufficio dello stato civile, la dichiarazione o il consenso possono essere ricevuti in un altro luogo, segnatamente in un ospedale, una casa di riposo o un penitenziario.[^14b-2]
 
 [^14b-1]: Introdotto dal n. I dell’O del 7 nov. 2012 ([RU 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Nuovo testo giusta il n. I dell’O del 27 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14b-2]: Correzione del 18 nov. 2024 ([RU 2024 651](https://fedlex.data.admin.ch/eli/oc/2024/651)).
 
 ## Capitolo 3: Procedura di documentazione
 
@@ -1032,7 +1033,7 @@ La nascita è notificata:
 
 - a. dalla direzione dell’ospedale, della casa per partorienti o di un istituto analogo in cui è avvenuta; la direzione può delegare la notificazione ai propri collaboratori, a condizione di assumersene la responsabilità;
 - b.[^34-2] se le condizioni di cui alla lettera a non sono adempiute, nell’ordine seguente: dal medico, dalla levatrice o dall’ostetrico;
-- [tab] b<sup>bis</sup>.[^34-3]se le condizioni di cui alle lettere a e b non sono adempiute, nell’ordine seguente: dagli aiutanti del medico, dagli aiutanti della levatrice o dell’ostetrico, da ogni altra persona presente al parto, dalla madre;
+- b<sup>bis</sup>.[^34-3] se le condizioni di cui alle lettere a e b non sono adempiute, nell’ordine seguente: dagli aiutanti del medico, dagli aiutanti della levatrice o dell’ostetrico, da ogni altra persona presente al parto, dalla madre;
 - c. dall’autorità competente conformemente al diritto cantonale se si tratta di un trovatello (art. 38);
 - d. da qualsiasi autorità ne venga a conoscenza se non è stata notificata.
 
@@ -2568,19 +2569,13 @@ Allegato[^t-1]
 
 Abbreviazioni
 
-D Documentare
-
-R Richiamare
-
-RE Registrare
-
-AV Autorità cantonale di vigilanza sullo stato civile
-
-UFSC + aut. ab. UFSC (UFSC) e autorità abilitate designate all’art. 43*a* cpv. 4 CC
-
-USC CS Collaboratore specialista dello stato civile
-
-USC PD Persona preposta alla documentazione dello stato civile (ufficiale dello stato civile)
+- D Documentare
+- R Richiamare
+- RE Registrare
+- AV Autorità cantonale di vigilanza sullo stato civile
+- UFSC + aut. ab. UFSC (UFSC) e autorità abilitate designate all’art. 43*a* cpv. 4 CC
+- USC CS Collaboratore specialista dello stato civile
+- USC PD Persona preposta alla documentazione dello stato civile (ufficiale dello stato civile)
 
 Diritti d’accesso
 

@@ -4,11 +4,11 @@ title: Zivilstandsverordnung vom 28. April 2004 (ZStV)
 short: ZStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/362"
 language: de
-version: 2024-11-11
+version: 2024-11-18
 adopted: 2004-04-28
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241111/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241111-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241111/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/362/20241118/de/xml/fedlex-data-admin-ch-eli-cc-2004-362-20241118-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241118/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/362/20241111/de"
 
 (ZStV)
 
-vom 28. April 2004 (Stand am 11. November 2024)
+vom 28. April 2004 (Stand am 18. November 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -527,9 +527,10 @@ Wird das Kind durch den Vater anerkannt und ist es nicht das erste gemeinsame Ki
 
 <sup>2</sup> In den Fällen nach Artikel 30*b* Absatz 4 ZGB ist die Zustimmung der gesetzlichen Vertreterin oder des gesetzlichen Vertreters schriftlich abzugeben. Die Vertretungsbefugnisse sind nachzuweisen und die Unterschriften sind zu beglaubigen.
 
-<sup>3</sup> Weist die erklärende Person oder die gesetzliche Vertreterin oder der gesetzliche Vertreter nach, dass es für sie oder ihn offensichtlich unzumutbar ist, persönlich auf dem Zivilstandsamt zu erscheinen, so kann die Erklärung beziehungsweise die Zustimmung an einem anderen Ort entgegengenommen werden, namentlich in einer Klinik, einem Heim oder einer Strafvollzugsanstalt.
+<sup>3</sup> Weist die erklärende Person oder die gesetzliche Vertreterin oder der gesetzliche Vertreter nach, dass es für sie oder ihn offensichtlich unzumutbar ist, persönlich auf dem Zivilstandsamt zu erscheinen, so kann die Erklärung beziehungsweise die Zustimmung an einem anderen Ort entgegengenommen werden, namentlich in einer Klinik, einem Heim oder einer Strafvollzugsanstalt.[^14b-2]
 
 [^14b-1]: Eingefügt durch Ziff. I der V vom 7. Nov. 2012 ([AS 2012 6463](https://fedlex.data.admin.ch/eli/oc/2012/772)). Fassung gemäss Ziff. I der V vom 27. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 666](https://fedlex.data.admin.ch/eli/oc/2021/666)).
+[^14b-2]: Die Berichtigung vom 18. Nov. 2024 betrifft nur den italienischen Text ([AS 2024 651](https://fedlex.data.admin.ch/eli/oc/2024/651)).
 
 ## 3. Kapitel: Verfahren der Beurkundung
 
