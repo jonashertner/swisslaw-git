@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 18.09.2024 de mise en vigueur
+title: ARRÊTÉ du 13.11.2024 de mise en vigueur
 language: fr
-version: 2024-09-24
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=ff5ea7da-7f60-47fc-bdcb-1c959e282d41"
+version: 2024-11-19
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=6c15e511-8f9b-4d9b-b19e-fbe79ac352d9"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 18 septembre 2024
+du 13 novembre 2024
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,9 +21,4 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les actes législatifs ci-après du 4 juin 2024, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 28 juin 2024, entrent en vigueur avec effet au 1er janvier 2025 :
-
-- 1\. loi du 4 juin 2024 sur la péréquation intercommunale (LPIV) (BLV 175.51) ;
-- 2\. loi du 4 juin 2024 modifiant celle du 24 novembre 2003 sur l'organisation et le financement de la politique sociale (BLV 850.01) ;
-- 3\. loi du 4 juin 2024 modifiant celle du 13 septembre 2011 sur l'organisation policière vaudoise (BLV 133.05) ;
-- 4\. décret du 4 juin 2024 octroyant une compensation transitoire aux communes désavantagées par le nouveau système péréquatif (BLV 175.575).
+<sup>1</sup> Le décret du 20 août 2024 sur la création d'un fonds permettant l'exercice du droit de préemption de l'Etat au sens de la loi du 10 mai 2016 sur la préservation et la promotion du parc locatif (BLV 840.151), publié dans la "Feuille des avis officiels du Canton de Vaud" du 3 septembre 2024, entre en vigueur avec effet au 1er décembre 2024.
