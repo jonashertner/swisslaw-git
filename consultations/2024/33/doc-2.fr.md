@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur l’exploitation des centrales de réserve destinées à la production d’énergie électrique pour le marché en cas de pénurie grave d’électricité
 document: Projet mis en consultation
 language: fr

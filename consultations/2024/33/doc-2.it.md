@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sull’esercizio delle centrali di riserva per la produzione di energia elettrica destinata al mercato in caso di grave penuria
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über den Betrieb der Reservekraftwerke zur Erzeugung elektrischer Energie für den Markt in einer schweren Strommangellage
 document: Vernehmlassungsvorlage
 language: de
