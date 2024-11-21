@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes über die Verrechnungssteuer (Too-big-to-fail-Instrumente)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur l’impôt anticipé (Instruments too big to fail)
 document: Projet mis en consultation
 language: fr
