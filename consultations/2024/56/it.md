@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Controprogetto indiretto all’iniziativa popolare «Sì al divieto di importare prodotti di pellicceria ottenuti infliggendo sofferenze agli animali (Iniziativa pellicce)»
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Contre-projet indirect à l’initiative populaire fédérale «Oui à l’interdiction d’importer des produits en fourrure provenant d’animaux ayant subi de mauvais traitements (initiative fourrure)»
 document: Projet mis en consultation
 language: fr

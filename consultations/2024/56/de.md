@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Indirekter Gegenvorschlag zur Volksinitiative «Ja zum Importverbot für tierquälerisch erzeugte Pelzprodukte (Pelz-Initiative)»
 document: Vernehmlassungsvorlage
 language: de
