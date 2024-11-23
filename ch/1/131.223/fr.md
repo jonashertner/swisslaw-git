@@ -3,11 +3,11 @@ sr: "131.223"
 title: "Constitution du canton de Schaffhouse, du 17 juin 2002"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1135_fga"
 language: fr
-version: 2021-09-21
+version: 2024-11-24
 adopted: 2002-06-17
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20210921/fr/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20210921-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20210921/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20241124/fr/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20241124-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20241124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20210921/fr"
 
 Traduction[^t-1]
 
-du 17 juin 2002 (État le 21 septembre 2021)[^t-2]
+du 17 juin 2002 (État le 24 novembre 2024)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Responsable devant Dieu envers l’homme et la nature, le peuple du canton de Schaffhouse
 
@@ -121,7 +121,9 @@ La dignité humaine doit être respectée et protégée. Elle constitue la base 
 
 #### Art. 12
 
-<sup>1</sup> Les libertés fondamentales sont garanties, notamment
+<sup>1</sup>
+
+Les libertés fondamentales sont garanties, notamment:
 
 - a. la liberté personnelle
 - b. la protection de la sphère privée
@@ -170,7 +172,7 @@ Les personnes qui, suite à une infraction, ont été atteintes dans leur intég
 
 <sup>2</sup> …[^17-1]
 
-[^17-1]: Abrogé en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^17-1]: Abrogé en votation populaire du 7 mars 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Garanties de procédure
 
@@ -210,7 +212,9 @@ Les personnes qui, suite à une infraction, ont été atteintes dans leur intég
 
 #### Art. 22
 
-<sup>1</sup> Le canton et les communes s’engagent, en complément de la responsabilité individuelle et de l’initiative privée, à ce que
+<sup>1</sup>
+
+Le canton et les communes s’engagent, en complément de la responsabilité individuelle et de l’initiative privée, à ce que:
 
 - a. toute personne bénéficie de la sécurité sociale
 - b. toute personne bénéficie des soins nécessaires à sa santé
@@ -246,7 +250,7 @@ Les personnes qui, suite à une infraction, ont été atteintes dans leur intég
 
 #### Art. 24
 
-Les électeurs élisent
+Les électeurs élisent:
 
 - a. le Grand Conseil
 - b. le Conseil d’État
@@ -264,7 +268,7 @@ Les électeurs élisent
 
 <sup>4</sup> Les autres élections cantonales ont lieu au scrutin majoritaire.
 
-[^25-1]: Accepté en [votation populaire du 24 fév. 2008](http://www.admin.ch/ch/f/pore/va/20080224/index.html), en vigueur depuis le 1<sup>er</sup> mai 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1, ch. 3, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^25-1]: Accepté en votation populaire du 24 fév. 2008, en vigueur depuis le 1<sup>er</sup> mai 2008. Garantie de l’Ass. féd. du 18 déc. 2008 ([FF 2009 465](https://fedlex.data.admin.ch/eli/fga/2009/92)art. 1, ch. 3, [2008 5497](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Révocation
 
@@ -282,7 +286,9 @@ Les électeurs élisent
 
 #### Art. 27
 
-<sup>1</sup> Par une initiative populaire, 1000 électeurs peuvent demander
+<sup>1</sup>
+
+Par une initiative populaire, 1000 électeurs peuvent demander:
 
 - a. la révision totale ou partielle de la Constitution
 - b. l’adoption, la modification ou l’abrogation d’une loi
@@ -297,7 +303,9 @@ Les électeurs élisent
 
 <sup>1</sup> Le Conseil d’État statue sur l’aboutissement d’une initiative populaire.
 
-<sup>2</sup> Le Grand Conseil se prononce sur la validité d’une initiative populaire. Celle-ci sera entièrement ou partiellement invalidée
+<sup>2</sup>
+
+Le Grand Conseil se prononce sur la validité d’une initiative populaire. Celle-ci sera entièrement ou partiellement invalidée:
 
 - a. si elle viole le droit supérieur
 - b. si elle est inexécutable
@@ -339,7 +347,7 @@ Les électeurs élisent
 
 #### Art. 32
 
-Sont obligatoirement soumis au vote du peuple
+Sont obligatoirement soumis au vote du peuple:
 
 - a. les modifications de la Constitution
 - b. les traités internationaux et les conventions intercantonales qui sont directement applicables et qui dérogent à la Constitution
@@ -355,7 +363,9 @@ Sont obligatoirement soumis au vote du peuple
 
 #### Art. 33
 
-<sup>1</sup> Les électeurs peuvent demander que soient soumis au vote du peuple
+<sup>1</sup>
+
+Les électeurs peuvent demander que soient soumis au vote du peuple:
 
 - a. les lois qui ont été approuvées par quatre cinquièmes au moins des membres du Grand Conseil présents au moment du vote
 - b. les traités internationaux et les conventions intercantonales directement applicables qui ont le caractère d’une loi
@@ -396,6 +406,12 @@ Sont obligatoirement soumis au vote du peuple
 
 Les partis politiques contribuent à la formation de l’opinion et de la volonté des électeurs.
 
+### Transparence du financement des élections, des votations et des partis
+
+[^lvl3-lvl36-lvlu3-1]
+
+[^lvl3-lvl36-lvlu3-1]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 24 nov. 2024. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
 #### Art. 37a
 
 [^37a-1]
@@ -408,7 +424,20 @@ Les personnes physiques ou morales, telles que tous les partis et autres groupem
 - b. la raison sociale des personnes morales ayant participé au financement, y compris les montants versés;
 - c. l’identité des personnes physiques ayant participé au financement, y compris les montants versés; sont exclus les donateurs dont les versements n’excèdent pas 3000 francs par année civile.
 
+<sup>1bis</sup>
+
+Sont exclues des obligations de transparence visées à l’al. 1:
+
+- a. les campagnes d’élection et de votation communales dans les communes de moins de 3000 habitants;
+- b. les campagnes d’élection et de votation dont les dépenses s’élèvent à moins de 3000 francs au total.[^37a-2]
+
+<sup>1ter</sup> L’acceptation de libéralités anonymes est interdite.<sup>2</sup> Les candidats à des fonctions publiques au niveau du canton et à des fonctions exécutives ou législatives au niveau des communes signalent leurs liens d’intérêts au moment où ils posent leur candidature.[^37a-3]
+
 <sup>2</sup> Les candidats à des fonctions publiques au niveau du canton et à des fonctions exécutives ou législatives au niveau des communes signalent leurs liens d’intérêts au moment où ils posent leur candidature.
+
+<sup>2bis</sup> Sont exclus des obligations de transparence visées à l’al. 2 les candidats à des fonctions communales dans les communes de moins de 3000 habitants.[^37a-4]
+
+<sup>2ter</sup> Les al. 1 et 2 s’appliquent également aux élections au Conseil national.[^37a-5]
 
 <sup>3</sup> Les personnes élues à une fonction publique signalent leurs liens d’intérêt au début de l’année civile conformément à l’al. 2.
 
@@ -416,9 +445,16 @@ Les personnes physiques ou morales, telles que tous les partis et autres groupem
 
 <sup>5</sup> Les infractions commises par des candidats ou des élus ainsi que des personnes physiques ou morales, des partis, des groupements politiques, des comités de campagne, des lobbys ou d’autres organisations aux obligations prévues aux al. 1 à 3 de la présente disposition sont punis de l’amende.
 
+<sup>5bis</sup> Les donations aux partis politiques contrevenant aux obligations de transparence ne sont pas déductibles fiscalement.[^37a-6]
+
 <sup>6</sup> La loi règle les modalités. Elle tient notamment compte du secret professionnel.
 
-[^37a-1]: Accepté en [votation populaire du 9 fév. 2020](http://www.admin.ch/ch/f/pore/va/20200209/index.html), en vigueur depuis le 9 fév. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^37a-1]: Accepté en votation populaire du 9 fév. 2020, en vigueur depuis le 9 fév. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^37a-2]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 24 nov. 2024. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^37a-3]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 24 nov. 2024. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^37a-4]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 24 nov. 2024. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^37a-5]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 24 nov. 2024. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^37a-6]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 24 nov. 2024. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 ## 4 A Autorités
 
@@ -446,12 +482,12 @@ Les personnes physiques ou morales, telles que tous les partis et autres groupem
 
 <sup>1</sup> Tous les citoyens suisses ayant le droit de vote dans le canton sont éligibles au Grand Conseil, au Conseil d’État et au Conseil des États.[^40-1]
 
-- [tab] <sup>1bis</sup> Tous les citoyens suisses majeurs sont éligibles à la Cour suprême et au Tribunal cantonal. Ils doivent être domiciliés dans le canton de Schaffhouse dès leur entrée en fonction.[^40-2]
+<sup>1bis</sup> Tous les citoyens suisses majeurs sont éligibles à la Cour suprême et au Tribunal cantonal. Ils doivent être domiciliés dans le canton de Schaffhouse dès leur entrée en fonction.[^40-2]
 
 <sup>2</sup> La loi règle les conditions d’éligibilité des autres membres des autorités et les conditions de nomination du personnel de l’administration cantonale et des autorités judiciaires. Elle peut prévoir des exigences supplémentaires pour les autorités judiciaires.
 
-[^40-1]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
-[^40-2]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^40-1]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^40-2]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Durée de fonction
 
@@ -463,7 +499,9 @@ Les membres du Grand Conseil, du Conseil d’État, des autorités judiciaires e
 
 #### Art. 42
 
-<sup>1</sup> Nul ne peut simultanément faire partie
+<sup>1</sup>
+
+Nul ne peut simultanément faire partie:
 
 - a. du Grand Conseil, du Conseil d’État et d’une autorité judiciaire cantonale
 - b. du Conseil d’État, du Conseil national et du Conseil des États
@@ -481,7 +519,7 @@ Les membres du Grand Conseil, du Conseil d’État, des autorités judiciaires e
 
 Ne peuvent appartenir simultanément à la même autorité, le Grand Conseil, les législatifs communaux et l’Assemblée constituante exceptés, les conjoints, les partenaires enregistrés, les concubins, les parents et leurs enfants, les frères et sœurs.
 
-[^43-1]: Accepté en [votation populaire du 24 sept. 2006](http://www.admin.ch/ch/f/pore/va/20060924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2007. Garantie de l’Ass. féd. du 6 mars 2008 ([FF 2008 2273](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1, ch. 5, [2007 7197](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^43-1]: Accepté en votation populaire du 24 sept. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007. Garantie de l’Ass. féd. du 6 mars 2008 ([FF 2008 2273](https://fedlex.data.admin.ch/eli/fga/2008/524)art. 1, ch. 5, [2007 7197](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Engagement à respecter la Constitution et la loi
 
@@ -547,7 +585,7 @@ Avant leur entrée en fonctions, les membres des autorités s’engagent à resp
 
 #### Art. 50
 
-Toutes les règles de droit importantes doivent être édictées sous forme de loi. En font partie les dispositions pour lesquelles la Constitution prévoit expressément la forme de la loi, ainsi que les dispositions fondamentales relatives
+Toutes les règles de droit importantes doivent être édictées sous forme de loi. En font partie les dispositions pour lesquelles la Constitution prévoit expressément la forme de la loi, ainsi que les dispositions fondamentales relatives:
 
 - a. aux droits populaires
 - b. à la restriction des droits constitutionnels
@@ -610,7 +648,7 @@ Toutes les règles de droit importantes doivent être édictées sous forme de l
 
 <sup>3</sup> Il peut prévoir une évaluation indépendante, portant sur l’efficacité des mesures cantonales.
 
-[^55-1]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^55-1]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Compétences financières
 
@@ -626,7 +664,9 @@ Toutes les règles de droit importantes doivent être édictées sous forme de l
 
 #### Art. 57
 
-<sup>1</sup> Le Grand Conseil
+<sup>1</sup>
+
+Le Grand Conseil:
 
 - a. arrête les objets soumis à la votation populaire, à l’exception de la demande de révocation du Grand Conseil
 - b. décide du recours au référendum facultatif avec d’autres cantons et du dépôt, au niveau fédéral, d’une initiative du canton
@@ -724,7 +764,9 @@ Les membres du Conseil d’État ne peuvent exercer une activité lucrative priv
 
 <sup>2</sup> Il arrête le budget et le compte d’État à l’intention du Grand Conseil.
 
-<sup>3</sup> Il arrête
+<sup>3</sup>
+
+Il arrête:
 
 - a. les dépenses nouvelles uniques jusqu’à concurrence de 100 000 francs et les dépenses annuelles nouvelles jusqu’à concurrence de 20 000 francs
 - b. les actes de disposition concernant les biens-fonds du patrimoine financier jusqu’à concurrence d’un million de francs.
@@ -735,7 +777,7 @@ Les membres du Conseil d’État ne peuvent exercer une activité lucrative priv
 
 #### Art. 67
 
-Le Conseil d’État
+Le Conseil d’État:
 
 - a. représente le canton à l’extérieur et à l’intérieur
 - b. répond du maintien de la sécurité et de l’ordre publics
@@ -775,7 +817,7 @@ Le Conseil d’État
 
 <sup>2</sup> Le droit du Conseil d’État de donner des instructions à tous les organes administratifs demeure réservé; en sont exceptées en particulier les activités juridictionnelles des autorités administratives et les activités de poursuite du ministère public.[^70-1]
 
-[^70-1]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^70-1]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### 4.6 A Autorités judiciaires
 
@@ -799,8 +841,8 @@ Le Conseil d’État
 
 <sup>3</sup> …[^72-2]
 
-[^72-1]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
-[^72-2]: Abrogé en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^72-1]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^72-2]: Abrogé en votation populaire du 7 mars 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Élections et nominations
 
@@ -810,7 +852,7 @@ Le Conseil d’État
 
 <sup>2</sup> Les autres membres des autorités judiciaires et leurs collaborateurs sont nommés par la Cour suprême ou par le Tribunal cantonal. La Cour suprême peut déléguer la nomination de ses collaborateurs.[^73-1]
 
-[^73-1]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^73-1]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Assistance, informations juridiques
 
@@ -824,7 +866,7 @@ Le Conseil d’État
 
 [^75-1]
 
-[^75-1]: Abrogé en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^75-1]: Abrogé en votation populaire du 7 mars 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Autorités de poursuite pénale
 
@@ -836,8 +878,8 @@ Le Conseil d’État
 
 <sup>3</sup> Les autorités de poursuite pénale dont la fonction première n’est pas judiciaire peuvent être soumises à la surveillance du Conseil d’État.
 
-[^76-1]: Abrogé en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
-[^76-2]: Accepté en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^76-1]: Abrogé en votation populaire du 7 mars 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^76-2]: Accepté en votation populaire du 7 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Tribunal cantonal
 
@@ -847,7 +889,7 @@ Le Conseil d’État
 
 <sup>2</sup> …[^77-1]
 
-[^77-1]: Abrogé en [votation populaire du 7 mars 2010](http://www.admin.ch/ch/f/pore/va/20100307/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^77-1]: Abrogé en votation populaire du 7 mars 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 2 mars 2011 ([FF 2011 2737](https://fedlex.data.admin.ch/eli/fga/2011/432)art. 1 ch. 3, [2010 7239](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Cour suprême
 
@@ -874,7 +916,9 @@ Le Conseil d’État
 
 <sup>1</sup> Dans l’accomplissement de ses tâches, le canton oriente son action en fonction des besoins et du bien-être de tous.
 
-<sup>2</sup> Le canton ne s’acquitte d’une tâche que
+<sup>2</sup>
+
+Le canton ne s’acquitte d’une tâche que:
 
 - a. si l’offre privée est insuffisante, ou
 - b. si les communes sont dans l’incapacité de remplir cette tâche de manière économique et efficace, ou
@@ -1054,7 +1098,7 @@ Le canton peut, dans l’intérêt de l’économie régionale, gérer une banqu
 
 #### Art. 98
 
-Le canton tire ses ressources notamment
+Le canton tire ses ressources notamment:
 
 - a. de la perception d’impôts et d’autres taxes
 - b. des rendements de son patrimoine
@@ -1275,16 +1319,215 @@ Les dispositions du droit en vigueur qui sont contraires à la présente Constit
 
 La Constitution est publiée au journal officiel et intégrée dans le recueil des lois cantonales.
 
+## Dispositions transitoires relatives à l’art. 37*a*
+
+[^u1-1]
+
+[^u1-1]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 24 nov. 2024. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+
+<sup>1</sup> L’art. 37*a* tel qu’adopté lors de la votation du 9 février 2020 et complété par les al. 1<sup>bis</sup>, 1<sup>ter</sup>, 2<sup>bis</sup>, 2<sup>ter</sup> et 5<sup>bis</sup> entre en vigueur immédiatement.
+
+<sup>2</sup> Dès l’adoption de l’art. 37*a*, al. 1<sup>bis</sup>, 1<sup>ter</sup>, 2<sup>bis</sup>, 2<sup>ter</sup> et 5<sup>bis</sup>, et jusqu’à l’entrée en vigueur des dispositions d’exécution cantonales, les dispositions fédérales sur la transparence s’appliquent par analogie à titre subsidiaire, notamment les art. 76*b* à 76*j* de la loi fédérale sur les droits politiques[^u1-2] et l’art. 11 de la loi sur l’Assemblée fédérale[^u1-3]. Si nécessaire, le Conseil d’État adopte immédiatement les dispositions d’exécution complémentaires.
+
+[^u1-2]: [RS 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
+[^u1-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+
 ## Index des matières
 
 Les chiffres renvoient aux articles et divisions d’articles de la constitution
 
 **Actes législatifs**
 
+Administration
+
+Age
+
+Aide aux victimes d’infractions 16
+
+**Amnistie** compétence du Grand Conseil 57<sup>1d</sup>
+
+**Assistance** droit des enfants et des jeunes d’être protégés et assistés 14
+
+**Association**, liberté de réunion et d’association, liberté syndicale 12<sup>1h</sup>
+
+Autorités
+
+**Banque cantonale** v. Canton
+
+Biens-fonds du patrimoine financier 66<sup>3b</sup>
+
+**Bonne foi** 7<sup>3</sup>
+
+**Budget**
+
+Buts sociaux 22
+
+Canton
+
+Citoyens
+
+Communes
+
+**Comptes** v. Budget
+
+Confédération
+
+**Conseil des États**
+
+Conseil d’État
+
+**Conseil national**
+
+Constitution cantonale
+
+**Consultations** 36
+
+**Contre-projet** à une initiative 29<sup>2</sup>, 30
+
+**Cour suprême** v. tribunaux
+
+**Croyance**, liberté de conscience et de12<sup>1d</sup>
+
+**Décisions**
+
+**Décrets** du Grand Conseil 53<sup>2</sup>, 65<sup>1</sup>
+
+**Départements** de l’administration 69<sup>1</sup>, 70<sup>1</sup>
+
+**Développement durable** 9
+
+**Dignité humaine** 10
+
+Droit de vote
+
+Droits
+
+Droits régaliens 95
+
+**Durée de fonction** 41
+
+Ecclésiastiques 111<sup>2</sup>
+
+**École**
+
+Économie 93–95
+
+**Égalité** 11<sup>1</sup>
+
+**Églises** 108–113
+
+Élections
+
+**Élection**, transparence du financement 37*a*
+
+**Éligibilité** 40
+
+**Emprunts**
+
+Enfants
+
+**Enseignement**
+
+**Établissement**, liberté d’12<sup>1i</sup>
+
+État
+
+Exécution
+
+Finances
+
+Fonction
+
+Fonctionnaires 121
+
+**Formation** 88–90
+
+**Grâce** compétence du Grand Conseil 57<sup>1d</sup>
+
+Grand Conseil
+
+**Immunité parlementaire** 59<sup>2</sup>, 62<sup>2</sup>
+
+Impôts
+
+Incompatibilité
+
+**Infraction**
+
+Initiative
+
+Juges
+
+**Juridiction** v. aussi Tribunaux
+
+**Liberté(s)** v. Droits
+
+**Litiges de droit civil** 77<sup>1</sup>, 78<sup>1</sup>
+
+**Lois**
+
+**Opinion**, liberté d’ 12<sup>1e</sup>
+
+**Parenté** incompatibilités personnelles 43
+
+**Partenaires**
+
+Partis politiques, transparence du financement 37*a*
+
+Pétitions
+
+Peuple
+
+**Population**
+
+**Poursuite pénale** 17, 71, 76–78
+
+**Pouvoirs**, séparation8
+
+**Propriété**, garantie12<sup>2</sup>
+
+**Publicité**
+
+Rapport de gestion
+
+Référendum
+
+Religion
+
+**Responsabilité** de l’État et des autorités 48
+
+**Réunion**, liberté de réunion et d’association, liberté syndicale 12<sup>1h</sup>
+
+Révision de la Constitution cantonale
+
+**Santé** 22<sup>1b</sup>, 87
+
+**Scrutin majoritaire** 25<sup>4</sup>
+
+**Scrutin proportionnel** du Grand Conseil 25<sup>1</sup>
+
+**Situation de détresse**, droit d’obtenir de l’aide 13
+
+Souveraineté 1
+
+**Sphère privée**, protection12<sup>1b</sup>
+
+**Suissesse / Suisse** droit de cité comme condition du / de l’
+
+**Surveillance** (haute surveillance)
+
+Taxes
+
+Transparence du financement des élections, des votations et des partis 37*a*
+
+Tribunaux
+
+**Victimes d’infractions**, aide 16
+
+**Votation populaire** v. Peuple / votation populaire
+
 - – exécution 67<sup>e</sup>
 - – publication 67<sup>d</sup>
-
-Administration
 
 - – cantonale, en générale 69, 70
 - – compétences juridictionnelles 49<sup>4</sup>
@@ -1296,21 +1539,9 @@ Administration
 - – litiges de droit public ou de droit administratif 67<sup>h</sup>, 78<sup>2</sup>
 - – personnel 40<sup>2</sup>
 
-Age
-
 - – âge de travailler 22<sup>1f</sup>
 - – comme condition du droit de vote 23
 - – conséquences économiques de l’âge 22<sup>2</sup>
-
-Aide aux victimes d’infractions 16
-
-**Amnistie** compétence du Grand Conseil 57<sup>1d</sup>
-
-**Assistance** droit des enfants et des jeunes d’être protégés et assistés 14
-
-**Association**, liberté de réunion et d’association, liberté syndicale 12<sup>1h</sup>
-
-Autorités
 
 - – autorités administratives 70, 76
 - – autorités de poursuite pénale 76
@@ -1332,34 +1563,18 @@ Autorités
 - – récusation 45
 - – responsabilité 48<sup>2</sup>
 
-**Banque cantonale** v. Canton
-
-Biens-fonds du patrimoine financier 66<sup>3b</sup>
-
-**Bonne foi** 7<sup>3</sup>
-
-**Budget**
-
 - – arrêté par le Conseil d’État 66<sup>2</sup>
 - – arrêté par le Grand Conseil 56<sup>a</sup>
 - – campagne électorale ou de votation 37*a*
 - – référendum facultatif 33<sup>1c</sup>
 
-Buts sociaux 22
-
-Canton
-
 - – banque cantonale 94
 - – citoyens cantonaux v. Citoyens
 - – Tribunal cantonal v. tribunaux
 
-Citoyens
-
 - – besoins des citoyens 39<sup>1</sup>
 - – droit de cité 5
 - – droit de cité cantonal, octroi 57<sup>1e</sup>
-
-Communes
 
 - – généralités 102–107
 - – autonomie communale 105
@@ -1383,10 +1598,6 @@ Communes
 - – tâches publiques 80–87, 89–93, 95
 - – territoire cantonal 4<sup>2</sup>
 
-**Comptes** v. Budget
-
-Confédération
-
 - – accomplissement des tâches délégués 3<sup>2</sup>
 - – avis du canton à l’adresse de 32<sup>f, g</sup>
 - – collaboration 3<sup>1</sup>
@@ -1397,13 +1608,9 @@ Confédération
 - – formation de la volonté politique au niveau fédéral 3<sup>1</sup>
 - – prestations de la Confédération 98<sup>c</sup>
 
-**Conseil des États**
-
 - – élections 24<sup>c</sup>, 25<sup>4</sup>
 - – éligibilité 40<sup>1</sup>
 - – incompatibilités 42<sup>1b</sup>
-
-Conseil d’État
 
 - – généralités 60–68
 - – aboutissement d’une initiative populaire 28<sup>1</sup>
@@ -1426,12 +1633,8 @@ Conseil d’État
 
 - – instructions aux organes administratifs 70<sup>2</sup>
 
-**Conseil national**
-
 - – élections 24<sup>c</sup>
 - – incompatibilités 42<sup>1b</sup>
-
-Constitution cantonale
 
 - – assemblée constituante
   - – incompatibilité personnelle 43
@@ -1444,28 +1647,8 @@ Constitution cantonale
 - – révision de la Constitution cantonale 114–116
 - – vote du peuple 32<sup>a</sup>
 
-**Consultations** 36
-
-**Contre-projet** à une initiative 29<sup>2</sup>, 30
-
-**Cour suprême** v. tribunaux
-
-**Croyance**, liberté de conscience et de12<sup>1d</sup>
-
-**Décisions**
-
 - – du Conseil d’État 60<sup>2</sup>
 - – du Grand Conseil 32<sup>e, h, i</sup>, 33<sup>1d, e, f</sup>, 58, 67<sup>e</sup>
-
-**Décrets** du Grand Conseil 53<sup>2</sup>, 65<sup>1</sup>
-
-**Départements** de l’administration 69<sup>1</sup>, 70<sup>1</sup>
-
-**Développement durable** 9
-
-**Dignité humaine** 10
-
-Droit de vote
 
 - – en général 23
 - – électeurs
@@ -1481,8 +1664,6 @@ Droit de vote
   - – révocation 26
   - – votations populaires facultatives 33
   - – votations populaires obligatoires 32
-
-Droits
 
 - – droits fondamentaux
   - – aide aux victimes d’infractions 16
@@ -1523,28 +1704,12 @@ Droits
   - – motion populaire 31
   - – votations populaires 32–35
 
-Droits régaliens 95
-
-**Durée de fonction** 41
-
-Ecclésiastiques 111<sup>2</sup>
-
-**École**
-
 - – en général v. formation
 - – accès à l’enseignement supérieur 89<sup>1</sup>
 - – aide pour jeunes qui terminent leur scolarité 86<sup>2</sup>
 - – droit à une formation scolaire 15
 
-Économie 93–95
-
 - – liberté 12<sup>1j</sup>
-
-**Égalité** 11<sup>1</sup>
-
-**Églises** 108–113
-
-Élections
 
 - – circonscriptions électorales 25<sup>3</sup>
 - – droit de vote 23
@@ -1565,26 +1730,14 @@ Ecclésiastiques 111<sup>2</sup>
 - – scrutin majoritaire 25<sup>4</sup>
 - – scrutin proportionnel 25<sup>1</sup>
 
-**Éligibilité** 40
-
-**Emprunts**
-
 - – compétence du Conseil d’État 66<sup>4</sup>
 - – conclusion 98<sup>d</sup>
-
-Enfants
 
 - – droit à une formation scolaire 15
 - – protection des enfants et des jeunes 14
 
-**Enseignement**
-
 - – dans les écoles publiques 15<sup>2</sup>
 - – liberté 12<sup>f</sup>
-
-**Établissement**, liberté d’12<sup>1i</sup>
-
-État
 
 - – action / activité de l’État
   - – buts 63<sup>1</sup>
@@ -1604,11 +1757,7 @@ Enfants
 - – prestations de l’État 22<sup>4</sup>
 - – structure 8
 
-Exécution
-
 - – plus haute autorité 60
-
-Finances
 
 - – compétence du Grand Conseil 56<sup>d</sup>
 - – compétence du Conseil d’État 66<sup>3a</sup>
@@ -1619,21 +1768,11 @@ Finances
 - – péréquation financière 100
 - – référendum financière 32<sup>e</sup>, 33<sup>1d</sup>
 
-Fonction
-
 - – durée de fonction
   - – assemblée constituante 116
   - – généralités 26<sup>3</sup>, 41
 
 - – incompatibilités 42
-
-Fonctionnaires 121
-
-**Formation** 88–90
-
-**Grâce** compétence du Grand Conseil 57<sup>1d</sup>
-
-Grand Conseil
 
 - – généralités 52–59
 - – compétence lors des révisions de la Constitution 116<sup>1, 2</sup>, 117<sup>1</sup>
@@ -1645,10 +1784,6 @@ Grand Conseil
 - – révocation par le peuple 26
 - – voix consultative aux séances du Conseil d’État 62<sup>2</sup>
 
-**Immunité parlementaire** 59<sup>2</sup>, 62<sup>2</sup>
-
-Impôts
-
 - – charge fiscale 100<sup>1</sup>
 - – coefficient d’impôt 33<sup>1c</sup>
 - – fixation des taxes 56<sup>c</sup>
@@ -1656,19 +1791,13 @@ Impôts
 - – perception d’impôts 98<sup>a</sup>
 - – principes de taxation 99
 
-Incompatibilité
-
 - – assemblée constituante 116<sup>2</sup>
 - – Conseil d’État 61
 - – incompatibilité personnelle 43
 - – incompatibilités des fonctions 42
 
-**Infraction**
-
 - – aide aux victimes d’infractions 16
 - – poursuite pénale 76
-
-Initiative
 
 - – du Grand Conseil
   - – initiative du canton 57<sup>1b</sup>
@@ -1686,12 +1815,8 @@ Initiative
 
 - – initiative privée 22<sup>1</sup>
 
-Juges
-
 - – généralités v. tribunaux
 - – juges spécialisés 72<sup>2</sup>
-
-**Juridiction** v. aussi Tribunaux
 
 - – assistance judiciaire gratuite 18<sup>2</sup>
 - – autorités judiciaires
@@ -1701,12 +1826,6 @@ Juges
   - – incompatibilités 42
   - – légalité 38<sup>2</sup>
   - – récusation 45
-
-**Liberté(s)** v. Droits
-
-**Litiges de droit civil** 77<sup>1</sup>, 78<sup>1</sup>
-
-**Lois**
 
 - – base légale 21<sup>1</sup>
 - – clause d’urgence 34
@@ -1720,20 +1839,10 @@ Juges
 - – procédure législative préliminaire 65<sup>1</sup>
 - – votation populaire 32<sup>c</sup>, 33
 
-**Opinion**, liberté d’ 12<sup>1e</sup>
-
-**Parenté** incompatibilités personnelles 43
-
-**Partenaires**
-
 - – incompatibilités personnelles 43
-
-Pétitions
 
 - – droit de pétition 19
 - – traitement 57<sup>1f</sup>
-
-Peuple
 
 - – délégation de tâches entre les autorités 49<sup>1</sup>
 - – droits populaires 23–37, 50<sup>a</sup>, 52<sup>1</sup>, 53<sup>1</sup>, 65<sup>4</sup>, 122
@@ -1743,69 +1852,31 @@ Peuple
 - – initiative populaire 27–30, 32<sup>d</sup>, 122
 - – motion populaire 31
 - – relations culturelles entre les différentes communautés 91<sup>d</sup>
-- – votation populaire 27<sup>1c</sup>, 29<sup>1</sup>, 32–35, 53<sup>2,3</sup>, 57<sup>1a</sup>
-
-**Population**
+- – votation populaire 27<sup>1c</sup>, 29<sup>1</sup>, 32–35, 37*a*, 53<sup>2,3</sup>, 57<sup>1a</sup>
 
 - – répartition entre les circonscriptions électorales 25<sup>3</sup>
 - – santé 87
-
-**Poursuite pénale** 17, 71, 76–78
-
-**Pouvoirs**, séparation8
-
-**Propriété**, garantie12<sup>2</sup>
-
-**Publicité**
 
 - – des actes législatifs 47<sup>1</sup>
 - – des débats du Grand Conseil et des tribunaux 47<sup>2</sup>
 - – information 47<sup>3</sup>
 
-Rapport de gestion
-
 - – rapports de gestion 55<sup>2</sup>
-
-Référendum
 
 - – facultatif 33
 - – obligatoire 32
 - – référendum financière 32<sup>e</sup>, 33<sup>1d</sup>
 
-Religion
-
 - – v. Églises
 - – communautés religieuses 108<sup>2</sup>
-
-**Responsabilité** de l’État et des autorités 48
-
-**Réunion**, liberté de réunion et d’association, liberté syndicale 12<sup>1h</sup>
-
-Révision de la Constitution cantonale
 
 - – généralités 114
 - – initiative populaire 27<sup>1a, 2</sup>, 122<sup>2</sup>
 - – révision partielle 115
 - – révision totale 116
 
-**Santé** 22<sup>1b</sup>, 87
-
-**Scrutin majoritaire** 25<sup>4</sup>
-
-**Scrutin proportionnel** du Grand Conseil 25<sup>1</sup>
-
-**Situation de détresse**, droit d’obtenir de l’aide 13
-
-Souveraineté 1
-
-**Sphère privée**, protection12<sup>1b</sup>
-
-**Suissesse / Suisse** droit de cité comme condition du / de l’
-
 - – droit de vote 23<sup>1</sup>
 - – éligibilité 40<sup>1</sup>
-
-**Surveillance** (haute surveillance)
 
 - – de la Cour suprême 78<sup>3</sup>
 - – des Églises 111<sup>2</sup>
@@ -1814,14 +1885,10 @@ Souveraineté 1
 - – du Conseil d’État 67<sup>f</sup>, 76<sup>3</sup>
 - – organes communs de surveillance 107
 
-Taxes
-
 - – des communes 105
 - – fixation des taxes 56<sup>c</sup>
 - – forme de loi 50<sup>d</sup>
 - – perception d’impôts 98<sup>a</sup>
-
-Tribunaux
 
 - – généralités 71–78, 121
 - – Cour suprême
@@ -1838,7 +1905,3 @@ Tribunaux
 - – haute surveillance 55<sup>1</sup>, 59<sup>4</sup>
 - – organisation des tribunaux 72
 - – Tribunal cantonal 73<sup>2</sup>, 77
-
-**Victimes d’infractions**, aide 16
-
-**Votation populaire** v. Peuple / votation populaire

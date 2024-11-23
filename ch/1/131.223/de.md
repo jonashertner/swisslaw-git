@@ -3,20 +3,20 @@ sr: "131.223"
 title: "Verfassung des Kantons Schaffhausen, vom 17. Juni 2002"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1135_fga"
 language: de
-version: 2021-09-21
+version: 2024-11-24
 adopted: 2002-06-17
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20210921/de/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20210921-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20210921/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20241124/de/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20241124-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20241124/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Schaffhausen
 
-vom 17. Juni 2002 (Stand am 21. September 2021)[^t-1]
+vom 17. Juni 2002 (Stand am 24. November 2024)[^t-1]
 
-[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 In Verantwortung vor Gott für Mensch und Natur gibt sich das Volk des Kantons Schaffhausen folgende Verfassung:
 
@@ -116,7 +116,9 @@ Die Würde des Menschen ist zu achten und zu schützen. Sie bildet die Grundlage
 
 #### Art. 12
 
-<sup>1</sup> Die Freiheitsrechte sind gewährleistet, insbesondere
+<sup>1</sup>
+
+Die Freiheitsrechte sind gewährleistet, insbesondere:
 
 - a. die persönliche Freiheit
 - b. der Schutz der Privatsphäre
@@ -165,7 +167,7 @@ Personen, die infolge einer Straftat in ihrer körperlichen, psychischen oder se
 
 <sup>2</sup> …[^17-1]
 
-[^17-1]: Aufgehoben in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^17-1]: Aufgehoben in der Volksabstimmung vom 7. März 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Verfahrensgarantien
 
@@ -205,7 +207,9 @@ Personen, die infolge einer Straftat in ihrer körperlichen, psychischen oder se
 
 #### Art. 22
 
-<sup>1</sup> Kanton und Gemeinden setzen sich in Ergänzung zu persönlicher Verantwortung und privater Initiative dafür ein, dass
+<sup>1</sup>
+
+Kanton und Gemeinden setzen sich in Ergänzung zu persönlicher Verantwortung und privater Initiative dafür ein, dass:
 
 - a. jede Person an der sozialen Sicherheit teilhat
 - b. jede Person die für ihre Gesundheit notwendige Pflege erhält
@@ -241,7 +245,7 @@ Personen, die infolge einer Straftat in ihrer körperlichen, psychischen oder se
 
 #### Art. 24
 
-Die Stimmberechtigten wählen
+Die Stimmberechtigten wählen:
 
 - a. den Kantonsrat
 - b. den Regierungsrat
@@ -259,7 +263,7 @@ Die Stimmberechtigten wählen
 
 <sup>4</sup> Bei den anderen kantonalen Wahlen gilt das Mehrheitswahlverfahren.
 
-[^25-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Mai 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 3, [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^25-1]: Angenommen in der Volksabstimmung vom 24. Febr. 2008, in Kraft seit 1. Mai 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 3, [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Abberufung
 
@@ -277,7 +281,9 @@ Die Stimmberechtigten wählen
 
 #### Art. 27
 
-<sup>1</sup> Mit einer Volksinitiative können 1000 Stimmberechtigte das Begehren stellen auf
+<sup>1</sup>
+
+Mit einer Volksinitiative können 1000 Stimmberechtigte das Begehren stellen auf:
 
 - a. Total- oder Teilrevision der Verfassung
 - b. Erlass, Änderung oder Aufhebung eines Gesetzes
@@ -292,7 +298,9 @@ Die Stimmberechtigten wählen
 
 <sup>1</sup> Der Regierungsrat entscheidet über das Zustandekommen der Volksinitiative.
 
-<sup>2</sup> Der Kantonsrat entscheidet über die Gültigkeit der Volksinitiative. Diese ist ganz oder teilweise ungültig zu erklären, wenn sie
+<sup>2</sup>
+
+Der Kantonsrat entscheidet über die Gültigkeit der Volksinitiative. Diese ist ganz oder teilweise ungültig zu erklären, wenn sie:
 
 - a. gegen übergeordnetes Recht verstösst
 - b. undurchführbar ist
@@ -334,7 +342,7 @@ Die Stimmberechtigten wählen
 
 #### Art. 32
 
-Die Stimmberechtigten entscheiden obligatorisch über
+Die Stimmberechtigten entscheiden obligatorisch über:
 
 - a. Verfassungsänderungen
 - b. internationale und interkantonale Verträge, die unmittelbar anwendbar sind und nicht mit der Verfassung übereinstimmen
@@ -350,7 +358,9 @@ Die Stimmberechtigten entscheiden obligatorisch über
 
 #### Art. 33
 
-<sup>1</sup> Die Stimmberechtigten können verlangen, dass der Volksabstimmung unterstellt werden
+<sup>1</sup>
+
+Die Stimmberechtigten können verlangen, dass der Volksabstimmung unterstellt werden:
 
 - a. Gesetze, denen mindestens <sup>4</sup>/<sub>5</sub> der anwesenden Mitglieder des Kantonsrates zugestimmt haben
 - b. unmittelbar anwendbare internationale und interkantonale Verträge mit gesetzgebendem Charakter
@@ -391,6 +401,12 @@ Die Stimmberechtigten entscheiden obligatorisch über
 
 Die politischen Parteien wirken bei der Meinungs- und Willensbildung der Stimmberechtigten mit.
 
+### Transparente Wahl-, Abstimmungs- und Parteienfinanzierung
+
+[^lvl3-lvl36-lvlu3-1]
+
+[^lvl3-lvl36-lvlu3-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 24. Nov. 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Siehe auch die UeB am Schluss des Textes.
+
 #### Art. 37a
 
 [^37a-1]
@@ -403,7 +419,20 @@ Natürliche und juristische Personen, wie alle Parteien und sonstigen politische
 - b. die Namen der juristischen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags;
 - c. die Namen der natürlichen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags; ausgenommen sind Spenderinnen und Spender, deren Zuwendung insgesamt 3000 Franken pro Kalenderjahr nicht übersteigt.
 
+<sup>1bis</sup>
+
+Ausgenommen von den Offenlegungspflichten nach Absatz 1 sind:
+
+- a. Kommunale Wahl- und Abstimmungskämpfe in Gemeinden mit weniger als 3000 Einwohnerinnen und Einwohnern;
+- b. Wahl- und Abstimmungskampagnen, für die gesamthaft weniger als 3000 Franken aufgewendet werden.[^37a-2]
+
+<sup>1ter</sup> Die Annahme anonymer Zuwendungen ist verboten.[^37a-3]
+
 <sup>2</sup> Alle Kandidierenden für alle öffentlichen Ämter auf kantonaler und für Exekutiven und Legislativen auf kommunaler Ebene legen ihre Interessenbindungen bei der Anmeldung ihrer Kandidatur offen.
+
+<sup>2bis</sup> Ausgenommen von der Offenlegungspflicht nach Absatz 2 sind Kandidierende für kommunale Ämter in Gemeinden mit weniger als 3000 Einwohnerinnen und Einwohnern.[^37a-4]
+
+<sup>2ter</sup> Der Geltungsbereich der Absätze 1 und 2 wird auf die Nationalratswahlen ausgedehnt.[^37a-5]
 
 <sup>3</sup> Zu Beginn eines Kalenderjahres legen alle gewählten Mandatsträgerinnen und Mandatsträger in öffentlichen Ämtern gemäss Absatz 2 ihre Interessenbindungen offen.
 
@@ -411,9 +440,16 @@ Natürliche und juristische Personen, wie alle Parteien und sonstigen politische
 
 <sup>5</sup> Widerhandlungen von Kandidierenden und gewählten Mandatsträgerinnen und Mandatsträgern sowie von natürlichen und juristischen Personen, von Parteien, politischen Gruppierungen, Abstimmungskomitees, Lobbyorganisationen und sonstigen Organisationen gegen die Verpflichtungen von Absätzen 1–3 dieses Verfassungsartikels werden mit Busse sanktioniert.
 
+<sup>5bis</sup> Spenden an politische Parteien, die gegen die Offenlegungspflichten verstossen haben, sind steuerlich nicht abzugsfähig.[^37a-6]
+
 <sup>6</sup> Das Gesetz regelt die Einzelheiten. Es trägt namentlich dem Schutz von Berufsgeheimnissen Rechnung.
 
-[^37a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2020](http://www.admin.ch/ch/d/pore/va/20200209/index.html), in Kraft seit 9. Febr. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^37a-1]: Angenommen in der Volksabstimmung vom 9. Febr. 2020, in Kraft seit 9. Febr. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^37a-2]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 24. Nov. 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Siehe auch die UeB am Schluss des Textes.
+[^37a-3]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 24. Nov. 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Siehe auch die UeB am Schluss des Textes.
+[^37a-4]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 24. Nov. 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Siehe auch die UeB am Schluss des Textes.
+[^37a-5]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 24. Nov. 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Siehe auch die UeB am Schluss des Textes.
+[^37a-6]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 24. Nov. 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)). Siehe auch die UeB am Schluss des Textes.
 
 ## 4 B Behörden
 
@@ -445,8 +481,8 @@ Natürliche und juristische Personen, wie alle Parteien und sonstigen politische
 
 <sup>2</sup> Das Gesetz regelt die Wählbarkeit der übrigen Behördenmitglieder sowie des Personals der kantonalen Verwaltung und der Rechtspflegebehörden. Es kann für Rechtspflegebehörden zusätzliche Anforderungen stellen.
 
-[^40-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
-[^40-2]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^40-1]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^40-2]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Amtsdauer
 
@@ -458,7 +494,9 @@ Die Mitglieder des Kantonsrates, des Regierungsrates, der Rechtspflegebehörden 
 
 #### Art. 42
 
-<sup>1</sup> Niemand darf gleichzeitig angehören
+<sup>1</sup>
+
+Niemand darf gleichzeitig angehören:
 
 - a. dem Kantonsrat, dem Regierungsrat und einer kantonalen Rechtspflegebehörde
 - b. dem Regierungsrat, dem Nationalrat und dem Ständerat
@@ -476,7 +514,7 @@ Die Mitglieder des Kantonsrates, des Regierungsrates, der Rechtspflegebehörden 
 
 Der gleichen Behörde dürfen mit Ausnahme des Kantonsrates, der Gemeindeparlamente und des Verfassungsrates nicht gleichzeitig angehören: Ehepaare, Paare in eingetragener Partnerschaft, Konkubinatspaare, Eltern und Kinder, Geschwister.
 
-[^43-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 5, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
+[^43-1]: Angenommen in der Volksabstimmung vom 24. Sept. 2006, in Kraft seit 1. Jan. 2007. Gewährleistungsbeschluss vom 6. März 2008 ([BBl 2008 2493](https://fedlex.data.admin.ch/eli/fga/2008/524)Art. 1 Ziff. 5, [2007 7663](https://fedlex.data.admin.ch/eli/fga/2007/1220)).
 
 ### Verpflichtung auf Verfassung und Gesetz
 
@@ -542,7 +580,7 @@ Behördenmitglieder werden vor Amtsantritt auf Verfassung und Gesetz verpflichte
 
 #### Art. 50
 
-Alle wichtigen Rechtssätze sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung das Gesetz ausdrücklich vorsieht, sowie die grundlegenden Bestimmungen über
+Alle wichtigen Rechtssätze sind in der Form des Gesetzes zu erlassen. Dazu gehören Bestimmungen, für welche die Verfassung das Gesetz ausdrücklich vorsieht, sowie die grundlegenden Bestimmungen über:
 
 - a. die Volksrechte
 - b. Einschränkungen verfassungsmässiger Rechte
@@ -605,7 +643,7 @@ Alle wichtigen Rechtssätze sind in der Form des Gesetzes zu erlassen. Dazu geh�
 
 <sup>3</sup> Er kann für eine unabhängige Überprüfung der Wirksamkeit kantonaler Massnahmen sorgen.
 
-[^55-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^55-1]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Finanzbefugnisse
 
@@ -621,7 +659,9 @@ Alle wichtigen Rechtssätze sind in der Form des Gesetzes zu erlassen. Dazu geh�
 
 #### Art. 57
 
-<sup>1</sup> Der Kantonsrat
+<sup>1</sup>
+
+Der Kantonsrat:
 
 - a. beschliesst über die Gegenstände, die der Volksabstimmung unterliegen, ausser dem Begehren auf Abberufung des Kantonsrates
 - b. entscheidet über die Ergreifung des fakultativen Referendums zusammen mit anderen Kantonen und über die Einreichung einer Standesinitiative auf Bundesebene
@@ -719,7 +759,9 @@ Die Mitglieder des Regierungsrates dürfen keine bezahlte private Tätigkeit aus
 
 <sup>2</sup> Er verabschiedet Voranschlag und Kantonsrechnung zuhanden des Kantonsrates.
 
-<sup>3</sup> Er beschliesst über
+<sup>3</sup>
+
+Er beschliesst über:
 
 - a. neue einmalige Ausgaben bis 100 000 Franken und neue jährlich wiederkehrende Ausgaben bis 20 000 Franken
 - b. Verfügungsgeschäfte über Liegenschaften des Finanzvermögens bis 1 Mio. Franken.
@@ -730,7 +772,7 @@ Die Mitglieder des Regierungsrates dürfen keine bezahlte private Tätigkeit aus
 
 #### Art. 67
 
-Der Regierungsrat
+Der Regierungsrat:
 
 - a. vertritt den Kanton nach aussen und innen
 - b. trägt die Verantwortung für die Wahrung der öffentlichen Ordnung und Sicherheit
@@ -770,7 +812,7 @@ Der Regierungsrat
 
 <sup>2</sup> Das Weisungsrecht des Regierungsrates gegenüber allen Verwaltungsorganen bleibt vorbehalten; ausgenommen sind insbesondere Rechtsprechungstätigkeiten von Verwaltungsbehörden sowie die Strafverfolgung durch die Staatsanwaltschaft.[^70-1]
 
-[^70-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^70-1]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### 4.6 R Rechtspflegebehörden
 
@@ -794,8 +836,8 @@ Der Regierungsrat
 
 <sup>3</sup> …[^72-2]
 
-[^72-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
-[^72-2]: Aufgehoben in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^72-1]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^72-2]: Aufgehoben in der Volksabstimmung vom 7. März 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Wahlen
 
@@ -805,7 +847,7 @@ Der Regierungsrat
 
 <sup>2</sup> Die übrigen Mitglieder der Rechtspflegebehörden und ihre Mitarbeiterinnen und Mitarbeiter werden durch das Obergericht beziehungsweise das Kantonsgericht gewählt. Das Obergericht kann die Anstellung der Mitarbeiterinnen und Mitarbeiter delegieren.[^73-1]
 
-[^73-1]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^73-1]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Rechtsbeistand, Rechtsauskunft
 
@@ -819,7 +861,7 @@ Der Regierungsrat
 
 [^75-1]
 
-[^75-1]: Aufgehoben in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^75-1]: Aufgehoben in der Volksabstimmung vom 7. März 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Strafverfolgungsbehörden
 
@@ -831,8 +873,8 @@ Der Regierungsrat
 
 <sup>3</sup> Strafverfolgungsbehörden mit vorwiegend nichtrichterlicher Funktion können der Aufsicht des Regierungsrates unterstellt werden.
 
-[^76-1]: Aufgehoben in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
-[^76-2]: Angenommen in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^76-1]: Aufgehoben in der Volksabstimmung vom 7. März 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^76-2]: Angenommen in der Volksabstimmung vom 7. März 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Kantonsgericht
 
@@ -842,7 +884,7 @@ Der Regierungsrat
 
 <sup>2</sup> …[^77-1]
 
-[^77-1]: Aufgehoben in der [Volksabstimmung vom 7. März 2010](http://www.admin.ch/ch/d/pore/va/20100307/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
+[^77-1]: Aufgehoben in der Volksabstimmung vom 7. März 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 2. März 2011 ([BBl 2011 2927](https://fedlex.data.admin.ch/eli/fga/2011/432)Art. 1 Ziff. 3, [2010 7945](https://fedlex.data.admin.ch/eli/fga/2010/1465)).
 
 ### Obergericht
 
@@ -991,7 +1033,7 @@ Erziehung und Bildung haben zum Ziel, die Entwicklung zu selbstverantwortlichen 
 
 #### Art. 91
 
-Kanton und Gemeinden
+Kanton und Gemeinden:
 
 - a. fördern das aktuelle kulturelle Schaffen und die Pflege des Brauchtums
 - b. erhalten und pflegen Kulturgüter, Denkmäler und schützenswerte Ortsbilder
@@ -1051,7 +1093,7 @@ Der Kanton kann im Interesse der regionalen Volkswirtschaft eine Bank führen od
 
 #### Art. 98
 
-Der Kanton beschafft sich seine Mittel insbesondere
+Der Kanton beschafft sich seine Mittel insbesondere:
 
 - a. durch Erheben von Steuern und anderen Abgaben
 - b. aus den Erträgen seines Vermögens
@@ -1272,48 +1314,36 @@ Bestimmungen im bisherigen Recht, welche dieser Verfassung widersprechen, sind a
 
 Die Verfassung ist im Amtsblatt zu veröffentlichen und in die kantonale Gesetzessammlung aufzunehmen.
 
+## Übergangsbestimmungen zu Art. 37*a*
+
+[^u1-1]
+
+[^u1-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2024, in Kraft seit 24. Nov. 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 4, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+
+<sup>1</sup> Artikel 37*a* tritt so wie in der Abstimmung vom 9. Februar 2020 angenommen und ergänzt um die Absätze 1<sup>bis</sup>, 1<sup>ter</sup>, 2<sup>bis</sup>, 2<sup>ter</sup> und 5<sup>bis</sup> unmittelbar in Kraft.
+
+<sup>2</sup> Mit Annahme von Artikel 37*a* Absätze 1<sup>bis</sup>, 1<sup>ter</sup>, 2<sup>bis</sup>, 2<sup>ter</sup> und 5<sup>bis</sup> sind bis zum Inkrafttreten der kantonalen Ausführungsgesetzgebung subsidiär die Offenlegungsvorschriften des Bundes sinngemäss anwendbar, insbesondere die Artikel 76*b*–76*j* des Bundesgesetzes über die politischen Rechte[^u1-2] und Artikel 11 des Bundesgesetzes über die Bundesversammlung[^u1-3]. Der Regierungsrat erlässt nötigenfalls umgehend ergänzende Ausführungsbestimmungen.
+
+[^u1-2]: [SR 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
+[^u1-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
+
 ## Sachregister
 
 Die Zahlen verweisen auf die Artikel und Artikelteile der Verfassung
 
 Abgaben
 
-- – der Gemeinden 105
-- – Erhebung von Steuern 98<sup>a</sup>
-- – Festsetzung 56<sup>c</sup>
-- – Vorbehalt des Gesetzes 50<sup>d</sup>
-
 **Abstimmung** s. Volksabstimmung
 
 Alter
-
-- – als Voraussetzung zur Stimmberechtigung 23
-- – erwerbsfähiges 22<sup>1f</sup>
-- – wirtschaftliche Folgen 22<sup>2</sup>
 
 **Amnestie** Kompetenz des Kantonsrates 57<sup>1d</sup>
 
 Amt
 
-- – Amtsdauer
-  - – Allgemeines 26<sup>3</sup>, 41
-  - – Verfassungsrat 116
-
-- – Unvereinbarkeiten 42
-
 **Anleihen**
 
-- – Kompetenz des Regierungsrates 66<sup>4</sup>
-- – Mittelbeschaffung 98<sup>d</sup>
-
 **Aufsicht** (Oberaufsicht)
-
-- – Aufsichtsorgane 107
-- – der Gerichte 71<sup>1</sup>
-- – der Kirchen 111<sup>2</sup>
-- – des Kantonsrates 52<sup>2</sup>, 55<sup>1</sup>
-- – des Regierungsrates 67<sup>f</sup>, 76<sup>3</sup>
-- – des Obergerichtes 78<sup>3</sup>
 
 **Bank** s. Kantonalbank
 
@@ -1322,6 +1352,209 @@ Beamte 121
 **Begnadigung** Kompetenz des Kantonsrates 57<sup>1d</sup>
 
 Behörden
+
+Bericht
+
+**Beschlüsse**
+
+**Bevölkerung**
+
+**Bildung** 88–90
+
+**Budget** s. Voranschlag
+
+Bund
+
+Bürger
+
+**Dekrete** des Kantonsrates 53<sup>2</sup>, 65<sup>1</sup>
+
+**Departemente** der Verwaltung 69<sup>1</sup>, 70<sup>1</sup>
+
+**Eigentum** Garantie 12<sup>2</sup>
+
+Entschädigung bei Opferhilfe 16
+
+**Erlasse**
+
+Finanzen
+
+**Finanzreferendum** 32<sup>e</sup>, 33<sup>1d</sup>
+
+**Freiheit** s. Rechte, Grundrechte
+
+**Fürsorge** Anspruch von Kindern und Jugendlichen 14
+
+**Gegenvorschlag** zu Volksinitiativen 29<sup>2</sup>, 30
+
+Geistliche 111<sup>2</sup>
+
+Gemeinden
+
+Gerichte
+
+**Gesetze**
+
+**Gesundheit** 22<sup>1b</sup>, 87
+
+**Gewaltenteilung** 8
+
+**Glaubens**- und Gewissensfreiheit 12<sup>1d</sup>
+
+**Gleichheit** vor dem Gesetz 11<sup>1</sup>
+
+**Immunität** parlamentarische 59<sup>2</sup>, 62<sup>2</sup>
+
+Initiative
+
+Kanton
+
+Kantonsrat
+
+Kinder
+
+Kirchen 108–113
+
+**Legislaturperiode** 41
+
+Liegenschaften des Finanzvermögens 66<sup>3b</sup>
+
+**Meinungsfreiheit** 12<sup>1e</sup>
+
+**Menschenwürde** 10
+
+**Nachhaltigkeit** 9
+
+**Nationalrat**
+
+**Niederlassungsfreiheit** 12<sup>1i</sup>
+
+**Notlagen**, Recht auf Hilfe 13
+
+**Obergericht** s. Gerichte
+
+**Öffentlichkeit**
+
+**Opferhilfe** 16
+
+**Parteien** politische 37, 37*a*
+
+**Partner**
+
+**persönliche** Freiheit 12<sup>1a</sup>
+
+Petitionen
+
+**Politikfinanzierung** Offenlegung 37*a*
+
+**Privatsphäre** Schutz der 12<sup>1b</sup>
+
+Rechte
+
+**Rechtsgleichheit** 11
+
+**Rechtspflege** s. auch Gerichte
+
+Referendum
+
+Regalrechte 95
+
+Regierungsrat
+
+Religion
+
+Revision, der Kantonsverfassung
+
+Richter
+
+**Schule**
+
+**Schweizer** Bürgerrecht als Voraussetzung für
+
+Souveränität 1
+
+Sozialziele 22
+
+Staat
+
+**Sitzzuteilung** im Kantonsrat 25<sup>2</sup>
+
+**Spenden** Transparente Wahl-, Abstimmungs- und Parteienfinanzierung 37*a*
+
+**Ständerat**
+
+Steuern
+
+Stimm- und Wahlrecht
+
+**Strafprozess** 17, 71, 76–78
+
+**Straftat**
+
+**Transparenz** Transparente Wahl-, Abstimmungs- und Parteienfinanzierung 37*a*
+
+**Treu und Glauben** 7<sup>3</sup>
+
+**Unterricht**
+
+Unvereinbarkeit
+
+**Verantwortlichkeit** von Staat und Behörden 48
+
+**Vereinigungsfreiheit** 12<sup>1h</sup>
+
+Verfassung
+
+**Verhältniswahl** des Kantonsrates 25<sup>1</sup>
+
+**Vernehmlassungen** 36
+
+**Versammlungsfreiheit** 12<sup>1h</sup>
+
+Verwaltung
+
+**Verwandtschaft** zwischen Mitgliedern derselben Behörde 43
+
+Volk
+
+Vollziehung
+
+**Voranschlag**
+
+**Wählbarkeit** 40
+
+Wahlen
+
+Wirtschaft 93–95
+
+**Wirtschaftsfreiheit** 12<sup>1j</sup>
+
+**Zivilstreitigkeiten** 77<sup>1</sup>, 78<sup>1</sup>
+
+- – der Gemeinden 105
+- – Erhebung von Steuern 98<sup>a</sup>
+- – Festsetzung 56<sup>c</sup>
+- – Vorbehalt des Gesetzes 50<sup>d</sup>
+
+- – als Voraussetzung zur Stimmberechtigung 23
+- – erwerbsfähiges 22<sup>1f</sup>
+- – wirtschaftliche Folgen 22<sup>2</sup>
+
+- – Amtsdauer
+  - – Allgemeines 26<sup>3</sup>, 41
+  - – Verfassungsrat 116
+
+- – Unvereinbarkeiten 42
+
+- – Kompetenz des Regierungsrates 66<sup>4</sup>
+- – Mittelbeschaffung 98<sup>d</sup>
+
+- – Aufsichtsorgane 107
+- – der Gerichte 71<sup>1</sup>
+- – der Kirchen 111<sup>2</sup>
+- – des Kantonsrates 52<sup>2</sup>, 55<sup>1</sup>
+- – des Regierungsrates 67<sup>f</sup>, 76<sup>3</sup>
+- – des Obergerichtes 78<sup>3</sup>
 
 - – Amtsdauer 41, 121
 - – Aufgabenübertragung 49–51
@@ -1343,25 +1576,13 @@ Behörden
 - – Wahlen 40, 73, 121
 - – Zusammenarbeit 39<sup>2</sup>
 
-Bericht
-
 - – Rechenschaftsberichte 55<sup>2</sup>
-
-**Beschlüsse**
 
 - – des Kantonsrates 32<sup>e, h, i</sup>, 33<sup>1d, e, f</sup>, 58, 67<sup>e</sup>
 - – des Regierungsrates 60<sup>2</sup>
 
-**Bevölkerung**
-
 - – Gesundheit 87
 - – Wohnbevölkerung je Wahlkreis 25<sup>3</sup>
-
-**Bildung** 88–90
-
-**Budget** s. Voranschlag
-
-Bund
 
 - – Aufgabenübertragung 3<sup>2</sup>
 - – Bundesrecht 17<sup>1</sup>
@@ -1373,26 +1594,12 @@ Bund
 - – Zusammenarbeit 3<sup>1</sup>
 - – Zuständigkeit 102<sup>2</sup>
 
-Bürger
-
 - – Bürgerfreundlichkeit 39<sup>1</sup>
 - – Bürgerrecht 5
 - – Kantonsbürgerrecht, Erteilung 57<sup>1e</sup>
 
-**Dekrete** des Kantonsrates 53<sup>2</sup>, 65<sup>1</sup>
-
-**Departemente** der Verwaltung 69<sup>1</sup>, 70<sup>1</sup>
-
-**Eigentum** Garantie 12<sup>2</sup>
-
-Entschädigung bei Opferhilfe 16
-
-**Erlasse**
-
 - – Veröffentlichung 67<sup>d</sup>
 - – Vollzug 67<sup>e</sup>
-
-Finanzen
 
 - – Finanzausgleich 100
 - – Finanzbefugnisse
@@ -1402,18 +1609,6 @@ Finanzen
 - – Finanzreferendum 32<sup>e</sup>, 33<sup>1d</sup>
 - – Kompetenz des Kantonsrates 56<sup>d</sup>
 - – Kompetenz des Regierungsrates 66<sup>3a</sup>
-
-**Finanzreferendum** 32<sup>e</sup>, 33<sup>1d</sup>
-
-**Freiheit** s. Rechte, Grundrechte
-
-**Fürsorge** Anspruch von Kindern und Jugendlichen 14
-
-**Gegenvorschlag** zu Volksinitiativen 29<sup>2</sup>, 30
-
-Geistliche 111<sup>2</sup>
-
-Gemeinden
 
 - – Allgemeines 102–107
 - – Aufgaben, öffentliche 80–87, 89–93, 95
@@ -1437,8 +1632,6 @@ Gemeinden
 - – Verantwortlichkeit 48
 - – Zuständigkeit 79
 
-Gerichte
-
 - – Allgemeines 71–78, 121
 - – Öffentlichkeit der Sitzungen 47<sup>2</sup>
 - – Gerichtsverfahren 72
@@ -1455,8 +1648,6 @@ Gerichte
 - – Wahl 73
 - – Wählbarkeit 40<sup>1, 1bis</sup>
 
-**Gesetze**
-
 - – Ausarbeitung der Entwürfe 65<sup>1</sup>
 - – Dringlichkeit 34
 - – Gesetzesinitiative 27<sup>1b</sup>
@@ -1468,18 +1659,6 @@ Gerichte
 - – Rechtssetzung 53, 65
 - – Vernehmlassung zu Entwürfen 36
 - – Volksabstimmung 32<sup>c</sup>, 33
-
-**Gesundheit** 22<sup>1b</sup>, 87
-
-**Gewaltenteilung** 8
-
-**Glaubens**- und Gewissensfreiheit 12<sup>1d</sup>
-
-**Gleichheit** vor dem Gesetz 11<sup>1</sup>
-
-**Immunität** parlamentarische 59<sup>2</sup>, 62<sup>2</sup>
-
-Initiative
 
 - – des Kantonsrates
   - – Standesinitiative 57<sup>1b</sup>
@@ -1496,13 +1675,9 @@ Initiative
   - – Verfassungsrevision 27<sup>1a</sup>
   - – Volksabstimmung 32<sup>d</sup>
 
-Kanton
-
 - – Kantonalbank 94
 - – Kantonsbürger s. Bürger
 - – Kantonsgericht s. Gerichte
-
-Kantonsrat
 
 - – Allgemeines 52–59
 - – Immunität der Mitglieder 59<sup>2</sup>, 62<sup>2</sup>
@@ -1514,60 +1689,20 @@ Kantonsrat
 - – Sitzzuteilung 25<sup>2</sup>
 - – Standesinitiative 57<sup>1b</sup>
 
-Kinder
-
 - – Recht auf Schulbildung 15
 - – Schutz 14
 
-Kirchen 108–113
-
-**Legislaturperiode** 41
-
-Liegenschaften des Finanzvermögens 66<sup>3b</sup>
-
-**Meinungsfreiheit** 12<sup>1e</sup>
-
-**Menschenwürde** 10
-
-**Nachhaltigkeit** 9
-
-**Nationalrat**
-
 - – Wahl 24<sup>c</sup>
 - – Unvereinbarkeiten 42<sup>1b</sup>
-
-**Niederlassungsfreiheit** 12<sup>1i</sup>
-
-**Notlagen**, Recht auf Hilfe 13
-
-**Obergericht** s. Gerichte
-
-**Öffentlichkeit**
 
 - – der Kantonsrats- und Gerichtssitzungen 47<sup>2</sup>
 - – Information der 47<sup>3</sup>
 - – Veröffentlichung der Rechtsetzungsakte 47<sup>1</sup>
 
-**Opferhilfe** 16
-
-**Parteien** politische 37, 37*a*
-
-**Partner**
-
 - – persönliche Unvereinbarkeit 43
-
-**persönliche** Freiheit 12<sup>1a</sup>
-
-Petitionen
 
 - – Petitionsrecht 19
 - – Behandlung 57<sup>1f</sup>
-
-**Politikfinanzierung** Offenlegung 37*a*
-
-**Privatsphäre** Schutz der 12<sup>1b</sup>
-
-Rechte
 
 - – Grundrechte
   - – Anspruch auf Opferhilfe 16
@@ -1607,10 +1742,6 @@ Rechte
     - – Volkswahlen 24
     - – Wahlverfahren 25
 
-**Rechtsgleichheit** 11
-
-**Rechtspflege** s. auch Gerichte
-
 - – Anspruch auf unentgeltliche 18<sup>2</sup>
 - – Rechtspflegebehörden
   - – Allgemeines 71–78
@@ -1620,15 +1751,9 @@ Rechte
   - – Unvereinbarkeiten 42
   - – Wählbarkeit 40<sup>2</sup>
 
-Referendum
-
 - – obligatorisches 32
 - – fakultatives 33
 - – Finanzreferendum 32<sup>e</sup>, 33<sup>1d</sup>
-
-Regalrechte 95
-
-Regierungsrat
 
 - – Abberufung 26<sup>1</sup>
 - – Allgemeines 60–68
@@ -1651,40 +1776,24 @@ Regierungsrat
 - – Weisungen an die Verwaltung 70<sup>2</sup>
 - – Zustandekommen Volksinitiative, Entscheid 28<sup>1</sup>
 
-Religion
-
 - – Allgemeines s. Kirche
 - – Religionsgemeinschaften 108<sup>2</sup>
-
-Revision, der Kantonsverfassung
 
 - – Grundsatz 114
 - – Volksinitiative 27<sup>1a, 2</sup>, 122<sup>2</sup>
 - – Teilrevision 115
 - – Totalrevision 116
 
-Richter
-
 - – Allgemeines s. Gerichte
 - – Fachrichter 72<sup>2</sup>
-
-**Schule**
 
 - – Allgemeines s. Bildung
 - – Schulbildung, Recht auf 15
 - – Schulabgänger, Unterstützung 86<sup>2</sup>
 - – weiterführende, Zugang 89<sup>1</sup>
 
-**Schweizer** Bürgerrecht als Voraussetzung für
-
 - – Stimm- und Wahlrecht 23<sup>1</sup>
 - – Wählbarkeit 40<sup>1</sup>
-
-Souveränität 1
-
-Sozialziele 22
-
-Staat
 
 - – Aufbau 8
 - – Rechtsstaatlichkeit 7, 109<sup>1</sup>
@@ -1704,15 +1813,9 @@ Staat
 - – Staatskanzlei 69<sup>2</sup>
 - – Staatsrechtliche Streitigkeiten 78<sup>2</sup>
 
-**Sitzzuteilung** im Kantonsrat 25<sup>2</sup>
-
-**Ständerat**
-
 - – Wahl 24<sup>c</sup>, 25<sup>4</sup>
 - – Wählbarkeit 40<sup>1</sup>
 - – Unvereinbarkeiten 42<sup>1b</sup>
-
-Steuern
 
 - – Besteuerungsgrundsätze 99
 - – Erhebung von Steuern 98<sup>a</sup>
@@ -1720,8 +1823,6 @@ Steuern
 - – Kirchensteuer 112
 - – Steuerbelastung 100<sup>1</sup>
 - – Steuerfuss 33<sup>1c</sup>
-
-Stimm- und Wahlrecht
 
 - – Allgemeines 23
 - – Stimmberechtigte
@@ -1738,32 +1839,16 @@ Stimm- und Wahlrecht
   - – Volksmotion 31
   - – Wählbarkeit 40<sup>1, 1bis</sup>
 
-**Strafprozess** 17, 71, 76–78
-
-**Straftat**
-
 - – Opferhilfe 16
 - – Verfolgung und Untersuchung 76
 
-**Treu und Glauben** 7<sup>3</sup>
-
-**Unterricht**
-
 - – an öffentlichen Schulen 15<sup>2</sup>
 - – Freiheit 12<sup>f</sup>
-
-Unvereinbarkeit
 
 - – Persönliche Unvereinbarkeit 43
 - – Regierungsrat 61
 - – Unvereinbare Ämter 42
 - – Verfassungsrat 116<sup>2</sup>
-
-**Verantwortlichkeit** von Staat und Behörden 48
-
-**Vereinigungsfreiheit** 12<sup>1h</sup>
-
-Verfassung
 
 - – Bindung an 38<sup>1</sup>
 - – Gemeindeverfassung 103
@@ -1776,14 +1861,6 @@ Verfassung
 - – Vernehmlassung zu Entwürfen 36
 - – Volksinitiative 27<sup>1a</sup>
 
-**Verhältniswahl** des Kantonsrates 25<sup>1</sup>
-
-**Vernehmlassungen** 36
-
-**Versammlungsfreiheit** 12<sup>1h</sup>
-
-Verwaltung
-
 - – Beamte 121<sup>1</sup>
 - – kantonale, allgemeines 69, 70
 - – Leitung durch den Regierungsrat 64
@@ -1793,10 +1870,6 @@ Verwaltung
 - – Übertragung von Entscheiden an den Kantonsrat 52<sup>3</sup>
 - – Unvereinbarkeiten bei Angehörigen 42<sup>2</sup>
 - – Verwaltungsstreitigkeiten 67<sup>h</sup>, 78<sup>2</sup>
-
-**Verwandtschaft** zwischen Mitgliedern derselben Behörde 43
-
-Volk
 
 - – Staatsgewalt 2
 - – Volksrechte 23–37, 50<sup>a</sup>, 52<sup>1</sup>, 53<sup>1</sup>, 65<sup>4</sup>, 122
@@ -1808,19 +1881,11 @@ Volk
 - – Volksgruppen 91<sup>d</sup>
 - – Volkswirtschaft 94
 
-Vollziehung
-
 - – oberste vollziehende Behörde 60
-
-**Voranschlag**
 
 - – Beschluss Kantonsrat 56<sup>a</sup>
 - – Verabschiedung Regierungsrat 66<sup>2</sup>
 - – Fakultatives Referendum 33<sup>1c</sup>
-
-**Wählbarkeit** 40
-
-Wahlen
 
 - – durch den Kantonsrat
   - – Allgemeines 57<sup>1c</sup>
@@ -1829,6 +1894,7 @@ Wahlen
 
 - – Erneuerungswahl, nach Abberufung 26<sup>2</sup>
 - – Mehrheitswahl 25<sup>4</sup>
+- – Transparente Finanzierung 37*a*
 - – Verfahren 25
 - – Verhältniswahl 25<sup>1</sup>
 - – Volkswahlen
@@ -1839,9 +1905,3 @@ Wahlen
 
 - – Wahlkreise 25<sup>3</sup>
 - – Wahlrecht 23
-
-Wirtschaft 93–95
-
-**Wirtschaftsfreiheit** 12<sup>1j</sup>
-
-**Zivilstreitigkeiten** 77<sup>1</sup>, 78<sup>1</sup>
