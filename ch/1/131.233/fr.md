@@ -3,20 +3,20 @@ sr: "131.233"
 title: "Constitution de la République et Canton de Neuchâtel, du 24 septembre 2000"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/523_fga"
 language: fr
-version: 2023-09-20
+version: 2024-11-24
 adopted: 2000-09-24
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20230920-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20230920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/523_fga/20241124/fr/xml/fedlex-data-admin-ch-eli-cc-2001-523_fga-20241124-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/523_fga/20241124/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution de la République et Canton de Neuchâtel
 
-du 24 septembre 2000 (État le 20 septembre 2023)[^t-1]
+du 24 septembre 2000 (État le 24 novembre 2024)[^t-1]
 
-[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 Le peuple du canton de Neuchâtel,
 
@@ -38,7 +38,7 @@ se donne la Constitution qui suit:
 
 <sup>4</sup> Le canton est divisé en communes.[^1-1]
 
-[^1-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^1-1]: Accepté en votation populaire du 24 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Capitale du canton
 
@@ -88,7 +88,7 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 
 <sup>2</sup> Lorsqu’ils accomplissent leurs tâches et en cas de conflit d’intérêts, l’État et les communes privilégient les intérêts des générations futures. Ils prêtent une attention particulière aux exigences du développement durable et au maintien de la biodiversité.
 
-[^5-1]: Accepté en [votation populaire du 18 mai 2014](http://www.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^5-1]: Accepté en votation populaire du 18 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Énergie éolienne
 
@@ -100,7 +100,7 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 
 <sup>2</sup> La loi définit les sites et fixe le nombre maximum d’éoliennes par site.
 
-[^5a-1]: Accepté en [votation populaire du 18 mai 2014](http://www.admin.ch/ch/f/pore/va/20140518/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^5a-1]: Accepté en votation populaire du 18 mai 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Transports
 
@@ -114,7 +114,7 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 
 <sup>3</sup> La loi définit les modalités de mise en œuvre de la politique globale de mobilité.
 
-[^5b-1]: Accepté en [votation populaire du 28 fév. 2016](http://www.admin.ch/ch/f/pore/va/20160228/index.html), en vigueur depuis le 1<sup>er</sup> mars 2016. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 3; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^5b-1]: Accepté en votation populaire du 28 fév. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 3; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Responsabilité des collectivités publiques
 
@@ -134,7 +134,7 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 
 <sup>2</sup> La loi définit sa forme, ses compétences et son fonctionnement. Elle peut étendre les compétences de cet organe au contrôle d’autres entités créées par l’État ou avec lesquelles celui-ci collabore ainsi qu’aux communes.
 
-[^6a-1]: Accepté en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 1<sup>er</sup> oct. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 8, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^6a-1]: Accepté en votation populaire du 15 mai 2022, en vigueur depuis le 1<sup>er</sup> oct. 2022. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 8, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ## Titre II Droits fondamentaux, buts et mandats sociaux
 
@@ -171,6 +171,20 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 <sup>1</sup> La liberté personnelle est garantie.
 
 <sup>2</sup> Sont en particulier garantis le droit à la vie, le droit à l’intégrité physique, mentale et psychique, ainsi que la liberté de mouvement.
+
+### Intégrité numérique
+
+#### Art. 10a
+
+[^10a-1]
+
+<sup>1</sup> L’intégrité numérique est garantie.
+
+<sup>2</sup> Elle inclut notamment le droit d’être protégé contre le traitement abusif des données liées à sa vie numérique, le droit à la sécurité dans l’espace numérique, le droit à une vie hors ligne, ainsi que le droit à l’oubli.
+
+<sup>3</sup> L’État favorise l’inclusion numérique et sensibilise la population aux enjeux du numérique. Il s’engage en faveur du développement de la souveraineté numérique de la Suisse et collabore à sa mise en œuvre.
+
+[^10a-1]: Accepté en votation populaire du 24 nov. 2024, en vigueur depuis le 24 nov. 2024. Garantie de l’Ass. féd. du 16 juin 2026 ([FF 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)art. 3, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Droit au respect de la vie privée et familiale, du domicile, de la correspondance et des télécommunications
 
@@ -383,7 +397,7 @@ Dans les limites de leurs compétences et en complément de l’initiative et de
 
 L’État institue un salaire minimum cantonal dans tous les domaines d’activité économique, en tenant compte des secteurs économiques ainsi que des salaires fixés dans les conventions collectives, afin que toute personne exerçant une activité salariée puisse disposer d’un salaire lui garantissant des conditions de vie décentes.
 
-[^34a-1]: Accepté en [votation populaire du 27 nov. 2011](http://www.admin.ch/ch/f/pore/va/20111127/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2335](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 ch. 6, [2012 7877](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
+[^34a-1]: Accepté en votation populaire du 27 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012. Garantie de l’Ass. féd. du 11 mars 2013 ([FF 2013 2335](https://fedlex.data.admin.ch/eli/fga/2013/456)art. 1 ch. 6, [2012 7877](https://fedlex.data.admin.ch/eli/fga/2012/1505)).
 
 ### Réalisation de l’égalité entre les femmes et les hommes
 
@@ -431,9 +445,9 @@ Les électrices et les électeurs élisent les membres du Grand Conseil et les m
 
 <sup>4</sup> La loi règle la procédure électorale.[^39-3]
 
-[^39-1]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^39-2]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^39-3]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^39-1]: Accepté en votation populaire du 26 sept. 2010, en vigueur depuis le 20 avr. 2011. de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^39-2]: Accepté en votation populaire du 26 sept. 2010, en vigueur depuis le 20 avr. 2011. de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^39-3]: Accepté en votation populaire du 26 sept. 2010, en vigueur depuis le 20 avr. 2011. de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ### Initiative populaire
 
@@ -447,7 +461,7 @@ Les électrices et les électeurs élisent les membres du Grand Conseil et les m
 
 <sup>4</sup> Sont réservées les dispositions sur la révision de la Constitution.
 
-[^40-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^40-1]: Accepté en votation populaire du 17 juin 2007, en vigueur depuis le 15 août 2007. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Motion populaire
 
@@ -477,9 +491,9 @@ La demande de vote populaire peut avoir pour objet un acte du Grand Conseil parm
 
 <sup>4</sup> Sont toutefois exclus du référendum le budget, les comptes, les élections, l’amnistie, la grâce, les décisions de nature juridictionnelle et les décisions de procédure.[^42-5]
 
-[^42-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^42-2]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 15 août 2007. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^42-3]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^42-1]: Accepté en votation populaire du 17 juin 2007, en vigueur depuis le 15 août 2007. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^42-2]: Accepté en votation populaire du 17 juin 2007, en vigueur depuis le 15 août 2007. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^42-3]: Accepté en votation populaire du 24 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 [^42-4]: Anciennement al. 2.
 [^42-5]: Anciennement al. 3.
 
@@ -563,7 +577,7 @@ Sont éligibles comme membres des autorités cantonales les électrices et les �
 
 La loi peut prévoir la destitution des membres du Conseil d’État et des autorités judiciaires, de même que la dissolution du Conseil d’État. Elle en règle la procédure et les conditions.
 
-[^50a-1]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^50a-1]: Accepté en votation populaire du 30 nov. 2014, en vigueur depuis le 30 nov. 2014. de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Devoir d’information
 
@@ -585,8 +599,8 @@ Les autorités cantonales sont tenues de donner au public des informations suffi
 
 <sup>3</sup> La loi peut organiser une suppléance en vue du remplacement des membres empêchés.
 
-[^52-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
-[^52-2]: 2<sup>e</sup> et 3<sup>e</sup> phrases acceptées en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^52-1]: Accepté en votation populaire du 24 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^52-2]: 2<sup>e</sup> et 3<sup>e</sup> phrases acceptées en votation populaire du 24 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Durée de la législature
 
@@ -630,9 +644,9 @@ Le Grand Conseil adopte les lois.
 
 <sup>4</sup> La même majorité est requise pour l’adoption de tout budget annuel dérogeant aux dispositions prévues par la loi en matière de limite de l’endettement.[^57-3]
 
-[^57-1]: Accepté en [votation populaire du 5 juin 2005](http://www.admin.ch/ch/f/pore/va/20050605/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 6 [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
-[^57-2]: Accepté en [votation populaire du 17 juin 2012](http://www.admin.ch/ch/f/pore/va/20120617/index.html), en vigueur depuis le 1<sup>er</sup> sept. 2012. de l’Ass. féd. du 23 sept. 2013 (FF **2013** 7048 art. 1 ch. 6 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
-[^57-3]: Accepté en [votation populaire du 5 juin 2005](http://www.admin.ch/ch/f/pore/va/20050605/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 6 [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^57-1]: Accepté en votation populaire du 5 juin 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 6 [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
+[^57-2]: Accepté en votation populaire du 17 juin 2012, en vigueur depuis le 1<sup>er</sup> sept. 2012. de l’Ass. féd. du 23 sept. 2013 (FF **2013** 7048 art. 1 ch. 6 [3447](https://fedlex.data.admin.ch/eli/fga/2013/855)).
+[^57-3]: Accepté en votation populaire du 5 juin 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005. Garantie de l’Ass. féd. du 12 juin 2006 ([FF 2006 5853](https://fedlex.data.admin.ch/eli/fga/2006/714)art. 1 ch. 6 [2725](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
 ### Planification
 
@@ -650,7 +664,7 @@ Le Grand Conseil exerce les compétences de planification que la loi lui attribu
 
 <sup>2</sup> Il exerce également la haute surveillance sur la gestion des autorités judiciaires.
 
-[^59-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^59-1]: Accepté en votation populaire du 17 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008. de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Élections
 
@@ -687,7 +701,7 @@ Le Grand Conseil:
 
 <sup>2</sup> Le Grand Conseil se réunit également à la demande de trente de ses membres ou à l’invitation du Conseil d’État.[^62-1]
 
-[^62-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^62-1]: Accepté en votation populaire du 24 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Organes
 
@@ -699,7 +713,7 @@ Le Grand Conseil:
 
 <sup>3</sup> Le Grand Conseil constitue parmi ses membres des commissions qui ont en particulier pour tâche de préparer ses délibérations; la loi en règle le cadre institutionnel.[^63-1]
 
-[^63-1]: Accepté en [votation populaire du 3 mars 2013](http://www.admin.ch/ch/f/pore/va/20130303/index.html), en vigueur depuis le 25 mars 2013. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 al. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^63-1]: Accepté en votation populaire du 3 mars 2013, en vigueur depuis le 25 mars 2013. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 al. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Initiative
 
@@ -855,7 +869,7 @@ La chancellerie d’État assiste le Conseil d’État dans l’exercice de ses 
 
 <sup>2</sup> Par la recommandation, le Grand Conseil peut inviter le Conseil d’État à prendre une mesure qui relève de la compétence législative de celui-ci. La proposition de recommandation doit être signée par dix-sept membres du Grand Conseil.[^81-1]
 
-[^81-1]: Phrase acceptée en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^81-1]: Phrase acceptée en votation populaire du 24 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Participation du Conseil d’État aux séances du Grand Conseil et de ses organes
 
@@ -867,7 +881,7 @@ La chancellerie d’État assiste le Conseil d’État dans l’exercice de ses 
 
 <sup>2</sup> La participation des membres du Conseil d’État aux séances des organes du Grand Conseil ainsi que son étendue sont régies par la loi.
 
-[^82-1]: Accepté en [votation populaire du 3 mars 2013](http://www.admin.ch/ch/f/pore/va/20130303/index.html), en vigueur depuis le 25 mars 2013. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 al. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^82-1]: Accepté en votation populaire du 3 mars 2013, en vigueur depuis le 25 mars 2013. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 al. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Chapitre 5 Les autorités judiciaires
 
@@ -881,7 +895,7 @@ La chancellerie d’État assiste le Conseil d’État dans l’exercice de ses 
 
 <sup>3</sup> La loi règle la surveillance sur les autorités judiciaires.[^83-1]
 
-[^83-1]: Accepté en [votation populaire du 17 juin 2007](http://www.admin.ch/ch/f/pore/va/20070617/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^83-1]: Accepté en votation populaire du 17 juin 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008. Garantie de l’Ass. féd. du 12 juin 2008 ([FF 2008 5263](https://fedlex.data.admin.ch/eli/fga/2008/993)art. 1 ch. 4 [1265](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Magistrats de l’ordre judiciaire
 
@@ -907,13 +921,13 @@ Les tribunaux appliquent le droit fédéral et le droit cantonal. Ils n’appliq
 
 [^tit5-1]
 
-[^tit5-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^tit5-1]: Accepté en votation populaire du 24 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 #### Art. 87 et 88
 
 [^8788-1]
 
-[^8788-1]: Abrogés en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), avec effet au 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^8788-1]: Abrogés en votation populaire du 24 sept. 2017, avec effet au 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Tâches
 
@@ -983,8 +997,8 @@ L’autonomie des communes est garantie dans les limites de la législation cant
 
 <sup>6</sup> La loi peut prévoir la destitution des membres du Conseil communal. Elle en règle la procédure et les conditions.[^95-2]
 
-[^95-1]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 al. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
-[^95-2]: Accepté en [votation populaire du 30 nov. 2014](http://www.admin.ch/ch/f/pore/va/20141130/index.html), en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^95-1]: Accepté en votation populaire du 30 nov. 2014, en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 22 sept. 2022 ([FF 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)art. 5 al. 2, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^95-2]: Accepté en votation populaire du 30 nov. 2014, en vigueur depuis le 30 nov. 2014. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 2; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Surveillance de l’État
 
@@ -1113,7 +1127,7 @@ Sont abrogés:
 
 [^u1-1]
 
-[^u1-1]: Acceptée en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^u1-1]: Acceptée en votation populaire du 26 sept. 2010, en vigueur depuis le 20 avr. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 8 [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 L’élection de la députation du canton au Conseil des États suisse selon le système de la représentation proportionnelle a lieu en même temps que la prochaine élection au Conseil national suisse.
 
@@ -1121,7 +1135,7 @@ L’élection de la députation du canton au Conseil des États suisse selon le 
 
 [^u2-1]
 
-[^u2-1]: Acceptée en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^u2-1]: Acceptée en votation populaire du 24 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 5 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 Les modifications du 27 mars 2017 s’appliquent pour la première fois à l’élection générale du Grand Conseil de 2021.
 
@@ -1129,7 +1143,7 @@ Les modifications du 27 mars 2017 s’appliquent pour la première fois à l’�
 
 [^u3-1]
 
-[^u3-1]: Accepté en [votation populaire du 28 fév. 2016](http://www.admin.ch/ch/f/pore/va/20160228/index.html), en vigueur depuis le 1<sup>er</sup> mars 2016. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 3; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^u3-1]: Accepté en votation populaire du 28 fév. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 3 al. 3; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 <sup>1</sup> Afin d’entreprendre sans délai la réalisation d’une liaison ferroviaire directe entre Neuchâtel et La Chaux-de-Fonds dans le cadre global du projet de RER neuchâtelois, en cas de décision favorable de la Confédération sur la prise en charge financière de cette infrastructure, l’État de Neuchâtel ou une société de financement mandatée par ses soins est autorisé à contracter un emprunt et à en assumer la charge d’intérêts passifs.
 
@@ -1284,6 +1298,8 @@ Information
 Initiative
 
 **Installation atomique** 42<sup>3</sup>, 61
+
+**Intégrité numérique** 10*a*
 
 **Interdiction**
 
@@ -1840,4 +1856,3 @@ Vote
 - – corps électoral 37
 - – populaire 42, 43, 44, 45, 101, 102, 104
 - – du Grand Conseil 54, 57, 103
-- [tab]
