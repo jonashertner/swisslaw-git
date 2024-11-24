@@ -1,0 +1,286 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2024 685
+title: Verordnung vom 13. November 2024 über die internationale militärische Kooperation (VIMK)
+language: de
+adopted: 2024-11-13
+published: 2024-11-25
+in_force: ["2025-01-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2024/685/de"
+---
+
+> Nicht amtliche Wiedergabe aus der Amtlichen Sammlung (AS). Der Erlass ist veröffentlicht, aber noch nicht in Kraft; massgebend ist die Veröffentlichung in der AS (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die internationale militärische Kooperation
+
+(VIMK)
+
+vom 13. November 2024
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 47 Absatz 2 und 50 Absatz 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1], auf Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-2], auf Artikel 17 Absatz 3<sup>bis</sup> des Kriegsmaterialgesetzes vom 13. Dezember 1996[^ingress-3], auf die Artikel 2 Absatz 2 und 130 des Zollgesetzes vom 18. März 2005[^ingress-4], auf Artikel 107 des Mehrwertsteuergesetzes vom 12. Juni 2009[^ingress-5], auf Artikel 12 Absatz 3 des Automobilsteuergesetzes vom 21. Juni 1996[^ingress-6], und auf Artikel 17 Absatz 1 Buchstabe a des Mineralölsteuergesetzes vom 21. Juni 1996[^ingress-7], in Ausführung von Artikel I des Übereinkommens vom 19. Juni 1995[^ingress-8] zwischen den Vertragsstaaten des Nordatlantikvertrags und den anderen an der Partnerschaft für den Frieden teilnehmenden Staaten über die Rechtsstellung ihrer Truppen (PfP-Truppenstatut),
+
+verordnet:
+
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^ingress-4]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^ingress-5]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^ingress-6]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^ingress-7]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^ingress-8]: [SR 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428)
+
+## 1. Abschnitt: Gegenstand
+
+#### Art. 1
+
+<sup>1</sup>
+
+Diese Verordnung regelt für die internationale militärische Kooperation das Verfahren und die Zuständigkeiten für:
+
+- a. die Aufnahme internationaler militärischer Kontakte;
+- b. die Ein-, Aus- und Durchreise ausländischer militärischer Truppen und von deren Angehörigen am Boden;
+- c. das Tragen und Mitführen ausländischer Militäruniformen in der Schweiz und schweizerischer Militäruniformen im Ausland;
+- d. die Befreiung von Zöllen und bestimmten Steuern für Truppen von Teilnehmerstaaten der Partnerschaft für den Frieden (PfP-Truppen), für Mitglieder solcher Truppen und das entsprechende zivile Gefolge.
+
+<sup>2</sup> Vorbehalten bleiben abweichende Regelungen in völkerrechtlichen Verträgen.
+
+## 2. Abschnitt: Internationale militärische Kontakte
+
+#### Art. 2
+
+**Geltungsbereich**
+
+<sup>1</sup>
+
+Die Vorschriften dieses Abschnitts gelten für die Bundesverwaltung, die Angehörigen der Armee sowie für militärische Gesellschaften und Dachverbände, soweit sie in Angelegenheiten, welche die Schweizer Armee betreffen, in Kontakt treten:
+
+- a. mit ausländischen Behörden;
+- b. mit Organisationen und Privaten im In- und Ausland;
+- c. mit schweizerischen Vertretungen im Ausland.
+
+<sup>2</sup> Vorbehalten bleibt die Kontaktnahme des Staatssekretariats für Wirtschaft (SECO) mit ausländischen militärischen Stellen zur Wahrnehmung seiner Aufgaben gemäss dem Kriegsmaterialgesetz vom 13. Dezember 1996.
+
+#### Art. 3
+
+**Internationale militärische Kontakte**
+
+Als internationale militärische Kontakte gelten folgende Aktivitäten:
+
+- a. das Einholen, die Abgabe oder die Weitergabe von Informationen militärischer Art, insbesondere von Dokumentationen, Auskünften oder Nachrichten;
+- b. Besuche durch ausländische Personen, Behörden und Organisationen bei schweizerischen Militärpersonen, militärischen Stellen und Organisationen sowie von militärischen Übungen, Veranstaltungen, Stäben, Truppen, Schulen, Kursen oder Anlagen in der Schweiz, Einladungen durch schweizerische Militärpersonen, militärische Stellen und Organisationen zu solchen Besuchen sowie entsprechende Besuche durch schweizerische Militärpersonen im Ausland;
+- c. die Teilnahmen durch ausländische Organisationen an militärischen oder militärsportlichen Anlässen in der Schweiz, Einladungen durch schweizerische Militärpersonen, militärische Stellen und Organisationen zu solchen Anlässen, sowie die Teilnahme schweizerischer Organisationen an entsprechenden Veranstaltungen im Ausland;
+- d. die Teilnahme durch ausländische Militärpersonen an Veranstaltungen, insbesondere an Vorträgen oder Debatten, zu Militärfragen in der Schweiz, Einladungen durch schweizerische Militärpersonen, militärische Stellen und Organisationen zu solchen Veranstaltungen sowie die Teilnahme durch schweizerische Militärpersonen an entsprechenden Veranstaltungen im Ausland.
+
+#### Art. 4
+
+**Zustimmungsvorbehalt**
+
+<sup>1</sup> Die formelle Aufnahme internationaler militärischer Kontakte bedarf der vorgängigen Zustimmung des Armeestabs.
+
+<sup>2</sup> Die entsprechenden Gesuche sind bei der für das Militärprotokoll zuständigen Stelle im Armeestab (Militärprotokoll) einzureichen.
+
+<sup>3</sup> In Fällen mit aussen- oder sicherheitspolitischer Tragweite konsultiert der Armeestab vor dem Entscheid das Staatssekretariat für Sicherheitspolitik (SEPOS) und gegebenenfalls das Eidgenössische Departement für auswärtige Angelegenheiten (EDA).
+
+#### Art. 5
+
+**Ausnahmen von der Bewilligungspflicht**
+
+Die folgenden Stellen können in ihrem Aufgabenbereich ohne vorgehende Zustimmung des Armeestabs internationale militärische Kontakte formell aufnehmen:
+
+- a. die Nachrichtendienste des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS);
+- b. das SEPOS;
+- c. die Fachstelle des Bundes für Informationssicherheit, die Fachstelle Betriebssicherheit und die Fachstelle Personensicherheitsprüfungen des VBS;
+- d. das Oberauditorat und die Militärjustiz;
+- e. das Bundesamt für Rüstung sowie die Rüstungsunternehmen des Bundes, sofern keine schweizerischen Militärpersonen, militärischen Stellen und Organisationen, militärischen Übungen, Veranstaltungen, Stäbe, Truppen, Schulen, Kurse oder Anlagen betroffen sind;
+- f. die für internationale Beziehungen zuständige Stelle der Gruppe Verteidigung (Internationale Beziehungen Verteidigung);
+- g. das Kompetenzzentrum SWISSINT der Armee im Rahmen der bewilligten Einsätze;
+- h. das Militärgeographische Institut des Bundesamtes für Landestopografie.
+
+#### Art. 6
+
+**Informationssicherheit**
+
+<sup>1</sup>
+
+Die Abgabe von klassifizierten Informationen an ausländische Personen und Stellen sowie der Zugang ausländischer Besucher und Besucherinnen zu klassifizierten militärischen Informationen, zu klassifiziertem Material und zu militärischen Anlagen in der Schweiz richten sich nach den entsprechenden Informationssicherheitsvorschriften, insbesondere nach:
+
+- a. dem im konkreten Fall anwendbaren völkerrechtlichen Vertrag nach Artikel 87 des Informationssicherheitsgesetzes von 18. Dezember 2020[^6-1];
+- b. der Informationssicherheitsverordnung vom 8. November 2023[^6-2];
+- c. der Verordnung vom 8. November 2023[^6-3] über die Personensicherheitsprüfungen;
+- d. der Verordnung vom 8. November 2023[^6-4] über das Betriebssicherheitsverfahren.
+
+<sup>2</sup> Der Armeestab erteilt die Zustimmung nur, wenn die Person, die den internationalen militärischen Kontakt aufnehmen will, die aufgrund der Vorschriften nach Absatz 1 erforderlichen Bewilligungen oder Bescheinigungen vorlegt.
+
+<sup>3</sup> Eine Abgabe klassifizierter militärischer Informationen darf in keinem Fall zugesichert werden. Personen, die an solchen Informationen interessiert sind, darf nur die Prüfung ihres Gesuches in Aussicht gestellt werden.
+
+<sup>4</sup> Wer nicht klassifizierte Informationen auf Informationsträgern abgeben will, muss diese in einem neutralen, unverschlossenen Umschlag dem Militärprotokoll zur Weiterleitung zustellen; die Stellen nach Artikel 5 können die entsprechenden Informationen direkt übermitteln.
+
+<sup>5</sup> Wer einen internationalen militärischen Kontakt organisiert, muss alle daran beteiligten Personen, die mit ausländischen Personen in Kontakt kommen, darüber instruieren, welche militärischen Informationen sie abgeben dürfen.
+
+[^6-1]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^6-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^6-3]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^6-4]: [SR 128.41](https://fedlex.data.admin.ch/eli/cc/2023/737)
+
+#### Art. 7
+
+**Verkehr militärischer Organisationen mit dem Militärprotokoll**
+
+Militärische Organisationen, die über einen Dachverband verfügen, verkehren über diesen mit dem Militärprotokoll.
+
+## 3. Abschnitt: Ein-, Aus- und Durchreise ausländischer militärischer Truppen und von deren Angehörigen am Boden
+
+#### Art. 8
+
+<sup>1</sup> Die Ein-, Aus- und Durchreise ausländischer militärischer Truppen und von deren Angehörigen am Boden bedarf einer Bewilligung.
+
+<sup>2</sup> Die entsprechenden Gesuche sind beim Armeestab einzureichen.
+
+<sup>3</sup>
+
+Bewilligungsbehörde ist:
+
+- a. bei Gesuchen ohne aussen- oder sicherheitspolitische Tragweite: der Armeestab;
+- b. bei Gesuchen mit aussen- oder sicherheitspolitischer Tragweite: das SEPOS in Absprache mit der Direktion für Völkerrecht, dem Staatssekretariat des EDA und dem SECO;
+- c. bei Gesuchen mit erheblicher aussen- oder sicherheitspolitischer Tragweite, insbesondere bei Gesuchen um Bewilligungen für Durchreisen, die der Vorbereitung oder Unterstützung von Kampfhandlungen dienen: der Bundesrat.
+
+<sup>4</sup> Die Bewilligung zur Durchreise am Boden umfasst auch die Bewilligung zur Durchfuhr des mitgeführten Kriegsmaterials; sie tritt an die Stelle der Durchfuhrbewilligung nach dem Kriegsmaterialgesetz.
+
+<sup>5</sup> Können sich die beteiligten Stellen nach Absatz 3 Buchstaben a und b über die Behandlung eines Gesuchs nicht einigen, so wird das Gesuch dem Bundesrat zum Entscheid vorgelegt.
+
+<sup>6</sup> Das VBS informiert den Bundesrat jährlich über die Einzelheiten der gestützt auf Absatz 3 Buchstaben a und b bewilligten und abgelehnten Ein-, Aus-, und Durchreisen.
+
+## 4. Abschnitt: Tragen und Mitführen von Militäruniformen
+
+#### Art. 9
+
+**Tragen und Mitführen ausländischer Militäruniformen in der Schweiz**
+
+<sup>1</sup> Das Tragen und Mitführen ausländischer Militäruniformen in der Schweiz ohne Bewilligung ist verboten.
+
+<sup>2</sup>
+
+Von der Bewilligungspflicht sind ausgenommen:
+
+- a. die Mitglieder des in der Schweiz beglaubigten diplomatischen Korps;
+- b. die Besatzungen ausländischer Militärflugzeuge, denen das Bundesamt für Zivilluftfahrt das Überfliegen und das Landen in der Schweiz bewilligt hat mit der Erlaubnis, sich während der Zwischenlandung für Unterkunft und Verpflegung in eine nahe gelegene Ortschaft zu begeben;
+- c. Angehörige ausländischer Streitkräfte bei ihrer Tätigkeit im Rahmen der von der Schweiz abgeschlossenen internationalen Vereinbarungen.
+
+#### Art. 10
+
+**Tragen und Mitführen schweizerischer Militäruniformen im Ausland**
+
+<sup>1</sup> Das Tragen und Mitführen schweizerischer Militäruniformen im Ausland ohne Bewilligung ist verboten.
+
+<sup>2</sup>
+
+Von der Bewilligungspflicht sind ausgenommen:
+
+- a. das militärdiplomatische Korps der Schweiz;
+- b. schweizerische Angehörige der Armee bei der Durchreise über Strecken im Ausland gemäss dem schweizerisch-deutschen Abkommen vom 5. Februar 1958[^10-1] über Durchgangsrechte;
+- c. schweizerische Angehörige der Armee bei ihrer Tätigkeit im Ausland im Rahmen der von der Schweiz abgeschlossenen internationalen Vereinbarungen.
+
+[^10-1]: [SR 0.631.256.913.65](https://fedlex.data.admin.ch/eli/cc/1960/1610_1671_1671)
+
+#### Art. 11
+
+**Bewilligungsbehörde**
+
+Bewilligungsbehörde für das Tragen und Mitführen der Militäruniform ist der Armeestab.
+
+## 5. Abschnitt: Zoll- und Steuerbefreiung
+
+#### Art. 12
+
+**Begünstigte**
+
+<sup>1</sup> Begünstigte von Zoll- und Steuerbefreiung im Sinne der Bestimmungen dieses Abschnitts sind die PfP-Truppen sowie ihre Mitglieder und ihr ziviles Gefolge.
+
+<sup>2</sup> Ausgenommen von der Zoll- und Steuerbefreiung sind Personen schweizerischer Staatsangehörigkeit sowie solche, die in der Schweiz ihren Wohnsitz haben.
+
+<sup>3</sup> Keinen Anspruch auf Zoll- und Steuerbefreiung haben Mitglieder von PfP-Truppen, die als Einzelpersonen für kurze Dauer in die Schweiz abdetachiert werden.
+
+#### Art. 13
+
+**Zoll- und steuerfreie Einfuhr von Ausrüstung und Verpflegung**
+
+<sup>1</sup> Die PfP-Truppen, ihre Mitglieder und ihr ziviles Gefolge können vorübergehend ihre Ausrüstung zollfrei einführen.
+
+<sup>2</sup> Verpflegung, Versorgungsgüter und sonstige Waren können zollfrei eingeführt werden, soweit sie ausschliesslich von den PfP-Truppen, ihren Mitgliedern und ihrem zivilen Gefolge verwendet werden.
+
+<sup>3</sup> Die Zollbefreiung schliesst die Befreiung von der Mehrwertsteuer und der Automobilsteuer mit ein.
+
+#### Art. 14
+
+**Zoll- und steuerfreie Einfuhr von Mineralölprodukten**
+
+<sup>1</sup> Waren nach Artikel 2 Absätze 1 und 2 des Mineralölsteuergesetzes vom 21. Juni 1996, die in die Schweiz eingeführt werden und für den dienstlichen Gebrauch durch die in der Schweiz befindlichen Land-, Luft- und Wasserfahrzeuge der PfP-Truppen, deren Mitglieder oder deren ziviles Gefolge bestimmt sind, sind zollfrei.
+
+<sup>2</sup> Die Zollbefreiung schliesst die Befreiung von der Mehrwertsteuer und der Mineralölsteuer mit ein.
+
+<sup>3</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) regelt das Verfahren.
+
+#### Art. 15
+
+**Steuerfreie Lieferung von Treibstoff**
+
+<sup>1</sup> Die in der Schweiz befindlichen PfP-Truppen, ihre Mitglieder und ihr ziviles Gefolge haben Anspruch auf von der Mineralölsteuer befreiten Treibstoff für ihre dienstlichen Land-, Luft- und Wasserfahrzeuge.
+
+<sup>2</sup> Steuerfreier Treibstoff kann verwendet werden, sofern das Fahrzeug von den PfP‑Truppen, von ihren Mitgliedern oder von ihrem zivilen Gefolge für den dienstlichen Gebrauch verwendet wird.
+
+<sup>3</sup> Das BAZG regelt im Einvernehmen mit der Logistikbasis der Armee das Verfahren.
+
+## 6. Abschnitt: Schlussbestimmungen
+
+#### Art. 16
+
+**Aufhebung anderer Erlasse**
+
+Die folgenden Erlasse werden aufgehoben:
+
+- 1\. Verordnung vom 4. November 1970[^16-1] über das Tragen ausländischer Uniformen in der Schweiz und Schweizerischer Militäruniformen im Ausland;
+- 2\. Verordnung vom 24. Juni 2009[^16-2] über internationale militärische Kontakte;
+- 3\. Verordnung vom 26. März 2003[^16-3] über die Zoll- und Steuerbefreiung der Truppen im Rahmen des PfP-Truppenstatuts.
+
+[^16-1]: [AS 1970 1365](https://fedlex.data.admin.ch/eli/oc/1970/1365_1361_1361); [1991 1164](https://fedlex.data.admin.ch/eli/oc/1991/1164_1164_1164); [2001 2323](https://fedlex.data.admin.ch/eli/oc/2001/338)
+[^16-2]: [AS 2009 3461](https://fedlex.data.admin.ch/eli/oc/2009/425); [2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)
+[^16-3]: [AS 2003 1123](https://fedlex.data.admin.ch/eli/oc/2003/192); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250); [2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)
+
+#### Art. 17
+
+**Änderung anderer Erlasse**
+
+Die nachstehenden Erlasse werden wie folgt geändert:
+
+\1. Verordnung vom 22. November 2017[^t-1] über die Militärdienstpflicht
+
+**Art. 106 Abs. 3**
+
+<sup>3</sup> Die Gruppe Verteidigung kann zur Umsetzung bestehender Rahmenabkommen im Bereich der militärischen Ausbildungszusammenarbeit nach Artikel 48*a* MG im Einvernehmen mit dem Staatssekretariat für Sicherheitspolitik (SEPOS) selbstständig Staatsverträge von beschränkter Tragweite im Sinne von Artikel 7*a* Absatz 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^t-2] abschliessen.
+
+## 2. Kriegsmaterialverordnung vom 25. Februar 1998
+
+[^annex1-lvl2-1]
+
+[^t-1]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^t-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^annex1-lvl2-1]: [SR 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
+
+**Art. 13 Abs. 1 und 2**
+
+<sup>1</sup> Bewilligungsbehörde ist das SECO, unter Vorbehalt der Absätze 2 und 3.
+
+<sup>2</sup> Die Zuständigkeit für das Mitführen von Kriegsmaterial durch ausländische militärische Truppen und deren Angehörigen am Boden richtet sich nach der Verordnung vom 13. November 2024[^annex1-lvl2-2] über die internationale militärische Kooperation.
+
+****Art. 18** Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 2025 in Kraft.
+
+<table>
+<tr><td>13. November 2024</td><td>Im Namen des Schweizerischen Bundesrates Die Bundespräsidentin: Viola Amherd Der Bundeskanzler: Viktor Rossi</td></tr>
+</table>
+
+[^annex1-lvl2-2]: [SR 510.81](https://fedlex.data.admin.ch/eli/cc/2003/192)
