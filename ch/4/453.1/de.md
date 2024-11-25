@@ -3,11 +3,11 @@ sr: "453.1"
 title: Verordnung des EDI vom 4. September 2013 über die Kontrolle des Verkehrs mit Tieren und Pflanzen geschützter Arten (CITES-Kontrollverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: de
-version: 2024-06-01
+version: 2024-11-26
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20241126/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20241126-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20241126/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240601/de"
 
 (CITES-Kontrollverordnung)
 
-vom 4. September 2013 (Stand am 1. Juni 2024)
+vom 4. September 2013 (Stand am 26. November 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -422,7 +422,7 @@ Anhang 1[^t-1]
 <tr><td colspan="2">2.4.5 Waffen, Teile und Zubehör von Waffen</td></tr>
 <tr><td>ex 9305.1000; 9305.2000</td><td>Griffschalen von Revolvern oder Pistolen sowie Schäfte und Teile von Gewehren aus Rio-Palisander oder Brasilianischem Rosenholz (*Dalbergia nigra*)</td></tr>
 <tr><td colspan="2">2.4.6 Möbel</td></tr>
-<tr><td>ex 9401.3100; 9401.3900; 9401.4100; 9401.4900; 9401.6100; 9401.6900; 9401.7100; 9401.7900; 9401.8000; 9401.9100; 9403.3000–6000; 9403.9100</td><td>Afrikanisches Stinkholz oder Pygeum (*Prunus africana*), Afrikanische Zeder (*Widdringtonia whytei*), Almendro (*Dipteryx panamensis*[^annex1-lvlu1-lvl2-1] mit Ursprung Costa Rica und Nicaragua), Araukarie oder Andentanne (*Araucaria araucana*), Ayuque (*Balmea stormiae*), asiatische Eibenarten und deren Unterarten und Hybriden (*Taxus chinensis*, *T. fuana*, *T. cuspidata*, *T. x media*, *T. sumatrana*; betrifft nicht die Himalaya-Eibe [*Taxus* *wallichiana*] sowie europäische und amerikanische Eibenarten [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), Bubinga (*Guibourtia demeusei*, *G. pellegriniana*, *G. tessmannii*; ausgenommen die in Ziffer 3 aufgeführten Ausnahmen), *Cedrela* spp., Chilenische Zeder (*Pilgerodendron uviferum*), Gavilan (*Oreomunnea pterocarpa*), Guatemala-Tanne (*Abies guatemalensis*), Macacauba (*Platymiscium parviflorum*), Mexikanisches oder Honduras-Mahagoni (*Swietenia humilis*), Oleanderblättrige Steineibe (*Podocarpus neriifolius*), Palisander (*Dalbergia* spp.; ausgenommen die in Ziffer 3 aufgeführten Ausnahmen), Rio-Palisander oder Brasilianisches Rosenholz (*Dalbergia nigra*) oder Patagonische Zypresse oder Alerchholz oder Alerce (*Fitzroya cupressoides*), Pinoholzbaum (*Podocarpus parlatorei*), Piquia (*Caryocar* *costaricense*), *Pinus koraiensis* mit Ursprung Russland, Ramin (*Gonystylus* spp.), Taungme-Baum (*Magnolia liliifera* var. *obovata*)</td></tr>
+<tr><td>ex 9401.3100; 9401.3900; 9401.4100; 9401.4900; 9401.6100; 9401.6900; 9401.7100; 9401.7900; 9401.8000; 9401.9100; 9403.3000–6000; 9403.9100</td><td>Afrikanisches Stinkholz oder Pygeum (*Prunus africana*), Afrikanische Zeder (*Widdringtonia whytei*), Araukarie oder Andentanne (*Araucaria araucana*), Ayuque (*Balmea stormiae*), asiatische Eibenarten und deren Unterarten und Hybriden (*Taxus chinensis*, *T. fuana*, *T. cuspidata*, *T. x media*, *T. sumatrana*; betrifft nicht die Himalaya-Eibe [*Taxus* *wallichiana*] sowie europäische und amerikanische Eibenarten [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), Bubinga (*Guibourtia demeusei*, *G. pellegriniana*, *G. tessmannii*; ausgenommen die in Ziffer 3 aufgeführten Ausnahmen), *Cedrela* spp., Chilenische Zeder (*Pilgerodendron uviferum*), Gavilan (*Oreomunnea pterocarpa*), Guatemala-Tanne (*Abies guatemalensis*), Macacauba (*Platymiscium parviflorum*), Mexikanisches oder Honduras-Mahagoni (*Swietenia humilis*), Oleanderblättrige Steineibe (*Podocarpus neriifolius*), Palisander (*Dalbergia* spp.; ausgenommen die in Ziffer 3 aufgeführten Ausnahmen), Rio-Palisander oder Brasilianisches Rosenholz (*Dalbergia nigra*) oder Patagonische Zypresse oder Alerchholz oder Alerce (*Fitzroya cupressoides*), Pinoholzbaum (*Podocarpus parlatorei*), Piquia (*Caryocar* *costaricense*), *Pinus koraiensis* mit Ursprung Russland, Ramin (*Gonystylus* spp.), Taungme-Baum (*Magnolia liliifera* var. *obovata*)</td></tr>
 <tr><td colspan="2">2.4.7 Spielzeug, Spiele</td></tr>
 <tr><td>ex 9503.0000</td><td>Waren dieser Nummer, insbesondere Baukastenspielzeug und Musikspielzeug, aus Kakteenholz (*Trichocereus* = *Echinopsis* spp., *Eulychnia* spp.) oder in Verbindung mit Rio-Palisander oder Brasilianischem Rosenholz (*Dalbergia nigra*) oder Macacauba (*Platymiscium* *parviflorum*)</td></tr>
 <tr><td>ex 9504.9000</td><td>Waren dieser Nummer, insbesondere Kegelspiele oder Bowlingzubehör, aus oder in Verbindung mit Mexikanischem oder Honduras-Mahagoni (*Swietenia humilis*) oder Ramin (*Gonystylus* spp.)</td></tr>
@@ -433,8 +433,6 @@ Anhang 1[^t-1]
 <tr><td colspan="2">2.5 Sammlungsstücke</td></tr>
 <tr><td>ex 9705.1000; 9705.2200; 9705.2900</td><td>Sammlungen oder botanische Sammlungsstücke von archäologischem, botanischem, ethnografischem, historischem oder zoologischem Wert, die dem CITES unterstehen</td></tr>
 </table>
-
-[^annex1-lvlu1-lvl2-1]: Gilt bis zum 25. Nov. 2024.
 
 ### 3 Arten, die unter Ziffer 2.4.2 fallen
 
@@ -457,7 +455,6 @@ Ziffer 2.4.2 umfasst die folgenden Arten:
 <tr><td colspan="2">Ährenblütiger Scheinjudasbaum</td><td colspan="6">*Tetracentron sinense*</td><td colspan="2">III Population von Nepal</td></tr>
 <tr><td colspan="2">Alerce, Alerchholz, Patagonische Zypresse</td><td colspan="7">*Fitzroya cupressoides*</td><td colspan="2">I</td></tr>
 <tr><td colspan="2">Alerchholz: siehe Alerce</td><td colspan="7"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Almendro, Almendro de montaña</td><td colspan="7">*Dipteryx panamensis*[^annex1-lvlu1-lvl3-1]</td><td colspan="2">III Populationen von Costa Rica und Nicaragua</td></tr>
 <tr><td colspan="6">Amazonas-Mahagoni: siehe Mahagony</td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td colspan="6">Amerikanisches Mahagoni: siehe Mahagony</td><td colspan="2"></td><td colspan="2"></td></tr>
 <tr><td colspan="6">Andentanne: siehe Araukarie</td><td colspan="2"></td><td colspan="2"></td></tr>
@@ -481,7 +478,7 @@ Ziffer 2.4.2 umfasst die folgenden Arten:
 <tr><td>Chilenische Zeder</td><td colspan="7">*Pilgerodendron uviferum*</td><td colspan="2">I</td></tr>
 <tr><td>Chinesische Eibe: siehe Eiben</td><td colspan="7"></td><td colspan="2"></td></tr>
 <tr><td colspan="8">Cocobolo: siehe Palisander</td><td colspan="2"></td></tr>
-<tr><td>[tab] Cumaru, Tonka</td><td colspan="7">*Dipteryx* spp.[^annex1-lvlu1-lvl3-2]</td><td colspan="2">II</td></tr>
+<tr><td>[tab] Cumaru, Tonka</td><td colspan="7">*Dipteryx* spp.</td><td colspan="2">II</td></tr>
 <tr><td colspan="8">Doussié: siehe Afrikanischer Mahagoni</td><td colspan="2"></td></tr>
 <tr><td>Ebenholz</td><td colspan="7">*Diospyros* spp.</td><td colspan="2">II Population von Madagaskar</td></tr>
 <tr><td>Echter Mahagoni: siehe Mahagony</td><td colspan="7"></td><td colspan="2"></td></tr>
@@ -564,22 +561,15 @@ Ziffer 2.4.2 umfasst die folgenden Arten:
 <tr><td>Taungme-Baum</td><td colspan="7">*Magnolia liliifera* var. *obovata* (= *Talauma hodgsonii*, *M. hodgsonii,* *M. candolii* var. *obovata*)</td><td colspan="2">III Population von Nepal</td></tr>
 <tr><td colspan="4">Teak: siehe Afromosia</td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td colspan="4">Thailändisches Palisander: siehe Palisander</td><td colspan="4"></td><td colspan="2"></td></tr>
-<tr><td>[tab] Tonka, Cumaru</td><td colspan="7">*Dipteryx* spp.[^annex1-lvlu1-lvl3-3]</td><td colspan="2">II</td></tr>
-<tr><td>Trompetenbäume, Ipé</td><td colspan="7">*Handroanthus* spp.[^annex1-lvlu1-lvl3-4]</td><td colspan="2">II</td></tr>
-<tr><td></td><td colspan="7">*Roseodendron* spp.[^annex1-lvlu1-lvl3-5]</td><td colspan="2">II</td></tr>
-<tr><td></td><td colspan="7">*Tabebuia* spp.[^annex1-lvlu1-lvl3-6]</td><td colspan="2">II</td></tr>
+<tr><td>[tab] Tonka, Cumaru</td><td colspan="7">*Dipteryx* spp.</td><td colspan="2">II</td></tr>
+<tr><td>Trompetenbäume, Ipé</td><td colspan="7">*Handroanthus* spp.</td><td colspan="2">II</td></tr>
+<tr><td></td><td colspan="7">*Roseodendron* spp.</td><td colspan="2">II</td></tr>
+<tr><td></td><td colspan="7">*Tabebuia* spp.</td><td colspan="2">II</td></tr>
 <tr><td colspan="4">Westindischer Mahagoni: siehe Mahagony</td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td colspan="4">Westindische Zeder: siehe Cedro</td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td>Wohlriechender Cedrobaum: siehe Cedro</td><td colspan="7"></td><td colspan="2"></td></tr>
 <tr><td colspan="10">\* Die Mengenangaben beziehen sich auf das Gewicht des geschützten Holzes.</td></tr>
 </table>
-
-[^annex1-lvlu1-lvl3-1]: Gilt bis zum 25. Nov. 2024.
-[^annex1-lvlu1-lvl3-2]: Gilt ab dem 26. Nov. 2024.
-[^annex1-lvlu1-lvl3-3]: Gilt ab dem 26. Nov. 2024.
-[^annex1-lvlu1-lvl3-4]: Gilt ab dem 26. Nov. 2024.
-[^annex1-lvlu1-lvl3-5]: Gilt ab dem 26. Nov. 2024.
-[^annex1-lvlu1-lvl3-6]: Gilt ab dem 26. Nov. 2024.
 
 Anhang 2[^t-2]
 

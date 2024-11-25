@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordonnance du DFI du 4 septembre 2013 sur le contrôle de la circulation des espèces de faune et de flore protégées (Ordonnance sur les contrôles CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: fr
-version: 2024-06-01
+version: 2024-11-26
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20241126/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20241126-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20241126/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240601/fr"
 
 (Ordonnance sur les contrôles CITES)
 
-du 4 septembre 2013 (État le 1<sup>er</sup> juin 2024)
+du 4 septembre 2013 (État le 26 novembre 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -238,7 +238,7 @@ Annexe 1[^t-1]
 
 ## Liste des spécimens à déclarer
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 23 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024, à l’exception des entrées «*Thelenota* spp.» qui entrent en vigueur le 26 mai 2024, les entrées «*Dipteryx* spp.», «*Handroanthus* spp.», «*Roseodendron* spp.» et «*Tabebuia* spp.» le 26 nov. 2024 et les entrées «*Dipteryx panamensis*», qui ont effet jusqu’au 25 nov. 2024 ([RO 2023 627](https://fedlex.data.admin.ch/eli/oc/2023/627), [675](https://fedlex.data.admin.ch/eli/oc/2023/675))
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 23 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024, à l’exception des entrées «*Thelenota* spp.» qui entrent en vigueur le 26 mai 2024, les entrées «*Dipteryx* spp.», «*Handroanthus* spp.», «*Roseodendron* spp.» et «*Tabebuia* spp.» le 26 nov. 2024 et les entrées «*Dipteryx panamensis*», qui ont effet jusqu’au 25 nov. 2024 ([RO 2023 627](https://fedlex.data.admin.ch/eli/oc/2023/627), [675](https://fedlex.data.admin.ch/eli/oc/2023/675)).
 
 ### 1 Animaux ainsi que parties et produits d’animaux
 
@@ -422,7 +422,7 @@ Annexe 1[^t-1]
 <tr><td colspan="2">2.4.5 Armes, parties et accessoires d’armes</td></tr>
 <tr><td>ex 9305.1000; 9305.2000</td><td>poignées de revolvers ou de pistolets, crosses et parties de fusils en bois de rose ou palissandre de Rio (*Dalbergia nigra*)</td></tr>
 <tr><td colspan="2">2.4.6 Meubles</td></tr>
-<tr><td>ex 9401.3100; 9401.3900; 9401.4100; 9401.4900; 9401.6100; 9401.6900; 9401.7100; 9401.7900; 9401.8000; 9401.9100; 9403.3000–6000; 9403.9100</td><td>acajou du Mexique ou du Honduras (*Swietenia humilis*), almendro (*Dipteryx panamensis*[^annex1-lvlu1-lvl2-1] originaire du Costa Rica ou du Nicaragua), araucaria ou pin des Andes (*Araucaria araucana*), ayuque (*Balmea stormiae*), bois d’alerce ou alerce (*Fitzroya* *cupressoides*), bois de rose ou palissandre de Rio (*Dalbergia* *nigra*), bubinga (*Guibourtia demeusei*, *G.* *pellegriniana*, *G. tessmannii*, sauf exceptions énumérées au ch. 3), *Cedrela* spp., cèdre du Chili (*Pilgerodendron uviferum*), cyprès de Mulange (*Widdringtonia whytei*), cyprès de Patagonie, espèces d’ifs asiatiques et leurs sous-espèces et hybrides (*Taxus* *chinensis*, *T. fuana*, *T. cuspidata*, *T. x media*, *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), gavilan (*Oreomunnea pterocarpa*), macacauba (*Platymiscium parviflorum*), magnolia taungme (*Magnolia liliifera* var. *obovata*), palissandre (*Dalbergia* spp., sauf exceptions énumérées au ch. 3), pin du Népal (*Podocarpus neriifolius*), pin parlatore (*Podocarpus* *parlatorei*), *Pinus koraiensis* d’origine russe, piquia (*Caryocar costaricense*), prunier d’Afrique ou pygeum (*Prunus africana*), ramin (*Gonystylus* spp.), sapin du Guatemala (*Abies guatemalensis*)</td></tr>
+<tr><td>ex 9401.3100; 9401.3900; 9401.4100; 9401.4900; 9401.6100; 9401.6900; 9401.7100; 9401.7900; 9401.8000; 9401.9100; 9403.3000–6000; 9403.9100</td><td>acajou du Mexique ou du Honduras (*Swietenia humilis*), araucaria ou pin des Andes (*Araucaria araucana*), ayuque (*Balmea stormiae*), bois d’alerce ou alerce (*Fitzroya* *cupressoides*), bois de rose ou palissandre de Rio (*Dalbergia* *nigra*), bubinga (*Guibourtia demeusei*, *G.* *pellegriniana*, *G. tessmannii*, sauf exceptions énumérées au ch. 3), *Cedrela* spp., cèdre du Chili (*Pilgerodendron uviferum*), cyprès de Mulange (*Widdringtonia whytei*), cyprès de Patagonie, espèces d’ifs asiatiques et leurs sous-espèces et hybrides (*Taxus* *chinensis*, *T. fuana*, *T. cuspidata*, *T. x media*, *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), gavilan (*Oreomunnea pterocarpa*), macacauba (*Platymiscium parviflorum*), magnolia taungme (*Magnolia liliifera* var. *obovata*), palissandre (*Dalbergia* spp., sauf exceptions énumérées au ch. 3), pin du Népal (*Podocarpus neriifolius*), pin parlatore (*Podocarpus* *parlatorei*), *Pinus koraiensis* d’origine russe, piquia (*Caryocar costaricense*), prunier d’Afrique ou pygeum (*Prunus africana*), ramin (*Gonystylus* spp.), sapin du Guatemala (*Abies guatemalensis*)</td></tr>
 <tr><td colspan="2">2.4.7 Jouets, jeux</td></tr>
 <tr><td>ex 9503.0000</td><td>marchandises classées sous ce numéro, notamment jeux de construction et jouets musicaux, en bois de cactées (*Trichocereus* = *Echinopsis* spp., *Eulychnia* spp.) ou en combinaison avec du bois de rose ou palissandre de Rio (*Dalbergia* *nigra)* ou du macacauba (*Platymiscium parviflorum*)</td></tr>
 <tr><td>ex 9504.9000</td><td>marchandises classées sous ce numéro, notamment jeux de quilles ou accessoires pour bowling en ou en combinaison avec de l’acajou du Mexique ou du Honduras (*Swietenia* *humilis*) ou du ramin (*Gonystylus* spp.)</td></tr>
@@ -433,8 +433,6 @@ Annexe 1[^t-1]
 <tr><td colspan="2">2.5 Pièces de collection</td></tr>
 <tr><td>ex 9705.1000; 9705.2200; 9705.2900</td><td>collections ou pièces de collections botaniques d’intérêt archéologique, botanique, ethnographique, historique ou zoologique soumises à la CITES</td></tr>
 </table>
-
-[^annex1-lvlu1-lvl2-1]: A effet jusqu’au 25 nov. 2024.
 
 ### 3 Espèces qui relèvent du chiffre 2.4.2
 
@@ -460,7 +458,6 @@ Le ch. 2.4.2 comprend les espèces suivantes:
 <tr><td>Afrormosia, afromosia, African Teak, teck d’Afrique, assamela</td><td colspan="2">*Pericopsis elata* *(= Afrormosia elata)*</td><td>II</td></tr>
 <tr><td>Afzelias, African Mahogany, doussié</td><td colspan="2">*Afzelia* spp.</td><td>II Populations de l’Afrique</td></tr>
 <tr><td>Alerce, bois d’alerce, cyprès de Patagonie</td><td colspan="2">*Fitzroya cupressoides*</td><td>I</td></tr>
-<tr><td>Almendro, almendro de montaña</td><td colspan="2">*Dipteryx panamensis*[^annex1-lvlu1-lvl3-1]</td><td>III Populations du Costa Rica et du Nicaragua</td></tr>
 <tr><td>Araucaria, pin des Andes</td><td colspan="2">*Araucaria araucana* *(= A. imbricata, A. chilensis, A. dombeyi)*</td><td>I</td></tr>
 <tr><td colspan="4">Argentine Lignum Vitae: cf. gaïac</td></tr>
 <tr><td>Assamela: cf. afrormosia</td><td colspan="2"></td><td></td></tr>
@@ -491,13 +488,13 @@ Le ch. 2.4.2 comprend les espèces suivantes:
 <tr><td>Cèdres, Cedrela, Cedro [tab] inclus les noms commerciaux suivants: cèdre des Andes, cèdre des Antilles, cèdre des Indes occidentales, cédrèle odorant, cèdre du Mexique</td><td colspan="2">*Cedrela* spp.</td><td>II Populations néotropicales (Amérique centrale et Amérique du Sud)</td></tr>
 <tr><td>[tab] Chêne de Mongolie</td><td colspan="2">*Quercus mongolica*</td><td>III Population de Russie</td></tr>
 <tr><td>Cocobolo: cf. palissandres</td><td colspan="2"></td><td></td></tr>
-<tr><td>Cumaru</td><td colspan="2">*Dipteryx* spp.[^annex1-lvlu1-lvl3-2]</td><td>II</td></tr>
+<tr><td>Cumaru</td><td colspan="2">*Dipteryx* spp.</td><td>II</td></tr>
 <tr><td>Cyprès de Mulange</td><td colspan="2">*Widdringtonia whytei*</td><td>II</td></tr>
 <tr><td>Doussié: cf. afzelias</td><td colspan="2"></td><td></td></tr>
 <tr><td>Ébène</td><td colspan="2">*Diospyros* spp.</td><td>II Population de Madagascar</td></tr>
-<tr><td>Ébène verte, ipé</td><td colspan="2">*Handroanthus* spp.[^annex1-lvlu1-lvl3-3]</td><td>II</td></tr>
-<tr><td></td><td colspan="2">*Roseodendron* spp.[^annex1-lvlu1-lvl3-4]</td><td>II</td></tr>
-<tr><td></td><td colspan="2">*Tabebuia* spp.[^annex1-lvlu1-lvl3-5]</td><td>II</td></tr>
+<tr><td>Ébène verte, ipé</td><td colspan="2">*Handroanthus* spp.</td><td>II</td></tr>
+<tr><td></td><td colspan="2">*Roseodendron* spp.</td><td>II</td></tr>
+<tr><td></td><td colspan="2">*Tabebuia* spp.</td><td>II</td></tr>
 <tr><td>Frêne de Mandchourie</td><td colspan="2">*Fraxinus mandshurica*</td><td>III Population de Russie</td></tr>
 <tr><td>Gaïac, bois de vie d’Argentine, Lignum Vitae, palo santo, Pockholz</td><td colspan="2">*Guaiacum* spp.</td><td>II</td></tr>
 <tr><td>Gaïacol, palo santo, Lignum Vitae du Paraguay</td><td colspan="2">*Bulnesia sarmientoi*</td><td>II</td></tr>
@@ -557,12 +554,6 @@ Le ch. 2.4.2 comprend les espèces suivantes:
 <tr><td>Tetracentron sinense</td><td colspan="2">*Tetracentron sinense*</td><td>III Population du Népal</td></tr>
 <tr><td colspan="4">\* Les quantités indiquées se rapportent au poids du bois protégé.</td></tr>
 </table>
-
-[^annex1-lvlu1-lvl3-1]: A effet jusqu’au 25 nov. 2024.
-[^annex1-lvlu1-lvl3-2]: En vigueur le 26 nov. 2024.
-[^annex1-lvlu1-lvl3-3]: En vigueur le 26 nov. 2024.
-[^annex1-lvlu1-lvl3-4]: En vigueur le 26 nov. 2024.
-[^annex1-lvlu1-lvl3-5]: En vigueur le 26 nov. 2024.
 
 Annexe 2[^t-2]
 

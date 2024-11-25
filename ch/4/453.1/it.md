@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordinanza del DFI del 4 settembre 2013 sui controlli della circolazione delle specie di fauna e di flora protette (Ordinanza sui controlli CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: it
-version: 2024-06-01
+version: 2024-11-26
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2013-602-20240601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20241126/it/xml/fedlex-data-admin-ch-eli-cc-2013-602-20241126-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20241126/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20240601/it"
 
 (Ordinanza sui controlli CITES)
 
-del 4 settembre 2013 (Stato 1° giugno 2024)
+del 4 settembre 2013 (Stato 26 novembre 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -422,7 +422,7 @@ Allegato 1[^t-1]
 <tr><td colspan="2">2.4.5 Armi, parti e accessori di armi</td></tr>
 <tr><td>ex 9305.1000; 9305.2000</td><td>Guance per revolver o pistole, nonché casse o parti di fucili in palissandro di Rio o legno di rosa brasiliano (*Dalbergia nigra*)</td></tr>
 <tr><td colspan="2">2.4.6 Mobili</td></tr>
-<tr><td>ex 9401.3100; 9401.3900; 9401.4100; 9401.4900; 9401.6100; 9401.6900; 9401.7100; 9401.7900; 9401.8000; 9401.9100; 9403.3000–6000; 9403.9100</td><td>Pruno africano o Pygeum (*Prunus africana*), cedro di Mulanje (*Widdringtonia whytei*), almendro (*Dipteryx panamensis*[^annex1-lvlu1-lvl2-1] originario della Costa Rica o del Nicaragua), araucaria o pino del Cile (*Araucaria araucana*), Ayuque (*Balmea stormiae*), Cedri (*Cedrela* spp.), tassi asiatici e loro sottospecie e ibridi (*Taxus chinensis, T. fuana, T. cuspidata, T. x media, T. sumatrana*; non concerne il tasso dell’Himalaya [*Taxus wallichiana*] e le specie europee e americane [*Taxus baccata, T. brevifolia, T. canadensis, T. globosa, T. floridana*]), Bubinga (*Guibourtia demeusei, G. pellegriniana, G. tessmannii*; escluse le eccezioni elencate al numero 3), larice del Cile (*Pilgerodendron uviferum*), Gavilan (*Oreomunnea pterocarpa*), abete del Guatemala (*Abies guatemalensis*), Macacauba (*Platymiscium parviflorum*), mogano messicano o dell’Honduras (*Swietenia humilis*), podocarpo (*Podocarpus neriifolius*), palissandro (*Dalbergia* spp.; escluse le eccezioni elencate al numero 3 ), palissandro di Rio o legno di rosa brasiliano (*Dalbergia nigra*), legno di Alerce (*Fitzroya cupressoides*), pino di parlatore (*Podocarpus* *parlatorei*), noce della Costa Rica (*Caryocar costaricense*), *Pinus* *koraiensis* originario della Federazione Russa, ramino (*Gonystylus* spp.), *Magnolia liliifera* var. obovata</td></tr>
+<tr><td>ex 9401.3100; 9401.3900; 9401.4100; 9401.4900; 9401.6100; 9401.6900; 9401.7100; 9401.7900; 9401.8000; 9401.9100; 9403.3000–6000; 9403.9100</td><td>Pruno africano o Pygeum (*Prunus africana*), cedro di Mulanje (*Widdringtonia whytei*), araucaria o pino del Cile (*Araucaria araucana*), Ayuque (*Balmea stormiae*), Cedri (*Cedrela* spp.), tassi asiatici e loro sottospecie e ibridi (*Taxus chinensis, T. fuana, T. cuspidata, T. x media, T. sumatrana*; non concerne il tasso dell’Himalaya [*Taxus wallichiana*] e le specie europee e americane [*Taxus baccata, T. brevifolia, T. canadensis, T. globosa, T. floridana*]), Bubinga (*Guibourtia demeusei, G. pellegriniana, G. tessmannii*; escluse le eccezioni elencate al numero 3), larice del Cile (*Pilgerodendron uviferum*), Gavilan (*Oreomunnea pterocarpa*), abete del Guatemala (*Abies guatemalensis*), Macacauba (*Platymiscium parviflorum*), mogano messicano o dell’Honduras (*Swietenia humilis*), podocarpo (*Podocarpus neriifolius*), palissandro (*Dalbergia* spp.; escluse le eccezioni elencate al numero 3 ), palissandro di Rio o legno di rosa brasiliano (*Dalbergia nigra*), legno di Alerce (*Fitzroya cupressoides*), pino di parlatore (*Podocarpus* *parlatorei*), noce della Costa Rica (*Caryocar costaricense*), *Pinus* *koraiensis* originario della Federazione Russa, ramino (*Gonystylus* spp.), *Magnolia liliifera* var. obovata</td></tr>
 <tr><td colspan="2">2.4.7 Giocattoli, giochi</td></tr>
 <tr><td>ex 9503.0000</td><td>Prodotti di questa voce di tariffa, segnatamente i giocattoli da costruzione e i giocattoli musicali in legno di cactacee (*Trichocereus* *= Echinopsis* spp.*, Eulychnia* spp*.*) o con parti di palissandro di Rio o legno di rosa brasiliano (*Dalbergia* *nigra*) o Macacauba (*Platymiscium parviflorum*)</td></tr>
 <tr><td>ex 9504.9000</td><td>Prodotti di questa voce di tariffa, segnatamente giochi di birilli o accessori per bowling di o con parti di mogano messicano o dell’Honduras (*Swietenia humilis*) o ramino (*Gonystylus* spp.)</td></tr>
@@ -434,8 +434,6 @@ Allegato 1[^t-1]
 <tr><td>ex 9705.1000; 9705.2200; 9705.2900</td><td>Collezioni o pezzi per collezioni botaniche di valore archeologico, botanico, etnografico, storico o zoologico soggetti alle disposizioni CITES</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: Ha effetto sino al 25 nov. 2024.
-
 ### 3 Specie contemplate dal numero 2.4.2
 
 Il numero 2.4.2 comprende le specie seguenti:
@@ -444,10 +442,9 @@ Il numero 2.4.2 comprende le specie seguenti:
 <tr><th>Nomi commerciali</th><th colspan="3">Nome scientifico</th><th colspan="2">Allegato CITES, popolazioni interessate ed eccezioni\*</th></tr>
 <tr><td>Abete del Guatemala</td><td colspan="3">*Abies guatemalensis*</td><td colspan="2">I</td></tr>
 <tr><td>Afrormosia, teak africano, assamela</td><td colspan="3">*Pericopsis elata* *(= Afrormosia* *elata)*</td><td colspan="2">II</td></tr>
-<tr><td>Alberi di tromba, Ipê</td><td colspan="3">*Handroanthus* spp.[^annex1-lvlu1-lvl3-1]</td><td colspan="2">II</td></tr>
-<tr><td></td><td colspan="3">*Roseodendron* spp.[^annex1-lvlu1-lvl3-2]</td><td colspan="2">II</td></tr>
-<tr><td></td><td colspan="3">*Tabebuia spp.*[^annex1-lvlu1-lvl3-3]</td><td colspan="2">II</td></tr>
-<tr><td>Almendro</td><td colspan="3">*Dipteryx panamensis*[^annex1-lvlu1-lvl3-4]</td><td colspan="2">III Popolazioni del Costa Rica e del Nicaragua</td></tr>
+<tr><td>Alberi di tromba, Ipê</td><td colspan="3">*Handroanthus* spp.</td><td colspan="2">II</td></tr>
+<tr><td></td><td colspan="3">*Roseodendron* spp.</td><td colspan="2">II</td></tr>
+<tr><td></td><td colspan="3">*Tabebuia spp.*</td><td colspan="2">II</td></tr>
 <tr><td>Assamela: si veda Afrormosia</td><td colspan="3"></td><td colspan="2"></td></tr>
 <tr><td>Araucaria, pino del Cile</td><td colspan="3">*Araucaria araucana (= A. imbricata, A. chilensis, A. dombeyi)*</td><td colspan="2">I</td></tr>
 <tr><td>Ayuque</td><td colspan="3">*Balmea stormae*</td><td colspan="2">I</td></tr>
@@ -463,7 +460,7 @@ Il numero 2.4.2 comprende le specie seguenti:
 <tr><td>Cedro di Mulanje</td><td colspan="3">*Widdringtonia whytei*</td><td colspan="2">II</td></tr>
 <tr><td>Cedro spagnolo: si veda cedro</td><td colspan="3"></td><td colspan="2"></td></tr>
 <tr><td>Cocobolo: si veda palissandro</td><td colspan="3"></td><td colspan="2"></td></tr>
-<tr><td>Cumarù, Tonka</td><td colspan="3">*Dipteryx* spp.[^annex1-lvlu1-lvl3-5]</td><td colspan="2">II</td></tr>
+<tr><td>Cumarù, Tonka</td><td colspan="3">*Dipteryx* spp.</td><td colspan="2">II</td></tr>
 <tr><td colspan="6">Doussié: si veda mogano africano</td></tr>
 <tr><td>Ebano</td><td colspan="3">*Diospyros* spp.</td><td colspan="2">II Popolazione del Madagascar</td></tr>
 <tr><td>Fraxinus</td><td colspan="3">Fraxinus mandshurica</td><td colspan="2">III Popolazione della Russia</td></tr>
@@ -545,16 +542,9 @@ Il numero 2.4.2 comprende le specie seguenti:
 <tr><td>Teak: si veda Afrormosia</td><td colspan="3"></td><td colspan="2"></td></tr>
 <tr><td>Teak africano: si veda Afrormosia</td><td colspan="3"></td><td colspan="2"></td></tr>
 <tr><td>Tetracentron sinense</td><td colspan="3">Tetracentron sinense</td><td colspan="2">III Popolazione del Nepal</td></tr>
-<tr><td>Tonka, Cumarù</td><td colspan="3">Dipteryx spp.[^annex1-lvlu1-lvl3-6]</td><td colspan="2">II</td></tr>
+<tr><td>Tonka, Cumarù</td><td colspan="3">Dipteryx spp.</td><td colspan="2">II</td></tr>
 <tr><td colspan="5">\* Le quantità indicate si riferiscono al peso del legno protetto.</td></tr>
 </table>
-
-[^annex1-lvlu1-lvl3-1]: In vigore del 26 nov. 2024.
-[^annex1-lvlu1-lvl3-2]: In vigore del 26 nov. 2024.
-[^annex1-lvlu1-lvl3-3]: In vigore del 26 nov. 2024.
-[^annex1-lvlu1-lvl3-4]: Ha effetto sino al 25 nov. 2024.
-[^annex1-lvlu1-lvl3-5]: In vigore del 26 nov. 2024.
-[^annex1-lvlu1-lvl3-6]: In vigore del 26 nov. 2024.
 
 Allegato 2[^t-2]
 
