@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 13.11.2024 de mise en vigueur
+title: ARRÊTÉ du 20.11.2024 de mise en vigueur
 language: fr
-version: 2024-11-19
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=6c15e511-8f9b-4d9b-b19e-fbe79ac352d9"
+version: 2024-11-26
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=44c1f468-4030-4acd-b17e-08e1193758ad"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 13 novembre 2024
+du 20 novembre 2024
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,4 +21,4 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Le décret du 20 août 2024 sur la création d'un fonds permettant l'exercice du droit de préemption de l'Etat au sens de la loi du 10 mai 2016 sur la préservation et la promotion du parc locatif (BLV 840.151), publié dans la "Feuille des avis officiels du Canton de Vaud" du 3 septembre 2024, entre en vigueur avec effet au 1er décembre 2024.
+<sup>1</sup> Le décret du 27 août 2024 sur le plan stratégique pluriannuel 2022-2027 de l'Université de Lausanne (BLV 414.10), publié dans la "Feuille des avis officiels du Canton de Vaud" du 10 septembre 2024, entre en vigueur avec effet au 1er décembre 2024.
