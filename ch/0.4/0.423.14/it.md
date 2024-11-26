@@ -3,11 +3,11 @@ sr: "0.423.14"
 title: Accordo del 6 giugno 2024 tra la Confederazione Svizzera e l’Istituto Max von Laue-Paul Langevin (ILL) relativo alla partecipazione scientifica della Svizzera dopo il 2024
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/510"
 language: it
-version: 2024-01-01
+version: 2024-11-27
 adopted: 2024-06-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/510/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2024-510-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/510/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/510/20241127/it/xml/fedlex-data-admin-ch-eli-cc-2024-510-20241127-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/510/20241127/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 6 giugno 2024 Entrato retroattivamente in vigore il 1° gennaio 2024
 
-(Stato 1° gennaio 2024)
+(Stato 27 novembre 2024)
 
 La Confederazione Svizzera, rappresentata da Martina Hirayama, Segretaria di Stato per la formazione, la ricerca e l’innovazione SEFRI , Berna, Svizzera, (di seguito denominata «la Svizzera»), e l’Istituto Max von Laue-Paul Langevin, ILL, una società di diritto francese (société civile) con sede in 71 avenue des Martyrs, 38000 Grenoble, Francia, iscritta al Registro del commercio e delle società (RCS) di Grenoble con il numero 779 555 887, rappresentato dal suo Direttore, il dottor Ken Andersen, e dal suo Responsabile amministrativo, Martin Walter, (di seguito denominato «ILL»),
 
@@ -71,7 +71,7 @@ retto dalle disposizioni seguenti:
     - – 0,45 per cento del tempo di radiazione assegnato dall’ILL nel 2033.
 
 - L’opzione 1 entra in vigore con la firma del presente Accordo.
-- L’opzione 2 entra in vigore e sostituisce l’opzione 1 previo ricevimento della conferma ufficiale della Svizzera, inviata al più tardi entro la fine di dicembre 2024, dell’avvenuto completamento delle procedure interne per l’accettazione di tale opzione.
+- L’opzione 2 entra in vigore e sostituisce l’opzione 1 previo ricevimento della conferma ufficiale della Svizzera, inviata al più tardi entro la fine di dicembre 2024, dell’avvenuto completamento delle procedure interne per l’accettazione di tale opzione. [^2-3]
 - Per permettere agli scienziati della Svizzera di generare un output il più elevato possibile di risultati scientifici d’eccellenza, conformemente alle esigenze della comunità di ricerca svizzera, è compiuto ogni sforzo per adottare misure d’accompagnamento supplementari che permettano agli utenti della Svizzera di sfruttare fino al 4,2 per cento (opzione 1) o fino al 5,1 per cento del tempo di radiazione disponibile (opzione 2). Queste misure d’accompagnamento si articolano in progetti d’interesse comune tra l’ILL e gli istituti di ricerca o le scuole universitarie svizzere e sono definite in appositi accordi di collaborazione.
 - La realizzazione di tali misure d’accompagnamento è subordinata all’approvazione scritta degli Associati dell’ILL.
 - 2\.4 Il tempo di radiazione assegnato a scienziati di Paesi non associati o a Membri non scientifici che collaborano con scienziati della Svizzera è preso in considerazione come descritto nel documento «ILL access policy».
@@ -89,6 +89,7 @@ retto dalle disposizioni seguenti:
 
 [^2-1]: Gli Associati dell’ILL sono i seguenti: – in Francia: il «Centre National de la Recherche Scientifique» e il «Commissariat à l’Energie Atomique et aux énergies alternatives»; – in Germania: il «Forschungszentrum Jülich GmbH»; – nel Regno Unito: lo «United Kingdom Research and Innovation».
 [^2-2]: Membri scientifici: Paesi che hanno concluso con l’ILL un accordo di partecipazione scientifica.
+[^2-3]: L’attivazione dell’«Opzione 2» è entrata in vigore per la Svizzera il 27 nov. 2024. Essa sostituisce l’«Opzione 1» e prolunga la durata dell’Acc. fino al 31 dic. 2033 ([RU 2024 766](https://fedlex.data.admin.ch/eli/oc/2024/766)).
 
 #### Art. 3
 

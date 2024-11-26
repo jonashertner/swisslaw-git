@@ -3,11 +3,11 @@ sr: "0.423.14"
 title: Abkommen vom 6. Juni 2024 zwischen der Schweizerischen Eidgenossenschaft und dem Institut Max von Laue-Paul Langevin (ILL) über die wissenschaftliche Mitgliedschaft der Schweiz ab 2024
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/510"
 language: de
-version: 2024-01-01
+version: 2024-11-27
 adopted: 2024-06-06
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/510/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2024-510-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/510/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/510/20241127/de/xml/fedlex-data-admin-ch-eli-cc-2024-510-20241127-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/510/20241127/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2024** 510
 
 Abgeschlossen am 6. Juni 2024 Rückwirkend in Kraft getreten am 1. Januar 2024
 
-(Stand am 1. Januar 2024)
+(Stand am 27. November 2024)
 
 Die Schweizerische Eidgenossenschaft, vertreten durch Dr. Martina Hirayama, Staatssekretärin und Direktorin des Staatssekretariats für Bildung, Forschung und Innovation (SBFI), Bern, Schweiz, (nachfolgend die «Schweizerische Eidgenossenschaft») und das Institut Max von Laue-Paul Langevin, ILL, eine nach französischem Zivilgesetz gegründete Gesellschaft (société civile) mit Sitz an der 71 avenue des Martyrs, 38000 Grenoble, Frankreich, eingetragen im Handelsregister mit der Identifikationsnummer 779 555 887 RCS Grenoble, vertreten durch seinen Direktor Dr. Ken Andersen und seinen Leiter der Administration Martin Walter, (nachfolgend das «ILL»),
 
@@ -60,18 +60,18 @@ das wie folgt geregelt ist:
 
   Auf dieser Grundlage sieht das vorliegende Abkommen für die Schweiz zwei Optionen vor:
 
-  - – Option 1: Diese Option bedingt ein Abkommen mit einer Laufzeit von fünf (5) Jahren. Bei dieser Option hat die Schweiz Anrecht auf bis zu 2,17 % der vom ILL jährlich zugeteilten Strahlzeit. Dieser Anspruch ist als gleitender Durchschnitt über drei Jahre der wissenschaftlichen Mitgliedschaft berechnet.
+  - – **Option 1**: Diese Option bedingt ein Abkommen mit einer Laufzeit von fünf (5) Jahren. Bei dieser Option hat die Schweiz Anrecht auf bis zu 2,17 % der vom ILL jährlich zugeteilten Strahlzeit. Dieser Anspruch ist als gleitender Durchschnitt über drei Jahre der wissenschaftlichen Mitgliedschaft berechnet.
   - –
 
-    Option 2: Diese Option bedingt ein Abkommen mit einer Laufzeit von zehn (10) Jahren. Bei dieser Option besteht Anspruch auf durchschnittlich 2,32 % der vergebenen Strahlzeit des ILL über die gesamte Laufzeit von zehn (10) Jahren, die jedoch wie folgt aufgeteilt ist:
+    **Option 2**: Diese Option bedingt ein Abkommen mit einer Laufzeit von zehn (10) Jahren. Bei dieser Option besteht Anspruch auf durchschnittlich 2,32 % der vergebenen Strahlzeit des ILL über die gesamte Laufzeit von zehn (10) Jahren, die jedoch wie folgt aufgeteilt ist:
 
     - – 3,05 % der vom ILL zugeteilten Strahlzeit pro Jahr in den ersten sieben (7) Jahren, wobei für diese sieben Jahre der Anspruch ebenfalls als gleitender Durchschnitt über drei Jahre der wissenschaftlichen Mitgliedschaft berechnet wird;
     - – 0,78 % der vom ILL zugeteilten Strahlzeit im Jahr 2031;
     - – 0,61 % der vom ILL zugeteilten Strahlzeit im Jahr 2032;
     - – 0,45 % der vom ILL zugeteilten Strahlzeit im Jahr 2033.
 
-- Option 1 tritt mit der Unterzeichnung dieses Abkommens in Kraft.
-- Option 2 tritt bei Erhalt der formellen Bestätigung durch die Schweiz, dass ihr internes Verfahren, um diese Option anzunehmen abgeschlossen ist, bis im Dezember 2024 in Kraft und geht Option 1 vor.
+- **Option 1** tritt mit der Unterzeichnung dieses Abkommens in Kraft.
+- **Option 2** tritt bei Erhalt der formellen Bestätigung durch die Schweiz, dass ihr internes Verfahren, um diese Option anzunehmen abgeschlossen ist, bis im Dezember 2024 in Kraft und geht Option 1 vor.[^2-3]
 - Damit die Wissenschaftlerinnen und Wissenschaftler aus der Schweiz einen möglichst hohen wissenschaftlichen Output gestützt auf wissenschaftliche Exzellenz und gemäss den Ansprüchen der schweizerischen Forschungsgemeinschaft erzielen können, wird bestmöglich darauf hingewirkt, zusätzliche Begleitmassnahmen einzurichten, um für die Benutzerinnen und Benutzer der Schweiz bei Bedarf bis zu 4,2 % der Strahlzeit (Option 1) respektive bis zu 5,1 % der Strahlzeit am ILL (Option 2) zu erhalten. Diese Begleitmassnahmen werden in Form von Projekten umgesetzt, die im gemeinsamen Interesse von ILL und Schweizer Forschungseinrichtungen oder Hochschulen sind, und in speziellen Kooperationsverträgen formell festgehalten.
 - Die Einführung von Begleitmassnahmen untersteht der vorgängigen schriftlichen Genehmigung durch die Teilhaber.
 - 2\.4 Die Strahlzeit für Wissenschaftlerinnen und Wissenschaftler aus nichtassoziierten oder nichtwissenschaftlichen Mitgliedstaaten, die aber mit Schweizer Wissenschaftlerinnen und Wissenschaftlern zusammenarbeiten, wird gemäss den im Dokument *ILL access policy* definierten Regeln bemessen.
@@ -89,6 +89,7 @@ das wie folgt geregelt ist:
 
 [^2-1]: Zu den Teilhabern des ILL gehören: – in Frankreich: das *Centre National de la Recherche Scientifique* und das *Commissariat à l’Energie Atomique et aux énergies alternatives;* – in Deutschland: das Forschungszentrum Jülich GmbH; – im Vereinigten Königreich: *United Kingdom Research and Innovation.*
 [^2-2]: Wissenschaftliche Mitgliedstaaten: Länder, die ein Abkommen über die wissenschaftliche Mitgliedschaft unterzeichnet haben.
+[^2-3]: Die Aktivierung von «Option 2» ist für die Schweiz am 27. Nov. 2024 in Kraft getreten. Sie ersetzt «Option 1» und verlängert die Laufzeit des Abkommens bis zum 31. Dez. 2033 ([AS 2024 766](https://fedlex.data.admin.ch/eli/oc/2024/766)).
 
 #### Art. 3
 
