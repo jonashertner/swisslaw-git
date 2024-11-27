@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: "Convenzione del 7 dicembre 1944 relativa all'aviazione civile internazionale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: it
-version: 2024-05-29
+version: 2024-11-28
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20240529/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20240529-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20240529/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20241128/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20241128-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20241128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ Traduzione[^t-1]
 
 Conchiusa a Chicago il 7 dicembre 1944 Approvata dall’Assemblea federale il 13 dicembre 1946 Ratificazione depositata dalla Svizzera il 6 febbraio 1947 Entrata in vigore per la Svizzera il 4 aprile 1947
 
-(Stato 29 maggio 2024)
+(Stato 28 novembre 2024)
 
 [^t-1]: CS **13** 569; ed. franc. FF **1946** III 583 Versione consolidata (RU **1971** 1296).
 
@@ -327,7 +327,7 @@ A tale scopo, l’Organizzazione per l’Aviazione civile internazionale adotta 
 - g) la raccolta e lo scambio di informazioni meteorologiche;
 - h) i libri di bordo;
 - i) le carte e i diagrammi aeronautici;
-- i) le formalità doganali e di immigrazione;
+- j) le formalità doganali e di immigrazione;
 - k) gli aeromobili in pericolo e le inchieste sugli infortuni;
 
 #### Art. 38
@@ -826,21 +826,21 @@ Nel senso della presente Convenzione:
 
 Allegati[^t-3]
 
-\1. Sono in vigore i seguenti allegati alla Convenzione relativa all’aviazione civile internazionale:
+\1. Gli allegati alla Convenzione relativa all’aviazione civile internazionale in vigore sono i seguenti:
 
 *Allegato 1* Licenze del personale
 
 Quattordicesima edizione, luglio 2018, applicabile dal 3 novembre 2022
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 179, applicabile dal 28 novembre 2024
 
-[^t-3]: Il testo dei presenti allegati non è pubblicato né nella RU né nella RS ([RU 2024 112](https://fedlex.data.admin.ch/eli/oc/2024/112)).
+[^t-3]: Il testo dei presenti all. non è pubblicato né nella RU né nella RS ([RU 2024 768](https://fedlex.data.admin.ch/eli/oc/2024/768)).
 
 *Allegato 2* Regole dell’aria
 
 Decima edizione, luglio 2005
 
-Ultimo emendamento: n. 46, applicabile dall’8 novembre 2018
+Ultimo emendamento: n. 48, applicabile dal 28 novembre 2024
 
 *Allegato 3* Servizi di meteorologia per la navigazione aerea internazionale
 
@@ -848,13 +848,13 @@ Ventesima edizione, luglio 2018
 
 Parte II: Appendici e supplementi
 
-Ultimo emendamento: n. 80, applicabile dal 4 novembre 2021
+Ultimo emendamento: n. 81, applicabile dal 28 novembre 2024
 
 *Allegato 4* Carte aeronautiche
 
 Undicesima edizione, luglio 2009
 
-Ultimo emendamento: n. 61, applicabile dal 4 novembre 2021
+Ultimo emendamento: n. 62, applicabile dal 28 novembre 2024
 
 *Allegato 5* Unità di misura per le operazioni in volo e a terra
 
@@ -868,25 +868,25 @@ Parte I: Trasporto aereo commerciale internazionale – Aeroplani
 
 Undicesima edizione, luglio 2018, applicabile dall’8 novembre 2018
 
-Ultimo emendamento: n. 48, applicabile dal 29 dicembre 2022 e a partire dal 1° gennaio 2025
+Ultimo emendamento: n. 49, applicabile dal 28 novembre 2024
 
 Parte II: Aviazione generale internazionale – Aeroplani
 
 Undicesima edizione, luglio 2022, applicabile dal 3 novembre 2022
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 41, applicabile dal 28 novembre 2024
 
 Parte III: Voli internazionali – Elicotteri
 
 Undicesima edizione, luglio 2018, applicabile dal 3 novembre 2022
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 25, applicabile dal 28 novembre 2024
 
 *Allegato 7* Marche di nazionalità e di immatricolazione degli aeromobili
 
 Sesta edizione, luglio 2012
 
-Ultimo emendamento: n. 7, applicabile dal 2 novembre 2023 e a partire dal 26 novembre 2026
+Ultimo emendamento: n. 7, applicabile dal 2 novembre 2023 e dal 26 novembre 2026
 
 *Allegato 8* Aeronavigabilità degli aeromobili
 
@@ -908,17 +908,17 @@ Settima edizione, luglio 2018
 
 Ultimo emendamento: n. 92, applicabile dal 5 novembre 2020
 
-Volume II: Procedure di comunicazione, comprese quelle che hanno il carattere di procedure per i servizi di navigazione aerea
+Volume II: Procedure di comunicazione
 
 Settima edizione, luglio 2016
 
-Ultimo emendamento: n. 92, applicabile dal 5 novembre 2020
+Ultimo emendamento: n. 93, applicabile dal 28 novembre 2024
 
 Volume III: Sistemi di comunicazione (Parte 1: Sistemi di comunicazione di dati digitali; Parte 2: Sistemi di comunicazione vocale)
 
 Seconda edizione, luglio 2007
 
-Ultimo emendamento: n. 91, applicabile dal 3 novembre 2022
+Ultimo emendamento: n. 92, applicabile dal 28 novembre 2024
 
 Volume IV: Sistemi di sorveglianza e anticollisione
 
@@ -926,7 +926,7 @@ Quinta edizione, luglio 2014
 
 Ultimo emendamento: n. 91, applicabile dal 3 novembre 2022
 
-Volume V: Impiego dello spettro delle radiofrequenze aeronautiche
+Volume V: Impiego dello spettro delle radiofrequenze
 
 Terza edizione, luglio 2013, applicabile dal 14 novembre 2013
 
@@ -936,19 +936,19 @@ Ultimo emendamento: –
 
 Quindicesima edizione, luglio 2018
 
-Ultimo emendamento: n. 52, applicabile dal 5 novembre 2020
+Ultimo emendamento: n. 53, applicabile dal 28 novembre 2024
 
 *Allegato 12* Ricerca e soccorso
 
 Ottava edizione, luglio 2004
 
-Ultimo emendamento: n. 18, applicabile dal 22 novembre 2007
+Ultimo emendamento: n. 19, applicabile dal 28 novembre 2024
 
 *Allegato 13* Inchieste sugli incidenti aeronautici
 
 Dodicesima edizione, luglio 2020, applicabile dal 5 novembre 2020
 
-Ultimo emendamento: –
+Ultimo emendamento: n. 19, applicabile dal 28 novembre 2024
 
 *Allegato 14* Aerodromi
 
@@ -968,7 +968,7 @@ Ultimo emendamento: –
 
 Sedicesima edizione, luglio 2018
 
-Ultimo emendamento: n. 42, applicabile dal 4 novembre 2021
+Ultimo emendamento: n. 43, applicabile dal 28 novembre 2024
 
 *Allegato 16* Protezione dell’ambiente
 
@@ -1018,7 +1018,7 @@ Ultimo emendamento: –
 
 \3. Il testo degli allegati e dei loro emendamenti è accessibile sul sito Internet dell’Ufficio federale dell’aviazione civile (UFAC)[^t-4]. Può essere anche acquistato presso l’OACI.
 
-[^t-4]: Link al testo degli allegati e degli emendamenti: [www.bazl.admin.ch &gt; Temi &gt; Basi legali &gt; Allegati della Convenzione dell’OACI](https://www.bazl.admin.ch/bazl/it/home/themen/basi-legali/allegati-della-convenzione-dell-organizzazione-dell-aviazione-ci.html).
+[^t-4]: www.bazl.admin.ch &gt; Temi &gt; Basi legali &gt; Allegati della Convenzione dell'OACI.
 
 Campo d’applicazione il 29 maggio 2024[^t-5]
 

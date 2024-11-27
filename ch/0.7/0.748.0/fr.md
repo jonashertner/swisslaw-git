@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: "Convention du 7 décembre 1944 relative à l'aviation civile internationale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: fr
-version: 2024-05-29
+version: 2024-11-28
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20240529/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20240529-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20240529/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20241128/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20241128-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20241128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification déposés par la Suisse le 6 février 1947
 
 Entrée en vigueur pour la Suisse le 4 avril 1947
 
-(État le 29 mai 2024)
+(État le 28 novembre 2024)
 
 [^t-1]: Version consolidée ([RO 1971 1296](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 [^t-2]: RO **63** 1377
@@ -841,15 +841,15 @@ Annexes[^t-4]
 
 Quatorzième édition, juillet 2018, applicable depuis le 3 novembre 2022
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 179, applicable depuis le 28 novembre 2024
 
-[^t-4]: Ces annexes ne sont publiées ni au RO, ni au RS ([RO 2024 112](https://fedlex.data.admin.ch/eli/oc/2024/112)).
+[^t-4]: Ces annexes ne sont publiées ni au RO, ni au RS ([RO 2024 768](https://fedlex.data.admin.ch/eli/oc/2024/768)).
 
 *Annexe 2* Règles de l’air
 
 Dixième édition, juillet 2005
 
-Dernier amendement: n<sup>o</sup> 46, applicable depuis le 8 novembre 2018
+Dernier amendement: n<sup>o</sup> 48, applicable depuis le 28 novembre 2024
 
 *Annexe 3* Assistance météorologique à la navigation aérienne internationale
 
@@ -857,17 +857,17 @@ Vingtième édition, juillet 2018
 
 Partie II: Appendices et suppléments
 
-Dernier amendement: n<sup>o</sup> 80, applicable depuis le 4 novembre 2021
+Dernier amendement: n<sup>o</sup> 81, applicable depuis le 28 novembre 2024
 
 *Annexe 4* Cartes aéronautiques
 
 Onzième édition, juillet 2009
 
-Dernier amendement: n<sup>o</sup> 61, applicable depuis le 4 novembre 2021
+Dernier amendement: n<sup>o</sup> 62, applicable depuis le 28 novembre 2024
 
 *Annexe 5* Unités de mesure à utiliser dans l’exploitation en vol et au sol
 
-Cinquième édition, juillet 2010, applicable depuis le 18 novembre 2010
+Cinquième édition, juillet 2010, applicable depuis le 10 novembre 2010
 
 Dernier amendement: –
 
@@ -877,19 +877,19 @@ Partie I: Aviation de transport commercial international – Avions
 
 Onzième édition, juillet 2018, applicable depuis le 8 novembre 2018
 
-Dernier amendement: n<sup>o</sup> 48, applicable depuis le 29 décembre 2022 et à partir du 1<sup>er</sup> janvier 2025
+Dernier amendement: n<sup>o</sup> 49, applicable depuis le 28 novembre 2024
 
 Partie II: Aviation générale internationale – Avions
 
 Onzième édition, juillet 2022, applicable depuis le 3 novembre 2022
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 41, applicable depuis le 28 novembre 2024
 
 Partie III: Vols internationaux d’hélicoptères
 
 Onzième édition, juillet 2018, applicable depuis le 3 novembre 2022
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 25, applicable depuis le 28 novembre 2024
 
 *Annexe 7* Marques de nationalité et d’immatriculation des aéronefs
 
@@ -921,13 +921,13 @@ Volume II: Procédures de télécommunication, y compris celles qui ont le carac
 
 Septième édition, juillet 2016
 
-Dernier amendement: n<sup>o</sup> 92, applicable depuis le 5 novembre 2020
+Dernier amendement: n<sup>o</sup> 93, applicable depuis le 28 novembre 2024
 
 Volume III: Systèmes de télécommunication (Partie 1 – Systèmes de communication de données numériques; Partie 2 – Systèmes de communications vocales)
 
 Deuxième édition, juillet 2007
 
-Dernier amendement: n<sup>o</sup> 91, applicable depuis le 3 novembre 2022
+Dernier amendement: n<sup>o</sup> 92, applicable depuis le 28 novembre 2024
 
 Volume IV: Systèmes de surveillance et anticollision
 
@@ -945,19 +945,19 @@ Dernier amendement: –
 
 Quinzième édition, juillet 2018
 
-Dernier amendement: n<sup>o</sup> 52, applicable depuis le 5 novembre 2020
+Dernier amendement: n<sup>o</sup> 53, applicable depuis le 28 novembre 2024
 
 *Annexe 12* Recherches et sauvetage
 
 Huitième édition, juillet 2004
 
-Dernier amendement: n<sup>o</sup> 18, applicable depuis le 22 novembre 2007
+Dernier amendement: n<sup>o</sup> 19, applicable depuis le 28 novembre 2024
 
 *Annexe 13* Enquêtes sur les accidents et incidents d’aviation
 
 Douzième édition, juillet 2020, applicable depuis le 5 novembre 2020
 
-Dernier amendement: –
+Dernier amendement: n<sup>o</sup> 19, applicable depuis le 28 novembre 2024
 
 *Annexe 14* Aérodromes
 
@@ -977,7 +977,7 @@ Dernier amendement: –
 
 Seizième édition, juillet 2018
 
-Dernier amendement: n<sup>o</sup> 42, applicable depuis le 4 novembre 2021
+Dernier amendement: n<sup>o</sup> 43, applicable depuis le 28 novembre 2024
 
 *Annexe 16* Protection de l’environnement
 
@@ -1027,7 +1027,7 @@ Dernier amendement: –
 
 \3. Le texte des annexes et de leurs amendements est accessible sur le site web de l’office fédéral de l’aviation civile (OFAC)[^t-5]. Il peut d’autre part être obtenu contre paiement auprès de l’OACI.
 
-[^t-5]: Lien vers les textes des annexes et de leurs amendements: [www.bazl.admin.ch &gt; Thèmes &gt; Bases légales &gt; Annexes à la Convention de l’OACI](https://www.bazl.admin.ch/bazl/fr/home/themen/rechtliche-grundlagen/anhaenge-icao.html).
+[^t-5]: Lien vers les textes des annexes et de leurs amendements: [www.bazl.admin.ch](https://www.bazl.admin.ch/bazl/fr/home/themen/rechtliche-grundlagen/anhaenge-icao.html) &gt; Thèmes &gt; Bases légales &gt; Annexes à la Convention de l’OACI.
 
 Champ d’application le 29 mai 2024[^t-6]
 

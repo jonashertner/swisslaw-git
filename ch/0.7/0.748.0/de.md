@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: Übereinkommen vom 7. Dezember 1944 über die internationale Zivilluftfahrt
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: de
-version: 2024-05-29
+version: 2024-11-28
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20240529/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20240529-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20240529/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20241128/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20241128-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20241128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,11 +26,11 @@ Schweizerische Ratifikationsurkunde hinterlegt am 6. Februar 1947
 
 In Kraft getreten für die Schweiz am 4. April 1947
 
-(Stand am 29. Mai 2024)
+(Stand am 28. November 2024)
 
 [^t-1]: Konsolidierte Version ([AS 1971 1301](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 
-## *Einleitung*
+*Einleitung*
 
 In der Erwägung, dass die künftige Entwicklung der internationalen Zivilluftfahrt in hohem Masse dazu beitragen kann, Freundschaft und Verständnis zwischen den Staaten und Völkern der Welt zu schaffen und zu erhalten, ihr Missbrauch jedoch zu einer Bedrohung der allgemeinen Sicherheit werden kann; und
 
@@ -828,7 +828,7 @@ Für die Zwecke dieses Übereinkommens bedeutet der Ausdruck:
 
 *Zu Urkund dessen* unterschreiben die unterzeichneten, hiezu gehörig befugten Bevollmächtigten dieses Übereinkommen im Namen ihrer Regierungen an den neben ihren Unterschriften stehenden Daten. *Geschehen* zu Chicago am siebenten Dezember tausendneunhundertvierundvierzig in englischer Sprache. Die Fassungen dieses Übereinkommens in französischer, englischer, spanischer und russischer Sprache sind gleichermassen verbindlich. Diese Fassungen werden in den Archiven der Regierung der Vereinigten Staaten von Amerika hinterlegt, und beglaubigte Ausfertigungen sind von dieser Regierung den Regierungen aller Staaten zu übermitteln, die dieses Übereinkommen unterzeichnen oder ihm beitreten werden. Dieses Übereinkommen wird in Washington D.C. zur Unterzeichnung aufgelegt.[^t-2] (Es folgen die Unterschriften)
 
-[^t-2]: Fassung gemäss Prot. vom 30. Sept. 1977, von der BVers genehmigt am 12. Dez. 1979, für die Schweiz in Kraft seit 17. Aug. 1999 ([AS 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)[3993](https://fedlex.data.admin.ch/eli/oc/2004/577); [BBl 1979 II 1](https://fedlex.data.admin.ch/eli/fga/1979/2_1_8_)).
+[^t-2]: Fassung gemäss Prot. vom 30. Sept. 1977, von der BVers genehmigt am 12. Dez. 1979, für die Schweiz in Kraft seit 17. Aug. 1999 ([AS 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580), [3993](https://fedlex.data.admin.ch/eli/oc/2004/577); [BBl 1979 II 1](https://fedlex.data.admin.ch/eli/fga/1979/2_1_8_)).
 
 Anhänge[^t-3]
 
@@ -838,15 +838,15 @@ Anhänge[^t-3]
 
 Vierzehnte Auflage, Juli 2018, anwendbar seit 3. November 2022
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 179, anwendbar seit 28. November 2024
 
-[^t-3]: Die Anhänge sind weder in der AS noch in der SR veröffentlicht ([AS 2024 112](https://fedlex.data.admin.ch/eli/oc/2024/112)).
+[^t-3]: Die Anhänge sind weder in der AS noch in der SR veröffentlicht ([AS 2024 768](https://fedlex.data.admin.ch/eli/oc/2024/768)).
 
 *Anhang 2* Verkehrsregeln
 
 Zehnte Auflage, Juli 2005
 
-Letzte Änderung: Nr. 46, anwendbar seit 8. November 2018
+Letzte Änderung: Nr. 48, anwendbar seit 28. November 2024
 
 *Anhang 3* Meteorologische Dienste
 
@@ -854,13 +854,13 @@ Zwanzigste Auflage, Juli 2018
 
 Teil II: Beilage und Zusätze
 
-Letzte Änderung: Nr. 80, anwendbar seit 4. November 2021
+Letzte Änderung: Nr. 81, anwendbar seit 28. November 2024
 
 *Anhang 4* Luftfahrtkarten
 
 Elfte Auflage, Juli 2009
 
-Letzte Änderung: Nr. 61, anwendbar seit 4. November 2021
+Letzte Änderung: Nr. 62, anwendbar seit 28. November 2024
 
 *Anhang 5* Masseinheiten zur Verwendung in der Luft- und Bodenoperationen
 
@@ -874,19 +874,19 @@ Teil I: Internationaler kommerzieller Lufttransport – Flugzeug
 
 Elfte Auflage, Juli 2018, anwendbar seit 8. November 2018
 
-Letzte Änderung: Nr. 48, anwendbar seit 29. Dezember 2022 und ab 1. Januar 2025
+Letzte Änderung: Nr. 49, anwendbar seit 28. November 2024
 
 Teil II: Internationale allgemeine Luftfahrt – Flugzeug
 
 Elfte Auflage, Juli 2022, anwendbar seit 3. November 2022
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 41, anwendbar seit 28. November 2024
 
 Teil III: Internationale Flüge von Helikoptern
 
 Elfte Auflage, Juli 2018, anwendbar seit 3. November 2022
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 25, anwendbar seit 28. November 2024
 
 *Anhang 7* Nationalitäts- und Registrierungskennzeichen von Luftfahrzeugen
 
@@ -918,13 +918,13 @@ Volume II: Kommunikationsverfahren, inkl. jener mit Eigenschaften der Flugsicher
 
 Siebte Auflage, Juli 2016
 
-Letzte Änderung: Nr. 92, anwendbar seit 5. November 2020
+Letzte Änderung: Nr. 93, anwendbar seit 28. November 2024
 
 Volume III: Kommunikationssysteme (Teil 1 – Kommunikationssysteme digitaler Daten; Teil 2 – Sprachgestützte Kommunikationssysteme)
 
 Zweite Auflage, Juli 2007
 
-Letzte Änderung: Nr. 91, anwendbar seit 3. November 2022
+Letzte Änderung: Nr. 92, anwendbar seit 28. November 2024
 
 Volume IV: Überwachungs- und Antikollisionssysteme
 
@@ -942,19 +942,19 @@ Letzte Änderung: –
 
 Fünfzehnte Auflage, Juli 2018
 
-Letzte Änderung: Nr. 52, anwendbar seit 5. November 2020
+Letzte Änderung: Nr. 53, anwendbar seit 28. November 2024
 
 *Anhang 12* Suche und Rettung (SAR)
 
 Achte Auflage, Juli 2004
 
-Letzte Änderung: Nr. 18, anwendbar seit 22. November 2007
+Letzte Änderung: Nr. 19, anwendbar seit 28. November 2024
 
 *Anhang 13* Flugunfalluntersuchung
 
 Zwölfte Auflage, Juli 2020, anwendbar seit 5. November 2020
 
-Letzte Änderung: –
+Letzte Änderung: Nr. 19, anwendbar seit 28. November 2024
 
 *Anhang 14* Flugplätze
 
@@ -968,13 +968,13 @@ Volume II: Helikopterlandeplätze
 
 Fünfte Auflage, anwendbar seit 5. November 2020
 
-Letzte Änderung: -
+Letzte Änderung: –
 
 *Anhang 15* Flugverkehrsinformationsdienste
 
 Sechszehnte Auflage, Juli 2018
 
-Letzte Änderung: Nr. 42, anwendbar seit 4. November 2021
+Letzte Änderung: Nr. 43, anwendbar seit 28. November 2024
 
 *Anhang 16* Umweltschutz
 
@@ -1024,7 +1024,7 @@ Letzte Änderung: –
 
 \3. Die Anhänge werden auf der Website des Bundesamtes für Zivilluftfahrt (BAZL) publiziert[^t-4]. Sie können zudem bei der Internationalen Zivilluftfahrtorganisation (ICAO) kostenpflichtig bezogen werden.
 
-[^t-4]: Link zum Text der Anhänge: [www.bazl.admin.ch &gt; Themen &gt; Rechtliche Grundlagen &gt; Anhänge zur Konvention der ICAO](https://www.bazl.admin.ch/bazl/de/home/themen/rechtliche-grundlagen/anhaenge-icao.html).
+[^t-4]: Link zum Text der Anhänge: [www.bazl.admin.ch](https://www.bazl.admin.ch) &gt; Themen &gt; Rechtliche Grundlagen &gt; Anhänge zur Konvention der ICAO.
 
 Geltungsbereich am 29. Mai 2024[^t-5]
 
