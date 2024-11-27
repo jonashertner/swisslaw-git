@@ -3,11 +3,11 @@ sr: "0.103.1"
 title: "Internationaler Pakt vom 16. Dezember 1966 über wirtschaftliche, soziale und kulturelle Rechte"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/725_725_725"
 language: de
-version: 2022-02-17
+version: 2024-11-28
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20220217/de/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20220217-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20220217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20241128/de/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20241128-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20241128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 725; BBl **1991** I 189
 
 Abgeschlossen in New York am 16. Dezember 1966 Von der Bundesversammlung genehmigt am 13. Dezember 1991[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 18. Juni 1992 In Kraft getreten für die Schweiz am 18. September 1992
 
-(Stand am 17. Februar 2022)
+(Stand am 28. November 2024)
 
 [^t-1]: [AS 1993 724](https://fedlex.data.admin.ch/eli/oc/1993/724_724_724)
 
@@ -36,7 +36,7 @@ in der Erwägung, dass die Charta der Vereinten Nationen die Staaten verpflichte
 
 im Hinblick darauf, dass der einzelne gegenüber seinen Mitmenschen und der Gemeinschaft, der er angehört, Pflichten hat und gehalten ist, für die Förderung und Achtung der in diesem Pakt anerkannten Rechte einzutreten – *vereinbaren folgende Artikel*:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Teil I
 
@@ -68,7 +68,7 @@ Die Vertragsstaaten erkennen an, dass ein Staat die Ausübung der von ihm gemäs
 
 #### Art. 5
 
-(l) Keine Bestimmung dieses Paktes darf dahin ausgelegt werden, dass sie für einen Staat, eine Gruppe oder eine Person das Recht begründet, eine Tätigkeit auszuüben oder eine Handlung zu begehen, die auf die Abschaffung der in diesem Pakt anerkannten Rechte und Freiheiten oder auf weitergehende Beschränkungen dieser Rechte und Freiheiten, als in dem Pakt vorgesehen, hinzielt.
+<sup>(1)</sup> Keine Bestimmung dieses Paktes darf dahin ausgelegt werden, dass sie für einen Staat, eine Gruppe oder eine Person das Recht begründet, eine Tätigkeit auszuüben oder eine Handlung zu begehen, die auf die Abschaffung der in diesem Pakt anerkannten Rechte und Freiheiten oder auf weitergehende Beschränkungen dieser Rechte und Freiheiten, als in dem Pakt vorgesehen, hinzielt.
 
 <sup>(2)</sup> Die in einem Land durch Gesetz, Übereinkommen, Verordnungen oder durch Gewohnheitsrecht anerkannten oder bestehenden grundlegenden Menschenrechte dürfen nicht unter dem Vorwand beschränkt oder ausser Kraft gesetzt werden, dass dieser Pakt derartige Rechte nicht oder nur in einem geringen Ausmass anerkenne.
 
@@ -82,7 +82,7 @@ Die Vertragsstaaten erkennen an, dass ein Staat die Ausübung der von ihm gemäs
 
 #### Art. 7
 
-Die Vertragsstaaten erkennen das Recht eines jeden auf gerechte und günstige Arbeitsbedingungen an, durch die insbesondere gewährleistet wird
+Die Vertragsstaaten erkennen das Recht eines jeden auf gerechte und günstige Arbeitsbedingungen an, durch die insbesondere gewährleistet wird:
 
 - a) ein Arbeitsentgelt, das allen Arbeitnehmern mindestens sichert
   - i) angemessenen Lohn und gleiches Entgelt für gleichwertige Arbeit ohne Unterschied; insbesondere wird gewährleistet, dass Frauen keine ungünstigeren Arbeitsbedingungen als Männer haben und dass sie für gleiche Arbeit gleiches Entgelt erhalten,
@@ -107,7 +107,7 @@ Die Vertragsstaaten verpflichten sich, folgende Rechte zu gewährleisten:
 
 <sup>(3)</sup> Keine Bestimmung dieses Artikels ermächtigt die Vertragsstaaten des Übereinkommens der Internationalen Arbeitsorganisation von 1948[^8-1] über die Vereinigungsfreiheit und den Schutz des Vereinigungsrechts, gesetzgeberische Massnahmen zu treffen oder Gesetze so anzuwenden, dass die Garantien des oben genannten Übereinkommens beeinträchtigt werden.
 
-[^8-1]: [SR 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
+[^8-1]: [SR 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
 
 #### Art. 9
 
@@ -115,7 +115,7 @@ Die Vertragsstaaten erkennen das Recht eines jeden auf Soziale Sicherheit an; di
 
 #### Art. 10
 
-Die Vertragsstaaten erkennen an,
+Die Vertragsstaaten erkennen an:
 
 - 1\. dass die Familie als die natürliche Kernzelle der Gesellschaft grösstmöglichen Schutz und Beistand geniessen soll, insbesondere im Hinblick auf ihre Gründung und solange sie für die Betreuung und Erziehung unterhaltsberechtigter Kinder verantwortlich ist. Eine Ehe darf nur im freien Einverständnis der künftigen Ehegatten geschlossen werden;
 - 2\. dass Mütter während einer angemessenen Zeit vor und nach der Niederkunft besonderen Schutz geniessen sollen. Während dieser Zeit sollen berufstätige Mütter bezahlten Urlaub oder Urlaub mit angemessenen Leistungen aus der Sozialen Sicherheit erhalten;
@@ -125,7 +125,9 @@ Die Vertragsstaaten erkennen an,
 
 <sup>(1)</sup> Die Vertragsstaaten erkennen das Recht eines jeden auf einen angemessenen Lebensstandard für sich und seine Familie an, einschliesslich ausreichender Ernährung, Bekleidung und Unterbringung, sowie auf eine stetige Verbesserung der Lebensbedingungen. Die Vertragsstaaten unternehmen geeignete Schritte, um die Verwirklichung dieses Rechts zu gewährleisten, und erkennen zu diesem Zweck die entscheidende Bedeutung einer internationalen, auf freier Zustimmung beruhenden Zusammenarbeit an.
 
-<sup>(2)</sup> In Anerkennung des grundlegenden Rechts eines jeden, vor Hunger geschützt zu sein, werden die Vertragsstaaten einzeln und im Wege internationaler Zusammenarbeit die erforderlichen Massnahmen, einschliesslich besonderer Programme, durchführen
+<sup>(2)</sup>
+
+In Anerkennung des grundlegenden Rechts eines jeden, vor Hunger geschützt zu sein, werden die Vertragsstaaten einzeln und im Wege internationaler Zusammenarbeit die erforderlichen Massnahmen, einschliesslich besonderer Programme, durchführen:
 
 - a) zur Verbesserung der Methoden der Erzeugung, Haltbarmachung und Verteilung von Nahrungsmitteln durch volle Nutzung der technischen und wissenschaftlichen Erkenntnisse, durch Verbreitung der ernährungswissenschaftlichen Grundsätze sowie durch die Entwicklung oder Reform landwirtschaftlicher Systeme mit dem Ziel einer möglichst wirksamen Erschliessung und Nutzung der natürlichen Hilfsquellen;
 - b) zur Sicherung einer dem Bedarf entsprechenden gerechten Verteilung der Nahrungsmittelvorräte der Welt unter Berücksichtigung der Probleme der Nahrungsmittel einführenden und ausführenden Länder.
@@ -134,7 +136,9 @@ Die Vertragsstaaten erkennen an,
 
 <sup>(1)</sup> Die Vertragsstaaten erkennen das Recht eines jeden auf das für ihn erreichbare Höchstmass an körperlicher und geistiger Gesundheit an.
 
-<sup>(2)</sup> Die von den Vertragsstaaten zu unternehmenden Schritte zur vollen Verwirklichung dieses Rechts umfassen die erforderlichen Massnahmen
+<sup>(2)</sup>
+
+Die von den Vertragsstaaten zu unternehmenden Schritte zur vollen Verwirklichung dieses Rechts umfassen die erforderlichen Massnahmen:
 
 - a) zur Senkung der Zahl der Totgeburten und der Kindersterblichkeit sowie zur gesunden Entwicklung des Kindes;
 - b) zur Verbesserung aller Aspekte der Umwelt‑ und der Arbeitshygiene;
@@ -145,7 +149,9 @@ Die Vertragsstaaten erkennen an,
 
 <sup>(1)</sup> Die Vertragsstaaten erkennen das Recht eines jeden auf Bildung an. Sie stimmen überein, dass die Bildung auf die volle Entfaltung der menschlichen Persönlichkeit und des Bewusstseins ihrer Würde gerichtet sein und die Achtung vor den Menschenrechten und Grundfreiheiten stärken muss. Sie stimmen ferner überein, dass die Bildung es jedermann ermöglichen muss, eine nützliche Rolle in einer freien Gesellschaft zu spielen, dass sie Verständnis, Toleranz und Freundschaft unter allen Völkern und allen rassischen, ethnischen und religiösen Gruppen fördern sowie die Tätigkeit der Vereinten Nationen zur Erhaltung des Friedens unterstützen muss.
 
-<sup>(2)</sup> Die Vertragsstaaten erkennen an, dass im Hinblick auf die volle Verwirklichung dieses Rechts
+<sup>(2)</sup>
+
+Die Vertragsstaaten erkennen an, dass im Hinblick auf die volle Verwirklichung dieses Rechts:
 
 - a) der Grundschulunterricht für jedermann Pflicht und allen unentgeltlich zugänglich sein muss;
 - b) die verschiedenen Formen des höheren Schulwesens einschliesslich des höheren Fach‑ und Berufsschulwesens auf jede geeignete Weise, insbesondere durch allmähliche Einführung der Unentgeltlichkeit, allgemein verfügbar und jedermann zugänglich gemacht werden müssen;
@@ -163,7 +169,9 @@ Jeder Vertragsstaat, der zu dem Zeitpunkt, da er Vertragspartei wird, im Mutterl
 
 #### Art. 15
 
-<sup>(1)</sup> Die Vertragsstaaten erkennen das Recht eines jeden an,
+<sup>(1)</sup>
+
+Die Vertragsstaaten erkennen das Recht eines jeden an:
 
 - a) am kulturellen Leben teilzunehmen;
 - b) an den Errungenschaften des wissenschaftlichen Fortschritts und seiner Anwendung teilzuhaben;
@@ -238,7 +246,7 @@ Keine Bestimmung dieses Paktes ist so auszulegen, dass sie das allen Völkern in
 
 <sup>(5)</sup> Der Generalsekretär der Vereinten Nationen unterrichtet alle Staaten, die diesen Pakt unterzeichnet haben oder ihm beigetreten sind, von der Hinterlegung jeder Ratifikations- oder Beitrittsurkunde.
 
-[^26-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^26-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 27
 
@@ -260,7 +268,7 @@ Die Bestimmungen dieses Paktes gelten ohne Einschränkung oder Ausnahme für all
 
 #### Art. 30
 
-Unabhängig von den Notifikationen nach Artikel 26 Absatz 5 unterrichtet der Generalsekretär der Vereinten Nationen alle in Absatz 1 jenes Artikels bezeichneten Staaten
+Unabhängig von den Notifikationen nach Artikel 26 Absatz 5 unterrichtet der Generalsekretär der Vereinten Nationen alle in Absatz 1 jenes Artikels bezeichneten Staaten:
 
 - a) von den Unterzeichnungen, Ratifikationen und Beitritten nach Artikel 26;
 - b) vom Zeitpunkt des Inkrafttretens dieses Paktes nach Artikel 27 und vom Zeitpunkt des Inkrafttretens von Änderungen nach Artikel 29.
@@ -273,7 +281,7 @@ Unabhängig von den Notifikationen nach Artikel 26 Absatz 5 unterrichtet der Gen
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 17. Februar 2022**[^t-2]**
+Geltungsbereich am 28. November 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -428,9 +436,11 @@ Geltungsbereich am 17. Februar 2022**[^t-2]**
 <tr><td>Somalia</td><td>24. Januar</td><td>1990 B</td><td>24. April</td><td>1990</td></tr>
 <tr><td>Spanien\*\*</td><td>27. April</td><td>1977</td><td>27. Juli</td><td>1977</td></tr>
 <tr><td>Sri Lanka</td><td>11. Juni</td><td>1980 B</td><td>11. September</td><td>1980</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>1. November</td><td>2024 B</td><td>1. Februar</td><td>2025</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>9. November</td><td>1981 B</td><td>9. Februar</td><td>1982</td></tr>
 <tr><td>Südafrika\*</td><td>12. Januar</td><td>2015</td><td>12. April</td><td>2015</td></tr>
 <tr><td>Sudan</td><td>18. März</td><td>1986 B</td><td>18. Juni</td><td>1986</td></tr>
+<tr><td>Südsudan</td><td>5. Februar</td><td>2024 B</td><td>5. Mai</td><td>2024</td></tr>
 <tr><td>Suriname</td><td>28. Dezember</td><td>1976 B</td><td>28. März</td><td>1977</td></tr>
 <tr><td>Syrien\*</td><td>21. April</td><td>1969 B</td><td>3. Januar</td><td>1976</td></tr>
 <tr><td>Tadschikistan</td><td>4. Januar</td><td>1999 B</td><td>4. April</td><td>1999</td></tr>
@@ -466,7 +476,7 @@ Geltungsbereich am 17. Februar 2022**[^t-2]**
 <tr><td>Vietnam\*</td><td>24. September</td><td>1982 B</td><td>24. Dezember</td><td>1982</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>8. Mai</td><td>1981 B</td><td>8. August</td><td>1981</td></tr>
 <tr><td>Zypern\*\*</td><td>2. April</td><td>1969</td><td>3. Januar</td><td>1976</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725), [3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101); [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716); [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536); [2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83); [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81); [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102); [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364); [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184); [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460); [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327); [2022 103](https://fedlex.data.admin.ch/eli/oc/2022/103). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725), [3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101); [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716); [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536); [2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83); [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81); [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102); [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364); [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184); [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460); [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327); [2022 103](https://fedlex.data.admin.ch/eli/oc/2022/103); [2024 712](https://fedlex.data.admin.ch/eli/oc/2024/712). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

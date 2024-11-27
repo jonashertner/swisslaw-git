@@ -3,11 +3,11 @@ sr: "0.103.1"
 title: "Pacte international du 16 décembre 1966 relatif aux droits économiques, sociaux et culturels"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/725_725_725"
 language: fr
-version: 2022-02-17
+version: 2024-11-28
 adopted: 1966-12-16
 in_force: 1992-09-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20220217-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20220217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/725_725_725/20241128/fr/xml/fedlex-data-admin-ch-eli-cc-1993-725_725_725-20241128-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/725_725_725/20241128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à New York le 16 décembre 1966 Approuvé par l’Assemblée fédérale le 13 décembre 1991[^t-1] Instrument d’adhésion déposé par la Suisse le 18 juin 1992 Entré en vigueur pour la Suisse le 18 septembre 1992
 
-(Etat le 17 février 2022)
+(État le 28 novembre 2024)
 
 [^t-1]: [RO 1993 724](https://fedlex.data.admin.ch/eli/oc/1993/724_724_724)
 
@@ -38,7 +38,7 @@ prenant en considération le fait que l’individu a des devoirs envers autrui e
 
 sont convenus des articles suivants:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Première partie
 
@@ -112,7 +112,7 @@ Les États parties au présent Pacte s’engagent à assurer:
 
 <sup>3.</sup> Aucune disposition du présent article ne permet aux États parties à la Convention de 1948 de l’Organisation internationale du Travail concernant la liberté syndicale et la protection du droit syndical[^8-1] de prendre des mesures législatives portant atteinte – ou d’appliquer la loi de façon à porter atteinte – aux garanties prévues dans ladite convention.
 
-[^8-1]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
+[^8-1]: [RS 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
 
 #### Art. 9
 
@@ -251,7 +251,7 @@ Aucune disposition du présent Pacte ne sera interprétée comme portant atteint
 
 <sup>5.</sup> Le Secrétaire général de l’Organisation des Nations Unies informe tous les États qui ont signé le présent Pacte ou qui y ont adhéré du dépôt de chaque instrument de ratification ou d’adhésion.
 
-[^26-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^26-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 27
 
@@ -286,7 +286,7 @@ Indépendamment des notifications prévues au par. 5 de l’art. 26, le Secréta
 
 (Suivent les signatures)
 
-Champ d’application le 17 février 2022**[^t-2]**
+Champ d’application le 28 novembre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -446,6 +446,7 @@ Champ d’application le 17 février 2022**[^t-2]**
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>20 mai</td><td>1976</td><td>20 août</td><td>1976</td></tr>
 <tr><td>Russie</td><td>16 octobre</td><td>1973</td><td>3 janvier</td><td>1976</td></tr>
 <tr><td>Rwanda</td><td>16 avril</td><td>1975 A</td><td>3 janvier</td><td>1976</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td>1<sup>er</sup> novembre</td><td>2024 A</td><td>1<sup>er</sup> février</td><td>2025</td></tr>
 <tr><td>Saint-Marin</td><td>18 octobre</td><td>1985 A</td><td>18 janvier</td><td>1986</td></tr>
 <tr><td>[tab] Saint-Vincent-et-les Grenadines</td><td>9 novembre</td><td>1981 A</td><td>9 février</td><td>1982</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>10 janvier</td><td>2017</td><td>10 avril</td><td>2017</td></tr>
@@ -457,6 +458,7 @@ Champ d’application le 17 février 2022**[^t-2]**
 <tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td>Somalie</td><td>24 janvier</td><td>1990 A</td><td>24 avril</td><td>1990</td></tr>
 <tr><td>Soudan</td><td>18 mars</td><td>1986 A</td><td>18 juin</td><td>1986</td></tr>
+<tr><td>Soudan du Sud</td><td>5 février</td><td>2024 A</td><td>5 mai</td><td>2024</td></tr>
 <tr><td>Sri Lanka</td><td>11 juin</td><td>1980 A</td><td>11 septembre</td><td>1980</td></tr>
 <tr><td>Suède\* \*\*</td><td>6 décembre</td><td>1971</td><td>3 janvier</td><td>1976</td></tr>
 <tr><td>Suisse\*\*</td><td>18 juin</td><td>1992 A</td><td>18 septembre</td><td>1992</td></tr>
@@ -479,7 +481,7 @@ Champ d’application le 17 février 2022**[^t-2]**
 <tr><td>Yémen\*</td><td>9 février</td><td>1987 A</td><td>9 mai</td><td>1987</td></tr>
 <tr><td>Zambie\*</td><td>10 avril</td><td>1984 A</td><td>10 juillet</td><td>1984</td></tr>
 <tr><td>Zimbabwe</td><td>13 mai</td><td>1991 A</td><td>13 août</td><td>1991</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725), [3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101); [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716); [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536); [2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83); [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81); [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102); [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364); [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184); [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460); [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327); [2022 103](https://fedlex.data.admin.ch/eli/oc/2022/103). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+[^t-2]: [RO 1993 725](https://fedlex.data.admin.ch/eli/oc/1993/725_725_725), [3101](https://fedlex.data.admin.ch/eli/oc/1993/3101_3101_3101); [1996 716](https://fedlex.data.admin.ch/eli/oc/1996/716_716_716); [2004 3875](https://fedlex.data.admin.ch/eli/oc/2004/536); [2006 591](https://fedlex.data.admin.ch/eli/oc/2006/83); [2007 413](https://fedlex.data.admin.ch/eli/oc/2007/81); [2009 587](https://fedlex.data.admin.ch/eli/oc/2009/102); [2012 3147](https://fedlex.data.admin.ch/eli/oc/2012/364); [2015 989](https://fedlex.data.admin.ch/eli/oc/2015/184); [2018 2997](https://fedlex.data.admin.ch/eli/oc/2018/460); [2019 1789](https://fedlex.data.admin.ch/eli/oc/2019/327); [2022 103](https://fedlex.data.admin.ch/eli/oc/2022/103); [2024 712](https://fedlex.data.admin.ch/eli/oc/2024/712). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
