@@ -3,25 +3,24 @@ sr: "0.747.305.14"
 title: Fakultatives Unterzeichnungsprotokoll vom 29. April 1958 über die obligatorische Beilegung von Streitigkeiten
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1007_1036_1024"
 language: de
-version: 2010-04-15
+version: 2024-11-28
 adopted: 1958-04-29
 in_force: 1966-06-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1007_1036_1024/20100415/de/xml/fedlex-data-admin-ch-eli-cc-1966-1007_1036_1024-20100415-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1007_1036_1024/20100415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1007_1036_1024/20241128/de/xml/fedlex-data-admin-ch-eli-cc-1966-1007_1036_1024-20241128-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1007_1036_1024/20241128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Fakultatives Unterzeichnungsprotokoll über die obligatorische Beilegung von Streitigkeiten
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Genf am 29. April 1958 Von der Bundesversammlung genehmigt am 14. Dezember 1965[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 18. Mai 1966 In Kraft getreten für die Schweiz am 17. Juni 1966
+Abgeschlossen in Genf am 29. April 1958 Von der Bundesversammlung genehmigt am 14. Dezember 1965[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 18. Mai 1966 In Kraft getreten für die Schweiz am 17. Juni 1966
 
-(Stand am 15. April 2010)
+(Stand am 28. November 2024)
 
-[^t-1]: AS **1966** 1007; BBl **1965** II 1 Übersetzung des französischen Originaltexts.
-[^t-2]: Art. 1 Abs. 1 Bst. e des BB vom 14. Dez. 1965 ([AS 1966 973](https://fedlex.data.admin.ch/eli/oc/1966/973_999_991)).
+[^t-1]: Art. 1 Abs. 1 Bst. e des BB vom 14. Dez. 1965 ([AS 1966 973](https://fedlex.data.admin.ch/eli/oc/1966/973_999_991)).
 
 Die Vertragsstaaten dieses Protokolls und eines oder mehrerer Übereinkommen über das Seerecht, die von der in Genf vom 24. Februar 1958 bis zum 27. April 1958 abgehaltenen Seerechtskonferenz der Vereinten Nationen angenommen wurden,
 
@@ -65,44 +64,45 @@ Das Original dieses Protokolls, dessen englischer, chinesischer, spanischer, fra
 
 *Zu Urkund dessen* haben die von ihren Regierungen hiezu gehörig bevollmächtigten Unterzeichneten dieses Übereinkommens mit ihrer Unterschrift versehen. Geschehen zu Genf, am neunundzwanzigsten April neunzehnhundertachtundfünfzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 15. April 2010**[^t-3]**
+Geltungsbereich am 28. November 2024[^t-2]
 
 <table>
-<tr><th colspan="4">Vertragsstaaten</th><th colspan="3">Ratifikation Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th colspan="4"></th><th colspan="2">Inkrafttreten</th><th></th></tr>
-<tr><td colspan="4">Australien</td><td colspan="3">14. Mai</td><td colspan="4">1963 U</td><td colspan="2">13. Juni</td><td>1963</td></tr>
-<tr><td colspan="4">Belgien</td><td colspan="3">6. Januar</td><td colspan="4">1972 U</td><td colspan="2">5. Februar</td><td>1972</td></tr>
-<tr><td colspan="4">Bosnien und Herzegowina</td><td colspan="3">12. Januar</td><td colspan="4">1994 N</td><td colspan="2">6. März</td><td>1992</td></tr>
-<tr><td colspan="4">China</td><td colspan="3">29. April</td><td colspan="4">1958 U</td><td colspan="2">11. November</td><td>1970</td></tr>
-<tr><td colspan="4">Costa Rica</td><td colspan="3">29. April</td><td colspan="4">1958 U</td><td colspan="2">17. März</td><td>1972</td></tr>
-<tr><td colspan="4">Dänemark</td><td colspan="3">26. September</td><td colspan="4">1968</td><td colspan="2">26. September</td><td>1968</td></tr>
-<tr><td colspan="4">Deutschland\*</td><td colspan="3">26. Juli</td><td colspan="4">1973</td><td colspan="2">25. August</td><td>1973</td></tr>
-<tr><td colspan="4">Dominikanische Republik</td><td colspan="3">29. April</td><td colspan="4">1958 U</td><td colspan="2">10. September</td><td>1964</td></tr>
-<tr><td colspan="4">Finnland</td><td colspan="3">16. Februar</td><td colspan="4">1965</td><td colspan="2">18. März</td><td>1965</td></tr>
-<tr><td colspan="4">Frankreich</td><td colspan="3">30. Oktober</td><td colspan="4">1958 U</td><td colspan="2">14. Juli</td><td>1965</td></tr>
-<tr><td colspan="4">Haiti</td><td colspan="3">29. März</td><td colspan="4">1960</td><td colspan="2">30. September</td><td>1962</td></tr>
-<tr><td colspan="4">Kolumbien\*</td><td colspan="3">29. April</td><td colspan="4">1958 U</td><td colspan="2">30. September</td><td>1962</td></tr>
-<tr><td colspan="4">Madagaskar</td><td colspan="3">10. August</td><td colspan="4">1962 U</td><td colspan="2">30. September</td><td>1962</td></tr>
-<tr><td colspan="4">Malawi</td><td colspan="3">17. Dezember</td><td colspan="4">1965 U</td><td colspan="2">17. Dezember</td><td>1965</td></tr>
-<tr><td colspan="4">Malaysia</td><td colspan="3">1. Mai</td><td colspan="4">1961 U</td><td colspan="2">30. September</td><td>1962</td></tr>
-<tr><td colspan="4">Malta</td><td colspan="3">19. Mai</td><td colspan="4">1966 N</td><td colspan="2">21. September</td><td>1964</td></tr>
-<tr><td colspan="4">Mauritius</td><td colspan="3">5. Oktober</td><td colspan="4">1970 N</td><td colspan="2">12. März</td><td>1968</td></tr>
-<tr><td colspan="4">Montenegro</td><td colspan="3">23. Oktober</td><td colspan="3">2006 N</td><td colspan="3">3. Juni</td><td>2006</td></tr>
-<tr><td colspan="4">Nepal</td><td colspan="3">29. April</td><td colspan="4">1958 U</td><td colspan="2">27. Januar</td><td>1963</td></tr>
-<tr><td colspan="4">Neuseeland</td><td colspan="3">29. Oktober</td><td colspan="4">1958 U</td><td colspan="2">17. Februar</td><td>1965</td></tr>
-<tr><td colspan="4">Niederlande\*</td><td colspan="3">18. Februar</td><td colspan="4">1966</td><td colspan="2">20. März</td><td>1966</td></tr>
-<tr><td colspan="4">[tab] Niederländische Antillen</td><td colspan="3">18. Februar</td><td colspan="4">1966</td><td colspan="2">20. März</td><td>1966</td></tr>
-<tr><td colspan="4">Portugal</td><td colspan="3">8. Januar</td><td colspan="4">1963</td><td colspan="2">7. Februar</td><td>1963</td></tr>
-<tr><td colspan="4">Salomoninseln</td><td colspan="3">3. September</td><td colspan="4">1981 N</td><td colspan="2">7. Juli</td><td>1978</td></tr>
-<tr><td colspan="4">Schweden</td><td colspan="3">28. Juni</td><td colspan="4">1966</td><td colspan="2">1. Juli</td><td>1966</td></tr>
-<tr><td colspan="4">Schweiz</td><td colspan="3">18. Mai</td><td colspan="4">1966</td><td colspan="2">17. Juni</td><td>1966</td></tr>
-<tr><td colspan="4">Serbien</td><td colspan="3">12. April</td><td colspan="4">2001 N</td><td colspan="2">27. April</td><td>1992</td></tr>
-<tr><td colspan="4">Sierra Leone</td><td colspan="3">14. Februar</td><td colspan="4">1963 U</td><td colspan="2">14. Februar</td><td>1963</td></tr>
-<tr><td colspan="4">Uganda</td><td colspan="3">15. September</td><td colspan="4">1964 U</td><td colspan="2">14. Oktober</td><td>1964</td></tr>
-<tr><td colspan="4">Ungarn</td><td colspan="3">8. Dezember</td><td colspan="4">1989 U</td><td colspan="2">8. Dezember</td><td>1989</td></tr>
-<tr><td colspan="4">Vereinigtes Königreich\* <sup>a</sup></td><td colspan="3">9. September</td><td colspan="4">1958 U</td><td colspan="2">30. September</td><td>1962</td></tr>
-<tr><td>\*</td><td colspan="13">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="13">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://untreaty.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="13">Bis zum 30. Juni 1997 war das Prot. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Das Prot. ist seither nicht in der SAR Hongkong anwendbar. Die Volksrepublik China ist nicht Vertragsstaat dieses Prot.</td></tr>
+<tr><th colspan="2">Vertragsstaaten</th><th colspan="3">Ratifikation Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th colspan="3"></th><th colspan="2">Inkrafttreten</th><th></th></tr>
+<tr><td colspan="2">Australien</td><td colspan="3">14. Mai</td><td colspan="3">1963 U</td><td colspan="2">13. Juni</td><td>1963</td></tr>
+<tr><td colspan="2">Belgien</td><td colspan="3">6. Januar</td><td colspan="3">1972 U</td><td colspan="2">5. Februar</td><td>1972</td></tr>
+<tr><td colspan="2">Bosnien und Herzegowina</td><td colspan="3">12. Januar</td><td colspan="3">1994 N</td><td colspan="2">6. März</td><td>1992</td></tr>
+<tr><td colspan="2">China</td><td colspan="3">29. April</td><td colspan="3">1958 U</td><td colspan="2">11. November</td><td>1970</td></tr>
+<tr><td colspan="2">Costa Rica</td><td colspan="3">29. April</td><td colspan="3">1958 U</td><td colspan="2">17. März</td><td>1972</td></tr>
+<tr><td colspan="2">Dänemark</td><td colspan="3">26. September</td><td colspan="3">1968</td><td colspan="2">26. September</td><td>1968</td></tr>
+<tr><td colspan="2">Deutschland\*</td><td colspan="3">26. Juli</td><td colspan="3">1973</td><td colspan="2">25. August</td><td>1973</td></tr>
+<tr><td colspan="2">Dominikanische Republik</td><td colspan="3">29. April</td><td colspan="3">1958 U</td><td colspan="2">10. September</td><td>1964</td></tr>
+<tr><td colspan="2">Finnland</td><td colspan="3">16. Februar</td><td colspan="3">1965</td><td colspan="2">18. März</td><td>1965</td></tr>
+<tr><td colspan="2">Frankreich</td><td colspan="3">30. Oktober</td><td colspan="3">1958 U</td><td colspan="2">14. Juli</td><td>1965</td></tr>
+<tr><td colspan="2">Haiti</td><td colspan="3">29. März</td><td colspan="3">1960</td><td colspan="2">30. September</td><td>1962</td></tr>
+<tr><td colspan="2">Madagaskar</td><td colspan="3">10. August</td><td colspan="3">1962 U</td><td colspan="2">30. September</td><td>1962</td></tr>
+<tr><td colspan="2">Malawi</td><td colspan="3">17. Dezember</td><td colspan="3">1965 U</td><td colspan="2">17. Dezember</td><td>1965</td></tr>
+<tr><td colspan="2">Malaysia</td><td colspan="3">1. Mai</td><td colspan="3">1961 U</td><td colspan="2">30. September</td><td>1962</td></tr>
+<tr><td colspan="2">Malta</td><td colspan="3">19. Mai</td><td colspan="3">1966</td><td colspan="2">21. September</td><td>1964</td></tr>
+<tr><td colspan="2">Mauritius</td><td colspan="3">5. Oktober</td><td colspan="3">1970 N</td><td colspan="2">12. März</td><td>1968</td></tr>
+<tr><td colspan="2">Montenegro</td><td colspan="3">23. Oktober</td><td colspan="2">2006 N</td><td colspan="3">3. Juni</td><td>2006</td></tr>
+<tr><td colspan="2">Nepal</td><td colspan="3">29. April</td><td colspan="3">1958 U</td><td colspan="2">27. Januar</td><td>1963</td></tr>
+<tr><td colspan="2">Neuseeland</td><td colspan="3">29. Oktober</td><td colspan="3">1958 U</td><td colspan="2">17. Februar</td><td>1965</td></tr>
+<tr><td colspan="3">Niederlande</td><td colspan="2">18. Februar</td><td colspan="3">1966</td><td colspan="2">20. März</td><td>1966</td></tr>
+<tr><td colspan="3">Curaçao</td><td colspan="2">18. Februar</td><td colspan="3">1966</td><td colspan="2">20. März</td><td>1966</td></tr>
+<tr><td colspan="3">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td colspan="2">18. Februar</td><td colspan="3">1966</td><td colspan="2">20. März</td><td>1966</td></tr>
+<tr><td colspan="3">Sint Maarten</td><td colspan="2">18. Februar</td><td colspan="3">1966</td><td colspan="2">20. März</td><td>1966</td></tr>
+<tr><td colspan="2">Portugal</td><td colspan="3">8. Januar</td><td colspan="3">1963</td><td colspan="2">7. Februar</td><td>1963</td></tr>
+<tr><td colspan="2">Salomoninseln</td><td colspan="3">3. September</td><td colspan="3">1981 N</td><td colspan="2">7. Juli</td><td>1978</td></tr>
+<tr><td colspan="2">Schweden</td><td colspan="3">28. Juni</td><td colspan="3">1966</td><td colspan="2">1. Juli</td><td>1966</td></tr>
+<tr><td colspan="2">Schweiz</td><td colspan="3">18. Mai</td><td colspan="3">1966</td><td colspan="2">17. Juni</td><td>1966</td></tr>
+<tr><td colspan="2">Serbien</td><td colspan="3">12. April</td><td colspan="3">2001 N</td><td colspan="2">27. April</td><td>1992</td></tr>
+<tr><td colspan="2">Sierra Leone</td><td colspan="3">14. Februar</td><td colspan="3">1963 U</td><td colspan="2">14. Februar</td><td>1963</td></tr>
+<tr><td colspan="2">Uganda</td><td colspan="3">15. September</td><td colspan="3">1964 U</td><td colspan="2">14. Oktober</td><td>1964</td></tr>
+<tr><td colspan="2">Ungarn</td><td colspan="3">8. Dezember</td><td colspan="3">1989 U</td><td colspan="2">8. Dezember</td><td>1989</td></tr>
+<tr><td colspan="2">Vereinigtes Königreich\* <sup>a</sup></td><td colspan="3">9. September</td><td colspan="3">1958 U</td><td colspan="2">30. September</td><td>1962</td></tr>
+<tr><td colspan="11">\* Vorbehalte und Erklärungen.</td></tr>
+<tr><td colspan="11">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [https://treaties.un.org](https://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="11"><sup>a</sup> Bis zum 30. Juni 1997 war das Prot. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Das Prot. ist seither nicht in der SAR Hongkong anwendbar. Die Volksrepublik China ist nicht Vertragsstaat dieses Prot.</td></tr>
 </table>
 
-[^t-3]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1972 2809](https://fedlex.data.admin.ch/eli/oc/1972/2809_2864_2643); [1983 158](https://fedlex.data.admin.ch/eli/oc/1983/158_158_158); [1991 2272](https://fedlex.data.admin.ch/eli/oc/1991/2272_2272_2272); [2006 3341](https://fedlex.data.admin.ch/eli/oc/2006/525); [2010 1711](https://fedlex.data.admin.ch/eli/oc/2010/255); [2024 739](https://fedlex.data.admin.ch/eli/oc/2024/739). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
