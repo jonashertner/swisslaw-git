@@ -3,26 +3,27 @@ sr: "916.401.348.2"
 title: Verordnung des BLV vom 2. September 2024 über Massnahmen zur Verhinderung der Weiterverbreitung der Blauzungenkrankheit
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/473"
 language: de
-version: 2024-09-03
+version: 2024-11-30
 adopted: 2024-09-02
 in_force: 2024-09-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/473/20240903/de/xml/fedlex-data-admin-ch-eli-cc-2024-473-20240903-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/473/20240903/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/473/20241130/de/xml/fedlex-data-admin-ch-eli-cc-2024-473-20241130-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/473/20241130/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Blauzungenkrankheit
 
-vom 2. September 2024 (Stand am 3. September 2024)
+vom 2. September 2024 (Stand am 30. November 2024)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
-gestützt auf die Artikel 50 Absatz 3 und 239*e* Absätze 2 und 3 der Tierseuchenverordnung vom 27. Juni 1995[^ingress-1],
+gestützt auf die Artikel 50 Absatz 3, 239*e* Absätze 2 und 3 und 239*f* der Tierseuchenverordnung vom 27. Juni 1995[^ingress-1],[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^ingress-2]: Fassung gemäss Ziff. I der V des BLV vom 28. Nov. 2024, in Kraft seit 30. Nov. 2024 ([AS 2024 710](https://fedlex.data.admin.ch/eli/oc/2024/710)).
 
 #### Art. 1
 
@@ -35,6 +36,14 @@ Diese Verordnung soll eine Weiterverbreitung der Blauzungenkrankheit von Serotyp
 **Umfang der Blauzungen-Zone**
 
 Die Blauzungen-Zone umfasst die ganze Schweiz.
+
+#### Art. 2a
+
+**Vektorfreie Periode**[^2a-1]
+
+Als vektorfreie Periode gilt die Zeit vom 1. Dezember bis zum 31. März.
+
+[^2a-1]: Eingefügt durch Ziff. I der V des BLV vom 28. Nov. 2024, in Kraft seit 30. Nov. 2024 ([AS 2024 710](https://fedlex.data.admin.ch/eli/oc/2024/710)).
 
 #### Art. 3
 

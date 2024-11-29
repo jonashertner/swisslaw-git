@@ -3,26 +3,27 @@ sr: "916.401.348.2"
 title: Ordinanza dell’USAV del 2 settembre 2024 che istituisce provvedimenti per evitare l’ulteriore diffusione della febbre catarrale ovina
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/473"
 language: it
-version: 2024-09-03
+version: 2024-11-30
 adopted: 2024-09-02
 in_force: 2024-09-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/473/20240903/it/xml/fedlex-data-admin-ch-eli-cc-2024-473-20240903-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/473/20240903/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/473/20241130/it/xml/fedlex-data-admin-ch-eli-cc-2024-473-20241130-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/473/20241130/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti per evitare l’ulteriore diffusione della febbre catarrale ovina
 
-del 2 settembre 2024 (Stato 3 settembre 2024)
+del 2 settembre 2024 (Stato 30 novembre 2024)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
-visti gli articoli 50 capoverso 3 e 239*e* capoversi 2 e 3 dell’ordinanza del 27 giugno 1995[^ingress-1] sulle epizoozie,
+visti gli articoli 50 capoverso 3, 239*e* capoversi 2 e 3 nonché 239*f* dell’ordinanza del 27 giugno 1995[^ingress-1] sulle epizoozie,[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O dell’USAV del 28 nov. 2024, in vigore dal 30 nov. 2024 ([RU 2024 710](https://fedlex.data.admin.ch/eli/oc/2024/710)).
 
 #### Art. 1
 
@@ -35,6 +36,14 @@ Lo scopo della presente ordinanza è di evitare l’ulteriore diffusione della f
 **Zona delimitata a causa della febbre catarrale ovina**
 
 La zona delimitata a causa della febbre catarrale ovina comprende tutta la Svizzera.
+
+#### Art. 2a
+
+**Periodo privo di vettori**[^2a-1]
+
+È considerato periodo privo di vettori quello che va dal 1° dicembre al 31 marzo.
+
+[^2a-1]: Introdotto dalla cifra I dell’O dell’USAV del 28 nov. 2024, in vigore dal 30 nov. 2024 ([RU 2024 710](https://fedlex.data.admin.ch/eli/oc/2024/710)).
 
 #### Art. 3
 

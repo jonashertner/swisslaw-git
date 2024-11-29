@@ -3,26 +3,27 @@ sr: "916.401.348.2"
 title: Ordonnance de l’OSAV du 2 septembre 2024 instituant des mesures destinées à prévenir la propagation de la fièvre catarrhale du mouton
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/473"
 language: fr
-version: 2024-09-03
+version: 2024-11-30
 adopted: 2024-09-02
 in_force: 2024-09-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/473/20240903/fr/xml/fedlex-data-admin-ch-eli-cc-2024-473-20240903-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/473/20240903/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/473/20241130/fr/xml/fedlex-data-admin-ch-eli-cc-2024-473-20241130-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/473/20241130/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de la fièvre catarrhale du mouton
 
-du 2 septembre 2024 (État le 3 septembre 2024)
+du 2 septembre 2024 (État le 30 novembre 2024)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
-vu les art. 50, al. 3, et 239*e*, al. 2 et 3, de l’ordonnance du 27 juin 1995 sur les épizooties[^ingress-1],
+vu les art. 50, al. 3, 239*e*, al. 2 et 3, et 239*f* de l’ordonnance du 27 juin 1995 sur les épizooties[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 28 nov. 2024, en vigueur depuis le 30 nov. 2024 ([RO 2024 710](https://fedlex.data.admin.ch/eli/oc/2024/710)).
 
 #### Art. 1
 
@@ -35,6 +36,14 @@ La présente ordonnance a pour but de prévenir une propagation de la fièvre ca
 **Étendue de la zone délimitée**
 
 La zone délimitée pour cause de fièvre catarrhale du mouton comprend toute la Suisse.
+
+#### Art. 2a
+
+**Période d’inactivité des vecteurs**[^2a-1]
+
+La période d’inactivité des vecteurs s’étend du 1<sup>er</sup> décembre au 31 mars.
+
+[^2a-1]: Introduit par le ch. I de l’O de l’OSAV du 28 nov. 2024, en vigueur depuis le 30 nov. 2024 ([RO 2024 710](https://fedlex.data.admin.ch/eli/oc/2024/710)).
 
 #### Art. 3
 
