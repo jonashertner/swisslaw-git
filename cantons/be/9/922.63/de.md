@@ -4,13 +4,12 @@ number: "922.63"
 title: Verordnung über den Wildtierschutz
 short: WTSchV
 language: de
-version: 2024-08-01
-valid_until: 2024-11-30
-version_adopted: 2023-12-13
+version: 2024-12-01
+version_adopted: 2024-10-23
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.63"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3012/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3075/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3012/pdf_file"
 
 (WTSchV)
 
-vom 26.02.2003 (Stand 01.08.2024)
+vom 26.02.2003 (Stand 01.12.2024)
 
 Der Regierungsrat des Kantons Bern,
 
