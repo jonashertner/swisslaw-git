@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.825"
 title: Studienordnung für den Masterstudiengang Banking and Finance an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 2011-09-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_825-2011_09_29-2012_02_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_825-2011_09_29-2012_02_01-127.html"
 text: pdf
 ---
 
@@ -68,7 +67,7 @@ An der ZHAW oder andernorts erworbene ECTS-Credits sind ab dem Zeitpunkt ihrer V
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 25 - 127
 
 - a. Bachelorabschluss in Business Administration von 180 ECTS-Credits,
 
@@ -108,28 +107,38 @@ An der ZHAW oder andernorts erworbene ECTS-Credits sind ab dem Zeitpunkt ihrer V
 
 ### D. Prüfungen und andere Leistungsnachweise
 
-§ 11.[^hDPrüfungenundand-1]
+**Bestehen von Modulen**
+
+§ 11.[^hDPrüfungenundand-1],[^hDPrüfungenundand-2] <sup>1</sup> Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,0 beträgt oder b. das Modul mit «bestanden» bewertet wird.
+
+<sup>2</sup> Bei benoteten Modulen müssen alle nicht benoteten Leistungsnachweise bestanden sein. Die Modulbeschreibung kann abweichende oder zusätzliche Bestehensvoraussetzungen festhalten.
+
+[^hDPrüfungenundand-1]: Aufgehoben durch B vom 24. Oktober 2017 (OS 73, 54; ABl 2017-11-17). In Kraft seit 1. Februar 2018.
+[^hDPrüfungenundand-2]: Eingefügt durch B vom 5. September 2024 (OS 79, 411; ABl 2024-09-27). In Kraft seit 1. Dezember 2024. 1. 1. 25 - 127 5
+
+#### § 12
 
 **Expertinnen und Experten**
 
-§ 12. <sup>1</sup> Expertinnen und Experten können zur Beurteilung von Leistungsnachweisen, insbesondere von Masterarbeiten und Praxisprojekten, herangezogen werden.
+<sup>1</sup> Expertinnen und Experten können zur Beurteilung von Leistungsnachweisen, insbesondere von Masterarbeiten und Praxisprojekten, herangezogen werden.
 
 <sup>2</sup> Expertinnen und Experten haben eine beratende Funktion.
 
-§ 13.[^hDPrüfungenundand-2] § 14.[^hDPrüfungenundand-3] Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des Moduls wiederholen. Die Studiengangleitung legt Termine und Modalitäten fest.
-
-[^hDPrüfungenundand-1]: Aufgehoben durch B vom 24. Oktober 2017 (OS 73, 54; ABl 2017-11-17). In Kraft seit 1. Februar 2018.
-[^hDPrüfungenundand-2]: Aufgehoben durch B vom 23. August 2018 (OS 74, 36; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-[^hDPrüfungenundand-3]: Fassung gemäss B vom 22. August 2019 (OS 75, 42; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^hDPrüfungenundand-4]: Fassung gemäss B vom 23. August 2018 (OS 74, 36; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-
-#### § 15
+§ 13.[^12-1]
 
 **Wiederholung von Modulen**
 
+§ 14.[^12-2] Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des Moduls wiederholen. Die Studiengangleitung legt Termine und Modalitäten fest.
+
+[^12-1]: Aufgehoben durch B vom 23. August 2018 (OS 74, 36; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+[^12-2]: Fassung gemäss B vom 22. August 2019 (OS 75, 42; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^12-3]: Fassung gemäss B vom 23. August 2018 (OS 74, 36; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+
+#### § 15
+
 **Nachbesserung**
 
-<sup>1</sup> In der Modulbeschreibung kann vorgesehen werden, dass bestimmte nicht bestandene Leistungsnachweise nachgebessert werden können. Eine Nachbesserung kann nur erfolgen, wenn der nicht bestandene Leistungsnachweis mindestens mit der Note 3,5 bewertet wurde.[^hDPrüfungenundand-4]
+<sup>1</sup> In der Modulbeschreibung kann vorgesehen werden, dass bestimmte nicht bestandene Leistungsnachweise nachgebessert werden können. Eine Nachbesserung kann nur erfolgen, wenn der nicht bestandene Leistungsnachweis mindestens mit der Note 3,5 bewertet wurde.[^12-3]
 
 <sup>2</sup> Eine erfolgreiche Nachbesserung wird mit der Note 4,0 bewertet.
 
@@ -159,7 +168,11 @@ An der ZHAW oder andernorts erworbene ECTS-Credits sind ab dem Zeitpunkt ihrer V
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 518; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
+**3**
+
+- 1\. 1. 25 - 127
+
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 518; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 [^hEStudienabschluss-2]: Fassung gemäss B vom 7. April 2016 (OS 71, 237; ABl 2016-04-29). In Kraft seit 1. August 2016.
 [^hEStudienabschluss-3]: Fassung gemäss B vom 23. August 2018 (OS 74, 36; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 [^hEStudienabschluss-4]: Fassung gemäss B vom 22. August 2019 (OS 75, 42; ABl 2019-11-01). In Kraft seit 1. April 2020.
@@ -172,10 +185,6 @@ An der ZHAW oder andernorts erworbene ECTS-Credits sind ab dem Zeitpunkt ihrer V
 **Aufhebung bisherigen Rechts**
 
 Diese Studienordnung ersetzt die Studienordnung für den Masterstudiengang Banking and Finance an der Zürcher Hochschule für Angewandte Wissenschaften vom 18. September 2008.
-
-**3**
-
-- 1\. 1. 23 - 119
 
 ### G. Übergangsbestimmung
 
