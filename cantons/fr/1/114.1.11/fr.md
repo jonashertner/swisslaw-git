@@ -4,13 +4,12 @@ number: "114.1.11"
 title: Règlement sur le droit de cité fribourgeois
 short: RDCF
 language: fr
-version: 2022-12-01
-valid_until: 2024-11-30
-version_adopted: 2022-11-08
+version: 2024-12-01
+version_adopted: 2024-11-05
 adopted: 2018-03-19
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7623/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8152/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Droit de cité fribourgeois – R
 
 (RDCF)
 
-du 19.03.2018 (version entrée en vigueur le 01.12.2022)
+du 19.03.2018 (version entrée en vigueur le 01.12.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -43,15 +42,15 @@ Arrête:
 
 #### Art. 2
 
-**Dépôt de la demande – Personnes de nationalité étrangère (art. 4 à 9 OLN; art. 12, 13 et 15 al. 1 LDCF)**
+**Dépôt de la demande – Personnes de nationalité étrangère (art. 4 à 9 OLN[^2-1]; art. 12, 13 et 15 al. 1 LDCF[^2-2])**
 
-<sup>1</sup> Chaque personne requérant la naturalisation suisse introduit sa demande, individuelle ou conjointe, auprès du Service des affaires institutionnelles, des naturalisations et de l'état civil (ci-après: le Service) au moyen de la formule de demande d'autorisation fédérale de naturalisation, complétée des documents suivants:
+<sup>1</sup> Chaque personne requérant la naturalisation suisse introduit sa demande, individuelle ou conjointe, auprès du Service de l'état civil et des naturalisations (ci-après: le Service) au moyen de la formule de demande d'autorisation fédérale de naturalisation, complétée des documents suivants:
 
 - a) la communication relative à son enregistrement dans le registre suisse de l'état civil (Infostar);
 - b) une lettre exposant sa motivation à acquérir la nationalité suisse;
 - c) une photographie récente au format passeport;
-- d) si la preuve de ses compétences linguistiques n'est pas réputée fournie conformément à l'article 6 al. 2 OLN:
-  - 1\. une attestation officielle relative à ses compétences linguistiques (p. ex: examens de langue répondant aux critères internationaux de l'«Association of Language Testers in Europe ALTE» tels que FIDE) au sens de l'article 6 al. 1 OLN;
+- d) si la preuve de ses compétences linguistiques n'est pas réputée fournie conformément à l'article 6 al. 2 OLN[^2-3]:
+  - 1\. une attestation officielle relative à ses compétences linguistiques (p. ex: examens de langue répondant aux critères internationaux de l'«Association of Language Testers in Europe ALTE» tels que FIDE) au sens de l'article 6 al. 1 OLN[^2-4];
   - 2\. le cas échéant, une attestation d'analphabétisme ou d'illettrisme au sens de l'article 6 du présent règlement;
 - e) une attestation de domicile délivrée par la commune, indiquant la date de domiciliation dans la commune;
 - f) une attestation de ses séjours en Suisse délivrée par les autorités migratoires compétentes;
@@ -64,10 +63,15 @@ Arrête:
 
 <sup>2</sup> Si une personne requérante, mariée ou en partenariat enregistré, introduit une demande individuelle, elle doit produire en sus:
 
-- a) un extrait original au sens de l'alinéa 1 let. g relatif à la situation de son conjoint ou sa conjointe ou de son ou sa partenaire enregistré–e;
-- b) une déclaration signée de son conjoint ou sa conjointe ou de son ou sa partenaire enregistré–e, autorisant le Service à requérir des renseignements à son sujet.
+- a) un extrait original au sens de l'alinéa 1 let. g relatif à la situation de son conjoint ou sa conjointe ou de son ou sa partenaire enregistré‑e;
+- b) une déclaration signée de son conjoint ou sa conjointe ou de son ou sa partenaire enregistré‑e, autorisant le Service à requérir des renseignements à son sujet.
 
 <sup>3</sup> La personne mineure est dispensée de produire les documents prévus à l'alinéa 1 let. g et h. Ces documents sont toutefois requis si elle devient majeure en cours de procédure.
+
+[^2-1]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+[^2-2]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+[^2-3]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+[^2-4]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
 
 #### Art. 3
 
@@ -94,7 +98,7 @@ Arrête:
 
 #### Art. 5
 
-**Exceptions aux conditions de naturalisation en raison de circonstances personnelles (art. 12 al. 2 LN; art. 9 OLN; art. 8 al. 4 LDCF) – En général**
+**Exceptions aux conditions de naturalisation en raison de circonstances personnelles (art. 12 al. 2 LN[^5-1]; art. 9 OLN[^5-2]; art. 8 al. 4 LDCF[^5-3]) – En général**
 
 <sup>1</sup> La personne requérante peut invoquer des circonstances personnelles et justifier une prise en compte particulière de sa situation en produisant notamment:
 
@@ -105,35 +109,51 @@ Arrête:
   - 2\. ou lorsqu'elle assume de grandes charges d'assistance familiale
   - 3\. ou lorsqu'elle dépend de l'aide sociale.
 
+[^5-1]: RS [141.0](https://db.clex.ch/link/Bund/141.0/fr)
+[^5-2]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+[^5-3]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 6
 
-**Exceptions aux conditions de naturalisation en raison de circonstances personnelles (art. 12 al. 2 LN; art. 9 OLN; art. 8 al. 4 LDCF) – Analphabétisme et illettrisme**
+**Exceptions aux conditions de naturalisation en raison de circonstances personnelles (art. 12 al. 2 LN[^6-1]; art. 9 OLN[^6-2]; art. 8 al. 4 LDCF[^6-3]) – Analphabétisme et illettrisme**
 
 <sup>1</sup> Dans des cas d'analphabétisme ou d'illettrisme, une attestation peut être délivrée par l'association «Lire et Ecrire», ou toute autre institution spécialisée disposant des compétences requises en la matière et dont le but statutaire principal consiste, en substance, à contribuer à donner une réponse à ces questions spécifiques.
 
 <sup>2</sup> Une telle attestation ne peut être délivrée que moyennant le suivi régulier d'un cours de langue d'une durée minimale de trois mois et à la condition que, au terme de ce cours, l'impossibilité pour la personne concernée d'acquérir les connaissances minimales requises par le droit fédéral puisse être constatée.
 
+[^6-1]: RS [141.0](https://db.clex.ch/link/Bund/141.0/fr)
+[^6-2]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+[^6-3]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 7
 
-**Personnes en charge des enquêtes (art. 34 LN; art. 15 LDCF)**
+**Personnes en charge des enquêtes (art. 34 LN[^7-1]; art. 15 LDCF[^7-2])**
 
 <sup>1</sup> Les collaborateurs et collaboratrices en charge des enquêtes prêtent serment ou font la promesse solennelle devant le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice.
 
 <sup>2</sup> Le Service veille à ce que les personnes en charge des enquêtes disposent des compétences nécessaires, en particulier pour procéder aux entretiens avec des enfants et des adultes.
 
+[^7-1]: RS [141.0](https://db.clex.ch/link/Bund/141.0/fr)
+[^7-2]: RS [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 8
 
-**Rapport d'enquête (art. 34 LN; art. 15 LDCF) – En général**
+**Rapport d'enquête (art. 34 LN[^8-1]; art. 15 LDCF[^8-2]) – En général**
 
 <sup>1</sup> Le rapport d'enquête établi par le Service porte sur les conditions formelles et matérielles ainsi que sur les critères d'intégration prévus par les législations fédérale et cantonale.
 
-<sup>2</sup> Le recours à l'audition de témoins ne peut se faire que dans les limites fixées à l'article 46 al. 2 du code du 23 mai 1991 de procédure et de juridiction administrative.
+<sup>2</sup> Le recours à l'audition de témoins ne peut se faire que dans les limites fixées à l'article 46 al. 2 du code du 23 mai 1991 de procédure et de juridiction administrative[^8-3].
 
-<sup>3</sup> Si la personne requérante se marie ou conclut un partenariat en cours de procédure, le rapport d'enquête doit être complété au sens de l'article 8 al. 2 let. f LDCF.
+<sup>3</sup> Si la personne requérante se marie ou conclut un partenariat en cours de procédure, le rapport d'enquête doit être complété au sens de l'article 8 al. 2 let. f LDCF[^8-4].
+
+[^8-1]: RS [141.0](https://db.clex.ch/link/Bund/141.0/fr)
+[^8-2]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+[^8-3]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
+[^8-4]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
 
 #### Art. 8a
 
-**Rapport d'enquête (art. 34 LN; art. 15 LDCF) – Entretien individuel**
+**Rapport d'enquête (art. 34 LN[^8a-1]; art. 15 LDCF[^8a-2]) – Entretien individuel**
 
 <sup>1</sup> Le rapport d'enquête est établi sur la base d'un entretien individuel avec les personnes requérant la naturalisation.
 
@@ -145,17 +165,25 @@ Arrête:
 
 <sup>3</sup> Si l'entretien est filmé et enregistré sur un support numérique, l'enregistrement est détruit dans l'année suivant la clôture de la procédure.
 
+[^8a-1]: RS [141.0](https://db.clex.ch/link/Bund/141.0/fr)
+[^8a-2]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 9
 
-**Rapport d'enquête (art. 34 LN; art. 15 LDCF) – Entretien individuel avec les enfants de plus de 12 ans (art. 30 LN; art. 17 al. 4 et 19 al. 4 OLN)**
+**Rapport d'enquête (art. 34 LN[^9-1]; art. 15 LDCF[^9-2]) – Entretien individuel avec les enfants de plus de 12 ans (art. 30 LN[^9-3]; art. 17 al. 4 et 19 al. 4 OLN[^9-4])**
 
 <sup>1</sup> Le Service examine si les conditions et critères d'intégration d'un ou d'une enfant de plus de 12 ans sont remplis, en réalisant un entretien en principe individuel. Les modalités de l'entretien sont adaptées à l'âge et au degré de maturité de l'enfant.
 
 <sup>2</sup> L'entretien avec l'enfant peut-être filmé et enregistré sur un support numérique. L'enregistrement est détruit dans l'année suivant la clôture de la procédure.
 
+[^9-1]: RS [141.0](https://db.clex.ch/link/Bund/141.0/fr)
+[^9-2]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+[^9-3]: RS [141.0](https://db.clex.ch/link/Bund/141.0/fr)
+[^9-4]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+
 #### Art. 10
 
-**Décision d'irrecevabilité ou de non-entrée en matière (art. 16 al. 1 et 2 LDCF)**
+**Décision d'irrecevabilité ou de non-entrée en matière (art. 16 al. 1 et 2 LDCF[^10-1])**
 
 <sup>1</sup> Le Service rend une décision d'irrecevabilité lorsque, le jour du dépôt de la demande:
 
@@ -164,13 +192,19 @@ Arrête:
 
 <sup>2</sup> La Direction des institutions, de l'agriculture et des forêts (ci-après: la Direction) rend une décision de non-entrée en matière lorsqu'il s'avère, au plus tard avant la transmission du dossier à l'autorité communale:
 
-- a) que la personne requérante est sous le coup d'une condamnation pénale au sens de l'article 4 al. 2 et 4 OLN;
-- b) que la personne requérante ne respecte manifestement pas la sécurité et l'ordre public au sens de l'article 4 al. 1 OLN;
-- c) que la personne requérante, dont la preuve des compétences linguistiques n'est pas réputée fournie conformément à l'article 6 al. 2 OLN, ne produit ni une attestation officielle relative à ses compétences linguistiques (p. ex: examens de langue répondant aux critères internationaux de l'«Association of Language Testers in Europe ALTE» tels que FIDE) au sens de l'article 6 al. 1 OLN, ni, le cas échéant, une attestation d'analphabétisme ou d'illettrisme au sens de l'article 6 du présent règlement.
+- a) que la personne requérante est sous le coup d'une condamnation pénale au sens de l'article 4 al. 2 et 4 OLN[^10-2];
+- b) que la personne requérante ne respecte manifestement pas la sécurité et l'ordre public au sens de l'article 4 al. 1 OLN[^10-3];
+- c) que la personne requérante, dont la preuve des compétences linguistiques n'est pas réputée fournie conformément à l'article 6 al. 2 OLN[^10-4], ne produit ni une attestation officielle relative à ses compétences linguistiques (p. ex: examens de langue répondant aux critères internationaux de l'«Association of Language Testers in Europe ALTE» tels que FIDE) au sens de l'article 6 al. 1 OLN[^10-5], ni, le cas échéant, une attestation d'analphabétisme ou d'illettrisme au sens de l'article 6 du présent règlement.
+
+[^10-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+[^10-2]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+[^10-3]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+[^10-4]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+[^10-5]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
 
 #### Art. 11
 
-**Convention de réciprocité sur les conditions cantonales requises pour la naturalisation des jeunes étrangers et étrangères (art. 10 al. 1 LDCF)**
+**Convention de réciprocité sur les conditions cantonales requises pour la naturalisation des jeunes étrangers et étrangères (art. 10 al. 1 LDCF[^11-1])**
 
 <sup>1</sup> En application de la convention du 16 décembre 1994 de réciprocité sur les conditions cantonales requises pour la naturalisation des jeunes étrangers de la deuxième génération, sont reconnues dans le canton de Fribourg les années de résidence passées dans les cantons suivants:
 
@@ -181,22 +215,27 @@ Arrête:
 - e) Jura
 - f) Zurich.
 
+[^11-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 11a
 
-**Conventions intercommunales de réciprocité sur les conditions de résidence (art. 10 al. 2 LDCF)**
+**Conventions intercommunales de réciprocité sur les conditions de résidence (art. 10 al. 2 LDCF[^11a-1])**
 
-<sup>1</sup> L'autorité communale compétente pour conclure une convention de réciprocité au sens de l'article 10 al. 2 LDCF est le conseil communal.
+<sup>1</sup> L'autorité communale compétente pour conclure une convention de réciprocité au sens de l'article 10 al. 2 LDCF[^11a-2] est le conseil communal.
+
+[^11a-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+[^11a-2]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
 
 #### Art. 12
 
-**Acquisition du droit de cité (art. 17 et 41ss LDCF) par une personne étrangère au canton**
+**Acquisition du droit de cité (art. 17 et 41ss LDCF[^12-1]) par une personne étrangère au canton**
 
 <sup>1</sup> Le dossier de demande de naturalisation transmis à la commune pour la procédure d'octroi du droit de cité communal à une personne de nationalité étrangère comprend les pièces suivantes:
 
 - a) la formule de demande d'autorisation fédérale de naturalisation avec procuration;
 - b) la lettre exposant la motivation de la personne à acquérir la nationalité suisse, avec une photographie récente au format passeport;
 - c) la copie de son autorisation d'établissement et de son passeport ou de sa carte d'identité;
-- d) pour la personne requérante dont la preuve des compétences linguistiques n'est pas réputée fournie conformément à l'article 6 al. 2 OLN, l'attestation officielle relative à ses compétences linguistiques (p. ex: examens de langue répondant aux critères internationaux de l'«Association of Language Testers in Europe ALTE» tels que FIDE) au sens de l'article 6 al. 1 OLN ou, le cas échéant, l'attestation d'analphabétisme ou d'illettrisme au sens de l'article 6 du présent règlement;
+- d) pour la personne requérante dont la preuve des compétences linguistiques n'est pas réputée fournie conformément à l'article 6 al. 2 OLN[^12-2], l'attestation officielle relative à ses compétences linguistiques (p. ex: examens de langue répondant aux critères internationaux de l'«Association of Language Testers in Europe ALTE» tels que FIDE) au sens de l'article 6 al. 1 OLN[^12-3] ou, le cas échéant, l'attestation d'analphabétisme ou d'illettrisme au sens de l'article 6 du présent règlement;
 - e) la copie du rapport d'enquête, avec fiche de police et annexes éventuelles;
 - f) le certificat de domicile délivré par la commune et l'attestation de ses séjours en Suisse délivrée par les autorités migratoires compétentes;
 - g) l'extrait de l'office des poursuites;
@@ -219,19 +258,27 @@ Arrête:
 - a) le dossier transmis par le Service;
 - b) une copie du procès-verbal de l'audition de la personne requérante effectuée par la commission communale des naturalisations.
 
+[^12-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+[^12-2]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+[^12-3]: RS [141.01](https://db.clex.ch/link/Bund/141.01/fr)
+
 #### Art. 13
 
-**Acquisition du droit de cité (art. 17 et 41ss LDCF) par une personne fribourgeoise**
+**Acquisition du droit de cité (art. 17 et 41ss LDCF[^13-1]) par une personne fribourgeoise**
 
 <sup>1</sup> La décision d'octroi du droit de cité communal à une personne déjà originaire d'une commune fribourgeoise est communiquée en copie au Service, qui procède aux mises à jour nécessaires dans le registre informatisé de l'état civil.
 
+[^13-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 14
 
-**Transmission du dossier au Conseil d'Etat (art. 19 al. 1 LDCF)**
+**Transmission du dossier au Conseil d'Etat (art. 19 al. 1 LDCF[^14-1])**
 
 <sup>1</sup> Avant de soumettre un dossier à l'examen du Conseil d'Etat, le Service met à jour les éléments de fait relatifs aux conditions de naturalisation ainsi que les données personnelles de la personne requérante.
 
 <sup>2</sup> Le concours de la personne requérante peut être sollicité. De même, elle est tenue d'informer l'autorité compétente de tout changement dans sa situation personnelle.
+
+[^14-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
 
 #### Art. 15
 
@@ -239,7 +286,7 @@ Arrête:
 
 #### Art. 16
 
-**Emoluments de naturalisation (art. 27 LDCF)**
+**Emoluments de naturalisation (art. 27 LDCF[^16-1])**
 
 <sup>1</sup> Les émoluments de la procédure cantonale de naturalisation figurent dans le tableau annexé au présent règlement.
 
@@ -249,9 +296,11 @@ Arrête:
 
 <sup>4</sup> Les communes peuvent prélever des émoluments selon un tarif arrêté dans un règlement communal de portée générale. Dans ce cadre, elles respectent les principes de l'équivalence et de la couverture des frais.
 
+[^16-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 17
 
-**Réception officielle (art. 26 LDCF)**
+**Réception officielle (art. 26 LDCF[^17-1])**
 
 <sup>1</sup> Des réceptions officielles sont organisées au moins deux fois par année.
 
@@ -261,9 +310,11 @@ Arrête:
 
 <sup>4</sup> Les nouveaux citoyens et citoyennes sont tenus de participer à la réception officielle.
 
+[^17-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 18
 
-**Transmission des dossiers de naturalisation au Conseil d'Etat (art. 19 LDCF)**
+**Transmission des dossiers de naturalisation au Conseil d'Etat (art. 19 LDCF[^18-1])**
 
 <sup>1</sup> Le Service, par l'intermédiaire de la Direction, communique les dossiers de naturalisation au Conseil d'Etat. Sa communication est accompagnée d'un projet de décret ainsi que d'une fiche de naturalisation.
 
@@ -293,9 +344,11 @@ Arrête:
 - f) le droit de cité communal;
 - g) les personnes comprises dans le dossier de naturalisation.
 
+[^18-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 19
 
-**Acte de naturalisation (art. 25 LDCF)**
+**Acte de naturalisation (art. 25 LDCF[^19-1])**
 
 <sup>1</sup> L'acte de naturalisation est établi par le Service et remis à la Chancellerie d'Etat en vue de sa signature, de son impression et de sa distribution.
 
@@ -303,9 +356,11 @@ Arrête:
 
 <sup>3</sup> Il est remis en main propre à chaque personne ayant acquis la nationalité suisse et le droit de cité fribourgeois, à l'occasion de la réception officielle. Les personnes empêchées pour de justes motifs de participer à la réception officielle peuvent l'obtenir auprès du Service, selon les modalités fixées par ce dernier.
 
+[^19-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 20
 
-**Réintégration de personnes confédérées dans le droit de cité fribourgeois (art. 29ss LDCF)**
+**Réintégration de personnes confédérées dans le droit de cité fribourgeois (art. 29ss LDCF[^20-1])**
 
 <sup>1</sup> La personne requérant sa réintégration dans le droit de cité fribourgeois introduit sa demande en principe au moyen de la formule officielle établie à cet effet, accompagnée des documents suivants:
 
@@ -313,21 +368,27 @@ Arrête:
 - b) une copie du passeport ou de la carte d'identité;
 - c) une lettre exposant les motifs de la demande de réintégration.
 
+[^20-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 21
 
-**Libération du droit de cité fribourgeois (art. 37 LDCF)**
+**Libération du droit de cité fribourgeois (art. 37 LDCF[^21-1])**
 
 <sup>1</sup> La personne requérant sa libération du droit de cité fribourgeois introduit en principe sa déclaration de renonciation au moyen de la formule officielle.
 
 <sup>2</sup> Un acte d'état civil attestant de ses origines fribourgeoise et confédérée est joint à la déclaration de renonciation, pour toutes les personnes comprises dans la requête.
 
+[^21-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
+
 #### Art. 22
 
-**Libération du droit de cité communal (art. 46ss LDCF)**
+**Libération du droit de cité communal (art. 46ss LDCF[^22-1])**
 
 <sup>1</sup> La personne requérant sa libération d'un ou de plusieurs droits de cité de communes fribourgeoises introduit en principe sa déclaration de renonciation au moyen de la formule officielle.
 
 <sup>2</sup> Est joint à la déclaration de renonciation un certificat de famille ou un certificat individuel d'état civil.
+
+[^22-1]: RSF [114.1.1](https://bdlf.fr.ch/data/114.1.1/fr)
 
 #### Art. 23
 
@@ -371,14 +432,14 @@ Arrête:
   - 3\. Décision de non-entrée en matière: Fr. 80 à 150
   - 4\. Etablissement du rapport d'enquête: Fr. 150 à 200 par personne
   - 5\. Enquête complémentaire: Fr. 50 à 200 par personne
-  - 6\. Contrôle des données d'état civil, conformément à l'annexe 2, chiffre 8 OEEC: Fr. 75 par demi-heure
+  - 6\. Contrôle des données d'état civil, conformément à l'annexe 2, chiffre 8 OEEC[^A11-1]: Fr. 75 par demi-heure
   - 7\. Transmission du dossier à la commune: Fr. 60
   - 8\. Préavis cantonal et transmission du dossier au Secrétariat d'Etat aux migrations: Fr. 100 à 200
   - 9\. Projet de décret et travaux y relatifs, constitution du dossier en vue de sa transmission au Conseil d'Etat et à la Commission des naturalisations du Grand Conseil: Fr. 50
   - 10\. Examen du dossier par la Commission des naturalisations du Grand Conseil: Fr. 100 à 200 par personne
   - 11\. Bouclement de la procédure de naturalisation, enregistrement dans le registre Infostar, délivrance de l'acte de naturalisation: Fr. 100
   - 12\. Forfait de base pour envois postaux, téléphones, fax, non-présentation sans avis préalable à une convocation, etc.: Fr. 30
-  - 13\. Cours d'instruction civique organisé par le Service des affaires institutionnelles, des naturalisations et de l'état civil: Fr. 30 à 50
+  - 13\. Cours d'instruction civique organisé par le Service de l'état civil et des naturalisations: Fr. 30 à 50
   - 14\. Audition, établissement de faits particuliers, analyse juridique particulière: Fr. 150 par heure entamée
 - b) Réintégration de personnes confédérées dans le droit de cité fribourgeois: Fr. 100 à 200
 - c) Libération du droit de cité fribourgeois liée à celle de la nationalité suisse: Fr. 100 à 250
@@ -388,6 +449,8 @@ Arrête:
   - 1\. Etablissement d'une attestation de nationalité, de naturalisation en cours de procédure, etc.: Fr. 10 à 25
   - 2\. Délivrance de copies certifiées conformes et d'extraits de procès-verbaux: Fr. 3 à 5
   - 3\. Photocopie, par page de format A4: Fr. 0.50
-  - 4\. Démarches entreprises par le Service des affaires institutionnelles, des naturalisations et de l'état civil en faveur de personnes et avis de droit: Fr. 150 par heure entamée
+  - 4\. Démarches entreprises par le Service de l'état civil et des naturalisations en faveur de personnes et avis de droit: Fr. 150 par heure entamée
+
+[^A11-1]: RS [172.042.110](https://db.clex.ch/link/Bund/172.042.110/fr)
 
 2018\_018
