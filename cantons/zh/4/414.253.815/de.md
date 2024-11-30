@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.815"
 title: "Studienordnung für den Masterstudiengang Business Administration (Health Economics and Healthcare Management, Innovation and Entrepreneurship, Marketing, Public Management sowie Unternehmensentwicklung) an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2024-08-01"
-nachtrag: "125"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_815-2009_06_04-2009_08_01-125.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_815-2009_06_04-2009_08_01-127.html"
 text: pdf
 ---
 
@@ -65,7 +64,7 @@ Der Masterstudiengang kann in den folgenden Vertiefungen durchgeführt werden:[^
 
 **1**
 
-- 1\. 7. 24 - 125 § 5. An der ZHAW oder andernorts erworbene ECTS-Credits[^4-2] werden während sechs Jahren ab dem Semester ihres Erwerbs angerechnet. Die Studienleitung entscheidet über Ausnahmen.
+- 1\. 1. 25 - 127 § 5. An der ZHAW oder andernorts erworbene ECTS-Credits[^4-2] werden während sechs Jahren ab dem Semester ihres Erwerbs angerechnet. Die Studienleitung entscheidet über Ausnahmen.
 
 [^4-1]: Fassung gemäss B vom 1. Juni 2023 (OS 78, 316; ABl 2023-07-21). In Kraft seit 1. August 2024.
 [^4-2]: Fassung gemäss B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01). In Kraft seit 1. April 2020.
@@ -113,7 +112,7 @@ Ein Wechsel der Vertiefung richtet sich sinngemäss nach § 18 RPO.
 [^hBZulassungzumStu-3]: Fassung gemäss B vom 3. November 2016 (OS 72, 115; ABl 2017-01-13). In Kraft seit 1. April 2017.
 [^hBZulassungzumStu-4]: Fassung gemäss B vom 1. Juni 2023 (OS 78, 316; ABl 2023-07-21). In Kraft seit 1. August 2024.
 [^hBZulassungzumStu-5]: Aufgehoben durch B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^hBZulassungzumStu-6]: Eingefügt durch B vom 8. Juli 2021 (OS 77, 15; ABl 2021-10-29). In Kraft seit 1. Februar 2022. 1. 7. 24 - 125 5
+[^hBZulassungzumStu-6]: Eingefügt durch B vom 8. Juli 2021 (OS 77, 15; ABl 2021-10-29). In Kraft seit 1. Februar 2022. 1. 1. 25 - 127 5
 [^hBZulassungzumStu-7]: Eingefügt durch B vom 3. November 2016 (OS 72, 115; ABl 2017-01-13). In Kraft seit 1. April 2017.
 
 ### C. Module
@@ -140,11 +139,13 @@ Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 ### D. Prüfungen und andere Leistungsnachweise
 
-#### § 12
-
 **Bestehen von Modulen**
 
-Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,0 beträgt und b. alle nicht benoteten Leistungsnachweise des Moduls bestanden sind.
+§ 12.[^hDPrüfungenundand-1] <sup>1</sup> Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,0 beträgt oder b. das Modul mit «bestanden» bewertet wird.
+
+<sup>2</sup> Bei benoteten Modulen müssen alle nicht benoteten Leistungsnachweise bestanden sein. Die Modulbeschreibung kann abweisende oder zusätzliche Bestehensvoraussetzungen festhalten.
+
+[^hDPrüfungenundand-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 410; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
 
 #### § 13
 
@@ -160,11 +161,15 @@ Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,0 beträgt und b. al
 
 <sup>2</sup> Die Nachbesserung von unbegründet versäumten Leistungsnachweisen ist ausgeschlossen.[^13-2]
 
-<sup>3</sup> Die Studienleitung entscheidet über Art, Umfang, Form und Zeitpunkt der Nachbesserung.
-
 **3**
 
-- 1\. 7. 24 - 125 § 15.[^13-3] Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen.
+- 1\. 1. 25 - 127
+
+<sup>3</sup> Die Studienleitung entscheidet über Art, Umfang, Form und Zeitpunkt der Nachbesserung.
+
+**Wiederholung von Modulen**
+
+§ 15.[^13-3] Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen.
 
 [^13-1]: Eingefügt durch B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01).In Kraft seit 1. April 2020.
 [^13-2]: Fassung gemäss B vom 24. Oktober 2017 (OS 73, 52; ABl 2017-11-17). In Kraft seit 1. Februar 2018.
@@ -172,8 +177,6 @@ Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,0 beträgt und b. al
 [^13-4]: Fassung gemäss B vom 22. August 2019 (OS 75, 39; ABl 2019-11-01). In Kraft seit 1. April 2020.
 
 #### § 16
-
-**Wiederholung von Modulen**
 
 **Masterarbeit**
 
@@ -250,7 +253,7 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **7**
 
-- 1\. 7. 24 - 125
+- 1\. 1. 25 - 127
 
 ## Weitere Fussnoten
 
