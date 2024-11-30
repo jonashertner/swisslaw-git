@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.855"
 title: Studienordnung für den Masterstudiengang International Business an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 2015-12-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_855-2015_12_10-2016_05_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_855-2015_12_10-2016_05_01-127.html"
 text: pdf
 ---
 
@@ -25,11 +24,11 @@ beschliesst:
 
 [^t-1]: OS 71, 120; Begründung siehe ABl 2016-02-26. Vom Fachhochschulrat genehmigt am 9. Februar 2016.
 [^t-2]: Inkrafttreten: 1. Mai 2016.
-[^t-3]: LS 414.252.3. 1. 1. 23 - 119 3
+[^t-3]: LS 414.252.3. 1. 1. 25 - 127 3
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 1. 23 - 119 3
+[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 1. 25 - 127 3
 
 #### § 1
 
@@ -68,7 +67,7 @@ An der ZHAW oder andernorts auf konsekutiver Masterebene erworbene ECTS-Credits[
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Die Studiengangleitung entscheidet über die Gleichwertigkeit der Abschlüsse gemäss Abs. 1 lit. b.
 
@@ -108,11 +107,13 @@ An der ZHAW oder andernorts auf konsekutiver Masterebene erworbene ECTS-Credits[
 
 ### D. Prüfungen und andere Leistungsnachweise
 
-#### § 8
-
 **Bestehen von Modulen**
 
-Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,00 beträgt und b. alle nicht benoteten Leistungsnachweise des Moduls bestanden sind, sofern die Modulbeschreibung hierzu keine abweichende Bestehensvoraussetzung festhält.
+§ 8.[^hDPrüfungenundand-1] <sup>1</sup> Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,00 beträgt oder b. das Modul mit «bestanden» bewertet wird.
+
+<sup>2</sup> Bei benoteten Modulen müssen alle nicht benoteten Leistungsnachweise bestanden sein. Die Modulbeschreibung kann abweichende oder zusätzliche Bestehensvoraussetzungen festhalten.
+
+[^hDPrüfungenundand-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 414; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
 
 #### § 9
 
@@ -174,7 +175,7 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 25 - 127
 
 ## Weitere Fussnoten
 
