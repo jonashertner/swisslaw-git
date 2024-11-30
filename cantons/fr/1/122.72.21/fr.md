@@ -3,13 +3,13 @@ canton: FR
 number: "122.72.21"
 title: "Ordonnance relative à la classification des fonctions du personnel de l'Etat"
 language: fr
-version: 2024-01-01
-valid_until: 2024-11-30
-version_adopted: 2023-12-12
+version: 2024-12-01
+valid_until: 2025-07-31
+version_adopted: 2024-12-10
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8015/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8095/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8015/pdf_file"
 
 Personnel de l'Etat, classification des fonctions – O
 
-du 29.11.2022 (version entrée en vigueur le 01.01.2024)
+du 29.11.2022 (version entrée en vigueur le 01.12.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -627,15 +627,18 @@ Arrête:
 <table>
 <tr><th>Codes</th><th>Fonctions</th><th>Classes</th><th>Statut</th></tr>
 <tr><td>3 80 010</td><td>Maître/sse de sport Uni</td><td>23–25</td><td></td></tr>
+<tr><td>3 80 020</td><td>Formateur/trice praticien/ne</td><td>22-25</td><td></td></tr>
 <tr><td>3 80 030</td><td>Maître/sse assistant/e Uni</td><td>25</td><td></td></tr>
-<tr><td>3 80 040</td><td>Maître/sse d'enseignement et de recherche Uni</td><td>28</td><td></td></tr>
+<tr><td>3 80 040</td><td>Maître/sse d'enseignement et de recherche Uni</td><td>27-28</td><td></td></tr>
 <tr><td>3 80 050</td><td>Lecteur/trice</td><td>23–27</td><td></td></tr>
+<tr><td>3 80 060</td><td>Maître/sse de didactique disciplinaire</td><td>22-25</td><td></td></tr>
 <tr><td>3 80 070</td><td>Collaborateur/trice d'institut Uni</td><td>19–23</td><td></td></tr>
 <tr><td>3 80 080</td><td>Administrateur/trice de faculté</td><td>22–24</td><td></td></tr>
 <tr><td>3 80 110</td><td>Directeur/trice d'institut Uni</td><td>31</td><td></td></tr>
-<tr><td>3 80 130</td><td>Professeur/e associé/e</td><td>31</td><td></td></tr>
-<tr><td>3 80 140</td><td>Professeur/e extraordinaire</td><td>35</td><td></td></tr>
-<tr><td>3 80 150</td><td>Professeur/e ordinaire</td><td>36</td><td></td></tr>
+<tr><td>3 80 120</td><td>Professeur/e ordinaire de catégorie de base</td><td>31</td><td></td></tr>
+<tr><td>3 80 130</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>3 80 140</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>3 80 150</td><td>Professeur/e ordinaire de catégorie supérieure</td><td>36</td><td></td></tr>
 </table>
 
 ### 4 00 MANUEL ET EXPLOITATION

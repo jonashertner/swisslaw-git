@@ -3,13 +3,13 @@ canton: FR
 number: "122.72.21"
 title: Verordnung über die Einreihung der Funktionen des Staatspersonals
 language: de
-version: 2024-01-01
-valid_until: 2024-11-30
-version_adopted: 2023-12-12
+version: 2024-12-01
+valid_until: 2025-07-31
+version_adopted: 2024-12-10
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/8015/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8095/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8015/pdf_file"
 
 Staatspersonal, Einreihung der Funktionen – V
 
-vom 29.11.2022 (Fassung in Kraft getreten am 01.01.2024)
+vom 29.11.2022 (Fassung in Kraft getreten am 01.12.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -625,15 +625,18 @@ beschliesst:
 <table>
 <tr><th>Kodierungen</th><th>Funktionen</th><th>Klassen</th><th>Status</th></tr>
 <tr><td>3 80 010</td><td>Sportlehrer/in Uni</td><td>23–25</td><td></td></tr>
+<tr><td>3 80 020</td><td>Praxislehrperson</td><td>22–25</td><td></td></tr>
 <tr><td>3 80 030</td><td>Oberassistent/in Uni</td><td>25</td><td></td></tr>
-<tr><td>3 80 040</td><td>Lehr– und Forschungsrätin/Lehr- und Forschungsrat Uni</td><td>28</td><td></td></tr>
+<tr><td>3 80 040</td><td>Lehr- und Forschungsrätin/Lehr- und Forschungsrat Uni</td><td>27–28</td><td></td></tr>
 <tr><td>3 80 050</td><td>Lektor/in</td><td>23–27</td><td></td></tr>
+<tr><td>3 80 060</td><td>Fachdidaktiker/in</td><td>22–25</td><td></td></tr>
 <tr><td>3 80 070</td><td>Wissenschaftliche Institutsmitarbeiterin/Wissenschaftlicher Institutsmitarbeiter</td><td>19–23</td><td></td></tr>
 <tr><td>3 80 080</td><td>Fakultätsverwalter/in</td><td>22–24</td><td></td></tr>
 <tr><td>3 80 110</td><td>Institutsdirektor/in Uni</td><td>31</td><td></td></tr>
-<tr><td>3 80 130</td><td>Assoziierte Professorin/Assoziierter Professor</td><td>31</td><td></td></tr>
-<tr><td>3 80 140</td><td>Ausserordentliche Professorin/Ausserordentlicher Professor</td><td>35</td><td></td></tr>
-<tr><td>3 80 150</td><td>Ordentliche Professorin/Ordentlicher Professor</td><td>36</td><td></td></tr>
+<tr><td>3 80 120</td><td>Ordentliche Professorin/ordentlicher Professor der Grundkategorie</td><td>31</td><td></td></tr>
+<tr><td>3 80 130</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>3 80 140</td><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>3 80 150</td><td>Ordentliche Professorin/ordentlicher Professor der oberen Kategorie</td><td>36</td><td></td></tr>
 </table>
 
 ### 4 00 HANDWERK UND BETRIEB
