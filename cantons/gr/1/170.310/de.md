@@ -4,13 +4,13 @@ number: "170.310"
 title: Regierungs- und Verwaltungsorganisationsverordnung
 short: RVOV
 language: de
-version: 2024-04-01
-corrected: 2024-05-01
-version_adopted: 2024-03-05
+version: 2024-12-01
+valid_until: 2025-03-31
+version_adopted: 2024-11-26
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3364/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3496/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3364/pdf_file"
 
 (RVOV)
 
-Vom 24.10.2006 (Stand 01.04.2024)
+Vom 24.10.2006 (Stand 01.12.2024)
 
 Gestützt auf Art. 49 der Kantonsverfassung[^ingress-1] und Art. 24 des Regierungs- und Verwaltungsorganisationsgesetzes[^ingress-2]
 

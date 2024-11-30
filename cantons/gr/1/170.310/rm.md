@@ -4,13 +4,13 @@ number: "170.310"
 title: "Ordinaziun davart l'organisaziun da la regenza e da l'administraziun"
 short: OORA
 language: rm
-version: 2024-04-01
-corrected: 2024-05-01
-version_adopted: 2024-03-05
+version: 2024-12-01
+valid_until: 2025-03-31
+version_adopted: 2024-11-26
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3364/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3496/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3364/pdf_file"
 
 (OORA)
 
-dals 24-10-2006 (versiun dals 01-04-2024)
+dals 24-10-2006 (versiun dals 01-12-2024)
 
 sa basond sin l'art. 49 da la constituziun chantunala[^ingress-1] e sin l'art. 24 da la lescha davart l'organisaziun da la regenza e da l'administraziun[^ingress-2]
 
