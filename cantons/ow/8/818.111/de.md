@@ -4,13 +4,12 @@ number: "818.111"
 title: Ausführungsbestimmungen zum Veterinärgesetz
 short: AB VetG
 language: de
-version: 2023-03-01
-valid_until: 2024-11-30
-version_adopted: 2023-01-24
+version: 2024-12-01
+version_adopted: 2024-11-05
 adopted: 2011-01-11
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/818.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1789/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1927/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1789/pdf_file"
 
 (AB VetG)
 
-vom 11.01.2011 (Stand 01.03.2023)
+vom 11.01.2011 (Stand 01.12.2024)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -62,23 +61,7 @@ beschliesst:
 
 #### Art. 4
 
-**Massnahmen bei Hunden**
-
-<sup>1</sup> Der Kantonstierarzt oder die Kantonstierärztin ordnet die erforderlichen Massnahmen an, wenn:
-
-- a. die Halterinnen und Halter von Hunden ihren Pflichten nicht nachkommen;
-- b. Bissverletzungen gemeldet werden;
-- c. ein schwerwiegender Verdacht einer Bedrohung besteht;
-- d. Verhaltensauffälligkeiten festgestellt werden.
-
-<sup>2</sup> Der Kantonstierarzt oder die Kantonstierärztin kann insbesondere:
-
-- a. Weisungen über Erziehung, Pflege oder Unterbringung des Hundes erlassen;
-- b. Weisungen über Beaufsichtigung einschliesslich Leinen- und Maulkorbzwang erlassen;
-- c. einen Hund zulasten der Halterin oder des Halters unter Beobachtung stellen;
-- d. einen Wesenstest des Hundes anordnen;
-- e. den Besuch eines Erziehungskurses für Hunde anordnen;
-- f. in schwerwiegenden Fällen die Hundehaltung verbieten oder die Beseitigung des Hundes anordnen.
+**…**
 
 ## 3. Tiergesundheitsberufe
 
@@ -143,6 +126,10 @@ geändert durch:
 
 \- Nachtrag vom 1. Dezember 2015, in Kraft seit 1. Januar 2016 (OGS 2015, 69),
 
-\- Nachtrag vom 24. Januar 2023, in Kraft seit 1.März 2023 (OGS 2023, 4)
+\- Nachtrag vom 24. Januar 2023, in Kraft seit 1.März 2023 (OGS 2023, 4),
+
+\- Nachtrag vom 5. November 2024, in Kraft seit 1. Dezember 2024 (OGS 2024, 34)
+
+Die Staatskanzlei hat gestützt auf Art. 11c Abs. 1 des Publikationsgesetzes Art. 4 aufgehoben, während gemäss OGS 2024, 34 nur die Abs. 1 und 2 des nur aus diesen beiden Absätzen bestehenden Art. 4 aufgehoben wurde (bedeutungsloser Darstellungsfehler).
 
 OGS 2011, 4
