@@ -4,13 +4,12 @@ number: "211.2.11"
 title: Zivilstandsreglement
 short: ZStR
 language: de
-version: 2017-01-01
-valid_until: 2024-11-30
-version_adopted: 2016-04-12
+version: 2024-12-01
+version_adopted: 2024-11-05
 adopted: 2013-07-01
 in_force: 2013-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/211.2.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7384/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8078/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Zivilstand – R
 
 (ZStR)
 
-vom 01.07.2013 (Fassung in Kraft getreten am 01.01.2017)
+vom 01.07.2013 (Fassung in Kraft getreten am 01.12.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -45,7 +44,7 @@ beschliesst:
 - f) ZStGV: eidgenössische Verordnung vom 27. Oktober 1999 über die Gebühren im Zivilstandswesen;
 - g) ZStV: eidgenössische Verordnung vom 28. April 2004 über das Zivilstandswesen.
 
-<sup>2</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft, das Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen und die (ordentlichen und Sonder-) Zivilstandsbeamtinnen und Zivilstandsbeamten werden in diesem Reglement als Direktion, Amt, Zivilstandsbeamtinnen und Zivilstandsbeamten bezeichnet.
+<sup>2</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft, das Amt für Zivilstand und Einbürgerung und die (ordentlichen und Sonder-) Zivilstandsbeamtinnen und Zivilstandsbeamten werden in diesem Reglement als Direktion, Amt, Zivilstandsbeamtinnen und Zivilstandsbeamten bezeichnet.
 
 ## 2 Organisation und Arbeitsweise
 

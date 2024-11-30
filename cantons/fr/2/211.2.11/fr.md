@@ -4,13 +4,12 @@ number: "211.2.11"
 title: "Règlement sur l'état civil"
 short: REC
 language: fr
-version: 2017-01-01
-valid_until: 2024-11-30
-version_adopted: 2016-04-12
+version: 2024-12-01
+version_adopted: 2024-11-05
 adopted: 2013-07-01
 in_force: 2013-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/211.2.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7384/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8078/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Etat civil – R
 
 (REC)
 
-du 01.07.2013 (version entrée en vigueur le 01.01.2017)
+du 01.07.2013 (version entrée en vigueur le 01.12.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -45,7 +44,7 @@ Arrête:
 - f) OEC, l'ordonnance fédérale du 28 avril 2004 sur l'état civil;
 - g) OEEC, l'ordonnance fédérale du 27 octobre 1999 sur les émoluments en matière d'état civil.
 
-<sup>2</sup> La Direction des institutions, de l'agriculture et des forêts, le Service des affaires institutionnelles, des naturalisations et de l'état civil, l'officier ou l'officière de l'état civil (ordinaire ou spécialisé-e) sont dénommés respectivement, dans le présent règlement, la Direction, le Service, l'officier ou l'officière.
+<sup>2</sup> La Direction des institutions, de l'agriculture et des forêts, le Service de l'état civil et naturalisations, l'officier ou l'officière de l'état civil (ordinaire ou spécialisé-e) sont dénommés respectivement, dans le présent règlement, la Direction, le Service, l'officier ou l'officière.
 
 ## 2 Organisation et fonctionnement
 
