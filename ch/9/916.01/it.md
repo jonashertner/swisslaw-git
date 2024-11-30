@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente l'importazione di prodotti agr
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: it
-version: 2024-11-13
+version: 2024-12-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241113/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241113-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241113/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241201/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241201-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241113/it"
 
 (Ordinanza sulle importazioni agricole, OIAgr)
 
-del 26 ottobre 2011 (Stato 13 novembre 2024)
+del 26 ottobre 2011 (Stato 1° dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^ingress-3]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -58,8 +58,8 @@ La persona soggetta all’obbligo di dichiarazione deve indicare nella dichiaraz
 
 <sup>2</sup> Se le domande, le notifiche e le offerte non sono compilate in modo corretto o sono incomplete, l’UFAG riserva un ulteriore termine di tre giorni feriali per porvi rimedio.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
-[^3-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
 ## Capitolo 2: Aliquote di dazio che divergono dalla tariffa generale e prezzi soglia
 
@@ -69,7 +69,7 @@ La persona soggetta all’obbligo di dichiarazione deve indicare nella dichiaraz
 
 Le aliquote di dazio che divergono dalla tariffa generale di cui all’articolo 1 capoverso 1 della legge del 9 ottobre 1986 sulle dogane sono stabilite negli allegati 1 e 2.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 
 #### Art. 5
 
@@ -88,9 +88,9 @@ L’UFAG verifica mensilmente le aliquote di dazio e le stabilisce in modo che:
 
 <sup>4</sup> I prezzi sul mercato mondiale e dell’Unione europea sono determinati in particolare sulla base delle informazioni borsistiche, dei prezzi franco dogana svizzera, non tassati, dei prezzi pubblicati dalla Commissione europea e delle informazioni rappresentative riguardanti i prezzi fornite da diversi partner commerciali.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 [^5-2]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^5-3]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 al 31 dic. 2026 ([RU 2021 513](https://fedlex.data.admin.ch/eli/oc/2021/513), [679](https://fedlex.data.admin.ch/eli/oc/2021/679); [2022 87](https://fedlex.data.admin.ch/eli/oc/2022/87)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 25 ago. 2021, in vigore dal 1° ott. 2021 al 31 dic. 2026 ([RU 2021 513](https://fedlex.data.admin.ch/eli/oc/2021/513), [679](https://fedlex.data.admin.ch/eli/oc/2021/679); [2022 87](https://fedlex.data.admin.ch/eli/oc/2022/87)).
 
 #### Art. 6
 
@@ -108,12 +108,12 @@ L’UFAG verifica mensilmente le aliquote di dazio e le stabilisce in modo che:
 
 <sup>6</sup> Le aliquote di dazio sui cereali trasformati destinati all’alimentazione umana delle voci di tariffa 1101, 1102, 1103, 1104 e 1107 sono stabilite dall’UFAG. Sono calcolate con valori di resa in base all’imposizione doganale sulle rispettive materie prime dei contingenti doganali n. 27 e 28 e maggiorate di un supplemento massimo di 20 franchi al quintale. Le aliquote di dazio sulle materie prime e quelle sui prodotti trasformati sono adeguate contemporaneamente.[^6-6]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 [^6-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° giu. 2017.
 [^6-3]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
-[^6-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° lug. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
-[^6-5]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
-[^6-6]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° lug. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
+[^6-5]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
+[^6-6]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 
 #### Art. 7
 
@@ -121,7 +121,7 @@ L’UFAG verifica mensilmente le aliquote di dazio e le stabilisce in modo che:
 
 I prezzi soglia, i valori indicativi d’importazione e la fascia di fluttuazione secondo l’articolo 20 LAgr nonché le voci di tariffa delle merci, le cui aliquote di dazio sono stabilite nel sistema dei prezzi soglia, sono elencati nell’allegato 1 numero 14.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 
 #### Art. 8
 
@@ -142,7 +142,7 @@ Il prezzo franco dogana svizzera, non tassato, si compone dei seguenti elementi:
 
 L’UFAG verifica mensilmente le aliquote di dazio sui prodotti agricoli con prezzo soglia o valore indicativo d’importazione e le adegua in base all’evoluzione dei prezzi franco dogana svizzera.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)).
 
 ## Capitolo 3: Contingenti doganali
 
@@ -208,8 +208,8 @@ Gli accordi sull’utilizzo di quote di contingente espresse in percentuale devo
 
 <sup>6</sup> Nella dichiarazione doganale occorre indicare il numero di PGI dell’avente diritto a una quota di contingente.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
 
 #### Art. 15
 
@@ -235,7 +235,7 @@ Sono pubblicati:
 
 L’UFAG pubblica il bando della vendita all’asta sul suo sito Internet.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
 
 #### Art. 17
 
@@ -247,7 +247,7 @@ L’UFAG pubblica il bando della vendita all’asta sul suo sito Internet.
 
 <sup>3</sup> Non è consentito modificare o ritirare le offerte dopo la scadenza del termine di presentazione.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
 #### Art. 18
 
@@ -264,7 +264,7 @@ Se la quantità di contingente oggetto del bando non è utilizzata totalmente, l
 - a. essere di nuovo annunciata agli offerenti mediante circolare; oppure
 - b.[^18-1] essere di nuovo annunciata sul sito Internet dell’UFAG.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
 
 #### Art. 19
 
@@ -278,7 +278,7 @@ Se la quantità di contingente oggetto del bando non è utilizzata totalmente, l
 
 <sup>5</sup> Le deroghe sono disciplinate nelle ordinanze concernenti l’importazione di prodotti specifici.
 
-[^19-1]: Abrogati dal n. I dell’O del 28 ott. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
+[^19-1]: Abrogati dalla cifra I dell’O del 28 ott. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
 
 #### Art. 20
 
@@ -315,7 +315,7 @@ Se le quote di contingente sono attribuite in funzione dell’ordine di entrata 
 
 <sup>3</sup> Le domande presentate lo stesso giorno sono considerate presentate contemporaneamente.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
 #### Art. 22a
 
@@ -323,7 +323,7 @@ Se le quote di contingente sono attribuite in funzione dell’ordine di entrata 
 
 Le esigenze relative ai richiedenti e alle domande sono disciplinate nel capitolo 4 e nelle ordinanze concernenti l’importazione di prodotti specifici.
 
-[^22a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
+[^22a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
 #### Art. 23
 
@@ -331,13 +331,13 @@ Le esigenze relative ai richiedenti e alle domande sono disciplinate nel capitol
 
 Il giorno in cui il contingente doganale si esaurisce, la quantità rimanente è attribuita proporzionalmente alle domande presentate in quello stesso giorno.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
 #### Art. 24
 
 [^24-1]
 
-[^24-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
+[^24-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
 ### Sezione 5: Attribuzione in funzione dell’ordine di accettazione delle dichiarazioni doganali
 
@@ -353,7 +353,7 @@ Se le quote di contingente sono attribuite in funzione dell’ordine di accettaz
 
 Se la ripartizione di un determinato contingente doganale intero o parziale non è disciplinata, gli aventi diritto a una quota di contingente possono effettuare ogni importazione all’aliquota di dazio del contingente (ADC).
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
 
 ## Capitolo 4: Prescrizioni specifiche di disciplinamento del mercato
 
@@ -379,8 +379,8 @@ I puledri accompagnati dalla giumenta (fino all’età di sei mesi) possono esse
 - a. la giumenta, gravida, è stata esportata nel quadro del regime di ammissione temporanea; o
 - b. il passaporto per equide di cui all’articolo 15*c* dell’ordinanza del 27 giugno 1995[^27-3] sulle epizoozie attesta che il puledro accompagna la madre.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)).
-[^27-2]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)).
+[^27-2]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
 [^27-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 ### Sezione 2: Importazione di cereali, alimenti per animali, paglia e merci dalla cui trasformazione si ottengono alimenti per animali
@@ -419,9 +419,9 @@ L’UFAG calcola le aliquote di dazio per i prodotti di cui all’allegato 2 com
 
 <sup>3</sup> Chi importa cereali grezzi secondo il capoverso 2 sottostà alle disposizioni sull’impegno d’impiego di cui agli articoli 51–54 dell’ordinanza del 1° novembre 2006[^29-2] sulle dogane*.*[^29-3]
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
 [^29-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^29-3]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
+[^29-3]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
 
 #### Art. 30
 
@@ -434,7 +434,7 @@ L’UFAG calcola le aliquote di dazio per i prodotti di cui all’allegato 2 com
 <sup>3</sup> Chi importa grano duro secondo il capoverso 2 sottostà alle disposizioni sull’impegno d’impiego di cui agli articoli 51–54 dell’ordinanza del 1° novembre 2006[^30-1] sulle dogane.[^30-2]
 
 [^30-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^30-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
 
 #### Art. 31
 
@@ -456,7 +456,7 @@ L’UFAG calcola le aliquote di dazio per i prodotti di cui all’allegato 2 com
 
 <sup>4</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^32-2] decide in merito al versamento posticipato sulla base delle notifiche delle aziende di trasformazione o dei controlli che vi ha effettuato.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4545](https://fedlex.data.admin.ch/eli/oc/2015/761)).
 [^32-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 33
@@ -495,8 +495,8 @@ Le disposizioni della presente sezione si applicano:
 <sup>7</sup> La ripartizione del contingente doganale n. 08 non è disciplinata.
 
 [^35-1]: [RS 0.631.256.934.953](https://fedlex.data.admin.ch/eli/cc/49/1002_1027_)
-[^35-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
-[^35-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^35-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
 #### Art. 35a
 
@@ -510,7 +510,7 @@ Le disposizioni della presente sezione si applicano:
 
 <sup>4</sup> I prodotti importati nell’ambito del contingente doganale parziale n. 07.3 possono essere utilizzati esclusivamente per l’alimentazione umana.
 
-[^35a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
+[^35a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
 #### Art. 36
 
@@ -518,13 +518,13 @@ Le disposizioni della presente sezione si applicano:
 
 In caso di insufficiente approvvigionamento del mercato indigeno, l’UFAG può aumentare temporaneamente il contingente doganale parziale n. 07.4 dopo aver sentito le cerchie interessate.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
 ### Sezione 4: Importazione di patate e prodotti a base di patate
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017, gli art. 40 cpv. 3, 4, 5 e 41 cpv. 1 lett. c entrano in vigore il 1° gen. 2018 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
+[^chap4-sec4-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017, gli art. 40 cpv. 3, 4, 5 e 41 cpv. 1 lett. c entrano in vigore il 1° gen. 2018 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
 
 #### Art. 36a
 
@@ -541,7 +541,7 @@ Il contingente doganale n. 14 per patate e prodotti a base di patate è suddivis
 
 <sup>2</sup> L’assegnazione delle voci di tariffa ai singoli contingenti doganali parziali è disciplinata nell’allegato 1 numero 9.
 
-[^36a-1]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^36a-1]: Introdotto dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
 #### Art. 37
 
@@ -558,7 +558,7 @@ Suddivide il contingente doganale parziale n. 14.4 (Prodotti a base di patate) n
 
 <sup>3</sup> L’assegnazione delle voci di tariffa alle singole categorie di merce del contingente doganale parziale n. 14.4 è disciplinata nell’allegato 1 numero 9.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
 #### Art. 38
 
@@ -598,8 +598,8 @@ Le quote del contingente doganale parziale n. 14.4 sono ripartite nel seguente m
 - a. per i prodotti semilavorati (art. 37 cpv. 2 lett. a): in funzione dell’ordine di accettazione delle dichiarazioni doganali;
 - b. per i prodotti finiti (art. 37 cpv. 2 lett. b): secondo la procedura d’asta.[^40-2]
 
-[^40-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
-[^40-2]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^40-2]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2022 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
 #### Art. 41
 
@@ -621,7 +621,7 @@ Per prestazione all’interno del Paese si intende:
 
 Le domande di quote dei contingenti doganali parziali n. 14.1 (Patate da semina), n. 14.2 (Patate destinate alla valorizzazione) e n. 14.3 (Patate da tavola) devono pervenire entro l’ultimo giorno feriale di settembre precedente l’inizio del periodo di contingentamento.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
 
 #### Art. 43
 
@@ -637,7 +637,7 @@ Le domande di quote dei contingenti doganali parziali n. 14.1 (Patate da semina)
 
 I prodotti agricoli per i quali non esiste un contingente doganale secondo l’allegato 3 possono essere importati senza PGI fino a 20 chilogrammi lordi.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)).
 
 #### Art. 45
 
@@ -698,7 +698,7 @@ Per importazioni uniche in quantità esigue e in condizioni particolari, segnata
 
 [^50-1]
 
-[^50-1]: Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
+[^50-1]: Abrogato dalla cifra I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 
 #### Art. 51
 
@@ -736,25 +736,25 @@ Per importazioni uniche in quantità esigue e in condizioni particolari, segnata
 
 [^54-1]
 
-[^54-1]: Abrogato dal n. I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
+[^54-1]: Abrogato dalla cifra I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
 
 #### Art. 54a
 
 [^54a-1]
 
-[^54a-1]: Introdotto dal n. I dell’O del 26 ott. 2016 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)). Abrogato dal n. I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
+[^54a-1]: Introdotto dalla cifra I dell’O del 26 ott. 2016 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)). Abrogato dalla cifra I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
 
 #### Art. 54b
 
 [^54b-1]
 
-[^54b-1]: Introdotto dal n. I dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)). Abrogato dal n. I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
+[^54b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)). Abrogato dalla cifra I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)).
 
 #### Art. 54c
 
 [^54c-1]
 
-[^54c-1]: Introdotto dal n. I 1 dell’O COVID-19 agricoltura del 1° apr. 2020, in vigore dal 2 apr. 2020 al 1° ott. 2020 ([RU 2020 1141](https://fedlex.data.admin.ch/eli/oc/2020/208)).
+[^54c-1]: Introdotto dalla cifra I 1 dell’O COVID-19 agricoltura del 1° apr. 2020, in vigore dal 2 apr. 2020 al 1° ott. 2020 ([RU 2020 1141](https://fedlex.data.admin.ch/eli/oc/2020/208)).
 
 #### Art. 55
 
@@ -765,7 +765,7 @@ Per importazioni uniche in quantità esigue e in condizioni particolari, segnata
 <sup>2</sup> L’articolo 36[^55-1] ha effetto sino al 31 dicembre 2018.[^55-2]
 
 [^55-1]: Questo art. ha un nuovo testo ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
-[^55-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
+[^55-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)).
 
 Allegato 1[^t-1]
 
@@ -773,7 +773,7 @@ Allegato 1[^t-1]
 
 ## Elenco delle aliquote di dazio applicabili all’importazione di prodotti agricoli con indicazione dell’obbligo di PGI, dei valori indicativi d’importazione e dell’assegnazione alle prescrizioni specifiche di disciplinamento del mercato, ai gruppi dei prezzi soglia e ai contingenti doganali interi o parziali
 
-[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), dall’all. dell’O del 2 apr. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)[1201](https://fedlex.data.admin.ch/eli/oc/2014/254)), dal n. II dell’O del 29 ott. 2014 ([RU 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), dall’all. 3 n. 11 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I dell’O del DEFR del 16 set. 2016 ([RU 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), dal n. II dell’O del 26 ott. 2016 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), dal n. I dell’O del DEFR del 9 giu. 2017 ([RU 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), dal n. II delle O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), del 23 ott. 2019 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dal n. II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)), dal n. I delle O dell’UFAG del 20 giu. 2023 ([RU 2023 334](https://fedlex.data.admin.ch/eli/oc/2023/334)) e del 20 ott. 2023, in vigore dal 1° nov. 2023 ([RU 2023 611](https://fedlex.data.admin.ch/eli/oc/2023/611)).
+[^t-1]: Aggiornato dalla cifra II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3931](https://fedlex.data.admin.ch/eli/oc/2013/719)), dall’all. dell’O del 2 apr. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)[1201](https://fedlex.data.admin.ch/eli/oc/2014/254)), dalla cifra II dell’O del 29 ott. 2014 ([RU 2014 4001](https://fedlex.data.admin.ch/eli/oc/2014/673)), dall’all. 3 n. 11 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dalla cifra I dell’O del DEFR del 16 set. 2016 ([RU 2016 3319](https://fedlex.data.admin.ch/eli/oc/2016/563)), dalla cifra II dell’O del 26 ott. 2016 ([RU 2016 4083](https://fedlex.data.admin.ch/eli/oc/2016/677)), dalla cifra I dell’O del DEFR del 9 giu. 2017 ([RU 2017 3499](https://fedlex.data.admin.ch/eli/oc/2017/380)), dalla cifra II delle O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), del 23 ott. 2019 ([RU 2019 3617](https://fedlex.data.admin.ch/eli/oc/2019/660)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dalla cifra II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla cifra II cpv. 1 dell’O del 3 nov. 2021 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)), dalla cifra I delle O dell’UFAG del 20 giu. 2023 ([RU 2023 334](https://fedlex.data.admin.ch/eli/oc/2023/334)) e del 20 ott. 2023, in vigore dal 1° nov. 2023 ([RU 2023 611](https://fedlex.data.admin.ch/eli/oc/2023/611)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -2747,13 +2747,13 @@ Allegato 2[^t-2]
 
 ## Aliquote di dazio dei disciplinamenti di mercato: cereali da semina, alimenti per animali, semi oleosi, merci dalla cui trasformazione si ottengono alimenti per animali nonché aliquote di dazio sui cereali grezzi per l’alimentazione umana
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAG del 22 ott. 2024, in vigore dal 1° nov. 2024 ([RU 2024 597](https://fedlex.data.admin.ch/eli/oc/2024/597)).
+[^t-2]: Nuovo testo giusta la cifra I dell’O dell’UFAG del 20 nov. 2024, in vigore dal 1° dic. 2024 ([RU 2024 699](https://fedlex.data.admin.ch/eli/oc/2024/699)).
 
 <table>
 <tr><th>Voce di tariffa</th><th>Aliquota di dazio per 100 kg lordi (CHF)</th><th></th><th>Voce di tariffa</th><th>Aliquota di dazio per 100 kg lordi (CHF)</th><th></th><th>Voce di tariffa</th><th>Aliquota di dazio per 100 kg lordi (CHF)</th><th></th><th>Voce di tariffa</th><th>Aliquota di dazio per 100 kg lordi (CHF)</th><th></th></tr>
 <tr><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th></tr>
 <tr><td>0505.9011</td><td>5.70</td><td></td><td>0508.0091</td><td>5.70</td><td></td><td>0511.9110</td><td>0.00</td><td></td><td>0511.9911</td><td>4.70</td><td></td></tr>
-<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>3.00</td><td></td><td>0709.9991</td><td>10.00</td><td></td><td>0712.9070</td><td>10.00</td><td></td></tr>
+<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>3.00</td><td></td><td>0709.9991</td><td>11.00</td><td>\*</td><td>0712.9070</td><td>11.00</td><td>\*</td></tr>
 <tr><td>0713.1011</td><td>2.00</td><td></td><td>0713.1012</td><td>0.20</td><td></td><td>0713.1091</td><td>2.00</td><td></td><td>0713.2011</td><td>2.00</td><td></td></tr>
 <tr><td>0713.2012</td><td>0.20</td><td></td><td>0713.2091</td><td>2.00</td><td></td><td>0713.3111</td><td>3.00</td><td></td><td>0713.3112</td><td>0.30</td><td></td></tr>
 <tr><td>0713.3191</td><td>3.00</td><td></td><td>0713.3211</td><td>3.00</td><td></td><td>0713.3212</td><td>0.30</td><td></td><td>0713.3291</td><td>3.00</td><td></td></tr>
@@ -2768,31 +2768,31 @@ Allegato 2[^t-2]
 <tr><td>0802.2210</td><td>0.00</td><td></td><td>0802.2220</td><td>0.00</td><td></td><td>0802.3110</td><td>0.00</td><td></td><td>0802.3120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.3210</td><td>0.00</td><td></td><td>0802.3220</td><td>0.00</td><td></td><td>0813.4081</td><td>0.00</td><td></td><td>0813.4092</td><td>0.00</td><td></td></tr>
 <tr><td>0813.5012</td><td>0.00</td><td></td><td>0813.5021</td><td>0.00</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>0.00</td><td></td></tr>
-<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>14.00</td><td></td><td>1001.1939</td><td>11.00</td><td></td></tr>
-<tr><td>1001.1940</td><td>1.10</td><td></td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>14.00</td><td></td><td>1001.9939</td><td>11.00</td><td></td></tr>
-<tr><td>1001.9940</td><td>1.10</td><td></td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>14.00</td><td></td><td>1002.9039</td><td>12.00</td><td></td></tr>
-<tr><td>1002.9040</td><td>1.20</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>5.00</td><td>\*</td><td>1003.9030</td><td>0.30</td><td>\*</td></tr>
-<tr><td>1003.9041</td><td>2.30</td><td>\*</td><td>1003.9051</td><td>14.00</td><td></td><td>1003.9059</td><td>10.00</td><td>\*</td><td>1003.9060</td><td>1.50</td><td>\*</td></tr>
+<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>14.00</td><td></td><td>1001.1939</td><td>10.00</td><td>\*</td></tr>
+<tr><td>1001.1940</td><td>1.00</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>14.00</td><td></td><td>1001.9939</td><td>10.00</td><td>\*</td></tr>
+<tr><td>1001.9940</td><td>1.00</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>14.00</td><td></td><td>1002.9039</td><td>12.00</td><td></td></tr>
+<tr><td>1002.9040</td><td>1.20</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>5.00</td><td></td><td>1003.9030</td><td>0.30</td><td></td></tr>
+<tr><td>1003.9041</td><td>2.30</td><td></td><td>1003.9051</td><td>14.00</td><td></td><td>1003.9059</td><td>10.00</td><td></td><td>1003.9060</td><td>1.50</td><td></td></tr>
 <tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.00</td><td></td><td>1004.9031</td><td>14.00</td><td></td><td>1004.9039</td><td>0.00</td><td></td></tr>
-<tr><td>1004.9040</td><td>0.00</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>2.50</td><td></td><td>1005.9031</td><td>14.00</td><td></td></tr>
-<tr><td>1005.9039</td><td>10.00</td><td></td><td>1005.9040</td><td>1.00</td><td></td><td>1006.1021</td><td>14.00</td><td></td><td>1006.1029</td><td>0.00</td><td></td></tr>
+<tr><td>1004.9040</td><td>0.00</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>2.75</td><td>\*</td><td>1005.9031</td><td>14.00</td><td></td></tr>
+<tr><td>1005.9039</td><td>11.00</td><td>\*</td><td>1005.9040</td><td>1.10</td><td>\*</td><td>1006.1021</td><td>14.00</td><td></td><td>1006.1029</td><td>0.00</td><td></td></tr>
 <tr><td>1006.2021</td><td>14.00</td><td></td><td>1006.2029</td><td>0.00</td><td></td><td>1006.3021</td><td>14.00</td><td></td><td>1006.3029</td><td>0.00</td><td></td></tr>
 <tr><td>1006.4021</td><td>14.00</td><td></td><td>1006.4029</td><td>0.00</td><td></td><td>1007.9031</td><td>14.00</td><td></td><td>1007.9039</td><td>0.00</td><td></td></tr>
 <tr><td>1007.9040</td><td>0.00</td><td></td><td>1008.1031</td><td>14.00</td><td></td><td>1008.1039</td><td>0.00</td><td></td><td>1008.1040</td><td>0.00</td><td></td></tr>
 <tr><td>1008.2931</td><td>14.00</td><td></td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>14.00</td><td></td></tr>
-<tr><td>1008.3039</td><td>0.00</td><td></td><td>1008.3040</td><td>0.00</td><td></td><td>1008.4031</td><td>14.00</td><td></td><td>1008.4039</td><td>11.00</td><td></td></tr>
-<tr><td>1008.4040</td><td>0.35</td><td></td><td>1008.5031</td><td>14.00</td><td></td><td>1008.5039</td><td>11.00</td><td></td><td>1008.5040</td><td>0.35</td><td></td></tr>
+<tr><td>1008.3039</td><td>0.00</td><td></td><td>1008.3040</td><td>0.00</td><td></td><td>1008.4031</td><td>14.00</td><td></td><td>1008.4039</td><td>10.00</td><td>\*</td></tr>
+<tr><td>1008.4040</td><td>0.30</td><td>\*</td><td>1008.5031</td><td>14.00</td><td></td><td>1008.5039</td><td>10.00</td><td>\*</td><td>1008.5040</td><td>0.30</td><td>\*</td></tr>
 <tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>14.00</td><td></td><td>1008.6049</td><td>14.00</td><td></td><td>1008.6050</td><td>1.40</td><td></td></tr>
-<tr><td>1008.9035</td><td>14.00</td><td></td><td>1008.9037</td><td>11.00</td><td></td><td>1008.9040</td><td>0.35</td><td></td><td>1101.0051</td><td>18.00</td><td></td></tr>
-<tr><td>1101.0059</td><td>22.00</td><td></td><td>1102.2010</td><td>23.55</td><td></td><td>1102.2020</td><td>12.00</td><td></td><td>1102.9013</td><td>25.00</td><td></td></tr>
-<tr><td>1102.9045</td><td>18.00</td><td></td><td>1102.9046</td><td>16.00</td><td></td><td>1102.9052</td><td>2.00</td><td></td><td>1102.9062</td><td>22.00</td><td></td></tr>
-<tr><td>1103.1112</td><td>21.00</td><td></td><td>1103.1192</td><td>19.00</td><td></td><td>1103.1320</td><td>17.00</td><td></td><td>1103.1390</td><td>25.00</td><td></td></tr>
-<tr><td>1103.1912</td><td>21.00</td><td></td><td>1103.1922</td><td>15.00</td><td></td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>3.00</td><td></td></tr>
-<tr><td>1103.1993</td><td>19.00</td><td></td><td>1103.2012</td><td>18.00</td><td></td><td>1103.2022</td><td>18.00</td><td></td><td>1103.2092</td><td>18.00</td><td></td></tr>
-<tr><td>1104.1220</td><td>16.00</td><td></td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>19.00</td><td></td><td>1104.1922</td><td>19.00</td><td>\*</td></tr>
-<tr><td>1104.1929</td><td>23.30</td><td>\*</td><td>1104.1993</td><td>19.00</td><td></td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>15.00</td><td></td></tr>
-<tr><td>1104.2320</td><td>0.00</td><td></td><td>1104.2390</td><td>26.95</td><td></td><td>1104.2912</td><td>19.00</td><td></td><td>1104.2923</td><td>1.00</td><td></td></tr>
-<tr><td>1104.2932</td><td>23.30</td><td>\*</td><td>1104.2933</td><td>18.00</td><td>\*</td><td>1104.2993</td><td>17.00</td><td></td><td>1104.3070</td><td>0.00</td><td></td></tr>
+<tr><td>1008.9035</td><td>14.00</td><td></td><td>1008.9037</td><td>10.00</td><td>\*</td><td>1008.9040</td><td>0.30</td><td>\*</td><td>1101.0051</td><td>17.00</td><td>\*</td></tr>
+<tr><td>1101.0059</td><td>21.00</td><td>\*</td><td>1102.2010</td><td>23.95</td><td>\*</td><td>1102.2020</td><td>13.00</td><td>\*</td><td>1102.9013</td><td>25.00</td><td></td></tr>
+<tr><td>1102.9045</td><td>18.00</td><td></td><td>1102.9046</td><td>16.00</td><td></td><td>1102.9052</td><td>3.00</td><td>\*</td><td>1102.9062</td><td>21.00</td><td>\*</td></tr>
+<tr><td>1103.1112</td><td>20.00</td><td>\*</td><td>1103.1192</td><td>18.00</td><td>\*</td><td>1103.1320</td><td>18.00</td><td>\*</td><td>1103.1390</td><td>25.50</td><td>\*</td></tr>
+<tr><td>1103.1912</td><td>21.00</td><td></td><td>1103.1922</td><td>16.00</td><td>\*</td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>4.00</td><td>\*</td></tr>
+<tr><td>1103.1993</td><td>18.00</td><td>\*</td><td>1103.2012</td><td>17.00</td><td>\*</td><td>1103.2022</td><td>18.00</td><td></td><td>1103.2092</td><td>17.00</td><td>\*</td></tr>
+<tr><td>1104.1220</td><td>17.00</td><td>\*</td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>18.00</td><td>\*</td><td>1104.1922</td><td>19.00</td><td></td></tr>
+<tr><td>1104.1929</td><td>23.30</td><td></td><td>1104.1993</td><td>18.00</td><td>\*</td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>16.00</td><td>\*</td></tr>
+<tr><td>1104.2320</td><td>0.00</td><td></td><td>1104.2390</td><td>27.65</td><td>\*</td><td>1104.2912</td><td>18.00</td><td>\*</td><td>1104.2923</td><td>1.00</td><td></td></tr>
+<tr><td>1104.2932</td><td>23.30</td><td></td><td>1104.2933</td><td>18.00</td><td></td><td>1104.2993</td><td>16.00</td><td>\*</td><td>1104.3070</td><td>0.00</td><td></td></tr>
 <tr><td>1104.3081</td><td>0.00</td><td></td><td>1104.3093</td><td>5.00</td><td></td><td>1105.1021</td><td>0.00</td><td></td><td>1105.2021</td><td>0.00</td><td></td></tr>
 <tr><td>1106.1010</td><td>5.00</td><td></td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>12.00</td><td></td><td>1107.1013</td><td>0.00</td><td></td></tr>
 <tr><td>1107.1094</td><td>0.00</td><td></td><td>1107.2013</td><td>0.00</td><td></td><td>1107.2094</td><td>0.00</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
@@ -2829,7 +2829,7 @@ Allegato 2[^t-2]
 <tr><td>1207.9117</td><td>0.10</td><td></td><td>1207.9921</td><td>0.00</td><td></td><td>1207.9922</td><td>0.10</td><td></td><td>1207.9923</td><td>47.55</td><td></td></tr>
 <tr><td>1207.9924</td><td>40.75</td><td></td><td>1207.9925</td><td>0.10</td><td></td><td>1207.9926</td><td>0.10</td><td></td><td>1207.9981</td><td>0.00</td><td></td></tr>
 <tr><td>1207.9983</td><td>0.10</td><td></td><td>1207.9984</td><td>68.25</td><td></td><td>1207.9985</td><td>61.45</td><td></td><td>1207.9986</td><td>0.10</td><td></td></tr>
-<tr><td>1207.9987</td><td>0.10</td><td></td><td>1208.1010</td><td>1.00</td><td></td><td>1208.9010</td><td>1.00</td><td></td><td>1209.1010</td><td>0.00</td><td></td></tr>
+<tr><td>1207.9987</td><td>0.10</td><td></td><td>1208.1010</td><td>0.00</td><td>\*</td><td>1208.9010</td><td>0.00</td><td>\*</td><td>1209.1010</td><td>0.00</td><td></td></tr>
 <tr><td>1209.2911</td><td>0.00</td><td></td><td>1209.2912</td><td>0.00</td><td></td><td>1209.9911</td><td>0.00</td><td></td><td>1209.9912</td><td>0.00</td><td></td></tr>
 <tr><td>1209.9991</td><td>0.00</td><td></td><td>1212.2910</td><td>0.00</td><td></td><td>1212.9110</td><td>0.00</td><td></td><td>1212.9291</td><td>0.00</td><td></td></tr>
 <tr><td>1212.9310</td><td>0.00</td><td></td><td>1212.9410</td><td>0.00</td><td></td><td>1212.9920</td><td>0.00</td><td></td><td>1213.0091</td><td>0.00</td><td></td></tr>
@@ -2853,19 +2853,19 @@ Allegato 2[^t-2]
 <tr><td>1516.2010</td><td>0.00</td><td></td><td>1516.3010</td><td>0.00</td><td></td><td>1517.1010</td><td>0.00</td><td></td><td>1517.9010</td><td>0.00</td><td></td></tr>
 <tr><td>1518.0011</td><td>0.00</td><td></td><td>1518.0081</td><td>0.00</td><td></td><td>1518.0093</td><td>0.00</td><td></td><td>1702.3021</td><td>0.00</td><td></td></tr>
 <tr><td>1702.3033</td><td>0.00</td><td></td><td>1702.4011</td><td>0.00</td><td></td><td>1702.6022</td><td>0.00</td><td></td><td>1702.9011</td><td>0.00</td><td></td></tr>
-<tr><td>1703.9091</td><td>6.00</td><td></td><td>1802.0010</td><td>0.00</td><td></td><td>1905.9021</td><td>3.00</td><td></td><td>2102.1091</td><td>0.00</td><td></td></tr>
+<tr><td>1703.9091</td><td>6.00</td><td></td><td>1802.0010</td><td>0.00</td><td></td><td>1905.9021</td><td>6.00</td><td>\*</td><td>2102.1091</td><td>0.00</td><td></td></tr>
 <tr><td>2102.2011</td><td>0.00</td><td></td><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>0.00</td><td></td><td>2301.1011</td><td>0.00</td><td></td></tr>
 <tr><td>2301.1019</td><td>0.00</td><td></td><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>21.00</td><td></td><td>2302.3020</td><td>10.00</td><td></td></tr>
 <tr><td>2302.4030</td><td>11.00</td><td></td><td>2302.4091</td><td>11.00</td><td></td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td></tr>
-<tr><td>2303.1012</td><td>1.00</td><td>\*</td><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>4.00</td><td>\*</td><td>2303.3010</td><td>0.00</td><td></td></tr>
+<tr><td>2303.1012</td><td>3.00</td><td>\*</td><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>4.00</td><td></td><td>2303.3010</td><td>1.00</td><td>\*</td></tr>
 <tr><td>2304.0010</td><td>0.00</td><td></td><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.00</td><td></td><td>2306.2010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.3010</td><td>0.00</td><td></td><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.6010</td><td>0.00</td><td></td><td>2306.9011</td><td>0.00</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>0.00</td><td></td></tr>
-<tr><td>2308.0030</td><td>0.00</td><td></td><td>2308.0040</td><td>0.00</td><td></td><td>2308.0050</td><td>3.00</td><td>\*</td><td>2308.0060</td><td>0.00</td><td></td></tr>
-<tr><td>2309.9011</td><td>6.65</td><td>\*</td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.25</td><td></td><td>2309.9082</td><td>6.65</td><td>\*</td></tr>
-<tr><td>2309.9089</td><td>6.65</td><td>\*</td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>0.00</td><td></td><td>3809.1010</td><td>0.00</td><td></td></tr>
+<tr><td>2308.0030</td><td>0.00</td><td></td><td>2308.0040</td><td>0.00</td><td></td><td>2308.0050</td><td>3.00</td><td></td><td>2308.0060</td><td>0.00</td><td></td></tr>
+<tr><td>2309.9011</td><td>6.70</td><td>\*</td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.20</td><td>\*</td><td>2309.9082</td><td>6.70</td><td>\*</td></tr>
+<tr><td>2309.9089</td><td>6.70</td><td>\*</td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>0.00</td><td></td><td>3809.1010</td><td>0.00</td><td></td></tr>
 <tr><td>3823.1110</td><td>0.00</td><td></td><td>3823.1210</td><td>0.00</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="12">[tab] **[1]** Le aliquote di dazio possono divergere dalla tariffa generale. Le nuove aliquote di dazio sono contrassegnate con «\*».</td></tr>
+<tr><td colspan="12">**[1]** Le aliquote di dazio possono divergere dalla tariffa generale. Le nuove aliquote di dazio sono contrassegnate con «\*».</td></tr>
 </table>
 
 Allegato 3[^t-3]
@@ -2874,7 +2874,7 @@ Allegato 3[^t-3]
 
 ## Contingenti doganali interi e parziali
 
-[^t-3]: Aggiornato dal n. II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dal n. I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dal n. II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dal n. II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dal n. I dell’O dell’UFAG del 14 giu. 2022 ([RU 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), dal n. I delle O dell’UFAG del 9 ago. 2022 ([RU 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), del 26 set. 2022 ([RU 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), dal n. I delle O del 5 dic. 2022 ([RU 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), del 15 set. 2023 ([RU 2023 525](https://fedlex.data.admin.ch/eli/oc/2023/525)), del 28 set. 2023 ([RU 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), del 16 ott. 2023 ([RU 2023 599](https://fedlex.data.admin.ch/eli/oc/2023/599)), del 10 gen. 2024 ([RU 2024 35](https://fedlex.data.admin.ch/eli/oc/2024/35)), del 18 mar. 2024 ([RU 2024 124](https://fedlex.data.admin.ch/eli/oc/2024/124)), del 15 apr. 2024 ([RU 2024 171](https://fedlex.data.admin.ch/eli/oc/2024/171)), del 14 ago. 2024 ([RU 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), dai n. I delle O dell’UFAG del 30 lug. 2024 ([RU 2024 440](https://fedlex.data.admin.ch/eli/oc/2024/440)), del 4 ott. 2024 ([RU 2024 560](https://fedlex.data.admin.ch/eli/oc/2024/560)) e dal n. I cpv. 1 dell’O del 30 ott. 2024, in vigore dal 13 nov. 2024 ([RU 2024 600](https://fedlex.data.admin.ch/eli/oc/2024/600)).
+[^t-3]: Aggiornato dalla cifra II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dalla cifra II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dall’all. 2 n. 2 dell’O del 26 ago. 2020 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), dalla cifra II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dalla cifra I dell’O dell’UFAG del 14 giu. 2022 ([RU 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), dalla cifra I delle O dell’UFAG del 9 ago. 2022 ([RU 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), del 26 set. 2022 ([RU 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), dalla cifra I delle O del 5 dic. 2022 ([RU 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), del 15 set. 2023 ([RU 2023 525](https://fedlex.data.admin.ch/eli/oc/2023/525)), del 28 set. 2023 ([RU 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), del 16 ott. 2023 ([RU 2023 599](https://fedlex.data.admin.ch/eli/oc/2023/599)), del 10 gen. 2024 ([RU 2024 35](https://fedlex.data.admin.ch/eli/oc/2024/35)), del 18 mar. 2024 ([RU 2024 124](https://fedlex.data.admin.ch/eli/oc/2024/124)), del 15 apr. 2024 ([RU 2024 171](https://fedlex.data.admin.ch/eli/oc/2024/171)), del 14 ago. 2024 ([RU 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), dai n. I delle O dell’UFAG del 30 lug. 2024 ([RU 2024 440](https://fedlex.data.admin.ch/eli/oc/2024/440)), del 4 ott. 2024 ([RU 2024 560](https://fedlex.data.admin.ch/eli/oc/2024/560)) e dalla cifra I cpv. 1 dell’O del 30 ott. 2024, in vigore dal 13 nov. 2024 ([RU 2024 600](https://fedlex.data.admin.ch/eli/oc/2024/600)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -3093,7 +3093,7 @@ Allegato 4[^t-4]
 
 ## Liberazione del contingente doganale dei cereali panificabili
 
-[^t-4]: Nuovo testo giusta il n. I cpv. 2 dell’O del 30 ott. 2024, in vigore dal 13 nov. 2024 ([RU 2024 600](https://fedlex.data.admin.ch/eli/oc/2024/600)).
+[^t-4]: Nuovo testo giusta la cifra I cpv. 2 dell’O del 30 ott. 2024, in vigore dal 13 nov. 2024 ([RU 2024 600](https://fedlex.data.admin.ch/eli/oc/2024/600)).
 
 <table>
 <tr><th>Quantitativo parziale del contingente doganale</th><th>Periodo per l’importazione all’aliquota di dazio del contingente</th></tr>
@@ -3112,7 +3112,7 @@ Allegato 5[^t-5]
 
 Allegato 6[^t-6]
 
-[^t-6]: Abrogato dal n. II cpv. 2 dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
+[^t-6]: Abrogato dalla cifra II cpv. 2 dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 696](https://fedlex.data.admin.ch/eli/oc/2021/696)).
 
 Allegato 7
 
