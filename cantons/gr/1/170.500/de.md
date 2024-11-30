@@ -1,178 +1,177 @@
 ---
 canton: GR
 number: "170.500"
-title: Verordnung über den Einsatz der Informatik in der Kantonalen Verwaltung Graubünden
-short: "Informatik-Verordnung, InfV"
+title: Verordnung über die Informatik in der kantonalen Verwaltung
+short: InfV
 language: de
-version: 2011-06-01
-corrected: 2014-10-09
-version_adopted: 2011-05-03
+version: 2024-12-01
+version_adopted: 2024-11-26
 adopted: 2024-11-26
 in_force: 2024-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1330/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3500/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Einsatz der Informatik in der Verwaltung Graubünden (Informatik-Verordnung, InfV)
+# Verordnung über die Informatik in der kantonalen Verwaltung
 
-Gestützt auf Art. 43 der Kantonsverfassung[^t-1] und Art. 1 und 2 des Regierungs- und Verwaltungsorganisationsgesetzes[^t-2].
+(InfV)
 
-Von der Regierung erlassen am 3. Mai 2011
+Vom 26.11.2024 (Stand 01.12.2024)
 
-I. Allgemeine Bestimmungen
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
-[^t-1]: BR 110.100
-[^t-2]: BR 170.300 1.07.2011 1
+von der Regierung erlassen am 26. November 2024
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die Grundsätze der Organisation, der Führung, der Koordination und der Sicherheit sowie die Aufgaben und Zuständigkeiten bei der Planung und beim Einsatz der Informatik in der kantonalen Verwaltung.
-
-<sup>2</sup> Zur Informatik im Sinne dieser Verordnung zählen alle Informationstechnologien, insbesondere auch die Telekommunikation.
+<sup>1</sup> Diese Verordnung legt die Grundsätze für den Einsatz von Informations- und Kommunikationstechnik (IKT) fest. Sie regelt die Organisation der Informatik und der Digitalen Transformation sowie die Planung, die Steuerung, den Bezug, die Beschaffung und den Betrieb der IKT.
 
 #### Art. 2
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für alle Departemente, Dienststellen und Betriebe der kantonalen Verwaltung.
+<sup>1</sup> Diese Verordnung gilt für alle Departemente und Dienststellen der kantonalen Verwaltung sowie für die Standeskanzlei.
 
-<sup>2</sup> Die Verordnung findet keine Anwendung für die kantonalen Gerichte und die selbständigen öffentlich-rechtlichen Anstalten des Kantons sowie in Bezug auf spezielle Informatiksysteme und technische Steuer- und Leitsysteme, insbesondere im Bereich des kantonalen Strassenwesens.
+<sup>2</sup> Die Verordnung findet keine Anwendung auf:
 
-<sup>3</sup> Ebenfalls ausgenommen sind Informatikmittel für den Unterricht an kantonalen Schulen. Die Regierung kann diesbezüglich Auflagen beschliessen.
+- a) die Funkkommunikation und Anwendungen/Systeme in separaten Netzwerken der Cybercrime-Dienste der Kantonspolizei;
+- b) die spezifischen Systeme des Tiefbauamts für die Betriebs- und Sicherheitsausrüstungen (BSA) des kantonalen und nationalen Strassenwesens;
+- c) die Informatik für den Schulbetrieb der Bündner Kantonsschule.
+
+<sup>3</sup> Die kantonalen Gerichte, die selbstständigen öffentlich-rechtlichen Anstalten des Kantons sowie andere Organisationen, welche die Informatik der kantonalen Verwaltung mitbenützen, werden durch eine Vereinbarung verpflichtet, die relevanten Vorgaben einzuhalten.
+
+<sup>4</sup> Weitere Ausnahmen vom Geltungsbereich beschliesst die Regierung.
 
 #### Art. 3
 
 **Zweck der Informatik**
 
-<sup>1</sup> Die Informatik ermöglicht eine kundenorientierte, rationelle, kostengünstige, zeitgemässe und sichere Verwaltungstätigkeit.
+<sup>1</sup> Die Informatik der kantonalen Verwaltung ermöglicht eine kundenorientierte, effiziente, wirksame, wirtschaftliche, zeitgemässe, nachhaltige und sichere Verwaltungstätigkeit.
 
-<sup>2</sup> Es wird die Standardisierung und Zentralisierung der Informatik angestrebt, um eine wirtschaftliche und zeitgerechte Umsetzung übergreifender Vorhaben in den Bereichen Informatik und E-Government zu ermöglichen.
+<sup>2</sup> Innerhalb der Verwaltung sowie im Verkehr mit der Bevölkerung, der Wirtschaft und weiteren Behörden wird die papierarme und digitale Abwicklung von Geschäften durch medienbruchfreie Prozesse ermöglicht und ausgebaut.
+
+## 2. Organisation der Informatik und der Digitalen Transformation
 
 #### Art. 4
 
-**Strategie und Richtlinien**
+**Regierung**
 
-<sup>1</sup> Die Regierung beschliesst die Informatik-Strategie sowie Informatik-Richtlinien mit strategischer Bedeutung.
-
-<sup>2</sup> Die übrigen Richtlinien werden vom Amt für Informatik erlassen.
-
-### II. Organisation
+<sup>1</sup> Die Regierung beschliesst die IKT-Strategie, die Strategie Digitale Verwaltung sowie Informatikvorgaben mit strategischer beziehungsweise grundsätzlicher Bedeutung.
 
 #### Art. 5
 
-**Informatik-Kommission 1. Zuständigkeit**
+**Informatikkommission (IK)**
 
-<sup>1</sup> Die Informatik-Kommission behandelt alle Informatik-Geschäfte, welche von strategischer oder dienststellenübergreifender Bedeutung sind und die Gesamtinteressen des Kantons betreffen. Sie koordiniert den kantonalen Informatik-Ressourceneinsatz, beurteilt Projektanträge und gibt Realisierungsempfehlungen ab.
+<sup>1</sup> Die IK ist das Koordinations- und Entscheidungsgremium in Bezug auf den Einsatz von IKT. Sie:
 
-<sup>2</sup> Die Informatik-Kommission verfolgt die Entwicklung im Bereich der Informatik. Sie stellt frühzeitig Anträge an das Departement für Finanzen und Gemeinden.
+- a) berät mit Ausnahme der Strategie Digitale Verwaltung alle Informatikgeschäfte vor, welche von der Regierung verabschiedet werden;
+- b) beschliesst unter Berücksichtigung der von der Regierung verabschiedeten strategischen Ziele untergeordnete themenspezifische Strategien im Bereich der Informatik;
+- c) prüft dienststellenspezifische IKT-Strategien, die der kantonalen IKT-Strategie untergeordnet sind, und kann diese mit Auflagen belegen;
+- d) prüft Informatikprojekte zulasten der Investitionsrechnung oder von strategischer beziehungsweise dienststellenübergreifender Bedeutung. Sie gibt Realisierungsempfehlungen ab und kann die Realisierung von Auflagen abhängig machen;
+- e) beschliesst dienststellenübergreifende Massnahmen und IKT-Standards, sofern diese einen gewissen Einfluss auf die Tätigkeit der Mitarbeitenden, die Organisation oder die betrieblichen Abläufe haben;
+- f) nimmt Kenntnis von Geschäften aus dem Bereich der Informatik, namentlich vom Projektportfolio Digitale Transformation und IKT.
+
+<sup>2</sup> Die IK steht unter dem Vorsitz der Leiterin oder des Leiters des Amts für Informatik als Vertreterin oder Vertreter des Departements für Finanzen und Gemeinden. Als weitere Mitglieder nehmen je eine Vertreterin oder ein Vertreter der übrigen Departemente und der Standeskanzlei Einsitz.
+
+<sup>3</sup> Die übrigen Departemente und die Standeskanzlei bestimmen ihr Mitglied selbst.
+
+<sup>4</sup> Ohne Stimmrecht können je eine Vertreterin oder ein Vertreter der Finanzkontrolle und der kantonalen Gerichte sowie die Leiterin oder der Leiter der Informatiksteuerung und die Leiterin oder der Leiter der Stabsstelle Digitale Verwaltung an den Sitzungen teilnehmen. Die IK kann weitere Personen mit beratender Funktion beiziehen.
 
 #### Art. 6
 
-**2. Zusammensetzung**
+**Planungsausschuss Digitale Verwaltung (PLA)**
 
-<sup>1</sup> Die Informatik-Kommission steht unter dem Vorsitz der Departementssekretärin oder des Departementssekretärs des Departements für Finanzen und Gemeinden. Als weitere Mitglieder nehmen je eine Vertreterin oder ein Vertreter der übrigen Departemente und der Standeskanzlei sowie die Leiterin oder der Leiter des Amts für Informatik Einsitz.
+<sup>1</sup> Der PLA ist das Steuerungsgremium für die Umsetzung der Strategie Digitale Verwaltung. Unter Einbezug der betroffenen Dienststellen kann er insbesondere:
 
-<sup>2</sup> Die Departemente und die Standeskanzlei bestimmen ihr Mitglied selbst.
+- a) departementsübergreifende Projekte und Basisdienste identifizieren und die Verwendung des Verpflichtungskredits Digitale Verwaltung durch die Priorisierung von übergreifenden Vorhaben steuern;
+- b) für departementsübergreifende Projekte und Basisdienste übergeordnete Vorgaben und Standards für die digitale Transformation der kantonalen Verwaltung festlegen.
 
-<sup>3</sup> Ohne Stimmrecht nehmen je eine Vertreterin oder ein Vertreter der Finanzkontrolle und der kantonalen Gerichte sowie die Leiterin oder der Leiter Informatik-Steuerung an den Sitzungen teil. Die Informatik-Kommission kann weitere Personen mit beratender Funktion beiziehen.
+<sup>2</sup> Der PLA steht unter dem Vorsitz der Vorsteherin oder des Vorstehers des Departements für Finanzen und Gemeinden. Als weitere Mitglieder nehmen die Digitalisierungsverantwortlichen (DV) der Departemente und der Standeskanzlei gemäss Artikel 9 Einsitz.
+
+<sup>3</sup> Ohne Stimmrecht können je eine Vertreterin oder ein Vertreter des Amts für Informatik, des Personalamts und der Standeskanzlei an den Sitzungen teilnehmen. Der PLA kann weitere Personen mit beratender Funktion beiziehen.
 
 #### Art. 7
 
-**Informatik-Steuerungsstelle**
+**Informatiksteuerung**
 
-<sup>1</sup> Die Informatik-Steuerungsstelle ist eine Abteilung des Amts für Informatik. Sie a) bereitet die Geschäfte der Informatik-Kommission vor, übernimmt deren Sekretariat und führt zugewiesene Aufträge und Projekte durch;
+<sup>1</sup> Die Informatiksteuerung ist eine Abteilung des Amts für Informatik. Sie:
 
-- b) übernimmt die strategische Informatikplanung und die Steuerung übergreifender Informatik-Vorhaben;
-
-- c) koordiniert die Modellierung und Standardisierung der Informatik-Anwendungen und der Basisinfrastruktur. Weiter bietet sie Unterstützung bei der Umsetzung;
-
-**2**
-
-**3**
-
-1.07.2011 d) führt mit der oder dem E-Government-Beauftragten zu Handen der Informatik-Kommission ein gemeinsames Informatik-Anwendungs- und Projekt-Portfolio;
-
-- e) überprüft die Informatik-Strategien der Dienststellen auf Übereinstimmung mit der kantonalen Informatik-Strategie und legt diese der Informatik-Kommission vor.
-
-<sup>2</sup> Die Rolle der oder des Informatik-Sicherheitsbeauftragten wird von der Informatik-Steuerungsstelle wahrgenommen.
+- a) bereitet die Geschäfte der IK vor, übernimmt die strategische Informatikplanung und die Steuerung übergreifender Informatikvorhaben;
+- b) erarbeitet strategische, übergreifende Standards und Vorgaben in Bezug auf den Einsatz von IKT;
+- c) verwaltet das übergreifende Projektportfolio Digitale Transformation und IKT.
 
 #### Art. 8
 
-**E-Government-Beauftragte oder -Beauftragter**
+**Stabsstelle Digitale Verwaltung**
 
-<sup>1</sup> Die oder der E-Government-Beauftragte ist der Standeskanzlei angegliedert.
-
-<sup>2</sup> Sie oder er sorgt für die Weiterentwicklung und koordinierte Umsetzung der E-Government-Strategie.
+<sup>1</sup> Die Stabsstelle Digitale Verwaltung ist beim Departement für Finanzen und Gemeinden angesiedelt. Sie koordiniert die Umsetzung der Strategie Digitale Verwaltung.
 
 #### Art. 9
 
-**Informatik-Betreibende**
+**Digitalisierungsverantwortliche (DV)**
 
-<sup>1</sup> Die kantonalen Informatik-Betreibenden erbringen die Dienstleistungen in den Bereichen Implementation, Betrieb und Support für die kantonalen Verwaltungseinheiten.
+<sup>1</sup> Die DV fördern die digitale Transformation in ihrem jeweiligen Departement und den zugehörigen Dienststellen beziehungsweise in der Standeskanzlei.
 
-<sup>2</sup> Das Amt für Informatik ist der zentrale Informatik-Betreiber des Kantons.
-
-<sup>3</sup> Das GIS-Kompetenzzentrum des Kantons betreibt die Infrastruktur des Geographischen Informationssystems Graubünden und ist für die Haltung und Visualisierung von räumlichen Informationen (Geodaten) zuständig. Das GIS-Kompetenzzentrum ist eine Abteilung des Amts für Landwirtschaft und Geoinformation.
-
-<sup>4</sup> Im Rahmen der Wahrung der Gesamtinteressen des Kantons können die Leistungen insbesondere auch den kantonalen Gerichten, Gemeinden und verwaltungsnahen Stellen sowie Dritten zu mindestens kostendeckenden Preisen angeboten werden.
+<sup>2</sup> Die Departemente und die Standeskanzlei bestimmen je eine Person als DV.
 
 #### Art. 10
 
-**Verwaltungseinheiten**
+**Informatikdienstleistende**
 
-<sup>1</sup> Jede Verwaltungseinheit verfügt über eine minimale eigene Informatik-Kompetenz, insbesondere im Bereich der Fachanwendungen.
+<sup>1</sup> Das Amt für Informatik ist der zentrale Informatikdienstleister und Betreiber von Informatikbasisdiensten der kantonalen Verwaltung.
 
-<sup>2</sup> Die kantonale Verwaltung verfügt über eine beschränkte Anzahl Verwaltungseinheiten mit hoher Informatik-Kompetenz, welche definierte Leistungen für sich selbst oder für andere Dienststellen erbringen. Eine Ausweitung solcher Tätigkeiten ist nur mit Zustimmung der Regierung zulässig.
+<sup>2</sup> Das Amt für Informatik erlässt unter Vorbehalt von Artikel 5 Absatz 1 Litera e und unter Einbezug der betroffenen Stellen operative Informatikweisungen.
 
-<sup>3</sup> Falls sich bei den Verwaltungseinheiten im Sinne von Absatz 2 massgebende Veränderungen bei den Rahmenbedingungen, bei den Aufgaben oder beim Informatik-Team abzeichnen, ist durch die Informatik-Kommis-
+<sup>3</sup> Die kantonale Verwaltung verfügt zudem über eine beschränkte Anzahl spezifischer Informatikdienstleistender, welche definierte Leistungen erbringen können. Dies sind:
 
-**4**
+- a) das GIS-Kompetenzzentrum des Amts für Landwirtschaft und Geoinformation im Bereich des Geografischen Informationssystems Graubünden;
+- b) die Kantonspolizei im Bereich «Behörden und Organisationen für Rettung und Sicherheit» (BORS);
+- c) das Tiefbauamt im Bereich spezifischer Informatikdienstleistungen, insbesondere im Auftrag des Bundesamts für Strassen (ASTRA).
 
-1.07.2011 sion eine Integration des Informatik-Betriebs in das Amt für Informatik zu prüfen.
-
-<sup>4</sup> Wesentliche Neu- und Ergänzungsbeschaffungen von Infrastrukturkomponenten sowie Anwendungen sind von den Dienststellen zu begründen und der Informatik-Kommission vorzulegen, sofern diese vom Informatik-Team der Dienststelle betrieben werden sollen.
-
-### III. Bezug von Informatik-Leistungen und zentrale Beschaffung
+<sup>4</sup> Im Rahmen der Wahrung der Gesamtinteressen des Kantons können Leistungen durch die Informatikdienstleistenden auch Dritten, insbesondere den kantonalen Gerichten, Gemeinden und verwaltungsnahen Stellen angeboten werden.
 
 #### Art. 11
 
-**Bezug von Informatik-Leistungen**
+**Verwaltungseinheiten**
 
-<sup>1</sup> Grundsätzlich können Informatik-Leistungen verwaltungsintern oder -extern bezogen werden. Massgebend für die Auswahl sind vor allem die Gesamtwirtschaftlichkeit, die Sicherheit und der Datenschutz.
+<sup>1</sup> Jede Verwaltungseinheit verfügt über eine minimale eigene Informatikkompetenz. Insbesondere im Bereich der Betreuung und des Unterhalts von Fachanwendungen können die Verwaltungseinheiten über zusätzliche Informatikkompetenzen verfügen.
 
-<sup>2</sup> Die Regierung regelt, welche Leistungen die Informatik-Betreibenden anbieten müssen und welche bei diesen zu beziehen sind.
+## 3. Bezug von Informatikleistungen und zentrale Beschaffung
 
 #### Art. 12
 
-**Zentrale Beschaffung**
+**Bezug von Informatikleistungen**
 
-Das Amt für Informatik ist die zentrale und alleinige Beschaffungsinstanz für Informatikmittel und -dienstleistungen. Ausnahmen werden durch das Amt für Informatik geregelt.
+<sup>1</sup> Informatikbasisleistungen sind grundsätzlich beim Amt für Informatik zu beziehen. Ausnahmen sind, in Absprache mit dem Amt für Informatik, der IK vorzulegen.
 
-### IV. Informatiksicherheit und Datenschutz
+<sup>2</sup> Übrige Informatikleistungen können verwaltungsintern oder ‑extern bezogen werden. Massgebend für die Auswahl sind vor allem die Gesamtwirtschaftlichkeit, die Standardisierung, die Datensicherheit und der Datenschutz.
 
 #### Art. 13
 
-**Schutz**
+**Zentrale Beschaffung**
 
-<sup>1</sup> Informatikmittel und Daten, für deren Vertraulichkeit, Verfügbarkeit, Integrität und Nachweisbarkeit der Kanton verantwortlich ist, müssen vor Verlust und Missbrauch geschützt werden.
+<sup>1</sup> Das Amt für Informatik definiert Vorgaben für IKT-Dienste und Produktestandards und ist die zentrale und alleinige Beschaffungsinstanz für Informatikmittel und ‑dienstleistungen. Ausnahmen werden zwischen dem Amt für Informatik und den betroffenen Dienststellen schriftlich vereinbart.
 
-<sup>2</sup> Die Überprüfung der Schutzmassnahmen ist eine ständige Aufgabe der zuständigen Verwaltungseinheiten und der Informatik-Betreibenden.
-
-<sup>3</sup> Für die Überwachung der Einhaltung der Weisungen über die Informatik-Sicherheit in der kantonalen Verwaltung ist die oder der Informatik-Sicherheitsbeauftragte der Informatik-Steuerungsstelle zuständig.
-
-1.07.2011
-
-### V. Schlussbestimmung
+## 4. Datensicherheit
 
 #### Art. 14
 
-**Aufhebung bisherigen Rechts, Inkrafttreten**
+**Datensicherheit**
 
-Diese Verordnung tritt am 1. Juni 2011 in Kraft und ersetzt die Verordnung vom 1. Juli 2001[^14-1].
+<sup>1</sup> Für sämtliche Systeme und Anwendungen der Informatik müssen ein angemessener Schutz der Vertraulichkeit sowie die Verfügbarkeit, Integrität und Nachvollziehbarkeit gewährleistet sein.
 
-[^14-1]: AGS 2001; 2227 1.07.2011 5
+<sup>2</sup> Die Überprüfung der Schutzmassnahmen ist eine ständige Aufgabe der zuständigen Verwaltungseinheiten und der Informatikdienstleistenden.
+
+<sup>3</sup> Die kantonale Informatiksicherheitsbeauftragte oder der kantonale Informatiksicherheitsbeauftragte ist beim Amt für Informatik angesiedelt.
+
+<sup>4</sup> Das Amt für Informatik erstellt Rahmenvorgaben zur Informatiksicherheit und zur Sensibilisierung der Mitarbeitenden.
+
+2024-047

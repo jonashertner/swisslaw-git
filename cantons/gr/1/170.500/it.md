@@ -1,173 +1,177 @@
 ---
 canton: GR
 number: "170.500"
-title: "Ordinanza sull'impiego dell'informatica nell'Amministrazione cantonale dei Grigioni (Ordinanza sull'informatica, Oinf)"
+title: "Ordinanza sull'informatica nell'Amministrazione cantonale"
 short: OInf
 language: it
-version: 2011-06-01
-corrected: 2014-10-09
-version_adopted: 2011-05-03
+version: 2024-12-01
+version_adopted: 2024-11-26
 adopted: 2024-11-26
 in_force: 2024-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1330/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3500/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza sull'impiego dell'informatica nell'Amministrazione cantonale dei Grigioni (Ordinanza sull'informatica, Oinf)
+# Ordinanza sull'informatica nell'Amministrazione cantonale
 
-emanata dal Governo il 3 maggio 2011
+(OInf)
 
-visti l'art. 43 della Costituzione cantonale[^t-1] e gli art. 1 e 2 della legge sull'organizzazione del Governo e dell'Amministrazione[^t-2]
+del 26.11.2024 (stato 01.12.2024)
 
-I. Disposizioni generali
+emanata dal Governo il 26 novembre 2024
 
-Art.
+visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
+
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+
+## 1. Disposizioni generali
+
+#### Art. 1
 
 **Oggetto**
 
-<sup>1</sup> La presente ordinanza disciplina i principi dell'organizzazione, della direzione, del coordinamento e della sicurezza, nonché i compiti e le competenze nella pianificazione e nell'impiego dell'informatica nell'Amministrazione cantonale.
+<sup>1</sup> La presente ordinanza stabilisce i principi per l'impiego delle tecnologie dell'informazione e della comunicazione (TIC). Essa disciplina l'organizzazione dell'informatica e della trasformazione digitale nonché la pianificazione, la gestione, la richiesta, l'acquisto e l'esercizio delle TIC.
 
-<sup>2</sup> Dell'informatica ai sensi della presente ordinanza fanno parte tutte le tecnologie dell'informazione, segnatamente anche le telecomunicazioni.
-
-Art.
+#### Art. 2
 
 **Campo d'applicazione**
 
-<sup>1</sup> La presente ordinanza si applica a tutti i Dipartimenti, i servizi ed le aziende dell'Amministrazione cantonale.
+<sup>1</sup> La presente ordinanza si applica a tutti i Dipartimenti e servizi dell'Amministrazione cantonale nonché alla Cancelleria dello Stato.
 
-<sup>2</sup> L'ordinanza non si applica ai Tribunali cantonali e agli istituti indipendenti di diritto pubblico del Cantone, nonché in riferimento a particolari sistemi informatici e sistemi tecnici di controllo e di gestione, segnatamente nel settore stradale cantonale.
+<sup>2</sup> La presente ordinanza non si applica:
 
-<sup>3</sup> Sono esclusi anche gli strumenti informatici per l'insegnamento nelle scuole cantonali. A questo proposito, il Governo può decidere condizioni.
+- a) alla comunicazione via radio e alle applicazioni/ai sistemi in reti separate dei servizi speciali cybercriminalità della Polizia cantonale;
+- b) ai sistemi specifici dell'Ufficio tecnico per gli equipaggiamenti di esercizio e sicurezza (EES) del settore delle strade cantonali e nazionali;
+- c) all'informatica utilizzata per l'attività scolastica della Scuola cantonale grigione.
 
-Art.
+<sup>3</sup> I Tribunali cantonali, gli istituti autonomi di diritto pubblico del Cantone nonché altre organizzazioni che utilizzano l'informatica dell'Amministrazione cantonale vengono obbligati a rispettare le direttive rilevanti mediante un accordo.
+
+<sup>4</sup> Ulteriori eccezioni al campo d'applicazione vengono decise dal Governo.
+
+#### Art. 3
 
 **Scopo dell'informatica**
 
-<sup>1</sup> L'informatica permette un'attività amministrativa orientata agli utenti, razionale, economica, moderna e sicura.
+<sup>1</sup> L'informatica dell'Amministrazione cantonale permette di svolgere l'attività amministrativa in modo orientato agli utenti, efficiente, efficace, economico, moderno, sostenibile e sicuro.
 
-<sup>2</sup> Si mira alla standardizzazione e alla centralizzazione dell'informatica per permettere un'attuazione economica e moderna di progetti interdisciplinari nei settori dell'informatica e dell'e-government.
+<sup>2</sup> All'interno dell'Amministrazione nonché nei rapporti con la popolazione, l'economia e altre autorità, l'evasione digitale delle pratiche con uso ridotto di carta viene resa possibile e ampliata grazie a processi interamente elettronici.
 
-Art.
+## 2. Organizzazione dell'informatica e della trasformazione digitale
 
-**Strategia e direttive**
+#### Art. 4
 
-<sup>1</sup> Il Governo decide la strategia informatica e le direttive informatiche di importanza strategica.
+**Governo**
 
-<sup>2</sup> Le rimanenti direttive vengono emanate dall'Ufficio d'informatica.
+<sup>1</sup> Il Governo decide la strategia TIC, la strategia amministrazione digitale nonché direttive informatiche di importanza strategica o fondamentale.
 
-II. Organizzazione
+#### Art. 5
 
-Art.
+**Commissione informatica (CI)**
 
-**Commissione informatica 1. Competenza**
+<sup>1</sup> La CI è l'organo di coordinamento e decisionale in relazione all'impiego delle TIC. Essa:
 
-<sup>1</sup> La Commissione informatica tratta tutte le questioni informatiche di importanza strategica o importanti per diversi servizi e che riguardano gli interessi globali del Cantone. Essa coordina l'impiego delle risorse informatiche cantonali, valuta proposte di progetto e fornisce raccomandazioni per la realizzazione.
+- a) discute in via preliminare tutte le pratiche relative all'informatica che vengono approvate dal Governo, fatta eccezione per la strategia amministrazione digitale;
+- b) tenendo conto degli obiettivi strategici approvati dal Governo decide strategie specifiche per tema di carattere subordinato nel settore dell'informatica;
+- c) esamina strategie TIC specifiche per servizio che sono subordinate alla strategia TIC cantonale e può vincolarle a determinate condizioni;
+- d) esamina progetti informatici a carico del conto degli investimenti o di importanza strategica o rilevanti per diversi servizi. Fornisce raccomandazioni per la realizzazione e può far dipendere la realizzazione da condizioni;
+- e) decide misure e standard TIC che interessano più servizi se questi hanno un determinato influsso sull'attività dei collaboratori, sull'organizzazione o sui processi operativi;
+- f) prende atto di pratiche nel settore dell'informatica, segnatamente del portafoglio di progetti di trasformazione digitale e TIC.
 
-<sup>2</sup> La Commissione informatica segue lo sviluppo nel settore informatico. Essa presenta tempestivamente proposte al Dipartimento delle finanze e dei comuni.
+<sup>2</sup> La CI è presieduta dal responsabile dell'Ufficio d'informatica quale rappresentante del Dipartimento delle finanze e dei comuni. Ne fanno parte quali ulteriori membri un rappresentante ciascuno degli altri Dipartimenti e della Cancelleria dello Stato.
 
-Art.
+<sup>3</sup> Gli altri Dipartimenti e la Cancelleria dello Stato designano autonomamente il proprio membro.
 
-**2. Composizione**
+<sup>4</sup> Possono partecipare alle sedute senza diritto di voto un rappresentante ciascuno del Controllo delle finanze e dei Tribunali cantonali nonché il responsabile del servizio di gestione dell'informatica e il responsabile dell'unità di gestione Amministrazione digitale. La CI può coinvolgere altre persone con funzione consultiva.
 
-<sup>1</sup> La Commissione informatica è presieduta dal segretario di concetto del Dipartimento delle finanze e dei comuni. Entrano a far parte quali ulteriori membri un rappresentante di ogni altro Dipartimento e un rappresentante della Cancelleria dello Stato, nonché il capo dell'Ufficio d'informatica.
+#### Art. 6
 
-<sup>2</sup> I Dipartimenti e la Cancelleria dello Stato designano autonomamente il loro membro.
+**Comitato di pianificazione amministrazione digitale (CP)**
 
-<sup>3</sup> Un rappresentante ciascuno del Controllo delle finanze e dei Tribunali cantonali, nonché il capo della gestione dell'informatica partecipano alle sedute senza avere diritto di voto. La Commissione informatica può ricorrere ad altre persone con funzione consultiva.
+<sup>1</sup> Il CP è l'organo direttivo per l'attuazione della strategia amministrazione digitale. Coinvolgendo i servizi interessati esso può in particolare:
 
-Art.
+- a) identificare progetti e servizi di base interdipartimentali e gestire l'utilizzo del credito d'impegno amministrazione digitale attraverso l'attribuzione di priorità ai progetti interdisciplinari;
+- b) definire direttive e standard sovraordinati per progetti e servizi di base interdipartimentali finalizzati alla trasformazione digitale dell'Amministrazione cantonale.
+
+<sup>2</sup> La CP è presieduta dal direttore del Dipartimento delle finanze e dei comuni. Ne fanno parte quali ulteriori membri i responsabili della digitalizzazione (RD) dei Dipartimenti e della Cancelleria dello Stato conformemente all'articolo 9.
+
+<sup>3</sup> Possono partecipare alle sedute senza avere diritto di voto un rappresentante ciascuno dell'Ufficio d'informatica, dell'Ufficio del personale e della Cancelleria dello Stato. La CP può coinvolgere altre persone con funzione consultiva.
+
+#### Art. 7
 
 **Gestione dell'informatica**
 
 <sup>1</sup> La gestione dell'informatica è una sezione dell'Ufficio d'informatica. Essa:
 
-- a) prepara gli affari della Commissione informatica, svolge i relativi lavori di segretariato e si occupa degli incarichi e dei progetti attribuiti;
+- a) prepara le pratiche della CI, si assume la pianificazione strategica dell'informatica e la gestione di progetti informatici interdisciplinari;
+- b) elabora standard e direttive interdisciplinari di carattere strategico in relazione all'impiego delle TIC;
+- c) gestisce il portafoglio di progetti interdisciplinare trasformazione digitale e TIC.
 
-- b) si assume la pianificazione informatica strategica e il controllo di progetti informatici interdisciplinari;
+#### Art. 8
 
-- c) coordina la modellizzazione e la standardizzazione delle applicazioni informatiche e dell'infrastruttura di base. Inoltre, offre aiuto nell'attuazione;
+**Unità di gestione Amministrazione digitale**
 
-- d) con l'addetto e-government tiene un portfolio comune di applicazioni informatiche e di progetti a destinazione della Commissione informatica;
+<sup>1</sup> L'unità di gestione Amministrazione digitale è parte del Dipartimento delle finanze e dei comuni. Essa coordina l'attuazione della strategia amministrazione digitale.
 
-**2**
+#### Art. 9
 
-**3**
+**Responsabili della digitalizzazione (RD)**
 
-1.7.2011 e) verifica se le strategie informatiche dei servizi corrispondono alla strategia informatica cantonale e le sottopone alla Commissione informatica.
+<sup>1</sup> I RD promuovono la trasformazione digitale nel rispettivo Dipartimento e nei relativi servizi rispettivamente in seno alla Cancelleria dello Stato.
 
-<sup>2</sup> Il ruolo di responsabile della sicurezza informatica viene assunto dalla gestione dell'informatica.
+<sup>2</sup> I Dipartimenti e la Cancelleria dello Stato designano ognuno una persona quale RD.
 
-Art.
+#### Art. 10
 
-**Addetto egovernment**
+**Fornitori di servizi informatici**
 
-<sup>1</sup> La funzione di addetto e-government è integrata nella Cancelleria dello Stato.
+<sup>1</sup> L'Ufficio d'informatica è il fornitore centrale di servizi informatici e gestore di servizi informatici di base dell'Amministrazione cantonale.
 
-<sup>2</sup> L'addetto e-government provvede all'ulteriore sviluppo e all'attuazione coordinata della strategia di e-government.
+<sup>2</sup> Fatto salvo l'articolo 5 capoverso 1 lettera e e coinvolgendo i servizi interessati, l'Ufficio d'informatica emana istruzioni operative in materia di informatica.
 
-Art.
+<sup>3</sup> L'Amministrazione cantonale dispone inoltre di un numero limitato di fornitori di servizi informatici specifici che sono in grado di fornire prestazioni definite. Tra questi rientrano:
 
-**Gestori di sistemi informatici**
+- a) il centro di competenza SIG dell'Ufficio per l'agricoltura e la geoinformazione nel settore del Sistema d'informazione geografica dei Grigioni;
+- b) la Polizia cantonale nel settore «Autorità e organizzazioni attive nel campo del salvataggio e della sicurezza» (AOSS);
+- c) l'Ufficio tecnico nel settore delle prestazioni informatiche specifiche in particolare su incarico dell'Ufficio federale delle strade (USTRA).
 
-<sup>1</sup> I gestori cantonali di sistemi informatici forniscono servizi nei settori implementazione, gestione e supporto per le unità amministrative cantonali.
+<sup>4</sup> Nell'ambito della salvaguardia degli interessi globali del Cantone le prestazioni di fornitori di servizi informatici possono essere offerte anche a terzi, in particolare ai Tribunali cantonali, ai comuni e a servizi affini all'Amministrazione.
 
-<sup>2</sup> L'Ufficio d'informatica è il gestore di sistemi informatici centrale del Cantone.
-
-<sup>3</sup> Il Centro di competenze SIG del Cantone gestisce l'infrastruttura del sistema d'informazione geografica dei Grigioni ed è competente per la conservazione e la visualizzazione di informazioni spaziali (geodati). Il Centro di competenze SIG è una sezione dell'Ufficio per l'agricoltura e la geoinformazione.
-
-<sup>4</sup> Nell'ambito della salvaguardia degli interessi globali del Cantone, le prestazioni possono essere offerte in particolare anche ai Tribunali cantonali, ai comuni e agli uffici vicini all'Amministrazione, nonché a terzi, a prezzi che coprano almeno le spese.
-
-Art.
+#### Art. 11
 
 **Unità amministrative**
 
-<sup>1</sup> Ogni unità amministrativa dispone di una propria competenza informatica minima, in particolare nel settore delle applicazioni specifiche.
+<sup>1</sup> Ogni unità amministrativa dispone di una minima competenza informatica propria. In particolare nel settore della gestione e della manutenzione di applicazioni specifiche, le unità amministrative possono disporre di competenze informatiche supplementari.
 
-<sup>2</sup> L'Amministrazione cantonale dispone di un limitato numero di unità amministrative con elevate competenze informatiche che forniscono determinate prestazioni per se stesse o per altri servizi. Un ampliamento di queste attività è ammesso soltanto con il consenso del Governo.
+## 3. Richiesta di prestazioni informatiche e acquisto centralizzato
 
-<sup>3</sup> Se nelle unità amministrative ai sensi del capoverso 2 si delineano cambiamenti importanti nelle condizioni quadro, nei compiti o nel team di informatici, la Commissione informatica deve verificare un'integrazione della gestione informatica nell'Ufficio d'informatica.
+#### Art. 12
 
-<sup>4</sup> I servizi devono motivare e sottoporre alla Commissione informatica nuovi acquisti e acquisti complementari più importanti di componenti infrastrutturali e applicazioni, qualora questi vadano gestiti dal team di informatici del servizio.
+**Richiesta di prestazioni informatiche**
 
-1.7.2011 III. Utilizzo di prestazioni informatiche e acquisto centrale
+<sup>1</sup> In linea di principio, le prestazioni informatiche di base devono essere richieste all'Ufficio d'informatica. Eventuali eccezioni devono essere presentate alla CI in accordo con l'Ufficio d'informatica.
 
-Art.
+<sup>2</sup> Ulteriori prestazioni informatiche possono essere richieste a offerenti interni o esterni all'Amministrazione. Per la scelta sono determinanti soprattutto l'economicità globale, la standardizzazione, la sicurezza e la protezione dei dati.
 
-**Utilizzo di prestazioni informatiche**
+#### Art. 13
 
-<sup>1</sup> In linea di principio è possibile utilizzare prestazioni informatiche fornite da offerenti interni o esterni all'Amministrazione. Determinanti per la selezione sono anzitutto l'economicità globale, la sicurezza e la protezione dei dati.
+**Acquisto centralizzato**
 
-<sup>2</sup> Il Governo disciplina quali prestazioni devono offrire i gestori di sistemi informatici e per quali prestazioni vanno utilizzate le loro soluzioni.
+<sup>1</sup> L'Ufficio d'informatica definisce direttive per i servizi TIC e standard relativi ai prodotti ed è l'autorità d'acquisto centrale ed esclusiva per strumenti e servizi informatici. Eccezioni vengono concordate per iscritto tra l'Ufficio d'informatica e il servizio interessato.
 
-Art.
+## 4. Sicurezza dei dati
 
-**Acquisto centrale**
+#### Art. 14
 
-L'Ufficio d'informatica è l'autorità d'acquisto centrale ed esclusiva per strumenti e prestazioni informatici. Le eccezioni sono disciplinate dall'Ufficio d'informatica.
+**Sicurezza dei dati**
 
-IV. Sicurezza informatica e protezione dei dati
+<sup>1</sup> Per tutti i sistemi e tutte le applicazioni informatiche devono essere garantite la protezione della confidenzialità nonché la disponibilità, l'integrità e la tracciabilità.
 
-Art.
+<sup>2</sup> La verifica delle misure di protezione è un compito permanente delle unità amministrative competenti e dei fornitori di servizi informatici.
 
-**Protezione**
+<sup>3</sup> La funzione dell'incaricato cantonale della sicurezza informatica è collocata in seno all'Ufficio d'informatica.
 
-<sup>1</sup> Strumenti informatici e dati per la cui confidenzialità, disponibilità, integrità e comprovabilità è responsabile il Cantone devono essere protetti dalla perdita e dall'abuso.
+<sup>4</sup> L'Ufficio d'informatica allestisce direttive quadro relative alla sicurezza informatica e alla sensibilizzazione dei collaboratori.
 
-<sup>2</sup> La verifica delle misure di protezione è un compito permanente delle unità amministrative competenti e dei gestori di sistemi informatici.
-
-<sup>3</sup> Per il controllo del rispetto delle direttive sulla sicurezza informatica nell'Amministrazione cantonale è competente l'incaricato della sicurezza informatica della gestione dell'informatica.
-
-V. Disposizione finale
-
-Art.
-
-**Abrogazione del diritto previgente, entrata in vigore**
-
-La presente ordinanza entra in vigore il 1° giugno 2011 e sostituisce l'ordinanza del 1° luglio 2001[^t-3].
-
-[^t-1]: CSC 110.100
-[^t-2]: CSC 170.300 1.7.2011 1
-[^t-3]: AGS 2001; 2227 4 1.7.2011
+2024-047

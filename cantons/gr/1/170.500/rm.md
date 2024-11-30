@@ -1,182 +1,177 @@
 ---
 canton: GR
 number: "170.500"
-title: "Ordinaziun davart l'applicaziun da l'informatica en l'administraziun chantunala dal Grischun (ordinaziun d'informatica, OInf)"
+title: "Ordinaziun davart l'informatica en l'administraziun chantunala"
 short: OInf
 language: rm
-version: 2011-06-01
-corrected: 2014-10-09
-version_adopted: 2011-05-03
+version: 2024-12-01
+version_adopted: 2024-11-26
 adopted: 2024-11-26
 in_force: 2024-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1330/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3500/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun davart l'applicaziun da l'informatica en l'administraziun chantunala dal Grischun (ordinaziun d'informatica, OInf)
+# Ordinaziun davart l'informatica en l'administraziun chantunala
 
-sa basond sin l'art. 43 da la constituziun chantunala[^t-1] e sin ils art. 1 e 2 da la lescha davart l'organisaziun da la regenza e da l'administraziun[^t-2]
+(OInf)
 
-relaschada da la regenza ils 3 da matg 2011
+dals 26-11-2024 (versiun dals 01-12-2024)
 
-I. Disposiziuns generalas
+Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1]
 
-[^t-1]: DG 110.100
-[^t-2]: DG 170.300 1-7-2011 1
+relaschada da la Regenza ils 26 da november 2024
+
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
 **Object**
 
-<sup>1</sup> Questa ordinaziun regla ils princips da l'organisaziun, da la gestiun, da la coordinaziun e da la segirezza sco er las incumbensas e las cumpetenzas tar la planisaziun e tar l'applicaziun da l'informatica en l'administraziun chantunala.
-
-<sup>2</sup> Tar l'informatica en il senn da questa ordinaziun tutgan tut las tecnologias d'infurmaziun, en spezial er la telecommunicaziun.
+<sup>1</sup> Questa ordinaziun fixescha ils princips per il diever da la tecnica d'infurmaziun e da communicaziun (ICT). Ella regla l'organisaziun da l'informatica e da la transfurmaziun digitala sco er la planisaziun, la regulaziun, la retratga, l'acquisiziun ed il manaschi da la ICT.
 
 #### Art. 2
 
 **Champ d'applicaziun**
 
-<sup>1</sup> Questa ordinaziun vala per tut ils departaments, per tut ils posts da servetsch e per tut ils manaschis da l'administraziun chantunala.
+<sup>1</sup> Questa ordinaziun vala per tut ils departaments e posts da servetsch da l'administraziun chantunala sco er per la Chanzlia chantunala.
 
-<sup>2</sup> Questa ordinaziun na vegn betg applitgada per las dretgiras chantunalas e per ils instituts autonoms da dretg public dal chantun sco er areguard sistems d'informatica spezials e sistems tecnics da regulaziun e da direcziun spezials, cunzunt en il sectur da las vias chantunalas.
+<sup>2</sup> L'ordinaziun na vegn betg applitgada per:
 
-<sup>3</sup> Medemamain exceptads èn ils meds d'informatica per l'instrucziun a las scolas chantunalas. En quest reguard po la regenza concluder cundiziuns.
+- a) la communicaziun da func ed applicaziuns / sistems en raits separadas dals servetschs da cybercrime da la Polizia chantunala;
+- b) ils sistems specifics da l'Uffizi da construcziun bassa per las installaziuns da manaschi e da segirezza (IMS) da las vias chantunalas e naziunalas;
+- c) l'informatica per il manaschi da scola da la Scola chantunala grischuna.
+
+<sup>3</sup> Las dretgiras chantunalas, las instituziuns autonomas da dretg public dal chantun sco er autras organisaziuns che utiliseschan medemamain l'informatica da l'administraziun chantunala, vegnan obligadas tras ina cunvegna d'observar las directivas relevantas.
+
+<sup>4</sup> Ulteriuras excepziuns dal champ d'applicaziun vegnan concludidas da la Regenza.
 
 #### Art. 3
 
 **Intent da l'informatica**
 
-<sup>1</sup> L'informatica pussibilitescha in'activitad administrativa raziunala, favuraivla, moderna e segira che s'orientescha als basegns da la clientella.
+<sup>1</sup> L'informatica da l'administraziun chantunala pussibilitescha in'activitad administrativa effizienta, efficazia, economica, moderna, persistenta e segira, ch'è orientada als basegns da la clientella.
 
-<sup>2</sup> L'informatica duai vegnir standardisada e centralisada, per ch'i saja pussaivel da realisar projects cumplessivs en ils secturs da l'informatica e dal e-government en moda economica ed a temp.
+<sup>2</sup> Entaifer l'administraziun sco er en il contact cun la populaziun, cun l'economia e cun autras autoritads vegn pussibilitada ed extendida la liquidaziun da fatschentas en furma digitala, cun duvrar pauc palpiri e senza midada da medium tranter ils process.
+
+## 2. Organisaziun da l'informatica e da la transfurmaziun digitala
 
 #### Art. 4
 
-**Strategia e directivas**
+**Regenza**
 
-<sup>1</sup> La regenza concluda la strategia d'informatica sco er las directivas d'informatica d'impurtanza strategica.
-
-<sup>2</sup> Las ulteriuras directivas vegnan relaschadas da l'uffizi d'informatica.
-
-### II. Organisaziun
+<sup>1</sup> La Regenza concluda la Strategia dad ICT, la Strategia Administraziun digitala sco er directivas d'informatica d'impurtanza strategica u fundamentala.
 
 #### Art. 5
 
-**Cumissiun d'informatica 1. cumpetenza**
+**Cumissiun d'informatica (CInf)**
 
-<sup>1</sup> La cumissiun d'informatica tracta tut las fatschentas d'informatica che han ina impurtanza strategica u ina impurtanza per plirs posts da servetsch e che concernan ils interess generals dal chantun. Ella coordinescha l'applicaziun da las resursas chantunalas d'informatica, giuditgescha dumondas da projects e fa recumandaziuns per lur realisaziun.
+<sup>1</sup> La CInf è il gremi da coordinaziun e da decisiun en connex cun il diever da la ICT. Ella:
 
-<sup>2</sup> La cumissiun d'informatica persequitescha il svilup en il sectur da l'informatica. Ella suttametta a temp las dumondas al departament da finanzas e vischnancas.
+- a) predeliberescha tut las fatschentas d'informatica che vegnan deliberadas da la Regenza, cun excepziun da la Strategia Administraziun digitala;
+- b) concluda strategias tematicas specificas subordinadas en il sectur da l'informatica, resguardond las finamiras strategicas deliberadas da la Regenza;
+- c) examinescha strategias dad ICT che valan specificamain per ils posts da servetsch e ch'èn subordinadas a la Strategia chantunala dad ICT, e po fixar cundiziuns per questas strategias;
+- d) examinescha projects d'informatica sin donn e cust dal quint d'investiziun ubain projects d'informatica che han ina impurtanza strategica u che pertutgan plirs posts da servetsch. Ella fa recumandaziuns e po fixar cundiziuns per la realisaziun;
+- e) concluda mesiras e standards dad ICT che pertutgan plirs posts da servetsch, sche questas mesiras e quests standards han ina tscherta influenza sin l'activitad da las collavuraturas e dals collavuraturs, sin l'organisaziun u sin ils process dal manaschi;
+- f) prenda enconuschientscha da fatschentas dal sectur da l'informatica, en spezial dal portfolio dal project Transfurmaziun digitala ed ICT.
+
+<sup>2</sup> La CInf vegn presidiada da la manadra u dal manader da l'Uffizi d'informatica sco represchentanta u represchentant dal Departament da finanzas e vischnancas. Commembras e commembers da la CInf èn plinavant mintgamai ina represchentanta u in represchentant dals ulteriurs departaments e da la Chanzlia chantunala.
+
+<sup>3</sup> Ils ulteriurs departaments e la Chanzlia chantunala nomineschan sezs lur commembra u commember.
+
+<sup>4</sup> Mintgamai ina represchentanta u in represchentant da la Controlla da finanzas e da las dretgiras chantunalas sco er la manadra u il manader da la Gestiun da l'informatica e la manadra u il manader dal Post da stab Administraziun digitala pon sa participar senza dretg da votar a las sesidas. La CInf po envidar ulteriuras persunas cun funcziun consultativa.
 
 #### Art. 6
 
-**2. cumposiziun**
+**Comité da planisaziun Administraziun digitala (PLA)**
 
-<sup>1</sup> La cumissiun d'informatica vegn presidiada da la secretaria u dal secretari dal departament da finanzas e vischnancas. Sco ulteriuras commembras ed ulteriurs commembers fan mintgamai ina represchentanta u in represchentant dals auters departaments e da la chanzlia chantunala sco er la manadra u il manader da l'uffizi d'informatica part da la cumissiun.
+<sup>1</sup> Il PLA è il gremi directiv per realisar la Strategia Administraziun digitala. Cun la participaziun dals posts da servetsch pertutgads po el en spezial:
 
-<sup>2</sup> Ils departaments e la chanzlia chantunala nomineschan sezs lur commembra u lur commember.
+- a) identifitgar projects interdepartamentals e servetschs da basa e regular l'utilisaziun dal credit d'impegn Administraziun digitala cun priorisar projects interdisciplinars;
+- b) fixar – per projects interdepartamentals e per servetschs da basa – directivas e standards surordinads per la transfurmaziun digitala da l'administraziun chantunala.
 
-<sup>3</sup> Senza dretg da votar sa participeschan mintgamai ina represchentanta u in represchentant da la controlla da finanzas e da las dretgiras chantunalas sco er la manadra u il manader da la gestiun da l'informatica a las sesidas. La cumissiun d'informatica po engaschar ulteriuras persunas cun funcziun consultativa.
+<sup>2</sup> Il PLA vegn presidià da la scheffa u dal schef dal Departament da finanzas e vischnancas. Commembras dal PLA èn plinavant las persunas responsablas per la digitalisaziun (RDig) dals departaments e da la Chanzlia chantunala tenor l'artitgel 9.
+
+<sup>3</sup> Mintgamai ina represchentanta u in represchentant da l'Uffizi d'informatica, da l'Uffizi da persunal e da la Chanzlia chantunala pon sa participar senza dretg da votar a las sesidas. Il PLA po envidar ulteriuras persunas cun funcziun consultativa.
 
 #### Art. 7
 
-**Post da gestiun da l'informatica**
+**Gestiun da l'informatica**
 
-<sup>1</sup> Il post da gestiun da l'informatica è ina partiziun da l'uffizi d'informatica. El:
+<sup>1</sup> La Gestiun da l'informatica è ina partiziun da l'Uffizi d'informatica. Ella:
 
-- a) prepara las fatschentas da la cumissiun d'informatica, maina ses secretariat e realisescha incumbensas e projects attribuids;
-
-- b) fa la planisaziun strategica da l'informatica e dirigia projects d'informatica cumplessivs;
-
-- c) coordinescha la modellaziun e la standardisaziun da las applicaziuns d'informatica e da l'infrastructura da basa. Plinavant porscha ella ses sustegn tar la realisaziun;
-
-**2**
-
-**3**
-
-1-7-2011 d) maina – ensemen cun la persuna incumbensada per il e-government – in portfolio communabel per l'applicaziun e per projects da l'informatica per mauns da la cumissiun d'informatica;
-
-- e) controllescha che las strategias d'informatica dals posts da servetsch correspundian a la strategia chantunala d'informatica e suttametta quellas a la cumissiun d'informatica.
-
-<sup>2</sup> La rolla da la persuna incumbensada per la segirezza da l'informatica vegn ademplida dal post da gestiun da l'informatica.
+- a) prepara las fatschentas da la CInf, surpiglia la planisaziun strategica da l'informatica e la gestiun da projects d'informatica interdisciplinars;
+- b) elavura directivas e standards strategics ed interdisciplinars en connex cun il diever da la ICT;
+- c) administrescha il portfolio dal project interdisciplinar Transfurmaziun digitala ed ICT.
 
 #### Art. 8
 
-**Persuna incumbensada per il e-government**
+**Post da stab Administraziun digitala**
 
-<sup>1</sup> La persuna incumbensada per il e-government appartegna a la chanzlia chantunala.
-
-<sup>2</sup> Ella procura che la strategia dad e-government vegnia sviluppada vinavant e realisada en moda coordinada.
+<sup>1</sup> Il Post da stab Administraziun digitala è domicilià tar il Departament da finanzas e vischnancas. El coordinescha la realisaziun da la Strategia Administraziun digitala.
 
 #### Art. 9
 
-**Gestiunaris d'informatica**
+**Persunas responsablas per la digitalisaziun (RDig)**
 
-<sup>1</sup> Ils gestiunaris chantunals d'informatica furneschan las prestaziuns en ils secturs da l'implementaziun, da la gestiun e dal support per las unitads administrativas chantunalas.
+<sup>1</sup> Las RDig promovan la transfurmaziun digitala en lur departament respectiv ed en ils posts da servetsch appartegnents respectivamain en la Chanzlia chantunala.
 
-<sup>2</sup> L'uffizi d'informatica è il gestiunari d'informatica central dal chantun.
-
-<sup>3</sup> Il center da cumpetenza dal SIG dal chantun maina l'infrastructura dal sistem d'infurmaziun geografica ed è cumpetent per la gestiun e per la visualisaziun d'infurmaziuns territorialas (geodatas). Il center da cumpetenza dal SIG è ina partiziun da l'uffizi d'agricultura e da geoinfurmaziun.
-
-<sup>4</sup> En il rom da la protecziun dals interess generals dal chantun pon las prestaziuns er vegnir purschidas en spezial a las dretgiras chantunalas, a las vischnancas ed a posts che stattan en ina stretga relaziun cun l'administraziun sco er a terzas persunas, e quai almain per pretschs che cuvran ils custs.
+<sup>2</sup> Ils departaments e la Chanzlia chantunala nomineschan mintgamai ina persuna sco RDig.
 
 #### Art. 10
 
-**Unitads administrativas**
+**Furniturs da servetschs d'informatica**
 
-<sup>1</sup> Mintga unitad administrativa dispona d'ina atgna cumpetenza minimala d'informatica, en spezial en il sectur da las applicaziuns spezialisadas.
+<sup>1</sup> L'Uffizi d'informatica è il furnitur central da servetschs d'informatica ed il gestiunari da servetschs d'informatica da basa da l'administraziun chantunala.
 
-<sup>2</sup> L'administraziun chantunala dispona d'in dumber limità d'unitads administrativas cun ina gronda cumpetenza d'informatica, las qualas furneschan prestaziuns definidas a sasezzas u ad auters posts da servetsch. Ina extensiun da talas activitads è admissibla mo cun il consentiment da la regenza.
+<sup>2</sup> Cun resalva da l'artitgel 5 alinea 1 litera e relascha l'Uffizi d'informatica directivas d'informatica operativas, quai cun la participaziun dals posts pertutgads.
 
-<sup>3</sup> Sch'i sa mussa ch'i dat midadas decisivas tar las cundiziuns generalas, tar las incumbensas u tar il team d'informatica da las unitads administrativas en il senn da l'alinea 2, sto la cumissiun d'informatica examinar, sch'il manaschi d'informatica duai vegnir integrà en l'uffizi d'informatica.
+<sup>3</sup> L'administraziun chantunala dispona plinavant d'in dumber limità da furniturs da servetschs d'informatica specifics che pon furnir prestaziuns definidas. Quai èn:
 
-1-7-2011
+- a) il Center da cumpetenza SIG da l'Uffizi d'agricultura e da geoinfurmaziun en il sectur dal sistem d'infurmaziun geografica dal Grischun;
+- b) la Polizia chantunala en il sectur «Autoritads ed organisaziuns da salvament e da segirezza» (AOSS);
+- c) l'Uffizi da construcziun bassa en il sectur da servetschs d'informatica specifics, en spezial per incumbensa da l'Uffizi federal da vias (UVIAS).
 
-<sup>4</sup> Acquisiziuns novas e cumplementaras impurtantas da cumponentas d'infrastructura sco er d'applicaziuns ston vegnir motivadas dals posts da servetsch e suttamessas a la cumissiun d'informatica, sche questas acquisiziuns duain vegnir manadas dal team d'informatica dal post da servetsch.
-
-### III. Retratga da prestaziuns d'informatica ed acquisiziun
-
-centrala
+<sup>4</sup> Sch'ils interess generals dal chantun vegnan observads, pon ils furniturs da servetschs d'informatica furnir prestaziuns er a terzs, en spezial a las dretgiras chantunalas, a las vischnancas ed ad instanzas che stattan datiers da l'administraziun.
 
 #### Art. 11
 
-**Retratga da prestaziuns d'informatica**
+**Unitads administrativas**
 
-<sup>1</sup> Da princip pon prestaziuns d'informatica vegnir retratgas entaifer u ordaifer l'administraziun. Decisivas per la tscherna èn cunzunt la rentabilitad generala, la segirezza e la protecziun da datas.
+<sup>1</sup> Mintga unitad administrativa dispona d'ina atgna cumpetenza minimala d'informatica. En spezial en il sectur da la tgira e dal mantegniment d'applicaziuns spezialisadas pon las unitads administrativas disponer da cumpetenzas supplementaras d'informatica.
 
-<sup>2</sup> La regenza regla, tge prestaziuns ch'ils gestiunaris d'informatica ston porscher e tge prestaziuns che ston vegnir retratgas dals gestiunaris d'informatica.
+## 3. Retratga da prestaziuns d'informatica ed acquisiziun centrala
 
 #### Art. 12
 
-**Acquisiziun centrala**
+**Retratga da prestaziuns d'informatica**
 
-L'uffizi d'informatica è l'instanza centrala ed unica per l'acquisiziun da meds e da servetschs d'informatica. Las excepziuns vegnan regladas tras l'uffizi d'informatica.
+<sup>1</sup> Prestaziuns d'informatica da basa ston da princip vegnir retratgas tar l'Uffizi d'informatica. Excepziuns ston vegnir preschentadas a la CInf, quai en enclegientscha cun l'Uffizi d'informatica.
 
-### IV. Segirezza da l'informatica e protecziun da datas
+<sup>2</sup> Ulteriuras prestaziuns d'informatica pon vegnir retratgas entaifer u ordaifer l'administraziun. Decisivas per la tscherna èn cunzunt la rentabilitad generala, la standardisaziun, la segirezza da las datas e la protecziun da datas.
 
 #### Art. 13
 
-**Protecziun**
+**Acquisiziun centrala**
 
-<sup>1</sup> Sch'il chantun è responsabel per il caracter confidenzial, per la disponibladad, per l'integritad e per la cumprovabladad da meds d'informatica e da datas, ston quels vegnir protegids cunter perdita e cunter abus.
+<sup>1</sup> L'Uffizi d'informatica definescha directivas per ils servetschs dad ICT sco er standards per products ed è l'instanza centrala ed unica per l'acquisiziun da meds e da servetschs d'informatica. Excepziuns vegnan fixadas en scrit tranter l'Uffizi d'informatica ed ils posts da servetsch pertutgads.
 
-<sup>2</sup> La controlla da las mesiras da protecziun è ina incumbensa permanenta da las unitads administrativas cumpetentas e dals gestiunaris d'informatica.
-
-<sup>3</sup> Per survegliar che las directivas davart la segirezza da l'informatica en l'administraziun chantunala vegnian observadas è cumpetenta la persuna incumbensada per la segirezza da l'informatica dal post da gestiun da l'informatica.
-
-**4**
-
-1-7-2011
-
-### V. Disposiziun finala
+## 4. Segirezza da las datas
 
 #### Art. 14
 
-**Aboliziun dal dretg vertent, entrada en vigur**
+**Segirezza da las datas**
 
-Questa ordinaziun entra en vigur il 1. da zercladur 2011 e remplazza l'ordinaziun dal 1. da fanadur 2001[^14-1].
+<sup>1</sup> Per tut ils sistems e tut las applicaziuns da l'informatica ston esser garantidas ina protecziun adequata da la confidenzialitad sco er la disponibladad, l'integritad e la transparenza.
 
-[^14-1]: CUL 2001, 2227 1-7-2011 5
+<sup>2</sup> La controlla da las mesiras da protecziun è ina incumbensa permanenta da las unitads administrativas cumpetentas e dals furniturs da servetschs d'informatica.
+
+<sup>3</sup> L'incumbensada chantunala u l'incumbensà chantunal per la segirezza da l'informatica è domicilià tar l'Uffizi d'informatica.
+
+<sup>4</sup> L'Uffizi d'informatica elavura directivas generalas davart la segirezza da l'informatica e davart la sensibilisaziun da las collavuraturas e dals collavuraturs.
+
+2024-047
