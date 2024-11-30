@@ -4,13 +4,13 @@ number: "411.211"
 title: Verordnung über die Anstellung und Löhne der Lehrpersonen
 short: VALL
 language: de
-version: 2023-01-01
-valid_until: 2024-11-30
-version_adopted: 2022-11-23
+version: 2024-12-01
+valid_until: 2026-07-31
+version_adopted: 2024-11-13
 adopted: 2004-10-13
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3675/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3679/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3675/pdf_file"
 
 (VALL)
 
-Vom 13.10.2004 (Stand 01.01.2023)
+Vom 13.10.2004 (Stand 01.12.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -156,7 +156,12 @@ beschliesst:
 
 **Vertragsform**
 
-<sup>1</sup> Anstellungsverträge sind schriftlich zu vereinbaren. Dasselbe gilt für Vertragsänderungen, soweit sich die Änderungen nicht aus Gesetz, Dekret oder Verordnung ergeben.
+<sup>1</sup> Anstellungsverträge sind grundsätzlich schriftlich zu vereinbaren.
+
+<sup>1<sup>bis</sup></sup> Ausgenommen von der Schriftlichkeit sind:
+
+- a) Vertragsänderungen, die sich unmittelbar aus Gesetz, Dekret oder Verordnung ergeben,
+- b) Vereinbarungen zwischen Arbeitgeber und Lehrperson über stundenweise Stellvertretungseinsätze bis zu drei Monaten im Rahmen eines bereits bestehenden Anstellungsverhältnisses.
 
 <sup>2</sup> Das Departement Bildung, Kultur und Sport stellt den Anstellungsbehörden Musterverträge und -verfügungen bereit und kann dazu entsprechende Vorgaben machen.
 
@@ -554,9 +559,9 @@ beschliesst:
 
 #### § 43a
 
-**Vaterschaftsurlaub**
+**Urlaub des andern Elternteils**
 
-<sup>1</sup> Der zweiwöchige Vaterschaftsurlaub ist innerhalb von 6 Monaten ab der Geburt des Kindes zu beziehen.
+<sup>1</sup> Der zweiwöchige Urlaub des andern Elternteils ist innerhalb von 6 Monaten ab der Geburt des Kindes zu beziehen.
 
 <sup>2</sup> Während dieses Urlaubs wird der bisherige Lohn bezahlt.
 
@@ -573,7 +578,7 @@ beschliesst:
 <sup>3</sup> Unterrichts-, Berufs- und Schulleitungserfahrungen werden nur angerechnet, wenn sie im Rahmen einer Anstellung gemacht wurden, die
 
 - a) einen Mindestbeschäftigungsgrad von 30 % umfasste,
-- b) eine ununterbrochene Anstellungsdauer von mindestens 180 Tagen einschloss und
+- b) eine ununterbrochene Anstellungsdauer von mindestens 170 Tagen einschloss und
 - c) eine öffentliche oder staatlich anerkannte Schule betraf.
 
 <sup>4</sup> Die Tätigkeit an einer Volkshochschule, im Erwachsenenbereich oder im Verhältnis mit einer privaten Schulung wird im Rahmen der übrigen Erfahrung gemäss Anhang 2 angerechnet.
