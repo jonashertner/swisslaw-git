@@ -4,13 +4,13 @@ number: "410.401"
 title: Verordnung über die Arbeitsverhältnisse der Lehrpersonen an den öffentlichen Schulen
 short: Lehrerverordnung
 language: de
-version: 2024-08-01
-valid_until: 2024-11-30
-version_adopted: 2024-06-04
+version: 2024-12-01
+valid_until: 2025-01-31
+version_adopted: 2024-11-26
 adopted: 2005-10-25
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.401"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1854/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1923/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1854/pdf_file"
 
 (Lehrerverordnung)
 
-Vom 25.10.2005 (Stand 01.08.2024)
+Vom 25.10.2005 (Stand 01.12.2024)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -576,7 +576,7 @@ beschliesst:
 <tr><td>2. Jahr kantonale Intensivbegleitung zum Einstieg in den Lehrberuf; Primarschule</td><td>Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum</td><td>---</td><td>100%</td></tr>
 <tr><td>1. Jahr kantonale Intensivbegleitung zum Einstieg in den Lehrberuf; Sekundarstufe I</td><td>Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum</td><td>Pensum bis 16 Jahreslektionen: 3 Jahreslektionen; Pensum zwischen 17 und 22 Jahreslektionen: 4 Jahreslektionen; Pensum ab 23 Jahreslektionen: 5 Jahreslektionen</td><td>100%</td></tr>
 <tr><td>2. Jahr kantonale Intensivbegleitung zum Einstieg in den Lehrberuf; Sekundarstufe I</td><td>Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum</td><td>---</td><td>100%</td></tr>
-<tr><td>Master Schulische Heilpädagogik</td><td>EDK anerkanntes Lehrdiplom, Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>Kindergartenlehrpersonen: 1.5 Jahreslektionen und 4 Wochen zwecks Verfassen der Masterarbeit; Lehrpersonen der Primarschule und der Sekundarstufe I: 2 Jahreslektionen und 4 Wochen zwecks Verfassen der Masterarbeit</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
+<tr><td>Master Schulische Heilpädagogik</td><td>EDK anerkanntes Lehrdiplom, Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>Kindergartenlehrpersonen: 4.5 Jahreslektionen und 4 Wochen zwecks Verfassen der Masterarbeit; Lehrpersonen der Primarschule und der Sekundarstufe I: 6 Jahreslektionen und 4 Wochen zwecks Verfassen der Masterarbeit</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
 <tr><td>Facherweiterung an einer pädagogischen Hochschule</td><td>EDK anerkanntes Lehrdiplom, Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>1 Jahreslektion</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
 <tr><td>Stufenumstieg an einer pädagogischen Hochschule</td><td>EDK anerkanntes Lehrdiplom, Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>1 Jahreslektion pro 15 ECTS</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
 <tr><td>Stufenerweiterung an einer pädagogischen Hochschule</td><td>EDK anerkanntes Lehrdiplom, Unbefristete Anstellung als Lehrperson im Kanton Schaffhausen, Konferenzpflichtiges Pensum während des gesamten Studiums</td><td>1 Jahreslektion pro 15 ECTS</td><td>100% (exkl. Lehrmittel und Unterrichtsmaterial)</td></tr>
