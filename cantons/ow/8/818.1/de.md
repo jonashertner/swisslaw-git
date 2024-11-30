@@ -4,13 +4,12 @@ number: "818.1"
 title: Veterinärgesetz
 short: VetG
 language: de
-version: 2022-01-01
-valid_until: 2024-11-30
-version_adopted: 2021-06-25
+version: 2024-12-01
+version_adopted: 2024-09-12
 adopted: 2010-12-02
 in_force: 2011-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/818.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1697/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1894/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1697/pdf_file"
 
 (VetG)
 
-vom 02.12.2010 (Stand 01.01.2022)
+vom 02.12.2010 (Stand 01.12.2024)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -275,13 +274,31 @@ beschliesst:
 
 <sup>2</sup> Personen, die einen nach diesem Gesetz melde- oder bewilligungspflichtigen Beruf ausüben, haben Widerhandlungen gegen die Tierschutzgesetzgebung, die ihnen in ihrer beruflichen Tätigkeit bekannt werden, unverzüglich dem Kantonstierarzt oder der Kantonstierärztin zu melden.
 
+## 4a. Massnahmen bei Hunden
+
 #### Art. 26
 
 **Massnahmen bei Hunden**
 
-<sup>1</sup> Der Kanton bezeichnet für verhaltensauffällige Hunde einen Massnahmenkatalog.
+<sup>1</sup> Der Kantonstierarzt oder die Kantonstierärztin ordnet die erforderlichen Massnahmen an, wenn:
 
-<sup>2</sup> In anderen Kantonen rechtskräftig verfügte Massnahmen gelten auch im Kanton Obwalden.
+- a. die Halter und Halterinnen von Hunden ihren Pflichten nicht nachkommen;
+- b. Bissverletzungen gemeldet werden;
+- c. ein schwerwiegender Verdacht einer Bedrohung besteht;
+- d. Verhaltensauffälligkeiten festgestellt werden.
+
+<sup>2</sup> Der Kantonstierarzt oder die Kantonstierärztin kann insbesondere folgende Massnahmen einzeln oder kumulativ anordnen:
+
+- a. Weisungen über die Erziehung, Pflege und Unterbringung des Hundes erlassen;
+- b. Weisungen über die Beaufsichtigung einschliesslich Leinen- und Maulkorbzwang erlassen;
+- c. einen Hund zulasten des Halters oder der Halterin unter Beobachtung stellen;
+- d. einen Wesenstest des Hundes anordnen;
+- e. den Halter oder die Halterin zum Besuch eines Erziehungskurses mit dem Hund verpflichten;
+- f. die Hundehaltung verbieten;
+- g. die Beschlagnahmung des Hundes anordnen;
+- h. die Einschläferung des Hundes anordnen.
+
+<sup>3</sup> In anderen Kantonen rechtskräftig verfügte Massnahmen gelten auch im Kanton Obwalden.
 
 ## 5. Tiergesundheitsberufe und Tierarzneimittel
 
@@ -456,6 +473,8 @@ Ursprüngliche Fundstelle: OGS 2010, 75 und OGS 2011, 3
 
 Geändert durch:
 
-\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
+\- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41),
+
+\- Nachtrag vom 12. September 2024 (OGS 2024, 21), Botschaft und Vorlage des Regierungsrats vom 19. März 2024, Kantonsratssitzungen vom 28. Juni und 12. September 2024 (22.24.05), in Kraft seit 1. Dezember 2024 (OGS 2024, 25)
 
 OGS 2010, 75
