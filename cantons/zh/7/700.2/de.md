@@ -4,11 +4,10 @@ number: "700.2"
 title: Allgemeine Bauverordnung (ABV)
 short: ABV
 language: de
-version: "2021-08-01"
-nachtrag: "114"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 1977-06-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_2-1977_06_22-1978_07_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_2-1977_06_22-1978_07_01-127.html"
 text: pdf
 ---
 
@@ -44,7 +43,7 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Anbauten sind mit einem anderen Gebäude zusammengebaute Gebäude mit einer Grundfläche von höchstens 50 m<sup>2</sup>, deren Gesamthöhe 4,0 m, bei Schrägdächern 5,0 m, nicht überschreitet und die nur Nebennutzflächen enthalten.
 
@@ -126,15 +125,23 @@ Ausstattungen sind Nebeneinrichtungen zu Bauten und Anlagen, wie Spielplätze, R
 
 **3**
 
-1.10. 21 - 114 2. Die Überbauungsziffer (§ 256 PBG)<sup>14</sup>
+- 1\. 1. 25 - 127
+
+- 2\. Die Überbauungsziffer (§ 256 PBG)<sup>14</sup>
 
 **Dem Energiesparen dienende Bauteile**
 
 § 11.<sup>14,</sup> <sup>16</sup> Für verglaste Balkone, Veranden und Loggien sowie Wintergärten und Windfänge ohne heiztechnische Installationen, soweit sie dem Energiesparen dienen, kann die Überbauungsziffer um bis zu 20% der zonengemässen Grundziffer erhöht werden.
 
-- 3\. Die Baumassenziffer (§ 258 PBG)
+- 3\. Die Grünflächenziffer (§ 257 PBG)<sup>20</sup>
 
-§ 12.<sup>15,</sup> <sup>16</sup>
+**Anrechenbare Grünflächen**
+
+§ 12.<sup>15,</sup> <sup>19</sup> <sup>1</sup> Als natürliche Bodenflächen gelten Flächen, die einen natürlichen Bodenaufbau und natürliche Versickerungseigenschaften aufweisen.
+
+<sup>2</sup> Als bepflanzte Bodenflächen gelten Flächen mit einer hinreichenden Humusschicht, die eine dauerhafte Bepflanzung ermöglicht und die nicht regelmässig austrocknet.
+
+- 4\. Die Baumassenziffer (§ 258 PBG)<sup>19</sup>
 
 **Aufteilung der Baumassenziffer**
 
@@ -154,11 +161,9 @@ Ausstattungen sind Nebeneinrichtungen zu Bauten und Anlagen, wie Spielplätze, R
 
 § 18.<sup>8</sup> Der besonderen Nutzung werden die ihr unmittelbar dienenden Räume unter Einschluss der dazugehörigen Erschliessungsflächen und Sanitärräume samt inneren Trennwänden zugerechnet.
 
-§ 19.<sup>6</sup>
+§ 19.<sup>6</sup> § 20.<sup>8</sup> <sup>1</sup> Grenzen Räume für die besondere Nutzung unmittelbar an sonstige Räume oder an gemeinsame Nebenräume und Erschliessungsanlagen, erstreckt sich ihre Fläche bis zur halben Stärke der Trennwand.
 
 **Gemischte Bauten**
-
-§ 20.<sup>8</sup> <sup>1</sup> Grenzen Räume für die besondere Nutzung unmittelbar an sonstige Räume oder an gemeinsame Nebenräume und Erschliessungsanlagen, erstreckt sich ihre Fläche bis zur halben Stärke der Trennwand.
 
 <sup>2</sup> Gemeinsame Nebenräume und Erschliessungsflächen werden nach dem tatsächlichen Verhältnis zwischen besonderer und sonstiger Nutzung aufgeteilt.
 
@@ -194,17 +199,21 @@ Ausstattungen sind Nebeneinrichtungen zu Bauten und Anlagen, wie Spielplätze, R
 
 <sup>2</sup> Zurückliegende Fassadenteile werden durch vorspringende Teile hindurch bis zur äussersten sichtbaren Gebäudekante in oder vor der Fassadenflucht gemessen; vorspringende Teile gelten nur dann als selbstständige Fassadenteile, wenn ihr gegenseitiger Abstand wenigstens der Summe zweier Grundabstände entspricht.
 
+**5**
+
+- 1\. 1. 25 - 127
+
 <sup>3</sup> Bei abgewinkelten oder abgerundeten Fassaden wird die für den Mehrlängenzuschlag massgebende Länge gleich wie bei den seitlich gegliederten Fassaden bestimmt; dabei ist die Abwinklung oder Abrundung als seitlich gegliederte Fassade mit unendlich kleinen Abtreppungen zu betrachten.
 
 **III. Bei Kleinbauten und Anbauten**
 
 § 25.<sup>14,</sup> <sup>16</sup> Kleinbauten und Anbauten fallen bei der Berechnung des Mehrlängenzuschlages ausser Betracht, sofern die Bau- und Zonenordnung nicht etwas anderes bestimmt.
 
-**5**
-
-1.10. 21 - 114 § 26. Der Mehrhöhenzuschlag im Sinne von § 260 Abs. 2 PBG<sup>2</sup> wird rechtwinklig zu den Fassaden und radial über die Gebäudeecken gemessen.
+#### § 26
 
 **D. Mehrhöhenzuschlag**
+
+Der Mehrhöhenzuschlag im Sinne von § 260 Abs. 2 PBG<sup>2</sup> wird rechtwinklig zu den Fassaden und radial über die Gebäudeecken gemessen.
 
 ### VI. Die Fassadenlänge (§ 292 PBG und §§ 6 c und 6 d)<sup>14</sup>
 
@@ -264,17 +273,16 @@ Ausstattungen sind Nebeneinrichtungen zu Bauten und Anlagen, wie Spielplätze, R
 
 - b. sich überdies in einem Gebäudeteil befinden, der äusserlich ähnlich einem Einfamilienhaus in Erscheinung tritt.
 
-§§ 32 a und 33.[^31-3]
-
-§ 33 a.<sup>15</sup>
-
 **7**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127 §§ 32 a und 33.[^31-3]
+
+§ 33 a.[^31-4]
 
 [^31-1]: Fassung gemäss RRB vom 25. September 1991 (OS 52, 44). In Kraft seit 1. Februar 1992 (OS 52, 48).
 [^31-2]: LS 700.1.
 [^31-3]: Aufgehoben durch RRB vom 25. September 1991 (OS 52, 44). In Kraft seit 1. Februar 1992 (OS 52, 48).
+[^31-4]: Aufgehoben durch RRB vom 11. Mai 2016 (OS 72, 60; ABl 2016-05-27). In Kraft seit 1. März 2017.
 
 ### X. Inkrafttreten
 
@@ -309,7 +317,7 @@ Bis zur Anpassung der Bau- und Zonenordnung an die Änderung vom 14. September 2
 
 **11**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 2.1–2.3 Gebäude, Kleinbauten und Anbauten (§§ 2, 2 a ABV)
 
@@ -337,7 +345,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **13**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 3.3 Projizierte Fassadenlinie (§ 6 b ABV)
 
@@ -345,7 +353,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **15**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 3.5 Rückspringende und unbedeutend rückspringende Gebäudeteile (§ 6 d ABV)
 
@@ -355,7 +363,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **17**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 5.2 Fassadenhöhe (§ 278 PBG)
 
@@ -365,7 +373,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **19**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 6.1 Geschosse und Geschosszahl (§ 276 PBG)
 
@@ -373,7 +381,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **21**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 6.3 Dachgeschosse (§ 275 Abs. 2 PBG)
 
@@ -383,7 +391,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **23**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 7.2–7.4 Abstände und Abstandsbereiche (§ 260 PBG)
 
@@ -401,7 +409,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **25**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 7.6 Grenzabstand bei gestaffelten Fassaden (§§ 21–26 ABV)
 
@@ -445,7 +453,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **27**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 7.8 Grenzabstand eines abgerundeten Baukörpers (§§ 21–26 ABV)
 
@@ -499,7 +507,7 @@ C(cid:19)’ B(cid:12)31(cid:12) (cid:20)(cid:10)(cid:7)(cid:10)(cid:9) C(cid:19
 
 **29**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 7.12 Fassadenlänge (§ 260 PBG / § 27 ABV)
 
@@ -555,7 +563,7 @@ $(cid:9)(cid:15)(cid:15)(cid:6)(cid:10)(cid:7)
 
 **31**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 8.1 Anrechenbare Grundstücksfläche (§ 259 PBG)
 
@@ -585,7 +593,7 @@ AG’(cid:12)(cid:3)(cid:7)(cid:11)(cid:12)(cid:26)’(cid:12)(cid:7)(cid:10)(ci
 
 **33**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 ### Figur 8.3 Baumassenziffer (§ 258 PBG)
 
@@ -675,7 +683,7 @@ Der Regierungsrat beschliesst:
 
 **37**
 
-1.10. 21 - 114
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Wird die Konstruktionsstärke der Fassade und des Dachs aufgrund der Wärmedämmung grösser als 35 cm, ist sie nur bis zu diesem Mass zu berücksichtigen.[^12-1]
 
@@ -687,7 +695,7 @@ Der Regierungsrat beschliesst:
 
 - c. verglaste Balkone, Veranden und andere Vorbauten ohne heiztechnische Installationen, soweit sie dem Energiesparen dienen.
 
-[^12-1]: Eingefügt durch RRB vom 10. September 2008 (OS 64, 127; ABl 2008, 1535). In Kraft seit 1. Juli 2009. 1.10. 21 - 114 39
+[^12-1]: Eingefügt durch RRB vom 10. September 2008 (OS 64, 127; ABl 2008, 1535). In Kraft seit 1. Juli 2009. 1. 1. 25 - 127 39
 [^12-2]: Eingefügt durch RRB vom 14. Mai 2003 (OS 58, 199). In Kraft seit 1. Januar 2004 (OS 58, 250).
 [^12-3]: LS 700.1.
 
@@ -754,14 +762,15 @@ Anhang zur Allgemeinen Bauverordnung vom 22. Juni 1977 / 25. September 1991
 - [11] Eingefügt durch RRB vom 14. Mai 2003 (OS 58, 199). In Kraft seit 1. Januar 2004 (OS 58, 250).
 - [12] Eingefügt durch RRB vom 10. September 2008 (OS 64, 127; ABl 2008, 1535). In Kraft seit 1. Juli 2009.
 - [13] Eingefügt durch RRB vom 11. Mai 2016 (OS 72, 60; ABl 2016-05-27). In Kraft seit 1. März 2017.
-- [15] Aufgehoben durch RRB vom 11. Mai 2016 (OS 72, 60; ABl 2016-05-27). In Kraft seit 1. März 2017.
 - [16] Übergangsbestimmungen zur Änderung vom 11. Mai 2016. In Kraft seit 1. März 2017 (siehe Anhang).
 - [17] Fassung gemäss Berichtigung vom 24. April 2019 (OS 74, 188). In Kraft seit 24. April 2019.
-- [18] Fassung gemäss RRB vom 18. März 2020 (OS 76, 263; ABl 2020-03-27). In Kraft seit 1. August 2021. 1.10. 21 - 114 9
+- [18] Fassung gemäss RRB vom 18. März 2020 (OS 76, 263; ABl 2020-03-27). In Kraft seit 1. August 2021.
+- [19] Eingefügt durch RRB vom 14. September 2022 (OS 79, 427; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
+- [20] Fassung gemäss RRB vom 14. September 2022 (OS 79, 427; ABl 2022-09-30). In Kraft seit 1. Dezember 2024. 1. 1. 25 - 127 9
 - [0] (cid:12)/(cid:12)’
 - [4] #2:(cid:12)!(cid:12);(cid:12)4#::(cid:12)!(cid:12)+(cid:12)3#2:(cid:12)! ?#3:(cid:12)!(cid:12)@(cid:12)&gt;#.:(cid:12)!(cid:12)+(cid:12).#2:(cid:12)! ’(cid:12)+(cid:12)4#2:(cid:12)!(cid:12);(cid:12).#2:(cid:12)!(cid:12)+(cid:12)2#::(cid:12)!
 - [3] #2: 2#:: =/6 ’(cid:15)(cid:9)(cid:7)(cid:18)(cid:6)(cid:14)(cid:4)(cid:5)(cid:6)(cid:7)(cid:11)(cid:12)(cid:10)(cid:7)(cid:29)(cid:24)(cid:20)(cid:8)(cid:9)(cid:12)(cid:31)(cid:9)(cid:17)(cid:15)(cid:17),(cid:17)(cid:9)(cid:12)+ (cid:25)(cid:12)+(cid:12)&gt;#.:(cid:12)!
-- [*] 1.10. 21 - 114 35
+- [*] 1. 1. 25 - 127 35
 - [1] OS 46, 770 und GS V, 91.
 - [3] In Kraft seit 1. Juli 1978.
 - [4] Vom Kantonsrat genehmigt am 29. August 1977.
