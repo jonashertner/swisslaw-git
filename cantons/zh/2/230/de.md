@@ -4,11 +4,11 @@ number: "230"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch (EG ZGB)
 short: EG ZGB
 language: de
-version: "2023-07-01"
-nachtrag: "121"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
+valid_until: 2026-01-01
 adopted: 1911-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-230-1911_04_02-1912_01_01-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-230-1911_04_02-1912_01_01-127.html"
 text: pdf
 ---
 
@@ -46,7 +46,7 @@ I. Zivilstandsamt
 
 **1**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Der Regierungsrat kann ein Sonderzivilstandsamt für das ganze Kantonsgebiet gemäss Art. 2 der eidgenössischen Zivilstandsverordnung vom 28. April 2004[^t-3] einrichten.
 
@@ -114,7 +114,7 @@ I. Zivilstandsamt
 
 **3**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
 [^37-1]: LS 833.1.
 [^37-2]: SR 220.
@@ -191,7 +191,7 @@ I. Zivilstandsamt
 
 **5**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
 ### Zweiter Titel: Kantonales Zivilrecht
 
@@ -273,7 +273,7 @@ Bei der Auflösung wird das Vermögen der Korporation an die Mitglieder verteilt
 
 **7**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
 [^hAAllgemeineBestim-1]: SR 210.
 [^hAAllgemeineBestim-2]: LS 232.3.
@@ -364,7 +364,7 @@ Der Staat bezahlt der Gemeinde, welche vier Jahre lang ein Findelkind versorgt h
 
 **9**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
 [^hDBetreibungsrechtl-1]: Fassung gemäss RRB vom 9. September 1987 (OS 50, 210). In Kraft seit 1. Januar 1988.
 [^hDBetreibungsrechtl-2]: Aufgehoben durch RRB vom 9. September 1987 (OS 50, 210). In Kraft seit 1. Januar 1988.
@@ -448,7 +448,7 @@ Der Rechnungsruf ist im Amtsblatt zu veröffentlichen und am Wohnsitz und in der
 
 **11**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Gelangt ein landwirtschaftliches Grundstück von 60 oder mehr Aren zur Teilung, so muss der einzelne Teil mindestens 30 Aren ausmachen.
 
@@ -509,25 +509,19 @@ Wird jemand dadurch, dass ein Grundeigentümer sein Eigentumsrecht überschreite
 
 **13**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
-### II. Pflanzen von Bäumen
+### II. Pflanzen von Sträuchern und Bäumen<sup>85</sup>
 
-#### § 169
-
-<sup>1</sup> Gegen den Willen des Nachbars dürfen Gartenbäume, kleinere Zierbäume, Zwergobstbäume und Sträucher nicht näher als 60 cm an die nachbarliche Grenze gepflanzt werden.
-
-<sup>2</sup> Dieselben müssen überdies bis auf die Entfernung von 4 m von derselben so unter der Schere gehalten werden, dass ihre Höhe nie mehr als das Doppelte ihrer Entfernung beträgt.
+§ 169.<sup>85</sup> Sträucher dürfen gegen den Willen des Nachbarn nicht näher als 50 cm, gemessen ab der Stockmitte, an die nachbarliche Grenze gepflanzt werden.
 
 #### § 170
 
-<sup>1</sup> Einzelne Waldbäume und grosse Zierbäume, wie Pappeln, Kastanienbäume und Platanen, ferner Nussbäume dürfen nicht näher als 8 m, Feldobstbäume und kleinere, nicht unter der Schere zu haltende Zierbäume nicht näher als 4 m von der nachbarlichen Grenze gepflanzt werden. Besteht das angrenzende Grundstück aus Rebland, so ist auch für die Bäume der letzteren Art ein Zwischenraum von 8 m zu beobachten.
+<sup>1</sup> Waldbäume und grosse Zierbäume dürfen gegen den Willen des Nachbarn nicht näher als 4 m, Feldobstbäume und kleinere Zierbäume nicht näher als 2 m, gemessen ab der Stammmitte, an die nachbarliche Grenze gepflanzt werden. Besteht das angrenzende Grundstück aus Rebland, ist ein Abstand von 8 m zu beachten.<sup>85</sup>
 
 <sup>2</sup> Baumschulpflanzungen dürfen nicht näher als 1 m an die nachbarliche Grenze gesetzt werden. Die in § 173 festgesetzte Verjährung läuft nicht, solange die Baumschule besteht.
 
-#### § 171
-
-Besteht das angrenzende Land aus Waldboden, so dürfen Sträucher und Bäume jeder Art nicht näher als 50 cm an der Grenze stehen und fällt die Pflicht, sie unter der Schere zu halten, weg.
+§ 171.<sup>85</sup> Besteht das angrenzende Land aus Waldboden, dürfen Sträucher und Bäume nicht näher als 50 cm an der Grenze stehen.
 
 #### § 172
 
@@ -537,17 +531,15 @@ Besteht das angrenzende Land aus Waldboden, so dürfen Sträucher und Bäume jed
 
 <sup>3</sup> Wird Kulturland in Wald umgewandelt, so ist von benachbartem Kulturland ein Abstand von 8 m, von einer Bauzone ein Abstand von 15 m zu beachten.<sup>48</sup>
 
-§ 173.<sup>48</sup> Die Klage auf Beseitigung von Bäumen und Sträuchern, welche näher an der Grenze stehen, als nach den vorstehenden Bestimmungen gestattet ist, steht nur dem Eigentümer des benachbarten Landes zu; sie verjährt a. nach fünf Jahren seit der Pflanzung des näher stehenden Baumes oder bei Nachzucht von Wald nach dem Abtrieb des alten Bestandes,
+§ 173.<sup>85</sup> Die Klage auf Beseitigung von Sträuchern und Bäumen, die näher an der Grenze stehen, als nach den vorstehenden Bestimmungen gestattet ist, steht nur dem Eigentümer des benachbarten Landes zu. Sie verjährt a. nach fünf Jahren seit der Pflanzung des näher stehenden Strauches oder Baumes oder bei Nachzucht von Wald nach dem Abtrieb des alten Bestandes,
 
 - b. bei Umwandlung von Kulturland in Wald, wenn die für die Waldbeurteilung massgebenden Waldbäume und -sträucher 20 Jahre alt sind.
 
-#### § 174
+§ 174.<sup>85</sup> <sup>1</sup> Sträucher und Bäume, die infolge der Zulassung des Nachbarn oder der Verjährung des Beseitigungsanspruchs näher an der Grenze stehen, sind in ihrem Bestand geschützt.
 
-Bäume, welche infolge des früheren Rechts oder der Zulassung des Nachbars näher an der Grenze stehen, werden zwar in ihrem Bestand geschützt; wenn sie aber abgehen, so tritt für die Neupflanzung und für die Nachzucht wieder die Regel ein.
+<sup>2</sup> Ist die Einhaltung des ordentlichen Abstandes nicht möglich, können Bäume nach dem Abgang innerhalb von zwei Jahren an gleicher Stelle ersetzt werden. Als Ersatz ist ein Baum derselben oder einer geringeren Wuchshöhe zulässig.
 
-#### § 174bis
-
-Gegen das Pflanzen von Bäumen und Sträuchern auf öffentlichen Strassen, Plätzen und Fusswegen kann keine privatrechtliche Einsprache erhoben werden, wenn eine Entfernung von mindestens 5 m von der Verkehrsbaulinie oder der sonstigen Baubegrenzungslinie beobachtet wird. Auf bestehenden derartigen Anlagen dürfen abgehende Bäume und Sträucher auch bei geringerem Abstand durch neue ersetzt werden.
+§ 174<sup>bis</sup>.<sup>86</sup>
 
 ### III. Tretrecht
 
@@ -563,17 +555,15 @@ Die Ufereigentümer an einem Fluss haben den Schifffahrern zu gestatten, sich de
 
 ### V. Einfriedigung
 
-#### § 177
+§ 177.<sup>85</sup> <sup>1</sup> Grünhecken bis zu einer Höhe von 2 m dürfen gegen den Willen des Nachbarn nicht näher als 50 cm, gemessen ab der Stockmitte, von der nachbarlichen Grenze gepflanzt werden.
 
-Grünhecken dürfen gegen den Willen des nachbarlichen Grundeigentümers nicht näher, als die Hälfte ihrer Höhe beträgt, jedenfalls aber nicht näher als 60 cm von der Grenze gehalten werden.
+<sup>2</sup> Grünhecken, die eine Höhe von 2 m überschreiten, sind gegen den Willen des Nachbarn nur zulässig, wenn der Abstand von der nachbarlichen Grenze um die Hälfte der Höhe, die 2 m übersteigt, vergrössert wird.
 
 **15**
 
-- 1\. 7. 23 - 121 § 178. Andere Einfriedigungen, wie sogenannte tote Hecken, Holzwände oder Mauern, welche die Höhe von 150 cm nicht übersteigen, darf der Eigentümer an der Grenze anbringen und daran auch Spaliere ziehen. Wenn die Einfriedigungen aber jene Höhe überschreiten, so kann der Nachbar begehren, dass sie je um die Hälfte der Höhe über 150 cm von der Grenze entfernt werden.
+- 1\. 1. 25 - 127 § 178. Andere Einfriedigungen, wie sogenannte tote Hecken, Holzwände oder Mauern, welche die Höhe von 150 cm nicht übersteigen, darf der Eigentümer an der Grenze anbringen und daran auch Spaliere ziehen. Wenn die Einfriedigungen aber jene Höhe überschreiten, so kann der Nachbar begehren, dass sie je um die Hälfte der Höhe über 150 cm von der Grenze entfernt werden.
 
-#### § 179
-
-Für das Zuschneiden der Grünhecken und die Reparatur von Grenzmauern darf der Eigentümer, insoweit das Bedürfnis ihn dazu nötigt, den Boden des Nachbars betreten, nachdem er ihn hievon in Kenntnis gesetzt hat. Entsteht dem Nachbar ein Schaden, so ist dafür Ersatz zu leisten.
+§ 179.<sup>85</sup> Für das Schneiden der Grünhecken, das Zurückschneiden von Sträuchern und Bäumen und die Reparatur von Grenzmauern darf der Eigentümer soweit nötig den Boden des Nachbarn betreten. Er informiert den Nachbarn vorgängig und ist ihm für Schaden ersatzpflichtig.
 
 ### VI. Weitere Beschränkungen
 
@@ -639,7 +629,7 @@ Gebahnter Wege durch offenes Feld und Wald darf jeder Fussgänger sich bedienen,
 
 **17**
 
-- 1\. 7. 23 - 121 § 186. Wer ein Fahrwegrecht hat, darf auch über den Weg reiten und festgehaltenes (gefangenes) Vieh darüber führen, aber aus dem Fahrwegrecht folgt nicht das Recht, schwere Lasten zu schleifen oder freigelassenes Vieh darüber zu treiben.
+- 1\. 1. 25 - 127 § 186. Wer ein Fahrwegrecht hat, darf auch über den Weg reiten und festgehaltenes (gefangenes) Vieh darüber führen, aber aus dem Fahrwegrecht folgt nicht das Recht, schwere Lasten zu schleifen oder freigelassenes Vieh darüber zu treiben.
 
 #### § 187
 
@@ -689,7 +679,7 @@ e.<sup>47</sup> zugunsten der Gemeinden für die Grundsteuern (§ 208 Steuergese
 
 **19**
 
-- 1\. 7. 23 - 121 § 195.<sup>47</sup> Die gesetzlichen Pfandrechte bedürfen zu ihrer Entstehung keiner Eintragung. Die in § 194 lit. c und f genannten erlöschen jedoch, wenn sie nicht innerhalb von sechs Monaten nach der Fälligkeit der Forderung eingetragen werden, diejenigen nach § 194 lit. e, wenn sie nicht eingetragen werden innerhalb von drei Jahren nach der Handänderung oder bei einer solchen, die keine Eintragung im Grundbuch voraussetzt, seit der Wahrnehmung durch die für die Einschätzung zuständige Steuerbehörde. Die Pfandrechte gemäss § 194 lit. g erlöschen, wenn sie nicht innerhalb von zwei Jahren nach der Fälligkeit des Anspruchs eingetragen werden.
+- 1\. 1. 25 - 127 § 195.<sup>47</sup> Die gesetzlichen Pfandrechte bedürfen zu ihrer Entstehung keiner Eintragung. Die in § 194 lit. c und f genannten erlöschen jedoch, wenn sie nicht innerhalb von sechs Monaten nach der Fälligkeit der Forderung eingetragen werden, diejenigen nach § 194 lit. e, wenn sie nicht eingetragen werden innerhalb von drei Jahren nach der Handänderung oder bei einer solchen, die keine Eintragung im Grundbuch voraussetzt, seit der Wahrnehmung durch die für die Einschätzung zuständige Steuerbehörde. Die Pfandrechte gemäss § 194 lit. g erlöschen, wenn sie nicht innerhalb von zwei Jahren nach der Fälligkeit des Anspruchs eingetragen werden.
 
 [^194-1]: LS 862.1.
 [^194-2]: LS 724.11.
@@ -772,7 +762,7 @@ Der Verkauf der Pfandgegenstände erfolgt ohne vorgängige Betreibung durch das 
 
 **21**
 
-- 1\. 7. 23 - 121 § 208. Gold- und Silbersachen dürfen nicht unter dem Metallwert, der durch Schätzung festzustellen und im Gantprotokoll vorzumerken ist, versteigert werden. Für die Richtigkeit der Schätzung haftet die Gantbeamtung, welche ihrerseits das Gutachten Sachverständiger einzuholen berechtigt ist. Wenn auf der Gant weniger als der Metallwert geboten wird, so soll dieser von der Gantbeamtung durch freihändigen Verkauf erzielt werden.
+- 1\. 1. 25 - 127 § 208. Gold- und Silbersachen dürfen nicht unter dem Metallwert, der durch Schätzung festzustellen und im Gantprotokoll vorzumerken ist, versteigert werden. Für die Richtigkeit der Schätzung haftet die Gantbeamtung, welche ihrerseits das Gutachten Sachverständiger einzuholen berechtigt ist. Wenn auf der Gant weniger als der Metallwert geboten wird, so soll dieser von der Gantbeamtung durch freihändigen Verkauf erzielt werden.
 
 #### § 209
 
@@ -833,7 +823,7 @@ Durch Beschluss des Kantonsrates kann angeordnet werden, dass an Stelle der Bele
 
 **23**
 
-- 1\. 7. 23 - 121 § 222.<sup>71</sup>
+- 1\. 1. 25 - 127 § 222.<sup>71</sup>
 
 [^219-1]: SR 210.
 [^219-2]: LS 252.
@@ -886,7 +876,7 @@ das Testament mit Bezug auf alle darin bedachten Personen und die gesetzlichen E
 
 **25**
 
-- 1\. 7. 23 - 121 § 233. Gefahr und Kosten der Vorlegung trägt der Gesuchsteller.
+- 1\. 1. 25 - 127 § 233. Gefahr und Kosten der Vorlegung trägt der Gesuchsteller.
 
 #### § 234
 
@@ -952,7 +942,7 @@ Die schriftliche Form genügt für den Vertrag, der zwischen dem Enteigner und d
 
 #### § 244
 
-[^244-1]: LS 242.2. 1. 7. 23 - 121 33
+[^244-1]: LS 242.2. 1. 1. 25 - 127 33
 
 #### § 245
 
@@ -960,7 +950,7 @@ Das Obergericht erlässt durch Verordnung[^244-1] nähere Bestimmungen über das
 
 **27**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
 ### B. Beglaubigungen
 
@@ -1027,7 +1017,7 @@ Die Sicherung des Datums einer Privaturkunde erfolgt durch eine vom Beamten auf 
 
 **29**
 
-- 1\. 7. 23 - 121 § 257. Vormundschaften über Personen, deren Aufenthalt unbekannt ist, werden als Beistandschaften fortgeführt.
+- 1\. 1. 25 - 127 § 257. Vormundschaften über Personen, deren Aufenthalt unbekannt ist, werden als Beistandschaften fortgeführt.
 
 #### § 258
 
@@ -1096,7 +1086,7 @@ Ist die Anlegung des Grundbuches für einen Grundbuchkreis vollendet, so wird di
 
 **31**
 
-- 1\. 7. 23 - 121 § 271.<sup>65</sup> <sup>1</sup> Streitigkeiten, die sich bei der Anlegung des Grundbuches über die Eintragung dinglicher Rechte ergeben, werden vom Grundbuchverwalter, wenn ein von ihm anzustellender Sühnversuch erfolglos bleibt, ungeachtet des Streitwerts an das Einzelgericht gewiesen.
+- 1\. 1. 25 - 127 § 271.<sup>65</sup> <sup>1</sup> Streitigkeiten, die sich bei der Anlegung des Grundbuches über die Eintragung dinglicher Rechte ergeben, werden vom Grundbuchverwalter, wenn ein von ihm anzustellender Sühnversuch erfolglos bleibt, ungeachtet des Streitwerts an das Einzelgericht gewiesen.
 
 <sup>2</sup> Das Gericht teilt den rechtskräftigen Entscheid dem Grundbuchverwalter mit.
 
@@ -1206,7 +1196,7 @@ Sind in der Schirmlade einer Vormundschaftsbehörde Wertpapiere hinterlegt, die 
 
 **35**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
 <sup>61</sup> Eingefügt durch G vom 24. September 2007 (OS 62, 595; ABl 2007, 409). In Kraft seit 1. Januar 2008.
 
@@ -1256,9 +1246,13 @@ Sind in der Schirmlade einer Vormundschaftsbehörde Wertpapiere hinterlegt, die 
 
 <sup>84</sup> Aufgehoben durch Gesetz über die Nutzung des Untergrundes vom 25. Mai 2020 (OS 78, 228; ABl 2016-12-02). In Kraft seit 1. Juli 2023.
 
+<sup>85</sup> Fassung gemäss G vom 8. April 2024 (OS 79, 420; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
+
+<sup>86</sup> Aufgehoben durch G vom 8. April 2024 (OS 79, 420; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
+
 **37**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 25 - 127
 
 ## Weitere Fussnoten
 
