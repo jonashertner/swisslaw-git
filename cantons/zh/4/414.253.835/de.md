@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.835"
 title: Studienordnung für den Masterstudiengang Wirtschaftsinformatik an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 2019-08-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_835-2019_08_22-2020_04_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_835-2019_08_22-2020_04_01-127.html"
 text: pdf
 ---
 
@@ -67,7 +66,7 @@ An der ZHAW oder andernorts erworbene ECTS-Credits werden während sechs Jahren 
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 25 - 127
 
 - b. Bachelorabschluss in Business Administration, Vertiefung Wirtschaftsinformatik, im Umfang von 180 ECTS-Credits mit mindestens guten Leistungen. Von den 180 ECTS-Credits müssen mindestens 40 ECTS-Credits aus dem Fachgebiet «Wirtschaftsinformatik» stammen,
 
@@ -138,15 +137,16 @@ Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 Mit der Masterarbeit kann frühestens im dritten Semester begonnen werden.
 
-#### § 12
-
 **Bestehen und Wiederholung von Modulen**
 
-<sup>1</sup> Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,00 beträgt und b. alle nicht benoteten Leistungsnachweise des Moduls bestanden sind.
+§ 12.[^11-1] <sup>1</sup> Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,00 beträgt oder b. das Modul mit «bestanden» bewertet wird.
 
-<sup>2</sup> Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen. Die Studiengangleitung legt Termine und Modalitäten fest.[^12-1]
+<sup>2</sup> Bei benoteten Modulen müssen alle nicht benoteten Leistungsnachweise bestanden sein. Die Modulbeschreibung kann abweichende oder zusätzliche Bestehensvoraussetzungen festhalten.
 
-[^12-1]: Fassung gemäss B vom 8. Juli 2021 (OS 77, 20; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
+<sup>3</sup> Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen. Die Studiengangleitung legt Termine und Modalitäten fest.[^11-2]
+
+[^11-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 412; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
+[^11-2]: Fassung gemäss B vom 8. Juli 2021 (OS 77, 20; ABl 2021-10-29). In Kraft seit 1. Februar 2022.
 
 ### E. Studienabschluss und Masterdiplom
 
@@ -164,7 +164,7 @@ Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsre
 
 **3**
 
-- 1\. 1. 23 - 119 § 15. <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+- 1\. 1. 25 - 127 § 15. <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 **Überzählige ECTS-Credits aus Wahlpflichtmodulen**
 
@@ -210,4 +210,4 @@ bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 25 - 127
