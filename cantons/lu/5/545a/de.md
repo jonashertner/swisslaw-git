@@ -3,20 +3,19 @@ canton: LU
 number: 545a
 title: Studien- und Prüfungsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 language: de
-version: 2024-02-01
-valid_until: 2024-11-30
-version_adopted: 2023-12-13
+version: 2024-12-01
+version_adopted: 2024-10-18
 adopted: 2018-01-24
 in_force: 2018-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/545a"
-pdf: "https://srl.lu.ch/api/de/versions/4171/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4285/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 
-vom 24.01.2018 (Stand 01.02.2024)
+vom 24.01.2018 (Stand 01.12.2024)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -81,15 +80,15 @@ beschliesst:
 
 #### § 6
 
-**Studiendelegierte bzw. Studiendelegierter**
+**Studiendelegierte oder Studiendelegierter**
 
-<sup>1</sup> Die Fakultätsversammlung bestimmt eine hauptamtliche Professorin bzw. einen hauptamtlichen Professor als Studiendelegierte bzw. als Studiendelegierten und umschreibt die Aufgaben.
+<sup>1</sup> Die Fakultätsversammlung bestimmt eine hauptamtliche Professorin oder einen hauptamtlichen Professor als Studiendelegierte oder als Studiendelegierten und umschreibt die Aufgaben.
 
 #### § 7
 
 **Studienausschuss**
 
-<sup>1</sup> Die Fakultätsversammlung kann einzelne Aufgaben einem Ausschuss übertragen, der mindestens aus der Dekanin bzw. dem Dekan und dem Studiendelegierten bzw. der Studiendelegierten besteht. Den Gruppierungen gemäss § 5 des Fakultätsreglements[^7-1] steht jeweils eine Vertretung zu.
+<sup>1</sup> Die Fakultätsversammlung kann einzelne Aufgaben einem Ausschuss übertragen, der mindestens aus der Dekanin oder dem Dekan und der oder dem Studiendelegierten besteht. Den Gruppierungen gemäss § 5 des Organisationsreglements der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern[^7-1] steht jeweils eine Vertretung zu.
 
 [^7-1]: SRL Nr. [545](https://srl.lu.ch/data/545/de)
 
@@ -97,7 +96,7 @@ beschliesst:
 
 **Dekanatsadministration**
 
-<sup>1</sup> Die Dekanatsadministration ist für die Umsetzung dieser Studien- und Prüfungsordnung und der Wegleitungen verantwortlich. Die bzw. der Studiendelegierte kann einzelne Aufgaben an die Dekanatsadministration delegieren.
+<sup>1</sup> Die Dekanatsadministration ist für die Umsetzung dieser Studien- und Prüfungsordnung und der Wegleitungen verantwortlich. Die oder der Studiendelegierte kann einzelne Aufgaben an die Dekanatsadministration delegieren.
 
 ## 3 Zulassungs- und Studienvoraussetzungen
 
@@ -105,7 +104,7 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Für die Zulassung zum Studium gelten die Bedingungen gemäss § 31 des Statuts der Universität Luzern vom 12. Dezember 2001[^9-1] (Universitätsstatut) und den darauf gestützten Zulassungsrichtlinien der Universität Luzern.
+<sup>1</sup> Die Zulassung richtet sich nach § 44 des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^9-1]).
 
 <sup>2</sup> Zu einem Studiengang wird nicht zugelassen, wer in derselben Studienrichtung an einer anderen Hochschule des In- oder Auslandes wegen ungenügender Leistungen endgültig abgewiesen worden ist.
 
@@ -189,7 +188,7 @@ beschliesst:
 
 **Gutachterinnen und Gutachter**
 
-<sup>1</sup> Als Gutachterinnen bzw. Gutachter für Bachelor- und Masterarbeiten kommen Professorinnen und Professoren sowie Dozierende der Fakultät mit Promotion in Frage.
+<sup>1</sup> Als Gutachterinnen und Gutachter für Bachelor- und Masterarbeiten kommen Professorinnen und Professoren sowie Dozierende der Fakultät mit Promotion in Frage.
 
 #### § 17
 
@@ -199,7 +198,7 @@ beschliesst:
 
 <sup>2</sup> Als ungenügend beurteilte Bachelor- und Masterarbeiten können höchstens einmal wiederholt werden.
 
-<sup>3</sup> Die Betreuerin bzw. der Betreuer beurteilt, ob die ungenügende Arbeit überarbeitet werden kann oder ob eine Arbeit mit einem neuen Thema zu verfassen ist. Ein ungenügender erster Versuch der Arbeit wird im Leistungsnachweis als Fehlversuch aufgeführt, die Credits werden nicht als Fehlversuch-Credits gezählt. Ausgenommen sind Fälle von Plagiat oder Ghostwriting (§ 38 Abs. 1<sup>bis</sup>). Die Abgabe der überarbeiteten bzw. der neuen Arbeit erfolgt auf die nächste reguläre Frist. Eine erneut ungenügende Beurteilung hat das endgültige Nichtbestehen der Bachelor- bzw. der Masterarbeit und den Studienausschluss zur Folge (§ 35 Abs. 2).
+<sup>3</sup> Die Betreuerin oder der Betreuer beurteilt, ob die ungenügende Arbeit überarbeitet werden kann oder ob eine Arbeit mit einem neuen Thema zu verfassen ist. Ein ungenügender erster Versuch der Arbeit wird im Leistungsnachweis als Fehlversuch aufgeführt, die Credits werden nicht als Fehlversuch-Credits gezählt. Ausgenommen sind Fälle von Plagiat oder Ghostwriting (§ 38 Abs. 1<sup>bis</sup>). Die Abgabe der überarbeiteten bzw. der neuen Arbeit erfolgt auf die nächste reguläre Frist. Eine erneut ungenügende Beurteilung hat das endgültige Nichtbestehen der Bachelor- bzw. der Masterarbeit und den Studienausschluss zur Folge (§ 35 Abs. 2).
 
 #### § 18
 
@@ -282,7 +281,7 @@ beschliesst:
 
 **Anrechnung extern erbrachter Leistungen**
 
-<sup>1</sup> Die bzw. der Studiendelegierte entscheidet über die Anrechnung von Studienleistungen anderer Hochschulen oder Fakultäten. Sie oder er überprüft dabei die Studienleistungen auf ihre inhaltliche Gleichwertigkeit mit dem Studium an der Fakultät.
+<sup>1</sup> Die oder der Studiendelegierte entscheidet über die Anrechnung von Studienleistungen anderer Hochschulen oder Fakultäten. Sie oder er überprüft dabei die Studienleistungen auf ihre inhaltliche Gleichwertigkeit mit dem Studium an der Fakultät.
 
 <sup>2</sup> Die Anrechnung von Studienleistungen setzt Leistungsnachweise der betreffenden Hochschulen voraus.
 
@@ -352,7 +351,7 @@ beschliesst:
 
 **Verzicht auf Prüfungsantritt und Prüfungsabbruch**
 
-<sup>1</sup> Tritt die Kandidatin bzw. der Kandidat die Prüfung ohne triftigen Grund nicht an, so gilt die Prüfung als nicht bestanden und wird mit der Note 1,0 bewertet. Triftige Gründe sind namentlich eigene, durch Arztzeugnis nachgewiesene Krankheit oder schwere Erkrankung oder Todesfall in der Familie. Details sind in einer Wegleitung geregelt.
+<sup>1</sup> Tritt die Kandidatin oder der Kandidat die Prüfung ohne triftigen Grund nicht an, so gilt die Prüfung als nicht bestanden und wird mit der Note 1,0 bewertet. Triftige Gründe sind namentlich eigene, durch Arztzeugnis nachgewiesene Krankheit oder schwere Erkrankung oder Todesfall in der Familie. Details sind in einer Wegleitung geregelt.
 
 #### § 33
 
@@ -360,7 +359,7 @@ beschliesst:
 
 <sup>1</sup> Hinsichtlich des Ausgleichs von Nachteilen aufgrund einer körperlichen, geistigen oder psychischen Behinderung gelten die Richtlinien der Universität für die Gewährung eines Nachteilausgleichs[^33-1]. Zuständig für die Erteilung ist die oder der Studiendelegierte.
 
-<sup>2</sup> Die bzw. der Studiendelegierte kann bei Vorliegen triftiger Gründe, insbesondere wegen einer anderen Maturitätssprache als Deutsch, die Dauer mündlicher und schriftlicher Prüfungen im Einzelfall auf Gesuch hin angemessen verlängern.
+<sup>2</sup> Die oder der Studiendelegierte kann bei Vorliegen triftiger Gründe, insbesondere wegen einer anderen Maturitätssprache als Deutsch, die Dauer mündlicher und schriftlicher Prüfungen im Einzelfall auf Gesuch hin angemessen verlängern.
 
 [^33-1]: Beschluss des Rektors vom 12. November 2015
 
@@ -391,7 +390,7 @@ beschliesst:
 - c. die Ruhe im Raum absichtlich zu stören,
 - d. weiterzuschreiben, nachdem durch die Prüfungsaufsicht das Ende der Prüfungszeit erklärt worden ist.
 
-<sup>2</sup> Unkorrektheiten haben das Nichtbestehen der Prüfung und die Vergabe der Note 1 zur Folge. Vorbehalten bleiben Sanktionen der Universität gemäss § 36 des Universitätsstatuts[^36-1].
+<sup>2</sup> Unkorrektheiten haben das Nichtbestehen der Prüfung und die Vergabe der Note 1 zur Folge. Vorbehalten bleiben Sanktionen der Universität gemäss § 48 des Universitätsstatuts[^36-1].
 
 [^36-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
@@ -415,7 +414,7 @@ beschliesst:
 
 <sup>3</sup> Wird die Täuschung erst nach Beendigung des Studiums bekannt, kann der verliehene Grad entzogen werden.
 
-<sup>4</sup> Vorbehalten bleiben Sanktionen gemäss § 32 Absatz 2 und § 36 des Universitätsstatuts[^38-1].
+<sup>4</sup> Vorbehalten bleiben Sanktionen gemäss § 48 des Universitätsstatuts[^38-1].
 
 [^38-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
@@ -437,7 +436,7 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Im Hauptfachstudiengang setzt sich die Abschlussnote des Bachelorstudiums als nach Credits gewichteter Durchschnitt der Note des Hauptfachs sowie der Note des Nebenfachs zusammen. Die Berechnung der Note des Hauptfachs erfolgt analog zur Berechnung der Abschlussnote im Monostudiengang (Abs. 1). Die Note des Nebenfachs wird durch die anbietende Fakultät gemäss deren Regelungen berechnet.
 
-<sup>2</sup> Sind extern erbrachte Studienleistungen anzurechnen, legt die bzw. der Studiendelegierte die Zusammensetzung der Gesamtnote fest.
+<sup>2</sup> Sind extern erbrachte Studienleistungen anzurechnen, legt die oder der Studiendelegierte die Zusammensetzung der Gesamtnote fest.
 
 <sup>3</sup> Während des Masterstudiums absolvierte, benotete Auflagen fliessen in die Berechnung der Gesamtnote des Masterstudiums ein. Studienleistungen aus der Mastervorbereitungsstufe (Zulassung zum Master mit Bedingungen) werden bei der Berechnung der Gesamtnote nicht berücksichtigt.
 
