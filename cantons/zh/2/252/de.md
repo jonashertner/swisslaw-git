@@ -3,11 +3,10 @@ canton: ZH
 number: "252"
 title: Verordnung des Obergerichtes über die Geschäftsführung der Grundbuchämter und die Einführung des eidgenössischen Grundbuches (Kantonale Grundbuchverordnung)
 language: de
-version: "2016-07-01"
-nachtrag: "100"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 1958-03-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-252-1958_03_26-1958_07_01-100.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-252-1958_03_26-1958_07_01-127.html"
 text: pdf
 ---
 
@@ -57,7 +56,7 @@ der Grundbucheinrichtungen
 
 **1**
 
-- 1\. 4. 18 - 100
+- 1\. 1. 25 - 127
 
 [^1-1]: Eingefügt durch B vom 2. März 2016 (OS 71, 178; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 [^1-2]: SR 210.
@@ -167,7 +166,7 @@ Ausser den vom Bundesrecht vorgeschriebenen werden folgende kantonale Register u
 
 **3**
 
-- 1\. 4. 18 - 100 § 16. <sup>1</sup> Die von den Grundpfandgläubigern unterzeichneten Doppel
+- 1\. 1. 25 - 127 § 16. <sup>1</sup> Die von den Grundpfandgläubigern unterzeichneten Doppel
 
 **7. Anzeigen an die Grundpfandgläubiger**
 
@@ -277,7 +276,7 @@ sind, nach den Ordnungsnummern geordnet, aufzubewahren. Beim Geschäft (im Tageb
 
 **5**
 
-- 1\. 4. 18 - 100 § 27 a.[^27-1] <sup>1</sup> Verlangt der Grundeigentümer die Aushändigung des gelöschten Pfandtitels, so hat er dessen Empfang zu bescheinigen.
+- 1\. 1. 25 - 127 § 27 a.[^27-1] <sup>1</sup> Verlangt der Grundeigentümer die Aushändigung des gelöschten Pfandtitels, so hat er dessen Empfang zu bescheinigen.
 
 **3. Ausnahmen**
 
@@ -352,18 +351,13 @@ Vor der Aufnahme eines neuen Gebäudes in das Grundbuch hat sich der Grundbuchve
 
 § 35 b. Der Gemeinderat (Bauamt) am Orte der gelegenen Sache ist die zuständige Behörde zur Ausstellung der amtlichen Bestätigung, dass die zu Sonderrecht ausgeschiedenen Räume einer im Stockwerkeigentum stehenden Baute ganz in sich abgeschlossene Wohnungen oder geschäftlichen oder andern Zwecken dienende Raumeinheiten mit eigenem Zugange seien (Art. 33 b Abs. 2 und 33 c Abs. 3 der eidgenössischen Grundbuchverordnung[^35-2].
 
-§§ 35 c und 35 d.[^35-3]
-
-§§ 35 e–35 k.[^35-4]
-
 [^35-1]: Aufgehoben durch V vom 8. Dezember 1993 (OS 52, 640).
 [^35-2]: SR 211.432.1.
-[^35-3]: Aufgehoben durch B vom 15. Dezember 2004 (OS 60, 127). In Kraft seit 1. Januar 2005.
-[^35-4]: Aufgehoben durch B vom 2. März 2016 (OS 71, 178; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+[^35-3]: Fassung gemäss B vom 18. September 2024 (OS 79, 401; ABl 2024-09-27). In Kraft seit 1. Dezember 2024. 1. 1. 25 - 127 23
 
-### Zweiter Abschnitt: Elektronische Auskunft und Einsichtnahme,
+### Zweiter Abschnitt: Elektronischer Datenzugang und elektronischer Datenaustausch
 
-elektronischer Datenaustausch[^hZweiterAbschnittE-1]
+[^35-3]
 
 [^hZweiterAbschnittE-1]: Eingefügt durch B vom 2. März 2016 (OS 71, 178; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 
@@ -371,27 +365,46 @@ elektronischer Datenaustausch[^hZweiterAbschnittE-1]
 
 [^hZweiterAbschnittE-1]
 
-**I. Grundsatz**
+**I. Öffentlicher Zugang**
 
-§ 35 c.[^hADatenzuganghZwe-1] Der Kanton kann ein elektronisches System für die Auskunft über Grundbuchdaten betreiben oder die Grundbuchdaten über eine Trägerorganisation im Sinne des Bundesrechts zur Verfügung stellen.
+§ 35 c.[^hADatenzuganghZwe-1],[^hADatenzuganghZwe-2] <sup>1</sup> Die nach GBV[^hADatenzuganghZwe-3] ohne Interessennachweis zugänglichen Daten des Hauptbuchs werden im Internet zusammen mit der dem Grundbuchamt bekannten Adresse der Eigentümerschaft öffentlich zugänglich gemacht. Davon ausgenommen ist das Geburtsdatum.
 
-**II. Erweiterter Zugang**
+<sup>2</sup> Für die Regelung der Zugangsmodalitäten, einschliesslich Sperrung von Nutzenden bei missbräuchlichem Gebrauch, ist das Notariatsinspektorat zuständig. Es kann die Überwachung und Durchsetzung dieser Regeln an eine andere Verwaltungsbehörde oder einen privaten Aufgabenträger delegieren.
 
-§ 35 d.[^hADatenzuganghZwe-1] <sup>1</sup> Das Notariatsinspektorat entscheidet über die Berechtigung zum erweiterten Zugang im Sinne der GBV.
+<sup>3</sup> Jede Eigentümerin und jeder Eigentümer kann die Sperrung ihrer oder seiner Eigentümerdaten im Internet verlangen.
 
 **7**
 
-- 1\. 4. 18 - 100
+- 1\. 1. 25 - 127 § 35 d.[^hADatenzuganghZwe-1],[^hADatenzuganghZwe-2] <sup>1</sup> Der erweiterte elektronische Zugang im Sinne der GBV kann über eine kantonale Plattform oder unter Beizug eines privaten Aufgabenträgers gewährt werden.
 
-<sup>2</sup> Es schliesst mit Behörden und Privaten, die erstmalig einen Antrag zur Erteilung eines Zugriffsrechtes stellen, eine Vereinbarung ab. Es kann die Befugnis zum Abschluss der Vereinbarungen an die Trägerorganisation delegieren.
+**II. Erweiterter Zugang**
 
-<sup>3</sup> Die Vereinbarung nennt die Rechtsgrundlagen und regelt in Ergänzung zu den Vorgaben gemäss GBV die organisatorischen Pflichten der zugriffsberechtigten Person und die Folgen der Verletzung sowie die Frage der Gewährleistung.
+<sup>2</sup> Erweiterten elektronischen Zugang können beantragen:
 
-[^hADatenzuganghZwe-1]: Eingefügt durch B vom 2. März 2016 (OS 71, 178; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+- a. Behörden des Bundes, der Kantone und der Gemeinden zu den Daten, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen,
+
+- b. Urkundspersonen und ihre Hilfspersonen,
+
+- c. Nachführungsgeometerinnen und Nachführungsgeometer und ihre Hilfspersonen,
+
+- d. Banken, Vorsorgeeinrichtungen, Versicherungen und die weiteren Institutionen im Sinne von Art. 28 Abs. 1 Bst. b und b<sup>bis</sup> GBV,
+
+- e. Grundstückeigentümerinnen und Grundstückeigentümer sowie weitere Personen im Sinne von Art. 28 Abs. 1 Bst. d GBV,
+
+- f. Immobilienverwalterinnen und Immobilienverwalter im Sinne von Art. 28 Abs. 1 Bst. e GBV.
+
+<sup>3</sup> Für die Einräumung, den definitiven Entzug und die Regelung der Zugangsmodalitäten ist das Notariatsinspektorat zuständig. Es kann diese Befugnisse an eine andere Verwaltungsbehörde oder einen privaten Aufgabenträger delegieren.
+
+<sup>4</sup> Zu den Belegen wird kein elektronischer Zugang gewährt.
+
+[^hADatenzuganghZwe-1]: Aufgehoben durch B vom 15. Dezember 2004 (OS 60, 127). In Kraft seit 1. Januar 2005.
+[^hADatenzuganghZwe-2]: Eingefügt durch B vom 18. September 2024 (OS 79, 401; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
+[^hADatenzuganghZwe-3]: SR 211.432.1.
+[^hADatenzuganghZwe-4]: Eingefügt durch B vom 2. März 2016 (OS 71, 178; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 
 ### B. Elektronischer Datenaustausch
 
-[^hADatenzuganghZwe-1]
+[^hADatenzuganghZwe-4]
 
 **Datenaustausch**
 
@@ -409,7 +422,7 @@ elektronischer Datenaustausch[^hZweiterAbschnittE-1]
 
 § 35 f.[^hCBezugvonDatend-1] <sup>1</sup> Der Zugriff auf Daten der Gebäudeversicherung des Kantons Zürich durch die Grundbuchämter kann im Abrufverfahren erfolgen.
 
-<sup>2</sup> Die Grundbuchämter können im Rahmen ihrer Grundbuchführung durch direkten elektronischen Zugriff insbesondere folgende Daten von der Gebäudeversicherung des Kantons Zürich erheben: die Gebäudenummer, die Gemeinde/ das Quartier, die Gebäudeadresse(n), den Gebäude-Zweck, die Spezialnutzung, das Erstellungsjahr, das Volumen, das Schätzungsdatum, den Schätzungsgrund, die Versicherungssumme, die Versicherungsart, den aktuellen GVZ-Index, den Basiswert, die Bauzeitversicherungssumme sowie den Vertreter.
+<sup>2</sup> Die Grundbuchämter können im Rahmen ihrer Grundbuchführung durch direkten elektronischen Zugriff insbesondere folgende Daten von der Gebäudeversicherung des Kantons Zürich erheben: die Gebäudenummer, die Gemeinde / das Quartier, die Gebäudeadresse(n), den Gebäude-Zweck, die Spezialnutzung, das Erstellungsjahr, das Volumen, das Schätzungsdatum, den Schätzungsgrund, die Versicherungssumme, die Versicherungsart, den aktuellen GVZ-Index, den Basiswert, die Bauzeitversicherungssumme sowie den Vertreter.
 
 <sup>3</sup> Sie beschränken die Zahl der Zugriffsberechtigten, schützen den Zugriff und sorgen für dessen Protokollierung.
 
@@ -421,27 +434,31 @@ elektronischer Datenaustausch[^hZweiterAbschnittE-1]
 
 **I. Gebühren**
 
-§ 35 g.[^hDGebührenundInka-1] Die Gebühren für den erweiterten Zugang und die Erstellung von elektronischen Auszügen richten sich nach der Notariatsgebührenverordnung vom 9. März 2009[^hDGebührenundInka-2].
+§ 35 g.[^hDGebührenundInka-1], <sup>29</sup> Die Gebühren für den erweiterten Zugang und die Erstellung von elektronischen Auszügen richten sich nach der Notariatsgebührenverordnung vom 9. März 2009[^hDGebührenundInka-2] und den ergänzenden Weisungen der Finanzdirektion.
 
 **II. Inkasso**
 
-§ 35 h.[^hDGebührenundInka-1] <sup>1</sup> Das Inkasso der Gebühren kann der Trägerorganisation übertragen werden. Diese sorgt für die elektronische Rechnungsstellung und die Überweisung der Gebührenerträge an die zuständige kantonale Stelle.
+§ 35 h.[^hDGebührenundInka-1],[^hDGebührenundInka-3] <sup>1</sup> Das Inkasso der Gebühren kann einer Verwaltungsbehörde oder einem privaten Aufgabenträger übertragen werden. Diese oder dieser sorgt für die elektronische Rechnungsstellung und die Überweisung der Gebührenerträge an die zuständige kantonale Stelle.
 
-<sup>2</sup> Das Notariatsinspektorat regelt das Inkasso mit der Trägerorganisation durch Vertrag. Dieser bedarf der Zustimmung der Finanzdirektion.
+<sup>2</sup> Das Notariatsinspektorat regelt die Übertragung des Inkassos durch Vertrag. Dieser bedarf der Zustimmung der Finanzdirektion.
 
-[^hDGebührenundInka-1]: Eingefügt durch B vom 2. März 2016 (OS 71, 178; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+§§ 35 i und 35 k.[^hDGebührenundInka-4]
+
+[^hDGebührenundInka-1]: Aufgehoben durch B vom 15. Dezember 2004 (OS 60, 127). In Kraft seit 1. Januar 2005.
 [^hDGebührenundInka-2]: LS 243.
+[^hDGebührenundInka-3]: Eingefügt durch B vom 18. September 2024 (OS 79, 401; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
+[^hDGebührenundInka-4]: Aufgehoben durch B vom 2. März 2016 (OS 71, 178; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
+[^hDGebührenundInka-5]: Fassung gemäss B vom 2. März 2016 (OS 71, 178; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
 
-### Dritter Abschnitt: Die kantonale Übergangsordnung
+### Dritter Abschnitt: Die kantonale Übergangsordnung bis zur Einführung des eidgenössischen Grundbuches
 
-bis zur Einführung des eidgenössischen Grundbuches[^hDritterAbschnittD-1]
+[^hDGebührenundInka-5]
 
-[^hDritterAbschnittD-1]: Fassung gemäss B vom 2. März 2016 (OS 71, 178; ABl 2016-03-18). In Kraft seit 1. Juli 2016.
-[^hDritterAbschnittD-2]: Redaktionell berichtigt. 1. 4. 18 - 100 23
+[^hDritterAbschnittD-1]: Redaktionell berichtigt.
 
 ### A. Grundprotokoll
 
-[^hDritterAbschnittD-2]
+[^hDritterAbschnittD-1]
 
 [^hAGrundprotokollh-1]: SR 210.
 [^hAGrundprotokollh-2]: LS 230.
@@ -454,11 +471,11 @@ bis zur Einführung des eidgenössischen Grundbuches[^hDritterAbschnittD-1]
 
 <sup>2</sup> Das Grundprotokoll wird nach den Vorschriften des eidgenössischen Grundbuchrechtes geführt, soweit sich aus § 37 keine Abweichungen ergeben.
 
-#### § 37
+**9**
+
+- 1\. 1. 25 - 127 § 37. <sup>1</sup> Im Grundprotokoll werden die Eigentumsänderungen (ausgenommen Erbgänge) protokolliert.
 
 **II. Nachführung**
-
-<sup>1</sup> Im Grundprotokoll werden die Eigentumsänderungen (ausgenommen Erbgänge) protokolliert.
 
 <sup>2</sup> Erbgänge, beschränkte dingliche Rechte, Vormerkungen und Anmerkungen werden beim letzten Grundprotokolleintrag in gleicher Weise wie im Grundbuch (mit kurzem Text oder Titel mit Zitat) eingeschrieben. Zur Ergänzung wird das Servitutenprotokoll geführt.
 
@@ -474,13 +491,13 @@ bis zur Einführung des eidgenössischen Grundbuches[^hDritterAbschnittD-1]
 
 Für Gemeinden, in denen die Grundbucheinführung nach den Bestimmungen des Vierten[^hBVorbereitungder-1] Abschnittes noch nicht stattfinden kann, ist die Überleitung in das eidgenössische Grundbuch vorzubereiten, insbesondere durch Teilbereinigungen und allenfalls durch Übertragung der Grundstücke in das Grundregister (§ 44).
 
-**9**
-
-- 1\. 4. 18 - 100 § 39. Der Grundbuchverwalter soll nach Möglichkeit die Rechtsverhältnisse an den Grundstücken bereinigen, indem er durch Verständigung unter den Beteiligten eine Neufassung unklarer und die Löschung bedeutungslos gewordener Einträge herbeizuführen sucht.
-
-#### § 40
+#### § 39
 
 **II. Teilbereinigungen 1. Aufgabe**
+
+Der Grundbuchverwalter soll nach Möglichkeit die Rechtsverhältnisse an den Grundstücken bereinigen, indem er durch Verständigung unter den Beteiligten eine Neufassung unklarer und die Löschung bedeutungslos gewordener Einträge herbeizuführen sucht.
+
+#### § 40
 
 **2. Einvernahmen**
 
@@ -558,35 +575,35 @@ Das Obergericht ordnet auf Antrag oder nach Anhören des Grundbuchverwalters die
 
 Voraussetzung ist das Vorhandensein eines eidgenössisch anerkannten Vermessungswerkes. Vorbehalten bleibt § 266 Abs. 1 zweiter Satz EG zum ZGB[^47-1].
 
-#### § 49
+**11**
+
+- 1\. 1. 25 - 127 § 49. <sup>1</sup> Die Einführung des Grundbuches erfolgt grundsätzlich für das gesamte Gebiet einer politischen Gemeinde, in den Städten Zürich und Winterthur nach Quartieren.
 
 **III. Umfang**
-
-<sup>1</sup> Die Einführung des Grundbuches erfolgt grundsätzlich für das gesamte Gebiet einer politischen Gemeinde, in den Städten Zürich und Winterthur nach Quartieren.
 
 <sup>2</sup> Wo das Vermessungswerk nur über einen Teil des Gemeindegebietes vorliegt und der übrige Teil deutlich erkennbar abgegrenzt ist (z.B. Berggebiet, Waldpartie, Rebberggebiet usw.), kann das Obergericht anordnen, dass die Einführung des Grundbuches auf den vermessenen Gemeindeteil beschränkt und für den übrigen Teil die Übergangsordnung beibehalten wird.
 
 **IV. Bereinigung**
 
-§ 50.[^49-1] <sup>1</sup> Die Bereinigung und Einführung des Grundbuches kann einer Person übertragen werden, die sich ausschliesslich oder vorwiegend dieser Aufgabe widmet.
+§ 50.[^48-1] <sup>1</sup> Die Bereinigung und Einführung des Grundbuches kann einer Person übertragen werden, die sich ausschliesslich oder vorwiegend dieser Aufgabe widmet.
 
 <sup>2</sup> Über den Stand der Bereinigung erstattet der Grundbuchverwalter dem Obergericht je auf Ende eines Kalenderjahres Bericht.
 
-[^49-1]: Fassung gemäss B vom 15. Dezember 2004 (OS 60, 127). In Kraft seit 1. Januar 2005.
+[^48-1]: Fassung gemäss B vom 15. Dezember 2004 (OS 60, 127). In Kraft seit 1. Januar 2005.
 
 #### § 51
 
 **V. Anzeigen**
 
-<sup>1</sup> Anordnung, Umfang und Abschluss der Grundbucheinführung werden vom Obergericht dem Regierungsrat, dem Bezirksgericht, dem Bundesamt für Justiz (Eidgenössisches Amt für Grundbuch- und Bodenrecht), dem Bundesamt für Landestopografie (Eidgenössisches Vermessungsamt) und der Baudirektion (Amt für Raumordnung) mitgeteilt.[^49-1]
+<sup>1</sup> Anordnung, Umfang und Abschluss der Grundbucheinführung werden vom Obergericht dem Regierungsrat, dem Bezirksgericht, dem Bundesamt für Justiz (Eidgenössisches Amt für Grundbuch- und Bodenrecht), dem Bundesamt für Landestopografie (Eidgenössisches Vermessungsamt) und der Baudirektion (Amt für Raumordnung) mitgeteilt.[^48-1]
 
 <sup>2</sup> Der Grundbuchverwalter macht die gleiche Mitteilung an den Nachführungsgeometer.
 
-**11**
-
-- 1\. 4. 18 - 100 § 52. Bei Handänderungen unterrichtet der Grundbuchverwalter den Erwerber über den Stand der Bereinigung.
+#### § 52
 
 **VI. Handänderungen**
+
+Bei Handänderungen unterrichtet der Grundbuchverwalter den Erwerber über den Stand der Bereinigung.
 
 ### B. Durchführung der Bereinigung
 
@@ -604,11 +621,9 @@ Der Anlegung des Grundbuches geht eine Bereinigung der Grundprotokolle und Grund
 
 <sup>2</sup> Sie bezieht sich auf die vor dem 1. Januar 1912 entstandenen Rechtsverhältnisse. Wo es sich als wünschbar erweist, soll auch eine Neuordnung der später begründeten dinglichen Rechte durch Verständigung der Parteien angestrebt werden.
 
-§ 55.[^54-1]
+§ 55.[^54-1] § 56. <sup>1</sup> Der Grundbuchverwalter lädt jeden Eigentümer oder dessen gesetzlichen Vertreter zur Einvernahme über die Rechtsverhältnisse an seinen Grundstücken vor, sofern dessen Grundstücke einer Bereinigung bedürfen. Er hat bei der Festsetzung der Einvernahmen auf die Bedürfnisse der Beteiligten gebührend Rücksicht zu nehmen.[^54-2]
 
 **IV. Mitwirkung der Grundeigentümer und Dritter 1. Einvernahme der Grundeigentümer a. Ort und Zeit**
-
-§ 56. <sup>1</sup> Der Grundbuchverwalter lädt jeden Eigentümer oder dessen gesetzlichen Vertreter zur Einvernahme über die Rechtsverhältnisse an seinen Grundstücken vor, sofern dessen Grundstücke einer Bereinigung bedürfen. Er hat bei der Festsetzung der Einvernahmen auf die Bedürfnisse der Beteiligten gebührend Rücksicht zu nehmen.[^54-2]
 
 <sup>2</sup> Wo es zur Klärung der Rechtsverhältnisse notwendig ist, soll die Einvernahme mit einem Augenschein auf dem Grundstück verbunden werden.
 
@@ -644,6 +659,10 @@ Durch die Einvernahme und den Augenschein wird der Übergang der alten Beschreib
 
 <sup>1</sup> Soweit notwendig sind auch Dritte, wie frühere Eigentümer, Nachbarn, Architekten, Geometer, Bauunternehmer, Installateure usw., um Auskunft und um die Überlassung von Plankopien usw. anzugehen, z.B. für die Ermittlung des Verlaufes von Quellfassungen, Durchleitungen usw.
 
+**13**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Kommen auskunftspflichtige Dritte ihren Pflichten nicht nach, ordnet der Grundbuchverwalter mittels Verfügung die Herausgabe der betreffenden Akten an oder lädt den auskunftspflichtigen Dritten zur Einvernahme vor.[^60-1]
 
 **5. Zwangsmittel**
@@ -663,13 +682,13 @@ Durch die Einvernahme und den Augenschein wird der Übergang der alten Beschreib
 
 <sup>2</sup> Sind Grundstücke nicht auf den Namen des derzeitigen Eigentümers eingetragen (z.B. wegen Erbganges), so veranlasst der Grundbuchverwalter die Beteiligten zur Beschaffung der notwendigen Ausweise und zur Abgabe der erforderlichen Anmeldungen.
 
-**13**
-
-- 1\. 4. 18 - 100 § 63. Findet sich für ein Grundstück weder im Grundprotokoll noch im Grundregister ein Eintrag, so darf ein Ansprecher nur gestützt auf einen Ausweis über den rechtmässigen Erwerb als Eigentümer eingetragen werden.
-
-#### § 64
+#### § 63
 
 **2. In den Büchern nicht enthaltene Grundstücke**
+
+Findet sich für ein Grundstück weder im Grundprotokoll noch im Grundregister ein Eintrag, so darf ein Ansprecher nur gestützt auf einen Ausweis über den rechtmässigen Erwerb als Eigentümer eingetragen werden.
+
+#### § 64
 
 **3. Bedeutungslose Einträge**
 
@@ -740,6 +759,10 @@ Anzustreben ist die Überführung der bisherigen Einträge in eine den tatsächl
 
 <sup>2</sup> Ortsangaben (vorn, hinten, oben, unten usw.) sind auf die ihnen auf dem Lokal zukommende Bedeutung, nötigenfalls durch Augenschein, zu überprüfen.
 
+**15**
+
+- 1\. 1. 25 - 127
+
 <sup>3</sup> Im Dienstbarkeitsvertrag ist auch das im Grundbuch einzutragende Stichwort aufzuführen.
 
 #### § 73
@@ -750,21 +773,22 @@ Anzustreben ist die Überführung der bisherigen Einträge in eine den tatsächl
 
 <sup>2</sup> Die Beschaffung solcher Pläne ist für alle unterirdischen Anlagen (Quellfassungen, Quelleinzugsgebiet, Durchleitungen aller Art usw.) anzustreben. Hiefür sind die bei den Beteiligten oder bei Dritten (Geometern, Bauunternehmern usw.) erhältlichen Unterlagen beizuziehen (§ 60).
 
-**15**
+[^73-1]: LS 230.
 
-- 1\. 4. 18 - 100 § 74. Wird ein altrechtlicher Protokolleintrag von einem Beteiligten als hinfällig bezeichnet oder vom Grundbuchverwalter selber als bedeutungslos erkannt und weigert sich der aus dem Protokoll ersichtliche Berechtigte, seine Zustimmung zur Löschung zu erteilen, so ist das Verfahren gemäss § 271 EG zum ZGB[^73-1] einzuleiten.
+#### § 74
 
 **5. Bedeutungslose Einträge a. Streitfälle**
 
+Wird ein altrechtlicher Protokolleintrag von einem Beteiligten als hinfällig bezeichnet oder vom Grundbuchverwalter selber als bedeutungslos erkannt und weigert sich der aus dem Protokoll ersichtliche Berechtigte, seine Zustimmung zur Löschung zu erteilen, so ist das Verfahren gemäss § 271 EG zum ZGB[^73-1] einzuleiten.
+
 **b. Verfahren**
 
-§ 75.[^73-2] <sup>1</sup> Der Grundbuchverwalter führt eine Sühnverhandlung durch, bei der die Art. 201, 202, 203, 204 und 205 Abs. 1 ZPO[^73-3] sinngemäss anzuwenden sind. Bleibt sie erfolglos, so leitet er die Streitigkeit mit einem Bericht von Amtes wegen an das Einzelgericht im ordentlichen Verfahren beim Bezirksgericht der gelegenen Sache weiter.
+§ 75.[^74-1] <sup>1</sup> Der Grundbuchverwalter führt eine Sühnverhandlung durch, bei der die Art. 201, 202, 203, 204 und 205 Abs. 1 ZPO[^74-2] sinngemäss anzuwenden sind. Bleibt sie erfolglos, so leitet er die Streitigkeit mit einem Bericht von Amtes wegen an das Einzelgericht im ordentlichen Verfahren beim Bezirksgericht der gelegenen Sache weiter.
 
-<sup>2</sup> Die Zuweisung der Parteirollen und die Umschreibung des Streitbegehrens hat der Grundbuchverwalter so vorzunehmen, dass auch bei einem Abstand von der Prozessführung ein für das Grundbuch eindeutiges Ergebnis eintritt (Art. 223, 234 ZPO[^73-3].
+<sup>2</sup> Die Zuweisung der Parteirollen und die Umschreibung des Streitbegehrens hat der Grundbuchverwalter so vorzunehmen, dass auch bei einem Abstand von der Prozessführung ein für das Grundbuch eindeutiges Ergebnis eintritt (Art. 223, 234 ZPO[^74-2].
 
-[^73-1]: LS 230.
-[^73-2]: Fassung gemäss B vom 3. November 2010 (OS 65, 860; ABl 2010, 2525). In Kraft seit 1. Januar 2011.
-[^73-3]: SR 272.
+[^74-1]: Fassung gemäss B vom 3. November 2010 (OS 65, 860; ABl 2010, 2525). In Kraft seit 1. Januar 2011.
+[^74-2]: SR 272.
 
 #### § 76
 
@@ -832,30 +856,30 @@ Sind verpfändete Grundstücke mit Bezug auf Eigentum, Dienstbarkeiten und Grund
 
 <sup>2</sup> Der Grundbuchverwalter kann im Einvernehmen mit dem Pfandschuldner und nötigenfalls ohne ihn für die Neuplatzierung der Hypotheken sorgen. Ist diese gesichert, so erlässt er die Kündigungen im Sinne von § 267 EG zum ZGB[^84-1].
 
-[^84-1]: LS 230.
+**17**
 
-#### § 85
+- 1\. 1. 25 - 127 § 85. <sup>1</sup> Es ist die Neuerrichtung der alten Pfandrechte mit neuem Datum unter Inanspruchnahme der alten Pfandstelle anzustreben und hiefür die Zustimmung der am Rangverhältnis Beteiligten einzuholen.
 
 **3. Ausstellung neuer Pfandtitel**
 
-<sup>1</sup> Es ist die Neuerrichtung der alten Pfandrechte mit neuem Datum unter Inanspruchnahme der alten Pfandstelle anzustreben und hiefür die Zustimmung der am Rangverhältnis Beteiligten einzuholen.
+<sup>2</sup> Andernfalls sind unübersichtliche oder schadhafte Pfandtitel mit altem Datum nach den Vorschriften der eidgenössischen Grundbuchverordnung[^84-2] neu auszustellen.
 
-<sup>2</sup> Andernfalls sind unübersichtliche oder schadhafte Pfandtitel mit altem Datum nach den Vorschriften der eidgenössischen Grundbuchverordnung[^85-1] neu auszustellen.
+[^84-1]: LS 230.
+[^84-2]: SR 211.432.1.
 
-**17**
-
-- 1\. 4. 18 - 100 § 86. In den übrigen Pfandtiteln sind die sich aus der Bereinigung ergebenden Änderungen nachzutragen. Unwesentliche Ergänzungen (Angabe der Katasternummer, kleine Massdifferenzen) können bei späterer Gelegenheit in den Titeln nachgetragen werden.
-
-[^85-1]: SR 211.432.1.
-[^85-2]: LS 230.
-
-#### § 87
+#### § 86
 
 **4. Ergänzung der übrigen Pfandtitel**
 
+In den übrigen Pfandtiteln sind die sich aus der Bereinigung ergebenden Änderungen nachzutragen. Unwesentliche Ergänzungen (Angabe der Katasternummer, kleine Massdifferenzen) können bei späterer Gelegenheit in den Titeln nachgetragen werden.
+
+[^86-1]: LS 230.
+
+#### § 87
+
 **5. Rangverhältnisse**
 
-Bestreitet ein Grundpfandgläubiger den allfällig beanspruchten Vorrang von neu einzutragenden oder abzuändernden Lasten, so veranlasst der Grundbuchverwalter die gerichtliche Feststellung im Verfahren gemäss § 271 EG zum ZGB[^85-2] und § 75 dieser Verordnung.
+Bestreitet ein Grundpfandgläubiger den allfällig beanspruchten Vorrang von neu einzutragenden oder abzuändernden Lasten, so veranlasst der Grundbuchverwalter die gerichtliche Feststellung im Verfahren gemäss § 271 EG zum ZGB[^86-1] und § 75 dieser Verordnung.
 
 **6. Verfügung gegen säumige Pfandgläubiger**
 
@@ -892,7 +916,9 @@ Sobald die Bereinigung abgeschlossen ist, für alle Grundstücke die neue Beschr
 
 «Grundbucheinführung für die Gemeinde (Stadtquartier) …
 
-Aufruf und Fristansetzung Das Obergericht des Kantons Zürich hat mit Beschluss vom … für die politische Gemeinde (das Stadtquartier) … die Einführung des eidgenössischen Grundbuches angeordnet. Die zu diesem Zwecke bereinigten kantonalen Grundprotokolle (Grundregister), die Hilfsbücher, Verzeichnisse und Belege liegen den Beteiligten während eines Monates (d. h. bis zum … ) zur Einsicht auf.
+Aufruf und Fristansetzung Das Obergericht des Kantons Zürich hat mit Beschluss vom … für die politische Gemeinde (das Stadtquartier) … die Einführung des eidgenössischen Grundbuches angeordnet.
+
+Die zu diesem Zwecke bereinigten kantonalen Grundprotokolle (Grundregister), die Hilfsbücher, Verzeichnisse und Belege liegen den Beteiligten während eines Monates (d. h. bis zum … ) zur Einsicht auf.
 
 Einwendungen wegen Mangelhaftigkeit oder Unrichtigkeit sind innerhalb der Auflagefrist beim Grundbuchamt schriftlich zu erheben. Wer an privaten oder öffentlichen Grundstücken dingliche Rechte beansprucht, die vor dem 1. Januar 1912 ohne Eintragung entstanden sind, wird aufgefordert, diese Rechte während der Auflagefrist beim Grundbuchamt schriftlich anzumelden, sofern dies nicht schon im Bereinigungsverfahren geschehen ist. Dies gilt vor allem für Dienstbarkeiten, die sich in körperlichen Anstalten darstellen, wie überragende Bauten, ausgelegte Wege, Quellfassungen, Leitungen usw.»
 
@@ -903,6 +929,12 @@ Einwendungen wegen Mangelhaftigkeit oder Unrichtigkeit sind innerhalb der Auflag
 **III. Erledigung der Anmeldungen und Einwendungen**
 
 § 92. Erfolgen aufgrund des Aufrufes noch Anmeldungen oder Einwendungen, so behandelt sie der Grundbuchverwalter wie die anlässlich der Einvernahme geltend gemachten Rechte und Bestreitungen.
+
+**1. 1.**
+
+**19**
+
+25 - 127
 
 ### D. Anlegung des Grundbuches
 
@@ -916,11 +948,9 @@ Einwendungen wegen Mangelhaftigkeit oder Unrichtigkeit sind innerhalb der Auflag
 
 <sup>3</sup> Auf dem Hauptbuchblatt von Eisenbahngrundstücken ist in der Abteilung «Grundpfandrechte» auf das Eidgenössische Eisenbahnpfandbuch zu verweisen. Im informatisierten Grundbuch erfolgt der Hinweis in den Bemerkungen zum Eigentum.[^93-2]
 
-**19**
-
-- 1\. 4. 18 - 100 § 94. <sup>1</sup> Das Grundbuch wird auf losen Blättern angelegt.
-
 **II. Anlegung der Grundbuchblätter 1. Verfahren**
+
+§ 94. <sup>1</sup> Das Grundbuch wird auf losen Blättern angelegt.
 
 <sup>2</sup> Vorhandene lose Grundregisterblätter können mit Bewilligung des Obergerichtes, sofern sie keine Einträge aus dem früheren kantonalen Recht enthalten, unter entsprechender Änderung der Bezeichnung als Grundbuchblatt verwendet werden.
 
@@ -1004,6 +1034,10 @@ Wo das Grundbuch schon eingeführt ist, sind die öffentlichen Grundstücke und 
 
 § 100 c.[^100a-2]
 
+**21**
+
+- 1\. 1. 25 - 127
+
 [^100a-1]: Fassung gemäss B vom 3. November 2010 (OS 65, 860; ABl 2010, 2525). In Kraft seit 1. Januar 2011.
 [^100a-2]: Aufgehoben durch B vom 3. November 2010 (OS 65, 860; ABl 2010, 2525). In Kraft seit 1. Januar 2011.
 
@@ -1027,10 +1061,6 @@ Mit dem Inkrafttreten[^hBSchlussbestimmung-1] dieser Verordnung treten die folge
 **II. Inkraftsetzung**
 
 Nach Genehmigung durch den Bundesrat (Art. 949 Abs. 2, Art. 953, Art. 962 Abs. 2 ZGB[^101-1] und Art. 108 GBV[^101-2] setzt die Verwaltungskommission des Obergerichtes den Tag des Inkrafttretens[^101-3] dieser Verordnung fest.
-
-**21**
-
-- 1\. 4. 18 - 100
 
 ### Übergangsbestimmungen zur Änderung vom 2. März 2016
 
