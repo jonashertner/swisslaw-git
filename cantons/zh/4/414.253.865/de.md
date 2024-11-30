@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.865"
 title: Studienordnung für den Masterstudiengang Accounting and Controlling an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 2015-12-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_865-2015_12_10-2016_05_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_865-2015_12_10-2016_05_01-127.html"
 text: pdf
 ---
 
@@ -25,11 +24,11 @@ beschliesst:
 
 [^t-1]: OS 71, 125; Begründung siehe ABl 2016-02-26. Vom Fachhochschulrat genehmigt am 9. Februar 2016.
 [^t-2]: Inkrafttreten: 1. Mai 2016.
-[^t-3]: LS 414.252.3. 1. 1. 23 - 119 3
+[^t-3]: LS 414.252.3.
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 1. 23 - 119 3
+[^hAAllgemeineBestim-1]: LS 414.252.3.
 
 #### § 1
 
@@ -112,51 +111,47 @@ Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 ### D. Prüfungen und andere Leistungsnachweise
 
-#### § 9
+**Modulbewertung**
 
-**Modulbewertung und Nachbesserung**
+§ 9.[^hDPrüfungenundand-1] <sup>1</sup> Dein Modul ist bestanden, wenn a. die Modulnote mindestens 4,00 beträgt oder b. das Modul mit «bestanden» bewertet wird.
 
-<sup>1</sup> Sämtliche Module sind zu benoten.
+<sup>2</sup> Bei benoteten Modulen müssen alle nicht benoteten Leistungsnachweise bestanden sein. Die Modulbeschreibung kann abweichende oder zusätzliche Bestehensvoraussetzungen festhalten.
 
-<sup>2</sup> Für einzelne Leistungsnachweise kann auch die Bewertung «bestanden» oder «nicht bestanden» vergeben werden.
+**Nachbesserung**
 
-<sup>3</sup> Eine Nachbesserung ist nur für Projektarbeiten und die Masterarbeit möglich, sofern dies in der Modulbeschreibung festgehalten ist und der nicht bestandene Leistungsnachweis mindestens mit der Note 3,50 bewertet wurde. Nach erfolgter Nachbesserung kann höchstens die Note 4,00 vergeben werden.[^9-1]
+§ 10.[^hDPrüfungenundand-1] Eine Nachbesserung ist nur für Projektarbeiten und die Masterarbeit möglich, sofern dies in der Modulbeschreibung festgehalten ist und der nicht bestandene Leistungsnachweis mindestens mit der Note 3,50 bewertet wurde. Nach erfolgter Nachbesserung kann höchstens die Note 4,00 vergeben werden.
 
 **Expertinnen und Experten**
 
-§ 10. <sup>1</sup> Expertinnen und Experten können zur Beurteilung von Leistungsnachweisen, insbesondere von Masterarbeiten und Praxisprojekten, herangezogen werden.[^9-1]
+§ 11.[^hDPrüfungenundand-2] <sup>1</sup> Expertinnen und Experten können zur Beurteilung von Leistungsnachweisen, insbesondere von Masterarbeiten und Praxisprojekten, herangezogen werden.[^hDPrüfungenundand-3]
 
 <sup>2</sup> Expertinnen und Experten haben bei der Bewertung eine beratende Funktion.
 
 **Wiederholung von Modulen**
 
-§ 11.[^9-2] Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des Moduls wiederholen. Die Studiengangleitung legt Termine und Modalitäten fest.
+§ 12.[^hDPrüfungenundand-2] Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des Moduls wiederholen. Die Studiengangleitung legt Termine und Modalitäten fest.
 
-[^9-1]: Fassung gemäss B vom 23. August 2018 (OS 74, 40; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-[^9-2]: Fassung gemäss B vom 22. August 2019 (OS 75, 53; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hDPrüfungenundand-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 415; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
+[^hDPrüfungenundand-2]: Nummerierung gemäss B vom 5. September 2024 (OS 79, 415; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
+[^hDPrüfungenundand-3]: Fassung gemäss B vom 23. August 2018 (OS 74, 40; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 
 ### E. Studienabschluss und Masterdiplom
 
 **Titel**
 
-§ 12.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Accounting and Controlling» abgeschlossen.
-
-[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 522; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
-[^hEStudienabschluss-2]: Fassung gemäss B vom 23. August 2018 (OS 74, 40; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-
-#### § 13
+§ 13.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Accounting and Controlling» abgeschlossen.
 
 **Abschluss des Studiums**
 
-Der Mastertitel wird vergeben, wenn a.[^hEStudienabschluss-2] alle erforderlichen Pflichtmodule bestanden und b. 90 ECTS-Credits[^hEStudienabschluss-2] erreicht sind.
+§ 14.[^hEStudienabschluss-1] Der Mastertitel wird vergeben, wenn a.[^hEStudienabschluss-2] alle erforderlichen Pflichtmodule bestanden und b. 90 ECTS-Credits[^hEStudienabschluss-2] erreicht sind.
 
 **Abschlussnote**
 
-§ 14.[^13-1] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
+§ 15.[^hEStudienabschluss-1] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
 
 **Überzählige ECTS-Credits aus Wahlpflichtmodulen**
 
-§ 15.[^13-2] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+§ 16.[^hEStudienabschluss-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 <sup>2</sup> Die Studienleitung regelt,
 
@@ -164,10 +159,14 @@ Der Mastertitel wird vergeben, wenn a.[^hEStudienabschluss-2] alle erforderliche
 
 - b. wie die Studierenden bei der Wahl der Module bestimmen, welche Wahlpflichtmodule überzählig sind.
 
+**3**
+
+- 1\. 1. 23 - 119
+
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-[^13-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 53; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^13-2]: Eingefügt durch B vom 22. August 2019 (OS 75, 53; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hEStudienabschluss-1]: Nummerierung gemäss B vom 5. September 2024 (OS 79, 415; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
+[^hEStudienabschluss-2]: Fassung gemäss B vom 23. August 2018 (OS 74, 40; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 
 ### Anhang zur Studienordnung für den Masterstudiengang Accounting and Controlling an der Zürcher Hochschule für Angewandte Wissenschaften
 
@@ -184,3 +183,5 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 ## Weitere Fussnoten
 
 - [4] Eingefügt durch B vom 3. November 2016 (OS 72, 122; ABl 2017-01-13). In Kraft seit 1. April 2017.
+- [8] Eingefügt durch B vom 22. August 2019 (OS 75, 53; ABl 2019-11-01). In Kraft seit 1. April 2020.
+- [10] Fassung gemäss B vom 2. Juni 2022 (OS 77, 522; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
