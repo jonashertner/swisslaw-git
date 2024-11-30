@@ -4,13 +4,13 @@ number: "115.11"
 title: Reglement über die Ausübung der politischen Rechte
 short: PRR
 language: de
-version: 2019-07-01
-valid_until: 2024-11-30
-version_adopted: 2019-06-04
+version: 2024-12-01
+valid_until: 2026-06-30
+version_adopted: 2024-11-05
 adopted: 2001-07-10
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/115.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6204/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8074/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Politische Rechte – R
 
 (PRR)
 
-vom 10.07.2001 (Fassung in Kraft getreten am 01.07.2019)
+vom 10.07.2001 (Fassung in Kraft getreten am 01.12.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -117,7 +117,7 @@ beschliesst:
 
 **Aufgabenteilung und Aufsicht über die Urnengänge (Art. 10 und 11 PRG)**
 
-<sup>1</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft ist durch das Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen für die Aufgaben in Zusammenhang mit der Gesetzgebung über die Ausübung der politischen Rechte zuständig.
+<sup>1</sup> Die Direktion der Institutionen und der Land- und Forstwirtschaft ist für die Aufgaben in Zusammenhang mit der Gesetzgebung über die Ausübung der politischen Rechte zuständig.
 
 <sup>2</sup> Die Staatskanzlei ist für die Arbeiten in Zusammenhang mit der Durchführung der Urnengänge und ihrer Auszählung, insbesondere für die Vorbereitung der Einberufungsbeschlüsse, die Veröffentlichung der Ergebnisse sowie die Wahl und die Implementierung von Computersoftware, zuständig.
 

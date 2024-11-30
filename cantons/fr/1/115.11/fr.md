@@ -4,13 +4,13 @@ number: "115.11"
 title: "Règlement sur l'exercice des droits politiques"
 short: REDP
 language: fr
-version: 2019-07-01
-valid_until: 2024-11-30
-version_adopted: 2019-06-04
+version: 2024-12-01
+valid_until: 2026-06-30
+version_adopted: 2024-11-05
 adopted: 2001-07-10
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/115.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6204/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8074/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Droits politiques – R
 
 (REDP)
 
-du 10.07.2001 (version entrée en vigueur le 01.07.2019)
+du 10.07.2001 (version entrée en vigueur le 01.12.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -117,7 +117,7 @@ Arrête:
 
 **Répartition des tâches et surveillance des scrutins (art. 10 et 11 LEDP)**
 
-<sup>1</sup> La Direction des institutions, de l'agriculture et des forêts, par le Service des affaires institutionnelles, des naturalisations et de l'état civil, accomplit les tâches en lien avec la législation sur l'exercice des droits politiques.
+<sup>1</sup> La Direction des institutions, de l'agriculture et des forêts accomplit les tâches en lien avec la législation sur l'exercice des droits politiques.
 
 <sup>2</sup> La Chancellerie d'Etat accomplit les tâches relatives au déroulement des scrutins et à leur dépouillement, en particulier la préparation des arrêtés de convocation, la publication des résultats ainsi que le choix et l'implantation des logiciels informatiques.
 
