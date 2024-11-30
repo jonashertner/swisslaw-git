@@ -4,11 +4,10 @@ number: "701.12"
 title: Verordnung über die Darstellung von Nutzungsplänen (VDNP)
 short: VDNP
 language: de
-version: "2020-06-01"
-nachtrag: "109"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 2016-05-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-701_12-2016_05_11-2016_08_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-701_12-2016_05_11-2016_08_01-127.html"
 text: pdf
 ---
 
@@ -58,7 +57,7 @@ Nutzungspläne, die inhaltlich oder in der Darstellung vom genehmigten Nutzungsp
 
 **1**
 
-- 1\. 7. 20 - 109
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Zur Orientierung wird im Grundzonenplan der Übersichtsplan hinterlegt. Für Ergänzungspläne kann je nach gewähltem Massstab der Übersichtsplan oder der Plan für das Grundbuch hinterlegt werden.
 
@@ -144,7 +143,7 @@ gezonte Hochleistungsstrassen und Eisenbahnareale.
 
 ### C. Ergänzungspläne
 
-[^hCErgänzungspläne-1]: Fassung gemäss RRB vom 17. April 2019 (OS 75, 294; ABl 2019-05-03). In Kraft seit 1. Juni 2020.
+[^hCErgänzungspläne-1]: Fassung gemäss RRB vom 25. September 2024 (OS 79, 426; ABl 2024-10-11). In Kraft seit 1. Dezember 2024.
 
 #### § 10
 
@@ -162,7 +161,7 @@ gezonte Hochleistungsstrassen und Eisenbahnareale.
 
 - g. Aussichtsschutz (EP 7),
 
-- h. Baumschutz und Begrünung (EP 8),
+- h. Bäume und Begrünung (EP 8),
 
 - i. Aussenantennen (EP 9),
 
@@ -176,7 +175,11 @@ gezonte Hochleistungsstrassen und Eisenbahnareale.
 
 - n. öffentliche Gestaltungspläne (EP 14),
 
-- o. private Gestaltungspläne (EP 15).
+- o. private Gestaltungspläne (EP 15),
+
+- p. Stellung und äussere Abmessungen von Bauten (EP 16),
+
+- q. Uferbereiche (EP 17).
 
 <sup>2</sup> Die Gemeinden können Inhalte der Ergänzungspläne, soweit dies zweckmässig ist, zusammengefasst darstellen.
 
@@ -184,7 +187,7 @@ gezonte Hochleistungsstrassen und Eisenbahnareale.
 
 **3**
 
-- 1\. 7. 20 - 109
+- 1\. 1. 25 - 127
 
 ### D. Übergangsbestimmung
 
@@ -194,11 +197,11 @@ Die Bestimmungen dieser Verordnung sind auf alle Nutzungsplanungen anwendbar, di
 
 ### Anhang zur Verordnung über die Darstellung von Nutzungsplänen
 
-**1. 7. 20**
+**1. 1. 25**
 
 **5**
 
-- 109
+- 127
 
 ### Lesehilfe
 
@@ -284,11 +287,11 @@ Seite = 2 mm Abstand = 4 mm
 
 ### Plan für das Grundbuch
 
-**1. 7. 20**
+**1. 1. 25**
 
 **7**
 
-- 109
+- 127
 
 ### C. Kommunale Zonen
 
@@ -344,11 +347,11 @@ C/M/Y/K Fläche
 
 ### Zentrumszonen 7 Vollgeschosse
 
-**1. 7. 20**
+**1. 1. 25**
 
 **9**
 
-- 109
+- 127
 
 **Farbcode**
 
@@ -434,11 +437,11 @@ eingeschränktem Handels- und
 
 ### Industriezonen ohne Handels- und Dienstleistungsgewerbe
 
-**1. 7. 20**
+**1. 1. 25**
 
 **11**
 
-- 109
+- 127
 
 **Farbcode**
 
@@ -518,11 +521,11 @@ Rotation = 90° Versatz = 3 mm 100/30/0/20 0.40 ausgezogen
 
 Rotation = 90° Versatz = 3 mm 70/100/0/0 0.40 ausgezogen
 
-**1. 7. 20**
+**1. 1. 25**
 
 **13**
 
-- 109
+- 127
 
 **Farbcode Linien-**
 
@@ -594,11 +597,11 @@ Rotation = 0° Versatz = 3 mm 0/0/0/80 ausgezogen
 
 **0.40**
 
-**1. 7. 20**
+**1. 1. 25**
 
 **15**
 
-- 109
+- 127
 
 **Farbcode Linien-C/M/Y/K dicke**
 
@@ -656,11 +659,11 @@ kantonale und regionale Freihaltezonen 30/0/60/0
 
 kantonale Landwirtschaftszonen
 
-**1. 7. 20**
+**1. 1. 25**
 
 **17**
 
-- 109
+- 127
 
 **FCa/Mrb/cYo/Kde Ldiicnkieen-**
 
@@ -700,11 +703,11 @@ Fläche Umrandung Definition Bandierung
 
 beantragte Festlegungen Bandierung innenliegend Breite = 0.4 mm 56/13/0/0 Breite = 0.8 mm 0/0/0/0 Breite = 0.4 mm
 
-**1. 7. 20**
+**1. 1. 25**
 
 **19**
 
-- 109
+- 127
 
 ### H. Liniendarstellungen
 
@@ -780,11 +783,11 @@ rechtskräftige Liniendarstellungen(cid:3) Entsprechende Linienart gegebenenfall
 
 noch nicht rechtskräftigen Baulinien-(cid:3) vorlage sind
 
-**1. 7. 20**
+**1. 1. 25**
 
 **21**
 
-- 109
+- 127
 
 **Farbcode Linien-C/M/Y/K dicke Fläche in mm Umrandung**
 
@@ -836,15 +839,16 @@ rechtskräftige Baulinien gemäss § 96 Abs. 2 PBG Besondere Zwecke bei Verkehrs
 
 **RRB Nr. 2351/1998**
 
-**1. 7. 20**
+**1. 1. 25**
 
 **23**
 
-- 109
+- 127
 
 ## Weitere Fussnoten
 
 - [1] OS 71, 246; Begründung siehe ABl 2016-05-27.
 - [2] Inkrafttreten: 1. August 2016.
 - [3] LS 700.1.
+- [4] Fassung gemäss RRB vom 17. April 2019 (OS 75, 294; ABl 2019-05-03). In Kraft seit 1. Juni 2020.
 - [45] °/135° Abstand = 4 mm
