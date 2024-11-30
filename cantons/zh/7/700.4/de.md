@@ -4,10 +4,10 @@ number: "700.4"
 title: Verkehrserschliessungsverordnung (VErV)
 short: VErV
 language: de
-nachtrag: "109"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 2019-04-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_4-2019_04_17-2020_06_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_4-2019_04_17-2020_06_01-127.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ In dieser Verordnung bedeuten:
 
 **1**
 
-- 1\. 7. 20 - 109
+- 1\. 1. 25 - 127
 
 - f. Auswirkungen: alle sich aus der Grundstücknutzung ergebenden Emissionen körperlicher und unkörperlicher Art, namentlich durch Gegenstände, Wasser, Schnee, Staub, Verschmutzungen, Lärm, Licht und Gase,
 
@@ -159,7 +159,7 @@ Kann eine verkehrssichere Ausgestaltung nicht durch bauliche Massnahmen erreicht
 
 **3**
 
-- 1\. 7. 20 - 109
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Der Gemeindevorstand kann für dicht besiedelte Siedlungsteile, die mit öffentlichen Verkehrsmitteln gut erschlossen sind, die zulässigen Wohneinheiten für die jeweilige Zufahrtsart bis zu den Höchstwerten gemäss Anhang 1 festlegen. Er publiziert seinen Beschluss.
 
@@ -273,7 +273,7 @@ an Ausfahrten
 
 **5**
 
-- 1\. 7. 20 - 109 § 21. <sup>1</sup> Durch bauliche Massnahmen sind von der Strasse abzugrenzen:
+- 1\. 1. 25 - 127 § 21. <sup>1</sup> Durch bauliche Massnahmen sind von der Strasse abzugrenzen:
 
 **Abtrennungen von der Strasse**
 
@@ -335,25 +335,32 @@ Die erforderlichen Sichtbereiche sind dauernd freizuhalten.
 
 <sup>2</sup> Fehlt in Strassenabschnitten ein normgerechter Schutz für Fussgängerinnen und Fussgänger, kann zur Gewährleistung der Verkehrssicherheit die Einhaltung eines Abstandes von bis zu 0,5 m angeordnet werden.
 
-#### § 27
+**Abstände von Pflanzen a. im Allgemeinen**
 
-**Abstände von Pflanzen**
+§ 27.[^26-1] <sup>1</sup> Für Bäume gelten folgende Abstände, gemessen ab der Mitte des Stammes:
 
-<sup>1</sup> Bei Pflanzen gelten folgende Abstände von der Strassengrenze:
+- a. 2 m gegenüber der Strassengrenze innerorts,
 
-- a. bei Bäumen 4 m, gemessen ab der Mitte des Stammes,
+- b. 4 m gegenüber der Strassengrenze ausserorts,
 
-- b. bei anderen Pflanzen ein Abstand, bei dem sie nicht in den Lichtraum hineinragen, bei Sträuchern und Hecken aber mindestens 0,5 m.
+- c. 0,5 m gegenüber Fusswegen, freigeführten Trottoirs und Velowegen.
 
-<sup>2</sup> Der Abstand von Bäumen kann auf 2 m verringert werden:
+<sup>2</sup> Bei anderen Pflanzen gilt ein Abstand, bei dem sie nicht in den Lichtraum hineinragen, bei Sträuchern und Hecken aber mindestens 0,5 m, gemessen ab der Stockmitte.
 
-- a. gegenüber Fusswegen, freigeführten Trottoirs, Velowegen und Strassen, die vorwiegend dem Quartierverkehr oder dem Verkehr der Anwohnerinnen und Anwohner dienen,
+**b. Verringerung**
 
-- b. im Interesse des Ortsbildes.
+§ 27 a.[^26-2] <sup>1</sup> Werden die Anforderungen an die Verkehrssicherheit, insbesondere die Sichtweiten und die Lichtraumprofile, eingehalten, kann der Abstand von Bäumen verringert werden:
 
-<sup>3</sup> Der Werkträger kann die Verringerung des Abstandes von einem Unterhaltsvertrag abhängig machen.
+- a. innerorts, sofern der Strassenkörper und die Leitungen nicht beeinträchtigt werden,
 
-<sup>4</sup> In den Fällen von Abs. 2 kann die entschädigungslose Beseitigung von Bäumen verlangt werden, wenn die Verkehrssicherheit nicht gewährleistet ist.
+- b. ausserorts im Interesse des Orts- oder des Landschaftsschutzes auf 2 m.
+
+<sup>2</sup> Der Werkträger kann die Verringerung des Abstandes von einem Unterhaltsvertrag abhängig machen.
+
+<sup>3</sup> Ist die Verkehrssicherheit nicht mehr gewährleistet, kann die entschädigungslose Beseitigung der Bäume angeordnet werden.
+
+[^26-1]: Fassung gemäss RRB vom 14. September 2022 (sOS 79, 429; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
+[^26-2]: Eingefügt durch RRB vom 14. September 2022 (OS 79, 429; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
 
 #### § 28
 
@@ -371,66 +378,70 @@ Soweit die Verkehrssicherheit gewährleistet ist, sind von festen Abstandsvorsch
 
 - b. inventarisierte Schutzobjekte bei Strassen und Plätzen.
 
+**7**
+
+- 1\. 1. 25 - 127
+
 ### E. Übergangsbestimmung
 
 Diese Verordnung gilt für alle Bauvorhaben, die nach ihrem Inkrafttreten bei den örtlichen Baubehörden eingereicht werden.
 
 ### Anhang 1: Technische Anforderungen an Zufahrten
 
-**1 Zufahrtsarten**
+**3**
 
-### Anwendungs- Massgebender 3 <sup>3</sup> Ausbaugrössen Fahrbahn Strassentypen Bemerkungen zum Fussgängerschutz
+### <sup>1</sup> Anwendungs- Massgebender Zufahrtsarten 3 Ausbaugrössen Fahrbahn Strassentypen Bemerkungen zum Fussgängerschutz
 
-bereiche Begegnungsfall Nutzung WE R min m Breite (b) m Querschnitt
+bereiche Begegnungsfall
 
-Typ 1
+Nutzung WE R min m Breite (b) m Querschnitt
 
-**Zufahrtsweg**
+**Bankett oder Trottoir teilweise befahrbar bei Ausweichstellen3 – Die Bedürfnisse von mobilitäts- und sehbehinderten Menschen sind zu berücksichtigen.**
 
-**Bankett oder Trottoir teilweise befahrbar bei Ausweichstellen3 – Die Bedürfnisse von mobilitäts- und sehbehin-**
+Typ 1 – Begegnungszone<sup>8</sup>, eventuell verbreitertes Zufahrtsweg bis 50 (100[^hsup1supAnwendu-1] PW/VF 5,00 (10,00)[^hsup1supAnwendu-2] 3,00[^hsup1supAnwendu-3]–4,00 Typ 2<sup>8</sup> Typ 3[^hsup1supAnwendu-4] Typ 2<sup>8</sup> Zufahrtsstrasse 1 bis 150 (300[^hsup1supAnwendu-1] PW/PW 10,00 4,00<sup>6</sup>–5,70<sup>7</sup> Typ 3[^hsup1supAnwendu-2] – In Abhängigkeit von Bedeutung als Fusswegverbindung oder Schulweg eventuell Typ 4 Zufahrtsstrasse 2 bis 300 (600[^hsup1supAnwendu-1] LW/PW 10,00 4,80<sup>6</sup>–7,20<sup>7</sup> Typ 2<sup>8</sup> 3 Typ 3 – Die Bedürfnisse von mobilitäts- und sehbehinderten Menschen sind zu berücksichtigen.
 
-- Begegnungszone<sup>8</sup>, eventuell verbreitertes bis 50 (100[^hAnwendungsMassgebe-1] PW/VF 5,00 (10,00)<sup>4</sup> 3,00<sup>5</sup>–4,00 Typ 2<sup>8</sup> Typ 3[^hAnwendungsMassgebe-2] Typ 2<sup>8</sup> bis 150 (300[^hAnwendungsMassgebe-1] PW/PW 10,00 4,00<sup>6</sup>–5,70<sup>7</sup> Typ 3<sup>4</sup>
-
-**Zufahrtsstrasse 1**
-
-**derten Menschen sind zu berücksichtigen.**
-
-- In Abhängigkeit von Bedeutung als Fusswegverbindung oder Schulweg eventuell
-
-**beidseitiges Trottoir**
-
-Typ 4
-
-**Zufahrtsstrasse 2**
-
-**– Begegnungszone8 oder Trottoir (teilweise befahrbar bei Ausweichstellen)4**
-
-bis 300 (600[^hAnwendungsMassgebe-1] LW/PW 10,00 4,80<sup>6</sup>–7,20<sup>7</sup> Typ 2<sup>8</sup> 3
-
-Typ 3
-
-- Die Bedürfnisse von mobilitäts- und sehbehinderten Menschen sind zu berücksichtigen.
+**beidseitiges Trottoir – Begegnungszone8 oder Trottoir (teilweise befahrbar bei Ausweichstellen)4**
 
 **– Die Bedürfnisse von mobilitäts- und sehbehin-**
 
-- Eventuell beidseitiges Trottoir Erschliessungsstrasse bis 600 (1200[^hAnwendungsMassgebe-1] LW/PW 15,00 4,80<sup>6</sup>–6,10 Typ 4 derten Menschen sind zu berücksichtigen.
+- Eventuell beidseitiges Trottoir Erschliessungsstrasse bis 600 (1200[^hsup1supAnwendu-1] LW/PW 15,00 4,80<sup>6</sup>–6,10 Typ 4 derten Menschen sind zu berücksichtigen.
 
-**Typ 1 (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) Typ 3 (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) Anforderungen:**
+[^hsup1supAnwendu-1]: Inkrafttreten: 1. Juni 2020.
+[^hsup1supAnwendu-2]: Eingefügt durch RRB vom 14. September 2022 (OS 79, 429; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
+[^hsup1supAnwendu-3]: Fassung gemäss RRB vom 14. September 2022 (sOS 79, 429; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
+[^hsup1supAnwendu-4]: LS 700.1.
 
-[^hAnwendungsMassgebe-1]: Inkrafttreten: 1. Juni 2020.
-[^hAnwendungsMassgebe-2]: LS 700.1. 1. 7. 20 - 109 7
-
-### Typ 2
-
-### (cid:3)
-
-### Typ 4
+### Typ 1 Typ 2
 
 ### (cid:3)
 
-### Abkürzungen:
+### (cid:3)
 
-**WE Wohneinheiten VF Velofahrende**
+### (cid:3) (cid:3) (cid:3)
+
+### (cid:3)
+
+### (cid:3)
+
+### Typ 3 Typ 4
+
+### (cid:3)
+
+### (cid:3)
+
+### (cid:3)
+
+### (cid:3) (cid:3)
+
+### (cid:3)
+
+### (cid:3)
+
+### (cid:3)
+
+**Abkürzungen: WE Wohneinheiten VF Velofahrende**
+
+### Anforderungen:
 
 <sup>1</sup> bei Stichstrassen ist ein Wendeplatz oder eine Wendemöglichkeit notwendig
 
@@ -442,91 +453,101 @@ Typ 3
 
 <sup>4</sup> sofern Notzufahrt für Feuerwehr (vgl. § 13)
 
-**mindestens 3,5 m**
+<sup>5</sup> sofern Notzufahrt für Feuerwehr (vgl. § 13), Fahrbahn (mit befahrbarem Bankett) B Bankett begehbar mindestens 3,5 m
 
-<sup>5</sup> sofern Notzufahrt für Feuerwehr (vgl. § 13), Fahrbahn (mit befahrbarem Bankett) B Bankett begehbar (mindestens 0,3 m)
+**(mindestens 0,3 m)**
 
-**destens 6,10 m**
-
-<sup>6</sup> bei Gewerbe-/Industriezonen oder öffentlichem Busverkehr Fahrbahnbreite min- T Trottoir mindestens 2 m
+<sup>6</sup> bei Gewerbe-/Industriezonen oder öffentlichem Busverkehr Fahrbahnbreite min- T Trottoir mindestens 2 m destens 6,10 m
 
 <sup>7</sup> einschliesslich Fläche teilweise befahrbarer Fussgängerschutz bei Ausweichstellen (Typ 3) oder Begegnungszone (Typ 2)
 
 <sup>8</sup> nach Massgabe der Verkehrsanordnungen
 
+**9**
+
+- 1\. 1. 25 - 127
+
 ### Anhang 2: Technische Anforderungen an Ausfahrten
 
 ### Anwendung verschiedener Ausfahrtstypen
 
-**Übergeordnete Strasse**
+### Anschluss an Zufahrtsweg Zufahrtsstrasse Erschliessungsstrasse Übergeordnete Strasse
 
-### Anschluss an Zufahrtsweg Zufahrtsstrasse Erschliessungsstrasse
+**von**
 
-von Ausfahrten mit der verkehrstechnischen Bedeutung von:
+**Bedeutung von: Einzelner Abstellplatz**
 
-**A A B A B B A/B B/C B/C – B/C B/C (cid:3) (cid:3) (cid:3)**
+Ausfahrten mit der verkehrstechnischen
 
-### Einzelner Abstellplatz A
+**A B**
 
-### Zufahrtsweg A
+**Zufahrtsweg**
 
-### Zufahrtsstrasse 1 und 2 –
+**B B**
 
-### Erschliessungsstrasse –
+A A A A – A/B – –
 
-(cid:3) (cid:3) (cid:3) (cid:3)
+**Zufahrtsstrasse 1 und 2**
 
-[^hErschliessungsstrass-1]: (cid:3) Die Sichtbereiche müssen vertikal in einem Bereich zwischen 0,8 m und 2,65 m bei Trottoirs, Fuss- und Velowegen bzw. in den übrigen Fällen 3 m frei sein. 1. 7. 20 - 109 9
+**B/C B/C**
 
-### Anforderungen
+**Erschliessungsstrasse**
 
-[^hErschliessungsstrass-1]
+**B/C B/C**
 
-**Typ B Typ C Ja Ja**
+**(cid:3)**
 
-Kriterium Ausfahrtstyp Typ A
+**(cid:3) (cid:3)**
 
-### Aus- und Einfahrt nur vorwärts Nein
+**Anforderungen1 Kriterium**
 
-**unterbrochen oder**
+### (cid:3) (cid:3) (cid:3) (cid:3)
+
+**Typ C Ja unterbrochen oder**
+
+Ausfahrtstyp Typ A Typ B
+
+### Aus- und Einfahrt nur vorwärts Nein Ja
 
 ### Trottoir entlang übergeordneter Strasse
 
-**in der Regel durchgehend**
+(durchgehend) in der Regel durchgehend
 
-(durchgehend)
+**(falls vorhanden)**
 
-**durchgehend**
-
-### (falls vorhanden)
+durchgehend
 
 ### Maximale Neigung innerhalb 5 m
 
-**±5 ±5**
+**±5**
 
-% ±8
+**ab Strassengrenze**
 
-ab Strassengrenze
+% ±8 ±5
 
 ### Maximaler Gefällsbruch ohne Vertikal-
 
-**6 6 5 6–12 2,5 2,5**
+**6**
 
-% 6
+% 6 6 ausrundung (an der Strassengrenze) m 3 5
 
-ausrundung (an der Strassengrenze)
+**Einlenkradius**
 
-### Einlenkradius m 3
+**6–12 2,5**
 
-### Beobachtungsdistanz ab Fahrbahnrand m 2,5
+### Beobachtungsdistanz ab Fahrbahnrand m 2,5 2,5
 
-### Breite der Ausfahrt
+**Breite der Ausfahrt – mit Gegenverkehr**
 
-**4–5 5–6 3 3**
+**5–6**
 
-### – mit Gegenverkehr m 3
+m 3 4–5
 
-### – mit Einbahnverkehr 3
+**– mit Einbahnverkehr**
+
+**3**
+
+3 3
 
 <sup>1</sup> Bei Notzufahrten sind die Mindestwerte einzuhalten (vgl. § 13).
 
@@ -534,27 +555,29 @@ ausrundung (an der Strassengrenze)
 
 ### Erforderliche Sichtbereiche je nach Geschwindigkeit der vortrittsberechtigten Motorfahrzeuge
 
-### Signalisierte
+**Signalisierte**
 
 (cid:21)(cid:19)(cid:3) (cid:22)(cid:19)(cid:3) (cid:23)(cid:19)(cid:3) (cid:24)(cid:19)(cid:3) 60 70 80
 
 ### Geschwindigkeit (km/h)
 
-Sichtbereiche (m)[^hGeschwindigkeitkm-1] (cid:20)(cid:19)(cid:177)(cid:21)(cid:19)(cid:3) (cid:21)(cid:19)(cid:177)(cid:22)(cid:24)(cid:3) (cid:22)(cid:24)(cid:177)(cid:24)(cid:19)(cid:3) (cid:24)(cid:19)(cid:177)(cid:26)(cid:19)(cid:3) 70–90 90–110 110–140
+**Sichtbereiche (m)1**
 
-[^hGeschwindigkeitkm-1]: (cid:3) Die Sichtbereiche müssen vertikal in einem Bereich zwischen 0,8 m und 2,65 m bei Trottoirs, Fuss- und Velowegen bzw. in den übrigen Fällen 3 m frei sein. 1. 7. 20 - 109 9
+(cid:20)(cid:19)(cid:177)(cid:21)(cid:19)(cid:3) (cid:21)(cid:19)(cid:177)(cid:22)(cid:24)(cid:3) (cid:22)(cid:24)(cid:177)(cid:24)(cid:19)(cid:3) (cid:24)(cid:19)(cid:177)(cid:26)(cid:19)(cid:3) 70–90 90–110 110–140
+
+[^hGeschwindigkeitkm-1]: (cid:3) Die Sichtbereiche müssen vertikal in einem Bereich zwischen 0,8 m und 2,65 m bei Trottoirs, Fuss- und Velowegen bzw. in den übrigen Fällen 3 m frei sein.
 
 ### Anhang 4: Sichtbereiche auf Velowege
 
 [^hGeschwindigkeitkm-1]
 
-**(cid:3)**
+### (cid:3) Längsneigung der vortrittsberechtigten Anlage mit Veloverkehr
 
-### Längsneigung der vortrittsberechtigten Anlage mit Veloverkehr
+**0 ≤ 30**
 
-**(cid:3) Sichtbereiche (m)2 1(cid:3) Separat geführt.**
+(cid:3) ≥ –5% –4% –2% Sichtbereiche (m)<sup>2</sup> ≥ 50 45 35
 
-≥ –5% –4% –2% 0 ≤ ≥ 50 45 35 30
+<sup>1(cid:3)</sup> Separat geführt.
 
 <sup>2</sup> Die Sichtbereiche müssen vertikal in einem Bereich zwischen 0,8 m und 2,65 m frei sein.
 
@@ -566,17 +589,21 @@ h: 2,65 m
 
 Trottoir Fahrbahn b Strassengebiet
 
+**11**
+
+- 1\. 1. 25 - 127
+
 ### Sichtbereiche auf Fahrbahn
 
-**Sichtbereich (m)**
+Sichtbereich (m) Sichtbereich (m)
 
-Sichtbereich (m)
+**Fahrbahnmitte**
 
-Fahrbahnmitte
+**Fa(cid:75)rbahnrand**
 
-**zedes**
+Beobachtungsdistanz zedes
 
-Fa(cid:75)rbahnrand Beobachtungsdistanz Gren reichs ichtbe S
+Gren reichs ichtbe S
 
 Einlenkradius Breite
 
@@ -584,31 +611,39 @@ Einlenkradius Breite
 
 Sichtbereich (m) Sichtbereich (m)
 
-**Veloweg Fahrbahnrand Fahrbahnmitte Fahrbahnrand**
+Veloweg Fahrbahnrand Fahrbahnmitte Fahrbahnrand Beobachtungsdistanz s
 
-**s zede s**
+**Veloweg (separat geführt)**
 
-Veloweg Beobachtungsdistanz (separat geführt) Gren ereich ichtb S Einlenkradius Breite
+zede s
 
-**11**
+Gren ereich
 
-- 1\. 7. 20 - 109
+ichtb
+
+S Einlenkradius Breite
 
 ### Anhang 6: Anforderungen an Ausnahmetransportrouten
 
-**Typ II Versorgungsrouten 4,80 m 6,50 m 240 t 20 t**
+**Typ II Versorgungsrouten**
 
 ### Typ I
 
 Exportrouten
 
-Lichtraum in der Höhe mindestens 5,20 m
+**5,20 m 4,80 m 7,50 m 6,50 m 480 t 240 t 30 t 20 t**
 
-Lichte Breite mindestens 7,50 m
+Lichtraum in der Höhe mindestens
 
-Totalgewicht höchstens 480 t
+Lichte Breite mindestens
 
-Achslast höchstens 30 t
+Totalgewicht höchstens
+
+Achslast höchstens
+
+**13**
+
+- 1\. 1. 25 - 127
 
 ## Weitere Fussnoten
 
