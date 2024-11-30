@@ -4,11 +4,11 @@ number: "700.1"
 title: Planungs- und Baugesetz (PBG)
 short: PBG
 language: de
-version: "2024-04-01"
-nachtrag: "124"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
+valid_until: 2025-08-01
 adopted: 1975-09-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_1-1975_09_07-1976_04_01-124.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_1-1975_09_07-1976_04_01-127.html"
 text: pdf
 ---
 
@@ -50,7 +50,7 @@ Soweit dieses Gesetz oder das übrige kantonale Recht nichts Besonderes bestimmt
 
 **1**
 
-- 1\. 4. 24 - 124 § 4. Wo dieses Gesetz die Verzinsung einer Geldleistung vorschreibt, gilt der jeweilige Zinsfuss der Zürcher Kantonalbank für bestehende erste Hypotheken auf Wohnliegenschaften.
+- 1\. 1. 25 - 127 § 4. Wo dieses Gesetz die Verzinsung einer Geldleistung vorschreibt, gilt der jeweilige Zinsfuss der Zürcher Kantonalbank für bestehende erste Hypotheken auf Wohnliegenschaften.
 
 **Zinssatz**
 
@@ -134,7 +134,7 @@ Dem Staat obliegen ausser den ihm vorbehaltenen Planungen a. die Beschaffung, Un
 
 **3**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Die Gemeinden können in der Verbandsordnung den Planungsverbänden weitere Aufgabenbereiche übertragen.
 
@@ -190,7 +190,7 @@ Dem Staat obliegen ausser den ihm vorbehaltenen Planungen a. die Beschaffung, Un
 
 - m. die für die Erholung der Bevölkerung nötigen Gebiete dauernd zur Verfügung stehen,
 
-- n. die Siedlungsgebiete durch leistungsfähige öffentliche Verkehrsmittel und Strassen erschlossen werden.
+- n. die Siedlungsgebiete durch leistungsfähige öffentliche Verkehrsmittel und Strassen erschlossen werden, o.<sup>69</sup> der Ausstoss von Treibhausgasen vermieden wird und die nachteiligen Folgen der Klimaerwärmung möglichst gering sind.
 
 **Wirkung**
 
@@ -214,7 +214,7 @@ Dem Staat obliegen ausser den ihm vorbehaltenen Planungen a. die Beschaffung, Un
 
 **5**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Die Richtpläne bestehen in der Regel aus einem Plan und einem Bericht, der Erläuterungen zu den Festlegungen und Angaben über ihre wirtschaftlichen, sozialen und ökologischen Auswirkungen und über ihre Durchführung in technischer, finanzieller und zeitlicher Hinsicht enthält.
 
@@ -300,7 +300,7 @@ Der Plan der öffentlichen Bauten und Anlagen enthält die für die Raumplanung 
 
 **7**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 ### C. Der regionale Richtplan<sup>27</sup>
 
@@ -378,7 +378,7 @@ Der Plan der öffentlichen Bauten und Anlagen enthält die für die Raumplanung 
 
 **9**
 
-- 1\. 4. 24 - 124 § 42. <sup>1</sup> Die Entschädigung richtet sich nach den Verhältnissen bei Eintritt der Rechtskraft der Freihaltezone. Sie ist von dem Zeitpunkt an zu verzinsen, in dem der Heimschlag ausgeübt wird.
+- 1\. 1. 25 - 127 § 42. <sup>1</sup> Die Entschädigung richtet sich nach den Verhältnissen bei Eintritt der Rechtskraft der Freihaltezone. Sie ist von dem Zeitpunkt an zu verzinsen, in dem der Heimschlag ausgeübt wird.
 
 **2. Entschädigung**
 
@@ -450,7 +450,7 @@ und Materialablagerung<sup>26</sup>
 
 **11**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 <sup>4</sup> Die Unterteilung erfolgt durch einen Zonenplan; übergeordnete Zonen sind soweit möglich darzustellen, oder es ist auf ihre Festlegungen in anderer Weise aufmerksam zu machen.
 
@@ -516,19 +516,23 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 
 <sup>3</sup> Ferner kann für ganze Zonen, gebietsweise oder für einzelne Geschosse die Nutzung zu Wohnzwecken oder gewerblichen Zwecken zugelassen, vorgeschrieben oder beschränkt werden und für gewerbliche Nutzungen sowie Familienwohnungen mit vier und mehr Zimmern eine erhöhte Nutzungsziffer festgesetzt werden. In Kern-, Quartiererhaltungs- und Zentrumszonen kann für geeignete Lagen überdies bestimmt werden, dass im Erdgeschoss nur Läden und Gaststätten zulässig sind.
 
+<sup>4</sup> Besteht ein wesentliches öffentliches Interesse, insbesondere zum Schutz und zur Verbesserung des Lokalklimas und des ökologischen Ausgleichs sowie zur differenzierten baulichen Entwicklung, können für ganze Zonen oder gebietsweise unter Gewährleistung der zulässigen Ausnützung die Stellung und die äusseren Abmessungen der Bauten näher geregelt werden. Die Begründung eines Näherbaurechts kann ausgeschlossen werden; davon ausgenommen sind Kleinbauten und Anbauten.<sup>69</sup>
+
 **3. Preisgünstiger Wohnraum**
 
 § 49 b.<sup>60</sup> <sup>1</sup> Führen Zonenänderungen, Sonderbauvorschriften oder Gestaltungspläne zu erhöhten Ausnützungsmöglichkeiten, kann für ganze Zonen, gebietsweise oder für einzelne Geschosse, die ganz oder teilweise für Wohnzwecke bestimmt sind, ein Mindestanteil an preisgünstigem Wohnraum festgelegt werden.
+
+**13**
+
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Die höchstzulässigen Mietzinse für preisgünstigen Wohnraum orientieren sich an den Investitionskosten, den laufenden Kosten, den Rückstellungen für Erneuerung, den Abschreibungen und einer angemessenen Rendite. Die Mietzinse sind dauerhaft zu sichern. Der Regierungsrat regelt die Einzelheiten in der Verordnung.
 
 <sup>3</sup> Die Gemeinden erlassen Bestimmungen zur angemessenen Belegung der Wohnräume.
 
-**13**
-
-- 1\. 4. 24 - 124 § 50.<sup>59</sup> <sup>1</sup> Kernzonen umfassen schutzwürdige Ortsbilder, wie Stadt- und Dorfkerne oder einzelne Gebäudegruppen, die in ihrer Eigenart erhalten oder erweitert werden sollen.<sup>27</sup>
-
 **III. Kernzonen**
+
+§ 50.<sup>59</sup> <sup>1</sup> Kernzonen umfassen schutzwürdige Ortsbilder, wie Stadt- und Dorfkerne oder einzelne Gebäudegruppen, die in ihrer Eigenart erhalten oder erweitert werden sollen.<sup>27</sup>
 
 <sup>2</sup> Die Bau- und Zonenordnung kann das Bauen auf die Strassengrenze, die Verkehrsbaulinie oder bestehende Baufluchten und, unter Wahrung schutzwürdiger nachbarlicher Interessen, an die Grundstückgrenze vorschreiben, das Bauen bis auf die Strassengrenze gestatten sowie die Stellung und die Höhenlage der Bauten sonst näher ordnen. Nutzungsziffern sind nur zulässig, soweit sie dem Zonenzweck nicht zuwiderlaufen.<sup>27</sup>
 
@@ -556,7 +560,9 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 
 <sup>2</sup> . . .<sup>25</sup>
 
-<sup>3</sup> Mässig störende Betriebe sind gestattet, wo die Bau- und Zonenordnung sie zulässt; stark störende und solche, die unverhältnismässigen Verkehr auslösen, sind unzulässig.<sup>27</sup> §§ 53−55.<sup>25</sup>
+<sup>3</sup> Mässig störende Betriebe sind gestattet, wo die Bau- und Zonenordnung sie zulässt; stark störende und solche, die unverhältnismässigen Verkehr auslösen, sind unzulässig.<sup>27</sup>
+
+§§ 53−55.<sup>25</sup>
 
 **VI. Industrie- und Gewerbezonen 1. Nutzweise**
 
@@ -588,6 +594,10 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 
 <sup>3</sup> Die Bau- und Zonenordnung kann im Rahmen dieses Gesetzes Bauvorschriften aufstellen.
 
+**15**
+
+- 1\. 1. 25 - 127
+
 ### III. Die Freihaltezonen und die Erholungszonen<sup>27</sup>
 
 **A. Zweck**
@@ -596,11 +606,9 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 
 <sup>2</sup> Der Freihaltezone können ferner Flächen zugewiesen werden, die ein Natur- und Heimatschutzobjekt bewahren oder der Trennung und Gliederung der Bauzonen dienen.
 
-**15**
-
-- 1\. 4. 24 - 124 § 62.<sup>27</sup> <sup>1</sup> Für Bauten und Anlagen, für die Rechte der Grundeigentümer, für den Rückgriff auf andere Gemeinden und für das Zugrecht der Gemeinden gelten hinsichtlich Inhalt und Verfahren die gleichen Bestimmungen wie bei übergeordneten Freihaltezonen.
-
 **B. Rechtswirkungen I. Im Allgemeinen**
+
+§ 62.<sup>27</sup> <sup>1</sup> Für Bauten und Anlagen, für die Rechte der Grundeigentümer, für den Rückgriff auf andere Gemeinden und für das Zugrecht der Gemeinden gelten hinsichtlich Inhalt und Verfahren die gleichen Bestimmungen wie bei übergeordneten Freihaltezonen.
 
 <sup>2</sup> In der Erholungszone sind nur die den Vorgaben der Richtplanung entsprechenden Bauten und Anlagen zulässig; die Gemeinden erlassen die nötigen Bauvorschriften.
 
@@ -652,6 +660,10 @@ Die Bau- und Zonenordnung kann gegenüber im Zonenplan eingetragenen Gewässern 
 
 § 67 a.<sup>63</sup> <sup>1</sup> Für den Uferbereich von Seen werden in der Bau- und Zonenordnung nach den Vorgaben der Richtplanung ergänzende Festlegungen für Bauzonen und, soweit zweckmässig, für Freihalte- und Erholungszonen getroffen. Dabei werden insbesondere die ökologische Gestaltung des Seeufers und die Planung von Seeuferwegen berücksichtigt.
 
+**17**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Mit Rücksicht auf die besondere Lage und die vorhandene bauliche Struktur werden ergänzende Festlegungen vorgenommen:
 
 - a. zu Baubereichen für Gebäude,
@@ -659,10 +671,6 @@ Die Bau- und Zonenordnung kann gegenüber im Zonenplan eingetragenen Gewässern 
 - b. zur Stellung und Erscheinung von Gebäuden sowie zur Gebäudelänge, Gebäudebreite, Gesamt- und Fassadenhöhe,
 
 - c. zu weiteren Bauten und Anlagen sowie zum Umschwung.
-
-**17**
-
-- 1\. 4. 24 - 124
 
 <sup>3</sup> Die ergänzenden Festlegungen a. gewährleisten, dass Bauten, Anlagen und Umschwung so gestaltet sind, dass sie besondere Rücksicht auf die bauliche und landschaftliche Umgebung nehmen,
 
@@ -686,21 +694,17 @@ Die Bau- und Zonenordnung kann gegenüber im Zonenplan eingetragenen Gewässern 
 
 <sup>2</sup> Bei der Beurteilung sind insbesondere folgende Merkmale zu beachten:<sup>55</sup> a. Beziehung zum Ortsbild sowie zur baulichen und landschaftlichen Umgebung,
 
-- b. kubische Gliederung und architektonischer Ausdruck der Gebäude,
-
-- c. Lage, Zweckbestimmung, Umfang und Gestaltung der Umgebungsanlagen,
+- b. kubische Gliederung und architektonischer Ausdruck der Gebäude, c.<sup>70</sup> Lage, Zweckbestimmung, Umfang und Gestaltung der Umgebungsanlagen sowie ökologischer Wert der Begrünung,
 
 - d. Wohnlichkeit und Wohnhygiene,
 
 - e. Versorgungs- und Entsorgungslösung,
 
-- f. Art und Grad der Ausrüstung.
+- f. Art und Grad der Ausrüstung, g.<sup>69</sup> Berücksichtigung des Lokalklimas.
 
-<sup>3</sup> Arealüberbauungen können auch bereits überbaute Grundstücke umfassen, wenn die Überbauung als ganzes den Anforderungen genügt.<sup>27</sup>
+<sup>3</sup> Arealüberbauungen können auch bereits überbaute Grundstücke umfassen, wenn die Überbauung als ganzes den Anforderungen genügt.<sup>27</sup> § 72.<sup>27</sup> <sup>1</sup> Die Bau- und Zonenordnung kann Bauvorschriften enthalten, die von den Bestimmungen für die Regelbauweise und von den kantonalen Mindestabständen abweichen.
 
 **III. Besondere Bauvorschriften**
-
-§ 72.<sup>27</sup> <sup>1</sup> Die Bau- und Zonenordnung kann Bauvorschriften enthalten, die von den Bestimmungen für die Regelbauweise und von den kantonalen Mindestabständen abweichen.
 
 <sup>2</sup> Die Abstände gegenüber Waldungen, Gewässern, Nachbargrundstücken und Strassen − ausser solchen, die vorwiegend der Arealerschliessung dienen − dürfen nicht verringert werden.
 
@@ -718,29 +722,33 @@ Die Bau- und Zonenordnung kann gegenüber im Zonenplan eingetragenen Gewässern 
 
 § 75.<sup>27</sup> Die Bau- und Zonenordnung kann für im Zonenplan bezeichnete Lagen Anordnungen treffen, welche die Aussicht oder die Sicht auf besondere Geländeformen sichern.
 
-**G.64 Baumschutz und Begrünung**
+**G. Bäume und Begrünung I. Bäume**
 
-§ 76.<sup>55,</sup> <sup>59</sup> Die Bau- und Zonenordnung kann die Erhaltung von näher bezeichneten Baumbeständen und deren Ersatz sowie zonen- oder gebietsweise angemessene Neupflanzungen und die Begrünung von Flachdächern vorschreiben; diese dürfen jedoch die ordentliche Grundstücknutzung nicht übermässig erschweren.
+§ 76.<sup>70</sup> Die Bau- und Zonenordnung kann die Erhaltung und den Ersatz von näher bezeichneten Bäumen und Baumbeständen sowie zonen- oder gebietsweise von Bäumen ab einem Stammumfang von 100 cm vorschreiben. Sie kann zonen- oder gebietsweise die angemessene Neupflanzung von Bäumen vorschreiben. Die ordentliche Grundstücksnutzung darf dadurch nicht übermässig erschwert werden.
+
+**II. Dachbegrünung**
+
+§ 76 a.<sup>69</sup> <sup>1</sup> Die Bau- und Zonenordnung kann zonen- oder gebietsweise die Begrünung von Flachdächern vorschreiben.
+
+<sup>2</sup> Sie kann den Umfang und die Qualität der Begrünung regeln, unter Berücksichtigung weiterer Nutzungen wie Energiegewinnung und Erholung.
+
+<sup>3</sup> Dachbegrünungen, einschliesslich der dazu erforderlichen Vorrichtungen, sind für die Einhaltung der Höhenmasse und die Berechnung der Nutzungsziffern unbeachtlich.
 
 **H.64 Terrassen- und ähnliche Überbauungen**
 
 § 77.<sup>27</sup> Die Bau- und Zonenordnung kann für Terrassen- und ähnliche Überbauungen Bestimmungen aufstellen, die von den normalen Zonenvorschriften abweichen.
 
-#### § 78
+**19**
+
+- 1\. 1. 25 - 127 § 78. Die Bau- und Zonenordnung kann für ganze Zonen oder gebietsweise Aussenantennen verbieten, sofern durch andere technische Einrichtungen gleichwertige Empfangsmöglichkeiten gewährleistet sind.
 
 **I.64 Aussenantennen**
-
-Die Bau- und Zonenordnung kann für ganze Zonen oder gebietsweise Aussenantennen verbieten, sofern durch andere technische Einrichtungen gleichwertige Empfangsmöglichkeiten gewährleistet sind.
 
 **J.64 Erneuerbare Energien**
 
 § 78 a.<sup>53</sup> <sup>1</sup> Die Bau- und Zonenordnung kann für im Zonenplan bezeichnete Gebiete Anordnungen zur Nutzung erneuerbarer Energien treffen.
 
 <sup>2</sup> Energiegewinne gestützt auf die Umsetzung von Anordnungen gemäss Abs. 1 werden für die Einhaltung der kantonalen Bestimmungen bezüglich der Verminderung des Verbrauchs an nichterneuerbaren Energien nicht berücksichtigt.
-
-**19**
-
-- 1\. 4. 24 - 124
 
 ### VI. Sonderbauvorschriften und Gestaltungspläne
 
@@ -806,17 +814,15 @@ Sonderbauvorschriften können frühestens fünf Jahre nach ihrem Inkrafttreten a
 
 <sup>2</sup> Sie können als allgemeinverbindlich erklärt werden, wenn ihnen die Grundeigentümer zustimmen, denen mindestens zwei Drittel der einbezogenen Flächen gehören, und wenn keine schutzwürdigen Interessen der andern Grundeigentümer verletzt werden.<sup>27</sup>
 
-**2. Zustimmung**
+**21**
 
-§ 86.<sup>27</sup> Private Gestaltungspläne bedürfen der Zustimmung des für den Erlass der Bau- und Zonenordnung zuständigen Organs. Überschreiten sie den für Arealüberbauungen im betreffenden Gebiet geltenden Rahmen nicht, genügt die Zustimmung des Gemeindevorstands<sup>57</sup>.
+- 1\. 1. 25 - 127 § 86.<sup>27</sup> Private Gestaltungspläne bedürfen der Zustimmung des für den Erlass der Bau- und Zonenordnung zuständigen Organs. Überschreiten sie den für Arealüberbauungen im betreffenden Gebiet geltenden Rahmen nicht, genügt die Zustimmung des Gemeindevorstands<sup>57</sup>.
+
+**2. Zustimmung**
 
 **C. Aufhebung**
 
 § 87.<sup>27</sup> Gestaltungspläne können in gleicher Weise wie Sonderbauvorschriften aufgehoben werden. Die entsprechenden Bestimmungen gelten nicht für untergeordnete Änderungen.
-
-**21**
-
-- 1\. 4. 24 - 124
 
 ### VII. Gemeinsame Bestimmungen
 
@@ -878,11 +884,11 @@ Sonderbauvorschriften können frühestens fünf Jahre nach ihrem Inkrafttreten a
 
 <sup>3</sup> Der Regierungsrat kann nötigenfalls Fristerstreckungen mit der Anweisung verbinden, die Bauzonen zu verkleinern.
 
-#### § 95
+**23**
+
+- 1\. 1. 25 - 127 § 95. Der Erschliessungsplan wird im gleichen Verfahren und in gleicher Zuständigkeit wie die Bau- und Zonenordnung festgesetzt; er bedarf der Genehmigung.
 
 **D. Verfahren**
-
-Der Erschliessungsplan wird im gleichen Verfahren und in gleicher Zuständigkeit wie die Bau- und Zonenordnung festgesetzt; er bedarf der Genehmigung.
 
 ### D. Die Bau- und Niveaulinien
 
@@ -891,10 +897,6 @@ Der Erschliessungsplan wird im gleichen Verfahren und in gleicher Zuständigkeit
 **A. Zweck und Arten I. Allgemein**
 
 § 96.<sup>59</sup> <sup>1</sup> Baulinien begrenzen die Bebauung und dienen insbesondere der Sicherung bestehender und geplanter Anlagen und Flächen sowie der baulichen Gestaltung.<sup>55</sup>
-
-**23**
-
-- 1\. 4. 24 - 124
 
 <sup>2</sup> Es sind folgende Baulinien zu unterscheiden und im Baulinienplan unter Angabe ihres Zwecks verschieden darzustellen:
 
@@ -966,6 +968,10 @@ Für die mit den Baulinien verbundenen Eigentumsbeschränkungen ist eine Entsch�
 
 <sup>1</sup> Öffentliche Unternehmungen und gemischtwirtschaftliche oder private Unternehmungen, die öffentliche Aufgaben erfüllen, sind berechtigt, im Baulinienbereich gegen Ersatz des verursachten Schadens unterirdische Leitungen samt zugehörigen Bauwerken zu erstellen und fortbestehen zu lassen.
 
+**25**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Kommt über den Bestand und Umfang des Anspruchs sowie über die Entschädigung keine Einigung zustande, entscheidet die Schätzungskommission nach der Gesetzgebung betreffend die Abtretung von Privatrechten.<sup>51</sup>
 
 <sup>3</sup> Der Bestand derartiger Leitungen und Bauwerke kann im Grundbuch angemerkt werden.
@@ -978,11 +984,11 @@ Für die mit den Baulinien verbundenen Eigentumsbeschränkungen ist eine Entsch�
 
 Die Niveaulinien bestimmen die Höhenlage der Anlagen, die durch Verkehrsbaulinien gesichert werden.
 
-**25**
-
-- 1\. 4. 24 - 124 § 107. Bauten und Anlagen Dritter haben sich nach der Niveaulinie zu richten, soweit sie von baurechtlicher Bedeutung sind.
+#### § 107
 
 **Rechtswirkung**
+
+Bauten und Anlagen Dritter haben sich nach der Niveaulinie zu richten, soweit sie von baurechtlicher Bedeutung sind.
 
 ### III. Gemeinsame Bestimmungen
 
@@ -1070,17 +1076,17 @@ Mit der Rechtskraft der Bau- und Niveaulinien steht dem Werkträger im Rahmen ih
 
 Die Genehmigung des Werkplans schliesst die Erteilung des Enteignungsrechts ein.
 
-#### § 117
+**27**
+
+- 1\. 1. 25 - 127 § 117. Für Vorkehren an bestehenden Bauten und Anlagen im Werkplanbereich gelten sinngemäss die gleichen Beschränkungen wie für baulinienwidrige Bauten und Anlagen.
+
+#### § 118
 
 **II. Änderungsverbot**
 
-Für Vorkehren an bestehenden Bauten und Anlagen im Werkplanbereich gelten sinngemäss die gleichen Beschränkungen wie für baulinienwidrige Bauten und Anlagen.
-
-**27**
-
-- 1\. 4. 24 - 124 § 118. <sup>1</sup> Dem Werkträger steht an den vom Werkplan erfassten Grundstücken und Grundstückteilen das gleiche Vorkaufsrecht zu, wie es für die Freihaltezone gilt.
-
 **III. Vorkaufsrecht**
+
+<sup>1</sup> Dem Werkträger steht an den vom Werkplan erfassten Grundstücken und Grundstückteilen das gleiche Vorkaufsrecht zu, wie es für die Freihaltezone gilt.
 
 <sup>2</sup> Ist der Träger noch nicht endgültig bestimmt, übt je nach der Natur des Werks der Staat oder die Gemeinde das Vorkaufsrecht aus.
 
@@ -1158,7 +1164,7 @@ Zur Sicherung öffentlicher Werke und Anlagen, die sich in Vorbereitung befinden
 
 **29**
 
-- 1\. 4. 24 - 124 § 126. <sup>1</sup> Das Quartierplangebiet ist so einzuteilen, dass alle Grundstücke ohne Ausnahmebewilligungen und nachbarliche Zustimmung in einer den örtlichen Verhältnissen und der Bauzone angemessenen Weise überbaut werden können; ist dies nicht möglich, sind die erforderlichen Rechte und Lasten mit dem Quartierplan zu begründen.
+- 1\. 1. 25 - 127 § 126. <sup>1</sup> Das Quartierplangebiet ist so einzuteilen, dass alle Grundstücke ohne Ausnahmebewilligungen und nachbarliche Zustimmung in einer den örtlichen Verhältnissen und der Bauzone angemessenen Weise überbaut werden können; ist dies nicht möglich, sind die erforderlichen Rechte und Lasten mit dem Quartierplan zu begründen.
 
 **Landeinteilung**
 
@@ -1228,7 +1234,7 @@ Zur Sicherung öffentlicher Werke und Anlagen, die sich in Vorbereitung befinden
 
 **31**
 
-- 1\. 4. 24 - 124 § 139. <sup>1</sup> Die nach den Abzügen verbleibende Gesamtfläche ist so zuzuteilen, dass die Grundeigentümer nach Möglichkeit geeignete Parzellen in gleichwertiger Lage und im Verhältnis zur Fläche ihres Altbestands unter Berücksichtigung der Wertunterschiede erhalten; dabei können nötigenfalls gesetzliche Eigentumsbeschränkungen des privaten Rechts, Dienstbarkeiten, Grundlasten oder vorgemerkte persönliche Rechte aufgehoben, geändert oder begründet werden.
+- 1\. 1. 25 - 127 § 139. <sup>1</sup> Die nach den Abzügen verbleibende Gesamtfläche ist so zuzuteilen, dass die Grundeigentümer nach Möglichkeit geeignete Parzellen in gleichwertiger Lage und im Verhältnis zur Fläche ihres Altbestands unter Berücksichtigung der Wertunterschiede erhalten; dabei können nötigenfalls gesetzliche Eigentumsbeschränkungen des privaten Rechts, Dienstbarkeiten, Grundlasten oder vorgemerkte persönliche Rechte aufgehoben, geändert oder begründet werden.
 
 **C. Zuteilung der Gesamtfläche im Allgemeinen I. Bei Umlegung nach Flächen 1. Grundsatz**
 
@@ -1292,7 +1298,7 @@ Das für öffentliche Verkehrs- und Versorgungsanlagen sowie für Quartierstrass
 
 **33**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Massgebend ist dabei in erster Linie das Interesse an den betreffenden Anlagen.
 
@@ -1382,7 +1388,7 @@ Das für öffentliche Verkehrs- und Versorgungsanlagen sowie für Quartierstrass
 
 **35**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 <sup>4</sup> Wer nicht rechtzeitig Begehren stellt, ist damit im Rekursverfahren ausgeschlossen.
 
@@ -1450,7 +1456,7 @@ An der Verhandlung wird der überarbeitete Entwurf erläutert und zu Begehren St
 
 **37**
 
-- 1\. 4. 24 - 124 § 162. <sup>1</sup> Entschädigungen und Vergütungen werden mit der Zustellung der Mutationsunterlagen an die Beteiligten fällig, spätestens jedoch drei Monate nach der Genehmigung des Quartierplans.<sup>27</sup>
+- 1\. 1. 25 - 127 § 162. <sup>1</sup> Entschädigungen und Vergütungen werden mit der Zustellung der Mutationsunterlagen an die Beteiligten fällig, spätestens jedoch drei Monate nach der Genehmigung des Quartierplans.<sup>27</sup>
 
 **B. Geldschulden und -forderungen I. Fälligkeit und Zahlung**
 
@@ -1532,7 +1538,7 @@ Die Erschliessungsanlagen gehen nach ihrer Vollendung unentgeltlich in das Eigen
 
 **39**
 
-- 1\. 4. 24 - 124 § 172. Die Rechtsverhältnisse an gemeinschaftlichen Ausstattungen und Ausrüstungen richten sich nach den Festlegungen des Quartierplans.
+- 1\. 1. 25 - 127 § 172. Die Rechtsverhältnisse an gemeinschaftlichen Ausstattungen und Ausrüstungen richten sich nach den Festlegungen des Quartierplans.
 
 #### § 173
 
@@ -1626,7 +1632,7 @@ Die Quartierplankommission oder das Bauamt unterbreitet den Beteiligten einen En
 
 **41**
 
-- 1\. 4. 24 - 124 § 183. <sup>1</sup> Können sich die Beteiligten innert zwei Monaten nach Vorlegung des Entwurfs nicht einigen, setzt der Gemeindevorstand<sup>57</sup> die Grenzbereinigung samt allfälligen beschränkten dinglichen Rechten und den Entschädigungsfolgen fest.
+- 1\. 1. 25 - 127 § 183. <sup>1</sup> Können sich die Beteiligten innert zwei Monaten nach Vorlegung des Entwurfs nicht einigen, setzt der Gemeindevorstand<sup>57</sup> die Grenzbereinigung samt allfälligen beschränkten dinglichen Rechten und den Entschädigungsfolgen fest.
 
 **III. Festsetzung**
 
@@ -1726,7 +1732,7 @@ Bei Gesamterneuerungen ist ein Gestaltungsplan zu erstellen, der Bestandteil des
 
 **43**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Bei der erstmaligen Vermietung sind die neuerstellten Wohn- oder Geschäftsräume vorab den bisherigen Mietern oder Pächtern anzubieten.
 
@@ -1812,7 +1818,7 @@ g.<sup>27</sup> seltene oder vom Aussterben bedrohte Tiere und Pflanzen und die 
 
 **45**
 
-- 1\. 4. 24 - 124 § 204. <sup>1</sup> Staat, Gemeinden sowie jene Körperschaften, Stiftungen und selbstständigen Anstalten des öffentlichen und des privaten Rechts, die öffentliche Aufgaben erfüllen, haben in ihrer Tätigkeit dafür zu sorgen, dass Schutzobjekte geschont und, wo das öffentliche Interesse an diesen überwiegt, ungeschmälert erhalten bleiben.
+- 1\. 1. 25 - 127 § 204. <sup>1</sup> Staat, Gemeinden sowie jene Körperschaften, Stiftungen und selbstständigen Anstalten des öffentlichen und des privaten Rechts, die öffentliche Aufgaben erfüllen, haben in ihrer Tätigkeit dafür zu sorgen, dass Schutzobjekte geschont und, wo das öffentliche Interesse an diesen überwiegt, ungeschmälert erhalten bleiben.
 
 **B. Bindung des Gemeinwesens**
 
@@ -1894,7 +1900,7 @@ g.<sup>27</sup> seltene oder vom Aussterben bedrohte Tiere und Pflanzen und die 
 
 **47**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Hinsichtlich Inhalt und Verfahren gelten hiefür die Bestimmungen über die Freihaltezone.
 
@@ -1968,7 +1974,7 @@ Für Bauten und Anlagen, die in ungewöhnlicher Weise benutzt werden, besonders 
 
 **49**
 
-- 1\. 4. 24 - 124 § 223. <sup>1</sup> Liegt ein hinreichendes öffentliches Interesse an einem Gemeinschaftswerk vor, setzt der Gemeindevorstand<sup>57</sup> oder die zuständige Direktion<sup>51</sup> den Eigentümern eine angemessene Frist für den Abschluss einer Vereinbarung an, die mindestens ordnen muss:
+- 1\. 1. 25 - 127 § 223. <sup>1</sup> Liegt ein hinreichendes öffentliches Interesse an einem Gemeinschaftswerk vor, setzt der Gemeindevorstand<sup>57</sup> oder die zuständige Direktion<sup>51</sup> den Eigentümern eine angemessene Frist für den Abschluss einer Vereinbarung an, die mindestens ordnen muss:
 
 **II. Rechtsverhältnisse 1. Vereinbarung**
 
@@ -2046,7 +2052,7 @@ Für Bauten und Anlagen, die in ungewöhnlicher Weise benutzt werden, besonders 
 
 **51**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Bei der Bemessung der Entschädigung sind insbesondere das Ausmass, die Dauer der Beanspruchung, der wirtschaftliche Nutzen für den Konzessionär und die allfälligen Nachteile für das Gemeinwesen in billiger Weise zu berücksichtigen.
 
@@ -2116,7 +2122,7 @@ Für Bauten und Anlagen, die in ungewöhnlicher Weise benutzt werden, besonders 
 
 **53**
 
-- 1\. 4. 24 - 124
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Wo ein Bedürfnis besteht, die Verhältnisse es gestatten und es wirtschaftlich zumutbar ist, insbesondere bei grösseren Überbauungen, soll der Fussgänger- vom Fahrverkehr getrennt werden, und es kann, sofern das öffentliche Interesse entgegenstehende private Interessen wesentlich überwiegt, der Fahrverkehr unter den Boden gewiesen oder die Überdeckung der Fahrbahn verlangt werden.
 
@@ -2124,27 +2130,43 @@ Für Bauten und Anlagen, die in ungewöhnlicher Weise benutzt werden, besonders 
 
 #### § 238
 
-**B. Gestaltung**
+**B. Gestaltung und Begrünung I. Im Allgemeinen**
 
 <sup>1</sup> Bauten, Anlagen und Umschwung sind für sich und in ihrem Zusammenhang mit der baulichen und landschaftlichen Umgebung im ganzen und in ihren einzelnen Teilen so zu gestalten, dass eine befriedigende Gesamtwirkung erreicht wird; diese Anforderung gilt auch für Materialien und Farben.
 
 <sup>2</sup> Auf Objekte des Natur- und Heimatschutzes ist besondere Rücksicht zu nehmen; sie dürfen auch durch Nutzungsänderungen und Unterhaltsarbeiten nicht beeinträchtigt werden, für die keine baurechtliche Bewilligung nötig ist.
 
-<sup>3</sup> Wo die Verhältnisse es zulassen, kann mit der baurechtlichen Bewilligung verlangt werden, dass vorhandene Bäume bestehen bleiben, neue Bäume und Sträucher gepflanzt sowie Vorgärten und andere geeignete Teile des Gebäudeumschwungs als Grünfläche erhalten oder hergerichtet werden.<sup>27</sup>
+<sup>3</sup> . . .<sup>71</sup>
 
 <sup>4</sup> Genügend angepasste energetische Verbesserungen und Anlagen zur Nutzung erneuerbarer Energien, insbesondere Solaranlagen, werden bewilligt, sofern nicht überwiegende öffentliche Interessen entgegenstehen.<sup>65</sup>
 
+**II. Begrünung im Besonderen**
+
+§ 238 a.<sup>69</sup> <sup>1</sup> Vorgärten und andere geeignete Teile des Gebäudeumschwungs sind in angemessenem Umfang als ökologisch wertvolle Grünflächen zu erhalten oder herzurichten.
+
+<sup>2</sup> Die Versiegelung von nicht mit Gebäuden überstellten Grundstücksflächen ist möglichst gering zu halten.
+
+<sup>3</sup> Nach Möglichkeit sind bestehende Bäume zu erhalten oder angemessene Ersatz- und Neupflanzungen vorzusehen. Es ist genügend Wurzelraum und ausreichender Raum für die Versickerung zu gewährleisten. Die ordentliche Grundstücksnutzung darf dadurch nicht übermässig erschwert werden.
+
+<sup>4</sup> Die Bau- und Zonenordnung kann zonen- oder gebietsweise ergänzende Bestimmungen enthalten.
+
+<sup>5</sup> Die Begrünung ist zu erhalten und bei Abgang zu ersetzen.
+
+#### § 239
+
 **C. Sonstige Beschaffenheit**
 
-§ 239. <sup>1</sup> Bauten und Anlagen müssen nach Fundation, Konstruktion und Material den anerkannten Regeln der Baukunde entsprechen. Sie dürfen weder bei ihrer Erstellung noch durch ihren Bestand Personen oder Sachen gefährden.
+<sup>1</sup> Bauten und Anlagen müssen nach Fundation, Konstruktion und Material den anerkannten Regeln der Baukunde entsprechen. Sie dürfen weder bei ihrer Erstellung noch durch ihren Bestand Personen oder Sachen gefährden.
 
 <sup>2</sup> Die verwendeten Materialien dürfen zu keinen gesundheitlichen Beeinträchtigungen führen und müssen einwandfrei entsorgt werden können. Beim Abbruch von Bauten und Anlagen sind die Materialien im Hinblick auf eine einwandfreie Entsorgung zweckmässig zu trennen.<sup>28</sup>
 
 <sup>3</sup> Bauten müssen nach aussen wie im Innern den Geboten der Wohn- und Arbeitshygiene sowie des Brandschutzes genügen. Im Hinblick auf einen möglichst geringen Energieverbrauch sind Bauten und Anlagen ausreichend zu isolieren sowie Ausstattungen und Ausrüstungen fachgerecht zu erstellen und zu betreiben.<sup>20</sup>
 
-<sup>4</sup> . . .<sup>49</sup> § 239 a.<sup>47</sup> <sup>1</sup> Öffentlich zugängliche Bauten und Anlagen im Sinne von Art. 3 Bst. a des Behindertengleichstellungsgesetzes vom 13. Dezember 2002 (BehiG)<sup>10</sup> und Art. 2 Bst. c der Behindertengleichstellungsverordnung vom 19. November 2003<sup>11</sup> sind so zu gestalten, dass sie auch für Menschen mit Behinderungen nach Art. 2 Abs. 1 BehiG zugänglich und benützbar sind.
+<sup>4</sup> . . .<sup>49</sup>
 
 **D. Behindertengerechtes Bauen I. Neu- und Umbauten 1. Im Allgemeinen**
+
+§ 239 a.<sup>47</sup> <sup>1</sup> Öffentlich zugängliche Bauten und Anlagen im Sinne von Art. 3 Bst. a des Behindertengleichstellungsgesetzes vom 13. Dezember 2002 (BehiG)<sup>10</sup> und Art. 2 Bst. c der Behindertengleichstellungsverordnung vom 19. November 2003<sup>11</sup> sind so zu gestalten, dass sie auch für Menschen mit Behinderungen nach Art. 2 Abs. 1 BehiG zugänglich und benützbar sind.
 
 <sup>2</sup> Bei Wohngebäuden mit mehr als acht Wohneinheiten müssen alle Einheiten für Menschen mit Behinderungen zugänglich sein. Das Innere der einzelnen Wohneinheiten muss an die Bedürfnisse von Menschen mit Behinderungen anpassbar sein.
 
@@ -2164,19 +2186,21 @@ Für Bauten und Anlagen, die in ungewöhnlicher Weise benutzt werden, besonders 
 
 <sup>3</sup> Bauliche Massnahmen nach §§ 239 a und 239 b müssen verhältnismässig sein. Die Verhältnismässigkeit beurteilt sich nach Art. 11 und 12 BehiG.
 
-**II. Anpassung öffentlicher Bauten**
+**55**
 
-§ 239 d.<sup>47</sup> <sup>1</sup> Wer öffentliche Aufgaben erfüllt, stellt unabhängig von einem bewilligungspflichtigen Umbau oder Sanierungsvorhaben sicher, dass die öffentlich genutzten Bauten und Anlagen für Menschen mit Behinderungen zugänglich und benützbar sind (Art. 11 Abs. 4 KV<sup>3</sup>).
+- 1\. 1. 25 - 127 § 239 d.<sup>47</sup> <sup>1</sup> Wer öffentliche Aufgaben erfüllt, stellt unabhängig von einem bewilligungspflichtigen Umbau oder Sanierungsvorhaben sicher, dass die öffentlich genutzten Bauten und Anlagen für Menschen mit Behinderungen zugänglich und benützbar sind (Art. 11 Abs. 4 KV<sup>3</sup>).
+
+**II. Anpassung öffentlicher Bauten**
 
 <sup>2</sup> Das Nähere zu den nach Abs. 1 erforderlichen baulichen Massnahmen bestimmt sich nach den anerkannten Regeln der Baukunde. Der Regierungsrat bezeichnet die massgebenden Regelwerke.
 
 <sup>3</sup> Auf bauliche Massnahmen nach Abs. 1 kann verzichtet werden, wenn deren Kosten 5% des Gebäudeversicherungswertes des vor dem Umbau bewerteten Gebäudes übersteigen.
 
-**55**
-
-- 1\. 4. 24 - 124 § 240. <sup>1</sup> Durch Bauten, Anlagen, Bepflanzungen und sonstige Grundstücknutzungen dürfen weder der Verkehr behindert oder gefährdet noch der Bestand und die Sicherheit des Strassenkörpers beeinträchtigt werden.
+#### § 240
 
 **E.48 Verkehrssicherheit I. Allgemein**
+
+<sup>1</sup> Durch Bauten, Anlagen, Bepflanzungen und sonstige Grundstücknutzungen dürfen weder der Verkehr behindert oder gefährdet noch der Bestand und die Sicherheit des Strassenkörpers beeinträchtigt werden.
 
 <sup>2</sup> Im Zusammenhang mit Bauten und Anlagen, die ungewöhnlich starken Verkehr auslösen, können auf Kosten des Bauherrn besondere Vorkehren zur Gewährleistung der Verkehrssicherheit angeordnet werden.
 
@@ -2228,17 +2252,13 @@ Für Bauten und Anlagen, die in ungewöhnlicher Weise benutzt werden, besonders 
 
 <sup>3</sup> Derartige Verfügungen schliessen das Verbot ein, auf den betreffenden Grundstücken Abstellplätze zu schaffen, die nicht dem Güterumschlag, einem näher zu bestimmenden besondern Eigenbedarf oder der Parkierung zweirädriger Fahrzeuge dienen.
 
-#### § 246
+**57**
+
+- 1\. 1. 25 - 127 § 246. <sup>1</sup> Ist die Beteiligung an einer Gemeinschaftsanlage innert nützlicher Frist nicht möglich, hat der Grundeigentümer, der kraft behördlicher Feststellung keine oder nur eine herabgesetzte Zahl eigener Abstellplätze schaffen muss oder darf, der Gemeinde eine angemessene Abgabe zu leisten.
 
 **V. Ersatzabgabe27 1. Voraussetzung und Höhe**
 
-<sup>1</sup> Ist die Beteiligung an einer Gemeinschaftsanlage innert nützlicher Frist nicht möglich, hat der Grundeigentümer, der kraft behördlicher Feststellung keine oder nur eine herabgesetzte Zahl eigener Abstellplätze schaffen muss oder darf, der Gemeinde eine angemessene Abgabe zu leisten.
-
 <sup>2</sup> Keine Abgabe ist zu entrichten, soweit das Fehlen von Abstellplätzen auf die behördliche Aufhebung privater Parkierungsmöglichkeiten zurückzuführen ist.
-
-**57**
-
-- 1\. 4. 24 - 124
 
 <sup>3</sup> Die Höhe der Abgabe richtet sich nach den durchschnittlichen Kosten privater Plätze im entsprechenden Gebiet und danach, ob die privaten Plätze nach den Umständen offen oder gedeckt angelegt werden könnten oder müssten; zu berücksichtigen sind ferner Wertverluste, die für das pflichtige Grundstück ohne angemessene Abstellmöglichkeiten entstehen, die Lage des pflichtigen Grundstücks zu einer bestehenden oder vorgesehenen öffentlichen Anlage und deren Art sowie die mutmasslichen Einnahmen des Gemeinwesens.
 
@@ -2306,17 +2326,15 @@ Die Vorschriften über die Bauweise bestimmen, ob und unter welchen Voraussetzun
 
 Die Vorschriften über die Nutzweise bestimmen, welchem Zweck Bauten dienen dürfen oder müssen.
 
-**Aussenwärmedämmung**
+**59**
 
-§ 253 a.<sup>46,</sup> <sup>59</sup> <sup>1</sup> An bestehenden Gebäuden dürfen Aussenwärmedämmungen bis zu 35 cm Dicke unbesehen rechtlicher Abstandsvorschriften, Längenmasse und Höhenmasse angebracht werden. Entgegenstehende überwiegende öffentliche Interessen bleiben vorbehalten.
+- 1\. 1. 25 - 127 § 253 a.<sup>46,</sup> <sup>59</sup> <sup>1</sup> An bestehenden Gebäuden dürfen Aussenwärmedämmungen bis zu 35 cm Dicke unbesehen rechtlicher Abstandsvorschriften, Längenmasse und Höhenmasse angebracht werden. Entgegenstehende überwiegende öffentliche Interessen bleiben vorbehalten.
+
+**Aussenwärmedämmung**
 
 <sup>2</sup> Bei der Berechnung der Baumassen-, Überbauungs- und Grünflächenziffer ist eine nachträglich angebrachte Aussenwärmedämmung unbeachtlich.<sup>55</sup>
 
 <sup>3</sup> Soweit mit einer nachträglich angebrachten Aussenwärmedämmung die Abstandsvorschriften unterschritten worden sind, wird dies bei der rechtlichen Beurteilung einer Baute oder Anlage auf dem Nachbargrundstück nicht berücksichtigt.
-
-**59**
-
-- 1\. 4. 24 - 124
 
 ### II. Die Nutzungsziffern
 
@@ -2340,11 +2358,13 @@ Die Vorschriften über die Nutzweise bestimmen, welchem Zweck Bauten dienen dür
 
 **C. Grünflächenziffer**
 
-§ 257.<sup>55,</sup> <sup>59</sup> <sup>1</sup> Die Grünflächenziffer ist das Verhältnis der anrechenbaren Grünfläche zur anrechenbaren Grundstücksfläche.
+§ 257.<sup>70</sup> <sup>1</sup> Die Grünflächenziffer ist das Verhältnis der anrechenbaren Grünfläche zur anrechenbaren Grundstücksfläche.
 
-<sup>2</sup> Als anrechenbare Grünfläche gelten natürliche und bepflanzte Bodenflächen eines Grundstücks, die nicht versiegelt sind und die nicht als Abstellflächen dienen.
+<sup>2</sup> Als anrechenbare Grünfläche gelten natürliche oder bepflanzte Bodenflächen eines Grundstücks, die nicht versiegelt sind und die nicht als Abstellflächen dienen.
 
 <sup>3</sup> Wird die Konstruktionsstärke der Fassade aufgrund der Wärmedämmung grösser als 35 cm, ist sie nur bis zu diesem Mass zu berücksichtigen.<sup>46</sup>
+
+<sup>4</sup> Die Bau- und Zonenordnung kann den teilweisen Ersatz von anrechenbaren Grünflächen durch zusätzliche Begrünungsmassnahmen vorsehen. Als zusätzliche Begrünungsmassnahmen gelten auch dauernd begrünte Fassadenteile.
 
 **D. Baumassenziffer**
 
@@ -2374,6 +2394,10 @@ Die Vorschriften über die Nutzweise bestimmen, welchem Zweck Bauten dienen dür
 
 <sup>3</sup> Die Grenz- und Gebäudeabstände sind bei seitlich gegliederten Gebäuden für jeden Teil getrennt zu messen. Für Gebäudeteile, welche die für die Regelüberbauung zulässige Fassadenhöhe überschreiten, sind sie um das Mass der Mehrhöhe zu vergrössern.
 
+**61**
+
+- 1\. 1. 25 - 127
+
 <sup>4</sup> Gebäude, deren Gesamthöhe nicht mehr als 1,5 m beträgt und die eine Bodenfläche von höchstens 2 m<sup>2</sup> überlagern, müssen keine Grenz- und Gebäudeabstände einhalten.
 
 - 2\. Abstände von Territorialgrenzen, Wald, Gewässern und von durch
@@ -2396,9 +2420,7 @@ Gebäude dürfen politische Grenzen nicht überstellen.
 
 <sup>4</sup> Im Übrigen gelten für Bauten und Anlagen im Abstandsbereich die Vorschriften des Forstpolizeirechts.
 
-**61**
-
-- 1\. 4. 24 - 124 § 263.<sup>24</sup>
+§ 263.<sup>24</sup>
 
 **D. Abstand von Verkehrsanlagen I. Allgemein**
 
@@ -2456,21 +2478,19 @@ Gebäude dürfen politische Grenzen nicht überstellen.
 
 Über den durch Verkehrsbaulinien oder sie ersetzenden Baubegrenzungslinien gesicherten Raum wird kein Gebäudeabstand gemessen, ausser wenn eine Neubaute über die betreffende Linie hinausgestellt wird.
 
-**C. Erleichterungen I. Kleinbauten und Anbauten**
+**63**
 
-§ 273.<sup>55,</sup> <sup>59</sup> Wo die Bau- und Zonenordnung nichts anderes bestimmt, dürfen Kleinbauten und Anbauten in einem Abstand von 3,5 m von andern Gebäuden errichtet werden.
+- 1\. 1. 25 - 127 § 273.<sup>55,</sup> <sup>59</sup> Wo die Bau- und Zonenordnung nichts anderes bestimmt, dürfen Kleinbauten und Anbauten in einem Abstand von 3,5 m von andern Gebäuden errichtet werden.
 
 #### § 274
+
+**C. Erleichterungen I. Kleinbauten und Anbauten**
 
 **II. Gegenüber bestehenden Gebäuden**
 
 <sup>1</sup> Steht ein nachbarliches Gebäude näher an der Grenze, als es nach den Bauvorschriften zulässig ist, so genügt als Abstand die Summe aus dem Grenzabstand, den das neue Bauvorhaben benötigt, und dem kantonalrechtlichen Mindestgrenzabstand.
 
 <sup>2</sup> Diese Begünstigung gilt nicht, wenn der Eigentümer des nunmehrigen Baugrundstücks gegenüber der Baubehörde die Erklärung abgegeben hat, er habe Kenntnis davon, dass er wegen des nachbarlichen Näherbaus selber einen grössern Grenzabstand werde einhalten müssen, oder wenn durch eine nachträgliche Grenzänderung ein vorher ausreichender Abstand ungenügend gemacht worden ist.
-
-**63**
-
-- 1\. 4. 24 - 124
 
 ### IV. Geschosse, Kniestockhöhe, Fassadenhöhe und Gesamthöhe<sup>55</sup>
 
@@ -2526,6 +2546,10 @@ Gebäude dürfen politische Grenzen nicht überstellen.
 
 § 281.<sup>55,</sup> <sup>59</sup> Die Gesamthöhe ist der grösste Höhenunterschied zwischen dem höchsten Punkt der Dachkonstruktion und den lotrecht darunter liegenden Punkten auf dem massgebenden Terrain.
 
+**65**
+
+- 1\. 1. 25 - 127
+
 - 4\. Hochhäuser<sup>55</sup>
 
 **Begriff und Zulässigkeit**
@@ -2539,10 +2563,6 @@ Gebäude dürfen politische Grenzen nicht überstellen.
 § 284. <sup>1</sup> Hochhäuser müssen verglichen mit einer gewöhnlichen Überbauung ortsbaulich einen Gewinn bringen oder durch die Art und Zweckbestimmung des Gebäudes bedingt sein.
 
 <sup>2</sup> Hochhäuser sind architektonisch besonders sorgfältig zu gestalten.
-
-**65**
-
-- 1\. 4. 24 - 124
 
 <sup>3</sup> Die Ausnützung darf nicht grösser als bei einer gewöhnlichen Überbauung sein; eine Ausnahme ist ausgeschlossen. Vorbehalten bleiben die Bestimmungen über Arealüberbauungen, Sonderbauvorschriften und Gestaltungspläne.
 
@@ -2604,11 +2624,11 @@ b.<sup>68</sup> dass die nach der Bau- und Zonenordnung zulässige Bautiefe nich
 
 - b. bei Flachdächern das vorgeschriebene Mass der Rückversetzungen unterschreiten.
 
-#### § 293
+**67**
+
+- 1\. 1. 25 - 127 § 293. <sup>1</sup> Nicht anrechenbare Untergeschosse dürfen höchstens 1,5 m über dem gestalteten Boden in Erscheinung treten.<sup>23</sup>
 
 **Untergeschosse**
-
-<sup>1</sup> Nicht anrechenbare Untergeschosse dürfen höchstens 1,5 m über dem gestalteten Boden in Erscheinung treten.<sup>23</sup>
 
 <sup>2</sup> Von dieser Beschränkung ausgenommen sind Haus- und Kellerzugänge, Gartenausgänge sowie Ein- und Ausfahrten zu Einzel-, Doppel- oder Sammelgaragen.
 
@@ -2617,10 +2637,6 @@ b.<sup>68</sup> dass die nach der Bau- und Zonenordnung zulässige Bautiefe nich
 <sup>4</sup> Die Bau- und Zonenordnung kann die Freilegung von Untergeschossen näher regeln.<sup>26</sup>
 
 § 294.<sup>25</sup>
-
-**67**
-
-- 1\. 4. 24 - 124
 
 ### D. Anforderungen an Gebäude und Räume
 
@@ -2662,9 +2678,11 @@ Für Gebäude mit mehr als sechs anrechenbaren Geschossen kann der Regierungsrat
 
 <sup>1</sup> Die Räume sind gegen innern und äussern Lärm, Erschütterungen, Feuchtigkeit, schädliche Temperatureinflüsse und Brandgefahr fachgerecht zu schützen.
 
-<sup>2</sup> Die Räume und Raumgruppen müssen zweckentsprechend ausgerüstet sein, insbesondere auch mit sanitären Einrichtungen. § 301.<sup>27</sup> <sup>1</sup> Wohnräume von Mehrzimmerwohnungen dürfen gesamthaft mit den gesetzlich nötigen Fenstern nicht mehrheitlich nach dem Sektor Nordost/Nordwest gerichtet sein.
+<sup>2</sup> Die Räume und Raumgruppen müssen zweckentsprechend ausgerüstet sein, insbesondere auch mit sanitären Einrichtungen.
 
 **Besonnung**
+
+§ 301.<sup>27</sup> <sup>1</sup> Wohnräume von Mehrzimmerwohnungen dürfen gesamthaft mit den gesetzlich nötigen Fenstern nicht mehrheitlich nach dem Sektor Nordost/Nordwest gerichtet sein.
 
 <sup>2</sup> Abweichungen sind zulässig in Kern- und Zentrumszonen oder in Hotels sowie bei besonderen Verhältnissen, insbesondere zum Schutz vor übermässigen Einwirkungen öffentlicher Bauten und Anlagen.
 
@@ -2686,9 +2704,11 @@ Für Gebäude mit mehr als sechs anrechenbaren Geschossen kann der Regierungsrat
 
 <sup>2</sup> Für Küchen kann der Regierungsrat besondere Bestimmungen erlassen.
 
-**Lichte Höhe**
+**69**
 
-§ 304.<sup>55,</sup> <sup>59</sup> <sup>1</sup> Die lichte Höhe ist der Höhenunterschied zwischen der Oberkante des fertigen Bodens und der Unterkante der fertigen Decke bzw. Balkenlage, wenn die Nutzbarkeit eines Geschosses durch die Balkenlage bestimmt wird.
+- 1\. 1. 25 - 127 § 304.<sup>55,</sup> <sup>59</sup> <sup>1</sup> Die lichte Höhe ist der Höhenunterschied zwischen der Oberkante des fertigen Bodens und der Unterkante der fertigen Decke bzw. Balkenlage, wenn die Nutzbarkeit eines Geschosses durch die Balkenlage bestimmt wird.
+
+**Lichte Höhe**
 
 <sup>2</sup> Die lichte Höhe von Räumen beträgt mindestens 2,4 m; in Kernzonen gilt eine lichte Höhe von mindestens 2,3 m.
 
@@ -2699,10 +2719,6 @@ Für Gebäude mit mehr als sechs anrechenbaren Geschossen kann der Regierungsrat
 **Innere Erschliessungen**
 
 <sup>1</sup> Haustüren erfordern ein Lichtmass von 1 m, Treppen und Gänge, welche zu dauernd genutzten Räumen führen, ein solches von 1,2 m; in Einfamilienhäusern und bei vergleichbaren Wohnungsarten sowie Treppen im Wohnungsinnern genügen 0,9 m.<sup>27</sup>
-
-**69**
-
-- 1\. 4. 24 - 124
 
 <sup>2</sup> Jedes Gebäude muss über Fluchtwege (Korridore, Treppenhäuser, Ausgänge) verfügen, die im Brandfall auf dem kürzesten Wege leicht und sicher ins Freie führen. Anzahl und Anordnung der Fluchtwege richten sich insbesondere nach Zweckbestimmung, Ausdehnung, Geschosszahl und Konstruktion des Gebäudes sowie nach der Lage der Räume, die für den Aufenthalt von Menschen bestimmt sind.
 
@@ -2748,7 +2764,7 @@ Küchen dürfen ohne Abtrennung mit Wohnräumen verbunden sein, wenn sie den Erf
 
 - l. Aussenantennen,
 
-- m. Reklameanlagen, n.<sup>26</sup> das Fällen von Bäumen aus den in der Bau- und Zonenordnung bezeichneten Baumbeständen.
+- m. Reklameanlagen, n.<sup>70</sup> das Fällen von Bäumen, für die eine Erhaltungspflicht besteht, o.<sup>69</sup> wesentliche Veränderung der Umgebungsgestaltung, sofern sie die Begrünung beeinträchtigen.
 
 <sup>2</sup> Folgende Anordnungen schliessen die baurechtliche Bewilligung und die mit dem Projekt verbundenen notwendigen Anpassungen an privatem Grundeigentum ein:
 
@@ -2759,6 +2775,10 @@ Küchen dürfen ohne Abtrennung mit Wohnräumen verbunden sein, wenn sie den Erf
 - c. die Erteilung von wasserrechtlichen Konzessionen,
 
 - d. die Erteilung von Bewilligungen und Konzessionen nach dem Gesetz über die Nutzung des Untergrundes vom 25. Mai 2020<sup>8</sup>.
+
+**71**
+
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Die zuständige Direktion kann Vorhaben, für die eine meliorationsrechtliche Genehmigung, eine wasserrechtliche Konzession oder eine Bewilligung oder Konzession nach dem Gesetz über die Nutzung des Untergrundes nötig ist, der örtlichen Baubehörde zum baurechtlichen Entscheid überweisen.
 
@@ -2779,10 +2799,6 @@ Küchen dürfen ohne Abtrennung mit Wohnräumen verbunden sein, wenn sie den Erf
 **Aussteckung**
 
 <sup>1</sup> Vor der öffentlichen Bekanntmachung sind darstellbare Vorhaben auszustecken, Grenzveränderungen ausgenommen.
-
-**71**
-
-- 1\. 4. 24 - 124
 
 <sup>2</sup> Die Aussteckungen müssen mindestens während der ganzen Auflagefrist stehen; werden sie vor der rechtskräftigen Erledigung des Baugesuchs entfernt, kann in streitigen Fällen die Wiedererstellung angeordnet werden.
 
@@ -2824,9 +2840,11 @@ Küchen dürfen ohne Abtrennung mit Wohnräumen verbunden sein, wenn sie den Erf
 
 <sup>2</sup> Die örtliche Baubehörde gibt dem Bauherrn nach Fristablauf und weiteren Instanzen, die eine baurechtliche Bewilligung zu erteilen haben, von solchen Begehren samt den darin vorgebrachten Einwendungen Kenntnis.
 
-<sup>3</sup> Ein Einspracheverfahren wird nicht durchgeführt.<sup>30</sup> § 316. <sup>1</sup> Wer den baurechtlichen Entscheid nicht rechtzeitig verlangt, hat das Rekursrecht verwirkt.
+<sup>3</sup> Ein Einspracheverfahren wird nicht durchgeführt.<sup>30</sup>
 
 **II. Verwirkung**
+
+§ 316. <sup>1</sup> Wer den baurechtlichen Entscheid nicht rechtzeitig verlangt, hat das Rekursrecht verwirkt.
 
 <sup>2</sup> Ist dagegen das Begehren rechtzeitig angebracht worden, sind dem Gesuchsteller alle baurechtlichen Entscheide über das Vorhaben zuzustellen, solange keine neue Aussteckung und Bekanntmachung erfolgt ist.
 
@@ -2848,6 +2866,10 @@ Die örtliche Baubehörde entscheidet über Baugesuche, soweit durch Verordnung 
 
 § 319.<sup>31</sup> <sup>1</sup> Die kantonalen und kommunalen Behörden treffen ihre Entscheide innert zwei Monaten seit der Vorprüfung; für die erstmalige Beurteilung von Neubau- und grösseren Umbauvorhaben steht eine Zeitspanne von vier Monaten seit der Vorprüfung zur Verfügung.
 
+**73**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Die Verordnung regelt die Koordination bei Bauvorhaben, für die mehrere Bewilligungen verschiedener Instanzen erforderlich sind, sowie die Einzelheiten des Verfahrens. Für die Behandlung von Vorhaben, die eine Umweltverträglichkeitsprüfung oder die Mitwirkung von Bundesstellen erfordern, können längere Fristen festgelegt werden.
 
 <sup>3</sup> Können die Behandlungsfristen nicht eingehalten werden, wird den Gesuchstellern unter Angabe der Gründe mitgeteilt, wann der Entscheid vorliegt.
@@ -2865,10 +2887,6 @@ Die Bewilligung ist zu erteilen, wenn das Bauvorhaben den Vorschriften dieses Ge
 <sup>1</sup> Können inhaltliche oder formale Mängel des Bauvorhabens ohne besondere Schwierigkeiten behoben werden oder sind zur Schaffung oder Erhaltung des rechtmässigen Zustands Anordnungen nötig, so sind mit der Bewilligung die gebotenen Nebenbestimmungen (Auflagen, Bedingungen, Befristungen) zu verknüpfen.
 
 <sup>2</sup> Nebenbestimmungen mit längerer zeitlicher Wirkung sind vor Baubeginn im Grundbuch anzumerken; wo ein Bedürfnis besteht, kann die Anmerkung auch bei Eigentumsbeschränkungen angeordnet werden, deren Umfang und Tragweite sich unmittelbar aus den Bauvorschriften ergibt.
-
-**73**
-
-- 1\. 4. 24 - 124
 
 <sup>3</sup> Für die richtige Erfüllung von Nebenbestimmungen in unmittelbarem Zusammenhang mit der Bauausführung kann Sicherstellung verlangt werden; sie ist in der Regel vor Baubeginn zu leisten.
 
@@ -2914,11 +2932,11 @@ Die Bewilligung ist zu erteilen, wenn das Bauvorhaben den Vorschriften dieses Ge
 
 § 326.<sup>68</sup> Mit der Ausführung eines Vorhabens darf nur begonnen werden, wenn a. alle nötigen baurechtlichen Bewilligungen rechtskräftig erteilt und alle auf den Baubeginn gestellten Nebenbestimmungen erfüllt sind oder b. die zuständige Behörde den vorzeitigen Baubeginn elektronisch über die Plattform erlaubt hat.
 
-#### § 327
+**75**
+
+- 1\. 1. 25 - 127 § 327. <sup>1</sup> Baubeginn, Bauvollendung und die wesentlichen Zwischenstände sind der örtlichen Baubehörde so rechtzeitig anzuzeigen, dass eine Überprüfung möglich ist; dies gilt sinngemäss für den Abbruch einer Baute ohne nachfolgenden Neubau.
 
 **Meldepflicht und Baukontrolle**
-
-<sup>1</sup> Baubeginn, Bauvollendung und die wesentlichen Zwischenstände sind der örtlichen Baubehörde so rechtzeitig anzuzeigen, dass eine Überprüfung möglich ist; dies gilt sinngemäss für den Abbruch einer Baute ohne nachfolgenden Neubau.
 
 <sup>2</sup> Die örtliche Baubehörde prüft in geeigneten Abständen, ob die Bauarbeiten den Vorschriften und Plänen entsprechen; gegebenenfalls trifft sie unverzüglich die nötigen Massnahmen.
 
@@ -2937,10 +2955,6 @@ Die Bewilligung ist zu erteilen, wenn das Bauvorhaben den Vorschriften dieses Ge
 - c. die bereits erstellten Bauteile eingeebnet und das Gelände in ordentlichen Stand gebracht werde, d.<sup>26</sup> bei Arealüberbauungen die Bewilligung nach zwei Jahren dahinfalle.
 
 <sup>3</sup> Die Kosten derartiger Massnahmen trägt der Grundeigentümer.
-
-**75**
-
-- 1\. 4. 24 - 124
 
 ### G. Elektronische Verfahrensführung<sup>67</sup>
 
@@ -2990,6 +3004,10 @@ Die Bewilligung ist zu erteilen, wenn das Bauvorhaben den Vorschriften dieses Ge
 
 § 328 f.<sup>67</sup> <sup>1</sup> Ist die Plattform am letzten Tag der Frist für die elektronische Eingabe nicht erreichbar, verlängert sich die Frist bis zum ersten Werktag, nachdem die Plattform für die elektronische Eingabe wieder erreichbar ist.
 
+**77**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Die betroffene Person hat glaubhaft zu machen, dass die Plattform für die elektronische Eingabe nicht erreichbar war.
 
 **Ergänzendes Recht**
@@ -3016,11 +3034,9 @@ Die Bewilligung ist zu erteilen, wenn das Bauvorhaben den Vorschriften dieses Ge
 
 <sup>3</sup> Landwirtschaftliche Streitigkeiten gemäss den §§ 68 ff. des Landwirtschaftsgesetzes vom 2. September 1979<sup>9</sup> werden stets derselben Abteilung zugewiesen. Die Abteilung wird hierfür mit den nach § 334 Abs. 1 gewählten Fachleuten der Land- und Forstwirtschaft besetzt.
 
-**77**
-
-- 1\. 4. 24 - 124 § 334.<sup>44</sup> <sup>1</sup> Der Kantonsrat legt nach Anhörung des Verwaltungsgerichts die Zahl der Mitglieder und deren Beschäftigungsgrad sowie die Zahl der Ersatzmitglieder einschliesslich der Fachleute der Land- und Forstwirtschaft fest.
-
 **II. Zusammensetzung und Wahl**
+
+§ 334.<sup>44</sup> <sup>1</sup> Der Kantonsrat legt nach Anhörung des Verwaltungsgerichts die Zahl der Mitglieder und deren Beschäftigungsgrad sowie die Zahl der Ersatzmitglieder einschliesslich der Fachleute der Land- und Forstwirtschaft fest.
 
 <sup>2</sup> Er wählt die Abteilungspräsidenten, die weiteren Mitglieder und die Ersatzmitglieder. Für einen Drittel der Ersatzmitglieder steht dem Baurekursgericht ein Vorschlagsrecht zu.
 
@@ -3074,9 +3090,11 @@ Die Bewilligung ist zu erteilen, wenn das Bauvorhaben den Vorschriften dieses Ge
 
 § 338 a.<sup>51</sup> Zum Rekurs und zur Beschwerde ist berechtigt, wer durch die angefochtene Anordnung berührt ist und ein schutzwürdiges Interesse an ihrer Aufhebung oder Änderung hat. Dasselbe gilt für die Anfechtung von Erlassen.<sup>22</sup>
 
-**II. Kantonale Verbandsbeschwerde**
+**79**
 
-§ 338 b.<sup>50</sup> <sup>1</sup> Gesamtkantonal tätige Verbände, die sich seit wenigstens zehn Jahren im Kanton statutengemäss dem Natur- und Heimatschutz oder verwandten, rein ideellen Zielen widmen, können Rekurs oder Beschwerde erheben gegen:
+- 1\. 1. 25 - 127 § 338 b.<sup>50</sup> <sup>1</sup> Gesamtkantonal tätige Verbände, die sich seit wenigstens zehn Jahren im Kanton statutengemäss dem Natur- und Heimatschutz oder verwandten, rein ideellen Zielen widmen, können Rekurs oder Beschwerde erheben gegen:
+
+**II. Kantonale Verbandsbeschwerde**
 
 - a. Anordnungen und Erlasse, soweit sie sich auf den III. Titel oder § 238 Abs. 2 stützen,
 
@@ -3096,10 +3114,6 @@ Die Bewilligung ist zu erteilen, wenn das Bauvorhaben den Vorschriften dieses Ge
 
 - c. die Abgeltung eines Rechtsmittelverzichts oder eines anderen prozessualen Verhaltens.
 
-**79**
-
-- 1\. 4. 24 - 124
-
 <sup>5</sup> Die Rechtsmittelbehörde tritt auf einen Rekurs oder eine Beschwerde nicht ein, wenn dieser oder diese rechtsmissbräuchlich ist oder der Verband unzulässige Leistungen im Sinne von Abs. 3 gefordert hat.
 
 **III. Behördenbeschwerde**
@@ -3110,11 +3124,9 @@ Die Bewilligung ist zu erteilen, wenn das Bauvorhaben den Vorschriften dieses Ge
 
 § 339.<sup>27</sup> <sup>1</sup> Rechtsmittel gegen eine baurechtliche Bewilligung hindern den Baubeginn und den Baufortgang nur soweit, als der Ausgang des Verfahrens die Bauausführung beeinflussen kann.
 
-<sup>2</sup> Über den Umfang der aufschiebenden Wirkung und über den Erlass von vorsorglichen Massnahmen entscheidet auf Gesuch einer Partei oder von Amtes wegen der Präsident der Rekurs- oder Beschwerdeinstanz.<sup>51</sup>
+<sup>2</sup> Über den Umfang der aufschiebenden Wirkung und über den Erlass von vorsorglichen Massnahmen entscheidet auf Gesuch einer Partei oder von Amtes wegen der Präsident der Rekurs- oder Beschwerdeinstanz.<sup>51</sup> § 339 a.<sup>41</sup> <sup>1</sup> Die kantonalen Behörden entscheiden über ein Rechtsmittel innert sechs Monaten nach dessen Eingang.
 
 **E. Behandlungsfristen**
-
-§ 339 a.<sup>41</sup> <sup>1</sup> Die kantonalen Behörden entscheiden über ein Rechtsmittel innert sechs Monaten nach dessen Eingang.
 
 <sup>2</sup> Ist für das Bauvorhaben eine Umweltverträglichkeitsprüfung, ein Gutachten oder die Mitwirkung von Bundesstellen erforderlich, so entscheiden sie innert sieben Monaten.
 
@@ -3136,11 +3148,13 @@ Die Bewilligung ist zu erteilen, wenn das Bauvorhaben den Vorschriften dieses Ge
 
 <sup>4</sup> Versuch, Anstiftung und Gehilfenschaft sind strafbar.
 
-<sup>5</sup> Juristische Personen, Kollektiv- und Kommanditgesellschaften sowie Inhaber von Einzelfirmen haften solidarisch für Bussen und Kosten, die ihren Organen oder Hilfspersonen auferlegt werden. Im Verfahren stehen ihnen die gleichen Rechte wie den Beschuldigten zu. § 340 a.<sup>50</sup> Die Strafverfolgung und die Strafe für Widerhandlungen gemäss § 340 verjähren nach fünf Jahren.
-
-#### § 341
+<sup>5</sup> Juristische Personen, Kollektiv- und Kommanditgesellschaften sowie Inhaber von Einzelfirmen haften solidarisch für Bussen und Kosten, die ihren Organen oder Hilfspersonen auferlegt werden. Im Verfahren stehen ihnen die gleichen Rechte wie den Beschuldigten zu.
 
 **Verjährung**
+
+§ 340 a.<sup>50</sup> Die Strafverfolgung und die Strafe für Widerhandlungen gemäss § 340 verjähren nach fünf Jahren.
+
+#### § 341
 
 **Herstellung des rechtmässigen Zustands**
 
@@ -3155,6 +3169,10 @@ Die zuständige Behörde hat ohne Rücksicht auf Strafverfahren und Bestrafung d
 **A. Richtplanungen**
 
 <sup>1</sup> Nach Inkrafttreten dieses Gesetzes sind innert zwei Jahren der kantonale Gesamtplan, innert vier Jahren die regionalen Gesamtpläne und innert fünf Jahren die kommunalen Gesamtpläne festzusetzen.
+
+**81**
+
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Werden diese Fristen nicht eingehalten und wird ihre Erstreckung abgelehnt, so sind die ausstehenden Planungen durch Planungszonen zu sichern.
 
@@ -3185,10 +3203,6 @@ Der Regierungsrat kann ausnahmsweise auf begründetes Gesuch im Einzelfall die F
 **C. Planungszonen**
 
 <sup>1</sup> Bis zum Erlass oder während der Revision von Gesamtrichtplänen oder Nutzungsplänen können für genau bezeichnete Gebiete Planungszonen festgesetzt werden, innerhalb deren keine baulichen Veränderungen oder sonstigen Vorkehren getroffen werden dürfen, die der im Gange befindlichen Planung widersprechen.
-
-**81**
-
-- 1\. 4. 24 - 124
 
 <sup>2</sup> Für die Festsetzung von Planungszonen ist der Staat zuständig. Er hat begründeten Festsetzungsbegehren untergeordneter Planungsträger zu entsprechen.
 
@@ -3246,11 +3260,11 @@ Mit dem Inkrafttreten dieses Gesetzes sind alle bewilligungsbedürftigen Vorhabe
 
 Nach den bisherigen Vorschriften nicht bewilligungsbedürftige Vorhaben unterliegen hinsichtlich Inhalt und Verfahren den neuen Vorschriften, soweit dies nicht aufgrund des fortgeschrittenen Baustadiums unzumutbar ist.
 
-#### § 355
+**83**
+
+- 1\. 1. 25 - 127 § 355. <sup>1</sup> Eingeleitete Quartierplanverfahren können vom Gemeindevorstand<sup>57</sup> hinsichtlich Inhalt und Verfahren auf begründetes Gesuch eines Grundeigentümers oder von Amtes wegen dem neuen Recht unterstellt werden, sofern dadurch keine unverhältnismässigen Verzögerungen entstehen; ein solcher Beschluss ist den Beteiligten schriftlich mitzuteilen.
 
 **B. Quartierpläne**
-
-<sup>1</sup> Eingeleitete Quartierplanverfahren können vom Gemeindevorstand<sup>57</sup> hinsichtlich Inhalt und Verfahren auf begründetes Gesuch eines Grundeigentümers oder von Amtes wegen dem neuen Recht unterstellt werden, sofern dadurch keine unverhältnismässigen Verzögerungen entstehen; ein solcher Beschluss ist den Beteiligten schriftlich mitzuteilen.
 
 <sup>2</sup> Eingeleitete private Quartierplanverfahren sind unter Angabe des Verfahrensstands dem Gemeindevorstand<sup>57</sup> zu melden.
 
@@ -3264,7 +3278,7 @@ Nach den bisherigen Vorschriften nicht bewilligungsbedürftige Vorhaben unterlie
 
 #### § 357
 
-**D. Änderungen an vorschriftswidrigen Bauten und Anlagen I. Auf Veranlassung des Eigentümers**
+**D. Änderungen an vorschriftswidrigenBauten und Anlagen I. Auf Veranlassung des Eigentümers**
 
 <sup>1</sup> Bestehende Bauten und Anlagen, die Bauvorschriften widersprechen, dürfen umgebaut, erweitert und anderen Nutzungen zugeführt werden, sofern sie sich für eine zonengemässe Nutzung nicht eignen, wenn keine überwiegenden öffentlichen oder nachbarlichen Interessen entgegenstehen. Für neue oder weiter gehende Abweichungen von Vorschriften bleiben die erforderlichen Ausnahmebewilligungen vorbehalten.<sup>27</sup>
 
@@ -3273,10 +3287,6 @@ Nach den bisherigen Vorschriften nicht bewilligungsbedürftige Vorhaben unterlie
 <sup>3</sup> . . .<sup>36</sup>
 
 <sup>4</sup> Die baurechtliche Bewilligung kann verlangen, dass Verbesserungen gegenüber dem bestehenden Zustand vorgenommen werden, die im öffentlichen Interesse liegen und nach den Umständen zumutbar sind.
-
-**83**
-
-- 1\. 4. 24 - 124
 
 <sup>5</sup> Bauvorschriften, die eine zweckmässige Anpassung bestehender Bauten und Anlagen an Vorschriften im überwiegenden öffentlichen Interesse nicht zulassen, können durch Verordnung entsprechend gemildert werden. Nachbarn dürfen nicht unzumutbar benachteiligt werden. Solange keine Verordnung darüber besteht, sind Anpassungen im Einzelfall zulässig.<sup>19</sup>
 
@@ -3334,6 +3344,10 @@ Nach den bisherigen Vorschriften nicht bewilligungsbedürftige Vorhaben unterlie
 
 <sup>1</sup> Der Regierungsrat erlässt in den von diesem Gesetz vorgesehenen Fällen Richtlinien und Normalien.
 
+**85**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Er kann Normalien auch für weitere planungs- und baurechtliche Bereiche technischer Natur aufstellen.
 
 <sup>3</sup> Von Richtlinien und Normalien soll nur aus wichtigen Gründen abgewichen werden.
@@ -3355,10 +3369,6 @@ Art. III<sup>26</sup>
 <sup>1</sup> Dieses Gesetz untersteht der Volksabstimmung. Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens. Er ist befugt, das Gesetz stufenweise in Kraft zu setzen.
 
 <sup>2</sup> Innert drei Jahren ab Inkrafttreten der Gesetzesänderung sind der kantonale Richtplan und die regionalen Richtpläne hinsichtlich der geänderten Bestimmungen (§§ 18−30) zu überprüfen und soweit nötig anzupassen.
-
-**85**
-
-- 1\. 4. 24 - 124
 
 <sup>3</sup> Bis zur nächsten Revision der Bau- und Zonenordnung, längstens auf eine Dauer von fünf Jahren ab Inkrafttreten, bleiben unter Vorbehalt von Abs. 4 nachstehend die bisherigen Bestimmungen über die Berechnung der Ausnützungsziffer (§ 255), die Abstände von Strassen (§ 265), die besonderen Gebäude (§§ 273 und 288) und die erlaubte geschlossene Bauweise (§ 286) anwendbar. In begründeten Ausnahmefällen kann der Regierungsrat diese Frist angemessen erstrecken.
 
@@ -3384,6 +3394,10 @@ und der Baurekurskommissionen unter das Verwaltungsgericht vom 13. September 201
 
 Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hängigen Rechtsmittel bestimmt sich nach bisherigem Recht. Die bisherigen Zuständigkeiten gelten auch dann, wenn die Rechtsmittelfrist vor dem Inkrafttreten des neuen Rechts zu laufen begonnen hat, aber erst nachher endet. Im Übrigen findet das neue Recht auf hängige Verfahren Anwendung.
 
+**87**
+
+- 1\. 1. 25 - 127
+
 ### Übergangsbestimmungen zur Änderung vom 14. September 2015
 
 (OS 72, 52)
@@ -3401,10 +3415,6 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 <sup>1</sup> Die Gemeinden passen ihre Bau- und Zonenordnungen innerhalb von fünf Jahren nach der rechtskräftigen Überarbeitung des regionalen Richtplans an.
 
 <sup>2</sup> Ab Festsetzung der Überarbeitung des regionalen Richtplans dürfen bis zur Rechtskraft von ergänzenden Festlegungen im Uferbereich von Seen keine baulichen Veränderungen oder sonstigen Vorkehrungen getroffen werden, welche die Umsetzung des regionalen Richtplans in die Nutzungsplanung nachteilig beeinflussen.
-
-**87**
-
-- 1\. 4. 24 - 124
 
 ### Übergangsbestimmungen zur Änderung vom 23. Oktober 2023
 
@@ -3425,24 +3435,6 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 <sup>2</sup> Bis zu dieser Feststellung sind in der jeweiligen Gemeinde Verfahrenshandlungen in baurechtlichen Verfahren in der Verfahrensform durchzuführen, in der das Baugesuch eingereicht wurde.
 
 <sup>3</sup> Nach dieser Feststellung werden neue Verfahren elektronisch über die Plattform geführt. Bereits rechtshängige Verfahren werden in der bisherigen Verfahrensform weitergeführt.
-
-<sup>10</sup> SR 151.3.
-
-<sup>11</sup> SR 151.31.
-
-<sup>12</sup> SR 210.
-
-<sup>13</sup> SR 272.
-
-<sup>14</sup> SR 281.1.
-
-<sup>15</sup> SR 311.0.
-
-<sup>16</sup> SR 700.
-
-<sup>17</sup> SR 943.03.
-
-<sup>18</sup> Text siehe OS 45, 643 ff., und OS 51, 848.
 
 <sup>19</sup> Eingefügt durch Energiegesetz vom 19. Juni 1983 (OS 48, 757). In Kraft seit 1. Januar 1984 (OS 48, 844).
 
@@ -3477,10 +3469,6 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 <sup>34</sup> Fassung gemäss G vom 27. September 1998 (OS 54, 752). In Kraft seit 1. Juli 1999 (OS 55, 62).
 
 <sup>35</sup> Eingefügt durch G vom 26. August 2002 (OS 57, 345; ABl 2001, 1302). In Kraft seit 1. März 2003 (OS 58, 13).
-
-**89**
-
-- 1\. 4. 24 - 124
 
 <sup>36</sup> Aufgehoben durch G vom 26. August 2002 (OS 57, 345; ABl 2001, 1302). In Kraft seit 1. März 2003 (OS 58, 13).
 
@@ -3530,6 +3518,10 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 
 <sup>59</sup> Übergangsbestimmungen zur Änderung vom 14. September 2015. In Kraft seit 1. März 2017 (siehe Anhang).
 
+**91**
+
+- 1\. 1. 25 - 127
+
 <sup>60</sup> Eingefügt durch G vom 28. Oktober 2013 (OS 74, 547; ABl 2013-06-21). In Kraft seit 1. November 2019.
 
 <sup>61</sup> Fassung gemäss G vom 28. Oktober 2013 (OS 74, 547; ABl 2013-06-21). In Kraft seit 1. November 2019.
@@ -3548,13 +3540,15 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 
 <sup>68</sup> Fassung gemäss G vom 23. Oktober 2023 (OS 79, 64; ABl 2022-07-29). In Kraft seit 1. April 2024.
 
-**91**
+<sup>69</sup> Eingefügt durch G vom 8. April 2024 (OS 79, 420; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
 
-- 1\. 4. 24 - 124
+<sup>70</sup> Fassung gemäss G vom 8. April 2024 (OS 79, 420; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
+
+<sup>71</sup> Aufgehoben durch G vom 8. April 2024 (OS 79, 420; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
 
 ### Anhang
 
-[^hAnhang-1]: Weitergeltung gemäss (OS 72, 52).
+[^hAnhang-1]: Weitergeltung gemäss (OS 72, 52). 1. 1. 25 - 127 93
 
 ## Planungs- und Baugesetz (PBG)
 
@@ -3616,11 +3610,7 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 
 <sup>2</sup> Bei der Beurteilung sind insbesondere folgende Merkmale zu beachten: Beziehung zum Ortsbild sowie zur baulichen und landschaftlichen Umgebung; kubische Gliederung und architektonischer Ausdruck der Gebäude; Lage, Zweckbestimmung, Umfang und Gestaltung der Freiflächen; Wohnlichkeit und Wohnhygiene; Versorgungs- und Entsorgungslösung; Art und Grad der Ausrüstung.<sup>27</sup>
 
-<sup>3</sup> Arealüberbauungen können auch bereits überbaute Grundstücke umfassen, wenn die Überbauung als ganzes den Anforderungen genügt.<sup>27</sup>
-
-**93**
-
-- 1\. 4. 24 - 124 § 73. <sup>1</sup> Die baurechtliche Bewilligung setzt eine vollständige Baueingabe voraus.
+<sup>3</sup> Arealüberbauungen können auch bereits überbaute Grundstücke umfassen, wenn die Überbauung als ganzes den Anforderungen genügt.<sup>27</sup> § 73. <sup>1</sup> Die baurechtliche Bewilligung setzt eine vollständige Baueingabe voraus.
 
 **IV. Sicherungen27**
 
@@ -3632,7 +3622,7 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 
 § 76.<sup>27</sup> Die Bau- und Zonenordnung kann die Erhaltung von näher bezeichneten Baumbeständen und deren Ersatz sowie zonen- oder gebietsweise angemessene Neupflanzungen und die Begrünung geeigneter Teile des Gebäudeumschwungs und von Flachdächern vorschreiben; diese dürfen jedoch die ordentliche Grundstücknutzung nicht übermässig erschweren.
 
-[^50-1]: Weitergeltung gemäss (OS 72, 52).
+[^50-1]: Weitergeltung gemäss (OS 72, 52). 1. 1. 25 - 127 93
 
 #### § 96
 
@@ -3657,6 +3647,10 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 **2. Ausnahmen**
 
 § 100. <sup>1</sup> Einzelne oberirdische Gebäudevorsprünge dürfen bis zu 1,5 m über Verkehrsbaulinien und Baulinien für Versorgungsleitungen und Industriegeleise hinausragen, müssen jedoch entschädigungslos beseitigt werden, sobald die Ausführung des Werks oder der Anlage, wofür die Baulinie festgesetzt worden ist, dies erfordert.
+
+**95**
+
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Fallen Baulinie und Grenze des für die Anlage benötigten Raumes zusammen, haben derartige Vorsprünge einen dem Charakter der betreffenden Anlage entsprechenden Vertikalabstand, in der Regel wenigstens 3 m, einzuhalten.
 
@@ -3693,10 +3687,6 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 <sup>1</sup> Für die Ausnützungsziffer anrechenbar sind alle dem Wohnen, Arbeiten oder sonst dem dauernden Aufenthalt dienenden oder hiefür verwendbaren Räume in Vollgeschossen unter Einschluss der dazugehörigen Erschliessungsflächen und Sanitärräume samt inneren Trennwänden.<sup>27</sup>
 
 <sup>2</sup> Entsprechende Flächen in Dach- und Untergeschossen sind anrechenbar, soweit sie je Geschoss die Fläche überschreiten, die sich bei gleichmässiger Aufteilung der gesamten zulässigen Ausnützung auf die zulässige Vollgeschosszahl ergäbe.<sup>27</sup>
-
-**95**
-
-- 1\. 4. 24 - 124
 
 <sup>3</sup> Durch Verordnung können der Wohnlichkeit oder der Arbeitsplatzgestaltung dienende Nebenräume als nicht anrechenbar erklärt werden.
 
@@ -3740,6 +3730,10 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 
 <sup>1</sup> Der Grenzabstand bestimmt die nötige Entfernung zwischen Fassade und massgebender Grenzlinie, der Gebäudeabstand diejenige zwischen zwei Gebäuden.
 
+**97**
+
+- 1\. 1. 25 - 127
+
 <sup>2</sup> Die Abstände der Bau- und Zonenordnung sind bei seitlich gegliederten Gebäuden für jeden Teil getrennt zu messen. Für Gebäudeteile, welche die für die Regelüberbauung zulässige Gebäudehöhe überschreiten, sind sie um das Mass der Mehrhöhe zu vergrössern.
 
 <sup>3</sup> Einzelne Vorsprünge dürfen höchstens 2 m in den Abstandsbereich hineinragen, Erker, Balkone und dergleichen jedoch höchstens auf einem Drittel der betreffenden Fassadenlänge.<sup>27</sup>
@@ -3769,10 +3763,6 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 **C. Erleichterungen I. Besondere Gebäude**
 
 § 273.<sup>27</sup> Wo die Bau- und Zonenordnung nichts anderes bestimmt, dürfen Gebäude, die nicht für den dauernden Aufenthalt von Menschen bestimmt sind und deren grösste Höhe 4 m, bei Schrägdächern 5 m, nicht übersteigt, in einem Abstand von 3,5 m von andern Gebäuden errichtet werden.
-
-**97**
-
-- 1\. 4. 24 - 124
 
 ### IV. Geschosse, Gebäude- und Firsthöhen
 
@@ -3811,6 +3801,10 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 <sup>1</sup> Wo die Bau- und Zonenordnung nichts anderes bestimmt, ist für die Gebäudehöhe aufgrund der erlaubten Vollgeschosszahl mit einer Bruttogeschosshöhe von 3,3 m, in Zentrums- und Industriezonen von 4 m, und zusätzlich mit 1,5 m für die Erhebung des Erdgeschosses zu rechnen.<sup>27</sup>
 
 <sup>2</sup> Die Gebäudehöhe aufgrund der Verkehrsbaulinien ergibt sich aus deren um einen Neuntel vergrösserten Abstand; sie kann um das Mass einer allfälligen Gebäuderückversetzung erhöht werden.
+
+**99**
+
+- 1\. 1. 25 - 127
 
 <sup>3</sup> Im Bereich unterschiedlicher Baulinienabstände ist bis auf eine Tiefe von 15 m der grössere Abstand massgebend.
 
@@ -3852,13 +3846,13 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 
 <sup>1</sup> Die lichte Mindesthöhe von Räumen, ausser solchen in Einfamilienhäusern und bei vergleichbaren Wohnungsarten, beträgt 2,4 m; in Kernzonen genügen 2,3 m.<sup>27</sup>
 
-**99**
-
-- 1\. 4. 24 - 124
-
 <sup>2</sup> Dieses Mass darf durch kleinere technisch bedingte Bauteile unterschritten werden.
 
 <sup>3</sup> In Dachräumen muss die Mindesthöhe wenigstens über der halben Bodenfläche vorhanden sein.
+
+**101**
+
+- 1\. 1. 25 - 127
 
 ## Weitere Fussnoten
 
@@ -3871,3 +3865,12 @@ bei eingeschossigen Zonen bei zweigeschossigen Zonen bei dreigeschossigen Zonen 
 - [7] LS 700.5.
 - [8] LS 725.1.
 - [9] LS 910.1.
+- [10] SR 151.3.
+- [11] SR 151.31.
+- [12] SR 210.
+- [13] SR 272.
+- [14] SR 281.1.
+- [15] SR 311.0.
+- [16] SR 700.
+- [17] SR 943.03.
+- [18] Text siehe OS 45, 643 ff., und OS 51, 848. 1. 1. 25 - 127 89
