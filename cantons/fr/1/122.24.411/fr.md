@@ -3,13 +3,12 @@ canton: FR
 number: "122.24.411"
 title: "Ordonnance DIAF sur l'organisation et le fonctionnement du Conseil des jeunes"
 language: fr
-version: 2019-07-01
-valid_until: 2024-11-30
-version_adopted: 2019-06-04
+version: 2024-12-01
+version_adopted: 2024-11-05
 adopted: 2016-12-09
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.24.411"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6057/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8076/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6057/pdf_file"
 
 Conseil des jeunes, organisation et fonctionnement – O
 
-du 09.12.2016 (version entrée en vigueur le 01.07.2019)
+du 09.12.2016 (version entrée en vigueur le 01.12.2024)
 
 La Direction des institutions, de l'agriculture et des forêts
 
@@ -46,18 +45,18 @@ Adopte ce qui suit:
 
 #### Art. 2
 
-**Service des affaires institutionnelles, des naturalisations et de l'état civil**
+**Direction des institutions, de l'agriculture et des forêts**
 
-<sup>1</sup> Le Conseil est rattaché au Service des affaires institutionnelles, des naturalisations et de l'état civil (ci-après: le Service).
+<sup>1</sup> Le Conseil est rattaché à la Direction des institutions, de l'agriculture et des forêts (ci-après: la Direction).
 
-<sup>2</sup> Le Service veille à la bonne marche du Conseil. A ce titre, il dispose notamment des attributions suivantes:
+<sup>2</sup> La Direction veille à la bonne marche du Conseil. A ce titre, elle dispose notamment des attributions suivantes:
 
-- a) il est habilité à assister aux séances des organes du Conseil, avec voix consultative;
-- b) il inscrit chaque année, à son budget, un montant forfaitaire destiné à assurer le fonctionnement du Conseil;
-- c) il propose à la Direction des institutions, de l'agriculture et des forêts (ci-après: la Direction) les personnes susceptibles d'être nommées comme membres du Conseil;
-- d) il délivre aux personnes intéressées mais qui ne remplissent pas les conditions personnelles de nomination, en accord avec le Bureau, l'autorisation d'assister aux séances du Conseil et de ses organes sans droit de vote;
-- e) il est habilité à se faire produire par le Bureau, en tout temps, toute pièce nécessaire à l'exercice de ses activités d'appui et de contrôle;
-- f) il approuve, le cas échéant, le règlement interne du Conseil.
+- a) elle est habilitée à assister aux séances des organes du Conseil, avec voix consultative;
+- b) elle inscrit chaque année, à son budget, un montant forfaitaire destiné à assurer le fonctionnement du Conseil;
+- c) …
+- d) elle délivre aux personnes intéressées mais qui ne remplissent pas les conditions personnelles de nomination, en accord avec le Bureau, l'autorisation d'assister aux séances du Conseil et de ses organes sans droit de vote;
+- e) elle est habilitée à se faire produire par le Bureau, en tout temps, toute pièce nécessaire à l'exercice de ses activités d'appui et de contrôle;
+- f) elle approuve, le cas échéant, le règlement interne du Conseil.
 
 #### Art. 3
 
@@ -82,7 +81,7 @@ Adopte ce qui suit:
 
 **Composition et durée des fonctions**
 
-<sup>1</sup> Le Conseil se compose en principe de quinze à trente membres, nommés pour un mandat de deux ans par la Direction sur la proposition du Service.
+<sup>1</sup> Le Conseil se compose en principe de quinze à trente membres, nommés pour un mandat de deux ans par la Direction.
 
 <sup>2</sup> Le Conseil est intégralement renouvelé à l'échéance du mandat. Les anciens membres peuvent se représenter aussi longtemps qu'ils remplissent les conditions personnelles de nomination.
 
@@ -115,7 +114,7 @@ Adopte ce qui suit:
 - b) par démission;
 - c) à l'âge de 25 ans révolus, sauf autorisation de la Direction.
 
-<sup>2</sup> La démission peut être présentée en tout temps. Elle est adressée par écrit au président ou à la présidente, qui la communique sans retard au Service, et mentionne la date à laquelle elle prend effet.
+<sup>2</sup> La démission peut être présentée en tout temps. Elle est adressée par écrit au président ou à la présidente, qui la communique sans retard à la Direction, et mentionne la date à laquelle elle prend effet.
 
 ## 3 Assemblée générale du Conseil
 
@@ -185,9 +184,9 @@ Adopte ce qui suit:
 - f) il constitue les groupes de travail;
 - g) il veille au bon fonctionnement du Conseil, en particulier en planifiant à temps ses séances et en arrêtant la liste des objets à traiter;
 - h) il peut élaborer le règlement interne du Conseil, appelé à compléter le cas échéant les dispositions de la présente ordonnance;
-- i) il informe régulièrement le Service sur ses projets et activités, notamment par l'envoi systématique des convocations aux séances des organes du Conseil, des procès-verbaux y relatifs, des projets de rapport d'activité, de budget et de comptes.
+- i) il informe régulièrement la Direction sur ses projets et activités, notamment par l'envoi systématique des convocations aux séances des organes du Conseil, des procès-verbaux y relatifs, des projets de rapport d'activité, de budget et de comptes.
 
-<sup>3</sup> Le rapport d'activité ainsi que le programme d'activités qui fixe les grandes échéances et les animations que le Conseil entend mener sont remis au Service au plus tard à la fin du mois de janvier.
+<sup>3</sup> Le rapport d'activité ainsi que le programme d'activités qui fixe les grandes échéances et les animations que le Conseil entend mener sont remis à la Direction au plus tard à la fin du mois de janvier.
 
 #### Art. 14
 
@@ -229,7 +228,7 @@ Adopte ce qui suit:
 
 <sup>1</sup> Le caissier ou la caissière est immédiatement rééligible jusqu'à l'expiration de sa qualité de membre du Conseil.
 
-<sup>2</sup> Il ou elle vise les factures et les transmet au Service.
+<sup>2</sup> Il ou elle vise les factures et les transmet à la Direction.
 
 #### Art. 19
 
@@ -281,7 +280,7 @@ Adopte ce qui suit:
 
 <sup>3</sup> Elle est élaborée dans les deux langues officielles du canton et est disponible sur le site Internet du Conseil.
 
-<sup>4</sup> Avant sa distribution ou sa publication, elle est présentée au Service.
+<sup>4</sup> Avant sa distribution ou sa publication, elle est présentée à la Direction.
 
 ## 7 Droits et obligations des membres du Conseil
 
@@ -321,7 +320,7 @@ Adopte ce qui suit:
 
 <sup>3</sup> Le membre du Conseil excusé, mentionné absent ou dont le nom ne figure pas sur la liste lors d'un appel nominal est privé des indemnités.
 
-<sup>4</sup> Le membre qui manque d'assiduité aux séances reçoit un avertissement du Bureau; le cas échéant, le Bureau pourvoit à son remplacement au sein du groupe de travail concerné. Si les manquements perdurent, le Bureau propose à la Direction, par l'intermédiaire du Service, de déclarer ce membre démissionnaire du Conseil.
+<sup>4</sup> Le membre qui manque d'assiduité aux séances reçoit un avertissement du Bureau; le cas échéant, le Bureau pourvoit à son remplacement au sein du groupe de travail concerné. Si les manquements perdurent, le Bureau propose à la Direction de déclarer ce membre démissionnaire du Conseil.
 
 #### Art. 28
 
@@ -329,7 +328,7 @@ Adopte ce qui suit:
 
 <sup>1</sup> Les membres du Conseil reçoivent une indemnité de séance de 15 francs et, le cas échéant, une indemnité de déplacement pour leur participation aux assemblées générales et aux séances du Bureau.
 
-<sup>2</sup> Une indemnité annuelle et forfaitaire fixée à 100 francs est octroyée aux membres du Bureau. Elle est de 150 francs pour le président ou la présidente. Le Service peut octroyer au ou à la secrétaire ainsi qu'au caissier ou à la caissière une indemnité supplémentaire adaptée aux prestations fournies.
+<sup>2</sup> Une indemnité annuelle et forfaitaire fixée à 100 francs est octroyée aux membres du Bureau. Elle est de 150 francs pour le président ou la présidente. La Direction peut octroyer au ou à la secrétaire ainsi qu'au caissier ou à la caissière une indemnité supplémentaire adaptée aux prestations fournies.
 
 <sup>3</sup> Les membres ont droit au remboursement des autres frais qu'ils engagent dans le cadre de leurs activités au service du Conseil et du Bureau.
 
@@ -347,9 +346,9 @@ Adopte ce qui suit:
 
 #### Art. 30
 
-<sup>1</sup> Les crédits alloués au Conseil sont gérés conformément aux instructions du Service.
+<sup>1</sup> Les crédits alloués au Conseil sont gérés conformément aux instructions de la Direction.
 
-<sup>2</sup> Le Service assume la tenue de la comptabilité du Conseil.
+<sup>2</sup> La Direction assume la tenue de la comptabilité du Conseil.
 
 ## 9 Droit supplétif
 

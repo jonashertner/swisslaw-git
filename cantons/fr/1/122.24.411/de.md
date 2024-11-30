@@ -3,13 +3,12 @@ canton: FR
 number: "122.24.411"
 title: Verordnung ILFD über die Organisation und die Arbeitsweise des Jugendrates
 language: de
-version: 2019-07-01
-valid_until: 2024-11-30
-version_adopted: 2019-06-04
+version: 2024-12-01
+version_adopted: 2024-11-05
 adopted: 2016-12-09
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.24.411"
-pdf: "https://bdlf.fr.ch/api/de/versions/6057/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8076/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6057/pdf_file"
 
 Jugendrat, Organisation und Arbeitsweise – V
 
-vom 09.12.2016 (Fassung in Kraft getreten am 01.07.2019)
+vom 09.12.2016 (Fassung in Kraft getreten am 01.12.2024)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
@@ -46,18 +45,18 @@ beschliesst:
 
 #### Art. 2
 
-**Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen**
+**Direktion der Institutionen und der Land- und Forstwirtschaft**
 
-<sup>1</sup> Der Rat ist dem Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen (das Amt) zugewiesen.
+<sup>1</sup> Der Rat ist der Direktion der Institutionen und der Land- und Forstwirtschaft (die Direktion) zugewiesen.
 
-<sup>2</sup> Das Amt sorgt für einen guten Ratsbetrieb. Dazu verfügt es namentlich über die folgenden Befugnisse:
+<sup>2</sup> Die Direktion sorgt für einen guten Ratsbetrieb. Dazu verfügt sie namentlich über die folgenden Befugnisse:
 
-- a) Es kann mit beratender Stimme an den Sitzungen der Organe des Rates teilnehmen.
-- b) Es sieht jedes Jahr in seinem Voranschlag einen Pauschalbetrag vor, der die Ratsarbeit ermöglicht.
-- c) Es schlägt der Direktion der Institutionen und der Land- und Forstwirtschaft (die Direktion) Personen vor, die zu Ratsmitgliedern ernannt werden könnten.
-- d) Es stellt den interessierten Personen, die jedoch die persönlichen Ernennungsvoraussetzungen nicht erfüllen, im Einvernehmen mit dem Büro, eine Genehmigung aus, damit sie ohne Stimmrecht an den Sitzungen des Rates und seiner Organe teilnehmen können.
-- e) Es kann jederzeit vom Büro die zur Ausübung seiner Unterstützungs- und Kontrolltätigkeit erforderlichen Belege verlangen.
-- f) Es genehmigt gegebenenfalls das Geschäftsreglement des Rates.
+- a) Sie kann mit beratender Stimme an den Sitzungen der Organe des Rates teilnehmen.
+- b) Sie sieht jedes Jahr in ihrem Voranschlag einen Pauschalbetrag vor, der die Ratsarbeit ermöglicht.
+- c) …
+- d) Sie stellt den interessierten Personen, die jedoch die persönlichen Ernennungsvoraussetzungen nicht erfüllen, im Einvernehmen mit dem Büro, eine Genehmigung aus, damit sie ohne Stimmrecht an den Sitzungen des Rates und seiner Organe teilnehmen können.
+- e) Sie kann jederzeit vom Büro die zur Ausübung ihrer Unterstützungs- und Kontrolltätigkeit erforderlichen Belege verlangen.
+- f) Sie genehmigt gegebenenfalls das Geschäftsreglement des Rates.
 
 #### Art. 3
 
@@ -82,7 +81,7 @@ beschliesst:
 
 **Zusammensetzung und Amtsdauer**
 
-<sup>1</sup> Der Rat setzt sich grundsätzlich aus 15 bis 30 Mitgliedern zusammen, welche die Direktion auf Antrag des Amtes für eine Dauer von zwei Jahren ernennt.
+<sup>1</sup> Der Rat setzt sich grundsätzlich aus 15 bis 30 Mitgliedern zusammen, welche die Direktion für eine Dauer von zwei Jahren ernennt.
 
 <sup>2</sup> Nach Ablauf des Mandats wird der Rat vollständig erneuert. Die ehemaligen Mitglieder können sich um ein neues Mandat bewerben, solange sie die persönlichen Ernennungsvoraussetzungen erfüllen.
 
@@ -115,7 +114,7 @@ beschliesst:
 - b) mit der Rücktrittserklärung;
 - c) mit Vollendung des 25. Lebensjahres, es sei denn, die Direktion habe eine entsprechende Bewilligung erteilt.
 
-<sup>2</sup> Der Rücktritt kann jederzeit erklärt werden. Das Mitglied teilt ihn der Präsidentin oder dem Präsidenten schriftlich mit und gibt an, auf welches Datum es zurücktritt; die Präsidentin oder der Präsident setzt das Amt unverzüglich darüber in Kenntnis.
+<sup>2</sup> Der Rücktritt kann jederzeit erklärt werden. Das Mitglied teilt ihn der Präsidentin oder dem Präsidenten schriftlich mit und gibt an, auf welches Datum es zurücktritt; die Präsidentin oder der Präsident setzt die Direktion unverzüglich darüber in Kenntnis.
 
 ## 3 Generalversammlung des Rates
 
@@ -185,9 +184,9 @@ beschliesst:
 - f) Es bildet die Arbeitsgruppen.
 - g) Es sorgt für einen guten Ratsbetrieb, indem es insbesondere die Sitzungen rechtzeitig plant und die Liste der Verhandlungsgegenstände beschliesst.
 - h) Es kann ein Geschäftsreglement des Rates ausarbeiten, das gegebenenfalls die Bestimmungen dieser Verordnung ergänzt.
-- i) Es informiert das Amt regelmässig über seine Projekte und Aktivitäten, namentlich indem es ihm die Einberufungen zu den Sitzungen der Organe des Rates, die entsprechenden Protokolle, die Entwürfe des Tätigkeitsberichts, des Voranschlags und der Rechnung systematisch zustellt.
+- i) Es informiert die Direktion regelmässig über seine Projekte und Aktivitäten, namentlich indem es ihr die Einberufungen zu den Sitzungen der Organe des Rates, die entsprechenden Protokolle, die Entwürfe des Tätigkeitsberichts, des Voranschlags und der Rechnung systematisch zustellt.
 
-<sup>3</sup> Der Tätigkeitsbericht sowie das Tätigkeitsprogramm mit den wichtigsten Eckdaten und Veranstaltungen des Rates müssen dem Amt bis spätestens Ende Januar zugestellt werden.
+<sup>3</sup> Der Tätigkeitsbericht sowie das Tätigkeitsprogramm mit den wichtigsten Eckdaten und Veranstaltungen des Rates müssen der Direktion bis spätestens Ende Januar zugestellt werden.
 
 #### Art. 14
 
@@ -229,7 +228,7 @@ beschliesst:
 
 <sup>1</sup> Die Kassierin oder der Kassier kann wiedergewählt werden, solange sie oder er Mitglied des Rates ist.
 
-<sup>2</sup> Sie oder er visiert die Rechnungen und leitet sie an das Amt weiter.
+<sup>2</sup> Sie oder er visiert die Rechnungen und leitet sie an die Direktion weiter.
 
 #### Art. 19
 
@@ -281,7 +280,7 @@ beschliesst:
 
 <sup>3</sup> Sie wird in den beiden Amtssprachen des Kantons verfasst und ist auf der Website des Rates zugänglich.
 
-<sup>4</sup> Bevor sie verteilt oder veröffentlicht wird, wird sie dem Amt vorgestellt.
+<sup>4</sup> Bevor sie verteilt oder veröffentlicht wird, wird sie der Direktion vorgestellt.
 
 ## 7 Rechte und Pflichten der Mitglieder des Rates
 
@@ -321,7 +320,7 @@ beschliesst:
 
 <sup>3</sup> Ist ein Mitglied des Rates entschuldigt oder abwesend oder steht sein Name bei einer Abstimmung unter Namensaufruf nicht auf der Liste, so erhält es keine Entschädigung.
 
-<sup>4</sup> Nimmt ein Mitglied nicht regelmässig an den Sitzungen teil, so wird es vom Büro verwarnt; gegebenenfalls sorgt das Büro dafür, dass das Mitglied in der betreffenden Arbeitsgruppe ersetzt wird. Tritt keine Besserung ein, so beantragt das Büro der Direktion durch das Amt, das Mitglied als zurückgetreten zu erklären.
+<sup>4</sup> Nimmt ein Mitglied nicht regelmässig an den Sitzungen teil, so wird es vom Büro verwarnt; gegebenenfalls sorgt das Büro dafür, dass das Mitglied in der betreffenden Arbeitsgruppe ersetzt wird. Tritt keine Besserung ein, so beantragt das Büro der Direktion, das Mitglied als zurückgetreten zu erklären.
 
 #### Art. 28
 
@@ -329,7 +328,7 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder des Rates erhalten für die Teilnahme an den Generalversammlungen und den Sitzungen des Büros ein Sitzungsgeld von 15 Franken und gegebenenfalls eine Reiseentschädigung.
 
-<sup>2</sup> Die Mitglieder des Büros erhalten eine jährliche pauschale Entschädigung von 100 Franken. Die Entschädigung der Präsidentin oder des Präsidenten beträgt 150 Franken. Das Amt kann der Sekretärin oder dem Sekretär und der Kassierin oder dem Kassier eine zusätzliche Entschädigung gewähren, die den erbrachten Leistungen angepasst ist.
+<sup>2</sup> Die Mitglieder des Büros erhalten eine jährliche pauschale Entschädigung von 100 Franken. Die Entschädigung der Präsidentin oder des Präsidenten beträgt 150 Franken. Die Direktion kann der Sekretärin oder dem Sekretär und der Kassierin oder dem Kassier eine zusätzliche Entschädigung gewähren, die den erbrachten Leistungen angepasst ist.
 
 <sup>3</sup> Die Mitglieder haben Anspruch auf eine Entschädigung für die übrigen Kosten, die ihnen im Rahmen ihrer Tätigkeit für den Rat und das Büro erwachsen.
 
@@ -347,9 +346,9 @@ beschliesst:
 
 #### Art. 30
 
-<sup>1</sup> Die dem Rat gewährten Kredite werden gemäss den Weisungen des Amtes verwaltet.
+<sup>1</sup> Die dem Rat gewährten Kredite werden gemäss den Weisungen der Direktion verwaltet.
 
-<sup>2</sup> Das Amt übernimmt die Buchführung des Rates.
+<sup>2</sup> Die Direktion übernimmt die Buchführung des Rates.
 
 ## 9 Ergänzendes Recht
 
