@@ -3,13 +3,13 @@ canton: FR
 number: "184.16"
 title: "Verordnung über das kantonale Bezugssystem von Daten von Personen, von Organisationen und von Verzeichnissen (Pilotprojekt)"
 language: de
-version: 2023-08-01
-valid_until: 2024-11-30
-version_adopted: 2023-07-06
+version: 2024-12-01
+valid_until: 2025-01-31
+version_adopted: 2024-11-05
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7797/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8077/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7797/pdf_file"
 
 Kantonale Bezugssystem von Daten – V
 
-vom 24.06.2019 (Fassung in Kraft getreten am 01.08.2023)
+vom 24.06.2019 (Fassung in Kraft getreten am 01.12.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -234,7 +234,7 @@ beschliesst:
   - 2\. die Kantonale Sozialversicherungsanstalt (KSVA);
   - 3\. das Amt für Personal und Organisation (POA);
   - 4\. das Handelsregisteramt (HRA);
-  - 5\. das Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen (IAEZA).
+  - 5\. das Generalsekretariat der Direktion der Institutionen und der Land- und Forstwirtschaft (GS-ILFD).
 
 <sup>2</sup> Mit den angemessenen Bewilligungen und in einem erlaubten Umfang darf das kantonale Bezugssystem mit Referenzdaten, die aus Informationssystemen des Bundes stammen, gespiesen werden; diese Systeme sind insbesondere:
 

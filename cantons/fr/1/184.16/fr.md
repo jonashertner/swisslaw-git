@@ -3,13 +3,13 @@ canton: FR
 number: "184.16"
 title: "Ordonnance concernant la mise en œuvre du Référentiel cantonal de données de personnes, organisations et nomenclatures (projet pilote)"
 language: fr
-version: 2023-08-01
-valid_until: 2024-11-30
-version_adopted: 2023-07-06
+version: 2024-12-01
+valid_until: 2025-01-31
+version_adopted: 2024-11-05
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7797/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8077/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7797/pdf_file"
 
 Référentiel cantonal de données – O
 
-du 24.06.2019 (version entrée en vigueur le 01.08.2023)
+du 24.06.2019 (version entrée en vigueur le 01.12.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -234,7 +234,7 @@ Arrête:
   - 2\. l'Etablissement cantonal des assurances sociales (ECAS);
   - 3\. le Service du personnel et d'organisation (SPO);
   - 4\. le Service du registre du commerce (SRC);
-  - 5\. le Service des affaires institutionnelles, des naturalisations et de l'état civil (SAINEC).
+  - 5\. le Secrétariat général de la Direction des institutions, de l'agriculture et des forêts (SG-DIAF).
 
 <sup>2</sup> Moyennant l'obtention des autorisations adéquates et sur un périmètre autorisé, le Référentiel cantonal peut être alimenté par les données de référence provenant de systèmes d'information fédéraux, en particulier:
 
