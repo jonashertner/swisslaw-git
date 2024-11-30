@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: Verordnung zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei
 language: de
-version: 2024-03-01
-valid_until: 2024-11-30
-version_adopted: 2024-02-20
+version: 2024-12-01
+valid_until: 2025-01-31
+version_adopted: 2024-11-05
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/8036/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8075/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8036/pdf_file"
 
 Verwaltungseinheiten der Direktionen und der Staatskanzlei – V
 
-vom 09.07.2002 (Fassung in Kraft getreten am 01.03.2024)
+vom 09.07.2002 (Fassung in Kraft getreten am 01.12.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -88,7 +88,7 @@ beschliesst:
 <sup>1</sup> Der Direktion der Institutionen und der Land- und Forstwirtschaft sind folgende Verwaltungseinheiten unterstellt:
 
 - a) das Generalsekretariat (GS-ILFD);
-- b) das Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen (IAEZA);
+- b) das Amt für Zivilstand und Einbürgerung (ZEiA);
 - c) das Amt für Gemeinden (GemA);
 - d) …
 - e) das Amt für Lebensmittelsicherheit und Veterinärwesen (LSVW);

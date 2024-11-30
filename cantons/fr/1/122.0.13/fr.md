@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: "Ordonnance désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 language: fr
-version: 2024-03-01
-valid_until: 2024-11-30
-version_adopted: 2024-02-20
+version: 2024-12-01
+valid_until: 2025-01-31
+version_adopted: 2024-11-05
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8036/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8075/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8036/pdf_file"
 
 Unités administratives des Directions et de la Chancellerie – O
 
-du 09.07.2002 (version entrée en vigueur le 01.03.2024)
+du 09.07.2002 (version entrée en vigueur le 01.12.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -88,7 +88,7 @@ Arrête:
 <sup>1</sup> La Direction des institutions, de l'agriculture et des forêts comprend les unités administratives subordonnées suivantes:
 
 - a) le Secrétariat général (SG-DIAF);
-- b) le Service des affaires institutionnelles, des naturalisations et de l'état civil (SAINEC);
+- b) le Service de l'état civil et des naturalisation (SENa);
 - c) le Service des communes (SCom);
 - d) …
 - e) le Service de la sécurité alimentaire et des affaires vétérinaires (SAAV);
