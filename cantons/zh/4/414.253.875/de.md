@@ -3,10 +3,10 @@ canton: ZH
 number: "414.253.875"
 title: Studienordnung für den Masterstudiengang Circular Economy Management an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-nachtrag: "118"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 2022-06-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_875-2022_06_02-2022_10_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_875-2022_06_02-2022_10_01-127.html"
 text: pdf
 ---
 
@@ -24,11 +24,11 @@ beschliesst:
 
 [^t-1]: OS 77, 430; Begründung siehe ABl 2022-07-29.
 [^t-2]: Inkrafttreten: 1. Oktober 2022.
-[^t-3]: LS 414.252.3. 1.10. 22 - 118 3
+[^t-3]: LS 414.252.3.
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1.10. 22 - 118 3
+[^hAAllgemeineBestim-1]: LS 414.252.3.
 
 #### § 1
 
@@ -68,7 +68,9 @@ An der ZHAW oder andernorts auf konsekutiver Masterebene erworbene ECTS-Credits 
 
 **1**
 
-1.10. 22 - 118 b. Bachelorabschluss in einem naturwissenschaftichen Studiengang von 180 ECTS-Credits mit einer Abschlussnote von mindestens 4,50,
+- 1\. 1. 25 - 127
+
+- b. Bachelorabschluss in einem naturwissenschaftichen Studiengang von 180 ECTS-Credits mit einer Abschlussnote von mindestens 4,50,
 
 - c. Bachelorabschluss in einem ingenieurwissenschaftlichen Studiengang von 180 ECTS-Credits mit einer Abschlussnote von mindestens 4,50.
 
@@ -98,47 +100,44 @@ Personen, die an einer anderen Hochschule in einem inhaltlich entsprechenden Mas
 
 ### D. Prüfungen und andere Leistungsnachweise
 
-#### § 8
+**Bestehen von Modulen**
+
+§ 8.[^hDPrüfungenundand-1] <sup>1</sup> Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,00 beträgt oder b. das Modul mit «bestanden» bewertet wird.
+
+<sup>2</sup> Bei benoteten Modulen müssen alle nicht benoteten Leistungsnachweise bestanden sein. Die Modulbeschreibung kann abweichende oder zusätzliche Bestehensvoraussetzungen festhalten.
 
 **Expertinnen und Experten**
 
-<sup>1</sup> In der Modulbeschreibung kann vorgesehen werden, dass Expertinnen und Experten zur Beurteilung von Leistungsnachweisen, insbesondere von Masterarbeiten und Praxisprojekten, herangezogen werden.
+§ 9.[^hDPrüfungenundand-2] <sup>1</sup> In der Modulbeschreibung kann vorgesehen werden, dass Expertinnen und Experten zur Beurteilung von Leistungsnachweisen, insbesondere von Masterarbeiten und Praxisprojekten, herangezogen werden.
 
 <sup>2</sup> Expertinnen und Experten haben bei der Bewertung eine beratende Funktion.
 
-#### § 9
-
 **Nachbesserung oder Nachprüfung**
 
-<sup>1</sup> Eine Nachbesserung oder Nachprüfung einzelner Leistungsnachweise oder Module ist möglich, sofern dies in der Modulbeschreibung festgehalten ist und die Bewertung mit mindestens der Note 3,50 erfolgte. Nach erfolgter Nachbesserung kann höchstens die Note 4,00 vergeben werden.
+§ 10.[^hDPrüfungenundand-2] <sup>1</sup> Eine Nachbesserung oder Nachprüfung einzelner Leistungsnachweise oder Module ist möglich, sofern dies in der Modulbeschreibung festgehalten ist und die Bewertung mit mindestens der Note 3,50 erfolgte. Nach erfolgter Nachbesserung kann höchstens die Note 4,00 vergeben werden.
 
 <sup>2</sup> Die Studiengangleitung entscheidet über Art, Umfang, Form und Zeitpunkt der Nachbesserung oder Nachprüfung.
 
-#### § 10
-
 **Wiederholung von Modulen**
 
-Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des Moduls wiederholen. Die Studiengangleitung legt Termine und Modalitäten fest.
+§ 11.[^hDPrüfungenundand-2] Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des Moduls wiederholen. Die Studiengangleitung legt Termine und Modalitäten fest.
+
+[^hDPrüfungenundand-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 416; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
+[^hDPrüfungenundand-2]: Nummerierung gemäss B vom 5. September 2024 (OS 79, 416; ABl 2024-09-27). In Kraft seit 1. Dezember 2024. 1. 1. 25 - 127 3
 
 ### E. Studienabschluss und Masterdiplom
 
-#### § 11
-
 **Bestehensvoraussetzungen**
 
-Der Mastertitel wird vergeben, wenn a. alle erforderlichen Module bestanden und b. 90 ECTS-Credits erreicht sind.
-
-#### § 12
+§ 12.[^hEStudienabschluss-1] Der Mastertitel wird vergeben, wenn a. alle erforderlichen Module bestanden und b. 90 ECTS-Credits erreicht sind.
 
 **Abschlussnote a. Allgemein**
 
-Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der gemäss Anhang relevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
-
-#### § 13
+§ 13.[^hEStudienabschluss-1] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der gemäss Anhang relevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
 
 **b. ECTS-Credits aus Wahlpflichtmodulen**
 
-<sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+§ 14.[^hEStudienabschluss-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 <sup>2</sup> Die Studiengangleitung regelt,
 
@@ -148,11 +147,11 @@ Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der gemäss Anha
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-#### § 14
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Circular Economy Management» abgeschlossen.
+§ 15.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Circular Economy Management» abgeschlossen.
+
+[^hEStudienabschluss-1]: Nummerierung gemäss B vom 5. September 2024 (OS 79, 416; ABl 2024-09-27). In Kraft seit 1. Dezember 2024. 1. 1. 25 - 127 3
 
 ### Anhang zur Studienordnung für den Masterstudiengang Circular Economy Management an der Zürcher Hochschule für Angewandte Wissenschaften
 
