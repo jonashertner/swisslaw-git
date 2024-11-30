@@ -4,13 +4,13 @@ number: "610.11"
 title: Ausführungsreglement zum Gesetz über den Finanzhaushalt des Staates
 short: FHR
 language: de
-version: 2022-01-01
-valid_until: 2024-11-30
-version_adopted: 2021-12-14
+version: 2024-12-01
+valid_until: 2025-10-31
+version_adopted: 2024-12-10
 adopted: 1996-03-12
 in_force: 1996-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/610.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7033/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8094/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Finanzhaushalt des Staates – R
 
 (FHR)
 
-vom 12.03.1996 (Fassung in Kraft getreten am 01.01.2022)
+vom 12.03.1996 (Fassung in Kraft getreten am 01.12.2024)
 
 Der Staatsrat des Kantons Freiburg
 

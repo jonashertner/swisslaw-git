@@ -4,13 +4,13 @@ number: "610.11"
 title: "Règlement d'exécution de la loi sur les finances de l'Etat"
 short: RFE
 language: fr
-version: 2022-01-01
-valid_until: 2024-11-30
-version_adopted: 2021-12-14
+version: 2024-12-01
+valid_until: 2025-10-31
+version_adopted: 2024-12-10
 adopted: 1996-03-12
 in_force: 1996-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/610.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7033/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8094/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Finances de l'Etat – R
 
 (RFE)
 
-du 12.03.1996 (version entrée en vigueur le 01.01.2022)
+du 12.03.1996 (version entrée en vigueur le 01.12.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
