@@ -3,36 +3,35 @@ canton: VS
 number: "800.104"
 title: "Arrêté sur les frais relatifs à l'application de la loi sur la santé"
 language: fr
-version: 2021-04-01
-valid_until: 2024-11-30
-version_adopted: 2021-04-14
+version: 2024-12-01
+version_adopted: 2024-11-27
 adopted: 2013-12-18
 in_force: 2014-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/800.104"
-pdf: "https://lex.vs.ch/api/fr/versions/2875/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3421/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté sur les frais relatifs à l'application de la loi sur la santé
 
-du 18.12.2013 (état 01.04.2021)
+du 18.12.2013 (état 01.12.2024)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi fédérale sur les professions médicales universitaires du 23 juin 2006 (Loi sur les professions médicales, LPMéd);
+vu la loi fédérale sur les professions médicales universitaires du 23 juin 2006 (loi sur les professions médicales, LPMéd);
 
 vu la loi fédérale sur les professions relevant du domaine de la psychologie du 18 mars 2011 (LPsy);
 
 vu la loi fédérale sur les professions de la santé du 30 avril 2016 (LPSan);
 
-vu la loi fédérale sur les médicaments et les dispositifs médicaux du 15 décembre 2000 (Loi sur les produits thérapeutiques, LPTh) et ses dispositions d'application;
+vu la loi fédérale sur les médicaments et les dispositifs médicaux du 15 décembre 2000 (loi sur les produits thérapeutiques, LPTh) et ses dispositions d'application;
 
-vu la loi fédérale sur les stupéfiants et les substances psychotropes du 3 octobre 1951 (Loi sur les stupéfiants, LStup) et ses dispositions d'application;
+vu la loi fédérale sur les stupéfiants et les substances psychotropes du 3 octobre 1951 (loi sur les stupéfiants, LStup) et ses dispositions d'application;
 
 vu la loi sur la santé du 12 mars 2020 (LS) et ses dispositions d'application concernant notamment l'exercice des professions de la santé et leur surveillance, l'exploitation des établissements et institutions sanitaires;
 
-vu l'ordonnance sur les produits thérapeutiques du 4 mars 2009 ainsi que l'ordonnance sur la recherche biomédicale impliquant des êtres humains du 4 mars 2009;
+vu l'ordonnance sur les produits thérapeutiques du 4 mars 2009;
 
 vu l'article 88 et suivants de la loi sur la procédure et la juridiction administratives du 6 octobre 1976 (LPJA);
 
@@ -48,15 +47,15 @@ arrête:
 
 **Buts**
 
-<sup>1</sup> Le présent arrêté établit les émoluments et les débours perçus notamment en application de la loi fédérale sur les professions médicales universitaires du 23 juin 2006 (Loi sur les professions médicales, LPMéd) et de la loi sur la santé du 14 février 2008, ainsi que leurs dispositions d'application.
+<sup>1</sup> Le présent arrêté établit les émoluments et les débours perçus notamment en application de la loi fédérale sur les professions médicales universitaires (loi sur les professions médicales, LPMéd) et de la loi sur la santé (LS), ainsi que leurs dispositions d'application.
 
-<sup>2</sup> Dans les cas qui ne sont pas prévus par le présent arrêté, l'autorité procède par analogie en se fondant sur les règles prévues par la loi fixant le tarif des frais et des dépens devant les autorités judiciaires et administratives du 11 février 2009 (LTar), incluant la rémunération des experts et des membres des commissions consultatives.
+<sup>2</sup> Dans les cas qui ne sont pas prévus par le présent arrêté, l'autorité procède par analogie en se fondant sur les règles prévues par la loi fixant le tarif des frais et des dépens devant les autorités judiciaires et administratives (LTar), incluant la rémunération des experts et des membres des commissions consultatives.
 
 #### Art. 2
 
 **Autorité compétente**
 
-<sup>1</sup> Sauf dispositions spéciales contraires, le Département de la santé, des affaires sociales et de la culture (ci-après: le département) est autorisé à percevoir les émoluments fixés dans le présent arrêté. L'éventuel droit de timbre cantonal est perçu en plus.
+<sup>1</sup> Sauf dispositions spéciales contraires, le département en charge de la santé (ci-après: le département) est autorisé à percevoir les émoluments fixés dans le présent arrêté. L'éventuel droit de timbre cantonal est perçu en plus.
 
 ## 2 Tarifs des émoluments
 
@@ -66,30 +65,55 @@ arrête:
 
 **Délivrance d'une autorisation pour les professions médicales**
 
-<sup>1</sup> Lors de la délivrance d'une autorisation de pratique pour les professions médicales au sens de la loi fédérale sur les professions médicales universitaires 23 juin 2006, les émoluments suivants sont perçus:
+<sup>1</sup> Lors de la délivrance d'une autorisation de pratique pour les professions médicales au sens de la loi sur les professions médicales, les émoluments suivants sont perçus:
 
-- a) médecin autorisé à titre indépendant (comprenant le cours de formation obligatoire sur la connaissance du système de santé valaisan organisé par le service de la santé publique) — Fr. 700
-- a <sup>bis</sup>) pharmacien, dentiste et chiropraticien autorisé à titre indépendant — Fr. 600
+- a) médecin et dentiste autorisé sous propre responsabilité professionnelle (comprenant le cours de formation obligatoire sur la connaissance du système de santé valaisan organisé par le service de la santé publique) — Fr. 700
+- a <sup>bis</sup>) pharmacien et chiropraticien autorisé sous propre responsabilité professionnelle — Fr. 600
 - b) médecin, pharmacien, dentiste et chiropraticien autorisé à titre dépendant — Fr. 600
 - c) médecin-assistant et chiropraticien-assistant — Fr. 200
 - d) transformation d'une autorisation de médecin dentiste assistant délivré sous l'ancien droit pour une durée déterminée en autorisation à titre dépendant à durée indéterminée — Fr. 200
 - e) prolongation d'une autorisation — Fr. 150
-- f) prolongation d'une autorisation pour les professions médicales, y compris examen par le médecin-conseil — Fr. 350
+- f) prolongation de l'autorisation après 70 ans pour les professions médicales, y compris examen par le médecin-conseil — Fr. 350
 - g) cours de formation obligatoire sur la connaissance du système de santé valaisan organisé par le service de la santé publique — Fr. 100
 
 <sup>2</sup> Lorsqu'un professionnel d'ores et déjà titulaire d'une autorisation requiert une autorisation pour un statut différent de son autorisation actuelle, l'émolument correspondant est perçu.
 
 <sup>3</sup> Lors de la délivrance d'une attestation de bonne conduite, un émolument de 90 francs est perçu, payable d'avance.
 
+#### Art. 3a
+
+**Délivrance d'une admission à pratiquer à la charge de l'assurance obligatoire des soins pour les professions médicales**
+
+<sup>1</sup> Lors de la délivrance d'une admission à pratiquer à la charge de l'assurance obligatoire des soins pour les professions médicales au sens de la LPMéd, un émolument de 300 francs est perçu.
+
 #### Art. 4
 
 **Délivrance d'une autorisation pour les autres professions**
 
-<sup>1</sup> Lors de la délivrance d'une autorisation de pratique pour les autres professions de la santé au sens de la loi sur la santé du 14 février 2008, les émoluments suivants sont perçus:
+<sup>1</sup> Lors de la délivrance d'une autorisation de pratique pour les autres professions de la santé au sens de la loi sur la santé, les émoluments suivants sont perçus:
 
 - a) ambulancier, diététicienne, droguiste, ergothérapeute, hygiéniste dentaire, infirmier, logopédiste/orthophoniste, opticien, ostéopathe, pédicure-podologue, physiothérapeute, sage-femme — Fr. 400
 - b) psychologue-psychothérapeute — Fr. 400
 - c) prolongation de l'autorisation — Fr. 150
+- d) prolongation de l'autorisation après 70 ans pour les autres professions, y compris examen par le médecin-conseil — Fr. 350
+
+#### Art. 4a
+
+**Délivrance d'une admission à pratiquer à la charge de l'assurance obligatoire des soins pour les autres professions**
+
+<sup>1</sup> Lors de la délivrance d'une admission à pratiquer à la charge de l'assurance obligatoire des soins pour les autres professions de la santé au sens de la LS, un émolument de 200 francs est perçu.
+
+#### Art. 4b
+
+**Délivrance d'une admission à pratiquer à la charge de l'assurance obligatoire des soins pour les institutions de soins ambulatoires dispensés par des médecins**
+
+<sup>1</sup> Lors de la délivrance d'une admission à pratiquer à la charge de l'assurance obligatoire des soins pour les institutions de soins ambulatoires dispensés par des médecins, un émolument de 300 francs est perçu.
+
+#### Art. 4c
+
+**Délivrance d'une admission à pratiquer à la charge de l'assurance obligatoire des soins pour les organisations pour les autres professionnels de la santé**
+
+<sup>1</sup> Lors de la délivrance d'une admission à pratiquer à la charge de l'assurance obligatoire des soins pour les institutions de soins ambulatoires dispensés par les organisation pour les autres professionnels de la santé, un émolument de 200 francs est perçu.
 
 ### 2.2 Institutions et établissements de la santé
 

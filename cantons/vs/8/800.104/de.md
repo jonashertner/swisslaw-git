@@ -3,20 +3,19 @@ canton: VS
 number: "800.104"
 title: Beschluss betreffend die beim Vollzug des Gesundheitsgesetzes anfallenden Kosten
 language: de
-version: 2021-04-01
-valid_until: 2024-11-30
-version_adopted: 2021-04-14
+version: 2024-12-01
+version_adopted: 2024-11-27
 adopted: 2013-12-18
 in_force: 2014-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/800.104"
-pdf: "https://lex.vs.ch/api/de/versions/2875/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3421/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss betreffend die beim Vollzug des Gesundheitsgesetzes anfallenden Kosten
 
-vom 18.12.2013 (Stand 01.04.2021)
+vom 18.12.2013 (Stand 01.12.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -24,15 +23,13 @@ eingesehen das Bundesgesetz über die universitären Medizinalberufe vom 23. Jun
 
 eingesehen das Bundesgesetz über die Psychologieberufe vom 18. März 2011 (PsyG);
 
-eingesehen das Bundesgesetz über die Gesundheitsberufe vom 30. September 2016 (GesBG);
-
-eingesehen das Bundesgesetz über Arzneimittel und Medizinprodukte vom 15. Dezember 2000 (Heilmittelgesetz, HMG) und dessen Ausführungsbestimmungen;
+eingesehen das Bundesgesetz über die Gesundheitsberufe vom 30. September 2016 (GesBG); eingesehen das Bundesgesetz über Arzneimittel und Medizinprodukte vom 15. Dezember 2000 (Heilmittelgesetz, HMG) und dessen Ausführungsbestimmungen;
 
 eingesehen das Bundesgesetz über die Betäubungsmittel und die psychotropen Stoffe vom 3. Oktober 1951 (Betäubungsmittelgesetz, BetmG) und dessen Ausführungsbestimmungen;
 
 eingesehen das Gesundheitsgesetz vom 12. März 2020 (GG) und dessen Ausführungsbestimmungen, insbesondere was die Ausübung und die Beaufsichtigung der Gesundheitsberufe, den Betrieb von Krankenanstalten und -institutionen;
 
-eingesehen die Heilmittelverordnung vom 4. März 2009 und die Verordnung über biomedizinische Forschung am Menschen vom 4. März 2009;
+eingesehen die Heilmittelverordnung vom 4. März 2009;
 
 eingesehen Artikel 88 und folgende des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 (VVRG);
 
@@ -48,15 +45,15 @@ beschliesst:
 
 **Allgemeine Bestimmungen**
 
-<sup>1</sup> Der vorliegende Beschluss legt die zu beziehenden Gebühren und Spesen, insbesondere die Anwendung des Bundesgesetzes über die universitären Medizinalberufe vom 23. Juni 2006 (Medizinalberufegesetz, MedBG) und das Gesundheitsgesetz vom 14. Februar 2008 und dessen Ausführungsbestimmungen, fest.
+<sup>1</sup> Der vorliegende Beschluss legt die zu beziehenden Gebühren und Spesen, insbesondere die Anwendung des Bundesgesetzes über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG) und das Gesundheitsgesetz (GG) und dessen Ausführungsbestimmungen, fest.
 
-<sup>2</sup> Für die im vorliegenden Beschluss nicht vorgesehenen Fälle finden sinngemäss die allgemeinen Bestimmungen des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden vom 11. Februar 2009 (GTar), sowie die Bestimmungen über die Entschädigung der Experten und Mitglieder von Kommissionen Anwendung.
+<sup>2</sup> Für die im vorliegenden Beschluss nicht vorgesehenen Fälle finden sinngemäss die allgemeinen Bestimmungen des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar), sowie die Bestimmungen über die Entschädigung der Experten und Mitglieder von Kommissionen Anwendung.
 
 #### Art. 2
 
 **Zuständige Behörde**
 
-<sup>1</sup> Sofern kein besonderes Gesetz Gegenteiliges vorsieht, ist das Departement für Gesundheit, Soziales und Kultur (nachfolgend: das Departement) befugt, die Gebühren, die in diesem Beschluss aufgeführt sind, zu erheben. Etwaige kantonale Stempelabgaben werden zusätzlich erhoben.
+<sup>1</sup> Sofern kein besonderes Gesetz Gegenteiliges vorsieht, ist das für die Gesundheit zuständige Departement (nachfolgend: das Departement) befugt, die Gebühren, die in diesem Beschluss aufgeführt sind, zu erheben. Etwaige kantonale Stempelabgaben werden zusätzlich erhoben.
 
 ## 2 Gebührentarif
 
@@ -66,30 +63,55 @@ beschliesst:
 
 **Erteilung einer Bewilligung zur Berufsausübung für die Gesundheitsberufe**
 
-<sup>1</sup> Nach Erteilung einer Bewilligung zur Berufsausübung im Sinne des Bundesgesetzes über die universitären Medizinalberufe vom 23. Juni 2006 (Medizinalberufegesetz, MedBG) werden folgende Gebühren erhoben:
+<sup>1</sup> Nach Erteilung einer Bewilligung zur Berufsausübung im Sinne des Medizinalberufegesetzes werden folgende Gebühren erhoben:
 
-- a) Ärzte mit einer Bewilligung zur selbstständigen Berufsausübung(der obligatorische Ausbildungskurs über die Kenntnisse des Walliser Gesundheitssystems, der von der Dienststelle für Gesundheitswesen organisiert wird, ist darin enthalten) — Fr. 700
-- a <sup>bis</sup>) Apotheker, Zahnärzte und Chiropraktoren mit einer Bewilligung zur selbstständigen Berufsausübung — Fr. 600
+- a) Ärzte und Zahnärzte mit einer Bewilligung in eigener fachlicher Verantwortung (der obligatorische Ausbildungskurs über die Kenntnisse des Walliser Gesundheitssystems, der von der Dienststelle für Gesundheitswesen organisiert wird, ist darin enthalten) — Fr. 700
+- a <sup>bis</sup>) Apotheker und Chiropraktoren mit einer Bewilligung in eigener fachlicher Verantwortung — Fr. 600
 - b) Ärzte, Apotheker, Zahnärzte und Chiropraktoren mit einer Bewilligung zur unselbstständigen Berufsausübung — Fr. 600
 - c) Assistenzärzte und Assistenzchiropraktoren — Fr. 200
 - d) Änderung der befristeten Bewilligung als Assistenzzahnarzt nach altem Recht in eine unbefristete Bewilligung zur unselbstständigen Berufsausübung — Fr. 200
 - e) Verlängerung der Bewilligung — Fr. 150
-- f) Verlängerung einer Bewilligung für die medizinischen Berufe, einschliesslich der Prüfung durch den Arzt — Fr. 350
+- f) Verlängerung der Bewilligung nach 70. Lebensjahr für die medizinischen Berufe, einschliesslich der Prüfung durch den Arzt — Fr. 350
 - g) Obligatorischer Kurs zur Kenntnis des Walliser Gesundheitssystems, organisiert von der Dienststelle für Gesundheitswesen — Fr. 100
 
 <sup>2</sup> Wenn eine Gesundheitsfachperson, die bereits eine Bewilligung besitzt, aufgrund einer Statusänderung eine neue Bewilligung verlangt, wird die entsprechende Gebühr erhoben.
 
 <sup>3</sup> Für die Erteilung einer Unbedenklichkeitsbescheinigung wird eine Gebühr von 90 Franken erhoben. Diese ist im Voraus zu entrichten.
 
+#### Art. 3a
+
+**Erteilung einer Zulassung zur Berufsausübung zu Lasten der obligatorischen Krankenpflegeversicherung für die Gesundheitsberufe**
+
+<sup>1</sup> Bei der Erteilung einer Zulassung zur Berufsausübung zu Lasten der obligatorischen Krankenpflegeversicherung für die Gesundheitsberufe im Sinne des Medizinalberufegesetzes wird eine Gebühr von 300 Franken erhoben.
+
 #### Art. 4
 
 **Erteilung einer Bewilligung für die übrigen Gesundheitsberufe**
 
-<sup>1</sup> Für die Erteilung einer Bewilligung der übrigen Gesundheitsberufe im Sinne des das Gesundheitsgesetzes vom 14. Februar 2008 werden folgende Gebühren erhoben:
+<sup>1</sup> Für die Erteilung einer Bewilligung der übrigen Gesundheitsberufe im Sinne des Gesundheitsgesetzes werden folgende Gebühren erhoben:
 
 - a) Ambulanzpersonal, Ernährungsberater, Drogisten, Ergotherapeuten, Dentalhygieniker, Pflegefachfrauen/-männer, Logopäden/Orthophonisten, Optiker, Osteopathen, Fusspfleger/Podologen, Physiotherapeuten, Hebammen — Fr. 400
 - b) Psychologen/Psychotherapeuten — Fr. 400
 - c) Verlängerung der Bewilligung — Fr. 150
+- d) Verlängerung der Bewilligung nach 70. Lebensjahr für andere Berufe, einschliesslich der Prüfung durch den Arzt — Fr. 350
+
+#### Art. 4a
+
+**Erteilung einer Zulassung zur Berufsausübung zu Lasten der obligatorischen Krankenpflegeversicherung für die übrigen Gesundheitsberufe**
+
+<sup>1</sup> Bei der Erteilung einer Zulassung zur Berufsausübung zu Lasten der obligatorischen Krankenpflegeversicherung für die übrigen Gesundheitsberufe gemäss Gesundheitsgesetz wird eine Gebühr von 200 Franken erhoben.
+
+#### Art. 4b
+
+**Erteilung einer Zulassung zur Berufsausübung zu Lasten der obligatorischen Krankenpflegeversicherung für Einrichtungen, die der ambulanten Krankenpflege durch Ärzte**
+
+<sup>1</sup> Bei der Erteilung einer Zulassung zur Berufsausübung zu Lasten der obligatorischen Krankenpflegeversicherung für Einrichtungen die der ambulanten Krankenpflege durch Ärzte wird eine Gebühr von 300 Franken erhoben.
+
+#### Art. 4c
+
+**Erteilung einer Zulassung zur Berufsausübung zu Lasten der obligatorischen Krankenpflegeversicherung für Einrichtungen, die der ambulanten Krankenpflege durch Organisationen für andere Gesundheitsfachpersonen**
+
+<sup>1</sup> Bei der Erteilung einer Zulassung zur Berufsausübung zu Lasten der obligatorischen Krankenpflegeversicherung die der ambulanten Krankenpflege durch Organisationen für andere übrigen Gesundheitsfachpersonen wird eine Gebühr von 200 Franken erhoben.
 
 ### 2.2 Krankenanstalten und -institutionen
 
