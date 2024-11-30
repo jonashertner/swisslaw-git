@@ -4,11 +4,11 @@ title: "Ordinanza del DDPS del 12 agosto 2021 sui cicli di studio presso la Scuo
 short: O-SUFSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/499"
 language: it
-version: 2021-10-01
+version: 2024-12-01
 adopted: 2021-08-12
 in_force: 2021-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/499/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2021-499-20211001-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/499/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/499/20241201/it/xml/fedlex-data-admin-ch-eli-cc-2021-499-20241201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/499/20241201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/499/20211001/it"
 
 (Ordinanza SUFSM, O-SUFSM)
 
-del 12 agosto 2021 (Stato 1° ottobre 2021)
+del 12 agosto 2021 (Stato 1° dicembre 2024)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -67,13 +67,18 @@ Dopo la conclusione degli studi universitari, i cicli di studio di perfezionamen
 
 <sup>1</sup> I cicli di studio si articolano in unità formative raggruppate per temi e di durata limitata (moduli). Un modulo comprende a sua volta una o più attività didattiche (corsi).
 
-<sup>2</sup>
+<sup>2</sup> Il ciclo di studio di bachelor si compone di uno studio di base e di uno studio specialistico.[^3-1]
 
-Si distinguono i seguenti tipi di corsi:
+<sup>3</sup>
 
-- a. corsi che devono essere frequentati per superare un modulo (corsi obbligatori);
-- b. corsi che devono essere scelti nell’ambito di un gruppo di corsi ed essere frequentati per superare un modulo (corsi obbligatori a scelta);
-- c. corsi che possono essere scelti liberamente nell’ambito di un gruppo di corsi (corsi a scelta).
+Si distinguono i seguenti tipi di moduli:
+
+- a. moduli che devono essere frequentati e superati per conseguire il diploma (moduli obbligatori);
+- b. moduli che devono essere scelti nell’ambito di un determinato numero di moduli, frequentati nella misura prestabilita e superati per conseguire il diploma (moduli obbligatori a scelta);
+- c. moduli che possono essere scelti nell’ambito di un determinato numero di moduli e che devono essere superati per conseguire crediti ECTS supplementari (moduli a scelta).[^3-2]
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^3-2]: Introdotto dalla cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 4
 
@@ -83,7 +88,7 @@ Si distinguono i seguenti tipi di corsi:
 
 <sup>2</sup> Il ciclo di studio di bachelor comprende 180 crediti ECTS.
 
-<sup>3</sup> Il ciclo di studio di master comprende 120 crediti ECTS.
+<sup>3</sup> Il ciclo di studio di master comprende 90 crediti ECTS.[^4-1]
 
 <sup>4</sup>
 
@@ -93,6 +98,8 @@ I cicli di studio di perfezionamento comprendono:
 - b. almeno 30 crediti ECTS per DAS;
 - c. almeno 60 crediti ECTS per MAS.
 
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
 #### Art. 5
 
 **Manuale del modulo**
@@ -100,34 +107,51 @@ I cicli di studio di perfezionamento comprendono:
 L’Ufficio federale dello sport pubblica un manuale del modulo per ogni ciclo di studio. Il manuale del modulo contiene informazioni in merito a:
 
 - a. i contenuti degli studi con eventuale indirizzo di approfondimento;
-- b. il tipo di corso;
+- b.[^5-1] il tipo di modulo e, per il ciclo di studio di bachelor, l’appartenenza allo studio di base o allo studio specialistico;
 - c. gli obiettivi di apprendimento;
-- d. i contenuti dei corsi e il loro raggruppamento in un modulo;
-- e. le conoscenze pregresse che si richiedono per portare a termine con successo i singoli corsi;
+- d.[^5-2] i contenuti dei moduli e i corsi che li compongono;
+- e.[^5-3] le conoscenze pregresse che si richiedono per portare a termine con successo i singoli moduli;
 - f. i metodi di insegnamento e di apprendimento;
-- g. le date dei corsi e delle verifiche delle competenze;
+- g.[^5-4] le date dei moduli e delle verifiche delle competenze;
 - h. le forme e le modalità delle verifiche delle competenze nonché le verifiche delle competenze parziali e la ponderazione delle une rispetto alle altre;
-- i. il raggruppamento di singoli corsi in un’unica verifica delle competenze;
-- j. i punti ECTS attribuiti a ogni corso e ogni modulo;
-- k. le regole di frequenza ai corsi che si tengono sotto forma di settimane tematiche, seminari o corsi pratici e alle conferenze di relatori invitati nell’ambito dei corsi;
-- l. il totale dei punti ECTS che devono essere acquisiti nei corsi obbligatori a scelta;
-- m. i costi supplementari per determinati corsi, risultanti da vitto, alloggio, trasporti e materiale specifico, nonché l’indicazione se la mancata partecipazione o il ritiro sono soggetti a costi;
-- n. per i corsi obbligatori a scelta e i corsi a scelta: il numero di partecipanti minimo necessario al regolare svolgimento del corso ed eventualmente il numero massimo di partecipanti;
-- o. il numero di partecipanti minimo necessario al regolare svolgimento di un approfondimento.
+- i.[^5-5] ...
+- j.[^5-6] i crediti ECTS attribuiti a ogni modulo;
+- k.[^5-7] eventuali obblighi di frequenza;
+- l.[^5-8] il totale dei crediti ECTS che devono essere acquisiti nei moduli obbligatori a scelta;
+- m.[^5-9] i costi supplementari per determinati moduli e corsi, risultanti da vitto, alloggio, trasporti e materiale specifico, nonché l’indicazione se la mancata partecipazione o il ritiro sono soggetti a costi;
+- n.[^5-10] per i corsi dei moduli obbligatori a scelta e dei moduli a scelta: il numero di partecipanti minimo necessario al regolare svolgimento ed eventualmente il numero massimo di partecipanti ammessi per il regolare svolgimento;
+- o. il numero di partecipanti minimo necessario al regolare svolgimento di un approfondimento;
+- p.[^5-11] le lingue d’insegnamento e le lingue nelle quali si possono sostenere le verifiche delle competenze.
+
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-5]: Abrogata dalla cifra I dell’O del DDPS del 7 ott. 2024, con effetto dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-6]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-7]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-8]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-9]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-10]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-11]: Introdotta dalla cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 6
 
 **Lingue d’insegnamento**
 
-<sup>1</sup> La lingua d’insegnamento è il tedesco o il francese.
+<sup>1</sup> La lingua d’insegnamento è il tedesco, il francese o l’italiano.[^6-1]
 
 <sup>2</sup> I cicli di studio di perfezionamento, singoli corsi o parti dei cicli di studio di bachelor e dei cicli di studio di master possono essere tenuti in inglese.
 
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
 #### Art. 7
 
-**Iscrizione**
+**Iscrizione**[^7-1]
 
-La partecipazione a procedure d’ammissione, corsi e verifiche delle competenze presuppone un’iscrizione completa, presentata entro il termine e nella forma prestabilita.
+La partecipazione a procedure d’ammissione, moduli, corsi dei moduli obbligatori a scelta e dei moduli a scelta nonché a verifiche delle competenze presuppone un’iscrizione completa, presentata entro il termine e nella forma prestabilita.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 8
 
@@ -142,6 +166,16 @@ Il calendario accademico della SUFSM stabilisce termini e scadenze relativi ai c
 <sup>1</sup> Chi intende ottenere un diploma nell’ambito di un ciclo di studi presso la SUFSM deve immatricolarsi quale studente.
 
 <sup>2</sup> Chi intende frequentare corsi alla SUFSM senza conseguire un diploma deve registrarsi come uditore.
+
+#### Art. 9a
+
+**Prestazioni di studio computabili**[^9a-1]
+
+<sup>1</sup> Su domanda, il rettore decide in merito al computo delle prestazioni di studio fornite prima dell’inizio degli studi.
+
+<sup>2</sup> Nel quadro dei loro studi gli studenti possono frequentare corsi o moduli presso un’altra suola universitaria, previo consenso del rettore. Questi decide in merito alla computabilità delle prestazioni di studio da fornire in detta altra scuola.
+
+[^9a-1]: Introdotto dalla cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 10
 
@@ -185,31 +219,39 @@ Fatti salvi il capoverso 3 e l’articolo 14, al ciclo di studio di bachelor è 
 
 <sup>3</sup> Non è ammesso al ciclo di studio di bachelor chiunque sia già stato ammesso a un di ciclo di studio di bachelor nei campi scienze dello sport e del movimento, insegnamento dell’educazione fisica e dello sport o management dello sport presso una scuola universitaria e non lo abbia portato a termine con successo.
 
-<sup>4</sup> Gli sportivi di punta che sono titolari di una Swiss Olympic Card oro, argento, bronzo o élite della federazione mantello dello sport svizzero o che lo erano fino a un massimo di un anno prima dell’iscrizione all’esame attitudinale, sono ammessi senza esame attitudinale al ciclo di studio di bachelor, purché soddisfino le rimanenti condizioni.
+<sup>4</sup> Gli sportivi di punta che sono titolari di una Swiss Olympic Card oro, argento, bronzo o élite della federazione mantello dello sport svizzero o che lo erano fino a un massimo di un anno prima dell’iscrizione all’esame attitudinale sono ammessi al ciclo di studio di bachelor, purché abbiano superato l’esame di idoneità personale per l’ambito professionale e abbiano fatto valere entro il termine quanto richiesto ai capoversi 1 e 2.[^11-1]
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 12
 
 **Contenuto dell’esame attitudinale e lingua d’esame**
 
-<sup>1</sup> L’esame attitudinale comprende una parte pratica riguardante le attitudini sportive. Questa esamina le capacità e le abilità motorie.
+<sup>1</sup> L’esame attitudinale è composto da due parti. La prima parte mira a verificare le capacità e le abilità motorie. La seconda parte mira a verificare l’idoneità personale per l’ambito professionale.[^12-1]
 
-<sup>2</sup> L’esame può essere integrato da una parte cognitiva. Questa esamina la capacità di pensare in modo analitico.
+<sup>2</sup> L’esame delle capacità e delle abilità motorie può comporsi di uno o più ambiti d’esame.[^12-2]
 
-<sup>3</sup> Le parti dell’esame possono comporsi di uno o più ambiti d’esame.
+<sup>3</sup> *...*[^12-3]
 
 <sup>4</sup> La SUFSM comunica per tempo il contenuto dell’esame attitudinale.
 
 <sup>5</sup> La lingua d’esame è il tedesco o il francese.
 
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^12-3]: Abrogato dalla cifra I dell’O del DDPS del 7 ott. 2024, con effetto dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
 #### Art. 13
 
-**Valutazione e superamento dell’esame attitudinale**
+**Valutazione e superamento dell’esame attitudinale**[^13-1]
 
-<sup>1</sup> Gli ambiti d’esame sono valutati con note da 1 a 6 e possono essere ponderati in modo differente, con il 6 che è la nota migliore.
+<sup>1</sup> I singoli ambiti d’esame dell’esame delle capacità e delle abilità motorie sono valutati con note da 1 a 6 e possono essere ponderati in modo differente, con il 6 che è la nota migliore.
 
-<sup>2</sup> Nella parte pratica riguardante le attitudini sportive si utilizzano parametri di valutazione diversi per genere, nella misura in cui la diversità biologica influenzi la capacità di prestazione.
+<sup>2</sup> L’esame d’idoneità personale per l’ambito professionale è valutato con «superato» o «non superato».
 
-<sup>3</sup> L’esame delle attitudini sportive è superato se la nota media di tutti gli ambiti d’esame è di almeno 4.00. La nota è arrotondata a due cifre decimali.
+<sup>3</sup> L’esame attitudinale è superato se la nota media di tutti gli ambiti d’esame dell’esame delle capacità e delle abilità motorie è di almeno 4.00 e l’esame d’idoneità personale per l’ambito professionale è superato. La nota media è arrotondata a due cifre decimali.
+
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 14
 
@@ -217,7 +259,9 @@ Fatti salvi il capoverso 3 e l’articolo 14, al ciclo di studio di bachelor è 
 
 <sup>1</sup> Se il numero di candidati che ha superato l’esame attitudinale è superiore al numero di posti di studio disponibili, questi ultimi sono attribuiti dalla SUFSM secondo la graduatoria dei risultati dell’esame. In caso di risultati uguali si tira a sorte.
 
-<sup>2</sup> I candidati di cui all’articolo 11 capoverso 4 hanno priorità sulle persone che hanno superato l’esame attitudinale.
+<sup>2</sup> I candidati di cui all’articolo 11 capoverso 4 hanno priorità.[^14-1]
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 15
 
@@ -250,7 +294,11 @@ Se vi sono più candidati idonei rispetto al numero di posti di studio disponibi
 
 <sup>4</sup> Non è ammesso al ciclo di studio di master chiunque sia già stato ammesso a un ciclo di studio di master nei campi scienze dello sport e del movimento, insegnamento dell’educazione fisica e dello sport e management dello sport presso una scuola universitaria e non lo abbia portato a termine con successo.
 
-### Sezione 2: Durata degli studi, interruzione degli studi, prestazioni di studio computabili e conclusione degli studi
+### Sezione 2: Durata degli studi, interruzione degli studi e conclusione degli studi
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 18
 
@@ -262,12 +310,20 @@ Se vi sono più candidati idonei rispetto al numero di posti di studio disponibi
 
 Le verifiche delle competenze necessarie per la conclusione degli studi devono essere svolte:
 
-- a. nel ciclo di studio di bachelor, entro dodici semestri al massimo;
+- a.[^18-1] nel ciclo di studio di bachelor: lo studio di base entro sei semestri al massimo e l’intero ciclo di studio entro dodici semestri al massimo;
 - b. nel ciclo di studio di master, entro otto semestri al massimo.
 
-<sup>3</sup> Su domanda, il rettore può prolungare di otto semestri al massimo la durata degli studi.
+<sup>3</sup>
+
+Su domanda, il rettore può prolungare la durata degli studi:
+
+- a. nel ciclo di studio di bachelor di quattro semestri al massimo per lo studio di base e di otto semestri al massimo per l’intero ciclo di studio;
+- b. nel ciclo di studio di master di quattro semestri al massimo.[^18-2]
 
 <sup>4</sup> Chiunque oltrepassi la durata degli studi ammessa viene escluso dal ciclo di studio.
+
+[^18-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 19
 
@@ -285,11 +341,9 @@ Le verifiche delle competenze necessarie per la conclusione degli studi devono e
 
 #### Art. 20
 
-**Prestazioni di studio computabili**
+[^20-1]
 
-<sup>1</sup> Il rettore decide in merito al computo delle prestazioni di studio fornite in precedenza in altre scuole universitarie.
-
-<sup>2</sup> Gli studenti che nell’ambito dei propri studi intendono frequentare corsi o moduli presso un’altra scuola universitaria si procurano precedentemente il consenso del rettore. Questi decide in merito alla computabilità delle prestazioni di studio da fornire in detta altra scuola.
+[^20-1]: Abrogato dalla cifra I dell’O del DDPS del 7 ott. 2024, con effetto dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 21
 
@@ -299,17 +353,26 @@ La nota finale di un ciclo di studio risulta dalla media delle note dei moduli p
 
 #### Art. 22
 
-**Superamento del ciclo di studio**
+**Superamento del ciclo di studio**[^22-1]
 
-Il ciclo di studio è superato se sono superati tutti i moduli.
+Supera il ciclo di studio chi:
 
-### Capitolo 3: Valutazione dei corsi e dei moduli
+- a. ha superato tutti i moduli obbligatori; e
+- b. ha superato il numero di moduli obbligatori a scelta richiesto per conseguire i crediti ECTS necessari.
+
+[^22-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
+### Capitolo 3: Valutazione dei moduli
+
+[^chap2-chap3-1]
+
+[^chap2-chap3-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 23
 
 **Verifiche delle competenze**
 
-<sup>1</sup> Ogni corso si conclude con una verifica delle competenze.
+<sup>1</sup> Ogni modulo si conclude con una verifica delle competenze.[^23-1]
 
 <sup>2</sup>
 
@@ -320,19 +383,23 @@ Sono considerate verifiche delle competenze:
 
 <sup>3</sup> Le verifiche delle competenze possono svolgersi in forma elettronica.
 
-<sup>4</sup> Più corsi dello stesso modulo possono essere raggruppati nella stessa verifica delle competenze.
+<sup>4</sup> ... [^23-2]
 
 <sup>5</sup> Una verifica delle competenze può comporsi di diverse verifiche delle competenze parziali.
 
-<sup>6</sup> L’ammissione alla verifica delle competenze nel relativo corso presuppone il rispetto delle regole di frequenza stabilito nel manuale del modulo. Su domanda, il rettore può autorizzare uno studente che non ha rispettato le regole di frequenza a presentarsi alla verifica delle competenze se le sue assenze sono scusabili.
+<sup>6</sup> L’ammissione alla verifica delle competenze nel relativo modulo presuppone il rispetto degli obblighi di frequenza. Su domanda, il rettore può ammettere alla verifica delle competenze uno studente che non ha rispettato gli obblighi di frequenza se le sue assenze sono scusabili.[^23-3]
 
 <sup>7</sup> Agli studenti va comunicato per tempo quali prestazioni devono essere fornite nell’ambito di una verifica delle competenze.
+
+[^23-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^23-2]: Abrogato dalla cifra I dell’O del DDPS del 7 ott. 2024, con effetto dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^23-3]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 24
 
 **Modalità delle verifiche delle competenze**
 
-<sup>1</sup> Sono definite in maniera unitaria per tutti gli studenti le modalità di una determinata verifica delle prestazioni, in particolare la forma, il modo, la durata, la materia d’esame, la lingua e gli ausili ammessi.
+<sup>1</sup> Per ogni sessione d’esame è definita in maniera unitaria per tutti gli studenti una determinata verifica delle prestazioni, in particolare la forma, la modalità, la durata, la materia d’esame, la lingua e gli ausili ammessi.[^24-1]
 
 <sup>2</sup>
 
@@ -344,6 +411,8 @@ Su domanda, è possibile derogare a tale principio, in particolare per le verifi
 <sup>3</sup> Il rettore decide in merito alle domande di cui al capoverso 2.
 
 <sup>4</sup> In caso di deroghe secondo il capoverso 2 si deve garantire che la verifica verta sulle stesse competenze di quella secondo il capoverso 1.
+
+[^24-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 25
 
@@ -381,19 +450,21 @@ Le verifiche delle competenze devono svolgersi in una delle lingue d’insegname
 
 #### Art. 29
 
-**Nota del modulo**
+**Nota del modulo**[^29-1]
 
-<sup>1</sup> Se un modulo si compone di diversi corsi, la nota del modulo risulta dalla media di tutte le note dei corsi che lo compongono, ponderata sulla base dei crediti ECTS. Per il calcolo si arrotonda a un quarto di punto.
+La nota del modulo si calcola facendo la media di tutte le note del modulo in questione, tenendo conto della ponderazione delle singole verifiche delle competenze parziali. Per il calcolo si arrotonda a un quarto di punto.
 
-<sup>2</sup> Se in un modulo lo studente frequenta più corsi di quelli necessari per ottenere i punti ECTS attribuiti al modulo, si considerano i corsi in cui lo studente ha ottenuto i risultati migliori. I corsi obbligatori vengono sempre presi in considerazione.
+[^29-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 30
 
 **Superamento di un modulo**
 
-<sup>1</sup> Un modulo è considerato superato se la sua nota è almeno pari a 4.00.
+<sup>1</sup> Un modulo è considerato superato se la verifica delle competenze viene svolta con successo. Per le verifiche delle competenze con nota, la nota del modulo deve essere almeno pari a 4.00, e per le verifiche delle competenze senza nota si deve ottenere il giudizio «superato».[^30-1]
 
 <sup>2</sup> Se il modulo è superato, è assegnato il totale dei punti ECTS attribuitogli. Se il modulo non è superato, non è assegnato alcun credito.
+
+[^30-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 31
 
@@ -415,11 +486,13 @@ Gli esaminatori sono tenuti a documentare le verifiche delle competenze svolte e
 
 <sup>1</sup> Le verifiche delle competenze alle quali è stata assegnata una nota inferiore a 4 e le verifiche delle competenze con valutazione «non superato» possono essere ripetute una sola volta.
 
-<sup>2</sup> La ripetizione della verifica delle competenze deve essere svolta entro la durata complessiva del ciclo di studio.
+<sup>2</sup> La ripetizione della verifica delle competenze deve essere svolta entro la durata degli studi ammessa.[^33-1]
 
 <sup>3</sup> Se la verifica delle competenze è stata ripetuta, si considera soltanto la nota migliore.
 
 <sup>4</sup> La forma della ripetizione è decisa dall’esaminatore. Essa può divergere da quella della prima verifica delle competenze e può svolgersi anche sotto forma di rielaborazione di quest’ultima.
+
+[^33-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 34
 
@@ -449,11 +522,14 @@ Se uno studente non conclude regolarmente il ciclo di studi, la documentazione r
 
 #### Art. 36
 
-<sup>1</sup> Per i cicli di studio e i corsi presso la SUFSM vengono percepiti gli emolumenti di cui all’allegato.
+<sup>1</sup> Per i cicli di studio e i moduli presso la SUFSM vengono percepiti gli emolumenti di cui all’allegato.[^36-1]
 
-<sup>2</sup> Se un emolumento non viene pagato o viene pagato in ritardo dopo l’avvenuto richiamo, ne consegue l’esclusione dal ciclo di studio o dai corsi in questione per il semestre interessato.
+<sup>2</sup> Se un emolumento non viene pagato o viene pagato in ritardo dopo l’avvenuto richiamo, ne consegue l’esclusione dal ciclo di studio o dai moduli in questione per il semestre interessato.[^36-2]
 
 <sup>3</sup> Il semestre che porta all’esclusione viene computato sulla durata complessiva degli studi.
+
+[^36-1]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 ## Capitolo 5: Disposizioni finali
 
@@ -471,26 +547,43 @@ L’ordinanza SUFSM del 3 agosto 2012[^37-1] è abrogata.
 
 Le persone che hanno ottenuto il diploma di maestro di sport SFSM prima del 1999 possono domandare il conferimento del titolo di «Maestro di sport SUP» sempre che siano in grado di dimostrare di aver frequentato un corso post-diploma di livello universitario o di possedere un’esperienza professionale di almeno cinque anni in ambito sportivo. Esse sono autorizzate a utilizzare il titolo «Bachelor of Science in Sport della Scuola universitaria federale dello sport Macolin» o «Bachelor of Science in Sports della Scuola universitaria federale dello sport Macolin».
 
+#### Art. 38a
+
+**Disposizione transitoria della modifica del 7 ottobre 2024**[^38a-1]
+
+<sup>1</sup> Gli studenti che hanno iniziato gli studi prima dell’entrata in vigore della modifica del 7 ottobre 2024 li concludono secondo il diritto anteriore, ma al massimo entro la fine del semestre primaverile 2027. I corsi proposti secondo il diritto anteriore devono essere proposti fino alla fine del semestre primaverile 2027. Le ripetizioni delle verifiche delle competenze devono essere sostenute al massimo entro la fine del semestre primaverile 2027.
+
+<sup>2</sup> Gli studenti possono, su domanda scritta, concludere gli studi secondo il nuovo diritto.
+
+<sup>3</sup> Gli studenti che hanno iniziato gli studi prima dell’entrata in vigore della modifica del 7 ottobre 2024 e non possono concluderli entro la fine del semestre primaverile 2027, li concludono secondo il nuovo diritto.
+
+<sup>4</sup> Per i corsi che non sono più proposti secondo il nuovo diritto si stabilisce un’equivalenza secondo la lista delle equivalenze[^38a-2].
+
+[^38a-1]: Introdotto dalla cifra I dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^38a-2]: La lista delle equivalenze del 29 ago. 2024 può essere consultata gratuitamente al link: [www.ehsm.admin.ch](https://www.ehsm.admin.ch/de/rechtliche-grundlagen) &gt; Über die EHSM &gt; Rechtliche Grundlagen
+
 #### Art. 39
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° ottobre 2021.
 
-Allegato
+Allegato[^t-1]
 
 (art. 36 cpv. 1)
 
 ## Emolumenti
 
+[^t-1]: Nuovo testo giusta la cifra II dell’O del DDPS del 7 ott. 2024, in vigore dal 1° dic. 2024 ([RU 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
 <table>
-<tr><td></td><td>Emolumenti in franchi</td><td>Unità</td></tr>
+<tr><th></th><th>Emolumenti in franchi</th><th>Unità</th></tr>
 <tr><td>Iscrizione all’esame attitudinale per il ciclo di studio di bachelor</td><td>100</td><td></td></tr>
 <tr><td>Iscrizione al ciclo di studio di master</td><td>100</td><td></td></tr>
 <tr><td>Iscrizione a cicli di studio di perfezionamento</td><td>100</td><td></td></tr>
-<tr><td>Tassa d’iscrizione semestrale (cicli di studio di bachelor e cicli di studio di master)</td><td>900</td><td></td></tr>
-<tr><td>Registrazione come uditore</td><td>100</td><td>per attività didattica</td></tr>
+<tr><td>Tassa d’iscrizione semestrale (cicli di studio di bachelor o di master)</td><td>900</td><td></td></tr>
+<tr><td>Iscrizione come uditore</td><td>100</td><td>per attività didattica</td></tr>
 <tr><td>Cicli di studio di perfezionamento ufficiali</td><td>300</td><td>per giorno di corso</td></tr>
 <tr><td>Altre offerte di perfezionamento ufficiali (a seconda della durata e dell’onere)</td><td>50–250</td><td>per giorno di corso</td></tr>
-<tr><td>Valutazione dell’equivalenza di diploma universitari</td><td>30</td><td>per ora</td></tr>
+<tr><td>Valutazione dell’equivalenza di prestazioni di studio esterne e diplomi universitari</td><td>30</td><td>per ora</td></tr>
 </table>

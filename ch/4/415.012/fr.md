@@ -4,11 +4,11 @@ title: "Ordonnance du DDPS du 12 août 2021 sur les filières d’études de la 
 short: O-HEFSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/499"
 language: fr
-version: 2021-10-01
+version: 2024-12-01
 adopted: 2021-08-12
 in_force: 2021-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/499/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-499-20211001-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/499/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/499/20241201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-499-20241201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/499/20241201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/499/20211001/fr"
 
 (Ordonnance sur la HEFSM, O-HEFSM)
 
-du 12 août 2021 (État le 1<sup>er</sup> octobre 2021)
+du 12 août 2021 (État le 1<sup>er</sup> décembre 2024)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -67,13 +67,18 @@ Les filières de formation continue permettent, après avoir achevé des études
 
 <sup>1</sup> Les filières d’études s’articulent en unités d’enseignement d’une durée limitée et ayant des liens thématiques (modules). Un module se compose d’un ou de plusieurs cours.
 
-<sup>2</sup>
+<sup>2</sup> La filière de bachelor comprend un cycle de base et un cycle spécialisé.[^3-1]
 
-On distingue les types de cours suivants:
+<sup>3</sup>
 
-- a. les cours qui doivent être suivis pour obtenir la validation d’un module (cours obligatoires);
-- b. les cours qui doivent être choisis dans un groupe de cours et suivis pour obtenir la validation d’un module (cours à option obligatoires);
-- c. les cours qui peuvent être choisis librement dans un groupe de cours (cours à option).
+On distingue les types de modules suivants:
+
+- a. les modules qui doivent être suivis et validés pour l’obtention du diplôme (modules obligatoires);
+- b. les modules qui doivent être choisis parmi un certain nombre de modules, être suivis dans la mesure prescrite et validés pour l’obtention du diplôme (modules à option obligatoires);
+- c. les modules qui peuvent être suivis parmi un certain nombre de modules et qui doivent être validés pour l’obtention de crédits ECTS supplémentaires (modules à option).[^3-2]
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^3-2]: Introduit par le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 4
 
@@ -83,7 +88,7 @@ On distingue les types de cours suivants:
 
 <sup>2</sup> La filière de bachelor comprend 180 crédits ECTS.
 
-<sup>3</sup> La filière de master comprend 120 crédits ECTS.
+<sup>3</sup> La filière de master comprend 90 crédits ECTS.[^4-1]
 
 <sup>4</sup>
 
@@ -93,41 +98,61 @@ Les filières de formation continue comprennent:
 - b. au minimum 30 crédits ECTS pour le DAS;
 - c. au minimum 60 crédits ECTS pour le MAS.
 
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
 #### Art. 5
 
 **Livret des modules**
 
-L’Office fédéral du sport publie un livret des modules pour chaque filière d’études. Ce livret décrit:
+L’Office fédéral du sport publie un livret des modules pour chaque filière d’études. Ce livret indique:[^5-1]
 
 - a. le contenu des études et les éventuelles spécialisations proposées;
-- b. le type de cours;
+- b.[^5-2] le type de modules et, pour la filière de bachelor, l’appartenance des modules au cycle de base ou au cycle spécialisé;
 - c. les objectifs pédagogiques;
-- d. le contenu des cours et la liste des cours qui composent un module;
-- e. les connaissances préalables requises pour pouvoir suivre les différents cours avec succès;
+- d.[^5-3] le contenu des modules et les cours qui les composent;
+- e.[^5-4] les connaissances préalables requises pour pouvoir suivre les différents modules avec succès;
 - f. les méthodes d’enseignement et d’apprentissage;
-- g. les dates des cours et des évaluations de compétences;
+- g.[^5-5] les dates des modules et des évaluations de compétences;
 - h. la forme et les modalités des évaluations de compétences ainsi que les évaluations de compétences partielles et leur pondération les unes par rapport aux autres;
-- i. le regroupement de cours donnant lieu à une évaluation de compétences commune;
-- j. le nombre de crédits ECTS correspondant à chaque cours ou module;
-- k. les règles d’assiduité aux cours qui ont lieu sous la forme de semaines à thème, de séminaires ou de cours pratiques, ainsi qu’aux exposés donnés par des conférenciers dans le cadre d’un cours;
-- l. le nombre de crédits ECTS à obtenir dans le cadre des cours à option obligatoires;
-- m. les frais supplémentaires d’hébergement, de transport, de restauration et de matériel que les étudiants doivent assumer dans certains cours ainsi que l’obligation ou non de s’acquitter d’une taxe en cas de non-participation ou de désistement;
-- n. pour les cours à option obligatoires et les cours à option: le nombre minimum d’étudiants nécessaires à leur réalisation, ainsi qu’un éventuel nombre maximum;
-- o. le nombre minimum d’étudiants nécessaire pour qu’une spécialisation soit dispensée.
+- i.[^5-6] …
+- j.[^5-7] le nombre de crédits ECTS correspondant à chaque module;
+- k.[^5-8] les éventuelles règles d’assiduité;
+- l.[^5-9] le nombre de crédits ECTS à obtenir dans les modules à option obligatoires;
+- m.[^5-10] les frais supplémentaires d’hébergement, de transport, de restauration et de matériel que les étudiants doivent assumer dans certains modules ou dans certains cours ainsi que l’obligation ou non de s’acquitter d’une taxe en cas de non-participation ou de désistement;
+- n.[^5-11] pour les cours dans les modules à option obligatoires et les modules à option: le nombre minimum d’étudiants nécessaire pour que le cours soit dispensé, ainsi qu’un éventuel nombre maximum d’étudiants;
+- o. le nombre minimum d’étudiants nécessaire pour qu’une spécialisation soit dispensée;
+- p.[^5-12] les langues d’enseignement et les langues dans lesquelles les étudiants peuvent réaliser les évaluations de compétences.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-6]: Abrogée par le ch. I de l’O du DDPS du 7 oct. 2024, avec effet au 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-7]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-8]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-9]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-10]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-11]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^5-12]: Introduite par le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 6
 
 **Langues d’enseignement**
 
-<sup>1</sup> L’enseignement est dispensé en allemand ou en français.
+<sup>1</sup> L’enseignement est dispensé en allemand, en français ou en italien.[^6-1]
 
 <sup>2</sup> Les cours des filières de formation continue ainsi que certains cours ou parties de cours des filières de bachelor et de master peuvent être dispensés en anglais.
 
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
 #### Art. 7
 
-**Inscription**
+**Inscription**[^7-1]
 
-La participation à la procédure d’admission, aux cours et aux évaluations de compétences est subordonnée au dépôt en bonne et due forme et dans les délais d’un dossier d’inscription complet.
+La participation à la procédure d’admission, aux modules, aux cours des modules à option obligatoires et des modules à option ainsi qu’aux évaluations de compétences est subordonnée au dépôt en bonne et due forme et dans les délais d’un dossier d’inscription complet.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 8
 
@@ -142,6 +167,16 @@ Les délais et échéances à respecter dans le cadre des filières d’études 
 <sup>1</sup> Quiconque entend obtenir un diplôme dans le cadre d’une filière d’études proposée à la HEFSM est tenu de s’immatriculer en tant qu’étudiant.
 
 <sup>2</sup> Quiconque entend suivre un cours proposé à la HEFSM sans pour autant obtenir un diplôme est tenu de s’enregistrer en tant qu’auditeur.
+
+#### Art. 9a
+
+**Prise en compte de prestations d’études**[^9a-1]
+
+<sup>1</sup> Sur demande, le recteur statue sur la prise en compte des prestations d’études qui ont été fournies avant le début des études.
+
+<sup>2</sup> Les étudiants peuvent, dans le cadre de leurs études, suivre des cours ou des modules dans une autre haute école avec l’accord préalable du recteur. Le recteur statue sur la prise en compte des prestations d’études qu’ils y fourniront.
+
+[^9a-1]: Introduit par le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 10
 
@@ -185,31 +220,39 @@ Sont admises à la filière de bachelor, sous réserve de l’al. 3 et de l’ar
 
 <sup>3</sup> Ne peuvent être admises à la filière de bachelor les personnes qui ont déjà été admises dans une filière de bachelor d’une haute école dans les domaines des sciences du sport et du mouvement, de l’éducation physique ou du management du sport et qui n’ont pas achevé ces études avec succès.
 
-<sup>4</sup> Les sportifs d’élite détenteurs d’une Swiss Olympic Card Or, Argent, Bronze ou Élite de l’association faîtière du sport suisse ou qui ont détenu une carte de ce type jusqu’à un an avant leur inscription au test d’aptitude sont admis à la filière de bachelor sans test d’aptitude pour autant qu’ils remplissent les autres conditions d’admission.
+<sup>4</sup> Les sportifs d’élite détenteurs d’une Swiss Olympic Card Or, Argent, Bronze ou Élite de l’association faîtière du sport suisse ou qui ont détenu une carte de ce type jusqu’à un an avant leur inscription au test d’aptitude sont admis à la filière de bachelor pour autant qu’ils aient réussi l’évaluation de l’aptitude personnelle pour le domaine professionnel et qu’ils aient produit dans les délais les justificatifs visés aux al. 1 et 2.[^11-1]
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 12
 
 **Contenu du test d’aptitude et langue d’examen**
 
-<sup>1</sup> Le test d’aptitude comprend une partie consacrée à la pratique sportive. Celle-ci a pour but d’évaluer les aptitudes et habiletés motrices des candidats.
+<sup>1</sup> Le test d’aptitude comprend deux parties. La première a pour but d’évaluer les aptitudes et habiletés motrices des candidats. La seconde a pour but d’évaluer leur aptitude personnelle pour le domaine professionnel.[^12-1]
 
-<sup>2</sup> Le test d’aptitude peut également comprendre une partie théorique. Celle-ci a pour but d’évaluer les capacités d’analyse des candidats.
+<sup>2</sup> L’évaluation des aptitudes et habiletés motrices peut comprendre un ou plusieurs volets.[^12-2]
 
-<sup>3</sup> Les parties du test peuvent comprendre un ou plusieurs volets d’examen.
+<sup>3</sup> …[^12-3]
 
 <sup>4</sup> La HEFSM communique en temps utile le contenu du test d’aptitude.
 
 <sup>5</sup> Le test d’aptitude est réalisé en allemand ou en français.
 
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^12-3]: Abrogé par le ch. I de l’O du DDPS du 7 oct. 2024, avec effet au 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
 #### Art. 13
 
-**Évaluation et réussite du test d’aptitude**
+**Évaluation et réussite du test d’aptitude**[^13-1]
 
-<sup>1</sup> Les volets d’examen sont évalués selon une échelle de notes allant de 1 à 6 et peuvent être pondérés de manière différente, 6 étant la meilleure note.
+<sup>1</sup> Les différents volets de l’évaluation des aptitudes et habiletés motrices sont évalués selon une échelle de notes allant de 1 à 6, 6 étant la meilleure note, et peuvent être pondérés de manière différente.
 
-<sup>2</sup> Dans la partie du test consacrée à la pratique sportive, des barèmes spécifiques au sexe sont appliqués dans la mesure où des différences biologiques influent sur la capacité de performance.
+<sup>2</sup> L’évaluation de l’aptitude personnelle pour le domaine professionnel est sanctionnée par l’appréciation«réussi» ou «non réussi».
 
-<sup>3</sup> Le test d’aptitude est réputé réussi dès lors que la moyenne des notes de l’ensemble des volets d’examen est supérieure ou égale à 4,00. Cette note est arrondie à deux chiffres après la virgule.
+<sup>3</sup> Le test d’aptitude est réputé réussi dès lors que la moyenne des notes de tous les volets de l’évaluation des aptitudes et habiletés motrices est supérieure ou égale à 4,00 et que l’évaluation de l’aptitude personnelle pour le domaine professionnel est réussie. La moyenne des notes est arrondie à deux chiffres après la virgule.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 14
 
@@ -217,7 +260,9 @@ Sont admises à la filière de bachelor, sous réserve de l’al. 3 et de l’ar
 
 <sup>1</sup> Si le nombre de candidats ayant réussi le test d’aptitude est supérieur au nombre de places d’études disponibles, celles-ci sont attribuées dans l’ordre des résultats obtenus au test d’aptitude. En cas d’égalité de notes, un tirage au sort est réalisé.
 
-<sup>2</sup> Les candidats visés à l’art. 11, al. 4, ont priorité sur les candidats qui ont réussi le test d’aptitude.
+<sup>2</sup> Les candidats visés à l’art. 11, al. 4, sont prioritaires.[^14-1]
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 15
 
@@ -250,7 +295,11 @@ Si le nombre de candidatures pertinentes est supérieur au nombre de places d’
 
 <sup>4</sup> Ne peuvent être admises à la filière de master les personnes qui ont déjà été admises dans une filière de master d’une haute école dans les domaines des sciences du sport et du mouvement, de l’éducation physique ou du management du sport et qui n’ont pas achevé ces études avec succès.
 
-### Section 2 Durée des études, interruption des études, prise en compte de prestations d’études et obtention des diplômes
+### Section 2 Durée des études, interruption des études et obtention des diplômes
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 18
 
@@ -262,12 +311,20 @@ Si le nombre de candidatures pertinentes est supérieur au nombre de places d’
 
 Les prestations requises pour l’obtention du diplôme visé doivent être fournies:
 
-- a. en douze semestres au maximum dans la filière de bachelor;
+- a.[^18-1] en six semestres au maximum pour le cycle de base et douze semestres au maximum pour la totalité des études dans la filière de bachelor;
 - b. en huit semestres au maximum dans la filière de master.
 
-<sup>3</sup> Sur demande, le recteur peut prolonger la durée des études de huit semestres au maximum.
+<sup>3</sup>
+
+Sur demande, le recteur peut prolonger la durée des études:
+
+- a. de quatre semestres au maximum pour le cycle de base et de huit semestres au maximum pour la totalité des études dans la filière de bachelor;
+- b. de quatre semestres au maximum dans la filière de master.[^18-2]
 
 <sup>4</sup> Tout étudiant qui dépasse la durée maximale des études est exclu des études.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 19
 
@@ -285,11 +342,9 @@ Les prestations requises pour l’obtention du diplôme visé doivent être four
 
 #### Art. 20
 
-**Prise en compte de prestations d’études**
+[^20-1]
 
-<sup>1</sup> Le recteur statue sur la prise en compte des prestations d’études qui ont été fournies antérieurement dans d’autres hautes écoles.
-
-<sup>2</sup> Les étudiants qui souhaitent suivre, dans le cadre de leurs études, des cours ou des modules dans une autre haute école doivent préalablement obtenir l’accord du recteur. Celui-ci statue sur la prise en compte des prestations d’études qu’ils y fourniront.
+[^20-1]: Abrogé par le ch. I de l’O du DDPS du 7 oct. 2024, avec effet au 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 21
 
@@ -299,17 +354,26 @@ La note finale de la filière est la moyenne des notes obtenues dans les modules
 
 #### Art. 22
 
-**Réussite des études**
+**Réussite des études**[^22-1]
 
-Les études sont réputées réussies dès lors que l’étudiant a validé l’ensemble des modules de sa filière.
+Les études sont réputées réussies:
 
-### Chapitre 3 Évaluation des cours et des modules
+- a. dès lors que l’étudiant a validé tous les modules obligatoires, et
+- b. dès lors qu’il a validé le nombre de modules à option obligatoires requis pour l’obtention des crédits ECTS nécessaires.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
+### Chapitre 3 Évaluation des modules
+
+[^chap2-chap3-1]
+
+[^chap2-chap3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 23
 
 **Évaluations de compétences**
 
-<sup>1</sup> Une évaluation de compétences a lieu à la fin de chaque cours.
+<sup>1</sup> Une évaluation de compétences a lieu à la fin de chaque module.[^23-1]
 
 <sup>2</sup>
 
@@ -320,19 +384,23 @@ Par évaluations de compétences, on entend:
 
 <sup>3</sup> Les évaluations de compétences peuvent être réalisées sous forme électronique.
 
-<sup>4</sup> Plusieurs cours du même module peuvent être regroupés dans une évaluation de compétences commune.
+<sup>4</sup> …[^23-2]
 
 <sup>5</sup> Une évaluation de compétences peut se composer de plusieurs évaluations de compétences partielles.
 
-<sup>6</sup> L’admission à l’évaluation de compétences correspondant à un cours est subordonnée au respect des règles d’assiduité définies dans le livret des modules. Le recteur peut, sur demande, autoriser un étudiant qui n’a pas respecté les règles d’assiduité à se présenter à l’évaluation de compétences si ses absences sont excusables.
+<sup>6</sup> L’admission à l’évaluation de compétences correspondant à un module est subordonnée au respect des règles d’assiduité. Le recteur peut, sur demande, autoriser un étudiant qui n’a pas respecté les règles d’assiduité à se présenter à l’évaluation de compétences si ses absences sont excusables.[^23-3]
 
 <sup>7</sup> Les étudiants sont informés en temps utile des prestations qui seront attendues d’eux dans le cadre des différentes évaluations de compétences.
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^23-2]: Abrogé par le ch. I de l’O du DDPS du 7 oct. 2024, avec effet au 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^23-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 24
 
 **Modalités des évaluations de compétences**
 
-<sup>1</sup> Les modalités d’une évaluation de compétences, en particulier la forme, le mode, la durée, l’objet de l’examen, la langue ainsi que les moyens autorisés, sont fixées de manière uniforme pour l’ensemble des étudiants.
+<sup>1</sup> Les modalités d’une évaluation de compétences, en particulier la forme, le mode, la durée, l’objet de l’examen, la langue ainsi que les moyens autorisés, sont fixés de manière uniforme pour l’ensemble des étudiants à chaque session d’examen.[^24-1]
 
 <sup>2</sup>
 
@@ -344,6 +412,8 @@ Sur demande, il peut être dérogé à ce principe, en particulier pour les éva
 <sup>3</sup> Le recteur statue sur les demandes déposées en vertu de l’al. 2.
 
 <sup>4</sup> Si des dérogations sont accordées en vertu de l’al. 2, il convient de garantir que l’évaluation concernée porte sur les mêmes compétences que celle qui est organisée selon les modalités ordinaires visées à l’al. 1.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 25
 
@@ -381,19 +451,21 @@ Les évaluations de compétences sont réalisées dans l’une des langues d’e
 
 #### Art. 29
 
-**Notes de modules**
+**Notes de modules**[^29-1]
 
-<sup>1</sup> Si un module se compose de plusieurs cours, la note de module est la moyenne des notes obtenues dans tous les cours de ce module pondérées selon les crédits ECTS associés à ces cours. Pour le calcul, les notes sont arrondies au quart de point.
+La note de module est la moyenne de l’ensemble des notes obtenues dans ce module, compte tenu de la pondération appliquée à chaque évaluation de compétences partielle. Pour le calcul, les notes sont arrondies au quart de point.
 
-<sup>2</sup> Si un étudiant suit plus de cours qu’il n’est nécessaire pour atteindre le nombre de crédits ECTS requis dans un module, les cours pris en compte sont ceux où il obtient les meilleurs résultats. Les cours obligatoires sont toujours pris en compte.
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 30
 
 **Validation d’un module**
 
-<sup>1</sup> Un module est réputé validé dès lors que l’étudiant a obtenu une note supérieure ou égale à 4,00.
+<sup>1</sup> Un module est réputé validé dès lors que l’évaluation de compétences a été réalisée avec succès. Une évaluation de compétences notée est réputée réalisée avec succès dès lors que la note obtenue est supérieure ou égale à 4,00; une évaluation de compétences non notée est réputée réalisée avec succès dès lorsqu’elle a reçu l’appréciation «réussi».[^30-1]
 
 <sup>2</sup> Lorsqu’un module est validé, le nombre total de crédits ECTS associés au module est attribué. S’il n’est pas validé, aucun crédit ECTS n’est attribué.
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 31
 
@@ -415,11 +487,13 @@ Les examinateurs sont tenus de documenter les évaluations de compétences et de
 
 <sup>1</sup> Les évaluations de compétences ayant reçu une note inférieure à 4 ou une appréciation «non réussi» peuvent être répétées une fois.
 
-<sup>2</sup> La répétition doit avoir lieu dans les limites de la durée totale prévue pour les études.
+<sup>2</sup> La répétition doit avoir lieu dans les limites de la durée maximale des études.[^33-1]
 
 <sup>3</sup> Si l’évaluation de compétences est répétée, seule la meilleure note est retenue.
 
 <sup>4</sup> La forme de l’évaluation de compétences à répéter est déterminée par les examinateurs. Elle peut différer de celle de l’évaluation initiale ou se présenter sous une forme sensiblement identique.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 #### Art. 34
 
@@ -449,11 +523,14 @@ Si un étudiant n’achève pas sa formation avec succès, les documents relatif
 
 #### Art. 36
 
-<sup>1</sup> Des émoluments sont prélevés pour les filières d’études et les cours proposés à la HEFSM conformément à l’annexe.
+<sup>1</sup> Des émoluments sont prélevés pour les filières d’études et les modules proposés à la HEFSM conformément à l’annexe.[^36-1]
 
-<sup>2</sup> Les étudiants qui n’acquittent pas les émoluments dus ou qui les acquittent avec du retard malgré un rappel sont exclus de la filière d’études ou des cours concernés pour le semestre correspondant.
+<sup>2</sup> Les étudiants qui n’acquittent pas les émoluments dus ou qui les acquittent avec du retard malgré un rappel sont exclus de la filière d’études ou des modules concernés pour le semestre correspondant.[^36-2]
 
 <sup>3</sup> Le semestre auquel s’applique l’exclusion est comptabilisé dans la durée totale des études.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^36-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
 
 ## Chapitre 5 Dispositions finales
 
@@ -471,20 +548,37 @@ L’ordonnance du 3 août 2012 sur la HEFSM[^37-1] est abrogée.
 
 Les personnes qui ont obtenu le diplôme de maître ou de maîtresse de sport EFSM avant 1999 peuvent demander que le titre de «maître de sport HES»/«maîtresse de sport HES» en vigueur leur soit décerné si elles justifient, dans le domaine du sport, d’une pratique professionnelle de cinq ans ou de la fréquentation d’une formation continue de niveau haute école. Elles sont autorisées à utiliser le titre de «Bachelor of Science Haute école fédérale de sport de Macolin in Sport» ou de «Bachelor of Science Haute école fédérale de sport de Macolin in Sports».
 
+#### Art. 38a
+
+**Dispositions transitoires relatives à la modification du 7 octobre 2024**[^38a-1]
+
+<sup>1</sup> Les personnes qui ont commencé leurs études avant l’entrée en vigueur de la modification du 7 octobre 2024 les achèvent conformément à l’ancien droit, mais au plus tard avant la fin du semestre de printemps 2027. Les cours proposés conformément à l’ancien droit sont proposés jusqu’à la fin du semestre de printemps 2027. Les répétitions d’évaluations de compétences doivent être réalisées avant la fin du semestre de printemps 2027.
+
+<sup>2</sup> Sur demande écrite, elles peuvent achever leurs études conformément au nouveau droit.
+
+<sup>3</sup> Les personnes qui ont commencé leurs études avant l’entrée en vigueur de la modification du 7 octobre 2024 et ne parviennent pas à les achever avant la fin du semestre de printemps 2027 les achèvent conformément au nouveau droit.
+
+<sup>4</sup> Pour les cours qui ne sont plus proposés en vertu du nouveau droit, une équivalence est établie conformément à la liste des équivalences[^38a-2].
+
+[^38a-1]: Introduit par le ch. I de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+[^38a-2]: La liste des équivalences du 29 août 2024 peut être téléchargée gratuitement à l’adresse suivante: [www.ehsm.admin.ch](https://www.ehsm.admin.ch/fr/bases-legales) &gt; À propos &gt; Bases légales.
+
 #### Art. 39
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2021.
 
-Annexe
+Annexe[^t-1]
 
 (art. 36, al. 1)
 
 ## Émoluments
 
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DDPS du 7 oct. 2024, en vigueur depuis le 1<sup>er</sup> déc. 2024 ([RO 2024 610](https://fedlex.data.admin.ch/eli/oc/2024/610)).
+
 <table>
-<tr><td></td><td>Émoluments en francs</td><td>Unité</td></tr>
+<tr><th></th><th>Émoluments en francs</th><th>Unité</th></tr>
 <tr><td>Inscription au test d’aptitude pour la filière de bachelor</td><td>100</td><td></td></tr>
 <tr><td>Inscription à la filière de master</td><td>100</td><td></td></tr>
 <tr><td>Inscription aux filières de formation continue</td><td>100</td><td></td></tr>
@@ -492,5 +586,5 @@ Annexe
 <tr><td>Inscription en tant qu’auditeur</td><td>100</td><td>par cours</td></tr>
 <tr><td>Filières de formation continue officielles</td><td>300</td><td>par journée de cours</td></tr>
 <tr><td>Autres offres de formation continue officielles (en fonction de la durée et du travail que cela représente)</td><td>de 50 à 250</td><td>par journée de cours</td></tr>
-<tr><td>Examen de l’équivalence de diplômes de hautes écoles</td><td>30</td><td>par heure</td></tr>
+<tr><td>Examen de l’équivalence de prestations d’études externes et de diplômes de hautes écoles</td><td>30</td><td>par heure</td></tr>
 </table>
