@@ -3,20 +3,20 @@ canton: GR
 number: "803.100"
 title: Legge sulle espropriazioni del Cantone dei Grigioni
 language: it
-version: 2013-01-01
-corrected: 2020-10-05
-version_adopted: 2012-06-11
+version: 2024-12-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-14
 adopted: 1958-10-26
 in_force: 1959-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/803.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2250/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3371/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulle espropriazioni del Cantone dei Grigioni
 
-del 26.10.1958 (stato 01.01.2013)
+del 26.10.1958 (stato 01.12.2024)
 
 accettata dal Popolo il 26 ottobre 1958[^ingress-1]
 
@@ -199,7 +199,7 @@ accettata dal Popolo il 26 ottobre 1958[^ingress-1]
 
 <sup>1</sup> I circondari d'espropriazione sono stabiliti dal Governo.[^18-1]
 
-[^18-1]: Con DG del 30 dicembre 1958 e del 19 marzo 1962, l'intero territorio cantonale è stato ripartito in otto circondari d'espropriazione, che corrispondono ai circondari tecnici, fatta eccezione per la Città di Coira, formante un circondario proprio. I circondari tecnici sono ripartiti come segue: 1° circondario con sede a Coira, comprendente la Untere Strasse dal confine con il Cantone di San Gallo e con il Principato del Liechtenstein fino a Reichenau, la Obere Strasse da Coira a Tiefencastel, la strada dello Schanfigg da Coira ad Arosa, la strada della Prettigovia da Landquart a Schiers/Schasseintobel, le strade di allacciamento, nonché le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 2° circondario con sede a Mesocco, comprendente la Strada italiana Hinterrhein (inizio del passo) - San Bernardino - Mesocco - confine con il Cantone Ticino, oltre alla strada della Calanca da Grono a Rossa e alle strade d'allacciamento; 3° circondario con sede a Samedan, comprendente la Obere Strasse dal confine Mulegns/Sur - Julier - Silvaplana - Maloja - confine di Stato, la strada dell'Engadina da Silvaplana a Punt ota sopra Braul, la strada del Bernina da Samedan e Celerina/Schlarigna attraverso Pontresina - Poschiavo fino a Campocologno; inoltre la strada dell'Albula da Preda a La Punt-Chamues-ch e le strade d'allacciamento nonché le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 4° circondario con sede a Scuol, comprendente la strada dell'Engadina da Punt ota sopra Braul a Martina - Vinadi - confine di Stato, la strada del passo del Forno e la strada della Val Monastero da Zernez al confine di Stato presso Müstair, la strada del passo dell'Umbrail fino al confine di Stato in cima al passo, la strada del Flüela da Susch fino al confine Susch/Davos e la strada per Samnaun da Vinadi a Spissermühle, le strade d'allacciamento e le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 5° circondario con sede a Davos-Platz, comprendente la Obere Strasse da Tiefencastel al confine Mulegns/Sur, la strada dell'Albula da Tiefencastel fino a Preda, la strada della Landwasser, da Lantsch/Lenz passando per Wiesen fino a Davos, la strada del Flüela da Davos-Dorf al confine Davos/Susch e la strada della Prettigovia da Schiers–Schasseintobel a Davos-Dorf, le strade d'allacciamento, nonché le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 6° circondario con sede a Ilanz comprendente la strada della Surselva da Reichenau passando per Ilanz-Tavetsch fino al confine con il Cantone di Uri, la strada della Surselva dal confine Versam/Valendas a Ilanz, la strada della Lumnezia da Ilanz a Vrin e da Val Gronda passando per Peiden fino a Vals, la Glennerstrasse da Ilanz a Peidenbad, la strada del Lucomagno da Disentis/Mustér fino al confine con il Cantone Ticino, le strade d'allacciamento e le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 7°circondario con sede a Thusis, comprendente la Strada italiana da Reichenau a Hinterrhein (inizio del passo), il passo dello Spluga fino al confine di Stato, la strada per Avers, la strada della Schyn da Thusis a Tiefencastel, la strada della Surselva da Bonaduz al confine Versam/Valendas, la strada per Safien da Versam a Safien-Thalkirch e la strada della Domigliasca da Rothenbrunnen a Sils i.D, nonché le strade d'allacciamento e le strade di accesso alle stazioni FR che che sottostanno all'ordinanza cantonale sulla polizia della strada.
+[^18-1]: Con DG del 30 dicembre 1958 e del 19 marzo 1962, l'intero territorio cantonale è stato ripartito in otto circondari d'espropriazione, che corrispondono ai circondari tecnici, fatta eccezione per la Città di Coira, formante un circondario proprio. I circondari tecnici sono ripartiti come segue: 1° circondario con sede a Coira, comprendente la Untere Strasse dal confine con il Cantone di San Gallo e con il Principato del Liechtenstein fino a Reichenau, la Obere Strasse da Coira a Tiefencastel, la strada dello Schanfigg da Coira ad Arosa, la strada della Prettigovia da Landquart a Schiers/Schasseintobel, le strade di allacciamento, nonché le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 2° circondario con sede a Mesocco, comprendente la Strada italiana Hinterrhein (inizio del passo) - San Bernardino - Mesocco - confine con il Cantone Ticino, oltre alla strada della Calanca da Grono a Rossa e alle strade d'allacciamento; 3° circondario con sede a Samedan, comprendente la Obere Strasse dal confine Mulegns/Sur - Julier - Silvaplana - Maloja - confine di Stato, la strada dell'Engadina da Silvaplana a Punt ota sopra Braul, la strada del Bernina da Samedan e Celerina/Schlarigna attraverso Pontresina - Poschiavo fino a Campocologno; inoltre la strada dell'Albula da Preda a La Punt Chamues-ch e le strade d'allacciamento nonché le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 4° circondario con sede a Scuol, comprendente la strada dell'Engadina da Punt ota sopra Braul a Martina - Vinadi - confine di Stato, la strada del passo del Forno e la strada della Val Monastero da Zernez al confine di Stato presso Müstair, la strada del passo dell'Umbrail fino al confine di Stato in cima al passo, la strada del Flüela da Susch fino al confine Susch/Davos e la strada per Samnaun da Vinadi a Spissermühle, le strade d'allacciamento e le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 5° circondario con sede a Davos-Platz, comprendente la Obere Strasse da Tiefencastel al confine Mulegns/Sur, la strada dell'Albula da Tiefencastel fino a Preda, la strada della Landwasser, da Lantsch/Lenz passando per Wiesen fino a Davos, la strada del Flüela da Davos-Dorf al confine Davos/Susch e la strada della Prettigovia da Schiers–Schasseintobel a Davos-Dorf, le strade d'allacciamento, nonché le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 6° circondario con sede a Ilanz comprendente la strada della Surselva da Reichenau passando per Ilanz-Tavetsch fino al confine con il Cantone di Uri, la strada della Surselva dal confine Versam/Valendas a Ilanz, la strada della Lumnezia da Ilanz a Vrin e da Val Gronda passando per Peiden fino a Vals, la Glennerstrasse da Ilanz a Peidenbad, la strada del Lucomagno da Disentis/Mustér fino al confine con il Cantone Ticino, le strade d'allacciamento e le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 7°circondario con sede a Thusis, comprendente la Strada italiana da Reichenau a Hinterrhein (inizio del passo), il passo dello Spluga fino al confine di Stato, la strada per Avers, la strada della Schyn da Thusis a Tiefencastel, la strada della Surselva da Bonaduz al confine Versam/Valendas, la strada per Safien da Versam a Safien-Thalkirch e la strada della Domigliasca da Rothenbrunnen a Sils i.D, nonché le strade d'allacciamento e le strade di accesso alle stazioni FR che che sottostanno all'ordinanza cantonale sulla polizia della strada.
 
 #### Art. 19
 
@@ -212,6 +212,18 @@ accettata dal Popolo il 26 ottobre 1958[^ingress-1]
 <sup>3</sup> Se l'opera da eseguire si estende a più circondari d'espropriazione, il Governo designa una commissione d'espropriazione unica.
 
 [^19-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+
+#### Art. 19a
+
+**2. Nomina**
+
+<sup>1</sup> I membri della commissione di espropriazione appartengono a diversi gruppi professionali e sono in possesso delle conoscenze specialistiche, linguistiche e del luogo necessarie per l'adempimento dei compiti.
+
+<sup>2</sup> Il Tribunale d'appello nomina i membri della commissione di espropriazione per la durata di quattro anni. È possibile procedere a nomine sostitutive durante il periodo di carica.
+
+<sup>3</sup> Il Tribunale d'appello pubblica i posti vacanti, per quanto non si presentino per una nuova nomina membri in carica della commissione di espropriazione.
+
+<sup>4</sup> La composizione della commissione di espropriazione deve essere resa nota pubblicamente.
 
 #### Art. 20
 

@@ -3,20 +3,20 @@ canton: GR
 number: "803.100"
 title: "Lescha d'expropriaziun dal chantun Grischun"
 language: rm
-version: 2013-01-01
-corrected: 2020-10-05
-version_adopted: 2012-06-11
+version: 2024-12-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-14
 adopted: 1958-10-26
 in_force: 1959-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/803.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2250/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3371/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha d'expropriaziun dal chantun Grischun
 
-dals 26-10-1958 (versiun dals 01-01-2013)
+dals 26-10-1958 (versiun dals 01-12-2024)
 
 acceptada dal pievel ils 26 d'october 1958[^ingress-1]
 
@@ -199,7 +199,7 @@ acceptada dal pievel ils 26 d'october 1958[^ingress-1]
 
 <sup>1</sup> La regenza fixescha ils circuls d'expropriaziun.[^18-1]
 
-[^18-1]: Tenor il CR dals 30 da december 1958 e dals 19 da mars 1962 è l'entir chantun vegnì repartì en otg circuls d'expropriaziun che correspundan als districts d'inschigner, cun excepziun dal territori da la citad da Cuira che furma in agen circul d'expropriaziun. Ils districts d'inschigner èn repartids suandantamain: 1. district cun sedia a Cuira, cumpigliond la via sut dal cunfin da Son Gagl e dal Principadi da Liechtenstein fin La Punt, la via sura da Cuira fin Casti, plinavant la via dal Scanvetg da Cuira fin Arosa, la via dal Partenz da Landquart fin Schiers/Schasseintobel, las vias da colliaziun sco er las vias da la staziun da la VR, las qualas èn suttamessas a l'urden chantunal da la polizia stradala; 2. district cun sedia a Mesauc, cumpigliond la via taliana Valragn (cumenzament dal pass) –San Bernardin–Mesauc–cunfin dal Tessin sper la via da Calanca da Grono fin Rossa e las vias da colliaziun; 3. district cun sedia a Samedan, cumpigliond la via sura dal cunfin Mulegns/ Sour–Güglia–Silvaplauna–Malögia–cunfin dal pajais, la via da l'Engiadina da Silvaplauna fin Punt ota sur Brail, la via dal Bernina da Samedan e da Schlarigna sur Puntraschigna–Puschlav fin Campocologno; lura la via da l'Alvra da Preda fin La Punt-Chamues-ch e las vias da colliaziun sco er las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 4. district cun sedia a Scuol, cumpigliond la via da l'Engiadina da Punt ota sur Brail fin Martina–Vinadi–cunfin dal stadi, la via dal Fuorn e la via da la Val Müstair da Zernez fin al cunfin dal stadi tar Müstair, la via da l'Umbrail fin al cunfin dal pajais sin il pass, la via dal Flüela da Susch fin al cunfin Susch/Tavau e la via da Samignun da Vinadi fin al mulin da Spiss, las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 5. district cun sedia a Tavau Plaz, cumpigliond la via sura da Casti fin al cunfin da Mulegns/Sour, la via da l'Alvra da Casti fin Preda, la via da la Landwasser da Lantsch sur Wiesen fin Tavau, la via dal Flüela da Tavau Vitg fin al cunfin Tavau/Susch e la via dal Partenz da Schiers–Schasseintobel fin Tavau Vitg, las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 6. district cun sedia a Glion, cumpigliond la via da la Surselva da La Punt sur Glion–Tujetsch fin al cunfin dal chantun Uri, la via da la Surselva dal cunfin da Versomi/Valendau fin Glion, lura la via da la Lumnezia da Glion fin Vrin e Val Gronda sur Peiden fin Val S. Pieder, la via dal Glogn da Glion fin Peiden Bogn, la via dal Lucmagn da Mustér fin al cunfin dal Tessin, las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 7. district cun sedia a Tusaun, cumpigliond la via taliana da La Punt fin Valragn (cumenzament dal pass), il pass dal Spleia fin al cunfin naziunal, la via d'Avras, la via dal Meir da Tusaun fin Casti, la via da la Surselva da Panaduz fin al cunfin da Versomi/Valendau, la via da la Stussavgia da Versomi fin Safien-Talkirch e la via da la Tumleastga da Giuvaulta fin Seglias sco er las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala.
+[^18-1]: Tenor il CR dals 30 da december 1958 e dals 19 da mars 1962 è l'entir chantun vegnì repartì en otg circuls d'expropriaziun che correspundan als districts d'inschigner, cun excepziun dal territori da la citad da Cuira che furma in agen circul d'expropriaziun. Ils districts d'inschigner èn repartids suandantamain: 1. district cun sedia a Cuira, cumpigliond la via sut dal cunfin da Son Gagl e dal Principadi da Liechtenstein fin La Punt, la via sura da Cuira fin Casti, plinavant la via dal Scanvetg da Cuira fin Arosa, la via dal Partenz da Landquart fin Schiers/Schasseintobel, las vias da colliaziun sco er las vias da la staziun da la VR, las qualas èn suttamessas a l'urden chantunal da la polizia stradala; 2. district cun sedia a Mesauc, cumpigliond la via taliana Valragn (cumenzament dal pass) –San Bernardin–Mesauc–cunfin dal Tessin sper la via da Calanca da Grono fin Rossa e las vias da colliaziun; 3. district cun sedia a Samedan, cumpigliond la via sura dal cunfin Mulegns/ Sour–Güglia–Silvaplauna–Malögia–cunfin dal pajais, la via da l'Engiadina da Silvaplauna fin Punt ota sur Brail, la via dal Bernina da Samedan e da Schlarigna sur Puntraschigna–Puschlav fin Campocologno; lura la via da l'Alvra da Preda fin La Punt Chamues-ch e las vias da colliaziun sco er las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 4. district cun sedia a Scuol, cumpigliond la via da l'Engiadina da Punt ota sur Brail fin Martina–Vinadi–cunfin dal stadi, la via dal Fuorn e la via da la Val Müstair da Zernez fin al cunfin dal stadi tar Müstair, la via da l'Umbrail fin al cunfin dal pajais sin il pass, la via dal Flüela da Susch fin al cunfin Susch/Tavau e la via da Samignun da Vinadi fin al mulin da Spiss, las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 5. district cun sedia a Tavau Plaz, cumpigliond la via sura da Casti fin al cunfin da Mulegns/Sour, la via da l'Alvra da Casti fin Preda, la via da la Landwasser da Lantsch sur Wiesen fin Tavau, la via dal Flüela da Tavau Vitg fin al cunfin Tavau/Susch e la via dal Partenz da Schiers–Schasseintobel fin Tavau Vitg, las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 6. district cun sedia a Glion, cumpigliond la via da la Surselva da La Punt sur Glion–Tujetsch fin al cunfin dal chantun Uri, la via da la Surselva dal cunfin da Versomi/Valendau fin Glion, lura la via da la Lumnezia da Glion fin Vrin e Val Gronda sur Peiden fin Val S. Pieder, la via dal Glogn da Glion fin Peiden Bogn, la via dal Lucmagn da Mustér fin al cunfin dal Tessin, las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 7. district cun sedia a Tusaun, cumpigliond la via taliana da La Punt fin Valragn (cumenzament dal pass), il pass dal Spleia fin al cunfin naziunal, la via d'Avras, la via dal Meir da Tusaun fin Casti, la via da la Surselva da Panaduz fin al cunfin da Versomi/Valendau, la via da la Stussavgia da Versomi fin Safien-Talkirch e la via da la Tumleastga da Giuvaulta fin Seglias sco er las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala.
 
 #### Art. 19
 
@@ -212,6 +212,18 @@ acceptada dal pievel ils 26 d'october 1958[^ingress-1]
 <sup>3</sup> Sche l'ovra cumpiglia plirs circuls d'expropriaziun, fixescha la regenza in'unica cumissiun d'expropriaziun.
 
 [^19-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+
+#### Art. 19a
+
+**2. elecziun**
+
+<sup>1</sup> Las commembras ed ils commembers da la cumissiun d'expropriaziun appartegnan a differentas gruppas professiunalas ed han las enconuschientschas tecnicas, linguisticas e localas ch'èn necessarias per ademplir las incumbensas.
+
+<sup>2</sup> La Dretgira superiura elegia las commembras ed ils commembers da la cumissiun d'expropriaziun per ina durada da 4 onns. Elecziuns substitutivas durant la durada d'uffizi èn pussaivlas.
+
+<sup>3</sup> La Dretgira superiura publitgescha uffizialmain las plazzas che ston vegnir occupadas, sche naginas commembras e nagins commembers da la cumissiun d'expropriaziun en uffizi na sa mettan a disposiziun per ina reelecziun.
+
+<sup>4</sup> La cumposiziun da la cumissiun d'expropriaziun sto vegnir communitgada publicamain.
 
 #### Art. 20
 

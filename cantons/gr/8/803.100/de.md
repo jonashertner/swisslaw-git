@@ -3,20 +3,20 @@ canton: GR
 number: "803.100"
 title: Enteignungsgesetz des Kantons Graubünden
 language: de
-version: 2013-01-01
-corrected: 2020-10-05
-version_adopted: 2012-06-11
+version: 2024-12-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-14
 adopted: 1958-10-26
 in_force: 1959-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/803.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2250/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3371/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Enteignungsgesetz des Kantons Graubünden
 
-Vom 26.10.1958 (Stand 01.01.2013)
+Vom 26.10.1958 (Stand 01.12.2024)
 
 Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 
@@ -199,7 +199,7 @@ Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 
 <sup>1</sup> Die Regierung bestimmt die Enteignungskreise[^18-1].
 
-[^18-1]: Gemäss RB vom 30. Dezember 1958 und vom 19. März 1962 ist der ganze Kanton in acht Enteignungskreise eingeteilt worden, welche mit Ausnahme des einen eigenen Enteignungskreis bildenden Gebietes der Stadt Chur den Ingenieurbezirken entsprechen. Die Ingenieurbezirke sind folgendermassen eingeteilt: 1. Bezirk mit Sitz in Chur, umfassend die Untere Strasse von der St. Galler- und Liechtensteinergrenze bis Reichenau, die Obere Strasse von Chur bis Tiefencastel, ferner die Schanfiggerstrasse von Chur bis Arosa, die Prättigauerstrasse von Landquart bis Schiers/Schasseintobel, die Verbindungsstrassen sowie die Stationsstrassen der RhB, welche der kantonalen Strassenpolizeiordnung unterstellt sind; 2. Bezirk mit Sitz in Mesocco, umfassend die Italienische Strasse Hinterrhein (Passanfang) –St. Bernhardin–Mesocco–Tessinergrenze nebst der Calancastrasse von Grono bis Rossa und die Verbindungsstrassen; 3. Bezirk mit Sitz in Samedan, umfassend die Obere Strasse von der Grenze Mulegns/Sur–Julier–Silvaplana–Maloja–Landesgrenze, die Engadinerstrasse von Silvaplana bis Punt ota oberhalb Brail, die Berninastrasse von Samedan und von Celerina/Schlarigna über Pontresina–Poschiavo bis Campocologno; dann die Albulastrasse von Preda bis La Punt–Chamues–ch und die Verbindungsstrassen sowie die Stationsstrassen der RhB, die der kantonalen Strassenpolizeiordnung unterstellt sind; 4. Bezirk mit Sitz in Scuol, umfassend die Engadinerstrasse von Punt ota oberhalb Brail bis Martina–Vinadi–Landesgrenze, die Ofenberg- und Münstertalerstrasse von Zernez bis zur Landesgrenze bei Müstair, die Umbrailstrasse bis zur Landesgrenze auf der Passhöhe, die Flüelastrasse von Susch bis Grenze Susch/Davos und die Samnaunerstrasse von Vinadi bis Spissermühle, die Verbindungsstrassen und die der kantonalen Strassenpolizeiordnung unterstellten Stationsstrassen der RhB; 5. Bezirk mit Sitz in Davos-Platz, umfassend die Obere Strasse von Tiefencastel bis Grenze Mulegns/Sur, die Albulastrasse von Tiefencastel bis Preda, die Landwasserstrasse von Lantsch/Lenz über Wiesen bis Davos, die Flüelastrasse von Davos-Dorf bis Grenze Davos/Susch und die Prättigauerstrasse von Schiers–Schasseintobel bis Davos-Dorf, die Verbindungsstrassen sowie die der kantonalen Strassenpolizeiordnung unterstellten Stationsstrassen der RhB; 6. Bezirk mit Sitz in Ilanz, umfassend die Oberländerstrasse ab Reichenau über Ilanz-Tavetsch bis zur Urnergrenze, die Oberländerstrasse von der Grenze Versam/Valendas bis Ilanz, dann die Lugnezerstrasse von Ilanz bis Vrin und Val Gronda über Peiden bis Vals, die Glennerstrasse von Ilanz bis Peidenbad, die Lukmanierstrasse von Disentis/Mustér bis zur Tessinergrenze, die Verbindungsstrassen und die der kantonalen Strassenpolizeiordnung unterstellten Stationsstrassen der RhB; 7. Bezirk mit Sitz in Thusis, umfassend die Italienische Strasse von Reichenau bis Hinterrhein (Passanfang), den Splügenpass bis Landesgrenze, die Averserstrasse, die Schynstrasse von Thusis bis Tiefencastel, die Oberländerstrasse von Bonaduz bis Grenze Versam/Valendas, die Safierstrasse von Versam bis Safien-Thalkirch und die Domleschgerstrasse von Rothenbrunnen bis Sils i.D. sowie die Verbindungsstrassen und die Zufahrtsstrassen zu den Stationen der RhB, die der kantonalen Strassenpolizeiordnung unterstellt sind.
+[^18-1]: Gemäss RB vom 30. Dezember 1958 und vom 19. März 1962 ist der ganze Kanton in acht Enteignungskreise eingeteilt worden, welche mit Ausnahme des einen eigenen Enteignungskreis bildenden Gebietes der Stadt Chur den Ingenieurbezirken entsprechen. Die Ingenieurbezirke sind folgendermassen eingeteilt: 1. Bezirk mit Sitz in Chur, umfassend die Untere Strasse von der St. Galler- und Liechtensteinergrenze bis Reichenau, die Obere Strasse von Chur bis Tiefencastel, ferner die Schanfiggerstrasse von Chur bis Arosa, die Prättigauerstrasse von Landquart bis Schiers/Schasseintobel, die Verbindungsstrassen sowie die Stationsstrassen der RhB, welche der kantonalen Strassenpolizeiordnung unterstellt sind; 2. Bezirk mit Sitz in Mesocco, umfassend die Italienische Strasse Hinterrhein (Passanfang) –St. Bernhardin–Mesocco–Tessinergrenze nebst der Calancastrasse von Grono bis Rossa und die Verbindungsstrassen; 3. Bezirk mit Sitz in Samedan, umfassend die Obere Strasse von der Grenze Mulegns/Sur–Julier–Silvaplana–Maloja–Landesgrenze, die Engadinerstrasse von Silvaplana bis Punt ota oberhalb Brail, die Berninastrasse von Samedan und von Celerina/Schlarigna über Pontresina–Poschiavo bis Campocologno; dann die Albulastrasse von Preda bis La Punt Chamues–ch und die Verbindungsstrassen sowie die Stationsstrassen der RhB, die der kantonalen Strassenpolizeiordnung unterstellt sind; 4. Bezirk mit Sitz in Scuol, umfassend die Engadinerstrasse von Punt ota oberhalb Brail bis Martina–Vinadi–Landesgrenze, die Ofenberg- und Münstertalerstrasse von Zernez bis zur Landesgrenze bei Müstair, die Umbrailstrasse bis zur Landesgrenze auf der Passhöhe, die Flüelastrasse von Susch bis Grenze Susch/Davos und die Samnaunerstrasse von Vinadi bis Spissermühle, die Verbindungsstrassen und die der kantonalen Strassenpolizeiordnung unterstellten Stationsstrassen der RhB; 5. Bezirk mit Sitz in Davos-Platz, umfassend die Obere Strasse von Tiefencastel bis Grenze Mulegns/Sur, die Albulastrasse von Tiefencastel bis Preda, die Landwasserstrasse von Lantsch/Lenz über Wiesen bis Davos, die Flüelastrasse von Davos-Dorf bis Grenze Davos/Susch und die Prättigauerstrasse von Schiers–Schasseintobel bis Davos-Dorf, die Verbindungsstrassen sowie die der kantonalen Strassenpolizeiordnung unterstellten Stationsstrassen der RhB; 6. Bezirk mit Sitz in Ilanz, umfassend die Oberländerstrasse ab Reichenau über Ilanz-Tavetsch bis zur Urnergrenze, die Oberländerstrasse von der Grenze Versam/Valendas bis Ilanz, dann die Lugnezerstrasse von Ilanz bis Vrin und Val Gronda über Peiden bis Vals, die Glennerstrasse von Ilanz bis Peidenbad, die Lukmanierstrasse von Disentis/Mustér bis zur Tessinergrenze, die Verbindungsstrassen und die der kantonalen Strassenpolizeiordnung unterstellten Stationsstrassen der RhB; 7. Bezirk mit Sitz in Thusis, umfassend die Italienische Strasse von Reichenau bis Hinterrhein (Passanfang), den Splügenpass bis Landesgrenze, die Averserstrasse, die Schynstrasse von Thusis bis Tiefencastel, die Oberländerstrasse von Bonaduz bis Grenze Versam/Valendas, die Safierstrasse von Versam bis Safien-Thalkirch und die Domleschgerstrasse von Rothenbrunnen bis Sils i.D. sowie die Verbindungsstrassen und die Zufahrtsstrassen zu den Stationen der RhB, die der kantonalen Strassenpolizeiordnung unterstellt sind.
 
 #### Art. 19
 
@@ -212,6 +212,18 @@ Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 <sup>3</sup> Erstreckt sich das auszuführende Werk über mehrere Enteignungskreise, so bestimmt die Regierung eine einzige Enteignungskommission.
 
 [^19-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+
+#### Art. 19a
+
+**2. Wahl**
+
+<sup>1</sup> Die Mitglieder der Enteignungskommission gehören verschiedenen Berufsgruppen an und besitzen die für die Aufgabenerfüllung nötigen Fach-, Sprach- und Ortskenntnisse.
+
+<sup>2</sup> Das Obergericht wählt die Mitglieder der Enteignungskommission für die Dauer von vier Jahren. Ersatzwahlen während der Amtsdauer sind möglich.
+
+<sup>3</sup> Das Obergericht schreibt zu besetzende Stellen öffentlich aus, soweit sich keine amtierenden Mitglieder der Enteignungskommission zur Wiederwahl stellen.
+
+<sup>4</sup> Die Zusammensetzung der Enteignungskommission ist öffentlich bekannt zu geben.
 
 #### Art. 20
 
