@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.845"
 title: Studienordnung für den Masterstudiengang Management and Law an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-12-01
+version: "2024-12-01"
+nachtrag: "127"
 adopted: 2013-10-31
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_845-2013_10_31-2014_03_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_845-2013_10_31-2014_03_01-127.html"
 text: pdf
 ---
 
@@ -68,7 +67,7 @@ An der ZHAW oder andernorts erworbene ECTS-Credits[^2-2] werden während sechs J
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 25 - 127
 
 - b. in Business Administration mit Studienrichtung Management and Law (mit Auflagen zur Nachqualifikation im rechtswissenschaftlichen Bereich),
 
@@ -118,15 +117,15 @@ Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 ### D. Prüfungen und andere Leistungsnachweise
 
-#### § 9
-
 **Bewertung von Leistungsnachweisen und Benotung von Modulen**
 
-<sup>1</sup> Leistungsnachweise werden auf einer Notenskala von 6 bis 1 in Viertelnotenschritten bewertet. Für einzelne Leistungsnachweise kann auch die Bewertung «bestanden» oder «nicht bestanden» vergeben werden.
+§ 9.[^hDPrüfungenundand-1] <sup>1</sup> Leistungsnachweise werden auf einer Notenskala von 6 bis 1 in Viertelnotenschritten bewertet. Für einzelne Leistungsnachweise kann auch die Bewertung «bestanden» oder «nicht bestanden» vergeben werden.
 
-<sup>2</sup> Sämtliche Module sind zu benoten. Werden mehrere Leistungsnachweise im Modul eingefordert, so werden die Modalitäten der Notenermittlung auf Modulebene in der Modulbeschreibung festgehalten.
+<sup>2</sup> Ein Modul ist bestanden, wenn a. die Modulnote mindestens 4,0 beträgt oder b. das Modul mit «bestanden» bewertet wird.
 
-§ 10.[^9-1]
+<sup>3</sup> Bei benoteten Modulen müssen alle nicht benoteten Leistungsnachweise bestanden sein. Die Modulbeschreibung kann abweichende oder zusätzliche Bestehensvoraussetzungen festhalten.
+
+§ 10.[^hDPrüfungenundand-2]
 
 **Expertinnen und Experten**
 
@@ -134,7 +133,8 @@ Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 <sup>2</sup> Expertinnen und Experten haben bei der Bewertung eine beratende Funktion.
 
-[^9-1]: Aufgehoben durch B vom 23. August 2018 (OS 74, 38; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+[^hDPrüfungenundand-1]: Fassung gemäss B vom 5. September 2024 (OS 79, 413; ABl 2024-09-27). In Kraft seit 1. Dezember 2024.
+[^hDPrüfungenundand-2]: Aufgehoben durch B vom 23. August 2018 (OS 74, 38; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 
 #### § 12
 
@@ -168,24 +168,21 @@ Mit der Masterarbeit kann begonnen werden, wenn 50 ECTS-Credits[^12-3] erreicht 
 
 § 15.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Management and Law» abgeschlossen.
 
-[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 520; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
-[^hEStudienabschluss-2]: Fassung gemäss B vom 23. August 2018 (OS 74, 38; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+**3**
 
-#### § 16
+- 1\. 1. 25 - 127 § 16. Der Mastertitel wird vergeben, wenn a.[^hEStudienabschluss-2] alle erforderlichen Pflichtmodule bestanden und
 
 **Abschluss des Studiums**
 
-Der Mastertitel wird vergeben, wenn a.[^hEStudienabschluss-2] alle erforderlichen Pflichtmodule bestanden und b. 90 ECTS-Credits[^hEStudienabschluss-2] erreicht sind.
-
-**3**
-
-- 1\. 1. 23 - 119 § 17.[^16-1] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
+- b. 90 ECTS-Credits[^hEStudienabschluss-2] erreicht sind.
 
 **Abschlussnote**
 
+§ 17.[^hEStudienabschluss-3] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
+
 **Überzählige ECTS-Credits aus Wahlpflichtmodulen**
 
-§ 18.[^16-2] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+§ 18.[^hEStudienabschluss-4] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 <sup>2</sup> Die Studiengangleitung regelt,
 
@@ -195,8 +192,10 @@ Der Mastertitel wird vergeben, wenn a.[^hEStudienabschluss-2] alle erforderliche
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-[^16-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 49; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^16-2]: Eingefügt durch B vom 22. August 2019 (OS 75, 49; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 520; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+[^hEStudienabschluss-2]: Fassung gemäss B vom 23. August 2018 (OS 74, 38; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+[^hEStudienabschluss-3]: Fassung gemäss B vom 22. August 2019 (OS 75, 49; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hEStudienabschluss-4]: Eingefügt durch B vom 22. August 2019 (OS 75, 49; ABl 2019-11-01). In Kraft seit 1. April 2020.
 
 ### Anhang zur Studienordnung für den Masterstudiengang Management and Law an der Zürcher Hochschule für Angewandte Wissenschaften
 
@@ -208,7 +207,7 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 1. 25 - 127
 
 ## Weitere Fussnoten
 
