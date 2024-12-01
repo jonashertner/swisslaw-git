@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2024-10-01
+version: 2024-12-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241001-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241202/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241202-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 1<sup>er</sup> octobre 2024)
+du 13 décembre 2002 (État le 2 décembre 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -179,9 +179,19 @@ Les députés sont tenus de participer aux séances du conseil et des commission
 
 #### Art. 10a
 
-[^10a-1]
+**Participation en ligne à des séances du conseil**[^10a-1]
 
-[^10a-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session) ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nouvelle teneur selon le ch. III 1 de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)) et prolongé jusqu’au 30 juin 2024 par l’annexe ch. 1 de la LF du 16 déc. 2022 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+<sup>1</sup> Lorsque des évènements pourraient empêcher plusieurs députés de participer physiquement à des séances d’un conseil, ce dernier peut permettre aux députés concernés la participation en ligne, pour autant que le quorum visé à l’art. 159, al. 1, de la Constitution est atteint.
+
+<sup>2</sup> Un député ne peut participer en ligne à des débats de son conseil que si, en lien avec les évènements visés à l’al. 1, il ne peut y participer physiquement en raison de mesures prises par une autorité ou d’un cas de force majeure. Il en informe à temps le président du conseil.
+
+<sup>3</sup> Il dispose des mêmes droits que les députés présents physiquement, à l’exception de celui de participer aux élections et aux délibérations à huis clos selon l’art. 4, al. 2.
+
+<sup>4</sup> Les votes ne sont pas répétés si des députés n’ont pas pu, pour des raisons techniques, communiquer leur suffrage.
+
+<sup>5</sup> Le nom des députés participant en ligne aux séances est communiqué au conseil et au public.
+
+[^10a-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session) ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nouvelle teneur selon le ch. I de la LF du 17 mars 2024(Amélioration du fonctionnement du Parlement, notamment en situation de crise), en vigueur depuis le 2 déc. 2024 ([RO 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [2024 675](https://fedlex.data.admin.ch/eli/oc/2024/675); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 10b
 

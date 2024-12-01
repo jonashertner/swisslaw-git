@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2024-10-01
+version: 2024-12-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241001/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241001-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241202/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241202-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dal 1. d’october 2024)
+dals 13 da december 2002 (versiun dals 2 da december 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -186,9 +186,19 @@ Ils parlamentaris èn obligads da sa participar a las sesidas da las chombras e 
 
 #### Art. 10a
 
-[^10a-1]
+**Participaziun virtuala a las sesida da las chombras**[^10a-1]
 
-[^10a-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Versiun tenor la cifra III 1 da la LF dals 17 da dec. 2021, en vigur dals 18 da dec. 2021 fin ils 31 da dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)), prolungà fin ils 30 da zer. 2024 tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+<sup>1</sup> En cas d’eveniments che pudessan impedir plirs parlamentaris da sa participar fisicamain a las sesidas da lur chombra, po la chombra permetter als parlamentaris pertutgads da sa participar virtualmain a las sesidas, uschenavant ch’il quorum tenor l’artitgel 159 alinea 1 da la Constituziun federala vegn cuntanschì.
+
+<sup>2</sup> In parlamentari po mo sa participar virtualmain a las sesidas da la chombra, sch’el è – en il rom dals eveniments tenor l’alinea 1 – impedì da sa participar fisicamain a las sesidas sin basa d’ina ordinaziun uffiziala u sin fundament d’in cas da forza superiura. El infurmescha a temp il president da la chombra.
+
+<sup>3</sup> Ils parlamentaris che sa participeschan virtualmain a las sesidas han ils medems dretgs sco ils parlamentaris che sa participeschan fisicamain; ina participaziun ad elecziuns ed a tractativas secretas tenor l’artitgel 4 alinea 2 è exclusa.
+
+<sup>4</sup> Votaziuns na vegnan betg repetidas, sch’in parlamentari n’ha, per motivs tecnics, betg pudì votar.
+
+<sup>5</sup> A la chombra ed a la publicitad vegni communitgà, tge parlamentaris che sa participeschan virtualmain a las sesidas.
+
+[^10a-1]: Integrà tras la cifra I da la LF dals 10 da dec. 2020 (COVID-19: participaziun a las votaziuns en il Cussegl naziunal; interrupziun u spustament da la sessiun) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503)[9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Versiun tenor la cifra I da la LF dals 17 da mars 2023 (meglieraziuns dal funcziunament dal Parlament, en spezial en situaziuns da crisa), en vigur dapi ils 2 da dec. 2024 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [2024 675](https://fedlex.data.admin.ch/eli/oc/2024/675); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 10b
 

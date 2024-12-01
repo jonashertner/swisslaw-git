@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2024-10-01
+version: 2024-12-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241001-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241202/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241202-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 1. Oktober 2024)
+vom 13. Dezember 2002 (Stand am 2. Dezember 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -182,9 +182,19 @@ Die Ratsmitglieder sind verpflichtet, an den Sitzungen der Räte und Kommissione
 
 #### Art. 10a
 
-[^10a-1]
+**Virtuelle Teilnahme an Ratssitzungen**[^10a-1]
 
-[^10a-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Fassung gemäss Ziff. III 1 des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)), verlängert bis zum 30. Juni 2024 durch Anhang Ziff. 1 des BG vom 16. Dez. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+<sup>1</sup> Ein Rat kann aufgrund von Ereignissen, welche mehreren Ratsmitgliedern die physische Teilnahme an Ratssitzungen verunmöglichen könnten, die virtuelle Teilnahme einzelner Ratsmitglieder an Ratssitzungen ermöglichen, solange das Quorum gemäss Artikel 159 Absatz 1 der Bundesverfassung erreicht wird.
+
+<sup>2</sup> Ein Ratsmitglied kann nur dann virtuell an den Ratssitzungen teilnehmen, wenn es im Rahmen der Ereignisse nach Absatz 1 aufgrund einer behördlichen Anordnung oder weil ein Fall höherer Gewalt vorliegt, an der physischen Teilnahme gehindert wird. Es informiert rechtzeitig die Ratspräsidentin oder den Ratspräsidenten.
+
+<sup>3</sup> Die virtuell teilnehmenden Ratsmitglieder haben die gleichen Rechte wie die physisch teilnehmenden Ratsmitglieder; die Teilnahme an Wahlen und geheimen Beratungen nach Artikel 4 Absatz 2 ist ausgeschlossen.
+
+<sup>4</sup> Abstimmungen werden nicht wiederholt, wenn Ratsmitglieder ihre Stimme aus technischen Gründen nicht abgeben konnten.
+
+<sup>5</sup> Der Rat und die Öffentlichkeit werden darüber informiert, welche Ratsmitglieder zu den Sitzungen virtuell zugeschaltet sind.
+
+[^10a-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserungen der Funktionsweise des Parlamentes, insbesondere in Krisensituationen), in Kraft seit 2. Dez. 2024 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [2024 675](https://fedlex.data.admin.ch/eli/oc/2024/675); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 10b
 

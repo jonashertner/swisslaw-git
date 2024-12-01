@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2024-10-01
+version: 2024-12-02
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241001/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241001-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241202/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241202-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241202/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 1 October 2024)
+of 13 December 2002 (Status as of 2 December 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -58,9 +58,9 @@ This Act regulates:
 One quarter of the members of a council or of the Federal Council may request that the councils or the United Federal Assembly be convened for an extraordinary session to deal with the following items of business:
 
 - a. drafts by the Federal Council or of a Federal Assembly committee of a Federal Assembly enactment;
-- b. identical motions that have been submitted in both chambers;
+- b. identical motions that have been submitted in both councils;
 - c. elections;
-- d. declarations by the Federal Council or identical drafts submitted in both chambers for declarations by the National Council and des Council of States.[^2-1]
+- d. declarations by the Federal Council or identical drafts submitted in both councils for declarations by the National Council and des Council of States.[^2-1]
 
 <sup>3bis</sup>
 
@@ -70,7 +70,7 @@ The extraordinary session shall be held immediately if:
 - b. the draft for an ordinance or for a simple federal decree under Article 173 paragraph 1 letter c of the Federal Constitution or for an urgent federal act under Article 165 of the Federal Constitution is pending;
 - c. the postponement or early termination of the session has been decided in accordance with Article 33*a*.[^2-2]
 
-<sup>4</sup> An ordinary or an extraordinary session is normally held in both chambers in the same calendar week.[^2-3]
+<sup>4</sup> An ordinary or an extraordinary session is normally held in both councils in the same calendar week.[^2-3]
 
 [^2-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^2-2]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -184,9 +184,19 @@ Assembly members are obliged to attend the meetings of the councils and committe
 
 #### Art. 10a
 
-[^10a-1]
+**Virtual attendance at council meetings**[^10a-1]
 
-[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Amended by No III 1 of the FA of 17 Dec. 2021, in force from 18 Dec. 2021 until 31 Dec. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)) extended until 30 June 2024 by Annex No 1 of the FA of 16 Dec. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
+<sup>1</sup> If events arise that could prevent several assembly members from physically attending council meetings, a council may permit individual assembly members to attend virtually, provided the quorum is reached in accordance with Article 159 paragraph 1 of the Federal Constitution.
+
+<sup>2</sup> An assembly member may attend council meetings virtually only if their physical attendance is prevented by an official order relating to the events set out in paragraph 1 or due to force majeure. The assembly member shall inform the Council President in good time.
+
+<sup>3</sup> Assembly members who attend virtually shall have the same rights as those who attend physically, with the exception that they are not permitted to participate in elections and meetings in camera (in accordance with Article 4 paragraph 2).
+
+<sup>4</sup> Votes shall not be held again if assembly members are unable to cast their votes on technical grounds.
+
+<sup>5</sup> The council and the public shall be informed as to which assembly members have attended meetings virtually.
+
+[^10a-1]: Inserted by No I of the FA of 10 Dec. 2020 (COVID-19: Voting in the National Council; Suspension or Postponement of the Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Amended by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 2 Dec. 2024 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483), [2024 675](https://fedlex.data.admin.ch/eli/oc/2024/675); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 10b
 
@@ -294,7 +304,7 @@ Assembly members may not be held legally accountable for statements they make in
 
 **Relative immunity**[^17-1]
 
-<sup>1</sup> Criminal proceedings may be brought against an assembly member for an offence that is directly related to his or her official position or activity only if authorised by the competent committees of both chambers. The regulations of each chamber shall designate the competent committee.
+<sup>1</sup> Criminal proceedings may be brought against an assembly member for an offence that is directly related to his or her official position or activity only if authorised by the competent committees of both councils. The regulations of each council shall designate the competent committee.
 
 <sup>2</sup> If it appears justified given the circumstances of the case, the competent committees may assign the prosecution and adjudication of an offence subject to cantonal jurisdiction to the prosecution authorities of the Confederation.
 
@@ -322,7 +332,7 @@ Assembly members may not be held legally accountable for statements they make in
 
 <sup>5</sup> The decision of the committees is final.
 
-<sup>6</sup> Once a committee has notified the assembly member concerned, it shall inform the public immediately. At the same time, it shall inform the members of both chambers in a written communication.
+<sup>6</sup> Once a committee has notified the assembly member concerned, it shall inform the public immediately. At the same time, it shall inform the members of both councils in a written communication.
 
 <sup>7</sup> If the accused assembly member is a member of one of the competent committees, he or she shall recuse him or herself.
 
@@ -341,7 +351,7 @@ The authorisation of the Presiding Colleges of the Councils is required for the 
 
 <sup>2</sup> Paragraph 1 also applies by analogy to those cases in which other inquiries or criminal investigation measures are required in respect of an assembly member for an initial clarification of the facts of the case or to secure evidence.
 
-<sup>3</sup> As soon as the measures authorised by Presiding Colleges of the Councils have been carried out, authorisation for prosecution must be obtained from the competent committees of both chambers in accordance with Article 17, unless proceedings have already been dropped.[^18-2]
+<sup>3</sup> As soon as the measures authorised by Presiding Colleges of the Councils have been carried out, authorisation for prosecution must be obtained from the competent committees of both councils in accordance with Article 17, unless proceedings have already been dropped.[^18-2]
 
 <sup>4</sup> Any arrest made without this authorisation is unlawful.[^18-3]
 
@@ -707,7 +717,7 @@ The Judiciary Committee is responsible for the preparation for the appointment a
 
 <sup>1</sup> Unless otherwise provided in this Act, the provisions of the internal regulations of the National Council apply by analogy to the procedure in the United Federal Assembly.
 
-<sup>2</sup> The tellers and the substitute tellers of the two chambers determine the results of elections and votes.
+<sup>2</sup> The tellers and the substitute tellers of the two councils determine the results of elections and votes.
 
 <sup>3</sup> If the business regulations of the National Council do not apply, the United Federal Assembly may draw up its own regulations.
 
@@ -729,11 +739,11 @@ The Judiciary Committee is responsible for the preparation for the appointment a
 
 <sup>1</sup> The members of the committees and their chairpersons (president and vice-president) shall be appointed by the office of the relevant council.
 
-<sup>2</sup> Unless otherwise provided by this Act, the chairpersons of joint committees of both chambers and of committees of the United Federal Assembly shall be elected by the Conference for Coordination. The president and the vice-president may not belong to the same council.
+<sup>2</sup> Unless otherwise provided by this Act, the chairpersons of joint committees of both councils and of committees of the United Federal Assembly shall be elected by the Conference for Coordination. The president and the vice-president may not belong to the same council.
 
-<sup>2bis</sup> The Conference for Coordination ensures that die Presidents of the Control Committees of both chambers do not belong to the same parliamentary group.[^43-1]
+<sup>2bis</sup> The Conference for Coordination ensures that die Presidents of the Control Committees of both councils do not belong to the same parliamentary group.[^43-1]
 
-<sup>3</sup> The composition of the committees and the allocation of seats among the committee chairpersons are determined by the strengths of the parliamentary groups in the relevant chamber. Wherever possible, appropriate account should be taken of the official languages and regions of the country.
+<sup>3</sup> The composition of the committees and the allocation of seats among the committee chairpersons are determined by the strengths of the parliamentary groups in the relevant council. Wherever possible, appropriate account should be taken of the official languages and regions of the country.
 
 <sup>4</sup> The term of office of the members of the standing committees is determined by the respective regulations of the councils.
 
@@ -813,7 +823,7 @@ The following persons may be connected virtually to a committee meeting taking p
 
 <sup>1</sup> The committees are governed by the procedural rules of their respective council, unless this Act or the respective regulations of the councils provide otherwise.
 
-<sup>2</sup> Resolutions of joint committees of both chambers require the agreement of the majority of the voting members from each council, unless this Act provides otherwise.
+<sup>2</sup> Resolutions of joint committees of both councils require the agreement of the majority of the voting members from each council, unless this Act provides otherwise.
 
 <sup>3</sup> Persons in the service of the Confederation must normally provide written documents and visual presentations for the committees in two official languages. External experts and representatives of cantons and interest groups shall be notified in the invitation to the committee meeting that they should, if possible, take account of committee being multilingual.[^46-1]
 
@@ -949,7 +959,7 @@ The Finance and Control Committees shall report to their respective council once
 
 **Composition and organisation**
 
-<sup>1</sup> The Drafting Committee (DrC) is a joint committee of both chambers.
+<sup>1</sup> The Drafting Committee (DrC) is a joint committee of both councils.
 
 <sup>2</sup> It consists of three sub-committees, corresponding to each of the official languages of the Confederation.
 
@@ -1003,7 +1013,7 @@ The organisation, duties and procedures of delegations that represent the Federa
 
 <sup>2</sup> Members who do not belong to a party or who belong to more than one party may, provided they share similar political views, form their own parliamentary groups.
 
-<sup>3</sup> A parliamentary group must consist of a minimum of five members from one of the two chambers.
+<sup>3</sup> A parliamentary group must consist of a minimum of five members from one of the two councils.
 
 <sup>4</sup> Each parliamentary group must notify the General Secretary of the Federal Assembly of its formation, its members, its chairperson and its secretary.
 
@@ -1011,7 +1021,7 @@ The organisation, duties and procedures of delegations that represent the Federa
 
 **Duties and rights**
 
-<sup>1</sup> Parliamentary groups conduct a preliminary discussion of the business to be submitted to the chambers.
+<sup>1</sup> Parliamentary groups conduct a preliminary discussion of the business to be submitted to the councils.
 
 <sup>2</sup> They have the right to submit parliamentary initiatives, parliamentary procedural requests, proposals and election nominations.
 
@@ -1141,13 +1151,13 @@ Business in the Federal Assembly includes in particular:
 
 <sup>2</sup> Popular initiatives and requests made by a canton for the guarantee of its constitution shall become pending in the Assembly on their submission to the Federal Chancellery.
 
-<sup>3</sup> Other business shall become pending in both chambers of the Federal Assembly on its submission to the Assembly.
+<sup>3</sup> Other business shall become pending in both councils of the Federal Assembly on its submission to the Assembly.
 
 #### Art. 73
 
 **Withdrawal of business**
 
-<sup>1</sup> Business may be withdrawn by its originator at any time before either chamber has taken a decision thereon for the first time.
+<sup>1</sup> Business may be withdrawn by its originator at any time before either council has taken a decision thereon for the first time.
 
 <sup>2</sup> A parliamentary initiative or a cantonal initiative may no longer be withdrawn after it has been endorsed by a committee entrusted with its preliminary examination.
 
@@ -1163,9 +1173,9 @@ Business in the Federal Assembly includes in particular:
 
 <sup>3</sup> Introduction shall be mandatory in the case of popular initiatives, budgets, annual reports, accounts, objections to treaties between cantons or between cantons and foreign states, the guarantee of cantonal constitutions, and in relation to the legislature plan and the financial plan.[^74-1]
 
-<sup>4</sup> After the conclusion of the first detailed consideration, a vote is taken in each chamber on the text in its entirety. If approval of introduction is mandatory, no vote is taken on the text in its entirety other than in the case of budgets and accounts.
+<sup>4</sup> After the conclusion of the first detailed consideration, a vote is taken in each council on the text in its entirety. If approval of introduction is mandatory, no vote is taken on the text in its entirety other than in the case of budgets and accounts.
 
-<sup>5</sup> If a bill is rejected by a chamber in the vote on the entire text, this is equivalent to non-approval of introduction. The rejection of a budget or of accounts in the vote on the entire text is equivalent to a referral back to the Federal Council.
+<sup>5</sup> If a bill is rejected by a council in the vote on the entire text, this is equivalent to non-approval of introduction. The rejection of a budget or of accounts in the vote on the entire text is equivalent to a referral back to the Federal Council.
 
 <sup>6</sup> If a bill is approved for introduction, it may be abandoned at the request of the committee responsible for the preliminary examination or the Federal Council if it has become unnecessary.[^74-2]
 
@@ -1197,7 +1207,7 @@ A bill may only be submitted with a proposal if thereby:
 
 <sup>2</sup> Proposals that relate to procedure (points of order) must normally be dealt with immediately.
 
-<sup>3</sup> A reconsideration of any decision made may be requested by means of a point of order until a chamber has concluded its deliberations on an item of business.[^76-2]
+<sup>3</sup> A reconsideration of any decision made may be requested by means of a point of order until a council has concluded its deliberations on an item of business.[^76-2]
 
 <sup>3bis</sup> A point of order requesting the reconsideration of a decision on introduction is not permitted.[^76-3]
 
@@ -1240,7 +1250,7 @@ The number of votes is always counted in the case of:
 
 - a. votes on entire bills;
 - b. votes on a compromise motion;
-- c. votes on provisions requiring the agreement of a majority of the members of each of the two parliamentary chambers (Art. 159 para. 3 Cst.);
+- c. votes on provisions requiring the agreement of a majority of the members of each of the two parliamentary councils (Art. 159 para. 3 Cst.);
 - d. final votes.[^78-1]
 
 [^78-1]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
@@ -1279,11 +1289,11 @@ A final vote shall be held on:
 - b. an ordinance of the Federal Assembly;
 - c. a federal decree that is subject to a mandatory or an optional referendum.[^81-1]
 
-<sup>1bis</sup> The final vote shall be held as soon as the chambers have reached unanimous decisions on the bill and have approved the wording revised by the Drafting Committee. The two chambers shall hold the final vote on the same day.[^81-2]
+<sup>1bis</sup> The final vote shall be held as soon as the councils have reached unanimous decisions on the bill and have approved the wording revised by the Drafting Committee. The two councils shall hold the final vote on the same day.[^81-2]
 
-<sup>2</sup> If both chambers approve the bill then the enactment has been passed by the Federal Assembly.
+<sup>2</sup> If both councils approve the bill then the enactment has been passed by the Federal Assembly.
 
-<sup>3</sup> If one or both chambers reject the bill then the enactment is not passed.
+<sup>3</sup> If one or both councils reject the bill then the enactment is not passed.
 
 [^81-1]: Amended by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
 [^81-2]: Inserted by No I of the FA of 15 June 2018, in force since 26 Nov. 2018 ([AS 2018 3461](https://fedlex.data.admin.ch/eli/oc/2018/562); [BBl 2017 6797](https://fedlex.data.admin.ch/eli/fga/2017/1995), [6865](https://fedlex.data.admin.ch/eli/fga/2017/1999)).
@@ -1294,45 +1304,45 @@ A final vote shall be held on:
 
 The Standing Orders of the Councils shall determine the cases in which the result of the vote is published in the form of a list of members’ names with the votes they cast.
 
-### Chapter 2 Procedure between the Chambers
+### Chapter 2 Procedure between the Councils
 
-### Section 1 Cooperation between the Chambers
+### Section 1 Cooperation between the Councils
 
 #### Art. 83
 
-**Joint decrees of the chambers**
+**Joint decrees of the councils**
 
-<sup>1</sup> Federal Assembly decrees require the agreement of both chambers.
+<sup>1</sup> Federal Assembly decrees require the agreement of both councils.
 
 <sup>2</sup> A joint decree is not required in respect of petitions and reports that are submitted for information purposes.
 
 #### Art. 84
 
-**Designation of the first chamber**
+**Designation of the first council**
 
-<sup>1</sup> Business that must be dealt with separately by the two chambers shall be allocated to one of the Chambers for prior consideration (the first chamber).
+<sup>1</sup> Business that must be dealt with separately by the two councils shall be allocated to one of the Councils for prior consideration (the first council).
 
-<sup>2</sup> The presidents of the chambers shall decide on the allocation of business. If they are unable to reach an agreement, the matter shall be decided by drawing lots.
+<sup>2</sup> The presidents of the councils shall decide on the allocation of business. If they are unable to reach an agreement, the matter shall be decided by drawing lots.
 
 #### Art. 85
 
-**Schedule for dealing with business in the chambers**
+**Schedule for dealing with business in the councils**
 
-<sup>1</sup> Draft amendments to the Constitution and non-urgent federal acts are not normally considered for the first time by both chambers in the same session.
+<sup>1</sup> Draft amendments to the Constitution and non-urgent federal acts are not normally considered for the first time by both councils in the same session.
 
-<sup>2</sup> The Conference for Coordination may in response to an application by the Federal Council or a committee decide that an item of business in accordance with paragraph 1 will by way of exception be considered by both chambers for the first time in the same session.
+<sup>2</sup> The Conference for Coordination may in response to an application by the Federal Council or a committee decide that an item of business in accordance with paragraph 1 will by way of exception be considered by both councils for the first time in the same session.
 
 #### Art. 86
 
-**Passing business on to the other chamber**
+**Passing business on to the other council**
 
-<sup>1</sup> Business that must be considered by both chambers and which has been voted on by one chamber must then be passed on to the other chamber for consideration.
+<sup>1</sup> Business that must be considered by both councils and which has been voted on by one council must then be passed on to the other council for consideration.
 
-<sup>2</sup> The first chamber may consider the matter again only after the other chamber has voted on it.
+<sup>2</sup> The first council may consider the matter again only after the other council has voted on it.
 
-<sup>3</sup> Where the drafts of more than one bill are submitted to the Federal Assembly accompanied by the same Federal Council dispatch or a report, these bills may be passed on individually to the other chamber after the first chamber has voted on them all.
+<sup>3</sup> Where the drafts of more than one bill are submitted to the Federal Assembly accompanied by the same Federal Council dispatch or a report, these bills may be passed on individually to the other council after the first council has voted on them all.
 
-<sup>4</sup> A federal decree on the counter proposal to a popular initiative must be passed on to the other chamber with the federal decree on the related popular initiative.[^86-1]
+<sup>4</sup> A federal decree on the counter proposal to a popular initiative must be passed on to the other council with the federal decree on the related popular initiative.[^86-1]
 
 [^86-1]: Inserted by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
@@ -1340,39 +1350,39 @@ The Standing Orders of the Councils shall determine the cases in which the resul
 
 **Referral to the Federal Council and adjournment of the procedure**
 
-<sup>1</sup> If one chamber refers an item of business in its entirety back to the Federal Council, it must give notice of its decision to the other chamber.
+<sup>1</sup> If one council refers an item of business in its entirety back to the Federal Council, it must give notice of its decision to the other council.
 
-<sup>2</sup> If the other chamber does not agree with the decision to refer the matter back, the referral will still take effect provided the first chamber confirms its initial decision.
+<sup>2</sup> If the other council does not agree with the decision to refer the matter back, the referral will still take effect provided the first council confirms its initial decision.
 
-<sup>3</sup> The same procedure also applies to the decision of a chamber to adjourn the discussion of an item of business for a period that is expected to exceed one year (suspension of business).
+<sup>3</sup> The same procedure also applies to the decision of a council to adjourn the discussion of an item of business for a period that is expected to exceed one year (suspension of business).
 
 #### Art. 88
 
 **Sharing the discussion of a bill**
 
-<sup>1</sup> By way of exception, a large bill may be divided up by joint decision of both chambers and may be passed on to the other chamber in parts before the bill has been voted on in its entirety.
+<sup>1</sup> By way of exception, a large bill may be divided up by joint decision of both councils and may be passed on to the other council in parts before the bill has been voted on in its entirety.
 
-<sup>2</sup> Prior to a vote being taken on the bill in its entirety, the members of either chamber may move that any provision of the entire bill be reconsidered.
+<sup>2</sup> Prior to a vote being taken on the bill in its entirety, the members of either council may move that any provision of the entire bill be reconsidered.
 
-<sup>3</sup> Where either of the two chambers rejects the proposal to divide the bill and if the chamber that has rejected the division confirms its decision, the bill is passed on to the other chamber only after a vote has been taken on the bill in its entirety.
+<sup>3</sup> Where either of the two councils rejects the proposal to divide the bill and if the council that has rejected the division confirms its decision, the bill is passed on to the other council only after a vote has been taken on the bill in its entirety.
 
-### Section 2 Resolution of Differences between the Chambers
+### Section 2 Resolution of Differences between the Councils
 
 #### Art. 89
 
 **Procedure in the event of differences**
 
-<sup>1</sup> Where, following consideration of a bill, there are differences between the chambers, the divergent decisions of each chamber shall be referred to the other chamber for consideration, until agreement is reached between the two chambers.
+<sup>1</sup> Where, following consideration of a bill, there are differences between the councils, the divergent decisions of each council shall be referred to the other council for consideration, until agreement is reached between the two councils.
 
-<sup>2</sup> Following the initial consideration in each chamber, any further consideration shall be limited exclusively to the issues on which no agreement has been reached.
+<sup>2</sup> Following the initial consideration in each council, any further consideration shall be limited exclusively to the issues on which no agreement has been reached.
 
-<sup>3</sup> A chamber may reconsider any other issue only if this becomes necessary as a result of decisions taken in the intervening period or if the preliminary consultation committees of both chambers move jointly for the issue to be reconsidered.
+<sup>3</sup> A council may reconsider any other issue only if this becomes necessary as a result of decisions taken in the intervening period or if the preliminary consultation committees of both councils move jointly for the issue to be reconsidered.
 
 #### Art. 90
 
 **Abandonment of a bill**[^90-1]
 
-The chambers may in response to a joint motion from their respective preliminary consultation committees abandon a bill during or on completion of the procedure for the resolution of differences.
+The councils may in response to a joint motion from their respective preliminary consultation committees abandon a bill during or on completion of the procedure for the resolution of differences.
 
 [^90-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
@@ -1380,11 +1390,11 @@ The chambers may in response to a joint motion from their respective preliminary
 
 **Appointment of a conciliation committee**
 
-<sup>1</sup> If there are still differences following three detailed discussions in each chamber, a conciliation committee shall be appointed. This committee is responsible for seeking a compromise solution.
+<sup>1</sup> If there are still differences following three detailed discussions in each council, a conciliation committee shall be appointed. This committee is responsible for seeking a compromise solution.
 
-<sup>2</sup> The preliminary consultation committees shall each contribute 13 members to the conciliation committee. If the preliminary consultation committee of a chamber comprises fewer than 13 members, additional members must be added to reach this number. The composition of the delegations from each committee is governed by Article 43 paragraph 3.
+<sup>2</sup> The preliminary consultation committees shall each contribute 13 members to the conciliation committee. If the preliminary consultation committee of a council comprises fewer than 13 members, additional members must be added to reach this number. The composition of the delegations from each committee is governed by Article 43 paragraph 3.
 
-<sup>3</sup> The committee president of the first chamber shall chair the conciliation committee. The president's deputy and the members of the conciliation committee are appointed in accordance with the relevant provisions of the Standing Orders.[^91-1]
+<sup>3</sup> The committee president of the first council shall chair the conciliation committee. The president's deputy and the members of the conciliation committee are appointed in accordance with the relevant provisions of the Standing Orders.[^91-1]
 
 [^91-1]: Second sentence inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
@@ -1400,11 +1410,11 @@ The chambers may in response to a joint motion from their respective preliminary
 
 #### Art. 93
 
-**Procedure for dealing with the compromise motion in the chambers**
+**Procedure for dealing with the compromise motion in the councils**
 
-<sup>1</sup> The compromise motion shall be submitted first of all to the first chamber and, provided it votes in favour of the motion in its entirety, it shall then be submitted to the other chamber.
+<sup>1</sup> The compromise motion shall be submitted first of all to the first council and, provided it votes in favour of the motion in its entirety, it shall then be submitted to the other council.
 
-<sup>2</sup> If the compromise motion is rejected by either of the chambers, the bill must be abandoned.
+<sup>2</sup> If the compromise motion is rejected by either of the councils, the bill must be abandoned.
 
 #### Art. 94
 
@@ -1416,7 +1426,7 @@ Where a compromise motion on a Federal Decree on the Federal Budget or a supplem
 
 **Settlement of differences relating to the legislature plan, the financial plan, and the financial framework in the budget[^94a-2]**[^94a-1]
 
-<sup>1</sup> If the federal decree on the legislature plan is the subject of differences between the chambers following the first reading of the bill, the conciliation committee shall be appointed.
+<sup>1</sup> If the federal decree on the legislature plan is the subject of differences between the councils following the first reading of the bill, the conciliation committee shall be appointed.
 
 <sup>2</sup> In the case of the federal decrees on the legislature plan, the financial plan and the financial framework in the budget, the conciliation committee shall propose a compromise motion in respect of each difference.[^94a-3] A separate vote is held on each motion.[^94a-4]
 
@@ -1431,7 +1441,7 @@ Where a compromise motion on a Federal Decree on the Federal Budget or a supplem
 
 **Settlement of differences in special cases**
 
-If the divergent decisions of the two chambers relate to an entire item of business, the second rejection by either chamber is final. The foregoing applies in particular to:
+If the divergent decisions of the two councils relate to an entire item of business, the second rejection by either council is final. The foregoing applies in particular to:
 
 - a. the introduction of bill;
 - b. the acceptance of a bill in the vote on the bill in its entirety;
@@ -1483,7 +1493,7 @@ The Federal Council shall submit to the Federal Assembly:
 
 <sup>1</sup> The Federal Assembly shall declare a popular initiative wholly or partly invalid if it holds that the requirements of Article 139 paragraph 3 of the Federal Constitution have not been fulfilled.
 
-<sup>2</sup> If the decisions of the two chambers in relation to the validity of the popular initiative or of parts thereof diverge from each other and the chamber that has approved the validity of the initiative confirms its decision, the popular initiative or, depending on the case, its disputed part, shall be held to be valid.
+<sup>2</sup> If the decisions of the two councils in relation to the validity of the popular initiative or of parts thereof diverge from each other and the council that has approved the validity of the initiative confirms its decision, the popular initiative or, depending on the case, its disputed part, shall be held to be valid.
 
 <sup>3</sup> If the compromise motion on the voting recommendation is rejected, in derogation from Article 93 para. 2 only the provision concerned shall be deleted.[^98-1]
 
@@ -1513,9 +1523,9 @@ The Federal Assembly shall decide within 30 months of the submission of a popula
 
 <sup>1</sup> The Federal Assembly may submit its own counter-proposal on the same constitutional issue to the vote of the people and the Cantons at the same time as the popular initiative.
 
-<sup>2</sup> The federal decree on the counter-proposal of the Federal Assembly shall be debated in each chamber prior to the Assembly deciding on the voting recommendation in the federal decree on the popular initiative.
+<sup>2</sup> The federal decree on the counter-proposal of the Federal Assembly shall be debated in each council prior to the Assembly deciding on the voting recommendation in the federal decree on the popular initiative.
 
-<sup>3</sup> The final vote on the federal decree on the counter-proposal shall take place no more than eight days before the end of the session which precedes the expiry of the deadline for dealing with the popular initiative. If the federal decree is rejected by either chamber in the final vote, the conciliation committee shall submit a proposal on the voting recommendation in the federal decree on the popular initiative. A counter-proposal may no longer be put forward.
+<sup>3</sup> The final vote on the federal decree on the counter-proposal shall take place no more than eight days before the end of the session which precedes the expiry of the deadline for dealing with the popular initiative. If the federal decree is rejected by either council in the final vote, the conciliation committee shall submit a proposal on the voting recommendation in the federal decree on the popular initiative. A counter-proposal may no longer be put forward.
 
 [^101-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
@@ -1552,7 +1562,7 @@ Where the Federal Assembly submits a counter proposal in addition to the popular
 
 <sup>2</sup> The draft prepared by the Federal Assembly shall correspond strictly to the content and objectives of the popular initiative.
 
-<sup>3</sup> Where the chambers are unable to agree on the draft of the partial revision or if the draft is rejected by one or both chambers, the decisions of the chambers from the most recent discussion shall be submitted to the vote of the people as alternatives.
+<sup>3</sup> Where the councils are unable to agree on the draft of the partial revision or if the draft is rejected by one or both councils, the decisions of the councils from the most recent discussion shall be submitted to the vote of the people as alternatives.
 
 ### d. Extension and Expiry of Deadlines
 
@@ -1560,11 +1570,11 @@ Where the Federal Assembly submits a counter proposal in addition to the popular
 
 **Extension of deadline**
 
-<sup>1</sup> If one chamber reaches a decision on a counter-proposal or on a bill closely related to a popular initiative, the Federal Assembly may extend the deadline for dealing with the matter by one year.
+<sup>1</sup> If one council reaches a decision on a counter-proposal or on a bill closely related to a popular initiative, the Federal Assembly may extend the deadline for dealing with the matter by one year.
 
 <sup>1bis</sup> ...[^105-1]
 
-<sup>2</sup> If the chambers are unable to agree on an extension of deadline, no extension shall be granted.
+<sup>2</sup> If the councils are unable to agree on an extension of deadline, no extension shall be granted.
 
 [^105-1]: Inserted by No II of the FA of 25 Sept. 2009 (Conditional Withdrawal of a Popular Initiative) ([AS 2010 271](https://fedlex.data.admin.ch/eli/oc/2010/35); [BBl 2009 3591](https://fedlex.data.admin.ch/eli/fga/2009/699), [3609](https://fedlex.data.admin.ch/eli/fga/2009/701)). Repealed by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), with effect from 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
@@ -1572,7 +1582,7 @@ Where the Federal Assembly submits a counter proposal in addition to the popular
 
 **Expiry of deadline**
 
-If the chambers are unable to reach a unanimous decision by the statutory deadline, the Federal Council shall order that a popular vote be held.
+If the councils are unable to reach a unanimous decision by the statutory deadline, the Federal Council shall order that a popular vote be held.
 
 ### Chapter 4 Procedure for Parliamentary Initiatives
 
@@ -1600,13 +1610,13 @@ The parliamentary initiative of a council member or of a parliamentary group sha
 
 <sup>1</sup> Parliamentary initiatives brought by a council member or a parliamentary group, together with proposals submitted to a committee for the preparation of an initiative by that committee shall be subject to a preliminary examination.
 
-<sup>2</sup> The relevant committee of the chamber to which the initiative has been submitted shall decide within one year of being assigned the initiative whether to endorse the initiative or whether to instruct its chamber not to endorse the initiative. If the chamber follows the instructions of the committee, the initiative is regarded as having been dealt with.[^109-1]
+<sup>2</sup> The relevant committee of the council to which the initiative has been submitted shall decide within one year of being assigned the initiative whether to endorse the initiative or whether to instruct its council not to endorse the initiative. If the council follows the instructions of the committee, the initiative is regarded as having been dealt with.[^109-1]
 
-<sup>3</sup> The decision to endorse an initiative or to have the committee prepare its own initiative requires the consent of the relevant committee of the other chamber. This committee shall invite the committee responsible for the initial consideration to appoint a delegation to present its decision. If the latter committee does not consent, the initiative is only endorsed if both chambers agree. If the second chamber does not agree, the initiative is irrevocably rejected.[^109-2]
+<sup>3</sup> The decision to endorse an initiative or to have the committee prepare its own initiative requires the consent of the relevant committee of the other council. This committee shall invite the committee responsible for the initial consideration to appoint a delegation to present its decision. If the latter committee does not consent, the initiative is only endorsed if both councils agree. If the second council does not agree, the initiative is irrevocably rejected.[^109-2]
 
-<sup>3bis</sup> The committee of the other chamber and, in the event of disagreement, the relevant committees of the chambers decide in accordance with paragraph 3 or submit their proposal to their chamber one year at the latest after the preceding committee or Council decision on the initiative.[^109-3]
+<sup>3bis</sup> The committee of the other council and, in the event of disagreement, the relevant committees of the councils decide in accordance with paragraph 3 or submit their proposal to their council one year at the latest after the preceding committee or Council decision on the initiative.[^109-3]
 
-<sup>4</sup> If the author of an initiative or the request for the preparation of an initiative is not a member of the committee, he or she may participate in the preliminary examination in an advisory capacity at the meetings of the committee of his or her chamber.[^109-4]
+<sup>4</sup> If the author of an initiative or the request for the preparation of an initiative is not a member of the committee, he or she may participate in the preliminary examination in an advisory capacity at the meetings of the committee of his or her council.[^109-4]
 
 <sup>5</sup> If the author of an initiative leaves the council and if no other assembly member takes up the initiative during the first week of the following session, the initiative shall be abandoned without a council decision unless the committee has already endorsed the initiative.[^109-5]
 
@@ -1638,9 +1648,9 @@ A parliamentary initiative shall in particular be judged appropriate if:
 
 **Preparation of a bill**
 
-<sup>1</sup> If an initiative is endorsed, the relevant committee of the chamber to which the initiative was submitted shall prepare a bill within two years.
+<sup>1</sup> If an initiative is endorsed, the relevant committee of the council to which the initiative was submitted shall prepare a bill within two years.
 
-<sup>2</sup> If the author of an initiative or the request for the preparation of an initiative is not a member of the committee, he or she may participate in the preliminary examination in an advisory capacity at the meetings of the committee of his or her chamber.[^111-1]
+<sup>2</sup> If the author of an initiative or the request for the preparation of an initiative is not a member of the committee, he or she may participate in the preliminary examination in an advisory capacity at the meetings of the committee of his or her council.[^111-1]
 
 <sup>3</sup> The report explaining the committee bill to the Federal Assembly shall fulfil the requirements for a Federal Council Dispatch (Art. 141).
 
@@ -1662,7 +1672,7 @@ A parliamentary initiative shall in particular be judged appropriate if:
 
 <sup>3bis</sup> In the case of a draft bill under Article 165 or Article 173 paragraph 1 letter c of the Federal Constitution, the deadline for the Federal Council's opinion may be set in such a way that it can be dealt with in the next ordinary or extraordinary session.[^112-4]
 
-<sup>4</sup> If the Federal Council requests any alteration, the committee shall discuss the opinion of the Federal Council before consideration of the bill in the first chamber.
+<sup>4</sup> If the Federal Council requests any alteration, the committee shall discuss the opinion of the Federal Council before consideration of the bill in the first council.
 
 [^112-1]: [SR 172.061](https://fedlex.data.admin.ch/eli/cc/2005/542)
 [^112-2]: Amended by Art. 12 No 1 of the Consultation Procedure Act of 18 March 2005, in force since 1 Sept. 2005 ([AS 2005 4099](https://fedlex.data.admin.ch/eli/oc/2005/542); [BBl 2004 533](https://fedlex.data.admin.ch/eli/fga/2004/127)).
@@ -1686,11 +1696,11 @@ The committee may request the council to abandon the initiative if:
 
 **Debate on the bill in the Assembly**
 
-<sup>1</sup> If the council approves its committee's bill in the vote on the bill in its entirety, the initiative is submitted to the other chamber and is further considered in accordance with the ordinary procedure for bills.[^114-1]
+<sup>1</sup> If the council approves its committee's bill in the vote on the bill in its entirety, the initiative is submitted to the other council and is further considered in accordance with the ordinary procedure for bills.[^114-1]
 
 <sup>1bis</sup> If the council does not approve the introduction of its committee's bill or rejects it in the vote on the bill in its entirety, the initiative is regarded as having been dealt with.[^114-2]
 
-<sup>2</sup> In the committee of the second chamber, the draft from the first chamber is presented by a member of the committee that prepared it.
+<sup>2</sup> In the committee of the second council, the draft from the first council is presented by a member of the committee that prepared it.
 
 [^114-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^114-2]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
@@ -1715,11 +1725,11 @@ The committee may request the council to abandon the initiative if:
 
 <sup>2</sup> For the preliminary examination, Article 110 applies by analogy.
 
-<sup>3</sup> The decision to endorse an initiative requires the agreement of the committees responsible in both chambers. If one committee does not agree, the council shall decide. If the council does not agree, the initiative shall go to the other chamber. The second rejection by a council is final.
+<sup>3</sup> The decision to endorse an initiative requires the agreement of the committees responsible in both councils. If one committee does not agree, the council shall decide. If the council does not agree, the initiative shall go to the other council. The second rejection by a council is final.
 
 <sup>3bis</sup> The committees are subject to the time limits in Article 109 paragraphs 2 and 3<sup>bis</sup>.[^116-1]
 
-<sup>4</sup> The committee of the first chamber shall hear a representative of the Canton at the preliminary examination.
+<sup>4</sup> The committee of the first council shall hear a representative of the Canton at the preliminary examination.
 
 [^116-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)). See also the transitional provision for this amendment at the end of this text.
 
@@ -1727,9 +1737,9 @@ The committee may request the council to abandon the initiative if:
 
 **Preparation of a bill**
 
-<sup>1</sup> If an initiative is endorsed, it shall be reallocated to one of the chambers for initial consideration in accordance with the procedure laid down in Article 84.
+<sup>1</sup> If an initiative is endorsed, it shall be reallocated to one of the councils for initial consideration in accordance with the procedure laid down in Article 84.
 
-<sup>2</sup> For the further procedure, Articles 111–114 apply by analogy. The abandonment of an initiative requires the agreement of the other chamber. If the first chamber decides not to approve the draft of the committee, or if the draft is rejected when voted on in its entirety, this shall be regarded as equivalent to abandonment.
+<sup>2</sup> For the further procedure, Articles 111–114 apply by analogy. The abandonment of an initiative requires the agreement of the other council. If the first council decides not to approve the draft of the committee, or if the draft is rejected when voted on in its entirety, this shall be regarded as equivalent to abandonment.
 
 ### Chapter 6 Procedure for Procedural Requests
 
@@ -1756,7 +1766,7 @@ Parliamentary procedural requests are:
 
 <sup>4bis</sup> They shall be addressed to the Supervisory Authority for the Office of the Attorney General of Switzerland if they relate to the management or budget of the Office of the Attorney General of Switzerland or its Supervisory Authority; motions are excluded.[^118-1]
 
-<sup>5</sup> In the case of procedural requests made to the offices of the chambers and to the federal courts, Articles 120–125 apply by analogy.[^118-2]
+<sup>5</sup> In the case of procedural requests made to the offices of the councils and to the federal courts, Articles 120–125 apply by analogy.[^118-2]
 
 [^118-1]: Inserted by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^118-2]: The correction by the Federal Assembly Drafting Committee of 15 Feb. 2018, published 27 Feb. 2018, relates to the French text only ([AS 2018 935](https://fedlex.data.admin.ch/eli/oc/2018/126)).
@@ -1809,31 +1819,31 @@ A procedural request made by a council member or a parliamentary group shall be 
 
 <sup>1ter</sup> Committee motions that request the Federal Council to enact or amend an ordinance based on Article 184 paragraph 3 or Article 185 paragraph 3 of the Federal Constitution or on a statutory authorisation to deal with a crisis in accordance with Annex 2 shall be placed on the agenda of the next or current ordinary or extraordinary session. The Federal Council shall submit its proposal in writing or orally.[^121-3]
 
-<sup>2</sup> If one chamber rejects a motion, the motion is regarded as having been dealt with. If the chamber to which the motion has been submitted approves the same, the motion goes to the other chamber.
+<sup>2</sup> If one council rejects a motion, the motion is regarded as having been dealt with. If the council to which the motion has been submitted approves the same, the motion goes to the other council.
 
 <sup>3</sup>
 
-A motion accepted by the first chamber may in the second chamber be:
+A motion accepted by the first council may in the second council be:
 
 - a. irrevocably accepted or rejected;
 - b. amended on the proposal of the majority of the committee responsible for the preliminary examination or on the proposal of the Federal Council.
 
 <sup>4</sup>
 
-If the second chamber makes an amendment, the first chamber may in the second consideration:
+If the second council makes an amendment, the first council may in the second consideration:
 
 - a. agree to the amendment;
 - b. stand by its decision to accept the motion in its original form; or
 - c. irrevocably reject the motion.[^121-4]
 
-<sup>4bis</sup> If the first chamber in the second consideration stands by its decision to accept the motion in its original form, the second chamber may agree to this decision or irrevocably reject the motion.[^121-5]
+<sup>4bis</sup> If the first council in the second consideration stands by its decision to accept the motion in its original form, the second council may agree to this decision or irrevocably reject the motion.[^121-5]
 
 <sup>5</sup>
 
-A motion accepted by the first chamber without the agreement of the second chamber shall be irrevocably accepted if:
+A motion accepted by the first council without the agreement of the second council shall be irrevocably accepted if:
 
-- a. it relates to organisational or procedural issues of the chamber to which it has been submitted; or
-- b. it is a committee motion and an identical committee motion is accepted in the other chamber.
+- a. it relates to organisational or procedural issues of the council to which it has been submitted; or
+- b. it is a committee motion and an identical committee motion is accepted in the other council.
 
 [^121-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 [^121-2]: Inserted by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -1856,7 +1866,7 @@ The Federal Council shall report immediately if:
 
 <sup>1ter</sup> The Federal Council's report shall be forwarded to the relevant committees.[^122-4]
 
-<sup>2</sup> A committee or the Federal Council shall request that a motion be closed if its mandate has been fulfilled. The request shall be addressed to both chambers unless the motion relates to issues of the organisation or procedure of a specific chamber.
+<sup>2</sup> A committee or the Federal Council shall request that a motion be closed if its mandate has been fulfilled. The request shall be addressed to both councils unless the motion relates to issues of the organisation or procedure of a specific council.
 
 <sup>3</sup>
 
@@ -1865,11 +1875,11 @@ A request for a motion to be closed may also be made if the mandate has not been
 - a. with a special report on the motion to be closed; or
 - b. in a dispatch on a Federal Assembly bill on subject matter connected with the motion.
 
-<sup>4</sup> If the decisions of the two chambers on the request to close a motion do not correspond, the procedure for the settlement of differences in Article 95 applies.
+<sup>4</sup> If the decisions of the two councils on the request to close a motion do not correspond, the procedure for the settlement of differences in Article 95 applies.
 
-<sup>5</sup> If a request to close a motion is rejected by both chambers, the Federal Council must fulfil the mandate contained in the motion within one year or within the period fixed by the two chambers on rejecting the request.
+<sup>5</sup> If a request to close a motion is rejected by both councils, the Federal Council must fulfil the mandate contained in the motion within one year or within the period fixed by the two councils on rejecting the request.
 
-<sup>6</sup> If the Federal Council fails to comply with the period fixed, a decision on extending the period allowed or on closing the motion shall be taken in the next ordinary session in both chambers at the request of the committees responsible.
+<sup>6</sup> If the Federal Council fails to comply with the period fixed, a decision on extending the period allowed or on closing the motion shall be taken in the next ordinary session in both councils at the request of the committees responsible.
 
 [^122-1]: Amended by No I of the FA of 5 Oct. 2007 (Binding effect of the motion), in force since 26 May 2008 ([AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198), [2149](https://fedlex.data.admin.ch/eli/fga/2007/329)). See also the transitional provision for this amendment at the end of this text.
 [^122-2]: Amended by No I of the FA of 17 March 2023 (Improvements in the Organisation and Procedures of Parliament, Especially in Crisis Situations), in force since 4 Dec. 2023 ([AS 2023 483](https://fedlex.data.admin.ch/eli/oc/2023/483); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
@@ -1890,13 +1900,13 @@ A postulate mandates the Federal Council to examine and report on whether to sub
 
 <sup>1</sup> The Federal Council shall normally propose the acceptance or rejection of postulates before the start of the next session. When a committee postulate is submitted less than a month before the start of the next ordinary session, it shall submit its proposal by the start of the session following the next session.[^124-1]
 
-<sup>2</sup> The postulate shall be accepted if either chamber approves it.
+<sup>2</sup> The postulate shall be accepted if either council approves it.
 
 <sup>3</sup> The Federal Council fulfils the terms of a postulate by stating its views thereon in a separate report, or in the annual report or in a dispatch to a bill of the Federal Assembly.
 
 <sup>4</sup> If a postulate is still pending after two years, the Federal Council shall report to the Federal Assembly each year on what it has done in relation thereto and on how it intends to fulfil its mandate. This report is submitted to the committees responsible.
 
-<sup>5</sup> A committee or the Federal Council may request that a postulate be closed if it has been fulfilled or if continuing with the postulate cannot be justified. The chamber that has approved the postulate must consent to it being closed.
+<sup>5</sup> A committee or the Federal Council may request that a postulate be closed if it has been fulfilled or if continuing with the postulate cannot be justified. The council that has approved the postulate must consent to it being closed.
 
 [^124-1]: Amended by No I of the FA of 3 Oct. 2008, in force since 2 March 2009 ([AS 2009 725](https://fedlex.data.admin.ch/eli/oc/2009/124); [BBl 2008 1869](https://fedlex.data.admin.ch/eli/fga/2008/423), [3177](https://fedlex.data.admin.ch/eli/fga/2008/677)).
 
@@ -1926,7 +1936,7 @@ A postulate mandates the Federal Council to examine and report on whether to sub
 
 **General Provisions**[^126-1]
 
-<sup>1</sup> The responsible committee in each chamber shall decide whether to endorse a petition or whether it shall request its chamber not to endorse the petition.
+<sup>1</sup> The responsible committee in each council shall decide whether to endorse a petition or whether it shall request its council not to endorse the petition.
 
 <sup>2</sup> If the subject of the petition can be presented in the form of a proposal relating to a matter pending for consideration, the committee shall report on the petition to the council when it is dealing with that business. The committee shall decide either to submit a proposal on the matter or dispense with a proposal. The petition shall be abandoned without a council decision as soon as the matter has been dealt with.
 
@@ -1934,7 +1944,7 @@ A postulate mandates the Federal Council to examine and report on whether to sub
 
 <sup>4</sup>
 
-The presidents of the committees responsible for the preliminary examination in each chamber may respond directly to a petition if:
+The presidents of the committees responsible for the preliminary examination in each council may respond directly to a petition if:
 
 - a. its aim cannot be achieved by a parliamentary initiative, a procedural request or a proposal;
 - b. its content is clearly absurd, querulous or offensive.
@@ -1985,7 +1995,7 @@ A submission on the conduct of business and on the financial policy of the Feder
 
 <sup>1</sup> If the Federal Council files an objection to a treaty between Cantons or between a Canton and a foreign state, it shall submit to the Federal Assembly the draft of a simple federal decree on the approval of the treaty.
 
-<sup>2</sup> If a Canton files an objection, the responsible committee of the first chamber shall submit to its chamber the draft of a simple federal decree on the approval of the treaty.
+<sup>2</sup> If a Canton files an objection, the responsible committee of the first council shall submit to its council the draft of a simple federal decree on the approval of the treaty.
 
 ## Title 6 Elections and Verification of Elections, and Declaration of Inability to Discharge the Duties of Office
 
@@ -2261,7 +2271,7 @@ The Federal Council shall submit to the Federal Assembly:
 
 **Procedure for the legislature plan**[^147-1]
 
-<sup>1</sup> The two chambers shall consider the legislature plan in two successive sessions.
+<sup>1</sup> The two councils shall consider the legislature plan in two successive sessions.
 
 <sup>2</sup>
 
@@ -2364,7 +2374,7 @@ The Federal Council shall consult the committees responsible before it:
 - a. provisionally applies an international treaty that must be concluded or approved by the Federal Assembly; or
 - b. urgently withdraws from an international treaty when any withdrawal should be approved by the Federal Assembly.[^152-2]
 
-<sup>3ter</sup> If the committees of both chambers are against provisional application or immediate withdrawal, the Federal Council shall refrain therefrom.[^152-3]
+<sup>3ter</sup> If the committees of both councils are against provisional application or immediate withdrawal, the Federal Council shall refrain therefrom.[^152-3]
 
 <sup>4</sup> In urgent cases, the Federal Council shall consult the presidents of the committees responsible for foreign policy. The presidents shall inform their committees without delay.
 
@@ -2546,7 +2556,7 @@ The following provisions on procedural relations between the Federal Assembly an
 
 **Duties and appointment**
 
-<sup>1</sup> The Federal Assembly may in its exercise of supervisory control, if events of importance require investigation, appoint a joint Parliamentary Investigation Committee (PInC) of both chambers for the purposes of investigating the circumstances or of obtaining additional information on which to base its assessment.
+<sup>1</sup> The Federal Assembly may in its exercise of supervisory control, if events of importance require investigation, appoint a joint Parliamentary Investigation Committee (PInC) of both councils for the purposes of investigating the circumstances or of obtaining additional information on which to base its assessment.
 
 <sup>2</sup> Appointment is by simple Federal Decree following consultation with the Federal Council. The decree shall determine the mandate of the investigation committee and the financial resources available to it.
 
@@ -2554,7 +2564,7 @@ The following provisions on procedural relations between the Federal Assembly an
 
 **Organisation**
 
-<sup>1</sup> The investigation committee shall comprise an equal number of members from each chamber.
+<sup>1</sup> The investigation committee shall comprise an equal number of members from each council.
 
 <sup>2</sup> For the election of the members and of the chairpersons and for the decision-making procedure, Article 43 paragraphs 1–3 and Article 92 paragraphs 1 and 2 apply respectively by analogy.
 
@@ -2608,7 +2618,7 @@ The following provisions on procedural relations between the Federal Assembly an
 
 <sup>4</sup> The investigation committee may permit a person concerned, at their request, to be accompanied by a lawyer for the entire proceedings or at individual meetings, if this is required for the protection of the lawful interests of the person concerned. The lawyer may only request further evidence and ask additional questions.
 
-<sup>5</sup> Following the conclusion of the investigation and prior to the submission of the report to the chambers, the persons against whom allegations have been made have the right to inspect the relevant sections of the draft report. They shall have the opportunity to express their views thereon within a reasonable period either verbally or in writing before the investigation committee.
+<sup>5</sup> Following the conclusion of the investigation and prior to the submission of the report to the councils, the persons against whom allegations have been made have the right to inspect the relevant sections of the draft report. They shall have the opportunity to express their views thereon within a reasonable period either verbally or in writing before the investigation committee.
 
 <sup>6</sup> Their verbal or written opinions must be summarised in the report.
 
@@ -2676,7 +2686,7 @@ Article 13 applies to infringements that are committed after this Act comes into
 
 ### Transitional provision relating to the 5th Title (Procedure in the Federal Assembly)
 
-The previous law also applies to business that is pending in either chamber on the date on which this Act comes into force.
+The previous law also applies to business that is pending in either council on the date on which this Act comes into force.
 
 ### Transitional provision relating to the 9th Title (Parliamentary Investigation Committee)
 
@@ -2731,7 +2741,7 @@ Commencement Date: 1 Dec. 2003[^174-4]
 
 [^u1-1]: [AS 2008 2113](https://fedlex.data.admin.ch/eli/oc/2008/303); [BBl 2007 1457](https://fedlex.data.admin.ch/eli/fga/2007/198), [2149](https://fedlex.data.admin.ch/eli/fga/2007/329)
 
-Article 122 applies in its new version of 5 October 2007 to motions that have not yet been adopted by both chambers at the time at which this amendment takes effect.
+Article 122 applies in its new version of 5 October 2007 to motions that have not yet been adopted by both councils at the time at which this amendment takes effect.
 
 ## Transitional Provision relating to the Amendment of 17 June 2011
 
