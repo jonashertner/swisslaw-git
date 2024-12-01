@@ -4,13 +4,13 @@ number: "730.115"
 title: Ausführungsbestimmungen zur Bau- und Planungsverordnung
 short: ABPV
 language: de
-version: 2024-07-18
-valid_until: 2024-12-01
-version_adopted: 2024-07-05
+version: 2024-12-02
+valid_until: 2026-02-10
+version_adopted: 2024-11-22
 adopted: 2018-03-29
 in_force: 2018-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6366/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6451/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsverordnung: Ausführungsbestimmungen | Hochbauten[^t-1]
 
 (ABPV)
 
-Vom 29. März 2018 (Stand 18. Juli 2024)
+Vom 29. März 2018 (Stand 2. Dezember 2024)
 
 Das Bau- und Gastgewerbeinspektorat des Kantons Basel-Stadt,
 
@@ -133,7 +133,8 @@ beschliesst:
 - k) Solaranlagen in der Industrie- und Gewerbezone (Zone 7);
 - l) aussen aufgestellte Wärmepumpen im Vorgarten, sofern sie gut in die Umgebung eingebettet sind und eine Abmessung von 100x160x70 cm nicht überschreiten;
 - m) kompakte Solaranlagen an Fassaden in den Zonen 4, 5, 5a und 6, von einer minimalen Grösse von 100 m² und einer minimalen Leistung von 12 kW Peak, die sich gut in die Fassadengestaltung integrieren;
-- n) aussen aufgestellte Wärmepumpen hinter der Baulinie, sofern sie gut in die Umgebung eingebettet sind und eine Abmessung von 2 m³ nicht überschreiten.
+- n) aussen aufgestellte Wärmepumpen hinter der Baulinie, sofern sie gut in die Umgebung eingebettet sind und eine Abmessung von 2 m³ nicht überschreiten;
+- o) liegende Dachflächenfenster in allen Zonen, sofern sie im Rahmen einer nur meldepflichtigen Solar- oder PV-Anlage realisiert werden.
 
 <sup>2</sup> Bei Vorhaben, die der Meldepflicht unterstehen, prüft das Bau- und Gastgewerbeinspektorat, ob die Voraussetzungen für ein Meldeverfahren vorliegen. Das Meldeverfahren wird abgeschlossen insbesondere mit der schriftlichen Mitteilung:
 
