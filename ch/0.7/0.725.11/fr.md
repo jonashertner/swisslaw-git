@@ -4,30 +4,26 @@ title: Accord européen du 15 novembre 1975 sur les grandes routes de trafic int
 short: AGR
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834"
 language: fr
-version: 2023-07-05
+version: 2024-12-03
 adopted: 1975-11-15
 in_force: 1988-11-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20230705/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20230705-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20230705/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20241203/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20241203-fr-xml-24.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20241203/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord européen sur les grandes routes de trafic international (AGR)
+# Accord européen sur les grandes routes de trafic international
 
 RO **1988** 1834; FF **1987** III 173
 
 Texte original
 
-Conclu à Genève le 15 novembre 1975
+(AGR)
 
-Approuvé par l’Assemblée fédérale le 1<sup>er</sup> mars 1988[^t-1]
+Conclu à Genève le 15 novembre 1975 Approuvé par l’Assemblée fédérale le 1<sup>er</sup> mars 1988[^t-1] Instrument de ratification déposé par la Suisse le 5 août 1988 Entré en vigueur pour la Suisse le 3 novembre 1988
 
-Instrument de ratification déposé par la Suisse le 5 août 1988
-
-Entré en vigueur pour la Suisse le 3 novembre 1988
-
-(État le 5 juillet 2023)
+(État le 3 décembre 2024)
 
 [^t-1]: [RO 1988 1833](https://fedlex.data.admin.ch/eli/oc/1988/1833_1833_1833)
 
@@ -45,7 +41,7 @@ sont convenues de ce qui suit:
 
 Les Parties contractantes adoptent le projet de réseau routier dénommé ci‑après «Réseau international ‹E›» et décrit à l’annexe I[^1-1] au présent Accord, à titre de plan coordonné de construction et d’aménagement de routes d’intérêt international qu’elles se proposent d’entreprendre dans le cadre de leurs programmes nationaux.
 
-[^1-1]: Les annexes ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Commission économique pour l’Europe des Nations Unies: www.unece.org/trans/main/sc1/sc1rep.html, ou obtenus à l’Office fédéral des routes, 3003 Berne ([RO 1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811), [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881), [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573), [2008 3969](https://fedlex.data.admin.ch/eli/oc/2008/536), [2010 3591](https://fedlex.data.admin.ch/eli/oc/2010/519), [2014 3607](https://fedlex.data.admin.ch/eli/oc/2014/624), [2018 543](https://fedlex.data.admin.ch/eli/oc/2018/66)).
+[^1-1]: Les annexes ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés sur le site Internet de la Commission économique pour l’Europe des Nations Unies: [*https://unece.org/DAM/trans/doc/2017/sc1/ECE-TRANS-SC1-2016-03-Rev1f.pdf*](https://unece.org/DAM/trans/doc/2017/sc1/ECE-TRANS-SC1-2016-03-Rev1f.pdf), [*https://unece.org/DAM/trans/doc/2016/sc1/ECE-TRANS-SC1-2016-03-Rev1e.pdf*](https://unece.org/DAM/trans/doc/2016/sc1/ECE-TRANS-SC1-2016-03-Rev1e.pdf), [*https://unece.org/sites/default/files/2024-02/ECE-TRANS-SC.1-420f.pdf*](https://unece.org/sites/default/files/2024-02/ECE-TRANS-SC.1-420f.pdf) (amendements), [*https://unece.org/sites/default/files/2023-11/ECE-TRANS-SC.1-420e.pdf*](https://unece.org/sites/default/files/2023-11/ECE-TRANS-SC.1-420e.pdf) (amendements), ou obtenus auprès de l’Office fédéral des routes, 3003 Berne ([RO 1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811); [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881); [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573); [2008 3969](https://fedlex.data.admin.ch/eli/oc/2008/536); [2010 3591](https://fedlex.data.admin.ch/eli/oc/2010/519); [2014 3607](https://fedlex.data.admin.ch/eli/oc/2014/624); [2018 543](https://fedlex.data.admin.ch/eli/oc/2018/66); [2024 585](https://fedlex.data.admin.ch/eli/oc/2024/585)).
 
 #### Art. 2
 
@@ -75,7 +71,9 @@ Les routes du réseau international «E» auquel se réfère l’article premier
 
 <sup>1.</sup> Le présent Accord sera ouvert jusqu’au 31 décembre 1976 à la signature des États qui sont soit membres de la Commission économique pour l’Europe des Nations Unies, soit admis à la Commission à titre consultatif conformément au paragraphe 8 du Mandat de cette Commission.
 
-<sup>2.</sup> Ces États pourront devenir parties au présent Accord par
+<sup>2.</sup>
+
+Ces États pourront devenir parties au présent Accord par:
 
 - a) signature sans réserve de ratification, acceptation ou approbation;
 - b) signature sous réserve de ratification, acceptation ou approbation, suivie de ratification, acceptation ou approbation, ou
@@ -170,7 +168,7 @@ Le présent Accord cessera d’être en vigueur si le nombre des Parties contrac
 
 Aucune disposition du présent Accord ne sera interprétée comme interdisant à une Partie contractante de prendre les mesures compatibles avec les dispositions de la Charte des Nations Unies[^14-1] et limitées aux exigences de la situation qu’elle estime nécessaires pour sa sécurité extérieure ou intérieure.
 
-[^14-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^14-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Déclaration relative à l’article 13 du présent Accord
 
@@ -210,7 +208,7 @@ Champ d’application le 5 juillet 2023[^t-2]
 <tr><td>Belgique</td><td>15 avril</td><td>1985 A</td><td>14 juillet</td><td>1985</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>1<sup>er</sup> septembre</td><td>1993 S</td><td>6 mars</td><td>1992</td></tr>
 <tr><td>Bulgarie</td><td>17 novembre</td><td>1977</td><td>15 mars</td><td>1983</td></tr>
-<tr><td>[tab] Croatie</td><td>2 février</td><td>1994 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Croatie</td><td>2 février</td><td>1994 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Danemark</td><td>2 novembre</td><td>1987 A</td><td>31 janvier</td><td>1988</td></tr>
 <tr><td>Finlande</td><td>19 novembre</td><td>1991 A</td><td>17 février</td><td>1992</td></tr>
 <tr><td>France</td><td>15 décembre</td><td>1982 A</td><td>15 mars</td><td>1983</td></tr>
@@ -219,10 +217,10 @@ Champ d’application le 5 juillet 2023[^t-2]
 <tr><td>Hongrie\*</td><td>1<sup>er</sup> septembre</td><td>1978 A</td><td>15 mars</td><td>1983</td></tr>
 <tr><td>Italie</td><td>2 juillet</td><td>1981 A</td><td>15 mars</td><td>1983</td></tr>
 <tr><td>Kazakhstan</td><td>17 juillet</td><td>1995 A</td><td>15 octobre</td><td>1995</td></tr>
-<tr><td>[tab] Lettonie</td><td>12 juin</td><td>1997 A</td><td>10 septembre</td><td>1997</td></tr>
+<tr><td>Lettonie</td><td>12 juin</td><td>1997 A</td><td>10 septembre</td><td>1997</td></tr>
 <tr><td>Lituanie</td><td>27 août</td><td>1993 A</td><td>25 novembre</td><td>1993</td></tr>
 <tr><td>Luxembourg</td><td>20 novembre</td><td>1981</td><td>15 mars</td><td>1983</td></tr>
-<tr><td>[tab] Macédoine du Nord</td><td>20 décembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>20 décembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Moldova</td><td>25 mai</td><td>2006 A</td><td>23 août</td><td>2006</td></tr>
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Norvège</td><td>14 septembre</td><td>1992 A</td><td>13 décembre</td><td>1992</td></tr>
@@ -240,7 +238,7 @@ Champ d’application le 5 juillet 2023[^t-2]
 <tr><td>Turkménistan</td><td>31 août</td><td>2020 A</td><td>29 novembre</td><td>2020</td></tr>
 <tr><td>Turquie</td><td>16 octobre</td><td>1992 A</td><td>14 janvier</td><td>1993</td></tr>
 <tr><td>Ukraine\*</td><td>29 décembre</td><td>1982 A</td><td>29 mars</td><td>1983</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/)ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
 [^t-2]: [RO 1988 1834](https://fedlex.data.admin.ch/eli/oc/1988/1834_1834_1834); [1991 2216](https://fedlex.data.admin.ch/eli/oc/1991/2216_2216_2216); [1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811); [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881); [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573); [2009 3205](https://fedlex.data.admin.ch/eli/oc/2009/414); [2023 372](https://fedlex.data.admin.ch/eli/oc/2023/372). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

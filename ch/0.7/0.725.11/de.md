@@ -4,11 +4,11 @@ title: Europäisches Übereinkommen vom 15. November 1975 über die Hauptstrasse
 short: AGR
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834"
 language: de
-version: 2023-07-05
+version: 2024-12-03
 adopted: 1975-11-15
 in_force: 1988-11-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20230705/de/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20230705-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20230705/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20241203/de/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20241203-de-xml-24.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20241203/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -21,7 +21,7 @@ AS **1988** 1834, BBl **1987** III 181
 
 Abgeschlossen in Genf am 15. November 1975 Von der Bundesversammlung genehmigt am 1. März 1988[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 5. August 1988 In Kraft getreten für die Schweiz am 3. November 1988
 
-(Stand am 5. Juli 2023)
+(Stand am 3. Dezember 2024)
 
 [^t-1]: [AS 1988 1833](https://fedlex.data.admin.ch/eli/oc/1988/1833_1833_1833)
 
@@ -37,7 +37,7 @@ haben folgendes vereinbart:
 
 Die Vertragsparteien billigen das vorgeschlagene Strassennetz, im folgenden als «internationales E‑Strassen‑Netz» bezeichnet und in Anlage I[^1-1] beschrieben, als koordinierten Plan für den Bau und Ausbau der Strassen von internationaler Bedeutung; sie beabsichtigen, diesen Plan im Rahmen ihrer nationalen Ausbauprogramme zu verwirklichen.
 
-[^1-1]: Die Anlagen werden in der AS nicht veröffentlicht ([AS 1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811), [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881), [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573), [2008 3969](https://fedlex.data.admin.ch/eli/oc/2008/536), [2010 3591](https://fedlex.data.admin.ch/eli/oc/2010/519), [2014 3607](https://fedlex.data.admin.ch/eli/oc/2014/624), [2018 543](https://fedlex.data.admin.ch/eli/oc/2018/66)). Die französischen und englischen Texte der Anlagen sind auf der Internetseite der United Nations Economic Commission for Europe: www.unece.org/trans/main/sc1/sc1rep.html zu finden oder können beim Bundesamt für Strassen, 3003 Bern bezogen werden.
+[^1-1]: AS **1992** 811; **1996** 881; **2004** 3983; **2008** 3969; **2010** 3591; **2014** 3607; **2018** 543; **2024** 585). Die Anlagen sowie die Änderungen der Anlagen werden in der Amtlichen Sammlung des Bundesrechts nicht veröffentlicht. Die französischen und englischen Texte der Anlagen sowie der Änderungen der Anlagen können auf der Internetseite der Wirtschaftskommission der Vereinten Nationen für Europa eingesehen werden: [*https://unece.org/DAM/trans/doc/2017/sc1/ECE-TRANS-SC1-2016-03-Rev1f.pdf*](https://unece.org/DAM/trans/doc/2017/sc1/ECE-TRANS-SC1-2016-03-Rev1f.pdf), [*https://unece.org/DAM/trans/doc/2016/sc1/ECE-TRANS-SC1-2016-03-Rev1e.pdf*](https://unece.org/DAM/trans/doc/2016/sc1/ECE-TRANS-SC1-2016-03-Rev1e.pdf), [*https://unece.org/sites/default/files/2024-02/ECE-TRANS-SC.1-420f.pdf*](https://unece.org/sites/default/files/2024-02/ECE-TRANS-SC.1-420f.pdf) (Änderungen), [*https://unece.org/sites/default/files/2023-11/ECE-TRANS-SC.1-420e.pdf*](https://unece.org/sites/default/files/2023-11/ECE-TRANS-SC.1-420e.pdf) (Änderungen), oder können beim Bundesamt für Strassen, 3003 Bern, bezogen werden. Es existieren keine deutschen und italienischen Übersetzungen.
 
 #### Art. 2
 
@@ -67,7 +67,9 @@ Die Strassen des internationalen E‑Strassen‑Netzes, auf das sich Artikel 1 b
 
 <sup>1.</sup> Dieses Übereinkommen liegt bis zum 31. Dezember 1976 für Staaten zur Unterzeichnung auf, die entweder Mitglied der Wirtschaftskommission der Vereinten Nationen für Europa oder die nach Absatz 8 der Satzung der Kommission in beratender Eigenschaft in die Kommission aufgenommen sind.
 
-<sup>2.</sup> Diese Staaten können Vertragsparteien des Übereinkommens werden durch
+<sup>2.</sup>
+
+Diese Staaten können Vertragsparteien des Übereinkommens werden durch:
 
 - a) Unterzeichnung ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung;
 - b) Unterzeichnung unter Vorbehalt der Ratifikation, Annahme oder Genehmigung und anschliessender Ratifikation, Annahme oder Genehmigung, oder
@@ -170,7 +172,7 @@ Notifikationen an die Vertragsparteien
 
 #### Art. 16
 
-Ausser den Erklärungen, Notifikationen und Mitteilungen nach den Artikeln 7, 8, 9 und 15 notifiziert der Generalsekretär den Vertragsparteien und den anderen in Artikel 5 genannten Staaten
+Ausser den Erklärungen, Notifikationen und Mitteilungen nach den Artikeln 7, 8, 9 und 15 notifiziert der Generalsekretär den Vertragsparteien und den anderen in Artikel 5 genannten Staaten:
 
 - a) die Unterzeichnungen, Ratifikationen, Annahmen, Genehmigungen und Beitritte nach Artikel 5;
 - b) die Zeitpunkte, zu denen dieses Übereinkommen nach Artikel 6 in Kraft tritt;
@@ -188,7 +190,7 @@ Nach dem 31. Dezember 1976 wird die Urschrift dieses Übereinkommens beim Genera
 
 Geschehen zu Genf am 15. November 1975 in einer Urschrift in englischer, französischer und russischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist.
 
-## (Es folgen die Unterschriften)
+(Es folgen die Unterschriften)
 
 Geltungsbereich am 5. Juli 2023[^t-2]
 
@@ -230,13 +232,9 @@ Geltungsbereich am 5. Juli 2023[^t-2]
 <tr><td>Tschechische Republik\*</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Turkmenistan</td><td>31. August</td><td>2020 B</td><td>29. November</td><td>2020</td></tr>
 <tr><td>Türkei</td><td>16. Oktober</td><td>1992 B</td><td>14. Januar</td><td>1993</td></tr>
-</table>
-
-<table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ukraine\*</td><td>29. Dezember</td><td>1982 B</td><td>29. März</td><td>1983</td></tr>
 <tr><td>Ungarn\*</td><td>1. September</td><td>1978 B</td><td>15. März</td><td>1983</td></tr>
-<tr><td colspan="5">\* Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1988 1834](https://fedlex.data.admin.ch/eli/oc/1988/1834_1834_1834); [1991 2216](https://fedlex.data.admin.ch/eli/oc/1991/2216_2216_2216); [1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811); [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881); [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573); [2009 3205](https://fedlex.data.admin.ch/eli/oc/2009/414); [2023 372](https://fedlex.data.admin.ch/eli/oc/2023/372). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-2]: [AS 1988 1834](https://fedlex.data.admin.ch/eli/oc/1988/1834_1834_1834); [1991 2216](https://fedlex.data.admin.ch/eli/oc/1991/2216_2216_2216); [1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811); [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881); [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573); [2009 3205](https://fedlex.data.admin.ch/eli/oc/2009/414); [2023 372](https://fedlex.data.admin.ch/eli/oc/2023/372). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).

@@ -4,30 +4,26 @@ title: Accordo europeo del 15 novembre 1975 sulle grandi strade a traffico inter
 short: AGR
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834"
 language: it
-version: 2023-07-05
+version: 2024-12-03
 adopted: 1975-11-15
 in_force: 1988-11-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20230705/it/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20230705-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20230705/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1834_1834_1834/20241203/it/xml/fedlex-data-admin-ch-eli-cc-1988-1834_1834_1834-20241203-it-xml-24.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1834_1834_1834/20241203/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Accordo europeo sulle grandi strade a traffico internazionale (AGR)
+# Accordo europeo sulle grandi strade a traffico internazionale
 
 RU **1988** 1834; FF **1987** III 141
 
 Traduzione
 
-Concluso a Ginevra il 15 novembre 1975
+(AGR)
 
-Approvato dall’Assemblea federale il 1° marzo 1988[^t-1]
+Concluso a Ginevra il 15 novembre 1975 Approvato dall’Assemblea federale il 1° marzo 1988[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 5 agosto 1988 Entrato in vigore per la Svizzera il 3 novembre 1988
 
-Istrumento di ratificazione depositato dalla Svizzera il 5 agosto 1988
-
-Entrato in vigore per la Svizzera il 3 novembre 1988
-
-(Stato 5 luglio 2023)
+(Stato 3 dicembre 2024)
 
 [^t-1]: [RU 1988 1833](https://fedlex.data.admin.ch/eli/oc/1988/1833_1833_1833)
 
@@ -45,7 +41,7 @@ hanno convenuto quanto segue:
 
 Le Parti contraenti adottano il progetto di rete stradale, qui appresso indicato «Rete internazionale E» e descritto nell’allegato I[^1-1] del presente Accordo, a titolo di piano coordinato di costruzione e di sviluppo di strade di interesse internazionale che esse si propongono di seguire nel quadro dei loro programmi nazionali.
 
-[^1-1]: Gli all. non sono pubblicati nella RU ([RU 1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811), [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881), [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573), [2008 3969](https://fedlex.data.admin.ch/eli/oc/2008/536), [2010 3591](https://fedlex.data.admin.ch/eli/oc/2010/519), [2014 3607](https://fedlex.data.admin.ch/eli/oc/2014/624)e [2018 543](https://fedlex.data.admin.ch/eli/oc/2018/66)). I testi in lingua francese e inglese possono essere consultati sul sito Internet della Commissione economica per l’Europa delle Nazioni Unite: www.unece.org/trans/main/sc1/sc1rep.html oppure essere ottenuti presso l’Ufficio federale delle strade, 3003 Berna.
+[^1-1]: Gli all. e gli emendamenti concernenti gli all. non sono pubblicati nella RU ([RU 1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811); [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881); [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573); [2008 3969](https://fedlex.data.admin.ch/eli/oc/2008/536); [2010 3591](https://fedlex.data.admin.ch/eli/oc/2010/519); [2014 3607](https://fedlex.data.admin.ch/eli/oc/2014/624); [2018 543](https://fedlex.data.admin.ch/eli/oc/2018/66); [2024 585](https://fedlex.data.admin.ch/eli/oc/2024/585)). I testi in lingua francese e inglese degli all. e degli emendamenti concernenti gli all. possono essere consultati sul sito Internet della Commissione economica per l’Europa delle Nazioni Unite: [*https://unece.org/DAM/trans/doc/2017/sc1/ECE-TRANS-SC1-2016-03-Rev1f.pdf*](https://unece.org/DAM/trans/doc/2017/sc1/ECE-TRANS-SC1-2016-03-Rev1f.pdf), [*https://unece.org/DAM/trans/doc/2016/sc1/ECE-TRANS-SC1-2016-03-Rev1e.pdf*](https://unece.org/DAM/trans/doc/2016/sc1/ECE-TRANS-SC1-2016-03-Rev1e.pdf), [*https://unece.org/sites/default/files/2024-02/ECE-TRANS-SC.1-420f.pdf*](https://unece.org/sites/default/files/2024-02/ECE-TRANS-SC.1-420f.pdf) (emendamenti), [*https://unece.org/sites/default/files/2023-11/ECE-TRANS-SC.1-420e.pdf*](https://unece.org/sites/default/files/2023-11/ECE-TRANS-SC.1-420e.pdf) (emendamenti), oppure ottenuti presso l’Ufficio federale delle strade, 3003 Berna. Non sono disponibili traduzioni in lingua italiana e tedesca.
 
 #### Art. 2
 
@@ -196,9 +192,7 @@ Oltre alle dichiarazioni, notifiche e comunicazioni previste dagli articoli 7, 8
 
 Successivamente al 31 dicembre 1976, l’originale del presente Accordo sarà depositato presso il Segretario generale dell’Organizzazione delle Nazioni Unite che ne trasmetterà copie certificate conformi a tutti gli Stati indicati all’articolo 5 del presente Accordo.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Accordo. Fatto a Ginevra, il quindici novembre millenovecentosettantacinque in un solo esemplare, in lingua francese, inglese e russa, i tre testi facenti ugualmente fede.
-
-(Seguono le firme)
+*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Accordo. Fatto a Ginevra, il quindici novembre millenovecentosettantacinque in un solo esemplare, in lingua francese, inglese e russa, i tre testi facenti ugualmente fede. (Seguono le firme)
 
 Campo d’applicazione il 5 luglio 2023[^t-2]
 
@@ -207,11 +201,11 @@ Campo d’applicazione il 5 luglio 2023[^t-2]
 <tr><td>Albania</td><td>2 agosto</td><td>2006 A</td><td>31 ottobre</td><td>2006</td></tr>
 <tr><td>Armenia</td><td>9 giugno</td><td>2006 A</td><td>7 settembre</td><td>2006</td></tr>
 <tr><td>Azerbaigian</td><td>16 agosto</td><td>1996 A</td><td>14 novembre</td><td>1996</td></tr>
-<tr><td>Belarus<sup>\*</sup></td><td>17 dicembre</td><td>1982 A</td><td>17 marzo</td><td>1983</td></tr>
+<tr><td>Belarus\*</td><td>17 dicembre</td><td>1982 A</td><td>17 marzo</td><td>1983</td></tr>
 <tr><td>Belgio</td><td>15 aprile</td><td>1985 A</td><td>14 luglio</td><td>1985</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>1° settembre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
 <tr><td>Bulgaria</td><td>17 novembre</td><td>1977</td><td>15 marzo</td><td>1983</td></tr>
-<tr><td>Ceca, Repubblica<sup>\*</sup></td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Ceca, Repubblica\*</td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Croazia</td><td>2 febbraio</td><td>1994 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Danimarca</td><td>2 novembre</td><td>1987 A</td><td>31 gennaio</td><td>1988</td></tr>
 <tr><td>Finlandia</td><td>19 novembre</td><td>1991 A</td><td>17 febbraio</td><td>1992</td></tr>
@@ -221,28 +215,28 @@ Campo d’applicazione il 5 luglio 2023[^t-2]
 <tr><td>Grecia</td><td>11 ottobre</td><td>1988 A</td><td>9 gennaio</td><td>1989</td></tr>
 <tr><td>Italia</td><td>2 luglio</td><td>1981 A</td><td>15 marzo</td><td>1983</td></tr>
 <tr><td>Kazakstan</td><td>17 luglio</td><td>1995 A</td><td>15 ottobre</td><td>1995</td></tr>
-<tr><td>[tab] Lettonia</td><td>12 giugno</td><td>1997 A</td><td>10 septembre</td><td>1997</td></tr>
+<tr><td>Lettonia</td><td>12 giugno</td><td>1997 A</td><td>10 septembre</td><td>1997</td></tr>
 <tr><td>Lituania</td><td>27 agosto</td><td>1993 A</td><td>25 novembre</td><td>1993</td></tr>
 <tr><td>Lussemburgo</td><td>20 novembre</td><td>1981</td><td>15 marzo</td><td>1983</td></tr>
 <tr><td>Macedonia del Nord</td><td>20 dicembre</td><td>1999 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Moldova</td><td>25 maggio</td><td>2006 A</td><td>23 agosto</td><td>2006</td></tr>
 <tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Norvegia</td><td>14 settembre</td><td>1992 A</td><td>13 dicembre</td><td>1992</td></tr>
-<tr><td>Paesi Bassi<sup>\*</sup></td><td>12 dicembre</td><td>1979 A</td><td>15 marzo</td><td>1983</td></tr>
+<tr><td>Paesi Bassi\*</td><td>12 dicembre</td><td>1979 A</td><td>15 marzo</td><td>1983</td></tr>
 <tr><td>Polonia</td><td>9 novembre</td><td>1984</td><td>7 febbraio</td><td>1985</td></tr>
 <tr><td>Portogallo</td><td>8 gennaio</td><td>1991 A</td><td>8 aprile</td><td>1991</td></tr>
-<tr><td>Romania<sup>\*</sup></td><td>2 luglio</td><td>1985 A</td><td>30 settembre</td><td>1985</td></tr>
+<tr><td>Romania\*</td><td>2 luglio</td><td>1985 A</td><td>30 settembre</td><td>1985</td></tr>
 <tr><td>Russia</td><td>14 dicembre</td><td>1982 A</td><td>15 marzo</td><td>1983</td></tr>
 <tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td>Slovacchia<sup>\*</sup></td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovacchia\*</td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
 <tr><td>Svezia</td><td>27 ottobre</td><td>1992 A</td><td>25 gennaio</td><td>1993</td></tr>
 <tr><td>Svizzera</td><td>5 agosto</td><td>1988</td><td>3 novembre</td><td>1988</td></tr>
 <tr><td>Turchia</td><td>16 ottobre</td><td>1992 A</td><td>14 gennaio</td><td>1993</td></tr>
 <tr><td>Turkmenistan</td><td>31 agosto</td><td>2020 A</td><td>29 novembre</td><td>2020</td></tr>
-<tr><td>Ucraina<sup>\*</sup></td><td>29 dicembre</td><td>1982 A</td><td>29 marzo</td><td>1983</td></tr>
-<tr><td>Ungheria<sup>\*</sup></td><td>1° settembre</td><td>1978 A</td><td>15 marzo</td><td>1983</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni, non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione delle Nazioni Unite: [[http://treaties.un.org](https://treaties.un.org)](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td>Ucraina\*</td><td>29 dicembre</td><td>1982 A</td><td>29 marzo</td><td>1983</td></tr>
+<tr><td>Ungheria\*</td><td>1° settembre</td><td>1978 A</td><td>15 marzo</td><td>1983</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione delle Nazioni Unite: [[http://treaties.un.org](https://treaties.un.org)](http://treaties.un.org/) oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
 [^t-2]: [RU 1988 1834](https://fedlex.data.admin.ch/eli/oc/1988/1834_1834_1834); [1991 2216](https://fedlex.data.admin.ch/eli/oc/1991/2216_2216_2216); [1992 811](https://fedlex.data.admin.ch/eli/oc/1992/811_811_811); [1996 881](https://fedlex.data.admin.ch/eli/oc/1996/881_881_881); [2004 3983](https://fedlex.data.admin.ch/eli/oc/2004/573); [2009 3205](https://fedlex.data.admin.ch/eli/oc/2009/414); [2023 372](https://fedlex.data.admin.ch/eli/oc/2023/372). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
