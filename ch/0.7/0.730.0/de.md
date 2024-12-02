@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Vertrag vom 17. Dezember 1994 über die Energiecharta (mit Anlagen, Beschlüssen und Schlussakte)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: de
-version: 2024-04-11
+version: 2024-12-03
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20240411/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20240411-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20240411/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20241203/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20241203-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20241203/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
 
-(Stand am 11. April 2024)
+(Stand am 3. Dezember 2024)
 
 [^t-1]: [AS 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -64,9 +64,9 @@ sind wie folgt übereingekommen:
 [^ingress-2]: Worte gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-3]: Worte gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-4]: Worte gemäss Art. 2 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-5]: [SR 0.515.03](https://fedlex.data.admin.ch/eli/cc/1977/472_472_472)
-[^ingress-6]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^ingress-7]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^ingress-5]: [SR 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^ingress-6]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-7]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 ## Teil I Begriffsbestimmungen und Zweck
 
@@ -74,7 +74,7 @@ sind wie folgt übereingekommen:
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Vertrags
+Im Sinne dieses Vertrags:
 
 - 1\. bedeutet «Charta» die im Abschlussdokument der Haager Konferenz über die Europäische Energiecharta angenommene Europäische Energiecharta, das am 17. Dezember 1991 in Den Haag unterzeichnet wurde; die Unterzeichnung des Abschlussdokuments gilt als Unterzeichnung der Charta;
 - 2\. bedeutet «Vertragspartei» einen Staat oder eine Organisation der regionalen Wirtschaftsintegration, die zugestimmt haben, durch diesen Vertrag gebunden zu sein und für die der Vertrag in Kraft ist;
@@ -623,8 +623,8 @@ Beabsichtigt ein Investor, die Streitigkeit einer Beilegung nach Absatz 2 Buchst
 
 <sup>(8)</sup> Schiedssprüche, die auch die Zuerkennung von Zinsen umfassen können, sind für die Streitparteien endgültig und verbindlich. Ein Schiedsspruch betreffend eine Massnahme einer regionalen oder örtlichen Regierungs- oder Verwaltungsstelle der streitenden Vertragspartei hat vorzusehen, dass die Vertragspartei eine Entschädigung in Geld anstelle eines anderen Schadenersatzes leisten kann. Jede Vertragspartei führt einen derartigen Schiedsspruch unverzüglich aus und veranlasst die wirksame Vollstreckung der Schiedssprüche in ihrem Gebiet.
 
-[^26-1]: [SR 0.975.2](https://fedlex.data.admin.ch/eli/cc/1968/982_1022_938)
-[^26-2]: [SR 0.277.12](https://fedlex.data.admin.ch/eli/cc/1965/795_799_793)
+[^26-1]: [SR 0.975.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4570)
+[^26-2]: [SR 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
 
 #### Art. 27
 
@@ -709,8 +709,8 @@ Anlage D findet Anwendung:
 - ii) durch die eine Freihandelszone oder eine Zollunion im Sinne des Artikels XXIV GATT 1994 errichtet wird.
 
 [^29-1]: Fassung gemäss Art. 1 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^29-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^29-3]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117); Anhang 1A
+[^29-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^29-3]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235); Anhang 1A
 
 #### Art. 30
 
@@ -1157,7 +1157,7 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <table>
 <tr><td></td><td>Ex 39.19</td><td colspan="2">Tafeln, Platten, Folien, Filme, Bänder, Streifen und andere Flacherzeugnisse, selbstklebend, aus Kunststoffen, auch in Rollen:</td></tr>
 <tr><td></td><td></td><td>Ex 3919.10</td><td>– in Rollen mit einer Breite von 20 cm oder weniger: – für den Schutz von Öl- und Gasfernleitungen und Seeleitungen</td></tr>
-<tr><td></td><td>Ex 73.04<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-1]</td><td colspan="2">Rohre und Hohlprofile, nahtlos, aus Eisen (ausgenommen Gusseisen) oder Stahl:</td></tr>
+<tr><td></td><td>Ex 73.04<sup>(\*)</sup>[^annex3-lvlu1-1]</td><td colspan="2">Rohre und Hohlprofile, nahtlos, aus Eisen (ausgenommen Gusseisen) oder Stahl:</td></tr>
 <tr><td></td><td></td><td>7304.10</td><td>– Rohre von der für Öl- oder Gasfernleitungen verwendeten Art (line pipe) – Futterrohre, Steigrohre und Bohrgestänge von der für das Bohren oder Fördern von Öl oder Gas verwendeten Art (casing, tubing, drill pipe):<sup>4</sup></td></tr>
 <tr><td></td><td></td><td>7304.21[^annex3-lvlu1-2]</td><td>– Bohrgestänge (drill pipe)</td></tr>
 <tr><td></td><td></td><td>7304.29<sup>4</sup></td><td>– andere</td></tr>
@@ -1166,10 +1166,8 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td>7305.11</td><td>– mit verdecktem Lichtbogen längsnahtgeschweisst</td></tr>
 <tr><td></td><td></td><td>7305.12</td><td>– anders längsnahtgeschweisst</td></tr>
 <tr><td></td><td></td><td>7305.19</td><td>– andere</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td></td><td>7305.20</td><td>– Futterrohre von der für das Fördern von Öl oder Gas verwendeten Art (casing)</td></tr>
-<tr><td></td><td>Ex 73.06<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-3]</td><td colspan="2">Andere Rohre und Hohlprofile (z. B. geschweisst, genietet, gefalzt oder mit einfach aneinandergelegten Rändern), aus Eisen oder Stahl:</td></tr>
+<tr><td></td><td>Ex 73.06<sup>(\*)</sup>[^annex3-lvlu1-3]</td><td colspan="2">Andere Rohre und Hohlprofile (z. B. geschweisst, genietet, gefalzt oder mit einfach aneinandergelegten Rändern), aus Eisen oder Stahl:</td></tr>
 <tr><td></td><td></td><td>7306.10</td><td>– Rohre von der für Öl- oder Gasfernleitungen verwendeten Art (line pipe)</td></tr>
 <tr><td></td><td></td><td>7306.20</td><td>– Futterrohre und Steigrohre von der für das Fördern von Öl oder Gas verwendeten Art (casing und tubing)</td></tr>
 <tr><td></td><td>73.07</td><td colspan="2">Rohrformstücke, Rohrverschlussstücke und Rohrverbindungsstücke (z. B. Bogen, Muffen), aus Eisen oder Stahl</td></tr>
@@ -1184,7 +1182,7 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td></td><td>– mit Wärmeschutzverkleidung</td></tr>
 <tr><td></td><td>Ex 73.11</td><td colspan="2">Behälter aus Eisen oder Stahl, für verdichtete oder verflüssigte Gase:</td></tr>
 <tr><td></td><td></td><td></td><td>– mit einem Fassungsvermögen von mehr als 1.000 l</td></tr>
-<tr><td></td><td>Ex 73.12<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-4]</td><td colspan="2">Litzen, Kabel, Seile, Seilschlingen und ähnliche Waren, aus Eisen oder Stahl, ausgenommen isolierte Erzeugnisse für die Elektrotechnik:</td></tr>
+<tr><td></td><td>Ex 73.12<sup>(\*)</sup>[^annex3-lvlu1-4]</td><td colspan="2">Litzen, Kabel, Seile, Seilschlingen und ähnliche Waren, aus Eisen oder Stahl, ausgenommen isolierte Erzeugnisse für die Elektrotechnik:</td></tr>
 <tr><td></td><td></td><td>Ex 7312.10</td><td>– Litzen, Kabel und Seile:</td></tr>
 <tr><td></td><td></td><td></td><td>– Kabel und Seile, überzogen, nicht überzogen oder verzinkt, von der im Energiebereich verwendeten Art</td></tr>
 <tr><td></td><td>Ex 73.26</td><td colspan="2">Andere Waren aus Eisen oder Stahl:</td></tr>
@@ -1206,7 +1204,7 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td></td><td>– Erd-, Gesteins- oder Tiefbohrwerkzeuge:</td></tr>
 <tr><td></td><td></td><td>8207.13[^annex3-lvlu1-5]</td><td>– mit arbeitendem Teil aus Cermets</td></tr>
 <tr><td></td><td></td><td>8207.19</td><td>– andere, einschliesslich Teile</td></tr>
-<tr><td></td><td>Ex 83.07<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-6]</td><td colspan="2">Schläuche aus unedlen Metallen, auch mit Verschlussstücken oder Verbindungsstücken:</td></tr>
+<tr><td></td><td>Ex 83.07<sup>(\*)</sup>[^annex3-lvlu1-6]</td><td colspan="2">Schläuche aus unedlen Metallen, auch mit Verschlussstücken oder Verbindungsstücken:</td></tr>
 <tr><td></td><td></td><td></td><td>– ausschliesslich für Öl- und Gasbohrschächte bestimmt</td></tr>
 <tr><td></td><td>84.01</td><td colspan="2">Kernreaktoren; nicht bestrahlte Brennstoffelemente für Kernreaktoren; Maschinen und Apparate für die Isotopentrennung:</td></tr>
 <tr><td></td><td>84.02</td><td colspan="2">Dampfkessel (Dampferzeuger), ausgenommen Zentralheizungskessel, die sowohl heisses Wasser als auch Niederdruckdampf erzeugen können; Kessel zum Erzeugen von überhitztem Wasser</td></tr>
@@ -1218,15 +1216,15 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td>8406.81<sup>8</sup></td><td>– mit einer Leistung von mehr als 40 MW</td></tr>
 <tr><td></td><td></td><td>8406.82<sup>8</sup></td><td>– mit einer Leistung von 40 MW oder weniger</td></tr>
 <tr><td></td><td></td><td>8406.90</td><td>– Teile</td></tr>
-<tr><td></td><td>Ex 84.08<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-8]</td><td colspan="2">Kolbenverbrennungsmotoren mit Selbstzündung (Diesel- oder Halbdieselmotoren):</td></tr>
+<tr><td></td><td>Ex 84.08<sup>(\*)</sup>[^annex3-lvlu1-8]</td><td colspan="2">Kolbenverbrennungsmotoren mit Selbstzündung (Diesel- oder Halbdieselmotoren):</td></tr>
 <tr><td></td><td></td><td>Ex 8408.90</td><td>– andere Motoren:</td></tr>
 <tr><td></td><td></td><td></td><td>– neu, mit einer Leistung von mehr als 50 kW</td></tr>
 <tr><td></td><td>Ex 84.09</td><td colspan="2">Teile, erkennbar ausschliesslich oder hauptsächlich für Motoren der Position 84.07 oder 84.08 bestimmt:</td></tr>
 <tr><td></td><td></td><td>8409.99</td><td>– andere</td></tr>
 <tr><td></td><td>84.10</td><td colspan="2">Wasserturbinen, Wasserräder und Regler dafür</td></tr>
-<tr><td></td><td>84.11<sup>(</sup><sup>\*)</sup></td><td colspan="2">Turbo-Strahltriebwerke, Turbo-Propellertriebwerke und andere Gasturbinen</td></tr>
-<tr><td></td><td>84.13<sup>(</sup><sup>\*)</sup></td><td colspan="2">Flüssigkeitspumpen, auch mit Flüssigkeitsmesser; Hebewerke für Flüssigkeiten</td></tr>
-<tr><td></td><td>Ex 84.14<sup>(</sup><sup>\*)</sup></td><td colspan="2">Luft- oder Vakuumpumpen, Luft- oder andere Gaskompressoren sowie Ventilatoren; Abluft- oder Umluftabzugshauben mit eingebautem Ventilator, auch mit Filter:</td></tr>
+<tr><td></td><td>84.11<sup>(\*)</sup></td><td colspan="2">Turbo-Strahltriebwerke, Turbo-Propellertriebwerke und andere Gasturbinen</td></tr>
+<tr><td></td><td>84.13<sup>(\*)</sup></td><td colspan="2">Flüssigkeitspumpen, auch mit Flüssigkeitsmesser; Hebewerke für Flüssigkeiten</td></tr>
+<tr><td></td><td>Ex 84.14<sup>(\*)</sup></td><td colspan="2">Luft- oder Vakuumpumpen, Luft- oder andere Gaskompressoren sowie Ventilatoren; Abluft- oder Umluftabzugshauben mit eingebautem Ventilator, auch mit Filter:</td></tr>
 <tr><td></td><td></td><td></td><td>– Ventilatoren:</td></tr>
 <tr><td></td><td></td><td>Ex 8414.59</td><td>– andere:</td></tr>
 <tr><td></td><td></td><td></td><td>– für Berg- und Kraftwerke</td></tr>
@@ -1238,23 +1236,23 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td></td><td>– ausschliesslich für Abfallverbrennungs-, Laboratoriums- und Uransinteröfen bestimmt</td></tr>
 <tr><td></td><td></td><td>Ex 8417.90</td><td>– Teile:</td></tr>
 <tr><td></td><td></td><td></td><td>– ausschliesslich für Abfallverbrennungs-, Laboratoriums- und Uransinteröfen bestimmt</td></tr>
-<tr><td></td><td>Ex 84.18<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-9]</td><td colspan="2">Kühl- und Gefrierschränke, Gefrier- und Tiefkühltruhen und andere Einrichtungen, Maschinen, Apparate und Geräte zur Kälteerzeugung, mit elektrischer oder anderer Ausrüstung; Wärmepumpen, ausgenommen Klimageräte der Position 84.15:</td></tr>
+<tr><td></td><td>Ex 84.18<sup>(\*)</sup>[^annex3-lvlu1-9]</td><td colspan="2">Kühl- und Gefrierschränke, Gefrier- und Tiefkühltruhen und andere Einrichtungen, Maschinen, Apparate und Geräte zur Kälteerzeugung, mit elektrischer oder anderer Ausrüstung; Wärmepumpen, ausgenommen Klimageräte der Position 84.15:</td></tr>
 <tr><td></td><td></td><td></td><td>– andere Einrichtungen, Maschinen, Apparate und Geräte zur Kälteerzeugung, mit elektrischer oder anderer Ausrüstung; Wärmepumpen:</td></tr>
 <tr><td></td><td></td><td>8418.61</td><td>– Kompressionskälteerzeugungs-einrichtungen, bei denen der Kondensator als Wärmeaustauscher ausgebildet ist</td></tr>
 <tr><td></td><td></td><td>8418.69</td><td>– andere</td></tr>
-<tr><td></td><td>Ex 84.19<sup>(</sup><sup>\*)</sup></td><td colspan="2">Apparate und Vorrichtungen, auch elektrisch beheizt, zum Behandeln von Stoffen durch auf einer Temperaturänderung beruhende Vorgänge, z. B. Heizen, Kochen, Rösten, Destillieren, Rektifizieren, Sterilisieren, Pasteurisieren, Dämpfen, Trocknen, Verdampfen, Kondensieren oder Kühlen, ausgenommen Haushaltsapparate; nichtelektrische Durchlauferhitzer und Heisswasserspeicher:</td></tr>
+<tr><td></td><td>Ex 84.19<sup>(\*)</sup></td><td colspan="2">Apparate und Vorrichtungen, auch elektrisch beheizt, zum Behandeln von Stoffen durch auf einer Temperaturänderung beruhende Vorgänge, z. B. Heizen, Kochen, Rösten, Destillieren, Rektifizieren, Sterilisieren, Pasteurisieren, Dämpfen, Trocknen, Verdampfen, Kondensieren oder Kühlen, ausgenommen Haushaltsapparate; nichtelektrische Durchlauferhitzer und Heisswasserspeicher:</td></tr>
 <tr><td></td><td></td><td>8419.50</td><td>– Wärmeaustauscher</td></tr>
 <tr><td></td><td></td><td>8419.60</td><td>– Apparate und Vorrichtungen für die Luft- oder andere Gasverflüssigung</td></tr>
 <tr><td></td><td></td><td></td><td>– andere Apparate und Vorrichtungen:</td></tr>
 <tr><td></td><td></td><td>8419.89</td><td>– andere</td></tr>
-<tr><td></td><td>Ex 84.21<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-10]</td><td colspan="2">Zentrifugen, einschliesslich Zentrifugaltrockner; Apparate zum Filtrieren oder Reinigen von Flüssigkeiten oder Gasen:</td></tr>
+<tr><td></td><td>Ex 84.21<sup>(\*)</sup>[^annex3-lvlu1-10]</td><td colspan="2">Zentrifugen, einschliesslich Zentrifugaltrockner; Apparate zum Filtrieren oder Reinigen von Flüssigkeiten oder Gasen:</td></tr>
 <tr><td></td><td></td><td></td><td>– Apparate zum Filtrieren oder Reinigen von Flüssigkeiten:</td></tr>
 <tr><td></td><td></td><td>8421.21</td><td>– zum Filtrieren oder Reinigen von Wasser</td></tr>
 <tr><td></td><td></td><td></td><td>– Apparate zum Filtrieren oder Reinigen von Gasen:</td></tr>
 <tr><td></td><td></td><td>8421.39</td><td>– andere</td></tr>
-<tr><td></td><td>Ex 84.25<sup>(</sup><sup>\*)</sup></td><td colspan="2">Flaschenzüge; Zugwinden und Spille; Hubwinden:</td></tr>
+<tr><td></td><td>Ex 84.25<sup>(\*)</sup></td><td colspan="2">Flaschenzüge; Zugwinden und Spille; Hubwinden:</td></tr>
 <tr><td></td><td></td><td>8425.20</td><td>– Fördermaschinen für Bergwerke, zum Hochziehen und Herablassen der Förderkörbe oder Skips; Spezialzugwinden für der Untertagebergbau</td></tr>
-<tr><td></td><td>Ex 84.26<sup>(</sup><sup>\*)</sup></td><td colspan="2">Derrickkrane; Kabelkrane, Laufkrane, Verladebrücken und andere Krane; fahrbare Hubportale, Portalhubkraftkarren und Krankraftkarren:</td></tr>
+<tr><td></td><td>Ex 84.26<sup>(\*)</sup></td><td colspan="2">Derrickkrane; Kabelkrane, Laufkrane, Verladebrücken und andere Krane; fahrbare Hubportale, Portalhubkraftkarren und Krankraftkarren:</td></tr>
 <tr><td></td><td></td><td>Ex 8426.20</td><td>– Turmdrehkrane:</td></tr>
 <tr><td></td><td></td><td></td><td>– für Offshore- und Onshore-Bohrplattformen</td></tr>
 <tr><td></td><td></td><td></td><td>– andere Maschinen, Apparate und Geräte:</td></tr>
@@ -1271,23 +1269,20 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td></td><td>– andere Bohrmaschinen und Tiefbohrgeräte:</td></tr>
 <tr><td></td><td></td><td>Ex 8430.41</td><td>– selbstfahrend:</td></tr>
 <tr><td></td><td></td><td></td><td>– für die Aufsuchung und Erschliessung von Öl- und Gasvorkommen</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td></td><td>Ex 8430.49</td><td>– andere:</td></tr>
 <tr><td></td><td></td><td></td><td>– für die Aufsuchung und Erschliessung von Öl- und Gasvorkommen</td></tr>
 <tr><td></td><td>Ex 84.31</td><td colspan="2">Teile, erkennbar ausschliesslich oder hauptsächlich für Maschinen, Apparate und Geräte der Positionen 84.25 bis 84.30 bestimmt:</td></tr>
 <tr><td></td><td></td><td></td><td>– nur für Maschinen, Apparate und Geräte der einschlägigen Positionen</td></tr>
-<tr><td></td><td>84.71<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-11]</td><td colspan="2">Automatische Datenverarbeitungsmaschinen und ihre Einheiten; magnetische oder optische Schriftleser, Maschinen zum Aufzeichnen von Daten auf Datenträger in Form eines Codes und Maschinen zum Verarbeiten dieser Daten, anderweit weder genannt noch inbegriffen</td></tr>
+<tr><td></td><td>84.71<sup>(\*)</sup>[^annex3-lvlu1-11]</td><td colspan="2">Automatische Datenverarbeitungsmaschinen und ihre Einheiten; magnetische oder optische Schriftleser, Maschinen zum Aufzeichnen von Daten auf Datenträger in Form eines Codes und Maschinen zum Verarbeiten dieser Daten, anderweit weder genannt noch inbegriffen</td></tr>
 <tr><td></td><td>Ex 84.74</td><td colspan="2">Maschinen und Apparate zum Sortieren, Sieben, Trennen, Waschen, Zerkleinern, Mahlen, Mischen oder Kneten von Erden, Steinen, Erzen oder anderen festen (auch pulver- oder breiförmigen) mineralischen Stoffen; Maschinen zum Pressen oder Formen von festen mineralischen Brennstoffen, keramischen Massen, Zement, Gips oder anderen pulver- oder breiförmigen mineralischen Stoffen; Maschinen zum Herstellen von Giessformen aus Sand:</td></tr>
 <tr><td></td><td></td><td>8474.10</td><td>– Maschinen und Apparate zum Sortieren, Sieben, Trennen oder Waschen</td></tr>
 <tr><td></td><td></td><td>8474.20</td><td>– Maschinen und Apparate zum Zerkleinern oder Mahlen</td></tr>
 <tr><td></td><td></td><td>Ex 8474.90</td><td>– Teile:</td></tr>
 <tr><td></td><td></td><td></td><td>– aus Eisen oder Stahl, gegossen</td></tr>
-<tr><td></td><td>Ex 84.79<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-12]</td><td colspan="2">Maschinen, Apparate und mechanische Geräte mit eigener Funktion, in diesem Kapitel[^annex3-lvlu1-13] anderweit weder genannt noch inbegriffen:</td></tr>
+<tr><td></td><td>Ex 84.79<sup>(\*)</sup>[^annex3-lvlu1-12]</td><td colspan="2">Maschinen, Apparate und mechanische Geräte mit eigener Funktion, in diesem Kapitel[^annex3-lvlu1-13] anderweit weder genannt noch inbegriffen:</td></tr>
 <tr><td></td><td></td><td></td><td>– andere Maschinen, Apparate und Geräte:</td></tr>
 <tr><td></td><td></td><td>Ex 8479.89</td><td>– andere:</td></tr>
 <tr><td></td><td></td><td></td><td>– schreitender hydraulischer Grubenausbau</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td>Ex 84.81</td><td colspan="2">Armaturen und ähnliche Apparate für Rohr- oder Schlauchleitungen, Dampfkessel, Sammelbehälter, Wannen oder ähnliche Behälter, einschliesslich Druckminderventile und thermostatisch gesteuerte Ventile:</td></tr>
 <tr><td></td><td></td><td>8481.10</td><td>– Druckminderventile</td></tr>
 <tr><td></td><td></td><td>8481.20</td><td>– Ventile für ölhydraulische oder pneumatische Energieübertragung</td></tr>
@@ -1297,13 +1292,13 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td>Ex 84.83</td><td colspan="2">Wellen (einschliesslich Nockenwellen und Kurbelwellen) und Kurbeln; Lagergehäuse mit eingebautem Wälzlager; Gleitlager; Lagergehäuse und Lagerschalen; Zahnräder, Zahnstangen, Friktionsräder, Kettenräder und Getriebe, auch in Form von Wechsel- oder Schaltgetrieben oder Drehmomentwandlern; Kugel- oder Rollenrollspindeln; Schwungräder, Riemen- und Seilscheiben (einschliesslich Seilrollenblöcke für Flaschenzüge); Schaltkupplungen und andere Wellenkupplungen (einschliesslich Universalkupplungen):</td></tr>
 <tr><td></td><td></td><td>Ex 8483.40</td><td>– Getriebe, auch in Form von Wechsel- oder Schaltgetrieben oder Drehmomentwandlern; Kugel- oder Rollenrollspindeln</td></tr>
 <tr><td></td><td></td><td></td><td>– Übertragungselemente, ausschliesslich für Pumpstangen in der Öl- und Gasindustrie bestimmt</td></tr>
-<tr><td></td><td>Ex 84.84<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-14]</td><td colspan="2">Metalloplastische Dichtungen; Sätze oder Zusammenstellungen von Dichtungen verschiedener stofflicher Beschaffenheit, in Beuteln, Kartons oder ähnlichen Umschliessungen; mechanische Dichtungen:</td></tr>
+<tr><td></td><td>Ex 84.84<sup>(\*)</sup>[^annex3-lvlu1-14]</td><td colspan="2">Metalloplastische Dichtungen; Sätze oder Zusammenstellungen von Dichtungen verschiedener stofflicher Beschaffenheit, in Beuteln, Kartons oder ähnlichen Umschliessungen; mechanische Dichtungen:</td></tr>
 <tr><td></td><td></td><td>8484.10</td><td>– metalloplastische Dichtungen</td></tr>
 <tr><td></td><td></td><td>8484.20[^annex3-lvlu1-15]</td><td>– mechanische Dichtungen</td></tr>
-<tr><td></td><td>85.01<sup>(</sup><sup>\*)</sup></td><td colspan="2">Elektromotoren und elektrische Generatoren, ausgenommen Stromerzeugungsaggregate</td></tr>
-<tr><td></td><td>85.02<sup>(</sup><sup>\*)</sup></td><td colspan="2">Stromerzeugungsaggregate und elektrische rotierende Umformer</td></tr>
-<tr><td></td><td>85.03<sup>(</sup><sup>\*)</sup></td><td colspan="2">Teile, erkennbar ausschliesslich oder hauptsächlich für Maschinen der Positionen 85.01 oder 85.02 bestimmt</td></tr>
-<tr><td></td><td>Ex 85.04<sup>(</sup><sup>\*)</sup></td><td colspan="2">Elektrische Transformatoren, elektrische Stromrichter (z. B. Gleichrichter) sowie Drossel- und andere Selbstinduktionsspulen:</td></tr>
+<tr><td></td><td>85.01<sup>(\*)</sup></td><td colspan="2">Elektromotoren und elektrische Generatoren, ausgenommen Stromerzeugungsaggregate</td></tr>
+<tr><td></td><td>85.02<sup>(\*)</sup></td><td colspan="2">Stromerzeugungsaggregate und elektrische rotierende Umformer</td></tr>
+<tr><td></td><td>85.03<sup>(\*)</sup></td><td colspan="2">Teile, erkennbar ausschliesslich oder hauptsächlich für Maschinen der Positionen 85.01 oder 85.02 bestimmt</td></tr>
+<tr><td></td><td>Ex 85.04<sup>(\*)</sup></td><td colspan="2">Elektrische Transformatoren, elektrische Stromrichter (z. B. Gleichrichter) sowie Drossel- und andere Selbstinduktionsspulen:</td></tr>
 <tr><td></td><td></td><td></td><td>Transformatoren mit Flüssigkeitsisolation:</td></tr>
 <tr><td></td><td></td><td>8504.21</td><td>– mit einer Leistung von 650 kVA oder weniger</td></tr>
 <tr><td></td><td></td><td>8504.22</td><td>– mit einer Leistung von mehr als 650 kVA bis 10.000 kVA</td></tr>
@@ -1314,14 +1309,14 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td>8504.40</td><td>– Stromrichter</td></tr>
 <tr><td></td><td></td><td>8504.50</td><td>– andere Drosselspulen und andere Selbstinduktionsspulen</td></tr>
 <tr><td></td><td></td><td>8504.90</td><td>– Teile</td></tr>
-<tr><td></td><td>Ex 85.07<sup>(</sup><sup>\*)</sup></td><td colspan="2">Elektrische Akkumulatoren, einschliesslich Scheider (Separatoren) dafür, auch in quadratischer oder rechteckiger Form:</td></tr>
+<tr><td></td><td>Ex 85.07<sup>(\*)</sup></td><td colspan="2">Elektrische Akkumulatoren, einschliesslich Scheider (Separatoren) dafür, auch in quadratischer oder rechteckiger Form:</td></tr>
 <tr><td></td><td></td><td></td><td>– ausgenommen für den Nichtenergiebereich</td></tr>
 <tr><td></td><td>85.14</td><td colspan="2">Elektrische Industrie- und Laboratoriumsöfen, einschliesslich Induktionsöfen und Öfen mit dielektrischer Erwärmung; andere Industrie- und Laboratoriumsapparate zum Warmbehandeln von Stoffen mittels Induktion oder dielektrischer Erwärmung</td></tr>
-<tr><td></td><td>Ex 85.26<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-16]</td><td colspan="2">Funkmessgeräte (Radargeräte), Funknavigationsgeräte und Funkfernsteuergeräte:</td></tr>
+<tr><td></td><td>Ex 85.26<sup>(\*)</sup>[^annex3-lvlu1-16]</td><td colspan="2">Funkmessgeräte (Radargeräte), Funknavigationsgeräte und Funkfernsteuergeräte:</td></tr>
 <tr><td></td><td></td><td>8526.10</td><td>– Funkmessgeräte (Radargeräte)</td></tr>
 <tr><td></td><td></td><td></td><td>– andere:</td></tr>
 <tr><td></td><td></td><td>8526.91</td><td>– Funknavigationsgeräte</td></tr>
-<tr><td></td><td>85.31<sup>(</sup><sup>\*)</sup></td><td colspan="2">Elektrische Hör- und Sichtsignalgeräte (z.B. Läutewerke, Sirenen, Anzeigetafeln, Einbruchs- oder Diebstahlalarmgeräte und Feuermelder), ausgenommen solche der Position 85.12 oder 85.30</td></tr>
+<tr><td></td><td>85.31<sup>(\*)</sup></td><td colspan="2">Elektrische Hör- und Sichtsignalgeräte (z.B. Läutewerke, Sirenen, Anzeigetafeln, Einbruchs- oder Diebstahlalarmgeräte und Feuermelder), ausgenommen solche der Position 85.12 oder 85.30</td></tr>
 <tr><td></td><td>Ex 85.32</td><td colspan="2">Elektrische Festkondensatoren, Drehkondensatoren und andere einstellbare Kondensatoren:</td></tr>
 <tr><td></td><td></td><td>8532.10</td><td>– Festkondensatoren für Ströme mit 50/60 Hz, mit einer Blindleistung von 0,5 kvar oder mehr (Leistungskondensatoren)</td></tr>
 <tr><td></td><td>85.35</td><td colspan="2">Elektrische Geräte zum Schliessen, Unterbrechen, Schützen oder Verbinden von elektrischen Stromkreisen (z. B. Schalter, Sicherungen, Überspannungsableiter, Spannungsbegrenzer, Wanderwellenausgleicher, Steckvorrichtungen und Verbindungskästen), für eine Spannung von mehr als 1.000 V</td></tr>
@@ -1368,8 +1363,6 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td></td><td>– Kraftkarren:</td></tr>
 <tr><td></td><td></td><td>Ex 8709.11</td><td>– Elektrokarren:</td></tr>
 <tr><td></td><td></td><td></td><td>– ihrer Beschaffenheit nach zum Befördern von Waren mit starker Radioaktivität bestimmt</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td></td><td>Ex 8709.19</td><td>– andere:</td></tr>
 <tr><td></td><td></td><td></td><td>– ihrer Beschaffenheit nach zum Befördern von Waren mit starker Radioaktivität bestimmt</td></tr>
 <tr><td></td><td>Ex 89.05</td><td colspan="2">Feuerschiffe, Feuerlöschschiffe, Schwimmbagger, Schwimmkrane und andere Wasserfahrzeuge, bei denen das Fahren im Vergleich zu ihrem Hauptverwendungszweck von untergeordneter Bedeutung ist; Schwimmdocks, schwimmende oder tauchende Bohr- oder Förderplattformen:</td></tr>
@@ -1378,16 +1371,16 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td>Ex 9015.80</td><td>– andere Instrumente, Apparate und Geräte:</td></tr>
 <tr><td></td><td></td><td></td><td>– nur für die Geophysik</td></tr>
 <tr><td></td><td></td><td>9015.90</td><td>– Teile und Zubehör</td></tr>
-<tr><td></td><td>Ex 90.26<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-17]</td><td colspan="2">Instrumente, Apparate und Geräte zum Messen oder Überwachen von Durchfluss, Füllhöhe, Druck oder anderen veränderlichen Grössen von Flüssigkeiten oder Gasen (z.B. Durchflussmesser, Flüssigkeitsstand- oder Gasstandanzeiger, Manometer, Wärmemengenzähler), ausgenommen Instrumente, Apparate und Geräte der Position 90.14, 90.15, 90.28 oder 90.32:</td></tr>
+<tr><td></td><td>Ex 90.26<sup>(\*)</sup>[^annex3-lvlu1-17]</td><td colspan="2">Instrumente, Apparate und Geräte zum Messen oder Überwachen von Durchfluss, Füllhöhe, Druck oder anderen veränderlichen Grössen von Flüssigkeiten oder Gasen (z.B. Durchflussmesser, Flüssigkeitsstand- oder Gasstandanzeiger, Manometer, Wärmemengenzähler), ausgenommen Instrumente, Apparate und Geräte der Position 90.14, 90.15, 90.28 oder 90.32:</td></tr>
 <tr><td></td><td></td><td></td><td>– ausgenommen für die Wasserwirtschaft</td></tr>
 <tr><td></td><td>90.27</td><td colspan="2">Instrumente, Apparate und Geräte für physikalische oder chemische Untersuchungen (z. B. Polarimeter, Refraktometer, Spektrometer und Untersuchungsgeräte für Gase oder Rauch); Instrumente, Apparate und Geräte zum Bestimmen der Viskosität, Porosität, Dilatation, Oberflächenspannung oder dergleichen oder für kalorimetrische, akustische oder photometrische Messungen (einschliesslich Belichtungsmesser); Mikrotome</td></tr>
 <tr><td></td><td>90.28</td><td colspan="2">Gaszähler, Flüssigkeitszähler oder Elektrizitätszähler, einschliesslich Eichzähler dafür</td></tr>
-<tr><td></td><td>Ex 90.29<sup>(</sup><sup>\*)</sup></td><td colspan="2">Andere Zähler (z. B. Tourenzähler, Produktionszähler, Taxameter, Kilometerzähler oder Schrittzähler); Tachometer und andere Geschwindigkeitsmesser, ausgenommen solche der Position 90.14 oder 90.15; Stroboskope:</td></tr>
+<tr><td></td><td>Ex 90.29<sup>(\*)</sup></td><td colspan="2">Andere Zähler (z. B. Tourenzähler, Produktionszähler, Taxameter, Kilometerzähler oder Schrittzähler); Tachometer und andere Geschwindigkeitsmesser, ausgenommen solche der Position 90.14 oder 90.15; Stroboskope:</td></tr>
 <tr><td></td><td></td><td>Ex 9029.10</td><td>– Tourenzähler, Produktionszähler, Taxameter, Kilometerzähler oder Schrittzähler und andere Zähler:</td></tr>
 <tr><td></td><td></td><td></td><td>– Produktionszähler</td></tr>
 <tr><td></td><td></td><td>Ex 9029.90</td><td>– Teile und Zubehör</td></tr>
 <tr><td></td><td></td><td></td><td>– für Produktionszähler</td></tr>
-<tr><td></td><td>Ex 90.30<sup>(</sup><sup>\*)</sup></td><td colspan="2">Oszilloskope, Spektralanalysatoren und andere Instrumente, Apparate und Geräte zum Messen oder Prüfen elektrischer Grössen; Instrumente, Apparate und Geräte zum Messen oder zum Nachweis von Alpha-, Beta-, Gamma-, Röntgenstrahlen, kosmischen oder anderen ionisierenden Strahlen:</td></tr>
+<tr><td></td><td>Ex 90.30<sup>(\*)</sup></td><td colspan="2">Oszilloskope, Spektralanalysatoren und andere Instrumente, Apparate und Geräte zum Messen oder Prüfen elektrischer Grössen; Instrumente, Apparate und Geräte zum Messen oder zum Nachweis von Alpha-, Beta-, Gamma-, Röntgenstrahlen, kosmischen oder anderen ionisierenden Strahlen:</td></tr>
 <tr><td></td><td></td><td>Ex 9030.10</td><td>– Instrumente, Apparate und Geräte zum Messen oder zum Nachweis von ionisierenden Strahlen:</td></tr>
 <tr><td></td><td></td><td></td><td>– für den Energiebereich</td></tr>
 <tr><td></td><td></td><td></td><td>– andere Instrumente, Apparate und Geräte zum Messen oder Prüfen von Spannung, Stromstärke, Widerstand oder Leistung, ohne Registrierungsvorrichtung:</td></tr>
@@ -1400,7 +1393,7 @@ In dieser Anlage bedeutet «Ex», dass die Warenbezeichnung nicht alle Waren der
 <tr><td></td><td></td><td></td><td>– für den Energiebereich</td></tr>
 <tr><td></td><td></td><td>Ex 9030.90</td><td>– Teile und Zubehör:</td></tr>
 <tr><td></td><td></td><td></td><td>– für den Energiebereich</td></tr>
-<tr><td></td><td>90.32<sup>(</sup><sup>\*)</sup>[^annex3-lvlu1-19]</td><td colspan="2">Instrumente, Apparate und Geräte zum Regeln</td></tr>
+<tr><td></td><td>90.32<sup>(\*)</sup>[^annex3-lvlu1-19]</td><td colspan="2">Instrumente, Apparate und Geräte zum Regeln</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: (\*) Ausgenommen für Zivilluftfahrzeuge.
@@ -1729,7 +1722,9 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 <tr><td></td><td>Anhang III</td><td>Zusätzliche Bestimmungen (mit Ausnahme der Absätze 6 und 7)</td></tr>
 </table>
 
-- ix) Übereinkommen über Kontrollen vor dem Versand
+-
+
+  - ix) Übereinkommen über Kontrollen vor dem Versand
 
 - Präambel Absätze 2 und 3
 
@@ -1740,7 +1735,9 @@ Folgende Bestimmungen des WTO-Übereinkommens finden nach Artikel 29 Absatz 2 Bu
 <tr><td></td><td>8.</td><td>Streitbeilegung</td></tr>
 </table>
 
-- x) Übereinkommen über Ursprungsregeln
+-
+
+  - x) Übereinkommen über Ursprungsregeln
 
 - Präambel Absatz 8
 
@@ -2100,35 +2097,17 @@ Es folgt die Liste der Abweichungen von den Übergangsmassnahmen nach Staaten[^a
 
 ## Beschlüsse zum Vertrag über die Energiecharta
 
+[^annex19T-lvlu2-1]
+
+[^annex19T-lvlu2-1]: Bereinigt gemäss Art. 1 Ziff. III der Änd. vom 3. Dez. 2024, in Kraft seit 3. Dez. 2024 ([AS 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
+
 Die Europäische Energiechartakonferenz hat folgende Beschlüsse gefasst:
 
 \1. Zum Vertrag als Ganzes
 
-Im Falle eines Konflikts zwischen dem Vertrag vom 9. Februar 1920 über Spitzbergen (Svalbard-Vertrag)[^annex19T-lvlu2-1] und dem Vertrag über die Energiecharta geht der Vertrag über Spitzbergen – unbeschadet der Haltungen der Vertragsparteien hinsichtlich des Svalbard-Vertrags – im Umfang des Konflikts vor. Im Falle eines derartigen Konflikts oder einer Streitigkeit über das Vorliegen eines Konflikts oder über seinen Umfang finden Artikel 16 und Teil V des Vertrags über die Energiecharta keine Anwendung.
+Im Falle eines Konflikts zwischen dem Vertrag vom 9. Februar 1920 über Spitzbergen (Svalbard-Vertrag)[^annex19T-lvlu2-2] und dem Vertrag über die Energiecharta geht der Vertrag über Spitzbergen – unbeschadet der Haltungen der Vertragsparteien hinsichtlich des Svalbard-Vertrags – im Umfang des Konflikts vor. Im Falle eines derartigen Konflikts oder einer Streitigkeit über das Vorliegen eines Konflikts oder über seinen Umfang finden Artikel 16 und Teil V des Vertrags über die Energiecharta keine Anwendung.
 
-\2. Zu Artikel 10 Absatz 7
-
-Die Russische Föderation kann verlangen, dass Gesellschaften mit Auslandsbeteiligung für das Pachten föderationseigenen Vermögens die gesetzliche Genehmigung einholen; die Russische Föderation muss jedoch ohne Ausnahme sicherstellen, dass dieses Verfahren nicht derart angewandt wird, dass bei den Investitionen von Investoren anderer Vertragsparteien eine Diskriminierung entsteht.
-
-\3. Zu Artikel 14
-
-(1) Der Ausdruck «Freiheit des Transfers» in Artikel 14 Absatz 1 hindert eine Vertragspartei (im Folgenden als «einschränkende Partei» bezeichnet) nicht daran, Einschränkungen auf den Kapitalverkehr ihrer eigenen Investoren zu verhängen; allerdings
-
-- a) dürfen derartige Einschränkungen nicht die nach Artikel 14 Absatz 1 den Investoren anderer Vertragsparteien gewährten Rechte bezüglich ihrer Investitionen beeinträchtigen;
-- b) dürfen derartige Einschränkungen nicht die laufenden Transaktionen beeinträchtigen und
-- c) muss die Vertragspartei dafür sorgen, dass Investitionen in ihrem Gebiet, die von Investoren aller anderen Vertragsparteien vorgenommen werden, im Hinblick auf Transfers eine nicht weniger günstige Behandlung erfahren als Investitionen von Investoren einer anderen Vertragspartei oder eines dritten Staates, je nachdem, welche Behandlung die günstigste ist.
-
-(2) Dieser Beschluss bedarf fünf Jahre nach Inkrafttreten des Vertrags, spätestens jedoch zu dem in Artikel 32 Absatz 3 vorgesehenen Zeitpunkt, der Überprüfung durch die Chartakonferenz.
-
-(3) Keine Vertragspartei ist berechtigt, derartige Einschränkungen zu verhängen, es sei denn, die Vertragspartei ist ein Staat, der zu der ehemaligen Union der Sozialistischen Sowjetrepubliken gehörte, und sie hat spätestens bis zum 1. Juli 1995 dem vorläufigen Sekretariat schriftlich notifiziert, dass sie berechtigt zu werden wünscht, Einschränkungen im Sinne dieses Beschlusses zu verhängen.
-
-(4) Um jeden Zweifel auszuräumen: Dieser Beschluss schmälert hinsichtlich des Artikels 16 nicht die hierin festgelegten Rechte einer Vertragspartei, ihrer Investoren oder ihrer Investitionen oder die Pflichten einer Vertragspartei.
-
-(5) Im Sinne dieses Beschlusses sind «laufende Transaktionen» laufende Zahlungen im Zusammenhang mit der Verbringung von Gütern, Dienstleistungen oder Personen, wie sie üblicher internationaler Gepflogenheit entsprechen; ausgenommen sind Abmachungen, die faktisch eine Kombination aus einer laufenden Zahlung und einer Kapitaltransaktion darstellen, wie etwa Zahlungsaufschübe und Vorschusszahlungen, mit denen die einschlägigen Rechtsvorschriften der einschränkenden Partei umgangen werden sollen.
-
-\4. Zu Artikel 14 Absatz 2
-
-Ungeachtet der Forderungen in Artikel 14 und seiner sonstigen internationalen Verpflichtungen bemüht sich Rumänien während des Übergangs seiner nationalen Währung zu voller Konvertierbarkeit um geeignete Massnahmen, um die Wirksamkeit seiner Verfahren zum Transfer von Investitionserträgen zu verbessern und in jedem Fall derartige Transfers in einer frei konvertierbaren Währung ohne Einschränkung oder mehr als sechsmonatige Verzögerung zu gewährleisten. Rumänien stellt sicher, dass Investitionen in seinem Gebiet von Investoren aller anderen Vertragsparteien hinsichtlich Transfers eine Behandlung erfahren, die nicht weniger günstig ist als diejenige, die es Investitionen von Investoren einer anderen Vertragspartei oder eines dritten Staates gewährt, je nachdem, welche Behandlung die günstigste ist.
+2.–4. …
 
 \5. Zu Artikel 24 Absatz 4 Buchstabe a und Artikel 25
 
@@ -2137,9 +2116,13 @@ Eine Investition eines Investors nach Artikel 1 Nummer 7 Buchstabe a Ziffer ii e
 - a) ihren eingetragenen Geschäftssitz, ihre Zentralverwaltung oder ihren Hauptgeschäftssitz im Gebiet einer Vertragspartei der betreffenden EIA oder eines Mitglieds der betreffenden Freihandelszone oder Zollunion hat oder,
 - b) falls sie nur ihren eingetragenen Geschäftssitz in dem betreffenden Gebiet hat, eine tatsächliche und dauerhafte Verbindung zu der Wirtschaft einer der Vertragsparteien der betreffenden EIA oder dem Mitglied der betreffenden Freihandelszone oder Zollunion hat.
 
-[^annex19T-lvlu2-1]: [SR 0.142.115.981](https://fedlex.data.admin.ch/eli/cc/41/464_470_450)
+[^annex19T-lvlu2-2]: [SR 0.142.115.981](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/348)
 
 ## Schlussakte der Europäischen Energiechartakonferenz
+
+[^annex19T-lvlu3-1]
+
+[^annex19T-lvlu3-1]: Bereinigt gemäss Art. 1 Ziff. I 1 und 3, Ziff. II 1–7 und IV der Änd. vom 3. Dez. 2024, in Kraft seit 3. Dez. 2024 ([AS 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
 
 I. Die abschliessende Plenarsitzung der Europäischen Energiechartakonferenz fand vom 16. bis 17. Dezember 1994 in Lissabon statt. Teilnehmer an der Konferenz waren die Vertreter der Republik Albanien, der Republik Armenien, Australiens, der Republik Österreich, der Aserbaidschanischen Republik, des Königreichs Belgien, der Republik Belarus, der Republik Bulgarien, Kanadas, der Republik Kroatien, der Republik Zypern, der Tschechischen Republik, des Königreichs Dänemark, der Republik Estland, der Europäischen Gemeinschaften, der Republik Finnland, der Französischen Republik, der Republik Georgien, der Bundesrepublik Deutschland, der Griechischen Republik, der Republik Ungarn, der Republik Island, Irlands, der Italienischen Republik, Japans, der Republik Kasachstan, der Kirgisischen Republik, der Republik Lettland, des Fürstentums Liechtenstein, der Republik Litauen, des Grossherzogtums Luxemburg, der Republik Malta, der Republik Moldau, des Königreichs der Niederlande, des Königreichs Norwegen, der Republik Polen, der Portugiesischen Republik, Rumäniens, der Russischen Föderation, der Slowakischen Republik, der Republik Slowenien, des Königreichs Spanien, des Königreichs Schweden, der Schweizerischen Eidgenossenschaft, der Republik Tadschikistan, der Republik Türkei, Turkmenistans, der Ukraine, des Vereinigten Königreichs Grossbritannien und Nordirland, der Vereinigten Staaten von Amerika und der Republik Usbekistan (im folgenden als «Vertreter» bezeichnet); ferner nahmen eingeladene Beobachter aus verschiedenen Ländern sowie von internationalen Organisationen teil.
 
@@ -2189,7 +2172,7 @@ IV. Mit der Unterzeichnung der Schlussakte einigten sich die Vertreter darauf, d
   - iv) Beseitigung und Endlagerung von Abfällen aus energietechnischen Einrichtungen wie Kraftwerken, einschliesslich radioaktiver Abfälle aus Kernkraftwerken;
   - v) Stilllegung energietechnischer Einrichtungen einschliesslich Bohrplattformen, Ölraffinerien und Kraftwerken;
   - vi) Vermarktung und Verkauf von Primärenergieträgern und Energieerzeugnissen sowie Handel damit, beispielsweise Benzinverkauf an Endverbraucher;
-  - vii) Forschungs-, Beratungs-, Planungs-, Geschäftsführungs- und Entwicklungsarbeiten im Zusammenhang mit den genannten Tätigkeiten, einschliesslich solcher zur Verbesserung der Energieeffizienz.
+  - vii) Forschungs-, Beratungs-, Planungs-, Geschäftsführungs- und Entwicklungsarbeiten im Zusammenhang mit den genannten Tätigkeiten, einschliesslich solcher zur Verbesserung der Energieeffizienz gemäss Artikel 19 Absatz 7[^annex19T-lvlu3-lvlu3-1] Buchstabe c.
 
 \3. Zu Artikel 1 Nummer 6
 
@@ -2205,9 +2188,7 @@ Bestehen Zweifel, ob ein Investor eine Investition unmittelbar oder mittelbar ko
 
 Im Einklang mit der australischen Politik der Auslandsinvestitionen gilt die Errichtung eines neuen Bergbau- oder Rohstoffverarbeitungsbetriebs in Australien mit einer Gesamtinvestition von 10 Mio. AUD oder mehr durch einen ausländischen Investor als Vornahme einer neuen Investition, auch wenn der betreffende Investor bereits ein ähnliches Unternehmen in Australien betreibt.
 
-\5. Zu Artikel 1 Nummer 12
-
-Die Vertreter erkennen an, dass ein angemessener und wirksamer Schutz der Rechte des geistigen Eigentums nach höchsten international anerkannten Normen notwendig ist.
+\5. …
 
 \6. Zu Artikel 5 Absatz 1
 
@@ -2281,60 +2262,43 @@ Die technischen Änderungen der Anlagen könnten zum Beispiel die Streichung von
 - a) Haben einige Vertragsparteien einer in Absatz 1 genannten Übereinkunft den Vertrag nicht innerhalb der für die Notifikation vorgeschriebenen Frist unterzeichnet oder sind sie ihm nicht entsprechend beigetreten, so können diejenigen Vertragsparteien der Übereinkunft, die den Vertrag unterzeichnet haben oder ihm beigetreten sind, in ihrem Namen notifizieren.
 - b) Die Notwendigkeit, Übereinkünfte rein kommerziellen Charakters generell zu notifizieren, wird nicht ins Auge gefasst, weil derartige Übereinkünfte nicht die Frage der Einhaltung des Artikels 29 Absatz 2 Buchstabe a aufwerfen dürften, selbst wenn sie von staatlichen Stellen geschlossen werden. Die Chartakonferenz könnte indessen für Zwecke der Anlage TFU klären, welche Arten von Übereinkünften nach Artikel 29 Absatz 2 Buchstabe b notifiziert werden müssen und welche nicht.
 
+[^annex19T-lvlu3-lvlu3-1]: Aktuell: Art. 19 Abs. 3 Bst. c
+
 ### Erklärungen
 
 V. Die Vertreter erklärten, dass Artikel 18 Absatz 2 nicht so auszulegen ist, als sei es erlaubt, die Anwendung der anderen Bestimmungen des Vertrags zu umgehen.
 
 VI. Die Vertreter nahmen von folgenden Erklärungen Kenntnis, die zum Vertrag abgegeben wurden:
 
-\1. Zu Artikel 1 Nummer 6
+\1. Zu Artikel 7
 
-- Die Russische Föderation wünscht, dass in den Verhandlungen über den in Artikel 10 Absatz 4 genannten Zusatzvertrag die Frage der Bedeutung nationaler Rechtsvorschriften in Bezug auf die Kontrolle, wie in der Klarstellung zu Artikel 1 Absatz 6 ausgedrückt, erneut überdacht wird.
-
-\2. Zu Artikel 5 und Artikel 10 Absatz 11
-
-- Australien merkt an, dass Artikel 5 und Artikel 10 Absatz 11 seine Rechte und Pflichten aus dem GATT nicht beeinträchtigen; dazu gehören auch jene, wie sie in den Übereinkommen der Uruguay-Runde über handelsbezogene Investitionsmassnahmen erarbeitet wurden, insbesondere im Hinblick auf die Liste der Ausnahmen nach Artikel 5 Absatz 3, die es als nicht vollständig ansieht.
-- Australien merkt ferner an, dass es nicht angemessen wäre, wenn aufgrund des Vertrags geschaffene Streitbeilegungsorgane im Rahmen von Streitigkeiten zwischen Vertragsparteien des GATT oder zwischen einem Investor einer Vertragspartei des GATT und einer anderen Vertragspartei des GATT Auslegungen der Artikel III und XI des GATT vornehmen würden. Es ist der Ansicht, dass hinsichtlich der Anwendung des Artikels 10 Absatz 11 in einer Streitigkeit zwischen einem Investor und einer Vertragspartei des GATT die einzige nach Artikel 26 zu behandelnde Angelegenheit der Erlass von Schiedssprüchen in dem Fall ist, dass ein GATT-Schiedsgericht oder das WTO-Streitbeilegungsorgan zuerst entschieden hat, dass eine von der Vertragspartei beibehaltene handelsbezogene Investitionsmassnahme mit ihren Pflichten aus dem GATT oder dem Übereinkommen über handelsbezogene Investitionsmassnahmen unvereinbar ist.
-
-\3. Zu Artikel 7
-
-- Die Europäischen Gemeinschaften und ihre Mitgliedstaaten sowie Österreich, Norwegen, Schweden und Finnland erklären, dass die Bestimmungen des Artikels 7 den herkömmlichen Regeln des Völkerrechts betreffend die Hoheitsgewalt über unterseeische Kabel und Rohrleitungen oder, soweit solche Regeln nicht vorhanden sind, dem allgemeinen Völkerrecht unterliegen.
+- Die Europäische Union, die Europäische Atomgemeinschaft, ihre Mitgliedstaaten sowie Norwegen erklären, dass die Bestimmungen des Artikels 7 den herkömmlichen Regeln des Völkerrechts betreffend die Hoheitsgewalt über unterseeische Kabel und Rohrleitungen oder, soweit solche Regeln nicht vorhanden sind, dem allgemeinen Völkerrecht unterliegen.
 - Sie erklären ferner, dass Artikel 7 nicht die Auslegung des bestehenden Völkerrechts betreffend die Hoheitsgewalt über unterseeische Kabel und Rohrleitungen berühren soll und auch nicht so betrachtet werden kann.
 
-\4. Zu Artikel 10
+\2. Zu Artikel 25
 
-- Kanada und die Vereinigten Staaten bekräftigen, dass sie Artikel 10 im Einklang mit folgenden Überlegungen anwenden werden:
-- Für die Zwecke der Abschätzung der Behandlung, die Investoren anderer Vertragsparteien und ihren Investitionen gewährt werden muss, werden die jeweiligen Umstände von Fall zu Fall zu berücksichtigen sein. Ein Vergleich zwischen der Behandlung, die Investoren einer Vertragspartei oder deren Investitionen gewährt wird, und den Investitionen oder Investoren einer anderen Vertragspartei ist nur stichhaltig, wenn er zwischen Investoren und Investitionen unter ähnlichen Umständen gezogen wird. Bei der Feststellung, ob unterschiedliche Behandlung von Investoren oder Investitionen mit Artikel 10 vereinbar ist, müssen zwei grundlegende Faktoren berücksichtigt werden:
-- Der erste Faktor sind die politischen Ziele der Vertragsparteien auf verschiedenen Gebieten, soweit sie mit den Grundsätzen der Nichtdiskriminierung in Artikel 10 vereinbar sind. Rechtmässige politische Ziele können die unterschiedliche Behandlung ausländischer Investoren oder ihrer Investitionen rechtfertigen, um die Verschiedenartigkeit der betreffenden Umstände zwischen jenen Investoren und Investitionen und den inländischen Investoren und Investitionen deutlich zu machen. Zum Beispiel das Ziel der Sicherung der Integrität des Finanzsystems eines Landes würde vernünftige, besonnene Massnahmen gegenüber ausländischen Investoren oder Investitionen rechtfertigen, wo derartige Massnahmen unnötig wären, um dieselben Ziele zu erreichen, wenn es um heimische Investoren oder Investitionen geht. Die ausländischen Investoren oder ihre Investitionen befänden sich also nicht unter «ähnlichen Umständen» wie die inländischen. Somit bedeutete eine derartige Massnahme zwar unterschiedliche Behandlung, stünde aber doch Artikel 10 nicht entgegen.
-- Der zweite Faktor ist das Ausmass, in dem die Massnahme durch den Umstand begründet ist, dass der betreffende Investor oder seine Investition sich in ausländischem Eigentum befindet oder unter ausländischer Kontrolle steht. Eine Massnahme, die besonders auf Investoren zugeschnitten ist, weil sie Ausländer sind, ohne ausreichendes Gegengewicht aus politischen Gründen im Sinne des vorstehenden Absatzes, verstösst gegen die Grundsätze des Artikels 10. Der ausländische Investor oder seine Investition befände sich «unter ähnlichen Umständen» wie die inländischen Investoren und ihre Investitionen, und die Massnahme stünde somit Artikel 10 entgegen.
+-
 
-\5. Zu Artikel 25
+  Die Europäische Union, die Europäische Atomgemeinschaft und ihre Mitgliedstaaten erinnern daran, dass nach Artikel 54 des Vertrags über die Arbeitsweise der Europäischen Union:
 
-- Die Europäischen Gemeinschaften und ihre Mitgliedstaaten erinnern daran, dass nach Artikel 58 des Vertrags zur Gründung der Europäischen Gemeinschaft
-  - a) die nach den Rechtsvorschriften eines Mitgliedstaats gegründeten Gesellschaften oder Firmen, die ihren satzungsmässigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung innerhalb der Gemeinschaft haben, entsprechend dem Dritten Teil Titel III Kapitel 2 des Vertrags zur Gründung der Europäischen Gemeinschaft hinsichtlich ihres Niederlassungsrechts den natürlichen Personen gleichstehen, die Angehörige von Mitgliedstaaten sind; Gesellschaften oder Firmen, die nur ihren satzungsmässigen Sitz in der Gemeinschaft haben, müssen zu diesem Zweck eine tatsächliche und dauerhafte Verbindung zu der Wirtschaft eines der Mitgliedstaaten aufweisen;
-  - b) als «Gesellschaften und Firmen» die Gesellschaften und Firmen des bürgerlichen Rechts und des Handelsrechts gelten, einschliesslich der Genossenschaften, und die sonstigen juristischen Personen des öffentlichen und privaten Rechts mit Ausnahme derjenigen, die keinen Erwerbszweck verfolgen.
+  - a) die nach den Rechtsvorschriften eines Mitgliedstaats gegründeten Gesellschaften oder Firmen, die ihren satzungsmässigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung innerhalb der Europäische Union haben, entsprechend dem Dritten Teil Titel IV Kapitel 2 des Vertrags über die Arbeitsweise der Europäischen Union hinsichtlich ihres Niederlassungsrechts den natürlichen Personen gleichstehen, die Angehörige von Mitgliedstaaten sind; Gesellschaften oder Firmen, die nur ihren satzungsmässigen Sitz in der Europäische Union haben, müssen zu diesem Zweck eine tatsächliche und dauerhafte Verbindung zu der Wirtschaft eines der Mitgliedstaaten aufweisen;
+  - b) als «Gesellschaften oder Firmen» die Gesellschaften und Firmen des bürgerlichen Rechts und des Handelsrechts gelten, einschliesslich der Genossenschaften, und die sonstigen juristischen Personen des öffentlichen und privaten Rechts mit Ausnahme derjenigen, die keinen Erwerbszweck verfolgen.
 
-- Die Europäischen Gemeinschaften und ihre Mitgliedstaaten erinnern ferner an folgendes:
-- Das Gemeinschaftsrecht bietet die Möglichkeit, die beschriebene Behandlung auf Zweigniederlassungen und Agenturen von Gesellschaften und Firmen auszudehnen, die nicht in einem der Mitgliedstaaten gegründet sind; die Anwendung des Artikels 25 des Vertrags über die Energiecharta erlaubt nur die Abweichungen, die zur Wahrung der Vorzugsbehandlung als Ergebnis des weiteren Prozesses der Wirtschaftsintegration notwendig sind, welche sich aus den Verträgen über die Europäischen Gemeinschaften ergibt.
+- Die Europäische Union, die Europäische Atomgemeinschaft und ihre Mitgliedstaaten erinnern ferner an folgendes:
+- Das Unionsrecht bietet die Möglichkeit, die beschriebene Behandlung auf Zweigniederlassungen und Agenturen von Gesellschaften und Firmen auszudehnen, die nicht in einem der Mitgliedstaaten gegründet sind; die Anwendung des Artikels 25 des Vertrags über die Energiecharta erlaubt nur die Abweichungen, die zur Wahrung der Vorzugsbehandlung als Ergebnis des weiteren Prozesses der Wirtschaftsintegration notwendig sind, welche sich aus den Verträgen über die Europäische Union ergibt.
 
-\6. Zu Artikel 40
+\3. Zu Artikel 40
 
 - Dänemark erinnert daran, dass die Europäische Energiecharta für Grönland und die Färöer so lange nicht gilt, bis eine diesbezügliche Erklärung seitens der örtlichen Regierungen Grönlands und der Färöer vorliegt.
 - In dieser Hinsicht bestätigt Dänemark, dass Artikel 40 des Vertrags auf Grönland und die Färöer Anwendung findet.
 
-\7. Zu Anlage G Absatz 4
+\4. Zu Anlage W Absatz 4
 
-- a) Die Europäischen Gemeinschaften und die Russische Föderation erklären, dass der Handel mit Kernmaterial zwischen ihnen bis zum Abschluss einer anderen Übereinkunft durch Artikel 22 des am 24. Juni 1994 in Korfu unterzeichneten Abkommens über Partnerschaft und Zusammenarbeit zur Gründung einer Partnerschaft zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten einerseits und der Russischen Föderation andererseits, den ihm beigefügten Briefwechsel und die diesbezügliche gemeinsame Erklärung geregelt wird, und dass Streitigkeiten über diesen Handel den Verfahren des genannten Abkommens unterliegen.
-- b) Die Europäischen Gemeinschaften und die Ukraine erklären, dass im Einklang mit dem am 14. Juni 1994 in Luxemburg unterzeichneten Partnerschafts- und Kooperationsabkommen und dem am gleichen Tag paraphierten Interimsabkommen der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen eines spezifischen Abkommens, das zwischen der Europäischen Atomgemeinschaft und der Ukraine abzuschliessen ist, geregelt wird.
-- Bis zum Inkrafttreten dieses spezifischen Abkommens gelten für den Handel mit Kernmaterial zwischen ihnen ausschliesslich die Bestimmungen des am 18. Dezember 1989 in Brüssel unterzeichneten Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft und der Union der Sozialistischen Sowjetrepubliken über den Handel und die handelspolitische und wirtschaftliche Zusammenarbeit weiter.
-- c) Die Europäischen Gemeinschaften und Kasachstan erklären, dass im Einklang mit dem am 20. Mai 1994 in Brüssel paraphierten Partnerschafts- und Kooperationsabkommen der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen eines spezifischen Abkommens, das zwischen der Europäischen Atomgemeinschaft und Kasachstan abzuschliessen ist, geregelt wird.
-- Bis zum Inkrafttreten dieses spezifischen Abkommens gelten für den Handel mit Kernmaterial zwischen ihnen ausschliesslich die Bestimmungen des am 18. Dezember 1989 in Brüssel unterzeichneten Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft und der Union der Sozialistischen Sowjetrepubliken über den Handel und die handelspolitische und wirtschaftliche Zusammenarbeit weiter.
-- d) Die Europäischen Gemeinschaften und Kirgisistan erklären, dass im Einklang mit dem am 31. Mai 1994 in Brüssel paraphierten Partnerschafts- und Kooperationsabkommen der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen eines spezifischen Abkommens, das zwischen der Europäischen Atomgemeinschaft und Kirgisistan abzuschliessen ist, geregelt wird.
-- Bis zum Inkrafttreten dieses spezifischen Abkommens gelten für den Handel mit Kernmaterial zwischen ihnen ausschliesslich die Bestimmungen des am 18. Dezember 1989 in Brüssel unterzeichneten Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft und der Union der Sozialistischen Sowjetrepubliken über den Handel und die handelspolitische und wirtschaftliche Zusammenarbeit weiter.
-- e) Die Europäischen Gemeinschaften und Tadschikistan erklären, dass der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen eines spezifischen Abkommens, das zwischen der Europäischen Atomgemeinschaft und Tadschikistan abzuschliessen ist, geregelt wird.
-- Bis zum Inkrafttreten dieses spezifischen Abkommens gelten für den Handel mit Kernmaterial zwischen ihnen ausschliesslich die Bestimmungen des am 18. Dezember 1989 in Brüssel unterzeichneten Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft und der Union der Sozialistischen Sowjetrepubliken über den Handel und die handelspolitische und wirtschaftliche Zusammenarbeit weiter.
-- f) Die Europäischen Gemeinschaften und Usbekistan erklären, dass der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen eines spezifischen Abkommens, das zwischen der Europäischen Atomgemeinschaft und Usbekistan abzuschliessen ist, geregelt wird.
-- Bis zum Inkrafttreten dieses spezifischen Abkommens gelten für den Handel mit Kernmaterial zwischen ihnen ausschliesslich die Bestimmungen des am 18. Dezember 1989 in Brüssel unterzeichneten Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft und der Union der Sozialistischen Sowjetrepubliken über den Handel und die handelspolitische und wirtschaftliche Zusammenarbeit weiter.
+- a) Die Europäische Atomgemeinschaft (Euratom) und die Ukraine erklären, dass im Einklang mit dem am 14. Juni 1994 in Luxemburg unterzeichneten Partnerschafts- und Kooperationsabkommen und dem am gleichen Tag paraphierten Interimsabkommen der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen des Kooperationsabkommens im Bereich der friedliche Nutzung der Kernenergie zwischen der Euratom und dem Ministerkabinett der Ukraine geregelt wird.
+- b) Der Euratom und Kasachstan erklären, dass im Einklang mit dem am 20. Mai 1994 in Brüssel paraphierten Partnerschafts- und Kooperationsabkommen der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen des Kooperationsabkommens im Bereich der friedliche Nutzung der Kernenergie zwischen der Euratom und die Regierung der Republik von Kasachstan geregelt wird.
+- c) Der Euratom und Kirgisistan erklären, dass im Einklang mit dem am 31. Mai 1994 in Brüssel paraphierten Partnerschafts- und Kooperationsabkommen der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen eines spezifischen Abkommens, das zwischen der Europäischen Atomgemeinschaft und Kirgisistan abzuschliessen ist, geregelt wird. Bis zum Inkrafttreten dieses spezifischen Abkommens gelten für den Handel mit Kernmaterial zwischen ihnen ausschliesslich die Bestimmungen des am 18. Dezember 1989 in Brüssel unterzeichneten Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft und der Union der Sozialistischen Sowjetrepubliken über den Handel und die handelspolitische und wirtschaftliche Zusammenarbeit weiter.
+- d) Der Euratom und Tadschikistan erklären, dass der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen eines spezifischen Abkommens, das zwischen der Europäischen Atomgemeinschaft und Tadschikistan abzuschliessen ist, geregelt wird. Bis zum Inkrafttreten dieses spezifischen Abkommens gelten für den Handel mit Kernmaterial zwischen ihnen ausschliesslich die Bestimmungen des am 18. Dezember 1989 in Brüssel unterzeichneten Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft und der Union der Sozialistischen Sowjetrepubliken über den Handel und die handelspolitische und wirtschaftliche Zusammenarbeit weiter.
+- e) Der Euratom und Usbekistan erklären, dass der Handel mit Kernmaterial zwischen ihnen ausschliesslich durch die Bestimmungen des Kooperationsabkommens im Bereich der friedliche Nutzung der Kernenergie zwischen der Euratom und die Regierung der Republik von Usbekistan geregelt wird.
 
 ### Das Energiechartaprotokoll über Energieeffizienz und damit verbundene Umweltaspekte
 
@@ -2342,7 +2306,7 @@ VII. Die Europäische Energiechartakonferenz hat den Wortlaut des Energiechartap
 
 ### Die Europäische Energiecharta
 
-VIII. Die vorläufige Chartakonferenz und die Chartakonferenz, die im Vertrag vorgesehen sind, sind künftig dafür verantwortlich, Beschlüsse über Anträge auf Unterzeichnung des Abschlussdokuments der Haager Konferenz über die Europäische Energiecharta und die damit verabschiedete Europäische Energiecharta zu fassen.
+VIII. Die Chartakonferenz, die im Vertrag vorgesehen sind, sind künftig dafür verantwortlich, Beschlüsse über Anträge auf Unterzeichnung des Abschlussdokuments der Haager Konferenz über die Europäische Energiecharta und die damit verabschiedete Europäische Energiecharta sowie des Abschlussdokuments der Ministerkonferenz («Den Haag II») über die internationale Energiecharta und die damit verabschiedete internationale Energiecharta zu fassen.
 
 ### Dokumentation
 
@@ -2352,11 +2316,11 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 (Es folgen die Unterschriften)
 
-### Vorläufige Anwendung
+## Vorläufige Anwendung
 
-[^annex19T-lvlu3-lvlu8-1]
+[^annex19T-lvlu4-1]
 
-[^annex19T-lvlu3-lvlu8-1]: Eingefügt durch Art. 6 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu4-1]: Eingefügt durch Art. 6 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (1) Die Unterzeichner, die nach Artikel 45 Absatz 1 den Vertrag über die Energiecharta vorläufig anwenden, und die Vertragsparteien sind damit einverstanden, diese Änderung bis zu ihrem Inkrafttreten für diese Unterzeichner und Vertragsparteien vorläufig anzuwenden, soweit der vorläufigen Anwendung nicht ihre Verfassung, Gesetze oder sonstige Vorschriften entgegenstehen
 
@@ -2369,19 +2333,15 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 (3) Die Unterzeichner und Vertragsparteien können die vorläufige Anwendung dieser Änderung durch eine schriftliche Notifikation an den Verwahrer beenden, in der sie ihre Absicht bekunden, diese Änderung nicht zu ratifizieren, anzunehmen oder zu genehmigen. Die Beendigung der vorläufigen Anwendung wird für die betreffenden Unterzeichner und Vertragsparteien 60 Tage nach Eingang ihrer schriftlichen Notifikation beim Verwahrer wirksam. Die Beendigung der vorläufigen Anwendung des Vertrags über die Energiecharta nach Artikel 45 Absatz 3 Buchstabe a durch einen Unterzeichner gilt mit Wirkung vom gleichen Tag auch als Beendigung der vorläufigen Anwendung dieser Änderung.
 
-### Status der Beschlüsse
+## Status der Beschlüsse
 
-[^annex19T-lvlu3-lvlu9-1]
+[^annex19T-lvlu5-1]
 
-[^annex19T-lvlu3-lvlu9-1]: Eingefügt durch Art. 7 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu5-1]: Eingefügt durch Art. 7 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 Die im Zusammenhang mit der Annahme dieser Änderung angenommenen Beschlüsse sind Bestandteil des Vertrags über die Energiecharta.
 
-### Geltungsbereich am 11. April 2024
-
-[^annex19T-lvlu3-lvlu10-1]
-
-[^annex19T-lvlu3-lvlu10-1]: [AS 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+Geltungsbereich am 11. April 2024[^t-22]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2434,3 +2394,5 @@ Die im Zusammenhang mit der Annahme dieser Änderung angenommenen Beschlüsse si
 <tr><td>[tab] Jersey</td><td>16. Dezember</td><td>1997</td><td>16. April</td><td>1998</td></tr>
 <tr><td>Zypern</td><td>16. Januar</td><td>1998</td><td>16. April</td><td>1998</td></tr>
 </table>
+
+[^t-22]: [AS 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

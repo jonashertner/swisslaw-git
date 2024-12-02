@@ -3,24 +3,24 @@ sr: "0.730.0"
 title: "Traité du 17 décembre 1994 sur la Charte de l'énergie (avec annexes, décisions et acte final)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: fr
-version: 2024-04-11
+version: 2024-12-03
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20240411/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20240411-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20240411/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20241203/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20241203-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20241203/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Traité sur la Charte de l’énergie
 
-RO **1998** 2734
+RO **1998** 2734; FF **1995** III 873
 
 Texte original
 
 Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale le 14 décembre 1995[^t-1] Instrument de ratification déposé par la Suisse le 19 septembre 1996 Entré en vigueur pour la Suisse le 16 avril 1998
 
-(État le 11 avril 2024)
+(État le 3 décembre 2024)
 
 [^t-1]: [RO 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -28,31 +28,31 @@ Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale 
 
 Les parties contractantes au présent traité,
 
-considérant la Charte de Paris pour une nouvelle Europe, signée le 21 novembre 1990;
+considérant la Charte de Paris pour une nouvelle Europe, signée le 21 novembre 1990,
 
-considérant la Charte européenne de l’énergie adoptée par le moyen du document de clôture de la Conférence de La Haye sur la Charte européenne de l’énergie, signé à La Haye le 17 décembre 1991;
+considérant la Charte européenne de l’énergie adoptée par le moyen du document de clôture de la Conférence de La Haye sur la Charte européenne de l’énergie, signé à La Haye le 17 décembre 1991,
 
-rappelant que toutes les parties signataires du document de clôture de la Conférence de La Haye se sont engagées à poursuivre les objectifs et à respecter les principes de la Charte européenne de l’énergie ainsi qu’à mettre en œuvre et à élargir leur coopération, le plus rapidement possible, en négociant de bonne foi un traité et des protocoles sur la Charte de l’énergie, et désireuses de donner aux engagements contenus dans cette charte une base juridique internationale sûre et contraignante;
+rappelant que toutes les parties signataires du document de clôture de la Conférence de La Haye se sont engagées à poursuivre les objectifs et à respecter les principes de la Charte européenne de l’énergie ainsi qu’à mettre en œuvre et à élargir leur coopération, le plus rapidement possible, en négociant de bonne foi un traité et des protocoles sur la Charte de l’énergie, et désireuses de donner aux engagements contenus dans cette charte une base juridique internationale sûre et contraignante,
 
-désireuses également d’établir le cadre structurel nécessaire à la mise en œuvre des principes énoncés dans la Charte européenne de l’énergie;
+désireuses également d’établir le cadre structurel nécessaire à la mise en œuvre des principes énoncés dans la Charte européenne de l’énergie,
 
-souhaitant mettre en œuvre le concept de base de l’initiative de la Charte européenne de l’énergie, qui est de catalyser la croissance économique par des mesures destinées à libéraliser les investissements et les échanges en matière d’énergie;
+souhaitant mettre en œuvre le concept de base de l’initiative de la Charte européenne de l’énergie, qui est de catalyser la croissance économique par des mesures destinées à libéraliser les investissements et les échanges en matière d’énergie,
 
-affirmant que les parties contractantes attachent la plus grande importance à l’application effective et complète du traitement national et du traitement de la nation la plus favorisée et que ces engagements seront appliqués à la réalisation des investissements conformément à un traité complémentaire;
+affirmant que les parties contractantes attachent la plus grande importance à l’application effective et complète du traitement national et du traitement de la nation la plus favorisée et que ces engagements seront appliqués à la réalisation des investissements conformément à un traité complémentaire,
 
-considérant l’objectif de libéralisation progressive des échanges internationaux et le principe de non-discrimination dans les échanges internationaux tels qu’énoncés dans l’accord instituant l'Organisation mondiale du commerce[^ingress-1] et tels que prévus par ailleurs dans le présent traité;
+considérant l’objectif de libéralisation progressive des échanges internationaux et le principe de non-discrimination dans les échanges internationaux tels qu’énoncés dans l’accord instituant l’Organisation mondiale du commerce[^ingress-1] et tels que prévus par ailleurs dans le présent traité,
 
-déterminées à éliminer progressivement les obstacles techniques, administratifs et autres au commerce de matières et de produits énergétiques et des équipements liés à l'énergie[^ingress-2];
+déterminées à éliminer progressivement les obstacles techniques, administratifs et autres au commerce de matières et de produits énergétiques et des équipements liés à l’énergie[^ingress-2],
 
-envisageant l’adhésion future à l’Organisation mondiale du commerce des parties contractantes qui n'en sont actuellement pas membres[^ingress-3], et soucieuses de prévoir un régime commercial transitoire qui aide ces parties contractantes et n’entrave pas leur préparation à cette adhésion;
+envisageant l’adhésion future à l’Organisation mondiale du commerce des parties contractantes qui n’en sont actuellement pas membres[^ingress-3], et soucieuses de prévoir un régime commercial transitoire qui aide ces parties contractantes et n’entrave pas leur préparation à cette adhésion,
 
-conscientes des droits et obligations de certaines parties contractantes qui sont également membres de l'Organisation mondiale du commerce[^ingress-4];
+conscientes des droits et obligations de certaines parties contractantes qui sont également membres de l’Organisation mondiale du commerce[^ingress-4],
 
-considérant les règles de concurrence concernant les fusions, les monopoles, les pratiques contraires à la concurrence et l’abus de position dominante;
+considérant les règles de concurrence concernant les fusions, les monopoles, les pratiques contraires à la concurrence et l’abus de position dominante,
 
-considérant également le Traité sur la non-prolifération des armes nucléaires[^ingress-5], les directives applicables à l’exportation de matières, d’équipements et de technologies nucléaires et les autres obligations ou clauses interprétatives relatives à la non-prolifération internationale en matière de nucléaire;
+considérant également le Traité sur la non-prolifération des armes nucléaires[^ingress-5], les directives applicables à l’exportation de matières, d’équipements et de technologies nucléaires et les autres obligations ou clauses interprétatives relatives à la non-prolifération internationale en matière de nucléaire,
 
-reconnaissant la nécessité d’accroître au maximum l’efficacité de l’exploration, de la production, de la conversion, du stockage, du transport, de la distribution et de l’utilisation de l’énergie;
+reconnaissant la nécessité d’accroître au maximum l’efficacité de l’exploration, de la production, de la conversion, du stockage, du transport, de la distribution et de l’utilisation de l’énergie,
 
 rappelant la Convention-cadre des Nations Unies sur les changements climatiques[^ingress-6], la Convention sur la pollution atmosphérique transfrontière à longue distance[^ingress-7] et ses protocoles, ainsi que d’autres accords internationaux en matière d’environnement comportant des aspects liés à l’énergie, et
 
@@ -64,9 +64,9 @@ sont convenus de ce qui suit:
 [^ingress-2]: Nouvelle expression selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-3]: Nouvelles expressions selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-4]: Nouvelle expression selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-5]: [RS 0.515.03](https://fedlex.data.admin.ch/eli/cc/1977/472_472_472)
-[^ingress-6]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^ingress-7]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^ingress-5]: [RS 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^ingress-6]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-7]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 ## Partie I Définitions et objet
 
@@ -119,8 +119,9 @@ Tels qu’ils sont employés dans le présent traité, les termes qui suivent on
 
 - En ce qui concerne les organisations d’intégration économique régionale qui sont parties contractantes, on entend par «zone» la zone des États membres de cette organisation conformément aux dispositions contenues dans l’acte constitutif de cette organisation.
 - 11)[^1-3]a) «OMC» désigne l’Organisation mondiale du commerce instituée par l’accord instituant l’Organisation mondiale du commerce.
-- b) «Accord OMC» désigne l’accord instituant l’Organisation mondiale du commerce, ses annexes et les décisions, déclarations et mémorandums d’accord d’interprétation y relatifs, tels que corrigés, amendés ou modifiés ultérieurement.
-- c) «GATT 1994» désigne l’accord général sur les tarifs douaniers et le commerce tel que spécifié à l’annexe 1A de l’accord instituant l’Organisation mondiale du commerce, tel que corrigé, amendé ou modifié ultérieurement.
+  - b) «Accord OMC» désigne l’accord instituant l’Organisation mondiale du commerce, ses annexes et les décisions, déclarations et mémorandums d’accord d’interprétation y relatifs, tels que corrigés, amendés ou modifiés ultérieurement.
+  - c) «GATT 1994» désigne l’accord général sur les tarifs douaniers et le commerce tel que spécifié à l’annexe 1A de l’accord instituant l’Organisation mondiale du commerce, tel que corrigé, amendé ou modifié ultérieurement.
+
 - 12) «Propriété intellectuelle» comprend les droits d’auteur et les droits connexes, les marques commerciales, les indications géographiques, les dessins et modèles industriels, les brevets, les topographies des circuits intégrés et la protection d’informations non divulguées
 - 13) a) «Protocole sur la Charte de l’énergie» ou «protocole» désignent un traité dont la négociation est autorisée et le texte adopté par la Conférence de la Charte et qui est conclu par deux ou plusieurs parties contractantes en vue de compléter, remplacer, étendre ou amplifier les dispositions du présent traité pour un secteur ou une catégorie d’activité spécifique entrant dans le champ d’application du présent traité, ou pour les domaines de coopération visés au titre III de la Charte.
   - b) «Déclaration de la Charte de l’énergie» ou «déclaration» désignent un instrument non contraignant dont la négociation est autorisée et le texte approuvé par la Conférence de la Charte et qui est conclu par deux ou plusieurs parties contractantes en vue de préciser ou compléter les dispositions du présent traité.
@@ -143,15 +144,15 @@ Le présent traité établit un cadre juridique destiné à promouvoir la coopé
 
 **Marchés internationaux**
 
-Les parties contractantes œuvrent en vue de promouvoir l’accès aux marchés internationaux des matières et produits énergétiques et des équipements liés à l'énergie[^3-1] à des conditions commerciales et, de manière générale, de développer un marché ouvert et concurrentiel de l’énergie.
+Les parties contractantes œuvrent en vue de promouvoir l’accès aux marchés internationaux des matières et produits énergétiques et des équipements liés à l’énergie[^3-1] à des conditions commerciales et, de manière générale, de développer un marché ouvert et concurrentiel de l’énergie.
 
 [^3-1]: Expression introduite par l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 #### Art. 4
 
-**Non-dérogation à l'accord OMC[^4-1]**
+**Non-dérogation à l’accord OMC[^4-1]**
 
-Aucune disposition du présent traité ne déroge, dans les relations entre parties contractantes qui sont membres de l'OMC[^4-2], aux dispositions de l'accord OMC telles qu’elles sont appliquées entre ces parties contractantes.
+Aucune disposition du présent traité ne déroge, dans les relations entre parties contractantes qui sont membres de l’OMC[^4-2], aux dispositions de l’accord OMC telles qu’elles sont appliquées entre ces parties contractantes.
 
 [^4-1]: Nouvelle expression selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-2]: Nouvelle expression selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
@@ -160,7 +161,7 @@ Aucune disposition du présent traité ne déroge, dans les relations entre part
 
 **Mesures d’investissement liées au commerce**
 
-<sup>1.</sup> Aucune partie contractante ne peut appliquer des mesures d’investissement liées au commerce qui sont incompatibles avec les dispositions des art. III ou XI du GATT 1994[^5-1]; cette disposition s’entend sans préjudice des droits et obligations des parties contractantes découlant de l'accord OMC ainsi que l’art. 29.
+<sup>1.</sup> Aucune partie contractante ne peut appliquer des mesures d’investissement liées au commerce qui sont incompatibles avec les dispositions des art. III ou XI du GATT 1994[^5-1]; cette disposition s’entend sans préjudice des droits et obligations des parties contractantes découlant de l’accord OMC ainsi que l’art. 29.
 
 <sup>2.</sup>
 
@@ -393,7 +394,7 @@ Chaque partie contractante garantit, en ce qui concerne les investissements effe
 
 <sup>5.</sup> Nonobstant le par. 2, les parties contractantes qui étaient des États membres de l’ancienne Union des républiques socialistes soviétiques peuvent prévoir dans des accords conclus entre elles que les transferts de paiements sont effectués dans les monnaies de ces parties contractantes, pour autant que les accords en question ne traitent pas les investissements des investisseurs des autres parties contractantes réalisés dans leur zone d’une manière moins favorable que les investissements des investisseurs des parties contractantes qui ont conclu ces accords ou les investissements des investisseurs d’un État tiers.
 
-<sup>6.</sup> Nonobstant le par. 1, point b), une partie contractante peut restreindre le transfert d’un rendement en nature lorsque la partie contractante est autorisée par l’art. 29, par. 2, point a), ou par l'accord OMC à restreindre ou à interdire les exportations ou la vente à l’exportation de produits constituant un rendement en nature, pour autant que cette partie contractante permette d’effectuer des transferts de rendements en nature tels qu’autorisés ou spécifiés dans un accord d’investissement, une autorisation d’investissement ou tout autre accord écrit conclu entre elle et un investisseur d’une autre partie contractante ou son investissement.
+<sup>6.</sup> Nonobstant le par. 1, point b), une partie contractante peut restreindre le transfert d’un rendement en nature lorsque la partie contractante est autorisée par l’art. 29, par. 2, point a), ou par l’accord OMC à restreindre ou à interdire les exportations ou la vente à l’exportation de produits constituant un rendement en nature, pour autant que cette partie contractante permette d’effectuer des transferts de rendements en nature tels qu’autorisés ou spécifiés dans un accord d’investissement, une autorisation d’investissement ou tout autre accord écrit conclu entre elle et un investisseur d’une autre partie contractante ou son investissement.
 
 #### Art. 15
 
@@ -494,7 +495,7 @@ Aux fins du présent article:
 
 **Transparence**
 
-<sup>1.</sup> Les lois, règlements, décisions judiciaires et mesures administratives d’application générale qui affectent les échanges de matières et produits énergétiques ou d'équipements liés à l'énergie[^20-1] font partie, aux termes de l’art. 29, par. 2, point a), des mesures qui sont sujettes aux disciplines de transparence de l'accord OMC pertinents.
+<sup>1.</sup> Les lois, règlements, décisions judiciaires et mesures administratives d’application générale qui affectent les échanges de matières et produits énergétiques ou d’équipements liés à l’énergie[^20-1] font partie, aux termes de l’art. 29, par. 2, point a), des mesures qui sont sujettes aux disciplines de transparence de l’accord OMC pertinents.
 
 <sup>2.</sup> Les lois, règlements, décisions judiciaires et mesures administratives d’application générale qui sont rendues effectifs par une partie contractante, ainsi que les accords en vigueur entre les parties contractantes qui affectent d’autres matières couvertes par le présent traité, sont également publiés rapidement de manière à permettre aux parties contractantes et aux investisseurs d’en prendre connaissance. Les dispositions du présent paragraphe n’imposent pas à une partie contractante de divulguer des informations confidentielles si cette divulgation empêche l’application du droit ou est contraire de toute autre manière à l’intérêt public ou porte préjudice aux intérêts commerciaux légitimes de tout investisseur.
 
@@ -636,7 +637,7 @@ Les dispositions du présent traité qui accordent le bénéfice de la clause de
 
 <sup>2.</sup> Aux fins du par. 1, on entend par «AIE» tout accord visant à une libéralisation substantielle, entre autres, du commerce et des investissements, en veillant à l’absence ou à l’élimination de toute discrimination substantielle entre les parties à cet accord grâce à la suppression des mesures discriminatoires existantes et/ou à l’interdiction de mesures discriminatoires nouvelles ou plus discriminatoires, soit au moment de l’entrée en vigueur de cet accord, soit sur la base d’un calendrier raisonnable.
 
-<sup>3.</sup> Le présent article n’affecte pas l’application de l'accord OMC conformément à l’art. 29.
+<sup>3.</sup> Le présent article n’affecte pas l’application de l’accord OMC conformément à l’art. 29.
 
 ## Partie V Règlement des différends
 
@@ -684,8 +685,8 @@ Si un investisseur choisit de soumettre le différend en vue de son règlement, 
 
 <sup>8.</sup> Les sentences arbitrales, qui peuvent inclure l’attribution d’intérêts, sont définitives et obligatoires pour les parties au différend. Les sentences arbitrales concernant une mesure prise par une administration politique ou une autorité sous-nationale de la partie contractante en litige prévoient que la partie contractante peut payer un dédommagement monétaire à la place de toute autre réparation accordée. Chaque partie contractante exécute ces sentences sans retard et prend des mesures en vue de leur exécution effective dans sa zone.
 
-[^26-1]: [RS 0.975.2](https://fedlex.data.admin.ch/eli/cc/1968/982_1022_938)
-[^26-2]: [RS 0.277.12](https://fedlex.data.admin.ch/eli/cc/1965/795_799_793)
+[^26-1]: [RS 0.975.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4570)
+[^26-2]: [RS 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
 
 #### Art. 27
 
@@ -772,8 +773,8 @@ L’annexe D s’applique:
 - ii) établit une zone de libre-échange ou une union douanière telle que décrite à l’art. XXIV du GATT 1994.
 
 [^29-1]: Nouvelle teneur selon l’art. 1 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^29-3]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117); annexe 1A
+[^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^29-3]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235); annexe 1A
 
 #### Art. 30
 
@@ -1070,79 +1071,79 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 Table des matières des annexes[^t-2]
 
-*1. Annexe EM I*
+\1. Annexe EM I
 
 Matières et produits énergétiques
 
-*2. Annexe EM II*
+\2. Annexe EM II
 
 Matières et produits énergétiques
 
-*3. Annexe EQ I*
+\3. Annexe EQ I
 
 Liste des équipements liés à l’énergie
 
-*4. Annexe EQ II*
+\4. Annexe EQ II
 
 Liste des équipements liés à l'énergie
 
-*5. Annexe NI*
+\5. Annexe NI
 
 Matières et produits énergétiques non applicables aux investissements pour la définition de l’«activité économique du secteur de l’énergie»
 
-*6. Annexe TRM*
+\6. Annexe TRM
 
 Notification et élimination progressive (TRM)
 
-*7. Annexe N*
+\7. Annexe N
 
 Liste des Parties contractantes demandant qu’au moins trois zones différentes soient concernées par un transit
 
-*8. Annexe VC*
+\8. Annexe VC
 
 Liste des Parties contractantes qui se sont volontairement engagées à respecter l’art. 10, par. 3
 
-*9. Annexe ID*
+\9. Annexe ID
 
 Liste des Parties contractantes qui ne permettent pas à un investisseur de soumettre de nouveau le même différend à un arbitrage international à un stade ultérieur au titre de l’art. 26
 
-*10. Annexe IA*
+\10. Annexe IA
 
 Liste des Parties contractantes qui n’autorisent pas un investisseur ou une partie contractante à soumettre un différend concernant la dernière phrase de l’art. 10, par. 1, à un arbitrage international
 
-*11. Annexe P*
+\11. Annexe P
 
 Procédure spéciale sous-nationale de règlement des différends
 
-*12. Annexe W*
+\12. Annexe W
 
 Exceptions et règles régissant l’application des dispositions de l'accord OMC
 
-*13. Annexe TFU*
+\13. Annexe TFU
 
 Dispositions concernant les Accords commerciaux entre les États qui ont fait partie de l’ancienne Union des Républiques socialistes soviétiques
 
-*14. Annexe BR*
+\14. Annexe BR
 
 Liste des parties contractantes qui ne peuvent augmenter les droits de douane ou autres taxes au-delà du niveau résultant de leurs engagements ou de toutes dispositions qui leur sont applicables en vertu de l’accord OMC
 
-*15. Annexe BRQ*
+\15. Annexe BRQ
 
 Liste des parties contractantes qui ne peuvent augmenter les droits de douane ou autres taxes au-delà du niveau résultant de leurs engagements ou de toutes dispositions qui leur sont applicables en vertu de l’accord OMC
 
-*16. Annexe D*
+\16. Annexe D
 
 Dispositions provisoires pour le règlement des différents commerciaux
 
-*17. Annexe B*
+\17. Annexe B
 
 Formules de répartition des frais découlant de la Charte
 
-*18. Annexe PA*
+\18. Annexe PA
 
 Liste des signataires qui n’acceptent pas l’application provisoire de l’art. 45, par. 3, point b)
 
-*19. Annexe T*
+\19. Annexe T
 
 Mesures transitoires adoptées par les Parties contractantes
 
@@ -1225,7 +1226,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td>7305.12</td><td>– soudés longitudinalement, autres</td></tr>
 <tr><td></td><td></td><td>7305.19</td><td>– autres</td></tr>
 <tr><td></td><td></td><td>7305.20</td><td>– Tubes et tuyaux de cuvelage des types utilisés pour l’extraction du pétrole ou du gaz</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td>Ex 73.06<sup>(\*)</sup></td><td colspan="2">Autres tubes, tuyaux et profilés creux (soudés, rivés, agrafés ou à bords simplement rapprochés, par exemple), en fer ou en acier</td></tr>
 <tr><td></td><td></td><td>7306.10</td><td>– Tubes et tuyaux des types utilisés pour oléoducs ou gazoducs</td></tr>
 <tr><td></td><td></td><td>7306.20</td><td>– Tubes et tuyaux de cuvelage ou de production des types utilisés pour l’extraction du pétrole ou du gaz</td></tr>
@@ -1263,7 +1263,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td></td><td>– Outils de forage ou de sondage:</td></tr>
 <tr><td></td><td></td><td>8207.13[^annex3-lvlu1-4]</td><td>– avec partie travaillante en cermets</td></tr>
 <tr><td></td><td></td><td>8207.19</td><td>– autres, y compris les parties</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td>Ex 83.07<sup>(\*)</sup>[^annex3-lvlu1-5]</td><td colspan="2">Tuyaux flexibles en métaux communs, même avec leurs accessoires:</td></tr>
 <tr><td></td><td></td><td></td><td>– Pour une utilisation exclusive dans les puits de pétrole et de gaz</td></tr>
 <tr><td></td><td>84.01</td><td colspan="2">Réacteurs nucléaires; éléments combustibles (cartouches) non irradiés pour réacteurs nucléaires; machines et appareils pour la séparation isotopique</td></tr>
@@ -1298,7 +1297,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td></td><td>– Exclusivement pour incinérateurs de déchets, fours de laboratoires et fours de frittage d’uranium</td></tr>
 <tr><td></td><td>Ex 84.18<sup>(\*)</sup></td><td colspan="2">Réfrigérateurs, congélateurs-conservateurs, surgélateurs et autres matériel, machines et appareils pour la production du froid, à équipement électrique ou autre; pompes à chaleur autres que les machines et appareils pour le conditionnement de l’air du n<sup>o</sup> 8415.</td></tr>
 <tr><td></td><td></td><td></td><td>– autres matériel, machines et appareils pour la production du froid; pompes à chaleur:</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td></td><td>8418.61</td><td>– Groupes à compression pour la production du froid, dont le condenseur est constitué par un échangeur de chaleur</td></tr>
 <tr><td></td><td></td><td>8418.69</td><td>– autres</td></tr>
 <tr><td></td><td>Ex 84.19<sup>(\*)</sup>[^annex3-lvlu1-8]</td><td colspan="2">Appareils et dispositifs, même chauffés électriquement, pour le traitement de matières par des opérations impliquant un changement de température telles que le chauffage, la cuisson, la torréfaction, la distillation, la rectification, la stérilisation, la pasteurisation, l’étuvage, le séchage, l’évaporation, la vaporisation, la condensation ou le refroidissement, autres que les appareils domestiques; chauffe-eau non électriques, à chauffage instantané ou à accumulation.</td></tr>
@@ -1316,7 +1314,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td>Ex 84.26<sup>(\*)</sup></td><td colspan="2">Bigues; grues et blondins; ponts roulants, portiques de déchargement ou de manutention, ponts-grues, chariots-cavaliers et chariots-grues.</td></tr>
 <tr><td></td><td></td><td>Ex 8426.20</td><td>– Grues à tour</td></tr>
 <tr><td></td><td></td><td></td><td>– Pour plates-formes de forage en mer et stations de forage côtières</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td></td><td></td><td>– autres machines et appareils:</td></tr>
 <tr><td></td><td></td><td>Ex 8426.91</td><td>– conçus pour être montés sur un véhicule routier</td></tr>
 <tr><td></td><td></td><td></td><td>– Équipement de levage pour réparer et construire des puits</td></tr>
@@ -1335,9 +1332,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td></td><td>– pour la prospection ou l’exploitation de gisements de pétrole et de gaz</td></tr>
 <tr><td></td><td>Ex 84.31</td><td colspan="2">Parties reconnaissables comme étant exclusivement ou principalement destinées aux machines ou appareils des nos 8425 à 8430.</td></tr>
 <tr><td></td><td></td><td></td><td>– Seulement pour les machines couvertes</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td>84.71<sup>(\*)</sup>[^annex3-lvlu1-9]</td><td colspan="2">Machines automatiques de traitement de l’information et leurs unités; lecteurs magnétiques ou optiques, machines de mise d’informations sur support sous forme codée et machines de traitement de ces informations, non dénommés ni compris ailleurs.</td></tr>
 <tr><td></td><td>Ex 84.74</td><td colspan="2">Machines et appareils à trier, cribler, séparer, laver, concasser, broyer, mélanger ou malaxer les terres, pierres, minerais ou autres matières minérales solides (y compris les poudres et les pâtes); machines à agglomérer, former ou mouler les combustibles minéraux solides, les pâtes céramiques, le ciment, le plâtre ou autres matières minérales en poudre ou en pâte; machines à former les moules de fonderie en sable.</td></tr>
 <tr><td></td><td></td><td>8474.10</td><td>– Machines et appareils à trier, cribler, séparer ou laver</td></tr>
@@ -1354,9 +1348,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td>8481.40</td><td>– Soupapes de trop-plein ou de sûreté</td></tr>
 <tr><td></td><td></td><td>8481.80</td><td>– autres articles de robinetterie et organes similaires</td></tr>
 <tr><td></td><td></td><td>8481.90</td><td>– Parties</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td>Ex 84.83</td><td colspan="2">Arbres de transmission (y compris les arbres à cames et les vilebrequins) et manivelles; paliers et coussinets; engrenages et roues de friction; broches filetées à billes ou à rouleaux; réducteurs, multiplicateurs et variateurs de vitesse; y compris les convertisseurs de couple; volants et poulies, y compris les poulies à moufles; embrayages et organes d’accouplement, y compris les joints d’articulation.</td></tr>
 <tr><td></td><td></td><td>Ex 8483.40</td><td>– Engrenages et roues de friction, autres que les simples roues et autres organes élémentaires de transmission; broches filetées à billes ou à rouleaux; réducteurs, multiplicateurs et variateurs de vitesse, y compris les convertisseurs de couple.</td></tr>
 <tr><td></td><td></td><td></td><td>– Éléments de transmission exclusivement pour les dispositifs de pompage immergés dans l’industrie du pétrole et du gaz</td></tr>
@@ -1369,8 +1360,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td>Ex 85.04<sup>(\*)</sup></td><td colspan="2">Transformateurs électriques, convertisseurs électriques statiques (redresseurs, par exemple), bobines de réactance et selfs.</td></tr>
 <tr><td></td><td></td><td></td><td>– Transformateurs à diélectrique liquide:</td></tr>
 <tr><td></td><td></td><td>8504.21</td><td>– d’une puissance n’excédant pas 650 kVA</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td></td><td>8504.22</td><td>– d’une puissance excédant 650 kVA mais n’excédant pas 10 000 kVA</td></tr>
 <tr><td></td><td></td><td>8504.23</td><td>– d’une puissance excédant 10 000 kVA</td></tr>
 <tr><td></td><td></td><td></td><td>– autres transformateurs:</td></tr>
@@ -1429,11 +1418,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td></td><td>– spécialement conçus pour le transport des produits à forte radioactivité</td></tr>
 <tr><td></td><td>Ex 87.05</td><td colspan="2">Véhicules automobiles à usages spéciaux, autres que ceux principalement conçus pour le transport de personnes ou de marchandises (dépanneuses, camions-grues, voitures de lutte contre l’incendie, camions-bétonnières, voitures balayeuses, voitures épandeuses, voitures-ateliers, voitures radiologiques, par exemple).</td></tr>
 <tr><td></td><td></td><td>8705.20</td><td>– Derricks automobiles pour le sondage ou le forage</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td>Ex 87.09</td><td colspan="2">Chariots automobiles non munis d’un dispositif de levage, des types utilisés dans les usines, les entrepôts, les ports ou les aéroports pour le transport des marchandises sur de courtes distances; chariots-tracteurs des types utilisés dans les gares; leurs parties.</td></tr>
 <tr><td></td><td></td><td></td><td>– Véhicules:</td></tr>
 <tr><td></td><td></td><td>Ex 8709.11</td><td>– électriques</td></tr>
@@ -1448,9 +1432,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td>9015.90</td><td>– Parties et accessoires</td></tr>
 <tr><td></td><td>Ex 90.26<sup>(\*)</sup>[^annex3-lvlu1-14]</td><td colspan="2">Instruments et appareils pour la mesure ou le contrôle du débit, du niveau, de la pression ou d’autres caractéristiques variables des liquides ou des gaz (débitmètres, indicateurs de niveau, manomètres, compteurs de chaleur, par exemple), à l’exclusion des instruments et appareils des n<sup>os</sup> 90.14, 90.15, 90.28 ou 90.32.</td></tr>
 <tr><td></td><td></td><td></td><td>– Sauf destinés au secteur de la distribution d’eau</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td>90.27</td><td colspan="2">Instruments et appareils pour analyses physiques ou chimiques (polarimètres, réfractomètres, spectromètres, analyseurs de gaz ou de fumées, par exemple); instruments et appareils pour essais de viscosité, de porosité, de dilatation, de tension superficielle ou similaires ou pour mesures calorimétriques, acoustiques ou photométriques (y compris les indicateurs de temps de pose); microtomes.</td></tr>
 <tr><td></td><td>90.28</td><td colspan="2">Compteurs de gaz, de liquides ou d’électricité, y compris les compteurs pour leur étalonnage.</td></tr>
 <tr><td></td><td>Ex 90.29<sup>(\*)</sup>[^annex3-lvlu1-15]</td><td colspan="2">Autres compteurs (compteurs de tours, compteurs de production, taximètres, totalisateurs de chemin parcouru, podomètres, par exemple); indicateurs de vitesse et tachymètres, autres que ceux des n<sup>os</sup> 90.14 ou 90.15; stroboscopes.</td></tr>
@@ -1467,7 +1448,6 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 <tr><td></td><td></td><td></td><td>– autres instruments et appareils:</td></tr>
 <tr><td></td><td></td><td>Ex 9030.83[^annex3-lvlu1-16]</td><td>– autres, avec dispositif enregistreur</td></tr>
 <tr><td></td><td></td><td></td><td>– destinés au secteur de l’énergie</td></tr>
-<tr><td></td><td></td><td></td><td>[tab]</td></tr>
 <tr><td></td><td></td><td>Ex 9030.89</td><td>– autres</td></tr>
 <tr><td></td><td></td><td></td><td>– destinés au secteur de l’énergie</td></tr>
 <tr><td></td><td></td><td>Ex 9030.90</td><td>– Parties et accessoires</td></tr>
@@ -1495,13 +1475,13 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 
 \4. Annexe EQ II[^t-6]
 
-## Liste des équipements liés à l'énergie
+## Liste des équipements liés à l’énergie
 
 [^t-6]: Introduite par l’art. 5 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
-(conformément à l'art. 1, par 4<sup>bis</sup>)
+(conformément à l’art. 1, par 4<sup>bis</sup>)
 
-\5. [^t-7] Annexe NI
+\5. Annexe NI[^t-7]
 
 ## Matières et produits énergétiques non applicables aux investissements pour la définition de l’«activité économique du secteur de l’énergie»
 
@@ -1519,14 +1499,14 @@ Aux fins de la présente annexe, «Ex» a été inclus pour indiquer que la desc
 
 ## Notification et élimination progressive (TRM)
 
-[^t-8]: Anciennement 3. Mise à jour selon l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-8]: Anciennement 3. Mise à jour par l’art. 2 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (conformément à l’art. 5, par. 4)
 
 \1. Chaque partie contractante notifie au Secrétariat toutes les mesures d’investissement liées au commerce qu’elle applique et qui ne sont pas conformes aux dispositions de l’art. 5, dans un délai de:
 
-- a) 90 jours après l’entrée en vigueur du présent traité si la partie contractante est membre de l'OMC, ou
-- b) 12 mois après l’entrée en vigueur du présent traité si la partie contractante n’est pas membre de l'OMC.
+- a) 90 jours après l’entrée en vigueur du présent traité si la partie contractante est membre de l’OMC, ou
+- b) 12 mois après l’entrée en vigueur du présent traité si la partie contractante n’est pas membre de l’OMC.
 
 Ces mesures d’investissement liées au commerce, d’application générale ou spécifique, ainsi que leurs principales caractéristiques sont notifiées.
 
@@ -1534,8 +1514,8 @@ Ces mesures d’investissement liées au commerce, d’application générale ou
 
 \3. Chaque partie contractante élimine toutes les mesures d’investissement liées au commerce qui ont été notifiées conformément au par. 1:
 
-- a) dans les deux ans suivant la date d’entrée en vigueur du présent traité si la partie contractante est membre de l'OMC, ou
-- b) dans les trois ans suivant la date d’entrée en vigueur du présent traité si la partie contractante n’est pas membre de l'OMC.
+- a) dans les deux ans suivant la date d’entrée en vigueur du présent traité si la partie contractante est membre de l’OMC, ou
+- b) dans les trois ans suivant la date d’entrée en vigueur du présent traité si la partie contractante n’est pas membre de l’OMC.
 
 \4. Durant la période applicable visée au par. 3, une partie contractante ne modifie pas les clauses d’une mesure d’investissement liée au commerce qui à été notifiée conformément au paragraphe 1 par rapport à celles qui étaient utilisées à la date d’entrée en vigueur du présent traité d’une manière qui aboutirait à augmenter le degré d’incompatibilité par rapport aux dispositions de l’art. 5 du présent traité.
 
@@ -1551,7 +1531,7 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 - a) la notification visée aux par. 1 et 2 est effectuée à la date applicable selon le par. 1 ou à la date du dépôt de l’instrument d’adhésion, la date la plus tardive étant retenue, et
 - b) la période d’élimination prend fin à la date applicable selon le par. 3 ou à la date d’entrée en vigueur du présent traité pour cet État ou cette organisation d’intégration économique régionale, la date la plus tardive étant retenue.
 
-7.[^t-9] Annexe N
+\7. Annexe N[^t-9]
 
 ## Liste des Parties contractantes demandant qu’au moins trois zones différentes soient concernées par un transit
 
@@ -1561,7 +1541,7 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 
 \1. Le Canada et les États-Unis d’Amérique.
 
-8.[^t-10] Annexe VC
+\8. Annexe VC[^t-10]
 
 ## Liste des Parties contractantes qui se sont volontairement engagées à respecter l’art. 10, par. 3
 
@@ -1569,7 +1549,7 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 
 (conformément à l’art. 10, par. 6)
 
-9.[^t-11] Annexe ID
+\9. Annexe ID[^t-11]
 
 ## Liste des Parties contractantes qui ne permettent pas à un investisseur de soumettre de nouveau le même différend à un arbitrage international à un stade ultérieur au titre de l’art. 26
 
@@ -1625,7 +1605,7 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 
 \24. États-Unis d’Amérique
 
-10.[^t-12] Annexe IA
+\10. Annexe IA[^t-12]
 
 ## Liste des Parties contractantes qui n’autorisent pas un investisseur ou une partie contractante à soumettre un différend concernant la dernière phrase de l’art. 10, par. 1, à un arbitrage international
 
@@ -1641,13 +1621,13 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 
 \4. Norvège
 
-11.[^t-13] Annexe P
+\11. Annexe P[^t-13]
 
 ## Procédure spéciale sous-nationale de règlement des différends
 
 [^t-13]: Anciennement 8.
 
-(conformément à l’art. 27, par. 3, let. i))
+(conformément à l’art. 27, par. 3, let. i)
 
 ### Partie I
 
@@ -1676,7 +1656,7 @@ Toute mesure d’investissement liée au commerce ainsi appliquée à un nouvel 
 
 \12. Annexe W[^t-14]
 
-## Exceptions et règles régissant l’application des dispositions de l'accord OMC
+## Exceptions et règles régissant l’application des dispositions de l’accord OMC
 
 [^t-14]: Anciennement 9, g. Nouvelle teneur selon l’art. 4 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
@@ -1812,7 +1792,9 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 <tr><td></td><td>8</td><td>Règlement des différends</td></tr>
 </table>
 
-- x) Accord sur les règles d’origine
+-
+
+  - x) Accord sur les règles d’origine
 
 - Préambule, par. 8
 
@@ -1992,17 +1974,17 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 - a) des copies des textes originaux de l’accord dans toutes les langues dans lesquelles il a été signé;
 - b) une description, par référence aux positions figurant à l’annexe EM, des matières et produits énergétiques spécifiques auxquels l’accord s’applique;
-- c) une explication, séparée pour chacune des dispositions pertinentes de l'accord OMC applicables en vertu de l’art. 29, par. 2, point a), des circonstances à cause desquelles il est impossible ou impraticable pour les parties à l’accord de se conformer totalement à cette disposition;
+- c) une explication, séparée pour chacune des dispositions pertinentes de l’accord OMC applicables en vertu de l’art. 29, par. 2, point a), des circonstances à cause desquelles il est impossible ou impraticable pour les parties à l’accord de se conformer totalement à cette disposition;
 - d) les mesures spécifiques à adopter par chaque partie à l’accord en vue de faire face aux circonstances visées au point c), et
 - e) une description des programmes des parties en vue de parvenir à une réduction progressive et, en définitive, à une suppression des dispositions non conformes de l’accord.
 
 \3. Les parties à un accord notifié conformément au par. 1 offrent aux parties intéressées une possibilité raisonnable de les consulter au sujet de cet accord et prennent leurs observations en considération. À la demande d’une des parties intéressées, l’accord est examiné par la Conférence de la Charte, qui peut adopter des recommandations à cet égard.
 
-\4. La Conférence de la Charte révise régulièrement l’application des accords notifiés conformément au par. 1 ainsi que les progrès réalisés en vue de la suppression des dispositions de ces accords qui ne sont pas conformes aux dispositions de l'accord OMC applicables en vertu de l’art. 29, par. 2, point a). À la demande d’une des parties intéressées, la Conférence de la Charte peut adopter des recommandations au sujet d’un tel accord.
+\4. La Conférence de la Charte révise régulièrement l’application des accords notifiés conformément au par. 1 ainsi que les progrès réalisés en vue de la suppression des dispositions de ces accords qui ne sont pas conformes aux dispositions de l’accord OMC applicables en vertu de l’art. 29, par. 2, point a). À la demande d’une des parties intéressées, la Conférence de la Charte peut adopter des recommandations au sujet d’un tel accord.
 
 \5. Un accord tel que visé à l’art. 29, par. 2, point b), peut, dans des cas d’urgence exceptionnelle, entrer en vigueur sans la notification et la consultation prévues au par. 1, point b) et aux par. 2 et 3, à condition que la notification ait lieu et que la possibilité de consultation soit offerte rapidement. Dans ce cas, les parties à l’accord communiquent néanmoins promptement le texte de l’accord, conformément au par. 2 point a), après son entrée en vigueur.
 
-\6. Les parties contractantes qui sont ou deviennent parties à un accord tel que visé à l’art. 29, par. 2, point b), s’engagent à en limiter la non-conformité avec les dispositions de l'accord OMC applicables en vertu de l’art. 29, par. 2, point a), aux cas strictement nécessaires pour faire face aux circonstances particulières et à appliquer cet accord d’une manière qui s’écarte le moins possible desdites dispositions. Elles mettent tout en œuvre pour prendre des mesures de redressement à la lumière des observations des parties intéressées et des recommandations de la Conférence de la Charte.
+\6. Les parties contractantes qui sont ou deviennent parties à un accord tel que visé à l’art. 29, par. 2, point b), s’engagent à en limiter la non-conformité avec les dispositions de l’accord OMC applicables en vertu de l’art. 29, par. 2, point a), aux cas strictement nécessaires pour faire face aux circonstances particulières et à appliquer cet accord d’une manière qui s’écarte le moins possible desdites dispositions. Elles mettent tout en œuvre pour prendre des mesures de redressement à la lumière des observations des parties intéressées et des recommandations de la Conférence de la Charte.
 
 \14. Annexe BR[^t-15]
 
@@ -2010,7 +1992,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 [^t-15]: Introduite par l’art. 5 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
-(conformément à l'art. 29, par. 7)
+(conformément à l’art. 29, par. 7)
 
 \15. Annexe BRQ[^t-16]
 
@@ -2024,22 +2006,22 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 ## Dispositions provisoires pour le règlement des différents commerciaux
 
-[^t-17]: Anciennement 11. Mise à jour selon l’art. 3 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^t-17]: Anciennement 11. Mise à jour par l’art. 3 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (conformément à l’art. 29, par. 9)
 
 - 1\. a) Dans leurs relations mutuelles, les parties contractantes mettent tout en œuvre par la voie de la coopération et de consultations pour parvenir à une solution mutuellement satisfaisante de tout différend relatif aux mesures existantes susceptibles d’affecter sensiblement le respect des dispositions applicables aux échanges en vertu des art. 5 ou 29, ou relatif à toute mesure susceptible d’annuler ou d’entraver les avantages qu’une partie contractante peut attendre directement ou indirectement au titre des dispositions applicables aux échanges en vertu de l’art. 29.
-- b) Une partie contractante peut adresser une demande écrite à toute autre partie contractante en vue de consultations sur toute mesure existante de l’autre partie contractante dont elle considère qu’elle peut affecter sensiblement le respect des dispositions applicables aux échanges en vertu des art. 5 ou 29, ou toute mesure susceptible d’annuler ou d’entraver les avantages qu’une partie contractante peut attendre directement ou indirectement au titre des dispositions applicables aux échanges en vertu de l’art. 29. Une partie contractante qui demande des consultations indique de façon aussi précise que possible la mesure qui fait l’objet d’une plainte et indique les dispositions de l’art. 5 ou de l’art. 29 ainsi que de l'accord OMC qu’elle estime pertinentes. Les demandes de consultations en application du présent paragraphe sont notifiées au Secrétariat, qui informe périodiquement les parties contractantes des consultations en cours qui ont été notifiées.
+- b) Une partie contractante peut adresser une demande écrite à toute autre partie contractante en vue de consultations sur toute mesure existante de l’autre partie contractante dont elle considère qu’elle peut affecter sensiblement le respect des dispositions applicables aux échanges en vertu des art. 5 ou 29, ou toute mesure susceptible d’annuler ou d’entraver les avantages qu’une partie contractante peut attendre directement ou indirectement au titre des dispositions applicables aux échanges en vertu de l’art. 29. Une partie contractante qui demande des consultations indique de façon aussi précise que possible la mesure qui fait l’objet d’une plainte et indique les dispositions de l’art. 5 ou de l’art. 29 ainsi que de l’accord OMC qu’elle estime pertinentes. Les demandes de consultations en application du présent paragraphe sont notifiées au Secrétariat, qui informe périodiquement les parties contractantes des consultations en cours qui ont été notifiées.
 - c) Toute partie contractante traite les renseignements confidentiels ou protégés identifiés comme tels et contenus ou reçus en réponse à une demande écrite ou obtenus au cours de consultations de la même manière qu’ils sont traités par la partie contractante qui les fournit.
 - d) Lorsqu’elles tentent de résoudre des questions dont une partie contractante estime qu’elles affectent le respect des dispositions applicables au commerce en vertu des art. 5 ou 29 entre elles et une autre partie contractante, les parties contractantes qui participent aux consultations ou à un autre mode de règlement du différend mettent tout en œuvre pour éviter une solution qui ait un impact négatif sur le commerce de toute autre partie contractante.
-- 2\. a) Si, dans les 60 jours après réception de la demande de consultations visée au par. 1 point b), ou qu’elles annulent ou entravent les avantages qu’elle peut en attendre directement ou indirectement au titre des dispositions applicables aux échanges en vertu de l’art. 29, les parties contractantes n’ont pas réglé leur différend ni convenu de le régler par voie de conciliation, de médiation ou d’arbitrage ou par une autre méthode, l’une ou l’autre des parties contractantes peut adresser au Secrétariat une demande écrite en vue de la constitution du jury prévu aux points b) à f). Dans sa demande, la partie contractante requérante précise l’objet du différend et indique les dispositions des art. 5 ou 29 ainsi que des articles de l'accord OMC qu’elle juge pertinentes. Le Secrétariat fournit promptement des copies de la demande à toutes les parties contractantes.
+- 2\. a) Si, dans les 60 jours après réception de la demande de consultations visée au par. 1 point b), ou qu’elles annulent ou entravent les avantages qu’elle peut en attendre directement ou indirectement au titre des dispositions applicables aux échanges en vertu de l’art. 29, les parties contractantes n’ont pas réglé leur différend ni convenu de le régler par voie de conciliation, de médiation ou d’arbitrage ou par une autre méthode, l’une ou l’autre des parties contractantes peut adresser au Secrétariat une demande écrite en vue de la constitution du jury prévu aux points b) à f). Dans sa demande, la partie contractante requérante précise l’objet du différend et indique les dispositions des art. 5 ou 29 ainsi que des articles de l’accord OMC qu’elle juge pertinentes. Le Secrétariat fournit promptement des copies de la demande à toutes les parties contractantes.
 - b) Les intérêts des autres parties contractantes sont pris en considération pendant le règlement d’un différend. Toute autre partie contractante qui a un intérêt substantiel dans une affaire a le droit d’être entendue par le jury et de présenter des observations écrites au jury, à condition que les parties contractantes en litige et le Secrétariat aient reçu notification écrite de cet intérêt au plus tard à la date de constitution du jury, faite conformément au point c).
 - c) Le jury est supposé constitué 45 jours après la date de réception de la demande écrite d’une partie contractante par le Secrétariat conformément au point a).
 - d) Le jury se compose de trois membres qui sont choisis par le Secrétaire général sur la liste visée au par. 7. Sauf convention contraire entre les deux parties contractantes en litige, les membres d’un jury ne peuvent être des citoyens des parties contractantes qui sont parties au différend ou ont notifié leur intérêt conformément au point b), ni des citoyens d’États membres d’une organisation d’intégration économique régionale qui est partie au différend ou a notifié son intérêt conformément au point b).
 - e) Les parties contractantes en litige réagissent dans les dix jours ouvrables aux nominations des membres du jury et ne s’oppose pas aux nominations, sauf pour des raisons impératives.
 - f) Les membres du jury officient en leur qualité de particuliers et ne reçoivent d’instructions d’aucun gouvernement ni d’aucun autre organe. Chaque partie contractante s’engage à respecter ces principes et à ne pas chercher à influencer les membres du jury dans l’exécution de leur tâche. Lors du choix des membres du jury, il est tenu compte de la nécessité de garantir l’indépendance des membres et de faire en sorte que le jury reflète des horizons suffisamment différents et dispose d’un large éventail d’expériences.
 - g) Le Secrétariat notifie rapidement à toutes les parties contractantes la constitution du jury.
-- 3\. a) La Conférence de la Charte adopte pour les débats du jury un règlement de procédure conforme à la présente annexe. Ce règlement de procédure doit être aussi proche que possible de celui de l'accord OMC. Le jury a en outre le droit d’adopter des règles supplémentaires de procédure qui ne soient pas incompatibles avec le règlement de procédure adopté par la Conférence de la Charte ou des règles contenues dans la présente annexe. Lorsqu’une procédure est engagée devant un jury, chaque partie contractante en litige et toute autre partie contractante qui a notifié son intérêt conformément au par. 2, point b), a droit à être entendue au moins par le jury et à présenter des observations écrites. Les parties contractantes en litige ont également le droit de fournir par écrit une argumentation de réfutation. Le jury peut accueillir favorablement une demande faite par une autre partie contractante qui a notifié son intérêt conformément au par. 2, point b), en vue d’avoir accès à toute observation écrite présentée au jury, avec le consentement de la partie contractante qui l’a formulée.
+- 3\. a) La Conférence de la Charte adopte pour les débats du jury un règlement de procédure conforme à la présente annexe. Ce règlement de procédure doit être aussi proche que possible de celui de l’accord OMC. Le jury a en outre le droit d’adopter des règles supplémentaires de procédure qui ne soient pas incompatibles avec le règlement de procédure adopté par la Conférence de la Charte ou des règles contenues dans la présente annexe. Lorsqu’une procédure est engagée devant un jury, chaque partie contractante en litige et toute autre partie contractante qui a notifié son intérêt conformément au par. 2, point b), a droit à être entendue au moins par le jury et à présenter des observations écrites. Les parties contractantes en litige ont également le droit de fournir par écrit une argumentation de réfutation. Le jury peut accueillir favorablement une demande faite par une autre partie contractante qui a notifié son intérêt conformément au par. 2, point b), en vue d’avoir accès à toute observation écrite présentée au jury, avec le consentement de la partie contractante qui l’a formulée.
 - Les débats du jury sont confidentiels. Le jury procède à une appréciation objective des questions qui lui sont soumises, y compris les éléments de fait du différend et la conformité des mesures avec les dispositions applicables au commerce en vertu des art. 5 ou 29. Dans l’exercice de ses fonctions, le jury consulte les parties contractantes en litige et leur donne une possibilité adéquate de parvenir à une solution mutuellement satisfaisante. Sauf accord contraire des parties contractantes, le jury fonde sa décision sur les arguments et les observations des parties contractantes en litige. Il s’inspire des interprétations données à l’accord OMC dans le cadre de cet accord et ne met pas en doute la compatibilité avec l’art. 5 ou l’art. 29 de pratiques qui sont suivies par une partie contractante membre de l’OMC à l’égard d’autres membres de l’OMC auxquels elle applique l’accord OMC et qui n’ont pas été suivies par ces autres membres pour contester une décision au titre de l’accord OMC.
 - Sauf accord contraire des parties contractantes en litige, toutes les procédures qui impliquent un jury, y compris la publication de son rapport final, doivent se terminer au plus tard 180 jours après la date de constitution du jury; toutefois, le non-achèvement de l’ensemble des procédures dans ce délai n’affecte pas la validité du rapport final.
 - b) Le jury détermine sa compétence; cette décision est finale et obligatoire. Toute objection formulée par une partie contractante en litige et niant la compétence du jury est examinée par le jury, qui décide s’il y a lieu de traiter l’objection comme une question préjudicielle ou de la joindre au fond de l’affaire.
@@ -2048,12 +2030,12 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 - Après la date fixée pour la réception des observations des parties contractantes, le jury délivre aux parties contractantes en litige un rapport écrit intermédiaire, comprenant aussi bien la partie descriptive que les constatations et les conclusions proposées par le jury. Dans un délai déterminé par le jury, une partie contractante en litige peut soumettre au jury une requête écrite demandant qu’il réexamine des aspects spécifiques du rapport intermédiaire avant la publication du rapport final. Avant de publier un rapport final, le jury peut, à sa discrétion, se réunir avec les parties contractantes en litige afin d’examiner les questions soulevées dans cette requête.
 - Le rapport final comporte la partie descriptive de l’affaire (comprenant une énonciation des faits et un résumé des arguments avancés par les parties contractantes en litige), les constatations et les conclusions du jury, ainsi qu’une discussion des arguments formulés sur les aspects spécifiques du rapport intermédiaire au moment de sa révision. Le rapport final traite toutes les questions substantielles soulevées devant le jury et nécessaires au règlement du différend et il motive les conclusions du jury.
 - Le jury publie son rapport final en le mettant rapidement à la disposition du Secrétariat et des parties contractantes en litige. Le Secrétariat distribue à toutes les parties contractantes en litige, dès que possible, le rapport final, en même temps que toute opinion écrite qu’une partie contractante souhaite y voir annexer.
-- b) Lorsqu’il conclut qu’une mesure introduite ou maintenue par une partie contractante n’est pas conforme à une disposition des art. 5 ou 29 ou à une disposition de l'accord OMC qui est applicable en vertu de l’art. 29, le jury peut, dans son rapport final, recommander à cette partie contractante de modifier ou d’abandonner la mesure ou son comportement de manière à se conformer à cette disposition.
+- b) Lorsqu’il conclut qu’une mesure introduite ou maintenue par une partie contractante n’est pas conforme à une disposition des art. 5 ou 29 ou à une disposition de l’accord OMC qui est applicable en vertu de l’art. 29, le jury peut, dans son rapport final, recommander à cette partie contractante de modifier ou d’abandonner la mesure ou son comportement de manière à se conformer à cette disposition.
 - c) Les rapports du jury sont adoptés par la Conférence de la Charte. Afin de donner suffisamment de temps à la Conférence de la Charte pour examiner les rapports du jury, un rapport n’est adopté par celle-ci que 30 jours après que le Secrétariat a fourni le rapport à toutes les parties contractantes. Les parties contractantes qui ont des objections à l’encontre du rapport d’un jury indiquent par écrit au Secrétariat les raisons de leurs objections au moins 10 jours avant la date à laquelle le rapport doit être examiné en vue de son adoption par la Conférence de la Charte, et le Secrétariat les communique rapidement à toutes les parties contractantes. Les parties contractantes en litige et les parties contractantes qui ont notifié leur intérêt conformément au par. 2, point b), ont le droit de participer pleinement à l’examen par la Conférence de la Charte du rapport du jury relatif au différend en question, et leurs opinions sont enregistrées intégralement.
 - d) Afin d’assurer un règlement effectif des différends dans l’intérêt de toutes les parties contractantes, il est essentiel que les décisions et les recommandations d’un rapport final de jury qui a été adopté par la Conférence de la Charte soient respectées rapidement. Une partie contractante qui fait l’objet d’une décision ou d’une recommandation d’un rapport final de jury qui a été adopté par la Conférence de la Charte informe celle-ci de son intention de se conformer à cette décision ou à cette recommandation. S’il lui est impossible de s’y conformer immédiatement, elle en explique les raisons à la Conférence de la Charte et, à la lumière de cette explication, elle dispose d’un délai raisonnable pour s’y conformer. Le but du règlement d’un différend est la modification ou l’élimination de mesures incompatibles.
 - 5\. a) Lorsqu’une partie contractante ne s’est pas conformée dans un délai raisonnable à une décision ou à une recommandation d’un rapport final de jury qui a été adopté par la Conférence de la Charte, une partie contractante partie au différend qui est lésée par ce manquement peut adresser à la partie contractante défaillante une demande écrite tendant à ce que celle-ci entame des négociations en vue de convenir d’une compensation mutuellement acceptable. Si elle est ainsi saisie, la partie contractante défaillante engage rapidement ces négociations.
 - b) Si la partie contractante défaillante refuse de négocier, ou si les parties contractantes ne sont pas parvenues à un accord dans les 30 jours suivant l’envoi d’une demande de négociations, la partie contractante lésée peut introduire une requête écrite demandant à la Conférence de la Charte l’autorisation de suspendre les obligations qu’elle doit remplir à l’égard de la partie contractante défaillante au titre des art. 5 ou 29.
-- c) La Conférence de la Charte peut autoriser la partie contractante lésée à suspendre celles de ses obligations à l’égard de la partie contractante défaillante, conformément aux dispositions des art. 5 ou 29 ou conformément aux dispositions de l'accord OMC qui s’appliquent en vertu de l’art. 29, que la partie contractante lésée estime équivalentes eu égard aux circonstances.
+- c) La Conférence de la Charte peut autoriser la partie contractante lésée à suspendre celles de ses obligations à l’égard de la partie contractante défaillante, conformément aux dispositions des art. 5 ou 29 ou conformément aux dispositions de l’accord OMC qui s’appliquent en vertu de l’art. 29, que la partie contractante lésée estime équivalentes eu égard aux circonstances.
 - d) La suspension d’obligations est temporaire et n’est applicable que jusqu’au moment où la mesure jugée incompatible avec l’art. 5 ou l’art. 29 a été supprimée ou jusqu’au moment où une solution mutuellement satisfaisante a été trouvée.
 - 6\. a) Avant de suspendre de telles obligations, la partie contractante lésée informe la partie contractante défaillante de la nature et du degré de la suspension qu’elle propose. Si la partie contractante défaillante adresse au Secrétaire général une objection écrite concernant le niveau de suspension des obligations proposé par la partie contractante lésée, l’objection est soumise à l’arbitrage tel que prévu ci-dessous. Il est sursis à la suspension proposée des obligations jusqu’au moment où l’arbitrage est terminé et où la décision du jury d’arbitrage est devenue définitive et obligatoire conformément au point e).
 - b) Conformément au par. 2, points d) à f), le Secrétaire général constitue un jury d’arbitrage, qui, dans la mesure du possible, doit être le même jury que celui qui a adopté la décision ou la recommandation visée au par. 4, point d), afin qu’il examine le niveau des obligations que la partie contractante lésée propose de suspendre. Sauf décision contraire de la Conférence de la Charte, le règlement de procédure applicable aux délibérations du jury est adopté conformément au par. 3, point a).
@@ -2062,7 +2044,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 - e) La décision du jury d’arbitrage devient définitive et obligatoire 30 jours après la date de sa soumission à la Conférence de la Charte, et le niveau de suspension des avantages qu’elle autorise peut être appliqué par la partie contractante lésée d’une manière qu’elle juge équivalente eu égard aux circonstances, à moins que la Conférence de la Charte en décide autrement avant l’expiration de la période de 30 jours.
 - f) En suspendant une obligation à l’égard de la partie contractante défaillante, la partie contractante lésée s’efforce dans toute la mesure du possible de ne pas affecter négativement les échanges de toute autre partie contractante.
 
-\7. Chaque partie contractante, au cas où elle est également membre de l'OMC, peut désigner deux personnes qui, si elles se déclarent disposées et sont aptes à servir comme membre d’un jury au titre de la présente annexe, sont des personnes dont les noms figurent dans la liste indicative de personnes ayant ou non des attaches avec des administrations nationales, visée à l’art. 8 du Mémorandum d’accord sur les règles et procédures régissant le règlement des différends figurant à l’annexe 2 de l’accord OMC ou qui ont dans le passé fait partie d’un groupe spécial de règlement de différends dans le cadre du GATT ou de l’OMC. Le Secrétaire général peut également désigner, avec l’approbation de la Conférence de la Charte, au maximum dix personnes qui se déclarent disposées et sont aptes à servir comme membres d’un jury aux fins du règlement de différends conformément aux par. 2 à 4. La Conférence de la Charte peut en outre décider de désigner aux mêmes fins jusqu’à 20 personnes qui figurent sur les listes d’autres organismes internationaux pour le règlement de différends et qui se déclarent disposés et sont aptes à faire partie de jurys. Les personnes ainsi désignées constituent la liste de membres de jurys pour le règlement des différends. Elles sont désignées selon des critères stricts d’objectivité, d’honnêteté et d’esprit de discernement et doivent avoir, autant que possible, une expérience dans le domaine du commerce international et des matières énergétiques, notamment en ce qui concerne les dispositions applicables en vertu de l’art. 29. Dans l’exercice de toute fonction relevant de la présente annexe, les personnes désignées ne doivent pas être liées à une partie contractante et ne pas en recevoir d’instructions. Elles ont un mandat renouvelable de cinq ans, qui court jusqu’à ce que leurs successeurs soient désignés. Une personne désignée dont le mandat vient à expiration continue à remplir toute fonction pour laquelle elle a été choisie au titre de la présente annexe. En cas de décès, de démission ou d’incapacité d’une personne désignée, la partie contractante ou le Secrétaire général qui avait désigné cette personne a le droit de désigner une autre personne pour le mandat restant à courir, la désignation par le Secrétaire général étant soumise à l’approbation de la Conférence de la Charte.
+\7. Chaque partie contractante, au cas où elle est également membre de l’OMC, peut désigner deux personnes qui, si elles se déclarent disposées et sont aptes à servir comme membre d’un jury au titre de la présente annexe, sont des personnes dont les noms figurent dans la liste indicative de personnes ayant ou non des attaches avec des administrations nationales, visée à l’art. 8 du Mémorandum d’accord sur les règles et procédures régissant le règlement des différends figurant à l’annexe 2 de l’accord OMC ou qui ont dans le passé fait partie d’un groupe spécial de règlement de différends dans le cadre du GATT ou de l’OMC. Le Secrétaire général peut également désigner, avec l’approbation de la Conférence de la Charte, au maximum dix personnes qui se déclarent disposées et sont aptes à servir comme membres d’un jury aux fins du règlement de différends conformément aux par. 2 à 4. La Conférence de la Charte peut en outre décider de désigner aux mêmes fins jusqu’à 20 personnes qui figurent sur les listes d’autres organismes internationaux pour le règlement de différends et qui se déclarent disposés et sont aptes à faire partie de jurys. Les personnes ainsi désignées constituent la liste de membres de jurys pour le règlement des différends. Elles sont désignées selon des critères stricts d’objectivité, d’honnêteté et d’esprit de discernement et doivent avoir, autant que possible, une expérience dans le domaine du commerce international et des matières énergétiques, notamment en ce qui concerne les dispositions applicables en vertu de l’art. 29. Dans l’exercice de toute fonction relevant de la présente annexe, les personnes désignées ne doivent pas être liées à une partie contractante et ne pas en recevoir d’instructions. Elles ont un mandat renouvelable de cinq ans, qui court jusqu’à ce que leurs successeurs soient désignés. Une personne désignée dont le mandat vient à expiration continue à remplir toute fonction pour laquelle elle a été choisie au titre de la présente annexe. En cas de décès, de démission ou d’incapacité d’une personne désignée, la partie contractante ou le Secrétaire général qui avait désigné cette personne a le droit de désigner une autre personne pour le mandat restant à courir, la désignation par le Secrétaire général étant soumise à l’approbation de la Conférence de la Charte.
 
 \8. Nonobstant les dispositions de la présente annexe, les parties contractantes sont invitées à se consulter pendant toute la procédure de règlement du différend qui les oppose, en vue de résoudre celui-ci.
 
@@ -2074,7 +2056,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 - b) il n’y a aucune obligation de retirer une mesure dont il a été constaté qu’elle annule ou entrave les avantages en vertu de l’art. 29 sans qu’il y ait violation de cet article; en pareil cas, le jury recommande néanmoins que la partie contractante concernée procède à un ajustement mutuellement satisfaisant;
 - c) le jury d’arbitrage prévu au par. 6, point (b), peut déterminer, à la demande de l’une ou l’autre des parties, l’importance des avantages qui ont été annulés ou entravés et peut également suggérer des moyens d’atteindre un ajustement mutuellement satisfaisant; ces suggestions ne sont pas obligatoires pour les parties au différend.
 
-17.[^t-18] Annexe B
+\17. Annexe B[^t-18]
 
 ## Formules de répartition des frais découlant de la Charte
 
@@ -2086,13 +2068,13 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 \2. Les contributions sont adaptées, si nécessaire, afin que le total des contributions des parties contractantes atteigne 100 %.
 
-18.[^t-19] Annexe PA
+\18. Annexe PA[^t-19]
 
 ## Liste des signataires qui n’acceptent pas l’application provisoire de l’art. 45, par. 3, point b)
 
 [^t-19]: Anciennement 13.
 
-(conformément à l’art. 45, par. 3, point c))
+(conformément à l’art. 45, par. 3, point c)
 
 \1. La République tchèque
 
@@ -2106,7 +2088,7 @@ En vertu de l’art. 29, par. 2, point a), les dispositions suivantes de l’acc
 
 \6. La Slovaquie
 
-19.[^t-20] Annexe T
+\19. Annexe T[^t-20]
 
 ## Mesures transitoires adoptées par les Parties contractantes
 
@@ -2124,35 +2106,17 @@ Suit la liste de dérogations transitoires par pays.[^annex19T-lvlu1-1]
 
 ## Décisions relatives à la Charte européenne de l’énergie
 
+[^annex19T-lvlu2-1]
+
+[^annex19T-lvlu2-1]: Mises à jour par l’art. 1 ch. III de l’Am. du 3 déc. 2024, en vigueur depuis le 3 déc. 2024 ([RO 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
+
 La Conférence de la Charte européenne de l’énergie adopte les décisions suivantes:
 
 \1. En ce qui concerne le traité dans son ensemble
 
-En cas de conflit entre le Traité concernant le Spitzberg du 9 février 1920[^annex19T-lvlu2-1] (traité de Svalbard) et le traité sur la Charte de l’énergie, le traité concernant le Spitzberg l’emporte pour tout ce qui concerne ledit conflit, sans préjudice des positions des parties contractantes au sujet du traité de Svalbard. En cas de conflit de ce genre, ou en cas de différend sur le point de savoir s’il existe un tel conflit ou sur son étendue, l’article 16 et la partie V du traité sur la Charte de l’énergie ne sont pas applicables.
+En cas de conflit entre le Traité concernant le Spitzberg du 9 février 1920[^annex19T-lvlu2-2] (traité de Svalbard) et le traité sur la Charte de l’énergie, le traité concernant le Spitzberg l’emporte pour tout ce qui concerne ledit conflit, sans préjudice des positions des parties contractantes au sujet du traité de Svalbard. En cas de conflit de ce genre, ou en cas de différend sur le point de savoir s’il existe un tel conflit ou sur son étendue, l’article 16 et la partie V du traité sur la Charte de l’énergie ne sont pas applicables.
 
-\2. En ce qui concerne l’art. 10, par. 7
-
-La Fédération de Russie peut demander que les entreprises à participation étrangère obtiennent une autorisation législative pour le crédit-bail relatif à un bien de propriété fédérale, pour autant qu’elle assure que, sans exception aucune, cette procédure n’est pas appliquée de manière à introduire une discrimination entre les investissements des investisseurs des autres parties contractantes.
-
-\3. En ce qui concerne l’art. 14
-
-\1) Le terme «liberté des transferts» apparaissant à l’art. 14 par. 1 n’empêche pas une partie contractante, ci-après dénommée «partie restreignante», d’appliquer des restrictions aux mouvements de capitaux de ses propres investisseurs, à condition que:
-
-- a) ces restrictions n’entravent pas l’exercice des droits accordés en vertu de l’art. 14, par. 1, aux investisseurs des autres parties contractantes en ce qui concerne leurs investissements;
-- b) ces restrictions n’affectent pas les opérations commerciales courantes, et
-- c) la partie contractante assure que les investissements effectués dans sa zone par les investisseurs de toutes les autres parties contractantes bénéficient, en matière de transferts, d’un traitement aussi favorable que celui qu’elle accorde aux investissements des investisseurs de toute autre partie contractante ou de tout État tiers, le traitement à retenir étant celui qui est le plus favorable.
-
-\2) La présente décision sera examinée par la Conférence de la Charte cinq ans après l’entrée en vigueur du traité, mais au plus tard à la date prévue à l’art. 32, par. 3.
-
-\3) Aucune partie contractante n’a le droit d’appliquer ces restrictions à moins qu’elle ne soit un État qui a fait partie de l’ancienne Union des républiques socialistes soviétiques et qu’elle ait fait savoir par écrit au Secrétariat provisoire, avant le 1<sup>er</sup> juillet 1995, qu’elle souhaite pouvoir appliquer des restrictions conformément à la présente décision.
-
-\4) Afin de prévenir toute équivoque, la présente décision ne déroge en rien, en ce qui concerne l’art. 16, aux droits qui en découlent pour les parties contractantes, ses investisseurs ou leurs investissements, ni aux obligations des parties contractantes.
-
-\5) Aux fins de la présente décision: les «opérations commerciales courantes» sont les paiements courants liés aux mouvements de biens, de services ou de personnes qui sont effectués conformément aux pratiques internationales normales et ne comprennent pas les arrangements qui combinent concrètement une opération commerciale courante et une opération en capital, tels que sursis de paiement et avances, qui visent à contourner la législation respective de la partie restreignante en la matière.
-
-\4. En ce qui concerne l’art. 14, par. 2
-
-Sans préjudice des conditions énoncées à l’art. 14 et de ses autres obligations internationales, la Roumanie s’efforce, au cours de la transition vers une convertibilité totale de sa monnaie nationale, de prendre les mesures appropriées pour améliorer l’efficacité de ses procédures de transfert de revenus d’investissements et garantit, dans tous les cas, ces transferts en une monnaie librement convertible sans restriction ni retard excédant six mois. La Roumanie assure que les investissements effectués dans sa zone par les investisseurs de toutes les autres parties contractantes bénéficient, en matière de transferts, d’un traitement aussi favorable que celui qu’elle accorde aux investissements des investisseurs de toute autre partie contractante ou de tout État tiers, le traitement à retenir celui qui est le plus avantageux.
+\2. à 4. …
 
 \5. En ce qui concerne l’art. 24, par. 4, point a) et l’art. 25
 
@@ -2161,9 +2125,13 @@ Les investissements d’un investisseur visés à l’art. 1, par. 7, point a) i
 - a) aient leur siège social, leur administration centrale ou leur principal établissement dans la zone d’une partie à l’AIE ou d’un membre de cet espace de libre échange ou de cette union douanière, ou
 - b) si ces investissements sont simplement établis sur leur sol, qu’ils aient un lien effectif et suivi avec l’économie d’une partie à cet AIE ou d’un membre de cette zone de libre échange ou de cette union douanière.
 
-[^annex19T-lvlu2-1]: [RS 0.142.115.981](https://fedlex.data.admin.ch/eli/cc/41/464_470_450)
+[^annex19T-lvlu2-2]: [RS 0.142.115.981](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/348)
 
 ## Acte final de la Conférence sur la Charte européenne de l’énergie
+
+[^annex19T-lvlu3-1]
+
+[^annex19T-lvlu3-1]: Mis à jour par l’art. 1 ch. I par. 1 et 3, II par. 1 à 7 et IV de l’Am. du 3 déc. 2024, en vigueur depuis le 3 déc. 2024 ([RO 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
 
 I. La dernière séance plénière de la Conférence sur la Charte européenne de l’énergie s’est tenue à Lisbonne les 16 et 17 décembre 1994. Les représentants de la République d’Albanie, de la République fédérale d’Allemagne, de la République d’Arménie, de l’Australie, de la République d’Autriche, de la République azerbaïdjanaise, du Royaume de Belgique, de la République du Belarus, de la République de Bulgarie, du Canada, de la République de Chypre, des Communautés européennes, de la République de Croatie, du Royaume de Danemark, des États-Unis d’Amérique, du Royaume d’Espagne, de la République d’Estonie, de la République de Finlande, de la République française, de la République de Géorgie, de la République hellénique, de la République de Hongrie, de l’Irlande, de la République de l’Islande, de la République italienne, du Japon, de la République du Kazakhstan, de la République kirghize, de la République de Lettonie, de la Principauté du Liechtenstein, de la République de Lituanie, du Grand-Duché de Luxembourg, de la République de Malte, de la République de Moldova, du Royaume de Norvège, de la République d’Ouzbékistan, du Royaume des Pays-Bas, de la République de Pologne, de la République portugaise, de la Roumanie, de la Fédération de Russie, de la République slovaque, de la République de Slovénie, du Royaume de Suède, de la Confédération suisse, de la République tchèque, de la République de Turquie, de la République du Tadjikistan, du Turkménistan, de l’Ukraine et du Royaume de Grande-Bretagne et d’Irlande du Nord, ci-après dénommés «représentants», ont participé à la Conférence, de même que des observateurs de certains pays et de certaines organisations internationales qui étaient invités à y prendre part.
 
@@ -2216,7 +2184,7 @@ IV. En signant l’Acte final, les représentants sont convenus d’adopter les 
   - iv) l’enlèvement et l’élimination des déchets provenant d’installations liées à l’énergie, telles que les centrales électriques, y compris les déchets radioactifs provenant des centrales nucléaires;
   - v) le déclassement des installations liées à l’énergie, y compris les plates-formes pétrolières, les raffineries de pétrole et les centrales électriques;
   - vi) la commercialisation, la vente et les échanges de matières et de produits énergétiques, par exemple la vente d’essence au détail, et
-  - vii) les activités de recherche, de conseil, de planification, de gestion et de conception liées aux activités mentionnées ci-dessus, y compris celles visant à améliorer l’efficacité énergétique.
+  - vii) les activités de recherche, de conseil, de planification, de gestion et de conception liées aux activités mentionnées ci-dessus, y compris celles visant à améliorer l’efficacité énergétique, telles que définies à l’art. 19 par. 7 pt. c)[^annex19T-lvlu3-lvlu3-1].
 
 \3. En ce qui concerne l’art. 1, point 6
 
@@ -2232,9 +2200,7 @@ En cas de doute sur le point de savoir si l’investisseur contrôle, directemen
 
 En conformité avec la politique de l’Australie en matière d’investissements étrangers, le lancement d’un nouveau projet d’extraction ou de traitement de matières premières en Australie, avec un investissement total de 10 millions de dollars australiens ou davantage par un intérêt étranger, est considéré comme un nouvel investissement, même lorsque cet intérêt étranger exploite déjà une entreprise similaire en Australie.
 
-\5. En ce qui concerne l’art. 1, point 12
-
-Les représentants reconnaissent la nécessité d’une protection adéquate et efficace des droits de propriété intellectuelle, en conformité avec les normes les plus élevées internationalement acceptées.
+\5. …
 
 \6. En ce qui concerne l’art. 5, par. 1
 
@@ -2308,66 +2274,44 @@ Les modifications techniques des annexes pourraient inclure, par exemple, la rad
 - a) Si certaines des parties à un accord visé au par. 1 n’ont pas signé le traité ou n’y ont pas adhéré au moment requis pour la notification, les parties à l’accord qui ont signé le traité ou y ont adhéré peuvent faire une notification en leur nom.
 - b) Il n’est pas prévu qu’il sera nécessaire de notifier de façon générale les accords de nature purement commerciale étant donné que ces accords ne posent pas de problème de conformité avec l’art. 29, par. 2, point a), même lorsqu’ils sont conclus par des organismes publics. La Conférence de la Charte pourrait toutefois préciser, aux fins de l’annexe TFU, les types d’accords visés à l’art. 29, par. 2, point b), qui requièrent une notification en vertu de l’annexe et ceux qui n’en requièrent pas.
 
+[^annex19T-lvlu3-lvlu3-1]: Actuellement art. 19, par. 3, pt. c.
+
 ### Déclarations
 
 V. Les représentants déclarent que l’art. 18, par. 2, ne doit pas être interprété comme permettant de circonvenir l’application des autres dispositions du traité.
 
 VI. Les représentants prennent également acte des déclarations suivantes faites au sujet du traité:
 
-\1. En ce qui concerne l’art. 1, point 6
+\1. En ce qui concerne l’art. 7
 
-La Fédération de Russie souhaite que soit reconsidéré, dans le cadre des négociations relatives au traité complémentaire visé à l’art. 10, par. 4, le rôle de la législation nationale en ce qui concerne la question du contrôle telle que formulée dans la clause interprétative relative à l’art. 1, par. 6.
-
-\2. En ce qui concerne l’art. 5 et l’art. 10, par. 11
-
-L’Australie note que les dispositions de l’art. 5 et de l’art. 10, par. 11, ne diminuent pas les droits et obligations découlant du GATT, y compris ceux prévus dans l’accord relatif aux mesures d’investissement liées au commerce, notamment en ce qui concerne la liste des exceptions figurant à l’art. 5, par. 3, liste qu’elle estime incomplète.
-
-L’Australie note en outre qu’il ne serait pas approprié que les organes de règlement des différends institués par le traité donnent des interprétations des art. III et XI du GATT dans le cadre de différends opposant des parties au GATT ou un investisseur d’une partie au GATT et une autre partie au GATT. Elle considère que, pour ce qui est de l’application de l’art. 10, par. 11, entre un investisseur et une partie au GATT, la seule question susceptible d’être examinée dans le cadre de l’art. 26 est celle des sentences arbitrales dans le cas où un jury du GATT ou un organe de règlement des différends de l’OMC établit dans un premier temps qu’une mesure d’investissement liée au commerce qui est maintenue par une partie contractante est incompatible avec ses obligations au titre du GATT ou de l’accord relatif aux mesures d’investissement liées au commerce.
-
-\3. En ce qui concerne l’art. 7
-
-Les Communautés européennes et leurs États membres, ainsi que l’Autriche, la Norvège, la Suède et la Finlande, déclarent que les dispositions de l’art. 7 sont soumises aux règles d’usage du droit international en matière de juridiction sur les câbles et pipelines sous-marins ou, en l’absence de telles règles, au droit international général.
+L’Union européenne, la Communauté européenne de l’énergie atomique, leurs États membres, ainsi que la Norvège, déclarent que les dispositions de l’art. 7 sont soumises aux règles d’usage du droit international en matière de juridiction sur les câbles et pipelines sous-marins ou, en l’absence de telles règles, au droit international général.
 
 Ils déclarent également que l’art. 7 n’est pas destiné à affecter l’interprétation du droit international existant en matière de juridiction sur les câbles et pipelines sous-marins et qu’il ne peut être considéré comme ayant un tel effet.
 
-\4. En ce qui concerne l’art. 10
+\2. En ce qui concerne l’art. 25
 
-Le Canada et les États-Unis affirment tous deux qu’ils appliqueront les dispositions de l’art. 10 en conformité avec les considérations suivantes:
+L’Union européenne, la Communauté européenne de l’énergie atomique et leurs États membres rappellent que, conformément à l’art. 54 du traité sur le fonctionnement de l’Union européenne:
 
-Aux fins de l’appréciation du traitement qui doit être accordé aux investisseurs des autres parties contractantes et à leurs investissements, il sera nécessaire d’examiner les circonstances cas par cas. Une comparaison entre le traitement accordé aux investisseurs d’une partie contractante ou aux investissements des investisseurs d’une partie contractante et celui accordé aux investisseurs ou aux investissements d’une autre partie contractante n’est valable que si elle est faite entre investisseurs et investissements se trouvant dans des circonstances similaires. Pour déterminer si un traitement différentiel des investisseurs ou des investissements est compatible avec l’art. 10, il y a lieu de prendre en considération deux facteurs fondamentaux.
+- a) les sociétés ou entreprises constituées en conformité avec la législation d’un État membre et ayant leur siège social, leur administration centrale ou leur principal établissement à l’intérieur de l’Union européenne sont traitées, en ce qui concerne le droit d’établissement prévu par la troisième partie, titre IV, chap. 2, du traité sur le fonctionnement de l’Union européenne, de la même manière que les personnes physiques qui sont des ressortissants d’un État membre; les sociétés ou entreprises qui ont seulement leur siège social à l’intérieur de l’Union européenne doivent, à cette fin, présenter un lien effectif et continu avec l’économie de l’un des États membres;
+- b) par «sociétés ou entreprises» on entend les sociétés ou entreprises de droit civil ou commercial, y compris les coopératives, et les autres personnes morales régies par le droit public ou privé, à l’exception de celles qui ne poursuivent pas de but lucratif.
 
-Le premier facteur réside dans les objectifs de politique générale des parties contractantes dans différents domaines, dans la mesure où ils sont compatibles avec les principes de non-discrimination énoncés à l’art. 10. Des objectifs légitimes peuvent justifier un traitement différentiel des investisseurs ou des investissements étrangers afin de refléter une différence de circonstances pertinentes entre ces investisseurs et ces investissements et leurs homologues nationaux. À titre d’exemple, l’objectif visant à assurer l’intégrité du système financier d’un pays peut justifier des mesures prudentielles raisonnables envers des investisseurs ou investissements étrangers, alors que de telles mesures ne sont pas nécessaires pour assurer la réalisation des mêmes objectifs lorsqu’il s’agit d’investisseurs ou d’investissements nationaux. Ces investisseurs étrangers ou leurs investissements ne se trouveraient ainsi pas dans des «circonstances similaires» à celles des investisseurs nationaux ou de leurs investissements. Par conséquent, même si une telle mesure revient à accorder un traitement différentiel, elle n’est pas contraire à l’art. 10.
+L’Union européenne, la Communauté européenne de l’énergie atomique et leurs États membres rappellent en outre que:
 
-Le deuxième facteur réside dans l’ampleur avec laquelle la mesure est motivée par le fait que l’investisseur ou l’investissement concerné est l’objet d’une propriété étrangère ou d’un contrôle étranger. Une mesure visant spécifiquement des investisseurs parce qu’ils sont étrangers, sans raison compensatoires suffisantes de politique générale, compatible avec le paragraphe précédent, serait contraire aux principes de l’art. 10. L’investisseur ou l’investissement étranger se trouverait dans des «circonstances similaires» à celles des investisseurs nationaux et de leurs investissements, et la mesure serait contraire à l’art. 10.
+la législation communautaire prévoit la possibilité d’élargir le traitement décrit ci-dessus aux filiales et aux agences des sociétés ou entreprises qui ne sont pas établies dans l’un des États membres; et l’application de l’art. 25 du traité sur la Charte de l’énergie n’admet que les dérogations nécessaires pour préserver le traitement préférentiel résultant du processus plus large d’intégration économique qui découle des traités instituant l’Union européenne.
 
-\5. En ce qui concerne l’art. 25
-
-Les Communautés européennes et leurs États membres rappellent que, conformément à l’art. 58 du traité instituant la Communauté européenne:
-
-- a) les sociétés ou entreprises constituées en conformité avec la législation d’un État membre et ayant siège social, leur administration centrale ou leur principal établissement à l’intérieur de la Communauté sont traitées, en ce qui concerne le droit d’établissement prévu par la troisième partie, titre III, chap. 2, du traité instituant la Communauté européenne, de la même manière que les personnes physiques qui sont des ressortissants d’un État membre; les sociétés ou entreprises qui ont seulement leur siège social à l’intérieur de la Communauté doivent, à cette fin, présenter un lien effectif et continu avec l’économie de l’un des États membres;
-- b) par «société ou entreprises» on entend les sociétés ou entreprises de droit civil ou commercial, y compris les coopératives, et les autres personnes morales régies par le droit public ou privé, à l’exception de celles qui ne poursuivent pas de but lucratif.
-
-Les Communautés européennes et leurs États membres rappellent en outre que: la législation communautaire prévoit la possibilité d’élargir le traitement décrit ci-dessus aux filiales et aux agences des sociétés ou entreprises qui ne sont pas établies dans l’un des États membres, et l’application de l’art. 25 du traité sur la Charte de l’énergie n’admet que les dérogations nécessaires pour préserver le traitement préférentiel résultant du processus plus large d’intégration économique qui découle des traités instituant les Communautés européennes.
-
-\6. En ce qui concerne l’art. 40
+\3. En ce qui concerne l’art. 40
 
 Le Danemark rappelle que la Charte européenne de l’énergie ne s’applique pas au Groenland ni aux îles Féroé tant qu’une notification à cet effet n’a pas été reçue de la part des gouvernements locaux du Groenland et des îles Féroé.
 
 À ce sujet, le Danemark affirme que l’art. 40 du traité s’applique au Groenland et aux îles Féroé.
 
-\7. En ce qui concerne l’annexe G par. 4
+\4. En ce qui concerne l’annexe W par. 4
 
-- a) Les Communautés européennes et la Fédération de Russie déclarent que les échanges de matières nucléaires entre elles sont régis, jusqu’au moment où elles parviendront à un autre accord, par les dispositions de l’art. 22 de l’accord sur le partenariat et la coopération établissant un partenariat entre les Communautés européennes et leurs États membres, d’une part, et la Fédération de Russie, d’autre part, signé à Corfou le 24 juin 1994, les échanges de lettres y annexés et la déclaration commune y afférente, et que les différends relatifs à ces échanges seront soumis aux procédures dudit accord.
-- b) Les Communautés européennes et l’Ukraine déclarent que, conformément à l’accord de partenariat et de coopération signé à Luxembourg le 14 juin 1994 et l’accord intérimaire y relatif paraphé au même lieu et à la même date, les échanges de matières nucléaires entre elles seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et l’Ukraine.
-- Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989, continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre elles.
-- c) Les Communautés européennes et le Kazakhstan déclarent que, conformément à l’accord de partenariat et de coopération paraphé à Bruxelles le 20 mai 1994, les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et le Kazakhstan.
-- Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989 continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre eux.
-- d) Les Communautés européennes et le Kirghistan déclarent que, conformément à l’accord de partenariat et de coopération paraphé à Bruxelles le 31 mai 1994, les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et le Kirghistan.
-- Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989 continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre eux.
-- e) Les Communautés européennes et le Tadjikistan déclarent que les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et le Tadjikistan.
-- Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989 continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre eux.
-- [tab] européennes et l’Ouzbékistan déclarent que les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et l’Ouzbékistan.
-- Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989 continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre eux.
+- a) La Communauté européenne de l’énergie atomique (Euratom) et l’Ukraine déclarent que, conformément à l’accord de partenariat et de coopération signé à Luxembourg le 14 juin 1994 et l’accord intérimaire y relatif paraphé au même lieu et à la même date, les échanges de matières nucléaires entre elles seront exclusivement régis par les dispositions d’un accord entre l’Euratom et le Cabinet des ministres de l’Ukraine pour la coopération dans le domaine des utilisations pacifiques de l’énergie nucléaire.
+- b) L’Euratom et le Kazakhstan déclarent que, conformément à l’accord de partenariat et de coopération paraphé à Bruxelles le 20 mai 1994, les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord entre l’Euratom et le gouvernement de la République du Kazakhstan pour la coopération dans le domaine des utilisations pacifiques de l’énergie nucléaire.
+- c) L’Euratom et le Kirghizstan déclarent que, conformément à l’accord de partenariat et de coopération paraphé à Bruxelles le 31 mai 1994, les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et le Kirghizstan. Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989 continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre eux.
+- d) L’Euratom et le Tadjikistan déclarent que les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord spécial à conclure entre la Communauté européenne de l’énergie atomique et le Tadjikistan. Jusqu’à l’entrée en vigueur de cet accord spécial, les dispositions de l’accord entre la Communauté économique européenne et la Communauté européenne de l’énergie atomique et l’Union des républiques socialistes soviétiques concernant le commerce et la coopération commerciale et économique, signé à Bruxelles le 18 décembre 1989 continueront à s’appliquer exclusivement aux échanges de matières nucléaires entre eux.
+- e) L’Euratom et l’Ouzbékistan déclarent que les échanges de matières nucléaires entre eux seront exclusivement régis par les dispositions d’un accord entre l’Euratom et le gouvernement de la République de l’Ouzbékistan pour la coopération dans le domaine des utilisations pacifiques de l’énergie nucléaire.
 
 ### Le protocole sur l’efficacité énergétique et les aspects environnementaux connexes
 
@@ -2375,7 +2319,7 @@ VII. La Conférence sur la Charte européenne de l’énergie a adopté le texte
 
 ### La Charte européenne de l’énergie
 
-VIII. La Conférence provisoire de la Charte et la Conférence de la Charte prévues par le traité sont dorénavant responsables de la prise de décisions concernant les demandes de signature du document de clôture de la Conférence de La Haye sur la Charte européenne de l’énergie et de la Charte européenne de l’énergie adoptée par celle-ci.
+VIII. La Conférence de la Charte prévue par le traité est dorénavant responsable de la prise de décisions concernant les demandes de signature du document de clôture de la Conférence de La Haye sur la Charte européenne de l’énergie et de la Charte européenne de l’énergie adoptée par celle-ci ainsi que du document de clôture de la Conférence ministérielle (La Haye II) sur la Charte internationale de l’énergie et la Charte internationale de l’énergie adoptée par celle-ci.
 
 ### Documentation
 
@@ -2385,11 +2329,11 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 (Suivent les signatures)
 
-### Application provisoire
+## Application provisoire
 
-[^annex19T-lvlu3-lvlu8-1]
+[^annex19T-lvlu4-1]
 
-[^annex19T-lvlu3-lvlu8-1]: Introduit par l’art. 6 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu4-1]: Introduit par l’art. 6 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (1) Les signataires, qui appliquent provisoirement le traité sur la Charte de l’énergie conformément à l’art. 45, par. 1, et les parties contractantes conviennent d’appliquer la présente modification à titre provisoire, en attendant son entrée en vigueur en ce qui les concerne, dans la mesure où cette application provisoire n’est pas incompatible avec leur Constitution ou leurs lois et règlements.
 
@@ -2405,11 +2349,11 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 (3) Tout signataire ou partie contractante peut mettre un terme à son application provisoire de la présente modification en notifiant par écrit au dépositaire son intention de ne pas la ratifier, l’accepter ou l’approuver. La fin de l’application provisoire prend effet, pour tout signataire ou partie contractante, à l’expiration d’un délai de soixante jours à compter du jour où le dépositaire reçoit sa notification écrite. Tout signataire qui met fin à son application provisoire du traité sur la Charte de l’énergie conformément à l’art. 45, par. 3, point (a), est réputé avoir également mis un terme à son application provisoire de la présente modification, avec effet à la même date.
 
-### Statut des décisions
+## Statut des décisions
 
-[^annex19T-lvlu3-lvlu9-1]
+[^annex19T-lvlu5-1]
 
-[^annex19T-lvlu3-lvlu9-1]: Introduit par l’art. 7 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu5-1]: Introduit par l’art. 7 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 Les décisions adoptées en liaison avec l’adoption de la présente modification font partie intégrante du traité sur la Charte de l’énergie.
 
@@ -2454,8 +2398,8 @@ Champ d’application le 11 avril 2024[^t-21]
 <tr><td>République tchèque</td><td>17 juin</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Roumanie</td><td>12 août</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Royaume-Uni</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>[tab] Île de Man</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
-<tr><td>[tab] Jersey</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Île de Man</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Jersey</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Slovaquie</td><td>16 octobre</td><td>1995</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Suède</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Suisse</td><td>19 septembre</td><td>1996</td><td>16 avril</td><td>1998</td></tr>
@@ -2463,7 +2407,7 @@ Champ d’application le 11 avril 2024[^t-21]
 <tr><td>Turkménistan</td><td>17 juillet</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Turquie</td><td>5 avril</td><td>2001</td><td>4 juillet</td><td>2001</td></tr>
 <tr><td>Ukraine</td><td>29 octobre</td><td>1998</td><td>27 janvier</td><td>1999</td></tr>
-<tr><td>[tab] Union européenne (UE)</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
+<tr><td>Union européenne (UE)</td><td>16 décembre</td><td>1997</td><td>16 avril</td><td>1998</td></tr>
 <tr><td>Yémen</td><td>31 octobre</td><td>2018 A</td><td>29 janvier</td><td>2019</td></tr>
 </table>
 

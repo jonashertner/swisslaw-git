@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Trattato del 17 dicembre 1994 sulla Carta dell'energia (con allegati, decisioni e atto finale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: it
-version: 2024-04-11
+version: 2024-12-03
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20240411/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20240411-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20240411/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20241203/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20241203-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20241203/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ Testo originale
 
 Concluso a Lisbona il 17 dicembre 1994 Approvato dall’Assemblea federale il 14 dicembre 1995[^t-1] Ratificato dalla Svizzera con strumento depositato il 19 settembre 1996 Entrato in vigore per la Svizzera il 16 aprile 1998
 
-(Stato 11 aprile 2024)
+(Stato 3 dicembre 2024)
 
 [^t-1]: RU **1998** 2734 RU **1998** 2733
 
@@ -62,9 +62,9 @@ hanno convenuto quanto segue:
 [^ingress-2]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-3]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 [^ingress-4]: Nuovo testo della parte di frase giusta l'art. 2 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^ingress-5]: [RS 0.515.03](https://fedlex.data.admin.ch/eli/cc/1977/472_472_472)
-[^ingress-6]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^ingress-7]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^ingress-5]: [RS 0.515.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1920)
+[^ingress-6]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-7]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 
 ## Parte I Definizioni e finalità
 
@@ -671,8 +671,8 @@ Qualora un investitore scelga di sottoporre la controversia per soluzione ai sen
 
 <sup>8.</sup> Il lodo arbitrale, che può comprendere una liquidazione di interessi, è inappellabile e vincolante per le Parti della controversia. Un lodo arbitrale riguardante una misura di un’autorità o ente territoriale della Parte contraente parte della controversia stabilisce che la Parte contraente possa pagare il risarcimento in moneta in luogo di qualsiasi altro rimedio (remedy) concesso. Ciascuna Parte contraente provvede senza indugio alla sua esecuzione e adotta disposizioni per rendere esecutorio detto lodo arbitrale nella propria area.
 
-[^26-1]: [RS 0.975.2](https://fedlex.data.admin.ch/eli/cc/1968/982_1022_938)
-[^26-2]: [RS 0.277.12](https://fedlex.data.admin.ch/eli/cc/1965/795_799_793)
+[^26-1]: [RS 0.975.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4570)
+[^26-2]: [RS 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
 
 #### Art. 27
 
@@ -716,7 +716,7 @@ Una controversia tra le Parti contraenti sull’applicazione o l’interpretazio
 Tutte le modifiche di tali tariffe e oneri di qualsiasi tipo applicati o connessi alle importazioni o esportazioni sono notificate al Segretariato che ne informa le Parti contraenti.
 
 - 2\. a) Gli scambi di materiali e prodotti energetici e attrezzature connesse tra Parti contraenti delle quali almeno una non è membro dell’OMC sono disciplinati, fatte salve le disposizioni di cui alla lettera b) e le eccezioni e le norme di cui all’allegato W, dalle disposizioni dell’accordo OMC applicate relativamente ai materiali e ai prodotti energetici e alle attrezzature connesse, come se tutte le Parti contraenti fossero membri dell’OMC.
-- b) Gli scambi di una Parte contraente che in precedenza faceva parte dell’ex Unione delle Repubbliche socialiste sovietiche possono invece essere disciplinati, fatto salvo il disposto dell’allegato TFU, da un accordo tra due o più di tali Stati fino al 1 dicembre 1999 ovvero fino all’ammissione nell’OMC di detta Parte contraente, se precedente.
+- b) Gli scambi di una Parte contraente che in precedenza faceva parte dell’ex Unione delle Repubbliche socialiste sovietiche possono invece essere disciplinati, fatto salvo il disposto dell’allegato TFU, da un accordo tra due o più di tali Stati fino al 1° dicembre 1999 ovvero fino all’ammissione nell’OMC di detta Parte contraente, se precedente.
 - 3\. a) Ogni firmatario del presente trattato ed ogni Stato o organizzazione regionale di integrazione economica che aderisce al presente trattato anteriormente al 24 aprile 1998, alla data della firma o del deposito del suo strumento di adesione fornisce al Segretariato un elenco di tutte le tariffe e degli altri oneri applicati ai materiali e ai prodotti energetici in concomitanza dell’importazione o dell’esportazione, indicando il livello applicato alla data della firma o del deposito. Ogni firmatario del presente trattato ed ogni Stato o organizzazione regionale di integrazione economica che aderisce al presente trattato anteriormente al 24 aprile 1998, fornisce in tale data al Segretariato un elenco di tutte le tariffe e degli altri oneri applicati alle attrezzature del settore energetico al momento dell’importazione o esportazione, indicando il livello applicato a tale data.
 - b) Ogni Stato o organizzazione regionale di integrazione economica che aderisce al presente trattato a far data dal 24 aprile 1998, alla data del deposito del suo strumento di adesione fornisce al Segretariato un elenco di tutte le tariffe e degli altri oneri applicati ai materiali e prodotti energetici e alle attrezzature connesse in concomitanza dell’importazione o dell’esportazione, indicando il livello applicato alla data del deposito.
 
@@ -759,8 +759,8 @@ tuttavia, l’allegato D non si applica alle controversie tra le Parti contraent
 - ii) istituisce una zona di libero scambio o un’unione doganale come descritto nell’articolo XXIV del GATT 1994.
 
 [^29-1]: Nuovo testo giusta l'art. 1 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
-[^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^29-3]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117); allegato 1A
+[^29-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
+[^29-3]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235); allegato 1A
 
 #### Art. 30
 
@@ -1389,7 +1389,6 @@ Il termine «Ex» di cui al presente allegato sta ad indicare che la descrizione
 <tr><td></td><td></td><td></td><td colspan="2">– Altri, azionati da motore a pistone con accensione per compressione (diesel o semi-diesel):</td></tr>
 <tr><td></td><td></td><td>Ex 8704.21</td><td colspan="2">– Di peso a pieno carico inferiore o uguale a 5 t</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">– Appositamente costruiti per il trasporto di prodotti a forte radioattività</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">[tab]</td></tr>
 <tr><td></td><td></td><td>Ex 8704.22</td><td colspan="2">– Di peso a pieno carico superiore a 5 t ed inferiore o uguale a 20 t</td></tr>
 <tr><td></td><td></td><td></td><td colspan="2">– Appositamente costruiti per il trasporto di prodotti a forte radioattività</td></tr>
 <tr><td></td><td></td><td>Ex 8704.23</td><td colspan="2">– Di peso a pieno carico superiore a 20 t</td></tr>
@@ -1762,7 +1761,9 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 <tr><td></td><td>Allegato III</td><td>Disposizioni supplementari (eccetto i paragrafi 6 e 7)</td></tr>
 </table>
 
-- ix) Accordo sulle ispezioni pre-imbarco
+-
+
+  - ix) Accordo sulle ispezioni pre-imbarco
 
 - Preambolo, commi 2 e 3
 
@@ -1773,7 +1774,9 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 <tr><td></td><td>8.</td><td>Risoluzione delle controversie</td></tr>
 </table>
 
-- x) Accordo relativo alle regole in materia di origine
+-
+
+  - x) Accordo relativo alle regole in materia di origine
 
 - Preambolo, ottavo capoverso
 
@@ -2133,37 +2136,17 @@ Segue l’elenco di deroghe transitorie di ciascun Paese[^annex19T-lvlu1-1].
 
 ## Decisioni riguardanti il Trattato sulla Carta dell’energia
 
+[^annex19T-lvlu2-1]
+
+[^annex19T-lvlu2-1]: Aggiornate dall'art. 1 cifra III dell'emendamento del 3 dic. 2024, in vigore dal 3 dic. 2024 ([RU 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
+
 La Conferenza europea della Carta dell’energia ha adottato le seguenti decisioni:
 
 \1. Trattato in generale
 
-In caso di conflitto tra il Trattato riguardante lo Spitsbergen del 9 febbraio 1920[^annex19T-lvlu2-1] (il trattato Svalbard) e il Trattato sulla Carta dell’energia, il trattato concernente Spitsbergen prevale nella misura del conflitto, senza pregiudizio delle posizioni delle Parti contraenti relativamente al trattato Svalbard. Nell’eventualità di detto conflitto o di una controversia circa la presenza di detto conflitto o la sua portata, non si applicano l’articolo 16 e la Parte V del Trattato sulla Carta dell’energia.
+In caso di conflitto tra il Trattato riguardante lo Spitsbergen del 9 febbraio 1920[^annex19T-lvlu2-2] (il trattato Svalbard) e il Trattato sulla Carta dell’energia, il trattato concernente Spitsbergen prevale nella misura del conflitto, senza pregiudizio delle posizioni delle Parti contraenti relativamente al trattato Svalbard. Nell’eventualità di detto conflitto o di una controversia circa la presenza di detto conflitto o la sua portata, non si applicano l’articolo 16 e la Parte V del Trattato sulla Carta dell’energia.
 
-\2. Articolo 10 paragrafo 7
-
-La Federazione russa può prescrivere che le società a partecipazione estera ottengano l’approvazione legislativa per il leasing di beni di proprietà federale, a condizione che la Federazione russa garantisca senza eccezioni che questa procedura non discrimini fra gli investimenti di investitori di altre Parti contraenti.
-
-\3. Articolo 14
-
-\1) Il termine «libertà di trasferimento» all’articolo 14 paragrafo 1, non impedisce ad una Parte contraente (qui di seguito designata la «Parte limitante») dall’applicare restrizioni ai movimenti di capitale dei propri investitori, a condizione che:
-
-- a) queste restrizioni non ledano i diritti attribuiti dall’articolo 14 paragrafo 1 agli investitori di altre Parti contraenti per quanto riguarda i loro investimenti;
-- b) queste restrizioni non incidano sulle operazioni correnti; e
-- c) la Parte contraente garantisca che gli investimenti nella sua area degli investitori di tutte le altre Parti contraenti ricevano, per quanto riguarda i trasferimenti, un trattamento non meno favorevole di quello concesso agli investimenti di investitori di qualsiasi altra Parte contraente o di qualsiasi altro Stato terzo, se più favorevoli.
-
-\2) La presente Decisione sarà esaminata dalla Confederazione della Carta cinque anni dopo l’entrata in vigore del Trattato, ma non oltre la data prevista nell’articolo 32 paragrafo 3.
-
-\3) Nessuna Parte contraente può applicare queste restrizioni a meno che non si tratti di uno Stato che era prima parte costituente dell’ex Unione delle Repubbliche socialiste sovietiche che ha notificato al Segretariato provvisorio per iscritto, non oltre il 1° luglio 1995, che intende avere la facoltà di applicare restrizioni conformemente alla presente decisione.
-
-\4) A fini di chiarezza, nessun elemento nella presente decisione deroga, per quanto riguarda l’articolo 16, ai diritti qui contemplati di una Parte contraente, i suoi investitori o i loro investimenti, o agli obblighi di una Parte contraente.
-
-\5) Ai fini della presente decisione, si intendono per:
-
-«Operazioni correnti»: i pagamenti correnti connessi con la circolazione di beni, servizi o persone effettuati in conformità della prassi internazionale normale e non sono comprese disposizioni che materialmente costituiscono una combinazione di un pagamento corrente con una operazione di capitale, quali dilazioni di pagamenti e anticipi intesi ad eludere la pertinente legislazione della Parte limitante in materia.
-
-\4. Articolo 14 paragrafo 2
-
-Senza pregiudizio dei requisiti dell’articolo 14 e dei suoi altri obblighi internazionali, la Romania di adopera, durante la transizione verso la piena convertibilità della sua moneta nazionale, a prendere le iniziative opportune per migliorare l’efficienza delle proprie procedure riguardanti i trasferimenti degli utili da investimenti e garantisce in ogni caso questi trasferimenti in una valuta liberamente convertibile, senza restrizioni o ritardi superiori a sei mesi. La Romania garantisce che gli investimenti nella sua area degli investitori di tutte le altre Parti contraenti ricevano, per quanto riguarda i trasferimenti, un trattamento non meno favorevole di quello concesso agli investimenti di investitori di qualsiasi altra Parte contraente o di qualsiasi Stato terzo, se più favorevole.
+\2. a 4. …
 
 \5. Articoli 24 paragrafo 4 lettera a) e 25
 
@@ -2172,9 +2155,13 @@ Un investimento di un investitore di cui all’articolo 1 paragrafo 7 lettera a)
 - a) abbia la sede sociale, l’amministrazione centrale o il principale centro di attività nell’area di una parte di detto AIE o di un membro di detta area di libero scambio o unione doganale; o
 - b) qualora abbia soltanto la sua sede sociale in detta area, disponga di un legame effettivo e continuo con l’economia di una delle parti di detto AIE o membro di detta area di libero scambio o unione doganale.
 
-[^annex19T-lvlu2-1]: [RS 0.142.115.981](https://fedlex.data.admin.ch/eli/cc/41/464_470_450)
+[^annex19T-lvlu2-2]: [RS 0.142.115.981](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/348)
 
 ## Atto finale della Conferenza della Carta europea dell’energia
+
+[^annex19T-lvlu3-1]
+
+[^annex19T-lvlu3-1]: Aggiornato dall'art. 1 cifra I par. 1 e 3, cifra II par. 1–7 e cifra IV dell'emendamento del 3 dic. 2024, in vigore dal 3 dic. 2024 ([RU 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
 
 I. La sessione plenaria finale della Conferenza della Carta europea dell’energia si è svolta a Lisbona il 16-17 dicembre 1994. Ad essa hanno partecipato rappresentanti de: la Repubblica di Albania, la Repubblica di Armenia, Australia, la Repubblica d’Austria, la Repubblica dell’Azerbaigian, il Regno del Belgio, la Repubblica di Bielorussia, la Repubblica di Bulgaria, il Canada, la Repubblica di Croazia, la Repubblica di Cipro, la Repubblica ceca, il Regno di Danimarca, la Repubblica di Estonia, le Comunità europee, la Repubblica di Finlandia, la Repubblica francese, la Repubblica di Georgia, la Repubblica federale tedesca, la Repubblica ellenica, la Repubblica di Ungheria, la Repubblica d’Islanda, Irlanda, la Repubblica italiana, il Giappone, la Repubblica del Kazakistan, la Repubblica del Kirghizistan, la Repubblica della Lettonia, il Principato di Liechtenstein, la Repubblica di Lituania, il Granducato del Lussemburgo, la Repubblica di Malta, la Repubblica di Moldavia, il Regno dei Paesi Bassi, il Regno di Norvegia, la Repubblica di Polonia, la Repubblica portoghese, la Romania, la Federazione russa, la Repubblica slovacca, la Repubblica di Slovenia, il Regno di Spagna, il Regno di Svezia, la Confederazione elvetica, la Repubblica del Tagikistan, la Repubblica di Turchia, il Turkmenistan, l’Ucraina, il Regno Unito, gli Stati Uniti d’America e la Repubblica dell’Uzbekistan (qui di seguito designati «i rappresentanti») nonché, osservatori di taluni Paesi e organizzazioni internazionali invitati.
 
@@ -2226,8 +2213,8 @@ IV. Nel firmare l’Atto finale, i rappresentanti hanno convenuto di adottare re
   - iii) il trasporto, la distribuzione, l’immagazzinamento e l’approvvigionamento di materiali e prodotti energetici, ad esempio mediante reti e condotte di trasmissione e distribuzione o linee ferroviarie dedicate nonché la costruzione dei relativi impianti, compresa la posa di condotte per il petrolio, il gas e i fanghi di carbone;
   - iv) l’eliminazione e lo smaltimento di rifiuti dagli impianti connessi con la produzione di energia quali le centrali elettriche, compresi i residui radioattivi delle centrali elettronucleari;
   - v) lo smantellamento di impianti connessi con la produzione di energia, comprese piattaforme petrolifere, raffinerie di petrolio e impianti di generazione dell’energia;
-  - vi) la commercializzazione e la vendita nonché gli scambi di materiali e prodotti energetici, ad esempio vendite al minuto di benzina, e
-  - vii) attività di ricerca, consulenza, pianificazione, gestione e progettazione connesse con le attività sopra menzionate, comprese quelle volte a migliorare l’efficienza energetica.
+  - vi) la commercializzazione e la vendita nonché gli scambi di materiali e prodotti energetici, ad esempio vendite al minuto di benzina; e
+  - vii) attività di ricerca, consulenza, pianificazione, gestione e progettazione connesse con le attività sopra menzionate, comprese quelle volte a migliorare l’efficienza energetica, come definito nell’articolo 19, paragrafo 7, lettera c)[^annex19T-lvlu3-lvlu3-1].
 
 \3. Articolo 1, paragrafo 6
 
@@ -2243,9 +2230,7 @@ Ove si dubiti sul controllo diretto o indiretto di un investitore su un investim
 
 In linea con la politica dell’Australia sugli investimenti esteri, la realizzazione di un nuovo progetto di estrazione mineraria o di trattamento di materie prime, con un investimento complessivo di 10 milioni o più di dollari australiani, ad opera di un interesse estero, costituisce la realizzazione di un nuovo investimento, anche se detto interesse estero gestisce già un’attività simile in Australia.
 
-\5. Articolo 1, paragrafo 12
-
-I rappresentanti riconoscono la necessità di una protezione adeguata ed effettiva dei diritti di proprietà intellettuale, conformemente più rigorosi standards accettati a livello internazionale.
+\5. …
 
 \6. Articolo 5, paragrafo 1
 
@@ -2319,68 +2304,44 @@ I cambiamenti tecnici degli allegati possono ad esempio, comprendere l’elimina
 - a) Se alcune Parti di un accordo di cui al paragrafo 1 non hanno firmato o non hanno aderito al Trattato al momento previsto per la notifica, le Parti dell’accordo che hanno firmato o che hanno aderito al Trattato possono effettuare la notifica per proprio conto.
 - b) Non è prevista in generale la necessità di notificare accordi di natura puramente commerciale in quanto questi accordi non sollevano un problema di conformità rispetto all’articolo 29, paragrafo 2, lettera a) anche ove essi siano stati sottoscritti da agenzie statali. La Conferenza della Carta potrebbe tuttavia chiarire, ai fini dell’allegato TFU, quali tipi di accordi, cui si fa riferimento all’articolo 29, paragrafo 2, lettera b), necessitino o meno una notifica ai sensi dell’allegato.
 
+[^annex19T-lvlu3-lvlu3-1]: Attualmente art. 19 par. 3 lett. c).
+
 ### Dichiarazioni
 
 V. I rappresentanti hanno dichiarato che l’articolo 18, paragrafo 2 non deve essere interpretato in modo da consentire di eludere l’applicazione delle altre disposizioni del Trattato.
 
 VI. I rappresentanti hanno inoltre preso nota delle seguenti dichiarazioni relative al Trattato:
 
-\1. Articolo 1, paragrafo 6
+\1. Articolo 7
 
-La Federazione russa desidera che sia riesaminato nei negoziati relativi al trattato aggiuntivo di cui all’articolo 10, paragrafo 4, il problema del rilievo della legislazione nazionale rispetto alla questione del controllo, come espressa nella clausola interpretativa sull’articolo 1, paragrafo 6.
-
-\2. Articolo 5 e articolo 10, paragrafo 11
-
-L’Australia fa presente che le disposizioni dell’articolo 5 e dell’articolo 10, paragrafo 11 non riducono i suoi diritti ed obblighi in forza del GATT, ivi compreso quanto contenuto nell’Accordo sulle misure relative agli investimenti che incidono sugli scambi allegati all’Atto finale dei negoziati commerciali multilaterali dell’Uruguay Round, segnatamente riguardo alla lista di eccezioni di cui all’articolo 5, paragrafo 3, che essa considera incompleta.
-
-L’Australia fa inoltre presente che non sarebbe opportuno per gli organi di risoluzione delle controversie istituiti ai sensi del Trattato di dare interpretazioni degli articoli III e XI del GATT nell’ambito di controversie fra parti del GATT ovvero fra un investitore di una parte del GATT ed un’altra parte del GATT. Essa considera che, riguardo all’applicazione dell’articolo 10, paragrafo 11 fra un investitore ed una parte del GATT, l’unica questione che possa essere considerata ai sensi dell’articolo 26 è quella del lodo arbitrale nel caso in cui un collegio GATT o l’organo di risoluzione delle controversie dell’OMC statuisca che una misura di investimento connessa al commercio mantenuta dalla Parte contraente è incompatibile con le sue obbligazioni ai sensi del GATT o dell’Accordo sulle misure relative agli investimenti che incidono sugli scambi.
-
-\3. Articolo 7
-
-Le Comunità europee e i loro Stati membri e l’Austria, la Norvegia, la Svezia e la Finlandia dichiarano che le disposizioni dell’articolo 7 sono soggette alle norme convenzionali del diritto internazionale sulla giurisdizione in materia di cavi e condotte sottomarini o, in assenza di queste norme, al diritto internazionale generale.
+L’Unione europea, la Comunità europea dell’energia atomica, i loro Stati membri e la Norvegia dichiarano che le disposizioni dell’articolo 7 sono soggette alle norme convenzionali del diritto internazionale sulla giurisdizione in materia di cavi e condotte sottomarini o, in assenza di queste norme, al diritto internazionale generale.
 
 Essi dichiarano inoltre che l’articolo 7 non incide sull’interpretazione del diritto internazionale vigente sulla giurisdizione in materia di cavi e condotte sottomarini e non deve essere interpretato in tal senso.
 
-\4. Articolo 10
+\2. Articolo 25
 
-Il Canada e gli Stati Uniti dichiarano entrambi che intendono applicare le disposizioni dell’articolo 10 alla luce delle considerazioni seguenti:
+L’Unione europea, la Comunità europea dell’energia atomica e i loro Stati membri ricordano che, in conformità con l’articolo 54 del Trattato sul funzionamento dell’Unione europea:
 
-Dovranno essere considerate caso per caso le circostanze per determinare il trattamento da riservare agli investitori di altre Parti contraenti e ai loro investimenti. Un raffronto tra il trattamento riservato agli investitori di una Parte contraente o gli investimenti di investitori di una Parte contraente e gli investimenti o gli investitori di un’altra Parte contraente, è valido unicamente se è effettuato tra investitori e investimenti in circostanze analoghe. Nel determinare se il trattamento differenziale di investitori o investimenti sia compatibile con l’articolo 10, si deve tener conto di due fattori fondamentali.
+- (a) le società o imprese costituite conformemente alla legislazione di uno Stato membro e aventi la sede sociale, l’amministrazione centrale o il centro di attività principale all’interno dell’Unione europea sono equiparate, per quanto riguarda il diritto di stabilimento di cui alla parte terza, titolo IV, capo 2 del Trattato sul funzionamento dell’Unione europea, alle persone fisiche aventi la cittadinanza degli Stati membri; a tal fine le società o imprese che hanno unicamente la sede sociale nell’Unione europea devono avere un legame effettivo e permanente con l’economia di uno degli Stati membri;
+- (b) con i termini «società o imprese» si intendono le società o imprese costituite conformemente al diritto civile o commerciale, comprese le società cooperative e altre persone giuridiche disciplinate dal diritto pubblico o privato, con esclusione di quelle senza scopo di lucro.
 
-Il primo fattore riguarda gli obiettivi politici delle Parti contraenti in vari campi nella misura in cui essi sono compatibili con i principi di non discriminazione stabiliti dall’articolo 10. Legittimi obiettivi politici possono giustificare il trattamento differenziale di investitori esteri o dei loro investimenti per riflettere una dissomiglianza di circostanze pertinenti tra questi investitori e investimenti e le loro controparti nazionali. Per esempio, l’obiettivo di garantire l’integrità di un sistema finanziario nazionale, giustificherebbe ragionevoli misure prudenziali rispetto a investitori o investimenti esteri, mentre nel caso di investitori o investimenti nazionali queste misure non sarebbero necessarie per garantire il conseguimento degli stessi obiettivi. Gli investitori esteri o i loro investimenti non si situano pertanto «in circostanze simili» a quelle degli investitori nazionali o dei loro investimenti. Di conseguenza, anche se una misura di questo tipo concede il trattamento differenziale, essa non sarebbe in contrasto con l’articolo 10.
+L’Unione europea, la Comunità europea dell’energia atomica e i loro Stati membri ricordano inoltre che:
 
-Il secondo fattore riguarda la congruità della motivazione della misura sul fatto che l’investitore o l’investimento di cui si tratta, è di proprietà estera oppure è sotto controllo estero. Una misura riguardante in modo specifico gli investitori in quanto stranieri, senza sufficienti motivazioni politiche di compensazione, in linea con il paragrafo precedente, sarebbe contraria ai principi dell’articolo 10. L’investitore o l’investimento estero si situerebbero in «circostanze simili» rispetto all’investitore nazionale e ai loro investimenti e la misura sarebbe contraria all’articolo 10.
+il diritto dell’Unione europea contempla la possibilità di estendere il trattamento sopra descritto alle sedi secondarie e alle agenzie di società o imprese non stabilite in uno degli Stati membri e che l’applicazione dell’articolo 25 del Trattato sulla Carta dell’energia consente unicamente le deroghe necessarie a tutelare il trattamento preferenziale derivante dal più ampio processo di integrazione economica risultante dai trattati che istituiscono l’Unione europea.
 
-\5. Articolo 25
-
-Le Comunità europee e i loro Stati membri ricordano che, in conformità dell’articolo 58 del Trattato che istituisce la Comunità europea:
-
-- a) le società o imprese costituite conformemente alla legislazione di uno Stato membro e aventi la sede sociale, l’amministrazione o il centro d’attività principale all’interno della Comunità, sono equiparate, per quanto riguarda il diritto di stabilimento, in conformità alla parte terza, titolo III, capo 2 del Trattato che istituisce la Comunità europea, alle persone fisiche aventi la cittadinanza degli Stati membri; le società o imprese che hanno unicamente la sede sociale nella Comunità devono, a tal fine, avere un legame effettivo e permanente con l’economia di uno degli Stati membri;
-- b) con i termini «società o imprese» si intendono le società o imprese costituite conformemente al diritto civile o commerciale, comprese le società cooperative e altre persone giuridiche disciplinate dal diritto pubblico o privato, con esclusione di quelle senza scopo di lucro.
-
-Le Comunità europee e i loro Stati membri ricordano inoltre che:
-
-Il diritto comunitario contempla la possibilità di estendere il trattamento sopra descritto alle sedi secondarie e alle agenzie di società o imprese non stabilite in uno degli Stati membri e che l’applicazione dell’articolo 25 consente unicamente le deroghe necessarie a tutelare il trattamento preferenziale derivante dal più ampio processo di integrazione economica risultante dai trattati che istituiscono le Comunità europee.
-
-\6. Articolo 40
+\3. Articolo 40
 
 La Danimarca ricorda che la Carta europea dell’energia non si applica alla Groenlandia e alle Isole Farøer sino al ricevimento di una notificazione a tal fine da parte dei governi locali della Groenlandia e delle Isole Farøer.
 
 A tal riguardo, la Danimarca dichiara che l’articolo 40 del Trattato si applica alla Groenlandia e alle Isole Farøer.
 
-\7. Allegato G, Punto 4
+\4. Allegato W, Punto 4
 
-- a) Le Comunità europee e la Federazione russa dichiarano che gli scambi di materiali nucleari tra di loro sono disciplinati, in attesa di raggiungere un altro accordo, dalle disposizioni dell’articolo 22 dell’accordo di partenariato e cooperazione che stabilisce un partenariato tra le Comunità europee e i loro Stati membri da un lato, e la Federazione russa dall’altro, firmato a Corfù il 24 giugno 1994, lo scambio di lettere ad esso allegato e la connessa dichiarazione congiunta, e che le controversie riguardanti questi scambi saranno soggette alle procedure di detto accordo.
-- b) Le Comunità europee e l’Ucraina dichiarano che, conformemente all’accordo di partnership e di cooperazione firmato a Lussemburgo il 14 giugno 1994 e al relativo accordo provvisorio siglato lo stesso giorno, gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni di un accordo specifico che deve essere concluso tra la Comunità europea dell’energia atomica e l’Ucraina.
-- Fino all’entrata in vigore di questo accordo specifico, agli scambi reciproci di materiali nucleari continuano ad applicarsi esclusivamente le disposizioni dell’accordo tra la Comunità economica europea, la Comunità europea dell’energia atomica e l’Unione delle Repubbliche socialiste sovietiche sugli scambi e sulla cooperazione commerciale ed economica firmato a Bruxelles il 18 dicembre 1989.
-- c) Le Comunità europee e il Kazakistan dichiarano che, conformemente all’accordo di partnership e di cooperazione siglato a Bruxelles il 20 maggio 1994 gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni di un accordo specifico che deve essere concluso tra la Comunità europea dell’energia atomica e il Kazakistan.
-- Fino all’entrata in vigore di questo accordo specifico, agli scambi reciproci di materiali nucleari continuano ad applicarsi esclusivamente le disposizioni dell’accordo tra la Comunità economica europea, la Comunità europea dell’energia atomica e l’Unione delle Repubbliche socialiste sovietiche sugli scambi e sulla cooperazione commerciale ed economica firmato a Bruxelles il 18 dicembre 1989.
-- d) Le Comunità europee e il Kirghizstan dichiarano che, conformemente all’accordo di partnership e di cooperazione siglato a Bruxelles il 31 maggio 1994 gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni di un accordo specifico che deve essere concluso tra la Comunità europea dell’energia atomica e il Kirghizstan.
-- Fino all’entrata in vigore di questo accordo specifico, agli scambi reciproci di materiali nucleari continuano ad applicarsi esclusivamente le disposizioni dell’accordo tra la Comunità economica europea, la Comunità europea dell’energia atomica e l’Unione delle Repubbliche socialiste sovietiche sugli scambi e sulla cooperazione commerciale ed economica firmato a Bruxelles il 18 dicembre 1989.
-- e) Le Comunità europee e il Tagikistan dichiarano che, gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni di un accordo specifico che deve essere concluso tra la Comunità europea dell’energia atomica e il Tagikistan.
-- Fino all’entrata in vigore di questo accordo specifico, agli scambi reciproci di materiali nucleari continuano ad applicarsi esclusivamente le disposizioni dell’accordo tra la Comunità economica europea, la Comunità europea dell’energia atomica e l’Unione delle Repubbliche socialiste sovietiche sugli scambi e sulla cooperazione commerciale ed economica firmato a Bruxelles il 18 dicembre 1989.
-- f) Le Comunità europee e l’Uzbekistan dichiarano che, gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni di un accordo specifico che deve essere concluso tra la Comunità europea dell’energia atmica e l’Uzbekistan.
-- Fino all’entrata in vigore di questo accordo specifico, agli scambi reciproci di materiali nucleari continuano ad applicarsi esclusivamente le disposizioni dell’accordo tra la Comunità economica europea, la Comunità europea dell’energia atomica e l’Unione delle Repubbliche socialiste sovietiche sugli scambi e sulla cooperazione commerciale ed economica firmato a Bruxelles il 18 dicembre 1989.
+- (a) La Comunità europea dell’energia atomica (Euratom) e l’Ucraina dichiarano che, conformemente all’accordo di partenariato e cooperazione firmato a Lussemburgo il 14 giugno 1994 e al relativo accordo provvisorio parafato lo stesso giorno, gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni dell’accordo tra l’Euratom e il Gabinetto dei ministri dell’Ucraina per la cooperazione sugli usi pacifici dell’energia nucleare.
+- (b) L’Euratom e il Kazakstan dichiarano che, conformemente all’accordo di partenariato e cooperazione parafato a Bruxelles il 20 maggio 1994, gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni dell’accordo di cooperazione sugli usi pacifici dell’energia nucleare tra l’Euratom e il governo della Repubblica del Kazakstan.
+- (c) L’Euratom e il Kirghizistan dichiarano che, conformemente all’accordo di partenariato e cooperazione parafato a Bruxelles il 31 maggio 1994, gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni di un accordo specifico che deve essere concluso tra la Comunità europea dell’energia atomica e il Kirghizistan. Fino all’entrata in vigore di questo accordo specifico, agli scambi reciproci di materiali nucleari continuano ad applicarsi esclusivamente le disposizioni dell’accordo tra la Comunità economica europea, la Comunità europea dell’energia atomica e l’Unione delle Repubbliche socialiste sovietiche sugli scambi e sulla cooperazione commerciale ed economica firmato a Bruxelles il 18 dicembre 1989.
+- (d) L’Euratom e il Tagikistan dichiarano che gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni di un accordo specifico che deve essere concluso tra la Comunità europea dell’energia atomica e il Tagikistan. Fino all’entrata in vigore di questo accordo specifico, agli scambi reciproci di materiali nucleari continuano ad applicarsi esclusivamente le disposizioni dell’accordo tra la Comunità economica europea, la Comunità europea dell’energia atomica e l’Unione delle Repubbliche socialiste sovietiche sugli scambi e sulla cooperazione commerciale ed economica firmato a Bruxelles il 18 dicembre 1989.
+- (e) L’Euratom e l’Uzbekistan dichiarano che gli scambi reciproci di materiali nucleari sono disciplinati unicamente dalle disposizioni dell’accordo di cooperazione sugli usi pacifici dell’energia nucleare concluso tra l’Euratom e il Governo della Repubblica dell’Uzbekistan.
 
 ### Il protocollo della Carta dell’energia sull’efficienza energetica e gli aspetti ambientali correlati
 
@@ -2388,7 +2349,7 @@ VII. La Conferenza sulla Carta europea dell’energia ha adottato il testo del p
 
 ### La Carta europea dell’energia
 
-VIII. La Conferenza provvisoria della Carta e la Conferenza della Carta contemplata dal Trattato sono d’ora innanzi responsabili per decidere sulle richieste di firmare il documento conclusivo della Conferenza dell’Aia sulla Carta europea dell’energia e sulla Carta europea dell’energia così adottata.
+VIII. La Conferenza della Carta contemplata dal Trattato è d’ora innanzi responsabile per decidere sulle richieste di firmare il documento conclusivo della Conferenza dell’Aia sulla Carta europea dell’energia e sulla Carta europea dell’energia così adottata nonché il documento conclusivo della Conferenza ministeriale (L’Aia II) sulla Carta internazionale dell’energia e la Carta internazionale dell’energia così adottata.
 
 ### Documentazione
 
@@ -2398,11 +2359,11 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 (Seguono le firme)
 
-### Applicazione provvisoria
+## Applicazione provvisoria
 
-[^annex19T-lvlu3-lvlu8-1]
+[^annex19T-lvlu4-1]
 
-[^annex19T-lvlu3-lvlu8-1]: Introdotta dall'art. 6 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu4-1]: Introdotta dall'art. 6 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 \1. I firmatari che applicano temporaneamente il trattato sulla Carta dell’energia ai sensi dell’articolo 45, paragrafo 1, e le parti contraenti decidono di applicare la presente modifica provvisoriamente, in attesa della sua entrata in vigore nei rispettivi territori, nella misura in cui tale applicazione provvisoria non è incompatibile con la loro costituzione o le loro leggi e i loro regolamenti.
 
@@ -2418,19 +2379,15 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 (3) Qualsiasi firmatario o parte contraente può porre fine alla sua applicazione provvisoria della presente modifica notificando per iscritto al depositario la sua intenzione di non ratificarla, accettarla o approvarla. La fine dell’applicazione provvisoria diviene effettiva, per qualsiasi firmatario o parte contraente, dopo sessanta giorni a decorrere dalla data in cui il depositario ha ricevuto la notifica scritta. Si considera che il firmatario che pone fine all’applicazione provvisoria del trattato sulla Carta dell’energia ai sensi dell’articolo 45, paragrafo 3, lettera a), pone fine anche all’applicazione provvisoria della presente modifica, con effetto alla stessa data.
 
-### Situazione giuridica delle decisioni
+## Situazione giuridica delle decisioni
 
-[^annex19T-lvlu3-lvlu9-1]
+[^annex19T-lvlu5-1]
 
-[^annex19T-lvlu3-lvlu9-1]: Introdotta dall'art. 7 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu5-1]: Introdotta dall'art. 7 dell'emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 Le decisioni adottate in relazione all’adozione della presente modifica costituiscono parte integrante del trattato sulla Carta dell’energia.
 
-## Campo d’applicazione l’11 aprile 2024
-
-[^annex19T-lvlu4-1]
-
-[^annex19T-lvlu4-1]: [RU 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+Campo d’applicazione l’11 aprile 2024[^t-22]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2483,3 +2440,5 @@ Le decisioni adottate in relazione all’adozione della presente modifica costit
 <tr><td>Uzbekistan</td><td>12 marzo</td><td>1996</td><td>16 aprile</td><td>1998</td></tr>
 <tr><td>Yemen</td><td>31 ottobre</td><td>2018 A</td><td>29 gennaio</td><td>2019</td></tr>
 </table>
+
+[^t-22]: [RU 1998 2734](https://fedlex.data.admin.ch/eli/oc/1998/2734_2734_2734); [2002 3837](https://fedlex.data.admin.ch/eli/oc/2002/588); [2006 4645](https://fedlex.data.admin.ch/eli/oc/2006/703); [2024 158](https://fedlex.data.admin.ch/eli/oc/2024/158). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
