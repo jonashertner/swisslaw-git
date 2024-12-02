@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 20.11.2024 de mise en vigueur
+title: ARRÊTÉ du 27.11.2024 de mise en vigueur
 language: fr
-version: 2024-11-26
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=44c1f468-4030-4acd-b17e-08e1193758ad"
+version: 2024-12-03
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=19c30a8e-8d98-454c-b526-0c6a62d5b0a4"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 20 novembre 2024
+du 27 novembre 2024
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,4 +21,9 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Le décret du 27 août 2024 sur le plan stratégique pluriannuel 2022-2027 de l'Université de Lausanne (BLV 414.10), publié dans la "Feuille des avis officiels du Canton de Vaud" du 10 septembre 2024, entre en vigueur avec effet au 1er décembre 2024.
+<sup>1</sup> Les décrets ci-après des 20 août et 3 septembre 2024, publiés dans la "Feuille des avis officiels du Canton de Vaud" des 3 et 20 septembre 2024, entrent en vigueur avec effet :
+
+- a. au 1er janvier 2025 :
+- 1\. décret du 20 août 2024 d'application de l'accord intercantonal du 18 février 1993 sur la reconnaissance des diplômes de fin d'études (DA-RDFE) (BLV 400.941).
+- b. au 1er juillet 2024 :
+- 1\. décret du 3 septembre 2024 sur le Plan stratégique et les mesures du programme cantonal de lutte contre la pénurie de personnel dans le domaine de la santé et des soins infirmiers, InvestPro (BLV 811.121).
