@@ -3,11 +3,11 @@ sr: "0.814.011.268"
 title: Abkommen vom 23. November 2017 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: de
-version: 2024-04-04
+version: 2024-12-04
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20240404/de/xml/fedlex-data-admin-ch-eli-cc-2018-124-20240404-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20240404/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20241204/de/xml/fedlex-data-admin-ch-eli-cc-2018-124-20241204-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20241204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2018** 895; BBl **2018** 411
 
 Abgeschlossen in Bern am 23. November 2017 Provisorische Anwendung der Artikel 11–13 ab 23. November 2017 Von der Bundesversammlung genehmigt am 22. März 2019[^t-1] Ratifikationsurkunde hinterlegt am 6. Dezember 2019 In Kraft getreten am 1. Januar 2020[^t-2] [^t-3]
 
-(Stand am 4. April 2024)
+(Stand am 4. Dezember 2024)
 
 [^t-1]: [AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
 [^t-2]: [AS 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
@@ -62,10 +62,10 @@ unter Würdigung der Einigung, die am 12. Dezember 2015[^ingress-4] auf der 21. 
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^ingress-2]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^ingress-3]: [SR 0.748.131.934.92](https://fedlex.data.admin.ch/eli/cc/1950/1299_1334_1312)
-[^ingress-4]: [SR 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
+[^ingress-1]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-2]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
+[^ingress-3]: [SR 0.748.131.934.92](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3281)
+[^ingress-4]: [SR 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 ## Kapitel I: Allgemeine Bestimmungen
 
@@ -108,8 +108,8 @@ Die Registerverknüpfung soll unter anderem:
 
 <sup>8.</sup> Probleme, die sich aus der Umsetzung und aus dem Betrieb der Registerverknüpfung ergeben, werden durch eine rechtzeitige Konsultation des Schweizer Registerverwalters und des Zentralverwalters der Union im Einklang mit den gemeinsamen Verfahrensvorschriften gelöst.
 
-[^3-1]: Die Gemeinsamen Verfahrensvorschriften (COP) können in den Beschlüssen des Gemischten Ausschusses eingesehen werden: [www.fedlex.admin.ch](https://www.fedlex.admin.ch/de/sector-specific-agreements/joint-committees-decisions-register/23) &gt; Rechtsammlung zu den sektoriellen Abkommen mit der EU &gt; Beschlüsse der gemischten Ausschüsse &gt; 23. Emissionshandel
-[^3-2]: Die Technische Verknüpfungsstandards (LTS) können in den Beschlüssen des Gemischten Ausschusses eingesehen werden: [www.fedlex.admin.ch](https://www.fedlex.admin.ch/de/sector-specific-agreements/joint-committees-decisions-register/23) &gt; Rechtsammlung zu den sektoriellen Abkommen mit der EU &gt; Beschlüsse der gemischten Ausschüsse &gt; 23. Emissionshandel
+[^3-1]: Die Gemeinsamen Verfahrensvorschriften (COP) können in [SR 0.814.011.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3478)eingesehen werden.
+[^3-2]: Die Technische Verknüpfungsstandards (LTS) können in [SR 0.814.011.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3478)eingesehen werden.
 
 #### Art. 4
 
@@ -129,7 +129,7 @@ Die Registerverknüpfung soll unter anderem:
 
 <sup>6.</sup> Bei Inkrafttreten des zweiten Verpflichtungszeitraums des Kyoto-Protokolls übertragen oder erwerben die Vertragsparteien innerhalb einer vereinbarten Frist und für den Fall der Kündigung gemäss Artikel 16 ausreichende zugeteilte, für den zweiten Verpflichtungszeitraum des Kyoto-Protokolls gültige Emissionsrechte (*Assigned Amount Units*, im Folgenden «AAU»), um Nettotransaktionen von Zertifikaten zwischen den Vertragsparteien abzudecken, soweit unter das EHS fallende Betreiber diese Zertifikate zu Zwecken der Verpflichtungserfüllung abgegeben haben und soweit diese Zertifikate Emissionen in Anlage A des Kyoto-Protokolls entsprechen. Der Mechanismus für diese Transaktionen wird in einem Anhang zu diesem Abkommen festgelegt, der durch Beschluss des Gemeinsamen Ausschusses nach dem Inkrafttreten der Änderung des Kyoto-Protokolls[^4-1] angenommen wird. Dieser Anhang enthält ferner eine Vereinbarung über die Verwaltung der Erlösanteile, die für die erste internationale Übertragung von AAU gilt.
 
-[^4-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^4-1]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 #### Art. 5
 
@@ -374,12 +374,12 @@ Anhang I[^t-4]
 <tr><td>13 Die Prüfung und Akkreditierung im Rahmen des EHS sind mindestens genauso streng wie diejenigen gemäss:</td><td>– Artikel 15 und Anhang V der Richtlinie 2003/87/EG – Durchführungsverordnung (EU) 2018/2067 der Kommission vom 19. Dezember 2018 über die Prüfung von Daten und die Akkreditierung von Prüfstellen gemäss der Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates in der zum Zeitpunkt des Inkrafttretens dieses Abkommens geltenden Fassung.</td><td>– Artikel 51–54 der CO<sub>2</sub>-Verordnung in der am 1. Januar 2022 geltenden Fassung.</td></tr>
 </table>
 
-[^annexI-lvlu1-lvlA-1]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
-[^annexI-lvlu1-lvlA-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^annexI-lvlu1-lvlA-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^annexI-lvlu1-lvlA-4]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annexI-lvlu1-lvlA-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^annexI-lvlu1-lvlA-6]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^annexI-lvlu1-lvlA-1]: [SR 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
+[^annexI-lvlu1-lvlA-2]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^annexI-lvlu1-lvlA-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^annexI-lvlu1-lvlA-4]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annexI-lvlu1-lvlA-5]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^annexI-lvlu1-lvlA-6]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### B. Wesentliche Kriterien für den Luftverkehr
 
@@ -406,7 +406,7 @@ Anhang I[^t-4]
 <tr><td>19 Unterstützung durch Eurocontrol</td><td colspan="2">Für den Luftverkehr betreffenden Teil dieses Abkommens nimmt die Europäische Kommission die Schweiz in das in Bezug auf das EU‑EHS an Eurocontrol übertragene Mandat auf.</td></tr>
 </table>
 
-[^annexI-lvlu1-lvlB-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annexI-lvlu1-lvlB-1]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ### C. Wesentliche Kriterien für die Register
 
@@ -475,16 +475,17 @@ Anhang II[^t-5]
 
 ## Technische Verknüpfungsstandards
 
-[^t-5]: Fassung gemäss Art. 1 des Beschlusses Nr. 2/2019 des Gemeinsamen Ausschusses vom 5. Dez. 2019 ([AS 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Bereinigt gemäss Art. 2 des Beschlusses Nr. 2/2020 des Gemeinsamen Ausschusses vom 5. Nov. 2020, in Kraft seit 5. Nov. 2020 ([AS 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
+[^t-5]: Fassung gemäss Art. 1 Abs. 1 des Beschlusses Nr. 1/2024 des Gemeinsamen Ausschusses vom 4. Dez. 2024, in Kraft seit 4. Dez. 2024 ([AS 2025 362](https://fedlex.data.admin.ch/eli/oc/2025/362)).
 
-Für die Operationalisierung der Verknüpfung zwischen dem EU‑EHS und dem EHS der Schweiz muss bis Mai 2020 oder so bald wie möglich danach eine vorläufige Lösung eingeführt werden. Die Vertragsparteien arbeiten zusammen, um so bald wie möglich die vorläufige Lösung durch eine dauerhafte Registerverbindung zu ersetzen.
+Für die Operationalisierung der Verknüpfung zwischen dem EU-EHS und dem EHS der Schweiz wurde 2020 eine vorläufige Lösung umgesetzt. Ab 2023 wird sich die Registerverknüpfung zwischen den beiden Emissionshandelssystemen schrittweise zu einer dauerhaften Verknüpfung entwickeln, die voraussichtlich spätestens 2024 umgesetzt wird und die das Funktionieren der verknüpften Märkte in Bezug auf die Vorteile der Marktliquidität und die Ausführung von Transaktionen zwischen den beiden verknüpften Systemen in einer Weise ermöglichen wird, die einem einzigen, aus zwei Systemen bestehenden Markt entspricht, sodass die Marktteilnehmer so handeln können, als befänden sie sich auf einem einzigen Markt, der nur den individuellen Regulierungsvorschriften der Vertragsparteien unterliegt.
 
 In den technischen Verknüpfungsstandards (Linking Technical Standards, im Folgenden «LTS») ist Folgendes festgelegt:
 
 - – Architektur der Kommunikationsverbindung;
+- – Kommunikationsverbindung zwischen dem SSTL und dem EUTL;
 - – Sicherheit der Datenübermittlung;
 - – Liste der Funktionen (Transaktionen, Kontenabstimmung usw.);
-- – Festlegung der Webdienste;
+- – Festlegung der Transportschicht;
 - – Anforderungen an die Datenprotokollierung;
 - – Betriebsregelungen (Helpdesk, Unterstützung);
 - – Strategie für die Kommunikationsaktivierung und Prüfverfahren;
@@ -492,22 +493,12 @@ In den technischen Verknüpfungsstandards (Linking Technical Standards, im Folge
 
 In den LTS ist festzulegen, dass die Verwalter alle angemessenen Massnahmen ergreifen sollen, um zu gewährleisten, dass das SSTL und das EUTL sowie die Verknüpfung täglich rund um die Uhr funktionsbereit sind, und dass Unterbrechungen der Funktionsfähigkeit des SSTL, des EUTL und der Verknüpfung auf ein Minimum zu reduzieren sind.
 
-In den LTS ist festzulegen, dass die Kommunikation zwischen dem SSTL und dem EUTL in Form eines gesicherten Austauschs von Webdienstmeldungen auf der Grundlage der folgenden\* oder gleichwertiger Technologien erfolgt:
-
-- – Webdienste mit Simple Object Access Protocol (SOAP);
-- – hardwarebasiertes virtuelles privates Netzwerk (VPN);
-- – erweiterbare Auszeichnungssprache (XML);
-- – digitale Signatur; und
-- – Netzzeitprotokolle (Network Time Protocols).
-
-\* Diese Technologien werden derzeit für die Einrichtung einer Verbindung zwischen dem Unionsregister und dem internationalen Transaktionsprotokoll bzw. zwischen dem Schweizer Register und dem internationalen Transaktionsprotokoll genutzt.
-
 In den LTS sind zusätzliche Sicherheitsvorschriften für das Schweizer Register, das SSTL, das Unionsregister und das EUTL enthalten, die in einem «Sicherheitsmanagementplan» dokumentiert werden. Insbesondere ist in den LTS Folgendes festzulegen:
 
 - – Falls der Verdacht besteht, dass die Sicherheit des Schweizer Registers, des SSTL, des Unionsregisters oder des EUTL beeinträchtigt wurde, informieren die beiden Vertragsparteien einander unverzüglich darüber und unterbrechen die Verknüpfung zwischen dem SSTL und dem EUTL.
-- – Die Vertragsparteien verpflichten sich, im Falle einer Sicherheitsverletzung Informationen unverzüglich auszutauschen. Soweit die technischen Einzelheiten verfügbar sind, tauschen der Registerverwalter der Schweiz und der Zentralverwalter der Union innerhalb von 24 Stunden nach der Sicherheitsverletzung einen Bericht aus, in dem der Vorfall beschrieben ist (Datum, Ursache Auswirkungen, Abhilfemassnahmen).
+- – Die Vertragsparteien verpflichten sich, im Falle einer Sicherheitsverletzung Informationen unverzüglich auszutauschen. Soweit die technischen Einzelheiten verfügbar sind, tauschen der Registerverwalter der Schweiz und der Zentralverwalter der Union innerhalb von 24 Stunden, nachdem festgestellt wurde, dass es sich bei einem Sicherheitsvorfall um eine Sicherheitsverletzung handelt, einen Bericht aus, in dem der Vorfall beschrieben ist (Datum, Ursache, Auswirkungen, Abhilfemassnahmen).
 
-Das in den LTS festgelegten Sicherheitsprüfverfahren muss abgeschlossen sein, bevor die Kommunikationsverbindung zwischen dem SSTL und dem EUTL aufgebaut wird, und immer, wenn eine neue Version des SSTL oder des EUTL erforderlich ist.
+Das in den LTS festgelegte Sicherheitsprüfverfahren muss abgeschlossen sein, bevor die Kommunikationsverbindung zwischen dem SSTL und dem EUTL aufgebaut wird, und immer, wenn eine neue Version des SSTL oder des EUTL erforderlich ist.
 
 In den LTS sind neben der Produktionsumgebung zwei Testumgebungen vorgesehen: eine Testumgebung für Entwickler und eine Abnahmeumgebung.
 

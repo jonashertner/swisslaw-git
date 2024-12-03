@@ -3,11 +3,11 @@ sr: "0.814.011.268"
 title: "Accordo del 23 novembre 2017 tra la Confederazione Svizzera e l'Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: it
-version: 2024-04-04
+version: 2024-12-04
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20240404/it/xml/fedlex-data-admin-ch-eli-cc-2018-124-20240404-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20240404/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20241204/it/xml/fedlex-data-admin-ch-eli-cc-2018-124-20241204-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20241204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2018** 895; FF **2019** 2299
 
 Concluso a Berna il 23 novembre 2017 Applicazione provvisoria degli articoli 11–13 dal 23 novembre 2017 Approvato dall’Assemblea federale il 22 marzo 2019[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 6 dicembre 2019 In vigore dal 1° gennaio 2020[^t-2] [^t-3]
 
-(Stato 4 aprile 2024)
+(Stato 4 dicembre 2024)
 
 [^t-1]: [RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
 [^t-2]: [RU 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
@@ -62,10 +62,10 @@ rallegrandosi dell’intesa raggiunta in occasione della 21<sup>a</sup> Conferen
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^ingress-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^ingress-3]: [RS 0.748.131.934.92](https://fedlex.data.admin.ch/eli/cc/1950/1299_1334_1312)
-[^ingress-4]: [RS 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
+[^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
+[^ingress-3]: [RS 0.748.131.934.92](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3281)
+[^ingress-4]: [RS 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 ## Capitolo I: Disposizioni generali
 
@@ -110,8 +110,8 @@ In particolare il collegamento dei registri:
 
 <sup>8.</sup> Eventuali problemi riconducibili all’attuazione e al funzionamento del collegamento tra i registri sono risolti tramite consultazione tempestiva dell’amministratore del registro della Svizzera e dell’amministratore centrale dell’Unione e conformemente alle procedure operative comuni stabilite.
 
-[^3-1]: Le procedure operative comuni (POC) possono essere consultate al sito: [www.fedlex.admin.ch](https://www.fedlex.admin.ch/de/sector-specific-agreements/joint-committees-decisions-register/23) &gt; Registro degli accordi settoriali UE &gt; Decisioni dei Comitati misti &gt; 23. Scambio di quote di emissione
-[^3-2]: Le norme tecniche di collegamento (LTS) possono essere consultate al sito: [www.fedlex.admin.ch](https://www.fedlex.admin.ch/de/sector-specific-agreements/joint-committees-decisions-register/23) &gt; Registro degli accordi settoriali UE &gt; Decisioni dei Comitati misti &gt; 23. Scambio di quote di emissione
+[^3-1]: Le procedure operative comuni (POC) possono essere consultate nella [RS 0.814.011.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3478)
+[^3-2]: Le norme tecniche di collegamento (LTS) possono essere consultate nella [RS 0.814.011.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3478)
 
 #### Art. 4
 
@@ -131,7 +131,7 @@ Per «quota di emissione» s’intende il diritto di emettere una tonnellata di 
 
 <sup>6.</sup> A partire dall’entrata in vigore del secondo periodo di impegno del protocollo di Kyoto, le Parti contraenti trasferiscono o acquisiscono un numero sufficiente di diritti di emissione assegnati (*Assigned Amount Unit*, AAU) validi per il secondo periodo di impegno del protocollo di Kyoto, in un intervallo concordato e, in caso di denuncia dell’Accordo conformemente all’articolo 16, per tener conto dei flussi netti di quote tra le Parti contraenti, nella misura in cui tali quote siano state restituite dai gestori del SSQE per conformarsi agli obblighi e nella misura in cui tali quote rappresentino emissioni figuranti nell’allegato A del protocollo di Kyoto. Il meccanismo di tali transazioni è definito in un allegato del presente Accordo adottato con decisione del comitato misto dopo l’entrata in vigore della modifica del protocollo di Kyoto[^4-1]. Tale allegato contiene altresì un’intesa sulla gestione delle quote ai proventi, applicabile al primo trasferimento internazionale di AAU.
 
-[^4-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^4-1]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 #### Art. 5
 
@@ -376,12 +376,12 @@ Allegato I[^t-4]
 <tr><td>13 La verifica e l’accreditamento nell’ambito del SSQE sono rigorosi almeno quanto quelli di cui a:</td><td>– Articolo 15 e allegato V della direttiva 2003/87/CE – Regolamento di esecuzione (UE) 2018/2067 della Commissione, del 19 dicembre 2018, concernente la verifica dei dati e l’accreditamento dei verificatori a norma della direttiva 2003/87/CE del Parlamento europeo e del Consiglio in vigore alla data di entrata in vigore del presente Accordo.</td><td>– Articoli 51–54 dell’ordinanza sul CO<sub>2</sub> in vigore al 1° gennaio 2022.</td></tr>
 </table>
 
-[^annexI-lvlu1-lvlA-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
-[^annexI-lvlu1-lvlA-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^annexI-lvlu1-lvlA-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^annexI-lvlu1-lvlA-4]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annexI-lvlu1-lvlA-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^annexI-lvlu1-lvlA-6]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^annexI-lvlu1-lvlA-1]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
+[^annexI-lvlu1-lvlA-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^annexI-lvlu1-lvlA-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^annexI-lvlu1-lvlA-4]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annexI-lvlu1-lvlA-5]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^annexI-lvlu1-lvlA-6]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### B. Criteri fondamentali per il trasporto aereo
 
@@ -408,7 +408,7 @@ Allegato I[^t-4]
 <tr><td>19 Assistenza di Eurocontrol</td><td colspan="2">Per la parte del presente Accordo che riguarda il trasporto aereo, la Commissione europea include la Svizzera nel mandato conferito a Eurocontrol relativamente al SSQE dell’UE.</td></tr>
 </table>
 
-[^annexI-lvlu1-lvlB-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annexI-lvlu1-lvlB-1]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ### C. Criteri fondamentali per i registri
 
@@ -477,43 +477,34 @@ Allegato II[^t-5]
 
 ## Norme tecniche di collegamento
 
-[^t-5]: Nuovo testo giusta l’art. 1 della Dec. n. 2/2019 del comitato misto del 5 dic. 2020 ([RU 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Aggiornato dall’art. 2 della Dec. n. 2/2020 del comitato misto del 5 nov. 2020, in vigore dal 5 nov. 2020 ([RU 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
+[^t-5]: Nuovo testo giusta l’art. 1 Dec. n. 1/2024 del comitato misto del 4 dic. 2024, in vigore dal 4 dic. 2024 ([RU 2025 362](https://fedlex.data.admin.ch/eli/oc/2025/362)).
 
-Per rendere operativo il collegamento tra il SSQE dell’UE e il SSQE della Svizzera, una soluzione provvisoria sarà predisposta entro il maggio 2020 o il prima possibile dopo tale data. Le parti cooperano per sostituire al più presto la soluzione provvisoria con un registro permanente.
+Nel 2020 è stata attuata una soluzione provvisoria per rendere operativo il collegamento tra il SSQE dell’UE e il SSQE della Svizzera. A partire dal 2023, il collegamento tra i due sistemi di scambio di quote di emissione si trasformerà gradualmente in un collegamento permanente dei registri, la cui attuazione è prevista entro il 2024, che consentirà ai mercati collegati, in termini di vantaggi derivanti dalla liquidità del mercato e dall’esecuzione di operazioni tra i due sistemi collegati, di funzionare in modo equivalente a un mercato composto da due sistemi che si presenta ai partecipanti come un unico mercato, subordinatamente alle sole disposizioni regolamentari individuali delle Parti contraenti.
 
 Le norme tecniche di collegamento (NTC) precisano:
 
 - – l’architettura del collegamento di comunicazione;
+- – le comunicazioni tra l’SSTL e l’EUTL;
 - – la sicurezza del trasferimento dei dati;
 - – l’elenco delle funzioni (operazioni, spunta contabile ecc.);
-- – la definizione dei servizi web;
+- – la definizione del livello di trasporto (*transport layer*);
 - – le disposizioni relative alla registrazione dei dati;
 - – le modalità operative (servizio di chiamata, assistenza);
 - – il piano di attivazione della comunicazione e la procedura di prova;
 - – la procedura di prova della sicurezza.
 
-Le NTC specificano che gli amministratori devono adottare tutte le misure ragionevoli per assicurare che lo SSTL, l’EUTL e il collegamento siano operativi 24 ore al giorno e 7 giorni su 7 e che le interruzioni dell’attività dello SSTL, dell’EUTL e del collegamento devono essere ridotte al minimo.
+Le NTC specificano che gli amministratori devono adottare tutte le misure ragionevoli per assicurare che l’SSTL, l’EUTL e il collegamento siano operativi 24 ore al giorno e 7 giorni su 7 e che le interruzioni dell’attività dell’SSTL, dell’EUTL e del collegamento devono essere ridotte al minimo.
 
-Le NTC precisano che le comunicazioni tra l’SSTL e l’EUTL costituiscono scambi sicuri di messaggi di servizi web basati sulle tecnologie seguenti∗ o su tecnologie equivalenti:
+Le NTC stabiliscono per il registro della Svizzera, l’SSTL, il registro dell’Unione e l’EUTL prescrizioni supplementari di sicurezza che sono documentate in un «piano di gestione della sicurezza». In particolare, precisano che:
 
-- – servizi web tramite SOAP (Simple Object Access Protocol);
-- – rete privata virtuale (Virtual Private Network) basata su hardware;
-- – linguaggio di marcatura estensibile XML (Extensible Markup Language);
-- – firma digitale; e
-- – protocolli temporali di rete (Network Time Protocols).
+- – se si sospetta che la sicurezza del registro della Svizzera, dell’SSTL, del registro dell’Unione o dell’EUTL sia stata compromessa, entrambe le Parti contraenti si informano reciprocamente e immediatamente e sospendono il collegamento tra l’SSTL e l’EUTL;
+- – in caso di violazione della sicurezza, le Parti contraenti si impegnano a condividere immediatamente tra loro le informazioni. Nella misura in cui sono disponibili dettagli tecnici, entro 24 ore dall’individuazione di un incidente identificato come violazione della sicurezza l’amministratore del registro della Svizzera e l’amministratore centrale dell’Unione si scambiano una relazione che illustra l’evento (data, causa, impatto, misure correttive).
 
-\* Tali tecnologie sono attualmente utilizzate per stabilire un collegamento tra il registro dell’Unione e il catalogo internazionale delle operazioni, nonché tra il registro della Svizzera e il catalogo internazionale delle operazioni.
-
-Le NTC stabiliscono per il registro della Svizzera, lo SSTL, il registro dell’Unione e l’EUTL prescrizioni supplementari di sicurezza che sono documentate in un «piano di gestione della sicurezza». In particolare, precisano che:
-
-- – se si sospetta che la sicurezza del registro svizzero, dello SSTL, del registro dell’Unione o dell’EUTL sia stata compromessa, entrambe le parti si informano reciprocamente e immediatamente e sospendono il collegamento tra lo SSTL e l’EUTL;
-- – in caso di violazione della sicurezza, le parti si impegnano a condividere immediatamente tra loro le informazioni. Nella misura in cui sono disponibili dettagli tecnici, nelle 24 ore dopo la violazione della sicurezza l’amministratore del registro della Svizzera e l’amministratore centrale dell’Unione si scambiano una relazione che illustra l’evento (data, causa, impatto, misure correttive).
-
-La procedura di prova della sicurezza di cui alle NTC è completata prima dell’istituzione del collegamento di comunicazione tra lo SSTL e l’EUTL e ogniqualvolta si rende necessaria una nuova versione dello SSTL o dell’EUTL.
+La procedura di prova della sicurezza di cui alle NTC è completata prima dell’istituzione del collegamento di comunicazione tra l’SSTL e l’EUTL e ogniqualvolta si rende necessaria una nuova versione dell’SSTL o dell’EUTL.
 
 Le NTC prevedono due ambienti di prova oltre all’ambiente di produzione: un ambiente di prova dello sviluppatore e un ambiente di collaudo.
 
-Le parti dimostrano, tramite l’amministratore del registro della Svizzera e l’amministratore centrale dell’Unione, che è stata effettuata una valutazione indipendente della sicurezza dei loro sistemi nei dodici mesi precedenti, in conformità delle prescrizioni di sicurezza di cui alle NTC. Le prove di sicurezza, in particolare i test di penetrazione, sono effettuate su tutte le nuove versioni rilevanti del software in conformità delle prescrizioni di sicurezza di cui alle NTC. I test di penetrazione non sono eseguiti dallo sviluppatore del software né da un suo subappaltatore.
+Le Parti contraenti dimostrano, tramite l’amministratore del registro della Svizzera e l’amministratore centrale dell’Unione, che è stata effettuata una valutazione indipendente della sicurezza dei loro sistemi nei 12 mesi precedenti, in conformità delle prescrizioni di sicurezza di cui alle NTC. Le prove di sicurezza, in particolare i test di penetrazione, sono effettuate su tutte le nuove versioni rilevanti del software in conformità delle prescrizioni di sicurezza di cui alle NTC. I test di penetrazione non sono eseguiti dallo sviluppatore del software né da un suo subappaltatore.
 
 Allegato III[^t-6]
 

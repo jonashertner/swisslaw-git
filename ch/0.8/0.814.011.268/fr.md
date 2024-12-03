@@ -3,11 +3,11 @@ sr: "0.814.011.268"
 title: "Accord du 23 novembre 2017 entre la Confédération suisse et l'Union européenne sur le couplage de leurs systèmes d'échange de quotas d'émission de gaz à effet de serre (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: fr
-version: 2024-04-04
+version: 2024-12-04
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20240404/fr/xml/fedlex-data-admin-ch-eli-cc-2018-124-20240404-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20240404/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20241204/fr/xml/fedlex-data-admin-ch-eli-cc-2018-124-20241204-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20241204/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Berne le 23 novembre 2017 Application provisoire des art. 11 à 13 dès le 23 novembre 2017 Approuvé par l’Assemblée fédérale le 22 mars 2019[^t-1] Instrument de ratification suisse déposé le 6 décembre 2019 Entré en vigueur le 1<sup>er</sup> janvier 2020[^t-2] [^t-3]
 
-(État le 4 avril 2024)
+(État le 4 décembre 2024)
 
 [^t-1]: [RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
 [^t-2]: [RO 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
@@ -62,10 +62,10 @@ se félicitant de l’accord conclu lors de la 21<sup>e</sup> conférence des pa
 
 sont convenues des dispositions qui suivent:
 
-[^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
-[^ingress-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
-[^ingress-3]: [RS 0.748.131.934.92](https://fedlex.data.admin.ch/eli/cc/1950/1299_1334_1312)
-[^ingress-4]: [RS 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
+[^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
+[^ingress-2]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
+[^ingress-3]: [RS 0.748.131.934.92](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3281)
+[^ingress-4]: [RS 0.814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3479)
 
 ## Chapitre I Dispositions générales
 
@@ -110,8 +110,8 @@ En particulier, le lien entre registres:
 
 <sup>8.</sup> Les questions soulevées par la mise en œuvre et le fonctionnement du lien entre registres sont résolues par le biais d’une consultation en temps utile de l’administrateur du registre suisse et de l’administrateur central de l’Union, et conformément aux procédures opérationnelles communes qui ont été établies.
 
-[^3-1]: Les procédures opérationnelles communes peuvent être consultées dans les décisions du Comité mixte: [www.fedlex.admin.ch](https://www.fedlex.admin.ch/fr/sector-specific-agreements/joint-committees-decisions-register/23) &gt; Registre des accords sectoriels UE &gt; Décisions des Comités mixtes &gt; 23. Échange de quotas d’émission
-[^3-2]: Les normes techniques de couplage peuvent être consultées dans les décisions du Comité mixte: [www.fedlex.admin.ch](https://www.fedlex.admin.ch/fr/sector-specific-agreements/joint-committees-decisions-register/23) &gt; Registre des accords sectoriels UE &gt; Décisions des Comités mixtes &gt; 23. Échange de quotas d’émission
+[^3-1]: Les procédures opérationnelles communes (POC) peuvent être consultées au [RS 0.814.011.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3478).
+[^3-2]: Les normes techniques de couplage (NTC) peuvent être consultées consultées au [RS 0.814.011.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3478).
 
 #### Art. 4
 
@@ -131,7 +131,7 @@ On entend par «quota d’émission» le droit d’émettre une tonne d’équiv
 
 <sup>6.</sup> Dès l’entrée en vigueur de la deuxième période d’engagement du protocole de Kyoto, les parties transfèrent ou acquièrent un nombre suffisant d’unités de quantité attribuée (UQA) valables pour la deuxième période d’engagement du protocole de Kyoto à un intervalle convenu et en cas de dénonciation conformément à l’art. 16, pour comptabiliser les flux nets de quotas entre les parties dans la mesure où ces quotas ont été restitués par les exploitants relevant du SEQE à des fins de conformité et dans la mesure où ces quotas représentent des émissions figurant à l’annexe A du protocole de Kyoto. Le mécanisme de ces transactions est défini dans une annexe au présent Accord, adoptée par décision du comité mixte après l’entrée en vigueur de l’amendement au protocole de Kyoto[^4-1]. Cette annexe inclut également un accord sur la gestion de la part du produit appliquée au premier transfert international d’UQA.
 
-[^4-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^4-1]: [RS 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 #### Art. 5
 
@@ -376,12 +376,12 @@ Annexe I[^t-4]
 <tr><td>13 La vérification et l’accréditation dans le SEQE sont au moins aussi strictes que dans les dispositions suivantes:</td><td>– Art. 15 et annexe V de la directive 2003/87/CE, ‒ Règlement d’exécution (UE) 2018/2067 de la Commission du 19 décembre 2018 concernant la vérification des données et l’accréditation des vérificateurs conformément à la directive 2003/87/CE du Parlement européen et du Conseil, tels qu’en vigueur à la date d’entrée en vigueur du présent Accord.</td><td>– Art. 51 à 54 de l’ordonnance sur le CO<sub>2</sub>, tels qu’en vigueur le 1<sup>er</sup> janvier 2022.</td></tr>
 </table>
 
-[^annexI-lvlu1-lvlA-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
-[^annexI-lvlu1-lvlA-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
-[^annexI-lvlu1-lvlA-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^annexI-lvlu1-lvlA-4]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^annexI-lvlu1-lvlA-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^annexI-lvlu1-lvlA-6]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^annexI-lvlu1-lvlA-1]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
+[^annexI-lvlu1-lvlA-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^annexI-lvlu1-lvlA-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^annexI-lvlu1-lvlA-4]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^annexI-lvlu1-lvlA-5]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^annexI-lvlu1-lvlA-6]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### B. Critères essentiels pour l’aviation
 
@@ -408,7 +408,7 @@ Annexe I[^t-4]
 <tr><td>19 Assistance d’Eurocontrol</td><td colspan="2">Aux fins de la partie du présent Accord relative à l’aviation, la Commission européenne inclut la Suisse dans le mandat donné à Eurocontrol eu égard au SEQE-UE.</td></tr>
 </table>
 
-[^annexI-lvlu1-lvlB-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annexI-lvlu1-lvlB-1]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ### C. Critères essentiels pour les registres
 
@@ -477,16 +477,17 @@ Annexe II[^t-5]
 
 ## Normes techniques de couplage
 
-[^t-5]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 2/2019 du comité mixte du 5 déc. 2019 ([RO 2020 369](https://fedlex.data.admin.ch/eli/oc/2020/63)). Mise à jour par l’art. 2 de la D n<sup>o</sup> 2/2020 du comité mixte du 5 nov. 2020, en vigueur depuis le 5 nov. 2020 ([RO 2020 6365](https://fedlex.data.admin.ch/eli/oc/2020/1043)).
+[^t-5]: Nouvelle teneur selon l’art. 1 al. 1 de la D n<sup>o</sup> 1/2024 du comité mixte du 4 déc. 2024, en vigueur depuis le 4 déc. 2024 ([RO 2025 362](https://fedlex.data.admin.ch/eli/oc/2025/362)).
 
-Afin de rendre effectif le couplage entre le SEQE-UE et le SEQE suisse, une solution provisoire sera mise en place d’ici à mai 2020 ou dès que possible après cette date. Les parties coopèrent pour remplacer dès que possible cette solution provisoire par un registre permanent.
+Afin de rendre opérationnel le couplage entre le SEQE de l’UE et le SEQE de la Suisse, une solution provisoire a été mise en place en 2020. À partir de 2023, le couplage des registres entre les deux systèmes d’échange de quotas d’émission prendra progressivement la forme d’un couplage permanent des registres dont la mise en œuvre est prévue pour 2024 au plus tard, et qui permettra aux marchés couplés, en ce qui concerne les bénéfices tirés de la liquidité de marché et l’exécution des transactions entre les deux systèmes couplés, de fonctionner d’une manière équivalente à un seul marché composé de deux systèmes et donnera aux acteurs du marché la possibilité d’agir comme s’il s’agissait d’un seul marché, soumis uniquement aux dispositions réglementaires individuelles des parties.
 
 Les normes techniques de couplage précisent:
 
 - – l’architecture du lien de communication;
+- – les communications entre le SSTL et l’EUTL;
 - – la sécurité du transfert des données;
 - – la liste des fonctions (transactions, rapprochement, etc.);
-- – la définition des services internet;
+- – la définition de la couche de transport;
 - – les normes d’archivage des données;
 - – les modalités opérationnelles (service d’appel, assistance);
 - – le plan d’activation de communication et la procédure d’essai;
@@ -494,26 +495,16 @@ Les normes techniques de couplage précisent:
 
 Les normes techniques de couplage prévoient que les administrateurs doivent prendre des mesures raisonnables pour s’assurer que le SSTL, l’EUTL et le lien sont opérationnels 24 heures sur 24 et 7 jours sur 7 et que les interruptions du fonctionnement du SSTL, de l’EUTL et du lien sont limitées le plus possible.
 
-Les normes techniques de couplage prévoient que les communications entre le SSTL et l’EUTL consistent en des échanges sécurisés de messages par services internet reposant sur les technologies suivantes\* ou sur des technologies équivalentes:
-
-- – services internet utilisant SOAP (Simple Object Access Protocol),
-- – réseau privé virtuel (VPN) basé sur matériel,
-- – XML (Extensible Markup Language),
-- – signature numérique, et
-- – protocoles de synchronisation réseau.
-
-\* Ces technologies sont actuellement utilisées pour établir une connexion entre le registre de l’Union et le relevé international des transactions ainsi qu’entre le registre suisse et le relevé international des transactions.
-
 Les normes techniques de couplage énoncent des exigences supplémentaires en matière de sécurité pour le registre suisse, le SSTL, le registre de l’Union et l’EUTL et sont documentées dans un «plan de gestion de la sécurité». Les normes techniques de couplage prévoient notamment ce qui suit:
 
-- – en cas de suspicion d’atteinte à la sécurité du registre suisse, du SSTL, du registre de l’Union ou de l’EUTL, les deux parties s’informent immédiatement et suspendent immédiatement le lien entre le SSTL et l’EUTL;
+- – en cas de suspicion d’atteinte à la sécurité du registre suisse, du SSTL, du registre de l’Union ou de l’EUTL, les deux parties s’informent immédiatement et suspendent immédiatement le lien entre le SSTL et l’EUTL.
 - – en cas de faille de sécurité, les parties s’engagent à s’échanger immédiatement les informations concernées. Dans la mesure où les détails techniques sont disponibles, un rapport décrivant l’incident (date, cause, conséquences, mesures correctives) est partagé entre l’administrateur du registre suisse et l’administrateur central de l’Union dans les 24 heures suivant la faille de sécurité.
 
 La procédure d’essai de sécurité prévue dans les normes techniques de couplage est exécutée avant que le lien de communication entre le SSTL et l’EUTL ne soit établi et lorsqu’une nouvelle version ou édition du SSTL ou de l’EUTL est nécessaire.
 
 Les normes techniques de couplage prévoient deux environnements d’essai en plus de l’environnement de production: un environnement d’essai développeur et un environnement d’acceptation.
 
-Par l’intermédiaire de l’administrateur du registre suisse et de l’administrateur central de l’Union, les parties fournissent la preuve qu’une évaluation indépendante de la sécurité de leurs systèmes a été effectuée au cours des douze mois précédents, conformément aux exigences de sécurité établies dans les normes techniques de couplage. Des essais de sécurité, et plus précisément des essais d’intrusion, sont effectués sur toutes les nouvelles versions majeures du logiciel, conformément aux exigences de sécurité énoncées dans les normes techniques de couplage. L’essai d’intrusion n’est pas effectué par le développeur du logiciel ni par un sous-traitant du développeur du logiciel.
+Par l’intermédiaire de l’administrateur du registre suisse et de l’administrateur central de l’Union, les parties fournissent la preuve qu’une évaluation indépendante de la sécurité de leurs systèmes a été effectuée au cours des 12 derniers mois, conformément aux exigences de sécurité établies dans les normes techniques de couplage. Des essais de sécurité, et plus précisément des essais d’intrusion, sont effectués sur toutes les nouvelles versions majeures du logiciel, conformément aux exigences de sécurité énoncées dans les normes techniques de couplage. L’essai d’intrusion n’est pas effectué par le développeur du logiciel ni par un sous-traitant du développeur du logiciel.
 
 Annexe III[^t-6]
 
