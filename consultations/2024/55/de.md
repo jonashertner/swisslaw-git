@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Hochschulförderungs- und -koordinationsgesetzes (HFKG)
 document: Vernehmlassungsvorlage
 language: de

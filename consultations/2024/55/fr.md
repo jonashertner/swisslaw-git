@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur l’encouragement et la coordination des hautes écoles (LEHE)
 document: Projet mis en consultation
 language: fr
