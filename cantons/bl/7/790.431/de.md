@@ -3,20 +3,19 @@ canton: BL
 number: "790.431"
 title: "Verordnung über das Naturschutzgebiet «Wasserfalle - Roti Flue», Diegten und Eptingen"
 language: de
-version: 2024-09-28
-valid_until: 2024-12-05
-version_adopted: 2024-08-27
+version: 2024-12-06
+version_adopted: 2024-11-19
 adopted: 1999-08-17
 in_force: 1999-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.431"
-pdf: "https://bl.clex.ch/api/de/versions/4049/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4083/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Wasserfalle - Roti Flue», Diegten und Eptingen
 
-Vom 17.08.1999 (Stand 28.09.2024)
+Vom 17.08.1999 (Stand 06.12.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -30,11 +29,11 @@ beschliesst:
 
 **Schutzgebiet**
 
-<sup>1</sup> Das Gebiet «Wasserfalle - Roti Flue», Diegten und Eptingen, bestehend aus den Parzellen Nr. 2702 (Teilfläche), 2790, 2792 (Teilfläche), 2836, 2839, 2840 (Teilfläche), alle im Grundbuch Diegten, sowie Parzelle Nr. 1264 (Teilfläche) im Grundbuch Eptingen, wird als Objekt von regionaler Bedeutung in das Inventar der geschützten Naturobjekte des Kantons Basel-Landschaft aufgenommen.
+<sup>1</sup> Das Gebiet «Wasserfalle - Roti Flue», Diegten und Eptingen, bestehend aus den Parzellen Nr. 2702 (Teilfläche), 2790, 2836 und 2839, im Eigentum der Bürgergemeinde Diegten, sowie der Parzelle Nr. 2792 (Teilfläche), im Eigentum der Einwohnergemeinde Känerkinden, sowie den Parzellen Nr. 2793, 2837, 2838, 2840 und 2841, im Eigentum des Vereins Dietisberg, alle im Grundbuch Diegten, sowie der Parzelle Nr. 1264 (Teilfläche), im Eigentum des Vereins Dietisberg, im Grundbuch Eptingen, wird als Objekt von regionaler Bedeutung in das Inventar der geschützten Naturobjekte des Kantons Basel-Landschaft aufgenommen.
 
 <sup>2</sup> Der Perimeter des Naturschutzgebiets ist in einem Plan eingetragen, der bei der kantonalen Naturschutzfachstelle eingesehen werden kann.
 
-<sup>3</sup> Die Gesamtfläche des Naturschutzgebiets beträgt 39,14 ha.
+<sup>3</sup> Die Gesamtfläche des Naturschutzgebiets beträgt 45,61 ha.
 
 #### § 2
 
@@ -42,13 +41,15 @@ beschliesst:
 
 <sup>1</sup> Für das Naturschutzgebiet gelten folgende Schutzziele:
 
-- a. Erhaltung und Förderung der standortgemässen Waldgesellschaften sowie der Fliessgewässer samt deren charakteristischen Lebensgemeinschaften;
+- a. Erhaltung und Förderung der standortgemässen Waldgesellschaft sowie der Fliessgewässer samt deren charakteristischen Lebensgemeinschaften;
 - b. Erhaltung unerschlossener und ungenutzter Rückzugsgebiete für Wildtiere;
-- c. Förderung von Alt- und Totholz;
-- d. Förderung licht- und wärmeliebender Tier- und Pflanzenarten;
-- e. Erhaltung und Förderung des Steinbruches als Trocken- und Ruderalstandort;
-- f. Erhaltung und Förderung intakter Felsstandorte samt deren typischen Lebensgemeinschaften;
-- g. Erhaltung und Förderung geschützter Arten sowie von Arten der Roten Liste, insbesondere der Eibe.
+- c. Förderung des Mittelwaldes und des Dauerwaldes;
+- d. Förderung von Alt- und Totholz;
+- e. Erhaltung und Förderung von naturnahen, stufig aufgebauten Waldrändern;
+- f. Förderung licht- und wärmeliebender Tier- und Pflanzenarten;
+- g. Erhaltung und Förderung des Steinbruchs als Trocken- und Ruderalstandort;
+- h. Erhaltung und Förderung intakter Felsstandorte samt deren typischen Lebensgemeinschaften;
+- i. Erhaltung und Förderung geschützter Arten sowie von Arten der Roten Liste, insbesondere der Eibe.
 
 #### § 3
 
@@ -58,8 +59,8 @@ beschliesst:
 
 <sup>2</sup> Verboten sind insbesondere:
 
-- a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutzungs- und Pflegekonzept vorgesehen sind;
-- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Durchführen von sportlichen Veranstaltungen abseits der erlaubten Wege;
+- a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutz- und Schutzkonzept vorgesehen sind;
+- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen;
 - c. Verlassen der erlaubten Wege und Klettern ausserhalb der erlaubten Felsbereiche oder während der Sperrzeiten;
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Laufenlassen von Hunden;
@@ -67,15 +68,15 @@ beschliesst:
 - g. Entfachen von Feuer ausserhalb der bezeichneten Feuerstellen;
 - h. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - i. Pflücken, Ausgraben oder Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
-- j. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutzungs- und Pflegeplan nicht enthalten sind.
+- j. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind.
 
-<sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflege- und Nutzungsplan.
+<sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept.
 
 <sup>4</sup> Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
 
 <sup>5</sup> Nutzung und Unterhalt des Rastplatzes mit Feuerstelle im Gebiet «Wasserfalle» bleiben im bisherigen Rahmen und unter Beachtung der Schutzziele gewährleistet.
 
-<sup>6</sup> Die Rechte der Gemeinderschaft Witwald bezüglich Eigengebrauch bleiben gewährleistet.
+<sup>6</sup> Die Rechte des Vereins Dietisberg bezüglich Eigengebrauch bleiben gewährleistet.
 
 <sup>7</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. b bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
@@ -83,13 +84,13 @@ beschliesst:
 
 **Aufsicht, Pflege und Unterhalt**
 
-<sup>1</sup> Aufsicht, Pflege und Unterhalt obliegen den jeweiligen Grundeigentümern in enger Zusammenarbeit mit der kantonalen Naturschutzfachstelle und dem Forstamt beider Basel. §§ 17, 27 und 28 des Gesetzes über den Natur- und Landschaftsschutz vom 20. November 1991[^4-1] bleiben massgebend.
+<sup>1</sup> Aufsicht, Pflege und Unterhalt obliegen den jeweiligen Grundeigentümern in enger Zusammenarbeit mit der kantonalen Naturschutzfachstelle und dem Amt für Wald beider Basel. §§ 17, 27 und 28 des Gesetzes über den Natur- und Landschaftsschutz vom 20. November 1991[^4-1] bleiben massgebend.
 
 <sup>2</sup> Die Grundeigentümer können Pflege und Aufsicht auch geeigneten Dritten übertragen. Im Waldareal erfolgt die Aufsicht durch den Forstdienst.
 
-<sup>3</sup> Der von der kantonalen Naturschutzfachstelle, dem Forstamt und den Eigentümern gemeinsam erarbeitete Pflege- und Nutzungsplan bildet die Grundlage für Nutzung, Pflege und Unterhalt des geschützten Gebietes. Für den Kletterbetrieb ist ausserdem das Kletterkonzept vom 17. Mai 1999 verbindlich.
+<sup>3</sup> Das von der kantonalen Naturschutzfachstelle, dem Amt für Wald beider Basel und den Grundeigentümern gemeinsam erarbeitete Nutz- und Schutzkonzept bildet die Grundlage für Nutzung, Pflege und Unterhalt des geschützten Gebiets. Für den Kletterbetrieb ist ausserdem das Kletterkonzept vom 21. April 2016 verbindlich.
 
-<sup>4</sup> Der Pflege- und Nutzungsplan ist nach 25 Jahren von den beiden kantonalen Fachstellen gemeinsam mit den betroffenen Grundeigentümern zu überprüfen und bei Bedarf in gegenseitigem Einvernehmen anzupassen.
+<sup>4</sup> Das Nutz- und Schutzkonzept ist nach 25 Jahren von den beiden kantonalen Fachstellen gemeinsam mit den betroffenen Grundeigentümern zu überprüfen und bei Bedarf in gegenseitigem Einvernehmen anzupassen.
 
 <sup>5</sup> Die Pflegearbeiten dürfen nur bei trockenem Wetter und bei trockenen Bodenverhältnissen ausgeführt werden. Um Gewässerverunreinigungen zu vermeiden, sind durch die Bewirtschafter jeweils die erforderlichen Vorsichtsmassnahmen zu treffen.
 
@@ -133,7 +134,7 @@ beschliesst:
 
 <sup>1</sup> Widerhandlungen gegen die Schutzvorschriften werden mit Busse bestraft.
 
-<sup>2</sup> Bei Missachtung der Schutzvorschriften kann je nach Zuständigkeit das Forstamt oder die kantonale Naturschutzfachstelle die Herstellung des rechtmässigen Zustandes innert angemessener Frist verfügen. Wird eine solche Anordnung nicht befolgt, so ist die zuständige Fachstelle befugt, die notwendigen Massnahmen auf Kosten der Fehlbaren durchführen zu lassen.
+<sup>2</sup> Bei Missachtung der Schutzvorschriften kann je nach Zuständigkeit das Amt für Wald beider Basel oder die kantonale Naturschutzfachstelle die Herstellung des rechtmässigen Zustands innert angemessener Frist verfügen. Wird eine solche Anordnung nicht befolgt, so ist die zuständige Fachstelle befugt, die notwendigen Massnahmen auf Kosten der Fehlbaren durchführen zu lassen.
 
 #### § 10
 
