@@ -3,20 +3,19 @@ canton: BL
 number: "790.432"
 title: "Verordnung über das Naturschutzgebiet «Rutenrain», Diegten"
 language: de
-version: 2024-09-28
-valid_until: 2024-12-05
-version_adopted: 2024-08-27
+version: 2024-12-06
+version_adopted: 2024-11-19
 adopted: 1999-08-17
 in_force: 1999-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.432"
-pdf: "https://bl.clex.ch/api/de/versions/4050/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4084/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Rutenrain», Diegten
 
-Vom 17.08.1999 (Stand 28.09.2024)
+Vom 17.08.1999 (Stand 06.12.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -30,11 +29,11 @@ beschliesst:
 
 **Schutzgebiet**
 
-<sup>1</sup> Das Gebiet «Rutenrain», Diegten, bestehend aus Teilfläche von Parzellen Nr. 2431, im Eigentum der Bürgergemeinde Seltisberg, wird als Objekt von regionaler Bedeutung in das Inventar der geschützten Naturobjekte des Kantons Basel-Landschaft aufgenommen.
+<sup>1</sup> Das Gebiet «Rutenrain», Diegten, bestehend aus einer Teilfläche von Parzelle Nr. 2431, im Eigentum der Bürgergemeinde Diegten, wird als Objekt von regionaler Bedeutung in das Inventar der geschützten Naturobjekte des Kantons Basel-Landschaft aufgenommen.
 
 <sup>2</sup> Der Perimeter des Naturschutzgebiets ist in einem Plan eingetragen, der bei der kantonalen Naturschutzfachstelle eingesehen werden kann.
 
-<sup>3</sup> Die Gesamtfläche des Naturschutzgebiets beträgt 10,16 ha.
+<sup>3</sup> Die Gesamtfläche des Naturschutzgebietes beträgt 10,69 ha.
 
 #### § 2
 
@@ -45,6 +44,8 @@ beschliesst:
 - a. Erhaltung und Förderung der standortgemässen Waldgesellschaft mit ihrer typischen Fauna und Flora;
 - b. Förderung von Tot- und Altholz;
 - c. Förderung lichter Waldbestände als Lebensraum licht- und wärmeliebender Arten, insbesondere Eichen.
+- d. Förderung des Mittelwaldes;
+- e. Erhaltung und Förderung von naturnahen, stufig aufgebauten Waldrändern.
 
 #### § 3
 
@@ -54,17 +55,17 @@ beschliesst:
 
 <sup>2</sup> Verboten sind insbesondere:
 
-- a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutzungs- und Pflegekonzept vorgesehen sind;
-- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Durchführen von sportlichen Veranstaltungen;
+- a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutz- und Schutzkonzept vorgesehen sind;
+- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen;
 - c. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - d. Laufenlassen von Hunden;
 - e. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - f. Reiten sowie Befahren mit Mountainbikes abseits der erlaubten Wege;
 - g. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - h. Pflücken, Ausgraben oder Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
-- i. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutzungs- und Pflegeplan nicht enthalten sind.
+- i. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind.
 
-<sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflege- und Nutzungsplan.
+<sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept.
 
 <sup>4</sup> Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
 
@@ -74,13 +75,13 @@ beschliesst:
 
 **Aufsicht, Pflege und Unterhalt**
 
-<sup>1</sup> Aufsicht, Pflege und Unterhalt obliegen der Grundeigentümerin in enger Zusammenarbeit mit der kantonalen Naturschutzfachstelle und dem Forstamt beider Basel. §§ 17, 27 und 28 des Gesetzes über den Natur- und Landschaftsschutz vom 20. November 1991[^4-1] bleiben massgebend.
+<sup>1</sup> Aufsicht, Pflege und Unterhalt obliegen der Grundeigentümerin in enger Zusammenarbeit mit der kantonalen Naturschutzfachstelle und dem Amt für Wald beider Basel. §§ 17, 27 und 28 des Gesetzes über den Natur- und Landschaftsschutz vom 20. November 1991[^4-1] bleiben massgebend.
 
 <sup>2</sup> Die Grundeigentümer können Pflege und Aufsicht auch geeigneten Dritten übertragen. Im Waldareal erfolgt die Aufsicht durch den Forstdienst.
 
-<sup>3</sup> Der von der kantonalen Naturschutzfachstelle, dem Forstamt und der Eigentümerin gemeinsam erarbeitete Pflege- und Nutzungsplan bildet die Grundlage für Nutzung, Pflege und Unterhalt des geschützten Gebietes.
+<sup>3</sup> Das von der kantonalen Naturschutzfachstelle, dem Amt für Wald beider Basel und der Grundeigentümerin gemeinsam erarbeitete Nutz- und Schutzkonzept bildet die Grundlage für Nutzung, Pflege und Unterhalt des geschützten Gebiets.
 
-<sup>4</sup> Der Pflege- und Nutzungsplan ist nach 25 Jahren von den beiden kantonalen Fachstellen gemeinsam mit den betroffenen Grundeigentümern zu überprüfen und bei Bedarf in gegenseitigem Einvernehmen anzupassen.
+<sup>4</sup> Das Nutz- und Schutzkonzept ist nach 25 Jahren von den beiden kantonalen Fachstellen gemeinsam mit den betroffenen Grundeigentümern zu überprüfen und bei Bedarf in gegenseitigem Einvernehmen anzupassen.
 
 <sup>5</sup> Die Pflegearbeiten dürfen nur bei trockenem Wetter und bei trockenen Bodenverhältnissen ausgeführt werden. Um Gewässerverunreinigungen zu vermeiden, sind durch die Bewirtschafter jeweils die erforderlichen Vorsichtsmassnahmen zu treffen.
 
@@ -124,7 +125,7 @@ beschliesst:
 
 <sup>1</sup> Widerhandlungen gegen die Schutzvorschriften werden mit Busse bestraft.
 
-<sup>2</sup> Bei Missachtung der Schutzvorschriften kann je nach Zuständigkeit das Forstamt oder die kantonale Naturschutzfachstelle die Herstellung des rechtmässigen Zustandes innert angemessener Frist verfügen. Wird eine solche Anordnung nicht befolgt, so ist die zuständige Fachstelle befugt, die notwendigen Massnahmen auf Kosten der Fehlbaren durchführen zu lassen.
+<sup>2</sup> Bei Missachtung der Schutzvorschriften kann je nach Zuständigkeit das Amt für Wald beider Basel oder die kantonale Naturschutzfachstelle die Herstellung des rechtmässigen Zustands innert angemessener Frist verfügen. Wird eine solche Anordnung nicht befolgt, so ist die zuständige Fachstelle befugt, die notwendigen Massnahmen auf Kosten der Fehlbaren durchführen zu lassen.
 
 #### § 10
 
