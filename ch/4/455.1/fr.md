@@ -4,11 +4,11 @@ title: Ordonnance du 23 avril 2008 sur la protection des animaux (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: fr
-version: 2024-02-01
+version: 2024-12-06
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20240201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20241206/fr/xml/fedlex-data-admin-ch-eli-cc-2008-416-20241206-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20241206/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20240201/fr"
 
 (OPAn)
 
-du 23 avril 2008 (État le 1<sup>er</sup> février 2024)
+du 23 avril 2008 (État le 6 décembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -5062,7 +5062,7 @@ Annexe 5[^t-5]
 
 ## Dispositions transitoires
 
-[^t-5]: Mise à jour par le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)) et l’erratum du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+[^t-5]: Mise à jour par le ch. I de l’O du 25 juin 2008 ([RO 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), le ch. II de l’O du 14 janv. 2009 ([RO 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)) et les errata du 9 avr. 2015 ([RO 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) et du 6 déc. 2024 ([RO 2024 750](https://fedlex.data.admin.ch/eli/oc/2024/750)).
 
 Remarque préliminaire
 
@@ -5120,7 +5120,7 @@ Les délais transitoires mentionnés dans la colonne C s’appliquent aux articl
 <tr><td>45</td><td>Art. 203, al. 1</td><td>Formation des formateurs</td><td>2 ans</td><td colspan="3">Formation des détenteurs de chiens</td><td></td></tr>
 <tr><td>46</td><td>Art. 203, al. 2</td><td>Reconnaissance des cours pour formateurs</td><td>2 ans</td><td colspan="3">Formation des détenteurs de chiens</td><td></td></tr>
 <tr><td>47</td><td>Art. 205, let. c</td><td>Document attestant qu’un contrôle externe de la qualité de l’institut de formation a été effectué</td><td>2 ans</td><td colspan="3">Formation des détenteurs de chiens</td><td></td></tr>
-<tr><td>48</td><td>Annexe 1, tableau 1, ch. 1 et 32</td><td>Dimensions (longueur et largeur) pour les jeunes animaux détenus à l’attache et pour les vaches détenues à l’attache ou en groupe</td><td>5 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008 dont les couches ou box de repos présentent des dimensions inférieures aux dimensions ci-contre:</td><td colspan="3">Jeunes animaux de 301 à 400 kg – sur couche courte: largeur de 90 cm et longueur de 145 cm Jeunes animaux de plus de 400 kg – sur couche courte: largeur de 100 cm et longueur de 155 cm Vaches ayant une hauteur au garrot de plus de 130 cm – sur couche courte: largeur de plus de 165 cm – sur couche moyenne: largeur de 110 cm et longueur de 200 cm – box de repos adossés à la paroi: largeur de 120 cm et longueur de 240 cm – box de repos opposés: largeur de 120 cm et longueur de 220 cm</td></tr>
+<tr><td>48</td><td>Annexe 1, tableau 1, ch. 1 et 32</td><td>Dimensions (longueur et largeur) pour les jeunes animaux détenus à l’attache et pour les vaches détenues à l’attache ou en groupe</td><td>5 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008 dont les couches ou box de repos présentent des dimensions inférieures aux dimensions ci-contre:</td><td colspan="3">Jeunes animaux de 301 à 400 kg – sur couche courte: largeur de 90 cm et longueur de 145 cm Jeunes animaux de plus de 400 kg – sur couche courte: largeur de 100 cm et longueur de 155 cm Vaches ayant une hauteur au garrot de plus de 130 cm – sur couche courte: largeur de 110 cm et longueur de 165 cm – sur couche moyenne: largeur de 110 cm et longueur de 200 cm – box de repos adossés à la paroi: largeur de 120 cm et longueur de 240 cm – box de repos opposés: largeur de 120 cm et longueur de 220 cm</td></tr>
 <tr><td>49</td><td>Annexe 1, tableau 3, ch. 21</td><td>Dimensions des logettes pour les truies</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td>Au maximum un tiers des logettes peut avoir les dimensions de 55 cm × 170 cm.</td></tr>
 <tr><td>50</td><td>Annexe 1, tableau 3, ch. 31 et note 7</td><td>Surface pour les verrats (longueur du côté du box)</td><td>5 ans</td><td colspan="3">Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td></td></tr>
 <tr><td>51</td><td>Annexe 1, tableau 4, ch. 21 et 22</td><td>Largeur de la place à la mangeoire et surface des box pour les moutons</td><td>10 ans</td><td>Unités d’élevage existant le 1<sup>er</sup> septembre 2008</td><td colspan="3">1. Concernant les box existant le 1<sup>er</sup> septembre 2008 dans les stabulations libres, la surface des box sur laquelle les animaux peuvent se déplacer doit être, par animal, de 0,5 m<sup>2</sup> pour les agneaux à l’engrais de 25 à 50 kg, de 0,7 m<sup>2</sup> pour les moutons âgés d’un an de 50 à 60 kg, de 1,0 m<sup>2</sup> pour les brebis de 60 à 70 kg sans agneaux de 1,5 m<sup>2</sup> pour les brebis de 60 à 70 kg avec agneaux et de 1,5 m<sup>2</sup> pour les béliers de plus de 70 kg. 2. Pour les box existant le 1<sup>er</sup> septembre 2008, dans les stabulations libres, la largeur de la place à la mangeoire pour les agneaux à l’engrais doit être de 20 cm pour les agneaux à l’engrais de 25 à 50 kg, de 30 cm pour les moutons âgés d’un an de 50 à 60 kg, de 40 cm pour les brebis de 60 à 70 kg sans agneaux et de 60 cm pour les brebis de 60 à 70 kg avec agneaux, et de 50 cm pour les béliers de plus de 70 kg. Pour les mangeoires circulaires, la largeur peut être diminuée de 40 %.</td></tr>

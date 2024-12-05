@@ -4,11 +4,11 @@ title: Ordinanza del 23 aprile 2008 sulla protezione degli animali (OPAn)
 short: OPAn
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: it
-version: 2024-02-01
+version: 2024-12-06
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20240201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20241206/it/xml/fedlex-data-admin-ch-eli-cc-2008-416-20241206-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20241206/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20240201/it"
 
 (OPAn)
 
-del 23 aprile 2008 (Stato 1° febbraio 2024)
+del 23 aprile 2008 (Stato 6 dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
 [^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -95,15 +95,15 @@ Ai sensi della presente ordinanza, si intendono per:
 
 <sup>5</sup> Le costruzioni nuove o quelle che hanno subito un cambiamento di destinazione d’uso e gli edifici che sono stati ricostruiti o ampliati sono considerati, ai sensi della presente ordinanza, *di nuova realizzazione*.
 
-[^2-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^2-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-3]: Abrogata dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^2-4]: Nuovo testo giusta il n. III 1 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
+[^2-1]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-3]: Abrogata dalla cifra I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-4]: Nuovo testo giusta la cifra III n. 1 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)).
 [^2-5]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
-[^2-6]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^2-7]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-6]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^2-7]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^2-8]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^2-9]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^2-9]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ## Capitolo 2: Detenzione e trattamento degli animali
 
@@ -111,7 +111,7 @@ Ai sensi della presente ordinanza, si intendono per:
 
 [^chap2-sec1-1]
 
-[^chap2-sec1-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^chap2-sec1-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 3
 
@@ -125,8 +125,8 @@ Ai sensi della presente ordinanza, si intendono per:
 
 <sup>4</sup> Gli animali non possono essere tenuti costantemente legati.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 4
 
@@ -226,7 +226,7 @@ In caso di stabulazione in gruppo il detentore di animali deve:
 
 <sup>2</sup> Un rumore è considerato eccessivo se provoca nell’animale un comportamento aggressivo, di fuga, di scansamento oppure se ne provoca l’irrigidimento e l’animale non si può sottrarre alla fonte del rumore.[^12-1]
 
-[^12-1]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+[^12-1]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
 
 #### Art. 13
 
@@ -240,7 +240,7 @@ Gli animali delle specie sociali devono avere adeguati contatti con i conspecifi
 
 Sono ammesse deroghe alle disposizioni sulla detenzione e sul trattamento degli animali se necessarie per motivi medici o per assicurare il rispetto di norme di polizia sanitaria.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ### Sezione 2: Deroghe all’obbligo di anestesia di cui all’articolo 16 LPAn
 
@@ -289,8 +289,8 @@ In particolare è vietato:
 
 <sup>3</sup> L’autorità cantonale può obbligare gli organizzatori di concorsi e di competizioni sportive a eseguire controlli antidoping sugli animali o chiedere alla federazione sportiva nazionale l’esecuzione di tali controlli. I costi sono a carico degli organizzatori.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^16-2]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^16-2]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 17
 
@@ -314,17 +314,17 @@ Sui bovini sono inoltre vietate le pratiche seguenti:
 - m.[^17-10] interventi sul pene dei tori utilizzati per rilevare i calori;
 - n.[^17-11] la decornazione di bufali e yak.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^17-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^17-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^17-5]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^17-6]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^17-7]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^17-8]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^17-9]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^17-10]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^17-11]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-4]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-5]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-6]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-7]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-8]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^17-9]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-10]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^17-11]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 18
 
@@ -359,7 +359,7 @@ Sui volatili domestici sono inoltre vietate le pratiche seguenti:
 - f. la spiumatura degli animali vivi;
 - g.[^20-1] la triturazione di feti vivi negli incubatoi e di pulcini vivi.
 
-[^20-1]: Introdotta dal n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+[^20-1]: Introdotta dalla cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
 
 #### Art. 21
 
@@ -376,9 +376,9 @@ Sugli equidi è inoltre vietato:
 - g.[^21-2] sbarrarli;
 - h.[^21-3] usare metodi che provocano un’iperflessione del collo o del dorso (*rollkur*).
 
-[^21-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^21-2]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^21-3]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^21-1]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^21-2]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^21-3]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 22
 
@@ -407,14 +407,14 @@ I detentori di cani devono notificare al servizio specializzato cantonale le seg
 
 <sup>4</sup> Il servizio specializzato cantonale inserisce le caratteristiche nella banca dati di cui all’articolo 30 capoverso 2 della legge del 1° luglio 1966[^22-7] sulle epizoozie (LFE).[^22-8]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^22-2]: Introdotta dall’all. 6 n. II 1 dell’O del 28 nov. 2014 concernente l’importazione, il transito e l’esportazione di animali da compagnia, in vigore dal 29 dic. 2014 ([RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
-[^22-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^22-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^22-5]: Nuovo testo del per. giusta giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
-[^22-6]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^22-2]: Introdotta dall’all. 6 cifra II n. 1 dell’O del 28 nov. 2014 concernente l’importazione, il transito e l’esportazione di animali da compagnia, in vigore dal 29 dic. 2014 ([RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^22-4]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^22-5]: Nuovo testo del per. giusta giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+[^22-6]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^22-7]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^22-8]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^22-8]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 23
 
@@ -434,8 +434,8 @@ Per quanto riguarda i pesci e i decapodi è inoltre vietato:
 
 <sup>2</sup> Le deroghe ai divieti di ricorrere a pesci da esca vivi, di utilizzare lenze con ardiglione e di trasportare pesci vivi su ghiaccio o in acqua ghiacciata sono disciplinate negli articoli 3 e 5*b* dell’ordinanza del 24 novembre 1993[^23-3] concernente la legge federale sulla pesca.
 
-[^23-1]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^23-2]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^23-1]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^23-2]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^23-3]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
 
 #### Art. 24
@@ -451,8 +451,8 @@ Per quanto riguarda i pesci e i decapodi è inoltre vietato:
 - e.[^24-1] tagliare il becco ai ratiti e applicare dispositivi che impediscono la chiusura del becco, nonché raccogliere piume da ratiti vivi;
 - f.[^24-2] realizzare e gestire parchi accessibili al pubblico con conigli, piccoli roditori e pulcini in occasione di manifestazioni.
 
-[^24-1]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^24-2]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^24-1]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^24-2]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 4: Allevamento di animali
 
@@ -473,8 +473,8 @@ Sono vietati:
 
 <sup>4</sup> Il detentore di animali deve adottare i provvedimenti del caso per evitare che gli animali si riproducano in modo incontrollato.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^25-2]: La correzione del 23 set. 2014 concerne solo il testo francese ([RU 2014 3039](https://fedlex.data.admin.ch/eli/oc/2014/512)). Correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^25-2]: La correzione del 23 set. 2014 concerne soltanto il testo francese ([RU 2014 3039](https://fedlex.data.admin.ch/eli/oc/2014/512)). Correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
 
 #### Art. 26
 
@@ -484,7 +484,7 @@ Sono vietati:
 
 <sup>2</sup> Il capoverso 1 non si applica all’allevamento di pesci da ripopolamento e di pesci commestibili.[^26-1]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 27
 
@@ -496,7 +496,7 @@ Sono vietati:
 
 <sup>3</sup> Nell’allevamento di pesci commestibili e di pesci da ripopolamento le persone che utilizzano metodi di riproduzione artificiale devono avere conseguito una formazione di cui all’articolo 196.
 
-[^27-1]: Nuova espr. giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^27-1]: Nuova espr. giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^27-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 
 #### Art. 28
@@ -532,7 +532,7 @@ Nel registro occorre indicare:
 
 [^chap2-sec5-1]
 
-[^chap2-sec5-1]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^chap2-sec5-1]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 30a
 
@@ -596,8 +596,8 @@ Nelle detenzioni di piccole dimensioni, ovvero con al massimo 10 unità di besti
 
 <sup>5</sup> Chiunque detiene a titolo professionale più di 11 equidi deve aver conseguito una formazione di cui all’articolo 197.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^31-2]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^31-2]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 32
 
@@ -655,10 +655,10 @@ Per l’impiego di gioghi elettrici vigono le disposizioni seguenti:
 
 <sup>5</sup> Le aree d’uscita possono essere delimitate da recinti elettrici se sono sufficientemente grandi e concepite in modo da permettere agli animali di tenersi a una distanza adeguata dal recinto e di evitarsi.[^35-4]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^35-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^35-4]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^35-3]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^35-4]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 36
 
@@ -708,7 +708,7 @@ Per l’impiego di gioghi elettrici vigono le disposizioni seguenti:
 
 <sup>3</sup> I bovini da ingrasso di età superiore a cinque mesi non possono essere tenuti esclusivamente in box ad area unica con lettiera profonda. La detenzione deve garantire l’usura degli zoccoli.[^39-1]
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 40
 
@@ -920,8 +920,8 @@ I suinetti svezzati non possono essere tenuti in gabbie a più piani. La parte s
 
 <sup>5</sup> Gli equidi tenuti in gruppo devono potersi evitare o ritirare; non è necessario prevedere la possibilità di evitarsi e di ritirarsi per i puledri svezzati e gli animali giovani fino all’inizio della loro utilizzazione regolare, tuttavia al massimo fino al raggiungimento dei 30 mesi di età. Nelle scuderie non possono esserci vicoli ciechi.[^59-2]
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^59-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^59-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 60
 
@@ -956,13 +956,13 @@ Nelle situazioni seguenti si può rinunciare all’uscita per al massimo quattro
 
 <sup>7</sup> L’uscita deve essere annotata in un apposito registro.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 62
 
 [^62-1]
 
-[^62-1]: Abrogato dal n. I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^62-1]: Abrogato dalla cifra I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 63
 
@@ -972,7 +972,7 @@ Nelle situazioni seguenti si può rinunciare all’uscita per al massimo quattro
 
 <sup>2</sup> L’autorità cantonale può rilasciare un permesso di deroga a tempo determinato per l’uso di filo spinato se i pascoli sono vasti e dispongono di un’ulteriore delimitazione.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ### Sezione 8: Conigli domestici
 
@@ -1025,7 +1025,7 @@ Occorre inoltre prevedere:
 
 <sup>4</sup> Le attrezzature devono essere facilmente accessibili agli animali.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 67
 
@@ -1043,7 +1043,7 @@ Occorre inoltre prevedere:
 
 [^68-1]
 
-[^68-1]: Abrogato dal n. I dell’O del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4871](https://fedlex.data.admin.ch/eli/oc/2016/782)).
+[^68-1]: Abrogato dalla cifra I dell’O del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4871](https://fedlex.data.admin.ch/eli/oc/2016/782)).
 
 #### Art. 69
 
@@ -1085,7 +1085,7 @@ Sono considerati cani da lavoro:
 
 <sup>5</sup> Le madri o le nutrici devono potersi allontanare dai loro cuccioli.
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 71
 
@@ -1097,8 +1097,8 @@ Sono considerati cani da lavoro:
 
 <sup>3</sup> I cani tenuti legati devono potersi muovere liberamente per almeno cinque ore al giorno. Nel resto del tempo devono potersi muovere in un’area di almeno 20 m<sup>2</sup> attorno alla catena mobile. L’impiego del collare a strozzo è vietato.[^71-2]
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^71-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^71-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 72
 
@@ -1116,8 +1116,8 @@ Sono considerati cani da lavoro:
 
 <sup>5</sup> I canili o i box adiacenti devono essere muniti di schermi appropriati.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
-[^72-2]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+[^72-2]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 73
 
@@ -1142,7 +1142,7 @@ I provvedimenti per correggere il comportamento dei cani devono essere adeguati 
 
 <sup>3</sup> Per il traino possono essere utilizzati soltanto cani idonei al riguardo. Non sono idonei, in particolare, gli animali malati, quelli in gestazione avanzata o in lattazione. I cani devono essere bardati adeguatamente.
 
-[^73-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^73-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 74
 
@@ -1172,11 +1172,11 @@ La persona responsabile dell’addestramento dei cani per i servizi di difesa de
 
 <sup>6</sup> L’autorità competente inserisce l’inizio dell’addestramento dei cani per i servizi di difesa nella banca dati secondo l’articolo 30 capoverso 2 LFE[^74-4].[^74-5]
 
-[^74-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^74-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^74-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^74-3]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^74-3]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^74-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^74-5]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^74-5]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 75
 
@@ -1212,7 +1212,7 @@ Un recinto per la caccia al cinghiale è autorizzato se:
 
 <sup>6</sup> Qualsiasi manifestazione nella quale i cani da caccia sono addestrati o esaminati con l’impiego di animali selvatici vivi deve essere notificata all’autorità cantonale. Quest’ultima provvede alla sorveglianza della manifestazione. L’autorità cantonale può limitare il numero degli impianti e delle manifestazioni.
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 76
 
@@ -1238,10 +1238,10 @@ Chiunque impiega apparecchi soggetti ad autorizzazione deve documentarlo e prese
 
 <sup>6</sup> L’impiego di mezzi per impedire agli animali di emettere versi ed esprimere dolore è vietato.[^76-4]
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
-[^76-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^76-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^76-4]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
+[^76-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^76-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^76-4]: Introdotto dalla cifra I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 76a
 
@@ -1257,7 +1257,7 @@ Chiunque offre pubblicamente cani deve fornire per iscritto le informazioni segu
 
 <sup>2</sup> I gestori delle piattaforme Internet e gli editori dei quotidiani provvedono alla completezza dei dati.
 
-[^76a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^76a-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 77
 
@@ -1265,7 +1265,7 @@ Chiunque offre pubblicamente cani deve fornire per iscritto le informazioni segu
 
 Chiunque detiene o addestra un cane deve adottare provvedimenti affinché esso non costituisca un pericolo per le persone e gli animali. La responsabilità per i cani da protezione del bestiame di cui all’articolo 10<sup>quater</sup> dell’ordinanza del 29 febbraio 1988[^77-2] sulla caccia è valutata tenendo conto del loro impiego a scopo di difesa contro animali estranei.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^77-2]: [RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)
 
 #### Art. 78
@@ -1293,10 +1293,10 @@ I veterinari, i medici, i responsabili di pensioni o rifugi per animali, gli add
 
 <sup>4</sup> Il servizio cantonale competente inserisce le notifiche e le misure ordinate nel sistema d’informazione per i dati del servizio veterinario pubblico raccolti nell’ambito dell’esecuzione (ASAN) di cui all’ordinanza del 27 aprile 2022[^79-3] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^79-4]
 
-[^79-1]: Abrogato dal n. I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^79-2]: Nuovo testo giusta l’all. 3 n. II 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^79-1]: Abrogato dalla cifra I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^79-2]: Nuovo testo giusta l’all. 3 cifra II n. 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 [^79-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^79-4]: Introdotto dall’all. 3 n. II 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)). Nuovo testo giusta l’all. 4 n. II 1 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^79-4]: Introdotto dall’all. 3 cifra II n. 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)). Nuovo testo giusta l’all. 4 cifra II n. 1 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Sezione 11: Gatti
 
@@ -1314,7 +1314,7 @@ I veterinari, i medici, i responsabili di pensioni o rifugi per animali, gli add
 
 <sup>5</sup> I gatti maschi non possono essere tenuti in gabbie di cui al capoverso 3 nell’intervallo tra un accoppiamento e l’altro.
 
-[^80-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^80-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 12: Autorizzazione di sistemi e impianti di stabulazione
 
@@ -1363,14 +1363,14 @@ L’USAV può avvalersi di esperti, come specialisti delle autorità cantonali, 
 
 <sup>6</sup> L’autorizzazione può essere revocata se la detenzione non risulta più rispettosa degli animali in seguito all’acquisizione di nuove conoscenze oppure se nella pratica emergono gravi carenze.
 
-[^82-1]: Introdotto dal n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
-[^82-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+[^82-1]: Introdotto dalla cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+[^82-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
 
 #### Art. 83
 
 [^83-1]
 
-[^83-1]: Abrogato dal n. I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
+[^83-1]: Abrogato dalla cifra I dell’O dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 823](https://fedlex.data.admin.ch/eli/oc/2023/823)).
 
 #### Art. 84
 
@@ -1446,10 +1446,10 @@ La detenzione da parte di privati degli animali selvatici seguenti è soggetta a
 - g. rana golia, salamandre giganti;
 - h.[^89-4] serpenti dotati di un apparato velenifero e in grado di usare il veleno (serpenti velenosi), eccettuati i serpenti velenosi non pericolosi definiti dall’USAV in un’ordinanza.
 
-[^89-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^89-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^89-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^89-4]: Introdotta dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^89-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^89-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^89-3]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^89-4]: Introdotta dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 90
 
@@ -1473,8 +1473,8 @@ Non sono considerate detenzioni professionali di animali selvatici:
 - b. gli acquari privati utilizzati per scopi ornamentali, anche se gestiti in connessione con esercizi a scopo lucrativo;
 - c. le detenzioni di quaglie della specie *Coturnix japonica*, se sono tenuti al massimo 50 animali adulti.[^90-2]
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^90-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^90-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 91
 
@@ -1505,8 +1505,8 @@ Per le specie animali seguenti, l’autorità cantonale può rilasciare l’auto
 
 <sup>2</sup> Il richiedente e l’autorità cantonale competente designano di comune accordo lo specialista. Per l’autorizzazione di parchi di cui all’articolo 95 capoverso 2 non è necessaria la perizia.
 
-[^92-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^92-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^92-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^92-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 93
 
@@ -1523,8 +1523,8 @@ Tranne nel caso delle aziende di piscicoltura, il registro di controllo dell’e
 
 <sup>3</sup> Il registro di controllo dell’effettivo delle aziende di acquacoltura deve essere tenuto secondo l’articolo 22 capoversi 1 e 2 OFE[^93-3].[^93-4]
 
-[^93-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^93-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^93-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^93-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^93-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^93-4]: Correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
 
@@ -1540,7 +1540,7 @@ Tranne nel caso delle aziende di piscicoltura, il registro di controllo dell’e
 
 <sup>3</sup> Per i circhi e le esposizioni itineranti è competente il Cantone in cui si trovano la sede invernale o gli impianti stabili per gli animali. Se essi sono situati all’estero, l’autorizzazione è rilasciata dal Cantone in cui il circo o l’esposizione itinerante soggiorna per la prima volta, se necessario tenendo conto del permesso d’importazione dell’USAV.
 
-[^94-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^94-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 95
 
@@ -1564,9 +1564,9 @@ L’autorizzazione può essere rilasciata soltanto se:
 - a. durante una tournée: nei parchi in cui si trovano animali che con frequenza e regolarità sono addestrati nel maneggio, allenati o presentati in pubblico, nel caso in cui le dimensioni limitate di alcuni luoghi non consentano di soddisfare tali requisiti;
 - b. nei parchi in cui gli animali sono tenuti solo per un breve periodo.[^95-3]
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
-[^95-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^95-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
+[^95-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^95-3]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 96
 
@@ -1593,7 +1593,7 @@ La durata massima dell’autorizzazione è di:
 
 <sup>3</sup> Chiunque cattura, marchia, detiene, alleva o uccide a titolo non professionale pesci commestibili, pesci da ripopolamento o decapodi deve fornire un attestato di competenza secondo l’articolo 5*a* dell’ordinanza del 24 novembre 1993[^97-2] concernente la legge federale sulla pesca o secondo l’articolo 198 della presente ordinanza. È consentito catturare e uccidere pesci senza tale attestato soltanto se, per la pesca nelle acque pubbliche nel Cantone in questione, non è richiesta alcuna licenza o è richiesta soltanto una licenza di durata non superiore a un mese.
 
-[^97-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^97-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 [^97-2]: [RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)
 
 #### Art. 98
@@ -1638,7 +1638,7 @@ La durata massima dell’autorizzazione è di:
 
 [^chap5-sec1-1]
 
-[^chap5-sec1-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^chap5-sec1-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 101
 
@@ -1664,7 +1664,7 @@ Necessita di un’autorizzazione cantonale chiunque:[^101-1]
 - e. effettua a titolo professionale la cura degli unghioni dei bovini o degli zoccoli degli equidi senza aver conseguito una formazione di cui all’articolo 192 capoverso 1 lettera a.
 
 [^101-1]: La correzione del 9 apr. 2015 concerne soltanto il testo francese ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
-[^101-2]: Abrogata dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^101-2]: Abrogata dalla cifra I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 101a
 
@@ -1676,7 +1676,7 @@ L’autorizzazione può essere rilasciata solo se:
 - b. l’attività è organizzata in maniera confacente e documentata adeguatamente;
 - c. il personale soddisfa i requisiti di cui all’articolo 102.
 
-[^101a-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^101a-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 101b
 
@@ -1696,8 +1696,8 @@ L’autorizzazione può essere vincolata a condizioni e oneri per quanto riguard
 - d.[^101b-2] i requisiti e le responsabilità del personale;
 - e. il registro di controllo dell’effettivo degli animali e la documentazione dell’attività.
 
-[^101b-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^101b-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^101b-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^101b-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 101c
 
@@ -1707,7 +1707,7 @@ L’autorizzazione può essere vincolata a condizioni e oneri per quanto riguard
 
 <sup>2</sup> La domanda deve essere presentata all’autorità del Cantone di domicilio del richiedente.
 
-[^101c-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^101c-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 102
 
@@ -1729,10 +1729,10 @@ Nei seguenti casi è sufficiente che la persona responsabile dell’accudimento 
 
 <sup>5</sup> Chi effettua a titolo professionale la cura degli unghioni dei bovini o degli zoccoli degli equidi deve aver conseguito una formazione di cui all’articolo 192 capoverso 1 lettera a o b.
 
-[^102-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^102-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^102-2]: La correzione del 6 feb. 2018 concerne soltanto il testo francese ([RU 2018 547](https://fedlex.data.admin.ch/eli/oc/2018/68)).
-[^102-3]: Abrogate dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^102-4]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^102-3]: Abrogate dalla cifra I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^102-4]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 2: Commerico e pubblicità con animali
 
@@ -1748,13 +1748,13 @@ Per il commercio o la pubblicità con animali, la persona responsabile dell’ac
 - d.[^103-6] per le manifestazioni commerciali e per la pubblicità: essere titolare di un attestato di competenza;
 - e.[^103-7] nelle aziende che commerciano esclusivamente pesci commestibili, pesci da esca, pesci da ripopolamento o decapodi: aver conseguito una formazione di cui all’articolo 197.
 
-[^103-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^103-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^103-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^103-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^103-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^103-4]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^103-4]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^103-5]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^103-6]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^103-7]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^103-6]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^103-7]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 104
 
@@ -1769,7 +1769,7 @@ Per il commercio o la pubblicità con animali, la persona responsabile dell’ac
 <sup>4</sup> L’autorità cantonale decide se è necessario presentare ulteriore documentazione.
 
 [^104-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^104-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^104-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 105
 
@@ -1786,7 +1786,7 @@ L’autorizzazione secondo l’articolo 13 LPAn può essere rilasciata solo se:
 
 <sup>2</sup> Le persone responsabili dell’accudimento degli animali devono aver conseguito una formazione di cui all’articolo 103.
 
-[^105-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^105-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 106
 
@@ -1827,7 +1827,7 @@ Mutamenti importanti concernenti il numero o la specie degli animali, il tipo di
 
 Le aziende che commerciano animali devono tenere un registro di controllo per tutte le specie di animali selvatici di cui agli articoli 89 e 92 capoverso 1 nonché per conigli, cani e gatti domestici; a seconda delle specie deve contenere dati relativi all’aumento e alla diminuzione dell’effettivo. È necessario indicare la data, il numero, la causa dell’aumento dell’effettivo, la provenienza e la causa della diminuzione dell’effettivo.
 
-[^108-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^108-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 109
 
@@ -1835,7 +1835,7 @@ Le aziende che commerciano animali devono tenere un registro di controllo per tu
 
 Gli animali per la cui detenzione è necessaria un’autorizzazione possono essere ceduti ad altre persone solo se queste sono titolari di un’autorizzazione corrispondente.
 
-[^109-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^109-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 110
 
@@ -1851,8 +1851,8 @@ Gli animali non possono essere venduti a persone di età inferiore a 16 anni sen
 
 <sup>2</sup> Chiunque vende a titolo professionale parchi per animali da compagnia o animali selvatici è tenuto a dare per scritto informazioni sulla detenzione adeguata per la specie animale nonché sulle basi giuridiche corrispondenti.[^111-2]
 
-[^111-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^111-2]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^111-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^111-2]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ## Capitolo 6: Sperimentazione animale, animali geneticamente modificati e animali con mutazioni patologiche
 
@@ -1906,8 +1906,8 @@ Il direttore del centro di detenzione di animali da laboratorio deve aver conseg
 
 <sup>2</sup> L’autorità cantonale ordina una formazione supplementare se le dimensioni del centro di detenzione, la specie animale, il modello animale o altre ragioni presuppongono conoscenze e capacità particolari.[^115-2]
 
-[^115-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^115-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^115-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^115-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 116
 
@@ -1937,7 +1937,7 @@ I centri di detenzione di animali da laboratorio devono avere o poter utilizzare
 - a. gli animali malati e gli animali con uno stato igienico incerto possano essere isolati;
 - b. la conservazione di foraggio e di altri materiali quali i prodotti di pulizia e disinfezione nonché la loro eliminazione possano essere separati in modo appropriato dal centro di detenzione degli animali.
 
-[^117-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^117-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 118
 
@@ -2009,7 +2009,7 @@ L’autorizzazione può essere vincolata a condizioni e oneri riguardanti:
 
 <sup>6</sup> Non necessitano dell’autorizzazione i centri esistenti di detenzione di animali domestici, di animali selvatici e di animali da compagnia in cui sono tenuti saltuariamente o temporaneamente animali utilizzati a fini sperimentali.
 
-[^122-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^122-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 3: Detenzione, allevamento e commercio di animali geneticamente modificati e di animali con mutazioni patologiche
 
@@ -2021,7 +2021,7 @@ L’autorizzazione può essere vincolata a condizioni e oneri riguardanti:
 
 <sup>2</sup> Gli animali il cui materiale genetico nelle cellule germinali è stato modificato con tecniche di ricombinazione degli acidi nucleici sono soggetti alle stesse disposizioni previste per gli animali geneticamente modificati, anche se non sono state inserite sequenze di acidi nucleici ottenute al di fuori della cellula.
 
-[^123-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^123-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 124
 
@@ -2098,7 +2098,7 @@ Gli istituti e i laboratori di sperimentazione animale devono disporre di suffic
 
 <sup>3</sup> Per ogni esperimento sugli animali deve essere designato un responsabile d’esperimento; deve essere garantita la supplenza. Se vengono designati più responsabili d’esperimento, la loro sfera di competenze deve essere definita in modo inequivocabile.
 
-[^129-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^129-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 129a
 
@@ -2109,7 +2109,7 @@ L’incaricato della protezione degli animali garantisce che:
 - a. le domande di autorizzazione per gli esperimenti sugli animali siano complete;
 - b. nelle domande di autorizzazione siano in particolare esplicitati sufficientemente i dati per la valutazione dell’indispensabilità secondo l’articolo 137.
 
-[^129a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^129a-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 129b
 
@@ -2119,7 +2119,7 @@ L’incaricato della protezione degli animali garantisce che:
 
 <sup>2</sup> I presupposti per essere ammessi alla formazione di cui all’articolo 197 sono il conseguimento della formazione come «persona che esegue esperimenti» nonché un’esperienza lavorativa triennale nel campo della sperimentazione animale.
 
-[^129b-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^129b-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 130
 
@@ -2150,7 +2150,7 @@ Il responsabile d’esperimento:
 
 <sup>2</sup> Per dirigere esperimenti su animali di specie poco utilizzate o con metodi sperimentali non standardizzati è necessario fornire un’attestazione di ulteriori conoscenze specifiche.
 
-[^132-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^132-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 133
 
@@ -2175,7 +2175,7 @@ Essa:
 
 <sup>3</sup> Il numero delle persone che eseguono esperimenti è dettato dal numero e dall’onere degli interventi e delle misure necessarie e deve consentire di regolamentare le supplenze, in particolare per la sorveglianza di animali in esperimento e per i lavori di documentazione prescritti.
 
-[^134-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^134-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 135
 
@@ -2199,7 +2199,7 @@ Essa:
 
 <sup>9</sup> Nei locali di detenzione non possono essere uccisi animali e non possono essere eseguiti interventi o misure che provochino dolori, sofferenze, lesioni o ansietà. L’USAV può stabilire deroghe per le misure o gli interventi che non compromettono il benessere degli animali che si trovano nello stesso locale, in particolare la marchiatura, le somministrazioni e i prelievi di campioni.[^135-1]
 
-[^135-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^135-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 136
 
@@ -2263,7 +2263,7 @@ Sono inammissibili gli esperimenti che compromettono il benessere degli animali:
 <sup>2</sup> La produzione di animali geneticamente modificati è ammessa soltanto per gli scopi di cui all’articolo 9 della legge del 21 marzo 2003[^138-1] sull’ingegneria genetica.[^138-2]
 
 [^138-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^138-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^138-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ### Sezione 5: Autorizzazione di esperimenti sugli animali
 
@@ -2289,8 +2289,8 @@ Per ogni esperimento sugli animali la domanda deve contenere:
 
 <sup>4</sup> L’autorità cantonale trasmette le domande di esperimenti che compromettono il benessere degli animali alla commissione cantonale per gli esperimenti sugli animali e decide sulla scorta della proposta della commissione. Se non accoglie la proposta, motiva la sua decisione nei confronti della commissione.
 
-[^139-1]: Nuova espr. giusta il n. III 1 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^139-2]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^139-1]: Nuova espr. giusta la cifra III n. 1 dell’O del 10 dic. 2021, in vigore dal 1° feb. 2022 ([RU 2021 926](https://fedlex.data.admin.ch/eli/oc/2021/926)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^139-2]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 140
 
@@ -2363,8 +2363,8 @@ Le autorizzazioni per la produzione di animali geneticamente modificati mediante
 
 <sup>4</sup> L’USAV stabilisce, dopo aver consultato le cerchie interessate, quali metodi di modificazione genetica sono riconosciuti.
 
-[^142-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^142-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^142-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^142-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 6: Documentazione e statistica
 
@@ -2384,7 +2384,7 @@ I centri di detenzione di animali da laboratorio tengono un registro di controll
 
 <sup>3</sup> I verbali devono essere allestiti in modo ben comprensibile ed essere tenuti a disposizione delle autorità esecutive. Devono essere conservati per tre anni.[^143-1]
 
-[^143-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^143-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 144
 
@@ -2447,8 +2447,8 @@ I Cantoni trasmettono all’USAV, mediante il sistema d’informazione animex-ch
 
 <sup>5</sup> Dopo aver sentito le autorità cantonali, l’USAV può stabilire quali indicazioni possono essere trasmesse in forma diversa da quella elettronica.
 
-[^145-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^145-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014, il cpv. 2 lett. a e il cpv. 4 lett. a n. 3 entrano in vigore il 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^145-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^145-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014, il cpv. 2 lett. a e il cpv. 4 lett. a n. 3 entrano in vigore il 1° mag. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 145a
 
@@ -2456,7 +2456,7 @@ I Cantoni trasmettono all’USAV, mediante il sistema d’informazione animex-ch
 
 A conclusione di un esperimento sugli animali, l’USAV pubblica i dati di cui all’articolo 139 capoverso 1<sup>bis</sup> lettere a–c e i dati definitivi sul numero di animali impiegati per ogni specie e sul grado di aggravio.
 
-[^145a-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^145a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 146
 
@@ -2500,7 +2500,7 @@ L’USAV tiene, all’attenzione delle autorità di autorizzazione, un registro 
 
 <sup>3</sup> I membri devono dimostrare di aver seguito, sull’arco di quattro anni, quattro giorni di formazione continua su temi della formazione teorica secondo gli articoli 132 o 134.[^149-1]
 
-[^149-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^149-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ## Capitolo 7: Trasporto di animali
 
@@ -2514,7 +2514,7 @@ L’USAV tiene, all’attenzione delle autorità di autorizzazione, un registro 
 
 <sup>2</sup> Chiunque trasporta animali a titolo professionale deve provvedere alla formazione e alla formazione continua dei collaboratori.
 
-[^150-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^150-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 151
 
@@ -2545,7 +2545,7 @@ L’autista deve:
 
 <sup>2</sup> L’autista è responsabile, dal ritiro alla consegna, del ricovero e dell’accudimento degli animali.
 
-[^152-1]: Introdotta dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^152-1]: Introdotta dalla cifra I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 152a
 
@@ -2561,7 +2561,7 @@ Il calcolo del tempo di percorrenza e della durata del trasporto inizia da capo 
 - b. durante la sosta gli animali dispongono delle dimensioni minime di detenzione indicate nell’allegato 1, hanno accesso all’acqua e, se necessario, al latte e vengono foraggiati negli intervalli di tempo consoni alla specie; e
 - c. le condizioni climatiche sono adeguate alle esigenze degli animali.
 
-[^152a-1]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+[^152a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
 
 #### Art. 153
 
@@ -2609,8 +2609,8 @@ Il calcolo del tempo di percorrenza e della durata del trasporto inizia da capo 
 
 <sup>4</sup> Il bestiame lattifero in lattazione deve essere munto due volte al giorno.
 
-[^157-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^157-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^157-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^157-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 158
 
@@ -2634,9 +2634,9 @@ Il calcolo del tempo di percorrenza e della durata del trasporto inizia da capo 
 
 <sup>3</sup> Il capoverso 2 non si applica al carico e allo scarico di volatili e conigli.
 
-[^159-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^159-2]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^159-3]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^159-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^159-2]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^159-3]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 160
 
@@ -2665,9 +2665,9 @@ I tori di età superiore a 18 mesi devono portare un anello nasale. Si può rinu
 
 <sup>9</sup> Per il trasporto di animali da laboratorio con un determinato stato igienico occorre prendere le precauzioni necessarie per impedire l’introduzione e la fuoriuscita di microrganismi.
 
-[^160-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^160-2]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^160-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^160-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^160-2]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^160-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 161
 
@@ -2685,7 +2685,7 @@ I tori di età superiore a 18 mesi devono portare un anello nasale. Si può rinu
 
 <sup>2</sup> Nei trasporti internazionali il tempo massimo di percorrenza può essere superato.
 
-[^162-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+[^162-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
 
 ### Sezione 3: Mezzi e contenitori di trasporto
 
@@ -2724,9 +2724,9 @@ I mezzi di trasporto devono soddisfare i requisiti seguenti:
 
 <sup>3</sup> Per l’utilizzo occasionale di mezzi di trasporto come ricovero temporaneo, l’USAV può prevedere deroghe alle dimensioni minime indicate nell’allegato 1, in particolare per impieghi di servizio, manifestazioni sportive, spettacoli ed esposizioni.[^165-3]
 
-[^165-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^165-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
-[^165-3]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^165-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^165-2]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4245](https://fedlex.data.admin.ch/eli/oc/2015/711)).
+[^165-3]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 166
 
@@ -2834,7 +2834,7 @@ I veicoli devono essere muniti di attrezzature adeguate per il carico e lo scari
 
 Il transito di bovini, ovini, caprini, suini, cavalli da macello e pollame da macello in Svizzera è limitato al traffico ferroviario o aereo.
 
-[^175-1]: Nuovo testo giusta il n. I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1071](https://fedlex.data.admin.ch/eli/oc/2011/158)).
+[^175-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1071](https://fedlex.data.admin.ch/eli/oc/2011/158)).
 
 #### Art. 176
 
@@ -2867,16 +2867,16 @@ Il personale del macello deve aver conseguito una formazione di cui all’artico
 
 <sup>4</sup> Per le persone con una formazione agricola di cui all’articolo 194 non è richiesta la formazione di cui al capoverso 2 lettera a.
 
-[^177-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^177-2]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^177-3]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^177-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^177-2]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^177-3]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^177-4]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
 #### Art. 177a
 
 [^177a-1]
 
-[^177a-1]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Abrogato dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^177a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Abrogato dalla cifra I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 178
 
@@ -2884,7 +2884,7 @@ Il personale del macello deve aver conseguito una formazione di cui all’artico
 
 Gli animali vertebrati e i decapodi possono essere uccisi soltanto dopo essere stati storditi. Se non è possibile praticare lo stordimento, occorre provvedere a tutte le misure necessarie per ridurre al minimo dolori, sofferenze e ansietà.
 
-[^178-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^178-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 178a
 
@@ -2902,8 +2902,8 @@ L’uccisione di animali vertebrati o decapodi senza stordimento è ammessa:
 
 <sup>3</sup> …[^178a-2]
 
-[^178a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^178a-2]: Abrogato dal n. I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+[^178a-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^178a-2]: Abrogato dalla cifra I dell’O del 23 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
 
 #### Art. 179
 
@@ -2915,7 +2915,7 @@ L’uccisione di animali vertebrati o decapodi senza stordimento è ammessa:
 
 <sup>3</sup> Dopo aver consultato le autorità cantonali, l’USAV può stabilire i metodi di uccisione ammessi per determinate specie animali o per particolari scopi.
 
-[^179-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 179a
 
@@ -2938,8 +2938,8 @@ L’uccisione di animali vertebrati o decapodi senza stordimento è ammessa:
 
 <sup>2</sup> Dopo aver consultato le autorità cantonali, l’USAV può ammettere altri metodi di stordimento.
 
-[^179a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^179a-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
+[^179a-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179a-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3355](https://fedlex.data.admin.ch/eli/oc/2019/611)).
 
 #### Art. 179b
 
@@ -2953,7 +2953,7 @@ L’uccisione di animali vertebrati o decapodi senza stordimento è ammessa:
 
 <sup>4</sup> Tranne in caso di macellazione rituale, il pollame deve essere stordito prima del dissanguamento.
 
-[^179b-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179b-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^179b-2]: La correzione del 27 nov. 2018 concerne soltanto il testo francese ([RU 2018 4283](https://fedlex.data.admin.ch/eli/oc/2018/685)).
 
 #### Art. 179c
@@ -2966,7 +2966,7 @@ L’uccisione di animali vertebrati o decapodi senza stordimento è ammessa:
 
 <sup>3</sup> La manutenzione degli apparecchi e degli impianti di stordimento, il controllo del loro funzionamento e l’eliminazione dei difetti devono essere documentati.
 
-[^179c-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179c-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 179d
 
@@ -2982,13 +2982,13 @@ L’uccisione di animali vertebrati o decapodi senza stordimento è ammessa:
 
 <sup>5</sup> Dopo lo stordimento i pesci possono essere eviscerati anziché dissanguati.
 
-[^179d-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179d-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 2: Responsabilità al momento della macellazione e trattamento degli animali nei macelli
 
 [^chap8-sec2-1]
 
-[^chap8-sec2-1]: Originario prima dell’art. 180. Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^chap8-sec2-1]: Originario prima dell’art. 180. Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 179e
 
@@ -3015,7 +3015,7 @@ L’incaricato della protezione degli animali è autorizzato a emanare istruzion
 - b. istruire il personale del macello affinché adotti provvedimenti per garantire un trattamento rispettoso degli animali;
 - c. annotare i provvedimenti adottati nel macello per migliorare la protezione degli animali.
 
-[^179e-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^179e-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 180
 
@@ -3031,7 +3031,7 @@ L’incaricato della protezione degli animali è autorizzato a emanare istruzion
 
 <sup>5</sup> Gli animali incapaci di camminare devono essere storditi e dissanguati in loco.
 
-[^180-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^180-1]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 181
 
@@ -3069,14 +3069,14 @@ L’incaricato della protezione degli animali è autorizzato a emanare istruzion
 
 [^183187-1]
 
-[^183187-1]: Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^183187-1]: Abrogati dalla cifra I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 3: Coordinamento dei compiti di controllo nei macelli
 
 [^chap8-sec3-1][^chap8-sec3-2]
 
 [^chap8-sec3-1]: Originaria Sez. 4.
-[^chap8-sec3-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^chap8-sec3-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 188
 
@@ -3086,13 +3086,13 @@ L’incaricato della protezione degli animali è autorizzato a emanare istruzion
 
 <sup>3</sup> Per la sorveglianza ufficiale dell’esecuzione della legislazione sulla protezione degli animali nell’ambito della macellazione non sono riscossi emolumenti.
 
-[^188-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)n. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 n. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora la l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)**)**.
+[^188-1]: [[RU 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)all. 2 n. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)cifra II n. 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 cifra II n. 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)all. 2 cifra II n. 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 cifra II n. 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. cifra II n. 3. [RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62]. Vedi ora la l’O del 16 dic. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)**)**.
 
 ## Capitolo 9: Formazione e formazione continua in materia di detenzione di animali
 
 [^chap9-1]
 
-[^chap9-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^chap9-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 1: Disposizioni generali
 
@@ -3104,7 +3104,7 @@ L’incaricato della protezione degli animali è autorizzato a emanare istruzion
 
 <sup>2</sup> La formazione e la formazione continua sono trasmesse in modo specifico tenendo conto delle specie o categorie animali con esigenze simili a livello di detenzione o trattamento.
 
-[^189-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^189-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 190
 
@@ -3129,7 +3129,7 @@ Devono seguire un corso di formazione continua per almeno un giorno sull’arco 
 
 <sup>3</sup> Il DFI disciplina gli obiettivi di apprendimento, la forma, il contenuto e la durata della formazione continua.
 
-[^190-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^190-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^190-2]: Correzione del 20 mar. 2018 ([RU 2018 1171](https://fedlex.data.admin.ch/eli/oc/2018/173)).
 
 #### Art. 191
@@ -3142,9 +3142,9 @@ Devono seguire un corso di formazione continua per almeno un giorno sull’arco 
 
 <sup>3</sup> I costi relativi alla formazione o alla formazione continua supplementare sono a carico delle aziende o dei detentori di animali.[^191-3]
 
-[^191-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^191-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^191-3]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^191-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^191-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^191-3]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 2: Tipi di formazione e indirizzi professionali
 
@@ -3162,7 +3162,7 @@ Ai sensi della presente ordinanza si intendono per formazioni riconosciute:
 
 <sup>2</sup> È considerata specialistica una formazione che fornisce le conoscenze necessarie per accudire gli animali, illustrando a tal fine le loro esigenze, il loro comportamento e il modo di trattarli.
 
-[^192-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^192-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 193
 
@@ -3182,7 +3182,7 @@ Sono considerati attestati di formazione:
 
 <sup>4</sup> L’USAV può prescrivere un formulario per l’attestazione della formazione richiesta.
 
-[^193-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^193-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 194
 
@@ -3204,7 +3204,7 @@ Alla formazione professionale di base di cui al capoverso 1 lettera a è equipar
 - a. un corso di formazione in ambito agricolo concluso, disciplinato in modo unitario dai Cantoni in collaborazione con l’organizzazione del mondo del lavoro determinante; o
 - b. un’attività pratica comprovata di gestore, cogestore o impiegato in un’azienda agricola per almeno tre anni.
 
-[^194-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^194-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^194-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
 #### Art. 195
@@ -3259,7 +3259,7 @@ Rientrano nelle professioni legate alla pesca le formazioni seguenti:
 
 [^chap9-sec3-1]
 
-[^chap9-sec3-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^chap9-sec3-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 199
 
@@ -3273,8 +3273,8 @@ Rientrano nelle professioni legate alla pesca le formazioni seguenti:
 
 <sup>4</sup> L’autorità cantonale riconosce la formazione continua nell’ambito della sperimentazione animale. [^199-2]
 
-[^199-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^199-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^199-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^199-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 200
 
@@ -3292,11 +3292,11 @@ Rientrano nelle professioni legate alla pesca le formazioni seguenti:
 
 <sup>6</sup> L’USAV può vietare il rilascio degli attestati di formazione di cui all’articolo 193 capoverso 1 lettere b e c alle persone che offrono le formazioni di cui all’articolo 197 o i corsi di cui all’articolo 198 capoverso 2, se l’loro esecuzione è in contraddizione con la legislazione sulla protezione degli animali o se differisce considerevolmente dalla documentazione presentata con la domanda di riconoscimento.[^200-5]
 
-[^200-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200-3]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^200-4]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^200-5]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200-3]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^200-4]: Introdotto dalla cifra I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200-5]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 200a
 
@@ -3313,7 +3313,7 @@ Le persone che dispongono di una qualifica professionale estera prima di esercit
 
 <sup>3</sup> Per le persone che possono far valere l’allegato III dell’Accordo del 21 giugno 1999[^200a-5] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone oppure l’allegato K della Convenzione del 4 gennaio 1960[^200a-6] istitutiva dell’Associazione europea di libero scambio (AELS) rimangono salve le disposizioni della legge federale del 14 dicembre 2012[^200a-7] sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate.
 
-[^200a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^200a-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^200a-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^200a-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^200a-4]: L’elenco delle autorità competenti è disponibile su: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Formazione &gt; Riconoscimento dei diplomi esteri.
@@ -3333,7 +3333,7 @@ Le persone che dispongono di una qualifica professionale estera prima di esercit
 
 <sup>4</sup> Il servizio specializzato cantonale garantisce la formazione e la formazione continua degli organi di esecuzione competenti per la circolazione stradale.
 
-[^201-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^201-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 202
 
@@ -3343,7 +3343,7 @@ Le persone che dispongono di una qualifica professionale estera prima di esercit
 
 <sup>2</sup> Il DFI emana il regolamento d’esame.
 
-[^202-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^202-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 4: Requisiti per i formatori dei detentori di animali
 
@@ -3363,7 +3363,7 @@ L’USAV riconosce i corsi per la formazione dei formatori qualora, oltre a sodd
 
 <sup>3</sup> La formazione deve essere conseguita presso un’organizzazione di cui all’articolo 205.
 
-[^203-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^203-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 204
 
@@ -3385,7 +3385,7 @@ Le formazioni di cui all’articolo 203 possono essere offerte da:
 
 <sup>2</sup> La certificazione di cui al capoverso 1 lettera c deve essere stata rilasciata da un organismo di certificazione per i sistemi di gestione accreditato secondo l’ordinanza del 17 giugno 1996[^205-4] sull’accreditamento e sulla designazione.
 
-[^205-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^205-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 [^205-2]: La norma menzionata può essere consultata gratuitamente od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
 [^205-3]: La norma menzionata può essere consultata e ottenuta presso la segreteria eduQua, Oerlikonerstrasse 38, 8057 Zurigo.
 [^205-4]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
@@ -3398,13 +3398,13 @@ Le formazioni di cui all’articolo 203 possono essere offerte da:
 
 <sup>2</sup> Il praticante deve ricevere istruzioni direttamente dalla persona responsabile dell’accudimento degli animali.
 
-[^206-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^206-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 ## Capitolo 9*a*: Infrazioni
 
 [^chap9a-1]
 
-[^chap9a-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^chap9a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 206a
 
@@ -3421,7 +3421,7 @@ Secondo l’articolo 28 capoverso 3 LPAn e se non è applicabile l’articolo 26
 - h. non adempie, in qualità di gestore di un macello, gli obblighi di cui all’articolo 177*a*;
 - i. non soddisfa, in qualità di formatore, i requisiti previsti (art. 203 e 204).
 
-[^206a-1]: Introdotta dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^206a-1]: Introdotta dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ## Capitolo 10: Compiti amministrativi ed esecuzione
 
@@ -3455,9 +3455,9 @@ L’USAV mette a disposizione le basi scientifiche necessarie a elaborare i crit
 
 <sup>5</sup> …[^209-3]
 
-[^209-1]: Nuovo testo giusta l’all. 4 n. II 1 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^209-2]: Abrogati dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^209-3]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Abrogato dal n. I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^209-1]: Nuovo testo giusta l’all. 4 cifra II n. 1 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^209-2]: Abrogati dalla cifra I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^209-3]: Introdotto dalla cifra I dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Abrogato dalla cifra I dell’O del 10 gen. 2018, con effetto dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 209a
 
@@ -3487,7 +3487,7 @@ Il modello di formulario per le domande di autorizzazione per servizi di accudim
 - c. le specie animali, nonché il genere e il numero dei servizi;
 - d. il numero e la formazione delle persone che forniscono il servizio.
 
-[^209a-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^209a-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 2: Compiti dei Cantoni
 
@@ -3500,7 +3500,7 @@ Il modello di formulario per le domande di autorizzazione per servizi di accudim
 <sup>2</sup> Il Cantone impiega persone in numero tale da assicurare un’esecuzione efficace. Le esigenze sono disciplinate dall’ordinanza del 16 novembre 2011[^210-1] concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico.[^210-2]
 
 [^210-1]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
-[^210-2]: Nuovo testo giusta l’all. 2 n. II 2 dell’O del 16 nov. 2011 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
+[^210-2]: Nuovo testo giusta l’all. 2 cifra II n. 2 dell’O del 16 nov. 2011 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel settore veterinario pubblico, in vigore dal 1° gen. 2012 ([RU 2011 5803](https://fedlex.data.admin.ch/eli/oc/2011/803)).
 
 #### Art. 211
 
@@ -3528,8 +3528,8 @@ Il modello di formulario per le domande di autorizzazione per servizi di accudim
 
 <sup>2</sup> Le autorità cantonali competenti provvedono affinché i divieti di tenere animali secondo lʼarticolo 23 LPAn vengano inseriti in ASAN.[^212a-2]
 
-[^212a-1]: Introdotto dall’art. 26 dell’O del 29 ott. 2008 concernente il Sistema d’informazione per il Servizio veterinario pubblico ([RU 2008 5589](https://fedlex.data.admin.ch/eli/oc/2008/775)). Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
-[^212a-2]: Nuovo testo giusta l’all. 3 n. II 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
+[^212a-1]: Introdotto dall’art. 26 dell’O del 29 ott. 2008 concernente il Sistema d’informazione per il Servizio veterinario pubblico ([RU 2008 5589](https://fedlex.data.admin.ch/eli/oc/2008/775)). Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^212a-2]: Nuovo testo giusta l’all. 3 cifra II n. 2 dell’O del 6 giu. 2014 concernente i sistemi dʼinformazione per il servizio veterinario pubblico, in vigore dal 1° lug. 2014 ([RU 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 
 #### Art. 212b
 
@@ -3537,7 +3537,7 @@ Il modello di formulario per le domande di autorizzazione per servizi di accudim
 
 Le autorità cantonali comunicano all’USAV tutte le decisioni penali e le decisioni di abbandono del procedimento pronunciate in applicazione della legislazione sulla protezione degli animali.
 
-[^212b-1]: Introdotto dal n. I dell’O del 20 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5001](https://fedlex.data.admin.ch/eli/oc/2010/707)).
+[^212b-1]: Introdotto dalla cifra I dell’O del 20 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5001](https://fedlex.data.admin.ch/eli/oc/2010/707)).
 
 ### Sezione 3: Controlli
 
@@ -3566,7 +3566,7 @@ Le autorità cantonali comunicano all’USAV tutte le decisioni penali e le deci
 
 <sup>2</sup> I controlli nelle detenzioni di animali selvatici soggette ad autorizzazione che servono alla produzione di derrate alimentari sono retti dall’articolo 213.
 
-[^214-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^214-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 215
 
@@ -3576,8 +3576,8 @@ Le autorità cantonali comunicano all’USAV tutte le decisioni penali e le deci
 
 <sup>2</sup> Il servizio specializzato cantonale provvede affinché tutte le detenzioni e gli allevamenti di animali da compagnia nonché le pensioni o i rifugi per animali siano controllati ogni due anni. Se due controlli consecutivi non hanno dato adito a contestazioni, l’intervallo tra i controlli può essere prolungato fino a cinque anni al massimo.
 
-[^215-1]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
-[^215-2]: Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^215-1]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^215-2]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 #### Art. 216
 
@@ -3661,8 +3661,8 @@ Per le detenzioni di animali selvatici esistenti il 1° settembre 2001, per i pa
 
 <sup>4</sup> …[^222-2]
 
-[^222-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
-[^222-2]: Abrogato dal n. I dell’O del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4871](https://fedlex.data.admin.ch/eli/oc/2016/782)).
+[^222-1]: Nuovo testo giusta la cifra I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)).
+[^222-2]: Abrogato dalla cifra I dell’O del 23 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4871](https://fedlex.data.admin.ch/eli/oc/2016/782)).
 
 #### Art. 223
 
@@ -3704,7 +3704,7 @@ Entro il 1° gennaio 2017 devono essere soddisfatti i requisiti riguardanti la f
 
 <sup>4</sup> I compartimenti per il trasporto su ripiani dei veicoli per il trasporto di animali che erano in circolazione il 1° settembre 2010 devono essere conformi, dal 1° settembre 2020, ai requisiti concernenti le altezze minime di cui all’allegato 4.
 
-[^225a-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^225a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 #### Art. 225b
 
@@ -3718,7 +3718,7 @@ Entro il 1° gennaio 2017 devono essere soddisfatti i requisiti riguardanti la f
 
 <sup>4</sup> Le formazioni specialistiche non legate a una professione iniziate entro il 28 febbraio 2018 possono essere concluse secondo il diritto anteriore.
 
-[^225b-1]: Introdotto dal n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^225b-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 ### Sezione 3: Entrata in vigore
 
@@ -3734,7 +3734,7 @@ Allegato 1[^t-1]
 
 ## Requisiti minimi per la detenzione di animali domestici
 
-[^t-1]: Aggiornato dal n. II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), dal n. II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) e dal n. II dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-1]: Aggiornato dalla cifra II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), dalla cifra II cpv. 1 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)), dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) e dalla cifra II dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 Osservazioni preliminari
 
@@ -3946,7 +3946,7 @@ Osservazioni sulla tabella 7 – Equidi
 <tr><td><sup>8</sup> La superficie delle aree d’uscita non adiacenti alla scuderia allestite in modo da essere utilizzabili con qualsiasi condizione del tempo non può superare gli 800 m<sup>2</sup>, nemmeno se sono detenuti più di 5 equidi. In caso di stabulazione libera in gruppo con un’area d’uscita sempre accessibile è consigliabile aggiungere 75 m<sup>2</sup> per capo a partire dal sesto equide.</td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: Nuova espr. giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^annexu1-lvlu1-1]: Nuova espr. giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 Tabella 8
 
@@ -4129,7 +4129,7 @@ Allegato 2[^t-2]
 
 ## Requisiti minimi per la detenzione di animali selvatici (con o senza autorizzazione)
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Aggiornato dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) e dal n. II dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 23 ott. 2013 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)). Aggiornato dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) e dalla cifra II dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 Osservazioni preliminari
 
@@ -4838,7 +4838,7 @@ Allegato 3[^t-3]
 
 ## Requisiti minimi per la detenzione di animali da laboratorio
 
-[^t-3]: Aggiornato dal n. II dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
+[^t-3]: Aggiornato dalla cifra II dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 573](https://fedlex.data.admin.ch/eli/oc/2018/78)).
 
 Osservazioni preliminari
 
@@ -4968,7 +4968,7 @@ Allegato 4[^t-4]
 
 ## Spazio minimo per il trasporto di animali da reddito
 
-[^t-4]: Aggiornato dal n. I dell’O del 25 giu. 2008 ([RU 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)) e dal n. II cpv. 1 dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
+[^t-4]: Aggiornato dalla cifra I dell’O del 25 giu. 2008 ([RU 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)) e dalla cifra II cpv. 1 dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3709](https://fedlex.data.admin.ch/eli/oc/2013/697)).
 
 Osservazioni preliminari
 
@@ -5037,7 +5037,7 @@ Allegato 5[^t-5]
 
 ## Disposizioni transitorie
 
-[^t-5]: Aggiornato dal n. I dell’O del 25 giu. 2008 ([RU 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), dal n. II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)) e dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+[^t-5]: Aggiornato dalla cifra I dell’O del 25 giu. 2008 ([RU 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), dalla cifra II dell’O del 14 gen. 2009 ([RU 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)), dalla correzione del 9 apr. 2015 ([RU 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198))e della correzione del 6 dic. 2024 (concerne soltanto il testo in francese) ([RU 2024 750](https://fedlex.data.admin.ch/eli/oc/2024/750))
 
 Osservazioni preliminari
 

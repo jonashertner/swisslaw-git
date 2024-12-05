@@ -4,11 +4,11 @@ title: Tierschutzverordnung vom 23. April 2008 (TSchV)
 short: TSchV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/416"
 language: de
-version: 2024-02-01
+version: 2024-12-06
 adopted: 2008-04-23
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20240201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/416/20241206/de/xml/fedlex-data-admin-ch-eli-cc-2008-416-20241206-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20241206/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/416/20240201/de"
 
 (TSchV)
 
-vom 23. April 2008 (Stand am 1. Februar 2024)
+vom 23. April 2008 (Stand am 6. Dezember 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -5011,7 +5011,7 @@ Anhang 5[^t-5]
 
 ## Übergangsbestimmungen
 
-[^t-5]: Bereinigt gemäss Ziff. I der V vom 25. Juni 2008 ([AS 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), Ziff. II der V vom 14. Jan. 2009 ([AS 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)) und der Berichtigung vom 9. April 2015 ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)).
+[^t-5]: Bereinigt gemäss Ziff. I der V vom 25. Juni 2008 ([AS 2008 2979](https://fedlex.data.admin.ch/eli/oc/2008/415)), Ziff. II der V vom 14. Jan. 2009 ([AS 2009 565](https://fedlex.data.admin.ch/eli/oc/2009/99)) und der Berichtigungen vom 9. April 2015 ([AS 2015 1023](https://fedlex.data.admin.ch/eli/oc/2015/198)) und vom 6. Dez. 2024 (betrifft nur den französischen Text) ([AS 2024 750](https://fedlex.data.admin.ch/eli/oc/2024/750)).
 
 Vorbemerkungen
 
