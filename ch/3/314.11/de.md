@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2024-04-01
+version: 2024-12-09
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240401-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20241209/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20241209-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20241209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240401/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 1. April 2024)
+vom 16. Januar 2019 (Stand am 9. Dezember 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -603,7 +603,7 @@ Anhang 2[^t-2]
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) und Ziff. II 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), Ziff. II 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)) und der Berichtigung vom 9. Dez. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -652,14 +652,13 @@ Anhang 2[^t-2]
 <tr><td>7300. Nichtführen der vorgeschriebenen Sichtzeichen oder Führen verbotener Sichtzeichen beim Stillliegen (Art. 40 Abs. 1 BSG, Art. 18, 21 Abs. 1, 26, 28, 29 und 71 BSV oder Art. 3.03 und 3.08 BSO)</td><td>100</td></tr>
 <tr><td>7301. Berufsfischerei</td><td></td></tr>
 <tr><td>1. Nichtführen des gelben Balles oder Lichtes beim Setzen und Einholen der Netze (Art. 40 Abs. 1 BSG, Art. 31 Abs. 1 BSV)</td><td>50</td></tr>
-<tr><td>2. Nichtführen des weissen Balles beim Fang (Art. 40 Abs. 1 BSG, Art. 31 Abs. 1 BSV)</td><td>50</td></tr>
-<tr><td>3. Führen des gelben Balles oder Lichtes ausserhalb des Setzens und Einholens der Netze (Art. 40 Abs. 1 BSG, Art. 31 Abs. 1 BSV)</td><td>50</td></tr>
-<tr><td>4. Führen des weissen Balles ausserhalb des Fanges (Art. 40 Abs. 1 BSG, Art. 31 Abs. 1 BSV, Art. 3.10 Abs. 1 BSO)</td><td>50</td></tr>
+<tr><td>2. Führen des gelben Balles oder Lichtes ausserhalb des Setzens und Einholens der Netze (Art. 40 Abs. 1 BSG, Art. 21 und 31 Abs. 1 BSV)</td><td>50</td></tr>
+<tr><td>3. Führen des weissen Balles ausserhalb des Fanges (Art. 40 Abs. 1 BSG, Art. 3.03 Abs. 1 und 3.10 Abs. 1 BSO)</td><td>50</td></tr>
 <tr><td>7302. Schleppangelfischerei</td><td></td></tr>
 <tr><td>1. Nichtführen des weissen Balles beim Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 31 Abs. 2 BSV)</td><td>50</td></tr>
 <tr><td>2. Nichtführen der weissen Flagge beim Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 3.10 Abs. 2 BSO)</td><td>50</td></tr>
-<tr><td>3. Führen des weissen Balles ohne Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 31 Abs. 2 BSV)</td><td>50</td></tr>
-<tr><td>4. Führen der weissen Flagge ohne Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 3.10 Abs. 2 BSO)</td><td>50</td></tr>
+<tr><td>3. Führen des weissen Balles ohne Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 21 und 31 Abs. 2 BSV)</td><td>50</td></tr>
+<tr><td>4. Führen der weissen Flagge ohne Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 3.03 Abs. 1 und 3.10 Abs. 2 BSO)</td><td>50</td></tr>
 <tr><td>7303. Nichtanbringen des vorgeschriebenen Zeichens (Bst. «A» der Internationalen Flaggenordnung) beim Tauchen oder unwirksames Anleuchten des Zeichens bei Nacht (Art. 40 Abs. 1 BSG, Art. 32 BSV, Art. 3.13 BSO)</td><td>50</td></tr>
 <tr><td>4. Regeln für die Fahrt</td><td></td></tr>
 <tr><td>7401. Nichteinhalten des Sicherheitsabstandes gegenüber Vorrangschiffen und Schiffen von Berufsfischern, welche die vorgeschriebenen Zeichen führen (Art. 40 Abs. 1 BSG, Art. 48 BSV, Art. 6.06 BSO)</td><td>50</td></tr>

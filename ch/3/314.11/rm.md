@@ -4,11 +4,11 @@ title: Ordinaziun dals 16 da schaner 2019 davart las multas disciplinaras (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: rm
-version: 2024-04-01
+version: 2024-12-09
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240401/rm/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240401-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240401/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20241209/rm/xml/fedlex-data-admin-ch-eli-cc-2019-93-20241209-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20241209/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OMD)
 
-dals 16 da schaner 2019 (versiun dal 1. d’avrigl 2024)
+dals 16 da schaner 2019 (versiun dals 9 da december 2024)
 
 Il Cussegl federal svizzer,
 
@@ -603,7 +603,7 @@ Agiunta 2[^t-2]
 
 ## Glista da multas 2
 
-[^t-2]: Rectifitgà tenor la correctura dals 19 da nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), cifra 1 da l’agiunta da l’O dals 16 da zer. 2023 davart la taxa da las vias naziunalas ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) e cifra II 1 da l’O dals 29 da nov. 2023, en vigur dapi il 1. da schan. 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^t-2]: Rectifitgà tenor la correctura dals 19 da nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), cifra 1 da l’agiunta da l’O dals 16 da zer. 2023 davart la taxa da las vias naziunalas ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), cifra II 1 da l’O dals 29 da nov. 2023, en vigur dapi il 1. da schan. 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)) e tenor la correctura dals 9 da dec. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)).
 
 ### Surpassaments tenor ils ulteriurs decrets
 
@@ -652,14 +652,13 @@ Agiunta 2[^t-2]
 <tr><td>7300. Betg purtar ils segns a vista prescrits u purtar segns a vista scumandads durant il staziunament (art. 40 al. 1 LNI, art. 18, 21 al. 1, 26, 28, 29 e 71 ONI u art. 3.03 e 3.08 RNC)</td><td>100</td></tr>
 <tr><td>7301. Pestga professiunala</td><td></td></tr>
 <tr><td>1. Betg purtar la balla melna u la glisch melna cun metter ora e trair en las raits (art. 40 al. 1 LNI, art. 31 al. 1 ONI)</td><td>50</td></tr>
-<tr><td>2. Betg purtar la balla alva durant la pestga (art. 40 al. 1 LNI, art. 31 al. 1 ONI)</td><td>50</td></tr>
-<tr><td>3. Purtar la balla melna u la glisch melna ordaifer il temp che las raits vegnan messas ora e tratgas en (art. 40 al. 1 LNI, art. 31 al. 1 ONI)</td><td>50</td></tr>
-<tr><td>4. Purtar la balla alva ordaifer il temp ch’i vegn pestgà (art. 40 al. 1 LNI, art. 31 al. 1 ONI, art. 3.10 al. 1 RNC)</td><td>50</td></tr>
+<tr><td>2. Purtar la balla melna u la glisch melna ordaifer il temp che las raits vegnan messas ora e tratgas en (art. 40 al. 1 LNI, art. 21 e 31 al. 1 ONI)</td><td>50</td></tr>
+<tr><td>3. Purtar la balla alva ordaifer il temp ch’i vegn pestgà (art. 40 al. 1 LNI, art. 3.03 al. 1 e 3.10 al. 1 RNC)</td><td>50</td></tr>
 <tr><td>7302. Pestga a pertga stratga</td><td></td></tr>
 <tr><td>1. Betg purtar la balla alva durant la pestga a pertga stratga (art. 40 al. 1 LNI, art. 31 al. 2 ONI)</td><td>50</td></tr>
 <tr><td>2. Betg purtar la bandiera alva durant la pestga a pertga stratga (art. 40 al. 1 LNI, art. 3.10 al. 2 RNC)</td><td>50</td></tr>
-<tr><td>3. Purtar la balla alva ordaifer il temp ch’i vegn pestgà a pertga stratga (art. 40 al. 1 LNI, art. 31 al. 2 ONI)</td><td>50</td></tr>
-<tr><td>4. Purtar la bandiera alva ordaifer il temp ch’i vegn pestgà a pertga stratga (art. 40 al. 1 LNI, art. 3.10 al. 2 RNC)</td><td>50</td></tr>
+<tr><td>3. Purtar la balla alva ordaifer il temp ch’i vegn pestgà a pertga stratga (art. 40 al. 1 LNI, art. 21 e 31 al. 2 ONI)</td><td>50</td></tr>
+<tr><td>4. Purtar la bandiera alva ordaifer il temp ch’i vegn pestgà a pertga stratga (art. 40 al. 1 LNI, art. 3.03 al. 1 e 3.10 al. 2 RNC)</td><td>50</td></tr>
 <tr><td>7303. Betg metter il segn prescrit (lit. «A» dal Cudesch internaziunal da bandieras) cun sfunsar u illuminar en moda inefficazia il segn durant la notg (art. 40 al. 1 LNI, art. 32 ONI, art. 3.13 RNC)</td><td>50</td></tr>
 <tr><td>4. Reglas da navigaziun</td><td></td></tr>
 <tr><td>7401. Betg resguardar la distanza da segirezza envers bartgas prioritaras ed envers bartgas da pestgaders professiunals che portan ils segns prescrits (art. 40 al. 1 LNI, art. 48 ONI, art. 6.06 RNC)</td><td>50</td></tr>

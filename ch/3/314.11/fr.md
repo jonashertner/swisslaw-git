@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2024-04-01
+version: 2024-12-09
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240401-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20241209/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20241209-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20241209/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240401/fr"
 
 (OAO)
 
-du 16 janvier 2019 (État le 1<sup>er</sup> avril 2024)
+du 16 janvier 2019 (État le 9 décembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -600,7 +600,7 @@ Annexe 2[^t-2]
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)) et du 3 avr. 2023 ([RO 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)), l’annexe ch. 1 de l’O du 23 juin 2023 sur la vignette autoroutière ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) et le ch. II 1 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)) et du 3 avr. 2023 ([RO 2023 176](https://fedlex.data.admin.ch/eli/oc/2023/176)), l’annexe ch. 1 de l’O du 23 juin 2023 sur la vignette autoroutière ([RO 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), le ch. II 1 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)) et l’erratum du 9 déc. 2024 ([RO 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -649,14 +649,13 @@ Annexe 2[^t-2]
 <tr><td>7300. Ne pas porter les signaux visuels prescrits ou porter des signaux visuels interdits lors du stationnement (art. 40, al. 1, LNI, art. 18, 21, al. 1, 26, 28, 29 et 71, ONI, ou art. 3.03 et 3.08 RNC)</td><td>100</td></tr>
 <tr><td>7301. Pêche professionnelle</td><td></td></tr>
 <tr><td>1. Ne pas porter le ballon jaune ou le feu prescrit pendant la pose et le relèvement des filets (art. 40, al. 1, LNI, art. 31, al. 1, ONI)</td><td>50</td></tr>
-<tr><td>2. Ne pas porter le ballon blanc prescrit pendant la pêche (art. 40, al. 1, LNI, art. 31, al. 1, ONI)</td><td>50</td></tr>
-<tr><td>3. Porter le ballon jaune ou le feu prescrit en dehors des périodes de pose et de relèvement des filets (art. 40, al. 1, LNI, art. 31, al. 1, ONI)</td><td>50</td></tr>
-<tr><td>4. Porter le ballon blanc prescrit en dehors des périodes de pêche (art. 40, al. 1, LNI, art. 31, al. 1, ONI, art. 3.10, al. 1, RNC)</td><td>50</td></tr>
+<tr><td>2. Porter le ballon jaune ou le feu prescrit en dehors des périodes de pose et de relèvement des filets (art. 40, al. 1, LNI, art. 21, et 31, al. 1, ONI)</td><td>50</td></tr>
+<tr><td>3. Porter le ballon blanc prescrit en dehors des périodes de pêche (art. 40, al. 1, LNI, art. 3.03, al. 1 et 3.10, al. 1, RNC)</td><td>50</td></tr>
 <tr><td>7302. Pêche à la traîne</td><td>50</td></tr>
 <tr><td>1. Ne pas porter le ballon blanc prescrit pendant la pêche (art. 40, al. 1, LNI, art. 31, al. 2, ONI)</td><td>50</td></tr>
 <tr><td>2. Ne pas porter le pavillon blanc prescrit pendant la pêche (art. 40, al. 1, LNI, art. 3.10, al. 2, RNC)</td><td>50</td></tr>
-<tr><td>3. Porter le ballon blanc en dehors de la pêche (art. 40, al. 1, LNI, art. 31, al. 2, ONI)</td><td>50</td></tr>
-<tr><td>4. Porter le pavillon blanc en dehors de la pêche (art. 40, al. 1, LNI, art. 3.10, al. 2, RNC)</td><td>50</td></tr>
+<tr><td>3. Porter le ballon blanc en dehors de la pêche (art. 40, al. 1, LNI, art. 21 et 31, al. 2, ONI)</td><td>50</td></tr>
+<tr><td>4. Porter le pavillon blanc en dehors de la pêche (art. 40, al. 1, LNI, art. 3.03, al. 1 et 3.10, al. 2, RNC)</td><td>50</td></tr>
 <tr><td>7303. Ne pas hisser le panneau prescrit (lettre «A» du Code international de signaux) lors de plongée subaquatique ou ne pas l’éclairer de manière efficace de nuit (art. 40, al. 1, LNI en rel. avec l’art. 32 ONI, art. 3.13 RNC)</td><td>50</td></tr>
 <tr><td>4. Règles de route</td><td></td></tr>
 <tr><td>7401. Ne pas observer les distances de sécurité par rapport aux bateaux prioritaires et aux bateaux des pêcheurs professionnels portant les signaux prescrits (art. 40, al. 1, LNI, art. 48 ONI, art. 6.06 RNC)</td><td>50</td></tr>
@@ -714,7 +713,7 @@ Annexe 2[^t-2]
 <tr><td>12003. Pénétrer ou circuler dans les zones de tranquillité pour la faune sauvage en dehors des chemins et itinéraires qu’il est autorisé d’y emprunter (art. 18, al. 1, let. e, et al. 3, LChP, art. 4<sup>ter</sup> OChP[^annex2-lvlu1-lvlu1-19])</td><td>150</td></tr>
 <tr><td>12004. Ne pas observer l’obligation de tenir les chiens en laisse dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. c, ODF[^annex2-lvlu1-lvlu1-20] et dans les réserves d’oiseaux d’eau et de migrateurs (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. c, OROEM[^annex2-lvlu1-lvlu1-21])</td><td>150</td></tr>
 <tr><td>12005. Camper librement dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. e, ODF)</td><td>150</td></tr>
-<tr><td>12006. Faire circuler des aéronefs civils sans occupants dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let.f<sup>bis</sup>, OROEM) et dans les réserves d’oiseaux d’eau et de migrateurs (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. f<sup>bis</sup>, OROEM)</td><td>150</td></tr>
+<tr><td>12006. Faire circuler des aéronefs civils sans occupants dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. f<sup>bis</sup>, ODF) et dans les réserves d’oiseaux d’eau et de migrateurs (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. f<sup>bis</sup>, OROEM)</td><td>150</td></tr>
 <tr><td>12007. Pratiquer le ski en dehors des pistes et itinéraires balisés dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. g, ODF)</td><td>150</td></tr>
 <tr><td>12008. Circuler sans droit sur des routes d’alpage et des routes forestières et utiliser des véhicules en dehors des routes, des chemins forestiers et de ceux de campagne dans les districts francs fédéraux (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. h, ODF)</td><td>150</td></tr>
 <tr><td>12009. Utiliser des planches à voile tirées par des cerfs-volants ou des engins du même type et faire circuler des modèles réduits d’engins flottants dans les réserves d’oiseaux d’eau et de migrateurs (art. 18, al. 1, let. e, et al. 3, LChP, art. 5, al. 1, let. g, OROEM)</td><td>150</td></tr>

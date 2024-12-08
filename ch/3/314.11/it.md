@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2024-04-01
+version: 2024-12-09
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20240401-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20241209/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20241209-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20241209/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20240401/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 1° aprile 2024)
+del 16 gennaio 2019 (Stato 9 dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -58,7 +58,7 @@ Se l’imputato commette un’infrazione alle prescrizioni della circolazione st
 
 L’ordinanza del 4 marzo 1996[^3-1] concernente le multe disciplinari è abrogata.
 
-[^3-1]: [[RU 1996 1078](https://fedlex.data.admin.ch/eli/oc/1996/1078_1078_1078); [1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)n. II 1; [1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)n. III, [1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 2; [2000 2880](https://fedlex.data.admin.ch/eli/oc/2000/498); [2001 1372](https://fedlex.data.admin.ch/eli/oc/2001/192); [2002 1928](https://fedlex.data.admin.ch/eli/oc/2002/287), [3210](https://fedlex.data.admin.ch/eli/oc/2002/480), [4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 cpv. 2 n. 1; [2004 3517](https://fedlex.data.admin.ch/eli/oc/2004/470); [2005 4481](https://fedlex.data.admin.ch/eli/oc/2005/580); [2006 1669](https://fedlex.data.admin.ch/eli/oc/2006/260); [2009 5699](https://fedlex.data.admin.ch/eli/oc/2009/694); [2011 4931](https://fedlex.data.admin.ch/eli/oc/2011/712); [2012 1819](https://fedlex.data.admin.ch/eli/oc/2012/258); [2013 4681](https://fedlex.data.admin.ch/eli/oc/2013/824); [2015 1311](https://fedlex.data.admin.ch/eli/oc/2015/273), [2449](https://fedlex.data.admin.ch/eli/oc/2015/459); [2017 2647](https://fedlex.data.admin.ch/eli/oc/2017/261)]
+[^3-1]: [[RU 1996 1078](https://fedlex.data.admin.ch/eli/oc/1996/1078_1078_1078); [1997 2404](https://fedlex.data.admin.ch/eli/oc/1997/2404_2404_2404)cifra II n. 1; [1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)cifra III, [1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 2; [2000 2880](https://fedlex.data.admin.ch/eli/oc/2000/498); [2001 1372](https://fedlex.data.admin.ch/eli/oc/2001/192); [2002 1928](https://fedlex.data.admin.ch/eli/oc/2002/287), [3210](https://fedlex.data.admin.ch/eli/oc/2002/480), [4212](https://fedlex.data.admin.ch/eli/oc/2002/685)art. 29 cpv. 2 n. 1; [2004 3517](https://fedlex.data.admin.ch/eli/oc/2004/470); [2005 4481](https://fedlex.data.admin.ch/eli/oc/2005/580); [2006 1669](https://fedlex.data.admin.ch/eli/oc/2006/260); [2009 5699](https://fedlex.data.admin.ch/eli/oc/2009/694); [2011 4931](https://fedlex.data.admin.ch/eli/oc/2011/712); [2012 1819](https://fedlex.data.admin.ch/eli/oc/2012/258); [2013 4681](https://fedlex.data.admin.ch/eli/oc/2013/824); [2015 1311](https://fedlex.data.admin.ch/eli/oc/2015/273), [2449](https://fedlex.data.admin.ch/eli/oc/2015/459); [2017 2647](https://fedlex.data.admin.ch/eli/oc/2017/261)]
 
 #### Art. 4
 
@@ -84,7 +84,7 @@ Allegato 1[^t-1]
 
 ## Elenco delle multe 1
 
-[^t-1]: Aggiornato dal n. I delle O del 20 mag. 2020 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) e del 17 dic. 2021, in vigore dal 1° apr. 2024 ([RU 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
+[^t-1]: Aggiornato dalla cifra I delle O del 20 mag. 2020 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) e del 17 dic. 2021, in vigore dal 1° apr. 2024 ([RU 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
 
 ### Contravvenzioni secondo la legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 
@@ -601,7 +601,7 @@ Allegato 2[^t-2]
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)),) e dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)) e dal n. II 1 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)),) e dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), dalla cifra II n. 1 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)) e dalla correzione del 9 dic. 2024 ([RU 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -650,14 +650,13 @@ Allegato 2[^t-2]
 <tr><td>7300. Omissione di portare i segnali a vista prescritti o porto di segnali a vista non ammessi nello stazionamento (art. 40 cpv. 1 LNI, art. 18, 21 cpv. 1 e 26, 28, 29 e 71 ONI o art. 3.03 e 3.08 RNC)</td><td>100</td></tr>
 <tr><td>7301. Pesca professionale</td><td></td></tr>
 <tr><td>1. Omissione di portare il pallone o il fanale gialli durante la posa o il ritiro delle reti (art. 40 cpv. 1 LNI, art. 31 cpv. 1 ONI)</td><td>50</td></tr>
-<tr><td>2. Omissione di portare il pallone bianco durante la pesca (art. 40 cpv. 1 LNI, art. 31 cpv. 1 ONI)</td><td>50</td></tr>
-<tr><td>3. Porto del pallone o del fanale gialli al di fuori della posa o del ritiro delle reti (art. 40 cpv. 1 LNI, art. 31 cpv. 1 RNC)</td><td>50</td></tr>
-<tr><td>4. Porto del pallone bianco al di fuori della pesca (art. 40 cpv. 1 LNI, art. 31 cpv. 1 ONI, art. 3.10 cpv. 1 RNC)</td><td>50</td></tr>
+<tr><td>2. Porto del pallone o del fanale gialli al di fuori della posa o del ritiro delle reti (art. 40 cpv. 1 LNI, art. 21 e 31 cpv. 1 RNC)</td><td>50</td></tr>
+<tr><td>3. Porto del pallone bianco al di fuori della pesca (art. 40 cpv. 1 LNI, art. 3.03 cpv. 1 e 3.10 cpv. 1 RNC)</td><td>50</td></tr>
 <tr><td>7302. Pesca con la sciabica</td><td></td></tr>
 <tr><td>1. Omissione di portare il pallone bianco durante la pesca con la sciabica (art. 40 cpv. 1 LNI, art. 31 cpv. 2 ONI)</td><td>50</td></tr>
 <tr><td>2. Omissione di portare la bandiera bianca durante la pesca a traino (art. 40 cpv. 1 LNI, art. 3.10 cpv. 2 RNC)</td><td>50</td></tr>
-<tr><td>3. Porto del pallone bianco al di fuori della pesca con la sciabica (art. 40 cpv. 1 LNI, art. 31 cpv. 2 ONI)</td><td>50</td></tr>
-<tr><td>4. Porto della bandiera bianca al di fuori della pesca a traino (art. 40 cpv. 1 LNI, art. 3.10 cpv. 2 RNC)</td><td>50</td></tr>
+<tr><td>3. Porto del pallone bianco al di fuori della pesca con la sciabica (art. 40 cpv. 1 LNI, art. 21 e 31 cpv. 2 ONI)</td><td>50</td></tr>
+<tr><td>4. Porto della bandiera bianca al di fuori della pesca a traino (art. 40 cpv. 1 LNI, art. 3.03 cpv. 1 e 3.10 cpv. 2 RNC)</td><td>50</td></tr>
 <tr><td>7303. Omissione di mostrare la segnalazione prescritta (lettera «A» del codice internazionale dei segnali) durante le immersioni oppure illuminazione inefficace della segnalazione di notte (art. 40 cpv. 1 LNI, art. 32 ONI, art. 3.13 RNC)</td><td>50</td></tr>
 <tr><td>4. Disposizioni sulla navigazione</td><td></td></tr>
 <tr><td>7401. Inosservanza della distanza di sicurezza nei confronti di battelli con precedenza e di imbarcazioni di pescatori professionisti che portano i segnali prescritti (art. 40 cpv. 1 LNI, art. 48 ONI, art. 6.06 RNC)</td><td>50</td></tr>
