@@ -5,12 +5,12 @@ title: Regierungsratsbeschluss betreffend die Liste der Heime für die Pflege vo
 short: Pflegeheimliste
 language: de
 version: 2024-07-01
-valid_until: 2025-05-14
+corrected: 2024-12-09
 version_adopted: 2024-09-10
 adopted: 2021-03-30
 in_force: 2021-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.115"
-pdf: "https://gesetze.nw.ch/api/de/versions/1325/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1304/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -67,7 +67,7 @@ beschliesst:
 <sup>3</sup> Spezialangebote:
 
 <table>
-<tr><th>Einrichtung</th><th>Ort</th><th>Spezialangebot Demenz[^Ziff2-2]</th><th>Spezialangebot Schwerstpflegebedürftigkeit [^Ziff2-3]</th><th>Spezialangebot Tages-& Nachtstrukturen</th></tr>
+<tr><th>Einrichtung</th><th>Ort</th><th>Spezialangebot Demenz[^Ziff2-2]</th><th>Spezialangebot Schwerstpflegebedürftigkeit [^Ziff2-3]</th><th>Spezialangebot Tages-& Nacht- strukturen</th></tr>
 <tr><td>Alterswohnheim Hungacher</td><td>Beckenried</td><td></td><td></td><td></td></tr>
 <tr><td>Alterswohnheim Buochs</td><td>Buochs</td><td></td><td></td><td></td></tr>
 <tr><td>Altersheim Oeltrotte</td><td>Ennetbürgen</td><td></td><td></td><td></td></tr>
