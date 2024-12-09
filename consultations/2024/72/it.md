@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Consentire in Svizzera una protezione dei vegetali moderna
 document: Progetto posto in consultazione
 language: it

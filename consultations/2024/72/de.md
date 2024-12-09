@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modernen Pflanzenschutz in der Schweiz ermöglichen
 document: Vernehmlassungsvorlage
 language: de

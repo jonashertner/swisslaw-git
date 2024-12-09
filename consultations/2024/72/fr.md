@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Une protection des plantes moderne, c'est possible"
 document: Projet mis en consultation
 language: fr
