@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2024-10-08
+version: 2024-12-10
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20241008/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20241008-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20241008/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20241210/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20241210-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20241210/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 8 ottobre 2024)
+dell’8 giugno 2012 (Stato 10 dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -81,10 +81,10 @@ La Segreteria di Stato dell’economia (SECO) può, d’intesa con i competenti 
 
 <sup>6</sup> La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe ai divieti di cui ai capoversi 1–3 nella misura in cui l’attività in questione è finalizzata alla distruzione di armi chimiche o di impianti destinati alla fabbricazione di armi chimiche.[^2-4]
 
-[^2-1]: Introdotto dal n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^2-4]: Introdotto dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^2-1]: Introdotto dalla cifra I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
+[^2-4]: Introdotto dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 #### Art. 2a
 
@@ -103,7 +103,7 @@ Sottostanno all’obbligo di autorizzazione:
 
 <sup>4</sup> La SECO rilascia le autorizzazioni di cui al capoverso 1 d’intesa con i competenti uffici del DFAE e del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS).
 
-[^2a-1]: Introdotto dal n. I dell’O del 1° giu. 2018, in vigore il 1° giu. 2018 alle ore 18.00 ([RU 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 1° giu. 2018, in vigore il 1° giu. 2018 alle ore 18.00 ([RU 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)).
 
 #### Art. 3
 
@@ -136,9 +136,9 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 <sup>6</sup> La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe a scopi umanitari ai divieti di cui ai capoversi 1, 2, 4 e 5.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 10 mar. 2017, in vigore dal 10 mar. 2017 ([RU 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
-[^3-3]: Introdotto dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 10 mar. 2017, in vigore dal 10 mar. 2017 ([RU 2017 705](https://fedlex.data.admin.ch/eli/oc/2017/132)).
+[^3-3]: Introdotto dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 #### Art. 4
 
@@ -150,7 +150,7 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 <sup>3</sup> La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per rispettare i contratti esistenti o adempiere a scopi umanitari.[^4-1]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 #### Art. 4a
 
@@ -169,7 +169,7 @@ I divieti di cui ai capoversi 1 e 2 non si applicano ai prodotti di cui ai numer
 
 <sup>4</sup> Per scopi umanitari o per operazioni di evacuazione la SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 per i prodotti di cui ai numeri 1 – 8 dell’allegato 10.
 
-[^4a-1]: Introdotto dal n. I dell’O dell’11 feb. 2015, in vigore dall’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
+[^4a-1]: Introdotto dalla cifra I dell’O dell’11 feb. 2015, in vigore dall’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
 
 #### Art. 5
 
@@ -190,8 +190,8 @@ La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe:
 - a. ai divieti di cui ai capoversi 2–4 per rispettare i contratti esistenti;
 - b. ai divieti di cui ai capoversi 1–4 per adempiere a scopi umanitari.[^5-2]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 #### Art. 6
 
@@ -247,8 +247,8 @@ Il divieto di cui al capoverso 1 non si applica se si può dimostrare che:
 - a.[^9a-2] i beni culturali sono stati esportati dalla Siria prima del 15 marzo 2011;
 - b. i beni culturali vengono restituiti ai legittimi proprietari in Siria in condizioni di sicurezza.
 
-[^9a-1]: Introdotto dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^9a-2]: Nuovo testo giusta il n. I dell’O del 22 apr. 2015, in vigore dal 22 apr. 2015 ([RU 2015 1219](https://fedlex.data.admin.ch/eli/oc/2015/244)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^9a-2]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2015, in vigore dal 22 apr. 2015 ([RU 2015 1219](https://fedlex.data.admin.ch/eli/oc/2015/244)).
 
 ## Sezione 3: Blocco dei valori patrimoniali e divieto di metterli a disposizione
 
@@ -308,15 +308,15 @@ La SECO, eccezionalmente, può autorizzare la liberazione di risorse economiche 
 
 <sup>5</sup> La SECO autorizza le attività di cui ai capoversi 2<sup>ter</sup>, 3 e 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze (DFF).[^10-9]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-2]: Introdotto dal n. I dell’O del 16 ott. 2019 ([RU 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-3]: Introdotto dal n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
-[^10-4]: Introdotto dal n. I dell’O del 10 mar. 2023, in vigore dal 10 mar. 2023 alle 18.00 all’11 set. 2023, prolungato fino all’11 mar. 2024 e fino al 12 set. 2024 ([RU 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88)), effetto dal 13 set. 2024 la validità della mod. non è più limitata nel tempo ([RU 2024 483](https://fedlex.data.admin.ch/eli/oc/2024/483)).
-[^10-5]: Introdotta dal n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
-[^10-6]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-7]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-8]: Introdotta dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
-[^10-9]: Nuovo testo giusta il n. I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-2]: Introdotto dalla cifra I dell’O del 16 ott. 2019 ([RU 2019 3429](https://fedlex.data.admin.ch/eli/oc/2019/622)). Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-3]: Introdotto dalla cifra I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
+[^10-4]: Introdotto dalla cifra I dell’O del 10 mar. 2023, in vigore dal 10 mar. 2023 alle 18.00 all’11 set. 2023, prolungato fino all’11 mar. 2024 e fino al 12 set. 2024 ([RU 2023 118](https://fedlex.data.admin.ch/eli/oc/2023/118), [476](https://fedlex.data.admin.ch/eli/oc/2023/476); [2024 88](https://fedlex.data.admin.ch/eli/oc/2024/88)), effetto dal 13 set. 2024 la validità della mod. non è più limitata nel tempo ([RU 2024 483](https://fedlex.data.admin.ch/eli/oc/2024/483)).
+[^10-5]: Introdotta dalla cifra I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
+[^10-6]: Introdotta dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-7]: Introdotta dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-8]: Introdotta dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^10-9]: Nuovo testo giusta la cifra I dell’O del 3 mar. 2023, in vigore dal 3 mar. 2023 alle 18.00 ([RU 2023 109](https://fedlex.data.admin.ch/eli/oc/2023/109)).
 
 #### Art. 11
 
@@ -349,7 +349,7 @@ Sono vietati i pagamenti della Banca Europea d’Investimento relativi a contrat
 
 <sup>2</sup> Pone limitazioni allorché assume impegni a breve termine a copertura di operazioni con la Siria.
 
-[^12a-1]: Introdotto dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 #### Art. 13
 
@@ -377,7 +377,7 @@ Alle banche siriane è fatto divieto di:
 
 La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe a scopi umanitari ai divieti di cui agli articoli 12–13.
 
-[^13a-1]: Introdotto dal n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^13a-1]: Introdotto dalla cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 #### Art. 14
 
@@ -410,7 +410,7 @@ La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe a
 
 <sup>3</sup> Sono permessi i voli a scopi umanitari.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2012, in vigore dal 21 dic. 2012 ([RU 2013 55](https://fedlex.data.admin.ch/eli/oc/2013/11)).
 
 #### Art. 16
 
@@ -423,7 +423,7 @@ La SECO può, d’intesa con i competenti uffici del DFAE, autorizzare deroghe a
 - c. delle persone fisiche, imprese e organizzazioni in Siria;
 - d. delle persone fisiche, imprese e organizzazioni che agiscono per conto o a favore del governo siriano oppure per conto di persone, imprese e organizzazioni di cui alle lettere b e c.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O dell’11 feb. 2015, in vigore dall’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2015, in vigore dall’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
 
 #### Art. 17
 
@@ -459,7 +459,7 @@ La Segreteria di Stato della migrazione (SEM)[^17-1] può concedere deroghe:
 
 <sup>6</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 [^18-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 19
@@ -486,7 +486,7 @@ La Segreteria di Stato della migrazione (SEM)[^17-1] può concedere deroghe:
 
 [^sec6-1]
 
-[^sec6-1]: Nuovo testo giusta il n. I 18 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
+[^sec6-1]: Nuovo testo giusta la cifra I n. 18 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
 #### Art. 20a
 
@@ -494,7 +494,7 @@ La Segreteria di Stato della migrazione (SEM)[^17-1] può concedere deroghe:
 
 Il contenuto dell’allegato 7 non è pubblicato né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
 
-[^20a-1]: Introdotto dal n. I 18 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
+[^20a-1]: Introdotto dalla cifra I n. 18 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
 #### Art. 21
 
@@ -598,7 +598,7 @@ Allegato 1a[^t-1]
 
 ## Obbligo di autorizzazione per determinati beni
 
-[^t-1]: Introdotto dal n. II dell’O del 1° giu. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)). Correzione del 27 apr. 2021 ([RU 2021 246](https://fedlex.data.admin.ch/eli/oc/2021/246)).
+[^t-1]: Introdotto dalla cifra II dell’O del 1° giu. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2231](https://fedlex.data.admin.ch/eli/oc/2018/312)). Correzione del 27 apr. 2021 ([RU 2021 246](https://fedlex.data.admin.ch/eli/oc/2021/246)).
 
 ### 1. Materiali e prodotti chimici
 
@@ -876,7 +876,7 @@ Allegato 5[^t-2]
 
 ## Attrezzature, tecnologie e software impiegati a scopo di sorveglianza
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 2 dell’O del DEFR del 9 giu. 2016, in vigore dal 10 giu. 2016 ([RU 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)).
+[^t-2]: Nuovo testo giusta la cifra I cpv. 2 dell’O del DEFR del 9 giu. 2016, in vigore dal 10 giu. 2016 ([RU 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)).
 
 ### 1. Elenco delle apparecchiature
 
@@ -951,8 +951,8 @@ Allegato 7[^t-3]
 
 [^annex7-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. I 18 dell’O del 19 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dal n. I delle O del DEFR dell’11 feb. 2013 ([RU 2013 583](https://fedlex.data.admin.ch/eli/oc/2013/115)), del 6 mag. 2013 ([RU 2013 1369](https://fedlex.data.admin.ch/eli/oc/2013/324)), del 4 nov. 2013 ([RU 2013 3675](https://fedlex.data.admin.ch/eli/oc/2013/685)), del 20 giu. 2014 ([RU 2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)), del 4 ago. 2014 ([RU 2014 2477](https://fedlex.data.admin.ch/eli/oc/2014/437)), del 9 set. 2014 ([RU 2014 2941](https://fedlex.data.admin.ch/eli/oc/2014/498)), del 16 dic. 2014 ([RU 2014 4699](https://fedlex.data.admin.ch/eli/oc/2014/790)), del 10 mar. 2015 ([RU 2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)), del 17 mar. 2015 ([RU 2015 987](https://fedlex.data.admin.ch/eli/oc/2015/183)), del 2 giu. 2015 ([RU 2015 1681](https://fedlex.data.admin.ch/eli/oc/2015/332)), del 16 giu. 2015 ([RU 2015 2081](https://fedlex.data.admin.ch/eli/oc/2015/389)), del 30 giu. 2015 ([RU 2015 2227](https://fedlex.data.admin.ch/eli/oc/2015/412)), del 18 gen. 2016 ([RU 2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)), dal n. I cpv. 1 dell’O del DEFR del 9 giu. 2021 ([RU 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)), dai n. I delle O del DEFR del 10 ott. 2016 ([RU 2016 3433](https://fedlex.data.admin.ch/eli/oc/2016/577)), del 7 nov. 2016 ([RU 2016 3811](https://fedlex.data.admin.ch/eli/oc/2016/638)), del 22 nov. 2016 ([RU 2016 4147](https://fedlex.data.admin.ch/eli/oc/2016/686)), dell’8 dic. 2016 ([RU 2016 4493](https://fedlex.data.admin.ch/eli/oc/2016/730)), del 27 mar. 2017 ([RU 2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)), del 15 giu. 2017 ([RU 2017 3399](https://fedlex.data.admin.ch/eli/oc/2017/372)), del 19 lug. 2017 ([RU 2017 3743](https://fedlex.data.admin.ch/eli/oc/2017/439)), del 2 ago. 2017 ([RU 2017 3885](https://fedlex.data.admin.ch/eli/oc/2017/462)), del 2 ott. 2017 ([RU 2017 5139](https://fedlex.data.admin.ch/eli/oc/2017/562)), del 6 mar. 2018 ([RU 2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)), del 26 mar. 2018 ([RU 2018 1207](https://fedlex.data.admin.ch/eli/oc/2018/188)), dell’11 giu. 2018 ([RU 2018 2325](https://fedlex.data.admin.ch/eli/oc/2018/331)), del 17 lug. 2018 ([RU 2018 2747](https://fedlex.data.admin.ch/eli/oc/2018/404)), del 15 lug. 2019 ([RU 2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)), dal n. I cpv. 1 dell’O del DEFR del 12 ago. 2019 ([RU 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)), dai n. I delle O del DEFR dei 27 set. 2019 ([RU 2019 3087](https://fedlex.data.admin.ch/eli/oc/2019/565)), del 26 feb. 2020 ([RU 2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)), del 25 giu. 2020 ([RU 2020 2573](https://fedlex.data.admin.ch/eli/oc/2020/472)), del 29 ott. 2020 ([RU 2020 4523](https://fedlex.data.admin.ch/eli/oc/2020/798)), del 18 nov. 2020 ([RU 2020 4739](https://fedlex.data.admin.ch/eli/oc/2020/854)), del 2 feb. 2021 ([RU 2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)), del 20 mag. 2021 ([RU 2021 290](https://fedlex.data.admin.ch/eli/oc/2021/290)), del 10 giu. 2021 ([RU 2021 341](https://fedlex.data.admin.ch/eli/oc/2021/341)), del 24 nov. 2021 ([RU 2021 763](https://fedlex.data.admin.ch/eli/oc/2021/763)), del 13 gen. 2022, ([RU 2022 7](https://fedlex.data.admin.ch/eli/oc/2022/7)), del 4 mar. 2022 ([RU 2022 153](https://fedlex.data.admin.ch/eli/oc/2022/153)), del 27 set. 2022 ([RU 2022 536](https://fedlex.data.admin.ch/eli/oc/2022/536)), del 4 mag. 2023 ([RU 2023 219](https://fedlex.data.admin.ch/eli/oc/2023/219)), dell’8 giu. 2023 ([RU 2023 273](https://fedlex.data.admin.ch/eli/oc/2023/273)), del 2 ago. 2023 ([RU 2023 440](https://fedlex.data.admin.ch/eli/oc/2023/440)), del 1° feb. ([RU 2024 54](https://fedlex.data.admin.ch/eli/oc/2024/54)), del 24 giu. 2024 ([RU 2024 312](https://fedlex.data.admin.ch/eli/oc/2024/312)) e del 7 ott. 2024, in vigore dall’8 ott. 2024 alle ore 18.00 ([RU 2024 540](https://fedlex.data.admin.ch/eli/oc/2024/540)).
-[^annex7-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/540](https://fedlex.data.admin.ch/eli/oc/2024/540) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Aggiornato dalla cifra I n. 18 dell’O del 19 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dalla cifra I delle O del DEFR dell’11 feb. 2013 ([RU 2013 583](https://fedlex.data.admin.ch/eli/oc/2013/115)), del 6 mag. 2013 ([RU 2013 1369](https://fedlex.data.admin.ch/eli/oc/2013/324)), del 4 nov. 2013 ([RU 2013 3675](https://fedlex.data.admin.ch/eli/oc/2013/685)), del 20 giu. 2014 ([RU 2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)), del 4 ago. 2014 ([RU 2014 2477](https://fedlex.data.admin.ch/eli/oc/2014/437)), del 9 set. 2014 ([RU 2014 2941](https://fedlex.data.admin.ch/eli/oc/2014/498)), del 16 dic. 2014 ([RU 2014 4699](https://fedlex.data.admin.ch/eli/oc/2014/790)), del 10 mar. 2015 ([RU 2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)), del 17 mar. 2015 ([RU 2015 987](https://fedlex.data.admin.ch/eli/oc/2015/183)), del 2 giu. 2015 ([RU 2015 1681](https://fedlex.data.admin.ch/eli/oc/2015/332)), del 16 giu. 2015 ([RU 2015 2081](https://fedlex.data.admin.ch/eli/oc/2015/389)), del 30 giu. 2015 ([RU 2015 2227](https://fedlex.data.admin.ch/eli/oc/2015/412)), del 18 gen. 2016 ([RU 2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)), dalla cifra I cpv. 1 dell’O del DEFR del 9 giu. 2021 ([RU 2016 1779](https://fedlex.data.admin.ch/eli/oc/2016/318)), dalle cifre I delle O del DEFR del 10 ott. 2016 ([RU 2016 3433](https://fedlex.data.admin.ch/eli/oc/2016/577)), del 7 nov. 2016 ([RU 2016 3811](https://fedlex.data.admin.ch/eli/oc/2016/638)), del 22 nov. 2016 ([RU 2016 4147](https://fedlex.data.admin.ch/eli/oc/2016/686)), dell’8 dic. 2016 ([RU 2016 4493](https://fedlex.data.admin.ch/eli/oc/2016/730)), del 27 mar. 2017 ([RU 2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)), del 15 giu. 2017 ([RU 2017 3399](https://fedlex.data.admin.ch/eli/oc/2017/372)), del 19 lug. 2017 ([RU 2017 3743](https://fedlex.data.admin.ch/eli/oc/2017/439)), del 2 ago. 2017 ([RU 2017 3885](https://fedlex.data.admin.ch/eli/oc/2017/462)), del 2 ott. 2017 ([RU 2017 5139](https://fedlex.data.admin.ch/eli/oc/2017/562)), del 6 mar. 2018 ([RU 2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)), del 26 mar. 2018 ([RU 2018 1207](https://fedlex.data.admin.ch/eli/oc/2018/188)), dell’11 giu. 2018 ([RU 2018 2325](https://fedlex.data.admin.ch/eli/oc/2018/331)), del 17 lug. 2018 ([RU 2018 2747](https://fedlex.data.admin.ch/eli/oc/2018/404)), del 15 lug. 2019 ([RU 2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)), dalla cifra I cpv. 1 dell’O del DEFR del 12 ago. 2019 ([RU 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)), dalle cifre I delle O del DEFR dei 27 set. 2019 ([RU 2019 3087](https://fedlex.data.admin.ch/eli/oc/2019/565)), del 26 feb. 2020 ([RU 2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)), del 25 giu. 2020 ([RU 2020 2573](https://fedlex.data.admin.ch/eli/oc/2020/472)), del 29 ott. 2020 ([RU 2020 4523](https://fedlex.data.admin.ch/eli/oc/2020/798)), del 18 nov. 2020 ([RU 2020 4739](https://fedlex.data.admin.ch/eli/oc/2020/854)), del 2 feb. 2021 ([RU 2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)), del 20 mag. 2021 ([RU 2021 290](https://fedlex.data.admin.ch/eli/oc/2021/290)), del 10 giu. 2021 ([RU 2021 341](https://fedlex.data.admin.ch/eli/oc/2021/341)), del 24 nov. 2021 ([RU 2021 763](https://fedlex.data.admin.ch/eli/oc/2021/763)), del 13 gen. 2022, ([RU 2022 7](https://fedlex.data.admin.ch/eli/oc/2022/7)), del 4 mar. 2022 ([RU 2022 153](https://fedlex.data.admin.ch/eli/oc/2022/153)), del 27 set. 2022 ([RU 2022 536](https://fedlex.data.admin.ch/eli/oc/2022/536)), del 4 mag. 2023 ([RU 2023 219](https://fedlex.data.admin.ch/eli/oc/2023/219)), dell’8 giu. 2023 ([RU 2023 273](https://fedlex.data.admin.ch/eli/oc/2023/273)), del 2 ago. 2023 ([RU 2023 440](https://fedlex.data.admin.ch/eli/oc/2023/440)), del 1° feb. ([RU 2024 54](https://fedlex.data.admin.ch/eli/oc/2024/54)), del 24 giu. 2024 ([RU 2024 312](https://fedlex.data.admin.ch/eli/oc/2024/312)), del 7 ott. 2024 ([RU 2024 540](https://fedlex.data.admin.ch/eli/oc/2024/540)) e del 9 dic. 2024, in vigore dal 10 dic. 2024 alle ore 18.00 ([RU 2024 757](https://fedlex.data.admin.ch/eli/oc/2024/757)).
+[^annex7-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/757](https://fedlex.data.admin.ch/eli/oc/2024/757) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 8[^t-4]
 
@@ -960,7 +960,7 @@ Allegato 8[^t-4]
 
 ## Beni di lusso
 
-[^t-4]: Nuovo testo giusta il n. I cpv. 2 dell’O del DEFR del 12 ago. 2019, in vigore dal 13 ago. 2019 ([RU 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)).
+[^t-4]: Nuovo testo giusta la cifra I cpv. 2 dell’O del DEFR del 12 ago. 2019, in vigore dal 13 ago. 2019 ([RU 2019 2561](https://fedlex.data.admin.ch/eli/oc/2019/473)).
 
 <table>
 <tr><th>Voce di tariffa doganale:</th><th>Designazione delle merci</th></tr>
@@ -990,7 +990,7 @@ Allegato 9[^t-5]
 
 ## Beni culturali
 
-[^t-5]: Introdotto dal n. II dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
+[^t-5]: Introdotto dalla cifra II dell’O del 17 dic. 2014, in vigore dal 17 dic. 2014 ([RU 2015 45](https://fedlex.data.admin.ch/eli/oc/2015/14)).
 
 Sono considerati beni culturali ai sensi dell’articolo 9*a*:
 
@@ -1044,7 +1044,7 @@ Allegato 10[^t-6]
 
 ## Carboturbi e additivi per carburanti
 
-[^t-6]: Introdotto dal n. II dell’O dell’11 feb. 2015, in vigore dall’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
+[^t-6]: Introdotto dalla cifra II dell’O dell’11 feb. 2015, in vigore dall’11 feb. 2015 ([RU 2015 639](https://fedlex.data.admin.ch/eli/oc/2015/102)).
 
 <table>
 <tr><th>N.</th><th>Voce di tariffa doganale</th><th>Descrizione</th></tr>
