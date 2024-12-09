@@ -3,8 +3,8 @@ canton: VD
 number: "170.50"
 title: ARRÊTÉ du 27.11.2024 de mise en vigueur
 language: fr
-version: 2024-12-03
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=19c30a8e-8d98-454c-b526-0c6a62d5b0a4"
+version: 2024-12-10
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=d5b5bdfd-566f-44b6-a3b0-c12f6077e80d"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
@@ -21,9 +21,7 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les décrets ci-après des 20 août et 3 septembre 2024, publiés dans la "Feuille des avis officiels du Canton de Vaud" des 3 et 20 septembre 2024, entrent en vigueur avec effet :
+<sup>1</sup> Les actes législatifs ci-après du 20 décembre 2022, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 30 décembre 2022, entrent en vigueur avec effet au 1er janvier 2025 :
 
-- a. au 1er janvier 2025 :
-- 1\. décret du 20 août 2024 d'application de l'accord intercantonal du 18 février 1993 sur la reconnaissance des diplômes de fin d'études (DA-RDFE) (BLV 400.941).
-- b. au 1er juillet 2024 :
-- 1\. décret du 3 septembre 2024 sur le Plan stratégique et les mesures du programme cantonal de lutte contre la pénurie de personnel dans le domaine de la santé et des soins infirmiers, InvestPro (BLV 811.121).
+- 1\. loi du 20 décembre 2022 modifiant celle du 16 mai 2006 sur l'énergie (BLV 730.01) ;
+- 2\. décret du 20 décembre 2022 sur l'assainissement des chauffages et chauffe-eau électriques (DACCE) (BLV 730.051).
