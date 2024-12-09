@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2024-11-12
-valid_until: 2024-12-09
-version_adopted: 2024-11-12
+version: 2024-12-10
+valid_until: 2025-01-23
+version_adopted: 2024-12-10
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/4280/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 12.11.2024)
+vom 04.07.2017 (Stand 10.12.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -73,6 +73,7 @@ beschliesst:
 <tr><td>Hohenrain</td><td>5. Mai 2023</td><td>2. Juli 2024</td></tr>
 <tr><td>Ebikon</td><td>18. Juni 2023</td><td>24. September 2024</td></tr>
 <tr><td>Altishofen</td><td>23. Januar 2024</td><td>12. November 2024</td></tr>
+<tr><td>Rickenbach</td><td>26. Juni 2024</td><td>10. Dezember 2024</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
