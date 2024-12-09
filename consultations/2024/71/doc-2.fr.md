@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Cautionnements solidaires en faveur du chargement des automobiles
 document: Projet mis en consultation
 language: fr

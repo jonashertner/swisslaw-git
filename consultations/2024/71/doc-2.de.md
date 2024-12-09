@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Solidarbürgschaften zugunsten des Autoverlads
 document: Vernehmlassungsvorlage
 language: de

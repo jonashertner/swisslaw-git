@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Fideiussioni solidali a favore del carico di autoveicoli
 document: Progetto posto in consultazione-2
 language: it
