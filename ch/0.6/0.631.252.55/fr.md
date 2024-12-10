@@ -3,33 +3,34 @@ sr: "0.631.252.55"
 title: Convention internationale du 10 janvier 1952 pour faciliter le franchissement des frontières aux voyageurs et aux bagages transportés par voie ferrée
 eli: "https://fedlex.data.admin.ch/eli/cc/1957/797_803_823"
 language: fr
-version: 1975-04-01
+version: 2024-12-11
 adopted: 1952-01-10
 in_force: 1957-06-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/797_803_823/19750401/fr/xml/fedlex-data-admin-ch-eli-cc-1957-797_803_823-19750401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1957/797_803_823/19750401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/797_803_823/20241211/fr/xml/fedlex-data-admin-ch-eli-cc-1957-797_803_823-20241211-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/797_803_823/20241211/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention internationale pour faciliter le franchissement des frontières aux voyageurs et aux bagages transportés par voie ferrée
 
-0.631.252.55 (Etat le 5 novembre 1999)Nicht löschen bitte "[^t-1] " !!
+RO **1957** 803; FF **1957** I 37
 
 Texte original
 
-Conclue à Genève le 10 janvier 1952 Approuvée par l’Assemblée fédérale le 8 mars 1957[^t-2] Instrument de ratification déposé par la Suisse le 5 juin 1957 Entrée en vigueur pour la Suisse le 5 juin 1957
+Conclue à Genève le 10 janvier 1952 Approuvée par l’Assemblée fédérale le 8 mars 1957[^t-1] Instrument de ratification déposé par la Suisse le 5 juin 1957 Entrée en vigueur pour la Suisse le 5 juin 1957
 
-[^t-1]: [RO 1957 803](https://fedlex.data.admin.ch/eli/oc/1957/797_803_823); [FF 1957 I 37](https://fedlex.data.admin.ch/eli/fga/1957/1_37_37_)
-[^t-2]: [RO 1957 801](https://fedlex.data.admin.ch/eli/oc/1957/795_801_821)
+(État le 11 décembre 2024)
+
+[^t-1]: [RO 1957 801](https://fedlex.data.admin.ch/eli/oc/1957/795_801_821)
 
 Les soussignés, dûment autorisés,
 
-Réunis à Genève, sous les auspices de la Commission économique pour l’Europe,
+réunis à Genève, sous les auspices de la Commission économique pour l’Europe,
 
-Afin de faciliter le franchissement des frontières aux voyageurs et aux bagages transportés par voie ferrée,
+afin de faciliter le franchissement des frontières aux voyageurs et aux bagages transportés par voie ferrée,
 
-Sont convenus des dispositions suivantes:
+sont convenus des dispositions suivantes:
 
 ## Titre I Création et régime des gares-frontière à contrôles nationaux juxtaposés
 
@@ -49,7 +50,7 @@ Cette zone comprend en général:
 
 - a. Un secteur déterminé de la gare;
 - b. Les trains de voyageurs et la section de voie sur laquelle ces trains stationnent pendant toute la durée des opérations de contrôle;
-- c. Les portions de quais et de voies déterminées, dans chaque cas d’un commun accord, par les administrations compétentes des pays intéressés; et
+- c. Les portions de quais et de voies déterminées, dans chaque cas d’un commun accord, par les administrations compétentes des pays intéressés, et
 - d. Les trains de voyageurs entre la gare et la frontière du pays limitrophe.
 
 #### Art. 3
@@ -79,7 +80,7 @@ L’application, à l’intérieur de la zone créée conformément à l’art. 
 Les accords bilatéraux visés à l’art. 3 détermineront:
 
 - a. L’effectif maximum de fonctionnaires et agents des administrations compétentes du pays limitrophe autorisés à effectuer des contrôles dans la zone créée conformément à l’art. 2;
-- b. Les conditions dans lesquelles leur rappel peut être requis; et
+- b. Les conditions dans lesquelles leur rappel peut être requis, et
 - c. Les conditions dans lesquelles ils peuvent être porteurs de leurs armes et s’en servir dans l’exercice de leurs fonctions à l’intérieur de ladite zone.
 
 #### Art. 6
@@ -117,8 +118,8 @@ Les Parties contractantes établissent, sur chaque itinéraire important, des li
 
 Les contrôles de police et de douane s’effectuent, dans toute la mesure du possible, pendant la marche des trains internationaux, pourvu que lesdits contrôles s’avèrent à la fois plus efficaces et plus avantageux pour les voyageurs:
 
-- a. Dans tous les cas où les parcours de ces trains, effectués sans arrêt, soit avant, soit après la gare-frontière de chacun des deux pays limitrophes, laissent sur leur territoire un délai suffisant pour l’accomplissement des formalités nécessaires à ces contrôles; et
-- b. A condition que les contrôles en cours de route aient pour résultat de réduire sensiblement la durée des arrêts de ces trains, soit dans les gares-frontière, soit dans la gare à contrôles juxtaposés.
+- a. Dans tous les cas où les parcours de ces trains, effectués sans arrêt, soit avant, soit après la gare-frontière de chacun des deux pays limitrophes, laissent sur leur territoire un délai suffisant pour l’accomplissement des formalités nécessaires à ces contrôles, et
+- b. À condition que les contrôles en cours de route aient pour résultat de réduire sensiblement la durée des arrêts de ces trains, soit dans les gares-frontière, soit dans la gare à contrôles juxtaposés.
 
 <sup>2.</sup> Lorsque, pour accélérer les opérations de contrôle ou supprimer tout arrêt aux frontières, il est reconnu nécessaire d’autoriser les fonctionnaires et agents d’un pays limitrophe à monter dans les trains internationaux et à y exercer des contrôles sur le territoire de l’autre pays limitrophe, les autorités compétentes des deux pays déterminent dans un accord bilatéral les conditions dans lesquelles ces opérations sont effectuées.
 
@@ -145,7 +146,7 @@ En vue de l’application des dispositions du présent titre:
 - a. Les Parties contractantes reconnaissent, en principe, les scellements de douane des autres Parties contractantes, sauf faculté pour chaque administration des douanes d’y ajouter son scellement propre, si elle l’estime indispensable;
 - b. Les Parties contractantes adoptent, pour autant qu’il n’existe pas de système plus simple, le modèle de déclaration-soumission internationale de douane annexé à la présente Convention;
 - c. La déclaration-soumission internationale de douane est imprimée en deux langues, le français et la langue du pays de départ; elle est établie, sauf exception, en deux exemplaires pour chaque pays;
-- d. La déclaration de l’expéditeur est faite en caractères latins et dans la langue du pays de départ ou en français, l’administration des chemins de fer devant, le cas échéant, en faire la traduction; et
+- d. La déclaration de l’expéditeur est faite en caractères latins et dans la langue du pays de départ ou en français, l’administration des chemins de fer devant, le cas échéant, en faire la traduction, et
 - e. Cette règle n’exclut pas la possibilité, pour les administrations des douanes et des chemins de fer qui le désirent, d’admettre l’usage d’autres langues pour les trafics intéressant exclusivement leurs pays.
 
 <sup>6.</sup> Ce modèle de déclaration-soumission internationale de douane pourra être modifié suivant la procédure simplifiée prévue à l’art. 16 de la présente Convention.
@@ -168,7 +169,7 @@ En vue de l’application des dispositions du présent titre:
 
 #### Art. 13
 
-La présente Convention pourra être dénoncée au moyen d’un préavis de six mois donné au Secrétaire général des Nations Unies qui notifiera cette dénonciation aux autres Parties contractantes. A l’expiration de ce délai de six mois, la Convention cessera d’être en vigueur pour la Partie contractante qui l’aura dénoncée.
+La présente Convention pourra être dénoncée au moyen d’un préavis de six mois donné au Secrétaire général des Nations Unies qui notifiera cette dénonciation aux autres Parties contractantes. À l’expiration de ce délai de six mois, la Convention cessera d’être en vigueur pour la Partie contractante qui l’aura dénoncée.
 
 #### Art. 14
 
@@ -198,18 +199,21 @@ Fait à Genève, en un seul exemplaire, en langues anglaise et française, l’u
 
 (Suivent les signatures)
 
-Champ d’application de la convention le 1<sup>er</sup> janvier 1985
+Champ d’application de la convention le 11 décembre 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Signature sans réserve de ratification (Si) Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Autriche</td><td>8 janvier</td><td>1956 A</td><td>8 janvier</td><td>1956</td></tr>
-<tr><td colspan="2">Belgique</td><td>22 juillet</td><td>1953</td><td>22 juillet</td><td>1953</td></tr>
-<tr><td colspan="2">France</td><td>1<sup>er</sup> avril</td><td>1953</td><td>1<sup>er</sup> avril</td><td>1953</td></tr>
-<tr><td colspan="2">Italie</td><td>22 juin</td><td>1955</td><td>22 juin</td><td>1955</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>26 janvier</td><td>1954</td><td>26 janvier</td><td>1954</td></tr>
-<tr><td colspan="2">Norvège</td><td>28 octobre</td><td>1952</td><td>1<sup>er</sup> avril</td><td>1953</td></tr>
-<tr><td colspan="2">Pays-Bas</td><td>10 janvier</td><td>1952 Si</td><td>1<sup>er</sup> avril</td><td>1953</td></tr>
-<tr><td colspan="2">Portugal</td><td>24 septembre</td><td>1956 A</td><td>24 septembre</td><td>1956</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>5 juin</td><td>1957</td><td>5 juin</td><td>1957</td></tr>
-<tr><td>\*</td><td colspan="5">La convention s’applique également à la Principauté de Liechtenstein, aussi longtemps que celle-ci reste liée à la Suisse par un traité d’union douanière.</td></tr>
+<tr><th>États parties</th><th>Ratification Signature sans réserve de ratification (Si) Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>22 avril</td><td>2004 A</td><td>22 avril</td><td>2004</td></tr>
+<tr><td>Autriche</td><td>8 janvier</td><td>1956 A</td><td>8 janvier</td><td>1956</td></tr>
+<tr><td>Belgique</td><td>22 juillet</td><td>1953</td><td>22 juillet</td><td>1953</td></tr>
+<tr><td>France</td><td>1<sup>er</sup> avril</td><td>1953</td><td>1<sup>er</sup> avril</td><td>1953</td></tr>
+<tr><td>Italie</td><td>22 juin</td><td>1955</td><td>22 juin</td><td>1955</td></tr>
+<tr><td>Luxembourg</td><td>26 janvier</td><td>1954</td><td>26 janvier</td><td>1954</td></tr>
+<tr><td>Norvège</td><td>28 octobre</td><td>1952</td><td>1<sup>er</sup> avril</td><td>1953</td></tr>
+<tr><td>Pays-Bas</td><td>10 janvier</td><td>1952 Si</td><td>1<sup>er</sup> avril</td><td>1953</td></tr>
+<tr><td>Portugal</td><td>24 septembre</td><td>1956 A</td><td>24 septembre</td><td>1956</td></tr>
+<tr><td>Suisse\*</td><td>5 juin</td><td>1957</td><td>5 juin</td><td>1957</td></tr>
+<tr><td colspan="5">\* La convention s’applique également à la Principauté de Liechtenstein, aussi longtemps que celle-ci reste liée à la Suisse par un traité d’union douanière.</td></tr>
 </table>
+
+[^t-2]: [RO 1975 857](https://fedlex.data.admin.ch/eli/oc/1975/857_857_857); [2024 773](https://fedlex.data.admin.ch/eli/oc/2024/773). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

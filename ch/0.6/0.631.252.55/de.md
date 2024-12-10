@@ -3,26 +3,26 @@ sr: "0.631.252.55"
 title: Internationales Abkommen vom 10. Januar 1952 zur Erleichterung des Grenzüberganges für Reisende und Gepäck im Eisenbahnverkehr
 eli: "https://fedlex.data.admin.ch/eli/cc/1957/797_803_823"
 language: de
-version: 1975-04-01
+version: 2024-12-11
 adopted: 1952-01-10
 in_force: 1957-06-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/797_803_823/19750401/de/xml/fedlex-data-admin-ch-eli-cc-1957-797_803_823-19750401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1957/797_803_823/19750401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/797_803_823/20241211/de/xml/fedlex-data-admin-ch-eli-cc-1957-797_803_823-20241211-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/797_803_823/20241211/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Internationales Abkommen zur Erleichterung des Grenzüberganges für Reisende und Gepäck im Eisenbahnverkehr
 
-0.631.252.55Nicht löschen bitte "[^t-1] " !! (Stand am 5. November 1999)
+AS **1957** 797; BBl **1957** I 37
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Abgeschlossen in Genf am 10. Januar 1952 Von der Bundesversammlung genehmigt am 8. März 1957[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 5. Juni 1957 In Kraft getreten für die Schweiz am 5. Juni 1957
+Abgeschlossen in Genf am 10. Januar 1952 Von der Bundesversammlung genehmigt am 8. März 1957[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 5. Juni 1957 In Kraft getreten für die Schweiz am 5. Juni 1957
 
-[^t-1]: [AS 1957 797](https://fedlex.data.admin.ch/eli/oc/1957/797_803_823); [BBl 1957 I 37](https://fedlex.data.admin.ch/eli/fga/1957/1_37_37_)
-[^t-2]: Der französische Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-3]: [AS 1957 795](https://fedlex.data.admin.ch/eli/oc/1957/795_801_821)
+(Stand am 11. Dezember 2024)
+
+[^t-1]: [AS 1957 795](https://fedlex.data.admin.ch/eli/oc/1957/795_801_821)
 
 Die gehörig bevollmächtigten Unterzeichneten,
 
@@ -114,7 +114,9 @@ Die Vertragsparteien errichten auf allen Hauptstrecken direkte Telefonlinien fü
 
 #### Art. 9
 
-<sup>1.</sup> Die polizeilichen Kontrollen und die Zollabfertigung in den internationalen Zügen sind wenn immer möglich während der Fahrt durchzuführen, sofern sich die Kontrollen auf diese Weise wirksamer und für die Reisenden günstiger erweisen, und zwar
+<sup>1.</sup>
+
+Die polizeilichen Kontrollen und die Zollabfertigung in den internationalen Zügen sind wenn immer möglich während der Fahrt durchzuführen, sofern sich die Kontrollen auf diese Weise wirksamer und für die Reisenden günstiger erweisen, und zwar:
 
 - a. in allen Fällen, in denen die ununterbrochene Fahrt der Züge entweder vor oder nach dem Grenzbahnhof jedes der beiden Nachbarländer auf deren Gebiet genügend Zeit zur Durchführung der erforderlichen Formalitäten belässt, und
 - b. sofern die Kontrollen im fahrenden Zuge eine fühlbare Verkürzung der Haltezeiten auf den Grenzbahnhöfen beziehungsweise auf dem Bahnhof mit gleichzeitigen Grenzkontrollen durch beide Nachbarländer ermöglichen.
@@ -197,18 +199,21 @@ Gegeben in Genf, am zehnten Januar neunzehnhundertzweiundfünfzig, in einer einz
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich des Abkommens am 1. Januar 1985
+Geltungsbereich am 11. Dezember 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Unterzeichnung ohne Ratifikations- vorbehalt (U) Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Belgien</td><td>22. Juli</td><td>1953</td><td>22. Juli</td><td>1953</td></tr>
-<tr><td colspan="2">Frankreich</td><td>1. April</td><td>1953</td><td>1. April</td><td>1953</td></tr>
-<tr><td colspan="2">Italien</td><td>22. Juni</td><td>1955</td><td>22. Juni</td><td>1955</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>26. Januar</td><td>1954</td><td>26. Januar</td><td>1954</td></tr>
-<tr><td colspan="2">Niederlande</td><td>10. Januar</td><td>1952 U</td><td>1. April</td><td>1953</td></tr>
-<tr><td colspan="2">Norwegen</td><td>28. Oktober</td><td>1952</td><td>1. April</td><td>1953</td></tr>
-<tr><td colspan="2">Österreich</td><td>8. Januar</td><td>1956 B</td><td>8. Januar</td><td>1956</td></tr>
-<tr><td colspan="2">Portugal</td><td>24. September</td><td>1956 B</td><td>24. September</td><td>1956</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>5. Juni</td><td>1957</td><td>5. Juni</td><td>1957</td></tr>
-<tr><td>\*</td><td colspan="5">Das Abkommen erstreckt sich auch auf das Fürstentum Liechtenstein, solange dieses durch einen Zollanschlussvertrag mit der Schweiz verbunden ist.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Unterzeichnung ohne Ratifikations- vorbehalt (U) Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td>22. April</td><td>2004 B</td><td>22. April</td><td>2004</td></tr>
+<tr><td>Belgien</td><td>22. Juli</td><td>1953</td><td>22. Juli</td><td>1953</td></tr>
+<tr><td>Frankreich</td><td>1. April</td><td>1953</td><td>1. April</td><td>1953</td></tr>
+<tr><td>Italien</td><td>22. Juni</td><td>1955</td><td>22. Juni</td><td>1955</td></tr>
+<tr><td>Luxemburg</td><td>26. Januar</td><td>1954</td><td>26. Januar</td><td>1954</td></tr>
+<tr><td>Niederlande</td><td>10. Januar</td><td>1952 U</td><td>1. April</td><td>1953</td></tr>
+<tr><td>Norwegen</td><td>28. Oktober</td><td>1952</td><td>1. April</td><td>1953</td></tr>
+<tr><td>Österreich</td><td>8. Januar</td><td>1956 B</td><td>8. Januar</td><td>1956</td></tr>
+<tr><td>Portugal</td><td>24. September</td><td>1956 B</td><td>24. September</td><td>1956</td></tr>
+<tr><td>Schweiz\*</td><td>5. Juni</td><td>1957</td><td>5. Juni</td><td>1957</td></tr>
+<tr><td colspan="5">\* Das Abkommen erstreckt sich auch auf das Fürstentum Liechtenstein, solange dieses durch einen Zollanschlussvertrag mit der Schweiz verbunden ist.</td></tr>
 </table>
+
+[^t-2]: [AS 1975 857](https://fedlex.data.admin.ch/eli/oc/1975/857_857_857); [2024 773](https://fedlex.data.admin.ch/eli/oc/2024/773). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

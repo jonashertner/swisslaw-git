@@ -3,26 +3,26 @@ sr: "0.631.252.55"
 title: Convenzione internazionale del 10 gennaio 1952 intesa ad agevolare il passaggio alle frontiere dei viaggiatori e dei bagagli trasportati per ferrovia
 eli: "https://fedlex.data.admin.ch/eli/cc/1957/797_803_823"
 language: it
-version: 1975-04-01
+version: 2024-12-11
 adopted: 1952-01-10
 in_force: 1957-06-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/797_803_823/19750401/it/xml/fedlex-data-admin-ch-eli-cc-1957-797_803_823-19750401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1957/797_803_823/19750401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/797_803_823/20241211/it/xml/fedlex-data-admin-ch-eli-cc-1957-797_803_823-20241211-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/797_803_823/20241211/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione internazionale intesa ad agevolare il passaggio alle frontiere dei viaggiatori e dei bagagli trasportati per ferrovia
 
-0.631.252.55 (Stato 5 novembre 1999)Nicht löschen bitte "[^t-1] " !!
+RU **1957** 823; FF **1957** I 37
 
-Traduzione*[^t-2]*
+Traduzione
 
-Conchiusa a Ginevra il 10 gennaio 1952 Approvata dall’Assemblea federale l’8 marzo 1957[^t-3] Istrumento di ratificazione depositato dalla Svizzera il 5 giugno 1957 Entrata in vigore per la Svizzera il 5 giugno 1957
+Conchiusa a Ginevra il 10 gennaio 1952 Approvata dall’Assemblea federale l’8 marzo 1957[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 5 giugno 1957 Entrata in vigore per la Svizzera il 5 giugno 1957
 
-[^t-1]: [RU 1957 823](https://fedlex.data.admin.ch/eli/oc/1957/797_803_823); [FF 1957 I 37](https://fedlex.data.admin.ch/eli/fga/1957/1___37)ediz. ted. **1957** I 37 ediz. franc.
-[^t-2]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-3]: [RU 1957 821](https://fedlex.data.admin.ch/eli/oc/1957/795_801_821)
+(Stato 11 dicembre 2024)
+
+[^t-1]: [RU 1957 821](https://fedlex.data.admin.ch/eli/oc/1957/795_801_821)
 
 I sottoscritti, debitamente autorizzati,
 
@@ -199,23 +199,21 @@ Fatto a Ginevra, in un solo esemplare, in lingua inglese e francese, i due testi
 
 (Seguono le firme)
 
-Allegato*[^t-4]*
-
-## Campo d’applicazione della convenzione il 1° gennaio 1985
-
-[^t-4]: Nuovo testo giusta il DCF del 22 set. 1959 ([RU 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/870_900_888)). I modelli, pubblicati nella [RU 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/870_900_888), non sono riprodotti nella presente Raccolta.
+Campo d’applicazione l’11 dicembre 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratificazione Firma senza riserva di ratificazione (Fi) Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Austria</td><td>8 gennaio</td><td>1956 A</td><td>8 gennaio</td><td>1956</td></tr>
-<tr><td colspan="2">Belgio</td><td>22 luglio</td><td>1953</td><td>22 luglio</td><td>1953</td></tr>
-<tr><td colspan="2">Francia</td><td>1° aprile</td><td>1953</td><td>1° aprile</td><td>1953</td></tr>
-<tr><td colspan="2">Italia</td><td>22 giugno</td><td>1955</td><td>22 giugno</td><td>1955</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>26 gennaio</td><td>1954</td><td>26 gennaio</td><td>1954</td></tr>
-<tr><td colspan="2">Norvegia</td><td>28 ottobre</td><td>1952</td><td>1° aprile</td><td>1953</td></tr>
-<tr><td colspan="2">Paesi Bassi</td><td>10 gennaio</td><td>1952 Fi</td><td>1° aprile</td><td>1953</td></tr>
-<tr><td colspan="2">Portogallo</td><td>24 settembre</td><td>1956 A</td><td>24 settembre</td><td>1956</td></tr>
-<tr><td colspan="2">Spagna</td><td>17 aprile</td><td>1962 A</td><td>17 aprile</td><td>1962</td></tr>
-<tr><td colspan="2">Svizzera\*</td><td>5 giugno</td><td>1957</td><td>5 giugno</td><td>1957</td></tr>
-<tr><td>\*</td><td colspan="5">La convenzione s’applica parimenti al Principato del Liechtenstein, fintantoché esso sarà vincolato alla Svizzera da un trattato d’unione doganale.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratificazione Firma senza riserva di ratificazione (Fi) Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>22 aprile</td><td>2004 A</td><td>22 aprile</td><td>2004</td></tr>
+<tr><td>Austria</td><td>8 gennaio</td><td>1956 A</td><td>8 gennaio</td><td>1956</td></tr>
+<tr><td>Belgio</td><td>22 luglio</td><td>1953</td><td>22 luglio</td><td>1953</td></tr>
+<tr><td>Francia</td><td>1° aprile</td><td>1953</td><td>1° aprile</td><td>1953</td></tr>
+<tr><td>Italia</td><td>22 giugno</td><td>1955</td><td>22 giugno</td><td>1955</td></tr>
+<tr><td>Lussemburgo</td><td>26 gennaio</td><td>1954</td><td>26 gennaio</td><td>1954</td></tr>
+<tr><td>Norvegia</td><td>28 ottobre</td><td>1952</td><td>1° aprile</td><td>1953</td></tr>
+<tr><td>Paesi Bassi</td><td>10 gennaio</td><td>1952 Fi</td><td>1° aprile</td><td>1953</td></tr>
+<tr><td>Portogallo</td><td>24 settembre</td><td>1956 A</td><td>24 settembre</td><td>1956</td></tr>
+<tr><td>Svizzera\*</td><td>5 giugno</td><td>1957</td><td>5 giugno</td><td>1957</td></tr>
+<tr><td colspan="5">\* La Conv. s’applica parimenti al Principato del Liechtenstein, fintantoché esso sarà vincolato alla Svizzera da un trattato d’unione doganale.</td></tr>
 </table>
+
+[^t-2]: [RU 1975 857](https://fedlex.data.admin.ch/eli/oc/1975/857_857_857); [2024 773](https://fedlex.data.admin.ch/eli/oc/2024/773). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
