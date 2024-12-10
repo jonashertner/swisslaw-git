@@ -3,11 +3,11 @@ sr: "0.191.021"
 title: Fakultativprotokoll vom 24. April 1963 zum Wiener Übereinkommen über konsularische Beziehungen betreffend die obligatorische Beilegung von Streitigkeiten
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/918_960_876"
 language: de
-version: 2012-10-01
+version: 2024-12-11
 adopted: 1963-04-24
 in_force: 1967-03-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/918_960_876/20121001/de/xml/fedlex-data-admin-ch-eli-cc-1968-918_960_876-20121001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/918_960_876/20121001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/918_960_876/20241211/de/xml/fedlex-data-admin-ch-eli-cc-1968-918_960_876-20241211-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/918_960_876/20241211/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1968** 918; BBl **1964** II 457
 
 Abgeschlossen in Wien am 24. April 1963 Von der Bundesversammlung genehmigt am 18. Dezember 1964[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. Mai 1965 In Kraft getreten für die Schweiz am 19. März 1967
 
-(Stand am 1. Oktober 2012)
+(Stand am 11. Dezember 2024)
 
 [^t-1]: [AS 1968 885](https://fedlex.data.admin.ch/eli/oc/1968/885_925_841)
 
@@ -70,7 +70,7 @@ Dieses Protokoll liegt zum Beitritt für alle Staaten auf, die Vertragsparteien 
 
 #### Art. IX
 
-Der Generalsekretär der Vereinten Nationen notifiziert allen Staaten, die Vertragsparteien des Übereinkommens werden,
+Der Generalsekretär der Vereinten Nationen notifiziert allen Staaten, die Vertragsparteien des Übereinkommens werden:
 
 - a. die Unterzeichnungen dieses Protokolls und die Hinterlegung der Ratifikations- und Beitrittsurkunden gemäss den Artikeln V, VI und VIII;
 - b. die gemäss Artikel IV abgegebenen Erklärungen;
@@ -82,7 +82,7 @@ Die Urschrift dieses Protokolls, dessen chinesischer, englischer, französischer
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Protokoll unterschrieben. Geschehen zu Wien am vierundzwanzigsten April neunzehnhundertdreiundsechzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 1. Oktober 2012**[^t-2]**
+Geltungsbereich am 11. Dezember 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -116,7 +116,7 @@ Geltungsbereich am 1. Oktober 2012**[^t-2]**
 <tr><td>Nepal</td><td>28. September</td><td>1965 B</td><td>19. März</td><td>1967</td></tr>
 <tr><td>Neuseeland</td><td>10. September</td><td>1974 B</td><td>10. Oktober</td><td>1974</td></tr>
 <tr><td>Nicaragua</td><td>9. Januar</td><td>1990 B</td><td>8. Februar</td><td>1990</td></tr>
-<tr><td>Niederlande<sup>a</sup></td><td>17. Dezember</td><td>1985 B</td><td>16. Januar</td><td>1986</td></tr>
+<tr><td>Niederlande <sup>a</sup></td><td>17. Dezember</td><td>1985 B</td><td>16. Januar</td><td>1986</td></tr>
 <tr><td>Aruba</td><td>17. Dezember</td><td>1985</td><td>16. Januar</td><td>1986</td></tr>
 <tr><td>Curaçao</td><td>17. Dezember</td><td>1985</td><td>16. Januar</td><td>1986</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>17. Dezember</td><td>1985</td><td>16. Januar</td><td>1986</td></tr>
@@ -126,6 +126,7 @@ Geltungsbereich am 1. Oktober 2012**[^t-2]**
 <tr><td>Oman</td><td>31. Mai</td><td>1974 B</td><td>30. Juni</td><td>1974</td></tr>
 <tr><td>Österreich</td><td>12. Juni</td><td>1969</td><td>12. Juli</td><td>1969</td></tr>
 <tr><td>Pakistan</td><td>29. März</td><td>1976 B</td><td>28. April</td><td>1976</td></tr>
+<tr><td>Palästina</td><td>18. März</td><td>2019 B</td><td>17. April</td><td>2019</td></tr>
 <tr><td>Panama</td><td>28. August</td><td>1967</td><td>27. September</td><td>1967</td></tr>
 <tr><td>Paraguay</td><td>23. Dezember</td><td>1969 B</td><td>22. Januar</td><td>1970</td></tr>
 <tr><td>Peru</td><td>23. März</td><td>2007</td><td>22. April</td><td>2007</td></tr>
@@ -144,4 +145,4 @@ Geltungsbereich am 1. Oktober 2012**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1974 1281](https://fedlex.data.admin.ch/eli/oc/1974/1281_1281_1281), [1976 1465](https://fedlex.data.admin.ch/eli/oc/1976/1465_1465_1465), [1977 1411](https://fedlex.data.admin.ch/eli/oc/1977/1411_1411_1409), [1979 560](https://fedlex.data.admin.ch/eli/oc/1979/560_560_560), [1981 2064](https://fedlex.data.admin.ch/eli/oc/1981/2064_2064_2064), [1984 197](https://fedlex.data.admin.ch/eli/oc/1984/197_197_197), [1987 468](https://fedlex.data.admin.ch/eli/oc/1987/468_468_468), [1991 898](https://fedlex.data.admin.ch/eli/oc/1991/898_898_898), [2004 1379](https://fedlex.data.admin.ch/eli/oc/2004/169), [2007 1171](https://fedlex.data.admin.ch/eli/oc/2007/191), [2010 785](https://fedlex.data.admin.ch/eli/oc/2010/120)und [2012 5511](https://fedlex.data.admin.ch/eli/oc/2012/632). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: **1974** 1281; **1976** 1465; **1977** 1411; **1979** 560; **1981** 2064; **1984** 197; **1987** 468; **1991** 898; **2004** 1379; **2007** 1171; **2010** 785; **2012** 5511; **2024** 777. Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

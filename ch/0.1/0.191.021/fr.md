@@ -3,28 +3,28 @@ sr: "0.191.021"
 title: "Protocole de signature facultative du 24 avril 1963 à la Convention de Vienne sur les relations consulaires, concernant le règlement obligatoire des différends"
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/918_960_876"
 language: fr
-version: 2012-10-01
+version: 2024-12-11
 adopted: 1963-04-24
 in_force: 1967-03-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/918_960_876/20121001/fr/xml/fedlex-data-admin-ch-eli-cc-1968-918_960_876-20121001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/918_960_876/20121001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/918_960_876/20241211/fr/xml/fedlex-data-admin-ch-eli-cc-1968-918_960_876-20241211-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/918_960_876/20241211/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Protocole de signature facultative à la Convention de Vienne sur les relations consulaires, concernant le règlement obligatoire des différends
 
-RO **1968** 960
+RO **1968** 960; FF **1964** II 477
 
 Texte original
 
 Conclu à Vienne le 24 avril 1963 Approuvé par l’Assemblée fédérale le 18 décembre 1964[^t-1] Instrument de ratification déposé par la Suisse le 3 mai 1965 Entré en vigueur pour la Suisse le 19 mars 1967
 
-(Etat le 1<sup>er</sup> octobre 2012)
+(État le 11 décembre 2024)
 
 [^t-1]: [RO 1968 925](https://fedlex.data.admin.ch/eli/oc/1968/885_925_841)
 
-Les Etats parties au présent Protocole et à la Convention de Vienne sur les relations consulaires[^ingress-1], ci‑après dénommée «la Convention», qui a été adoptée par la Conférence des Nations Unies tenue à Vienne du 4 mars au 22 avril 1963,
+Les États parties au présent Protocole et à la Convention de Vienne sur les relations consulaires[^ingress-1], ci‑après dénommée «la Convention», qui a été adoptée par la Conférence des Nations Unies tenue à Vienne du 4 mars au 22 avril 1963,
 
 exprimant leur désir de recourir, pour ce qui les concerne, à la juridiction obligatoire de la Cour internationale de Justice pour la solution de tous différends touchant l’interprétation ou l’application de la Convention, à moins qu’un autre mode de règlement n’ait été accepté d’un commun accord par les parties dans un délai raisonnable.
 
@@ -48,11 +48,11 @@ Les parties peuvent convenir, dans un délai de deux mois après notification pa
 
 #### Art. IV
 
-Les Etats parties à la Convention, au Protocole de signature facultative concernant l’acquisition de la nationalité et au présent Protocole peuvent à tout moment déclarer étendre les dispositions du présent Protocole aux différends résultant de l’interprétation ou de l’application du Protocole de signature facultative concernant l’acquisition de la nationalité. Ces déclarations seront notifiées au Secrétaire général de l’Organisation des Nations Unies.
+Les États parties à la Convention, au Protocole de signature facultative concernant l’acquisition de la nationalité et au présent Protocole peuvent à tout moment déclarer étendre les dispositions du présent Protocole aux différends résultant de l’interprétation ou de l’application du Protocole de signature facultative concernant l’acquisition de la nationalité. Ces déclarations seront notifiées au Secrétaire général de l’Organisation des Nations Unies.
 
 #### Art. V
 
-Le présent Protocole sera ouvert à la signature de tous les Etats qui deviendront Parties à la Convention, de la manière suivante: jusqu’au 31 octobre 1963 au Ministère fédéral des Affaires étrangères de la République d’Autriche, et ensuite, jusqu’au 31 mars 1964, au siège de l’Organisation des Nations Unies à New York.
+Le présent Protocole sera ouvert à la signature de tous les États qui deviendront Parties à la Convention, de la manière suivante: jusqu’au 31 octobre 1963 au Ministère fédéral des Affaires étrangères de la République d’Autriche, et ensuite, jusqu’au 31 mars 1964, au siège de l’Organisation des Nations Unies à New York.
 
 #### Art. VI
 
@@ -60,17 +60,17 @@ Le présent Protocole sera ratifié. Les instruments de ratification seront dép
 
 #### Art. VII
 
-Le présent Protocole restera ouvert à l’adhésion de tous les Etats qui deviendront Parties à la Convention. Les instruments d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
+Le présent Protocole restera ouvert à l’adhésion de tous les États qui deviendront Parties à la Convention. Les instruments d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
 #### Art. VIII
 
 <sup>1.</sup> Le présent Protocole entrera en vigueur le même jour que la Convention ou, si cette seconde date est plus éloignée, le trentième jour suivant la date de dépôt du second instrument de ratification du Protocole ou d’adhésion à ce Protocole auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>2.</sup> Pour chaque Etat qui ratifiera le présent Protocole ou y adhérera après son entrée en vigueur conformément au par.1 du présent article, le Protocole entrera en vigueur le trentième jour après le dépôt par cet Etat de son instrument de ratification ou d’adhésion.
+<sup>2.</sup> Pour chaque État qui ratifiera le présent Protocole ou y adhérera après son entrée en vigueur conformément au par.1 du présent article, le Protocole entrera en vigueur le trentième jour après le dépôt par cet État de son instrument de ratification ou d’adhésion.
 
 #### Art. IX
 
-Le Secrétaire général de l’Organisation des Nations Unies notifiera à tous les Etats qui peuvent devenir Parties à la Convention:
+Le Secrétaire général de l’Organisation des Nations Unies notifiera à tous les États qui peuvent devenir Parties à la Convention:
 
 - a. Les signatures apposées au présent Protocole et le dépôt des instruments de ratification ou d’adhésion, conformément aux art. V, VI et VII;
 - b. Les déclarations faites conformément à lart. IV du présent Protocole;
@@ -78,14 +78,14 @@ Le Secrétaire général de l’Organisation des Nations Unies notifiera à tous
 
 #### Art. X
 
-L’original du présent Protocole, dont les textes anglais, chinois, espagnol, français et russe font également foi, sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en adressera des copies certifiées conformes à tous les Etats visés à l’art. V.
+L’original du présent Protocole, dont les textes anglais, chinois, espagnol, français et russe font également foi, sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en adressera des copies certifiées conformes à tous les États visés à l’art. V.
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés par leurs gouvernements respectifs, ont signé le présent Protocole. Fait à Vienne, le vingt‑quatre avril mil neuf cent soixante‑trois. (Suivent les signatures)
 
-Champ d’application le 1<sup>er</sup> octobre 2012**[^t-2]**
+Champ d’application le 11 décembre 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>7 septembre</td><td>1971</td><td>7 octobre</td><td>1971</td></tr>
 <tr><td>Australie</td><td>12 février</td><td>1973 A</td><td>14 mars</td><td>1973</td></tr>
 <tr><td>Autriche</td><td>12 juin</td><td>1969</td><td>12 juillet</td><td>1969</td></tr>
@@ -122,28 +122,27 @@ Champ d’application le 1<sup>er</sup> octobre 2012**[^t-2]**
 <tr><td>Nouvelle-Zélande</td><td>10 septembre</td><td>1974 A</td><td>10 octobre</td><td>1974</td></tr>
 <tr><td>Oman</td><td>31 mai</td><td>1974 A</td><td>30 juin</td><td>1974</td></tr>
 <tr><td>Pakistan</td><td>29 mars</td><td>1976 A</td><td>28 avril</td><td>1976</td></tr>
+<tr><td>Palestine</td><td>18 mars</td><td>2019 A</td><td>17 avril</td><td>2019</td></tr>
 <tr><td>Panama</td><td>28 août</td><td>1967</td><td>27 septembre</td><td>1967</td></tr>
 <tr><td>Paraguay</td><td>23 décembre</td><td>1969 A</td><td>22 janvier</td><td>1970</td></tr>
-<tr><td>Pays-Bas<sup>a</sup></td><td>17 décembre</td><td>1985 A</td><td>16 janvier</td><td>1986</td></tr>
-<tr><td>[tab] Antilles néerlandaises</td><td>17 décembre</td><td>1985</td><td>16 janvier</td><td>1986</td></tr>
-<tr><td>[tab] Aruba</td><td>17 décembre</td><td>1985</td><td>16 janvier</td><td>1986</td></tr>
-<tr><td>Curaçao<sup>a</sup></td><td>17 décembre</td><td>1985</td><td>16 janvier</td><td>1986</td></tr>
-<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)<sup>a</sup></td><td>17 décembre</td><td>1985</td><td>16 janvier</td><td>1986</td></tr>
-<tr><td>Sint Maarten<sup>a</sup></td><td>17 décembre</td><td>1985</td><td>16 janvier</td><td>1986</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>17 décembre</td><td>1985 A</td><td>16 janvier</td><td>1986</td></tr>
+<tr><td>Aruba</td><td>17 décembre</td><td>1985</td><td>16 janvier</td><td>1986</td></tr>
+<tr><td>Curaçao</td><td>17 décembre</td><td>1985</td><td>16 janvier</td><td>1986</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>17 décembre</td><td>1985</td><td>16 janvier</td><td>1986</td></tr>
+<tr><td>Sint Maarten</td><td>17 décembre</td><td>1985</td><td>16 janvier</td><td>1986</td></tr>
 <tr><td>Pérou</td><td>23 mars</td><td>2007</td><td>22 avril</td><td>2007</td></tr>
 <tr><td>Philippines</td><td>15 novembre</td><td>1965</td><td>19 mars</td><td>1967</td></tr>
 <tr><td>République dominicaine</td><td>4 mars</td><td>1964</td><td>19 mars</td><td>1967</td></tr>
 <tr><td>Roumanie</td><td>19 septembre</td><td>2007 A</td><td>19 octobre</td><td>2007</td></tr>
 <tr><td>Royaume-Uni</td><td>9 mai</td><td>1972</td><td>8 juin</td><td>1972</td></tr>
-<tr><td>[tab] Territoires sous la souveraineté territoriale du Royaume-Uni</td><td>9 mai</td><td>1972</td><td>8 juin</td><td>1972</td></tr>
+<tr><td>Territoires sous la souveraineté territoriale du Royaume-Uni</td><td>9 mai</td><td>1972</td><td>8 juin</td><td>1972</td></tr>
 <tr><td>Sénégal</td><td>29 avril</td><td>1966 A</td><td>19 mars</td><td>1967</td></tr>
 <tr><td>Seychelles</td><td>29 mai</td><td>1979 A</td><td>28 juin</td><td>1979</td></tr>
 <tr><td>Slovaquie</td><td>27 avril</td><td>1999 A</td><td>27 mai</td><td>1999</td></tr>
 <tr><td>Suède</td><td>19 mars</td><td>1974</td><td>18 avril</td><td>1974</td></tr>
 <tr><td>Suisse</td><td>3 mai</td><td>1965</td><td>19 mars</td><td>1967</td></tr>
 <tr><td>Suriname</td><td>11 septembre</td><td>1980 A</td><td>11 octobre</td><td>1980</td></tr>
+<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-<sup>a</sup> Pour le Royaume en Europe.
-
-[^t-2]: [RO 1974 1281](https://fedlex.data.admin.ch/eli/oc/1974/1281_1281_1281), [1976 1465](https://fedlex.data.admin.ch/eli/oc/1976/1465_1465_1465), [1977 1411](https://fedlex.data.admin.ch/eli/oc/1977/1411_1411_1409), [1979 560](https://fedlex.data.admin.ch/eli/oc/1979/560_560_560), [1981 2064](https://fedlex.data.admin.ch/eli/oc/1981/2064_2064_2064), [1984 197](https://fedlex.data.admin.ch/eli/oc/1984/197_197_197), [1987 468](https://fedlex.data.admin.ch/eli/oc/1987/468_468_468), [1991 898](https://fedlex.data.admin.ch/eli/oc/1991/898_898_898), [2004 1379](https://fedlex.data.admin.ch/eli/oc/2004/169), [2007 1171](https://fedlex.data.admin.ch/eli/oc/2007/191), [2010 785](https://fedlex.data.admin.ch/eli/oc/2010/120)et **2012** 5511. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1974 1281](https://fedlex.data.admin.ch/eli/oc/1974/1281_1281_1281); [1976 1465](https://fedlex.data.admin.ch/eli/oc/1976/1465_1465_1465); [1977 1411](https://fedlex.data.admin.ch/eli/oc/1977/1411_1411_1409); [1979 560](https://fedlex.data.admin.ch/eli/oc/1979/560_560_560); [1981 2064](https://fedlex.data.admin.ch/eli/oc/1981/2064_2064_2064); [1984 197](https://fedlex.data.admin.ch/eli/oc/1984/197_197_197); [1987 468](https://fedlex.data.admin.ch/eli/oc/1987/468_468_468); [1991 898](https://fedlex.data.admin.ch/eli/oc/1991/898_898_898); [2004 1379](https://fedlex.data.admin.ch/eli/oc/2004/169); [2007 1171](https://fedlex.data.admin.ch/eli/oc/2007/191); [2010 785](https://fedlex.data.admin.ch/eli/oc/2010/120); [2012 5511](https://fedlex.data.admin.ch/eli/oc/2012/632); [2024 777](https://fedlex.data.admin.ch/eli/oc/2024/777). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

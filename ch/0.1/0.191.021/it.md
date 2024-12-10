@@ -3,30 +3,26 @@ sr: "0.191.021"
 title: "Protocollo di firma facoltativa del 24 aprile 1963 alla Convenzione di Vienna sulle relazioni consolari, concernente il regolamento obbligatorio delle controversie"
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/918_960_876"
 language: it
-version: 2012-10-01
+version: 2024-12-11
 adopted: 1963-04-24
 in_force: 1967-03-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/918_960_876/20121001/it/xml/fedlex-data-admin-ch-eli-cc-1968-918_960_876-20121001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/918_960_876/20121001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/918_960_876/20241211/it/xml/fedlex-data-admin-ch-eli-cc-1968-918_960_876-20241211-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/918_960_876/20241211/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo di firma facoltativa alla Convenzione di Vienna sulle relazioni consolari, concernente il regolamento obbligatorio delle controversie
 
+RU **1968** 876; FF **1964** II 1849
+
 Traduzione
 
-Conchiuso a Vienna il 24 aprile 1963
+Conchiuso a Vienna il 24 aprile 1963 Approvato dall’Assemblea federale il 18 dicembre 1964[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 maggio 1965 Entrato in vigore per la Svizzera il 19 marzo 1967
 
-Approvato dall’Assemblea federale il 18 dicembre 1964[^t-1]
+(Stato 11 dicembre 2024)
 
-Istrumento di ratificazione depositato dalla Svizzera il 3 maggio 1965
-
-Entrato in vigore per la Svizzera il 19 marzo 1967
-
-(Stato 1° ottobre 2012)
-
-[^t-1]: RU **1968** 876; FF **1964** II 1849 RU **1968** 841
+[^t-1]: [RU 1968 841](https://fedlex.data.admin.ch/eli/oc/1968/885_925_841)
 
 Gli Stati Parti al presente Protocollo e alla Convenzione di Vienna sulle relazioni consolari[^ingress-1],
 
@@ -86,7 +82,7 @@ L’originale del presente Protocollo, i cui testi inglese, cinese, spagnolo, fr
 
 *In fede di che,* i plenipotenziari sottoscritti, a ciò debitamente autorizzati dai loro governi, hanno firmato il presente Protocollo. Fatto a Vienna, il ventiquattro aprile millenovecentosessantatre. (Seguono le firme)
 
-Campo d’applicazione il 1° ottobre 2012**[^t-2]**
+Campo d’applicazione l’11 dicembre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -131,6 +127,7 @@ Campo d’applicazione il 1° ottobre 2012**[^t-2]**
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>17 dicembre</td><td>1985</td><td>16 gennaio</td><td>1986</td></tr>
 <tr><td>Sint Maarten</td><td>17 dicembre</td><td>1985</td><td>16 gennaio</td><td>1986</td></tr>
 <tr><td>Pakistan</td><td>29 marzo</td><td>1976 A</td><td>28 aprile</td><td>1976</td></tr>
+<tr><td>Palestina</td><td>18 marzo</td><td>2019 A</td><td>17 aprile</td><td>2019</td></tr>
 <tr><td>Panama</td><td>28 agosto</td><td>1967</td><td>27 settembre</td><td>1967</td></tr>
 <tr><td>Paraguay</td><td>23 dicembre</td><td>1969 A</td><td>22 gennaio</td><td>1970</td></tr>
 <tr><td>Perù</td><td>23 marzo</td><td>2007</td><td>22 aprile</td><td>2007</td></tr>
@@ -148,4 +145,4 @@ Campo d’applicazione il 1° ottobre 2012**[^t-2]**
 <tr><td colspan="5"><sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1974 1281](https://fedlex.data.admin.ch/eli/oc/1974/1281_1281_1281), [1976 1465](https://fedlex.data.admin.ch/eli/oc/1976/1465_1465_1465), [1977 1409](https://fedlex.data.admin.ch/eli/oc/1977/1411_1411_1409), [1979 560](https://fedlex.data.admin.ch/eli/oc/1979/560_560_560), [1981 2064](https://fedlex.data.admin.ch/eli/oc/1981/2064_2064_2064), [1984 197](https://fedlex.data.admin.ch/eli/oc/1984/197_197_197), [1987 468](https://fedlex.data.admin.ch/eli/oc/1987/468_468_468), [1991 898](https://fedlex.data.admin.ch/eli/oc/1991/898_898_898), [2004 1379](https://fedlex.data.admin.ch/eli/oc/2004/169), [2007 1171](https://fedlex.data.admin.ch/eli/oc/2007/191), [2010 785](https://fedlex.data.admin.ch/eli/oc/2010/120)e [2012 5511](https://fedlex.data.admin.ch/eli/oc/2012/632). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: RU **1974** 1281; **1976** 1465; **1977** 1409; **1979** 560; **1981** 2064; **1984** 197; **1987** 468; **1991** 898; **2004** 1379; **2007** 1171; **2010** 785; **2012** 5511; **2024** 777. Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
