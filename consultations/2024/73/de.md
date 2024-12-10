@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel (Telearbeit)"
 document: Vernehmlassungsvorlage
 language: de

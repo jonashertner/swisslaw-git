@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Legge federale sul lavoro nell’industria, nell’artigianato e nel commercio (Telelavoro)"
 document: Progetto posto in consultazione
 language: it
