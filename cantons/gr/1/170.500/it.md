@@ -5,11 +5,12 @@ title: "Ordinanza sull'informatica nell'Amministrazione cantonale"
 short: OInf
 language: it
 version: 2024-12-01
+corrected: 2024-12-11
 version_adopted: 2024-11-26
 adopted: 2024-11-26
 in_force: 2024-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3500/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3497/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -128,7 +129,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'Ufficio d'informatica è il fornitore centrale di servizi informatici e gestore di servizi informatici di base dell'Amministrazione cantonale.
 
-<sup>2</sup> Fatto salvo l'articolo 5 capoverso 1 lettera e e coinvolgendo i servizi interessati, l'Ufficio d'informatica emana istruzioni operative in materia di informatica.
+<sup>2</sup> Fatto salvo l'articolo 5 capoverso 1 lettera d e coinvolgendo i servizi interessati, l'Ufficio d'informatica emana istruzioni operative in materia di informatica.
 
 <sup>3</sup> L'Amministrazione cantonale dispone inoltre di un numero limitato di fornitori di servizi informatici specifici che sono in grado di fornire prestazioni definite. Tra questi rientrano:
 

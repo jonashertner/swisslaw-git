@@ -5,11 +5,12 @@ title: Verordnung über die Informatik in der kantonalen Verwaltung
 short: InfV
 language: de
 version: 2024-12-01
+corrected: 2024-12-11
 version_adopted: 2024-11-26
 adopted: 2024-11-26
 in_force: 2024-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3500/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3497/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -128,7 +129,7 @@ von der Regierung erlassen am 26. November 2024
 
 <sup>1</sup> Das Amt für Informatik ist der zentrale Informatikdienstleister und Betreiber von Informatikbasisdiensten der kantonalen Verwaltung.
 
-<sup>2</sup> Das Amt für Informatik erlässt unter Vorbehalt von Artikel 5 Absatz 1 Litera e und unter Einbezug der betroffenen Stellen operative Informatikweisungen.
+<sup>2</sup> Das Amt für Informatik erlässt unter Vorbehalt von Artikel 5 Absatz 1 Litera d und unter Einbezug der betroffenen Stellen operative Informatikweisungen.
 
 <sup>3</sup> Die kantonale Verwaltung verfügt zudem über eine beschränkte Anzahl spezifischer Informatikdienstleistender, welche definierte Leistungen erbringen können. Dies sind:
 

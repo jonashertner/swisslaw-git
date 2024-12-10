@@ -5,11 +5,12 @@ title: "Ordinaziun davart l'informatica en l'administraziun chantunala"
 short: OInf
 language: rm
 version: 2024-12-01
+corrected: 2024-12-11
 version_adopted: 2024-11-26
 adopted: 2024-11-26
 in_force: 2024-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3500/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3497/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -128,7 +129,7 @@ relaschada da la Regenza ils 26 da november 2024
 
 <sup>1</sup> L'Uffizi d'informatica è il furnitur central da servetschs d'informatica ed il gestiunari da servetschs d'informatica da basa da l'administraziun chantunala.
 
-<sup>2</sup> Cun resalva da l'artitgel 5 alinea 1 litera e relascha l'Uffizi d'informatica directivas d'informatica operativas, quai cun la participaziun dals posts pertutgads.
+<sup>2</sup> Cun resalva da l'artitgel 5 alinea 1 litera d relascha l'Uffizi d'informatica directivas d'informatica operativas, quai cun la participaziun dals posts pertutgads.
 
 <sup>3</sup> L'administraziun chantunala dispona plinavant d'in dumber limità da furniturs da servetschs d'informatica specifics che pon furnir prestaziuns definidas. Quai èn:
 
