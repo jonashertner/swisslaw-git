@@ -3,11 +3,11 @@ sr: "0.107.3"
 title: Fakultativprotokoll vom 19. Dezember 2011 zum Übereinkommen über die Rechte des Kindes betreffend ein Mitteilungsverfahren
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/330"
 language: de
-version: 2022-09-23
+version: 2024-12-11
 adopted: 2011-12-19
 in_force: 2017-07-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20220923/de/xml/fedlex-data-admin-ch-eli-cc-2017-330-20220923-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20220923/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20241211/de/xml/fedlex-data-admin-ch-eli-cc-2017-330-20241211-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20241211/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Beitrittsurkunde von der Schweiz hinterlegt am 24. April 2017
 
 In Kraft getreten für die Schweiz am 24. Juli 2017
 
-(Stand am 23. September 2022)
+(Stand am 11. Dezember 2024)
 
 [^t-1]: Zwischen Deutschland, Liechtenstein, Österreich und der Schweiz abgestimmte deutsche Übersetzung.
 [^t-2]: [AS 2017 3237](https://fedlex.data.admin.ch/eli/oc/2017/329)
@@ -55,10 +55,10 @@ in der Erwägung, dass es zur Verstärkung und Ergänzung dieser nationalen Mech
 
 haben Folgendes vereinbart:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-3]: [SR 0.107.2](https://fedlex.data.admin.ch/eli/cc/2006/824)
-[^ingress-4]: [SR 0.107.1](https://fedlex.data.admin.ch/eli/cc/2002/542)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
+[^ingress-3]: [SR 0.107.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30)
+[^ingress-4]: [SR 0.107.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/29)
 
 ## Teil I Allgemeine Bestimmungen
 
@@ -309,7 +309,7 @@ Der Generalsekretär unterrichtet alle Staaten von:
 
 *(Es folgen die Unterschriften)*
 
-Geltungsbereich am 23. September 2022[^t-3]
+Geltungsbereich am 11. Dezember 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -334,11 +334,14 @@ Geltungsbereich am 23. September 2022[^t-3]
 <tr><td>Georgien</td><td>19. September</td><td>2016 B</td><td>19. Dezember</td><td>2016</td></tr>
 <tr><td>Irland</td><td>24. September</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Italien\*</td><td>4. Februar</td><td>2016</td><td>4. Mai</td><td>2016</td></tr>
+<tr><td>Kasachstan</td><td>7. Februar</td><td>2024</td><td>7. Mai</td><td>2024</td></tr>
 <tr><td>Kroatien</td><td>18. April</td><td>2017</td><td>18. Juli</td><td>2017</td></tr>
 <tr><td>Liechtenstein\*</td><td>25. Januar</td><td>2017</td><td>25. April</td><td>2017</td></tr>
+<tr><td>Litauen</td><td>3. Oktober</td><td>2022</td><td>3. Januar</td><td>2023</td></tr>
 <tr><td>Luxemburg</td><td>12. Februar</td><td>2016</td><td>12. Mai</td><td>2016</td></tr>
 <tr><td>Malediven</td><td>27. September</td><td>2019</td><td>27. Dezember</td><td>2019</td></tr>
 <tr><td>Marshallinseln</td><td>29. Januar</td><td>2019 B</td><td>29. April</td><td>2019</td></tr>
+<tr><td>Moldau</td><td>22. September</td><td>2023 B</td><td>22. Dezember</td><td>2023</td></tr>
 <tr><td>Monaco\*</td><td>24. September</td><td>2014 B</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Mongolei</td><td>28. September</td><td>2015</td><td>28. Dezember</td><td>2015</td></tr>
 <tr><td>Montenegro</td><td>24. September</td><td>2013</td><td>14. April</td><td>2014</td></tr>
@@ -362,10 +365,10 @@ Geltungsbereich am 23. September 2022[^t-3]
 <tr><td>Ukraine\*</td><td>2. September</td><td>2016</td><td>2. Dezember</td><td>2016</td></tr>
 <tr><td>Uruguay</td><td>23. Februar</td><td>2015</td><td>23. Mai</td><td>2015</td></tr>
 <tr><td>Zypern\*\*</td><td>11. September</td><td>2017</td><td>11. Oktober</td><td>2017</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org)/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Fakultativprotokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Fakultativprotokoll gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org)/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Fakultativprotokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Fakultativprotokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-3]: [AS 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330); [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374); [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196); [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647); [2022 538](https://fedlex.data.admin.ch/eli/oc/2022/538). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-3]: [AS 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330); [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374); [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196); [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647); [2022 538](https://fedlex.data.admin.ch/eli/oc/2022/538); [2024 776](https://fedlex.data.admin.ch/eli/oc/2024/776). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 

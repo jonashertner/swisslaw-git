@@ -3,11 +3,11 @@ sr: "0.107.3"
 title: "Protocole facultatif du 19 décembre 2011 à la Convention relative aux droits de l'enfant établissant une procédure de présentation de communications"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/330"
 language: fr
-version: 2022-09-23
+version: 2024-12-11
 adopted: 2011-12-19
 in_force: 2017-07-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20220923/fr/xml/fedlex-data-admin-ch-eli-cc-2017-330-20220923-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20220923/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/330/20241211/fr/xml/fedlex-data-admin-ch-eli-cc-2017-330-20241211-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/330/20241211/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 24 avril 2017
 
 Entré en vigueur pour la Suisse le 24 juillet 2017
 
-(État le 23 septembre 2022)
+(État le 11 décembre 2024)
 
 [^t-1]: [RO 2017 3237](https://fedlex.data.admin.ch/eli/oc/2017/329)
 
@@ -54,10 +54,10 @@ considérant que, pour renforcer et compléter ces mécanismes nationaux et amé
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-3]: [RS 0.107.2](https://fedlex.data.admin.ch/eli/cc/2006/824)
-[^ingress-4]: [RS 0.107.1](https://fedlex.data.admin.ch/eli/cc/2002/542)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.107](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/28)
+[^ingress-3]: [RS 0.107.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/30)
+[^ingress-4]: [RS 0.107.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/29)
 
 ## Première Partie Dispositions générales
 
@@ -308,7 +308,7 @@ Le Secrétaire général informe tous les États:
 
 *(Suivent les signatures)*
 
-Champ d’application le 23 septembre 2022[^t-2]
+Champ d’application le 11 décembre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -337,9 +337,12 @@ Champ d’application le 23 septembre 2022[^t-2]
 <tr><td>Îles Marshall</td><td>29 janvier</td><td>2019 A</td><td>29 avril</td><td>2019</td></tr>
 <tr><td>Irlande</td><td>24 septembre</td><td>2014</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Italie\*</td><td>4 février</td><td>2016</td><td>4 mai</td><td>2016</td></tr>
+<tr><td>Kazakhstan</td><td>7 février</td><td>2024</td><td>7 mai</td><td>2024</td></tr>
 <tr><td>Liechtenstein\*</td><td>25 janvier</td><td>2017</td><td>25 avril</td><td>2017</td></tr>
+<tr><td>Lituanie</td><td>3 octobre</td><td>2022</td><td>3 janvier</td><td>2023</td></tr>
 <tr><td>Luxembourg</td><td>12 février</td><td>2016</td><td>12 mai</td><td>2016</td></tr>
 <tr><td>Maldives</td><td>27 septembre</td><td>2019</td><td>27 décembre</td><td>2019</td></tr>
+<tr><td>Moldova</td><td>22 septembre</td><td>2023 A</td><td>22 décembre</td><td>2023</td></tr>
 <tr><td>Monaco\*</td><td>24 septembre</td><td>2014 A</td><td>24 décembre</td><td>2014</td></tr>
 <tr><td>Mongolie</td><td>28 septembre</td><td>2015</td><td>28 décembre</td><td>2015</td></tr>
 <tr><td>Monténégro</td><td>24 septembre</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
@@ -347,8 +350,8 @@ Champ d’application le 23 septembre 2022[^t-2]
 <tr><td>Palestine</td><td>10 avril</td><td>2019 A</td><td>10 juillet</td><td>2019</td></tr>
 <tr><td>Panama</td><td>16 février</td><td>2017 A</td><td>16 mai</td><td>2017</td></tr>
 <tr><td>Paraguay</td><td>20 janvier</td><td>2017</td><td>20 avril</td><td>2017</td></tr>
-<tr><td>Portugal\*</td><td>24 septembre</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
 <tr><td>Pérou</td><td>6 janvier</td><td>2016</td><td>6 avril</td><td>2016</td></tr>
+<tr><td>Portugal\*</td><td>24 septembre</td><td>2013</td><td>14 avril</td><td>2014</td></tr>
 <tr><td>République tchèque\*</td><td>2 décembre</td><td>2015</td><td>2 mars</td><td>2016</td></tr>
 <tr><td>Saint-Marin\*</td><td>26 septembre</td><td>2018 A</td><td>26 décembre</td><td>2018</td></tr>
 <tr><td>Samoa</td><td>29 avril</td><td>2016 A</td><td>29 juillet</td><td>2016</td></tr>
@@ -361,10 +364,10 @@ Champ d’application le 23 septembre 2022[^t-2]
 <tr><td>Turquie\*</td><td>26 décembre</td><td>2017</td><td>26 mars</td><td>2018</td></tr>
 <tr><td>Ukraine\*</td><td>2 septembre</td><td>2016</td><td>2 décembre</td><td>2016</td></tr>
 <tr><td>Uruguay</td><td>23 février</td><td>2015</td><td>23 mai</td><td>2015</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org/](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole facultatif ne s’applique pas au Groenland et aux îles Féroé. <sup>b</sup> Le Protocole facultatif ne s’applique pas au Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole facultatif ne s’applique pas au Groenland et aux îles Féroé. <sup>b</sup> Le Protocole facultatif ne s’applique pas au Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330); [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374); [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196); [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647); [2022 538](https://fedlex.data.admin.ch/eli/oc/2022/538). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2017 3239](https://fedlex.data.admin.ch/eli/oc/2017/330); [2018 2547](https://fedlex.data.admin.ch/eli/oc/2018/374); [2019 1063](https://fedlex.data.admin.ch/eli/oc/2019/196); [2020 3601](https://fedlex.data.admin.ch/eli/oc/2020/647); [2022 538](https://fedlex.data.admin.ch/eli/oc/2022/538); [2024 776](https://fedlex.data.admin.ch/eli/oc/2024/776). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclaration
 
