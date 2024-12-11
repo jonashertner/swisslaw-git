@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: fr
-version: 2024-10-01
+version: 2024-12-12
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20241001-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241212/fr/xml/fedlex-data-admin-ch-eli-cc-2009-630-20241212-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20241212/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Strasbourg le 9 septembre 1996 Approuvée par l’Assemblée fédérale le 19 décembre 1997[^t-1] Instrument de ratification déposé par la Suisse le 16 juillet 1998 Entrée en vigueur pour la Suisse le 1<sup>er</sup> novembre 2009
 
-(État le 1<sup>er</sup> octobre 2024)
+(État le 12 décembre 2024)
 
 [^t-1]: [RO 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -38,7 +38,7 @@ exprimant le souhait que d’autres États dont les voies de navigation intérie
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.631.253.224.1](https://fedlex.data.admin.ch/eli/cc/1959/1101_1139_1135)
+[^ingress-1]: [RS 0.631.253.224.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2194)
 
 ## Dispositions générales
 
@@ -374,7 +374,7 @@ Annexe 2[^t-3]
 
 ## Règlement d’application
 
-[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), les Am. du 21 juin 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) et du 27 juin 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)).
+[^t-3]: Mise à jour par les Am. du 8 juin 2010 ([RO 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), les Am. adoptés par les Conférences des Parties contractantes entre 2011 et 2022 ([RO 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), les Am. du 21 juin 2023 ([RO 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), du 27 juin 2024 ([RO 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)) et du 12 déc. 2024, en vigueur depuis le 12 déc. 2024 ([RO 2025 38](https://fedlex.data.admin.ch/eli/oc/2025/38)).
 
 <table>
 <tr><td>Partie A</td><td>Collecte, dépôt et réception des déchets huileux et graisseux survenant lors de l’exploitation du bâtiment.</td></tr>
@@ -578,7 +578,7 @@ Les institutions nationales communiquent au secrétariat de l’instance interna
 
 <sup>(1)</sup> La péréquation financière visée aux art. 4.02 et 4.03 ci-dessus est déterminée comme suit pour chaque institution nationale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241001/fr/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241212/fr/xml/image/image1.png)</sub>
 
 où:
 
@@ -660,7 +660,7 @@ La Partie B s’applique sans préjudice:
 
 Les bâtiments pour lesquels il peut être justifié par écrit qu’ils ont dégazé conformément aux prescriptions hors champ d’application de la CDNI sont réputés être des bateaux dégazés au sens du présent règlement dès lors que les valeurs de l’Appendice III*a* sont respectées. La Conférence des Parties Contractantes désigne, outre la directive 94/63/CE et l’ADN, les prescriptions réputées équivalentes en ce qui concerne les dispositions relatives au dégazage.
 
-[^annexu1-lvlu1-chapV-504-1]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
+[^annexu1-lvlu1-chapV-504-1]: [RS 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
 
 ### Chapitre VI Obligations à charge des conducteurs
 
@@ -692,7 +692,7 @@ La Conférence des Parties Contractantes examine cette proposition et complète 
 
 <sup>(5)</sup> Par dérogation à l’interdiction visée au par. 1, des vapeurs peuvent être libérées en cas de besoin lors d’un séjour imprévu au chantier naval ou d’une réparation imprévue sur place par un chantier naval ou une autre société spécialisée avec impossibilité d’évacuer les vapeurs dans une station de réception. À cet égard doivent être observées les dispositions de l’Appendice III*a*, A. 4 et de la sous-section 7.2.3.7 ADN[^annexu1-lvlu1-chapVI-601-1].
 
-[^annexu1-lvlu1-chapVI-601-1]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
+[^annexu1-lvlu1-chapVI-601-1]: [RS 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
 
 #### Art. 6.02
 
@@ -762,7 +762,7 @@ Les ch. 1 et 4 ne s’appliquent pas aux bateaux uniquement utilisés pour:
 - a) la livraison de carburants, d’eau potable et d’avitaillements de bord à des navires de mer et bateaux de la navigation intérieure (bateaux avitailleurs);
 - b) la collecte de déchets huileux et graisseux provenant de navires de mer et bateaux de la navigation intérieure;
 - c) le transport de gaz liquéfiés (ADN, Type G);
-- d) le transport de soufre brut liquide (à 180 °C), de ciment, de cendres volantes et de matières comparables qui sont transportées en vrac ou pouvant être pompées, lorsqu’un système approprié exclusivement pour la catégorie de cargaison concernée est utilisé pour le chargement, le déchargement et le stockage à bord;
+- d) le transport de soufre brut liquide, de ciment, de cendres volantes et de matières comparables qui sont transportées en vrac ou pouvant être pompées, lorsqu’un système approprié exclusivement pour la catégorie de cargaison concernée est utilisé pour le chargement, le déchargement et le stockage à bord;
 - e) le transport de sable, de graviers et/ou de produits de dragage depuis le lieu d’extraction vers le site de déchargement.
 
 <sup>(8)</sup> Les art. 1 et 4 ne sont pas non plus applicables au transport lorsqu’il s’agit d’un déchargement dans un navire de mer. Le conducteur est dans l’obligation de pouvoir justifier un tel déchargement sur la base des documents de transport concernés qu’il doit présenter sur demande aux autorités de surveillance.

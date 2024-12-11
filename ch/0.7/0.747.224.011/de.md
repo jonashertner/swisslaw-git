@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: de
-version: 2024-10-01
+version: 2024-12-12
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20241001-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241212/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20241212-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20241212/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Strassburg am 9. September 1996 Von der Bundesversammlung genehmigt am 19. Dezember 1997[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 1998 In Kraft getreten für die Schweiz am 1. November 2009
 
-(Stand am 1. Oktober 2024)
+(Stand am 12. Dezember 2024)
 
 [^t-1]: [AS 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -38,7 +38,7 @@ in dem Wunsch, dass weitere Staaten, deren Binnenwasserstrassen mit denen der Ve
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.631.253.224.1](https://fedlex.data.admin.ch/eli/cc/1959/1101_1139_1135)
+[^ingress-1]: [SR 0.631.253.224.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2194)
 
 ## Allgemeine Bestimmungen
 
@@ -373,7 +373,7 @@ Anlage 2[^t-3]
 
 ## Anwendungsbestimmung
 
-[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss Beschluss vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) und Beschluss vom 27. Juni 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)).
+[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss den Beschlüssen vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)), vom 27. Juni 2024 ([AS 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)) und vom 12. Dez. 2024, in Kraft seit 12. Dez. 2024 (AS **202****5** 38).
 
 <table>
 <tr><td>Teil A</td><td>Sammlung, Abgabe und Annahme von öl- und fetthaltigen Schiffsbetriebsabfällen</td></tr>
@@ -577,7 +577,7 @@ Die innerstaatlichen Institutionen melden dem Sekretariat der Internationalen Au
 
 <sup>(1)</sup> Der Finanzausgleich nach den Artikeln 4.02 und 4.03 wird für jede innerstaatliche Institution wie folgt ermittelt:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241001/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241212/de/xml/image/image1.png)</sub>
 
 Darin bedeutet:
 
@@ -659,7 +659,7 @@ Teil B findet unbeschadet:
 
 Fahrzeuge, für die schriftlich nachgewiesen werden kann, dass sie ausserhalb des Geltungsbereichs des CDNI vorschriftsgemäss entgast haben, gelten als entgaste Schiffe im Sinne dieser Verordnung, sofern die Werte des Anhangs III*a* eingehalten werden. Die Konferenz der Vertragsparteien benennt neben der Richtlinie 94/63/EG und dem ADN die Vorschriften, die sie hinsichtlich der Entgasungsbestimmungen als gleichwertig anerkennt.
 
-[^annexu1-lvlu1-chapV-504-1]: [SR 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
+[^annexu1-lvlu1-chapV-504-1]: [SR 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
 
 ### Kapitel VI Verpflichtungen des Schiffsführers
 
@@ -691,7 +691,7 @@ Die Konferenz der Vertragsparteien prüft diesen Vorschlag und nimmt gegebenenfa
 
 <sup>(5)</sup> Abweichend vom Verbot nach Absatz 1 dürfen Dämpfe freigesetzt werden, wenn dies durch einen unerwarteten Werftaufenthalt oder eine unerwartete Vor-Ort-Reparatur durch eine Werft oder eine andere Fachfirma erforderlich wird und die Dämpfe nicht einer Annahmestelle zugeführt werden können. Hierbei sind die Bestimmungen des Anhangs III*a* A 4 und des Unterabschnitts 7.2.3.7 des ADN[^annexu1-lvlu1-chapVI-601-1] zu beachten.
 
-[^annexu1-lvlu1-chapVI-601-1]: [SR 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
+[^annexu1-lvlu1-chapVI-601-1]: [SR 0.747.208](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3024)
 
 #### Art. 6.02
 
@@ -761,7 +761,7 @@ Die Absätze 1 und 4 finden keine Anwendung für Schiffe, die ausschliesslich ei
 - a) die Lieferung von Treibstoffen, Trinkwasser und Bordvorräten an See- und an Binnenschiffe (Bevorratungsschiffe);
 - b) die Sammlung öl- und fetthaltiger Abfälle der See- und Binnenschiffe;
 - c) den Transport von verflüssigten Gasen (ADN Typ G);
-- d) den Transport von flüssigem Schwefel (bei 180 °C), Zementpulver, Flugasche und vergleichbaren Gütern, die als Schüttgut oder pumpbare Ladung befördert werden, wobei von einem ausschliesslich für die betroffene Güterkategorie geeigneten System für Beladung, Entladung und Lagerung an Bord Gebrauch gemacht wird;
+- d) den Transport von flüssigem Schwefel, Zementpulver, Flugasche und vergleichbaren Gütern, die als Schüttgut oder pumpbare Ladung befördert werden, wobei von einem ausschließlich für die betroffene Güterkategorie geeigneten System für Beladung, Entladung und Lagerung an Bord Gebrauch gemacht wird;
 - e) den Transport von Sand, Kies und/oder Baggergut von der Baggerstelle zur Entladestelle.
 
 <sup>(8)</sup> Die Absätze 1 und 4 finden auch keine Anwendung auf Transporte, bei denen die Entladung in ein Seeschiff erfolgt. Der Schiffsführer hat diese Entladung anhand der entsprechenden Beförderungspapiere nachzuweisen und die Papiere auf Verlangen den Aufsichtsbehörden vorzuzeigen.
