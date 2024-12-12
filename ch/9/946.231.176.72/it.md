@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-10-17
+version: 2024-12-13
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241017/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241017-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241017/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241213/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241213-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 17 ottobre 2024)
+del 4 marzo 2022 (Stato 13 dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -72,12 +72,12 @@ Nella presente ordinanza si intende per:
 
 - n.[^1-6] *settore minerario:* settore che comprende le attività di localizzazione, estrazione, gestione e trasformazione di materiali nel settore minerario, inclusa l’estrazione di pietre e minerali non destinati alla produzione di energia.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^1-3]: Introdotta dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^1-4]: Introdotta dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^1-5]: Introdotta dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^1-6]: Introdotta dal n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^1-3]: Introdotta dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^1-4]: Introdotta dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^1-5]: Introdotta dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^1-6]: Introdotta dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 ## Sezione 2: Restrizioni commerciali
 
@@ -85,7 +85,7 @@ Nella presente ordinanza si intende per:
 
 [^2-1]
 
-[^2-1]: Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^2-1]: Abrogato dalla cifra I dell’O del 23 nov. 2022, con effetto dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 2a
 
@@ -121,22 +121,22 @@ D’intesa con i servizi competenti del Dipartimento federale degli affari ester
 
 - b. per le attrezzature di sminamento e il materiale da impiegare in operazioni di sminamento esclusivamente destinati a fini umanitari.[^2a-10]
 
-[^2a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^2a-2]: Con effetto fino al 22 nov. 2026 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)n. III).
-[^2a-3]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 al 28 mar. 2027 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^2a-4]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^2a-5]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^2a-6]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^2a-2]: Con effetto fino al 22 nov. 2026 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)cifra III).
+[^2a-3]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 al 28 mar. 2027 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^2a-4]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^2a-5]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^2a-6]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^2a-7]: [RS 0.515.08](https://fedlex.data.admin.ch/eli/cc/1998/335_335_335)
-[^2a-8]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^2a-9]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^2a-10]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^2a-8]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^2a-9]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^2a-10]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 3
 
 [^3-1]
 
-[^3-1]: Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^3-1]: Abrogato dalla cifra I dell’O del 23 nov. 2022, con effetto dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 4
 
@@ -168,13 +168,13 @@ La vendita diretta o indiretta, la cessione in licenza o il trasferimento in alt
 <sup>3</sup> La SECO nega l’autorizzazione per i servizi di cui al capoverso 2 lettera b se i servizi sono in parte o interamente destinati a fini militari o a destinatari finali militari.[^4-8]
 
 [^4-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^4-2]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 [^4-3]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^4-4]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^4-4]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 [^4-5]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^4-6]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^4-7]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^4-8]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^4-7]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^4-8]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 5
 
@@ -205,12 +205,12 @@ La vendita diretta o indiretta, la cessione in licenza o il trasferimento in alt
 
 <sup>3</sup> La SECO nega l’autorizzazione per i beni e i servizi di cui ai capoversi 1 lettera b e 2 lettera b se sono in parte o interamente destinati a fini militari o a destinatari finali militari.[^5-6]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^5-2]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00, la lett. b con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-2]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00, la lett. b con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^5-3]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^5-4]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^5-5]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^5-6]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^5-5]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^5-6]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 #### Art. 6
 
@@ -263,21 +263,21 @@ La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motiv
 <sup>4</sup> L’obbligo di autorizzazione per i beni utilizzabili a fini civili e militari di cui all’articolo 3 OBDI[^6-15] si applica anche in caso di deroghe secondo i capoversi 1 e 2.[^6-16]
 
 [^6-1]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^6-3]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^6-4]: Abrogata dal n. I dell’O del 31 ago. 2022, con effetto dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^6-4]: Abrogata dalla cifra I dell’O del 31 ago. 2022, con effetto dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^6-5]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^6-6]: Introdotto dal n. I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^6-7]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^6-8]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^6-9]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^6-10]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^6-11]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^6-12]: Introdotta dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^6-13]: Introdotto dal n. I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^6-14]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^6-6]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^6-7]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^6-8]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^6-9]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^6-10]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^6-11]: Introdotta dalla cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^6-12]: Introdotta dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^6-13]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^6-14]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^6-15]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^6-16]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^6-16]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 #### Art. 7
 
@@ -285,7 +285,7 @@ La SECO nega l’autorizzazione di deroghe secondo il capoverso 2 se vi è motiv
 
 Salvo disposizioni contrarie, la procedura di autorizzazione secondo gli articoli 2*a* e 4–6 è retta dalle disposizioni dell’OBDI[^7-2].
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 [^7-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 
 #### Art. 8
@@ -294,7 +294,7 @@ Salvo disposizioni contrarie, la procedura di autorizzazione secondo gli articol
 
 Le autorizzazioni secondo gli articoli 2*a* e 4–6 sono sospese o revocate se dopo la loro concessione le circostanze sono cambiate in modo tale che le condizioni per la loro concessione non sono più soddisfatte.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 9
 
@@ -338,16 +338,16 @@ La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1, 4 e 5:
 
 <sup>7</sup> Il divieto di cui al capoverso 4 non si applica allo scambio di informazioni volto alla definizione di norme tecniche in sede di Organizzazione dell’aviazione civile internazionale.[^9-10]
 
-[^9-1]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9-2]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^9-4]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9-5]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^9-6]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^9-7]: Introdotto dal n. I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^9-8]: Introdotto dal n. I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^9-9]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^9-10]: Introdotto dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^9-1]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9-2]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^9-4]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^9-5]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^9-6]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^9-7]: Introdotto dalla cifra I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^9-8]: Introdotto dalla cifra I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^9-9]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^9-10]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 9a
 
@@ -380,11 +380,11 @@ La vendita diretta o indiretta, la cessione in licenza o il trasferimento in alt
 
 <sup>5</sup> La SECO nega l’autorizzazione per i beni e i servizi di cui ai capoversi 1 lettera b e 2 lettera b se essi sono in parte o interamente destinati a fini militari o a destinatari finali militari.[^9a-7]
 
-[^9a-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^9a-2]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^9a-3]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^9a-4]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9a-5]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9a-5]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^9a-6]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^9a-7]: In vigore fino al 28 feb. 2026 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
@@ -430,16 +430,16 @@ La SECO può autorizzare deroghe al divieto di cui al capoverso 1<sup>bis</sup> 
 
 <sup>3</sup> La SECO nega l’autorizzazione per i beni e i servizi di cui ai capoversi 1 lettera b, 1<sup>bis</sup> lettera b e 2 lettera b se sono in parte o interamente destinati a fini militari o a destinatari finali militari.[^9b-10]
 
-[^9b-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9b-2]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 fino al 26 apr. 2026 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-1]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^9b-2]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 fino al 26 apr. 2026 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^9b-3]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-4]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-4]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^9b-5]: In vigore fino al 26 apr. 2026 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^9b-6]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-6]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 [^9b-7]: Con effetto fino al 15 ago. 2027 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-8]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-9]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^9b-10]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-8]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-9]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^9b-10]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 10
 
@@ -455,10 +455,10 @@ La SECO può autorizzare deroghe al divieto di cui al capoverso 1<sup>bis</sup> 
 
 <sup>4</sup> In casi urgenti debitamente motivati, la vendita, la fornitura, l’esportazione o il transito di beni e tecnologie di cui all’allegato 4 possono avvenire senza autorizzazione preventiva, a condizione che l’esportatore informi la SECO entro cinque giorni lavorativi dalla vendita, dalla fornitura, dall’esportazione o dal transito e ne spieghi i motivi.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^10-3]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^10-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^10-3]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 10a
 
@@ -468,7 +468,7 @@ La SECO può autorizzare deroghe al divieto di cui al capoverso 1<sup>bis</sup> 
 
 <sup>2</sup> È vietato fornire servizi di qualsiasi tipo, compresi i servizi finanziari, l’intermediazione e l’assistenza tecnica, così come concedere mezzi finanziari in relazione con i beni di cui al capoverso 1.
 
-[^10a-1]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 11
 
@@ -498,11 +498,11 @@ D’intesa con i servizi competenti del DFAE e, nel caso di servizi finanziari o
 
 <sup>6</sup> D’intesa con i servizi competenti del DFAE e, nel caso di servizi finanziari o di approvvigionamento energetico, del DFF o del DATEC, la SECO può autorizzare deroghe ai divieti di cui al capoverso 2 per la fornitura di assicurazioni e riassicurazioni a favore di un’impresa costituita o registrata secondo il diritto svizzero o secondo il diritto di uno Stato membro dello SEE per quanto riguarda le sue attività al di fuori del settore energetico russo. [^11-5]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^11-2]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^11-4]: Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 20 giu. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^11-5]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 20 giu. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^11-2]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^11-4]: Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 20 giu. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11-5]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 20 giu. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 11a
 
@@ -548,30 +548,30 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>7</sup> La SECO nega l’autorizzazione per i beni e i servizi di cui ai capoversi 4 e 5 se essi sono in parte o interamente destinati a fini militari o a destinatari finali militari. [^11a-18]
 
-[^11a-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^11a-2]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^11a-3]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^11a-4]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^11a-5]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^11a-6]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^11a-7]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^11a-8]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^11a-9]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^11a-10]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^11a-11]: Introdotta dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^11a-12]: Introdotta dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^11a-13]: Introdotta dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^11a-14]: Introdotta dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^11a-15]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^11a-16]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^11a-17]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^11a-18]: Introdotta dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^11a-1]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^11a-2]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11a-3]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^11a-4]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^11a-5]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11a-6]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^11a-7]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^11a-8]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^11a-9]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11a-10]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^11a-11]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^11a-12]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^11a-13]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^11a-14]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^11a-15]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^11a-16]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^11a-17]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^11a-18]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 12
 
 [^12-1]
 
-[^12-1]: Abrogato dal n. I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^12-1]: Abrogato dalla cifra I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 12a
 
@@ -590,9 +590,9 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 <sup>4</sup> Tutte le transazioni riguardanti l’acquisto con destinazione in Svizzera, o l’importazione o il trasporto in Svizzera di condensati di gas naturale della voce di tariffa doganale 2709 00 10 originari della Federazione Russa o provenienti dalla Federazione Russa devono essere notificate alla SECO entro due settimane indicando i quantitativi acquistati, importati o trasportati.[^12a-3]
 
-[^12a-1]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^12a-2]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
-[^12a-3]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^12a-2]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
+[^12a-3]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 12b
 
@@ -619,10 +619,10 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 <sup>6</sup> Tutte le transazioni per l’acquisto o il trasporto in Stati al di fuori della Svizzera di condensati di gas naturale della voce di tariffa doganale 2709 00 10 originari della Federazione Russa o provenienti dalla Federazione Russa devono essere notificate alla SECO entro due settimane, indicando i quantitativi acquistati o trasportati.[^12b-4]
 
-[^12b-1]: Introdotto dal n. I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
-[^12b-2]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^12b-3]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^12b-4]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^12b-1]: Introdotto dalla cifra I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
+[^12b-2]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^12b-3]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^12b-4]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 12c
 
@@ -638,7 +638,7 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 <sup>5</sup> Le vendite e qualsiasi altra forma di trasferimento di proprietà di cui ai capoversi 1 e 4 che hanno avuto luogo tra il 5 dicembre 2022 e il 1° febbraio 2024 devono essere notificati alla SECO entro il 3 maggio 2024.
 
-[^12c-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^12c-1]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 12d
 
@@ -666,7 +666,7 @@ I divieti di cui ai capoversi 1–6 non si applicano:
 - d. alla prevenzione o mitigazione urgente di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente, o alla risposta a catastrofi naturali;
 - e. al riconoscimento o all’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro dello SEE.
 
-[^12d-1]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^12d-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 12e
 
@@ -678,7 +678,7 @@ I divieti di cui ai capoversi 1–6 non si applicano:
 
 <sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano alla fornitura del gas naturale liquefatto di cui al capoverso 1 dalla terraferma dell’Unione europea alle sue regioni ultraperiferiche.
 
-[^12e-1]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^12e-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 12f
 
@@ -697,7 +697,7 @@ Il divieto di cui al capoverso 1 non si applica:
 
 <sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di cui al capoverso 1 se l’operazione di ricarica («reloading») è necessaria per il trasporto verso uno Stato membro dell’Unione europea e tale Stato membro ha confermato che l’operazione è necessaria per garantire il proprio approvvigionamento energetico.
 
-[^12f-1]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^12f-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 13
 
@@ -721,7 +721,7 @@ Il divieto di cui al capoverso 1 non si applica:
 
 <sup>5</sup> In casi urgenti debitamente motivati, la vendita, la fornitura, il trasferimento o l’esportazione possono essere effettuati senza autorizzazione preventiva, a condizione che l’esportatore informi la SECO entro cinque giorni lavorativi dalla vendita, dalla fornitura, dal trasferimento o dall’esportazione senza autorizzazione preventiva e ne spieghi dettagliatamente i motivi.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 14a
 
@@ -739,10 +739,10 @@ Il divieto di cui al capoverso 1 non si applica:
 
 <sup>5</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 se ciò è necessario per la costituzione, la gestione, la manutenzione, l’approvvigionamento e il ritrattamento del combustibile e la sicurezza delle capacità nucleari a uso civile, nonché la continuazione della progettazione, della costruzione e dell’attivazione necessaria per il completamento degli impianti nucleari civili, la fornitura di materiale precursore per la produzione di radioisotopi medici e applicazioni mediche analoghe, o di tecnologie critiche per il controllo delle radiazioni ambientali, e la cooperazione nucleare per fini civili, in particolare nel settore della ricerca e dello sviluppo.
 
-[^14a-1]: Introdotto dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00, il cpv. 2 in vigore dal 30 set. 2023 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14a-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14a-3]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14a-4]: Introdotto dal n. I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00, il cpv. 2 in vigore dal 30 set. 2023 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^14a-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14a-3]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14a-4]: Introdotto dalla cifra I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 14b
 
@@ -773,13 +773,13 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>5</sup> La SECO rifiuta la domanda di deroga secondo il capoverso 4 se le navi di cui al capoverso 4 sono destinate a utenti finali militari o a un uso finale militare nella Federazione Russa.[^14b-7]
 
-[^14b-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^14b-2]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^14b-3]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^14b-4]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^14b-5]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^14b-6]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^14b-7]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14b-1]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^14b-2]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14b-3]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14b-4]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^14b-5]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^14b-6]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^14b-7]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 14c
 
@@ -833,15 +833,15 @@ La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2:
 
 - b. per la manutenzione, la riparazione o la restituzione in Svizzera di componenti difettosi di beni delle voci di tariffa doganale 8471, 8523, 8536 e 9027, se sono componenti di dispositivi medici e si trovavano nella Federazione Russa prima dell’entrata in vigore dei divieti.[^14c-9]
 
-[^14c-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, cpv. 3 vigore dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^14c-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^14c-3]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^14c-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^14c-5]: Introdotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14c-6]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^14c-7]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^14c-8]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14c-9]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^14c-1]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, cpv. 3 vigore dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^14c-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^14c-3]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^14c-4]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^14c-5]: Introdotta dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14c-6]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^14c-7]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14c-8]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14c-9]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 14d
 
@@ -861,10 +861,10 @@ La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2:
 
 <sup>7</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1–3 per l’importazione o il trasporto dalla Federazione Russa di beni culturali in prestito nel contesto della cooperazione culturale ufficiale con la Federazione Russa.
 
-[^14d-1]: Introdotto dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^14d-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14d-3]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^14d-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14d-1]: Introdotto dalla cifra I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^14d-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14d-3]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^14d-4]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 14e
 
@@ -900,11 +900,11 @@ Il divieto di cui al capoverso 5 non si applica ai prodotti con diamanti di cui 
 
 <sup>8</sup> All’atto dell’importazione dei beni di cui ai capoversi 3 e 4 deve essere apportata una prova che fornisca informazioni sull’origine dei diamanti lavorati nel Paese terzo. La prova deve essere indicata sulla dichiarazione doganale.[^14e-5]
 
-[^14e-1]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024, cpv. 4 dal 1° mar. 2024 dal 1° mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14e-2]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 1° set. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^14e-3]: Introdotto dal n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^14e-4]: Introdotto dal n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^14e-5]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-1]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024, cpv. 4 dal 1° mar. 2024 dal 1° mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14e-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° set. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-3]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-4]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-5]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 
 #### Art. 14e<sup>bis</sup>
 
@@ -923,7 +923,7 @@ I divieti di cui ai capoversi 1 e 3 non si applicano se:
 - a. è dimostrato che i beni sono stati esportati dall’Ucraina anteriormente al 1° marzo 2014; o
 - b. i beni sono restituiti intatti ai legittimi proprietari in Ucraina.
 
-[^14ebis-1]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^14ebis-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 14f
 
@@ -947,10 +947,10 @@ Gli esportatori devono notificare alla SECO:
 - a. gli appalti pubblici da loro conclusi secondo il capoverso 1<sup>bis</sup> lettera b, entro due settimane dalla loro conclusione;
 - b. le violazioni dei divieti di cui al capoverso 1, senza indugio.[^14f-4]
 
-[^14f-1]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 20 mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14f-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^14f-3]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^14f-4]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^14f-1]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 20 mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14f-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^14f-3]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^14f-4]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 ## Sezione 3: Restrizioni finanziarie
 
@@ -1095,39 +1095,39 @@ La SECO può autorizzare la liberazione di determinati averi o risorse economich
 
 <sup>11</sup> La SECO può autorizzare deroghe secondo i capoversi 4‒10 d’intesa con i servizi competenti del DFAE e del DFF.[^15-33]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^15-2]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^15-3]: Introdotta dal n. I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Abrogata dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-4]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-5]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^15-6]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-7]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^15-8]: Abrogata dal n. I dell’O del 29 mar. 2023, con effetto dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-9]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-10]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-11]: Introdotto dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^15-2]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^15-3]: Introdotta dalla cifra I dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)). Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-4]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-5]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^15-6]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-7]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^15-8]: Abrogata dalla cifra I dell’O del 29 mar. 2023, con effetto dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-9]: Introdotta dalla cifra I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-10]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-11]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 [^15-12]: Regolamento (UE) n. 269/2014 del Consiglio, del 17 marzo 2014, concernente misure restrittive relative ad azioni che compromettono o minacciano l’integrità territoriale, al sovranità e l’indipendenza dell’Ucraina, versione della GU L 78 del 17.3.2014, modificato dal regolamento (UE) 2023/2873 del Consiglio, del 18 dicembre 2023, versione della GU L, 2023/2873, 18.12.2023.
-[^15-13]: Introdotto dal n. I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-14]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^15-15]: Introdotto dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^15-16]: Nuovo testo giusta il n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-17]: Introdotto dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^15-18]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-19]: Introdotto dal n. I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-20]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-21]: Introdotto dal n. I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-22]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^15-23]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^15-24]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^15-25]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-26]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^15-27]: Introdotto dal n. I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-28]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-29]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-30]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-31]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^15-32]: Introdotto dal n. I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^15-33]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-13]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-14]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^15-15]: Introdotto dalla cifra I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^15-16]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-17]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^15-18]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-19]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-20]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-21]: Introdotto dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-22]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-23]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^15-24]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^15-25]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-26]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^15-27]: Introdotto dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-28]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-29]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-30]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-31]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^15-32]: Introdotto dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^15-33]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 16
 
@@ -1142,8 +1142,8 @@ La SECO può autorizzare la liberazione di determinati averi o risorse economich
 <sup>2</sup> Le notifiche devono indicare i nomi dei beneficiari, nonché il genere e il valore degli averi e delle risorse economiche bloccati.
 
 [^16-1]: N. 13 della correzione del 15 mar. 2024 ([RU 2024 107](https://fedlex.data.admin.ch/eli/oc/2024/107)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^16-2]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^16-3]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^16-2]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^16-3]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 17
 
@@ -1159,7 +1159,7 @@ Il divieto di cui al capoverso 1 non si applica:
 - b.[^17-1] alla fornitura di finanziamenti pubblici o di assistenza finanziaria pubblica fino a un valore totale di 10 000 000 franchi per ogni progetto a favore di piccole e medie imprese stabilite in Svizzera;
 - c. alla fornitura di finanziamenti pubblici o di assistenza finanziaria pubblica per gli scambi di prodotti alimentari, e per scopi agricoli, medici o umanitari.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 #### Art. 18
 
@@ -1204,8 +1204,8 @@ Nelle sedi di negoziazione, per i valori mobiliari di qualsiasi banca, impresa o
 - a. la quotazione e la fornitura di servizi;
 - b. l’ammissione alla negoziazione.[^18-2]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00, la lett. b in vigore dal 17 mar. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00, la lett. b in vigore dal 17 mar. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 19
 
@@ -1259,11 +1259,11 @@ I divieti di cui ai capoversi 1 e 2 non si applicano all’utilizzo di fondi o a
 - c. all’atto della sua conclusione, il contratto non violasse i divieti allora vigenti di cui nella presente ordinanza;
 - d.[^19-5] i fondi e gli esborsi siano stati notificati alla SECO entro tre mesi dalla data in cui sono avvenuti.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^19-3]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^19-4]: Introdotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^19-5]: Introdotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^19-3]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^19-4]: Introdotta dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^19-5]: Introdotta dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 20
 
@@ -1302,15 +1302,15 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - e. tutelare gli interessi svizzeri;
 - f.[^20-9] gli scambi transfrontalieri non vietati di beni e servizi tra la Svizzera e la Federazione Russa, tra la Svizzera e lo SEE o tra lo SEE e la Federazione Russa.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^20-3]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^20-4]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^20-5]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^20-6]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 2 mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^20-7]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^20-8]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^20-9]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^20-4]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^20-5]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^20-6]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 2 mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^20-7]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^20-8]: Introdotta dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^20-9]: Introdotta dalla cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 21
 
@@ -1318,7 +1318,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 Le persone e gli organismi che accettano depositi e concedono crediti a titolo professionale forniscono alla SECO, entro il 3 giugno 2022, un elenco dei depositi superiori a 100 000 franchi detenuti da cittadini russi, da persone fisiche residenti nella Federazione Russa o da banche, imprese od organizzazioni stabilite nella Federazione Russa. Essi forniscono alla SECO aggiornamenti sugli importi di tali depositi ogni 12 mesi.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 22
 
@@ -1328,8 +1328,8 @@ Le persone e gli organismi che accettano depositi e concedono crediti a titolo p
 
 <sup>2</sup> Questo divieto non si applica ai cittadini svizzeri, ai cittadini di uno Stato membro dello SEE e ai cittadini del Regno Unito o alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera, in uno Stato membro dello SEE o nel Regno Unito.[^22-2]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 23
 
@@ -1339,8 +1339,8 @@ Le persone e gli organismi che accettano depositi e concedono crediti a titolo p
 
 <sup>2</sup> Questo divieto non si applica ai cittadini svizzeri, ai cittadini di uno Stato membro dello SEE e ai cittadini del Regno Unito o alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera, in uno Stato membro dello SEE o nel Regno Unito.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 24
 
@@ -1364,10 +1364,10 @@ Le persone, le organizzazioni e gli organismi, segnatamente la Banca nazionale s
 
 <sup>4</sup> Le notifiche devono indicare i nomi delle persone, delle organizzazioni e degli organismi di cui al capoverso 3, nonché il genere e il valore degli averi e delle risorse economiche pertinenti.[^24-4]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^24-3]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^24-4]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^24-3]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^24-4]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 #### Art. 24a
 
@@ -1425,20 +1425,20 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può, in via ecc
 - c. per garantire l’approvvigionamento energetico critico è necessario svolgere una funzione di cui al capoverso 1<sup>bis</sup> lettere b, c o d;
 - d. una persona giuridica, un’organizzazione o un organismo è coinvolto nel transito attraverso la Federazione Russa di petrolio proveniente da un Paese terzo e l’esercizio di una funzione di cui al capoverso 1<sup>bis</sup> lettere b, c o d è inteso a realizzare operazioni non vietate secondo gli articoli 12*a* e 12*b*. [^24a-14]
 
-[^24a-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^24a-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^24a-3]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00, le lett. b-d in vigore il 24 feb. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^24a-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^24a-5]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^24a-6]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^24a-7]: Introdotta dal n. I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^24a-8]: Introdotta dal n. I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^24a-9]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^24a-10]: Introdotta dal n. I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Abrogata dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^24a-11]: Nuovo testo giusta il n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^24a-12]: Nuovo testo giusta il n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^24a-13]: Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^24a-14]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^24a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^24a-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^24a-3]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00, le lett. b-d in vigore il 24 feb. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^24a-4]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^24a-5]: Nuovo testo giusta la cifra I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^24a-6]: Introdotta dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^24a-7]: Introdotta dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^24a-8]: Introdotta dalla cifra I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^24a-9]: Introdotta dalla cifra I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^24a-10]: Introdotta dalla cifra I dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)). Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^24a-11]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^24a-12]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^24a-13]: Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^24a-14]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 #### Art. 24b
 
@@ -1454,7 +1454,7 @@ Il divieto di cui al capoverso 1 non si applica alle transazioni che sono necess
 - b. garantire l’accesso a procedimenti giudiziari, amministrativi o arbitrali in Svizzera o in uno Stato membro dello SEE o per il riconoscimento o l’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro dello SEE;
 - c. ottenere un risarcimento ai sensi dell’articolo *30f*.
 
-[^24b-1]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^24b-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 24c
 
@@ -1475,7 +1475,7 @@ Il divieto di cui al capoverso 1 non si applica alle transazioni che sono necess
 - b. garantire l’accesso a procedimenti giudiziari, amministrativi o arbitrali in Svizzera o in uno Stato membro dello SEE o per il riconoscimento o l’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro dello SEE;
 - c. attività umanitarie, tra cui forniture mediche e di generi alimentari, il trasferimento di operatori umanitari e la relativa assistenza o evacuazioni.
 
-[^24c-1]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^24c-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 25
 
@@ -1505,7 +1505,7 @@ Il divieto di cui al capoverso 1 non si applica alle transazioni che sono necess
 
 È vietato fornire servizi specializzati di messaggistica finanziaria, utilizzati per scambiare dati finanziari, alle banche, imprese o organizzazioni elencate nell’allegato 14 o a qualsiasi banca, impresa o organizzazione stabilita nella Federazione Russa e controllata per oltre il 50 per cento da banche, imprese o organizzazioni elencate nell’allegato 14.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 28
 
@@ -1520,7 +1520,7 @@ Il divieto di cui al capoverso 1 non si applica alla vendita, alla fornitura, al
 - a. uso personale da parte di persone fisiche che si recano nella Federazione Russa o dei loro familiari stretti che li accompagnano; o
 - b. permettere l’esercizio di attività ufficiali di rappresentanze diplomatiche o consolari o di un’organizzazione internazionale nella Federazione Russa.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 #### Art. 28a
 
@@ -1530,8 +1530,8 @@ Il divieto di cui al capoverso 1 non si applica alla vendita, alla fornitura, al
 
 <sup>2</sup> I divieti di cui al capoverso 1 non si applicano ai cittadini svizzeri, ai cittadini di uno Stato membro dello SEE o alle persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera o in uno Stato membro dello SEE
 
-[^28a-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 15 apr. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^28a-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^28a-1]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 15 apr. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^28a-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 
 #### Art. 28b
 
@@ -1557,9 +1557,9 @@ D’intesa con i servizi competenti del DFAE, del DATEC e del DFF, la SECO può 
 
 <sup>3</sup> Il divieto di cui al capoverso 1 relativo al settore minerario non si applica alle attività che generano la maggior parte del loro valore finanziario dalla produzione di uno dei materiali di cui all’allegato 30 o che hanno come obiettivo principale tale produzione.
 
-[^28b-1]: Introdotto dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^28b-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^28b-3]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28b-1]: Introdotto dalla cifra I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^28b-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^28b-3]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 28c
 
@@ -1588,13 +1588,13 @@ Il divieto di cui al capoverso 1 non si applica:
 - j.[^28c-6] alle attività della società civile che promuovono direttamente la democrazia, i diritti umani, lo Stato di diritto, il giornalismo indipendente o la lotta alla disinformazione nella Federazione Russa;
 - k.[^28c-7] ai programmi della Svizzera o degli Stati membri dello SEE per l’assunzione di responsabilità storiche e per il sostegno alle minoranze etniche della Svizzera o degli Stati membri dello SEE nella Federazione Russa.
 
-[^28c-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^28c-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^28c-1]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28c-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^28c-3]: [RS 0.422.10](https://fedlex.data.admin.ch/eli/cc/2010/220)
 [^28c-4]: [RS 0.424.10](https://fedlex.data.admin.ch/eli/cc/2006/70)
-[^28c-5]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^28c-6]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^28c-7]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^28c-5]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^28c-6]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^28c-7]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 28d
 
@@ -1629,11 +1629,11 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - a. effettuare le transazioni necessarie per porre fine ai contratti stipulati prima del 28 aprile 2022 incompatibili con il presente articolo, purché tali transazioni siano state avviate prima del 30 maggio 2022 e concluse entro il 1° ottobre 2022;
 - b. per motivi diversi da quelli di cui alla lettera a, purché i prestatori di servizi non accettino direttamente o indirettamente averi o risorse economiche da parte delle persone di cui al capoverso 1, non li mettano loro a disposizione o non procurino loro altri vantaggi derivanti dai valori patrimoniali collocati in un trust o in un istituto giuridico affine.[^28d-5]
 
-[^28d-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, il cpv. 2 entra in vigore il 29 mag. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^28d-2]: Abrogato temporanemente dal n. I dell’O del 29 giu. 2022, con effetto dal 29 giu. 2022 alle ore 18.00 al 31 lug. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^28d-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28d-4]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^28d-5]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28d-1]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, il cpv. 2 entra in vigore il 29 mag. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^28d-2]: Abrogato temporanemente dalla cifra I dell’O del 29 giu. 2022, con effetto dal 29 giu. 2022 alle ore 18.00 al 31 lug. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28d-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28d-4]: Introdotta dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28d-5]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art. 28e
 
@@ -1699,30 +1699,30 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>7</sup> Le notifiche devono contenere il nome dei beneficiari e dettagli sul tipo e sul valore dei servizi o dei software in questione.[^28e-24]
 
-[^28e-1]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^28e-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^28e-3]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-4]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^28e-5]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^28e-6]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^28e-7]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^28e-8]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^28e-9]: Nuovo testo giusta il n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^28e-10]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^28e-11]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^28e-12]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^28e-13]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^28e-14]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^28e-15]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-16]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-17]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-18]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-19]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-20]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^28e-21]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^28e-22]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^28e-23]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^28e-24]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-1]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^28e-2]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-3]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-4]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^28e-5]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-6]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-7]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^28e-8]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-9]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^28e-10]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^28e-11]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-12]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^28e-13]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-14]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^28e-15]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-16]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-17]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-18]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-19]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-20]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^28e-21]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^28e-22]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-23]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^28e-24]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 28f
 
@@ -1732,7 +1732,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>2</sup> Il divieto di cui al capoverso 1 non si applica all’esercizio delle funzioni di cui al capoverso 1 da parte di persone che hanno la cittadinanza esclusiva o condivisa della Svizzera, di uno Stato membro dello SEE o del Regno Unito.
 
-[^28f-1]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 27 apr. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^28f-1]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 27 apr. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 #### Art. 28g
 
@@ -1756,7 +1756,7 @@ Il divieto di cui al capoverso 1 non si applica alle donazioni, ai benefici econ
 
 <sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe ai divieti di cui al capoverso 1 per l’accettazione di donazioni, benefici economici o sostegno a favore di organizzazioni non governative e di fornitori di servizi di media, a condizione che tale accettazione non interferisca con i processi democratici in Svizzera e non ne mini le basi democratiche.
 
-[^28g-1]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^28g-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 ## Sezione 4: Ulteriori restrizioni
 
@@ -1810,13 +1810,13 @@ Gli operatori aerei di cui al capoverso 1 lettera c devono comunicare all’UFAC
 - a. informazioni sull’effettivo proprietario del veicolo aereo e, se del caso, sulla persona fisica o giuridica, sull’organizzazione o sull’organismo che ha noleggiato il veicolo aereo;
 - b. una dichiarazione generale, la lista dei passeggeri o un documento ufficiale contenente il nome completo, la data di nascita, il luogo di nascita e la nazionalità di ciascun passeggero e di ciascun componente dell’equipaggio.[^29a-7]
 
-[^29a-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^29a-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^29a-3]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^29a-1]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^29a-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^29a-3]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^29a-4]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
-[^29a-5]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^29a-6]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^29a-7]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^29a-5]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^29a-6]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^29a-7]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 29b
 
@@ -1824,7 +1824,7 @@ Gli operatori aerei di cui al capoverso 1 lettera c devono comunicare all’UFAC
 
 È vietato commissionare pubblicità o fungere da intermediario per la pubblicità di prodotti o servizi che viene trasmessa o diffusa in programmi radiofonici o televisivi o in altri contenuti elettronici creati o trasmessi da una persona giuridica, un’impresa o un’organizzazione di cui all’allegato 25. Questo vale a prescindere dal mezzo di trasmissione o di diffusione dei contenuti.
 
-[^29b-1]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^29b-1]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 #### Art 29c
 
@@ -1868,7 +1868,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>9</sup> I committenti di cui al capoverso 7 e i Cantoni di cui al capoverso 8 segnalano alla SECO i casi di applicazione del capoverso 3.
 
-[^29c-1]: Introdotto dal n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^29c-1]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
 [^29c-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 [^29c-3]: Questo Concordato intercantonale può essere consultato all’indirizzo [www.lexfind.ch/fe/de/tol/33879/versions/219579/de](https://www.lexfind.ch/fe/de/tol/33879/versions/219579/de)
 [^29c-4]: Questo Concordato intercantonale può essere consultato all’indirizzo [www.lexfind.ch/fe/de/tol/33884/versions/219203/de](https://www.lexfind.ch/fe/de/tol/33884/versions/219203/de)
@@ -1886,15 +1886,15 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 [^30-1]: [RU 2014 2803](https://fedlex.data.admin.ch/eli/oc/2014/486), [4059](https://fedlex.data.admin.ch/eli/oc/2014/681); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [2311](https://fedlex.data.admin.ch/eli/oc/2015/430), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [1953](https://fedlex.data.admin.ch/eli/oc/2019/358), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175), [568](https://fedlex.data.admin.ch/eli/oc/2021/568), [626](https://fedlex.data.admin.ch/eli/oc/2021/626); [2022 8](https://fedlex.data.admin.ch/eli/oc/2022/8), [138](https://fedlex.data.admin.ch/eli/oc/2022/138), [143](https://fedlex.data.admin.ch/eli/oc/2022/143), [144](https://fedlex.data.admin.ch/eli/oc/2022/144)
 [^30-2]: [RU 2014 877](https://fedlex.data.admin.ch/eli/oc/2014/187), [1003](https://fedlex.data.admin.ch/eli/oc/2014/229), [1213](https://fedlex.data.admin.ch/eli/oc/2014/259), [2479](https://fedlex.data.admin.ch/eli/oc/2014/438)
-[^30-3]: Nuovo testo giusta il n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^30-4]: Introdotta dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^30-5]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^30-3]: Nuovo testo giusta la cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^30-4]: Introdotta dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^30-5]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 ## Sezione 4*a*: Deroghe riguardanti i disinvestimenti dalla Federazione Russa
 
 [^sec4a-1]
 
-[^sec4a-1]: Introdotta dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^sec4a-1]: Introdotta dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 #### Art. 30a
 
@@ -1943,10 +1943,10 @@ La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* p
 - c. i beni interessati si trovassero fisicamente nella Federazione Russa prima dell’entrata in vigore dei divieti di cui agli articoli 14*a* e 14*c* relativi a tali beni.
 
 [^30a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^30a-2]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^30a-3]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^30a-4]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^30a-5]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^30a-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^30a-3]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^30a-4]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^30a-5]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 
 #### Art. 30b
 
@@ -1954,7 +1954,7 @@ La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* p
 
 D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare deroghe al divieto di transazioni con imprese statali di cui all’articolo 24*a* capoverso 1 per permettere le transazioni strettamente necessarie per il disinvestimento e il ritiro, entro il 31 dicembre 2024, di una persona giuridica, un’organizzazione o un organismo stabilito in Svizzera o in uno Stato membro dello SEE da parte delle organizzazioni di cui all’articolo 24*a* capoverso 1 o delle loro controllate in Svizzera o in uno Stato membro dello SEE.
 
-[^30b-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30b-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 30c
 
@@ -1971,11 +1971,11 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 marzo 2024 deroghe al divieto di cui all’articolo 28*e* capoverso 1<sup>bis</sup> per servizi nel settore della consulenza giuridica, a condizione che tali servizi siano necessari per legge per il perfezionamento della vendita o della cessione di diritti di proprietà detenuti direttamente o indirettamente da una persona giuridica, un’organizzazione o un organismo stabiliti nella Federazione Russa in una persona giuridica, un’organizzazione o un organismo stabiliti in uno Stato membro dello SEE o in Svizzera.[^30c-5]
 
-[^30c-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-2]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^30c-3]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-5]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^30c-1]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^30c-3]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-4]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-5]: Introdotto dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 30c<sup>bis</sup>
 
@@ -1983,13 +1983,13 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2024 deroghe al divieto di soddisfare crediti da parte delle persone fisiche, imprese o organizzazioni di cui all’articolo 30 lettera b, a condizione che ciò sia necessario per disinvestire dalla Federazione Russa o per liquidare attività commerciali nella Federazione Russa.
 
-[^30cbis-1]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^30cbis-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 ## Sezione 4*b*: Deroghe per beni e servizi in relazione con il Consorzio per l’oleodotto del Caspio
 
 [^sec4b-1]
 
-[^sec4b-1]: Introdotta dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^sec4b-1]: Introdotta dalla cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 #### Art. 30d
 
@@ -2008,7 +2008,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 [^sec4c-1]
 
-[^sec4c-1]: Introdotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^sec4c-1]: Introdotta dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 30e
 
@@ -2018,7 +2018,7 @@ I divieti di cui alla presente ordinanza non si applicano alla prestazione dei s
 
 [^sec4d-1]
 
-[^sec4d-1]: Introdotta dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^sec4d-1]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 30f
 
@@ -2054,12 +2054,12 @@ I divieti di cui alla presente ordinanza non si applicano alla prestazione dei s
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.[^31-6]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^31-2]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^31-3]: Originario cpv. 1<sup>bis</sup>. Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^31-4]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^31-5]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^31-6]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^31-2]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^31-3]: Originario cpv. 1<sup>bis</sup>. Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^31-4]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^31-5]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^31-6]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 #### Art. 31a
 
@@ -2073,7 +2073,7 @@ I divieti di cui alla presente ordinanza non si applicano alla prestazione dei s
 
 <sup>4</sup> I capoversi 1–3 si applicano anche ai beni che si trovano fisicamente in Svizzera, che sono stati presentati prima del 29 marzo 2023 e che sono stati trattenuti conformemente alla presente ordinanza.
 
-[^31a-1]: Introdotto dal n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^31a-1]: Introdotto dalla cifra I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 [^31a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 32
@@ -2086,7 +2086,7 @@ I divieti di cui alla presente ordinanza non si applicano alla prestazione dei s
 
 <sup>3</sup> Le infrazioni di cui agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; essa può ordinare sequestri e confische.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 ## Sezione 6: Pubblicazione e disposizioni finali
 
@@ -2096,7 +2096,7 @@ I divieti di cui alla presente ordinanza non si applicano alla prestazione dei s
 
 I contenuti degli allegati 1, 2, 8–15, 23 e 25 sono pubblicati nella Raccolta ufficiale delle leggi federali e nella Raccolta sistematica del diritto federale solo mediante rimando.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 34
 
@@ -2222,44 +2222,44 @@ L’articolo 14*c* non si applica agli affari riguardanti:
 
 <sup>35</sup> L’articolo 27*a* capoverso 2 non si applica agli affari concordati in via contrattuale prima del 24 marzo 2024 con banche, imprese o organizzazioni di cui all’allegato 14*a* ed eseguiti entro il 19 gennaio 2025.[^35-38]
 
-[^35-1]: Introdotti dal n. I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Abrogati dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-1]: Introdotti dalla cifra I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Abrogati dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^35-2]: Ora: articolo 14*a* capoversi 1 e 3
-[^35-3]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
-[^35-4]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^35-5]: Introdotto dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-6]: Introdotta dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-7]: Introdotta dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-8]: Introdotto dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-9]: Introdotti dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogati dal n. I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^35-10]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^35-11]: Introdotto dal n. I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-12]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-13]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-14]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-15]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-16]: Introdotto dal n. I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-17]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-18]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-19]: Introdotti dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogati dal n. I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^35-20]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-21]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
-[^35-22]: Introdotta dal n. I dell’O del 16 dic. 2022 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)). Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-23]: Introdotta dal n. I dell’O del 15 feb. 2023, in vigore dal 15 feb. 2023 alle ore 18.00 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
-[^35-24]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-25]: Abrogata dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-26]: Introdotta dal n. I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-27]: Introdotta dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogata dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-28]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-29]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogato dal n. I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-30]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-31]: Introdotto dal n. I dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-32]: Nuovo testo giusta il n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-33]: Introdotto dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-34]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-35]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-36]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-37]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-38]: Introdotto dal n. I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-3]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^35-4]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-5]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-6]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-7]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-8]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-9]: Introdotti dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogati dalla cifra I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^35-10]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-11]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-12]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-13]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-14]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-15]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-16]: Introdotto dalla cifra I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-17]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-18]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-19]: Introdotti dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogati dalla cifra I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^35-20]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-21]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
+[^35-22]: Introdotta dalla cifra I dell’O del 16 dic. 2022 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)). Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-23]: Introdotta dalla cifra I dell’O del 15 feb. 2023, in vigore dal 15 feb. 2023 alle ore 18.00 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^35-24]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-25]: Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-26]: Introdotta dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-27]: Introdotta dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-28]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-29]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-30]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-31]: Introdotto dalla cifra I dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-32]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-33]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-34]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-35]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-36]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-37]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-38]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 36
 
@@ -2275,8 +2275,8 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. II cpv. 1 delle O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)), dal n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 delle O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)), del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)), del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 202 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dal n. I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)) e dal n. II cpv. 1 dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/564](https://fedlex.data.admin.ch/eli/oc/2024/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dalla cifra II cpv. 1 delle O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)), del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)), dalla cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 delle O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)), del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)), del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 202 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra II cpv. 1 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)) e dalla cifra I dell’O del DEFR del 12 dic. 2024, vigore il 13 dic. 2024 alle ore 18.00 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)).
+[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/769](https://fedlex.data.admin.ch/eli/oc/2024/769) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2[^t-2]
 
@@ -2286,8 +2286,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 delle O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dal n. I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)) e dal n. II cpv. 1 dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/564](https://fedlex.data.admin.ch/eli/oc/2024/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Aggiornato dalla cifra II cpv. 1 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) dalla cifra I cpv. 1 dell’O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 delle O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra II cpv. 1 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)) e dalla cifra I dell’O del DEFR del 12 dic. 2024, vigore il 13 dic. 2024 alle ore 18.00 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/769](https://fedlex.data.admin.ch/eli/oc/2024/769) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 
@@ -2295,7 +2295,7 @@ Allegato 3[^t-3]
 
 ## Beni per l’aviazione e l’industria spaziale
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Aggiornato dal n. II cpv. 2 dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)) e del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Aggiornato dalla cifra II cpv. 2 dell’O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)) e del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^t-4]: In vigore dal 20 mar. 2024.
 
 ### 1. Beni che sono stati inseriti nell’allegato prima del 23 novembre 2022
@@ -2344,7 +2344,7 @@ Allegato 4[^t-5]
 
 ## Beni per la lavorazione di petrolio e gas
 
-[^t-5]: Nuovo testo giusta il n. I cpv. 2 dell’O del DEFR 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
+[^t-5]: Nuovo testo giusta la cifra I cpv. 2 dell’O del DEFR 28 lug. 2022, in vigore dal 29 lug. 2022 alle ore 18.00 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)).
 
 <table>
 <tr><th></th><th>Voce di tariffa</th><th>Designazione</th></tr>
@@ -2384,7 +2384,7 @@ Allegato 5[^t-6]
 
 ## Beni per il settore dell’energia
 
-[^t-6]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-6]: Aggiornato dalla cifra II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 <table>
 <tr><th>**Codice CN**</th><th>**Designazione della merce**</th></tr>
@@ -2426,7 +2426,7 @@ Allegato 6[^t-7]
 
 ## Territori designati
 
-[^t-7]: Nuovo testo giusta il n. I cpv. 2 dell’O del DEFR dell’11 ott. 2022, in vigore dal 12 ott. 2022 alle ore 18.00 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)).
+[^t-7]: Nuovo testo giusta la cifra I cpv. 2 dell’O del DEFR dell’11 ott. 2022, in vigore dal 12 ott. 2022 alle ore 18.00 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)).
 
 Crimea
 
@@ -2446,7 +2446,7 @@ Allegato 7[^t-8]
 
 ## Beni vietati
 
-[^t-8]: Nuovo testo giusta il n. I cpv. 2 dell’O del DEFR del 7 dic. 2022, in vigore dall’8 dic. 2022 alle ore 18.00 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
+[^t-8]: Nuovo testo giusta la cifra I cpv. 2 dell’O del DEFR del 7 dic. 2022, in vigore dall’8 dic. 2022 alle ore 18.00 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
 <table>
 <tr><th>**Capitoli/Codice NC**</th><th>**Designazione delle merci**</th></tr>
@@ -2623,8 +2623,8 @@ Allegato 8[^t-9]
 
 [^annex8-lvlu1-1]
 
-[^t-9]: Aggiornato dal n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dal n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dal n. I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dal n. I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dal n. I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dal n. I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dal n. I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dal n. II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dal n. I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dal n. II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dal n. I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dal n. II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dal n. I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dal n. I cpv. 1 dell’O del DEFR del 21 mar. 2024 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), dai n. I delle O del DEFR del 3 giu. 2024 ([RU 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), dell’8 lug. 2024 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)) e del 23 set. 2024, in vigore dal 24 set. 2024 alle 18.00 ([RU 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)).
-[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/517](https://fedlex.data.admin.ch/eli/oc/2024/517) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-9]: Aggiornato dalla cifra I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dalla cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dalla cifra I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dalla cifra I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dalla cifra I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dalla cifra I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dalla cifra II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dalla cifra I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dalla cifra II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dalla cifra I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dalla cifra II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra I cpv. 1 dell’O del DEFR del 21 mar. 2024 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), dalle cifre I delle O del DEFR del 3 giu. 2024 ([RU 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), dell’8 lug. 2024 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), del 23 set. 2024 ([RU 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)) e del 12 dic. 2024, vigore il 13 dic. 2024 alle ore 18.00 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)).
+[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/769](https://fedlex.data.admin.ch/eli/oc/2024/769) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
@@ -2654,7 +2654,7 @@ Allegato 11[^t-10]
 
 [^annex11-lvlu1-1]
 
-[^t-10]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-10]: Aggiornato dalla cifra II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex11-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 12
@@ -2685,7 +2685,7 @@ Allegato 14[^t-11]
 
 [^annex14-lvlu1-1]
 
-[^t-11]: Aggiornato dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^t-11]: Aggiornato dalla cifra I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 [^annex14-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14a[^t-12]
@@ -2694,7 +2694,7 @@ Allegato 14a[^t-12]
 
 ## Banche, imprese e organizzazioni soggette al divieto di utilizzare determinati servizi specializzati di messaggistica finanziaria
 
-[^t-12]: Introdotto dal n. II cpv. 3 dell'O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^t-12]: Introdotto dalla cifra II cpv. 3 dell'O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 Questo allegato attualmente non contiene voci.
 
@@ -2706,7 +2706,7 @@ Allegato 15[^t-13]
 
 [^annex15-lvlu1-1]
 
-[^t-13]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Aggiornato dal n. II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)) e dal n. II cpv. 3 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-13]: Introdotto dalla cifra II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Aggiornato dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)) e dalla cifra II cpv. 3 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^annex15-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 15a[^t-14]
@@ -2715,7 +2715,7 @@ Allegato 15a[^t-14]
 
 ## Attori di procedimenti arbitrali russi soggetti al divieto di transazioni
 
-[^t-14]: Introdotto dal n. II cpv. 3 dell'O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^t-14]: Introdotto dalla cifra II cpv. 3 dell'O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 Questo allegato attualmente non contiene voci.
 
@@ -2725,7 +2725,7 @@ Allegato 15b[^t-15]
 
 ## Persone e organismi soggetti al divieto di transazioni in relazione con servizi di criptovaluta
 
-[^t-15]: Introdotto dal n. II cpv. 3 dell'O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^t-15]: Introdotto dalla cifra II cpv. 3 dell'O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 Questo allegato attualmente non contiene voci.
 
@@ -2735,7 +2735,7 @@ Allegato 16[^t-16]
 
 ## Beni e tecnologie per la navigazione marittima
 
-[^t-16]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-16]: Introdotto dalla cifra II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 Categoria VI –Materiale navale
 
@@ -2762,7 +2762,7 @@ Allegato 17[^t-17]
 
 ## Prodotti siderurgici
 
-[^t-17]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II cpv. 2 dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^t-17]: Introdotto dalla cifra II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 <table>
 <tr><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
@@ -2824,7 +2824,7 @@ Allegato 18[^t-18]
 
 ## Beni di lusso
 
-[^t-18]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II cpv. 2 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Aggiornato dal n. I cpv. 2 dell’O del DEFR del 21 mar. 2024, in vigore dal 22 mar. 2024 alle 18.00 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
+[^t-18]: Introdotto dalla cifra II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Aggiornato dalla cifra I cpv. 2 dell’O del DEFR del 21 mar. 2024, in vigore dal 22 mar. 2024 alle 18.00 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
 
 Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore superiore a 300 franchi per articolo, salvo diversamente specificato in questo allegato.
 
@@ -3247,7 +3247,7 @@ Allegato 19[^t-19]
 
 ## Carboturbi e additivi per carburanti
 
-[^t-19]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dal n. II cpv. 3 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-19]: Introdotto dalla cifra II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dalla cifra II cpv. 3 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^t-20]: In vigore dal 20 mar. 2024.
 
 <table>
@@ -3286,7 +3286,7 @@ Allegato 20[^t-21]
 
 ## Beni economicamente importanti
 
-[^t-21]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. II cpv. 2 dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^t-21]: Introdotto dalla cifra II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 <table>
 <tr><th></th><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
@@ -3504,7 +3504,7 @@ Allegato 21[^t-22]
 
 ## Contingenti di importazione di determinati beni
 
-[^t-22]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. II cpv. 3 dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
+[^t-22]: Introdotto dalla cifra II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra II cpv. 3 dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
 
 ### 1. Beni che sono stati inseriti nell’allegato prima del 29 marzo 2023
 
@@ -3524,7 +3524,7 @@ Allegato 21[^t-22]
 
 Allegato 22[^t-23]
 
-[^t-23]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogato dal n. II cpv. 3 dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^t-23]: Introdotto dalla cifra II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogato dalla cifra II cpv. 3 dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 Allegato 23[^t-24]
 
@@ -3534,8 +3534,8 @@ Allegato 23[^t-24]
 
 [^annex23-lvlu1-1]
 
-[^t-24]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dal n. I cpv. 1 delle O del DEFR del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), dal n. II cpv. 1 delle O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)), del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)), del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dal n. I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)) e dal n. II cpv. 1 dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^annex23-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/564](https://fedlex.data.admin.ch/eli/oc/2024/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-24]: Introdotto dalla cifra II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dalla cifra I cpv. 1 delle O del DEFR del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), dalla cifra II cpv. 1 delle O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)), del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)), del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra II cpv. 1 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)) e dalla cifra I dell’O del DEFR del 12 dic. 2024, vigore il 13 dic. 2024 alle ore 18.00 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)).
+[^annex23-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/769](https://fedlex.data.admin.ch/eli/oc/2024/769) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 23a[^t-25]
 
@@ -3543,7 +3543,7 @@ Allegato 23a[^t-25]
 
 ## Beni per il rafforzamento dell’industria secondo l’articolo 11*a* capoverso 1<sup>bis</sup>
 
-[^t-25]: Introdotto dal n. II cpv. 4 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-25]: Introdotto dalla cifra II cpv. 4 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 <table>
 <tr><th>Voce di tariffa</th><th>Designazione delle merci</th></tr>
@@ -3569,7 +3569,7 @@ Allegato 24[^t-26]
 
 ## Petrolio greggio e prodotti petroliferi
 
-[^t-26]: Introdotto dal n. II dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nuovo testo giusta il n. II cpv. 2 dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Aggiornato dal n. II cpv. 3 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-26]: Introdotto dalla cifra II dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Aggiornato dalla cifra II cpv. 3 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 <table>
 <tr><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
@@ -3585,7 +3585,7 @@ Allegato 25[^t-27]
 
 [^annex25-lvlu1-1]
 
-[^t-27]: Introdotto dal n. II dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Aggiornato dal n. II cpv. 1 dell’O del 15 feb. 2023 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dai n. I delle O del DEFR del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 9 ott. 2023 ([RU 2023 575](https://fedlex.data.admin.ch/eli/oc/2023/575)) e dell’8 lug. 2024, in vigore dal 9 lug. 2024 alle 18.00 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)).
+[^t-27]: Introdotto dalla cifra II dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Aggiornato dalla cifra II cpv. 1 dell’O del 15 feb. 2023 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dalle cifre I delle O del DEFR del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 9 ott. 2023 ([RU 2023 575](https://fedlex.data.admin.ch/eli/oc/2023/575)) e dell’8 lug. 2024, in vigore dal 9 lug. 2024 alle 18.00 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)).
 [^annex25-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/347](https://fedlex.data.admin.ch/eli/oc/2024/347) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 26[^t-28]
@@ -3594,7 +3594,7 @@ Allegato 26[^t-28]
 
 ## Oro
 
-[^t-28]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^t-28]: Introdotto dalla cifra II cpv. 2 dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 <table>
 <tr><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
@@ -3609,7 +3609,7 @@ Allegato 27[^t-29]
 
 ## Prodotti contenenti oro
 
-[^t-29]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I cpv. 3 dell’O del DEFR del 21 mar. 2024, in vigore dal 22 mar. 2024 alle 18.00 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
+[^t-29]: Introdotto dalla cifra II cpv. 2 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta la cifra I cpv. 3 dell’O del DEFR del 21 mar. 2024, in vigore dal 22 mar. 2024 alle 18.00 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)).
 
 <table>
 <tr><th>Voce di tariffa doganale</th><th>Designazione</th></tr>
@@ -3623,7 +3623,7 @@ Allegato 27a[^t-30]
 
 ## Diamanti e prodotti in relazione ai diamanti
 
-[^t-30]: Introdotto dal n. II cpv. 4 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-30]: Introdotto dalla cifra II cpv. 4 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 ### 1. Diamanti naturali
 
@@ -3659,7 +3659,7 @@ Allegato 28[^t-31]
 
 ## Limiti massimi di prezzo per petrolio e prodotti petroliferi
 
-[^t-31]: Introdotto dal n. II cpv. 4 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I cpv. 2 dell’O del 15 feb. 2023, in vigore dal 15 feb. 2023 alle ore 18.00 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^t-31]: Introdotto dalla cifra II cpv. 4 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra I cpv. 2 dell’O del 15 feb. 2023, in vigore dal 15 feb. 2023 alle ore 18.00 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
 
 <table>
 <tr><th>Voce di tariffa doganale</th><th>Designazione</th><th>Prezzo al barile (USD)</th></tr>
@@ -3700,7 +3700,7 @@ Allegato 29[^t-32]
 
 ## Trasporto consentito di petrolio greggio e prodotti petroliferi in Paesi terzi
 
-[^t-32]: Introdotto dal n. II cpv. 4 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. II cpv. 2 dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^t-32]: Introdotto dalla cifra II cpv. 4 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta la cifra II cpv. 2 dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 <table>
 <tr><th>Oggetto</th><th>Luogo di destinazione (Paese terzo)</th><th>Periodo</th></tr>
@@ -3713,7 +3713,7 @@ Allegato 30[^t-33]
 
 ## Materiali del settore minerario
 
-[^t-33]: Introdotto dal n. II cpv. 3 dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^t-33]: Introdotto dalla cifra II cpv. 3 dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
 
 <table>
 <tr><td>Alluminio, compresa la bauxite</td></tr>
@@ -3741,7 +3741,7 @@ Allegato 31[^t-34]
 
 [^annex31-lvlu1-1]
 
-[^t-34]: Introdotto dal n. II cpv. 4 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Nuovo testo giusta del n. II cpv. 2 dell’O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^t-34]: Introdotto dalla cifra II cpv. 4 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Nuovo testo giusta della cifra II cpv. 2 dell’O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^annex31-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/564](https://fedlex.data.admin.ch/eli/oc/2024/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 32[^t-35]
@@ -3750,7 +3750,7 @@ Allegato 32[^t-35]
 
 ## Software gestionali per le imprese e software di progettazione e fabbricazione
 
-[^t-35]: Introdotto dal n. II cpv. 4 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^t-35]: Introdotto dalla cifra II cpv. 4 dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 
 ### 1. Software gestionali per le imprese
 
@@ -3784,5 +3784,5 @@ Allegato 33[^t-36]
 
 [^annex33-lvlu1-1]
 
-[^t-36]: Introdotto dal n. II cpv. 3 dell’O. del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564))
+[^t-36]: Introdotto dalla cifra II cpv. 3 dell’O. del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564))
 [^annex33-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/564](https://fedlex.data.admin.ch/eli/oc/2024/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
