@@ -3,11 +3,11 @@ sr: "0.741.611.2"
 title: "Protocollo addizionale del 20 febbraio 2008 della Convenzione concernente il contratto di trasporto internazionale di merci su strada (CMR), relativo alla lettera di vettura elettronica"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/280"
 language: it
-version: 2024-04-05
+version: 2024-12-13
 adopted: 2008-02-20
 in_force: 2011-06-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/280/20240405/it/xml/fedlex-data-admin-ch-eli-cc-2011-280-20240405-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/280/20240405/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/280/20241213/it/xml/fedlex-data-admin-ch-eli-cc-2011-280-20241213-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/280/20241213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 20 febbraio 2008 Strumento di adesione depositato dalla Svizzera il 26 gennaio 2009 Entrato in vigore per la Svizzera il 5 giugno 2011
 
-(Stato 5 aprile 2024)
+(Stato 13 dicembre 2024)
 
 Le Parti del presente Protocollo,
 
@@ -216,12 +216,14 @@ L’originale del presente Protocollo è depositato presso il Segretario general
 
 Fatto a Ginevra il venti febbraio duemilaotto, in un solo esemplare, nelle lingue inglese e francese, i due testi facenti ugualmente fede.
 
-*In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. (Seguono le firme)
+*In fede du che,* i sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. (Seguono le firme)
 
-Campo d’applicazione il 5 aprile 2024[^t-1]
+Campo d’applicazione il 13 dicembre 2024[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Armenia</td><td>8 ottobre</td><td>2024 A</td><td>6 gennaio</td><td>2025</td></tr>
+<tr><td>Austria</td><td>6 agosto</td><td>2024 A</td><td>4 novembre</td><td>2024</td></tr>
 <tr><td>Azerbaigian\*</td><td>27 dicembre</td><td>2022 A</td><td>27 marzo</td><td>2023</td></tr>
 <tr><td>Belarus</td><td>7 febbraio</td><td>2019 A</td><td>8 maggio</td><td>2019</td></tr>
 <tr><td>Bulgaria</td><td>15 settembre</td><td>2010 A</td><td>5 giugno</td><td>2011</td></tr>
@@ -233,6 +235,7 @@ Campo d’applicazione il 5 aprile 2024[^t-1]
 <tr><td>Germania</td><td>5 gennaio</td><td>2022 A</td><td>5 aprile</td><td>2022</td></tr>
 <tr><td>Grecia</td><td>23 ottobre</td><td>2023 A</td><td>21 gennaio</td><td>2024</td></tr>
 <tr><td>Iran\*</td><td>8 novembre</td><td>2017 A</td><td>6 febbraio</td><td>2018</td></tr>
+<tr><td>Italia</td><td>28 giugno</td><td>2024 A</td><td>26 settembre</td><td>2024</td></tr>
 <tr><td>Kirghizistan</td><td>26 agosto</td><td>2022 A</td><td>24 novembre</td><td>2022</td></tr>
 <tr><td>Lettonia</td><td>3 febbraio</td><td>2010</td><td>5 giugno</td><td>2011</td></tr>
 <tr><td>Lituania</td><td>7 marzo</td><td>2011</td><td>5 giugno</td><td>2011</td></tr>
@@ -255,8 +258,9 @@ Campo d’applicazione il 5 aprile 2024[^t-1]
 <tr><td>Turchia\*</td><td>31 gennaio</td><td>2018 A</td><td>1° maggio</td><td>2018</td></tr>
 <tr><td>Turkmenistan</td><td>21 dicembre</td><td>2022 A</td><td>21 marzo</td><td>2023</td></tr>
 <tr><td>Ucraina\*</td><td>10 luglio</td><td>2020 A</td><td>8 ottobre</td><td>2020</td></tr>
+<tr><td>Ungheria</td><td>28 agosto</td><td>2024 A</td><td>26 novembre</td><td>2024</td></tr>
 <tr><td>Uzbekistan</td><td>16 ottobre</td><td>2020 A</td><td>14 gennaio</td><td>2021</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [https://treaties.un.org](https://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non si applica alle Isole Faeröer e alla Groenlandia. <sup>b</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [https://treaties.un.org](https://treaties.un.org), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non si applica alle Isole Faeröer e alla Groenlandia. <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-1]: [RU 2011 1925](https://fedlex.data.admin.ch/eli/oc/2011/280); [2014 3285](https://fedlex.data.admin.ch/eli/oc/2014/569); [2016 3863](https://fedlex.data.admin.ch/eli/oc/2016/652); [2018 1259](https://fedlex.data.admin.ch/eli/oc/2018/206); [2019 3299](https://fedlex.data.admin.ch/eli/oc/2019/605); [2020 3341](https://fedlex.data.admin.ch/eli/oc/2020/569); [2021 82](https://fedlex.data.admin.ch/eli/oc/2021/82); [2024 145](https://fedlex.data.admin.ch/eli/oc/2024/145). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-1]: [RU 2011 1925](https://fedlex.data.admin.ch/eli/oc/2011/280); [2014 3285](https://fedlex.data.admin.ch/eli/oc/2014/569); [2016 3863](https://fedlex.data.admin.ch/eli/oc/2016/652); [2018 1259](https://fedlex.data.admin.ch/eli/oc/2018/206); [2019 3299](https://fedlex.data.admin.ch/eli/oc/2019/605); [2020 3341](https://fedlex.data.admin.ch/eli/oc/2020/569); [2021 82](https://fedlex.data.admin.ch/eli/oc/2021/82); [2024 145](https://fedlex.data.admin.ch/eli/oc/2024/145), [782](https://fedlex.data.admin.ch/eli/oc/2024/782). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

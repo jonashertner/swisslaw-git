@@ -3,11 +3,11 @@ sr: "0.741.611.2"
 title: Zusatzprotokoll vom 20. Februar 2008 zum Übereinkommen über den Beförderungsvertrag im internationalen Strassengüterverkehr (CMR) betreffend den elektronischen Frachtbrief
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/280"
 language: de
-version: 2024-04-05
+version: 2024-12-13
 adopted: 2008-02-20
 in_force: 2011-06-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/280/20240405/de/xml/fedlex-data-admin-ch-eli-cc-2011-280-20240405-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/280/20240405/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/280/20241213/de/xml/fedlex-data-admin-ch-eli-cc-2011-280-20241213-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/280/20241213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 26. Januar 2009
 
 In Kraft getreten für die Schweiz am 5. Juni 2011
 
-(Stand am 5. April 2024)
+(Stand am 13. Dezember 2024)
 
 Die Vertragsparteien dieses Protokolls,
 
@@ -224,10 +224,11 @@ Geschehen zu Genf am 20. Februar 2008, in einer Originalausfertigung in englisch
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. April 2024[^t-1]
+Geltungsbereich am 13. Dezember 2024[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Armenien</td><td>8. Oktober</td><td>2024 B</td><td>6. Januar</td><td>2025</td></tr>
 <tr><td>Aserbaidschan<sup>\*</sup></td><td>27. Dezember</td><td>2022 B</td><td>27. März</td><td>2023</td></tr>
 <tr><td>Belarus</td><td>7. Februar</td><td>2019 B</td><td>8. Mai</td><td>2019</td></tr>
 <tr><td>Bulgarien</td><td>15. September</td><td>2010 B</td><td>5. Juni</td><td>2011</td></tr>
@@ -238,6 +239,7 @@ Geltungsbereich am 5. April 2024[^t-1]
 <tr><td>Frankreich</td><td>5. Oktober</td><td>2016 B</td><td>3. Januar</td><td>2017</td></tr>
 <tr><td>Griechenland</td><td>23. Oktober</td><td>2023 B</td><td>21. Januar</td><td>2024</td></tr>
 <tr><td>Iran<sup>\*</sup></td><td>8. November</td><td>2017 B</td><td>6. Februar</td><td>2018</td></tr>
+<tr><td>Italien</td><td>28. Juni</td><td>2024 B</td><td>26. September</td><td>2024</td></tr>
 <tr><td>Kirgisistan</td><td>26. August</td><td>2022 B</td><td>24. November</td><td>2022</td></tr>
 <tr><td>Lettland</td><td>3. Februar</td><td>2010</td><td>5. Juni</td><td>2011</td></tr>
 <tr><td>Litauen</td><td>7. März</td><td>2011</td><td>5. Juni</td><td>2011</td></tr>
@@ -246,6 +248,7 @@ Geltungsbereich am 5. April 2024[^t-1]
 <tr><td>Niederlande <sup>b</sup></td><td>7. Januar</td><td>2009</td><td>5. Juni</td><td>2011</td></tr>
 <tr><td>Norwegen</td><td>11. Juni</td><td>2020</td><td>9. September</td><td>2020</td></tr>
 <tr><td>Oman<sup>\*</sup></td><td>23. September</td><td>2020 B</td><td>22. Dezember</td><td>2020</td></tr>
+<tr><td>Österreich</td><td>6. August</td><td>2024 B</td><td>4. November</td><td>2024</td></tr>
 <tr><td>Polen</td><td>13. Juni</td><td>2019 B</td><td>11. September</td><td>2019</td></tr>
 <tr><td>Portugal</td><td>26. September</td><td>2019 B</td><td>25. Dezember</td><td>2019</td></tr>
 <tr><td>Rumänien</td><td>14. März</td><td>2019 B</td><td>12. Juni</td><td>2019</td></tr>
@@ -260,6 +263,7 @@ Geltungsbereich am 5. April 2024[^t-1]
 <tr><td>Türkei<sup>\*</sup></td><td>31. Januar</td><td>2018 B</td><td>1. Mai</td><td>2018</td></tr>
 <tr><td>Turkmenistan</td><td>21. Dezember</td><td>2022 B</td><td>21. März</td><td>2023</td></tr>
 <tr><td>Ukraine<sup>\*</sup></td><td>10. Juli</td><td>2020 B</td><td>8. Oktober</td><td>2020</td></tr>
+<tr><td>Ungarn</td><td>28. August</td><td>2024 B</td><td>26. November</td><td>2024</td></tr>
 <tr><td>Usbekistan</td><td>16. Oktober</td><td>2020 B</td><td>14. Januar</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>20. Dezember</td><td>2019 B</td><td>19. März</td><td>2020</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
@@ -267,4 +271,4 @@ Geltungsbereich am 5. April 2024[^t-1]
 <tr><td colspan="5"><sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-1]: [AS 2011 1925](https://fedlex.data.admin.ch/eli/oc/2011/280); [2014 3285](https://fedlex.data.admin.ch/eli/oc/2014/569); [2016 3863](https://fedlex.data.admin.ch/eli/oc/2016/652); [2018 1259](https://fedlex.data.admin.ch/eli/oc/2018/206); [2019 3299](https://fedlex.data.admin.ch/eli/oc/2019/605); [2020 3341](https://fedlex.data.admin.ch/eli/oc/2020/569); [2021 82](https://fedlex.data.admin.ch/eli/oc/2021/82); [2024 145](https://fedlex.data.admin.ch/eli/oc/2024/145). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-1]: [AS 2011 1925](https://fedlex.data.admin.ch/eli/oc/2011/280); [2014 3285](https://fedlex.data.admin.ch/eli/oc/2014/569); [2016 3863](https://fedlex.data.admin.ch/eli/oc/2016/652); [2018 1259](https://fedlex.data.admin.ch/eli/oc/2018/206); [2019 3299](https://fedlex.data.admin.ch/eli/oc/2019/605); [2020 3341](https://fedlex.data.admin.ch/eli/oc/2020/569); [2021 82](https://fedlex.data.admin.ch/eli/oc/2021/82); [2024 145](https://fedlex.data.admin.ch/eli/oc/2024/145), [782](https://fedlex.data.admin.ch/eli/oc/2024/782). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
