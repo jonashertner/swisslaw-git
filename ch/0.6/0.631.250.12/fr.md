@@ -3,11 +3,11 @@ sr: "0.631.250.12"
 title: Convention européenne du 9 décembre 1960 relative au régime douanier des palettes utilisées dans les transports internationaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/512_508_524"
 language: fr
-version: 2011-02-23
+version: 2024-12-13
 adopted: 1960-12-09
 in_force: 1963-07-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/512_508_524/20110223/fr/xml/fedlex-data-admin-ch-eli-cc-1963-512_508_524-20110223-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/512_508_524/20110223/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/512_508_524/20241213/fr/xml/fedlex-data-admin-ch-eli-cc-1963-512_508_524-20241213-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/512_508_524/20241213/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,15 @@ RO **1963** 508; FF **1962** II 1161
 
 Conclue à Genève le 9 décembre 1960 Approuvée par l’Assemblée fédérale le 7 mars 1963[^t-1] Instrument de ratification déposé par la Suisse le 24 avril 1963 Entrée en vigueur pour la Suisse le 23 juillet 1963
 
-(Etat le 23 février 2011)
+(État le 13 décembre 2024)
 
 [^t-1]: Art. 1 de l’AF du 7 mars 1963 ([RO 1963 439](https://fedlex.data.admin.ch/eli/oc/1963/443_439_459)).
 
 Les Parties contractantes,
 
-Constatant l’extension de l’emploi des palettes dans les transports internationaux, notamment grâce à l’utilisation en commun de ces dispositifs,
+constatant l’extension de l’emploi des palettes dans les transports internationaux, notamment grâce à l’utilisation en commun de ces dispositifs,
 
-Désireuses, pour faciliter les transports internationaux et en réduire le coût, de favoriser cette extension,
+désireuses, pour faciliter les transports internationaux et en réduire le coût, de favoriser cette extension,
 
 sont convenues de ce qui suit:
 
@@ -50,7 +50,7 @@ Aux fins de la présente Convention, on entend:
 
 Chaque Partie contractante admettra les palettes à l’importation en franchise des droits et taxes d’entrée, sans prohibitions ni restrictions d’importation, à la condition:
 
-- (a) qu’elles aient été exportées préalablement ou qu’elles soient réexportées ultérieurement; ou
+- (a) qu’elles aient été exportées préalablement ou qu’elles soient réexportées ultérieurement, ou
 - (b) qu’un nombre égal de palettes de même type et de valeur sensiblement égale ait été exporté préalablement ou soit exporté ultérieurement.
 
 <sup>2.</sup> Sous réserve des dispositions de l’article 3 de la présente Convention, la procédure et les modalités d’application du régime prévu au paragraphe 1 du présent article seront déterminées par la réglementation de chacune des Parties contractantes. Cette réglementation pourra notamment comprendre des dispositions destinées à empêcher qu’il ne puisse être importé à titre définitif en franchise des droits et taxes d’entrée un plus grand nombre de palettes qu’il n’en a été ou qu’il n’en sera exporté.
@@ -88,7 +88,9 @@ La présente Convention ne s’oppose pas à l’octroi pour les importations et
 
 #### Art. 6
 
-<sup>1.</sup> Les pays membres de la Commission économique pour l’Europe et les pays admis à la Commission à titre consultatif conformément au paragraphe 8 du mandat de cette Commission peuvent devenir Parties contractantes à la présente Convention
+<sup>1.</sup>
+
+Les pays membres de la Commission économique pour l’Europe et les pays admis à la Commission à titre consultatif conformément au paragraphe 8 du mandat de cette Commission peuvent devenir Parties contractantes à la présente Convention:
 
 - (a) en la signant,
 - (b) en la ratifiant après l’avoir signée sous réserve de ratification, ou
@@ -136,7 +138,7 @@ La présente Convention cessera de produire ses effets si, après son entrée en
 
 <sup>2.</sup> Toute Partie contractante qui aura formulé une réserve conformément au paragraphe 1 du présent article pourra à tout moment lever cette réserve par une notification adressée au Secrétaire général.
 
-<sup>3.</sup> A l’exception de la réserve prévue au paragraphe 1 du présent article, aucune réserve à la présente Convention ne sera admise.
+<sup>3.</sup> À l’exception de la réserve prévue au paragraphe 1 du présent article, aucune réserve à la présente Convention ne sera admise.
 
 #### Art. 13
 
@@ -150,7 +152,9 @@ La présente Convention cessera de produire ses effets si, après son entrée en
 
 <sup>1.</sup> Toute Partie contractante pourra proposer un ou plusieurs amendements à la présente Convention. Le texte de tout projet d’amendement sera communiqué au Secrétaire général de l’Organisation des Nations Unies, qui le communiquera à toutes les Parties contractantes et le portera à la connaissance des autres pays visés au paragraphe 1 de l’article 6 de la présente Convention.
 
-<sup>2.</sup> Dans un délai de six mois à compter de la date de la communication par le Secrétaire général du projet d’amendement, toute Partie contractante peut faire connaître au Secrétariat général
+<sup>2.</sup>
+
+Dans un délai de six mois à compter de la date de la communication par le Secrétaire général du projet d’amendement, toute Partie contractante peut faire connaître au Secrétariat général:
 
 - (a) soit qu’elle a une objection à l’amendement proposé,
 - (b) soit que, bien qu’elle ait l’intention d’accepter le projet, les conditions nécessaires à cette acceptation ne se trouvent pas encore remplies dans son pays.
@@ -163,10 +167,13 @@ La présente Convention cessera de produire ses effets si, après son entrée en
 
 Si aucune objection n’a été formulée au projet d’amendement dans les conditions prévues aux paragraphes 2 et 3 du présent article, l’amendement sera réputé accepté à la date suivante:
 
-- (a) lorsque aucune Partie contractante n’a adressé de communication en application du paragraphe 2 (b) du présent article, à l’expiration du délai de six mois visé à ce paragraphe 2,
-- (b) lorsque au moins une Partie contractante a adressé une communication en application du paragraphe 2 (b) du présent article, à la plus rapprochée des deux dates suivantes:
-- – date à laquelle toutes les Parties contractantes ayant adressé une telle communication auront notifié au Secrétaire général leur acceptation du projet, cette date étant toutefois reportée à l’expiration du délai de six mois visé au paragraphe 2 si toutes les acceptations étaient notifiées antérieurement à cette expiration;
-- – expiration du délai de neuf mois visé au paragraphe 3 du présent article.
+- (a) lorsque aucune Partie contractante n’a adressé de communication en application du paragraphe 2 (b) du présent article, à l’expiration du délai de six mois visé à ce paragraphe 2;
+- (b)
+
+  lorsque au moins une Partie contractante a adressé une communication en application du paragraphe 2 (b) du présent article, à la plus rapprochée des deux dates suivantes:
+
+  - – date à laquelle toutes les Parties contractantes ayant adressé une telle communication auront notifié au Secrétaire général leur acceptation du projet, cette date étant toutefois reportée à l’expiration du délai de six mois visé au paragraphe 2 si toutes les acceptations étaient notifiées antérieurement à cette expiration,
+  - – expiration du délai de neuf mois visé au paragraphe 3 du présent article.
 
 <sup>6.</sup> Tout amendement réputé accepté entrera en vigueur six mois après la date à laquelle il aura été réputé accepté.
 
@@ -188,66 +195,61 @@ Outre les notifications prévues aux articles 13 et 14 de la présente Conventio
 
 Après le 15 mars 1961, l’original de la présente Convention sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en transmettra des copies certifiées conformes à chacun des pays visés aux paragraphes 1 et 2 de l’article 6 de la présente Convention.
 
-*En* *foi* *de quoi,* les soussignés, à ce dûment autorisés, ont signé la présente Convention. Fait à Genève, le neuf décembre mil neuf cent soixante, en un seul exemplaire, en langues anglaise et française, les deux textes faisant également foi.
+*En* *foi* *de quoi,* les soussignés, à ce dûment autorisés, ont signé la présente Convention. Fait à Genève, le neuf décembre mil neuf cent soixante, en un seul exemplaire, en langues anglaise et française, les deux textes faisant également foi. (Suivent les signatures)
 
-(Suivent les signatures)
-
-## Champ d'application le 23 février 2011****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: [RO 1975 899](https://fedlex.data.admin.ch/eli/oc/1975/899_899_898), [1983 149](https://fedlex.data.admin.ch/eli/oc/1983/149_149_149), [2005 1221](https://fedlex.data.admin.ch/eli/oc/2005/174), [2008 4127](https://fedlex.data.admin.ch/eli/oc/2008/580)et **2011** 1011. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.dfae.admin.ch/traites).
+Champ d’application le 13 décembre 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Albanie</td><td>14 octobre</td><td>2008 A</td><td>12 janvier</td><td>2009</td></tr>
-<tr><td colspan="2">Allemagne</td><td>29 septembre</td><td>1964</td><td>28 décembre</td><td>1964</td></tr>
-<tr><td colspan="2">Australie</td><td>1<sup>er</sup> octobre</td><td>1969 A</td><td>30 décembre</td><td>1969</td></tr>
-<tr><td colspan="2">Autriche</td><td>7 octobre</td><td>1963 A</td><td>5 janvier</td><td>1964</td></tr>
-<tr><td colspan="2">Belgique</td><td>14 mars</td><td>1962</td><td>12 juin</td><td>1962</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>12 janvier</td><td>1994 S</td><td>6 mars</td><td>1992</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>28 février</td><td>1961 Si</td><td>12 juin</td><td>1962</td></tr>
-<tr><td colspan="2">Chine</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">[tab] Hong Kong<sup>a</sup></td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td colspan="2">Croatie</td><td>31 août</td><td>1994 S</td><td>8 octobre</td><td>1991</td></tr>
-<tr><td colspan="2">Cuba<sup>\*</sup></td><td>26 septembre</td><td>1963 A</td><td>25 décembre</td><td>1963</td></tr>
-<tr><td colspan="2">Danemark</td><td>14 mars</td><td>1961 Si</td><td>12 juin</td><td>1962</td></tr>
-<tr><td colspan="2">Espagne</td><td>2 février</td><td>1973 A</td><td>3 mai</td><td>1973</td></tr>
-<tr><td colspan="2">Finlande</td><td>19 août</td><td>1966 A</td><td>17 novembre</td><td>1966</td></tr>
-<tr><td colspan="2">France</td><td>12 mars</td><td>1962</td><td>12 juin</td><td>1962</td></tr>
-<tr><td colspan="2">Hongrie<sup>\*</sup></td><td>26 juillet</td><td>1963 A</td><td>24 octobre</td><td>1963</td></tr>
-<tr><td colspan="2">Italie</td><td>5 janvier</td><td>1967</td><td>5 avril</td><td>1967</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>31 juillet</td><td>1962</td><td>29 octobre</td><td>1962</td></tr>
-<tr><td colspan="2">Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
-<tr><td colspan="2">Norvège</td><td>27 octobre</td><td>1964 A</td><td>25 janvier</td><td>1965</td></tr>
-<tr><td colspan="2">Pays-Bas</td><td>22 octobre</td><td>1962</td><td>20 janvier</td><td>1963</td></tr>
-<tr><td colspan="2">[tab] Aruba<sup>b</sup></td><td>30 décembre</td><td>1985</td><td>1<sup>er</sup> janvier</td><td>1986</td></tr>
-<tr><td colspan="2">[tab] Curaçao</td><td>22 octobre</td><td>1962</td><td>20 janvier</td><td>1963</td></tr>
-<tr><td colspan="2">[tab] Sint Maarten</td><td>22 octobre</td><td>1962</td><td>20 janvier</td><td>1963</td></tr>
-<tr><td colspan="2">Pologne</td><td>4 septembre</td><td>1969 A</td><td>3 décembre</td><td>1969</td></tr>
-<tr><td colspan="2">Portugal</td><td>15 janvier</td><td>1968 A</td><td>14 avril</td><td>1968</td></tr>
-<tr><td colspan="2">République tchèque<sup>\*</sup></td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Roumanie<sup>\*</sup></td><td>15 mai</td><td>1964 A</td><td>13 août</td><td>1964</td></tr>
-<tr><td colspan="2">Royaume-Uni</td><td>1<sup>er</sup> octobre</td><td>1962</td><td>30 décembre</td><td>1962</td></tr>
-<tr><td colspan="2">[tab] Ile de Man</td><td>1<sup>er</sup> octobre</td><td>1962 A</td><td>30 décembre</td><td>1962</td></tr>
-<tr><td colspan="2">[tab] Iles Falkland</td><td>1<sup>er</sup> octobre</td><td>1962 A</td><td>30 décembre</td><td>1962</td></tr>
-<tr><td colspan="2">[tab] Iles de la Manche</td><td>1<sup>er</sup> octobre</td><td>1962 A</td><td>30 décembre</td><td>1962</td></tr>
-<tr><td colspan="2">[tab] Montserrat</td><td>1<sup>er</sup> octobre</td><td>1962 A</td><td>30 décembre</td><td>1962</td></tr>
-<tr><td colspan="2">Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
-<tr><td colspan="2">Slovaquie<sup>\*</sup></td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Slovénie</td><td>3 novembre</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td colspan="2">Suède</td><td>1<sup>er</sup> mars</td><td>1961 Si</td><td>12 juin</td><td>1962</td></tr>
-<tr><td colspan="2">Suisse<sup>\*</sup></td><td>24 avril</td><td>1963</td><td>23 juillet</td><td>1963</td></tr>
-<tr><td colspan="2">Turquie</td><td>10 octobre</td><td>1974 A</td><td>8 janvier</td><td>1975</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations. Les réserves et déclarations, à l’exception de celle de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet des Nations Unies: http://untreaty.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Du 30 déc. 1962 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Au 1<sup>er</sup> janv. 1986 l’île d’Aruba, qui faisait partie des Antilles néerlandaises, a acquis son autonomie interne au sein du Royaume des Pays-Bas. Ce changement n’affecte que le fonctionnement des relations constitutionnelles internes au sein du Royaume.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>14 octobre</td><td>2008 A</td><td>12 janvier</td><td>2009</td></tr>
+<tr><td>Allemagne</td><td>29 septembre</td><td>1964</td><td>28 décembre</td><td>1964</td></tr>
+<tr><td>Australie</td><td>1<sup>er</sup> octobre</td><td>1969 A</td><td>30 décembre</td><td>1969</td></tr>
+<tr><td>Autriche</td><td>7 octobre</td><td>1963 A</td><td>5 janvier</td><td>1964</td></tr>
+<tr><td>Belgique</td><td>14 mars</td><td>1962</td><td>12 juin</td><td>1962</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>12 janvier</td><td>1994 S</td><td>6 mars</td><td>1992</td></tr>
+<tr><td>Bulgarie</td><td>28 février</td><td>1961 Si</td><td>12 juin</td><td>1962</td></tr>
+<tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>6 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Croatie</td><td>31 août</td><td>1994 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Cuba\*</td><td>26 septembre</td><td>1963 A</td><td>25 décembre</td><td>1963</td></tr>
+<tr><td>Danemark</td><td>14 mars</td><td>1961 Si</td><td>12 juin</td><td>1962</td></tr>
+<tr><td>Espagne</td><td>2 février</td><td>1973 A</td><td>3 mai</td><td>1973</td></tr>
+<tr><td>Finlande</td><td>19 août</td><td>1966 A</td><td>17 novembre</td><td>1966</td></tr>
+<tr><td>France</td><td>12 mars</td><td>1962</td><td>12 juin</td><td>1962</td></tr>
+<tr><td>Hongrie\*</td><td>26 juillet</td><td>1963 A</td><td>24 octobre</td><td>1963</td></tr>
+<tr><td>Italie</td><td>5 janvier</td><td>1967</td><td>5 avril</td><td>1967</td></tr>
+<tr><td>Luxembourg</td><td>31 juillet</td><td>1962</td><td>29 octobre</td><td>1962</td></tr>
+<tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
+<tr><td>Norvège</td><td>27 octobre</td><td>1964 A</td><td>25 janvier</td><td>1965</td></tr>
+<tr><td>Pays-Bas</td><td>22 octobre</td><td>1962</td><td>20 janvier</td><td>1963</td></tr>
+<tr><td>Aruba</td><td>22 octobre</td><td>1962</td><td>20 janvier</td><td>1963</td></tr>
+<tr><td>Curaçao</td><td>22 octobre</td><td>1962</td><td>20 janvier</td><td>1963</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>22 octobre</td><td>1962</td><td>20 janvier</td><td>1963</td></tr>
+<tr><td>Sint Maarten</td><td>22 octobre</td><td>1962</td><td>20 janvier</td><td>1963</td></tr>
+<tr><td>Pologne</td><td>4 septembre</td><td>1969 A</td><td>3 décembre</td><td>1969</td></tr>
+<tr><td>Portugal</td><td>15 janvier</td><td>1968 A</td><td>14 avril</td><td>1968</td></tr>
+<tr><td>République tchèque\*</td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Roumanie\*</td><td>15 mai</td><td>1964 A</td><td>13 août</td><td>1964</td></tr>
+<tr><td>Royaume-Uni</td><td>1<sup>er</sup> octobre</td><td>1962</td><td>30 décembre</td><td>1962</td></tr>
+<tr><td>Île de Man</td><td>1<sup>er</sup> octobre</td><td>1962 A</td><td>30 décembre</td><td>1962</td></tr>
+<tr><td>Îles Falkland</td><td>1<sup>er</sup> octobre</td><td>1962 A</td><td>30 décembre</td><td>1962</td></tr>
+<tr><td>Îles de la Manche</td><td>1<sup>er</sup> octobre</td><td>1962 A</td><td>30 décembre</td><td>1962</td></tr>
+<tr><td>Montserrat</td><td>1<sup>er</sup> octobre</td><td>1962 A</td><td>30 décembre</td><td>1962</td></tr>
+<tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
+<tr><td>Slovaquie\*</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovénie</td><td>3 novembre</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Suède</td><td>1<sup>er</sup> mars</td><td>1961 Si</td><td>12 juin</td><td>1962</td></tr>
+<tr><td>Suisse\*</td><td>24 avril</td><td>1963</td><td>23 juillet</td><td>1963</td></tr>
+<tr><td>Turquie</td><td>10 octobre</td><td>1974 A</td><td>8 janvier</td><td>1975</td></tr>
+<tr><th colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 30 déc. 1962 au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</th></tr>
 </table>
+
+[^t-2]: [RO 1975 899](https://fedlex.data.admin.ch/eli/oc/1975/899_899_898); [1983 149](https://fedlex.data.admin.ch/eli/oc/1983/149_149_149); [2005 1221](https://fedlex.data.admin.ch/eli/oc/2005/174); [2008 4127](https://fedlex.data.admin.ch/eli/oc/2008/580); [2011 1011](https://fedlex.data.admin.ch/eli/oc/2011/151); [2024 778](https://fedlex.data.admin.ch/eli/oc/2024/778). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Déclaration
 
 Suisse
 
-La convention s’applique également à la Principauté de Liechtenstein, aussi longtemps que celle‑ci reste liée à la Suisse par un traité d’union douanière[^annexu1-lvlu2-2].
+La convention s’applique également à la Principauté de Liechtenstein, aussi longtemps que celle‑ci reste liée à la Suisse par un traité d’union douanière[^t-3].
 
-[^annexu1-lvlu2-2]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^t-3]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)

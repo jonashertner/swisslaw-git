@@ -3,11 +3,11 @@ sr: "0.631.250.12"
 title: Convenzione europea del 9 dicembre 1960 concernente il trattamento doganale delle palette impiegate nei trasporti internazionali
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/512_508_524"
 language: it
-version: 2011-02-23
+version: 2024-12-13
 adopted: 1960-12-09
 in_force: 1963-07-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/512_508_524/20110223/it/xml/fedlex-data-admin-ch-eli-cc-1963-512_508_524-20110223-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/512_508_524/20110223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/512_508_524/20241213/it/xml/fedlex-data-admin-ch-eli-cc-1963-512_508_524-20241213-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/512_508_524/20241213/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1963/512_508_524/20110223/it"
 
 RU **1963** 524; FF **1962** II 1177 ediz. ted.; 1161 ediz. franc.
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa a Ginevra il 9 dicembre 1960 Approvata dall’Assemblea federale il 7 marzo 1963[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 24 aprile 1963 Entrata in vigore per la Svizzera il 23 luglio 1963
+Conchiusa a Ginevra il 9 dicembre 1960 Approvata dall’Assemblea federale il 7 marzo 1963[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 24 aprile 1963 Entrata in vigore per la Svizzera il 23 luglio 1963
 
-(Stato 23 febbraio 2011)
+(Stato 13 dicembre 2024)
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: Art. 1 del DF del 7 mar. 1963 ([RU 1963 459](https://fedlex.data.admin.ch/eli/oc/1963/443_439_459)).
+[^t-1]: Art. 1 del DF del 7 mar. 1963 ([RU 1963 459](https://fedlex.data.admin.ch/eli/oc/1963/443_439_459)).
 
 Le Parti contraenti,
 
@@ -79,9 +78,9 @@ Le disposizioni del numero 1 sono applicabili solamente se:
 
 #### Art. 4
 
-<sup>1.</sup> Ciascuna Parte contraente si riserva il diritto di riscuotere i diritti e le tasse interne e segnatamente i diritti e le tasse d’importazione in vigore sul suo territorio per le palette acquistate oppure contrattate in altro modo da parte di persone domiciliate o stabilite nello stesso.
+Ciascuna Parte contraente si riserva il diritto di riscuotere i diritti e le tasse interne e segnatamente i diritti e le tasse d’importazione in vigore sul suo territorio per le palette acquistate oppure contrattate in altro modo da parte di persone domiciliate o stabilite nello stesso.
 
-<sup>2.</sup> Ciascuna Parte contraente si riserva inoltre il diritto di rifiutare, in caso d’esportazione di palette in virtù della presente Convenzione, la restituzione dei diritti e tasse come anche la concessione parziale o completa delle altre agevolazioni che fossero altrimenti previsti per l’esportazione.
+Ciascuna Parte contraente si riserva inoltre il diritto di rifiutare, in caso d’esportazione di palette in virtù della presente Convenzione, la restituzione dei diritti e tasse come anche la concessione parziale o completa delle altre agevolazioni che fossero altrimenti previsti per l’esportazione.
 
 #### Art. 5
 
@@ -171,9 +170,12 @@ Nel termine di sei mesi a contare dalla data in cui è stato comunicato il testo
 Ove non fosse stata sollevata nessuna obiezione di cui ai numeri 2 e 3, l’emendamento è considerato accettato:
 
 - (a) alla scadenza del termine indicato al numero 2;
-- (b) se invece una o più parti avessero applicato la disposizione del numero 2, lettera (b), alla più vicina delle due date seguenti:
-- – sei mesi dalla data in cui tutte le Parti contraenti che hanno applicato detta disposizione hanno notificato l’accettazione al Segretario generale, semprechè le notificazioni delle altre Parti siano avvenute entro il termine di sei mesi prescritto al numero 3.
-- – la scadenza dei nove mesi di cui al numero 4.
+- (b)
+
+  se invece una o più parti avessero applicato la disposizione del numero 2, lettera (b), alla più vicina delle due date seguenti:
+
+  - – sei mesi dalla data in cui tutte le Parti contraenti che hanno applicato detta disposizione hanno notificato l’accettazione al Segretario generale, semprechè le notificazioni delle altre Parti siano avvenute entro il termine di sei mesi prescritto al numero 3,
+  - – la scadenza dei nove mesi di cui al numero 4.
 
 <sup>6.</sup> Ogni emendamento accettato entra in vigore dopo sei mesi a contare dalla data d’accettazione.
 
@@ -199,57 +201,54 @@ L’originale della presente Convenzione sarà depositato, dopo il 15 marzo 1961
 
 (Seguono le firme)
 
-## Campo d'applicazione il 23 febbraio 2011****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: RU **1975** 899, [1983 149](https://fedlex.data.admin.ch/eli/oc/1983/149_149_149), [2005 1221](https://fedlex.data.admin.ch/eli/oc/2005/174), [2008 4127](https://fedlex.data.admin.ch/eli/oc/2008/580)e [2011 1011](https://fedlex.data.admin.ch/eli/oc/2011/151). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.dfae.admin.ch/trattati).
+Campo d'applicazione il 13 dicembre 2024[^t-2]
 
 <table>
-<tr><th colspan="3">Stati partecipanti</th><th colspan="2">Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th colspan="2"></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="3">Albania</td><td colspan="2">14 ottobre</td><td colspan="2">2008 A</td><td>12 gennaio</td><td>2009</td></tr>
-<tr><td colspan="3">Australia</td><td colspan="2">1° ottobre</td><td colspan="2">1969 A</td><td>30 dicembre</td><td>1969</td></tr>
-<tr><td colspan="3">Austria</td><td colspan="2">7 ottobre</td><td colspan="2">1963 A</td><td>5 gennaio</td><td>1964</td></tr>
-<tr><td colspan="3">Belgio</td><td colspan="2">14 marzo</td><td colspan="2">1962</td><td>12 giugno</td><td>1962</td></tr>
-<tr><td colspan="3">Bosnia e Erzegovina</td><td colspan="2">12 gennaio</td><td colspan="2">1994 S</td><td>6 marzo</td><td>1992</td></tr>
-<tr><td colspan="3">Bulgaria<sup>a</sup></td><td colspan="2">28 febbraio</td><td colspan="2">1961 F</td><td>12 giugno</td><td>1962</td></tr>
-<tr><td colspan="3">Ceca, Repubblica<sup>\*</sup></td><td colspan="2">2 giugno</td><td colspan="2">1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="3">Cina</td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td colspan="3">[tab] Hong Kong<sup>a</sup></td><td colspan="2">6 giugno</td><td colspan="2">1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td colspan="3">Croazia</td><td colspan="2">31 agosto</td><td colspan="2">1994 S</td><td>8 ottobre</td><td>1991</td></tr>
-<tr><td colspan="3">Cuba<sup>\*</sup></td><td colspan="2">26 settembre</td><td colspan="2">1963 A</td><td>25 dicembre</td><td>1963</td></tr>
-<tr><td colspan="3">Danimarca</td><td colspan="2">14 marzo</td><td colspan="2">1961 F</td><td>12 giugno</td><td>1962</td></tr>
-<tr><td colspan="3">Finlandia</td><td colspan="2">19 agosto</td><td colspan="2">1966 A</td><td>17 novembre</td><td>1966</td></tr>
-<tr><td colspan="3">Francia</td><td colspan="2">12 marzo</td><td colspan="2">1962</td><td>12 giugno</td><td>1962</td></tr>
-<tr><td colspan="3">Germania</td><td colspan="2">29 settembre</td><td colspan="2">1964</td><td>28 dicembre</td><td>1964</td></tr>
-<tr><td colspan="3">Italia</td><td colspan="2">5 gennaio</td><td colspan="2">1967</td><td>5 aprile</td><td>1967</td></tr>
-<tr><td colspan="3">Lussemburgo</td><td colspan="2">31 luglio</td><td colspan="2">1962</td><td>29 ottobre</td><td>1962</td></tr>
-<tr><td colspan="3">Montenegro</td><td colspan="2">23 ottobre</td><td colspan="2">2006 S</td><td>3 giugno</td><td>2006</td></tr>
-<tr><td colspan="3">Norvegia</td><td colspan="2">27 ottobre</td><td colspan="2">1964 A</td><td>25 gennaio</td><td>1965</td></tr>
-<tr><td colspan="3">Paesi Bassi</td><td colspan="2">22 ottobre</td><td colspan="2">1962</td><td>20 gennaio</td><td>1963</td></tr>
-<tr><td colspan="3">[tab] Aruba<sup>b</sup></td><td colspan="2">30 dicembre</td><td colspan="2">1985</td><td>1° gennaio</td><td>1986</td></tr>
-<tr><td colspan="3">[tab] Curaçao</td><td colspan="2">22 ottobre</td><td colspan="2">1962</td><td>20 gennaio</td><td>1963</td></tr>
-<tr><td colspan="3">[tab] Sint Maarten</td><td colspan="2">22 ottobre</td><td colspan="2">1962</td><td>20 gennaio</td><td>1963</td></tr>
-<tr><td colspan="3">Polonia</td><td colspan="2">4 settembre</td><td colspan="2">1969 A</td><td>3 dicembre</td><td>1969</td></tr>
-<tr><td colspan="3">Portogallo</td><td colspan="2">15 gennaio</td><td colspan="2">1968 A</td><td>14 aprile</td><td>1968</td></tr>
-<tr><td colspan="3">Regno Unito</td><td colspan="2">1° ottobre</td><td colspan="2">1962</td><td>30 dicembre</td><td>1962</td></tr>
-<tr><td colspan="3">[tab] Isola di Man</td><td colspan="2">1° ottobre</td><td colspan="2">1962 A</td><td>30 dicembre</td><td>1962</td></tr>
-<tr><td colspan="3">[tab] Isole del Canale</td><td colspan="2">1° ottobre</td><td colspan="2">1962 A</td><td>30 dicembre</td><td>1962</td></tr>
-<tr><td colspan="3">[tab] Isole Falkland</td><td colspan="2">1° ottobre</td><td colspan="2">1962 A</td><td>30 dicembre</td><td>1962</td></tr>
-<tr><td colspan="3">[tab] Montserrat</td><td colspan="2">1° ottobre</td><td colspan="2">1962 A</td><td>30 dicembre</td><td>1962</td></tr>
-<tr><td colspan="3">Romania<sup>\*</sup></td><td colspan="2">15 maggio</td><td colspan="2">1964 A</td><td>13 agosto</td><td>1964</td></tr>
-<tr><td colspan="3">Serbia</td><td colspan="2">12 marzo</td><td colspan="2">2001 S</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td colspan="3">Slovacchia<sup>\*</sup></td><td colspan="2">28 maggio</td><td colspan="2">1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="3">Slovenia</td><td colspan="2">3 novembre</td><td colspan="2">1992 S</td><td>25 giugno</td><td>1991</td></tr>
-<tr><td colspan="3">Spagna</td><td colspan="2">2 febbraio</td><td colspan="2">1973 A</td><td>3 maggio</td><td>1973</td></tr>
-<tr><td colspan="3">Svezia</td><td colspan="2">1° marzo</td><td colspan="2">1961 F</td><td>12 giugno</td><td>1962</td></tr>
-<tr><td colspan="3">Svizzera<sup>\*</sup></td><td colspan="2">24 aprile</td><td colspan="2">1963</td><td>23 luglio</td><td>1963</td></tr>
-<tr><td colspan="3">Turchia</td><td colspan="2">10 ottobre</td><td colspan="2">1974 A</td><td>8 gennaio</td><td>1975</td></tr>
-<tr><td colspan="3">Ungheria<sup>\*</sup></td><td colspan="2">26 luglio</td><td colspan="2">1963 A</td><td>24 ottobre</td><td>1963</td></tr>
-<tr><td>\*</td><td colspan="8">Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet della Organizzazione delle Nazioni Unite: http://untreaty.un.org/ oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="8">Dal 30 dic. 1962 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="8">Il 1° gen. 1986 l’isola di Aruba, che faceva parte delle Antille olandesi, ha ottenuto l’autonomia interna in seno al Regno dei Paesi Bassi. Questo cambiamento ha effetti unicamente sulle relazioni di diritto costituzionale interne al Regno.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>14 ottobre</td><td>2008 A</td><td>12 gennaio</td><td>2009</td></tr>
+<tr><td>Australia</td><td>1° ottobre</td><td>1969 A</td><td>30 dicembre</td><td>1969</td></tr>
+<tr><td>Austria</td><td>7 ottobre</td><td>1963 A</td><td>5 gennaio</td><td>1964</td></tr>
+<tr><td>Belgio</td><td>14 marzo</td><td>1962</td><td>12 giugno</td><td>1962</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>12 gennaio</td><td>1994 S</td><td>6 marzo</td><td>1992</td></tr>
+<tr><td>Bulgaria<sup>a</sup></td><td>28 febbraio</td><td>1961 F</td><td>12 giugno</td><td>1962</td></tr>
+<tr><td>Ceca, Repubblica<sup>\*</sup></td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>[tab] Hong Kong <sup>a</sup></td><td>6 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Croazia</td><td>31 agosto</td><td>1994 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Cuba<sup>\*</sup></td><td>26 settembre</td><td>1963 A</td><td>25 dicembre</td><td>1963</td></tr>
+<tr><td>Danimarca</td><td>14 marzo</td><td>1961 F</td><td>12 giugno</td><td>1962</td></tr>
+<tr><td>Finlandia</td><td>19 agosto</td><td>1966 A</td><td>17 novembre</td><td>1966</td></tr>
+<tr><td>Francia</td><td>12 marzo</td><td>1962</td><td>12 giugno</td><td>1962</td></tr>
+<tr><td>Germania</td><td>29 settembre</td><td>1964</td><td>28 dicembre</td><td>1964</td></tr>
+<tr><td>Italia</td><td>5 gennaio</td><td>1967</td><td>5 aprile</td><td>1967</td></tr>
+<tr><td>Lussemburgo</td><td>31 luglio</td><td>1962</td><td>29 ottobre</td><td>1962</td></tr>
+<tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Norvegia</td><td>27 ottobre</td><td>1964 A</td><td>25 gennaio</td><td>1965</td></tr>
+<tr><td>Paesi Bassi</td><td>22 ottobre</td><td>1962</td><td>20 gennaio</td><td>1963</td></tr>
+<tr><td>Aruba</td><td>22 ottobre</td><td>1962</td><td>20 gennaio</td><td>1963</td></tr>
+<tr><td>Curasao</td><td>22 ottobre</td><td>1962</td><td>20 gennaio</td><td>1963</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sint Eustatius e Saba)</td><td>22 ottobre</td><td>1962</td><td>20 gennaio</td><td>1963</td></tr>
+<tr><td>Polonia</td><td>4 settembre</td><td>1969 A</td><td>3 dicembre</td><td>1969</td></tr>
+<tr><td>Portogallo</td><td>15 gennaio</td><td>1968 A</td><td>14 aprile</td><td>1968</td></tr>
+<tr><td>Regno Unito</td><td>1° ottobre</td><td>1962</td><td>30 dicembre</td><td>1962</td></tr>
+<tr><td>[tab] Isola di Man</td><td>1° ottobre</td><td>1962 A</td><td>30 dicembre</td><td>1962</td></tr>
+<tr><td>[tab] Isole del Canale</td><td>1° ottobre</td><td>1962 A</td><td>30 dicembre</td><td>1962</td></tr>
+<tr><td>[tab] Isole Falkland</td><td>1° ottobre</td><td>1962 A</td><td>30 dicembre</td><td>1962</td></tr>
+<tr><td>[tab] Montserrat</td><td>1° ottobre</td><td>1962 A</td><td>30 dicembre</td><td>1962</td></tr>
+<tr><td>Romania<sup>\*</sup></td><td>15 maggio</td><td>1964 A</td><td>13 agosto</td><td>1964</td></tr>
+<tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Slovacchia<sup>\*</sup></td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovenia</td><td>3 novembre</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Spagna</td><td>2 febbraio</td><td>1973 A</td><td>3 maggio</td><td>1973</td></tr>
+<tr><td>Svezia</td><td>1° marzo</td><td>1961 F</td><td>12 giugno</td><td>1962</td></tr>
+<tr><td>Svizzera<sup>\*</sup></td><td>24 aprile</td><td>1963</td><td>23 luglio</td><td>1963</td></tr>
+<tr><td>Turchia</td><td>10 ottobre</td><td>1974 A</td><td>8 gennaio</td><td>1975</td></tr>
+<tr><td>Ungheria<sup>\*</sup></td><td>26 luglio</td><td>1963 A</td><td>24 ottobre</td><td>1963</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet della Organizzazione delle Nazioni Unite: http://untreaty.un.org/ oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
+<tr><td colspan="5"><sup>a</sup> Dal 30 dic. 1962 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
+
+[^t-2]: [RU 1975 898](https://fedlex.data.admin.ch/eli/oc/1975/899_899_898); [1983 149](https://fedlex.data.admin.ch/eli/oc/1983/149_149_149); [2005 1221](https://fedlex.data.admin.ch/eli/oc/2005/174); [2008 4127](https://fedlex.data.admin.ch/eli/oc/2008/580); [2011 1011](https://fedlex.data.admin.ch/eli/oc/2011/151); [2024 778](https://fedlex.data.admin.ch/eli/oc/2024/778). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazione svizzera
 

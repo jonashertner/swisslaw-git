@@ -3,11 +3,11 @@ sr: "0.631.250.12"
 title: "Europäisches Abkommen vom 9. Dezember 1960 über die Zollbehandlung von Paletten, die im internationalen Verkehr verwendet werden"
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/512_508_524"
 language: de
-version: 2011-02-23
+version: 2024-12-13
 adopted: 1960-12-09
 in_force: 1963-07-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/512_508_524/20110223/de/xml/fedlex-data-admin-ch-eli-cc-1963-512_508_524-20110223-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/512_508_524/20110223/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/512_508_524/20241213/de/xml/fedlex-data-admin-ch-eli-cc-1963-512_508_524-20241213-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/512_508_524/20241213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1963/512_508_524/20110223/de"
 
 AS **1963** 512; BBl **1962** II 1177
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Genf am 9. Dezember 1960 Von der Bundesversammlung genehmigt am 7. März 1963[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 24. April 1963 In Kraft getreten für die Schweiz am 23. Juli 1963
+Abgeschlossen in Genf am 9. Dezember 1960 Von der Bundesversammlung genehmigt am 7. März 1963[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 24. April 1963 In Kraft getreten für die Schweiz am 23. Juli 1963
 
-(Stand am 23. Februar 2011)
+(Stand am 13. Dezember 2024)
 
-[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 des BB vom 7. März 1963 ([AS 1963 443](https://fedlex.data.admin.ch/eli/oc/1963/443_439_459))
+[^t-1]: Art. 1 des BB vom 7. März 1963 ([AS 1963 443](https://fedlex.data.admin.ch/eli/oc/1963/443_439_459))
 
 Die Vertragsparteien,
 
@@ -37,7 +36,9 @@ sind wie folgt übereingekommen:
 
 #### Art. 1
 
-<sup>1.</sup> Im Sinne dieses Abkommens bedeutet der Begriff
+<sup>1.</sup>
+
+Im Sinne dieses Abkommens bedeutet der Begriff:
 
 - (a) «Eingangsabgaben» nicht nur die Zölle, sondern auch alle anderen aus Anlass der Einfuhr zu erhebenden Abgaben;
 - (b) «Palette» eine Vorrichtung, auf deren Boden sich eine gewisse Gütermenge zu einer Verladeeinheit zusammenfassen lässt, um als solche befördert oder mit mechanischen Geräten bewegt oder gestapelt zu werden. Diese Vorrichtung besteht entweder aus zwei durch Stützen miteinander verbundenen Böden oder aus einem auf Füssen ruhenden Boden; ihre Gesamthöhe ist möglichst niedrig gehalten, ohne dass dadurch die Handhabung mit Gabelstaplern oder Palettenwagen behindert wird; sie kann auch mit einem Aufsetzrahmen versehen sein;
@@ -47,7 +48,9 @@ sind wie folgt übereingekommen:
 
 #### Art. 2
 
-<sup>1.</sup> Jede Vertragspartei lässt die Einfuhr von Paletten ohne Entrichtung der Eingangsabgaben und ohne Anwendung von Einfuhrverboten und Einfuhrbeschränkungen zu, sofern
+<sup>1.</sup>
+
+Jede Vertragspartei lässt die Einfuhr von Paletten ohne Entrichtung der Eingangsabgaben und ohne Anwendung von Einfuhrverboten und Einfuhrbeschränkungen zu, sofern:
 
 - (a) sie vorher ausgeführt worden sind oder später wieder ausgeführt werden, oder
 - (b) die gleiche Anzahl Paletten von gleichem Typ und annähernd gleichem Wert vorher ausgeführt worden ist oder später ausgeführt wird.
@@ -58,13 +61,17 @@ sind wie folgt übereingekommen:
 
 #### Art. 3
 
-<sup>1.</sup> Bei der Anwendung des Artikels 2 Absatz 1 auf Paletten, die auf Grund einer Vereinbarung gemeinschaftlich genutzt werden, verzichtet jede Vertragspartei bei der Ein‑ und Ausfuhr auf die Vorlage eines Zollpapiers und auf eine Sicherheitsleistung für die Eingangsabgaben, wenn die Vereinbarung vorsieht, dass die daran Beteiligten
+<sup>1.</sup>
+
+Bei der Anwendung des Artikels 2 Absatz 1 auf Paletten, die auf Grund einer Vereinbarung gemeinschaftlich genutzt werden, verzichtet jede Vertragspartei bei der Ein‑ und Ausfuhr auf die Vorlage eines Zollpapiers und auf eine Sicherheitsleistung für die Eingangsabgaben, wenn die Vereinbarung vorsieht, dass die daran Beteiligten:
 
 - (a) untereinander von Land zu Land Paletten des gleichen Typs bei internationalen Warentransporten austauschen,
 - (b) nach Palettentypen getrennt über die Anzahl der auf diese Weise von Land zu Land ausgetauschten Paletten Buch führen und
 - (c) sich verpflichten, innerhalb einer bestimmten Frist einander Paletten der einzelnen Typen in der Zahl zu liefern, die erforderlich ist, um die Salden der so geführten Konten in regelmässigen Zeitabständen zweiseitig oder mehrseitig auszugleichen.
 
-<sup>2.</sup> Absatz 1 gilt nur, wenn
+<sup>2.</sup>
+
+Absatz 1 gilt nur, wenn:
 
 - (a) die Paletten mit einem Kennzeichen versehen sind, das dem in der Vereinbarung über die gemeinschaftliche Nutzung vorgesehenen entspricht und
 - (b) die Vereinbarung über die gemeinschaftliche Nutzung den Zollverwaltungen der beteiligten Vertragsparteien zugeleitet worden ist und diese sie anerkannt haben, weil sie die Palettentypen für genügend bestimmt und die ordnungsmässige Ausführung der Vereinbarung für hinreichend gesichert halten.
@@ -83,7 +90,9 @@ Dieses Abkommen schliesst nicht aus, dass für die Ein‑ und Ausfuhr von Palett
 
 #### Art. 6
 
-<sup>1.</sup> Die Mitgliedsländer der Wirtschaftskommission für Europa sowie die Länder, die nach Absatz 8 des der Kommission erteilten Auftrages in beratender Eigenschaft zu der Kommission zugelassen sind, können Vertragsparteien dieses Abkommens werden
+<sup>1.</sup>
+
+Die Mitgliedsländer der Wirtschaftskommission für Europa sowie die Länder, die nach Absatz 8 des der Kommission erteilten Auftrages in beratender Eigenschaft zu der Kommission zugelassen sind, können Vertragsparteien dieses Abkommens werden:
 
 - (a) durch Unterzeichnung,
 - (b) durch Ratifikation, nachdem sie das Abkommen unter dem Vorbehalt der Ratifikation unterzeichnet haben, oder
@@ -145,7 +154,9 @@ Dieses Abkommen tritt ausser Kraft, wenn zu irgendeiner Zeit nach seinem Inkraft
 
 <sup>1.</sup> Jede Vertragspartei kann Änderungen dieses Abkommens vorschlagen. Der Wortlaut jedes Änderungsvorschlages ist dem Generalsekretär der Vereinten Nationen mitzuteilen; dieser übermittelt ihn allen Vertragsparteien und bringt ihn den anderen in Artikel 6 Absatz 1 bezeichneten Ländern zur Kenntnis.
 
-<sup>2.</sup> Binnen sechs Monaten nach dem Tage der Übermittlung des Änderungsvorschlages durch den Generalsekretär kann jede Vertragspartei diesem bekanntgeben,
+<sup>2.</sup>
+
+Binnen sechs Monaten nach dem Tage der Übermittlung des Änderungsvorschlages durch den Generalsekretär kann jede Vertragspartei diesem bekanntgeben:
 
 - (a) dass sie gegen die vorgeschlagene Änderung Einspruch erhebt, oder
 - (b) dass sie den Vorschlag zwar anzunehmen beabsichtigt, aber die für die Annahme erforderlichen Voraussetzungen in ihrem Land noch nicht erfüllt sind.
@@ -172,7 +183,7 @@ Ist gegen die vorgeschlagene Änderung kein Einspruch nach den Absätzen 2 und 3
 
 #### Art. 15
 
-<sup>1.</sup> Ausser den in den Artikeln 13 und 14 vorgesehenen Mitteilungen notifiziert der Generalsekretär der Vereinten Nationen den in Artikel 6 Absatz 1 bezeichneten Ländern sowie den Ländern, die nach Artikel 6 Absatz 2 Vertragsparteien geworden sind,
+Ausser den in den Artikeln 13 und 14 vorgesehenen Mitteilungen notifiziert der Generalsekretär der Vereinten Nationen den in Artikel 6 Absatz 1 bezeichneten Ländern sowie den Ländern, die nach Artikel 6 Absatz 2 Vertragsparteien geworden sind,
 
 - (a) die Unterzeichnungen, Ratifikationen und Beitritte nach Artikel 6;
 - (b) die Zeitpunkte, zu denen dieses Abkommen nach Artikel 7 in Kraft tritt;
@@ -190,57 +201,56 @@ Nach dem 15. März 1961 wird die Urschrift dieses Abkommens beim Generalsekretä
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. Februar 2011**[^t-3]**
+Geltungsbereich am 13. Dezember 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th colspan="3"></th></tr>
-<tr><td colspan="2">Albanien</td><td>14. Oktober</td><td>2008 B</td><td>12. Januar</td><td colspan="3">2009</td></tr>
-<tr><td colspan="2">Australien</td><td>1. Oktober</td><td>1969 B</td><td>30. Dezember</td><td colspan="3">1969</td></tr>
-<tr><td colspan="2">Belgien</td><td>14. März</td><td>1962</td><td>12. Juni</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>12. Januar</td><td>1994 N</td><td>6. März</td><td colspan="3">1992</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>28. Februar</td><td>1961 U</td><td>12. Juni</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">China</td><td></td><td></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="2">[tab] Hongkong<sup>a</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td colspan="3">1997</td></tr>
-<tr><td colspan="2">Dänemark</td><td>14. März</td><td>1961 U</td><td>12. Juni</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">Deutschland</td><td>29. September</td><td>1964</td><td>28. Dezember</td><td colspan="3">1964</td></tr>
-<tr><td colspan="2">Finnland</td><td>19. August</td><td>1966 B</td><td>17. November</td><td colspan="3">1966</td></tr>
-<tr><td colspan="2">Frankreich</td><td>12. März</td><td>1962</td><td>12. Juni</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">Italien</td><td>5. Januar</td><td>1967</td><td>5. April</td><td colspan="3">1967</td></tr>
-<tr><td colspan="2">Kroatien</td><td>31. August</td><td>1994 N</td><td>8. Oktober</td><td colspan="3">1991</td></tr>
-<tr><td colspan="2">Kuba\*</td><td>26. September</td><td>1963 B</td><td>25. Dezember</td><td colspan="3">1963</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>31. Juli</td><td>1962</td><td>29. Oktober</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td colspan="2">2006</td></tr>
-<tr><td colspan="2">Niederlande</td><td>22. Oktober</td><td>1962</td><td>20. Januar</td><td colspan="3">1963</td></tr>
-<tr><td colspan="2">[tab] Aruba<sup>b</sup></td><td>30. Dezember</td><td>1985</td><td>1. Januar</td><td colspan="3">1986</td></tr>
-<tr><td colspan="2">[tab] Curaçao</td><td>22. Oktober</td><td>1962</td><td>20. Januar</td><td colspan="3">1963</td></tr>
-<tr><td colspan="2">[tab] Sint Maarten</td><td>22. Oktober</td><td>1962</td><td>20. Januar</td><td colspan="3">1963</td></tr>
-<tr><td colspan="2">Norwegen</td><td>27. Oktober</td><td>1964 B</td><td>25. Januar</td><td colspan="3">1965</td></tr>
-<tr><td colspan="2">Österreich</td><td>7. Oktober</td><td>1963 B</td><td>5. Januar</td><td colspan="3">1964</td></tr>
-<tr><td colspan="2">Polen</td><td>4. September</td><td>1969 B</td><td>3. Dezember</td><td colspan="3">1969</td></tr>
-<tr><td colspan="2">Portugal</td><td>15. Januar</td><td>1968 B</td><td>14. April</td><td colspan="3">1968</td></tr>
-<tr><td colspan="2">Rumänien\*</td><td>15. Mai</td><td>1964 B</td><td>13. August</td><td colspan="3">1964</td></tr>
-<tr><td colspan="2">Schweden</td><td>1. März</td><td>1961 U</td><td>12. Juni</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">Schweiz\*</td><td>24. April</td><td>1963</td><td>23. Juli</td><td colspan="3">1963</td></tr>
-<tr><td colspan="2">Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td colspan="3">1992</td></tr>
-<tr><td colspan="2">Slowakei\*</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
-<tr><td colspan="2">Slowenien</td><td>3. November</td><td>1992 N</td><td>25. Juni</td><td colspan="3">1991</td></tr>
-<tr><td colspan="2">Spanien</td><td>2. Februar</td><td>1973 B</td><td>3. Mai</td><td colspan="3">1973</td></tr>
-<tr><td colspan="2">Tschechische Republik\*</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
-<tr><td colspan="2">Türkei</td><td>10. Oktober</td><td>1974 B</td><td>8. Januar</td><td colspan="3">1975</td></tr>
-<tr><td colspan="2">Ungarn\*</td><td>26. Juli</td><td>1963 B</td><td>24. Oktober</td><td colspan="3">1963</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich</td><td>1. Oktober</td><td>1962</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">[tab] Falklandinseln</td><td>1. Oktober</td><td>1962 B</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">[tab] Grenada</td><td>1. Oktober</td><td>1962 B</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">[tab] Insel Man</td><td>1. Oktober</td><td>1962 B</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">[tab] Kanalinseln</td><td>1. Oktober</td><td>1962 B</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">[tab] Montserrat</td><td>1. Oktober</td><td>1962 B</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
-<tr><td>\*</td><td colspan="7">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://untreaty.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Vom 30. Dez. 1962 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Am 1. Jan. 1986 erhielt die Insel Aruba, die ein Teil der Niederländischen Antillen war, die innere Autonomie innerhalb des Königreichs der Niederlande. Diese Änderung betrifft nur die internen verfassungsrechtlichen Beziehungen innerhalb des Königreichs der Niederlande.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th colspan="3"></th></tr>
+<tr><td>Albanien</td><td>14. Oktober</td><td>2008 B</td><td>12. Januar</td><td colspan="3">2009</td></tr>
+<tr><td>Australien</td><td>1. Oktober</td><td>1969 B</td><td>30. Dezember</td><td colspan="3">1969</td></tr>
+<tr><td>Belgien</td><td>14. März</td><td>1962</td><td>12. Juni</td><td colspan="3">1962</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>12. Januar</td><td>1994 N</td><td>6. März</td><td colspan="3">1992</td></tr>
+<tr><td>Bulgarien</td><td>28. Februar</td><td>1961 U</td><td>12. Juni</td><td colspan="3">1962</td></tr>
+<tr><td>China</td><td></td><td></td><td></td><td colspan="3"></td></tr>
+<tr><td>[tab] Hongkong <sup>a</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td colspan="3">1997</td></tr>
+<tr><td>Dänemark</td><td>14. März</td><td>1961 U</td><td>12. Juni</td><td colspan="3">1962</td></tr>
+<tr><td>Deutschland</td><td>29. September</td><td>1964</td><td>28. Dezember</td><td colspan="3">1964</td></tr>
+<tr><td>Finnland</td><td>19. August</td><td>1966 B</td><td>17. November</td><td colspan="3">1966</td></tr>
+<tr><td>Frankreich</td><td>12. März</td><td>1962</td><td>12. Juni</td><td colspan="3">1962</td></tr>
+<tr><td>Italien</td><td>5. Januar</td><td>1967</td><td>5. April</td><td colspan="3">1967</td></tr>
+<tr><td>Kroatien</td><td>31. August</td><td>1994 N</td><td>8. Oktober</td><td colspan="3">1991</td></tr>
+<tr><td>Kuba\*</td><td>26. September</td><td>1963 B</td><td>25. Dezember</td><td colspan="3">1963</td></tr>
+<tr><td>Luxemburg</td><td>31. Juli</td><td>1962</td><td>29. Oktober</td><td colspan="3">1962</td></tr>
+<tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td colspan="2">2006</td></tr>
+<tr><td>Niederlande</td><td>22. Oktober</td><td>1962</td><td>20. Januar</td><td colspan="3">1963</td></tr>
+<tr><td>Aruba</td><td>22. Oktober</td><td>1962</td><td>20. Januar</td><td colspan="3">1963</td></tr>
+<tr><td>Curaçao</td><td>22. Oktober</td><td>1962</td><td>20. Januar</td><td colspan="3">1963</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>22. Oktober</td><td>1962</td><td>20. Januar</td><td colspan="3">1963</td></tr>
+<tr><td>Sint Maarten</td><td>22. Oktober</td><td>1962</td><td>20. Januar</td><td colspan="3">1963</td></tr>
+<tr><td>Norwegen</td><td>27. Oktober</td><td>1964 B</td><td>25. Januar</td><td colspan="3">1965</td></tr>
+<tr><td>Österreich</td><td>7. Oktober</td><td>1963 B</td><td>5. Januar</td><td colspan="3">1964</td></tr>
+<tr><td>Polen</td><td>4. September</td><td>1969 B</td><td>3. Dezember</td><td colspan="3">1969</td></tr>
+<tr><td>Portugal</td><td>15. Januar</td><td>1968 B</td><td>14. April</td><td colspan="3">1968</td></tr>
+<tr><td>Rumänien\*</td><td>15. Mai</td><td>1964 B</td><td>13. August</td><td colspan="3">1964</td></tr>
+<tr><td>Schweden</td><td>1. März</td><td>1961 U</td><td>12. Juni</td><td colspan="3">1962</td></tr>
+<tr><td>Schweiz\*</td><td>24. April</td><td>1963</td><td>23. Juli</td><td colspan="3">1963</td></tr>
+<tr><td>Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td colspan="3">1992</td></tr>
+<tr><td>Slowakei\*</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
+<tr><td>Slowenien</td><td>3. November</td><td>1992 N</td><td>25. Juni</td><td colspan="3">1991</td></tr>
+<tr><td>Spanien</td><td>2. Februar</td><td>1973 B</td><td>3. Mai</td><td colspan="3">1973</td></tr>
+<tr><td>Tschechische Republik\*</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td colspan="3">1993</td></tr>
+<tr><td>Türkei</td><td>10. Oktober</td><td>1974 B</td><td>8. Januar</td><td colspan="3">1975</td></tr>
+<tr><td>Ungarn\*</td><td>26. Juli</td><td>1963 B</td><td>24. Oktober</td><td colspan="3">1963</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>1. Oktober</td><td>1962</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
+<tr><td>[tab] Falklandinseln</td><td>1. Oktober</td><td>1962 B</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
+<tr><td>[tab] Insel Man</td><td>1. Oktober</td><td>1962 B</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
+<tr><td>[tab] Kanalinseln</td><td>1. Oktober</td><td>1962 B</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
+<tr><td>[tab] Montserrat</td><td>1. Oktober</td><td>1962 B</td><td>30. Dezember</td><td colspan="3">1962</td></tr>
+<tr><td colspan="7">\* Vorbehalte und Erklärungen.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://untreaty.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Vom 30. Dez. 1962 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1975 899](https://fedlex.data.admin.ch/eli/oc/1975/899_899_898), [1983 149](https://fedlex.data.admin.ch/eli/oc/1983/149_149_149), [2005 1221](https://fedlex.data.admin.ch/eli/oc/2005/174), [2008 4127](https://fedlex.data.admin.ch/eli/oc/2008/580)und [2011 1011](https://fedlex.data.admin.ch/eli/oc/2011/151). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1975 899](https://fedlex.data.admin.ch/eli/oc/1975/899_899_898); [1983 149](https://fedlex.data.admin.ch/eli/oc/1983/149_149_149); [2005 1221](https://fedlex.data.admin.ch/eli/oc/2005/174); [2008 4127](https://fedlex.data.admin.ch/eli/oc/2008/580); [2011 1011](https://fedlex.data.admin.ch/eli/oc/2011/151); [2024 778](https://fedlex.data.admin.ch/eli/oc/2024/778). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Schweizerische Erklärung
 
