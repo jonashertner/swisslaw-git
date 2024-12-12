@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: Beschluss Nr. 2/2019 vom 13. Dezember 2019 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz zu den Übergangsmassnahmen zur Aufrechterhaltung eines reibungslosen Eisenbahnverkehrs zwischen der Schweiz und der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: de
-version: 2023-12-14
+version: 2024-12-13
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20231214/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20231214-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20231214/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20241213/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20241213-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20241213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Angenommen am 13. Dezember 2019
 
 In Kraft getreten für die Schweiz am 13. Dezember 2019
 
-(Stand am 14. Dezember 2023)
+(Stand am 13. Dezember 2024)
 
 Originaltext
 
@@ -140,10 +140,10 @@ Die Kommission veröffentlicht die Liste der notifizierten schweizerischen Stell
 
 <sup>2.</sup> Die Schweiz notifiziert der Agentur die in Absatz 1 genannten nationalen Vorschriften zwecks Veröffentlichung über das IT-System nach Artikel 27 der Verordnung (EU) 2016/796.
 
-<sup>3.</sup> Anhang 1 des Abkommens führt die nationalen Vorschriften und Sonderfälle auf, die möglicherweise nicht mit dem Recht der Europäischen Union vereinbar sind. Ist die Vereinbarkeit mit dem Unionsrecht bis zum 31. Dezember 2024 nicht hergestellt, dürfen diese nationalen Vorschriften und Sonderfälle nicht mehr angewandt werden, es sei denn, der Gemeinsame Ausschuss beschliesst etwas anderes.[^6-2]
+<sup>3.</sup> Anhang 1 des Abkommens führt die nationalen Vorschriften und Sonderfälle auf, die möglicherweise nicht mit dem Recht der Europäischen Union vereinbar sind. Ist die Vereinbarkeit mit dem Unionsrecht bis zum 31. Dezember 2025 nicht hergestellt, dürfen diese nationalen Vorschriften und Sonderfälle nicht mehr angewandt werden, es sei denn, der Gemeinsame Ausschuss beschliesst etwas anderes.[^6-2]
 
-[^6-1]: Fassung gemäss Art. 2 des Beschlusses 2/2020 des Gemischten Landverkehrsausschusses vom 11. Dez. 2020, in Kraft für die Schweiz seit 11. Dez. 2020 ([AS 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
-[^6-2]: Fassung gemäss Art. 2 des Beschlusses Nr. 1/2023 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 14. Dez. 2023, in Kraft für die Schweiz seit 14. Dez. 2023 ([AS 2024 32](https://fedlex.data.admin.ch/eli/oc/2024/32)).
+[^6-1]: Fassung gemäss Art. 2 des Beschlusses 2/2020 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 11. Dez. 2020, in Kraft für die Schweiz seit 11. Dez. 2020 ([AS 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
+[^6-2]: Fassung gemäss Art. 4 Ziff. 1 des Beschlusses 1/2024 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 13. Dez. 2024, in Kraft für die Schweiz seit 13. Dez. 2024 ([AS 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)).
 
 #### Art. 7
 
@@ -164,7 +164,7 @@ Die Kommission veröffentlicht die Liste der notifizierten schweizerischen Stell
 
 Dieser Beschluss tritt am 13. Dezember 2019 in Kraft.
 
-Die Artikel 2, 3, 4 und 5 gelten bis zum 31. Dezember 2024.[^8-1]
+Die Artikel 2, 3, 4 und 5 gelten bis zum 31. Dezember 2025.[^8-1]
 
 Brüssel, 13. Dezember 2019
 
@@ -172,7 +172,7 @@ Brüssel, 13. Dezember 2019
 <tr><td>Für die Europäische Union Die Vorsitzende: Elisabeth Werner</td><td>Für die Schweizerische Eidgenossenschaft Der Chef der schweizerischen Delegation: Peter Füglistaler</td></tr>
 </table>
 
-[^8-1]: Fassung gemäss Art. 2 des Beschlusses Nr. 1/2023 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 14. Dez. 2023, in Kraft für die Schweiz seit 14. Dez. 2023 ([AS 2024 32](https://fedlex.data.admin.ch/eli/oc/2024/32)).
+[^8-1]: Fassung gemäss Art. 4 Ziff. 2 des Beschlusses 1/2024 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 13. Dez. 2024, in Kraft für die Schweiz seit 13. Dez. 2024 ([AS 2025 36](https://fedlex.data.admin.ch/eli/oc/2025/36)).
 
 Anhang 1
 
