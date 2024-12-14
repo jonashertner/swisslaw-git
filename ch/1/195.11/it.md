@@ -4,11 +4,11 @@ title: "Ordinanza del 7 ottobre 2015 concernente persone e istituzioni svizzere 
 short: OSEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/654"
 language: it
-version: 2023-12-01
+version: 2024-12-15
 adopted: 2015-10-07
 in_force: 2015-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20231201/it/xml/fedlex-data-admin-ch-eli-cc-2015-654-20231201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20241215/it/xml/fedlex-data-admin-ch-eli-cc-2015-654-20241215-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20241215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/it"
 
 (Ordinanza sugli Svizzeri all’estero, OSEst)
 
-del 7 ottobre 2015 (Stato 1° dicembre 2023)
+del 7 ottobre 2015 (Stato 15 dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -132,8 +132,8 @@ Al momento dell’annuncio, gli Svizzeri all’estero indicano:
 
 <sup>4</sup> La rappresentanza inoltra l’annuncio al Comune di voto.[^7-2]
 
-[^7-1]: Abrogato dal n. III dell’O del 25 ott. 2023, con effetto dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^7-2]: Nuovo testo giusta il n. III dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-1]: Abrogato dalla cifra III dell’O del 25 ott. 2023, con effetto dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Nuovo testo giusta la cifra III dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
@@ -590,13 +590,14 @@ Se la Confederazione, in virtù delle disposizioni del presente capitolo, presta
 
 #### Art. 43
 
-**Scopo**
+**Scopo**[^43-1]
 
-<sup>1</sup> Con la designazione di «Fondo di aiuto per i cittadini svizzeri all’estero» (Fondo) è istituito un fondo speciale ai sensi dell’articolo 52 della legge federale del 7 ottobre 2005[^43-1] sulle finanze della Confederazione. Il Fondo è composto dai fondi speciali, dalle donazioni e dai legati menzionati nell’allegato e rimane vincolato agli scopi e alle condizioni di questi ultimi.
+<sup>1</sup> Con la designazione di «Fondo di aiuto per i cittadini svizzeri all’estero» (Fondo) è istituito un fondo speciale ai sensi dell’articolo 52 della legge federale del 7 ottobre 2005[^43-2] sulle finanze della Confederazione. Il Fondo è composto in particolare dai fondi speciali e dalle liberalità menzionati nell’allegato e rimane vincolato agli scopi e alle condizioni di questi ultimi.
 
 <sup>2</sup> Il Fondo serve a prevenire o attenuare casi di rigore e situazioni di indigenza di Svizzeri all’estero qualora non siano possibili altre forme di aiuto basate sulla presente ordinanza.
 
-[^43-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2024, in vigore dal 15 dic. 2024 ([RU 2024 691](https://fedlex.data.admin.ch/eli/oc/2024/691)).
+[^43-2]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
 
 #### Art. 44
 
@@ -1072,26 +1073,28 @@ I Cantoni possono presentare domande di rimborso delle spese secondo l’articol
 
 La presente ordinanza entra in vigore il 1º novembre 2015.
 
-Allegato
+Allegato[^t-1]
 
-(art. 43 cpv. 1 secondo periodo)
+(art. 43 cpv. 1)
 
 ## Fondo di aiuto per i cittadini svizzeri all’estero
 
-Il Fondo di aiuto per i cittadini svizzeri all’estero è composto dai seguenti fondi speciali, donazioni e legati:
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 13 nov. 2024, in vigore dal 15 dic. 2024 ([RU 2024 691](https://fedlex.data.admin.ch/eli/oc/2024/691))
+
+Il Fondo di aiuto per i cittadini svizzeri all’estero è composto in particolare dai mezzi finanziari provenienti dai fondi speciali e dalle liberalità seguenti:
 
 - 1\. Legato Allemandi, Parigi
 - 2\. Società di soccorso «Helvetia», Istanbul
 - 3\. Donazione Jacques Vögeli, Sofia
-- 4\. Donazione «ehemaliges Schweizerinnenheim, Frankfurt»
+- 4\. Donazione già «Schweizerinnenheim», Francoforte
 - 5\. Donazione testamentaria Hugo Bachmann, Düsseldorf
-- 6\. Fondo «ehemaliger Schweizerverein, Riga»
-- 7\. Fondo «ehemaliger Schweizerverein, Warschau»
-- 8\. Fondo «Schweizer Hilfsverein, Prag»
-- 9\. Donazione «Hilfskasse Helvetia, Belgrad»
-- 10\. Fondo speciale «ehemalige Swiss Benevolent Society Helvetia, Shanghai»
-- 11\. Fondo «ehemalige Société de Bienfaisance Laurenço Marqués, Maputo»
+- 6\. Fondo già «Schweizerverein», Riga
+- 7\. Fondo già «Schweizerverein», Varsavia
+- 8\. Fondo «Schweizer Hilfsverein», Praga
+- 9\. Donazione «Hilfskasse Helvetia», Belgrado
+- 10\. Fondo speciale già «Swiss Benevolent Society Helvetia», Shanghai
+- 11\. Fondo già «Société de Bienfaisance Laurenço Marqués», Maputo
 - 12\. Donazione già «Association des Suisses de l’Algérie»
-- 13\. Fondo «ehemaliger Schweizer Verein Kroatien, Zagreb»
-- 14\. Fondo G.A. Streiff, Los Angeles
+- 13\. Fondo già «Schweizer Verein Kroatien», Zagabria
+- 14\. Fondo G. A. Streiff, Los Angeles
 - 15\. Fondo di aiuto per gli Svizzeri all’estero e il rimpatrio dell’Ufficio federale di giustizia

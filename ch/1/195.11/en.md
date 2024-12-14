@@ -4,11 +4,11 @@ title: "Ordinance of 7 October 2015 on Swiss Persons and Institutions Abroad (Sw
 short: SAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/654"
 language: en
-version: 2023-12-01
+version: 2024-12-15
 adopted: 2015-10-07
 in_force: 2015-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20231201/en/xml/fedlex-data-admin-ch-eli-cc-2015-654-20231201-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20241215/en/xml/fedlex-data-admin-ch-eli-cc-2015-654-20241215-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20241215/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Swiss Abroad Ordinance, SAO)
 
-of 7 October 2015 (Status as of 1 December 2023)
+of 7 October 2015 (Status as of 15 December 2024)
 
 The Swiss Federal Council,
 
@@ -592,13 +592,14 @@ If the Confederation, on the basis of the provisions set out in this Chapter, pr
 
 #### Art. 43
 
-**Purpose**
+**Purpose**[^43-1]
 
-<sup>1</sup> A special fund (known as the Support Fund for Swiss Nationals Abroad) is provided for in Article 52 of the Financial Budget Act of 7 October 2005[^43-1]. It is made up of the special funds, donations and legacies referred to in the Annex, the purposes and requirements of which remain binding.
+<sup>1</sup> A special fund (known as the Support Fund for Swiss Nationals Abroad) is provided for in Article 52 of the Financial Budget Act of 7 October 2005[^43-2]. It is made up in particular of the special funds and donations referred to in the Annex, the purposes and requirements of which remain binding.
 
 <sup>2</sup> The Fund is designed to prevent or mitigate cases of hardship and need if Swiss nationals living abroad have no other means of support based on this Ordinance.
 
-[^43-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^43-1]: Amended by No I of the O of 13 Nov. 2024, in force since 15 Dec. 2024 ([AS 2024 691](https://fedlex.data.admin.ch/eli/oc/2024/691)).
+[^43-2]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
 
 #### Art. 44
 
@@ -1076,25 +1077,27 @@ The cantons may submit applications for the reimbursement of costs in accordance
 
 This Ordinance comes into force on 1 November 2015.
 
-Annex
+Annex[^t-1]
 
-(Art. 43 para. 1 second sentence)
+(Art. 43 para. 1)
 
 ## Support Fund for Swiss Nationals Abroad
 
-The Support Fund for Swiss Nationals Abroad is made up of the following special funds, donations and legacies:
+[^t-1]: Amended by No II of the O of 13 Nov. 2024, in force since 15 Dec. 2024 ([AS 2024 691](https://fedlex.data.admin.ch/eli/oc/2024/691)).
+
+The Support Fund for Swiss Nationals Abroad is made up in particular of monies from the following special funds and donations:
 
 - 1\. Legat Allemandi, Paris
 - 2\. «Helvetia» benevolent society, Istanbul
 - 3\. Donation from Jacques Vögeli, Sofia
-- 4\. Donation from the «former Schweizerinnenheim, Frankfurt»
+- 4\. Donation from the former «Schweizerinnenheim, Frankfurt»
 - 5\. Testamentary donation from Hugo Bachmann, Düsseldorf
 - 6\. Fund of the former Swiss association, Riga
 - 7\. Fund of the former Swiss association, Warsaw
 - 8\. Fund of the Swiss benevolent society, Prague
 - 9\. Donation from the «Hilfskasse Helvetia», Belgrade
-- 10\. Special fund of the «former Swiss Benevolent Society Helvetia, Shanghai»
-- 11\. Fund of the «former Société de Bienfaisance Laurenço Marqués», Maputo
+- 10\. Special fund of the former «Swiss Benevolent Society Helvetia, Shanghai»
+- 11\. Fund of the former «Société de Bienfaisance Laurenço Marqués», Maputo
 - 12\. Donation from the former «Association des Suisses de l‘Algérie»
 - 13\. Fund of former Swiss association, Zagreb, Croatia
 - 14\. G. A. Streiff Fund, Los Angeles

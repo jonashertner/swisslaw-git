@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Oktober 2015 über Schweizer Personen und Institutione
 short: V-ASG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/654"
 language: de
-version: 2023-12-01
+version: 2024-12-15
 adopted: 2015-10-07
 in_force: 2015-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20231201/de/xml/fedlex-data-admin-ch-eli-cc-2015-654-20231201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20241215/de/xml/fedlex-data-admin-ch-eli-cc-2015-654-20241215-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20241215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/de"
 
 (Auslandschweizerverordnung, V-ASG)
 
-vom 7. Oktober 2015 (Stand am 1. Dezember 2023)
+vom 7. Oktober 2015 (Stand am 15. Dezember 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -590,13 +590,14 @@ Leistet der Bund aufgrund der Bestimmungen dieses Kapitels Sozialhilfe an eine P
 
 #### Art. 43
 
-**Zweck**
+**Zweck**[^43-1]
 
-<sup>1</sup> Unter dem Namen «Hilfsfonds Schweizer Staatsangehörige im Ausland» (Fonds) besteht ein Spezialfonds im Sinne von Artikel 52 des Finanzhaushaltsgesetzes vom 7. Oktober 2005[^43-1]. Er setzt sich zusammen aus den im Anhang genannten Spezialfonds, Schenkungen und Vermächtnissen, deren Zwecke und Auflagen für ihn verbindlich bleiben.
+<sup>1</sup> Unter dem Namen «Hilfsfonds Schweizer Staatsangehörige im Ausland» (Fonds) besteht ein Spezialfonds im Sinne von Artikel 52 des Finanzhaushaltsgesetzes vom 7. Oktober 2005[^43-2]. Er setzt sich insbesondere aus den im Anhang genannten Spezialfonds und Zuwendungen zusammen, deren Zwecke und Auflagen für ihn verbindlich bleiben.
 
 <sup>2</sup> Der Fonds dient der Vermeidung oder Milderung von Härtefällen und Fällen von Bedürftigkeit, wenn Auslandschweizerinnen und -schweizer gestützt auf diese Verordnung nicht anderweitig unterstützt werden können.
 
-[^43-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^43-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2024, in Kraft seit 15. Dez. 2024 ([AS 2024 691](https://fedlex.data.admin.ch/eli/oc/2024/691)).
+[^43-2]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
 
 #### Art. 44
 
@@ -1045,10 +1046,10 @@ Die folgenden Erlasse werden aufgehoben:
 - 3\. Verordnung vom 26. Februar 2003[^75-3] über die finanzielle Unterstützung von Auslandschweizer Institutionen;
 - 4\. Verordnung vom 4. November 2009[^75-4] über Sozialhilfe und Darlehen an Schweizer Staatsangehörige im Ausland.
 
-[^75-1]: [[AS 1991 2391](https://fedlex.data.admin.ch/eli/oc/1991/2391_2391_2391), [2002 1758](https://fedlex.data.admin.ch/eli/oc/2002/263), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 4]
-[^75-2]: [[AS 1967 1994](https://fedlex.data.admin.ch/eli/oc/1967/1994_2039_2033), [1978 1402](https://fedlex.data.admin.ch/eli/oc/1978/1402_1402_1402), [2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)Art. 99 Abs. 2, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 8, [2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)Ziff. II]
-[^75-3]: [[AS 2003 505](https://fedlex.data.admin.ch/eli/oc/2003/110), [2009 6425](https://fedlex.data.admin.ch/eli/oc/2009/787)]
-[^75-4]: [[AS 2009 5861](https://fedlex.data.admin.ch/eli/oc/2009/715), [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 6]
+[^75-1]: [[AS 1991 2391](https://fedlex.data.admin.ch/eli/oc/1991/2391_2391_2391); [2002 1758](https://fedlex.data.admin.ch/eli/oc/2002/263); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 4]
+[^75-2]: [[AS 1967 1994](https://fedlex.data.admin.ch/eli/oc/1967/1994_2039_2033); [1978 1402](https://fedlex.data.admin.ch/eli/oc/1978/1402_1402_1402); [2004 2915](https://fedlex.data.admin.ch/eli/oc/2004/362)Art. 99 Abs. 2; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 8; [2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)Ziff. II]
+[^75-3]: [[AS 2003 505](https://fedlex.data.admin.ch/eli/oc/2003/110); [2009 6425](https://fedlex.data.admin.ch/eli/oc/2009/787)]
+[^75-4]: [[AS 2009 5861](https://fedlex.data.admin.ch/eli/oc/2009/715); [2014 3789](https://fedlex.data.admin.ch/eli/oc/2014/654)Ziff. I 6]
 
 #### Art. 76
 
@@ -1074,26 +1075,28 @@ Die Kantone können Anträge auf Rückvergütung von Kosten nach Artikel 3 des B
 
 Diese Verordnung tritt am 1. November 2015 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
-(Art. 43 Abs. 1 zweiter Satz)
+(Art. 43 Abs. 1)
 
 ## «Hilfsfonds Schweizer Staatsangehörige im Ausland»
 
-Der «Hilfsfonds Schweizer Staatsangehörige im Ausland» setzt sich aus den folgenden Spezialfonds, Schenkungen und Vermächtnissen zusammen:
+[^t-1]: Fassung gemäss Ziff. II der V vom 13. Nov. 2024, in Kraft seit 15. Dez. 2024 ([AS 2024 691](https://fedlex.data.admin.ch/eli/oc/2024/691)).
+
+Der «Hilfsfonds Schweizer Staatsangehörige im Ausland» setzt sich insbesondere aus den Finanzmitteln aus den folgenden Spezialfonds und aus den folgenden Zuwendungen zusammen:
 
 - 1\. Legat Allemandi, Paris
 - 2\. Hilfsverein «Helvetia», Istanbul
 - 3\. Schenkung Jacques Vögeli, Sofia
-- 4\. Schenkung «ehemaliges Schweizerinnenheim, Frankfurt»
+- 4\. Schenkung ehemaliges Schweizerinnenheim, Frankfurt
 - 5\. Testamentarische Schenkung Hugo Bachmann, Düsseldorf
 - 6\. Fonds ehemaliger Schweizerverein, Riga
 - 7\. Fonds ehemaliger Schweizerverein, Warschau
 - 8\. Fonds Schweizer Hilfsverein, Prag
-- 9\. Donation «Hilfskasse Helvetia», Belgrad
-- 10\. Spezialfonds «ehemalige Swiss Benevolent Society Helvetia, Shanghai»
-- 11\. Fonds «ehemalige Société de Bienfaisance Laurenço Marqués», Maputo
-- 12\. Schenkung ancienne «Association des Suisses de l‘Algérie»
+- 9\. Schenkung «Hilfskasse Helvetia», Belgrad
+- 10\. Spezialfonds ehemalige «Swiss Benevolent Society Helvetia», Shanghai
+- 11\. Fonds ehemalige «Société de Bienfaisance Laurenço Marqués», Maputo
+- 12\. Schenkung ehemalige «Association des Suisses de l’Algérie»
 - 13\. Fonds ehemaliger Schweizer Verein Kroatien, Zagreb
 - 14\. G. A. Streiff Fonds, Los Angeles
 - 15\. Hilfsfonds für Auslandschweizer und Rückwanderer des Bundesamtes für Justiz

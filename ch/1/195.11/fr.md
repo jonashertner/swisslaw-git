@@ -4,11 +4,11 @@ title: "Ordonnance du 7 octobre 2015 sur les personnes et les institutions suiss
 short: OSEtr
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/654"
 language: fr
-version: 2023-12-01
+version: 2024-12-15
 adopted: 2015-10-07
 in_force: 2015-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20231201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-654-20231201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/654/20241215/fr/xml/fedlex-data-admin-ch-eli-cc-2015-654-20241215-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20241215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/654/20231201/fr"
 
 (Ordonnance sur les Suisses de l’étranger, OSEtr)
 
-du 7 octobre 2015 (État le 1<sup>er</sup> décembre 2023)
+du 7 octobre 2015 (État le 15 décembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -590,13 +590,14 @@ Si la Confédération fournit, en vertu des dispositions du présent chapitre, u
 
 #### Art. 43
 
-**But**
+**But**[^43-1]
 
-<sup>1</sup> Sous le nom «Fonds d’aide aux ressortissants suisses à l’étranger» (fonds), il existe un fonds spécial au sens de l’art. 52 de la loi du 7 octobre 2005 sur les finances de la Confédération[^43-1]. Il est constitué par les fonds spéciaux, les donations et les legs énumérés dans l’annexe, dont les objectifs et les clauses lui restent applicables.
+<sup>1</sup> Sous le nom «Fonds d’aide aux ressortissants suisses à l’étranger» (fonds), il existe un fonds spécial au sens de l’art. 52 de la loi du 7 octobre 2005 sur les finances de la Confédération[^43-2]. Il est constitué notamment par les fonds spéciaux et les libéralités mentionnés dans l’annexe, dont les objectifs et les clauses lui restent applicables.
 
 <sup>2</sup> Ce fonds sert à prévenir ou à atténuer les cas de rigueur et d’indigence, lorsque des Suisses de l’étranger ne peuvent bénéficier d’un autre soutien en vertu de la présente ordonnance.
 
-[^43-1]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2024, en vigueur depuis le 15 déc. 2024 ([RO 2024 691](https://fedlex.data.admin.ch/eli/oc/2024/691)).
+[^43-2]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
 
 #### Art. 44
 
@@ -1072,26 +1073,28 @@ Les cantons ont encore la possibilité de déposer une demande d’indemnisation
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> novembre 2015.
 
-Annexe
+Annexe[^t-1]
 
-(art. 43, al. 1, 2<sup>e</sup> phrase)
+(art. 43, al. 1)
 
 ## «Fonds d’aide aux ressortissants suisses à l’étranger»
 
-Le «Fonds d’aide aux ressortissants suisses à l’étranger» est constitué par les fonds spéciaux, les donations et les legs ci-après:
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 13 nov. 2024, en vigueur depuis le 15 déc. 2024 ([RO 2024 691](https://fedlex.data.admin.ch/eli/oc/2024/691)).
+
+Le «Fonds d’aide aux ressortissants suisses à l’étranger» est constitué notamment par les moyens financiers issus des fonds spéciaux et par les libéralités ci-après:
 
 - 1\. Legs Allemandi, Paris
 - 2\. Société d’entraide «Helvetia», Istanbul
 - 3\. Donation Jacques Vögeli, Sofia
-- 4\. Donation de l’«ehemaliges Schweizerinnenheim, Frankfurt»
+- 4\. Donation de l’ancien «Schweizerinnenheim», Francfort
 - 5\. Donation testamentaire Hugo Bachmann, Düsseldorf
-- 6\. Fonds de l’ancien Schweizerverein, Riga
-- 7\. Fonds de l’ancien Schweizerverein, Varsovie
+- 6\. Fonds de l’ancien «Schweizerverein», Riga
+- 7\. Fonds de l’ancien «Schweizerverein», Varsovie
 - 8\. Fonds de la Société suisse d’entraide, Prague
 - 9\. Donation de la «Hilfskasse Helvetia», Belgrade
-- 10\. Fonds spécial de l’ancienne «Swiss Benevolent Society Helvetia, Shanghai»
-- 11\. Fonds de l’«ancienne Société Suisse de Bienfaisance Laurenço Marqués», Maputo
+- 10\. Fonds spécial de l’ancienne «Swiss Benevolent Society Helvetia», Shanghai
+- 11\. Fonds de l’ancienne «Société suisse de bienfaisance Laurenço Marqués», Maputo
 - 12\. Donation de l’ancienne «Association des Suisses de l’Algérie»
-- 13\. Fonds de l’ancien Schweizer Verein en Croatie, Zagreb
+- 13\. Fonds de l’ancien «Schweizer Verein Kroatien», Zagreb
 - 14\. Fonds G. A. Streiff, Los Angeles
 - 15\. Fonds d’aide aux Suisses de l’étranger et aux ressortissants rentrés au pays de l’Office fédéral de la justice
