@@ -3,11 +3,11 @@ sr: "0.972.4"
 title: Accord constitutif du 8 avril 1959 de la Banque interaméricaine de développement (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/397_397_397"
 language: fr
-version: 1989-08-01
+version: 2024-12-16
 adopted: 1959-04-08
 in_force: 1976-07-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/397_397_397/19890801/fr/xml/fedlex-data-admin-ch-eli-cc-1977-397_397_397-19890801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/397_397_397/19890801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/397_397_397/20241216/fr/xml/fedlex-data-admin-ch-eli-cc-1977-397_397_397-20241216-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/397_397_397/20241216/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,19 +18,9 @@ RO **1977** 397; FF **1975** II 533
 
 Texte original
 
-Conclu à Washington le 8 avril 1959
+Conclu à Washington le 8 avril 1959 Amendé en 1964, 1968, 1972, 1974 Approuvé par l’Assemblée fédérale le 2 décembre 1975[^t-1] Instrument d’acceptation déposé par la Suisse le 9 juillet 1976 Entré en vigueur pour la Suisse le 9 juillet 1976 Amendé avec effet au 27 avril 1977
 
-Amendé en 1964, 1968, 1972, 1974
-
-Approuvé par l’Assemblée fédérale le 2 décembre 1975[^t-1]
-
-Instrument d’acceptation déposé par la Suisse le 9 juillet 1976
-
-Entré en vigueur pour la Suisse le 9 juillet 1976
-
-Amendé avec effet au 27 avril 1977
-
-(Etat le 1<sup>er</sup> août 1989)
+(État le 16 décembre 2024)
 
 [^t-1]: Art. 1<sup>er</sup> al. 1 de l’AF du 2 déc. 1975 ([RO 1977 395](https://fedlex.data.admin.ch/eli/oc/1977/395_395_395)).
 
@@ -60,9 +50,9 @@ La Banque a pour objectifs de contribuer à l’accélération du processus de d
 
 ### **Section 1** Pays membres
 
-(a) Seront membres fondateurs de la Banque les membres de l’Organisation des Etats Américains qui à la date stipulée à l’Art. XV, Section 1 (a) auront accepté de le devenir.
+(a) Seront membres fondateurs de la Banque les membres de l’Organisation des États Américains qui à la date stipulée à l’Art. XV, Section 1 (a) auront accepté de le devenir.
 
-(b) Les autres membres de l’Organisation des Etats Américains et le Canada, les Bahamas et la Guyane peuvent être admis à la Banque aux dates et sous les conditions que celle-ci aura fixées.
+(b) Les autres membres de l’Organisation des États Américains et le Canada, les Bahamas et la Guyane peuvent être admis à la Banque aux dates et sous les conditions que celle-ci aura fixées.
 
 Les pays extra-régionaux membres du Fonds monétaire international et la Suisse peuvent être admis à la Banque aux dates et conformément aux normes générales que l’Assemblée des Gouverneurs aura préalablement établies. Ces normes générales ne pourront être modifiée que par une décision de l’Assemblée des Gouverneurs, prise à la majorité des deux tiers du nombre total des Gouverneurs, comprenant les deux tiers des Gouverneurs des membres extra-régionaux et représentant au moins les trois quarts du total des voix des pays membres.
 
@@ -70,27 +60,30 @@ Les pays extra-régionaux membres du Fonds monétaire international et la Suisse
 
 [^lvlu2-sec1A-1]
 
-[^lvlu2-sec1A-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)**).**
+[^lvlu2-sec1A-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 Les ressources de la Banque seront constituées par les ressources ordinaires de capital prévues dans le présent article et par les ressources du Fonds des Opérations spéciales (ci-après dénommé le Fonds) établi à l’Art. IV.
 
 ### **Section 2** Capital ordinaire autorisé
 
-(a) Le capital ordinaire autorisé de la Banque sera initialement de huit cent cinquante millions de dollars ($ 850 000 000) des Etats-Unis, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959, divisé en 85 000 actions d’une valeur nominale de dix mille dollars ($ 10 000), lesquelles actions seront ouvertes à la souscription des pays membres conformément à la Section 3 du présent article.[^lvlu2-sec2-1]
+(a) Le capital ordinaire autorisé de la Banque sera initialement de huit cent cinquante millions de dollars ($ 850 000 000) des États-Unis, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959, divisé en 85 000 actions d’une valeur nominale de dix mille dollars ($ 10 000), lesquelles actions seront ouvertes à la souscription des pays membres conformément à la Section 3 du présent article.[^lvlu2-sec2-1]
 
 (b) Le capital ordinaire autorisé sera divisé en capital-actions versé effectivement et en capital-actions sujet à l’appel. Le capital-actions versé effectivement sera de quatre cent millions de dollars ($ 400 000 000) et le capital-actions sujet à l’appel sera de quatre cent cinquante millions de dollars ($ 450 000 000) pour les fins spécifiées à la Section 4 (a) (ii) du présent article.
 
-(c) Le capital ordinaire indiqué au paragraphe (a) de la présente section sera augmenté de cinq cent millions de dollars ($ 500 000 000), en termes de la monnaie des Etats-Unis d’Amérique du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959, dés que:
+(c) Le capital ordinaire indiqué au paragraphe (a) de la présente section sera augmenté de cinq cent millions de dollars ($ 500 000 000), en termes de la monnaie des États-Unis d’Amérique du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959, dés que:
 
 - (i) le délai imparti, conformément à la Section 4 du présent article, pour le paiement de toutes les souscriptions, aura expiré;
 - (ii) l’augmentation indiquée de cinq cent millions de dollars ($ 500 000 000) aura été approuvée par une majorité des trois quarts du total des voix des pays membres, au cours d’une réunion ordinaire ou extraordinaire de l’Assemblée des Gouverneurs tenue le plus tôt que possible après que le délai indiqué à l’al. (i) du présente paragraphe sera écoulé.
-- (d) L’augmentation du capital prévue au paragraphe précédent s’effectuera au titre du capital-actions sujet à l’appel.
-- (e)[^lvlu2-sec2-2] Nonobstant les dispositions des par. (c) et (d) de la présente section, et sous réserve des dispositions de l’Art. VIII, Section 4 (b), le capital ordinaire autorisé pourra être augmenté par une décision de l’Assemblée des Gouverneurs prise à la majorité des trois quartes du total des voix des pays membres comprenant la majorité des trois quarts du nombre total des Gouverneurs, dont la majorité des deux tiers des Gouverneurs des membres régionaux à la date et dans la forme que cette Assemblée jugera opportunes.
-- (f)[^lvlu2-sec2-3] …
+
+(d) L’augmentation du capital prévue au paragraphe précédent s’effectuera au titre du capital-actions sujet à l’appel.
+
+(e)[^lvlu2-sec2-2] Nonobstant les dispositions des par. (c) et (d) de la présente section, et sous réserve des dispositions de l’Art. VIII, Section 4 (b), le capital ordinaire autorisé pourra être augmenté par une décision de l’Assemblée des Gouverneurs prise à la majorité des trois quartes du total des voix des pays membres comprenant la majorité des trois quarts du nombre total des Gouverneurs, dont la majorité des deux tiers des Gouverneurs des membres régionaux à la date et dans la forme que cette Assemblée jugera opportunes.
+
+(f)[^lvlu2-sec2-3] …
 
 [^lvlu2-sec2-1]: En vertu d’une série de résolutions adoptées à des dates différentes, dont la dernière a pris effet à la date à laquelle ce texte a été certifié, l’Assemblée des Gouverneurs a augmenté le capital autorisé de la Banque à 8 465 810 000 dollars des Etats-Unis, du poids et du titre spécifiés plus haut (équivalents à 10 212 673 000) dollars courants), réparti en 846 581 actions. Ces résolutions ont également modifié les montants en dollars et les nombres d’actions afférents au capital ordinaire mentionnés ailleurs dans l’Accord.
-[^lvlu2-sec2-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu2-sec2-3]: Abrogé selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)**)**.
+[^lvlu2-sec2-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu2-sec2-3]: Abrogé par la section 2 de la résolution AG-8/87 du 24 déc. 1987, avec effet au 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 3** Souscription des actions
 
@@ -106,26 +99,26 @@ Les ressources de la Banque seront constituées par les ressources ordinaires de
 
 (f) …[^lvlu2-sec3-3]
 
-[^lvlu2-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu2-sec3-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)**).**
-[^lvlu2-sec3-3]: Abrogé selon la section 2 de la résolution AG-8/87 du 24 dec. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu2-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu2-sec3-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu2-sec3-3]: Abrogé par la section 2 de la résolution AG-8/87 du 24 déc. 1987, avec effet au 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 4** Paiement des souscriptions
 
 (a) Le paiement des actions souscrites au titre du capital ordinaire de la Banque, aux termes de l’Annexe A, se fera comme suit:
 
-- (i) le montant souscrit par chaque pays au titre du capital-actions effectivement versé sera divisé en trois tranches, la première équivalant à 20 %, la deuxième et la troisième équivalant chacune à 40 % de ce montant. Chaque pays versera la première tranche à n’importe quel moment à partir de la date où le présent Accord aura été signé en son nom, et qu’il aura déposé l’instrument d’acceptation ou de ratification, conformément à l’art. XV, Section 1, mais au plus tard le 30 septembre 1960. Les deux autres tranches seront payées à la date que fixera la Banque, mais pas avant le 30 septembre 1961 et le 30 septembre 1962, respectivement. Le paiement de chaque tranche sera effectué comme suit: 50 % en or ou en dollars des Etats-Unis d’Amérique, ou sous les deux formes, et 50 % dans la monnaie nationale du pays membre;
-- (ii)[^lvlu2-sec4-1] La partie de la souscription au capital-actions ordinaire sujette à l’appel ne sera exigée que si la Banque en a besoin pour faire face à des engagements découlant de l’Art. III, Section 4 (ii) et (iii), pourvu que lesdits engagements correspondent soit à des emprunts dont les fonds ont été intégrés dans les ressources ordinaires de capital de la Banque, soit à des garanties qui engagent lesdites ressources. Dans le cas d’un tel appel, le paiement sera effectué, au choix du membre, soit en or, soit en dollars des Etats-Unis d’Amérique, soit dans la monnaie pleinement convertible du pays membre, soit dans la monnaie requise pour régler les engagements de la Banque qui ont motivé l’appel.
+- (i) le montant souscrit par chaque pays au titre du capital-actions effectivement versé sera divisé en trois tranches, la première équivalant à 20 %, la deuxième et la troisième équivalant chacune à 40 % de ce montant. Chaque pays versera la première tranche à n’importe quel moment à partir de la date où le présent Accord aura été signé en son nom, et qu’il aura déposé l’instrument d’acceptation ou de ratification, conformément à l’art. XV, Section 1, mais au plus tard le 30 septembre 1960. Les deux autres tranches seront payées à la date que fixera la Banque, mais pas avant le 30 septembre 1961 et le 30 septembre 1962, respectivement. Le paiement de chaque tranche sera effectué comme suit: 50 % en or ou en dollars des États-Unis d’Amérique, ou sous les deux formes, et 50 % dans la monnaie nationale du pays membre;
+- (ii)[^lvlu2-sec4-1] La partie de la souscription au capital-actions ordinaire sujette à l’appel ne sera exigée que si la Banque en a besoin pour faire face à des engagements découlant de l’Art. III, Section 4 (ii) et (iii), pourvu que lesdits engagements correspondent soit à des emprunts dont les fonds ont été intégrés dans les ressources ordinaires de capital de la Banque, soit à des garanties qui engagent lesdites ressources. Dans le cas d’un tel appel, le paiement sera effectué, au choix du membre, soit en or, soit en dollars des États-Unis d’Amérique, soit dans la monnaie pleinement convertible du pays membre, soit dans la monnaie requise pour régler les engagements de la Banque qui ont motivé l’appel.
 - Les appels sur les souscriptions non encore payées seront d’un pourcentage uniforme pour toutes les actions.
 
-(b) Chaque paiement d’un pays membre dans sa propre monnaie, conformément au par. (a) (i) de la présente section, devra être d’un montant qui, d’après l’opinion de la Banque, soit en dollars des Etats-Unis d’Amérique du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959, égal à la valeur totale de la partie de la souscription en train d’être réglée. Le versement initial se fera dans le montant que le pays membre jugera adéquat, mais il restera sujet aux ajustements à effectuer dans les 60 jours à partir de la date à laquelle le versement sera arrivé à échéance. La Banque déterminera le montant desdits ajustements nécessaires pour constituer l’équivalent en dollars du montant total à payer, en vertu du présent paragraphe.
+(b) Chaque paiement d’un pays membre dans sa propre monnaie, conformément au par. (a) (i) de la présente section, devra être d’un montant qui, d’après l’opinion de la Banque, soit en dollars des États-Unis d’Amérique du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959, égal à la valeur totale de la partie de la souscription en train d’être réglée. Le versement initial se fera dans le montant que le pays membre jugera adéquat, mais il restera sujet aux ajustements à effectuer dans les 60 jours à partir de la date à laquelle le versement sera arrivé à échéance. La Banque déterminera le montant desdits ajustements nécessaires pour constituer l’équivalent en dollars du montant total à payer, en vertu du présent paragraphe.
 
 (c) Sauf disposition contraire de l’Assemblée des Gouverneurs votée à la majorité des trois quarts de la totalité des voix des pays membres, la responsabilité des membres en ce qui concerne le versement de la deuxième et de la troisième tranches du capital-actions qui doit être versé effectivement restera conditionnée au fait que les pays membres aient versé pour le moins 90 % du total des obligations des membres arrivées à échéance, au compte:
 
 - (i) de la première et de la deuxième tranches, respectivement, du capital-actions versé effectivement;
 - (ii) du paiement initial et de tous les autres versement antérieurement exigés sur les quotas de contribution au Fonds.
 
-[^lvlu2-sec4-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu2-sec4-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 5** Ressources ordinaires de capital
 
@@ -134,14 +127,14 @@ Il reste entendu que, dans le présent Accord, l’expression «ressources ordin
 - (i) le capital ordinaire autorisé souscrit conformément aux Section 2 et 3 du présent article, au titre du capital-actions versé effectivement et du capital-actions sujet à l’appel;
 - (ii) tous les fonds provenant des emprunts autorisés au titre de l’Art. VII, Section 1 (i), auxquels sont applicables les clauses de la Section 4 (a) (ii) du présent article;
 - (iii) tous les fonds reçus en remboursement des prêts effectués avec les ressources indiquées aux al. (i) et (ii) de la présente section;
-- (iv) tous les revenus provenant des prêts effectués avec les ressources ci-dessus indiquées ou provenant des garanties auxquelles sont applicables les clauses de la Section 4 (a) (ii) du présent article; et
+- (iv) tous les revenus provenant des prêts effectués avec les ressources ci-dessus indiquées ou provenant des garanties auxquelles sont applicables les clauses de la Section 4 (a) (ii) du présent article, et
 - (v) tous les autres revenus provenant de l’une quelconque des ressources susmentionnées.
 
-## Art. IIA****Capital interrégional de la Banque
+## Art. IIACapital interrégional de la Banque
 
 [^lvlu3-1]
 
-[^lvlu3-1]: Abrogé selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu3-1]: Abrogé par la section 2 de la résolution AG-8/87 du 24 déc. 1987, avec effet au 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. IIIOpérations
 
@@ -149,7 +142,7 @@ Il reste entendu que, dans le présent Accord, l’expression «ressources ordin
 
 [^lvlu4-sec1-1]
 
-[^lvlu4-sec1-1]: Nouvelle teneur selon le chiffre I let. a de la résolution AG-1/77 du 27 jan. 1977, en vigeur dés le 27 avr. 1977 ([RO 1988 1900](https://fedlex.data.admin.ch/eli/oc/1988/1900_1900_1900)).
+[^lvlu4-sec1-1]: Nouvelle teneur selon le chiffre I let. a de la résolution AG-1/77 du 27 jan. 1977, en vigueur dès le 27 avr. 1977 ([RO 1988 1900](https://fedlex.data.admin.ch/eli/oc/1988/1900_1900_1900)).
 
 Les ressources et les services de la Banque seront utilisés exclusivement pour réaliser les objectifs et répondre aux attributions énumérées à l’Art. I du présent Accord, ainsi que pour financer le développement de tout membre de la Banque de Développement des Caraïbes, au moyen de l’octroi de prêts et d’assistance technique à cette institution.
 
@@ -161,14 +154,14 @@ Les ressources et les services de la Banque seront utilisés exclusivement pour 
 
 (c) Les opérations spéciales seront celles financées avec les ressources du Fonds, conformément aux dispositions de l’Art. IV.
 
-[^lvlu4-sec2-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu4-sec2-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)**).**
+[^lvlu4-sec2-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu4-sec2-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 3** Principe directeur de la séparation
 
 [^lvlu4-sec3-1]
 
-[^lvlu4-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) Les ressources ordinaires du capital spécifiées à l’Art. II, Section 5, et les ressources du Fonds spécifiées à l’Art. IV, Section 3 (h), devront toujours être maintenues, utilisées, engagées, investies ou placées d’une manière quelconque, mais dans tous les cas d’une façon complètement indépendante les unes des autres.
 
@@ -183,19 +176,19 @@ Les ressources et les services de la Banque seront utilisés exclusivement pour 
 Sous réserve des conditions stipulées dans le présent article, la Banque pourra accorder ou garantir des prêts en faveur de tout pays membre, de toute subdivision politique ou de tout organisme gouvernemental de ce pays, de toute entreprise dans le territoire du pays membre, ainsi qu’en faveur de la Banque de Développement des Caraïbes, en adoptant l’une des méthodes suivantes:[^lvlu4-sec4-1]
 
 - (i) accorder des prêts directs ou participer à des prêts directs en utilisant soit les ressources provenant de son capital ordinaire versé non entamé et, en tenant compte des dispositions établies à la Section 13 du présent article, soit les ressources provenant de ses réserves et de l’excédent non distribué, soit les ressources du Fonds libres de toutes charges;
-- (ii) accorder des prêts directs ou participer à des prêts directs en utilisant les ressources des marchés de capitaux, soit empruntées soit obtenues de toute autre manière pour être incorporées aux ressources ordinaires de capital de la Banque ou aux ressources du Fonds; et[^lvlu4-sec4-2]
+- (ii) accorder des prêts directs ou participer à des prêts directs en utilisant les ressources des marchés de capitaux, soit empruntées soit obtenues de toute autre manière pour être incorporées aux ressources ordinaires de capital de la Banque ou aux ressources du Fonds, et[^lvlu4-sec4-2]
 - (iii)[^lvlu4-sec4-3] garantir, en totalité ou en partie, au moyen des ressources ordinaires de capital…[^lvlu4-sec4-4] ou des ressources du Fonds, les prêts consentis, sauf en des cas exceptionnels, par l’investissement privé.
 
 [^lvlu4-sec4-1]: Nouvelle teneur selon le chiffre I let. b de la résolution AG-1/77 du 27 jan. 1977, en vigeur dés le 27 avr. 1977 ([RO 1988 1900](https://fedlex.data.admin.ch/eli/oc/1988/1900_1900_1900)).
-[^lvlu4-sec4-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu4-sec4-3]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu4-sec4-4]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec4-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu4-sec4-3]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu4-sec4-4]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 5** Limitations des opérations
 
 [^lvlu4-sec5-1]
 
-[^lvlu4-sec5-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec5-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) Le montant total des prêts et des garanties non réglés qu’aura accordés la Banque, au titre de ses opérations ordinaires, ne devra excéder à aucun moment le montant total du capital ordinaire souscrit de la Banque libre de charges, plus l’excédent non distribué et les réserves non grevées comprises dans les ressources ordinaires de capital de la Banque, lesquelles sont définies à l’Art. II, Section 5, à l’exclusion des revenus destinés à la réserve spéciale, établie conformément à la Section 13 du présent article et à l’exclusion également de tous revenus des ressources ordinaires de capital destinés par décision de l’Assemblée des Gouverneurs aux réserves non utilisables pour accorder des prêts ou consentir des garanties.
 
@@ -235,7 +228,7 @@ En accordant des prêts directs ou en participant à des prêts directs, la Banq
 
 ### **Section 9** Usage des prêts accordés ou garantis par la Banque
 
-(a) A l’exception de ce qui est prévu à l’Art. V, Section 1, la Banque n’imposera pas comme condition que le produit d’un prêt soit dépensé dans le territoire d’un pays donné; elle n’imposera pas non plus comme condition que le produit d’un prêt ne soit pas dépensé dans le territoire d’un pays membre donné ou dans les territoires de pays membres déterminés; il est entendu toutefois qu’en ce qui concerne toute augmentation des ressources de la Banque, l’Assemblée des Gouverneurs pourra imposer une restriction aux acquisitions de la Banque ou de tout pays membre auprès des membres qui ne participent pas à une augmentation aux termes et conditions spécifiés par l’Assemblée des Gouverneurs.
+(a) À l’exception de ce qui est prévu à l’Art. V, Section 1, la Banque n’imposera pas comme condition que le produit d’un prêt soit dépensé dans le territoire d’un pays donné; elle n’imposera pas non plus comme condition que le produit d’un prêt ne soit pas dépensé dans le territoire d’un pays membre donné ou dans les territoires de pays membres déterminés; il est entendu toutefois qu’en ce qui concerne toute augmentation des ressources de la Banque, l’Assemblée des Gouverneurs pourra imposer une restriction aux acquisitions de la Banque ou de tout pays membre auprès des membres qui ne participent pas à une augmentation aux termes et conditions spécifiés par l’Assemblée des Gouverneurs.
 
 (b) La Banque prendra les mesures nécessaires en vue de s’assurer que le produit de tout prêt accordé ou garanti, ou auquel elle a participé soit destiné uniquement aux fins pour lesquelles le prêt aura été consenti, en accordant l’attention voulue aux considérations d’économie et d’efficience.
 
@@ -264,7 +257,7 @@ Le montant des commissions reçues par la ’Banque au titre de la Section 12 du
 
 ## Art. IVFonds des opérations spéciales
 
-### **Section 1** Etablissement, objectif et attributions
+### **Section 1** Établissement, objectif et attributions
 
 Il est établi un Fonds des Opérations spéciales pour effectuer des prêts à des termes et à des conditions permettant de faire face aux circonstances spéciales pouvant survenir dans les pays membres ou d’entreprendre des projets déterminés. Le Fonds, dont l’administration sera confié à la Banque, aura l’objectif et les attributions énoncés à l’Art. I du présent Accord.
 
@@ -276,19 +269,19 @@ Le Fonds sera régi par les dispositions du présent article et par les autres n
 
 (a) Les membres fondateurs de la Banque contribueront aux ressources du Fonds conformément aux dispositions de la présente section.
 
-(b) Les membres de l’Organisation des Etats Américains admis à la Banque après la date stipulée à l’Art. XV, Section 1 (a), le Canada, les Bahamas et la Guyane et les pays admis en application de l’Art. II, Section 1 (b) apporteront au Fonds les quotes‑parts fixées par la Banque, dans les conditions que celle‑ci aura définies.
+(b) Les membres de l’Organisation des États Américains admis à la Banque après la date stipulée à l’Art. XV, Section 1 (a), le Canada, les Bahamas et la Guyane et les pays admis en application de l’Art. II, Section 1 (b) apporteront au Fonds les quotes‑parts fixées par la Banque, dans les conditions que celle‑ci aura définies.
 
-(c) Le Fonds sera établi avec des ressources initiales de cent cinquante millions de dollars ($ 150 000 000) des Etats‑Unis, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959, lesquels seront versés par les membres fondateurs suivant les quotas spécifiés à l’Annexe B.[^lvlu5-sec3-1]
+(c) Le Fonds sera établi avec des ressources initiales de cent cinquante millions de dollars ($ 150 000 000) des États‑Unis, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959, lesquels seront versés par les membres fondateurs suivant les quotas spécifiés à l’Annexe B.[^lvlu5-sec3-1]
 
 (d) Le paiement des quotas devra se faire de la manière suivante:
 
 - (i) les premiers cinquante pour cent de chaque quote‑part devront être versés par chaque pays membre à n’importe quel moment à partir de la date de la signature du présent Accord, prévue à l’Art. XV, Section 1, et du dépôt de l’instrument d’acceptation ou de ratification mais au plus tard le 30 septembre 1960;
 - (ii) les autres cinquante pour cent seront versés à n’importe quel moment, pour le moins une année après l’ouverture des opérations de la Banque, au montant et aux époques que déterminera la Banque. Cependant, le versement de la totalité des quotes‑parts devra être requis et avoir été payé à une date antérieure à celle fixée pour le paiement de la troisième tranche des souscriptions du capital‑actions versé effectivement de la Banque;
-- (iii) les paiements qui doivent s’effectuer conformément à la présente section seront exigés des membres en proportion de leurs quotas, la moitié en or ou en dollars des Etats-Unis d’Amérique, ou sous les deux formes, et l’autre moitié dans la monnaie du pays qui contribue.
+- (iii) les paiements qui doivent s’effectuer conformément à la présente section seront exigés des membres en proportion de leurs quotas, la moitié en or ou en dollars des États-Unis d’Amérique, ou sous les deux formes, et l’autre moitié dans la monnaie du pays qui contribue.
 
-(e) Chaque paiement d’un membre dans sa propre monnaie, conformément aux dispositions du paragraphe précédent, devra être d’un montant qui, d’après l’opinion de la Banque, soit, en dollars des Etats-Unis d’Amérique du poids et du titre en vigueur au 1<sup>er</sup> janvier 1959, égal à la valeur totale de la partie de la souscription en train d’être réglée. Le versement initial se fera dans le montant que le pays membre jugera adéquat, mais il restera sujet aux ajustements à effectuer dans les 60 jours à partir de la date à laquelle le versement sera arrivé à échéance. La Banque déterminera le montant des ajustements nécessaires pour constituer l’équivalent en dollars du montant total à payer en vertu du présent paragraphe.
+(e) Chaque paiement d’un membre dans sa propre monnaie, conformément aux dispositions du paragraphe précédent, devra être d’un montant qui, d’après l’opinion de la Banque, soit, en dollars des États-Unis d’Amérique du poids et du titre en vigueur au 1<sup>er</sup> janvier 1959, égal à la valeur totale de la partie de la souscription en train d’être réglée. Le versement initial se fera dans le montant que le pays membre jugera adéquat, mais il restera sujet aux ajustements à effectuer dans les 60 jours à partir de la date à laquelle le versement sera arrivé à échéance. La Banque déterminera le montant des ajustements nécessaires pour constituer l’équivalent en dollars du montant total à payer en vertu du présent paragraphe.
 
-(f) A moins que l’Assemblée des Gouverneurs n’en décide autrement à la majorité des trois quarts de la totalité des voix des pays membres, la responsabilité des membres en ce qui a trait au paiement de n’importe quelle somme requise sur la portion non liquidée de ses quotas de souscription au Fonds, sera conditionnée au paiement des 90 % au moins des obligations totales des membres relatives:
+(f) À moins que l’Assemblée des Gouverneurs n’en décide autrement à la majorité des trois quarts de la totalité des voix des pays membres, la responsabilité des membres en ce qui a trait au paiement de n’importe quelle somme requise sur la portion non liquidée de ses quotas de souscription au Fonds, sera conditionnée au paiement des 90 % au moins des obligations totales des membres relatives:
 
 - (i) au paiement initial et à tous les autres paiements qui auront été requis antérieurement au titre des quotas de contribution au Fonds;
 - (ii) aux tranches dues sur la portion du capital‑actions effectivement versée de la Banque.
@@ -298,13 +291,13 @@ Le Fonds sera régi par les dispositions du présent article et par les autres n
 (h) Il reste entendu que, dans le présent Accord, l’expression «ressources du Fonds» se réfère aux éléments suivants.
 
 - (i) les contributions apportées par les membres conformément aux par. (c) et (g) de la présente section;
-- [tab] (ii)[^lvlu5-sec3-2] tous lés fonds provenant d’emprunts auxquels ne s’appliquent pas les clauses de l’Art. II, Section 4 (a) (ii), et qui sont spécifiquement imputables sur les ressources du Fonds;
+- (ii)[^lvlu5-sec3-2] tous les fonds provenant d’emprunts auxquels ne s’appliquent pas les clauses de l’Art. II, Section 4 (a) (ii), et qui sont spécifiquement imputables sur les ressources du Fonds;
 - (iii) tous les fonds reçus en remboursement de prêts effectués avec les ressources ci‑dessus indiquées;
 - (iv) tous les revenus provenant des opérations qui utilisent ou engagent n’importe laquelle des ressources plus haut mentionnées;
 - (v) toutes les autres ressources à la disposition du Fonds.
 
-[^lvlu5-sec3-1]: En vertu d’une série de résolutions adoptées à des dates différentes, dont la dernière à pris effet à la date à laquelle ce texte a été certifié, l’Assemblée des Gouverneurs a augmenté les ressources autorisées du Fonds à un montant équivalent à 5 439 974 000 dollars courants des Etats-Unis.
-[^lvlu5-sec3-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu5-sec3-1]: En vertu d’une série de résolutions adoptées à des dates différentes, dont la dernière à pris effet à la date à laquelle ce texte a été certifié, l’Assemblée des Gouverneurs a augmenté les ressources autorisées du Fonds à un montant équivalent à 5 439 974 000 dollars courants des États-Unis.
+[^lvlu5-sec3-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 4** Opérations
 
@@ -373,45 +366,45 @@ Les dispositions de l’Art. X s’appliqueront également au Fonds, en substitu
 
 (c) La monnaie d’un pays membre détenue par la Banque, que ce soit comme partie de ses ressources ordinaires de capital ou comme partie des ressources du Fonds, qui n’entre pas dans l’une des catégories visées au par. (b) de la présente section, pourra être également utilisée par la Banque ou par tout détenteur qui l’aura reçue de la Banque pour effectuer des paiements dans n’importe quel pays sans restrictions d’aucune sorte, à moins que le pays membre ne notifie à la Banque son désir que l’utilisation de sa monnaie ou d’une partie de celle-ci soit limitée aux fins spécifiées au par. (a) de la présente section».[^lvlu6-sec1-2]
 
-(d) Les pays membres ne pourront imposer aucune restriction au droit de la Banque de conserver les monnaies reçues en remboursement de prêts directs accordés sur les fonds empruntés et qui font partie des ressources ordinaires de capital ... de la Banque, et d’utiliser ces monnaies, soit pour l’amortissement, soit pour le paiement anticipé, soit pour le rachat en tout ou en partie des obligations de la Banque.[^lvlu6-sec1-3]
+(d) Les pays membres ne pourront imposer aucune restriction au droit de la Banque de conserver les monnaies reçues en remboursement de prêts directs accordés sur les fonds empruntés et qui font partie des ressources ordinaires de capital … de la Banque, et d’utiliser ces monnaies, soit pour l’amortissement, soit pour le paiement anticipé, soit pour le rachat en tout ou en partie des obligations de la Banque.[^lvlu6-sec1-3]
 
-(e) L’or ou les monnaies détenus par la Banque, comme partie de ses ressources ordinaires de capital ... ou comme partie des ressources du Fonds, ne pourront pas être utilisés par la Banque pour acheter d’autres monnaies, à moins qu’elle n’y soit autorisée par la majorité des deux tiers du total des voix des pays membres. Les monnaies achetées conformément aux dispositions du présent paragraphe ne seront pas soumises aux règles relatives au maintien de la valeur des monnaies stipulées à la Section 3 du présent article.[^lvlu6-sec1-4]
+(e) L’or ou les monnaies détenus par la Banque, comme partie de ses ressources ordinaires de capital … ou comme partie des ressources du Fonds, ne pourront pas être utilisés par la Banque pour acheter d’autres monnaies, à moins qu’elle n’y soit autorisée par la majorité des deux tiers du total des voix des pays membres. Les monnaies achetées conformément aux dispositions du présent paragraphe ne seront pas soumises aux règles relatives au maintien de la valeur des monnaies stipulées à la Section 3 du présent article.[^lvlu6-sec1-4]
 
-[^lvlu6-sec1-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-3]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-4]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu6-sec1-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-3]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-4]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
-### **Section 2** Evaluation des monnaies
+### **Section 2** Évaluation des monnaies
 
 Toutes les fois que cela sera nécessaire conformément au présent Accord, l’évaluation d’une monnaie en termes d’une autre monnaie ou de l’or sera faite par la Banque après consultation avec le Fonds monétaire international.
 
 ### **Section 3** Maintien de la valeur des monnaies en possession de la Banque
 
-(a) Toutes les fois qu’au Fonds monétaire international, la valeur au pair de la monnaie d’un pays membre aura été réduite ou que le taux de change de la monnaie d’un pays membre aura, dans l’opinion de la Banque, subi une dépréciation considérable, le membre devra, dans un délai raisonnable, verser dans sa propre monnaie à la Banque une somme additionnelle suffisante pour rétablir au niveau initial la valeur totale en dollars de sa monnaie détenue par la Banque soit au titre des ressources ordinaires de capital ... soit au titre des ressources du Fonds, à l’exception de la monnaie provenant des fonds empruntés par la Banque. L’étalon monétaire de base sera le dollar des Etats-Unis d’Amérique, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.[^lvlu6-sec3-1]
+(a) Toutes les fois qu’au Fonds monétaire international, la valeur au pair de la monnaie d’un pays membre aura été réduite ou que le taux de change de la monnaie d’un pays membre aura, dans l’opinion de la Banque, subi une dépréciation considérable, le membre devra, dans un délai raisonnable, verser dans sa propre monnaie à la Banque une somme additionnelle suffisante pour rétablir au niveau initial la valeur totale en dollars de sa monnaie détenue par la Banque soit au titre des ressources ordinaires de capital … soit au titre des ressources du Fonds, à l’exception de la monnaie provenant des fonds empruntés par la Banque. L’étalon monétaire de base sera le dollar des États-Unis d’Amérique, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.[^lvlu6-sec3-1]
 
-(b) Chaque fois que la valeur au pair de la monnaie d’un pays membre sera augmentée au Fonds monétaire international, ou que le taux de change de la monnaie de ce membre aura, dans l’opinion de la Banque, enregistré un accroissement considérable, la Banque devra, dans un délai raisonnable, retourner audit membre une quantité de sa monnaie égale à l’accroissement de la valeur du montant total que la Banque détient en cette monnaie au titre de ses ressources ordinaires de capital ... ou au titre des ressources du Fonds, à l’exception des fonds provenant des emprunts réalisés par la Banque. A cette fin, l’étalon de valeur restera le même qu’au paragraphe précédent.[^lvlu6-sec3-2]
+(b) Chaque fois que la valeur au pair de la monnaie d’un pays membre sera augmentée au Fonds monétaire international, ou que le taux de change de la monnaie de ce membre aura, dans l’opinion de la Banque, enregistré un accroissement considérable, la Banque devra, dans un délai raisonnable, retourner audit membre une quantité de sa monnaie égale à l’accroissement de la valeur du montant total que la Banque détient en cette monnaie au titre de ses ressources ordinaires de capital … ou au titre des ressources du Fonds, à l’exception des fonds provenant des emprunts réalisés par la Banque. À cette fin, l’étalon de valeur restera le même qu’au paragraphe précédent.[^lvlu6-sec3-2]
 
 (c) La Banque pourra renoncer aux dispositions de la présente section, lorsque le Fonds monétaire international aura modifié dans une proportion uniforme la valeur au pair des monnaies de tous les membres de la Banque.
 
 (d) Nonobstant toute autre disposition de la présente section, les termes et conditions de toute augmentation des ressources du Fonds conformément à l’Art. IV, Section 3 (g), pourront comprendre des dispositions relatives au maintien de la valeur des monnaies, autres que celles qui sont prévues dans la présente section, applicables aux ressources du Fonds provenant de cette augmentation.
 
-[^lvlu6-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec3-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu6-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec3-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 4** Méthodes de conservation des monnaies
 
 [^lvlu6-sec4-1]
 
-[^lvlu6-sec4-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu6-sec4-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
-La Banque acceptera de tout pays membre des billets à ordre ou des titres similaires émis par le gouvernement du pays membre ou par le dépositaire désigné par lui, en remplacement de toute partie de la monnaie du pays membre jusqu’à concurrence de 50 % de la souscription au capital ordinaire autorisé de la Banque et de 50 % de la souscription aux ressources du Fonds qui, en vertu des Art. II et IV, respectivement, sont payables par chaque membre en sa monnaie nationale, pourvu que cette monnaie ne soit pas nécessaire à la Banque pour mener ses opérations. Ces titres ou billets ne seront pas négociables, ils ne porteront pas intérêt et seront payables à la Banque à leur valeur au pair sur la demande de celle-ci. Aux mêmes conditions, la Banque acceptera également ces titres ou billets en remplacement de toute partie de la souscription d’un pays membre ... dont les conditions de souscription n’exigent pas le paiement en espèces.
+La Banque acceptera de tout pays membre des billets à ordre ou des titres similaires émis par le gouvernement du pays membre ou par le dépositaire désigné par lui, en remplacement de toute partie de la monnaie du pays membre jusqu’à concurrence de 50 % de la souscription au capital ordinaire autorisé de la Banque et de 50 % de la souscription aux ressources du Fonds qui, en vertu des Art. II et IV, respectivement, sont payables par chaque membre en sa monnaie nationale, pourvu que cette monnaie ne soit pas nécessaire à la Banque pour mener ses opérations. Ces titres ou billets ne seront pas négociables, ils ne porteront pas intérêt et seront payables à la Banque à leur valeur au pair sur la demande de celle-ci. Aux mêmes conditions, la Banque acceptera également ces titres ou billets en remplacement de toute partie de la souscription d’un pays membre … dont les conditions de souscription n’exigent pas le paiement en espèces.
 
-## Art. VI Assistance technique
+## Art. VIAssistance technique
 
 ### **Section 1** Dispositions en faveur de l’assistance et du conseil techniques
 
-A la demande d’un pays ou de plusieurs pays membres, ou à la demande d’entre-prises privées pouvant obtenir des prêts de la Banque, celle-ci pourra, dans sa sphère d’action, accorder l’assistance et le conseil techniques, spécialement:
+À la demande d’un pays ou de plusieurs pays membres, ou à la demande d’entre-prises privées pouvant obtenir des prêts de la Banque, celle-ci pourra, dans sa sphère d’action, accorder l’assistance et le conseil techniques, spécialement:
 
 - (i) dans la préparation, le financement et l’exécution des plans et des projets de développement, y compris l’étude des priorités et la présentation des propositions de prêts concernant des projets spécifiques de développement national ou régional;
 - (ii) dans la formation et le perfectionnement du personnel spécialisé, en ayant recours aux séminaires et aux autres formes d’entraînement, dans la préparation et l’exécution des plans et des projets de développement.
@@ -424,9 +417,9 @@ En vue d’atteindre les buts visés au présent article, la Banque pourra concl
 
 (a) La Banque pourra conclure, avec les pays membres ou les entreprises qui reçoivent l’assistance technique, des arrangements comportant le remboursement des dépenses effectuées, aux conditions que la Banque jugera appropriées.
 
-(b) Les dépenses faites au titre de l’assistance technique non remboursées par les bénéficiaires seront couvertes par les profits nets des ressources ordinaires de capital ... ou du Fonds. Toutefois, pendant les trois premières années d’opération, la Banque pourra utiliser, pour faire face à ces dépenses, jusqu’à concurrence de trois pour cent des ressources initiales du Fonds.[^lvlu7-sec3-1]
+(b) Les dépenses faites au titre de l’assistance technique non remboursées par les bénéficiaires seront couvertes par les profits nets des ressources ordinaires de capital … ou du Fonds. Toutefois, pendant les trois premières années d’opération, la Banque pourra utiliser, pour faire face à ces dépenses, jusqu’à concurrence de trois pour cent des ressources initiales du Fonds.[^lvlu7-sec3-1]
 
-[^lvlu7-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu7-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. VIIPouvoirs divers et distribution des bénéfices
 
@@ -434,13 +427,13 @@ En vue d’atteindre les buts visés au présent article, la Banque pourra concl
 
 En outre des pouvoirs indiqués dans les autres parties du présent Accord, la Banque aura le pouvoir:
 
-- (i)[^lvlu8-sec1-1] d’emprunter des fonds et, pour cela, de fournir les garanties qu’elles jugera convenables, pourvu qu’avant de vendre ses propres obligations sur les marchés d’un pays, la Banque ait obtenu l’assentiment dudit pays et du pays membre dans la monnaie duquel les obligations sont émises. En outre, dans les cas des emprunts pour des fonds à incorporer aux ressources ordinaires de capital ... de la Banque, cette dernière devra obtenir l’assentiment desdits pays pour que le produit de l’emprunt puisse être changé contre la monnaie de n’importe quel autre pays sans aucune restriction;
+- (i)[^lvlu8-sec1-1] d’emprunter des fonds et, pour cela, de fournir les garanties qu’elles jugera convenables, pourvu qu’avant de vendre ses propres obligations sur les marchés d’un pays, la Banque ait obtenu l’assentiment dudit pays et du pays membre dans la monnaie duquel les obligations sont émises. En outre, dans les cas des emprunts pour des fonds à incorporer aux ressources ordinaires de capital … de la Banque, cette dernière devra obtenir l’assentiment desdits pays pour que le produit de l’emprunt puisse être changé contre la monnaie de n’importe quel autre pays sans aucune restriction;
 - (ii) d’acheter et de vendre les titres émis ou garantis par elle ou dans lesquels elle a placé des fonds, à condition d’obtenir l’assentiment du pays dans les territoires duquel lesdites valeurs doivent être achetées ou vendues;
 - (iii) d’investir avec l’approbation de la majorité des deux tiers de la totalité des voix des pays membres, les fonds dont elle n’a pas besoin pour ses opérations, dans les obligations qu’elle déterminera;
 - (iv) de garantir les titres qu’elle a en portefeuille en vue d’en faciliter al vente;
 - (v) d’exercer tous autres pouvoirs qui seront nécessaires ou désirables relativement à ses objectifs et à ses attributions, conformément aux dispositions du présent Accord.
 
-[^lvlu8-sec1-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu8-sec1-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 2** Avis devant figurer sur les titres
 
@@ -450,13 +443,13 @@ Il sera clairement indiqué au recto de toute valeur garantie ou émise par la B
 
 [^lvlu8-sec3-1]
 
-[^lvlu8-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu8-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
-(a) La Banque, en cas de défaut ou de menace de défaut de paiement d’un prêt accordé ou garanti avec les ressources ordinaires de capital ..., prendra les mesures qu’elle jugera opportunes en vue de modifier les conditions du prêt, sauf en ce qui concerne la monnaie dans laquelle le prêt doit être remboursé.
+(a) La Banque, en cas de défaut ou de menace de défaut de paiement d’un prêt accordé ou garanti avec les ressources ordinaires de capital …, prendra les mesures qu’elle jugera opportunes en vue de modifier les conditions du prêt, sauf en ce qui concerne la monnaie dans laquelle le prêt doit être remboursé.
 
-(b) Le montant des paiements effectués par la Banque pour s’acquitter des obligations résultant des emprunts réalisés ou des garanties accordées en vertu de l’Art. III, Section 4 (ii) et (iii) qui affectent les ressources ordinaires de capital de la Banque, sera prélevé;
+(b) Le montant des paiements effectués par la Banque pour s’acquitter des obligations résultant des emprunts réalisés ou des garanties accordées en vertu de l’Art. III, Section 4 (ii) et (iii) qui affectent les ressources ordinaires de capital de la Banque, sera prélevé:
 
-- (i) tout d’abord, sur la réserve spéciale prévue à l’Art. III, Section 13; et
+- (i) tout d’abord, sur la réserve spéciale prévue à l’Art. III, Section 13, et
 - (ii) ensuite, dans la mesure nécessaire et au moment que la Banque jugera convenable, sur les autres réserves, l’excédent et les fonds correspondant au capital payé par les actions du capital ordinaire.
 
 (c) La Banque pourra, ainsi qu’il est prévu à l’Art. II, Section 4 (a) (ii), faire l’appel d’un montant convenable sur les souscriptions de capital ordinaire non versées des pays membres, en vue de faire face aux paiements contractuels d’intérêts, aux autres charges ou aux amortissements afférents à ses propres emprunts payables par ses ressources ordinaires de capital ou pour faire face aux obligations relatives à des paiements analogues concernant les prêts payables ou garantis par ses ressources ordinaires de capital. En outre, si la Banque estime que le défaut de paiement peut être de longue durée, elle pourra faire l’appel sur ces souscriptions non payées d’une part additionnelle qui ne devra pas dépasser au cours d’une année quelconque 1 % du total des souscriptions des pays membres aux ressources ordinaires de capital, aux fins de:
@@ -468,15 +461,15 @@ Il sera clairement indiqué au recto de toute valeur garantie ou émise par la B
 
 [^lvlu8-sec4-1]
 
-[^lvlu8-sec4-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu8-sec4-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
-(a) L’Assemblée des Gouverneurs pourra déterminer périodiquement quelle part des bénéfices nets et de l’excédent des ressources ordinaires de capital ... sera distribuée. Cette répartition aura lieu seulement lorsque les réserves auront atteint un niveau jugé suffisant par l’Assemblée des Gouverneurs.
+(a) L’Assemblée des Gouverneurs pourra déterminer périodiquement quelle part des bénéfices nets et de l’excédent des ressources ordinaires de capital … sera distribuée. Cette répartition aura lieu seulement lorsque les réserves auront atteint un niveau jugé suffisant par l’Assemblée des Gouverneurs.
 
-(b) Lorsqu’elle approuve les états des pertes et profits conformément à l’Art. VIII, Section 2 (b) (viii), l’Assemblée des Gouverneurs peut, par une décision prise à la majorité des deux tiers du nombre total de Gouverneurs représentant au moins les trois quarts de la totalité des voix des pays membres, transférer au Fonds une partie des bénéfices nets des ressources ordinaires de capital ... pour l’exercice correspondant.
+(b) Lorsqu’elle approuve les états des pertes et profits conformément à l’Art. VIII, Section 2 (b) (viii), l’Assemblée des Gouverneurs peut, par une décision prise à la majorité des deux tiers du nombre total de Gouverneurs représentant au moins les trois quarts de la totalité des voix des pays membres, transférer au Fonds une partie des bénéfices nets des ressources ordinaires de capital … pour l’exercice correspondant.
 
 Avant de décider d’opérer un transfert au Fonds, l’Assemblé des Gouverneurs devra avoir reçu du Conseil des Directeurs exécutifs un rapport sur l’opportunité d’un tel transfert, lequel tiendra compte, entre autres, (1) de la question de savoir si les réserves ont atteint un niveau suffisant; (2) de la question de savoir si les fonds transférés sont nécessaires pour les opérations du Fonds; (3) de ses répercussions, le cas échéant, sur la capacité d’emprunter de la Banque.
 
-(c) La répartition visée au par. (a) de la présente section se fera sur les ressources ordinaires de capital proportionnellement au nombre des actions du capital ordinaires détenues par chaque membre ... et, de même, les bénéfices nets transférés au Fonds conformément au par. (b) de la présente section seront crédités au total des quotas de contributions au Fonds de chaque pays membre dans la proportion susmentionnée.
+(c) La répartition visée au par. (a) de la présente section se fera sur les ressources ordinaires de capital proportionnellement au nombre des actions du capital ordinaires détenues par chaque membre … et, de même, les bénéfices nets transférés au Fonds conformément au par. (b) de la présente section seront crédités au total des quotas de contributions au Fonds de chaque pays membre dans la proportion susmentionnée.
 
 (d) Les paiements faits conformément au par. (a) de la présente section seront effectués de la manière et dans la ou les monnaies que déterminera l’Assemblée. Si les paiements sont faits à un pays membre dans une monnaie autre que sa monnaie nationale, le transfert de cette monnaie et son emploi par le pays qui la reçoit ne pourront faire l’objet d’aucune restriction de la parte d’un autre pays membre.
 
@@ -517,10 +510,10 @@ La Banque comprendra une Assemblée des Gouverneurs, un Conseil des Directeurs E
 
 (h) Les Gouverneurs et leurs Suppléants ne seront pas rémunérés par la Banque pour leurs services; la Banque pourra toutefois rembourser les dépenses raisonnables qu’ils auront encourues pour assister aux réunions de l’Assemblée.
 
-[^lvlu9-sec2-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu9-sec2-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu9-sec2-3]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu9-sec2-4]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu9-sec2-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu9-sec2-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu9-sec2-3]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu9-sec2-4]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 3** Conseil des Directeurs Exécutifs
 
@@ -548,11 +541,11 @@ La Banque comprendra une Assemblée des Gouverneurs, un Conseil des Directeurs E
 
 [^lvlu9-sec4-1]
 
-[^lvlu9-sec4-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu9-sec4-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
-(a) Chaque pays membre disposera de 135 voix plus une voie pour chaque action qu’il possède dans le capital ordinaire ... de la Banque, étant entendu toutefois qu’en ce qui concerne toute augmentation du capital ordinaire ... autorisé, l’Assemblée des Gouverneurs pourra décider que les actions autorisées par cette augmentation ne jouiront pas du droit de vote et que cette augmentation de capital n’est pas soumise aux droits de préemption établis à l’Art. II, Section 3 (b).
+(a) Chaque pays membre disposera de 135 voix plus une voie pour chaque action qu’il possède dans le capital ordinaire … de la Banque, étant entendu toutefois qu’en ce qui concerne toute augmentation du capital ordinaire … autorisé, l’Assemblée des Gouverneurs pourra décider que les actions autorisées par cette augmentation ne jouiront pas du droit de vote et que cette augmentation de capital n’est pas soumise aux droits de préemption établis à l’Art. II, Section 3 (b).
 
-(b) Aucune augmentation de la souscription d’un pays membre quelconque ... au capital ordinaire... , ne pourra être appliquée et il est renoncé par le présent Accord à tout droit de souscription à cet égard, si elle avait pour effet de réduire le nombre des voix (i) des pays membres en voie de développement de la région à moins de 53,5 % du nombre total des voix des pays membres; (ii) du pays membre qui possède le plus grand nombre d’actions de la Banque à moins de 34,5 % dudit nombre total des voix; ou (iii) du Canada à moins de 4 % dudit nombre total des voix.
+(b) Aucune augmentation de la souscription d’un pays membre quelconque … au capital ordinaire… , ne pourra être appliquée et il est renoncé par le présent Accord à tout droit de souscription à cet égard, si elle avait pour effet de réduire le nombre des voix (i) des pays membres en voie de développement de la région à moins de 53,5 % du nombre total des voix des pays membres; (ii) du pays membre qui possède le plus grand nombre d’actions de la Banque à moins de 34,5 % dudit nombre total des voix; ou (iii) du Canada à moins de 4 % dudit nombre total des voix.
 
 (c) Dans les votes de l’Assemblée des Gouverneurs, chaque Gouverneur disposera du nombre de voix qui correspondent au pays membre qu’il représente. Sauf disposition expresse du contraire énoncée dans le présent Accord, toute question dont pourra connaître l’Assemblée des Gouverneurs sera décidée à la majorité du total des voix des pays membres.
 
@@ -588,7 +581,7 @@ Le Vice-Président Exécutif participera aux réunions du Conseil des Directeurs
 
 (b) La Banque pourra publier aussi tous autres rapports qu’elle jugera utiles à l’accomplissement de ses objectifs et à l’exercice de ses attributions.
 
-[^lvlu9-sec6-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu9-sec6-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. IXRetrait et suspension des pays membres
 
@@ -617,13 +610,13 @@ Un pays membre frappé de suspension ne pourra, tant que la mesure de suspension
 (d) Si l’arrangement visé au paragraphe précédent n’est pas conclu dans les six mois qui suivront la date à laquelle le pays aura cessé d’être membre, ou dans un délai qui sera convenu par les deux ensemble, le prix de rachat des actions sera la valeur ressortant des livres de la Banque le jour où le pays en question aura cessé d’être membre. Dans ce cas, le rachat se fera dans les conditions suivantes:
 
 - (i) le paiement du prix des actions pourra s’effectuer seulement après la remise des titres par les pays en cause, et ce paiement s’effectuera par termes, aux échéances et dans la monnaie que la Banque, compte tenu de sa situation financière, pourra fixer;
-- (ii)[^lvlu10-sec3-1] toute somme due par la Banque à un pays au titre de rachat des actions de ce dernier sera retenue dans la mesure où le pays ou l’un quelconque de ses subdivisions politiques ou de ses organismes gouvernementaux aura vis-à-vis de la Banque des obligations pendantes, soit à titre de prêt, soit à titre de garantie, et la somme retenue pourra être appliquée au gré de la Banque à la liquidation de l’une de ces obligations, à mesure qu’elles deviennent exigibles. Cependant, la Banque ne pourra retenir aucun montant à cause de la responsabilité éventuelle qu’aurait le pays en cas d’appels de paiement sur sa souscription en vertu de l’Art. II, Section 4 (a) (ii); ...
-- (iii)[^lvlu10-sec3-2] si la Banque subit une perte nette afférente à des prêts, participations ou garanties encore pendants à la date où le pays a cessé d’être membre et si, à cette même date, le montant de ces pertes excède celui des réserves accumulées pour y faire face, ledit pays est tenu de rembourser, lorsqu’il en est requis, une somme égale à celle dont aurait été diminué le prix de rachat de ses actions si compte avait été tenu de ces pertes au moment de la détermination – d’après les livres de la Banque – de la valeur comptable de ces actions. De plus, le pays qui a cessé d’être membre restera encore tenu de répondre à tout appel concernant les souscriptions mentionnées à l’Art. II, Section 4 (a) (ii), ... dans la mesure où il aurait été obligé de le faire si la perte de capital s’était produite et si l’appel avait eu lieu à l’époque de la détermination du prix de rachat des actions.
+- (ii)[^lvlu10-sec3-1] toute somme due par la Banque à un pays au titre de rachat des actions de ce dernier sera retenue dans la mesure où le pays ou l’un quelconque de ses subdivisions politiques ou de ses organismes gouvernementaux aura vis-à-vis de la Banque des obligations pendantes, soit à titre de prêt, soit à titre de garantie, et la somme retenue pourra être appliquée au gré de la Banque à la liquidation de l’une de ces obligations, à mesure qu’elles deviennent exigibles. Cependant, la Banque ne pourra retenir aucun montant à cause de la responsabilité éventuelle qu’aurait le pays en cas d’appels de paiement sur sa souscription en vertu de l’Art. II, Section 4 (a) (ii); …
+- (iii)[^lvlu10-sec3-2] si la Banque subit une perte nette afférente à des prêts, participations ou garanties encore pendants à la date où le pays a cessé d’être membre et si, à cette même date, le montant de ces pertes excède celui des réserves accumulées pour y faire face, ledit pays est tenu de rembourser, lorsqu’il en est requis, une somme égale à celle dont aurait été diminué le prix de rachat de ses actions si compte avait été tenu de ces pertes au moment de la détermination – d’après les livres de la Banque – de la valeur comptable de ces actions. De plus, le pays qui a cessé d’être membre restera encore tenu de répondre à tout appel concernant les souscriptions mentionnées à l’Art. II, Section 4 (a) (ii), … dans la mesure où il aurait été obligé de le faire si la perte de capital s’était produite et si l’appel avait eu lieu à l’époque de la détermination du prix de rachat des actions.
 
 (e) En aucun cas, une somme due à un pays au titre du rachat de ses actions, en vertu de la présente section, ne pourra être versée avant six mois à compter de la date à laquelle il aura cessé d’être membre. Si au cours de cette période, la Banque met fin à ses opérations, tous les droits du pays en question seront déterminés d’après les dispositions de l’Art. X, et ledit pays, pour les effets du même article, sera considéré comme étant encore membre de la Banque sauf qu’il n’aura pas le droit de vote.
 
-[^lvlu10-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu10-sec3-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu10-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu10-sec3-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. XSuspension et arrêt des opérations
 
@@ -641,7 +634,7 @@ La Banque peut mettre fin aux opérations par une décision de l’Assemblée de
 
 Tous les créanciers directs seronts payés d’abord sur les actifs de la Banque et ensuite sur les fonds recouvrés au titre du capital-actions à verser effectivement mais non payé et sur les fonds recouvrés au titre du capital-actions sujet à l’appel.[^lvlu11-sec3-1] Avant d’effectuer aucun paiement aux créanciers directs, le Conseil des Directeurs Exécutifs devra prendre toutes les dispositions qu’il jugera nécessaires pour assurer une distribution au prorata entre les créanciers porteurs d’obligations directes et les créanciers porteurs d’obligations éventuelles.
 
-[^lvlu11-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu11-sec3-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Section 4** Distribution de l’actif
 
@@ -725,12 +718,12 @@ Chaque membre prendra, conformément à son système légal, toutes les mesures 
 
 - (i) le droit de se retirer de la Banque, prévu à l’Art. IX, Section 1;
 - (ii) le droit d’acheter des actions de la Banque et de contribuer au Fonds, prévu à l’Art. II, Section 3 (b) et à l’Art. IV, Section 3 (g), respectivement;
-- (iii)[^lvlu13-2] la limitation de la responsabilité, prévue à l’Art. II, Section 3 (d) ... et à l’Art. IV, Section 5.
+- (iii)[^lvlu13-2] la limitation de la responsabilité, prévue à l’Art. II, Section 3 (d) … et à l’Art. IV, Section 5.
 
 (c) Toute proposition visant à amender le présent Accord, qu’elle émane d’un membre ou du Conseil des Directeurs Exécutifs, devra être communiquée au Président de l’Assemblée des Gouverneurs qui la soumettra à l’examen de ladite Assemblée. Lorsqu’un amendement aura été adopté, la Banque en donnera communication par note officielle à tous les pays membres. Les amendements entreront en vigueur pour tous les pays membres trois mois après la date de la note officielle à moins que l’Assemblée des Gouverneurs n’ait fixé un autre délai.
 
-[^lvlu13-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu13-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu13-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu13-2]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. XIIIInterprétation et arbitrage
 
@@ -744,7 +737,7 @@ Les pays membres, particulièrement intéressés dans le différend en discussio
 
 ### **Section 2** Arbitrage
 
-Si un désaccord surgissait entre la Banque et un pays qui a cessé d’être membre, ou entre la Banque et un pays membre, après que la décision ait été prise de mettre fin aux opérations de la Banque, ce désaccord serait soumis à l’arbitrage d’un tribunal de trois personnes. Un arbitre serait nommé par la Banque, un autre par le pays intéressé et le troisième, sauf si les parties en convenaient autrement, par le Secrétaire général de l’Organisation des Etats Américains. Si les efforts pour arriver à un accord unanime échouaient, les décisions seraient prises à la majorité des trois arbitres.
+Si un désaccord surgissait entre la Banque et un pays qui a cessé d’être membre, ou entre la Banque et un pays membre, après que la décision ait été prise de mettre fin aux opérations de la Banque, ce désaccord serait soumis à l’arbitrage d’un tribunal de trois personnes. Un arbitre serait nommé par la Banque, un autre par le pays intéressé et le troisième, sauf si les parties en convenaient autrement, par le Secrétaire général de l’Organisation des États Américains. Si les efforts pour arriver à un accord unanime échouaient, les décisions seraient prises à la majorité des trois arbitres.
 
 Le tiers arbitre aura pleins pouvoirs pour régler toute question de procédure au sujet de laquelle les parties se seraient trouvées en désaccord.
 
@@ -752,7 +745,7 @@ Le tiers arbitre aura pleins pouvoirs pour régler toute question de procédure 
 
 ### **Section 1** Bureau principal
 
-Le bureau principal de la Banque est situé à Washington, District de Columbia, Etats‑Unis d’Amérique.
+Le bureau principal de la Banque est situé à Washington, District de Columbia, États‑Unis d’Amérique.
 
 ### **Section 2** Relations avec d’autres institutions
 
@@ -770,13 +763,13 @@ Chaque Pays membre désignera sa banque centrale comme le dépositaire où la Ba
 
 ### **Section 1** Signature et acceptation
 
-(a) Le présent Accord sera déposé auprès du Secrétariat général de l’Organisation des Etats Américains, où il restera ouvert, jusqu’au 31 décembre 1959, à la signature des représentants des pays énumérés à l’Annexe A. Chaque pays signataire devra avoir officiellement remis au Secrétariat général de l’Organisation des Etats Américains un instrument indiquant qu’il a accepté ou ratifié l’Accord conformément à sa propre législation et qu’il a pris les dispositions nécessaires pour remplir toutes les obligations qui en découlent.
+(a) Le présent Accord sera déposé auprès du Secrétariat général de l’Organisation des États Américains, où il restera ouvert, jusqu’au 31 décembre 1959, à la signature des représentants des pays énumérés à l’Annexe A. Chaque pays signataire devra avoir officiellement remis au Secrétariat général de l’Organisation des États Américains un instrument indiquant qu’il a accepté ou ratifié l’Accord conformément à sa propre législation et qu’il a pris les dispositions nécessaires pour remplir toutes les obligations qui en découlent.
 
-(b) Le Secrétariat général de l’Organisation des Etats Américains enverra des copies certifiées conformes du présent Accord aux membres de l’Organisation et leur donnera avis, en temps opportun, de chaque signature et de chaque remise d’instrument d’acceptation ou de ratification qui auront été effectuées conformément au paragraphe précédent, ainsi que de leurs dates respectives.
+(b) Le Secrétariat général de l’Organisation des États Américains enverra des copies certifiées conformes du présent Accord aux membres de l’Organisation et leur donnera avis, en temps opportun, de chaque signature et de chaque remise d’instrument d’acceptation ou de ratification qui auront été effectuées conformément au paragraphe précédent, ainsi que de leurs dates respectives.
 
-(c) Au moment de déposer l’instrument d’acceptation ou de ratification, chaque pays, en vue d’assurer les dépenses d’administration de la Banque, versera au Secrétariat général de l’Organisation des Etats Américains un montant, soit en or, soit en dollars des Etats‑Unis, égal à un millième de l’ensemble du prix d’achat des actions qu’il aura souscrites et du chiffre de sa quote‑part au Fonds. Ce versement sera porté au crédit du membre et figurera au titre de sa souscription et de sa quote‑part, conformément aux Art. II, Section 4 (a) (i) et IV, Section 3 (d) (i). A n’importe quel moment, à partir de la date du dépôt de l’instrument d’acceptation ou de ratification, tout membre pourra effectuer des paiements additionnels qui seront crédités au titre de la souscription et de la quote‑part ci‑dessus mentionnées conformément aux Art. II et IV. Le Secrétariat général de l’Organisation des Etats Américains gardera les fonds reçus aux termes du présent paragraphe dans un ou plusieurs comptes spéciaux de dépôt, et il mettra lesdits fonds à la disposition de la Banque au plus tard à la date où se sera réunie l’Assemblée des Gouverneurs selon ce que dispose la Section 3 du présent article. Dans le cas où l’Accord ne serait pas entré en vigueur le 31 décembre 1959, le Secrétariat général de l’Organisation des Etats Américains remboursera ces fonds aux pays qui les avaient déposés.
+(c) Au moment de déposer l’instrument d’acceptation ou de ratification, chaque pays, en vue d’assurer les dépenses d’administration de la Banque, versera au Secrétariat général de l’Organisation des États Américains un montant, soit en or, soit en dollars des États‑Unis, égal à un millième de l’ensemble du prix d’achat des actions qu’il aura souscrites et du chiffre de sa quote‑part au Fonds. Ce versement sera porté au crédit du membre et figurera au titre de sa souscription et de sa quote‑part, conformément aux Art. II, Section 4 (a) (i) et IV, Section 3 (d) (i). À n’importe quel moment, à partir de la date du dépôt de l’instrument d’acceptation ou de ratification, tout membre pourra effectuer des paiements additionnels qui seront crédités au titre de la souscription et de la quote‑part ci‑dessus mentionnées conformément aux Art. II et IV. Le Secrétariat général de l’Organisation des États Américains gardera les fonds reçus aux termes du présent paragraphe dans un ou plusieurs comptes spéciaux de dépôt, et il mettra lesdits fonds à la disposition de la Banque au plus tard à la date où se sera réunie l’Assemblée des Gouverneurs selon ce que dispose la Section 3 du présent article. Dans le cas où l’Accord ne serait pas entré en vigueur le 31 décembre 1959, le Secrétariat général de l’Organisation des États Américains remboursera ces fonds aux pays qui les avaient déposés.
 
-(d) A partir de la date où la Banque aura commencé ses opérations, le Secrétariat général de l’Organisation des Etats Américains pourra recevoir la signature et les instruments d’acceptation ou de ratification du présent Accord de tout pays dont l’entrée en qualité de membre sera effectuée conformément aux termes de l’Art. II, Section 1 (b).
+(d) À partir de la date où la Banque aura commencé ses opérations, le Secrétariat général de l’Organisation des États Américains pourra recevoir la signature et les instruments d’acceptation ou de ratification du présent Accord de tout pays dont l’entrée en qualité de membre sera effectuée conformément aux termes de l’Art. II, Section 1 (b).
 
 ### **Section 2** Entrée en vigueur
 
@@ -786,17 +779,17 @@ Chaque Pays membre désignera sa banque centrale comme le dépositaire où la Ba
 
 ### **Section 3** Ouverture des opérations
 
-(a) Le Secrétaire général de l’Organisation des Etats Américains convoquera la première réunion de l’Assemblée des Gouverneurs aussitôt que le présent Accord sera entré en vigueur conformément à la Section 2 du présent article.
+(a) Le Secrétaire général de l’Organisation des États Américains convoquera la première réunion de l’Assemblée des Gouverneurs aussitôt que le présent Accord sera entré en vigueur conformément à la Section 2 du présent article.
 
-(b) A sa première réunion, l’Assemblée des Gouverneurs adoptera les mesures nécessaires pour le choix des Directeurs Exécutifs ainsi que de leurs suppléants, conformément aux dispositions de l’Art. VIII, Section 3, et pour la fixation de la date d’ouverture des opérations de la Banque. Nonobstant les dispositions de l’Art. VIII, Section 3, les Gouverneurs, s’ils le jugeaient opportun, pourraient décider que le premier mandat des Directeurs Exécutifs soit d’une durée moindre que trois ans.
+(b) À sa première réunion, l’Assemblée des Gouverneurs adoptera les mesures nécessaires pour le choix des Directeurs Exécutifs ainsi que de leurs suppléants, conformément aux dispositions de l’Art. VIII, Section 3, et pour la fixation de la date d’ouverture des opérations de la Banque. Nonobstant les dispositions de l’Art. VIII, Section 3, les Gouverneurs, s’ils le jugeaient opportun, pourraient décider que le premier mandat des Directeurs Exécutifs soit d’une durée moindre que trois ans.
 
-Fait dans la ville de Washington, District de Columbia, Etats‑Unis d’Amérique, en un original portant la date du 8 avril 1959, dont les textes anglais, espagnol, français et portugais font également foi.
+Fait dans la ville de Washington, District de Columbia, États‑Unis d’Amérique, en un original portant la date du 8 avril 1959, dont les textes anglais, espagnol, français et portugais font également foi.
 
 Annexe A
 
 ## Souscription d’actions du capital autorisé de la Banque
 
-(En action de 10 000 dollars des Etats-Unis d’Amérique, du poids et du titre en vigueur au 1<sup>er</sup> janvier 1959)
+(En action de 10 000 dollars des États-Unis d’Amérique, du poids et du titre en vigueur au 1<sup>er</sup> janvier 1959)
 
 <table>
 <tr><td>Pays</td><td>Capital-actions effectivement versé</td><td>Capital-actions sujet à l’appel</td><td>Souscription totale</td></tr>
@@ -807,8 +800,8 @@ Annexe A
 <tr><td>Colombie</td><td>1 415</td><td>1 415</td><td>2 830</td></tr>
 <tr><td>Costa Rica</td><td>207</td><td>207</td><td>414</td></tr>
 <tr><td>Cuba</td><td>1 842</td><td>1 842</td><td>3 684</td></tr>
-<tr><td>Equateur</td><td>276</td><td>276</td><td>552</td></tr>
-<tr><td>Etats-Unis d’Amérique</td><td>15 000</td><td>20 000</td><td>35 000</td></tr>
+<tr><td>Équateur</td><td>276</td><td>276</td><td>552</td></tr>
+<tr><td>États-Unis d’Amérique</td><td>15 000</td><td>20 000</td><td>35 000</td></tr>
 <tr><td>Guatemala</td><td>276</td><td>276</td><td>552</td></tr>
 <tr><td>Haïti</td><td>207</td><td>207</td><td>414</td></tr>
 <tr><td>Honduras</td><td>207</td><td>207</td><td>414</td></tr>
@@ -828,7 +821,7 @@ Annexe B
 
 ## Quotes de contributions au fonds des opérations spéciales
 
-(En milliers de dollars des Etats-Unis d’Amérique du poids et du titre en vigueur au 1<sup>er</sup> janvier 1959)
+(En milliers de dollars des États-Unis d’Amérique du poids et du titre en vigueur au 1<sup>er</sup> janvier 1959)
 
 <table>
 <tr><td>Pays</td><td>Quotas</td></tr>
@@ -839,8 +832,8 @@ Annexe B
 <tr><td>Colombie</td><td>2 830</td></tr>
 <tr><td>Costa Rica</td><td>414</td></tr>
 <tr><td>Cuba</td><td>3 684</td></tr>
-<tr><td>Equateur</td><td>552</td></tr>
-<tr><td>Etats-Unis d’Amérique</td><td>100 000</td></tr>
+<tr><td>Équateur</td><td>552</td></tr>
+<tr><td>États-Unis d’Amérique</td><td>100 000</td></tr>
 <tr><td>Guatemala</td><td>552</td></tr>
 <tr><td>Haïti</td><td>414</td></tr>
 <tr><td>Honduras</td><td>414</td></tr>
@@ -866,16 +859,16 @@ Les pays extra-régionaux membres du Fonds monétaire international et la Suisse
 - (b) L’augmentation du capital ordinaire autorisé prévue dans la résolution intitulée «Augmentation du capital ordinaire sujet à l’appel et souscriptions audit capital lors de l’admission de pays membres extra-régionaux» devra avoir été effectuée;
 - (c)
 
-  Au moins huit pays extra-régionaux, y compris au moins quatre pays dont les contributions au Fonds des Opérations spéciales sont d’au moins 60 000 000 de dollars des Etats-Unis chacun, devront, au moyen du dépôt auprès de la Banque des instruments appropriés, s’être engagés:
+  Au moins huit pays extra-régionaux, y compris au moins quatre pays dont les contributions au Fonds des Opérations spéciales sont d’au moins 60 000 000 de dollars des États-Unis chacun, devront, au moyen du dépôt auprès de la Banque des instruments appropriés, s’être engagés:
 
-  - (i) A souscrire au moins 31 100 actions du capital interrégional conformément à la Section 2 des présentes Normes générales;
-  - (ii) A verser aux ressources du Fonds des Opérations spéciales une somme équivalente à au moins 375 000 000 de dollars des Etats-Unis[^annexB-lvlu1-lvlu1-sec1-1], conformément à la Section 3 des présentes Normes générales.
+  - (i) à souscrire au moins 31 100 actions du capital interrégional conformément à la Section 2 des présentes Normes générales;
+  - (ii) à verser aux ressources du Fonds des Opérations spéciales une somme équivalente à au moins 375 000 000 de dollars des États-Unis[^annexB-lvlu1-lvlu1-sec1-1], conformément à la Section 3 des présentes Normes générales.
 
 Si le Conseil des Directeurs exécutifs le juge approprié, il pourra réduire après le 1<sup>er</sup> mars 1976 le montant total des souscriptions d’actions et le montant total des contributions au Fonds des Opérations spéciales spécifiés aux al. (i) et (ii) ci-dessus.
 
 Les souscriptions au capital interrégional et les contributions au Fonds des Opérations spéciales des pays extra-régionaux seront au moins équivalentes aux montants ci-après:
 
-[^annexB-lvlu1-lvlu1-sec1-1]: Dollars des Etats-Unis du poids et du titre en vigueur lors de la modification de la parité du dollar des Etats-Unis intervenue le 18 octobre 1973.
+[^annexB-lvlu1-lvlu1-sec1-1]: Dollars des États-Unis du poids et du titre en vigueur lors de la modification de la parité du dollar des États-Unis intervenue le 18 octobre 1973.
 
 ### Souscriptions au capital interrégional versé
 
@@ -899,8 +892,8 @@ Les souscriptions au capital interrégional et les contributions au Fonds des Op
 <tr><td>Total général</td><td>7 000</td><td>70 000 000</td><td>84 444 027</td></tr>
 </table>
 
-[^annexB-lvlu1-lvlu2-1]: Dollars des Etats-Unis du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
-[^annexB-lvlu1-lvlu2-2]: Dollars des Etats-Unis du poids et du titre en vigueur à la suite de la modification de la parité de cette monnaie intervenue le 18 octobre 1973.
+[^annexB-lvlu1-lvlu2-1]: Dollars des États-Unis du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
+[^annexB-lvlu1-lvlu2-2]: Dollars des États-Unis du poids et du titre en vigueur à la suite de la modification de la parité de cette monnaie intervenue le 18 octobre 1973.
 
 ### Souscriptions au capital interrégional sujet à l’appel
 
@@ -924,8 +917,8 @@ Les souscriptions au capital interrégional et les contributions au Fonds des Op
 <tr><td>Total général</td><td>35 000</td><td>350 000 000</td><td>422 220 134</td></tr>
 </table>
 
-[^annexB-lvlu1-lvlu3-1]: Dollars des Etats-Unis du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
-[^annexB-lvlu1-lvlu3-2]: Dollars des Etats-Unis du poids et du titre en vigueur à la suite de la modification de la parité de cette monnaie intervenue le 18 octobre 1973.
+[^annexB-lvlu1-lvlu3-1]: Dollars des États-Unis du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
+[^annexB-lvlu1-lvlu3-2]: Dollars des États-Unis du poids et du titre en vigueur à la suite de la modification de la parité de cette monnaie intervenue le 18 octobre 1973.
 
 ### Total des souscriptions au capital interrégional
 
@@ -949,8 +942,8 @@ Les souscriptions au capital interrégional et les contributions au Fonds des Op
 <tr><td>Total général</td><td>42 000</td><td>420 000 000</td><td>506 664 161</td></tr>
 </table>
 
-[^annexB-lvlu1-lvlu4-1]: Dollars des Etats-Unis du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
-[^annexB-lvlu1-lvlu4-2]: Dollars des Etats-Unis du poids et du titre en vigueur à la suite de la modification de la parité de cette monnaie intervenue le 18 octobre 1973.
+[^annexB-lvlu1-lvlu4-1]: Dollars des États-Unis du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
+[^annexB-lvlu1-lvlu4-2]: Dollars des États-Unis du poids et du titre en vigueur à la suite de la modification de la parité de cette monnaie intervenue le 18 octobre 1973.
 
 ### Contributions au Fonds des Opérations spéciales
 
@@ -976,7 +969,7 @@ Les souscriptions au capital interrégional et les contributions au Fonds des Op
 
 ### **Section 2** Souscriptions au capital-actions interrégional
 
-[^annexB-lvlu1-lvlu5-1]: Dollars des Etats-Unis du poids et du titre en vigueur à la suite de la modification de la parité de cette monnaie intervenue le 18 octobre 1973.
+[^annexB-lvlu1-lvlu5-1]: Dollars des États-Unis du poids et du titre en vigueur à la suite de la modification de la parité de cette monnaie intervenue le 18 octobre 1973.
 
 (a) Les pays extra-régionaux énumérés à la Section 1 des présentes Normes générales peuvent souscrire des actions du capital interrégional.
 
@@ -984,14 +977,14 @@ Les souscriptions au capital interrégional et les contributions au Fonds des Op
 
 (c) La souscription de chaque pays au capital interrégional effectivement versé se fera aux termes et conditions ci‑après:
 
-- (i) Le prix de souscription par action sera de 10 000 dollars des Etats‑Unis, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
+- (i) Le prix de souscription par action sera de 10 000 dollars des États‑Unis, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
 - (ii) Le montant souscrit par chaque pays au titre du capital‑actions interrégional effectivement versé sera divisé en trois tranches égales, étant entendu toutefois que le Conseil des Directeurs exécutifs, tenant compte des circonstances particulières propres aux divers pays, peut convenir (i) que le montant de la première tranche à verser par le pays intéressé pourra être réduit à une somme qui ne sera pas inférieure à 20 % du montant du capital effectivement versé assigné à ce pays, les deux tranches suivantes devant être ajustées en conséquence; ou (ii) que le montant à payer par le pays intéressé pourra être versé en cinq tranches annuelles égales. Chaque pays versera la première tranche dans un délai de trente jours à compter de l’entrée en vigueur des présentes Normes générales ou, au plus tard, à la date du dépôt de l’instru-ment d’acceptation ou de ratification conformément à la Section 4 (c) (ii) des présentes Normes générales, si cette date est ultérieure. Si un pays choisit de verser la première tranche en espèces, il peut effectuer le versement au plus tard à la fin de l’année civile au cours de laquelle les présentes Normes générales seront entrées en vigueur ou de l’année civile au cours de laquelle le membre dépose son instrument de ratification, si cette date est ultérieure. Chacune des tranches annuelles restantes deviendra exigible à des intervalles d’un an après la date à laquelle la première tranche devient exigible.
 - (iii) Le paiement de chaque tranche sera effectué intégralement dans la monnaie du pays contribuant, lequel devra prendre les dispositions que la Banque jugera satisfaisantes pour assurer que sa monnaie soit librement convertible dans les monnaies des autres pays aux fins des opérations de la Banque.
 - (iv) 50% de chaque tranche seront soumis aux dispositions de l’Art. V, Section 1 (b) (i) de l’Accord constitutif de la Banque et seront versés en espèces. En ce qui concerne les 50 % restants de chaque tranche, et à moins qu’un pays ne décide d’en effectuer le paiement en espèces aussi, le Conseil des Directeurs exécutifs établira un plan en vertu duquel il sera payé à la Banque tout billet à ordre ou titre similaire non négociable et ne portant pas intérêt accepté conformément à l’Art. V, Section 4.
 
 (d) La souscription de chaque pays au capital interrégional sujet à l’appel se fera aux termes et conditions ci‑après:
 
-- (i) Le prix de souscription par action sera de 10 000 dollars des Etats‑Unis, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
+- (i) Le prix de souscription par action sera de 10 000 dollars des États‑Unis, du poids et du titre en vigueur le 1<sup>er</sup> janvier 1959.
 - (ii) La souscription de chaque pays au capital interrégional sujet à l’appel se fera en trois tranches égales, lesquelles seront souscrites respectivement aux dates correspondantes, ou avant, applicables au versement de chacune des trois premières tranches de la souscription de ce pays au capital interrégional effectivement versé conformément à la Section 2 (c) (ii) des présentes Normes générales.
 
 (e) Les ressources interrégionales de capital seront utilisées pour consentir des prêts d’une façon propre à assurer une répartition raisonnable de ces prêts et des obligations subséquentes entre les ressources ordinaires et interrégionales de capital.
@@ -1012,9 +1005,9 @@ Les souscriptions au capital interrégional et les contributions au Fonds des Op
 
 (f) Les contributions seront versées en trois tranches égales, étant entendu que le Conseil des Directeurs exécutifs, tenant compte des circonstances spéciales propres aux divers pays, peut convenir (i) que le montant de la première tranche à verser par le pays intéressé pourra être réduit à une somme qui ne sera inférieure à 20 % du montant de la contribution totale assignée à ce pays, les deux tranches subséquentes étant ajustées en conséquence; ou (ii) que le montant à payer par le pays intéressé pourra être versé en cinq tranches annuelles égales. Les tranches seront versées aux mêmes dates que celles auxquelles le pays verse ses tranches du capital interrégional effectivement versé conformément à la Section 2 des présentes Normes générales.
 
-(g) Chaque paiement d’un pays devra être d’un montant qui, d’après l’opinion de la Banque, soit en dollars des Etats‑Unis d’Amérique du poids et du titre en vigueur lors de la modification de la parité du dollar des Etats‑Unis intervenue le 18 octobre 1973, égal à la valeur totale.
+(g) Chaque paiement d’un pays devra être d’un montant qui, d’après l’opinion de la Banque, soit en dollars des États‑Unis d’Amérique du poids et du titre en vigueur lors de la modification de la parité du dollar des États‑Unis intervenue le 18 octobre 1973, égal à la valeur totale.
 
-(h) Les monnaies de tous les membres détenues par la Banque et provenant de ces contributions seront soumis aux dispositions concernant le maintien de la valeur des monnaies figurant à l’Art. V, Section 3, de l’Accord constitutif de la Banque, mais l’étalon monétaire de base sera le dollar des Etats‑Unis du poids et du titre en vigueur lors de la modification de la parité du dollar des Etats‑Unis intervenue le 18 octobre 1973, étant entendu toutefois que la Banque pourra renoncer à ce réajustement en cas de réalignement monétaire intéressant un nombre significatif de membres de la Banque.
+(h) Les monnaies de tous les membres détenues par la Banque et provenant de ces contributions seront soumis aux dispositions concernant le maintien de la valeur des monnaies figurant à l’Art. V, Section 3, de l’Accord constitutif de la Banque, mais l’étalon monétaire de base sera le dollar des États‑Unis du poids et du titre en vigueur lors de la modification de la parité du dollar des États‑Unis intervenue le 18 octobre 1973, étant entendu toutefois que la Banque pourra renoncer à ce réajustement en cas de réalignement monétaire intéressant un nombre significatif de membres de la Banque.
 
 (i) Nonobstant les dispositions de l’Art. IV, Section 3 (g), de l’Accord constitutif de la Banque, et conformément à la méthode traditionnelle d’augmentation des ressources du Fonds des Opérations spéciales, toutes futures augmentations des ressources du Fonds des Opérations spéciales se feront dans les proportions et aux clauses et conditions qui seront négociées à ce moment.
 
@@ -1023,13 +1016,13 @@ Les souscriptions au capital interrégional et les contributions au Fonds des Op
 Un pays extra‑régional deviendra membre de la Banque lorsque:
 
 - (a) Le Conseil des Directeurs exécutifs aura déterminé que toutes les conditions énoncées à la Section 1 des présentes Normes générales ont été remplies;
-- (b) Les présentes Normes générales seront entrées en vigueur conformément à la Section 10 desdites Normes; et
+- (b) Les présentes Normes générales seront entrées en vigueur conformément à la Section 10 desdites Normes, et
 - (c)
 
   Le Président aura déclaré que le pays a rempli toutes les conditions suivantes:
 
-  - (i) Son représentant dûment autorisé a signé l’original de l’Accord, tel qu’il a été modifié, déposé auprès du Secrétariat général de l’Organisation des Etats américains;
-  - (ii) Il a déposé auprès du Secrétariat général de l’Organisation des Etats américains un instrument dans lequel il déclare qu’il a accepté ou ratifié, conformément à sa législation, l’Accord ainsi que toutes les clauses et conditions prescrites dans les présentes Normes générales, et qu’il a pris les mesures nécessaires pour s’acquitter de toutes les obligations qui lui incombent en vertu de l’Accord et en vertu des présentes Normes générales; et
+  - (i) Son représentant dûment autorisé a signé l’original de l’Accord, tel qu’il a été modifié, déposé auprès du Secrétariat général de l’Organisation des États américains;
+  - (ii) Il a déposé auprès du Secrétariat général de l’Organisation des États américains un instrument dans lequel il déclare qu’il a accepté ou ratifié, conformément à sa législation, l’Accord ainsi que toutes les clauses et conditions prescrites dans les présentes Normes générales, et qu’il a pris les mesures nécessaires pour s’acquitter de toutes les obligations qui lui incombent en vertu de l’Accord et en vertu des présentes Normes générales, et
   - (iii) Il a assuré la Banque qu’il a pris toutes les mesures nécessaires pour signer l’Accord et déposer l’instrument d’acceptation ou de ratification prévu aux par. (i) et (ii) ci-dessus, et il aura fourni à la Banque tous renseignements concernant ces mesures que la Banque pourra avoir demandés.
 
 ### **Section 5** Autres pays extra‑régionaux
@@ -1038,24 +1031,24 @@ Les pays extra-régionaux autres que ceux qui sont énumérés à la Section 1 d
 
 ### **Section 6** Actions et quotes‑parts de contribution non souscrites
 
-Les actions du capital interrégional et les quotes‑parts de contribution au Fonds des Opérations spéciales prévues à la Section 1 (c) des présentes Normes générales qui n’auront pas été souscrites par les pays extra‑régionaux énumérés à la Section 1 desdites Normes ou par d’autres pays extra‑régionaux comme prévu à la Section 5 des présentes Normes générales dans un délai de deux ans à compter de la date à laquelle lesdites Normes seront entrées en vigueur pourront alors être souscrites par les pays membres extra‑régionaux qui seront membres à ce moment. Chacun de ces membres aura le droit de souscrire à une proportion des actions disponibles équivalente à la proportion existant entre ses actions déjà souscrites et le montant total du capital interrégional souscrit. De même, chacun de ces membres aura le droit de souscrire à une proportion des quotes‑parts non souscrites au Fonds des Opérations spéciales équivalente à la proportion existant entre sa quote‑part de contribution et le montant total des quotes‑parts de contributions souscrites. A l’occasion de chaque souscription, on maintiendra la proportion entre le capital effectivement versé et le capital sujet à l’appel ainsi qu’entre la quote‑part des contributions au Fonds des Opérations spéciales et les souscriptions au capital établie dans les présentes Normes générales. Le paiement des souscriptions au capital effectivement versé et des quotes‑parts de contributions au Fonds des Opérations spéciales, ainsi que les souscriptions au capital sujet à l’appel ainsi souscrites, se feront dans un délai de trois ans à compter de la date à laquelle les présentes Normes générales seront entrées en vigueur.
+Les actions du capital interrégional et les quotes‑parts de contribution au Fonds des Opérations spéciales prévues à la Section 1 (c) des présentes Normes générales qui n’auront pas été souscrites par les pays extra‑régionaux énumérés à la Section 1 desdites Normes ou par d’autres pays extra‑régionaux comme prévu à la Section 5 des présentes Normes générales dans un délai de deux ans à compter de la date à laquelle lesdites Normes seront entrées en vigueur pourront alors être souscrites par les pays membres extra‑régionaux qui seront membres à ce moment. Chacun de ces membres aura le droit de souscrire à une proportion des actions disponibles équivalente à la proportion existant entre ses actions déjà souscrites et le montant total du capital interrégional souscrit. De même, chacun de ces membres aura le droit de souscrire à une proportion des quotes‑parts non souscrites au Fonds des Opérations spéciales équivalente à la proportion existant entre sa quote‑part de contribution et le montant total des quotes‑parts de contributions souscrites. À l’occasion de chaque souscription, on maintiendra la proportion entre le capital effectivement versé et le capital sujet à l’appel ainsi qu’entre la quote‑part des contributions au Fonds des Opérations spéciales et les souscriptions au capital établie dans les présentes Normes générales. Le paiement des souscriptions au capital effectivement versé et des quotes‑parts de contributions au Fonds des Opérations spéciales, ainsi que les souscriptions au capital sujet à l’appel ainsi souscrites, se feront dans un délai de trois ans à compter de la date à laquelle les présentes Normes générales seront entrées en vigueur.
 
 ### **Section 7** Quorum spécial et nombre de voix
 
 [^annexB-lvlu1-lvlu5-sec7-1]
 
-[^annexB-lvlu1-lvlu5-sec7-1]: Nouvelle teneur selon la section 3 de la résolution AG-8/87 du 24 déc. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^annexB-lvlu1-lvlu5-sec7-1]: Nouvelle teneur selon la section 2 de la résolution AG-8/87 du 24 déc. 1987, en vigueur depuis le 31 déc. 1987 ([RO 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) L’accord de la majorité des deux tiers du nombre total des Gouverneurs des membres extra‑régionaux représentant au moins les trois quarts du total des voix des pays membres extra‑régionaux sera requis pour l’approbation de:
 
 - Tout amendement à l’Accord constitutif de la Banque modifiant:
-- (1) le nombre de Gouverneurs qui seront nommés par les pays membres extra‑régionaux; (2) le nombre de Directeurs Exécutifs qui seront élus par les Gouverneurs des pays membres extra‑régionaux comme prévu à l’Art. VIII, Section 3 (b) (ii), de l’Accord; (3) l’Art. VII, Section 3 (d), (e) et (f) de l’Accord; ou (4) les dispositions concernant la répartition des bénéfices nets et de l’excédent des ressources interrégionales de capital figurant à l’Art. VII, Section 4, de l’Accord;
+- le nombre de Gouverneurs qui seront nommés par les pays membres extra‑régionaux; (2) le nombre de Directeurs Exécutifs qui seront élus par les Gouverneurs des pays membres extra‑régionaux comme prévu à l’Art. VIII, Section 3 (b) (ii), de l’Accord; (3) l’Art. VII, Section 3 (d), (e) et (f) de l’Accord; ou (4) les dispositions concernant la répartition des bénéfices nets et de l’excédent des ressources interrégionales de capital figurant à l’Art. VII, Section 4, de l’Accord;
 
-(b) Aucune augmentation de la souscription d’un pays membre quelconque soit au capital ordinaire, soit au capital interrégional, ne pourra être appliquée, et il est renoncé par les présentes à tout droit de souscription à cet égard, si elle avait pour effet de réduire le nombre des voix (i) des pays membres en voie de développement de la région à moins de 53,5 % du nombre total des voix des pays membres; (ii) du pays membre qui possède le plus grand nombre d’actions de la Banque à moins de 34,5 % dudit nombre total des voix; ou (iii) du Canada à moins de 4 % dudit nombre total des voix; il est entendu toutefois que, nonobstant les dispositions précédentes et les dispositions de l’Art. VIII, Section 4 (b), de l’Accord constitutif de la Banque, toute résolution de l’Assemblée des Gouverneurs autorisant une augmentation du capital ordinaire ou du capital interrégional de la Banque spécifiera que (1) afin d’éviter que le nombre des voix des pays en développement membres de la région, en tant que groupe, ne tombe au‑dessous du pourcentage fixé, tout membre du groupe peut souscrire aux actions allouées à un autre membre du groupe si ce dernier ne souhaite pas y souscrire; (2) les pays en voie de développement membres de la région, en tant que groupe, peuvent renoncer à la disposition concernant les pourcentages des voix en ce qui concerne l’al. (i), et les Etats‑Unis et le Canada peuvent y renoncer en ce qui concerne les al. (ii) et (iii) respectivement; et (3) tout membre du groupe des membres extra‑régionaux peut souscrire aux actions allouées à un autre membre du groupe si ce dernier ne souhaite pas y souscrire.
+(b) Aucune augmentation de la souscription d’un pays membre quelconque soit au capital ordinaire, soit au capital interrégional, ne pourra être appliquée, et il est renoncé par les présentes à tout droit de souscription à cet égard, si elle avait pour effet de réduire le nombre des voix (i) des pays membres en voie de développement de la région à moins de 53,5 % du nombre total des voix des pays membres; (ii) du pays membre qui possède le plus grand nombre d’actions de la Banque à moins de 34,5 % dudit nombre total des voix; ou (iii) du Canada à moins de 4 % dudit nombre total des voix; il est entendu toutefois que, nonobstant les dispositions précédentes et les dispositions de l’Art. VIII, Section 4 (b), de l’Accord constitutif de la Banque, toute résolution de l’Assemblée des Gouverneurs autorisant une augmentation du capital ordinaire ou du capital interrégional de la Banque spécifiera que (1) afin d’éviter que le nombre des voix des pays en développement membres de la région, en tant que groupe, ne tombe au‑dessous du pourcentage fixé, tout membre du groupe peut souscrire aux actions allouées à un autre membre du groupe si ce dernier ne souhaite pas y souscrire; (2) les pays en voie de développement membres de la région, en tant que groupe, peuvent renoncer à la disposition concernant les pourcentages des voix en ce qui concerne l’al. (i), et les États‑Unis et le Canada peuvent y renoncer en ce qui concerne les al. (ii) et (iii) respectivement; et (3) tout membre du groupe des membres extra‑régionaux peut souscrire aux actions allouées à un autre membre du groupe si ce dernier ne souhaite pas y souscrire.
 
 ### **Section 8** Modification du Règlement pour l’élection des Directeurs Exécutifs
 
-Etant donné que les pays extra‑régionaux auront le droit d’élire deux Directeurs Exécutifs avec leurs propres voix, comme prévu à l’Art. VIII, Section 3 (b) (ii), de l’Accord constitutif de la Banque, tel qu’il a été modifié par la résolution visée à la Section 1 (a) des présentes Normes générales, le Règlement pour l’élection des Directeurs Exécutifs prévu dans ledit Article de l’Accord, est modifié de manière qu’il se lise comme énoncé à l’Annexe aux présentes Normes générales. Ces amendements prendront effet à la même date que celle à laquelle les présentes Normes générales seront entrées en vigueur.
+Étant donné que les pays extra‑régionaux auront le droit d’élire deux Directeurs Exécutifs avec leurs propres voix, comme prévu à l’Art. VIII, Section 3 (b) (ii), de l’Accord constitutif de la Banque, tel qu’il a été modifié par la résolution visée à la Section 1 (a) des présentes Normes générales, le Règlement pour l’élection des Directeurs Exécutifs prévu dans ledit Article de l’Accord, est modifié de manière qu’il se lise comme énoncé à l’Annexe aux présentes Normes générales. Ces amendements prendront effet à la même date que celle à laquelle les présentes Normes générales seront entrées en vigueur.
 
 ### **Section 9** Nombre de Directeurs Exécutifs
 
@@ -1069,7 +1062,7 @@ Annexe
 
 ## Règlement pour l’élection des Directeurs exécutifs
 
-### I. Election des Directeurs exécutifs
+### I. Élection des Directeurs exécutifs
 
 \1. Les Gouverneurs ayant droit de vote conformément à l’art. VIII, section 3 (b) (ii) de l’Accord constitutif de la Banque éliront dix Directeurs exécutifs.
 
@@ -1118,11 +1111,11 @@ Le Président de l’Assemblée supervisera l’élection et nommera deux Gouver
 - (f) Le Secrétaire remettra aux Gouverneurs la liste des candidats désignés.
 - (g) Le délai de présentation des candidats échoit à 10 heures le premier jour de la session annuelle de l’Assemblée où doit avoir lieu l’élection.
 
-\8. Election
+\8. Élection
 
 - (a) L’élection s’effectue en quatre étapes. Dans la première étape est élu le Directeur exécutif visé à la section 2 du présent Règlement. Dans la deuxième étape sont élus les cinq Directeurs exécutifs visés à la section 3 (c) ci-dessus, dans la troisième sont élus les deux Directeurs exécutifs mentionnés à la section 3 (d) ci‑dessus, et dans la quatrième les deux Directeurs exécutifs mentionnés à la section 4.
 - (b) Chaque Gouverneur ne participe qu’à une seule étape.
-- (c) A l’ouverture de chacune des étapes susmentionnées, le Secrétaire annoncera les noms des candidats inscrits et ceux des pays habilités à participer au scrutin considéré.
+- (c) À l’ouverture de chacune des étapes susmentionnées, le Secrétaire annoncera les noms des candidats inscrits et ceux des pays habilités à participer au scrutin considéré.
 
 \9. Votation
 
@@ -1135,7 +1128,7 @@ Chaque vote sera effectué comme suit:
 - (e) Dans toutes les élections prévues par la section 3 (c), la section 3 (d), et la section 4 de ce Règlement, il sera procédé à autant de tours de scrutin qu’il sera nécessaire jusqu’à ce que tous les Directeurs exécutifs qui doivent être élus durant l’élection considérée le soient au cours d’un seul tour de scrutin.
 - (f) Le Président de l’Assemblée déclarera que l’élection est ou n’est pas terminée. Si l’élection est terminée, il donnera la liste des Directeurs élus et celle des pays membres qui. les ont élus.
 
-\10. Elimination de candidats
+\10. Élimination de candidats
 
 Dans n’importe quel tour de scrutin, le ou les Gouverneurs qui auront présenté un candidat pourront aviser le Secrétaire que ce candidat ne participera pas à l’élection en question. Dans ce cas, ce candidat ne sera pas inclus dans la liste des candidats participant à ce tour de scrutin.
 
@@ -1155,13 +1148,13 @@ Les différends qui surgiront à l’occasion de la procédure suivie au cours d
 
 \15. L’Assemblée des Gouverneurs pourra modifier ce Règlement à l’une quelconque de ses séances, ou par vote sans convoquer une réunion, à la majorité des trois quarts de la totalité des voix des pays membres, comprenant:
 
-- (a) En ce qui concerne les amendements aux sections 1, 2, 3, 5 à 14, et 15 (a), la majorité des deux tiers des Gouverneurs des membres régionaux; et
+- (a) En ce qui concerne les amendements aux sections 1, 2, 3, 5 à 14, et 15 (a), la majorité des deux tiers des Gouverneurs des membres régionaux, et
 - (b) En ce qui concerne les amendements aux sections 4 et 15 (b), la majorité des deux tiers des Gouverneurs des membres extra‑régionaux.
 
-Champ d’application de l’accord 1<sup>er</sup> août 1989
+Champ d’application de l’accord 16 décembre 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification ou Acceptation</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>9 juillet</td><td>1976</td><td>9 juillet</td><td>1976</td></tr>
 <tr><td>Argentine</td><td>14 octobre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
 <tr><td>Autriche</td><td>10 janvier</td><td>1977</td><td>10 janvier</td><td>1977</td></tr>
@@ -1176,9 +1169,9 @@ Champ d’application de l’accord 1<sup>er</sup> août 1989
 <tr><td>Costa Rica</td><td>30 décembre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
 <tr><td>Danemark</td><td>9 juillet</td><td>1976</td><td>9 juillet</td><td>1976</td></tr>
 <tr><td>El Salvador</td><td>29 décembre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
-<tr><td>Equateur</td><td>22 décembre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
+<tr><td>Équateur</td><td>22 décembre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
 <tr><td>Espagne</td><td>9 juillet</td><td>1976</td><td>9 juillet</td><td>1976</td></tr>
-<tr><td>Etats-Unis d’Amérique</td><td>14 octobre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
+<tr><td>États-Unis</td><td>14 octobre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
 <tr><td>Finlande</td><td>30 juin</td><td>1977</td><td>30 juin</td><td>1977</td></tr>
 <tr><td>France</td><td>10 janvier</td><td>1977</td><td>10 janvier</td><td>1977</td></tr>
 <tr><td>Grande-Bretagne</td><td>9 juillet</td><td>1976</td><td>9 juillet</td><td>1976</td></tr>
@@ -1195,22 +1188,21 @@ Champ d’application de l’accord 1<sup>er</sup> août 1989
 <tr><td>Norvége</td><td>7 juillet</td><td>1986</td><td>7 juillet</td><td>1986</td></tr>
 <tr><td>Panama</td><td>29 décembre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
 <tr><td>Paraguay</td><td>16 décembre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
-<tr><td>Pays-Bas\*</td><td>10 janvier</td><td>1977</td><td>10 janvier</td><td>1977</td></tr>
+<tr><td>Pays-Bas</td><td>10 janvier</td><td>1977</td><td>10 janvier</td><td>1977</td></tr>
+<tr><td>Aruba</td><td>10 janvier</td><td>1977</td><td>10 janvier</td><td>1977</td></tr>
+<tr><td>Curaçao</td><td>10 janvier</td><td>1977</td><td>10 janvier</td><td>1977</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 janvier</td><td>1977</td><td>10 janvier</td><td>1977</td></tr>
+<tr><td>Sint Maarten</td><td>10 janvier</td><td>1977</td><td>10 janvier</td><td>1977</td></tr>
 <tr><td>Pérou</td><td>30 décembre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
 <tr><td>Portugal</td><td>25 mars</td><td>1980</td><td>25 mars</td><td>1980</td></tr>
 <tr><td>République dominicaine</td><td>16 décembre</td><td>1959</td><td>30 décembre</td><td>1959</td></tr>
+<tr><td>Serbie</td><td>9 juillet</td><td>1976</td><td>9 juillet</td><td>1976</td></tr>
 <tr><td>Suède</td><td>19 septembre</td><td>1977</td><td>19 septembre</td><td>1977</td></tr>
 <tr><td>Suisse</td><td>9 juillet</td><td>1976</td><td>9 juillet</td><td>1976</td></tr>
 <tr><td>Suriname</td><td>12 décembre</td><td>1980</td><td>12 décembre</td><td>1980</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>10 juillet</td><td>1967</td><td>10 juillet</td><td>1967</td></tr>
 <tr><td>Uruguay</td><td>12 février</td><td>1960</td><td>12 février</td><td>1960</td></tr>
 <tr><td>Venezuela</td><td>13 février</td><td>1960</td><td>13 février</td><td>1960</td></tr>
-<tr><td>Yougoslavie</td><td>9 juillet</td><td>1976</td><td>9 juillet</td><td>1976</td></tr>
-<tr><td colspan="5">\* Déclaration, voir ci-aprés.</td></tr>
 </table>
 
-Déclaration
-
-Pays-Bas
-
-L’accord est applicable au Royaume en Europe, aux Antilles néerlandaises et à Aruba.
+[^t-2]: [RO 1977 397](https://fedlex.data.admin.ch/eli/oc/1977/397_397_397); [1981 1358](https://fedlex.data.admin.ch/eli/oc/1981/1358_1358_1358); [1986 1963](https://fedlex.data.admin.ch/eli/oc/1986/1963_1963_1963); [1989 1766](https://fedlex.data.admin.ch/eli/oc/1989/1766_1766_1766); [2024 783](https://fedlex.data.admin.ch/eli/oc/2024/783). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.972.4"
 title: Übereinkommen vom 8. April 1959 zur Errichtung der Interamerikanischen Entwicklungsbank (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/397_397_397"
 language: de
-version: 1989-08-01
+version: 2024-12-16
 adopted: 1959-04-08
 in_force: 1976-07-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/397_397_397/19890801/de/xml/fedlex-data-admin-ch-eli-cc-1977-397_397_397-19890801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/397_397_397/19890801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/397_397_397/20241216/de/xml/fedlex-data-admin-ch-eli-cc-1977-397_397_397-20241216-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/397_397_397/20241216/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -30,7 +30,7 @@ In Kraft getreten für die Schweiz am 9. Juli 1976
 
 Geändert mit Wirkung am 27. April 1977
 
-(Stand am 1. August 1989)
+(Stand am 16. Dezember 2024)
 
 [^t-1]: [AS 1977 395](https://fedlex.data.admin.ch/eli/oc/1977/395_395_395)
 
@@ -49,7 +49,7 @@ a) Zur Erfüllung ihres Zweckes hat die Bank folgende Aufgaben:
 - i) den Einsatz öffentlichen und privaten Kapitals für Entwicklungszwecke zu fördern;
 - ii) ihr eigenes Kapital, von ihr auf den Geld- und Kapitalmärkten aufgenommene Gelder und sonstige zur Verfügung stehende Mittel zur Finanzierung der Entwicklung der Mitgliedstaaten zu verwenden, wobei diejenigen Darlehen und Garantien Vorrang geniessen, die am wirksamsten zu ihrem wirtschaftlichen Wachstum beitragen;
 - iii) private Kapitalanlagen in Vorhaben, Unternehmungen und Tätigkeiten zu fördern, die zur wirtschaftlichen Entwicklung beitragen, und private Kapitalanlagen zu ergänzen, wenn privates Kapital zu angemessenen Bedingungen nicht zur Verfügung steht;
-- iv) mit den Mitgliedstaaten zusammenzuarbeiten, um deren Entwicklungspolitik auf eine bessere Nutzung ihrer Hilfsquellen auszurichten, und zwar in einer Weise, die zur Zielsetzung gerecht wird, die gegenseitige Ergänzung ihrer Volkswirtschaften und das geordnete Wachstum ihres Aussenhandels zu fördern, und
+- iv) mit den Mitgliedstaaten zusammenzuarbeiten, um deren Entwicklungspolitik auf eine bessere Nutzung ihrer Hilfsquellen auszurichten, und zwar in einer Weise, die zur Zielsetzung gerecht wird, die gegenseitige Ergänzung ihrer Volkswirtschaften und das geordnete Wachstum ihres Aussenhandels zu fördern; und
 - v) bei der Vorbereitung, Finanzierung und Durchführung von Entwicklungsplänen und -projekten technische Hilfe zu leisten, wobei diese die Abklärung von Prioritäten und die Ausarbeitung von Vorschlägen für einzelne Vorhaben einschliesst.
 
 b) Bei der Erfüllung ihrer Aufgaben arbeitet die Bank soweit wie möglich mit nationalen und internationalen Institutionen und mit privaten Kapitalgebern zusammen.
@@ -68,7 +68,7 @@ Nichtregionale Staaten, die Mitglieder des Internationalen Währungsfonds sind, 
 
 [^lvlu2-sec1A-1]
 
-[^lvlu2-sec1A-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu2-sec1A-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 Die Bestände der Bank bestehen aus den ordentlichen Kapitalbeständen nach diesem Artikel und den Beständen des nach Artikel IV errichteten Fonds für Sondergeschäfte (im folgenden als «Fonds» bezeichnet).
 
@@ -78,20 +78,20 @@ a) Das genehmigte ordentliche Stammkapital der Bank beträgt zunächst achthunde
 
 b) Das genehmigte ordentliche Stammkapital zerfällt in eingezahlte Anteile und abrufbare Anteile. Der Gegenwert von vierhundert Millionen US-Dollar ($400 000 000) ist einzuzahlen, und vierhundertfünfzig Millionen US-Dollar ($450 000 000) sind für die in Abschnitt 4 Buchstabe a Ziffer ii genannten Zwecke abrufbar.
 
-c) Das ordentliche Stammkapital nach Buchstabe a ist um fünfhundert Millionen US-Dollar ($500 000 000) mit dem Gewicht und Feingehalt vom 1. Januar 1959 zu erhöhen,
+c) Das ordentliche Stammkapital nach Buchstabe a ist um fünfhundert Millionen US-Dollar ($500 000 000) mit dem Gewicht und Feingehalt vom 1. Januar 1959 zu erhöhen:
 
-- i) sofern der nach Abschnitt 4 für die Einzahlung aller Zeichnungen gesetzte Termin verstrichen ist und
+- i) sofern der nach Abschnitt 4 für die Einzahlung aller Zeichnungen gesetzte Termin verstrichen ist; und
 - ii) sofern der Gouverneursrat auf einer so bald wie möglich nach dem unter Ziffer i erwähnten Zeitpunkt abgehaltenen ordentlichen oder ausserordentlichen Tagung die erwähnte Erhöhung um fünfhundert Millionen US-Dollar ($500 000 000) mit einer Mehrheit von drei Vierteln der Gesamtstimmenzahl der Mitgliedstaaten genehmigt hat.
 
 d) Die Erhöhung des Stammkapitals nach Buchstabe c erfolgt in der Form abrufbaren Kapitals.
 
 e)[^lvlu2-sec2-2] Ungeachtet der Buchstaben c und d und vorbehaltlich des Artikels VIII Abschnitt 4 Buchstabe b kann das genehmigte ordentliche Stammkapital erhöht werden, wenn der Gouverneursrat dies für ratsam hält; die Art der Erhöhung wird mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten einschliesslich einer Dreiviertelmehrheit aller Gouverneure, die eine Zweidrittelmehrheit der Gouverneure der regionalen Mitglieder umfassen muss, beschlossen.
 
-f) ...[^lvlu2-sec2-3]
+f) …[^lvlu2-sec2-3]
 
-[^lvlu2-sec2-1]: Vermittels einer Reihe von zu verschiedenen Zeitpunkten gefassten Beschlüssen, wo von der letzte am Tage der Bestätigung dieses Textes in Kraft trat, erhöhte die Versammlung der Gouverneure das bewilligte Kapital der Bank auf 8 465 810 000 US-Dollar, Gold- gewicht und Feinheit wie oben angegeben (entsprechend dem jetzigen Wert von 10 212 673 000 US-Dollar), verteilt auf 846 581 Aktien. Diese Beschlüsse haben auch die Dollarbeträge und die Anzahl der Aktien betreffend das übliche Kapital modifiziert, das im Vertrag anderweitig erwähnt ist.
-[^lvlu2-sec2-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu2-sec2-3]: Aufgehoben durch Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu2-sec2-1]: Vermittels einer Reihe von zu verschiedenen Zeitpunkten gefassten Beschlüssen, wo von der letzte am Tage der Bestätigung dieses Textes in Kraft trat, erhöhte die Versammlung der Gouverneure das bewilligte Kapital der Bank auf 8 465 810 000 US-Dollar, Goldgewicht und Feinheit wie oben angegeben (entsprechend dem jetzigen Wert von 10 212 673 000 US-Dollar), verteilt auf 846 581 Aktien. Diese Beschlüsse haben auch die Dollarbeträge und die Anzahl der Aktien betreffend das übliche Kapital modifiziert, das im Vertrag anderweitig erwähnt ist.
+[^lvlu2-sec2-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu2-sec2-3]: Aufgehoben durch Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, mt Wirkung seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 3** Zeichnung von Anteilen
 
@@ -105,11 +105,11 @@ d) Die Haftung der Mitgliedstaaten auf Grund der Anteile am ordentlichen Kapital
 
 e) Die Anteile am ordentlichen Stammkapital dürfen weder verpfändet noch belastet werden, und sie sind nur auf die Bank übertragbar.
 
-f) ...[^lvlu2-sec3-3]
+f) …[^lvlu2-sec3-3]
 
-[^lvlu2-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG6-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu2-sec3-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu2-sec3-3]: Aufgehoben durch Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu2-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG6-8/87 vom 24. Dez. 1987, mit Wirkung seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu2-sec3-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu2-sec3-3]: Aufgehoben durch Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, mit Wirkung seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 4** Einzahlung der gezeichneten Beträge
 
@@ -122,14 +122,14 @@ a) Die Einzahlung der gezeichneten Beträge des ordentlichen Stammkapitals der B
 
 b) Jede Zahlung eines Mitglieds in seiner Landeswährung nach Buchstabe a Ziffer i erfolgt in einem Betrag, der nach Auffassung der Bank dem vollen Wert des zahlbaren Teils der Zeichnung in US-Dollar mit dem Gewicht und Feingehalt vom 1. Januar 1959 entspricht. Die Erstzahlung erfolgt in einem Betrag, den das Mitglied auf Grund dieser Bestimmungen für angemessen hält, unterliegt jedoch einer binnen 60 Tagen nach dem Fälligkeitsdatum durchzuführenden Berichtigung, wenn eine solche nach Feststellung der Bank zur Erreichung des vollen Dollargegenwerts nach Massgabe dieses Buchstabens erforderlich ist.
 
-c) Sofern nicht der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten etwas anderes beschliesst, setzt die Haftung der Mitglieder für die Zahlung der zweiten und dritten Rate des eingezahlten Teils ihrer Zeichnungen auf das Stammkapital voraus, dass nicht weniger als 90 Prozent der Gesamtverpflichtungen der Mitglieder für
+c) Sofern nicht der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten etwas anderes beschliesst, setzt die Haftung der Mitglieder für die Zahlung der zweiten und dritten Rate des eingezahlten Teils ihrer Zeichnungen auf das Stammkapital voraus, dass nicht weniger als 90 Prozent der Gesamtverpflichtungen der Mitglieder für:
 
-- i) die erste bzw. zweite Rate des eingezahlten Teils der Zeichnungen und
+- i) die erste bzw. zweite Rate des eingezahlten Teils der Zeichnungen; und
 - ii) die Erstzahlung und alle früheren Abrufe auf die Zeichnungsquoten für den Fonds
 
 gezahlt sind.
 
-[^lvlu2-sec4-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu2-sec4-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 5** Ordentliche Kapitalmittel
 
@@ -141,11 +141,11 @@ In diesem Übereinkommen schliesst der Ausdruck «ordentliche Kapitalmittel» de
 - iv) alle Einnahmen aus Darlehen, die aus den genannten Mitteln gewährt wurden, oder aus Garantien, auf welche die in Abschnitt 4 Buchstabe a Ziffer ii vorgesehene Verpflichtung Anwendung findet, sowie
 - v) alle sonstigen aus den oben genannten Mitteln erzielten Einnahmen.
 
-## Art. IIA****Interregionales Kapital der Bank
+## Art. IIAInterregionales Kapital der Bank
 
 [^lvlu3-1]
 
-[^lvlu3-1]: Text aufgehoben gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu3-1]: Text aufgehoben gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, mit Wirkung seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. IIIGeschäftstätigkeit
 
@@ -165,14 +165,14 @@ Die Bestände und Einrichtungen der Bank werden ausschliesslich zur Erfüllung d
 
 (c) Als Spezialoperationen gelten die aus den Mitteln des Fonds nach Artikel IV finanzierten Geschäfte.
 
-[^lvlu4-sec2-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu4-sec2-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec2-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu4-sec2-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 3** Grundprinzip der Trennung der Geschäftsbereiche
 
 [^lvlu4-sec3-1]
 
-[^lvlu4-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) Die ordentlichen Kapitalbestände im Sinne des Artikels II Abschnitt 5 und die Bestände des Fonds im Sinne des Artikels IV Abschnitt 3 Buchstabe h werden jederzeit und in jeder Hinsicht völlig voneinander getrennt gehalten, verwendet, festgelegt, angelegt oder anderweitig verwendet.
 
@@ -187,18 +187,18 @@ Die Bestände und Einrichtungen der Bank werden ausschliesslich zur Erfüllung d
 Vorbehaltlich der in diesem Artikel festgesetzten Bedingungen kann die Bank jedem Mitglied, jeder seiner Dienststellen oder Gebietskörperschaften und jedem Unternehmen im Hoheitsgebiet eines Mitglieds sowie der Karibischen Entwicklungsbank auf folgende Weise Darlehen gewähren oder garantieren:[^lvlu4-sec4-1]
 
 - i) durch Gewährung von oder Beteiligung an direkten Darlehen aus Mitteln, die dem uneingeschränkt verfügbaren eingezahlten ordentlichen Kapital und – unter Vorbehalt des Abschnitts 13 – ihren Reserven und nicht ausgeschütteten Überschüssen entsprechen, oder aus den uneingeschränkt verfügbaren Mitteln des Fonds;
-- ii) durch Gewährung von oder Beteiligung an direkten Darlehen aus Mitteln, welche die Bank auf dem Kapitalmarkt oder im Wege der Kreditaufnahme beschafft oder auf andere Weise erworben hat, um sie in ihre ordentlichen Kapitalmittel oder die Mittel des Fonds einzubringen, und[^lvlu4-sec4-2]
+- ii) durch Gewährung von oder Beteiligung an direkten Darlehen aus Mitteln, welche die Bank auf dem Kapitalmarkt oder im Wege der Kreditaufnahme beschafft oder auf andere Weise erworben hat, um sie in ihre ordentlichen Kapitalmittel oder die Mittel des Fonds einzubringen; und[^lvlu4-sec4-2]
 - iii) durch die mit Hilfe der ordentlichen Kapitalmittel[^lvlu4-sec4-3] oder der Mittel des Fonds übernommenen Teil- oder Gesamtgarantien für Darlehen, die – ausser in Sonderfällen – von privaten Anlegern gewährt worden sind.
 
 [^lvlu4-sec4-1]: Fassung gemäss Ziff I Bst. b der Entschliessung AG-1/77 vom 27. Jan. 1977, in Kraft seit 27. April 1977 ([AS 1988 1900](https://fedlex.data.admin.ch/eli/oc/1988/1900_1900_1900)).
-[^lvlu4-sec4-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu4-sec4-3]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec4-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu4-sec4-3]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 5** Grenzen der Geschäftstätigkeit
 
 [^lvlu4-sec5-1]
 
-[^lvlu4-sec5-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec5-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 a) Der ausstehende Gesamtbetrag der von der Bank im Rahmen ihrer ordentlichen Geschäfte gewährten Darlehen und Garantien darf den Gesamtbetrag ihres uneingeschränkt verfügbaren gezeichneten ordentlichen Kapitals zuzüglich der uneingeschränkt verfügbaren Reserven und Überschüsse, die zu den ordentlichen Kapitalbeständen der Bank im Sinne des Artikels II Abschnitt 5 gehören, jedoch mit Ausnahme der der Sonderreserve nach Abschnitt 13 zugewiesenen Einkünfte und der sonstigen Einkünfte der ordentlichen Kapitalmittel, die durch Beschluss des Gouverneursrats den Reserven zugewiesen werden, die für Darlehen und Garantien nicht zur Verfügung stehen, zu keiner Zeit übersteigen.
 
@@ -213,7 +213,7 @@ b) Werden Darlehen aus Mitteln gewährt, welche die Bank durch Kreditaufnahme be
 Bei der Gewährung von oder Beteiligung an direkten Darlehen kann die Bank Finanzierungsmittel wie folgt zur Verfügung stellen:
 
 - a) indem sie dem Darlehensnehmer die zur Deckung des Devisenaufwands für das betreffende Vorhaben erforderlichen Währungen der Mitglieder mit Ausnahme der Währung des Mitglieds zur Verfügung stellt, in dessen Hoheitsgebiet das Vorhaben durchgeführt werden soll;
-- [tab] (b)[^lvlu4-sec6-2] indem sie Finanzierungsmittel für die mit den Zwecken des Darlehens zusammenhängenden Ausgaben im Hoheitsgebiet des Staates, in dem das Vorhaben durchgeführt werden soll, zur Verfügung stellt. Nur in Sonderfällen, insbesondere wenn das Vorhaben mittelbar eine Erhöhung der Devisennachfrage in jenem Staat nach sich zieht, werden die von der Bank gewährten Finanzierungsmittel zur Deckung örtlicher Ausgaben in Gold oder in anderen Währungen als der Landeswährung des betreffenden Staates zur Verfügung gestellt; in diesem Fall dürfen die von der Bank für diesen Zweck zur Verfügung gestellten Finanzierungsmittel einen vertretbaren Teil der dem Darlehensnehmer entstehenden örtlichen Ausgaben nicht übersteigen.
+- b)[^lvlu4-sec6-2] indem sie Finanzierungsmittel für die mit den Zwecken des Darlehens zusammenhängenden Ausgaben im Hoheitsgebiet des Staates, in dem das Vorhaben durchgeführt werden soll, zur Verfügung stellt. Nur in Sonderfällen, insbesondere wenn das Vorhaben mittelbar eine Erhöhung der Devisennachfrage in jenem Staat nach sich zieht, werden die von der Bank gewährten Finanzierungsmittel zur Deckung örtlicher Ausgaben in Gold oder in anderen Währungen als der Landeswährung des betreffenden Staates zur Verfügung gestellt; in diesem Fall dürfen die von der Bank für diesen Zweck zur Verfügung gestellten Finanzierungsmittel einen vertretbaren Teil der dem Darlehensnehmer entstehenden örtlichen Ausgaben nicht übersteigen.
 
 [^lvlu4-sec6-2]: Fassung gemäss Ziff. I Bst. c der Entschliessung AG-1/77 vom 27. Jan. 1977, in Kraft seit 27. April 1977 ([AS 1988 1900](https://fedlex.data.admin.ch/eli/oc/1988/1900_1900_1900)).
 
@@ -225,7 +225,7 @@ a) Die Bank kann unter Beachtung folgender Vorschriften und Bedingungen Darlehen
 - ii) bei der Beurteilung eines Darlehens- oder Garantiegesuchs hat die Bank zu berücksichtigen, ob der Darlehensnehmer in der Lage ist, das Darlehen aus privaten Finanzierungsquellen zu Bedingungen zu erhalten, die der Bank in Anbetracht aller sachdienlichen Faktoren als dem Empfänger zumutbar erscheinen;
 - iii) bei der Gewährung eines Darlehens oder einer Darlehensgarantie hat die Bank gebührend zu berücksichtigen, ob die Aussicht besteht, dass der Darlehensnehmer und gegebenenfalls sein Bürge ihre Verpflichtungen aus dem Darlehensvertrag erfüllen können;
 - iv) der Zinssatz, die sonstigen Lasten und die Termine für die Rückzahlung des Kapitals müssen nach Auffassung der Bank dem betreffenden Vorhaben angemessen sein;
-- v) bei der Gewährung einer Garantie für ein von anderen Kapitalgebern gewährtes Darlehen muss die Bank eine angemessene Risikovergütung erhalten und
+- v) bei der Gewährung einer Garantie für ein von anderen Kapitalgebern gewährtes Darlehen muss die Bank eine angemessene Risikovergütung erhalten; und
 - vi) die von der Bank gewährten Darlehen oder übernommenen Garantien haben in erster Linie der Finanzierung bestimmter Projekte zu dienen, einschliesslich solcher, die Teil eines nationalen oder regionalen Entwicklungsprogramms sind. Die Bank kann jedoch Sammeldarlehen an Entwicklungsinstitutionen oder ähnliche Einrichtungen der Mitglieder gewähren oder garantieren, damit diese die Finanzierung bestimmter Entwicklungsprojekte ermöglichen, deren Finanzbedarf im Einzelfall nach Auffassung der Bank zu gering ist, um eine direkte Überwachung durch die Bank zu rechtfertigen.
 
 b) Die Bank sieht von der Finanzierung eines Vorhabens im Hoheitsgebiet eines Mitglieds ab, wenn dieses Mitglied dagegen Einspruch erhebt.
@@ -238,7 +238,7 @@ b) Die Bank kann an die Gewährung von Darlehen oder Garantien alle von ihr für
 
 ### **Abschnitt 9** Verwendung der von der Bank gewährten oder garantierten Darlehen
 
-a) Vorbehältlich des Artikels V Abschnitt 1 macht es die Bank nicht zur Bedingung, dass die Darlehensmittel im Hoheitsgebiet eines bestimmten Staates ausgegeben werden oder dass diese Mittel in den Hoheitsgebieten eines oder mehrerer bestimmter Mitglieder nicht ausgegeben werden; jedoch kann im Rahmen einer Erhöhung der Bankmittel die Frage der Beschränkung von Beschaffungen durch die Bank oder durch ein Mitglied in bezug auf diejenigen Mitglieder, die sich an einer Erhöhung zu den vom Gouverneursrat festgelegten Bedingungen nicht beteiligen, vom Gouverneursrat entschieden werden.
+a) Vorbehältlich des Artikels V Abschnitt 1 macht es die Bank nicht zur Bedingung, dass die Darlehensmittel im Hoheitsgebiet eines bestimmten Staates ausgegeben werden oder dass diese Mittel in den Hoheitsgebieten eines oder mehrerer bestimmter Mitglieder nicht ausgegeben werden; jedoch kann im Rahmen einer Erhöhung der Bankmittel die Frage der Beschränkung von Beschaffungen durch die Bank oder durch ein Mitglied in Bezug auf diejenigen Mitglieder, die sich an einer Erhöhung zu den vom Gouverneursrat festgelegten Bedingungen nicht beteiligen, vom Gouverneursrat entschieden werden.
 
 b) Die Bank trifft alle erforderlichen Massnahmen, um sicherzustellen, dass die Mittel aller Darlehen, welche die Bank gewährt oder garantiert oder an denen sie sich beteiligt, nur für die Zwecke, für die das Darlehen gewährt wurde, und unter gebührender Berücksichtigung von Wirtschaftlichkeits- und Leistungsfähigkeitserwägungen verwendet werden.
 
@@ -246,7 +246,7 @@ b) Die Bank trifft alle erforderlichen Massnahmen, um sicherzustellen, dass die 
 
 Verträge über direkte Darlehen, die von der Bank gemäss Abschnitt 4 geschlossen werden, legen folgendes fest:
 
-- a) alle Bedingungen in bezug auf jedes Darlehen, u. a. Bestimmungen über die Zahlung von Kapital, Zinsen und sonstigen Lasten, Fälligkeits- und Zahlungstermine, und
+- a) alle Bedingungen in Bezug auf jedes Darlehen, u. a. Bestimmungen über die Zahlung von Kapital, Zinsen und sonstigen Lasten, Fälligkeits- und Zahlungstermine; und
 - b) die Währung oder Währungen, in denen Zahlungen an die Bank zu erfolgen haben.
 
 ### **Abschnitt 11** Garantien
@@ -293,9 +293,9 @@ d) Die Zahlung der Quoten wird auf folgende Weise vorgenommen:
 
 e) Jede Zahlung eines Mitglieds in seiner Landeswährung nach Buchstabe d erfolgt in einem Betrag, der nach Auffassung der Bank dem vollen Wert des zahlbaren Teils der Quote in US-Dollar mit dem Gewicht und Feingehalt vom 1. Januar 1959 entspricht. Die Erstzahlung erfolgt in einem Betrag, den das Mitglied auf Grund dieser Bestimmungen für angemessen hält; er unterliegt jedoch einer binnen 60 Tagen nach dem Fälligkeitsdatum durchzuführenden Berichtigung, wenn eine solche nach Feststellung der Bank zur Erreichung des vollen Dollargegenwerts nach Massgabe dieses Buchstabens erforderlich ist.
 
-f) Sofern nicht der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten etwas anderes beschliesst, setzt die Haftung der Mitglieder für die Zahlung auf einen Abruf des nicht eingezahlten Teils ihrer Zeichnungsquoten für den Fonds voraus, dass nicht weniger als 90 Prozent der Gesamtverpflichtungen der Mitglieder für
+f) Sofern nicht der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten etwas anderes beschliesst, setzt die Haftung der Mitglieder für die Zahlung auf einen Abruf des nicht eingezahlten Teils ihrer Zeichnungsquoten für den Fonds voraus, dass nicht weniger als 90 Prozent der Gesamtverpflichtungen der Mitglieder für:
 
-- i) die Erstzahlung und alle früheren Abrufe solcher Quotenzeichnungen auf den Fonds und
+- i) die Erstzahlung und alle früheren Abrufe solcher Quotenzeichnungen auf den Fonds; und
 - ii) alle für den eingezahlten Teil der Zeichnungen auf das Stammkapital der Bank fälligen Raten
 
 gezahlt sind.
@@ -306,12 +306,12 @@ h) In diesem Übereinkommen bezeichnet der Ausdruck «Mittel des Fonds» folgend
 
 - i) Beiträge der Mitglieder nach den Buchstaben c und g;
 - ii)[^lvlu5-sec3-2] alle durch Kreditaufnahme aufgebrachten Mittel, auf welche die in Artikel II Abschnitt 4 Buchstabe a Ziffer ii vorgesehene Verpflichtung keine Anwendung findet, d. h. solche Mittel, die ausdrücklich zu Lasten der Bestände des Fonds gehen;
-- iii) alle Mittel aus der Rückzahlung von Darlehen, die aus den oben genannten Mitteln gewährt wurden,
+- iii) alle Mittel aus der Rückzahlung von Darlehen, die aus den oben genannten Mitteln gewährt wurden;
 - iv) alle Einnahmen aus Operationen, für welche die oben genannten Mittel verwendet oder verpflichtet wurden;
 - v) alle sonstigen dem Fonds zur Verfügung stehenden Mittel.
 
 [^lvlu5-sec3-1]: Vermittels einer Reihe von zu verschiedenen Zeitpunkten gefassten Beschlüssen, wovon der letzte am Tage der Beglaubigung dieses Textes in Kraft trat, erhöhte die Versammlung der Gouverneure die autorisierten Mittel des Fonds auf einen Betrag, der 5 439 974 000 US-Dollar des jetzigen Wertes entspricht.
-[^lvlu5-sec3-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu5-sec3-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 4** Operationen
 
@@ -329,9 +329,9 @@ Die Rechte der Mitglieder der Bank aus ihren Beiträgen zum Fonds dürfen weder 
 
 ### **Abschnitt 7** Erfüllung der Verbindlichkeiten des Fonds aus der Aufnahme von Krediten
 
-Zahlungen zur Erfüllung von Verbindlichkeiten aus der Aufnahme von Krediten zwecks Einschluss in die Bestände des Fonds gehen
+Zahlungen zur Erfüllung von Verbindlichkeiten aus der Aufnahme von Krediten zwecks Einschluss in die Bestände des Fonds gehen:
 
-- i) zunächst zu Lasten einer zu diesem Zweck gebildeten Reserve und
+- i) zunächst zu Lasten einer zu diesem Zweck gebildeten Reserve; und
 - ii) sodann zu Lasten sonstiger in den Mitteln des Fonds verfügbarer Mittel.
 
 ### **Abschnitt 8** Verwaltung
@@ -375,7 +375,7 @@ Artikel X findet auch auf den Fonds Anwendung, wobei die Begriffe, die sich auf 
 - (i) Gold und Dollarbeträge, die der Bank nach Artikel II bzw. Artikel IV als der 50prozentige Teil der Zeichnung eines jeden Mitglieds auf Anteile des ordentlichen Kapitals der Bank und als der 50prozentige Teil der Beitragsquote eines jeden Mitglieds zum Fonds gezahlt werden;
 - (ii) Währungen von Mitgliedern, die mit den unter Ziffer i bezeichneten Beständen erworben wurden;
 - (iii) Währungen, die durch Kreditaufnahmen nach Artikel VII Abschnitt 1 Ziffer i zwecks Auffüllung der Kapitalbestände der Bank erworben wurden;
-- (iv) Gold und Dollarbeträge, welche die Bank durch Kapitalrückzahlung oder durch Zahlung von Zinsen und sonstigen Spesen für Darlehen, die mit den unter Ziffer i bezeichneten Gold- und Dollarmitteln gewährt wurden, erhalten hat; Währungen, die durch Kapitalrückzahlung oder durch Zahlung von Zinsen und sonstigen Spesen für Darlehen, die mit den unter Ziffern ii und iii bezeichneten Währungen gewährt wurden, eingegangen sind, und Währungen, die durch Zahlung von Provisionen und Gebühren für alle von der Bank gegebenen Garantien eingegangen sind, sowie
+- (iv) Gold und Dollarbeträge, welche die Bank durch Kapitalrückzahlung oder durch Zahlung von Zinsen und sonstigen Spesen für Darlehen, die mit den unter Ziffer i bezeichneten Gold- und Dollarmitteln gewährt wurden, erhalten hat; Währungen, die durch Kapitalrückzahlung oder durch Zahlung von Zinsen und sonstigen Spesen für Darlehen, die mit den unter Ziffern ii und iii bezeichneten Währungen gewährt wurden, eingegangen sind, und Währungen, die durch Zahlung von Provisionen und Gebühren für alle von der Bank gegebenen Garantien eingegangen sind; sowie
 - (v) Währungen, mit Ausnahme der Landeswährung des Mitglieds, welche die Bank bei der Ausschüttung der Reingewinne nach Artikel VII Abschnitt 4 Buchstabe d und Artikel IV Abschnitt 10 ausgezahlt hat.
 
 (c)[^lvlu6-sec1-3] Die Währung eines Mitglieds, welche die Bank entweder in ihren ordentlichen Kapitalbeständen oder in den Beständen des Fonds besitzt und die nicht unter Buchstabe b fällt, kann ebenfalls von der Bank oder einem Empfänger der Bank ohne jede Beschränkung für Zahlungen in jedem Staat verwendet werden, sofern das betreffende Mitglied nicht der Bank seinen Wunsch notifiziert, diese Währung ganz oder teilweise auf die unter Buchstabe a bezeichneten Verwendungszwecke zu beschränken.
@@ -384,11 +384,11 @@ d)[^lvlu6-sec1-4] Die Mitglieder dürfen keine Beschränkungen auferlegen, welch
 
 e)[^lvlu6-sec1-5] Gold oder Währungen, welche die Bank in ihren ordentlichen Kapitalmitteln, … oder in den Mitteln des Fonds besitzt, werden von ihr nicht zum Ankauf anderer Währungen verwendet, sofern sie nicht mit Zweidrittelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten dazu ermächtigt wird. Die auf Grund dieser Bestimmung angekauften Währungen unterliegen nicht der Aufrechterhaltung des Wertes nach Abschnitt 3.
 
-[^lvlu6-sec1-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-3]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-4]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-5]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu6-sec1-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-3]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-4]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-5]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 2** Bewertung der Währungen
 
@@ -404,14 +404,14 @@ c) Die Bank kann auf die Anwendung dieses Abschnitts verzichten, wenn der Intern
 
 d) Ungeachtet sonstiger Bestimmungen dieses Abschnitts können die Bedingungen für eine Erhöhung der Mittel des Fonds nach Artikel IV Abschnitt 3 Buchstabe g andere Bestimmungen über die Aufrechterhaltung des Wertes als die in diesem Abschnitt enthaltenen Bestimmungen, die sich auf die auf eine derartige Erhöhung zurückzuführenden Mittel des Fonds beziehen, umfassen.
 
-[^lvlu6-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec3-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu6-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec3-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 4** Methoden zur Aufbewahrung von Währungen
 
 [^lvlu6-sec4-1]
 
-[^lvlu6-sec4-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu6-sec4-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 Anstelle eines beliebigen Teils der Währung eines Mitglieds, der dem fünfzigprozentigen Anteil seiner Zeichnung auf das genehmigte ordentliche Kapital der Bank und dem fünfzigprozentigen Anteil seiner Zeichnung auf die Bestände des Fonds entspricht, die nach Artikel II bzw. Artikel IV von jedem Mitglied in seiner Landeswährung zu zahlen sind, hat die Bank von jedem Mitglied Schuldscheine oder ähnliche Wertpapiere anzunehmen, die von der Regierung des Mitglieds oder einer von ihm benannten Hinterlegungsstelle ausgestellt sind, vorausgesetzt, dass diese Währung nicht von der Bank für ihre Geschäftstätigkeit benötigt wird. Diese Schuldscheine oder Wertpapiere sind nicht übertragbar, unverzinslich und auf Verlangen zum Nennwert an die Bank zahlbar. Unter den gleichen Voraussetzungen hat die Bank anstelle eines beliebigen Teils der Zeichnung eines Mitglieds … ebenfalls Schuldscheine oder Wertpapiere anzunehmen, wenn für diesen Teil der Zeichnung die Zahlungsbedingungen eine Barzahlung nicht erfordern.
 
@@ -419,9 +419,9 @@ Anstelle eines beliebigen Teils der Währung eines Mitglieds, der dem fünfzigpr
 
 ### **Abschnitt 1** Technische Beratung und Hilfe
 
-Die Bank kann auf Verlangen eines oder mehrerer Mitglieder oder auf Verlangen privater Firmen, die von ihr Darlehen erhalten können, im Rahmen ihres Tätigkeitsbereichs technische Beratung und Hilfe gewähren, insbesondere in bezug auf
+Die Bank kann auf Verlangen eines oder mehrerer Mitglieder oder auf Verlangen privater Firmen, die von ihr Darlehen erhalten können, im Rahmen ihres Tätigkeitsbereichs technische Beratung und Hilfe gewähren, insbesondere in Bezug auf:
 
-- i) Vorbereitung, Finanzierung und Durchführung von Entwicklungsplänen und -projekten, einschliesslich der Abklärung von Prioritäten sowie Ausarbeitung von Darlehensvorschlägen für bestimmte nationale oder regionale Entwicklungsprojekte und
+- i) Vorbereitung, Finanzierung und Durchführung von Entwicklungsplänen und -projekten, einschliesslich der Abklärung von Prioritäten sowie Ausarbeitung von Darlehensvorschlägen für bestimmte nationale oder regionale Entwicklungsprojekte; und
 - ii) Heranbildung und Weiterbildung von Kräften, die sich auf die Ausarbeitung und Durchführung von Entwicklungsplänen und ‑projekten spezialisieren, durch Seminare und sonstige Ausbildungsmethoden.
 
 ### **Abschnitt 2** Übereinkünfte auf der Grundlage der Zusammenarbeit über technische Hilfe
@@ -434,21 +434,21 @@ a) Die Bank kann mit Mitgliedstaaten oder Firmen, die technische Hilfe erhalten,
 
 b)[^lvlu7-sec3-1] Die Kosten für technische Hilfe, die nicht von den Empfängern gezahlt werden, sind aus den Nettoeinkünften oder ordentlichen Kapitalmittel, … oder des Fonds zu bestreiten. Während der ersten drei Jahre der Geschäftstätigkeit der Bank können jedoch insgesamt höchstens 3 Prozent der Grundausstattung des Fonds für solche Kosten verwendet werden.
 
-[^lvlu7-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu7-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. VIIVerschiedene Befugnisse und Ausschüttung der Gewinne
 
 ### **Abschnitt 1** Verschiedene Befugnisse der Bank
 
-Neben den sonst in diesem Übereinkommen vorgesehenen Befugnissen hat die Bank die Befugnis,
+Neben den sonst in diesem Übereinkommen vorgesehenen Befugnissen hat die Bank die Befugnis:
 
 - i)[^lvlu8-sec1-1] Kredite aufzunehmen und in diesem Zusammenhang alle von ihr bestimmten Sicherheiten dafür zu stellen, vorausgesetzt, dass sie vor einer Veräusserung ihrer Schuldverschreibungen auf dem Markt eines Staates die Zustimmung dieses Staates sowie des Mitglieds einholt, auf dessen Währung die Schuldverschreibungen lauten. Darüber hinaus hat die Bank bei der Kreditaufnahme von Mitteln zwecks Auffüllung ihrer ordentlichen Kapitalmittel … die Zustimmung dieser Staaten zur uneingeschränkten Umwechslung der Beträge in die Währung jedes anderen Staates einzuholen;
 - ii) Wertpapiere, die sie ausgegeben oder garantiert oder in denen sie Mittel angelegt hat, zu kaufen und zu verkaufen, vorausgesetzt, dass die Bank die Zustimmung des Staates einholt, in dessen Hoheitsgebiet die Wertpapiere gekauft oder verkauft werden sollen;
 - iii) mit Zustimmung einer Zweidrittelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten die Mittel, die sie für ihre Geschäftstätigkeit nicht benötigt, in von ihr bestimmten Schuldverschreibungen anzulegen;
-- iv) Wertpapiere, die in ihrem Portefeuille enthalten sind, zu garantieren, um ihren Verkauf zu erleichtern, und
+- iv) Wertpapiere, die in ihrem Portefeuille enthalten sind, zu garantieren, um ihren Verkauf zu erleichtern; und
 - v) alle sonstigen Befugnisse auszuüben, die zur Förderung ihres Zwecks und ihrer Aufgaben im Einklang mit diesem Übereinkommen notwendig oder wünschenswert sind.
 
-[^lvlu8-sec1-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu8-sec1-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 2** Auf Wertpapiere zu setzender Hinweis
 
@@ -458,25 +458,25 @@ Jedes von der Bank ausgegebene oder garantierte Wertpapier hat auf der Vordersei
 
 [^lvlu8-sec3-1]
 
-[^lvlu8-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu8-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 a) Im Fall eines tatsächlichen oder drohenden Zahlungsverzugs bei Darlehen, welche die Bank unter Verwendung ihrer ordentlichen Kapitalmittel … gewährt oder garantiert, trifft sie alle ihr angebracht erscheinenden Massnahmen zur Änderung der Darlehensbedingungen; ausgenommen ist die Änderung der Rückzahlungswährung.
 
-b) Mit Zahlungen zur Erfüllung der Verbindlichkeiten der Bank für Kredite oder Garantien nach Artikel III Abschnitt 4 Ziffern ii und iii, die zu Lasten der ordentlichen Kapitalmittel der Bank gehen, werden
+b) Mit Zahlungen zur Erfüllung der Verbindlichkeiten der Bank für Kredite oder Garantien nach Artikel III Abschnitt 4 Ziffern ii und iii, die zu Lasten der ordentlichen Kapitalmittel der Bank gehen, werden:
 
-- i) zuerst die in Artikel III Abschnitt 13 vorgesehenen Sonderreserven belastet und
+- i) zuerst die in Artikel III Abschnitt 13 vorgesehenen Sonderreserven belastet; und
 - ii) sodann, soweit erforderlich, nach freiem Ermessen der Bank die übrigen Reserven, Überschüsse und Mittel belastet, die dem auf die Anteile am ordentlichen Kapital eingezahlten Kapital entsprechen.
 
-c) Zur Erfüllung ihrer aus den ordentlichen Kapitalmitteln zu leistenden vertraglichen Zahlungen von Zinsen, sonstigen Spesen oder Tilgungsbeträgen für von der Bank aufgenommene Kredite oder zur Erfüllung ihrer Verbindlichkeiten in bezug auf ähnliche Zahlungen für von ihr garantierte Darlehen, die zu Lasten ihrer ordentlichen Kapitalmittel gehen, kann die Bank nötigenfalls nach Artikel II Abschnitt 4 Buchstabe a Ziffer ii die Mitglieder auffordern, einen angemessenen Betrag ihrer Zeichnungen auf das abrufbare ordentliche Kapital zu leisten. Darüber hinaus kann die Bank, wenn nach ihrer Auffassung ein Verzug von langer Dauer sein wird, einen weiteren Teil der Zeichnungen, der jedoch in einem Jahr 1 Prozent der Gesamtzeichnungen der Mitglieder auf die ordentlichen Kapitalmittel nicht überschreiten darf, für folgende Zwecke abrufen:
+c) Zur Erfüllung ihrer aus den ordentlichen Kapitalmitteln zu leistenden vertraglichen Zahlungen von Zinsen, sonstigen Spesen oder Tilgungsbeträgen für von der Bank aufgenommene Kredite oder zur Erfüllung ihrer Verbindlichkeiten in Bezug auf ähnliche Zahlungen für von ihr garantierte Darlehen, die zu Lasten ihrer ordentlichen Kapitalmittel gehen, kann die Bank nötigenfalls nach Artikel II Abschnitt 4 Buchstabe a Ziffer ii die Mitglieder auffordern, einen angemessenen Betrag ihrer Zeichnungen auf das abrufbare ordentliche Kapital zu leisten. Darüber hinaus kann die Bank, wenn nach ihrer Auffassung ein Verzug von langer Dauer sein wird, einen weiteren Teil der Zeichnungen, der jedoch in einem Jahr 1 Prozent der Gesamtzeichnungen der Mitglieder auf die ordentlichen Kapitalmittel nicht überschreiten darf, für folgende Zwecke abrufen:
 
-- i) um den ausstehenden Kapitalbetrag eines von ihr zu Lasten ihrer ordentlichen Kapitalmittel garantierten Darlehens, für den der Schuldner sich in Verzug befindet, ganz oder teilweise vor der Fälligkeit abzulösen oder ihre Verbindlichkeit insoweit auf andere Weise zu erfüllen und
+- i) um den ausstehenden Kapitalbetrag eines von ihr zu Lasten ihrer ordentlichen Kapitalmittel garantierten Darlehens, für den der Schuldner sich in Verzug befindet, ganz oder teilweise vor der Fälligkeit abzulösen oder ihre Verbindlichkeit insoweit auf andere Weise zu erfüllen; und
 - ii) um ihre eigenen ausstehenden Verpflichtungen, die aus ihren ordentlichen Kapitalmitteln zu zahlen sind, ganz oder teilweise zurückzukaufen oder ihre Verbindlichkeit insoweit auf andere Weise zu erfüllen.
 
 ### **Abschnitt 4** Ausschüttung oder Überweisung der Reingewinne und Überschüsse
 
 [^lvlu8-sec4-1]
 
-[^lvlu8-sec4-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu8-sec4-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 a) Der Gouverneursrat kann in regelmässigen Abständen bestimmen, welcher Teil der Reingewinne und Überschüsse aus den ordentlichen Kapitalmitteln … auszuschütten ist. Die Ausschüttungen sind erst dann vorzunehmen, wenn die Reserven einen vom Gouverneursrat für angemessen erachteten Stand erreicht haben.
 
@@ -498,7 +498,7 @@ Die Bank hat einen Gouverneursrat, ein Direktorium, einen Präsidenten, einen Ge
 
 a) Alle Befugnisse der Bank liegen beim Gouverneursrat. Jedes Mitglied ernennt einen Gouverneur und einen Stellvertreter für eine Amtszeit von fünf Jahren, wobei es die Ernennung jederzeit rückgängig machen oder erneuern kann. Stellvertreter nehmen nur bei Abwesenheit ihres Gouverneurs an der Abstimmung teil. Der Rat wählt einen der Gouverneure zum Vorsitzenden, der bis zur nächsten regelmässigen Tagung des Rates im Amt bleibt.
 
-b) Der Gouverneursrat kann alle seine Befugnisse auf das Direktorium übertragen, jedoch mit Ausnahme der Befugnis,
+b) Der Gouverneursrat kann alle seine Befugnisse auf das Direktorium übertragen, jedoch mit Ausnahme der Befugnis:
 
 - (i) neue Mitglieder aufzunehmen und die Bedingungen für ihre Aufnahme festzusetzen;
 - (ii)[^lvlu9-sec2-1] das genehmigte ordentliche Stammkapital der Bank sowie die Beiträge zum Fonds zu erhöhen oder herabzusetzen;
@@ -510,7 +510,7 @@ b) Der Gouverneursrat kann alle seine Befugnisse auf das Direktorium übertragen
 - (viii)[^lvlu9-sec2-2] nach einer Überprüfung des Berichts der Rechnungsprüfer die allgemeine Bilanz und die Gewinn- und Verlustrechnung der Institution zu geneh-migen;
 - (ix)[^lvlu9-sec2-3] über die Reserven und die Ausschüttung der Reingewinne der ordent-lichen Kapitalbestände und des Fonds zu befinden;
 - (x)[^lvlu9-sec2-4] externe Rechnungsprüfer zur Bestätigung der allgemeinen Bilanz und der Gewinn- und Verlustrechnung der Institution auszuwählen;
-- (xi) dieses Übereinkommen zu ändern und
+- (xi) dieses Übereinkommen zu ändern; und
 - (xii) die Beendigung der Geschäftstätigkeit der Bank und die Verteilung ihrer Vermögenswerte zu beschliessen.
 
 c) Der Gouverneursrat behält volle Weisungsbefugnis in allen nach Buchstabe b dem Direktorium übertragenen Angelegenheiten.
@@ -525,17 +525,17 @@ g) Der Gouverneursrat und, soweit dazu ermächtigt, das Direktorium können die 
 
 h) Die Gouverneure und ihre Stellvertreter sind in dieser Eigenschaft ohne Vergütung durch die Bank tätig; die Bank kann ihnen jedoch für die durch die Teilnahme an den Sitzungen des Gouverneursrats entstehenden Kosten eine angemessene Entschädigung zahlen.
 
-[^lvlu9-sec2-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu9-sec2-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu9-sec2-3]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu9-sec2-4]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu9-sec2-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu9-sec2-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu9-sec2-3]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu9-sec2-4]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 3** Direktorium
 
 a) Das Direktorium ist für die Leitung der Geschäftstätigkeit der Bank verantwortlich und kann zu diesem Zweck alle ihm vom Gouverneursrat übertragenen Befugnisse ausüben.
 
 - b) i) Exekutivdirektoren müssen anerkannt qualifizierte und erfahrene Wirt-schafts- und Finanzfachleute sein; sie dürfen jedoch nicht Gouverneure sein.
-- ii) Ein Exekutivdirektor wird von dem Mitgliedstaat ernannt, der die meisten Anteile an der Bank besitzt, zwei Exekutivdirektoren werden von den Gouverneuren der nichtregionalen Mitgliedstaaten gewählt, und mindestens acht weitere werden von Gouverneuren der übrigen Mitgliedstaaten gewählt. Die Anzahl der in der letztgenannten Kategorie zu wählenden Exekutivdirektoren und das Verfahren zur Wahl aller wählbaren Direktoren wird durch Vorschriften geregelt, die der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten beschliesst; diese Mehrheit umfasst in bezug auf die Bestimmungen, die sich ausschliesslich auf die Wahl der Direktoren durch die nichtregionalen Mitgliedstaaten beziehen, eine Zweidrittelmehrheit der Gouverneure der nichtregionalen Mitglieder, und in bezug auf die Bestimmungen, die sich ausschliesslich auf die Anzahl und Wahl der Direktoren durch die übrigen Mitgliedstaaten beziehen, eine Zweidrittelmehrheit der Gouverneure der regionalen Mitglieder. Die Genehmigung einer Änderung dieser Vorschriften bedarf derselben Stimmenmehrheit.
+- ii) Ein Exekutivdirektor wird von dem Mitgliedstaat ernannt, der die meisten Anteile an der Bank besitzt, zwei Exekutivdirektoren werden von den Gouverneuren der nichtregionalen Mitgliedstaaten gewählt, und mindestens acht weitere werden von Gouverneuren der übrigen Mitgliedstaaten gewählt. Die Anzahl der in der letztgenannten Kategorie zu wählenden Exekutivdirektoren und das Verfahren zur Wahl aller wählbaren Direktoren wird durch Vorschriften geregelt, die der Gouverneursrat mit Dreiviertelmehrheit der Gesamtstimmenzahl der Mitgliedstaaten beschliesst; diese Mehrheit umfasst in Bezug auf die Bestimmungen, die sich ausschliesslich auf die Wahl der Direktoren durch die nichtregionalen Mitgliedstaaten beziehen, eine Zweidrittelmehrheit der Gouverneure der nichtregionalen Mitglieder, und in Bezug auf die Bestimmungen, die sich ausschliesslich auf die Anzahl und Wahl der Direktoren durch die übrigen Mitgliedstaaten beziehen, eine Zweidrittelmehrheit der Gouverneure der regionalen Mitglieder. Die Genehmigung einer Änderung dieser Vorschriften bedarf derselben Stimmenmehrheit.
 - iii) Die Exekutivdirektoren werden für eine Amtszeit von drei Jahren ernannt oder gewählt; sie können für weitere Amtszeiten wiederernannt oder wiedergewählt werden.
 
 c) Jeder Exekutivdirektor ernennt einen Stellvertreter, der die Vollmacht hat, in seiner Abwesenheit für ihn zu handeln. Die Direktoren und ihre Stellvertreter müssen Angehörige der Mitgliedstaaten sein. Keiner der gewählten Direktoren und ihrer Stellvertreter darf dieselbe Staatsangehörigkeit besitzen, ausser im Fall der Staaten, die nicht Kreditnehmer sind. Stellvertreter dürfen an den Sitzungen teilnehmen, jedoch nur dann mit abstimmen, wenn sie für ihren Direktor handeln.
@@ -556,7 +556,7 @@ i) Das Direktorium bestimmt die grundsätzliche Organisation der Bank einschlies
 
 [^lvlu9-sec4-1]
 
-[^lvlu9-sec4-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu9-sec4-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 a) Jeder Mitgliedstaat hat 135 Stimmen zuzüglich einer Stimme für jeden in seinem Besitz befindlichen Anteil am ordentlichen Stammkapital … der Bank; im Zusammenhang mit einer Erhöhung des genehmigten ordentlichen Stammkapitals … kann der Gouverneursrat jedoch verfügen, dass das durch die Erhöhung genehmigte Stammkapital keine Stimmrechte mit sich bringt und dass die Erhöhung des Stammkapitals nicht dem Vorkaufsrecht nach Artikel II Abschnitt 3 Buchstabe b unterliegt.
 
@@ -564,7 +564,7 @@ b) Eine Erhöhung der Zeichnung eines Mitglieds … auf das ordentliche Stammkap
 
 c) Bei der Abstimmung im Gouverneursrat kann jeder Gouverneur die Stimmen des von ihm vertretenen Mitgliedstaats abgeben. Sofern nicht in diesem Übereinkommen ausdrücklich etwas anderes vorgesehen ist, bedürfen Beschlüsse zu allen dem Gouverneursrat vorliegenden Fragen einer Mehrheit der Gesamtstimmenzahl der Mitgliedstaaten.
 
-d) Bei der Abstimmung im Direktorium
+d) Bei der Abstimmung im Direktorium:
 
 - i) kann der ernannte Direktor die Anzahl der Stimmen des Mitgliedstaats abgeben, der ihn ernannt hat;
 - ii) kann jeder gewählte Direktor so viele Stimmen abgeben, wie er bei seiner Wahl erhalten hat; diese Stimmen sind als Block abzugeben; und
@@ -596,7 +596,7 @@ a)[^lvlu9-sec6-1] Bank veröffentlicht einen Jahresbericht, der eine geprüfte R
 
 b) Die Bank kann alle sonstigen zur Erfüllung ihrer Zwecke und Aufgaben für wünschenswert erachteten Berichte veröffentlichen.
 
-[^lvlu9-sec6-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu9-sec6-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. IXAustritt und Suspendierung von Mitgliedern
 
@@ -616,7 +616,7 @@ Während der Suspendierung darf ein Mitglied seine Rechte aus dem Übereinkommen
 
 ### **Abschnitt 3** Abrechnung
 
-a) Nach dem Erlöschen der Mitgliedschaft eines Staates ist dieser nicht mehr an den Gewinnen und Verlusten der Bank beteiligt, und es entstehen ihm keine Verbindlichkeiten in bezug auf später von der Bank gewährten Darlehen und Garantien. Er haftet jedoch weiterhin für alle Beträge die er der Bank schuldet, sowie für seine Eventualverbindlichkeiten gegenüber der Bank, solange ein Teil der vor dem Zeitpunkt, an dem die Mitgliedschaft des Staates erlosch, von der Bank gewährten Darlehen oder Garantien aussteht.
+a) Nach dem Erlöschen der Mitgliedschaft eines Staates ist dieser nicht mehr an den Gewinnen und Verlusten der Bank beteiligt, und es entstehen ihm keine Verbindlichkeiten in Bezug auf später von der Bank gewährten Darlehen und Garantien. Er haftet jedoch weiterhin für alle Beträge die er der Bank schuldet, sowie für seine Eventualverbindlichkeiten gegenüber der Bank, solange ein Teil der vor dem Zeitpunkt, an dem die Mitgliedschaft des Staates erlosch, von der Bank gewährten Darlehen oder Garantien aussteht.
 
 b) Erlischt die Mitgliedschaft eines Staates, so trifft die Bank im Rahmen der Abrechnung mit diesem Staat nach diesem Abschnitt Vorkehrungen für den Rückkauf des Stammkapitals dieses Staates; dem Staat stehen jedoch auf Grund dieses Übereinkommens nur die in diesem Abschnitt und in Artikel XIII Abschnitt 2 vorgesehenen Rechte zu.
 
@@ -630,14 +630,14 @@ d) Wird die unter Buchstabe c genannte Vereinbarung nicht innerhalb von sechs Mo
 
 e) In keinem Fall werden einem Staat für seine Anteile auf Grund dieses Abschnitts geschuldete Beträge vor Ablauf von sechs Monaten nach dem Zeitpunkt gezahlt, in dem die Mitgliedschaft des Staates erlischt. Stellt die Bank innerhalb dieser Zeit ihre Geschäftstätigkeit ein, so bestimmen sich alle Rechte dieses Staates nach Artikel X, und der Staat gilt im Sinne jenes Artikels noch als Mitglied der Bank, jedoch ohne Stimmrecht.
 
-[^lvlu10-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu10-sec3-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu10-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu10-sec3-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. X Zeitweilige Einstellung und Beendigung der Geschäftstätigkeit
 
 ### **Abschnitt 1** Zeitweilige Einstellung der Geschäftstätigkeit
 
-Im Notfall kann das Exekutivdirektorium die Geschäftstätigkeit in bezug auf neue Darlehen und Garantien bis zu dem Zeitpunkt einstellen, in dem der Gouverneursrat Gelegenheit hat, die Lage zu überprüfen und geeignete Massnahmen zu treffen.
+Im Notfall kann das Exekutivdirektorium die Geschäftstätigkeit in Bezug auf neue Darlehen und Garantien bis zu dem Zeitpunkt einstellen, in dem der Gouverneursrat Gelegenheit hat, die Lage zu überprüfen und geeignete Massnahmen zu treffen.
 
 ### **Abschnitt 2** Beendigung der Geschäftstätigkeit
 
@@ -649,7 +649,7 @@ a) Die Haftung aller Mitglieder aus ihren Zeichnungen auf das Stammkapital der B
 
 b) Alle Gläubiger mit unmittelbaren Forderungen werden aus den Vermögenswerten der Bankund sodann aus Zahlungen an die Bank für uneingezahlte oder abrufbare Zeichnungen bezahlt.[^lvlu11-sec3-1] Bevor Zahlungen an Gläubiger mit unmittelbaren Forderungen geleistet werden, trifft das Direktorium alle nach seiner Ansicht notwendigen Vorkehrungen zur Gewährleistung einer anteiligen Verteilung auf Gläubiger mit unmittelbaren und mit Eventualforderungen.
 
-[^lvlu11-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu11-sec3-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Abschnitt 4** Verteilung der Vermögenswerte
 
@@ -667,10 +667,10 @@ Um der Bank die Erfüllung ihres Zwecks und der ihr zugewiesenen Aufgaben zu erm
 
 ### **Abschnitt 2** Rechtsstellung
 
-Die Bank besitzt Rechtspersönlichkeit und hat insbesondere die uneingeschränkte Fähigkeit,
+Die Bank besitzt Rechtspersönlichkeit und hat insbesondere die uneingeschränkte Fähigkeit:
 
 - a) Verträge zu schliessen;
-- b) unbewegliches und bewegliches Vermögen zu erwerben und darüber zu verfügen sowie
+- b) unbewegliches und bewegliches Vermögen zu erwerben und darüber zu verfügen; sowie
 - c) vor Gericht zu stehen.
 
 ### **Abschnitt 3** Gerichtsbarkeit
@@ -711,14 +711,14 @@ a) Die Bank, ihr Eigentum, ihre sonstigen Vermögenswerte, ihre Einnahmen sowie 
 
 b) Die von der Bank den Exekutivdirektoren, Stellvertretern, leitenden und sonstigen Bediensteten der Bank, die nicht Inländer sind, gezahlten Gehälter und Vergütungen unterliegen keiner Art von Besteuerung.
 
-c) Von der Bank ausgegebene Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung,
+c) Von der Bank ausgegebene Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung:
 
-- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank ausgegeben wurde, oder
+- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank ausgegeben wurde; oder
 - ii) deren einzige rechtliche Grundlage der Ort oder die Währung, in denen diese Urkunde ausgegeben oder bezahlt worden oder zahlbar ist, oder der Sitz einer Geschäftsstelle oder eines Büros der Bank ist.
 
-d) Von der Bank garantierte Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung,
+d) Von der Bank garantierte Schuldverschreibungen oder Wertpapiere einschliesslich der Dividenden oder Zinsen dafür, gleichviel in wessen Besitz sie sich befinden, unterliegen keiner Art von Besteuerung:
 
-- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank garantiert ist, oder
+- i) die eine solche Schuldverschreibung oder ein solches Wertpapier nur deshalb benachteiligt, weil diese Urkunde von der Bank garantiert ist; oder
 - ii) deren einzige rechtliche Grundlage der Sitz einer Geschäftsstelle oder eines Büros der Bank ist.
 
 ### **Abschnitt 10** Durchführung
@@ -729,16 +729,16 @@ Jedes Mitglied trifft in Übereinstimmung mit seinem Rechtssystem alle Massnahme
 
 a)[^lvlu13-1] Dieses Übereinkommen kann nur durch Beschluss des Gouverneursrats mit der Mehrheit aller Gouverneure einschliesslich zwei Drittel der Gouverneure der regionalen Mitglieder geändert werden, die dabei mindestens drei Viertel der Gesamtstimmenzahl der Mitgliedstaaten vertreten müssen; die Abstimmungsmehrheiten in Artikel II Abschnitt 1 Buchstabe b können jedoch nur mit den dort genannten Abstimmungsmehrheiten geändert werden.
 
-b) Ungeachtet des Buchstabens a ist Einstimmigkeit im Gouverneursrat erforderlich bei einer Änderung
+b) Ungeachtet des Buchstabens a ist Einstimmigkeit im Gouverneursrat erforderlich bei einer Änderung:
 
-- i) des Rechts zum Austritt aus der Bank nach Artikel IX Abschnitt 1,
-- ii) des Rechts zum Erwerb von Stammkapital der Bank sowie zur Beteiligung am Fonds nach Artikel II Abschnitt 3 Buchstabe b bzw. Artikel IV Abschnitt 3 Buchstabe g und
+- i) des Rechts zum Austritt aus der Bank nach Artikel IX Abschnitt 1;
+- ii) des Rechts zum Erwerb von Stammkapital der Bank sowie zur Beteiligung am Fonds nach Artikel II Abschnitt 3 Buchstabe b bzw. Artikel IV Abschnitt 3 Buchstabe g; und
 - iii)[^lvlu13-2] der Haftungsbeschränkung nach Artikel II Abschnitt 3 Buchstabe d, … sowie nach Artikel IV Abschnitt 5.
 
 c) Alle Vorschläge zur Änderung dieses Übereinkommens, gleichviel ob sie von einem Mitglied oder vom Direktorium ausgehen, sind dem Vorsitzenden des Gouverneursrats zuzuleiten, der sie dem Rat vorlegt. Ist eine Änderung angenommen worden, so bestätigt die Bank die Annahme in einer an alle Mitglieder gerichteten amtlichen Mitteilung. Änderungen treten für alle Mitglieder drei Monate nach dem Tag der amtlichen Mitteilung in Kraft, sofern nicht der Gouverneursrat eine andere Frist festsetzt.
 
-[^lvlu13-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu13-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu13-1]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu13-2]: Fassung gemäss Abschnitt 2 der Entschliessung AG-8/87 vom 24. Dez. 1987, in Kraft seit 31. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. XIIIAuslegung und Schiedsverfahren
 
@@ -872,8 +872,11 @@ Nichtregionale Staaten, die Mitglieder des Internationalen Währungsfonds sind, 
 
 - a) Die in der Resolution «Änderungen des Übereinkommens zur Errichtung der Bank in bezug auf die Schaffung des interregionalen Stammkapitals der Bank und damit zusammenhängende Angelegenheiten» vorgesehenen Änderungen des Übereinkommens zur Errichtung der Bank sind in Kraft getreten;
 - b) die in der Resolution «Erhöhung des genehmigten abrufbaren ordentlichen Stammkapitals und Zeichnungen darauf im Zusammenhang mit der Aufnahme nichtregionaler Mitgliedstaaten» vorgesehene Erhöhung des genehmigten ordentlichen Stammkapitals ist wirksam geworden;
-- c) mindestens acht nichtregionale Staaten, darunter wenigstens vier Staaten mit Einzelbeiträgen zum Fonds für Spezialoperationen in Höhe von mindestens 60 Mio. US-Dollar, haben durch Hinterlegung entsprechender Urkunden bei der Bank vereinbart,
-  - i) nach Abschnitt 2 mindestens 31 100 Anteile am interregionalen Stammkapital zu zeichnen;
+- c)
+
+  mindestens acht nichtregionale Staaten, darunter wenigstens vier Staaten mit Einzelbeiträgen zum Fonds für Spezialoperationen in Höhe von mindestens 60 Mio. US-Dollar, haben durch Hinterlegung entsprechender Urkunden bei der Bank vereinbart:
+
+  - i) nach Abschnitt 2 mindestens 31 100 Anteile am interregionalen Stammkapital zu zeichnen,
   - ii) nach Abschnitt 3 mindestens den Gegenwert von 375 Mio. US-Dollar[^annexB-lvlu1-lvlu1-sec1-1] zu den Mitteln des Fonds für Spezialoperationen beizutragen.
 
 Das Direktorium kann, sofern es dies nach dem 1. März 1976 für angebracht hält, die gesamten unter den Ziffern i und ii vorgesehenen Anteilzeichnungen und Beiträge zum Fonds für Spezialoperationen herabsetzen.
@@ -991,7 +994,7 @@ c) Jeder Staat nimmt seine Zeichnung auf das eingezahlte interregionale Stammkap
 
 - i) Der Zeichnungspreis je Anteil beträgt 10 000 US‑Dollar mit dem Gewicht und Feingehalt vom 1. Januar 1959.
 - ii) Die Einzahlung des von jedem Staat gezeichneten Betrags zum eingezahlten interregionalen Stammkapital erfolgt in drei gleichen Raten; unter Berücksichtigung besonderer Umstände bei bestimmten Staaten kann sich das Exekutivdirektorium jedoch damit einverstanden erklären, i) dass die Höhe der von dem betreffenden Staat zu zahlenden ersten Rate auf nicht weniger als 20 Prozent des dem Staat zugewiesenen Betrags zum eingezahlten Kapital herabgesetzt wird, wobei die beiden folgenden Raten entsprechend anzugleichen sind, oder ii) dass die Zahlung durch den betreffenden Staat in fünf gleichen Jahresraten erfolgt. Die erste Rate wird von jedem Staat binnen dreissig Tagen nach Inkrafttreten dieser Allgemeinen Vorschriften entweder vor oder an dem Tag der Hinterlegung der Annahme‑ oder Ratifikationsurkunde nach Abschnitt 4 Buchstabe c Ziffer ii gezahlt, je nachdem, welcher Zeitpunkt später liegt. Will ein Staat die erste Rate bar bezahlen, so kann er die Zahlung bis zum Ablauf des Kalenderjahrs, in dem diese Allgemeinen Vorschriften in Kraft treten, oder des Kalenderjahrs vornehmen, in dem das Mitglied seine Ratifikationsurkunde hinterlegt, sofern dieser Zeitpunkt später liegt. Die restlichen Jahresraten werden jeweils im Abstand von einem Jahr nach Fälligwerden der ersten Rate fällig.
-- iii) Jede Rate ist in voller Höhe in der Landeswährung des Beitragsstaats zu leisten; dieser hat der Bank ausreichend erscheinende Vorkehrungen zu treffen, um sicherzustellen, dass diese Währung für die Zwecke der Geschäftstätigkeit der Bank in die Währungen anderer Staaten frei konvertierbar ist,
+- iii) Jede Rate ist in voller Höhe in der Landeswährung des Beitragsstaats zu leisten; dieser hat der Bank ausreichend erscheinende Vorkehrungen zu treffen, um sicherzustellen, dass diese Währung für die Zwecke der Geschäftstätigkeit der Bank in die Währungen anderer Staaten frei konvertierbar ist.
 - iv) 50 Prozent jeder Rate fallen unter Artikel V Abschnitt 1 Buchstabe b Ziffer i des Übereinkommens zur Errichtung der Bank und sind bar zu zahlen. Sofern ein Staat nicht eine Barzahlung auch der übrigen 50 Prozent jeder Rate vorzieht, legt das Direktorium eine Tabelle fest, nach der alle nach Artikel V Abschnitt 4 angenommenen nicht übertragbaren, unverzinslichen Schuldscheine oder ähnlichen Wertpapiere an die Bank zu zahlen sind.
 
 d) Jeder Staat nimmt seine Zeichnung auf das abrufbare interregionale Stammkapital unter folgenden Bedingungen vor:
@@ -1025,15 +1028,15 @@ i) Ungeachtet des Artikels IV Abschnitt 3 Buchstabe g des Übereinkommens zur Er
 
 ### **Abschnitt 4** Voraussetzungen für die Mitgliedschaft nichtregionaler Staaten
 
-Ein nichtregionaler Staat wird Mitglied der Bank,
+Ein nichtregionaler Staat wird Mitglied der Bank:
 
 - a) sobald das Exekutivdirektorium festgestellt hat, dass alle Bedingungen des Abschnitts 1 erfüllt sind;
-- b) sobald diese Allgemeinen Vorschriften nach Abschnitt 10 in Kraft getreten sind und
+- b) sobald diese Allgemeinen Vorschriften nach Abschnitt 10 in Kraft getreten sind; und
 - c)
 
   sobald der Präsident erklärt hat, dass der Staat alle folgenden Voraussetzungen erfüllt hat:
 
-  - i) Sein gehörig befugter Vertreter hat die beim Generalsekretariat der Organisation Amerikanischer Staaten hinterlegte Urschrift des Übereinkommens in seiner jeweils geänderten Fassung unterzeichnet;
+  - i) Sein gehörig befugter Vertreter hat die beim Generalsekretariat der Organisation Amerikanischer Staaten hinterlegte Urschrift des Übereinkommens in seiner jeweils geänderten Fassung unterzeichnet,
   - ii) er hat beim Generalsekretariat der Organisation Amerikanischer Staaten eine Urkunde hinterlegt, aus der hervorgeht, dass er das Übereinkommen sowie alle in diesen Allgemeinen Vorschriften niedergelegten Bedingungen in Übereinstimmung mit seiner Rechtsordnung angenommen oder ratifiziert hat und dass er alle notwendigen Schritte unternommen hat, um seine sämtlichen Verpflichtungen aus dem Übereinkommen und aus diesen Allgemeinen Vorschriften zu erfüllen, und
   - iii) er hat der Bank den Nachweis erbracht, dass er alle notwendigen Massnahmen zur Unterzeichnung des Übereinkommens und zur Hinterlegung der Annahme‑ oder Ratifikationsurkunde nach den Ziffern i und ii ergriffen hat, und er hat der Bank alle von ihr erbetenen Informationen über diese Massnahmen zur Verfügung gestellt.
 
@@ -1043,19 +1046,19 @@ Zusätzliche in Abschnitt 1 nicht aufgeführte nichtregionale Staaten können zu
 
 ### **Abschnitt 6** Nicht gezeichnetes Kapital und Beitragsquoten
 
-Sind binnen zwei Jahren nach Inkrafttreten dieser Allgemeinen Vorschriften das in Abschnitt 1 Buchstabe c vorgesehene interregionale Stammkapital und die Beitragsquoten zum Fonds für Spezialoperationen von den in Abschnitt 1 aufgeführten nichtregionalen Staaten oder von den zusätzlichen nichtregionalen Staaten nach Abschnitt 5 nicht gezeichnet worden, so können sie von den nichtregionalen Staaten, die zu diesem Zeitpunkt Mitglieder sind, gezeichnet werden. Jedes derartige Mitglied hat das Recht, einen Teil des verfügbaren Stammkapitals zu zeichnen, der dem Anteil des von ihm bereits gezeichneten Kapitals am gesamten gezeichneten interregionalen Stammkapital entspricht. Ebenso hat jedes derartige Mitglied das Recht, einen Teil der nicht gezeichneten Quoten des Fonds für Spezialoperationen zu zeichnen, der dem Anteil seiner Beitragsquote an den gesamten gezeichneten Quotenbeiträgen entspricht. Bei jeder Zeichnung ist das in diesen Allgemeinen Vorschriften festgelegte Verhältnis zwischen eingezahltem und abrufbarem Kapital sowie zwischen den Beiträgen zum Fonds für Spezialoperationen und den Zeichnungen auf das Stammkapital zu wahren. Zahlungen auf das eingezahlte Kapital und die Beitragsquoten zum Fonds für Spezialoperationen sowie Zeichnungen auf das auf diese Weise gezeichnete abrufbare Kapital müssen innerhalb von drei Jahren nach Inkrafttreten dieser Allgemeinen Vorschriften vollzogen sein,
+Sind binnen zwei Jahren nach Inkrafttreten dieser Allgemeinen Vorschriften das in Abschnitt 1 Buchstabe c vorgesehene interregionale Stammkapital und die Beitragsquoten zum Fonds für Spezialoperationen von den in Abschnitt 1 aufgeführten nichtregionalen Staaten oder von den zusätzlichen nichtregionalen Staaten nach Abschnitt 5 nicht gezeichnet worden, so können sie von den nichtregionalen Staaten, die zu diesem Zeitpunkt Mitglieder sind, gezeichnet werden. Jedes derartige Mitglied hat das Recht, einen Teil des verfügbaren Stammkapitals zu zeichnen, der dem Anteil des von ihm bereits gezeichneten Kapitals am gesamten gezeichneten interregionalen Stammkapital entspricht. Ebenso hat jedes derartige Mitglied das Recht, einen Teil der nicht gezeichneten Quoten des Fonds für Spezialoperationen zu zeichnen, der dem Anteil seiner Beitragsquote an den gesamten gezeichneten Quotenbeiträgen entspricht. Bei jeder Zeichnung ist das in diesen Allgemeinen Vorschriften festgelegte Verhältnis zwischen eingezahltem und abrufbarem Kapital sowie zwischen den Beiträgen zum Fonds für Spezialoperationen und den Zeichnungen auf das Stammkapital zu wahren. Zahlungen auf das eingezahlte Kapital und die Beitragsquoten zum Fonds für Spezialoperationen sowie Zeichnungen auf das auf diese Weise gezeichnete abrufbare Kapital müssen innerhalb von drei Jahren nach Inkrafttreten dieser Allgemeinen Vorschriften vollzogen sein.
 
 ### **Abschnitt 7** Besondere Beschlussfähigkeit und Stimmenzahl
 
 [^annexB-lvlu1-lvlu5-sec7-1]
 
-[^annexB-lvlu1-lvlu5-sec7-1]: Fassung gemäss Abschnitt 3 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([SR 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^annexB-lvlu1-lvlu5-sec7-1]: Fassung gemäss Abschnitt 3 der Entschliessung AG-8/87 vom 24. Dez. 1987 ([AS 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 a) Für Beschlüsse ist eine Zweidrittelmehrheit aller Gouverneure der nichtregionalen Mitglieder, die mindestens drei Viertel der Gesamtstimmenzahl der nichtregionalen Mitgliedstaaten vertreten, bei folgenden Angelegenheiten erforderlich:
 
-- jede Änderung des Übereinkommens zur Errichtung der Bank in bezug auf 1. die Anzahl der von den nichtregionalen Mitgliedstaaten zu ernennenden Gouverneure; 2. die Anzahl der von den Gouverneuren der nichtregionalen Mitgliedstaaten nach Artikel VIII Abschnitt 3 Buchstabe b Ziffer ii des Übereinkommens zu wählenden Direktoren; 3. Artikel VII Abschnitt 3 Buchstaben d, e und f des Übereinkommens oder 4. die Bestimmungen über die Ausschüttung der Reingewinne und Überschüsse der interregionalen Kapitalmittel nach Artikel VII Abschnitt 4 des Übereinkommens.
+- jede Änderung des Übereinkommens zur Errichtung der Bank in bezug auf: 1. die Anzahl der von den nichtregionalen Mitgliedstaaten zu ernennenden Gouverneure; 2. die Anzahl der von den Gouverneuren der nichtregionalen Mitgliedstaaten nach Artikel VIII Abschnitt 3 Buchstabe b Ziffer ii des Übereinkommens zu wählenden Direktoren; 3. Artikel VII Abschnitt 3 Buchstaben d, e und f des Übereinkommens oder 4. die Bestimmungen über die Ausschüttung der Reingewinne und Überschüsse der interregionalen Kapitalmittel nach Artikel VII Abschnitt 4 des Übereinkommens.
 
-b) Eine Erhöhung der Zeichnung eines Mitglieds entweder auf das ordentliche Stammkapital oder auf das interregionale Stammkapital wird nicht wirksam, und das Recht auf Zeichnung dieses Kapitals wird hiermit aufgehoben, wenn diese Erhöhung zur Folge hätte, dass die Stimmenzahl i) der in der Entwicklung befindlichen regionalen Mitglieder unter 53,5 Prozent der Gesamtstimmenzahl der Mitgliedstaaten, ii) des Mitglieds mit den meisten Anteilen unter 34,5 Prozent der Gesamtstimmenzahl oder iii) Kanadas unter 4 Prozent der Gesamtstimmenzahl sinkt; ungeachtet dieser Bestimmungen und des Artikels VIII Abschnitt 4 Buchstabe b des Übereinkommens zur Errichtung der Bank hat jedoch jede Entschliessung des Gouverneursrats über eine Erhöhung des ordentlichen Stammkapitals oder des interregionalen Stammkapitals der Bank festzulegen, dass 1. zur Vermeidung eines Sinkens der Stimmenzahl der in der Entwicklung befindlichen regionalen Mitglieder als Gruppe unter den festgesetzten Hundertsatz ein Mitglied aus der Gruppe die einem anderen Mitglied der Gruppe zugeteilten Anteile zeichnen kann, wenn dieses Mitglied die Anteile nicht selbst zeichnen will; 2. die Bestimmung über den jeweiligen Prozentsatz der Stimmenzahl von den in der Entwicklung befindlichen regionalen Mitgliedern als Gruppe in bezug auf Ziffer i und von den Vereinigten Staaten und Kanada in bezug auf Ziffer ii bzw. Ziffer iii aufgehoben werden kann und 3. ein Mitglied aus der Gruppe der nichtregionalen Mitglieder die einem anderen Mitglied dieser Gruppe zugeteilten Anteile zeichnen kann, wenn dieses Mitglied die Anteile nicht selbst zeichnen will.
+b) Eine Erhöhung der Zeichnung eines Mitglieds entweder auf das ordentliche Stammkapital oder auf das interregionale Stammkapital wird nicht wirksam, und das Recht auf Zeichnung dieses Kapitals wird hiermit aufgehoben, wenn diese Erhöhung zur Folge hätte, dass die Stimmenzahl: i) der in der Entwicklung befindlichen regionalen Mitglieder unter 53,5 Prozent der Gesamtstimmenzahl der Mitgliedstaaten, ii) des Mitglieds mit den meisten Anteilen unter 34,5 Prozent der Gesamtstimmenzahl oder iii) Kanadas unter 4 Prozent der Gesamtstimmenzahl sinkt; ungeachtet dieser Bestimmungen und des Artikels VIII Abschnitt 4 Buchstabe b des Übereinkommens zur Errichtung der Bank hat jedoch jede Entschliessung des Gouverneursrats über eine Erhöhung des ordentlichen Stammkapitals oder des interregionalen Stammkapitals der Bank festzulegen, dass: 1. zur Vermeidung eines Sinkens der Stimmenzahl der in der Entwicklung befindlichen regionalen Mitglieder als Gruppe unter den festgesetzten Hundertsatz ein Mitglied aus der Gruppe die einem anderen Mitglied der Gruppe zugeteilten Anteile zeichnen kann, wenn dieses Mitglied die Anteile nicht selbst zeichnen will; 2. die Bestimmung über den jeweiligen Prozentsatz der Stimmenzahl von den in der Entwicklung befindlichen regionalen Mitgliedern als Gruppe in bezug auf Ziffer i und von den Vereinigten Staaten und Kanada in bezug auf Ziffer ii bzw. Ziffer iii aufgehoben werden kann und 3. ein Mitglied aus der Gruppe der nichtregionalen Mitglieder die einem anderen Mitglied dieser Gruppe zugeteilten Anteile zeichnen kann, wenn dieses Mitglied die Anteile nicht selbst zeichnen will.
 
 ### **Abschnitt 8** Änderung der Vorschriften für die Wahl der Direktoren
 
@@ -1157,13 +1160,13 @@ Streitigkeiten, die während des Wahlganges auftauchen, werden durch die Stimmen
 
 ### IV. Abänderung des Reglements
 
-\15. Dieses Reglement kann vom Gouverneursrat auf einer seiner Tagungen oder durch Abstimmung ohne Anberaumung einer Tagung mit Dreiviertelsmehrheit der Gesamtstimmenzahl der Mitgliedstaaten einschliesslich
+\15. Dieses Reglement kann vom Gouverneursrat auf einer seiner Tagungen oder durch Abstimmung ohne Anberaumung einer Tagung mit Dreiviertelsmehrheit der Gesamtstimmenzahl der Mitgliedstaaten einschliesslich:
 
-- a) einer Zweidrittelsmehrheit der Gouverneure der regionalen Mitglieder bei einer Änderung der Abschnitte 1, 2, 3, 5 bis 14 und 15 Buchstabe a) und
-- b) einer Zweidrittelsmehrheit der Gouverneure der nichtregionalen Mitglieder bei der Änderung der Abschnitte 4 und 15 Buchstabe b)
+- a) einer Zweidrittelsmehrheit der Gouverneure der regionalen Mitglieder bei einer Änderung der Abschnitte 1, 2, 3, 5 bis 14 und 15 Buchstabe a); und
+- b) einer Zweidrittelsmehrheit der Gouverneure der nichtregionalen Mitglieder bei der Änderung der Abschnitte 4 und 15 Buchstabe b),
 - [tab] geändert werden.
 
-Geltungsbereich des Übereinkommens am 1. August 1989
+Geltungsbereich am 16. Dezember 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation oder Annahme</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1191,31 +1194,30 @@ Geltungsbereich des Übereinkommens am 1. August 1989
 <tr><td>Italien</td><td>26. Mai</td><td>1977</td><td>26. Mai</td><td>1977</td></tr>
 <tr><td>Jamaika</td><td>30. Dezember</td><td>1969</td><td>30. Dezember</td><td>1969</td></tr>
 <tr><td>Japan</td><td>9. Juli</td><td>1976</td><td>9. Juli</td><td>1976</td></tr>
-<tr><td>Jugoslawien</td><td>9. Juli</td><td>1976</td><td>9. Juli</td><td>1976</td></tr>
 <tr><td>Kanada</td><td>3. Mai</td><td>1972</td><td>3. Mai</td><td>1972</td></tr>
 <tr><td>Kolumbien</td><td>21. Dezember</td><td>1959</td><td>30. Dezember</td><td>1959</td></tr>
 <tr><td>Mexiko</td><td>30. Dezember</td><td>1959</td><td>30. Dezember</td><td>1959</td></tr>
 <tr><td>Nicaragua</td><td>29. Dezember</td><td>1959</td><td>30. Dezember</td><td>1959</td></tr>
-<tr><td>Niederlande\*</td><td>10. Januar</td><td>1977</td><td>10. Januar</td><td>1977</td></tr>
+<tr><td>Niederlande</td><td>10. Januar</td><td>1977</td><td>10. Januar</td><td>1977</td></tr>
+<tr><td>Aruba</td><td>10. Januar</td><td>1977</td><td>10. Januar</td><td>1977</td></tr>
+<tr><td>Curaçao</td><td>10. Januar</td><td>1977</td><td>10. Januar</td><td>1977</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Januar</td><td>1977</td><td>10. Januar</td><td>1977</td></tr>
+<tr><td>Sint Maarten</td><td>10. Januar</td><td>1977</td><td>10. Januar</td><td>1977</td></tr>
 <tr><td>Norwegen</td><td>7. Juli</td><td>1986</td><td>7. Juli</td><td>1986</td></tr>
-<tr><td>Oesterreich</td><td>10. Januar</td><td>1977</td><td>10. Januar</td><td>1977</td></tr>
+<tr><td>Österreich</td><td>10. Januar</td><td>1977</td><td>10. Januar</td><td>1977</td></tr>
 <tr><td>Panama</td><td>29. Dezember</td><td>1959</td><td>30. Dezember</td><td>1959</td></tr>
 <tr><td>Paraguay</td><td>16. Dezember</td><td>1959</td><td>30. Dezember</td><td>1959</td></tr>
 <tr><td>Peru</td><td>30. Dezember</td><td>1959</td><td>30. Dezember</td><td>1959</td></tr>
 <tr><td>Portugal</td><td>25. März</td><td>1980</td><td>25. März</td><td>1980</td></tr>
 <tr><td>Schweden</td><td>19. September</td><td>1977</td><td>19. September</td><td>1977</td></tr>
 <tr><td>Schweiz</td><td>9. Juli</td><td>1976</td><td>9. Juli</td><td>1976</td></tr>
+<tr><td>Serbien</td><td>9. Juli</td><td>1976</td><td>9. Juli</td><td>1976</td></tr>
 <tr><td>Spanien</td><td>9. Juli</td><td>1976</td><td>9. Juli</td><td>1976</td></tr>
-<tr><td>Surinam</td><td>12. Dezember</td><td>1980</td><td>12. Dezember</td><td>1980</td></tr>
+<tr><td>Suriname</td><td>12. Dezember</td><td>1980</td><td>12. Dezember</td><td>1980</td></tr>
 <tr><td>Trinidad und Tobago</td><td>10. Juli</td><td>1967</td><td>10. Juli</td><td>1967</td></tr>
 <tr><td>Uruguay</td><td>12. Februar</td><td>1960</td><td>12. Februar</td><td>1960</td></tr>
 <tr><td>Venezuela</td><td>13. Februar</td><td>1960</td><td>13. Februar</td><td>1960</td></tr>
-<tr><td>Vereinigte Staaten [tab] von Amerika</td><td>14. Oktober</td><td>1959</td><td>30. Dezember</td><td>1959</td></tr>
-<tr><td colspan="5">\* Erklärung siehe hiernach</td></tr>
+<tr><td>Vereinigte Staaten</td><td>14. Oktober</td><td>1959</td><td>30. Dezember</td><td>1959</td></tr>
 </table>
 
-Erklärung
-
-Niederlande
-
-Das Übereinkommen gilt für das Königreich in Europa, die Niederländischen Antillen und Aruba.
+[^t-2]: [AS 1977 397](https://fedlex.data.admin.ch/eli/oc/1977/397_397_397); [1981 1358](https://fedlex.data.admin.ch/eli/oc/1981/1358_1358_1358); [1986 1963](https://fedlex.data.admin.ch/eli/oc/1986/1963_1963_1963); [1989 1766](https://fedlex.data.admin.ch/eli/oc/1989/1766_1766_1766); [2024 783](https://fedlex.data.admin.ch/eli/oc/2024/783). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

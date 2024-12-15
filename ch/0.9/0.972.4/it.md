@@ -3,11 +3,11 @@ sr: "0.972.4"
 title: "Accordo istitutivo dell'8 aprile 1959 della Banca interamericana di sviluppo (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/397_397_397"
 language: it
-version: 1989-08-01
+version: 2024-12-16
 adopted: 1959-04-08
 in_force: 1976-07-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/397_397_397/19890801/it/xml/fedlex-data-admin-ch-eli-cc-1977-397_397_397-19890801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/397_397_397/19890801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/397_397_397/20241216/it/xml/fedlex-data-admin-ch-eli-cc-1977-397_397_397-20241216-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/397_397_397/20241216/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,24 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1977/397_397_397/19890801/it"
 
 RU **1977** 397; FF **1975** II 505
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiuso in Washington l’8 aprile 1959
+Conchiuso in Washington l’8 aprile 1959 Emendato nel 1964, 1968, 1972, 1974 Approvato dall’Assemblea federale il 2 dicembre 1975[^t-1] Accettato con strumento depositato dalla Svizzera il 9 luglio 1976 Entrato in vigore per la Svizzera il 9 luglio 1976 Emendato con effetto al 27 aprile 1977
 
-Emendato nel 1964, 1968, 1972, 1974
+(Stato 16 dicembre 2024)
 
-Approvato dall’Assemblea federale il 2 dicembre 1975[^t-2]
-
-Accettato con strumento depositato dalla Svizzera il 9 luglio 1976
-
-Entrato in vigore per la Svizzera il 9 luglio 1976
-
-Emendato con effetto al 27 aprile 1977
-
-(Stato 1° agosto 1989)
-
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 1977 395](https://fedlex.data.admin.ch/eli/oc/1977/395_395_395)
+[^t-1]: [RU 1977 395](https://fedlex.data.admin.ch/eli/oc/1977/395_395_395)
 
 I Paesi, i cui rappresentanti firmano il presente accordo,
 
@@ -71,7 +60,7 @@ I Paesi extraregionali, membri del Fondo monetario internazionale, e la Svizzera
 
 [^lvlu2-sec1A-1]
 
-[^lvlu2-sec1A-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu2-sec1A-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 Le risorse della Banca constano delle risorse ordinarie di capitale, previste nel presente articolo, e delle risorse del Fondo delle operazioni speciali (d’appresso «Fondo») definito nell’articolo IV.
 
@@ -90,11 +79,11 @@ Le risorse della Banca constano delle risorse ordinarie di capitale, previste ne
 
 (e)[^lvlu2-sec2-2] Nonostante i paragrafi (c) e (d) della presente sezione e con riserva dell’articolo VIII sezione 4 (b), il capitale ordinario autorizzato potrà venir aumentato mediante decisione dell’Assemblea dei governatori, presa con la maggioranza dei tre quarti dei voti dei Paesi membri, inclusa la maggioranza dei tre quarti del numero totale dei Governatori, comprendente a sua volta la maggioranza dei due terzi dei Governatori dei membri regionali alla data e nella forma che l’Assemblea stessa avrà ritenuto opportune.
 
-(f)...[^lvlu2-sec2-3]
+(f)[^lvlu2-sec2-3] ...
 
 [^lvlu2-sec2-1]: Con diverse successive risoluzioni, l’Assemblea dei Governatori ha aumentato il capitale autorizzato a 8 465 810 000 dollari USA, di peso e titolo specificati sopra (equivalenti a 10 212 673 000 dollari correnti), ripartito in 846 581 azioni. Le risoluzioni in parola hanno parimenti modificato gli ammontari e i numeri di azioni citati in altri passi del testo.
-[^lvlu2-sec2-2]: Nuovo tenore giusta al sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu2-sec2-3]: Abrogata giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu2-sec2-2]: Nuovo tenore giusta al sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu2-sec2-3]: Abrogata giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, con effeto dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 3** Sottoscrizione delle azioni
 
@@ -108,11 +97,11 @@ Le risorse della Banca constano delle risorse ordinarie di capitale, previste ne
 
 (e) Le azioni sul capitale ordinario non potranno essere né costituite in pegno né gravate di onere alcuno, e saranno unicamente trasferibili alla Banca.
 
-(f) ...[^lvlu2-sec3-3]
+(f)[^lvlu2-sec3-3] ...
 
-[^lvlu2-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu2-sec3-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu2-sec3-3]: Abrogata giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)**).**
+[^lvlu2-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu2-sec3-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu2-sec3-3]: Abrogata giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, con effeto dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 4** Pagamento delle sottoscrizioni
 
@@ -129,7 +118,7 @@ Le risorse della Banca constano delle risorse ordinarie di capitale, previste ne
 - (i) della prima e della seconda rata, rispettivamente, del capitale azionario versato;
 - (ii) del pagamento iniziale e di tutti gli altri pagamenti anteriormente richiesti sulle quote di contribuzione al Fondo.
 
-[^lvlu2-sec4-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)**).**
+[^lvlu2-sec4-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 5** Risorse ordinarie di capitale
 
@@ -141,11 +130,11 @@ Rimane inteso che, nel presente accordo, l’espressione «risorse ordinarie di 
 - (iv) tutti i redditi provenienti dai mutui concessi sulle risorse qui sopra indicate o provenienti da garanzie cui si applichino le clausole della sezione 4 (a) (ii) del presente articolo; e
 - (v) tutti gli altri redditi provenienti da una qualunque delle fonti sopra elencate.
 
-## Art. IIA****Capitale interregionale della Banca
+## Art. IIACapitale interregionale della Banca
 
 [^lvlu3-1]
 
-[^lvlu3-1]: Testo abrogato giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)**).**
+[^lvlu3-1]: Testo abrogato giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, con effeto dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. IIIOperazioni
 
@@ -165,14 +154,14 @@ Le risorse e i servizi della Banca vanno utilizzati esclusivamente per attuare g
 
 (c) Le operazioni speciali sono quelle finanziate con le risorse del Fondo, giusta l’articolo IV.
 
-[^lvlu4-sec2-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu4-sec2-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec2-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu4-sec2-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 3** Direttiva della separazione
 
 [^lvlu4-sec3-1]
 
-[^lvlu4-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) Le risorse ordinarie del capitale (art. II sez. 5) e le risorse del Fondo (art. IV sez. 3 (h)) dovranno essere mantenute, utilizzate, impegnate, investite o collocate in un modo qualunque, ma sempre indipendentemente le une dalle altre.
 
@@ -191,15 +180,15 @@ Con riserva delle condizioni definite nel presente articolo, la Banca potrà con
 - (iii)[^lvlu4-sec4-3] garantire, in tutto o in parte, tramite risorse ordinarie di capitale …[^lvlu4-sec4-4] o risorse del Fondo, i mutui consentiti, tranne casi eccezionali, tramite l’investimento privato.
 
 [^lvlu4-sec4-1]: Nuovo tenore giusta il n. I lett. b della risoluzione AG-1/77 del 27 gen. 1977, in vigore dal 27 apr. 1977 ([RU 1988 1900](https://fedlex.data.admin.ch/eli/oc/1988/1900_1900_1900)).
-[^lvlu4-sec4-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)**).**
-[^lvlu4-sec4-3]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu4-sec4-4]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec4-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu4-sec4-3]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu4-sec4-4]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 5** Limitazione delle operazioni
 
 [^lvlu4-sec5-1]
 
-[^lvlu4-sec5-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu4-sec5-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) L’ammontare totale dei mutui e delle garanzie correnti, accordati dalla Banca come operazioni ordinarie, non dovrà superare in nessun momento l’ammontare totale del capitale ordinario della Banca, sottoscritto e libero di oneri, aumentato dell’eccedenza non distribuita e delle riserve non gravate comprese nelle risorse ordinarie di capitale, quali definite nell’articolo II sezione 5, ma esclusi i redditi destinati alla riserva speciale, di cui nella sezione 13 del presente articolo, ed esclusi pure i redditi delle risorse ordinarie di capitale destinati, per decisione dell’Assemblea dei governatori, alle riserve non utilizzabili per mutui o garanzie.
 
@@ -209,7 +198,7 @@ Con riserva delle condizioni definite nel presente articolo, la Banca potrà con
 
 [^lvlu4-sec6-1]
 
-[^lvlu4-sec6-1]: Testo emendato, approvato dal Consiglio dei governatori con effetto dal 27 aprile 1977.
+[^lvlu4-sec6-1]: Testo emendato, approvato dal Consiglio dei governatori con effetto dal 27 apr. 1977.
 
 La Banca, nel concedere mutui diretti o nel partecipare a tali mutui, potrà realizzare il finanziamento ricorrendo ad una delle seguenti forme:
 
@@ -309,7 +298,7 @@ Il Fondo è retto dalle disposizioni del presente articolo e dalle altre norme d
 - (v) ogni altra risorsa a disposizione del Fondo.
 
 [^lvlu5-sec3-1]: In virtù di una serie di risoluzioni di data diversa, l’ultima delle quali ha avuto effetto il giorno in cui il presente testo è stato certificato, l’Assemblea dei governatori ha aumentato le risorse autorizzate del Fondo a 5 439 974 000 $ correnti degli SUA.
-[^lvlu5-sec3-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu5-sec3-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 4** Operazioni
 
@@ -382,11 +371,11 @@ I disposti dell’articolo X s’applicheranno parimente al Fondo, rimanendo int
 
 (e)[^lvlu6-sec1-5] L’oro o le monete, detenuti dalla Banca come parte delle proprie risorse ordinarie di capitale ... o delle risorse del Fondo, non potranno essere impiegati dalla Banca per acquistare altre monete, tranne ove la Banca stessa ne sia stata autorizzata con la maggioranza dei due terzi dei voti dei Membri. Le monete, acquistate conformemente ai disposti del presente paragrafo, non saranno sottoposte alle norme relative al mantenimento del valore delle monete, stipulate nella sezione 3 del presente articolo.
 
-[^lvlu6-sec1-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-3]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-4]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec1-5]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu6-sec1-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-3]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-4]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec1-5]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 2** Valutazione delle monete
 
@@ -402,14 +391,14 @@ Ogniqualvolta tornasse necessario ai fini del presente accordo, la valutazione d
 
 (d) Nonostante qualunque altro disposto della presente sezione, i termini e le condizioni di ogni aumento delle risorse del Fondo, conformemente all’articolo IV sezione 3 (g), potranno comprendere disposizioni relative al mantenimento del valore delle monte, diverse da quelle previste nella presente sezione, applicabili alle risorse del Fondo provenienti da questo aumento.
 
-[^lvlu6-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu6-sec3-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu6-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu6-sec3-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 4** Metodi di conservazione delle monete
 
 [^lvlu6-sec4-1]
 
-[^lvlu6-sec4-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu6-sec4-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 La Banca accetterà, da ogni Membro, titoli di credito o titoli analoghi emessi dal governo del medesimo, o dal depositario da esso designato, in sostituzione della moneta del Membro stesso, tuttavia non oltre quel 50 per cento della sottoscrizione di capitale ordinario autorizzato né quel 50 per cento della sottoscrizione alle risorse del Fondo che, giusta gli articoli II e IV rispettivamente, risultano pagabili in moneta nazionale, purché questa moneta non sia necessaria alla Banca stessa per condurre innanzi le proprie operazioni. I titoli di cui sopra non saranno negoziabili, non frutteranno interesse e saranno pagabili alla Banca, su domanda della medesima, al loro valore alla pari. Con le stesse condizioni, la Banca accetterà pure siffatti titoli in sostituzione di qualunque parte della sottoscrizione d’un Membro …, le cui condizioni di sottoscrizione non esigano il pagamento in moneta.
 
@@ -432,7 +421,7 @@ Per raggiungere le finalità del presente articolo, la Banca potrà conchiudere 
 
 (b)[^lvlu7-sec3-1] Le spese incorse per l’assistenza tecnica, e non rimborsate dai beneficiari, saranno coperte mediante i profitti netti delle risorse ordinarie di capitale … o del Fondo. Tuttavia, durante i tre primi mesi dell’operazione, la Banca potrà utilizzare, per far fronte alle spese, le risorse iniziali del Fondo, sino a concorrenza del 3 per cento.
 
-[^lvlu7-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu7-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. VIIPoteri diversi e ripartizione dei benefici
 
@@ -446,7 +435,7 @@ Oltre i poteri indicati nelle altre parti del presente accordo, la Banca è faco
 - (iv) a garantire i titoli che tiene in portafoglio onde facilitarne la vendita;
 - (v) ad esercitare qualunque altro potere necessario o auspicabile, connesso alle proprie finalità ed attribuzioni, giusta i disposti del presente accordo.
 
-[^lvlu8-sec1-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu8-sec1-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 2** Avvisi sui titoli
 
@@ -456,14 +445,13 @@ Sul recto di ogni valore garantito o emesso dalla Banca sarà chiaramente indica
 
 [^lvlu8-sec3-1]
 
-[^lvlu8-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu8-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) La Banca, in caso di carenza o di minaccia di carenza di rimborso d’un mutuo consentito o garantito tramite le risorse ordinarie … dovrà prendere i provvedimenti che riterrà opportuni per modificare le condizioni del mutuo stesso, tranne per quanto concerne la moneta nella quale il mutuo va rimborsato.
 
 (b) Gli ammontari per i pagamenti da effettuarsi dalla Banca, onde rispondere ai propri obblighi risultanti da mutui contratti o da garanzie accordate in virtù dell’articolo III sezione 4 (ii) e (iii) e concernenti le proprie risorse ordinarie di capitale, verranno attinti:
 
-- (i) innanzi tutto dalla riserva speciale prevista nell’articolo III sezione 13;
-- e
+- (i) innanzi tutto dalla riserva speciale prevista nell’articolo III sezione 13; e
 - (ii) successivamente, nella misura necessaria e nel momento dalla Banca ritenuto opportuno, dalle altre riserve, dall’eccedenza e dai fondi corrispondenti al capitale pagato tramite le azioni di capitale ordinario.
 
 (c) La Banca potrà, come disposto nell’articolo II sezione 4 (a) (ii), richiamare un ammontare conveniente sulle sottoscrizioni di capitale ordinario non versate dai Membri, onde far fronte ai pagamenti contrattuali d’interessi, agli altri oneri e agli ammortamenti dei suoi propri prestiti, pagabili tramite le proprie risorse ordinarie di capitale, oppure per far fronte agli obblighi relativi a pagamenti analoghi concernenti i prestiti pagabili o garantiti tramite le proprie risorse ordinarie di capitale. La Banca inoltre, se ritiene che la carenza di pagamento sarà di lunga durata, potrà richiamare, su dette sottoscrizioni non pagate, una parte aggiuntiva la quale non dovrà superare, nel corso d’un anno qualunque, l’1 per cento del totale delle sottoscrizioni dei Membri alle risorse ordinarie di capitale, onde:
@@ -475,7 +463,7 @@ Sul recto di ogni valore garantito o emesso dalla Banca sarà chiaramente indica
 
 [^lvlu8-sec4-1]
 
-[^lvlu8-sec4-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu8-sec4-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) L’Assemblea dei governatori potrà periodicamente determinare quale quota dei benefici netti e dell’eccedenza delle risorse ordinarie di capitale … potrà essere distribuita. La ripartizione avrà luogo solamente allorché le riserve avranno raggiunto un livello ritenuto sufficiente dall’Assemblea dei governatori.
 
@@ -524,10 +512,10 @@ La Banca comprenderà un’Assemblea dei governatori, un Consiglio dei direttori
 
 (h) I governatori ed i loro supplenti non saranno rimunerati dalla Banca per i loro servizi; la Banca potrà tuttavia rimborsare le loro spese ragionevoli per recarsi alle riunioni dell’Assemblea.
 
-[^lvlu9-sec2-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu9-sec2-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu9-sec2-3]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu9-sec2-4]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu9-sec2-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu9-sec2-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu9-sec2-3]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu9-sec2-4]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 3** Consiglio dei direttori esecutivi
 
@@ -555,7 +543,7 @@ La Banca comprenderà un’Assemblea dei governatori, un Consiglio dei direttori
 
 [^lvlu9-sec4-1]
 
-[^lvlu9-sec4-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu9-sec4-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) Ogni Membro dispone di 135 voti, più un voto per ogni azione posseduta sul capitale ordinario …, rimanendo tuttavia inteso che, per quanto concerne l’aumento del capitale ordinario …, autorizzato, l’Assemblea dei governatori potrà negare alle relative azioni il diritto di voto nonché sottrarre detto aumento di capitale ai diritti di prelazione, stabiliti nell’articolo II sezione 3 (b).
 
@@ -595,7 +583,7 @@ Il vicepresidente esecutivo partecipa alle riunioni del Consiglio dei direttori 
 
 (b) La Banca potrà pubblicare qualunque altro rapporto ritenuto utile per il raggiungimento delle proprie finalità e per l’assolvimento dei propri compiti.
 
-[^lvlu9-sec6-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu9-sec6-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. IXRecesso e sospensione di Membri
 
@@ -617,7 +605,7 @@ Il Paese sospeso non potrà, fintanto che il provvedimento vige, esercitare alcu
 
 [^lvlu10-sec3-1]
 
-[^lvlu10-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu10-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 (a) Un Paese, non appena abbia cessato d’essere Membro, non partecipa più ai profitti e alle perdite della Banca e non assume più responsabilità alcuna per quanto concerne i mutui e le garanzie consentiti dalla Banca; tuttavia dovrà soddisfare i debiti e gli obblighi verso la Banca finché resterà pendente una parte di mutui o garanzie assunti dalla Banca prima ch’esso cessasse d’esserne Membro.
 
@@ -649,7 +637,7 @@ La Banca può cessare le operazioni mediante una decisione dell’Assemblea dei 
 
 (b)[^lvlu11-sec3-1] I creditori diretti verranno pagati dapprima sugli attivi della Banca e, in seguito, sui fondi ottenuti come capitale azionario da versare effettivamente ma non pagato e sui fondi ottenuti come capitale azionario richiamabile. Prima d’effettuare un qualunque pagamento ai creditori diretti, il Consiglio dei direttori esecutivi dovrà prendere le disposizioni necessarie per assicurare una distribuzione al prorata tra i creditori portatori d’obbligazioni dirette e i creditori portatori d’obbligazioni eventuali.
 
-[^lvlu11-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu11-sec3-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ### **Sezione 4** Ripartizione dell’attivo
 
@@ -733,12 +721,12 @@ Ogni Membro prenderà, conformemente al suo sistema legale, i provvedimenti nece
 
 - (i) il diritto di recesso dalla Banca, previsto nell’articolo IX sezione 1;
 - (ii) il diritto di acquistare azioni della Banca e di contribuire al Fondo, previsto nell’articolo II sezione 3 (b) e nell’articolo IV sezione 3 (g), rispettivamente;
-- [tab] (iii)[^lvlu13-2] la limitazione della responsabilità, prevista nell’articolo II sezione 3 (d) … e nell’articolo IV sezione 5.
+- (iii)[^lvlu13-2] la limitazione della responsabilità, prevista nell’articolo II sezione 3 (d) … e nell’articolo IV sezione 5.
 
 (c) Ogni proposta d’emendare il presente accordo, emanante da un Membro o dal Consiglio dei direttori esecutivi, va comunicata al presidente dell’Assemblea dei governatori, il quale la sottoporrà all’esame della medesima. Adottato che sia un emendamento, la Banca lo comunica, con nota ufficiale, a tutti i Membri. Gli emendamenti entreranno in vigore, per tutti i Membri, 3 mesi dopo la data della nota ufficiale, a meno che l’Assemblea dei governatori abbia stabilito un altro termine.
 
-[^lvlu13-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
-[^lvlu13-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^lvlu13-1]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
+[^lvlu13-2]: Nuovo tenore giusta la sezione 2 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RU 1988 1902](https://fedlex.data.admin.ch/eli/oc/1988/1902_1902_1902)).
 
 ## Art. XIIIInterpretazione a arbitrato
 
@@ -749,6 +737,8 @@ Ogni Membro prenderà, conformemente al suo sistema legale, i provvedimenti nece
 I Membri particolarmente interessati nella vertenza avranno il diritto di farsi rappresentare nel Consiglio dei direttori esecutivi, conformemente all’articolo VII sezione 3 (g).
 
 (b) Ogni Membro, di fronte ad una decisione del Consiglio dei direttori esecutivi pronunciata in virtù del paragrafo precedente, potrà chiedere che la vertenza venga deferita all’Assemblea dei governatori; la decisione di quest’ultima è definitiva. Fintanto che la decisione dell’Assemblea dei governatori è pendente, la Banca, nella misura ritenuta necessaria, potrà agire in base alla decisione del Consiglio dei direttori esecutivi.
+
+### **Sezione** **2** Arbitrato
 
 Le vertenze che insorgessero tra la Banca e un Paese non più membro, o tra la Banca e un Membro dopo la decisione di cessare le operazioni, verranno sottoposte ad un tribunale arbitrale trimembre. Un arbitro verrà nominato dalla Banca, un altro dal Paese interessato e il terzo, ove le Parti non convengano altrimenti, dal Segretario generale dell’Organizzazione degli Stati Americani. Qualora gli sforzi per giungere ad un’intesa unanime fallissero, si procederà alla pronuncia del lodo, preso con la maggioranza dei 3 arbitri.
 
@@ -905,8 +895,8 @@ Le sottoscrizioni al capitale interregionale e i contributi al Fondo da parte de
 <tr><td>Totale generale</td><td>**7000**</td><td>**70** **000** **000**</td><td>**84** **444** **027**</td></tr>
 </table>
 
-[^annexB-lvlu1-lvlu2-1]: Dollari degli Stati Uniti di peso e titolo vigenti il 1° gennaio 1959.
-[^annexB-lvlu1-lvlu2-2]: Dollari degli Stati Uniti di peso e titolo vigenti in seguito alla modifica della parità, effettuata il 18 ottobre 1973.
+[^annexB-lvlu1-lvlu2-1]: Dollari degli Stati Uniti di peso e titolo vigenti il 1° gen. 1959.
+[^annexB-lvlu1-lvlu2-2]: Dollari degli Stati Uniti di peso e titolo vigenti in seguito alla modifica della parità, effettuata il 18 ott. 1973.
 
 ### Totale delle sottoscrizioni al capitale interregionale
 
@@ -930,8 +920,8 @@ Le sottoscrizioni al capitale interregionale e i contributi al Fondo da parte de
 <tr><td>Totale generale</td><td>**42** **000**</td><td>**420** **000** **000**</td><td>**506** **664** **161**</td></tr>
 </table>
 
-[^annexB-lvlu1-lvlu3-1]: Dollari degli Stati Uniti di peso e titolo vigenti il 1° gennaio 1959.
-[^annexB-lvlu1-lvlu3-2]: Dollari degli Stati Uniti di peso e titolo vigenti in seguito alla modifica della parità, effettuata il 18 ottobre 1973.
+[^annexB-lvlu1-lvlu3-1]: Dollari degli Stati Uniti di peso e titolo vigenti il 1° gen. 1959.
+[^annexB-lvlu1-lvlu3-2]: Dollari degli Stati Uniti di peso e titolo vigenti in seguito alla modifica della parità, effettuata il 18 ott. 1973.
 
 ### Sottoscrizioni al capitale interregionale richiamabile
 
@@ -955,8 +945,8 @@ Le sottoscrizioni al capitale interregionale e i contributi al Fondo da parte de
 <tr><td>Totale generale</td><td>**35** **000**</td><td>**350** **000** **000**</td><td>**422** **220** **134**</td></tr>
 </table>
 
-[^annexB-lvlu1-lvlu4-1]: Dollari degli Stati Uniti di peso e titolo vigenti il 1° gennaio 1959.
-[^annexB-lvlu1-lvlu4-2]: Dollari degli Stati Uniti di peso e titolo vigenti in seguito alla modifica della parità, effettuata il 18 ottobre 1973.
+[^annexB-lvlu1-lvlu4-1]: Dollari degli Stati Uniti di peso e titolo vigenti il 1° gen. 1959.
+[^annexB-lvlu1-lvlu4-2]: Dollari degli Stati Uniti di peso e titolo vigenti in seguito alla modifica della parità, effettuata il 18 ott. 1973.
 
 ### Contributi al Fondo delle operazioni speciali
 
@@ -982,7 +972,7 @@ Le sottoscrizioni al capitale interregionale e i contributi al Fondo da parte de
 
 ### **Sezione 2** Sottoscrizione al capitale azionario interregionale
 
-[^annexB-lvlu1-lvlu5-1]: Dollari degli Stati Uniti di peso e titolo vigenti in seguito alla modifica della parità, effettuata il 18 ottobre 1973.
+[^annexB-lvlu1-lvlu5-1]: Dollari degli Stati Uniti di peso e titolo vigenti in seguito alla modifica della parità, effettuata il 18 ott. 1973.
 
 (a) I Paesi extraregionali, elencati nella sezione 1 delle presenti norme generali, possono sottoscrivere azioni sul capitale interregionale.
 
@@ -1050,12 +1040,12 @@ Le azioni sul capitale interregionale e le quote contributive al Fondo, previste
 
 [^annexB-lvlu1-lvlu5-sec7-1]
 
-[^annexB-lvlu1-lvlu5-sec7-1]: Nuovo tenore giusta la sezione 3 della risoluzione AG-8/87 del 24 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
+[^annexB-lvlu1-lvlu5-sec7-1]: Nuovo tenore giusta la sezione 3 della risoluzione AG-8/87 del 24 dic. 1987, in vigore dal 31 dic. 1987 ([RS 0.972.40](https://fedlex.data.admin.ch/eli/cc/1988/1902_1902_1902)).
 
 (a) L’accordo della maggioranza dei due terzi dei governatori dei Membri extraregionali, rappresentante almeno i tre quarti dei voti dei Membri extraregionali, è necessario per l’approvazione di:
 
 - Ogni emendamento dell’Accordo istitutivo che tocchi:
-- [tab] (1) il numero dei governatori nominandi dai Membri extraregionali; (2) il numero dei direttori esecutivi eligendi dai Governi dei Membri extraregionali, come detto nell’articolo VIII sezione 3 (b) (ii) dell’Accordo; (3) l’articolo VII sezione 3 (d), (e) e (f) dell’Accordo; oppure (4) le disposizioni concernenti la ripartizione dei benefici netti e dell’eccedenza di risorse interregionali di capitale, figuranti nell’articolo 7 sezione 4 dell’Accordo.
+- il numero dei governatori nominandi dai Membri extraregionali; (2) il numero dei direttori esecutivi eligendi dai Governi dei Membri extraregionali, come detto nell’articolo VIII sezione 3 (b) (ii) dell’Accordo; (3) l’articolo VII sezione 3 (d), (e) e (f) dell’Accordo; oppure (4) le disposizioni concernenti la ripartizione dei benefici netti e dell’eccedenza di risorse interregionali di capitale, figuranti nell’articolo 7 sezione 4 dell’Accordo.
 
 (b) Nessun aumento della sottoscrizione di un Membro, al capitale ordinario o al capitale interregionale, potrà essere attuato (e si rinuncia con le presenti al relativo diritto) qualora esso comporti la riduzione del numero dei voti (i) dei Membri in sviluppo della regione, a meno del 53,5 per cento del totale dei voti dei Membri; (ii) del Membro che possiede il maggior numero d’azioni della Banca, a meno del 34,5 per cento del detto totale; oppure (iii) del Canada, a meno del 4 per cento del detto totale; rimane nondimeno inteso che, nonostante i precedenti disposti e l’articolo VIII sezione 4 (b) dell’Accordo istitutivo, ogni risoluzione dell’Assemblea dei governatori aumentante il capitale ordinario o il capitale interregionale della Banca dovrà specificare che: (1) per evitare la caduta, sotto la percentuale fissata, del numero dei voti del gruppo specifico dei Paesi emergenti della regione, ogni membro del gruppo può sottoscrivere le azioni assegnate a un altro membro del gruppo, qualora questi non desideri farlo; (2) il gruppo di Paesi emergenti della regione può rinunciare al disposto concernente le percentuali dei voti, per quanto concerne l’alinea (i), mentre gli Stati Uniti e il Canada possono agire analogamente per quanto concerne rispettivamente gli alinea (ii) e (iii); e (3) ogni Membro del gruppo degli Extraregionali può sottoscrivere le azioni assegnate a un altro membro del gruppo, qualora questo non desideri farlo.
 
@@ -1164,7 +1154,7 @@ Le controversie che venissero a insorgere in occasione della procedura elettoral
 - (a) Per quanto concerne gli emendamenti delle sezioni 1, 2, 3, 5 a 14 e 15 (a), la maggioranza dei due terzi dei governatori dei Membri regionali; e
 - (b) Per quanto concerne gli emendamenti delle sezioni 4 e 15 (b), la maggioranza dei due terzi dei governatori dei Membri extraregionali.
 
-Campo d’applicazione dell’accordo il 1° agosto 1989
+Campo d’applicazione il 16 dicembre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratificazione o Accettazione</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1193,30 +1183,29 @@ Campo d’applicazione dell’accordo il 1° agosto 1989
 <tr><td>Honduras</td><td>29 dicembre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
 <tr><td>Israele</td><td>9 luglio</td><td>1976</td><td>9 luglio</td><td>1976</td></tr>
 <tr><td>Italia</td><td>26 maggio</td><td>1977</td><td>26 maggio</td><td>1977</td></tr>
-<tr><td>Jugoslavia</td><td>9 luglio</td><td>1976</td><td>9 luglio</td><td>1976</td></tr>
 <tr><td>Messico</td><td>30 dicembre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
 <tr><td>Nicaragua</td><td>29 dicembre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
 <tr><td>Norvegia</td><td>7 luglio</td><td>1986</td><td>7 luglio</td><td>1986</td></tr>
-<tr><td>Paesi Bassi\*</td><td>10 gennaio</td><td>1977</td><td>10 gennaio</td><td>1977</td></tr>
+<tr><td>Paesi Bassi</td><td>10 gennaio</td><td>1977</td><td>10 gennaio</td><td>1977</td></tr>
+<tr><td>Aruba</td><td>10 gennaio</td><td>1977</td><td>10 gennaio</td><td>1977</td></tr>
+<tr><td>Curaçao</td><td>10 gennaio</td><td>1977</td><td>10 gennaio</td><td>1977</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sint Eustatius e Saba)</td><td>10 gennaio</td><td>1977</td><td>10 gennaio</td><td>1977</td></tr>
+<tr><td>Sint Maarten</td><td>10 gennaio</td><td>1977</td><td>10 gennaio</td><td>1977</td></tr>
 <tr><td>Panama</td><td>29 dicembre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
 <tr><td>Paraguay</td><td>16 dicembre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
 <tr><td>Perù</td><td>30 dicembre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
 <tr><td>Portogallo</td><td>25 marzo</td><td>1980</td><td>25 marzo</td><td>1980</td></tr>
 <tr><td>Repubblica Dominicana</td><td>16 dicembre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
 <tr><td>Salvador</td><td>29 dicembre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
+<tr><td>Serbia</td><td>9 luglio</td><td>1976</td><td>9 luglio</td><td>1976</td></tr>
 <tr><td>Spagna</td><td>9 luglio</td><td>1976</td><td>9 luglio</td><td>1976</td></tr>
-<tr><td>Stati Uniti d’America</td><td>14 ottobre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
+<tr><td>Stati Uniti</td><td>14 ottobre</td><td>1959</td><td>30 dicembre</td><td>1959</td></tr>
 <tr><td>Surinam</td><td>12 dicembre</td><td>1980</td><td>12 dicembre</td><td>1980</td></tr>
 <tr><td>Svezia</td><td>19 settembre</td><td>1977</td><td>19 settembre</td><td>1977</td></tr>
 <tr><td>Svizzera</td><td>9 luglio</td><td>1976</td><td>9 luglio</td><td>1976</td></tr>
 <tr><td>Trinidad e Tobago</td><td>10 luglio</td><td>1967</td><td>10 luglio</td><td>1967</td></tr>
 <tr><td>Uruguay</td><td>12 febbraio</td><td>1960</td><td>12 febbraio</td><td>1960</td></tr>
 <tr><td>Venezuela</td><td>13 febbraio</td><td>1960</td><td>13 febbraio</td><td>1960</td></tr>
-<tr><td colspan="5">\* Dichiarazione, vedi qui appresso.</td></tr>
 </table>
 
-## Dichiarazione
-
-Paesi Bassi
-
-L’accordo è applicabile al Regno in Europa, alle Antille olandesi e ad Aruba.
+[^t-2]: [RU 1977 397](https://fedlex.data.admin.ch/eli/oc/1977/397_397_397); [1981 1358](https://fedlex.data.admin.ch/eli/oc/1981/1358_1358_1358); [1986 1963](https://fedlex.data.admin.ch/eli/oc/1986/1963_1963_1963); [1989 1766](https://fedlex.data.admin.ch/eli/oc/1989/1766_1766_1766); [2024 783](https://fedlex.data.admin.ch/eli/oc/2024/783). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
