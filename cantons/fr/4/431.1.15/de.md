@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.15"
-title: Verordnung über die Beschränkung der Studienplätze für den Studiengang Bachelor of Science in Sport- und Bewegungswissenschaften an der Universität Freiburg im akademischen Jahr 2024/25
+title: Verordnung über die Beschränkung der Studienplätze für den Studiengang Bachelor of Science in Sport- und Bewegungswissenschaften an der Universität Freiburg im akademischen Jahr 2025/26
 language: de
-version: 2023-11-07
-valid_until: 2024-12-15
-version_adopted: 2023-11-07
+version: 2024-12-16
+valid_until: 2025-12-31
+version_adopted: 2024-12-16
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.1.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/7854/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8101/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Beschränkung der Studienplätze für den Studiengang Bachelor of Science in Sport- und Bewegungswissenschaften an der Universität Freiburg im akademischen Jahr 2024/25
+# Verordnung über die Beschränkung der Studienplätze für den Studiengang Bachelor of Science in Sport- und Bewegungswissenschaften an der Universität Freiburg im akademischen Jahr 2025/26
 
 Universität, Bachelor of Science in Sport- und Bewegungswissenschaften – V
 
-vom 07.11.2023 (Fassung in Kraft getreten am 07.11.2023)
+vom 16.12.2024 (Fassung in Kraft getreten am 16.12.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -30,33 +30,35 @@ Seit Herbst 2007 bietet die Mathematisch-Naturwissenschaftliche Fakultät[^ingre
 
 Diese Studienrichtung, die der Abteilung Medizin angegliedert ist, erfreut sich grosser Beliebtheit. Jedes Jahr stellen rund 100 Studienanwärterinnen und ‑anwärter bis zum 30. April ein Zulassungsgesuch für das kommende Studienjahr. Die Sportinfrastrukturen auf der Pérolles-Ebene und in ihrer Umgebung erlauben es nicht, jährlich mehr als 50 Studierende aufzunehmen, wenn die Sicherheitsnormen in der Organisation der praktisch-methodischen Kurse eingehalten werden sollen. Deshalb ist eine Beschränkung der Studienplätze notwendig.
 
+Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 21. Oktober 2024 dieser Verordnung zugestimmt.
+
 Auf Antrag der Direktion für Bildung und kulturelle Angelegenheiten,
 
 beschliesst:
 
-[^ingress-1]: Anmerkung des Verfassers – Heute: Mathematisch-Naturwissenschaftliche und Medizinische Fakultät.
+[^ingress-1]: Heute: Mathematisch-Naturwissenschaftliche und Medizinische Fakultät.
 
 #### Art. 1
 
 **Geltungsbereich und Zweck**
 
-<sup>1</sup> Diese Verordnung gilt für alle Studienanwärterinnen und ‑anwärter, die ab dem Herbstsemester 2024 ein Studienprogramm des Bachelor of Science in SBW (Hauptfach oder Nebenfach) an der Universität Freiburg beginnen möchten.
+<sup>1</sup> Diese Verordnung gilt für alle Studienanwärterinnen und ‑anwärter, die ab dem Herbstsemester 2025 ein Studienprogramm des Bachelor of Science in SBW (Hauptfach oder Nebenfach) an der Universität Freiburg beginnen möchten.
 
 <sup>2</sup> Die Verordnung regelt die Beschränkung der Studienplätze und das Auswahlverfahren.
 
-<sup>3</sup> Die Verordnung gilt nicht für Studienanwärterinnen und ‑anwärter, die ein Studienprogramm des Bachelor of Science in SBW (Hauptfach oder Nebenfach) an der Universität Freiburg fortsetzen möchten, für welches das Volumen der verbleibenden Kurse der praktisch-methodischen Ausbildung von der Mathematisch-Naturwissenschaftlichen und Medizinischen Fakultät als unbedeutend beurteilt wird. In diesem Fall können die Studienanwärterinnen und ‑anwärter ungeachtet der Aufnahmekapazität nach Artikel 2 zugelassen werden.
+<sup>3</sup> Die Verordnung gilt nicht für Studienanwärterinnen und anwärter, die ein Studienprogramm des Bachelor of Science in SBW (Hauptfach oder Nebenfach) an der Universität Freiburg fortsetzen möchten und die gemäss Beurteilung der Mathematisch-Naturwissenschaftlichen und Medizinischen Fakultät nur noch ein unbedeutendes Volumen an verbleibenden Kursen der praktisch-methodischen Ausbildung absolvieren müssen. In diesem Fall können die Studienanwärterinnen und anwärter ungeachtet der Aufnahmekapazität nach Artikel 2 zugelassen werden.
 
 #### Art. 2
 
 **Aufnahmekapazität**
 
-<sup>1</sup> Für das akademische Jahr 2024/25 wird die Aufnahmekapazität auf insgesamt 50 neue Studienplätze für alle SBW-Studienprogramme festgelegt.
+<sup>1</sup> Für das akademische Jahr 2025/26 wird die Aufnahmekapazität auf insgesamt 50 neue Studienplätze für alle SBW-Studienprogramme festgelegt.
 
 #### Art. 3
 
 **Test der körperlichen und motorischen Fähigkeiten (TKMF)**
 
-<sup>1</sup> Studienanwärterinnen und ‑anwärter, die ein Studienprogramm in SBW wählen, sind verpflichtet, einen TKMF zu absolvieren. Das Bestehen dieses Tests ist eine Voraussetzung für die Zulassung zu diesem Studienprogramm.
+<sup>1</sup> Die Studienanwärterinnen und ‑anwärter, die ein Studienprogramm in SBW wählen, sind verpflichtet, einen TKMF zu absolvieren. Das Bestehen dieses Tests ist eine Voraussetzung für die Zulassung zu diesem Studienprogramm.
 
 <sup>2</sup> Die Disziplinen und die Bewertungskriterien sowie die Bedingungen für das Bestehen des TKMF werden in einer Ausführungsrichtlinie beschrieben.
 
@@ -78,7 +80,7 @@ beschliesst:
 
 <sup>1</sup> Übersteigt die Anzahl Studienanwärterinnen und ‑anwärter, die den TKMF bestanden haben, die Anzahl zur Verfügung stehender Studienplätze, so werden die Plätze in der Reihenfolge der beim TKMF erzielten Resultate zugeteilt.
 
-<sup>2</sup> Der Entscheid über die Zuteilung eines Studienplatzes wird den Studienanwärterinnen und ‑anwärtern bis spätestens am 30. Juli 2024 vom Dekanat der Mathematisch-Naturwissenschaftlichen und Medizinischen Fakultät schriftlich mitgeteilt.
+<sup>2</sup> Der Entscheid über die Zuteilung eines Studienplatzes wird den Studienanwärterinnen und ‑anwärtern bis spätestens am 30. Juli 2025 vom Dekanat der Mathematisch-Naturwissenschaftlichen und Medizinischen Fakultät schriftlich mitgeteilt.
 
 <sup>3</sup> Damit ein Studienplatz zugeteilt werden kann, müssen alle übrigen allgemeinen Zulassungsbedingungen der Universität Freiburg erfüllt sein. Die Dienststelle für Zulassung und Einschreibung erlässt ihren Entscheid unabhängig vom Verfahren, das in dieser Verordnung beschrieben wird.
 
@@ -92,7 +94,7 @@ beschliesst:
 
 **Gültigkeit des TKMF**
 
-<sup>1</sup> Ein bestandener TKMF 2024 ist ausschliesslich für einen Studienbeginn im Herbst 2024 gültig. Er kann nicht auf das folgende akademische Jahr übertragen werden.
+<sup>1</sup> Ein bestandener TKMF 2025 ist ausschliesslich für einen Studienbeginn im Herbst 2025 gültig. Er kann nicht auf das folgende akademische Jahr übertragen werden.
 
 #### Art. 7
 
@@ -106,11 +108,11 @@ beschliesst:
 
 **Datum des TKMF**
 
-<sup>1</sup> Der TKMF findet am 1. und 2. Juli 2024 statt.
+<sup>1</sup> Der TKMF findet am 30. Juni und 1. Juli 2025 statt.
 
-<sup>2</sup> Die Einschreibefrist zum TKMF endet am 10. Juni 2024. Nach diesem Datum ist keine Anmeldung mehr möglich.
+<sup>2</sup> Die Einschreibefrist zum TKMF endet am 10. Juni 2025. Nach diesem Datum ist keine Anmeldung mehr möglich.
 
-<sup>3</sup> Die Zahlungsfrist für die Anmeldegebühr zum TKMF endet am 10. Juni 2024. Wird die Gebühr bis zu diesem Datum nicht bezahlt, wird die Anmeldung zum TKMF storniert.
+<sup>3</sup> Die Zahlungsfrist für die Anmeldegebühr zum TKMF endet am 10. Juni 2025. Wird die Gebühr bis zu diesem Datum nicht bezahlt, so wird die Registrierung zum TKMF storniert.
 
 #### Art. 9
 
@@ -122,4 +124,4 @@ beschliesst:
 
 <sup>3</sup> Gegen Entscheide des Rektorats kann bei der Rekurskommission der Universität Freiburg Beschwerde eingereicht werden.
 
-2023\_095
+2024\_106
