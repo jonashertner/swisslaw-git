@@ -4,13 +4,13 @@ number: "152.100"
 title: Gesetz über die Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2023-08-01
-valid_until: 2024-12-15
-version_adopted: 2023-02-08
+version: 2024-12-16
+valid_until: 2025-01-31
+version_adopted: 2024-10-16
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6475/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6476/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates | Grosser Rat / Ombudsman
 
 (GO)
 
-Vom 29. Juni 2006 (Stand 1. August 2023)
+Vom 29. Juni 2006 (Stand 16. Dezember 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -228,7 +228,8 @@ erlässt folgendes Gesetz:
 - h) es koordiniert die Öffentlichkeitsarbeit des Grossen Rates und seiner Organe,
 - i) es entscheidet über die Einreihung der Stellen sowie ad personam-Einreihungen der dem Grossen Rat unterstellten oder zugeordneten Dienste,
 - j) es entscheidet über die Teilnahme der Gerichte an den Grossratssitzungen gemäss § 27a,
-- k) es vertritt den Grossen Rat in allen ihn betreffenden rechtlichen Verfahren.
+- k) es vertritt den Grossen Rat in allen ihn betreffenden rechtlichen Verfahren,
+- l) es ergreift Massnahmen zum Schutz der persönlichen Integrität der Ratsmitglieder und legt in einem Reglement die Einzelheiten wie Anwendungsbereich, Massnahmen und Verfahren fest.
 
 #### § 19
 
