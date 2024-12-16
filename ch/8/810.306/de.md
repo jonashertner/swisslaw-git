@@ -4,11 +4,11 @@ title: Verordnung vom 1. Juli 2020 über klinische Versuche mit Medizinprodukten
 short: KlinV-Mep
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: de
-version: 2024-11-01
+version: 2024-12-17
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241101/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241217/de/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241217-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241101/de"
 
 (KlinV-Mep)
 
-vom 1. Juli 2020 (Stand am 1. November 2024)
+vom 1. Juli 2020 (Stand am 17. Dezember 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -805,11 +805,12 @@ Handelt es sich beim klinischen Versuch nach Artikel 48 um eine Leistungsstudie,
 
 **Übergangsbestimmungen zur Änderung vom 7. Juni 2024**[^48b-1]
 
-Für klinische Versuche mit Produkten, die vor dem Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, sind betreffend die Haftungs- und Sicherstellungspflichten die Artikel 10 Absätze 1 Buchstabe c[^48b-2] und 2 sowie Artikel 11–14 KlinV[^48b-3] anwendbar. Wurde die Bewilligung für den klinischen Versuch befristet erteilt, so richten sich diese Pflichten bei Erneuerung der Bewilligung nach neuem Recht.
+Für klinische Versuche mit Produkten, die vor dem Inkrafttreten der Änderung vom 7. Juni 2024 bewilligt wurden, sind betreffend die Haftungs- und Sicherstellungspflichten die Artikel 10 Absätze 1 Buchstabe c in der Fassung vom 26. Mai 2022[^48b-2], und 2 sowie Artikel 11–14 KlinV in der Fassung vom 1. Januar 2014[^48b-3], anwendbar. Wurde die Bewilligung für den klinischen Versuch befristet erteilt, so richten sich diese Pflichten bei Erneuerung der Bewilligung nach neuem Recht.[^48b-4]
 
 [^48b-1]: Eingefügt durch Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^48b-2]: [AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)
-[^48b-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^48b-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643); [AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)
+[^48b-4]: Berichtigung vom 17. Dez. 2024 ([AS 2024 779](https://fedlex.data.admin.ch/eli/oc/2024/779)).
 
 #### Art. 49
 

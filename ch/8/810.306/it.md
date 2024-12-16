@@ -4,11 +4,11 @@ title: Ordinanza del 1° luglio 2020 sulle sperimentazioni cliniche con disposit
 short: OSRUm-Dmed
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: it
-version: 2024-11-01
+version: 2024-12-17
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241101/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241217/it/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241217-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241101/it"
 
 (OSRUm-Dmed)
 
-del 1° luglio 2020 (Stato 1° novembre 2024)
+del 1° luglio 2020 (Stato 17 dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -54,7 +54,7 @@ La presente ordinanza disciplina:
 
 <sup>2</sup> Nella presente ordinanza per *dispositivi* si intendono tutti i dispositivi di cui al capoverso 1 lettera a.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^1-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^1-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
@@ -78,10 +78,10 @@ Ai sensi della presente ordinanza si intende per:
 - d. *promotore:* persona o istituzione che assume la responsabilità dell’organizzazione di una sperimentazione clinica, segnatamente dell’avvio, della gestione e del finanziamento della stessa in Svizzera;
 - e. *sperimentatore:* persona responsabile sul posto dello svolgimento pratico di una sperimentazione clinica in Svizzera, nonché della protezione delle persone partecipanti; lo sperimentatore che assume la responsabilità di organizzare in Svizzera una sperimentazione clinica ne è allo stesso tempo il promotore.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^2-2]: Introdotta dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2-2]: Introdotta dalla cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^2-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^2-4]: Introdotta dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2-4]: Introdotta dalla cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^2-5]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
 #### Art. 2a
@@ -101,7 +101,7 @@ Lo svolgimento di studi non interventistici delle prestazioni è retto dal capit
 
 <sup>4</sup> Lo svolgimento di sperimentazioni cliniche con prodotti secondo l’articolo 2*a* capoverso 2 LATer o combinazioni secondo l’articolo 2 capoverso 1 lettere f, g e j ODmed[^2a-6] è retto dall’OSRUm.
 
-[^2a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^2a-2]: [RS 810.301](https://fedlex.data.admin.ch/eli/cc/2013/642)
 [^2a-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 [^2a-4]: Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici in vitro e che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione, GU L 117 del 5.5.2017, pag. 176; modificato da ultimo dal regolamento (UE) 2023/607, GU L 80 del 20.3.2023, pag. 24.
@@ -128,13 +128,13 @@ Alle sperimentazioni cliniche con dispositivi sono applicabili le seguenti dispo
 <sup>3</sup> ....[^3-8]
 
 [^3-1]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
-[^3-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^3-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^3-6]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^3-7]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^3-8]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-7]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^3-8]: Abrogato dalla cifra I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 2: Obblighi generali del promotore e dello sperimentatore e qualifica professionale
 
@@ -156,10 +156,10 @@ Il promotore e lo sperimentatore devono adempiere i requisiti seguenti:
 [^4-1]: Nuovo testo giusta l’all. n. 1 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 [^4-2]: Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio; GU L 117 del 5.5.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2023/607, GU L 80 del 20.3.2023, pag. 24.
 [^4-3]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
-[^4-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^4-5]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^4-6]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^4-7]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^4-7]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 5
 
@@ -176,7 +176,7 @@ Lo sperimentatore di una sperimentazione clinica deve:
 
 <sup>2</sup> Le altre persone che svolgono la sperimentazione clinica devono disporre della formazione e dell’aggiornamento o dell’esperienza nel pertinente settore specialistico necessari per lo svolgimento di sperimentazioni cliniche.
 
-[^5-1]: Introdotta dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^5-1]: Introdotta dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ## Capitolo 2: Procedura di autorizzazione e di notifica
 
@@ -209,11 +209,11 @@ Le indagini cliniche rientrano nella categoria C se:
 - b. il dispositivo in esame non è provvisto di un marchio di conformità di cui all’articolo 13 ODmed (sottocategoria C2); oppure
 - c. la messa a disposizione sul mercato, la messa in servizio o l’applicazione del dispositivo in esame è proibita in Svizzera (sottocategoria C3).[^6-5]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^6-3]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^6-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^6-5]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6-5]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 6a
 
@@ -252,7 +252,7 @@ Gli studi delle prestazioni rientrano nella categoria C se si tratta di uno stud
 - b. il dispositivo in esame non è provvisto di un marchio di conformità di cui all’articolo 12 ODIV (sottocategoria C2); oppure
 - c. la messa a disposizione sul mercato, la messa in servizio o l’applicazione del dispositivo è proibita in Svizzera (sottocategoria C3).
 
-[^6a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^6a-2]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
 #### Art. 7
@@ -288,7 +288,7 @@ Il sistema d’informazione sui dispositivi medici di cui all’articolo 62*c* L
 
 <sup>4</sup> Su richiesta Swissmedic inoltra alle commissioni d’etica i dati degni di particolare protezione di cui al capoverso 3
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^8-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^8-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
@@ -302,8 +302,8 @@ La commissione d’etica competente e Swissmedic si informano reciprocamente e c
 - b. aspetti che concernono gli ambiti di verifica di cui sia all’articolo 11 che all’articolo 17;
 - c.[^9-2] l’esecuzione di procedure di cui agli articoli 12 e 19.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ### Sezione 2: Procedura presso la commissione d’etica competente
 
@@ -318,7 +318,7 @@ La commissione d’etica competente e Swissmedic si informano reciprocamente e c
 <sup>3</sup> Lo sperimentatore può presentare la domanda al posto del promotore. In tal caso, egli si assume anche gli obblighi del promotore di cui agli articoli 14 e 15, nonché gli obblighi di notifica e di fare rapporto nei confronti della commissione d’etica competente.[^10-2]
 
 [^10-1]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 11
 
@@ -326,7 +326,7 @@ La commissione d’etica competente e Swissmedic si informano reciprocamente e c
 
 Gli ambiti che la commissione d’etica deve verificare sono retti per analogia dall’articolo 25 OSRUm[^11-2].
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^11-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 12
@@ -386,7 +386,7 @@ La commissione d’etica rilascia l’autorizzazione se:
 
 <sup>6</sup> Essa comunica la sua decisione all’UFSP.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^14-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 15
@@ -405,7 +405,7 @@ La commissione d’etica rilascia l’autorizzazione se:
 
 <sup>6</sup> Per le sperimentazioni cliniche della sottocategoria A2 il promotore informa anche gli Stati contraenti, in cui la sperimentazione clinica è o dev’essere svolta, sui motivi e sulla natura di tali modifiche; vi allega la documentazione di cui all’allegato 1 interessata dalla modifica.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 3: Procedura di autorizzazione presso Swissmedic
 
@@ -447,7 +447,7 @@ Swissmedic esegue una verifica semplificata se il promotore comprova nella doman
 
 <sup>3</sup> Nella verifica semplificata Swissmedic si limita a verificare se la domanda è completa e se le prove di cui al capoverso 2 sono state prodotte.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^17-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^17-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
@@ -469,7 +469,7 @@ Swissmedic rilascia l’autorizzazione se:
 <sup>4</sup> Esso comunica la sua decisione all’UFSP.
 
 [^18-1]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 19
 
@@ -501,7 +501,7 @@ Swissmedic rilascia l’autorizzazione se:
 
 <sup>5</sup> Il promotore di una sperimentazione clinica delle sottocategorie C1 e C2 riguardante la conformità informa anche gli Stati contraenti, in cui la sperimentazione clinica è o dev’essere svolta, sui motivi e sulla natura di tali modifiche; allega i documenti di cui all’allegato 1 interessati dalle modifiche.
 
-[^20-1]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^20-1]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)). Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ## Capitolo 3: ...
 
@@ -541,7 +541,7 @@ Le definizioni di eventi indesiderati e difetti di un dispositivo sono rette:
 [^32-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^32-3]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
 [^32-4]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
-[^32-5]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^32-5]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 33
 
@@ -572,7 +572,7 @@ Le notifiche di cui al capoverso 1 devono essere presentate anche agli Stati con
 
 <sup>7</sup> Per le sperimentazioni cliniche della categoria A il promotore è responsabile che siano notificati a Swissmedic gli eventi indesiderati gravi in applicazione dell’articolo 66 ODmed[^33-2] oppure dell’articolo 59 ODIV[^33-3].
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^33-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^33-3]: [RS 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
 
@@ -591,9 +591,9 @@ Le notifiche di cui al capoverso 1 devono essere presentate anche agli Stati con
 <sup>4</sup> Per gli studi delle prestazioni della sottocategoria A2 riguardanti la conformità nonché per le sperimentazioni cliniche delle sottocategorie C1 e C2 il promotore presenta entro due giorni le notifiche di cui al capoverso 1 anche agli Stati contraenti in cui la sperimentazione clinica è o dev’essere svolta.[^34-4]
 
 [^34-1]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^34-2]: Nuova espressione giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)). Di detta mod. è tenuto conto in tutto il testo.
+[^34-2]: Nuova espressione giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)). Di detta mod. è tenuto conto in tutto il testo.
 [^34-3]: Nuovo testo giusta l’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^34-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^34-4]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 ### Sezione 2: Rapporto sulla sicurezza delle persone partecipanti alla sperimentazione nonché notifica e rapporto alla conclusione della sperimentazione clinica e in caso di arresto prematuro o interruzione
 
@@ -607,7 +607,7 @@ Le notifiche di cui al capoverso 1 devono essere presentate anche agli Stati con
 
 <sup>2bis</sup> Per le sperimentazioni cliniche della categoria C che sono o devono essere svolte anche in Stati UE o SEE, il rapporto di cui al capoverso 2 deve essere completato con lo stato della sperimentazione clinica negli Stati in questione.[^35-2]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^35-2]: Introdotto dall’all. n. 1 dell’O del 19 mag. 2021, in vigore dal 26 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 
 #### Art. 36
@@ -650,7 +650,7 @@ Il promotore presenta alla commissione d’etica un rapporto finale conformement
 
 [^37-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. a.
 [^37-2]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
-[^37-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^37-3]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 38
 
@@ -662,7 +662,7 @@ Per le sperimentazioni cliniche della categoria C, le notifiche e i rapporti di 
 
 [^chap4-sec3-1]
 
-[^chap4-sec3-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^chap4-sec3-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 39
 
@@ -684,16 +684,16 @@ Per le sperimentazioni cliniche della categoria C, le notifiche e i rapporti di 
 
 <sup>8</sup> Qualora l’UFSP abbia formulato un parere secondo l’articolo 14 o 18*,* la commissione d’etica competente inoltra il rapporto finale all’UFSP.[^39-10]
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^39-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^39-3]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^39-4]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^39-5]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^39-6]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-3]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-4]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-5]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-6]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^39-7]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^39-8]: Nuovo testo giusta il n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^39-9]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
-[^39-10]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-8]: Nuovo testo giusta la cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-9]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^39-10]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 #### Art. 40
 
@@ -711,7 +711,7 @@ Per le sperimentazioni cliniche della categoria C, le notifiche e i rapporti di 
 
 Il promotore deve registrare le sperimentazioni cliniche secondo gli articoli 64, 65 capoversi 1 e 3, 66 e 67 OSRUm[^41-2].
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^41-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 #### Art. 42
@@ -723,7 +723,7 @@ Il promotore deve pubblicare i risultati delle sperimentazioni cliniche in un re
 - a. per le sperimentazioni cliniche concluse con dispositivi già provvisti di un marchio di conformità che sono utilizzati conformemente alle istruzioni per l’uso nonché in caso di arresto prematuro o interruzione della sperimentazione clinica: immediatamente dopo la presentazione del rapporto finale secondo l’articolo 37;
 - b. per tutte le altre sperimentazioni cliniche concluse: al più tardi prima che il dispositivo venga immesso in commercio, oppure un anno dopo la presentazione del rapporto finale secondo l’articolo 37 se fino a quel momento il dispositivo non è ancora stato immesso in commercio.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^42-2]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
 
 ## Capitolo 6: Disposizioni finali
@@ -746,7 +746,7 @@ La modifica di altri atti normativi è disciplinata nell’allegato 2.
 
 Swissmedic informa sul proprio sito Internet sugli atti della Commissione europea la cui versione vincolante per gli Stati membri dell’UE è secondo la presente ordinanza direttamente applicabile anche per la Svizzera.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 46
 
@@ -768,9 +768,9 @@ Nell’esecuzione della presente ordinanza, in particolare per fornire moduli el
 
 [^46-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. a.
 [^46-2]: Cfr. nota a piè di pagina relativa all’art. 2*a* cpv. 3.
-[^46-3]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^46-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
-[^46-5]: Abrogata dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^46-3]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^46-4]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^46-5]: Abrogata dalla cifra I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 47
 
@@ -798,23 +798,24 @@ Nell’esecuzione della presente ordinanza, in particolare per fornire moduli el
 
 Se la sperimentazione clinica di cui all’articolo 48 è uno studio delle prestazioni, in caso di modifiche essenziali il promotore deve richiedere nel contempo una classificazione conformemente all’articolo 6*a*.
 
-[^48a-1]: Introdotto dal n. I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^48a-1]: Introdotto dalla cifra I dell’O del 4 mag. 2022, in vigore dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 48b
 
 **Disposizioni transitorie relative alla modifica del 7 giugno 2024**[^48b-1]
 
-Per le sperimentazioni cliniche con dispositivi autorizzate prima dell’entrata in vigore della modifica del 7 giugno 2024, in merito agli obblighi di responsabilità e garanzia si applicano gli articoli 10 capoversi 1 lettera c[^48b-2] e 2 nonché gli articoli 11–14 OSRUm[^48b-3]. Se l’autorizzazione per la sperimentazione clinica è stata rilasciata a tempo determinato, in caso di rinnovo dell’autorizzazione tali obblighi sono retti dal nuovo diritto.
+Per le sperimentazioni cliniche con dispositivi autorizzate prima dell’entrata in vigore della modifica del 7 giugno 2024, in merito agli obblighi di responsabilità e garanzia si applicano gli articoli 10 capoversi 1 lettera c nella versione del 26 maggio 2022[^48b-2], e 2 nonché gli articoli 11–14 OSRUm nella versione del 1° gennaio 2014[^48b-3]. Se l’autorizzazione per la sperimentazione clinica è stata rilasciata a tempo determinato, in caso di rinnovo dell’autorizzazione tali obblighi sono retti dal nuovo diritto.[^48b-4]
 
-[^48b-1]: Introdotto dal n. I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^48b-1]: Introdotto dalla cifra I dell’O del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^48b-2]: [RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)
 [^48b-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^48b-4]: Correzione del 17 dic. 2024 ([RU 2024 779](https://fedlex.data.admin.ch/eli/oc/2024/779)).
 
 #### Art. 49
 
 [^49-1]
 
-[^49-1]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^49-1]: Abrogato dalla cifra I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 #### Art. 50
 
@@ -824,7 +825,7 @@ Per le sperimentazioni cliniche con dispositivi autorizzate prima dell’entrata
 
 <sup>2</sup> ...[^50-1]
 
-[^50-1]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
+[^50-1]: Abrogato dalla cifra I dell’O del 4 mag. 2022, con effetto dal 26 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 
 Allegato 1[^t-1]
 
@@ -832,7 +833,7 @@ Allegato 1[^t-1]
 
 ## Documenti per la procedura di autorizzazione delle sperimentazioni cliniche
 
-[^t-1]: Aggiornato dell’all. n. 1 dell’O del 19 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)), dal n. II delle O del 4 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) e del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
+[^t-1]: Aggiornato dell’all. n. 1 dell’O del 19 mag. 2021 ([RU 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)), dalla cifra II delle O del 4 mag. 2022 ([RU 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)) e del 7 giu. 2024, in vigore dal 1° nov. 2024 ([RU 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 
 ### 1. Documenti per le sperimentazioni cliniche della categoria A
 

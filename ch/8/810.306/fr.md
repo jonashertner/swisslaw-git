@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juillet 2020 sur les essais cliniques de di
 short: OClin-Dim
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: fr
-version: 2024-11-01
+version: 2024-12-17
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241217/fr/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241217-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241101/fr"
 
 (OClin-Dim)
 
-du 1<sup>er</sup> juillet 2020 (État le 1<sup>er</sup> novembre 2024)
+du 1<sup>er</sup> juillet 2020 (État le 17 décembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -63,8 +63,6 @@ La présente ordonnance règle:
 #### Art. 2
 
 **Définitions**
-
-<sup>1</sup>
 
 Au sens de la présente ordonnance, on entend par:
 
@@ -814,11 +812,12 @@ Si l’essai clinique visé à l’art. 48 est une étude des performances, le p
 
 **Dispositions transitoires relatives à la modification du 7 juin 2024**[^48b-1]
 
-Pour les obligations en matière de responsabilité et de garantie, les dispositions de l’art. 10, al. 1, let. c[^48b-2], et 2, et des art. 11 à 14 OClin[^48b-3] sont applicables aux essais cliniques de dispositifs autorisés avant l’entrée en vigueur de la modification du 7 juin 2024. Si l’autorisation de l’essai clinique a été octroyée pour une durée limitée, ces obligations sont régies, en cas de renouvellement de l’autorisation, par le nouveau droit.
+Pour les obligations en matière de responsabilité et de garantie, les dispositions de l’art. 10, al. 1, let. c dans sa version du 26 mai 2022[^48b-2], et 2, et des art. 11 à 14 OClin dans leur version du 1<sup>er</sup> janvier 2014[^48b-3] sont applicables aux essais cliniques de dispositifs autorisés avant l’entrée en vigueur de la modification du 7 juin 2024. Si l’autorisation de l’essai clinique a été octroyée pour une durée limitée, ces obligations sont régies, en cas de renouvellement de l’autorisation, par le nouveau droit.[^48b-4]
 
 [^48b-1]: Introduit par le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> nov. 2024 ([RO 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^48b-2]: [RO 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)
-[^48b-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^48b-3]: [RS 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643); [RO 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)
+[^48b-4]: Erratum du 17 déc. 2024 ([RO 2024 779](https://fedlex.data.admin.ch/eli/oc/2024/779)).
 
 #### Art. 49
 

@@ -4,11 +4,11 @@ title: Ordinance of 1 July 2020 on Clinical Trials with Medical Devices (CTO-Med
 short: CTO-MedD
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/553"
 language: en
-version: 2024-11-01
+version: 2024-12-17
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241101/en/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/553/20241217/en/xml/fedlex-data-admin-ch-eli-cc-2020-553-20241217-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/553/20241217/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (ClinO-MD)
 
-of 1 July 2020 (Status as of 1 November 2024)
+of 1 July 2020 (Status as of 17 December 2024)
 
 The Swiss Federal Council,
 
@@ -234,16 +234,25 @@ Performance studies fall into category A if:
   - 3\. it is not prohibited to make the device to be investigated available on the market, put it into service or use it in Switzerland,
   - 4\. none of the procedures stated in letter b point 2 are used;
 
-- b. one of the following two conditions is met (sub-category A2):
-- 1\. a non-interventional performance study that is not covered by Article 2*a* paragraphs 1-3 is involved,
-- 2\.
-- [tab]
+- b.
 
-  <sup>2</sup> Performance studies fall into category C if an interventional performance study is involved and:
+  one of the following two conditions is met (sub-category A2):
 
-  - a. the device to be investigated carries a conformity marking in accordance with Article 12 IvDO, but is not used in accordance with the instructions for use (sub-category C1);
-  - b. the device to be investigated does not carry a conformity marking in accordance with Article 12 IvDO (sub-category C2); or
-  - c. it is prohibited to make the device to be investigated available on the market, put it into service or use it in Switzerland (sub-category C3).
+  - 1\. a non-interventional performance study that is not covered by Article 2*a* paragraphs 1-3 is involved,
+  - 2\.
+
+    an interventional performance study in accordance with letter a points 1–3 is involved and:
+
+    - – surgically invasive procedures are used in order to collect biological material from the participants exclusively for the purpose of the performance study, or
+    - – the participants undergo additional invasive or burdensome procedures compared to the procedures performed under the normal conditions of use of the device to be investigated.
+
+<sup>2</sup>
+
+Performance studies fall into category C if an interventional performance study is involved and:
+
+- a. the device to be investigated carries a conformity marking in accordance with Article 12 IvDO, but is not used in accordance with the instructions for use (sub-category C1);
+- b. the device to be investigated does not carry a conformity marking in accordance with Article 12 IvDO (sub-category C2); or
+- c. it is prohibited to make the device to be investigated available on the market, put it into service or use it in Switzerland (sub-category C3).
 
 [^6a-1]: Inserted by No I of the O of 4 May 2022, in force since 26 May 2022 ([AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)).
 [^6a-2]: [SR 812.219](https://fedlex.data.admin.ch/eli/cc/2022/291)
@@ -357,9 +366,13 @@ The areas to be reviewed by the ethics committee are governed *mutatis mutandis*
 The sponsor shall submit the additional application documents specified in Annex 1 number 5 if:
 
 - a. a radiopharmaceutical employed is not used in accordance with the authorisation or is not authorised in Switzerland;
-- b. a medical device employed which is capable of emitting ionising radiation:
-- 1\. is not used in accordance with the instructions for use, or
-- 2\. does not bear a conformity marking in accordance with Article 13 MedDO[^14-2]; or
+- b.
+
+  a medical device employed which is capable of emitting ionising radiation:
+
+  - 1\. is not used in accordance with the instructions for use, or
+  - 2\. does not bear a conformity marking in accordance with Article 13 MedDO[^14-2]; or
+
 - c. some other radioactive source is used.
 
 <sup>3</sup> The ethics committee shall forward the application documents to the FOPH in accordance with Annex 1 number 5.
@@ -424,9 +437,13 @@ For clinical trials, Swissmedic shall verify:
 
 It shall conduct a simplified review if the sponsor demonstrates the following in its application:
 
-- a.[^17-1] the clinical trial involves:
-- 1\. a clinical investigation in sub-category C1 or C2 with a non-invasive device classified as class I or IIa under Article 15 MedDO[^17-2], or
-- 2\. an interventional performance study in sub-category C1 or C2 with a device classified as class A or B under Article 14 IvDO[^17-3].
+- a.[^17-1]
+
+  the clinical trial involves:
+
+  - 1\. a clinical investigation in sub-category C1 or C2 with a non-invasive device classified as class I or IIa under Article 15 MedDO[^17-2], or
+  - 2\. an interventional performance study in sub-category C1 or C2 with a device classified as class A or B under Article 14 IvDO[^17-3].
+
 - b. the use of the device to be investigated entails at most minimal risk for the trial participants;
 - c. the investigator has signed a written agreement with the sponsor requiring the investigator to notify the sponsor without delay of serious adverse events or any other incident as specified in Article 32;
 - d. the sponsor operates a risk management and safety monitoring system.
@@ -790,11 +807,12 @@ If a clinical trial in accordance with Article 48 is a performance study, in the
 
 **Transitional provisions to the Amendment of 7 June 2024**[^48b-1]
 
-For clinical trials of devices authorised before the Amendment of 7 June 2024 comes into force, with regard to liability and coverage requirements, Article 10 paragraphs 1 letter c[^48b-2] and 2 and Articles 11–14 ClinO[^48b-3] apply. If approval for the clinical trial was granted for a limited period, these requirements are governed by the amended law when the approval is renewed.
+For clinical trials of devices authorised before the Amendment of 7 June 2024 comes into force, with regard to liability and coverage requirements, Article 10 paragraphs 1 letter c in the version of 26 May 2022[^48b-2] and 2 and Articles 11–14 ClinO in the version of 1 January 2014[^48b-3] apply. If approval for the clinical trial was granted for a limited period, these requirements are governed by the amended law when the approval is renewed.[^48b-4]
 
 [^48b-1]: Inserted by No I of the O of 7 June 2024, in force since 1 Nov. 2024 ([AS 2024 323](https://fedlex.data.admin.ch/eli/oc/2024/323)).
 [^48b-2]: [AS 2022 294](https://fedlex.data.admin.ch/eli/oc/2022/294)
-[^48b-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643)
+[^48b-3]: [SR 810.305](https://fedlex.data.admin.ch/eli/cc/2013/643); [AS 2013 3407](https://fedlex.data.admin.ch/eli/oc/2013/643)
+[^48b-4]: Correction of 17 Dec. 2024 ([AS 2024 779](https://fedlex.data.admin.ch/eli/oc/2024/779)).
 
 #### Art. 49
 
