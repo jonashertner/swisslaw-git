@@ -3,11 +3,11 @@ sr: "0.311.35"
 title: Übereinkommen des Europarats vom 11. Mai 2011 zur Verhütung und Bekämpfung von Gewalt gegen Frauen und häuslicher Gewalt (Istanbul-Konvention) (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/168"
 language: de
-version: 2022-10-28
+version: 2024-12-20
 adopted: 2011-05-11
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/168/20221028/de/xml/fedlex-data-admin-ch-eli-cc-2018-168-20221028-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/168/20221028/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/168/20241220/de/xml/fedlex-data-admin-ch-eli-cc-2018-168-20241220-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/168/20241220/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 14. Dezember 2017
 
 In Kraft getreten für die Schweiz am 1. April 2018
 
-(Stand am 28. Oktober 2022)
+(Stand am 20. Dezember 2024)
 
 [^t-1]: [AS 2018 1117](https://fedlex.data.admin.ch/eli/oc/2018/167)
 
@@ -969,10 +969,10 @@ Anhang
 
 \6. Die Vorrechte und Immunitäten werden den in Absatz 1 genannten Personen nicht zu ihrem persönlichen Vorteil gewährt, sondern zu dem Zweck, die unabhängige Wahrnehmung ihrer Aufgaben im Interesse von GREVIO sicherzustellen. Die Immunität der in Absatz 1 genannten Personen wird vom Generalsekretär des Europarats in allen Fällen aufgehoben, in denen sie seiner Auffassung nach verhindern würde, dass der Gerechtigkeit Genüge geschieht, und in denen sie ohne Schädigung der Interessen von GREVIO aufgehoben werden kann.
 
-Geltungsbereich am 28. Oktober 2022[^t-2]
+Geltungsbereich am 20. Dezember 2024[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>4. Februar</td><td>2013</td><td>1. August</td><td>2014</td></tr>
 <tr><td>Andorra\*</td><td>22. April</td><td>2014</td><td>1. August</td><td>2014</td></tr>
 <tr><td>Belgien\*</td><td>14. März</td><td>2016</td><td>1. Juli</td><td>2016</td></tr>
@@ -980,6 +980,7 @@ Geltungsbereich am 28. Oktober 2022[^t-2]
 <tr><td>Deutschland\*</td><td>12. Oktober</td><td>2017</td><td>1. Februar</td><td>2018</td></tr>
 <tr><td>Dänemark\* <sup>a</sup></td><td>23. April</td><td>2014</td><td>1. August</td><td>2014</td></tr>
 <tr><td>Estland\*</td><td>26. Oktober</td><td>2017</td><td>1. Februar</td><td>2018</td></tr>
+<tr><td>Europäische Union (EU)\*</td><td>28. Juni</td><td>2023 B</td><td>1. Oktober</td><td>2023</td></tr>
 <tr><td>Finnland\* \*\*</td><td>17. April</td><td>2015</td><td>1. August</td><td>2015</td></tr>
 <tr><td>Frankreich\*</td><td>4. Juli</td><td>2014</td><td>1. November</td><td>2014</td></tr>
 <tr><td>Georgien\*</td><td>19. Mai</td><td>2017</td><td>1. September</td><td>2017</td></tr>
@@ -988,6 +989,7 @@ Geltungsbereich am 28. Oktober 2022[^t-2]
 <tr><td>Island</td><td>26. April</td><td>2018</td><td>1. August</td><td>2018</td></tr>
 <tr><td>Italien</td><td>10. September</td><td>2013</td><td>1. August</td><td>2014</td></tr>
 <tr><td>Kroatien<sup>\*</sup></td><td>12. Juni</td><td>2018</td><td>1. Oktober</td><td>2018</td></tr>
+<tr><td>Lettland\*</td><td>10. Januar</td><td>2024</td><td>1. Mai</td><td>2024</td></tr>
 <tr><td>Liechtenstein\*</td><td>17. Juni</td><td>2021</td><td>1. Oktober</td><td>2021</td></tr>
 <tr><td>Luxemburg</td><td>7. August</td><td>2018</td><td>1. Dezember</td><td>2018</td></tr>
 <tr><td>Malta\*</td><td>29. Juli</td><td>2014</td><td>1. November</td><td>2014</td></tr>
@@ -1010,12 +1012,12 @@ Geltungsbereich am 28. Oktober 2022[^t-2]
 <tr><td>Ukraine<sup>\*</sup></td><td>18. Juli</td><td>2022</td><td>1. November</td><td>2022</td></tr>
 <tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>21. Juli</td><td>2022</td><td>1. November</td><td>2022</td></tr>
 <tr><td>Zypern\*</td><td>10. November</td><td>2017</td><td>1. März</td><td>2018</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt für den europäischen Teil der Niederlande.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int) &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt für den europäischen Teil der Niederlande.</td></tr>
 </table>
 
 ## Erklärungen
 
-[^t-2]: [AS 2018 1119](https://fedlex.data.admin.ch/eli/oc/2018/168); [2019 1833](https://fedlex.data.admin.ch/eli/oc/2019/343); [2022 639](https://fedlex.data.admin.ch/eli/oc/2022/639). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 2018 1119](https://fedlex.data.admin.ch/eli/oc/2018/168); [2019 1833](https://fedlex.data.admin.ch/eli/oc/2019/343); [2022 639](https://fedlex.data.admin.ch/eli/oc/2022/639); [2024 799](https://fedlex.data.admin.ch/eli/oc/2024/799). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 **Schweiz**[^scopeu1-lvlu1-1]
 
@@ -1024,6 +1026,7 @@ Gemäss Artikel 78 Absatz 2 des Übereinkommens behält sich die Schweiz das Rec
 - – Artikel 44 Absatz1 Buchstabe e nicht anzuwenden;
 - – Artikel 44 Absatz 3 bezüglich sexueller Gewalt gegen Erwachsene (Art. 36 des Übereinkommens) sowie Zwangsabtreibung und Zwangssterilisierung (Art. 39 des Übereinkommens) nicht anzuwenden;
 - – die Vorschriften in Artikel 55 Absatz 1 bezüglich Vergehen nicht oder nur in bestimmten Fällen oder unter bestimmten Bedingungen anzuwenden (Art. 35 des Übereinkommens);
-- – die Vorschriften in Artikel 59 nicht oder nur in bestimmten Fällen oder unter bestimmten Bedingungen anzuwenden.
+- – ...[^scopeu1-lvlu1-2]
 
 [^scopeu1-lvlu1-1]: Art. 1 Abs. 1 des BB vom 16. Juni 2017 ([AS 2018 1117](https://fedlex.data.admin.ch/eli/oc/2018/167)).
+[^scopeu1-lvlu1-2]: Auf den 1. Jan. 2025 zurückgezogen durch Notifikation vom 3. Dez. 2024 ([AS 2024 799](https://fedlex.data.admin.ch/eli/oc/2024/799)).

@@ -3,11 +3,11 @@ sr: "0.311.35"
 title: "Convenzione del Consiglio d'Europa dell' 11 maggio 2011 sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica (Convenzione di Istanbul) (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/168"
 language: it
-version: 2022-10-28
+version: 2024-12-20
 adopted: 2011-05-11
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/168/20221028/it/xml/fedlex-data-admin-ch-eli-cc-2018-168-20221028-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/168/20221028/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/168/20241220/it/xml/fedlex-data-admin-ch-eli-cc-2018-168-20241220-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/168/20241220/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (Convenzione di Istanbul)
 
-Conclusa a Istanbul l’11 maggio 2011
+Conclusa a Istanbul l’11 maggio 2011 Approvata dall’Assemblea federale il 16 giugno 2017[^t-1] Strumento di ratifica depositato dalla Svizzera il 14 dicembre 2017 Entrata in vigore per la Svizzera il 1° aprile 2018
 
-Approvata dall’Assemblea federale il 16 giugno 2017[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 14 dicembre 2017
-
-Entrata in vigore per la Svizzera il 1° aprile 2018
-
-(Stato 28 ottobre 2022)
+(Stato 20 dicembre 2024)
 
 [^t-1]: [RU 2018 1117](https://fedlex.data.admin.ch/eli/oc/2018/167)
 
@@ -78,11 +72,11 @@ hanno convenuto quanto segue:
 [^ingress-6]: [RS 0.108](https://fedlex.data.admin.ch/eli/cc/1999/239)
 [^ingress-7]: [RS 0.108.1](https://fedlex.data.admin.ch/eli/cc/2009/44)
 [^ingress-8]: [RS 0.107](https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055)
-[^ingress-9]: [RS 0.107.1](https://fedlex.data.admin.ch/eli/cc/2002/542)**/.2**
+[^ingress-9]: [RS 0.107.1](https://fedlex.data.admin.ch/eli/cc/2002/542), [0.107.2](https://fedlex.data.admin.ch/eli/cc/2006/824)
 [^ingress-10]: [RS 0.109](https://fedlex.data.admin.ch/eli/cc/2014/245)
 [^ingress-11]: [RS 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
 [^ingress-12]: [RS 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^ingress-13]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)**/.522**
+[^ingress-13]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362),[0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432)
 
 ## Capitolo I: Obiettivi, definizioni, uguaglianza e non discriminazione, obblighi generali
 
@@ -969,10 +963,10 @@ Allegato
 
 \6. I privilegi e le immunità sono concessi alle persone di cui al paragrafo 1 del presente allegato non per loro vantaggio personale, bensì per garantire l’esercizio indipendente delle loro funzioni nell’interesse del GREVIO. La revoca delle immunità concesse alle persone di cui al paragrafo 1 del presente allegato è pronunciata dal Segretario Generale del Consiglio d’Europa, in tutti i casi in cui, a suo parere, l’immunità potrebbe ostacolare il corso della giustizia e tale immunità potrebbe essere sospesa senza arrecare pregiudizio agli interessi del GREVIO.
 
-Campo d’applicazione il 28 ottobre 2022[^t-2]
+Campo d’applicazione il 20 dicembre 2024[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>4 febbraio</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Andorra\*</td><td>22 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Austria\*\*</td><td>14 novembre</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
@@ -990,6 +984,7 @@ Campo d’applicazione il 28 ottobre 2022[^t-2]
 <tr><td>Irlanda\*</td><td>8 marzo</td><td>2019</td><td>1° luglio</td><td>2019</td></tr>
 <tr><td>Islanda</td><td>26 aprile</td><td>2018</td><td>1° agosto</td><td>2018</td></tr>
 <tr><td>Italia</td><td>10 settembre</td><td>2013</td><td>1° agosto</td><td>2014</td></tr>
+<tr><td>Lettonia\*</td><td>10 gennaio</td><td>2024</td><td>1° maggio</td><td>2024</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>17 giugno</td><td>2021</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Lussemburgo</td><td>7 agosto</td><td>2018</td><td>1° dicembre</td><td>2018</td></tr>
 <tr><td>Macedonia del Nord\*</td><td>23 marzo</td><td>2018</td><td>1° luglio</td><td>2018</td></tr>
@@ -1010,10 +1005,11 @@ Campo d’applicazione il 28 ottobre 2022[^t-2]
 <tr><td>Svezia\* \*\*</td><td>1° luglio</td><td>2014</td><td>1° novembre</td><td>2014</td></tr>
 <tr><td>Svizzera\* \*\*</td><td>14 dicembre</td><td>2017</td><td>1° aprile</td><td>2018</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>18 luglio</td><td>2022</td><td>1° novembre</td><td>2022</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: https://www.coe.int/fr/web/conventions/home oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Convenzione non si applica alle Isole Faroe e alle Groenlandia. <sup>b</sup> La Convenzione si applica alla parte europea dei Paesi Bassi.</td></tr>
+<tr><td>Unione europea (UE)\*</td><td>28 giugno</td><td>2023 A</td><td>1° ottobre</td><td>2023</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faroe e alle Groenlandia. <sup>b</sup> La Conv. si applica alla parte europea dei Paesi Bassi.</td></tr>
 </table>
 
-[^t-2]: [RU 2018 1119](https://fedlex.data.admin.ch/eli/oc/2018/168); [2019 1833](https://fedlex.data.admin.ch/eli/oc/2019/343); [2022 639](https://fedlex.data.admin.ch/eli/oc/2022/639)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2018 1119](https://fedlex.data.admin.ch/eli/oc/2018/168); [2019 1833](https://fedlex.data.admin.ch/eli/oc/2019/343); [2022 639](https://fedlex.data.admin.ch/eli/oc/2022/639); [2024 799](https://fedlex.data.admin.ch/eli/oc/2024/799). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Dichiarazioni
 
@@ -1023,7 +1019,8 @@ Conformemente all’articolo 78 paragrafo 2 della Convenzione, la Svizzera si ri
 
 - – di non applicare l’articolo 44 paragrafo 1 lettera e;
 - – di non applicare l’articolo 44 paragrafo 3 per quanto concerne la violenza sessuale nei confronti degli adulti (art. 36 della Convenzione) e l’aborto forzato e la sterilizzazione forzata (art. 39 della Convenzione);
-- – di non applicare, o di applicare soltanto in casi specifici o a condizioni specifiche, le disposizioni dell’articolo 55 paragrafo 1 per quanto riguarda i reati minori (art. 35 della Convenzione);
-- – di non applicare, o di applicare soltanto in casi specifici o a condizioni specifiche, le disposizioni dell’articolo 59.
+- – di non applicare, o di applicare soltanto in casi specifici o a condizioni specifiche, le disposizioni dell’articolo 55 paragrafo 1 per quanto riguarda i reati minori (art. 35 della Convenzione).
+- – [^t-4] …
 
 [^t-3]: Art. 1 cpv. 3 del DF del 16 giu. 2017 ([RU 2018 1117](https://fedlex.data.admin.ch/eli/oc/2018/167)).
+[^t-4]: Abrogo dalla notifica del 3 dic. 2024, con effetto dal 1° gen. 2025 ([RU 2024 799](https://fedlex.data.admin.ch/eli/oc/2024/799)).
