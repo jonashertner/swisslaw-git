@@ -4,13 +4,13 @@ number: "153.3"
 title: Delegationsverordnung
 short: DelV
 language: de
-version: 2024-05-31
-valid_until: 2024-12-19
-version_adopted: 2024-05-28
+version: 2024-12-20
+valid_until: 2024-12-31
+version_adopted: 2024-12-10
 adopted: 2017-11-28
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.3"
-pdf: "https://bgs.zg.ch/api/de/versions/2572/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2572/pdf_file"
 
 (DelV)
 
-Vom 28. November 2017 (Stand 31. Mai 2024)
+Vom 28. November 2017 (Stand 20. Dezember 2024)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -33,7 +33,7 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Die Verordnung bezweckt, Entscheidungsbefugnisse in Verwaltungsangelegenheiten in einzelnen, genau bezeichneten Bereichen vom Regierungsrat an die Direktionen oder an die Staatskanzlei zu delegieren.
+<sup>1</sup> Die Verordnung bezweckt, Entscheidungsbefugnisse in Verwaltungsangelegenheiten in einzelnen, genau bezeichneten Bereichen vom Regierungsrat an die Direktionen bzw. an die Staatskanzlei zu delegieren.
 
 #### § 2
 
@@ -69,7 +69,7 @@ beschliesst:
 
 **Geschäfte der Direktionen und der Staatskanzlei**
 
-<sup>1</sup> Die Direktionen und die Staatskanzlei entscheiden über folgende Geschäfte:
+<sup>1</sup> Die jeweils zuständige Direktion bzw. die Staatskanzlei entscheidet über folgende Geschäfte:
 
 - 1\. Einholung von verwaltungsexternen Gutachten bis zum Betrag von Fr. 500'000.– mit der Möglichkeit zur Delegation an die ihnen direkt unterstellten Ämter bis zum Betrag von Fr. 150'000.– (§ 20 Abs. 1 des Kantonsratsbeschlusses über die Geschäftsordnung des Regierungsrats (GO RR) vom 26. September 2013[^3-1]);
 - 2\. Genehmigung von Vereinbarung und Verbandsordnung von Zweckverbänden (§ 45 Abs. 2 und § 46 Abs. 2 des Gesetzes über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz, GG) vom 4. September 1980[^3-2]). Zuständig ist diejenige Direktion, in deren Fachbereich das Geschäft schwergewichtsmässig fällt. Sofern die Direktion erwägt, ganz oder teilweise nicht zu genehmigen oder die Genehmigung mit Auflagen zu verbinden, ist das Geschäft dem Regierungsrat zum Entscheid vorzulegen;
@@ -78,11 +78,11 @@ beschliesst:
 - 5\. Untergeordnete Änderungen oder Ergänzungen von Leistungsvereinbarungen mit einer Vergütung über Fr. 100'000.–, sofern damit keine zusätzlichen Kosten für den Kanton entstehen; werden mit mehreren solchen Änderungen oder Ergänzungen wesentliche Vereinbarungsbestandteile geändert, ist die Zustimmung des Regierungsrats einzuholen;
 - 6\. Abschluss von Leistungsvereinbarungen des Kantons mit privaten Dritten betreffend die Übertragung öffentlicher Aufgaben des Kantons bis zu einer Vergütung von Fr. 100'000.–. Eine Delegation im Sinne von § 6 Abs. 2 des Gesetzes über die Organisation der Staatsverwaltung (Organisationsgesetz, OG) vom 29. Oktober 1998[^3-4] ist ausgeschlossen.
 
-<sup>2</sup> Die zuständige Direktion trifft im erstinstanzlichen Verwaltungsverfahren und im Verwaltungsbeschwerdeverfahren die verfahrensleitenden Entscheide, sofern die Zuständigkeit nicht bereits im Gesetz geregelt ist. Sie kann im Rahmen eines Zwischenentscheides über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes entscheiden (§ 6 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-5]).
+<sup>2</sup> Die jeweils zuständige Direktion bzw. die Staatskanzlei trifft im erstinstanzlichen Verwaltungsverfahren und im Verwaltungsbeschwerdeverfahren die verfahrensleitenden Entscheide, sofern die Zuständigkeit nicht bereits im Gesetz geregelt ist. Sie kann im Rahmen eines Zwischenentscheides über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes entscheiden (§ 6 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-5]).
 
-<sup>3</sup> Die zuständige Direktion entscheidet über Anordnung und Aufhebung einer Sistierung.
+<sup>3</sup> Die jeweils zuständige Direktion bzw. die Staatskanzlei entscheidet über Anordnung und Aufhebung einer Sistierung.
 
-<sup>4</sup> Die zuständige Direktion kann in folgenden Fällen über Gesuche, Einsprachen, Verwaltungsbeschwerden, Stimmrechtsbeschwerden, Rechtsverweigerungs- und Aufsichtsbeschwerden, die an den Regierungsrat gerichtet sind, entscheiden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-6]):
+<sup>4</sup> Die jeweils zuständige Direktion bzw. die Staatskanzlei kann in folgenden Fällen über Gesuche, Einsprachen, Verwaltungsbeschwerden, Stimmrechtsbeschwerden, Rechtsverweigerungs- und Aufsichtsbeschwerden, die an den Regierungsrat gerichtet sind, entscheiden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-6]):
 
 - 1\. Der Regierungsrat ist offensichtlich nicht zuständig.
 - 2\. Die Gesuchstellenden, die Einsprechenden oder die Beschwerdeführenden sind offensichtlich nicht zur Gesuchstellung, zur Einsprache oder zur Beschwerde legitimiert.
@@ -95,13 +95,13 @@ beschliesst:
 - 9\. Bei einer Rechtsverweigerungs- oder Rechtsverzögerungsbeschwerde ist der fehlende Entscheid von der Vorinstanz inzwischen vollständig erlassen worden.
 - 10\. Das Gesuch, die Einsprache oder die Beschwerde erweist sich aus anderen Gründen offensichtlich als gegenstandslos.
 
-<sup>5</sup> In Fällen von Abs. 4 entscheidet die zuständige Direktion im Entscheid ausserdem über Verfahrenskosten, die Parteientschädigung sowie die Bezifferung der finanziellen Entschädigung an den unentgeltlichen Rechtsbeistand. Soweit noch kein Zwischenentscheid über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes ergangen ist, wird darüber im Abschreibungsentscheid entschieden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-7]).
+<sup>5</sup> In Fällen von Abs. 4 entscheidet die jeweils zuständige Direktion bzw. die Staatskanzlei im Entscheid ausserdem über Verfahrenskosten, die Parteientschädigung sowie die Bezifferung der finanziellen Entschädigung an den unentgeltlichen Rechtsbeistand. Soweit noch kein Zwischenentscheid über die Gewährung der unentgeltlichen Rechtspflege sowie des unentgeltlichen Rechtsbeistandes ergangen ist, wird darüber im Abschreibungsentscheid entschieden (§ 6 Abs. 1 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^3-7]).
 
-<sup>6</sup> Wird gegen einen Entscheid des Regierungsrats ein Rechtsmittel ergriffen, vertritt die instruierende Direktion oder die instruierende Staatskanzlei den Regierungsrat als Vorinstanz im Rechtsmittelverfahren.
+<sup>6</sup> Wird gegen einen Entscheid des Regierungsrats ein Rechtsmittel ergriffen, vertritt die jeweils instruierende Direktion bzw. die instruierende Staatskanzlei den Regierungsrat als Vorinstanz im Rechtsmittelverfahren.
 
 <sup>7</sup> Die Staatskanzlei nimmt die gegen den Kanton zugestellten Zahlungsbefehle entgegen. Sie ist zur Erhebung des Rechtsvorschlags berechtigt und verpflichtet. Der Regierungsrat regelt die Zuständigkeiten und Abläufe in einem Beschluss.
 
-<sup>8</sup> Im Übrigen vertritt die zuständige Direktion den Kanton in Schuldbetreibungs- und Konkurssachen.
+<sup>8</sup> Im Übrigen vertritt die jeweils zuständige Direktion den Kanton in Schuldbetreibungs- und Konkurssachen.
 
 [^3-1]: BGS [151.1](https://bgs.zg.ch/data/151.1/de)
 [^3-2]: BGS [171.1](https://bgs.zg.ch/data/171.1/de)
