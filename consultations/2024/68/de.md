@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Wohnraumförderungsgesetzes (WFG)
 document: Vernehmlassungsvorlage
 language: de
