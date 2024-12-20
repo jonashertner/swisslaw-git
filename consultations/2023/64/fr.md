@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du droit de la propriété par étage (art. 712a ss CC)
 document: Projet mis en consultation
 language: fr

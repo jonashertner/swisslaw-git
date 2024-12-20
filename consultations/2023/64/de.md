@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Stockwerkeigentumsrechts (Art. 712a ff. ZGB)
 document: Vernehmlassungsvorlage
 language: de
