@@ -3,11 +3,11 @@ sr: "0.822.81"
 title: "Seearbeitsübereinkommen, 2006 vom 23. Februar 2006 (mit Regeln und Code sowie Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/530"
 language: de
-version: 2023-08-29
+version: 2024-12-23
 adopted: 2006-02-23
 in_force: 2013-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20230829/de/xml/fedlex-data-admin-ch-eli-cc-2013-530-20230829-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20230829/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20241223/de/xml/fedlex-data-admin-ch-eli-cc-2013-530-20241223-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20241223/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. Februar 2011
 
 Für die Schweiz in Kraft getreten am 20. August 2013
 
-(Stand am 29. August 2023)
+(Stand am 23. Dezember 2024)
 
 [^t-1]: [AS 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529)
 
@@ -566,7 +566,7 @@ Norm A1.4 Anwerbung und Arbeitsvermittlung
   - iii) sich vergewissern, dass alle durch sie angeworbenen oder vermittelten Seeleute qualifiziert sind, die für die betreffende Tätigkeit erforderlichen Dokumente besitzen und die Beschäftigungsverträge den geltenden Rechtsvorschriften und einem etwaigen Gesamtarbeitsvertrag, der Bestandteil des Beschäftigungsvertrags ist, entsprechen,
   - iv) soweit praktisch durchführbar sicherstellen, dass der Reeder die Mittel hat, um die Seeleute davor zu schützen, dass sie in einem ausländischen Hafen zurückgelassen werden,
   - v) jede Beschwerde betreffend ihre Tätigkeiten prüfen und darauf reagieren und die zuständige Stelle von jeder nicht geregelten Beschwerde in Kenntnis setzen,
-  - vi) ein Schutzsystem mittels einer Versicherung oder einer gleichwertigen geeigneten Massnahme einrichten, um Seeleute für finanzielle Verluste zu entschädigen, die ihnen infolge des Versäumnisses eines Anwerbungs- und Arbeitsvermittlungsdienstes oder des betreffenden Reeders aufgrund des Beschäftigungsvertrags für Seeleute, seine Verpflichtungen ihnen gegenüber zu erfüllen, entstehen können.
+  - vi)[^lvlDie-tit1-lvlu4-1] ein Schutzsystem mittels einer Versicherung oder einer gleichwertigen geeigneten Massnahme einrichten, um Seeleute für finanzielle Verluste zu entschädigen, die ihnen infolge des Versäumnisses eines Anwerbungs- und Arbeitsvermittlungsdienstes oder des betreffenden Reeders aufgrund des Beschäftigungsvertrags für Seeleute, seine Verpflichtungen ihnen gegenüber zu erfüllen, entstehen können, und dafür sorgen, dass Seeleute vor oder während der Einstellung über ihre Rechte im Rahmen dieses Systems informiert werden.
 
 \6. Die zuständige Stelle hat alle im Hoheitsgebiet des betreffenden Mitglieds tätigen Anwerbungs- und Arbeitsvermittlungsdienste genau zu überwachen und zu kontrollieren. Konzessionen oder Bewilligungen oder ähnliche Zulassungen für die Tätigkeiten von privaten Diensten im Hoheitsgebiet werden erst erteilt oder erneuert, nachdem festgestellt worden ist, dass der betreffende Anwerbungs- und Arbeitsvermittlungsdienst für Seeleute den Anforderungen der innerstaatlichen Rechtsvorschriften entspricht.
 
@@ -622,6 +622,8 @@ Leitlinie B1.4.1 Organisatorische und operative Leitlinien
 - c) die Harmonisierung der Politiken, der Arbeitsmethoden und der Gesetzgebung, die für die Anwerbung und Arbeitsvermittlung von Seeleuten massgeblich sind;
 - d) die Verbesserung der Verfahren und Bedingungen für die internationale Anwerbung und Arbeitsvermittlung von Seeleuten;
 - e) die Arbeitskräfteplanung unter Berücksichtigung des Angebots an Seeleuten und der Nachfrage nach Seeleuten sowie der Bedürfnisse des Seeschifffahrtssektors.
+
+[^lvlDie-tit1-lvlu4-1]: Fassung gemäss Ziff. I der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Titel 2 Beschäftigungsbedingungen
 
@@ -966,9 +968,11 @@ Norm A2.5.1[^lvlDie-tit2-lvlu5-1] Heimschaffung
 
 \8. Insbesondere darf ein Mitglied Seeleuten das Recht auf Heimschaffung nicht wegen der finanziellen Verhältnisse eines Reeders oder wegen dessen Unfähigkeit oder Unwilligkeit, die Seeleute zu ersetzen, verweigern.
 
-\9. Jedes Mitglied hat vorzuschreiben, dass den Seeleuten auf Schiffen unter seiner Flagge ein Abdruck der anwendbaren innerstaatlichen Vorschriften über die Heimschaffung in einer geeigneten Sprache zur Verfügung steht.
+\9. Die Mitglieder haben die unverzügliche Heimschaffung von Seeleuten zu erleichtern, insbesondere wenn sie im Sinne der Norm A2.5.2 Absatz 2 als im Stich gelassen gelten. Hafenstaaten, Flaggenstaaten und Herkunftsstaaten von Arbeitskräften haben zusammenzuarbeiten, um sicherzustellen, dass Seeleuten, die auf einem Schiff angeheuert wurden, um in ihrem Hoheitsgebiet oder auf einem Schiff unter ihrer Flagge im Stich gelassene Seeleute abzulösen, ihre Rechte und Ansprüche aus diesem Übereinkommen gewährt werden.[^lvlDie-tit2-lvlu5-3]
 
-Norm A2.5.2[^lvlDie-tit2-lvlu5-3] Finanzielle Sicherheit
+\10. Jedes Mitglied hat vorzuschreiben, dass den Seeleuten auf Schiffen unter seiner Flagge ein Abdruck der anwendbaren innerstaatlichen Vorschriften über die Heimschaffung in einer geeigneten Sprache zur Verfügung steht.[^lvlDie-tit2-lvlu5-4]
+
+Norm A2.5.2[^lvlDie-tit2-lvlu5-5] Finanzielle Sicherheit
 
 \1. Zur Umsetzung der Regel 2.5 Absatz 2 legt diese Norm Anforderungen zur Gewährleistung eines schnellen und wirksamen Systems der finanziellen Sicherheit fest, um Seeleute im Fall ihres Im-Stich-Lassens zu unterstützen.
 
@@ -1046,7 +1050,7 @@ Leitlinie B2.5.1 Ansprüche
 
 \7. Die Seeleute sollten das Recht haben, aus den vorgeschriebenen Bestimmungsorten den Ort auszuwählen, nach dem sie heimgeschafft werden sollen.
 
-\8. Der Anspruch auf Heimschaffung kann erlöschen, wenn die betreffenden Seeleute ihn nicht innerhalb einer angemessenen Frist, die durch innerstaatliche Rechtsvorschriften oder durch Gesamtarbeitsverträge festzusetzen ist, geltend machen, ausser in den Fällen, in denen sie infolge von seeräuberischen Handlungen oder bewaffneten Raubüberfällen auf Schiffe an Bord oder ausserhalb des Schiffes gefangen gehalten werden. Die Begriffe *Seeräuberei* und *bewaffneter Raubüberfall auf Schiffe* haben die gleiche Bedeutung wie in der Norm A2.1 Absatz 7.[^lvlDie-tit2-lvlu5-4]
+\8. Der Anspruch auf Heimschaffung kann erlöschen, wenn die betreffenden Seeleute ihn nicht innerhalb einer angemessenen Frist, die durch innerstaatliche Rechtsvorschriften oder durch Gesamtarbeitsverträge festzusetzen ist, geltend machen, ausser in den Fällen, in denen sie infolge von seeräuberischen Handlungen oder bewaffneten Raubüberfällen auf Schiffe an Bord oder ausserhalb des Schiffes gefangen gehalten werden. Die Begriffe *Seeräuberei* und *bewaffneter Raubüberfall auf Schiffe* haben die gleiche Bedeutung wie in der Norm A2.1 Absatz 7.[^lvlDie-tit2-lvlu5-6]
 
 Leitlinie B2.5.2 Durchführung durch die Mitglieder
 
@@ -1066,15 +1070,17 @@ Leitlinie B2.5.2 Durchführung durch die Mitglieder
 
 \3. Haben junge Seeleute unter 18 Jahren auf einem Schiff mindestens vier Monate lang während ihrer ersten Auslandsfahrt Dienst getan und stellt sich dann heraus, dass sie für das Leben auf See untauglich sind, so sollte ihnen Gelegenheit geboten werden, vom ersten geeigneten Anlaufhafen, in dem sich eine konsularische Vertretung des Flaggenstaats oder des Staatsangehörigkeits- oder Aufenthaltsstaats der jungen Seeleute befindet, heimgeschafft zu werden, ohne dass ihnen Kosten entstehen. Von jeder derartigen Heimschaffung sollte unter Angabe der Gründe die Stelle benachrichtigt werden, die den jungen Seeleuten durch Ausstellung der erforderlichen Papiere die Aufnahme einer Beschäftigung auf See ermöglicht hat.
 
-Leitlinie B2.5.3[^lvlDie-tit2-lvlu5-5] Finanzielle Sicherheit
+Leitlinie B2.5.3[^lvlDie-tit2-lvlu5-7] Finanzielle Sicherheit
 
 \1. Zur Umsetzung von Absatz 8 der Norm A2.5.2 sollte, wenn die Überprüfung der Gültigkeit bestimmter Aspekte des Antrags der Seeleute oder der von ihnen benannten Vertreter Zeit erfordert, dies die Seeleute nicht daran hindern, unverzüglich den Teil der erbetenen Unterstützung zu erhalten, der als gerechtfertigt anerkannt worden ist.
 
 [^lvlDie-tit2-lvlu5-1]: Ursprünglich: Norm A2.5 ([AS 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414))
 [^lvlDie-tit2-lvlu5-2]: [SR 0.747.323.1](https://fedlex.data.admin.ch/eli/cc/1956/723_779_787)
-[^lvlDie-tit2-lvlu5-3]: Eingefügt durch Ziff. I A der Änderungen des Dreigliedrigen Sonderausschusses vom 11. Juni 2014, in Kraft getreten am 18. Jan. 2017 ([AS 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
-[^lvlDie-tit2-lvlu5-4]: Fassung gemäss Ziff. III der Änderungen des Dreigliedrigen Sonderausschusses vom 27. April 2018, in Kraft getreten am 26. Dez. 2020 ([AS 2025 116](https://fedlex.data.admin.ch/eli/oc/2025/116)).
-[^lvlDie-tit2-lvlu5-5]: Eingefügt durch Ziff. I B der Änderungen des Dreigliedrigen Sonderausschusses vom 11. Juni 2014, in Kraft getreten am 18. Jan. 2017 ([AS 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^lvlDie-tit2-lvlu5-3]: Eingefügt durch Ziff. II der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit2-lvlu5-4]: Ursprünglich: Abs. 9.
+[^lvlDie-tit2-lvlu5-5]: Eingefügt durch Ziff. I A der Änderungen des Dreigliedrigen Sonderausschusses vom 11. Juni 2014, in Kraft getreten am 18. Jan. 2017 ([AS 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^lvlDie-tit2-lvlu5-6]: Fassung gemäss Ziff. III der Änderungen des Dreigliedrigen Sonderausschusses vom 27. April 2018, in Kraft getreten am 26. Dez. 2020 ([AS 2025 116](https://fedlex.data.admin.ch/eli/oc/2025/116)).
+[^lvlDie-tit2-lvlu5-7]: Eingefügt durch Ziff. I B der Änderungen des Dreigliedrigen Sonderausschusses vom 11. Juni 2014, in Kraft getreten am 18. Jan. 2017 ([AS 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
 
 ### **Regel 2.6**Entschädigung der Seeleute bei Schiffsverlust oder Schiffbruch
 
@@ -1285,7 +1291,7 @@ eingehalten werden.
 
 \16. Auf Schiffen, die regelmässig Häfen in Moskitogebieten anlaufen, sind entsprechend den Anforderungen der zuständigen Stelle geeignete Schutzvorrichtungen anzubringen.
 
-\17. Angemessene Einrichtungen, Angebote und Dienste zur Erholung und Freizeitgestaltung, die den besonderen Bedürfnissen der an Bord lebenden und arbeitenden Seeleute Rechnung tragen, haben für das Wohlbefinden aller Seeleute an Bord zur Verfügung zu stehen, wobei die Regel 4.3 und die dazugehörigen Bestimmungen im Code über den Schutz der Gesundheit und Sicherheit und die Unfallverhütung entsprechend zu berücksichtigen sind.
+\17. Angemessene Einrichtungen, Angebote und Dienste zur Erholung und Freizeitgestaltung, einschliesslich sozialer Konnektivität, die den besonderen Bedürfnissen jener Seeleute Rechnung tragen, die an Bord leben und arbeiten müssen, haben für das Wohlbefinden aller Seeleute an Bord zur Verfügung zu stehen, wobei die Regel 4.3 und die dazugehörigen Bestimmungen im Code für den Schutz der Gesundheit und Sicherheit und die Unfallverhütung entsprechend zu berücksichtigen sind.[^lvlDie-tit3-lvlu1-2]
 
 \18. Die zuständige Stelle hat häufige Überprüfungen durch oder unter der Verantwortung des Kapitäns auf dem Schiff vorzuschreiben, damit sichergestellt ist, dass die Unterkünfte der Seeleute sauber, angemessen wohnlich sind und sich in einem guten Allgemeinzustand befinden. Die Ergebnisse solcher Überprüfungen sind schriftlich niederzulegen und für Kontrollen bereitzuhalten.
 
@@ -1460,13 +1466,15 @@ Leitlinie B3.1.11 Freizeiteinrichtungen, Post und Vorkehrungen für Schiffsbesuc
 - g) Gelegenheit für handwerkliche Betätigung zur Entspannung;
 - h) elektronische Geräte, wie zum Beispiel Radio, Fernseher, Videorekorder, DVD/CD- Spieler, Personalcomputer und Software sowie Kassettenrekorder/-spieler;
 - i) soweit dies angebracht ist und nicht mit nationalen, religiösen und sozialen Gebräuchen im Widerspruch steht, sollte die Einrichtung von Schiffsbars für Seeleute in Erwägung gezogen werden;
-- j) angemessener Zugang zu Schiff-Land-Fernsprechverbindungen, E-Mail- und Internet-Diensten, soweit vorhanden, und etwaige Gebühren für die Benutzung dieser Dienste sollten preisgünstig sein.
+- j)[^lvlDie-tit3-lvlu1-3] angemessener Zugang zu Schiff-Land-Fernsprechverbindungen, soweit vorhanden, und etwaige Gebühren für die Benutzung dieser Dienste sollten preisgünstig sein.
 
 \5. Es sollte alles getan werden, um sicherzustellen, dass die Post der Seeleute möglichst verlässlich und unverzüglich zugestellt wird. Ferner sollte angestrebt werden, dass Seeleute kein Nachporto zu zahlen haben, wenn ihre Post aus Gründen, die sich ihrem Einfluss entziehen, umadressiert werden muss.
 
 \6. Sofern es möglich und vertretbar ist, sollten vorbehaltlich etwaiger nationaler oder internationaler Rechtsvorschriften Massnahmen getroffen werden, um zu gewährleisten, dass Seeleute zügig die Erlaubnis erhalten, bei Hafenaufenthalten Besuch von ihren Partnern, Verwandten und Freunden an Bord zu empfangen. Solche Massnahmen sollten Belange der Gefahrenabwehr berücksichtigen.
 
 \7. Sofern dies durchführbar und vertretbar ist, sollte die Möglichkeit geprüft werden, es den Seeleuten zu gestatten, sich gelegentlich von ihren Partnern auf Fahrten begleiten zu lassen. Die Partner sollten ausreichend gegen Unfall und Krankheit versichert sein; der Reeder sollte den Seeleuten beim Abschluss einer solchen Versicherung in jeder Weise behilflich sein.
+
+\8. Soweit auf angemessene Weise praktisch möglich, sollten die Reeder Seeleuten an Bord ihrer Schiffe Internetzugang ermöglichen, und etwaige Gebühren sollten preisgünstig sein.[^lvlDie-tit3-lvlu1-4]
 
 Leitlinie B3.1.12 Verhütung von Lärm und Vibrationen
 
@@ -1481,6 +1489,9 @@ Leitlinie B3.1.12 Verhütung von Lärm und Vibrationen
 \5. Unterkünfte und Freizeit- und Verpflegungseinrichtungen sollten keinen übermässigen Vibrationen ausgesetzt sein.
 
 [^lvlDie-tit3-lvlu1-1]: [SR 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^lvlDie-tit3-lvlu1-2]: Fassung gemäss Ziff. III der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit3-lvlu1-3]: Fassung gemäss Ziff. III der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit3-lvlu1-4]: Eingefügt durch Ziff. III der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### **Regel 3.2**Verpflegung einschliesslich Bedienung
 
@@ -1498,8 +1509,8 @@ Norm A3.2 Verpflegung einschliesslich Bedienung
 
 \2. Jedes Mitglied hat sicherzustellen, dass Schiffe unter seiner Flagge die folgenden Mindestnormen erfüllen:
 
-- a) eine unter Berücksichtigung der Anzahl der Seeleute an Bord, ihrer kulturellen Eigenheiten und religiösen Gebräuche, soweit sie sich auf das Essen beziehen, und der Dauer und Art der Reise nach Menge, Nährwert, Güte und Abwechslung angemessene Versorgung mit Nahrungsmitteln und Trinkwasser;
-- b) die Einrichtung und Ausstattung des Verpflegungsdienstes an Bord jedes Schiffes sind so zu gestalten, dass die Seeleute ausreichende, abwechslungsreiche und nahrhafte sowie nach hygienischen Standards zubereitete Mahlzeiten erhalten;
+- a)[^lvlDie-tit3-lvlu2-1] eine unter Berücksichtigung der Anzahl der Seeleute an Bord, ihrer religiösen Gebräuche und kulturellen Eigenheiten, soweit sie sich auf das Essen beziehen, und der Dauer und Art der Reise nach Menge, Nährwert, Güte und Abwechslung angemessene und während des Beschäftigungsverhältnisses an Bord kostenlose Versorgung mit Nahrungsmitteln und Trinkwasser;
+- b)[^lvlDie-tit3-lvlu2-2] die Einrichtung und Ausstattung des Verpflegungsdienstes an Bord jedes Schiffes sind so zu gestalten, dass die Seeleute ausreichende, abwechslungsreiche, ausgewogene und nahrhafte sowie nach hygienischen Standards zubereitete Mahlzeiten erhalten;
 - c) das Personal des Verpflegungsdienstes muss für seine Aufgaben an Bord ordnungsgemäss ausgebildet sein.
 
 \3. Reeder müssen sicherstellen, dass als Schiffskoch angestellte Seeleute hierfür ausgebildet und qualifiziert sind und die Anforderungen der innerstaatlichen Rechtsvorschriften des jeweiligen Mitglieds an die Position erfüllen.
@@ -1512,7 +1523,7 @@ Norm A3.2 Verpflegung einschliesslich Bedienung
 
 \7. In Übereinstimmung mit den Verfahren für die fortlaufende Erfüllung der Anforderungen nach Titel 5 hat die zuständige Stelle vorzuschreiben, dass häufige dokumentierte Überprüfungen durch den Kapitän oder unter seiner Verantwortung durchgeführt werden in Bezug auf:
 
-- a) die Verpflegungs- und Trinkwasservorräte;
+- a)[^lvlDie-tit3-lvlu2-3] die Verpflegungs- und Trinkwasservorräte in Bezug auf Menge, Nährwert, Güte und Abwechslung;
 - b) alle Räume und Ausrüstungsgegenstände, die der Lagerung von Verpflegung und Trinkwasser dienen;
 - c) Küchen und andere Ausrüstungen für die Zubereitung und das Servieren von Speisen.
 
@@ -1540,6 +1551,10 @@ Leitlinie B3.2.2 Schiffsköche
 \2. Die vorgeschriebene Prüfung und die Ausstellung der Zeugnisse können entweder unmittelbar durch die zuständige Stelle oder, unter ihrer Aufsicht, durch eine anerkannte Kochschule vorgenommen werden.
 
 \3. Die zuständige Stelle sollte die Möglichkeit der Anerkennung von Befähigungszeugnissen vorsehen, die von anderen Mitgliedern, die dieses Übereinkommen oder das Übereinkommen (Nr. 69) über den Befähigungsausweis für Schiffsköche, 1946, ratifiziert haben, oder von anderen anerkannten Stellen ausgestellt worden sind.
+
+[^lvlDie-tit3-lvlu2-1]: Fassung gemäss Ziff. IV der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit3-lvlu2-2]: Fassung gemäss Ziff. IV der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit3-lvlu2-3]: Fassung gemäss Ziff. IV der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Titel 4 Gesundheitsschutz, medizinische Betreuung, soziale Betreuung und Gewährleistung der sozialen Sicherheit
 
@@ -1576,6 +1591,10 @@ Norm A4.1 Medizinische Betreuung an Bord und an Land
 - c) auf Schiffen ohne Arzt muss mindestens eine Person, der im Rahmen ihrer normalen Pflichten die medizinische Betreuung und die Verabreichung von Arzneimitteln obliegt, oder mindestens eine Person, die für die Erteilung von medizinischer Erster Hilfe zuständig ist, an Bord vorhanden sein; die für die medizinische Betreuung an Bord zuständigen Personen, die keine Ärzte sind, müssen einen von der zuständigen Stelle anerkannten Lehrgang für medizinische Betreuung erfolgreich abgeschlossen haben, der den Anforderungen des STCW, entspricht; Seeleute, die für die Erteilung der medizinischen Ersten Hilfe verantwortlich sind, müssen eine Ausbildung in Erster Hilfe erfolgreich abgeschlossen haben, die die Anforderungen des STCW erfüllt; die innerstaatlichen Rechtsvorschriften haben die Ebene der geforderten anerkannten Ausbildung unter Berücksichtigung von Faktoren wie Dauer, Art und Umstände der Reise sowie Anzahl der an Bord befindlichen Seeleute festzulegen;
 - d) die zuständige Stelle hat durch vorsorgliche Massnahmen sicherzustellen, dass eine funk- oder satellitenfunkärztliche Beratung einschliesslich fachärztlicher Beratung den Schiffen auf See rund um die Uhr zur Verfügung steht; eine solche ärztliche Beratung, einschliesslich der Übertragung ärztlicher Mitteilungen über Funk oder Satellitenfunk zwischen einem Schiff und dem Beratungspersonal an Land, hat allen Schiffen ungeachtet der Flagge, die sie führen, kostenfrei zur Verfügung zu stehen.
 
+\5. Jedes Mitglied hat zu gewährleisten, dass Seeleute auf Schiffen in seinem Hoheitsgebiet, die eine sofortige medizinische Betreuung benötigen, unverzüglich ausgeschifft werden und für eine angemessene Behandlung Zugang zu medizinischen Einrichtungen an Land erhalten.[^lvlDie-tit4-lvlu1-1]
+
+\6. Versterben Seeleute während der Reise eines Schiffes, so hat das Mitglied, in dessen Hoheitsgebiet der Todesfall eingetreten ist, oder, wenn der Todesfall auf hoher See eingetreten ist, in dessen Hoheitsgewässer das Schiff als nächstes einläuft, die Überführung des Leichnams oder der Asche in das Heimatland durch den Reeder zu erleichtern, gemäss den Wünschen der Seeleute oder ihrer nächsten Angehörigen, soweit dies angemessen ist.[^lvlDie-tit4-lvlu1-2]
+
 Leitlinie B4.1 Medizinische Betreuung an Bord und an Land
 
 Leitlinie B4.1.1 Medizinische Betreuungsmassnahmen
@@ -1611,6 +1630,18 @@ Leitlinie B4.1.3 Medizinische Betreuung an Land
 
 \3. Es sollten geeignete Massnahmen ergriffen werden, um die Behandlung kranker Seeleute zu erleichtern. Insbesondere sollten Seeleute unverzüglich in Kliniken und Krankenhäuser in den Häfen aufgenommen werden, ohne Behinderung sowie ohne Unterschied der Staatsangehörigkeit oder des Glaubensbekenntnisses, und, soweit dies möglich ist, sollten Vorkehrungen zur Ergänzung der ihnen zur Verfügung stehenden Behandlungsmöglichkeiten getroffen werden, um dadurch nötigenfalls die Fortdauer der Behandlung zu gewährleisten.
 
+\4. Jedes Mitglied sollte sicherstellen, dass Seeleute nicht aus Gründen der öffentlichen Gesundheit daran gehindert werden, von Bord zu gehen, und dass es ihnen möglich ist, die Vorräte der Läden an Bord sowie die Vorräte an Treibstoff, Wasser, Lebensmitteln und Versorgungsgütern aufzufüllen.[^lvlDie-tit4-lvlu1-3]
+
+\5. Es sollte davon ausgegangen werden, dass Seeleute insbesondere in den folgenden Fällen sofortige medizinische Betreuung benötigen:
+
+- a) jede schwere Verletzung oder Krankheit;
+- b) jede Verletzung oder Krankheit, die zu einer vorübergehenden oder dauerhaften Behinderung führen kann;
+- c) jede übertragbare Krankheit, bei der das Risiko einer Übertragung an andere Mannschaftsmitglieder besteht;
+- d) jede Verletzung mit Knochenbrüchen, starken Blutungen, gebrochenen oder entzündeten Zähnen oder schweren Verbrennungen;
+- e) starke Schmerzen, die an Bord des Schiffes nicht behandelt werden können, unter Berücksichtigung des Betriebsmusters des Schiffs, der Verfügbarkeit geeigneter Schmerzmittel und der gesundheitlichen Auswirkungen ihrer längeren Einnahme;
+- f) Selbstmordgefahr;
+- g) ein telemedizinischer Beratungsdienst, der eine Behandlung an Land empfiehlt.[^lvlDie-tit4-lvlu1-4]
+
 Leitlinie B4.1.4 Medizinische Hilfe für andere Schiffe und internationale Zusammenarbeit
 
 \1. Die Mitglieder sollten erwägen, sich an der internationalen Zusammenarbeit im Bereich der Hilfe, Programme und Forschung auf dem Gebiet des Gesundheitsschutzes und der medizinischen Betreuung zu beteiligen. Diese Zusammenarbeit könnte sich auf Folgendes erstrecken:
@@ -1631,13 +1662,19 @@ Leitlinie B4.1.4 Medizinische Hilfe für andere Schiffe und internationale Zusam
 - h) Erhebung und Auswertung von Statistiken über Arbeitsunfälle, Berufskrankheiten und Todesfälle von Seeleuten und Eingliederung der Statistiken in das bestehende innerstaatliche System von Statistiken über Arbeitsunfälle und Berufskrankheiten anderer Arbeitnehmergruppen unter Abstimmung mit diesem System;
 - i) Organisierung des internationalen Austauschs von technischen Informationen, Ausbildungsmaterial und Personal sowie internationaler Ausbildungslehrgänge, Seminare und Arbeitsgruppen;
 - j) Bereitstellung besonderer Gesundheits- und medizinischer Dienste zur Behandlung und Vorbeugung für alle Seeleute in den Häfen oder Ermöglichung ihres Zugangs zu den allgemeinen Gesundheits-, medizinischen und Rehabilitationsdiensten;
-- k) Veranlassung der Überführung der Leichname oder der Asche verstorbener Seeleute in das Heimatland gemäss den Wünschen der nächsten Angehörigen und sobald dies möglich ist.
+- k)[^lvlDie-tit4-lvlu1-5] Veranlassung der Überführung der Leichname oder der Asche verstorbener Seeleute in das Heimatland, gemäss ihren Wünschen oder den Wünschen ihrer nächsten Angehörigen, soweit dies angemessen und sobald dies möglich ist.
 
 \2. Die internationale Zusammenarbeit auf dem Gebiet des Gesundheitsschutzes und der medizinischen Betreuung der Seeleute sollte auf bi- oder multilateralen Übereinkünften oder auf Konsultationen zwischen den Mitgliedern beruhen.
 
 Leitlinie B4.1.5 Angehörige von Seeleuten
 
 \1. Jedes Mitglied sollte Massnahmen zur Gewährleistung einer ordnungsmässigen und ausreichenden medizinischen Betreuung für die in seinem Hoheitsgebiet wohnenden Angehörigen der Seeleute vorsehen, in Erwartung der Entwicklung eines medizinischen Betreuungsdienstes für alle Arbeitnehmer und ihre Angehörigen, wo ein solcher Dienst nicht besteht, und es sollte das Internationale Arbeitsamt über die zu diesem Zweck ergriffenen Massnahmen informieren.
+
+[^lvlDie-tit4-lvlu1-1]: Eingefügt durch Ziff. V der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu1-2]: Eingefügt durch Ziff. V der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu1-3]: Eingefügt durch Ziff. V der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu1-4]: Eingefügt durch Ziff. V der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu1-5]: Fassung gemäss Ziff. V der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### **Regel 4.2**Verpflichtungen der Reeder
 
@@ -1743,7 +1780,7 @@ Norm A4.3 Schutz der Gesundheit und Sicherheit und Unfallverhütung
 \1. Die Rechtsvorschriften und anderen Massnahmen, die gemäss der Regel 4.3 Absatz 3 zu erlassen sind, haben Folgendes zu umfassen:
 
 - a) die Annahme und effektive Umsetzung sowie Förderung von Politiken und Programmen im Bereich des Arbeitsschutzes auf Schiffen unter der Flagge des Mitglieds, einschliesslich Risikobewertung sowie Ausbildung und Unterweisung von Seeleuten;
-- b) angemessene Vorkehrungen zur Verhütung von Arbeitsunfällen und Berufskrankheiten an Bord von Schiffen, einschliesslich Massnahmen zur Reduzierung und Verhütung des Risikos einer schädlichen Exposition gegenüber Umweltfaktoren und Chemikalien und von Verletzungs- oder Krankheitsrisiken, die durch den Einsatz von Anlagen und Maschinen an Bord auftreten können;
+- b)[^lvlDie-tit4-lvlu3-1] angemessene Vorkehrungen zur Verhütung von Arbeitsunfällen und Berufskrankheiten an Bord von Schiffen, einschliesslich durch die Bereitstellung aller erforderlichen persönlicher Schutzausrüstung in angemessener Grösse und einschliesslich von Massnahmen zur Reduzierung und Verhütung des Risikos einer schädlichen Exposition gegenüber Umweltfaktoren und Chemikalien und von Verletzungs- oder Krankheitsrisiken, die durch den Einsatz von Anlagen und Maschinen an Bord auftreten können;
 - c) Programme an Bord für die Verhütung von Arbeitsunfällen und Berufskrankheiten sowie für ständige Verbesserungen von Arbeitssicherheit und Gesundheitsschutz unter Einbeziehung von Vertretern der Seeleute und aller anderen Personen, die ein Interesse an der Umsetzung dieser Massnahmen haben, unter Berücksichtigung von Präventivmassnahmen, einschliesslich Technik- und Konstruktionskontrolle, Substitution von Prozessen und Verfahren für kollektive und individuelle Aufgaben und der Verwendung persönlicher Schutzausrüstung;
 - d) Anforderungen für die Überprüfung, Meldung und Beseitigung von unsicheren Arbeitsbedingungen sowie die Untersuchung und Meldung von Arbeitsunfällen an Bord.
 
@@ -1758,11 +1795,12 @@ Norm A4.3 Schutz der Gesundheit und Sicherheit und Unfallverhütung
 
 \4. Die Anforderungen dieses Übereinkommens gelten als erfüllt, wenn die Anforderungen der anwendbaren internationalen Instrumente über eine zulässige Exposition gegenüber Arbeitsplatzgefahren an Bord von Schiffen und über die Entwicklung und Umsetzung der Politiken und Programme im Bereich des Arbeitsschutzes der Schiffe erfüllt werden.
 
-\5. Die zuständige Stelle hat sicherzustellen, dass:
+\5. Jedes Mitglied hat sicherzustellen, dass:[^lvlDie-tit4-lvlu3-2]
 
-- a) Arbeitsunfälle und Berufskrankheiten ordnungsgemäss gemeldet werden, wobei die Leitlinien der Internationalen Arbeitsorganisation über die Meldung und Aufzeichnung von Arbeitsunfällen und Berufskrankheiten zu berücksichtigen sind;
-- b) umfassende Statistiken über solche Unfälle und Krankheiten geführt, ausgewertet und veröffentlicht werden, gegebenenfalls mit anschliessenden Untersuchungen über allgemeine Unfalltendenzen und die ermittelten Gefahren;
-- c) Arbeitsunfälle untersucht werden.
+- a)[^lvlDie-tit4-lvlu3-3] alle Todesfälle von Seeleuten, die an Bord von Schiffen unter seiner Flagge beschäftigt, angeheuert oder tätig sind, angemessen untersucht und aufgezeichnet und dem Generaldirektor des Internationalen Arbeitsamtes auf jährlicher Grundlage zur Veröffentlichung in einem globalen Register gemeldet werden;
+- b)[^lvlDie-tit4-lvlu3-4] Arbeitsunfälle und Berufskrankheiten ordnungsgemäss gemeldet werden, wobei die Leitlinien der Internationalen Arbeitsorganisation über die Meldung und Aufzeichnung von Arbeitsunfällen und Berufskrankheiten zu berücksichtigen sind;
+- c)[^lvlDie-tit4-lvlu3-5] umfassende Statistiken über solche Unfälle und Krankheiten geführt, ausgewertet und veröffentlicht werden, gegebenenfalls mit anschliessenden Untersuchungen über allgemeine Unfalltendenzen und die ermittelten Gefahren;
+- d)[^lvlDie-tit4-lvlu3-6] Arbeitsunfälle untersucht werden.
 
 \6. Die Berichte und Untersuchungen über Arbeitsschutzbelange sind so zu gestalten, dass der Schutz der personenbezogenen Daten der Seeleute sichergestellt ist, und haben die Anleitungen zu berücksichtigen, die hierzu von der Internationalen Arbeitsorganisation veröffentlicht worden sind.
 
@@ -1774,7 +1812,7 @@ Leitlinie B4.3 Schutz der Gesundheit und Sicherheit und Unfallverhütung
 
 Leitlinie B4.3.1 Bestimmungen über Arbeitsunfälle und Berufskrankheiten
 
-\1. Die nach der Norm A4.3 zu erlassenden Bestimmungen sollten der Richtliniensammlung *Die Unfallverhütung an Bord von Schiffen auf See und im Hafen, 1996*, in der jeweils neuesten Fassung und anderen IAO- sowie sonstigen internationalen Normen, Leitlinien und Richtliniensammlungen über Arbeitssicherheit und Gesundheitsschutz, einschliesslich der gegebenenfalls angegebenen Expositionsgrenzwerte, Rechnung tragen. Ferner sollte die neueste Fassung der gemeinsam von der Internationalen Schifffahrtskammer und der Internationalen Transportarbeiter-Föderation veröffentlichten *Guidance on eliminating shipboard harassment and bullying* berücksichtigt werden.[^lvlDie-tit4-lvlu3-1]
+\1. Die nach der Norm A4.3 zu erlassenden Bestimmungen sollten der Richtliniensammlung *Die Unfallverhütung an Bord von Schiffen auf See und im Hafen, 1996*, in der jeweils neuesten Fassung und anderen IAO- sowie sonstigen internationalen Normen, Leitlinien und Richtliniensammlungen über Arbeitssicherheit und Gesundheitsschutz, einschliesslich der gegebenenfalls angegebenen Expositionsgrenzwerte, Rechnung tragen. Ferner sollte die neueste Fassung der gemeinsam von der Internationalen Schifffahrtskammer und der Internationalen Transportarbeiter-Föderation veröffentlichten *Guidance on eliminating shipboard harassment and bullying* berücksichtigt werden.[^lvlDie-tit4-lvlu3-7]
 
 \2. Die zuständige Stelle sollte sicherstellen, dass die innerstaatlichen Leitlinien für das Arbeitsschutzmanagement sich insbesondere auf Folgendes beziehen:
 
@@ -1804,7 +1842,7 @@ Leitlinie B4.3.1 Bestimmungen über Arbeitsunfälle und Berufskrankheiten
 - a) Massnahmen bei Notfällen und Unfällen;
 - b) die Auswirkungen von Drogen- und Alkoholabhängigkeit;
 - c) HIV/Aids-Schutz und -Prävention;
-- d)[^lvlDie-tit4-lvlu3-2] Belästigung und Mobbing.
+- d)[^lvlDie-tit4-lvlu3-8] Belästigung und Mobbing.
 
 Leitlinie B4.3.2 Exposition gegenüber Lärm
 
@@ -1830,7 +1868,7 @@ Leitlinie B4.3.4 Verpflichtungen der Reeder
 
 \1. Jede Verpflichtung des Reeders zur Bereitstellung von Schutzausrüstung und anderen der Unfallverhütung dienenden Mitteln sollte im Allgemeinen mit Anweisungen verbunden werden, wonach die Seeleute gehalten sind, sie zu verwenden und sich an die einschlägigen Unfallverhütungs- und Gesundheitsschutzmassnahmen zu halten.
 
-\2. Ferner sollten die Artikel 7 und 11 des Übereinkommens (Nr. 119) über den Maschinenschutz[^lvlDie-tit4-lvlu3-3], 1963, und die entsprechenden Bestimmungen der Empfehlung (Nr. 118) betreffend den Maschinenschutz, 1963, berücksichtigt werden; danach obliegt dem Arbeitgeber die Verpflichtung zur Durchführung der Bestimmung, dass nur Maschinen mit geeigneten Schutzvorrichtungen verwendet werden dürfen und dass ihre Verwendung ohne geeignete Schutzvorrichtungen zu verhindern ist, während der Arbeitnehmer keine Maschine verwenden darf, deren Schutzvorrichtungen nicht ordnungsgemäss angebracht sind, und Schutzvorrichtungen nicht unwirksam machen darf.
+\2. Ferner sollten die Artikel 7 und 11 des Übereinkommens (Nr. 119) über den Maschinenschutz[^lvlDie-tit4-lvlu3-9], 1963, und die entsprechenden Bestimmungen der Empfehlung (Nr. 118) betreffend den Maschinenschutz, 1963, berücksichtigt werden; danach obliegt dem Arbeitgeber die Verpflichtung zur Durchführung der Bestimmung, dass nur Maschinen mit geeigneten Schutzvorrichtungen verwendet werden dürfen und dass ihre Verwendung ohne geeignete Schutzvorrichtungen zu verhindern ist, während der Arbeitnehmer keine Maschine verwenden darf, deren Schutzvorrichtungen nicht ordnungsgemäss angebracht sind, und Schutzvorrichtungen nicht unwirksam machen darf.
 
 Leitlinie B4.3.5 Meldung und Erhebung von Statistiken
 
@@ -1839,6 +1877,10 @@ Leitlinie B4.3.5 Meldung und Erhebung von Statistiken
 \2. Die in Absatz 1 dieser Leitlinie genannten Statistiken sollten Aufschluss geben über die Zahl, die Art, die Ursachen und die Folgen von Arbeitsunfällen und Berufskrankheiten, gegebenenfalls mit klarer Angabe des Unfallorts auf dem Schiff, der Art des Unfalls und ob sich der Unfall auf See oder im Hafen ereignet hat.
 
 \3. Jedes Mitglied sollte jedes von der Internationalen Arbeitsorganisation gegebenenfalls eingeführte internationale System oder Modell für die Aufzeichnung von Unfällen von Seeleuten gebührend berücksichtigen.
+
+\4. Die gemäss Absatz 5 Buchstabe a) der Norm A4.3 zu meldenden Daten über Todesfälle sollten in einem Format und unter Anwendung einer Klassifizierung erfolgen, die das Internationale Arbeitsamt festlegt.[^lvlDie-tit4-lvlu3-10]
+
+\5. Die Daten über Todesfälle sollten unter anderem Informationen enthalten über die Art (Klassifizierung) des Todesfalls, Schiffstyp und Bruttoraumzahl, Ort des Todesfalls (auf See, im Hafen, vor Anker) sowie Geschlecht, Alter, berufliche Stellung und Dienstbereich der Seeleute.[^lvlDie-tit4-lvlu3-11]
 
 Leitlinie B4.3.6 Untersuchungen
 
@@ -1852,7 +1894,7 @@ Leitlinie B4.3.6 Untersuchungen
 - d) Probleme, die sich aus der physischen Beanspruchung an Bord, insbesondere durch erhöhten Arbeitsanfall, ergeben;
 - e) Probleme und Auswirkungen der technischen Entwicklung und deren Einfluss auf die Zusammensetzung der Besatzungen;
 - f) Probleme, die sich infolge menschlichen Versagens ergeben;
-- g)[^lvlDie-tit4-lvlu3-4] Probleme, die sich aus Belästigung und Mobbing ergeben.
+- g)[^lvlDie-tit4-lvlu3-12] Probleme, die sich aus Belästigung und Mobbing ergeben.
 
 Leitlinie B4.3.7 Innerstaatliche Schutz- und Verhütungsprogramme
 
@@ -1926,10 +1968,18 @@ Leitlinie B4.3.11 Internationale Zusammenarbeit
 - e) Zusammenarbeit bei der Herstellung und Verwendung von Ausbildungshilfen;
 - f) gemeinsame Einrichtungen für die Ausbildung von Seeleuten in Arbeitssicherheit und Gesundheitsschutz sowie Unfallverhütung und in sicheren Arbeitspraktiken oder gegenseitige Unterstützung bei dieser Ausbildung.
 
-[^lvlDie-tit4-lvlu3-1]: Satz eingefügt durch Ziff. I der Änderungen des Dreigliedrigen Sonderausschusses vom 10. Febr. 2016, in Kraft getreten am 8. Jan. 2019 ([AS 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
-[^lvlDie-tit4-lvlu3-2]: Eingefügt durch Ziff. I der Änderungen des Dreigliedrigen Sonderausschusses vom 10. Febr. 2016, in Kraft getreten am 8. Jan. 2019 ([AS 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
-[^lvlDie-tit4-lvlu3-3]: [SR 0.822.721.9](https://fedlex.data.admin.ch/eli/cc/1993/1738_1738_1738)
-[^lvlDie-tit4-lvlu3-4]: Eingefügt durch Ziff. I der Änderungen des Dreigliedrigen Sonderausschusses vom 10. Febr. 2016, in Kraft getreten am 8. Jan. 2019 ([AS 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
+[^lvlDie-tit4-lvlu3-1]: Fassung gemäss Ziff. VI der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-2]: Fassung gemäss Ziff. VI der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-3]: Eingefügt durch Ziff. VI der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-4]: Ursprünglich: Bst. a).
+[^lvlDie-tit4-lvlu3-5]: Ursprünglich: Bst. b).
+[^lvlDie-tit4-lvlu3-6]: Ursprünglich: Bst. c).
+[^lvlDie-tit4-lvlu3-7]: Satz eingefügt durch Ziff. I der Änderungen des Dreigliedrigen Sonderausschusses vom 10. Febr. 2016, in Kraft getreten am 8. Jan. 2019 ([AS 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
+[^lvlDie-tit4-lvlu3-8]: Eingefügt durch Ziff. I der Änderungen des Dreigliedrigen Sonderausschusses vom 10. Febr. 2016, in Kraft getreten am 8. Jan. 2019 ([AS 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
+[^lvlDie-tit4-lvlu3-9]: [SR 0.822.721.9](https://fedlex.data.admin.ch/eli/cc/1993/1738_1738_1738)
+[^lvlDie-tit4-lvlu3-10]: Eingefügt durch Ziff. VI der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-11]: Eingefügt durch Ziff. VI der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-12]: Eingefügt durch Ziff. I der Änderungen des Dreigliedrigen Sonderausschusses vom 10. Febr. 2016, in Kraft getreten am 8. Jan. 2019 ([AS 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
 
 ### **Regel 4.4**Zugang zu Sozialeinrichtungen an Land
 
@@ -1986,13 +2036,15 @@ Leitlinie B4.4.2 Sozialeinrichtungen und -dienste im Hafen
 
 \4. Diese Einrichtungen können bereitgestellt werden, indem Seeleuten entsprechend ihren Bedürfnissen für die Allgemeinheit bestimmte Einrichtungen zugänglich gemacht werden.
 
-\5. Müssen für zahlreiche Seeleute verschiedener Staatsangehörigkeit Einrichtungen wie Hotels, Klubs und Sportanlagen in einem bestimmten Hafen bereitgestellt werden, so sollten die zuständigen Stellen oder Organe der Herkunftsländer der Seeleute und der Flaggenstaaten sowie die betreffenden internationalen Vereinigungen mit den zuständigen Stellen oder Organen des Landes, in dem der Hafen liegt, und untereinander beratend zusammenarbeiten, um ihre Mittel zusammenzulegen und unnötige Duplikationen zu vermeiden.
+\5. Soweit auf angemessene Weise praktisch möglich, sollten die Mitglieder Seeleuten an Bord von Schiffen in ihren Häfen und dazugehörigen Ankerplätzen Internetzugang ermöglichen, und etwaige Gebühren sollten preisgünstig sein.[^lvlDie-tit4-lvlu4-1]
 
-\6. Für Seeleute geeignete Hotels oder Heime sollten dort zur Verfügung stehen, wo ein entsprechender Bedarf besteht. Sie sollten wie ein Hotel guter Klasse eingerichtet sein und nach Möglichkeit in einer ansprechenden Umgebung und nicht in unmittelbarer Nähe der Hafenanlagen gelegen sein. Diese Hotels oder Heime sollten in geeigneter Weise überprüft werden, die Preise sollten günstig sein, und es sollten, soweit notwendig und möglich, Vorkehrungen für die Unterbringung der Familien von Seeleuten getroffen werden.
+\6. Müssen für zahlreiche Seeleute verschiedener Staatsangehörigkeit Einrichtungen wie Hotels, Klubs und Sportanlagen in einem bestimmten Hafen bereitgestellt werden, so sollten die zuständigen Stellen oder Organe der Herkunftsländer der Seeleute und der Flaggenstaaten sowie die betreffenden internationalen Vereinigungen mit den zuständigen Stellen oder Organen des Landes, in dem der Hafen liegt, und untereinander beratend zusammenarbeiten, um ihre Mittel zusammenzulegen und unnötige Duplikationen zu vermeiden.[^lvlDie-tit4-lvlu4-2]
 
-\7. Diese Unterkünfte sollten allen Seeleuten, ungeachtet der Staatsangehörigkeit, der Rasse, der Hautfarbe, des Geschlechts, der Religion, der politischen Ansicht oder der sozialen Herkunft und ungeachtet des Flaggenstaats des Schiffs, auf dem sie beschäftigt oder angeheuert sind oder arbeiten, offen stehen. Unbeschadet dieses Grundsatzes kann sich in bestimmten Häfen die Notwendigkeit ergeben, verschiedenartige Einrichtungen bereitzustellen, die zwar den gleichen Normen entsprechen, aber den Gebräuchen und Bedürfnissen verschiedener Gruppen von Seeleuten angepasst sind.
+\7. Für Seeleute geeignete Hotels oder Heime sollten dort zur Verfügung stehen, wo ein entsprechender Bedarf besteht. Sie sollten wie ein Hotel guter Klasse eingerichtet sein und nach Möglichkeit in einer ansprechenden Umgebung und nicht in unmittelbarer Nähe der Hafenanlagen gelegen sein. Diese Hotels oder Heime sollten in geeigneter Weise überprüft werden, die Preise sollten günstig sein, und es sollten, soweit notwendig und möglich, Vorkehrungen für die Unterbringung der Familien von Seeleuten getroffen werden.[^lvlDie-tit4-lvlu4-3]
 
-\8. Es sollten Massnahmen getroffen werden, die gewährleisten, dass je nach Notwendigkeit in den Sozialeinrichtungen und -diensten für Seeleute neben freiwilligen Mitarbeitern fachkundiges Personal vollzeitbeschäftigt wird.
+\8. Diese Unterkünfte sollten allen Seeleuten, ungeachtet der Staatsangehörigkeit, der Rasse, der Hautfarbe, des Geschlechts, der Religion, der politischen Ansicht oder der sozialen Herkunft und ungeachtet des Flaggenstaats des Schiffs, auf dem sie beschäftigt oder angeheuert sind oder arbeiten, offen stehen. Unbeschadet dieses Grundsatzes kann sich in bestimmten Häfen die Notwendigkeit ergeben, verschiedenartige Einrichtungen bereitzustellen, die zwar den gleichen Normen entsprechen, aber den Gebräuchen und Bedürfnissen verschiedener Gruppen von Seeleuten angepasst sind.[^lvlDie-tit4-lvlu4-4]
+
+\9. Es sollten Massnahmen getroffen werden, die gewährleisten, dass je nach Notwendigkeit in den Sozialeinrichtungen und -diensten für Seeleute neben freiwilligen Mitarbeitern fachkundiges Personal vollzeitbeschäftigt wird.[^lvlDie-tit4-lvlu4-5]
 
 Leitlinie B4.4.3 Sozialbeiräte
 
@@ -2040,6 +2092,12 @@ Leitlinie B4.4.6 Seeleute in einem ausländischen Hafen
 \4. Jedes Mitglied sollte, sofern erforderlich, Massnahmen treffen, um sicherzustellen, dass Seeleute vor Überfällen und anderen ungesetzlichen Handlungen geschützt sind, während sich die Schiffe in seinen Hoheitsgewässern und insbesondere im Hafenzufahrtsbereich befinden.
 
 \5. Die Verantwortlichen in den Häfen und an Bord sollten sich bemühen, nach der Ankunft des Schiffes im Hafen den Seeleuten so rasch wie möglich Landgang zu ermöglichen.
+
+[^lvlDie-tit4-lvlu4-1]: Eingefügt durch Ziff. III der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu4-2]: Ursprünglich: Abs. 5.
+[^lvlDie-tit4-lvlu4-3]: Ursprünglich: Abs. 6.
+[^lvlDie-tit4-lvlu4-4]: Ursprünglich: Abs. 7.
+[^lvlDie-tit4-lvlu4-5]: Ursprünglich: Abs. 8.
 
 ### **Regel 4.5**Soziale Sicherheit
 
@@ -2534,7 +2592,7 @@ Anhang A2-I[^t-2]
 
 ## Nachweis der finanziellen Sicherheit gemäss Regel 2.5 Absatz 2
 
-[^t-2]: Eingefügt durch Ziff. I C der Änderungen des Dreigliedrigen Sonderausschusses vom 11. Juni 2014, in Kraft getreten am 18. Jan. 2017 ([AS 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^t-2]: Eingefügt durch Ziff. I C der Änderungen des Dreigliedrigen Sonderausschusses vom 11. Juni 2014 ([AS 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)). Bereinigt gemäss Ziff. VII der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 Das Zertifikat oder ein anderer Nachweis gemäss der Norm A2.5.2 Absatz 7 hat folgende Angaben zu enthalten:
 
@@ -2544,7 +2602,7 @@ Das Zertifikat oder ein anderer Nachweis gemäss der Norm A2.5.2 Absatz 7 hat fo
 - d) IMO-Nummer des Schiffs;
 - e) Name und Anschrift des Anbieters bzw. der Anbieter der finanziellen Sicherheit;
 - f) Kontaktinformationen der Personen oder der Stelle, die für die Behandlung der Hilfeersuchen der Seeleute zuständig sind;
-- g) Name des Reeders;
+- g) Name des Reeders oder des eingetragenen Eigners, wenn es sich nicht um den Reeder handelt;
 - h) Gültigkeitsdauer der finanziellen Sicherheit;
 - i) eine Bescheinigung des Anbieters der finanziellen Sicherheit, der zufolge die finanzielle Sicherheit den Anforderungen der Norm A2.5.2 genügt.
 
@@ -2552,7 +2610,7 @@ Anhang A4-I[^t-3]
 
 ## Nachweis der finanziellen Sicherheit gemäss Regel 4.2
 
-[^t-3]: Eingefügt durch Ziff. II C der Änderungen des Dreigliedrigen Sonderausschusses vom 11. Juni 2014, in Kraft getreten am 18. Jan. 2017 ([AS 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^t-3]: Eingefügt durch Ziff. II C der Änderungen des Dreigliedrigen Sonderausschusses vom 11. Juni 2014 ([AS 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)). Bereinigt gemäss Ziff. VII der Änderungen des Dreigliedrigen Sonderausschusses vom 13. Mai 2022, in Kraft getreten am 23. Dez. 2024 ([AS 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 Das Zertifikat oder ein anderer Nachweis der finanziellen Sicherheit gemäss der Norm A4.2.1 Absatz 14 hat folgende Angaben zu enthalten:
 
@@ -2562,7 +2620,7 @@ Das Zertifikat oder ein anderer Nachweis der finanziellen Sicherheit gemäss der
 - d) IMO-Nummer des Schiffs;
 - e) Name und Anschrift des Anbieters bzw. der Anbieter der finanziellen Sicherheit;
 - f) Kontaktinformationen der Personen oder der Stelle, die für die Behandlung der Hilfeersuchen der Seeleute zuständig sind;
-- g) Name des Reeders;
+- g) Name des Reeders oder des eingetragenen Eigners, wenn es sich nicht um den Reeder handelt;
 - h) Gültigkeitsdauer der finanziellen Sicherheit;
 - i) eine Bescheinigung des Anbieters der finanziellen Sicherheit, der zufolge die finanzielle Sicherheit den Anforderungen der Norm A4.2.1 genügt.
 

@@ -3,11 +3,11 @@ sr: "0.822.81"
 title: "Convention du travail maritime, 2006 du 23 février 2006 (avec règles, code et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/530"
 language: fr
-version: 2023-08-29
+version: 2024-12-23
 adopted: 2006-02-23
 in_force: 2013-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20230829/fr/xml/fedlex-data-admin-ch-eli-cc-2013-530-20230829-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20230829/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20241223/fr/xml/fedlex-data-admin-ch-eli-cc-2013-530-20241223-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20241223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 21 février 2011
 
 Entrée en vigueur pour la Suisse le 20 août 2013
 
-(État le 29 août 2023)
+(État le 23 décembre 2024)
 
 [^t-1]: [RO 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529)
 
@@ -589,7 +589,7 @@ Tout Membre adoptant le système mentionné au par. 2 de la présente norme doit
   - iii) vérifient que les gens de mer recrutés ou placés par leur intermédiaire possèdent les qualifications requises et détiennent les documents nécessaires pour l’emploi considéré, et que les contrats d’engagement maritime sont conformes à la législation et à toute convention collective incluse dans le contrat,
   - iv) s’assurent, dans la mesure où cela est réalisable, que l’armateur a les moyens d’éviter que les gens de mer ne soient abandonnés dans un port étranger,
   - v) examinent toute plainte concernant leurs activités et y répondent et avisent l’autorité compétente des plaintes pour lesquelles aucune solution n’a été trouvée,
-  - vi) mettent en place un système de protection, sous la forme d’une assurance ou d’une mesure équivalente appropriée, pour indemniser les gens de mer ayant subi des pertes pécuniaires du fait que le service de recrutement et de placement ou l’armateur en vertu du contrat d’engagement maritime n’a pas rempli ses obligations à leur égard.
+  - vi)[^14-subdivu2-1] mettent en place un système de protection, sous la forme d’une assurance ou d’une mesure équivalente appropriée, pour indemniser les gens de mer ayant subi des pertes pécuniaires du fait que le service de recrutement et de placement ou l’armateur en vertu du contrat d’engagement maritime n’a pas rempli ses obligations à leur égard et s’assurent que les gens de mer sont informés, avant ou au moment de leur engagement, de leurs droits prévus dans le cadre dudit système.
 
 <sup>6.</sup> L’autorité compétente supervise et contrôle étroitement tous les services de recrutement et de placement des gens de mer opérant sur le territoire du Membre concerné. Les licences ou agréments ou autres autorisations permettant de gérer un service privé sur le territoire sont accordés ou renouvelés seulement après vérification que le service de recrutement et de placement concerné remplit les conditions prévues par la législation nationale.
 
@@ -600,6 +600,8 @@ Tout Membre adoptant le système mentionné au par. 2 de la présente norme doit
 <sup>9.</sup> Tout Membre doit exiger que les armateurs de navires battant son pavillon qui utilisent des services de recrutement et de placement des gens de mer établis dans des pays ou territoires auxquels la présente Convention ne s’applique pas s’assurent, dans la mesure du possible, que ces services respectent les prescriptions de la présente norme.
 
 <sup>10.</sup> Rien dans la présente norme n’a pour effet de réduire les obligations et responsabilités des armateurs ou d’un Membre en ce qui concerne les navires battant son pavillon.
+
+[^14-subdivu2-1]: Nouvelle teneur selon le ch. I des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Principe directeur B1.4 Recrutement et placement
 
@@ -1050,9 +1052,13 @@ Si un armateur omet de prendre des dispositions pour le rapatriement d’un mari
 
 <sup>8.</sup> En particulier, un Membre ne doit pas refuser à un marin le droit d’être rapatrié du fait de la situation financière d’un armateur ou au motif que celui-ci est dans l’impossibilité ou refuse de remplacer l’intéressé.
 
-<sup>9.</sup> Tout Membre exige que, sur les navires battant son pavillon, une copie des dispositions nationales applicables au rapatriement soit détenue et mise à la disposition des gens de mer, dans la langue qui convient.
+<sup>9.</sup> Les Membres doivent faciliter le prompt rapatriement des gens de mer, y compris lorsqu’ils sont considérés comme ayant été abandonnés au sens du par. 2 de la norme A2.5.2. Les États du port, les États du pavillon et les États fournisseurs de main-d’œuvre coopèrent pour garantir que les gens de mer engagés à bord d’un navire pour remplacer ceux qui ont été abandonnés sur leur territoire, ou sur un navire battant leur pavillon, bénéficieront des droits et des prestations prévus par la présente convention.[^25-subdivu2-3]
+
+<sup>10.</sup> Tout Membre exige que, sur les navires battant son pavillon, une copie des dispositions nationales applicables au rapatriement soit détenue et mise à la disposition des gens de mer, dans la langue qui convient.[^25-subdivu2-4]
 
 [^25-subdivu2-2]: [RS 0.747.323.1](https://fedlex.data.admin.ch/eli/cc/1956/723_779_787)
+[^25-subdivu2-3]: Introduit par le ch. II des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^25-subdivu2-4]: Anciennement par. 9
 
 ### Norme A2.5.2 Garantie financière
 
@@ -1413,7 +1419,7 @@ En ce qui concerne les prescriptions pour les installations sanitaires:
 
 <sup>16.</sup> Les navires touchant régulièrement des ports infestés de moustiques doivent être équipés en conséquence selon les prescriptions de l’autorité compétente.
 
-<sup>17.</sup> Des installations, commodités et services de loisirs appropriés, adaptés aux besoins particuliers des gens de mer qui doivent vivre et travailler à bord des navires, sont mis à la disposition de tous les gens de mer à bord, en tenant compte des dispositions de la règle 4.3 et des dispositions correspondantes du code qui ont trait à la protection de la santé et de la sécurité et à la prévention des accidents.
+<sup>17.</sup> Des installations, commodités et services de loisirs appropriés, y compris la connectivité sociale, adaptés aux besoins particuliers des gens de mer qui doivent vivre et travailler à bord des navires, sont mis à la disposition de tous les gens de mer à bord, en tenant compte des dispositions de la règle 4.3 et des dispositions correspondantes du code qui ont trait à la protection de la santé et de la sécurité et à la prévention des accidents.[^31-subdivu2-2]
 
 <sup>18.</sup> L’autorité compétente doit exiger que des inspections fréquentes soient menées à bord des navires par le capitaine ou sous son autorité, de façon à ce que le logement des gens de mer soit maintenu en bon état d’entretien et de propreté et offre des conditions d’habitabilité décentes. Les résultats de chaque inspection sont consignés par écrit et sont disponibles pour consultation.
 
@@ -1429,6 +1435,7 @@ Tout Membre peut, après consultation des organisations d’armateurs et de gens
 <sup>21.</sup> Des dérogations aux prescriptions de la présente norme ne seront possibles que dans les cas expressément prévus dans ladite norme et seulement dans des circonstances particulières où des motifs solides peuvent être invoqués pour les justifier et sous réserve de protéger la santé et la sécurité des gens de mer.
 
 [^31-subdivu2-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^31-subdivu2-2]: Nouvelle teneur selon le ch. III des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Principe directeur B3.1 Logement et loisirs
 
@@ -1608,13 +1615,18 @@ Lorsque cela est réalisable, il faudrait aussi envisager de fournir gratuitemen
 - g) des moyens de réaliser des travaux d’artisanat pour se détendre;
 - h) des appareils électroniques tels que radios, télévisions, magnétoscopes, lecteurs de CD/DVD, ordinateurs, logiciels, magnétophones à cassettes;
 - i) s’il y a lieu, des bars pour les gens de mer, à moins que cela ne soit contraire aux habitudes nationales, religieuses ou sociales;
-- j) un accès raisonnable à des communications téléphoniques avec la terre ainsi qu’à des services de messagerie électronique et à Internet, s’il y a lieu, le cas échéant pour un tarif raisonnable.
+- j)[^31-subdivu14-1] un accès raisonnable à des communications téléphoniques avec la terre, s’il y a lieu, le cas échéant pour un tarif raisonnable.
 
 <sup>5.</sup> Tout devrait être mis en œuvre pour que le courrier des gens de mer soit acheminé dans les conditions les plus sûres et les plus rapides possible. Des efforts devraient aussi être envisagés pour éviter que les gens de mer n’aient à payer des frais supplémentaires lorsque le courrier leur est réexpédié par suite de circonstances indépendantes de leur volonté.
 
 <sup>6.</sup> Des mesures devraient être envisagées pour garantir, sous réserve de la législation nationale ou internationale applicable, que, chaque fois que cela est possible et raisonnable, les gens de mer obtiennent rapidement l’autorisation de recevoir leur partenaire ou leurs parents et amis à bord de leur navire à titre de visiteurs quand celui-ci se trouve au port. Ces mesures devraient tenir compte des autorisations requises à des fins de sûreté.
 
 <sup>7.</sup> La possibilité d’autoriser les gens de mer à être accompagnés de leur partenaire de temps à autre lors d’un voyage devrait être prise en considération, lorsque cela est possible et raisonnable. Les partenaires devraient être munis d’une assurance adéquate couvrant les risques d’accident et de maladie; l’armateur devrait accorder aux gens de mer tout son concours pour contracter cette assurance.
+
+<sup>8.</sup> Les armateurs devraient, pour autant que cela est raisonnablement possible, fournir aux gens de mer à bord de leurs navires un accès à Internet, le cas échéant pour un tarif raisonnable.[^31-subdivu14-2]
+
+[^31-subdivu14-1]: Nouvelle teneur selon le ch. III des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^31-subdivu14-2]: Introduit par le ch. III des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Principe directeur B3.1.12 Prévention du bruit et des vibrations
 
@@ -1648,8 +1660,8 @@ Objet: assurer aux gens de mer une alimentation de bonne qualité, y compris l�
 
 Tout Membre veille à ce que les navires qui battent son pavillon observent les normes minimales suivantes:
 
-- a) un approvisionnement suffisant en vivres et en eau potable, d’une valeur nutritive, d’une qualité et d’une variété satisfaisantes, compte tenu du nombre de gens de mer à bord, de leur religion et de leurs habitudes culturelles en matière alimentaire ainsi que de la durée et de la nature du voyage;
-- b) un aménagement et un équipement du service de cuisine et de table qui permettent de fournir aux gens de mer des repas convenables, variés et nutritifs, préparés et servis dans des conditions d’hygiène satisfaisantes;
+- a)[^32-subdivu2-1] un approvisionnement suffisant en vivres et en eau potable, d’une valeur nutritive, d’une qualité et d’une variété satisfaisantes, compte tenu du nombre de gens de mer à bord, de leur religion et de leurs habitudes culturelles en matière alimentaire ainsi que de la durée et de la nature du voyage, et assuré gratuitement pendant la période d’engagement;
+- b)[^32-subdivu2-2] un aménagement et un équipement du service de cuisine et de table qui permettent de fournir aux gens de mer des repas convenables, variés, équilibrés et nutritifs, préparés et servis dans des conditions d’hygiène satisfaisantes;
 - c) un personnel de cuisine et de table convenablement formé ou ayant reçu l’instruction nécessaire.
 
 <sup>3.</sup> Les armateurs veillent à ce que les gens de mer engagés comme cuisinier de navire soient formés, qualifiés et reconnus compétents pour le poste conformément aux dispositions de la législation du Membre concerné.
@@ -1664,11 +1676,15 @@ Tout Membre veille à ce que les navires qui battent son pavillon observent les 
 
 Conformément aux procédures prévues au titre 5 en matière de conformité continue des dispositions, l’autorité compétente exige que des inspections documentées fréquentes soient menées à bord des navires, par le capitaine ou sous son autorité, dans les domaines suivants:
 
-- a) l’approvisionnement en vivres et en eau potable;
+- a)[^32-subdivu2-3] l’approvisionnement en vivres et en eau potable en ce qui concerne leur quantité, leur valeur nutritionnelle, leur qualité et leur variété;
 - b) tous locaux et équipements utilisés pour le stockage et la manipulation des vivres et de l’eau potable;
 - c) la cuisine et toute autre installation utilisée pour la préparation et le service des repas.
 
 <sup>8.</sup> Aucun marin de moins de 18 ans ne doit être employé ou engagé ou travailler comme cuisinier de navire.
+
+[^32-subdivu2-1]: Nouvelle teneur selon le ch. IV des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^32-subdivu2-2]: Nouvelle teneur selon le ch. IV des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^32-subdivu2-3]: Nouvelle teneur selon le ch. IV des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Principe directeur B3.2 Alimentation et service de table
 
@@ -1736,6 +1752,13 @@ La législation nationale exige au minimum le respect des prescriptions suivante
 - c) les navires n’ayant pas de médecin à bord doivent compter au moins un marin chargé des soins médicaux et de l’administration des médicaments dans le cadre de ses fonctions normales ou un marin apte à administrer les premiers secours. Les gens de mer chargés d’assurer les soins médicaux à bord et qui ne sont pas médecins doivent avoir suivi avec succès une formation aux soins médicaux qui soit conforme aux dispositions de la Convention internationale de 1978 sur les normes de formation des gens de mer, de délivrance des brevets et de veille, telle que modifiée (STCW). Les gens de mer chargés d’administrer les premiers secours doivent avoir suivi avec succès une formation aux premiers secours, conforme aux dispositions de la STCW. La législation nationale précise le niveau de formation exigé compte tenu notamment de facteurs comme la durée, la nature et les conditions des voyages, ainsi que le nombre de gens de mer à bord;
 - d) l’autorité compétente prend les mesures voulues pour que des consultations médicales par radio ou par satellite, y compris des conseils de spécialistes, soient possibles pour les navires en mer, à toute heure. Ces consultations médicales, y compris la transmission par radio ou par satellite de messages médicaux entre un navire et les personnes à terre donnant des conseils, sont assurées gratuitement à tous les navires, quel que soit leur pavillon.
 
+<sup>5.</sup> Tout Membre s’assure que les gens de mer ayant besoin de soins médicaux immédiats soient rapidement débarqués des navires qui se trouvent sur son territoire et aient accès à des installations médicales à terre pour recevoir un traitement approprié.[^41-subdivu2-1]
+
+<sup>6.</sup> Lorsqu’un marin décède au cours du voyage d’un navire, le Membre sur le territoire duquel le décès survient ou, si le décès survient en haute mer, dans les eaux territoriales duquel le navire entre ensuite, facilite le rapatriement du corps ou des cendres par l’armateur, conformément aux souhaits du marin ou de ses parents les plus proches, selon le cas.[^41-subdivu2-2]
+
+[^41-subdivu2-1]: Introduit par le ch. V des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^41-subdivu2-2]: Introduit par le ch. V des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+
 ### Principe directeur B4.1 Soins médicaux à bord des navires et à terre
 
 ### Principe directeur B4.1.1 Fourniture de soins médicaux
@@ -1775,6 +1798,23 @@ Des mesures devraient être prises pour que les gens de mer, dans les ports, pui
 
 <sup>3.</sup> Des mesures appropriées devraient être prises pour faciliter le traitement des gens de mer malades. En particulier, les gens de mer devraient être promptement admis dans les cliniques et les hôpitaux à terre, sans difficulté et sans distinction de nationalité ou de confession, et, dans toute la mesure possible, des dispositions devraient être prises pour assurer, lorsque cela est nécessaire, la continuité du traitement complétant l’action des services sanitaires qui leur sont ouverts.
 
+<sup>4.</sup> Chaque Membre devrait veiller à ce que les gens de mer ne soient pas empêchés de débarquer pour des raisons de santé publique et à ce qu’ils puissent réapprovisionner les magasins du navire et reconstituer ses réserves en carburant, eau, vivres et provisions.[^41-subdivu6-1]
+
+<sup>5.</sup>
+
+Les gens de mer devraient être considérés comme requérant des soins médicaux immédiats entre autres dans les cas suivants:
+
+- a) lésion ou maladie grave;
+- b) lésion ou maladie qui pourrait entraîner une incapacité temporaire ou permanente;
+- c) maladie transmissible risquant de se propager à d’autres membres de l’équipage;
+- d) lésion due à une fracture, un saignement important, une dent cassée ou une inflammation dentaire ou une brûlure grave;
+- e) douleurs intenses ne pouvant pas être traitées à bord du navire, compte tenu du mode d’exploitation de ce dernier, de la disponibilité d’analgésiques appropriés et des effets sur la santé de la prise prolongée desdits analgésiques;
+- f) risque de suicide;
+- g) traitement à terre recommandé par un service consultatif de télémédecine.[^41-subdivu6-2]
+
+[^41-subdivu6-1]: Introduit par le ch. V des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^41-subdivu6-2]: Introduit par le ch. V des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+
 ### Principe directeur B4.1.4 Assistance médicale aux autres navires et coopération internationale
 
 <sup>1.</sup>
@@ -1797,9 +1837,11 @@ Tout Membre devrait dûment envisager de participer à la coopération internati
 - h) collecter et évaluer les statistiques sur les accidents du travail, les maladies professionnelles et les décès de gens de mer et les intégrer dans le système national de statistiques sur les accidents du travail et les maladies professionnelles couvrant d’autres catégories de travailleurs, en les harmonisant avec ce système;
 - i) organiser des échanges internationaux d’informations techniques, de matériel pédagogique et de personnel enseignant ainsi que des cours de formation, des séminaires et des groupes de travail internationaux;
 - j) assurer à tous les gens de mer des services de santé et des services médicaux, curatifs et préventifs, qui leur soient spécialement destinés dans les ports ou mettre à leur disposition des services généraux médicaux, de santé et de rééducation;
-- k) prendre les dispositions nécessaires en vue de rapatrier, dès que cela est possible, le corps ou les cendres des gens de mer décédés, conformément aux souhaits de leurs parents les plus proches.
+- k)[^41-subdivu7-1] prendre les dispositions nécessaires en vue de rapatrier, dès que cela est possible, le corps ou les cendres des gens de mer décédés, conformément à leurs souhaits ou à ceux de leurs parents les plus proches, selon le cas.
 
 <sup>2.</sup> La coopération internationale dans le domaine de la protection de la santé et des soins médicaux des gens de mer devrait se fonder sur des accords bilatéraux ou multilatéraux ou des consultations entre Membres.
+
+[^41-subdivu7-1]: Nouvelle teneur selon le ch. V des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Principe directeur B4.1.5 Personnes à la charge des gens de mer
 
@@ -1935,7 +1977,7 @@ La législation nationale prévoit que le dispositif de garantie financière des
 La législation et les autres mesures à adopter conformément au par. 3 de la règle 4.3 couvrent les sujets suivants:
 
 - a) l’adoption et l’application effective ainsi que la promotion de politiques et programmes de sécurité et de santé au travail à bord des navires qui battent le pavillon du Membre, y compris l’évaluation des risques et la formation et l’instruction des gens de mer;
-- b) les précautions raisonnables afin de prévenir les accidents du travail et les lésions et maladies professionnelles à bord des navires, y compris les mesures visant à réduire et à prévenir les risques d’exposition à des niveaux nocifs de facteurs ambiants et de produits chimiques, ainsi que les risques de lésion ou de maladie pouvant résulter de l’utilisation de l’équipement et des machines à bord des navires;
+- b)[^43-subdivu2-1] les précautions raisonnables afin de prévenir les accidents du travail et les lésions et maladies professionnelles à bord des navires, y compris par la fourniture de tout équipement de protection individuelle nécessaire dans des tailles appropriées et des mesures visant à réduire et à prévenir les risques d’exposition à des niveaux nocifs de facteurs ambiants et de produits chimiques, ainsi que les risques de lésion ou de maladie pouvant résulter de l’utilisation de l’équipement et des machines à bord des navires;
 - c) des programmes à bord visant la prévention des accidents du travail et des lésions et maladies professionnelles, ainsi qu’une amélioration constante de la protection de la sécurité et de la santé au travail, avec la participation des représentants des gens de mer et de toutes autres personnes intéressées à leur mise en œuvre, en tenant compte des mesures de prévention, y compris le contrôle de la conception et les mesures d’ingénierie, le remplacement des processus et procédures applicables aux tâches collectives et individuelles et l’utilisation de l’équipement de protection individuelle;
 - d) les prescriptions relatives à l’inspection, à la notification et à la correction des situations dangereuses ainsi qu’à l’enquête sur les accidents du travail survenus à bord et à leur notification.
 
@@ -1954,17 +1996,25 @@ Les dispositions prévues au par. 1 de la présente norme doivent:
 
 <sup>5.</sup>
 
-L’autorité compétente veille à ce que:
+Tout Membre veille à ce que:[^43-subdivu2-2]
 
-- a) les accidents du travail et les lésions et maladies professionnelles soient dûment déclarés, en tenant compte des orientations fournies par l’OIT au sujet de la notification et de l’enregistrement des accidents du travail et des maladies professionnelles;
-- b) des statistiques complètes de ces accidents et maladies soient tenues, analysées et publiées et, s’il y a lieu, suivies par des recherches sur les tendances générales et les risques identifiés;
-- c) les accidents du travail fassent l’objet d’une enquête.
+- a)[^43-subdivu2-3] tous les décès de gens de mer employés, engagés ou travaillant à bord de navires battant son pavillon fassent l’objet d’une enquête appropriée, soient dûment enregistrés et soient déclarés chaque année au Directeur général du Bureau international du Travail en vue de leur publication dans un registre mondial;
+- b)[^43-subdivu2-4] les accidents du travail et les lésions et maladies professionnelles soient dûment déclarés, en tenant compte des orientations fournies par l’OIT au sujet de la notification et de l’enregistrement des accidents du travail et des maladies professionnelles;
+- c)[^43-subdivu2-5] des statistiques complètes de ces accidents et maladies soient tenues, analysées et publiées et, s’il y a lieu, suivies par des recherches sur les tendances générales et les risques identifiés;
+- d)[^43-subdivu2-6] les accidents du travail fassent l’objet d’une enquête.
 
 <sup>6.</sup> Les déclarations et enquêtes relatives aux questions de sécurité et de santé au travail sont de nature à garantir la protection des données personnelles des gens de mer et tiennent compte des orientations fournies par l’OIT à ce sujet.
 
 <sup>7.</sup> L’autorité compétente coopère avec les organisations d’armateurs et de gens de mer afin de prendre des mesures pour informer tous les gens de mer des risques particuliers rencontrés à bord des navires sur lesquels ils travaillent, par exemple par l’affichage d’avis officiels exposant les instructions à ce sujet.
 
 <sup>8.</sup> L’autorité compétente exige des armateurs, lorsqu’ils évaluent les risques dans le cadre de la gestion de la sécurité et de la santé au travail, qu’ils se réfèrent aux informations statistiques appropriées émanant de leurs navires et aux statistiques générales fournies par l’autorité compétente.
+
+[^43-subdivu2-1]: Nouvelle teneur selon le ch. VI des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^43-subdivu2-2]: Nouvelle teneur selon le ch. VI des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^43-subdivu2-3]: Introduit par le ch. VI des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^43-subdivu2-4]: Anciennement al. a)
+[^43-subdivu2-5]: Anciennement al. b)
+[^43-subdivu2-6]: Anciennement al. c)
 
 ### Principe directeur B4.3 Protection de la santé et de la sécurité et prévention des accidents
 
@@ -2048,6 +2098,13 @@ L’examen visé au par. 1 du présent principe directeur devrait inclure les ef
 <sup>2.</sup> Les statistiques visées au par. 1 du présent principe directeur devraient porter sur le nombre, la nature, les causes et les conséquences des accidents, des lésions et des maladies professionnels et préciser, le cas échéant, dans quel service du navire l’accident s’est produit, le type d’accident et s’il est survenu en mer ou dans un port.
 
 <sup>3.</sup> Tout Membre devrait tenir dûment compte de tout système ou modèle international d’enregistrement des accidents des gens de mer éventuellement établi par l’OIT.
+
+<sup>4.</sup> Les données relatives aux décès qui doivent être déclarés conformément à l’al. a) du par. 5 de la norme A4.3 devraient être présentées selon les modalités et la classification déterminées par le Bureau international du Travail.[^43-subdivu8-1]
+
+<sup>5.</sup> Les données relatives aux décès devraient inclure entre autres des informations sur le type (classification) du décès, le type et la jauge brute du navire, le lieu du décès (en mer, dans un port, à un poste de mouillage), et le sexe, l’âge, la fonction et le service du marin.[^43-subdivu8-2]
+
+[^43-subdivu8-1]: Introduit par le ch. VI des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^43-subdivu8-2]: Introduit par le ch. VI des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Principe directeur B4.3.6 Enquêtes
 
@@ -2212,13 +2269,21 @@ Les installations nécessaires de bien-être et de loisirs devraient être cré�
 
 <sup>4.</sup> Ces installations peuvent être fournies en mettant à la disposition des gens de mer, selon leurs besoins, les installations destinées à un usage plus général.
 
-<sup>5.</sup> Lorsqu’un grand nombre de gens de mer de différentes nationalités ont besoin, dans un port déterminé, de certaines installations telles qu’hôtels, clubs ou installations sportives, les autorités ou les institutions compétentes de leurs pays d’origine et des États du pavillon ainsi que les associations internationales intéressées devraient procéder à des consultations et coopérer entre elles, de même qu’avec les autorités et les organes compétents du pays dans lequel le port est situé, en vue de mettre leurs ressources en commun et d’éviter les doubles emplois inutiles.
+<sup>5.</sup> Les Membres devraient, pour autant que cela est raisonnablement possible, fournir aux gens de mer à bord des navires se trouvant dans leurs ports et à leurs postes de mouillage associés, un accès à Internet, le cas échéant pour un tarif raisonnable.[^44-subdivu5-1]
 
-<sup>6.</sup> Il devrait y avoir des hôtels ou foyers adaptés aux besoins des gens de mer, là où cela est nécessaire. Ils devraient offrir des services équivalant à ceux d’un hôtel de bonne classe et devraient, autant que possible, être bien situés et ne pas se trouver à proximité immédiate des installations portuaires. Ces hôtels ou foyers devraient être soumis à un contrôle approprié, les prix devraient être raisonnables et, lorsque cela est nécessaire et réalisable, des dispositions devraient être prises pour permettre de loger les familles des gens de mer.
+<sup>6.</sup> Lorsqu’un grand nombre de gens de mer de différentes nationalités ont besoin, dans un port déterminé, de certaines installations telles qu’hôtels, clubs ou installations sportives, les autorités ou les institutions compétentes de leurs pays d’origine et des États du pavillon ainsi que les associations internationales intéressées devraient procéder à des consultations et coopérer entre elles, de même qu’avec les autorités et les organes compétents du pays dans lequel le port est situé, en vue de mettre leurs ressources en commun et d’éviter les doubles emplois inutiles.[^44-subdivu5-2]
 
-<sup>7.</sup> Ces installations devraient être ouvertes à tous les gens de mer sans distinction de nationalité, de race, de couleur, de sexe, de religion, d’opinion politique ou d’origine sociale et quel que soit l’État du pavillon du navire à bord duquel ils sont employés ou engagés ou travaillent. Sans contrevenir de quelque manière que ce soit à ce principe, il pourrait être nécessaire, dans certains ports, de prévoir plusieurs types d’installations d’un niveau comparable mais adaptées aux coutumes et aux besoins des différents groupes de gens de mer.
+<sup>7.</sup> Il devrait y avoir des hôtels ou foyers adaptés aux besoins des gens de mer, là où cela est nécessaire. Ils devraient offrir des services équivalant à ceux d’un hôtel de bonne classe et devraient, autant que possible, être bien situés et ne pas se trouver à proximité immédiate des installations portuaires. Ces hôtels ou foyers devraient être soumis à un contrôle approprié, les prix devraient être raisonnables et, lorsque cela est nécessaire et réalisable, des dispositions devraient être prises pour permettre de loger les familles des gens de mer.[^44-subdivu5-3]
 
-<sup>8.</sup> Des dispositions devraient être prises pour que, dans la mesure où cela est nécessaire, du personnel qualifié soit employé à plein temps, en plus d’éventuels agents bénévoles, pour la gestion des installations et services de bien-être des gens de mer.
+<sup>8.</sup> Ces installations devraient être ouvertes à tous les gens de mer sans distinction de nationalité, de race, de couleur, de sexe, de religion, d’opinion politique ou d’origine sociale et quel que soit l’État du pavillon du navire à bord duquel ils sont employés ou engagés ou travaillent. Sans contrevenir de quelque manière que ce soit à ce principe, il pourrait être nécessaire, dans certains ports, de prévoir plusieurs types d’installations d’un niveau comparable mais adaptées aux coutumes et aux besoins des différents groupes de gens de mer.[^44-subdivu5-4]
+
+<sup>9.</sup> Des dispositions devraient être prises pour que, dans la mesure où cela est nécessaire, du personnel qualifié soit employé à plein temps, en plus d’éventuels agents bénévoles, pour la gestion des installations et services de bien-être des gens de mer.[^44-subdivu5-5]
+
+[^44-subdivu5-1]: Introduit par le ch. III des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^44-subdivu5-2]: Anciennement par. 5
+[^44-subdivu5-3]: Anciennement par. 6
+[^44-subdivu5-4]: Anciennement par. 7
+[^44-subdivu5-5]: Anciennement par. 8
 
 ### Principe directeur B4.4.3 Conseils du bien-être
 
@@ -2826,7 +2891,7 @@ Annexe A2-I[^t-2]
 
 ## Preuves de la garantie financière prescrites par la règle 2.5, par. 2
 
-[^t-2]: Introduite par le ch. I C des Am. adoptés par la Commission tripartite spéciale le 11 avr. 2014, en vigueur depuis le 18 janv. 2017 ([RO 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^t-2]: Introduite par le ch. I C des Am. adoptés par la Commission tripartite spéciale le 11 avr. 2014 ([RO 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)). Mise à jour par le ch. VII des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 Le certificat ou toute autre preuve documentaire visée au par. 7 de la norme A2.5.2, doit inclure les renseignements suivants:
 
@@ -2836,7 +2901,7 @@ Le certificat ou toute autre preuve documentaire visée au par. 7 de la norme A2
 - d) le numéro OMI du navire;
 - e) le nom et l’adresse du prestataire ou des prestataires de la garantie financière;
 - f) les coordonnées des personnes ou de l’entité chargée de traiter les demandes d’assistance des gens de mer;
-- g) le nom de l’armateur;
+- g) le nom de l’armateur ou du propriétaire inscrit, s’il diffère de l’armateur;
 - h) la durée de validité de la garantie financière;
 - i) une attestation du prestataire de la garantie financière selon laquelle la garantie financière satisfait aux exigences de la norme A2.5.2.
 
@@ -2844,7 +2909,7 @@ Annexe A4-I[^t-3]
 
 ## Preuves de la garantie financière prévue à la règle 4.2
 
-[^t-3]: Introduite par le ch. II C des Am. adoptés par la Commission tripartite spéciale le 11 avr. 2014, en vigueur depuis le 18 janv. 2017 ([RO 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^t-3]: Introduite par le ch. II C des Am. adoptés par la Commission tripartite spéciale le 11 avr. 2014 ([RO 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)). Mise à jour par le ch. VII des Am. adoptés par la Commission tripartite spéciale le 13 mai 2022, en vigueur depuis le 23 déc. 2024 ([RO 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 Le certificat ou toute autre preuve documentaire de la garantie financière prescrit au par. 14 de la norme A4.2.1 doit inclure les informations suivantes:
 
@@ -2854,7 +2919,7 @@ Le certificat ou toute autre preuve documentaire de la garantie financière pres
 - d) le numéro OMI du navire;
 - e) le nom et l’adresse du prestataire ou des prestataires de la garantie financière;
 - f) les coordonnées des personnes ou de l’entité chargée de traiter les demandes d’assistance des gens de mer;
-- g) le nom de l’armateur;
+- g) le nom de l’armateur ou du propriétaire inscrit, s’il diffère de l’armateur;
 - h) la durée de validité de la garantie financière;
 - i) une attestation du prestataire de la garantie financière selon laquelle la garantie financière satisfait aux exigences de la norme A4.2.1.
 

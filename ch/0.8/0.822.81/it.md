@@ -3,11 +3,11 @@ sr: "0.822.81"
 title: "Convenzione sul lavoro marittimo, 2006 del 23 febbraio 2006 (con norme, codice e allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/530"
 language: it
-version: 2023-08-29
+version: 2024-12-23
 adopted: 2006-02-23
 in_force: 2013-08-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20230829/it/xml/fedlex-data-admin-ch-eli-cc-2013-530-20230829-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20230829/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/530/20241223/it/xml/fedlex-data-admin-ch-eli-cc-2013-530-20241223-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/530/20241223/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Ginevra il 23 febbraio 2006 Approvata dall’Assemblea federale il 1° ottobre 2010[^t-1] Documento di ratifica svizzero depositato il 21 febbraio 2011 Entrata in vigore per la Svizzera il 20 agosto 2013
 
-(Stato 29 agosto 2023)
+(Stato 23 dicembre 2024)
 
 [^t-1]: [RU 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529)
 
@@ -560,7 +560,7 @@ Norma A1.4 Reclutamento e collocamento
   - iii) verifichino che i marittimi reclutati o collocati tramite la loro mediazione possiedano le qualificazioni necessarie e detengano i documenti necessari per l’occupazione in questione, e che i contratti di impiego marittimo siano conformi alle leggi, ai regolamenti applicabili e ad ogni accordo di contrattazione collettiva che faccia parte del contratto di arruolamento,
   - iv) si assicurino, per quanto possibile, che l’armatore abbia i mezzi per evitare che i marittimi siano abbandonati in un porto straniero,
   - v) esaminino e rispondano ad ogni reclamo concernente le loro attività ed avvisino l’autorità competente di ogni reclamo non risolto,
-  - vi) realizzino un sistema tutorio, mediante un’assicurazione o un’altra adeguata misura equivalente, mirante ad indennizzare i marittimi che abbia subito perdite pecuniarie nella quale possano incorrere per il fatto che il servizio di reclutamento e collocamento oppure il pertinente armatore soggetto al contratto di lavoro marittimo non abbiano onorato i loro obblighi nei loro confronti.
+  - vi)[^lvlDie-tit1-lvlu4-1] realizzino un sistema tutorio, mediante un’assicurazione o un’altra adeguata misura equivalente, mirante ad indennizzare i marittimi che abbiano subito perdite pecuniarie nelle quali possono incorrere per il fatto che il servizio di reclutamento e collocamento oppure il pertinente armatore soggetto al contratto di lavoro marittimo non abbiano onorato i loro obblighi nei loro confronti, e si assicurino che i marittimi siano informati, prima o al momento dell’arruolamento, dei loro diritti previsti nel quadro del suddetto sistema.
 
 \6. L’autorità competente deve attentamente sorvegliare e controllare tutti i servizi di reclutamento e collocamento dei marittimi che operano sul territorio dello Stato Membro interessato. Ogni licenza o certificato o altra autorizzazione che permetta il funzionamento di servizi privati sul territorio è concessa o rinnovata solamente previa verifica che il servizio di reclutamento e collocamento interessato soddisfi le condizioni previste dalle leggi e dai regolamenti nazionali.
 
@@ -616,6 +616,8 @@ Linea guida B1.4.1 Linee guida organizzative ed operative
 - c) la armonizzazione delle politiche, dei metodi di lavoro e della legislazione che disciplinano l’assunzione ed il collocamento dei marittimi;
 - d) il miglioramento delle procedure e delle condizioni del reclutamento e del collocamento dei marittimi sul piano internazionale; e
 - e) la pianificazione della manodopera, tenendo conto della domanda e dell’offerta dei marittimi e delle esigenze dell’industria marittima.
+
+[^lvlDie-tit1-lvlu4-1]: Nuovo testo giusta la cifra I degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Titolo 2: Condizioni di impiego
 
@@ -960,9 +962,11 @@ Norma A2.5.1[^lvlDie-tit2-lvlu5-1] Rimpatrio
 
 \8. In particolare, uno Stato Membro non deve negare ad alcun marittimo il diritto di rimpatrio in ragione delle condizioni finanziarie di un armatore oppure a causa dell’incapacità o della riluttanza dell’armatore a sostituire l’interessato.
 
-\9. Ogni Stato Membro deve esigere che le navi battenti la sua bandiera pubblichino e mettano a disposizione dei marittimi una copia delle disposizioni nazionali applicabili al rimpatrio, redatta in una lingua appropriata.
+\9. Gli Stati Membri devono facilitare il pronto rimpatrio dei marittimi, anche quando sono considerati abbandonati ai sensi del paragrafo 2 della Norma A2.5.2. Gli Stati del porto, gli Stati di bandiera e gli Stati fornitori di manodopera cooperano per garantire che i marittimi arruolati a bordo di una nave per sostituire quelli abbandonati sul loro territorio, o su una nave battente la loro bandiera, beneficino dei diritti e delle prestazioni previsti dalla presente Convenzione.[^lvlDie-tit2-lvlu5-3]
 
-Norma A2.5.2[^lvlDie-tit2-lvlu5-3] Garanzia finanziaria
+\10. Ogni Stato Membro deve esigere che le navi battenti la sua bandiera pubblichino e mettano a disposizione dei marittimi una copia delle disposizioni nazionali applicabili al rimpatrio, redatta in una lingua appropriata. [^lvlDie-tit2-lvlu5-4]
+
+Norma A2.5.2[^lvlDie-tit2-lvlu5-5] Garanzia finanziaria
 
 \1. In applicazione di Regolamento 2.5 paragrafo 2, la presente norma fissa prescrizioni per garantire la fornitura di un sistema di garanzia finanziaria rapido ed efficace a favore dei marittimi in caso di loro abbandono.
 
@@ -1040,7 +1044,7 @@ Linea guida B2.5.1 Diritto al rimpatrio
 
 \7. I marittimi dovrebbero avere il diritto di scegliere, fra le destinazioni stabilite, il luogo nel quale desiderano essere rimpatriati.
 
-\8. Il diritto di rimpatrio può estinguersi se i marittimi interessati non lo rivendicano entro un termine ragionevole che deve essere stabilito dalle leggi o dai regolamenti nazionali o dai contratti collettivi, tranne nei casi in cui sono tenuti prigionieri a bordo o all’esterno della nave a seguito di atti di pirateria o di rapine a mano armata contro navi. Le nozioni di *pirateria* e *rapina a mano armata contro navi* hanno lo stesso significato di cui alla norma A2.1 paragrafo 7.[^lvlDie-tit2-lvlu5-4]
+\8. Il diritto di rimpatrio può estinguersi se i marittimi interessati non lo rivendicano entro un termine ragionevole che deve essere stabilito dalle leggi o dai regolamenti nazionali o dai contratti collettivi, tranne nei casi in cui sono tenuti prigionieri a bordo o all’esterno della nave a seguito di atti di pirateria o di rapine a mano armata contro navi. Le nozioni di *pirateria* e *rapina a mano armata contro navi* hanno lo stesso significato di cui alla norma A2.1 paragrafo 7.[^lvlDie-tit2-lvlu5-6]
 
 Linea guida B2.5.2 Esecuzione da parte degli Stati Membri
 
@@ -1060,15 +1064,17 @@ Linea guida B2.5.2 Esecuzione da parte degli Stati Membri
 
 \3. Se, dopo che giovani marittimi al di sotto di 18 anni sono stati impiegati su una nave per almeno quattro mesi nel corso del loro primo viaggio di lungo corso, diventa evidente che essi sono inidonei alla vita in mare, ad essi dovrebbe essere data l’opportunità di essere rimpatriati, senza spese a loro carico, nel primo porto di scalo disponibile nel quale ci siano servizi consolari dello Stato di bandiera della nave, o dello Stato della nazionalità o di residenza del giovane marittimo. Comunicazione di siffatto rimpatrio, con i relativi motivi, dovrebbe essere data all’autorità che ha rilasciato le certificazioni che abilitano i giovani marittimi interessati ad assumere l’impiego sulla nave alturiera.
 
-Linea guida B2.5.3[^lvlDie-tit2-lvlu5-5] Garanzia finanziaria
+Linea guida B2.5.3[^lvlDie-tit2-lvlu5-7] Garanzia finanziaria
 
 \1. In applicazione del paragrafo 8 della Norma A2.5.2, il tempo eventualmente necessario per controllare la validità di taluni aspetti della richiesta del marittimo o dal suo rappresentante designato non dovrebbe impedire al marittimo di ricevere immediatamente la parte di assistenza richiesta che è stata riconosciuta come giustificata.
 
 [^lvlDie-tit2-lvlu5-1]: Originaria: Norma A2.5.
 [^lvlDie-tit2-lvlu5-2]: [RS 0.747.323.1](https://fedlex.data.admin.ch/eli/cc/1956/723_779_787)
-[^lvlDie-tit2-lvlu5-3]: Introdotta dalla cifra I A dagli emendamenti adottati dalla Commissione speciale tripartita l’11 apr. 2014, in vigore dal 18 gen. 2017 ([RU 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
-[^lvlDie-tit2-lvlu5-4]: Nuovo testo giusta la cifra III dagli emendamenti adottati dalla Commissione speciale tripartita il 27 apr. 2018, in vigore dal 26 dic. 2020 ([RU 2025 116](https://fedlex.data.admin.ch/eli/oc/2025/116)).
-[^lvlDie-tit2-lvlu5-5]: Introdotta dalla cifra I B dagli emendamenti adottati dalla Commissione speciale tripartita l’11 apr. 2014, in vigore dal 18 gen. 2017 ([RU 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^lvlDie-tit2-lvlu5-3]: Introdotto dalla cifra II degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit2-lvlu5-4]: Originario para. 9.
+[^lvlDie-tit2-lvlu5-5]: Introdotta dalla cifra I A dagli emendamenti adottati dalla Commissione speciale tripartita l’11 apr. 2014, in vigore dal 18 gen. 2017 ([RU 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^lvlDie-tit2-lvlu5-6]: Nuovo testo giusta la cifra III dagli emendamenti adottati dalla Commissione speciale tripartita il 27 apr. 2018, in vigore dal 26 dic. 2020 ([RU 2025 116](https://fedlex.data.admin.ch/eli/oc/2025/116)).
+[^lvlDie-tit2-lvlu5-7]: Introdotta dalla cifra I B dagli emendamenti adottati dalla Commissione speciale tripartita l’11 apr. 2014, in vigore dal 18 gen. 2017 ([RU 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
 
 ### **Regolamento 2.6**Indennizzo del marittimo in caso di perdita o di naufragio della nave
 
@@ -1277,7 +1283,7 @@ Norma A3.1 Alloggi e strutture ricreative
 
 \16. Le navi regolarmente impiegate in porti infestati da zanzare devono essere attrezzate con appropriati dispositivi, come disposto dall’autorità competente.
 
-\17. A bordo delle navidevono essere previsti a beneficio di tutti i marittimi appropriate attrezzature, strutture e servizi ricreativi per i marittimi, adeguati alle particolari necessità dei marittimi che devono vivere e lavorare sulla nave, tenendo conto del Regolamento 4.3 e delle connesse disposizioni del Codice sulla tutela della salute e della sicurezza e prevenzione degli incidenti.
+\17. A bordo delle navi devono essere previsti a beneficio di tutti i marittimi appropriate attrezzature, strutture e servizi ricreativi per i marittimi, ivi compresa la connettività sociale, adeguati alle particolari necessità dei marittimi che devono vivere e lavorare sulla nave, tenendo conto del regolamento 4.3 e delle connesse disposizioni del Codice sulla tutela della salute e della sicurezza e prevenzione degli incidenti.[^lvlDie-tit3-lvlu1-2]
 
 \18. L’autorità competente deve esigere che si effettuino frequenti ispezioni a bordo delle navi, da parte o previa autorizzazione del capitano, in modo da garantire che l’alloggio del marittimo sia mantenuto in buono stato di pulizia ed in adeguate condizioni di abitabilità. I risultati di ogni siffatta ispezione devono essere annotati in un registro ed essere disponibili per la consultazione.
 
@@ -1452,13 +1458,15 @@ Linea guida B3.1.11 Impianti ricreativi, posta ed accordi per la visita a bordo 
 - g) mezzi per lavori manuali ricreativi;
 - h) impianti elettronici come radio, TV, videoregistratori, lettori DVD/CD, personal computer e software e lettore/registratore di cassette, e
 - i) eventualmente, bar per i marittimi, tranne che siano contrari ai costumi nazionali, religiosi e sociali; e
-- j) ragionevole accesso alle comunicazioni telefoniche nave-terra ed agli impianti di posta elettronica ed Internet, eventualmente, con costi di importo moderato.
+- j)[^lvlDie-tit3-lvlu1-3] accesso ragionevole alle comunicazioni telefoniche nave-terra, dove appropriato, eventualmente a tariffe moderate.
 
 \5. Dovrebbe essere compiuto ogni sforzo per garantire che l’inoltro della posta dei marittimi sia il più sicuro e sollecito possibile. Ulteriori sforzi dovrebbero essere previsti per evitare che sia richiesto ai marittimi di pagare un sopratassa postale nel caso in cui la posta debba essere loro rispedita a causa di circostanze indipendenti alla loro volontà.
 
 \6. Dovrebbero essere prese in considerazione misure volte a garantire, subordinatamente ad ogni legge o regolamento nazionale o internazionale applicabile, che, quando sia possibile e ragionevole, ai marittimi sia sollecitamente concessa l’autorizzazione di ricevere i loro partner, parenti ed amici come visitatori a bordo della nave quando si trovi in porto. Siffatte misure dovrebbero tenere conto delle autorizzazioni richieste ai fini della sicurezza.
 
 \7. Dovrebbe essere valutata la possibilità di permettere ai marittimi di essere accompagnati dai loro partner di tanto in tanto in occasione di un viaggio, quando ciò è possibile e ragionevole. Tali partner dovrebbero avere un’adeguata copertura assicurativa contro i rischi di infortuni e malattie; gli armatori dovrebbero dare al marittimo ogni assistenza per sottoscrivere tale assicurazione.
+
+\8. Gli Stati Membri dovrebbero, nella misura in cui sia ragionevole e possibile, fornire ai marittimi a bordo delle loro navi un accesso a Internet, eventualmente a tariffe moderate.[^lvlDie-tit3-lvlu1-4]
 
 Linea guida B3.1.12 Prevenzione del rumore e delle vibrazioni
 
@@ -1473,6 +1481,9 @@ Linea guida B3.1.12 Prevenzione del rumore e delle vibrazioni
 \5. Nessun alloggio o struttura ricreativa o servizio di catering dovrebbe essere esposto a vibrazioni eccessive.
 
 [^lvlDie-tit3-lvlu1-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^lvlDie-tit3-lvlu1-2]: Nuovo testo giusta la cifra III degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit3-lvlu1-3]: Nuovo testo giusta la cifra III degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit3-lvlu1-4]: Introdotto dalla cifra III degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### **Regolamento 3.2**Vitto e servizio di catering
 
@@ -1490,8 +1501,8 @@ Norma A3.2 Vitto e servizio di catering
 
 \2. Ogni Stato Membro deve garantire che le navi battenti la sua bandiera osservino le seguenti norme minime:
 
-- a) una sufficiente scorta di alimenti e di acqua potabile, di valore nutritivo, qualità e varietà soddisfacenti, tenuto conto del numero dei marittimi a bordo, delle loro esigenze religiose e delle loro pratiche culturali in materia alimentare e della durata e natura del viaggio,;
-- b) la sistemazione e l’attrezzatura del servizio di cucina e di catering deve essere in grado di consentire la fornitura ai marittimi di pasti adeguati, variati e nutritivi, preparati e serviti in condizioni igieniche soddisfacenti; e
+- a)[^lvlDie-tit3-lvlu2-1] una sufficiente scorta di alimenti e di acqua potabile, di valore nutritivo, qualità e varietà soddisfacenti, tenuto conto del numero dei marittimi a bordo, delle loro esigenze religiose e delle loro pratiche culturali in materia alimentare e della durata e natura del viaggio, e fornita gratuitamente durante il periodo di arruolamento;
+- b)[^lvlDie-tit3-lvlu2-2] la sistemazione e l’attrezzatura del servizio di cucina e di catering deve essere in grado di consentire la fornitura ai marittimi di pasti adeguati, variati, equilibrati e nutritivi preparati e serviti in condizioni igieniche soddisfacenti;
 - c) il personale del servizio di cucina e di catering deve essere adeguatamente formato ed istruito per l’esercizio delle sue funzioni.
 
 \3. Gli armatori devono assicurare che i marittimi ingaggiati come cuochi della nave siano addestrati, qualificati e provvisti della qualifica e della competenza per esercitare questa funzione conformemente alle disposizioni delle leggi e dei regolamenti dello Stato Membro interessato.
@@ -1504,7 +1515,7 @@ Norma A3.2 Vitto e servizio di catering
 
 \7. In conformità con la vigente procedura prevista al Titolo 5, l’autorità competente deve esigere che ispezioni documentate frequenti siano compiute a bordo della nave, dal capitano o con la sua autorizzazione, in riferimento ai seguenti settori:
 
-- a) le scorte di prodotti alimentari ed acqua potabile;
+- a)[^lvlDie-tit3-lvlu2-3] le scorte di prodotti alimentari ed acqua potabile, in termini di quantità, valore nutrizionale, qualità e varietà;
 - b) ogni spazio ed impianto usato per l’immagazzinamento ed il trattamento dei prodotti alimentari e dell’acqua potabile;
 - c) la cucina di bordo ed ogni altro impianto utilizzato per la preparazione ed il servizio dei pasti.
 
@@ -1532,6 +1543,10 @@ Linea guida B3.2.2 Cuochi delle navi
 \2. L’esame prescritto può essere condotto ed i certificati corrispondenti possono essere rilasciati direttamente dall’autorità competente oppure, sotto il suo controllo, da una scuola per la formazione professionale dei cuochi riconosciuta.
 
 \3. L’autorità competente dovrebbe provvedere al riconoscimento, se appropriati, dei certificati di capacità di cuoco di bordo rilasciati da un altro Stato Membro, che abbia ratificato la presente Convenzione oppure la Convenzione sulla Certificazione dei Cuochi di Bordo (n. 69) del 1946, oppure da un’altra istituzione riconosciuta.
+
+[^lvlDie-tit3-lvlu2-1]: Nuovo testo giusta la cifra IV degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit3-lvlu2-2]: Nuovo testo giusta la cifra IV degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit3-lvlu2-3]: Nuovo testo giusta la cifra IV degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### Titolo 4: Tutela della salute, assistenza medica, assistenza sociale e protezione della sicurezza sociale
 
@@ -1566,7 +1581,14 @@ Norma A4.1 Assistenza medica a bordo della nave e a terra
 - a) tutte le navi devono disporre di una farmacia di bordo, di attrezzatura medica ed di una guida medica, le cui specificazioni devono essere prescritte e soggette a regolare ispezione da parte dell’autorità competente; le prescrizioni nazionali devono tenere conto del tipo di nave, del numero delle persone a bordo e della natura, della destinazione e della durata dei viaggi come pure delle relative norme mediche raccomandate sul piano nazionale ed internazionale;
 - b) navi che trasportano 100 o più persone ed ordinariamente impiegate in viaggi internazionali che durino più di tre giorni devono disporre a bordo di un medico qualificato che sia responsabile della fornitura dell’assistenza medica; le leggi nazionali ed i regolamenti devono, altresì, specificare quali altre navi sono obbligate a disporre di un medico a bordo, tenendo conto, in particolare, di fattori come la durata, la natura e le condizioni del viaggio ed il numero di marittimi a bordo;
 - c) una nave che non abbia un medico a bordo deve essere obbligata ad avere come minimo un marittimo incaricato dell’assistenza medica e della amministrazione delle medicine nel quadro delle sue normali mansioni oppure almeno un marittimo a bordo competente a prestare il pronto soccorso. Le persone incaricate di garantire l’assistenza medica a bordo e che non siano medici devono aver completato soddisfacentemente la formazione professionale in merito all’assistenza medica che sia conforme alle prescrizioni della Convenzione Internazionale del 1978 sulle Norme di Formazione Professionale, Certificazione e Tenute della Guardia per i Marittimi del 1978, come emendata («STCW»); i marittimi incaricati di fornire il primo soccorso medico devono avere soddisfacentemente completato una formazione per il primo soccorso medico, che risponda alle disposizioni della STCW; le leggi ed i regolamenti nazionali devono precisare il livello della formazione richiesta tenendo conto, in particolare, di certi fattori, come la durata, la natura e le condizioni di viaggio come pure il numero di marittimi a bordo; e
-- d) l’autorità competente deve garantire, in virtù di un sistema predisposto, che a qualsiasi ora del giorno e della notte, per le navi in mare siano disponibili consulti medici, mediante radio o comunicazione satellitare, inclusi consulti di specialisti. Tali consulti medici, inclusa la trasmissione di messaggi medici a mezzo radio o per mezzo di comunicazione satellitare fra una nave e le persone a terra che emettono consigli, deve essere garantite gratuitamente a tutte le navi, indipendentemente dalla bandiera che battono.
+
+d) l’autorità competente deve garantire, in virtù di un sistema predisposto, che a qualsiasi ora del giorno e della notte, per le navi in mare siano disponibili consulti medici, mediante radio o comunicazione satellitare, inclusi consulti di specialisti. Tali consulti medici, inclusa la trasmissione di messaggi medici a mezzo radio o per mezzo di comunicazione satellitare fra una nave e le persone a terra che emettono consigli, deve essere garantite gratuitamente a tutte le navi, indipendentemente dalla bandiera che battono.
+
+\5. Ogni Stato Membro deve garantire che i marittimi che necessitano di assistenza medica immediata siano prontamente sbarcati dalle navi sul suo territorio e abbiano accesso alle strutture mediche a terra per ricevere le cure appropriate.[^lvlDie-tit4-lvlu1-1]
+
+\6. Se un marittimo muore durante il viaggio di una nave, lo Stato Membro nel cui territorio avviene il decesso o, se il decesso avviene in alto mare, nelle cui acque territoriali la nave entra successivamente, deve facilitare il rimpatrio del corpo o delle ceneri da parte dell’armatore conformemente ai desideri del marittimo o dei suoi parenti più stretti, a seconda dei casi.[^lvlDie-tit4-lvlu1-2]
+
+- [tab]
 
 Linea guida B4.1 Assistenza medica a bordo della nave e a terra
 
@@ -1603,6 +1625,18 @@ Linea guida B4.1.3 Cure mediche a terra
 
 \3. Dovrebbero essere adottate misure adeguate per agevolare la cura dei marittimi che soffrano di una malattia. In particolare, i marittimi dovrebbero essere ammessi sollecitamente nelle cliniche e negli ospedali a terra, senza difficoltà e indipendentemente dalla nazionalità o dalla fede religiosa e, ove possibile, dovrebbero essere prese disposizioni per garantire, quando necessario, la continuazione della cura a integrazione delle servizi sanitari disponibili per loro.
 
+\4. Ogni Stato Membro dovrebbe garantire che ai marittimi non sia impedito di sbarcare per motivi di salute pubblica e che possano rifornire le officine della nave e le sue riserve di carburante, acqua, alimenti e provviste.[^lvlDie-tit4-lvlu1-3]
+
+\5. I marittimi dovrebbero essere considerati bisognosi di cure mediche immediate nei seguenti casi, tra gli altri:
+
+- a) infortunio o malattia grave;
+- b) infortunio o malattia che potrebbe causare un’invalidità temporanea o permanente;
+- c) una malattia trasmissibile che potrebbe diffondersi ad altri membri dell’equipaggio;
+- d) infortunio dovuto a una frattura, a una grave emorragia, a un dente rotto o a un’infiammazione dentale oppure a una grave ustione;
+- e) dolori intensi che non possono essere trattati a bordo della nave, tenendo conto della regolare attività della nave, della disponibilità di analgesici appropriati e degli effetti sulla salute dell’uso prolungato di tali analgesici;
+- f) rischio di suicidio;
+- g) trattamento a terra raccomandato da un servizio di consulenza di telemedicina.[^lvlDie-tit4-lvlu1-4]
+
 Linea guida B4.1.4 Assistenza medica alle altre navi e cooperazione internazionale
 
 \1. Ogni Stato Membro dovrebbe prestare la dovuta attenzione alla sua partecipazione in attività di cooperazione internazionale in materia di assistenza, di programmi e di ricerca nei settori della tutela della salute e dell’assistenza medica. Siffatta cooperazione potrebbe mirare a:
@@ -1623,13 +1657,19 @@ Linea guida B4.1.4 Assistenza medica alle altre navi e cooperazione internaziona
 - h) raccogliere e valutare le statistiche concernenti gli infortuni sul lavoro, le malattie ed i decessi di origine professionale dei marittimi, integrarle ed armonizzarle nel sistema nazionale di statistiche sugli infortuni sul lavoro, sulle malattie e sulle morti di origine professionale che coprono altre categorie di lavoratori;
 - i) organizzare scambi internazionali di informazioni tecniche, di materiale di formazione professionale e di personale docente, come anche di corsi di formazione, seminari e gruppi di lavoro internazionali;
 - j) garantire a tutti i marittimi assistenza speciale, per la cura e la prevenzione, e servizi medici nei porti, o rendere loro disponibili servizi di assistenza medica generale, sanitari e riabilitativi; e
-- k) predisporre il rimpatrio dei corpi o delle ceneri dei marittimi deceduti, conformemente ai desideri dei parenti stretti, non appena possibile.
+- k)[^lvlDie-tit4-lvlu1-5] predisporre il rimpatrio, non appena possibile, del corpo o delle ceneri dei marittimi deceduti, conformemente ai desideri del marittimo o dei suoi parenti più stretti, a seconda dei casi.
 
 \2. La cooperazione internazionale nel settore della tutela della salute e dell’assistenza medica dei marittimi dovrebbe basarsi su accordi bilaterali o multilaterali o consultazioni tra gli Stati Membri.
 
 Linea guida B4.1.5 Persone a carico dei marittimi
 
 \1. Ogni Stato Membro dovrebbe adottare misure atte a garantire assistenza medica adeguata e sufficiente ai marittimi ed alle persone a carico dei marittimi aventi domicilio sul suo territorio, in attesa che sia crei un servizio di assistenza medica aperto ai lavoratori in generale e le persone a loro carico, quando tali servizi non esistono, e dovrebbe informare l’Ufficio Internazionale del Lavoro in merito alle misure adottate a questo scopo.
+
+[^lvlDie-tit4-lvlu1-1]: Introdotto dalla cifra V degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu1-2]: Introdotto dalla cifra V degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu1-3]: Introdotto dalla cifra V degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu1-4]: Introdotto dalla cifra V degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu1-5]: Nuovo testo giusta la cifra V degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 ### **Regolamento 4.2**Responsabilità degli armatori
 
@@ -1720,7 +1760,7 @@ Linea guida B4.2.2[^lvlDie-tit4-lvlu2-12] Trattamento delle rivendicazioni contr
 [^lvlDie-tit4-lvlu2-11]: Originaria: Norma A4.2.
 [^lvlDie-tit4-lvlu2-12]: Introdotta dalla cifra II B dagli emendamenti adottati dalla Commissione speciale tripartita l’11 apr. 2014, in vigore dal 18 gen. 2017 ([RU 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
 
-### R**egolamento 4.3**Tutela della salute e della sicurezza e prevenzione degli infortuni
+### **Regolamento 4.3**Tutela della salute e della sicurezza e prevenzione degli infortuni
 
 Scopo: Garantire che l’ambiente di lavoro dei marittimi a bordo delle navi favorisca la loro sicurezza e la loro salute sul luogo di lavoro
 
@@ -1730,12 +1770,12 @@ Scopo: Garantire che l’ambiente di lavoro dei marittimi a bordo delle navi fav
 
 \3. Ogni Stato Membro deve adottare leggi, regolamenti ed altri provvedimenti concernenti le questioni precisate nel Codice, tenendo conto dei relativi strumenti internazionali, e fissare norme relative alla tutela della sicurezza e della salute sul lavoro ed alla prevenzione degli incidenti sulle navi battenti la sua bandiera.
 
-Norma A 4.3 Protezione della salute e della sicurezza e prevenzione degli infortuni
+Norma A4.3 Tutela della salute e della sicurezza e prevenzione degli infortuni[^lvlDie-tit4-lvlu3-1]
 
 \1. Le leggi, i regolamenti e gli altri provvedimenti da adottare conformemente al paragrafo 3 del Regolamento 4.3. devono includere quanto segue:
 
 - a) l’adozione e l’effettiva applicazione come pure la promozione di politiche e di programmi di sicurezza e di salute sul lavoro a bordo delle navi battenti la bandiera dello Stato Membro, compresa la valutazione dei rischi e la formazione e l’istruzione dei marittimi;
-- b) le precauzioni ragionevoli per prevenire incidenti, infortuni sul lavoro e le malattie professionali a bordo della nave, incluse le misure tendenti a ridurre ed a prevenire i rischi di esposizione a livelli nocivi di fattori ambientali e prodotti chimici, come pure i rischi di infortunio o di malattia che possano scaturire dall’uso dell’attrezzatura e dei macchinari a bordo delle navi;
+- b)[^lvlDie-tit4-lvlu3-2] le precauzioni ragionevoli per prevenire incidenti, infortuni sul lavoro e le malattie professionali a bordo della nave, incluse la fornitura dei necessari dispositivi per la tutela personale nelle taglie appropriate, e le misure tendenti a ridurre e a prevenire i rischi di esposizione a livelli nocivi di fattori ambientali e prodotti chimici, come pure i rischi di infortunio o di malattia che possano scaturire dall’uso dell’attrezzatura e dei macchinari a bordo delle navi;
 - c) programmi di bordo per la prevenzione degli incidenti sul lavoro e degli infortuni e delle malattie professionali, come pure un costante miglioramento della tutela della sicurezza e della salute sul lavoro, coinvolgendo nella loro attuazione i rappresentanti dei marittimi ed ogni altra persona interessata, tenendo conto delle misure preventive, inclusi il controllo del progetto e delle opere d’ingegneria, la sostituzione delle operazioni e delle procedure applicabili alla mansioni collettive ed individuali, ed uso dell’equipaggiamento protettivopersonale; e
 - d) le prescrizioni relative all’ispezione, alla notifica e alla correzione delle condizioni pericolose e all’indagine sugli infortuni sul lavoro verificatisi a bordo ed alla loro notifica.
 
@@ -1750,11 +1790,11 @@ Norma A 4.3 Protezione della salute e della sicurezza e prevenzione degli infort
 
 \4. Il rispetto delle prescrizioni degli strumenti internazionali applicabili riguardanti i livelli accettabili di esposizione ai rischi professionali a bordo delle navi e sull’elaborazione e sull’applicazione delle politiche e dei programmi in materia di sicurezza e di salute sul lavoro a bordo delle navi deve essere considerata equivalente al rispetto delle prescrizioni della presente Convenzione.
 
-\5. L’autorità competente deve garantire che:
+\5. Ogni Stato Membro deve garantire che:[^lvlDie-tit4-lvlu3-3]
 
-- a) gli incidenti sul lavoro, gli infortuni e le malattie professionali siano debitamente dichiarati, tenendo conto degli orientamenti forniti dall’OIL con riguardo alla notifica e alla registrazione degli incidenti sul lavoro e delle malattie professionali;
-- b) statistiche esaurienti di siffatti incidenti e malattie siano tenute, analizzate e pubblicate e, se opportuno, seguite da indagini sulle tendenze generali e sui rischi identificati;
-- c) gli incidenti sui luoghi di lavoro siano oggetto di indagine.
+- a)[^lvlDie-tit4-lvlu3-4] tutti i decessi dei marittimi impiegati, arruolati o che lavorano a bordo di navi battenti la sua bandiera siano oggetto di un’indagine appropriata, siano debitamente registrati e siano dichiarati annualmente al Direttore Generale dell’Ufficio Internazionale del Lavoro per la loro pubblicazione in un registro globale;
+- b)[^lvlDie-tit4-lvlu3-5] statistiche esaurienti di siffatti incidenti e malattie siano tenute, analizzate e pubblicate e, se opportuno, seguite da indagini sulle tendenze generali e sui rischi identificati;
+- c)[^lvlDie-tit4-lvlu3-6] gli incidenti sui luoghi di lavoro siano oggetto di indagine.
 
 \6. Le relazioni e le indagini relative alle questioni di sicurezza e di salute nel luogo di lavoro devono essere predisposte per garantire la tutela dei dati personali dei marittimi, e devono tener conto degli orientamenti forniti dall’OIL su questa materia.
 
@@ -1768,7 +1808,7 @@ Linea guida B4.3.1 Disposizioni riguardanti gli incidenti sul lavoro, gli infort
 
 \1. Le disposizioni considerate alla Norma A4.3 dovrebbero tener conto della raccolta di direttive pratiche dell’OIL intitolato *Prevenzione degli Incidenti a bordo delle navi in mare e nei porti* del 1996, e di successive versioni, come pure di altre norme di direttive collegate dell’OIL e di altre norme, linee guida e raccolte delle pratiche internazionali relative alla protezione della sicurezza e della salute sul lavoro, inclusi i livelli di esposizione che essi possano identificare.
 
-Dovrebbero inoltre tenere conto della versione più recente del documento *Guidance on eliminating shipboard harassment and bullying* (direttive per l’eliminazione di molestie e maltrattamenti a bordo delle navi) pubblicato congiuntamente dall’International Chamber of Shipping e dalla Federazione internazionale dei lavoratori dei trasporti.[^lvlDie-tit4-lvlu3-1]
+Dovrebbero inoltre tenere conto della versione più recente del documento *Guidance on eliminating shipboard harassment and bullying* (direttive per l’eliminazione di molestie e maltrattamenti a bordo delle navi) pubblicato congiuntamente dall’International Chamber of Shipping e dalla Federazione internazionale dei lavoratori dei trasporti.[^lvlDie-tit4-lvlu3-7]
 
 \2. L’autorità competente dovrebbe garantire che le linee guida nazionali relative alla gestione della sicurezza e della salute sul lavoro trattino in particolare i seguenti punti:
 
@@ -1798,7 +1838,7 @@ Dovrebbero inoltre tenere conto della versione più recente del documento *Guida
 - a) risposta alle emergenze ed agli incidenti;
 - b) effetti della dipendenza dalla droga e dall’alcool;
 - c) protezione e prevenzione dall’HIV/AIDS; e
-- d)[^lvlDie-tit4-lvlu3-2] molestie e maltrattamenti.
+- d)[^lvlDie-tit4-lvlu3-8] molestie e maltrattamenti.
 
 Linea guida B4.3.2 Esposizione al rumore
 
@@ -1824,7 +1864,7 @@ Linea guida B4.3.4 Obblighi degli armatori
 
 \1. Qualsiasi obbligo dell’armatore di fornire equipaggiamento protettivo o altri dispositivi per prevenire gli infortuni dovrebbe, in generale, essere accompagnato da norme concernenti l’obbligo per i marittimi di usare tali dispositivi e di osservare le misure previste per la prevenzione degli incidenti e la tutela della salute che li riguardano.
 
-\2. Si dovrebbe, altresì, tenere conto degli articoli 7 e 11 della Convenzione sulla Guardia delle Macchine[^lvlDie-tit4-lvlu3-3] del 1963 (n. 119), e delle corrispondenti norme della Raccomandazione sulla Guardia alle Macchine del 1963 (n. 118) che dispongono l’obbligo per il datore di lavoro di garantire che il macchinario in funzione sia fornito di dispositivi di protezione e che sia proibito il suo uso senza tali adeguati dispositivi, mentre sussiste un obbligo del lavoratore di non utilizzare il macchinario se i dispositivi di protezione previsti di cui è fornito non sono collocati nel posto giusto, e di non rendere inefficaci tali dispositivi.
+\2. Si dovrebbe, altresì, tenere conto degli articoli 7 e 11 della Convenzione sulla Guardia delle Macchine[^lvlDie-tit4-lvlu3-9] del 1963 (n. 119), e delle corrispondenti norme della Raccomandazione sulla Guardia alle Macchine del 1963 (n. 118) che dispongono l’obbligo per il datore di lavoro di garantire che il macchinario in funzione sia fornito di dispositivi di protezione e che sia proibito il suo uso senza tali adeguati dispositivi, mentre sussiste un obbligo del lavoratore di non utilizzare il macchinario se i dispositivi di protezione previsti di cui è fornito non sono collocati nel posto giusto, e di non rendere inefficaci tali dispositivi.
 
 Linea guida B4.3.5 Relazione e raccolta di statistiche
 
@@ -1833,6 +1873,10 @@ Linea guida B4.3.5 Relazione e raccolta di statistiche
 \2. Le statistiche di cui al paragrafo 1 della presente Linea guida dovrebbero documentare i numeri, la natura, le cause e le conseguenze degli incidenti, degli infortuni e delle malattie professionali, con una indicazione chiara, se possibile, del reparto a bordo della nave, del tipo di incidente e se si sia verificato in mare oppure in porto.
 
 \3. Ogni Stato Membro dovrebbe avere il dovuto riguardo per ogni sistema o modello internazionale di documentazione degli incidenti dei marittimi eventualmente stabilito dall’OIL.
+
+\4. I dati sui decessi da dichiarare in conformità alla lettera a) del paragrafo 5 della Norma A4.3 devono essere presentati nella modalità e nella classificazione stabilite dall’Ufficio Internazionale del Lavoro.[^lvlDie-tit4-lvlu3-10]
+
+\5. I dati sui decessi dovrebbero includere, tra l’altro, informazioni sul tipo (classificazione) del decesso, sul tipo e sulla stazza lorda della nave, sul luogo del decesso (in mare, in porto, in posto di ormeggio) e sul sesso, sull’età, sulla funzione e sul servizio del marittimo.[^lvlDie-tit4-lvlu3-11]
 
 Linea guida B4.3.6 Indagini
 
@@ -1846,7 +1890,7 @@ Linea guida B4.3.6 Indagini
 - d) i problemi derivanti dallo stress fisico a bordo delle navi, in particolare come conseguenza dell’incremento del carico di lavoro;
 - e) i problemi e le conseguenze derivanti dagli effetti dei progressi tecnici, come pure della loro influenza sulla composizione degli equipaggi;
 - f) i problemi derivanti da ogni incapacità umana; e
-- g)[^lvlDie-tit4-lvlu3-4] i problemi derivanti da molestie e maltrattamenti.
+- g)[^lvlDie-tit4-lvlu3-12] i problemi derivanti da molestie e maltrattamenti.
 
 Linea guida B4.3.7 Programmi nazionali di tutela e prevenzione
 
@@ -1920,10 +1964,18 @@ Linea guida B4.3.11 Cooperazione internazionale
 - e) collaborazione nella produzione e nell’uso di materiale per la formazione professionale; e
 - f) strutture congiunte, o mutua assistenza, nella formazione dei marittimi in merito alla tutela della sicurezza e della salute sul lavoro, alla prevenzione degli incidenti e alle procedure di lavoro sicuro.
 
-[^lvlDie-tit4-lvlu3-1]: Paragrafo introdotto dalla cifra I degli emendamenti adottati dalla Commissione speciale tripartita il 10 feb. 2016, in vigore dall’8 gen. 2019 ([RU 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
-[^lvlDie-tit4-lvlu3-2]: Introdotta dalla cifra I degli emendamenti adottati dalla Commissione speciale tripartita il 10 feb. 2016, in vigore dall’8 gen. 2019 ([RU 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
-[^lvlDie-tit4-lvlu3-3]: [RS 0.822.721.9](https://fedlex.data.admin.ch/eli/cc/1993/1738_1738_1738)
-[^lvlDie-tit4-lvlu3-4]: Introdotta dalla cifra I degli emendamenti adottati dalla Commissione speciale tripartita il 10 feb. 2016, in vigore dall’8 gen. 2019 ([RU 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
+[^lvlDie-tit4-lvlu3-1]: Nuovo testo gusta la cifra VI degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-2]: Nuovo testo gusta la cifra VI degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-3]: Nuovo testo gusta la cifra VI degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-4]: Introdotta dalla cifra VI degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-5]: Originaria lett. a
+[^lvlDie-tit4-lvlu3-6]: Originaria lett. b
+[^lvlDie-tit4-lvlu3-7]: Para. introdotto dalla cifra I degli emendamenti adottati dalla Commissione speciale tripartita il 10 feb. 2016, in vigore dall’8 gen. 2019 ([RU 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
+[^lvlDie-tit4-lvlu3-8]: Introdotta dalla cifra I degli emendamenti adottati dalla Commissione speciale tripartita il 10 feb. 2016, in vigore dall’8 gen. 2019 ([RU 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
+[^lvlDie-tit4-lvlu3-9]: [RS 0.822.721.9](https://fedlex.data.admin.ch/eli/cc/1993/1738_1738_1738)
+[^lvlDie-tit4-lvlu3-10]: Introdotto dalla cifra VI degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-11]: Introdotto dalla cifra VI degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu3-12]: Introdotta dalla cifra I degli emendamenti adottati dalla Commissione speciale tripartita il 10 feb. 2016, in vigore dall’8 gen. 2019 ([RU 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
 
 ### **Regolamento 4.4**Accesso ai servizi di assistenza sociale posti a terra
 
@@ -1980,13 +2032,15 @@ Linea guida B4.4.2 Servizi di assistenza sociale nei porti
 
 \4. Tali strutture possono essere fornite mettendo a disposizione dei marittimi, secondo le loro necessità, strutture progettate per un uso più generale.
 
-\5. Nel caso in cui gran numero di marittimi di differenti nazionalità richiedano alcune strutture come alberghi, club e impianti sportivi in un determinato porto, le autorità o gli enti competenti dei loro Paesi di origine e degli Stati di bandiera, come pure le associazioni internazionali interessate, dovrebbero procedere a consultazioni e cooperare tra di loro, con le autorità e con gli enti competenti del Paese nel quale il porto è situato, con lo scopo di raggruppare le loro risorse ed evitare superflui doppioni.
+\5. Gli Stati Membri dovrebbero, nella misura in cui sia ragionevole e possibile, fornire ai marittimi a bordo delle navi che si trovano nei loro porti e ai loro posti di ormeggio associati, un accesso a Internet, eventualmente a tariffe moderate.[^lvlDie-tit4-lvlu4-1]
 
-\6. Dovrebbero essere accessibili ai marittimi alberghi oppure ostelli adeguati alle loro esigenze, là dove ciò sia necessario. Essi dovrebbero fornire servizi equivalenti a quelli degli alberghi di buona categoria, e dovrebbero essere, per quanto possibile, ben situati lontano dalle immediate vicinanze delle zone portuali. Siffatti alberghi o ostelli dovrebbero essere sottoposti ad un controllo adeguato, e i prezzi richiesti dovrebbero essere di importo ragionevole e, quando necessario e possibile, dovrebbero essere adottate disposizioni per ospitare i familiari dei marittimi.
+\6. Nel caso in cui gran numero di marittimi di differenti nazionalità richiedano alcune strutture come alberghi, club e impianti sportivi in un determinato porto, le autorità o gli enti competenti dei loro Paesi di origine e degli Stati di bandiera, come pure le associazioni internazionali interessate, dovrebbero procedere a consultazioni e cooperare tra di loro, con le autorità e con gli enti competenti del Paese nel quale il porto è situato, con lo scopo di raggruppare le loro risorse ed evitare superflui doppioni. [^lvlDie-tit4-lvlu4-2]
 
-\7. Tali strutture dovrebbe essere aperte a tutti i marittimi, indipendentemente da nazionalità, razza, colore, sesso, religione, opinione politica o origine sociale ed indipendentemente dallo Stato di bandiera della nave a bordo della quale sono arruolati o ingaggiati o lavorano. Senza che sia in qualsiasi modo violato questo principio, può essere necessario, in alcuni porti, fornire diversi tipi di strutture di livelli comparabili ma adattati ai costumi ed alle necessità di differenti gruppi di marittimi.
+\7. Dovrebbero essere accessibili ai marittimi alberghi oppure ostelli adeguati alle loro esigenze, là dove ciò sia necessario. Essi dovrebbero fornire servizi equivalenti a quelli degli alberghi di buona categoria, e dovrebbero essere, per quanto possibile, ben situati lontano dalle immediate vicinanze delle zone portuali. Siffatti alberghi o ostelli dovrebbero essere sottoposti ad un controllo adeguato, e i prezzi richiesti dovrebbero essere di importo ragionevole e, quando necessario e possibile, dovrebbero essere adottate disposizioni per ospitare i familiari dei marittimi. [^lvlDie-tit4-lvlu4-3]
 
-\8. Dovrebbero essere adottate disposizioni per garantire, nella misura in cui ciò sia necessario, che persone tecnicamente competenti siano impiegate, in aggiunta a eventuali lavoratori volontari, a tempo pieno nella gestione delle strutture e dei servizi di assistenza sociale dei marittimi.
+\8. Tali strutture dovrebbe essere aperte a tutti i marittimi, indipendentemente da nazionalità, razza, colore, sesso, religione, opinione politica o origine sociale ed indipendentemente dallo Stato di bandiera della nave a bordo della quale sono arruolati o ingaggiati o lavorano. Senza che sia in qualsiasi modo violato questo principio, può essere necessario, in alcuni porti, fornire diversi tipi di strutture di livelli comparabili ma adattati ai costumi ed alle necessità di differenti gruppi di marittimi. [^lvlDie-tit4-lvlu4-4]
+
+\9. Dovrebbero essere adottate disposizioni per garantire, nella misura in cui ciò sia necessario, che persone tecnicamente competenti siano impiegate, in aggiunta a eventuali lavoratori volontari, a tempo pieno nella gestione delle strutture e dei servizi di assistenza sociale dei marittimi. [^lvlDie-tit4-lvlu4-5]
 
 Linea guida B4.4.3 Comitati di assistenza sociale
 
@@ -2034,6 +2088,12 @@ Linea guida B4.4.6 Marittimi in un porto straniero
 \4. Ogni Stato Membro dovrebbe adottare misure, quando necessario, dirette a garantire la sicurezza dei marittimi dalle aggressioni e da altri atti illegali mentre la nave si trova nelle sue acque territoriali ed in particolare nei dintorni dei porti.
 
 \5. Coloro che sono responsabili nei porti o a bordo delle navi dovrebbero fare tutto il possibile per autorizzare i marittimi a sbarcare non appena possibile dopo l’arrivo della nave in porto.
+
+[^lvlDie-tit4-lvlu4-1]: Introdotto dalla cifra III degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
+[^lvlDie-tit4-lvlu4-2]: Originario para. 5.
+[^lvlDie-tit4-lvlu4-3]: Originario para. 6.
+[^lvlDie-tit4-lvlu4-4]: Originario para. 7.
+[^lvlDie-tit4-lvlu4-5]: Originario para. 8.
 
 ### **Regolamento 4.5**Sicurezza sociale
 
@@ -2268,8 +2328,8 @@ Linea guida B5.1.3 Certificato di lavoro marittimo e dichiarazione di conformit�
 
 \6. Qualora una nave cambi bandiera come nel caso indicato al paragrafo 14 c) della Norma A5.1.3 ed entrambi gli Stati interessati abbiano ratificato la presente Convenzione, lo Stato Membro di cui la nave era stata precedentemente autorizzata a battere bandiera dovrebbe, appena possibile, trasmettere all’autorità competente degli altri Stati Membri copie dei certificati di lavoro marittimo e della dichiarazione di conformità del lavoro marittimo conservati a bordo della nave prima del cambio di bandiera e, se necessario, copia delle relazioni delle relative ispezioni se l’autorità competente così richieda entro tre mesi dopo il cambio di bandiera.
 
-[^lvlDie-tit5-lvlu4-1]: Originario paragrafo 4.
-[^lvlDie-tit5-lvlu4-2]: Nuovo testo giusta il n. II degli emendamenti adottati dalla Commissione speciale tripartita il 10 feb. 2016, in vigore dall’8 gen. 2019 ([RU 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
+[^lvlDie-tit5-lvlu4-1]: Originario para. 4.
+[^lvlDie-tit5-lvlu4-2]: Nuovo testo giusta la cifra II degli emendamenti adottati dalla Commissione speciale tripartita il 10 feb. 2016, in vigore dall’8 gen. 2019 ([RU 2018 5435](https://fedlex.data.admin.ch/eli/oc/2018/821)).
 
 ### **Regolamento 5.1.4**Ispezione ed applicazione
 
@@ -2530,7 +2590,7 @@ Allegato A2-I[^t-2]
 
 ## Prove di garanzia finanziaria a norma del Regolamento 2.5 paragrafo 2
 
-[^t-2]: Introdotto dalla cifra II C dagli emendamenti adottati dalla Commissione speciale tripartita l’11 apr. 2014, in vigore dal 18 gen. 2017 ([RU 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^t-2]: Introdotto dalla cifra II C dagli emendamenti adottati dalla Commissione speciale tripartita l’11 apr. 2014 ([RU 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)). Aggiornato dalla cifra VII degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 Il certificato o altra prova documentale di cui alla Norma A2.5.2 paragrafo 7 deve contenere le seguenti informazioni:
 
@@ -2540,7 +2600,7 @@ Il certificato o altra prova documentale di cui alla Norma A2.5.2 paragrafo 7 de
 - d) numero OMI della nave;
 - e) nome e indirizzo del fornitore o dei fornitori della garanzia finanziaria;
 - f) recapiti delle persone o dell’ente responsabili del trattamento delle richieste di assistenza dei marittimi;
-- g) nome dell’armatore;
+- g) nome dell’armatore o del proprietario registrato, se diverso dall’armatore;
 - h) periodo di validità della garanzia finanziaria;
 - i) un attestato del fornitore della garanzia finanziaria che certifichi che la garanzia finanziaria è conforme alle prescrizioni della Norma A2.5.2.
 
@@ -2548,7 +2608,7 @@ Allegato A4-I[^t-3]
 
 ## Prove di garanzia finanziaria a norma del Regolamento 4.2
 
-[^t-3]: Introdotto dalla cifra II C dagli emendamenti adottati dalla Commissione speciale tripartita l’11 apr. 2014, in vigore dal 18 gen. 2017 ([RU 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)).
+[^t-3]: Introdotto dalla cifra II C dagli emendamenti adottati dalla Commissione speciale tripartita l’11 apr. 2014 ([RU 2017 3663](https://fedlex.data.admin.ch/eli/oc/2017/414)). Aggiornato dalla cifra VII degli emendamenti adottati dalla Commissione tripartita speciale il 13 mag. 2022, in vigore dal 23 dic. 2024 ([RU 2025 117](https://fedlex.data.admin.ch/eli/oc/2025/117)).
 
 Il certificato o altra prova documentale di garanzia finanziaria prescritti dalla Norma A4.2.1 paragrafo 14 devono includere le seguenti informazioni:
 
@@ -2558,7 +2618,7 @@ Il certificato o altra prova documentale di garanzia finanziaria prescritti dall
 - d) numero OMI della nave;
 - e) nome e indirizzo del fornitore o dei fornitori della garanzia finanziaria;
 - f) recapiti delle persone o dell’ente responsabili del trattamento delle richieste di assistenza dei marittimi;
-- g) nome dell’armatore;
+- g) nome dell’armatore o del proprietario registrato, se diverso dall’armatore;
 - h) periodo di validità della garanzia finanziaria;
 - i) un attestato del fornitore della garanzia finanziaria che certifichi che la garanzia finanziaria è conforme alle prescrizioni della Norma A4.2.1.
 
