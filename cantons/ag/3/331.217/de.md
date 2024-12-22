@@ -4,13 +4,13 @@ number: "331.217"
 title: Verordnung über die gemeinwirtschaftlichen Leistungen
 short: GWLV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-22
-version_adopted: 2023-11-29
+version: 2024-12-23
+valid_until: 2024-12-31
+version_adopted: 2024-12-11
 adopted: 2020-11-11
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/331.217"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3645/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3740/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3645/pdf_file"
 
 (GWLV)
 
-Vom 11.11.2020 (Stand 01.01.2024)
+Vom 11.11.2020 (Stand 23.12.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -84,7 +84,7 @@ beschliesst:
 - b) Massnahmen des Kindesschutzes: Fr. 1'500.– pro betreutes Kind,
 - c) Betrieb einer Heroinabgabestelle: Fr. 339.– pro Woche und Fall,
 - d) universitäre Lehre: Fr. 1'000.– pro Blockstudentin oder Blockstudent und Tag sowie Fr. 15'000.– pro Unterassistentin oder Unterassistent und Jahr,
-- e) Vorhalteleistungen Intensivstationen (IPS): Fr. 155'223.– pro neu geschaffenem und zertifiziertem Intensivbett und Jahr, solange es eine Vorhalteleistung darstellt und nicht den Bedarf abdeckt,
+- e) Vorhalteleistungen Intensivstationen (IPS): Fr. 14'900.– pro zertifiziertem Intensivbett und Jahr,
 - f) NDS AIN: maximal Fr. 15'000.– pro absolviertem NDS für Kurskosten und Prüfungsgebühren an der Aargauischen Fachschule für Anästhesie-, Intensiv- und Notfallpflege (afsain) sowie für die Nachdiplomstudiengänge Notfallpflege Schwerpunkt Pädiatrie NDS HF und Intensivpflege Schwerpunkt Pädiatrie/Neonatologie (IPP) NDS HF in ausserkantonalen zertifizierten Weiterbildungsstätten,
 - g) medizinische Versorgung nach Genitalbeschneidungen: effektiv entstandene Kosten,
 - h) Hausarztmentoring: Fr. 50'000.– pro 20 Stellenprozent einer Mentorin oder eines Mentors,
