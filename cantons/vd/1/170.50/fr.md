@@ -4,7 +4,7 @@ number: "170.50"
 title: ARRÊTÉ du 18.12.2024 de mise en vigueur
 language: fr
 version: 2024-12-24
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=1801ad79-c0bf-49b7-8b5d-893c87fc9516"
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=1b1a1bc5-78de-4199-9608-c1b9b1cd7dc6"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
@@ -15,19 +15,10 @@ du 18 décembre 2024
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
-vu le préavis de la Direction générale des affaires institutionnelles et des communes
+vu le préavis de la Direction des affaires institutionnelles et des communes
 
 arrête
 
 #### Art. 1
 
-<sup>1</sup> Les lois ci-après du 1er octobre 2024, publiées dans la "Feuille des avis officiels du Canton de Vaud" du 14 décembre 2024, entrent en vigueur avec effet :
-
-- a. au 1er janvier 2025 :
-- 1\. loi du 1er octobre 2024 sur l'impôt 2025 (BLV 642.00).
-- b. au 1er janvier 2026 :
-- 1\. loi du 1er octobre 2024 sur l'impôt 2026 (BLV 642.00).
-- c. au 1er janvier 2027 :
-- 1\. loi du 1er octobre 2024 sur l'impôt 2027 (BLV 642.00).
-- d. au 1er janvier 2028 :
-- 1\. loi du 1er octobre 2024 sur l'impôt 2028 (BLV 642.00).
+<sup>1</sup> La loi 11 décembre 2024 modifiant celle du 23 novembre 2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont (BLV 850.053), publiée dans la "Feuille des avis officiels du Canton de Vaud" du 24 décembre 2024, entre en vigueur avec effet au 1er janvier 2026, sous réserve d'un éventuel référendum.
