@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2024-10-31
+version: 2024-12-24
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20241031/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20241031-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20241031/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20241224/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20241224-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20241224/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 31. Oktober 2024)
+vom 16. März 2022 (Stand am 24. Dezember 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -913,8 +913,6 @@ Das SECO kann bis zum 31. März 2025 nach Rücksprache mit den zuständigen Stel
 
 #### Art. 27c
 
-<sup>1</sup>
-
 Schweizer Staatsangehörige, in der Schweiz ansässige natürliche Personen sowie in der Schweiz niedergelassene juristische Personen, Organisationen und Einrichtungen haben das Recht, in Gerichtsverfahren vor den zuständigen Schweizer Gerichten Schadenersatz für Kosten, einschliesslich Rechtskosten, einzufordern, die ihnen infolge von Forderungen entstanden sind, die von den nachstehenden Personen, Unternehmen oder Organisationen bei Gerichten in Drittstaaten im Zusammenhang mit Verträgen oder Geschäften geltend gemacht wurden, deren Durchführung durch Massnahmen nach dieser Verordnung direkt oder indirekt verhindert oder beeinträchtigt wurde, sofern kein wirksamer Zugang zu den Rechtsbehelfen im betreffenden Hoheitsgebiet besteht:
 
 - a. juristische Personen, Unternehmen oder Organisationen nach den Anhängen dieser Verordnung;
@@ -1419,8 +1417,8 @@ Anhang 13[^t-9]
 
 [^annex13-lvlu1-1]
 
-[^t-9]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), vom 14. Aug. 2023 ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), vom 21. März 2024 ([AS 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), vom 13. Aug. 2024 ([AS 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)) und Ziff. II Abs. 1 der V vom 30. Okt. 2024, in Kraft seit 31. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/413](https://fedlex.data.admin.ch/eli/oc/2024/413) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-9]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), vom 15. Nov. 2022 ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), vom 14. Aug. 2023 ([AS 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), vom 21. März 2024 ([AS 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), vom 13. Aug. 2024 ([AS 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), Ziff. II Abs. 1 der V vom 30. Okt. 2024 ([AS 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)) und Ziff. I der V des WBF vom 20. Dez. 2024, in Kraft seit 24. Dez. 2024 ([AS 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)).
+[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/791](https://fedlex.data.admin.ch/eli/oc/2024/791) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14
 

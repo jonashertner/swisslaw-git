@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2024-10-31
+version: 2024-12-24
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20241031/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20241031-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20241031/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20241224/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20241224-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20241224/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (État le 31 octobre 2024)
+du 16 mars 2022 (État le 24 décembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -910,8 +910,6 @@ Le SECO peut, jusqu’au 31 mars 2025 et après avoir consulté les services com
 
 #### Art. 27c
 
-<sup>1</sup>
-
 Les ressortissants suisses, les personnes physiques résidant en Suisse et les personnes morales, entités et organismes établis en Suisse ont le droit, dans le cadre d’une procédure judiciaire engagée auprès des tribunaux suisses compétents, d’exiger des dommages-intérêts pour les frais, y compris les frais de justice, qu’ils ont supportés à la suite de demandes produites devant des tribunaux d’États tiers par les personnes, entreprises et entités mentionnées ci-après, en rapport avec tout contrat ou toute opération dont l’exécution a été empêchée ou affectée, directement ou indirectement, par des mesures instituées en vertu de la présente ordonnance, à condition que la personne concernée n’ait pas accès à un recours effectif devant la juridiction compétente:
 
 - a. les personnes morales, entreprises ou entités visées dans les annexes de la présente ordonnance;
@@ -1418,8 +1416,8 @@ Annexe 13[^t-9]
 
 [^annex13-lvlu1-1]
 
-[^t-9]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), du 14 août 2023 ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), du 21 mars 2024 ([RO 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), du 13 août 2024 ([RO 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)) et par le ch. II, al. 1, de l’O du 30 oct. 2024, en vigueur depuis le 31 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)).
-[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/413](https://fedlex.data.admin.ch/eli/oc/2024/413) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-9]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), du 15 nov. 2022 ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), du 14 août 2023 ([RO 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), du 21 mars 2024 ([RO 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)), du 13 août 2024 ([RO 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), par le ch. II, al. 1, de l’O du 30 oct. 2024 ([RO 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)) et le ch. I de l’O du DEFR du 20 déc. 2024, en vigueur depuis le 24 déc. 2024 ([RO 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)).
+[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/791](https://fedlex.data.admin.ch/eli/oc/2024/791) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 14
 

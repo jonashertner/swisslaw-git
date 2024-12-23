@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2024-10-31
+version: 2024-12-24
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20241031/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20241031-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20241031/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20241224/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20241224-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20241224/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 31 ottobre 2024)
+del 16 marzo 2022 (Stato 24 dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -657,7 +657,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - d. adempiere gli scopi ufficiali di rappresentanze diplomatiche o consolari o di organizzazioni internazionali; o
 - e. tutelare gli interessi svizzeri.
 
-[^18-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^18-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 #### Art. 19
 
@@ -667,7 +667,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>2</sup> Esse forniscono aggiornamenti sugli importi di tali depositi ogni 12 mesi.
 
-[^19-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^19-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 #### Art. 20
 
@@ -1416,8 +1416,8 @@ Allegato 13[^t-9]
 
 [^annex13-lvlu1-1]
 
-[^t-9]: Aggiornato dalla cifra I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), del 14 ago. 2023 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), del 21 mar. 2024 ([RU 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)) del 13 ago. 2024 ([RU 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)) e dalla cifra II cpv. 1 dell’O del 30 ott. 2024, in vigore dal 31 ott. 2024 ([RU 2024 2590](https://fedlex.data.admin.ch/eli/oc/2024/2590)).
-[^annex13-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/413](https://fedlex.data.admin.ch/eli/oc/2024/413) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-9]: Aggiornato dalla cifra I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), del 14 ago. 2023 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), del 21 mar. 2024 ([RU 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)) del 13 ago. 2024 ([RU 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)), dalla cifra II cpv. 1 dell’O del 30 ott. 2024 ([RU 2024 598](https://fedlex.data.admin.ch/eli/oc/2024/598)) e dalla cifra I dell’O del DEFR del 20 dic. 2024, in vigore dal 24 dic. 2024 ([RU 2024 791](https://fedlex.data.admin.ch/eli/oc/2024/791)).
+[^annex13-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/791](https://fedlex.data.admin.ch/eli/oc/2024/791) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14
 
