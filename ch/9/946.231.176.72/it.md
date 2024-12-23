@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-12-13
+version: 2024-12-24
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241213/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241213-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241213/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241224/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241224-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241224/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 13 dicembre 2024)
+del 4 marzo 2022 (Stato 24 dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -487,7 +487,7 @@ I divieti di cui ai capoversi 1 e 2 non si applicano alla vendita, alla fornitur
 - a.[^11-3] per il trasporto di petrolio e gas naturale, compresi prodotti derivanti dalla raffinazione del petrolio, dalla Federazione Russa, o attraverso la Federazione Russa, in Svizzera o nello SEE; o
 - b. per la prevenzione o mitigazione urgente di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente.
 
-<sup>4</sup> ...[^11-4]
+<sup>4</sup> …[^11-4]
 
 <sup>5</sup>
 
@@ -976,7 +976,7 @@ Il divieto di cui al capoverso 2 non si applica quando la fornitura di averi o l
 
 - a. per lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina da parte di organismi pubblici o di imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie o fornire aiuto alla popolazione civile;
 - b. per lo svolgimento delle attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e l’adempimento di missioni ufficiali della Confederazione; oppure
-- [tab] c.[^15-3]... .[^15-4]
+- c.[^15-3] …[^15-4]
 
 <sup>3bis</sup>
 
@@ -1407,7 +1407,7 @@ Se non altrimenti vietato, il divieto di cui al capoverso 1 non si applica:[^24a
 - e.[^24a-7] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto, diretti o indiretti, di petrolio, compresi i prodotti derivanti dalla raffinazione del petrolio, dalla Federazione Russa o attraverso la Federazione Russa;
 - f.[^24a-8] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto di prodotti farmaceutici, dispositivi medici e prodotti agricoli e alimentari, compresi il frumento e i concimi;
 - g.[^24a-9] alle transazioni necessarie per garantire l’accesso a procedimenti giudiziari, amministrativi o arbitrali in Svizzera o in uno Stato membro del SEE o per il riconoscimento o l’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro del SEE;
-- h.[^24a-10] ...
+- h.[^24a-10] …
 
 <sup>3</sup>
 
@@ -1671,7 +1671,7 @@ I divieti di cui ai capoversi 1<sup>bis</sup>–1<sup>quater</sup> non si applic
 - b. la prevenzione o la mitigazione urgente di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente;
 - c. gestire le catastrofi naturali.[^28e-12]
 
-<sup>2quater</sup> ...[^28e-13]
+<sup>2quater</sup> …[^28e-13]
 
 <sup>3</sup>
 
@@ -2118,7 +2118,7 @@ L’ordinanza del 27 agosto 2014[^34-1] che istituisce provvedimenti in relazion
 
 <sup>4</sup> In deroga ai divieti di cui agli articoli 4 capoversi 1 e 2 e 5 capoversi 1 e 2, la SECO autorizza le domande presentate entro l’8 maggio 2022 per attività destinate a fini civili e a destinatari finali civili basate su contratti conclusi prima del 5 marzo 2022. I destinatari finali di cui all’allegato 2 rientrano in questa disposizione se le attività per cui fanno domanda sono di natura esclusivamente civile.
 
-<sup>5</sup> a <sup>7</sup> ...[^35-1]
+<sup>5</sup> a <sup>7</sup> …[^35-1]
 
 <sup>8</sup> L’articolo 14*a* capoversi 1 e 2[^35-2] non si applica agli affari concordati in via contrattuale prima del 26 marzo 2022 ed eseguiti entro il 17 giugno 2022.[^35-3]
 
@@ -2129,41 +2129,41 @@ L’ordinanza del 27 agosto 2014[^34-1] che istituisce provvedimenti in relazion
 L’articolo 11*a* non si applica agli affari riguardanti:
 
 - a. i beni di cui all’allegato 23 numero 2, se l’affare è stato concordato prima del 1° febbraio 2024 ed eseguito entro il 1° giugno 2024;
-- b. i beni di cui all’allegato 23 numero 3, se l’affare è stato concordato prima del 17 ottobre 2024 ed eseguito entro il 17 gennaio 2025;[^35-5]
-- c. [^35-6] i beni della voce di tariffa doganale 2602, se l’affare è stato concordato prima del 17 ottobre 2024 ed eseguito entro il 17 novembre 2024;
-- d. [^35-7] i beni delle voci di tariffa doganale 8481 80 e 8708 99, se l’affare è stato concordato prima del 17 ottobre 2024 ed eseguito entro il 14 gennaio 2025.
+- b. i beni di cui all’allegato 23 numero 3, se l’affare è stato concordato prima del 17 ottobre 2024 ed eseguito entro il 17 gennaio 2025;
+- c. i beni della voce di tariffa doganale 2602, se l’affare è stato concordato prima del 17 ottobre 2024 ed eseguito entro il 17 novembre 2024;
+- d. i beni delle voci di tariffa doganale 8481 80 e 8708 99, se l’affare è stato concordato prima del 17 ottobre 2024 ed eseguito entro il 14 gennaio 2025.[^35-5]
 
-<sup>11</sup> ...[^35-8]
+<sup>11</sup> …[^35-6]
 
-<sup>12</sup> e <sup>13</sup> …[^35-9]
+<sup>12</sup> e <sup>13</sup> …[^35-7]
 
-<sup>14</sup> L’articolo 28*c* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 28 aprile 2022 ed eseguiti entro il 29 ottobre 2022.[^35-10]
+<sup>14</sup> L’articolo 28*c* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 28 aprile 2022 ed eseguiti entro il 29 ottobre 2022.[^35-8]
 
 <sup>15</sup>
 
 L’articolo *12a* capoversi 1 e 2 non si applica:
 
 - a. agli affari riguardanti l’acquisto, l’importazione, il transito o il trasporto di merci della voce di tariffa 2709 00 concordati in via contrattuale prima del 30 giugno 2022 ed eseguiti entro il 5 dicembre 2022, e alle operazioni una tantum per consegna a breve termine dello stesso contenuto eseguite entro il 5 dicembre 2022, a condizione che i contratti esistenti siano notificati alla SECO entro il 21 luglio 2022 e le operazioni una tantum per consegna a breve termine siano notificate alla SECO entro 10 giorni dal completamento;
-- b. agli affari riguardanti l’acquisto, l’importazione, il transito o il trasporto di merci della voce di tariffa 2710 concordati in via contrattuale prima del 30 giugno 2022 ed eseguiti entro il 5 febbraio 2023, e alle operazioni una tantum per consegna a breve termine dello stesso contenuto eseguite entro il 5 febbraio 2023, a condizione che i contratti esistenti siano notificati alla SECO entro il 21 luglio 2022 e le operazioni una tantum per consegna a breve termine siano notificate alla SECO entro 10 giorni dal completamento.[^35-11]
+- b. agli affari riguardanti l’acquisto, l’importazione, il transito o il trasporto di merci della voce di tariffa 2710 concordati in via contrattuale prima del 30 giugno 2022 ed eseguiti entro il 5 febbraio 2023, e alle operazioni una tantum per consegna a breve termine dello stesso contenuto eseguite entro il 5 febbraio 2023, a condizione che i contratti esistenti siano notificati alla SECO entro il 21 luglio 2022 e le operazioni una tantum per consegna a breve termine siano notificate alla SECO entro 10 giorni dal completamento.[^35-9]
 
-<sup>16</sup> L’articolo 12*b* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 30 giugno 2022 ed eseguiti entro il 5 dicembre 2022.[^35-12]
+<sup>16</sup> L’articolo 12*b* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 30 giugno 2022 ed eseguiti entro il 5 dicembre 2022.[^35-10]
 
 <sup>17</sup>
 
 L’articolo 24*a* capoverso 1 non si applica:
 
 - a. all’accettazione dei pagamenti dovuti dalle banche, imprese o organizzazioni di cui all’articolo 24*a* capoverso 1 nell’ambito di contratti eseguiti prima del 15 maggio 2022;
-- b.[^35-13] alle transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 dicembre 2024, di una joint venture o di un istituto giuridico affine costituiti prima del 26 marzo 2022 e a cui partecipa una banca, un’impresa o un’organizzazione di cui all’articolo 24*a* capoverso 1.[^35-14]
+- b.[^35-11] alle transazioni, compresa la vendita, necessarie per la liquidazione, entro il 31 dicembre 2024, di una joint venture o di un istituto giuridico affine costituiti prima del 26 marzo 2022 e a cui partecipa una banca, un’impresa o un’organizzazione di cui all’articolo 24*a* capoverso 1.[^35-12]
 
-<sup>18</sup> L’articolo 28*d* capoverso 1 non si applica alle transazioni necessarie per porre fine entro il 31 luglio 2022 ai contratti stipulati prima del 28 aprile 2022 incompatibili con il presente articolo.[^35-15]
+<sup>18</sup> L’articolo 28*d* capoverso 1 non si applica alle transazioni necessarie per porre fine entro il 31 luglio 2022 ai contratti stipulati prima del 28 aprile 2022 incompatibili con il presente articolo.[^35-13]
 
-<sup>19</sup> ...[^35-16]
+<sup>19</sup> …[^35-14]
 
-<sup>20</sup> ...[^35-17]
+<sup>20</sup> …[^35-15]
 
-<sup>20bis</sup> ...[^35-18]
+<sup>20bis</sup> …[^35-16]
 
-<sup>21</sup> e <sup>23</sup>…[^35-19]
+<sup>21</sup> e <sup>23</sup>…[^35-17]
 
 <sup>24</sup>
 
@@ -2172,7 +2172,7 @@ L’articolo 12*b* capoverso 2 non si applica:
 - a. agli affari riguardanti la fornitura di servizi di ogni genere in relazione con il petrolio greggio della voce di tariffa doganale 2709 00 concordati in via contrattuale prima del 30 giugno 2022 ed eseguiti entro il 5 dicembre 2022;
 - b. agli affari riguardanti la fornitura di servizi di ogni genere in relazione con i prodotti petroliferi della voce di tariffa doganale 2710 concordati in via contrattuale prima del 30 giugno 2022 ed eseguiti entro il 5 febbraio 2023;
 - c. al pagamento, dopo il 5 dicembre 2022, per il petrolio greggio della voce di tariffa doganale 2709 00 di crediti assicurativi sulla base di contratti di assicurazione conclusi prima del 30 giugno 2022 a condizione che la copertura assicurativa sia cessata alla data del pagamento;
-- d. al pagamento, dopo il 5 febbraio 2023, per i prodotti petroliferi della voce di tariffa doganale 2710 di crediti assicurativi sulla base di contratti di assicurazione conclusi prima del 30 giugno 2022 a condizione che la copertura assicurativa sia cessata alla data del pagamento.[^35-20]
+- d. al pagamento, dopo il 5 febbraio 2023, per i prodotti petroliferi della voce di tariffa doganale 2710 di crediti assicurativi sulla base di contratti di assicurazione conclusi prima del 30 giugno 2022 a condizione che la copertura assicurativa sia cessata alla data del pagamento.[^35-18]
 
 <sup>25</sup>
 
@@ -2180,86 +2180,84 @@ L’articolo 12*b* capoversi 1 e 2 non si applica:
 
 - a. al trasporto del petrolio greggio della voce di tariffa doganale 2709 00, se il trasporto avviene entro il 5 dicembre 2022;
 - b. al trasporto dei prodotti petroliferi della voce di tariffa doganale 2710, se il trasporto avviene entro il 5 febbraio 2023;
-- c.[^35-21]
+- c.[^35-19]
 
   al trasporto di petrolio greggio e di prodotti petroliferi per un periodo di 90 giorni dopo una modifica dell’allegato 28 né alla fornitura di assistenza tecnica, di servizi di intermediazione e di servizi finanziari né alla concessione di mezzi finanziari in relazione con tale trasporto, se:
 
   - 1\. le attività menzionate sono svolte sulla base di un contratto concluso prima della modifica dell’allegato 28, e
   - 2\. il prezzo di acquisto non supera il limite massimo fissato nell’allegato 28 alla data di conclusione di tale contratto;
 
-- d.[^35-22] al trasporto di petrolio greggio della voce di tariffa doganale 2709 00 originario della Federazione Russa o proveniente dalla Federazione Russa caricato su una nave nel porto di carico prima del 16 dicembre 2022 e scaricato nel porto di destinazione finale prima del 19 gennaio 2023 e il cui prezzo di acquisto supera il limite massimo fissato nell’allegato 28;
-- e.[^35-23] agli scambi, all’intermediazione e al trasporto di prodotti petroliferi della voce di tariffa doganale 2710 originari della Federazione Russa o provenienti dalla Federazione Russa caricati su una nave nel porto di carico prima del 15 febbraio 2023 e scaricati nel porto di destinazione finale prima dell’11 aprile 2023 e il cui prezzo di acquisto supera il limite massimo fissato nell’allegato 28.[^35-24]
+- d.[^35-20] al trasporto di petrolio greggio della voce di tariffa doganale 2709 00 originario della Federazione Russa o proveniente dalla Federazione Russa caricato su una nave nel porto di carico prima del 16 dicembre 2022 e scaricato nel porto di destinazione finale prima del 19 gennaio 2023 e il cui prezzo di acquisto supera il limite massimo fissato nell’allegato 28;
+- e.[^35-21] agli scambi, all’intermediazione e al trasporto di prodotti petroliferi della voce di tariffa doganale 2710 originari della Federazione Russa o provenienti dalla Federazione Russa caricati su una nave nel porto di carico prima del 15 febbraio 2023 e scaricati nel porto di destinazione finale prima dell’11 aprile 2023 e il cui prezzo di acquisto supera il limite massimo fissato nell’allegato 28.[^35-22]
 
 <sup>26</sup>
 
 L’articolo 24*a* capoverso 1 non si applica:
 
 - a. all’accettazione dei pagamenti dovuti dall’organizzazione menzionata nell’allegato 15 al numero SSID 175-57347 nell’ambito di contratti eseguiti entro il 4 febbraio 2023;
-- b.[^35-25] ...
-- c.[^35-26] all’accettazione dei pagamenti dovuti dall’organizzazione menzionata nell’allegato 15 al numero SSID 175-59958 nell’ambito di contratti eseguiti entro il 26 aprile 2023;
-- d.[^35-27] ... .[^35-28]
+- b.[^35-23] …
+- c.[^35-24] all’accettazione dei pagamenti dovuti dall’organizzazione menzionata nell’allegato 15 al numero SSID 175-59958 nell’ambito di contratti eseguiti entro il 26 aprile 2023;
+- d.[^35-25] … .[^35-26]
 
-<sup>27</sup> ...[^35-29]
+<sup>27</sup> …[^35-27]
 
-<sup>28</sup> L’articolo 28*e* capoverso 1<sup>quater</sup> non si applica agli affari necessari per porre fine entro il 3 maggio 2024 ai contratti stipulati prima del 1° febbraio 2024 incompatibili con l’articolo 28*e*.[^35-30]
+<sup>28</sup> L’articolo 28*e* capoverso 1<sup>quater</sup> non si applica agli affari necessari per porre fine entro il 3 maggio 2024 ai contratti stipulati prima del 1° febbraio 2024 incompatibili con l’articolo 28*e*.[^35-28]
 
-<sup>29</sup> L’articolo 14*f* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 1° febbraio 2024 ed eseguiti entro il 1° gennaio 2025 o i cui contratti sono scaduti, a seconda dell’evento che si verifica per primo.[^35-31]
+<sup>29</sup> L’articolo 14*f* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 1° febbraio 2024 ed eseguiti entro il 1° gennaio 2025 o i cui contratti sono scaduti, a seconda dell’evento che si verifica per primo.[^35-29]
 
 <sup>30</sup>
 
 L’articolo 14*c* non si applica agli affari riguardanti:
 
-- a.[^35-32] i beni delle voci di tariffa doganale 2804 29 e 2845 40, se l’affare è stato concordato prima del 17 ottobre 2024 ed eseguito entro il 17 gennaio 2025;
-- b. i beni delle voci di tariffa doganale 2711 12, 2711 13, 2711 14, 2711 19 e 7202, se l’affare è stato concordato prima del 1° febbraio 2024 ed eseguito entro il 20 dicembre 2024.[^35-33]
+- a.[^35-30] i beni delle voci di tariffa doganale 2804 29 e 2845 40, se l’affare è stato concordato prima del 17 ottobre 2024 ed eseguito entro il 17 gennaio 2025;
+- b. i beni delle voci di tariffa doganale 2711 12, 2711 13, 2711 14, 2711 19 e 7202, se l’affare è stato concordato prima del 1° febbraio 2024 ed eseguito entro il 20 dicembre 2024.[^35-31]
 
-<sup>31</sup> L’articolo 14*g* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 17 ottobre 2024 ed eseguiti entro il 26 giugno 2025 o i cui contratti sono scaduti, a seconda dell’evento che si verifica per primo.[^35-34]
+<sup>31</sup> L’articolo 14*g* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 17 ottobre 2024 ed eseguiti entro il 26 giugno 2025 o i cui contratti sono scaduti, a seconda dell’evento che si verifica per primo.[^35-32]
 
-<sup>32</sup> L’articolo 10*a* non si applica agli affari concordati in via contrattuale prima del 17 ottobre 2024 ed eseguiti entro il 17 gennaio 2025.[^35-35]
+<sup>32</sup> L’articolo 10*a* non si applica agli affari concordati in via contrattuale prima del 17 ottobre 2024 ed eseguiti entro il 17 gennaio 2025.[^35-33]
 
-<sup>33</sup> L’articolo 12*f* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 17 ottobre 2024 ed eseguiti entro il 14 aprile 2025.[^35-36]
+<sup>33</sup> L’articolo 12*f* capoverso 1 non si applica agli affari concordati in via contrattuale prima del 17 ottobre 2024 ed eseguiti entro il 14 aprile 2025.[^35-34]
 
-<sup>34</sup> L’articolo 12*e* capoversi 1 e 2 non si applica agli affari concordati in via contrattuale prima del 17 ottobre 2024 ed eseguiti entro il 17 gennaio 2025.[^35-37]
+<sup>34</sup> L’articolo 12*e* capoversi 1 e 2 non si applica agli affari concordati in via contrattuale prima del 17 ottobre 2024 ed eseguiti entro il 17 gennaio 2025.[^35-35]
 
-<sup>35</sup> L’articolo 27*a* capoverso 2 non si applica agli affari concordati in via contrattuale prima del 24 marzo 2024 con banche, imprese o organizzazioni di cui all’allegato 14*a* ed eseguiti entro il 19 gennaio 2025.[^35-38]
+<sup>35</sup> L’articolo 27*a* capoverso 2 non si applica agli affari concordati in via contrattuale prima del 24 marzo 2024 con banche, imprese o organizzazioni di cui all’allegato 14*a* ed eseguiti entro il 19 gennaio 2025.[^35-36]
 
 [^35-1]: Introdotti dalla cifra I dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Abrogati dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^35-2]: Ora: articolo 14*a* capoversi 1 e 3
 [^35-3]: Introdotto dalla cifra I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-4]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^35-5]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-6]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-7]: Introdotta dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-8]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-9]: Introdotti dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogati dalla cifra I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^35-10]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
-[^35-11]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-6]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-7]: Introdotti dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Abrogati dalla cifra I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^35-8]: Introdotto dalla cifra I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^35-9]: Introdotto dalla cifra I dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-10]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-11]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^35-12]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-13]: Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-14]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-15]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^35-16]: Introdotto dalla cifra I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-17]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-18]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-19]: Introdotti dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogati dalla cifra I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^35-20]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-21]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
-[^35-22]: Introdotta dalla cifra I dell’O del 16 dic. 2022 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)). Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-23]: Introdotta dalla cifra I dell’O del 15 feb. 2023, in vigore dal 15 feb. 2023 alle ore 18.00 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
-[^35-24]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-25]: Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-26]: Introdotta dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
-[^35-27]: Introdotta dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-28]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-29]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-30]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^35-31]: Introdotto dalla cifra I dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-32]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-33]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-13]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^35-14]: Introdotto dalla cifra I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-15]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-16]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-17]: Introdotti dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogati dalla cifra I dell’O del 16 ago. 2023, con effetto dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^35-18]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-19]: Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
+[^35-20]: Introdotta dalla cifra I dell’O del 16 dic. 2022 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)). Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-21]: Introdotta dalla cifra I dell’O del 15 feb. 2023, in vigore dal 15 feb. 2023 alle ore 18.00 ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)).
+[^35-22]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-23]: Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-24]: Introdotta dalla cifra I dell’O del 25 gen. 2023, in vigore dal 25 gen. 2023 alle ore 18.00 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)).
+[^35-25]: Introdotta dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Abrogata dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-26]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-27]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Abrogato dalla cifra I dell’O del 31 gen. 2024, con effetto dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-28]: Introdotto dalla cifra I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta la cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-29]: Introdotto dalla cifra I dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-30]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-31]: Introdotto dalla cifra I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^35-32]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^35-33]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^35-34]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^35-35]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^35-36]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-37]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
-[^35-38]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 #### Art. 36
 
@@ -2286,8 +2284,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Aggiornato dalla cifra II cpv. 1 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) dalla cifra I cpv. 1 dell’O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 delle O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra II cpv. 1 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)) e dalla cifra I dell’O del DEFR del 12 dic. 2024, vigore il 13 dic. 2024 alle ore 18.00 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/769](https://fedlex.data.admin.ch/eli/oc/2024/769) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Aggiornato dalla cifra II cpv. 1 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) dalla cifra I cpv. 1 dell’O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 delle O del 29 mar. 2023 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)), del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra II cpv. 1 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)), dalla cifra I dell’O del DEFR del 12 dic. 2024 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)) e del 20 dic. 2024, in vigore dal 24 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)).
+[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/792](https://fedlex.data.admin.ch/eli/oc/2024/792) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 
@@ -2623,8 +2621,8 @@ Allegato 8[^t-9]
 
 [^annex8-lvlu1-1]
 
-[^t-9]: Aggiornato dalla cifra I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dalla cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dalla cifra I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dalla cifra I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dalla cifra I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dalla cifra I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dalla cifra II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dalla cifra I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dalla cifra II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dalla cifra I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dalla cifra II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra I cpv. 1 dell’O del DEFR del 21 mar. 2024 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), dalle cifre I delle O del DEFR del 3 giu. 2024 ([RU 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), dell’8 lug. 2024 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), del 23 set. 2024 ([RU 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)) e del 12 dic. 2024, vigore il 13 dic. 2024 alle ore 18.00 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)).
-[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/769](https://fedlex.data.admin.ch/eli/oc/2024/769) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-9]: Aggiornato dalla cifra I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dalla cifra I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dalla cifra II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dalla cifra I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dalla cifra I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dalla cifra I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), dalla cifra I cpv. 1 dell’O del DEFR del 7 dic. 2022 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)), dalla cifra I dell’O del DEFR del 20 dic. 2022 ([RU 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)), dalla cifra II cpv. 1 delle O del 15 feb. 2023, ([RU 2023 71](https://fedlex.data.admin.ch/eli/oc/2023/71)), dalla cifra I delle O del DEFR del 1° mar. 2023 ([RU 2023 100](https://fedlex.data.admin.ch/eli/oc/2023/100)), del 19 apr. 2023 ([RU 2023 188](https://fedlex.data.admin.ch/eli/oc/2023/188)), del 6 giu. 2023 ([RU 2023 271](https://fedlex.data.admin.ch/eli/oc/2023/271)), del 27 giu. 2023 ([RU 2023 336](https://fedlex.data.admin.ch/eli/oc/2023/336)), dalla cifra II cpv. 1 dell’O del 16 ago. 2023 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)), dalla cifra I delle O del DEFR del 25 set. 2023 ([RU 2023 544](https://fedlex.data.admin.ch/eli/oc/2023/544)), del 1° nov. 2023 ([RU 2023 632](https://fedlex.data.admin.ch/eli/oc/2023/632)), del 20 dic. 2023 ([RU 2023 819](https://fedlex.data.admin.ch/eli/oc/2023/819)), dalla cifra II cpv. 1 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)), dalla cifra I dell’O del DEFR del 29 feb. 2024 ([RU 2024 94](https://fedlex.data.admin.ch/eli/oc/2024/94)), dalla cifra I cpv. 1 dell’O del DEFR del 21 mar. 2024 ([RU 2024 123](https://fedlex.data.admin.ch/eli/oc/2024/123)), dalle cifre I delle O del DEFR del 3 giu. 2024 ([RU 2024 246](https://fedlex.data.admin.ch/eli/oc/2024/246)), dell’8 lug. 2024 ([RU 2024 347](https://fedlex.data.admin.ch/eli/oc/2024/347)), del 23 set. 2024 ([RU 2024 517](https://fedlex.data.admin.ch/eli/oc/2024/517)), del 12 dic. 2024 ([RU 2024 769](https://fedlex.data.admin.ch/eli/oc/2024/769)) e del 20 dic. 2024, in vigore dal 24 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)).
+[^annex8-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/792](https://fedlex.data.admin.ch/eli/oc/2024/792) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
@@ -3784,5 +3782,5 @@ Allegato 33[^t-36]
 
 [^annex33-lvlu1-1]
 
-[^t-36]: Introdotto dalla cifra II cpv. 3 dell’O. del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564))
-[^annex33-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/564](https://fedlex.data.admin.ch/eli/oc/2024/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-36]: Introdotto dalla cifra II cpv. 3 dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Aggiornato dalla cifra I dell’O del DEFR del 20 dic. 2024, in vigore dal 24 dic. 2024 ([RU 2024 792](https://fedlex.data.admin.ch/eli/oc/2024/792)).
+[^annex33-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/792](https://fedlex.data.admin.ch/eli/oc/2024/792) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
