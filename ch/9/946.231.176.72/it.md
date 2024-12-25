@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-12-24
+version: 2024-12-26
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241224/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241224-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241224/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241226/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241226-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241226/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 24 dicembre 2024)
+del 4 marzo 2022 (Stato 26 dicembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -951,6 +951,18 @@ Gli esportatori devono notificare alla SECO:
 [^14f-2]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^14f-3]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^14f-4]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+
+#### Art. 14g
+
+**Obbligo di vietare per contratto il trasferimento di diritti di proprietà intellettuale e di segreti commerciali**[^14g-1]
+
+<sup>1</sup> All’atto della vendita, della concessione in licenza o di qualsiasi altro trasferimento di diritti di proprietà intellettuale o segreti commerciali, così come all’atto del riconoscimento di diritti di accesso o di riutilizzo di materiale o informazioni che sono tutelati da diritti di proprietà intellettuale o coperti da segreto commerciale in relazione ai prodotti ad alta priorità di cui all’allegato 31, alla controparte è vietato utilizzare tali diritti e segreti in relazione ai prodotti ad alta priorità di cui all’allegato 31 che sono destinati alla vendita, alla fornitura, all’esportazione, al trasporto o al transito nella Federazione Russa o a un uso nella Federazione Russa e la controparte deve altresì imporre lo stesso divieto agli eventuali sublicenziatari di tali diritti o segreti.
+
+<sup>2</sup> I contratti con la controparte di cui al capoverso 1 devono prevedere adeguate misure correttive in caso di violazione.
+
+<sup>3</sup> Le violazioni dei divieti di cui al capoverso 1 devono essere notificate senza indugio alla SECO.
+
+[^14g-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024, in vigore dal 26 dic. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 ## Sezione 3: Restrizioni finanziarie
 
@@ -3739,7 +3751,7 @@ Allegato 31[^t-34]
 
 [^annex31-lvlu1-1]
 
-[^t-34]: Introdotto dalla cifra II cpv. 4 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Nuovo testo giusta della cifra II cpv. 2 dell’O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+[^t-34]: Introdotto dalla cifra II cpv. 4 dell’O del 31 gen. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)). Nuovo testo giusta dalla cifra II cpv. 2 dell’O del 16 ott. 2024, in vigore il 17 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^annex31-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/564](https://fedlex.data.admin.ch/eli/oc/2024/564) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 32[^t-35]

@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2024-12-24
+version: 2024-12-26
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241224/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241224-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241224/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241226/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241226-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241226/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 24 décembre 2024)
+du 4 mars 2022 (État le 26 décembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -948,6 +948,18 @@ Les exportateurs déclarent au SECO:
 [^14f-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^14f-3]: Introduit par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^14f-4]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 17 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+
+#### Art. 14g
+
+**Obligation d’interdire contractuellement le transfert de droits de propriété intellectuelle et de secrets d’affaires**[^14g-1]
+
+<sup>1</sup> Lors de la vente, de la concession sous licence ou de tout autre transfert de droits de propriété intellectuelle ou de secrets d’affaires, ainsi que de l’octroi de droits permettant de consulter ou de réutiliser tout matériel ou toute information protégés par des droits de propriété intellectuelle ou constituant des secrets d’affaires, en rapport avec les biens hautement prioritaires visés à l’annexe 31, il y a lieu d’imposer contractuellement à la contrepartie l’interdiction d’utiliser ces droits et ces secrets en lien avec les biens hautement prioritaires visés à l’annexe 31 destinés à la vente, à la livraison, à l’exportation, au transport ou au transit à destination de la Fédération de Russie ou aux fins d’une utilisation dans ce pays et l’obligation d’interdire d’éventuelles cessions en sous-licences de ces droits et de ces secrets.
+
+<sup>2</sup> Le contrat avec la contrepartie visé à l’al. 1 prévoit des voies de recours adéquates en cas d’infraction.
+
+<sup>3</sup> Les infractions aux interdictions visées à l’al. 1 sont déclarées sans délai au SECO.
+
+[^14g-1]: Introduit par le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 26 déc. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 ## Section 3 Restrictions financières
 

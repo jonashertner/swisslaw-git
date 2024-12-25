@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2024-12-24
+version: 2024-12-26
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241224/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241224-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241224/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20241226/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20241226-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20241226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 24. Dezember 2024)
+vom 4. März 2022 (Stand am 26. Dezember 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -951,6 +951,18 @@ Die Exporteure müssen dem SECO melden:
 [^14f-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 17. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^14f-3]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024, in Kraft seit 17. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 [^14f-4]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 17. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
+
+#### Art. 14g
+
+**Pflicht zum vertraglichen Verbot der Weitergabe von Rechten des geistigen Eigentums und Geschäftsgeheimnissen**[^14g-1]
+
+<sup>1</sup> Bei dem Verkauf von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen, der Erteilung von Lizenzen für solche Rechte und Geheimnisse, der anderweitigen Weitergabe solcher Rechte und Geheimnisse sowie der Gewährung von Rechten auf den Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, im Zusammenhang mit Gütern mit hoher Priorität nach Anhang 31 muss die Nutzung solcher Rechte und Geheimnisse im Zusammenhang mit Gütern mit hoher Priorität nach Anhang 31, die zu dem Verkauf, der Lieferung, der Ausfuhr, dem Transport und der Durchfuhr nach oder zur Verwendung in der Russischen Föderation bestimmt sind, der Gegenpartei vertraglich verboten werden und diese muss verpflichtet werden, eine solche Nutzung möglichen Unterlizenznehmern solcher Rechte und Geheimnisse ebenfalls zu verbieten.
+
+<sup>2</sup> Die Verträge mit der Gegenpartei nach Absatz 1 müssen für den Fall eines Verstosses angemessene Abhilfemassnahmen vorsehen.
+
+<sup>3</sup> Verstösse gegen die Verbote nach Absatz 1 müssen dem SECO unverzüglich gemeldet werden.
+
+[^14g-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024, in Kraft seit 26. Dez. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)).
 
 ## 3. Abschnitt: Finanzielle Beschränkungen
 
