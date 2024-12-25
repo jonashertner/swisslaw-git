@@ -3,13 +3,12 @@ canton: BS
 number: "735.200"
 title: Verordnung über den Brandschutz
 language: de
-version: 2020-07-01
-valid_until: 2024-12-25
-version_adopted: 2020-05-05
+version: 2024-12-26
+version_adopted: 2024-12-17
 adopted: 2004-12-21
 in_force: 2005-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/735.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4957/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6490/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4957/pdf_file"
 
 Brandschutzverordnung | Sicherheit und Brandschutz für Bauten
 
-Vom 21. Dezember 2004 (Stand 1. Juli 2020)
+Vom 21. Dezember 2004 (Stand 26. Dezember 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -39,37 +38,16 @@ beschliesst:
 
 <sup>2</sup> In den Zuständigkeitsbereich der Feuerpolizei fallen:
 
-– die Beratung von Bauherrschaften, Architektinnen und Architekten sowie Fachplanerinnen und Fachplanern und der Feuerwehren;
+- a) die Beratung von Bauherrschaften, Architektinnen und Architekten sowie Fachplanerinnen und Fachplanern und der Feuerwehren;
+- b) das Festsetzen der Brandschutzauflagen im Baubewilligungsverfahren für Bauten und Anlagen;
+- c) das Formulieren von Brandschutzauflagen für Veranstaltungen in Räumen mit grosser Personenbelegung[^1-1] und sinngemäss für Fahrnisbauten, sowie für die Durchführung von Fackelumzügen und das Abbrennen von Höhenfeuern;
+- d) das Mitwirken bei der Festlegung der Brandschutzauflagen für die dem arbeitsrechtlichen Plangenehmigungsverfahren und dem Planbegutachtungsverfahren unterstellten Betriebe;
+- e) die Unterstützung der Berufsfeuerwehr und der Kontrollstelle für Chemie- und Biosicherheit (KCB) bei der Erarbeitung von Notfall- und Einsatzplanungen;
+- f) die Prüfung der Ex-Zonenzuteilung im Einvernehmen mit dem Kantonalen Arbeitsinspektorat Basel-Stadt;
+- g) die Durchführung feuerpolizeilicher Kontrollen und das Durchsetzen feuerpolizeilicher Vorschriften;
+- h) der Entscheid über Gesuche betreffend die Lagerung und den Verkauf von Feuerwerk, sowie dessen Kontrolle.
 
-– das Festsetzen der Brandschutzauflagen im Baubewilligungsverfahren für folgende Bauten und Anlagen:
-
-a) Industrie- und Gewerbebauten sowie Bauten mit noch unbestimmter Nutzung;
-
-b) Lagerhäuser und Lagerräume;
-
-c) Beherbergungsbetriebe, Heime, Spitäler, Anstalten, Gebäude des Strafvollzugs;
-
-d) Bauten und Räume, in denen sich zeitweise viele Menschen aufhalten, wie Verkaufsgeschäfte, Einkaufszentren, Bürogebäude, Kantinen, Säle/Quartiertreffs, Ausstellungshallen/Messen, Museen, Schulen, Dancings, Diskotheken, Nachtclubs, Theater, Kinos, Sporthallen/Stadien, religiöse Versammlungsstätten;
-
-e) Hochhäuser (auch Wohn-Hochhäuser, Definition «Hochhaus» gemäss dem Verzeichnis «Begriffe» im Anhang der Schweizerischen Brandschutzvorschriften VKF);
-
-f) Parkhäuser, Tiefgaragen und Einstellräume für Motorfahrzeuge mit einer Grundfläche von mehr als 150 m², öffentliche Einstellräume für Zweiräder;
-
-g) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuergefährlichen Stoffen und Waren;
-
-– das Formulieren von Brandschutzauflagen für Feuerungs- und Abgasanlagen in oder für die unter Abs. 2 lit. a–e aufgeführten Bauten und Anlagen;
-
-– das Formulieren von Brandschutzauflagen für Veranstaltungen in Räumen mit grosser Personenbelegung (Definitionen gemäss den Schweizerischen Brandschutzvorschriften VKF) und sinngemäss für Fahrnisbauten, sowie für die Durchführung von Fackelumzügen und das Abbrennen von Höhenfeuern;
-
-– das Mitwirken bei der Festlegung der Brandschutzauflagen für die dem arbeitsrechtlichen Plangenehmigungsverfahren und dem Planbegutachtungsverfahren unterstellten Betriebe;
-
-– die Unterstützung der Berufsfeuerwehr und der Kontrollstelle für Chemie- und Biosicherheit (KCB) bei der Erarbeitung von Notfall- und Einsatzplanungen;
-
-– die Prüfung der Ex-Zonenzuteilung im Einvernehmen mit dem Kantonalen Arbeitsinspektorat Basel-Stadt;
-
-– die Durchführung feuerpolizeilicher Kontrollen und das Durchsetzen feuerpolizeilicher Vorschriften;
-
-– der Entscheid über Gesuche betreffend der Lagerung und den Verkauf von Feuerwerk, sowie dessen Kontrolle.
+[^1-1]: Definitionen gemäss den Schweizerischen Brandschutzvorschriften VKF
 
 ## II. Brandschutzvorschriften
 
@@ -77,9 +55,7 @@ g) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuergefährlich
 
 <sup>1</sup> Unter dem Vorbehalt weitergehender Bestimmungen sind die Schweizerischen Brandschutzvorschriften VKF als kantonales Recht anwendbar.
 
-<sup>2</sup> Die Liste der anwendbaren Gesetze, Verordnungen, Normen, Richtlinien und Leitsätze kann bei der Feuerpolizei oder beim Bauinspektorat[^2-1] (Bau- und Verkehrsdepartement) eingesehen werden.
-
-[^2-1]: § 2 Abs. 2: Jetzt: Bau- und Gastgewerbeinspektorat.
+<sup>2</sup> Die Liste der anwendbaren Gesetze, Verordnungen, Normen, Richtlinien und Leitsätze kann bei der Feuerpolizei eingesehen werden.
 
 #### § 3
 
@@ -93,7 +69,7 @@ g) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuergefährlich
 
 **Normalfall und Abweichungen**
 
-<sup>1</sup> Anstelle vorgeschriebener Brandschutzmassnahmen für die unter § 1 Abs. 2 lit. a–g aufgeführten Bauten und Anlagen können alternativ andere Brandschutzmassnahmen als Einzel- oder Konzeptlösung treten, soweit für das Einzelobjekt das Schutzziel gleichwertig erreicht wird.
+<sup>1</sup> Anstelle vorgeschriebener Brandschutzmassnahmen für Bauten und Anlagen können alternativ andere Brandschutzmassnahmen als Einzel- oder Konzeptlösung treten, soweit für das Einzelobjekt das Schutzziel gleichwertig erreicht wird. Über die Gleichwertigkeit entscheidet die Feuerpolizei.
 
 <sup>2</sup> Die Gesuchstellerin oder der Gesuchsteller hat dafür bei der Feuerpolizei eine Ausnahmebewilligung zu beantragen und den Nachweis der Gleichwertigkeit zu erbringen.
 
@@ -111,19 +87,14 @@ g) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuergefährlich
 
 <sup>1</sup> Die Feuerpolizei kann unter Berücksichtigung der nutzungsabhängigen Brandschutzanforderungen die Nutzerin, den Nutzer oder die Nutzergemeinschaft dazu verpflichten, eine Sicherheitsbeauftragte oder einen Sicherheitsbeauftragten zu bestimmen.
 
-<sup>2</sup> Die Sicherheitsbeauftragte oder der Sicherheitsbeauftragte
+<sup>2</sup> Die Sicherheitsbeauftragte oder der Sicherheitsbeauftragte:
 
-– informiert und berät die Geschäftsleitung in Belangen des Brandschutzes;
-
-– kontrolliert und wartet alle im Objekt vorhandenen fest installierten und mobilen Brandschutzeinrichtungen und -geräte;
-
-– überwacht Reparaturarbeiten im Objekt, insbesondere die Ausführung feuergefährlicher Arbeiten;
-
-– verfügt über ein Pflichtenheft mit Aufgabenbeschrieb und Regelung ihrer respektive seiner Kompetenzen;
-
-– hat Gelegenheit, sich ausbilden und periodisch fortbilden zu lassen;
-
-– ist Kontaktperson zur Feuerpolizei.
+- a) informiert und berät die Geschäftsleitung in Belangen des Brandschutzes;
+- b) kontrolliert und wartet alle im Objekt vorhandenen fest installierten und mobilen Brandschutzeinrichtungen und -geräte;
+- c) überwacht Reparaturarbeiten im Objekt, insbesondere die Ausführung feuergefährlicher Arbeiten;
+- d) verfügt über ein Pflichtenheft mit Aufgabenbeschrieb und Regelung ihrer respektive seiner Kompetenzen;
+- e) hat Gelegenheit, sich auszubilden und periodisch fortbilden zu lassen;
+- f) ist Kontaktperson zur Feuerpolizei.
 
 #### § 7
 
@@ -145,21 +116,15 @@ g) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuergefährlich
 
 #### § 9
 
-**Gewerbliche Küchen**
-
-<sup>1</sup> Gewerbliche Küchen in separaten Räumen sind mit dem gleichen Feuerwiderstand wie das Tragwerk, mindestens aber mit Feuerwiderstand EI 30 (nbb) anzuordnen. Brandschutzabschlüsse (Türen, Durchreichen etc.) sind mit dem Feuerwiderstand EI 30 auszuführen.
-
-<sup>2</sup> Bei gewerblichen Küchen mit offener Verbindung zu angrenzenden Räumen sind an der Decke Schürzen aus nichtbrennbarem Material anzubringen. Schürzen aus Glas müssen Feuerwiderstand E 30 aufweisen.
-
-<sup>3</sup> Sind im Buffetbereich von gewerblichen Küchen mit offener Verbindung zu angrenzenden Räumen eine Friteuse oder ein Grill mit offenem Feuer aufgestellt, muss über diesem Bereich eine CO2-Gaslöschanlage fest installiert werden, welche von einer sicheren Stelle aus und auf einfache Art und Weise ausgelöst werden kann.
+**…**
 
 #### § 10
 
 **Fluchtwegkonzept, Rettungswegkennzeichnungen**
 
-<sup>1</sup> Für alle in den Zuständigkeitsbereich der Feuerpolizei fallenden Objekte muss die Gesuchstellerin oder der Gesuchsteller ein Fluchtwegkonzept ausarbeiten, nach welchem die Feuerpolizei die Öffnungsrichtung der Türen in Fluchtwegen, die Rettungswegkennzeichnung (sofern erforderlich) und die Bereiche mit netzstromunabhängiger Sicherheitsbeleuchtung überprüfen kann.
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller muss ein Brandschutzkonzept mit den dazugehörigen Brandschutzplänen ausarbeiten. Nach Rücksprache mit der Feuerpolizei kann - je nach Gebäudegeometrie und Nutzung - darauf verzichtet werden.
 
-<sup>2</sup> Als Rettungswegkennzeichnungen sind Piktogramme (weisses Symbol auf grünem Grund) installieren zu lassen.
+<sup>2</sup> …
 
 #### § 11
 
@@ -241,7 +206,7 @@ g) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuergefährlich
 
 <sup>1</sup> Das Entfachen und Abbrennen von Höhenfeuern (z.B. 1. August-Feuer) und die Verwendung von mehr als 100 brennenden Fackeln in Umzügen sind bewilligungspflichtig. Das Gesuch um Bewilligung des Anlasses ist bei der Feuerpolizei einzureichen.
 
-### 4. Umgang mit feuer- und explosionsgefährlichen Stoffen und Waren (nachfolgend als «Stoffe» bezeichnet)
+### 4. Umgang mit feuer- und explosionsgefährlichen Stoffen und Waren (nachfolgend als Stoffe bezeichnet)
 
 #### § 22
 
@@ -263,7 +228,7 @@ g) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuergefährlich
 
 <sup>2</sup> Die Bewilligung wird von der Feuerpolizei auf den Namen der verantwortlichen Person ausgestellt und ist nicht auf andere Personen übertragbar. Die Bewilligung erlischt, wenn der Betrieb oder das Lager verlegt werden.
 
-<sup>3</sup> Der Detailverkauf von Feuerwerk ist nur in der Zeit vom 10. Juli bis zum 1. August gestattet.
+<sup>3</sup> Der Detailverkauf von Feuerwerk ist nur in der Zeit vom 10. Juli bis zum 1. August sowie vom 10. Dezember bis zum 31. Dezember gestattet.
 
 <sup>4</sup> In Warenhäusern und grossen Verkaufsgeschäften ist die Lagerung von Feuerwerk nur in speziellen Räumen und der Verkauf von Feuerwerk nur im Freien gestattet.
 
@@ -323,7 +288,7 @@ g) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuergefährlich
 
 #### § 35
 
-<sup>1</sup> Berechtigt zur Erstellung und Ausführung von Blitzschutzanlagen sind diejenigen Firmen, deren Inhaberin oder Inhaber oder die verantwortliche Fachperson sich über die Teilnahme eines anerkannten Instruktionskurses oder eine gleichberechtigte Ausbildung ausweisen können und bei der Feuerpolizei registriert sind.
+<sup>1</sup> Berechtigt zur Erstellung und Ausführung von Blitzschutzanlagen sind diejenigen Firmen, deren Inhaberin oder Inhaber oder deren Fachperson die Absolvierung eines anerkannten Instruktionskurses oder einer gleichwertigen Ausbildung nachweisen können und die bei der Feuerpolizei registriert sind.
 
 #### § 36
 
@@ -380,7 +345,7 @@ g) Anlagen zur Verarbeitung, zum Umschlag oder zur Lagerung von feuergefährlich
 
 #### § 42
 
-<sup>1</sup> Für Baubegehren, die vor dem 31. Dezember 2004 beim Bauinspektorat Basel-Stadt eingereicht wurden, gelten die VKF-Brandschutzvorschriften Ausgabe 1993, sofern mit der Gesuchstellerin oder dem Gesuchsteller im Hinblick auf die Inkraftsetzung der Schweizerischen Brandschutzvorschriften VKF, Ausgabe 2003, keine anderslautende Vereinbarung getroffen worden ist.
+<sup>1</sup> Beim Inkrafttreten neuer Vorschriften hängige erstinstanzliche Verfahren unterstehen dem alten Recht bzw. Zuständigkeit.
 
 ## VII. Schlussbestimmungen
 
