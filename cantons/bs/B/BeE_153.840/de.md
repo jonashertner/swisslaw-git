@@ -4,13 +4,12 @@ number: BeE 153.840
 title: Reglement betreffend die Erhebung von Verwaltungsgebühren
 short: Verwaltungsgebührenreglement
 language: de
-version: 2020-07-01
-valid_until: 2024-12-25
-version_adopted: 2020-06-15
+version: 2024-12-26
+version_adopted: 2024-12-16
 adopted: 2020-06-15
 in_force: 2020-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20153.840"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4935/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6491/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Verwaltungsgebührenreglement | Bettingen: Einwohnergemeinde
 
 (Verwaltungsgebührenreglement)
 
-Vom 15. Juni 2020 (Stand 1. Juli 2020)
+Vom 15. Juni 2020 (Stand 26. Dezember 2024)
 
 Der Gemeinderat Bettingen,
 
@@ -123,24 +122,36 @@ beschliesst:
 <table>
 <tr><th></th><th>Art der Gebühr</th><th>Gebühr</th></tr>
 <tr><td>1.</td><td>Arbeiten und Dienstleistungen des Aussendienstes pro Stunde und Mitarbeitenden</td><td>Fr. 90.00</td></tr>
-<tr><td>2.</td><td>Transport- und Spezialfahrzeuge inkl. Bedienung</td><td>Fr. 120.00</td></tr>
+<tr><td>2.</td><td>Fahrzeuge bedient pro Stunde:</td><td>Aufwand pro Stunde:</td></tr>
+<tr><td>2.1</td><td>Transportfahrzeug inkl. Bedienung</td><td>Fr. 110.00</td></tr>
+<tr><td>2.2</td><td>Spezialfahrzeug inkl. Bedienung</td><td>Fr. 220.00</td></tr>
 <tr><td>3.</td><td>Hausnummern</td><td>Fr. 40.00</td></tr>
-<tr><td>4.</td><td>Materialbezug ab Werkhof</td><td>nach Aufwand</td></tr>
-<tr><td>5.</td><td>Absperrmaterial und Signalisation - abgeholft ab Werkhof:</td><td></td></tr>
-<tr><td></td><td>5.1 Miete</td><td>Fr. 10.00</td></tr>
-<tr><td></td><td>5.2 Depot</td><td>Fr. 30.00</td></tr>
-<tr><td>6.</td><td>Tischgarnituren zur Nutzung in Bettingen:</td><td></td></tr>
-<tr><td></td><td>6.1 Miete pro Stück und Bestellung</td><td>Fr. 5.00</td></tr>
-<tr><td></td><td>6.2 Miete pro Stück und Bestellung inkl. Lieferung in Bettingen</td><td>Fr. 10.00</td></tr>
-<tr><td>7.</td><td>Tischgarnituren zur Nutzung in Riehen und Basel:</td><td></td></tr>
-<tr><td></td><td>7.1 Miete pro Stück und Bestellung</td><td>Fr. 10.00</td></tr>
-<tr><td></td><td>7.2 Depot</td><td>Fr. 500.00</td></tr>
-<tr><td>8.</td><td>Partyzelt 3x4m pro Wochenende</td><td>Fr. 70.00</td></tr>
+<tr><td>4.</td><td>…</td><td>…</td></tr>
+<tr><td>5.</td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td>6.</td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td>7.</td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td></td><td>…</td><td>…</td></tr>
+<tr><td>8.</td><td>…</td><td>…</td></tr>
 </table>
 
-<sup>3</sup> Die Ansätze der Gebühren für die Inanspruchnahme des öffentlichen Raums richten sich nach der Verordnung zum Allmendgebührengesetz vom 26. November 2002.
+<sup>3</sup> Die Ansätze der Gebühren für die Inanspruchnahme des öffentlichen Raums richten sich nach der Gebührenverordnung zum Gesetz über die Nutzung des öffentlichen Raumes (GebV NöRG) vom 1. November 2022[^6-1].
 
-<sup>4</sup> Der Verkauf von Tageskarten Gemeinde der SBB durch die Gemeindeverwaltung wird in einem separaten Gemeinderatsbeschluss geregelt.
+<sup>4</sup> …
+
+[^6-1]: SG [724.910](https://www.gesetzessammlung.bs.ch/data/724.910/de)
+
+#### § 7
+
+**Gebührenzuschlag**
+
+<sup>1</sup> Es können Zuschläge erhoben werden gemäss § 9 der kantonalen Verordnung über die Beglaubigungsgebühren sowie die Gebühren auf dem Gebiet der Einwohnerkontrolle und des Ausländerrechts (GVo) vom 4. Juni 2024[^7-1].
+
+[^7-1]: SG [519.400](https://www.gesetzessammlung.bs.ch/data/519.400/de)
 
 *Schlussbestimmung*
 
