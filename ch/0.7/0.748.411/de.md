@@ -3,11 +3,11 @@ sr: "0.748.411"
 title: Übereinkommen vom 28. Mai 1999 zur Vereinheitlichung bestimmter Vorschriften über die Beförderung im internationalen Luftverkehr
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/566"
 language: de
-version: 2024-08-13
+version: 2024-12-28
 adopted: 1999-05-28
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20240813/de/xml/fedlex-data-admin-ch-eli-cc-2005-566-20240813-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20240813/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20241228/de/xml/fedlex-data-admin-ch-eli-cc-2005-566-20241228-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20241228/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 7. Juli 2005
 
 Inkrafttreten für die Schweiz am 5. September 2005
 
-(Stand am 13. August 2024)
+(Stand am 28. Dezember 2024)
 
 [^t-1]: [AS 2005 4393](https://fedlex.data.admin.ch/eli/oc/2005/565)
 
@@ -44,8 +44,8 @@ in der Überzeugung, dass gemeinsames Handeln der Staaten zur weiteren Harmonisi
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.748.410](https://fedlex.data.admin.ch/eli/cc/50/438_450_499)
-[^ingress-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^ingress-1]: [SR 0.748.410](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3299)
+[^ingress-2]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ## Kapitel I: Allgemeine Bestimmungen
 
@@ -132,7 +132,7 @@ Falls notwendig, kann vom Absender verlangt werden, zur Einhaltung der Vorschrif
 
 **Mehrere Frachtstücke**
 
-Handelt es sich um mehrere Frachtstücke,
+Handelt es sich um mehrere Frachtstücke:
 
 - a) so kann der Luftfrachtführer vom Absender die Ausstellung einzelner Luftfrachtbriefe verlangen;
 - b) so kann der Absender vom Luftfrachtführer die Aushändigung einzelner Empfangsbestätigungen verlangen, wenn andere Aufzeichnungen im Sinne des Artikels 4 Absatz 2 verwendet werden.
@@ -254,25 +254,27 @@ Weist der Luftfrachtführer nach, dass die Person, die den Schadenersatzanspruch
 
 **Schadenersatz bei Tod oder Körperverletzung von Reisenden**
 
-<sup>1</sup> Für Schäden nach Artikel 17 Absatz 1, die 113 100 Sonderziehungsrechte je Reisenden nicht übersteigen, kann die Haftung des Luftfrachtführers nicht ausgeschlossen oder beschränkt werden.[^21-1]
+<sup>1</sup> Für Schäden nach Artikel 17 Absatz 1, die 151 880 Sonderziehungsrechte je Reisenden[^21-1] nicht übersteigen, kann die Haftung des Luftfrachtführers nicht ausgeschlossen oder beschränkt werden.
 
-<sup>2</sup> Der Luftfrachtführer haftet nicht für Schäden nach Artikel 17 Absatz 1, soweit sie 113 100 Sonderziehungsrechte je Reisenden übersteigen, wenn er nachweist, dass[^21-2]
+<sup>2</sup>
+
+Der Luftfrachtführer haftet nicht für Schäden nach Artikel 17 Absatz 1, soweit sie 151 880 Sonderziehungsrechte je Reisenden[^21-2] übersteigen, wenn er nachweist, dass:
 
 - a) dieser Schaden nicht auf eine unrechtmässige Handlung oder Unterlassung des Luftfrachtführers oder seiner Leute, sei sie auch nur fahrlässig begangen, zurückzuführen ist oder
 - b) dieser Schaden ausschliesslich auf eine unrechtmässige Handlung oder Unterlassung eines Dritten, sei sie auch nur fahrlässig begangen, zurückzuführen ist.
 
-[^21-1]: Höchstbetrag gemäss Änd. vom 4. Nov. 2009, in Kraft seit 30. Dez. 2009 ([AS 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
-[^21-2]: Höchstbetrag gemäss Änd. vom 4. Nov. 2009, in Kraft seit 30. Dez. 2009 ([AS 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
+[^21-1]: Haftungshöchstbetrag gemäss Änd. vom 16. Okt. 2024, in Kraft seit 28. Dez. 2024 ([AS 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
+[^21-2]: Haftungshöchstbetrag gemäss Änd. vom 16. Okt. 2024, in Kraft seit 28. Dez. 2024 ([AS 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
 
 #### Art. 22
 
 **Haftungshöchstbeträge bei Verspätung sowie für Reisegepäck und Güter**
 
-<sup>1</sup> Für Verspätungsschäden im Sinne des Artikels 19 haftet der Luftfrachtführer bei der Beförderung von Personen nur bis zu einem Betrag von 4 694 Sonderziehungsrechten je Reisenden.[^22-1]
+<sup>1</sup> Für Verspätungsschäden im Sinne des Artikels 19 haftet der Luftfrachtführer bei der Beförderung von Personen nur bis zu einem Betrag von 6 303 Sonderziehungsrechten je Reisenden[^22-1].
 
-<sup>2</sup> Bei der Beförderung von Reisegepäck haftet der Luftfrachtführer für Zerstörung, Verlust, Beschädigung oder Verspätung nur bis zu einem Betrag von 1 131 Sonderziehungsrechten je Reisenden; diese Beschränkung gilt nicht, wenn der Reisende bei der Übergabe des aufgegebenen Reisegepäcks an den Luftfrachtführer das Interesse an der Ablieferung am Bestimmungsort betragsmässig angegeben und den verlangten Zuschlag entrichtet hat. In diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser höher ist als das tatsächliche Interesse des Reisenden an der Ablieferung am Bestimmungsort.[^22-2]
+<sup>2</sup> Bei der Beförderung von Reisegepäck haftet der Luftfrachtführer für Zerstörung, Verlust, Beschädigung oder Verspätung nur bis zu einem Betrag von 1 519 Sonderziehungsrechten je Reisenden[^22-2]; diese Beschränkung gilt nicht, wenn der Reisende bei der Übergabe des aufgegebenen Reisegepäcks an den Luftfrachtführer das Interesse an der Ablieferung am Bestimmungsort betragsmässig angegeben und den verlangten Zuschlag entrichtet hat. In diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser höher ist als das tatsächliche Interesse des Reisenden an der Ablieferung am Bestimmungsort.
 
-<sup>3</sup> Bei der Beförderung von Gütern haftet der Luftfrachtführer für Zerstörung, Verlust, Beschädigung oder Verspätung nur bis zu einem Betrag von 19 Sonderziehungsrechten für das Kilogramm; diese Beschränkung gilt nicht, wenn der Absender bei der Übergabe des Frachtstücks an den Luftfrachtführer das Interesse an der Ablieferung am Bestimmungsort betragsmässig angegeben und den verlangten Zuschlag entrichtet hat. In diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser höher ist als das tatsächliche Interesse des Absenders an der Ablieferung am Bestimmungsort.[^22-3]
+<sup>3</sup> Bei der Beförderung von Gütern haftet der Luftfrachtführer für Zerstörung, Verlust, Beschädigung oder Verspätung nur bis zu einem Betrag von 26 Sonderziehungsrechten für das Kilogramm[^22-3]; diese Beschränkung gilt nicht, wenn der Absender bei der Übergabe des Frachtstücks an den Luftfrachtführer das Interesse an der Ablieferung am Bestimmungsort betragsmässig angegeben und den verlangten Zuschlag entrichtet hat. In diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser höher ist als das tatsächliche Interesse des Absenders an der Ablieferung am Bestimmungsort.
 
 <sup>4</sup> Im Fall der Zerstörung, des Verlusts, der Beschädigung oder der Verspätung eines Teiles der Güter oder irgendeines darin enthaltenen Gegenstands ist für die Feststellung, bis zu welchem Betrag der Luftfrachtführer haftet, nur das Gesamtgewicht der betroffenen Frachtstücke massgebend. Beeinträchtigt jedoch die Zerstörung, der Verlust, die Beschädigung oder die Verspätung eines Teiles der Güter oder eines darin enthaltenen Gegenstands den Wert anderer Frachtstücke, die in demselben Luftfrachtbrief oder derselben Empfangsbestätigung oder, wenn diese nicht ausgestellt wurden, in den anderen Aufzeichnungen im Sinne des Artikels 4 Absatz 2 aufgeführt sind, so ist das Gesamtgewicht dieser Frachtstücke für die Feststellung, bis zu welchem Betrag der Luftfrachtführer haftet, massgebend.
 
@@ -280,9 +282,9 @@ Weist der Luftfrachtführer nach, dass die Person, die den Schadenersatzanspruch
 
 <sup>6</sup> Die in Artikel 21 und in diesem Artikel festgesetzten Haftungsbeschränkungen hindern das Gericht nicht, zusätzlich nach seinem Recht einen Betrag zuzusprechen, der ganz oder teilweise den vom Kläger aufgewendeten Gerichtskosten und sonstigen Ausgaben für den Rechtsstreit, einschliesslich Zinsen, entspricht. Dies gilt nicht, wenn der zugesprochene Schadenersatz, ohne Berücksichtigung der Gerichtskosten und der sonstigen Ausgaben für den Rechtsstreit, den Betrag nicht übersteigt, den der Luftfrachtführer dem Kläger schriftlich innerhalb einer Frist von sechs Monaten seit dem Ereignis, das den Schaden verursacht hat, oder, falls die Klage nach Ablauf dieser Frist erhoben worden ist, vor ihrer Erhebung angeboten hat.
 
-[^22-1]: Höchstbetrag gemäss Änd. vom 4. Nov. 2009, in Kraft seit 30. Dez. 2009 ([AS 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
-[^22-2]: Höchstbetrag gemäss Änd. vom 4. Nov. 2009, in Kraft seit 30. Dez. 2009 ([AS 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
-[^22-3]: Höchstbetrag gemäss Änd. vom 4. Nov. 2009, in Kraft seit 30. Dez. 2009 ([AS 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
+[^22-1]: Haftungshöchstbetrag gemäss Änd. vom 16. Okt. 2024, in Kraft seit 28. Dez. 2024 ([AS 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
+[^22-2]: Haftungshöchstbetrag gemäss Änd. vom 16. Okt. 2024, in Kraft seit 28. Dez. 2024 ([AS 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
+[^22-3]: Haftungshöchstbetrag gemäss Änd. vom 16. Okt. 2024, in Kraft seit 28. Dez. 2024 ([AS 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
 
 #### Art. 23
 
@@ -370,7 +372,9 @@ Stirbt die zum Schadenersatz verpflichtete Person, so kann der Anspruch auf Scha
 
 <sup>2</sup> Die Klage auf Ersatz des Schadens, der durch Tod oder Körperverletzung eines Reisenden entstanden ist, kann bei einem der in Absatz 1 genannten Gerichte oder im Hoheitsgebiet eines Vertragsstaats erhoben werden, in dem der Reisende im Zeitpunkt des Unfalls seinen ständigen Wohnsitz hatte und in das oder aus dem der Luftfrachtführer Reisende im Luftverkehr gewerbsmässig befördert, und zwar entweder mit seinen eigenen Luftfahrzeugen oder aufgrund einer geschäftlichen Vereinbarung mit Luftfahrzeugen eines anderen Luftfrachtführers, und in dem der Luftfrachtführer sein Gewerbe von Geschäftsräumen aus betreibt, deren Mieter oder Eigentümer er selbst oder ein anderer Luftfrachtführer ist, mit dem er eine geschäftliche Vereinbarung geschlossen hat.
 
-<sup>3</sup> Im Sinne des Absatzes 2 bedeutet
+<sup>3</sup>
+
+Im Sinne des Absatzes 2 bedeutet:
 
 - a) «geschäftliche Vereinbarung» einen Vertrag zwischen Luftfrachtführern über die Erbringung gemeinsamer Beförderungsdienstleistungen für Reisende im Luftverkehr mit Ausnahme eines Agenturvertrags,
 - b) «ständiger Wohnsitz» den Hauptwohnsitz und gewöhnlichen Aufenthalt des Reisenden im Zeitpunkt des Unfalls. Die Staatsangehörigkeit des Reisenden ist in dieser Hinsicht nicht entscheidend.
@@ -533,7 +537,9 @@ Der Begriff «Tage» im Sinne dieses Übereinkommens bedeutet Kalendertage, nich
 
 <sup>7</sup> Für andere Staaten und für andere Organisationen der regionalen Wirtschaftsintegration tritt dieses Übereinkommen sechzig Tage nach Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde in Kraft.
 
-<sup>8</sup> Der Depositar notifiziert allen Unterzeichnern und Vertragsstaaten umgehend
+<sup>8</sup>
+
+Der Depositar notifiziert allen Unterzeichnern und Vertragsstaaten umgehend:
 
 - a) jede Unterzeichnung dieses Übereinkommens und deren Zeitpunkt;
 - b) jede Hinterlegung einer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde und den Zeitpunkt der Hinterlegung;
@@ -553,7 +559,7 @@ Der Begriff «Tage» im Sinne dieses Übereinkommens bedeutet Kalendertage, nich
 
 **Verhältnis zu anderen mit dem Warschauer Abkommen zusammenhängenden Übereinkünften**
 
-Dieses Übereinkommen geht allen Vorschriften vor, die für die Beförderung im internationalen Luftverkehr gelten
+Dieses Übereinkommen geht allen Vorschriften vor, die für die Beförderung im internationalen Luftverkehr gelten:
 
 - 1\.
 
@@ -567,9 +573,9 @@ Dieses Übereinkommen geht allen Vorschriften vor, die für die Beförderung im 
 
 - 2\. innerhalb des Hoheitsgebiets eines einzelnen Vertragsstaats dieses Übereinkommens aufgrund dessen, dass dieser Staat Vertragspartei einer oder mehrerer der in Ziffer 1 Buchstaben a bis e genannten Übereinkünfte ist.
 
-[^55-1]: [SR 0.748.410.1](https://fedlex.data.admin.ch/eli/cc/1963/665_664_685)
-[^55-2]: [SR 0.748.410.2](https://fedlex.data.admin.ch/eli/cc/1964/154_150_151)
-[^55-3]: [SR 0.748.410.3](https://fedlex.data.admin.ch/eli/cc/2003/20),[0.748.410.4](https://fedlex.data.admin.ch/eli/cc/2003/21),[0.748.410.6](https://fedlex.data.admin.ch/eli/cc/2003/23)
+[^55-1]: [SR 0.748.410.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3300)
+[^55-2]: [SR 0.748.410.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3301)
+[^55-3]: [SR 0.748.410.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3302),[0.748.410.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3303),[0.748.410.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3304)
 
 #### Art. 56
 
@@ -579,7 +585,9 @@ Dieses Übereinkommen geht allen Vorschriften vor, die für die Beförderung im 
 
 <sup>2</sup> Die Erklärungen werden dem Depositar notifiziert und müssen ausdrücklich angeben, auf welche Gebietseinheiten sich das Übereinkommen erstreckt.
 
-<sup>3</sup> Hinsichtlich eines Vertragsstaats, der eine solche Erklärung abgegeben hat,
+<sup>3</sup>
+
+Hinsichtlich eines Vertragsstaats, der eine solche Erklärung abgegeben hat:
 
 - a) sind Bezugnahmen auf die «Landeswährung» in Artikel 23 als Bezugnahmen auf die Währung der betreffenden Gebietseinheit dieses Staates zu verstehen und
 - b) ist die Bezugnahme auf das «nationale Recht» in Artikel 28 als Bezugnahme auf das Recht der betreffenden Gebietseinheit dieses Staates zu verstehen.
@@ -588,7 +596,7 @@ Dieses Übereinkommen geht allen Vorschriften vor, die für die Beförderung im 
 
 **Vorbehalte**
 
-Zu diesem Übereinkommen dürfen keine Vorbehalte angebracht werden; allerdings kann ein Vertragsstaat jederzeit durch eine an den Depositar gerichtete Notifikation erklären, dass dieses Übereinkommen nicht gilt für
+Zu diesem Übereinkommen dürfen keine Vorbehalte angebracht werden; allerdings kann ein Vertragsstaat jederzeit durch eine an den Depositar gerichtete Notifikation erklären, dass dieses Übereinkommen nicht gilt für:
 
 - a) die Beförderung im internationalen Luftverkehr, die unmittelbar von diesem Vertragsstaat zu nichtgewerblichen Zwecken im Hinblick auf seine Aufgaben und Pflichten als souveräner Staat ausgeführt und betrieben wird;
 - b) die Beförderung von Personen, Gütern und Reisegepäck für seine militärischen Dienststellen mit in diesem Vertragsstaat eingetragenen oder von ihm gemieteten Luftfahrzeugen, die ausschliesslich diesen Dienststellen vorbehalten sind.

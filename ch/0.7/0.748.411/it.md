@@ -3,11 +3,11 @@ sr: "0.748.411"
 title: "Convenzione del 28 maggio 1999 per l'unificazione di alcune norme sul trasporto aereo internazionale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/566"
 language: it
-version: 2024-08-13
+version: 2024-12-28
 adopted: 1999-05-28
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20240813/it/xml/fedlex-data-admin-ch-eli-cc-2005-566-20240813-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20240813/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20241228/it/xml/fedlex-data-admin-ch-eli-cc-2005-566-20241228-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20241228/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Montreal il 28 maggio 1999 Approvata dall’Assemblea federale il 17 dicembre 2004[^t-1] Ratificata tramite strumenti depositati dalla Svizzera il 7 luglio 2005 Entrata in vigore per la Svizzera il 5 settembre 2005
 
-(Stato 13 agosto 2024)
+(Stato 28 dicembre 2024)
 
 [^t-1]: [RU 2005 4393](https://fedlex.data.admin.ch/eli/oc/2005/565)
 
@@ -38,8 +38,8 @@ convinti che l’azione collettiva degli Stati intesa all’ulteriore armonizzaz
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.748.410](https://fedlex.data.admin.ch/eli/cc/50/438_450_499)
-[^ingress-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^ingress-1]: [RS 0.748.410](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3299)
+[^ingress-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ## Capitolo I: Disposizioni generali
 
@@ -248,27 +248,27 @@ Il vettore, qualora dimostri che la persona che chiede il risarcimento o il suo 
 
 **Risarcimento in caso di morte o lesione del passeggero**
 
-<sup>1</sup> Per i danni di cui all’articolo 17 paragrafo 1, che non eccedono i 113 100[^21-1] diritti speciali di prelievo per passeggero, il vettore non può escludere né limitare la propria responsabilità.
+<sup>1</sup> Per i danni di cui all’articolo 17 paragrafo 1, che non eccedono i 151 880 diritti speciali di prelievo per passeggero[^21-1], il vettore non può escludere né limitare la propria responsabilità.
 
 <sup>2</sup>
 
-Il vettore non risponde dei danni di cui all’articolo 17 paragrafo 1 che eccedono i 113 100[^21-2] diritti speciali di prelievo per passeggero qualora dimostri che:
+Il vettore non risponde dei danni di cui all’articolo 17 paragrafo 1 che eccedono i 151 880 diritti speciali di prelievo per passeggero[^21-2] qualora dimostri che:
 
 - a) il danno non è dovuto a negligenza, atto illecito o omissione propria o dei propri dipendenti o incaricati oppure che
 - b) il danno è dovuto esclusivamente a negligenza, atto illecito o omissione di terzi.
 
-[^21-1]: Nuovo limite di responsabilità giusta la mod. del 4 nov. 2009, in vigore dal 30 dic. 2009 ([RU 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
-[^21-2]: Nuovo limite di responsabilità giusta la mod. del 4 nov. 2009, in vigore dal 30 dic. 2009 ([RU 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
+[^21-1]: Nuovo limite di responsabilità giusta la mod. del 16 ott. 2024, in vigore dal 28 dic. 2024 ([RU 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
+[^21-2]: Nuovo limite di responsabilità giusta la mod. del 16 ott. 2024, in vigore dal 28 dic. 2024 ([RU 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
 
 #### Art. 22
 
 **Limitazioni di responsabilità per ritardo, per il bagaglio e per le merci**
 
-<sup>1</sup> Nel trasporto di persone, in caso di danno da ritardo, così come specificato all’articolo 19, la responsabilità del vettore è limitata alla somma di 4694[^22-1] diritti speciali di prelievo per passeggero.
+<sup>1</sup> Nel trasporto di persone, in caso di danno da ritardo, così come specificato all’articolo 19, la responsabilità del vettore è limitata alla somma di 6 303 diritti speciali di prelievo per passeggero[^22-1].
 
-<sup>2</sup> Nel trasporto di bagagli, la responsabilità del vettore in caso di distruzione, perdita, deterioramento o ritardo è limitata alla somma di 1131[^22-2] diritti speciali di prelievo per passeggero, salvo dichiarazione speciale di interesse alla consegna a destinazione effettuata dal passeggero al momento della consegna al vettore del bagaglio, dietro pagamento di un’eventuale tassa supplementare. In tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.
+<sup>2</sup> Nel trasporto di bagagli, la responsabilità del vettore in caso di distruzione, perdita, deterioramento o ritardo è limitata alla somma di 1 519 diritti speciali di prelievo per passeggero[^22-2], salvo dichiarazione speciale di interesse alla consegna a destinazione effettuata dal passeggero al momento della consegna al vettore del bagaglio, dietro pagamento di un’eventuale tassa supplementare. In tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.
 
-<sup>3</sup> Nel trasporto di merci, la responsabilità del vettore in caso di distruzione, perdita, deterioramento o ritardo è limitata alla somma di 19[^22-3] diritti speciali di prelievo per chilogrammo, salvo dichiarazione speciale di interesse alla consegna a destinazione, effettuata dal mittente al momento della consegna del collo al vettore, dietro pagamento di un’eventuale tassa supplementare. In tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.
+<sup>3</sup> Nel trasporto di merci, la responsabilità del vettore in caso di distruzione, perdita, deterioramento o ritardo è limitata alla somma di 26 diritti speciali di prelievo per chilogrammo[^22-3], salvo dichiarazione speciale di interesse alla consegna a destinazione, effettuata dal mittente al momento della consegna del collo al vettore, dietro pagamento di un’eventuale tassa supplementare. In tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.
 
 <sup>4</sup> In caso di distruzione, perdita, deterioramento o ritardo di una parte delle merci o di qualsiasi oggetto in esse contenuto, per determinare il limite di responsabilità del vettore si tiene esclusivamente conto del peso totale del collo o dei colli interessati. Tuttavia, allorché la distruzione, la perdita, il deterioramento o il ritardo di una parte delle merci, o di un oggetto in esse contenuto, pregiudichi il valore di altri colli coperti dalla stessa lettera di trasporto aereo o dalla stessa ricevuta di carico o, qualora tali documenti non siano stati rilasciati, dalla stessa registrazione con altri mezzi di cui all’articolo 4 paragrafo 2, ai fini della determinazione del limite di responsabilità si deve altresì tener conto del peso totale di tali altri colli.
 
@@ -276,9 +276,9 @@ Il vettore non risponde dei danni di cui all’articolo 17 paragrafo 1 che ecced
 
 <sup>6</sup> I limiti previsti dall’articolo 21 e dal presente articolo non ostano alla facoltà del tribunale di riconoscere all’attore, in conformità del proprio ordinamento interno, un’ulteriore somma corrispondente in tutto o in parte alle spese processuali e agli altri oneri da questi sostenuti in relazione alla controversia, maggiorate degli interessi. La disposizione precedente non si applica quando l’ammontare del risarcimento accordato, escluse le spese processuali e gli altri oneri relativi alla controversia, non supera la somma che il vettore ha offerto per iscritto all’attore entro sei mesi dalla data in cui si è verificato l’evento che ha provocato il danno, o prima della presentazione della domanda giudiziale, qualora questa sia successiva.
 
-[^22-1]: Nuovo limite di responsabilità giusta la mod. del 4 nov. 2009, in vigore dal 30 dic. 2009 ([RU 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
-[^22-2]: Nuovo limite di responsabilità giusta la mod. del 4 nov. 2009, in vigore dal 30 dic. 2009 ([RU 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
-[^22-3]: Nuovo limite di responsabilità giusta la mod. del 4 nov. 2009, in vigore dal 30 dic. 2009 ([RU 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
+[^22-1]: Nuovo limite di responsabilità giusta la mod. del 16 ott. 2024, in vigore dal 28 dic. 2024 ([RU 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
+[^22-2]: Nuovo limite di responsabilità giusta la mod. del 16 ott. 2024, in vigore dal 28 dic. 2024 ([RU 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
+[^22-3]: Nuovo limite di responsabilità giusta la mod. del 16 ott. 2024, in vigore dal 28 dic. 2024 ([RU 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
 
 #### Art. 23
 
@@ -567,9 +567,9 @@ La presente Convenzione prevale su ogni altra disposizione in materia di traspor
 
 - 2) all’interno dei territori di ogni singolo Stato parte alla presente Convenzione che sia anche parte di uno o più strumenti elencati sopra alle lettere a)–e).
 
-[^55-1]: [RS 0.748.410.1](https://fedlex.data.admin.ch/eli/cc/1963/665_664_685)
-[^55-2]: [RS 0.748.410.2](https://fedlex.data.admin.ch/eli/cc/1964/154_150_151)
-[^55-3]: [RS 0.748.410.3](https://fedlex.data.admin.ch/eli/cc/2003/20),[0.748.410.4](https://fedlex.data.admin.ch/eli/cc/2003/21), [0.748.410.6](https://fedlex.data.admin.ch/eli/cc/2003/23)
+[^55-1]: [RS 0.748.410.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3300)
+[^55-2]: [RS 0.748.410.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3301)
+[^55-3]: [RS 0.748.410.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3302),[0.748.410.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3303), [0.748.410.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3304)
 
 #### Art. 56
 

@@ -3,11 +3,11 @@ sr: "0.748.411"
 title: "Convention du 28 mai 1999 pour l'unification de certaines règles relatives au transport aérien international"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/566"
 language: fr
-version: 2024-08-13
+version: 2024-12-28
 adopted: 1999-05-28
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20240813/fr/xml/fedlex-data-admin-ch-eli-cc-2005-566-20240813-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20240813/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20241228/fr/xml/fedlex-data-admin-ch-eli-cc-2005-566-20241228-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20241228/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 7 juillet 2005
 
 Entrée en vigueur pour la Suisse le 5 septembre 2005
 
-(État le 13 août 2024)
+(État le 28 décembre 2024)
 
 [^t-1]: [RO 2005 4393](https://fedlex.data.admin.ch/eli/oc/2005/565)
 
@@ -44,8 +44,8 @@ convaincus que l’adoption de mesures collectives par les États en vue d’har
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.748.410](https://fedlex.data.admin.ch/eli/cc/50/438_450_499)
-[^ingress-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^ingress-1]: [RS 0.748.410](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3299)
+[^ingress-2]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 ## Chapitre I Généralités
 
@@ -254,27 +254,27 @@ Dans le cas où il fait la preuve que la négligence ou un autre acte ou omissio
 
 **Indemnisation en cas de mort ou de lésion subie par le passager**
 
-<sup>1</sup> Pour les dommages visés au par. 1 de l’art. 17 et ne dépassant pas 113 100[^21-1] droits de tirage spéciaux par passager, le transporteur ne peut exclure ou limiter sa responsabilité.
+<sup>1</sup> Pour les dommages visés au par. 1 de l’art. 17 et ne dépassant pas 151 880 droits de tirage spéciaux par passager[^21-1], le transporteur ne peut exclure ou limiter sa responsabilité.
 
 <sup>2</sup>
 
-Le transporteur n’est pas responsable des dommages visés au par. 1 de l’art. 17 dans la mesure où ils dépassent 113 100[^21-2] droits de tirage spéciaux par passager, s’il prouve:
+Le transporteur n’est pas responsable des dommages visés au par. 1 de l’art. 17 dans la mesure où ils dépassent 151 880 droits de tirage spéciaux par passager[^21-2], s’il prouve:
 
 - a) que le dommage n’est pas dû à la négligence ou à un autre acte ou omission préjudiciable du transporteur, de ses préposés ou de ses mandataires, ou
 - b) que ces dommages résultent uniquement de la négligence ou d’un autre acte ou omission préjudiciable d’un tiers.
 
-[^21-1]: Nouvelle limite de responsabilité selon la mod. du 4 nov. 2009, en vigueur depuis le 30 déc. 2009 ([RO 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
-[^21-2]: Nouvelle limite de responsabilité selon la mod. du 4 nov. 2009, en vigueur depuis le 30 déc. 2009 ([RO 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
+[^21-1]: Nouvelle limite de responsabilité selon la mod. du 16 oct. 2024, en vigueur depuis le 28 déc. 2024 ([RO 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
+[^21-2]: Nouvelle limite de responsabilité selon la mod. du 16 oct. 2024, en vigueur depuis le 28 déc. 2024 ([RO 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
 
 #### Art. 22
 
 **Limites de responsabilité relatives aux retards, aux bagages et aux marchandises**
 
-<sup>1</sup> En cas de dommage subi par des passagers résultant d’un retard, aux termes de l’art. 19, la responsabilité du transporteur est limitée à la somme de 4694[^22-1] droits de tirage spéciaux par passager.
+<sup>1</sup> En cas de dommage subi par des passagers résultant d’un retard, aux termes de l’art. 19, la responsabilité du transporteur est limitée à la somme de 6 303 droits de tirage spéciaux par passager[^22-1].
 
-<sup>2</sup> Dans le transport de bagages, la responsabilité du transporteur en cas de destruction, perte, avarie ou retard est limitée à la somme de 1131[^22-2] droits de tirage spéciaux par passager, sauf déclaration spéciale d’intérêt à la livraison faite par le passager au moment de la remise des bagages enregistrés au transporteur et moyennant le paiement éventuel d’une somme supplémentaire. Dans ce cas, le transporteur sera tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel du passager à la livraison.
+<sup>2</sup> Dans le transport de bagages, la responsabilité du transporteur en cas de destruction, perte, avarie ou retard est limitée à la somme de 1 519 droits de tirage spéciaux par passager[^22-2], sauf déclaration spéciale d’intérêt à la livraison faite par le passager au moment de la remise des bagages enregistrés au transporteur et moyennant le paiement éventuel d’une somme supplémentaire. Dans ce cas, le transporteur sera tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel du passager à la livraison.
 
-<sup>3</sup> Dans le transport de marchandises, la responsabilité du transporteur, en cas de destruction, de perte, d’avarie ou de retard, est limitée à la somme de 19[^22-3] droits de tirage spéciaux par kilogramme, sauf déclaration spéciale d’intérêt à la livraison faite par l’expéditeur au moment de la remise du colis au transporteur et moyennant le paiement d’une somme supplémentaire éventuelle. Dans ce cas, le transporteur sera tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel de l’expéditeur à la livraison.
+<sup>3</sup> Dans le transport de marchandises, la responsabilité du transporteur, en cas de destruction, de perte, d’avarie ou de retard, est limitée à la somme de 26 droits de tirage spéciaux par kilogramme[^22-3], sauf déclaration spéciale d’intérêt à la livraison faite par l’expéditeur au moment de la remise du colis au transporteur et moyennant le paiement d’une somme supplémentaire éventuelle. Dans ce cas, le transporteur sera tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel de l’expéditeur à la livraison.
 
 <sup>4</sup> En cas de destruction, de perte, d’avarie ou de retard d’une partie des marchandises, ou de tout objet qui y est contenu, seul le poids total du ou des colis dont il s’agit est pris en considération pour déterminer la limite de responsabilité du transporteur. Toutefois, lorsque la destruction, la perte, l’avarie ou le retard d’une partie des marchandises, ou d’un objet qui y est contenu, affecte la valeur d’autres colis couverts par la même lettre de transport aérien ou par le même récépissé ou, en l’absence de ces documents, par les mêmes indications consignées par les autres moyens visés à l’art. 4, par. 2, le poids total de ces colis doit être pris en considération pour déterminer la limite de responsabilité.
 
@@ -282,9 +282,9 @@ Le transporteur n’est pas responsable des dommages visés au par. 1 de l’art
 
 <sup>6</sup> Les limites fixées par l’art. 21 et par le présent article n’ont pas pour effet d’enlever au tribunal la faculté d’allouer en outre, conformément à sa loi, une somme correspondant à tout ou partie des dépens et autres frais de procès exposés par le demandeur, intérêts compris. La disposition précédente ne s’applique pas lorsque le montant de l’indemnité allouée, non compris les dépens et autres frais de procès, ne dépasse pas la somme que le transporteur a offerte par écrit au demandeur dans un délai de six mois à dater du fait qui a causé le dommage ou avant l’introduction de l’instance si celle-ci est postérieure à ce délai.
 
-[^22-1]: Nouvelle limite de responsabilité selon la mod. du 4 nov. 2009, en vigueur depuis le 30 déc. 2009 ([RO 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
-[^22-2]: Nouvelle limite de responsabilité selon la mod. du 4 nov. 2009, en vigueur depuis le 30 déc. 2009 ([RO 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
-[^22-3]: Nouvelle limite de responsabilité selon la mod. du 4 nov. 2009, en vigueur depuis le 30 déc. 2009 ([RO 2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19)).
+[^22-1]: Nouvelle limite de responsabilité selon la mod. du 16 oct. 2024, en vigueur depuis le 28 déc. 2024 ([RO 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
+[^22-2]: Nouvelle limite de responsabilité selon la mod. du 16 oct. 2024, en vigueur depuis le 28 déc. 2024 ([RO 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
+[^22-3]: Nouvelle limite de responsabilité selon la mod. du 16 oct. 2024, en vigueur depuis le 28 déc. 2024 ([RO 2026 106](https://fedlex.data.admin.ch/eli/oc/2026/106)).
 
 #### Art. 23
 
@@ -573,9 +573,9 @@ La présente Convention l’emporte sur toutes règles s’appliquant au transpo
 
 - 2\. dans le territoire de tout État partie à la présente Convention du fait que cet État est partie à un ou plusieurs des instruments mentionnés aux al. a) à e) ci-dessus.
 
-[^55-1]: [RS 0.748.410.1](https://fedlex.data.admin.ch/eli/cc/1963/665_664_685)
-[^55-2]: [RS 0.748.410.2](https://fedlex.data.admin.ch/eli/cc/1964/154_150_151)
-[^55-3]: [RS 0.748.410.3](https://fedlex.data.admin.ch/eli/cc/2003/20), [0.748.410.4](https://fedlex.data.admin.ch/eli/cc/2003/21), **0**.**748.410.6**
+[^55-1]: [RS 0.748.410.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3300)
+[^55-2]: [RS 0.748.410.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3301)
+[^55-3]: [RS 0.748.410.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3302), [0.748.410.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3303), **0**.**748.410.6**
 
 #### Art. 56
 
