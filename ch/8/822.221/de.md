@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Juni 1995 über die Arbeits- und Ruhezeit der berufsm
 short: ARV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: de
-version: 2023-09-01
+version: 2024-12-31
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20241231/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20241231-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20241231/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20230901/de"
 
 (Chauffeurverordnung, ARV 1)
 
-vom 19. Juni 1995 (Stand am 1. September 2023)
+vom 19. Juni 1995 (Stand am 31. Dezember 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -579,7 +579,9 @@ Der Führer oder die Führerin hat auf dem Einlageblatt folgende Angaben einzutr
 
 **Vorweisen der Dokumente oder Daten zum Fahrtschreiber**[^14c-1]
 
-<sup>1</sup> Lenkt der Führer oder die Führerin ein Fahrzeug mit einem analogen Fahrtschreiber, so muss er oder sie der Vollzugsbehörde jederzeit das Einlageblatt des laufenden Tages und die in den vorangehenden 28 Tagen verwendeten Einlageblätter sowie die Fahrerkarte vorweisen können, falls er oder sie Inhaber oder Inhaberin einer solchen Karte ist; ältere Einlageblätter sind dem Arbeitgeber zur Aufbewahrung (Art. 18 Abs. 3) abzugeben.[^14c-2]
+<sup>1</sup> Lenkt der Führer oder die Führerin ein Fahrzeug mit einem analogen Fahrtschreiber, so muss er oder sie der Vollzugsbehörde jederzeit das Einlageblatt des laufenden Tages und die in den vorangehenden 56 Tagen verwendeten Einlageblätter sowie die Fahrerkarte vorweisen können, falls er oder sie Inhaber oder Inhaberin einer solchen Karte ist; ältere Einlageblätter sind dem Arbeitgeber zur Aufbewahrung (Art. 18 Abs. 3) abzugeben.[^14c-2]
+
+<sup>1bis</sup> Lenkt der Führer oder die Führerin berufsmässig einen Motorwagen zum Personentransport mit nicht mehr als 16 Sitzplätzen ausser dem Führersitz (Art. 4 Abs. 2 Bst. a in Verbindung mit Art. 4 Abs. 2<sup>bis</sup>), der mit einem analogen Fahrtschreiber ausgerüstet ist, so muss er oder sie der Vollzugsbehörde jederzeit das Einlageblatt des laufenden Tages und die in den vorangehenden 28 Tagen verwendeten Einlageblätter sowie die Fahrerkarte vorweisen können, falls er oder sie Inhaber oder Inhaberin einer solchen Karte ist.[^14c-3]
 
 <sup>2</sup> Lenkt der Führer oder die Führerin ein Fahrzeug mit einem digitalen Fahrtschreiber, so muss er oder sie der Vollzugsbehörde jederzeit die Fahrerkarte vorweisen können.
 
@@ -588,12 +590,14 @@ Der Führer oder die Führerin hat auf dem Einlageblatt folgende Angaben einzutr
 Lenkt der Führer oder die Führerin abwechselnd ein Fahrzeug mit einem analogen Fahrtschreiber und ein Fahrzeug mit einem digitalen Fahrtschreiber, so muss er oder sie der Vollzugsbehörde jederzeit vorweisen können:
 
 - a. das Einlageblatt und die Ausdrucke nach Artikel 14*b* Absätze 4 und 5 für den laufenden Tag;
-- b. die Einlageblätter und die Ausdrucke nach Artikel 14*b* Absätze 4 und 5 für die vorangehenden 28 Tage, an denen er oder sie ein Fahrzeug geführt hat;
-- c. die Fahrerkarte.[^14c-3]
+- b.[^14c-4] die Einlageblätter, die besonderen Blätter nach Artikel 14*b* Absatz 4 und die Ausdrucke nach Artikel 14*b* Absatz 5 für die vorangehenden 56 Tage, an denen er oder sie ein Fahrzeug geführt hat;
+- c. die Fahrerkarte.[^14c-5]
 
 [^14c-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14c-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^14c-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^14c-2]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 31. Dez. 2024 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^14c-3]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 31. Dez. 2024 (AS **202****4** 482).
+[^14c-4]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 31. Dez. 2024 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^14c-5]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 14d
 

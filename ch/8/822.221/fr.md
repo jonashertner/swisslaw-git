@@ -4,11 +4,11 @@ title: "Ordonnance du 19 juin 1995 sur la durée du travail et du repos des cond
 short: OTR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: fr
-version: 2023-09-01
+version: 2024-12-31
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20241231/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20241231-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20241231/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20230901/fr"
 
 (Ordonnance sur les chauffeurs, OTR 1)
 
-du 19 juin 1995 (État le 1<sup>er</sup> septembre 2023)
+du 19 juin 1995 (État le 31 décembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -581,7 +581,9 @@ Le conducteur porte les inscriptions suivantes sur le disque d’enregistrement:
 
 **Présentation des documents ou données concernant le tachygraphe**[^14c-1]
 
-<sup>1</sup> Si le conducteur conduit un véhicule équipé d’un tachygraphe analogique, il doit pouvoir présenter à tout moment à l’autorité d’exécution les disques d’enregistrement de la journée en cours et ceux qu’il a utilisés au cours des 28 jours précédents, ainsi que la carte de conducteur s’il est titulaire d’une telle carte; les disques d’enregistrement plus anciens sont remis à l’employeur en vue d’être conservés (art. 18, al. 3).[^14c-2]
+<sup>1</sup> Si le conducteur conduit un véhicule équipé d’un tachygraphe analogique, il doit pouvoir présenter à tout moment à l’autorité d’exécution les disques d’enregistrement de la journée en cours et ceux qu’il a utilisés au cours des 56 jours précédents, ainsi que la carte de conducteur s’il est titulaire d’une telle carte; les disques d’enregistrement plus anciens sont remis à l’employeur en vue d’être conservés (art. 18, al. 3).[^14c-2]
+
+<sup>1bis</sup> Si le conducteur conduit à titre professionnel une voiture automobile affectée au transport de personnes ne comptant pas plus de 16 places assises en plus du siège du conducteur (art. 4, al. 2, let. a, en relation avec l’art. 4, al. 2<sup>bis</sup>) et équipée d’un tachygraphe analogique, il doit pouvoir présenter à tout moment à l’autorité d’exécution le disque d’enregistrement de la journée en cours et ceux qu’il a utilisés au cours des 28 jours précédents, ainsi que la carte de conducteur s’il est titulaire d’une telle carte.[^14c-3]
 
 <sup>2</sup> Si le conducteur conduit un véhicule équipé d’un tachygraphe numérique, il doit pouvoir présenter à tout moment la carte de conducteur à l’autorité d’exécution.
 
@@ -590,12 +592,14 @@ Le conducteur porte les inscriptions suivantes sur le disque d’enregistrement:
 Si le conducteur conduit alternativement un véhicule équipé d’un tachygraphe analogique et un véhicule équipé d’un tachygraphe numérique, il doit pouvoir présenter à tout moment à l’autorité d’exécution les documents suivants:
 
 - a. le disque d’enregistrement et les impressions papier visés à l’art. 14*b*, al. 4 et 5, concernant la journée en cours;
-- b. les disques d’enregistrement et les impressions papier visés à l’art. 14*b*, al. 4 et 5, concernant les 28 jours précédents durant lesquels il a conduit le véhicule;
-- c. la carte de conducteur.[^14c-3]
+- b.[^14c-4] les disques d’enregistrement, les feuilles ad hoc visées à l’art. 14*b*, al. 4, et les impressions papier visées à l’art. 14*b*, al. 5, concernant les 56 jours précédents durant lesquels il a conduit le véhicule;
+- c. la carte de conducteur.[^14c-5]
 
 [^14c-1]: Introduit par le ch. I de l’O du 29 mars 2006, en vigueur depuis le 1<sup>er</sup> nov. 2006 ([RO 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14c-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^14c-3]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^14c-2]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 31 déc. 2024 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^14c-3]: Introduit par le ch. I de l’O du 28 août 2024, en vigueur depuis le 31 déc. 2024 ([RO 2024 482](https://fedlex.data.admin.ch/eli/oc/2024/482)).
+[^14c-4]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 31 déc. 2024 ([RO 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^14c-5]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 14d
 

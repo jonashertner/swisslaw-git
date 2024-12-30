@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 sulla durata del lavoro e del riposo dei co
 short: OLR 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: it
-version: 2023-09-01
+version: 2024-12-31
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20241231/it/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20241231-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20241231/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20230901/it"
 
 (Ordinanza per gli autisti, OLR 1)[^t-1]
 
-del 19 giugno 1995 (Stato 1° settembre 2023)
+del 19 giugno 1995 (Stato 31 dicembre 2024)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 Il Consiglio federale svizzero,
 
@@ -40,7 +40,7 @@ ordina:
 <sup>2</sup> Sono fatte salve le disposizioni della legge federale del 13 marzo 1964[^1-1] sul lavoro, in particolare quelle relative alla compensazione del lavoro notturno.[^1-2]
 
 [^1-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^1-2]: Introdotto dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2012 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)[5087](https://fedlex.data.admin.ch/eli/oc/2010/734)).
+[^1-2]: Introdotto dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2012 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435), [5087](https://fedlex.data.admin.ch/eli/oc/2010/734)).
 
 #### Art. 2
 
@@ -74,14 +74,14 @@ Nella presente ordinanza sono utilizzate le seguenti definizioni:
   - 2\. che non generi direttamente o indirettamente alcun reddito per il conducente del veicolo o per terzi, e
   - 3\. che non sia legato a un’attività professionale o commerciale.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^2-4]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^2-5]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^2-6]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^2-7]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^2-8]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-5]: Introdotta dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-6]: Introdotta dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-7]: Introdotta dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^2-8]: Introdotta dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 ## Sezione 2: Campo d’applicazione
 
@@ -102,8 +102,8 @@ La presente ordinanza si applica ai conducenti di autoveicoli e combinazioni di 
 
 <sup>4</sup> La presente ordinanza si applica ai datori di lavoro, alle aziende e alle officine soltanto nella misura in cui singole disposizioni lo prevedano espressamente.[^3-2]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 #### Art. 4
 
@@ -150,24 +150,24 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 
 <sup>4</sup> ...[^4-18]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^4-2]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-5]: Nuovo testo giusta l’all. n. II 7 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^4-2]: Introdotta dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-5]: Nuovo testo giusta l’all. cifra II n. 7 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^4-6]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
-[^4-7]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-8]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-9]: Introdotta dal n. I dell’O del 30 giu. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^4-10]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-11]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-12]: Introdotta dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-7]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-8]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-9]: Introdotta dalla cifra I dell’O del 30 giu. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^4-10]: Introdotta dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-11]: Introdotta dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-12]: Introdotta dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-13]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
 [^4-14]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 [^4-15]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^4-16]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-16]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
 [^4-17]: [RS 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
-[^4-18]: Introdotto dall’all. 1 n. 4 dell’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogato dal n. I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-18]: Introdotto dall’all. 1 n. 4 dell’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Abrogato dalla cifra I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 ## Sezione 3: Periodi di guida, di lavoro, pause, periodi di riposo
 
@@ -181,7 +181,7 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 
 <sup>3</sup> Il periodo complessivo di guida sull’arco di due settimane consecutive non può superare 90 ore.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 6
 
@@ -191,7 +191,7 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 
 <sup>2</sup> Le ore di lavoro svolte presso diversi datori di lavoro vengono sommate tra loro. Ogni datore di lavoro è tenuto a chiedere per scritto al lavoratore di presentargli la distinta delle ore di lavoro svolte presso un altro datore di lavoro. Il lavoratore fornisce tali informazioni per scritto.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 7
 
@@ -201,8 +201,8 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 
 <sup>2</sup> Durante il tempo di disponibilità non possono essere effettuati né pause dal lavoro né periodi di riposo.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 #### Art. 8
 
@@ -218,10 +218,10 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 
 <sup>5</sup> Le pause di cui ai capoversi 1–3 non sono considerate periodi di riposo.[^8-4]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^8-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^8-4]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^8-4]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 9
 
@@ -241,14 +241,14 @@ Nel traffico interno, la presente ordinanza non si applica inoltre ai conducenti
 
 <sup>7</sup> In trasferta, i periodi di riposo giornaliero possono essere effettuati nel veicolo, purché questo sia in sosta e dotato delle opportune attrezzature per il riposo di tutti i conducenti.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Abrogato dal n. I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^10-1]: Abrogato dalla cifra I dell’O del 30 giu. 2010, con effetto dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 11
 
@@ -276,11 +276,11 @@ In deroga al capoverso 2, i due periodi di riposo possono essere ridotti a 24 or
 
 <sup>8</sup> Laddove siano stati effettuati consecutivamente due periodi di riposo settimanale ridotti di cui al capoverso 7, il successivo periodo di riposo settimanale regolare deve essere preceduto da un periodo di riposo a compensazione dei due suddetti periodi ridotti. Il periodo a compensazione e il successivo periodo di riposo settimanale regolare devono essere presi in una sola volta.[^11-5]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^11-4]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^11-5]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-4]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11-5]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 11a
 
@@ -303,9 +303,9 @@ Se il conducente rinvia il periodo di riposo settimanale, dopo il rinvio deve ef
 - a. due periodi di riposo settimanale regolare; oppure
 - b. un periodo di riposo settimanale regolare e un periodo di riposo settimanale ridotto di almeno 24 ore; la riduzione deve essere compensata da un periodo di riposo equivalente e ininterrotto nel corso delle tre settimane seguenti.
 
-[^11a-1]: Introdotto dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^11a-1]: Introdotto dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^11a-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-[^11a-3]: Nuova espr. giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^11a-3]: Nuova espr. giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 11b
 
@@ -315,7 +315,7 @@ Se il conducente rinvia il periodo di riposo settimanale, dopo il rinvio deve ef
 
 <sup>2</sup> Non è considerato durata del lavoro secondo il capoverso 1 il tempo trascorso dal lavoratore su un treno o una nave traghetto e durante il quale il lavoratore dispone di una cuccetta, di una branda o di un posto dove stendersi.
 
-[^11b-1]: Introdotto dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^11b-1]: Introdotto dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 11c
 
@@ -325,7 +325,7 @@ Se il conducente rinvia il periodo di riposo settimanale, dopo il rinvio deve ef
 
 <sup>2</sup> Durante la prima ora di equipaggio multiplo la presenza di un altro o più conducenti è facoltativa, durante il periodo restante è obbligatoria.
 
-[^11c-1]: Introdotto dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^11c-1]: Introdotto dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 11d
 
@@ -343,7 +343,7 @@ Se il tempo trascorso durante il trasporto combinato è conteggiato come periodo
 - b. la durata complessiva delle interruzioni non supera l’ora; e
 - c. dispone di una cuccetta a bordo del traghetto o del treno.
 
-[^11d-1]: Introdotto dal n. I dell’O del 30 giu. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^11d-1]: Introdotto dalla cifra I dell’O del 30 giu. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 12
 
@@ -362,10 +362,10 @@ Nella misura in cui la sicurezza della circolazione stradale lo consente, in cir
 
 <sup>2</sup> Il conducente deve menzionare sul disco per il tachigrafo analogico e su un foglio speciale per il tachigrafo o digitale genere e motivo della deroga alle prescrizioni relative alla durata del lavoro, della guida e del riposo. L’articolo 14*b* capoverso 4 si applica per analogia.[^12-4]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^12-2]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^12-3]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^12-4]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^12-2]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^12-3]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^12-4]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 ## Sezione 4: Disposizioni sul controllo
 
@@ -383,7 +383,7 @@ Per controllare se i periodi di guida, i periodi di lavoro, le pause e i periodi
 - f. le iscrizioni nei rapporti giornalieri ad uso interno delle aziende e le date degli apparecchi di controllo del tempo di lavoro all’interno delle aziende;
 - g. le iscrizioni figuranti nel registro della durata del lavoro, della guida e del riposo.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 #### Art. 13a
 
@@ -413,9 +413,9 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 <sup>5</sup> In caso di danneggiamento, cattivo funzionamento, smarrimento o furto di una carta per il tachigrafo, il titolare della carta deve darne notifica all’autorità competente entro sette giorni. Entro tale termine egli deve chiedere la sostituzione della carta. Con la notifica, la carta per il tachigrafo perde la sua validità.
 
-[^13a-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^13a-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^13a-3]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^13a-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13a-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^13a-3]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 #### Art. 13b
 
@@ -435,13 +435,13 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 <sup>7</sup> Il furto di una carta del conducente deve essere denunciato alle autorità competenti dello Stato in cui è avvenuto.
 
-[^13b-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13b-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13b-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^13b-3]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^13b-3]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 [^13b-4]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13b-5]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^13b-6]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^13b-7]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^13b-5]: Nuovo testo giusta l’all. 4 cifra II n. 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13b-6]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^13b-7]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 #### Art. 13c
 
@@ -457,13 +457,13 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 <sup>5</sup> Le carte dell’officina devono essere restituite all’UDSC in caso di modifiche secondo l’articolo 13*a* capoverso 3, danneggiamento o cattivo funzionamento. Se viene ritrovata, una carta dell’officina sostituita deve essere consegnata all’autorità entro 14 giorni. I dati memorizzati sulla carta devono essere preventivamente salvati.
 
-[^13c-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13c-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13c-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^13c-3]: Regolamento (UE) n. 165/2014 del Parlamento europeo e del Consiglio del 4 febbraio 2014 relativo ai tachigrafi nel settore dei trasporti su strada, che abroga il regolamento (CEE) n. 3821/85 del Consiglio relativo all’apparecchio di controllo nel settore dei trasporti su strada e modifica il regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio relativo all’armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada, versione della GU L 60 del 28.2.2014, pag. 1.
-[^13c-4]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13c-4]: Nuovo testo giusta l’all. 4 cifra II n. 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^13c-5]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta modifica è tenuto conto in tutto il presente testo.
 [^13c-6]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13c-7]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13c-7]: Nuovo testo giusta l’all. 4 cifra II n. 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13d
 
@@ -477,9 +477,9 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 <sup>4</sup> La carta dell’azienda è intestata all’azienda. A un’azienda possono essere rilasciate più carte dell’azienda.
 
-[^13d-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13d-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13d-2]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13d-3]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13d-3]: Nuovo testo giusta l’all. 4 cifra II n. 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13e
 
@@ -493,10 +493,10 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 <sup>4</sup> La carta di controllo non è personale ed è trasferibile. A un’autorità possono essere rilasciate più carte di controllo.
 
-[^13e-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^13e-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^13e-2]: [RS 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
-[^13e-3]: Nuovo testo giusta l’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^13e-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^13e-3]: Nuovo testo giusta l’all. 4 cifra II n. 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^13e-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
 #### Art. 14
 
@@ -508,9 +508,9 @@ Le carte per il tachigrafo sono ritirate o annullate prima della scadenza della 
 
 <sup>3</sup> In caso di guasto o di funzionamento difettoso del tachigrafo, il datore di lavoro o il conducente indipendente deve provvedere a farlo riparare al più presto da un’officina in possesso di un’autorizzazione corrispondente. Qualora il rientro del veicolo alla sede dell’impresa non sia possibile entro una settimana dall’accaduto, la riparazione deve essere effettuata durante il viaggio.[^14-3]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^14-3]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14-3]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
 #### Art. 14a
 
@@ -543,10 +543,10 @@ Il conducente deve apportare sul disco le seguenti indicazioni:
 
 <sup>6</sup> Il datore di lavoro deve mettere gratuitamente a disposizione del lavoratore i dischi e, a richiesta, consegnargli una copia dei dischi utilizzati.
 
-[^14a-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14a-2]: Introdotta dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^14a-3]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^14a-4]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14a-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^14a-2]: Introdotta dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^14a-3]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14a-4]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 #### Art. 14b
 
@@ -570,33 +570,38 @@ Il conducente deve apportare sul disco le seguenti indicazioni:
 
 <sup>8</sup> Il datore di lavoro deve mettere gratuitamente a disposizione del lavoratore la carta da stampa nonché gli altri strumenti necessari per scaricare i dati dalla carta del conducente e, a richiesta, consegnargli gratuitamente una copia degli estratti o dei dati restanti.
 
-[^14b-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14b-2]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 2 feb. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^14b-3]: Nuovo testo giusta il n. I dell’O dell’11 feb. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
-[^14b-4]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^14b-5]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^14b-6]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^14b-7]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^14b-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^14b-2]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 2 feb. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^14b-3]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
+[^14b-4]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14b-5]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^14b-6]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^14b-7]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
 #### Art. 14c
 
 **Presentazione dei documenti o dei dati riguardanti il tachigrafo**[^14c-1]
 
-<sup>1</sup> Se guida un veicolo con un tachigrafo analogico, il conducente deve essere in grado di presentare in qualsiasi momento all’autorità d’esecuzione il disco del giorno in corso e i dischi utilizzati nei precedenti 28 giorni nonché la carta del conducente, nel caso sia titolare di una tale carta; i dischi precedenti sono restituiti al datore di lavoro affinché li conservi (art. 18 cpv. 3).[^14c-2]
+<sup>1</sup> Se guida un veicolo con un tachigrafo analogico, il conducente deve essere in grado di presentare in qualsiasi momento all’autorità d’esecuzione il disco del giorno in corso e i dischi utilizzati nei precedenti 56 giorni nonché la carta del conducente, nel caso sia titolare di una tale carta; i dischi precedenti sono restituiti al datore di lavoro affinché li conservi (art. 18 cpv. 3).[^14c-2]
+
+<sup>1bis</sup> Se guida a titolo professionale un autoveicolo per il trasporto di persone che, oltre a quello del conducente, ha un numero di posti a sedere non superiore a 16 (art. 4 cpv. 2 lett. a in combinato disposto con art. 4 cpv. 2<sup>bis</sup>) ed è provvisto di tachigrafo analogico, il conducente deve essere in grado di presentare in qualsiasi momento all’autorità di esecuzione il disco del giorno in corso e i dischi utilizzati nei precedenti 28 giorni nonché la carta del conducente, nel caso sia titolare di una tale carta.[^14c-3]
 
 <sup>2</sup> Se guida un veicolo con un tachigrafo digitale, il conducente deve essere in grado di presentare in ogni momento all’autorità d’esecuzione la carta del conducente.
 
 <sup>3</sup>
 
-Se guida alternativamente un veicolo con tachigrafo analogico e un veicolo con tachigrafo digitale, il conducente deve poter presentare in ogni momento all’autorità:
+Se guida alternativamente un veicolo con tachigrafo analogico e un veicolo con tachigrafo digitale, il conducente deve poter presentare in ogni momento all’autorità d’esecuzione:[^14c-4]
 
 - a. il disco e gli estratti della giornata in corso conformemente all’articolo 14*b* capoversi 4 e 5;
-- b. i dischi e gli estratti dei precedenti 28 giorni durante i quali ha guidato un veicolo conformemente all’articolo 14*b* capoversi 4 e 5;
-- c. la carta del conducente.[^14c-3]
+- b.[^14c-5] i dischi, i fogli speciali di cui all’articolo 14*b* capoverso 4 e gli estratti secondo l’articolo 14*b* capoverso 5 dei precedenti 56 giorni durante i quali ha guidato un veicolo;
+- c. la carta del conducente.[^14c-6]
 
-[^14c-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^14c-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^14c-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^14c-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^14c-2]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 31 dic. 2024 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^14c-3]: Introdotto dalla cifra I dell’O del 28 ago. 2024, in vigore dal 31 dic. 2024 ([RU 2024 482](https://fedlex.data.admin.ch/eli/oc/2024/482)).
+[^14c-4]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 31 dic. 2024 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^14c-5]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 31 dic. 2024 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^14c-6]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 14d
 
@@ -604,7 +609,7 @@ Se guida alternativamente un veicolo con tachigrafo analogico e un veicolo con t
 
 I noleggiatori di veicoli devono, su richiesta, mettere a disposizione del locatario, al più tardi entro un mese dalla fine del periodo di noleggio, i dati registrati nella memoria del tachigrafo che si riferiscono alle corse effettuate dal locatario e ai quali quest’ultimo non può accedere direttamente. A tale riguardo dev’essere garantita la protezione dei dati.
 
-[^14d-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^14d-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 #### Art. 15
 
@@ -623,7 +628,7 @@ Il lavoratore compila un libretto di lavoro indicante la durata del suo lavoro, 
 
 <sup>4</sup> Al più tardi il primo giorno di lavoro della settimana successiva o, in caso di corse all’estero, dopo il rientro in Svizzera, il lavoratore deve consegnare al datore di lavoro i mezzi di controllo per provare il tempo di lavoro (originali perforati del foglio settimanale del libretto di lavoro, rapporti ad uso interno dell’azienda).
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 #### Art. 16
 
@@ -658,12 +663,12 @@ I conducenti indipendenti iscrivono in un registro le seguenti indicazioni:
 
 <sup>6</sup> L’autorità di esecuzione può dispensare dal compilare il registro dei periodi di lavoro, di guida e di riposo secondo i capoversi 1 e 2 il conducente che esercita l’attività professionale secondo un orario quotidiano invariabile, che escluda ogni infrazione delle prescrizioni sulla durata del lavoro, della guida e del riposo. La corrispondente decisione di dispensa, la cui validità è limitata a un anno, menziona l’orario e il nome del conducente ed eventualmente del datore di lavoro; non può essere prorogata se, durante il periodo di dispensa, il conducente ha effettuato oltre 20 corse all’infuori dell’orario.[^16-6]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^16-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^16-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^16-4]: Introdotto dal n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^16-5]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^16-6]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^16-4]: Introdotto dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^16-5]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^16-6]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 16a
 
@@ -694,7 +699,7 @@ Se il veicolo è provvisto di tachigrafo digitale, i datori di lavoro e i conduc
 - f. il registro secondo l’articolo 16 capoverso 1 o 2 sia allestito in modo completo;
 - g. la sua area dati sia protetta prima che il tachigrafo sia messo in esercizio e la protezione sia disattivata prima della vendita o del noleggio del tachigrafo.
 
-[^16a-1]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^16a-1]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 #### Art. 17
 
@@ -724,9 +729,9 @@ Laddove il conducente abbia effettuato due periodi di riposo settimanale ridotti
 
 <sup>4</sup> Il salario dei lavoratori non può essere calcolato in base alle distanze percorse, al volume delle merci trasportate o ad altre prestazioni che compromettono la sicurezza della circolazione stradale.
 
-[^17-1]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^17-2]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^17-3]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^17-1]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^17-2]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^17-3]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
 #### Art. 18
 
@@ -752,17 +757,17 @@ I datori di lavoro e i conducenti indipendenti devono conservare per tre anni, o
 
 <sup>6</sup> Le informazioni a fini statistici o di ricerca sono rette dalle disposizioni della legge federale del 25 settembre 2020[^18-8] sulla protezione dei dati, dell’ordinanza del 31 agosto 2022[^18-9] sulla protezione dei dati e della legge federale del 9 ottobre 1992[^18-10] sulla statistica federale.[^18-11]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^18-4]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^18-5]: Introdotta dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^18-6]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^18-7]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-4]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-5]: Introdotta dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-6]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^18-7]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^18-8]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^18-9]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18-10]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-11]: Introdotto dal n. I dell’O del 29 mar. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Nuovo testo giusta l’all. 2 n. II 111 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^18-11]: Introdotto dalla cifra I dell’O del 29 mar. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Nuovo testo giusta l’all. 2 n. II 111 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 5: Disposizioni speciali
 
@@ -784,7 +789,7 @@ Durante le corse di guida effettuate nell’ambito della formazione, l’istrutt
 
 <sup>4</sup> Le corse di guida effettuate nell’ambito della formazione sono pure considerate periodo di guida per l’istruttore.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O dell’11 feb. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
 [^19-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
 
 #### Art. 20
@@ -821,7 +826,7 @@ Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
 
 <sup>4</sup> Il conducente deve annotare il servizio svolto avvalendosi dell’eccezione di cui al capoverso 1 su un foglio speciale in conformità con l’articolo 14*b* capoverso 4 o su un estratto ai sensi dell’articolo 14*b* capoverso 5.
 
-[^20a-1]: Introdotto dal n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 ## Sezione 6: Disposizioni penali e perseguimento penale
 
@@ -848,12 +853,12 @@ Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
 
 <sup>4</sup> Il datore di lavoro che induce un conducente a commettere un atto punibile ai sensi della presente ordinanza oppure non glielo impedisce, nei limiti delle sue possibilità, è passibile della stessa pena inflitta al conducente. Il giudice può attenuare la pena per il lavoratore o esentarlo da una pena se le circostanze lo giustificano.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
-[^21-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
-[^21-4]: Abrogata dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
-[^21-5]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^21-6]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^21-3]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^21-4]: Abrogata dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^21-5]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^21-6]: Nuovo testo giusta la cifra I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 
 #### Art. 22
 
@@ -877,11 +882,11 @@ Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
 
 <sup>4</sup> Le autorità d’esecuzione approntano un elenco delle aziende aventi la sede sociale o una succursale nel Cantone. Esse tengono un elenco dei libretti di lavoro rilasciati a ciascuna azienda.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 [^23-3]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
-[^23-4]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
-[^23-5]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^23-4]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
+[^23-5]: Abrogato dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° gen. 2008 ([RU 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 
 #### Art. 24
 
@@ -899,15 +904,15 @@ Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
 
 [^24-1]: Nuova espr. giusta l’art. 1 n. 21 dell’O del 22 giu. 1998, in vigore dal 1° gen. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
 [^24-2]: Nuova espr. giusta l’art. 1 n. 21 dell’O del 22 giu. 1998, in vigore dal 1° gen. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)).
-[^24-3]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^24-4]: Introdotto dal n. I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). La correzione del 3 ago. 2022 concerne soltanto il testo francese ([RU 2022 434](https://fedlex.data.admin.ch/eli/oc/2022/434)).
-[^24-5]: Introdotto dal n. I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^24-3]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^24-4]: Introdotto dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). La correzione del 3 ago. 2022 concerne soltanto il testo francese ([RU 2022 434](https://fedlex.data.admin.ch/eli/oc/2022/434)).
+[^24-5]: Introdotto dalla cifra I dell’O del 29 giu. 2011, in vigore dal 1° ott. 2011 ([RU 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 
 ## Sezione 8: Disposizioni transitorie
 
 [^sec8-1]
 
-[^sec8-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^sec8-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 #### Art. 25
 
@@ -915,13 +920,13 @@ Nei casi di cui al capoverso 1 vigono le seguenti disposizioni:
 
 Le carte di controllo rilasciate prima del 15 marzo 2019 conservano la validità di 5 anni.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
 #### Art. 26 a 28
 
 [^2628-1]
 
-[^2628-1]: Abrogati dal n. I dell’O del 29 mar. 2006, con effetto dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^2628-1]: Abrogati dalla cifra I dell’O del 29 mar. 2006, con effetto dal 1° nov. 2006 ([RU 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 ## Sezione 9: Entrata in vigore
 
