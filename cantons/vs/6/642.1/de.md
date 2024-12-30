@@ -5,12 +5,12 @@ title: Steuergesetz
 short: StG
 language: de
 version: 2024-01-01
-valid_until: 2024-12-31
+corrected: 2024-12-31
 version_adopted: 2024-09-12
 adopted: 1976-03-10
 in_force: 1977-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/642.1"
-pdf: "https://lex.vs.ch/api/de/versions/3444/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3157/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -27,7 +27,7 @@ eingesehen die Artikel 23 und 24 der Kantonsverfassung;
 
 auf Antrag des Staatsrates,
 
-verordnet:
+beschliesst:
 
 ## 1 Kantonssteuern
 
@@ -126,13 +126,13 @@ verordnet:
 
 #### Art. 6
 
-**2. Besondere Verhältnisse bei der Einkommens- und Vermögenssteuer 2.1. Ehepaare, Kinder unter elterlicher Sorge**
+**2. Besondere Verhältnisse bei der Einkommens- und Vermögenssteuer 2.1. Ehefrau, Kinder unter elterlicher Gewalt**
 
 <sup>1</sup> Einkommen und Vermögen der im gemeinsamen Haushalt lebenden Ehegatten werden ohne Rücksicht auf den Güterstand dem Ehemann zugerechnet.
 
-<sup>2</sup> Das Einkommen und Vermögen von Kindern unter elterlicher Sorge wird dem Inhaber dieser Sorge zugerechnet; für Einkünfte aus einer Erwerbstätigkeit wird das Kind jedoch selbständig besteuert.
+<sup>2</sup> Das Einkommen und Vermögen von Kindern unter elterlicher Gewalt wird dem Inhaber dieser Gewalt zugerechnet; für Einkünfte aus einer Erwerbstätigkeit wird das Kind jedoch selbständig besteuert.
 
-<sup>3</sup> Die durch den Inhaber der elterlichen Sorge ausgerichteten Löhne an minderjährige Kinder werden nur so weit getrennt besteuert, als sie einer angemessenen Arbeitsentschädigung entsprechen.
+<sup>3</sup> Die durch den Inhaber der elterlichen Gewalt ausgerichteten Löhne an minderjährige Kinder werden nur soweit getrennt besteuert, als sie einer angemessenen Arbeitsentschädigung entsprechen.
 
 #### Art. 6a
 
@@ -178,9 +178,9 @@ verordnet:
 
 <sup>3</sup> Es haften solidarisch:
 
-- a) die unter elterlicher Sorge stehenden Kinder bis zum Betrag des auf sie entfallenden Anteils an der Gesamtsteuer;
-- b) die in der Schweiz wohnenden Teilhaber an einer einfachen Gesellschaft, Kollektiv- oder Kommanditgesellschaft bis zum Betrag ihrer Gesellschaftsanteile für die Steuern auf die Gewinn- und Gesellschaftsanteile der im Ausland wohnenden Teilhaber;
-- c) die Personen, die mit der Auflösung von geschäftlichen Betrieben im Kanton oder mit der Veräusserung oder Verwertung von im Kanton gelegenen Grundstücken und von durch solche gesicherten Forderungen betraut sind, für alle auf Grund dieses Gesetzes geschuldeten Steuern, bis zum Betrag des Reinerlöses, wenn der Steuerpflichtige keinen steuerrechtlichen Wohnsitz in der Schweiz hat.
+- a) die unter elterlicher Gewalt stehenden Kinder bis zum Betrage des auf sie entfallenden Anteils an der Gesamtsteuer;
+- b) die in der Schweiz wohnenden Teilhaber an einer einfachen Gesellschaft, Kollektiv- oder Kommanditgesellschaft bis zum Betrage ihrer Gesellschaftsanteile für die Steuern auf die Gewinn- und Gesellschaftsanteile der im Ausland wohnenden Teilhaber;
+- c) die Personen, die mit der Auflösung von geschäftlichen Betrieben im Kanton oder mit der Veräusserung oder Verwertung von im Kanton gelegenen Grundstücken und von durch solche gesicherten Forderungen betraut sind, für alle auf Grund dieses Gesetzes geschuldeten Steuern, bis zum Betrage des Reinerlöses, wenn der Steuerpflichtige keinen steuerrechtlichen Wohnsitz in der Schweiz hat.
 
 <sup>4</sup> Der mit der Verteilung einer Erbschaft ohne Erben mit Wohnsitz in der Schweiz betraute Erbschaftsverwalter hat alle Massnahmen zu treffen, damit die vom Erblasser und die von der Erbschaft geschuldeten Steuern vor der Verteilung bezahlt werden. Bei Nichtbefolgen dieser Vorschrift sind die Bestimmungen von Artikel 205 auf den Erbschaftsverwalter anwendbar.
 
@@ -374,8 +374,6 @@ verordnet:
 
 <sup>5</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
-<sup>6</sup> Absatz 1 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach Obligationenrecht (OR) geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
-
 #### Art. 17
 
 **1.5. Aus unbeweglichem Vermögen**
@@ -389,8 +387,6 @@ verordnet:
 - e) Einkünfte aus Wasserrechtskonzessionen.
 
 <sup>2</sup> Um der Eigentumsbildung Rechnung zu tragen, sind die Eigenmietwerte massvoll festzulegen. Die jeweilige Anpassung erfolgt frühestens nach zwei Veranlagungsperioden.
-
-<sup>3</sup> Die Festsetzung des Eigenmietwertes erfolgt unter Berücksichtigung der ortsüblichen Verhältnisse und der tatsächlichen Nutzung der am Wohnsitz selbstbewohnten Liegenschaft. Bei einer tatsächlichen und dauerhaften Unternutzung wird der Eigenmietwert entsprechend reduziert.
 
 #### Art. 18
 
@@ -426,7 +422,7 @@ verordnet:
 - b) Entschädigungen für die Aufgabe oder Nichtausübung einer Tätigkeit;
 - c) Entschädigungen für die Nichtausübung eines Rechtes;
 - d) Einkünfte aus Lotterien und lotterieähnlichen Veranstaltungen sind gemäss Artikel 33c steuerbar;
-- e) Unterhaltsbeiträge, die ein Steuerpflichtiger bei Scheidung, gerichtlicher oder tatsächlicher Trennung für sich in Form einer Rente erhält, sowie Unterhaltsbeiträge, die ein Elternteil für die unter seiner elterlichen Sorge stehenden Kinder erhält;
+- e) Unterhaltsbeiträge, die ein Steuerpflichtiger bei Scheidung, gerichtlicher oder tatsächlicher Trennung für sich in Form einer Rente oder Kapitalleistung erhält sowie Unterhaltsbeiträge, die ein Elternteil für die unter seiner elterlichen Gewalt stehenden Kinder erhält. Die Kapitalleistungen werden gemäss Artikel 33 Absatz 1 besteuert;
 - f) …
 - g) einmalige oder wiederkehrende Zahlungen bei Tod sowie für bleibende körperliche Nachteile.
 
@@ -445,11 +441,10 @@ verordnet:
 - g) die Zahlung von Genugtuungssummen;
 - h) die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
 - i) die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
-- i<sup>bis</sup>) die einzelnen Gewinne bis zu dem nach DBG festgelegten Betrag aus der Teilnahme an Grossspielen, die gemäss BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die gemäss BGS zugelassen sind;
+- i<sup>bis</sup>) die einzelnen Gewinne bis zum Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - i<sup>ter</sup>) die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- j) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die im DBG festgelegte Grenze nicht überschritten wird;
-- k) der Sold der Milizfeuerwehrleute bis zum Betrag von jährlich 8'000 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen); ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
-- l) Überbrückungsleistungen im Sinne des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose (ÜLG).
+- j) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1'000 Franken nicht überschritten wird;
+- k) der Sold der Milizfeuerwehrleute bis zum Betrag von jährlich 8'000 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen); ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt.
 
 #### Art. 21
 
@@ -560,24 +555,24 @@ verordnet:
 
 - a) die privaten Schuldzinsen im Umfang der nach den Artikeln 16, 17 und 33d steuerbaren Vermögenserträge und weitere 50'000 Franken;
 - b) die dauernden Lasten sowie 40 Prozent der bezahlten Leibrenten;
-- c) die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
+- c) die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Gewalt stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d) die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen aus der Alters-, Hinterlassenen- und Invalidenversicherung und aus den Familienzulagekassen sowie die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und für die obligatorische Unfallversicherung;
 - e) die von Arbeitnehmern und Selbständigerwerbenden nach Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen aus Einrichtungen der beruflichen Vorsorge;
 - f) die Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge im Umfang und unter den Voraussetzungen der eidgenössischen Gesetzgebung;
 - g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Buchstabe d fallende Unfallversicherung sowie die Zinsen von Sparkapitalien des Steuerpflichtigen und der von ihm unterhaltenen Personen, bis zum Gesamtbetrag von:
-  - 1\. für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben: 7'200 Franken.
-  - 1\.1. …
-  - 1\.2. …
-  - 1\.3. …
+  - 1\. für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben:
+  - 1\.1. 4'800 Franken im Steuerjahr, in welchem die Änderung in Kraft tritt (Jahr n);
+  - 1\.2. 6'000 Franken im Jahr n + 1
+  - 1\.3. 7'200 Franken im Jahr n + 2
   - 2\. für die übrigen Steuerpflichtigen:
-  - 2\.1. 3'600 Franken,
-  - 2\.2. 1'090 Franken für jedes Kind oder jede unterstützungsbedürftige Person, für die der Steuerpflichtige den Abzug gemäss Artikel 31 Absatz 1 Buchstabe b geltend machen kann.
-  - 2\.3. …
-  - 2\.4. …
+  - 2\.1. 2'400 Franken im Steuerjahr, in welchem die Änderung in Kraft tritt (Jahr n);
+  - 2\.2. 3'000 Franken im Jahr n + 1
+  - 2\.3. 3'600 Franken im Jahr n + 2
+  - 2\.4. 1'090 Franken für jedes Kind oder jede unterstützungsbedürftige Person, für die der Steuerpflichtige den Abzug gemäss Artikel 31 Absatz 1 Buchstabe b geltend machen kann.
   - 3\. Sind die Voraussetzungen für eine Teilung des Abzugs für Kinder im Sinne von Artikel 31 Absatz 1 erfüllt, wird der Abzug pro Kind zwischen den beiden Eltern aufgeteilt.
-  - 4\. Der Grosse Rat kann diese maximalen Abzüge im Rahmen des Budgets um bis zu 30 Prozent erhöhen.
+  - 4\. Der Grosse Rat kann diese maximalen Abzüge bis zu 30 Prozent erhöhen.
 - h) …
-- i) die freiwilligen Leistungen von Geld und übrigen Vermögenswerten bis zu 20 Prozent des Nettoeinkommens an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind, sowie an Bund, Kantone, Gemeinden und deren Anstalten;
+- i) die freiwilligen Zuwendungen an juristische Personen, die im Hinblick auf öffentliche oder auf ausschliesslich gemeinnützige Zwecke von der Steuerpflicht befreit sind, bis zu 20 Prozent des Reineinkommens;
 - j) die Krankheits- und Unfallkosten des Steuerpflichtigen und der von ihm unterhaltenen Personen, soweit der Steuerpflichtige die Kosten selber trägt und diese 2 Prozent des steuerbaren Einkommens, vermindert um die in den Artikeln 22 bis 29 vorgesehenen Abzüge, übersteigen;
 - k) die behinderungsbedingten Kosten der steuerpflichtigen Person oder der von ihr unterhaltenen Personen mit Behinderungen im Sinne des Bundesgesetzes über die Gleichstellung von Behinderten vom 13. Dezember 2002, soweit der Steuerpflichtige die Kosten selber trägt;
 - l) 3'000 Franken pro Kind für die Betreuung der eigenen Kinder; die Kosten für die Drittbetreuung können bis zur Höhe von maximal 3'000 Franken pro Kind zum Abzug gebracht werden, wenn das Kind mit dem Steuerpflichtigen, der für dessen Unterhalt sorgt, im gleichen Haushalt lebt und wenn die nachgewiesenen Betreuungskosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit des Steuerpflichtigen stehen. Die Abzüge gelten für jedes Kind, welches das 14. Altersjahr noch nicht vollendet hat und können nicht kumuliert werden;
@@ -620,7 +615,7 @@ verordnet:
   - 5\. Diese Abzüge werden um den Betrag der Geburts- und Adoptionszulagen erhöht;
   - 6\. Der Grosse Rat kann diesen Abzug bis zu 30 Prozent erhöhen;
   - 7\. Werden die Eltern getrennt besteuert, so hat jeder Elternteil Anspruch auf den hälftigen Kinderabzug, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge von einem Elternteil an den andern geleistet werden,
-- c) für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, zu deren Unterhalt der Steuerpflichtige mindestens in der Höhe des Abzuges beiträgt, 2'500 Franken. Der Abzug kann nicht beansprucht werden für die Ehepartner und für Kinder, für die dem Steuerpflichtigen ein Abzug nach Buchstabe b gewährt wird;
+- c) für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, an deren Unterhalt der Steuerpflichtige mindestens in der Höhe des Abzuges beträgt 1'250 Franken. Der Abzug kann nicht beansprucht werden für die Ehefrau und für Kinder, für die dem Steuerpflichtigen ein Abzug nach Buchstabe b gewährt wird;
 - d) …
 - e) vom Einkommen von Lehrlingen und Studenten 5'000 Franken;
 - f) für AHV- oder IV-Rentner und Rentnerinnen, die sich in einem anerkannten Pflege- oder Krankenheim aufhalten, wird das steuerbare Einkommen auf Null festgesetzt, sofern
@@ -628,7 +623,7 @@ verordnet:
   - 2\. die steuerpflichtige Person über kein steuerbares Vermögen verfügt;
 - g) für jeden Schüler der öffentlichen Orientierungs- und Mittelschulstufe pro Jahr maximal 5'000 Franken der effektiven Kosten für Internat oder Gastfamilie;
 - h) für jedes Kind, das eine tertiäre Bildung geniesst und dauerhaft ausserhalb des elterlichen Wohnsitzes logieren muss, 5'000 Franken pro Jahr maximal. Der Abzug wird nicht gewährt, wenn das Kind eine gleichwertige Ausbildung an einer Bildungsanstalt mit Sitz im Kanton Wallis absolvieren kann;
-- i) für freiwillig Pflegende 6'000 Franken. Der Abzug wird gewährt, wenn die Pflege regelmässig erbracht wird und wenn feststeht, dass diese Person ohne die entsprechenden Hilfeleistungen in einem Pflegeheim oder in einer Institution untergebracht werden müsste; der Gesundheitszustand der Person und die erbrachte Pflegeleistung müssen durch einen Arzt oder das Sozialmedizinische Zentrum bestätigt werden. Wird die Pflegeleistung zwecks Verbleibs zu Hause durch mehrere Personen erbracht, wird der Abzug unter ihnen aufgeteilt;
+- i) für freiwillig Pflegende 5'000 Franken. Der Abzug wird gewährt, wenn die Pflege regelmässig erbracht wird und wenn feststeht, dass diese Person ohne die entsprechenden Hilfeleistungen in einem Pflegeheim oder in einer Institution untergebracht werden müsste; der Gesundheitszustand der Person und die erbrachte Pflegeleistung müssen durch einen Arzt oder das Sozialmedizinische Zentrum bestätigt werden. Wird die Pflegeleistung zwecks Verbleibs zu Hause durch mehrere Personen erbracht, wird der Abzug unter ihnen aufgeteilt.
 
 <sup>2</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode (Art. 61) oder der Steuerpflicht festgesetzt.
 
@@ -646,7 +641,7 @@ verordnet:
 
 **6. Steuerberechnung 6.1. Steuersätze**
 
-<sup>1</sup> Der Steuersatz auf dem Einkommen beträgt je nach Einkommensklasse zwischen 2 Prozent und 14 Prozent gemäss der Tabelle im Anhang 1 dieses Gesetzes. Der Staatsrat ist berechtigt, die Einkommensklassen, nicht jedoch die Steuersätze, in der Tabelle nach jeder Indexierung anzupassen.
+<sup>1</sup> Die Steuer vom Einkommen für ein Steuerjahr beträgt:
 
 <table>
 <tr><th>Klassen</th><th>Steuersatz in Prozent</th><th>Steuerbetrag</th></tr>
@@ -681,7 +676,7 @@ verordnet:
 
 - a) Für Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene oder ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, ermässigt sich die Steuer um 35 Prozent, jedoch mindestens um 600 Franken und höchstens um 4'500 Franken. Der Grosse Rat kann diese Ermässigung auf maximal 6'000 Franken anheben. Steht das Kind unter der gemeinsamen elterlichen Sorge der getrennt besteuerten Eltern und wird der Sozialabzug für das Kind hälftig unter ihnen aufgeteilt (Art. 31 Abs. 1), hat jeder Elternteil Anspruch auf die Ermässigung von 35 Prozent, reduziert um die Hälfte, jedoch mindestens von 300 Franken und höchstens von 2'250 Franken.
 - b) Unter Vorbehalt des Buchstabens c wird den Steuerpflichtigen, die keinen Anspruch auf die Ermässigung laut Buchstabe a haben, ein Abzug vom steuerbaren Nettoeinkommen von 20’000 Franken gewährt. Dieser Abzug nimmt um jeweils 2’000 Franken für jede weiteren angebrochenen 1’500 Franken ab, die das steuerbare Nettoeinkommen von 20’000 Franken übersteigen. Der Abzug entfällt, sobald das steuerbare Nettoeinkommen 33’500 Franken überschreitet.
-- c) Die unter den Buchstaben a und b vorgesehenen Abzüge werden nicht gewährt an Personen, die in freier Gemeinschaft zusammenleben;
+- c) Die unter den Buchstaben a und b vorgesehenen Abzüge werden nicht gewährt an Personen, die in freier Gemeinschaft zusammenleben.
 
 <sup>4</sup> Jedes Mal, wenn der Index der Konsumentenpreise um 3 Prozent steigt, werden die obigen Ansätze automatisch auf um 3 Prozent höhere Einkommen anwendbar. Wenn es die finanzielle Situation des Kantons erfordert, kann der Grosse Rat beschliessen, die Auswirkungen der kalten Progression nicht oder nur teilweise auszumerzen. Die Änderung von 3 Prozent wird basierend auf den letzten angepassten Steuersätzen berechnet. Massgebend ist der Stand des Indexes am 30. Juni des dem Beginn der Einschätzungsperiode vorangehenden Jahres. Die Veränderung des Indexes, die früher nicht berücksichtigt wurde, wird ebenfalls in Betracht gezogen. Eine Anpassung ist ausgeschlossen, wenn die Teuerung negativ ist. Die Anpassung, die nach einer negativen Teuerung erfolgt, wird basierend auf den letzten angepassten Steuersätzen berechnet.
 
@@ -731,13 +726,15 @@ verordnet:
 
 <sup>1</sup> Gewinne aus Lotterien und lotterieähnlichen Veranstaltungen werden zu 50 Prozent der ordentlichen Tarife besteuert. Die Besteuerung erfolgt gesondert vom übrigen Einkommen in dem Steuerjahr, in dem die Gewinne zugeflossen sind.
 
-<sup>2</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 20 Absatz 1 Buchstaben i<sup>bis</sup> bis j steuerfrei sind, werden 5 Prozent, jedoch höchstens der im DBG festgelegte Betrag, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 20 Absatz 1 Buchstaben i<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens der im DBG festgelegte Betrag, abgezogen.
+<sup>2</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 20 Absatz 1 Buchstaben i<sup>bis</sup> bis j steuerfrei sind, werden 5 Prozent, jedoch höchstens 5'000 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 20 Absatz 1 Buchstaben i<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25'000 Franken, abgezogen.
 
 <sup>3</sup> Ein sich aus den übrigen Einkommensbestandteilen ergebender Verlust wird an den steuerbaren Lotteriegewinn des gleichen Steuerjahres angerechnet.
 
 #### Art. 33d
 
-**…**
+**Erträge aus Beteiligungen 2007 und 2008**
+
+<sup>1</sup> Für Einkünfte aus Beteiligungen an Kapitalgesellschaften oder Genossenschaften mit Sitz in der Schweiz wird der für das steuerbare Gesamteinkommen massgebliche Steuersatz um 50 Prozent reduziert, sofern die Beteiligungsquote mindestens 10 Prozent des Grund- oder Stammkapitals beträgt.
 
 ### 1.1.3
 
@@ -847,7 +844,7 @@ verordnet:
 
 **4.3. Anlagekosten a) Erwerbspreis**
 
-<sup>1</sup> Als Erwerbspreis gilt der Kaufpreis mit Einschluss aller weiteren Leistungen des Erwerbers.
+<sup>1</sup> Als Erwerbspreis gilt der Kaufpreis mit Einschluss aller weiteren Leistungen des Erwerbers sowie der bezahlten Erbschaftssteuern.
 
 <sup>2</sup> Ist der Erwerbspreis nicht feststellbar, so gilt als solcher der Verkehrswert im Zeitpunkt des Erwerbs durch den Veräusserer oder den Rechtsvorgänger oder, in Ermangelung eines solchen, der Katasterwert per 1. Januar 1977.
 
@@ -1095,7 +1092,7 @@ verordnet:
 
 #### Art. 64
 
-**Ehegatten, Kinder unter elterlicher Sorge**
+**Ehegatten, Kinder unter elterlicher Gewalt**
 
 <sup>1</sup> Bei Heirat werden die Ehegatten für die ganze Steuerperiode gemeinsam veranlagt.
 
@@ -1103,7 +1100,7 @@ verordnet:
 
 <sup>3</sup> Bei Scheidung und bei rechtlicher oder tatsächlicher Trennung werden beide Ehegatten für die ganze Steuerperiode getrennt veranlagt.
 
-<sup>4</sup> Das Einkommen und Vermögen von Kindern unter elterlicher Sorge wird bis zum Beginn des Jahres, in dem sie mündig werden, dem Inhaber der elterlichen Sorge zugerechnet. Für Einkünfte aus einer Erwerbstätigkeit wird das minderjährige Kind jedoch selbständig besteuert.
+<sup>4</sup> Das Einkommen und Vermögen von Kindern unter elterlicher Gewalt wird bis zum Beginn des Jahres, in dem sie mündig werden, dem Inhaber der elterlichen Gewalt zugerechnet. Für Einkünfte aus einer Erwerbstätigkeit wird das minderjährige Kind jedoch selbständig besteuert.
 
 #### Art. 65
 
@@ -1232,7 +1229,7 @@ verordnet:
 
 **4. Mithaftung**
 
-<sup>1</sup> Hört die Steuerpflicht einer juristischen Person auf, so haften ihre Organe und die mit der Liquidation betrauten Personen solidarisch für die von ihr geschuldeten Steuern bis zum Betrag der nach dem Stand des Vermögens der juristischen Person auf diese Steuer entfällt. Massgebend ist der Stand des Vermögens im Zeitpunkt, in dem die Steuerpflichtige in Liquidation tritt oder ihren Sitz oder den Ort der tatsächlichen Verwaltung ausser Kanton verlegt.
+<sup>1</sup> Hört die Steuerpflicht einer juristischen Person auf, so haften ihre Organe und die mit der Liquidation betrauten Personen solidarisch für die von ihr geschuldeten Steuern bis zum Betrage der nach dem Stand des Vermögens der juristischen Person auf diese Steuer entfällt. Massgebend ist der Stand des Vermögens im Zeitpunkt, in dem die Steuerpflichtige in Liquidation tritt oder ihren Sitz oder den Ort der tatsächlichen Verwaltung ausser Kanton verlegt
 
 <sup>2</sup> Für die Steuern einer kraft wirtschaftlicher Zugehörigkeit steuerpflichtigen juristischen Person haften die Personen, die mit der Auflösung von Betriebsstätten im Kanton oder mit der Veräusserung oder Verwertung von im Kanton gelegenen Grundstücken oder von durch solche gesicherten Forderungen betraut sind, solidarisch bis zum Betrag des daraus erzielten Reinerlöses.
 
@@ -1242,7 +1239,7 @@ verordnet:
 
 **5. Ausnahmen von der Steuerpflicht**
 
-<sup>1</sup> Von der Steuerpflicht befreit sind:
+<sup>1</sup> Von der Steuerpflicht sind befreit:
 
 - a) der Bund und seine Anstalten nach Massgabe des Bundesrechtes;
 - b) der Kanton und seine Anstalten, soweit sie nach Massgabe des kantonalen Rechtes öffentlichen Zwecken dienen. Die Walliser Kantonalbank AG unterliegt der kantonalen und kommunalen Steuerpflicht gemäss den für die Kapitalgesellschaften geltenden Bestimmungen. Sie ist proportional zum Anteil des Kantons am Aktienkapital von den kantonalen und kommunalen Gewinn- und Kapitalsteuern befreit;
@@ -1252,16 +1249,13 @@ verordnet:
 - f) die juristischen Personen, die öffentliche oder gemeinnützige Zwecke verfolgen, für den Gewinn und das Kapital, die ausschliesslich und unwiderruflich diesen Zwecken gewidmet sind. Unternehmerische Zwecke sind grundsätzlich nicht gemeinnützig. Der Erwerb und die Verwaltung von wesentlichen Kapitalbeteiligungen an Unternehmen gelten als gemeinnützig, wenn das Interesse an der Unternehmenserhaltung dem gemeinnützigen Zweck untergeordnet ist und keine geschäftsleitenden Tätigkeiten ausgeübt werden;
 - g) die juristischen Personen, die kantonal oder gesamtschweizerisch Kultuszwecke verfolgen, für den Gewinn und das Kapital, die ausschliesslich und unwiderruflich diesen Zwecken gewidmet sind. Ausgenommen sind namentlich die Sekten.
 - h) die ausländischen Staaten für ihre ausschliesslich dem unmittelbaren Gebrauch der diplomatischen und konsularischen Vertretungen bestimmten Liegenschaften, unter Vorbehalt des Gegenrechts;
-- i) die vom Bund konzessionierten Verkehrs- und Infrastrukturunternehmen, die für diese Tätigkeit Abgeltungen erhalten oder aufgrund ihrer Konzession einen ganzjährigen Betrieb von nationaler Bedeutung aufrechterhalten müssen; die Steuerbefreiung erstreckt sich auch auf Gewinne aus der konzessionierten Tätigkeit, die frei verfügbar sind; von der Steuerbefreiung ausgenommen sind jedoch Nebenbetriebe und Liegenschaften, die keine notwendige Beziehung zur konzessionierten Tätigkeit haben;
-- j) die kollektiven Kapitalanlagen mit direktem Grundbesitz, sofern deren Anleger ausschliesslich steuerbefreite Einrichtungen der beruflichen Vorsorge nach Buchstabe d oder steuerbefreite inländische Sozialversicherungs- und Ausgleichskassen nach Buchstabe e sind.
+- i) die vom Bund konzessionierten Verkehrs- und Infrastrukturunternehmen, die für diese Tätigkeit Abgeltungen erhalten oder aufgrund ihrer Konzession einen ganzjährigen Betrieb von nationaler Bedeutung aufrecht erhalten müssen; die Steuerbefreiung erstreckt sich auch auf Gewinne aus der konzessionierten Tätigkeit, die frei verfügbar sind; von der Steuerbefreiung ausgenommen sind jedoch Nebenbetriebe und Liegenschaften, die keine notwendige Beziehung zur konzessionierten Tätigkeit haben.
 
-<sup>2</sup> Die in Absatz 1 Buchstaben b, c und i genannten juristischen Personen unterliegen jedoch der Steuer für Grundstücke, die nicht zur unmittelbaren Erfüllung der besonderen Zwecke, sondern als Kapitalanlage oder Geschäftsbetriebe dienen, sowie für die Wasserzinsen; dabei sind Abzüge zulässig, die einer üblichen hypothekarischen Belastung des Grundstückes entsprechen. Die Gewinnsteuer wird nach Artikel 93, die Kapitalsteuer nach Artikel 100, die Grundstücksteuer nach den Artikeln 101 und 181 und die Grundstückgewinnsteuer nach Artikel 44 fortfolgende erhoben.
+<sup>2</sup> Die in Absatz 1 Buchstaben b, c, f, g und i genannten juristischen Personen unterliegen jedoch der Steuer für Grundstücke, die nicht zur unmittelbaren Erfüllung der besonderen Zwecke, sondern als Kapitalanlage oder Geschäftsbetriebe dienen, sowie für die Wasserzinsen; dabei sind Abzüge zulässig, die einer üblichen hypothekarischen Belastung des Grundstückes entsprechen. Die Steuer vom Gewinn wird nach Artikel 93, die Steuer vom Kapital nach Artikel 100, die Grundstücksteuer gemäss den Artikeln 101 und 181 und die Grundstückgewinnsteuer nach Artikel 44 ff. erhoben.
 
-<sup>3</sup> Die in Absatz 1 Buchstabe d genannten juristischen Personen unterliegen für ihre Grundstücke der Grundstücksteuer und der Grundstückgewinnsteuer. Diese Steuern werden nach Artikel 44 fortfolgende und nach den Artikeln 101 und 181 erhoben. Die Bestimmungen über Ersatzbeschaffungen (Art. 26), über Abschreibungen (Art. 24), über Rückstellungen (Art. 25) und über den Verlustabzug (Art. 27) gelten sinngemäss.
+<sup>3</sup> Die in Absatz 1 Buchstaben d und e genannten juristischen Personen unterliegen für ihre Grundstücke der Grundstücksteuer und der Grundstückgewinnsteuer. Diese Steuern werden nach Artikel 44 ff. und nach den Artikeln 101 und 181 erhoben. Die Bestimmungen über Ersatzbeschaffungen (Art. 26), über Abschreibungen (Art. 24), über Rückstellungen (Art. 25) und über den Verlustabzug (Art. 27) gelten sinngemäss.
 
 <sup>4</sup> …
-
-<sup>5</sup> Die in Absatz 1 Buchstabe c erwähnten juristischen Personen sind im Falle der Realisierung von stillen Reserven auf Bauwerken und Anlagen sowie Beteiligungsrechten durch die Ausübung des Heimfallrechts oder eines Rückkaufs kapitalgewinnsteuerpflichtig. Letztere sind für den Teil, welcher der Energieversorgung des über die Wasserkraft verfügenden Gemeinwesens dient, von der Steuer befreit. Die Gewinnsteuer wird gemäss Artikel 93 erhoben.
 
 ### 1.2.2 Gewinnsteuer
 
@@ -1313,12 +1307,12 @@ verordnet:
 
 **d) Umstrukturierungen**
 
-<sup>1</sup> Stille Reserven einer juristischen Person werden bei Umstrukturierungen, insbesondere im Fall einer Fusion, Spaltung oder Umwandlung, nicht besteuert, soweit die Steuerpflicht in der Schweiz fortbesteht und die bisher für die Gewinnsteuer massgeblichen Werte übernommen werden:
+<sup>1</sup> Stille Reserven einer juristischen Person werden bei Umstrukturierungen, insbesondere im Fall der Fusion, Spaltung oder Umwandlung, nicht besteuert, soweit die Steuerpflicht in der Schweiz fortbesteht und die bisher für die Gewinnsteuer massgeblichen Werte übernommen werden:
 
 - a) bei der Umwandlung in eine Personenunternehmung oder in eine andere juristische Person;
 - b) bei der Auf- oder Abspaltung einer juristischen Person, sofern ein oder mehrere Betriebe oder Teilbetriebe übertragen werden und soweit die nach der Spaltung bestehenden juristischen Personen einen Betrieb oder Teilbetrieb weiterführen;
 - c) beim Austausch von Beteiligungs- oder Mitgliedschaftsrechten anlässlich einer Umstrukturierung oder von fusionsähnlichen Zusammenschlüssen;
-- d) bei der Übertragung von Betrieben oder Teilbetrieben sowie von Gegenständen des betrieblichen Anlagevermögens auf eine inländische Tochtergesellschaft. Als Tochtergesellschaft gilt eine Kapitalgesellschaft oder Genossenschaft, an der die übertragende Kapitalgesellschaft oder Genossenschaft zumindest mit 20 Prozent am Grund- oder Stammkapital beteiligt ist.
+- d) bei der Übertragung von Beteiligungen oder Teilbetrieben sowie von Gegenständen des betrieblichen Anlagevermögens auf eine inländische Tochtergesellschaft. Als Tochtergesellschaft gilt eine Kapitalgesellschaft oder Genossenschaft, an der die übertragende Kapitalgesellschaft oder Genossenschaft zumindest mit 20 Prozent am Grund- oder Stammkapital beteiligt ist.
 
 <sup>2</sup> Bei einer Übertragung auf eine Tochtergesellschaft nach Absatz 1 Buchstabe d werden die übertragenen stillen Reserven im Verfahren nach den Artikeln 158 und 159 nachträglich besteuert, soweit während der der Umstrukturierung folgenden fünf Jahre die übertragenen Vermögenswerte oder Beteiligungs- oder Mitgliedschaftsrechte an der Tochtergesellschaft veräussert werden; die Tochtergesellschaft kann in diesem Fall entsprechende, als Gewinn versteuerte stille Reserven geltend machen.
 
@@ -1481,7 +1475,7 @@ verordnet:
 
 **b) Nettoertrag aus Beteiligungen**
 
-<sup>1</sup> Der Nettoertrag aus Beteiligungen entspricht dem Ertrag dieser Beteiligungen abzüglich des darauf entfallenden Finanzierungsaufwandes und eines Beitrages von 5 Prozent zur Deckung des Verwaltungsaufwandes; der Nachweis des tieferen oder höheren effektiven Verwaltungsaufwandes bleibt vorbehalten. Als Finanzierungsaufwand gelten Schuldzinsen sowie weiterer Aufwand, der wirtschaftlich den Schuldzinsen gleichzustellen ist. Zum Ertrag aus Beteiligungen gehören auch die Kapitalgewinne auf diesen Beteiligungen, die Erlöse aus dem Verkauf dazugehöriger Bezugsrechte sowie die Aufwertungsgewinne gemäss Schweizerischem Obligationenrecht.
+<sup>1</sup> Der Nettoertrag aus Beteiligungen entspricht dem Ertrag dieser Beteiligungen abzüglich des darauf entfallenden Finanzierungsaufwandes und eines Beitrages von 5 Prozent zur Deckung des Verwaltungsaufwandes; der Nachweis des tieferen effektiven Verwaltungsaufwandes bleibt vorbehalten. Als Finanzierungsaufwand gelten Schuldzinsen sowie weiterer Aufwand, der wirtschaftlich den Schuldzinsen gleichzustellen ist. Zum Ertrag aus Beteiligungen gehören auch die Kapitalgewinne auf diesen Beteiligungen, die Erlöse aus dem Verkauf dazugehöriger Bezugsrechte sowie die Aufwertungsgewinne gemäss Artikel 670 des Schweizerischen Obligationenrechtes.
 
 <sup>2</sup> Keine Beteiligungserträge sind insbesondere:
 
@@ -1496,11 +1490,6 @@ verordnet:
 - b) wenn die veräusserte Beteiligung mindestens 10 Prozent des Grund- oder Stammkapitals einer anderen Gesellschaft betrug oder einen Anspruch auf mindestens 10 Prozent des Gewinns und der Reserven einer anderen Gesellschaft begründete und während mindestens eines Jahres im Besitz der veräussernden Kapitalgesellschaft oder Genossenschaft war; fällt die Beteiligungsquote infolge Teilveräusserung unter 10 Prozent, so kann die Ermässigung für jeden folgenden Veräusserungsgewinn nur beansprucht werden, wenn die Beteiligungsrechte am Ende des Steuerjahres vor dem Verkauf einen Verkehrswert von mindestens einer Million Franken hatten.
 
 <sup>5</sup> Transaktionen, die im Konzern eine ungerechtfertigte Steuerersparnis bewirken, führen zu einer Berichtigung des steuerbaren Reingewinnes oder zu einer Kürzung der Ermässigung. Eine ungerechtfertigte Steuerersparnis liegt vor, wenn Kapitalgewinne und Kapitalverluste oder Abschreibungen auf Beteiligungen in kausalem Zusammenhang stehen.
-
-<sup>6</sup> Bei Konzernobergesellschaften von systemrelevanten Banken nach Artikel 7 Absatz 1 des Bankengesetzes (BankG) werden für die Berechnung des Nettoertrags nach Absatz 1 der Finanzierungsaufwand und die Forderung in der Bilanz aus konzernintern weitergegebenen Mitteln folgender Anleihen nicht berücksichtigt:
-
-- a) Pflichtwandelanleihen und Anleihen mit Forderungsverzicht nach Artikel 11 Absatz 4 BankG, und
-- b) Schuldinstrumente zur Verlusttragung bei Insolvenzmassnahmen im Sinne der Artikel 28 bis 32 BankG.
 
 #### Art. 92
 
@@ -1518,7 +1507,7 @@ verordnet:
 
 **2.6. Vereine, Stiftungen und übrige juristische Personen**
 
-<sup>1</sup> Die Gewinnsteuer des Kantons, der Gemeinden, Burgerschaften, Vereine, Stiftungen und übrigen juristischen Personen sowie der Anlagefonds mit direktem Grundbesitz (Art. 72 Abs. 1 Bst. b und c) beträgt 4 Prozent des Reingewinnes. Reingewinne unter 20'000 Franken werden nicht besteuert.
+<sup>1</sup> Die Gewinnsteuer des Kantons, der Gemeinden, der Burgerschaften, der Vereine, Stiftungen und übrigen juristischen Personen sowie der Anlagefonds mit direktem Grundbesitz (Art. 72 Abs. 1 Bst. b und c beträgt 4 Prozent des Reingewinnes. Gewinne unter 20'000 Franken werden nicht besteuert.
 
 <sup>2</sup> Kollektive Kapitalanlagen mit direktem Grundbesitz unterliegen mit ihren Einnahmen aus dem direkten Grundbesitz der Gewinnsteuer gemäss Absatz 1.
 
@@ -1556,7 +1545,7 @@ verordnet:
 
 **1.3. Vereine, Stiftungen und übrige juristische Personen**
 
-<sup>1</sup> Als steuerbares Eigenkapital des Kantons, der Munizipalgemeinden, Burgerschaften, Vereine, Stiftungen und übrigen juristischen Personen gilt das Reinvermögen, das nach Massgabe der auf die natürlichen Personen anwendbaren Bestimmungen ermittelt wird.
+<sup>1</sup> Als steuerbares Eigenkapital des Kantons, der Munizipalgemeinden, der Burgerschaften, der Vereine, Stiftungen und übrigen juristischen Personen gilt das Reinvermögen.
 
 <sup>2</sup> Die Anlagefonds unterliegen für ihren direkten Grundbesitz gemäss Absatz 1 der Kapitalsteuer.
 
@@ -1571,7 +1560,7 @@ verordnet:
 
 <sup>2</sup> Der Grosse Rat kann die in Absatz 1 vorgesehenen Steuersätze um maximal 0.5 Promille abändern.
 
-<sup>3</sup> Der Steuerbetrag auf Eigenkapital, der auf Beteiligungsrechte nach Artikel 90, auf Patente und vergleichbare Rechte nach Artikel 88a sowie auf mittel- und langfristige Darlehen an Tochtergesellschaften entfällt, wird um 90 Prozent reduziert. Der Steuerbetrag auf Eigenkapital bis 500'000 Franken und der Steuerbetrag auf Eigenkapital ab 500'001 Franken werden im gleichen Verhältnis gekürzt.
+<sup>3</sup> Eigenkapital, das auf Beteiligungsrechte nach Artikel 90, auf Patente und vergleichbare Rechte nach Artikel 88a sowie auf Darlehen an Konzerngesellschaften entfällt, wird um 90 Prozent reduziert.
 
 #### Art. 100
 
@@ -1627,15 +1616,13 @@ verordnet:
 
 <sup>2</sup> Als Steuerperiode gilt das Geschäftsjahr.
 
-<sup>3</sup> In jedem Kalenderjahr, ausgenommen im Gründungsjahr, ist ein Geschäftsabschluss mit Bilanz und Erfolgsrechnung zu erstellen. Ausserdem ist ein Geschäftsabschluss erforderlich bei Verlegung des Sitzes, der Verwaltung oder einer Betriebsstätte ins Ausland sowie beim Abschluss der Liquidation.
+<sup>3</sup> In jedem Kalenderjahr, ausgenommen im Gründungsjahr, ist ein Geschäftsabschluss mit Bilanz und Erfolgsrechnung zu erstellen. Ausserdem ist ein Geschäftsabschluss erforderlich bei Verlegung des Sitzes, der Verwaltung oder einer Betriebsstätte in das Ausland.
 
 #### Art. 106
 
 **2. Bemessung des Reingewinns**
 
 <sup>1</sup> Die Steuer vom Reingewinn wird nach dem in der Steuerperiode erzielten Reingewinn bemessen.
-
-<sup>1<sup>bis</sup></sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
 
 <sup>2</sup> Umfasst ein Geschäftsjahr mehr oder weniger als zwölf Monate, so bestimmt sich der Steuersatz nach dem auf zwölf Monate berechneten Reingewinn.
 
@@ -1647,9 +1634,7 @@ verordnet:
 
 <sup>1</sup> Die Steuer vom Eigenkapital wird nach dem Stand am Ende einer Steuer-periode bemessen.
 
-<sup>1<sup>bis</sup></sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
-
-<sup>2</sup> Die Grundstücksteuer wird auf den Steuerwert der Grundstücke per 31. Dezember bemessen.
+<sup>2</sup> Die Grundstücksteuer wird auf den Steuerwert der Grundstücke am Ende des Geschäftsjahres bemessen.
 
 ### 1.3 Quellensteuern für natürliche und juristische Personen
 
@@ -1758,7 +1743,7 @@ verordnet:
 
 - a) bei Fälligkeit von Geldleistungen die geschuldete Steuer zurückzubehalten und bei anderen Leistungen (insbesondere Naturalleistungen und Trinkgeldern) die geschuldete Steuer vom Arbeitnehmer einzufordern;
 - b) dem Steuerpflichtigen eine Aufstellung oder eine Bestätigung über den Steuerabzug auszustellen;
-- c) die Steuern periodisch der zuständigen Steuerbehörde abzuliefern, elektronisch mit ihr hierüber abzurechnen und ihr zur Kontrolle der Steuererhebung Einblick in alle erforderlichen Unterlagen zu gewähren.
+- c) die Steuern periodisch der zuständigen Steuerbehörde abzuliefern, mit ihr hierüber abzurechnen und ihr zur Kontrolle der Steuererhebung Einblick in alle erforderlichen Unterlagen zu gewähren.
 
 <sup>2</sup> Der Steuerabzug ist auch dann vorzunehmen, wenn der Arbeitnehmer in einem andern Kanton Wohnsitz oder Aufenthalt hat.
 
@@ -1906,7 +1891,7 @@ verordnet:
 
 - a) bei Fälligkeit von Geldleistungen die geschuldete Steuer zurückzubehalten und bei anderen Leistungen die geschuldete Steuer vom Steuerpflichtigen einzufordern;
 - b) dem Steuerpflichtigen eine Aufstellung oder eine Bestätigung über den Steuerabzug auszustellen;
-- c) die Steuern periodisch der zuständigen Steuerbehörde abzuliefern, elektronisch mit ihr hierüber abzurechnen und ihr zur Kontrolle der Steuererhebung Einblick in alle erforderlichen Unterlagen zu gewähren;
+- c) die Steuern periodisch der zuständigen Steuerbehörde abzuliefern;
 - d) die anteilsmässigen Steuern auf im Ausland ausgeübten Mitarbeiteroptionen zu entrichten; der Arbeitgeber schuldet die anteilsmässige Steuer auch dann, wenn der geldwerte Vorteil von einer ausländischen Konzerngesellschaft ausgerichtet wird.
 
 <sup>2</sup> Der Quellensteuerabzug ist auch dann vorzunehmen, wenn die steuerpflichtige Person in einem andern Kanton steuerpflichtig ist.
@@ -2284,7 +2269,7 @@ verordnet:
 - c) Personengesellschaften über die Anteile ihrer Teilhaber am Einkommen und Vermögen der Gesellschaft sowie über ihre sonstigen Ansprüche gegenüber der Gesellschaft und alle Verhältnisse, die für die Veranlagung der Teilhaber von Bedeutung sind;
 - d) Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge über die den Vorsorgenehmern oder Begünstigten erbrachten Leistungen;
 - e) die Anlagefonds über alle Verhältnisse, die für die Besteuerung des direkten Grundbesitzes und dessen Erträge massgeblich sind;
-- f) die Arbeitgeber über die geldwerten Vorteile aus echten Mitarbeiterbeteiligungen sowie über die Zuteilung und die Ausübung von Mitarbeiteroptionen;
+- f) die Arbeitgeber über die geldwerten Vorteile aus echten Mitarbeiterbeteiligungen sowie über die Zuteilung und die Ausübung von Mitarbeiteroptionen.
 
 <sup>2</sup> Dem Steuerpflichtigen ist ein Doppel der Bescheinigung zuzustellen.
 
@@ -2660,8 +2645,7 @@ verordnet:
 - a) Vergütungszinsen für im Voraus bezahlte Akontozahlungen;
 - b) Verzugszinsen für nicht bezahlte oder zu spät bezahlte Akontozahlungen;
 - c) Rückerstattungszinsen für zuviel fakturierte und bezahlte Beträge;
-- d) Ausgleichszinsen für Steuern, die beim allgemeinen Fälligkeitstermin nicht bezahlt sind. Zinsbeträge unter 500 Franken werden nicht in Rechnung gestellt;
-- e) Verzugszins und Rückerstattungszins sind identisch.
+- d) Ausgleichszinsen für Steuern, die beim allgemeinen Fälligkeitstermin nicht bezahlt sind. Zinsbeträge unter 500 Franken werden nicht in Rechnung gestellt.
 
 <sup>7</sup> Das Finanzdepartement legt die Bedingungen fest, unter denen auf die Berechnung eines Zinses aus Billigkeitsgründen oder zur Vermeidung unnötiger Umtriebe verzichtet wird.
 
@@ -2800,8 +2784,7 @@ verordnet:
 - b) Grundstücksteuer;
 - c) Grundstückgewinnsteuer;
 - d) Erbschafts- und Schenkungssteuer;
-- e) Beiträge für Mehrwerte und Anschlussgebühren;
-- f) Kapitalsteuer auf Liegenschaften und der Ertrag daraus.
+- e) Beiträge für Mehrwerte und Anschlussgebühren.
 
 <sup>2</sup> Dieses Pfandrecht geht allen anderen voran. Die Gemeindesteuern und die kommunalen Gebühren sind im gleichen Rang gesichert.
 
@@ -2930,7 +2913,7 @@ Wenn es die finanzielle Situation der Gemeinde erfordert, kann die Urversammlung
 
 <sup>1<sup>bis</sup></sup> Ab 10 Jahren nach der Inkraftsetzung des vorliegenden Gesetzes werden die Produktionsanlagen und -maschinen von der kommunalen Grundstücksteuer befreit.
 
-<sup>2</sup> Jeder Eigentümer entrichtet eine minimale Grundstücksteuer von 25 Franken.
+<sup>2</sup> Für Nichtwohnsässige wird eine Minimal-Grundstücksteuer von Franken 25 erhoben.
 
 #### Art. 182
 
@@ -2997,7 +2980,7 @@ Wenn es die finanzielle Situation der Gemeinde erfordert, kann die Urversammlung
 
 **2.4. Besteuerung von Vermögen und Vermögensertrag**
 
-<sup>1</sup> Besteht die Steuerpflicht im Kanton kraft persönlicher Zugehörigkeit, werden Vermögen und Vermögensertrag in der Wohnsitz- oder Aufenthaltsgemeinde besteuert. Diese entschädigt die Gemeinde, in der sich überbaute Grundstücke befinden, mit 3 Promille des Steuerwerts dieser Grundstücke.
+<sup>1</sup> Besteht die Steuerpflicht im Kanton kraft persönlicher Zugehörigkeit, werden Vermögen und Vermögensertrag in der Wohnsitz- oder Aufenthaltsgemeinde besteuert. Diese entschädigt die Gemeinde, in der sich überbaute Grundstücke befinden, mit 2.5 Promille des Steuerwerts dieser Grundstücke.
 
 <sup>2</sup> Maklerprovisionen und ähnliche Entschädigungen, die Franken 5000 übersteigen, sind jedoch unter Abzug eines angemessenen Spesenanteils und eines Vorausanteils am Ort des Grundstückes steuerbar, auf welche sich die Entschädigung bezieht.
 
@@ -3341,7 +3324,11 @@ Die Einsprachebehörde für die Einkommens-, Vermögens- und Grundstückssteuer 
 
 Im Fall der zeitweisen Abwesenheit eines Mitglieds können die Kommissionen weiter amten. Sie können Experten beziehen.
 
-<sup>3</sup> Für juristische Personen: Die Veranlagungsbehörde ist die kantonale Steuerverwaltung. Die Einsprachebehörde ist die kantonale Steuerkommission für die juristischen Personen, die sich aus einem Beamten der kantonalen Steuerverwaltung, der den Vorsitz hat, sowie aus zwei Mitgliedern und zwei Stellvertretern, die vom Staatsrat für 4 Jahre ernannt werden, zusammensetzt. Der Vorsteher des für die Finanzen zuständigen Departements kann den Sitzungen mit beratender Stimme beiwohnen. Die Kommission kann sich von Experten verbeiständen lassen. Sie hört die Gemeinden an, die dies verlangen.
+<sup>3</sup> Für juristische Personen: Die Veranlagungs- und Einsprachebehörde ist die kantonale Steuerkommission für die juristischen Personen. Diese setzt sich zusammen aus einem Beamten der kantonalen Steuerverwaltung, der den Vorsitz hat, sowie aus zwei Mitgliedern und zwei Stellvertretern, die vom Staatsrat für vier Jahre ernannt werden.
+
+Der Vorsteher des Finanzdepartementes kann den Sitzungen mit beratender Stimme beiwohnen.
+
+Die Kommission kann sich von Experten verbeiständen lassen. Sie hört die Gemeinden an, die dies verlangen.
 
 <sup>4</sup> Für die Grundstückgewinnsteuer, Erbschafts- und Schenkungssteuer, Quellensteuer: Die Veranlagungs- und Einsprachebehörde ist die kantonale Steuerverwaltung.
 
@@ -3353,7 +3340,7 @@ Im Fall der zeitweisen Abwesenheit eines Mitglieds können die Kommissionen weit
 
 <sup>1</sup> Steuererhebungsbehörde:
 
-- a) für die Kantonssteuern auf das Einkommen und Vermögen der natürlichen Personen sowie die Kantonssteuern der juristischen Personen, die Liegenschaftsgewinn-, Erbschafts- und Schenkungssteuern, für die Quellensteuern (Art. 108): die kantonale Steuerverwaltung;
+- a) Für die Kantonssteuern auf das Einkommen und Vermögen der natürlichen Personen sowie die Kantonssteuern der juristischen Personen, die Liegenschaftsgewinn-, Erbschafts- und Schenkungssteuern, für die Quellensteuern (Art. 108): die kantonale Steuerverwaltung;
 - b) Für die Gemeindesteuern auf das Einkommen und Vermögen der natürlichen Personen, für die Gemeindesteuer der juristischen Personen, für die Grundstücksteuer und für die Hundesteuer der Gemeinde: die Gemeindeverwaltungen.
 
 <sup>2</sup> Erlassbehörde:
@@ -3467,9 +3454,9 @@ Im Fall der zeitweisen Abwesenheit eines Mitglieds können die Kommissionen weit
 
 **2. Beitrag für Mehrwerte**
 
-<sup>1</sup> Wenn eine öffentlich-rechtliche Körperschaft Werke öffentlichen Nutzens ausführt, wie Abwasseranlage, Trinkwasserversorgungen, touristische Einrichtungen usw., die in besonderer Weise einer Gruppe von Grundstückbesitzern zugutekommen, können diese zu einer ausserordentlichen Beitragsleistung in dem Masse herangezogen werden, als dadurch für ihr Eigentum Mehrwerte entstehen. Die Höchstbeteiligung beträgt 75 Prozent der auf die Gemeinde entfallenden Kosten des Werkes, das den Mehrwert auslöst.
+<sup>1</sup> Wenn eine öffentlich-rechtliche Körperschaft Werke öffentlichen Nutzens ausführt, wie Abwasseranlage, Trinkwasserversorgungen, touristische Einrichtungen usw., die in besonderer Weise einer Gruppe von Grundstückbesitzern zugute kommen, können diese zu einer ausserordentlichen Beitragsleistung in dem Masse herangezogen werden, als dadurch für ihr Eigentum Mehrwerte entstehen. Die Höchstbeteiligung beträgt 75 Prozent der auf die Gemeinde entfallenden Kosten des Werkes, das den Mehrwert auslöst, Artikel 76 des Strassengesetzes vom 3. September 1965 bleibt vorbehalten.
 
-<sup>2</sup> Die Bestimmungen des Gesetzes über die Erhebung von Grundeigentümerbeiträgen an die Erschliessungskosten und an weitere öffentliche Werke vom 15. November 1988 sind anwendbar.
+<sup>2</sup> Ein Dekret des Grossen Rates regelt die vorstehenden Bestimmungen. Bis zur Inkraftsetzung dieses Dekretes ist das Verfahren gemäss Artikel 70 und folgende des Strassengesetzes vom 3. September 1965 anwendbar. Das vorgenannte Dekret kann die Verfahrensvorschriften des Strassengesetzes abändern.
 
 <sup>3</sup> Zur Sicherung des Beitrages für die Mehrwerte, der nach Absatz 1 oder aufgrund besonderer Gesetze geschuldet ist, können die Gemeinden die Eintragung eines Grundpfandrechtes auf die aufgewerteten Grundstücke im Grundbuch verlangen, das allen anderen Belastungen mit Ausnahme der geschuldeten Steuern auf diese Grundstücke vorangeht.
 
@@ -3531,7 +3518,7 @@ Im Fall der zeitweisen Abwesenheit eines Mitglieds können die Kommissionen weit
 
 **11. Sozialabzüge und Steuerfuss a) Indexierung der Sozialabzüge**
 
-<sup>1</sup> Die in den Artikeln 29 und 31 vorgesehenen Pauschalabzüge werden in jeder Einschätzungsperiode dem Index der Konsumentenpreise angepasst. Dasselbe gilt für den Minimal- und Maximalbetrag in den Artikeln 32 Absatz 3, 33b Absatz 4 und 178 Absatz 3. Restbeträge unter 10 Franken werden nicht berücksichtigt.
+<sup>1</sup> Die in den Artikeln 29 und 31 vorgesehenen Pauschalabzüge werden jede Einschätzungsperiode dem Index der Konsumentenpreise angepasst. Dasselbe gilt für den Minimal- und Maximalbetrag in den Artikeln 32 Absatz 3 und 178 Absatz 3. Restbeträge unter Franken 10 werden nicht berücksichtigt.
 
 <sup>2</sup> Die bei früheren Indexierungen nicht berücksichtigten Restbeträge werden in die Berechnung miteinbezogen.
 
@@ -3667,7 +3654,11 @@ Im Fall der zeitweisen Abwesenheit eines Mitglieds können die Kommissionen weit
 
 #### Art. 241h
 
-**…**
+**Pauschalabzüge der Prämien und Versicherungsbeiträge und Sparzinsen**
+
+<sup>1</sup> Die Erhöhung der Pauschalabzüge der Prämien und Versicherungsbeiträge und Sparzinsen von Artikel 29 Absatz 1 Buchstabe g für die Steuerperiode n+2 (2015) bis 7'200 Franken (verheiratete Personen im selben Haushalt) und bis 3'600 Franken (übrige Steuerpflichtige) wird aufgeschoben.
+
+<sup>2</sup> Der Grosse Rat kann jedes Jahr die Umsetzung der dritten Etappe der Abzüge von Artikel 29 Absatz 1 Buchstabe g für den Beginn der nächsten Steuerperiode beschliessen.
 
 #### Art. 242
 
