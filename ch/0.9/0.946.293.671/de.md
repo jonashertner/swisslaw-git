@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: Handelsabkommen vom 11. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland (mit Anhängen und Gemeinsamen Erkl.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: de
-version: 2022-12-31
+version: 2024-12-31
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/de/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221231-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221231/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/de/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20241231-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20241231/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 19. Juni 2020[^t-1]
 
 In Kraft getreten durch Noteaustausch am 1. Januar 2021
 
-(Stand am 31. Dezember 2022)
+(Stand am 31. Dezember 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 19. Juni 2020 ([AS 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070))
 
@@ -63,16 +63,16 @@ Die folgenden Bestimmungen finden keine Anwendung, sofern der jeweilige Gemischt
 
 <sup>3.</sup> Mit Inkrafttreten dieses Abkommens prüfen die Vertragsparteien im jeweiligen Gemischten Ausschuss den Gegenstand der in Absatz 2 erwähnten Bestimmungen und beurteilen, wie stark die innerstaatlichen Gesetzgebungen der Vertragsparteien in den von diesen Bestimmungen abgedeckten Bereichen angesichts der Entwicklungen in zwischen einer der Vertragsparteien und Drittparteien abgeschlossenen Vereinbarungen voneinander abweichen oder übereinstimmen, mit dem Ziel, die Fortgeltung der Handelsvereinbarungen zwischen den Vertragsparteien soweit wie möglich sicherzustellen. Der jeweilige Gemischte Ausschuss kann beschliessen, die in Absatz 2 erwähnten Bestimmungen *mutatis mutandis*, mit oder ohne weitere Anpassungen, anzuwenden oder diese Bestimmungen zu ersetzen.
 
-[^1-1]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^1-2]: [SR 0.632.290.15](https://fedlex.data.admin.ch/eli/cc/1981/367_367_367)
-[^1-3]: [SR 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
-[^1-4]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949). Zur Vermeidung allfälliger Zweifel sei darauf hingewiesen, dass das Zusatzprotokoll über die gegenseitige Amtshilfe im Zollbereich ein integraler Bestandteil des Freihandelsabkommens ist.
-[^1-5]: [SR 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^1-6]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^1-7]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^1-8]: [SR 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
-[^1-9]: [SR 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
-[^1-10]: [SR 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
+[^1-1]: [SR 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^1-2]: [SR 0.632.290.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2274)
+[^1-3]: [SR 0.632.401.813](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2440)
+[^1-4]: [SR 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413). Zur Vermeidung allfälliger Zweifel sei darauf hingewiesen, dass das Zusatzprotokoll über die gegenseitige Amtshilfe im Zollbereich ein integraler Bestandteil des Freihandelsabkommens ist.
+[^1-5]: [SR 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^1-6]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^1-7]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^1-8]: [SR 0.632.401.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2420)
+[^1-9]: [SR 0.351.926.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1374)
+[^1-10]: [SR 0.631.242.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2041)
 
 #### Art. 2
 
@@ -182,8 +182,8 @@ Für die Zwecke dieses Abkommen wird das Inkorporierte Freihandelsabkommen[^anne
 
 ### «**Art. 2**Anwendung von Preisausgleichsmassnahmen
 
-[^annex1-lvlu1-1]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^annex1-lvlu1-2]: [SR 0.632.401.23](https://fedlex.data.admin.ch/eli/cc/2005/238)
+[^annex1-lvlu1-1]: [SR 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^annex1-lvlu1-2]: [SR 0.632.401.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2426)
 
 Um Unterschieden bei den Kosten der landwirtschaftlichen Rohstoffe, die für die Herstellung der in Tabelle I genannten Erzeugnisse verwendet werden, Rechnung zu tragen, schliesst das Abkommen die Anwendung von Preisausgleichsmassnahmen in Form der Erhebung von Agrarteilbeträgen bei der Einfuhr dieser Erzeugnisse nicht aus.
 
@@ -774,7 +774,7 @@ Die Ursprungserklärung, deren Wortlaut nachstehend wiedergegeben ist, ist gemä
 
 Englische Fassung
 
-The exporter of the products covered by this document (customs authorization N<sup>o</sup>………<sup>1</sup>) declares that, except where otherwise clearly indicated, these products are of ……………..<sup>2</sup> preferential origin.
+The exporter of the products covered by this document (customs authorisation N<sup>o</sup>………<sup>1</sup>) declares that, except where otherwise clearly indicated, these products are of ……………..<sup>2</sup> preferential origin.
 
 Französische Fassung
 
@@ -803,19 +803,19 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Warenverkehrsbescheinigung EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/de/xml/image/image2.png)
 
-### Anmerkungen
+## Anmerkungen
 
-- 1\. Die Warenverkehrsbescheinigung darf weder Radierungen noch Übermalungen aufweisen. Etwaige Änderungen sind so vorzunehmen, dass die irrtümlichen Eintragungen gestrichen und gegebenenfalls die beabsichtigten Eintragungen hinzugefügt werden. Jede so vorgenommene Änderung muss von demjenigen, der die Bescheinigung ausgefüllt hat, gebilligt und von den Zollbehörden des ausstellenden Staats oder Gebiets bestätigt werden.
-- 2\. Zwischen den in der Warenverkehrsbescheinigung angeführten Warenposten dürfen keine Zwischenräume bestehen, jedem Warenposten muss eine laufende Nummer vorangehen. Unmittelbar unter dem letzten Warenposten ist ein waagrechter Schlussstrich zu ziehen. Leerfelder sind durch Streichungen unbrauchbar zu machen.
-- 3\. Die Waren sind nach dem Handelsbrauch so genau zu bezeichnen, dass die Feststellung der Nämlichkeit möglich ist.
+- 1. Die Warenverkehrsbescheinigung darf weder Radierungen noch Übermalungen aufweisen. Etwaige Änderungen sind so vorzunehmen, dass die irrtümlichen Eintragungen gestrichen und gegebenenfalls die beabsichtigten Eintragungen hinzugefügt werden. Jede so vorgenommene Änderung muss von demjenigen, der die Bescheinigung ausgefüllt hat, gebilligt und von den Zollbehörden des ausstellenden Staats oder Gebiets bestätigt werden.
+- 2. Zwischen den in der Warenverkehrsbescheinigung angeführten Warenposten dürfen keine Zwischenräume bestehen, jedem Warenposten muss eine laufende Nummer vorangehen. Unmittelbar unter dem letzten Warenposten ist ein waagrechter Schlussstrich zu ziehen. Leerfelder sind durch Streichungen unbrauchbar zu machen.
+- 3. Die Waren sind nach dem Handelsbrauch so genau zu bezeichnen, dass die Feststellung der Nämlichkeit möglich ist.
 
 ## Antrag auf Ausstellung einer Warenverkehrsbescheinigung EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/de/xml/image/image3.png)
 
 Anhang IV
 
@@ -826,7 +826,7 @@ Anhang IV
 - 1\. Jede Bescheinigung hat das Format 210 × 297 mm, wobei die Länge höchstens 5 mm weniger und 8 mm mehr betragen darf. Es ist weisses, holzfreies, geleimtes Schreibpapier mit einem Quadratmetergewicht von mindestens 25 g zu verwenden. Dieses ist mit einem grünen, guillochierten Überdruck zu versehen, auf dem jede mechanisch oder chemisch vorgenommene Verfälschung sichtbar wird.
 - 2\. Die zuständigen Behörden der Vertragsparteien können sich den Druck der Bescheinigungen vorbehalten oder ihn Druckereien überlassen, die sie hierzu ermächtigt haben. In diesem Fall muss in jeder Bescheinigung auf diese Ermächtigung hingewiesen werden. Jede Bescheinigung muss den Namen und die Anschrift oder das Kennzeichen der Druckerei enthalten. Sie trägt ferner zur Kennzeichnung eine Seriennummer, die auch aufgedruckt sein kann
 
-## Erklärung des Ausführers/exporteurs
+### Erklärung des Ausführers/exporteurs
 
 Der Unterzeichner, Ausführer/Exporteur der auf der Vorderseite beschriebenen Waren,
 
@@ -952,7 +952,7 @@ Anhang VII
 
 Die Langzeit-Lieferantenerklärung mit nachstehendem Wortlaut ist gemäss den Fussnoten auszufertigen. Die Fussnoten brauchen jedoch nicht wiedergegeben zu werden.
 
-## Langzeit-Lieferantenerklärung
+### Langzeit-Lieferantenerklärung
 
 für Waren, die in der anderen Vertragspartei oder einem in Anhang VIII erwähnten Land be- oder verarbeitet worden sind, ohne die Präferenzursprungseigenschaft erlangt zu haben
 
@@ -1047,7 +1047,7 @@ Für die Zwecke dieses Abkommens wird das Inkorporierte Abkommen über das öffe
 
 \5. Der folgende Anhang XI wird nach Anhang X eingefügt:
 
-[^annex2-lvlu1-1]: [SR 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^annex2-lvlu1-1]: [SR 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
 
 «Anhang XI
 
@@ -1080,7 +1080,7 @@ Für die Zwecke dieses Abkommens wird das Inkorporierte Abkommen über die gegen
 
 ### «**Art. 12**Informationsaustausch
 
-[^annex3-lvlu1-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^annex3-lvlu1-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 \1. Die Vertragsparteien tauschen alle zweckdienlichen Informationen über die Umsetzung und Anwendung der in Anhang 1 aufgeführten Rechts- und Verwaltungsvorschriften aus.
 
@@ -1111,11 +1111,11 @@ Für die Zwecke dieses Abkommens wird das Inkorporierte Abkommen über die gegen
 
 «Für das Vereinigte Königreich:
 
-www.gov.uk/guidance/good-laboratory-practice-glp-for-safety-tests-on-chemicals
+[www.gov.uk/guidance/good-laboratory-practice-glp-for-safety-tests-on-chemicals](http://www.gov.uk/guidance/good-laboratory-practice-glp-for-safety-tests-on-chemicals)
 
 Für die Schweiz:
 
-www.glp.admin.ch»
+[www.glp.admin.ch](http://www.glp.admin.ch)»
 
 - (b) Abschnitt V.1 wird ersetzt durch:
 
@@ -1145,7 +1145,7 @@ Anhang 4[^t-3]
 
 ## Änderungen des Agrarabkommens
 
-[^t-3]: Bereinigt gemäss der Beschlüsse des gemischten Ausschusses für Landwirtschaft Schweiz–Vereinigtes Königreich Nr. 1/2021 vom 1. Jan. 2021 ([AS 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)) und Nr. 1/2022 vom 21. Juni 2022, in Kraft seit 31. Dez. 2022 ([AS 2022 712](https://fedlex.data.admin.ch/eli/oc/2022/712)).
+[^t-3]: Bereinigt gemäss der Beschlüsse des gemischten Ausschusses für Landwirtschaft Schweiz–Vereinigtes Königreich Nr. 1/2021 vom 1. Jan. 2021 ([AS 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)), Nr. 1/2022 vom 21. Juni 2022 ([AS 2022 712](https://fedlex.data.admin.ch/eli/oc/2022/712)) und Nr. 1/2024 vom 17. Dez. 2024, in Kraft seit 31. Dez. 2024 ([AS 2024 793](https://fedlex.data.admin.ch/eli/oc/2024/793)).
 
 Für die Zwecke dieses Abkommens wird das Inkorporierte Agrarabkommen[^annex4-lvlu1-1] wie folgt geändert:
 
@@ -1186,7 +1186,7 @@ Für die Zwecke dieses Abkommens wird das Inkorporierte Agrarabkommen[^annex4-lv
 
 ### «**Art. 8**Homonyme Namen
 
-[^annex4-lvlu1-1]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^annex4-lvlu1-1]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 
 (1) Sind in Anlage I aufgeführte geografische Angaben homonym, so wird jede Angabe geschützt, sofern sie in gutem Glauben verwendet wird und sofern im Einklang mit praktischen Verwendungsbedingungen, die von den Vertragsparteien im Rahmen des Ausschusses festzulegen sind, gewährleistet ist, dass die betreffenden Erzeuger gleichbehandelt und die Verbraucher nicht irregeführt werden.
 
@@ -1231,56 +1231,56 @@ Die Schweiz räumt für nachstehende Erzeugnisse mit Ursprung im Vereinigten Kö
 <tr><td>ex 0409 00 00</td><td>Natürlicher Honig, von Akazien</td><td>8</td><td>11</td></tr>
 <tr><td>ex 0409 00 00</td><td>Natürlicher Honig, anderer (ausgenommen von Akazien)</td><td>26</td><td>3</td></tr>
 <tr><td>0602 10 00</td><td>Stecklinge, unbewurzelt, und Propfreiser</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>Unterlagen von Kernobst (Sämlinge, Pflänzlinge):</td><td>frei</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Unterlagen von Kernobst (Sämlinge, Pflänzlinge):</td><td>frei</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 11</td><td>– veredelt, mit nackten Wurzeln</td><td></td><td></td></tr>
 <tr><td>0602 20 19</td><td>– veredelt, mit Wurzelballen</td><td></td><td></td></tr>
 <tr><td>0602 20 21</td><td>– nicht veredelt, mit nackten Wurzeln</td><td></td><td></td></tr>
 <tr><td>0602 20 29</td><td>– nicht veredelt, mit Wurzelballen</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Unterlagen von Steinobst (Sämlinge, Pflänzlinge):</td><td>frei</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Unterlagen von Steinobst (Sämlinge, Pflänzlinge):</td><td>frei</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 31</td><td>– veredelt, mit nackten Wurzeln</td><td></td><td></td></tr>
 <tr><td>0602 20 39</td><td>– veredelt, mit Wurzelballen</td><td></td><td></td></tr>
 <tr><td>0602 20 41</td><td>– nicht veredelt, mit nackten Wurzeln</td><td></td><td></td></tr>
 <tr><td>0602 20 49</td><td>– nicht veredelt, mit Wurzelballen</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Pflanzen von geniessbaren Fruchtarten, ausgenommen Unterlagen von Kern- oder Steinobst (Sämlinge, Pflänzlinge):</td><td>frei</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Pflanzen von geniessbaren Fruchtarten, ausgenommen Unterlagen von Kern- oder Steinobst (Sämlinge, Pflänzlinge):</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0602 20 51</td><td>– mit nackten Wurzeln</td><td></td><td></td></tr>
 <tr><td>0602 20 59</td><td>– andere als mit nackten Wurzeln</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Bäume, Sträucher und Stauden von geniessbaren Fruchtarten, mit nackten Wurzeln:</td><td>frei</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Bäume, Sträucher und Stauden von geniessbaren Fruchtarten, mit nackten Wurzeln:</td><td>frei</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 71</td><td>– von Kernobst</td><td></td><td></td></tr>
 <tr><td>0602 20 72</td><td>– von Steinobst</td><td></td><td></td></tr>
 <tr><td>0602 20 79</td><td>– andere als von Kern- oder Steinobst</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>Bäume, Sträucher und Stauden von geniessbaren Fruchtarten, mit Wurzelballen:</td><td>frei</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Bäume, Sträucher und Stauden von geniessbaren Fruchtarten, mit Wurzelballen:</td><td>frei</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 81</td><td>– von Kernobst</td><td></td><td></td></tr>
 <tr><td>0602 20 82</td><td>– von Steinobst</td><td></td><td></td></tr>
 <tr><td>0602 20 89</td><td>– andere als von Kern- oder Steinobst</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0602 30 00</td><td>Rhododendren und Azaleen, auch veredelt</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>Rosen, auch veredelt:</td><td>frei</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Rosen, auch veredelt:</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0602 40 10</td><td>– Rosenwildlinge und Rosenwildstämme</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>andere als Rosenwildlinge und Rosenwildstämme</td><td></td><td></td></tr>
+<tr><td></td><td>andere als Rosenwildlinge und Rosenwildstämme</td><td></td><td></td></tr>
 <tr><td>0602 40 91</td><td>– Mit nackten Wurzeln</td><td></td><td></td></tr>
 <tr><td>0602 40 99</td><td>– andere als mit nackten Wurzeln, mit Wurzelballen</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Setzlinge (Sämlinge, Pflänzlinge) von Nutzpflanzen; Pilzmycel</td><td>frei</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Setzlinge (Sämlinge, Pflänzlinge) von Nutzpflanzen; Pilzmycel</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0602 90 11</td><td>– Gemüsesetzlinge und Rollrasen</td><td></td><td></td></tr>
 <tr><td>0602 90 12</td><td>– Pilzmycel</td><td></td><td></td></tr>
 <tr><td>0602 90 19</td><td>– andere als Gemüsesetzlinge, Rollrasen oder Pilzmycel</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Andere lebende Pflanzen (einschliesslich ihrer Wurzeln):</td><td>frei</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Andere lebende Pflanzen (einschliesslich ihrer Wurzeln):</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0602 90 91</td><td>– mit nackten Wurzeln</td><td></td><td></td></tr>
 <tr><td>0602 90 99</td><td>– andere als mit nackten Wurzeln, mit Wurzelballen</td><td></td><td></td></tr>
 <tr><td>0603 11 10</td><td>Rosen, geschnitten, zu Binde- oder Zier-zwecken, frisch, vom 1. Mai bis 25. Oktober</td><td>frei</td><td>54</td></tr>
 <tr><td>0603 12 10</td><td>Nelken, geschnitten, zu Binde- oder Zier-zwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td></td></tr>
 <tr><td>0603 13 10</td><td>Orchideen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td></td></tr>
 <tr><td>0603 14 10</td><td>Chrysanthemen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Blüten und Blütenknospen (ausser Nelken, Rosen, Orchideen und Chrysanthemen), geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober:</td><td></td><td></td></tr>
+<tr><td></td><td>Blüten und Blütenknospen (ausser Nelken, Rosen, Orchideen und Chrysanthemen), geschnitten, zu Binde- oder Zierzwecken, frisch, vom 1. Mai bis 25. Oktober:</td><td></td><td></td></tr>
 <tr><td>0603 19 11</td><td>– verholzend</td><td></td><td></td></tr>
 <tr><td>0603 19 19</td><td>– andere als verholzend</td><td></td><td></td></tr>
 <tr><td>0603 12 30</td><td>Nelken, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0603 13 30</td><td>Orchideen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td></td></tr>
 <tr><td>0603 14 30</td><td>Chrysanthemen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td></td></tr>
 <tr><td>0603 19 30</td><td>Tulpen, geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Blüten und Blütenknospen (ausser Nelken, Rosen, Orchideen und Chrysanthemen), geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April:</td><td>frei</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Blüten und Blütenknospen (ausser Nelken, Rosen, Orchideen und Chrysanthemen), geschnitten, zu Binde- oder Zierzwecken, frisch, vom 26. Oktober bis 30. April:</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0603 19 31</td><td>– verholzend</td><td></td><td></td></tr>
 <tr><td>0603 19 39</td><td>– andere als verholzend</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Tomaten, Frisch oder gekühlt:</td><td>frei</td><td>537</td></tr>
-<tr><td>[tab]</td><td>– Cherry-Tomaten (Kirschtomaten)</td><td></td><td></td></tr>
+<tr><td></td><td>Tomaten, Frisch oder gekühlt:</td><td>frei</td><td>537</td></tr>
+<tr><td></td><td>– Cherry-Tomaten (Kirschtomaten)</td><td></td><td></td></tr>
 <tr><td>0702 00 10</td><td>– vom 21. Oktober bis 30 April</td><td></td><td></td></tr>
 <tr><td></td><td>– Peretti Tomaten (längliche Form):</td><td></td><td></td></tr>
 <tr><td>0702 00 20</td><td>– vom 21. Oktober bis 30. April</td><td></td><td></td></tr>
@@ -1288,27 +1288,27 @@ Die Schweiz räumt für nachstehende Erzeugnisse mit Ursprung im Vereinigten Kö
 <tr><td>0702 00 30</td><td>– vom 21. Oktober bis 30. April</td><td></td><td></td></tr>
 <tr><td></td><td>– andere:</td><td></td><td></td></tr>
 <tr><td>0702 00 90</td><td>– vom 21. Oktober bis 30. April</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Eisbergsalat ohne Umblatt:</td><td>frei</td><td>107</td></tr>
+<tr><td></td><td>Eisbergsalat ohne Umblatt:</td><td>frei</td><td>107</td></tr>
 <tr><td>0705 11 11</td><td>– vom 1. Januar bis Ende Februar</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Witloof-Zichorie, frisch oder gekühlt:</td><td>frei</td><td>107</td></tr>
+<tr><td></td><td>Witloof-Zichorie, frisch oder gekühlt:</td><td>frei</td><td>107</td></tr>
 <tr><td>0705 21 10</td><td>– vom 21. Mai bis 30. September</td><td></td><td></td></tr>
 <tr><td>0707 00 10</td><td>Salatgurken, vom 21. Oktober bis 14. April</td><td>5</td><td>11</td></tr>
 <tr><td>0707 00 30</td><td>Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm, frisch oder gekühlt, vom 21. Oktober bis 14. April</td><td>5</td><td>5</td></tr>
 <tr><td>0707 00 31</td><td>Einmachgurken mit einer Länge von mehr als 6 cm, jedoch nicht mehr als 12 cm, frisch oder gekühlt, vom 15. April bis 20. Oktober</td><td>5</td><td>113</td></tr>
 <tr><td>0707 00 50</td><td>Cornichons, frisch oder gekühlt</td><td>3,5</td><td>43</td></tr>
-<tr><td>[tab]</td><td>Auberginen, frisch oder gekühlt:</td><td>frei</td><td>54</td></tr>
+<tr><td></td><td>Auberginen, frisch oder gekühlt:</td><td>frei</td><td>54</td></tr>
 <tr><td>0709 30 10</td><td>– vom 16. Oktober bis 31. Mai</td><td></td><td></td></tr>
 <tr><td>0709 51 00 0709 59 00</td><td>Pilze, frisch oder gekühlt, der Gattung *Agaricus* oder andere, ausgenommen Trüffeln</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0709 60 11</td><td>Peperoni, frisch oder gekühlt, vom 1. November bis 31. März</td><td>2,5</td><td>unbegrenzt</td></tr>
 <tr><td>0709 60 12</td><td>Peperoni, frisch oder gekühlt, vom 1. April bis 31. Oktober</td><td>5</td><td>70</td></tr>
-<tr><td>[tab]</td><td>Zucchetti (einschliesslich Zucchettiblüten), frisch oder gekühlt:</td><td>frei</td><td>107</td></tr>
+<tr><td></td><td>Zucchetti (einschliesslich Zucchettiblüten), frisch oder gekühlt:</td><td>frei</td><td>107</td></tr>
 <tr><td>0709 90 50</td><td>– vom 31. Oktober bis 19. April</td><td></td><td></td></tr>
 <tr><td>ex 0710 80 90</td><td>Pilze, auch in Wasser oder Dampf gekocht, gefroren</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0711 90 90</td><td>Gemüse und Gemüsemischungen, vorläufig haltbar gemacht (z. B. durch Schwefeldioxid oder in Wasser mit Zusatz von Salz, Schwefeldioxid oder anderen vorläufig konservierenden Stoffen), jedoch in diesem Zustand zum unmittelbaren Genuss nicht geeignet</td><td>0</td><td>8</td></tr>
 <tr><td>0712 20 00</td><td>Speisezwiebeln, getrocknet, auch in Stücke oder Scheiben geschnitten, oder anders zerkleinert oder in Pulverform, aber nicht weiter zubereitet</td><td>0</td><td>5</td></tr>
 <tr><td>0713 10 11</td><td>Trockene Erbsen (*Pisum sativum*), ausgelöste, ganz, unbearbeitet, zu Futterzwecken</td><td>Ermässigung von 0.90 auf den Zollansatz</td><td>54</td></tr>
 <tr><td>0713 10 19</td><td>Trockene Erbsen (*Pisum sativum*), ausgelöste, ganz, unbearbeitet (weder zu Futterzwecken noch zu technischen Zwecken oder zur Herstellung von Bier)</td><td>0</td><td>54</td></tr>
-<tr><td>[tab]</td><td>Haselnüsse (*Corylus* spp.), frisch oder getrocknet:</td><td>frei</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Haselnüsse (*Corylus* spp.), frisch oder getrocknet:</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0802 21 90</td><td>– in der Schale, weder zu Futterzwecken noch zur Ölgewinnung</td><td></td><td></td></tr>
 <tr><td>0802 22 90</td><td>– ohne Schale, weder zu Futterzwecken noch zur Ölgewinnung</td><td></td><td></td></tr>
 <tr><td>0802 32 90</td><td>Nüsse</td><td>frei</td><td>5</td></tr>
@@ -1317,9 +1317,9 @@ Die Schweiz räumt für nachstehende Erzeugnisse mit Ursprung im Vereinigten Kö
 <tr><td>0805 20 00</td><td>Mandarinen (einschliesslich Tangerinen und Satsumas); Wilkings und ähnliche Kreuzungen von Zitrusfrüchten, frisch oder getrocknet</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0807 11 00</td><td>Wassermelonen, frisch</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>0807 19 00</td><td>andere Melonen als Wassermelonen, frisch</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>Aprikosen, frisch, in offener Packung:</td><td>frei</td><td>113</td></tr>
+<tr><td></td><td>Aprikosen, frisch, in offener Packung:</td><td>frei</td><td>113</td></tr>
 <tr><td>0809 10 11</td><td>– vom 1. September bis 30. Juni</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>in anderer Verpackung:</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td></td><td>in anderer Verpackung:</td><td></td><td></td></tr>
 <tr><td>0809 10 91</td><td>– vom 1. September bis 30. Juni</td><td></td><td></td></tr>
 <tr><td>0809 40 13</td><td>Pflaumen, frisch, in offener Packung, vom 1. Juli bis 30. September</td><td>0</td><td>32</td></tr>
 <tr><td>0810 10 10</td><td>Erdbeeren, frisch, vom 1. September bis 14. Mai</td><td>frei</td><td>537</td></tr>
@@ -1334,35 +1334,35 @@ Die Schweiz räumt für nachstehende Erzeugnisse mit Ursprung im Vereinigten Kö
 <tr><td>0910 20 00</td><td>Safran</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>1001 90 60</td><td>Weizen und Mengkorn (mit Ausnahme von Hartweizen), denaturiert, zu Futterzwecken</td><td>Ermässigung von 0.60 auf den Zollansatz</td><td>2685</td></tr>
 <tr><td>1005 90 30</td><td>Mais zu Futterzwecken</td><td>Ermässigung von 0.50 auf den Zollansatz</td><td>698</td></tr>
-<tr><td>[tab]</td><td>Olivenöl, unbehandelt, nicht zu Futterzwecken:</td><td></td><td></td></tr>
+<tr><td></td><td>Olivenöl, unbehandelt, nicht zu Futterzwecken:</td><td></td><td></td></tr>
 <tr><td>1509 10 91</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von nicht mehr als 2 l</td><td>60,60 <sup>(2)</sup></td><td>unbegrenzt</td></tr>
 <tr><td>1509 10 99</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von mehr als 2 l oder in anderen Behältnissen</td><td>86,70 <sup>(2)</sup></td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>Olivenöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert, nicht zu Futterzwecken:</td><td></td><td></td></tr>
+<tr><td></td><td>Olivenöl und seine Fraktionen, auch raffiniert, aber nicht chemisch modifiziert, nicht zu Futterzwecken:</td><td></td><td></td></tr>
 <tr><td>1509 90 91</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von nicht mehr als 2 l</td><td>60,60 <sup>(2)</sup></td><td>unbegrenzt</td></tr>
 <tr><td>1509 90 99</td><td>– in Behältnissen aus Glas mit einem Fassungsvermögen von mehr als 2 l oder in anderen Behältnissen</td><td>86,70 <sup>(2)</sup></td><td>unbegrenzt</td></tr>
 <tr><td>ex 0210 19 91</td><td>Schinken, in Salzlake, ohne Knochen, umgeben von einer Blase oder einem Kunstdarm</td><td>frei</td><td>199</td></tr>
 <tr><td>ex 0210 19 91</td><td>Knochenloses Kotelettstück, geräuchert</td><td></td><td></td></tr>
 <tr><td>1601 00 11 1601 00 21</td><td>Würste und ähnliche Erzeugnisse, aus Fleisch, Schlachtnebenerzeugnissen oder Blut; Lebensmittelzubereitungen auf der Grundlage dieser Erzeugnisse von Tieren der Positionen 0101–0104, andere als Wildschweine</td><td></td><td></td></tr>
 <tr><td>ex 0210 19 91 ex 1602 49 10</td><td>Schweinenacken, luftgetrocknet, auch gewürzt, ganz, in Stücken oder in dünnen Scheiben</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Tomaten, ganz oder in Stücken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht:</td><td></td><td></td></tr>
+<tr><td></td><td>Tomaten, ganz oder in Stücken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht:</td><td></td><td></td></tr>
 <tr><td>2002 10 10</td><td>– in Behältnissen von mehr als 5 kg</td><td>2,50</td><td>unbegrenzt</td></tr>
 <tr><td>2002 10 20</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>4,50</td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>Tomaten, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, weder ganz noch in Stücken:</td><td>frei</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Tomaten, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, weder ganz noch in Stücken:</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>2002 90 10</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td></td><td></td></tr>
 <tr><td>2002 90 21</td><td>Tomatenpulpe, Tomatenpüree und Tomatenkonzentrat, in luftdicht verschlossenen Behältnissen, mit einem Gehalt an Trockensubstanz von 25 Gewichtsprozent oder mehr, aus Tomaten und Wasser bestehend, auch mit Salz oder anderen Würzzusätzen, in Behältnissen von nicht mehr als 5 kg</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>2002 90 29</td><td>Tomaten, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, weder ganz noch in Stücken, Pulpe, Püree oder Tomatenkonzentrat:</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td></td><td></td></tr>
+<tr><td></td><td>– in Behältnissen von nicht mehr als 5 kg</td><td></td><td></td></tr>
 <tr><td>2003 10 00</td><td>Pilze der Gattung *Agaricus*, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht</td><td>0</td><td>91</td></tr>
-<tr><td>[tab]</td><td>Artischocken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
+<tr><td></td><td>Artischocken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
 <tr><td>ex 2004 90 18</td><td>– in Behältnissen von mehr als 5 kg</td><td>17,5</td><td>unbegrenzt</td></tr>
 <tr><td>ex 2004 90 49</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>24,5</td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>Spargel, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td>frei</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Spargel, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>2005 60 10</td><td>– in Behältnissen von mehr als 5 kg</td><td></td><td></td></tr>
 <tr><td>2005 60 90</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Oliven, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td>frei</td><td>unbegrenzt</td></tr>
+<tr><td></td><td>Oliven, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>2005 70 10</td><td>– in Behältnissen von mehr als 5 kg</td><td></td><td></td></tr>
 <tr><td>2005 70 90</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Kapern und Artischocken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
+<tr><td></td><td>Kapern und Artischocken, in anderer Weise als mit Essig oder Essigsäure zubereitet oder haltbar gemacht, nicht gefroren, andere als Erzeugnisse der Nr. 2006:</td><td></td><td></td></tr>
 <tr><td>ex 2005 99 11</td><td>– in Behältnissen von mehr als 5 kg</td><td>17,5</td><td>unbegrenzt</td></tr>
 <tr><td>ex 2005 99 41</td><td>– in Behältnissen von nicht mehr als 5 kg</td><td>24,5</td><td>unbegrenzt</td></tr>
 <tr><td>2008 30 90</td><td>Zitrusfrüchte, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssstoffen oder von Alkohol, anderweit weder genannt noch inbegriffen</td><td>frei</td><td>unbegrenzt</td></tr>
@@ -1370,10 +1370,10 @@ Die Schweiz räumt für nachstehende Erzeugnisse mit Ursprung im Vereinigten Kö
 <tr><td>2008 50 90</td><td>Aprikosen, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssstoffen oder von Alkohol, anderweit weder genannt noch inbegriffen</td><td>15</td><td>unbegrenzt</td></tr>
 <tr><td>2008 70 10</td><td>Pfirsichpulpe, in anderer Weise zubereitet oder haltbar gemacht, ohne Zusatz von Zucker oder anderen Süssstoffen, anderweit weder genannt noch inbegriffen</td><td>frei</td><td>unbegrenzt</td></tr>
 <tr><td>2008 70 90</td><td>Pfirsiche, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder anderen Süssstoffen oder von Alkohol, anderweit weder genannt noch inbegriffen</td><td>frei</td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>Saft von anderen Zitrusfrüchten als Orangen, Pampelmusen oder Grapefruit, nicht gegoren, ohne Zusatz von Alkohol:</td><td></td><td></td></tr>
+<tr><td></td><td>Saft von anderen Zitrusfrüchten als Orangen, Pampelmusen oder Grapefruit, nicht gegoren, ohne Zusatz von Alkohol:</td><td></td><td></td></tr>
 <tr><td>ex 2009 39 19</td><td>– ohne Zusatz von Zucker oder anderem Süssstoffen, eingedickt</td><td>6</td><td>unbegrenzt</td></tr>
 <tr><td>ex 2009 39 20</td><td>– mit Zusatz von Zucker oder anderen Süssstoffen eingedickt</td><td>14</td><td>unbegrenzt</td></tr>
-<tr><td>[tab]</td><td>Süssweine, Weinspezialitäten und Mistellen in Behältnissen:</td><td></td><td></td></tr>
+<tr><td></td><td>Süssweine, Weinspezialitäten und Mistellen in Behältnissen:</td><td></td><td></td></tr>
 <tr><td>2204 21 50</td><td>– mit einem Fassungsvermögen von nicht mehr als 2 l <sup>(3)</sup></td><td>8,5</td><td>unbegrenzt</td></tr>
 <tr><td>2204 29 50</td><td>– mit einem Fassungsvermögen von mehr als 2 l <sup>(3)</sup></td><td>8,5</td><td>unbegrenzt</td></tr>
 <tr><td>[tab] 2309 1021 [tab] 2309 1029</td><td>Hunde- und Katzenfutter in verschlossenen Behältern</td><td>frei</td><td>322</td></tr>
@@ -1521,9 +1521,14 @@ Jede Vertragspartei notifiziert der anderen Vertragspartei schriftlich und recht
 
 **Geltungsdauer und Überprüfung**
 
-<sup>1.</sup> Dieser Anhang gilt für eine Übergangszeit, die am 31. Dezember 2024 endet.
+<sup>1.</sup>
 
-<sup>2.</sup> Spätestens sechs Monate vor Ablauf der Übergangszeit prüft die Arbeitsgruppe, ob dieser Anhang weiterhin Anwendung finden oder durch einen umfassenderen Anhang ersetzt werden soll. Auf Empfehlung der Arbeitsgruppe entscheidet der Gemischte Ausschuss, ob dieser Anhang mit oder ohne Anpassungen während einer verlängerten Übergangszeit Anwendung findet oder ob er ersetzt wird.
+Dieser Anhang gilt für eine Übergangszeit, die zu dem früheren der beiden folgenden Zeitpunkte endet:
+
+- a. mit Inkrafttreten eines modernisierten Freihandelsabkommens, welches das Handelsabkommen ablöst und in diesem Anhang aufgeführte Aspekte behandelt;
+- b. mit Inkrafttreten eines anderen Abkommens zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, welches in diesem Anhang aufgeführte Aspekte behandelt und diesen Anhang ablöst.
+
+<sup>2.</sup> Ungeachtet des Absatzes 1 kann der Gemischte Ausschuss auf Empfehlung der Arbeitsgruppe die Übergangsfrist jederzeit ändern und entscheiden, ob dieser Anhang mit oder ohne Anpassungen während einer alternativen Übergangsfrist weiterhin Anwendung findet oder ob er ersetzt wird.
 
 <sup>3.</sup> Eine Vertragspartei kann der anderen Vertragspartei jederzeit ihren Beschluss zur Beendigung oder Aussetzung der Anwendung dieses Anhangs notifizieren. Eine solche Beendigung oder Aussetzung tritt 30 Tage nach Erhalt der Notifikation bei der anderen Vertragspartei in Kraft.
 
@@ -1579,7 +1584,7 @@ Fax: 01939 291250
 
 E-Mail: info@ofgorganic.org
 
-Webseite: www.ofgorganic.org
+Webseite: [www.ofgorganic.org](http://www.ofgorganic.org)
 
 ### 2 Organic Food Federation (GB-ORG-04)
 
@@ -1599,7 +1604,7 @@ Fax: 01760 720790
 
 E-Mail: info@orgfoodfed.com
 
-Webseite: www.orgfoodfed.com
+Webseite: [www.orgfoodfed.com](http://www.orgfoodfed.com)
 
 ### 3 Soil Association Certification Ltd (GB-ORG-05)
 
@@ -1643,7 +1648,7 @@ Telefon und Fax: 01453 766296
 
 E-Mail: certification@biodynamic.org.uk
 
-Webseite: www.bdcertification.org.uk
+Webseite: [www.bdcertification.org.uk](http://www.bdcertification.org.uk)
 
 ### 5 Quality Welsh Food Certification Ltd (GB-ORG-13)
 
@@ -1663,7 +1668,7 @@ Fax: 01970 624049
 
 E-Mail: info@wlbp.co.uk
 
-Webseite: www.wlbp.co.uk
+Webseite: [www.wlbp.co.uk](http://www.wlbp.co.uk)
 
 ### 6 OF&G (Scotland) Ltd (GB-ORG-17)
 
@@ -1685,7 +1690,7 @@ Fax: 01939 291250
 
 E-Mail: certification@sopa.org.uk
 
-Webseite: www.ofgorganic.org
+Webseite: [www.ofgorganic.org](http://www.ofgorganic.org)
 
 ### 7 Irish Organic Association (GB-ORG-07)
 
@@ -1707,7 +1712,7 @@ Fax: (+353) 090 644 9005
 
 Email: info@irishoa.ie
 
-Website: www.irishorganicassociation.ie
+Website: [www.irishorganicassociation.ie](http://www.irishorganicassociation.ie)
 
 ### 8 Organic Trust Limited (GB-ORG-09)
 
@@ -1727,31 +1732,7 @@ Fax: 00 353 185 30271
 
 Email: organics@iol.ie
 
-Website: www.organic-trust.org
-
-### 9 Global Trust Certification Ltd (GB-ORG-16)
-
-3<sup>rd</sup> Floor
-
-Block 3
-
-Quayside Business Park
-
-Mill Street Dundalk
-
-Co. Louth
-
-Republic of Ireland
-
-A91 WNH1
-
-Telefon: (+353) 42 932 0912
-
-Fax: (+353) 42 938 6864
-
-E-Mail: eoghan.stedman@saiglobal.com
-
-Webseite: [www.saiglobal.com](https://www.saiglobal.com/)
+Website: [www.organic-trust.org](http://www.organic-trust.org)
 
 Anlage IV
 
@@ -1775,8 +1756,8 @@ Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 
 
 »
 
-[^annexIV-lvlu1-1]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
-[^annexIV-lvlu1-2]: [SR 910.181](https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519)
+[^annexIV-lvlu1-1]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^annexIV-lvlu1-2]: [SR 910.181](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10419)
 
 Anhang 5
 
@@ -1794,7 +1775,7 @@ Die Zollbehörden des Vereinigten Königreichs oder der Schweiz leisten einander
 
 Die Bestimmungen dieses Absatzes gelten nicht für Waren der Kapitel 1–24 des Harmonisierten Systems.»
 
-[^annex5-lvlu1-1]: [SR 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
+[^annex5-lvlu1-1]: [SR 0.632.401.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2420)
 
 Anhang 6
 
@@ -1815,7 +1796,7 @@ Für die Zwecke dieses Abkommens wird das Inkorporierte Betrugsbekämpfungsabkom
 
 \5. *Zu Artikel 25 Absatz 2* und *Zu Artikel 43* der Vereinbarten Niederschrift finden keine Anwendung.
 
-[^annex6-lvlu1-1]: [SR 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
+[^annex6-lvlu1-1]: [SR 0.351.926.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1374)
 
 ## Gemeinsame Erklärung zum trilateralen Ansatz für Ursprungsregeln
 

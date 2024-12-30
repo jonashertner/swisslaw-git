@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: "Accordo commerciale dell' 11 febbraio 2019 tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord (con Allegati et Dichiarazioni)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: it
-version: 2022-12-31
+version: 2024-12-31
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/it/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221231-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221231/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/it/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20241231-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20241231/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RS **2020** 6605; FF **2020** 1845
 
 Traduzione
 
-Concluso l’11 febbraio 2019
+Concluso l’11 febbraio 2019 Approvato dall’Assemblea federale il 19 giugno 2020[^t-1] Entrato in vigore mediante scambio di note il 1° gennaio 2021
 
-Approvato dall’Assemblea federale il 19 giugno 2020[^t-1]
-
-Entrato in vigore mediante scambio di note il 1° gennaio 2021
-
-(Stato 31 dicembre 2022)
+(Stato 31 dicembre 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 19 giu. 2020 ([RU 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070)).
 
@@ -63,16 +59,16 @@ Le seguenti disposizioni non si applicano salvo diversa decisione del rispettivo
 
 <sup>3.</sup> All’entrata in vigore del presente Accordo le Parti esaminano, in seno al comitato misto competente, la materia di cui alle disposizioni del paragrafo 2 e, a fronte degli sviluppi relativi agli accordi tra ciascuna Parte e le Parti terze, valutano il grado di divergenza o conformità tra le proprie legislazioni nazionali nei settori coperti da tale materia allo scopo di garantire la massima continuità degli accordi commerciali tra le Parti. Il comitato misto competente può decidere di applicare le disposizioni di cui al paragrafo 2, *mutatis mutandis*, con o senza ulteriori modifiche, oppure di sostituirle.
 
-[^1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^1-2]: [RS 0.632.290.15](https://fedlex.data.admin.ch/eli/cc/1981/367_367_367)
-[^1-3]: [RS 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
-[^1-4]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949). A scanso di equivoci, il Prot. aggiuntivo relativo all’assistenza amministrativa reciproca in materia doganale è parte integrante dell’Acc. di libero scambio.
-[^1-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^1-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^1-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^1-8]: [RS 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
-[^1-9]: [RS 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
-[^1-10]: [RS 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
+[^1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^1-2]: [RS 0.632.290.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2274)
+[^1-3]: [RS 0.632.401.813](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2440)
+[^1-4]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413). A scanso di equivoci, il Prot. aggiuntivo relativo all’assistenza amministrativa reciproca in materia doganale è parte integrante dell’Acc. di libero scambio.
+[^1-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^1-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^1-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^1-8]: [RS 0.632.401.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2420)
+[^1-9]: [RS 0.351.926.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1374)
+[^1-10]: [RS 0.631.242.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2041)
 
 #### Art. 2
 
@@ -182,8 +178,8 @@ Ai fini del presente Accordo, l’Accordo di libero scambio[^annex1-lvlu1-1] inc
 
 ### «**Art. 2**Applicazione di misure di compensazione del prezzo
 
-[^annex1-lvlu1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^annex1-lvlu1-2]: [RS 0.632.401.23](https://fedlex.data.admin.ch/eli/cc/2005/238)
+[^annex1-lvlu1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^annex1-lvlu1-2]: [RS 0.632.401.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2426)
 
 Per tenere conto delle differenze di costo delle materie prime agricole impiegate nella fabbricazione dei prodotti di cui alla tabella I, l’Accordo non impedisce l’applicazione a tali prodotti di misure di compensazione del prezzo sotto forma di prelievo di componenti agricole all’importazione.
 
@@ -297,7 +293,7 @@ Art. 41 Ceuta e Melilla
 
 Art. 42 Prodotti in transito o in deposito
 
-### Elenco degli allegati
+Elenco degli allegati
 
 Allegato I Note introduttive all’elenco dell’allegato II
 
@@ -314,6 +310,672 @@ Allegato VI Dichiarazione del fornitore
 Allegato VII Dichiarazione a lungo termine del fornitore
 
 Allegato VIII Elenco dei Paesi
+
+## Titolo I Disposizioni generali
+
+#### Art. 1
+
+**Definizioni**
+
+Ai fini del presente Protocollo:
+
+- a) per «capitoli», «voci» e «sottovoci» si intendono i capitoli, le voci e le sottovoci (codici a quattro o a sei cifre) utilizzati nella nomenclatura che costituisce il sistema armonizzato di designazione e di codificazione delle merci («sistema armonizzato»), con le modifiche indicate nella raccomandazione del Consiglio di cooperazione doganale del 26 giugno 2004;
+- b) il termine «classificato» si riferisce alla classificazione delle merci in una determinata voce o sottovoce del sistema armonizzato;
+- c)
+
+  con il termine «spedizione» si intendono i prodotti:
+
+  - i) spediti contemporaneamente da un esportatore a un destinatario, oppure
+  - ii) accompagnati da un unico titolo di trasporto che copra il loro invio dall’esportatore al destinatario o, in mancanza di tale documento, da un’unica fattura;
+
+- d) per «valore in dogana» si intende il valore determinato conformemente all’accordo relativo all’applicazione dell’articolo VII dell’accordo generale sulle tariffe doganali e sul commercio del 1994 (Accordo OMC sul valore in dogana)[^annexu1-titI-1-1];
+- e) per «prezzo franco fabbrica» si intende il prezzo franco fabbrica pagato per il prodotto al fabbricante nella Parte nel cui stabilimento è stata effettuata l’ultima lavorazione o trasformazione, a condizione che esso comprenda il valore di tutti i materiali utilizzati e di tutti gli altri costi relativi alla sua fabbricazione, previa detrazione di eventuali imposte interne che vengano o possano essere rimborsate al momento dell’esportazione del prodotto ottenuto. Se l’ultima lavorazione o trasformazione è stata appaltata a un fabbricante, il termine «fabbricante» si riferisce all’impresa appaltante.
+- Se il prezzo effettivamente corrisposto non rispecchia tutti i costi correlati alla fabbricazione del prodotto che sono realmente sostenuti nella Parte, per prezzo franco fabbrica si intende la somma di tutti questi costi, previa detrazione di eventuali imposte interne che vengano o possano essere rimborsate al momento dell’esportazione del prodotto ottenuto;
+- f) per «materiali fungibili» o «prodotti fungibili» si intendono materiali o prodotti dello stesso tipo e della stessa qualità commerciale, che presentano le stesse caratteristiche tecniche e fisiche e non possono essere distinti tra loro;
+- g) per «merci» si intendono sia i materiali che i prodotti;
+- h) per «fabbricazione» si intende qualsiasi tipo di lavorazione o trasformazione, compreso il montaggio;
+- i) per «materiale» si intende qualsiasi ingrediente, materia prima, componente o parte ecc., impiegato nella fabbricazione del prodotto;
+- j) per «contenuto massimo di materiali non originari» si intende il contenuto massimo di materiali non originari ammesso affinché la fabbricazione possa essere considerata come lavorazione o trasformazione sufficiente a conferire al prodotto il carattere originario. Tale valore può essere espresso in percentuale del prezzo franco fabbrica del prodotto o in percentuale del peso netto dei materiali utilizzati rientranti in un determinato gruppo di capitoli, in un capitolo, in una voce o in una sottovoce;
+- k) per «prodotto» si intende il prodotto che viene fabbricato, anche se esso è destinato a essere successivamente impiegato in un’altra operazione di fabbricazione;
+- l) il termine «territori» comprende il territorio terrestre, le acque interne e le acque territoriali di una Parte;
+- m) per «valore aggiunto» si intende la differenza tra il prezzo franco fabbrica del prodotto e il valore in dogana di tutti i materiali utilizzati originari dell’altra Parte o di qualsiasi Paese menzionato nell’allegato VIII con cui si applica il cumulo oppure, se il valore in dogana non è noto o non può essere stabilito, il primo prezzo verificabile pagato per detti materiali nella Parte esportatrice;
+- n) per «valore dei materiali non originari» si intende il valore in dogana al momento dell’importazione dei materiali non originari impiegati o, qualora tale valore non sia noto né verificabile, il primo prezzo verificabile pagato per detti materiali nella Parte esportatrice. Tale definizione si applica, *mutatis mutandis*, qualora sia necessario stabilire il valore dei materiali originari utilizzati.
+
+[^annexu1-titI-1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)allegato 1A.8
+
+## Titolo II Definizione della nozione di «prodotti originari»
+
+#### Art. 2
+
+**Requisiti di carattere generale**
+
+Ai fini dell’applicazione del presente accordo si considerano prodotti originari di una Parte:
+
+- a) i prodotti interamente ottenuti in una Parte ai sensi dell’articolo 3;
+- b) i prodotti ottenuti in una Parte in cui sono incorporati materiali non interamente ottenuti sul suo territorio, a condizione che detti materiali siano stati oggetto in tale Parte di lavorazioni o trasformazioni sufficienti ai sensi dell’articolo 4.
+
+#### Art. 3
+
+**Prodotti interamente ottenuti**
+
+<sup>1.</sup>
+
+sono considerati interamente ottenuti in una Parte:
+
+- a) i prodotti minerari e l’acqua naturale estratti dal suo suolo o dal suo fondo marino;
+- b) le piante, incluse le piante acquatiche, e i prodotti del regno vegetale ivi coltivati o raccolti;
+- c) gli animali vivi, ivi nati ed allevati;
+- d) i prodotti che provengono da animali vivi ivi allevati;
+- e) i prodotti provenienti da animali macellati ivi nati e allevati;
+- f) i prodotti della caccia o della pesca ivi praticate;
+- g) i prodotti dell’acquacoltura, quando i pesci, i crostacei, i molluschi e altri invertebrati acquatici siano ivi nati o allevati da uova, larve, avannotti o novellame;
+- h) i prodotti della pesca marittima e altri prodotti estratti dal mare, al di fuori delle acque territoriali, con le sue navi;
+- i) i prodotti ottenuti a bordo delle sue navi officina, esclusivamente a partire dai prodotti di cui alla lettera h);
+- j) gli articoli usati, a condizione che siano ivi raccolti e possano servire soltanto al recupero delle materie prime;
+- k) gli scarti e i residui provenienti da operazioni manifatturiere ivi effettuate;
+- l) i prodotti estratti dal suolo o dal sottosuolo marino al di fuori dalle sue acque territoriali, purché essa abbia diritti esclusivi per lo sfruttamento di detto suolo o sottosuolo;
+- m) le merci ivi ottenute esclusivamente a partire dai prodotti di cui alle lettere da a) a l).
+
+<sup>2.</sup>
+
+Le espressioni «le sue navi» e «le sue navi officina» di cui al paragrafo 1, rispettivamente lettere h) e i), si applicano soltanto nei confronti delle navi e delle navi officina:
+
+- a) che sono immatricolate nella Parte esportatrice o nella Parte importatrice;
+- b) che battono bandiera della Parte esportatrice o della Parte importatrice;
+- c)
+
+  che soddisfano una delle seguenti condizioni:
+
+  - i) appartengono, in misura non inferiore al 50 per cento, a cittadini della Parte esportatrice o della Parte importatrice o di uno Stato membro dell’Unione europea o, oppure
+  - ii)
+
+    appartengono a società:
+
+    - – la cui sede principale e il cui luogo principale di attività sono situati nella Parte esportatrice o nella Parte importatrice o in uno Stato membro dell’Unione europea, e
+    - – appartengono, in misura non inferiore al 50 per cento, alla Parte esportatrice o alla Parte importatrice o a uno Stato membro dell’Unione europea oppure a enti pubblici o a cittadini di dette Parti.
+
+<sup>3.</sup> Ai fini del paragrafo 2, per quanto riguarda la Svizzera i termini «Parte esportatrice» e «Parte importatrice» comprendono l’Islanda, il Liechtenstein e la Norvegia.
+
+#### Art. 4
+
+**Lavorazioni o trasformazioni sufficienti**
+
+<sup>1.</sup> Fatti salvi il paragrafo 3 e l’articolo 6, i prodotti che non sono interamente ottenuti in una Parte si considerano sufficientemente lavorati o trasformati quando sono soddisfatte le condizioni stabilite nell’elenco dell’allegato II per le merci in questione.
+
+<sup>2.</sup> Se un prodotto che ha acquisito il carattere originario in una Parte conformemente al paragrafo 1 è impiegato come materiale nella fabbricazione di un altro prodotto, non si tiene alcun conto dei materiali non originari eventualmente impiegati nella sua fabbricazione.
+
+<sup>3.</sup> La conformità alle condizioni di cui al paragrafo 1 deve essere determinata per ciascun prodotto.
+
+Tuttavia, ove la norma applicabile si fondi sulla conformità a un determinato contenuto massimo di materiali non originari, le autorità doganali delle Parti possono autorizzare gli esportatori a calcolare il prezzo franco fabbrica del prodotto e il valore dei materiali non originari come valore medio secondo quanto indicato nel paragrafo 4 del presente articolo, affinché sia tenuto conto delle fluttuazioni dei costi e dei tassi di cambio.
+
+<sup>4.</sup> Nel caso in cui si applichi il paragrafo 3, secondo comma, il prezzo franco fabbrica medio del prodotto e il valore medio dei materiali non originari utilizzati sono calcolati, rispettivamente, in base alla somma dei prezzi franco fabbrica applicati nelle vendite degli stessi prodotti effettuate nel corso dell’anno fiscale precedente e in base alla somma del valore di tutti i materiali non originari utilizzati nella fabbricazione degli stessi prodotti nel corso dell’anno fiscale precedente quale definito nella Parte esportatrice o, qualora non siano disponibili dati relativi a un intero anno fiscale, nel corso di un periodo più breve di durata non inferiore a tre mesi.
+
+<sup>5.</sup> Gli esportatori che hanno optato per la determinazione del valore medio applicano sistematicamente tale metodo per tutto l’anno successivo all’anno fiscale di riferimento o, se del caso, per tutto l’anno successivo al periodo di riferimento più breve. Possono cessare di applicare tale metodo se, durante un determinato anno fiscale o periodo rappresentativo più breve ma non inferiore a tre mesi, constatano la cessazione delle fluttuazioni dei costi o dei tassi di cambio che ne avevano giustificato l’applicazione.
+
+<sup>6.</sup> I valori medi di cui al paragrafo 4 sono utilizzati, rispettivamente, in sostituzione del prezzo franco fabbrica e del valore dei materiali non originari ai fini dell’accertamento della conformità al contenuto massimo di materiali non originari.
+
+#### Art. 5
+
+**Norma di tolleranza**
+
+<sup>1.</sup> Il presente paragrafo non si applica ai prodotti contemplati nei capitoli da 50 a 63 del sistema armonizzato, a cui si applicano le tolleranze indicate nelle note 6 e 7 dell’allegato I.
+
+In deroga all’articolo 4 e fatti salvi i paragrafi 2 e 3, i materiali non originari di cui, in base alle condizioni indicate nell’elenco dell’allegato II, non è ammesso l’utilizzo nella fabbricazione di un determinato prodotto possono comunque essere utilizzati qualora il loro peso netto totale o valore accertato non superi:
+
+- a) il 15 per cento del peso netto del prodotto per i prodotti compresi nel capitolo 2 e nei capitoli da 4 a 24, esclusi i prodotti della pesca trasformati di cui al capitolo 16;
+- b) il 15 per cento del prezzo franco fabbrica del prodotto per i prodotti diversi da quelli indicati alla lettera a).
+
+<sup>2.</sup> Il paragrafo 1 non consente alcun superamento delle percentuali relative al contenuto massimo dei materiali non originari, specificate nelle norme dell’elenco contenuto nell’allegato II.
+
+<sup>3.</sup> I paragrafi 1 e 2 non si applicano ai prodotti interamente ottenuti in una Parte ai sensi dell’articolo 3. Tuttavia, fatti salvi l’articolo 6 e l’articolo 9, paragrafo 1, la tolleranza prevista da tali disposizioni si applica ai materiali utilizzati nella fabbricazione di un prodotto che, secondo la norma stabilita nell’elenco dell’allegato II, devono essere interamente ottenuti.
+
+#### Art. 6
+
+**Lavorazioni o trasformazioni insufficienti**
+
+<sup>1.</sup>
+
+Fatto salvo il disposto del paragrafo 2, si considerano insufficienti a conferire il carattere originario, a prescindere dal rispetto dei requisiti dell’articolo 4, le seguenti lavorazioni o trasformazioni:
+
+- a) le operazioni di conservazione per assicurare che i prodotti restino in buone condizioni durante il trasporto e il magazzinaggio;
+- b) la scomposizione e la composizione di confezioni;
+- c) il lavaggio, la pulitura; la rimozione di polvere, ossido, olio, pittura o altri rivestimenti;
+- d) la stiratura o la pressatura di prodotti tessili;
+- e) le semplici operazioni di pittura e lucidatura;
+- f) la mondatura e la molitura parziale o totale del riso; la pulitura e la brillatura dei cereali e del riso;
+- g) le operazioni per colorare o aromatizzare lo zucchero o formare zollette di zucchero; la molitura parziale o totale di zucchero cristallizzato;
+- h) la sbucciatura, la snocciolatura, la sgusciatura di frutta, frutta a guscio e verdura;
+- i) l’affilatura, la semplice macinatura o il semplice taglio;
+- j) il vaglio, la cernita, la selezione, la classificazione, la gradazione, l’assortimento (ivi inclusa la composizione di assortimenti di articoli);
+- k) le semplici operazioni di inserimento in bottiglie, lattine, boccette, borse, casse o scatole, o di fissaggio a supporti di cartone o su tavolette e ogni altra semplice operazione di condizionamento;
+- l) l’apposizione o la stampa di marchi, etichette, loghi o altri analoghi segni distintivi sui prodotti o sui loro imballaggi;
+- m) la semplice miscela di prodotti, anche di specie diverse;
+- n) la miscela dello zucchero con qualsiasi altra sostanza;
+- o) la semplice aggiunta di acqua o la diluizione, la disidratazione oppure la denaturazione dei prodotti;
+- p) il semplice assemblaggio di parti di articoli allo scopo di formare un articolo completo o lo smontaggio di prodotti in parti;
+- q) la macellazione degli animali;
+- r) il cumulo di due o più operazioni di cui alle lettere da a) a q).
+
+<sup>2.</sup> Nel determinare se la lavorazione o la trasformazione cui è stato sottoposto un determinato prodotto debba essere considerata insufficiente ai sensi del paragrafo 1, si tiene complessivamente conto di tutte le operazioni eseguite nella Parte esportatrice su quel prodotto.
+
+#### Art. 7
+
+**Cumulo dell’origine**
+
+<sup>1.</sup> Fatto salvo l’articolo 2, si considerano originari della Parte esportatrice quando sono esportati nell’altra Parte i prodotti fabbricati all’interno della prima utilizzando materiali originari di quell’altra Parte o di qualsiasi Paese menzionato nell’allegato VIII, a condizione che tali materiali siano stati sottoposti nella Parte contraente esportatrice a lavorazioni o trasformazioni più complesse rispetto alle operazioni di cui all’articolo 6. Non è necessario a tal fine che tali materiali siano stati oggetto di lavorazioni o trasformazioni sufficienti.
+
+<sup>2.</sup> Quando le lavorazioni o le trasformazioni effettuate all’interno della Parte esportatrice non vanno oltre le operazioni di cui all’articolo 6, il prodotto ottenuto utilizzando materiali originari dell’altra Parte o di qualsiasi Paese menzionato nell’allegato VIII è considerato originario della Parte esportatrice soltanto se il valore ivi aggiunto è superiore al valore dei materiali utilizzati originari dell’altra Parte o di qualsiasi Paese menzionato nell’allegato VIII. In caso contrario, il prodotto ottenuto si considera originario della Parte o di qualsiasi Paese menzionato nell’allegato VIII che ha conferito il maggior valore in materiali originari utilizzati nella fabbricazione nella Parte esportatrice.
+
+<sup>3.</sup> Fatto salvo l’articolo 2, con l’esclusione dei prodotti compresi nei capitoli da 50 a 63, le lavorazioni o trasformazioni effettuate nella Parte diversa dalla Parte esportatrice o in qualsiasi Paese menzionato nell’allegato VIII si considerano effettuate nella Parte esportatrice se i prodotti ottenuti subiscono lavorazioni o trasformazioni successive in tale Parte esportatrice.
+
+<sup>4.</sup> Fatto salvo l’articolo 2, per i prodotti compresi nei capitoli da 50 a 63 e solamente per gli scambi bilaterali tra le Parti, le lavorazioni o trasformazioni effettuate nella Parte importatrice si considerano effettuate nella Parte esportatrice se i prodotti ottenuti subiscono lavorazioni o trasformazioni successive in tale Parte esportatrice.
+
+Ai fini del presente paragrafo, i partecipanti al processo di stabilizzazione e di associazione dell’Unione europea e la Repubblica di Moldova devono essere considerati come una sola zona di cumulo.
+
+<sup>5.</sup> Ogni Parte può decidere unilateralmente di estendere l’applicazione del paragrafo 3 all’importazione di prodotti compresi nei capitoli da 50 a 63.
+
+<sup>6.</sup> Ai fini del cumulo ai sensi dei paragrafi 3 e 4, i prodotti originari sono considerati originari della Parte esportatrice solo se la lavorazione o trasformazione ivi effettuata va al di là delle operazioni contemplate dall’articolo 6.
+
+<sup>7.</sup> I prodotti originari delle Parti o di qualsiasi Paese menzionato nell’allegato VIII che non sono sottoposti ad alcuna lavorazione o trasformazione nella Parte esportatrice conservano la loro origine quando vengono esportati nell’altra Parte.
+
+#### Art. 8
+
+**Condizioni per l’applicazione del cumulo dell’origine**
+
+<sup>1.</sup>
+
+Il cumulo di cui all’articolo 7 si può applicare soltanto a condizione che:
+
+- a) un accordo commerciale preferenziale ai sensi dell’articolo XXIV dell’Accordo generale sulle tariffe doganali e sul commercio del 1994 (GATT) sia in vigore tra qualsiasi Paese menzionato nell’allegato VIII che partecipa all’acquisizione del carattere originario e qualsiasi Parte; e
+- b) le merci abbiano acquisito il carattere originario con l’applicazione di norme di origine identiche a quelle del presente Protocollo.
+
+<sup>2.</sup> Fatto salvo il paragrafo 1 lettera b), il cumulo di cui all’articolo 7 può essere applicato alle merci che hanno acquisito il carattere originario mediante applicazione di norme di origine conformemente all’appendice I e alle disposizioni pertinenti dell’appendice II della Convenzione PEM o di altre norme di origine eventualmente concordate successivamente dalle Parti[^annexu1-titII-8-1].
+
+<sup>3.</sup> Gli avvisi da cui risulti che sussistono i requisiti necessari per l’applicazione del cumulo sono pubblicati in una pubblicazione ufficiale di ogni Parte, secondo le rispettive procedure.
+
+Il cumulo di cui all’articolo 7 si applica dalla data indicata in tali avvisi.
+
+<sup>4.</sup> La prova dell’origine include la dicitura in inglese «CUMULATION APPLIED WITH (nome inglese della Parte o del Paese menzionato nell’allegato VIII)» se i prodotti hanno ottenuto il carattere originario mediante applicazione del cumulo dell’origine a norma dell’articolo 7.
+
+Se come prova dell’origine si usa un certificato di circolazione EUR.1, tale dicitura figura nella casella 7 di detto certificato.
+
+<sup>5.</sup> Le Parti possono convenire di derogare all’obbligo di includere nella prova dell’origine la dicitura di cui paragrafo 4[^annexu1-titII-8-2].
+
+<sup>6.</sup> Le Parti convengono di riesaminare periodicamente la possibilità di estendere il cumulo ai Paesi con cui ciascuna di esse ha concluso un accordo di libero scambio. Il primo riesame si svolge entro due anni dall’entrata in vigore della decisione n. 2/2021 del Comitato misto commerciale Regno Unito‒Svizzera
+
+[^annexu1-titII-8-1]: Le parti convengono che il paragrafo si applica all’Acc. commerciale e di cooperazione del 24 dic. 2020 tra l’Unione europea e la Comunità europea dell’energia atomica, da una parte, e il Regno Unito di Gran Bretagna e Irlanda del Nord, dall’altra, e all’Accordo di libero scambio del 29 dic. 2020 tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Repubblica di Turchia a partire dall’applicazione provvisoria della Decisione n. 2/2021 del Comitato misto commerciale Regno Unito‒Svizzera.
+[^annexu1-titII-8-2]: Le parti convengono di derogare all’obbligo di includere nella prova dell’origine la dicitura di cui all’art. 8, para. 4.
+
+#### Art. 9
+
+**Unità da prendere in considerazione**
+
+<sup>1.</sup>
+
+L’unità da prendere in considerazione per l’applicazione del presente Protocollo è lo specifico prodotto adottato come unità di base per determinare la classificazione secondo la nomenclatura del sistema armonizzato. Ne consegue che:
+
+- a) quando un prodotto composto da un gruppo o da un insieme di articoli è classificato, secondo il sistema armonizzato, in un’unica voce, l’intero complesso costituisce l’unità da prendere in considerazione;
+- b) quando una spedizione consiste in un certo numero di prodotti fra loro identici, classificati nella medesima voce del sistema armonizzato, nell’applicare il presente Protocollo ogni prodotto va considerato singolarmente.
+
+<sup>2.</sup> Ogniqualvolta, conformemente alla regola generale 5 del sistema armonizzato, si considera che l’imballaggio formi un tutto unico con il prodotto ai fini della classificazione, detto imballaggio viene preso in considerazione anche per la determinazione dell’origine.
+
+<sup>3.</sup> Gli accessori, i pezzi di ricambio e gli utensili che vengono consegnati con un’attrezzatura, una macchina, un apparecchio o un veicolo, che fanno Parte del suo normale equipaggiamento e sono inclusi nel suo prezzo franco fabbrica, si considerano un tutto unico con l’attrezzatura, la macchina, l’apparecchio o il veicolo in questione.
+
+#### Art. 10
+
+**Assortimenti**
+
+<sup>1.</sup> Gli assortimenti, definiti ai sensi della regola generale 3 del sistema armonizzato, si considerano originari a condizione che tutti i prodotti che li compongono siano originari.
+
+<sup>2.</sup> Fatto salvo il paragrafo 1, un assortimento composto di prodotti originari e non originari è considerato originario nel suo insieme a condizione che il valore dei prodotti non originari non superi il 15 per cento del prezzo franco fabbrica dell’assortimento.
+
+#### Art. 11
+
+**Elementi neutri**
+
+Per determinare se un prodotto è originario, non occorre determinare l’origine dei seguenti elementi eventualmente utilizzati per la sua fabbricazione:
+
+- a) energia e combustibile;
+- b) impianti e attrezzature;
+- c) macchine e utensili;
+- d) merci che non entrano, né sono destinate a entrare, nella composizione finale dello stesso.
+
+#### Art. 12
+
+**Separazione contabile**
+
+<sup>1.</sup> Se materiali fungibili originari e non originari sono utilizzati nella lavorazione o trasformazione di un prodotto, gli operatori economici possono garantire la gestione dei materiali utilizzando il metodo della separazione contabile, senza tenere i materiali in scorte separate.
+
+<sup>2.</sup> Gli operatori economici possono garantire la gestione di prodotti fungibili originari e non originari della voce 1701 utilizzando il metodo della separazione contabile, senza tenere i prodotti in scorte separate.
+
+<sup>3.</sup> La Parte esportatrice può chiedere che l’applicazione della separazione contabile sia subordinata all’autorizzazione preventiva delle autorità doganali. Le autorità doganali possono subordinare la concessione dell’autorizzazione alle condizioni che giudicano appropriate e monitorano l’uso che viene fatto dell’autorizzazione. Le autorità doganali possono revocare l’autorizzazione qualora il beneficiario ne faccia un uso improprio in qualsiasi modo o non soddisfi una delle altre condizioni previste dal presente Protocollo.
+
+Attraverso l’utilizzo della separazione contabile si deve garantire che, in qualsiasi momento, non si possano considerare prodotti «originari della Parte esportatrice» più prodotti di quanti lo sarebbero stati utilizzando un metodo di separazione fisica delle scorte.
+
+Il metodo è applicato e l’applicazione è registrata conformemente ai principi contabili generali in vigore nella Parte esportatrice.
+
+<sup>4.</sup> Il beneficiario del metodo di cui ai paragrafi 1 e 2 emette prove dell’origine o ne fa richiesta per la quantità di prodotti che si possono considerare originari della Parte esportatrice. Su richiesta delle autorità doganali, il beneficiario fornisce una dichiarazione relativa al modo in cui i quantitativi sono stati gestiti
+
+## Titolo III Requisiti territoriali
+
+#### Art. 13
+
+**Principio di territorialità**
+
+<sup>1.</sup> Fatti salvi gli articoli 7 e 8 e il paragrafo 3, le condizioni enunciate al titolo II devono essere rispettate senza interruzione nella Parte interessata.
+
+<sup>2.</sup>
+
+I prodotti originari esportati da una Parte verso un altro Paese e successivamente reimportati sono considerati non originari, a meno che si fornisca alle autorità doganali la prova soddisfacente:
+
+- a) che i prodotti reimportati sono gli stessi che erano stati esportati; e
+- b) che essi non sono stati sottoposti ad alcuna operazione, oltre a quelle necessarie per conservarli in buono stato durante la loro permanenza nel Paese in questione o nel corso dell’esportazione.
+
+<sup>3.</sup>
+
+L’acquisizione del carattere originario in conformità alle condizioni enunciate al titolo II non è condizionata da una lavorazione o trasformazione effettuata al di fuori della Parte esportatrice sui materiali esportati da quest’ultima e successivamente reimportati, purché:
+
+- a) tali materiali siano interamente ottenuti nella Parte esportatrice o siano stati sottoposti a lavorazioni o trasformazioni che vanno oltre le operazioni di cui all’articolo 6 prima della loro esportazione; e
+- b)
+
+  si possa dimostrare alle autorità doganali che:
+
+  - i) i prodotti reimportati derivano dalla lavorazione o dalla trasformazione dei materiali esportati, e
+  - ii) il valore aggiunto totale acquisito al di fuori della Parte esportatrice con l’applicazione del presente articolo non supera il 10 per cento del prezzo franco fabbrica del prodotto finale per il quale si richiede il riconoscimento del carattere originario.
+
+<sup>4.</sup> Ai fini dell’applicazione del paragrafo 3, le condizioni necessarie per acquisire il carattere di prodotto originario enunciate al titolo II non si applicano alle lavorazioni o alle trasformazioni effettuate al di fuori della Parte esportatrice. Tuttavia, se all’elenco dell’allegato II si applica una norma che fissa il valore massimo di tutti i materiali non originari utilizzati per la determinazione del carattere originario del prodotto finale, il valore totale dei materiali non originari utilizzati nel territorio della Parte esportatrice e il valore aggiunto totale acquisito al di fuori di tale Parte con l’applicazione del presente articolo non superano la percentuale indicata.
+
+<sup>5.</sup> Ai fini dell’applicazione dei paragrafi 3 e 4, per «valore aggiunto totale» si intendono tutti i costi accumulati al di fuori della Parte esportatrice, compreso il valore dei materiali ivi aggiunti.
+
+<sup>6.</sup> I paragrafi 3 e 4 non si applicano ai prodotti che non soddisfano le condizioni enunciate nell’elenco dell’allegato II o che si possono considerare sufficientemente lavorati o trasformati soltanto in applicazione della tolleranza generale di cui all’articolo 4.
+
+<sup>7.</sup> Le lavorazioni o trasformazioni di cui al presente articolo effettuate al di fuori della Parte esportatrice sono realizzate in regime di perfezionamento passivo o nell’ambito di un sistema analogo.
+
+#### Art. 14
+
+**Non modificazione**
+
+<sup>1.</sup> Il trattamento preferenziale previsto dal presente accordo si applica unicamente ai prodotti che soddisfano il presente Protocollo e dichiarati per l’importazione in una Parte a condizione che tali prodotti siano gli stessi che sono stati esportati dalla Parte esportatrice. Essi non devono essere stati oggetto di alcun tipo di modificazione o trasformazione né di operazioni diverse da quelle necessarie per conservarli in buono stato o dall’aggiunta o apposizione di marchi, etichette, sigilli o di qualsiasi altra documentazione atta a garantire la conformità alle disposizioni interne specifiche della Parte importatrice, effettuate sotto sorveglianza doganale nel Paese o nei Paesi terzi di transito o di frazionamento, prima di essere dichiarati per il consumo interno.
+
+<sup>2.</sup> Il magazzinaggio dei prodotti o delle spedizioni è ammesso solo se questi restano sotto controllo doganale nei Paesi terzi di transito.
+
+<sup>3.</sup> Fatto salvo il titolo V del Protocollo, il frazionamento delle spedizioni è ammesso solo se queste restano sotto controllo doganale nei Paesi terzi di frazionamento.
+
+<sup>4.</sup>
+
+In caso di dubbio la Parte importatrice può chiedere all’importatore o al suo rappresentante di presentare in qualsiasi momento tutti i documenti atti a dimostrare il rispetto del presente articolo, che può essere dimostrato da qualsiasi documento giustificativo e in particolare da:
+
+- a) documenti contrattuali di trasporto quali polizze di carico;
+- b) prove fattuali o concrete basate sulla marcatura o sulla numerazione dei colli;
+- c) un certificato di non manipolazione fornito dalle autorità doganali dei Paesi di transito o di frazionamento, o qualsiasi altro documento atto a dimostrare che le merci sono rimaste sotto controllo doganale nei Paesi di transito o di frazionamento; oppure
+- d) qualsiasi elemento di prova correlato alle merci stesse.
+
+#### Art. 15
+
+**Esposizioni**
+
+<sup>1.</sup>
+
+I prodotti originari spediti per un’esposizione in un Paese diverso da quelli per cui si può applicare il cumulo a norma degli articoli 7 e 8 e venduti, dopo l’esposizione, per essere importati in una Parte beneficiano, all’importazione, del presente Accordo, purché sia fornita alle autorità doganali la prova soddisfacente che:
+
+- a) un esportatore ha inviato detti prodotti da una Parte verso il Paese dell’esposizione e ve li ha esposti;
+- b) l’esportatore ha venduto i prodotti o li ha ceduti a un destinatario nell’altra Parte;
+- c) i prodotti sono stati consegnati nel corso dell’esposizione o subito dopo, nello stato in cui erano stati inviati all’esposizione; e
+- d) dal momento in cui sono stati inviati all’esposizione, i prodotti non sono stati utilizzati per scopi diversi dalla presentazione all’esposizione stessa.
+
+<sup>2.</sup> Alle autorità doganali della Parte importatrice deve essere presentata, secondo le normali procedure, una prova dell’origine rilasciata o compilata conformemente al titolo V del presente Protocollo, con indicazione della denominazione e dell’indirizzo dell’esposizione. All’occorrenza, può essere richiesta un’ulteriore prova documentale delle condizioni in cui sono stati esposti i prodotti.
+
+<sup>3.</sup> Il paragrafo 1 si applica a tutte le esposizioni, fiere o manifestazioni pubbliche analoghe di natura commerciale, industriale, agricola o artigianale, diverse da quelle organizzate a fini privati in negozi o locali commerciali per la vendita di prodotti stranieri, durante le quali i prodotti rimangono sotto il controllo della dogana.
+
+## Titolo IV Restituzioni o esenzione
+
+#### Art. 16
+
+**Restituzione dei dazi doganali o esenzione da tali dazi**
+
+<sup>1.</sup> I materiali non originari utilizzati nella fabbricazione di prodotti compresi nei capitoli da 50 a 63 del sistema armonizzato originari di una Parte, per i quali viene rilasciata o compilata una prova dell’origine conformemente al titolo V del presente Protocollo, non sono soggetti, nella Parte esportatrice, ad alcun tipo di restituzione dei dazi doganali o di esenzione da tali dazi.
+
+<sup>2.</sup> Il divieto di cui al paragrafo 1 si applica a tutti gli accordi relativi a rimborsi, sgravi o mancati pagamenti, parziali o totali, di dazi doganali o tasse di effetto equivalente applicabili nella Parte esportatrice ai materiali utilizzati nella fabbricazione, qualora tali rimborsi, sgravi o mancati pagamenti si applichino, di diritto o di fatto, quando i prodotti ottenuti da detti materiali sono esportati, ma non quando sono destinati al consumo interno.
+
+<sup>3.</sup> L’esportatore di prodotti coperti da una prova dell’origine deve essere pronto a presentare in qualsiasi momento, su richiesta dell’autorità doganale, tutti i documenti atti a comprovare che non è stata ottenuta alcuna restituzione per quanto riguarda i materiali non originari utilizzati nella fabbricazione dei prodotti in questione e che tutti i dazi doganali o le tasse di effetto equivalente applicabili a tali materiali sono stati effettivamente pagati.
+
+<sup>4.</sup> Il divieto di cui al paragrafo 1 non si applica negli scambi tra le Parti per i prodotti che hanno ottenuto il carattere originario applicando il cumulo dell’origine di cui all’articolo 7, paragrafo 4 o 5.
+
+## Titolo V Prova dell’origine
+
+#### Art. 17
+
+**Requisiti di carattere generale**
+
+<sup>1.</sup>
+
+I prodotti originari di una delle Parti importati nell’altra Parte beneficiano delle disposizioni del presente Accordo su presentazione di una delle seguenti prove dell’origine:
+
+- a) un certificato di circolazione delle merci EUR.1, il cui modello figura nell’allegato IV del presente Protocollo;
+- b) nei casi di cui all’articolo 18, paragrafo 1, una dichiarazione («dichiarazione di origine») rilasciata dall’esportatore su una fattura, una bolla di consegna o qualsiasi altro documento commerciale che descriva i prodotti in questione in maniera sufficientemente dettagliata da consentirne l’identificazione. Il testo della dichiarazione di origine figura nell’allegato III del presente Protocollo.
+
+<sup>2.</sup> In deroga al paragrafo 1, nei casi di cui all’articolo 27, i prodotti originari ai sensi del presente Protocollo beneficiano delle disposizioni dell’accordo senza che sia necessario presentare alcuna delle prove dell’origine di cui al paragrafo 1.
+
+<sup>3.</sup> Fatto salvo il paragrafo 1, le Parti possono concordare che, per gli scambi preferenziali tra di esse, le prove dell’origine di cui al paragrafo 1, lettere a) e b), del presente articolo siano sostituite da attestazioni dell’origine compilate da esportatori registrati in una banca dati elettronica conformemente alla pertinente legislazione delle Parti.
+
+L’uso di un’attestazione dell’origine rilasciata dagli esportatori registrati in una banca dati elettronica concordata tra le Parti, tra una Parte e qualsiasi Paese menzionato nell’allegato VIII o tra questi Paesi non osta all’uso del cumulo con una Parte o qualsiasi Paese menzionato nell’allegato VIII.
+
+<sup>4.</sup> Ai fini dell’articolo 7, qualora si applichi l’articolo 8, paragrafo 4, l’esportatore in una Parte che rilascia una prova dell’origine sulla base di un’altra prova dell’origine cui era stata concessa la deroga all’obbligo di includere nella prova dell’origine la dicitura di cui all’articolo 8, paragrafo 4, prende tutte le misure necessarie per garantire che le condizioni di applicazione del cumulo siano soddisfatte ed è pronto a presentare alle autorità doganali tutti i documenti pertinenti.
+
+#### Art. 18
+
+**Condizioni per la compilazione di una dichiarazione di origine**
+
+<sup>1.</sup>
+
+La dichiarazione di origine di cui all’articolo 17, paragrafo 1, lettera b), può essere compilata:
+
+- a) da un esportatore autorizzato ai sensi dell’articolo 19; oppure
+- b) da qualsiasi esportatore per qualsiasi spedizione consistente in uno o più colli contenenti prodotti originari il cui valore totale non superi i 6 000 EUR.
+
+<sup>2.</sup> La dichiarazione di origine può essere compilata se i prodotti possono essere considerati originari di una Parte e soddisfano gli altri requisiti del presente Protocollo.
+
+<sup>3.</sup> L’esportatore che compila una dichiarazione di origine dovrà essere pronto a presentare in qualsiasi momento, su richiesta dell’autorità doganale della Parte esportatrice, tutti i documenti atti a comprovare il carattere originario dei prodotti in questione e l’osservanza degli altri requisiti disposti dal presente Protocollo.
+
+<sup>4.</sup> La dichiarazione di origine dev’essere compilata dall’esportatore a macchina, stampigliando o stampando sulla fattura, sulla bolla di consegna o su un altro documento commerciale la dichiarazione il cui testo figura nell’allegato III del presente Protocollo, utilizzando una delle versioni linguistiche stabilite in tale allegato e conformemente alle disposizioni di diritto interno del Paese d’esportazione. Se compilata a mano, la dichiarazione deve essere scritta con inchiostro e in stampatello.
+
+<sup>5.</sup> Le dichiarazioni di origine recano la firma manoscritta dell’esportatore. Un esportatore autorizzato ai sensi dell’articolo 19, tuttavia, non è tenuto a firmare tali dichiarazioni purché egli consegni alle autorità doganali della Parte esportatrice un impegno scritto in cui accetta la piena responsabilità di qualsiasi dichiarazione di origine che lo identifichi come se questa recasse effettivamente la sua firma manoscritta. Le Parti accettano che le dichiarazioni di origine siano trasmesse per via elettronica e direttamente dall’esportatore di una Parte all’importatore dell’altra. Tale approccio ammette l’uso di firme elettroniche o di codici di identificazione
+
+<sup>6.</sup> La dichiarazione di origine può essere compilata dall’esportatore al momento dell’esportazione dei prodotti cui si riferisce o successivamente («dichiarazione di origine a posteriori»), purché sia presentata nel Paese d’importazione non più tardi di due anni dall’importazione dei prodotti cui si riferisce.
+
+In caso di frazionamento di una spedizione in conformità all’articolo 14, paragrafo 3, e a condizione che il termine di due anni sia rispettato, l’attestazione di origine può essere rilasciata retroattivamente dall’esportatore della Parte esportatrice dei prodotti.
+
+#### Art. 19
+
+**Esportatore autorizzato**
+
+<sup>1.</sup> Fatti salvi i requisiti nazionali, le autorità doganali della Parte esportatrice possono autorizzare qualsiasi esportatore stabilito in tale Parte (l’«esportatore autorizzato») a compilare dichiarazioni di origine indipendentemente dal valore dei prodotti in questione.
+
+<sup>2.</sup> L’esportatore che richiede tale autorizzazione deve offrire alle autorità doganali garanzie soddisfacenti per l’accertamento del carattere originario dei prodotti e per quanto riguarda l’osservanza degli altri requisiti del presente Protocollo.
+
+<sup>3.</sup> Le autorità doganali attribuiscono all’esportatore autorizzato un numero di autorizzazione doganale da riportare nella dichiarazione di origine.
+
+<sup>4.</sup> Le autorità doganali verificano il corretto uso dell’autorizzazione. Le autorità doganali possono ritirare l’autorizzazione se l’esportatore autorizzato ne fa un uso scorretto e lo faranno se l’esportatore autorizzato non offre più le garanzie di cui al paragrafo 2.
+
+#### Art. 20
+
+**Procedura di rilascio dei certificati di circolazione EUR.1**
+
+<sup>1.</sup> Il certificato di circolazione EUR.1 viene rilasciato dalle autorità doganali della Parte esportatrice su richiesta scritta compilata dall’esportatore o, sotto la responsabilità di quest’ultimo, dal suo rappresentante autorizzato.
+
+<sup>2.</sup> A tale scopo, l’esportatore o il suo rappresentante autorizzato compila il formulario del certificato di circolazione EUR.1 e il formulario di domanda, i cui modelli figurano all’allegato IV dell’appendice A. Detti formulari sono compilati in una lingua ufficiale di una Parte e in conformità con le disposizioni di diritto interno della Parte esportatrice. Se compilati a mano, devono essere scritti con inchiostro e in stampatello. La descrizione dei prodotti deve essere redatta nell’apposita casella senza spaziature. Qualora lo spazio della casella non sia completamente utilizzato, si deve tracciare una linea orizzontale sotto l’ultima riga e si deve sbarrare la parte non riempita.
+
+<sup>3.</sup> L’esportatore che richiede il rilascio di un certificato di circolazione EUR.1 deve essere pronto a presentare in qualsiasi momento, su richiesta delle autorità doganali della Parte esportatrice in cui viene rilasciato il certificato di circolazione EUR.1, tutti i documenti atti a comprovare il carattere originario dei prodotti in questione e l’osservanza degli altri requisiti disposti dal presente Protocollo.
+
+<sup>4.</sup> Il certificato di origine è rilasciato dalle autorità competenti della Parte esportatrice se i prodotti in questione possono essere considerati prodotti originari di una Parte e soddisfano gli altri requisiti del presente Protocollo.
+
+<sup>5.</sup> Le autorità doganali che rilasciano i certificati di circolazione EUR.1 prendono tutte le misure necessarie per verificare il carattere originario dei prodotti e l’osservanza degli altri requisiti del presente Protocollo. A tal fine, esse hanno la facoltà di richiedere qualsiasi prova e di procedere a qualsiasi controllo dei conti dell’esportatore nonché a tutte le altre verifiche che ritengano opportune. Esse si accertano inoltre che i formulari di cui al paragrafo 2 siano debitamente compilati. Esse verificano in particolare che la parte riservata alla descrizione dei prodotti sia stata compilata in modo da rendere impossibile qualsiasi aggiunta fraudolenta.
+
+<sup>6.</sup> La data di rilascio del certificato di circolazione delle merci EUR.1 deve essere indicata nella casella 11 di detto certificato.
+
+<sup>7.</sup> Il certificato di circolazione EUR.1 è rilasciato dalle autorità doganali e tenuto a disposizione dell’esportatore dal momento in cui l’esportazione ha effettivamente luogo o è assicurata.
+
+#### Art. 20<sup>bis</sup>
+
+**Certificati di circolazione EUR.1 emessi elettronicamente**
+
+<sup>1.</sup> In alternativa alle disposizioni sul rilascio dei certificati di circolazione, le Parti accettano i certificati di circolazione EUR.1 rilasciati elettronicamente. In considerazione del sistema digitalizzato per il rilascio di tali certificati, i requisiti formali per i certificati di circolazione EUR.1 rilasciati elettronicamente sono stabiliti al paragrafo 3.
+
+<sup>2.</sup> Le Parti si informano reciprocamente sullo stato di attuazione del rilascio dei certificati di circolazione elettronici EUR.1 e su tutte le questioni tecniche relative a tale attuazione (rilascio, presentazione e verifica di un certificato elettronico).
+
+<sup>3.</sup>
+
+Ai certificati di circolazione rilasciati e convalidati elettronicamente non si applicano i paragrafi 1 e 2 dell’allegato IV, bensì quanto segue:
+
+- a) i timbri a inchiostro utilizzati dalle autorità doganali o dalle autorità governative competenti per convalidare i certificati di circolazione EUR.1 (casella 11) possono essere sostituiti da timbri-immagine o da timbri elettronici;
+- b) le caselle 11 e 12 possono contenere firme facsimile o elettroniche invece delle firme originali;
+- c) le informazioni nella casella 11 relative alla forma e al numero del documento di esportazione sono indicate solo se così richiesto dalla legislazione nazionale della Parte esportatrice;
+- d) i certificati di circolazione devono recare un numero di serie o un codice che permetta di identificarli; e
+- e) i certificati di circolazione sono rilasciati in una delle lingue ufficiali delle Parti o in inglese.
+
+#### Art. 21
+
+**Rilascio a posteriori del certificato di circolazione EUR.1**
+
+<sup>1.</sup>
+
+In deroga all’articolo 20, paragrafo 8, il certificato di circolazione EUR.1 può essere rilasciato dopo l’esportazione dei prodotti cui si riferisce se:
+
+- a) non è stato rilasciato al momento dell’esportazione a causa di errori, omissioni involontarie o circostanze particolari;
+- b) viene fornita alle autorità doganali una prova soddisfacente del fatto che un certificato di circolazione EUR.1 è stato rilasciato, ma non è stato accettato all’importazione per motivi tecnici;
+- c) la destinazione finale dei prodotti in questione non era nota al momento dell’esportazione ed è stata determinata durante il loro trasporto o magazzinaggio e dopo l’eventuale frazionamento della spedizione conformemente all’articolo 14, paragrafo 3;
+- d) è stato rilasciato un certificato di circolazione EUR.1 o EUR.MED conformemente alle norme della Convenzione PEM per prodotti che sono originari anche conformemente al presente Protocollo. L’esportatore prende tutte le misure necessarie per garantire che le condizioni di applicazione del cumulo siano soddisfatte ed essere pronto a presentare alle autorità doganali tutti i documenti pertinenti che dimostrino che il prodotto è originario ai sensi del presente Protocollo; oppure
+- e) è stato rilasciato un certificato di circolazione EUR.1 sulla base dell’applicazione dell’articolo 8, paragrafo 5, e l’applicazione dell’articolo 8, paragrafo 4, è richiesta all’importazione in un’altra Parte contraente applicatrice.
+
+<sup>2.</sup> Ai fini dell’applicazione del paragrafo 1, l’esportatore deve indicare nella sua domanda il luogo e la data di spedizione dei prodotti cui si riferisce il certificato di circolazione EUR.1, nonché i motivi della sua richiesta.
+
+<sup>3.</sup> Le autorità doganali possono rilasciare a posteriori un certificato EUR.1 entro due anni dalla data di esportazione e solo dopo aver verificato che le indicazioni contenute nella domanda dell’esportatore sono conformi a quelle della pratica corrispondente.
+
+<sup>4.</sup> In deroga all’articolo 20, paragrafo 3, i certificati di circolazione EUR.1 rilasciati a posteriori devono recare la seguente dicitura in inglese: «ISSUED RETROSPECTIVELY»
+
+<sup>5.</sup> La dicitura di cui al paragrafo 4 deve figurare nella casella 7 del certificato di circolazione EUR.1.
+
+#### Art. 22
+
+**Rilascio di duplicati del certificato di circolazione EUR.1**
+
+<sup>1.</sup> In caso di furto, perdita o distruzione di un certificato di circolazione EUR.1, l’esportatore può richiedere alle autorità doganali che l’hanno rilasciato un duplicato, compilato sulla base dei documenti d’esportazione in loro possesso.
+
+<sup>2.</sup> In deroga all’articolo 20, paragrafo 3, il duplicato rilasciato a norma del paragrafo 1 deve recare la seguente dicitura: «DUPLICATE»
+
+<sup>3.</sup> La dicitura di cui al paragrafo 2 deve figurare nella casella 7 del duplicato del certificato di circolazione EUR.1.
+
+<sup>4.</sup> Il duplicato, sul quale deve figurare la data di rilascio del certificato di circolazione EUR.1 originale, è valido a decorrere da tale data.
+
+#### Art. 23
+
+**Validità della prova dell’origine**
+
+<sup>1.</sup> La prova dell’origine ha una validità di dieci mesi dalla data di rilascio o di compilazione nella Parte esportatrice e dev’essere presentata entro tale termine alle autorità doganali della Parte importatrice.
+
+<sup>2.</sup> Le prove dell’origine presentate alle autorità doganali della Parte importatrice dopo la scadenza del periodo di validità di cui al paragrafo 1 possono essere accettate, ai fini dell’applicazione del trattamento preferenziale, quando l’inosservanza del termine è dovuta a circostanze eccezionali.
+
+<sup>3.</sup> Negli altri casi di presentazione tardiva le autorità doganali della Parte importatrice possono accettare le prove dell’origine se i prodotti sono stati presentati prima della scadenza di tale termine.
+
+#### Art. 24
+
+**Zone franche**
+
+<sup>1.</sup> Le Parti prendono tutte le misure necessarie per evitare che i prodotti scambiati sotto la scorta di una prova dell’origine che sostano durante il trasporto in una zona franca situata nel loro territorio siano oggetto di sostituzioni o di trasformazioni diverse dalle normali operazioni destinate a evitarne il deterioramento.
+
+<sup>2.</sup> In deroga al paragrafo 1, qualora prodotti originari di una Parte o di un Paese menzionato nell’allegato VIII importati in una zona franca sotto la scorta di una prova dell’origine siano oggetto di lavorazioni o trasformazioni, è possibile rilasciare o compilare una nuova prova dell’origine se la lavorazione o la trasformazione subita è conforme alle disposizioni del presente Protocollo.
+
+#### Art. 25
+
+**Requisiti per l’importazione**
+
+Le prove dell’origine sono presentate alle autorità doganali della Parte importatrice conformemente alle procedure applicabili in tale Parte.
+
+#### Art. 26
+
+**Importazioni con spedizioni scaglionate**
+
+Quando, su richiesta dell’importatore e alle condizioni stabilite dalle autorità doganali della Parte importatrice, vengono importati con spedizioni scaglionate prodotti smontati o non assemblati ai sensi della regola generale 2, lettera a), per l’interpretazione del sistema armonizzato, di cui alle sezioni XVI e XVII o alle voci 7308 e 9406, per tali prodotti viene presentata alle autorità doganali un’unica prova dell’origine al momento dell’importazione della prima spedizione parziale.
+
+#### Art. 27
+
+**Esonero dalla prova dell’origine**
+
+<sup>1.</sup> Sono ammessi come prodotti originari, senza che occorra presentare una prova dell’origine, i prodotti oggetto di piccole spedizioni da privati a privati o contenuti nei bagagli personali dei viaggiatori, purché si tratti di importazioni prive di qualsiasi carattere commerciale e i prodotti siano stati dichiarati rispondenti ai requisiti del presente Protocollo e laddove non sussistano dubbi circa la veridicità di tale dichiarazione.
+
+<sup>2.</sup>
+
+Si considerano prive di qualsiasi carattere commerciale le importazioni che soddisfano tutte le condizioni seguenti:
+
+- a) le importazioni presentano un carattere occasionale;
+- b) le importazioni riguardano esclusivamente prodotti riservati all’uso personale dei destinatari, dei viaggiatori o dei loro familiari; e
+- c) per loro natura e quantità esse consentono di escludere ogni fine commerciale.
+
+<sup>3.</sup> Inoltre, il valore complessivo dei prodotti non deve superare i 500 EUR se si tratta di piccole spedizioni, oppure i 1 200 EUR se si tratta del contenuto dei bagagli personali dei viaggiatori.
+
+#### Art. 28
+
+**Discordanze ed errori formali**
+
+<sup>1.</sup> La constatazione di lievi discordanze tra le diciture che figurano sulla prova dell’origine e quelle contenute nei documenti presentati all’ufficio doganale per l’espletamento delle formalità d’importazione dei prodotti non comporta di per sé l’invalidità della prova dell’origine se viene regolarmente accertato che tale documento corrisponde ai prodotti presentati.
+
+<sup>2.</sup> In caso di errori formali evidenti, come errori di battitura, sulla prova dell’origine, i documenti di cui al paragrafo 1 non vengono respinti se gli errori non sono tali da destare dubbi sulla correttezza delle indicazioni in essi riportate.
+
+#### Art. 29
+
+**Dichiarazione del fornitore**
+
+<sup>1.</sup> Quando viene rilasciato un certificato di circolazione EUR.1 o viene compilata una dichiarazione di origine in una Parte per prodotti originari nella cui fabbricazione sono state impiegate merci provenienti dall’altra Parte o da un Paese menzionato nell’allegato VIII, che sono state sottoposte a lavorazione o trasformazione in tali Parti senza avere acquisito il carattere originario a titolo preferenziale a norma dell’articolo 7, paragrafi 3 o 4, si prende in considerazione la dichiarazione del fornitore compilata per dette merci conformemente al presente articolo.
+
+<sup>2.</sup> La dichiarazione del fornitore di cui al paragrafo 1 costituisce la prova della lavorazione o trasformazione a cui le merci in questione sono state sottoposte in una Parte o in qualsiasi Paese menzionato nell’allegato VIII al fine di stabilire se i prodotti nella cui produzione sono state utilizzate dette merci si possano considerare originari della Parte esportatrice e soddisfino gli altri obblighi del presente Protocollo.
+
+<sup>3.</sup> Il fornitore compila, tranne nei casi di cui al paragrafo 4, una dichiarazione del fornitore distinta per ciascuna spedizione di merci, nella forma specificata all’allegato VI, su un foglio di carta allegato alla fattura, alla bolla di consegna o a qualsiasi altro documento commerciale che descriva le merci in questione in maniera abbastanza dettagliata da consentirne l’identificazione.
+
+<sup>4.</sup> Quando un fornitore rifornisce regolarmente un particolare cliente di merci per le quali si prevede che la lavorazione o la trasformazione subita in una Parte o in qualsiasi Paese menzionato nell’allegato VIII rimanga costante per lunghi periodi di tempo, può presentare un’unica dichiarazione del fornitore («dichiarazione a lungo termine del fornitore») valida anche per le successive spedizioni. Di regola, la dichiarazione a lungo termine del fornitore può essere valida per un periodo massimo di due anni dalla data in cui è stata compilata. Le autorità doganali della Parte o del Paese menzionato nell’allegato VIII in cui è compilata la dichiarazione stabiliscono le condizioni necessarie per accettare periodi più lunghi. La dichiarazione a lungo termine del fornitore è compilata dal fornitore stesso nella forma stabilita nell’allegato VII e descrive le merci in modo sufficientemente dettagliato da consentirne l’identificazione. Essa viene fornita al cliente anteriormente o contestualmente alla prima spedizione delle merci coperte da detta dichiarazione. Il fornitore informa immediatamente il cliente se la dichiarazione a lungo termine del fornitore non è più applicabile alle merci fornite.
+
+<sup>5.</sup> Le dichiarazioni del fornitore di cui ai paragrafi 3 e 4 sono dattiloscritte o stampate in una delle lingue dell’accordo, conformemente al diritto interno della Parte contraente applicatrice in cui è compilata la dichiarazione, e recano la firma originale manoscritta del fornitore. La dichiarazione può anche essere manoscritta; in tal caso è redatta con inchiostro e in stampatello.
+
+<sup>6.</sup> Il fornitore che compila una dichiarazione deve poter presentare in qualsiasi momento, su richiesta delle autorità doganali della Parte o del Paese menzionato nell’allegato VIII in cui è compilata la dichiarazione, tutti i documenti atti a comprovare l’esattezza delle informazioni fornite in detta dichiarazione.
+
+#### Art. 30
+
+**Importi espressi in euro**
+
+<sup>1.</sup> Ai fini dell’applicazione dell’articolo 18, paragrafo 1, lettera b), e dell’articolo 27, paragrafo 3, nei casi in cui i prodotti vengano fatturati in una moneta diversa dall’euro, gli importi nelle monete nazionali di una Parte equivalenti a quelli espressi in euro sono fissati ogni anno da tale Parte.
+
+<sup>2.</sup> Una spedizione beneficia delle disposizioni dell’articolo 18, paragrafo 1, lettera b), o dell’articolo 27, paragrafo 3, in base alla moneta utilizzata nella fattura, in funzione dell’importo fissato dalla Parte interessata.
+
+<sup>3.</sup> Gli importi da utilizzare in una determinata moneta nazionale sono il controvalore in questa moneta nazionale degli importi espressi in euro al primo giorno lavorativo del mese di ottobre e si applicano dal 1° gennaio dell’anno successivo. Le Parti si comunicano reciprocamente gli importi in questione.
+
+<sup>4.</sup> Una Parte può arrotondare per eccesso o per difetto l’importo risultante dalla conversione nella moneta nazionale di un importo espresso in euro. L’importo arrotondato non può differire di più del 5 per cento dal risultato della conversione. Una Parte può lasciare invariato il controvalore nella moneta nazionale di un importo espresso in euro se, all’atto dell’adeguamento annuale di cui al paragrafo 3, la conversione dell’importo, prima di qualsiasi arrotondamento, si traduce in un aumento inferiore al 15 per cento del controvalore nella moneta nazionale. Il controvalore in moneta nazionale può restare invariato se la conversione dà luogo a una diminuzione del controvalore stesso.
+
+<sup>5.</sup> Gli importi espressi in euro vengono riveduti dal comitato misto su richiesta di una delle Parti. Nel procedere a detta revisione, il comitato misto tiene conto dell’opportunità di preservare in termini reali gli effetti dei valori limite stabiliti. A tal fine, esso può decidere di modificare gli importi espressi in euro.
+
+## Titolo VI Principi di cooperazione e prove documentali
+
+#### Art. 31
+
+**Prove documentali, conservazione delle prove dell’origine e dei documenti giustificativi**
+
+<sup>1.</sup> Un esportatore che ha compilato una dichiarazione di origine o ha richiesto un certificato di circolazione EUR.1 deve conservare una copia cartacea o una versione elettronica di tali prove dell’origine e di tutti i documenti giustificativi del carattere originario del prodotto per almeno tre anni dalla data di rilascio o di compilazione della dichiarazione di origine.
+
+<sup>2.</sup> Il fornitore che compila una dichiarazione del fornitore deve conservare per almeno tre anni una copia di tale dichiarazione, di tutte le fatture e le bolle di consegna e di qualsiasi altro documento commerciale a cui è acclusa la dichiarazione, nonché dei documenti di cui all’articolo 29, paragrafo 6.
+
+Il fornitore che compila una dichiarazione a lungo termine del fornitore deve conservare per almeno tre anni una copia di tale dichiarazione, della fattura, delle bolle di consegna e di qualsiasi altro documento commerciale relativo alle merci coperte dalla dichiarazione e inviato al cliente in questione nonché i documenti di cui all’articolo 29, paragrafo 6. Detto periodo ha inizio alla data di scadenza di validità della dichiarazione a lungo termine del fornitore.
+
+<sup>3.</sup>
+
+Ai fini del paragrafo 1 i documenti giustificativi del carattere originario includono, tra l’altro:
+
+- a) una prova diretta dei processi svolti dall’esportatore o dal fornitore per ottenere le merci in questione, contenuta per esempio nella sua contabilità interna;
+- b) documenti comprovanti il carattere originario dei materiali utilizzati, rilasciati o compilati nella Parte o nel Paese menzionato nell’allegato VIII interessato, conformemente al suo diritto interno;
+- c) documenti comprovanti la lavorazione o la trasformazione di cui sono stati oggetto i materiali nella Parte o nel Paese menzionato nell’allegato VIII interessato, compilati o rilasciati in tale Parte o Paese, conformemente al diritto interno;
+- d) dichiarazioni di origine o certificati di circolazione EUR.1 comprovanti il carattere originario dei materiali utilizzati, rilasciati o compilati in una Parte in conformità del presente Protocollo;
+- e) prove sufficienti relative alla lavorazione o alla trasformazione effettuata al di fuori delle Parti in applicazione degli articoli 13 e 14 da cui risulti che sono stati soddisfatti i requisiti di tali articoli.
+
+<sup>4.</sup> Le autorità doganali della Parte esportatrice che rilasciano certificati di circolazione EUR.1 devono conservare per almeno tre anni il formulario di richiesta di cui all’articolo 20, paragrafo 2.
+
+<sup>5.</sup> Le autorità doganali della Parte importatrice devono conservare per almeno tre anni le dichiarazioni di origine e i certificati di circolazione EUR.1 loro presentati.
+
+<sup>6.</sup> Le dichiarazioni del fornitore comprovanti la lavorazione o la trasformazione di cui sono stati oggetto in una Parte o in qualsiasi Paese menzionato nell’allegato VIII i materiali utilizzati, compilate in tale Parte o Paese, sono considerate uno dei documenti di cui all’articolo 18, paragrafo 3, all’articolo 20, paragrafo 4, e all’articolo 29, paragrafo 6, utilizzati per attestare che i prodotti contemplati da un certificato di circolazione EUR.1 o da una dichiarazione di origine possono essere considerati prodotti originari di tale Parte o Paese menzionato nell’allegato VIII e soddisfano gli altri obblighi stabiliti dal presente Protocollo.
+
+#### Art. 32
+
+**Composizione delle controversie**
+
+Le controversie riguardanti le procedure di controllo di cui agli articoli 34 e 35 o relative all’interpretazione del presente Protocollo che non sia possibile dirimere tra le autorità doganali che richiedono il controllo e le autorità doganali incaricate di effettuarlo vengono sottoposte al comitato misto.
+
+La composizione delle controversie tra l’importatore e le autorità doganali della Parte importatrice è comunque soggetta alla legislazione di tale Paese.
+
+## Titolo VII Cooperazione amministrativa
+
+#### Art. 33
+
+**Notifica e cooperazione**
+
+<sup>1.</sup> Le autorità doganali delle Parti si comunicano a vicenda il fac-simile dell’impronta dei timbri utilizzati nei loro uffici doganali per il rilascio dei certificati di circolazione EUR.1, con i modelli dei numeri di autorizzazione rilasciati agli esportatori autorizzati e l’indirizzo delle autorità doganali competenti per il controllo di detti certificati e delle dichiarazioni di origine.
+
+<sup>2.</sup> Al fine di garantire la corretta applicazione del presente Protocollo, le Parti si prestano reciproca assistenza, mediante le autorità doganali competenti, nel controllo dell’autenticità dei certificati di circolazione EUR.1, delle dichiarazioni di origine, delle dichiarazioni del fornitore e della correttezza delle informazioni riportate in tali documenti.
+
+#### Art. 34
+
+**Controllo delle prove dell’origine**
+
+<sup>1.</sup> Il controllo a posteriori delle prove dell’origine è effettuato per sondaggio o ogniqualvolta le autorità doganali della Parte importatrice abbiano validi motivi di dubitare dell’autenticità dei documenti, del carattere originario dei prodotti in questione o dell’osservanza degli altri requisiti del presente Protocollo.
+
+<sup>2.</sup> Quando presentano una domanda di controllo a posteriori, le autorità doganali della Parte importatrice rispediscono alle autorità doganali della Parte esportatrice il certificato di circolazione EUR.1 e la fattura, se è stata presentata, la dichiarazione di origine, ovvero una copia di questi documenti, indicando, se del caso, i motivi che giustificano la richiesta di controllo. A corredo della richiesta di controllo a posteriori devono essere inviati tutti i documenti e le informazioni ottenute che facciano sospettare la presenza di inesattezze nelle informazioni relative alla prova dell’origine.
+
+<sup>3.</sup> Il controllo viene effettuato dalle autorità doganali della Parte esportatrice. A tal fine, esse hanno la facoltà di richiedere qualsiasi prova e di procedere a qualsiasi controllo dei conti dell’esportatore nonché a tutte le altre verifiche che ritengano opportune.
+
+<sup>4.</sup> Qualora le autorità doganali della Parte importatrice decidano di sospendere la concessione del trattamento preferenziale ai prodotti in questione in attesa dei risultati del controllo, esse offrono all’importatore la possibilità di svincolare i prodotti, riservandosi di applicare le misure cautelari ritenute necessarie.
+
+<sup>5.</sup> I risultati del controllo devono essere comunicati al più presto alle autorità doganali che lo hanno richiesto, indicando chiaramente se i documenti sono autentici, se i prodotti in questione possono essere considerati originari di una delle Parti e se soddisfano gli altri requisiti del presente Protocollo.
+
+<sup>6.</sup> Qualora, in caso di ragionevole dubbio, non sia pervenuta alcuna risposta entro dieci mesi dalla data della richiesta di controllo o qualora la risposta non contenga informazioni sufficienti per determinare l’autenticità del documento in questione o l’effettiva origine dei prodotti, le autorità doganali che hanno richiesto il controllo li escludono dal trattamento preferenziale, salvo circostanze eccezionali.
+
+#### Art. 35
+
+**Controllo delle dichiarazioni del fornitore**
+
+<sup>1.</sup> Il controllo a posteriori delle dichiarazioni del fornitore, comprese le dichiarazioni a lungo termine del fornitore, può essere effettuato per sondaggio o ogniqualvolta le autorità doganali di una Parte in cui dette dichiarazioni sono state prese in considerazione ai fini del rilascio del certificato di circolazione EUR.1 o della compilazione della dichiarazione di origine nutrano ragionevoli dubbi sull’autenticità del documento o sull’esattezza delle informazioni ivi riportate.
+
+<sup>2.</sup> Ai fini dell’applicazione delle disposizioni del paragrafo 1, le autorità doganali della Parte di cui al paragrafo 1 rispediscono la dichiarazione del fornitore, la dichiarazione a lungo termine del fornitore e le fatture, le bolle di consegna e gli altri documenti commerciali riguardanti le merci contemplate dalla dichiarazione alle autorità doganali dell’altra Parte o del Paese menzionato nell’allegato VIII in cui è stata compilata la dichiarazione indicando, se del caso, i motivi di sostanza o di forma che giustificano una richiesta di controllo.
+
+A corredo della richiesta di controllo a posteriori sono inviati tutti i documenti e le informazioni ottenute che facciano sospettare la presenza di inesattezze nella dichiarazione del fornitore o nella dichiarazione a lungo termine del fornitore.
+
+<sup>3.</sup> Il controllo viene effettuato dall’autorità doganale della Parte o del Paese menzionato nell’allegato VIII in cui è stata compilata la dichiarazione del fornitore o la dichiarazione a lungo termine del fornitore. A tale scopo essa ha il diritto di chiedere qualsiasi elemento di prova e di procedere a qualsiasi verifica dei conti del fornitore o ad ogni altro controllo che ritenga utile.
+
+<sup>4.</sup> I risultati del controllo devono essere comunicati al più presto alle autorità doganali che lo hanno richiesto. Essi indicano chiaramente se le informazioni che figurano nella dichiarazione del fornitore o nella dichiarazione a lungo termine del fornitore sono esatte e consentono di stabilire se e in quale misura detta dichiarazione possa essere presa in considerazione per rilasciare un certificato di circolazione EUR.1 o compilare una dichiarazione di origine.
+
+#### Art. 36
+
+**Sanzioni**
+
+Ciascuna Parte prevede l’applicazione di sanzioni penali, civili o amministrative per violazioni della propria legislazione nazionale in relazione al presente Protocollo.
+
+## Titolo VIII Applicazione del Protocollo n. 3
+
+#### Art. 37
+
+**Spazio economico europeo**
+
+Le merci originarie dello Spazio economico europeo (SEE) ai sensi del Protocollo n. 4 dell’Accordo sullo Spazio economico europeo, concluso il 17 marzo 1993 a Bruxelles, sono considerate originarie dell’Unione europea, dell’Islanda, del Liechtenstein o della Norvegia (le «Parti contraenti dello SEE») se esportate rispettivamente dall’Unione europea, dall’Islanda, dal Liechtenstein o dalla Norvegia in Svizzera, a condizione che gli accordi commerciali preferenziali di cui all’articolo 8 siano applicabili tra ogni Parte e le Parti contraenti dello SEE.
+
+#### Art. 38
+
+**Liechtenstein**
+
+Fatto salvo l’articolo 2, in considerazione dell’unione doganale tra il Liechtenstein e la Svizzera, i prodotti originari del Liechtenstein sono considerati originari della Svizzera.
+
+#### Art. 39
+
+**Repubblica di San Marino**
+
+Fatto salvo l’articolo 2, in considerazione dell’unione doganale tra l’Unione europea e la Repubblica di San Marino, i prodotti originari della Repubblica di San Marino sono considerati originari dell’Unione europea.
+
+#### Art. 40
+
+**Principato di Andorra**
+
+Fatto salvo l’articolo 2, in considerazione dell’unione doganale tra l’Unione europea e il Principato di Andorra, i prodotti originari del Principato di Andorra classificati nei capitoli da 25 a 97 del sistema armonizzato sono considerati originari dell’Unione europea.
+
+#### Art. 41
+
+**Ceuta e Melilla**
+
+<sup>1.</sup> Ai fini dell’attuazione del presente Protocollo, il termine «Unione europea» non comprende Ceuta e Melilla.
+
+<sup>2.</sup> I prodotti originari della Svizzera importati a Ceuta o a Melilla beneficiano sotto ogni aspetto del regime doganale applicato ai prodotti originari del territorio doganale dell’Unione europea, ai sensi del Protocollo n. 2 dell’atto di adesione alle Comunità europee del Regno di Spagna e della Repubblica portoghese e degli adattamenti ai trattati[^annexu1-titVIII-41-1]. Le Parti riconoscono alle importazioni dei prodotti contemplati dal presente Accordo e originari di Ceuta e Melilla lo stesso regime doganale riconosciuto ai prodotti importati provenienti dall’Unione europea e originari dell’Unione europea.
+
+<sup>3.</sup> Ai fini dell’applicazione del paragrafo 2, per quanto riguarda i prodotti originari di Ceuta e Melilla, il presente Protocollo si applica, *mutatis mutandis*, fatte salve le condizioni particolari di cui all’allegato V.
+
+[^annexu1-titVIII-41-1]: GU L 302 del 15.11.1985, pag. 23.
+
+#### Art. 42
+
+**Prodotti in transito o in deposito**
+
+Le disposizioni del presente allegato possono essere applicate ai prodotti che, alla data dell’applicazione provvisoria o, se anteriore, a quella dell’entrata in vigore della decisione n. 2/2021 del comitato misto commerciale Regno Unito‒Svizzera si trovano in transito o sotto sorveglianza doganale in un deposito doganale o in una zona franca. Per tali prodotti la prova dell’origine può essere fornita retroattivamente fino a due anni dopo la data dell’applicazione provvisoria di tale decisione, purché siano state rispettate le disposizioni del presente Protocollo e in particolare l’articolo 14.
 
 Allegato I
 
@@ -491,7 +1153,6 @@ Nota 9 - Definizione dei trattamenti specifici e delle operazioni effettuati in 
   - – Modifica della dimensione delle particelle: la modifica deliberata e controllata della dimensione delle particelle di un prodotto, con modalità diverse dalla semplice spremitura o pigiatura, che produce un prodotto con una determinata dimensione delle particelle, una determinata distribuzione delle dimensioni delle particelle o una superficie definita che è rilevante ai fini del prodotto e con caratteristiche fisiche o chimiche diverse da quelle delle materie prime è considerata un’operazione che conferisce l’origine.
   - – Materiali standard: i materiali standard (comprese le soluzioni standard) sono preparati adatti all’uso nell’analisi, nella calibratura o nella referenziazione con precisi gradi di purezza o proporzioni certificati dal produttore. La produzione di materiali standard è considerata un’operazione che conferisce l’origine.
   - – Separazione di isomeri: l’isolamento o la separazione di isomeri da una miscela di isomeri è considerata un’operazione che conferisce l’origine.
-  - [tab]
 
 Allegato II
 
@@ -776,8 +1437,6 @@ Allegato II
 <tr><td colspan="3"><sup>4)</sup> Cfr. nota introduttiva 9.</td></tr>
 </table>
 
-- [tab]
-
 Allegato III
 
 ## Testo della dichiarazione di origine
@@ -786,7 +1445,7 @@ La dichiarazione di origine, il cui testo è riportato qui di seguito, deve esse
 
 Versione inglese
 
-The exporter of the products covered by this document (customs authorization No……… <sup>(1)</sup>) declares that, except where otherwise clearly indicated, these products are of …………….. <sup>(2)</sup> preferential origin.
+The exporter of the products covered by this document (customs authorisation No……… <sup>(1)</sup>) declares that, except where otherwise clearly indicated, these products are of …………….. <sup>(2)</sup> preferential origin.
 
 Versione francese
 
@@ -813,19 +1472,17 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Certificato di circolazione delle merci Eur. 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/it/xml/image/image1.png)
 
 ## Note
 
-\1. Il certificato non deve presentare né raschiature né correzioni sovrapposte. Le modifiche apportatevi devono essere effettuate cancellando le indicazioni errate ed aggiungendo, se del caso, quelle volute. Ogni modifica così apportata deve essere siglata da chi ha compilato il certificato e vistata dalle autorità doganali del Paese o territorio in cui il certificato è rilasciato.
-
-\2. Fra gli articoli indicati nel certificato non devono essere lasciate linee in bianco ed ogni articolo deve essere preceduto da un numero d’ordine. Immediatamente dopo l’ultima trascrizione deve essere tracciata una riga orizzontale. Gli spazi non utilizzati devono essere sbarrati in modo da rendere impossibile ogni ulteriore aggiunta.
-
-\3. Le merci devono essere descritte secondo gli usi commerciali e con sufficiente precisione per permetterne l’identificazione.
+- 1. Il certificato non deve presentare né raschiature né correzioni sovrapposte. Le modifiche apportatevi devono essere effettuate cancellando le indicazioni errate ed aggiungendo, se del caso, quelle volute. Ogni modifica così apportata deve essere siglata da chi ha compilato il certificato e vistata dalle autorità doganali del Paese o territorio in cui il certificato è rilasciato.
+- 2. Fra gli articoli indicati nel certificato non devono essere lasciate linee in bianco ed ogni articolo deve essere preceduto da un numero d’ordine. Immediatamente dopo l’ultima trascrizione deve essere tracciata una riga orizzontale. Gli spazi non utilizzati devono essere sbarrati in modo da rendere impossibile ogni ulteriore aggiunta.
+- 3. Le merci devono essere descritte secondo gli usi commerciali e con sufficiente precisione per permetterne l’identificazione.
 
 ## Domanda di certificato di circolazione delle merci EUR. 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/it/xml/image/image3.png)
 
 Allegato IV
 
@@ -836,7 +1493,7 @@ Allegato IV
 - 1\. Il certificato deve avere un formato di mm 210 × 297; è ammessa una tolleranza di 5 mm in meno o di 8 mm in più sulla lunghezza. La carta da usare è carta collata bianca per scritture, non contenente pasta meccanica, del peso minimo di 25 g/m<sup>2</sup>. Il certificato deve essere stampato con un fondo arabescato di colore verde in modo da fare risaltare qualsiasi falsificazione eseguita con mezzi meccanici o chimici.
 - 2\. Le autorità pubbliche delle Parti possono riservarsi la stampa di certificati o affidare il compito a tipografie da esse autorizzate. In quest’ultimo caso, su ciascun certificato deve essere indicata tale autorizzazione. Ogni certificato deve recare il nome e l’indirizzo della tipografia oppure un contrassegno che ne permette l’identificazione. Il certificato deve recare inoltre un numero di serie, stampato o meno, destinato a contraddistinguerlo.
 
-## Dichiarazione dell’esportatore
+### Dichiarazione dell’esportatore
 
 Il sottoscritto, esportatore delle merci descritte a fronte,
 
@@ -1000,7 +1657,7 @@ Allegato VIII
 - 7\. Repubblica Libanese
 - 8\. Regno del Marocco
 - 9\. Regno di Norvegia
-- 10\. Organizzazione per la Liberazione della Palestina a favore dell’Autorità Nazionale Palestinese della [Cisgiordania](https://it.wikipedia.org/wiki/Cisgiordania) e della Striscia di Gaza
+- 10\. Organizzazione per la Liberazione della Palestina a favore dell’Autorità Nazionale Palestinese della Cisgiordania e della Striscia di Gaza
 - 11\. Repubblica Araba Siriana
 - 12\. Repubblica Tunisina
 - 13\. Repubblica di Turchia
@@ -1037,7 +1694,7 @@ Ai fini del presente Accordo, l’Accordo sugli appalti pubblici[^annex2-lvlu1-1
 
 \5. Il seguente allegato XI è inserito dopo l’allegato X:
 
-[^annex2-lvlu1-1]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^annex2-lvlu1-1]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
 
 «Allegato XI
 
@@ -1070,7 +1727,7 @@ Ai fini del presente Accordo, l’Accordo sul reciproco riconoscimento[^annex3-l
 
 ### «**Art. 12**Scambio di informazioni
 
-[^annex3-lvlu1-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^annex3-lvlu1-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 \1. Le Parti si scambiano ogni informazione utile relativa all’attuazione e all’applicazione delle disposizioni legislative, regolamentari e amministrative di cui all’Allegato 1.
 
@@ -1135,7 +1792,7 @@ Allegato 4[^t-3]
 
 ## Modifiche all’Accordo agricolo
 
-[^t-3]: Aggiornato dalle Dec. n. 1/2021 del Comitato misto Svizzera–Regno Unito per l’agricoltura del 1° gen. 2021 ([RU 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)) e n. 1/2022 del Comitato misto Svizzera – Regno Unito per l’agricoltura concernente del 21 giu. 2022, in vigore dal 31 dic. 2022 ([RU 2022 712](https://fedlex.data.admin.ch/eli/oc/2022/712)).
+[^t-3]: Aggiornato dalle Dec. n. 1/2021 del Comitato misto Svizzera–Regno Unito per l’agricoltura del 1° gen. 2021 ([RU 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)), n. 1/2022 del Comitato misto Svizzera – Regno Unito per l’agricoltura del 21 giu. 2022 ([RU 2022 712](https://fedlex.data.admin.ch/eli/oc/2022/712)) e n. 1/2024 del Comitato misto Svizzera–Regno Unito per l’agricoltura del 17 dic. 2024, in vigore dal 31 dic. 2024 ([RU 2024 793](https://fedlex.data.admin.ch/eli/oc/2024/793)).
 
 Ai fini del presente Accordo l’Accordo agricolo[^annex4-lvlu1-1] incorporato è modificato come segue:
 
@@ -1176,7 +1833,7 @@ Ai fini del presente Accordo l’Accordo agricolo[^annex4-lvlu1-1] incorporato �
 
 ### «**Art. 8**Denominazioni omonime
 
-[^annex4-lvlu1-1]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^annex4-lvlu1-1]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 
 (1) Se le indicazioni geografiche che figurano all’appendice I sono omonime, la protezione è concessa a ciascuna di esse, a condizione che siano usate in buona fede e che, nel rispetto delle condizioni pratiche d’uso fissate dalle Parti nell’ambito del comitato, sia garantito un trattamento equo dei produttori interessati e i consumatori non siano indotti in errore;
 
@@ -1220,56 +1877,56 @@ La Svizzera accorda, per i prodotti originari del Regno Unito, le seguenti conce
 <tr><td>ex 0409 00 00</td><td>Miele naturale di acacia</td><td>8</td><td>11</td></tr>
 <tr><td>ex 0409 00 00</td><td>Miele naturale diverso da quello di acacia</td><td>26</td><td>3</td></tr>
 <tr><td>0602 10 00</td><td>Talee senza radici e marze</td><td>esente</td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>Piantimi in forma di portinnesto di frutta a granella (ottenuti da semi o da moltiplicazione vegetativa):</td><td>esente</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Piantimi in forma di portinnesto di frutta a granella (ottenuti da semi o da moltiplicazione vegetativa):</td><td>esente</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 11</td><td>– innestati, con radici nude</td><td></td><td></td></tr>
 <tr><td>0602 20 19</td><td>– innestati, con zolla</td><td></td><td></td></tr>
 <tr><td>0602 20 21</td><td>– non innestati, con radici nude</td><td></td><td></td></tr>
 <tr><td>0602 20 29</td><td>– non innestati, con zolla</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Piantimi in forma di portinnesto di frutta a nocciolo (ottenuti da semi o da moltiplicazione vegetativa):</td><td>esente</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Piantimi in forma di portinnesto di frutta a nocciolo (ottenuti da semi o da moltiplicazione vegetativa):</td><td>esente</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 31</td><td>– innestati, con radici nude</td><td></td><td></td></tr>
 <tr><td>0602 20 39</td><td>– innestati, con zolla</td><td></td><td></td></tr>
 <tr><td>0602 20 41</td><td>– non innestati, con radici nude</td><td></td><td></td></tr>
 <tr><td>0602 20 49</td><td>– non innestati, con zolla</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Piantimi diversi da quelli in forma di portinnesto di frutta a granella o a nocciolo (ottenuti da semi o da moltiplicazione vegetativa), da frutta commestibile:</td><td>esente</td><td>illimitato</td></tr>
+<tr><td></td><td>Piantimi diversi da quelli in forma di portinnesto di frutta a granella o a nocciolo (ottenuti da semi o da moltiplicazione vegetativa), da frutta commestibile:</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0602 20 51</td><td>– con radici nude</td><td></td><td></td></tr>
 <tr><td>0602 20 59</td><td>– altri</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Alberi, arbusti, arboscelli e cespugli, da frutta commestibile, con radici nude:</td><td>esente</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Alberi, arbusti, arboscelli e cespugli, da frutta commestibile, con radici nude:</td><td>esente</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 71</td><td>– di frutta a granella</td><td></td><td></td></tr>
 <tr><td>0602 20 72</td><td>– di frutta a nocciolo</td><td></td><td></td></tr>
 <tr><td>0602 20 79</td><td>– altri</td><td>esente</td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>Alberi, arbusti, arboscelli e cespugli, da frutta commestibile, con zolla:</td><td>esente</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Alberi, arbusti, arboscelli e cespugli, da frutta commestibile, con zolla:</td><td>esente</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 81</td><td>– di frutta a granella</td><td></td><td></td></tr>
 <tr><td>0602 20 82</td><td>– di frutta a nocciolo</td><td></td><td></td></tr>
 <tr><td>0602 20 89</td><td>– altri</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0602 30 00</td><td>Rododendri e azalee, anche innestati</td><td>esente</td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>Rosai, anche innestati:</td><td>esente</td><td>illimitato</td></tr>
+<tr><td></td><td>Rosai, anche innestati:</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0602 40 10</td><td>– rosai silvestri e alberetti di rosai selvatici</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>altri:</td><td></td><td></td></tr>
+<tr><td></td><td>altri:</td><td></td><td></td></tr>
 <tr><td>0602 40 91</td><td>– con radici nude</td><td></td><td></td></tr>
 <tr><td>0602 40 99</td><td>– altri, con zolla</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Piantimi (ottenuti da semi o da moltiplicazione vegetativa) di vegetali d’utilità; bianco di funghi (micelio):</td><td>esente</td><td>illimitato</td></tr>
+<tr><td></td><td>Piantimi (ottenuti da semi o da moltiplicazione vegetativa) di vegetali d’utilità; bianco di funghi (micelio):</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0602 90 11</td><td>– piantimi di ortaggi e manti erbosi in rotoli</td><td></td><td></td></tr>
 <tr><td>0602 90 12</td><td>– bianco di funghi (micelio)</td><td></td><td></td></tr>
 <tr><td>0602 90 19</td><td>– altri</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Altre piante vive (comprese le loro radici):</td><td>esente</td><td>illimitato</td></tr>
+<tr><td></td><td>Altre piante vive (comprese le loro radici):</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0602 90 91</td><td>– con radici nude</td><td></td><td></td></tr>
 <tr><td>0602 90 99</td><td>– altre, con zolla</td><td></td><td></td></tr>
 <tr><td>0603 11 10</td><td>Rose, recise, per mazzi o per ornamento, fresche, dal 1° maggio al 25 ottobre</td><td>esente</td><td>54</td></tr>
 <tr><td>0603 12 10</td><td>Garofani, recisi, per mazzi o per ornamento, freschi, dal 1° maggio al 25 ottobre</td><td></td><td></td></tr>
 <tr><td>0603 13 10</td><td>Orchidee, recise, per mazzi o per ornamento, fresche, dal 1° maggio al 25 ottobre</td><td></td><td></td></tr>
 <tr><td>0603 14 10</td><td>Crisantemi, recisi, per mazzi o per ornamento, freschi, dal 1° maggio al 25 ottobre</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Fiori e boccioli di fiori (diversi da garofani, rose, orchidee e crisantemi), recisi, per mazzi o per ornamento, freschi, dal 1° maggio al 25 ottobre:</td><td></td><td></td></tr>
+<tr><td></td><td>Fiori e boccioli di fiori (diversi da garofani, rose, orchidee e crisantemi), recisi, per mazzi o per ornamento, freschi, dal 1° maggio al 25 ottobre:</td><td></td><td></td></tr>
 <tr><td>0603 19 11</td><td>– legnosi</td><td></td><td></td></tr>
 <tr><td>0603 19 19</td><td>– altri</td><td></td><td></td></tr>
 <tr><td>0603 12 30</td><td>Garofani, recisi, per mazzi o per ornamento, freschi, dal 26 ottobre al 30 aprile</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0603 13 30</td><td>Orchidee, recise, per mazzi o per ornamento, fresche, dal 26 ottobre al 30 aprile</td><td></td><td></td></tr>
 <tr><td>0603 14 30</td><td>Crisantemi, recisi, per mazzi o per ornamento, freschi, dal 26 ottobre al 30 aprile</td><td></td><td></td></tr>
 <tr><td>0603 19 30</td><td>Tulipani, recisi, per mazzi o per ornamento, freschi, dal 26 ottobre al 30 aprile</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Fiori e boccioli di fiori (diversi da garofani, rose, orchidee e crisantemi), recisi, per mazzi o per ornamento, freschi, dal 26 ottobre al 30 aprile:</td><td>esente</td><td>illimitato</td></tr>
+<tr><td></td><td>Fiori e boccioli di fiori (diversi da garofani, rose, orchidee e crisantemi), recisi, per mazzi o per ornamento, freschi, dal 26 ottobre al 30 aprile:</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0603 19 31</td><td>– legnosi</td><td></td><td></td></tr>
 <tr><td>0603 19 39</td><td>– altri</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Pomodori, freschi o refrigerati:</td><td>esente</td><td>537</td></tr>
-<tr><td>[tab]</td><td>– pomodori ciliegia (cherry):</td><td></td><td></td></tr>
+<tr><td></td><td>Pomodori, freschi o refrigerati:</td><td>esente</td><td>537</td></tr>
+<tr><td></td><td>– pomodori ciliegia (cherry):</td><td></td><td></td></tr>
 <tr><td>0702 00 10</td><td>– dal 21 ottobre al 30 aprile</td><td></td><td></td></tr>
 <tr><td></td><td>– pomodori peretti (di forma allungata):</td><td></td><td></td></tr>
 <tr><td>0702 00 20</td><td>– dal 21 ottobre al 30 aprile</td><td></td><td></td></tr>
@@ -1277,27 +1934,27 @@ La Svizzera accorda, per i prodotti originari del Regno Unito, le seguenti conce
 <tr><td>0702 00 30</td><td>– dal 21 ottobre al 30 aprile</td><td></td><td></td></tr>
 <tr><td></td><td>– altri:</td><td></td><td></td></tr>
 <tr><td>0702 00 90</td><td>– dal 21 ottobre al 30 aprile</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Lattuga iceberg, senza corona:</td><td>esente</td><td>107</td></tr>
+<tr><td></td><td>Lattuga iceberg, senza corona:</td><td>esente</td><td>107</td></tr>
 <tr><td>0705 11 11</td><td>– dal 1° gennaio alla fine di febbraio</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Cicorie Witloofs, fresche o refrigerate:</td><td>esente</td><td>107</td></tr>
+<tr><td></td><td>Cicorie Witloofs, fresche o refrigerate:</td><td>esente</td><td>107</td></tr>
 <tr><td>0705 21 10</td><td>– dal 21 maggio al 30 settembre</td><td></td><td></td></tr>
 <tr><td>0707 00 10</td><td>Cetrioli per insalata, dal 21 ottobre al 14 aprile</td><td>5</td><td>11</td></tr>
 <tr><td>0707 00 30</td><td>Cetrioli per conserva, di lunghezza superiore a 6 cm ma non eccedente 12 cm, freschi o refrigerati, dal 21 ottobre al 14 aprile</td><td>5</td><td>5</td></tr>
 <tr><td>0707 00 31</td><td>Cetrioli per conserva, di lunghezza superiore a 6 cm ma non eccedente 12 cm, freschi o refrigerati, dal 15 aprile al 20 ottobre</td><td>5</td><td>113</td></tr>
 <tr><td>0707 00 50</td><td>Cetriolini, freschi o refrigerati</td><td>3,5</td><td>43</td></tr>
-<tr><td>[tab]</td><td>Melanzane, fresche o refrigerate:</td><td>esente</td><td>54</td></tr>
+<tr><td></td><td>Melanzane, fresche o refrigerate:</td><td>esente</td><td>54</td></tr>
 <tr><td>0709 30 10</td><td>– dal 16 ottobre al 31 maggio</td><td></td><td></td></tr>
 <tr><td>0709 51 00 0709 59 00</td><td>Funghi, freschi o refrigerati, del genere *Agaricus* o altri, esclusi i tartufi</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0709 60 11</td><td>Peperoni, freschi o refrigerati: dal 1° novembre al 31 marzo</td><td>2,5</td><td>illimitato</td></tr>
 <tr><td>0709 60 12</td><td>Peperoni, freschi o refrigerati, dal 1° aprile al 31 ottobre</td><td>5</td><td>70</td></tr>
-<tr><td>[tab]</td><td>Zucchine (incluse le zucchine con fiore), fresche o refrigerate:</td><td>esente</td><td>107</td></tr>
+<tr><td></td><td>Zucchine (incluse le zucchine con fiore), fresche o refrigerate:</td><td>esente</td><td>107</td></tr>
 <tr><td>0709 90 50</td><td>– dal 31 ottobre al 19 aprile</td><td></td><td></td></tr>
 <tr><td>ex 0710 80 90</td><td>Funghi, anche cotti in acqua o al vapore, congelati</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0711 90 90</td><td>Ortaggi o legumi e miscele di ortaggi o di legumi, temporaneamente conservati (p. es. con anidride solforosa o in acqua salata, solforata o addizionata di altre sostanze atte ad assicurarne temporaneamente la conservazione), ma non atti per l’alimentazione nello stato in cui sono presentati</td><td>0</td><td>8</td></tr>
 <tr><td>0712 20 00</td><td>Cipolle, secche, anche tagliate in pezzi o a fette oppure tritate o polverizzate, ma non altrimenti preparate</td><td>0</td><td>5</td></tr>
 <tr><td>0713 10 11</td><td>Piselli (*Pisum sativum*) secchi, sgranati, in grani interi, non lavorati, per l’alimentazione di animali</td><td>Riduzione di 0.90 sul dazio applicato</td><td>54</td></tr>
 <tr><td>0713 10 19</td><td>Piselli (*Pisum sativum*) secchi, sgranati, in grani interi, non lavorati (esclusi quelli per l’alimentazione di animali, per usi tecnici o per la fabbricazione della birra)</td><td>0</td><td>54</td></tr>
-<tr><td>[tab]</td><td>Nocciole (*Corylus* spp.), fresche o secche:</td><td>esente</td><td>illimitato</td></tr>
+<tr><td></td><td>Nocciole (*Corylus* spp.), fresche o secche:</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0802 21 90</td><td>– con guscio, diverse da quelle per l’alimentazione di animali o per la fabbricazione di oli</td><td></td><td></td></tr>
 <tr><td>0802 22 90</td><td>– sgusciate, diverse da quelle per l’alimentazione di animali o per la fabbricazione di oli</td><td></td><td></td></tr>
 <tr><td>0802 32 90</td><td>Noci</td><td>esente</td><td>5</td></tr>
@@ -1306,9 +1963,9 @@ La Svizzera accorda, per i prodotti originari del Regno Unito, le seguenti conce
 <tr><td>0805 20 00</td><td>Mandarini (compresi i tangerini e i satsuma); clementine, wilkings e simili ibridi di agrumi, freschi o secchi</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0807 11 00</td><td>Cocomeri, freschi</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>0807 19 00</td><td>Meloni, freschi, diversi dai cocomeri</td><td>esente</td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>Albicocche, fresche, in imballaggio aperto:</td><td>esente</td><td>113</td></tr>
+<tr><td></td><td>Albicocche, fresche, in imballaggio aperto:</td><td>esente</td><td>113</td></tr>
 <tr><td>0809 10 11</td><td>– dal 1° settembre al 30 giugno</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>in altro imballaggio:</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td></td><td>in altro imballaggio:</td><td></td><td></td></tr>
 <tr><td>0809 10 91</td><td>– dal 1° settembre al 30 giugno</td><td></td><td></td></tr>
 <tr><td>0809 40 13</td><td>Prugne fresche, in imballaggio aperto, dal 1° luglio al 30 settembre</td><td>0</td><td>32</td></tr>
 <tr><td>0810 10 10</td><td>Fragole, fresche, dal 1° settembre al 14 maggio</td><td>esente</td><td>537</td></tr>
@@ -1323,35 +1980,35 @@ La Svizzera accorda, per i prodotti originari del Regno Unito, le seguenti conce
 <tr><td>0910 20 00</td><td>Zafferano</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>1001 90 60</td><td>Frumento e frumento segalato (escluso il frumento duro), denaturati, per l’alimentazione animale</td><td>Riduzione di 0.60 sul dazio applicato</td><td>2685</td></tr>
 <tr><td>1005 90 30</td><td>Granturco per l’alimentazione animale</td><td>Riduzione di 0.50 sul dazio applicato</td><td>698</td></tr>
-<tr><td>[tab]</td><td>Olio d’oliva, vergine, non per l’alimentazione animale:</td><td></td><td></td></tr>
+<tr><td></td><td>Olio d’oliva, vergine, non per l’alimentazione animale:</td><td></td><td></td></tr>
 <tr><td>1509 10 91</td><td>– in recipienti di vetro di capacità non eccedente 2 l</td><td>60,60 <sup>(2)</sup></td><td>illimitato</td></tr>
 <tr><td>1509 10 99</td><td>– in recipienti di vetro di capacità eccedente 2 l o in altri recipienti</td><td>86,70 <sup>(2)</sup></td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>Olio di oliva e sue frazioni, anche raffinati, ma non modificati chimicamente, non per l’alimentazione animale:</td><td></td><td></td></tr>
+<tr><td></td><td>Olio di oliva e sue frazioni, anche raffinati, ma non modificati chimicamente, non per l’alimentazione animale:</td><td></td><td></td></tr>
 <tr><td>1509 90 91</td><td>– in recipienti di vetro di capacità non eccedente 2 l</td><td>60,60 <sup>(2)</sup></td><td>illimitato</td></tr>
 <tr><td>1509 90 99</td><td>– in recipienti di vetro di capacità eccedente 2 l o in altri recipienti</td><td>86,70 <sup>(2)</sup></td><td>illimitato</td></tr>
 <tr><td>ex 0210 19 91</td><td>Prosciutti, in salamoia, disossati, insaccati in vescica o in budello artificiale</td><td>esente</td><td>199</td></tr>
 <tr><td>ex 0210 19 91</td><td>Pezzo di cotoletta disossato, affumicato</td><td></td><td></td></tr>
 <tr><td>1601 00 11 1601 00 21</td><td>Salsicce, salami e prodotti simili, di carne, di frattaglie o di sangue; preparazioni alimentari a base di tali prodotti di animali delle rubriche da 0101 a 0104, esclusi i cinghiali</td><td></td><td></td></tr>
 <tr><td>ex 0210 19 91 ex 1602 49 10</td><td>Collo di maiale, seccato all’aria, insaporito o non, intero, in pezzi o a fette sottili</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Pomodori, interi o in pezzi, preparati o conservati, ma non nell’aceto o nell’acido acetico:</td><td></td><td></td></tr>
+<tr><td></td><td>Pomodori, interi o in pezzi, preparati o conservati, ma non nell’aceto o nell’acido acetico:</td><td></td><td></td></tr>
 <tr><td>2002 10 10</td><td>– in recipienti eccedenti 5 kg</td><td>2,50</td><td>illimitato</td></tr>
 <tr><td>2002 10 20</td><td>– in recipienti non eccedenti 5 kg</td><td>4,50</td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>Pomodori preparati o conservati, ma non nell’aceto o nell’acido acetico, diversi da quelli interi o in pezzi:</td><td>esente</td><td>illimitato</td></tr>
+<tr><td></td><td>Pomodori preparati o conservati, ma non nell’aceto o nell’acido acetico, diversi da quelli interi o in pezzi:</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>2002 90 10</td><td>– in recipienti eccedenti 5 kg</td><td></td><td></td></tr>
 <tr><td>2002 90 21</td><td>Polpe, puree e concentrati di pomodori, in recipienti ermeticamente chiusi, aventi tenore, in peso, di estratto secco di 25 % o più, composti di pomodori e acqua, con o senza aggiunta di sale o altre sostanze di condimento, in recipienti non eccedenti 5 kg</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>2002 90 29</td><td>Pomodori preparati o conservati, ma non nell’aceto o nell’acido acetico, diversi da quelli interi o in pezzi e diversi da polpe, puree e concentrati di pomodori:</td><td>esente</td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>– in recipienti non eccedenti 5 kg</td><td></td><td></td></tr>
+<tr><td></td><td>– in recipienti non eccedenti 5 kg</td><td></td><td></td></tr>
 <tr><td>2003 10 00</td><td>Funghi del genere *Agaricus*, preparati o conservati ma non nell’aceto o acido acetico</td><td>0</td><td>91</td></tr>
-<tr><td>[tab]</td><td>Carciofi preparati o conservati, ma non nell’aceto o nell’acido acetico, congelati, diversi dai prodotti della voce 2006:</td><td></td><td></td></tr>
+<tr><td></td><td>Carciofi preparati o conservati, ma non nell’aceto o nell’acido acetico, congelati, diversi dai prodotti della voce 2006:</td><td></td><td></td></tr>
 <tr><td>ex 2004 90 18</td><td>– in recipienti eccedenti 5 kg</td><td>17,5</td><td>illimitato</td></tr>
 <tr><td>ex 2004 90 49</td><td>– in recipienti non eccedenti 5 kg</td><td>24,5</td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>Asparagi preparati o conservati, ma non nell’aceto o nell’acido acetico, non congelati, diversi dai prodotti della voce 2006:</td><td>esente</td><td>illimitato</td></tr>
+<tr><td></td><td>Asparagi preparati o conservati, ma non nell’aceto o nell’acido acetico, non congelati, diversi dai prodotti della voce 2006:</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>2005 60 10</td><td>– in recipienti eccedenti 5 kg</td><td></td><td></td></tr>
 <tr><td>2005 60 90</td><td>– in recipienti non eccedenti 5 kg</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Olive preparate o conservate, ma non nell’aceto o nell’acido acetico, non congelate, diverse dai prodotti della voce 2006:</td><td>esente</td><td>illimitato</td></tr>
+<tr><td></td><td>Olive preparate o conservate, ma non nell’aceto o nell’acido acetico, non congelate, diverse dai prodotti della voce 2006:</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>2005 70 10</td><td>– in recipienti eccedenti 5 kg</td><td></td><td></td></tr>
 <tr><td>2005 70 90</td><td>– in recipienti non eccedenti 5 kg</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Capperi e carciofi preparati o conservati, ma non nell’aceto o nell’acido acetico, non congelati, diversi dai prodotti della voce 2006:</td><td></td><td></td></tr>
+<tr><td></td><td>Capperi e carciofi preparati o conservati, ma non nell’aceto o nell’acido acetico, non congelati, diversi dai prodotti della voce 2006:</td><td></td><td></td></tr>
 <tr><td>ex 2005 99 11</td><td>– in recipienti eccedenti 5 kg</td><td>17,5</td><td>illimitato</td></tr>
 <tr><td>ex 2005 99 41</td><td>– in recipienti non eccedenti 5 kg</td><td>24,5</td><td>illimitato</td></tr>
 <tr><td>2008 30 90</td><td>Agrumi, altrimenti preparati o conservati, con o senza aggiunta di zuccheri o di altri dolcificanti o di alcole, non nominati né compresi altrove</td><td>esente</td><td>illimitato</td></tr>
@@ -1359,10 +2016,10 @@ La Svizzera accorda, per i prodotti originari del Regno Unito, le seguenti conce
 <tr><td>2008 50 90</td><td>Albicocche, altrimenti preparate o conservate, con o senza aggiunta di zuccheri o di altri dolcificanti o di alcole, non nominate né comprese altrove</td><td>15</td><td>illimitato</td></tr>
 <tr><td>2008 70 10</td><td>Polpe di pesche, altrimenti preparate o conservate, senza aggiunta di zuccheri o di altri dolcificanti, non nominate né comprese altrove</td><td>esente</td><td>illimitato</td></tr>
 <tr><td>2008 70 90</td><td>Pesche, altrimenti preparate o conservate, con o senza aggiunta di zuccheri o di altri dolcificanti o di alcole, non nominate né comprese altrove</td><td>esente</td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>Succhi di agrumi diversi dall’arancia e dal pompelmo o dal pomelo, non fermentati, senza aggiunta di alcole:</td><td></td><td></td></tr>
+<tr><td></td><td>Succhi di agrumi diversi dall’arancia e dal pompelmo o dal pomelo, non fermentati, senza aggiunta di alcole:</td><td></td><td></td></tr>
 <tr><td>ex 2009 39 19</td><td>– senza aggiunta di zuccheri o di altri dolcificanti, concentrati</td><td>6</td><td>illimitato</td></tr>
 <tr><td>ex 2009 39 20</td><td>– con aggiunta di zuccheri o di altri dolcificanti, concentrati</td><td>14</td><td>illimitato</td></tr>
-<tr><td>[tab]</td><td>Vini dolci, specialità e mistelle, in recipienti di capacità:</td><td></td><td></td></tr>
+<tr><td></td><td>Vini dolci, specialità e mistelle, in recipienti di capacità:</td><td></td><td></td></tr>
 <tr><td>2204 21 50</td><td>– non eccedente 2 l <sup>(3)</sup></td><td>8,5</td><td>illimitato</td></tr>
 <tr><td>2204 29 50</td><td>– eccedente 2 l <sup>(3)</sup></td><td>8,5</td><td>illimitato</td></tr>
 <tr><td>[tab] 2309 1021 [tab] 2309 1029</td><td>Prodotti per l’alimentazione di cani e gatti, in recipienti chiusi</td><td>esente</td><td>322</td></tr>
@@ -1510,9 +2167,14 @@ Ciascuna Parte dà tempestivamente notifica per scritto all’altra Parte ogni q
 
 **Durata e riesame**
 
-<sup>1.</sup> Il presente allegato si applica per un periodo transitorio che scade il 31 dicembre 2024.
+<sup>1.</sup>
 
-<sup>2.</sup> Entro e non oltre sei mesi prima dello scadere del periodo transitorio, il gruppo di lavoro esamina se il presente allegato debba continuare a essere applicato oppure debba essere sostituito da un allegato più completo. Su raccomandazione del gruppo di lavoro, il Comitato misto decide se il presente allegato debba continuare a essere applicato senza interruzioni, con o senza modifiche, per un periodo transitorio più lungo, oppure se debba essere sostituito.
+Il presente allegato si applica per un periodo transitorio che scade alla data che si presenta prima tra le seguenti:
+
+- a. la data in cui entra in vigore un accordo di libero scambio modernizzato che sostituisce l’Accordo commerciale e che tratta questioni di cui al presente allegato;
+- b. la data in cui entra in vigore un altro accordo tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord che tratta questioni di cui al presente allegato e che sostituisce il presente allegato.
+
+<sup>2.</sup> In deroga al paragrafo 1, il Comitato misto, su raccomandazione del Gruppo di lavoro, può in qualsiasi momento variare il periodo transitorio e può decidere se il presente allegato debba continuare a essere applicato, con o senza modifiche, per un periodo transitorio alternativo oppure se debba essere sostituito.
 
 <sup>3.</sup> Ciascuna Parte può, in ogni momento, notificare la sua decisione di denunciare o di sospendere l’applicazione del presente allegato. La denuncia o la sospensione ha effetto 30 giorni dopo la ricezione della notifica da parte dell’altra parte.
 
@@ -1718,30 +2380,6 @@ Email: organics@iol.ie
 
 Website: www.organic-trust.org
 
-### 9 Global Trust Certification Ltd (GB-ORG-16)
-
-3<sup>rd</sup> Floor
-
-Block 3
-
-Quayside Business Park
-
-Mill Street Dundalk
-
-Co. Louth
-
-Republic of Ireland
-
-A91 WNH1
-
-Telephone: (+353) 42 932 0912
-
-Fax: (+353) 42 938 6864
-
-Email: eoghan.stedman@saiglobal.com
-
-Website: [www.saiglobal.com](https://www.saiglobal.com/)
-
 Appendice IV
 
 ## Legislazione rilevante sull’agricoltura biologica
@@ -1762,8 +2400,8 @@ Regolamento (CE) n. 1235/2008 della Commissione, dell’8 dicembre 2008, recante
 
 Regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio del 30 maggio 2018 relativo alla produzione biologica e all’etichettatura dei prodotti biologici e che abroga il regolamento (CE) n. 834/2007 del Consiglio, nella misura in cui si applica al Regno Unito rispetto all’Irlanda del Nord in virtù del protocollo su Irlanda/Irlanda del Nord relativo all’*Accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica*.
 
-[^annexIV-lvlu1-1]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
-[^annexIV-lvlu1-2]: [RS 910.181](https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519)
+[^annexIV-lvlu1-1]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^annexIV-lvlu1-2]: [RS 910.181](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10419)
 
 Allegato 5
 
@@ -1781,7 +2419,7 @@ Le autorità doganali del Regno Unito e della Svizzera si prestano reciprocament
 
 Le disposizioni del presente paragrafo non si applicano ai prodotti di cui ai capitoli 1–24 del sistema armonizzato.»
 
-[^annex5-lvlu1-1]: [RS 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
+[^annex5-lvlu1-1]: [RS 0.632.401.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2420)
 
 Allegato 6
 
@@ -1802,7 +2440,7 @@ Ai fini del presente Accordo, l’Accordo antifrode[^annex6-lvlu1-1] incorporato
 
 \5. *all’articolo 25 paragrafo 2* e *All’articolo 43* del Processo verbale approvato non si applicano.
 
-[^annex6-lvlu1-1]: [RS 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
+[^annex6-lvlu1-1]: [RS 0.351.926.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1374)
 
 ## Dichiarazione comune per un approccio trilaterale in materia di norme di origine
 

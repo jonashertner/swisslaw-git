@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: "Accord commercial du 11 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (avec annexes et déclarations)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: fr
-version: 2022-12-31
+version: 2024-12-31
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221231-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221231/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20241231-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20241231/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 19 juin 2020[^t-1]
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2021
 
-(État le 31 décembre 2022)
+(État le 31 décembre 2024)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 19 juin 2020 ([RO 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070))
 
@@ -63,16 +63,16 @@ Les dispositions suivantes ne s’appliquent pas, à moins que le Comité mixte 
 
 <sup>3.</sup> Dès l’entrée en vigueur du présent Accord, les Parties examinent, au sein du Comité mixte compétent, l’objet couvert par les dispositions visées au par. 2 et évaluent le niveau de divergence ou de concordance de leurs législations nationales dans les domaines couverts par ces dispositions, à la lumière des développements dans les arrangements conclus entre chacune des Parties et des tierces parties, dans le but d’assurer dans la mesure du possible la continuation des arrangements commerciaux entre les Parties. Le Comité mixte compétent peut décider d’appliquer les dispositions visées au par. 2 *mutatis mutandis*, avec ou sans modifications supplémentaires, ou de remplacer ces dispositions.
 
-[^1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^1-2]: [RS 0.632.290.15](https://fedlex.data.admin.ch/eli/cc/1981/367_367_367)
-[^1-3]: [RS 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
-[^1-4]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949). Dans un souci de clarté, il est précisé que le Protocole additionnel relatif à l’assistance administrative mutuelle en matière douanière fait partie intégrante de l’accord de libre-échange.
-[^1-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^1-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^1-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^1-8]: [RS 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
-[^1-9]: [RS 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
-[^1-10]: [RS 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
+[^1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^1-2]: [RS 0.632.290.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2274)
+[^1-3]: [RS 0.632.401.813](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2440)
+[^1-4]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413). Dans un souci de clarté, il est précisé que le Protocole additionnel relatif à l’assistance administrative mutuelle en matière douanière fait partie intégrante de l’accord de libre-échange.
+[^1-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^1-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^1-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
+[^1-8]: [RS 0.632.401.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2420)
+[^1-9]: [RS 0.351.926.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1374)
+[^1-10]: [RS 0.631.242.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2041)
 
 #### Art. 2
 
@@ -182,8 +182,8 @@ Aux fins du présent Accord, l’accord de libre-échange[^annex1-lvlu1-1] incor
 
 ### «**Art. 2**Application de mesures de compensation des prix
 
-[^annex1-lvlu1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^annex1-lvlu1-2]: [RS 0.632.401.23](https://fedlex.data.admin.ch/eli/cc/2005/238)
+[^annex1-lvlu1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2413)
+[^annex1-lvlu1-2]: [RS 0.632.401.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2426)
 
 Pour tenir compte de différences du coût des matières premières agricoles utilisées dans la fabrication des produits mentionnés au tableau I, l’accord n’exclut pas l’application de mesures de compensation des prix, à savoir le prélèvement d’éléments agricoles à l’importation de ces produits.
 
@@ -297,7 +297,7 @@ Art. 41 Ceuta et Melilla
 
 Art. 42 Produits en transit ou en entrepôt
 
-## Liste des annexes
+Liste des annexes
 
 Annexe I Notes introductives à la liste de l’annexe II
 
@@ -345,7 +345,7 @@ Aux fins du présent protocole, on entend par:
 - m) «valeur ajoutée», le prix départ usine du produit, diminué de la valeur en douane de toutes les matières utilisées qui sont originaires de l’autre partie ou de l’un des États visés à l’annexe VIII avec lequel le cumul est applicable, ou, si la valeur en douane n’est pas connue ou ne peut être établie, le premier prix vérifiable payé pour les matières dans la partie exportatrice;
 - n) «valeur des matières non originaires», la valeur en douane au moment de l’importation des matières non originaires mises en œuvre ou, si elle n’est pas connue ou ne peut être établie, le premier prix vérifiable payé pour les matières dans la partie exportatrice. Lorsque la valeur des matières originaires mises en œuvre doit être établie, les dispositions du présent point sont appliquées mutatis mutandis.
 
-[^annexu1-titI-1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1A.8
+[^annexu1-titI-1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)annexe 1A.8
 
 ## Titre II Définition de la notion de produits originaires
 
@@ -1011,7 +1011,7 @@ Note 3 – Exemples de la manière d’appliquer les règles
 - Si une règle prévoit que des matières non originaires se trouvant à un stade d’élaboration déterminé ne peuvent pas être utilisées, l’utilisation de telles matières se trouvant à un stade moins avancé est autorisée, alors que l’utilisation de telles matières se trouvant à un stade plus avancé ne l’est pas.
 - Exemple: lorsque la règle de la liste pour le chapitre 19 impose que «les matières non originaires des n<sup>os</sup> 1101 à 1108 ne puissent pas dépasser 20 % en poids», l’utilisation (c’est-à-dire l’importation) de céréales du chap. 10 (matières à un stade antérieur de fabrication) n’est pas limitée.
 - 3\.3. Sans préjudice de la note 3.2, lorsqu’une règle utilise l’expression «fabrication à partir de matières de toute position», les matières de toute position (même les matières de la même désignation et de la même position que le produit) peuvent être utilisées, sous réserve, toutefois, des restrictions particulières susceptibles d’être aussi énoncées dans la règle.
-- Toutefois, lorsqu’une règle utilise l’expression «fabrication à partir de matières de toute position, y compris à partir des autres matières du n<sup>o</sup> ...» ou «fabrication à partir de matières de toute position, y compris à partir des autres matières de la même position que le produit», les matières de toute position peuvent être utilisées, à l’exclusion des matières de la même désignation que le produit telle qu’elle apparaît dans la colonne (2) de la liste.
+- Toutefois, lorsqu’une règle utilise l’expression «fabrication à partir de matières de toute position, y compris à partir des autres matières du n<sup>o</sup> …» ou «fabrication à partir de matières de toute position, y compris à partir des autres matières de la même position que le produit», les matières de toute position peuvent être utilisées, à l’exclusion des matières de la même désignation que le produit telle qu’elle apparaît dans la colonne (2) de la liste.
 - 3\.4. Lorsqu’une règle de la liste précise qu’un produit peut être fabriqué à partir de plusieurs matières, cela signifie qu’une ou plusieurs de ces matières peuvent être utilisées. Elle n’implique évidemment pas que toutes ces matières doivent être utilisées simultanément.
 - 3\.5. Lorsqu’une règle prévoit, dans la liste, qu’un produit doit être fabriqué à partir d’une matière déterminée, cette condition n’empêche évidemment pas l’utilisation d’autres matières qui, en raison de leur nature même, ne peuvent pas satisfaire à cette règle.
 - 3\.6. S’il est prévu, dans une règle de la liste, deux pourcentages concernant la valeur maximale de matières non originaires pouvant être utilisées, ces pourcentages ne peuvent pas être additionnés. Il s’ensuit que la valeur maximale de toutes les matières non originaires utilisées ne peut jamais excéder le plus élevé des pourcentages considérés. En outre, les pourcentages spécifiques qui s’appliquent à des produits particuliers ne doivent pas être dépassés.
@@ -1457,11 +1457,11 @@ Version italienne
 
 L’esportatore delle merci contemplate nel presente documento (autorizzazione doganale n. ………<sup>(1)</sup>) dichiara che, salvo indicazione contraria, le merci sono di origine preferenziale ……………..<sup>(2)</sup>.
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
 (Lieu et date)<sup>(3)</sup>
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
 (Signature de l’exportateur et indication, en toutes lettres, du nom de la personne qui signe la déclaration)<sup>(4)</sup>
 
@@ -1472,19 +1472,19 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Certificat de circulation EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/fr/xml/image/image2.png)
 
 ## Notes
 
-- 1\. Le certificat ne doit comporter ni grattages ni surcharges. Les modifications éventuelles qui y sont apportées doivent être effectuées en biffant les indications erronées et en ajoutant, le cas échéant, les indications voulues. Toute modification ainsi opérée doit être approuvée par celui qui a établi le certificat et visée par les autorités douanières du pays ou territoire de délivrance.
-- 2\. Les articles indiqués sur le certificat doivent se suivre sans interligne, et chaque article doit être précédé d’un numéro d’ordre. Une ligne horizontale doit être tracée immédiatement au-dessous du dernier article. Les espaces non utilisés doivent être bâtonnés de façon à rendre impossible toute adjonction ultérieure.
-- 3\. Les marchandises sont désignées selon les usages commerciaux, avec les précisions suffisantes pour en permettre l’identification.
+- 1. Le certificat ne doit comporter ni grattages ni surcharges. Les modifications éventuelles qui y sont apportées doivent être effectuées en biffant les indications erronées et en ajoutant, le cas échéant, les indications voulues. Toute modification ainsi opérée doit être approuvée par celui qui a établi le certificat et visée par les autorités douanières du pays ou territoire de délivrance.
+- 2. Les articles indiqués sur le certificat doivent se suivre sans interligne, et chaque article doit être précédé d’un numéro d’ordre. Une ligne horizontale doit être tracée immédiatement au-dessous du dernier article. Les espaces non utilisés doivent être bâtonnés de façon à rendre impossible toute adjonction ultérieure.
+- 3. Les marchandises sont désignées selon les usages commerciaux, avec les précisions suffisantes pour en permettre l’identification.
 
 ## Demande de certificat de circulation des marchandises EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20241231/fr/xml/image/image3.png)
 
 Annexe IV
 
@@ -1503,33 +1503,33 @@ Je soussigné, exportateur des marchandises désignées au recto,
 
 Précise les circonstances qui ont permis à ces marchandises de remplir ces conditions:
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
 Présente les pièces justificatives suivantes[^annexIV-lvlu1-lvlu2-1]:
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
 *M’engage* à présenter, à la demande des autorités compétentes, toutes justifications supplémentaires que celles-ci jugeraient nécessaires en vue de la délivrance du certificat ci-annexé, ainsi qu’à accepter, le cas échéant, tout contrôle par lesdites autorités de ma comptabilité et des circonstances de la fabrication des marchandises susvisées;
 
 *Demande* la délivrance du certificat ci-annexé pour ces marchandises.
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
 (Lieu et date)
 
-........................................................................................................................................
+……………………………………………………………………………………………………………………….
 
 (Signature)
 
@@ -1639,7 +1639,7 @@ Je soussigné, fournisseur des marchandises énumérées dans le document fourni
 <tr><td>Désignation des marchandises fournies</td><td>Valeur ajoutée totale acquise hors de [indiquer le nom de la partie concernée]<sup>(5)</sup></td></tr>
 </table>
 
-La présente déclaration est valable pour toutes les expéditions futures de ces marchandises effectuées du ...........................................................................................
+La présente déclaration est valable pour toutes les expéditions futures de ces marchandises effectuées du ……………………………………………………………………………….
 
 au………………………………………………<sup>(6)</sup>
 
@@ -1713,7 +1713,7 @@ Aux fins du présent Accord, l’accord sur les marchés publics[^annex2-lvlu1-1
 
 \5. L’annexe XI ci-dessous est ajoutée après l’annexe X:
 
-[^annex2-lvlu1-1]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^annex2-lvlu1-1]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
 
 «Annexe XI
 
@@ -1746,7 +1746,7 @@ Aux fins du présent Accord, l’accord relatif à la reconnaissance mutuelle[^a
 
 ### «**Art. 12**Échange d’informations
 
-[^annex3-lvlu1-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^annex3-lvlu1-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 
 \1. Les Parties échangent toute information utile concernant la mise en œuvre et l’application des dispositions législatives, réglementaires et administratives citées à l’annexe 1.
 
@@ -1811,7 +1811,7 @@ Annexe 4[^t-3]
 
 ## Modification de l’accord agricole
 
-[^t-3]: Mise à jour par la D n<sup>o</sup> 1/2021 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 1<sup>er</sup> janv. 2021 ([RO 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)) et la D n<sup>o</sup> 1/2022 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 21 juin 2022, en vigueur depuis le 31 déc. 2022 ([RO 2022 712](https://fedlex.data.admin.ch/eli/oc/2022/712)).
+[^t-3]: Mise à jour par la D n<sup>o</sup> 1/2021 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 1<sup>er</sup> janv. 2021 ([RO 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)), la D n<sup>o</sup> 1/2022 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 21 juin 2022 ([RO 2022 712](https://fedlex.data.admin.ch/eli/oc/2022/712)) et la D n<sup>o</sup> 1/2024 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 17 déc. 2024, en vigueur depuis le 31 déc. 2024 ([RO 2024 793](https://fedlex.data.admin.ch/eli/oc/2024/793)).
 
 Aux fins du présent Accord, l’accord agricole[^annex4-lvlu1-1] incorporé est modifié comme suit:
 
@@ -1852,7 +1852,7 @@ Aux fins du présent Accord, l’accord agricole[^annex4-lvlu1-1] incorporé est
 
 ### «**Art. 8**Dénominations homonymes
 
-[^annex4-lvlu1-1]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^annex4-lvlu1-1]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 
 (1) En cas d’homonymie entre des indications géographiques citées à l’appendice I, la protection est accordée à chacune d’entre elles dès lors que l’utilisation est de bonne foi et que, dans les conditions pratiques d’utilisation fixées par les Parties dans le cadre du Comité, un traitement équitable des producteurs concernés est garanti et que le consommateur n’est pas induit en erreur.
 
@@ -1897,56 +1897,56 @@ La Suisse accorde pour les produits originaires du Royaume-Uni les concessions t
 <tr><td>ex 0409 00 00</td><td>Miel naturel d’acacia</td><td>8</td><td>11</td></tr>
 <tr><td>ex 0409 00 00</td><td>Miel naturel, autre (sauf acacia)</td><td>26</td><td>3</td></tr>
 <tr><td>0602 10 00</td><td>Boutures non racinées et greffons</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>Plants sous forme de porte-greffe de fruit à pépins (issus de semis ou de multiplication végétative):</td><td>droit nul</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Plants sous forme de porte-greffe de fruit à pépins (issus de semis ou de multiplication végétative):</td><td>droit nul</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 11</td><td>– greffés, à racines nues</td><td></td><td></td></tr>
 <tr><td>0602 20 19</td><td>– greffés, avec motte</td><td></td><td></td></tr>
 <tr><td>0602 20 21</td><td>– non greffés, à racines nues</td><td></td><td></td></tr>
 <tr><td>0602 20 29</td><td>– non greffés, avec motte</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Plants sous forme de porte-greffe de fruit à noyaux (issus de semis ou de multiplication végétative):</td><td>droit nul</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Plants sous forme de porte-greffe de fruit à noyaux (issus de semis ou de multiplication végétative):</td><td>droit nul</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 31</td><td>– greffés, à racines nues</td><td></td><td></td></tr>
 <tr><td>0602 20 39</td><td>– greffés, avec motte</td><td></td><td></td></tr>
 <tr><td>0602 20 41</td><td>– non greffés, à racines nues</td><td></td><td></td></tr>
 <tr><td>0602 20 49</td><td>– non greffés, avec motte</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Plants autres que sous forme de porte-greffe de fruits à pépins ou à noyaux (issus de semis ou de multiplication végétative), à fruits comestibles:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Plants autres que sous forme de porte-greffe de fruits à pépins ou à noyaux (issus de semis ou de multiplication végétative), à fruits comestibles:</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0602 20 51</td><td>– à racines nues</td><td></td><td></td></tr>
 <tr><td>0602 20 59</td><td>– autres qu’à racines nues</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Arbres, arbustes, arbrisseaux et buissons, à fruits comestibles, à racines nues:</td><td>droit nul</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Arbres, arbustes, arbrisseaux et buissons, à fruits comestibles, à racines nues:</td><td>droit nul</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 71</td><td>– de fruits à pépins</td><td></td><td></td></tr>
 <tr><td>0602 20 72</td><td>– de fruits à noyaux</td><td></td><td></td></tr>
 <tr><td>0602 20 79</td><td>– autres que de fruits à pépins ou à noyaux</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>Arbres, arbustes, arbrisseaux et buissons, à fruits comestibles, avec motte:</td><td>droit nul</td><td><sup>(1)</sup></td></tr>
+<tr><td></td><td>Arbres, arbustes, arbrisseaux et buissons, à fruits comestibles, avec motte:</td><td>droit nul</td><td><sup>(1)</sup></td></tr>
 <tr><td>0602 20 81</td><td>– de fruits à pépins</td><td></td><td></td></tr>
 <tr><td>0602 20 82</td><td>– de fruits à noyaux</td><td></td><td></td></tr>
 <tr><td>0602 20 89</td><td>– autres que de fruits à pépins ou à noyaux</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0602 30 00</td><td>Rhododendrons et azalées, greffées ou non</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>Rosiers, greffés ou non:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Rosiers, greffés ou non:</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0602 40 10</td><td>– rosiers-sauvageons et rosiers-tiges sauvages</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>autres que rosiers-sauvageons et rosiers-tiges sauvages:</td><td></td><td></td></tr>
+<tr><td></td><td>autres que rosiers-sauvageons et rosiers-tiges sauvages:</td><td></td><td></td></tr>
 <tr><td>0602 40 91</td><td>– à racines nues</td><td></td><td></td></tr>
 <tr><td>0602 40 99</td><td>– autres qu’à racines nues, avec motte</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Plants (issus de semis ou de multiplication végétative) de végétaux d’utilité; blancs de champignons:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Plants (issus de semis ou de multiplication végétative) de végétaux d’utilité; blancs de champignons:</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0602 90 11</td><td>– plants de légumes et gazon en rouleau</td><td></td><td></td></tr>
 <tr><td>0602 90 12</td><td>– blancs de champignons</td><td></td><td></td></tr>
 <tr><td>0602 90 19</td><td>– autres que plants de légumes, gazon en rouleau et blanc de champignons</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Autres plantes vivantes (y compris leurs racines):</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Autres plantes vivantes (y compris leurs racines):</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0602 90 91</td><td>– à racines nues</td><td></td><td></td></tr>
 <tr><td>0602 90 99</td><td>– autres qu’à racines nues, avec motte</td><td></td><td></td></tr>
 <tr><td>0603 11 10</td><td>Roses, coupées, pour bouquets ou pour ornements, fraîches, du 1<sup>er</sup> mai au 25 octobre</td><td>droit nul</td><td>54</td></tr>
 <tr><td>0603 12 10</td><td>Œillets, coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td></td></tr>
 <tr><td>0603 13 10</td><td>Orchidées, coupées, pour bouquets ou pour ornements, fraîches, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td></td></tr>
 <tr><td>0603 14 10</td><td>Chrysanthèmes, coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Fleurs et boutons de fleurs (autres que les œillets, les roses, les orchidées ou les chrysanthèmes), coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre:</td><td></td><td></td></tr>
+<tr><td></td><td>Fleurs et boutons de fleurs (autres que les œillets, les roses, les orchidées ou les chrysanthèmes), coupés, pour bouquets ou pour ornements, frais, du 1<sup>er</sup> mai au 25 octobre:</td><td></td><td></td></tr>
 <tr><td>0603 19 11</td><td>– ligneux</td><td></td><td></td></tr>
 <tr><td>0603 19 19</td><td>– autres que ligneux</td><td></td><td></td></tr>
 <tr><td>0603 12 30</td><td>Œillets, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0603 13 30</td><td>Orchidées, coupées, pour bouquets ou pour ornements, fraîches, du 26 octobre au 30 avril</td><td></td><td></td></tr>
 <tr><td>0603 14 30</td><td>Chrysanthèmes, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril</td><td></td><td></td></tr>
 <tr><td>0603 19 30</td><td>Tulipes coupées, pour bouquets ou pour ornements, fraîches, du 26 octobre au 30 avril</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Autres fleurs et boutons de fleurs, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Autres fleurs et boutons de fleurs, coupés, pour bouquets ou pour ornements, frais, du 26 octobre au 30 avril:</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0603 19 31</td><td>– ligneux</td><td></td><td></td></tr>
 <tr><td>0603 19 39</td><td>– autres que ligneux</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Tomates, à l’état frais ou réfrigéré:</td><td>droit nul</td><td>537</td></tr>
-<tr><td>[tab]</td><td>– tomates cerises (cherry):</td><td></td><td></td></tr>
+<tr><td></td><td>Tomates, à l’état frais ou réfrigéré:</td><td>droit nul</td><td>537</td></tr>
+<tr><td></td><td>– tomates cerises (cherry):</td><td></td><td></td></tr>
 <tr><td>0702 00 10</td><td>– du 21 octobre au 30 avril</td><td></td><td></td></tr>
 <tr><td></td><td>– tomates Peretti (forme allongée):</td><td></td><td></td></tr>
 <tr><td>0702 00 20</td><td>– du 21 octobre au 30 avril</td><td></td><td></td></tr>
@@ -1954,27 +1954,27 @@ La Suisse accorde pour les produits originaires du Royaume-Uni les concessions t
 <tr><td>0702 00 30</td><td>– du 21 octobre au 30 avril</td><td></td><td></td></tr>
 <tr><td></td><td>– autres:</td><td></td><td></td></tr>
 <tr><td>0702 00 90</td><td>– du 21 octobre au 30 avril</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Salade iceberg sans feuille externe:</td><td>droit nul</td><td>107</td></tr>
+<tr><td></td><td>Salade iceberg sans feuille externe:</td><td>droit nul</td><td>107</td></tr>
 <tr><td>0705 11 11</td><td>– du 1<sup>er</sup> janvier à la fin février</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Chicorées witloofs à l’état frais ou réfrigéré:</td><td>droit nul</td><td>107</td></tr>
+<tr><td></td><td>Chicorées witloofs à l’état frais ou réfrigéré:</td><td>droit nul</td><td>107</td></tr>
 <tr><td>0705 21 10</td><td>– du 21 mai au 30 septembre</td><td></td><td></td></tr>
 <tr><td>0707 00 10</td><td>Concombres pour la salade, du 21 octobre au 14 avril</td><td>5</td><td>11</td></tr>
 <tr><td>0707 00 30</td><td>Concombres pour la conserve, d’une longueur &gt; 6 cm mais ≤ 12 cm, frais ou réfrigérés, du 21 octobre au 14 avril</td><td>5</td><td>5</td></tr>
 <tr><td>0707 00 31</td><td>Concombres pour la conserve, d’une longueur &gt; 6 cm mais ≤ 12 cm, frais ou réfrigérés, du 15 avril au 20 octobre</td><td>5</td><td>113</td></tr>
 <tr><td>0707 00 50</td><td>Cornichons frais ou réfrigérés</td><td>3,5</td><td>43</td></tr>
-<tr><td>[tab]</td><td>Aubergines, à l’état frais ou réfrigéré:</td><td>droit nul</td><td>54</td></tr>
+<tr><td></td><td>Aubergines, à l’état frais ou réfrigéré:</td><td>droit nul</td><td>54</td></tr>
 <tr><td>0709 30 10</td><td>– du 16 octobre au 31 mai</td><td></td><td></td></tr>
 <tr><td>0709 51 00 0709 59 00</td><td>Champignons, à l’état frais ou réfrigéré, du genre *Agaricus* ou autres, à l’exception des truffes</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0709 60 11</td><td>Poivrons, à l’état frais ou réfrigéré: du 1<sup>er</sup> novembre au 31 mars</td><td>2,5</td><td>illimitée</td></tr>
 <tr><td>0709 60 12</td><td>Poivrons à l’état frais ou réfrigérés du 1<sup>er</sup> avril au 31 octobre</td><td>5</td><td>70</td></tr>
-<tr><td>[tab]</td><td>Courgettes (y compris les fleurs de courgettes), à l’état frais ou réfrigéré:</td><td>droit nul</td><td>107</td></tr>
+<tr><td></td><td>Courgettes (y compris les fleurs de courgettes), à l’état frais ou réfrigéré:</td><td>droit nul</td><td>107</td></tr>
 <tr><td>0709 90 50</td><td>– du 31 octobre au 19 avril</td><td></td><td></td></tr>
 <tr><td>ex 0710 80 90</td><td>Champignons, non cuits ou cuits à l’eau ou à la vapeur, congelés</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0711 90 90</td><td>Légumes et mélanges de légumes, conservés provisoirement (par ex. au moyen de gaz sulfureux ou dans de l’eau salée, soufrée ou additionnée d’autres substances servant à assurer provisoirement leur conservation), mais impropres à l’alimentation en l’état</td><td>0</td><td>8</td></tr>
 <tr><td>0712 20 00</td><td>Oignons, séchés, même coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés</td><td>0</td><td>5</td></tr>
 <tr><td>0713 10 11</td><td>Pois (*Pisum sativum*), secs, écossés, en grains entiers, non travaillés, pour l’alimentation des animaux</td><td>Rabais de 0.90 sur le droit appliqué</td><td>54</td></tr>
 <tr><td>0713 10 19</td><td>Pois (*Pisum sativum*), secs, écossés, en grains entiers, non travaillés (à l’exclusion de ceux pour l’alimentation des animaux, pour usages techniques ou pour la fabrication de la bière)</td><td>0</td><td>54</td></tr>
-<tr><td>[tab]</td><td>Noisettes (*Corylus* spp.), fraîches ou sèches:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Noisettes (*Corylus* spp.), fraîches ou sèches:</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0802 21 90</td><td>– en coques, autres que pour l’alimentation des animaux ou pour l’extraction de l’huile</td><td></td><td></td></tr>
 <tr><td>0802 22 90</td><td>– sans coques, autres que pour l’alimentation des animaux ou pour l’extraction de l’huile</td><td></td><td></td></tr>
 <tr><td>0802 32 90</td><td>Fruits à coque</td><td>droit nul</td><td>5</td></tr>
@@ -1983,9 +1983,9 @@ La Suisse accorde pour les produits originaires du Royaume-Uni les concessions t
 <tr><td>0805 20 00</td><td>Mandarines (y compris tangerines et satsumas), clémentines, wilkings et hybrides similaires d’agrumes, frais ou secs</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0807 11 00</td><td>Pastèques fraîches</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>0807 19 00</td><td>Melons, frais, autres que les pastèques</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>Abricots, frais, à découvert:</td><td>droit nul</td><td>113</td></tr>
+<tr><td></td><td>Abricots, frais, à découvert:</td><td>droit nul</td><td>113</td></tr>
 <tr><td>0809 10 11</td><td>– du 1<sup>er</sup> septembre au 30 juin</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>autrement emballés:</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td></td><td>autrement emballés:</td><td></td><td></td></tr>
 <tr><td>0809 10 91</td><td>– du 1<sup>er</sup> septembre au 30 juin</td><td></td><td></td></tr>
 <tr><td>0809 40 13</td><td>Prunes, fraîches, à découvert, du 1<sup>er</sup> juillet au 30 septembre</td><td>0</td><td>32</td></tr>
 <tr><td>0810 10 10</td><td>Fraises, fraîches, du 1<sup>er</sup> septembre au 14 mai</td><td>droit nul</td><td>537</td></tr>
@@ -2000,35 +2000,35 @@ La Suisse accorde pour les produits originaires du Royaume-Uni les concessions t
 <tr><td>0910 20 00</td><td>Safran</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>1001 90 60</td><td>Froment (blé) et méteil [à l’exclusion du froment (blé) dur], dénaturés, pour l’alimentation des animaux</td><td>Rabais de 0.60 sur le droit appliqué</td><td>2685</td></tr>
 <tr><td>1005 90 30</td><td>Maïs pour l’alimentation des animaux</td><td>Rabais de 0.50 sur le droit appliqué</td><td>698</td></tr>
-<tr><td>[tab]</td><td>Huile d’olive, vierge, autre que pour l’alimentation des animaux:</td><td></td><td></td></tr>
+<tr><td></td><td>Huile d’olive, vierge, autre que pour l’alimentation des animaux:</td><td></td><td></td></tr>
 <tr><td>1509 10 91</td><td>– en récipients de verre d’une contenance n’excédant pas 2 l</td><td>60,60 <sup>(2)</sup></td><td>illimitée</td></tr>
 <tr><td>1509 10 99</td><td>– en récipients de verre d’une contenance excédant 2 l, ou en autres récipients</td><td>86,70 <sup>(2)</sup></td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>Huile d’olive et ses fractions, même raffinées, mais non chimiquement modifiées, autres que pour l’alimentation des animaux:</td><td></td><td></td></tr>
+<tr><td></td><td>Huile d’olive et ses fractions, même raffinées, mais non chimiquement modifiées, autres que pour l’alimentation des animaux:</td><td></td><td></td></tr>
 <tr><td>1509 90 91</td><td>– en récipients de verre d’une contenance n’excédant pas 2 l</td><td>60,60 <sup>(2)</sup></td><td>illimitée</td></tr>
 <tr><td>1509 90 99</td><td>– en récipients de verre d’une contenance excédant 2 l, ou en autres récipients</td><td>86,70 <sup>(2)</sup></td><td>illimitée</td></tr>
 <tr><td>ex 0210 19 91</td><td>Jambon saumuré sans os, introduit dans une vessie ou dans un boyau artificiel</td><td>droit nul</td><td>199</td></tr>
 <tr><td>ex 0210 19 91</td><td>Morceau de côtelette sans os, fumé</td><td></td><td></td></tr>
 <tr><td>1601 00 11 1601 00 21</td><td>Saucisses, saucissons et produits similaires, de viande, d’abats ou de sang; préparations alimentaires à base de ces produits des animaux relevant des positions 0101 à 0104, à l’exclusion des sangliers</td><td></td><td></td></tr>
 <tr><td>ex 0210 19 91 ex 1602 49 10</td><td>Cou de porc saumuré et séché à l’air, en pièce entière, en morceaux ou en fines tranches</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Tomates, entières ou en morceaux, préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique:</td><td></td><td></td></tr>
+<tr><td></td><td>Tomates, entières ou en morceaux, préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique:</td><td></td><td></td></tr>
 <tr><td>2002 10 10</td><td>– en récipients excédant 5 kg</td><td>2,50</td><td>illimitée</td></tr>
 <tr><td>2002 10 20</td><td>– en récipients n’excédant pas 5 kg</td><td>4,50</td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>Tomates préparées ou conservées autrement qu’au vinaigre ou à ou à l’acide acétique, autres qu’entières ou en morceaux:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Tomates préparées ou conservées autrement qu’au vinaigre ou à ou à l’acide acétique, autres qu’entières ou en morceaux:</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>2002 90 10</td><td>– en récipients excédant 5 kg</td><td></td><td></td></tr>
 <tr><td>2002 90 21</td><td>Pulpes, purées et concentrés de tomates, en récipients hermétiquement fermés, dont la teneur en extrait sec est de 25 % en poids ou plus, composés de tomates et d’eau, même additionnés de sel ou d’assaisonnement, en récipients n’excédant pas 5 kg</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>2002 90 29</td><td>Tomates préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, autres qu’entières ou en morceaux, et autres que pulpes, purées et concentrés de tomates:</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>– en récipient n’excédant pas 5 kg</td><td></td><td></td></tr>
+<tr><td></td><td>– en récipient n’excédant pas 5 kg</td><td></td><td></td></tr>
 <tr><td>2003 10 00</td><td>Champignons du genre *Agaricus*, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique</td><td>0</td><td>91</td></tr>
-<tr><td>[tab]</td><td>Artichauts préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique, congelés, autres que les produits du n<sup>o</sup> 2006:</td><td></td><td></td></tr>
+<tr><td></td><td>Artichauts préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique, congelés, autres que les produits du n<sup>o</sup> 2006:</td><td></td><td></td></tr>
 <tr><td>ex 2004 90 18</td><td>– en récipients excédant 5 kg</td><td>17,5</td><td>illimitée</td></tr>
 <tr><td>ex 2004 90 49</td><td>– en récipients n’excédant pas 5 kg</td><td>24,5</td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>Asperges préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que les produits du n<sup>o</sup> 2006:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Asperges préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que les produits du n<sup>o</sup> 2006:</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>2005 60 10</td><td>– en récipients excédant 5 kg</td><td></td><td></td></tr>
 <tr><td>2005 60 90</td><td>– en récipients n’excédant pas 5 kg</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Olives préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que les produits du n<sup>o</sup> 2006:</td><td>droit nul</td><td>illimitée</td></tr>
+<tr><td></td><td>Olives préparées ou conservées autrement qu’au vinaigre ou à l’acide acétique, non congelées, autres que les produits du n<sup>o</sup> 2006:</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>2005 70 10</td><td>– en récipients excédant 5 kg</td><td></td><td></td></tr>
 <tr><td>2005 70 90</td><td>– en récipients n’excédant pas 5 kg</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td>Câpres et artichauts, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique, non congelés, autres que les produits du n<sup>o</sup> 2006:</td><td></td><td></td></tr>
+<tr><td></td><td>Câpres et artichauts, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique, non congelés, autres que les produits du n<sup>o</sup> 2006:</td><td></td><td></td></tr>
 <tr><td>ex 2005 99 11</td><td>– en récipients excédant 5 kg</td><td>17,5</td><td>illimitée</td></tr>
 <tr><td>ex 2005 99 41</td><td>– en récipients n’excédant pas 5 kg</td><td>24,5</td><td>illimitée</td></tr>
 <tr><td>2008 30 90</td><td>Agrumes, autrement préparés ou conservés, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommés ni compris ailleurs</td><td>droit nul</td><td>illimitée</td></tr>
@@ -2036,10 +2036,10 @@ La Suisse accorde pour les produits originaires du Royaume-Uni les concessions t
 <tr><td>2008 50 90</td><td>Abricots, autrement préparés ou conservés, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommés ni compris ailleurs</td><td>15</td><td>illimitée</td></tr>
 <tr><td>2008 70 10</td><td>Pulpes de pêches, autrement préparées ou conservées non additionnées de sucre ou d’autres édulcorants, non dénommées ni comprises ailleurs</td><td>droit nul</td><td>illimitée</td></tr>
 <tr><td>2008 70 90</td><td>Pêches, autrement préparées ou conservées, avec ou sans addition de sucre ou d’autres édulcorants ou d’alcool, non dénommées ni comprises ailleurs</td><td>droit nul</td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>Jus de tout autre agrume que d’orange ou de pamplemousse ou de pomelo, non fermentés, sans addition d’alcool:</td><td></td><td></td></tr>
+<tr><td></td><td>Jus de tout autre agrume que d’orange ou de pamplemousse ou de pomelo, non fermentés, sans addition d’alcool:</td><td></td><td></td></tr>
 <tr><td>ex 2009 39 19</td><td>– non additionnés de sucre ou d’autres édulcorants, concentrés</td><td>6</td><td>illimitée</td></tr>
 <tr><td>ex 2009 39 20</td><td>– additionnés de sucre ou d’autres édulcorants, concentrés</td><td>14</td><td>illimitée</td></tr>
-<tr><td>[tab]</td><td>Vins doux, spécialités et mistelles en récipients d’une contenance:</td><td></td><td></td></tr>
+<tr><td></td><td>Vins doux, spécialités et mistelles en récipients d’une contenance:</td><td></td><td></td></tr>
 <tr><td>2204 21 50</td><td>– n’excédant pas 2 l <sup>(3)</sup></td><td>8,5</td><td>illimitée</td></tr>
 <tr><td>2204 29 50</td><td>– excédant 2 l <sup>(3)</sup></td><td>8,5</td><td>illimitée</td></tr>
 <tr><td>[tab] 2309 1021 [tab] 2309 1029</td><td>Aliments pour chiens et chats, en récipients fermés</td><td>droit nul</td><td>322</td></tr>
@@ -2187,9 +2187,14 @@ Chaque Partie fournit des informations à l’autre Partie par écrit et en temp
 
 **Durée de validité et réexamen**
 
-<sup>1.</sup> La présente annexe sera appliquée pendant une période transitoire se terminant le 31 décembre 2024.
+<sup>1.</sup>
 
-<sup>2.</sup> Au moins six mois avant la fin de la période transitoire, le Groupe de travail examinera si la présente annexe doit être encore appliquée ou remplacée par une annexe plus complète. Le Comité mixte peut, sur recommandation du Groupe de travail, décider de continuer à appliquer la présente annexe, avec ou sans modifications, pendant une période transitoire prolongée, ou de la remplacer.
+La présente annexe sera appliquée pendant une période transitoire se terminant au plus tôt:
+
+- a. à la date à laquelle entrera en vigueur un accord de libre-échange modernisé se substituant à l’accord commercial et traitant des sujets de cette annexe;
+- b. à la date à laquelle entrera en vigueur tout autre accord entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord traitant des sujets de cette annexe et se substituant à cette dernière.
+
+<sup>2.</sup> Par dérogation au par. 1, le Comité mixte peut, sur recommandation du Groupe de travail, modifier en tout temps la période transitoire et décider de continuer à appliquer la présente annexe, avec ou sans modifications, pendant une nouvelle période transitoire, ou de la remplacer.
 
 <sup>3.</sup> Chaque Partie peut à tout moment communiquer sa décision de mettre fin à l’application de la présente annexe ou de la suspendre. L’extinction ou la suspension prend effet 30 jours après réception de la notification par l’autre partie.
 
@@ -2395,30 +2400,6 @@ Email: organics@iol.ie
 
 Website: www.organic-trust.org
 
-### 9 Global Trust Certification Ltd (GB-ORG-16)
-
-3<sup>rd</sup> Floor
-
-Block 3
-
-Quayside Business Park
-
-Mill Street Dundalk
-
-Co. Louth
-
-Republic of Ireland
-
-A91 WNH1
-
-Téléphone: (+353) 42 932 0912
-
-Fax: (+353) 42 938 6864
-
-Courriel: eoghan.stedman@saiglobal.com
-
-Site Internet: [www.saiglobal.com](https://www.saiglobal.com/)»
-
 Appendice IV
 
 ## Législation sur les produits biologiques applicable
@@ -2455,7 +2436,7 @@ Les autorités douanières du Royaume-Uni et de la Suisse se prêtent toute assi
 
 Les dispositions du présent paragraphe ne s’appliquent pas aux produits des chapitres 1 à 24 du Système harmonisé.»
 
-[^annex5-lvlu1-1]: [RS 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
+[^annex5-lvlu1-1]: [RS 0.632.401.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2420)
 
 Annexe 6
 
@@ -2476,7 +2457,7 @@ Aux fins du présent Accord, l’accord sur la lutte contre la fraude[^annex6-lv
 
 \5. *Ad art. 25, par. 2* et *Ad art. 43* du procès-verbal agréé ne s’appliquent pas.
 
-[^annex6-lvlu1-1]: [RS 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
+[^annex6-lvlu1-1]: [RS 0.351.926.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1374)
 
 ## Déclaration commune relative à une approche trilatérale des règles d’origine
 
