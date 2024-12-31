@@ -4,22 +4,22 @@ title: "Loi fédérale du 24 mars 2006 sur les allocations familiales et les aid
 short: LAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-51-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-51-20250101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les allocations familiales et les aides financières allouées aux organisations familiales<sup></sup>
+# Loi fédérale sur les allocations familiales et les aides financières allouées aux organisations familiales\*
 
 (Loi sur les allocations familiales, LAFam)[^t-2][^t-1]
 
-du 24 mars 2006 (État le 1<sup>er</sup> janvier 2024)
+du 24 mars 2006 (État le 1<sup>er</sup> janvier 2025)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 L’Assemblée fédérale de la Confédération suisse,
@@ -28,9 +28,9 @@ vu l’art. 116, al. 1, 2 et 4, de la Constitution[^ingress-1],[^ingress-2] vu l
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
-[^ingress-3]: FF **1999** 2942
+[^ingress-3]: [FF 1999 III 2942](https://fedlex.data.admin.ch/eli/fga/1999/1__2942_)
 [^ingress-4]: [FF 2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)
 [^ingress-5]: [FF 2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988)
 [^ingress-6]: [FF 2004 6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)
@@ -43,7 +43,7 @@ arrête:
 
 <sup>2</sup> Les dispositions de la LPGA ne s’appliquent pas aux aides financières allouées aux organisations familiales.[^1-3]
 
-[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^1-2]: Nouvelle teneur de la 2<sup>e</sup> phrase selon l’annexe ch. 8 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^1-3]: Introduit par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -70,10 +70,10 @@ Les allocations familiales au sens de la présente loi comprennent:
 
 <sup>3</sup> L’allocation de naissance est versée pour chaque enfant né vivant ou après une grossesse d’au moins 23 semaines. Le Conseil fédéral peut fixer d’autres conditions. L’allocation d’adoption est versée pour chaque enfant mineur placé en vue de son adoption. L’adoption d’un enfant au sens de l’art. 264*c* du code civil[^3-4] ne donne pas droit à l’allocation.[^3-5]
 
-[^3-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 [^3-3]: Nouvelle expression selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)). Il a été tenu compte de cette mod. dans tout le texte.
-[^3-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^3-5]: Nouvelle teneur de la phrase selon l’annexe ch. 4 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 4
@@ -93,17 +93,20 @@ Donnent droit aux allocations:
 
 <sup>3</sup> Pour les enfants vivant à l’étranger, le Conseil fédéral détermine les conditions d’octroi des allocations. Le montant des allocations est établi en fonction du pouvoir d’achat du pays de résidence.
 
-[^4-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 5
 
 **Montant des allocations familiales**
 
-<sup>1</sup> L’allocation pour enfant s’élève à 200 francs par mois au minimum.
+<sup>1</sup> L’allocation pour enfant s’élève à 215[^5-1] francs par mois au minimum.
 
-<sup>2</sup> L’allocation de formation s’élève à 250 francs par mois au minimum.
+<sup>2</sup> L’allocation de formation s’élève à 268[^5-2] francs par mois au minimum.
 
 <sup>3</sup> Le Conseil fédéral adapte les montants minimaux au renchérissement au même terme que les rentes de l’assurance-vieillesse et survivants (AVS), à condition que l’indice suisse des prix à la consommation ait augmenté d’au moins 5 points depuis la date à laquelle les montants ont été fixés pour la dernière fois.
+
+[^5-1]: Nouveau montant selon l’art. 1 al. 1 de l’O du 28 août 2024 sur les adaptations à l’évolution des prix dans le régime des allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 493](https://fedlex.data.admin.ch/eli/oc/2024/493)).
+[^5-2]: Nouveau montant selon l’art. 1 al. 2 de l’O du 28 août 2024 sur les adaptations à l’évolution des prix dans le régime des allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 493](https://fedlex.data.admin.ch/eli/oc/2024/493)).
 
 #### Art. 6
 
@@ -145,7 +148,7 @@ L’ayant droit tenu, en vertu d’un jugement ou d’une convention, de verser 
 
 <sup>2</sup> En dérogation à l’art. 20, al. 1, LPGA, l’allocation de formation peut, sur demande motivée, être versée directement à l’enfant majeur.
 
-[^9-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^9-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 10
 
@@ -175,7 +178,7 @@ Sont assujettis à la présente loi:
 
 <sup>2</sup> Ont qualité de salariés ceux qui sont considérés comme tels par la législation fédérale sur l’assurance-vieillesse et survivants.
 
-[^11-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-2]: Introduite par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 12
@@ -284,7 +287,7 @@ Les caisses de compensation pour allocations familiales sont soumises à la surv
 
 Les travailleurs agricoles et les agriculteurs indépendants ont droit aux allocations familiales aux conditions fixées dans la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^18-1].
 
-[^18-1]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^18-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ### Section 3 Personnes sans activité lucrative
 
@@ -302,7 +305,7 @@ Les travailleurs agricoles et les agriculteurs indépendants ont droit aux alloc
 
 [^19-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 [^19-2]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^19-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^19-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^19-4]: Introduit par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 #### Art. 20
@@ -313,7 +316,7 @@ Les travailleurs agricoles et les agriculteurs indépendants ont droit aux alloc
 
 <sup>2</sup> Les cantons peuvent prévoir que ces personnes paient une contribution fixée en pour cent des cotisations dues à l’AVS, si celles-ci dépassent le minimum prévu par l’art. 10 LAVS[^20-1].
 
-[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 21
 
@@ -336,7 +339,10 @@ La Centrale de compensation tient un registre des allocations familiales dans le
 - a. prévenir le cumul d’allocations familiales visé à l’art. 6;
 - b. établir la transparence sur les allocations familiales versées;
 - c. soutenir les services cités à l’art. 21*c* dans l’exécution de la présente loi;
-- d. informer la Confédération et les cantons et fournir les données nécessaires aux analyses statistiques.
+- d. informer la Confédération et les cantons et fournir les données nécessaires aux analyses statistiques;
+- e.[^21a-1] renseigner les services fédéraux et cantonaux en cas d’exercice d’un droit à prestations lorsqu’une loi fédérale prévoit un droit à l’information.
+
+[^21a-1]: Introduite par l’annexe ch. 5 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 21b
 
@@ -348,18 +354,19 @@ La Centrale de compensation tient un registre des allocations familiales dans le
 
 #### Art. 21c
 
-**Communication des données**
+**Obligation de communiquer[^21c-1]**
 
 Les services ci-après communiquent sans délai à la Centrale de compensation les données nécessaires à la tenue du registre des allocations familiales:
 
 - a. les caisses de compensation pour allocations familiales au sens de l’art. 14;
-- b. les caisses de chômage au sens des art. 77 et 78 de la loi fédérale du 25 juin 1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité[^21c-1];
-- c. les caisses de compensation AVS, pour l’exécution des tâches qui leur incombent en vertu de l’art. 13 de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^21c-2] et de l’art. 60, al. 1, de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^21c-3];
+- b. les caisses de chômage au sens des art. 77 et 78 de la loi fédérale du 25 juin 1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité[^21c-2];
+- c. les caisses de compensation AVS, pour l’exécution des tâches qui leur incombent en vertu de l’art. 13 de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^21c-3] et de l’art. 60, al. 1, de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^21c-4];
 - d. les services cantonaux compétents pour l’exécution des allocations familiales destinées aux personnes sans activité lucrative.
 
-[^21c-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^21c-2]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^21c-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^21c-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21c-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^21c-3]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^21c-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 21d
 
@@ -377,6 +384,19 @@ Le Conseil fédéral édicte les dispositions d’exécution en collaboration av
 - b. l’accès aux données;
 - c. les mesures organisationnelles et techniques garantissant la protection et la sécurité des données;
 - d. la durée de conservation des données.
+
+#### Art. 21e<sup>bis</sup>
+
+**Accès des cantons aux données nécessaires à l’exécution de la réduction individuelle des primes**[^21ebis-1]
+
+<sup>1</sup> Les services cantonaux compétents pour l’exécution de la réduction individuelle des primes selon l’art. 65, al. 1, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^21ebis-2] peuvent accéder aux données du registre des allocations familiales nécessaires à cette fin.
+
+<sup>2</sup> Ils s’annoncent auprès de l’Office fédéral des assurances sociales (OFAS) pour obtenir l’accès au registre.
+
+<sup>3</sup> Les coûts générés par l’accès des cantons aux données sont assumés par ceux-ci.
+
+[^21ebis-1]: Introduit par l’annexe ch. 5 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21ebis-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ## Chapitre 3*b* Aides financières allouées aux organisations familiales
 
@@ -438,13 +458,15 @@ Les aides financières peuvent être octroyées à une organisation familiale ac
 
 **Procédure et taux plafond**
 
-<sup>1</sup> Les demandes d’aides financières doivent être déposées auprès de l’Office fédéral des assurances sociales (OFAS).
+<sup>1</sup> Les demandes d’aides financières doivent être déposées auprès de l’OFAS.[^21i-1]
 
 <sup>2</sup> Les aides financières sont allouées sur la base d’un contrat de droit public.
 
 <sup>3</sup> Elles couvrent au maximum 50 % des dépenses qui peuvent être prises en compte (taux plafond).
 
 <sup>4</sup> Le Conseil fédéral règle la procédure d’octroi des aides financières et les dépenses qui peuvent être prises en compte.
+
+[^21i-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 14 juin 2024 (Numérisation dans le régime des APG), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 ## Chapitre 4 Contentieux et dispositions pénales
 
@@ -454,7 +476,7 @@ Les aides financières peuvent être octroyées à une organisation familiale ac
 
 En dérogation à l’art. 58, al. 1 et 2, LPGA[^22-1], les décisions prises par les caisses de compensation pour allocations familiales peuvent faire l’objet d’un recours devant le tribunal des assurances du canton dont le régime d’allocations familiales est appliqué.
 
-[^22-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^22-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 23
 
@@ -462,7 +484,7 @@ En dérogation à l’art. 58, al. 1 et 2, LPGA[^22-1], les décisions prises pa
 
 Les art. 87 à 91 LAVS[^23-1] s’appliquent aux personnes qui enfreignent les dispositions de la loi de l’une des manières qualifiées dans ces articles.
 
-[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Chapitre 5 Relation avec le droit européen
 
@@ -493,12 +515,12 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 <sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Communauté européenne» figurant dans la présente loi désignent les États auxquels s’applique l’accord sur la libre circulation des personnes.
 
 [^24-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 21 juin 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1597](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^24-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^24-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^24-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 sur la coordination des systèmes de sécurité sociale, JO L 166 du 30.4.2004, p. 1; une version consolidée, non contraignante, de ce règlement figure sous RS **0.831.109.268.1**.
-[^24-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n 883/2004 portant sur la coordination des systèmes de sécurité sociale (avec annexes); une version consolidée, non contraignante, de ce règlement figure sous [RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356).
+[^24-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n 883/2004 portant sur la coordination des systèmes de sécurité sociale (avec annexes); une version consolidée, non contraignante, de ce règlement figure sous [RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
 [^24-5]: Règlement (CEE) n<sup>o</sup> 1408/71 du Conseil du 14 juin 1971 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté.
 [^24-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du règlement (CEE) n<sup>o</sup> 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté.
-[^24-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^24-7]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Chapitre 6 Dispositions finales
 
@@ -519,10 +541,10 @@ Sont applicables par analogie les dispositions de la législation sur l’AVS, y
 - f.[^25-8] le numéro AVS (art. 50*c* LAVS);
 - g.[^25-9] l’utilisation systématique du numéro AVS (art. 153*b* à 153*i* LAVS).
 
-[^25-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^25-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^25-2]: Nouvelle teneur selon le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^25-3]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^25-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^25-5]: Introduite par l’annexe ch. 8 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^25-6]: Introduite par le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^25-7]: Introduite par le ch. II 2 de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 141](https://fedlex.data.admin.ch/eli/fga/2016/44)).
@@ -549,9 +571,9 @@ Sont applicables par analogie les dispositions de la législation sur l’AVS, y
 
 <sup>3</sup> Il peut charger l’Office fédéral des assurances sociales d’accomplir les tâches prévues aux art. 72*a*, al. 2, let. b, LAVS[^27-3] et 76*a*, al. 2, LPGA.[^27-4]
 
-[^27-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^27-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
-[^27-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-4]: Introduit par l’annexe ch. 8 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 28

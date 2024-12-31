@@ -4,11 +4,11 @@ title: "Legge federale del 24 marzo 2006 sugli assegni familiari e sugli aiuti f
 short: LAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2008-51-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2008-51-20250101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20240101/it"
 
 (Legge sugli assegni familiari, LAFam)[^t-1]
 
-del 24 marzo 2006 (Stato 1° gennaio 2024)
+del 24 marzo 2006 (Stato 1° gennaio 2025)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -27,9 +27,9 @@ visto l’articolo 116 capoversi 1, 2 e 4 della Costituzione federale[^ingress-1
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
-[^ingress-3]: FF **1999** 2759
+[^ingress-3]: [FF 1999 III 2759](https://fedlex.data.admin.ch/eli/fga/1999/1___2759)
 [^ingress-4]: [FF 2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)
 [^ingress-5]: [FF 2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988)
 [^ingress-6]: [FF 2004 6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)
@@ -42,7 +42,7 @@ decreta:
 
 <sup>2</sup> Le disposizioni della LPGA non sono applicabili agli aiuti finanziari a organizzazioni familiari.[^1-3]
 
-[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^1-2]: Nuovo testo del per. giusta l’all. n. 8 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^1-3]: Introdotto dal n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -69,9 +69,9 @@ Gli assegni familiari ai sensi della presente legge comprendono:
 
 <sup>3</sup> L’assegno di nascita è versato per ogni figlio nato vivo o dopo 23 settimane di gravidanza almeno. Il Consiglio federale può stabilire altre condizioni. L’assegno di adozione è versato per ogni minorenne accolto per futura adozione. L’adozione del figliastro conformemente all’articolo 264*c* del Codice civile[^3-3] non conferisce alcun diritto.[^3-4]
 
-[^3-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-2]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
-[^3-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^3-4]: Nuovo testo del per. giusta l’all. n. 4 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 4
@@ -91,17 +91,20 @@ Danno diritto agli assegni familiari:
 
 <sup>3</sup> Per i figli residenti all’estero, il Consiglio federale disciplina le condizioni del diritto agli assegni. L’importo degli assegni dipende dal potere d’acquisto nello Stato di domicilio.
 
-[^4-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 5
 
 **Importo e adeguamento degli assegni familiari**
 
-<sup>1</sup> L’assegno per i figli ammonta ad almeno 200 franchi mensili.
+<sup>1</sup> L’assegno per i figli ammonta ad almeno 215[^5-1] franchi mensili.
 
-<sup>2</sup> L’assegno di formazione ammonta ad almeno 250 franchi mensili.
+<sup>2</sup> L’assegno di formazione ammonta ad almeno 268[^5-2] franchi mensili.
 
 <sup>3</sup> Il Consiglio federale adegua al rincaro gli importi minimi degli assegni allorché procede all’adeguamento delle rendite dell’assicurazione vecchiaia e superstiti (AVS), sempre che l’indice nazionale dei prezzi al consumo sia aumentato almeno di 5 punti dopo l’ultima determinazione.
+
+[^5-1]: Nuovo importo giusta l’art. 1 cpv. 1 dell’O sull’adeguamento degli assegni familiari all’evoluzione dei prezzi, in vigore dal 1° gen. 2025 ([RU 2024 493](https://fedlex.data.admin.ch/eli/oc/2024/493)).
+[^5-2]: Nuovo importo giusta l’art. 1 cpv. 2 dell’O sull’adeguamento degli assegni familiari all’evoluzione dei prezzi, in vigore dal 1° gen. 2025 ([RU 2024 493](https://fedlex.data.admin.ch/eli/oc/2024/493)).
 
 #### Art. 6
 
@@ -144,7 +147,7 @@ Gli aventi diritto tenuti a pagare contributi di mantenimento per i figli in bas
 
 <sup>2</sup> Su richiesta motivata, l’assegno di formazione può essere versato direttamente al figlio maggiorenne, in deroga all’articolo 20 capoverso 1 LPGA.
 
-[^9-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^9-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 10
 
@@ -174,7 +177,7 @@ Sottostanno alla presente legge:
 
 <sup>2</sup> È considerato salariato chi è definito tale dalla legislazione AVS.
 
-[^11-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-2]: Introdotta dal n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 12
@@ -282,7 +285,7 @@ Le casse di compensazione per assegni familiari sottostanno alla vigilanza dei C
 
 I salariati agricoli e i contadini indipendenti hanno diritto agli assegni familiari conformemente alla legge federale del 20 giugno 1952[^18-1] sugli assegni familiari nell’agricoltura.
 
-[^18-1]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^18-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ### Sezione 3: Persone prive di attività lucrativa
 
@@ -299,7 +302,7 @@ I salariati agricoli e i contadini indipendenti hanno diritto agli assegni famil
 <sup>2</sup> Il diritto agli assegni familiari è vincolato alla condizione che il reddito imponibile non ecceda il 150 per cento di una rendita massima completa di vecchiaia dell’AVS e che non vengano riscosse prestazioni complementari all’AVS/AI.
 
 [^19-1]: Introdotto dal n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^19-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^19-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^19-3]: Introdotto dal n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 #### Art. 20
@@ -310,7 +313,7 @@ I salariati agricoli e i contadini indipendenti hanno diritto agli assegni famil
 
 <sup>2</sup> I Cantoni possono disporre che le persone prive di un’attività lucrativa paghino un contributo in percentuale dei loro contributi AVS, nella misura in cui questi eccedono il contributo minimo di cui all’articolo 10 LAVS[^20-1].
 
-[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 21
 
@@ -333,7 +336,10 @@ L’Ufficio centrale di compensazione tiene un registro degli assegni familiari 
 - a. prevenire il cumulo di assegni familiari secondo l’articolo 6;
 - b. creare trasparenza sugli assegni familiari versati;
 - c. assistere i servizi di cui all’articolo 21*c* nell’esecuzione della presente legge;
-- d. informare la Confederazione e i Cantoni e fornire i dati necessari alle rilevazioni statistiche.
+- d. informare la Confederazione e i Cantoni e fornire i dati necessari alle rilevazioni statistiche;
+- e.[^21a-1] informare i competenti servizi federali e cantonali in caso di esercizio di un diritto a prestazioni, se una legge federale prevede il diritto all’informazione.
+
+[^21a-1]: Introdotta dall’all. n. 5 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 21b
 
@@ -356,9 +362,9 @@ I seguenti servizi notificano immediatamente all’Ufficio centrale di compensaz
 - c. le casse di compensazione AVS, per l’adempimento dei loro compiti secondo l’articolo 13 della legge federale del 20 giugno 1952[^21c-2] sugli assegni familiari nell’agricoltura e l’articolo 60 capoverso 1 della legge federale del 19 giugno 1959[^21c-3] su l’assicurazione per l’invalidità;
 - d. i servizi cantonali competenti per l’esecuzione degli assegni familiari delle persone senza attività lucrativa.
 
-[^21c-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^21c-2]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^21c-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^21c-1]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^21c-2]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^21c-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 21d
 
@@ -376,6 +382,19 @@ Il Consiglio federale emana le disposizioni d’esecuzione in collaborazione con
 - b. l’accesso ai dati;
 - c. le misure organizzative e tecniche necessarie alla garanzia della protezione e della sicurezza dei dati;
 - d. la durata di conservazione dei dati.
+
+#### Art. 21e<sup>bis</sup>
+
+**Accesso dei Cantoni ai dati ai fini dell’esecuzione della riduzione individuale dei premi**[^21ebis-1]
+
+<sup>1</sup> I servizi cantonali competenti possono accedere ai dati del registro degli assegni familiari che sono necessari per l’esecuzione della riduzione individuale dei premi di cui all’articolo 65 capoverso 1 della legge federale del 18 marzo 1994[^21ebis-2] sull’assicurazione malattie.
+
+<sup>2</sup> Per ottenere l’accesso ai dati si registrano presso l’Ufficio federale delle assicurazioni sociali (UFAS).
+
+<sup>3</sup> I costi relativi all’accesso ai dati sono a carico dei Cantoni.
+
+[^21ebis-1]: Introdotto dall’all. n. 5 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21ebis-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ## Capitolo 3*b*: Aiuti finanziari a organizzazioni familiari
 
@@ -437,13 +456,15 @@ Gli aiuti finanziari possono essere concessi a un’organizzazione familiare att
 
 **Procedura e aliquota massima**
 
-<sup>1</sup> Le domande di aiuti finanziari devono essere presentate all’Ufficio federale delle assicurazioni sociali (UFAS).
+<sup>1</sup> Le domande di aiuti finanziari devono essere presentate all’UFAS.[^21i-1]
 
 <sup>2</sup> Gli aiuti finanziari sono versati sulla base di un contratto di diritto pubblico.
 
 <sup>3</sup> Essi coprono al massimo il 50 per cento delle spese computabili (aliquota massima).
 
 <sup>4</sup> Il Consiglio federale disciplina i dettagli della procedura e delle spese computabili.
+
+[^21i-1]: Nuovo testo giusta l’all. n. 5 della LF del 14 giu. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno), in vigore dal 1° gen. 2025 ([RU 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [FF 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 ## Capitolo 4: Contenzioso e disposizioni penali
 
@@ -453,7 +474,7 @@ Gli aiuti finanziari possono essere concessi a un’organizzazione familiare att
 
 In deroga all’articolo 58 capoversi 1 e 2 LPGA[^22-1], i ricorsi contro le decisioni delle casse di compensazione per assegni familiari sono giudicati dal tribunale delle assicurazioni del Cantone il cui ordinamento sugli assegni familiari è applicabile.
 
-[^22-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^22-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 23
 
@@ -461,7 +482,7 @@ In deroga all’articolo 58 capoversi 1 e 2 LPGA[^22-1], i ricorsi contro le dec
 
 Gli articoli 87–91 LAVS[^23-1] sono applicabili alle persone che violano le prescrizioni della presente legge in uno dei modi specificati in dette disposizioni.
 
-[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Capitolo 5: Rapporto con il diritto europeo
 
@@ -492,12 +513,12 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 <sup>4</sup> Nella presente legge le espressioni «Stati membri dell’Unione europea», «Stati membri della Comunità europea», «Stati dell’Unione europea» e «Stati della Comunità europea» designano gli Stati cui si applica l’Accordo sulla libera circolazione delle persone.
 
 [^24-1]: Nuovo testo giusta l’all. n. 9 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^24-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^24-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale, GU L 166 del 30.4.2004, pag. 1; una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323).
-[^24-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale (con allegati); una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356).
+[^24-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^24-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale, GU L 166 del 30.4.2004, pag. 1; una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724).
+[^24-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale (con allegati); una versione consolidata non vincolante di questo regolamento è pubblicata in [RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
 [^24-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità.
 [^24-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità.
-[^24-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^24-7]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -518,10 +539,10 @@ Le disposizioni della legislazione sull’AVS, con le loro eventuali deroghe all
 - f.[^25-8] al numero AVS (art. 50*c* LAVS);
 - g.[^25-9] all’utilizzazione sistematica del numero AVS (art. 153b–153i LAVS).
 
-[^25-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^25-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^25-2]: Nuovo testo giusta l’all. n. 8 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^25-3]: Ora art. 49*f*.
-[^25-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^25-5]: Introdotta dall’all. n. 8 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^25-6]: Introdotta dal n. II 2 della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^25-7]: Introdotta dal n. II 2 della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
@@ -548,9 +569,9 @@ Le disposizioni della legislazione sull’AVS, con le loro eventuali deroghe all
 
 <sup>3</sup> Il Consiglio federale può incaricare l’Ufficio federale delle assicurazioni sociali di svolgere i compiti di cui all’articolo 72*a* capoverso 2 lettera b LAVS[^27-3] e all’articolo 76*a* capoverso 2 LPGA.[^27-4]
 
-[^27-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^27-2]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
-[^27-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-4]: Introdotto dall’all. n. 8 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 28
@@ -597,6 +618,6 @@ Allegato
 
 ## Modifica del diritto vigente
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51).

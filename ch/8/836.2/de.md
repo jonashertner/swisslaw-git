@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 24. März 2006 über die Familienzulagen und Finanzhilf
 short: FamZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-51-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2008-51-20250101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20240101/de"
 
 (Familienzulagengesetz, FamZG)[^t-1]
 
-vom 24. März 2006 (Stand am 1. Januar 2024)
+vom 24. März 2006 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -27,9 +27,9 @@ gestützt auf Artikel 116 Absätze 1, 2 und 4 der Bundesverfassung[^ingress-1],[
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
-[^ingress-3]: BBl **1999** 3220
+[^ingress-3]: [BBl 1999 III 3220](https://fedlex.data.admin.ch/eli/fga/1999/1_3220__)
 [^ingress-4]: [BBl 2004 6887](https://fedlex.data.admin.ch/eli/fga/2004/1201)
 [^ingress-5]: [BBl 2000 4784](https://fedlex.data.admin.ch/eli/fga/2000/988)
 [^ingress-6]: [BBl 2004 6941](https://fedlex.data.admin.ch/eli/fga/2004/1203)
@@ -42,7 +42,7 @@ beschliesst:
 
 <sup>2</sup> Die Bestimmungen des ATSG sind auf die Finanzhilfen an Familienorganisationen nicht anwendbar.[^1-3]
 
-[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^1-2]: Fassung des zweiten Satzes gemäss Anhang Ziff. 8 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^1-3]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -69,9 +69,9 @@ Die Familienzulagen nach diesem Gesetz umfassen:
 
 <sup>3</sup> Die Geburtszulage wird für jedes Kind ausgerichtet, das lebend oder nach mindestens 23 Wochen Schwangerschaft geboren wurde. Der Bundesrat kann weitere Voraussetzungen festlegen. Die Adoptionszulage wird für jedes minderjährige Kind ausgerichtet, das zur späteren Adoption aufgenommen wird. Keinen Anspruch gibt die Adoption eines Kindes nach Artikel 264*c* des Zivilgesetzbuches[^3-3].[^3-4]
 
-[^3-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^3-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
-[^3-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^3-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^3-4]: Fassung des vierten Satzes gemäss Anhang Ziff. 4 des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 4
@@ -91,17 +91,20 @@ Zum Anspruch auf Familienzulagen berechtigen:
 
 <sup>3</sup> Für im Ausland wohnhafte Kinder regelt der Bundesrat die Voraussetzungen für den Anspruch auf Familienzulagen. Deren Höhe richtet sich nach der Kaufkraft im Wohnsitzstaat.
 
-[^4-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^4-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 5
 
 **Höhe der Familienzulagen; Anpassung der Ansätze**
 
-<sup>1</sup> Die Kinderzulage beträgt mindestens 200 Franken pro Monat.
+<sup>1</sup> Die Kinderzulage beträgt mindestens 215 Franken[^5-1] pro Monat.
 
-<sup>2</sup> Die Ausbildungszulage beträgt mindestens 250 Franken pro Monat.
+<sup>2</sup> Die Ausbildungszulage beträgt mindestens 268 Franken[^5-2] pro Monat.
 
 <sup>3</sup> Der Bundesrat passt die Mindestansätze auf den gleichen Zeitpunkt wie die Renten der Alters- und Hinterlassenenversicherung (AHV) der Teuerung an, sofern der Landesindex der Konsumentenpreise seit der letzten Festsetzung der Ansätze um mindestens 5 Punkte gestiegen ist.
+
+[^5-1]: Betrag gemäss Art. 1 Abs. 1 der V vom 28. Aug. 2024 über die Anpassung der Familienzulagen an die Preisentwicklung, in Kraft seit 1. Jan. 2025 ([AS 2024 493](https://fedlex.data.admin.ch/eli/oc/2024/493)).
+[^5-2]: Betrag gemäss Art. 1 Abs. 2 der V vom 28. Aug. 2024 über die Anpassung der Familienzulagen an die Preisentwicklung, in Kraft seit 1. Jan. 2025 ([AS 2024 493](https://fedlex.data.admin.ch/eli/oc/2024/493)).
 
 #### Art. 6
 
@@ -143,7 +146,7 @@ Anspruchsberechtigte Personen, die auf Grund eines Gerichtsurteils oder einer Ve
 
 <sup>2</sup> Auf begründetes Gesuch hin kann die Ausbildungszulage in Abweichung von Artikel 20 Absatz 1 ATSG direkt dem mündigen Kind ausgerichtet werden.
 
-[^9-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^9-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 10
 
@@ -173,7 +176,7 @@ Diesem Gesetz unterstehen:
 
 <sup>2</sup> Als Arbeitnehmerin oder Arbeitnehmer gilt, wer nach der Bundesgesetzgebung über die AHV als solche oder als solcher betrachtet wird.
 
-[^11-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-2]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 12
@@ -281,7 +284,7 @@ Die Familienausgleichskassen stehen unter der Aufsicht der Kantone. Unter Vorbeh
 
 Die landwirtschaftlichen Arbeitnehmerinnen und Arbeitnehmer sowie die selbständigerwerbenden Landwirtinnen und Landwirte haben Anspruch auf Familienzulagen nach dem Bundesgesetz vom 20. Juni 1952[^18-1] über die Familienzulagen in der Landwirtschaft.
 
-[^18-1]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^18-1]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ### 3. Abschnitt: Nichterwerbstätige
 
@@ -298,7 +301,7 @@ Die landwirtschaftlichen Arbeitnehmerinnen und Arbeitnehmer sowie die selbständ
 <sup>2</sup> Der Anspruch auf Familienzulagen ist an die Voraussetzung geknüpft, dass das steuerbare Einkommen den anderthalbfachen Betrag einer maximalen vollen Altersrente der AHV nicht übersteigt und keine Ergänzungsleistungen zur AHV/IV bezogen werden.
 
 [^19-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^19-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^19-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^19-3]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 #### Art. 20
@@ -309,7 +312,7 @@ Die landwirtschaftlichen Arbeitnehmerinnen und Arbeitnehmer sowie die selbständ
 
 <sup>2</sup> Die Kantone können vorsehen, dass Nichterwerbstätige einen in Prozenten ihrer AHV-Beiträge zu berechnenden Beitrag leisten müssen, sofern diese Beiträge den Mindestbeitrag nach Artikel 10 AHVG[^20-1] übersteigen.
 
-[^20-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 21
 
@@ -332,7 +335,10 @@ Die Zentrale Ausgleichsstelle führt ein Familienzulagenregister, um:
 - a. den Doppelbezug von Familienzulagen nach Artikel 6 zu verhindern;
 - b. Transparenz über bezogene Familienzulagen herzustellen;
 - c. die Stellen nach Artikel 21*c* beim Vollzug dieses Gesetzes zu unterstützen;
-- d. dem Bund und den Kantonen als Auskunftsstelle zu dienen, sowie die für die statistischen Erhebungen benötigten Daten zu liefern.
+- d. dem Bund und den Kantonen als Auskunftsstelle zu dienen, sowie die für die statistischen Erhebungen benötigten Daten zu liefern;
+- e.[^21a-1] die zuständigen Stellen von Bund und Kantonen im Falle der Geltendmachung von Leistungsansprüchen zu informieren, wenn der Informationsanspruch in einem Bundesgesetz vorgesehen ist.
+
+[^21a-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 21b
 
@@ -355,9 +361,9 @@ Die folgenden Stellen melden der Zentralen Ausgleichsstelle unverzüglich die f�
 - c. die AHV-Ausgleichskassen für die Erfüllung ihrer Aufgaben nach Artikel 13 des Bundesgesetzes vom 20. Juni 1952[^21c-2] über die Familienzulagen in der Landwirtschaft und nach Artikel 60 Absatz 1 des Bundesgesetzes vom 19. Juni 1959[^21c-3] über die Invalidenversicherung;
 - d. die kantonalen Stellen, die für die Durchführung der Familienzulagen für Nichterwerbstätige zuständig sind.
 
-[^21c-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^21c-2]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^21c-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^21c-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^21c-2]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^21c-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 21d
 
@@ -375,6 +381,19 @@ Der Bundesrat erlässt in Zusammenarbeit mit den Stellen nach Artikel 21*c* die 
 - b. der Zugriff auf die Daten;
 - c. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen;
 - d. die Aufbewahrungsdauer der Daten.
+
+#### Art. 21e<sup>bis</sup>
+
+**Zugriff der Kantone auf die Daten für die Durchführung der individuellen Prämienverbilligung**[^21ebis-1]
+
+<sup>1</sup> Die zuständigen kantonalen Stellen können für die Durchführung der individuellen Prämienverbilligung nach Artikel 65 Absatz 1 des Bundesgesetzes vom 18. März 1994[^21ebis-2] über die Krankenversicherung auf die dafür erforderlichen Daten des Familienzulagenregisters zugreifen.
+
+<sup>2</sup> Sie melden sich für den Zugriff auf das Register beim Bundesamt für Sozialversicherungen (BSV) an.
+
+<sup>3</sup> Die Kosten für den Zugriff auf die Daten werden von den Kantonen getragen.
+
+[^21ebis-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^21ebis-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ## 3*b*. Kapitel: Finanzhilfen an Familienorganisationen
 
@@ -436,13 +455,15 @@ Finanzhilfen können einer im ganzen Gebiet einer Sprachregion tätigen Familien
 
 **Verfahren und Höchstsatz**
 
-<sup>1</sup> Gesuche um Finanzhilfen sind beim Bundesamt für Sozialversicherungen (BSV) einzureichen.
+<sup>1</sup> Gesuche um Finanzhilfen sind beim BSV einzureichen.[^21i-1]
 
 <sup>2</sup> Die Finanzhilfen werden auf der Grundlage eines öffentlich-rechtlichen Vertrags ausgerichtet.
 
 <sup>3</sup> Sie decken höchstens 50 Prozent der anrechenbaren Ausgaben (Höchstsatz).
 
 <sup>4</sup> Der Bundesrat regelt die Einzelheiten des Verfahrens und der anrechenbaren Ausgaben.
+
+[^21i-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 ## 4. Kapitel: Rechtspflege und Strafbestimmungen
 
@@ -452,7 +473,7 @@ Finanzhilfen können einer im ganzen Gebiet einer Sprachregion tätigen Familien
 
 Über Beschwerden gegen Entscheide der Familienausgleichskassen entscheidet in Abweichung von Artikel 58 Absätze 1 und 2 ATSG[^22-1] das Versicherungsgericht des Kantons, dessen Familienzulagenordnung anwendbar ist.
 
-[^22-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^22-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 23
 
@@ -460,7 +481,7 @@ Finanzhilfen können einer im ganzen Gebiet einer Sprachregion tätigen Familien
 
 Die Artikel 87–91 AHVG[^23-1] sind anwendbar auf Personen, die in einer in diesen Bestimmungen umschriebenen Weise die Vorschriften des vorliegenden Gesetzes verletzen.
 
-[^23-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 5. Kapitel: Verhältnis zum europäischen Recht
 
@@ -491,12 +512,12 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 <sup>4</sup> Die Ausdrücke «Mitgliedstaaten der Europäischen Union», «Mitgliedstaaten der Europäischen Gemeinschaft», «Staaten der Europäischen Union» und «Staaten der Europäischen Gemeinschaft» im vorliegenden Gesetz bezeichnen die Staaten, für die das Freizügigkeitsabkommen gilt.
 
 [^24-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 21. Juni 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [BBl 2018 1607](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^24-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^24-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, ABl. L 166 vom 30.4.2004, S. 1; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323).
-[^24-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (mit Anhängen); eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356).
+[^24-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^24-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, ABl. L 166 vom 30.4.2004, S. 1; eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724).
+[^24-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit (mit Anhängen); eine unverbindliche, konsolidierte Fassung dieser Verordnung ist veröffentlicht in [SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725).
 [^24-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern.
 [^24-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern.
-[^24-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^24-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -517,9 +538,9 @@ Die Bestimmungen der AHV-Gesetzgebung mit ihren allfälligen Abweichungen vom AT
 - f.[^25-7] die AHV-Nummer (Art. 50*c* AHVG);
 - g.[^25-8] die systematische Verwendung der AHV-Nummer (Art. 153*b*–153*i* AHVG).
 
-[^25-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^25-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^25-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^25-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^25-4]: Eingefügt durch Anhang Ziff. 8 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^25-5]: Eingefügt durch Ziff. II 2 des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
 [^25-6]: Eingefügt durch Ziff. II 2 des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [BBl 2016 157](https://fedlex.data.admin.ch/eli/fga/2016/44)).
@@ -546,9 +567,9 @@ Die Bestimmungen der AHV-Gesetzgebung mit ihren allfälligen Abweichungen vom AT
 
 <sup>3</sup> Er kann das Bundesamt für Sozialversicherungen beauftragen, die Aufgaben nach Artikel 72*a* Absatz 2 Buchstabe b AHVG[^27-3] und Artikel 76*a* Absatz 2 ATSG wahrzunehmen.[^27-4]
 
-[^27-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^27-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
-[^27-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-4]: Eingefügt durch Anhang Ziff. 8 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 28
