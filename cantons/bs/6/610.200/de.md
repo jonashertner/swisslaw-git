@@ -4,13 +4,12 @@ number: "610.200"
 title: Finanz- und Verwaltungskontrollgesetz
 short: FVKG
 language: de
-version: 2016-07-01
-valid_until: 2024-12-31
-version_adopted: 2015-06-03
+version: 2025-01-01
+version_adopted: 2022-10-20
 adopted: 2003-09-17
 in_force: 2003-11-02
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/610.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4782/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6466/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Finanzkontrollgesetz | Finanzordnung
 
 (FVKG)
 
-Vom 17. September 2003 (Stand 1. Juli 2016)
+Vom 17. September 2003 (Stand 1. Januar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -250,7 +249,7 @@ beschliesst folgendes Gesetz:
 
 <sup>1</sup> Beschlüsse und Verfügungen des Grossen Rats, der Regierung, der Gerichte, der Departemente und der Dienststellen sowie der selbständigen öffentlich-rechtlichen und privatrechtlichen Anstalten, die den Finanzhaushalt des Kantons betreffen, sind der Finanzkontrolle zugänglich zu machen.
 
-<sup>2</sup> Die Finanzkontrolle hat das Recht, die für die Wahrnehmung der Finanzaufsicht erforderlichen Personendaten aus den Datensammlungen der Departemente und Dienststellen, der Gerichte sowie der selbständigen öffentlich-rechtlichen und privatrechtlichen Anstalten abzurufen. Soweit die Daten für die Aufgabenerfüllung geeignet und erforderlich sind, erstreckt sich das Zugriffsrecht auch auf besonders schützenswerte Personendaten. Die Finanzkontrolle unterliegt dabei der gleichen Geheimhaltungspflicht wie die geprüfte Stelle. Die Finanzkontrolle darf die ihr derart zur Kenntnis gebrachten Personendaten nur bis zum Abschluss des Revisionsverfahrens aufbewahren oder speichern. Die Zugriffe auf die verschiedenen Datensammlungen und die damit verfolgten Zwecke müssen dokumentiert sein.
+<sup>2</sup> Die Finanzkontrolle hat das Recht, die für die Wahrnehmung der Finanzaufsicht erforderlichen Personendaten aus den Datensammlungen der Departemente und Dienststellen, der Gerichte sowie der selbständigen öffentlich-rechtlichen und privatrechtlichen Anstalten abzurufen. Soweit die Daten für die Aufgabenerfüllung geeignet und erforderlich sind, erstreckt sich das Zugriffsrecht auch auf besondere Personendaten. Die Finanzkontrolle unterliegt dabei der gleichen Geheimhaltungspflicht wie die geprüfte Stelle. Die Finanzkontrolle darf die ihr derart zur Kenntnis gebrachten Personendaten nur bis zum Abschluss des Revisionsverfahrens aufbewahren oder speichern. Die Zugriffe auf die verschiedenen Datensammlungen und die damit verfolgten Zwecke müssen dokumentiert sein.
 
 #### § 23
 
