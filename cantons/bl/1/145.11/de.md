@@ -4,20 +4,22 @@ number: "145.11"
 title: Dienstordnung der Sicherheitsdirektion
 short: Do SID
 language: de
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-06-25
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-17
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/145.11"
-pdf: "https://bl.clex.ch/api/de/versions/3945/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4112/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Sicherheitsdirektion
 
-Vom 23.10.1984 (Stand 01.09.2024)
+(Do SID)
+
+Vom 17.12.2024 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -34,531 +36,413 @@ beschliesst:
 
 #### § 1
 
-**Aufgaben der Sicherheitsdirektion**
+**Geltungsbereich**
 
-<sup>1</sup> In den Geschäftsbereich der Sicherheitsdirektion fallen namentlich:
+<sup>1</sup> Diese Dienstordnung regelt die Organisation und Aufgaben der Sicherheitsdirektion und ihrer Dienststellen.
 
-- a. Im Bereich des Justizwesens:
-  - 1\. juristische Vorbereitung der Gesetzgebung,
-  - 2\. Begutachtung der vom Regierungsrat zugewiesenen Rechtsfragen,
-  - 3\. Vorbereitung von Beschwerdeentscheiden des Regierungsrats,
-  - 4\. Massnahmen staatsrechtlicher Natur im Verkehr mit anderen Kantonen, dem Bund oder dem Ausland,
-  - 5\. Aufsicht über das Erbschafts-, das Grundbuch-, das Betreibungs- und Konkurswesen sowie die Handelsregisterführung;
-  - 6\. Vorbereitung von Entscheiden betreffend Umwandlung, Aufhebung und Löschung von Stiftungen unter kommunaler Aufsicht gemäss Art. 85, 86, 88 und 89 ZGB bzw. § 52 EG ZGB,
-  - 7\. Aufsicht über die Kindes- und Erwachsenenschutzbehörden; Aufgaben der kantonalen Zentralbehörde für internationalen Kindes- und Erwachsenenschutz,
-  - 8\. die Strafverfolgung,
-  - 9\. Bürgerrechtswesen,
-  - 10\. Zivilstandswesen,
-  - 11\. Integrationsfragen,
-  - 12\. Kindesschutz- und Familienfragen,
-  - 13\. Entbindungen vom Amtsgeheimnis für Dienststellenleitungen und Mitarbeitende der Sicherheitsdirektion,
-  - 14\. frühe Sprachförderung.
-- b. Im Bereich öffentliche Sicherheit:
-  - 1\. Sicherheits-, Kriminal- und Verkehrspolizei,
-  - 2\. Motorfahrzeugkontrolle,
-  - 3\. kantonale Koordinationsstelle Strafregister,
-  - 4\. Straf- und Massnahmenvollzug sowie Bewährungshilfe,
-  - 5\. Gefängniswesen,
-  - 6\. Opferhilfe,
-  - 7\. Frauenhaus,
-  - 8\. Klärung und Regelung der Anwesenheitsberechtigung von ausländischen Personen,
-  - 9\. Ausweisschriften für Schweizerbürgerinnen und -bürger (Pässe und Identitätskarten),
-  - 10\. Bewilligungen, Vollzug und Aufsicht im Bereich des Reisendengewerbes,
-  - 11\. Bewilligungen, Vollzug und Aufsicht im Bereich des Gastgewerbes und des Alkoholverkaufs,
-  - 12\. Bewilligungen, Vollzug und Aufsicht im Bereich des Sammlungswesens, der Kleinspiele (Kleinlotterien, lokale Sportwetten, kleine Pokerturniere, kleine Geschicklichkeitsspiele), Vollzug und Aufsicht der Kleinspiele an Unterhaltungsanlässen (Tombola, Lottospiele), sowie Erhebung von Abgaben auf Geschicklichkeitsspielautomaten;
-  - 13\. Aufsicht über das Filmwesen,
-  - 14\. Verwaltung des Swisslos-Fonds,
-  - 15\. Vollzug zivil- und verwaltungsrechtlicher Entscheide,
-  - 16\. Bedrohungsmanagement.
-- c. Im Bereich des Militärwesens und des Bevölkerungsschutzes:
-  - 1\. Vollzug der Militärgesetzgebung und der Verfügungen des Departements für Verteidigung, Bevölkerungsschutz und Sport (VBS),
-  - 2\. Vollzug des Gesetzes über Beiträge an Schiessanlagen,
-  - 3\. Vollzug der Vorschriften über den Wehrpflichtersatz,
-  - 4\. Aufsicht über das Schiesswesen ausser Dienst und Ernennung der kantonalen Schiesskommission,
-  - 5\. Vollzug der Militärgesetzgebung,
-  - 6\. Vollzug der Gesetzgebung über den Bevölkerungsschutz, den Zivilschutz, den Kulturgüterschutz und der wirtschaftlichen Landesversorgung,
-  - 7\. Sicherstellung der Einsatzbereitschaft der Schadenplatzkommandos.
+<sup>2</sup> Die Vorsteherin bzw. der Vorsteher der Sicherheitsdirektion regelt Ausführungen dazu in einem Reglement.
 
 #### § 2
 
-**Dienststellen**
+**Dienststellen der Sicherheitsdirektion**
 
-<sup>1</sup> Die Gliederung der Direktion in Dienststellen richtet sich nach § 10 der Verordnung vom 19. Dezember 2017[^2-1] zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft.
+<sup>1</sup> Die Gliederung in Dienststellen richtet sich nach § 10 der Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft[^2-1].
 
 [^2-1]: [SGS 140.11](https://bl.clex.ch/data/140.11/de/art10)
 
-#### § 2a
-
-**…**
-
 #### § 3
 
-**…**
+**Führung**
 
-#### § 3a
+<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt die Direktion mit Hilfe von Leistungsaufträgen sowie weiteren Führungsinstrumenten.
 
-**…**
+<sup>2</sup> Die Stellvertretung der Direktionsvorsteherin oder des Direktionsvorstehers in Verwaltungsbelangen wird von der Generalsekretärin oder dem Generalsekretär wahrgenommen.
 
-#### § 3b
-
-**Geschäftsleitung**
-
-<sup>1</sup> Die Geschäftsleitung setzt sich aus folgenden Mitgliedern zusammen:
-
-- a. der Direktionsvorsteherin oder dem Direktionsvorsteher;
-- b. der Generalsekretärin oder dem Generalsekretär;
-- c. 4 Dienststellenleiterinnen oder Dienststellenleitern, die von der Direktionsvorsteherin oder vom Direktionsvorsteher bestimmt werden;
-- d. der Leiterin oder dem Leiter Kommunikation.
-
-<sup>2</sup> Die Geschäftsleitung steht unter dem Vorsitz der Direktionsvorsteherin oder des Direktionsvorstehers.
-
-<sup>3</sup> Die Geschäftsleitung berät und unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher bei der Erfüllung ihrer bzw. seiner Aufgaben, insbesondere bei Geschäften des Regierungsrats und der Direktion von strategisch politischer Bedeutung.
-
-#### § 3c
-
-**Geschäftsleitung, Rhythmus und Protokoll**
-
-<sup>1</sup> Die Sitzungen der Geschäftsleitung finden in der Regel 14-täglich statt.
-
-<sup>2</sup> Es wird eine Aktennotiz über den Inhalt und die Ergebnisse der Sitzungen verfasst.
-
-<sup>3</sup> Das Generalsekretariat stellt die Aktennotiz allen Dienststellenleiterinnen und Dienststellenleitern zur Information zu.
+<sup>3</sup> Zur Koordination der Aufgaben der Direktion finden Führungssitzungen statt.
 
 #### § 4
 
-**Befugnisse der Dienststellen**
+**Ausgaben**
 
-<sup>1</sup> Die Befugnis der Dienststellen, Verfügungen zu erlassen, richtet sich nach der Gesetzgebung und den Vorschriften dieser Verordnung (§ 20 Abs. 4 RVOG BL[^4-1]).
+<sup>1</sup> Die Dienststellenleiterin oder der Dienststellenleiter ist verantwortlich für die Kosten- und Leistungsrechnung gemäss § 31 des Finanzhaushaltsgesetzes[^4-1].
 
-<sup>2</sup> Die Befugnis der Abteilungen und Ressorts, Verfügungen zu erlassen, richtet sich nach der Gesetzgebung. Soweit ihre Abteilungen und Ressorts von der Dienststelle mit der selbständigen Erledigung von Aufgaben beauftragt sind, erlassen und unterzeichnen sie die Verfügungen im Namen der Dienststellen.
+<sup>2</sup> Die Zuständigkeit für Ausgabenbewilligungen richtet sich nach dem Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Sicherheitsdirektion[^4-2].
 
-<sup>3</sup> Die Dienststelle, welche die Verfügung erlassen hat, stellt die Rechtskraftbescheinigung gemäss § 30 Abs. 3 Bst. a der Verordnung vom 30. November 2004[^4-2] zum Verwaltungsverfahrensgesetz Basel-Landschaft (Vo VwVG BL) aus.
-
-[^4-1]: [SGS 140](https://bl.clex.ch/data/140/de/art20)
-[^4-2]: [SGS 175.11](https://bl.clex.ch/data/175.11/de/art30)
+[^4-1]: [SGS 310](https://bl.clex.ch/data/310/de/art31)
+[^4-2]: [SGS 145.111](https://bl.clex.ch/data/145.111/de)
 
 #### § 5
 
-**Dienststellenleiterinnen und Dienststellenleiter**
+**Erlass von Verfügungen**
 
-<sup>1</sup> Die Dienststellenleiterin oder der Dienststellenleiter unterzeichnet die Verfügungen im Namen der Dienststelle.
+<sup>1</sup> Die Dienstellenleiterin oder der Dienststellenleiter sowie ihre oder seine Stellvertretung ist zur Unterzeichnung der Verfügungen zuständig, die im Aufgabenbereich der Dienststelle zu erlassen sind.
 
-<sup>2</sup> Sie oder er kann die Unterschriftsberechtigung an Mitarbeitende delegieren, unter Vorbehalt von § 4 Abs. 2 2. Satz.
+<sup>2</sup> Sie bzw. er kann die Verfügungskompetenz in bestimmten Aufgabenbereichen mit der Genehmigung der Direktionsvorsteherin oder dem Direktionsvorsteher an einzelne Organisationseinheiten der Dienststelle delegieren.
 
-<sup>3</sup> Sie oder er erlässt die Stellenbeschriebe für die Abteilungs- und Ressortleiterinnen und -leiter.
+<sup>3</sup> Die Dienststelle, welche die Verfügung erlassen hat, stellt auf Verlangen die Rechtskraftbescheinigung gemäss Verwaltungsverfahrensgesetzgebung aus.
 
-<sup>4</sup> Die Delegation der Unterschriftsberechtigung und die Stellenbeschriebe bedürfen der Genehmigung der Direktionsvorsteherin oder des Direktionsvorstehers.
+#### § 6
 
-#### § 5bis
+**Abschluss von Verträgen**
+
+<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher regelt die Kompetenzen beim Abschluss von Verträgen in einem Reglement.
+
+#### § 7
+
+**Stellvertretung**
+
+<sup>1</sup> Die Dienststellenleiterin oder der Dienststellenleiter bezeichnet mit Zustimmung der Direktionsvorsteherin oder des Direktionsvorstehers ihre oder seine Stellvertretung.
+
+#### § 8
+
+**Anstellungsbehörden**
+
+<sup>1</sup> Die Anstellungsbehörden sind in der Personalverordnung[^8-1] geregelt.
+
+<sup>2</sup> Für die Erste Staatsanwältin oder den Ersten Staatsanwalt, die Leitenden Staatsanwältinnen oder die Leitenden Staatsanwälte, die übrigen Staatsanwältinnen und Staatsanwälte, die Leitende Jugendanwältin oder der Leitende Jugendanwalt sowie die weiteren Jugendanwältinnen und Jugendanwälte übernimmt die Sicherheitsdirektion die administrativen Funktionen, welche das Personalrecht den Anstellungsbehörden überträgt.
+
+<sup>3</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher regelt die Zeichnungsbefugnis für Arbeitsverträge, personalrechtliche Verfügungen und Vereinbarungen sowie Arbeitszeugnisse im Reglement zur Dienstordnung der Sicherheitsdirektion[^8-2].
+
+<sup>4</sup> Vorbehalten bleiben Vereinbarungen der Direktionsvorsteherin oder des Direktionsvorstehers mit Dienststellen über die Delegation von personalrechtlichen Kompetenzen diese.
+
+[^8-1]: [SGS 150.11](https://bl.clex.ch/data/150.11/de)
+[^8-2]: [SGS 145.112](https://bl.clex.ch/data/145.112/de)
+
+#### § 9
 
 **Pikettdienst**
 
-<sup>1</sup> Zuständig für die schriftliche Anordnung von Pikettdienst für die Dienststellenleitungen ist die Vorsteherin oder der Vorsteher der Sicherheitsdirektion.
+<sup>1</sup> Die Vorsteherin oder der Vorsteher der Sicherheitsdirektion ist zuständig für die schriftliche Anordnung von Pikettdienst für die Dienststellenleitungen.
 
-<sup>2</sup> Zuständig für die schriftliche Anordnung von Pikettdienst für alle anderen Arbeitsverhältnisse ist die Dienststellenleiterin oder der Dienststellenleiter.
+<sup>2</sup> Die Vorsteherin oder der Vorsteher der Sicherheitsdirektion ist zuständig für die schriftliche Anordnung von Pikettdienst für alle anderen Arbeitsverhältnisse.
 
 <sup>3</sup> Die zuständige Person kann die Anordnungskompetenz delegieren.
 
-#### § 5ter
+#### § 10
 
 **Pikettdienst bei der Staatsanwaltschaft und Jugendanwaltschaft**
 
 <sup>1</sup> Die Erste Staatsanwältin oder der Erste Staatsanwalt und die Leitende Jugendanwältin oder der Leitende Jugendanwalt können den Pikettdienst anordnen oder diese Kompetenz delegieren.
 
-#### § 5a
+#### § 11
 
-**Direktionskonferenz**
-
-<sup>1</sup> Zur Koordination der Aufgaben der Direktion und zum Informationsaustausch finden unter der Leitung der Direktionsvorsteherin oder des Direktionsvorstehers Direktionskonferenzen statt.
-
-<sup>2</sup> An den Direktionskonferenzen nehmen teil:
-
-- a. die Dienststellenleiterinnen und die Dienststellenleiter;
-- b. die stv. Generalsekretärin oder der stv. Generalsekretär, die Leiterin oder der Leiter Controlling, die Leiterin oder der Leiter HR sowie die Leiterin oder der Leiter Kommunikation.
-- c. weitere von der Direktionsvorsteherin oder vom Direktionsvorsteher eingeladene Personen.
-
-<sup>3</sup> Die Direktionskonferenzen finden in der Regel 3- bis 4-mal jährlich statt. Es wird eine Aktennotiz über den Inhalt und die Ergebnisse der Direktionskonferenzen verfasst.
-
-#### § 5b
-
-**Entbindung vom Amtsgeheimnis in Straf- oder Zivilverfahren**
+**Entbindung vom Amtsgeheimnis**
 
 <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher verfügt über die Entbindung vom Amtsgeheimnis für die Dienststellenleiterinnen und Dienststellenleiter.
 
 <sup>2</sup> Die Dienststellenleiterin oder der Dienststellenleiter verfügt über die Entbindung vom Amtsgeheimnis für die Mitarbeitenden.
 
-## 2 Organisation und Befugnisse der Dienststellen
+## 2 Die Dienststellen
 
-#### § 6
-
-**…**
-
-#### § 6a
-
-**Generalsekretariat**
-
-<sup>1</sup> Das Generalsekretariat ist in folgende Einheiten gegliedert:
-
-- a. Support:
-  - 1\. Informatik;
-  - 2\. Sekretariat;
-- b. Betriebswirtschaft:
-  - 1\. Finanzen;
-- c. Human Resources (HR):
-  - 1\. Organisation;
-- d. Digitalisierung;
-- e. Familien, Integration und Dienste mit den Fachbereichen:
-  - 1\. Familien;
-  - 2\. Integration;
-  - 3\. Fundbüro und Verwertungsdienst;
-  - 4\. Passbüro;
-  - 5\. Kindes- und Jugendschutz;
-  - 6\. Bewilligungen;
-- f. Kommunikation;
-- g. Rechtsetzung;
-- h. Administrative Aufsicht Kindes- und Erwachsenenschutzbehörden (KESB) / Administrative Aufsicht Schuldbetreibung und Konkurs (SchK);
-- i. Swisslos-Fonds.
-
-#### § 6b
-
-**Generalsekretariat, selbständige Aufgabenerledigung**
-
-<sup>1</sup> Dem Generalsekretariat werden folgende Aufgaben der Sicherheitsdirektion zur selbständigen Erledigung übertragen:
-
-- a. Familien, Integration und Dienste:
-  - 1\. Verfügungen des Fundbüros und des Verwertungsdienstes;
-  - 2\. Verfügungen betreffend Staatshaftung;
-  - 3\. Verfügungen betreffend Ausweisschriften für Schweizer Bürgerinnen und Bürger;
-  - 4\. Verfügungen betreffend Gastgewerbe, Alkoholverkauf, Kleinspiele (Kleinlotterien, lokale Sportwetten, kleine Pokerturniere), Kleinspiele an Unterhaltungsanlässen (Tombolas, Lottospiele), Geschicklichkeitskleinspiele, Reisendengewerbe, Taxiwesen, öffentliche Sammlungen, gewerbsmässige Partnerschaftsvermittlungen vom und ins Ausland, Konsumkreditvermittlungen und -vergaben, freiwillige Fahrnisversteigerung.
-- b. Administrative Aufsicht Kindes- und Erwachsenenschutzbehörden (KESB):
-  - 1\. Verfügungen betreffend Aufsicht.
-
-#### § 6c
-
-**Amt für Justizvollzug**
-
-<sup>1</sup> Das Amt für Justizvollzug ist in folgende Einheiten gegliedert:
-
-- a. Straf- und Massnahmenvollzug;
-- b. Bewährungshilfe;
-- c. Gefängnisse;
-- d. Opferhilfe;
-- e. Interventionsstelle gegen häusliche Gewalt;
-- f. Vollzugsbehörde Zivil- und Verwaltungsrecht;
-- g. Massnahmenzentrum für junge Erwachsene Arxhof;
-- h. Stabsdienst.
-
-#### § 6d
-
-**Amt für Justizvollzug, selbständige Aufgabenerledigung**
-
-<sup>1</sup> Dem Amt für Justizvollzug werden folgende Aufgaben der Sicherheitsdirektion zur selbständigen Erledigung übertragen:
-
-- a. Verfügungen betreffend Straf- und Massnahmenvollzug;
-- b. Verfügungen betreffend Gefängniswesen;
-- c. Verfügungen betreffend Bewährungshilfe;
-- d. Verfügungen betreffend Vollzug zivil- und verwaltungsrechtlicher Entscheide.
-
-#### § 7
-
-**…**
-
-#### § 8
-
-**…**
-
-#### § 9
-
-**…**
-
-#### § 10
-
-**…**
-
-#### § 10a
-
-**Amt für Militär und Bevölkerungsschutz**
-
-<sup>1</sup> Das Amt für Militär und Bevölkerungsschutz ist in folgende Einheiten gegliedert:
-
-- a. Ausbildung;
-- b. Operationen;
-- c. Stab.
-
-<sup>2</sup> Die vom Bundesrecht und dem kantonalen Recht übertragenen Aufgaben umfassen insbesondere:
-
-- a. die Erfassung und Orientierung der Stellungspflichtigen;
-- b. die administrative Unterstützung der Rekrutierung;
-- c. das Kontrollwesen der Wehr- und Schutzdienstpflichtigen;
-- d. den Wehrpflichtersatz;
-- e die Bewirtschaftung der kantonalen Ausbildungsinfrastrukturen für Armee und Bevölkerungsschutz;
-- f. das Schiesswesen, insbesondere die Kontrolle der Schiesspflicht , die Anerkennung der Schiessvereine, die Betriebsbewilligung für Schiessanlagen, die Ernennung der kantonalen Schiesskommissionen und die Ausrichtung von Beiträgen an regionale Schiessanlagen;
-- g. die Leitung der Planung, Umsetzung, Koordination und Steuerung der Belange des Bevölkerungsschutzes;
-- h. die Leitung und Sicherstellung der Einsatzbereitschaft des Kantonalen Krisenstabs;
-- i. die Sicherstellung der Einsatzbereitschaft der Schadenplatzkommandantinnen und Schadenplatzkommandanten sowie der Schadenplatzkommandos;
-- j. die Leitung und Sicherstellung der Einsatzbereitschaft der kantonalen Einsatzorganisationen;
-- k. die Sicherstellung der Einsatzbereitschaft der kantonalen spezifischen Stützpunktfeuerwehren für A-, B-, C-Ereignisse, Verunreinigungen auf Oberflächengewässer sowie der Rheinrettung;
-- l. die Ausbildung, das Training und die Prüfung von Führungsstäben, Formationen und Fachpersonen in den zugewiesenen Bereichen;
-- m. den Vollzug der eidgenössischen und kantonalen Gesetze des Zivilschutzes sowie in den zugewiesenen Bereichen;
-- n. die Koordination der Massnahmen in den zugewiesenen Bereichen mit dem Bund, den benachbarten Kantonen, den Gemeinden, der Armee, dem benachbarten Ausland und Privaten;
-- o. die Sicherstellung des kantonalen Delegierten der Wirtschaftlichen Landesversorgung.
-
-#### § 10b
-
-**Zusammenarbeit mit anderen Dienststellen**
-
-<sup>1</sup> Die Dienststellen der kantonalen Verwaltung erteilen dem Amt für Militär und Bevölkerungsschutz alle erforderlichen Auskünfte in Bezug auf Grossereignisse, Katastrophen, Notlagen, schwere Mangellagen und Krisen und stellen ihm die nötigen Unterlagen zur Verfügung.
-
-#### § 10c
-
-**Leitung Kantonaler Führungsstab**
-
-<sup>1</sup> Der Leiter oder die Leiterin des Amts für Militär und Bevölkerungsschutz leitet den Kantonalen Führungsstab.
-
-#### § 10d
-
-**Kreiskommandant oder Kreiskommandantin**
-
-<sup>1</sup> Der Kreiskommandant oder die Kreiskommandantin muss einen Offiziersgrad der Armee bekleiden.
-
-#### § 11
-
-**…**
+### 2.1 Generalsekretariat
 
 #### § 12
 
-**Zivilrechtsverwaltung, Aufgaben**
+**Organisation**
 
-<sup>1</sup> Der Aufgabenbereich der Zivilrechtsverwaltung umfasst namentlich:
+<sup>1</sup> Das Generalsekretariat gliedert sich wie folgt:
 
-- a. Grundbuchführung;
-- b. Handelsregisterführung;
-- c. Betreibungs- und Konkurswesen;
-- d. Verschreibungsprotokoll für die Viehverpfändung;
-- e. Eigentumsvorbehaltsregister;
-- f. öffentliche Grundstücksversteigerungen;
-- g. Zivilstandswesen;
-- h. Erbschaftswesen;
-- i. Adoptionen und Namensänderungen;
-- j. Aktuariat der Notariatskommission;
-- k. Führung des Schiffsregisters;
-- l. Aufbewahrung von Vorsorgeaufträgen.
-
-#### § 12a
-
-**Zivilrechtsverwaltung, Organisation**
-
-<sup>1</sup> Die Zivilrechtsverwaltung gliedert sich wie folgt:
-
-- a. Leitung;
-- b. Abteilung Finanz und Administration, umfassend die Ressorts Finanzen, Namensänderungen, Adoptionen, Support- und Infrastrukturdienste;
-- c. Grundbuchamt;
-- d. Handelsregisteramt;
-- e. Zivilstandsamt;
-- f. Erbschaftsamt;
-- g. Abteilung Recht und Aufsicht, umfassend den Rechtsdienst der Dienststelle und die kantonale Aufsicht im Zivilstandswesen;
-- h. Hauptabteilung Betreibungs- und Konkursamt, umfassend die Abteilung Betreibungen und die Abteilung Konkurse.
-
-#### § 12b
-
-**Zivilrechtsverwaltung, selbständige Aufgabenerledigung**
-
-<sup>1</sup> Der Zivilrechtsverwaltung werden folgende Aufgaben der Sicherheitsdirektion zur selbständigen Erledigung übertragen:
-
-- 1\. Prüfung von Bewilligungen betreffend das bäuerliche Bodenrecht und Verfügung über den allfälligen Beschwerdeverzicht;
-- 2\. Prüfung von Bewilligungen betreffend Grundstückserwerb durch Personen im Ausland und Verfügung über den allfälligen Beschwerdeverzicht;
-- 3\. Verfügungen im Bereich des Adoptionswesens;
-- 4\. Auskunftsersuchen von adoptierten Personen;
-- 5\. Verfügungen im Bereich von Namensänderungsverfahren;
-- 6\. Verfügungen und Entscheide im Bereich des Zivilstandswesens, die gemäss Bundesrecht und kantonalem Recht in die Zuständigkeit der Aufsichtsbehörde fallen;
-- 7\. Bewilligung betreffend Verlängerung der Deliberationsfrist gemäss Art. 576 sowie 587 Abs. 2 ZGB[^12b-1];
-- 8\. Verfügungen betreffend die Führung des Handelsregisters;
-- 9\. von Amtes wegen zu erhebende Klagen auf Ungültigkeit der Ehe und der eingetragenen Partnerschaft.
-
-[^12b-1]: [SR 210](https://db.clex.ch/link/Bund/210/de)
+- a. Stabsaufgaben;
+- b. Kommunikation;
+- c. Rechtsetzung;
+- d. Finanzen und Betriebswirtschaft;
+- e. HR-Beratung;
+- f. Digitalisierung;
+- g. Informatik mit Kompetenzteam Geschäftsverwaltung (KT GEVER);
+- h. Sekretariat;
+- i. Fundbüro und Verwertungsdienst;
+- j. Passbüro;
+- k. Bewilligungen;
+- l. Familien;
+- m. Kindes- und Jugendschutz;
+- n. Aufsicht Zivilrecht (inklusive Instruktion der administrativen Aufsicht im Handelsregister- sowie Schuldbetreibungs- und Konkurswesen);
+- o. Swisslos-Fonds.
 
 #### § 13
 
-**Amt für Migration und Bürgerrecht**
+**Aufgaben**
 
-<sup>1</sup> Das Amt für Migration und Bürgerrecht hat folgende Aufgaben:
+<sup>1</sup> Das Generalsekretariat hat insbesondere folgende Aufgaben:
 
-- a. Vollzug der Bundesvorschriften über das Ausländer- und Asylwesen;
-- b. Vollzug der strafrechtlichen Landesverweisung gemäss den Art. 66a–66d des Schweizerischen Strafgesetzbuchs[^13-1];
-- c. Vollzug der Bürgerrechtsgesetzgebung.
+- a. umfassende Führungsunterstützung der Direktionsvorsteherin oder des Direktionsvorstehers;
+- b. Beratung und Unterstützung der Dienststellen;
+- c. Planung, Koordination und Qualitätssicherung innerhalb der Direktion;
+- d. digitale Transformation und Organisationsentwicklung in der Direktion;
+- e. kantonsweite Einführung und Betrieb des Geschäftsverwaltungssystems (GEVER Fabasoft);
+- f. Bearbeitung aller Geschäfte der Direktion, die keiner Dienststelle zugewiesen sind.
 
-<sup>2</sup> Es umfasst folgende Abteilungen:
-
-- a. Asyl und Rückkehr;
-- b. Einreise und Aufenthalt;
-- c. Bürgerrecht;
-- d. Massnahmen und Recht;
-- e. Zentrale Dienste;
-- f. Stab.
-
-[^13-1]: [SR 311.0](https://db.clex.ch/link/Bund/311.0/de)
-
-#### § 13a
-
-**Amt für Migration und Bürgerrecht, selbständige Aufgabenerledigung**
-
-<sup>1</sup> Dem Amt für Migration und Bürgerrecht werden folgende Aufgaben der Sicherheitsdirektion zur selbständigen Erledigung übertragen:
-
-- a. Verfügungen im Bereich des Erwerbs und Verlusts des Bürgerrechts gemäss kantonaler Bürgerrechtsgesetzgebung;
-- b. Entscheid über das Bestehen eines umstrittenen Schweizer- und Kantonsbürgerrechts.
+### 2.2 Rechtsdienst von Regierungsrat und Landrat
 
 #### § 14
 
-**Jugendanwaltschaft**
+**Organisation**
 
-<sup>1</sup> Die Jugendanwaltschaft hat die Aufgaben und Befugnisse, die ihr die Gesetzgebung im Bereich der Jugendstrafrechtspflege überträgt.
+<sup>1</sup> Die Leiterin oder der Leiter des Rechtsdiensts von Regierungsrat und Landrat wird vom Regierungsrat ernannt.
 
-<sup>2</sup> Sie besteht aus der leitenden Jugendanwältin oder dem leitenden Jugendanwalt, den Jugendanwältinnen und Jugendanwälten, den Untersuchungsbeauftragten, den Sozialarbeiterinnen und Sozialarbeitern und dem Sekretariat.
+<sup>2</sup> Die Sekretariatsarbeiten für den Rechtsdienst von Regierungsrat und Landrat besorgt das Sekretariat des Generalsekretariats der Sicherheitsdirektion.
 
 #### § 15
 
-**Polizei Basel-Landschaft**
+**Aufgaben**
 
-<sup>1</sup> Die Aufgaben und Befugnisse der Polizei Basel-Landschaft richten sich nach der Polizei- und Strafprozessgesetzgebung.
+<sup>1</sup> Der Rechtsdienst von Regierungsrat und Landrat hat insbesondere folgende Aufgaben:
 
-<sup>2</sup> Die Polizei Basel-Landschaft gliedert sich wie folgt:
-
-- a. Leitung (Polizeikommandantin oder Polizeikommandant),
-- b. Sicherheitspolizei,
-- c. Kriminalpolizei,
-- d. Verkehrspolizei,
-- e. Planung und Einsatz,
-- f. Kommandobereiche.
-
-<sup>3</sup> Die Dienststellenleiterin oder der Dienststellenleiter bezeichnet seine Stellvertreterin oder seinen Stellvertreter.
-
-#### § 16
-
-**…**
-
-#### § 17
-
-**Motorfahrzeugkontrolle**
-
-<sup>1</sup> Die Motorfahrzeugkontrolle hat die Befugnisse, die ihr die Gesetzgebung beim Vollzug der Bundesvorschriften über den Strassenverkehr und der Vorschriften über die Verkehrsabgaben überträgt.
-
-<sup>2</sup> Sie umfasst folgende Bereiche:
-
-- a. Dienste,
-- b. Kassen- und Rechnungswesen,
-- c. Fahrzeugvorführungen,
-- d. Schilderwesen,
-- e. Führerausweise,
-- f. Lernfahrausweise,
-- g. Fahrzeuge.
-
-#### § 18
-
-**Rechtsdienst von Regierungsrat und Landrat**
-
-<sup>1</sup> Aufgaben des Rechtsdienstes von Regierungsrat und Landrat sind insbesondere:
-
-- a. die Beschwerdeinstruktion im Rahmen der Vorbereitung von Beschwerdeentscheiden des Regierungsrats, soweit diese Aufgabe nicht von der sachlich zuständigen Direktion wahrgenommen wird;
-- b. die Mitwirkung bei der Ausarbeitung von Rechtserlassen;
-- c. die Ausarbeitung von juristischen Gutachten und Mitberichten zu Handen des Landrates, des Regierungsrats und der Direktionen;
-- d. die Ausarbeitung von Rechtsschriften an das Kantonsgericht und an die Bundesbehörden in verfassungs- und verwaltungsrechtlichen Verfahren sowie die Vertretung des Regierungsrats und des Landrats vor dem Kantonsgericht in solchen Verfahren, soweit diese Aufgaben nicht von der sachlich zuständigen Dienststelle oder Direktion wahrgenommen werden.
+- a. Beschwerdeinstruktion im Rahmen der Vorbereitung von Beschwerdeentscheiden des Regierungsrats, soweit diese Aufgabe nicht von der sachlich zuständigen Direktion wahrgenommen wird;
+- b. Mitwirkung bei der Ausarbeitung von Rechtserlassen;
+- c. Erteilung von Rechtsauskünften und Ausarbeitung von juristischen Gutachten und Mitberichten zuhanden des Landrats, des Regierungsrats und der Direktionen;
+- d. Ausarbeitung von Rechtsschriften an die Gerichte des Kantons und des Bundes sowie Vertretung des Regierungsrats und des Landrats vor Gericht.
 
 <sup>2</sup> Der Landrat, der Regierungsrat und die Direktionsvorsteherin oder der Direktionsvorsteher können dem Rechtsdienst von Regierungsrat und Landrat weitere Aufgaben rechtlicher Natur übertragen.
 
-<sup>3</sup> Die Sekretariatsarbeiten für den Rechtsdienst von Regierungsrat und Landrat besorgt das Sekretariat des Generalsekretariats der Sicherheitsdirektion.
+### 2.3 Polizei Basel-Landschaft
+
+#### § 16
+
+**Organisation**
+
+<sup>1</sup> Die Polizei Basel-Landschaft gliedert sich wie folgt:
+
+- a. Leitung (Polizeikommandantin oder Polizeikommandant);
+- b. Sicherheitspolizei;
+- c. Kriminalpolizei;
+- d. Verkehrspolizei;
+- e. Planung und Einsatz;
+- f. Kommandobereiche.
+
+#### § 17
+
+**Aufgaben**
+
+<sup>1</sup> Die Aufgaben und Befugnisse der Polizei Basel-Landschaft richten sich nach der Polizei- und Strafprozessgesetzgebung sowie nach weiteren Gesetzen von Bund und Kanton, die der Polizei Aufgaben und Befugnisse zuweisen.
+
+### 2.4 Jugendanwaltschaft
+
+#### § 18
+
+**Organisation**
+
+<sup>1</sup> Die Jugendanwaltschaft besteht aus:
+
+- a. der leitenden Jugendanwältin oder dem leitenden Jugendanwalt;
+- b. den Jugendanwältinnen und Jugendanwälten;
+- c. den Untersuchungsbeauftragten;
+- d. den Sozialarbeiterinnen und Sozialarbeitern;
+- e. dem Sekretariat.
 
 #### § 19
 
-**…**
+**Aufgaben**
 
-#### § 19a
+<sup>1</sup> Die Jugendanwaltschaft hat die Aufgaben und Befugnisse, die ihr die Gesetzgebung im Bereich der Jugendstrafrechtspflege überträgt.
 
-**Aufgaben der Staatsanwaltschaft**
+### 2.5 Staatsanwaltschaft
 
-<sup>1</sup> Die Aufgaben der Staatsanwaltschaft richten sich nach der Schweizerischen Strafprozessordnung[^19a-1] sowie dem Einführungsgesetz zur Schweizerischen Strafprozessordnung[^19a-2].
-
-<sup>2</sup> Die Staatsanwaltschaft führt die Kantonale Koordinationsstelle Strafregister (KOST) gemäss Art. 4 Abs. 1 Strafregistergesetz[^19a-3].
-
-[^19a-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
-[^19a-2]: [SGS 250](https://bl.clex.ch/data/250/de)
-[^19a-3]: [SR 330](https://db.clex.ch/link/Bund/330/de)
-
-#### § 19b
-
-**Administrative Zuordnung sowie Leitung**
-
-<sup>1</sup> Die Staatsanwaltschaft ist administrativ und organisatorisch der Sicherheitsdirektion zugeordnet.
-
-<sup>2</sup> Sie wird von der Ersten Staatsanwältin oder vom Ersten Staatsanwalt personell, betrieblich und fachlich geleitet.
-
-#### § 19c
-
-**Stellvertretung**
-
-<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher bezeichnet auf Antrag der Ersten Staatsanwältin oder des Ersten Staatsanwalts eine Stellvertreterin oder einen Stellvertreter aus dem Kreis der Leitenden Staatsanwältinnen und Leitenden Staatsanwälte.
-
-#### § 19d
+#### § 20
 
 **Organisation**
 
 <sup>1</sup> Die Staatsanwaltschaft gliedert sich wie folgt:
 
-- a. Leitung,
-- b. Hauptabteilung Allgemeine Delikte,
-- c. Hauptabteilung Besondere Delikte,
-- d. Hauptabteilung Wirtschaftskriminalität,
-- e. Hauptabteilung Strafbefehle,
+- a. Leitung durch die Erste Staatsanwältin oder den Ersten Staatsanwalt;
+- b. Hauptabteilung Allgemeine Delikte;
+- c. Hauptabteilung Besondere Delikte;
+- d. Hauptabteilung Wirtschaftskriminalität;
+- e. Hauptabteilung Strafbefehle;
 - f. Zentrale Dienste.
-
-#### § 19e
-
-**Geschäftsleitung**
-
-<sup>1</sup> Die Zusammensetzung und die Aufgaben der Geschäftsleitung richten sich nach dem Einführungsgesetz zur Schweizerischen Strafprozessordnung[^19e-1].
-
-<sup>2</sup> Die Geschäftsleitung wird von der Ersten Staatsanwältin oder dem Ersten Staatsanwalt geleitet.
-
-[^19e-1]: [SGS 250](https://bl.clex.ch/data/250/de)
-
-#### § 19f
-
-**…**
-
-#### § 19g
-
-**…**
-
-#### § 19h
-
-**…**
-
-#### § 19i
-
-**…**
-
-#### § 20
-
-**…**
-
-## 3 Schlussbestimmungen
 
 #### § 21
 
-**Änderungen bisherigen Rechts**
+**Aufgaben**
 
-<sup>1</sup> Die Regierungsratsverordnung über die Dienstordnung der Militärverwaltung vom 19. September 1978[^21-1] wird wie folgt geändert: ...[^21-2]
+<sup>1</sup> Die Aufgaben der Staatsanwaltschaft richten sich nach der Strafgesetzgebung, der Schweizerischen Strafprozessordnung[^21-1] sowie dem Einführungsgesetz zur Schweizerischen Strafprozessordnung[^21-2].
 
-<sup>2</sup> Die Regierungsratsverordnung über die Organisation der Kantonspolizei vom 10. Dezember 1974[^21-3] wird wie folgt geändert: ...[^21-4]
+<sup>2</sup> Die Staatsanwaltschaft führt die kantonale Koordinationsstelle Strafregister (KOST) gemäss Art. 4 Abs. 1 Strafregistergesetz[^21-3].
 
-[^21-1]: GS 26.779
-[^21-2]: GS 28.717
-[^21-3]: GS 25.671
-[^21-4]: GS 28.717
+[^21-1]: [SR 312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^21-2]: [SGS 250](https://bl.clex.ch/data/250/de)
+[^21-3]: [SR 330](https://db.clex.ch/link/Bund/330/de)
+
+### 2.6 Amt für Justizvollzug
 
 #### § 22
 
-**Inkrafttreten**
+**Organisation**
 
-<sup>1</sup> Diese Ordnung tritt am 1. November 1984 in Kraft.
+<sup>1</sup> Das Amt für Justizvollzug gliedert sich wie folgt:
 
-GS 28.710
+- a. Straf- und Massnahmenvollzug:
+  - 1\. Abteilung Straf- und Massnahmenvollzug;
+  - 2\. Abteilung Kurzstrafen und besondere Vollzugsformen;
+- b. Bewährungshilfe;
+- c. Gefängnisse;
+- d. Opferhilfe;
+- e. Interventionsstelle gegen häusliche Gewalt:
+  - 1\. Abteilung Fachbereich häusliche und sexualisierte Gewalt;
+  - 2\. Abteilung Lernprogramme;
+  - 3\. Abteilung Schutzmanagement;
+- f. Vollzugsbehörde Zivil- und Verwaltungsrecht;
+- g. Massnahmenzentrum für junge Erwachsene Arxhof:
+  - 1\. Berufsbildung und Betriebe;
+  - 2\. Psychologisch forensischer Dienst;
+  - 3\. Sozialpädagogik;
+- h. Stabsdienst.
+
+#### § 23
+
+**Aufgaben**
+
+<sup>1</sup> Das Amt für Justizvollzug hat insbesondere folgende Aufgaben:
+
+- a. Verfügungen betreffend Straf- und Massnahmenvollzug;
+- b. Verfügungen betreffend Gefängniswesen;
+- c. Verfügungen betreffend Bewährungshilfe;
+- d. Verfügungen betreffend den Vollzug zivil- und verwaltungsrechtlicher Entscheide;
+- e. Verfügungen betreffend Entschädigungs- und Genugtuungsleistung nach Opferhilfegesetz.
+
+<sup>2</sup> Die Aufgaben und Befugnisse des Amts für Justizvollzug richten sich nach der massgebenden Fachgesetzgebung.
+
+### 2.7 Amt für Militär und Bevölkerungsschutz
+
+#### § 24
+
+**Organisation**
+
+<sup>1</sup> Das Amt für Militär und Bevölkerungsschutz gliedert sich wie folgt:
+
+- a. Ausbildung;
+- b. Operationen;
+- c. Stab.
+
+<sup>2</sup> Der Leiter oder die Leiterin des Amts für Militär und Bevölkerungsschutz leitet den Kantonalen Führungsstab.
+
+<sup>3</sup> Als Ansprechperson für militärische Angelegenheiten im Kanton ist die Kreiskommandantin oder der Kreiskommandant zuständig; diese Person bekleidet einen Offiziersgrad in der Armee.
+
+#### § 25
+
+**Aufgaben**
+
+<sup>1</sup> Das Amt für Militär und Bevölkerungsschutz hat insbesondere folgende Aufgaben:
+
+- a. Erfassung und Orientierung der Stellungspflichtigen;
+- b. administrative Unterstützung der Rekrutierung;
+- c. Kontrollwesen der Wehr- und Schutzdienstpflichtigen;
+- d. Wehrpflichtersatz;
+- e. Bewirtschaftung der kantonalen Ausbildungsinfrastrukturen für Armee und Bevölkerungsschutz;
+- f. im Bereich des militärischen Schiessens ausser Dienst:
+  - 1\. Kontrolle der Schiesspflicht;
+  - 2\. Anerkennung der Schiessvereine;
+  - 3\. Betriebsbewilligung für Schiessanlagen;
+  - 4\. Ernennung der Schiesskommissionen;
+  - 5\. Ausrichtung von Beiträgen an regionale Schiessanlagen;
+- g. Leitung der Planung, Umsetzung, Koordination und Steuerung der Belange des Bevölkerungsschutzes;
+- h. Sicherstellung der Einsatzbereitschaft und Leitung des Kantonalen Führungsstabs;
+- i. Sicherstellung der Einsatzbereitschaft der Schadenplatzkommandantinnen und Schadenplatzkommandanten sowie der Schadenplatzkommandos;
+- j. Sicherstellung der Einsatzbereitschaft der kantonalen Mittel des Einsatzverbands Bevölkerungsschutz (EVB);
+- k. Ausbildung, Training und Prüfung von Führungsstäben, Formationen und Fachpersonen in den zugewiesenen Bereichen;
+- l. Vollzug der eidgenössischen und kantonalen Gesetze betreffend den Zivilschutz sowie in den zugewiesenen Bereichen;
+- m. Koordination der Massnahmen in den zugewiesenen Bereichen mit dem Bund, den benachbarten Kantonen, den Gemeinden, der Armee, dem benachbarten Ausland und Privaten;
+- n. Sicherstellung des kantonalen Delegierten der Wirtschaftlichen Landesversorgung.
+
+### 2.8 Zivilrechtsverwaltung
+
+#### § 26
+
+**Organisation**
+
+<sup>1</sup> Die Zivilrechtsverwaltung gliedert sich wie folgt:
+
+- a. Leitung:
+  - 1\. Adoptionen und Namensänderungen;
+- b. Abteilung Support:
+  - 1\. Finanzen;
+  - 2\. Supportdienste;
+  - 3\. IT/Digitalisierung;
+- c. Grundbuchamt;
+- d. Handelsregisteramt;
+- e. Zivilstandsamt;
+- f. Erbschaftsamt;
+- g. Hauptabteilung Betreibungs- und Konkursamt:
+  - 1\. Abteilung Betreibungen;
+  - 2\. Abteilung Konkurse.
+
+#### § 27
+
+**Aufgaben**
+
+<sup>1</sup> Die Zivilrechtsverwaltung hat insbesondere folgende Aufgaben:
+
+- a. Grundbuchführung;
+- b. Handelsregisterführung und insbesondere:
+  - 1\. Verfügungen betreffend die Führung des Handelsregisters;
+- c. Betreibungs- und Konkurswesen, insbesondere Erlass der behördlichen Verfügungen in diesem Bereich;
+- d. Verschreibungsprotokoll für die Viehverpfändung;
+- e. Eigentumsvorbehaltsregister;
+- f. öffentliche Grundstücksversteigerungen;
+- h. Erbschaftswesen und insbesondere:
+  - 1\. Bewilligung betreffend Verlängerung der Deliberationsfrist gemäss Art. 576 sowie Art. 587 Abs. 2 ZGB[^27-1];
+- g. Zivilstandswesen;
+- i. Adoptionen und Namensänderungen, insbesondere:
+  - 1\. Verfügungen im Bereich des Adoptionswesens;
+  - 2\. Auskunftsersuchen von adoptierten Personen;
+  - 3\. Verfügungen im Bereich von Namensänderungsverfahren;
+- j. Aktuariat der Notariatskommission;
+- k. Führung des Schiffsregisters;
+- l. Aufbewahrung von Vorsorgeaufträgen;
+- m. Prüfung von Bewilligungen betreffend das bäuerliche Bodenrecht und Erklärung betreffend den allfälligen Beschwerdeverzicht;
+- n. Prüfung von Bewilligungen betreffend Grundstückserwerb durch Personen im Ausland und Erklärung betreffend den allfälligen Beschwerdeverzicht.
+
+[^27-1]: [SR 210](https://db.clex.ch/link/Bund/210/de)
+
+### 2.9 Motorfahrzeugkontrolle
+
+#### § 28
+
+**Organisation**
+
+<sup>1</sup> Die Motorfahrzeugkontrolle gliedert sich wie folgt:
+
+- a. Fahrzeugzulassung;
+- b. Führerzulassung;
+- c. Finanzen und Logistik;
+- d. Organisation und Informatik;
+- e. Stab.
+
+#### § 29
+
+**Aufgaben**
+
+<sup>2</sup> Die Motorfahrzeugkontrolle hat die Befugnisse, die ihr die Gesetzgebung beim Vollzug der Bundesvorschriften über den Strassenverkehr und der Vorschriften über die Verkehrsabgaben überträgt.
+
+### 2.10 Amt für Migration, Integration und Bürgerrecht
+
+#### § 30
+
+**Organisation**
+
+<sup>1</sup> Das Amt für Migration, Integration und Bürgerrecht gliedert sich wie folgt:
+
+- a. Asyl und Rückkehr;
+- b. Einreise und Aufenthalt;
+- c. Bürgerrecht;
+- d. Fachabteilung Integration;
+- e. Massnahmen und Recht;
+- f. Zentrale Dienste;
+- g. Stab.
+
+#### § 31
+
+**Aufgaben**
+
+<sup>1</sup> Das Amt für Migration, Integration und Bürgerrecht hat insbesondere folgende Aufgaben:
+
+- a. Vollzug der Bundesvorschriften über das Ausländer- und Asylwesen;
+- b. Vollzug der strafrechtlichen Landesverweisung gemäss den Art. 66a–66d des Schweizerischen Strafgesetzbuchs[^31-1] ;
+- c. Vollzug der Bürgerrechtsgesetzgebung;
+- d. Verfügungen im Bereich des Erwerbs und Verlusts des Bürgerrechts gemäss kantonaler Bürgerrechtsgesetzgebung;
+- e. Entscheid über das Bestehen eines umstrittenen Schweizer- und Kantonsbürgerrechts;
+- f. Planung und Umsetzung des kantonalen Integrationsprogramms und weitere Integrationsfragen in fachlich unabhängiger Zuständigkeit und Kompetenz der Fachabteilung Integration;
+- g. Ansprechstelle für Integrationsfragen gegenüber dem Bund.
+
+[^31-1]: [SR 311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+GS 2024.076
