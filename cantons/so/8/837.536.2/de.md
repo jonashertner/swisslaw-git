@@ -4,13 +4,12 @@ number: "837.536.2"
 title: Verordnung über die Swisslos-Fonds
 short: SLFV
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-12-15
+version: 2025-01-01
+version_adopted: 2024-10-29
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/837.536.2"
-pdf: "https://bgs.so.ch/api/de/versions/5060/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5505/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,15 @@ pdf: "https://bgs.so.ch/api/de/versions/5060/pdf_file"
 
 (SLFV)
 
-Vom 15.12.2020 (Stand 01.01.2021)
+Vom 15.12.2020 (Stand 01.01.2025)
+
+Der Regierungsrat des Kantons Solothurn
+
+gestützt auf §§ 8 Absatz 4, 9 Absatz 2, 13 Absatz 2 und 15 des Gesetzes über die Swisslos-Fonds (SLFG) vom 9. September 2020[^ingress-1]
+
+beschliesst:
+
+[^ingress-1]: BGS [837.536.1](https://bgs.so.ch/data/837.536.1/de).
 
 ## I. Swisslos-Fonds
 
@@ -62,23 +69,25 @@ Vom 15.12.2020 (Stand 01.01.2021)
 
 **Mittelverwendung (§ 7 Abs. 3 SLFG)**
 
-<sup>1</sup> Die Mittel des Swisslos-Sportfonds werden zur Förderung sportlicher Tätigkeiten und zur Schaffung günstiger Voraussetzungen für sportliche Aktivitäten verwendet.
+<sup>1</sup> Die Mittel aus dem Swisslos-Sportfonds werden zur Förderung sportlicher Tätigkeiten und zur Schaffung günstiger Voraussetzungen für den Sport verwendet.
 
 #### § 4
 
 **Beitragsberechtigung**
 
-<sup>1</sup> Beitragsberechtigt sind grundsätzlich nur nicht-kommerziell ausgerichtete Organisationen. Für Einzelsportler und Einzelsportlerinnen gilt das Kriterium "nicht-kommerziell" nicht.
+<sup>1</sup> Beitragsberechtigt sind nicht-kommerziell ausgerichtete oder gemeinnützige Organisationen. Für Einzelsportler und Einzelsportlerinnen sowie Teams gelten diese Kriterien nicht. Berechtigt für Beiträge gemäss den §§ 9,10 und 21 sind nur von der Swiss Olympic Association (nachfolgend: Swiss Olympic) anerkannte Sportarten.
 
 <sup>2</sup> Beiträge können geleistet werden an:
 
 - a) Kantonale Sportverbände;
 - b) Regionale Sportverbände mit einem direkten Bezug zum Kanton Solothurn;
-- c) Sportvereine, sofern sie ihren Sitz im Kanton Solothurn haben und der Swiss Olympic Association (nachfolgend: Swiss Olympic) angeschlossen sind;
-- d) Einzelsportler und Einzelsportlerinnen mit Wohnsitz im Kanton Solothurn;
+- c) Sportvereine, sofern sie ihren Sitz im Kanton Solothurn haben;
+- d) Einzelsportler und Einzelsportlerinnen, die mindestens über eine Swiss Olympic Card der Kategorie Talent Card National verfügen und die entweder einem Solothurner Sportverein angehören oder Wohnsitz im Kanton Solothurn haben;
 - e) Gemeinnützige Organisationen oder privatrechtliche Organisationen, die mit Sport oder dem Sportbetrieb im Zusammenhang stehen und einen direkten Bezug zum Kanton Solothurn haben;
 - f) Gemeinden des Kantons Solothurn und den Kanton selber, sofern es sich nicht um die Erfüllung ihrer öffentlich-rechtlichen Verpflichtungen handelt;
-- g) Leistungszentren der Region Solothurn, die vom nationalen Verband oder von Swiss Olympic anerkannt sind.
+- g) Trägerschaften der Nachwuchsförderung (NWF-Trägerschaften, Leistungszentren), die von Swiss Olympic anerkannt sind oder einen direkten Bezug zum Kanton Solothurn haben;
+- h) Swiss Olympic Label-Schulen, sofern es sich nicht um die Erfüllung ihrer öffentlich-rechtlichen Verpflichtungen handelt;
+- i) Betreuungspersonen von Sportlerinnen und Sportlern.
 
 #### § 5
 
@@ -86,44 +95,50 @@ Vom 15.12.2020 (Stand 01.01.2021)
 
 <sup>1</sup> Beiträge können für folgende Förderbereiche geleistet werden:
 
-- a) Förderung des Aktivsports;
-- b) Förderung des Junioren- und Juniorinnensports. Als Junior und Juniorin gelten Personen im Alter von 10 bis 20 Jahren. Massgebend ist der Jahrgang;
-- c) Förderung von Einzelsportlern und Einzelsportlerinnen sowie Kaderathleten und Kaderathletinnen;
+- a) Förderung des Breitensports;
+- b) Förderung und Anerkennung der von Swiss Olympic eingestuften Sportarten im Bereich des Leistungs- und Spitzensports inklusive deren Nachwuchskategorien;
+- c) …
 - d) Erstellung, Erweiterung und Erneuerung von Sportanlagen und Sportbauten;
-- e) Anschaffung von Sportmaterialien und Sportgeräten, die sich im Eigentum des Vereins befinden und zur Ausübung der betreffenden Sportart üblich sind;
-- f) Platzunterhalt;
-- g) Projekte zur Sport- und Bewegungsförderung;
+- e) Anschaffung von Sportmaterialien und Sportgeräten, die sich im Eigentum des Sportvereins befinden und zur Ausübung der betreffenden Sportart üblich sind;
+- f) Miete und Unterhalt der gesamten Sportinfrastruktur;
+- g) Projekte und Anlässe zur Sport- und Bewegungsförderung sowie -entwicklung;
 - h) Organisation und Durchführung von Sportanlässen mit Wettkampfcharakter;
-- i) Leistungszentren der Region Solothurn, die vom nationalen Verband oder von Swiss Olympic anerkannt sind;
-- j) Sportmaterial, Sportlager und Projekte der Sportfachstelle des Kantons Solothurn;
-- k) Anerkennung besonderer Leistungen und Unterstützung von erfolgreichen Solothurner Sportlern und Sportlerinnen;
-- l) Teilnahme an bedeutenden internationalen Sportanlässen;
-- m) Miete Infrastruktur.
+- i) Aus- und Weiterbildungskosten für Sportvereins- und Sportverbandstätigkeiten;
+- j) Sportmaterial und Projekte der kantonalen Sportfachstelle.
+- k) …
+- l) …
+- m) …
 
 #### § 6
 
 **Mitwirkung der kantonalen Sportkommission**
 
-<sup>1</sup> Die kantonale Sportkommission stellt dem Departement Antrag über:
+<sup>1</sup> Die kantonale Sportkommission prüft Anträge und gibt Empfehlungen ab über:
 
-- a) die beitragsberechtigten Sportarten (Einzelsportarten beziehungsweise Sportarten der Gruppe A und Mannschaftssportarten beziehungsweise Sportarten der Gruppe B);
-- b) die beitragsberechtigten Sportmaterialien und Sportgeräte;
-- c) die anrechenbaren Kosten und den Beitragssatz für die Erstellung, Erweiterung und Erneuerung von Sportanlagen und Sportbauten;
-- d) die Beitragshöhe innerhalb des festgelegten Rahmens der Beitragsarten gemäss §§ 9, 10, 12, 19 Absatz 2, 20 und 21.
+- a) die Beitragsbereiche und Beitragsarten;
+- b) die Beitragshöhe innerhalb des festgelegten Rahmens der Beitragsarten gemäss §§ 9-11, 15, 17, 18<sup>bis</sup> und 19-21.
+- c) …
+- d) …
+
+#### § 6bis
+
+**Mitwirkung der kantonalen Sportfachstelle**
+
+<sup>1</sup> Die kantonale Sportfachstelle prüft die Beiträge an die Jugendausbildung (J+S Aktivitäten).
 
 #### § 7
 
 **Aufgaben des Departementes**
 
-<sup>1</sup> Das Departement führt auf Antrag der kantonalen Sportkommission Listen und Merkblätter über die beitragsberechtigten Sportarten, Sportmaterialien und Sportgeräte sowie über die anrechenbaren Kosten von Sportanlagen und Sportbauten gemäss § 6 Absatz 1 Buchstaben a bis c.
+<sup>1</sup> Das Departement erarbeitet gemäss den Empfehlungen der kantonalen Sportkommission einen Leitfaden über die beitragsberechtigten Sportarten, Sportmaterialien und Sportgeräte sowie über die anrechenbaren Kosten von Sportanlagen und Sportbauten gemäss § 6 Absatz 1 Buchstaben a und b.
 
-<sup>2</sup> Das Departement entscheidet auf Antrag der kantonalen Sportkommission über die Beitragsberechtigung neuer Sportarten und passt die Liste entsprechend an.
+<sup>2</sup> Das Departement entscheidet auf Empfehlung der kantonalen Sportkommission hin über die Beitragsberechtigung und Beitragsarten.
 
 #### § 8
 
 **Begrenzung der Beiträge**
 
-<sup>1</sup> Beiträge können nur an Gesuche für das laufende und das vorangehende Jahr beziehungsweise Spielsaison zugesprochen werden.
+<sup>1</sup> Beiträge können nur an Gesuche für das laufende und das vorangehende Jahr zugesprochen werden.
 
 <sup>2</sup> Es werden keine Beiträge unter 100 Franken zugesprochen und ausbezahlt.
 
@@ -135,76 +150,87 @@ Vom 15.12.2020 (Stand 01.01.2021)
 
 **Teilnahme- und Erfolgsbeiträge**
 
-<sup>1</sup> Sportler und Sportlerinnen, welche einem Solothurner Verein angehören oder Wohnsitz im Kanton Solothurn haben, kann ein Erfolgsbeitrag zugesprochen werden, wenn sie sich für Europameisterschaften, Weltmeisterschaften oder Olympische Spiele qualifiziert (Selektion) oder daran teilgenommen haben.
+<sup>1</sup> Sportlern und Sportlerinnen kann ein Erfolgsbeitrag zugesprochen werden, wenn sie sich für bedeutende internationale Grossanlässe qualifiziert (Selektion) oder daran teilgenommen haben.
 
-<sup>2</sup> Beitragsberechtigt sind Aktivsportler und Aktivsportlerinnen sowie Junioren und Juniorinnen in der höchsten Alterskategorie.
+<sup>2</sup> …
 
-<sup>3</sup> Der Erfolgsbeitrag beträgt:
+<sup>3</sup> Der Erfolgsbeitrag beträgt im Maximum 10'000 Franken pro Kalenderjahr.
 
-- a) für Aktive im Maximum 5'000 Franken;
-- b) für Juniorinnen und Junioren im Maximum 3'000 Franken.
+- a) …
+- b) …
+
+<sup>4</sup> Sportlern und Sportlerinnen sowie deren Betreuenden, welche ohne Selektion an einem bedeutenden internationalen Sportanlass teilnehmen, können Beiträge von maximal 250 Franken pro Teilnehmer und Teilnehmerin zugesprochen werden.
 
 #### § 10
 
 **Unterstützungsbeiträge**
 
-<sup>1</sup> Sportlern und Sportlerinnen mit Wohnsitz im Kanton Solothurn kann ein Unterstützungsbeitrag zugesprochen werden, wenn sie mindestens über eine Talent Card National verfügen oder sich als Kaderathlet oder Kaderathletin für die Teilnahme an bedeutenden Meisterschaften vorbereiten.
+<sup>1</sup> Sportlern und Sportlerinnen kann ein Unterstützungsbeitrag zugesprochen werden, wenn sie sich für die Teilnahme an bedeutenden internationalen Grossanlässen vorbereiten.
 
 <sup>2</sup> Der Unterstützungsbeitrag beträgt:
 
-- a) für Aktive im Maximum 10'000 Franken;
-- b) für Junioren und Juniorinnen im Maximum 3'000 Franken.
+- a) für Elitesportler und Elitesportlerinnen im Maximum 10'000 Franken pro Kalenderjahr;
+- b) für Nachwuchssportler und Nachwuchssportlerinnen im Maximum 5'000 Franken pro Kalenderjahr.
+
+<sup>3</sup> Betreuungspersonen von paralympischen Sportlern und Sportlerinnen, welche die Athleten und Athletinnen bei der Vorbereitung auf bedeutende internationale Grossanlässe begleiten, kann ein Unterstützungsbeitrag im Maximum von 2'000 Franken pro Kalenderjahr zugesprochen werden.
 
 #### § 11
 
-**Beiträge an Verbände**
+**Beiträge an Sportverbände**
 
-<sup>1</sup> Die jährlichen Beiträge an kantonale und regionale Verbände bemessen sich wie folgt:
+<sup>1</sup> An Sportverbände können jährlich Beiträge, im Maximum 350'000 Franken, zugesprochen werden.
 
-- a) 12 Franken pro Mitglied für deren Aktiv- und Juniorenmitglieder;
-- b) 600 Franken pro Mannschaft für deren Auswahlmannschaften.
+- a) …
+- b) …
+
+<sup>2</sup> Die Beiträge setzen sich aus zwei Teilelementen zusammen:
+
+- a) Grundbeitrag;
+- b) Aktivitäten.
+
+<sup>3</sup> Die Aktivitäten werden nach folgenden Kriterien gewertet:
+
+- a) Nachwuchssport;
+- b) Erwachsenensport;
+- c) Durchführung von Meisterschaften oder Sportveranstaltungen;
+- d) Aus- und Weiterbildungen;
+- e) besondere Förderung.
 
 #### § 12
 
-**Beiträge an Vereine mit Kaderathleten und Kaderathletinnen**
-
-<sup>1</sup> Solothurner Vereine mit nationalen Kaderathleten und Kaderathletinnen im höchsten Juniorenkader oder Elitekader können mit jährlichen Beiträgen bis maximal 5'000 Franken unterstützt werden.
+**…**
 
 #### § 13
 
-**Beiträge an Vereine aus den Sportarten der Gruppe A**
+**Beiträge an Sportvereine**
 
-<sup>1</sup> An Vereine aus den Sportarten A können folgende jährlichen Beiträge zugesprochen werden:
+<sup>1</sup> An Sportvereine können folgende jährliche Beiträge zugesprochen werden:
 
-- a) 50 Franken pro Junior und Juniorin für deren Ausbildung;
-- b) 20 % der Auslagen, im Maximum 10'000 Franken, an den Platzunterhalt;
-- c) 20 % der Auslagen, im Maximum 10'000 Franken, an die Anschaffung von Material und Geräten.
+- a) 50 Franken pro Aktivmitglied im Alter von 5-20 Jahren;
+- b) 10 Franken pro Aktivmitglied im Alter ab 21 Jahren;
+- c) 300 Franken pro Vereinsmitglied mit Swiss Olympic Talent Card ab der Kategorie Regional oder 600 Franken pro Vereinsmitglied mit Swiss Olympic Card ab der Kategorie Elite;
+- d) 40 % der Auslagen, im Maximum 20'000 Franken, an die Anschaffung von Sportmaterial und Sportgeräten;
+- e) 50 % der Aus- und Weiterbildungskosten, im Maximum 2'000 Franken.
 
-<sup>2</sup> Im Bereich des Behindertensports können zusätzlich jährliche Beiträge von 20 %, im Maximum 5'000 Franken, an die Aufwendungen für die Leiterausbildung zugesprochen werden.
+<sup>2</sup> …
 
 #### § 14
 
-**Beiträge an Vereine aus den Sportarten der Gruppe B**
-
-<sup>1</sup> An Vereine aus den Sportarten der Gruppe B können folgende jährlichen Beiträge zugesprochen werden:
-
-- a) 600 Franken pro Juniorenmannschaft, die an einer Meisterschaft teilnimmt;
-- b) 800 Franken pro Aktivmannschaft, die an einer Meisterschaft teilnimmt;
-- c) 20 % der Auslagen, im Maximum 10'000 Franken, an die Anschaffung von Material und Geräten.
+**…**
 
 #### § 15
 
-**Beiträge an Kurse für Bewegung und Sport**
+**Beiträge an Projekte und Anlässe**
 
-<sup>1</sup> Der Pro Senectute Kanton Solothurn können jährliche Beiträge, im Maximum 20'000 Franken, an ihre Kursaufwendungen für Bewegung und Sport zugesprochen werden.
+<sup>1</sup> An Projekte und Anlässe zur Sport- und Bewegungsförderung und -entwicklung können Beiträge, im Maximum 100'000 Franken, zugesprochen werden.
 
 #### § 16
 
-**Beiträge an Miete Infrastruktur**
+**Beiträge an Miete und Unterhalt der Sportinfrastruktur**
 
-<sup>1</sup> An Vereine können jährliche Beiträge von 10 % der Auslagen, im Maximum 10'000 Franken, an die Miete Infrastruktur zugesprochen werden.
+<sup>1</sup> An Sportvereine können jährliche Beiträge von 20 % der Auslagen, im Maximum 20'000 Franken, an die Miete und den Unterhalt der Sportinfrastruktur zugesprochen werden.
 
-<sup>2</sup> Im Bereich des Eissports können jährliche Beiträge von 20 % der Auslagen, im Maximum 20'000 Franken, an die Miete Infrastruktur zugesprochen werden.
+<sup>2</sup> …
 
 #### § 17
 
@@ -221,29 +247,37 @@ Vom 15.12.2020 (Stand 01.01.2021)
 
 **Beiträge an Jugendausbildung J+S**
 
-<sup>1</sup> An Vereine, die Jugend- und Sport-Entschädigungen (J+S) erhalten, können zusätzlich 25 % des Bundesbeitrages für die J+S-Entschädigungen zugesprochen werden.
+<sup>1</sup> An Sportvereine, die Jugend- und Sport-Entschädigungen (J+S) erhalten, können zusätzlich 25 % des Bundesbeitrages für die J+S-Entschädigungen zugesprochen werden.
 
-<sup>2</sup> Die kantonale Sportfachstelle prüft die Abrechnungen und stellt dem Departement Antrag.
+<sup>2</sup> …
+
+#### § 18bis
+
+**Beiträge an Swiss Olympic Label - Schulen**
+
+<sup>1</sup> An Schulen mit Swiss Olympic Label können jährlich Beiträge von maximal 25'000 Franken für Angebote der Aus- und Weiterbildung für Athleten und Athletinnen zugesprochen werden.
 
 #### § 19
 
 **Beiträge an die Durchführung von Sportanlässen**
 
-<sup>1</sup> An Vereine, die bedeutende Sportanlässe mit Wettkampfcharakter durchführen, können Beiträge entsprechend der Bedeutung des Anlasses, des Budgets und der Teilnehmerzahl, im Maximum 10'000 Franken, zugesprochen werden.
+<sup>1</sup> Für die Durchführung bedeutender Sportanlässe mit Wettkampfcharakter können Beiträge von maximal 250'000 Franken zugesprochen werden.
 
-<sup>2</sup> Bei ausserordentlich bedeutenden Sportanlässen kann der Regierungsrat einen Beitrag von maximal 300'000 Franken bewilligen.
+<sup>2</sup> …
 
 #### § 20
 
-**Beiträge für die Teilnahme an bedeutenden internationalen Sportanlässen ohne Selektion**
+**Beiträge für die Teilnahme an bedeutenden kantonalen, nationalen und internationalen Sportlagern**
 
-<sup>1</sup> An Vereine und deren Betreuende, welche ohne Selektion an einem bedeutenden Sportanlass teilnehmen, können Beiträge von maximal 250 Franken pro Teilnehmer und Teilnehmerin zugesprochen werden.
+<sup>1</sup> Für Teilnehmende im Alter von 5-20 Jahren können Beiträge von maximal 100 Franken pro Teilnehmer und Teilnehmerin zugesprochen werden.
 
 #### § 21
 
 **Beiträge an Trainingsstützpunkte im Leistungssport (Leistungszentren)**
 
 <sup>1</sup> An Organisationen, die vom nationalen Sportverband anerkannte Sporttrainingsstützpunkte betreiben, können Beiträge bis maximal 100'000 Franken zugesprochen werden.
+
+<sup>2</sup> An Sportvereine, die einen Leistungssportstützpunkt mit besonderer Bedeutung für den Kanton Solothurn betreiben, der nicht vom nationalen Sportverband anerkannt ist, können Beiträge bis maximal 20'000 Franken zugesprochen werden.
 
 ## III. Verfahren
 
@@ -261,7 +295,7 @@ Vom 15.12.2020 (Stand 01.01.2021)
 
 <sup>2</sup> Das Departement kann auf einzelne Angaben im Gesuch verzichten, wenn ihm diese bereits bekannt sind.
 
-<sup>3</sup> Beitragsgesuche sind frühzeitig vor der Realisierung einzureichen. Bereits realisierte Vorhaben werden in der Regel nicht unterstützt.
+<sup>3</sup> Beitragsgesuche sind frühzeitig vor der Realisierung einzureichen. Bereits realisierte Vorhaben werden nicht unterstützt.
 
 [^22-1]: BGS [837.536.1](https://bgs.so.ch/data/837.536.1/de).
 
@@ -269,7 +303,7 @@ Vom 15.12.2020 (Stand 01.01.2021)
 
 **Einbezug der Fachbehörden**
 
-<sup>1</sup> Das Departement zieht in der Regel andere kantonale Fachbehörden zur Stellungnahme bei.
+<sup>1</sup> Das Departement kann bei Bedarf andere kantonale Fachbehörden zur Stellungnahme beiziehen.
 
 #### § 24
 
@@ -342,6 +376,12 @@ Vom 15.12.2020 (Stand 01.01.2021)
 **Übergangsbestimmung**
 
 <sup>1</sup> Bis Ende 2021 ist die zuständige Behörde gemäss §§ 28 Absatz 2 und 29 Absatz 1 das Amt für soziale Sicherheit.
+
+#### § 31
+
+**Übergangsbestimmungen zu den Änderungen vom 29. Oktober 2024**
+
+<sup>1</sup> Die zum Zeitpunkt des Inkrafttretens dieser Änderung hängigen Gesuchsverfahren werden nach neuem Recht beurteilt.
 
 RRB Nr. 2020/1821 vom 15. Dezember 2020.
 
