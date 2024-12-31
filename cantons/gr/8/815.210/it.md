@@ -1,0 +1,67 @@
+---
+canton: GR
+number: "815.210"
+title: "Disposizioni esecutive dell'ordinanza cantonale sulla protezione delle acque"
+short: DEOCPAc
+language: it
+version: 2025-01-01
+version_adopted: 2024-12-17
+adopted: 2024-12-17
+in_force: 2025-01-01
+url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/815.210"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3867/pdf_file"
+---
+
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
+
+# Disposizioni esecutive dell'ordinanza cantonale sulla protezione delle acque
+
+(DEOCPAc)
+
+del 17.12.2024 (stato 01.01.2025)
+
+emanate dal Governo il 17 dicembre 2024
+
+visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 22 della legge sull'organizzazione del Governo e dell'Amministrazione[^ingress-2]
+
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-2]: CSC [170.300](https://www.gr-lex.gr.ch/data/170.300/it)
+
+#### Art. 1
+
+**Deleghe**
+
+<sup>1</sup> La competenza per il rilascio delle seguenti autorizzazioni viene delegata all'Ufficio dell'ambiente:
+
+- a) autorizzazione per prelievi d'acqua conformemente all'articolo 29 della legge sulla protezione delle acque[^1-1] e all'articolo 5 capoverso 1 lettera a dell'ordinanza cantonale sulla protezione delle acque[^1-2], per i quali viene eseguita una procedura di autorizzazione ai sensi dell'articolo 113 della legge d'introduzione al Codice civile svizzero[^1-3];
+- b) autorizzazione per prelievi d'acqua conformemente all'articolo 29 della legge sulla protezione delle acque e all'articolo 6 capoverso 1 lettera b dell'ordinanza cantonale sulla protezione delle acque;
+- c) autorizzazione per prelievi d'acqua conformemente all'articolo 113 della legge d'introduzione al Codice civile svizzero;
+- d) autorizzazione di deroghe al principio, previsto dall'articolo 37 capoverso 3 della legge federale sulla protezione delle acque e dall'articolo 5 capoverso 1 lettera b dell'ordinanza cantonale sulla protezione delle acque, secondo cui nelle zone edificate le arginature e le correzioni dei corsi d'acqua vanno strutturate rispettando il tracciato naturale del corso d'acqua;
+- e) autorizzazione di deroga per la copertura o la messa in galleria di corsi d'acqua conformemente all'articolo 38 capoverso 2 della legge sulla protezione delle acque e all'articolo 6 capoverso 1 lettera c dell'ordinanza cantonale sulla protezione delle acque;
+- f) autorizzazione per riporti nei laghi conformemente all'articolo 39 capoverso 2 della legge sulla protezione delle acque e all'articolo 6 capoverso 1 lettera d dell'ordinanza cantonale sulla protezione delle acque;
+- g) autorizzazione per spurghi e svuotamenti dei bacini d'accumulazione conformemente all'articolo 40 capoverso 2 della legge sulla protezione delle acque e all'articolo 5 capoverso 1 lettera c dell'ordinanza cantonale sulla protezione delle acque;
+- h) autorizzazione per l'estrazione di ghiaia, sabbia e altri materiali o l'esecuzione di scavi a tale scopo conformemente all'articolo 44 della legge sulla protezione delle acque e all'articolo 6 capoverso 1 lettera f dell'ordinanza cantonale sulla protezione delle acque, se il prelievo non avviene da un corso d'acqua superficiale.
+
+[^1-1]: RS [814.20](https://db.clex.ch/link/Bund/814.20/it)
+[^1-2]: CSC [815.200](https://www.gr-lex.gr.ch/data/815.200/it)
+[^1-3]: CSC [210.100](https://www.gr-lex.gr.ch/data/210.100/it)
+
+#### Art. 2
+
+**Competenze**
+
+<sup>1</sup> Le deroghe alle limitazioni di utilizzazione nello spazio riservato alle acque secondo l'articolo 41c capoverso 4<sup>bis</sup> dell'ordinanza sulla protezione delle acque[^2-1] nell'agricoltura vengono autorizzate dall'Ufficio per l'agricoltura e la geoinformazione.
+
+<sup>2</sup> Le rimanenti deroghe alle limitazioni di utilizzazione nello spazio riservato alle acque vengono autorizzate dall'Ufficio dell'ambiente.
+
+[^2-1]: RS [814.201](https://db.clex.ch/link/Bund/814.201/it)
+
+#### Art. 3
+
+**Disposizioni transitorie**
+
+<sup>1</sup> Le domande pendenti al momento dell'entrata in vigore della presente ordinanza sono valutate secondo il diritto anteriore.
+
+<sup>2</sup> Le domande di proroga di autorizzazioni esistenti sono valutate secondo il nuovo diritto.
+
+2024-050
