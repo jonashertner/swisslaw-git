@@ -4,13 +4,13 @@ number: "611.1"
 title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: "Planungs- und Baugesetz, PBG"
 language: de
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-05-29
+version: 2025-01-01
+valid_until: 2025-03-31
+version_adopted: 2023-08-30
 adopted: 2014-05-21
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1298/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1324/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1298/pdf_file"
 
 (Planungs- und Baugesetz, PBG)[^t-1]
 
-vom 21.05.2014 (Stand 01.09.2024)
+vom 21.05.2014 (Stand 01.01.2025)
 
 Der Landrat von Nidwalden,
 
@@ -1961,6 +1961,8 @@ beschliesst:
 **Baugesuch**
 
 <sup>1</sup> Der Regierungsrat regelt in der Verordnung die Anforderungen an das Baugesuch.
+
+<sup>2</sup> Er kann in einer Verordnung Regelungen zur elektronischen Einreichung des Baugesuchs und zur Publikation der Baugesuchsunterlagen während der öffentlichen Auflage auf einer Online-Plattform erlassen.
 
 #### Art. 144
 
