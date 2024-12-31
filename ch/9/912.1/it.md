@@ -3,11 +3,11 @@ sr: "912.1"
 title: Ordinanza del 7 dicembre 1998 concernente il catasto della produzione agricola e la delimitazione di zone (Ordinanza sulle zone agricole)
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/46"
 language: it
-version: 2018-01-01
+version: 2025-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/46/20180101/it/xml/fedlex-data-admin-ch-eli-cc-1999-46-20180101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/46/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/46/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1999-46-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/46/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/46/20180101/it"
 
 (Ordinanza sulle zone agricole)
 
-del 7 dicembre 1998 (Stato 1° gennaio 2018)
+del 7 dicembre 1998 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -52,7 +52,7 @@ La regione di pianura comprende:
 
 <sup>5</sup> La regione di montagna e collinare comprende le zone di montagna da I a IV e la zona collinare.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
 
 #### Art. 2
 
@@ -76,10 +76,10 @@ Per la delimitazione e la suddivisione della regione di montagna occorre tenere 
 
 <sup>6</sup> Le aziende senza superficie agricola utile sono assegnate alla zona in cui si trova il centro aziendale.[^2-4]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
-[^2-4]: Introdotto dal n. I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4881](https://fedlex.data.admin.ch/eli/oc/2003/719)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
+[^2-4]: Introdotto dalla cifra I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4881](https://fedlex.data.admin.ch/eli/oc/2003/719)).
 
 #### Art. 3
 
@@ -89,7 +89,25 @@ Per la delimitazione e la suddivisione della regione di montagna occorre tenere 
 
 <sup>2</sup> I limiti della regione d’estivazione sono determinati in base al modo di sfruttamento prima del 1999 e tenendo conto del modo di sfruttamento tradizionale.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 24 apr. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1379](https://fedlex.data.admin.ch/eli/oc/2002/212)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 24 apr. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1379](https://fedlex.data.admin.ch/eli/oc/2002/212)).
+
+#### Art. 3a
+
+**Scambio di superfici nel quadro di migliorie integrali**[^3a-1]
+
+<sup>1</sup> Nel quadro di migliorie integrali ai sensi dell’articolo 14 capoverso 1 lettera a dell’ordinanza del 2 novembre 2022[^3a-2] sui miglioramenti strutturali (OMSt), i limiti di cui all’articolo 3 capoverso 2 possono essere rideterminati in seguito a uno scambio di superfici.
+
+<sup>2</sup>
+
+Le superfici nella regione d’estivazione possono essere scambiate con superfici nella regione di montagna o di pianura se:
+
+- a. la dimensione della superficie utilizzata a scopo agricolo rimane pressoché la stessa sia nella regione d’estivazione sia in quella di montagna o di pianura, anche se in casi eccezionali è consentito uno scarto di 4 are al massimo per miglioria integrale;
+- b. le superfici oggetto dello scambio sono idonee al nuovo utilizzo agricolo;
+- c. si tratta di provvedimenti collettivi di ampia portata ai sensi dell’articolo 14 capoverso 5 lettera a OMSt; e
+- d. il Cantone esercita la sorveglianza sulle migliorie integrali.
+
+[^3a-1]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 637](https://fedlex.data.admin.ch/eli/oc/2024/637)).
+[^3a-2]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
 
 #### Art. 4
 
@@ -101,8 +119,8 @@ Per la delimitazione e la suddivisione della regione di montagna occorre tenere 
 
 <sup>3</sup> Per la delimitazione della regione d’estivazione in base all’articolo 3, l’Ufficio federale si avvale del catasto alpestre e della delimitazione stabilita dai Cantoni.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6095](https://fedlex.data.admin.ch/eli/oc/2017/669)).
-[^4-2]: Nuova espr. giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6095](https://fedlex.data.admin.ch/eli/oc/2017/669)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6095](https://fedlex.data.admin.ch/eli/oc/2017/669)).
+[^4-2]: Nuova espr. giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6095](https://fedlex.data.admin.ch/eli/oc/2017/669)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -112,7 +130,7 @@ Per la delimitazione e la suddivisione della regione di montagna occorre tenere 
 
 <sup>2</sup> In caso di modifiche dei limiti delle zone e regioni agricole, l’UFAG ne dà comunicazione ai servizi interessati in forma elettronica. I servizi cantonali competenti acquisiscono immediatamente la raccolta di geodati di base delle zone e regioni agricole dalla piattaforma per la geoinformazione della Confederazione data.geo. admin.ch e la riprendono nei sistemi d’informazione geografica del Cantone per i quali le zone e regioni agricole sono rilevanti. Tengono aggiornata la raccolta di geodati di base anche nei geoportali pubblici purché vi siano rappresentate le zone e regioni agricole.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6095](https://fedlex.data.admin.ch/eli/oc/2017/669)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6095](https://fedlex.data.admin.ch/eli/oc/2017/669)).
 
 #### Art. 6
 
@@ -122,7 +140,9 @@ Per la delimitazione e la suddivisione della regione di montagna occorre tenere 
 
 <sup>2</sup> Autonomamente o su domanda del gestore, l’UFAG può modificare i limiti della regione d’estivazione tenendo conto dei criteri enunciati negli articoli 3 e 4. L’UFAG entra in materia su una domanda di esclusione dalla regione di estivazione soltanto se la superficie in questione non è stata utilizzata come pascolo d’estivazione né come pascolo comunitario nel periodo 1990–1998. Le domande dei gestori devono essere inoltrate presso il Cantone; questo le trasmette all’UFAG con un parere motivato.[^6-1]
 
-<sup>3</sup> L’UFAG pubblica la decisione relativa a una modifica dei limiti delle zone e delle regioni su un Foglio ufficiale del Cantone sul cui territorio passa il limite in questione.[^6-2]
+<sup>2bis</sup> Per uno scambio di superfici secondo l’articolo 3*a* il Cantone sul cui territorio passa il limite in questione inoltra la domanda all’UFAG prima della pubblicazione del progetto di nuovo riparto.[^6-2]
+
+<sup>3</sup> L’UFAG pubblica la decisione relativa a una modifica dei limiti delle zone e delle regioni su un Foglio ufficiale del Cantone sul cui territorio passa il limite in questione. Decide e pubblica la modifica dei limiti della regione d’estivazione in seguito a uno scambio di superfici secondo l’articolo 3*a* non appena le nuove condizioni di proprietà disposte dal Cantone sono cresciute in giudicato.[^6-3]
 
 <sup>4</sup>
 
@@ -131,14 +151,15 @@ Queste decisioni sono conservate:
 - a. dall’UFAG per tutta la Svizzera;
 - b. dai servizi designati dai Cantoni per il territorio cantonale.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 24 apr. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1379](https://fedlex.data.admin.ch/eli/oc/2002/212)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
+[^6-2]: Introdotto dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 637](https://fedlex.data.admin.ch/eli/oc/2024/637)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 637](https://fedlex.data.admin.ch/eli/oc/2024/637)).
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4881](https://fedlex.data.admin.ch/eli/oc/2003/719)).
+[^7-1]: Abrogato dalla cifra I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4881](https://fedlex.data.admin.ch/eli/oc/2003/719)).
 
 #### Art. 8
 

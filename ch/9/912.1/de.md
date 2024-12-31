@@ -3,11 +3,11 @@ sr: "912.1"
 title: Verordnung vom 7. Dezember 1998 über den landwirtschaftlichen Produktionskataster und die Ausscheidung von Zonen (Landwirtschaftliche Zonen-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/46"
 language: de
-version: 2018-01-01
+version: 2025-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/46/20180101/de/xml/fedlex-data-admin-ch-eli-cc-1999-46-20180101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/46/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/46/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-46-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/46/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/46/20180101/de"
 
 (Landwirtschaftliche Zonen-Verordnung)
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2018)
+vom 7. Dezember 1998 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -91,6 +91,24 @@ Für die Abgrenzung und Unterteilung des Berggebietes sind in absteigender Bedeu
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 24. April 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1379](https://fedlex.data.admin.ch/eli/oc/2002/212)).
 
+#### Art. 3a
+
+**Flächenabtausch im Rahmen von Gesamtmeliorationen**[^3a-1]
+
+<sup>1</sup> Im Rahmen von Gesamtmeliorationen nach Artikel 14 Absatz 1 Buchstabe a der Strukturverbesserungsverordnung vom 2. November 2022[^3a-2] (SVV) können die Grenzen nach Artikel 3 Absatz 2 anhand eines Flächenabtauschs neu festgelegt werden.
+
+<sup>2</sup>
+
+Flächen im Sömmerungsgebiet können mit Flächen im Berg- oder Talgebiet abgetauscht werden, wenn:
+
+- a. die landwirtschaftlich genutzte Fläche sowohl im Sömmerungsgebiet als auch im Berg- und Talgebiet ungefähr gleich gross bleibt, wobei in Ausnahmefällen eine Abweichung von höchstens 4 Aren pro Gesamtmelioration möglich ist;
+- b. die abgetauschten Flächen sich für die neuen landwirtschaftlichen Nutzungen eignen;
+- c. es sich um umfassende gemeinschaftliche Massnahmen nach Artikel 14 Absatz 5 Buchstabe a SVV handelt; und
+- d. der Kanton die Gesamtmelioration beaufsichtigt.
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 (AS **20****24** 637).
+[^3a-2]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+
 #### Art. 4
 
 **Festlegung der Abgrenzung**
@@ -122,7 +140,9 @@ Für die Abgrenzung und Unterteilung des Berggebietes sind in absteigender Bedeu
 
 <sup>2</sup> Das BLW kann im Rahmen der Kriterien nach den Artikeln 3 und 4 von sich aus oder auf Gesuch des Bewirtschafters oder der Bewirtschafterin die Grenzen des Sömmerungsgebietes ändern. Auf ein Gesuch um Ausschluss aus dem Sömmerungsgebiet tritt es nur ein, wenn die fragliche Fläche zwischen 1990 und 1998 nicht als Sömmerungs- oder Gemeinschaftsweide genutzt wurde. Gesuche sind beim Kanton einzureichen; dieser leitet sie mit einer begründeten Stellungnahme an das BLW weiter.[^6-1]
 
-<sup>3</sup> Das BLW veröffentlicht bei einer Änderung der Zonen- und Gebietsgrenzen die Verfügung in einem amtlichen Blatt des Kantons, auf dessen Gebiet die fragliche Grenze verläuft.[^6-2]
+<sup>2bis</sup> Für einen Flächenabtausch nach Artikel 3*a* reicht der Kanton, auf dessen Gebiet die fragliche Grenze verläuft, das Gesuch vor der öffentlichen Auflage des Neuzuteilungsentwurfs beim BLW ein.[^6-2]
+
+<sup>3</sup> Das BLW veröffentlicht bei einer Änderung der Zonen- und Gebietsgrenzen die Verfügung in einem amtlichen Blatt des Kantons, auf dessen Gebiet die fragliche Grenze verläuft. Es verfügt und veröffentlicht die Änderung der Grenzen des Sömmerungsgebiets aufgrund eines Flächenabtauschs nach Artikel 3*a*, sobald die durch den Kanton verfügten neuen Eigentumsverhältnisse rechtskräftig sind.[^6-3]
 
 <sup>4</sup>
 
@@ -132,7 +152,8 @@ Die Entscheide sind aufzubewahren:
 - b. in den von den Kantonen bezeichneten Amtsstellen für das Kantonsgebiet.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 24. April 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1379](https://fedlex.data.admin.ch/eli/oc/2002/212)).
+[^6-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 637](https://fedlex.data.admin.ch/eli/oc/2024/637)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 637](https://fedlex.data.admin.ch/eli/oc/2024/637)).
 
 #### Art. 7
 

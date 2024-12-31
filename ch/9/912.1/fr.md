@@ -3,11 +3,11 @@ sr: "912.1"
 title: Ordonnance du 7 décembre 1998 sur le cadastre de la production agricole et la délimitation de zones (Ordonnance sur les zones agricoles)
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/46"
 language: fr
-version: 2018-01-01
+version: 2025-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/46/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-46-20180101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/46/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/46/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-46-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/46/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/46/20180101/fr"
 
 (Ordonnance sur les zones agricoles)
 
-du 7 décembre 1998 (Etat le 1<sup>er</sup> janvier 2018)
+du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -91,6 +91,24 @@ Pour la délimitation et la subdivision de la région de montagne, il convient d
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 24 avr. 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1379](https://fedlex.data.admin.ch/eli/oc/2002/212)).
 
+#### Art. 3a
+
+**Échange de surfaces dans le cadre d’améliorations foncières intégrales**[^3a-1]
+
+<sup>1</sup> Dans le cadre d’améliorations foncières intégrales selon l’art. 14, al. 1, let. a, de l’ordonnance du 2 novembre 2022 sur les améliorations structurelles (OAS)[^3a-2], les limites visées à l’art. 3, al. 2, peuvent être redéfinies au moyen d’un échange de surfaces.
+
+<sup>2</sup>
+
+Des surfaces situées dans la région d’estivage peuvent être échangées contre des surfaces situées dans la région de montagne ou la région de plaine si les conditions suivantes sont réunies:
+
+- a. la surface utilisée à des fins agricoles reste à peu près la même tant dans la région d’estivage que dans la région de montagne et de plaine, un écart d’au maximum 4 ares par amélioration foncière intégrale étant possible dans des cas exceptionnels;
+- b. les surfaces échangées se prêtent aux nouvelles utilisations agricoles;
+- c. il s’agit de mesures collectives d’envergure selon l’art. 14, al. 5, let. a, OAS;
+- d. le canton surveille l’amélioration foncière intégrale.
+
+[^3a-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 637](https://fedlex.data.admin.ch/eli/oc/2024/637)).
+[^3a-2]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+
 #### Art. 4
 
 **Fixation des limites**
@@ -122,7 +140,9 @@ Pour la délimitation et la subdivision de la région de montagne, il convient d
 
 <sup>2</sup> L’OFAG peut modifier les limites de la région d’estivage, de son propre gré ou à la demande d’un exploitant, en tenant compte des critères mentionnés aux art. 3 et 4. Il n’entre en matière sur une demande d’exclusion de la région d’estivage que si la surface en question n’a pas été utilisée comme pâturage d’estivage ou comme pâturage communautaire de 1990 à 1998. Les demandes doivent être adressées au canton, qui les transmet à l’OFAG en y joignant un préavis dûment motivé.[^6-1]
 
-<sup>3</sup> En cas de modification des limites de zones et de régions, l’OFAG publie sa décision dans la feuille officielle du canton sur le territoire duquel se trouve la limite en question.[^6-2]
+<sup>2bis</sup> Pour un échange de surfaces selon l’art. 3*a*, le canton sur le territoire duquel se trouve la limite en question dépose la demande auprès de l’OFAG avant la mise à l’enquête publique du projet de nouvelle répartition.[^6-2]
+
+<sup>3</sup> En cas de modification des limites de zones et de régions, l’OFAG publie sa décision dans la feuille officielle du canton sur le territoire duquel se trouve la limite en question. Il rend sa décision et publie la modification des limites de la région d’estivage par échange de surfaces selon l’art. 3*a* dès que les nouveaux rapports de propriété décidés par le canton sont entrés en force.[^6-3]
 
 <sup>4</sup>
 
@@ -132,7 +152,8 @@ Les décisions doivent être conservées par:
 - b. les services que les cantons ont désignés pour le territoire cantonal.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6185](https://fedlex.data.admin.ch/eli/oc/2007/823)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 24 avr. 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1379](https://fedlex.data.admin.ch/eli/oc/2002/212)).
+[^6-2]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 637](https://fedlex.data.admin.ch/eli/oc/2024/637)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 637](https://fedlex.data.admin.ch/eli/oc/2024/637)).
 
 #### Art. 7
 
