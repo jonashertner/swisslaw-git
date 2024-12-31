@@ -4,13 +4,13 @@ number: "613.000"
 title: Lescha da polizia dal chantun Grischun
 short: LPol
 language: rm
-version: 2022-01-01
-corrected: 2024-04-02
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3223/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,13 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3223/pdf_file"
 
 (LPol)
 
-dals 20-10-2004 (versiun dals 01-01-2022)
+dals 20-10-2004 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun,
 
-sa basond sin l'art. 79 da la constituziun chantunala[^ingress-1], suenter avair gì invista da la missiva da la regenza dals 15 da zercladur 2004[^ingress-2],
+sa basond sin l'art. 79 da la constituziun chantunala[^ingress-1],
+
+suenter avair gì invista da la missiva da la regenza dals 15 da zercladur 2004[^ingress-2],
 
 concluda:
 
@@ -48,13 +50,13 @@ concluda:
 
 <sup>1</sup> La polizia chantunala ademplescha las suandantas incumbensas:
 
-- a) Ella prenda mesiras per percorscher, impedir ed eliminar tant privels per ils umans, ils animals e l'ambient sco er fatgs u disturbis da la segirezza publica e da l'urden public.
-- b) Ella ha la funcziun da la polizia giudiziala e prenda mesiras per impedir e cumbatter fatgs penals.
-- c) Ella fa ils scleriments necessaris gia avant che cumenzar cun las retschertgas da la polizia giudiziala u per la defensiun cunter privels.
-- d) Ella procura per ina surveglianza e direcziun adequata dal traffic sin via e prenda mesiras per la prevenziun d'accidents e per quietar il traffic.
-- e) Ella gida umans ch'èn directamain periclitads areguard il corp e la vita u ch'èn autramain en privel.
-- f) Ella garantescha la direcziun da l'acziun, sch'in accident u in cas d'urgenza pretenda l'acziun da polizia, da pumpiers e d'ulteriuras organisaziuns.
-- g) Ella porscha sustegn da polizia a chaschun d'occurrenzas grondas; ella po surpigliar la direcziun da l'acziun.
+- a) Ella prenda mesiras per percorscher, impedir ed eliminar tant privels per ils umans, ils animals e l'ambient sco er fatgs u disturbis da la segirezza publica e da l'urden public;
+- b) Ella ha la funcziun da la polizia giudiziala e prenda mesiras per impedir e cumbatter fatgs penals;
+- c) Ella fa ils scleriments necessaris gia avant che cumenzar cun las retschertgas da la polizia giudiziala u per la defensiun cunter privels;
+- d) Ella procura per ina surveglianza e direcziun adequata dal traffic sin via e prenda mesiras per la prevenziun d'accidents e per quietar il traffic;
+- e) Ella gida umans ch'èn directamain periclitads areguard il corp e la vita u ch'èn autramain en privel;
+- f) Ella garantescha la direcziun da l'acziun, sch'in accident u in cas d'urgenza pretenda l'acziun da polizia, da pumpiers e d'ulteriuras organisaziuns;
+- g) Ella porscha sustegn da polizia a chaschun d'occurrenzas grondas; ella po surpigliar la direcziun da l'acziun;
 - h) Ella ademplescha autras incumbensas ch'èn surdadas ad ella tras la legislaziun.
 
 #### Art. 3
@@ -470,7 +472,7 @@ concluda:
 
 <sup>2</sup> La derschadra singula u il derschader singul da la dretgira chantunala da mesiras repressivas approvescha questa ordinaziun e prenda las mesiras necessarias per mantegnair il secret professiunal.
 
-<sup>3</sup> Cunter decisiuns giudizialas poi vegnir fatg recurs tar la dretgira chantunala. Per la procedura valan las disposiziuns davart il recurs penal confurm al senn.
+<sup>3</sup> Cunter decisiuns giudizialas poi vegnir fatg recurs tar la Dretgira superiura. Per la procedura valan las disposiziuns davart il recurs penal confurm al senn.
 
 [^22d-1]: CS [780.1](https://db.clex.ch/link/Bund/780.1/rm)
 
@@ -562,7 +564,7 @@ concluda:
 
 <sup>1</sup> La polizia chantunala po trametter datas a terzas persunas, uschenavant che quai è previs tenor la lescha u indispensabel per:
 
-- a) ademplir las incumbensas da polizia u
+- a) ademplir las incumbensas da polizia; u
 - b) la defensiun cunter in privel per la segirezza publica e per l'urden public.
 
 <sup>2</sup> La communicaziun da datas ad autras autoritads chantunalas sco er a las autoritads federalas da polizia e da persecuziun penala po er avair lieu en moda automatisada.
