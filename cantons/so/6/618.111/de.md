@@ -1,919 +1,887 @@
 ---
 canton: SO
 number: "618.111"
-title: "Gesetz über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe"
-short: Gebäudeversicherungsgesetz
+title: "Gesetz über die Gebäudeversicherung, den Brandschutz und die Elementarschadenprävention, die Feuerwehr und den Elementarschadenfonds"
+short: "Gebäudeversicherungsgesetz, GVG"
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-12-08
+version: 2025-01-01
+version_adopted: 2024-03-20
 adopted: 2024-03-20
 in_force: 2025-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/618.111"
-pdf: "https://bgs.so.ch/api/de/versions/5192/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5482/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe
+# Gesetz über die Gebäudeversicherung, den Brandschutz und die Elementarschadenprävention, die Feuerwehr und den Elementarschadenfonds
 
-(Gebäudeversicherungsgesetz)
+(Gebäudeversicherungsgesetz, GVG)
 
-Vom 24.09.1972 (Stand 01.01.2022)
+Vom 20.03.2024 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
-gestützt auf Artikel 71 der Kantonsverfassung vom 23. Oktober 1887[^ingress-1]
+gestützt auf Artikel 99 Absatz 3 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-1]
 
-nach Kenntnisnahme von Bericht und Antrag des Regierungsrates vom 24. August 1971[^ingress-2]
+nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 31. Oktober 2023 (RRB Nr. 2023/1799)
 
 beschliesst:
 
-[^ingress-1]: Es gilt die KV vom 8. Juni 1986 (Art. 99 Absatz 3 ).
-[^ingress-2]: KRV 1972 S. 350.
+[^ingress-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
 
-## 1. Gebäudeversicherung
+## 1. Die Solothurnische Gebäudeversicherung
 
-### 1.1. Zweck und Organisation
+### 1.1. Rechtsstellung, Aufgaben und Mittel
 
 #### § 1
 
-**Zweck**
+**Rechtsform und Sitz**
 
-<sup>1</sup> Der Kanton Solothurn überträgt die Gebäudeversicherung und die Förderung der Schadenverhütung an Gebäuden und des Feuerwehrwesens einer öffentlich-rechtlichen Anstalt. Diese hat eigene Rechtspersönlichkeit, führt die Bezeichnung «Solothurnische Gebäudeversicherung», im folgenden Gebäudeversicherung genannt, und hat ihren Sitz in Solothurn.
+<sup>1</sup> Die Solothurnische Gebäudeversicherung (SGV) ist eine selbstständige öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit und Sitz in Solothurn.
 
 #### § 2
 
-**Verhältnis zur Staatsverwaltung**
+**Aufgaben**
 
-<sup>1</sup> Die Direktion[^2-1] der Gebäudeversicherung wird, soweit dieses Gesetz nicht Ausnahmen vorsieht, von der übrigen Staatsverwaltung unabhängig geführt.
+<sup>1</sup> Die SGV versichert die Gebäude auf dem Gebiet des Kantons Solothurn gegen Feuer- und Elementarschäden zu möglichst günstigen Prämien.
 
-[^2-1]: Bezeichnung im ganzen Erlass vom 7. Februar 1999.
+<sup>2</sup> Sie fördert die Prävention und die Abwehr von Feuer- und Elementarschäden (Intervention).
+
+<sup>3</sup> Sie erfüllt die ihr durch Gesetz übertragenen Aufgaben als kantonale Brandschutz- und Feuerwehrbehörde.
+
+<sup>4</sup> Sie erlässt die zur Aufgabenerfüllung erforderlichen Verfügungen.
 
 #### § 3
 
 **Mittel**
 
-<sup>1</sup> Die Leistungen der Gebäudeversicherung werden bestritten aus:
+<sup>1</sup> Die SGV beschafft sich die zur Erfüllung ihrer Aufgaben erforderlichen Mittel durch:
 
 - a) Versicherungsprämien;
-- b) Beiträgen an die Schadenverhütung und Schadenbekämpfung;
-- c) Kapitalerträgen;
-- d) Löschbeiträgen;
+- b) Präventions- und Interventionsbeiträge;
+- c) Kapitalerträge;
+- d) Leistungsabgeltungen;
 - e) Zuwendungen;
-- f) wenn nötig aus der Deckungsreserve.
+- f) Gebühren;
+- g) wenn nötig aus der Deckungsreserve.
 
-<sup>2</sup> Die Mittel der Gebäudeversicherung sind zur Erfüllung der gesetzlich vorgeschriebenen Zwecke und für die Abgabe an den Staat zu verwenden.
-
-<sup>3</sup> Für die Verbindlichkeiten haftet ausschliesslich das Vermögen der Gebäudeversicherung.
-
-<sup>4</sup> Die Gebäudeversicherung kann Rückversicherungsverträge abschliessen.
+<sup>2</sup> Für ihre Verbindlichkeiten haftet ausschliesslich das Vermögen der SGV.
 
 #### § 4
 
-**Anstaltsorgane**
+**Reserven**
 
-<sup>1</sup> Die Organe der Gebäudeversicherung sind:
+<sup>1</sup> Die SGV hat entsprechend ihren Verpflichtungen über ausreichende Reserven zu verfügen.
 
-- a) die Verwaltungskommission;
-- b) der Direktor[^4-1];
-- c) die Kontrollstelle;
-- d) die Schätzungskommissionen.
+<sup>2</sup> Die Höhe der Reserven wird mit versicherungstechnisch anerkannten Methoden ermittelt und durch eine externe Fachperson periodisch überprüft.
 
-<sup>2</sup> Soweit die Befugnisse der Organe nicht durch Gesetz oder durch Verordnung festgelegt sind, werden sie in einem Geschäftsreglement geregelt.
-
-[^4-1]: Bezeichnung im ganzen Erlass vom 7. Februar 1999.
+<sup>3</sup> Das Risikomass ist zwei Mal ein 200-jähriges Ereignis (Expected Shortfall) zum Sicherheitsniveau 99,5 %.
 
 #### § 5
 
-**Verwaltungskommission**
+**Risikoabdeckung und Kooperation**
 
-<sup>1</sup> Der Regierungsrat ernennt unter Berücksichtigung der interessierten Kreise eine Verwaltungskommission von 9 Mitgliedern. Den Vorsitz führt der Vorsteher des vom Regierungsrat bezeichneten Departements beziehungsweise dessen Stellvertreter.
+<sup>1</sup> Die SGV kann:
 
-<sup>2</sup> Die Verwaltungskommission überwacht den gesamten Geschäftsbetrieb und erlässt die notwendigen Weisungen. Es stehen ihr alle Kompetenzen zu, soweit sie nicht einem anderen Anstaltsorgan übertragen werden.
+- a) Rückversicherungsverträge abschliessen und sich an Versicherungsgemeinschaften, Pools oder Rückversicherungsinstitutionen beteiligen;
+- b) zur Deckung von Grossrisiken Mitversicherungen oder ähnliche Verträge abschliessen;
+- c) Interessenorganisationen beitreten;
+- d) sich im Rahmen ihrer Aufgaben an Gesellschaften beteiligen, sofern die Gesellschaft hauptsächlich von öffentlich-rechtlichen Körperschaften, Anstalten oder Stiftungen getragen wird und der Gesellschaftszweck sich auf die Unterstützung bei der Erfüllung gesetzlicher Aufgaben beschränkt. Die Vergütungen der von der SGV wahrgenommenen Vertretungen haben sich auf die reglementarischen Ansätze der SGV zu beschränken.
 
-<sup>3</sup> Die Verwaltungskommission stellt dem Regierungsrat für alle ihm durch das Gesetz zugewiesenen Aufgaben und für Wahlen von Beamten mit leitender Funktion Antrag. Sie erlässt die für die Geschäftsführung der Gebäudeversicherung erforderlichen Reglemente.
-
-<sup>4</sup> Der Direktor nimmt an den Sitzungen mit beratender Stimme teil und ist für die Protokollierung der Verhandlungen besorgt. Er hat das Recht, Anträge zu stellen.
+### 1.2. Organisation und Aufsicht
 
 #### § 6
 
-**Direktion**
+**Organe**
 
-<sup>1</sup> Dem Direktor obliegt die Geschäftsführung. Er vertritt die Gebäudeversicherung und trifft Verfügungen nach diesem Gesetz und dem Geschäftsreglement oder nach Anordnung der Verwaltungskommission. Die Unterschriftenberechtigung wird durch die Verwaltungskommission geregelt. Bei Fragen von grundsätzlicher Bedeutung hat der Direktor die Stellungnahme der Verwaltungskommission einzuholen.
+<sup>1</sup> Die Organe der SGV sind:
 
-<sup>2</sup> Der Regierungsrat teilt dem Direktor das nötige technische und kaufmännische Personal zu.
+- a) der Verwaltungsrat;
+- b) die Geschäftsleitung;
+- c) die Revisionsstelle.
 
-<sup>3</sup> Der Direktor und das Personal unterstehen dem Gesetz über das Staatspersonal.
-
-<sup>4</sup> …
+<sup>2</sup> Soweit die Befugnisse und Verantwortlichkeiten der Organe nicht durch Gesetz oder durch Verordnung festgelegt sind, werden sie von der SGV in einem Geschäftsreglement geregelt.
 
 #### § 7
 
-**Kontrollstelle**
+**Verwaltungsrat**
 
-<sup>1</sup> Kontrollstelle ist die kantonale Finanzkontrolle. Sie prüft die Kassen- und Buchführung zuhanden der Verwaltungskommission nach den für die Staatsrechnung massgebenden Vorschriften.
+<sup>1</sup> Der Verwaltungsrat besteht aus neun Mitgliedern, die vom Regierungsrat nach fachlichen Kriterien sowie unter angemessener Berücksichtigung der unmittelbar betroffenen Verbände gewählt werden. Der Regierungsrat regelt die Zusammensetzung in der Verordnung.
+
+<sup>2</sup> Der Regierungsrat wählt den Vorsitzenden oder die Vorsitzende. Im Übrigen konstituiert sich der Verwaltungsrat selbst.
+
+<sup>3</sup> Um gültig zu verhandeln, müssen wenigstens fünf Mitglieder anwesend sein.
+
+<sup>4</sup> Dem Verwaltungsrat obliegt die oberste Unternehmensleitung. Er hat folgende unübertragbare Aufgaben:
+
+- a) Aufsicht über die Geschäftsführung der Geschäftsleitung und Erlass der notwendigen Weisungen;
+- b) Ernennung der Mitglieder der Geschäftsleitung;
+- c) Aufstellung des Voranschlags und Genehmigung der Jahresrechnung;
+- d) Erstellung des jährlichen Geschäftsberichts zuhanden des Regierungs- und Kantonsrates;
+- e) Festlegung der Risiko- und Reservepolitik;
+- f) Abschluss von Vereinbarungen und Beschlussfassung über Beitritte und Beteiligungen im Sinne von § 5;
+- g) Erlass der vom Gesetz vorgesehenen Reglemente einschliesslich des Prämientarifs.
 
 #### § 8
 
-**Schätzungskommissionen**
+**Geschäftsleitung**
 
-<sup>1</sup> Die Schätzungskommissionen bestehen aus einem Schätzungspräsidenten der Gebäudeversicherung und 2 Schätzern. Jeder Schätzungspräsident kann mehreren Schätzungskommissionen vorstehen und in allen als Stellvertreter amten.
+<sup>1</sup> Die Geschäftsleitung führt die laufenden Geschäfte nach Massgabe des Geschäftsreglements und vertritt die SGV nach aussen.
 
-<sup>2</sup> Die Verwaltungskommission wählt für jede Amtei die notwendige Anzahl Schätzer. Als Schätzer sind im Baufach tätige Personen mit abgeschlossener Berufsausbildung wählbar.
-
-<sup>3</sup> Die Schätzungskommissionen stellen Anträge an die Direktion über:
-
-- a) die Einschätzung der Gebäude (§ 23);
-- b) die Schadenabschätzung (§ 41);
-- c) die Ablehnung des Entschädigungsanspruches.
-
-<sup>4</sup> In Bagatellfällen ist ein Schätzungspräsident zur Stellung des Antrages allein zuständig.
-
-### 1.2. Rechtsschutz und Aufsicht
+<sup>2</sup> Verfügungen werden durch die Vorsitzende oder den Vorsitzenden der Geschäftsleitung getroffen, soweit das Geschäftsreglement nichts anderes bestimmt.
 
 #### § 9
 
-**…**
+**Revisionsstelle**
+
+<sup>1</sup> Der Regierungsrat wählt auf Antrag des Verwaltungsrats eine Revisionsstelle. Die Wiederwahl ist zulässig.
+
+<sup>2</sup> Aufgaben und Verantwortlichkeit richten sich sinngemäss nach den Vorschriften des Schweizerischen Obligationenrechts für Revisionsstellen von Aktiengesellschaften.
+
+<sup>3</sup> Die Berichterstattung erfolgt an den Verwaltungsrat, den Regierungsrat und die parlamentarischen Aufsichtskommissionen.
 
 #### § 10
 
-**Rechtsmittel**
+**Personal**
 
-<sup>1</sup> Gegen Verfügungen der Direktion kann der Eigentümer innert 10 Tagen schriftlich Verwaltungsgerichtsbeschwerde oder Beschwerde erheben.
-
-<sup>2</sup> Die Verwaltungsgerichtsbeschwerde an das Verwaltungsgericht ist zulässig gegen Verfügungen der Direktion betreffend:
-
-- a) die Einschätzung des Gebäudes (§ 29);
-- b) die Schadenabschätzung (§ 41);
-- c) die Ablehnung des Entschädigungsanspruches;
-- d) die Kürzung der Schadenvergütung infolge Verschuldens (§ 50).
-
-<sup>3</sup> Die Verwaltungskommission entscheidet über Beschwerden gegen alle übrigen Verfügungen.
-
-<sup>4</sup> Entscheide der Verwaltungskommission können nach den Vorschriften des Verwaltungsrechtspflegegesetzes an das Verwaltungsgericht weitergezogen werden.
+<sup>1</sup> Die Rechtsbeziehung zwischen der SGV und ihren Angestellten untersteht der Gesetzgebung über das Staatspersonal.
 
 #### § 11
 
-**Aufsichtsorgane**
+**Schätzungswesen**
 
-<sup>1</sup> Die Gebäudeversicherung untersteht der Aufsicht des Regierungsrates.
+<sup>1</sup> Die SGV legt Schätzungsregionen fest und bestimmt für diese hauptamtliche Schätzerinnen und Schätzer. Die gegenseitige Stellvertretung ist zulässig.
 
-<sup>2</sup> Dem Kantonsrat ist jährlich mit dem Antrag des Regierungsrates der Geschäftsbericht zur Genehmigung zu unterbreiten.
+<sup>2</sup> Die Schätzerin oder der Schätzer zieht nebenamtliche Fachpersonen aus der Schätzungsregion bei:
 
-<sup>3</sup> Das Verwaltungsjahr fällt mit dem Kalenderjahr zusammen.
+- a) nach Bedarf bei komplexen Schätzungen oder zur Erfassung der Gebäudedaten für die Katasterschätzung zuhanden des kantonalen Steueramts;
+- b) auf Antrag der Eigentümerschaft.
 
-### 1.3. Versicherungsleistungen
+<sup>3</sup> In einfachen Fällen
+
+- a) kann die Schätzung des Versicherungswerts an eine nebenamtliche Fachperson aus der Schätzungsregion delegiert werden;
+- b) erfolgt die Schadenschätzung durch den Schadendienst der SGV.
+
+<sup>4</sup> Die SGV kann zur Bewältigung von Grossschadenereignissen einer überkantonalen Schadenorganisation beitreten und mit dieser Leistungsvereinbarungen abschliessen.
+
+<sup>5</sup> Sie regelt die Einzelheiten der Schätzung von Versicherungswert und Schäden in einem Reglement.
 
 #### § 12
 
-**Ersatzleistungen bei Gebäudeschäden**
+**Aufsichtsorgane**
 
-<sup>1</sup> Die Gebäudeversicherung leistet Ersatz für Schäden, die an versicherten Gebäuden entstehen durch:
+<sup>1</sup> Die SGV untersteht der Aufsicht des Regierungsrates.
 
-- a) Feuer, Rauch, Hitze; ausgeschlossen sind Schäden, die bei ordentlichem Gebrauch der versicherten Sache zur Erfüllung ihres Zweckes oder durch Abnützung entstanden sind, sowie Sengschäden;
-- b) Explosion mit oder ohne Brandfolge; ausgeschlossen sind Schleuderbrüche und andere kräftemechanische Betriebseinwirkungen;
-- c) Elektrizität;
-- d) Blitzschlag mit oder ohne Zündung und atmosphärische Entladung;
-- e) Hochwasser oder Überschwemmungen, Erd- und Felsrutschungen, Steinschlag, Sturmwind, natürliche Grundwasser- und Bodenbewegungen, Hagelschlag, Schneelast und Schneerutschungen (Elementarschäden);
-- f) Löscharbeiten oder andere Massnahmen, die von zuständigen Organen zur Verhinderung der Brandausdehnung oder zur Schadenverhütung an Personen und Sachen angeordnet werden;
-- g) Luftfahrzeuge und andere Flugkörper, soweit eine gesetzliche oder vertragliche Haftpflicht nicht in Anspruch genommen werden kann.
+<sup>2</sup> Der Geschäftsbericht ist jährlich mit dem Antrag des Regierungsrates dem Kantonsrat zur Genehmigung zu unterbreiten.
+
+## 2. Gebäudeversicherung
+
+### 2.1. Versicherungspflicht
 
 #### § 13
 
-**Weitere Entschädigungen**
+**Obligatorium und Monopol**
 
-<sup>1</sup> Die Gebäudeversicherung ist weiter verpflichtet:
+<sup>1</sup> Gebäude auf dem Gebiet des Kantons Solothurn sind für die nach diesem Gesetz versicherten Gefahren durch die Eigentümerschaft obligatorisch bei der SGV zu versichern. Dieser Vorschrift widersprechende Versicherungsverträge sind nichtig.
 
-- a) die bei einem versicherten Schadenereignis entstehenden Kosten für Räumung von Gebäudeschutt oder von eingedrungenem Schutt im Innern des Gebäudes und, allenfalls zusammen mit weiteren Interessierten, für Schutzmassnahmen zur Verhütung weiteren Schadens (Notdach, Stützen usw.) zu übernehmen;
-- b) in Notlagen auf Gesuch hin Ersatz zu leisten für Schäden, die ein Gebäudeeigentümer während einer Dauer von längstens einem Jahr dadurch erleidet, dass er eigene Wohnräume wegen eines Ereignisses nach § 12 ganz oder teilweise nicht mehr benützen kann;
-- c) Ersatz zu leisten für die durch Lösch-, Rettungs- oder Sicherungsmassnahmen an unbeweglichen Sachen (Kulturen, Gartensockeln, Geländern usw.) entstehenden Sachschäden. Angemessen vergütet werden auch die Rettungskosten zum Schutze des versicherten Gebäudes und Gebäudeareals;
-- d) bei den unter § 12 litera e erwähnten Schadenereignissen und bei Brand auch die Schäden und Räumungskosten auf dem Gebäudeareal bis auf eine Distanz von 8 Metern von der Aussenwand des versicherten Gebäudes zu entschädigen. Ausgenommen sind Schäden wegen Frost, Hagel, Schneelast, Schneerutschung, Nässe, Trockenheit oder Sturmwind.
+<sup>2</sup> Von der Versicherungspflicht ausgenommen sind Gebäude, die einen von der SGV in einem Reglement festgesetzten Versicherungswert nicht erreichen.
 
 #### § 14
 
-**Nicht ersatzpflichtige Elementarschäden**
+**Gebäudebegriff**
 
-<sup>1</sup> Ausgeschlossen sind Elementarschäden nach den §§ 12 litera e und 13 litera d, die unmittelbar oder mittelbar zurückzuführen sind auf:
+<sup>1</sup> Als Gebäude im Sinne dieses Gesetzes gelten auf Dauer erstellte, überdachte und mit dem Boden fest verbundene Bauwerke, die zur Aufnahme von Menschen, Tieren oder Sachen geeignet sind.
 
-- a) erkennbar schlechten Baugrund, ungenügende Fundamente, fehlerhafte Ausführung, mangelhaften Unterhalt der Gebäude und künstlich hervorgerufene Grundwasser- und Erdbewegungen;
-- b) Überschwemmungen durch künstlich gestautes Wasser oder durch Wasser aus künstlichen Anlagen, sofern das Übermass an Wasser nicht auf natürliches Hochwasser oder auf eine Überschwemmung zurückzuführen ist;
-- c) Eindringen von Regen- und Schneewasser durch Dach, Wände und Fenster irgendwelcher Art, sofern das Eindringen nicht auf ein versichertes Ereignis zurückzuführen ist.
+<sup>2</sup> Der Regierungsrat bestimmt in der Verordnung
+
+- a) die gebäudeähnlichen Bauten, die ebenfalls obligatorisch bei der SGV zu versichern sind;
+- b) die Gebäudebestandteile und Einrichtungen, die mit dem Gebäude mitversichert sind. Er kann die SGV zum Erlass einer Abgrenzungsrichtlinie ermächtigen.
 
 #### § 15
 
-**Schäden infolge ausserordentlicher Ereignisse**
+**Beginn der Versicherungspflicht**
 
-<sup>1</sup> Die Gebäudeversicherung ersetzt nicht die durch Krieg, Neutralitätsverletzungen, Unruhen, Militär- und Zivilschutzübungen, Erdbeben oder Veränderung der Atomkernstruktur verursachten Schäden.
-
-<sup>2</sup> Die Verwaltungskommission kann beschliessen, dass die Gebäudeversicherung einem Konkordat oder einem Pool beitritt oder andere geeignete Massnahmen ergreift, die es ihr ermöglichen, Schäden nach Absatz 1 ganz oder teilweise in die Versicherung einzubeziehen.
-
-## 1.4. Versicherungspflicht
+<sup>1</sup> Neubauten und wertvermehrende Änderungen an bestehenden Bauten sind ab Beginn der Bauarbeiten zur Kostenvoranschlagssumme zu versichern.
 
 #### § 16
 
-**Obligatorium**
+**Beginn der Versicherungsdeckung**
 
-<sup>1</sup> Für Gebäude auf dem Gebiet des Kantons Solothurn ist die Versicherung obligatorisch.
-
-#### § 17
-
-**Gebäudebegriff**
-
-<sup>1</sup> Als Gebäude im Sinne dieses Gesetzes ist jedes nicht bewegliche Erzeugnis der Bautätigkeit zu betrachten, das einen gedeckten und benützbaren Raum birgt und zum Zwecke des dauernden Verbleibens erstellt ist. Die Vollzugsverordnung regelt die Versicherung von gebäudeähnlichen Bauten. Vorbehalten bleibt § 18.
-
-<sup>2</sup> Zu versichern sind in Form einer Bauversicherung zum steigenden Wert auch sämtliche Neubauten sowie Um- oder Anbauten an bestehenden Gebäuden mit baulicher Wertvermehrung.
-
-#### § 18
-
-**Nichtaufnahme in die Versicherung**
-
-<sup>1</sup> In die Versicherung werden nicht aufgenommen:
-
-- a) Bauten, die ohne Absicht bleibender. Verbindung mit dem Boden erstellt worden sind (Hütten, Buden, Baracken usw.);
-- b) Gebäude unter einem von der Verwaltungskommission festgesetzten Versicherungswert.
-
-<sup>2</sup> Gegen Verfügungen der Direktion über Aufnahme oder Nichtaufnahme von Bauten in die Versicherung kann innert 10 Tagen Beschwerde an die Verwaltungskommission erhoben werden.
-
-#### § 19
-
-**Ausschluss von der Versicherung**
-
-<sup>1</sup> Versicherte Gebäude können von der Versicherung ausgeschlossen werden, wenn Mängel irgendwelcher Art, die eine wesentliche Erhöhung der Schadengefahr einschliessen, auf erfolgte Aufforderung nicht behoben werden.
-
-<sup>2</sup> Der Ausschluss kann sich auf die Versicherung gegen alle oder einzelne der in § 12 genannten Gefahren erstrecken oder sich auf die Neuwertversicherung allein beziehen.
-
-<sup>3</sup> Der Ausschlussverfügung hat eine Androhung an den Versicherungsnehmer vorauszugehen. Grundpfandgläubiger, Nutzniessungs- und Wohnberechtigte sind von der Androhung des Ausschlusses zum Zweck ihrer Interessenwahrung zu benachrichtigen.
-
-<sup>4</sup> Gegen den Ausschluss von der Versicherung hat der Versicherungsnehmer innert 10 Tagen seit Zustellung der Verfügung das Beschwerderecht an die Verwaltungskommission.
-
-<sup>5</sup> Die Versicherung erlischt nach eingetretener Rechtskraft der Ausschlussverfügung. Grundpfandgläubigern gegenüber bleibt die Gebäudeversicherung jedoch noch während weiteren 2 Jahren zur Ausrichtung der Entschädigung im Schadenfalle verpflichtet.
-
-#### § 20
-
-**Ausschluss der Doppelversicherung**
-
-<sup>1</sup> Gebäude, die obligatorisch versichert werden müssen, dürfen gegen die in § 12 bezeichneten Gefahren nicht mehrfach versichert werden.
-
-<sup>2</sup> Bei absichtlicher Übertretung der Vorschrift verliert der Gebäudeeigentümer ohne Befreiung von der Prämienpflicht den Schadenersatzanspruch gegenüber der Gebäudeversicherung. Vorbehalten bleiben die Ansprüche der Grundpfandgläubiger, soweit sie nicht aus einer anderweitigen Versicherung gedeckt werden.
-
-<sup>3</sup> Bei den in § 13 aufgezeichneten Risiken haftet die Gebäudeversicherung subsidiär.
-
-### 1.5. Schätzung und Versicherung der Gebäude
-
-#### § 21
-
-**Gegenstand der Schätzung und Versicherung**
-
-<sup>1</sup> Gegenstand der Schätzung und Versicherung sind alle Gebäudebestandteile und alle dem Gebäudeeigentümer gehörenden, in der Vollzugsverordnung näher zu umschreibenden Gegenstände und Einrichtungen, die, ohne einen notwendigen Bestandteil des Gebäudes zu bilden, doch zu seinem Ausbau gehören und ohne grösseren Wertverlust oder bauliche Beschädigung nicht entfernt werden können.
-
-<sup>2</sup> Im Rahmen der Gebäudeschätzung erarbeiten die Schätzungskommissionen auch die Gebäudedaten für die Katasterschätzung. Die Gebäudeversicherung schliesst zu diesem Zweck mit dem Kantonalen Steueramt eine Leistungsvereinbarung ab, die durch den Kantonsrat zu genehmigen ist.
-
-#### § 22
-
-**Versicherung während dem Bau**
-
-<sup>1</sup> Ein im Bau, Umbau oder Anbau befindliches Gebäude ist zur Kostenvoranschlagssumme der versicherten Gebäudebestandteile und Gegenstände zu versichern.
-
-<sup>2</sup> Die örtlichen Baukommissionen haben der Gebäudeversicherung alle Baubewilligungen mitzuteilen. Die Direktion fordert hierauf den Bauherrn zum Abschluss einer Bauversicherung auf. Der an die Gebäudeversicherung zu richtenden schriftlichen Anmeldung sind genaue Pläne, eine Kostenzusammenstellung und eine Eigentumsbescheinigung beizulegen. Im Unterlassungsfall kann die Direktion die Bauversicherungssumme durch den Präsidenten der Schätzungskommission schätzen lassen.
-
-<sup>3</sup> Das fertig erstellte Gebäude ist durch den Eigentümer zur definitiven Versicherung anzumelden.
-
-#### § 23
-
-**Gebäudeschätzung**
-
-<sup>1</sup> Nach erfolgter Meldung nach § 22 Absatz 3 nimmt die Schätzungskommission unter Benachrichtigung des Gebäudeeigentümers die definitive Einschätzung vor. Ausserdem können Einschätzungen vorgenommen werden:
-
-- a) auf Verlangen des Eigentümers;
-- b) auf Anordnung des Direktors oder der Verwaltungskommission;
-- c) auf Anordnung des Regierungsrates.
-
-#### § 24
-
-**Versicherungswerte a) Arten**
-
-<sup>1</sup> Im Schätzungsverfahren sind der Neuwert und der Zeitwert des versicherten Gebäudes auf einheitlicher Grundlage festzustellen.
-
-<sup>2</sup> Als Neuwert gelten die Kosten, die für die Neuerstellung des einzuschätzenden Gebäudes zur Zeit der Schätzung (inbegriffen Architekten- und Ingenieurhonorar) erforderlich wären.
-
-<sup>3</sup> Als Zeitwert gilt der Neuwert unter Abzug der seit der Erstellung wegen Alters, Abnützung oder anderer Gründe eingetretenen Wertverminderung.
-
-#### § 25
-
-**b) Bei Teilabbruch oder Teilschäden**
-
-<sup>1</sup> Hat sich der Wert eines Gebäudes nach der Schätzung wegen Teilabbruches oder Teilschadens wesentlich vermindert, werden die Versicherungswerte verhältnismässig herabgesetzt.
-
-#### § 26
-
-**c) Bei Änderung der Baukosten**
-
-<sup>1</sup> Ändern sich die Baukosten, passt die Verwaltungskommission zu Beginn jedes Jahres den Neuwert und den Zeitwert für alle Gebäude einheitlich dem neuen Stand der Baukosten an.
-
-<sup>2</sup> Dem Teuerungsanstieg im Versicherungsjahr wird bei Eintreten eines Schadenfalles durch besondere Teuerungszuschläge zur Schadensumme im Sinne von § 47 Absatz 2 Rechnung getragen. Für diese Zuschläge wird keine besondere Prämie erhoben.
-
-#### § 27
-
-**Neu- und Zeitwertversicherung**
-
-<sup>1</sup> Die versicherten Gebäude unterliegen der Neuwertversicherung, sofern nicht:
-
-- a) der Zeitwert bei der Einschätzung weniger als 50% des Neuwertes beträgt;
-- b) das Gebäude zum Abbruch bestimmt ist.
-
-<sup>2</sup> Die bei Inkrafttreten dieses Gesetzes bereits eingeschätzten Gebäude gelten unter Vorbehalt von Absatz 1 mit der bisherigen Versicherungssumme als zum Neuwert versichert, sofern der Eigentümer auf eine Neuschätzung verzichtet.
-
-<sup>3</sup> Fehlen die Voraussetzungen zu einer Neuwertversicherung, so unterliegen die versicherten Gebäude der Zeitwertversicherung.
-
-<sup>4</sup> Die nach Inkrafttreten dieses Gesetzes eingeschätzten Neuwertversicherungen dürfen nicht als Bemessungsgrundlage für Steuern herangezogen werden.
-
-<sup>5</sup> …
-
-#### § 28
-
-**Beginn der Versicherung**
-
-<sup>1</sup> Die Versicherung beginnt:
+<sup>1</sup> Die Versicherungsdeckung beginnt:
 
 - a) bei Vorliegen einer Baubewilligung mit Baubeginn;
-  - 1\. …
-  - 2\. …
-  - 3\. …
-  - 4\. …
-- b) für nicht bewilligte oder nicht bewilligungspflichtige Bauten oder bauliche Änderungen mit der Anmeldung;
+- b) für nicht bewilligungspflichtige Bauten oder bauliche Änderungen mit der Anmeldung;
 - c) mit der Einreichung eines Schätzungsbegehrens;
 - d) in den übrigen Fällen mit vollzogener Schätzung.
 
-#### § 29
+<sup>2</sup> Die Baubehörde hat der SGV von jeder erteilten Baubewilligung unverzüglich schriftlich oder in elektronischer Form Kenntnis zu geben.
 
-**Verwaltungsgerichtsbeschwerde**
+#### § 17
 
-<sup>1</sup> Der Eigentümer kann gegen die Einschätzungsverfügung der Direktion innert 10 Tagen Verwaltungsgerichtsbeschwerde erheben.
+**Ausschluss aus der Versicherung**
 
-<sup>2</sup> Bis zur Erledigung der Verwaltungsgerichtsbeschwerde gilt unter Vorbehalt des vom Eigentümer nachzuweisenden Mehr- oder Minderwertes die erstinstanzliche Schätzung.
+<sup>1</sup> Versicherte Gebäude können von der Versicherung ausgeschlossen werden, wenn Mängel, die eine wesentliche Erhöhung der Schadengefahr einschliessen, auf schriftliche Aufforderung nicht fristgerecht behoben werden.
 
-#### § 30
+<sup>2</sup> Der Ausschluss kann sich auf die Versicherung aller oder einzelner der versicherten Gefahren, auf alle oder einzelne Gebäudeteile oder auf die Neuwertversicherung beziehen.
 
-**Ausstand der Schätzungsorgane**
+<sup>3</sup> Der Ausschlussverfügung hat eine Androhung an die Eigentümerschaft vorauszugehen. Die Grundpfandgläubigerinnen und Grundpfandgläubiger sowie Nutzniessungs- und Wohnberechtigte sind, soweit aus dem Grundbuch ersichtlich, von der Androhung des Ausschlusses zum Zweck ihrer Interessenwahrung zu benachrichtigen.
 
-<sup>1</sup> Die Ausstands- und Ablehnungsgründe des Gesetzes über die Gerichtsorganisation sind massgebend. Ausserdem hat sich ein Mitglied einer Schätzungskommission in Ausstand zu begeben, wenn es am Bau oder an der Finanzierung der zu schätzenden Objekte beteiligt war.
+### 2.2. Versicherte Gefahren
 
-#### § 31
+#### § 18
 
-**…**
+**Feuerschäden**
 
-#### § 32
+<sup>1</sup> Die Feuerschadenversicherung leistet Ersatz für Schäden, die an versicherten Gebäuden entstehen durch:
+
+- a) Feuer, Rauch oder Hitze;
+- b) Explosionen;
+- c) Überspannung;
+- d) Blitzschlag;
+- e) Luftfahrzeuge und andere Flugkörper, soweit eine gesetzliche oder vertragliche Haftpflicht nicht in Anspruch genommen werden kann.
+
+<sup>2</sup> Von der Versicherungsdeckung ausgeschlossen sind
+
+- a) Schäden, die bei ordentlichem Gebrauch der versicherten Sache zur Erfüllung ihres Zweckes oder durch Abnützung entstanden sind;
+- b) Sengschäden;
+- c) Schleuderbrüche und andere kräftemechanische Betriebseinwirkungen;
+- d) Schäden infolge gewerbsmässiger Sprengungen;
+- e) Schäden infolge Überschallknall.
+
+#### § 19
+
+**Elementarschäden**
+
+<sup>1</sup> Die Elementarschadenversicherung leistet Ersatz für Schäden, die entstehen durch:
+
+- a) Sturm;
+- b) Hagel;
+- c) Hochwasser und Überschwemmungen;
+- d) Lawinen, Schneerutsch und Schneedruck;
+- e) Steinschlag und Felssturz;
+- f) Erdrutsch und Erdfall.
+
+<sup>2</sup> Nicht gedeckt sind Schäden, die unmittelbar oder mittelbar entstehen durch:
+
+- a) Wasser aus Stauseen oder sonstigen künstlichen Wasseranlagen;
+- b) Rückstau aus Kanalisationen;
+- c) Grundwasser.
+
+<sup>3</sup> Nicht gedeckt sind ferner auch Schäden, die im Wesentlichen verursacht werden durch:
+
+- a) Naturereignisse ohne aussergewöhnliche Heftigkeit sowie fortgesetzte Natureinflüsse wie Feuchtigkeit, Trockenheit, Hangdruck, Bodensetzungen und -hebungen sowie Frost;
+- b) erkennbar schlechten Baugrund, ungenügende Fundamente, fehlerhafte Konstruktion, mangelhaften Unterhalt der Gebäude oder künstlich hervorgerufene Erdbewegungen.
+
+<sup>4</sup> Der Regierungsrat kann in der Verordnung die versicherten Gefahren und Deckungsausschlüsse näher umschreiben.
+
+#### § 20
+
+**Ausgeschlossene Gefahren**
+
+<sup>1</sup> Die SGV ersetzt keine Schäden, die unmittelbar oder mittelbar entstehen durch Krieg, Neutralitätsverletzungen, innere Unruhen, Massnahmen oder Übungen von Militär, Polizei oder Zivilschutz, Erdbeben, Meteoriten sowie Veränderung der Atomkernstruktur.
+
+<sup>2</sup> Die SGV kann einer Versicherungsgemeinschaft oder einem Pool beitreten oder andere geeignete Massnahmen ergreifen, die es ihr ermöglichen, Schäden nach Absatz 1 ganz oder teilweise in die Versicherung einzubeziehen.
+
+### 2.3. Versicherungswerte
+
+#### § 21
+
+**Neuwert**
+
+<sup>1</sup> Die Gebäude werden grundsätzlich zum Neuwert versichert.
+
+<sup>2</sup> Als Neuwert gelten die ortsüblichen Kosten, die für die Neuerstellung des Gebäudes zurzeit der Schätzung erforderlich sind.
+
+#### § 22
+
+**Zeitwert oder fester Versicherungswert**
+
+<sup>1</sup> Die Versicherung erfolgt zum Zeitwert, wenn dieser bei der Einschätzung weniger als 50 % des Neuwerts beträgt. Der Regierungsrat kann in der Verordnung weitere wichtige Gründe regeln, bei deren Vorliegen das Gebäude der Zeitwertversicherung unterliegt.
+
+<sup>2</sup> Als Zeitwert gilt der Neuwert unter Abzug der seit der Erstellung wegen Alters, Abnützung, mangelhaften Unterhalts oder anderer Gründe eingetretenen Wertverminderung.
+
+<sup>3</sup> Bei Objekten mit ideell wertvoller Bausubstanz wie Kunst- und Altertumswerte kann die SGV ein Gebäude oder Gebäudeteile auch zu einer vereinbarten Summe versichern.
+
+#### § 23
+
+**Steigender Bauwert**
+
+<sup>1</sup> Befindet sich ein Gebäude im Bau oder werden wertvermehrende Änderungen an einem bestehenden Gebäude ausgeführt, gilt der dem Baufortschritt entsprechende Wert als Versicherungswert.
+
+#### § 24
+
+**Änderung der Baukosten**
+
+<sup>1</sup> Ändern sich die Baukosten erheblich, passt die SGV zu Beginn des Jahres den Neuwert und den Zeitwert für alle Gebäude einheitlich dem neuen Stand der Baukosten an.
+
+#### § 25
+
+**Gebäudeschätzung**
+
+<sup>1</sup> Die SGV nimmt Gebäudeschätzungen vor:
+
+- a) bei Anmeldung eines fertig erstellten Gebäudes zur definitiven Versicherung;
+- b) auf Verlangen der Eigentümerschaft;
+- c) von Amtes wegen.
+
+<sup>2</sup> Im Rahmen der Gebäudeschätzung erfasst die SGV auch die Gebäudedaten für die Katasterschätzung. Sie schliesst zu diesem Zweck mit dem kantonalen Steueramt eine Leistungsvereinbarung ab, die durch den Kantonsrat zu genehmigen ist.
+
+#### § 26
 
 **Meldung an das Grundbuchamt und die Einwohnergemeinden**
 
-<sup>1</sup> Die Gebäudeversicherung meldet dem Grundbuchamt den Versicherungswert.
+<sup>1</sup> Die SGV meldet dem Grundbuchamt den Versicherungswert.
 
 <sup>2</sup> Sie teilt die eingeschätzten Gebäudeversicherungssummen oder deren Erhöhung infolge wertvermehrender Änderungen den Einwohnergemeinden mit, welche Gebühren auf dieser Basis erheben.
 
-#### § 33
+### 2.4. Prämien
 
-**Schätzungskosten**
-
-<sup>1</sup> Das Schätzungsverfahren ist kostenlos. Für das Rekursschätzungsverfahren sind die Grundsätze des Verwaltungsgerichtsverfahrens sinngemäss anwendbar (§§ 37ff. Verwaltungsrechtspflegegesetz).
-
-#### § 34
-
-**Pflichten des Versicherungsnehmers**
-
-<sup>1</sup> Der Versicherungsnehmer hat der Gebäudeversicherung alle Gefahrenerhöhungen und andere Tatsachen, die für das Versicherungsverhältnis von Bedeutung sind, innert 30 Tagen anzuzeigen.
-
-<sup>2</sup> Der Versicherungsnehmer hat zur Verhütung von Schäden alles Zumutbare vorzukehren.
-
-<sup>3</sup> Insbesondere muss er das Gebäude ordnungsgemäss unterhalten und die Vorschriften über die Brandverhütung beachten.
-
-### 1.6. Prämien und Reservefonds
-
-#### § 35
+#### § 27
 
 **Prämienpflicht**
 
-<sup>1</sup> Der Versicherungsnehmer hat der Gebäudeversicherung für jedes Kalenderjahr vom zutreffenden Versicherungswert inklusive Anpassung nach § 26 Prämien zu entrichten. Die Verwaltungskommission kann eine Mindestprämie festsetzen. Besteht die Versicherung nur während eines Teils des Jahres, werden die Prämien nur für diese Zeit geschuldet. Angebrochene Monate werden voll gerechnet. Bei Ausschluss einzelner Risiken entsteht kein Anspruch auf Prämienreduktion.
+<sup>1</sup> Die Versicherten haben der SGV für jedes Kalenderjahr vom Versicherungswert ihrer Gebäude Prämien zu entrichten.
 
-<sup>2</sup> Zahlungspflichtig ist, wer zur Zeit der Fälligkeit der Prämie Eigentümer ist. Wechseln die Eigentumsverhältnisse vor Bezahlung, können die ausstehenden Prämien auch von der neuen Eigentümerschaft eingefordert werden. Gehört das Gebäude mehreren Personen, haften sie solidarisch. Bei Stockwerkeigentum ist die Gemeinschaft der Stockwerkeigentümer Prämienschuldnerin.
+<sup>2</sup> Besteht die Versicherung nur während eines Teils des Jahres, werden die Prämien nur für diese Zeit geschuldet. Bei Ausschluss einzelner Risiken entsteht kein Anspruch auf Prämienreduktion.
 
-<sup>3</sup> Ist die Pflicht zur Anzeige von Gefahrenerhöhungen vorsätzlich verletzt worden, werden die der Gebäudeversicherung entgangenen Prämien, höchstens 5 Jahresprämien, nachgefordert. Bei Gefahrenverminderung ist die bisherige Prämie bis zu dem Zeitpunkt zu entrichten, in dem der Versicherungsnehmer der Gebäudeversicherung die Änderung schriftlich anzeigt.
+<sup>3</sup> Zahlungspflichtig ist, wer zur Zeit der Fälligkeit der Prämie Eigentümerin oder Eigentümer des Gebäudes ist. Wechseln die Eigentumsverhältnisse vor Bezahlung, können die ausstehenden Prämien auch von der neuen Eigentümerschaft eingefordert werden.
 
-#### § 35bis
+<sup>4</sup> Gehört das Gebäude mehreren Personen, haften sie solidarisch. Bei Stockwerkeigentum ist die Stockwerkeigentümergemeinschaft Prämienschuldnerin.
 
-**Monopolabgabe**
+#### § 28
 
-<sup>1</sup> Die Gebäudeversicherung leistet jährlich eine Abgabe an die Staatskasse. Diese beträgt 2% des Prämienertrages des Geschäftsvorjahres.
+**Prämienbemessung**
 
-#### § 36
+<sup>1</sup> Die Prämien sind so anzusetzen, dass die Einnahmen ausreichen, um sämtliche Schäden zu vergüten, die Kosten für die Rückversicherung zu bezahlen, die erforderlichen Reserven zu bilden und die Verwaltungskosten zu decken.
 
-**Prämien und Beiträge**
+<sup>2</sup> Die SGV erlässt einen Prämientarif nach anerkannten versicherungstechnischen Grundsätzen, unter Berücksichtigung der Solidarität unter den Versicherten.
 
-<sup>1</sup> Die Gebäudeversicherung beschafft sich die notwendigen Mittel vor allem durch Prämien und Beiträge an die Schadenverhütung und Schadenbekämpfung.
+<sup>3</sup> Sie kann eine Mindestprämie festsetzen.
 
-<sup>2</sup> Die Prämien sind so anzusetzen, dass die Einnahmen ausreichen, um sämtliche Schäden zu vergüten, die Kosten für die Rückversicherung zu bezahlen, die erforderlichen Reserven zu äufnen und die Verwaltungskosten sowie die Abgabe an den Kanton zu decken.
+#### § 29
 
-<sup>3</sup> Für Bauversicherungen, Kirchen und Kapellen wird eine reduzierte Grundprämie erhoben.
+**Überschussabgabe**
 
-<sup>4</sup> Die Verwaltungskommission erlässt einen Prämientarif nach anerkannten versicherungstechnischen Grundsätzen. Der Tarif berücksichtigt insbeson-dere Bauart und Zweckbestimmung der Gebäude, sowie den Schadenverlauf der einzelnen Gebäudekategorien und die Brandverhütungsmassnahmen.
+<sup>1</sup> Bleibt ein Jahresüberschuss, hat die SGV hiervon 10 %, höchstens jedoch 1,5 Millionen Franken, an den Kanton zu entrichten.
 
-<sup>5</sup> Die Gebäudeeigentümer entrichten neben den Prämien zweckgebundene Beiträge an die Schadenverhütung und Schadenbekämpfung. Die Beiträge werden mit der Prämienrechnung erhoben und jährlich von der Verwaltungskommission festgelegt. Die Zahlungspflicht und Durchsetzung der Beitragsforderung richten sich nach §§ 35 und 39.
+<sup>2</sup> Bestehen während mehrerer Jahre nach der Reservenbildung gemäss § 4 namhafte Überschüsse, sind die Prämien oder Leistungen anzupassen.
 
-#### § 37
-
-**Reservefonds**
-
-<sup>1</sup> Die Gebäudeversicherung hat die ihren Verpflichtungen entsprechenden Reserven zu äufnen. Der Reservefonds soll im Minimum 2,5 Promille und im Maximum 4,5 Promille des Versicherungsbestandes betragen.
-
-#### § 38
-
-**Festsetzung des Prämiensatzes im Einzelfall**
-
-<sup>1</sup> Die Festsetzung der Prämiensätze für die einzelnen Gebäude erfolgt durch die Direktion. Gegen ihre Verfügung kann nach § 10 bei der Verwaltungskommission Beschwerde eingereicht werden.
-
-#### § 39
+#### § 30
 
 **Durchsetzung**
 
-<sup>1</sup> Die Prämien werden mit der Rechnungsstellung fällig und sind innert 30 Tagen zu bezahlen.
+<sup>1</sup> Die Prämien werden mit der Rechnungstellung fällig und sind innert 30 Tagen zu bezahlen.
 
-<sup>2</sup> Der Prämienbezug erfolgt durch die Direktion.
+<sup>2</sup> Die rechtskräftige Prämienrechnung gilt als vollstreckbare Verfügung im Sinne von Artikel 80 des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889[^30-1].
 
-<sup>3</sup> Die rechtskräftige Prämienrechnung gilt als vollstreckbare Verfügung im Sinne von Artikel 80 des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889[^39-1].
+<sup>3</sup> Für die Prämien besteht am Grundstück zugunsten der SGV ohne Eintragung im Grundbuch ein gesetzliches Pfandrecht im Sinne von § 283 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 4. April 1954[^30-2].
 
-<sup>4</sup> Für die Prämien besteht am Grundstück zugunsten der Gebäudeversicherung ohne Eintragung im Grundbuch ein gesetzliches Pfandrecht im Sinne von Artikel 283 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 4. April 1954[^39-2].
+[^30-1]: SR [281.1.](https://db.clex.ch/link/Bund/281.1./de)
+[^30-2]: BGS [211.1.](https://bgs.so.ch/data/211.1./de)
 
-[^39-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de).
-[^39-2]: BGS [211.1](https://bgs.so.ch/data/211.1/de).
+### 2.5. Präventions- und Interventionsbeiträge
 
-### 1.7. Schadenermittlung
+#### § 31
+
+**Beiträge der Versicherten**
+
+<sup>1</sup> Die Versicherten haben der SGV neben den Prämien zweckgebundene Beiträge an die Prävention und Intervention zu entrichten. Diese werden mit der Prämienrechnung erhoben.
+
+<sup>2</sup> Die Beiträge werden als Zusatz im Prämientarif festgelegt.
+
+<sup>3</sup> Sie sind so zu bemessen, dass die Einnahmen ausreichen, um Folgendes zu finanzieren:
+
+- a) die gesetzlichen Aufgaben der SGV bezüglich Brandschutz, Elementarschadenprävention und Feuerwehr;
+- b) die Verwaltungskosten der SGV für diese Tätigkeitsbereiche.
+
+<sup>4</sup> Die Vorschriften über die Prämien sind für die Präventions- und Interventionsbeiträge sinngemäss anwendbar.
+
+#### § 32
+
+**Beiträge von Privatversicherungen**
+
+<sup>1</sup> Die Privatversicherungen haben für allfällige Feuer- und Elementarschadenversicherungen auf dem Gebiet des Kantons Solothurn Präventions- und Interventionsbeiträge an die SGV auszurichten.
+
+<sup>2</sup> Der Regierungsrat setzt die Beiträge in der Verordnung fest.
+
+### 2.6. Pflichten der Versicherten
+
+#### § 33
+
+**Anzeigepflicht**
+
+<sup>1</sup> Die Versicherten haben der SGV alle Gefahrenerhöhungen und andere Tatsachen, die für das Versicherungsverhältnis von Bedeutung sind, innert 30 Tagen anzuzeigen.
+
+<sup>2</sup> Ist die Anzeigepflicht verletzt worden, fordert die SGV die entgangenen Prämien, höchstens aber 5 Jahresprämien, nach. Zudem kann sie ihre Leistungen im Schadenfall kürzen, soweit die Gefahrenerhöhung den Schaden vergrössert hat.
+
+<sup>3</sup> Bei Gefahrenverminderung ist die bisherige Prämie bis zu dem Zeitpunkt zu entrichten, in dem die Änderung der SGV angezeigt wird.
+
+#### § 34
+
+**Schadenverhütungspflicht**
+
+<sup>1</sup> Die Versicherten haben zur Verhütung von Schäden alles Zumutbare vorzukehren.
+
+<sup>2</sup> Insbesondere müssen sie das Gebäude ordnungsgemäss unterhalten und die Vorschriften über den Brandschutz und die Elementarschadenprävention einhalten.
+
+<sup>3</sup> Werden die gebotenen Schadenverhütungsmassnahmen nicht innert angemessener Frist ergriffen, ergreift die SGV die gesetzlichen Sanktionen. Im Schadenfall kann sie insbesondere die Versicherungsleistung kürzen.
+
+#### § 35
+
+**Schadenmeldung**
+
+<sup>1</sup> Die Versicherten sind verpflichtet, einen Schaden unverzüglich nach seiner Feststellung der SGV zu melden.
+
+<sup>2</sup> Die SGV kann die Entschädigung ablehnen oder kürzen, soweit infolge schuldhaft verspäteter Meldung die Ursache oder das Ausmass des Schadens nicht mehr zweifelsfrei festgestellt werden kann.
+
+<sup>3</sup> Erfolgt die Meldung nicht innert Jahresfrist seit dem Ereignis, erlischt der Anspruch auf Entschädigung.
+
+<sup>4</sup> Für Schäden, die bei der Abschätzung nicht bemerkt worden sind, kann bis spätestens einem Jahr seit dem Schadenereignis eine nochmalige Abschätzung verlangt werden.
+
+#### § 36
+
+**Veränderungsverbot**
+
+<sup>1</sup> Bevor der Schaden ermittelt ist, darf an den beschädigten Objekten keine Veränderung vorgenommen werden, welche die Feststellung des Schadens oder seiner Ursache erschweren könnte. Vorbehalten bleiben Veränderungen zur Verhütung unmittelbar drohenden Schadens sowie Anordnungen der zuständigen Organe.
+
+<sup>2</sup> Die Entschädigung kann verweigert oder gekürzt werden, soweit durch unberechtigte Veränderung am Schadenobjekt die Feststellung des Schadens beeinträchtigt oder der Schaden erhöht worden ist.
+
+#### § 37
+
+**Schadenminderungspflicht**
+
+<sup>1</sup> Die Versicherten haben im Schadenfall alle zumutbaren Massnahmen zu ergreifen, um den Schaden möglichst klein zu halten.
+
+<sup>2</sup> Im Unterlassungsfall ist die SGV berechtigt, die Entschädigung um den Betrag zu kürzen, um den sie bei Erfüllung dieser Pflicht kleiner ausgefallen wäre.
+
+### 2.7. Schadenvergütung
+
+#### § 38
+
+**Ersatzwert**
+
+<sup>1</sup> Der Gebäudeschaden bemisst sich grundsätzlich nach dem Versicherungswert.
+
+<sup>2</sup> Beträgt der Zustandswert des Gebäudes oder einzelner Gebäudebestandteile bei Eintritt des Schadenfalles wegen Verwahrlosung, umweltbedingter Alterung und Schwächung des Materials oder Verwendung nicht geeigneter Materialien weniger als 50 % des Neuwerts beziehungsweise weniger als der eingeschätzte Zeitwert, wird der tatsächliche Zustandswert entschädigt.
+
+<sup>3</sup> Gebäude, die zum Abbruch bestimmt oder aufgrund ihres Zustandes abbruchreif waren, werden zum Abbruchwert entschädigt. Als solcher gilt der Verkaufswert der wiederverwendbaren Gebäudeteile abzüglich der Abbruchkosten.
+
+#### § 39
+
+**Totalschaden**
+
+<sup>1</sup> Bei völliger Zerstörung eines Gebäudes entspricht die Schadensumme maximal dem Ersatzwert.
 
 #### § 40
 
-**Anzeigepflicht Untersuchungsmassnahmen**
+**Teilschaden**
 
-<sup>1</sup> Der Eigentümer oder sein Bevollmächtigter ist verpflichtet, den Eintritt eines Schadenereignisses sofort der Kantonspolizei oder der Gebäudeversicherung anzuzeigen. Werden Anzeigen aus Verschulden nach mehr als 5 Tagen seit Entdeckung des Schadens eingereicht, ist die Direktion zur Ablehnung des Entschädigungsanspruches berechtigt.
+<sup>1</sup> Bei Teilschäden ist der Schaden nach dem Verhältnis des beschädigten Teiles zum gesamten Gebäude und dessen Ersatzwert auszumitteln.
 
-<sup>2</sup> Nach Ablauf eines Jahres seit dem Schadenereignis werden keine Anzeigen mehr entgegengenommen und die Haftung der Gebäudeversicherung erlischt in jedem Fall.
+<sup>2</sup> Beträgt die Schadensumme weniger als 1/5 des Ersatzwerts, ist sie nach den effektiven Wiederherstellungskosten zu berechnen. Bei einer Zeitwertversicherung wird die Entschädigung um den sich durch die Wiederherstellung ergebenden Mehrwert gekürzt.
 
-<sup>3</sup> Die Polizeiorgane ordnen von Amtes wegen im Einvernehmen mit der Gebäudeversicherung und - so fern notwendig - unter Beizug von Fachleuten der Gebäudeversicherung oder von anerkannten wissenschaftlichen Fachorganen die erforderliche Untersuchung an. Besteht Verdacht eines Verbrechens, ist die Staatsanwaltschaft sofort zu benachrichtigen. Die Kosten der Untersuchung trägt die Gebäudeversicherung; in einem Strafverfahren gelten die Vorschriften der Strafprozessordnung. Über das Ergebnis der Untersuchung ist der Gebäudeversicherung Bericht zu erstatten.
+<sup>3</sup> Sind die Wiederherstellungskosten im Vergleich zum entstandenen Schaden unverhältnismässig hoch, kann eine angemessene Minderwertentschädigung vergütet werden.
 
 #### § 41
 
-**Schadenabschätzung; Verwaltungsgerichtsbeschwerde**
+**Verzicht auf Wiederherstellung**
 
-<sup>1</sup> Die Schadenabschätzung ist kostenlos.
+<sup>1</sup> Wird ein vollständig zerstörtes Gebäude nicht innerhalb von drei Jahren durch die Eigentümerschaft oder deren Rechtsnachfolgerin oder Rechtsnachfolger am gleichen Ort und mit gleichartigem Zweck wieder aufgebaut, erfolgt die Auszahlung in der Höhe des Zeitwerts.
 
-<sup>2</sup> Gegen Verfügungen der Direktion betreffend Schadenabschätzungen kann der Eigentümer innert 10 Tagen Verwaltungsgerichtsbeschwerde erheben.
+<sup>2</sup> Bei Teilschäden entspricht die Versicherungsleistung dem Zeitwert, der auf den nicht fristgerecht wiederhergestellten Teil entfällt.
+
+<sup>3</sup> Aus wichtigen Gründen kann die Frist zur Wiederherstellung angemessen erstreckt werden, längstens aber bis zehn Jahre nach dem Schadenereignis.
+
+<sup>4</sup> Wenn es besondere Verhältnisse rechtfertigen, kann ein Aufbau an anderer Stelle oder zu anderem Zweck genehmigt werden.
 
 #### § 42
 
-**Nachträgliche Schäden**
+**Nebenleistungen**
 
-<sup>1</sup> Wird ein Schaden festgestellt, der bei der Abschätzung nicht bemerkt worden ist, kann innert 30 Tagen seit Feststellung des Schadens, spätestens innert einem Jahr seit dem Schadenereignis, eine nochmalige Abschätzung verlangt werden.
+<sup>1</sup> Die SGV ersetzt zusätzlich zur Leistung für den Gebäudeschaden:
+
+- a) die notwendigen Abbruch-, Räumungs- und Entsorgungskosten, soweit sie das Gebäude oder die unmittelbare Gebäudeumgebung betreffen, höchstens aber 8 % der Schadensumme bei Feuerschäden und 4 % des Versicherungswerts bei Elementarschäden. In besonderen Fällen kann die SGV höhere Kosten vergüten;
+- b) die Kosten für zweckmässige Massnahmen zur Verhütung weiteren Schadens, wie die Errichtung von Notdächern und Stützen. Dienen solche Massnahmen auch weiteren Zwecken, vergütet die SGV den ihrem Interesse entsprechenden Kostenanteil;
+- c) Schäden am Gebäude sowie an anderen Liegenschaftsbestandteilen wie Bäumen, Kulturen und Einfriedungen, die durch Lösch-, Rettungs- oder Sicherungsmassnahmen der zuständigen Organe entstanden sind.
+
+<sup>2</sup> Erfolgt die Entschädigung des Gebäudeschadens zum Abbruchwert, werden keine Abbruch-, Räumungs- und Entsorgungskosten erstattet.
 
 #### § 43
 
-**Verbot der Veränderung am Schadenobjekt**
+**Verlust der Entschädigung**
 
-<sup>1</sup> Bevor der Schaden ermittelt ist, darf an den beschädigten Objekten keine Veränderung vorgenommen werden, welche die Feststellung des Schadens oder seiner Ursache erschweren könnte, es sei denn, dass die Veränderung zur Verhütung weiteren Schadens oder aus Sicherheitsgründen von den zuständigen Organen angeordnet worden ist.
+<sup>1</sup> Keine Entschädigung wird ausgerichtet, wenn die Eigentümerschaft den Schaden vorsätzlich herbeigeführt oder dabei mitgewirkt hat.
+
+<sup>2</sup> Die Eigentümerschaft wird der SGV ersatzpflichtig für sämtliche durch ihr Verhalten verursachte Auslagen.
 
 #### § 44
 
-**Schadenermittlung a) bei geschätzten Gebäuden**
+**Kürzung der Entschädigung**
 
-<sup>1</sup> Der Gebäudeschaden wird nach dem Neuwert ermittelt.
+<sup>1</sup> Die SGV ist berechtigt, die Entschädigung in einem dem Grad des Verschuldens der Eigentümerschaft entsprechenden Verhältnis, höchstens aber um 2/3 zu kürzen, wenn:
 
-<sup>2</sup> Unterliegt das Gebäude nicht der Neuwertversicherung, bemisst sich der Schaden nach dem Zeitwert.
-
-<sup>3</sup> Als Grundlage gelten die für die Prämienerhebung massgebenden Werte. Der Wert noch brauchbarer Brandüberreste ist zu mässigem Anschlag abzuziehen.
-
-<sup>4</sup> Bei Gebäuden, die zum Abbruch bestimmt waren, gilt der Abbruchwert als Grundlage der Schadenermittlung.
-
-<sup>5</sup> Beträgt der Zustandswert des Gebäudes oder einzelner Gebäudebestandteile bei Eintritt des Schadenfalles wegen Verwahrlosung, umweltbedingter Alterung und Schwächung des Materials oder Verwendung nicht geeigneter Materialien offensichtlich weniger als 50% des Neuwertes, beziehungsweise weniger als der eingeschätzte Zeitwert, wird der wirkliche Zustandswert entschädigt.
-
-<sup>6</sup> Vollständig abgeschätzte Gebäudeteile dürfen nicht mehr verwendet werden .
+- a) die Eigentümerschaft den Schaden grobfahrlässig verursacht hat oder der Schaden auf eine offenkundige Missachtung der Schadenverhütungspflicht zurückzuführen ist;
+- b) eine Person, die mit der Eigentümerschaft in häuslicher Gemeinschaft lebt oder für deren Handlungen sie haftbar ist, den Schaden vorsätzlich oder fahrlässig verursacht hat, sofern sich die Eigentümerschaft in der Beaufsichtigung dieser Person einer groben Fahrlässigkeit schuldig gemacht hat;
+- c) der Schaden durch nicht behobene Mängel oder unterlassene Schutzmassnahmen innerhalb einer von der SGV oder einem andern Aufgabenträger festgesetzten Frist oder durch unbefugtes Eingreifen in eine elektrische Anlage entstanden ist.
 
 #### § 45
 
-**b) vor der Einschätzung**
+**Schutz der Grundpfandgläubigerinnen und Grundpfandgläubiger**
 
-<sup>1</sup> Bei Gebäuden, die nach § 28 Ziffer 1 angemeldet, aber noch nicht eingeschätzt sind, hat der Versicherungsnehmer den Wert des Gebäudes und den Schaden nachzuweisen.
+<sup>1</sup> Der teilweise oder gänzliche Verlust des Entschädigungsanspruchs gilt nicht gegenüber den Grundpfandgläubigerinnen und Grundpfandgläubigern, soweit diese nachweisen, dass ihre Forderungen aus dem Vermögen der Eigentümerschaft nicht gedeckt sind.
+
+<sup>2</sup> Im Falle der Zahlung gehen die Rechte der Grundpfandgläubigerinnen und Grundpfandgläubiger auf die SGV über.
 
 #### § 46
 
-**c) bei Teilschäden**
+**Auszahlung**
 
-<sup>1</sup> Bei Teilschäden ist der Schaden nach dem Verhältnis des beschädigten Teiles zum gesamten Gebäude und dessen Schätzungssumme auszumitteln. Beträgt die Schadensumme weniger als 1/5 der Schätzungssumme, ist sie nach den Wiederherstellungskosten zu berechnen. Die Entschädigung ist bei einer Zeitwertversicherung um den sich durch die Wiederherstellung ergebenden Mehrwert zu kürzen.
+<sup>1</sup> Der Regierungsrat regelt die Einzelheiten der Auszahlung in der Verordnung.
 
-<sup>2</sup> Sind die Wiederherstellungskosten im Vergleich zum entstandenen Schaden unverhältnismässig hoch, kann die Gebäudeversicherung im Einverständnis mit dem Eigentümer eine Minderwertentschädigung ausrichten und auf die Wiederherstellung verzichten.
+<sup>2</sup> Die Rechte der Grundpfandgläubigerinnen und Grundpfandgläubiger nach Artikel 822 ZGB[^46-1] bleiben gewahrt.
 
-### 1.8. Schadenvergütung
+[^46-1]: SR [210.](https://db.clex.ch/link/Bund/210./de)
 
 #### § 47
 
-**Grundsatz Teuerungszuschläge**
+**Rückgriff und Rückforderung**
 
-<sup>1</sup> Soweit das Gesetz nichts anderes bestimmt, vergütet die Gebäudeversicherung den ermittelten Schaden.
+<sup>1</sup> Für die ausgerichtete Entschädigung kann die SGV auf die für den Schaden Verantwortlichen Rückgriff nehmen. Sie tritt im Umfang und zum Zeitpunkt ihrer Leistungen in die Rechte der versicherten Person ein.
 
-<sup>2</sup> Werden die Wiederherstellungskosten nicht von Gesetzes wegen vergütet (§ 46), wird zur Schadensumme für einen Teuerungsanstieg vom Beginn des Schadenjahres bis zum Schadeneintritt ein prozentualer Zuschlag ausgerichtet. Dieser wird berechnet aus der Differenz der im Schadenjahr und der im folgenden Jahr in den Versicherungswerten erfassten Baukostenteuerung (§ 26), pro rata der massgebenden Zeit und aufgerundet auf ganze Monate.
+<sup>2</sup> Kein Rückgriffsrecht besteht gegen Ersatzpflichtige, die mit der versicherten Person in häuslicher Gemeinschaft leben oder für deren Handlungen diese einstehen muss, wenn sie den Schaden nur leichtfahrlässig herbeigeführt haben.
+
+<sup>3</sup> Werden nachträglich Tatsachen bekannt, welche die Verweigerung oder die Kürzung der Versicherungsleistung begründet hätten, kann die SGV bis zum Ablauf von 10 Jahren nach dem Schadenereignis eine entsprechende Rückerstattung verfügen. Eine längere strafrechtliche Verjährungsfrist bleibt vorbehalten.
+
+## 3. Brandschutz und Elementarschadenprävention
+
+### 3.1. Allgemeines
 
 #### § 48
 
-**Bemessung der weiteren Entschädigungen**
+**Zweck**
 
-<sup>1</sup> Als Räumungskosten nach § 13 litera a sind die ausgewiesenen Kosten zu vergüten. Die Entschädigung darf folgende Grenzen nicht überschreiten:
+<sup>1</sup> Die Bestimmungen über den Brandschutz und die Elementarschadenprävention bezwecken den vorbeugenden Schutz
 
-- a) bei Feuer, Rauch, Hitze, Elektrizität, Blitzschlag und Explosion (§ 12 lit. a-d): 8% der Schadensumme;
-- b) bei den übrigen Schäden (§ 12 lit. e und g): 4% des Versicherungswertes.
-
-<sup>2</sup> In besonderen Fällen kann die Direktion höhere Aufräumungskosten vergüten.
-
-<sup>3</sup> Weitere Entschädigungen nach § 13 werden angemessen festgesetzt.
+- a) von Personen, Tieren und Sachen vor Bränden und Explosionen;
+- b) von Gebäuden vor den versicherten Elementarereignissen.
 
 #### § 49
 
-**Verlust des Schadenersatzanspruches**
+**Mitwirkungspflichten**
 
-<sup>1</sup> Ist gerichtlich festgestellt, dass der Eigentümer den Schaden durch eine als Verbrechen bezeichnete Handlung verursacht hat oder als Anstifter, Gehilfe oder Begünstiger beteiligt gewesen ist, hat er den Entschädigungsanspruch verwirkt.
-
-<sup>2</sup> Dies gilt auch dann, wenn die strafrechtliche Verfolgung nicht möglich ist.
-
-<sup>3</sup> Er wird der Gebäudeversicherung ersatzpflichtig für sämtliche ihr durch sein Verhalten erwachsenen Auslagen.
+<sup>1</sup> Die Eigentümer- oder Nutzerschaft ist verpflichtet, der SGV zur Erfüllung ihrer Aufgaben Zutritt zu den Grundstücken, Gebäuden und Räumen zu gewähren und auf Verlangen Auskunft zu geben. Auskunftspflichtig sind auch andere mit den Gebäuden oder Einrichtungen vertraute Personen.
 
 #### § 50
 
-**Kürzung der Entschädigung**
+**Ausrichtung von Beiträgen**
 
-<sup>1</sup> Die Direktion ist berechtigt, die Entschädigungssumme in einem dem Grade des Verschuldens des Eigentümers entsprechenden Verhältnis, höchstens aber um 2/3 zu kürzen, wenn:
+<sup>1</sup> Zur Förderung von Präventionsmassnahmen der Versicherten, mit denen für das Gebäude eine Verminderung der Brand- und Elementarschadengefahr bezweckt wird, kann die SGV Beiträge ausrichten.
 
-- a) der Eigentümer den Schaden grobfahrlässig verursacht oder die zu seiner Minderung geeigneten Massnahmen grobfahrlässig unterlassen hat;
-- b) eine Person, die mit dem Eigentümer in häuslicher Gemeinschaft lebt, oder für deren Handlungen er haftbar ist, den Schaden absichtlich oder grobfahrlässig verursacht hat, sofern sich der Eigentümer in der Beaufsichtigung dieser Person einer groben Fahrlässigkeit schuldig gemacht hat;
-- c) der Eigentümer der Gebäudeversicherung innert 30 Tagen eine erhöhte Schadengefahr des Gebäudes vorsätzlich nicht angezeigt oder den Schätzungsorganen die die Prämienfestsetzung beeinflussenden Tatsachen vorsätzlich verschwiegen hat;
-- d) der Eigentümer den Schaden dadurch erhöht hat, dass er, ohne dass es durch die Umstände geboten war, Gebäudeüberreste niedergerissen oder deren Niederreissen veranlasst hat;
-- e) der Schaden durch unbefugtes Eingreifen in die elektrischen Anlagen oder durch nicht behobene Mängel innerhalb einer behördlich festgesetzten Frist entstanden ist.
+<sup>2</sup> Sie kann anstelle von Beiträgen an notwendige Präventionsmassnahmen am Einzelobjekt auch Beiträge an die Kosten koordinierter Objektschutzmassnahmen, namentlich Arealschutz, leisten. Solche Massnahmen müssen einen gleichwertigen Schutz wie die zu ersetzenden Einzelmassnahmen gewährleisten.
+
+<sup>3</sup> Die SGV kann sich fachlich und finanziell an der Erarbeitung von raumplanerischen Grundlagen, Nutzungsplanungen und Gefahrenkarten beteiligen, soweit sie dazu dienen, das Elementarrisiko für Gebäude zu verringern.
+
+<sup>4</sup> Der Regierungsrat regelt die Beitragsbedingungen und die Höhe der Beiträge in der Verordnung. Er kann die SGV zum Erlass von Ausführungsbestimmungen in einem Reglement ermächtigen.
 
 #### § 51
 
-**Schutz der Pfandgläubiger**
+**Weitere Förderungsmassnahmen**
 
-<sup>1</sup> Die teilweise oder gänzliche Verwirkung des Entschädigungsanspruches gilt nicht gegenüber dem Grundpfandgläubiger.
+<sup>1</sup> Die SGV berät die Behörden und Private und kann weitere Massnahmen ergreifen, die der Förderung des Brandschutzes und der Elementarschadenprävention dienen.
 
-<sup>2</sup> Im Falle der Zahlungsleistung gehen die Rechte des Grundpfandgläubigers auf die Gebäudeversicherung über.
+### 3.2. Brandschutz
 
 #### § 52
 
-**Keine Kürzung bei leichter Fahrlässigkeit**
+**1. Vollzug und Aufsicht**
 
-<sup>1</sup> Hat sich der Eigentümer einer leichten Fahrlässigkeit im Sinne des § 50 litera b schuldig gemacht, oder hat eine der übrigen dort aufgeführten Personen den Schaden leichtfahrlässig verursacht, wird die Entschädigungssumme nicht gekürzt.
+<sup>1</sup> Der Vollzug des Brandschutzes obliegt der SGV.
+
+<sup>2</sup> Der Regierungsrat übt die Aufsicht über das Brandschutzwesen aus.
 
 #### § 53
 
-**…**
+**2. Anforderungen an den Bandschutz a) Sorgfaltspflichten**
+
+<sup>1</sup> Mit Feuer und offenen Flammen, Wärme, Elektrizität und anderen Energiearten, feuer- oder explosionsgefährlichen Stoffen sowie mit Maschinen, Apparaten usw. ist so umzugehen, dass keine Brände oder Explosionen verursacht werden oder entstehen können.
+
+<sup>2</sup> Wer Hilfspersonen einsetzt oder andere Personen zu beaufsichtigen hat, sorgt dafür, dass die nötigen Vorsichtsmassnahmen getroffen werden.
 
 #### § 54
 
-**Auszahlung a) allgemeine Voraussetzungen**
+**b) Bauten und Anlagen**
 
-<sup>1</sup> Die rechtskräftig festgesetzte Versicherungsleistung wird ausbezahlt, wenn
+<sup>1</sup> Bauten und Anlagen sind so zu erstellen, zu betreiben und zu unterhalten, dass
 
-- a) allfällig beanstandete Baumängel behoben sind;
-- b) bei Total- oder Teilschäden über 1/5 des Versicherungswertes die Wiederherstellung mindestens in der Höhe des bisherigen Versicherungswertes erfolgt ist. Die Wiederherstellung ist in der Regel vom Eigentümer oder dessen Erben vorzunehmen. Wenn sie innerhalb des Kantons nicht am selben Standort erfolgt, ist das beschädigte Gebäude zuerst vollständig abzubrechen und zu entfernen. In der Höhe des Zeitwertes erfolgt die Auszahlung, wenn der Schadenplatz bis auf den Gebäudeüberrest geräumt ist;
-- c) bei Teilschäden unter 1/5 des Versicherungswertes die Wiederherstellung durchgeführt ist;
-- d) der Kostenausweis über die Räumung bzw. Wiederherstellung eingereicht wurde.
+- a) die Sicherheit von Personen gewährleistet ist und Tiere und Sachen genügend geschützt sind;
+- b) der Entstehung von Bränden und Explosionen sowie der Ausbreitung von Flammen, Hitze und Rauch vorgebeugt wird;
+- c) die Ausbreitung von Feuer auf benachbarte Bauten und Anlagen begrenzt wird;
+- d) die Tragfähigkeit während eines bestimmten Zeitraums erhalten bleibt;
+- e) eine wirksame Brandbekämpfung ermöglicht und die Sicherheit der Rettungskräfte gewährleistet wird.
 
-<sup>2</sup> …
-
-<sup>3</sup> Sind bei der Wiederherstellung abgeschätzte Gebäudeteile verwendet worden, wird die Versicherungsleistung entsprechend gekürzt.
-
-<sup>4</sup> Werden die Voraussetzungen nicht innert 3 Jahren erfüllt, entfällt eine Leistungspflicht der Gebäudeversicherung. Die Frist kann auf begründetes Gesuch hin erstreckt werden.
-
-<sup>5</sup> Der Teuerungszuschlag nach § 47 Absatz 2 wird erst nach Ablauf des Schadenjahres ausgerichtet.
+<sup>2</sup> Der Brandschutz umfasst bauliche, technische, betriebliche und organisatorische Massnahmen.
 
 #### § 55
 
-**b) Rechte der Grundpfandgläubiger**
+**c) Brandschutzvorschriften**
 
-<sup>1</sup> Die Rechte der Grundpfandgläubiger werden nach Artikel 822 ZGB gewahrt.
+<sup>1</sup> Es gelten die Brandschutzvorschriften, die vom zuständigen Organ gemäss Interkantonaler Vereinbarung zum Abbau technischer Handelshemmnisse (IVTH) für verbindlich erklärt werden.
 
-<sup>2</sup> Bei Teilschäden unter 1/5 des Versicherungswertes wird die Entschädigung dem Versicherungsnehmer ausgezahlt.
-
-<sup>3</sup> Die Auszahlung an die Grundpfandgläubiger erfolgt ihrem Rang nach. Bei einem Verzicht eines im Rang vorgehenden Grundpfandgläubigers oder bei Bestehen einer leeren Pfandstelle oder bei abbezahlten, aber nicht gelöschten Pfandschulden geht der Anspruch auf den nächstfolgenden über.
+<sup>2</sup> Der Regierungsrat kann in der Verordnung weitere Richtlinien von Fachorganisationen für verbindlich erklären und bei Bedarf zusätzliche Vorschriften erlassen oder diese Kompetenz der SGV zur Regelung in einem Reglement übertragen.
 
 #### § 56
 
-**Rückgriff**
+**d) Anpassung bestehender Bauten und Anlagen**
 
-<sup>1</sup> Für die ausgerichtete Entschädigung kann die Gebäudeversicherung auf die für den Schaden Verantwortlichen Rückgriff nehmen. Sie tritt im Umfang und zum Zeitpunkt ihrer Leistungen in die Rechte der versicherten Person ein.
+<sup>1</sup> Bestehende Bauten und Anlagen sind verhältnismässig an die geltenden Brandschutzvorschriften anzupassen, wenn:
+
+- a) wesentliche bauliche oder betriebliche Veränderungen, Erweiterungen oder Nutzungsänderungen vorgenommen werden; oder
+- b) die Gefahr für Personen besonders gross ist.
 
 #### § 57
 
-**Rückforderung**
+**e) Brandschutzbewilligung**
 
-<sup>1</sup> Werden nachträglich Tatsachen bekannt, welche die Verweigerung oder die Kürzung der Versicherungsleistung begründet hätten, kann die Direktion eine entsprechende Rückforderung geltend machen.
+<sup>1</sup> Die Errichtung von Bauten und Anlagen sowie bauliche oder nutzungsbezogene Änderungen an Bauten oder Anlagen benötigen eine Brandschutzbewilligung der SGV.
 
-<sup>2</sup> Das Rückforderungsrecht erlischt mit dem Ablauf von 10 Jahren nach der Schadenersatzleistung.
-
-### 1.9. Leistungen zur Schadenverhütung
+<sup>2</sup> Der Regierungsrat regelt in der Verordnung die Ausnahmen und das Verfahren.
 
 #### § 58
 
-**Ausrichtung von Beiträgen**
+**3. Feuerungsanlagen a) Unterhaltspflicht**
 
-<sup>1</sup> Zur Förderung der Brandverhütung, des Feuerwehrwesens und zur Unterstützung von Massnahmen, mit denen für versicherte Gebäude eine dauernde Verminderung der Feuers- und Elementarschadensgefahr bezweckt wird, richtet die Gebäudeversicherung Beiträge aus. Ausgenommen sind Beiträge an Uferschutzbauten.
-
-<sup>2</sup> …
-
-<sup>3</sup> Die Beitragsberechtigung und die Höhe der Beiträge werden durch die Vollzugsverordnung geregelt. Die Erfordernisse der Raumplanung sind zu beachten.
-
-## 2. Brandverhütung und Feuerungsanlagen
-
-### 2.1. Brandverhütung
-
-#### § 59
-
-**Vollzug Oberaufsicht**
-
-<sup>1</sup> Die Baubehörden und die Gebäudeversicherung sind mit dem Vollzug der Brandverhütungsvorschriften betraut.
-
-<sup>2</sup> Die Oberaufsicht über das gesamte Brandverhütungswesen übt der Regierungsrat aus.
-
-#### § 60
-
-**Allgemeine Pflicht im Umgang mit Feuer und Licht**
-
-<sup>1</sup> Jedermann hat im Umgang mit Feuer und Licht, beim Gebrauche feuer- und explosionsgefährlicher Stoffe und bei der Verwendung von Apparaten, Maschinen, Motoren, elektrischen und anderen Einrichtungen die zur Vermeidung eines Brandausbruches oder einer Explosion notwendige Vorsicht walten zu lassen.
-
-<sup>2</sup> Familienvorstände, Vorsteher von Anstalten und Leiter von Betrieben haben für die Beachtung der Vorschriften über die Brandverhütung durch die ihnen unterstellten Personen zu sorgen.
-
-<sup>3</sup> In den Schulen sind die Kinder über die bestehenden Feuersgefahren und die notwendigen Verhaltungsmassnahmen aufzuklären.
-
-#### § 61
-
-**Brandverhütungsvorschriften**
-
-<sup>1</sup> Die Gebäude sind so zu erstellen und zu unterhalten, dass sie gegen Brandausbrüche, Explosionen, Elektrizitäts- und Elementarschäden möglichst gesichert sind.
-
-<sup>2</sup> Der Regierungsrat erlässt dem Stande der Technik angepasste Vorschriften über die Brandverhütung. Er kann Richtlinien allgemein anerkannter Fachinstanzen ganz oder teilweise als verbindlich erklären.
-
-#### § 62
-
-**Elektrische Installationen**
-
-<sup>1</sup> Für die Erstellung, den Betrieb und die Instandhaltung elektrischer Einrichtungen jeder Art in den bei der Gebäudeversicherung versicherten Gebäuden gelten die einschlägigen bundesrechtlichen Bestimmungen und die sich darauf stützenden Vorschriften der Vollzugsverordnung.
-
-<sup>2</sup> Die Direktion wacht darüber, dass die Kontrolle der Hausinstallationen durch die Energielieferanten ordnungsgemäss die Brandverhütung nach den bundesrechtlichen Bestimmungen umfasst.
-
-<sup>3</sup> Die Direktion überprüft ihrerseits die bei ihr versicherten elektrischen Einrichtungen auf das Bestehen von Brandgefahren.
-
-#### § 63
-
-**Blitzschutzvorrichtungen**
-
-<sup>1</sup> Die Gebäudeversicherung prüft Gebäudeblitzschutzvorrichtungen und erlässt die notwendigen Verfügungen.
-
-<sup>2</sup> Gebäudeblitzschutzvorrichtungen dürfen nur von fachkundigen Personen erstellt und instand gehalten werden, die von der Direktion hiezu ermächtigt worden sind.
-
-<sup>3</sup> Blitzeinschläge sind vom Gebäudeeigentümer der Gebäudeversicherung zu melden, auch wenn sie keinen Schaden angerichtet haben.
-
-#### § 64
-
-**Feuerschau**
-
-<sup>1</sup> Die Gebäudeversicherung regelt die Feuerschau in den Gemeinden.
-
-#### § 65
-
-**Verfahren bei Mängeln**
-
-<sup>1</sup> Die Direktion erlässt die erforderlichen Verfügungen zur Behebung der Mängel.
-
-<sup>2</sup> Der Eigentümer ist berechtigt, innert 10 Tagen seit Eröffnung der Verfügung zuhanden der Verwaltungskommission bei der Gebäudeversicherung schriftlich Beschwerde einzureichen.
-
-#### § 66
-
-**Zwangsweise Behebung der Mängel**
-
-<sup>1</sup> Wird die Verfügung innert der festgesetzten Frist nicht befolgt, wird sie nach den §§ 83 ff. des Verwaltungsrechtspflegegesetzes vollstreckt.
-
-<sup>2</sup> Der Eigentümer ist haftbar für die Kosten. Der Gebäudeversicherung steht hiefür ohne Eintragung in das Grundbuch ein gesetzliches Pfandrecht zu, das jeder eingetragenen Belastung vorgeht.
-
-<sup>3</sup> Der Kostenentscheid ist einem Gerichtsurteil gleichgestellt.
-
-### 2.2. Feuerungsanlagen
-
-#### § 67
-
-**Unterhaltspflicht**
-
-<sup>1</sup> Der Unterhalt von Feuerungsanlagen, die mit festen, flüssigen oder gasförmigen Brennstoffen betrieben werden, liegt in der Verantwortung der Anlageneigentümer.
+<sup>1</sup> Der Unterhalt von Feuerungsanlagen, die mit festen, flüssigen oder gasförmigen Brennstoffen betrieben werden, liegt in der Verantwortung der Eigentümerschaft der Anlagen.
 
 <sup>2</sup> Die Unterhaltspflicht gilt als erfüllt, wenn in zweckmässigen Zeitabständen durch eine zugelassene Fachperson eine sicherheitstechnische Wartung vorgenommen wird und allenfalls festgestellte Mängel behoben sind.
 
-<sup>3</sup> …
+#### § 59
 
-#### § 68
+**b) Sicherheitstechnische Wartung**
 
-**Sicherheitstechnische Wartung**
+<sup>1</sup> Mit der sicherheitstechnischen Wartung sollen Personensicherheit und Brandschutz garantiert werden.
 
-<sup>1</sup> Die sicherheitstechnische Wartung hat fachgerecht nach den Regeln der Technik zu erfolgen. Sie besteht aus der Kontrolle und wenn nötig der Reinigung der Feuerungsanlage.
+<sup>2</sup> Sie hat fachgerecht nach den Regeln der Technik zu erfolgen. Sie besteht aus der Kontrolle und wenn nötig der Reinigung der Feuerungsanlage.
 
-<sup>2</sup> Mit der sicherheitstechnischen Wartung sollen Personensicherheit und Brandschutz garantiert werden.
+<sup>3</sup> Die SGV kann die nötigen Weisungen erlassen.
 
-<sup>3</sup> Die Gebäudeversicherung kann die nötigen Weisungen erlassen.
+#### § 60
 
-#### § 69
-
-**Zweckmässige Zeitabstände**
+**c) Zweckmässige Zeitabstände**
 
 <sup>1</sup> Die Zeitabstände zwischen den sicherheitstechnischen Wartungen sind in Absprache mit der Fachperson anlage- und nutzungsbezogen festzulegen. Zu berücksichtigen sind namentlich Herstellerangaben, technische Spezifikationen, Brennstoff, Leistung, Nutzungsintensität, Verschmutzungsgrad und Anlagealter.
 
-<sup>2</sup> …
+#### § 61
 
-#### § 69bis
+**d) Zulassung der Fachperson**
 
-**Zulassung der Fachperson**
+<sup>1</sup> Für die Ausführung der sicherheitstechnischen Wartung von Feuerungsanlagen ist eine Zulassung der SGV erforderlich.
 
-<sup>1</sup> Für die Ausführung der sicherheitstechnischen Wartung von Feuerungsanlagen ist eine Zulassung der Gebäudeversicherung erforderlich.
-
-<sup>2</sup> Die Zulassung setzt das eidgenössische Diplom als Kaminfegermeister oder den Nachweis einer gleichwertigen Ausbildung voraus. Wer ausserkantonaler Monopolkonzessionär eines Kaminfegerkreises ist, hat keinen Anspruch auf Erteilung einer Zulassung.
+<sup>2</sup> Die Zulassung setzt das eidgenössische Diplom als Kaminfegermeisterin oder Kaminfegermeister oder den Nachweis einer gleichwertigen Ausbildung voraus.
 
 <sup>3</sup> Die zugelassenen Fachpersonen sind verpflichtet:
 
 - a) zur Übernahme der sicherheitstechnischen Wartung im ganzen Kanton, auch in abgelegenen Gebieten, zu verhältnismässigen Kosten;
 - b) zur regelmässigen Aus- und Weiterbildung.
 
-<sup>4</sup> Kontroll- und Reinigungsarbeiten können unter Aufsicht der Fachperson auch durch Kaminfeger oder Personen mit gleichwertiger Ausbildung und Lernende durchgeführt werden.
+<sup>4</sup> Kontroll- und Reinigungsarbeiten können unter Aufsicht der Fachperson auch durch Kaminfegerinnen oder Kaminfeger oder Personen mit gleichwertiger Ausbildung und Lernende durchgeführt werden.
 
-<sup>5</sup> Die Gebäudeversicherung führt eine öffentliche Liste der zugelassenen Fachpersonen.
+<sup>5</sup> Die SGV führt eine öffentliche Liste der zugelassenen Fachpersonen.
 
-#### § 69ter
+#### § 62
 
-**Dokumentations-, Mitwirkungs- und Meldepflicht**
+**e) Dokumentations-, Mitwirkungs- und Meldepflicht**
 
-<sup>1</sup> Die Anlageneigentümer müssen die sicherheitstechnische Wartung in geeigneter Weise dokumentieren und bei Bedarf belegen können. Sie werden dabei von der Fachperson unterstützt.
+<sup>1</sup> Die Eigentümerschaft der Anlage und die Fachperson müssen die sicherheitstechnische Wartung und das vereinbarte Kontrollintervall in geeigneter Weise dokumentieren und bei Bedarf belegen können.
 
-<sup>2</sup> Die Gebäudeversicherung kann die Einhaltung der Unterhaltspflicht prüfen und im Unterlassungsfall Massnahmen anordnen.
+<sup>2</sup> Die Fachperson hat der Eigentümerschaft festgestellte Mängel schriftlich mitzuteilen.
 
-<sup>3</sup> Die Fachperson hat dem Anlageneigentümer festgestellte Mängel schriftlich mitzuteilen.
+<sup>3</sup> Bei grosser Gefahr oder wenn Mängel trotz wiederholter Aufforderung nicht behoben werden, hat die Fachperson der SGV Meldung zu erstatten.
 
-<sup>4</sup> Bei grosser Gefahr oder wenn Mängel trotz wiederholter Aufforderung nicht behoben werden, hat die Fachperson der Gebäudeversicherung Meldung zu erstatten.
+#### § 63
 
-## 3. Feuerwehrwesen
+**4. Blitzschutzsysteme**
+
+<sup>1</sup> Blitzschutzsysteme dürfen nur von Fachpersonen erstellt und gewartet werden.
+
+<sup>2</sup> Der Regierungsrat bestimmt in der Verordnung die erforderliche fachliche Qualifikation.
+
+<sup>3</sup> Fachpersonen sind verpflichtet, sich in ein von der SGV geführtes öffentliches Register einzutragen.
+
+#### § 64
+
+**5. Elektrische Installationen**
+
+<sup>1</sup> Die Netzbetreiberinnen haben der SGV nicht fristgerecht eingereichte oder ungenügende Sicherheitsnachweise zu melden.
+
+#### § 65
+
+**6. Brandschutzkontrollen a) Kontrollen**
+
+<sup>1</sup> Die SGV kann, unter Berücksichtigung der Brand- und Explosionsgefahr sowie der Personengefährdung, die folgenden Kontrollen durchführen:
+
+- a) Bau- und Abnahmekontrollen;
+- b) periodische Kontrollen von Bauten und Anlagen;
+- c) periodische Kontrollen von wärme-, haus- und sicherheitstechnischen Anlagen.
+
+<sup>2</sup> Sie kann die Kontrollen für einzelne Gebäude oder Gebäudekategorien sowie für einzelne Komponenten Fachpersonen übertragen.
+
+<sup>3</sup> Die Kontrollen sind wenn möglich im Beisein der Eigentümer- oder Nutzerschaft oder ihrer Vertretung vorzunehmen.
+
+#### § 66
+
+**b) Mängelbehebung**
+
+<sup>1</sup> Die SGV erlässt die erforderlichen Verfügungen zur Behebung festgestellter Mängel, unter Ansetzung einer angemessenen Frist und Androhung der Vollstreckung durch die Vollstreckungsbehörde im Unterlassungsfall.
+
+<sup>2</sup> Bei akuter Brand- oder Explosionsgefahr oder unmittelbarer Personengefährdung kann die SGV alle nötigen Sofortmassnahmen verfügen, insbesondere auch Nutzungsverbote oder einen Baustopp, unter Hinweis auf Artikel 292 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^66-1].
+
+<sup>3</sup> Die Vollstreckung richtet sich im Übrigen nach den §§ 83 ff. des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^66-2].
+
+[^66-1]: SR [311.](https://db.clex.ch/link/Bund/311./de)
+[^66-2]: BGS [124.11.](https://bgs.so.ch/data/124.11./de)
+
+### 3.3. Elementarschadenprävention
+
+#### § 67
+
+**Objektschutz**
+
+<sup>1</sup> Gebäude sind so zu erstellen und zu unterhalten, dass sie gegen Elementarschäden möglichst gesichert sind.
+
+<sup>2</sup> Die Eigentümerinnen und Eigentümer bestehender Gebäude haben die notwendigen und zumutbaren Massnahmen zum Schutz des Gebäudes vor Elementarereignissen zu ergreifen:
+
+- a) bei wesentlichen baulichen oder nutzungsbezogenen Änderungen;
+- b) nach einem Schadenereignis.
+
+<sup>3</sup> Der Regierungsrat regelt in der Verordnung die massgebenden Schutzziele. Er kann Richtlinien von Fachorganisationen zur Elementarschadenprävention verbindlich erklären und zusätzliche Vorschriften erlassen. Er kann diese Kompetenz auch der SGV übertragen.
+
+#### § 68
+
+**Fachbericht**
+
+<sup>1</sup> Die Errichtung von Gebäuden sowie bauliche oder nutzungsbezogene Änderungen an Gebäuden benötigen einen Fachbericht Elementarschadenprävention der SGV.
+
+<sup>2</sup> Die Baubehörde legt die notwendigen Massnahmen gemäss Fachbericht in der Baubewilligung fest.
+
+<sup>3</sup> Der Regierungsrat regelt die Ausnahmen sowie weitere Einzelheiten in der Verordnung.
+
+## 4. Feuerwehrwesen
+
+### 4.1. Auftrag und Organisation der Feuerwehren
+
+#### § 69
+
+**Aufgaben**
+
+<sup>1</sup> Die Feuerwehr ist für die Intervention bei Bränden, Elementarereignissen, Einstürzen, Unfällen oder ABC-Ereignissen zum Schutz von Menschen, Tieren, Umwelt und Sachwerten zuständig.
+
+<sup>2</sup> Der Feuerwehr obliegt die Aufgabe des unverzüglichen, befristeten Einsatzes in Kooperation mit Polizei, Sanität und Dritten.
+
+<sup>3</sup> Die Mitwirkung der Feuerwehren in der akuten Gefahrenabwehr aufgrund anderer kantonaler oder kommunaler Erlasse bleibt vorbehalten.
 
 #### § 70
 
-**Vollzug Oberaufsicht**
+**Vollzug und Aufsicht**
 
-<sup>1</sup> Die Gebäudeversicherung und die Gemeinden sind mit dem Vollzug der Vorschriften über die Feuerwehr betraut.
+<sup>1</sup> Die Gebäudeversicherung und die Einwohnergemeinden sind mit dem Vollzug der Vorschriften über die Feuerwehr betraut.
 
 <sup>2</sup> Die Oberaufsicht über das gesamte Feuerwehrwesen übt der Regierungsrat aus.
 
+<sup>3</sup> Die SGV erlässt die nötigen Weisungen insbesondere betreffend:
+
+- a) die Bestände und Ausrüstung der Feuerwehr;
+- b) den Übungsdienst und das Kurswesen;
+- c) den Einsatz und die Grundzüge der Alarmorganisation.
+
+<sup>4</sup> Die SGV ist zuständig für die Organisation und Durchführung der Feuerwehrkurse. Sie regelt die Kursentschädigung in einem Reglement.
+
+<sup>5</sup> Sie betreibt für die Feuerwehren ein zentrales Administrationssystem. Der Regierungsrat regelt in der Verordnung die Einzelheiten.
+
 #### § 71
 
-**Orts- und Regionalfeuerwehren**
+**Ortsfeuerwehren**
 
-<sup>1</sup> Jede Gemeinde hat eine Feuerwehr zu organisieren und zu unterhalten. Sie hat für genügende und zweckdienliche Einrichtungen aufzukommen. Insbesondere hat sie dafür zu sorgen, dass die persönliche Ausrüstung und die den örtlichen Verhältnissen entsprechenden Alarmeinrichtungen, Gerätschaften und Wasserbezugsorte vorhanden und einsatzbereit sind.
+<sup>1</sup> Jede Einwohnergemeinde hat eine Feuerwehr zu organisieren, auszurüsten und zu unterhalten.
 
-<sup>2</sup> Wo es die Verhältnisse rechtfertigen, können sich mehrere Gemeinden in gegenseitigem Einverständnis zur Organisierung einer einzigen Feuerwehr zusammenschliessen. Eine solche Regelung bedarf der Genehmigung des Regierungsrates.
+<sup>2</sup> Die Einwohnergemeinden haben für genügende und zweckdienliche Einrichtungen aufzukommen. Insbesondere haben sie dafür zu sorgen, dass die den örtlichen Verhältnissen entsprechenden Alarmeinrichtungen, ICT-Infrastruktur, Gerätschaften und Wasserbezugsorte vorhanden und einsatzbereit sind.
 
-<sup>3</sup> Der Regierungsrat ist befugt, zur Erhöhung der Feuerwehrbereitschaft für mehrere Gemeinden die Schaffung von Regionalfeuerwehren oder andere Massnahmen anzuordnen und die von den Gemeinden zu erfüllenden Bedingungen festzulegen.
+<sup>3</sup> Die Einwohnergemeinden tragen die Kosten der Feuerwehr, soweit sie nicht durch Dritte finanziert werden.
 
 #### § 72
 
-**Betriebsfeuerwehren**
+**Regionalfeuerwehren**
 
-<sup>1</sup> Die Verwaltungskommission kann einem privaten oder öffentlichen Betrieb die Organisation einer eigenen Feuerwehr gestatten.Wo es die Verhältnisse rechtfertigen, kann ein Betrieb verpflichtet werden, Feuerschutzvorkehren zu treffen oder eine eigene Feuerwehr zu organisieren und zu unterhalten.
+<sup>1</sup> Wo es die Verhältnisse rechtfertigen, können sich mehrere Einwohnergemeinden in gegenseitigem Einverständnis unter Anhörung der SGV zur Organisierung einer einzigen Feuerwehr nach Massgabe des Gemeindegesetzes zusammenschliessen. Eine solche Regelung bedarf der Genehmigung des Regierungsrates.
 
-<sup>2</sup> Die Betriebsfeuerwehr ist in der Regel der Ortsfeuerwehr unterstellt und hat, wenn nötig, auch ausserhalb des Betriebes mitzuwirken. Die Verwaltungskommission entscheidet über Ausnahmefälle.
-
-<sup>3</sup> Die Angehörigen der Betriebsfeuerwehr sind nach Möglichkeit aus dem Betriebsort zu rekrutieren. In Streitfällen entscheidet die Verwaltungskommission. Bei der Betriebsfeuerwehr eingeteilte Personen sind von der Dienstpflicht bei der Ortsfeuerwehr befreit.
+<sup>2</sup> Der Regierungsrat ist befugt, zur Erhöhung der Feuerwehrbereitschaft für mehrere Einwohnergemeinden die Schaffung von Regionalfeuerwehren oder andere Massnahmen anzuordnen und die von den Einwohnergemeinden zu erfüllenden Bedingungen festzulegen.
 
 #### § 73
 
-**Aufgabe der Feuerwehr**
+**Betriebsfeuerwehren**
 
-<sup>1</sup> Die Feuerwehr hat bei Bränden, Explosionen, Hochwasser, Erdbeben, anderen Elementarereignissen, Katastrophen und dergleichen unverzüglich Hilfe zu leisten. Sie kann von der Gemeinde auch für den Einsatz bei Herznotfällen, für Bewachungsaufgaben und zur Unterstützung von Polizeiaktionen (Verkehrspolizei usw.) eingesetzt werden. Die Mitwirkung aufgrund anderer Gesetze bleibt vorbehalten.
+<sup>1</sup> In Betrieben mit grossem Brandrisiko, erhöhter Personengefährdung oder erschwerter Einsatzmöglichkeit der Feuerwehr kann die SGV den Betrieb berechtigen oder verpflichten, eine eigene Feuerwehr zu organisieren und zu unterhalten.
 
-<sup>2</sup> Die Hilfeleistung und der Einsatz bei Herznotfällen durch die Feuerwehr sind unentgeltlich. Bei Bewachungsaufgaben können die Dienstleistungskosten dem Veranstalter belastet werden.
+<sup>2</sup> Die von der SGV anerkannten Betriebsfeuerwehren haben bei Bedarf auch ausserhalb des Betriebes mitzuwirken. Die SGV entscheidet über Ausnahmefälle.
 
-<sup>3</sup> Die Pflicht zur Hilfeleistung in andern Gemeinden und der Entschädigungsanspruch werden durch die Verwaltungskommission geregelt.
+<sup>3</sup> Die Angehörigen der Betriebsfeuerwehr sind nach Möglichkeit aus dem Betriebsort zu rekrutieren. In Streitfällen entscheidet die SGV. Bei der Betriebsfeuerwehr eingeteilte Personen sind von der Dienstpflicht in einer Solothurner Orts- oder Regionalfeuerwehr befreit.
 
 #### § 74
 
-**Beanspruchung von Sachen**
+**Feuerwehren mit Spezialaufgaben**
 
-<sup>1</sup> Die Feuerwehr kann sowohl im Ernstfall als auch zu Übungszwecken Liegenschaften, Gebäude und andere Sachen Dritter benützen.
+<sup>1</sup> Die SGV kann einzelnen Orts-, Betriebs- oder Regionalfeuerwehren Spezialaufgaben zuweisen.
 
-<sup>2</sup> Die Eigentümer der beanspruchten Sachen sind im Übungsfalle vorgängig und im Ernstfall so rasch wie möglich vom Feuerwehrkommandanten zu orientieren.
+<sup>2</sup> Sie schliesst mit den Trägerinnen der Feuerwehren mit Spezialaufgaben Leistungsvereinbarungen ab.
 
-<sup>3</sup> Auf schutzwürdige Interessen der Betroffenen ist Rücksicht zu nehmen.
+<sup>3</sup> Vorbehalten bleibt die Zuständigkeit gemäss der Verordnung über den kantonalen Schadendienst vom 31. Oktober 2000[^74-1].
+
+[^74-1]: BGS [712.922.](https://bgs.so.ch/data/712.922./de)
 
 #### § 75
 
-**Rückgriff**
+**Feuerwehrreglement**
 
-<sup>1</sup> Auf Personen, die den Einsatz der Feuerwehr durch eine vorsätzliche rechtswidrige Handlung oder Unterlassung nötig gemacht oder veranlasst haben, kann für alle Auslagen aus dem Einsatz Rückgriff genommen werden.
+<sup>1</sup> Die Einwohnergemeinden und Betriebe mit einer anerkannten Betriebsfeuerwehr haben ein Feuerwehrreglement zu erlassen. Dieses ist nach Anhörung der SGV vom Departement zu genehmigen.
 
-<sup>2</sup> Die Gemeinde kann festlegen, dass die Kosten weiterer notwendiger Einsätze gedeckt werden durch:
-
-- a) Personen, denen mit dem Einsatz bei Unglücksfällen (ausgenommen Brand-, Explosions- und Elementarereignisse sowie Katastrophen und dergleichen) Hilfe geleistet wurde;
-- b) Eigentümer von Brandmelde- und Löschanlagen bei wiederholtem Fehlalarm; die Verwaltungskommission erlässt ein Reglement;
-- c) Antragsteller von Dienstleistungen bei besonderen Vorkommnissen oder Veranstaltungen.
-
-<sup>3</sup> Eigentümer von Brandmelde- und Löschanlagen haben folgende Kosten zu entrichten:
-
-- a) eine einmalige Gebühr für die Kosten der Bereitstellung des Anschlusses in der Alarmstelle
-- b) eine jährlich wiederkehrende Gebühr für die Vorsorgeleistung der Feuerwehr und den Unterhalt des Anschlusses.
-
-<sup>4</sup> Grundlage für die Verrechnung von Einsatzkosten ist ein von der Gemeindeversammlung genehmigter Gebührentarif.
+<sup>2</sup> Die SGV regelt den Mindestinhalt des Feuerwehrreglements.
 
 #### § 76
 
-**Dienstpflicht**
+**Wasserbezugsorte**
 
-<sup>1</sup> Männer und Frauen sind in der Wohnsitzgemeinde feuerwehrdienstpflichtig.
+<sup>1</sup> Als Wasserbezugsorte im Sinne von § 71 Absatz 2 gelten Hydrantenanlagen mit genügend grosser Wasserreserve und Wasserleistung sowie ausreichendem Druck.
 
-<sup>2</sup> Die Feuerwehrdienstpflicht besteht in der persönlichen Leistung des Feuerwehrdienstes oder in der Bezahlung der Ersatzabgabe. Über die Art der Dienstpflicht entscheiden die für die Aushebung und Einteilung der Dienstpflichtigen zuständigen Gemeindebehörden. Für Dienstleistungen in einer Betriebsfeuerwehr gilt § 72 Absatz 3.
+<sup>2</sup> Wo Hydrantenanlagen nicht genügen oder aus technischen oder finanziellen Gründen nicht erstellt werden können, bestimmt die SGV, was an deren Stelle treten soll.
+
+<sup>3</sup> Sind Gebäude nicht an die öffentliche Wasserversorgung angeschlossen, hat die Eigentümerschaft den erforderlichen Wasserbezugsort zu erstellen und zu unterhalten.
+
+<sup>4</sup> Die Grundeigentümerinnen und Grundeigentümer haben die Erstellung, den Unterhalt und die Benützung der Wasserbezugsorte für die Feuerwehr wie Hydranten, Löschwasserbehälter, Löschweiher und ähnliche Einrichtungen zu dulden.
+
+<sup>5</sup> Die SGV regelt die Einzelheiten in einem Reglement.
 
 #### § 77
 
-**Dauer der Dienstpflicht**
+**Nachbarhilfe**
 
-<sup>1</sup> Die Feuerwehrdienstpflicht beginnt in dem Jahre, in welchem das 21. Altersjahr vollendet wird, und hört mit dem Jahre auf, in welchem das 42. Altersjahr vollendet wird.
-
-<sup>2</sup> Wo die Verhältnisse es erfordern, kann der Regierungsrat auf Antrag der Gemeinde die Dienstpflicht auf jüngere oder ältere Personen erstrecken.
-
-<sup>3</sup> Ist die Einsatzbereitschaft der Feuerwehr nicht mehr gewährleistet, kann der Regierungsrat die geltende Dienstpflicht nach Anhörung der Gemeinde auf jüngere oder ältere Personen erstrecken.
-
-<sup>4</sup> Für selbständige Betriebsfeuerwehren gelten die Absätze 1-3 sinngemäss.
-
-#### § 77bis
-
-**Befreiung von der Dienstpflicht**
-
-<sup>1</sup> Von der persönlichen Feuerwehrdienstleistung und von der Bezahlung der Ersatzabgabe sind befreit:
-
-- a) Schwangere;
-- b) diejenige Person, die mindestens ein im eigenen Haushalt lebendes Kind bis zum vollendeten 15. Altersjahr allein oder vorwiegend betreut;
-- c) Personen, die eine Invalidenrente oder eine Hilflosenentschädigung der Eidgenössischen Invalidenversicherung beziehen;
-- d) diejenige Person, die eine im eigenen Haushalt lebende Person nach Buchstabe c dauernd betreuen muss.
-
-<sup>2</sup> Der Regierungsrat kann Personen, die bei Brandfällen in die Lage kommen, amtliche Funktionen auszuüben, von der persönlichen Feuerwehrdienstleistung und von der Bezahlung der Ersatzabgabe befreien.
-
-<sup>3</sup> Wer im Verlaufe eines Jahres von der Dienstpflicht befreit wird, hat die Ersatzabgabe für das ganze Jahr zu bezahlen, erhält sie jedoch anteilsmässig von der Gemeinde zurückerstattet.
-
-#### § 77ter
-
-**Befreiung vom persönlichen Feuerwehrdienst**
-
-<sup>1</sup> Die Gemeinde kann in ihrem Feuerwehrreglement weitere Personen von der Leistung des persönlichen Feuerwehrdienstes, hingegen nicht von der Bezahlung der Ersatzabgabe befreien.
+<sup>1</sup> Jede Feuerwehr ist zur Hilfeleistung ausserhalb der Gemeinde oder des Betriebes verpflichtet. Die SGV regelt die gegenseitige Hilfeleistung und die Entschädigung in einem Reglement.
 
 #### § 78
 
-**Ersatzpflicht**
+**Beiträge der SGV**
 
-<sup>1</sup> Wer nicht in einer Orts- oder anerkannten Betriebsfeuerwehr eingeteilt ist, hat, solange eine Dienstpflicht besteht, eine von der Gemeinde festzusetzende Ersatzabgabe zu bezahlen. Diese beträgt jährlich einen Prozentsatz der rechtskräftig eingeschätzten ganzen Staatssteuer. Gesondert veranlagte Staatssteuern sind dabei nicht zu berücksichtigen.
+<sup>1</sup> Die SGV richtet zur Förderung des Feuerwehrwesens Beiträge aus.
 
-<sup>1<sup>bis</sup></sup> Die Feuerwehrersatzabgabe ist in jener Gemeinde geschuldet, in der die abgabepflichtige Person am 31. Dezember ihren Wohnsitz hat.
+<sup>2</sup> Bei der Festsetzung der Beiträge ist die Ausschöpfung der Möglichkeiten der Rationalisierung der Feuerwehr angemessen zu berücksichtigen.
 
-<sup>1<sup>ter</sup></sup> …
+<sup>3</sup> Der Beitrag der SGV an die Kosten der Feuerwehren beträgt mindestens:
 
-<sup>2</sup> Die Ersatzabgabe beträgt im Minimum 10 Franken, im Maximum 150 Franken. Die Verwaltungskommission kann das Minimum und das Maximum dem Stande der Teuerung anpassen.[^78-1]
+- a) für Neuanschaffungen von persönlicher Ausrüstung, Gerätschaften und Fahrzeugen: 35 %
+- b) für Neuerstellung und Verbesserung von Feuerwehrmagazinen: 25 %
 
-<sup>3</sup> Ein ganzer oder teilweiser Erlass der Staatssteuer hat eine entsprechende Reduktion der Ersatzabgabe zur Folge.
-
-<sup>4</sup> Feuerwehrdienstpflichtige, die mit einem Partner, der persönlich Feuerwehrdienst leistet, in ungetrennter Ehe oder eingetragener Partnerschaft leben, sind von der Bezahlung der Ersatzabgabe befreit.
-
-<sup>5</sup> Partner, die in ungetrennter Ehe oder eingetragener Partnerschaft leben und persönlich keinen Feuerwehrdienst leisten, schulden zusammen unter solidarischer Haftung eine Ersatzabgabe. Wenn die beiden Partner einen eigenen Wohnsitz haben, schuldet jeder am Wohnsitz eine halbe Ersatzabgabe.
-
-<sup>6</sup> Feuerwehrdienstpflichtige, die mit einem Partner, der nicht mehr dienstpflichtig oder nach § 77<sup>bis</sup> von der Dienstpflicht befreit ist, in ungetrennter Ehe oder eingetragener Partnerschaft leben, bezahlen eine halbe Ersatzabgabe.
-
-[^78-1]: Das Minimum wurde auf 20 Franken und das Maximum auf 400 Franken festgelegt; vgl. BGS [618.23](https://bgs.so.ch/data/618.23/de).
+<sup>4</sup> Der Regierungsrat regelt die weiteren Einzelheiten der Beitragsgewährung in der Verordnung. Er kann die SGV zum Erlass von Ausführungsbestimmungen ermächtigen.
 
 #### § 79
-
-**…**
-
-#### § 80
-
-**Pflicht zur Bekleidung eines Grades**
-
-<sup>1</sup> Jeder Dienstpflichtige kann zur Bekleidung eines Grades und zur Leistung des damit verbundenen Dienstes für die Dauer von 10 Jahren verpflichtet werden. Bei ungerechtfertigter vorzeitiger Demission können die von der Gebäudeversicherung und der Gemeinde aufgewendeten Kursgelder und andere Kosten unter Berücksichtigung bereits geleisteter Dienste zurückgefordert werden.
-
-<sup>2</sup> Die Funktionen eines Kommandanten, Offiziers oder der übrigen Chargierten können nur von Personen ausgeübt werden, welche die erforderlichen amtlichen Kurse mit Erfolg besucht haben.
-
-<sup>3</sup> Die Wahl der Feuerwehroffiziere erfolgt durch den Gemeinderat.
-
-<sup>4</sup> Sämtliche Funktionsbezeichnungen gelten in gleicher Weise für Männer und Frauen.
-
-#### § 81
-
-**Kurse**
-
-<sup>1</sup> Zur Förderung des Feuerwehrwesens organisiert die Gebäudeversicherung Kurse. Art und Dauer der Kurse werden in der Vollzugsverordnung geregelt.
-
-#### § 81bis
 
 **Beschaffung**
 
@@ -924,129 +892,255 @@ beschliesst:
 
 <sup>2</sup> Sie überwälzt ihre Aufwendungen für die Beschaffungen und die Lagerführung auf die Träger der Feuerwehren.
 
-## 4. Elementarschadenhilfe
+### 4.2. Dienstpflicht
+
+#### § 80
+
+**Beginn und Dauer**
+
+<sup>1</sup> Alle Personen sind in ihrer Wohnsitzgemeinde feuerwehrdienstpflichtig ab dem Kalenderjahr, in dem sie 21 Jahre alt werden.
+
+<sup>2</sup> Die Dienstpflicht dauert bis zum Ende des Kalenderjahres, in dem die dienstpflichtige Person 45 Jahre alt wird.
+
+<sup>3</sup> Wo die Verhältnisse es erfordern, kann der Regierungsrat auf Antrag oder nach Anhörung der Einwohnergemeinde die Dienstpflicht auf jüngere oder ältere Personen erstrecken oder auf 25 Jahre erfüllten Aktivdienst beschränken.
+
+<sup>4</sup> Für anerkannte Betriebsfeuerwehren gelten die Absätze 1 - 3 sinngemäss.
+
+#### § 81
+
+**Freiwilliger Feuerwehrdienst**
+
+<sup>1</sup> Die Einwohnergemeinden oder Betriebe mit anerkannten Betriebsfeuerwehren können Angehörige der Feuerwehr, die das Ende der Dienstpflicht erreicht haben, im Dienst belassen oder nicht dienstpflichtige Personen in den Dienst aufnehmen.
+
+<sup>2</sup> Freiwilliger Feuerwehrdienst ab dem 18. Altersjahr wird an die Dienstjahre angerechnet.
 
 #### § 82
 
-**Katastrophenhilfe**
+**Erfüllung der Dienstpflicht**
 
-<sup>1</sup> Für die bei Katastrophen zu treffenden Massnahmen sowie für die Deckung der daraus entstehenden Kosten gelten die Bestimmungen des Gesetzes über vorsorgliche Massnahmen für den Fall von Katastrophen und kriegerischen Ereignissen (Katastrophengegesetz) vom 5. März 1972[^82-1].
+<sup>1</sup> Die Dienstpflicht wird erfüllt durch:
 
-[^82-1]: BGS [122.151](https://bgs.so.ch/data/122.151/de).
+- a) aktiven Feuerwehrdienst in einer nach dem Gesetz anerkannten Feuerwehr;
+- b) Bezahlung einer Ersatzabgabe für den nicht geleisteten Dienst.
+
+<sup>2</sup> Über die Art der Dienstpflicht entscheiden die für die Aushebung und Einteilung der Dienstpflichtigen zuständigen Gemeindebehörden. Für die Dienstleistung in einer Betriebsfeuerwehr gilt § 73 Absatz 3.
 
 #### § 83
 
-**Elementarschadenfonds**
+**Befreiung vom Feuerwehrdienst und der Ersatzabgabepflicht**
 
-<sup>1</sup> Der Gebäudeversicherung wird ein von ihr zu verwaltender Fonds für Hilfe bei nicht versicherbaren Elementarschäden angeschlossen, wofür jährlich separat Rechnung abzulegen ist. An diesen Fonds haben sich der Staat mit 50%, die Gebäudeversicherung mit 25% und die Einwohnergemeinden mit 25% zu beteiligen. Der Anteil der einzelnen Gemeinden wird vom Regierungsrat nach Finanzausgleichsgrundsätzen festgelegt.
+<sup>1</sup> Vom aktiven Feuerwehrdienst und von der Bezahlung der Ersatzabgabe sind befreit:
 
-<sup>2</sup> Der Fonds ist durch entsprechende Beiträge der Beteiligten zu äufnen. Der Anfangsbestand bei Inkrafttreten des Gesetzes wird auf 150000 Franken festgesetzt. In den folgenden Jahren sind Beiträge in der gleichen Höhe zu entrichten. Erreicht der Fonds einen Bestand von über 600000 Franken, kann der Regierungsrat nach Anhören der beteiligten Kreise die weitere Beitragsleistung reduzieren oder vorübergehend aufheben.
+- a) Schwangere;
+- b) diejenige Person, die mindestens ein im eigenen Haushalt lebendes Kind bis zum vollendeten 15. Altersjahr allein oder vorwiegend betreut;
+- c) Personen, die eine Invalidenrente oder eine Hilflosenentschädigung der Eidgenössischen Invalidenversicherung beziehen;
+- d) diejenige Person, die eine im eigenen Haushalt lebende Person nach Buchstabe c dauernd betreuen muss.
 
-<sup>3</sup> Ergeben sich wegen ausserordentlicher Katastrophenfälle Fehlbeträge, ist der Regierungsrat berechtigt, seitens des Staates Vorschüsse an den Fonds zu leisten.
+<sup>2</sup> Der Regierungsrat kann in der Verordnung Personen, die bei Brandfällen in die Lage kommen, amtliche Funktionen auszuüben, vom Feuerwehrdienst und der Ersatzabgabepflicht befreien.
+
+<sup>3</sup> Die Einwohnergemeinde kann in ihrem Feuerwehrreglement weitere Personen von der Leistung des Feuerwehrdienstes, hingegen nicht von der Bezahlung der Ersatzabgabe befreien.
 
 #### § 84
 
-**Leistungen des Fonds**
+**Aktiver Feuerwehrdienst**
 
-<sup>1</sup> Der Fonds leistet Beiträge zur Linderung von Elementarschäden, soweit sie nicht versichert werden können. Es werden Schäden am Besitz natürlicher Personen sowie von Alp- und ähnlichen Genossenschaften, die der gemeinsamen Nutzung des Bodens dienen, berücksichtigt. Es können auch Schadenentschädigungen an private Anstalten gemeinnütziger Art gewährt werden.
+<sup>1</sup> Die Angehörigen der Feuerwehr sind verpflichtet, den ihnen aufgetragenen Dienst zu übernehmen sowie die vorgeschriebenen Übungen und Kurse zu besuchen.
 
-<sup>2</sup> Berücksichtigt werden auch Schadenfälle, deren Versicherung möglich wäre, für deren Nichtversicherung jedoch sehr triftige Gründe bestehen.
+<sup>2</sup> Sie können zur Bekleidung eines Grades und zur Leistung des damit verbundenen Dienstes für die Dauer von 10 Jahren verpflichtet werden. Bei ungerechtfertigter vorzeitiger Demission können die von der SGV und der Einwohnergemeinde aufgewendeten Kursgelder und andere Kosten unter Berücksichtigung bereits geleisteter Dienste zurückgefordert werden.
 
-<sup>3</sup> Die Leistungen des Fonds erfolgen in der Regel als Zuschuss zu den vom «Schweizerischen Fonds für Hilfe bei nicht versicherbaren Elementarschäden» gewährten Beiträge. Es können auch an weitere Geschädigte Beiträge ausgezahlt werden, sofern die objektiven Voraussetzungen nach Absatz 1 und 2 vorhanden sind.
-
-<sup>4</sup> Die Beitragsberechtigung und die obere und untere Grenze des anrechenbaren Schadens (Selbstbehalt und Franchise) regelt ein vom Regierungsrat zu erlassendes Reglement.
+<sup>3</sup> Die Dienstleistenden haben Anspruch auf Ausrichtung eines Soldes.
 
 #### § 85
 
-**Schadenursache**
+**Massgebende Feuerwehr**
 
-<sup>1</sup> Berücksichtigt werden die Schäden, die durch Hochwasser, Überschwemmungen, Uferanbrüche, Erd- und Felsrutschungen, Steinschlag, Lawinen, ausserordentlichen Schneedruck und Sturmwind verursacht werden. Ausgenommen sind Schäden, die Frost, Hagel, Nässe, Trockenheit oder Schädlinge an Kulturen anrichten.
+<sup>1</sup> Der Feuerwehrdienst wird grundsätzlich in der Feuerwehrorganisation der Wohnsitzgemeinde oder in einer von der SGV anerkannten Betriebsfeuerwehr geleistet.
+
+<sup>2</sup> Er kann auf Gesuch hin in einer anderen Solothurner Orts-, Regional- oder Betriebsfeuerwehr erfüllt werden, sofern dies:
+
+- a) unter den gegebenen Umständen, insbesondere der Arbeitssituation und Qualifikation der feuerwehrpflichtigen Person, zweckmässig ist;
+- b) der Mannschaftsbestand der Wohnsitzgemeinde zulässt.
+
+<sup>3</sup> Über das Gesuch entscheidet unter Anhörung der Wohnsitzgemeinde die SGV.
 
 #### § 86
 
-**Beitragsberechtigte Objekte**
+**Erwerbsausfallkompensation**
 
-<sup>1</sup> Berücksichtigt werden nicht versicherbare Elementarschäden an Boden, Kulturen, Einfriedigungen, Durchlässen, Bodenleitungen, Stützmauern sowie an Wegen, Brücken, Ufern und Wasserversorgungen, soweit nicht der Kanton, Gemeinden oder Weggenossenschaften Werkträger sind. Schäden, die nach § 13 literae a-d von der Gebäudeversicherung entschädigt werden, sind ausgeschlossen. Ebenso werden Waldschäden nicht einbezogen.
+<sup>1</sup> Die Erwerbsausfallkompensation bei Kursbesuchen ist Sache der Einwohnergemeinden und der Betriebe mit Betriebsfeuerwehren.
 
-<sup>2</sup> Die §§ 14 und 34 Absatz 2 sind sinngemäss anwendbar.
+<sup>2</sup> Lohnzahlungen der Arbeitgeberinnen und Arbeitgeber an Angehörige der Orts- oder Regionalfeuerwehren werden durch die Einwohnergemeinden zu 80 %, im Maximum gemäss dem höchsten Ansatz der jeweils geltenden eidgenössischen Erwerbsersatzordnung, rückvergütet. Im gleichen Rahmen wird der Verdienstausfall der Selbstständigerwerbenden entschädigt.
+
+<sup>3</sup> Die Kursteilnehmerinnen und Kursteilnehmer haben in jedem Fall pro Arbeitstag Anspruch auf das Minimum gemäss der eidgenössischen Erwerbsersatzordnung.
 
 #### § 87
 
-**Anmeldung der Schäden**
+**Unfallversicherung**
 
-<sup>1</sup> Nicht versicherbare Elementarschäden sind zuhanden des «Schweizerischen Fonds für Hilfe bei nicht versicherbaren Elementarschäden» und des kantonalen Elementarschadenfonds im gleichen Verfahren wie die versicherten Elementarschäden an Gebäuden zu melden.
+<sup>1</sup> Die Einwohnergemeinden stellen sicher, dass die Angehörigen ihrer Feuerwehr sowie Personen, die im Rahmen eines Einsatzes Hilfe leisten oder für Übungen beigezogen werden, angemessen gegen Unfall versichert sind.
 
 #### § 88
 
-**Abschätzung der Schäden**
+**Ersatzabgabe**
 
-<sup>1</sup> Die Abschätzungen erfolgen nach den Weisungen des Schweizerischen Fonds. Das Abschätzungsverfahren wird im Reglement des Regierungsrates geregelt.
+<sup>1</sup> Dienstpflichtige, die keinen aktiven Feuerwehrdienst leisten, haben eine von der Einwohnergemeinde festzusetzende Ersatzabgabe zu bezahlen. Diese beträgt jährlich einen Prozentsatz der rechtskräftig eingeschätzten ganzen Staatssteuer. Gesondert veranlagte Staatssteuern sind dabei nicht zu berücksichtigen.
+
+<sup>2</sup> Die Ersatzabgabe ist in jener Einwohnergemeinde geschuldet, in der die abgabepflichtige Person am 31. Dezember ihren Wohnsitz hat. Sie beträgt im Minimum 40 Franken, im Maximum 800 Franken. Die SGV kann in einem Reglement das Minimum und das Maximum dem Stande der Teuerung gemäss Landesindex der Konsumentenpreise (LIK) anpassen.
+
+<sup>3</sup> Ein ganzer oder teilweiser Erlass der Staatssteuer hat eine entsprechende Reduktion der Ersatzabgabe zur Folge.
+
+<sup>4</sup> Wer im Verlaufe eines Jahres von der Dienstpflicht befreit wird, hat die Ersatzabgabe für das ganze Jahr zu bezahlen, erhält sie jedoch anteilsmässig von der Einwohnergemeinde zurückerstattet.
 
 #### § 89
 
-**Festlegung der Beitragsleistungen**
+**Befreiung von der Ersatzabgabe**
 
-<sup>1</sup> Die Verwaltungskommission der Gebäudeversicherung setzt die Beiträge an die Geschädigten aufgrund der Abschätzungsergebnisse fest. Die Beiträge dürfen unter Anrechnung der Beiträge Dritter und des Schweizerischen Fonds 80% des effektiven Schadens nicht übersteigen.
+<sup>1</sup> Feuerwehrdienstpflichtige, die mit einer Partnerin oder einem Partner, die oder der aktiv Feuerwehrdienst leistet, in ungetrennter Ehe oder eingetragener Partnerschaft leben, sind von der Bezahlung der Ersatzabgabe befreit.
 
-## 5. Strafbestimmungen
+<sup>2</sup> Partnerinnen und Partner, die in ungetrennter Ehe oder eingetragener Partnerschaft leben und keinen aktiven Feuerwehrdienst leisten, schulden zusammen unter solidarischer Haftung eine Ersatzabgabe. Wenn beide einen eigenen Wohnsitz haben, schulden sie an ihrem Wohnsitz je eine halbe Ersatzabgabe.
+
+<sup>3</sup> Feuerwehrdienstpflichtige, die mit einer Partnerin oder einem Partner, die oder der nicht mehr dienstpflichtig oder nach § 83 Absatz 1 oder 2 von der Dienstpflicht befreit ist, in ungetrennter Ehe oder eingetragener Partnerschaft leben, bezahlen eine halbe Ersatzabgabe.
+
+### 4.3. Pflichten Dritter
 
 #### § 90
 
-**Straftatbestände und Strafandrohungen**
+**Alarmpflicht**
 
-<sup>1</sup> Auf Antrag der Direktion ist zu bestrafen:
-
-- a) wer als Gebäudeeigentümer Doppelversicherungsverträge abschliesst, mit einer Busse von 20-500 Franken;
-- b) wer die ihm obliegende Gebäudenummerierung nicht oder nicht weisungsgemäss vornimmt, mit einer Busse von 20-50 Franken;
-- c) wer ein Schadenereignis nicht innert der vorgeschriebenen Frist meldet, mit einer Busse von 20-100 Franken;
-- d) wer dem Verbot der Veränderung am Schadenobjekt zuwiderhandelt, mit einer Busse von 100-600 Franken;
-- e) wer den Vorschriften des § 60 Absatz 1 über die allgemeine Pflicht im Umgang mit Feuer und Licht und des § 61 Absatz 1 über die Erstellung und den Unterhalt des Gebäudes zuwiderhandelt, mit einer Busse von 30-400 Franken;
-- f) wer den §§ 62 und 63 über die elektrischen Installationen und die Gebäudeblitzschutzvorrichtungen zuwiderhandelt, mit einer Busse von 30-600 Franken. Strafbar sind der Eigentümer und die Person, welche die Arbeiten ausführt oder ausführen sollte;
-- g) wer eine Verfügung nach § 65 zur Behebung von Mängeln nicht fristgerecht befolgt, mit einer Busse von 30-600 Franken. Vorbehalten bleibt das Exekutionsverfahren;
-- h) wer sich weigert, die notwendigen Russungen vornehmen zu lassen, mit einer Busse von 20-100 Franken;
-- i) wer vorsätzlich einem Aufgebot zum Besuch eines von der Gebäudeversicherung organisierten Feuerwehrkurses nicht Folge leistet, mit einer Busse von 20-100 Franken.
-
-## 6. Schlussbestimmungen
+<sup>1</sup> Alle Personen sind verpflichtet, Brandausbrüche und schadenstiftende Elementarereignisse sowie Wahrnehmungen, die auf solche Ereignisse deuten, der Alarmzentrale der Kantonspolizei unverzüglich zu melden und Betroffene zu alarmieren.
 
 #### § 91
 
-**Aufhebungsbestimmungen**
+**Inanspruchnahme von Sachen**
 
-<sup>1</sup> Durch dieses Gesetz werden aufgehoben:
+<sup>1</sup> Die Feuerwehr kann sowohl im Ernstfall als auch zu Übungszwecken Liegenschaften, Gebäude, Fahrzeuge und andere Sachen Dritter benützen.
 
-- a) das Gesetz über die Gebäudeversicherung und Feuerpolizei vom 7. September 1947[^91-1] und die aufgrund dieses Gesetzes erlassenen Vollzugs- und Ausführungsbestimmungen;
-- b) allfällige weitere Bestimmungen anderer Gesetze und Verordnungen, die mit diesem Gesetz in Widerspruch stehen.
+<sup>2</sup> Die Eigentümerschaft der beanspruchten Sachen ist im Übungsfall vorgängig und im Ernstfall so rasch wie möglich vom Feuerwehrkommando zu orientieren.
 
-[^91-1]: GS 77, 231.
+<sup>3</sup> Auf schutzwürdige Interessen der Betroffenen ist Rücksicht zu nehmen. Die Halterinnen und Halter von Fahrzeugen sind angemessen zu entschädigen.
 
 #### § 92
 
-**Gemeindereglemente**
+**Ersatzpflicht für Einsatzkosten**
 
-<sup>1</sup> In Ausführung dieses Gesetzes haben die Gemeinden die erforderlichen Reglemente zu erlassen oder die bestehenden zu revidieren.
+<sup>1</sup> Wer den Einsatz der Feuerwehr durch eine vorsätzliche oder grobfahrlässige Handlung oder Unterlassung nötig macht oder veranlasst, ist den Einwohnergemeinden für alle Kosten des Einsatzes ersatzpflichtig.
 
-<sup>2</sup> Die Gemeindereglemente und die Reglemente der Betriebsfeuerwehren unterliegen der Genehmigung durch das zuständige Departement.
+<sup>2</sup> Auch ohne Nachweis eines Verschuldens können sie die Einsatzkosten einfordern von:
+
+- a) dem Verursacher oder der Verursacherin bei Einsätzen der ABC-Wehr sowie bei Unfällen mit Verkehrsmitteln;
+- b) Personen, denen mit dem Einsatz bei Unglücksfällen (ausgenommen Brand-, Explosions- und Elementarereignisse sowie in besonderen und ausserordentlichen Lagen) Hilfe geleistet wurde;
+- c) der Eigentümerschaft von automatischen Brandmelde- und Löschanlagen bei wiederholtem Fehlalarm;
+- d) Antragstellenden für Dienstleistungen bei besonderen Vorkommnissen oder Veranstaltungen gemäss kommunalem Feuerwehrreglement.
+
+<sup>3</sup> Mehrere Ersatzpflichtige haften für die Einsatzkosten solidarisch.
+
+<sup>4</sup> Grundlage für die Auferlegung von Einsatzkosten ist ein von der Einwohnergemeinde zu erlassender Gebührentarif.
+
+<sup>5</sup> Die Einwohnergemeinde verfügt den Ersatz der Einsatzkosten nach Massgabe des Gemeindegesetzes (GG) vom 16. Februar 1992[^92-1].
+
+[^92-1]: BGS [131.1.](https://bgs.so.ch/data/131.1./de)
 
 #### § 93
 
-**Vollzugsverordnung**
+**Gebühren für Brandmelde- und Löschanlagen**
 
-<sup>1</sup> Der Regierungsrat erlässt eine Vollzugsverordnung.
+<sup>1</sup> Die Eigentümerschaft von automatischen Brandmelde- und Löschanlagen hat den Einwohnergemeinden für die Vorsorgeleistung der Feuerwehr eine jährlich wiederkehrende Gebühr gemäss kommunalem Gebührentarif zu entrichten.
+
+<sup>2</sup> Die Anschluss- und Unterhaltsgebühren richten sich im Übrigen nach dem kantonalen Gebührentarif (GT) vom 8. März 2016[^93-1].
+
+[^93-1]: BGS [615.11.](https://bgs.so.ch/data/615.11./de)
+
+## 5. Elementarschadenfonds
 
 #### § 94
 
-**Übergangsbestimmungen**
+**Verwaltung**
 
-<sup>1</sup> Bei Bedarf erlässt der Regierungsrat weitere Übergangsbestimmungen.
+<sup>1</sup> Der SGV ist ein Fonds für Hilfe bei nicht versicherbaren Elementarschäden angeschlossen.
 
-<sup>2</sup> Für die Schadenvergütung gilt das im Zeitpunkt der Entdeckung des Schadens geltende Recht.
-
-<sup>3</sup> Bei Inkrafttreten des Gesetzes bereits erhobene Rechtsmittel sind von der nach bisherigem Recht zuständigen Instanz zu beurteilen.
+<sup>2</sup> Sie verwaltet den Fonds und legt darüber jährlich separat Rechnung ab.
 
 #### § 95
 
-**Inkrafttreten**
+**Finanzierung**
 
-<sup>1</sup> Das Gesetz tritt nach Annahme durch das Volk am 1. Januar 1973 in Kraft.
+<sup>1</sup> Am Elementarschadenfonds haben sich der Staat mit 50 %, die SGV mit 25 % und die Einwohnergemeinden mit 25 % zu beteiligen. Der Anteil der einzelnen Gemeinden wird vom Regierungsrat nach Finanzausgleichsgrundsätzen festgelegt.
 
-GS 85, 945
+<sup>2</sup> Die Beteiligten haben zusammen jährlich einen Beitrag von 150'000 Franken in den Fonds einzubezahlen. Erreicht der Fonds einen Bestand von über 600'000 Franken, kann der Regierungsrat nach Anhören der Beteiligten die Beitragsleistung reduzieren oder vorübergehend aufheben.
+
+<sup>3</sup> Ergeben sich wegen ausserordentlicher Katastrophenfälle Fehlbeträge, ist der Regierungsrat im Rahmen seiner Finanzkompetenz berechtigt, seitens des Staates Vorschüsse an den Fonds zu leisten.
+
+#### § 96
+
+**Leistungen des Fonds**
+
+<sup>1</sup> Der Fonds leistet Beiträge zur Linderung von Elementarschäden, soweit sie nicht versichert werden können.
+
+<sup>2</sup> Die Leistungen des Fonds erfolgen als Ergänzung zu den vom «Schweizerischen Fonds für Hilfe bei nicht versicherbaren Elementarschäden» («fondssuisse») gewährten Beiträgen.
+
+<sup>3</sup> Beitragsvoraussetzungen, Anmeldeverfahren, Schadenermittlung, anrechenbarer Schaden sowie Mindestschaden und Selbstbehalt richten sich nach den jeweils geltenden Richtlinien des fondssuisse.
+
+<sup>4</sup> Der Beitrag des Fonds darf unter Anrechnung der Beiträge Dritter und des fondssuisse 90 % des anrechenbaren Schadens nicht übersteigen.
+
+<sup>5</sup> Der Regierungsrat regelt die Einzelheiten der Beitragsgewährung in der Verordnung.
+
+## 6. Rechtsschutz und Strafbestimmungen
+
+#### § 97
+
+**Rechtsschutz**
+
+<sup>1</sup> Gegen Verfügungen der SGV, die gestützt auf dieses Gesetz und seine Ausführungserlasse ergehen, kann innert 30 Tagen bei der SGV schriftlich Einsprache erhoben werden. Diese hat einen Antrag und eine Begründung zu enthalten.
+
+<sup>2</sup> Die SGV überprüft die Verfügung und erlässt einen begründeten Einspracheentscheid.
+
+<sup>3</sup> Gegen den Einspracheentscheid kann innert 10 Tagen Beschwerde an das Verwaltungsgericht erhoben werden.
+
+<sup>4</sup> Das Einspracheverfahren vor der SGV ist kostenlos. Parteientschädigungen werden keine ausgerichtet.
+
+#### § 98
+
+**Strafbestimmungen**
+
+<sup>1</sup> Mit Busse von 50 bis 1'500 Franken wird bestraft, wer vorsätzlich oder fahrlässig:
+
+- a) den Brandschutzvorschriften dieses Gesetzes (§§ 53, 54, 56 und 58), den Ausführungsvorschriften gemäss § 55 oder einer gestützt darauf erlassenen Verfügung zuwiderhandelt;
+- b) Feuerungsanlagen in Missachtung von § 61 ohne Zulassung der SGV sicherheitstechnisch wartet;
+- c) Blitzschutzsysteme in Missachtung von § 63 ohne die erforderliche fachliche Qualifikation erstellt und wartet;
+- d) eine Verfügung nach § 66 zur Behebung von Mängeln nicht fristgerecht befolgt.
+
+<sup>2</sup> Wer vorsätzlich einem Aufgebot zum Besuch eines von der SGV organisierten Feuerwehrkurses nicht Folge leistet, wird mit Busse von 50 bis 300 Franken bestraft.
+
+<sup>3</sup> Die Strafbehörden teilen der SGV alle gestützt auf dieses Gesetz erlassenen Strafbefehle und Strafurteile mit.
+
+## 7. Übergangs- und Schlussbestimmungen
+
+#### § 99
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Schadenfälle, die vor dem Inkrafttreten dieses Gesetzes eingetreten sind, werden nach dem bisherigen Gesetz erledigt.
+
+<sup>2</sup> Bei Inkrafttreten des Gesetzes bereits erhobene Rechtsmittel sind von der nach bisherigem Recht zuständigen Instanz zu beurteilen.
+
+<sup>3</sup> Bestimmungen von Feuerwehrreglementen der Einwohnergemeinden und der Betriebe mit anerkannten Betriebsfeuerwehren sind aufgehoben, soweit sie diesem Gesetz widersprechen. Das gilt nicht für die in den Reglementen festgelegte Dauer der Dienstpflicht.
+
+<sup>4</sup> Die Feuerwehrreglemente sind an die Bestimmungen dieses Gesetzes innerhalb von zwei Jahren nach Inkrafttreten anzupassen.
+
+<sup>5</sup> Auf Personen, deren Feuerwehrdienstpflicht nach bisherigem Recht im Zeitpunkt des Inkrafttretens des Gesetzes aufgehört hat, gelangt die Regelung der Dienstdauer nicht zur Anwendung.
+
+#### § 100
+
+**Vollzug**
+
+<sup>1</sup> Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen in einer Verordnung.
+
+KRB Nr. RG 0225b/2023 vom 20. März 2024.
+
+Die Referendumsfrist ist am 12. Juli 2024 unbenutzt abgelaufen.
+
+Inkrattreten am 1. Januar 2025.
+
+Publiziert im Amtsblatt vom 4. Oktober 2024.
+
+GS 2024, 8
