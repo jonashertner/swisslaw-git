@@ -4,13 +4,13 @@ number: 600a
 title: Verordnung zum Gesetz über die Steuerung der Finanzen und Leistungen
 short: FLV
 language: de
-version: 2023-09-01
-valid_until: 2024-12-31
-version_adopted: 2023-08-29
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2024-12-10
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/600a"
-pdf: "https://srl.lu.ch/api/de/versions/4127/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4320/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4127/pdf_file"
 
 (FLV)
 
-vom 17.12.2010 (Stand 01.09.2023)
+vom 17.12.2010 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -604,7 +604,7 @@ beschliesst:
 
 **Aktivierungsgrenze**
 
-<sup>1</sup> Die Aktivierungsgrenze für Sachanlagen beträgt 50 000 Franken, für immaterielle Anlagen 200 000 Franken. Eine tiefere Aktivierungsgrenze ist zulässig, wenn übergeordnetes Recht dies verlangt.
+<sup>1</sup> Die Aktivierungsgrenze für Sachanlagen und immaterielle Anlagen beträgt 50 000 Franken. Eine tiefere Aktivierungsgrenze ist zulässig, wenn übergeordnetes Recht dies verlangt.
 
 <sup>2</sup> Die Aktivierungsgrenze bezieht sich auf ein Anlagegut in Form einer funktionalen Einheit. Ausnahmen regelt das Finanzdepartement in Weisungen.
 
