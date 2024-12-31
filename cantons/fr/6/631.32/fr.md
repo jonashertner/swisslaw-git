@@ -3,13 +3,13 @@ canton: FR
 number: "631.32"
 title: "Ordonnance relative à la perception de l'impôt à la source"
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-28
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-26
 adopted: 2020-12-09
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.32"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7896/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8085/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7896/pdf_file"
 
 Perception de l'impôt à la source – O
 
-du 09.12.2020 (version entrée en vigueur le 01.01.2024)
+du 09.12.2020 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
