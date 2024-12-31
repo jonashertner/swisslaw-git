@@ -3,11 +3,11 @@ sr: "0.641.295.142.1"
 title: Accord du 12 juillet 2012 entre la Confédération suisse et la Principauté de Liechtenstein concernant le Traité relatif à la taxe sur la valeur ajoutée dans la Principauté de Liechtenstein (avec appendices)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/486"
 language: fr
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2012-07-12
 in_force: 2012-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/486/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-486-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/486/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/486/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-486-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/486/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu le 12 juillet 2012 Entré en vigueur par échange de notes le 17 août 2012
 
-(Etat le 1<sup>er</sup> janvier 2022)
+(État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse et le Gouvernement de la Principauté de Liechtenstein,
 
@@ -194,13 +194,13 @@ Les décisions prises en dernière instance par un tribunal du Liechtenstein et 
 
 *En foi de quoi,* les plénipotentiaires apposent leur signature au bas du présent Accord. Fait à Berne, en double exemplaire, en langue allemande, le 12 juillet 2012. Pour le Conseil fédéral suisse: Samuel Tanner Pour le Gouvernement de la Principauté de Liechtenstein: Hubert Büchel
 
-Appendice I*[^t-1]*
+Appendice I[^t-1]
 
 ## Droit suisse régissant la TVA déterminant
 
-[^t-1]: Nouvelle teneur selon la D approuvée par la Commission mixte le 8 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7227](https://fedlex.data.admin.ch/eli/oc/2017/782)).
+[^t-1]: Nouvelle teneur selon la D approuvée par la Commission mixte les 21 et 22 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 506](https://fedlex.data.admin.ch/eli/oc/2024/506)).
 
-Les art. 1, al. 1, 2, let. a et b, et 3; art. 3; art. 5 à 14; art. 15, al. 1, 2, 4 et 5; art. 16 et 17; art. 18, al. 1, 2, let. a, b et d à l; art. 19 et 20; art. 21, al. 1, 2, ch. 1 à 24 et 26 à 30, et al. 3 à 7; art. 22 et 23; art. 24, al. 1 à 5, 6, let. a à c; art. 24*a* à 36; art. 37, al. 1, 2, 3, 1<sup>re</sup> phrase, 4 et 5; art. 38 à 49; art. 63; art. 107 et 108; art. 112, al. 1, 2, 1<sup>re</sup> partie de phrase, et 3; art. 113 à 115*a*; art. 116, al. 2 de la loi du 12 juin 2009 sur la TVA[^annexI-lvlu1-1], y compris les ordonnances d’exécution y relatives.
+Les art. 1, al. 1, 2, let. a et b, et 3; art. 3; art. 5 à 14; art. 15, al. 1, 2 et 4 à 5; art. 16 et 17; art. 18, al. 1, 2, let. a, b et d à l et al. 3; art. 19 à 20*a*; art. 21, al. 1, 2, ch. 2 à 24 et 26 à 31, et al. 3 à 7; art. 22 et 23; art. 24, al. 1 à 5, 6, let. a à c; art. 24*a* à 36; art. 37, al. 1, 2, 3, 1<sup>re</sup> phrase, 4 et 5; art. 38 à 49; art. 63; art. 107 et 108; art. 112, al. 1, 2, 1<sup>re</sup> partie de phrase, et 3; art. 113 à 115*b*; art. 116, al. 2 de la loi du 12 juin 2009 sur la TVA[^annexI-lvlu1-1], y compris les ordonnances d’exécution y relatives.
 
 [^annexI-lvlu1-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
@@ -212,13 +212,13 @@ Les art. 50 à 62 et 64 de la loi du 12 juin 2009 sur la TVA[^annexII-lvlu1-1].
 
 [^annexII-lvlu1-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
-Appendice III*[^t-2]*
+Appendice III[^t-2]
 
 ## Réglementation des versements à la caisse
 
 [^t-2]: Cet app. n’est pas publié au RO. Consultation: Administration fédérale des contributions, Division Législation fiscale, Schwarztorstrasse 50, 3003 Berne.
 
-Appendice IV*[^t-3]*
+Appendice IV[^t-3]
 
 ## Répartition des recettes de la TVA
 

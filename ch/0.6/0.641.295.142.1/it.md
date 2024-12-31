@@ -3,11 +3,11 @@ sr: "0.641.295.142.1"
 title: "Accordo del 12 luglio 2012 tra la Confederazione Svizzera e il Principato del Liechtenstein relativo al Trattato concernente l'imposta sul valore aggiunto nel Principato del Liechtenstein (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/486"
 language: it
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2012-07-12
 in_force: 2012-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/486/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-486-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/486/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/486/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-486-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/486/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 12 luglio 2012 Entrato in vigore il mediante scambio di note il 17 agosto 2012
 
-(Stato 1° gennaio 2022)
+(Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero e il Governo del Principato del Liechtenstein,
 
@@ -193,13 +193,13 @@ Le decisioni prese in ultima istanza da un tribunale del Liechtenstein in merito
 
 *In fede di che,* i plenipotenziari dei due Stati hanno firmato il presente Accordo. Fatto a Berna, in doppio esemplare in lingua tedesca, il 12 luglio 2012. Per il Consiglio federale svizzero: Samuel Tanner Per il Governo del Principato del Liechtenstein: Hubert Büchel
 
-Allegato I*[^t-1]*
+Allegato I[^t-1]
 
 ## Legislazione svizzera applicabile in materia d’IVA
 
-[^t-1]: Nuovo testo giusta la Dec. approvata dalla Commissione mista l’8 mag. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7227](https://fedlex.data.admin.ch/eli/oc/2017/782)).
+[^t-1]: Nuovo testo giusta la Dec. approvata dalla Commissione mista il 21 e 22 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 506](https://fedlex.data.admin.ch/eli/oc/2024/506)).
 
-Articolo 1 capoversi 1, 2 lettere a e b e 3; articolo 3; articoli 5–14; articolo 15 capoversi 1, 2, 4 e 5; articoli 16 e 17; articolo 18 capoversi 1 e 2 lettere a, b e d–1; articoli 19 e 20; articolo 21 capoversi 1, 2 numeri 1–24 e 26–30, nonché capoversi 3–7; articoli 22 e 23; articolo 24 capoversi 1–5 e 6 lettere a–c; articoli 24*a*–36; articolo 37 capoversi 1, 2, 3 primo periodo, 4 e 5; articoli 38–49; articolo 63; articoli 107 e 108; articolo 112 capoversi 1, 2 prima parte del periodo e 3; articoli 113–115*a* nonché articolo 116 capoverso 2 della legge federale del 12 giugno 2009[^annexI-lvlu1-1] concernente l’imposta sul valore aggiunto, comprese le relative ordinanze d’esecuzione.
+Articolo 1 capoversi 1, 2 lettere a e b e 3; articolo 3; articoli 5–14; articolo 15 capoversi 1, 2 e 4–5; articoli 16 e 17; articolo 18 capoversi 1, 2 lettere a, b e d–1 e 3; articoli 19–20*a*; articolo 21 capoversi 1, 2 numeri 2–24 e 26–31, nonché capoversi 3–7; articoli 22 e 23; articolo 24 capoversi 1–5 e 6 lettere a–c; articoli 24*a*–36; articolo 37 capoversi 1, 2, 3 primo periodo, 4 e 5; articoli 38–49; articolo 63; articoli 107 e 108; articolo 112 capoversi 1, 2 prima parte del periodo e 3; articoli 113–115*b* nonché articolo 116 capoverso 2 della legge federale del 12 giugno 2009[^annexI-lvlu1-1] concernente l’imposta sul valore aggiunto, comprese le relative ordinanze d’esecuzione.
 
 [^annexI-lvlu1-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
@@ -211,13 +211,13 @@ Articoli 50–62 e 64 della legge federale del 12 giugno 2009[^annexII-lvlu1-1] 
 
 [^annexII-lvlu1-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
-Allegato III*[^t-2]*
+Allegato III[^t-2]
 
 ## Regolamentazione dei versamenti alla cassa comune
 
 [^t-2]: Non pubblicato nella RU. Può essere visionato presso l’Amministrazione federale delle contribuzioni, Divisione Legislazione fiscale, Schwarztorstrasse 50, 3003 Berna.
 
-Allegato IV*[^t-3]*
+Allegato IV[^t-3]
 
 ## Ripartizione delle entrate IVA
 

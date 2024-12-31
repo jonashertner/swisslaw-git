@@ -3,11 +3,11 @@ sr: "0.641.295.142.1"
 title: Vereinbarung vom 12. Juli 2012 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein zum Vertrag betreffend die Mehrwertsteuer im Fürstentum Liechtenstein (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/486"
 language: de
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2012-07-12
 in_force: 2012-08-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/486/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-486-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/486/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/486/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-486-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/486/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 12. Juli 2012
 
 In Kraft getreten durch Notenaustausch am 17. August 2012
 
-(Stand am 1. Januar 2022)
+(Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat und die Regierung des Fürstentums Liechtenstein,
 
@@ -196,31 +196,31 @@ Letztinstanzliche liechtensteinische Entscheidungen über materielle Vorschrifte
 
 *Zu Urkund dessen* haben die Bevollmächtigten diese Vereinbarung mit ihren Unterschriften versehen. Geschehen in Bern, in doppelter Ausführung in deutscher Sprache, am 12. Juli 2012. Für den Schweizerischen Bundesrat: Samuel Tanner Für die Regierung des Fürstentums Liechtenstein: Hubert Büchel
 
-Anlage I*[^t-1]*
+Anlage I[^t-1]
 
 ## Massgebende schweizerische Mehrwertsteuergesetzgebung
 
-[^t-1]: Von der Gemischten Kommission anlässlich ihrer 49. Sitzung vom 8. Mai 2017 genehmigte Fassung, in Kraft seit 1. Jan. 2018 ([AS 2017 7227](https://fedlex.data.admin.ch/eli/oc/2017/782)).
+[^t-1]: Von der Gemischten Kommission am 21. und 22. Aug. 2024 genehmigte Fassung, in Kraft seit 1. Jan. 2025 ([AS 2024 506](https://fedlex.data.admin.ch/eli/oc/2024/506)).
 
-Artikel 1 Absätze 1, 2 Buchstaben a und b und 3, Artikel 3, die Artikel 5–14, Artikel 15 Absätze 1, 2, 4 und 5, die Artikel 16 und 17, Artikel 18 Absätze 1 und 2 Buchstaben a, b und d–l, die Artikel 19 und 20, Artikel 21 Absatz 1, Absatz 2 Ziffern 1–24 und 26–30 sowie Absätze 3–7, die Artikel 22 und 23, Artikel 24 Absätze 1–5 und Absatz 6 Buchstaben a–c, die Artikel 24*a*–36, Artikel 37 Absätze 1, 2, 3 erster Satz, 4 und 5, die Artikel 38–49, Artikel 63, die Artikel 107 und 108, Artikel 112 Absätze 1, 2 erster Satzteil und 3, die Artikel 113–115*a* sowie Artikel 116 Absatz 2 des Bundesgesetzes vom 12. Juni 2009[^annexI-lvlu2-1] über die Mehrwertsteuer einschliesslich der gestützt darauf erlassenen Ausführungsverordnungen.
+Artikel 1 Absätze 1, 2 Buchstaben a und b und 3, Artikel 3, die Artikel 5–14, Artikel 15 Absätze 1, 2, 4–5, die Artikel 16 und 17, Artikel 18 Absätze 1, 2 Buchstaben a, b und d–l und 3, die Artikel 19–20*a*, Artikel 21 Absatz 1, Absatz 2 Ziffern 2–24 und 26–31 sowie Absätze 3–7, die Artikel 22 und 23, Artikel 24 Absätze 1–5 und Absatz 6 Buchstaben a–c, die Artikel 24*a*–36, Artikel 37 Absätze 1, 2, 3 erster Satz, 4 und 5, die Artikel 38–49, Artikel 63, die Artikel 107 und 108, Artikel 112 Absätze 1, 2 erster Satzteil und 3, die Artikel 113–115*b* sowie Artikel 116 Absatz 2 des Bundesgesetzes vom 12. Juni 2009[^annexI-lvlu1-1] über die Mehrwertsteuer einschliesslich der gestützt darauf erlassenen Ausführungsverordnungen.
 
-[^annexI-lvlu2-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^annexI-lvlu1-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
 Anlage II
 
 ## Vorschriften zur Einfuhrsteuer
 
-Artikel 50–62 und 64 des Bundesgesetzes vom 12. Juni 2009[^annexII-lvlu2-1] über die Mehrwertsteuer.
+Artikel 50–62 und 64 des Bundesgesetzes vom 12. Juni 2009[^annexII-lvlu1-1] über die Mehrwertsteuer.
 
-[^annexII-lvlu2-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^annexII-lvlu1-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
 
-Anlage III*[^t-2]*
+Anlage III[^t-2]
 
 ## Regelung der Kassenzuweisungen
 
 [^t-2]: Wird in der AS nicht publiziert. Der Text kann bei der Eidgenössischen Steuerverwaltung, Abteilung Steuergesetzgebung, Schwarztorstrasse 50, 3003 Bern eingesehen werden.
 
-Anlage IV*[^t-3]*
+Anlage IV[^t-3]
 
 ## Verteilung der Mehrwertsteuererträge
 
