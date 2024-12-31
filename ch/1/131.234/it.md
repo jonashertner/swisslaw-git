@@ -4,11 +4,11 @@ title: "Costituzione della Repubblica e Cantone di Ginevra, del 14 ottobre 2012 
 short: Cost.-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: it
-version: 2024-07-06
+version: 2025-01-01
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240706-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240706/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ Traduzione[^t-1]
 
 (Cost.-GE)
 
-del 14 ottobre 2012 (Stato 6 luglio 2024)[^t-2]
+del 14 ottobre 2012 (Stato 1° gennaio 2025)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -97,7 +97,7 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 **Stemma e motto**
 
 <table>
-<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/it/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/it/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -1728,11 +1728,18 @@ La politica energetica dello Stato si fonda sui principi seguenti:
 
 <sup>1</sup> L’approvvigionamento e la distribuzione di acqua ed elettricità, nonché l’evacuazione e la depurazione delle acque reflue, costituiscono un monopolio cantonale nei limiti di quanto consentito dal diritto federale.
 
-<sup>2</sup> Tale monopolio può essere delegato a un ente di diritto pubblico. Quest’ultimo offre anche prestazioni nel campo dei servizi industriali, in particolare la fornitura di gas ed energia termica e lo smaltimento dei rifiuti.
+<sup>2</sup> L’energia termica distribuita e fornita dalle reti termiche strutturali, nonché l’impiego di queste ultime, costituiscono pure un monopolio cantonale nei limiti di quanto consentito dal diritto federale.[^168-1]
 
-<sup>3</sup> L’ente di diritto pubblico acquista a condizioni eque l’energia prodotta da privati o imprese attraverso fonti rinnovabili.
+<sup>3</sup> Tali monopoli possono essere delegati a un ente di diritto pubblico. Quest’ultimo offre anche prestazioni nel campo dei servizi industriali, in particolare la fornitura di gas ed energia termica nelle reti non strutturali e lo smaltimento dei rifiuti.[^168-2]
 
-<sup>4</sup> Non pratica tariffe decrescenti non conformi agli obiettivi della politica energetica dello Stato.
+<sup>4</sup> L’ente di diritto pubblico acquista a condizioni eque l’energia prodotta da privati o imprese attraverso fonti rinnovabili.[^168-3]
+
+<sup>5</sup> Non pratica tariffe decrescenti non conformi agli obiettivi della politica energetica dello Stato.[^168-4]
+
+[^168-1]: Accettato in votazione popolare il 13 feb. 2022, in vigore dal 1° gen. 2025. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 cpv. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^168-2]: Accettato in votazione popolare il 13 feb. 2022, in vigore dal 1° gen. 2025. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 cpv. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^168-3]: Accettato in votazione popolare il 13 feb. 2022, in vigore dal 1° gen. 2025. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 cpv. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^168-4]: Accettato in votazione popolare il 13 feb. 2022, in vigore dal 1° gen. 2025. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 cpv. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 169
 
@@ -3379,6 +3386,8 @@ Responsabilità
 Revisione della Costituzione
 
 - – iniziativa non elaborata 56
+
+Servizi industriali 98, 168
 
 Scuola(e)
 

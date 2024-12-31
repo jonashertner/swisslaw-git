@@ -4,11 +4,11 @@ title: "Constitution de la République et canton de Genève, du 14 octobre 2012 
 short: Cst-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: fr
-version: 2024-07-06
+version: 2025-01-01
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240706-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240706/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240706/fr"
 
 (Cst-GE)
 
-du 14 octobre 2012 (État le 6 juillet 2024)[^t-1]
+du 14 octobre 2012 (État le 1<sup>er</sup> janvier 2025)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
@@ -94,7 +94,7 @@ La loi règle l’acquisition et la perte de la nationalité genevoise.
 **Armoiries et devise**
 
 <table>
-<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/fr/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/fr/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -1725,11 +1725,18 @@ La politique énergétique de l’État est fondée sur les principes suivants:
 
 <sup>1</sup> L’approvisionnement et la distribution d’eau et d’électricité, ainsi que l’évacuation et le traitement des eaux usées, constituent un monopole cantonal dans la mesure permise par le droit fédéral.
 
-<sup>2</sup> Ce monopole peut être délégué à une institution de droit public. Celle-ci offre également d’autres prestations en matière de services industriels, notamment la fourniture du gaz et de l’énergie thermique, ainsi que le traitement des déchets.
+<sup>2</sup> L’énergie thermique distribuée et fournie par les réseaux thermiques structurants, ainsi que le déploiement de ces derniers, constituent également un monopole cantonal dans la mesure permise par le droit fédéral.[^168-1]
 
-<sup>3</sup> Elle rachète à des conditions adéquates l’énergie renouvelable produite par des particuliers ou des entreprises.
+<sup>3</sup> Ces monopoles peuvent être délégués à une institution de droit public. Celle-ci offre également d’autres prestations en matière de services industriels, notamment la fourniture du gaz et de l’énergie thermique dans les réseaux non structurants, ainsi que le traitement des déchets.[^168-2]
 
-<sup>4</sup> Elle ne pratique pas de tarifs dégressifs non conformes aux objectifs de la politique énergétique de l’État.
+<sup>4</sup> Elle rachète à des conditions adéquates l’énergie renouvelable produite par des particuliers ou des entreprises.[^168-3]
+
+<sup>5</sup> Elle ne pratique pas de tarifs dégressifs non conformes aux objectifs de la politique énergétique de l’État.[^168-4]
+
+[^168-1]: Accepté en votation populaire du 13 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^168-2]: Accepté en votation populaire du 13 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^168-3]: Accepté en votation populaire du 13 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^168-4]: Accepté en votation populaire du 13 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 169
 

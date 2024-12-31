@@ -4,11 +4,11 @@ title: "Verfassung der Republik und des Kantons Genf, vom 14. Oktober 2012 (KV-G
 short: KV-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: de
-version: 2024-07-06
+version: 2025-01-01
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240706-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240706/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240706/de"
 
 (KV-GE)
 
-vom 14. Oktober 2012 (Stand am 6. Juli 2024)[^t-2]
+vom 14. Oktober 2012 (Stand am 1. Januar 2025)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -97,7 +97,7 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 **Wappen und Devise**
 
 <table>
-<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/de/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20250101/de/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -573,7 +573,7 @@ Die Stimmberechtigten der Gemeinde wählen:
 
 <sup>5</sup> Entspricht die Anzahl der Kandidierenden der Anzahl zu besetzender Sitze, so erfolgt die Besetzung in stiller Wahl. Diese Regel gilt nicht für den ersten Wahlgang der Wahlen für den Staatsrat und die Genfer Deputation in den Ständerat.[^55-1]
 
-[^55-1]: Angenommen in der Volksabstimmung vom 25. Sept. 2016, in Kraft seit 22. Okt. 2016. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 4, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^55-1]: Angenommen in der Volksabstimmung vom 25. Sept. 2016, in Kraft seit 22. Okt. 2016. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 4; [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ### 3. Kapitel: Kantonale Volksinitiative
 
@@ -1728,11 +1728,18 @@ Die Energiepolitik des Staates richtet sich nach den Grundsätzen:
 
 <sup>1</sup> Die Wasser- und Stromversorgung und -verteilung sowie die Ableitung und Behandlung von Abwasser sind, soweit es das Bundesrecht zulässt, ein Kantonsmonopol.
 
-<sup>2</sup> Das Monopol kann auf eine öffentlich-rechtliche Institution übertragen werden. Diese bietet auch weitere industrielle Dienstleistungen an, namentlich die Versorgung mit Gas und thermischer Energie sowie die Behandlung der Abfälle.
+<sup>2</sup> Die Verteilung und Versorgung mit thermischer Energie in strukturierenden thermischen Netzen sowie die Ausdehnung letzterer sind, soweit es das Bundesrecht zulässt, ebenfalls ein Kantonsmonopol.[^168-1]
 
-<sup>3</sup> Sie kauft die von Privatpersonen oder Unternehmen produzierte erneuerbare Energie zu angemessenen Bedingungen ab.
+<sup>3</sup> Diese Monopole können auf eine öffentlich-rechtliche Institution übertragen werden. Diese bietet auch weitere industrielle Dienstleistungen an, namentlich die Versorgung mit Gas und thermischer Energie in nichtstrukturierenden Netzen sowie die Behandlung der Abfälle.[^168-2]
 
-<sup>4</sup> Sie gestaltet keine degressiven Tarife, die nicht den energiepolitischen Zielen des Staates entsprechen.
+<sup>4</sup> Sie kauft die von Privatpersonen oder Unternehmen produzierte erneuerbare Energie zu angemessenen Bedingungen ab.[^168-3]
+
+<sup>5</sup> Sie gestaltet keine degressiven Tarife, die nicht den energiepolitischen Zielen des Staates entsprechen.[^168-4]
+
+[^168-1]: Angenommen in der Volksabstimmung vom 13. Febr. 2022, in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^168-2]: Angenommen in der Volksabstimmung vom 13. Febr. 2022, in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^168-3]: Angenommen in der Volksabstimmung vom 13. Febr. 2022, in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^168-4]: Angenommen in der Volksabstimmung vom 13. Febr. 2022, in Kraft seit 1. Jan. 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 2; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 169
 
@@ -1919,9 +1926,9 @@ Der Staat gewährleistet die Sicherheit und die öffentliche Ordnung.
 
 <sup>4</sup> Er unterstützt die Ausbildung und Beschäftigung in der Landwirtschaft.[^187-3]
 
-[^187-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^187-2]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^187-3]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-2]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-3]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 188
 
@@ -1975,7 +1982,7 @@ Der Staat sorgt für die Information und den Schutz der Konsumentinnen und Konsu
 
 <sup>4</sup> Der internationale Flughafen Genf legt den kantonalen und kommunalen Behörden gegenüber Rechenschaft ab, wie die vorstehenden Ziele geplant und innerhalb des vom Bund bestimmten Rahmens umgesetzt werden. Er unterbreitet insbesondere dem Grossen Rat regelmässig einen Bericht zur Genehmigung, worin die in Angriff genommenen Massnahmen und die hautsächlichen mittel- und langfristigen Ziele aufgeführt sind.
 
-[^191A-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^191A-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3; [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 192
 
@@ -1997,7 +2004,7 @@ Der Staat sorgt für die Information und den Schutz der Konsumentinnen und Konsu
 
 <sup>3</sup> Der Staat trifft begleitende Massnahmen. Insbesondere nutzt er die Verwirklichung der Seequerung, um zusammen mit den betroffenen Gemeinden die Ufergestaltung zu verbessern, die schädlichen Auswirkungen in den städtischen Zonen zu reduzieren, die Wirksamkeit des öffentlichen Verkehrs zu verstärken, den Langsamverkehr zu begünstigen und neue öffentliche Räume zu schaffen.
 
-[^192A-1]: Angenommen in der Volksabstimmung vom 5. Juni 2016, in Kraft seit 2. Juli 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 4 Bst. b [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
+[^192A-1]: Angenommen in der Volksabstimmung vom 5. Juni 2016, in Kraft seit 2. Juli 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 4 Bst. b, [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
 
 ### 9. Abschnitt: Lehre und Forschung
 
@@ -2159,7 +2166,7 @@ Bei der Bestimmung seiner Politik und seines Handelns berücksichtigt der Staat 
 
 <sup>2</sup> Das Zeigen oder Tragen von Symbolen, Emblemen und allen anderen Objekten, die Ausdruck von Hass sind, insbesondere von Nazi-Objekten, ist im öffentlichen Raum verboten. Das Gesetz regelt die Ausnahmen und sieht Sanktionen vor.
 
-[^210A-1]: Angenommen in der Volksabstimmung vom 9. Juni 2024, in Kraft seit 6. Juli 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 (BBl **20****25** 2770 Art. 5, 1707).
+[^210A-1]: Angenommen in der Volksabstimmung vom 9. Juni 2024, in Kraft seit 6. Juli 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 ([BBl 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)Art. 5, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
 
 #### Art. 211
 
@@ -2225,7 +2232,7 @@ Bei der Bestimmung seiner Politik und seines Handelns berücksichtigt der Staat 
 
 <sup>4</sup> Der Kanton und die Gemeinden erarbeiten eine Strategie der gemeinsamen Finanzierung des künstlerischen Schaffens und der Kulturinstitutionen und setzen diese um Der Kanton koordiniert, in Abstimmung mit den Gemeinden, eine kohärente Kulturpolitik im Kanton. Die Kulturakteure werden angehört.
 
-[^216-1]: Angenommen in der Volksabstimmung vom 19. Mai 2019, in Kraft seit 15. Juni 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 5 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^216-1]: Angenommen in der Volksabstimmung vom 19. Mai 2019, in Kraft seit 15. Juni 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 5, [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 #### Art. 217
 
@@ -2279,7 +2286,7 @@ Bei der Bestimmung seiner Politik und seines Handelns berücksichtigt der Staat 
 
 <sup>2</sup> Die Revision der Staatsrechnung wird vom Rechnungshof wahrgenommen.[^222-1]
 
-[^222-1]: Angenommen in der Volksabstimmung vom 28. Febr. 2016, in Kraft seit 30. März 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 4 Bst. a [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
+[^222-1]: Angenommen in der Volksabstimmung vom 28. Febr. 2016, in Kraft seit 30. März 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 4 Bst. a, [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
 
 #### Art. 223
 
