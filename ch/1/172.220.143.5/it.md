@@ -4,11 +4,11 @@ title: "Regolamento di previdenza del 12 dicembre 2008 per gli impiegati e i ben
 short: RP-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/140"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2008-12-12
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/140/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2012-140-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/140/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/140/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-140-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/140/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,8 +17,8 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/140/20240101/it"
 
 (RP-FINMA)[^t-1]
 
-del 12 dicembre 2008 (Stato 1° gennaio 2024)
+del 12 dicembre 2008 (Stato 1° gennaio 2025)
 
-[^t-1]: Questo R di previdenza fa parte del contratto d’affiliazione del 12 dic. 2008 alla Cassa di previdenza della FINMA ([FF 2009 509](https://fedlex.data.admin.ch/eli/fga/2009/157); [2010 8105](https://fedlex.data.admin.ch/eli/fga/2010/1693); [2012 1261](https://fedlex.data.admin.ch/eli/fga/2012/287); [2019 7129](https://fedlex.data.admin.ch/eli/fga/2019/2928)). Il presente R è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/781](https://fedlex.data.admin.ch/eli/oc/2023/781) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione mediante rimando.
+[^t-1]: Questo R di previdenza fa parte del contratto di affiliazione del 12 dic. 2008 alla Cassa di previdenza della FINMA ([FF 2009 509](https://fedlex.data.admin.ch/eli/fga/2009/157); [2010 8105](https://fedlex.data.admin.ch/eli/fga/2010/1693); [2012 1261](https://fedlex.data.admin.ch/eli/fga/2012/287); [2013 2265](https://fedlex.data.admin.ch/eli/fga/2013/466); [2018 6515](https://fedlex.data.admin.ch/eli/fga/2018/2688); [2019 7129](https://fedlex.data.admin.ch/eli/fga/2019/2928); [2024 247](https://fedlex.data.admin.ch/eli/fga/2024/247), [2982](https://fedlex.data.admin.ch/eli/fga/2024/2982)). Il presente R è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/729](https://fedlex.data.admin.ch/eli/oc/2024/729) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione mediante rimando.
 
 Entrata in vigore: 1° luglio 2012
