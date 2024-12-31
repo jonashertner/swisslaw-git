@@ -4,13 +4,12 @@ number: "700"
 title: Einführungsgesetz zum Bundesgesetz über den Umweltschutz
 short: EGUSG
 language: de
-version: 2022-03-01
-valid_until: 2024-12-31
-version_adopted: 2021-12-06
+version: 2025-01-01
+version_adopted: 2023-06-19
 adopted: 1998-03-30
 in_force: 1999-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/700"
-pdf: "https://srl.lu.ch/api/de/versions/3894/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3894/pdf_file"
 
 (EGUSG)
 
-vom 30.03.1998 (Stand 01.03.2022)
+vom 30.03.1998 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -240,7 +239,7 @@ beschliesst:
 
 **Aufgaben des Regierungsrates**
 
-<sup>1</sup> Der Regierungsrat erstellt Mehrjahrespläne für sanierungsbedürftige Strassen oder Strassenabschnitte. Ziel ist, die von Strassenverkehrsanlagen verursachten Lärmimmissionen so zu reduzieren, dass sie den Vorschriften des Umweltschutzrechtes genügen. Die Mehrjahrespläne und das Bauprogramm für die Kantonsstrassen gemäss Strassengesetz vom 21. März 1995[^19-1] sind aufeinander abzustimmen.
+<sup>1</sup> Der Regierungsrat erstellt Mehrjahrespläne für sanierungsbedürftige Strassen oder Strassenabschnitte. Ziel ist, die von Strassenverkehrsanlagen verursachten Lärmimmissionen so zu reduzieren, dass sie den Vorschriften des Umweltschutzrechtes genügen. Die Mehrjahrespläne und das Programm Gesamtmobilität gemäss Strassengesetz vom 21. März 1995[^19-1] sind aufeinander abzustimmen.
 
 <sup>2</sup> Die Gemeinden melden sanierungsbedürftige Gemeindestrassen oder Abschnitte davon, die in die Mehrjahrespläne aufgenommen werden sollen.
 
