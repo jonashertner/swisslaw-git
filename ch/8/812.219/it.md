@@ -4,11 +4,11 @@ title: Ordinanza del 4 maggio 2022 relativa ai dispositivi medico-diagnostici in
 short: ODIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: it
-version: 2023-11-01
+version: 2025-01-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2022-291-20231101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2022-291-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/it"
 
 (ODIV)
 
-del 4 maggio 2022 (Stato 1° novembre 2023)
+del 4 maggio 2022 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero
 
@@ -103,7 +103,7 @@ Nella presente ordinanza si intende per:
 - b. *immissione in commercio:* la prima messa a disposizione di un dispositivo, diverso da un dispositivo oggetto di studio delle prestazioni, sul mercato svizzero;
 - c. *messa in servizio:* momento in cui un dispositivo pronto per l’uso, diverso da un dispositivo oggetto di studio delle prestazioni, è reso disponibile all’utilizzatore finale per essere utilizzato per la prima volta sul mercato svizzero secondo la sua destinazione d’uso;
 - d. *manutenzione:* misure quali assistenza tecnica, aggiornamenti di software, ispezione, riparazione, preparazione per il primo utilizzo e ricondizionamento per il riutilizzo, il mantenimento o il ripristino dello stato funzionante di un dispositivo;
-- e*.*[^4-1] *fabbricante:* ogni persona fisica o giuridica che fabbrica o rimette a nuovo un dispositivo oppure lo fa progettare, fabbricare o rimettere a nuovo, e lo commercializza apponendovi il suo nome o marchio; sono fatte salve le precisazioni e le deroghe riportate all’articolo 16 paragrafi 1 e 2 del regolamento (UE) 2017/746[^4-2] (UE-IVDR);
+- e*.*[^4-1] *fabbricante*: ogni persona fisica o giuridica che fabbrica o rimette a nuovo un dispositivo oppure lo fa progettare, fabbricare o rimettere a nuovo, e lo commercializza apponendovi il suo nome o marchio; sono fatte salve le precisazioni e le deroghe riportate all’articolo 16 paragrafi 1 e 2 del regolamento (UE) 2017/746[^4-2] (UE-IVDR);
 - f. *mandatario:* ogni persona fisica o giuridica stabilita in Svizzera che riceve dal fabbricante, avente sede all’estero, un mandato scritto che la autorizza ad agire per conto del fabbricante in relazione a determinate attività per adempiere obblighi del fabbricante derivanti dalla presente ordinanza;
 - g. *importatore:* ogni persona fisica o giuridica stabilita in Svizzera che immette in commercio sul mercato svizzero un dispositivo proveniente dall’estero;
 - h. *distributore:* ogni persona fisica o giuridica nella catena di fornitura, diversa dal fabbricante o dall’importatore, che mette a disposizione sul mercato svizzero un dispositivo fino al momento della messa in servizio;
@@ -115,8 +115,8 @@ Nella presente ordinanza si intende per:
 
 <sup>2</sup> Si applicano inoltre le definizioni di cui all’articolo 2 punti 3, 5–19, 24, 30–41, 44–45, 49–56, 60–72 e 74 UE-IVDR.
 
-[^4-1]: Nuovo testo giusta l’all. n. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^4-2]: Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici in vitro e che abroga la direttiva 98/79/CE e la decisione 2010/227/UE della Commissione, GU L 117 del 5.5.2017, pag. 176; modificato da ultimo dal regolamento (UE) 2023/607, GU L 80 del 20.3.2023, pag. 24.
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^4-2]: Regolamento (UE) 2017/746 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medico-diagnostici in vitro e che abroga la direttiva 98/79/CE e la decisione 2010/227UE della Commissione, GU L 117 del 5.5.2017, pag. 176; modificato da ultimo dal regolamento (UE) 2024/1860, GU L, 2024/1860, del 9.7.2024.
 
 #### Art. 5
 
@@ -287,7 +287,10 @@ L’informazione sul dispositivo può limitarsi a meno di tre lingue ufficiali o
 
 <sup>8</sup> Le informazioni fornite a norma dell’allegato I capo III UE-IVDR con i dispositivi destinati a test autodiagnostici o analisi decentrate devono essere facilmente comprensibili e redatte nelle tre lingue ufficiali.
 
+<sup>9</sup> Per i dispositivi che non sono destinati a test autodiagnostici e che non sono stati immessi in commercio ai sensi degli articoli 81 e 82 della presente ordinanza, le informazioni sul mandatario stabilite nell’allegato I capo III sezione 20.2. lettera d UE-IVDR possono essere apposte su un documento che accompagna il dispositivo.[^15-2]
+
 [^15-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
+[^15-2]: Introdotto dalla cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 16
 
@@ -1198,9 +1201,22 @@ La modifica di altri atti normativi è disciplinata nell’allegato 5.
 
 #### Art. 81
 
-**Validità dei certificati rilasciati secondo il diritto anteriore**
+**Validità dei certificati rilasciati secondo il diritto anteriore**[^81-1]
 
-I certificati rilasciati secondo il diritto anteriore restano validi fino alla fine del periodo indicato sugli stessi, ma al più tardi fino al 26 maggio 2025.
+<sup>1</sup> I certificati rilasciati secondo il diritto anteriore prima del 25 maggio 2017 restano validi fino alla fine del periodo indicato sugli stessi, ma al più tardi fino al 26 maggio 2025.
+
+<sup>2</sup> I certificati rilasciati secondo il diritto anteriore a partire dal 25 maggio 2017, ancora validi al 26 maggio 2022 e successivamente non revocati, una volta trascorso il periodo indicato sugli stessi sono considerati validi fino al 31 dicembre 2027.
+
+<sup>3</sup>
+
+I certificati rilasciati secondo il diritto anteriore a partire dal 25 maggio 2017, ancora validi al 26 maggio 2022 e scaduti prima del 9 luglio 2024, sono considerati validi fino al 31 dicembre 2027 purché sia soddisfatta una delle seguenti condizioni:
+
+- a. prima della scadenza dei certificati, il fabbricante e un organismo designato ai sensi del capitolo 4 o un organismo notificato secondo l’UE-IVDR[^81-2] con sede in uno Stato UE o SEE hanno firmato un accordo scritto ai sensi dell’allegato VII punto 4.3 secondo comma UE-IVDR sulla valutazione della conformità dei dispositivi a cui si applicano i certificati scaduti o dei dispositivi destinati alla sostituzione di questi ultimi;
+- b. Swissmedic ha concesso una deroga alla pertinente procedura di valutazione della conformità ai sensi dell’articolo 18 capoverso 1 lettera a oppure un’autorità competente di uno Stato UE o SEE ha concesso una deroga alla pertinente procedura di valutazione della conformità ai sensi dell’articolo 54 paragrafo 1 UE-IVDR;
+- c. nel quadro dell’attività di sorveglianza del mercato ai sensi dell’articolo 66 capoverso 2 della presente ordinanza o dell’articolo 92 paragrafo 1 UE-IVDR, un’autorità competente ha chiesto al fabbricante di svolgere la pertinente procedura di valutazione della conformità.
+
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^81-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
 
 #### Art. 82
 
@@ -1208,26 +1224,53 @@ I certificati rilasciati secondo il diritto anteriore restano validi fino alla f
 
 <sup>1</sup>
 
-A condizione che a partire dal 26 maggio 2022 continuino a corrispondere al diritto anteriore e che non ci siano cambiamenti significativi nella progettazione e nella destinazione d’uso del dispositivo in questione, i seguenti dispositivi possono essere immessi in commercio o messi in servizio fino alle date di seguito menzionate:
+I seguenti dispositivi possono essere immessi in commercio o messi in servizio fino alle date di seguito menzionate:
 
-- a. i dispositivi con un certificato valido secondo l’articolo 81: fino al 26 maggio 2025;
+- a. i dispositivi con un certificato valido secondo l’articolo 81: fino al 31 dicembre 2027;
 - b.
 
-  i dispositivi per i quali nell’ambito della procedura di valutazione della conformità non era richiesto secondo il diritto anteriore il coinvolgimento di un organismo designato, ma per i quali tuttavia tale coinvolgimento è richiesto secondo la presente ordinanza e che sono provvisti di una dichiarazione di conformità rilasciata prima del 26 maggio 2022 secondo il diritto anteriore:
+  i dispositivi per i quali nell’ambito della procedura di valutazione della conformità secondo il diritto anteriore non era richiesto il coinvolgimento di un organismo designato, che sono provvisti di una dichiarazione di conformità rilasciata prima del 26 maggio 2022 e per i quali tale coinvolgimento è richiesto ai sensi della presente ordinanza:
 
-  - 1\. i dispositivi della classe D: fino al 26 maggio 2025,
-  - 2\. i dispositivi della classe C: fino al 26 maggio 2026,
-  - 3\. i dispositivi della classe B: fino al 26 maggio 2027,
-  - 4\. i dispositivi della classe A immessi in commercio in imballaggio sterile: fino al 26 maggio 2027.
+  - 1\. i dispositivi della classe D: fino al 31 dicembre 2027,
+  - 2\. i dispositivi della classe C: fino al 31 dicembre 2028,
+  - 3\. i dispositivi della classe B: fino al 31 dicembre 2029,
+  - 4\. i dispositivi della classe A immessi in commercio in imballaggio sterile: fino al 31 dicembre 2029.[^82-1]
+
+<sup>1bis</sup>
+
+L’immissione in commercio o la messa in servizio di dispositivi di cui al capoverso 1 è ammessa purché siano soddisfatte le seguenti condizioni:
+
+- a. i dispositivi continuano a corrispondere al diritto anteriore;
+- b. non ci sono cambiamenti significativi nella progettazione e nella destinazione d’uso del dispositivo in questione;
+- c. i dispositivi non comportano rischi inaccettabili per la salute o la sicurezza di pazienti, utilizzatori o altre persone o per altri aspetti della tutela della salute pubblica;
+- d. il fabbricante ha istituito un sistema di gestione della qualità ai sensi dell’articolo 10 paragrafo 8 UE-IVDR[^82-2] al più tardi il 26 maggio 2025;
+- e.
+
+  il fabbricante o il mandatario ha presentato, entro le date di seguito menzionate, domanda formale secondo l’allegato VII punto 4.3 primo comma UE-IVDR a un organismo designato ai sensi del capitolo 4 o a un organismo notificato ai sensi dell’UE-IVDR con sede in uno Stato UE o SEE per la valutazione della conformità dei seguenti dispositivi o dei dispositivi destinati alla sostituzione dei seguenti dispositivi:
+
+  - 1\. per i dispositivi di cui al capoverso 1 lettere a e b numero 1: fino al 26 maggio 2025,
+  - 2\. per i dispositivi di cui al capoverso 1 lettera b numero 2: fino al 26 maggio 2026,
+  - 3\. per i dispositivi di cui al capoverso 1 lettera b numeri 3 e 4: fino al 26 maggio 2027.
+
+- f.
+
+  Il fabbricante e l’organismo designato o notificato di cui alla lettera e hanno firmato un accordo scritto secondo l’allegato VII punto 4.3 secondo comma UE-IVDR entro le date di seguito menzionate:
+
+  - 1\. per i dispositivi di cui al capoverso 1 lettere a e b numero 1: fino al 26 settembre 2025,
+  - 2\. per i dispositivi di cui al capoverso 1 lettera b numero 2: fino al 26 settembre 2026,
+  - 3\. per i dispositivi di cui al capoverso 1 lettera b numeri 3 e 4: fino al 26 settembre 2027.[^82-3]
 
 <sup>2</sup> Per la sorveglianza post-commercializzazione dei dispositivi di cui al capoverso 1, la sorveglianza del mercato che li concerne, la vigilanza, la registrazione di operatori economici e di questi dispositivi vigono le disposizioni della presente ordinanza.
 
-<sup>3</sup> I dispositivi legittimamente immessi in commercio prima del 26 maggio 2022 secondo il diritto anteriore e i dispositivi legittimamente immessi in commercio a partire dal 26 maggio 2022 conformemente al capoverso 1 possono continuare a essere messi a disposizione sul mercato o messi in servizio.[^82-1]
+<sup>3</sup> I dispositivi legittimamente immessi in commercio prima del 26 maggio 2022 secondo il diritto anteriore e i dispositivi legittimamente immessi in commercio a partire dal 26 maggio 2022 conformemente al capoverso 1 possono continuare a essere messi a disposizione sul mercato o messi in servizio.[^82-4]
 
-<sup>4</sup> ...[^82-2]
+<sup>4</sup> ...[^82-5]
 
-[^82-1]: Nuovo testo giusta l’all. n. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^82-2]: Abrogato dall’all. n. 2 dell’O del 29 set. 2023, con effetto dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^82-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
+[^82-3]: Introdotto dalla cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^82-4]: Nuovo testo giusta l’all. n. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-5]: Abrogato dall’all. n. 2 dell’O del 29 set. 2023, con effetto dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 83
 
@@ -1236,9 +1279,10 @@ A condizione che a partire dal 26 maggio 2022 continuino a corrispondere al diri
 I requisiti secondo l’articolo 9 concernenti i dispositivi fabbricati e utilizzati in istituzioni sanitarie sono applicabili a partire dalle seguenti date:
 
 - a. i requisiti di cui all’articolo 5 paragrafo 5 lettere b, c ed e–i UE-IVDR[^83-1]: dal 26 maggio 2024;
-- b. i requisiti di cui all’articolo 5 paragrafo 5 lettera d UE-IVDR: dal 26 maggio 2028.
+- b.[^83-2] i requisiti di cui all’articolo 5 paragrafo 5 lettera d UE-IVDR: dal 31 dicembre 2030.
 
 [^83-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
+[^83-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 84
 
@@ -1271,11 +1315,9 @@ Se il fabbricante ha sede in uno Stato UE o SEE o ha designato un mandatario con
 
 #### Art. 87
 
-**Apposizione delle informazioni sul mandatario**
+[^87-1]
 
-Per i dispositivi che non sono destinati a test autodiagnostici e che sono stati immessi in commercio secondo il nuovo diritto, le informazioni stabilite nell’allegato I capo III punto 20.2 lettera d UE-IVDR[^87-1] sul mandatario di cui all’articolo 44 capoverso 1 della presente ordinanza possono essere apposte, fino al 31 marzo 2025, su un documento che accompagna il dispositivo.
-
-[^87-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
+[^87-1]: Abrogato dalla cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), con effetto dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 88
 
@@ -1292,16 +1334,27 @@ Gli operatori economici che hanno immesso in commercio prima del 26 maggio 2022 
 
 <sup>1</sup> La designazione di organismo di valutazione della conformità secondo la sezione 4 dell’ODmed[^89-1] nella versione del 26 novembre 2017[^89-2] per i dispositivi medico-diagnostici in vitro non è più valida.
 
-<sup>2</sup> L’organismo di valutazione della conformità che ha rilasciato i certificati secondo il diritto anteriore continua a essere responsabile dell’appropriata sorveglianza dei dispositivi in questione. È soggetto alla sorveglianza di Swissmedic.
+<sup>2</sup> L’organismo di valutazione della conformità che ha rilasciato i certificati secondo il diritto anteriore e la cui designazione ai sensi del capoverso 1 non è più valida continua a essere responsabile dell’appropriata sorveglianza di tutti i requisiti vigenti per i dispositivi in questione, a meno che il fabbricante non abbia concordato la delega dei compiti di sorveglianza a un organismo designato ai sensi del capitolo 4 o a un organismo notificato ai sensi dell’UE-IVDR[^89-3] con sede in uno Stato UE o SEE.[^89-4]
 
-<sup>3</sup> La designazione di organismo di valutazione della conformità secondo la sezione 4*a* dell’ODmed nella versione del 26 novembre 2017[^89-3] per i dispositivi medico-diagnostici in vitro mantiene la propria validità.
+<sup>2bis</sup> L’organismo designato di cui all’articolo 82 capoverso 1<sup>bis</sup> lettera f è responsabile della sorveglianza dei dispositivi oggetto dell’accordo scritto a partire, al più tardi, dal 26 settembre 2025. Se l’accordo scritto concerne dispositivi destinati a sostituirne altri i cui certificati sono stati rilasciati secondo il diritto anteriore, la sorveglianza deve essere svolta in relazione ai dispositivi sostituiti.[^89-5]
 
-<sup>4</sup> Se la domanda di designazione di organismo di valutazione della conformità secondo la sezione 4*a* dell’ODmed nella versione del 26 novembre 2017[^89-4] è stata presentata prima del 26 maggio 2022, la designazione è rilasciata secondo il nuovo diritto.
+<sup>2ter</sup> Le disposizioni per la delega dei compiti di sorveglianza dall’organismo designato che ha rilasciato il certificato a un organismo designato secondo il capitolo 4 o a un organismo notificato secondo l’UE-IVDR con sede in uno Stato UE o SEE sono disciplinate in un accordo tra il fabbricante e l’organismo designato che assume i compiti di sorveglianza, e, ove possibile, l’organismo designato che ha rilasciato il certificato. L’organismo designato secondo il capitolo 4 non è responsabile delle attività di valutazione della conformità svolte dall’organismo designato che ha rilasciato il certificato. [^89-6]
+
+<sup>2quater</sup> L’organismo di valutazione della conformità la cui designazione ai sensi del capoverso 1 non è più valida e che continua a essere responsabile della sorveglianza secondo il capoverso 2 è soggetto alla sorveglianza di Swissmedic.[^89-7]
+
+<sup>3</sup> La designazione di organismo di valutazione della conformità secondo la sezione 4*a* dell’ODmed nella versione del 26 novembre 2017[^89-8] per i dispositivi medico-diagnostici in vitro mantiene la propria validità.
+
+<sup>4</sup> Se la domanda di designazione di organismo di valutazione della conformità secondo la sezione 4*a* dell’ODmed nella versione del 26 novembre 2017[^89-9] è stata presentata prima del 26 maggio 2022, la designazione è rilasciata secondo il nuovo diritto.
 
 [^89-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^89-2]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^89-3]: [RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^89-4]: [RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^89-3]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
+[^89-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-5]: Introdotto dalla cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-6]: Introdotto dalla cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-7]: Introdotto dalla cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-8]: [RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^89-9]: [RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 
 #### Art. 90
 
@@ -1402,7 +1455,7 @@ Allegato 2[^t-1]
 
 ## Diritto applicabile
 
-[^t-1]: Aggiornato dall’all. 2 n. II 103 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^t-1]: Aggiornato dall’all. 2 cifra II n. 103 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 1 Diritto UE
 
@@ -1476,11 +1529,11 @@ Allegato 4
 
 Il marchio di conformità è indicato nel modo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/it/xml/image/image1.png)
 
 Se occorre fare ricorso a un organismo designato, oltre al marchio di conformità va indicato anche il numero d’identificazione di tale organismo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/it/xml/image/image2.png)
 
 Allegato 5
 

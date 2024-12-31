@@ -4,11 +4,11 @@ title: Ordonnance du 4 mai 2022 sur les dispositifs médicaux de diagnostic in v
 short: ODiv
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: fr
-version: 2023-11-01
+version: 2025-01-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-291-20231101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-291-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/fr"
 
 (ODiv)
 
-du 4 mai 2022 (État le 1<sup>er</sup> novembre 2023)
+du 4 mai 2022 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -103,7 +103,7 @@ On entend par:
 - b. *mise sur le marché:* la première mise à disposition sur le marché suisse d’un dispositif, autre qu’un dispositif faisant l’objet d’une étude des performances;
 - c. *mise en service:* le stade auquel un dispositif prêt à être utilisé, autre qu’un dispositif faisant l’objet d’une étude des performances, est mis à la disposition des utilisateurs finaux pour être utilisé pour la première fois sur le marché suisse conformément à sa destination;
 - d. *maintenance**:* des mesures telles que l’entretien, les mises à jour logicielles, les inspections, les réparations, la préparation à la première utilisation et les retraitements en vue de réutiliser, de maintenir ou de rétablir le bon fonctionnement d’un dispositif;
-- e.[^4-1] *fabricant*: toute personne physique ou morale qui fabrique ou remet à neuf un dispositif ou le fait concevoir, fabriquer ou remettre à neuf et qui le commercialise sous son nom ou sous sa marque, sous réserve des précisions et exceptions énoncées à l’art. 16, par. 1 et 2, du règlement (UE) 2017/746 (RDIV-UE)[^4-2];
+- e.[^4-1] *fabricant:* toute personne physique ou morale qui fabrique ou remet à neuf un dispositif ou le fait concevoir, fabriquer ou remettre à neuf et qui le commercialise sous son nom ou sous sa marque, sous réserve des précisions et exceptions énoncées à l’art. 16, par. 1 et 2, du règlement (UE) 2017/746 sur les dispositifs médicaux de diagnostic in vitro (RDIV-UE)[^4-2];
 - f. *mandataire**:* toute personne physique ou morale établie en Suisse recevant le mandat écrit d’un fabricant sis à l’étranger pour agir pour le compte du fabricant aux fins de l’accomplissement de tâches déterminées liées aux obligations incombant à ce dernier en vertu de la présente ordonnance;
 - g. *importateur**:* toute personne physique ou morale établie en Suisse qui met sur le marché suisse un dispositif provenant de l’étranger;
 - h. *distributeur:* toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un dispositif à disposition sur le marché suisse, jusqu’au stade de sa mise en service;
@@ -115,8 +115,8 @@ On entend par:
 
 <sup>2</sup> Au surplus, les définitions de l’art. 2, ch. 3, 5 à 19, 24, 30 à 41, 44 et 45, 49 à 56, 60 à 72, et 74, RDIV-UE sont applicables.
 
-[^4-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^4-2]: Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, JO L 117 du 5.5.2017, p. 176; modifié en dernier lieu par le règlement (UE) 2023/607, JO L 80 du 20.3.2023, p. 24.
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^4-2]: Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, JO L 117 du 5.5.2017, p. 176; modifié en dernier lieu par le règlement (UE) 2024/1860, JO L, 2024/1860, 9.7.2024.
 
 #### Art. 5
 
@@ -287,7 +287,10 @@ L’information relative au dispositif peut être rédigée dans moins de trois 
 
 <sup>8</sup> Les informations fournies conformément à l’annexe I, chapitre III, RDIV-UE, avec les dispositifs d’autodiagnostic ou les dispositifs de diagnostic près du patient doivent être facilement compréhensibles et rédigées dans les trois langues officielles.
 
+<sup>9</sup> Pour les dispositifs qui ne sont pas destinés à l’autodiagnostic et qui ne sont pas mis sur le marché conformément aux art. 81 et 82, les informations relatives au mandataire définies à l’annexe I, chapitre III, section 20.2, let. d, RDIV-UE peuvent être apposées sur un document accompagnant le dispositif.[^15-2]
+
 [^15-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
+[^15-2]: Introduit par le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 16
 
@@ -1076,6 +1079,8 @@ Les cantons sont responsables de la surveillance:
 
 **Attributions**
 
+<sup>1</sup>
+
 Afin de vérifier la conformité des dispositifs, les autorités chargées de la surveillance au sens de l’art. 69 peuvent, gratuitement:
 
 - a. exiger les preuves et les informations nécessaires;
@@ -1196,9 +1201,22 @@ La modification d’autres actes est réglée dans l’annexe 5.
 
 #### Art. 81
 
-**Validité des certificats établis sous l’ancien droit**
+**Validité des certificats établis sous l’ancien droit**[^81-1]
 
-Les certificats établis en vertu de l’ancien droit restent valables jusqu’à l’échéance indiquée dans le document, mais au plus tard jusqu’au 26 mai 2025.
+<sup>1</sup> Les certificats établis avant le 25 mai 2017 en vertu de l’ancien droit restent valables jusqu’à l’échéance indiquée dans le document, mais au plus tard jusqu’au 26 mai 2025.
+
+<sup>2</sup> Les certificats établis depuis le 25 mai 2017 en vertu de l’ancien droit qui étaient valables le 26 mai 2022 et qui n’ont pas été révoqués par la suite sont réputés valables au-delà de l’échéance indiquée dans le document, jusqu’au 31 décembre 2027.
+
+<sup>3</sup>
+
+Les certificats établis depuis le 25 mai 2017 en vertu de l’ancien droit, valables le 26 mai 2022 et échus avant le 9 juillet 2024 sont réputés valables jusqu’au 31 décembre 2027 si l’une des conditions suivantes est remplie:
+
+- a. avant l’échéance des certificats, le fabricant et un organisme désigné satisfaisant aux exigences du chapitre 4 ou un organisme notifié satisfaisant aux exigences du RDIV-UE[^81-2] sis dans un État de l’UE ou de l’EEE ont conclu un accord écrit régi par l’annexe VII, section 4.3, al. 2, RDIV-UE et portant sur l’évaluation de la conformité des dispositifs auxquels s’appliquent les certificats arrivés à échéance ou des dispositifs destinés à remplacer ces dispositifs;
+- b. Swissmedic a accordé une dérogation à la procédure d’évaluation de la conformité en vertu de l’art. 18, al. 1, let. a ou une autorité compétente d’un État de l’UE ou de l’EEE a accordé une dérogation à la procédure d’évaluation de la conformité en vertu de l’art. 54, par. 1, RDIV-UE;
+- c. l’autorité compétente a, dans l’exercice de ses activités de surveillance du marché régies par l’art. 66, al. 2, de la présente ordonnance ou par l’art. 92, par. 1, RDIV-UE, enjoint au fabricant de réaliser la procédure d’évaluation de la conformité applicable.
+
+[^81-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^81-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
 
 #### Art. 82
 
@@ -1206,26 +1224,53 @@ Les certificats établis en vertu de l’ancien droit restent valables jusqu’�
 
 <sup>1</sup>
 
-Les dispositifs suivants peuvent être mis sur le marché ou mis en service jusqu’aux dates ci-après à condition qu’ils soient toujours conformes à l’ancien droit à compter du 26 mai 2022 et que leur conception ou leur destination n’ait pas fait l’objet de modifications essentielles:
+Les dispositifs suivants peuvent être mis sur le marché ou mis en service jusqu’à la date indiquée:
 
-- a. les dispositifs possédant un certificat valable au sens de l’art. 81, jusqu’au 26 mai 2025;
+- a. les dispositifs possédant un certificat valable au sens de l’art. 81, jusqu’au 31 décembre 2027;
 - b.
 
-  les dispositifs dont la conformité pouvait, en vertu de l’ancien droit, être évaluée sans l’intervention d’un organisme désigné, mais pour lesquels la présente ordonnance requiert une telle intervention, et qui font l’objet d’une déclaration de conformité établie avant le 26 mai 2022 en vertu de l’ancien droit:
+  les dispositifs dont la conformité pouvait, en vertu de l’ancien droit, être évaluée sans l’intervention d’un organisme désigné, pour lesquels une déclaration de conformité a été établie avant le 26 mai 2022 et pour lesquels la procédure d’évaluation de la conformité requiert, en vertu de la présente ordonnance, l’intervention d’un organisme désigné:
 
-  - 1\. dispositifs de classe D, jusqu’au 26 mai 2025,
-  - 2\. dispositifs de classe C, jusqu’au 26 mai 2026,
-  - 3\. dispositifs de classe B, jusqu’au 26 mai 2027,
-  - 4\. dispositifs de classe A mis sur le marché à l’état stérile, jusqu’au 26 mai 2027.
+  - 1\. dispositifs de classe D, jusqu’au 31 décembre 2027,
+  - 2\. dispositifs de classe C, jusqu’au 31 décembre 2028,
+  - 3\. dispositifs de classe B, jusqu’au 31 décembre 2029,
+  - 4\. dispositifs de classe A mis sur le marché à l’état stérile, jusqu’au 31 décembre 2029.[^82-1]
+
+<sup>1bis</sup>
+
+La mise sur le marché ou la mise en service des dispositifs visés à l’al. 1 n’est admise que si les conditions suivantes sont remplies:
+
+- a. ils sont toujours conformes à l’ancien droit;
+- b. leur conception et leur destination n’ont pas fait l’objet de modifications essentielles;
+- c. ils ne présentent pas un risque inacceptable pour la santé ou la sécurité des patients, des utilisateurs ou d’autres personnes ou pour d’autres aspects liés à la protection de la santé publique;
+- d. le fabricant a mis en place au plus tard le 26 mai 2025 un système de gestion de la qualité conforme à l’art. 10, al. 8, RDIV-UE[^82-2];
+- e.
+
+  le fabricant ou le mandataire a, au plus tard à la date indiquée, déposé auprès d’un organisme désigné satisfaisant aux exigences du chapitre 4 ou d’un organisme notifié satisfaisant aux exigences du RDIV-UE et sis dans un État de l’UE ou de l’EEE une demande formelle régie par l’annexe VII, section 4.3, al. 1, RDIV-UE et portant sur l’évaluation de la conformité des dispositifs suivants ou des dispositifs destinés à les remplacer:
+
+  - 1\. pour les dispositifs visés à l’al. 1, let. a et b, ch. 1, jusqu’au 26 mai 2025,
+  - 2\. pour les dispositifs visés à l’al. 1, let. b, ch. 2, jusqu’au 26 mai 2026,
+  - 3\. pour les dispositifs visés à l’al. 1, let. b, ch. 3 et 4, jusqu’au 26 mai 2027;
+
+- f.
+
+  le fabricant et l’organisme désigné ou notifié visé à la let. e ont signé au plus tard à la date indiquée un accord écrit régi par l’annexe VII, section 4.3, al. 2, RDIV-UE:
+
+  - 1\. pour les dispositifs visés à l’al. 1, let. a et b, ch. 1, jusqu’au 26 septembre 2025,
+  - 2\. pour les dispositifs visés à l’al. 1, let. b, ch. 2, jusqu’au 26 septembre 2026, et
+  - 3\. pour les dispositifs visés à l’al. 1, let. b, ch. 3 et 4, jusqu’au 26 septembre 2027.[^82-3]
 
 <sup>2</sup> Les dispositions de la présente ordonnance s’appliquent à la surveillance après commercialisation des dispositifs visés à l’al. 1, à la surveillance du marché, à la vigilance ainsi qu’à l’enregistrement des opérateurs économiques et de ces dispositifs.
 
-<sup>3</sup> Les dispositifs mis légalement sur le marché avant le 26 mai 2022 en vertu de l’ancien droit et les dispositifs mis légalement sur le marché à compter du 26 mai 2022 conformément à l’al. 1 peuvent continuer à être mis à disposition sur le marché ou mis en service.[^82-1]
+<sup>3</sup> Les dispositifs mis légalement sur le marché avant le 26 mai 2022 en vertu de l’ancien droit et les dispositifs mis légalement sur le marché à compter du 26 mai 2022 conformément à l’al. 1 peuvent continuer à être mis à disposition sur le marché ou mis en service.[^82-4]
 
-<sup>4</sup> …[^82-2]
+<sup>4</sup> …[^82-5]
 
-[^82-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^82-2]: Abrogé par l’annexe ch. 2 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^82-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
+[^82-3]: Introduit par le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^82-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-5]: Abrogé par l’annexe ch. 2 de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 83
 
@@ -1234,9 +1279,10 @@ Les dispositifs suivants peuvent être mis sur le marché ou mis en service jusq
 Les exigences de l’art. 9 pour les dispositifs fabriqués et utilisés dans des établissements de santé sont applicables à partir des dates suivantes:
 
 - a. exigences visées à l’art. 5, par. 5, let. b, c et e à i, RDIV-UE[^83-1], à partir du 26 mai 2024;
-- b. exigences visées à l’art. 5, par. 5, let. d, RDIV-UE, à partir du 26 mai 2028.
+- b.[^83-2] exigences visées à l’art. 5, par. 5, let. d, RDIV-UE, à partir du 31 décembre 2030.
 
 [^83-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
+[^83-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 84
 
@@ -1269,11 +1315,9 @@ Si le fabricant a son siège dans un État de l’UE ou de l’EEE ou s’il a m
 
 #### Art. 87
 
-**Apposition des informations relatives au mandataire**
+[^87-1]
 
-Pour les dispositifs qui ne sont pas destinés à l’autodiagnostic et qui sont mis sur le marché conformément au nouveau droit, les informations relatives au mandataire au sens de l’art. 44, al. 1 de la présente ordonnance et définies dans l’annexe I, chapitre III, section 20.2, let. d, RDIV-UE[^87-1] peuvent jusqu’au 31 mars 2025 être apposées sur un document accompagnant le dispositif.
-
-[^87-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
+[^87-1]: Abrogé par le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 88
 
@@ -1290,16 +1334,27 @@ Les opérateurs économiques qui ont mis sur le marché des dispositifs avant le
 
 <sup>1</sup> Les désignations octroyées aux organismes d’évaluation de la conformité en vertu de la section 4 ODim[^89-1] dans sa version du 26 novembre 2017[^89-2] pour les dispositifs médicaux de diagnostic in vitro perdent leur validité.
 
-<sup>2</sup> L’organisme d’évaluation de la conformité qui a établi les certificats en vertu de l’ancien droit reste responsable de la surveillance appropriée de ces dispositifs. Il est soumis à la surveillance de Swissmedic.
+<sup>2</sup> L’organisme d’évaluation de la conformité dont la désignation a perdu sa validité en vertu de l’al. 1 et qui a établi les certificats en vertu de l’ancien droit continue d’être responsable de la surveillance appropriée en ce qui concerne l’ensemble des exigences applicables relatives aux dispositifs qu’il a certifiés, sauf si le fabricant a convenu avec un organisme désigné satisfaisant aux exigences du chap. 4 ou avec un organisme notifié satisfaisant aux exigences du RDIV-UE[^89-3] que ce dernier se chargera de cette surveillance.[^89-4]
 
-<sup>3</sup> Les désignations octroyées aux organismes d’évaluation de la conformité en vertu de la section 4*a* ODim dans sa version du 26 novembre 2017[^89-3] pour les dispositifs médicaux de diagnostic in vitro conservent leur validité.
+<sup>2bis</sup> L’organe désigné visé à l’art. 82, al. 1<sup>bis</sup>, let. f, est responsable au plus tard à partir du 26 septembre 2025 de la surveillance des dispositifs au sujet desquels a été conclu l’accord écrit. Si l’accord écrit porte sur des dispositifs destinés à remplacer des dispositifs pour lesquels des certificats ont été établis selon l’ancien droit, la surveillance porte sur les dispositifs remplacés.[^89-5]
 
-<sup>4</sup> Les demandes de désignation comme organisme d’évaluation de la conformité déposées avant le 26 mai 2022 en vertu de la section 4*a* ODim dans sa version du 26 novembre 2017[^89-4] sont traitées conformément au nouveau droit.
+<sup>2ter</sup> Les dispositions à prendre pour passer de l’organisme désigné qui a établi le certificat à un organisme désigné satisfaisant aux exigences du chap. 4 ou à un organisme notifié satisfaisant aux exigences du RDIV-UE sis dans un État de l’UE ou de l’EEE sont réglées dans un accord écrit conclu entre le fabricant et l’organisme qui reprend la surveillance ainsi que, si possible, l’organisme désigné qui a établi le certificat. L’organisme désigné satisfaisant aux exigences du chap. 4 n’est pas responsable des activités d’évaluation de la conformité réalisées par l’organisme désigné qui a établi le certificat.[^89-6]
+
+<sup>2quater</sup> L’organisme d’évaluation de la conformité dont la désignation n’est plus valable en vertu de l’al. 1 et qui reste responsable de la surveillance en vertu de l’al. 2 est soumis à la surveillance de Swissmedic.[^89-7]
+
+<sup>3</sup> Les désignations octroyées aux organismes d’évaluation de la conformité en vertu de la section 4*a* ODim dans sa version du 26 novembre 2017[^89-8] pour les dispositifs médicaux de diagnostic in vitro conservent leur validité.
+
+<sup>4</sup> Les demandes de désignation comme organisme d’évaluation de la conformité déposées avant le 26 mai 2022 en vertu de la section 4*a* ODim dans sa version du 26 novembre 2017[^89-9] sont traitées conformément au nouveau droit.
 
 [^89-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^89-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^89-3]: [RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^89-4]: [RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^89-3]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
+[^89-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-5]: Introduit par le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-6]: Introduit par le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-7]: Introduit par le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-8]: [RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^89-9]: [RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 
 #### Art. 90
 
@@ -1474,11 +1529,11 @@ Annexe 4
 
 La représentation graphique du marquage de conformité est la suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/fr/xml/image/image1.png)
 
 En cas de recours à un organisme désigné, le numéro d’identification de l’organisme est ajouté à côté du marquage de conformité.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/fr/xml/image/image2.png)
 
 Annexe 5
 

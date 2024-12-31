@@ -4,11 +4,11 @@ title: Ordinance of 26 May 2022 on In Vitro Diagnostic Medical Devices (IvDO)
 short: IvDO
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: en
-version: 2023-11-01
+version: 2025-01-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/en/xml/fedlex-data-admin-ch-eli-cc-2022-291-20231101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2022-291-20250101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (IvDO)
 
-of 4 May 2022 (Status as of 1 November 2023)
+of 4 May 2022 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -120,7 +120,7 @@ In this Ordinance:
 
 <sup>2</sup> The definitions set out in Article 2 points 3, 5–19, 24, 30–41, 44–45, 49–56, 60–72 and 74 EU-IVDR also apply.
 
-[^4-1]: Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^4-1]: Amended by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 [^4-2]: Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU, OJ L 117 of 5.5.2017, p. 176; last amended by Regulation (EU) 2023/607, OJ L 80 of 20.3.2023, p. 24.
 
 #### Art. 5
@@ -290,9 +290,12 @@ The product information may be provided in fewer than the three official languag
 
 <sup>7</sup> Misleading or contradictory information on a device's intended purpose, safety and performance is forbidden.
 
-<sup>8</sup> For devices for self-testing or for near-patient testing, the information stated in Chapter III of Annex I to EU-IVDR should be easily understandable and written in the three official languages.
+<sup>8</sup> For devices for self-testing or for near-patient testing, the information stated in Chapter III of Annex I EU-IVDR should be easily understandable and written in the three official languages.
+
+<sup>9</sup> For devices not intended for self-testing and not placed on the market in accordance with Articles 81 and 82, the details of the authorised representative as specified in Chapter III section 20.2 letter d of Annex I EU-IVDR may be provided in a document accompanying the device.[^15-2]
 
 [^15-1]: See the footnote to Art. 4 para. 1 let. e.
+[^15-2]: Inserted by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 16
 
@@ -860,8 +863,8 @@ This report must contain:
 
 The safety report must contain:
 
-- a. a summary of the results and conclusions of the analyses of the data gathered as a result of the plan in accordance with Article 51;
-- b. a description of any preventive and corrective actions taken and their rationale.
+- a summary of the results and conclusions of the analyses of the data gathered as a result of the plan in accordance with Article 51;
+- a description of any preventive and corrective actions taken and their rationale.
 
 <sup>2</sup>
 
@@ -1201,9 +1204,22 @@ The amendment of other legislation is regulated in Annex 5.
 
 #### Art. 81
 
-**Validity of certificates issued under the old legislation**
+**Validity of certificates issued under the old legislation**[^81-1]
 
-Certificates issued under the old legislation retain their validity until the expiry date stated therein, but no longer than 26 May 2025.
+<sup>1</sup> Certificates issued before 25 May 2017 under the old legislation retain their validity until the expiry date stated therein, but no longer than 26 May 2025.
+
+<sup>2</sup> Certificates that have been issued since 25 May 2017 under the old legislation, were valid on 26 May 2022 and have not subsequently been revoked shall, following expiry of the period indicated on the certificate, be deemed valid until 31 December 2027.
+
+<sup>3</sup>
+
+Certificates that have been issued since 25 May 2017 under the old legislation, were valid on 26 May 2022 and expired before 9 July 2024 shall be deemed valid until 31 December 2027 if any of the following conditions is met:
+
+- a. Before the certificates expired, the manufacturer and a designated body in accordance with Chapter 4 or a notified body in accordance with EU-IVDR[^81-2] domiciled in an EU or EEA state signed a written agreement in accordance with section 4.3 subparagraph 2 of Annex VII EU-IVDR regarding the conformity assessment of devices with expired certificates or devices intended as their replacements.
+- b. Swissmedic has granted an exemption from the applicable conformity assessment procedure in accordance with Article 18 paragraph 1 letter a, or a competent authority of an EU or EEA state has granted a derogation from the applicable conformity assessment procedure in accordance with Article 54 paragraph 1 EU-IVDR.
+- c. Within the context of market surveillance activities as described in Article 66 paragraph 2 of this Ordinance or in Article 92 paragraph 1 EU-IVDR, the competent authority has required the manufacturer to carry out the applicable conformity assessment procedure.
+
+[^81-1]: Amended by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^81-2]: See footnote to Art. 4 para. 1 let. e.
 
 #### Art. 82
 
@@ -1211,37 +1227,65 @@ Certificates issued under the old legislation retain their validity until the ex
 
 <sup>1</sup>
 
-Provided the following devices continue to comply with the old legislation as of 26 May 2022 and have not undergone any significant changes in their design or intended purpose, they may be placed on the market or put into service until the following dates:
+The following devices may be placed on the market or put into service until the specified dates:
 
-- a. devices with a certificate valid under Article 81: until 26 May 2025;
+- a. devices with a certificate valid under Article 81: until 31 December 2027;
 - b.
 
-  devices that did not require the involvement of a designated body in connection with the conformity assessment procedure according to the old legislation, but which is now required by this Ordinance, and for which a declaration of conformity was issued before 26 May 2022 under the old legislation:
+  devices that did not require the involvement of a designated body for the conformity assessment procedure under the old legislation, for which a declaration of conformity was issued before 26 May 2022 and which require the involvement of a designated body for the conformity assessment procedure in accordance with this Ordinance:
 
-  - 1\. Class D devices: until 26 May 2025,
-  - 2\. Class C devices: until 26 May 2026,
-  - 3\. Class B devices: until 26 May 2027,
-  - 4\. Class A devices placed on the market in a sterile condition: until 26 May 2027.
+  - 1\. Class D devices: until 31 December 2027,
+  - 2\. Class C devices: until 31 December 2028,
+  - 3\. Class B devices: until 31 December 2029,
+  - 4\. Class A devices placed on the market in a sterile condition: until 31 December 2029.[^82-1]
+
+<sup>1bis</sup>
+
+Devices shall not be placed on the market or brought into service in accordance with paragraph 1 unless the following conditions have been met:
+
+- a. The devices still conform with the old legislation.
+- b. The devices have not undergone any significant changes in their design or intended purpose.
+- c. The devices do not pose any unacceptable risks to the health and safety of patients, users or other persons or to any other aspects of public health protection.
+- d. The manufacturer has established a quality management system in accordance with Article 10 paragraph 8 EU-IVDR[^82-2] by no later than 26 May 2025.
+- e.
+
+  The manufacturer or authorised representative has submitted, by the date specified, a formal application in accordance with Annex VII section 4.3 subparagraph 1 EU-IVDR for assessment of the conformity of the following devices or of devices intended to replace the following devices to a designated body in accordance with Chapter 4 or a notified body in accordance with EU-IVDR domiciled in an EU or EEA state:
+
+  - 1\. for products specified in paragraph 1 letters a and b number 1: by 26 May 2025;
+  - 2\. for products specified in paragraph 1 letter b number 2: by 26 May 2026;
+  - 3\. for products specified in paragraph 1 letter b numbers 3 and 4: by 26 May 2027.
+
+- f.
+
+  The manufacturer and the designated or notified body in accordance with letter e has signed a written agreement in accordance with Annex VII section 4.3 subparagraph 2 EU-IVDR by the specified date:
+
+  - 1\. for products specified in paragraph 1 letters a and b number 1: by 26 September 2025;
+  - 2\. for products specified in paragraph 1 letter b number 2: by 26 September 2026;
+  - 3\. for products specified in paragraph 1 letter b numbers 3 and 4: by 26 September 2027.[^82-3]
 
 <sup>2</sup> The post-market surveillance of devices specified in paragraph 1, their market surveillance, vigilance, registration of economic operators and of the devices themselves are subject to the provisions of this Ordinance.
 
-<sup>3</sup> Devices legally placed on the market prior to 26 May 2022 under the old legislation and devices legally placed on the market in accordance with paragraph 1 from 26 May 2022 may continue to be made available on the market or put into service.[^82-1]
+<sup>3</sup> Devices legally placed on the market prior to 26 May 2022 under the old legislation and devices legally placed on the market in accordance with paragraph 1 from 26 May 2022 may continue to be made available on the market or put into service.[^82-4]
 
-<sup>4</sup> …[^82-2]
+<sup>4</sup> …[^82-5]
 
-[^82-1]: Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^82-2]: Repealed by Annex No 2 of the O of 29 Sept. 2023, with effect from 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-1]: Amended by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^82-2]: See footnote to Art. 4 para. 1 let. e.
+[^82-3]: Inserted by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^82-4]: Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-5]: Repealed by Annex No 2 of the O of 29 Sept. 2023, with effect from 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 83
 
 **Requirements for devices manufactured and used in healthcare institutions**
 
-The requirements set out in Article 9 for devices manufactured and used in healthcare institutions shall apply from the following dates:
+The requirements set out in Article 9 for devices manufactured and used in healthcare institutions apply from the following dates:
 
 - a. the requirements set out in Article 5 paragraph 5 letters b, c and e-i EU-IVDR[^83-1]: from 26 May 2024;
-- b. the requirements set out in Article 5 paragraph 5 letter d EU-IVDR: 26 May 2028.
+- b.[^83-2] the requirements set out in Article 5 paragraph 5 letter d EU-IVDR: from 31 December 2030.
 
 [^83-1]: See the footnote to Art. 4 para. 1 let. e
+[^83-2]: Amended by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 84
 
@@ -1274,11 +1318,9 @@ If the manufacturer is domiciled in an EU or EEA state or has designated an auth
 
 #### Art. 87
 
-**Placing information about the authorised representative**
+[^87-1]
 
-For devices which are not intended for self-testing and are placed on the market according to the new legislation, the information specified in Annex 1 Chapter III Section 20.2 letter d EU-IVDR[^87-1] about the authorised representative according to Article 44 paragraph 1 of this Ordinance may be included in a document accompanying the device until 31 March 2025.
-
-[^87-1]: See the footnote to Art. 4 para.1 let. e
+[^87-1]: Repealed by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), with effect from 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 88
 
@@ -1295,16 +1337,27 @@ Economic operators that have placed devices on the market prior to 26 May 2022 i
 
 <sup>1</sup> Conformity assessment body designations issued under Section 4 of MedDO[^89-1] in the version dated 26 November 2017[^89-2] shall become void for in vitro diagnostic medical devices.
 
-<sup>2</sup> The conformity assessment body that issued the certificates under the old legislation remains responsible for the appropriate surveillance of these devices. It is subject to supervision by Swissmedic.
+<sup>2</sup> A conformity assessment body whose designation has become void in accordance with paragraph 1 and that issued the certificates under the old legislation remains responsible for the appropriate surveillance of all applicable requirements relating to the devices it has certified, unless the manufacturer has agreed with a designated body in accordance with Chapter 4 or a notified body in accordance with EU-IVDR[^89-3] domiciled in an EU or EEA state that this body will carry out the surveillance.[^89-4]
 
-<sup>3</sup> Conformity assessment body designations issued under Section 4*a* of MedDO in the version dated 1 August 2020[^89-3] retain their validity for in vitro diagnostic medical devices.
+<sup>2bis</sup> The designated body under Article 82 paragraph 1<sup>bis</sup> letter f shall be responsible for surveillance of the devices covered by the written agreement from 26 September 2025 at the latest. If the written agreement covers devices intended to replace other devices for which certificates were issued under the under the old legislation, the surveillance shall be carried out in relation to the devices that are being replaced.[^89-5]
 
-<sup>4</sup> If an application for designation as a conformity assessment body according to Section 4*a* of MedDO in the version dated 26 November 2017[^89-4] was submitted before 26 May 2022, the designation is issued according to the new legislation.
+<sup>2ter</sup> The arrangements for the transfer of surveillance from the designated body that issued the certificate to a designated body in accordance with Chapter 4 or a notified body in accordance with EU-IVDR domiciled in an EU or EEA state shall be defined in an agreement between the manufacturer and the body that assumes the task of surveillance, and, if possible, the designated body that issued the certificate. The designated body in accordance with Chapter 4 is not responsible for conformity assessment activities that were carried out by the designated body that issued the certificate.[^89-6]
+
+<sup>2quater</sup> A conformity assessment body whose designation has become void in accordance with paragraph 1 and which remains responsible for surveillance in accordance with paragraph 2 shall be subject to supervision by Swissmedic.[^89-7]
+
+<sup>3</sup> Conformity assessment body designations issued under Section 4*a* of MedDO in the version dated 1 August 2020[^89-8] retain their validity for in vitro diagnostic medical devices.
+
+<sup>4</sup> If an application for designation as a conformity assessment body according to Section 4*a* of MedDO in the version dated 26 November 2017[^89-9] was submitted before 26 May 2022, the designation is issued according to the new legislation.
 
 [^89-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^89-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^89-3]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^89-4]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^89-3]: See footnote to Art. 4 para. 1 let. e.
+[^89-4]: Amended by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-5]: Inserted by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-6]: Inserted by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-7]: Inserted by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-8]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^89-9]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 
 #### Art. 90
 
@@ -1489,11 +1542,11 @@ Annex 4
 
 The conformity marking is as follows:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/en/xml/image/image1.png)
 
 Where a designated body has to be involved, its identification number is to be placed beside its conformity marking:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/en/xml/image/image2.png)
 
 Annex 5
 

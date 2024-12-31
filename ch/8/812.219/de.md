@@ -4,11 +4,11 @@ title: Verordnung vom 4. Mai 2022 über In-vitro-Diagnostika (IvDV)
 short: IvDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: de
-version: 2023-11-01
+version: 2025-01-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2022-291-20231101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2022-291-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20231101/de"
 
 (IvDV)
 
-vom 4. Mai 2022 (Stand am 1. November 2023)
+vom 4. Mai 2022 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -66,7 +66,7 @@ Diese Verordnung gilt nicht für:
 
 <sup>1</sup>
 
-Als *In-vitro-Diagnostikum* gilt ein Medizinprodukt nach Artikel 3 Absätze 1 und 2 MepV[^3-1], dass:
+Als *In-vitro-Diagnostikum* gilt ein Medizinprodukt nach Artikel 3 Absätze 1 und 2 MepV[^3-1], das:
 
 - a. als Reagenz, Reagenzprodukt, Kalibrator, Kontrollmaterial, Kit, Instrument, Apparat, Gerät, Software oder System einzeln oder in Verbindung miteinander vom Hersteller zur In-vitro-Untersuchung von aus dem menschlichen Körper stammenden Proben, einschliesslich Blut- und Gewebespenden, bestimmt ist; und
 - b.
@@ -115,8 +115,8 @@ In dieser Verordnung bedeuten:
 
 <sup>2</sup> Es gelten zudem die Begriffe nach Artikel 2 Ziffern 3, 5–19, 24, 30–41, 44–45, 49–56, 60–72 und 74 EU-IVDR.
 
-[^4-1]: Fassung gemäss Anhang Ziff. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^4-2]: Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission, ABl. L 117 vom 5.5.2017, S. 176; zuletzt geändert durch Verordnung (EU) 2023/607, ABl. L 80 vom 20.3.2023, S. 24.
+[^4-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^4-2]: Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über In-vitro-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission, ABl. L 117 vom 5.5.2017, S. 176; zuletzt geändert durch Verordnung (EU) 2024/1860, ABl. L, 2024/1860, 9.7.2024.
 
 #### Art. 5
 
@@ -287,7 +287,10 @@ Die Produktinformation kann sich auf weniger als drei Amtssprachen oder auf Engl
 
 <sup>8</sup> Bei Produkten zur Eigenanwendung oder für patientennahe Tests sind die Informationen gemäss Anhang I Kapitel III EU-IVDR leicht verständlich in den drei Amtssprachen abzufassen.
 
+<sup>9</sup> Bei Produkten, die nicht zur Eigenanwendung bestimmt sind und die nicht gemäss den Artikeln 81 und 82 in Verkehr gebracht werden, können die in Anhang I Kapitel III Abschnitt 20.2. Buchstabe d EU-IVDR festgelegten Angaben zum Bevollmächtigten auf einem dem Produkt beiliegenden Dokument angebracht werden.[^15-2]
+
 [^15-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
+[^15-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 16
 
@@ -1198,9 +1201,22 @@ Die Änderung anderer Erlasse wird in Anhang 5 geregelt.
 
 #### Art. 81
 
-**Gültigkeit altrechtlicher Bescheinigungen**
+**Gültigkeit altrechtlicher Bescheinigungen**[^81-1]
 
-Bescheinigungen, die nach bisherigem Recht ausgestellt worden sind, behalten ihre Gültigkeit bis zum Ende des darin angegebenen Zeitraums, längstens jedoch bis am 26. Mai 2025.
+<sup>1</sup> Bescheinigungen, die vor dem 25. Mai 2017 nach bisherigem Recht ausgestellt worden sind, behalten ihre Gültigkeit bis zum Ende des darin angegebenen Zeitraums, längstens jedoch bis am 26. Mai 2025.
+
+<sup>2</sup> Bescheinigungen, die seit dem 25. Mai 2017 nach bisherigem Recht ausgestellt worden sind, am 26. Mai 2022 gültig waren und anschliessend nicht widerrufen wurden, gelten nach Ablauf des auf der Bescheinigung angegebenen Zeitraums bis zum 31. Dezember 2027 als gültig.
+
+<sup>3</sup>
+
+Bescheinigungen, die seit dem 25. Mai 2017 nach bisherigem Recht ausgestellt worden sind, am 26. Mai 2022 gültig waren und vor dem 9. Juli 2024 abgelaufen sind, gelten bis zum 31. Dezember 2027 als gültig, wenn eine der folgenden Voraussetzungen erfüllt ist:
+
+- a. Vor Ablauf der Bescheinigungen haben der Hersteller und eine nach dem 4. Kapitel bezeichnete Stelle oder eine nach der EU-IVDR[^81-2] benannte Stelle mit Sitz in einem EU- oder EWR-Staat eine schriftliche Vereinbarung gemäss Anhang VII Abschnitt 4.3 Unterabsatz 2 EU-IVDR über die Konformitätsbewertung der Produkte, für die die abgelaufenen Bescheinigungen gelten, oder von Produkten, die dazu bestimmt sind, diese Produkte zu ersetzen, unterzeichnet.
+- b. Die Swissmedic hat gemäss Artikel 18 Absatz 1 Buchstabe a eine Ausnahme vom anzuwendenden Konformitätsbewertungsverfahren gewährt oder eine zuständige Behörde eines EU- oder EWR-Staates hat gemäss Artikel 54 Absatz 1 EU-IVDR eine Ausnahme vom anzuwendenden Konformitätsbewertungsverfahren gewährt.
+- c. Die zuständige Behörde hat im Rahmen der Marktüberwachungstätigkeiten gemäss Artikel 66 Absatz 2 der vorliegenden Verordnung oder gemäss Artikel 92 Absatz 1 EU-IVDR den Hersteller aufgefordert, das anzuwendende Konformitätsbewertungsverfahren durchzuführen.
+
+[^81-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^81-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
 
 #### Art. 82
 
@@ -1208,26 +1224,53 @@ Bescheinigungen, die nach bisherigem Recht ausgestellt worden sind, behalten ihr
 
 <sup>1</sup>
 
-Sofern folgende Produkte ab dem 26. Mai 2022 weiterhin dem bisherigen Recht entsprechen und keine wesentlichen Änderungen der Auslegung und der Zweckbestimmung des betreffenden Produkts vorliegen, können sie bis zu den folgenden Zeitpunkten in Verkehr gebracht oder in Betrieb genommen werden:
+Die folgenden Produkte können bis zum genannten Zeitpunkt in Verkehr gebracht oder in Betrieb genommen werden:
 
-- a. Produkte mit einer nach Artikel 81 gültigen Bescheinigung: bis zum 26. Mai 2025;
+- a. Produkte mit einer nach Artikel 81 gültigen Bescheinigung: bis zum 31. Dezember 2027;
 - b.
 
-  Produkte, für die im Rahmen des Konformitätsbewertungsverfahrens nach dem bisherigen Recht keine Beteiligung einer bezeichneten Stelle erforderlich war, für die eine solche aber nach dieser Verordnung erforderlich ist und die eine vor dem 26. Mai 2022 nach dem bisherigen Recht ausgestellte Konformitätserklärung aufweisen:
+  Produkte, für die das Konformitätsbewertungsverfahren nach bisherigem Recht nicht den Beizug einer bezeichneten Stelle erforderte, für die vor dem 26. Mai 2022 eine Konformitätserklärung ausgestellt wurde und für die das Konformitätsbewertungsverfahren gemäss dieser Verordnung den Beizug einer bezeichneten Stelle erfordert:
 
-  - 1\. Produkte der Klasse D: bis zum 26. Mai 2025,
-  - 2\. Produkte der Klasse C: bis zum 26. Mai 2026,
-  - 3\. Produkte der Klasse B: bis zum 26. Mai 2027,
-  - 4\. Produkte der Klasse A, die in sterilem Zustand in Verkehr gebracht werden: bis zum 26. Mai 2027.
+  - 1\. Produkte der Klasse D: bis zum 31. Dezember 2027,
+  - 2\. Produkte der Klasse C: bis zum 31. Dezember 2028,
+  - 3\. Produkte der Klasse B: bis zum 31. Dezember 2029,
+  - 4\. Produkte der Klasse A, die in sterilem Zustand in Verkehr gebracht werden: bis zum 31. Dezember 2029.[^82-1]
+
+<sup>1bis</sup>
+
+Das Inverkehrbringen oder die Inbetriebnahme von Produkten nach Absatz 1 ist nur dann zulässig, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die Produkte entsprechen weiterhin dem bisherigen Recht.
+- b. Es liegen keine wesentlichen Änderungen der Auslegung und der Zweckbestimmung der Produkte vor.
+- c. Die Produkte stellen kein unannehmbares Risiko für die Gesundheit oder Sicherheit der Patientinnen und Patienten, der Anwenderinnen und Anwender oder anderer Personen oder für andere Aspekte des Schutzes der öffentlichen Gesundheit dar.
+- d. Der Hersteller hat spätestens am 26. Mai 2025 ein Qualitätsmanagementsystem gemäss Artikel 10 Absatz 8 EU-IVDR[^82-2] eingerichtet.
+- e.
+
+  Der Hersteller oder der Bevollmächtigte hat bis zum genannten Zeitpunkt bei einer nach dem 4. Kapitel bezeichneten Stelle oder einer nach der EU-IVDR benannten Stelle mit Sitz in einem EU- oder EWR-Staat einen formellen Antrag gemäss Anhang VII Abschnitt 4.3 Unterabsatz 1 EU-IVDR auf Bewertung der Konformität der folgenden Produkte oder von Produkten, die dazu bestimmt sind, die folgenden Produkte zu ersetzen, gestellt:
+
+  - 1\. für Produkte nach Absatz 1 Buchstaben a und b Ziffer 1: bis zum 26. Mai 2025;
+  - 2\. für Produkte nach Absatz 1 Buchstabe b Ziffer 2: bis zum 26. Mai 2026;
+  - 3\. für Produkte nach Absatz 1 Buchstabe b Ziffern 3 und 4: bis zum 26. Mai 2027.
+
+- f.
+
+  Der Hersteller und die bezeichnete oder benannte Stelle nach Buchstabe e haben bis zum genannten Zeitpunkt eine schriftliche Vereinbarung gemäss Anhang VII Abschnitt 4.3 Unterabsatz 2 EU-IVDR unterzeichnet:
+
+  - 1\. für Produkte nach Absatz 1 Buchstaben a und b Ziffer 1: bis zum 26. September 2025;
+  - 2\. für Produkte nach Absatz 1 Buchstabe b Ziffer 2: bis zum 26. September 2026;
+  - 3\. für Produkte nach Absatz 1 Buchstabe b Ziffern 3 und 4: bis zum 26. September 2027.[^82-3]
 
 <sup>2</sup> Für die Überwachung nach dem Inverkehrbringen der Produkte nach Absatz 1, deren Marktüberwachung, die Vigilance, die Registrierung von Wirtschaftsakteuren und dieser Produkte gelten die Bestimmungen der vorliegenden Verordnung.
 
-<sup>3</sup> Produkte, die vor dem 26. Mai 2022 nach bisherigem Recht rechtmässig in Verkehr gebracht worden sind und Produkte, die ab dem 26. Mai 2022 gemäss Absatz 1 rechtmässig in Verkehr gebracht wurden, können weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden.[^82-1]
+<sup>3</sup> Produkte, die vor dem 26. Mai 2022 nach bisherigem Recht rechtmässig in Verkehr gebracht worden sind und Produkte, die ab dem 26. Mai 2022 gemäss Absatz 1 rechtmässig in Verkehr gebracht wurden, können weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden.[^82-4]
 
-<sup>4</sup> …[^82-2]
+<sup>4</sup> …[^82-5]
 
-[^82-1]: Fassung gemäss Anhang Ziff. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^82-2]: Aufgehoben durch Anhang Ziff. 2 der V vom 29. Sept. 2023, mit Wirkung seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^82-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
+[^82-3]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^82-4]: Fassung gemäss Anhang Ziff. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
+[^82-5]: Aufgehoben durch Anhang Ziff. 2 der V vom 29. Sept. 2023, mit Wirkung seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 83
 
@@ -1236,9 +1279,10 @@ Sofern folgende Produkte ab dem 26. Mai 2022 weiterhin dem bisherigen Recht ents
 Die Anforderungen gemäss Artikel 9 für Produkte, die in Gesundheitseinrichtungen hergestellt und verwendet werden, sind ab den folgenden Zeitpunkten anwendbar:
 
 - a. die Anforderungen nach Artikel 5 Absatz 5 Buchstaben b, c und e–i EU-IVDR[^83-1]: ab dem 26. Mai 2024;
-- b. die Anforderungen nach Artikel 5 Absatz 5 Buchstabe d EU-IVDR: ab dem 26. Mai 2028.
+- b.[^83-2] die Anforderungen nach Artikel 5 Absatz 5 Buchstabe d EU-IVDR: ab dem 31. Dezember 2030.
 
 [^83-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
+[^83-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 84
 
@@ -1271,11 +1315,9 @@ Hat der Hersteller seinen Sitz in einem EU- oder EWR-Staat oder hat er eine Pers
 
 #### Art. 87
 
-**Anbringung der Angaben des Bevollmächtigten**
+[^87-1]
 
-Bei Produkten, die nicht zur Eigenanwendung bestimmt sind und die gemäss neuem Recht in Verkehr gebracht werden, können die in Anhang I Kapitel III Abschnitt 20.2. Buchstabe d EU-IVDR[^87-1] festgelegten Angaben zum Bevollmächtigten nach Artikel 44 Absatz 1 dieser Verordnung bis zum 31. März 2025 auf einem dem Produkt beiliegenden Dokument angebracht werden.
-
-[^87-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
+[^87-1]: Aufgehoben durch Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), mit Wirkung seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
 
 #### Art. 88
 
@@ -1292,16 +1334,27 @@ Wirtschaftsakteure, die Produkte vor dem 26. Mai 2022 gemäss Artikel 22*a* MepV
 
 <sup>1</sup> Bezeichnungen von Konformitätsbewertungsstellen nach dem 4. Abschnitt der MepV[^89-1] in der Fassung vom 26. November 2017[^89-2] für In-vitro-Diagnostika verlieren ihre Gültigkeit.
 
-<sup>2</sup> Die Konformitätsbewertungsstelle, welche die Bescheinigungen nach bisherigem Recht ausgestellt hat, ist weiterhin für die angemessene Überwachung dieser Produkte verantwortlich. Sie unterliegt der Aufsicht der Swissmedic.
+<sup>2</sup> Die Konformitätsbewertungsstelle, deren Bezeichnung gemäss Absatz 1 ihre Gültigkeit verloren hat und die die Bescheinigungen nach bisherigem Recht ausgestellt hat, ist weiterhin für die angemessene Überwachung aller geltenden Anforderungen an Produkte mit solchen Bescheinigungen verantwortlich, es sei denn, der Hersteller hat mit einer nach dem 4. Kapitel bezeichneten Stelle oder mit einer nach der EU‑IVDR[^89-3] benannten Stelle mit Sitz in einem EU- oder EWR-Staat vereinbart, dass diese die Überwachung durchführt.[^89-4]
 
-<sup>3</sup> Bezeichnungen von Konformitätsbewertungsstellen nach dem 4*a*. Abschnitt der MepV in der Fassung vom 26. November 2017[^89-3] für In-vitro-Diagnostika behalten ihre Gültigkeit.
+<sup>2bis</sup> Die bezeichnete Stelle nach Artikel 82 Absatz 1<sup>bis</sup> Buchstabe f ist spätestens ab dem 26. September 2025 für die Überwachung der unter die schriftliche Vereinbarung fallenden Produkte verantwortlich. Betrifft die schriftliche Vereinbarung Produkte, die dazu bestimmt sind, Produkte zu ersetzen, für die Bescheinigungen nach bisherigem Recht ausgestellt wurden, so wird die Überwachung in Bezug auf die ersetzten Produkte durchgeführt.[^89-5]
 
-<sup>4</sup> Wurde ein Gesuch um Bezeichnung als Konformitätsbewertungsstelle nach dem 4*a*. Abschnitt der MepV in der Fassung vom 26. November 2017[^89-4] vor dem 26. Mai 2022 eingereicht, so wird es gemäss neuem Recht behandelt.
+<sup>2ter</sup> Die Vorkehrungen für die Übertragung der Überwachung von der bezeichneten Stelle, die die Bescheinigung ausgestellt hat, auf eine nach dem 4. Kapitel bezeichnete Stelle oder eine nach der EU-IVDR benannte Stelle mit Sitz in einem EU- oder EWR‑Staat werden in einer Vereinbarung zwischen dem Hersteller und der Stelle, die die Überwachung übernimmt, und, soweit möglich, der bezeichneten Stelle, die die Bescheinigung ausgestellt hat, geregelt. Die nach dem 4. Kapitel bezeichnete Stelle ist nicht für Konformitätsbewertungstätigkeiten verantwortlich, die von der bezeichneten Stelle, die die Bescheinigung ausgestellt hat, durchgeführt wurden.[^89-6]
+
+<sup>2quater</sup> Die Konformitätsbewertungsstelle, deren Bezeichnung gemäss Absatz 1 ihre Gültigkeit verloren hat und die weiterhin für die Überwachung nach Absatz 2 verantwortlich ist, unterliegt der Aufsicht der Swissmedic.[^89-7]
+
+<sup>3</sup> Bezeichnungen von Konformitätsbewertungsstellen nach dem 4*a*. Abschnitt der MepV in der Fassung vom 26. November 2017[^89-8] für In-vitro-Diagnostika behalten ihre Gültigkeit.
+
+<sup>4</sup> Wurde ein Gesuch um Bezeichnung als Konformitätsbewertungsstelle nach dem 4*a*. Abschnitt der MepV in der Fassung vom 26. November 2017[^89-9] vor dem 26. Mai 2022 eingereicht, so wird es gemäss neuem Recht behandelt.
 
 [^89-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^89-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^89-3]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^89-4]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^89-3]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
+[^89-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-6]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-7]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
+[^89-8]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^89-9]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 
 #### Art. 90
 
@@ -1476,11 +1529,11 @@ Anhang 4
 
 Für die Angabe des Konformitätskennzeichens gilt folgende Darstellung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/de/xml/image/image1.png)
 
 Sofern eine bezeichnete Stelle beigezogen werden muss, ist neben ihrem Konformitätskennzeichen auch ihre Kennnummer anzugeben.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20231101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/de/xml/image/image2.png)
 
 Anhang 5
 
