@@ -1,22 +1,21 @@
 ---
 canton: BL
 number: "571.12"
-title: Vereinbarung über das Forstamt beider Basel
+title: Vereinbarung über das Amt für Wald und Wild beider Basel (AfWW beider Basel)
 language: de
-version: 1994-10-31
-valid_until: 2024-12-31
-version_adopted: 1994-01-04
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 1994-01-04
 in_force: 1994-10-31
 url: "https://bl.clex.ch/app/de/texts_of_law/571.12"
-pdf: "https://bl.clex.ch/api/de/versions/569/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4108/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vereinbarung über das Forstamt beider Basel
+# Vereinbarung über das Amt für Wald und Wild beider Basel (AfWW beider Basel)
 
-Vom 04.01.1994 (Stand 31.10.1994)
+Vom 04.01.1994 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Stadt, gestützt auf § 4 des Organisationsgesetzes vom 22. April 1976[^ingress-1], und der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 77 der Kantonsverfassung vom 17. Mai 1984[^ingress-2], in Ausführung von Artikel 51 des Waldgesetzes vom 4. Oktober 1991[^ingress-3], § 6 Absatz 2 des Kantonalen Forstgesetzes vom 28. Januar 1966[^ingress-4] und § 2 Absatz 1 des Dekrets vom 3. Dezember 1903[^ingress-5] über die Forstpolizei, vereinbaren:
 
@@ -32,7 +31,7 @@ Der Regierungsrat des Kantons Basel-Stadt, gestützt auf § 4 des Organisationsg
 
 <sup>1</sup> Die Kantone Basel-Stadt und Basel-Landschaft betreiben zur Erfüllung ihrer Forstaufgaben ein gemeinsames Forstamt.
 
-<sup>2</sup> Das gemeinsame Forstamt trägt die Bezeichnung «Forstamt beider Basel» (kurz: Amt). Sein Sitz wird von den Regierungsräten der beiden Kantone vereinbart.
+<sup>2</sup> Das gemeinsame Forstamt trägt die Bezeichnung «Amt für Wald und Wild beider Basel (AfWW beider Basel)» (kurz: Amt). Sein Sitz wird von den Regierungsräten der beiden Kantone vereinbart.
 
 <sup>3</sup> Das Amt wird vom Kantonsoberförster bzw. von der Kantonsoberförsterin beider Basel (kurz: Kantonsoberförster bzw. Kantonsoberförsterin) geleitet.
 
