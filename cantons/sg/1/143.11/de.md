@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2024-04-01
-valid_until: 2024-12-31
-version_adopted: 2024-02-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-19
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3598/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3699/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3598/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.04.2024)
+vom 13.12.2011 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -40,9 +40,9 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Dieser Erlass gilt für die Mitarbeiterinnen und Mitarbeiter nach Art. 2 des Personalgesetzes. Als selbständige öffentlich-rechtliche Anstalten nach Art. 2 Abs. 2 des Personalgesetzes[^1-1] gelten auch die interkantonalen und interstaatlichen selbständigen öffentlich-rechtlichen Anstalten nach Anhang 4 dieses Erlasses.
 
-<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter der Spitalverbunde und der Psychiatrieverbunde sowie des Zentrums für Labormedizin sind mit Ausnahme der Mitarbeiterinnen und Mitarbeiter, die eine höhere leitende Tätigkeit ausüben[^1-2], der eidgenössischen Arbeitsgesetzgebung[^1-3] unterstellt.
+<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter des Spitalverbundes und des Psychiatrieverbundes sowie des Zentrums für Labormedizin sind mit Ausnahme der Mitarbeiterinnen und Mitarbeiter, die eine höhere leitende Tätigkeit ausüben[^1-2], der eidgenössischen Arbeitsgesetzgebung[^1-3] unterstellt.
 
-<sup>3</sup> Soweit dieser Erlass für die Mitarbeiterinnen und Mitarbeiter der Spitalverbunde und der Psychiatrieverbunde sowie des Zentrums für Labormedizin günstigere Regelungen enthält, gehen diese den Bestimmungen der eidgenössischen Arbeitsgesetzgebung vor.
+<sup>3</sup> Soweit dieser Erlass für die Mitarbeiterinnen und Mitarbeiter des Spitalverbundes und des Psychiatrieverbundes sowie des Zentrums für Labormedizin günstigere Regelungen enthält, gehen diese den Bestimmungen der eidgenössischen Arbeitsgesetzgebung vor.
 
 [^1-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 [^1-2]: Art. [9](https://db.clex.ch/link/Bund/822.111/de) der eidgenössischen Verordnung 1 zum Arbeitsgesetz vom 10. Mai 2000, SR [822.111](https://db.clex.ch/link/Bund/822.111/de).
@@ -332,8 +332,8 @@ als Verordnung:[^ingress-2]
 - b) das übrige Landwirtschaftspersonal 48 Stunden;
 - c) Assistenzärztinnen und Assistenzärzte 48 Stunden;
 - d) Oberärztinnen und Oberärzte:
-  - 1\. in den Spitalverbunden und im Zentrum für Labormedizin 48 Stunden;
-  - 2\. in den Psychiatrieverbunden 46 Stunden;
+  - 1\. im Spitalverbund und im Zentrum für Labormedizin 48 Stunden;
+  - 2\. im Psychiatrieverbund 46 Stunden;
 - e) Wildhüterinnen und Wildhüter 45 Stunden.
 
 <sup>3</sup> Für Kaderärztinnen und Kaderärzte richtet sich die durchschnittliche wöchentliche Arbeitszeit nach den dienstlichen Erfordernissen. Sie beträgt in der Regel 55 Stunden.
@@ -992,7 +992,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 78e
 
-**Besondere Bestimmungen für die Spitalverbunde, den Psychiatrieverbund und das Zentrum für Labormedizin a) Kaderärztinnen und Kaderärzte 1. Grundsatz**
+**Besondere Bestimmungen für den Spitalverbund, den Psychiatrieverbund und das Zentrum für Labormedizin a) Kaderärztinnen und Kaderärzte 1. Grundsatz**
 
 <sup>1</sup> Kaderärztinnen und Kaderärzte sind:
 
@@ -1058,8 +1058,8 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Der Lohn einer Kaderärztin oder eines Kaderarztes beträgt höchstens:
 
-- a) Fr. 700'000.– im Spitalverbund Kantonsspital St.Gallen;
-- b) Fr. 500'000.– in den übrigen Spitalverbunden und im Zentrum für Labormedizin;
+- a) Fr. 700'000.– am Standort St.Gallen des Spitalverbundes;
+- b) Fr. 500'000.– an den übrigen Standorten des Spitalverbundes und im Zentrum für Labormedizin;
 - c) Fr. 350'000.– im Psychiatrieverbund.
 
 <sup>2</sup> Bei einer Teilzeitbeschäftigung werden die Obergrenzen entsprechend dem Beschäftigungsgrad herabgesetzt.
@@ -1070,17 +1070,17 @@ als Verordnung:[^ingress-2]
 
 **b) Vorsitzende der Geschäftsleitungen**
 
-<sup>1</sup> Die Vorsitzenden der Geschäftsleitungen der Spitalverbunde, des Psychiatrieverbundes und des Zentrums für Labormedizin erhalten einen marktüblichen Lohn innerhalb des massgebenden Lohnbands nach Anhang 5 dieses Erlasses. Eine bisherige Tätigkeit als Kaderärztin oder Kaderarzt wird bei der Lohnbemessung berücksichtigt.
+<sup>1</sup> Die Vorsitzenden der Geschäftsleitungen des Spitalverbundes, des Psychiatrieverbundes und des Zentrums für Labormedizin erhalten einen marktüblichen Lohn innerhalb des massgebenden Lohnbands nach Anhang 5 dieses Erlasses. Eine bisherige Tätigkeit als Kaderärztin oder Kaderarzt wird bei der Lohnbemessung berücksichtigt.
 
 <sup>2</sup> Es gelten die Obergrenzen nach Art. 78k dieses Erlasses.
 
-<sup>3</sup> Für die Vorsitzenden der Geschäftsleitungen der Spitalverbunde, des Psychiatrieverbundes und des Zentrums für Labormedizin werden Art. 73b und 75 dieses Erlasses nicht angewendet. Im Übrigen werden Art. 73a bis Art. 78 dieses Erlasses sachgemäss angewendet, unter Berücksichtigung der besonderen Anforderungen der betreffenden Arbeitsverhältnisse.
+<sup>3</sup> Für die Vorsitzenden der Geschäftsleitungen des Spitalverbundes, des Psychiatrieverbundes und des Zentrums für Labormedizin werden Art. 73b und 75 dieses Erlasses nicht angewendet. Im Übrigen werden Art. 73a bis Art. 78 dieses Erlasses sachgemäss angewendet, unter Berücksichtigung der besonderen Anforderungen der betreffenden Arbeitsverhältnisse.
 
 #### Art. 78m
 
 **c) weitere Mitglieder der Geschäftsleitungen mit Kaderarztfunktion**
 
-<sup>1</sup> Für weitere Mitglieder der Geschäftsleitungen der Spitalverbunde, des Psychiatrieverbundes und des Zentrums für Labormedizin, die als Kaderärztinnen oder Kaderärzte tätig sind, richtet sich der Lohn nach Art. 78e ff. dieses Erlasses.
+<sup>1</sup> Für weitere Mitglieder der Geschäftsleitungen des Spitalverbundes, des Psychiatrieverbundes und des Zentrums für Labormedizin, die als Kaderärztinnen oder Kaderärzte tätig sind, richtet sich der Lohn nach Art. 78e ff. dieses Erlasses.
 
 <sup>2</sup> Unter Berücksichtigung der Obergrenzen nach Art. 78k dieses Erlasses kann die Arbeitgeberin oder der Arbeitgeber zur Abgeltung der zusätzlichen Aufgaben eine Funktionszulage von höchstens 20 Prozent des Ansatzes der Lohnklasse 37 ausrichten.
 
@@ -1088,9 +1088,9 @@ als Verordnung:[^ingress-2]
 
 **d) weitere Mitglieder der Geschäftsleitungen ohne Kaderarztfunktion**
 
-<sup>1</sup> Für weitere Mitglieder der Geschäftsleitungen der Spitalverbunde, des Psychiatrieverbundes und des Zentrums für Labormedizin, die nicht als Kaderärztinnen oder Kaderärzte tätig sind, richtet sich der Lohn nach der Referenzfunktion «Mitglied Geschäftsleitung» nach Anhang 1 dieses Erlasses.
+<sup>1</sup> Für weitere Mitglieder der Geschäftsleitungen des Spitalverbundes, des Psychiatrieverbundes und des Zentrums für Labormedizin, die nicht als Kaderärztinnen oder Kaderärzte tätig sind, richtet sich der Lohn nach der Referenzfunktion «Mitglied Geschäftsleitung» nach Anhang 1 dieses Erlasses.
 
-<sup>2</sup> Für Mitglieder der Geschäftsleitung des Kantonsspitals St.Gallen kann die Arbeitgeberin oder der Arbeitgeber zusätzlich eine Marktzulage von höchstens 55 Prozent des Jahreslohns ausrichten.
+<sup>2</sup> Für Mitglieder der Geschäftsleitung des Spitalverbundes kann die Arbeitgeberin oder der Arbeitgeber zusätzlich eine Marktzulage von höchstens 55 Prozent des Jahreslohns ausrichten.
 
 ### b) Zulagen
 
