@@ -4,34 +4,36 @@ number: IX C/1/2
 title: Verordnung zum Tourismusentwicklungsgesetz
 short: "Tourismusentwicklungsverordnung, TEV"
 language: de
-version: 2014-09-01
-valid_until: 2024-12-31
-version_adopted: 2014-04-22
+version: 2025-01-01
+version_adopted: 2024-11-05
 adopted: 2007-11-20
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-C.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1529/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2517/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Tourismusentwicklungsgesetz
 
-Vom 20.11.2007 (Stand 01.09.2014)
+(Tourismusentwicklungsverordnung, TEV)
+
+Vom 20.11.2007 (Stand 01.01.2025)
 
 Der Regierungsrat,
 
-gestützt auf Artikel 15 des Gesetzes vom 6. Mai 2007 zur Entwicklung des Tourismus (Tourismusentwicklungsgesetz, TEG)[^ingress-1],
+gestützt auf Artikel 99 Absatz 1 Buchstabe b der Verfassung des Kantons Glarus[^ingress-1], Artikel 2d Absatz 2 sowie Artikel 15 Absatz 4 des Tourismusentwicklungsgesetzes (TEG)[^ingress-2],
 
 verordnet:
 
-[^ingress-1]: GS [IX C/1/1](https://gesetze.gl.ch/data/IX-C.1.1/de)
+[^ingress-1]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
+[^ingress-2]: GS [IX C/1/1](https://gesetze.gl.ch/data/IX-C.1.1/de)
 
 ## 1. Allgemeines
 
 #### Art. 1
 
-**Beirat zur Entwicklung des Tourismus**
+**Beirat**
 
 <sup>1</sup> Der Regierungsrat bestellt einen Beirat zur Entwicklung des Tourismus.
 
@@ -43,7 +45,9 @@ verordnet:
 
 **Kantonale Verwaltungsbehörde**
 
-<sup>1</sup> Zuständige kantonale Verwaltungsbehörde im Sinne von Artikel 4 Absatz 2 und Artikel 9 Buchstabe a des Gesetzes ist das Departement Volkswirtschaft und Inneres (Departement).
+<sup>1</sup> Zuständige kantonale Verwaltungsbehörde im Sinne von Artikel 4 Absatz 2 und Artikel 9 Absatz 1 Buchstabe a des Gesetzes ist das Departement Volkswirtschaft und Inneres (Departement).
+
+<sup>2</sup> Die Kontaktstelle für Wirtschaft ist Vollzugsbehörde, soweit das Gesetz oder diese Verordnung nichts anderes bestimmen.
 
 #### Art. 3
 
@@ -53,19 +57,75 @@ verordnet:
 
 <sup>2</sup> Das Departement entscheidet über Mitgliedschaft und Beiträge im Rahmen seiner Ausgabenkompetenzen und des Budgets.
 
+## 1a Förderung einer Tourismusorganisation
+
+#### Art. 3a
+
+**Prüfung und Entscheid**
+
+<sup>1</sup> Das vollständige Gesuch ist spätestens sechs Monate vor Ablauf der bestehenden Leistungsvereinbarung beim zuständigen Departement einzureichen.
+
+<sup>2</sup> Der Regierungsrat entscheidet über die eingereichten Gesuche. Er kann zur Beurteilung des Gesuches die Gemeinden, touristische Leistungsträger und den Beirat anhören.
+
+<sup>3</sup> Das Gesuch umfasst mindestens eine Strategie zur Erfüllung des Auftrags, einen Businessplan und eine Mehrjahresplanung. Die Planung beinhaltet mindestens:
+
+- a. die Definition von Schlüsselkennzahlen und Planwerten;
+- b. Schlüsselprojekte;
+- c. das Controlling der eigenen Tätigkeiten und Aktivitäten für die operativen und strategischen Zielsetzungen.
+
+<sup>4</sup> Es können weitere Unterlagen eingefordert werden.
+
+#### Art. 3b
+
+**Leistungsvereinbarung**
+
+<sup>1</sup> Der Regierungsrat definiert zusammen mit der Tourismusorganisation die Bestandteile der Leistungsvereinbarung. Er kann hierzu die Gemeinden und touristischen Leistungsträger in geeigneter Form anhören.
+
+<sup>2</sup> Sie umfasst mindestens nachfolgende Aufgaben und Ziele:
+
+- a. die strategische Führung, Kommunikation und Vermarktung der Destination und der Dachmarke Glarnerland;
+- b. die Steigerung der Wertschöpfung, der Logiernächte und des Bekanntheitsgrads des Glarnerlands;
+- c. die Bündelung, Vermarktung und Qualitätssicherung der Angebotspalette;
+- d. mögliche Mitarbeit bei Auf- und Ausbau von Produkten, Angeboten und Dienstleistungen in den Bereichen Freizeit und Tourismus;
+- e. die Kommunikation nach innen (Tourismusverständnis).
+
+#### Art. 3c
+
+**Leistungs- und Wirksamkeitsnachweis**
+
+<sup>1</sup> Der Regierungsrat legt zusammen mit der Tourismusorganisation die Kriterien und Bestandteile sowie das Verfahren des Leistungs- und Wirksamkeitsnachweises in der Leistungsvereinbarung fest.
+
+<sup>2</sup> Die Tourismusorganisation hat den Leistungs- und Wirksamkeitsnachweis mindestens einmal pro Jahr beim zuständigen Departement einzureichen.
+
+#### Art. 3d
+
+**Neuausschreibung**
+
+<sup>1</sup> Bei Nichtverlängerung der Leistungsvereinbarung oder ausserordentlicher Kündigung wird öffentlich zur Einreichung neuer Gesuche eingeladen.
+
 ## 2. Finanzhilfen
 
 #### Art. 4
 
 **Gesuchsunterlagen**
 
-<sup>1</sup> Das Departement legt fest, welche notwendigen Unterlagen (Pläne, Kostenvoranschlag, Umweltverträglichkeitsprüfung, Baubeschrieb, Finanzierungsnachweis usw.) zur Behandlung der Beitragsgesuche eingereicht werden müssen.
+<sup>1</sup> Dem Gesuch sind namentlich beizulegen:
+
+- a. Projektbeschrieb;
+- b. Businessplan;
+- c. Planerfolgsrechnung;
+- d. detaillierte Kostenzusammenstellung;
+- e. Finanzierungsnachweis.
+
+<sup>2</sup> Die Kontaktstelle für Wirtschaft kann weitere Unterlagen verlangen oder auf einzelne verzichten.
 
 #### Art. 5
 
 **Prüfung und Entscheid**
 
-<sup>1</sup> Das Departement prüft die Gesuche, holt Mitberichte ein und unterbreitet sie dem Beirat.
+<sup>1</sup> Die Kontaktstelle für Wirtschaft prüft die Gesuche, holt Mitberichte ein und unterbreitet sie dem Beirat.
+
+<sup>1<sup>bis</sup></sup> Die Gesuche um Finanzhilfen müssen vor Projektumsetzung respektive vor dem Baubeginn gestellt worden sein. Das Departement bestimmt die Eingabefristen.
 
 <sup>2</sup> Der Beirat tagt in der Regel einmal pro Quartal. Er stellt Antrag an den Regierungsrat.
 
@@ -75,47 +135,67 @@ verordnet:
 
 **Ausschluss**
 
-<sup>1</sup> An Vorhaben mit weniger als 20'000 Franken Gesamtkosten wird keine Finanzhilfe gewährt (Art. 8 Bst. d TEG).
+<sup>1</sup> An Vorhaben mit weniger als 20'000 Franken Gesamtkosten wird keine Finanzhilfe gewährt (Art. 8 Abs. 1 Bst. d TEG).
 
 #### Art. 7
 
 **Auszahlung von Beiträgen**
 
-<sup>1</sup> Das Departement erstellt allfällige Leistungsvereinbarungen und Verträge und zahlt die gewährten Finanzhilfen aus.
+<sup>1</sup> Das Departement erstellt allfällige Leistungsvereinbarungen und Verträge und gibt die gewährten Finanzhilfen zur Auszahlung frei.
 
-<sup>2</sup> Die Beitragsempfänger haben dem Departement eine Schlussabrechnung einzureichen.
+<sup>2</sup> Die Auszahlung der gewährten Finanzhilfen erfolgt bei Projekten und Veranstaltungen grundsätzlich nach Vorlage der Schlussabrechnung.
 
-## 3. Kurtaxe und Tourismusförderungsabgabe
+<sup>3</sup> In begründeten Fällen kann die Auszahlung für bereits angefallene Kosten nach einem gutheissenden Entscheid vor Projekt- oder Veranstaltungsabschluss erfolgen.
+
+#### Art. 7a
+
+**Kontrolle**
+
+<sup>1</sup> Die Kontaktstelle für Wirtschaft kontrolliert mit geeigneten Massnahmen die Verwendung der geleisteten Finanzhilfen.
+
+#### Art. 7b
+
+**Mitwirkungspflichten**
+
+<sup>1</sup> Massgebliche Projektänderungen nach Gesucheinreichung oder nach erfolgtem Entscheid über die Finanzhilfe sind der Kontaktstelle für Wirtschaft unverzüglich mitzuteilen.
+
+<sup>2</sup> Die Gesuchstellenden sind verpflichtet, der Kontaktstelle für Wirtschaft nach Umsetzung ihres Projektes Auskunft über das Erreichte zu erteilen.
+
+<sup>3</sup> Die Gesuchstellenden gewähren der Kontaktstelle für Wirtschaft auf Nachfrage Zugang zu den für das Controlling notwendigen Unterlagen.
+
+## 3. Kurtaxe
 
 #### Art. 8
 
-**Kurtaxen**
-
-<sup>1</sup> Die Höchstpauschale, die von Eigentümern und Eigentümerinnen und Dauermietenden von Ferienhäusern und Ferienwohnungen, Wohnzelten, Mobilhomes und dergleichen erhoben werden darf, beträgt pro Jahr 360 Franken.
-
-<sup>2</sup> Die Tageshöchsttaxe für Gäste darf 4 Franken nicht übersteigen.
+**…**
 
 #### Art. 9
 
-**Dauermietende**
+**Pauschalen bei Dauermiete**
 
-<sup>1</sup> Als dauermietend gilt, wer einen Mietvertrag über mindestens drei aufeinander folgende Monate abgeschlossen hat.
+<sup>1</sup> Als dauermietend im Sinne von Artikel 15 Absatz 3 TEG gilt, wer einen Mietvertrag über mindestens drei aufeinander folgende Monate abgeschlossen hat.
 
 <sup>2</sup> Falls mehrere Dauermietende innerhalb eines Jahres für jeweils mehr als drei Monate dasselbe Objekt mieten, sind alle verpflichtet, Pauschalen zu bezahlen.
 
-<sup>3</sup> Soweit das Überlassen länger als einen Monat dauert, können die kommunalen Regelungen Pauschalen vorsehen (Art. 12 Abs. 1 und 15 Abs. 4 TEG).
+<sup>3</sup> Soweit das Überlassen länger als einen Monat dauert, können die kommunalen Regelungen Pauschalen vorsehen (Art. 15 Abs. 4 TEG).
+
+#### Art. 9a
+
+**Pauschalen für Stellplätze**
+
+<sup>1</sup> Die Gemeinden können für Wohnmobil-Stellplätze und dergleichen Pauschalen von maximal sechs Franken pro Stellplatz und Belegungstag festlegen (Art. 15 Abs. 4 TEG).
 
 #### Art. 10
 
 **Familienangehörige**
 
-<sup>1</sup> Als Familienangehörige (Art. 15 Abs. 3 TEG) des Beherbergers oder der Beherbergerin gelten Eltern und Kinder, Stiefkinder, Ehegatte oder Ehegattin, eingetragener Partner oder eingetragene Partnerin sowie Konkubinatspartner oder -partnerin, voll- und halbbürtige Geschwister, Grosseltern und Enkelkinder.
+<sup>1</sup> Als Familienangehörige der beherbergenden Person gelten Eltern und Kinder, Stiefkinder, Ehegattin oder Ehegatte, eingetragene Partnerin oder eingetragener Partner sowie Konkubinatspartnerin oder -partner, voll- und halbbürtige Geschwister, Grosseltern und Enkelkinder (Art. 15 Abs. 3 TEG).
 
 #### Art. 11
 
 **Veranlagung und Bezug**
 
-<sup>1</sup> Die Gemeinden werden im Sinne von Artikel 12 TEG mit dem Vollzug beauftragt.
+<sup>1</sup> Die Gemeinden werden mit dem Vollzug beauftragt (Art. 12 Abs. 1 TEG).
 
 <sup>2</sup> Als Grundlage für die Veranlagung dienen die vom Kanton abgegebenen Meldeformulare oder entsprechende Formulare der Gemeinden.
 
@@ -129,9 +209,7 @@ verordnet:
 
 #### Art. 13
 
-**Bezahlung**
-
-<sup>1</sup> Die Kurtaxen und die Tourismusförderungsabgaben sind nach den Bestimmungen der Gemeinde an diese oder an die von ihr beauftragte Tourismusorganisation abzuliefern.
+**…**
 
 #### Art. 14
 
