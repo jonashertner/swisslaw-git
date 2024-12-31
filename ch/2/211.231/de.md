@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft glei
 short: PartG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-782-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2005-782-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/de"
 
 (Partnerschaftsgesetz, PartG)
 
-vom 18. Juni 2004 (Stand am 1. Januar 2023)
+vom 18. Juni 2004 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -66,37 +66,56 @@ Aufgehoben
 
 #### Art. 9
 
-**Unbefristete Ungültigkeit**
+**Absolute Ungültigkeitsgründe: Allgemeine Gründe**[^9-1]
 
-<sup>1</sup>
+Die eingetragene Partnerschaft wird für ungültig erklärt, wenn:
 
-Jede Person, die ein Interesse hat, kann jederzeit beim Gericht auf Ungültigkeit der eingetragenen Partnerschaft klagen, wenn:
+- a. zur Zeit der Eintragung eine der Partnerinnen oder einer der Partner in eingetragener Partnerschaft lebte oder verheiratet war und die frühere eingetragene Partnerschaft oder Ehe nicht aufgelöst worden ist;
+- b. zur Zeit der Eintragung der Partnerschaft eine der Partnerinnen oder einer der Partner nicht urteilsfähig war und seither nicht wieder urteilsfähig geworden ist;
+- c. die Partnerinnen oder Partner Verwandte in gerader Linie, Geschwister oder Halbgeschwister sind;
+- d. eine der Partnerinnen oder einer der Partner nicht eine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will;
+- e. eine der Partnerinnen oder einer der Partner der Eintragung der Partnerschaft nicht aus freiem Willen zugestimmt hat.
 
-- a. zur Zeit der Eintragung der Partnerschaft eine der Partnerinnen oder einer der Partner nicht urteilsfähig war und seither nicht wieder urteilsfähig geworden ist;
-- b.[^9-1] die Partnerinnen oder Partner Verwandte in gerader Linie, Geschwister oder Halbgeschwister sind;
-- b<sup>bis</sup>.[^9-2] zur Zeit der Eintragung eine der Partnerinnen oder einer der Partner bereits in eingetragener Partnerschaft lebte oder verheiratet war und die frühere eingetragene Partnerschaft oder Ehe nicht aufgelöst worden ist;
-- c.[^9-3] eine der Partnerinnen oder einer der Partner nicht eine Lebensgemeinschaft begründen, sondern die Bestimmungen über Zulassung und Aufenthalt von Ausländerinnen und Ausländern umgehen will;
-- d.[^9-4] eine der Partnerinnen oder einer der Partner der Eintragung der Partnerschaft nicht aus freiem Willen zugestimmt hat;
-- e.[^9-5] eine der Partnerinnen oder einer der Partner minderjährig ist, es sei denn, die Aufrechterhaltung der Eintragung entspricht den überwiegenden Interessen dieser Partnerin oder dieses Partners.
+[^9-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
-<sup>2</sup> Während des Bestehens einer eingetragenen Partnerschaft wird die Klage von der zuständigen Behörde am Wohnsitz der Partnerinnen oder Partner von Amtes wegen erhoben. Soweit dies mit ihren Aufgaben vereinbar ist, melden die Behörden des Bundes und der Kantone der für die Klage zuständigen Behörde, wenn sie Anlass zur Annahme haben, dass ein Ungültigkeitsgrund vorliegt.[^9-6]
+#### Art. 9a
 
-[^9-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^9-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^9-3]: Eingefügt durch Anhang Ziff. II 5 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^9-4]: Eingefügt durch Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-5]: Eingefügt durch Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-6]: Letzter Satz eingefügt durch Ziff. I 4 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+**Absolute Ungültigkeitsgründe: Eingetragene Partnerschaften mit Minderjährigen**[^9a-1]
+
+<sup>1</sup> Die eingetragene Partnerschaft wird vom Gericht für ungültig erklärt, wenn eine der Partnerinnen oder einer der Partner zur Zeit der Eintragung der Partnerschaft minderjährig war und sie oder er im Zeitpunkt der Einreichung der Ungültigkeitsklage das 25. Altersjahr noch nicht vollendet hat.
+
+<sup>2</sup>
+
+Die eingetragene Partnerschaft bleibt jedoch gültig, wenn die betreffende Partnerin oder der betreffende Partner:
+
+- a. noch minderjährig ist und das Gericht ausnahmsweise zum Schluss kommt, dass die Aufrechterhaltung der Partnerschaft ihren oder seinen überwiegenden Interessen und ihrem oder seinem freien Willen entspricht; oder
+- b. volljährig geworden ist und das Gericht zum Schluss kommt, dass sie oder er aus freiem Willen erklärt, an der Partnerschaft festhalten zu wollen.
+
+[^9a-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+#### Art. 9b
+
+**Absolute Ungültigkeitsgründe: Klage**[^9b-1]
+
+<sup>1</sup> Die Klage auf Ungültigkeit der eingetragenen Partnerschaft ist von der zuständigen kantonalen Behörde am Wohnsitz der Partnerinnen oder Partner von Amtes wegen zu erheben; überdies kann jede Person klagen, die ein Interesse hat. Soweit dies mit ihren Aufgaben vereinbar ist, melden die Behörden des Bundes und der Kantone der für die Klage zuständigen Behörde, wenn sie Anlass zur Annahme haben, dass ein Ungültigkeitsgrund vorliegt.
+
+<sup>2</sup> Nach Auflösung der Partnerschaft wird deren Ungültigkeit nicht mehr von Amtes wegen verfolgt; es kann aber jede Person, die ein Interesse hat, die Ungültigerklärung verlangen.
+
+<sup>3</sup> Die Klage kann jederzeit eingereicht werden. Auf Ungültigkeit wegen Minderjährigkeit einer Partnerin oder eines Partners zur Zeit der Eintragung der Partnerschaft kann jedoch nur geklagt werden, bevor die betreffende Partnerin oder der betreffende Partner das 25. Altersjahr vollendet hat.
+
+[^9b-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 10
 
-**Befristete Ungültigkeit**
+**Relative Ungültigkeitsgründe[^10-1]**
 
 <sup>1</sup> Eine Partnerin oder ein Partner kann beim Gericht auf Ungültigkeit der eingetragenen Partnerschaft wegen Willensmängeln klagen.
 
 <sup>2</sup> Die Ungültigkeitsklage ist innerhalb von sechs Monaten nach Kenntnis des Willensmangels, spätestens aber vor Ablauf von fünf Jahren seit der Eintragung einzureichen.
 
 <sup>3</sup> Stirbt die klagende Person während des Verfahrens, so kann ein Erbe die Klage fortsetzen.
+
+[^10-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 11
 
@@ -436,6 +455,16 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 Wurde die Partnerschaft vor dem Inkrafttreten der Änderung vom 30. September 2011 des Zivilgesetzbuches eingetragen, so können die Partnerinnen oder Partner binnen Jahresfrist seit dem Inkrafttreten dieser Änderung gegenüber der Zivilstandsbeamtin oder dem Zivilstandsbeamten erklären, dass sie den Ledignamen der einen Partnerin oder des einen Partners als gemeinsamen Namen tragen wollen.
 
 [^37a-1]: Eingefügt durch Ziff. II 2 des BG vom 30. Sept. 2011 (Name und Bürgerrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+#### Art. 37b
+
+**Übergangsbestimmungen zur Änderung vom 14. Juni 2024**[^37b-1]
+
+<sup>1</sup> Für die Ungültigkeit von Partnerschaften mit Minderjährigen, die vor dem Inkrafttreten der Änderung vom 14. Juni 2024 eingetragen wurden, gilt das neue Recht.
+
+<sup>2</sup> Haben beide Partnerinnen oder beide Partner im Zeitpunkt des Inkrafttretens dieser Änderung das 18. Altersjahr vollendet, so kann der Ungültigkeitsgrund nur von der Partnerin oder dem Partner geltend gemacht werden, die oder der zur Zeit der Eintragung minderjährig war und im Zeitpunkt der Einreichung der Ungültigkeitsklage das 25. Altersjahr noch nicht vollendet hat.
+
+[^37b-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 38
 

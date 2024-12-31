@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 juin 2004 sur le partenariat enregistré entre pers
 short: LPart
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-782-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-782-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/fr"
 
 (Loi sur le partenariat, LPart)
 
-du 18 juin 2004 (Etat le 1<sup>er</sup> janvier 2023)
+du 18 juin 2004 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -66,27 +66,44 @@ Abrogé
 
 #### Art. 9
 
-**Causes absolues**
+**Causes absolues: causes générales**[^9-1]
 
-<sup>1</sup>
+Le partenariat enregistré doit être annulé:
 
-En tout temps, toute personne intéressée peut demander au juge l’annulation du partenariat enregistré si:
+- a. lorsque l’un des partenaires était déjà lié par un partenariat enregistré ou marié au moment de l’enregistrement et que le précédent partenariat enregistré ou mariage n’a pas été dissous;
+- b. lorsque l’un des partenaires était incapable de discernement au moment de l’enregistrement du partenariat et qu’il n’a pas recouvré la capacité de discernement depuis lors;
+- c. lorsque les partenaires sont parents en ligne directe ou qu’ils sont frères ou sœurs germains, consanguins ou utérins;
+- d. lorsque l’un des partenaires ne veut pas mener une vie commune, mais veut éluder les dispositions sur l’admission et le séjour des étrangers;
+- e. lorsque le partenariat a été enregistré en violation de la libre volonté d’un des partenaires.
 
-- a. l’un des partenaires était incapable de discernement au moment de l’enregistrement du partenariat et qu’il n’a pas recouvré la capacité de discernement depuis lors;
-- b.[^9-1] les partenaires sont parents en ligne directe ou s’ils sont frères ou sœurs germains, consanguins ou utérins;
-- b<sup>bis</sup>.[^9-2] au moment de l’enregistrement, l’un des partenaires était déjà lié par un partenariat enregistré ou marié et que le précédent partenariat enregistré ou mariage n’a pas été dissous;
-- c.[^9-3] l’un des partenaires ne veut pas mener une vie commune, mais éluder les dispositions sur l’admission et le séjour des étrangers;
-- d.[^9-4] le partenariat a été enregistré en violation de la libre volonté d’un des partenaires;
-- e.[^9-5] l’un des partenaires est mineur, à moins que l’intérêt supérieur de ce dernier ne commande de maintenir le partenariat enregistré.
+[^9-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
-<sup>2</sup> Pendant la durée du partenariat enregistré, l’autorité compétente du domicile des partenaires intente d’office l’action en annulation. Dans la mesure où cela est compatible avec leurs attributions, les autorités fédérales ou cantonales informent l’autorité compétente pour intenter action lorsqu’elles ont des raisons de croire qu’un partenariat enregistré est entaché d’un vice entraînant la nullité.[^9-6]
+#### Art. 9a
 
-[^9-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^9-2]: Introduite par l’annexe ch. 1 de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^9-3]: Introduite par le ch. II 5 de l’annexe à la LF du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^9-4]: Introduite par le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-5]: Introduite par le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-6]: Phrase introduite par le ch. I 4 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+**Causes absolues: minorité d’un des partenaires**[^9a-1]
+
+<sup>1</sup> Le partenariat enregistré doit être annulé par le juge lorsque l’un des partenaires était mineur au moment de l’enregistrement du partenariat et qu’il n’a pas encore atteint l’âge de 25 ans au moment où l’action en annulation du partenariat est intentée.
+
+<sup>2</sup>
+
+Le partenariat enregistré doit toutefois être maintenu:
+
+- a. lorsque le partenaire concerné est encore mineur et que le juge conclut à titre exceptionnel que son intérêt prépondérant commande de maintenir le partenariat et que cela correspond à sa libre volonté, ou
+- b. lorsque le partenaire concerné est devenu majeur et que le juge conclut que c’est de son plein gré qu’il déclare vouloir maintenir le partenariat.
+
+[^9a-1]: Introduit par l’annexe ch. 3 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+#### Art. 9b
+
+**Causes absolues: action**[^9b-1]
+
+<sup>1</sup> L’action en annulation du partenariat enregistré est intentée d’office par l’autorité cantonale compétente du domicile des partenaires; elle peut l’être également par toute personne intéressée. Si les autorités fédérales ou cantonales ont des raisons de penser que le partenariat enregistré doit être annulé, elles en informent l’autorité compétente pour intenter action, dans la mesure où cela est compatible avec leurs attributions.
+
+<sup>2</sup> L’annulation d’un partenariat enregistré déjà dissous ne se poursuit pas d’office; elle peut néanmoins être demandée par toute personne intéressée.
+
+<sup>3</sup> L’action peut être intentée en tout temps. Si elle vise à annuler le partenariat parce que l’un des partenaires était mineur au moment de son enregistrement, elle doit être intentée avant que le partenaire concerné ait atteint l’âge de 25 ans.
+
+[^9b-1]: Introduit par l’annexe ch. 3 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 10
 
@@ -137,7 +154,7 @@ Les partenaires se doivent l’un à l’autre assistance et respect.
 <sup>3</sup> Lorsque l’un des partenaires ne satisfait pas à son devoir d’entretien à l’égard de la communauté, le juge peut prescrire à ses débiteurs d’opérer tout ou partie de leurs paiements entre les mains de l’autre.
 
 [^13-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^13-2]: Phrase introduite par le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^13-2]: Phrase introduite par l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 #### Art. 14
 
@@ -194,7 +211,7 @@ Au-delà des besoins courants, un partenaire ne représente la communauté que:
 <sup>4</sup> Lorsque des faits nouveaux le commandent, le juge, à la requête de l’un des partenaires, ordonne des modifications ou lève les mesures prises.
 
 [^17-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^17-2]: Introduit par le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^17-2]: Introduit par l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ### Section 2 Rapports patrimoniaux
 
@@ -256,14 +273,14 @@ Lorsqu’un bien est en copropriété, un partenaire peut, à la dissolution du 
 
 <sup>1</sup> Les partenaires peuvent convenir d’une réglementation spéciale sur les biens pour le cas de la dissolution du partenariat enregistré. Ils peuvent notamment convenir que les biens seront partagés conformément aux art. 196 à 219 CC[^25-1].[^25-2]
 
-<sup>2</sup> ...[^25-3]
+<sup>2</sup> …[^25-3]
 
 <sup>3</sup> Elle est reçue en la forme authentique et elle est signée par les partenaires et, le cas échéant, par le représentant légal.
 
 <sup>4</sup> Les art. 185 et 193 CC sont applicables par analogie.
 
 [^25-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^25-2]: Nouvelle teneur de la phrase selon le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1er janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^25-2]: Nouvelle teneur de la phrase selon l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1er janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^25-3]: Abrogé par l’annexe ch. 1 de la LF du 18 déc. 2020 (Droit des successions), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### Section 3 Effets particuliers
@@ -290,7 +307,7 @@ Lorsqu’un bien est en copropriété, un partenaire peut, à la dissolution du 
 
 Lorsque l’un des deux partenaires a adopté l’enfant mineur de l’autre, les art. 270 à 327*c* CC[^27a-2] sont applicables par analogie.
 
-[^27a-1]: Introduit par par le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^27a-1]: Introduit par par l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^27a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 28
@@ -299,7 +316,7 @@ Lorsque l’un des deux partenaires a adopté l’enfant mineur de l’autre, le
 
 Les personnes liées par un partenariat enregistré ne sont pas autorisées à adopter un enfant conjointement ni à recourir à la procréation médicalement assistée.
 
-[^28-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^28-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ## Chapitre 4 Dissolution judiciaire du partenariat enregistré
 
@@ -375,7 +392,7 @@ Les prestations de sortie de la prévoyance professionnelle acquises pendant la 
 <sup>4</sup> Au surplus, les art. 125, al. 2 et 3, et 126 à 134 CC[^34-2] sont applicables par analogie.[^34-3]
 
 [^34-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^34-3]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
+[^34-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 juin 2016 (Droit de l’adoption), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 835](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
 ## Chapitre 4*a* Conversion du partenariat enregistré en mariage
 
@@ -434,6 +451,16 @@ La modification du droit en vigueur est réglée en annexe.
 Lorsque le partenariat a été enregistré avant l’entrée en vigueur de la modification du 30 septembre 2011 du code civil, les partenaires peuvent, dans le délai d’un an à compter de l’entrée en vigueur de la modification, déclarer à l’officier de l’état civil vouloir porter un nom commun; ils peuvent choisir entre le nom de célibataire de l’un ou de l’autre.
 
 [^37a-1]: Introduit par le ch. II 2 de la LF du 30 sept. 2011 (Nom et droit de cité), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6843](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6851](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+#### Art. 37b
+
+**Dispositions transitoires relatives à la modification du 14 juin 2024**[^37b-1]
+
+<sup>1</sup> L’annulation des partenariats avec un mineur enregistrés avant l’entrée en vigueur de la modification du 14 juin 2024 est régie par le nouveau droit.
+
+<sup>2</sup> Si les deux partenaires ont atteint l’âge de 18 ans au moment de l’entrée en vigueur du nouveau droit, la cause d’annulation ne peut être invoquée que par le partenaire qui était mineur au moment de l’enregistrement, pour autant qu’il n’ait pas atteint l’âge de 25 ans au moment où l’action en annulation du partenariat est intentée.
+
+[^37b-1]: Introduit par l’annexe ch. 3 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 38
 

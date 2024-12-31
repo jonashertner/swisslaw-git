@@ -4,11 +4,11 @@ title: "Federal Act of 18 June 2004 on the Registered Partnership between Same-S
 short: SSPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: en
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2005-782-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2005-782-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Same-Sex Partnership Act, SSPA)
 
-of 18 June 2004 (Status as of 1 January 2023)
+of 18 June 2004 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -70,37 +70,56 @@ This Act regulates the effects, dissolution and conversion into marriage of regi
 
 #### Art. 9
 
-**Unlimited nullity**
+**Absolute grounds for nullity**[^9-1]
 
-<sup>1</sup>
+The registered partnership shall be declared null and void if:
 
-Any person who has an interest may at any time bring an action before the court to have the registered partnership declared null and void if:
+- a. at the time of registration, either of the partners was living in a registered partnership or married, and the earlier registered partnership or marriage had not been dissolved;
+- b. either of the partners was not capable of judgement at the time the partnership was registered and has not become capable of judgement since then;
+- c. the partners are related in direct line, or are siblings or half-siblings;
+- d. either of the prospective spouses clearly has no intention of living with the other but wishes to circumvent the provisions on the admission and residence of foreign nationals;
+- e. either of the partners did not give their free consent to the registration of the partnership.
 
-- a. either of the partners was not capable of judgement at the time the partnership was registered and has not become capable of judgement since then;
-- b.[^9-1] the partners are related in direct line, or are siblings or half-siblings;
-- b<sup>bis</sup>.[^9-2] at the time of registration, either of the partners was already living in a registered partnership or married, and the earlier registered partnership or marriage has not been dissolved;
-- c.[^9-3] either of the prospective spouses clearly has no intention of living with the other but wishes to circumvent the provisions on the admission and residence of foreign nationals;
-- d.[^9-4] either of the partners did not give their free consent to the registration of the partnership;
-- e.[^9-5] either of the partners is a minor, unless the purpose of the registration meets the overriding interests of this partner.
+[^9-1]: Amended by Annex No 3 of the FA of 14 June 2024 (Measures against Marriages involving Minors), in force since 1 Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
-<sup>2</sup> While a registered partnership is in existence, the action shall be instituted ex officio by the competent authority at the partners’ place of residence. Insofar as this is compatible with their duties, the federal and cantonal authorities shall notify the authority responsible for the action if they have reason to believe that grounds for nullity exist.[^9-6]
+#### Art. 9a
 
-[^9-1]: Amended by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^9-2]: Inserted by Annex No 1 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^9-3]: Inserted by Annex No II 5 of the FA of 16 Dec. 2005 on Foreign Nationals, in force since 1 Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^9-4]: Inserted by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-5]: Inserted by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-6]: Last sentence inserted by No I 4 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+**Absolute grounds for nullity: Registered partnerships with minors**[^9a-1]
+
+<sup>1</sup> The registered partnership shall be declared null and void by the court if either of the partners was a minor when the partnership was registered and had not yet reached 25 years of age when the nullity action was instituted.
+
+<sup>2</sup>
+
+However, the registered partnership shall remain valid if the partner in question:
+
+- a. is still a minor, and the court reaches the exceptional conclusion that continuation of the partnership meets this partner’s overriding interests and is of their own free will; or
+- b. has reached the age of majority, and the court concludes that this partner has declared of their own free will that they wish to continue the partnership.
+
+[^9a-1]: Inserted by Annex No 3 of the FA of 14 June 2024 (Measures against Marriages involving Minors), in force since 1 Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+#### Art. 9b
+
+**Absolute grounds for nullity: Action**[^9b-1]
+
+<sup>1</sup> The action to nullify the registered partnership must be instituted *ex officio* by the competent cantonal authority at the partners’ place of residence; furthermore, anyone who has an interest may institute an action. Insofar as this is compatible with their duties, the federal and cantonal authorities shall notify the authority responsible for the action if they have reason to believe that grounds for nullity exist.
+
+<sup>2</sup> Once the partnership has been dissolved, its nullity will no longer be pursued *ex officio*; however, anyone who has an interest may request a declaration of nullity.
+
+<sup>3</sup> The action may be instituted at any time. However, an action for nullity on the grounds that either partner was a minor when the partnership was registered may be instituted only before the partner in question reaches 25 years of age.
+
+[^9b-1]: Inserted by Annex No 3 of the FA of 14 June 2024 (Measures against Marriages involving Minors), in force since 1 Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 10
 
-**Limited nullity**
+**Relative grounds for nullity[^10-1]**
 
 <sup>1</sup> Either partner may bring an action before the court to have the registered partnership declared null and void on the grounds of vitiated consent.
 
 <sup>2</sup> The action for nullity must be filed within six months of acquiring knowledge of vitiated consent, but no later than five years after registration.
 
 <sup>3</sup> If the claimant dies during the proceedings, an heir may continue the proceedings.
+
+[^10-1]: Amended by Annex No 3 of the FA of 14 June 2024 (Measures against Marriages involving Minors), in force since 1 Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 11
 
@@ -440,6 +459,16 @@ The amendment of current legislation is regulated in the Annex.
 If the partnership was registered before the Amendment of 30 September 2016 of the Swiss Civil Code comes into force, the partners may, within one year of this amendment coming into force declare to the civil registrar that they wish bear the surname of one of the partners as the family surname.
 
 [^37a-1]: Inserted by No II 2 of the FA of 30 Sept. 2011 (Names and Citizenship), in force since 1 Jan. 2013 ([AS 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [BBl 2009 7573](https://fedlex.data.admin.ch/eli/fga/2009/1347)[7581](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+#### Art. 37b
+
+**Transitional provisions to the Amendment of 14 June 2024**[^37b-1]
+
+<sup>1</sup> The new law applies to the nullity of partnerships with minors that were registered before the Amendment of 14 June 2024 came into force.
+
+<sup>2</sup> If both partners have reached 18 years of age when this Amendment comes into force, the grounds for nullity may be claimed only by the partner who was a minor when the partnership was registered and had not yet reached 25 years of age when the action for nullity was instituted.
+
+[^37b-1]: Inserted by Annex No 3 of the FA of 14 June 2024 (Measures against Marriages involving Minors), in force since 1 Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 38
 

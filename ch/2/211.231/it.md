@@ -4,11 +4,11 @@ title: "Legge federale del 18 giugno 2004 sull'unione domestica registrata di co
 short: LUD
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/782"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2004-06-18
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-782-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/782/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2005-782-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/782/20230101/it"
 
 (Legge sull’unione domestica registrata, LUD)
 
-del 18 giugno 2004 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
+del 18 giugno 2004 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -64,28 +64,44 @@ La presente legge disciplina gli effetti e lo scioglimento nonché la conversion
 
 #### Art. 9
 
-**Annullabilità assoluta**
+**Annullabilità assoluta: cause generali**[^9-1]
 
-<sup>1</sup>
+L’unione domestica registrata è dichiarata nulla se:
 
-Qualsiasi interessato può in ogni tempo domandare al giudice l’annullamento dell’unione domestica registrata se:
+- a. al momento della registrazione uno dei partner era già coniugato o vincolato da un’unione domestica registrata e il matrimonio o l’unione domestica registrata contratti in precedenza non sono stati sciolti;
+- b. al momento della registrazione dell’unione domestica uno dei partner non era capace di discernimento e da allora non ha riacquistato la capacità di discernimento;
+- c. i partner sono parenti in linea retta oppure fratelli o sorelle germani, consanguinei o uterini;
+- d. uno dei partner non intendeva creare una comunione di vita bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
+- e. non corrispondeva alla libera volontà di uno dei partner.
 
-- a. al momento della registrazione dell’unione domestica uno dei partner non era capace di discernimento e da allora non ha riacquistato la capacità di discernimento;
-- b.**[^9-1]** i partner sono parenti in linea retta oppure fratelli o sorelle germani, consanguinei o uterini;
-- b<sup>bis</sup>.[^9-2] al momento della costituzione dell’unione domestica registrata uno dei partner era già coniugato o vincolato da un’unione domestica registrata e il matrimonio o l’unione domestica registrata contratti in precedenza non sono stati sciolti;
-- c.[^9-3] uno dei partner non intendeva creare una comunione di vita bensì eludere le disposizioni relative all’ammissione e al soggiorno degli stranieri;
-- d.[^9-4] l’unione domestica registrata non corrispondeva alla libera volontà di uno dei partner;[^9-5]
-- e.[^9-6] uno dei partner è minorenne, salvo che interessi preponderanti dello stesso impongano il proseguimento dell’unione.
+[^9-1]: Nuovo testo giusta l’all. n. 3 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
-<sup>2</sup> Durante l’unione domestica registrata l’azione di annullamento è promossa d’ufficio dall’autorità competente nel domicilio dei partner. Compatibilmente con i loro compiti, le autorità della Confederazione e dei Cantoni che hanno motivo di ritenere nulla un’unione domestica registrata ne informano l’autorità competente per promuovere l’azione.[^9-7]
+#### Art. 9a
 
-[^9-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^9-2]: Introdotta dall’all. n. 1 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^9-3]: Introdotta dall’all. n. II 5 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^9-4]: Introdotta dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-5]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^9-6]: Introdotta dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^9-7]: Per. introdotto dal n. I 4 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+**Annullabilità assoluta: unione domestica registrata con minorenni**[^9a-1]
+
+<sup>1</sup> Il giudice dichiara nulla l’unione domestica registrata se uno dei partner era minorenne al momento della registrazione e non ha ancora compiuto il venticinquesimo anno di età al momento della promozione dell’azione.
+
+<sup>2</sup>
+
+L’unione domestica registrata è tuttavia valida se il partner in questione:
+
+- a. è ancora minorenne e il giudice giunge eccezionalmente alla conclusione che interessi preponderanti dello stesso impongano il proseguimento dell’unione e che ciò corrisponda alla sua libera volontà; o
+- b. è divenuto maggiorenne e il giudice giunge alla conclusione che esprima liberamente la volontà di mantenere l’unione.
+
+[^9a-1]: Introdotto dall’all. n. 3 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+#### Art. 9b
+
+**Annullabilità assoluta: unione domestica registrata con minorenni**[^9b-1]
+
+- [tab] <sup>1</sup> L’azione di annullamento dell’unione domestica registrata è promossa d’ufficio dall’autorità cantonale competente al domicilio dei partner; la può inoltre proporre qualsiasi interessato. Compatibilmente con i loro compiti, le autorità della Confederazione e dei Cantoni che hanno motivo di ritenere nulla un’unione domestica registrata ne informano l’autorità competente per promuovere l’azione.
+
+<sup>2</sup> L’annullamento di un’unione domestica già sciolta non è proponibile d’ufficio; lo può tuttavia proporre qualsiasi interessato.
+
+<sup>3</sup> L’azione è proponibile in ogni tempo. L’azione di annullamento per minore età di un partner al momento della registrazione dell’unione domestica deve tuttavia essere promossa prima che il partner in questione compia il venticinquesimo anno di età.
+
+[^9b-1]: Introdotto dall’all. n. 3 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 10
 
@@ -433,6 +449,16 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 Se l’unione domestica è stata registrata prima dell’entrata in vigore della modifica del 30 settembre 2011 del Codice civile, i partner possono, entro un anno dall’entrata in vigore di tale modifica, dichiarare all’ufficiale dello stato civile di voler assumere un cognome comune; possono scegliere tra il cognome da celibe o nubile di uno di loro.
 
 [^37a-1]: Introdotto dal n. II 2 della LF del 30 set. 2011 (Cognome e cittadinanza), in vigore dal 1° gen. 2013 ([RU 2012 2569](https://fedlex.data.admin.ch/eli/oc/2012/309); [FF 2009 6577](https://fedlex.data.admin.ch/eli/fga/2009/1347)[6585](https://fedlex.data.admin.ch/eli/fga/2009/1349)).
+
+#### Art. 37b
+
+**Disposizioni transitorie della modifica del 14 giugno 2024**[^37b-1]
+
+<sup>1</sup> L’annullamento delle unioni domestiche con minorenni registrate prima dell’entrata in vigore della modifica del 14 giugno 2024 è retto dal nuovo diritto.
+
+<sup>2</sup> Se all’entrata in vigore della presente modifica entrambi i partner hanno compiuto il diciottesimo anno di età, la causa di annullamento può essere invocata soltanto dal partner che era minorenne al momento della registrazione dell’unione domestica e non ha ancora compiuto il venticinquesimo anno di età nel momento in cui è promossa l’azione.
+
+[^37b-1]: Introdotto dall’all. n. 3 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 38
 
