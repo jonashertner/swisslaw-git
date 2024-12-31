@@ -4,13 +4,12 @@ number: "350.520"
 title: Verordnung über die Vollzugseinrichtungen im Kanton Graubünden
 short: VEV
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-12-21
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2021-12-21
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.520"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3218/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3864/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3218/pdf_file"
 
 (VEV)
 
-Vom 21.12.2021 (Stand 01.01.2022)
+Vom 21.12.2021 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 3 des Justizvollzugsgesetzes[^ingress-2]
 
@@ -156,7 +155,7 @@ von der Regierung erlassen am 21. Dezember 2021
 
 **Für den ausserdienstlichen Arrest**
 
-<sup>1</sup> Das Amt für Militär und Zivilschutz schuldet dem Amt für die Unterbringung von Personen, die sich im ausserdienstlichen Arrest befinden, das Kostgeld, das die Ostschweizer Strafvollzugskommission für den Strafvollzug festgelegt hat.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär schuldet dem Amt für die Unterbringung von Personen, die sich im ausserdienstlichen Arrest befinden, das Kostgeld, das die Ostschweizer Strafvollzugskommission für den Strafvollzug festgelegt hat.
 
 #### Art. 11
 
@@ -745,7 +744,7 @@ von der Regierung erlassen am 21. Dezember 2021
 
 <sup>3</sup> Entscheide gemäss Absatz 1 und Absatz 2 können innert 30 Tagen seit der Mitteilung mit Verwaltungsbeschwerde beim Departement für Justiz, Sicherheit und Gesundheit angefochten werden.
 
-<sup>4</sup> Gegen Beschwerdeentscheide des Departements für Justiz, Sicherheit und Gesundheit können die Betroffenen und die Staatsanwaltschaft beim Kantonsgericht Beschwerde einlegen. Für das Verfahren gelten die Regelungen der strafrechtlichen Beschwerde sinngemäss.
+<sup>4</sup> Gegen Beschwerdeentscheide des Departements für Justiz, Sicherheit und Gesundheit können die Betroffenen und die Staatsanwaltschaft beim Obergericht Beschwerde einlegen. Für das Verfahren gelten die Regelungen der strafrechtlichen Beschwerde sinngemäss.
 
 [^67-1]: BR [350.500](https://www.gr-lex.gr.ch/data/350.500/de)
 
@@ -757,7 +756,7 @@ von der Regierung erlassen am 21. Dezember 2021
 
 <sup>2</sup> Wird die Sicherheitshaft andernorts durchgeführt, trifft das verfahrensleitende Gericht alle vollzugsrechtlichen Entscheide.
 
-<sup>3</sup> Gegen Entscheide gemäss Absatz 1 und Absatz 2 können die Betroffenen und die Staatsanwaltschaft beim Kantonsgericht Beschwerde führen, soweit nicht das Bundesgericht angerufen werden kann. Für das Verfahren gelten die Regelungen der strafrechtlichen Beschwerde sinngemäss.
+<sup>3</sup> Gegen Entscheide gemäss Absatz 1 und Absatz 2 können die Betroffenen und die Staatsanwaltschaft beim Obergericht Beschwerde führen, soweit nicht das Bundesgericht angerufen werden kann. Für das Verfahren gelten die Regelungen der strafrechtlichen Beschwerde sinngemäss.
 
 [^68-1]: BR [350.500](https://www.gr-lex.gr.ch/data/350.500/de)
 
@@ -809,7 +808,7 @@ von der Regierung erlassen am 21. Dezember 2021
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Amt für Militär und Zivilschutz vollzieht den ausserdienstlichen Arrest. Für die zwangsweise Durchsetzung des ausserdienstlichen Arrests kann es die Hilfe der Kantonspolizei in Anspruch nehmen.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär vollzieht den ausserdienstlichen Arrest. Für die zwangsweise Durchsetzung des ausserdienstlichen Arrests kann es die Hilfe der Kantonspolizei in Anspruch nehmen.
 
 <sup>2</sup> Der ausserdienstliche Arrest wird in der Regel in den militärischen Einrichtungen unter der Verantwortung des Militärs durchgeführt.
 
@@ -825,9 +824,9 @@ von der Regierung erlassen am 21. Dezember 2021
 
 **Rechtsschutz**
 
-<sup>1</sup> Wird der ausserdienstliche Arrest in einer Justizvollzugsanstalt durchgeführt, richtet sich die Zuständigkeit für die Anordnung von Disziplinarmassnahmen und deren Weiterzug nach Artikel 46 und Artikel 47 Absatz 1 JVG[^76-1]. Die übrigen vollzugsrechtlichen Entscheide trifft das Amt für Militär und Zivilschutz.
+<sup>1</sup> Wird der ausserdienstliche Arrest in einer Justizvollzugsanstalt durchgeführt, richtet sich die Zuständigkeit für die Anordnung von Disziplinarmassnahmen und deren Weiterzug nach Artikel 46 und Artikel 47 Absatz 1 JVG[^76-1]. Die übrigen vollzugsrechtlichen Entscheide trifft das Amt für Bevölkerungsschutz und Militär.
 
-<sup>2</sup> Wird der ausserdienstliche Arrest in militärischen Einrichtungen vollzogen, trifft das Amt für Militär und Zivilschutz alle vollzugsrechtlichen Entscheide.
+<sup>2</sup> Wird der ausserdienstliche Arrest in militärischen Einrichtungen vollzogen, trifft das Amt für Bevölkerungsschutz und Militär alle vollzugsrechtlichen Entscheide.
 
 [^76-1]: BR [350.500](https://www.gr-lex.gr.ch/data/350.500/de)
 
