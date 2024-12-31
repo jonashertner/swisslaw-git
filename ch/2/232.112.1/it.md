@@ -4,11 +4,11 @@ title: "Ordinanza del 2 settembre 2015 sull'utilizzo di indicazioni di provenien
 short: OIPSDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/611"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2015-09-02
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/611/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-611-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/611/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/611/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2015-611-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/611/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/611/20240101/it"
 
 (OIPSDA)
 
-del 2 settembre 2015 (Stato 1° gennaio 2024)
+del 2 settembre 2015 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -79,9 +79,9 @@ Singoli prodotti naturali e le materie prime che ne derivano, nonché microrgani
 
 <sup>5</sup> Se la ricetta contiene prodotti semilavorati, questi possono essere considerati nel calcolo come singola materia prima. Essi devono essere considerati nella misura del 100 per cento.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
 [^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: Nuovo testo giusta il n. I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
 
 #### Art. 4
 
@@ -126,7 +126,7 @@ Per singole materie prime di una derrata alimentare che non soddisfa le condizio
 <sup>6</sup> Persiste l’obbligo, giusta la legislazione sulle derrate alimentari, di indicare il Paese di produzione.
 
 [^5-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^5-2]: Nuovo testo giusta il n. I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
 
 #### Art. 6
 
@@ -144,7 +144,7 @@ Il DEFR può modificare nell’allegato 1 l’elenco dei prodotti naturali che n
 
 <sup>3</sup> La variazione delle scorte si ottiene sottraendo dall’inventario di fine anno quello di inizio anno.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
 
 #### Art. 7a
 
@@ -166,7 +166,7 @@ Si applicano le precisazioni seguenti:
 
 <sup>4</sup> Le informazioni accessibili al pubblico di cui al capoverso 1 sono aggiornate per ciascuna materia prima ogni due anni. Le variazioni della disponibilità di materie prime possono essere segnalate una volta all’anno da organizzazioni rappresentative dell’agricoltura. Successivamente le informazioni di cui al capoverso 1 sono aggiornate entro un anno al massimo. La procedura è retta dal capoverso 3.
 
-[^7a-1]: Introdotto dal n. I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
 [^7a-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 
 #### Art. 8
@@ -179,7 +179,7 @@ Il DEFR definisce in un’ordinanza dipartimentale i prodotti naturali che, a ca
 
 [^9-1]
 
-[^9-1]: Abrogato dal n. I dell’O del 18 mag. 2022, con effetto dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
+[^9-1]: Abrogato dalla cifra I dell’O del 18 mag. 2022, con effetto dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
 
 #### Art. 10
 
@@ -193,7 +193,7 @@ Qualora con una modifica di un allegato risultino requisiti più elevati per l�
 
 Qualora con una modifica della lista del grado di autoapprovvigionamento di materie prime di cui all’articolo 7*a* capoverso 3 risultino requisiti più elevati per l’utilizzo di indicazioni di provenienza svizzere per una derrata alimentare, per 12 mesi il fabbricante può presumere che sia ancora possibile effettuare il calcolo in base alla lista precedente ed etichettare le derrate alimentari di conseguenza. Le derrate alimentari etichettate in tal modo possono essere cedute ai consumatori fino a esaurimento delle scorte.
 
-[^10a-1]: Introdotto dal n. I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
 
 #### Art. 11
 
@@ -207,7 +207,7 @@ Per le derrate alimentari prodotte prima dell’entrata in vigore della presente
 
 L’utilizzo di indicazioni di provenienza svizzere per le derrate alimentari può avvenire ancora secondo il diritto anteriore fino al 31 dicembre 2023. Le derrate alimentari etichettate in tal modo possono essere cedute ai consumatori fino a esaurimento delle scorte.
 
-[^11a-1]: Introdotto dal n. I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
+[^11a-1]: Introdotto dalla cifra I dell’O del 18 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 318](https://fedlex.data.admin.ch/eli/oc/2022/318)).
 
 #### Art. 12
 
@@ -221,35 +221,35 @@ Allegato 1[^t-1]
 
 ## Prodotti naturali non disponibili e grado di autoapprovvigionamento di prodotti naturali
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DEFR del 21 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 674](https://fedlex.data.admin.ch/eli/oc/2023/674)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 19 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 701](https://fedlex.data.admin.ch/eli/oc/2024/701)).
 
 I prodotti naturali di cui all’articolo 6 che non possono essere ottenuti in Svizzera a causa di caratteristiche naturali (prodotti naturali non disponibili) sono contrassegnati con una «x».
 
 <table>
 <tr><th>Gruppo</th><th>Sottogruppo</th><th>Prodotto naturale</th><th>Non disponibile (art. 6)</th><th>Grado di autoapprovvigionamento in % (art. 7)</th></tr>
-<tr><td>Cereali</td><td></td><td>Avena</td><td></td><td>6,1</td></tr>
+<tr><td>Cereali</td><td></td><td>Avena</td><td></td><td>9,6</td></tr>
 <tr><td></td><td></td><td>Grano duro</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Grano tenero</td><td></td><td>60,7</td></tr>
+<tr><td></td><td></td><td>Grano tenero</td><td></td><td>57,8</td></tr>
 <tr><td></td><td></td><td>Granoturco, senza granoturco verdura</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Orzo</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Riso</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Segale</td><td></td><td>79,3</td></tr>
-<tr><td></td><td></td><td>Spelta</td><td></td><td>44,9</td></tr>
-<tr><td></td><td></td><td>Cereali, altri (come wild rice)</td><td></td><td>27,0</td></tr>
-<tr><td>Patate, altre radici e tuberi</td><td></td><td>Patate</td><td></td><td>72,3</td></tr>
+<tr><td></td><td></td><td>Segale</td><td></td><td>80,7</td></tr>
+<tr><td></td><td></td><td>Spelta</td><td></td><td>45,0</td></tr>
+<tr><td></td><td></td><td>Cereali, altri (come wild rice)</td><td></td><td>29,1</td></tr>
+<tr><td>Patate, altre radici e tuberi</td><td></td><td>Patate</td><td></td><td>66,7</td></tr>
 <tr><td></td><td></td><td>Radici di cicoria</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Radici e tuberi, altri</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Zucchero e miele</td><td></td><td>Barbabietole da zucchero</td><td></td><td>45,9</td></tr>
+<tr><td>Zucchero e miele</td><td></td><td>Barbabietole da zucchero</td><td></td><td>46,6</td></tr>
 <tr><td></td><td></td><td>Canna da zucchero</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Glucosio</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Miele</td><td></td><td>29,1</td></tr>
-<tr><td></td><td></td><td>Saccarosio</td><td></td><td>43,9</td></tr>
+<tr><td></td><td></td><td>Miele</td><td></td><td>25,5</td></tr>
+<tr><td></td><td></td><td>Saccarosio</td><td></td><td>44,4</td></tr>
 <tr><td>Leguminose, essiccate</td><td></td><td>Carrube</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Ceci</td><td>x</td><td></td></tr>
-<tr><td></td><td></td><td>Lenticchie</td><td></td><td>5,1</td></tr>
+<tr><td></td><td></td><td>Ceci</td><td></td><td>7,5</td></tr>
+<tr><td></td><td></td><td>Lenticchie</td><td></td><td>5,9</td></tr>
 <tr><td></td><td></td><td>Leguminose, essiccate, altre</td><td></td><td>&lt; 5</td></tr>
 <tr><td>Frutta a guscio</td><td>Frutta a guscio, non tropicale</td><td>Castagne</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Noci</td><td></td><td>10,5</td></tr>
+<tr><td></td><td></td><td>Noci</td><td></td><td>10,7</td></tr>
 <tr><td></td><td></td><td>Nocciole</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Frutta a guscio, tropicale</td><td>Anacardi</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Mandorle</td><td>x</td><td></td></tr>
@@ -263,97 +263,97 @@ I prodotti naturali di cui all’articolo 6 che non possono essere ottenuti in S
 <tr><td></td><td></td><td>Noci di cocco</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Olive</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Semi di cartamo</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Semi di colza</td><td></td><td>61,2</td></tr>
+<tr><td></td><td></td><td>Semi di colza</td><td></td><td>59,7</td></tr>
 <tr><td></td><td></td><td>Semi di cotone</td><td>x</td><td></td></tr>
-<tr><td></td><td></td><td>Semi di girasole</td><td></td><td>7,0</td></tr>
+<tr><td></td><td></td><td>Semi di girasole</td><td></td><td>8,3</td></tr>
 <tr><td></td><td></td><td>Semi di karité</td><td>x</td><td></td></tr>
-<tr><td></td><td></td><td>Semi di lino</td><td></td><td>13,3</td></tr>
-<tr><td></td><td></td><td>Semi di papavero</td><td></td><td>8,2</td></tr>
+<tr><td></td><td></td><td>Semi di lino</td><td></td><td>13,9</td></tr>
+<tr><td></td><td></td><td>Semi di papavero</td><td></td><td>8,5</td></tr>
 <tr><td></td><td></td><td>Semi di ricino</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Semi di senape</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Semi di sesamo</td><td>x</td><td></td></tr>
-<tr><td></td><td></td><td>Soia</td><td></td><td>10,0</td></tr>
+<tr><td></td><td></td><td>Soia</td><td></td><td>11,0</td></tr>
 <tr><td></td><td></td><td>Semi oleosi, altri</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Ortaggi, funghi incl.</td><td>Ortaggi a radice e a tubero</td><td>Barbabietole</td><td></td><td>88,8</td></tr>
-<tr><td></td><td></td><td>Carote</td><td></td><td>92,6</td></tr>
-<tr><td></td><td></td><td>Finocchi</td><td></td><td>41,3</td></tr>
-<tr><td></td><td></td><td>Ramolacci</td><td></td><td>65,0</td></tr>
-<tr><td></td><td></td><td>Rape</td><td></td><td>97,0</td></tr>
-<tr><td></td><td></td><td>Ravanelli</td><td></td><td>85,7</td></tr>
-<tr><td></td><td></td><td>Scorzonera</td><td></td><td>52,7</td></tr>
-<tr><td></td><td></td><td>Sedano rapa</td><td></td><td>97,9</td></tr>
-<tr><td></td><td></td><td>Ortaggi a radice, altri (come prezzemolo tuberoso)</td><td></td><td>73,4</td></tr>
+<tr><td>Ortaggi, funghi incl.</td><td>Ortaggi a radice e a tubero</td><td>Barbabietole</td><td></td><td>88,0</td></tr>
+<tr><td></td><td></td><td>Carote</td><td></td><td>90,5</td></tr>
+<tr><td></td><td></td><td>Finocchi</td><td></td><td>41,7</td></tr>
+<tr><td></td><td></td><td>Ramolacci</td><td></td><td>62,0</td></tr>
+<tr><td></td><td></td><td>Rape</td><td></td><td>95,1</td></tr>
+<tr><td></td><td></td><td>Ravanelli</td><td></td><td>86,6</td></tr>
+<tr><td></td><td></td><td>Scorzonera</td><td></td><td>39,7</td></tr>
+<tr><td></td><td></td><td>Sedano rapa</td><td></td><td>94,0</td></tr>
+<tr><td></td><td></td><td>Ortaggi a radice, altri (come prezzemolo tuberoso)</td><td></td><td>76,3</td></tr>
 <tr><td></td><td>Agliacee</td><td>Aglio</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Cipolle</td><td></td><td>67,8</td></tr>
-<tr><td></td><td></td><td>Porro</td><td></td><td>76,7</td></tr>
-<tr><td></td><td></td><td>Agliacee, altre</td><td></td><td>33,6</td></tr>
-<tr><td></td><td>Cavoli</td><td>Broccoli</td><td></td><td>28,9</td></tr>
-<tr><td></td><td></td><td>Cavolfiore</td><td></td><td>44,4</td></tr>
-<tr><td></td><td></td><td>Cavolini di Bruxelles</td><td></td><td>17,1</td></tr>
-<tr><td></td><td></td><td>Cavolo bianco</td><td></td><td>84,8</td></tr>
-<tr><td></td><td></td><td>Cavolo cinese</td><td></td><td>82,2</td></tr>
-<tr><td></td><td></td><td>Cavolo pak-choi</td><td></td><td>35,3</td></tr>
-<tr><td></td><td></td><td>Cavolo rapa</td><td></td><td>56,0</td></tr>
-<tr><td></td><td></td><td>Cavolo riccio</td><td></td><td>65,2</td></tr>
-<tr><td></td><td></td><td>Cavolo rosso</td><td></td><td>88,2</td></tr>
-<tr><td></td><td></td><td>Verza</td><td></td><td>90,2</td></tr>
+<tr><td></td><td></td><td>Cipolle</td><td></td><td>65,2</td></tr>
+<tr><td></td><td></td><td>Porro</td><td></td><td>76,9</td></tr>
+<tr><td></td><td></td><td>Agliacee, altre</td><td></td><td>33,9</td></tr>
+<tr><td></td><td>Cavoli</td><td>Broccoli</td><td></td><td>29,2</td></tr>
+<tr><td></td><td></td><td>Cavolfiore</td><td></td><td>41,6</td></tr>
+<tr><td></td><td></td><td>Cavolini di Bruxelles</td><td></td><td>18,0</td></tr>
+<tr><td></td><td></td><td>Cavolo bianco</td><td></td><td>82,5</td></tr>
+<tr><td></td><td></td><td>Cavolo cinese</td><td></td><td>79,7</td></tr>
+<tr><td></td><td></td><td>Cavolo pak-choi</td><td></td><td>35,7</td></tr>
+<tr><td></td><td></td><td>Cavolo rapa</td><td></td><td>56,4</td></tr>
+<tr><td></td><td></td><td>Cavolo riccio</td><td></td><td>68,1</td></tr>
+<tr><td></td><td></td><td>Cavolo rosso</td><td></td><td>84,5</td></tr>
+<tr><td></td><td></td><td>Verza</td><td></td><td>91,7</td></tr>
 <tr><td></td><td></td><td>Cavoli, altri</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Insalate</td><td>Atreplici (bietoloni rossi o dei giardini)</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Cicoria</td><td></td><td>61,7</td></tr>
-<tr><td></td><td></td><td>Cicoria bianca</td><td></td><td>61,2</td></tr>
-<tr><td></td><td></td><td>Indivia</td><td></td><td>43,4</td></tr>
-<tr><td></td><td></td><td>Lattuga cappuccio</td><td></td><td>68,0</td></tr>
-<tr><td></td><td></td><td>Lattuga iceberg</td><td></td><td>55,1</td></tr>
-<tr><td></td><td></td><td>Radicchio</td><td></td><td>77,4</td></tr>
-<tr><td></td><td></td><td>Trevisana</td><td></td><td>32,1</td></tr>
-<tr><td></td><td></td><td>Valerianella</td><td></td><td>86,7</td></tr>
+<tr><td></td><td></td><td>Cicoria</td><td></td><td>59,4</td></tr>
+<tr><td></td><td></td><td>Cicoria bianca</td><td></td><td>57,1</td></tr>
+<tr><td></td><td></td><td>Indivia</td><td></td><td>43,5</td></tr>
+<tr><td></td><td></td><td>Lattuga cappuccio</td><td></td><td>66,5</td></tr>
+<tr><td></td><td></td><td>Lattuga iceberg</td><td></td><td>52,9</td></tr>
+<tr><td></td><td></td><td>Radicchio</td><td></td><td>72,7</td></tr>
+<tr><td></td><td></td><td>Trevisana</td><td></td><td>29,6</td></tr>
+<tr><td></td><td></td><td>Valerianella</td><td></td><td>84,6</td></tr>
 <tr><td></td><td></td><td>Insalate, altre</td><td></td><td>100</td></tr>
 <tr><td></td><td>Altri ortaggi a foglia e a coste</td><td>Asparagi</td><td></td><td>6,7</td></tr>
-<tr><td></td><td></td><td>Bietole</td><td></td><td>67,5</td></tr>
-<tr><td></td><td></td><td>Rabarbaro</td><td></td><td>76,2</td></tr>
-<tr><td></td><td></td><td>Sedano coste</td><td></td><td>49,2</td></tr>
-<tr><td></td><td></td><td>Spinaci</td><td></td><td>85,7</td></tr>
-<tr><td></td><td></td><td>Ortaggi a foglia e a coste, altri (come crescione, prezzemolo, carciofi, tarassaco, erbe aromatiche)</td><td></td><td>42,8</td></tr>
+<tr><td></td><td></td><td>Bietole</td><td></td><td>71,0</td></tr>
+<tr><td></td><td></td><td>Rabarbaro</td><td></td><td>71,1</td></tr>
+<tr><td></td><td></td><td>Sedano coste</td><td></td><td>50,7</td></tr>
+<tr><td></td><td></td><td>Spinaci</td><td></td><td>85,2</td></tr>
+<tr><td></td><td></td><td>Ortaggi a foglia e a coste, altri (come crescione, prezzemolo, carciofi, tarassaco, erbe aromatiche)</td><td></td><td>42,6</td></tr>
 <tr><td></td><td>Ortaggi a frutto</td><td>Angurie</td><td>x</td><td></td></tr>
-<tr><td></td><td></td><td>Cetrioli</td><td></td><td>34,6</td></tr>
-<tr><td></td><td></td><td>Melanzane</td><td></td><td>31,6</td></tr>
+<tr><td></td><td></td><td>Cetrioli</td><td></td><td>34,8</td></tr>
+<tr><td></td><td></td><td>Melanzane</td><td></td><td>30,5</td></tr>
 <tr><td></td><td></td><td>Meloni</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td></td><td>Peperoni</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Pomodori</td><td></td><td>24,8</td></tr>
-<tr><td></td><td></td><td>Zucca</td><td></td><td>48,1</td></tr>
-<tr><td></td><td></td><td>Zucchine</td><td></td><td>29,0</td></tr>
-<tr><td></td><td>Leguminose</td><td>Fagioli</td><td></td><td>47,5</td></tr>
-<tr><td></td><td></td><td>Piselli</td><td></td><td>50,6</td></tr>
+<tr><td></td><td></td><td>Pomodori</td><td></td><td>24,4</td></tr>
+<tr><td></td><td></td><td>Zucca</td><td></td><td>49,9</td></tr>
+<tr><td></td><td></td><td>Zucchine</td><td></td><td>29,6</td></tr>
+<tr><td></td><td>Leguminose</td><td>Fagioli</td><td></td><td>48,9</td></tr>
+<tr><td></td><td></td><td>Piselli</td><td></td><td>43,5</td></tr>
 <tr><td></td><td></td><td>Taccole</td><td></td><td>&lt;5</td></tr>
 <tr><td></td><td>Granoturco verdura</td><td>Granoturco dolce</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td>Funghi</td><td>Prataioli</td><td></td><td>49,2</td></tr>
-<tr><td></td><td></td><td>Funghi, altri</td><td></td><td>6,8</td></tr>
+<tr><td></td><td>Funghi</td><td>Prataioli</td><td></td><td>48,9</td></tr>
+<tr><td></td><td></td><td>Funghi, altri</td><td></td><td>7,5</td></tr>
 <tr><td></td><td>Altri ortaggi</td><td>Ortaggi, altri</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Frutta</td><td>Frutta a granelli</td><td>Cotogne</td><td></td><td>58,6</td></tr>
-<tr><td></td><td></td><td>Mele da sidro</td><td></td><td>85,0</td></tr>
-<tr><td></td><td></td><td>Mele per la distillazione</td><td></td><td>83,9</td></tr>
-<tr><td></td><td></td><td>Mele, altre</td><td></td><td>88,6</td></tr>
-<tr><td></td><td></td><td>Pere da sidro</td><td></td><td>83,2</td></tr>
-<tr><td></td><td></td><td>Pere per la distillazione</td><td></td><td>77,2</td></tr>
-<tr><td></td><td></td><td>Pere, altre</td><td></td><td>61,2</td></tr>
-<tr><td></td><td>Frutta a nocciolo</td><td>Albicocche</td><td></td><td>29,2</td></tr>
-<tr><td></td><td></td><td>Ciliegie da tavola</td><td></td><td>42,7</td></tr>
-<tr><td></td><td></td><td>Ciliegie per la distillazione</td><td></td><td>51,6</td></tr>
-<tr><td></td><td></td><td>Ciliegie, altre (come conserve di ciliegie)</td><td></td><td>33,9</td></tr>
+<tr><td>Frutta</td><td>Frutta a granelli</td><td>Cotogne</td><td></td><td>59,6</td></tr>
+<tr><td></td><td></td><td>Mele da sidro</td><td></td><td>66,0</td></tr>
+<tr><td></td><td></td><td>Mele per la distillazione</td><td></td><td>81,1</td></tr>
+<tr><td></td><td></td><td>Mele, altre</td><td></td><td>87,0</td></tr>
+<tr><td></td><td></td><td>Pere da sidro</td><td></td><td>79,8</td></tr>
+<tr><td></td><td></td><td>Pere per la distillazione</td><td></td><td>73,6</td></tr>
+<tr><td></td><td></td><td>Pere, altre</td><td></td><td>55,3</td></tr>
+<tr><td></td><td>Frutta a nocciolo</td><td>Albicocche</td><td></td><td>25,4</td></tr>
+<tr><td></td><td></td><td>Ciliegie da tavola</td><td></td><td>38,2</td></tr>
+<tr><td></td><td></td><td>Ciliegie per la distillazione</td><td></td><td>42,9</td></tr>
+<tr><td></td><td></td><td>Ciliegie, altre (come conserve di ciliegie)</td><td></td><td>31,3</td></tr>
 <tr><td></td><td></td><td>Pesche</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Prugne e susine da tavola</td><td></td><td>24,7</td></tr>
-<tr><td></td><td></td><td>Prugne e susine per la distillazione</td><td></td><td>55,0</td></tr>
-<tr><td></td><td>Bacche e kiwi</td><td>Fragole</td><td></td><td>32,3</td></tr>
-<tr><td></td><td></td><td>Lamponi</td><td></td><td>43,5</td></tr>
-<tr><td></td><td></td><td>Mirtilli</td><td></td><td>6,2</td></tr>
-<tr><td></td><td></td><td>More</td><td></td><td>80,4</td></tr>
-<tr><td></td><td></td><td>Ribes a grappoli</td><td></td><td>89,9</td></tr>
-<tr><td></td><td></td><td>Ribes nero</td><td></td><td>92,2</td></tr>
-<tr><td></td><td></td><td>Uva spina</td><td></td><td>91,3</td></tr>
+<tr><td></td><td></td><td>Prugne e susine da tavola</td><td></td><td>19,7</td></tr>
+<tr><td></td><td></td><td>Prugne e susine per la distillazione</td><td></td><td>50,8</td></tr>
+<tr><td></td><td>Bacche e kiwi</td><td>Fragole</td><td></td><td>33,4</td></tr>
+<tr><td></td><td></td><td>Lamponi</td><td></td><td>42,9</td></tr>
+<tr><td></td><td></td><td>Mirtilli</td><td></td><td>6,0</td></tr>
+<tr><td></td><td></td><td>More</td><td></td><td>77,2</td></tr>
+<tr><td></td><td></td><td>Ribes a grappoli</td><td></td><td>88,2</td></tr>
+<tr><td></td><td></td><td>Ribes nero</td><td></td><td>77,8</td></tr>
+<tr><td></td><td></td><td>Uva spina</td><td></td><td>88,6</td></tr>
 <tr><td></td><td></td><td>Bacche, altre (come bacche di sambuco, cinorrodonte, more-lamponi, more di gelso) nonché kiwi</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Uva</td><td>Uva da tavola</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td></td><td>Uva per vino bianco</td><td></td><td>61,7</td></tr>
-<tr><td></td><td></td><td>Uva per vino rosso</td><td></td><td>44,6</td></tr>
+<tr><td></td><td></td><td>Uva per vino bianco</td><td></td><td>66,2</td></tr>
+<tr><td></td><td></td><td>Uva per vino rosso</td><td></td><td>48,5</td></tr>
 <tr><td></td><td></td><td>Uva, altra</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Banane</td><td>Banane</td><td>x</td><td></td></tr>
 <tr><td></td><td></td><td>Banane da cuocere</td><td>x</td><td></td></tr>
@@ -367,21 +367,21 @@ I prodotti naturali di cui all’articolo 6 che non possono essere ottenuti in S
 <tr><td></td><td></td><td>Erbe da tisana</td><td></td><td>&lt; 5</td></tr>
 <tr><td></td><td>Stimolanti, altri</td><td>Stimolanti, altri</td><td></td><td>&lt; 5</td></tr>
 <tr><td>Spezie</td><td>Spezie</td><td>Spezie</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Animali</td><td></td><td>Bovini</td><td></td><td>73,1</td></tr>
-<tr><td></td><td></td><td>Caprini</td><td></td><td>73,4</td></tr>
-<tr><td></td><td></td><td>Equini</td><td></td><td>8,1</td></tr>
-<tr><td></td><td></td><td>Ovini</td><td></td><td>40,8</td></tr>
-<tr><td></td><td></td><td>Suini</td><td></td><td>75,9</td></tr>
-<tr><td></td><td></td><td>Vitelli</td><td></td><td>96,3</td></tr>
-<tr><td></td><td>Pollame</td><td>Galline da ingrasso e ovaiole</td><td></td><td>60,3</td></tr>
-<tr><td></td><td></td><td>Tacchini</td><td></td><td>18,0</td></tr>
+<tr><td>Animali</td><td></td><td>Bovini</td><td></td><td>74,6</td></tr>
+<tr><td></td><td></td><td>Caprini</td><td></td><td>75,3</td></tr>
+<tr><td></td><td></td><td>Equini</td><td></td><td>7,5</td></tr>
+<tr><td></td><td></td><td>Ovini</td><td></td><td>41,7</td></tr>
+<tr><td></td><td></td><td>Suini</td><td></td><td>76,7</td></tr>
+<tr><td></td><td></td><td>Vitelli</td><td></td><td>96,5</td></tr>
+<tr><td></td><td>Pollame</td><td>Galline da ingrasso e ovaiole</td><td></td><td>60,4</td></tr>
+<tr><td></td><td></td><td>Tacchini</td><td></td><td>19,3</td></tr>
 <tr><td></td><td></td><td>Pollame, altro (come anatre, oche, galline faraone)</td><td></td><td>&lt; 5</td></tr>
-<tr><td></td><td>Conigli</td><td>Conigli</td><td></td><td>47,3</td></tr>
-<tr><td></td><td>Selvaggina</td><td>Selvaggina</td><td></td><td>35,8</td></tr>
+<tr><td></td><td>Conigli</td><td>Conigli</td><td></td><td>48,3</td></tr>
+<tr><td></td><td>Selvaggina</td><td>Selvaggina</td><td></td><td>34,6</td></tr>
 <tr><td></td><td>Animali, pesci escl., altri</td><td>Animali, pesci escl., altri</td><td></td><td>&lt; 5</td></tr>
-<tr><td>Uova</td><td></td><td>Uova di gallina (uova di *Gallus domesticus*)</td><td></td><td>62,0</td></tr>
-<tr><td></td><td></td><td>Uova, altre (come di struzzo, di quaglia, d’anatra)</td><td></td><td>90,4</td></tr>
-<tr><td>Pesci e animali acquatici</td><td></td><td>Pesci d’acqua dolce</td><td></td><td>22,1</td></tr>
+<tr><td>Uova</td><td></td><td>Uova di gallina (uova di *Gallus domesticus*)</td><td></td><td>62,1</td></tr>
+<tr><td></td><td></td><td>Uova, altre (come di struzzo, di quaglia, d’anatra)</td><td></td><td>92,6</td></tr>
+<tr><td>Pesci e animali acquatici</td><td></td><td>Pesci d’acqua dolce</td><td></td><td>23,9</td></tr>
 <tr><td></td><td></td><td>Pesci e animali acquatici, altri</td><td>x</td><td></td></tr>
 <tr><td>Latte</td><td></td><td>Latte di vacca, di capra, di pecora, di bufala</td><td></td><td>83,7</td></tr>
 <tr><td>Altro</td><td></td><td>Etanolo</td><td></td><td>&lt; 5</td></tr>
