@@ -4,13 +4,13 @@ number: "640.100"
 title: Gesetz über die direkten Steuern
 short: "Steuergesetz, StG"
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
+version: 2025-01-01
+valid_until: 2025-12-31
 version_adopted: 2023-03-22
 adopted: 2000-04-12
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6253/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6558/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Steuergesetz | Allgemeine Steuern
 
 (Steuergesetz, StG)
 
-Vom 12. April 2000 (Stand 1. März 2024)
+Vom 12. April 2000 (Stand 1. Januar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -398,9 +398,21 @@ beschliesst:
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen.
 
-<sup>3</sup> Leibrenten sowie Einkünfte aus Verpfründung sind zu 40 Prozent steuerbar.
+<sup>3</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
+
+- a) Bei garantierten Leistungen aus Leibrentenversicherungen, die dem Bundesgesetz über den Versicherungsvertrag vom 2. April 1908 (Versicherungsvertragsgesetz, VVG)[^23-1] unterstehen, ist der im Zeitpunkt des Vertragsabschlusses auf der Grundlage von Artikel 36 Absatz 1 des Versicherungsaufsichtsgesetzes vom 17. Dezember 2004 bestimmte maximale technische Zinssatz (m) während der gesamten Vertragsdauer massgebend:
+  - 1\. Ist dieser Zinssatz grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt:
+  - . Ertragsanteil = [1 - ((1 + m)²² - 1) / (22 × m × (1 + m)²³)] × 100 %
+  - 2\. Ist dieser Zinssatz negativ oder null, so beträgt der Ertragsanteil null Prozent.
+- b) Bei Überschussleistungen aus Leibrentenversicherungen, die dem VVG unterstehen, entspricht der Ertragsanteil 70 Prozent dieser Leistungen.
+- c) Bei Leistungen aus ausländischen Leibrentenversicherungen, aus Leibrenten und aus Verpfründungsverträgen ist die Höhe der um 0,5 Prozentpunkte erhöhten annualisierten Rendite zehnjähriger Bundesobligationen (r) während des betreffenden Steuerjahres und der neun vorangegangenen Jahre massgebend:
+  - 1\. Ist diese Rendite grösser als null, so berechnet sich der Ertragsanteil, auf den nächstliegenden ganzen Prozentwert auf- oder abgerundet, wie folgt:
+  - . Ertragsanteil = [1 - ((1 + r)²² - 1) / (22 × r × (1 + r)²³)] × 100 %
+  - 2\. Ist diese Rendite negativ oder null, so beträgt der Ertragsanteil null Prozent.
 
 <sup>4</sup> § 25 lit. d bleibt vorbehalten.
+
+[^23-1]: SR [221.229.1](https://db.clex.ch/link/Bund/221.229.1/de)
 
 ### (1. Teil/2. Abschn./B./I.) 7. Weitere steuerbare Einkünfte
 
@@ -535,7 +547,7 @@ beschliesst:
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
 - a) die privaten Schuldzinsen im Umfang der nach den §§ 21, 21a und 22 steuerbaren Vermögenserträge und weiterer CHF 50'000. Nicht abzugsfähig sind Schuldzinsen für Darlehen, die eine Kapitalgesellschaft einer an ihrem Kapital massgeblich beteiligten oder ihr sonstwie nahestehenden natürlichen Person zu Bedingungen gewährt, die erheblich von den im Geschäftsverkehr unter Dritten üblichen Bedingungen abweichen;
-- b) die dauernden Lasten sowie 40 Prozent der bezahlten Leibrenten;
+- b) die dauernden Lasten sowie der Ertragsanteil nach § 23 Abs. 3 lit. c der Leistungen aus Leibrenten- und aus Verpfründungsverträgen;
 - c) die Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für minderjährige Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d) die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge;
 - e) Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge gemäss dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge;
@@ -1774,7 +1786,7 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 
 <sup>2</sup> Der Regierungsrat kann Gegenrechtsvereinbarungen abschliessen[^120-1].
 
-[^120-1]: § 120 Abs. 2: Kantonen und Staaten, mit welchen Gegenrechtsregelungen bestehen: Siehe Anhang 2. Die Gegenrechtsregelungen sind publiziert auf der Webseite der Steuerverwaltung ([www.steuerverwaltung.bs.ch](http://www.steuerverwaltung.bs.ch)).
+[^120-1]: § 120 Abs. 2: Kantonen und Staaten, mit welchen Gegenrechtsregelungen bestehen: Siehe Anhang 2. Die Gegenrechtsregelungen sind publiziert auf der Webseite der Steuerverwaltung ([www.steuerverwaltung.bs.ch](https://www.bs.ch/fd/steuerverwaltung)).
 
 ### (1. Teil/7. Abschn.) II. Steuerobjekt
 
@@ -1854,7 +1866,7 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 <sup>1</sup> Für die Steuerbemessung werden abgezogen:
 
 - a) die auf der Erbschaft oder Zuwendung lastenden Schulden;
-- b) die Erbgangsschulden und die Kosten der Testamentsvollstrekung;
+- b) die Erbgangsschulden und die Kosten der Testamentsvollstreckung;
 - c) die Ansprüche der Hausgenossen gemäss Art. 606 des Schweizerischen Zivilgesetzbuches;
 - d) die Kosten für Bestattung und Grabunterhalt;
 - e) die Gerichts- und Anwaltskosten für Ungültigkeits-, Herabsetzungs- und Erbschaftsklagen vom Anteil der belasteten erbberechtigten Person.
@@ -2039,7 +2051,7 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 
 #### § 141a
 
-<sup>1</sup> Die Steuerverwaltung betreibt zur Erfüllung ihrer Aufgaben ein Informationssystem. Dieses kann auch besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.
+<sup>1</sup> Die Steuerverwaltung betreibt zur Erfüllung ihrer Aufgaben ein Informationssystem. Dieses kann auch besondere Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.
 
 <sup>1<sup>bis</sup></sup> Die Steuerverwaltung ist berechtigt, die Versichertennummer der Alters- und Hinterlassenenversicherung nach den Bestimmungen des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung für die Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.
 
@@ -2214,7 +2226,7 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 
 - a) Arbeitgeber und Arbeitgeberinnen über ihre Leistungen an Arbeitnehmer und Arbeitnehmerinnen;
 - b) Gläubiger und Gläubigerinnen, Schuldner und Schuldnerinnen über Bestand, Höhe, Verzinsung und Sicherstellung von Forderungen;
-- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen;
+- c) Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen. Bei Leibrentenversicherungen, die dem VVG unterstehen, müssen sie zusätzlich das Abschlussjahr, die Höhe der garantierten Leibrente, den gesamten steuerbaren Ertragsanteil nach § 23 Abs. 3 sowie die Überschussleistungen und den Ertragsanteil aus diesen Leistungen nach § 23 Abs. 3 lit. b ausweisen;
 - d) Treuhänder und Treuhänderinnen, Vermögensverwalter und Vermögensverwalterinnen, Pfandgläubiger und Pfandgläubigerinnen, Beauftragte und andere Personen, die Vermögen der steuerpflichtigen Person in Besitz oder in Verwaltung haben oder hatten, über dieses Vermögen und seine Erträgnisse;
 - e) Personen, die mit dem oder der Steuerpflichtigen Geschäfte tätigen oder getätigt haben, über die beiderseitigen Ansprüche und Leistungen.
 
