@@ -4,13 +4,12 @@ number: "154.211"
 title: Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals
 short: "Personalverordnung, PVO"
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-22
+version: 2025-01-01
+version_adopted: 2024-11-19
 adopted: 1994-12-12
 in_force: 1995-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.211"
-pdf: "https://bgs.zg.ch/api/de/versions/2517/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2517/pdf_file"
 
 (Personalverordnung, PVO)
 
-Vom 12. Dezember 1994 (Stand 1. Januar 2024)
+Vom 12. Dezember 1994 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -145,6 +144,8 @@ beschliesst:
 **Personalgewinnung**
 
 <sup>1</sup> Offene Stellen sind in der Regel zur freien Bewerbung über das Personalamt in den geeigneten Medien veröffentlichen zu lassen. Sind geeignete Bewerberinnen und Bewerber bekannt, so kann auf eine öffentliche Ausschreibung verzichtet werden und die Anstellung auf dem Berufungswege erfolgen.
+
+<sup>1a</sup> Bei den Leiterinnen und Leitern der Ämter, deren Stellvertretungen und Führungspersonen, welche direkt den Amtsleitenden unterstellt sind, ist eine Anstellung auf dem Berufungsweg vorgängig dem Regierungsrat anzuzeigen.
 
 <sup>2</sup> Stellenausschreibungen und Personalwerbung sind so zu gestalten, dass sie sich an beide Geschlechter richten.
 
@@ -319,6 +320,14 @@ beschliesst:
 <sup>2</sup> Öffentliche Nebenämter und Nebenerwerbstätigkeiten sind bei der Anstellung offen zu legen und von den Mitarbeiterinnen und Mitarbeitern während der Anstellung unaufgefordert der zuständigen Stelle zwecks Bewilligung zu melden.
 
 <sup>3</sup> In besonderen Fällen, namentlich bei Lehrpersonen und beim Reinigungspersonal mit einem Beschäftigungsumfang von weniger als 50 %, können die Direktionen von der unaufgeforderten Pflicht zur Meldung von Nebenerwerbstätigkeiten absehen und eine periodische Meldepflicht einführen.
+
+<sup>4</sup> Mitarbeiterinnen und Mitarbeiter melden der vorgesetzten Stelle zuhanden der Direktionsvorsteherin oder des Direktionsvorstehers bzw. der Landschreiberin oder des Landschreibers eine private Beziehung zu anderen Mitarbeitenden, wenn sie:
+
+- a) zueinander in einem Hierarchie- oder Abhängigkeitsverhältnis stehen;
+- b) gemeinsam Entscheide vorbereiten oder fällen; oder
+- c) ein- oder gegenseitige Kontrolle ausüben.
+
+<sup>5</sup> Die Vorstehenden der Direktionen und der Gerichte sehen bei bestehenden oder sich abzeichnenden Konflikten aufgrund privater Beziehungen geeignete Massnahmen vor.
 
 #### § 17
 
