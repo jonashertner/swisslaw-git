@@ -3,24 +3,23 @@ canton: OW
 number: "641.414"
 title: Ausführungsbestimmungen über die Quellensteuern von natürlichen und juristischen Personen
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-12-15
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.414"
-pdf: "http://gdb.ow.ch/api/de/versions/1477/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1910/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Quellensteuern von natürlichen und juristischen Personen
 
-vom 15.12.2020 (Stand 01.01.2021)
+vom 15.12.2020 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
-gestützt auf Artikel 33 der Vollziehungsverordnung zum Steuergesetz (VV zum StG) vom 18. November 1994[^ingress-1],
+gestützt auf Artikel 33 der Vollziehungsverordnung zum Steuergesetz vom 18. November 1994[^ingress-1],
 
 beschliesst:
 
@@ -32,13 +31,13 @@ beschliesst:
 
 **Durchführung**
 
-<sup>1</sup> Für die Durchführung der Quellenbesteuerung ist die kantonale Steuerverwaltung zuständig.
+<sup>1</sup> Für die Durchführung der Quellenbesteuerung ist die Steuerverwaltung zuständig.
 
 #### Art. 2
 
-**Pflichten der kantonalen Steuerverwaltung**
+**Pflichten der Steuerverwaltung**
 
-<sup>1</sup> Die kantonale Steuerverwaltung ist verpflichtet, die Quellensteuern in Zusammenarbeit mit dem Schuldner oder der Schuldnerin der steuerbaren Leistung und den Gemeinden zu beziehen.
+<sup>1</sup> Die Steuerverwaltung ist verpflichtet, die Quellensteuern in Zusammenarbeit mit dem Schuldner oder der Schuldnerin der steuerbaren Leistung und den Gemeinden zu beziehen.
 
 #### Art. 3
 
@@ -52,9 +51,9 @@ beschliesst:
 
 <sup>1</sup> Die Arbeitgeber und Arbeitgeberinnen sind verpflichtet:
 
-- a. der kantonalen Steuerverwaltung tarifbestimmende Änderungen in den Verhältnissen der Quellensteuerpflichtigen zu melden und ihr auf Verlangen auch weitere, für den Bezug der Quellensteuer benötigte Informationen zuzustellen. Quellensteuerpflichtige Personen sind der kantonalen Steuerverwaltung innert acht Tagen ab Stellenantritt auf dem dafür vorgesehenen Formular zu melden;
+- a. der Steuerverwaltung tarifbestimmende Änderungen in den Verhältnissen der Quellensteuerpflichtigen zu melden und ihr auf Verlangen auch weitere, für den Bezug der Quellensteuer benötigte Informationen zuzustellen. Quellensteuerpflichtige Personen sind der Steuerverwaltung innert acht Tagen ab Stellenantritt auf dem dafür vorgesehenen Formular zu melden;
 - b. die steuerbaren Leistungen um die mit deren Auszahlung, Überweisung, Gutschrift oder Verrechnung fällig werdende Steuer gemäss Tarif zu kürzen; dabei haben sie im Hinblick auf die Anwendung des richtigen Steuertarifs (A, B, C, G oder H) mindestens einmal pro Kalenderjahr abzuklären, ob ein Ehepartner oder eine Ehepartnerin der quellensteuerpflichtigen Arbeitnehmer oder Arbeitnehmerinnen die Erwerbstätigkeit aufgenommen bzw. aufgegeben hat, und den Tarif, wenn nötig, entsprechend anzupassen;
-- c. zuhanden der kantonalen Steuerverwaltung periodisch die Abrechnung über die Steuerabzüge zu erstellen und die Steuerbetreffnisse zu überweisen;
+- c. zuhanden der Steuerverwaltung periodisch die Abrechnung über die Steuerabzüge zu erstellen und die Steuerbetreffnisse zu überweisen;
 - d. den Steuerpflichtigen auf Verlangen eine Bescheinigung über den Steuerabzug auszustellen.
 
 <sup>2</sup> Übermittelt der Arbeitgeber bzw.die Arbeitgeberin die Quellensteuerabrechnung elektronisch, so kann er bwz. sie Neuanstellungen mittels monatlicher Abrechnung melden.
@@ -104,7 +103,7 @@ beschliesst:
 
 <sup>2</sup> Auf Taggeldern und übrigen Ersatzleistungen, welche die Arbeitgeber oder die Arbeitgeberinnen ausbezahlen, ist der Quellensteuerabzug zusammen mit den Arbeitseinkünften nach dem entsprechenden Tarif aus Artikel 6 dieser Ausführungsbestimmungen vorzunehmen.
 
-## 2. Quellensteuern von natürlichen Personen mit steuerrechtlichen Wohnsitz oder Aufenthalt im Kanton
+## 2. Quellensteuern von natürlichen Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
 
 #### Art. 8
 
@@ -127,7 +126,7 @@ beschliesst:
 
 **Nachträgliche ordentliche Veranlagung auf Antrag**
 
-<sup>1</sup> Die quellensteuerpflichtige Person kann bei der kantonalen Steuerverwaltung bis zum 31. März des auf das Steuerjahr folgenden Jahres schriftlich einen Antrag um Durchführung einer nachträglichen ordentlichen Veranlagung einreichen. Ein gestellter Antrag kann nicht mehr zurückgezogen werden.
+<sup>1</sup> Die quellensteuerpflichtige Person kann bei der Steuerverwaltung bis zum 31. März des auf das Steuerjahr folgenden Jahres schriftlich einen Antrag um Durchführung einer nachträglichen ordentlichen Veranlagung einreichen. Ein gestellter Antrag kann nicht mehr zurückgezogen werden.
 
 <sup>2</sup> Im Säumnisfall verliert der Arbeitnehmer oder die Arbeitnehmerin seinen bzw. ihren Anspruch.
 
@@ -139,7 +138,7 @@ beschliesst:
 
 **Regelung von Härtefällen**
 
-<sup>1</sup> Auf Gesuch von quellensteuerpflichtigen Personen, die Unterhaltsbeiträge nach Art. 37 Abs. 1 Bst. c und d des Steuergesetzes[^10-1] leisten und bei denen der Tarifcode A, B, C oder H angewendet wird, kann die kantonale Steuerverwaltung zur Milderung von Härtefällen bei der Berechnung der Quellensteuer Kinderabzüge bis höchstens zur Höhe der Unterhaltsbeiträge berücksichtigen.
+<sup>1</sup> Auf Gesuch von quellensteuerpflichtigen Personen, die Unterhaltsbeiträge nach Art. 37 Abs. 1 Bst. c und d des Steuergesetzes[^10-1] leisten und bei denen der Tarifcode A, B, C oder H angewendet wird, kann die Steuerverwaltung zur Milderung von Härtefällen bei der Berechnung der Quellensteuer Kinderabzüge bis höchstens zur Höhe der Unterhaltsbeiträge berücksichtigen.
 
 <sup>2</sup> Wurden Unterhaltsbeiträge bei der Anwendung eines dieser Tarifcodes berücksichtigt, so wird die nachträgliche ordentliche Veranlagung nur auf Antrag der quellensteuerpflichtigen Person durchgeführt. Wird die nachträgliche ordentliche Veranlagung beantragt, so wird diese bis zum Ende der Quellensteuerpflicht durchgeführt.
 
@@ -172,21 +171,21 @@ beschliesst:
 
 **Durchführung**
 
-<sup>1</sup> Zuständig für die Durchführung der Quellenbesteuerung der natürlichen und juristischen Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz ist die kantonale Steuerverwaltung, und zwar in Zusammenarbeit mit den Steuerpflichtigen und den Gemeinden, in denen:
+<sup>1</sup> Zuständig für die Durchführung der Quellenbesteuerung der natürlichen und juristischen Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz ist die Steuerverwaltung, und zwar in Zusammenarbeit mit den Steuerpflichtigen und den Gemeinden, in denen:
 
 - a. der Schuldner oder die Schuldnerin der steuerbaren Leistungen von Arbeitnehmern oder Arbeitnehmerinnen ohne steuerrechtlichen Wohnsitz oder Aufenthalt im Kanton bei Fälligkeit Sitz oder Betriebsstätte haben;
 - b. die im Ausland wohnhaften Künstler und Künstlerinnen, Sportler und Sportlerinnen oder Referenten und Referentinnen ihre Tätigkeit ausüben;
 - c. die Grundstücke liegen, auf denen Forderungen von im Ausland wohnhaften Gläubigern und Gläubigerinnen oder Nutzniessern und Nutzniesserinnen durch Grund- oder Faustpfänder gesichert sind.
 
-<sup>2</sup> In allen Fällen erfolgt die Zusammenarbeit mit den Gemeinden, in denen der Schuldner oder die Schuldnerin der steuerbaren Leistungen bei Fälligkeit Sitz oder Betriebsstätte hat, und in Zweifelsfällen mit den durch die kantonale Steuerverwaltung bezeichneten Gemeinden.
+<sup>2</sup> In allen Fällen erfolgt die Zusammenarbeit mit den Gemeinden, in denen der Schuldner oder die Schuldnerin der steuerbaren Leistungen bei Fälligkeit Sitz oder Betriebsstätte hat, und in Zweifelsfällen mit den durch die Steuerverwaltung bezeichneten Gemeinden.
 
 #### Art. 14
 
 **Nachträgliche ordentliche Veranlagung bei Quasi-Ansässigkeit**
 
-<sup>1</sup> Eine Person, die nach Art. 7 Abs. 1 Bst. a des Steuergesetzes[^14-1] steuerpflichtig ist und in der Regel mindestens 90 Prozent ihrer weltweiten Bruttoeinkünfte, einschliesslich der Bruttoeinkünfte des Ehegatten, in der Schweiz versteuert (Quasi-Ansässigkeit), kann bei der kantonalen Steuerverwaltung bis zum 31. März des auf das Steuerjahr folgenden Jahres schriftlich einen Antrag um Durchführung einer nachträglichen ordentlichen Veranlagung einreichen. Ein gestellter Antrag kann nicht mehr zurückgezogen werden.
+<sup>1</sup> Eine Person, die nach Art. 7 Abs. 1 Bst. a des Steuergesetzes[^14-1] steuerpflichtig ist und in der Regel mindestens 90 Prozent ihrer weltweiten Bruttoeinkünfte, einschliesslich der Bruttoeinkünfte des Ehegatten, in der Schweiz versteuert (Quasi-Ansässigkeit), kann bei der Steuerverwaltung bis zum 31. März des auf das Steuerjahr folgenden Jahres schriftlich einen Antrag um Durchführung einer nachträglichen ordentlichen Veranlagung einreichen. Ein gestellter Antrag kann nicht mehr zurückgezogen werden.
 
-<sup>2</sup> Die kantonale Steuerverwaltung prüft im Veranlagungsverfahren, ob die quellensteuerpflichtige Person im Steuerjahr die Voraussetzungen der Quasi-Ansässigkeit erfüllt. Dazu ermittelt sie nach den Art. 19 bis 21 und 25 bis 27 des Steuergesetzes[^14-2] zuerst die weltweiten Bruttoeinkünfte und danach den Anteil der in der Schweiz steuerbaren Bruttoeinkünfte.
+<sup>2</sup> Die Steuerverwaltung prüft im Veranlagungsverfahren, ob die quellensteuerpflichtige Person im Steuerjahr die Voraussetzungen der Quasi-Ansässigkeit erfüllt. Dazu ermittelt sie nach den Art. 19 bis 21 und 25 bis 27 des Steuergesetzes[^14-2] zuerst die weltweiten Bruttoeinkünfte und danach den Anteil der in der Schweiz steuerbaren Bruttoeinkünfte.
 
 [^14-1]: GDB [641.4](http://gdb.ow.ch/data/641.4/de)
 [^14-2]: GDB [641.4](http://gdb.ow.ch/data/641.4/de)
@@ -195,7 +194,7 @@ beschliesst:
 
 **Nachträgliche ordentliche Veranlagung von Amtes wegen**
 
-<sup>1</sup> Die kantonale Steuerverwaltung kann von Amtes wegen eine nachträgliche ordentliche Veranlagung durchführen, wenn sich aus der Aktenlage der begründete Verdacht ergibt, dass stossende Verhältnisse zugunsten oder zuungunsten der steuerpflichtigen Person vorliegen.
+<sup>1</sup> Die Steuerverwaltung kann von Amtes wegen eine nachträgliche ordentliche Veranlagung durchführen, wenn sich aus der Aktenlage der begründete Verdacht ergibt, dass stossende Verhältnisse zugunsten oder zuungunsten der steuerpflichtigen Person vorliegen.
 
 <sup>2</sup> Für die Einleitung einer nachträglichen ordentlichen Veranlagung von Amtes wegen gilt Art. 187 des Steuergesetzes[^15-1].
 
@@ -244,7 +243,7 @@ beschliesst:
 
 **Meldepflicht der Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge**
 
-<sup>1</sup> Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge sind verpflichtet, Leistungen an Vorsorgenehmer und Vorsorgenehmerinnen oder Begünstigte spätestens 30 Tage vor Auszahlung der kantonalen Steuerverwaltung zu melden.
+<sup>1</sup> Einrichtungen der beruflichen Vorsorge und der gebundenen Selbstvorsorge sind verpflichtet, Leistungen an Vorsorgenehmer und Vorsorgenehmerinnen oder Begünstigte spätestens 30 Tage vor Auszahlung der Steuerverwaltung zu melden.
 
 ## 4. Vereinfachtes Abrechnungsverfahren
 
@@ -318,7 +317,7 @@ beschliesst:
 
 **Abrechnungsperiode**
 
-<sup>1</sup> Die kantonale Steuerverwaltung bestimmt mittels Verfügung den Zeitraum, über den der Schuldner oder die Schuldnerin der steuerbaren Leistung abzurechnen haben (Abrechnungsperiode).
+<sup>1</sup> Die Steuerverwaltung bestimmt mittels Verfügung den Zeitraum, über den der Schuldner oder die Schuldnerin der steuerbaren Leistung abzurechnen haben (Abrechnungsperiode).
 
 <sup>2</sup> Fehlt eine Verfügung, sind die Abrechnungen durch den Arbeitgeber oder die Arbeitgeberin monatlich oder, wenn während des ganzen Jahres weniger als zehn Steuerpflichtige dem Steuerabzug unterworfen sind, vierteljährlich (monatliche bzw. vierteljährliche Abrechnungsperiode) zu erstellen. Die vierteljährlichen Abrechnungsperioden enden jeweils per 31. März, 30. Juni, 30. September und 31. Dezember.
 
@@ -328,13 +327,13 @@ beschliesst:
 
 **Abrechnungsfrist**
 
-<sup>1</sup> Die Abrechnungen über die abgezogenen Steuern und die Bezugsprovisionen sind durch den Schuldner oder die Schuldnerin der steuerbaren Leistung innert 30 Tagen nach Ablauf der Abrechnungsperiode der kantonalen Steuerverwaltung einzureichen.
+<sup>1</sup> Die Abrechnungen über die abgezogenen Steuern und die Bezugsprovisionen sind durch den Schuldner oder die Schuldnerin der steuerbaren Leistung innert 30 Tagen nach Ablauf der Abrechnungsperiode der Steuerverwaltung einzureichen.
 
 #### Art. 29
 
 **Zahlungsfrist**
 
-<sup>1</sup> Der Steuerbetrag ist innert 45 Tagen nach Ablauf der Abrechnungsperiode vom Schuldner oder der Schuldnerin der steuerbaren Leistung der kantonalen Steuerverwaltung zu überweisen.
+<sup>1</sup> Der Steuerbetrag ist innert 45 Tagen nach Ablauf der Abrechnungsperiode vom Schuldner oder der Schuldnerin der steuerbaren Leistung der Steuerverwaltung zu überweisen.
 
 #### Art. 30
 
@@ -348,9 +347,9 @@ beschliesst:
 
 **Bezugsprovision**
 
-<sup>1</sup> Verletzen der Schuldner oder die Schuldnerin der steuerbaren Leistung Verfahrenspflichten, so kann die kantonale Steuerverwaltung die Bezugsprovision von einem Prozent herabsetzen.
+<sup>1</sup> Verletzen der Schuldner oder die Schuldnerin der steuerbaren Leistung Verfahrenspflichten, so kann die Steuerverwaltung die Bezugsprovision von einem Prozent herabsetzen.
 
-<sup>2</sup> Muss mangels rechtzeitiger Einreichung einer Abrechnung durch die kantonale Steuerverwaltung eine Schätzung vorgenommen werden, so entfällt die Bezugsprovision.
+<sup>2</sup> Muss mangels rechtzeitiger Einreichung einer Abrechnung durch die Steuerverwaltung eine Schätzung vorgenommen werden, so entfällt die Bezugsprovision.
 
 ## 6. Übergangsbestimmung
 
@@ -372,6 +371,8 @@ Aufgehobene Erlasse:
 
 \- Ausführungsbestimmungen über die Quellensteuern von natürlichen und juristischen Personen vom 16. Januar 1995 (OGS 1995, 60, OGS 2001, 30, OGS 2005, 7, OGS 2013, 44, OGS 2019, 23)
 
-\- Ausführungsbestimmungen über die Rücklagen für Forschung und Entwicklung, Betriebsumstellungen und Betriebsumstrukturierungen vom 1. Dezember 2015 (OGS 2015, 67)
+\- Ausführungsbestimmungen über die Rücklagen für Forschung und Entwicklung, Betriebsumstellungen und Betriebsumstrukturierungen vom 1. Dezember 2015 (OGS 2015, 67),
+
+\- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38)
 
 OGS 2020, 56
