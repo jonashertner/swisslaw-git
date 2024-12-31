@@ -4,13 +4,12 @@ number: "295.211"
 title: Beurkundungs- und Beglaubigungsverordnung
 short: BeurV
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-03-13
+version: 2025-01-01
+version_adopted: 2024-10-16
 adopted: 2012-07-04
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/295.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3627/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3691/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3627/pdf_file"
 
 (BeurV)
 
-Vom 04.07.2012 (Stand 01.07.2024)
+Vom 04.07.2012 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -44,13 +43,13 @@ beschliesst:
 - a) Wohnsitzbescheinigung,
 - b) Handlungsfähigkeitszeugnis,
 - c) Erklärung über das Nichtvorliegen von Unvereinbarkeiten gemäss § 7 BeurG inkl. Angaben über ein allfälliges Anstellungsverhältnis,
-- d) Anwältinnen und Anwälte: Auszug aus dem kantonalen Anwaltsregister,
+- d) Anwältinnen und Anwälte: Auszug aus dem Anwaltsregister,
 - e) Auszug aus dem Strafregister,
 - f) Auszug aus dem Betreibungsregister,
 - g) Versicherungsnachweis der Berufshaftpflichtversicherung oder Nachweis einer anderen gleichwertigen Sicherheit,
 - h) aargauischer Fähigkeitsausweis als Notarin oder Notar oder Ausweis eines anderen Kantons über die Befähigung als Urkundsperson und Entscheid der Notariatskommission über dessen Anerkennung in beglaubigter Kopie.
 
-<sup>3</sup> Die Unterlagen gemäss Absatz 2 lit. a–g sind im Original einzureichen und dürfen nicht älter als drei Monate sein.
+<sup>3</sup> Die Unterlagen gemäss Absatz 2 lit. a–g sind im Original oder in beglaubigter Kopie einzureichen und dürfen nicht älter als drei Monate sein.
 
 #### § 2
 
@@ -60,10 +59,28 @@ beschliesst:
 
 - a) Sitz oder Zweigniederlassung der Gesellschaft befindet sich im Kanton,
 - b) Erbringen von notariellen und anderen Rechtsdienstleistungen als Hauptzweck der Gesellschaft,
-- c) Aktien- oder Stammkapital ist mehrheitlich im Besitz von Urkundspersonen entweder alleine oder zusammen mit im Anwaltsregister des Kantons eingetragenen Anwältinnen oder Anwälten,
-- d) Urkundspersonen entweder alleine oder zusammen mit im Anwaltsregister des Kantons eingetragenen Anwältinnen oder Anwälten verfügen über die Mehrheit der Stimmen im Verwaltungsrat und in der General- oder Gesellschafterversammlung,
+- c) Aktien- oder Stammkapital ist mehrheitlich im Besitz von Urkundspersonen entweder alleine oder zusammen mit im Anwaltsregister eines Kantons eingetragenen Anwältinnen oder Anwälten,
+- d) Urkundspersonen entweder alleine oder zusammen mit im Anwaltsregister eines Kantons eingetragenen Anwältinnen oder Anwälten verfügen über sämtliche Stimmen im Verwaltungsrat beziehungsweise in der Geschäftsführung sowie über die Mehrheit in der General- oder Gesellschafterversammlung,
 - e) Aktien sind ausschliesslich als vinkulierte Namenaktien ausgestaltet,
 - f) Statutenbestimmung, wonach Urkundspersonen fachlich keiner Person ohne Beurkundungsbefugnis unterstellt sind.
+
+#### § 2a
+
+**Anstellung bei einer Personengesellschaft**
+
+<sup>1</sup> Die Urkundsperson kann sich bei einer Personengesellschaft anstellen lassen, wenn folgende Voraussetzungen erfüllt sind:
+
+- a) Sitz oder Zweigniederlassung der Gesellschaft befindet sich im Kanton,
+- b) Erbringen von notariellen und anderen Rechtsdienstleistungen als Hauptzweck der Gesellschaft,
+- c) Liquidationsanteile an der Gesellschaft und allfällige Kommanditsummen stehen Urkundspersonen entweder alleine oder zusammen mit im Anwaltsregister eines Kantons eingetragenen Anwältinnen oder Anwälten mehrheitlich zu,
+- d) Urkundspersonen entweder alleine oder zusammen mit im Anwaltsregister eines Kantons eingetragenen Anwältinnen oder Anwälten verfügen über sämtliche Stimmen in der Geschäftsführung und die Mehrheit der Stimmen in der Gesellschafterversammlung,
+- e) Erklärung der Gesellschafter oder Bestimmung im Gesellschaftsvertrag, wonach Urkundspersonen fachlich keiner Person ohne Beurkundungsbefugnis unterstellt sind.
+
+#### § 2b
+
+**Indirekte Beherrschung**
+
+<sup>1</sup> Die Voraussetzungen gemäss den §§ 2 und 2a müssen von der beherrschenden Gesellschaft sowie von der beherrschten Gesellschaft erfüllt sein, wenn eine Gesellschaft Aktionärin oder Gesellschafterin einer Gesellschaft gemäss § 7 Abs. 3 lit. b BeurG ist.
 
 #### § 3
 
@@ -77,7 +94,15 @@ beschliesst:
 - d) Arbeitsvertrag,
 - e) Erklärung des Verwaltungsrats beziehungsweise der Geschäftsführung betreffend Unabhängigkeit der angestellten Urkundspersonen, Einhaltung der Berufsregeln und des Berufsgeheimnisses.
 
-<sup>2</sup> Bereits praktizierende Urkundspersonen, die beabsichtigen, sich von einer juristischen Person anstellen zu lassen, haben der Notariatskommission ein Gesuch um Überprüfung der Beurkundungsbefugnis mit den Unterlagen gemäss Absatz 1 einzureichen.
+<sup>1<sup>bis</sup></sup> Wer beabsichtigt, sich als Urkundsperson bei einer Personengesellschaft anstellen zu lassen, hat im Gesuch um Erteilung der Beurkundungsbefugnis zusätzlich die Gesellschaft zu bezeichnen und folgende Unterlagen einzureichen:
+
+- a) Gesellschaftsvertrag,
+- b) Gesellschafterbindungsverträge,
+- c) Reglemente,
+- d) Arbeitsvertrag,
+- e) Erklärung der Geschäftsführung betreffend Unabhängigkeit der angestellten Urkundspersonen, Einhaltung der Berufsregeln und des Berufsgeheimnisses.
+
+<sup>2</sup> Bereits praktizierende Urkundspersonen, die beabsichtigen, sich von einer Kapital- oder Personengesellschaft anstellen zu lassen, haben der Notariatskommission ein Gesuch um Überprüfung der Beurkundungsbefugnis mit den Unterlagen gemäss Absatz 1 beziehungsweise 1<sup>bis</sup> einzureichen.
 
 #### § 4
 
@@ -136,16 +161,16 @@ beschliesst:
 
 <sup>1</sup> Das Notariatspraktikum vermittelt im Rahmen einer zeitlich befristeten Anstellung eine praxisbezogene Ausbildung.
 
-<sup>2</sup> Es sind mindestens sechs Monate bei einer Urkundsperson und mindestens drei Monate bei einem Grundbuchamt zu absolvieren. Unterbrechungen der praktischen Ausbildung wegen Schwangerschaft, Militärdienst, Ferien, Krankheit oder aus anderen Gründen werden, wenn sie insgesamt die Dauer von vier Wochen pro Jahr übersteigen, nicht an die Praktikumsdauer angerechnet.
+<sup>2</sup> Es sind mindestens sechs Monate bei einer Urkundsperson und mindestens drei Monate bei einem Grundbuchamt zu absolvieren. Das Praktikum hat mindestens 1848 Arbeitsstunden zu dauern.
 
-<sup>3</sup> Wird das Notariatspraktikum im Rahmen einer Teilzeitbeschäftigung absolviert, verlängert sich die Dauer entsprechend.
+<sup>3</sup> Wird das Notariatspraktikum im Rahmen einer Teilzeitbeschäftigung mit einem Mindestpensum von 50 % absolviert, verlängert sich die Dauer entsprechend.
 
 <sup>4</sup> Die Notariatskommission kann bewilligen, dass das Notariatspraktikum
 
 - a) durch vollständige oder teilweise Anrechnung einer notariellen juristischen Berufstätigkeit verkürzt wird oder
 - b) teilweise beim Handelsregisteramt oder bei einer kantonalen Dienststelle, die einen direkt mit der notariellen Tätigkeit zusammenhängenden Aufgabenbereich hat, absolviert werden kann.
 
-<sup>5</sup> Die Praktikumsleiterin oder der Praktikumsleiter muss bestätigen, dass die Praktikantin oder der Praktikant während der anrechenbaren Praktikumsdauer ausschliesslich im notariellen Bereich tätig war.
+<sup>5</sup> Die Praktikumsleiterin oder der Praktikumsleiter muss bestätigen, dass die Praktikantin oder der Praktikant während der anrechenbaren Praktikumsdauer ausschliesslich im notariellen Bereich tätig war. Aus der Praktikumsbestätigung müssen das geleistete Pensum, die Anstellungsdauer und die geleisteten Praktikumsstunden hervorgehen.
 
 #### § 10
 
@@ -162,9 +187,9 @@ beschliesst:
 - a) Handlungsfähigkeitszeugnis (nicht älter als drei Monate),
 - b) Bestätigung betreffend Notariatspraktikum,
 - c) Auszug aus dem Strafregister (nicht älter als drei Monate),
-- d) juristisches Masterdiplom oder juristisches Lizentiat einer schweizerischen Universität oder Masterdiplom einer schweizerischen Fachhochschule mit Fachrichtung Notariat in beglaubigter Kopie.
+- d) juristisches Masterdiplom oder juristisches Lizentiat einer schweizerischen Universität oder Auszug aus dem Anwaltsregister.
 
-<sup>2</sup> Die Unterlagen gemäss Absatz 1 lit. a–c sind im Original einzureichen.
+<sup>2</sup> Die Unterlagen gemäss Absatz 1 sind im Original oder in beglaubigter Kopie einzureichen.
 
 #### § 12
 
@@ -184,7 +209,14 @@ beschliesst:
 
 **Schriftlicher Prüfungsteil**
 
-<sup>1</sup> Der schriftliche Prüfungsteil umfasst zwei Klausurarbeiten von je vier Stunden und vier Klausurarbeiten von je zwei Stunden namentlich aus folgenden Rechtsgebieten:
+<sup>1</sup> Der schriftliche Prüfungsteil dauert 16 Stunden. Für mindestens zwei Klausurarbeiten stehen je vier Stunden zur Verfügung. Im Übrigen obliegt die Organisation der Prüfung der Notariatsprüfungskommission.
+
+- a) …
+- b) …
+- c) …
+- d) …
+
+<sup>1<sup>bis</sup></sup> Der schriftliche Prüfungsteil umfasst folgende Rechtsgebiete:
 
 - a) Sachen- und Grundbuchrecht mit Neben- und Ausführungserlassen, namentlich BewG[^14-1], BGBB[^14-2], EG ZGB[^14-3],
 - b) Personen-, Familien- und Erbrecht,
@@ -205,7 +237,7 @@ beschliesst:
 
 <sup>1</sup> Zum mündlichen Prüfungsteil wird zugelassen, wer den schriftlichen Prüfungsteil bestanden hat.
 
-<sup>2</sup> Der mündliche Prüfungsteil wird vor der gesamten Notariatsprüfungskommission abgelegt und ist öffentlich.
+<sup>2</sup> Der mündliche Prüfungsteil wird vor Mitgliedern der Notariatsprüfungskommission abgelegt und ist öffentlich.
 
 <sup>3</sup> Er dauert in der Regel zwei Stunden und umfasst namentlich folgende Rechtsgebiete:
 
@@ -337,10 +369,10 @@ beschliesst:
 - a) die chronologische Protokollnummer,
 - b) die Parteien (Name, Vorname und Wohnsitz beziehungsweise Firma und Sitz),
 - c) der Gegenstand der Beurkundung,
-- d) Ort und Datum der Beurkundung,
-- e) Datum der Anmeldung oder Hinterlegung,
-- f) Tagebuchnummer des Grundbuchamts,
-- g) Anzahl Exemplare der öffentlichen Urkunde,
+- d) der Ort und das Datum der Beurkundung,
+- e) das Datum der Anmeldung oder Hinterlegung,
+- f) die Tagebuchnummer des Grundbuchamts,
+- g) die Anzahl Exemplare der öffentlichen Urkunde sowie der Hinweis auf deren elektronische Ausfertigung,
 - h) Bemerkungen.
 
 #### § 28
@@ -399,7 +431,7 @@ beschliesst:
 
 **Änderungen**
 
-<sup>1</sup> Jede inhaltliche Änderung der öffentlichen Urkunde ist auf der gleichen Seite anzubringen, zu datieren, zu stempeln sowie von der Urkundsperson und den Urkundsparteien zu unterzeichnen. Sie muss lesbar und der zu ändernden Stelle klar zuordenbar sein.
+<sup>1</sup> Jede inhaltliche Änderung der öffentlichen Urkunde ist auf der gleichen Seite anzubringen, zu datieren, zu stempeln sowie von der Urkundsperson und den Urkundsparteien zu unterzeichnen.
 
 <sup>2</sup> Gestrichene Stellen müssen lesbar bleiben.
 
@@ -411,7 +443,15 @@ beschliesst:
 
 <sup>1</sup> Offensichtliche Schreibfehler darf die Urkundsperson ohne Mitwirkung der Urkundsparteien auch nach der Beurkundung berichtigen.
 
-<sup>2</sup> Jede Korrektur ist auf der gleichen Seite anzubringen, zu datieren, zu stempeln und von der Urkundsperson zu unterzeichnen. Sie muss lesbar und der zu ändernden Stelle klar zuordenbar sein.
+<sup>2</sup> Jede Korrektur ist auf der gleichen Seite anzubringen, zu datieren, zu stempeln und von der Urkundsperson zu unterzeichnen.
+
+#### § 34a
+
+**Gemeinsame Vorschrift**
+
+<sup>1</sup> Es darf weder bei Änderungen noch Korrekturen auf der Urkunde radiert werden.
+
+<sup>2</sup> Jede inhaltliche Änderung oder Korrektur muss lesbar und der zu ändernden Stelle klar zuordenbar sein.
 
 ### 3.2. Gestaltung der öffentlichen Urkunde
 
@@ -432,7 +472,7 @@ beschliesst:
   - 2\. bei Stellvertretung durch juristische Personen und Kollektiv- und Kommanditgesellschaften: Firma oder Name, Sitz, Domizil, Rechtsform, wenn diese nicht aus der Firma oder dem Namen hervorgeht, die Unternehmens-Identifikationsnummer (UID) und die für sie handelnden Personen (Name, Vorname, Funktion und Zeichnungsberechtigung),
   - 3\. in allen Fällen die Angabe, wie die Ermächtigung zur Stellvertretung nachgewiesen wurde,
 - f) die Personalien der Nebenpersonen: Name, Vorname, Geburtsdatum und Wohnort,
-- g) die Angabe, wie die Identität der unter lit. d–f erwähnten Personen nachgewiesen wurde,
+- g) die Angabe, wie die Identität der unter lit. d–f erwähnten Personen nachgewiesen wurde, beziehungsweise bei vertretenen Personen, dass eine beglaubigte Vollmacht vorliegt,
 - h) den Urkundentext,
 - i) Ort, Tag, Monat und Jahr der Beurkundung, die erforderlichen Kurzzeichen und Unterschriften,
 - k) die Bescheinigung der Urkundsperson,
@@ -471,9 +511,9 @@ beschliesst:
 
 #### § 39
 
-**Exemplare**
+**Exemplare und elektronische Ausfertigungen**
 
-<sup>1</sup> Die Urkundsperson hält in der Urkunde fest, wie viele Exemplare für wen erstellt werden.
+<sup>1</sup> Die Urkundsperson hält in der Urkunde fest, wie viele Exemplare für wen erstellt werden und ob eine elektronische Ausfertigung der Urkunde erstellt wird.
 
 ### 3.3. Grundstückgeschäfte
 
@@ -532,7 +572,7 @@ beschliesst:
 
 **Beilagen zur Anmeldung**
 
-<sup>1</sup> Vollmachten und Unterlagen gemäss § 32 müssen dem Grundbuchamt nicht eingereicht werden, wenn das Vertretungsverhältnis in der öffentlichen Urkunde bescheinigt wird. Das Gleiche gilt für Dokumente wie Handelsregisterauszüge oder Todesscheine, die gemäss Feststellung der Urkundsperson in der öffentlichen Urkunde vorliegen und bei einer Behörde oder einer Amtsstelle in der Schweiz wieder einverlangt werden können.
+<sup>1</sup> Vollmachten und Unterlagen gemäss § 32 sind dem Grundbuchamt nicht einzureichen, wenn das Vertretungsverhältnis in der öffentlichen Urkunde bescheinigt wird. Das Gleiche gilt für Dokumente wie Handelsregisterauszüge oder Todesscheine, die gemäss Feststellung der Urkundsperson in der öffentlichen Urkunde vorliegen und bei einer Behörde oder einer Amtsstelle in der Schweiz wieder einverlangt werden können.
 
 <sup>2</sup> Andere Dokumente wie Auszüge aus ausländischen Registern sind dem Grundbuchamt im Original oder in beglaubigter Kopie einzureichen.
 
@@ -658,15 +698,7 @@ beschliesst:
 
 #### § 60
 
-**Prüfung für Notare**
-
-<sup>1</sup> Wer vor Inkrafttreten des BeurG den ersten schriftlichen Teil der Prüfung zum ersten oder zum zweiten Mal nicht bestanden hat, kann die Notariatsprüfung nach neuem Recht als Wiederholungsprüfung absolvieren. Wer vor Inkrafttreten des BeurG den ersten schriftlichen Teil der Prüfung bestanden hat, wird zum mündlichen Prüfungsteil zugelassen.
-
-<sup>2</sup> Wer vor Inkrafttreten des BeurG im mündlichen Teil der Prüfung ungenügend war, muss nur den mündlichen Prüfungsteil wiederholen.
-
-<sup>3</sup> Kandidatinnen und Kandidaten mit Anwalts- oder Fürsprecherpatent, die vor Inkrafttreten des BeurG den ersten schriftlichen Teil der Prüfung nicht bestanden haben, können den schriftlichen Prüfungsteil nach neuem Recht als Wiederholungsprüfung absolvieren. Der mündliche Prüfungsteil wird ihnen erlassen.
-
-<sup>4</sup> Im Übrigen werden die Wiederholungsprüfungen nach neuem Recht durchgeführt.
+**…**
 
 #### § 61
 
@@ -679,6 +711,12 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt mit Ausnahme der §§ 55 und 59 unter Vorbehalt der Genehmigung durch den Bund am 1. Januar 2013 in Kraft. Die §§ 55 und 59 treten unter Vorbehalt der Genehmigung durch den Bund am 1. August 2012 in Kraft.
+
+#### § 63
+
+**Umsetzungsfrist zu den §§ 2 Abs.1 lit. d und 2a Abs. 1 lit. d**
+
+<sup>1</sup> Kapital- und Personengesellschaften gemäss § 7 Abs. 3 lit. b BeurG, welche die Anforderungen gemäss den §§ 2 Abs. 1 lit. d beziehungsweise 2a Abs. 1 lit. d nicht erfüllen, haben die erforderlichen Anpassungen innert zwei Jahren ab Inkrafttreten des neuen Rechts vorzunehmen.
 
 Aarau, 4. Juli 2012
 
