@@ -4,11 +4,11 @@ title: Legge federale del 21 giugno 2019 sugli appalti pubblici (LAPub)
 short: LAPub
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2020-126-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/it"
 
 (LAPub)
 
-del 21 giugno 2019 (Stato 1° gennaio 2024)
+del 21 giugno 2019 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -544,7 +544,9 @@ Le seguenti indicazioni devono essere pubblicate sulla piattaforma Internet dell
 
 <sup>3</sup> Determinate ditte o determinati marchi, brevetti, diritti d’autore, design o tipi, come pure i riferimenti a determinate provenienze o a determinati produttori non sono ammessi come specifiche tecniche a meno che non esista alcun altro modo sufficientemente preciso o comprensibile di descrivere la prestazione e che in questo caso il committente inserisca nella documentazione del bando la locuzione «o equivalente». L’equivalenza deve essere comprovata dall’offerente.
 
-<sup>4</sup> Il committente può prevedere specifiche tecniche per la conservazione delle risorse naturali o la protezione dell’ambiente.
+<sup>4</sup> Laddove opportuno, il committente prevede specifiche tecniche per la conservazione delle risorse naturali o la protezione dell’ambiente.[^30-1]
+
+[^30-1]: Nuovo testo giusta il n. II 1 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 31
 

@@ -4,11 +4,11 @@ title: Federal Act of 21 June 2019 on Public Procurement (PPA)
 short: PPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: en
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20240101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PPA)
 
-of 21 June 2019 (Status as of 1 January 2024)
+of 21 June 2019 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -546,7 +546,9 @@ The following information must be published on the internet platform of the Conf
 
 <sup>3</sup> Certain companies or trademarks, patents, copyrights, designs or types, and references to a specific origin or to specific producers are not permitted as technical specifications, unless there is no other sufficiently precise or comprehensible way of describing the goods, work or services and the contracting authority includes the words "or equivalent" in the tender documentation. Equivalence has to be proven by the tenderer.
 
-<sup>4</sup> The contracting authority may stipulate technical specifications for the conservation of natural resources or the protection of the environment.
+<sup>4</sup> Where appropriate, the contracting authority shall stipulate technical specifications for the conservation of natural resources or the protection of the environment.[^30-1]
+
+[^30-1]: Amended by No II 1 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 31
 

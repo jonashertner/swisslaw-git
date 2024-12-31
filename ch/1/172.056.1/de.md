@@ -4,11 +4,11 @@ title: Bundesgesetz vom 21. Juni 2019 über das öffentliche Beschaffungswesen (
 short: BöB
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/de"
 
 (BöB)
 
-vom 21. Juni 2019 (Stand am 1. Januar 2024)
+vom 21. Juni 2019 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -544,7 +544,9 @@ Folgende Angaben sind auf der Internetplattform von Bund und Kantonen zu veröff
 
 <sup>3</sup> Bestimmte Firmen oder Marken, Patente, Urheberrechte, Designs oder Typen sowie der Hinweis auf einen bestimmten Ursprung oder bestimmte Produzentinnen sind als technische Spezifikationen nicht zulässig, es sei denn, dass es keine andere hinreichend genaue oder verständliche Art und Weise der Leistungsbeschreibung gibt und die Auftraggeberin in diesem Fall in die Ausschreibungsunterlagen die Worte «oder gleichwertig» aufnimmt. Die Gleichwertigkeit ist durch die Anbieterin nachzuweisen.
 
-<sup>4</sup> Die Auftraggeberin kann technische Spezifikationen zur Erhaltung der natürlichen Ressourcen oder zum Schutz der Umwelt vorsehen.
+<sup>4</sup> Die Auftraggeberin sieht dort, wo diese geeignet sind, technische Spezifikationen zur Erhaltung der natürlichen Ressourcen oder zum Schutz der Umwelt vor.[^30-1]
+
+[^30-1]: Fassung gemäss Ziff. II 1 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 31
 

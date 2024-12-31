@@ -4,11 +4,11 @@ title: Loi fédérale du 21 juin 2019 sur les marchés publics (LMP)
 short: LMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20240101/fr"
 
 (LMP)
 
-du 21 juin 2019 (État le 1<sup>er</sup> janvier 2024)
+du 21 juin 2019 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -544,7 +544,9 @@ Les indications suivantes doivent être publiées sur la plateforme Internet de 
 
 <sup>3</sup> Il ne peut être exigé de noms commerciaux, de marques, de brevets, de droits d’auteur, de designs, de types, d’origines ou de producteurs particuliers, à moins qu’il n’existe pas d’autre moyen suffisamment précis ou intelligible de décrire l’objet du marché et à la condition que l’adjudicateur utilise alors des termes tels que «ou équivalent» dans les documents d’appel d’offres. La preuve de l’équivalence incombe au soumissionnaire.
 
-<sup>4</sup> L’adjudicateur peut prévoir des spécifications techniques permettant de préserver les ressources naturelles ou de protéger l’environnement.
+<sup>4</sup> Lorsque cela se révèle approprié, l’adjudicateur prévoit des spécifications techniques permettant de préserver les ressources naturelles ou de protéger l’environnement.[^30-1]
+
+[^30-1]: Nouvelle teneur selon le ch. II 1 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 31
 
