@@ -1,26 +1,25 @@
 ---
 canton: ZG
 number: "413.123"
-title: Entschädigung für Experten- und Referententätigkeit in der Berufsbildung
+title: Verordnung betreffend die Entschädigung für Experten- und Referententätigkeit in der Berufsbildung
 language: de
-version: 2007-01-01
-valid_until: 2024-12-31
-version_adopted: 2006-10-31
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2006-10-31
 in_force: 2007-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.123"
-pdf: "https://bgs.zg.ch/api/de/versions/942/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2650/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Entschädigung für Experten- und Referententätigkeit in der Berufsbildung
+# Verordnung betreffend die Entschädigung für Experten- und Referententätigkeit in der Berufsbildung
 
-Vom 31. Oktober 2006 (Stand 1. Januar 2007)
+Vom 31. Oktober 2006 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf § 11 des Gesetzes über die Entschädigung der nebenamtlichen Behördenmitglieder vom 27. Januar 1994[^ingress-1] und § 19 der Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung der Lehrabschlussprüfungen) vom 31. Dezember 2001[^ingress-2],
+gestützt auf § 11 des Gesetzes über die Entschädigung der nebenamtlichen Behördenmitglieder vom 27. Januar 1994[^ingress-1] und § 20 der Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung der Lehrabschlussprüfungen) vom 31. Dezember 2001[^ingress-2],
 
 beschliesst:
 
@@ -31,11 +30,11 @@ beschliesst:
 
 <sup>1</sup> Expertinnen und Experten, die im Rahmen von Qualifikationsverfahren des Bundesgesetzes über die Berufsbildung vom 13. Dezember 2002[^1-1] sowie als Fachexpertinnen und Fachexperten für die Abklärungen der Voraussetzungen zur Erteilung von Bildungsbewilligungen tätig sind, erhalten folgende Entschädigungen:
 
-- a) Fr. 300.– für den ganzen Tag (mindestens 8 Stunden);
-- b) Fr. 150.– für den halben Tag (mindestens 4 Stunden);
-- c) Fr. 37.50 pro Stunde.
+- a) Fr. 440.– für den ganzen Tag (mindestens 8 Stunden);
+- b) Fr. 220.– für den halben Tag (mindestens 4 Stunden);
+- c) Fr. 55.– pro Stunde.
 
-<sup>2</sup> Diese Ansätze basieren auf einem Landesindex der Konsumentenpreise von 100.28 Indexpunkten und werden jährlich im gleichen Rahmen der Teuerung angepasst wie die Besoldungen des nebenamtlichen Staatspersonals.
+<sup>2</sup> Diese Ansätze basieren auf einem Landesindex der Konsumentenpreise von 105.2 Indexpunkten und werden jährlich im gleichen Rahmen der Teuerung angepasst wie die Besoldungen des nebenamtlichen Staatspersonals.
 
 [^1-1]: SR [412.10](https://db.clex.ch/link/Bund/412.10/de)
 
@@ -45,16 +44,18 @@ beschliesst:
 
 #### § 3
 
-<sup>1</sup> In den Ansätzen gemäss §§ 1 und 2 sind die Reise- und Verpflegungsspesen grundsätzlich enthalten. Über Ausnahmen entscheidet das Amt für Berufsbildung. Gründe für Ausnahmen können sein: Wohnsitz und/oder Arbeitsort ausserhalb des Kantons Zug; lange Fahrwege wegen dezentralisierter Qualifikationsverfahren usw. Die Vergütungen richten sich nach §§ 24 und 25 der Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals vom 12. Dezember 1994[^3-1].
+<sup>1</sup> Die Reisespesen für Experten- und Referenteneinsätze gemäss §§ 1 und 2 richten sich nach § 6 der Verordnung über besondere Entschädigungen vom 10. August 2010[^3-1] sowie § 20 der Ausführungsbestimmungen 2 zum Einführungsgesetz Berufsbildung (Regelung des Qualifikationsverfahrens) vom 30. Mai 2008[^3-2]. Verpflegungsspesen werden keine ausgerichtet.
 
-[^3-1]: BGS [154.211](https://bgs.zg.ch/data/154.211/de)
+[^3-1]: BGS [154.221](https://bgs.zg.ch/data/154.221/de)
+[^3-2]: BGS [413.112](https://bgs.zg.ch/data/413.112/de)
 
 #### § 4
 
 <sup>1</sup> Gewählte Expertinnen und Experten für Qualifikationsverfahren, welche den eidgenössisch anerkannten Expertinnen-/Expertenkurs oder andere, von anerkannten Prüfungsbranchen vorausgesetzte Expertinnen-/Expertenkurse besuchen, erhalten folgende Entschädigungen:
 
-- a) Fr. 200.– Taggeld für einen Kurstag;
-- b) Fr. 100.– pauschale Spesenentschädigung für einen Kurstag.
+- a) Fr. 200.– Taggeld für einen ganzen Kurstag;
+- b) Fr. 100.– Taggeld für einen halben Kurstag;
+- c) Fr. 100.– pauschale Spesenentschädigung für einen halben bzw. ganzen Kurstag.
 
 #### § 5
 
