@@ -5,12 +5,12 @@ title: "Legge sull'elezione del Gran Consiglio"
 short: LEGC
 language: it
 version: 2021-10-01
-valid_until: 2025-12-31
+corrected: 2025-01-01
 version_adopted: 2021-02-16
 adopted: 2021-02-16
 in_force: 2021-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3524/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3189/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.

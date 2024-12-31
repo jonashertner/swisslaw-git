@@ -5,12 +5,12 @@ title: Gesetz über die Wahl des Grossen Rates
 short: Grossratswahlgesetz; GRWG
 language: de
 version: 2021-10-01
-valid_until: 2025-12-31
+corrected: 2025-01-01
 version_adopted: 2021-02-16
 adopted: 2021-02-16
 in_force: 2021-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3524/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3189/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
