@@ -4,13 +4,12 @@ number: "212.35"
 title: Normalarbeitsvertrag für die wohngemeinschaftliche Betreuung
 short: NAV wohngemeinschaftliche Betreuung
 language: de
-version: 2020-03-01
-valid_until: 2024-12-31
-version_adopted: 2020-02-18
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2020-02-18
 in_force: 2020-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/212.35"
-pdf: "https://bl.clex.ch/api/de/versions/2587/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4120/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2587/pdf_file"
 
 (NAV wohngemeinschaftliche Betreuung)
 
-Vom 18.02.2020 (Stand 01.03.2020)
+Vom 18.02.2020 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -436,7 +435,7 @@ beschliesst:
 
 <sup>1</sup> Arbeitgeberschaft und Betreuungspersonal haben die Vorschriften über die Einwohnerkontrolle (Schriftenabgabe), die Beitragspflicht an AHV, IV und BVG sowie die Erwerbsersatzordnung (EO) zu beachten.
 
-<sup>2</sup> Bei der Anstellung ausländischen Betreuungspersonals hat sich die Arbeitgeberschaft vor Vertragsabschluss beim Amt für Migration und Bürgerrecht und beim KIGA Baselland über die erforderlichen Bewilligungen und Auflagen zu erkundigen.
+<sup>2</sup> Bei der Anstellung ausländischen Betreuungspersonals hat sich die Arbeitgeberschaft vor Vertragsabschluss beim Amt für Migration, Integration und Bürgerrecht und beim KIGA Baselland über die erforderlichen Bewilligungen und Auflagen zu erkundigen.
 
 #### § 43
 
