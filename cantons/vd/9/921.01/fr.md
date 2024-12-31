@@ -4,7 +4,7 @@ number: "921.01"
 title: LOI du 08.05.2012 forestière (LVLFo)
 short: LVLFo
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/921.01?id=41b5f7b0-9b3b-49f4-bbd8-32e09cde5ac5"
 ---
 
@@ -426,11 +426,13 @@ décrète
 
 **Feux (LFo, art. 27) [^32-2]**
 
-<sup>1</sup> Il est interdit de faire du feu en forêt et à moins de dix mètres des lisières. Le département règle les exceptions par voie de directive.
+<sup>1</sup> Il est interdit de faire du feu en forêt et à moins de dix mètres des lisières, sauf aux endroits prévus à cet effet et s'il n'en résulte aucun risque.
 
-<sup>2</sup> En cas de sécheresse ou de concentration excessive de poussières fines, le département peut décréter l'interdiction de tous feux.
+<sup>2</sup> En cas de sécheresse ou de concentration excessive de poussières fines, le département peut décréter l'interdiction de certains ou tous feux.
 
-[^32-2]: Modif. 5 du 01.10.2024: Modification Al. 1-2; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 69b; entrée en vigueur au 01.01.2025
+<sup>3</sup> Celui qui allume un feu en forêt est tenu d'en rester maître et de prendre les précautions nécessaires pour éviter tout dommage. Il ne doit pas quitter les lieux avant l'extinction complète du feu.
+
+[^32-2]: Modif. 5 du 01.10.2024: Modification Al. 1-2; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025
 
 #### Art. 34
 
@@ -831,6 +833,20 @@ décrète
 <sup>2</sup> Lorsqu'une invasion parasitaire ou le développement de maladies est à redouter, le service ordonne les mesures de lutte et veille à leur exécution.
 
 <sup>3</sup> Lorsque des bois ne sont pas écorcés, leurs propriétaires sont tenus de prendre les mesures propres à éviter la propagation des parasites.
+
+#### Art. 69b
+
+**Prévention et lutte contre les incendies de forêt [^69-1]**
+
+<sup>1</sup> Tout propriétaire est tenu de prendre les mesures propres à empêcher le développement des incendies de forêt. Ces mesures sont subventionnées par le service.
+
+<sup>2</sup> Le département prend toute mesure de prévention et de lutte contre les incendies de forêt ainsi que de remise en état et de réparation des dégâts en suite d'un incendie de forêt.
+
+<sup>3</sup> Les communes sur le territoire desquelles sont situées des forêts objets de mesures de prévention peuvent être tenues de participer aux coûts de ces mesures, à hauteur de 30% au maximum.
+
+<sup>4</sup> Pour le surplus les dispositions de la loi du 2 mars 2010 sur le service de défense contre l'incendie et de secours (LSDIS) sont applicables.
+
+[^69-1]: Modif. 5 du 01.10.2024: Introduction tArt; entrée en vigueur au 01.01.2025; Introduction Al. 1-4; entrée en vigueur au 01.01.2025; Introduction Art. 69b; entrée en vigueur au 01.01.2025
 
 #### Art. 70
 
