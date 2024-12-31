@@ -1,0 +1,403 @@
+---
+canton: VS
+number: "170.8"
+title: Gesetz über die digitalen Dienste der Behörden
+short: GDDB
+language: de
+version: 2025-01-01
+version_adopted: 2024-05-16
+adopted: 2024-05-16
+in_force: 2025-01-01
+url: "https://lex.vs.ch/app/de/texts_of_law/170.8"
+pdf: "https://lex.vs.ch/api/de/versions/3397/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über die digitalen Dienste der Behörden
+
+(GDDB)
+
+vom 16.05.2024 (Stand 01.01.2025)
+
+Der Grosse Rat des Kantons Wallis
+
+eingesehen Artikel 42 Absatz 1 der Kantonsverfassung;
+
+eingesehen das Bundesgesetz über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946 (AHVG);
+
+eingesehen das Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 (GIDA);
+
+eingesehen das Gesetz über die Referenzdatenbanken und die Harmonisierung des Personenregisters, des Betriebs- und Unternehmensregisters sowie des Gebäude- und Wohnungsregisters vom 12. September 2019 (GRDB);
+
+eingesehen das Gemeindegesetz vom 5. Februar 2004 (GemG);
+
+auf Antrag des Staatsrates,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck**
+
+<sup>1</sup> Mit diesem Gesetz sollen die Rahmenbedingungen geschaffen werden, die für Entwicklung, Betrieb, Nutzung und Finanzierung der digitalen Dienste der Behörden nötig sind.
+
+<sup>2</sup> Es regelt insbesondere:
+
+- a) die Pflichten der Behörden und der Nutzerinnen und Nutzer;
+- b) die Zusammenarbeit der Behörden innerhalb des Kantons, mit anderen Kantonen und mit dem Bund;
+- c) die Bearbeitung von Daten in Ergänzung zur Datenschutzgesetzgebung, und
+- d) die Zurverfügungstellung von Software-Quellcodes und öffentlichen Behördendaten.
+
+#### Art. 2
+
+**Ziele**
+
+<sup>1</sup> Dieses Gesetz verfolgt folgende Ziele:
+
+- a) alle öffentlichen Dienste der Behörden und die diesbezüglichen Verfahren nach Möglichkeit schrittweise digitalisieren;
+- b) wann immer möglich den digitalen Austausch zwischen Behörden und Nutzerinnen und Nutzern ausbauen sowie die Zusammenarbeit vereinfachen und erleichtern;
+- c) die Daten durch die zuständigen Behörden einheitlich, koordiniert und abgestimmt bearbeiten;
+- d) die Dienstleistungen der Behörden optimieren;
+- e) einen Mehrwert für Bevölkerung, Wirtschaft und Verwaltung schaffen;
+- f) die Attraktivität des Kantons als Lebensraum und Wirtschaftsstandort stärken;
+- g) den administrativen Aufwand für die Nutzerinnen und Nutzer nachhaltig verringern.
+
+#### Art. 3
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieses Gesetz gilt für die Behörden und die Nutzerinnen und Nutzer von digitalen Diensten.
+
+<sup>2</sup> Der Staatsrat kann den Geltungsbereich des ganzen oder eines Teils des Gesetzes erweitern auf:
+
+- a) natürliche oder juristische Personen und Organisationen, die mit der Ausführung von Aufgaben des kantonalen oder kommunalen öffentlichen Rechts betraut sind für die Erfüllung dieser Aufgaben, und
+- b) Behördenverbände.
+
+<sup>3</sup> Die Spezialgesetzgebung bleibt vorbehalten, namentlich über den Datenschutz und die Informationssicherheit.
+
+#### Art. 4
+
+**Begriffe**
+
+<sup>1</sup> In diesem Gesetz bedeuten:
+
+- a) Behörden: die gesetzgebenden, vollziehenden und richterlichen Gewalten des Kantons und der Einwohner- und Burgergemeinden, die Staatsanwaltschaft, die öffentlich-rechtlichen Körperschaften und Anstalten des Kantons und der Einwohner- und Burgergemeinden sowie ihre Organe, Verwaltungen und die von ihnen abhängigen Kommissionen sowie die Einheiten, auf die der Geltungsbereich erweitert wird;
+- b) digitale Dienste: digitale Basisdienste und digitale Leistungen;
+- c) Basisdienste: elektronische Dienste mit Querschnittscharakter, welche die gemeinsame Grundlage für die Online-Leistungen der Behörden bilden oder für die digitale Zusammenarbeit zwischen den Behörden unerlässlich sind;
+- d) digitale Leistungen: von den Behörden mithilfe von Basisdiensten erbrachte Leistungen;
+- e) gemeinsame digitale Leistungen: digitale Leistungen, an denen mehr als eine Behörde beteiligt ist;
+- f) IKT-Mittel: Güter und Dienste der Informations- und Kommunikationstechnologie (IKT), einschliesslich Hardware und Software;
+- g) Nutzerinnen und Nutzer: natürliche oder juristische Personen, welche die digitalen Dienste in Anspruch nehmen;
+- h) Quellcode: in einer Programmiersprache geschriebene Anweisungen und Erklärungen, die von einer Maschine in ein durch einen Computer ausführbares Programm umgewandelt werden können;
+- i) öffentliche Behördendaten: digitale Daten, die gemäss Artikel 18 von Behörden online gestellt werden.
+
+## 2 Digitale Dienste
+
+#### Art. 5
+
+**Grundsätze**
+
+<sup>1</sup> Die digitalen Dienste werden schrittweise und möglichst rasch aufgebaut.
+
+<sup>2</sup> Die Digitalisierung wird auf möglichst wirtschaftliche und effiziente Weise umgesetzt.
+
+<sup>3</sup> Sind digitale Dienste vorhanden, so handeln die Behörden grundsätzlich digital, es sei denn, sie können ihre Aufgaben in dieser Form nicht wirksam erfüllen.
+
+<sup>4</sup> Es besteht kein Rechtsanspruch darauf, Informationen und Dokumente der Behörden, die sich an eine unbestimmte Zahl von Personen richten, in anderer als in digitaler Form zu erhalten.
+
+<sup>5</sup> Jede Person kann Informationen und Dokumente der Behörden bei den zuständigen Behörden einsehen und eine Kopie auf Papier verlangen, wenn sie glaubhaft macht, dass es ihr nicht möglich ist, sie in digitaler Form einzusehen, oder dass es ihr nicht zugemutet werden kann, dies zu tun.
+
+<sup>6</sup> Soweit möglich werden die Daten nur einmal erfasst und von einer einzigen Behörde verwaltet.
+
+<sup>7</sup> Die kantonalen digitalen Dienste müssen mindestens in beiden Amtssprachen verfügbar sein und auf einfache und interoperable Weise mit gängigen technologischen Mitteln genutzt werden können. Der Staatsrat kann Ausnahmen vorsehen.
+
+<sup>8</sup> Grundsätzlich werden technische Lösungen bevorzugt, die von den digitalen Verwaltungen der Schweiz gemeinsam genutzt werden. Die Interoperabilität und die gemeinsame Nutzung von technischen Lösungen müssen gewährleistet sein. Die technischen Prozesse werden standardisiert und harmonisiert, namentlich über Programmierschnittstellen.
+
+<sup>9</sup> Bei ihren Projekten der digitalen Transformation berücksichtigen die Behörden die ökologischen Aspekte und sorgen für die Nachhaltigkeit der Projekte.
+
+<sup>10</sup> Sie wenden die in Sachen Cybersicherheit bewährten Konzepte und guten Praktiken an.
+
+#### Art. 6
+
+**Basisdienste**
+
+<sup>1</sup> Der Kanton stellt den Behörden unter Berücksichtigung der Bedürfnisse der Nutzerinnen und Nutzer sowie der technischen Möglichkeiten unentgeltlich und, soweit möglich, in Zusammenarbeit mit den anderen Kantons- und Bundesbehörden Basisdienste zur Verfügung.
+
+<sup>2</sup> Die Behörden sind verpflichtet, bei der Entwicklung neuer Projekte oder bei substanziellen Änderungen an bestehenden digitalen Leistungen die Basisdienste zu nutzen.
+
+<sup>3</sup> Die Basisdienste umfassen namentlich:
+
+- a) ein gemeinsames Portal, über das die Nutzerinnen und Nutzer auf die digitalen Leistungen der Behörden zugreifen können;
+- b) Identifikations-, Authentifizierungs- und Signaturdienste;
+- c) Online-Zahlungsdienste;
+- d) Dienste zur Datenbearbeitung, namentlich zum Austausch, der Bekanntgabe, der Ablage und der Archivierung von Daten;
+- e) andere Dienste, welche die Nutzung sowie die einheitliche und koordinierte Entwicklung von digitalen Leistungen vereinfachen.
+
+#### Art. 7
+
+**Digitale Leistungen**
+
+<sup>1</sup> Im Rahmen der Bereitstellung digitaler Leistungen müssen die Behörden:
+
+- a) ihre digitalen Leistungen entsprechend den bereitgestellten Basisdiensten planen und entwickeln;
+- b) die vom strategischen Leitungsausschuss festgelegten technischen Normen und Standards anwenden;
+- c) die digitalen Leistungen über das Portal im Sinne von Artikel 6 Absatz 3 Buchstabe a zugänglich machen;
+- d) die Gesetzgebung zum Schutz von Personendaten einhalten;
+- e) diese so gestalten und unterhalten, dass ihre Zugänglichkeit für alle Nutzerinnen und Nutzer erleichtert wird, einschliesslich derjenigen mit besonderen Bedürfnissen aufgrund einer Behinderung, des Alters oder anderer Faktoren, die den Zugang zu digitalen Technologien einschränken.
+
+<sup>2</sup> Vorbehaltlich der vom Staatsrat oder von Spezialgesetzgebungen vorgesehenen Ausnahmen sind folgende Stellen und Personen verpflichtet, die bestehenden digitalen Leistungen zu nutzen:
+
+- a) Behörden;
+- b) juristische Personen, und
+- c) natürliche Personen, die im Rahmen einer Geschäftstätigkeit mit den Behörden in Kontakt stehen.
+
+#### Art. 8
+
+**Gemeinsame digitale Leistungen**
+
+<sup>1</sup> Digitale Leistungen können von den Behörden gemeinsam angeboten werden.
+
+<sup>2</sup> Wenn digitale Leistungen mindestens eine kantonale Behörde betreffen, müssen sie im Implementierungsplan nach Artikel 11 Absatz 1 Buchstabe c aufgeführt sein.
+
+#### Art. 9
+
+**IKT-Mittel**
+
+<sup>1</sup> Der Kanton kann den Behörden IKT-Mittel oder damit verbundene Leistungen bereitstellen.
+
+<sup>2</sup> Ihre Finanzierung wird mit den betroffenen Behörden geregelt.
+
+<sup>3</sup> Der Staatsrat legt die Vollzugsbestimmungen fest.
+
+#### Art. 10
+
+**Open Source Software**
+
+<sup>1</sup> Die Behörden dürfen den Quellcode von Software, die sie zur Erfüllung von Behördenaufgaben entwickeln oder entwickeln lassen, veröffentlichen, wenn folgende Bedingungen erfüllt sind:
+
+- a) ein öffentliches Interesse oder ein überwiegendes privates Interesse besteht;
+- b) der mit der Veröffentlichung verbundene Aufwand verhältnismässig ist;
+- c) die Behörden es jeder Person gestatten, die Software zu nutzen und weiterzuentwickeln, sofern allfällige Änderungen ebenfalls unter denselben Bedingungen veröffentlicht werden;
+- d) sie selbst oder weitere Kreise ein Interesse an der Weiterverwendung der Software haben;
+- e) die Rechte von Dritten gewahrt werden, und
+- f) jegliche Haftung der Behörden ausgeschlossen ist.
+
+<sup>2</sup> Die Rechte nach Absatz 1 werden in der Form von privatrechtlichen unentgeltlichen oder kostenpflichtigen Lizenzen erteilt, soweit andere Erlasse nichts Abweichendes vorschreiben. Streitigkeiten zwischen Lizenzgebern und Lizenznehmern werden zivilrechtlich entschieden.
+
+<sup>3</sup> Die Behörden können ergänzende Leistungen, namentlich zur Integration, Wartung, IT-Sicherheit und zum Support erbringen, sofern ein öffentliches Interesse besteht und sie nicht mit übermässigem Aufwand verbunden sind. Die Behörden können dafür kostendeckende Gebühren erheben.
+
+## 3 Organisation und Zusammenarbeit
+
+#### Art. 11
+
+**Staatsrat**
+
+<sup>1</sup> Der Staatsrat:
+
+- a) definiert die Strategie für die digitalen Dienste der Behörden und überprüft diese regelmässig;
+- b) legt den Umfang und die Modalitäten der Bereitstellung und Nutzung der Basisdienste fest;
+- c) legt die Prioritäten für die Entwicklung der digitalen Dienste in einem Implementierungsplan fest, wobei er regelmässig die Fortschritte bei dessen Umsetzung evaluiert;
+- d) entscheidet über allfällige Ausnahmen von der Pflicht, digitale Dienste bereitzustellen oder zu nutzen;
+- e) führt Massnahmen ein, um die Nutzung der digitalen Dienste zu fördern;
+- f) fördert die Zusammenarbeit zwischen den Behörden;
+- g) stellt sicher, dass die Behörden in die sie betreffenden Entscheide angemessen einbezogen werden;
+- h) bezeichnet die Mitglieder des strategischen Leitungsausschusses und legt dessen Arbeitsweise fest.
+
+#### Art. 12
+
+**Strategischer Leitungsausschuss**
+
+<sup>1</sup> Der strategische Leitungsausschuss:
+
+- a) schlägt dem Staatsrat die Strategie über die digitalen Dienste und deren Aktualisierung vor;
+- b) schlägt den Umfang und die Modalitäten der Bereitstellung und Nutzung der Basisdienste sowie die Prioritäten der in den Implementierungsplan aufgenommenen Projekte vor;
+- c) legt die gemeinsamen Normen und Standards fest, wobei er sich an national und international anerkannten technischen Normen sowie an offenen Standards orientiert;
+- d) ist befugt, für spezifische Bereiche der Digitalisierung interinstitutionelle Arbeitsgruppen einzusetzen und diese wieder aufzulösen.
+
+<sup>2</sup> Der strategische Leitungsausschuss setzt sich aus 9 bis 12 Mitgliedern zusammen. Er besteht aus mindestens:
+
+- a) drei Vertreterinnen oder Vertretern des Kantons;
+- b) drei vom Verband der Walliser Gemeinden vorgeschlagenen Vertreterinnen oder Vertretern der Einwohnergemeinden, und
+- c) eine oder ein vom Verband der Walliser Burgergemeinden vorgeschlagene Vertreterin oder vorgeschlagener Vertreter der Burgergemeinden.
+
+<sup>3</sup> Der Staatsrat legt die Entschädigung für die Mitglieder des strategischen Leitungsausschusses in einem Beschluss fest.
+
+#### Art. 13
+
+**Für die digitale Verwaltung zuständige Organisationseinheit**
+
+<sup>1</sup> Der Staatsrat bestimmt die für die digitale Verwaltung zuständige kantonale Organisationseinheit, die namentlich zur Aufgabe hat:
+
+- a) den Staatsrat und den strategischen Leitungsausschuss bei all ihren Aufgaben zu unterstützen, insbesondere bei der Ausarbeitung und Aktualisierung der Strategie über die digitalen Dienste sowie bei der Festlegung der Prioritäten hinsichtlich der Umsetzung;
+- b) die Umsetzung der Projekte zu koordinieren, die im Implementierungsplan aufgeführt sind;
+- c) die Dienststellen des Kantons in den Initialisierungs- und Umsetzungsphasen der im Implementierungsplan festgelegten Projekte für digitale Dienste zu unterstützen;
+- d) die Zweckmässigkeit der Projekte zu prüfen;
+- e) die Zusammenarbeit zwischen dem Kanton und anderen Behörden zu schaffen.
+
+#### Art. 14
+
+**Zusammenarbeit mit den Behörden innerhalb des Kantons**
+
+<sup>1</sup> Die Behörden arbeiten bei der Digitalisierung zusammen.
+
+<sup>2</sup> Der Staatsrat steuert diese Zusammenarbeit, wobei er der Gemeindeautonomie sowie den Grundsätzen der Gewaltentrennung Rechnung trägt.
+
+<sup>3</sup> Er stellt sicher, dass die Behörden in die sie betreffenden Entscheide angemessen einbezogen werden.
+
+#### Art. 15
+
+**Zusammenarbeit mit den Behörden des Bundes und anderer Kantone**
+
+<sup>1</sup> Der Kanton arbeitet in digitalen Fragen mit dem Bund und anderen Kantonen zusammen.
+
+<sup>2</sup> Unter Einhaltung des vorliegenden Gesetzes können die Behörden untereinander die Nutzung von digitalen Diensten über einen öffentlich-rechtlichen Vertrag regeln.
+
+<sup>3</sup> Die Spezialgesetzgebung und die Ausgabenkompetenzen bleiben vorbehalten.
+
+#### Art. 16
+
+**Cybersicherheit, Cyberangriffe und Cyberrisiken**
+
+<sup>1</sup> Jede Behörde ist dafür verantwortlich, die gegen Cyberrisiken geeigneten und angemessenen technischen und organisatorischen Massnahmen zu ergreifen. Sie muss mindestens die vom strategischen Leitungsausschuss festgelegten technischen Normen und Standards anwenden.
+
+<sup>2</sup> Im Hinblick auf die Cybersicherheit und zum Schutz vor Cyberangriffen trifft der Kanton Massnahmen zur Unterstützung anderer Behörden. Er fördert Zertifikationsprozesse und gute Praktiken.
+
+<sup>3</sup> Die Behörden sind dazu verpflichtet, den Kanton sofort über Cyberangriffe zu informieren, die ihre Arbeitsweise beeinträchtigen oder ihren eigenen Interessen respektive jenen ihrer Nutzerinnen und Nutzer schaden könnten. Der Staatsrat verabschiedet die nötigen Bestimmungen.
+
+<sup>4</sup> Unterlässt es eine Behörde, die unter Absatz 1 vorgeschriebenen Massnahmen zu ergreifen, kann der Staatsrat nach mindestens einer Mahnung Ersatzvornahmen beschliessen. Diese Massnahmen können der fehlbaren Behörde in Rechnung gestellt werden.
+
+<sup>5</sup> Die Basisdienste werden regelmässig einem externen Audit unterzogen, das den relevanten Standards entspricht. Das für digitale Dienste zuständige Departement überprüft die Berücksichtigung der Empfehlungen des Audits und die Einführung angemessener Massnahmen.
+
+## 4 Daten
+
+#### Art. 17
+
+**Bearbeitung von Personendaten**
+
+<sup>1</sup> Die Behörden dürfen Personendaten und besonders schützenswerte Daten bearbeiten und diese anderen Behörden bekannt geben, wenn dies für die Erbringung von digitalen Diensten notwendig ist.
+
+<sup>2</sup> Die Verwendung von Referenzdatenbanken und der AHV-Nummer zur Erbringung von Basisdiensten ist zulässig.
+
+<sup>3</sup> Die gesetzlichen Bestimmungen zum Schutz von Personendaten sind anwendbar.
+
+#### Art. 18
+
+**Öffentliche Behördendaten**
+
+<sup>1</sup> Die Behörden dürfen die Daten, die sie im Rahmen der Erfüllung ihrer gesetzlichen Aufgaben erheben oder erstellen und die elektronisch gespeichert und in Registern strukturiert vorliegen, veröffentlichen. Vorbehalten bleiben spezialgesetzlich vorgeschriebene Quellenangaben.
+
+<sup>2</sup> Die Daten werden unentgeltlich, zeitnah, in maschinenlesbarer Form und in einem offenen Format im Internet veröffentlicht.
+
+<sup>3</sup> Nicht öffentlich zugänglich gemacht werden:
+
+- a) Daten, deren Bekanntgabe gegen andere gesetzliche Bestimmungen verstösst, namentlich gegen die Bestimmungen der Gesetzgebung über die Information der Öffentlichkeit, den Schutz von Personendaten und die Archivierung;
+- b) Daten, deren Bereitstellung unverhältnismässig viele zusätzliche materielle, personelle oder technische Mittel erfordert.
+
+<sup>4</sup> Die Behörden sind nicht dazu verpflichtet, die Richtigkeit, Vollständigkeit, Plausibilität oder andere Merkmale der unter Absatz 1 beschriebenen Daten zu überprüfen.
+
+## 5 Verantwortung der Behörden
+
+#### Art. 19
+
+**Verantwortung in Bezug auf Personendaten**
+
+<sup>1</sup> Die Verantwortung für den Schutz von Personendaten trägt die Behörde, die über den Zweck und die Mittel der Bearbeitung dieser Daten entscheidet.
+
+<sup>2</sup> Entscheiden mehrere Behörden gemeinsam über den Zweck und die Mittel der Bearbeitung von Personendaten, stellt jede von ihnen sicher, dass ein Erlass, eine Weisung oder eine Vereinbarung regelt, welche Behörde für welchen Teil der Datenbearbeitung verantwortlich ist. Fehlt eine solche Regelung, sind alle Behörden für die ganze Bearbeitung der Personendaten verantwortlich.
+
+<sup>3</sup> Die verantwortlichen Behörden veröffentlichen die Regelung nach Absatz 2 oder geben sie den von der Datenbearbeitung betroffenen Personen auf Anfrage bei einer der verantwortlichen Behörden bekannt.
+
+<sup>4</sup> Überträgt eine kantonale Verwaltungsbehörde die Bearbeitung von Daten oder die Verwaltung von Informatiklösungen an Dritte, so hat sie durch rechtliche Bestimmungen oder eine schriftliche Vereinbarung sicherzustellen, dass:
+
+- a) die Auftragnehmerin oder der Auftragnehmer mindestens dieselben Anforderungen hinsichtlich Datenschutz sowie Daten- und Betriebssicherheit einhält, wie sie selbst;
+- b) die staatliche Aufgabenerfüllung möglichst wenig beeinträchtigt wird, wenn die Auftragnehmerin oder der Auftragnehmer Abmachungen nicht einhält oder die Geschäftstätigkeiten einstellt.
+
+#### Art. 20
+
+**Übrige Verantwortungen**
+
+<sup>1</sup> Ausser bei grobem Verschulden haften die Behörden nicht:
+
+- a) für Schäden, die dadurch entstehen, dass ihre digitalen Dienste nicht zugänglich sind und nicht genutzt werden können;
+- b) für allfällige Beeinträchtigungen der Vertraulichkeit, der Integrität und der Verfügbarkeit von Daten, die nicht aus ihren eigenen IT-Umgebungen stammen.
+
+<sup>2</sup> Darüber hinaus wird die Verantwortung der Behörden ausschliesslich im Gesetz über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger geregelt.
+
+## 6 Information und Sensibilisierung
+
+#### Art. 21
+
+**Information, Schulung und Bürgerbeteiligung**
+
+<sup>1</sup> Der Kanton informiert öffentlich über die Strategie für die digitalen Dienste der Behörden und die im Rahmen des Implementierungsplans verabschiedeten Projekte.
+
+<sup>2</sup> Der Staatsrat entscheidet über die Schulungs- und Supportmodalitäten für die Basisdienste und die gemeinsamen digitalen Leistungen, die im Implementierungsplan definiert sind.
+
+<sup>3</sup> Der Kanton trifft Massnahmen, um die Bevölkerung und die Unternehmen im Bereich der digitalen Dienste und der Cyberrisiken zu informieren, zu schulen und zu sensibilisieren.
+
+<sup>4</sup> Der Kanton begleitet die Schulung des Staatspersonals und fördert einen Kulturwandel, insbesondere in Bezug auf die guten Praktiken und die Risiken.
+
+<sup>5</sup> Im Hinblick auf eine stärkere Beteiligung an der Gestaltung der öffentlichen Politik fördert der Kanton den Einbezug von Bevölkerung und Wirtschaft mithilfe von Informations- und Kommunikationstechnologien.
+
+<sup>6</sup> Die Behörden sensibilisieren ihr Personal für die guten Praktiken in Sachen verantwortungsvolle Digitalisierung.
+
+#### Art. 22
+
+**Innovation und Forschung**
+
+<sup>1</sup> Der Kanton kann Massnahmen ergreifen, um namentlich in Zusammenarbeit mit den Hochschulen Innovation und Forschung im Bereich digitale Dienste zu unterstützen.
+
+## 7 Finanzierung
+
+#### Art. 23
+
+**Finanzierung der Basisdienste**
+
+<sup>1</sup> Der Kanton trägt die Kosten für die Entwicklung und den Betrieb der Basisdienste sowie die Kosten für die Schulung und den Support in Zusammenhang mit ihrer Nutzung.
+
+<sup>2</sup> Die Behörden übernehmen die Kosten für die Integration der Basisdienste in ihre eigene technische Infrastruktur.
+
+#### Art. 24
+
+**Finanzierung der digitalen Leistungen**
+
+<sup>1</sup> Die Behörden tragen die Kosten für die Entwicklung und den Betrieb ihrer digitalen Leistungen sowie die Kosten für die Schulung und den Support in Zusammenhang mit ihrer Nutzung.
+
+<sup>2</sup> Die Finanzierung von gemeinsamen digitalen Leistungen regeln die betroffenen Behörden untereinander. Der Kanton kann sich an der Entwicklung von gemeinsamen digitalen Leistungen, die im Implementierungsplan gemäss Artikel 11 Absatz 1 Buchstabe c definiert sind, finanziell beteiligen.
+
+#### Art. 25
+
+**Finanzhilfen**
+
+<sup>1</sup> Der Kanton kann Finanzhilfen für Massnahmen gewähren, mit denen die digitale Transformation der Behörden erleichtert werden soll. Der Staatsrat legt die Umsetzungsmodalitäten fest.
+
+<sup>2</sup> Die zuständige Behörde schliesst Leistungsaufträge mit den Subventionsempfängerinnen und -empfängern ab und legt die Höhe und Art der Finanzhilfen sowie die zu erfüllenden Anforderungen und die durch die Empfängerinnen und Empfänger zu erbringenden Leistungen fest.
+
+<sup>3</sup> Die kantonale Subventionsgesetzgebung bleibt vorbehalten.
+
+## 8 Kosten und Gebühren
+
+#### Art. 26
+
+**Kosten und Gebühren**
+
+<sup>1</sup> Die Nutzung von digitalen Diensten ist für die Nutzerinnen und Nutzer grundsätzlich nicht mit zusätzlichen Kosten verbunden.
+
+<sup>2</sup> Die spezialgesetzlichen Gebührenbestimmungen bleiben vorbehalten.
+
+<sup>3</sup> Die Behörden können eine Gebühr für Fälle vorsehen, in denen eine bestimmte Kategorie von Nutzerinnen und Nutzern Zugang zu besonderen Leistungen hat, die für die Behörden mit Kosten verbunden sind.
+
+## 9 Ausführungsbestimmungen
+
+#### Art. 27
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Staatsrat erlässt alle zum Vollzug des vorliegenden Gesetzes notwendigen Bestimmungen.
+
+<sup>2</sup> Er legt den Umfang und die Modalitäten der Bereitstellung und Nutzung der Basisdienste in einem Beschluss fest.
+
+CSW RO/AGS 2024-126
