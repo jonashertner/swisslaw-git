@@ -3,13 +3,12 @@ canton: FR
 number: "958.31"
 title: Verordnung über die Verteilung der Nettogewinne der Gesellschaft der Loterie Romande
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-12-09
+version: 2025-01-01
+version_adopted: 2024-06-27
 adopted: 2020-12-09
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/958.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/6691/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8034/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6691/pdf_file"
 
 Loterie Romande, Gewinnverteilung – V
 
-vom 09.12.2020 (Fassung in Kraft getreten am 01.01.2021)
+vom 09.12.2020 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -52,9 +51,9 @@ beschliesst:
 
 <sup>1</sup> Die LORO-Gewinne werden von den Verteilorganen, die in dieser Verordnung bestimmt werden, zugesprochen.
 
-<sup>2</sup> Ein Anteil von 7 % dieser Gewinne wird allerdings vom Staatsrat sowie über den kantonalen Kulturfonds, den kantonalen Sozialfonds und den kantonalen Sportfonds zugesprochen.
+<sup>2</sup> Ein Anteil von 9 % dieser Gewinne wird allerdings vom Staatsrat sowie über den kantonalen Kulturfonds, den kantonalen Sozialfonds und den kantonalen Sportfonds zugesprochen.
 
-<sup>3</sup> Dieser Anteil wird bis zum Betrag von je 500'000 Franken pro Jahr unter diesen drei Bereichen (Kultur, Soziales und Sport) aufgeteilt, und der Restbetrag dem Staatsrat zur Verfügung gestellt.
+<sup>3</sup> Dieser Anteil wird wie folgt aufgeteilt: 1/7 pro Jahr zur Verfügung des Staatsrats, 1,75/7 zugunsten des Kulturfonds, 1,75/7 zugunsten des Sozialfonds und 2,5/7 zugunsten des Sportfonds.
 
 #### Art. 3
 

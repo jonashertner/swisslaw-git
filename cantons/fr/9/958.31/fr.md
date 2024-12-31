@@ -3,13 +3,12 @@ canton: FR
 number: "958.31"
 title: Ordonnance concernant la répartition des bénéfices nets de la Société de la Loterie de la Suisse romande
 language: fr
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-12-09
+version: 2025-01-01
+version_adopted: 2024-06-27
 adopted: 2020-12-09
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/958.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6691/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8034/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6691/pdf_file"
 
 Loterie romande, répartition des bénéfices – O
 
-du 09.12.2020 (version entrée en vigueur le 01.01.2021)
+du 09.12.2020 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -52,9 +51,9 @@ Arrête:
 
 <sup>1</sup> Les bénéfices de la LORO sont attribués par les organes de répartition institués par la présente ordonnance.
 
-<sup>2</sup> Toutefois, une part de 7 % des bénéfices précités est attribuée par le Conseil d'Etat ainsi que par le biais du Fonds cantonal de la culture, du Fonds cantonal de l'action sociale et du Fonds cantonal du sport.
+<sup>2</sup> Toutefois, une part de 9 % des bénéfices précités est attribuée par le Conseil d'Etat ainsi que par le biais du Fonds cantonal de la culture, du Fonds cantonal de l'action sociale et du Fonds cantonal du sport.
 
-<sup>3</sup> Le produit de cette part est réparti à raison de 500'000 francs par année en faveur de chacun des trois domaines précités (culture, social et sport); le solde est mis à la disposition du Conseil d'Etat.
+<sup>3</sup> Le produit de cette part est réparti à raison de 1/7<sup>e</sup> par année à la disposition du Conseil d'Etat, 1,75/7<sup>e</sup> en faveur du Fonds de la culture, 1,75/7<sup>e</sup> en faveur du Fonds de l'action sociale et 2,5/7<sup>e</sup> en faveur du Fonds du sport.
 
 #### Art. 3
 
