@@ -3,18 +3,18 @@ sr: "812.214.11"
 title: Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 über den Erlass der Pharmakopöe und die Anerkennung von Arzneibüchern
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/443"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2001-443-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2001-443-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des Schweizerischen Heilmittelinstituts über den Erlass der Pharmakopöe und die Anerkennung von Arzneibüchern
 
-vom 9. November 2001 (Stand am 1. Juli 2024)[^t-1]
+vom 9. November 2001 (Stand am 1. Januar 2025)[^t-1]
 
 [^t-1]: Fassung gemäss Anhang 7 Ziff. I der Komplementär- und Phytoarzneimittelverordnung vom 22. Juni 2006, in Kraft seit 1. Okt. 2006 ([AS 2006 3641](https://fedlex.data.admin.ch/eli/oc/2006/559)).
 
@@ -35,12 +35,12 @@ verordnet:
 
 Als Pharmakopöe gelten:
 
-- a. *Pharmacopoea Europaea*, 11. Ausgabe[^1-2] (Ph. Eur. 11), vom November 2021, Nachtrag 11.1 zur *Pharmacopoea Europaea* vom März 2022, Nachtrag 11.2 zur *Pharmacopoea Europaea* vom Juni 2022, Nachtrag 11.3 zur *Pharma**copoea* *Europaea* vom November 2022, Nachtrag 11.4 zur *Pharmacopoea Europaea* vom März 2023 und Nachtrag 11.5 zur *Pharmacopoea Europaea* vom Juni 2023;
+- a. *Pharmacopoea Europaea*, 11. Ausgabe[^1-2] (Ph. Eur. 11), vom November 2021, Nachtrag 11.1 zur *Pharmacopoea Europaea* vom März 2022, Nachtrag 11.2 zur *Pharmacopoea Europaea* vom Juni 2022, Nachtrag 11.3 zur *Pharma**copoea* *Europaea* vom November 2022, Nachtrag 11.4 zur *Pharmacopoea Europaea* vom März 2023, Nachtrag 11.5 zur *Pharmacopoea Europaea* vom Juni 2023 und Nachtrag 11.6 zur *Pharmacopoea Europaea* vom November 2023;
 - b. *Pharmacopoea Helvetica*, 12. Ausgabe[^1-3] (Ph. Helv. 12), vom August 2022.
 
-[^1-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 15. März 2024, in Kraft seit 1. Juli 2024 ([AS 2024 115](https://fedlex.data.admin.ch/eli/oc/2024/115)).
-[^1-2]: Die *Pharmacopoea Europaea* wird im Original vom Europarat herausgegeben. Die französische Originalausgabe kann beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, www.bundespublikationen.admin.ch, zu den in der Gebührenverordnung Publikationen vom 19. Nov. 2014 (GebV‑Publ; [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)) vorgesehenen Bedingungen bezogen werden. Bis zur Herausgabe der deutschen Fassung können einzelne Texte in deutscher Sprache als Druckfahne bei der Abteilung Pharmakopöe des Schweizerischen Heilmittelinstituts (Swissmedic) bezogen werden.
-[^1-3]: Die *Pharmacopoea Helvetica* wird von der Swissmedic herausgegeben und kann unter: www.phhelv.ch abgerufen oder beim BBL, Verkauf Bundespublikationen, 3003 Bern, www.bundespublikationen.admin.ch, zu den in der GebV‑Publ vorgesehenen Bedingungen bezogen werden.
+[^1-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 27. Sept. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 538](https://fedlex.data.admin.ch/eli/oc/2024/538)).
+[^1-2]: Die *Pharmacopoea Europaea* wird im Original vom Europarat herausgegeben. Die französische Originalausgabe kann beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch), zu den in der Gebührenverordnung Publikationen vom 19. Nov. 2014 (GebV-Publ; [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)) vorgesehenen Bedingungen bezogen werden. Bis zur Herausgabe der deutschen Fassung können einzelne Texte in deutscher Sprache als Druckfahne bei der Abteilung Pharmakopöe des Schweizerischen Heilmittelinstituts (Swissmedic) bezogen werden.
+[^1-3]: Die *Pharmacopoea Helvetica* wird von der Swissmedic herausgegeben und kann unter [http://www.phhelv.ch](http://www.phhelv.ch) abgerufen oder beim BBL, Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.admin.ch](http://www.bundespublikationen.admin.ch), zu den in der GebV-Publ vorgesehenen Bedingungen bezogen werden.
 
 #### Art. 1a
 
