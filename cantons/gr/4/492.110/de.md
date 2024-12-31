@@ -4,13 +4,13 @@ number: "492.110"
 title: Sprachenverordnung des Kantons Graubünden
 short: SpV
 language: de
-version: 2017-01-01
-corrected: 2022-11-02
-version_adopted: 2016-05-24
+version: 2025-01-01
+valid_until: 2026-12-31
+version_adopted: 2024-12-17
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/492.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2688/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3879/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2688/pdf_file"
 
 (SpV)
 
-Vom 11.12.2007 (Stand 01.01.2017)
+Vom 11.12.2007 (Stand 01.01.2025)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -62,9 +62,11 @@ von der Regierung erlassen am 11. Dezember 2007
 
 **3. Fachstellen für Sprachenfragen**
 
-<sup>1</sup> Fachstelle für allgemeine Fragen im Zusammenhang mit den kantonalen Landes- und Amtssprachen sowie der Sprachenförderung ist das Amt für Kultur.
+<sup>1</sup> Fachstelle für allgemeine Fragen im Zusammenhang mit den kantonalen Landes- und Amtssprachen ist das Departement für Bildung, Umwelt und Kultur (Fachstelle für Mehrsprachigkeit).
 
-<sup>2</sup> Kontaktstelle des Kantons zu den Gemeinden und Regionen im Bereich der kommunalen Amtssprachen ist die zuständige Dienststelle im Departement für Finanzen und Gemeinden; im Bereich der Schulsprachen obliegt diese Aufgabe den zuständigen Dienststellen des Erziehungs-, Kultur- und Umweltschutzdepartementes. Sie werden fachlich unterstützt durch die Fachstelle für Sprachenfragen.
+<sup>1<sup>bis</sup></sup> Fachstelle für die Sprachenförderung ist das Amt für Kultur.
+
+<sup>2</sup> Kontaktstelle des Kantons zu den Gemeinden und Regionen im Bereich der kommunalen Amtssprachen ist die zuständige Dienststelle im Departement für Finanzen und Gemeinden; im Bereich der Schulsprachen obliegt diese Aufgabe den zuständigen Dienststellen des Departements für Bildung, Umwelt und Kultur. Sie werden fachlich unterstützt durch die Fachstelle für Mehrsprachigkeit sowie die Fachstelle für die Sprachenförderung.
 
 ## 2. Amtssprachen des Kantons
 
@@ -120,13 +122,19 @@ von der Regierung erlassen am 11. Dezember 2007
 
 [^8-1]: SR [741.21](https://db.clex.ch/link/Bund/741.21/de)
 
+#### Art. 8a
+
+**Vertretung der Sprachregionen in kantonalen Gremien**
+
+<sup>1</sup> In den von der Regierung oder den Departementen gewählten kantonalen Gremien, die mit der Wahrnehmung bedeutender öffentlicher Aufgaben betraut sind, ist eine angemessene Vertretung der drei Sprachregionen zu gewährleisten.
+
 ## 3. Förderung der rätoromanischen und italienischen Sprache / Austausch zwischen den Sprachgemeinschaften
 
 #### Art. 9
 
 **Sprachenförderung 1. Institutionen a) Leistungsvereinbarung**
 
-<sup>1</sup> Die beitragsberechtigten Sprachenorganisationen Lia Rumantscha und Pro Grigioni Italiano sowie die Agentura da Novitads Rumantscha erhalten in Berücksichtigung ihrer institutionellen Unabhängigkeit die Bundes- und Kantonsbeiträge auf der Grundlage von Leistungsvereinbarungen.
+<sup>1</sup> Die beitragsberechtigten Sprachenorganisationen Lia Rumantscha und Pro Grigioni Italiano sowie die Fundaziun Medias Rumantschas erhalten in Berücksichtigung ihrer institutionellen Unabhängigkeit die Bundes- und Kantonsbeiträge auf der Grundlage von Leistungsvereinbarungen.
 
 <sup>2</sup> Die Leistungsvereinbarungen gelten für vier Jahre und haben insbesondere folgende Punkte zu enthalten:
 
@@ -159,7 +167,7 @@ von der Regierung erlassen am 11. Dezember 2007
 
 <sup>1</sup> Die Kantonsbeiträge an die Lia Rumantscha und an die Pro Grigioni Italiano betragen 10 bis 30 Prozent des massgebenden Gesamtaufwandes. Zusammen mit den Finanzhilfen des Bundes dürfen die Kantonsbeiträge bei der Lia Rumantscha 75 Prozent und bei der Pro Grigioni Italiano 95 Prozent des massgebenden Gesamtaufwandes nicht überschreiten.
 
-<sup>2</sup> Die Agentura da Novitads Rumantscha erhält an den massgebenden Gesamtaufwand einen Kantonsbeitrag von 30 bis 50 Prozent.
+<sup>2</sup> Die Fundaziun Medias Rumantschas erhält an den massgebenden Gesamtaufwand einen Kantonsbeitrag von 30 bis 50 Prozent.
 
 <sup>3</sup> Über die Höhe der Beiträge beschliesst der Grosse Rat im Rahmen des Budgets.
 
@@ -239,7 +247,7 @@ von der Regierung erlassen am 11. Dezember 2007
 
 **Austausch 1. Kantonale Programme**
 
-<sup>1</sup> Die zuständigen Dienststellen des Erziehungs-, Kultur- und Umweltschutzdepartementes fördern Austauschprogramme zwischen den kantonalen Sprachgemeinschaften für Schulklassen und Lehrpersonen auf allen Schulstufen.
+<sup>1</sup> Die zuständigen Dienststellen des Departements für Bildung, Umwelt und Kultur fördern Austauschprogramme zwischen den kantonalen Sprachgemeinschaften für Schulklassen und Lehrpersonen auf allen Schulstufen.
 
 <sup>2</sup> Die Kosten für diese Programme bewilligt der Grosse Rat im Rahmen des Budgets.
 
@@ -247,7 +255,7 @@ von der Regierung erlassen am 11. Dezember 2007
 
 **2. Förderbeiträge**
 
-<sup>1</sup> Gesuche von Schulträgerschaften um kantonale Beiträge an den Austausch von Schulklassen und Lehrpersonen sind an die zuständige Dienststelle des Erziehungs-, Kultur- und Umweltschutzdepartementes zu richten.
+<sup>1</sup> Gesuche von Schulträgerschaften um kantonale Beiträge an den Austausch von Schulklassen und Lehrpersonen sind an die zuständige Dienststelle des Departements für Bildung, Umwelt und Kultur zu richten.
 
 <sup>2</sup> Die Höhe der Beiträge für einen Austauschtag beträgt pro Schülerin und Schüler 90 Franken, im Maximum 450 Franken pro Woche.
 
@@ -293,7 +301,7 @@ von der Regierung erlassen am 11. Dezember 2007
 
 **Übergangsbestimmungen 1. Leistungsvereinbarungen**
 
-<sup>1</sup> Die Leistungsvereinbarungen mit den Sprachenorganisationen Lia Rumantscha, Pro Grigioni Italiano und der Agentura da Novitads Rumantscha werden erstmals für die Legislaturperiode 2009 bis 2012 abgeschlossen. Bis zu diesem Zeitpunkt gelten die bisherigen Regelungen.
+<sup>1</sup> Die Leistungsvereinbarungen mit den Sprachenorganisationen Lia Rumantscha, Pro Grigioni Italiano und der Fundaziun Medias Rumantschas werden erstmals für die Legislaturperiode 2009 bis 2012 abgeschlossen. Bis zu diesem Zeitpunkt gelten die bisherigen Regelungen.
 
 #### Art. 22
 

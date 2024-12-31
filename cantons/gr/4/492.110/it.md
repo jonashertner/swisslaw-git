@@ -4,13 +4,13 @@ number: "492.110"
 title: Ordinanza sulle lingue del Cantone dei Grigioni
 short: OCLing
 language: it
-version: 2017-01-01
-corrected: 2022-11-02
-version_adopted: 2016-05-24
+version: 2025-01-01
+valid_until: 2026-12-31
+version_adopted: 2024-12-17
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/492.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2688/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3879/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2688/pdf_file"
 
 (OCLing)
 
-del 11.12.2007 (stato 01.01.2017)
+del 11.12.2007 (stato 01.01.2025)
 
 emanata dal Governo l'11 dicembre 2007
 
@@ -62,9 +62,11 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **3. Servizi specializzati per questioni linguistiche**
 
-<sup>1</sup> Il Servizio specializzato per questioni generali in relazione alle lingue cantonali e ufficiali, nonché alla promozione delle lingue è l'Ufficio della cultura.
+<sup>1</sup> Il servizio specializzato per questioni generali in relazione alle lingue cantonali e ufficiali è il Dipartimento formazione, ambiente e cultura (servizio specializzato per il plurilinguismo).
 
-<sup>2</sup> Il servizio di contatto del Cantone con i comuni e le regioni nell'ambito delle lingue ufficiali comunali è il servizio competente del Dipartimento delle finanze e dei comuni; nell'ambito delle lingue scolastiche questo compito spetta ai servizi competenti del Dipartimento dell'educazione, cultura e protezione dell'ambiente. Essi ricevono sostegno specialistico dal Servizio specializzato per questioni linguistiche.
+<sup>1<sup>bis</sup></sup> Il servizio specializzato per la promozione delle lingue è l'Ufficio della cultura.
+
+<sup>2</sup> Il servizio di contatto del Cantone con i comuni e le regioni nell'ambito delle lingue ufficiali comunali è il servizio competente del Dipartimento delle finanze e dei comuni; nell'ambito delle lingue scolastiche questo compito spetta ai servizi competenti del Dipartimento formazione, ambiente e cultura. Essi ricevono sostegno specialistico dal servizio specializzato per il plurilinguismo nonché dal servizio specializzato per la promozione delle lingue.
 
 ## 2. Lingue ufficiali del Cantone
 
@@ -120,13 +122,19 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 [^8-1]: RS [741.21](https://db.clex.ch/link/Bund/741.21/it)
 
+#### Art. 8a
+
+**Rappresentanza delle regioni linguistiche in seno a organi cantonali**
+
+<sup>1</sup> Occorre garantire un'adeguata rappresentanza delle tre regioni linguistiche in seno agli organi cantonali ai quali è affidato l'adempimento di importanti compiti pubblici e che sono nominati dal Governo o dai dipartimenti.
+
 ## 3. Promozione della lingua romancia e italiana / Scambi fra le comunità linguistiche
 
 #### Art. 9
 
 **Promozione delle lingue 1. Istituzioni a) Accordo di prestazioni**
 
-<sup>1</sup> Le organizzazioni linguistiche aventi diritto a sussidi Lia Rumantscha e Pro Grigioni Italiano, nonché l'Agentura da Novitads Rumantscha ricevono i sussidi federali e cantonali sulla base di accordi di prestazioni, in considerazione della loro indipendenza istituzionale.
+<sup>1</sup> Le organizzazioni linguistiche aventi diritto a sussidi Lia Rumantscha e Pro Grigioni Italiano, nonché la Fundaziun Medias Rumantschas ricevono i sussidi federali e cantonali sulla base di accordi di prestazioni, in considerazione della loro indipendenza istituzionale.
 
 <sup>2</sup> Gli accordi di prestazioni valgono per quattro anni e devono in particolare contenere i seguenti punti:
 
@@ -159,7 +167,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> I sussidi cantonali a favore della Lia Rumantscha e della Pro Grigioni Italiano variano tra il 10 e il 30 per cento della spesa complessiva determinante. Insieme agli aiuti finanziari della Confederazione, i sussidi cantonali non possono superare il 75 per cento della spesa complessiva determinante della Lia Rumantscha, rispettivamente il 95 per cento della spesa complessiva determinante della Pro Grigioni Italiano.
 
-<sup>2</sup> L'Agentura da Novitads Rumantscha riceve un sussidio cantonale compreso tra il 30 e il 50 per cento della spesa complessiva determinante.
+<sup>2</sup> La Fundaziun Medias Rumantschas riceve un sussidio cantonale compreso tra il 30 e il 50 per cento della spesa complessiva determinante.
 
 <sup>3</sup> Il Gran Consiglio decide sull'ammontare dei sussidi nell'ambito del preventivo.
 
@@ -239,7 +247,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Scambio 1. Programmi cantonali**
 
-<sup>1</sup> I servizi competenti del Dipartimento dell'educazione, cultura e protezione dell'ambiente promuovono programmi di scambio fra le comunità linguistiche cantonali per classi e insegnanti di tutti i livelli scolastici.
+<sup>1</sup> I servizi competenti del Dipartimento formazione, ambiente e cultura promuovono programmi di scambio fra le comunità linguistiche cantonali per classi e insegnanti di tutti i livelli scolastici.
 
 <sup>2</sup> Le spese per questi programmi vengono autorizzate dal Gran Consiglio nell'ambito del preventivo.
 
@@ -247,7 +255,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **2. Sussidi promozionali**
 
-<sup>1</sup> Le domande di enti scolastici per l'ottenimento di sussidi cantonali per lo scambio di classi e insegnanti devono essere presentate al servizio competente del Dipartimento dell'educazione, cultura e protezione dell'ambiente.
+<sup>1</sup> Le domande di enti scolastici per l'ottenimento di sussidi cantonali per lo scambio di classi e insegnanti devono essere presentate al servizio competente del Dipartimento formazione, ambiente e cultura.
 
 <sup>2</sup> I sussidi per un giorno di scambio ammontano a 90 franchi per scolaro, al massimo a 450 franchi per settimana.
 
@@ -293,7 +301,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Disposizioni transitorie 1. Accordi di prestazioni**
 
-<sup>1</sup> Gli accordi di prestazioni con le organizzazioni linguistiche Lia Rumantscha e Pro Grigioni Italiano, nonché con l'Agentura da Novitads Rumantscha vengono stipulati per la prima volta per il periodo di legislatura 2009 - 2012. Fino a quel momento si applicano le regolamentazioni finora vigenti.
+<sup>1</sup> Gli accordi di prestazioni con le organizzazioni linguistiche Lia Rumantscha e Pro Grigioni Italiano, nonché con la Fundaziun Medias Rumantschas vengono stipulati per la prima volta per il periodo di legislatura 2009 - 2012. Fino a quel momento si applicano le regolamentazioni finora vigenti.
 
 #### Art. 22
 

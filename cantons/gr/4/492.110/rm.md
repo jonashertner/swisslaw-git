@@ -4,13 +4,13 @@ number: "492.110"
 title: Ordinaziun da linguas dal chantun Grischun
 short: OLing
 language: rm
-version: 2017-01-01
-corrected: 2022-11-02
-version_adopted: 2016-05-24
+version: 2025-01-01
+valid_until: 2026-12-31
+version_adopted: 2024-12-17
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/492.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2688/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3879/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2688/pdf_file"
 
 (OLing)
 
-dals 11-12-2007 (versiun dals 01-01-2017)
+dals 11-12-2007 (versiun dals 01-01-2025)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
@@ -62,9 +62,11 @@ relaschada da la regenza ils 11 da december 2007
 
 **3. posts spezialisads per dumondas da linguas**
 
-<sup>1</sup> L'uffizi da cultura è il post spezialisà per dumondas generalas en connex cun las linguas naziunalas ed uffizialas dal chantun sco er en connex cun la promoziun da linguas.
+<sup>1</sup> Il post spezialisà per dumondas generalas en connex cun las linguas naziunalas ed uffizialas dal chantun è il Departament da furmaziun, ambient e cultura (Post spezialisà per la plurilinguitad).
 
-<sup>2</sup> Il post da contact dal chantun per las vischnancas e per las regiuns en il sectur da las linguas communalas uffizialas è il post da servetsch cumpetent dal departament da finanzas e vischnancas; en il sectur da las linguas da scola è questa incumbensa chaussa dal post da servetsch cumpetent dal departament d'educaziun, cultura e protecziun da l'ambient. En dumondas specificas vegnan els sustegnids dal post spezialisà per dumondas da linguas.
+<sup>1<sup>bis</sup></sup> Il post spezialisà per la promoziun da linguas è l'Uffizi da cultura.
+
+<sup>2</sup> Il post da contact dal chantun per las vischnancas e per las regiuns en il sectur da las linguas communalas uffizialas è il post da servetsch cumpetent dal Departament da finanzas e vischnancas; en il sectur da las linguas da scola è questa incumbensa chaussa dals posts da servetsch cumpetents dal Departament da furmaziun, ambient e cultura. En dumondas specificas vegnan els sustegnids tras il Post spezialisà per la plurilinguitad sco er tras il Post spezialisà per la promoziun da linguas.
 
 ## 2. Linguas uffizialas dal chantun
 
@@ -120,13 +122,19 @@ relaschada da la regenza ils 11 da december 2007
 
 [^8-1]: CS [741.21](https://db.clex.ch/link/Bund/741.21/rm)
 
+#### Art. 8a
+
+**Represchentanza da las regiuns linguisticas en gremis chantunals**
+
+<sup>1</sup> En ils gremis chantunals che vegnan elegids da la Regenza u dals departaments e che adempleschan incumbensas publicas impurtantas, sto vegnir garantida ina represchentanza adequata da las trais regiuns linguisticas.
+
 ## 3. Promoziun da la lingua rumantscha e taliana / barat tranter las cuminanzas linguisticas
 
 #### Art. 9
 
 **Promoziun da linguas 1. instituziuns a) cunvegna da prestaziun**
 
-<sup>1</sup> Las organisaziuns linguisticas che han il dretg da survegnir contribuziuns, vul dir la Lia rumantscha, la Pro Grigioni italiano e l'Agentura da novitads rumantscha, survegnan las contribuziuns federalas e chantunalas sin basa da cunvegnas da prestaziun. En quest connex vegn resguardada lur independenza instituziunala.
+<sup>1</sup> Las organisaziuns linguisticas che han il dretg da survegnir contribuziuns, vul dir la Lia rumantscha, la Pro Grigioni italiano e la Fundaziun Medias Rumantschas, survegnan las contribuziuns federalas e chantunalas sin basa da cunvegnas da prestaziun. En quest connex vegn resguardada lur independenza instituziunala.
 
 <sup>2</sup> Las cunvegnas da prestaziun valan per 4 onns e ston cuntegnair en spezial ils suandants puncts:
 
@@ -159,7 +167,7 @@ relaschada da la regenza ils 11 da december 2007
 
 <sup>1</sup> Las contribuziuns chantunalas a la Lia rumantscha ed a la Pro Grigioni italiano importan 10 fin 30 pertschient da las expensas totalas decisivas. Ensemen cun ils agids finanzials da la confederaziun na dastgan las contribuziuns chantunalas betg surpassar 75 pertschient da las expensas totalas decisivas tar la Lia rumantscha e 95 pertschient da las expensas totalas decisivas tar la Pro Grigioni italiano.
 
-<sup>2</sup> L'Agentura da novitads rumantscha survegn ina contribuziun chantunala da 30 fin 50 pertschient da las expensas totalas decisivas.
+<sup>2</sup> La Fundaziun Medias Rumantschas survegn ina contribuziun chantunala da 30 fin 50 pertschient da las expensas totalas decisivas.
 
 <sup>3</sup> Davart l'autezza da las contribuziuns decida il cussegl grond en il rom dal preventiv.
 
@@ -239,7 +247,7 @@ relaschada da la regenza ils 11 da december 2007
 
 **Barat 1. programs chantunals**
 
-<sup>1</sup> Ils posts da servetsch cumpetents dal departament d'educaziun, cultura e protecziun da l'ambient promovan sin tut ils stgalims da scola programs da barat tranter las cuminanzas linguisticas chantunalas per classas da scola e per persunas d'instrucziun.
+<sup>1</sup> Ils posts da servetsch cumpetents dal Departament da furmaziun, ambient e cultura promovan sin tut ils stgalims da scola programs da barat tranter las cuminanzas linguisticas chantunalas per classas da scola e per persunas d'instrucziun.
 
 <sup>2</sup> Ils meds finanzials per quests programs vegnan concedids dal cussegl grond en il rom dal preventiv.
 
@@ -247,7 +255,7 @@ relaschada da la regenza ils 11 da december 2007
 
 **2. contribuziuns da promoziun**
 
-<sup>1</sup> Instituziuns ch'èn responsablas per la scola e che dumondan contribuziuns chantunalas per il barat da classas da scola e da persunas d'instrucziun ston drizzar questas dumondas al post da servetsch cumpetent dal departament d'educaziun, cultura e protecziun da l'ambient.
+<sup>1</sup> Instituziuns ch'èn responsablas per la scola e che dumondan contribuziuns chantunalas per il barat da classas da scola e da persunas d'instrucziun ston drizzar questas dumondas al post da servetsch cumpetent dal Departament da furmaziun, ambient e cultura.
 
 <sup>2</sup> L'autezza da las contribuziuns per in di da barat importa 90 francs per scolara u per scolar e maximalmain 450 francs per emna.
 
@@ -293,7 +301,7 @@ relaschada da la regenza ils 11 da december 2007
 
 **Disposiziuns transitoricas 1. cunvegnas da prestaziun**
 
-<sup>1</sup> Las cunvegnas da prestaziun cun las organisaziuns linguisticas, vul dir cun la Lia rumantscha, cun la Pro Grigioni italiano e cun l'Agentura da novitads rumantscha, vegnan fatgas per l'emprima giada per la perioda da legislatura dals onns 2009 fin 2012. Fin a quest termin valan las regulaziuns vertentas.
+<sup>1</sup> Las cunvegnas da prestaziun cun las organisaziuns linguisticas, vul dir cun la Lia rumantscha, cun la Pro Grigioni italiano e cun la Fundaziun Medias Rumantschas, vegnan fatgas per l'emprima giada per la perioda da legislatura dals onns 2009 fin 2012. Fin a quest termin valan las regulaziuns vertentas.
 
 #### Art. 22
 
