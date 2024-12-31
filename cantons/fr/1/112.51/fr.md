@@ -4,13 +4,13 @@ number: "112.51"
 title: Ordonnance indiquant les noms des communes et leur rattachement aux districts administratifs
 short: ONCD
 language: fr
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-06-28
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-09-24
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/112.51"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6880/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8150/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Noms des communes – O
 
 (ONCD)
 
-du 24.11.2015 (version entrée en vigueur le 01.01.2022)
+du 24.11.2015 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -65,9 +65,9 @@ Arrête:
 
 **District de la Sarine**
 
-<sup>1</sup> Le district de la Sarine est composé des vingt-six communes suivantes:
+<sup>1</sup> Le district de la Sarine est composé des vingt-cinq communes suivantes:
 
-Autigny, Avry, Belfaux, Bois-d'Amont, La Brillaz, Chénens, Corminbœuf, Cottens (FR), Ferpicloz, Fribourg, Gibloux, Givisiez, Granges-Paccot, Grolley, Hauterive (FR), Marly, Matran, Le Mouret, Neyruz (FR), Pierrafortscha, Ponthaux, Prez, La Sonnaz, Treyvaux, Villarsel-sur-Marly, Villars-sur-Glâne.
+Autigny, Avry, Belfaux, Bois-d'Amont, La Brillaz, Chénens, Corminbœuf, Cottens (FR), Ferpicloz, Fribourg, Gibloux, Givisiez, Granges-Paccot, Grolley-Ponthaux, Hauterive (FR), Marly, Matran, Le Mouret, Neyruz (FR), Pierrafortscha, Prez, La Sonnaz, Treyvaux, Villarsel-sur-Marly, Villars-sur-Glâne.
 
 #### Art. 4
 
@@ -99,9 +99,9 @@ Courgevaux, Courtepin, Cressier (FR), Fräschels, Greng, Gurmels, Kerzers, Klein
 
 **District de la Glâne**
 
-<sup>1</sup> Le district de la Glâne est composé des dix-huit communes suivantes:
+<sup>1</sup> Le district de la Glâne est composé des quatorze communes suivantes:
 
-Auboranges, Billens-Hennens, Chapelle (Glâne), Le Châtelard, Châtonnaye, Ecublens (FR), Grangettes, Massonnens, Mézières (FR), Montet (Glâne), Romont (FR), Rue, Siviriez, Torny, Ursy, Villaz, Villorsonnens, Vuisternens-devant-Romont.
+Billens-Hennens, Le Châtelard, Châtonnaye, Grangettes, Massonnens, Mézières (FR), Romont (FR), Rue, Siviriez, Torny, Ursy, Villaz, Villorsonnens, Vuisternens-devant-Romont.
 
 #### Art. 8
 
@@ -148,7 +148,9 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Veveyse), Remaufens
 
 **Examen final**
 
-<sup>1</sup> L'approbation de la convention de fusion par le Grand Conseil vaut examen final du nom de la nouvelle commune sur le plan cantonal. La procédure fédérale au sens des articles 15 et 16 ONGéo demeure réservée.
+<sup>1</sup> L'approbation de la convention de fusion par le Grand Conseil vaut examen final du nom de la nouvelle commune sur le plan cantonal. La procédure fédérale au sens des articles 15 et 16 ONGéo[^12-1] demeure réservée.
+
+[^12-1]: RS [510.625](https://db.clex.ch/link/Bund/510.625/fr)
 
 #### Art. 13
 
@@ -166,7 +168,9 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Veveyse), Remaufens
 
 #### Art. 15
 
-<sup>1</sup> Le service compétent au sens des articles 13 et 18 let. b et d ONGéo est le Service des communes.
+<sup>1</sup> Le service compétent au sens des articles 13 et 18 let. b et d ONGéo[^15-1] est le Service des communes.
+
+[^15-1]: RS [510.625](https://db.clex.ch/link/Bund/510.625/fr)
 
 ## 7 Dispositions finales
 
@@ -313,6 +317,9 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Veveyse), Remaufens
 <tr><td>Cheiry, Surpierre</td><td>Surpierre</td><td>01.01.2021</td><td>Décret</td><td>27.05.2020</td></tr>
 <tr><td>Clavaleyres, Morat</td><td>Morat</td><td>01.01.2022</td><td>Décret</td><td>24.05.2019</td></tr>
 <tr><td>Galmiz, Gempenach, Morat</td><td>Morat</td><td>01.01.2022</td><td>Décret</td><td>23.03.2021</td></tr>
+<tr><td>Auboranges, Chapelle (Glâne), Ecublens (FR), Rue</td><td>Rue</td><td>01.01.2025</td><td>Décret</td><td>23.05.2024</td></tr>
+<tr><td>Grolley, Ponthaux</td><td>Grolley-Ponthaux</td><td>01.01.2025</td><td>Décret</td><td>25.06.2024</td></tr>
+<tr><td>Montet (Glâne), Ursy</td><td>Ursy</td><td>01.01.2025</td><td>Décret</td><td>25.06.2024</td></tr>
 </table>
 
 #### Art. A1-3

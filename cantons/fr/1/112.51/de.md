@@ -4,13 +4,13 @@ number: "112.51"
 title: Verordnung über die Namen der Gemeinden und deren Zugehörigkeit zu den Verwaltungsbezirken
 short: NGBV
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-06-28
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-09-24
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/112.51"
-pdf: "https://bdlf.fr.ch/api/de/versions/6880/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8150/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Namen der Gemeinden – V
 
 (NGBV)
 
-vom 24.11.2015 (Fassung in Kraft getreten am 01.01.2022)
+vom 24.11.2015 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -65,9 +65,9 @@ beschliesst:
 
 **Saanebezirk**
 
-<sup>1</sup> Der Saanebezirk besteht aus folgenden sechsundzwanzig Gemeinden:
+<sup>1</sup> Der Saanebezirk besteht aus folgenden fünfundzwanzig Gemeinden:
 
-Autigny, Avry, Belfaux, Bois-d'Amont, La Brillaz, Chénens, Corminbœuf, Cottens (FR), Ferpicloz, Freiburg[^3-1], Gibloux, Givisiez, Granges-Paccot, Grolley, Hauterive (FR), Marly, Matran, Le Mouret, Neyruz (FR), Pierrafortscha, Ponthaux, Prez, La Sonnaz, Treyvaux, Villarsel-sur-Marly, Villars-sur-Glâne.
+Autigny, Avry, Belfaux, Bois-d'Amont, La Brillaz, Chénens, Corminbœuf, Cottens (FR), Ferpicloz, Freiburg[^3-1], Gibloux, Givisiez, Granges-Paccot, Grolley-Ponthaux, Hauterive (FR), Marly, Matran, Le Mouret, Neyruz (FR), Pierrafortscha, Prez, La Sonnaz, Treyvaux, Villarsel-sur-Marly, Villars-sur-Glâne.
 
 [^3-1]: Anmerkung des Autors: Gebrauch gemäss Artikel 10 Abs. 1; im Bundesverzeichnis lautet der Name «Fribourg».
 
@@ -99,9 +99,9 @@ Courgevaux, Courtepin, Cressier (FR), Fräschels, Greng, Gurmels, Kerzers, Klein
 
 **Glanebezirk**
 
-<sup>1</sup> Der Glanebezirk besteht aus folgenden achtzehn Gemeinden:
+<sup>1</sup> Der Glanebezirk besteht aus folgenden vierzehn Gemeinden:
 
-Auboranges, Billens-Hennens, Chapelle (Glane), Le Châtelard, Châtonnaye, Ecublens (FR), Grangettes, Massonnens, Mézières (FR), Montet (Glane), Romont (FR), Rue, Siviriez, Torny, Ursy, Villaz, Villorsonnens, Vuisternens-devant-Romont.
+Billens-Hennens, Le Châtelard, Châtonnaye, Grangettes, Massonnens, Mézières (FR), Romont (FR), Rue, Siviriez, Torny, Ursy, Villaz, Villorsonnens, Vuisternens-devant-Romont.
 
 #### Art. 8
 
@@ -148,7 +148,9 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 
 **Schlussprüfung**
 
-<sup>1</sup> Die Genehmigung der Fusionsvereinbarung durch den Grossen Rat gilt als Schlussprüfung des Namens der neuen Gemeinde. Das Verfahren des Bundes nach den Artikeln 15 und 16 GeoNV bleibt vorbehalten.
+<sup>1</sup> Die Genehmigung der Fusionsvereinbarung durch den Grossen Rat gilt als Schlussprüfung des Namens der neuen Gemeinde. Das Verfahren des Bundes nach den Artikeln 15 und 16 GeoNV[^12-1] bleibt vorbehalten.
+
+[^12-1]: SR [510.625](https://db.clex.ch/link/Bund/510.625/de)
 
 #### Art. 13
 
@@ -166,7 +168,9 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 
 #### Art. 15
 
-<sup>1</sup> Das Amt für Gemeinden ist die zuständige Stelle im Sinne der Artikel 13 und 18 Bst. b und d GeoNV.
+<sup>1</sup> Das Amt für Gemeinden ist die zuständige Stelle im Sinne der Artikel 13 und 18 Bst. b und d GeoNV[^15-1].
+
+[^15-1]: SR [510.625](https://db.clex.ch/link/Bund/510.625/de)
 
 ## 7 Schlussbestimmungen
 
@@ -214,7 +218,7 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 <sup>1</sup> Die Gemeindezusammenschlüsse haben folgende Mutationen bewirkt:
 
 <table>
-<tr><th>Name der früheren Gemeinde</th><th>Name der neuen Gemeinde</th><th>Inkrafttreten</th><th>Genehmigung des Grossen Rats - Form</th><th>Genehmigung des Grossen Rats - Datum</th></tr>
+<tr><th>Namen der früheren Gemeinden</th><th>Name der neuen Gemeinde</th><th>Inkrafttreten</th><th>Genehmigung des Grossen Rats - Form</th><th>Genehmigung des Grossen Rats - Datum</th></tr>
 <tr><td>Chavannes-sous-Orsonnens, Granges-la-Battiaz</td><td>Chavannes-sous-Orsonnens</td><td>13.09.1866</td><td>Beschluss</td><td>07.09.1866</td></tr>
 <tr><td>Arruffens, Romont</td><td>Romont (FR)</td><td></td><td>Dekret</td><td>20.05.1868</td></tr>
 <tr><td>La Rougève, Semsales</td><td>Semsales</td><td>01.01.1968</td><td>Dekret</td><td>22.09.1967</td></tr>
@@ -313,6 +317,9 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 <tr><td>Cheiry, Surpierre</td><td>Surpierre</td><td>01.01.2021</td><td>Dekret</td><td>27.05.2020</td></tr>
 <tr><td>Clavaleyres, Murten</td><td>Murten</td><td>01.01.2022</td><td>Dekret</td><td>24.05.2019</td></tr>
 <tr><td>Galmiz, Gempenach, Murten</td><td>Murten</td><td>01.01.2022</td><td>Dekret</td><td>23.03.2021</td></tr>
+<tr><td>Auboranges, Chapelle (Glane), Ecublens (FR), Rue</td><td>Rue</td><td>01.01.2025</td><td>Dekret</td><td>23.05.2024</td></tr>
+<tr><td>Grolley, Ponthaux</td><td>Grolley-Ponthaux</td><td>01.01.2025</td><td>Dekret</td><td>25.06.2024</td></tr>
+<tr><td>Montet (Glane), Ursy</td><td>Ursy</td><td>01.01.2025</td><td>Dekret</td><td>25.06.2024</td></tr>
 </table>
 
 #### Art. A1-3
