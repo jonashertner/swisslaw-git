@@ -4,13 +4,13 @@ number: "834.410"
 title: Verordnung über die Krankenversicherung im Kanton Basel-Stadt
 short: KVO
 language: de
-version: 2024-04-01
-valid_until: 2024-12-31
-version_adopted: 2024-03-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-05
 adopted: 2008-11-25
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6165/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Kranken- und Unfallversicherung / Kantonale Beiträge im Gesundheitswesen
 
 (KVO)
 
-Vom 25. November 2008 (Stand 1. April 2024)
+Vom 25. November 2008 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -513,6 +513,12 @@ Für Nichtvertragsheime reduzieren sich die Normkosten um 10 Prozent.
 [^30-1]: SG 328.210.
 [^30-2]: Die Änderungen werden hier nicht abgedruckt.
 
+#### § 30a
+
+**Übergangsbestimmung zur Änderung von § 8d Abs. 1 Ziff. 4 vom 22. Oktober 2024**
+
+<sup>1</sup> Für die Ermittlung des Pflegebedarfs der Bewohnerinnen und Bewohner können die Pflegeheime bis zum 31. Dezember 2025 das Bedarfsermittlungsinstrument nach bisherigem Recht verwenden.
+
 #### § 31
 
 **Wirksamkeit**
@@ -528,6 +534,7 @@ KB 29.11.2008
 - [8] Fassung vom 12. Februar 2019, in Kraft seit 1. Januar 2019 (KB 16.02.2019)
 - [9] Eingefügt am 12. März 2024, in Kraft seit 1. April 2024 (KB 16.03.2024)
 - [10] Eingefügt am 12. März 2024, in Kraft seit 1. April 2024 (KB 16.03.2024)
-- [11] Fassung vom 12. Februar 2019, in Kraft seit 1. Januar 2019 (KB 16.02.2019)
-- [12] § 8d Abs. 2 Ziff. 3 in der Fassung des RRB vom 24. 1. 2012 (wirksam seit 1. 1. 2012, publiziert am 28. 1. 2012).
-- [13] Fassung vom 24. August 2021, in Kraft seit 1. Oktober 2021 (KB 28.08.2021
+- [11] Eingefügt am 22. Oktober 2024, in Kraft seit 1. Januar 2025 (KB 26.10.2024)
+- [12] Fassung vom 12. Februar 2019, in Kraft seit 1. Januar 2019 (KB 16.02.2019)
+- [13] § 8d Abs. 2 Ziff. 3 in der Fassung des RRB vom 24. 1. 2012 (wirksam seit 1. 1. 2012, publiziert am 28. 1. 2012).
+- [14] Fassung vom 24. August 2021, in Kraft seit 1. Oktober 2021 (KB 28.08.2021
