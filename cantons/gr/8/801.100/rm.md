@@ -4,13 +4,12 @@ number: "801.100"
 title: Lescha davart la planisaziun dal territori per il chantun Grischun
 short: LPTGR
 language: rm
-version: 2019-04-01
-corrected: 2020-04-27
-version_adopted: 2018-10-25
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2004-12-06
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/801.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2936/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3417/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2936/pdf_file"
 
 (LPTGR)
 
-dals 06-12-2004 (versiun dals 01-04-2019)
+dals 06-12-2004 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -1379,7 +1378,7 @@ concluda:
 
 <sup>3</sup> L'autoritad communala da construcziun trametta dumondas per projects da construcziun ordaifer las zonas da construcziun (dumonda EOZ), tar las qualas ella è da l'avis che las premissas per ina permissiun da construcziun e per ina permissiun EOZ sajan dadas, al post spezialisà, e quai cun ina proposta motivada da dar la permissiun EOZ. Cas cuntrari refusa ella la dumonda da sai anor.
 
-<sup>4</sup> Sche l'autoritad EOZ dat la permissiun EOZ, vegn quella communitgada da l'autoritad communala da construcziun ensemen cun la permissiun da construcziun. En quest cas po la permissiun da construcziun vegnir contestada directamain tar la dretgira administrativa, e quai senza prender resguard sin eventuals meds legals communals.
+<sup>4</sup> Sche l'autoritad EOZ dat la permissiun EOZ, vegn quella communitgada da l'autoritad communala da construcziun ensemen cun la permissiun da construcziun. En quest cas po la permissiun da construcziun vegnir contestada directamain tar la Dretgira superiura, e quai senza prender resguard sin eventuals meds legals communals.
 
 <sup>5</sup> Sche l'autoritad EOZ refusa la permissiun EOZ, communitgescha ella la decisiun EOZ negativa directamain a las petentas ed als petents. Tras quai vala la dumonda da construcziun sco refusada. Per ils custs da procedura da la vischnanca relascha l'autoritad communala da construcziun ina decisiun da custs separada.
 
@@ -1543,7 +1542,7 @@ concluda:
 
 <sup>1</sup> Ils termins d'exposiziun, da protesta e da recurs per plans d'utilisaziun e per projects da construcziun ch'èn fixads en questa lescha ed en l'ordinaziun che basa sin quella valan er per dumondas per permissiuns supplementaras che ston vegnir exponidas il medem mument.
 
-<sup>2</sup> Sche permissiuns supplementaras vegnan publitgadas ensemen cun decisiuns, cun conclus u cun disposiziuns ch'èn suttamessas al recurs tar la dretgira administrativa, vala il med legal dal recurs er per ina eventuala contestaziun da la permissiun supplementara.
+<sup>2</sup> Sche permissiuns supplementaras vegnan publitgadas ensemen cun decisiuns, cun conclus u cun disposiziuns ch'èn suttamessas al recurs tar la Dretgira superiura, vala il med legal dal recurs er per in'eventuala contestaziun da la permissiun supplementara.
 
 #### Art. 101
 
@@ -1575,15 +1574,15 @@ concluda:
 
 **Recurs 1. decisiuns da la regenza**
 
-<sup>1</sup> Cunter decisiuns da la regenza davart il relasch da plans chantunals d'utilisaziun e d'urdens da cumpensaziun, davart l'approvaziun d'urdens fundamentals communals sco er davart ils recurs da planisaziun po vegnir fatg recurs tar la dretgira administrativa.
+<sup>1</sup> Cunter decisiuns da la Regenza davart il relasch da plans chantunals d'utilisaziun e d'urdens da cumpensaziun, davart l'approvaziun d'urdens fundamentals communals sco er davart ils recurs da planisaziun po vegnir fatg recurs tar la Dretgira superiura.
 
-<sup>2</sup> Cunter decisiuns da la regenza tenor l'alinea 1 sco er cunter decisiuns davart il relasch dal plan directiv chantunal e davart l'approvaziun da plans directivs regiunals pon las vischnancas e las regiuns pertutgadas sco instituziuns ch'èn responsablas per la planisaziun locala respectivamain per la planisaziun regiunala far recurs tar la dretgira administrativa.
+<sup>2</sup> Cunter decisiuns da la Regenza tenor l'alinea 1 sco er cunter decisiuns davart il relasch dal Plan directiv chantunal e davart l'approvaziun da plans directivs regiunals pon las vischnancas e las regiuns pertutgadas sco instituziuns ch'èn responsablas per la planisaziun locala respectivamain per la planisaziun regiunala far recurs tar la Dretgira superiura.
 
 #### Art. 103
 
 **2. disposiziuns d'autoritads chantunalas**
 
-<sup>1</sup> Disposiziuns d'autoritads chantunalas che sa basan sin questa lescha u sin relaschs che sa basan sin quella e cunter las qualas i na po betg vegnir far recurs tar la regenza tenor ina regulaziun expressiva, èn suttamessas al recurs tar la dretgira administrativa.
+<sup>1</sup> Disposiziuns d'autoritads chantunalas che sa basan sin questa lescha u sin relaschs che sa basan sin quella e cunter las qualas i na po betg vegnir fatg recurs tar la Regenza tenor ina regulaziun expressiva, èn suttamessas al recurs tar la Dretgira superiura.
 
 <sup>2</sup> Disposiziuns davart il relasch u davart la prolungaziun da zonas chantunalas da planisaziun, l'approvaziun da midadas da plans tenor l'artitgel 48 alinea 3 sco er decisiuns EOZ pon vegnir contestadas er da las vischnancas.
 
@@ -1605,7 +1604,7 @@ concluda:
 
 <sup>1</sup> En l'ordinaziun relascha la regenza las disposiziuns ch'èn previsas en questa lescha. En cas da basegn po ella relaschar ulteriuras prescripziuns ch'èn necessarias per l'execuziun.
 
-<sup>2</sup> Il dretg da recurs dal chantun tenor la lescha federala davart la planisaziun dal territori[^105-1] tutga a la regenza. La dretgira administrativa dat la chaschun al departament da sa participar a proceduras concernent edifizis e stabiliments ordaifer las zonas da construcziun e concernent expropriaziuns materialas.
+<sup>2</sup> Il dretg da recurs dal chantun tenor la Lescha federala davart la planisaziun dal territori[^105-1] tutga a la Regenza. La Dretgira superiura dat la chaschun al departament da sa participar a proceduras concernent edifizis e stabiliments ordaifer las zonas da construcziun e concernent expropriaziuns materialas.
 
 [^105-1]: CS [700](https://db.clex.ch/link/Bund/700/rm)
 

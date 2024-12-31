@@ -4,13 +4,12 @@ number: "801.100"
 title: Raumplanungsgesetz für den Kanton Graubünden
 short: KRG
 language: de
-version: 2019-04-01
-corrected: 2020-04-27
-version_adopted: 2018-10-25
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2004-12-06
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/801.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2936/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3417/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2936/pdf_file"
 
 (KRG)
 
-Vom 06.12.2004 (Stand 01.04.2019)
+Vom 06.12.2004 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -1379,7 +1378,7 @@ beschliesst:
 
 <sup>3</sup> Die kommunale Baubehörde überweist Gesuche für Bauvorhaben ausserhalb der Bauzonen (BAB-Gesuch), bei denen sie die Voraussetzungen für eine Baubewilligung und eine BAB-Bewilligung als erfüllt betrachtet, mit begründetem Antrag auf Erteilung der BAB-Bewilligung der Fachstelle. Andernfalls weist sie das Gesuch von sich aus ab.
 
-<sup>4</sup> Erteilt die BAB-Behörde die BAB-Bewilligung, wird sie von der kommunalen Baubehörde zusammen mit der Baubewilligung eröffnet. In diesem Fall ist die Baubewilligung ohne Rücksicht auf allfällige kommunale Rechtsmittel direkt beim Verwaltungsgericht anfechtbar.
+<sup>4</sup> Erteilt die BAB-Behörde die BAB-Bewilligung, wird sie von der kommunalen Baubehörde zusammen mit der Baubewilligung eröffnet. In diesem Fall ist die Baubewilligung ohne Rücksicht auf allfällige kommunale Rechtsmittel direkt beim Obergericht anfechtbar.
 
 <sup>5</sup> Verweigert die BAB-Behörde die BAB-Bewilligung, eröffnet sie den ablehnenden BAB-Entscheid direkt den Gesuchstellenden, wodurch das Baugesuch als abgewiesen gilt. Für die Verfahrenskosten der Gemeinde erlässt die kommunale Baubehörde einen separaten Kostenentscheid.
 
@@ -1543,7 +1542,7 @@ beschliesst:
 
 <sup>1</sup> Die in diesem Gesetz und der darauf beruhenden Verordnung festgelegten Auflage-, Einsprache- und Beschwerdefristen für Nutzungspläne und Bauvorhaben gelten auch für gleichzeitig aufzulegende Gesuche für Zusatzbewilligungen.
 
-<sup>2</sup> Werden Zusatzbewilligungen zusammen mit Entscheiden, Beschlüssen oder Verfügungen eröffnet, die der Beschwerde an das Verwaltungsgericht unterliegen, gilt das Rechtsmittel der Beschwerde auch für eine allfällige Anfechtung der Zusatzbewilligung.
+<sup>2</sup> Werden Zusatzbewilligungen zusammen mit Entscheiden, Beschlüssen oder Verfügungen eröffnet, die der Beschwerde an das Obergericht unterliegen, gilt das Rechtsmittel der Beschwerde auch für eine allfällige Anfechtung der Zusatzbewilligung.
 
 #### Art. 101
 
@@ -1575,15 +1574,15 @@ beschliesst:
 
 **Beschwerde 1. Entscheide der Regierung**
 
-<sup>1</sup> Entscheide der Regierung über den Erlass von kantonalen Nutzungsplänen und Ersatzordnungen, über die Genehmigung von kommunalen Grundordnungen sowie über Planungsbeschwerden können mit Beschwerde an das Verwaltungsgericht weitergezogen werden.
+<sup>1</sup> Entscheide der Regierung über den Erlass von kantonalen Nutzungsplänen und Ersatzordnungen, über die Genehmigung von kommunalen Grundordnungen sowie über Planungsbeschwerden können mit Beschwerde an das Obergericht weitergezogen werden.
 
-<sup>2</sup> Entscheide der Regierung gemäss Absatz 1 sowie Entscheide über den Erlass des kantonalen Richtplans und die Genehmigung von regionalen Richtplänen können von den betroffenen Gemeinden und Regionen als Träger der Orts- beziehungsweise Regionalplanung mit Beschwerde beim Verwaltungsgericht angefochten werden.
+<sup>2</sup> Entscheide der Regierung gemäss Absatz 1 sowie Entscheide über den Erlass des kantonalen Richtplans und die Genehmigung von regionalen Richtplänen können von den betroffenen Gemeinden und Regionen als Träger der Orts- beziehungsweise Regionalplanung mit Beschwerde beim Obergericht angefochten werden.
 
 #### Art. 103
 
 **2. Verfügungen kantonaler Behörden**
 
-<sup>1</sup> Verfügungen kantonaler Behörden, die sich auf dieses Gesetz oder darauf beruhende Erlasse stützen und nicht gemäss ausdrücklicher Regelung bei der Regierung angefochten werden können, unterliegen der Beschwerde an das Verwaltungsgericht.
+<sup>1</sup> Verfügungen kantonaler Behörden, die sich auf dieses Gesetz oder darauf beruhende Erlasse stützen und nicht gemäss ausdrücklicher Regelung bei der Regierung angefochten werden können, unterliegen der Beschwerde an das Obergericht.
 
 <sup>2</sup> Verfügungen über den Erlass oder die Verlängerung kantonaler Planungszonen, die Genehmigung von Planänderungen nach Artikel 48 Absatz 3 sowie BAB-Entscheide können auch von den Gemeinden angefochten werden.
 
@@ -1605,7 +1604,7 @@ beschliesst:
 
 <sup>1</sup> Die Regierung erlässt die in diesem Gesetz vorgesehenen Bestimmungen durch Verordnung. Sie kann bei Bedarf weitere zum Vollzug erforderliche Vorschriften erlassen.
 
-<sup>2</sup> Das Beschwerderecht des Kantons gemäss Bundesgesetz über die Raumplanung[^105-1] steht der Regierung zu. Das Verwaltungsgericht gibt dem Departement Gelegenheit, sich an Verfahren betreffend Bauten und Anlagen ausserhalb der Bauzonen und materielle Enteignung zu beteiligen.
+<sup>2</sup> Das Beschwerderecht des Kantons gemäss Bundesgesetz über die Raumplanung[^105-1] steht der Regierung zu. Das Obergericht gibt dem Departement Gelegenheit, sich an Verfahren betreffend Bauten und Anlagen ausserhalb der Bauzonen und materielle Enteignung zu beteiligen.
 
 [^105-1]: SR [700](https://db.clex.ch/link/Bund/700/de)
 

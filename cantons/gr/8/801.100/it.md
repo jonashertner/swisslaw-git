@@ -4,13 +4,12 @@ number: "801.100"
 title: Legge sulla pianificazione territoriale del Cantone dei Grigioni
 short: LPTC
 language: it
-version: 2019-04-01
-corrected: 2020-04-27
-version_adopted: 2018-10-25
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2004-12-06
 in_force: 2005-11-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/801.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2936/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3417/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2936/pdf_file"
 
 (LPTC)
 
-del 06.12.2004 (stato 01.04.2019)
+del 06.12.2004 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -1379,7 +1378,7 @@ decide:
 
 <sup>3</sup> L'autorità edilizia comunale trasmette al Servizio, con una domanda motivata di rilascio del permesso EFZ, le domande per progetti di costruzione al di fuori delle zone edificabili (domanda EFZ), per i quali ritiene soddisfatti i presupposti per una licenza edilizia ed un permesso EFZ. Altrimenti respinge la domanda.
 
-<sup>4</sup> Se l'autorità EFZ rilascia il permesso EFZ, ciò viene comunicato dall'autorità edilizia comunale contemporaneamente al rilascio della licenza edilizia. In tal caso la licenza edilizia può essere impugnata direttamente al Tribunale amministrativo a prescindere da eventuali rimedi giuridici comunali.
+<sup>4</sup> Se l'autorità EFZ rilascia il permesso EFZ, ciò viene comunicato dall'autorità edilizia comunale contemporaneamente al rilascio della licenza edilizia. In tal caso la licenza edilizia può essere impugnata direttamente al Tribunale d'appello a prescindere da eventuali rimedi giuridici comunali.
 
 <sup>5</sup> Se l'autorità EFZ rifiuta il permesso EFZ, comunica la decisione negativa EFZ direttamente agli istanti, con ciò la domanda di costruzione viene considerata respinta. L'autorità edilizia comunale rilascia un decreto sulle spese separato, per quanto attiene alle spese di procedura del comune.
 
@@ -1465,7 +1464,7 @@ decide:
 
 **Multa**
 
-<sup>1</sup> Chi viola la presente legge oppure decreti o decisioni del Cantone basati su di essa, viene punito con una multa da 200 a 40 000 franchi. Nei casi particolarmente gravi, in particolare se l'infrazione avviene a scopo di lucro, l'autorità competente non è vincolata ad attenersi a questo limite massimo. I guadagni illeciti vengono confiscati secondo le disposizioni del Codice penale svizzero[^95-1].
+<sup>1</sup> Chi viola la presente legge oppure decreti o decisioni basati su di essa emanati dal Cantone o dai comuni viene punito con una multa da 200 a 40 000 franchi. Nei casi particolarmente gravi, in particolare se l'infrazione avviene a scopo di lucro, l'autorità competente non è vincolata ad attenersi a questo limite massimo. I guadagni illeciti vengono confiscati secondo le disposizioni del Codice penale svizzero[^95-1].
 
 <sup>2</sup> È punibile l'infrazione intenzionale o dovuta a negligenza, commessa dalle persone competenti ai sensi dell'articolo 93. Al posto di una persona giuridica, di una società in nome collettivo o in accomandita, di una società unipersonale o di una comunità di persone senza personalità giuridica, sono punibili le persone fisiche che hanno agito o avrebbero dovuto agire al loro posto. La persona giuridica, la società o la comunità di persone rispondono per multe e spese secondo la responsabilità solidale.
 
@@ -1543,7 +1542,7 @@ decide:
 
 <sup>1</sup> I periodi d'esposizione, d'opposizione e di ricorso stabiliti in questa legge e nella relativa ordinanza per piani di utilizzazione e progetti di costruzione valgono anche per domande per autorizzazioni supplementari che vanno esposte contemporaneamente.
 
-<sup>2</sup> Se autorizzazioni supplementari vengono rese pubbliche insieme a decisioni, decreti o risoluzioni che sono sottoposte a ricorso presso il Tribunale amministrativo, il rimedio legale del ricorso vale anche per un'eventuale impugnazione dell'autorizzazione supplementare.
+<sup>2</sup> Se autorizzazioni supplementari vengono rese pubbliche insieme a decisioni, decreti o risoluzioni che sono soggetti a ricorso presso il Tribunale d'appello, il rimedio legale del ricorso vale anche per un'eventuale impugnazione dell'autorizzazione supplementare.
 
 #### Art. 101
 
@@ -1575,15 +1574,15 @@ decide:
 
 **Ricorso 1. Decisioni del Governo**
 
-<sup>1</sup> Decisioni del Governo sull'emanazione di piani delle utilizzazioni cantonali e di ordinamenti sostitutivi, sull'approvazione di ordinamenti base comunali, nonché su ricorsi di pianificazione territoriale possono essere impugnate con ricorso al Tribunale amministrativo.
+<sup>1</sup> Decisioni del Governo sull'emanazione di piani delle utilizzazioni cantonali e di ordinamenti sostitutivi, sull'approvazione di ordinamenti base comunali, nonché su ricorsi di pianificazione territoriale possono essere impugnate con ricorso al Tribunale d'appello.
 
-<sup>2</sup> Decisioni del Governo ai sensi del capoverso 1, nonché decisioni sull'emanazione del piano direttore cantonale e sull'approvazione di piani direttori regionali possono essere impugnate dai comuni e dalle regioni interessati, quali responsabili della pianificazione locale rispettivamente regionale, con ricorso presso il Tribunale amministrativo.
+<sup>2</sup> Decisioni del Governo ai sensi del capoverso 1, nonché decisioni sull'emanazione del piano direttore cantonale e sull'approvazione di piani direttori regionali possono essere impugnate dai comuni e dalle regioni interessati, quali responsabili della pianificazione locale rispettivamente regionale, con ricorso presso il Tribunale d'appello.
 
 #### Art. 103
 
 **2. Decisioni di autorità cantonali**
 
-<sup>1</sup> Decisioni di autorità cantonali che si basano sulla presente legge o su atti normativi fondati su quest'ultima e che secondo esplicita regolamentazione non possono essere impugnate presso il Governo, sono soggette a ricorso presso il Tribunale amministrativo.
+<sup>1</sup> Decisioni di autorità cantonali che si basano sulla presente legge o su atti normativi fondati su quest'ultima e che secondo esplicita regolamentazione non possono essere impugnate presso il Governo, sono soggette a ricorso presso il Tribunale d'appello.
 
 <sup>2</sup> Decisioni sull'emanazione o sulla proroga di zone di pianificazione cantonali, sull'approvazione di modifiche di piani secondo l'articolo 48 capoverso 3, nonché decisioni EFZ possono essere impugnate anche da parte dei comuni.
 
@@ -1605,7 +1604,7 @@ decide:
 
 <sup>1</sup> Il Governo emana tramite ordinanza le disposizioni previste nella presente legge. Se necessario può anche emanare altre prescrizioni necessarie all'esecuzione.
 
-<sup>2</sup> Il diritto di ricorso del Cantone ai sensi della legge federale sulla pianificazione territoriale[^105-1] compete al Governo. Il Tribunale amministrativo offre al Dipartimento la possibilità di partecipare alla procedura per quanto riguarda edifici ed impianti al di fuori delle zone edificabili e l'espropriazione materiale.
+<sup>2</sup> Il diritto di ricorso del Cantone ai sensi della legge federale sulla pianificazione territoriale[^105-1] compete al Governo. Il Tribunale d'appello offre al Dipartimento la possibilità di partecipare alla procedura per quanto riguarda edifici ed impianti al di fuori delle zone edificabili e l'espropriazione materiale.
 
 [^105-1]: RS [700](https://db.clex.ch/link/Bund/700/it)
 
