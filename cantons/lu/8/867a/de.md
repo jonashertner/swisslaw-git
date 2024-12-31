@@ -4,13 +4,13 @@ number: 867a
 title: Verordnung zum Betreuungs- und Pflegegesetz
 short: BPV
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-06-04
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-29
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/867a"
-pdf: "https://srl.lu.ch/api/de/versions/4214/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4679/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4214/pdf_file"
 
 (BPV)
 
-vom 30.11.2010 (Stand 01.07.2024)
+vom 30.11.2010 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -321,7 +321,7 @@ beschliesst:
 
 <sup>2</sup> Bei einem positiven Saldo erhalten die Leistungserbringer von der Dienststelle Soziales und Gesellschaft einen Ausbildungsbeitrag in der Höhe des Positivsaldos. Reichen die gesamthaft eingezogenen Ausbildungsbeiträge zur vollständigen Deckung aller Positivsaldi nicht aus, werden die verfügbaren Mittel anteilmässig im Verhältnis des Grades der Übererfüllung an die Leistungserbringer verteilt.
 
-<sup>3</sup> Nicht verteilte Beiträge sind auf das folgende Jahr zu übertragen.
+<sup>3</sup> Nicht verteilte Beiträge sind im Umfang von 20 Prozent auf das folgende Jahr zu übertragen. Der Restbetrag ist den Verbänden Curaviva Luzern, Spitex Kantonalverband Luzern (SKL) und Association Spitex privée Suisse anteilmässig im Verhältnis zu den Ausbildungsbeiträgen ihrer Mitglieder auszuzahlen und von ihnen zur Förderung der Ausbildung zu verwenden. Über die Verwendung der Mittel haben die Verbände jährlich zuhanden der Dienststelle Soziales und Gesellschaft Bericht zu erstatten.
 
 <sup>4</sup> Die Dienststelle Soziales und Gesellschaft kann einem Leistungserbringer die geschuldete Ausgleichszahlung nach Absatz 1 in begründeten Fällen ganz oder teilweise erlassen.
 
@@ -391,7 +391,7 @@ beschliesst:
 
 **Übergangsbestimmung der Änderung vom 12. Dezember 2023**
 
-<sup>1</sup> Für die Tertiärstufe ist im Erhebungsjahr 2025 ein Erfüllungsgrad von 75 Prozent des Soll-Wertes massgebend.
+<sup>1</sup> Im Erhebungsjahr 2025 ist für die Leistungserbringer der Krankenpflege im Pflegeheim für alle Ausbildungsniveaus und für die Leistungserbringer der ambulanten Krankenpflege für die Tertiärstufe ein Erfüllungsgrad von 75 Prozent der Soll-Werte massgebend.
 
 #### § 10
 
