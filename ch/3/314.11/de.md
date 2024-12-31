@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2024-12-09
+version: 2025-01-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20241209/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20241209-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20241209/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20241209/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 9. Dezember 2024)
+vom 16. Januar 2019 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -84,7 +84,7 @@ Anhang 1[^t-1]
 
 ## Bussenliste 1
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) und vom 17. Dez. 2021, in Kraft seit 1. April 2024 ([AS 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)), vom 17. Dez. 2021 ([AS 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)) und vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 606](https://fedlex.data.admin.ch/eli/oc/2024/606)).
 
 ### Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 
@@ -395,8 +395,8 @@ Anhang 1[^t-1]
 <tr><td>2. Nebelschlusslichtern</td><td colspan="3">40</td></tr>
 <tr><td>3. Suchlampen</td><td colspan="3">40</td></tr>
 <tr><td>4. Arbeitslichtern</td><td colspan="3">40</td></tr>
-<tr><td>326. 1. Unnötiges Vorwärmen des Motors eines stillstehenden Fahrzeugs (Art. 33 Bst. a VRV)</td><td colspan="3">60</td></tr>
-<tr><td>2. Unnötiges Laufen lassen des Motors eines stillstehenden Fahrzeugs (Art. 33 Bst. a VRV)</td><td colspan="3">60</td></tr>
+<tr><td>326. 1. Unnötiges Vorwärmen des Motors eines stillstehenden Fahrzeugs (Art. 33 Bst. a VRV)</td><td colspan="3">80</td></tr>
+<tr><td>2. Unnötiges Laufenlassen des Motors eines stillstehenden Fahrzeugs (Art. 33 Bst. a VRV)</td><td colspan="3">80</td></tr>
 <tr><td>327. 1. Benützen einer Autobahn oder Autostrasse mit einem Motorrad mit einem Hubraum bis 50 cm<sup>3</sup> oder mit einer Leistung bis 4 kW (Art. 35 Abs. 2 VRV)</td><td colspan="2">100</td></tr>
 <tr><td>2. Benützen einer Autobahn oder Autostrasse mit einem andern darauf nicht zugelassenen Motorfahrzeug (Art. 35 Abs. 1, 2 und 4 VRV)</td><td colspan="3">140</td></tr>
 <tr><td>3. Benützen einer Autobahn oder Autostrasse mit Spikesreifen (Art. 35 Abs. 2 VRV)</td><td colspan="3">60</td></tr>
@@ -527,7 +527,7 @@ Anhang 1[^t-1]
 <tr><td>621. Nichtbenützen (Art. 46 Abs. 1 SVG)</td><td colspan="3"></td></tr>
 <tr><td>1. des Radweges</td><td colspan="3">30</td></tr>
 <tr><td>2. des Radstreifens</td><td colspan="3">30</td></tr>
-<tr><td>622. Abstellen eines Fahrrades, Motorfahrrades oder einer Elektro-Rikscha, wo das Halten oder das Parkieren verboten ist aufgrund</td><td colspan="3"></td></tr>
+<tr><td>622. Abstellen eines Fahrrades, Motorfahrrades oder einer Elektro- Rikscha, wo das Halten oder das Parkieren verboten ist aufgrund</td><td colspan="3"></td></tr>
 <tr><td>1. allgemeiner Verkehrsregeln (Art. 37 Abs. 2 SVG; Art. 18 Abs. 2 Bst. a–f und Abs. 3, 19 Abs. 2, 25 Abs. 5 und 41 Abs. 1 VRV)</td><td colspan="3">20</td></tr>
 <tr><td>2. von Signalen (Art. 19 Abs. 2 Bst. a VRV und Art. 30 SSV)</td><td colspan="3">20</td></tr>
 <tr><td>3. von Markierungen (Art. 18 Abs. 3, 19 Abs. 2 Bst. a und d sowie 41 Abs. 3 VRV; Art. 34 Abs. 1, 78, 79 Abs. 3–5 und 79*a* SSV)</td><td colspan="3">20</td></tr>
@@ -603,159 +603,163 @@ Anhang 2[^t-2]
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), Ziff. II 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)) und der Berichtigung vom 9. Dez. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang Ziff. 1 der Nationalstrassenabgabeverordnung vom 16. Juni 2023 ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), Ziff. II 1 der V vom 29. Nov. 2023 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), der Berichtigung vom 9. Dez. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)) und Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)).
 
 ### Übertretungen nach den übrigen Erlassen
 
 <table>
-<tr><th></th><th>Fr.</th></tr>
-<tr><td>I. Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^annex2-lvlu1-lvlu1-1] (AIG)</td><td></td></tr>
-<tr><td>1001. Missachtung der Mitwirkungspflicht bei der Beschaffung der Ausweispapiere (Art. 120 Abs. 1 Bst. e AIG)</td><td>[tab] 100</td></tr>
-<tr><td>II. Asylgesetz vom 26. Juni 1998[^annex2-lvlu1-lvlu1-2] (AsylG)</td><td></td></tr>
-<tr><td>2001. Verletzung der Auskunftspflicht durch Verweigerung von Angaben (Art. 116 Bst. a AsylG)</td><td>[tab] 200</td></tr>
-<tr><td>III. Bundesgesetz vom 19. Dezember 1986[^annex2-lvlu1-lvlu1-3] gegen den unlauteren Wettbewerb (UWG)</td><td></td></tr>
-<tr><td>3001. Verletzung der Pflicht zur Preisbekanntgabe oder zur Grundpreisbekanntgabe (Art. 24 Abs. 1 Bst. a und Abs. 2 UWG)</td><td>[tab] 200</td></tr>
-<tr><td>IV. Bundesgesetz vom 1. Juli 1966[^annex2-lvlu1-lvlu1-4] über den Natur- und Heimatschutz (NHG)</td><td></td></tr>
-<tr><td>4001. Unberechtigtes Pflücken, Ausgraben, Ausreissen, Wegführen, Anbieten, Verkaufen, Kaufen oder Vernichten von nicht mehr als fünf Stück wildlebender Pflanzen der in Anhang 2 zur NHV[^annex2-lvlu1-lvlu1-5] aufgeführten Arten (Art. 24*a* Abs. 1 Bst. b NHG, Art. 20 Abs. 1 und 5 NHV)</td><td>[tab] 100</td></tr>
-<tr><td>V. Waffengesetz vom 20. Juni 1997[^annex2-lvlu1-lvlu1-6] (WG)</td><td></td></tr>
-<tr><td>5001. Nichtmitführen der Waffentragbewilligung (Art. 34 Abs. 1 Bst. h WG)</td><td>[tab] 20</td></tr>
-<tr><td>5002. Transportieren von Feuerwaffen, ohne Waffe und Munition zu trennen (Art. 34 Abs. 1 Bst. n WG)</td><td>[tab] 300</td></tr>
-<tr><td>VI. Nationalstrassenabgabegesetz vom 19. März 2010[^annex2-lvlu1-lvlu1-7] (NSAG)</td><td></td></tr>
-<tr><td>6001. Benützung einer Nationalstrasse erster oder zweiter Klasse ohne die für die Abgabeperiode erforderliche Vignette (Art. 14 Abs. 1 i. V. m. Art. 6*a*–7*a* und 8 NSAG).</td><td>200</td></tr>
-<tr><td>6002. Benützung einer Nationalstrasse erster oder zweiten Klasse mit einer für die Abgabeperiode erforderlichen Klebevignette, die nicht oder nicht an der vorgeschriebenen Stelle direkt am Fahrzeug aufgeklebt ist oder die beschädigt ist (Art. 14 Abs. 1 i. V. m. Art. 6*a*, 7 und 8 NSAG).</td><td>200</td></tr>
-<tr><td>VII. Bundesgesetz vom 3. Oktober 1975[^annex2-lvlu1-lvlu1-8] über die Binnenschifffahrt (BSG)</td><td></td></tr>
-<tr><td>**1.** **Administrative Bestimmungen**</td><td>[tab]</td></tr>
-<tr><td>7100. Nichtmitführen der erforderlichen Ausweise oder Urkunden (Art. 45 und 46 BSG, Art. 8 BSV[^annex2-lvlu1-lvlu1-9], Art. 1.06 BSO[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>
-<tr><td>1. Nichtmitführen des erforderlichen Führerausweises oder Schifferpatentes (Art. 45 BSG, Art. 8 BSV, Art. 1.06 BSO)</td><td>20</td></tr>
-<tr><td>2. Nichtmitführen des Schiffsausweises oder der Zulassungsurkunde (Art. 46 BSG, Art. 8 BSV, Art. 1.06 BSO)</td><td>20</td></tr>
-<tr><td>3. Nichtmitführen des Abgaswartungsdokuments (Art. 48 BSG, Art. 14 Abs. 3 AB-VASm[^annex2-lvlu1-lvlu1-11])</td><td>20</td></tr>
-<tr><td>7101. 1. Nicht rechtzeitiges Melden von Tatsachen, die eine Änderung, Ergänzung, den Ersatz oder die Neuerteilung eines Ausweises oder der Zulassungsurkunde erfordern (Art. 48 BSG, Art. 85 Abs. 2 und 98 Abs. 2 BSV, Art. 14.07 BSO)</td><td>[tab] 20</td></tr>
-<tr><td>2. Nicht rechtzeitiges Melden eines Wohnsitzwechsels am neuen schweizerischen Wohnsitz (Art. 48 BSG, Art. 84 Abs. 3 BSV, Art. 12.07 BSO)</td><td>20</td></tr>
-<tr><td>7102. Führen oder Überlassen eines kennzeichnungspflichtigen, nicht-versicherungspflichtigen Schiffes ohne Schiffsausweis oder Zulassungsurkunde, ohne Kennzeichen oder mit falschem Kennzeichen (Art. 48 und 46 BSG, Art. 16 Abs. 1, 92 und 157 BSV, Art. 2.01 und 14.01 Abs. 1 und 4 BSO)</td><td>[tab] 100</td></tr>
-<tr><td>7103. Nichtanbringen oder nicht vorschriftsgemässes Anbringen der Kennzeichen (Art. 48 BSG, Art. 16 Abs. 1 und 17 BSV, Art. 2.01 und 2.02 BSO)</td><td>[tab] 40</td></tr>
-<tr><td>7104. Nichtbeschriften oder nicht vorschriftsgemässes Beschriften von Schiffen, die kürzer sind als 2.50 m, von Strandbooten und dergleichen, von Paddelbooten, Rennruderbooten, Segelbrettern und Drachensegelbrettern und weiteren von der Kennzeichnungspflicht ausgenommenen Booten (Art. 48 BSG, Art. 16 Abs. 3 und 163 Abs. 3 BSV; Art. 2.01 Abs. 1 BSO)</td><td>[tab] 40</td></tr>
-<tr><td>7105. Einsetzen oder Stationieren eines Schiffs mit ausländischem Standort ohne eine Bewilligung (Art. 46 BSG, Art. 105 BSV)</td><td>[tab] 50</td></tr>
-<tr><td>7106. Überschreiten der Frist für die obligatorische Abgasnachuntersuchung oder die periodische Kontrolle des Partikelfilter-Systems um mehr als 3, aber nicht mehr als 6 Monate (Art. 48 BSG, Art. 17 Bst. a Ziff. 4 VASm[^annex2-lvlu1-lvlu1-12], Art. 8 Abs. 2 AB-VASm)</td><td>[tab] 100</td></tr>
-<tr><td>2. Regeln für das Stillliegen</td><td></td></tr>
-<tr><td>7200. Stillliegen</td><td></td></tr>
-<tr><td>1. im Bereich von Wasserpflanzen wie Schilf, Binsen oder Seerosen (Art. 48 BSG, Art. 59 Abs. 1 BSV)</td><td>100</td></tr>
-<tr><td>2. in Fahrwasserengen , in den Fahrrinnen und im Bereich von Brücken (Art. 48 BSG, Art. 70 BSV, Art. 10.12 BSO)</td><td>100</td></tr>
-<tr><td>7201. Festmachen an Schifffahrtszeichen (Art. 40 Abs. 1 BSG i. V. m. Art. 9 Abs. 1 BSV oder Art. 1.08 Abs. 1 BSO)</td><td>50</td></tr>
-<tr><td>7202. Nichtbeachten der Verbotszeichen A7 bis A9 nach Anhang 4 BSV oder A.4 bis A.6 nach Anlage B BSO (Art. 40 Abs. 1 BSG, Art. 36 Abs. 1 BSV, Art. 5.01 Abs. 1 BSO)</td><td>50</td></tr>
-<tr><td>7203. Überschreiten der signalisierten Stillliegezeit (Art. 40 Abs. 1 BSG i. V. m. Art. 36 Abs. 1 BSV oder Art. 5.01 Abs. 1 BSO)</td><td></td></tr>
-<tr><td>1. bis 2 Stunden</td><td>40</td></tr>
-<tr><td>2. um mehr als 2, aber nicht mehr als 4 Stunden</td><td>60</td></tr>
-<tr><td>3. um mehr als 4, aber nicht mehr als 10 Stunden</td><td>100</td></tr>
-<tr><td>7204. Stillliegen eines Schiffes ausserhalb eines bewilligten Liegeplatzes während 24 bis 48 Stunden, ohne dass sich jemand an Bord befindet (Art. 40 Abs. 1 BSG, Art. 59 Abs. 4 BSV)</td><td>100</td></tr>
-<tr><td>7205. Unerlaubtes Stillliegen eines Schiffes ausserhalb von Häfen, Landestellen oder anderer für die Schifffahrt zugelassener Anlagen während 24 bis 48 Stunden (Art. 40 Abs. 1 BSG, Art. 7.01 Abs. 1 BSO)</td><td>100</td></tr>
-<tr><td>3. Sichtzeichen</td><td></td></tr>
-<tr><td>7300. Nichtführen der vorgeschriebenen Sichtzeichen oder Führen verbotener Sichtzeichen beim Stillliegen (Art. 40 Abs. 1 BSG, Art. 18, 21 Abs. 1, 26, 28, 29 und 71 BSV oder Art. 3.03 und 3.08 BSO)</td><td>100</td></tr>
-<tr><td>7301. Berufsfischerei</td><td></td></tr>
-<tr><td>1. Nichtführen des gelben Balles oder Lichtes beim Setzen und Einholen der Netze (Art. 40 Abs. 1 BSG, Art. 31 Abs. 1 BSV)</td><td>50</td></tr>
-<tr><td>2. Führen des gelben Balles oder Lichtes ausserhalb des Setzens und Einholens der Netze (Art. 40 Abs. 1 BSG, Art. 21 und 31 Abs. 1 BSV)</td><td>50</td></tr>
-<tr><td>3. Führen des weissen Balles ausserhalb des Fanges (Art. 40 Abs. 1 BSG, Art. 3.03 Abs. 1 und 3.10 Abs. 1 BSO)</td><td>50</td></tr>
-<tr><td>7302. Schleppangelfischerei</td><td></td></tr>
-<tr><td>1. Nichtführen des weissen Balles beim Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 31 Abs. 2 BSV)</td><td>50</td></tr>
-<tr><td>2. Nichtführen der weissen Flagge beim Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 3.10 Abs. 2 BSO)</td><td>50</td></tr>
-<tr><td>3. Führen des weissen Balles ohne Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 21 und 31 Abs. 2 BSV)</td><td>50</td></tr>
-<tr><td>4. Führen der weissen Flagge ohne Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 3.03 Abs. 1 und 3.10 Abs. 2 BSO)</td><td>50</td></tr>
-<tr><td>7303. Nichtanbringen des vorgeschriebenen Zeichens (Bst. «A» der Internationalen Flaggenordnung) beim Tauchen oder unwirksames Anleuchten des Zeichens bei Nacht (Art. 40 Abs. 1 BSG, Art. 32 BSV, Art. 3.13 BSO)</td><td>50</td></tr>
-<tr><td>4. Regeln für die Fahrt</td><td></td></tr>
-<tr><td>7401. Nichteinhalten des Sicherheitsabstandes gegenüber Vorrangschiffen und Schiffen von Berufsfischern, welche die vorgeschriebenen Zeichen führen (Art. 40 Abs. 1 BSG, Art. 48 BSV, Art. 6.06 BSO)</td><td>50</td></tr>
-<tr><td>7402. Fahren in der Uferzone</td><td></td></tr>
-<tr><td>1. Verbotene Längsfahrt mit Motorschiff innerhalb der inneren Uferzone oder innerhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 53 Abs. 1 Bst. a BSV, Art. 6.11 Abs. 1 BSO)</td><td>100</td></tr>
-<tr><td>2. Verbotene Längsfahrt mit einem Schiff mit Maschinenantrieb innerhalb Uferzone, aber ausserhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 6.11 Abs. 1 BSO)</td><td>50</td></tr>
-<tr><td>3. Überschreiten der erlaubten Geschwindigkeit in der inneren Uferzone oder innerhalb eines Uferabstandes von 150 m um nicht mehr als 15 km/h (Art. 40 Abs. 1 BSG, Art. 53 Abs. 1 Bst. b BSV, Art. 6.11 Abs. 1 BSO)</td><td>150</td></tr>
-<tr><td>4. Überschreiten der erlaubten Geschwindigkeit in der äusseren Uferzone um nicht mehr als 15 km/h (Art. 40 Abs. 1 BSG, Art. 53 Abs. 1 Bst. b BSV)</td><td>100</td></tr>
-<tr><td>5. Überschreiten der erlaubten Geschwindigkeit innerhalb der Uferzone, aber ausserhalb eines Uferabstandes von 150 m um nicht mehr als 15 km/h (Art. 40 Abs. 1 BSG, Art. 6.11 Abs. 1 BSO)</td><td>100</td></tr>
-<tr><td>6. Unberechtigtes Befahren oder Sich-Aufhalten im Hafenbereich (Art. 40 Abs. 1 BSG, Art. 52 Abs. 2 BSV, Art. 6.10 Abs. 3 BSO)</td><td>100</td></tr>
-<tr><td>7. Nichteinhalten des Mindestabstandes zu Beständen von Wasserpflanzen wie Schilf, Binsen und Seerosen (Art. 40 Abs. 1 BSG, Art. 53 Abs. 3 BSV)</td><td>100</td></tr>
-<tr><td>7403. Befahren einer für die Schifffahrt gesperrten Wasserfläche</td><td></td></tr>
-<tr><td>1. mit Segel- oder Motorschiffen, Segelbrettern oder Drachensegelbrettern (Art. 40 Abs. 1 BSG, Art. 37 Abs. 1 BSV, Art. 5.01 Abs. 1 und Anlage B BSO)</td><td>100</td></tr>
-<tr><td>2. mit Ruderbooten, Schlauchbooten, Paddelbooten oder Strandbooten (Art. 40 Abs. 1 BSG, Art. 37 Abs. 1 BSV, Art. 5.01 Abs. 1 und Anlage B BSO)</td><td>50</td></tr>
-<tr><td>7404. Unerlaubtes Befahren einer für bestimmte Schiffsarten gesperrten Wasserfläche</td><td></td></tr>
-<tr><td>1. mit Segel- oder Motorschiffen, Segelbrettern oder Drachensegelbrettern (Art. 40 Abs. 1 BSG, Art. 37 Abs. 2 BSV, Art. 5.01 Abs. 1, Anlage B und Art. 16.02 Abs. 5 BSO)</td><td>100</td></tr>
-<tr><td>2. mit Ruderbooten, Schlauchbooten, Paddelbooten oder Strandbooten (Art. 40 Abs. 1 BSG, Art. 37 Abs. 2 BSV, Art. 5.01 Abs. 1, Anlage B und Art. 16.02 Abs. 5 BSO)</td><td>50</td></tr>
-<tr><td>7405. Verkehren mit Schiffen, die kürzer sind als 2,50 m, Strandbooten und dergleichen oder anderen von der Kennzeichnungspflicht ausgenommenen Schiffen ausserhalb der inneren Uferzone oder im Abstand von mehr als 150 m um sie begleitende Schiffe herum (Art. 40 Abs. 1 BSG i. V. m. Art. 42 BSV)</td><td>50</td></tr>
-<tr><td>7406. Fahren mit Wasserski oder ähnlichen Geräten</td><td></td></tr>
-<tr><td>1. zu verbotener Zeit (Art. 40 Abs. 1 BSG, Art. 54 Abs. 1 BSV, Art. 6.15 Abs. 1 BSO)</td><td>100</td></tr>
-<tr><td>2. innerhalb der äusseren Uferzone (Art. 40 Abs. 1 BSG, Art. 54 Abs. 2 BSV)</td><td>100</td></tr>
-<tr><td>3. innerhalb der Uferzone, aber ausserhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 6.15 Abs. 2 BSO)</td><td>100</td></tr>
-<tr><td>4. gleichzeitiges Schleppen von mehr als zwei Wasserskifahrern oder Geräten (Art. 40 Abs. 1 BSG, Art. 54 Abs. 5 BSV, Art. 6.15 Abs. 5 BSO)</td><td>100</td></tr>
-<tr><td>5. Nachziehen der leeren Schleppleine oder Benützen einer elastischen Leine (Art. 40 Abs. 1 BSG, Art. 54 Abs. 4 BSV, Art. 6.15 Abs. 4 BSO)</td><td>60</td></tr>
-<tr><td>6. Unerlaubtes Fahren mit Aqua-Scootern, Jet-Bikes und ähnlichen Schwimmkörpern (Art. 40 Abs. 1 BSG, kantonale Vorschriften oder Art. 6.15 Abs. 7 BSO)</td><td>100</td></tr>
-<tr><td>7407. Nichtmitführen der vorgeschriebenen Ausrüstungsgegenstände und Rettungsgeräte oder Mitführen solcher Gegenstände und Geräte in nicht gebrauchsfähigem Zustand (Art. 48 BSG, Art. 131 Abs. 2, 134 Abs. 4 und 134*a* BSV, Art. 13.19 und 13.20 BSO)</td><td></td></tr>
-<tr><td>1. je Ausrüstungsgegenstand</td><td>[tab] 20</td></tr>
-<tr><td>2. je Rettungsgerät</td><td>[tab] 50</td></tr>
-<tr><td>7408. Mitführen von einer in Bezug auf die im Schiffsausweis eingetragene Anzahl überzähligen Person (Art. 46 BSG, Art. 7 Abs. 1 und 3 BSV, Art. 1.05 Abs. 3 BSO)</td><td>60</td></tr>
-<tr><td>7409. Nichtbeachten der Verbotszeichen A1 bis A6 und A10 bis A13 nach Anhang 4 BSV oder A.1 bis A.3 und A.7 bis A.12 nach Anlage B BSO (Art. 40 Abs. 1 BSG, Art. 36 Abs. 1 BSV, Art. 5.01 Abs. 1 BSO)</td><td>100</td></tr>
-<tr><td>7410. Überschreiten der signalisierten Höchstgeschwindigkeit oder der allgemeinen Höchstgeschwindigkeit auf dem Bodensee um nicht mehr als 15 km/h (Art. 40 Abs. 1 BSG, Art. 36 Abs. 1 BSV, Art. 5.01 und 6.02 BSO)</td><td>100</td></tr>
-<tr><td>7411. Überschreiten einer kantonalen allgemeinen Höchstgeschwindigkeit um nicht mehr als 15 km/h (Art. 3 Abs. 2 und 40 BSG)</td><td>100</td></tr>
-<tr><td>5. Baden und Tauchen</td><td></td></tr>
-<tr><td>7501. Baden</td><td></td></tr>
-<tr><td>1. ausserhalb behördlich bewilligter und als solche gekennzeichneter Wasserflächen oder ausserhalb öffentlicher Badeplätze im Umkreis von 100 m um Hafeneinfahrten und Landestellen der Fahrgastschiffe (Art. 40 Abs. 1 BSG, Art. 77 Abs. 1 BSV, Art. 11.04 Abs. 1 BSO)</td><td>50</td></tr>
-<tr><td>2. ausserhalb behördlich bewilligter und als solche gekennzeichneter Wasserflächen oder ausserhalb öffentlicher Badeplätze im Umkreis von 100 m um sonstige Hafeneinfahrten, wenn dadurch die Schifffahrt beeinträchtigt oder behindert wird (Art. 40 Abs. 1 BSG, Art. 77 Abs. 1 BSV, Art. 11.04 Abs. 1 BSO)</td><td>50</td></tr>
-<tr><td>7502. Unbefugtes Heranschwimmen an Schiffe in Fahrt (Art. 40 Abs. 1 BSG, Art. 77 Abs. 2 BSV, Art. 11.04 Abs. 3 BSO)</td><td>50</td></tr>
-<tr><td>7503. Sporttauchen auf den Fahrlinien der Kursschiffe, in engem Fahrwasser, bei Hafeneinfahrten, in der Nähe von behördlich zugelassenen Liegeplätzen oder im Umkreis von 100 m um behördlich bewilligte Landestellen der Kursschiffe (Art. 40 Abs. 1 BSG i. V. m. Art. 77 Abs. 3 BSV)</td><td>100</td></tr>
-<tr><td>7504. Tauchen in markierten Fahrwassern (Art. 40 Abs. 1 BSG, Art. 11.04 Abs. 2 BSO)</td><td>100</td></tr>
-<tr><td>7505. Nichtbeachten des Verbotszeichens A14 nach Anhang 4 BSV (Art. 40 Abs. 1 BSG i. V. m. Art. 36 Abs. 1 BSV)</td><td>50</td></tr>
-<tr><td>7506. Unberechtigtes Verwenden eines Tauchscooters (Art. 40 Abs. 1 BSG, Art. 54*a* Abs. 1 und 2 BSV)</td><td>100</td></tr>
-<tr><td>VIII. Betäubungsmittelgesetz vom 3. Oktober 1951[^annex2-lvlu1-lvlu1-13] (BetmG)</td><td></td></tr>
-<tr><td>8001. Unbefugter vorsätzlicher Konsum von Betäubungsmitteln des Wirkungstyps Cannabis (Art. 19*a* Ziff. 1 BetmG)</td><td>[tab] 100</td></tr>
-<tr><td>IX. Umweltschutzgesetz vom 7. Oktober 1983[^annex2-lvlu1-lvlu1-14] (USG)</td><td></td></tr>
-<tr><td>9001. Benutzen einer öffentlichen Wertstoffsammelstelle ausserhalb der vorgeschriebenen Betriebszeiten (Art. 61 Abs. 1 Bst. a, Art. 12 Abs. 1 Bst. c USG)</td><td>[tab] 50</td></tr>
-<tr><td>9002. Nichtmitführen des Begleitscheins beim Transport von Abfällen (Art. 61 Abs. 1 Bst. k USG, Art. 31 Abs. 4<sup>bis</sup> und 6 VeVA[^annex2-lvlu1-lvlu1-15])</td><td>[tab] 100</td></tr>
-<tr><td>X. Bundesgesetz vom 3. Oktober 2008[^annex2-lvlu1-lvlu1-16] zum Schutz vor Passivrauchen</td><td></td></tr>
-<tr><td>10001. Rauchen in geschlossenen, öffentlich zugänglichen Räumen (Art. 2 Abs. 1, Art. 5 Abs. 1 Bst. a des Bundesgesetzes zum Schutz vor Passivrauchen)</td><td>[tab] 80</td></tr>
-<tr><td>XI. Waldgesetz vom 4. Oktober 1991[^annex2-lvlu1-lvlu1-17] (WaG)</td><td></td></tr>
-<tr><td>11001. Missachtung von Zugänglichkeitsbeschränkungen in bestimmten Waldgebieten (Art. 14 Abs. 2 Bst. a und 43 Abs. 1 Bst. c WaG)</td><td>[tab] 100</td></tr>
-<tr><td>11002. Unberechtigtes Befahren von Wald oder Waldstrassen mit Motorfahrzeugen (Art. 15 und 43 Abs. 1 Bst. d WaG)</td><td>[tab] 100</td></tr>
-<tr><td>XII. Jagdgesetz vom 20. Juni 1986[^annex2-lvlu1-lvlu1-18] (JSG)</td><td></td></tr>
-<tr><td>12001. Betreten von Jagdgebieten ohne ausreichenden Grund mit einer Schusswaffe (Art. 18 Abs. 1 Bst. b und Abs. 3 JSG)</td><td>[tab] 200</td></tr>
-<tr><td>12002. Wildernlassen von Hunden (Art. 18 Abs. 1 Bst. d und Abs. 3 JSG)</td><td>[tab] 150</td></tr>
-<tr><td>12003. Betreten oder Befahren von Ruhezonen für Wildtiere ausserhalb der bezeichneten Routen und Wege (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 4<sup>ter</sup> JSV[^annex2-lvlu1-lvlu1-19])</td><td>[tab] 150</td></tr>
-<tr><td>12004. Missachtung der Leinenpflicht in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. c VEJ[^annex2-lvlu1-lvlu1-20]) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. c WZVV[^annex2-lvlu1-lvlu1-21])</td><td>[tab] 150</td></tr>
-<tr><td>12005. Freies Zelten oder Campieren in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. e VEJ)</td><td>[tab] 150</td></tr>
-<tr><td>12006. Betrieb von zivilen, unbemannten Luftfahrzeugen in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. f<sup>bis</sup> VEJ) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. f<sup>bis</sup> WZVV)</td><td>[tab] 150</td></tr>
-<tr><td>12007. Skifahren ausserhalb von markierten Pisten, Routen oder Loipen in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. g VEJ)</td><td>[tab] 150</td></tr>
-<tr><td>12008. Unberechtigtes Befahren von Alp- und Forststrassen sowie unberechtigte Benutzung von Fahrzeugen jeglicher Art ausserhalb von Strassen, Wald- und Feldwegen in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. h VEJ)</td><td>[tab] 150</td></tr>
-<tr><td>12009. Fahren mit Drachensegelbrettern oder ähnlichen Geräten und Betreiben von Modellbooten in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. g WZVV)</td><td>[tab] 150</td></tr>
-<tr><td>12010. Füttern von wildlebenden Tieren und das Einrichten von Salzlecken in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. b<sup>bis</sup> VEJ) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. b<sup>bis</sup> WZVV)</td><td>[tab] 150</td></tr>
-<tr><td>12011. Nichtmitführen der vorgeschriebenen Ausweise während der Jagd (Art. 18 Abs. 4 JSG), je fehlender Ausweis</td><td>[tab] 20</td></tr>
-<tr><td>XIII. Bundesgesetz vom 21. Juni 1991[^annex2-lvlu1-lvlu1-22] über die Fischerei (BGF)</td><td></td></tr>
-<tr><td>13001. Fangen von Fischen oder Krebsen während der Schonzeit (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 1 Abs. 1–3 VBGF[^annex2-lvlu1-lvlu1-23]), je Fisch oder Krebs</td><td>[tab] 100</td></tr>
-<tr><td>13002. Unterschreiten der Fangmindestmasse (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 2 Abs. 1 und 4 VBGF), je Fisch oder Krebs</td><td>[tab] 100</td></tr>
-<tr><td>13003. Missachtung von Fangverboten (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 2*a* VBGF), je Fisch oder Krebs</td><td>[tab] 150</td></tr>
-<tr><td>XIV. Bundesgesetz vom 23. März 2001[^annex2-lvlu1-lvlu1-24] über das Gewerbe der Reisenden</td><td></td></tr>
-<tr><td>14001. Ausübung des Reisendengewerbes ohne Bewilligung (Art. 14 Abs. 1 Bst. b und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 200</td></tr>
-<tr><td>14002. Anbieten von Waren oder Dienstleistungen, deren Vertrieb im Reisendengewerbe gegen Einschränkungen oder Verbote verstösst (Art. 14 Abs. 1 Bst. e und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 200</td></tr>
-<tr><td>14003. Nichtmitführen der Bewilligung bei der Ausübung des Reisendengewerbes (Art. 14 Abs. 1 Bst. f und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 20</td></tr>
+<tr><th></th><th colspan="2">Fr.</th></tr>
+<tr><td>I. Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^annex2-lvlu1-lvlu1-1] (AIG)</td><td colspan="2"></td></tr>
+<tr><td>1001. Missachtung der Mitwirkungspflicht bei der Beschaffung der Ausweispapiere (Art. 120 Abs. 1 Bst. e AIG)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>II. Asylgesetz vom 26. Juni 1998[^annex2-lvlu1-lvlu1-2] (AsylG)</td><td colspan="2"></td></tr>
+<tr><td>2001. Verletzung der Auskunftspflicht durch Verweigerung von Angaben (Art. 116 Bst. a AsylG)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>III. Bundesgesetz vom 19. Dezember 1986[^annex2-lvlu1-lvlu1-3] gegen den unlauteren Wettbewerb (UWG)</td><td colspan="2"></td></tr>
+<tr><td>3001. Verletzung der Pflicht zur Preisbekanntgabe oder zur Grundpreisbekanntgabe (Art. 24 Abs. 1 Bst. a und Abs. 2 UWG)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>III<sup>bis</sup>. Bundesgesetz vom 29. September 2023[^annex2-lvlu1-lvlu1-4] über das Verbot der Verhüllung des Gesichts (BVVG)</td><td></td></tr>
+<tr><td>3001<sup>bis</sup>. Verhüllen oder Verbergen des Gesichts an öffentlichen oder privaten Orten, die der Allgemeinheit zur entgeltlichen oder unentgeltlichen Nutzung offenstehen, ohne dass eine Ausnahme nach Artikel 2 Absatz 2 BVVG vorliegt (Art. 2 Abs. 1 und 2 sowie Art. 3 Abs. 1 BVVG)</td><td>100</td></tr>
+<tr><td>3002<sup>bis</sup>. Unbewilligtes Verhüllen des Gesichts an öffentlichen Orten (Art. 2 Abs. 1 und 3 sowie Art. 3 Abs. 1 BVVG)</td><td>100</td></tr>
+<tr><td>IV. Bundesgesetz vom 1. Juli 1966[^annex2-lvlu1-lvlu1-5] über den Natur- und Heimatschutz (NHG)</td><td colspan="2"></td></tr>
+<tr><td>4001. Unberechtigtes Pflücken, Ausgraben, Ausreissen, Wegführen, Anbieten, Verkaufen, Kaufen oder Vernichten von nicht mehr als fünf Stück wildlebender Pflanzen der in Anhang 2 zur NHV[^annex2-lvlu1-lvlu1-6] aufgeführten Arten (Art. 24*a* Abs. 1 Bst. b NHG, Art. 20 Abs. 1 und 5 NHV)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>V. Waffengesetz vom 20. Juni 1997[^annex2-lvlu1-lvlu1-7] (WG)</td><td colspan="2"></td></tr>
+<tr><td>5001. Nichtmitführen der Waffentragbewilligung (Art. 34 Abs. 1 Bst. h WG)</td><td colspan="2">[tab] 20</td></tr>
+<tr><td>5002. Transportieren von Feuerwaffen, ohne Waffe und Munition zu trennen (Art. 34 Abs. 1 Bst. n WG)</td><td colspan="2">[tab] 300</td></tr>
+<tr><td>VI. Nationalstrassenabgabegesetz vom 19. März 2010[^annex2-lvlu1-lvlu1-8] (NSAG)</td><td colspan="2"></td></tr>
+<tr><td>6001. Benützung einer Nationalstrasse erster oder zweiter Klasse ohne die für die Abgabeperiode erforderliche Vignette (Art. 14 Abs. 1 i. V. m. Art. 6*a*–7*a* und 8 NSAG).</td><td colspan="2">200</td></tr>
+<tr><td>6002. Benützung einer Nationalstrasse erster oder zweiten Klasse mit einer für die Abgabeperiode erforderlichen Klebevignette, die nicht oder nicht an der vorgeschriebenen Stelle direkt am Fahrzeug aufgeklebt ist oder die beschädigt ist (Art. 14 Abs. 1 i. V. m. Art. 6*a*, 7 und 8 NSAG).</td><td colspan="2">200</td></tr>
+<tr><td>VII. Bundesgesetz vom 3. Oktober 1975[^annex2-lvlu1-lvlu1-9] über die Binnenschifffahrt (BSG)</td><td colspan="2"></td></tr>
+<tr><td>**1.** **Administrative Bestimmungen**</td><td colspan="2">[tab]</td></tr>
+<tr><td>7100. Nichtmitführen der erforderlichen Ausweise oder Urkunden (Art. 45 und 46 BSG, Art. 8 BSV[^annex2-lvlu1-lvlu1-10], Art. 1.06 BSO[^annex2-lvlu1-lvlu1-11])</td><td colspan="2"></td></tr>
+<tr><td>1. Nichtmitführen des erforderlichen Führerausweises oder Schifferpatentes (Art. 45 BSG, Art. 8 BSV, Art. 1.06 BSO)</td><td colspan="2">20</td></tr>
+<tr><td>2. Nichtmitführen des Schiffsausweises oder der Zulassungsurkunde (Art. 46 BSG, Art. 8 BSV, Art. 1.06 BSO)</td><td colspan="2">20</td></tr>
+<tr><td>3. Nichtmitführen des Abgaswartungsdokuments (Art. 48 BSG, Art. 14 Abs. 3 AB-VASm[^annex2-lvlu1-lvlu1-12])</td><td colspan="2">20</td></tr>
+<tr><td>7101. 1. Nicht rechtzeitiges Melden von Tatsachen, die eine Änderung, Ergänzung, den Ersatz oder die Neuerteilung eines Ausweises oder der Zulassungsurkunde erfordern (Art. 48 BSG, Art. 85 Abs. 2 und 98 Abs. 2 BSV, Art. 14.07 BSO)</td><td colspan="2">[tab] 20</td></tr>
+<tr><td>2. Nicht rechtzeitiges Melden eines Wohnsitzwechsels am neuen schweizerischen Wohnsitz (Art. 48 BSG, Art. 84 Abs. 3 BSV, Art. 12.07 BSO)</td><td colspan="2">20</td></tr>
+<tr><td>7102. Führen oder Überlassen eines kennzeichnungspflichtigen, nicht-versicherungspflichtigen Schiffes ohne Schiffsausweis oder Zulassungsurkunde, ohne Kennzeichen oder mit falschem Kennzeichen (Art. 48 und 46 BSG, Art. 16 Abs. 1, 92 und 157 BSV, Art. 2.01 und 14.01 Abs. 1 und 4 BSO)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>7103. Nichtanbringen oder nicht vorschriftsgemässes Anbringen der Kennzeichen (Art. 48 BSG, Art. 16 Abs. 1 und 17 BSV, Art. 2.01 und 2.02 BSO)</td><td colspan="2">[tab] 40</td></tr>
+<tr><td>7104. Nichtbeschriften oder nicht vorschriftsgemässes Beschriften von Schiffen, die kürzer sind als 2.50 m, von Strandbooten und dergleichen, von Paddelbooten, Rennruderbooten, Segelbrettern und Drachensegelbrettern und weiteren von der Kennzeichnungspflicht ausgenommenen Booten (Art. 48 BSG, Art. 16 Abs. 3 und 163 Abs. 3 BSV; Art. 2.01 Abs. 1 BSO)</td><td colspan="2">[tab] 40</td></tr>
+<tr><td>7105. Einsetzen oder Stationieren eines Schiffs mit ausländischem Standort ohne eine Bewilligung (Art. 46 BSG, Art. 105 BSV)</td><td colspan="2">[tab] 50</td></tr>
+<tr><td>7106. Überschreiten der Frist für die obligatorische Abgasnachuntersuchung oder die periodische Kontrolle des Partikelfilter-Systems um mehr als 3, aber nicht mehr als 6 Monate (Art. 48 BSG, Art. 17 Bst. a Ziff. 4 VASm[^annex2-lvlu1-lvlu1-13], Art. 8 Abs. 2 AB-VASm)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>2. Regeln für das Stillliegen</td><td colspan="2"></td></tr>
+<tr><td>7200. Stillliegen</td><td colspan="2"></td></tr>
+<tr><td>1. im Bereich von Wasserpflanzen wie Schilf, Binsen oder Seerosen (Art. 48 BSG, Art. 59 Abs. 1 BSV)</td><td colspan="2">100</td></tr>
+<tr><td>2. in Fahrwasserengen , in den Fahrrinnen und im Bereich von Brücken (Art. 48 BSG, Art. 70 BSV, Art. 10.12 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>7201. Festmachen an Schifffahrtszeichen (Art. 40 Abs. 1 BSG i. V. m. Art. 9 Abs. 1 BSV oder Art. 1.08 Abs. 1 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>7202. Nichtbeachten der Verbotszeichen A7 bis A9 nach Anhang 4 BSV oder A.4 bis A.6 nach Anlage B BSO (Art. 40 Abs. 1 BSG, Art. 36 Abs. 1 BSV, Art. 5.01 Abs. 1 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>7203. Überschreiten der signalisierten Stillliegezeit (Art. 40 Abs. 1 BSG i. V. m. Art. 36 Abs. 1 BSV oder Art. 5.01 Abs. 1 BSO)</td><td colspan="2"></td></tr>
+<tr><td>1. bis 2 Stunden</td><td colspan="2">40</td></tr>
+<tr><td>2. um mehr als 2, aber nicht mehr als 4 Stunden</td><td colspan="2">60</td></tr>
+<tr><td>3. um mehr als 4, aber nicht mehr als 10 Stunden</td><td colspan="2">100</td></tr>
+<tr><td>7204. Stillliegen eines Schiffes ausserhalb eines bewilligten Liegeplatzes während 24 bis 48 Stunden, ohne dass sich jemand an Bord befindet (Art. 40 Abs. 1 BSG, Art. 59 Abs. 4 BSV)</td><td colspan="2">100</td></tr>
+<tr><td>7205. Unerlaubtes Stillliegen eines Schiffes ausserhalb von Häfen, Landestellen oder anderer für die Schifffahrt zugelassener Anlagen während 24 bis 48 Stunden (Art. 40 Abs. 1 BSG, Art. 7.01 Abs. 1 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>3. Sichtzeichen</td><td colspan="2"></td></tr>
+<tr><td>7300. Nichtführen der vorgeschriebenen Sichtzeichen oder Führen verbotener Sichtzeichen beim Stillliegen (Art. 40 Abs. 1 BSG, Art. 18, 21 Abs. 1, 26, 28, 29 und 71 BSV oder Art. 3.03 und 3.08 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>7301. Berufsfischerei</td><td colspan="2"></td></tr>
+<tr><td>1. Nichtführen des gelben Balles oder Lichtes beim Setzen und Einholen der Netze (Art. 40 Abs. 1 BSG, Art. 31 Abs. 1 BSV)</td><td colspan="2">50</td></tr>
+<tr><td>2. Führen des gelben Balles oder Lichtes ausserhalb des Setzens und Einholens der Netze (Art. 40 Abs. 1 BSG, Art. 21 und 31 Abs. 1 BSV)</td><td colspan="2">50</td></tr>
+<tr><td>3. Führen des weissen Balles ausserhalb des Fanges (Art. 40 Abs. 1 BSG, Art. 3.03 Abs. 1 und 3.10 Abs. 1 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>7302. Schleppangelfischerei</td><td colspan="2"></td></tr>
+<tr><td>1. Nichtführen des weissen Balles beim Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 31 Abs. 2 BSV)</td><td colspan="2">50</td></tr>
+<tr><td>2. Nichtführen der weissen Flagge beim Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 3.10 Abs. 2 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>3. Führen des weissen Balles ohne Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 21 und 31 Abs. 2 BSV)</td><td colspan="2">50</td></tr>
+<tr><td>4. Führen der weissen Flagge ohne Ausüben der Schleppangelfischerei (Art. 40 Abs. 1 BSG, Art. 3.03 Abs. 1 und 3.10 Abs. 2 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>7303. Nichtanbringen des vorgeschriebenen Zeichens (Bst. «A» der Internationalen Flaggenordnung) beim Tauchen oder unwirksames Anleuchten des Zeichens bei Nacht (Art. 40 Abs. 1 BSG, Art. 32 BSV, Art. 3.13 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>4. Regeln für die Fahrt</td><td colspan="2"></td></tr>
+<tr><td>7401. Nichteinhalten des Sicherheitsabstandes gegenüber Vorrangschiffen und Schiffen von Berufsfischern, welche die vorgeschriebenen Zeichen führen (Art. 40 Abs. 1 BSG, Art. 48 BSV, Art. 6.06 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>7402. Fahren in der Uferzone</td><td colspan="2"></td></tr>
+<tr><td>1. Verbotene Längsfahrt mit Motorschiff innerhalb der inneren Uferzone oder innerhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 53 Abs. 1 Bst. a BSV, Art. 6.11 Abs. 1 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>2. Verbotene Längsfahrt mit einem Schiff mit Maschinenantrieb innerhalb Uferzone, aber ausserhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 6.11 Abs. 1 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>3. Überschreiten der erlaubten Geschwindigkeit in der inneren Uferzone oder innerhalb eines Uferabstandes von 150 m um nicht mehr als 15 km/h (Art. 40 Abs. 1 BSG, Art. 53 Abs. 1 Bst. b BSV, Art. 6.11 Abs. 1 BSO)</td><td colspan="2">150</td></tr>
+<tr><td>4. Überschreiten der erlaubten Geschwindigkeit in der äusseren Uferzone um nicht mehr als 15 km/h (Art. 40 Abs. 1 BSG, Art. 53 Abs. 1 Bst. b BSV)</td><td colspan="2">100</td></tr>
+<tr><td>5. Überschreiten der erlaubten Geschwindigkeit innerhalb der Uferzone, aber ausserhalb eines Uferabstandes von 150 m um nicht mehr als 15 km/h (Art. 40 Abs. 1 BSG, Art. 6.11 Abs. 1 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>6. Unberechtigtes Befahren oder Sich-Aufhalten im Hafenbereich (Art. 40 Abs. 1 BSG, Art. 52 Abs. 2 BSV, Art. 6.10 Abs. 3 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>7. Nichteinhalten des Mindestabstandes zu Beständen von Wasserpflanzen wie Schilf, Binsen und Seerosen (Art. 40 Abs. 1 BSG, Art. 53 Abs. 3 BSV)</td><td colspan="2">100</td></tr>
+<tr><td>7403. Befahren einer für die Schifffahrt gesperrten Wasserfläche</td><td colspan="2"></td></tr>
+<tr><td>1. mit Segel- oder Motorschiffen, Segelbrettern oder Drachensegelbrettern (Art. 40 Abs. 1 BSG, Art. 37 Abs. 1 BSV, Art. 5.01 Abs. 1 und Anlage B BSO)</td><td colspan="2">100</td></tr>
+<tr><td>2. mit Ruderbooten, Schlauchbooten, Paddelbooten oder Strandbooten (Art. 40 Abs. 1 BSG, Art. 37 Abs. 1 BSV, Art. 5.01 Abs. 1 und Anlage B BSO)</td><td colspan="2">50</td></tr>
+<tr><td>7404. Unerlaubtes Befahren einer für bestimmte Schiffsarten gesperrten Wasserfläche</td><td colspan="2"></td></tr>
+<tr><td>1. mit Segel- oder Motorschiffen, Segelbrettern oder Drachensegelbrettern (Art. 40 Abs. 1 BSG, Art. 37 Abs. 2 BSV, Art. 5.01 Abs. 1, Anlage B und Art. 16.02 Abs. 5 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>2. mit Ruderbooten, Schlauchbooten, Paddelbooten oder Strandbooten (Art. 40 Abs. 1 BSG, Art. 37 Abs. 2 BSV, Art. 5.01 Abs. 1, Anlage B und Art. 16.02 Abs. 5 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>7405. Verkehren mit Schiffen, die kürzer sind als 2,50 m, Strandbooten und dergleichen oder anderen von der Kennzeichnungspflicht ausgenommenen Schiffen ausserhalb der inneren Uferzone oder im Abstand von mehr als 150 m um sie begleitende Schiffe herum (Art. 40 Abs. 1 BSG i. V. m. Art. 42 BSV)</td><td colspan="2">50</td></tr>
+<tr><td>7406. Fahren mit Wasserski oder ähnlichen Geräten</td><td colspan="2"></td></tr>
+<tr><td>1. zu verbotener Zeit (Art. 40 Abs. 1 BSG, Art. 54 Abs. 1 BSV, Art. 6.15 Abs. 1 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>2. innerhalb der äusseren Uferzone (Art. 40 Abs. 1 BSG, Art. 54 Abs. 2 BSV)</td><td colspan="2">100</td></tr>
+<tr><td>3. innerhalb der Uferzone, aber ausserhalb eines Uferabstandes von 150 m (Art. 40 Abs. 1 BSG, Art. 6.15 Abs. 2 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>4. gleichzeitiges Schleppen von mehr als zwei Wasserskifahrern oder Geräten (Art. 40 Abs. 1 BSG, Art. 54 Abs. 5 BSV, Art. 6.15 Abs. 5 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>5. Nachziehen der leeren Schleppleine oder Benützen einer elastischen Leine (Art. 40 Abs. 1 BSG, Art. 54 Abs. 4 BSV, Art. 6.15 Abs. 4 BSO)</td><td colspan="2">60</td></tr>
+<tr><td>6. Unerlaubtes Fahren mit Aqua-Scootern, Jet-Bikes und ähnlichen Schwimmkörpern (Art. 40 Abs. 1 BSG, kantonale Vorschriften oder Art. 6.15 Abs. 7 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>7407. Nichtmitführen der vorgeschriebenen Ausrüstungsgegenstände und Rettungsgeräte oder Mitführen solcher Gegenstände und Geräte in nicht gebrauchsfähigem Zustand (Art. 48 BSG, Art. 131 Abs. 2, 134 Abs. 4 und 134*a* BSV, Art. 13.19 und 13.20 BSO)</td><td colspan="2"></td></tr>
+<tr><td>1. je Ausrüstungsgegenstand</td><td colspan="2">[tab] 20</td></tr>
+<tr><td>2. je Rettungsgerät</td><td colspan="2">[tab] 50</td></tr>
+<tr><td>7408. Mitführen von einer in Bezug auf die im Schiffsausweis eingetragene Anzahl überzähligen Person (Art. 46 BSG, Art. 7 Abs. 1 und 3 BSV, Art. 1.05 Abs. 3 BSO)</td><td colspan="2">60</td></tr>
+<tr><td>7409. Nichtbeachten der Verbotszeichen A1 bis A6 und A10 bis A13 nach Anhang 4 BSV oder A.1 bis A.3 und A.7 bis A.12 nach Anlage B BSO (Art. 40 Abs. 1 BSG, Art. 36 Abs. 1 BSV, Art. 5.01 Abs. 1 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>7410. Überschreiten der signalisierten Höchstgeschwindigkeit oder der allgemeinen Höchstgeschwindigkeit auf dem Bodensee um nicht mehr als 15 km/h (Art. 40 Abs. 1 BSG, Art. 36 Abs. 1 BSV, Art. 5.01 und 6.02 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>7411. Überschreiten einer kantonalen allgemeinen Höchstgeschwindigkeit um nicht mehr als 15 km/h (Art. 3 Abs. 2 und 40 BSG)</td><td colspan="2">100</td></tr>
+<tr><td>5. Baden und Tauchen</td><td colspan="2"></td></tr>
+<tr><td>7501. Baden</td><td colspan="2"></td></tr>
+<tr><td>1. ausserhalb behördlich bewilligter und als solche gekennzeichneter Wasserflächen oder ausserhalb öffentlicher Badeplätze im Umkreis von 100 m um Hafeneinfahrten und Landestellen der Fahrgastschiffe (Art. 40 Abs. 1 BSG, Art. 77 Abs. 1 BSV, Art. 11.04 Abs. 1 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>2. ausserhalb behördlich bewilligter und als solche gekennzeichneter Wasserflächen oder ausserhalb öffentlicher Badeplätze im Umkreis von 100 m um sonstige Hafeneinfahrten, wenn dadurch die Schifffahrt beeinträchtigt oder behindert wird (Art. 40 Abs. 1 BSG, Art. 77 Abs. 1 BSV, Art. 11.04 Abs. 1 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>7502. Unbefugtes Heranschwimmen an Schiffe in Fahrt (Art. 40 Abs. 1 BSG, Art. 77 Abs. 2 BSV, Art. 11.04 Abs. 3 BSO)</td><td colspan="2">50</td></tr>
+<tr><td>7503. Sporttauchen auf den Fahrlinien der Kursschiffe, in engem Fahrwasser, bei Hafeneinfahrten, in der Nähe von behördlich zugelassenen Liegeplätzen oder im Umkreis von 100 m um behördlich bewilligte Landestellen der Kursschiffe (Art. 40 Abs. 1 BSG i. V. m. Art. 77 Abs. 3 BSV)</td><td colspan="2">100</td></tr>
+<tr><td>7504. Tauchen in markierten Fahrwassern (Art. 40 Abs. 1 BSG, Art. 11.04 Abs. 2 BSO)</td><td colspan="2">100</td></tr>
+<tr><td>7505. Nichtbeachten des Verbotszeichens A14 nach Anhang 4 BSV (Art. 40 Abs. 1 BSG i. V. m. Art. 36 Abs. 1 BSV)</td><td colspan="2">50</td></tr>
+<tr><td>7506. Unberechtigtes Verwenden eines Tauchscooters (Art. 40 Abs. 1 BSG, Art. 54*a* Abs. 1 und 2 BSV)</td><td colspan="2">100</td></tr>
+<tr><td>VIII. Betäubungsmittelgesetz vom 3. Oktober 1951[^annex2-lvlu1-lvlu1-14] (BetmG)</td><td colspan="2"></td></tr>
+<tr><td>8001. Unbefugter vorsätzlicher Konsum von Betäubungsmitteln des Wirkungstyps Cannabis (Art. 19*a* Ziff. 1 BetmG)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>IX. Umweltschutzgesetz vom 7. Oktober 1983[^annex2-lvlu1-lvlu1-15] (USG)</td><td colspan="2"></td></tr>
+<tr><td>9001. Benutzen einer öffentlichen Wertstoffsammelstelle ausserhalb der vorgeschriebenen Betriebszeiten (Art. 61 Abs. 1 Bst. a, Art. 12 Abs. 1 Bst. c USG)</td><td colspan="2">[tab] 50</td></tr>
+<tr><td>9002. Nichtmitführen des Begleitscheins beim Transport von Abfällen (Art. 61 Abs. 1 Bst. k USG, Art. 31 Abs. 4<sup>bis</sup> und 6 VeVA[^annex2-lvlu1-lvlu1-16])</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>X. Bundesgesetz vom 3. Oktober 2008[^annex2-lvlu1-lvlu1-17] zum Schutz vor Passivrauchen</td><td colspan="2"></td></tr>
+<tr><td>10001. Rauchen in geschlossenen, öffentlich zugänglichen Räumen (Art. 2 Abs. 1, Art. 5 Abs. 1 Bst. a des Bundesgesetzes zum Schutz vor Passivrauchen)</td><td colspan="2">[tab] 80</td></tr>
+<tr><td>XI. Waldgesetz vom 4. Oktober 1991[^annex2-lvlu1-lvlu1-18] (WaG)</td><td colspan="2"></td></tr>
+<tr><td>11001. Missachtung von Zugänglichkeitsbeschränkungen in bestimmten Waldgebieten (Art. 14 Abs. 2 Bst. a und 43 Abs. 1 Bst. c WaG)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>11002. Unberechtigtes Befahren von Wald oder Waldstrassen mit Motorfahrzeugen (Art. 15 und 43 Abs. 1 Bst. d WaG)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>XII. Jagdgesetz vom 20. Juni 1986[^annex2-lvlu1-lvlu1-19] (JSG)</td><td colspan="2"></td></tr>
+<tr><td>12001. Betreten von Jagdgebieten ohne ausreichenden Grund mit einer Schusswaffe (Art. 18 Abs. 1 Bst. b und Abs. 3 JSG)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>12002. Wildernlassen von Hunden (Art. 18 Abs. 1 Bst. d und Abs. 3 JSG)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12003. Betreten oder Befahren von Ruhezonen für Wildtiere ausserhalb der bezeichneten Routen und Wege (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 4<sup>ter</sup> JSV[^annex2-lvlu1-lvlu1-20])</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12004. Missachtung der Leinenpflicht in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. c VEJ[^annex2-lvlu1-lvlu1-21]) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. c WZVV[^annex2-lvlu1-lvlu1-22])</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12005. Freies Zelten oder Campieren in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. e VEJ)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12006. Betrieb von zivilen, unbemannten Luftfahrzeugen in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. f<sup>bis</sup> VEJ) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. f<sup>bis</sup> WZVV)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12007. Skifahren ausserhalb von markierten Pisten, Routen oder Loipen in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. g VEJ)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12008. Unberechtigtes Befahren von Alp- und Forststrassen sowie unberechtigte Benutzung von Fahrzeugen jeglicher Art ausserhalb von Strassen, Wald- und Feldwegen in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. h VEJ)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12009. Fahren mit Drachensegelbrettern oder ähnlichen Geräten und Betreiben von Modellbooten in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. g WZVV)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12010. Füttern von wildlebenden Tieren und das Einrichten von Salzlecken in eidgenössischen Jagdbanngebieten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. b<sup>bis</sup> VEJ) und in Wasser- und Zugvogelreservaten (Art. 18 Abs. 1 Bst. e und Abs. 3 JSG, Art. 5 Abs. 1 Bst. b<sup>bis</sup> WZVV)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12011. Nichtmitführen der vorgeschriebenen Ausweise während der Jagd (Art. 18 Abs. 4 JSG), je fehlender Ausweis</td><td colspan="2">[tab] 20</td></tr>
+<tr><td>XIII. Bundesgesetz vom 21. Juni 1991[^annex2-lvlu1-lvlu1-23] über die Fischerei (BGF)</td><td colspan="2"></td></tr>
+<tr><td>13001. Fangen von Fischen oder Krebsen während der Schonzeit (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 1 Abs. 1–3 VBGF[^annex2-lvlu1-lvlu1-24]), je Fisch oder Krebs</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>13002. Unterschreiten der Fangmindestmasse (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 2 Abs. 1 und 4 VBGF), je Fisch oder Krebs</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>13003. Missachtung von Fangverboten (Art. 17 Abs. 1 Bst. a und Abs. 3 BGF, Art. 2*a* VBGF), je Fisch oder Krebs</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>XIV. Bundesgesetz vom 23. März 2001[^annex2-lvlu1-lvlu1-25] über das Gewerbe der Reisenden</td><td colspan="2"></td></tr>
+<tr><td>14001. Ausübung des Reisendengewerbes ohne Bewilligung (Art. 14 Abs. 1 Bst. b und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>14002. Anbieten von Waren oder Dienstleistungen, deren Vertrieb im Reisendengewerbe gegen Einschränkungen oder Verbote verstösst (Art. 14 Abs. 1 Bst. e und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>14003. Nichtmitführen der Bewilligung bei der Ausübung des Reisendengewerbes (Art. 14 Abs. 1 Bst. f und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td colspan="2">[tab] 20</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^annex2-lvlu1-lvlu1-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^annex2-lvlu1-lvlu1-3]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^annex2-lvlu1-lvlu1-4]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^annex2-lvlu1-lvlu1-5]: V vom 16. Jan. 1991 über den Natur- und Heimatschutz ([SR 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249))
-[^annex2-lvlu1-lvlu1-6]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex2-lvlu1-lvlu1-7]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
-[^annex2-lvlu1-lvlu1-8]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
-[^annex2-lvlu1-lvlu1-9]: Binnenschifffahrtsverordnung vom 8. Nov. 1978 ([SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337))
-[^annex2-lvlu1-lvlu1-10]: Bodensee-Schifffahrts-Ordnung vom 17. März 1976 ([SR 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338))
-[^annex2-lvlu1-lvlu1-11]: Ausführungsbestimmungen des UVEK vom 28. Aug. 2017 zur Verordnung über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ([SR 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548))
-[^annex2-lvlu1-lvlu1-12]: V vom 14. Okt. 2015 über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ([SR 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731))
-[^annex2-lvlu1-lvlu1-13]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex2-lvlu1-lvlu1-14]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex2-lvlu1-lvlu1-15]: V vom 22. Juni 2005 über den Verkehr mit Abfällen ([SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551))
-[^annex2-lvlu1-lvlu1-16]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
-[^annex2-lvlu1-lvlu1-17]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^annex2-lvlu1-lvlu1-18]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^annex2-lvlu1-lvlu1-19]: Jagdverordnung vom 29. Febr. 1988 ([SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517))
-[^annex2-lvlu1-lvlu1-20]: V vom 30. Sept. 1991 über die eidgenössischen Jagdbanngebiete ([SR 922.31](https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304))
-[^annex2-lvlu1-lvlu1-21]: V vom 21. Jan. 1991 über die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung ([SR 922.32](https://fedlex.data.admin.ch/eli/cc/1991/298_298_298))
-[^annex2-lvlu1-lvlu1-22]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^annex2-lvlu1-lvlu1-23]: V vom 24. Nov. 1993 zum Bundesgesetz über die Fischerei ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
-[^annex2-lvlu1-lvlu1-24]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^annex2-lvlu1-lvlu1-4]: [SR 311.6](https://fedlex.data.admin.ch/eli/cc/2024/620)
+[^annex2-lvlu1-lvlu1-5]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^annex2-lvlu1-lvlu1-6]: V vom 16. Jan. 1991 über den Natur- und Heimatschutz ([SR 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249))
+[^annex2-lvlu1-lvlu1-7]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^annex2-lvlu1-lvlu1-8]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^annex2-lvlu1-lvlu1-9]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^annex2-lvlu1-lvlu1-10]: Binnenschifffahrtsverordnung vom 8. Nov. 1978 ([SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337))
+[^annex2-lvlu1-lvlu1-11]: Bodensee-Schifffahrts-Ordnung vom 17. März 1976 ([SR 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338))
+[^annex2-lvlu1-lvlu1-12]: Ausführungsbestimmungen des UVEK vom 28. Aug. 2017 zur Verordnung über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ([SR 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548))
+[^annex2-lvlu1-lvlu1-13]: V vom 14. Okt. 2015 über die Anforderungen an Schiffsmotoren auf schweizerischen Gewässern ([SR 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731))
+[^annex2-lvlu1-lvlu1-14]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^annex2-lvlu1-lvlu1-15]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex2-lvlu1-lvlu1-16]: V vom 22. Juni 2005 über den Verkehr mit Abfällen ([SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551))
+[^annex2-lvlu1-lvlu1-17]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^annex2-lvlu1-lvlu1-18]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^annex2-lvlu1-lvlu1-19]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^annex2-lvlu1-lvlu1-20]: Jagdverordnung vom 29. Febr. 1988 ([SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517))
+[^annex2-lvlu1-lvlu1-21]: V vom 30. Sept. 1991 über die eidgenössischen Jagdbanngebiete ([SR 922.31](https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304))
+[^annex2-lvlu1-lvlu1-22]: V vom 21. Jan. 1991 über die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung ([SR 922.32](https://fedlex.data.admin.ch/eli/cc/1991/298_298_298))
+[^annex2-lvlu1-lvlu1-23]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex2-lvlu1-lvlu1-24]: V vom 24. Nov. 1993 zum Bundesgesetz über die Fischerei ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
+[^annex2-lvlu1-lvlu1-25]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
 
 Anhang 3
 

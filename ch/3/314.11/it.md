@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2024-12-09
+version: 2025-01-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20241209/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20241209-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20241209/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20241209/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 9 dicembre 2024)
+del 16 gennaio 2019 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -84,7 +84,7 @@ Allegato 1[^t-1]
 
 ## Elenco delle multe 1
 
-[^t-1]: Aggiornato dalla cifra I delle O del 20 mag. 2020 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) e del 17 dic. 2021, in vigore dal 1° apr. 2024 ([RU 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
+[^t-1]: Aggiornato dalla cifra I delle O del 20 mag. 2020 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)), del 17 dic. 2021 ([RU 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)) e del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 606](https://fedlex.data.admin.ch/eli/oc/2024/606)).
 
 ### Contravvenzioni secondo la legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 
@@ -395,8 +395,8 @@ Allegato 1[^t-1]
 <tr><td>2. dei fari fendinebbia di coda</td><td colspan="2">40</td></tr>
 <tr><td>3. delle luci orientabili</td><td colspan="2">40</td></tr>
 <tr><td>4. delle luci di lavoro</td><td colspan="2">40</td></tr>
-<tr><td>326. 1. Far riscaldare inutilmente il motore di un veicolo fermo (art. 33 lett. a ONC)</td><td colspan="2">60</td></tr>
-<tr><td>2. Far girare inutilmente il motore di un veicolo fermo (art. 33 lett. a ONC)</td><td colspan="2">60</td></tr>
+<tr><td>326. 1. Far riscaldare inutilmente il motore di un veicolo fermo (art. 33 lett. a ONC)</td><td colspan="2">80</td></tr>
+<tr><td>2. Far girare inutilmente il motore di un veicolo fermo (art. 33 lett. a ONC)</td><td colspan="2">80</td></tr>
 <tr><td>327. 1. Circolare su un’autostrada o semiautostrada con un motoveicolo di cilindrata fino a 50 cm<sup>3</sup> o una potenza fino a 4 kW (art. 35 cpv. 2 ONC)</td><td>100</td></tr>
 <tr><td>2. Circolare su un’autostrada o semiautostrada con un altro veicolo a motore non ammesso (art. 35 cpv. 1, 2 e 4 ONC)</td><td colspan="2">140</td></tr>
 <tr><td>3. Circolare su un’autostrada o semiautostrada con pneumatici chiodati (art. 35 cpv. 2 ONC)</td><td colspan="2">60</td></tr>
@@ -601,7 +601,7 @@ Allegato 2[^t-2]
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)),) e dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), dalla cifra II n. 1 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)) e dalla correzione del 9 dic. 2024 ([RU 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dall’all. n. 1 dell’O del 16 giu. 2023 sul contrassegno stradale ([RU 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), dalla cifra II n. 1 dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), dalla correzione del 9 dic. 2024 ([RU 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)) e dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -613,27 +613,30 @@ Allegato 2[^t-2]
 <tr><td>2001. Violazione dell’obbligo di informare rifiutando di fornire un’informazione (art. 116 lett. a LAsi)</td><td>[tab] 200</td></tr>
 <tr><td>III. Legge federale del 19 dicembre 1986[^annex2-lvlu1-lvlu1-3] contro la concorrenza sleale (LCSl)</td><td></td></tr>
 <tr><td>3001. Violazione dell’obbligo d’indicare i prezzi o il prezzo unitario (art. 24 cpv. 1 lett. a e cpv. 2 LCSl)</td><td>[tab] 200</td></tr>
-<tr><td>IV. Legge federale del 1° luglio 1966[^annex2-lvlu1-lvlu1-4] sulla protezione della natura e del paesaggio (LPN)</td><td></td></tr>
-<tr><td>4001. Raccogliere, dissotterrare, sradicare, trasportare, offrire in vendita, vendere, acquistare o distruggere, senza autorizzazione, non più di cinque esemplari di piante selvatiche delle specie designate nell’allegato 2 OPN[^annex2-lvlu1-lvlu1-5] (art. 24*a* cpv. 1 lett. b LPN, art. 20 cpv. 1 e 5 OPN)</td><td>[tab] 100</td></tr>
-<tr><td>V. Legge del 20 giugno 1997[^annex2-lvlu1-lvlu1-6] sulle armi (LArm)</td><td></td></tr>
+<tr><td>III<sup>bis</sup>. Legge federale del 29 settembre 2023[^annex2-lvlu1-lvlu1-4] sul divieto di dissimulare il viso (LDDV)</td><td></td></tr>
+<tr><td>3001<sup>bis</sup>. Dissimulazione del viso nei luoghi pubblici o privati aperti alla collettività gratuitamente o a pagamento, a meno che sussista una delle eccezioni di cui all’articolo 2 capoverso 2 LDDV (art. 2 cpv. 1 e 2 nonché art. 3 cpv. 1 LDDV)</td><td>100</td></tr>
+<tr><td>3002<sup>bis</sup>. Dissimulazione del viso senza autorizzazione in luoghi pubblici (art. 2 cpv. 1 e 3 nonché art. 3 cpv. 1 LDDV)</td><td>100</td></tr>
+<tr><td>IV. Legge federale del 1° luglio 1966[^annex2-lvlu1-lvlu1-5] sulla protezione della natura e del paesaggio (LPN)</td><td></td></tr>
+<tr><td>4001. Raccogliere, dissotterrare, sradicare, trasportare, offrire in vendita, vendere, acquistare o distruggere, senza autorizzazione, non più di cinque esemplari di piante selvatiche delle specie designate nell’allegato 2 OPN[^annex2-lvlu1-lvlu1-6] (art. 24*a* cpv. 1 lett. b LPN, art. 20 cpv. 1 e 5 OPN)</td><td>[tab] 100</td></tr>
+<tr><td>V. Legge del 20 giugno 1997[^annex2-lvlu1-lvlu1-7] sulle armi (LArm)</td><td></td></tr>
 <tr><td>5001. Omissione di recare con sé il permesso di porto di armi (art. 34 cpv. 1 lett. h LArm)</td><td>[tab] 20</td></tr>
 <tr><td>5002. Trasporto di un’arma da fuoco senza tenere separate arma e munizioni (art. 34 cpv. 1 lett. n LArm)</td><td>[tab] 300</td></tr>
-<tr><td>VI. Legge del 19 marzo 2010[^annex2-lvlu1-lvlu1-7] sul contrassegno stradale (LUSN)</td><td></td></tr>
+<tr><td>VI. Legge del 19 marzo 2010[^annex2-lvlu1-lvlu1-8] sul contrassegno stradale (LUSN)</td><td></td></tr>
 <tr><td>6001. Utilizzo di una strada nazionale di prima o di seconda classe senza il contrassegno necessario per il periodo di tassazione (art. 14 cpv. 1 in combinato disposto con art. 6*a*–7*a* e 8 LUSN).</td><td>200</td></tr>
 <tr><td>6002. Utilizzo di una strada nazionale di prima o di seconda classe con il contrassegno adesivo necessario per il periodo di tassazione non incollato direttamente sul veicolo oppure non al posto prescritto o danneggiato (art. 14 cpv. 1 in combinato disposto con art. 6*a*, 7 e 8 LUSN).</td><td>200</td></tr>
-<tr><td>VII. Legge federale del 3 ottobre 1975[^annex2-lvlu1-lvlu1-8] sulla navigazione interna (LNI)</td><td></td></tr>
+<tr><td>VII. Legge federale del 3 ottobre 1975[^annex2-lvlu1-lvlu1-9] sulla navigazione interna (LNI)</td><td></td></tr>
 <tr><td>**1.** **Disposizioni amministrative**</td><td>[tab]</td></tr>
-<tr><td>7100. Omissione di tenere a bordo i documenti necessari (art. 45 e 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-9], art. 1.06 RNC[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>
+<tr><td>7100. Omissione di tenere a bordo i documenti necessari (art. 45 e 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-10], art. 1.06 RNC[^annex2-lvlu1-lvlu1-11])</td><td></td></tr>
 <tr><td>1. Omissione di tenere a bordo la licenza di condurre necessaria (art. 45 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
 <tr><td>2. Omissione di tenere a bordo la licenza di navigazione o il documento d’ammissione (art. 46 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
-<tr><td>3. Omissione di tenere a bordo il documento sulla manutenzione relativa ai gas di scarico (art. 48 LNI, art. 14 cpv. 3 DE‑OMBat[^annex2-lvlu1-lvlu1-11])</td><td>20</td></tr>
+<tr><td>3. Omissione di tenere a bordo il documento sulla manutenzione relativa ai gas di scarico (art. 48 LNI, art. 14 cpv. 3 DE‑OMBat[^annex2-lvlu1-lvlu1-12])</td><td>20</td></tr>
 <tr><td>7101. 1. Omissione dell’annuncio tempestivo di tutto ciò che richiede modifiche o aggiunte oppure la sostituzione o il nuovo rilascio della licenza di condurre o del documento d’ammissione (art. 48 LNI, art. 85 cpv. 2 e 98 cpv. 2 ONI, art. 14.07 RNC)</td><td>[tab] 20</td></tr>
 <tr><td>2. Omissione di annunciare entro il termine il trasferimento di domicilio al nuovo Cantone di domicilio (art. 48 LNI, art. 84 cpv. 3 ONI, art. 12.07 RNC)</td><td>20</td></tr>
 <tr><td>7102. Condotta o prestito senza licenza di navigazione o documento di ammissione, senza contrassegni o con contrassegni falsi di un battello soggetto all’obbligo di essere provvisto di un contrassegno e non soggetto all’obbligo d’assicurazione (art. 46 e 48 LNI, art. 16 cpv. 1, 92 e 157 ONI, art. 2.01 e 14.01 cpv. 1 e 4 RNC)</td><td>[tab] 100</td></tr>
 <tr><td>7103. Omissione dell’applicazione oppure applicazione non conforme alle prescrizioni dei contrassegni (art. 48 LNI, art. 16 cpv. 1 e 17 ONI, art. 2.01 e 2.02 RNC)</td><td>[tab] 40</td></tr>
 <tr><td>7104. Omissione dell’apposizione o apposizione non conforme del nome ai natanti la cui lunghezza è inferiore a 2,50 m, alle imbarcazioni da spiaggia e ad altri natanti simili, alle canoe, ai natanti da competizione per regate, alle tavole a vela e ai kite surf e altri natanti non soggetti all’obbligo di essere provvisti di un contrassegno (art. 48 LNI, art. 16 cpv. 3 e 163 cpv. 3 ONI; art. 2.01 cpv. 1 RNC)</td><td>[tab] 40</td></tr>
 <tr><td>7105. Messa in servizio o stazionamento senza autorizzazione di natanti con luogo di stazionamento all’estero (art. 46 LNI, art. 105 ONI)</td><td>[tab] 50</td></tr>
-<tr><td>7106. Superamento del termine per il controllo periodico dei gas di scarico o dei sistemi di filtri antiparticolato di più di tre mesi ma non più di sei mesi (art. 48 LNI, art. 17 lett. a n. 4 OMBat[^annex2-lvlu1-lvlu1-12], art. 8 cpv. 2 DE‑OMBat)</td><td>[tab] 100</td></tr>
+<tr><td>7106. Superamento del termine per il controllo periodico dei gas di scarico o dei sistemi di filtri antiparticolato di più di tre mesi ma non più di sei mesi (art. 48 LNI, art. 17 lett. a n. 4 OMBat[^annex2-lvlu1-lvlu1-13], art. 8 cpv. 2 DE‑OMBat)</td><td>[tab] 100</td></tr>
 <tr><td>2. Disposizioni sullo stazionamento</td><td></td></tr>
 <tr><td>7200. Stazionamento</td><td></td></tr>
 <tr><td>1. nelle zone di vegetazione acquatica (canneti, giunchi e ninfee) (art. 48 LNI, art. 59 cpv. 1 ONI)</td><td>100</td></tr>
@@ -698,21 +701,21 @@ Allegato 2[^t-2]
 <tr><td>7504. Immersione in un canale di navigazione segnalato (art. 40 cpv. 1 LNI, art. 11.04 cpv. 2 RNC)</td><td>100</td></tr>
 <tr><td>7505. Inosservanza del segnale di divieto A14 di cui all’allegato 4 ONI (art. 40 cpv. 1 LNI in combinato disposto con art. 36 cpv. 1 ONI)</td><td>50</td></tr>
 <tr><td>7506. Impiego non autorizzato di scooter da immersione (art. 40 cpv. 1 LNI, art. 54*a* cpv. 1 e 2 ONI)</td><td>100</td></tr>
-<tr><td>VIII. Legge del 3 ottobre 1971[^annex2-lvlu1-lvlu1-13] sugli stupefacenti (LStup)</td><td></td></tr>
+<tr><td>VIII. Legge del 3 ottobre 1971[^annex2-lvlu1-lvlu1-14] sugli stupefacenti (LStup)</td><td></td></tr>
 <tr><td>8001. Consumo non autorizzato e intenzionale di stupefacenti del tipo della canapa (art. 19*a* n. 1 LStup)</td><td>[tab] 100</td></tr>
-<tr><td>IX. Legge del 7 ottobre 1983[^annex2-lvlu1-lvlu1-14] sulla protezione dell’ambiente (LPAmb)</td><td></td></tr>
+<tr><td>IX. Legge del 7 ottobre 1983[^annex2-lvlu1-lvlu1-15] sulla protezione dell’ambiente (LPAmb)</td><td></td></tr>
 <tr><td>9001. Utilizzo di un punto di raccolta dei materiali riciclabili al di fuori degli orari d’esercizio prescritti (art. 61 cpv. 1 lett. a, art. 12 cpv. 1 lett. C LPAmb)</td><td>[tab] 50</td></tr>
-<tr><td>9002. Omissione di allegare il modulo di accompagnamento in occasione del trasporto di rifiuti (art. 61 cpv. 1 lett. k LPAmb, art. 31 cpv. 4<sup>bis</sup> e 6 OTRif[^annex2-lvlu1-lvlu1-15])</td><td>[tab] 100</td></tr>
-<tr><td>X. Legge federale del 3 ottobre 2008[^annex2-lvlu1-lvlu1-16] concernente la protezione contro il fumo passivo</td><td></td></tr>
+<tr><td>9002. Omissione di allegare il modulo di accompagnamento in occasione del trasporto di rifiuti (art. 61 cpv. 1 lett. k LPAmb, art. 31 cpv. 4<sup>bis</sup> e 6 OTRif[^annex2-lvlu1-lvlu1-16])</td><td>[tab] 100</td></tr>
+<tr><td>X. Legge federale del 3 ottobre 2008[^annex2-lvlu1-lvlu1-17] concernente la protezione contro il fumo passivo</td><td></td></tr>
 <tr><td>10001. Fumare in locali chiusi accessibili al pubblico (art. 2 cpv. 1 e 5 cpv. 1 lett. a della LF concernente la protezione contro il fumo passivo)</td><td>[tab] 80</td></tr>
-<tr><td>XI. Legge forestale del 4 ottobre 1991[^annex2-lvlu1-lvlu1-17] (LFo)</td><td></td></tr>
+<tr><td>XI. Legge forestale del 4 ottobre 1991[^annex2-lvlu1-lvlu1-18] (LFo)</td><td></td></tr>
 <tr><td>11001. Inosservanza delle limitazioni d’accesso a determinate zone forestali (art. 14 cpv. 2 lett. a e 43 cpv. 1 lett. c LFo)</td><td>[tab] 100</td></tr>
 <tr><td>11002. Circolazione non autorizzata con veicoli a motore in foresta o su strade forestali (art. 15 e 43 cpv. 1 lett. d LFo)</td><td>[tab] 100</td></tr>
-<tr><td>XII. Legge del 20 giugno 1986[^annex2-lvlu1-lvlu1-18] sulla caccia (LCP)</td><td></td></tr>
+<tr><td>XII. Legge del 20 giugno 1986[^annex2-lvlu1-lvlu1-19] sulla caccia (LCP)</td><td></td></tr>
 <tr><td>12001. Entrare, senza un motivo sufficiente, in una zona di caccia muniti di un’arma da tiro (art. 18 cpv. 1 lett. b e cpv. 3 LCP)</td><td>[tab] 200</td></tr>
 <tr><td>12002. Lasciare cacciare cani (art. 18 cpv. 1 lett. d e cpv. 3 LCP)</td><td>[tab] 150</td></tr>
-<tr><td>12003. Accedere a o circolare in zone di tranquillità per la selvaggina al di fuori dei percorsi e sentieri utilizzabili (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 4<sup>ter</sup> OCP[^annex2-lvlu1-lvlu1-19])</td><td>[tab] 150</td></tr>
-<tr><td>12004. Inosservanza dell’obbligo di tenere i cani al guinzaglio in zone di tranquillità per la selvaggina, in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. c OBAF[^annex2-lvlu1-lvlu1-20]) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. c ORUAM[^annex2-lvlu1-lvlu1-21])</td><td>[tab] 150</td></tr>
+<tr><td>12003. Accedere a o circolare in zone di tranquillità per la selvaggina al di fuori dei percorsi e sentieri utilizzabili (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 4<sup>ter</sup> OCP[^annex2-lvlu1-lvlu1-20])</td><td>[tab] 150</td></tr>
+<tr><td>12004. Inosservanza dell’obbligo di tenere i cani al guinzaglio in zone di tranquillità per la selvaggina, in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. c OBAF[^annex2-lvlu1-lvlu1-21]) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. c ORUAM[^annex2-lvlu1-lvlu1-22])</td><td>[tab] 150</td></tr>
 <tr><td>12005. Piantare tende o campeggiare in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. e OBAF)</td><td>[tab] 150</td></tr>
 <tr><td>12006. Circolazione di aeromobili civili senza occupanti in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. f<sup>bis</sup> OBAF) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. f<sup>bis</sup> ORUAM)</td><td>[tab] 150</td></tr>
 <tr><td>12007. Attività sciatoria fuori delle strade, delle piste e degli itinerari segnalati in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. g OBAF)</td><td>[tab] 150</td></tr>
@@ -720,43 +723,41 @@ Allegato 2[^t-2]
 <tr><td>12009. Pratica del kitesurf o impiego di attrezzature analoghe come pure pratica del modellismo navale in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. g ORUAM)</td><td>[tab] 150</td></tr>
 <tr><td>12010. Foraggiamento di animali selvatici e posa di lecche saline in bandite federali (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. b<sup>bis</sup> OBAF) e in riserve d’uccelli acquatici e migratori (art. 18 cpv. 1 lett. e e cpv. 3 LCP, art. 5 cpv. 1 lett. b<sup>bis</sup> ORUAM)</td><td>[tab] 150</td></tr>
 <tr><td>12011. Omissione di recare seco i documenti prescritti durante la caccia (art. 18 cpv. 4 LCP) per documento mancante</td><td>[tab] 20</td></tr>
-<tr><td>XIII. Legge federale del 21 giugno 1991[^annex2-lvlu1-lvlu1-22] sulla pesca (LFSP)</td><td></td></tr>
-<tr><td>13001. Pesca di pesci o gamberi durante il periodo protetto (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 1 cpv. 1–3 OLFP[^annex2-lvlu1-lvlu1-23], per pesce o gambero</td><td>[tab] 100</td></tr>
+<tr><td>XIII. Legge federale del 21 giugno 1991[^annex2-lvlu1-lvlu1-23] sulla pesca (LFSP)</td><td></td></tr>
+<tr><td>13001. Pesca di pesci o gamberi durante il periodo protetto (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 1 cpv. 1–3 OLFP[^annex2-lvlu1-lvlu1-24], per pesce o gambero</td><td>[tab] 100</td></tr>
 <tr><td>13002. Inosservanza della lunghezza minima del pescato (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 2 cpv. 1 e 4 OLFP), per pesce o gambero</td><td>[tab] 100</td></tr>
 <tr><td>13003. Inosservanza dei divieti di pesca (art. 17 cpv. 1 lett. a e cpv. 3 LFSP, art. 2*a* OLFP), per pesce o gambero</td><td>[tab] 150</td></tr>
-<tr><td>XIV. Legge federale del 23 marzo 2001[^annex2-lvlu1-lvlu1-24] sul commercio ambulante</td><td></td></tr>
+<tr><td>XIV. Legge federale del 23 marzo 2001[^annex2-lvlu1-lvlu1-25] sul commercio ambulante</td><td></td></tr>
 <tr><td>14001. Esercizio del commercio ambulante senza autorizzazione (art. 14 cpv. 1 lett. b e cpv. 2 della LF sul commercio ambulante)</td><td>[tab] 200</td></tr>
 <tr><td>14002. Offerta di merci o servizi la cui vendita nell’ambito del commercio ambulante infrange limitazioni o divieti (art. 14 cpv. 1 lett. e e cpv. 2 della LF sul commercio ambulante)</td><td>[tab] 200</td></tr>
 <tr><td>14003. Omissione di avere con sé l’autorizzazione mentre si esercita il commercio ambulante (art. 14 cpv. 1 lett. f e cpv. 2 della LF sul commercio ambulante)</td><td>[tab] 20</td></tr>
-<tr><td>XV. ...</td><td></td></tr>
-<tr><td>XVI. ...</td><td>[tab]</td></tr>
-<tr><td>**XVII.** **...**</td><td>[tab]</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^annex2-lvlu1-lvlu1-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^annex2-lvlu1-lvlu1-3]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^annex2-lvlu1-lvlu1-4]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^annex2-lvlu1-lvlu1-5]: O del 16 gen. 1991 sulla protezione della natura e del paesaggio ([RS 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249)).
-[^annex2-lvlu1-lvlu1-6]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex2-lvlu1-lvlu1-7]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
-[^annex2-lvlu1-lvlu1-8]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
-[^annex2-lvlu1-lvlu1-9]: O dell’8 nov. 1978 sulla navigazione interna ([RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)).
-[^annex2-lvlu1-lvlu1-10]: R del 17 mar. 1976 della navigazione sul lago di Costanza ([RS 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338)).
-[^annex2-lvlu1-lvlu1-11]: Disposizioni esecutive del DATEC dell’O sui requisiti per i motori di battelli nelle acque svizzere ([RS 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548)).
-[^annex2-lvlu1-lvlu1-12]: O del 14 ott. 2015 sui requisiti per i motori di battelli nelle acque svizzere ([RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)).
-[^annex2-lvlu1-lvlu1-13]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex2-lvlu1-lvlu1-14]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex2-lvlu1-lvlu1-15]: O del 22 giu. 2005 sul traffico di rifiuti ([RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)).
-[^annex2-lvlu1-lvlu1-16]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
-[^annex2-lvlu1-lvlu1-17]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^annex2-lvlu1-lvlu1-18]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^annex2-lvlu1-lvlu1-19]: O del 29 feb. 1988 sulla caccia ([RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)).
-[^annex2-lvlu1-lvlu1-20]: O del 30 set. 1991 sulle bandite federali ([RS 922.31](https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304)).
-[^annex2-lvlu1-lvlu1-21]: O del 21 gen. 1991 sulle riserve d’importanza internazionale e nazionale d’uccelli acquatici e migratori ([RS 922.32](https://fedlex.data.admin.ch/eli/cc/1991/298_298_298)).
-[^annex2-lvlu1-lvlu1-22]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^annex2-lvlu1-lvlu1-23]: O del 24 nov. 1993 concernente la legge federale sulla pesca ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)).
-[^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^annex2-lvlu1-lvlu1-4]: [RS 311.6](https://fedlex.data.admin.ch/eli/cc/2024/620)
+[^annex2-lvlu1-lvlu1-5]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^annex2-lvlu1-lvlu1-6]: O del 16 gen. 1991 sulla protezione della natura e del paesaggio ([RS 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249)).
+[^annex2-lvlu1-lvlu1-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^annex2-lvlu1-lvlu1-8]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^annex2-lvlu1-lvlu1-9]: [RS 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^annex2-lvlu1-lvlu1-10]: O dell’8 nov. 1978 sulla navigazione interna ([RS 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337)).
+[^annex2-lvlu1-lvlu1-11]: R del 17 mar. 1976 della navigazione sul lago di Costanza ([RS 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338)).
+[^annex2-lvlu1-lvlu1-12]: Disposizioni esecutive del DATEC dell’O sui requisiti per i motori di battelli nelle acque svizzere ([RS 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548)).
+[^annex2-lvlu1-lvlu1-13]: O del 14 ott. 2015 sui requisiti per i motori di battelli nelle acque svizzere ([RS 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731)).
+[^annex2-lvlu1-lvlu1-14]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^annex2-lvlu1-lvlu1-15]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex2-lvlu1-lvlu1-16]: O del 22 giu. 2005 sul traffico di rifiuti ([RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)).
+[^annex2-lvlu1-lvlu1-17]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^annex2-lvlu1-lvlu1-18]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^annex2-lvlu1-lvlu1-19]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^annex2-lvlu1-lvlu1-20]: O del 29 feb. 1988 sulla caccia ([RS 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517)).
+[^annex2-lvlu1-lvlu1-21]: O del 30 set. 1991 sulle bandite federali ([RS 922.31](https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304)).
+[^annex2-lvlu1-lvlu1-22]: O del 21 gen. 1991 sulle riserve d’importanza internazionale e nazionale d’uccelli acquatici e migratori ([RS 922.32](https://fedlex.data.admin.ch/eli/cc/1991/298_298_298)).
+[^annex2-lvlu1-lvlu1-23]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex2-lvlu1-lvlu1-24]: O del 24 nov. 1993 concernente la legge federale sulla pesca ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)).
+[^annex2-lvlu1-lvlu1-25]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
 
 Allegato 3
 

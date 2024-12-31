@@ -4,11 +4,11 @@ title: Ordinaziun dals 16 da schaner 2019 davart las multas disciplinaras (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: rm
-version: 2024-12-09
+version: 2025-01-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20241209/rm/xml/fedlex-data-admin-ch-eli-cc-2019-93-20241209-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20241209/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OMD)
 
-dals 16 da schaner 2019 (versiun dals 9 da december 2024)
+dals 16 da schaner 2019 (versiun dals 1. da schaner 2025 )
 
 Il Cussegl federal svizzer,
 
@@ -86,7 +86,7 @@ Agiunta 1[^t-1]
 
 ## Glista da multas 1
 
-[^t-1]: Rectifitgà tenor la cifra I da l’O dals 20 da matg 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)) e dals 17 da dec. 2021, en vigur dapi il 1. d’avr. 2024 ([AS 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)).
+[^t-1]: Rectifitgà tenor la cifra I da l’O dals 20 da matg 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)), dals 17 da dec. 2021 ([AS 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)) e dals 16 d’oct. 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 606](https://fedlex.data.admin.ch/eli/oc/2024/606)).
 
 ### Surpassaments tenor la Lescha federala dals 19 da december 1958 davart il traffic sin via (LTV)
 
@@ -397,8 +397,8 @@ Agiunta 1[^t-1]
 <tr><td>2. las glischs da tschajera davosvart</td><td colspan="3">40</td></tr>
 <tr><td>3. las glischs da tschertga</td><td colspan="3">40</td></tr>
 <tr><td>4. las glischs da lavur</td><td colspan="3">40</td></tr>
-<tr><td>326. 1. Prestgaudar nunnecessariamain il motor d’in vehichel fermà (art. 33 lit. a ORT)</td><td colspan="3">60</td></tr>
-<tr><td>2. Laschar ir nunnecessariamain il motor d’in vehichel fermà (art. 33 lit. a ORT)</td><td colspan="3">60</td></tr>
+<tr><td>326. 1. Prestgaudar nunnecessariamain il motor d’in vehichel fermà (art. 33 lit. a ORT)</td><td colspan="3">80</td></tr>
+<tr><td>2. Laschar ir nunnecessariamain il motor d’in vehichel fermà (art. 33 lit. a ORT)</td><td colspan="3">80</td></tr>
 <tr><td>327. 1. Utilisar in’autostrada u in’autovia cun ina moto cun ina cilindrada fin 50 cm<sup>3</sup> u cun ina prestaziun fin 4 kW (art. 35 al. 2 ORT)</td><td colspan="2">100</td></tr>
 <tr><td>2. Utilisar in’autostrada u in’autovia cun in auter vehichel a motor che n’è betg admess sin l’autostrada u sin l’autovia (art. 35 al. 1, 2 e 4 ORT)</td><td colspan="3">140</td></tr>
 <tr><td>3. Utilisar in’autostrada u in’autovia cun pneus cun guttas (art. 35 al. 2 ORT)</td><td colspan="3">60</td></tr>
@@ -603,159 +603,163 @@ Agiunta 2[^t-2]
 
 ## Glista da multas 2
 
-[^t-2]: Rectifitgà tenor la correctura dals 19 da nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), cifra 1 da l’agiunta da l’O dals 16 da zer. 2023 davart la taxa da las vias naziunalas ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), cifra II 1 da l’O dals 29 da nov. 2023, en vigur dapi il 1. da schan. 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)) e tenor la correctura dals 9 da dec. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)).
+[^t-2]: Rectifitgà tenor la correctura dals 19 da nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), tenor la cifra 1 da l’agiunta da l’O dals 16 da zer. 2023 davart la taxa da las vias naziunalas ([AS 2023 338](https://fedlex.data.admin.ch/eli/oc/2023/338)), tenor la cifra II 1 da l’O dals 29 da nov. 2023 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)), tenor la correctura dals 9 da dec. 2024 ([AS 2024 752](https://fedlex.data.admin.ch/eli/oc/2024/752)) e tenor la cifra I da l’O dals 6 da nov. 2024, en vigur dapi il 1. da schan. 2025 ([AS 2024 668](https://fedlex.data.admin.ch/eli/oc/2024/668)).
 
 ### Surpassaments tenor ils ulteriurs decrets
 
 <table>
-<tr><th></th><th>fr.</th></tr>
-<tr><td>I. Lescha federala dals 16 da december 2005[^annex2-lvlu1-lvlu1-1] davart las persunas estras e l’integraziun (LEI)</td><td></td></tr>
-<tr><td>1001. Betg resguardar l’obligaziun da cooperar a la procuraziun dals documents da legitimaziun (art. 120 al. 1 lit. e LEI)</td><td>[tab] 100</td></tr>
-<tr><td>II. Lescha d’asil dals 26 da zercladur 1998[^annex2-lvlu1-lvlu1-2] (LAsil)</td><td></td></tr>
-<tr><td>2001. Violar l’obligaziun da dar infurmaziuns, cun refusar da far indicaziuns (art. 116 lit. a LAsil)</td><td>[tab] 200</td></tr>
-<tr><td>III. Lescha federala dals 19 da december 1986[^annex2-lvlu1-lvlu1-3] davart la concurrenza illoiala (LCI)</td><td></td></tr>
-<tr><td>3001. Violar l’obligaziun d’inditgar ils pretschs u ils pretschs da basa (art. 24 al. 1 lit. a ed al. 2 LCI)</td><td>[tab] 200</td></tr>
-<tr><td>IV. Lescha federala dal 1. da fanadur 1966[^annex2-lvlu1-lvlu1-4] davart la protecziun da la natira e da la patria (LPNP)</td><td></td></tr>
-<tr><td>4001. Cleger, chavar ora, strair ora, manar davent, offrir, vender, cumprar u destruir, nunautorisadamain, betg dapli che tschintg plantas selvadias da las spezias che figureschan en l’agiunta 2 da la OPNP[^annex2-lvlu1-lvlu1-5] (art. 24*a* al. 1 lit. b LPNP, art. 20 al. 1 e 5 OPNP)</td><td>[tab] 100</td></tr>
-<tr><td>V. Lescha d’armas dals 20 da zercladur 1997[^annex2-lvlu1-lvlu1-6] (LArm)</td><td></td></tr>
-<tr><td>5001. Betg avair cun sai la permissiun da purtar in’arma (art. 34 al. 1 lit. h LArm)</td><td>[tab] 20</td></tr>
-<tr><td>5002. Transportar armas da fieu senza separar l’arma da la muniziun (art. 34 al. 1 lit. n LArm)</td><td>[tab] 300</td></tr>
-<tr><td>VI. Lescha dals 19 da mars 2010[^annex2-lvlu1-lvlu1-7] davart la taxa da las vias naziunalas (LUVN)</td><td></td></tr>
-<tr><td>6001. Utilisar ina via naziunala d’emprima u da segunda classa senza la vignetta ch’è prescritta per la perioda da taxaziun (art. 14 al. 1 en cumbinaziun cun ils art. 6*a*–7*a* ed 8 LUVN).</td><td>200</td></tr>
-<tr><td>6002. Utilisar ina via naziunala d’emprima u da segunda classa cun ina vignetta collanta ch’è prescritta per la perioda da taxaziun, la quala n’è betg tatgada directamain vi dal vehichel, n’è betg tatgada al lieu prescrit u è donnegiada (art. 14 al. 1 en cumbinaziun cun ils art. 6*a*, 7 ed 8 LUVN).</td><td>200</td></tr>
-<tr><td>VII. Lescha federala dals 3 d’october 1975[^annex2-lvlu1-lvlu1-8] davart la navigaziun interna (LNI)</td><td></td></tr>
-<tr><td>**1.** **Disposiziuns administrativas**</td><td>[tab]</td></tr>
-<tr><td>7100. Betg avair cun sai ils documents prescrits (art. 45 e 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-9], art. 1.06 RNC[^annex2-lvlu1-lvlu1-10])</td><td></td></tr>
-<tr><td>1. Betg avair cun sai il permiss da manischar prescrit u la patenta da navigaziun prescritta (art. 45 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
-<tr><td>2. Betg avair cun sai il document da la bartga u il document d’admissiun (art. 46 LNI, art. 8 ONI, art. 1.06 RNC)</td><td>20</td></tr>
-<tr><td>3. Betg avair cun sai il document davart la regulaziun da la svapur (art. 48 LNI, art. 14 al. 3 DE-OMBast[^annex2-lvlu1-lvlu1-11])</td><td>20</td></tr>
-<tr><td>7101. 1. Annunziar memia tard fatgs che pretendan da midar, da cumplettar, da remplazzar u d’emetter in nov document da legitimaziun u in nov document d’admissiun (art. 48 LNI, art. 85 al. 2 e 98 al. 2 ONI, art. 14.07 RNC)</td><td>[tab] 20</td></tr>
-<tr><td>2. Annunziar memia tard ina midada da domicil al nov domicil svizzer (art. 48 LNI, art. 84 al. 3 ONI, art. 12.07 RNC)</td><td>20</td></tr>
-<tr><td>7102. Manar u surlaschar – senza document da la bartga u document d’admissiun, senza numers d’immatriculaziun u cun fauss numers d’immatriculaziun – ina bartga che stuess avair numers d’immatriculaziun, dentant betg in’assicuranza (art. 48 e 46 LNI, art. 16 al. 1, 92 e 157 ONI, art. 2.01 e 14.01 al. 1 e 4 RNC)</td><td>[tab] 100</td></tr>
-<tr><td>7103. Betg montar ils numers d’immatriculaziun u betg montar ils numers tenor las prescripziuns (art. 48 LNI, art. 16 al. 1 e 17 ONI, art. 2.01 e 2.02 RNC)</td><td>[tab] 40</td></tr>
-<tr><td>7104. Betg inscriver u betg inscriver tenor las prescripziuns bartgas ch’èn pli curtas che 2,50 m, bartgas da riva e bartgas sumegliantas, bartgas a pala, bartgas da cursa da remblar, aissas a vela e kitesurfs sco er ulteriuras bartgas che na ston betg avair numers d’immatriculaziun (art. 48 LNI, art. 16 al. 3 ed art. 163 al. 3 ONI; art. 2.01 al. 1 RNC)</td><td>[tab] 40</td></tr>
-<tr><td>7105. Utilisar u staziunar senza permissiun ina bartga cun lieu da domicil a l’exteriur (art. 46 LNI, art. 105 ONI)</td><td>[tab] 50</td></tr>
-<tr><td>7106. Laschar passar il termin da la controlla posteriura obligatorica da la svapur u da la controlla periodica dal sistem dals filters da particlas per passa 3 mais, dentant per betg pli ditg che 6 mais (art. 48 LNI, art. 17 lit. a cifra 4 OMBast[^annex2-lvlu1-lvlu1-12], art. 8 al. 2 DE-OMBast)</td><td>[tab] 100</td></tr>
-<tr><td>2. Reglas per il staziunament</td><td></td></tr>
-<tr><td>7200. Staziunament</td><td></td></tr>
-<tr><td>1. en il sectur da plantas d’aua, sco channa, schervettas u rosas da l’aua (art. 48 LNI, art. 59 al. 1 ONI)</td><td>100</td></tr>
-<tr><td>2. en passadis stretgs, en chanals ed en il sectur da punts (art. 48 LNI, art. 70 ONI, art. 10.12 RNC)</td><td>100</td></tr>
-<tr><td>7201. Liar la bartga vi da segns da navigaziun (art. 40 al. 1 LNI en cumbinaziun cun l’art. 9 al. 1 ONI u art. 1.08 al. 1 RNC)</td><td>50</td></tr>
-<tr><td>7202. Betg resguardar ils segns da scumond A7 fin A9 tenor l’agiunta 4 ONI u A.4 fin A.6 tenor l’agiunta B RNC (art. 40 al. 1 LNI, art. 36 al. 1 ONI, art. 5.01 al. 1 RNC)</td><td>50</td></tr>
-<tr><td>7203. Laschar passar il temp da staziunament signalisà (art. 40 al. 1 LNI en cumbinaziun cun l’art. 36 al. 1 ONI u art. 5.01 al. 1 RNC)</td><td></td></tr>
-<tr><td>1. fin 2 uras</td><td>40</td></tr>
-<tr><td>2. per passa 2 uras, ma betg pli ditg che 4 uras</td><td>60</td></tr>
-<tr><td>3. per passa 4 uras, ma betg pli ditg che 10 uras</td><td>100</td></tr>
-<tr><td>7204. Staziunar ina bartga ordaifer ina plazza da staziunament permessa durant 24 fin 48 uras, senza ch’insatgi saja a bord (art. 40 al. 1 LNI, art. 59 al. 4 ONI)</td><td>100</td></tr>
-<tr><td>7205. Staziunar nunautorisadamain ina bartga ordaifer in port, in lieu da sbartgar u in’autra installaziun per la navigaziun durant 24 fin 48 uras (art. 40 al. 1 LNI, art. 7.01 al. 1 RNC)</td><td>100</td></tr>
-<tr><td>3. Segns a vista</td><td></td></tr>
-<tr><td>7300. Betg purtar ils segns a vista prescrits u purtar segns a vista scumandads durant il staziunament (art. 40 al. 1 LNI, art. 18, 21 al. 1, 26, 28, 29 e 71 ONI u art. 3.03 e 3.08 RNC)</td><td>100</td></tr>
-<tr><td>7301. Pestga professiunala</td><td></td></tr>
-<tr><td>1. Betg purtar la balla melna u la glisch melna cun metter ora e trair en las raits (art. 40 al. 1 LNI, art. 31 al. 1 ONI)</td><td>50</td></tr>
-<tr><td>2. Purtar la balla melna u la glisch melna ordaifer il temp che las raits vegnan messas ora e tratgas en (art. 40 al. 1 LNI, art. 21 e 31 al. 1 ONI)</td><td>50</td></tr>
-<tr><td>3. Purtar la balla alva ordaifer il temp ch’i vegn pestgà (art. 40 al. 1 LNI, art. 3.03 al. 1 e 3.10 al. 1 RNC)</td><td>50</td></tr>
-<tr><td>7302. Pestga a pertga stratga</td><td></td></tr>
-<tr><td>1. Betg purtar la balla alva durant la pestga a pertga stratga (art. 40 al. 1 LNI, art. 31 al. 2 ONI)</td><td>50</td></tr>
-<tr><td>2. Betg purtar la bandiera alva durant la pestga a pertga stratga (art. 40 al. 1 LNI, art. 3.10 al. 2 RNC)</td><td>50</td></tr>
-<tr><td>3. Purtar la balla alva ordaifer il temp ch’i vegn pestgà a pertga stratga (art. 40 al. 1 LNI, art. 21 e 31 al. 2 ONI)</td><td>50</td></tr>
-<tr><td>4. Purtar la bandiera alva ordaifer il temp ch’i vegn pestgà a pertga stratga (art. 40 al. 1 LNI, art. 3.03 al. 1 e 3.10 al. 2 RNC)</td><td>50</td></tr>
-<tr><td>7303. Betg metter il segn prescrit (lit. «A» dal Cudesch internaziunal da bandieras) cun sfunsar u illuminar en moda inefficazia il segn durant la notg (art. 40 al. 1 LNI, art. 32 ONI, art. 3.13 RNC)</td><td>50</td></tr>
-<tr><td>4. Reglas da navigaziun</td><td></td></tr>
-<tr><td>7401. Betg resguardar la distanza da segirezza envers bartgas prioritaras ed envers bartgas da pestgaders professiunals che portan ils segns prescrits (art. 40 al. 1 LNI, art. 48 ONI, art. 6.06 RNC)</td><td>50</td></tr>
-<tr><td>7402. Navigar en la zona da riva</td><td></td></tr>
-<tr><td>1. Navigar nunautorisadamain en moda longitudinala cun ina bartga a motor entaifer la zona da riva interna u entaifer ina distanza da 150 m da la riva (art. 40 al. 1 LNI, art. 53 al. 1 lit. a ONI, art. 6.11 al. 1 RNC)</td><td>100</td></tr>
-<tr><td>2. Navigar nunautorisadamain en moda longitudinala cun ina bartga a motor entaifer la zona da riva, dentant ordaifer ina distanza da 150 m da la riva (art. 40 al. 1 LNI, art. 6.11 al. 1 RNC)</td><td>50</td></tr>
-<tr><td>3. Surpassar la sveltezza permessa entaifer la zona da riva interna u entaifer ina distanza da 150 m da la riva per betg dapli che 15 km/h (art. 40 al. 1 LNI, art. 53 al. 1 lit. b ONI, art. 6.11 al. 1 RNC)</td><td>150</td></tr>
-<tr><td>4. Surpassar la sveltezza permessa entaifer la zona da riva externa per betg dapli che 15 km/h (art. 40 al. 1 LNI, art. 53 al. 1 lit. b ONI)</td><td>100</td></tr>
-<tr><td>5. Surpassar la sveltezza permessa entaifer la zona da riva, dentant ordaifer ina distanza da 150 m da la riva, per betg dapli che 15 km/h (art. 40 al. 1 LNI, art. 6.11 al. 1 RNC)</td><td>100</td></tr>
-<tr><td>6. Navigar u sa trategnair nunautorisadamain en il sectur dal port (art. 40 al. 1 LNI, art. 52 al. 2 ONI, art. 6.10 al. 3 RNC)</td><td>100</td></tr>
-<tr><td>7. Betg observar la distanza minimala envers zonas da vegetaziun da plantas d’aua, sco channa, schervettas e rosas da l’aua (art. 40 al. 1 LNI, art. 53 al. 3 ONI)</td><td>100</td></tr>
-<tr><td>7403. Navigar sin ina surfatscha d’aua ch’è scumandada per la navigaziun</td><td></td></tr>
-<tr><td>1. cun bartgas a vela u a motor, cun aissas a vela u cun kitesurfs (art. 40 al. 1 LNI, art. 37 al. 1 ONI, art. 5.01 al. 1 ed annexa B RNC)</td><td>100</td></tr>
-<tr><td>2. cun bartgas da remblar, cun bartgas da gumma, cun bartgas a pala u cun bartgas da riva (art. 40 al. 1 LNI, art. 37 al. 1 ONI, art. 5.01 al. 1 ed annexa B RNC)</td><td>50</td></tr>
-<tr><td>7404. Navigar nunautorisadamain sin ina surfatscha d’aua ch’è scumandada per tschertas categorias da bartgas</td><td></td></tr>
-<tr><td>1. cun bartgas a vela u a motor, cun aissas a vela u cun kitesurfs (art. 40 al. 1 LNI, art. 37 al. 2 ONI, art. 5.01 al. 1, annexa B ed art. 16.02 al. 5 RNC)</td><td>100</td></tr>
-<tr><td>2. cun bartgas da remblar, cun bartgas da gumma, cun bartgas a pala u cun bartgas da riva (art. 40 al. 1 LNI, art. 37 al. 2 ONI, art. 5.01 al. 1, annexa B ed art. 16.02 al. 5 RNC)</td><td>50</td></tr>
-<tr><td>7405. Navigar cun bartgas ch’èn pli curtas che 2,50 m, cun bartgas da riva e bartgas sumegliantas u cun autras bartgas che na ston betg avair numers d’immatriculaziun ordaifer la zona da riva interna u en ina distanza da passa 150 m da bartgas accumpagnantas (art. 40 al. 1 LNI en cumbinaziun cun l’art. 42 ONI)</td><td>50</td></tr>
-<tr><td>7406. Ir cun skis nautics u cun urdains sumegliants</td><td></td></tr>
-<tr><td>1. durant uras scumandadas (art. 40 al. 1 LNI, art. 54 al. 1 ONI, art. 6.15 al. 1 RNC)</td><td>100</td></tr>
-<tr><td>2. entaifer la zona da riva externa (art. 40 al. 1 LNI, art. 54 al. 2 ONI)</td><td>100</td></tr>
-<tr><td>3. entaifer la zona da riva, dentant ordaifer ina distanza da 150 m da la riva (art. 40 al. 1 LNI, art. 6.15 al. 2 RNC)</td><td>100</td></tr>
-<tr><td>4. trair suenter a medem temp pli che dus skiunzs nautics u utensils (art. 40 al. 1 LNI, art. 54 al. 5 ONI, art. 6.15 al. 5 RNC)</td><td>100</td></tr>
-<tr><td>5. Trair suenter la suga da vid u utilisar ina suga elastica (art. 40 al. 1 LNI, art. 54 al. 4 ONI, Art. 6.15 al. 4 RNC)</td><td>60</td></tr>
-<tr><td>6. Ir nunautorisadamain cun aquascooters, cun jetbikes e cun corps nudants sumegliants (art. 40 al. 1 LNI, prescripziuns chantunalas u art. 6.15 al. 7 RNC)</td><td>100</td></tr>
-<tr><td>7407. Betg avair cun sai ils objects d’equipament ed ils utensils da salvament prescrits u avair cun sai objects ed utensils en in stadi nunutilisabel (art. 48 LNI, art. 131 al. 2, 134 al. 4 e 134*a* ONI, art. 13.19 e 13.20 RNC)</td><td></td></tr>
-<tr><td>1. per object d’equipament</td><td>[tab] 20</td></tr>
-<tr><td>2. per utensil da salvament</td><td>[tab] 50</td></tr>
-<tr><td>7408. Transportar dapli persunas che quai ch’igl è inditgà sin il document da la bartga (art. 46 LNI, art. 7 al. 1 e 3 ONI, art. 1.05 al. 3 RNC)</td><td>60</td></tr>
-<tr><td>7409. Betg resguardar ils segns da scumond A1 fin A6 ed A10 fin A13 tenor l’agiunta 4 ONI u A.1 fin A.3 ed A.7 fin A.12 tenor l’agiunta B RNC (art. 40 al. 1 LNI, art. 36 al. 1 ONI, art. 5.01 al. 1 RNC)</td><td>100</td></tr>
-<tr><td>7410. Surpassar la sveltezza maximala signalisada u la sveltezza maximala generala sin il Lai da Constanza per betg dapli che 15 km/h (art. 40 al. 1 LNI, art. 36 al. 1 ONI, art. 5.01 e 6.02 RNC)</td><td>100</td></tr>
-<tr><td>7411. Surpassar ina sveltezza maximala generala chantunala per betg dapli che 15 km/h (art. 3 al. 2 ed art. 40 LNI)</td><td>100</td></tr>
-<tr><td>5. Far bogn e sfunsar</td><td></td></tr>
-<tr><td>7501. Far bogn</td><td></td></tr>
-<tr><td>1. ordaifer surfatschas d’aua permessas uffizialmain e marcadas sco talas u ordaifer plazzas per far bogn publicas en in conturn da 100 m enturn entradas da ports ed enturn lieus da sbartgar per las bartgas da passagiers (art. 40 al. 1 LNI, art. 77 al. 1 ONI, art. 11.04 al. 1 RNC)</td><td>50</td></tr>
-<tr><td>2. ordaifer surfatschas d’aua permessas uffizialmain e marcadas sco talas u ordaifer plazzas per far bogn publicas en in conturn da 100 m enturn ulteriuras entradas da ports, sche quai disturba u impedescha la navigaziun (art. 40 al. 1 LNI, art. 77 al. 1 ONI, art. 11.04 al. 1 RNC)</td><td>50</td></tr>
-<tr><td>7502. S’avischinar – sco nudader – nunautorisadamain a bartgas cursantas (art. 40 al. 1 LNI, art. 77 al. 2 ONI, art. 11.04 al. 3 RNC)</td><td>50</td></tr>
-<tr><td>7503. Pratitgar il sport da sfunsar sin las rutas da las bartgas da lingia, en passadis stretgs, tar entradas da ports, en la vischinanza da plazzas da staziunament permessas uffizialmain u en in conturn da 100 m enturn lieus da sbartgar permess uffizialmain per las bartgas da lingia (art. 40 al. 1 LNI en cumbinaziun cun l’art. 77 al. 3 LNI)</td><td>100</td></tr>
-<tr><td>7504. Sfunsar en passadis marcads (art. 40 al. 1 LNI, art. 11.04 al. 2 RNC)</td><td>100</td></tr>
-<tr><td>7505. Betg resguardar il segn da scumond A14 tenor l’agiunta 4 ONI (art. 40 al. 1 LNI en cumbinaziun cun l’art. 36 al. 1 ONI)</td><td>50</td></tr>
-<tr><td>7506. Utilisar nunautorisadamain in scooter da sfunsar (art. 40 al. 1 LNI, art. 54*a* al. 1 e 2 ONI)</td><td>100</td></tr>
-<tr><td>VIII. Lescha da narcotics dals 3 d’october 1951[^annex2-lvlu1-lvlu1-13] (LNarc)</td><td></td></tr>
-<tr><td>8001. Consum intenziunà nunautorisà da narcotics che han effects dal tip da cannabis (art. 19*a* cifra 1 LNarc)</td><td>[tab] 100</td></tr>
-<tr><td>IX. Lescha dals 7 d’october 1983[^annex2-lvlu1-lvlu1-14] davart la protecziun da l’ambient (LPAmb)</td><td></td></tr>
-<tr><td>9001. Utilisar in post da rimnada public per materias reciclablas ordaifer las uras da manaschi prescrittas (art. 61 al. 1 lit. a, art. 12 al. 1 lit. c LPAmb)</td><td>[tab] 50</td></tr>
-<tr><td>9002. Betg avair cun sai il fegl accumpagnant durant il transport da ruments (art. 61 al. 1 lit. k LPAmb, art. 31 al. 4<sup>bis</sup> e 6 OTrR[^annex2-lvlu1-lvlu1-15])</td><td>[tab] 100</td></tr>
-<tr><td>X. Lescha federala dals 3 d’october 2008[^annex2-lvlu1-lvlu1-16] davart la protecziun cunter il fimar passiv</td><td></td></tr>
-<tr><td>10001. Fimar en localitads serradas ch’èn accessiblas al public (art. 2 al. 1, art. 5 al. 1 lit. a da la Lescha federala davart la protecziun cunter il fimar passiv)</td><td>[tab] 80</td></tr>
-<tr><td>XI. Lescha dal guaud dals 4 d’october 1991[^annex2-lvlu1-lvlu1-17] (LG)</td><td></td></tr>
-<tr><td>11001. Betg resguardar las restricziuns d’access en tscherts territoris da guaud (art. 14 al. 2 lit. a ed art. 43 al. 1 lit. c LG)</td><td>[tab] 100</td></tr>
-<tr><td>11002. Charrar nunautorisadamain en il guaud u sin vias forestalas cun vehichels a motor (art. 15 ed art. 43 al. 1 lit. d LG)</td><td>[tab] 100</td></tr>
-<tr><td>XII. Lescha da chatscha dals 20 da zercladur 1986[^annex2-lvlu1-lvlu1-18] (LChP)</td><td></td></tr>
-<tr><td>12001. Entrar, senza motiv suffizient, cun in’arma da fieu en in territori da chatscha (art. 18 al. 1 lit. b ed al. 3 LChP)</td><td>[tab] 200</td></tr>
-<tr><td>12002. Laschar chatschar chauns (art. 18 al. 1 lit. d ed al. 3 LChP)</td><td>[tab] 150</td></tr>
-<tr><td>12003. Entrar u charrar en zonas da paus per animals selvadis ordaifer las rutas e sendas designadas (art. 18 al. 1 lit. e ed al. 3 LChP, art. 4<sup>ter</sup> OChP[^annex2-lvlu1-lvlu1-19])</td><td>[tab] 150</td></tr>
-<tr><td>12004. Betg resguardar l’obligaziun da tegnair ils chauns a la tschinta en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. c OAFS[^annex2-lvlu1-lvlu1-20]) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. c ORUAM[^annex2-lvlu1-lvlu1-21])</td><td>[tab] 150</td></tr>
-<tr><td>12005. Far tenda u campar libramain en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. e OAFS)</td><td>[tab] 150</td></tr>
-<tr><td>12006. Laschar sgular eromobils civils nunequipads en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. f<sup>bis</sup> OAFS) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. f<sup>bis</sup> ORUAM)</td><td>[tab] 150</td></tr>
-<tr><td>12007. Ir cun skis ordaifer pistas, rutas u loipas marcadas en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. g OAFS)</td><td>[tab] 150</td></tr>
-<tr><td>12008. Charrar nunautorisadamain sin vias d’alp e sin vias forestalas sco er utilisar nunautorisadamain vehichels da tut gener ordaifer vias, sendas forestalas e sendas champestras en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. h OAFS)</td><td>[tab] 150</td></tr>
-<tr><td>12009. Utilisar kitesurfs u utensils sumegliants e laschar ir bartgas da model en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. g ORUAM)</td><td>[tab] 150</td></tr>
-<tr><td>12010. Pavlar animals selvadis ed endrizzar salinas en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. b<sup>bis</sup> OAFS) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. b<sup>bis</sup> ORUAM)</td><td>[tab] 150</td></tr>
-<tr><td>12011. Betg avair cun sai durant la chatscha ils documents prescrits (art. 18 al. 4 LChP), per mintga document mancant</td><td>[tab] 20</td></tr>
-<tr><td>XIII. Lescha federala dals 21 da zercladur 1991[^annex2-lvlu1-lvlu1-22] davart la pestga (LFP)</td><td></td></tr>
-<tr><td>13001. Pigliar peschs u giombers durant il temp da schanetg (art. 17 al. 1 lit. a ed al. 3 LFP, art. 1 al. 1–3 OLFP[^annex2-lvlu1-lvlu1-23]), per pesch u giomber</td><td>[tab] 100</td></tr>
-<tr><td>13002. Sutpassar las mesiras minimalas da peschs u da giombers (art. 17 al. 1 lit. a ed al. 3 LFP, art. 2 al. 1 e 4 OLFP), per pesch u giomber</td><td>[tab] 100</td></tr>
-<tr><td>13003. Betg resguardar ils scumonds da pestga (art. 17 al. 1 lit. a ed al. 3 LFP, art. 2*a* OLFP), per pesch u giomber</td><td>[tab] 150</td></tr>
-<tr><td>XIV. Lescha federala dals 23 da mars 2001[^annex2-lvlu1-lvlu1-24] davart il commerzi ambulant</td><td></td></tr>
-<tr><td>14001. Pratitgar il commerzi ambulant senza permissiun (art. 14 al. 1 lit. b ed al. 2 da la Lescha federala davart il commerzi ambulant)</td><td>[tab] 200</td></tr>
-<tr><td>14002. Offrir rauba u servetschs, sche la vendita da questa rauba u da quests servetschs en il commerzi ambulant cuntrafa a restricziuns u a scumonds (art. 14 al. 1 lit. e ed al. 2 da la Lescha federala davart il commerzi ambulant)</td><td>[tab] 200</td></tr>
-<tr><td>14003. Betg avair cun sai la permissiun durant pratitgar il commerzi ambulant (art. 14 al. 1 lit. f ed al. 2 da la Lescha federala davart il commerzi ambulant)</td><td>[tab] 20</td></tr>
+<tr><th></th><th colspan="2">fr.</th></tr>
+<tr><td>I. Lescha federala dals 16 da december 2005[^annex2-lvlu1-lvlu1-1] davart las persunas estras e l’integraziun (LEI)</td><td colspan="2"></td></tr>
+<tr><td>1001. Betg resguardar l’obligaziun da cooperar a la procuraziun dals documents da legitimaziun (art. 120 al. 1 lit. e LEI)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>II. Lescha d’asil dals 26 da zercladur 1998[^annex2-lvlu1-lvlu1-2] (LAsil)</td><td colspan="2"></td></tr>
+<tr><td>2001. Violar l’obligaziun da dar infurmaziuns, cun refusar da far indicaziuns (art. 116 lit. a LAsil)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>III. Lescha federala dals 19 da december 1986[^annex2-lvlu1-lvlu1-3] davart la concurrenza illoiala (LCI)</td><td colspan="2"></td></tr>
+<tr><td>3001. Violar l’obligaziun d’inditgar ils pretschs u ils pretschs da basa (art. 24 al. 1 lit. a ed al. 2 LCI)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>III<sup>bis</sup>. Lescha federala dals 29 da settember 2023[^annex2-lvlu1-lvlu1-4] davart il scumond da cuvrir la fatscha (LSCF)</td><td></td></tr>
+<tr><td>3001<sup>bis</sup>. Cuvrir u zuppentar la fatscha en lieus publics u privats ch’èn accessibels a la publicitad gratuitamain u cunter pajament, senza ch’i saja avant maun in’excepziun tenor l’artitgel 2 alinea 2 LSCF (art. 2 al. 1 e 2 sco er art. 3 al. 1 LSCF)</td><td>100</td></tr>
+<tr><td>3002<sup>bis</sup>. Cuvrir la fatscha senza permissiun en lieus publics (art. 2 al. 1 e 3 sco er art. 3 al. 1 LSCF)</td><td>100</td></tr>
+<tr><td>IV. Lescha federala dal 1. da fanadur 1966[^annex2-lvlu1-lvlu1-5] davart la protecziun da la natira e da la patria (LPNP)</td><td colspan="2"></td></tr>
+<tr><td>4001. Cleger, chavar ora, strair ora, manar davent, offrir, vender, cumprar u destruir, nunautorisadamain, betg dapli che tschintg plantas selvadias da las spezias che figureschan en l’agiunta 2 da la OPNP[^annex2-lvlu1-lvlu1-6] (art. 24*a* al. 1 lit. b LPNP, art. 20 al. 1 e 5 OPNP)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>V. Lescha d’armas dals 20 da zercladur 1997[^annex2-lvlu1-lvlu1-7] (LArm)</td><td colspan="2"></td></tr>
+<tr><td>5001. Betg avair cun sai la permissiun da purtar in’arma (art. 34 al. 1 lit. h LArm)</td><td colspan="2">[tab] 20</td></tr>
+<tr><td>5002. Transportar armas da fieu senza separar l’arma da la muniziun (art. 34 al. 1 lit. n LArm)</td><td colspan="2">[tab] 300</td></tr>
+<tr><td>VI. Lescha dals 19 da mars 2010[^annex2-lvlu1-lvlu1-8] davart la taxa da las vias naziunalas (LUVN)</td><td colspan="2"></td></tr>
+<tr><td>6001. Utilisar ina via naziunala d’emprima u da segunda classa senza la vignetta ch’è prescritta per la perioda da taxaziun (art. 14 al. 1 en cumbinaziun cun ils art. 6*a*–7*a* ed 8 LUVN).</td><td colspan="2">200</td></tr>
+<tr><td>6002. Utilisar ina via naziunala d’emprima u da segunda classa cun ina vignetta collanta ch’è prescritta per la perioda da taxaziun, la quala n’è betg tatgada directamain vi dal vehichel, n’è betg tatgada al lieu prescrit u è donnegiada (art. 14 al. 1 en cumbinaziun cun ils art. 6*a*, 7 ed 8 LUVN).</td><td colspan="2">200</td></tr>
+<tr><td>VII. Lescha federala dals 3 d’october 1975[^annex2-lvlu1-lvlu1-9] davart la navigaziun interna (LNI)</td><td colspan="2"></td></tr>
+<tr><td>**1.** **Disposiziuns administrativas**</td><td colspan="2">[tab]</td></tr>
+<tr><td>7100. Betg avair cun sai ils documents prescrits (art. 45 e 46 LNI, art. 8 ONI[^annex2-lvlu1-lvlu1-10], art. 1.06 RNC[^annex2-lvlu1-lvlu1-11])</td><td colspan="2"></td></tr>
+<tr><td>1. Betg avair cun sai il permiss da manischar prescrit u la patenta da navigaziun prescritta (art. 45 LNI, art. 8 ONI, art. 1.06 RNC)</td><td colspan="2">20</td></tr>
+<tr><td>2. Betg avair cun sai il document da la bartga u il document d’admissiun (art. 46 LNI, art. 8 ONI, art. 1.06 RNC)</td><td colspan="2">20</td></tr>
+<tr><td>3. Betg avair cun sai il document davart la regulaziun da la svapur (art. 48 LNI, art. 14 al. 3 DE-OMBast[^annex2-lvlu1-lvlu1-12])</td><td colspan="2">20</td></tr>
+<tr><td>7101. 1. Annunziar memia tard fatgs che pretendan da midar, da cumplettar, da remplazzar u d’emetter in nov document da legitimaziun u in nov document d’admissiun (art. 48 LNI, art. 85 al. 2 e 98 al. 2 ONI, art. 14.07 RNC)</td><td colspan="2">[tab] 20</td></tr>
+<tr><td>2. Annunziar memia tard ina midada da domicil al nov domicil svizzer (art. 48 LNI, art. 84 al. 3 ONI, art. 12.07 RNC)</td><td colspan="2">20</td></tr>
+<tr><td>7102. Manar u surlaschar – senza document da la bartga u document d’admissiun, senza numers d’immatriculaziun u cun fauss numers d’immatriculaziun – ina bartga che stuess avair numers d’immatriculaziun, dentant betg in’assicuranza (art. 48 e 46 LNI, art. 16 al. 1, 92 e 157 ONI, art. 2.01 e 14.01 al. 1 e 4 RNC)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>7103. Betg montar ils numers d’immatriculaziun u betg montar ils numers tenor las prescripziuns (art. 48 LNI, art. 16 al. 1 e 17 ONI, art. 2.01 e 2.02 RNC)</td><td colspan="2">[tab] 40</td></tr>
+<tr><td>7104. Betg inscriver u betg inscriver tenor las prescripziuns bartgas ch’èn pli curtas che 2,50 m, bartgas da riva e bartgas sumegliantas, bartgas a pala, bartgas da cursa da remblar, aissas a vela e kitesurfs sco er ulteriuras bartgas che na ston betg avair numers d’immatriculaziun (art. 48 LNI, art. 16 al. 3 ed art. 163 al. 3 ONI; art. 2.01 al. 1 RNC)</td><td colspan="2">[tab] 40</td></tr>
+<tr><td>7105. Utilisar u staziunar senza permissiun ina bartga cun lieu da domicil a l’exteriur (art. 46 LNI, art. 105 ONI)</td><td colspan="2">[tab] 50</td></tr>
+<tr><td>7106. Laschar passar il termin da la controlla posteriura obligatorica da la svapur u da la controlla periodica dal sistem dals filters da particlas per passa 3 mais, dentant per betg pli ditg che 6 mais (art. 48 LNI, art. 17 lit. a cifra 4 OMBast[^annex2-lvlu1-lvlu1-13], art. 8 al. 2 DE-OMBast)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>2. Reglas per il staziunament</td><td colspan="2"></td></tr>
+<tr><td>7200. Staziunament</td><td colspan="2"></td></tr>
+<tr><td>1. en il sectur da plantas d’aua, sco channa, schervettas u rosas da l’aua (art. 48 LNI, art. 59 al. 1 ONI)</td><td colspan="2">100</td></tr>
+<tr><td>2. en passadis stretgs, en chanals ed en il sectur da punts (art. 48 LNI, art. 70 ONI, art. 10.12 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>7201. Liar la bartga vi da segns da navigaziun (art. 40 al. 1 LNI en cumbinaziun cun l’art. 9 al. 1 ONI u art. 1.08 al. 1 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>7202. Betg resguardar ils segns da scumond A7 fin A9 tenor l’agiunta 4 ONI u A.4 fin A.6 tenor l’agiunta B RNC (art. 40 al. 1 LNI, art. 36 al. 1 ONI, art. 5.01 al. 1 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>7203. Laschar passar il temp da staziunament signalisà (art. 40 al. 1 LNI en cumbinaziun cun l’art. 36 al. 1 ONI u art. 5.01 al. 1 RNC)</td><td colspan="2"></td></tr>
+<tr><td>1. fin 2 uras</td><td colspan="2">40</td></tr>
+<tr><td>2. per passa 2 uras, ma betg pli ditg che 4 uras</td><td colspan="2">60</td></tr>
+<tr><td>3. per passa 4 uras, ma betg pli ditg che 10 uras</td><td colspan="2">100</td></tr>
+<tr><td>7204. Staziunar ina bartga ordaifer ina plazza da staziunament permessa durant 24 fin 48 uras, senza ch’insatgi saja a bord (art. 40 al. 1 LNI, art. 59 al. 4 ONI)</td><td colspan="2">100</td></tr>
+<tr><td>7205. Staziunar nunautorisadamain ina bartga ordaifer in port, in lieu da sbartgar u in’autra installaziun per la navigaziun durant 24 fin 48 uras (art. 40 al. 1 LNI, art. 7.01 al. 1 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>3. Segns a vista</td><td colspan="2"></td></tr>
+<tr><td>7300. Betg purtar ils segns a vista prescrits u purtar segns a vista scumandads durant il staziunament (art. 40 al. 1 LNI, art. 18, 21 al. 1, 26, 28, 29 e 71 ONI u art. 3.03 e 3.08 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>7301. Pestga professiunala</td><td colspan="2"></td></tr>
+<tr><td>1. Betg purtar la balla melna u la glisch melna cun metter ora e trair en las raits (art. 40 al. 1 LNI, art. 31 al. 1 ONI)</td><td colspan="2">50</td></tr>
+<tr><td>2. Purtar la balla melna u la glisch melna ordaifer il temp che las raits vegnan messas ora e tratgas en (art. 40 al. 1 LNI, art. 21 e 31 al. 1 ONI)</td><td colspan="2">50</td></tr>
+<tr><td>3. Purtar la balla alva ordaifer il temp ch’i vegn pestgà (art. 40 al. 1 LNI, art. 3.03 al. 1 e 3.10 al. 1 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>7302. Pestga a pertga stratga</td><td colspan="2"></td></tr>
+<tr><td>1. Betg purtar la balla alva durant la pestga a pertga stratga (art. 40 al. 1 LNI, art. 31 al. 2 ONI)</td><td colspan="2">50</td></tr>
+<tr><td>2. Betg purtar la bandiera alva durant la pestga a pertga stratga (art. 40 al. 1 LNI, art. 3.10 al. 2 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>3. Purtar la balla alva ordaifer il temp ch’i vegn pestgà a pertga stratga (art. 40 al. 1 LNI, art. 21 e 31 al. 2 ONI)</td><td colspan="2">50</td></tr>
+<tr><td>4. Purtar la bandiera alva ordaifer il temp ch’i vegn pestgà a pertga stratga (art. 40 al. 1 LNI, art. 3.03 al. 1 e 3.10 al. 2 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>7303. Betg metter il segn prescrit (lit. «A» dal Cudesch internaziunal da bandieras) cun sfunsar u illuminar en moda inefficazia il segn durant la notg (art. 40 al. 1 LNI, art. 32 ONI, art. 3.13 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>4. Reglas da navigaziun</td><td colspan="2"></td></tr>
+<tr><td>7401. Betg resguardar la distanza da segirezza envers bartgas prioritaras ed envers bartgas da pestgaders professiunals che portan ils segns prescrits (art. 40 al. 1 LNI, art. 48 ONI, art. 6.06 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>7402. Navigar en la zona da riva</td><td colspan="2"></td></tr>
+<tr><td>1. Navigar nunautorisadamain en moda longitudinala cun ina bartga a motor entaifer la zona da riva interna u entaifer ina distanza da 150 m da la riva (art. 40 al. 1 LNI, art. 53 al. 1 lit. a ONI, art. 6.11 al. 1 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>2. Navigar nunautorisadamain en moda longitudinala cun ina bartga a motor entaifer la zona da riva, dentant ordaifer ina distanza da 150 m da la riva (art. 40 al. 1 LNI, art. 6.11 al. 1 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>3. Surpassar la sveltezza permessa entaifer la zona da riva interna u entaifer ina distanza da 150 m da la riva per betg dapli che 15 km/h (art. 40 al. 1 LNI, art. 53 al. 1 lit. b ONI, art. 6.11 al. 1 RNC)</td><td colspan="2">150</td></tr>
+<tr><td>4. Surpassar la sveltezza permessa entaifer la zona da riva externa per betg dapli che 15 km/h (art. 40 al. 1 LNI, art. 53 al. 1 lit. b ONI)</td><td colspan="2">100</td></tr>
+<tr><td>5. Surpassar la sveltezza permessa entaifer la zona da riva, dentant ordaifer ina distanza da 150 m da la riva, per betg dapli che 15 km/h (art. 40 al. 1 LNI, art. 6.11 al. 1 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>6. Navigar u sa trategnair nunautorisadamain en il sectur dal port (art. 40 al. 1 LNI, art. 52 al. 2 ONI, art. 6.10 al. 3 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>7. Betg observar la distanza minimala envers zonas da vegetaziun da plantas d’aua, sco channa, schervettas e rosas da l’aua (art. 40 al. 1 LNI, art. 53 al. 3 ONI)</td><td colspan="2">100</td></tr>
+<tr><td>7403. Navigar sin ina surfatscha d’aua ch’è scumandada per la navigaziun</td><td colspan="2"></td></tr>
+<tr><td>1. cun bartgas a vela u a motor, cun aissas a vela u cun kitesurfs (art. 40 al. 1 LNI, art. 37 al. 1 ONI, art. 5.01 al. 1 ed annexa B RNC)</td><td colspan="2">100</td></tr>
+<tr><td>2. cun bartgas da remblar, cun bartgas da gumma, cun bartgas a pala u cun bartgas da riva (art. 40 al. 1 LNI, art. 37 al. 1 ONI, art. 5.01 al. 1 ed annexa B RNC)</td><td colspan="2">50</td></tr>
+<tr><td>7404. Navigar nunautorisadamain sin ina surfatscha d’aua ch’è scumandada per tschertas categorias da bartgas</td><td colspan="2"></td></tr>
+<tr><td>1. cun bartgas a vela u a motor, cun aissas a vela u cun kitesurfs (art. 40 al. 1 LNI, art. 37 al. 2 ONI, art. 5.01 al. 1, annexa B ed art. 16.02 al. 5 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>2. cun bartgas da remblar, cun bartgas da gumma, cun bartgas a pala u cun bartgas da riva (art. 40 al. 1 LNI, art. 37 al. 2 ONI, art. 5.01 al. 1, annexa B ed art. 16.02 al. 5 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>7405. Navigar cun bartgas ch’èn pli curtas che 2,50 m, cun bartgas da riva e bartgas sumegliantas u cun autras bartgas che na ston betg avair numers d’immatriculaziun ordaifer la zona da riva interna u en ina distanza da passa 150 m da bartgas accumpagnantas (art. 40 al. 1 LNI en cumbinaziun cun l’art. 42 ONI)</td><td colspan="2">50</td></tr>
+<tr><td>7406. Ir cun skis nautics u cun urdains sumegliants</td><td colspan="2"></td></tr>
+<tr><td>1. durant uras scumandadas (art. 40 al. 1 LNI, art. 54 al. 1 ONI, art. 6.15 al. 1 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>2. entaifer la zona da riva externa (art. 40 al. 1 LNI, art. 54 al. 2 ONI)</td><td colspan="2">100</td></tr>
+<tr><td>3. entaifer la zona da riva, dentant ordaifer ina distanza da 150 m da la riva (art. 40 al. 1 LNI, art. 6.15 al. 2 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>4. trair suenter a medem temp pli che dus skiunzs nautics u utensils (art. 40 al. 1 LNI, art. 54 al. 5 ONI, art. 6.15 al. 5 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>5. Trair suenter la suga da vid u utilisar ina suga elastica (art. 40 al. 1 LNI, art. 54 al. 4 ONI, Art. 6.15 al. 4 RNC)</td><td colspan="2">60</td></tr>
+<tr><td>6. Ir nunautorisadamain cun aquascooters, cun jetbikes e cun corps nudants sumegliants (art. 40 al. 1 LNI, prescripziuns chantunalas u art. 6.15 al. 7 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>7407. Betg avair cun sai ils objects d’equipament ed ils utensils da salvament prescrits u avair cun sai objects ed utensils en in stadi nunutilisabel (art. 48 LNI, art. 131 al. 2, 134 al. 4 e 134*a* ONI, art. 13.19 e 13.20 RNC)</td><td colspan="2"></td></tr>
+<tr><td>1. per object d’equipament</td><td colspan="2">[tab] 20</td></tr>
+<tr><td>2. per utensil da salvament</td><td colspan="2">[tab] 50</td></tr>
+<tr><td>7408. Transportar dapli persunas che quai ch’igl è inditgà sin il document da la bartga (art. 46 LNI, art. 7 al. 1 e 3 ONI, art. 1.05 al. 3 RNC)</td><td colspan="2">60</td></tr>
+<tr><td>7409. Betg resguardar ils segns da scumond A1 fin A6 ed A10 fin A13 tenor l’agiunta 4 ONI u A.1 fin A.3 ed A.7 fin A.12 tenor l’agiunta B RNC (art. 40 al. 1 LNI, art. 36 al. 1 ONI, art. 5.01 al. 1 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>7410. Surpassar la sveltezza maximala signalisada u la sveltezza maximala generala sin il Lai da Constanza per betg dapli che 15 km/h (art. 40 al. 1 LNI, art. 36 al. 1 ONI, art. 5.01 e 6.02 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>7411. Surpassar ina sveltezza maximala generala chantunala per betg dapli che 15 km/h (art. 3 al. 2 ed art. 40 LNI)</td><td colspan="2">100</td></tr>
+<tr><td>5. Far bogn e sfunsar</td><td colspan="2"></td></tr>
+<tr><td>7501. Far bogn</td><td colspan="2"></td></tr>
+<tr><td>1. ordaifer surfatschas d’aua permessas uffizialmain e marcadas sco talas u ordaifer plazzas per far bogn publicas en in conturn da 100 m enturn entradas da ports ed enturn lieus da sbartgar per las bartgas da passagiers (art. 40 al. 1 LNI, art. 77 al. 1 ONI, art. 11.04 al. 1 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>2. ordaifer surfatschas d’aua permessas uffizialmain e marcadas sco talas u ordaifer plazzas per far bogn publicas en in conturn da 100 m enturn ulteriuras entradas da ports, sche quai disturba u impedescha la navigaziun (art. 40 al. 1 LNI, art. 77 al. 1 ONI, art. 11.04 al. 1 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>7502. S’avischinar – sco nudader – nunautorisadamain a bartgas cursantas (art. 40 al. 1 LNI, art. 77 al. 2 ONI, art. 11.04 al. 3 RNC)</td><td colspan="2">50</td></tr>
+<tr><td>7503. Pratitgar il sport da sfunsar sin las rutas da las bartgas da lingia, en passadis stretgs, tar entradas da ports, en la vischinanza da plazzas da staziunament permessas uffizialmain u en in conturn da 100 m enturn lieus da sbartgar permess uffizialmain per las bartgas da lingia (art. 40 al. 1 LNI en cumbinaziun cun l’art. 77 al. 3 LNI)</td><td colspan="2">100</td></tr>
+<tr><td>7504. Sfunsar en passadis marcads (art. 40 al. 1 LNI, art. 11.04 al. 2 RNC)</td><td colspan="2">100</td></tr>
+<tr><td>7505. Betg resguardar il segn da scumond A14 tenor l’agiunta 4 ONI (art. 40 al. 1 LNI en cumbinaziun cun l’art. 36 al. 1 ONI)</td><td colspan="2">50</td></tr>
+<tr><td>7506. Utilisar nunautorisadamain in scooter da sfunsar (art. 40 al. 1 LNI, art. 54*a* al. 1 e 2 ONI)</td><td colspan="2">100</td></tr>
+<tr><td>VIII. Lescha da narcotics dals 3 d’october 1951[^annex2-lvlu1-lvlu1-14] (LNarc)</td><td colspan="2"></td></tr>
+<tr><td>8001. Consum intenziunà nunautorisà da narcotics che han effects dal tip da cannabis (art. 19*a* cifra 1 LNarc)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>IX. Lescha dals 7 d’october 1983[^annex2-lvlu1-lvlu1-15] davart la protecziun da l’ambient (LPAmb)</td><td colspan="2"></td></tr>
+<tr><td>9001. Utilisar in post da rimnada public per materias reciclablas ordaifer las uras da manaschi prescrittas (art. 61 al. 1 lit. a, art. 12 al. 1 lit. c LPAmb)</td><td colspan="2">[tab] 50</td></tr>
+<tr><td>9002. Betg avair cun sai il fegl accumpagnant durant il transport da ruments (art. 61 al. 1 lit. k LPAmb, art. 31 al. 4<sup>bis</sup> e 6 OTrR[^annex2-lvlu1-lvlu1-16])</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>X. Lescha federala dals 3 d’october 2008[^annex2-lvlu1-lvlu1-17] davart la protecziun cunter il fimar passiv</td><td colspan="2"></td></tr>
+<tr><td>10001. Fimar en localitads serradas ch’èn accessiblas al public (art. 2 al. 1, art. 5 al. 1 lit. a da la Lescha federala davart la protecziun cunter il fimar passiv)</td><td colspan="2">[tab] 80</td></tr>
+<tr><td>XI. Lescha dal guaud dals 4 d’october 1991[^annex2-lvlu1-lvlu1-18] (LG)</td><td colspan="2"></td></tr>
+<tr><td>11001. Betg resguardar las restricziuns d’access en tscherts territoris da guaud (art. 14 al. 2 lit. a ed art. 43 al. 1 lit. c LG)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>11002. Charrar nunautorisadamain en il guaud u sin vias forestalas cun vehichels a motor (art. 15 ed art. 43 al. 1 lit. d LG)</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>XII. Lescha da chatscha dals 20 da zercladur 1986[^annex2-lvlu1-lvlu1-19] (LChP)</td><td colspan="2"></td></tr>
+<tr><td>12001. Entrar, senza motiv suffizient, cun in’arma da fieu en in territori da chatscha (art. 18 al. 1 lit. b ed al. 3 LChP)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>12002. Laschar chatschar chauns (art. 18 al. 1 lit. d ed al. 3 LChP)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12003. Entrar u charrar en zonas da paus per animals selvadis ordaifer las rutas e sendas designadas (art. 18 al. 1 lit. e ed al. 3 LChP, art. 4<sup>ter</sup> OChP[^annex2-lvlu1-lvlu1-20])</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12004. Betg resguardar l’obligaziun da tegnair ils chauns a la tschinta en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. c OAFS[^annex2-lvlu1-lvlu1-21]) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. c ORUAM[^annex2-lvlu1-lvlu1-22])</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12005. Far tenda u campar libramain en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. e OAFS)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12006. Laschar sgular eromobils civils nunequipads en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. f<sup>bis</sup> OAFS) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. f<sup>bis</sup> ORUAM)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12007. Ir cun skis ordaifer pistas, rutas u loipas marcadas en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. g OAFS)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12008. Charrar nunautorisadamain sin vias d’alp e sin vias forestalas sco er utilisar nunautorisadamain vehichels da tut gener ordaifer vias, sendas forestalas e sendas champestras en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. h OAFS)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12009. Utilisar kitesurfs u utensils sumegliants e laschar ir bartgas da model en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. g ORUAM)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12010. Pavlar animals selvadis ed endrizzar salinas en asils federals da selvaschina (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. b<sup>bis</sup> OAFS) ed en reservats d’utschels da l’aua e d’utschels migrants (art. 18 al. 1 lit. e ed al. 3 LChP, art. 5 al. 1 lit. b<sup>bis</sup> ORUAM)</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>12011. Betg avair cun sai durant la chatscha ils documents prescrits (art. 18 al. 4 LChP), per mintga document mancant</td><td colspan="2">[tab] 20</td></tr>
+<tr><td>XIII. Lescha federala dals 21 da zercladur 1991[^annex2-lvlu1-lvlu1-23] davart la pestga (LFP)</td><td colspan="2"></td></tr>
+<tr><td>13001. Pigliar peschs u giombers durant il temp da schanetg (art. 17 al. 1 lit. a ed al. 3 LFP, art. 1 al. 1–3 OLFP[^annex2-lvlu1-lvlu1-24]), per pesch u giomber</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>13002. Sutpassar las mesiras minimalas da peschs u da giombers (art. 17 al. 1 lit. a ed al. 3 LFP, art. 2 al. 1 e 4 OLFP), per pesch u giomber</td><td colspan="2">[tab] 100</td></tr>
+<tr><td>13003. Betg resguardar ils scumonds da pestga (art. 17 al. 1 lit. a ed al. 3 LFP, art. 2*a* OLFP), per pesch u giomber</td><td colspan="2">[tab] 150</td></tr>
+<tr><td>XIV. Lescha federala dals 23 da mars 2001[^annex2-lvlu1-lvlu1-25] davart il commerzi ambulant</td><td colspan="2"></td></tr>
+<tr><td>14001. Pratitgar il commerzi ambulant senza permissiun (art. 14 al. 1 lit. b ed al. 2 da la Lescha federala davart il commerzi ambulant)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>14002. Offrir rauba u servetschs, sche la vendita da questa rauba u da quests servetschs en il commerzi ambulant cuntrafa a restricziuns u a scumonds (art. 14 al. 1 lit. e ed al. 2 da la Lescha federala davart il commerzi ambulant)</td><td colspan="2">[tab] 200</td></tr>
+<tr><td>14003. Betg avair cun sai la permissiun durant pratitgar il commerzi ambulant (art. 14 al. 1 lit. f ed al. 2 da la Lescha federala davart il commerzi ambulant)</td><td colspan="2">[tab] 20</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^annex2-lvlu1-lvlu1-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^annex2-lvlu1-lvlu1-3]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
-[^annex2-lvlu1-lvlu1-4]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^annex2-lvlu1-lvlu1-5]: O dals 16 da schan. 1991 davart la protecziun da la natira e da la patria ([SR 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249))
-[^annex2-lvlu1-lvlu1-6]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex2-lvlu1-lvlu1-7]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
-[^annex2-lvlu1-lvlu1-8]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
-[^annex2-lvlu1-lvlu1-9]: O dals 8 da nov. 1978 davart la navigaziun interna ([SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337))
-[^annex2-lvlu1-lvlu1-10]: O dals 17 da mars 1976 davart la navigaziun sin il Lai da Constanza ([SR 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338))
-[^annex2-lvlu1-lvlu1-11]: Disposiziuns executivas dal DATEC dals 28 d’avust 2017 tar l’O davart las exigenzas per ils motors da bartgas sin las auas svizras ([SR 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548))
-[^annex2-lvlu1-lvlu1-12]: O dals 14 d’oct. 2015 davart las exigenzas per ils motors da bartgas sin las auas svizras ([SR 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731))
-[^annex2-lvlu1-lvlu1-13]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex2-lvlu1-lvlu1-14]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^annex2-lvlu1-lvlu1-15]: O dals 22 da zer. 2005 davart il traffic da ruments ([SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551))
-[^annex2-lvlu1-lvlu1-16]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
-[^annex2-lvlu1-lvlu1-17]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^annex2-lvlu1-lvlu1-18]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^annex2-lvlu1-lvlu1-19]: O da chatscha dals 29 da favr. 1988 ([SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517))
-[^annex2-lvlu1-lvlu1-20]: O dals 30 da sett. 1991 davart ils asils federals da selvaschina ([SR 922.31](https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304))
-[^annex2-lvlu1-lvlu1-21]: O dals 21 da schan. 1991 davart ils reservats d’utschels da l’aua e d’utschels migrants d’impurtanza internaziunala e naziunala ([SR 922.32](https://fedlex.data.admin.ch/eli/cc/1991/298_298_298))
-[^annex2-lvlu1-lvlu1-22]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^annex2-lvlu1-lvlu1-23]: O dals 24 da nov. 1993 tar la LF davart la pestga ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
-[^annex2-lvlu1-lvlu1-24]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^annex2-lvlu1-lvlu1-4]: [SR 311.6](https://fedlex.data.admin.ch/eli/cc/2024/620)
+[^annex2-lvlu1-lvlu1-5]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^annex2-lvlu1-lvlu1-6]: O dals 16 da schan. 1991 davart la protecziun da la natira e da la patria ([SR 451.1](https://fedlex.data.admin.ch/eli/cc/1991/249_249_249))
+[^annex2-lvlu1-lvlu1-7]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^annex2-lvlu1-lvlu1-8]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^annex2-lvlu1-lvlu1-9]: [SR 747.201](https://fedlex.data.admin.ch/eli/cc/1976/725_724_724)
+[^annex2-lvlu1-lvlu1-10]: O dals 8 da nov. 1978 davart la navigaziun interna ([SR 747.201.1](https://fedlex.data.admin.ch/eli/cc/1979/337_337_337))
+[^annex2-lvlu1-lvlu1-11]: O dals 17 da mars 1976 davart la navigaziun sin il Lai da Constanza ([SR 747.223.1](https://fedlex.data.admin.ch/eli/cc/1976/1338_1338_1338))
+[^annex2-lvlu1-lvlu1-12]: Disposiziuns executivas dal DATEC dals 28 d’avust 2017 tar l’O davart las exigenzas per ils motors da bartgas sin las auas svizras ([SR 747.201.31](https://fedlex.data.admin.ch/eli/cc/2017/548))
+[^annex2-lvlu1-lvlu1-13]: O dals 14 d’oct. 2015 davart las exigenzas per ils motors da bartgas sin las auas svizras ([SR 747.201.3](https://fedlex.data.admin.ch/eli/cc/2015/731))
+[^annex2-lvlu1-lvlu1-14]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^annex2-lvlu1-lvlu1-15]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex2-lvlu1-lvlu1-16]: O dals 22 da zer. 2005 davart il traffic da ruments ([SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551))
+[^annex2-lvlu1-lvlu1-17]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^annex2-lvlu1-lvlu1-18]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^annex2-lvlu1-lvlu1-19]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^annex2-lvlu1-lvlu1-20]: O da chatscha dals 29 da favr. 1988 ([SR 922.01](https://fedlex.data.admin.ch/eli/cc/1988/517_517_517))
+[^annex2-lvlu1-lvlu1-21]: O dals 30 da sett. 1991 davart ils asils federals da selvaschina ([SR 922.31](https://fedlex.data.admin.ch/eli/cc/1991/2304_2304_2304))
+[^annex2-lvlu1-lvlu1-22]: O dals 21 da schan. 1991 davart ils reservats d’utschels da l’aua e d’utschels migrants d’impurtanza internaziunala e naziunala ([SR 922.32](https://fedlex.data.admin.ch/eli/cc/1991/298_298_298))
+[^annex2-lvlu1-lvlu1-23]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^annex2-lvlu1-lvlu1-24]: O dals 24 da nov. 1993 tar la LF davart la pestga ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
+[^annex2-lvlu1-lvlu1-25]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
 
 Agiunta 3
 
