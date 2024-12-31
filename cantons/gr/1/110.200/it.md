@@ -4,12 +4,12 @@ number: "110.200"
 title: Legge sulla suddivisione del Cantone dei Grigioni in regioni
 language: it
 version: 2016-01-01
-corrected: 2021-06-24
+corrected: 2025-01-01
 version_adopted: 2014-04-23
 adopted: 2014-04-23
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/110.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3129/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3175/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -61,8 +61,8 @@ decide:
   - a) Comuni di Arosa, Churwalden, Coira, Tschiertschen-Praden.
   - b) Capoluogo: Coira
 - 9\. Regione Prättigau/Davos:
-  - a) Comuni di Conters i.P., Davos, Fideris, Furna, Grüsch, Jenaz, Klosters-Serneus, Küblis, Luzein, Schiers, Seewis i.P..
-  - b) Capoluogo: Klosters-Serneus
+  - a) Comuni di Conters i.P., Davos, Fideris, Furna, Grüsch, Jenaz, Klosters, Küblis, Luzein, Schiers, Seewis i.P..
+  - b) Capoluogo: Klosters
 - 10\. Regione Surselva:
   - a) Comuni di Breil/Brigels, Disentis/Mustér, Falera, Ilanz/Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trun, Tujetsch, Vals.
   - b) Capoluogo: Ilanz/Glion

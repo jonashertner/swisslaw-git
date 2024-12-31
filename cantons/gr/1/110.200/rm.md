@@ -4,12 +4,12 @@ number: "110.200"
 title: Lescha davart la divisiun dal chantun Grischun en regiuns
 language: rm
 version: 2016-01-01
-corrected: 2021-06-24
+corrected: 2025-01-01
 version_adopted: 2014-04-23
 adopted: 2014-04-23
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/110.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3129/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3175/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -61,8 +61,8 @@ concluda:
   - a) vischnancas d'Arosa, Cuira, Churwalden, Tschiertschen-Praden.
   - b) Lieu principal: Cuira
 - 9\. Regiun Partenz / Tavau:
-  - a) vischnancas da Claustra-Serneus, Cunter en il Partenz, Fideris, Furna, Grüsch, Jenaz, Küblis, Luzein, Schiers, Seewis, Tavau.
-  - b) Lieu principal: Claustra-Serneus
+  - a) vischnancas da Claustra, Cunter en il Partenz, Fideris, Furna, Grüsch, Jenaz, Küblis, Luzein, Schiers, Seewis, Tavau.
+  - b) Lieu principal: Claustra
 - 10\. Regiun Surselva:
   - a) vischnancas da Breil, Falera, Glion, Laax, Lumnezia, Medel (Lucmagn), Mustér, Sagogn, Schluein, Sumvitg, Sursaissa Mundaun, Trun, Tujetsch, Val S. Pieder, Val Stussavgia.
   - b) Lieu principal: Glion
