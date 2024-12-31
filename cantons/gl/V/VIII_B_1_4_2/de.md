@@ -4,13 +4,12 @@ number: VIII B/1/4/2
 title: Verordnung über die Meldung und Bekämpfung invasiver gebietsfremder Organismen
 short: "Neobiotaverordnung, NBV"
 language: de
-version: 2022-07-01
-valid_until: 2024-12-31
-version_adopted: 2022-06-14
+version: 2025-01-01
+version_adopted: 2024-10-01
 adopted: 2022-06-14
 in_force: 2022-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-B.1.4.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2309/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2506/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2309/pdf_file"
 
 (Neobiotaverordnung, NBV)
 
-Vom 14.06.2022 (Stand 01.07.2022)
+Vom 14.06.2022 (Stand 01.01.2025)
 
 Der Regierungsrat,
 
@@ -130,9 +129,9 @@ erlässt:
 
 <sup>1</sup> An die Kosten der Bekämpfungsmassnahmen von bekämpfungspflichtigen Vorkommen invasiver gebietsfremder Organismen gemäss Anhang 1 richtet der Kanton folgende Beiträge aus:
 
-- a. 30 Franken pro Arbeitsstunde bei Arbeiten, die von Angestellten von Gemeinden, öffentlichen Werken, Korporationen oder beauftragten Unternehmungen ausgeführt werden;
+- a. 20 Franken pro Arbeitsstunde bei Arbeiten, die von Angestellten von Gemeinden, öffentlichen Werken, Korporationen oder beauftragten Unternehmungen ausgeführt werden;
 - b. 10 Franken pro Arbeitsstunde bei Arbeiten, die im Rahmen von Freiwilligeneinsätzen oder von Privaten geleistet werden;
-- c. 30 Franken pro Arbeitstag bei Arbeiten, die von anderen Personen (z. B. Asylsuchenden) ausgeführt werden.
+- c. 20 Franken pro Arbeitstag bei Arbeiten, die von anderen Personen (z. B. Asylsuchenden) ausgeführt werden.
 
 <sup>2</sup> Für die Bekämpfung von im Anhang aufgeführten Arten ausserhalb der bekämpfungspflichtigen Gebiete können auf vorgängiges Gesuch hin Kantonsbeiträge nach Absatz 1 ausgerichtet werden.
 
