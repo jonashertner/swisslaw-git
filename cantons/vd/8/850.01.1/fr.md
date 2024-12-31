@@ -4,7 +4,7 @@ number: "850.01.1"
 title: "RÈGLEMENT du 26.01.2005 d'application de la loi sur l'organisation et le financement de la politique sociale (RLOF)"
 short: RLOF
 language: fr
-version: 2011-04-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.01.1?id=6a22b787-e2cf-4261-9381-8fe922c1b878"
 ---
 
@@ -173,19 +173,19 @@ Lettre l :
 [^8-1]: Loi du 24.11.2003 sur l'organisation et le financement de la politique sociale ([BLV 850.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.01?id=f297eb49-bbd1-467c-8406-c7b66e735f61))
 [^8-2]: Modif. 3 du 15.01.2025: Modification ; entrée en vigueur au 01.01.2025
 
-## Chapitre III Facturation aux communes
+## Chapitre III Participation à la cohésion sociale
 
 [^8-2]
 
 #### Art. 9
 
-**Compétences (Art. 17 LOF) [^chapterChapitreIII-1]**
+**... [^chapterChapitreIII-1]**
 
-<sup>1</sup> La facturation aux communes des dépenses liées à la répartition financière est gérée par le Secrétariat général du département.
+<sup>1</sup> ...
 
-<sup>2</sup> Les communes reçoivent au plus tard le 30 septembre les chiffres provisoires concernant la participation communale aux charges cantonales nettes de l'année suivante, sur la base de la version budgétaire la plus récente adoptée par le Conseil d'Etat.
+<sup>2</sup> ...
 
-[^chapterChapitreIII-1]: Modif. 3 du 15.01.2025: Abrogation tArt; entrée en vigueur au 01.01.2025; Abrogation Al. 1-2; entrée en vigueur au 01.01.2025; Introduction Art. 10a; entrée en vigueur au 01.01.2025
+[^chapterChapitreIII-1]: Modif. 3 du 15.01.2025: Abrogation tArt; entrée en vigueur au 01.01.2025; Abrogation Al. 1-2; entrée en vigueur au 01.01.2025
 
 #### Art. 10
 
@@ -195,20 +195,28 @@ Lettre l :
 
 <sup>2</sup> La contribution globale des communes est déterminée par les dépenses de l'exercice en cours. Le Conseil en est informé.
 
-<sup>3</sup> Les communes versent à l'Etat, en quatre versements trimestriels, les montants pour l'année en cours. Ces versements sont fondés sur le budget voté par le Grand Conseil.
+<sup>3</sup> ...
 
-<sup>4</sup> Le Secrétariat général du département fixe les échéances des versements trimestriels et les communique à temps aux communes.
+<sup>4</sup> ...
 
-<sup>5</sup> Les versements reçus après les échéances sont soumis à un intérêt de retard dont le taux est égal à celui prévu par la loi annuelle d'impôt correspondante. L'intérêt de retard est facturé annuellement avec le décompte final.
+<sup>5</sup> ...
 
-<sup>6</sup> Un calcul de la facture sociale basé sur la réalité des dépenses nettes intervient après le bouclement des comptes et les communes reçoivent alors soit une facture avec le solde à payer soit le remboursement du trop perçu.
+<sup>6</sup> ...
 
-<sup>7</sup> Lors du bouclement des comptes, le service compétent pour la facturation procède aux écritures comptables nécessaires, afin que chaque service puisse inscrire dans ses comptes sa part de recettes relatives à la facture sociale telle que décrite dans le présent règlement.
+<sup>7</sup> Lors du bouclement des comptes, le Secrétariat général du département procède aux écritures comptables nécessaires, afin que chaque service puisse inscrire dans ses comptes sa part de recettes relatives à la participation à la cohésion sociale telle que décrite dans le présent règlement.
 
-[^9-1]: Modif. 3 du 15.01.2025: Abrogation Al. 3-6; entrée en vigueur au 01.01.2025; Modification Al. 7; entrée en vigueur au 01.01.2025; Introduction Art. 10a; entrée en vigueur au 01.01.2025
+[^9-1]: Modif. 3 du 15.01.2025: Abrogation Al. 3-6; entrée en vigueur au 01.01.2025; Modification Al. 7; entrée en vigueur au 01.01.2025
 [^10-1]: Loi du 24.11.2003 sur l'organisation et le financement de la politique sociale ([BLV 850.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.01?id=f297eb49-bbd1-467c-8406-c7b66e735f61))
 
 ## Chapitre IV Dispositions finales
+
+#### Art. 10a
+
+**Dispositions transitoires [^chapterChapitreIV-1]**
+
+<sup>1</sup> Les articles 9 et 10 du présent règlement, dans leur teneur au 1er avril 2011, demeurent applicables pour l'exercice comptable 2024.
+
+[^chapterChapitreIV-1]: Modif. 3 du 15.01.2025: Introduction Art. 10a; entrée en vigueur au 01.01.2025
 
 #### Art. 11
 
