@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "211.431"
-title: Verordnung des Regierungsrates über das Grundbuch- und Notariatswesen
+title: Verordnung über das Grundbuch- und Notariatswesen
 short: GNV
 language: de
-version: 2016-06-01
-valid_until: 2024-12-31
-version_adopted: 2016-01-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-22
 adopted: 1991-12-03
 in_force: 1992-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.431"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2475/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2850/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über das Grundbuch- und Notariatswesen
+# Verordnung über das Grundbuch- und Notariatswesen
 
 GNV
 
 (GNV)
 
-vom 03.12.1991 (Stand 01.06.2016)
+vom 03.12.1991 (Stand 01.01.2025)
 
 ## 1. Allgemeines
 
@@ -43,9 +43,9 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 <sup>1</sup> Die Grundbuchämter und Notariate der Bezirke haben ihren Sitz in Arbon, Frauenfeld, Kreuzlingen, Aadorf und Weinfelden.
 
-<sup>2</sup> Das Grundbuchamt und Notariat Frauenfeld führt eine Aussenstelle in Diessenhofen, und das Grundbuchamt und Notariat Weinfelden führt eine Aussenstelle in Bischofszell.
+<sup>2</sup> Das Grundbuchamt und Notariat Weinfelden führt eine Aussenstelle in Bischofszell.
 
-<sup>3</sup> Die Aussenstellen haben die gleichen Befugnisse wie das Grundbuchamt und Notariat des Bezirks. Sie führen Beglaubigungen, öffentliche Beurkundungen und Beratungen durch.
+<sup>3</sup> Die Aussenstelle hat die gleichen Befugnisse wie das Grundbuchamt und Notariat des Bezirks. Sie führt Beglaubigungen, öffentliche Beurkundungen und Beratungen durch.
 
 #### § 3
 
@@ -103,11 +103,11 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 <sup>1</sup> Die Urkunde hat zu enthalten:
 
-- 1\. die Bezeichnung der Beteiligten;
-- 2\. die Beschreibung des zu beurkundenden Geschäfts;
-- 3\. den Ort und das Datum der Errichtung;
-- 4\. die Unterschriften der Beteiligten;
-- 5\. die Beurkundungserklärung der Urkundsperson sowie deren Unterschrift.
+- 1\. die Bezeichnung der Beteiligten
+- 2\. die Beschreibung des zu beurkundenden Geschäfts
+- 3\. den Ort und das Datum der Errichtung
+- 4\. die Unterschriften der Beteiligten
+- 5\. die Beurkundungserklärung der Urkundsperson sowie deren Unterschrift
 
 <sup>2</sup> Die beteiligten natürlichen Personen sind mit Name, Vorname, Geburtsdatum, Bürgerort und Wohnadresse aufzuführen.
 
@@ -297,9 +297,7 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 **Altrechtliche Pfandurkunden**
 
-<sup>1</sup> Sofern keine andere Form verlangt wird, sind altrechtliche Pfandtitel im Sinne von § 77 EG ZGB[^30-1] als Namenschuldbriefe umzuschreiben und auszufertigen.
-
-[^30-1]: RB [210.1](https://www.rechtsbuch.tg.ch/data/210.1/de)
+<sup>1</sup> Sofern keine andere Form verlangt wird, sind altrechtliche Pfandtitel im Sinne von § 77 EG ZGB als Namenschuldbriefe umzuschreiben und auszufertigen.
 
 #### § 31
 
@@ -341,12 +339,12 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 <sup>1</sup> Die folgenden Eigentumsübertragungen von Grundstücken sind nicht zu veröffentlichen:
 
-- 1\. kleine Flächen bis zu 200 m² ohne Gebäude;
-- 2\. Mit- oder Gesamteigentumsanteile von höchstens 20 Prozent;
-- 3\. kleine Einheiten im Stockwerkeigentum, wie Garageboxen, Abstellplätze, Bastelräume und ähnliches sowie geringfügige Wertquotenänderungen;
-- 4\. Landabtretungen für Strassenkorrektion ohne Gebäude;
-- 5\. Landumlegungen.
-- 6\. Handänderungen infolge Güter- und Erbrecht.
+- 1\. kleine Flächen bis zu 200 m² ohne Gebäude
+- 2\. Mit- oder Gesamteigentumsanteile von höchstens 20 Prozent
+- 3\. kleine Einheiten im Stockwerkeigentum, wie Garageboxen, Abstellplätze, Bastelräume und ähnliches sowie geringfügige Wertquotenänderungen
+- 4\. Landabtretungen für Strassenkorrektion ohne Gebäude
+- 5\. Landumlegungen
+- 6\. Handänderungen infolge Güter- und Erbrecht
 
 #### § 34b
 
@@ -358,11 +356,13 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 <sup>3</sup> Das Grundbuchamt eröffnet die Verzeichnisse den Berechtigten und Belasteten aus den zu bereinigenden Dienstbarkeiten sowie Vor- und Anmerkungen und teilt mit, dass die Bereinigung erfolgt, sofern nicht innert 30 Tagen beim Grundbuchamt schriftlich und begründet Einsprache erhoben wird.
 
-<sup>4</sup> Wird keine Einsprache erhoben, bereinigt das Grundbuchamt die Dienstbarkeiten sowie Vor- und Anmerkungen von Amtes wegen ohne weitere Mitteilung. Wird Einsprache erhoben, gilt das Verfahren nach Art. 976b ZGB sinngemäss. Das Grundbuchamt kann Einspracheverhandlungen durchführen.
+<sup>4</sup> Wird keine Einsprache erhoben, bereinigt das Grundbuchamt die Dienstbarkeiten sowie Vor- und Anmerkungen von Amtes wegen ohne weitere Mitteilung. Wird Einsprache erhoben, gilt das Verfahren nach Art. 976b des Schweizerischen Zivilgesetzbuches (ZGB)[^34b-1] sinngemäss. Das Grundbuchamt kann Einspracheverhandlungen durchführen.
 
 <sup>5</sup> Nach Abschluss des Verfahrens löscht das Grundbuchamt die Anmerkung der Anordnung auf den betroffenen Grundstücken von Amtes wegen.
 
 <sup>6</sup> Die Kosten für die Anordnung und die Durchführung des Bereinigungsverfahrens trägt der Kanton.
+
+[^34b-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 ### 3.2. Einführung des eidgenössischen Grundbuches
 
@@ -380,11 +380,9 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 **Aufruf**
 
-<sup>1</sup> Nach Anordnung der Grundbucheinführung (§ 73 EG ZGB[^36-1]) und Erstellung allfälliger Güterzettel erlässt das Grundbuchamt einen öffentlichen Aufruf, mit dem die Grundeigentümer aufgefordert werden, nicht eingetragene Rechtsverhältnisse an Grundstücken sowie Änderungen und Löschungen eingetragener Rechte und Lasten beim Grundbuchamt schriftlich anzumelden. Die Frist zur Anmeldung beträgt drei bis sechs Monate.
+<sup>1</sup> Nach Anordnung der Grundbucheinführung (§ 73 EG ZGB) und Erstellung allfälliger Güterzettel erlässt das Grundbuchamt einen öffentlichen Aufruf, mit dem die Grundeigentümer aufgefordert werden, nicht eingetragene Rechtsverhältnisse an Grundstücken sowie Änderungen und Löschungen eingetragener Rechte und Lasten beim Grundbuchamt schriftlich anzumelden. Die Frist zur Anmeldung beträgt drei bis sechs Monate.
 
 <sup>2</sup> Der Aufruf wird im kantonalen Amtsblatt und in den amtlichen Publikationsorganen der Gemeinde veröffentlicht. Er ist vor Ablauf eines Monats zu wiederholen. Vom erstmaligen Aufruf ist den Grundeigentümern oder ihren Vertretern ein Separatabdruck zuzustellen.
-
-[^36-1]: RB [210.1](https://www.rechtsbuch.tg.ch/data/210.1/de)
 
 #### § 37
 
@@ -392,11 +390,11 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 <sup>1</sup> Die Anmeldung hat zu enthalten:
 
-- 1\. die Umschreibung des Anspruchs;
-- 2\. die Angabe des Rechtstitels, auf den sich der Anspruch stützt, oder im Falle seines Fehlens die Angabe, seit wann das Recht nachweisbar ausgeübt wird;
-- 3\. die Nennung des belasteten und des berechtigten Grundstückes oder der berechtigten Person;
-- 4\. die Angabe über den mutmasslichen Gesamtwert bei einer Grundlast;
-- 5\. die Unterschrift des Ansprechers.
+- 1\. die Umschreibung des Anspruchs
+- 2\. die Angabe des Rechtstitels, auf den sich der Anspruch stützt, oder im Falle seines Fehlens die Angabe, seit wann das Recht nachweisbar ausgeübt wird
+- 3\. die Nennung des belasteten und des berechtigten Grundstückes oder der berechtigten Person
+- 4\. die Angabe über den mutmasslichen Gesamtwert bei einer Grundlast
+- 5\. die Unterschrift des Ansprechers
 
 #### § 38
 
@@ -428,9 +426,9 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 <sup>1</sup> Im kantonalen Grundbuch sind von Amtes wegen zu löschen:
 
-- 1\. befristete Dienstbarkeiten und Grundlasten zufolge Zeitablaufes;
-- 2\. Nutzniessungen und Wohnrechte zufolge Ablebens des Berechtigten;
-- 3\. Vormerkungen gemäss den Vorschriften der eidgenössischen Verordnung betreffend das Grundbuch (Art. 72 und Art. 76)[^42-1].
+- 1\. befristete Dienstbarkeiten und Grundlasten zufolge Zeitablaufes
+- 2\. Nutzniessungen und Wohnrechte zufolge Ablebens des Berechtigten
+- 3\. Vormerkungen gemäss den Vorschriften der eidgenössischen Verordnung betreffend das Grundbuch (Art. 72 und Art. 76)[^42-1]
 
 <sup>2</sup> Im Verfahren ist darauf hinzuwirken, dass Eintragungen, die offensichtlich überflüssig sind oder jede rechtliche Bedeutung verloren haben, gelöscht werden.
 
@@ -450,9 +448,7 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 **Publikation**
 
-<sup>1</sup> Die öffentliche Bekanntmachung des Abschlusses der Vorarbeiten (§ 76 EG ZGB[^44-1]) erfolgt im kantonalen Amtsblatt und in den Publikationsorganen, in denen der Aufruf vor Beginn der Bereinigungsarbeiten veröffentlicht worden ist.
-
-[^44-1]: RB [210.1](https://www.rechtsbuch.tg.ch/data/210.1/de)
+<sup>1</sup> Die öffentliche Bekanntmachung des Abschlusses der Vorarbeiten (§ 76 EG ZGB) erfolgt im kantonalen Amtsblatt und in den Publikationsorganen, in denen der Aufruf vor Beginn der Bereinigungsarbeiten veröffentlicht worden ist.
 
 #### § 45
 
@@ -480,11 +476,9 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 **Stiftungen**
 
-<sup>1</sup> Die Errichtung einer Stiftung (Art. 80 folgende und Art. 335 ZGB[^47-1]) bedarf der Beurkundung als Willenserklärung.
+<sup>1</sup> Die Errichtung einer Stiftung (Art. 80 folgende und Art. 335 ZGB) bedarf der Beurkundung als Willenserklärung.
 
 <sup>2</sup> In der Stiftungsurkunde sind Art und Umfang des Vermögens anzugeben und der Stiftungszweck ist zu umschreiben. Über die Organisation sind in der Urkunde mindestens die wesentlichen Grundsätze festzulegen. Nötigenfalls ist auf die Eintragungspflicht der Stiftung im Handelsregister hinzuweisen.
-
-[^47-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### § 48
 
@@ -508,12 +502,9 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 **Inventar**
 
-<sup>1</sup> Die Beurkundung eines Inventars über die Vermögenswerte der Ehegatten (Art. 195a ZGB[^50-1]) oder der Partnerinnen oder Partner in eingetragener Partnerschaft (Art. 20 Partnerschaftsgesetz[^50-2]) erfolgt auch dann als Willenserklärung, wenn die Urkundsperson das Inventar selber aufnimmt.
+<sup>1</sup> Die Beurkundung eines Inventars über die Vermögenswerte der Ehegatten (Art. 195a ZGB) oder der Partnerinnen oder Partner in eingetragener Partnerschaft (Art. 20 Partnerschaftsgesetz) erfolgt auch dann als Willenserklärung, wenn die Urkundsperson das Inventar selber aufnimmt.
 
 <sup>2</sup> Die Urkundsperson hat darauf hinzuwirken, dass die Vermögenswerte in der Regel nach Zahl, Art und Wert der Gegenstände aufgenommen werden.
-
-[^50-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
-[^50-2]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de)
 
 #### § 51
 
@@ -569,7 +560,7 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 **Form**
 
-<sup>1</sup> Die Bürgschaftserklärung natürlicher Personen (Art. 493 Abs. 2 OR[^57-1]) ist als Willenserklärung zu beurkunden.
+<sup>1</sup> Die Bürgschaftserklärung natürlicher Personen (Art. 493 Abs. 2 des Obligationenrechts, OR[^57-1]) ist als Willenserklärung zu beurkunden.
 
 [^57-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
@@ -667,10 +658,10 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 <sup>1</sup> Beim Notariat können aufbewahrt werden:
 
-- 1\. öffentliche letztwillige Verfügungen (Art. 499 folgende ZGB);
-- 2\. eigenhändige letztwillige Verfügungen (Art. 505 ZGB);
-- 3\. vom Einzelrichter des Bezirksgerichts entgegengenommene mündliche Verfügungen (Art. 506 und Art. 507 ZGB);
-- 4\. Erbverträge (Art. 512 folgende ZGB);
+- 1\. öffentliche letztwillige Verfügungen (Art. 499 folgende ZGB)
+- 2\. eigenhändige letztwillige Verfügungen (Art. 505 ZGB)
+- 3\. vom Einzelrichter des Bezirksgerichts entgegengenommene mündliche Verfügungen (Art. 506 und Art. 507 ZGB)
+- 4\. Erbverträge (Art. 512 folgende ZGB)
 
 <sup>2</sup> Wird dem Amt eine eigenhändige letztwillige Verfügung offen zur Aufbewahrung übergeben, hat der Notar im Einvernehmen mit dem Verfügenden zu prüfen, ob die gesetzlich vorgeschriebenen Formvorschriften erfüllt sind.
 
@@ -718,14 +709,14 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 <sup>2</sup> Über die Eröffnung ist ein Protokoll zu erstellen. Dieses hat zu enthalten:
 
-- 1\. den Ort und die Zeit der Eröffnung;
-- 2\. das Verzeichnis der eingeladenen Erben;
-- 3\. die Erwähnung der anwesenden und vertretenen Erben;
-- 4\. die Bezeichnung der eröffneten Verfügung, allenfalls mit kurzer Inhaltsangabe und Beurteilung;
-- 5\. den Hinweis auf die den Erben zustehenden Klagerechte (Art. 519 folgende ZGB;
-- 6\. den Hinweis auf den persönlichen Anspruch des Vermächtnisnehmers gegenüber gesetzlichen oder eingesetzten Erben (Art. 562 ZGB);
-- 7\. den Hinweis auf ein Willensvollstreckermandat;
-- 8\. allfällige Erklärungen anwesender Erben über die Anerkennung oder Nichtanerkennung der eröffneten Verfügung.
+- 1\. den Ort und die Zeit der Eröffnung
+- 2\. das Verzeichnis der eingeladenen Erben
+- 3\. die Erwähnung der anwesenden und vertretenen Erben
+- 4\. die Bezeichnung der eröffneten Verfügung, allenfalls mit kurzer Inhaltsangabe und Beurteilung
+- 5\. den Hinweis auf die den Erben zustehenden Klagerechte (Art. 519 folgende ZGB
+- 6\. den Hinweis auf den persönlichen Anspruch des Vermächtnisnehmers gegenüber gesetzlichen oder eingesetzten Erben (Art. 562 ZGB)
+- 7\. den Hinweis auf ein Willensvollstreckermandat
+- 8\. allfällige Erklärungen anwesender Erben über die Anerkennung oder Nichtanerkennung der eröffneten Verfügung
 
 <sup>3</sup> Das Protokoll ist vom Notar und den anwesenden Erben oder Vertretern zu unterzeichnen. Letzteren ist eine beglaubigte Kopie der Verfügung und eine Kopie des Protokolls zu übergeben.
 
@@ -979,10 +970,6 @@ vom 03.12.1991 (Stand 01.06.2016)
 
 #### § 106
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt nach der Genehmigung durch den Bund auf den 1. Juni 1992 in Kraft[^106-1].
-
-[^106-1]: Vom Bund genehmigt.
+**…**
 
 ABl. 6/1992
