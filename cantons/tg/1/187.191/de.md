@@ -3,22 +3,21 @@ canton: TG
 number: "187.191"
 title: Verordnung des Evangelischen Kirchenrates des Kantons Thurgau über die Verwaltung und das Rechnungswesen
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-11-20
+version: 2025-01-01
+version_adopted: 2024-09-24
 adopted: 2017-10-04
 in_force: 2018-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.191"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2042/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2848/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung des Evangelischen Kirchenrates des Kantons Thurgau über die Verwaltung und das Rechnungswesen
 
-V des evang. Kirchenrates - Verwaltung und Rechnungswesen
+Verordnung Kirchenrat – Verwaltung und Rechnungswesen
 
-vom 04.10.2017 (Stand 01.01.2020)
+vom 04.10.2017 (Stand 01.01.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -80,9 +79,9 @@ vom 04.10.2017 (Stand 01.01.2020)
 
 <sup>2</sup> Es gelten folgende Aktivierungsgrenzen:
 
-- 1\. Investitionsausgaben bis Fr. 25'000 werden der Erfolgsrechnung belastet.
-- 2\. Beträge ab Fr. 100'000 sind der Investitionsrechnung zuzuweisen.
-- 3\. Für Beträge zwischen Fr. 25'000 und Fr. 100'000 ist der Ertrag von einem Steuerprozent der Kirchgemeinde massgebend.
+- 1\. Investitionsausgaben bis Fr. 25'000 werden der Erfolgsrechnung belastet
+- 2\. Beträge ab Fr. 100'000 sind der Investitionsrechnung zuzuweisen
+- 3\. Für Beträge zwischen Fr. 25'000 und Fr. 100'000 ist der Ertrag von einem Steuerprozent der Kirchgemeinde massgebend
 
 <sup>3</sup> Die Investitionsrechnung wird Ende Jahr durch Aktivierung beziehungsweise Passivierung über die Bilanz abgeschlossen.
 
@@ -118,11 +117,11 @@ vom 04.10.2017 (Stand 01.01.2020)
 
 <sup>1</sup> Der Finanzplan enthält mindestens:
 
-- 1\. die Rahmenbedingungen;
-- 2\. einen Überblick über Aufwand und Ertrag der Erfolgsrechnung;
-- 3\. eine Übersicht über die Investitionen;
-- 4\. den voraussichtlichen Finanzbedarf;
-- 5\. eine Übersicht über die Entwicklung des Vermögens und der Schulden.
+- 1\. die Rahmenbedingungen
+- 2\. einen Überblick über Aufwand und Ertrag der Erfolgsrechnung
+- 3\. eine Übersicht über die Investitionen
+- 4\. den voraussichtlichen Finanzbedarf
+- 5\. eine Übersicht über die Entwicklung des Vermögens und der Schulden
 
 #### § 13
 
@@ -144,8 +143,8 @@ vom 04.10.2017 (Stand 01.01.2020)
 
 <sup>1</sup> Das Budget enthält:
 
-- 1\. zu bewilligende Aufwände und erwartete Erträge in der Erfolgsrechnung;
-- 2\. zu bewilligende Ausgaben und erwartete Einnahmen in der Investitionsrechnung.
+- 1\. zu bewilligende Aufwände und erwartete Erträge in der Erfolgsrechnung
+- 2\. zu bewilligende Ausgaben und erwartete Einnahmen in der Investitionsrechnung
 
 <sup>2</sup> Mit dem Budget ist die Kirchgemeindeversammlung beziehungsweise die Synode über die Finanzierung und die wesentlichen Veränderungen gegenüber dem letzten Budget und der Rechnung des Vorjahres zu informieren.
 
@@ -247,10 +246,10 @@ vom 04.10.2017 (Stand 01.01.2020)
 
 <sup>2</sup> Zu den Finanzkennzahlen gehören insbesondere:
 
-- 1\. Selbstfinanzierungsgrad;
-- 2\. Zinsbelastungsanteil;
-- 3\. Nettoschuld/Nettovermögen pro Mitglied;
-- 4\. Nettoverschuldungsquotient.
+- 1\. Selbstfinanzierungsgrad
+- 2\. Zinsbelastungsanteil
+- 3\. Nettoschuld/Nettovermögen pro Mitglied
+- 4\. Nettoverschuldungsquotient
 
 <sup>3</sup> Die Kennzahlen können gesamtschweizerischen Entwicklungen und kirchlichen Empfehlungen angepasst werden.
 
@@ -366,10 +365,10 @@ vom 04.10.2017 (Stand 01.01.2020)
 
 <sup>1</sup> Die Jahresrechnung enthält die folgenden Elemente:
 
-- 1\. Bilanz;
-- 2\. Erfolgsrechnung;
-- 3\. Investitionsrechnung;
-- 4\. Anhang.
+- 1\. Bilanz
+- 2\. Erfolgsrechnung
+- 3\. Investitionsrechnung
+- 4\. Anhang
 
 <sup>2</sup> Im Anhang sind insbesondere der Eigenkapitalnachweis, der Beteiligungs- und Gewährleistungsspiegel, der Anlagespiegel, die Grundsätze der Rechnungslegung und zusätzliche Angaben, die für die finanzielle Beurteilung von Bedeutung sind, aufzuführen.
 
@@ -517,12 +516,12 @@ vom 04.10.2017 (Stand 01.01.2020)
 <sup>1</sup> Die Haushaltkontrolle erfolgt:
 
 - 1\. für die Kirchgemeinderechnung durch:
-  - 1\.1 die Kirchenvorsteherschaft;
-  - 1\.2 die Rechnungsprüfungskommission;
-  - 1\.3 das Revisorat des Kirchenrates, bestehend aus dem Präsidium und dem Quästorat.
-- 2\. für die Rechnung der Landeskirche durch:
-  - 2\.1 den Kirchenrat;
-  - 2\.2 die Geschäftsprüfungskommission der Synode.
+  - 1\.1 die Kirchenvorsteherschaft
+  - 1\.2 die Rechnungsprüfungskommission
+  - 1\.3 das Revisorat des Kirchenrates, bestehend aus dem Präsidium und dem Quästorat
+- 2\. für die Rechnung der Landeskirche durch
+  - 2\.1 den Kirchenrat
+  - 2\.2 die Geschäftsprüfungskommission der Synode
 
 #### § 55
 
@@ -556,17 +555,17 @@ vom 04.10.2017 (Stand 01.01.2020)
 
 <sup>1</sup> Zur Prüfung gehören insbesondere:
 
-- 1\. die Einhaltung des Budgets und der Finanzkompetenzen;
-- 2\. die Einhaltung der rechtlichen Bestimmungen betreffend Aktivierungen;
-- 3\. die Einhaltung der rechtlichen Bestimmungen betreffend Abschreibungen;
-- 4\. die Einhaltung des Kontenplans;
-- 5\. die Belegordnung;
-- 6\. die rechnerische Richtigkeit der Belege und der Jahresrechnung;
-- 7\. der Bestand und die Vollständigkeit der Aktiven und Passiven;
-- 8\. die Ordnungsmässigkeit der Bewertung;
-- 9\. die Wirtschaftlichkeit der Aufgabenerfüllung;
-- 10\. die Einhaltung der Druckfassung von Budget und Rechnung;
-- 11\. die Einhaltung der im Revisionsprotokoll vermerkten Änderungen.
+- 1\. die Einhaltung des Budgets und der Finanzkompetenzen
+- 2\. die Einhaltung der rechtlichen Bestimmungen betreffend Aktivierungen
+- 3\. die Einhaltung der rechtlichen Bestimmungen betreffend Abschreibungen
+- 4\. die Einhaltung des Kontenplans
+- 5\. die Belegordnung
+- 6\. die rechnerische Richtigkeit der Belege und der Jahresrechnung
+- 7\. der Bestand und die Vollständigkeit der Aktiven und Passiven
+- 8\. die Ordnungsmässigkeit der Bewertung
+- 9\. die Wirtschaftlichkeit der Aufgabenerfüllung
+- 10\. die Einhaltung der Druckfassung von Budget und Rechnung
+- 11\. die Einhaltung der im Revisionsprotokoll vermerkten Änderungen
 
 <sup>2</sup> Die Rechnungsprüfungskommission der Kirchgemeinde kann zur Prüfung der Jahresrechnung Experten beiziehen.
 
@@ -592,13 +591,21 @@ vom 04.10.2017 (Stand 01.01.2020)
 
 **Revisorat des Kirchenrates**
 
-<sup>1</sup> Die Rechnungen der Kirchgemeinden sind nach der Genehmigung durch die Kirchgemeinde dem Revisorat des Kirchenrates zur Prüfung einzureichen.
+<sup>1</sup> Das Revisorat des Kirchenrates prüft die Rechnungen der Kirchgemeinden nach der Genehmigung durch die Kirchgemeinde stichprobenweise.
 
-<sup>2</sup> Der Kirchenrat bezeichnet die Unterlagen, die zusammen mit der Rechnung zur Prüfung eingereicht werden müssen.
+<sup>2</sup> Die für die Stichproben ausgewählten Kirchgemeinden reichen dem Kirchenrat die Rechnungen zur Prüfung ein.
 
-<sup>3</sup> Das Revisorat nimmt eine formelle Prüfung der Rechnungen vor. Nicht geprüft werden namentlich die rechnerische Richtigkeit der Belege und der Jahresrechnung, die Belegordnung und die Richtigkeit der Kontenverbuchungen. Ebenso findet keine Beurteilung bezüglich Angemessenheit, Wirtschaftlichkeit und Richtigkeit von Finanzbewegungen statt.
+<sup>3</sup> Der Kirchenrat bezeichnet die Unterlagen, die zusammen mit der Rechnung zur Prüfung eingereicht werden müssen.
 
-<sup>4</sup> Stellt das Revisorat Unkorrektheiten fest, übergibt es die Angelegenheit dem Kirchenrat, der Weisungen erteilen und nötigenfalls Berichtigungen veranlassen kann.
+<sup>4</sup> …
+
+#### § 61a
+
+**Durchführung**
+
+<sup>1</sup> Das Revisorat nimmt eine formelle Prüfung der Rechnungen vor. Nicht geprüft werden namentlich die rechnerische Richtigkeit der Belege und der Jahresrechnung, die Belegordnung und die Richtigkeit der Kontenverbuchungen. Ebenso findet keine Beurteilung bezüglich Angemessenheit, Wirtschaftlichkeit und Richtigkeit von Finanzbewegungen statt.
+
+<sup>2</sup> Stellt das Revisorat Unkorrektheiten fest, übergibt es die Angelegenheit dem Kirchenrat, der Weisungen erteilen und nötigenfalls Berichtigungen veranlassen kann.
 
 #### § 62
 
@@ -606,15 +613,15 @@ vom 04.10.2017 (Stand 01.01.2020)
 
 <sup>1</sup> Es gelten in den Kirchgemeinden als letzte Termine:
 
-- 1\. Entscheid über Budget und die Festsetzung des Steuerfusses: bis spätestens Ende März;
-- 2\. Bereitstellung der Jahresrechnung für die Rechnungsprüfung: Ende März;
-- 3\. Genehmigung der Jahresrechnung durch die Kirchgemeinde: Ende Juni;
-- 4\. Bereitstellung der genehmigten Rechnungen und der Belege zuhanden der Aufsichtsinstanzen: Ende Juli.
+- 1\. Entscheid über Budget und die Festsetzung des Steuerfusses: bis spätestens Ende März
+- 2\. Bereitstellung der Jahresrechnung für die Rechnungsprüfung: Ende März
+- 3\. Genehmigung der Jahresrechnung durch die Kirchgemeinde: Ende Juni
+- 4\. Bereitstellung der genehmigten Rechnungen und der Belege zuhanden der Aufsichtsinstanzen: Ende Juli
 
 <sup>2</sup> Als Termine für den Haushalt der Landeskirche gelten:
 
-- 1\. Entscheid über das Budget und die Steueransätze in der ordentlichen Herbstsynode;
-- 2\. Genehmigung der Jahresrechnung in der ordentlichen Sommersynode.
+- 1\. Entscheid über das Budget und die Steueransätze in der ordentlichen Herbstsynode
+- 2\. Genehmigung der Jahresrechnung in der ordentlichen Sommersynode
 
 ## 7. Übergangs-und Schlussbestimmungen
 
@@ -630,12 +637,6 @@ vom 04.10.2017 (Stand 01.01.2020)
 
 #### § 64
 
-**Übergangsregelung**
-
-<sup>1</sup> Die Umstellung auf die Rechnungslegung nach dieser Verordnung erfolgt spätestens auf den 1. Januar 2020. Auf diesen Zeitpunkt wird die Verordnung des Evangelischen Kirchenrates über die Verwaltung und das Rechnungswesen vom 2. September 2009 aufgehoben.
-
-<sup>2</sup> Die Kirchgemeinden bestimmen den Zeitpunkt der Umstellung selbst.
-
-<sup>3</sup> Mit der Umstellung werden die Bestimmungen dieser Verordnung für sie rechtswirksam.
+**…**
 
 42/2017
