@@ -1,22 +1,22 @@
 ---
 canton: SO
 number: "131.732"
-title: Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2024
+title: Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2025
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-09-03
 adopted: 2015-09-01
 in_force: 2016-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.732"
-pdf: "https://bgs.so.ch/api/de/versions/5426/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5500/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2024
+# Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2025
 
-Vom 01.09.2015 (Stand 01.01.2024)
+Vom 01.09.2015 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -35,7 +35,7 @@ beschliesst:
 
 **Disparitätenausgleich**
 
-<sup>1</sup> Die Abschöpfungsquote im Disparitätenausgleich (DAQ) beträgt 37 Prozent.
+<sup>1</sup> Die Abschöpfungsquote im Disparitätenausgleich (DAQ) beträgt 36 Prozent.
 
 #### § 2
 
@@ -75,9 +75,9 @@ beschliesst:
 
 <sup>1</sup> Die Prozentanteile der einzelnen Städte betragen:
 
-- a) für Solothurn: 48.48 Prozent;
-- b) für Grenchen: 6.93 Prozent;
-- c) für Olten: 44.59 Prozent.
+- a) für Solothurn: 49.01 Prozent;
+- b) für Grenchen: 8.97 Prozent;
+- c) für Olten: 42.02 Prozent.
 
 #### § 5bis
 
