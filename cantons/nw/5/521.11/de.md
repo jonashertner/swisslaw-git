@@ -5,12 +5,12 @@ title: Verordnung zum Gesetz über die Steuern des Kantons und der Gemeinden
 short: "Steuerverordnung, StV"
 language: de
 version: 2025-01-01
-valid_until: 2025-12-31
+corrected: 2024-12-12
 version_adopted: 2024-12-03
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/521.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1329/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1327/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1106,7 +1106,7 @@ beschliesst:
 
 **Steuererlass**
 
-<sup>1</sup> Steuerpflichtige Personen, die am Ende der Steuerperiode beziehungsweise am Ende der Steuerpflicht in einem Heim wohnen und Ergänzungsleistungen zur AHV/IV beziehen oder die dauernd wirtschaftliche Sozialhilfe beziehen und ein Reinvermögen von weniger als Fr. 30'000.– (Alleinstehende) beziehungsweise Fr. 50'000.– (Verheiratete) besitzen, haben Anspruch auf vollständigen Erlass der laufenden Steuern. Das steuerbare Einkommen wird mit Null veranlagt.
+<sup>1</sup> Steuerpflichtige Personen, die am Ende der Steuerperiode beziehungsweise am Ende der Steuerpflicht in einem Heim wohnen und Ergänzungsleistungen zur AHV/IV beziehen oder die dauernd wirtschaftliche Sozialhilfe beziehen und ein Reinvermögen von weniger als Fr. 37'500.– (Alleinstehende) beziehungsweise Fr. 60'000.– (Verheiratete) besitzen, haben Anspruch auf vollständigen Erlass der laufenden Steuern. Das steuerbare Einkommen wird mit Null veranlagt.
 
 ### 6.6 Elektronische Steuerakten
 
@@ -1396,11 +1396,11 @@ beschliesst:
 
 **Zinssätze**
 
-<sup>1</sup> Der Verzugszinssatz gemäss Art. 236 Abs. 2 des Steuergesetzes beträgt 4.50 Prozent.
+<sup>1</sup> Der Verzugszinssatz gemäss Art. 236 Abs. 2 des Steuergesetzes beträgt 4.75 Prozent.
 
-<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 0.50 Prozent.
+<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 1.00 Prozent.
 
-<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 0.50 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
+<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 1.00 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
 
 ### A1.9 Quellensteuern
 
@@ -1410,7 +1410,7 @@ beschliesst:
 
 <sup>1</sup> Die Pauschale für die Berufskosten beträgt 5 Prozent des Bruttolohnes, höchstens jedoch Fr. 7'000.– je Jahr, und der Abzug für Fahrkosten und auswärtige Verpflegung Fr. 3'900.–.
 
-<sup>2</sup> Beim zweitverdienenden Ehegatten wird zusätzlich zu Abs. 1 Fr. 1'200.– in Abzug gebracht.
+<sup>2</sup> Beim zweitverdienenden Ehegatten wird zusätzlich zu Abs. 1 Fr. 1'100.– in Abzug gebracht.
 
 #### § A1-20
 
@@ -1430,7 +1430,7 @@ beschliesst:
 
 **Abzüge für Familienlasten**
 
-<sup>1</sup> Der Abzug für Familienlasten beträgt Fr. 6'400.– für den Kinderabzug und Fr. 3'100.– für den Eigenbetreuungsabzug.
+<sup>1</sup> Der Abzug für Familienlasten beträgt Fr. 6'000.– für den Kinderabzug und Fr. 3'100.– für den Eigenbetreuungsabzug.
 
 #### § A1-22
 
