@@ -4,13 +4,13 @@ number: "312.1"
 title: Verordnung über die Ausübung von Berufen der Gesundheitspflege
 short: VBG
 language: de
-version: 2023-03-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-20
+version: 2025-01-01
+valid_until: 2025-10-31
+version_adopted: 2024-11-19
 adopted: 2011-06-21
 in_force: 2011-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/312.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3437/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3692/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3437/pdf_file"
 
 (VBG)
 
-vom 21.06.2011 (Stand 01.03.2023)
+vom 21.06.2011 (Stand 01.01.2025)
 
 Die Regierung des Kantons St.Gallen
 
@@ -545,7 +545,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Wer als Augenoptikerin oder Augenoptiker Brillengläser bestimmt, optometrische Messungen vornimmt und Kontaktlinsen anpasst, verfügt über das Diplom der eidgenössischen höheren Fachprüfung in Augenoptik oder den Abschluss als Bachelor of Science (FH) in Optometrie.
 
-<sup>3</sup> Die erstmalige Refraktionsbestimmung an Kindern und Jugendlichen unter 15 Jahren wird von einer Fachärztin oder einem Facharzt für Augenheilkunde vorgenommen.
+<sup>3</sup> …
 
 ### l) Podologin und Podologe
 
