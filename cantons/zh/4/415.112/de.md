@@ -3,11 +3,10 @@ canton: ZH
 number: "415.112"
 title: Finanzreglement der Universität Zürich
 language: de
-version: "2021-05-01"
-nachtrag: "113"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2009-11-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_112-2009_11_16-2010_01_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_112-2009_11_16-2010_01_01-127.html"
 text: pdf
 ---
 
@@ -73,11 +72,13 @@ Die Universität kann in ihrer Buchhaltung einen eigenen Kontenplan bewirtschaft
 
 **1**
 
-- 1\. 7. 21 - 113 § 6. <sup>1</sup> Die Universität führt für ihre Mobilien eine Anlagenbuchhaltung und eine Investitionsrechnung.
+- 1\. 1. 25 - 127 § 6. <sup>1</sup> Die Universität führt für ihre Mobilien eine Anlagenbuchhaltung und eine Investitionsrechnung.
 
 **Anlagevermögen**
 
-<sup>2</sup> Investitionen bis Fr. 10 000 werden der Erfolgsrechnung belastet.
+<sup>2</sup> . . .[^5-1]
+
+[^5-1]: Aufgehoben durch URB vom 26. August 2024 (OS 79, 456; ABl 2024-11-01). In Kraft seit 1. Januar 2025.
 
 ### B. Kostenrechnung
 
@@ -165,7 +166,7 @@ Die Einnahmen der Universität setzen sich insbesondere zusammen aus:
 
 **3**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 25 - 127
 
 <sup>4</sup> Forschungs- und Lehrbeiträge, Zuwendungen und Erbschaften sowie Einnahmen aus Forschungskooperationen werden in der separaten Rechnung geführt. Eine allfällige Verzinsung erfolgt gemäss § 28 der Finanzcontrollingverordnung vom 5. März 2008 (FCV)[^13-1] oder gestützt auf eine Vereinbarung zwischen Universität und Finanzdirektion des Kantons Zürich.
 
@@ -267,7 +268,7 @@ Beteiligungen der Universität an juristischen Personen des öffentlichen und pr
 
 **5**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 25 - 127
 
 ### 5. Abschnitt: Gewinnverwendung und Verlustdeckung
 
@@ -339,7 +340,7 @@ Einnahmen sowie allfällige Überschüsse und Verluste aus laufenden Dienstleist
 
 **7**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 25 - 127
 
 ### B. Inkrafttreten
 
