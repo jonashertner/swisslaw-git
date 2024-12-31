@@ -4,13 +4,12 @@ number: "722.21"
 title: Gesetz über den Feuerschutz
 short: "Feuerschutzgesetz, FSG"
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-06-02
+version: 2025-01-01
+version_adopted: 2024-01-25
 adopted: 1994-12-15
 in_force: 1995-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/722.21"
-pdf: "https://bgs.zg.ch/api/de/versions/2399/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2641/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2399/pdf_file"
 
 (Feuerschutzgesetz, FSG)
 
-Vom 15. Dezember 1994 (Stand 1. Januar 2023)
+Vom 15. Dezember 1994 (Stand 1. Januar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -124,7 +123,7 @@ beschliesst:
 <sup>2</sup> Die Gebäudeversicherung Zug
 
 - a) erlässt Weisungen und überwacht den Vollzug der Vorschriften im Bereich des vorbeugenden Brandschutzes und des Feuerwehrwesens und übt die Aufsicht über die Löschwasserversorgung aus;
-- b) entscheidet bei erhöhter Brandgefahr infolge Trockenheit oder Wasserknappheit über vorsorgliche Feuerschutzmassnahmen, insbesondere über ein Feuerverbot im Freien und ein Verbot zum Abbrennen von Feuerwerk;
+- b) entscheidet bei erhöhter Brandgefahr infolge Trockenheit oder Wasserknappheit zusammen mit dem Amt für Wald und Wild über vorsorgliche Feuerschutzmassnahmen, insbesondere über ein Feuerverbot im Freien und ein Verbot zum Abbrennen von Feuerwerk;
 - c) entscheidet, welche Betriebe eine eigene Feuerwehr aufzustellen, auszurüsten und zu unterhalten haben;
 - d) koordiniert und überwacht die Ausbildung der Gemeinde- und Betriebsfeuerwehren sowie der Stützpunktfeuerwehr, legt deren Grundausrüstung fest und berät sie bei Materialanschaffungen;
 - e) führt die Bau- und Schlusskontrollen durch;
