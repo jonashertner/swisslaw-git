@@ -4,13 +4,12 @@ number: "311.5"
 title: Verordnung über die Entschädigung der Ärzte für amtliche Verrichtungen
 short: VEnAe
 language: de
-version: 2020-06-01
-valid_until: 2024-12-31
-version_adopted: 2020-05-12
+version: 2025-01-01
+version_adopted: 2024-11-19
 adopted: 1989-01-10
 in_force: 1989-03-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/311.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2956/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3702/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2956/pdf_file"
 
 (VEnAe)
 
-vom 10.01.1989 (Stand 01.06.2020)
+vom 10.01.1989 (Stand 01.01.2025)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -43,7 +42,7 @@ als Verordnung:[^ingress-5]
 
 - a) Amtsärzte;[^1-1]
 - b) Ärzte mit einer Bewilligung zur selbständigen Berufsausübung;[^1-2]
-- c) Spitalverbunde und psychiatrische Kliniken.
+- c) Spitalverbund und psychiatrische Kliniken.
 
 <sup>2</sup> Die Entschädigung der Schulärzte und des Instituts für Rechtsmedizin am Kantonsspital St.Gallen richtet sich nach besonderen Vorschriften.[^1-3]
 
