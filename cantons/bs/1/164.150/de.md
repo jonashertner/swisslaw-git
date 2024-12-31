@@ -1,27 +1,26 @@
 ---
 canton: BS
 number: "164.150"
-title: Verordnung über die Einreihung von Stellen sowie die Einstufung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt
+title: Verordnung über die Einreihung von Stellen sowie die Einstufung von Mitarbeitenden des Kantons Basel-Stadt
 short: "Einreihungsverordnung, EVO"
 language: de
-version: 2015-11-15
-valid_until: 2024-12-31
-version_adopted: 2015-11-10
+version: 2025-01-01
+version_adopted: 2024-06-18
 adopted: 1995-10-31
 in_force: 1995-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/164.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4769/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Einreihung von Stellen sowie die Einstufung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt
+# Verordnung über die Einreihung von Stellen sowie die Einstufung von Mitarbeitenden des Kantons Basel-Stadt
 
 Einreihungsverordnung | Staatspersonal: Lohn und Entschädigungen
 
 (Einreihungsverordnung, EVO)
 
-Vom 31. Oktober 1995 (Stand 15. November 2015)
+Vom 31. Oktober 1995 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -154,24 +153,36 @@ beschliesst:
 
 **Einstufung nach Lebensalter bei Stellen ohne Ausbildungsvoraussetzungen**
 
-<sup>1</sup> Bei Eintritt in den Staatsdienst werden die Mitarbeiterinnen und Mitarbeiter in Stellen, welche nach den massgebenden Modellumschreibungen keine Ausbildungsvoraussetzungen benötigen, wie folgt nach Lebensalter eingestuft:
+<sup>1</sup> Bei Eintritt in den Staatsdienst werden die Mitarbeitenden in Stellen, welche nach den massgebenden Modellumschreibungen keine Ausbildungsvoraussetzungen benötigen, wie folgt nach Lebensalter eingestuft:
 
 <table>
 <tr><th>Lebensalter</th><th>Lohnstufe</th></tr>
-<tr><td>16–18</td><td>spezielle Regelung für Jugendliche</td></tr>
-<tr><td>18–20</td><td>Anlaufstufe C</td></tr>
-<tr><td>bis 23</td><td>1</td></tr>
-<tr><td>bis 26</td><td>2</td></tr>
-<tr><td>bis 29</td><td>3</td></tr>
-<tr><td>bis 32</td><td>4</td></tr>
-<tr><td>bis 35</td><td>5</td></tr>
-<tr><td>bis 38</td><td>6</td></tr>
-<tr><td>bis 41</td><td>7</td></tr>
-<tr><td>bis 44</td><td>8</td></tr>
-<tr><td>bis 47</td><td>9</td></tr>
-<tr><td>bis 50</td><td>10</td></tr>
-<tr><td>bis 53</td><td>11</td></tr>
-<tr><td>54 und älter</td><td>12</td></tr>
+<tr><td>16</td><td>Anlaufstufe B</td></tr>
+<tr><td>17</td><td>Anlaufstufe C</td></tr>
+<tr><td>18 und 19</td><td>1</td></tr>
+<tr><td>20 und 21</td><td>2</td></tr>
+<tr><td>22 und 23</td><td>3</td></tr>
+<tr><td>24 und 25</td><td>4</td></tr>
+<tr><td>26 und 27</td><td>5</td></tr>
+<tr><td>28 und 29</td><td>6</td></tr>
+<tr><td>30 und 31</td><td>7</td></tr>
+<tr><td>32 und 33</td><td>8</td></tr>
+<tr><td>34 und 35</td><td>9</td></tr>
+<tr><td>36 und 37</td><td>10</td></tr>
+<tr><td>38 und 39</td><td>11</td></tr>
+<tr><td>40 und 41</td><td>12</td></tr>
+<tr><td>42 und 43</td><td>13</td></tr>
+<tr><td>44 und 45</td><td>14</td></tr>
+<tr><td>46 und 47</td><td>15</td></tr>
+<tr><td>48 und 49</td><td>16</td></tr>
+<tr><td>50 und 51</td><td>17</td></tr>
+<tr><td>52 und 53</td><td>18</td></tr>
+<tr><td>54 und 55</td><td>19</td></tr>
+<tr><td>56 und 57</td><td>20</td></tr>
+<tr><td>58 und 59</td><td>21</td></tr>
+<tr><td>60 und 61</td><td>22</td></tr>
+<tr><td>62 und 63</td><td>23</td></tr>
+<tr><td>64 und 65</td><td>24</td></tr>
 </table>
 
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter mit einer Unterhaltspflicht werden, unter Berücksichtigung der Familien- und Unterhaltszulagen, in der Lohnstufe soweit angehoben, dass sie bei einer Vollbeschäftigung eine Einkommensuntergrenze von brutto CHF 4'000 pro Monat erreichen. In der Folge wird der Stufenverlauf eingefroren, bis die gewährte Lohnstufe regulär erreicht wird.
