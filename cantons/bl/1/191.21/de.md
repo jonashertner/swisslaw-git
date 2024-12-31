@@ -3,20 +3,19 @@ canton: BL
 number: "191.21"
 title: Verordnung über die Rechnungslegung der Stiftung Kirchengut
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2019-06-25
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 2018-01-23
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/191.21"
-pdf: "https://bl.clex.ch/api/de/versions/2454/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4092/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Rechnungslegung der Stiftung Kirchengut
 
-Vom 23.01.2018 (Stand 01.01.2019)
+Vom 23.01.2018 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -74,8 +73,16 @@ beschliesst:
 
 <sup>1</sup> Der Stiftungsrat beschliesst die Jahresrechnung innert 6 Monaten nach der vergangenen Jahresperiode.
 
-<sup>2</sup> Die kantonale Finanzkontrolle revidiert die Jahresrechnung gemäss dem Standard der eingeschränkten Revision.
+<sup>2</sup> …
 
 <sup>3</sup> Die Jahresrechnungen sind während 11 Jahren aufzubewahren.
+
+#### § 6
+
+**Revisionsstelle**
+
+<sup>1</sup> Der Regierungsrat ernennt eine Revisionsstelle.
+
+<sup>2</sup> Die Revisionsstelle prüft jährlich die Jahresrechnung gemäss dem Standard der eingeschränkten Revision.
 
 GS 2018.003
