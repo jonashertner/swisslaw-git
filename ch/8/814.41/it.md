@@ -4,11 +4,11 @@ title: "Ordinanza del 15 dicembre 1986 contro l'inquinamento fonico (OIF)"
 short: OIF
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: it
-version: 2024-11-01
+version: 2025-01-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20241101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20250101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/it"
 
 (OIF)
 
-del 15 dicembre 1986 (Stato 1° novembre 2024)
+del 15 dicembre 1986 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -394,13 +394,14 @@ La Confederazione accorda sussidi per risanamenti e provvedimenti d’isolamento
 - a. per le strade principali secondo l’articolo 12 LUMin[^21-2];
 - b. per le altre strade.
 
-<sup>2</sup> I sussidi di cui al capoverso 1 lettera a sono parte integrante dei sussidi globali secondo l’articolo 13 LUMin, mentre i sussidi di cui al capoverso 1 lettera b sono accordati globalmente per i tratti fissati negli accordi programmatici con i Cantoni.
+<sup>2</sup> I sussidi di cui al capoverso 1 lettera a sono parte integrante dei sussidi globali secondo l’articolo 13 LUMin. I sussidi di cui al capoverso 1 lettera b sono accordati globalmente nel quadro degli accordi programmatici con i Cantoni.[^21-3]
 
-<sup>3</sup> ...[^21-3]
+<sup>3</sup> …[^21-4]
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 [^21-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^21-3]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogato dal n. I dell’O del 12 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-4]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogato dal n. I dell’O del 12 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 22
 
@@ -412,9 +413,12 @@ La Confederazione accorda sussidi per risanamenti e provvedimenti d’isolamento
 
 La domanda deve contenere in particolare informazioni concernenti:
 
-- a. le strade o i tratti stradali da risanare durante il periodo di validità dell’accordo programmatico;
+- a.[^22-1] …
 - b. i provvedimenti di risanamento e d’isolamento acustico previsti e le relative spese;
-- c. l’efficacia perseguita con tali provvedimenti.
+- c.[^22-2] l’efficacia perseguita con i provvedimenti di risanamento.
+
+[^22-1]: Abrogata dal n. I dell’O del 12 mag. 2021, con effetto dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^22-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 23
 
@@ -426,15 +430,18 @@ La domanda deve contenere in particolare informazioni concernenti:
 
 Oggetto dell’accordo programmatico sono in particolare:
 
-- a. le strade o i tratti stradali da risanare;
+- a.[^23-1] l’efficacia dei provvedimenti di risanamento;
+- a<sup>bis</sup>.[^23-2] i provvedimenti d’isolamento acustico a edifici esistenti;
 - b. i sussidi della Confederazione;
 - c. il controlling.
 
-<sup>3</sup> La durata dell’accordo programmatico è di quattro anni; in casi motivati può essere concordata una durata superiore o inferiore.[^23-1]
+<sup>3</sup> La durata dell’accordo programmatico è di quattro anni; in casi motivati può essere concordata una durata superiore o inferiore.[^23-3]
 
 <sup>4</sup> L’UFAM emana direttive relative alla procedura in materia di accordi programmatici, nonché alle informazioni e ai documenti riguardanti l’oggetto dell’accordo programmatico.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
+[^23-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-2]: Introdotta dal n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-3]: Nuovo testo giusta il n. I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
 #### Art. 24
 
@@ -442,14 +449,17 @@ Oggetto dell’accordo programmatico sono in particolare:
 
 <sup>1</sup>
 
-L’ammontare dei sussidi per i risanamenti è stabilito in base:
+L’ammontare dei sussidi per i risanamenti è stabilito in base all’efficacia dei provvedimenti di risanamento. A tal fine sono determinanti:
 
-- a. al numero delle persone protette mediante tali provvedimenti; e
-- b. alla riduzione dell’inquinamento fonico.
+- a. il numero di persone protette da immissioni foniche dannose o moleste a seguito dell’attuazione dei provvedimenti di risanamento; e
+- b. il numero di persone per le quali il carico fonico viene ridotto in misura percettibile a seguito dell’attuazione di detti provvedimenti.[^24-1]
 
-<sup>2</sup> Per provvedimenti d’isolamento acustico su edifici esistenti sono accordati 400 franchi per ogni finestra insonorizzata o per ogni altro provvedimento edile d’isolamento acustico di efficacia analoga.
+<sup>2</sup> Per provvedimenti d’isolamento acustico su edifici esistenti sono accordati 200 franchi per ogni finestra insonorizzata o per ogni altro provvedimento edile d’isolamento acustico di efficacia analoga.[^24-2]
 
 <sup>3</sup> L’ammontare dei sussidi è negoziato tra la Confederazione e il Cantone.
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 24a e 24b
 
@@ -465,7 +475,7 @@ I sussidi globali sono pagati a rate.
 
 **Rendicontazione e controllo**
 
-1 Il Cantone presenta ogni anno all’UFAM un rapporto sull’impiego dei sussidi.
+<sup>1</sup> Il Cantone presenta ogni anno all’UFAM un rapporto sull’impiego dei sussidi.
 
 <sup>2</sup>
 
@@ -623,7 +633,7 @@ Essa tiene conto a tal fine degli aumenti o delle diminuzioni prevedibili delle 
 - a. alla costruzione, alla modifica o al risanamento di impianti fissi, in particolare se, al momento della determinazione, i relativi progetti sono già stati approvati o pubblicati; e
 - b. alla costruzione, alla modifica o alla demolizione di altri edifici, se, al momento della determinazione, i relativi progetti sono già pubblicati.
 
-<sup>3</sup> ...[^36-2]
+<sup>3</sup> …[^36-2]
 
 [^36-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 [^36-2]: Abrogato dell’art. 15 dell’O del 4 dic. 2015 concernente il risanamento fonico delle ferrovie, con effetto dal 1° gen. 2016 ([RU 2015 5691](https://fedlex.data.admin.ch/eli/oc/2015/890)).
@@ -958,7 +968,7 @@ Allegato 3
 
 <sup>1</sup> Il livello di valutazione del rumore Lr del traffico stradale è calcolato a partire dai livelli di valutazione parziali del rumore dei veicoli a motore (Lr1) e del rumore dei treni (Lr2) con la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image1.png)
+Lr = 10 ⋅ log (10<sup>0,1</sup> <sup>⋅</sup> <sup>Lr1</sup> + 10<sup>0,1</sup> <sup>⋅</sup> <sup>Lr2</sup>)
 
 <sup>2</sup> Il livello di valutazione parziale Lr1 è la somma del livello energetico medio Leq,m, ponderato A, prodotto dai veicoli a motore e della correzione del livello K1:
 
@@ -1051,7 +1061,7 @@ Allegato 4
 
 <sup>1</sup> Il livello di valutazione del rumore Lr dei treni è calcolato a partire dai livelli di valutazione parziali del rumore della circolazione dei treni (Lr1) e del rumore dell’esercizio di manovra (Lr2) con la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image2.png)
+Lr = 10 ⋅ log (10<sup>01,</sup> <sup>⋅</sup> <sup>Lr1</sup> + 10<sup>01,</sup> <sup>⋅</sup> <sup>Lr2</sup>)
 
 <sup>2</sup> Il livello di valutazione parziale Lr1 è la somma del livello energetico medio Leq,f, ponderato A, prodotto dalla circolazione dei treni e della correzione del livello K1:
 
@@ -1158,13 +1168,13 @@ Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traf
 <tr><td colspan="4"><sup>1</sup> I valori più alti valgono per la prima ora della notte (ore 22–23).</td></tr>
 </table>
 
-### 23 Valori limite d’esposizione in ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image3.png)max
+### 23 Valori limite d’esposizione in ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image1.png)max
 
-Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traffico sugli aerodromi civili sui quali circolano esclusivamente elicotteri (eliporti) valgono i valori limite d’esposizione seguenti in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image4.png)</sub>max:
+Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traffico sugli aerodromi civili sui quali circolano esclusivamente elicotteri (eliporti) valgono i valori limite d’esposizione seguenti in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image2.png)</sub>max:
 
 <table>
 <tr><td>Grado di sensibilità (art. 43)</td><td>Valore di pianificazione</td><td>Valore limite d’immissione</td><td>Valore d’allarme</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image5.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image5.png)</sub>max in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image3.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image3.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image3.png)</sub>max in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1234,11 +1244,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> I voli effettuati dopo la seconda (ore 23–24) e prima dell’ultima ora della notte (ore 5–6) sono computati nella seconda ora della notte (ore 23–24).
 
-### 5 Determinazione del livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image6.png)</sub>max per gli eliporti
+### 5 Determinazione del livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image4.png)</sub>max per gli eliporti
 
-<sup>1</sup> Per gli eliporti, il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image4.png)</sub>max è la media energetica del livello di rumore massimo di un numero rappresentativo di sorvoli o di passaggi.
+<sup>1</sup> Per gli eliporti, il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image2.png)</sub>max è la media energetica del livello di rumore massimo di un numero rappresentativo di sorvoli o di passaggi.
 
-<sup>2</sup> Le misurazioni per determinare il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image7.png)</sub>max devono essere effettuate con il sonometro regolato su «SLOW».
+<sup>2</sup> Le misurazioni per determinare il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image5.png)</sub>max devono essere effettuate con il sonometro regolato su «SLOW».
 
 Allegato 6[^t-4]
 
@@ -1277,25 +1287,20 @@ Allegato 6[^t-4]
 
 <sup>1</sup> Il livello di valutazione del rumore Lr dell’industria e delle arti e mestieri e degli altri rumori simili è calcolato separatamente per il giorno (dalle ore 7 alle 19) e per la notte (dalle ore 19 alle 7) a partire dai livelli di valutazione parziali Lr,i di ciascuna fase di rumore:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image6.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lr,i è calcolato per la durata media giornaliera della fase di rumore, con la formula seguente:
 
 Lr,i = Leq,i + K1,i + K2,i + K3,i + 10 ⋅ log (ti/to)
 
-dove
+dove:
 
-Leq,i livello energetico medio di rumore, ponderato A, durante la fase di rumore i
-
-K1,i correzione del livello per la fase di rumore i;
-
-K2,i correzione del livello per la fase di rumore i;
-
-K3,i correzione del livello per la fase di rumore i;
-
-ti durata media giornaliera in minuti della fase di rumore i;
-
-to = 720 minuti.
+- Leq,i livello energetico medio di rumore, ponderato A, durante la fase di rumore i
+- K1,i correzione del livello per la fase di rumore i;
+- K2,i correzione del livello per la fase di rumore i;
+- K3,i correzione del livello per la fase di rumore i;
+- ti durata media giornaliera in minuti della fase di rumore i;
+- to = 720 minuti.
 
 <sup>3</sup> Le fasi di rumore sono i periodi durante i quali il livello sonoro e le componenti tonali ed impulsive sono percepiti in modo uniforme sul luogo dell’immissione.
 
@@ -1336,7 +1341,7 @@ ti = Ti/B
 
 <sup>2</sup> Per le pompe di calore aria-acqua, l’UFAM raccomanda metodi di misurazione e di calcolo adeguati in base allo stato della tecnica.
 
-Allegato 7[^t-5]
+Allegato 7 [^t-5]
 
 (art. 40 cpv. 1)
 
@@ -1383,7 +1388,7 @@ Per il rumore causato da impianti pubblici secondo la cifra 1 capoverso 3[^annex
 
 <sup>1</sup> Il livello di valutazione Lr per il rumore degli impianti di tiro è la somma energetica dei livelli di valutazione parziali Lri delle diverse categorie di armi:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image7.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lri è la somma del livello di rumore medio di un singolo colpo Li relativo a una categoria di armi e della correzione del livello Ki:
 
@@ -1391,15 +1396,14 @@ Lri = Li + Ki
 
 <sup>3</sup> Il livello di rumore medio di un singolo colpo Li è la media energetica ponderata, in base al numero di colpi sparati, del livello di rumore dei singoli colpi Lj relativi a un tipo di arma e di munizioni calcolato come media energetica:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image8.png)
 
 <sup>4</sup> Il livello di rumore dei singoli colpi Lj calcolato come media energetica deve essere determinato sulla base di misurazioni del livello massimo ponderato A con la costante di tempo FAST.
 
 *Dove:*
 
-Mj numero annuo di colpi sparati con un tipo di arma e di munizioni relativo a una categoria di armi, calcolato sulla media di tre anni;
-
-Mi numero annuo di colpi sparati con una categoria di armi, calcolato sulla media di tre anni.
+- Mj numero annuo di colpi sparati con un tipo di arma e di munizioni relativo a una categoria di armi, calcolato sulla media di tre anni;
+- Mi numero annuo di colpi sparati con una categoria di armi, calcolato sulla media di tre anni.
 
 ### 32 Correzione del livello
 
@@ -1411,9 +1415,8 @@ Ki = 10 ⋅ log (Dwi + 3 ⋅ Dsi) + 3 ⋅ log Mi – 44
 
 Dove:
 
-Dwi numero annuo di semigiornate di tiro nei giorni feriali per categoria di armi, calcolato sulla media di tre anni;
-
-Dsi numero annuo di semigiornate di tiro nelle domeniche o nei giorni festivi generali per categoria di armi, calcolato sulla media di tre anni.
+- Dwi numero annuo di semigiornate di tiro nei giorni feriali per categoria di armi, calcolato sulla media di tre anni;
+- Dsi numero annuo di semigiornate di tiro nelle domeniche o nei giorni festivi generali per categoria di armi, calcolato sulla media di tre anni.
 
 <sup>2</sup> Per determinare il numero di semigiornate di tiro e il numero di colpi sparati si tiene conto di tutti i tiri che si svolgono regolarmente nell’arco di tre anni.
 
@@ -1552,21 +1555,16 @@ Allegato 9[^t-7]
 
 Il livello di valutazione Lr del rumore del tiro sulle piazze d’armi, di tiro e d’esercizio militari è calcolato a partire dai livelli dei fenomeni sonori L<sub>AE1</sub> e L<sub>AE2</sub> nonché dalle correzioni del livello K1 e K2 con la formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/it/xml/image/image11.png)
+L<sub>r</sub> =10 **<sup>.</sup>**log(10<sup>0.</sup> <sup>1</sup><sup>.</sup><sup>L</sup> <sup>AE1</sup> +10<sup>0.</sup> <sup>1</sup><sup>.</sup><sup>(L</sup> <sup>AE2</sup> <sup>+K1)</sup> ) – 10 **<sup>.</sup>**log(T) + K2
 
 Dove:
 
-L<sub>r</sub> livello di valutazione del rumore delle piazze d’armi, di tiro e d’esercizio militari;
-
-T tempo di valutazione in secondi = 52 settimane · 5 giorni · 12 ore · 60 minuti · 60 secondi;
-
-L<sub>AE1</sub> livello dei fenomeni sonori di tutti gli eventi di tiro nel corso di un anno dal lunedì al venerdì, dalle ore 7 alle 19;
-
-L<sub>AE2</sub> livello dei fenomeni sonori di tutti gli eventi di tiro nel corso di un anno al di fuori della fascia oraria compresa tra le ore 7 e le 19 nei giorni dal lunedì al venerdì;
-
-K1 5
-
-K2 15
+- L<sub>r</sub> livello di valutazione del rumore delle piazze d’armi, di tiro e d’esercizio militari;
+- T tempo di valutazione in secondi = 52 settimane · 5 giorni · 12 ore · 60 minuti · 60 secondi;
+- L<sub>AE1</sub> livello dei fenomeni sonori di tutti gli eventi di tiro nel corso di un anno dal lunedì al venerdì, dalle ore 7 alle 19;
+- L<sub>AE2</sub> livello dei fenomeni sonori di tutti gli eventi di tiro nel corso di un anno al di fuori della fascia oraria compresa tra le ore 7 e le 19 nei giorni dal lunedì al venerdì;
+- K1 5
+- K2 15
 
 ### 32 Determinazione dell’attività di tiro
 

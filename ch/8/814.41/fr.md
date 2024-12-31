@@ -4,11 +4,11 @@ title: Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)
 short: OPB
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: fr
-version: 2024-11-01
+version: 2025-01-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20241101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20250101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/fr"
 
 (OPB)
 
-du 15 décembre 1986 (État le 1<sup>er</sup> novembre 2024)
+du 15 décembre 1986 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -394,13 +394,14 @@ La Confédération alloue des subventions en faveur de l’assainissement et des
 - a. pour les routes principales, au sens de l’art. 12 LUMin[^21-2];
 - b. pour les autres routes.
 
-<sup>2</sup> Les subventions visées à l’al. 1, let. a, font partie des contributions globales prévues à l’art. 13 LUMin. Les subventions visées à l’al. 1, let. b, sont octroyées globalement pour les tronçons définis dans les conventions-programmes conclues avec les cantons.
+<sup>2</sup> Les subventions visées à l’al. 1, let. a, font partie des contributions globales prévues à l’art. 13 LUMin. Les subventions visées à l’al. 1, let. b, sont octroyées globalement dans le cadre des conventions-programmes conclues avec les cantons.[^21-3]
 
-<sup>3</sup> …[^21-3]
+<sup>3</sup> …[^21-4]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 [^21-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^21-3]: Introduit par le ch. I de l’O du 21 fév. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogé par le ch. I de l’O du 12 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-4]: Introduit par le ch. I de l’O du 21 fév. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogé par le ch. I de l’O du 12 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 22
 
@@ -412,9 +413,12 @@ La Confédération alloue des subventions en faveur de l’assainissement et des
 
 La demande doit notamment contenir des indications relatives:
 
-- a. aux routes et aux tronçons à assainir pendant la durée de la convention-programme;
+- a.[^22-1] …
 - b. aux mesures d’assainissement et d’isolation acoustique prévues, ainsi qu’à leurs coûts;
-- c. à l’efficacité visée de ces mesures.
+- c.[^22-2] à l’efficacité visée des mesures d’assainissement.
+
+[^22-1]: Abrogée par le ch. I de l’O du 12 mai 2021, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 23
 
@@ -426,15 +430,18 @@ La demande doit notamment contenir des indications relatives:
 
 La convention-programme a notamment pour objets:
 
-- a. les routes et les tronçons routiers à assainir;
+- a.[^23-1] l’efficacité des mesures d’assainissement;
+- a<sup>bis</sup>.[^23-2] les mesures d’isolation acoustique des bâtiments existants;
 - b. la prestation fournie par la Confédération;
 - c. le controlling.
 
-<sup>3</sup> La durée de la convention-programme est de quatre ans; dans des cas dûment motivés, une durée plus courte ou plus longue peut être convenue.[^23-1]
+<sup>3</sup> La durée de la convention-programme est de quatre ans; dans des cas dûment motivés, une durée plus courte ou plus longue peut être convenue.[^23-3]
 
 <sup>4</sup> L’OFEV édicte des directives sur la procédure à suivre dans le cadre des conventions-programmes et sur les informations et documents relatifs aux objets de celles-ci.
 
-[^23-1]: Nouvelle teneur selon le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-2]: Introduite par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-3]: Nouvelle teneur selon le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
 #### Art. 24
 
@@ -442,14 +449,17 @@ La convention-programme a notamment pour objets:
 
 <sup>1</sup>
 
-Le montant des subventions pour les assainissements est fonction:
+Le montant des subventions allouées pour les assainissements est fonction de l’efficacité des mesures d’assainissement. Sont à ce titre déterminants:
 
-- a. du nombre de personnes qui seront protégées par les mesures, et
-- b. de la réduction de l’exposition au bruit.
+- a. le nombre de personnes que ces mesures protégeront d’immissions de bruit nuisibles ou incommodantes, et
+- b. le nombre de personnes dont l’exposition au bruit sera réduite de manière perceptible grâce à ces mesures.[^24-1]
 
-<sup>2</sup> Pour les mesures d’isolation acoustique des bâtiments existants, il est alloué 400 francs par fenêtre anti-bruit ou autre mesure de construction ayant des effets anti-bruit équivalents.
+<sup>2</sup> Pour les mesures d’isolation acoustique des bâtiments existants, un montant de 200 francs est alloué par fenêtre anti-bruit ou autre mesure de construction ayant des effets anti-bruit équivalents.[^24-2]
 
 <sup>3</sup> Le montant des subventions est négocié entre la Confédération et les cantons.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 24aet 24b
 
@@ -1158,13 +1168,13 @@ Pour le bruit causé par l’ensemble du trafic sur les aérodromes civils où c
 <tr><td colspan="4"><sup>1</sup> Les valeurs plus élevées sont applicables pour la première heure de la nuit (22 à 23 heures).</td></tr>
 </table>
 
-### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image1.png)</sub>max
+### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image1.png)</sub>max
 
-Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image2.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
+Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image2.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
 
 <table>
 <tr><td>Degré de sensibilité (art. 43)</td><td>Valeur de planification</td><td>Valeur limite d’immissions</td><td>Valeur d’alarme</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image3.png)</sub>max en dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image3.png)</sub>max en dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1234,11 +1244,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Les vols qui ont lieu après la deuxième (23 à 24 heures) et avant la dernière heure de la nuit (05 à 06 heures) sont attribués à la deuxième heure de la nuit (23 à 24 heures).
 
-### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image4.png)</sub>max pour les hélistations
+### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image4.png)</sub>max pour les hélistations
 
-<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image2.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
+<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image2.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
 
-<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image5.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
+<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image5.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
 
 Annexe 6[^t-4]
 
@@ -1277,7 +1287,7 @@ Annexe 6[^t-4]
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit de l’industrie, des arts et métiers et autres bruits semblables se calcule séparément pour le jour (7 à 19 h) et pour la nuit (19 à 7 h) à partir des niveaux d’évaluation partiels Lr,i de chaque phase de bruit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image6.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lr,i se calcule pour la durée moyenne journalière de la phase de bruit i comme il suit:
 
@@ -1380,7 +1390,7 @@ Aucune valeur d’alarme n’est valable pour le bruit des installations publiqu
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit des installations de tir est la somme énergétique des niveaux d’évaluation partiels Lri des catégories d’armes:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image7.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lri est la somme du niveau de bruit moyen d’un coup de feu Li d’une catégorie d’armes et de la correction de niveau Ki:
 
@@ -1388,7 +1398,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Le niveau de bruit moyen d’un coup de feu Li est la moyenne énergétique, pondérée en fonction du nombre de coups de feu, des niveaux de bruit moyens des coups de feu Lj d’un type d’arme, respectivement d’un type de munition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image8.png)
 
 <sup>4</sup> La moyenne énergétique du niveau de bruit d’un coup de feu Lj est déterminée au moyen de mesures du niveau maximal, pondéré A, avec la constante de temps FAST.
 

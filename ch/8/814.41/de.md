@@ -4,11 +4,11 @@ title: Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)
 short: LSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: de
-version: 2024-11-01
+version: 2025-01-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20241101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/de"
 
 (LSV)
 
-vom 15. Dezember 1986 (Stand am 1. November 2024)
+vom 15. Dezember 1986 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -394,13 +394,14 @@ Der Bund gewährt Beiträge für Sanierungen und Schallschutzmassnahmen an beste
 - a. Hauptstrassen nach Artikel 12 MinVG[^21-2];
 - b. übrigen Strassen.
 
-<sup>2</sup> Die Beiträge nach Absatz 1 Buchstabe a sind Bestandteil der Globalbeiträge gemäss Artikel 13 MinVG. Die Beiträge nach Absatz 1 Buchstabe b werden global für die in Programmvereinbarungen mit den Kantonen festgelegten Strecken gewährt.
+<sup>2</sup> Die Beiträge nach Absatz 1 Buchstabe a sind Bestandteil der Globalbeiträge gemäss Artikel 13 MinVG. Die Beiträge nach Absatz 1 Buchstabe b werden global im Rahmen von Programmvereinbarungen mit den Kantonen gewährt.[^21-3]
 
-<sup>3</sup> …[^21-3]
+<sup>3</sup> …[^21-4]
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 1. April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 [^21-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^21-3]: Eingefügt durch Ziff. I der V vom 21. Febr. 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Aufgehoben durch Ziff. I der V vom 12. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-3]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-4]: Eingefügt durch Ziff. I der V vom 21. Febr. 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Aufgehoben durch Ziff. I der V vom 12. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 22
 
@@ -412,9 +413,12 @@ Der Bund gewährt Beiträge für Sanierungen und Schallschutzmassnahmen an beste
 
 Das Gesuch muss insbesondere Angaben enthalten über:
 
-- a. die während der Programmvereinbarungsdauer zu sanierenden Strassen oder Strassenabschnitte;
+- a.[^22-1] …
 - b. die vorgesehenen Sanierungs- und Schallschutzmassnahmen und deren Kosten;
-- c. die zu erzielende Wirksamkeit dieser Massnahmen.
+- c.[^22-2] die zu erzielende Wirksamkeit der Sanierungsmassnahmen.
+
+[^22-1]: Aufgehoben durch Ziff. I der V vom 12. Mai 2021, mit Wirkung seit 1. Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^22-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 23
 
@@ -426,15 +430,18 @@ Das Gesuch muss insbesondere Angaben enthalten über:
 
 Gegenstand der Programmvereinbarung sind insbesondere:
 
-- a. die zu sanierenden Strassen- oder Strassenabschnitte;
+- a.[^23-1] die Wirksamkeit der Sanierungsmassnahmen;
+- a<sup>bis</sup>.[^23-2] die Schallschutzmassnahmen an bestehenden Gebäuden;
 - b. die Beitragsleistung des Bundes;
 - c. das Controlling.
 
-<sup>3</sup> Die Dauer der Programmvereinbarung beträgt vier Jahre; in begründeten Fällen kann eine längere oder kürzere Dauer vereinbart werden.[^23-1]
+<sup>3</sup> Die Dauer der Programmvereinbarung beträgt vier Jahre; in begründeten Fällen kann eine längere oder kürzere Dauer vereinbart werden.[^23-3]
 
 <sup>4</sup> Das BAFU erlässt Richtlinien über das Vorgehen bei Programmvereinbarungen sowie über die Angaben und Unterlagen zu den Gegenständen der Programmvereinbarung.
 
-[^23-1]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 1. April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-2]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-3]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 1. April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
 #### Art. 24
 
@@ -442,14 +449,17 @@ Gegenstand der Programmvereinbarung sind insbesondere:
 
 <sup>1</sup>
 
-Die Höhe der Beiträge für Sanierungen richtet sich nach:
+Die Höhe der Beiträge für Sanierungen richtet sich nach der Wirksamkeit der Sanierungsmassnahmen. Massgebend dafür sind:
 
-- a. der Anzahl Personen, die durch diese Massnahmen geschützt werden; und
-- b. der Reduktion der Lärmbelastung.
+- a. die Anzahl Personen, die durch die Sanierungsmassnahmen vor schädlichen oder lästigen Lärmimmissionen geschützt werden; und
+- b. die Anzahl Personen, bei denen die Lärmbelastung durch diese Massnahmen wahrnehmbar gesenkt wird.[^24-1]
 
-<sup>2</sup> Für Schallschutzmassnahmen an bestehenden Gebäuden werden 400 Franken pro Schallschutzfenster oder andere bauliche, in ihrer Wirkung gleichwertige Schallschutzmassnahme gewährt.
+<sup>2</sup> Für Schallschutzmassnahmen an bestehenden Gebäuden werden 200 Franken pro Schallschutzfenster oder andere bauliche, in ihrer Wirkung gleichwertige Schallschutzmassnahme gewährt.[^24-2]
 
 <sup>3</sup> Die Höhe der Beiträge wird zwischen Bund und Kanton ausgehandelt.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 24a und 24b
 
@@ -958,7 +968,7 @@ Die Belastungsgrenzwerte nach Ziffer 2 gelten für Strassenverkehrslärm. Dazu g
 
 <sup>1</sup> Der Beurteilungspegel Lr für Strassenverkehrslärm wird aus den Teilbeurteilungspegeln des Motorfahrzeuglärms (Lr1) und des Bahnlärms (Lr2) wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image1.png)
+Lr = 10 ⋅ log (10<sup>0,1 Lr1</sup> +10<sup>0,1 Lr2</sup>)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr1 ist die Summe des von Motorfahrzeugen verursachten A-bewerteten Mittelungspegels Leq,m und der Pegelkorrektur K1:
 
@@ -1051,7 +1061,7 @@ Anhang 4
 
 <sup>1</sup> Der Beurteilungspegel Lr für Eisenbahnlärm wird aus den Teilbeurteilungspegeln für Fahrlärm (Lr1) und Rangierlärm (Lr2) wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image2.png)
+Lr = 10 ⋅ log (10<sup>01,</sup> <sup>⋅</sup> <sup>Lr1</sup> + 10<sup>01,</sup> <sup>⋅</sup> <sup>Lr2</sup>)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr1 ist die Summe des vom Fahrbetrieb verursachten A‑bewerteten Mittelungspegels Leq,f und der Pegelkorrektur K1:
 
@@ -1158,13 +1168,13 @@ Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm
 <tr><td colspan="4">[tab] <sup>1</sup> Die höheren Werte gelten für die erste Nachtstunde (22–23 Uhr)</td></tr>
 </table>
 
-### 23 Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image3.png)</sub>max
+### 23 Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image1.png)</sub>max
 
-Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm des Verkehrs auf zivilen Flugplätzen, auf denen ausschliesslich Helikopter verkehren (Helikopterflugplätze), die nachfolgenden Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image4.png)</sub>max:
+Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm des Verkehrs auf zivilen Flugplätzen, auf denen ausschliesslich Helikopter verkehren (Helikopterflugplätze), die nachfolgenden Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image2.png)</sub>max:
 
 <table>
 <tr><td>Empfindlichkeitsstufe (Art. 43)</td><td>Planungswert</td><td>Immissionsgrenzwert</td><td>Alarmwert</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image5.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image6.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image6.png)</sub>in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image4.png)</sub>in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1234,11 +1244,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Flüge nach der zweiten (23–24 Uhr) und vor der letzten Nachtstunde (05–06 Uhr) werden der zweiten Nachtstunde (23–24 Uhr) zugerechnet.
 
-### 5 Ermittlung des mittleren maximalen Lärmpegels <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image7.png)</sub>max bei Helikopterflugplätzen
+### 5 Ermittlung des mittleren maximalen Lärmpegels <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image5.png)</sub>max bei Helikopterflugplätzen
 
-<sup>1</sup> Der mittlere maximale Lärmpegel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image4.png)</sub>max bei Helikopterflugplätzen ist das energetische Mittel der maximalen Lärmpegel einer repräsentativen Anzahl Über- oder Vorbeiflüge.
+<sup>1</sup> Der mittlere maximale Lärmpegel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image2.png)</sub>max bei Helikopterflugplätzen ist das energetische Mittel der maximalen Lärmpegel einer repräsentativen Anzahl Über- oder Vorbeiflüge.
 
-<sup>2</sup> Messungen zur Ermittlung des <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image8.png)</sub>max müssen mit der Geräteeinstellung SLOW durchgeführt werden.
+<sup>2</sup> Messungen zur Ermittlung des <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image6.png)</sub>max müssen mit der Geräteeinstellung SLOW durchgeführt werden.
 
 Anhang 6[^t-4]
 
@@ -1277,7 +1287,7 @@ Anhang 6[^t-4]
 
 <sup>1</sup> Der Beurteilungspegel Lr für Industrie- und Gewerbelärm und ähnliche Lärmarten wird, getrennt für den Tag (07 bis 19 Uhr) und die Nacht (19 bis 07 Uhr), aus den Teilbeurteilungspegeln Lr,i der einzelnen Lärmphasen wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image7.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr,i wird für die durchschnittliche tägliche Dauer der Lärmphase i wie folgt berechnet:
 
@@ -1285,17 +1295,12 @@ Lr,i = Leq,i + K1,i + K2,i + K3,i + 10 ⋅ log (ti/to)
 
 Dabei bedeuten:
 
-Leq,i A-bewerteter Mittelungspegel während der Lärmphase i;
-
-K1,i Pegelkorrekturen für die Lärmphase i;
-
-K2,i Pegelkorrekturen für die Lärmphase i;
-
-K3,i Pegelkorrekturen für die Lärmphase i;
-
-ti durchschnittliche tägliche Dauer der Lärmphase i in Minuten;
-
-to = 720 Minuten.
+- Leq,i A-bewerteter Mittelungspegel während der Lärmphase i;
+- K1,i Pegelkorrekturen für die Lärmphase i;
+- K2,i Pegelkorrekturen für die Lärmphase i;
+- K3,i Pegelkorrekturen für die Lärmphase i;
+- ti durchschnittliche tägliche Dauer der Lärmphase i in Minuten;
+- to = 720 Minuten.
 
 <sup>3</sup> Lärmphasen sind Zeitabschnitte, in denen am Immissionsort ein nach Schallpegelhöhe sowie Ton- und Impulsgehalt einheitlicher Lärm einwirkt.
 
@@ -1385,7 +1390,7 @@ Für Lärm von öffentlichen Anlagen nach Ziffer 1 Absatz 3[^annex7-lvlu1-lvl2-1
 
 <sup>1</sup> Der Beurteilungspegel Lr für den Lärm von Schiessanlagen ist die energetische Summe der Teilbeurteilungspegel Lri der Waffenkategorien:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image8.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lri ist die Summe des mittleren Einzelschusspegels Li einer Waffenkategorie und der Pegelkorrektur Ki:
 
@@ -1393,15 +1398,14 @@ Lri = Li + Ki
 
 <sup>3</sup> Der mittlere Einzelschusspegel Li ist das über die Schusszahlen gewichtete energetische Mittel der energetisch gemittelten Einzelschusspegel Lj eines Waffen- bzw. Munitionstyps:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image9.png)
 
 <sup>4</sup> Der energetisch gemittelte Einzelschusspegel Lj ist anhand von Messungen des A‑bewerteten Maximalpegels mit der Zeitkonstanten FAST zu ermitteln.
 
 Dabei bedeutet:
 
-Mj die Anzahl jährlicher Schüsse im Durchschnitt von drei Jahren, welche mit einem Waffen- bzw. einem Munitionstyp einer Waffenkategorie abgegeben werden;
-
-Mi die Anzahl jährlicher Schüsse im Durchschnitt von drei Jahren, welche mit einer Waffenkategorie abgegeben werden.
+- Mj die Anzahl jährlicher Schüsse im Durchschnitt von drei Jahren, welche mit einem Waffen- bzw. einem Munitionstyp einer Waffenkategorie abgegeben werden;
+- Mi die Anzahl jährlicher Schüsse im Durchschnitt von drei Jahren, welche mit einer Waffenkategorie abgegeben werden.
 
 ### 32 Pegelkorrektur
 
@@ -1413,9 +1417,8 @@ Ki = 10 ⋅ log (Dwi + 3 ⋅ Dsi) + 3 ⋅ log Mi – 44
 
 Dabei bedeutet:
 
-Dwi die Anzahl jährlicher Schiesshalbtage an Werktagen im Durchschnitt von drei Jahren pro Waffenkategorie;
-
-Dsi die Anzahl jährlicher Schiesshalbtage an Sonn- und allgemeinen Feiertagen im Durchschnitt von drei Jahren pro Waffenkategorie.
+- Dwi die Anzahl jährlicher Schiesshalbtage an Werktagen im Durchschnitt von drei Jahren pro Waffenkategorie;
+- Dsi die Anzahl jährlicher Schiesshalbtage an Sonn- und allgemeinen Feiertagen im Durchschnitt von drei Jahren pro Waffenkategorie.
 
 <sup>2</sup> Bei der Erhebung der Schiesshalbtage und der Anzahl Schüsse werden alle Schiessen berücksichtigt, die innerhalb von drei Jahren regelmässig stattfinden.
 
@@ -1554,21 +1557,16 @@ Anhang 9[^t-7]
 
 Der Beurteilungspegel Lr für den Schiesslärm von militärischen Waffen-, Schiess- und Übungsplätzen wird aus den Schallereignispegeln LAE1 und LAE2 sowie den Pegelkorrekturen K1 und K2 wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/de/xml/image/image12.png)
+L<sub>r</sub> =10 **<sup>.</sup>**log(10<sup>0.</sup> <sup>1</sup><sup>.</sup><sup>L</sup> <sup>AE1</sup> +10<sup>0.</sup> <sup>1</sup><sup>.</sup><sup>(L</sup> <sup>AE2</sup> <sup>+K1)</sup> ) – 10 **<sup>.</sup>**log(T) + K2
 
 Dabei bedeutet:
 
-L<sub>r</sub> Beurteilungspegel für den Lärm von militärischen Waffen-, Schiess- und Übungsplätzen;
-
-T Beurteilungszeit in Sekunden = 52 Wochen · 5 Tage · 12 Stunden · 60 Minuten · 60 Sekunden;
-
-L<sub>AE1</sub> Schallereignispegel aller Schiessereignisse während eines Jahres im Zeitraum von Montag bis Freitag, 07 bis 19 Uhr;
-
-L<sub>AE2</sub> Schallereignispegel aller Schiessereignisse während eines Jahres ausserhalb des Zeitraums von Montag bis Freitag, 07 bis 19 Uhr;
-
-K1 5
-
-K2 15
+- L<sub>r</sub> Beurteilungspegel für den Lärm von militärischen Waffen-, Schiess- und Übungsplätzen;
+- T Beurteilungszeit in Sekunden = 52 Wochen · 5 Tage · 12 Stunden · 60 Minuten · 60 Sekunden;
+- L<sub>AE1</sub> Schallereignispegel aller Schiessereignisse während eines Jahres im Zeitraum von Montag bis Freitag, 07 bis 19 Uhr;
+- L<sub>AE2</sub> Schallereignispegel aller Schiessereignisse während eines Jahres ausserhalb des Zeitraums von Montag bis Freitag, 07 bis 19 Uhr;
+- K1 5
+- K2 15
 
 ### 32 Ermittlung des Schiessbetriebs
 

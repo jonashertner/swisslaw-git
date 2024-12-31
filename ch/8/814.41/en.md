@@ -4,11 +4,11 @@ title: Noise Abatement Ordinance of 15 December 1986 (NAO)
 short: NAO
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: en
-version: 2024-11-01
+version: 2025-01-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20241101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20241101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NAO)
 
-of 15 December 1986 (Status as of 1 November 2024)
+of 15 December 1986 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -396,27 +396,31 @@ The Confederation shall grant subsidies for improvements and soundproofing measu
 - a. trunk roads according to Article 12 MinOA[^21-2];
 - b. other roads.
 
-<sup>2</sup> The subsidies granted under paragraph 1 letter a form part of the global payments according to Article 13 MinOA. The payments under paragraph 1 letter b are granted globally for the road sections defined with the cantons in programme agreements.
+<sup>2</sup> The subsidies granted under paragraph 1 letter a form part of the global payments according to Article 13 MinOA. The payments under paragraph 1 letter b are granted globally in terms of programme agreements with the cantons.[^21-3]
 
-<sup>3</sup> ...[^21-3]
+<sup>3</sup> ...[^21-4]
 
 [^21-1]: Amended by No I of the O of 21 Feb. 2018, in force since 1 April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 [^21-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^21-3]: Inserted by No I of the O of 21 Feb. 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Repealed by No I of the O of 12 May 2021, with effect from 1 July 2021 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-3]: Sentence amended by No I of the O of 12 May 2021, in force since 1 Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-4]: Inserted by No I of the O of 21 Feb. 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Repealed by No I of the O of 12 May 2021, with effect from 1 July 2021 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 22
 
 **Application**
 
-<sup>1</sup> The canton submits the application for subsidies for improvements and soundproofing measures for roads according to Article 21 paragraph 1 letter b to the FOEN.
+<sup>1</sup> The canton submits the application for subsidies for improvements and soundproofing measures for roads in accordance with Article 21 paragraph 1 letter b to the FOEN.
 
 <sup>2</sup>
 
 The application must in particular contain information on:
 
-- a. the roads or road sections to be improved during the period covered by the programme agreement;
+- a.[^22-1] …
 - b. the improvements and soundproofing measures planned and their cost;
-- c. the efficiency of the measures.
+- c.[^22-2] the effectiveness to be achieved by the improvements.
+
+[^22-1]: Repealed by No I of the O of 12 May 2021, with effect from 1 Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^22-2]: Amended by No I of the O of 12 May 2021, in force since 1 Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 23
 
@@ -428,15 +432,18 @@ The application must in particular contain information on:
 
 The programme agreement covers in particular:
 
-- a. the roads or road sections to be improved;
+- a.[^23-1] the effectiveness of the improvements;
+- a<sup>bis</sup>.[^23-2] the soundproofing measures on existing buildings;
 - b. the amount paid by the Confederation;
 - c. the control procedures.
 
-<sup>3</sup> The programme agreement applies for four years; in justified cases a longer or shorter period may be agreed.[^23-1]
+<sup>3</sup> The programme agreement applies for four years; in justified cases a longer or shorter period may be agreed.[^23-3]
 
 <sup>4</sup> The FOEN issues directives on the procedure followed for programme agreements and on the information and documentation relating to the subjects of the programme agreement.
 
-[^23-1]: Amended by No I of the O of 21 Feb. 2018, in force since 1 April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
+[^23-1]: Amended by No I of the O of 12 May 2021, in force since 1 Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-2]: Inserted by No I of the O of 12 May 2021, in force since 1 Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-3]: Amended by No I of the O of 21 Feb. 2018, in force since 1 April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
 #### Art. 24
 
@@ -444,14 +451,17 @@ The programme agreement covers in particular:
 
 <sup>1</sup>
 
-The amount of the subsidy for improvements is determined by:
+The amount of the subsidy for improvements is determined by the effectiveness of the improvements. The determining factors are as follows:
 
-- a. the number of people who are protected by these measures; and
-- b. the reduction in noise pollution.
+- a. the number of people who are protected by the improvements against harmful or nuisance noise exposure; and
+- b. the number of people whose exposure to noise pollution is perceptibly reduced by the measures.[^24-1]
 
-<sup>2</sup> For soundproofing measures on existing buildings, CHF 400 is allocated per soundproof window or other equally effective structural noise protection measure.
+<sup>2</sup> For soundproofing measures on existing buildings, CHF 200 is allocated per soundproof window or other equally effective structural noise protection measure.[^24-2]
 
 <sup>3</sup> The amount of the subsidy is negotiated between the Confederation and the canton.
+
+[^24-1]: Amended by No I of the O of 12 May 2021, in force since 1 Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^24-2]: Amended by No I of the O of 12 May 2021, in force since 1 Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 24a and 24b
 
@@ -960,7 +970,7 @@ The exposure limit values specified in Number 2 apply to road traffic noise. Thi
 
 <sup>1</sup> The rating sound level Lr for road traffic noise is determined from the partial rating sound levels for motor vehicle noise (Lr1) and railway noise (Lr2) as follows:
 
-Lr = 10 x log (10<sup>0,1 x Lr1</sup> + 10<sup>0,1 x Lr2</sup> )
+Lr = 10 ⋅ log (10<sup>0,1 Lr1</sup> +10<sup>0,1 Lr2</sup>)
 
 <sup>2</sup> The partial rating sound level Lr1 is the sum of the equivalent continuous A‑weighted sound level Leq,m resulting from motor vehicles, and the level correction K1:
 
@@ -1053,7 +1063,7 @@ Annex 4
 
 <sup>1</sup> The rating sound level Lr for railway noise is determined from the partial rating sound levels for vehicle noise (Lr1) and shunting noise (Lr2) as follows:
 
-Lr = 10 x log (10<sup>0,1 x Lr1</sup> + 10<sup>0,1 x Lr2</sup>)
+Lr = 10 ⋅ log (10<sup>01,</sup> <sup>⋅</sup> <sup>Lr1</sup> + 10<sup>01,</sup> <sup>⋅</sup> <sup>Lr2</sup>)
 
 <sup>2</sup> The partial rating sound level Lr1 is the sum of the equivalent continuous A‑weighted sound level Leq,f resulting from vehicle operation, and the level correction K1:
 
@@ -1160,13 +1170,13 @@ For the total traffic noise from civil aerodromes used by heavy aircraft, the fo
 <tr><td colspan="4">[tab] <sup>1</sup> The higher value applies for the first night hour (22-23 hours)</td></tr>
 </table>
 
-### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image1.png)</sub>max
+### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image1.png)</sub>max
 
-For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
+For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
 
 <table>
 <tr><td>Sensitivity level (Art. 43)</td><td>Planning value</td><td>Impact threshold</td><td>Alarm value</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1236,11 +1246,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Flights taking place after the second night hour (23-24 hours) and before the last night hour (05-06) are assigned to the second night hour (23-24 hours).
 
-### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image5.png)</sub>max for Heliports
+### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image5.png)</sub>max for Heliports
 
-<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
+<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
 
-<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
+<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
 
 Annex 6 [^t-4]
 
@@ -1279,7 +1289,7 @@ Annex 6 [^t-4]
 
 <sup>1</sup> The rating sound level Lr for industrial, commercial and similar types of noise is determined from the partial rating sound levels Lr,i for each noise phase as follows, whereby separate calculations are made for daytime (07 to 19 hours) and night-time (19 to 07 hours):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image7.png)
 
 <sup>2</sup> The partial rating sound level Lr,i is determined for the average daily duration of the noise phase i as follows:
 
@@ -1387,7 +1397,7 @@ For noise from public installations according to Number 1 paragraph 3[^annex7-lv
 
 <sup>1</sup> The rating sound level Lr for the noise from firing range installations is the energetic sum of the partial rating sound level Lri for the weapons categories:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image8.png)
 
 <sup>2</sup> The partial rating sound level Lri is the sum of the average single shot sound level Li of a weapons category and the level correction Ki:
 
@@ -1395,7 +1405,7 @@ Lri = Li + Ki
 
 <sup>3</sup> The average single shot sound level Li is the energetic average weighted according to the number of shots of the energetically averaged single shot sound level Lj of a type of weapon or type of ammunition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20241101/en/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image9.png)
 
 <sup>4</sup> The energetically averaged single shot sound level Lj must be determined using the measurements of the A-weighted maximum sound level with the FAST time constants.
 
