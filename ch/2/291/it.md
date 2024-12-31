@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 1987 sul diritto internazionale privato (L
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20250101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20230901/it"
 
 (LDIP)
 
-del 18 dicembre 1987 (Stato 1° settembre 2023)
+del 18 dicembre 1987 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ data la competenza della Confederazione in materia di politica estera[^ingress-1
 decreta:
 
 [^ingress-1]: RU **1988** 1776; FF **1983** I 239 Questa definizione di competenza trova riscontro nell’art. 54 cpv. 1 della Cost. del 18 apr. 1999 (RS **101**).
-[^ingress-2]: [CS **1** 3]. Questa disp. corrisponde all’art. 122 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-2]: [CS **1** 3]. Questa disp. corrisponde all’art. 122 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-3]: [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)
 [^ingress-4]: Nuovo testo giusta l’all. n. 1 della LF dell’8 ott. 1999 sui lavoratori distaccati in Svizzera, in vigore dal 1° giu. 2004 ([RU 2003 1370](https://fedlex.data.admin.ch/eli/oc/2003/231); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 
@@ -72,22 +72,27 @@ Se la presente legge non prevede altro foro in Svizzera, l’azione di convalida
 
 #### Art. 5
 
-<sup>1</sup> Le parti possono pattuire il foro per una controversia esistente o futura in materia di pretese patrimoniali derivanti da un determinato rapporto giuridico. Il patto può essere stipulato per scritto, per telegramma, telex, facsimile o altro mezzo di trasmissione che ne consenta la prova per testo. Salvo diversa stipulazione, il foro prorogato è esclusivo.
+<sup>1</sup> Le parti possono pattuire il foro per una controversia esistente o futura in materia di pretese patrimoniali derivanti da un determinato rapporto giuridico. Il patto può essere stipulato per scritto o in un’altra forma che consenta la prova per testo.[^5-1] Salvo diversa stipulazione, il foro prorogato è esclusivo.
+
+<sup>1bis</sup> Se le parti hanno semplicemente convenuto che il foro competente è in Svizzera, la competenza dei tribunali svizzeri è determinata dalle disposizioni della presente legge. In mancanza di tali disposizioni, è competente il tribunale adito per primo.[^5-2]
 
 <sup>2</sup> La proroga di foro è inefficace se una parte si trova abusivamente privata di un foro previsto dal diritto svizzero.
 
-<sup>3</sup>
+<sup>3</sup> ...[^5-3]
 
-Il tribunale pattuito non può declinare la propria competenza se:
-
-- a. una parte ha il domicilio, la dimora abituale o una stabile organizzazione nel Cantone del tribunale pattuito o
-- b. giusta la presente legge, all’oggetto litigioso dev’essere applicato il diritto svizzero.
+[^5-1]: Nuovo testo nel per. giusta l’all. n. 1 del DF del 22 dic. 2023 che approva e traspone nel diritto svizzero la Convenzione dell’Aia sugli accordi di scelta del foro, in vigore dal 1° gen. 2025 ([RU 2024 561](https://fedlex.data.admin.ch/eli/oc/2024/561); [FF 2023 1460](https://fedlex.data.admin.ch/eli/fga/2023/1460)).
+[^5-2]: Introdotto dall’all. n. 1 del DF del 22 dic. 2023 che approva e traspone nel diritto svizzero la Convenzione dell’Aia sugli accordi di scelta del foro, in vigore dal 1° gen. 2025 ([RU 2024 561](https://fedlex.data.admin.ch/eli/oc/2024/561); [FF 2023 1460](https://fedlex.data.admin.ch/eli/fga/2023/1460)).
+[^5-3]: Abrogato dall’all. n. 2 del DF del 22 dic. 2023 che approva e traspone nel diritto svizzero la Convenzione dell’Aia sugli accordi di scelta del foro, in vigore dal 1° gen. 2025 ([RU 2024 561](https://fedlex.data.admin.ch/eli/oc/2024/561); [FF 2023 1460](https://fedlex.data.admin.ch/eli/fga/2023/1460)).
 
 ### V. Costituzione in giudizio del convenuto
 
 #### Art. 6
 
-Nelle controversie patrimoniali, l’incondizionata costituzione in giudizio del convenuto comporta competenza del tribunale svizzero adito, sempreché quest’ultimo non possa declinare la propria competenza giusta l’articolo 5 capoverso 3.
+[^6-1]
+
+Nelle controversie patrimoniali, l’incondizionata costituzione in giudizio del convenuto comporta competenza del tribunale svizzero adito.
+
+[^6-1]: Nuovo testo giusta l’all. cifra I del DF del 22 dic. 2023 che approva e traspone nel diritto svizzero la Convenzione dell’Aia sugli accordi di scelta del foro, in vigore dal 1° gen. 2025 ([RU 2024 561](https://fedlex.data.admin.ch/eli/oc/2024/561); [FF 2023 1460](https://fedlex.data.admin.ch/eli/fga/2023/1460)).
 
 ### VI. Patto d’arbitrato
 
@@ -166,7 +171,7 @@ Sono competenti a prendere provvedimenti cautelari:
 - a. i tribunali e le autorità svizzeri competenti nel merito; oppure
 - b. i tribunali e le autorità svizzeri del luogo in cui dev’essere eseguito il provvedimento.
 
-[^10-1]: Nuovo testo giusta l’all. 1 n. II 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^10-1]: Nuovo testo giusta l’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### XIII. Assistenza giudiziaria
 
@@ -182,7 +187,7 @@ Sono competenti a prendere provvedimenti cautelari:
 
 L’assistenza giudiziaria da e verso la Svizzera avviene per il tramite dell’Ufficio federale di giustizia.
 
-[^11-1]: Nuovo testo giusta l’all. 1 n. II 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^11-1]: Nuovo testo giusta l’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 2. Diritto applicabile
 
@@ -198,8 +203,8 @@ L’assistenza giudiziaria da e verso la Svizzera avviene per il tramite dell’
 
 <sup>4</sup> Alle rogatorie di notifica o di assunzioni di prove in Svizzera e dalla Svizzera è applicabile la Convenzione dell’Aia del 1° marzo 1954[^11a-2] relativa alla procedura civile.
 
-[^11a-1]: Introdotto dall’all. 1 n. II 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^11a-2]: [RS 0.274.12](https://fedlex.data.admin.ch/eli/cc/1957/467_467_485)
+[^11a-1]: Introdotto dall’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^11a-2]: [RS 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
 
 ### 3. Anticipazione delle spese e cauzione per le spese ripetibili
 
@@ -207,10 +212,10 @@ L’assistenza giudiziaria da e verso la Svizzera avviene per il tramite dell’
 
 [^11b-1]
 
-L’anticipazione delle spese e la cauzione per le spese ripetibili sono regolate dal Codice di procedura civile del 19 dicembre 2008[^11b-2] (CPC).
+L’anticipazione delle spese e la cauzione per le spese ripetibili sono regolate dal CPC[^11b-2].
 
-[^11b-1]: Introdotto dall’all. 1 n. II 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^11b-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^11b-1]: Introdotto dall’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)). Nuovo testo giusta il cifra II n. 3 della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^11b-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 4. Gratuito patrocinio
 
@@ -220,13 +225,13 @@ L’anticipazione delle spese e la cauzione per le spese ripetibili sono regolat
 
 Alle persone con domicilio all’estero è concesso il gratuito patrocinio alle stesse condizioni delle persone domiciliate in Svizzera.
 
-[^11c-1]: Introdotto dall’all. 1 n. II 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^11c-1]: Introdotto dall’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 12
 
 [^12-1]
 
-[^12-1]: Abrogato dall’all. 1 n. II 18 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^12-1]: Abrogato dall’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### Sezione 3: Diritto applicabile
 
@@ -296,7 +301,7 @@ Giusta la presente legge, la persona fisica ha:
 
 <sup>2</sup> Nessuno può avere contemporaneamente il suo domicilio in più luoghi. In mancanza di domicilio, fa stato la dimora abituale. Le disposizioni del Codice civile svizzero[^20-1] concernenti il domicilio e la dimora non sono applicabili.
 
-[^20-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^20-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### II. Sede e stabile organizzazione delle società e dei trust
 
@@ -340,8 +345,8 @@ La cittadinanza di una persona rispetto a uno Stato è determinata secondo il di
 
 <sup>3</sup> Laddove la presente legge parla di cittadinanza, per gli apolidi e i rifugiati fa stato il domicilio.
 
-[^24-1]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^24-2]: [[RU 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718), [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062), [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674), [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)[1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 1, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 8.1 [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876), [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)n. II 1 [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356), [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372)[2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394), [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582). [RU 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)art. 120 lett. a]. Vedi ora la L del 26 giu. 1998 ([RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)).
+[^24-1]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
+[^24-2]: [[RU 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718), [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062), [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674), [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)[1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 1, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)cifra I n. 8.1 [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876), [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)cifra II n. 1 [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356), [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372)[2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394), [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582). [RU 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)art. 120 lett. a]. Vedi ora la L del 26 giu. 1998 ([RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)).
 
 ### Sezione 5: Riconoscimento e esecuzione di decisioni straniere
 
@@ -502,7 +507,7 @@ Il nome è iscritto nei registri dello stato civile giusta i principi svizzeri s
 
 Gli articoli 37‒40 si applicano per analogia al sesso di una persona.
 
-[^40a-1]: Introdotto dal n. II della LF del 18 dic. 2020 (Cambiamento del sesso nel registro dello stato civile), in vigore dal 1° gen. 2022 ([RU 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [FF 2020 737](https://fedlex.data.admin.ch/eli/fga/2020/129)).
+[^40a-1]: Introdotto dalla cifra II della LF del 18 dic. 2020 (Cambiamento del sesso nel registro dello stato civile), in vigore dal 1° gen. 2022 ([RU 2021 668](https://fedlex.data.admin.ch/eli/oc/2021/668); [FF 2020 737](https://fedlex.data.admin.ch/eli/fga/2020/129)).
 
 ### V. Dichiarazione di scomparsa
 
@@ -544,20 +549,26 @@ La dichiarazione estera di scomparsa o di morte è riconosciuta in Svizzera se p
 
 La celebrazione del matrimonio in Svizzera è regolata dal diritto svizzero.
 
-[^44-1]: Nuovo testo giusta il n. I 5 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^44-1]: Nuovo testo giusta la cifra I n. 5 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226);[FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292))
 
 ### III. Matrimonio celebrato all’estero
 
 #### Art. 45
 
-<sup>1</sup> Il matrimonio celebrato validamente all’estero è riconosciuto in Svizzera.
+<sup>1</sup> Il matrimonio celebrato validamente all’estero è riconosciuto in Svizzera. È fatto salvo l’articolo 45*a*.[^45-1]
 
-<sup>2</sup> Se uno degli sposi è cittadino svizzero o se entrambi sono domiciliati in Svizzera, il matrimonio celebrato all’estero è riconosciuto qualora la celebrazione all’estero non sia stata manifestamente voluta per eludere le norme del diritto svizzero sulla nullità del matrimonio.[^45-1]
+<sup>2</sup> Se uno degli sposi è cittadino svizzero o se entrambi sono domiciliati in Svizzera, il matrimonio celebrato all’estero è riconosciuto qualora la celebrazione all’estero non sia stata manifestamente voluta per eludere le norme del diritto svizzero sulla nullità del matrimonio.[^45-2]
 
-<sup>3</sup> ...[^45-2]
+<sup>3</sup>
 
-[^45-1]: Nuovo testo giusta l’all. n. 3 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
-[^45-2]: Introdotto dall’all. n. 17 della L del 18 giu. 2004 sull’unione domestica registrata ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)). Abrogato dall’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), con effetto dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+Un matrimonio celebrato all’estero non è riconosciuto:
+
+- a. fintanto che i due coniugi non abbiano compiuto il sedicesimo anno di età; o
+- b. se al momento della celebrazione uno dei coniugi non aveva compiuto il diciottesimo anno di età e almeno uno di essi era domiciliato in Svizzera.[^45-3]
+
+[^45-1]: Introdotto nuovo periodo dall’all. n. 4 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 (RU 2024 590; FF 2023 2127).
+[^45-2]: Nuovo testo giusta l’all. n. 3 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
+[^45-3]: Introdotto dall’all. n. 17 della L del 18 giu. 2004 sull’unione domestica registrata ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)). Nuovo testo giusta l’all. n. 4 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### IV. Nullità del matrimonio
 
@@ -573,7 +584,7 @@ La celebrazione del matrimonio in Svizzera è regolata dal diritto svizzero.
 
 <sup>4</sup> Le decisioni straniere che constatano la nullità di un matrimonio sono riconosciute in Svizzera se sono state pronunciate nello Stato in cui è stato celebrato il matrimonio. L’articolo 65 si applica per analogia se l’azione è stata promossa da uno dei coniugi.
 
-[^45a-1]: Introdotto dal n. II 2 della LF del 7 ott. 1994 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)). Nuovo testo giusta il n. I 5 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^45a-1]: Introdotto dalla cifra II n. 2 della LF del 7 ott. 1994 ([RU 1995 1126](https://fedlex.data.admin.ch/eli/oc/1995/1126_1126_1126); [FF 1993 I 921](https://fedlex.data.admin.ch/eli/fga/1993/1_1169_1093_921)). Nuovo testo giusta la cifra I 5 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 ### Sezione 2: Effetti del matrimonio in generale
 
@@ -609,7 +620,7 @@ Se i coniugi non hanno né domicilio né dimora abituale in Svizzera ed uno di l
 
 L’obbligo di mantenimento tra i coniugi è regolato dalla convenzione dell’Aia del 2 ottobre 1973[^49-1] sulla legge applicabile alle obbligazioni alimentari.
 
-[^49-1]: [RS 0.211.213.01](https://fedlex.data.admin.ch/eli/cc/1977/1620_1620_1620)
+[^49-1]: [RS 0.211.213.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/838)
 
 ### III. Decisioni o provvedimenti stranieri
 
@@ -632,11 +643,12 @@ Le decisioni o i provvedimenti stranieri concernenti i diritti e i doveri coniug
 
 Per le azioni o i provvedimenti concernenti i rapporti patrimoniali tra i coniugi sono competenti:
 
-- a. per la liquidazione del regime dei beni in caso di morte di un coniuge, i tribunali o le autorità svizzeri competenti a liquidare la successione (art. 86 a 89);
-- b.[^51-1] per la liquidazione del regime dei beni in caso di scioglimento giudiziale del matrimonio o di separazione, i tribunali svizzeri competenti in merito (art. 59, 60, 60*a*, 63, 64);
+- a.[^51-1] per la liquidazione del regime dei beni in caso di morte di un coniuge, i tribunali o le autorità svizzeri competenti a liquidare la successione (art. 86–89), salvo nei casi di cui all’articolo 88*b*;
+- b.[^51-2] per la liquidazione del regime dei beni in caso di scioglimento giudiziale del matrimonio o di separazione, i tribunali svizzeri competenti in merito (art. 59, 60, 60*a*, 63, 64);
 - c. negli altri casi, i tribunali o le autorità svizzeri competenti per le azioni o per i provvedimenti concernenti gli effetti del matrimonio (art. 46 e 47).
 
-[^51-1]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^51-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^51-2]: Nuovo testo giusta l’all. n. 2 della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### II. Diritto applicabile
 
@@ -723,7 +735,9 @@ Le decisioni straniere concernenti i rapporti patrimoniali tra i coniugi sono ri
 - c. sono state pronunciate o vengano riconosciute nello Stato il cui diritto è applicabile secondo la presente legge o
 - d. concernono fondi e sono state pronunciate o vengano riconosciute nello Stato di situazione dei medesimi.
 
-<sup>2</sup> Per le decisioni in materia di rapporti patrimoniali pronunciate in connessione con provvedimenti a tutela dell’unione coniugale od in seguito a morte, dichiarazione di nullità del matrimonio, divorzio o separazione, il riconoscimento è retto dalle disposizioni della presente legge concernenti gli effetti del matrimonio in generale, il divorzio o le successioni (art. 50, 65 e 96).
+<sup>2</sup> Per le decisioni in materia di rapporti patrimoniali pronunciate in connessione con provvedimenti a tutela dell’unione coniugale o in seguito a morte, dichiarazione di nullità del matrimonio, divorzio o separazione, il riconoscimento è retto dalle disposizioni della presente legge concernenti gli effetti del matrimonio in generale, il divorzio o le successioni (art. 50, 65 e 96), salvo nel caso di cui all’articolo 96 capoverso 1 lettera c.[^58-1]
+
+[^58-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### Sezione 4: Divorzio e separazione
 
@@ -1023,7 +1037,7 @@ I tribunali svizzeri competenti giusta gli articoli 79 e 80 decidono parimente s
 
 <sup>2</sup> In quanto non disciplini le pretese della madre per il mantenimento e per il rimborso delle spese insorte con il parto, la convenzione si applica per analogia.
 
-[^83-1]: [RS 0.211.213.01](https://fedlex.data.admin.ch/eli/cc/1977/1620_1620_1620)
+[^83-1]: [RS 0.211.213.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/838)
 
 ### III. Decisioni straniere
 
@@ -1052,8 +1066,8 @@ I tribunali svizzeri competenti giusta gli articoli 79 e 80 decidono parimente s
 <sup>4</sup> I provvedimenti adottati in uno Stato che non è parte alle Convenzioni menzionate nei capoversi 1 e 2 sono riconosciuti se sono stati adottati o sono riconosciuti nello Stato di dimora abituale del minore o dell’adulto.[^85-4]
 
 [^85-1]: Nuovo testo giusta l’art. 15 della LF del 21 dic. 2007 sul rapimento internazionale dei minori e sulle Conv. dell’Aia sulla protezione dei minori e degli adulti, in vigore dal 1° lug. 2009 ([RU 2009 3077](https://fedlex.data.admin.ch/eli/oc/2009/379); [FF 2007 2369](https://fedlex.data.admin.ch/eli/fga/2007/421)).
-[^85-2]: [RS 0.211.231.011](https://fedlex.data.admin.ch/eli/cc/2009/380)
-[^85-3]: [RS 0.211.232.1](https://fedlex.data.admin.ch/eli/cc/2009/381)
+[^85-2]: [RS 0.211.231.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/860)
+[^85-3]: [RS 0.211.232.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/864)
 [^85-4]: Nuovo testo giusta l’all. n. 3 della LF del 21 giu. 2013 (Autorità parentale), in vigore dal 1° lug. 2014 ([RU 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [FF 2011 8025](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ## Capitolo 6: Diritto successorio
@@ -1072,41 +1086,87 @@ I tribunali svizzeri competenti giusta gli articoli 79 e 80 decidono parimente s
 
 #### Art. 87
 
-<sup>1</sup> Se l’ereditando era un cittadino svizzero con ultimo domicilio all’estero, sono competenti i tribunali o le autorità svizzeri del luogo di origine, sempreché l’autorità estera non si occupi della successione.
+<sup>1</sup> Se l’ereditando era un cittadino svizzero con ultimo domicilio all’estero, sono competenti i tribunali o le autorità svizzeri del luogo di origine, sempreché le autorità dello Stato di domicilio non si occupino della successione. Per evitare conflitti di competenza, i tribunali o le autorità svizzeri possono declinare la propria competenza sempreché le autorità di uno Stato di origine estero dell’ereditando, dello Stato della sua ultima dimora abituale o, nel caso di singoli beni successori, dello Stato di situazione dei medesimi si occupino della successione.[^87-1]
 
-<sup>2</sup> I tribunali o le autorità svizzeri del luogo di origine sono sempre competenti se un cittadino svizzero con ultimo domicilio all’estero ha, per testamento o contratto successorio, sottoposto alla competenza o al diritto svizzeri i suoi beni situati in Svizzera o l’intera successione. È fatto salvo l’articolo 86 capoverso 2.
+<sup>2</sup> I tribunali o le autorità del luogo di origine sono sempre competenti se un cittadino svizzero con ultimo domicilio all’estero ha, per testamento o contratto successorio, sottoposto alla competenza svizzera o, senza riserva in merito a tale competenza, al diritto svizzero beni situati in Svizzera o l’intera successione.[^87-2] È fatto salvo l’articolo 86 capoverso 2.
+
+[^87-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^87-2]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 3. Foro del luogo di situazione
 
 #### Art. 88
 
-<sup>1</sup> Se l’ereditando era uno straniero con ultimo domicilio all’estero, per i beni situati in Svizzera sono competenti i tribunali o le autorità svizzeri del luogo di situazione, sempreché le autorità estere non se ne occupino.
+<sup>1</sup> Se l’ereditando era uno straniero con ultimo domicilio all’estero, per i beni situati in Svizzera sono competenti i tribunali o le autorità svizzeri del luogo di situazione, sempreché le autorità dello Stato di domicilio non se ne occupino. Per evitare conflitti di competenza, i tribunali o le autorità svizzeri possono declinare la propria competenza sempreché le autorità di uno Stato di origine estero dell’ereditando o dello Stato della sua ultima dimora abituale si occupino della successione.[^88-1]
 
 <sup>2</sup> Se i beni sono situati in più luoghi, sono competenti i tribunali o le autorità svizzeri aditi per primi.
+
+[^88-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 3*a*. Litispendenza
+
+#### Art. 88a
+
+[^88a-1]
+
+L’articolo 9 si applica per analogia al procedimento successorio nel suo insieme.
+
+[^88a-1]: Introdotto dalla cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 3*b*. Deroga alla competenza svizzera
+
+#### Art. 88b
+
+[^88b-1]
+
+<sup>1</sup> La competenza di cui agli articoli 86–88 è esclusa, se l’ereditando ha, per testamento o contratto successorio, sottoposto l’intera successione o parte di essa alla competenza di uno Stato di origine estero e le autorità di tale Stato se ne occupano. Il disponente deve averne la cittadinanza al momento in cui dispone o al momento della morte.
+
+<sup>2</sup> La competenza di cui agli articoli 86–88 è inoltre esclusa se l’ereditando ha, per testamento o contratto successorio, sottoposto un fondo situato all’estero alla competenza dello Stato di situazione e le autorità di tale Stato se ne occupano.
+
+[^88b-1]: Introdotto dalla cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 4. Provvedimenti conservativi
 
 #### Art. 89
 
-Se l’ereditando con ultimo domicilio all’estero lascia beni in Svizzera, le autorità svizzere del luogo di situazione ordinano i necessari provvedimenti d’urgenza a loro tutela.
+[^89-1]
+
+Se l’ereditando lascia beni in Svizzera e non sussiste una competenza secondo gli articoli 86–88, le autorità svizzere del luogo di situazione ordinano i necessari provvedimenti d’urgenza a loro tutela.
+
+[^89-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### II. Diritto applicabile
 
-### 1. Ultimo domicilio in Svizzera
+### 1. Principio
+
+[^chap6-lvlII-lvl1-1]
+
+[^chap6-lvlII-lvl1-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 #### Art. 90
 
 <sup>1</sup> La successione di una persona con ultimo domicilio in Svizzera è regolata dal diritto svizzero.
 
-<sup>2</sup> Tuttavia, lo straniero può, per testamento o contratto successorio, sottoporre la successione ad uno dei suoi diritti nazionali. Tale sua disposizione è inefficace se, al momento della morte, non era più cittadino di quello Stato o se è divenuto cittadino svizzero.
+<sup>2</sup> La successione di una persona con ultimo domicilio all’estero è regolata dal diritto richiamato dalle norme di diritto internazionale privato dello Stato di domicilio. Se queste norme richiamano le norme di diritto internazionale privato svizzero, si applica il diritto successorio materiale dello Stato di domicilio.[^90-1]
 
-### 2. Ultimo domicilio all’estero
+<sup>3</sup> In quanto i tribunali o le autorità svizzeri del luogo di origine siano competenti secondo l’articolo 87 capoverso 1, la successione è regolata dal diritto svizzero.[^90-2]
+
+[^90-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^90-2]: Introdotto dalla cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 2. Scelta
 
 #### Art. 91
 
-<sup>1</sup> La successione di una persona con ultimo domicilio all’estero è regolata dal diritto richiamato dalle norme di diritto internazionale privato dello Stato di domicilio.
+[^91-1]
 
-<sup>2</sup> In quanto i tribunali o le autorità svizzeri del luogo di origine siano competenti giusta l’articolo 87, la successione di uno svizzero con ultimo domicilio all’estero è regolata dal diritto svizzero, eccetto che, per testamento o contratto successorio, l’ereditando abbia riservato espressamente il diritto del suo ultimo domicilio.
+<sup>1</sup> Una persona può sottoporre la successione, per testamento o contratto successorio, al diritto di uno dei suoi Stati di origine. Deve averne la cittadinanza al momento in cui dispone o al momento della morte. Il cittadino svizzero non può derogare alle disposizioni del diritto svizzero sulla porzione disponibile.
+
+<sup>2</sup> Se un cittadino svizzero sottopone l’intera successione o parte di essa alla competenza svizzera (art. 87 cpv. 2), la successione è considerata sottoposta al diritto svizzero salvo disposizione contraria.
+
+<sup>3</sup> La scelta del diritto svizzero per parte della successione è ammessa soltanto se è effettuata per beni situati in Svizzera e se prevede anche l’assoggettamento degli stessi alla competenza svizzera o ha tale assoggettamento come conseguenza (art. 87 cpv. 2).
+
+[^91-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 3. Estensione dello stato successorio e liquidazione della successione
 
@@ -1114,7 +1174,9 @@ Se l’ereditando con ultimo domicilio all’estero lascia beni in Svizzera, le 
 
 <sup>1</sup> Il diritto applicabile alla successione determina che cosa appartiene alla successione, chi e in qual misura vi ha diritto, chi ne sopporta i debiti, quali rimedi giuridici e provvedimenti sono ammissibili e a quali condizioni possono essere presi.
 
-<sup>2</sup> L’attuazione dei singoli provvedimenti è regolata dal diritto del luogo di sede dell’autorità competente. Questo diritto si applica in particolare ai provvedimenti conservativi e alla liquidazione della successione, inclusa l’esecuzione testamentaria.
+<sup>2</sup> L’attuazione dei singoli provvedimenti è regolata dal diritto del luogo di sede dell’autorità competente. Questo diritto si applica in particolare ai provvedimenti conservativi e alla liquidazione della successione, inclusi gli aspetti procedurali dell’esecuzione testamentaria o dell’amministrazione della successione, nonché alla questione dei diritti sulla successione dell’esecutore testamentario o dell’amministratore della successione e della sua facoltà di disporne.[^92-1]
+
+[^92-1]: Nuovo testo del secondo per. giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 4. Forma
 
@@ -1124,25 +1186,67 @@ Se l’ereditando con ultimo domicilio all’estero lascia beni in Svizzera, le 
 
 <sup>2</sup> La convenzione si applica per analogia anche alla forma di altre disposizioni a causa di morte.
 
-[^93-1]: [RS 0.211.312.1](https://fedlex.data.admin.ch/eli/cc/1971/1370_1366_1366)
+[^93-1]: [RS 0.211.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/867)
 
-### 5. Capacità di disporre
+### 5. Testamento
 
 #### Art. 94
 
-Una persona può disporre a causa di morte se, al momento della disposizione, ne ha la capacità giusta il diritto del domicilio o della dimora abituale o giusta un suo diritto nazionale.
+[^94-1]
 
-### 6. Contratti successori e disposizioni reciproche a causa di morte
+<sup>1</sup> La validità materiale, la revocabilità e l’interpretazione di un testamento nonché gli effetti delle disposizioni ivi contenute sono retti dal diritto dello Stato in cui il disponente è domiciliato al momento della confezione del testamento.
+
+<sup>2</sup> Se, nel testamento in questione o in una disposizione precedente, il disponente ha sottoposto l’intera successione al diritto di uno dei suoi Stati di origine (art. 91 cpv. 1), quest’ultimo surroga quello richiamato dal capoverso 1.
+
+<sup>3</sup> Il disponente può sottoporre il testamento al diritto di uno dei suoi Stati di origine. Deve averne la cittadinanza al momento della confezione del testamento o al momento della morte.
+
+[^94-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 6. Contratto successorio
 
 #### Art. 95
 
-<sup>1</sup> Il contratto successorio è regolato dal diritto del domicilio del disponente al momento della stipulazione.
+[^95-1]
 
-<sup>2</sup> Se il disponente sottopone contrattualmente l’intera successione al suo diritto nazionale, quest’ultimo surroga quello domiciliare.
+<sup>1</sup> La validità materiale, gli effetti vincolanti e l’interpretazione di un contratto successorio nonché gli effetti delle disposizioni ivi contenute sono retti dal diritto dello Stato in cui il disponente è domiciliato al momento della stipulazione del contratto.
 
-<sup>3</sup> Le disposizioni reciproche a causa di morte devono corrispondere al diritto del domicilio di ciascun disponente ovvero al diritto nazionale comune da loro scelto.
+<sup>2</sup> Se, nel contratto successorio o in una disposizione precedente, il disponente ha sottoposto l’intera successione al diritto di uno dei suoi Stati di origine (art. 91 cpv. 1), quest’ultimo surroga quello richiamato dal capoverso 1.
 
-<sup>4</sup> Sono fatte salve le disposizioni della presente legge sulla forma e sulla capacità di disporre (art. 93 e 94).
+<sup>3</sup> Ove il contratto successorio conti due o più disponenti, le disposizioni sulla successione di ogni disponente sono sottoposte al diritto applicabile secondo i capoversi 1 o 2. Sono considerati contratti successori anche i testamenti che si fondano su un patto congiunto che lega i disponenti.
+
+<sup>4</sup> I contraenti possono sottoporre il contratto successorio al diritto di uno degli Stati di origine del disponente o di uno dei disponenti oppure al diritto del domicilio di uno dei disponenti al momento della stipulazione del contratto. Il disponente interessato deve averne la cittadinanza al momento della stipulazione del contratto o al momento della morte del primo disponente.
+
+[^95-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 7. Altre disposizioni contrattuali a causa di morte
+
+#### Art. 95a
+
+[^95a-1]
+
+L’articolo 95 si applica per analogia alle altre disposizioni contrattuali a causa di morte.
+
+[^95a-1]: Introdotto dalla cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 8. Definizione di validità materiale
+
+#### Art. 95b
+
+[^95b-1]
+
+<sup>1</sup>
+
+La validità materiale secondo gli articoli 94–95*a* comprende:
+
+- a. l’ammissibilità di principio del testamento, del contratto successorio o di altre disposizioni contrattuali a causa di morte;
+- b. la confezione del testamento, del contratto successorio o di altre disposizioni contrattuali a causa di morte;
+- c. la capacità di disporre del disponente;
+- d. l’impugnabilità del testamento, del contratto successorio o di altre disposizioni contrattuali a causa di morte;
+- e. l’ammissibilità delle disposizioni contenutevi.
+
+<sup>2</sup> La porzione disponibile è retta dal diritto richiamato dagli articoli 90 e 91.
+
+[^95b-1]: Introdotto dalla cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### III. Decisioni, provvedimenti, documenti e diritti stranieri
 
@@ -1150,14 +1254,21 @@ Una persona può disporre a causa di morte se, al momento della disposizione, ne
 
 <sup>1</sup>
 
-Le decisioni, i provvedimenti e i documenti stranieri concernenti la successione, come anche i diritti derivanti da una successione aperta all’estero sono riconosciuti in Svizzera se:
+Le decisioni, i provvedimenti e i documenti stranieri concernenti la successione, come anche i diritti derivanti da una successione aperta all’estero sono riconosciuti in Svizzera, fatto salvo l’articolo 87 capoverso 2, se:[^96-1]
 
-- a. sono stati pronunciati, stilati o accertati oppure vengano riconosciuti nello Stato d’ultimo domicilio dell’ereditando o nello Stato di cui egli ha scelto il diritto o
-- b. concernono fondi e sono stati pronunciati, stilati o accertati oppure vengano riconosciuti nello Stato di situazione dei medesimi.
+- a. [^96-2] sono stati pronunciati, stilati o accertati oppure sono riconosciuti nello Stato dell’ultimo domicilio dell’ereditando;
+- b. concernono fondi e sono stati pronunciati, stilati o accertati oppure vengano riconosciuti nello Stato di situazione dei medesimi;
+- c.[^96-3] sono stati pronunciati, stilati o accertati in uno Stato di origine dell’ereditando e quest’ultimo ha sottoposto la sua successione alla competenza o al diritto di uno di tali Stati; o
+- d.[^96-4] sono stati pronunciati, stilati o accertati nello Stato dell’ultima dimora abituale o in uno Stato di origine dell’ereditando oppure, nel caso di singoli beni successori mobili, nello Stato di situazione dei medesimi, sempreché l’ultimo domicilio dell’ereditando sia stato all’estero e lo Stato interessato non si occupi della successione.
 
 <sup>2</sup> Se uno Stato rivendica la competenza esclusiva per i fondi dell’ereditando situati sul suo territorio, sono riconosciute soltanto le decisioni, i provvedimenti e i documenti di questo Stato.
 
 <sup>3</sup> I provvedimenti conservativi dello Stato di situazione dei beni dell’ereditando sono riconosciuti in Svizzera.
+
+[^96-1]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-2]: Nuovo testo giusta la cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-3]: Introdotta dalla cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-4]: Introdotta dalla cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ## Capitolo 7: Diritti reali
 
@@ -1188,7 +1299,7 @@ Per le azioni concernenti diritti reali su fondi in Svizzera sono esclusivamente
 Per le azioni di rimpatrio di beni culturali secondo l’articolo 9 della legge del 20 giugno 2003[^98a-2] sul trasferimento dei beni culturali è competente il giudice del domicilio o della sede del convenuto o il giudice del luogo di situazione dei beni.
 
 [^98a-1]: Introdotto dall’art. 32 n. 3 della L del 20 giu. 2003 sul trasferimento dei beni culturali, in vigore dal 1° giu. 2005 ([RU 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [FF 2002 457](https://fedlex.data.admin.ch/eli/fga/2002/93)).
-[^98a-2]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^98a-2]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ### II. Diritto applicabile
 
@@ -1252,7 +1363,7 @@ La riserva della proprietà su una cosa mobile destinata all’esportazione è r
 
 <sup>3</sup> Il diritto opponibile al debitore è unicamente quello regolatore del diritto costituito in pegno.
 
-[^105-1]: Nuovo testo giusta il n. I 3 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^105-1]: Nuovo testo giusta la cifra I n. 3 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### b. Titoli rappresentanti merci e titoli equivalenti
 
@@ -1266,7 +1377,7 @@ La riserva della proprietà su una cosa mobile destinata all’esportazione è r
 
 <sup>3</sup> Se più parti fanno valere diritti reali sulla merce, le une direttamente e le altre sulla scorta di un titolo, la priorità è decisa giusta il diritto applicabile alla merce medesima.
 
-[^106-1]: Nuovo testo giusta il n. I 3 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^106-1]: Nuovo testo giusta la cifra I n. 3 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### c. Mezzi di trasporto
 
@@ -1302,7 +1413,7 @@ Le decisioni straniere concernenti diritti reali su cose mobili sono riconosciut
 
 Per strumenti finanziari detenuti presso un intermediario finanziario si intendono quelli ai sensi della Convenzione dell’Aia del 5 luglio 2006[^108a-1] sulla legge applicabile ad alcuni diritti su strumenti finanziari detenuti presso un intermediario.
 
-[^108a-1]: [RS 0.221.556.1](https://fedlex.data.admin.ch/eli/cc/2017/185)
+[^108a-1]: [RS 0.221.556.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/899)
 
 ### II. Competenza
 
@@ -1318,7 +1429,7 @@ Per strumenti finanziari detenuti presso un intermediario finanziario si intendo
 
 Agli strumenti finanziari detenuti presso un intermediario finanziario si applica la Convenzione dell’Aia del 5 luglio 2006[^108c-1] sulla legge applicabile ad alcuni diritti su strumenti finanziari detenuti presso un intermediario.
 
-[^108c-1]: [RS 0.221.556.1](https://fedlex.data.admin.ch/eli/cc/2017/185)
+[^108c-1]: [RS 0.221.556.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/899)
 
 ### IV. Decisioni straniere
 
@@ -1469,7 +1580,7 @@ Le azioni del consumatore derivanti da contratti per i quali sono adempiute le c
 
 <sup>2</sup> È fatto salvo l’articolo 120.
 
-[^118-1]: [RS 0.221.211.4](https://fedlex.data.admin.ch/eli/cc/1972/1882_1906_2087)
+[^118-1]: [RS 0.221.211.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/887)
 
 ### b. Fondi
 
@@ -1600,8 +1711,8 @@ Per le azioni derivanti da indebito arricchimento sono competenti i tribunali sv
 
 <sup>3</sup> L’ordinamento delle competenze di cui al capoverso 2 si applica per analogia anche alle azioni in materia di incidenti nucleari alle quali non è applicabile la Convenzione di Parigi. Se, in un siffatto caso, né il luogo del sinistro nucleare né l’impianto nucleare si trovano in Svizzera, l’azione può essere proposta nel Cantone in cui si è prodotto il danno. Se si sono prodotti danni in più di un Cantone, è competente il Cantone che subisce maggiormente le conseguenze dell’incidente.[^130-3]
 
-[^130-1]: Nuovo testo giusta l’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^130-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^130-1]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^130-2]: [RS 0.732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2779)
 [^130-3]: Nuovo testo giusta l’all. 2 n. 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Diritto d’accesso e di consultazione in relazione al trattamento di dati personali
@@ -1612,7 +1723,7 @@ Per le azioni derivanti da indebito arricchimento sono competenti i tribunali sv
 
 Per le azioni intese a dare esecuzione al diritto d’accesso o di consultazione in relazione al trattamento di dati personali sono competenti i tribunali menzionati nell’articolo 129.
 
-[^130a-1]: Introdotto dall’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)). Nuovo testo giusta l’all. 2 n. 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^130a-1]: Introdotto dall’all. cifra II n. 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)). Nuovo testo giusta l’all. 2 n. 1 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Diritto di credito diretto
 
@@ -1648,7 +1759,7 @@ Verificatosi l’evento dannoso, le parti possono sempre pattuire l’applicazio
 
 Le pretese derivanti da incidenti della circolazione stradale sono regolate dalla convenzione dell’Aia del 4 maggio 1971[^134-1] sulla legge applicabile in materia di incidenti della circolazione stradale.
 
-[^134-1]: [RS 0.741.31](https://fedlex.data.admin.ch/eli/cc/1986/2253_2253_2253)
+[^134-1]: [RS 0.741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2830)
 
 ### b. Vizi di un prodotto
 
@@ -1704,8 +1815,8 @@ Se l’impianto nucleare dell’esercente civilmente responsabile è situato nel
 
 <sup>3</sup> Il capoverso 2 si applica per analogia all’esercente di un impianto nucleare situato in uno Stato non Parte contraente della Convenzione di Parigi, in quanto tale Stato preveda una regolamentazione almeno equivalente a quella della Svizzera.
 
-[^138a-1]: Introdotto dall’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^138a-2]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^138a-1]: Introdotto dall’all. cifra II n. 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^138a-2]: [RS 0.732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2779)
 
 ### f. Lesione della personalità
 
@@ -1791,7 +1902,7 @@ Se il creditore ha pretese contro più debitori, le conseguenze giuridiche sotto
 
 <sup>2</sup> Per quanto riguarda i diritti reali su un titolo materiale sono fatte salve le disposizioni del capitolo 7.
 
-[^145a-1]: Introdotto dal n. I 3 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^145a-1]: Introdotto dalla cifra I n. 3 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 2. Trasmissione per legge
 
@@ -1844,7 +1955,7 @@ La decisione straniera è inoltre riconosciuta se:
 - f.[^149-2] concerne pretese derivanti da atto illecito, è stata pronunciata nel luogo di commissione o di effetto dell’atto oppure, in caso di incidente nucleare, nel luogo in cui è situato l’impianto nucleare dell’esercente civilmente responsabile e il convenuto non era domiciliato in Svizzera.
 
 [^149-1]: Nuovo testo giusta l’art. 3 n. 3 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^149-2]: Nuovo testo giusta l’all. n. II 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^149-2]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 13 giu. 2008 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022, pubblicato il 27 gen. 2022 ([RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [FF 2007 4957](https://fedlex.data.admin.ch/eli/fga/2007/761)).
 
 ## Capitolo 9*a*: Trust
 
@@ -1858,7 +1969,7 @@ La decisione straniera è inoltre riconosciuta se:
 
 Per trust s’intendono i trust istituiti con atto giuridico ai sensi della Convenzione dell’Aia del 1° luglio 1985[^149a-1] relativa alla legge applicabile ai trust e al loro riconoscimento, indipendentemente dal fatto che siano stati provati per scritto conformemente all’articolo 3 della Convenzione.
 
-[^149a-1]: [RS 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
+[^149a-1]: [RS 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
 
 ### II. Competenza
 
@@ -1891,7 +2002,7 @@ In assenza di una proroga di foro valida o se in base a quest’ultima al tribun
 
 <sup>2</sup> Il diritto applicabile designato dalla Convenzione è determinante anche per i trust per i quali, in virtù dell’articolo 5 della Convenzione, la stessa non è applicabile o, in virtù dell’articolo 13 della Convenzione, non vi è obbligo di riconoscimento.
 
-[^149c-1]: [RS 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
+[^149c-1]: [RS 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
 
 ### IV. Disposizioni speciali concernenti la pubblicità
 
@@ -1943,7 +2054,7 @@ Le decisioni straniere in materia di trust sono riconosciute in Svizzera se:
 
 <sup>4</sup> ...[^151-1]
 
-[^151-1]: Introdotto dall’all. 1 n. II 18 del Codice di procedura civile del 19 dic. 2008 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)). Abrogato dal n. II 2 della LF del 28 set. 2012, con effetto dal 1° mag. 2013 ([RU 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [FF 2011 6109](https://fedlex.data.admin.ch/eli/fga/2011/1111)).
+[^151-1]: Introdotto dall’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)). Abrogato dalla cifra II 2 della LF del 28 set. 2012, con effetto dal 1° mag. 2013 ([RU 2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250); [FF 2011 6109](https://fedlex.data.admin.ch/eli/fga/2011/1111)).
 
 ### 2. Responsabilità per società estere
 
@@ -2054,7 +2165,7 @@ Se gli affari di una società costituita giusta il diritto straniero sono gestit
 
 <sup>3</sup> Prima di farsi iscrivere nel registro di commercio, la società di capitali deve provare, mediante una relazione di un perito revisore abilitato ai sensi della legge del 16 dicembre 2005[^162-1] sui revisori, che il capitale sociale è coperto secondo il diritto svizzero.[^162-2]
 
-[^162-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^162-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^162-2]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### 2. Trasferimento della società dalla Svizzera all’estero
@@ -2070,8 +2181,8 @@ Se gli affari di una società costituita giusta il diritto straniero sono gestit
 <sup>3</sup> Sono fatte salve le disposizioni sulle misure preventive di protezione in caso di conflitti internazionali ai sensi dell’articolo 61 della legge federale dell’8 ottobre 1982[^163-3] sull’approvvigionamento economico del Paese.
 
 [^163-1]: Nuovo testo giusta l’all. n. 4 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^163-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^163-3]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 n. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15. [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)all. 2 n. I]. Vedi ora la Legge del 17 giu. 2016 ([RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
+[^163-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
+[^163-3]: [[RU 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 24; [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018), [1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 1; [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 48; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)all. 1 cifra II n. 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)I 15. [RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)all. 2 n. I]. Vedi ora la Legge del 17 giu. 2016 ([RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)).
 
 ### 3. Fusione
 
@@ -2107,7 +2218,7 @@ Una società straniera può assumere una società svizzera (incorporazione media
 <sup>4</sup> Per il rimanente la fusione soggiace al diritto della società assuntrice straniera.
 
 [^163b-1]: Introdotto dall’all. n. 4 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^163b-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^163b-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### c. Contratto di fusione
 
@@ -2153,7 +2264,7 @@ Se una società straniera assume una società svizzera, se si unisce a quest’u
 - b.[^164-4] che un perito revisore abilitato attesti che la società straniera ha attribuito ai soci della società svizzera le quote sociali o i diritti societari cui hanno diritto oppure ha versato o garantito un conguaglio o un’indennità eventuali.
 
 [^164-1]: Nuovo testo giusta l’all. n. 4 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^164-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^164-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^164-3]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^164-4]: Nuovo testo giusta l’all. n. 4 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -2168,7 +2279,7 @@ Se una società straniera assume una società svizzera, se si unisce a quest’u
 <sup>2</sup> Il luogo dell’esecuzione e il foro svizzeri sussistono dopo la cancellazione fino a quando i creditori o i titolari di quote siano stati soddisfatti o i loro crediti garantiti.
 
 [^164a-1]: Introdotto dall’all. n. 4 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^164a-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^164a-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### c. Trasferimento, fusione, scissione e trasferimento di patrimonio all’estero
 
@@ -2219,8 +2330,8 @@ Le decisioni straniere concernenti pretese inerenti al diritto societario sono r
 
 <sup>3</sup> Se è già stato aperto un procedimento secondo l’articolo 50 capoverso 1 LEF e il termine secondo l’articolo 250 LEF non è ancora scaduto, il procedimento è sospeso dopo il riconoscimento del decreto straniero di fallimento. I crediti già insinuati sono menzionati nella graduatoria della procedura di fallimento ancillare conformemente all’articolo 172. Le spese procedurali accumulate sono riportate nella procedura di fallimento ancillare.
 
-[^166-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
-[^166-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^166-1]: Nuovo testo giusta la cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^166-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### II. Procedura
 
@@ -2234,8 +2345,8 @@ Le decisioni straniere concernenti pretese inerenti al diritto societario sono r
 
 <sup>3</sup> I crediti del fallito sono considerati situati nel luogo di domicilio del suo debitore.
 
-[^167-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
-[^167-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^167-1]: Nuovo testo giusta la cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^167-2]: Nuovo testo giusta la cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### 2. Provvedimenti conservativi
 
@@ -2243,8 +2354,8 @@ Le decisioni straniere concernenti pretese inerenti al diritto societario sono r
 
 Proposta l’istanza di riconoscimento del decreto straniero di fallimento, il tribunale può, su richiesta dell’instante, ordinare i provvedimenti conservativi di cui agli articoli 162 a 165 e 170 LEF[^168-1] [^168-2].
 
-[^168-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^168-2]: Nuova espr. giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^168-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^168-2]: Nuova espr. giusta la cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### 3. Pubblicazione
 
@@ -2255,7 +2366,7 @@ Proposta l’istanza di riconoscimento del decreto straniero di fallimento, il t
 <sup>2</sup> Essa è comunicata all’ufficio di esecuzione, all’ufficio dei fallimenti, all’ufficio del registro fondiario e al registro di commercio del luogo di situazione dei beni, come anche, se è il caso, all’Istituto federale della proprietà intellettuale[^169-1]. La stessa norma vale per la chiusura e la sospensione della procedura di fallimento ancillare, per la revoca del fallimento e per la rinuncia all’esecuzione di una procedura di fallimento ancillare.[^169-2]
 
 [^169-1]: Nuova denominazione giusta il DCF non pubblicato del 19 dic. 1997.
-[^169-2]: Nuovo testo del per. giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^169-2]: Nuovo testo del per. giusta la cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### III. Conseguenze giuridiche
 
@@ -2269,7 +2380,7 @@ Proposta l’istanza di riconoscimento del decreto straniero di fallimento, il t
 
 <sup>3</sup> La massa è liquidata con la procedura sommaria, sempreché né l’amministrazione straniera del fallimento né un creditore secondo l’articolo 172 capoverso 1 chiedano all’ufficio dei fallimenti, prima della ripartizione della somma ricavata, che si proceda secondo la procedura ordinaria di fallimento, fornendo una garanzia sufficiente per le spese presumibilmente non coperte.[^170-1]
 
-[^170-1]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^170-1]: Nuovo testo giusta la cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### 2. Azione revocatoria
 
@@ -2279,8 +2390,8 @@ Proposta l’istanza di riconoscimento del decreto straniero di fallimento, il t
 
 <sup>2</sup> Per il computo dei termini di cui agli articoli 285–288*a* e 292 LEF è determinante il momento dell’apertura del fallimento all’estero.[^171-2]
 
-[^171-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^171-2]: Introdotto dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^171-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^171-2]: Introdotto dalla cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### 3. Graduatoria
 
@@ -2298,9 +2409,9 @@ Nella graduatoria sono menzionati soltanto:
 
 <sup>3</sup> Se un creditore è già stato parzialmente tacitato in un procedimento estero connesso con il fallimento, tale parte, dedotte le spese, è imputata al dividendo che gli spetta nel procedimento svizzero.
 
-[^172-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^172-2]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
-[^172-3]: Nuovo testo giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^172-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^172-2]: Nuovo testo giusta la cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^172-3]: Nuovo testo giusta la cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### 4. Ripartizione
 
@@ -2322,7 +2433,7 @@ Nella graduatoria sono menzionati soltanto:
 
 <sup>2</sup> La stessa norma vale se la graduatoria non è esibita per la delibazione entro il termine fissato dal giudice.
 
-[^174-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^174-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^174-2]: Nuovo testo giusta l’all. n. 22 della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Rinuncia all’esecuzione di una procedura di fallimento ancillare
@@ -2339,7 +2450,7 @@ Nella graduatoria sono menzionati soltanto:
 
 <sup>4</sup> Se il tribunale ha rinunciato a eseguire una procedura di fallimento ancillare, l’amministrazione straniera del fallimento può, a condizione di rispettare il diritto svizzero, esercitare tutte le competenze che le spettano secondo il diritto dello Stato in cui il fallimento è stato aperto; può in particolare trasferire beni all’estero e stare in giudizio. Queste competenze non comprendono l’esercizio di attività sovrane, l’applicazione di mezzi coercitivi o il diritto di pronunciare sulle controversie.
 
-[^174a-1]: Introdotto dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^174a-1]: Introdotto dalla cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### III<sup>bis</sup>. Coordinamento
 
@@ -2349,7 +2460,7 @@ Nella graduatoria sono menzionati soltanto:
 
 Nelle procedure materialmente connesse, le autorità e gli organi interessati possono coordinare i loro atti tra loro nonché con le autorità e gli organi stranieri.
 
-[^174b-1]: Introdotto dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^174b-1]: Introdotto dalla cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### III<sup>ter</sup>. Riconoscimento di decisioni straniere su azioni revocatorie e di decisioni analoghe
 
@@ -2359,7 +2470,7 @@ Nelle procedure materialmente connesse, le autorità e gli organi interessati po
 
 Se sono strettamente connesse con un decreto di fallimento riconosciuto in Svizzera, le decisioni straniere sulle azioni revocatorie e su altri atti che danneggiano il creditore sono riconosciute secondo gli articoli 25–27, a condizione che siano state prese o riconosciute nello Stato da cui emana il decreto di fallimento e il convenuto non sia domiciliato in Svizzera.
 
-[^174c-1]: Introdotto dal n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^174c-1]: Introdotto dalla cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### IV. Riconoscimento di concordati e di analoghi procedimenti stranieri
 
@@ -2367,7 +2478,7 @@ Se sono strettamente connesse con un decreto di fallimento riconosciuto in Svizz
 
 Se pronunciato dall’autorità competente, il decreto straniero che omologa il concordato o un analogo procedimento è riconosciuto in Svizzera. Gli articoli 166–170 e 174*a*–174*c* si applicano per analogia.[^175-1] I creditori domiciliati in Svizzera devono essere sentiti.
 
-[^175-1]: Nuovo testo del per. giusta il n. I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^175-1]: Nuovo testo del per. giusta la cifra I della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ## Capitolo 12: Arbitrato internazionale
 
@@ -2381,9 +2492,9 @@ Se pronunciato dall’autorità competente, il decreto straniero che omologa il 
 
 <sup>3</sup> La sede del tribunale arbitrale è designata dalle parti o dall’istituzione arbitrale da loro indicata, altrimenti dagli arbitri medesimi.
 
-[^176-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^176-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^176-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^176-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^176-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
+[^176-3]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### II. Compromettibilità
 
@@ -2397,7 +2508,7 @@ Se pronunciato dall’autorità competente, il decreto straniero che omologa il 
 
 [^chap12-lvlIII-1]
 
-[^chap12-lvlIII-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^chap12-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 178
 
@@ -2409,8 +2520,8 @@ Se pronunciato dall’autorità competente, il decreto straniero che omologa il 
 
 <sup>4</sup> Alle clausole di arbitrato previste in negozi giuridici unilaterali o in statuti si applicano per analogia le disposizioni del presente capitolo.[^178-2]
 
-[^178-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^178-2]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^178-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^178-2]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### IV. Arbitri
 
@@ -2432,15 +2543,15 @@ Se pronunciato dall’autorità competente, il decreto straniero che omologa il 
 
 <sup>6</sup> La persona proposta quale arbitro deve rivelare senza indugio l’esistenza di circostanze che potrebbero far dubitare legittimamente della sua indipendenza o imparzialità. Tale obbligo sussiste durante l’intero procedimento.
 
-[^179-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^179-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 2. Ricusa
 
 ### a. Motivi
 
-[^chap12-lvlIV-lvla-1]
+[^chap12-lvlIV-lvl3-1]
 
-[^chap12-lvlIV-lvla-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^chap12-lvlIV-lvl3-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 180
 
@@ -2456,10 +2567,10 @@ Un arbitro può essere ricusato se:
 
 <sup>3</sup> *...*[^180-4]
 
-[^180-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-4]: Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180-2]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180-3]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180-4]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### b. Procedura
 
@@ -2481,8 +2592,8 @@ Un arbitro può essere ricusato se:
 
 <sup>2</sup> Se un arbitro non si dimostra in grado di adempiere i suoi compiti in un termine utile o di agire con la cura richiesta dalle circostanze, una parte può, salvo diversa pattuizione, chiederne la destituzione al giudice con istanza scritta e motivata. Il giudice decide definitivamente.
 
-[^180a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180a-2]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180a-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180a-2]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### V. Litispendenza
 
@@ -2504,7 +2615,7 @@ Il procedimento arbitrale è pendente appena una parte adisca l’arbitro o gli 
 
 <sup>4</sup> La parte che prosegue il procedimento arbitrale senza eccepire immediatamente una violazione di regole procedurali che ha constatato o che avrebbe potuto constatare usando la dovuta attenzione, non può più invocarla in un secondo tempo.[^182-1]
 
-[^182-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^182-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 2. Provvedimenti cautelari e conservativi
 
@@ -2516,7 +2627,7 @@ Il procedimento arbitrale è pendente appena una parte adisca l’arbitro o gli 
 
 <sup>3</sup> Il tribunale arbitrale o il giudice possono subordinare l’attuazione dei provvedimenti cautelari o conservativi alla prestazione di adeguate garanzie.
 
-[^183-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^183-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 3. Assunzione delle prove
 
@@ -2528,8 +2639,8 @@ Il procedimento arbitrale è pendente appena una parte adisca l’arbitro o gli 
 
 <sup>3</sup> Il giudice applica il suo proprio diritto. Ad istanza di parte può applicare o considerare altre forme procedurali.[^184-2]
 
-[^184-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^184-2]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^184-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^184-2]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 4. Ulteriore collaborazione del giudice
 
@@ -2545,7 +2656,7 @@ Se è necessaria un’ulteriore collaborazione giudiziale, il giudice competente
 
 <sup>2</sup> Un tribunale arbitrale con sede all’estero o, con il suo consenso, una parte a un procedimento arbitrale estero può chiedere la collaborazione del giudice del luogo in cui si deve procedere all’assunzione delle prove. L’articolo 184 capoversi 2 e 3 si applica per analogia.
 
-[^185-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^185-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### VII. Competenza
 
@@ -2559,7 +2670,7 @@ Se è necessaria un’ulteriore collaborazione giudiziale, il giudice competente
 
 <sup>3</sup> Sulla propria competenza il tribunale arbitrale decide di regola in via pregiudiziale.
 
-[^186-1]: Introdotto dal n. I della LF del 6 ott. 2006 (Arbitrato. Competenza), in vigore dal 1° mar. 2007 ([RU 2007 387](https://fedlex.data.admin.ch/eli/oc/2007/75); [FF 2006 4295](https://fedlex.data.admin.ch/eli/fga/2006/551)[4309](https://fedlex.data.admin.ch/eli/fga/2006/553)).
+[^186-1]: Introdotto dalla cifra I della LF del 6 ott. 2006 (Arbitrato. Competenza), in vigore dal 1° mar. 2007 ([RU 2007 387](https://fedlex.data.admin.ch/eli/oc/2007/75); [FF 2006 4295](https://fedlex.data.admin.ch/eli/fga/2006/551)[4309](https://fedlex.data.admin.ch/eli/fga/2006/553)).
 
 ### VIII. Lodo
 
@@ -2567,7 +2678,7 @@ Se è necessaria un’ulteriore collaborazione giudiziale, il giudice competente
 
 [^chap12-lvlVIII-lvl1-1]
 
-[^chap12-lvlVIII-lvl1-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^chap12-lvlVIII-lvl1-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 187
 
@@ -2575,7 +2686,7 @@ Se è necessaria un’ulteriore collaborazione giudiziale, il giudice competente
 
 <sup>2</sup> Le parti possono autorizzare il tribunale arbitrale a decidere secondo equità.
 
-[^187-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^187-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 2. Decisione parziale
 
@@ -2587,7 +2698,7 @@ Salvo diversa pattuizione delle parti, il tribunale arbitrale può emettere deci
 
 [^chap12-lvlVIII-lvl3-1]
 
-[^chap12-lvlVIII-lvl3-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^chap12-lvlVIII-lvl3-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 189
 
@@ -2605,7 +2716,7 @@ Salvo diversa pattuizione delle parti, il tribunale arbitrale può emettere deci
 
 <sup>2</sup> La richiesta non sospende i termini d’impugnazione. Per la parte del lodo rettificata, interpretata o completata decorre un nuovo termine d’impugnazione.
 
-[^189a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^189a-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### IX. Carattere definitivo, impugnazione, revisione
 
@@ -2613,7 +2724,7 @@ Salvo diversa pattuizione delle parti, il tribunale arbitrale può emettere deci
 
 [^chap12-lvlIX-lvl1-1]
 
-[^chap12-lvlIX-lvl1-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^chap12-lvlIX-lvl1-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 190
 
@@ -2633,7 +2744,7 @@ Il lodo può essere impugnato soltanto se:
 
 <sup>4</sup> Il termine di ricorso è di 30 giorni dalla notificazione del lodo.[^190-1]
 
-[^190-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^190-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 2. Revisione
 
@@ -2651,7 +2762,7 @@ Una parte può chiedere la revisione di un lodo se:
 
 <sup>2</sup> La domanda di revisione dev’essere presentata entro 90 giorni dalla scoperta del motivo di revisione. Dopo dieci anni dal passaggio in giudicato del lodo, la revisione non può più essere chiesta, salvo nel caso di cui al capoverso 1 lettera b.
 
-[^190a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^190a-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 3. Autorità di ricorso e di revisione
 
@@ -2661,8 +2772,8 @@ Una parte può chiedere la revisione di un lodo se:
 
 L’unica autorità di ricorso e di revisione è il Tribunale federale. Le procedure sono rette dagli articoli 77 e 119*a* della legge del 17 giugno 2005[^191-2] sul Tribunale federale.
 
-[^191-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^191-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^191-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^191-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### X. Rinuncia all’impugnazione
 
@@ -2672,8 +2783,8 @@ L’unica autorità di ricorso e di revisione è il Tribunale federale. Le proce
 
 <sup>2</sup> Se le parti hanno escluso completamente l’impugnabilità di una decisione e questa dev’essere eseguita in Svizzera, si applica per analogia la convenzione di Nuova York del 10 giugno 1958[^192-2] concernente il riconoscimento e l’esecuzione delle sentenze arbitrali estere.
 
-[^192-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^192-2]: [RS 0.277.12](https://fedlex.data.admin.ch/eli/cc/1965/795_799_793)
+[^192-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^192-2]: [RS 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
 
 ### XI. Deposito e attestazione dell’esecutività
 
@@ -2685,8 +2796,8 @@ L’unica autorità di ricorso e di revisione è il Tribunale federale. Le proce
 
 <sup>3</sup> Ad istanza di una parte, il tribunale arbitrale attesta che il lodo è stato pronunciato secondo le disposizioni della presente legge; siffatta attestazione equivale a deposito giudiziale.
 
-[^193-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^193-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^193-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^193-2]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### XII. Lodi stranieri
 
@@ -2694,7 +2805,7 @@ L’unica autorità di ricorso e di revisione è il Tribunale federale. Le proce
 
 Il riconoscimento e l’esecuzione di lodi stranieri sono regolati dalla convenzione di Nuova York del 10 giugno 1958[^194-1] concernente il riconoscimento e l’esecuzione delle sentenze arbitrali estere.
 
-[^194-1]: [RS 0.277.12](https://fedlex.data.admin.ch/eli/cc/1965/795_799_793)
+[^194-1]: [RS 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
 
 ## Capitolo 13: Disposizioni finali
 
@@ -2736,6 +2847,38 @@ Il diritto applicabile alle azioni od istanze pendenti in prima istanza al momen
 
 Se l’istanza di riconoscimento o esecuzione di una decisione straniera è pendente al momento dell’entrata in vigore della presente legge, i presupposti per il riconoscimento o l’esecuzione sono regolati dalla presente legge.
 
+### III. Modifiche della presente legge
+
+### 1. Principio
+
+#### Art. 199a
+
+[^199a-1]
+
+Gli articoli 196–199 si applicano per analogia alle modifiche della presente legge.
+
+[^199a-1]: Introdotto dalla cifra I della LF del 22 dic. 2023, in vigore dal 1° gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [FF 2020 2987](https://fedlex.data.admin.ch/eli/fga/2020/739)). Nuovo testo giusta l’all. n. 4 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### 2. Disposizioni transitorie della modifica del 14 giugno 2024
+
+#### Art. 199b
+
+[^199b-1]
+
+Le modifiche delle disposizioni del capitolo 6 sul diritto applicabile si applicano alle successioni aperte dopo la loro entrata in vigore. Le disposizioni a causa di morte confezionate prima dell’entrata in vigore della modifica che sarebbero nulle secondo le disposizioni richiamate dal nuovo diritto sottostanno alle disposizioni richiamate dal diritto previgente. La porzione disponibile è tuttavia sempre retta dalle disposizioni richiamate dal nuovo diritto.
+
+[^199b-1]: Introdotto dal. I della LF del 22 dic. 2023, in vigore dal le 1<sup>er</sup> gen. 2025 ([RU 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); FF **2020** 3215).
+
+### IV. Disposizione transitoria della modifica del 14 giugno 2024
+
+#### Art. 199c
+
+[^199c-1]
+
+L’articolo 45 capoverso 3 lettera a si applica anche ai matrimoni contratti prima dell’entrata in vigore della modifica del 14 giugno 2024. Restano impregiudicate le azioni secondo l’articolo 45*a* pendenti all’entrata in vigore di tale modifica.
+
+[^199c-1]: Nuovo testo giusta l’all. n. 4 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
 ### Sezione 3: Referendum ed entrata in vigore
 
 #### Art. 200
@@ -2764,12 +2907,12 @@ Sono abrogati:
 - f. l’articolo 14 capoverso 3 della legge federale del 30 marzo 1900[^annexu1-lvlu1-lvlI-5] sui disegni e modelli industriali;
 - g. l’articolo 41 capoverso 2 della legge federale del 20 marzo 1975[^annexu1-lvlu1-lvlI-6] sulla protezione delle nuove piante.
 
-[^annexu1-lvlu1-lvlI-1]: [CS **2** 723; [RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)n. II 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)n. II 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)n. II 1]
-[^annexu1-lvlu1-lvlI-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annexu1-lvlu1-lvlI-3]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^annexu1-lvlu1-lvlI-4]: [CS **2** 829; [RU 1951 931](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)art. 1, [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 8. [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)art. 74]
-[^annexu1-lvlu1-lvlI-5]: [CS **2** 857; [RU 1962 479](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. n. I lett. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 3. [RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226)all. n. 1].
-[^annexu1-lvlu1-lvlI-6]: [RS 232.16](https://fedlex.data.admin.ch/eli/cc/1977/862_862_862)
+[^annexu1-lvlu1-lvlI-1]: [CS **2** 723; [RU 1972 2653](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)cifra II n. 1, [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)cifra II n. 1, [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)cifra II n. 1]
+[^annexu1-lvlu1-lvlI-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annexu1-lvlu1-lvlI-3]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^annexu1-lvlu1-lvlI-4]: [CS **2** 829; [RU 1951 931](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)art. 1, [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 8. [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)art. 74]
+[^annexu1-lvlu1-lvlI-5]: [CS **2** 857; [RU 1962 479](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479), [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)all. cifra I lett. f, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 9, [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784)[5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)all. n. 3. [RU 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226)all. n. 1].
+[^annexu1-lvlu1-lvlI-6]: [RS 232.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5983)
 
 ### II. Modifiche
 

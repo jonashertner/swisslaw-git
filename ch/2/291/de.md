@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht (
 short: IPRG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20250101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20230901/de"
 
 (IPRG)
 
-vom 18. Dezember 1987 (Stand am 1. September 2023)
+vom 18. Dezember 1987 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,8 +25,8 @@ gestützt auf die Zuständigkeit des Bundes in auswärtigen Angelegenheiten[^ing
 
 beschliesst:
 
-[^ingress-1]: Dieser Zuständigkeitsumschreibung entspricht Art. 54 Abs. 1 der neuen Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [BS **1** 3]. Dieser Bestimmung entspricht Art. 122 der neuen Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^ingress-1]: Dieser Zuständigkeitsumschreibung entspricht Art. 54 Abs. 1 der neuen Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
+[^ingress-2]: [BS **1** 3]. Dieser Bestimmung entspricht Art. 122 der neuen Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^ingress-3]: [BBl 1983 I 263](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)
 [^ingress-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 8. Okt. 1999 über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer, in Kraft seit 1. Juni 2004 ([AS 2003 1370](https://fedlex.data.admin.ch/eli/oc/2003/231); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 
@@ -72,22 +72,27 @@ Sieht dieses Gesetz keine andere Zuständigkeit in der Schweiz vor, so kann die 
 
 #### Art. 5
 
-<sup>1</sup> Für einen bestehenden oder für einen zukünftigen Rechtsstreit über vermögensrechtliche Ansprüche aus einem bestimmten Rechtsverhältnis können die Parteien einen Gerichtsstand vereinbaren. Die Vereinbarung kann schriftlich, durch Telegramm, Telex, Telefax oder in einer anderen Form der Übermittlung, die den Nachweis der Vereinbarung durch Text ermöglicht, erfolgen. Geht aus der Vereinbarung nichts anderes hervor, so ist das vereinbarte Gericht ausschliesslich zuständig.
+<sup>1</sup> Für einen bestehenden oder für einen zukünftigen Rechtsstreit über vermögensrechtliche Ansprüche aus einem bestimmten Rechtsverhältnis können die Parteien einen Gerichtsstand vereinbaren. Die Vereinbarung kann schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, erfolgen.[^5-1] Geht aus der Vereinbarung nichts anderes hervor, so ist das vereinbarte Gericht ausschliesslich zuständig.
+
+<sup>1bis</sup> Haben die Parteien lediglich vereinbart, dass der Gerichtsstand in der Schweiz liegt, so bestimmt sich die Zuständigkeit der schweizerischen Gerichte nach den Bestimmungen dieses Gesetzes. Fehlt eine solche Bestimmung, ist das zuerst angerufene Gericht zuständig.[^5-2]
 
 <sup>2</sup> Die Gerichtsstandsvereinbarung ist unwirksam, wenn einer Partei ein Gerichtsstand des schweizerischen Rechts missbräuchlich entzogen wird.
 
-<sup>3</sup>
+<sup>3</sup> …[^5-3]
 
-Das vereinbarte Gericht darf seine Zuständigkeit nicht ablehnen:
-
-- a. wenn eine Partei ihren Wohnsitz, ihren gewöhnlichen Aufenthalt oder eine Niederlassung im Kanton des vereinbarten Gerichts hat, oder
-- b. wenn nach diesem Gesetz auf den Streitgegenstand schweizerisches Recht anzuwenden ist.
+[^5-1]: Fassung des Satzes gemäss Anhang Ziff. 1 des BB vom 22. Dez. 2023 über die Genehmigung und die Umsetzung des Haager Übereinkommens über Gerichtsstandsvereinbarungen, in Kraft seit 1. Jan. 2025 ([AS 2024 561](https://fedlex.data.admin.ch/eli/oc/2024/561); [BBl 2023 1460](https://fedlex.data.admin.ch/eli/fga/2023/1460)).
+[^5-2]: Eingefügt durch Anhang Ziff. 1 des BB vom 22. Dez. 2023 über die Genehmigung und die Umsetzung des Haager Übereinkommens über Gerichtsstandsvereinbarungen, in Kraft seit 1. Jan. 2025 ([AS 2024 561](https://fedlex.data.admin.ch/eli/oc/2024/561); [BBl 2023 1460](https://fedlex.data.admin.ch/eli/fga/2023/1460)).
+[^5-3]: Aufgehoben durch Anhang Ziff. 2 des BB vom 22. Dez. 2023 über die Genehmigung und die Umsetzung des Haager Übereinkommens über Gerichtsstandsvereinbarungen, mit Wirkung seit 1. Jan. 2025 ([AS 2024 561](https://fedlex.data.admin.ch/eli/oc/2024/561); [BBl 2023 1460](https://fedlex.data.admin.ch/eli/fga/2023/1460)).
 
 ### V. Einlassung
 
 #### Art. 6
 
-In vermögensrechtlichen Streitigkeiten begründet die vorbehaltlose Einlassung die Zuständigkeit des angerufenen schweizerischen Gerichtes, sofern dieses nach Artikel 5 Absatz 3 seine Zuständigkeit nicht ablehnen kann.
+[^6-1]
+
+In vermögensrechtlichen Streitigkeiten begründet die vorbehaltlose Einlassung die Zuständigkeit des angerufenen schweizerischen Gerichtes.
+
+[^6-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 22. Dez. 2023 über die Genehmigung und die Umsetzung des Haager Übereinkommens über Gerichtsstandsvereinbarungen, in Kraft seit 1. Jan. 2025 ([AS 2024 561](https://fedlex.data.admin.ch/eli/oc/2024/561); [BBl 2023 1460](https://fedlex.data.admin.ch/eli/fga/2023/1460)).
 
 ### VI. Schiedsvereinbarung
 
@@ -199,7 +204,7 @@ Die Rechtshilfe zwischen der Schweiz und anderen Staaten wird durch das Bundesam
 <sup>4</sup> Bei Rechtshilfeersuchen um Zustellung oder um Beweiserhebung in die Schweiz und aus der Schweiz ist die Haager Übereinkunft vom 1. März 1954[^11a-2] betreffend Zivilprozessrecht anwendbar.
 
 [^11a-1]: Eingefügt durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^11a-2]: [SR 0.274.12](https://fedlex.data.admin.ch/eli/cc/1957/467_467_485)
+[^11a-2]: [SR 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
 
 ### 3. Kostenvorschuss und Sicherheit für die Parteientschädigung
 
@@ -207,10 +212,10 @@ Die Rechtshilfe zwischen der Schweiz und anderen Staaten wird durch das Bundesam
 
 [^11b-1]
 
-Der Kostenvorschuss und die Sicherheit für die Parteientschädigung richten sich nach der Zivilprozessordnung vom 19. Dezember 2008[^11b-2] (ZPO).
+Der Kostenvorschuss und die Sicherheit für die Parteientschädigung richten sich nach der ZPO[^11b-2].
 
-[^11b-1]: Eingefügt durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^11b-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^11b-1]: Eingefügt durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)). Fassung gemäss Ziff. II 3 des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^11b-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 4. Unentgeltliche Rechtspflege
 
@@ -264,7 +269,7 @@ Die Verweisung dieses Gesetzes auf ein ausländisches Recht umfasst alle Bestimm
 
 #### Art. 17
 
-Die Anwendung von Bestimmungen eines ausländischen Rechts, ist ausgeschlossen, wenn sie zu einem Ergebnis führen würde, das mit dem schweizerischen Ordre public unvereinbar ist.
+Die Anwendung von Bestimmungen eines ausländischen Rechts ist ausgeschlossen, wenn sie zu einem Ergebnis führen würde, das mit dem schweizerischen Ordre public unvereinbar ist.
 
 ### VI. Zwingende Anwendung des schweizerischen Rechts
 
@@ -296,7 +301,7 @@ Im Sinne dieses Gesetzes hat eine natürliche Person:
 
 <sup>2</sup> Niemand kann an mehreren Orten zugleich Wohnsitz haben. Hat eine Person nirgends einen Wohnsitz, so tritt der gewöhnliche Aufenthalt an die Stelle des Wohnsitzes. Die Bestimmungen des Zivilgesetzbuches[^20-1] über Wohnsitz und Aufenthalt sind nicht anwendbar.
 
-[^20-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^20-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### II. Sitz und Niederlassung von Gesellschaften und Trusts
 
@@ -340,8 +345,8 @@ Die Staatsangehörigkeit einer natürlichen Person bestimmt sich nach dem Recht 
 
 <sup>3</sup> Ist dieses Gesetz auf Staatenlose oder Flüchtlinge anzuwenden, so gilt der Wohnsitz an Stelle der Staatsangehörigkeit.
 
-[^24-1]: [SR 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^24-2]: [[AS 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 1; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 8.1, [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876); [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)Ziff. II 1, [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356); [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372), [2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394); [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582). [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Art. 120 Bst. a]. Heute: BG vom 26. Juni 1998 ([SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)).
+[^24-1]: [SR 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
+[^24-2]: [[AS 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 1; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)Ziff. I 8.1, [2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876); [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146)Ziff. II 1, [4356](https://fedlex.data.admin.ch/eli/oc/1995/4356_4356_4356); [1997 2372](https://fedlex.data.admin.ch/eli/oc/1997/2372_2372_2372), [2394](https://fedlex.data.admin.ch/eli/oc/1997/2394_2394_2394); [1998 1582](https://fedlex.data.admin.ch/eli/oc/1998/1582_1582_1582). [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Art. 120 Bst. a]. Heute: BG vom 26. Juni 1998 ([SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)).
 
 ### 5. Abschnitt: Anerkennung und Vollstreckung ausländischer Entscheidungen
 
@@ -547,20 +552,26 @@ Eine im Ausland ausgesprochene Verschollen- oder Todeserklärung wird in der Sch
 
 Die Eheschliessung in der Schweiz untersteht schweizerischem Recht.
 
-[^44-1]: Fassung gemäss Ziff. I 5 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^44-1]: Fassung gemäss Ziff. I 5 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 ### III. Eheschliessung im Ausland
 
 #### Art. 45
 
-<sup>1</sup> Eine im Ausland gültig geschlossene Ehe wird in der Schweiz anerkannt.
+<sup>1</sup> Eine im Ausland gültig geschlossene Ehe wird in der Schweiz anerkannt. Artikel 45*a* bleibt vorbehalten.[^45-1]
 
-<sup>2</sup> Ist einer der Verlobten Schweizer Bürger oder haben beide Wohnsitz in der Schweiz, so wird die im Ausland geschlossene Ehe anerkannt, wenn der Abschluss nicht in der offenbaren Absicht ins Ausland verlegt worden ist, die Vorschriften des schweizerischen Rechts über die Eheungültigkeit zu umgehen.[^45-1]
+<sup>2</sup> Ist einer der Verlobten Schweizer Bürger oder haben beide Wohnsitz in der Schweiz, so wird die im Ausland geschlossene Ehe anerkannt, wenn der Abschluss nicht in der offenbaren Absicht ins Ausland verlegt worden ist, die Vorschriften des schweizerischen Rechts über die Eheungültigkeit zu umgehen.[^45-2]
 
-<sup>3</sup> …[^45-2]
+<sup>3</sup>
 
-[^45-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
-[^45-2]: Eingefügt durch Anhang Ziff. 17 des Partnerschaftsgesetzes vom 18. Juni 2004 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)). Aufgehoben durch Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), mit Wirkung seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+Eine im Ausland geschlossene Ehe wird nicht anerkannt:
+
+- a. solange nicht beide Ehegatten das 16. Altersjahr vollendet haben; oder
+- b. wenn im Zeitpunkt der Eheschliessung ein Ehegatte das 18. Altersjahr nicht vollendet hatte und wenigstens ein Ehegatte Wohnsitz in der Schweiz hatte.[^45-3]
+
+[^45-1]: Zweiter Satz eingefügt durch Anhang Ziff. 4 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+[^45-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^45-3]: Eingefügt durch Anhang Ziff. 17 des Partnerschaftsgesetzes vom 18. Juni 2004 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)). Fassung gemäss Anhang Ziff. 4 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 ### IV. Ungültigerklärung der Ehe
 
@@ -612,7 +623,7 @@ Haben die Ehegatten weder Wohnsitz noch gewöhnlichen Aufenthalt in der Schweiz 
 
 Für die Unterhaltspflicht zwischen Ehegatten gilt das Haager Übereinkommen vom 2. Oktober 1973[^49-1] über das auf die Unterhaltspflichten anzuwendende Recht.
 
-[^49-1]: [SR 0.211.213.01](https://fedlex.data.admin.ch/eli/cc/1977/1620_1620_1620)
+[^49-1]: [SR 0.211.213.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/838)
 
 ### III. Ausländische Entscheidungen oder Massnahmen
 
@@ -635,11 +646,12 @@ Ausländische Entscheidungen oder Massnahmen über die ehelichen Rechte und Pfli
 
 Für Klagen oder Massnahmen betreffend die güterrechtlichen Verhältnisse sind zuständig:
 
-- a. für die güterrechtliche Auseinandersetzung im Falle des Todes eines Ehegatten die schweizerischen Gerichte oder Behörden, die für die erbrechtliche Auseinandersetzung zuständig sind (Art. 86–89);
-- b.[^51-1] für die güterrechtliche Auseinandersetzung im Falle einer gerichtlichen Auflösung oder Trennung der Ehe die schweizerischen Gerichte, die hierfür zuständig sind (Art. 59, 60, 60*a*, 63, 64);
+- a.[^51-1] für die güterrechtliche Auseinandersetzung im Falle des Todes eines Ehegatten die schweizerischen Gerichte oder Behörden, die, unter Ausserachtlassung von Artikel 88*b*, für die erbrechtliche Auseinandersetzung zuständig sind (Art. 86–89);
+- b.[^51-2] für die güterrechtliche Auseinandersetzung im Falle einer gerichtlichen Auflösung oder Trennung der Ehe die schweizerischen Gerichte, die hierfür zuständig sind (Art. 59, 60, 60*a*, 63, 64);
 - c. in den übrigen Fällen die schweizerischen Gerichte oder Behörden, die für Klagen oder Massnahmen betreffend die Wirkungen der Ehe zuständig sind (Art. 46, 47).
 
-[^51-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^51-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^51-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ### II. Anwendbares Recht
 
@@ -726,7 +738,9 @@ Ausländische Entscheidungen über güterrechtliche Verhältnisse werden in der 
 - c. wenn sie im Staat, dessen Recht nach diesem Gesetz anwendbar ist, ergangen sind oder wenn sie dort anerkannt werden, oder
 - d. wenn sie Grundstücke betreffen und am Ort der gelegenen Sache ergangen sind oder dort anerkannt werden.
 
-<sup>2</sup> Für Entscheidungen über güterrechtliche Verhältnisse, die im Zusammenhang mit Massnahmen zum Schutz der ehelichen Gemeinschaft oder infolge Tod, Nichtigerklärung, Scheidung oder Trennung ergangen sind, richtet sich die Anerkennung nach den Bestimmungen dieses Gesetzes über das Ehe‑, Ehescheidungs- oder Erbrecht (Art. 50, 65 und 96).
+<sup>2</sup> Für Entscheidungen über güterrechtliche Verhältnisse, die im Zusammenhang mit Massnahmen zum Schutz der ehelichen Gemeinschaft oder infolge Tod, Nichtigerklärung, Scheidung oder Trennung ergangen sind, richtet sich die Anerkennung nach den Bestimmungen dieses Gesetzes über das Ehe-, Ehescheidungs- oder Erbrecht (Art. 50, 65 und 96), mit Ausnahme von Artikel 96 Absatz 1 Buchstabe c.[^58-1]
+
+[^58-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 4. Abschnitt: Scheidung und Trennung
 
@@ -1027,7 +1041,7 @@ Die nach Artikel 79 und 80 zuständigen schweizerischen Gerichte entscheiden ebe
 
 <sup>2</sup> Soweit das Übereinkommen die Ansprüche der Mutter auf Unterhalt und Ersatz der durch die Geburt entstandenen Kosten nicht regelt, gilt es sinngemäss.
 
-[^83-1]: [SR 0.211.213.01](https://fedlex.data.admin.ch/eli/cc/1977/1620_1620_1620)
+[^83-1]: [SR 0.211.213.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/838)
 
 ### III. Ausländische Entscheidungen
 
@@ -1056,8 +1070,8 @@ Die nach Artikel 79 und 80 zuständigen schweizerischen Gerichte entscheiden ebe
 <sup>4</sup> Massnahmen, die in einem Staat ergangen sind, der nicht Vertragsstaat der in den Absätzen 1 und 2 erwähnten Übereinkommen ist, werden anerkannt, wenn sie im Staat des gewöhnlichen Aufenthalts des Kindes oder des Erwachsenen ergangen sind oder dort anerkannt werden.
 
 [^85-1]: Fassung gemäss Art. 15 des BG vom 21. Dez. 2007 über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen, in Kraft seit 1. Juli 2009 ([AS 2009 3077](https://fedlex.data.admin.ch/eli/oc/2009/379); [BBl 2007 2595](https://fedlex.data.admin.ch/eli/fga/2007/421)).
-[^85-2]: [SR 0.211.231.011](https://fedlex.data.admin.ch/eli/cc/2009/380)
-[^85-3]: [SR 0.211.232.1](https://fedlex.data.admin.ch/eli/cc/2009/381)
+[^85-2]: [SR 0.211.231.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/860)
+[^85-3]: [SR 0.211.232.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/864)
 
 ## 6. Kapitel: Erbrecht
 
@@ -1067,49 +1081,97 @@ Die nach Artikel 79 und 80 zuständigen schweizerischen Gerichte entscheiden ebe
 
 #### Art. 86
 
-<sup>1</sup> Für das Nachlassverfahren und die erbrechtlichen Streitigkeiten sind die schweizerischen Gerichte oder Behörden am letzten Wohnsitz des Erblassers zuständig.
+<sup>1</sup> Für das Nachlassabwicklungsverfahren und die erbrechtlichen Streitigkeiten sind die schweizerischen Gerichte oder Behörden am letzten Wohnsitz des Erblassers zuständig.[^86-1]
 
 <sup>2</sup> Vorbehalten ist die Zuständigkeit des Staates, der für Grundstücke auf seinem Gebiet die ausschliessliche Zuständigkeit vorsieht.
+
+[^86-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 2. Heimatzuständigkeit
 
 #### Art. 87
 
-<sup>1</sup> War der Erblasser Schweizer Bürger mit letztem Wohnsitz im Ausland, so sind die schweizerischen Gerichte oder Behörden am Heimatort zuständig, soweit sich die ausländische Behörde mit seinem Nachlass nicht befasst.
+<sup>1</sup> War der Erblasser Schweizer Bürger mit letztem Wohnsitz im Ausland, so sind die schweizerischen Gerichte oder Behörden am Heimatort zuständig, soweit sich die Behörden des Wohnsitzstaates mit seinem Nachlass nicht befassen. Um Zuständigkeitskonflikte zu vermeiden, können die schweizerischen Gerichte oder Behörden ihre Zuständigkeit ablehnen, soweit sich die Behörden eines ausländischen Heimatstaates des Erblassers, des Staates seines letzten gewöhnlichen Aufenthalts oder, soweit es um einzelne Nachlasswerte geht, deren Lagestaates mit dem Nachlass befassen.[^87-1]
 
-<sup>2</sup> Sie sind stets zuständig wenn ein Schweizer Bürger mit letztem Wohnsitz im Ausland sein in der Schweiz gelegenes Vermögen oder seinen gesamten Nachlass durch letztwillige Verfügung oder Erbvertrag der schweizerischen Zuständigkeit oder dem schweizerischen Recht unterstellt hat. Artikel 86 Absatz 2 ist vorbehalten.
+<sup>2</sup> Die Gerichte oder Behörden am Heimatort sind stets zuständig, wenn ein Schweizer Bürger mit letztem Wohnsitz im Ausland in der Schweiz gelegene Vermögenswerte oder seinen gesamten Nachlass durch letztwillige Verfügung oder Erbvertrag der schweizerischen Zuständigkeit oder, ohne Vorbehalt bezüglich der Zuständigkeit, dem schweizerischen Recht unterstellt hat.[^87-2] Artikel 86 Absatz 2 ist vorbehalten.
+
+[^87-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^87-2]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 3. Zuständigkeit am Ort der gelegenen Sache
 
 #### Art. 88
 
-<sup>1</sup> War der Erblasser Ausländer mit letztem Wohnsitz im Ausland, so sind die schweizerischen Gerichte oder Behörden am Ort der gelegenen Sache für den in der Schweiz gelegenen Nachlass zuständig, soweit sich die ausländischen Behörden damit nicht befassen.
+<sup>1</sup> War der Erblasser Ausländer mit letztem Wohnsitz im Ausland, so sind die schweizerischen Gerichte oder Behörden am Lageort für den in der Schweiz gelegenen Nachlass zuständig, soweit sich die Behörden des Wohnsitzstaates damit nicht befassen. Um Zuständigkeitskonflikte zu vermeiden, können die schweizerischen Gerichte oder Behörden ihre Zuständigkeit ablehnen, soweit sich die Behörden eines ausländischen Heimatstaates des Erblassers oder des Staates seines letzten gewöhnlichen Aufenthalts mit dem Nachlass befassen.[^88-1]
 
 <sup>2</sup> Befindet sich Vermögen an mehreren Orten, so sind die zuerst angerufenen schweizerischen Gerichte oder Behörden zuständig.
+
+[^88-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 3*a*. Rechtshängigkeit
+
+#### Art. 88a
+
+[^88a-1]
+
+Artikel 9 gilt sinngemäss auch für das Nachlassabwicklungsverfahren als Ganzes.
+
+[^88a-1]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 3*b*. Abbedingung der schweizerischen Zuständigkeit
+
+#### Art. 88b
+
+[^88b-1]
+
+<sup>1</sup> Die Zuständigkeit nach den Artikeln 86–88 ist ausgeschlossen, soweit ein Erblasser durch letztwillige Verfügung oder Erbvertrag seinen Nachlass ganz oder teilweise der Zuständigkeit eines ausländischen Heimatstaates unterstellt hat und dessen Behörden sich mit den betreffenden Nachlasswerten befassen. Die entsprechende Staatsangehörigkeit muss entweder im Verfügungszeitpunkt oder im Zeitpunkt des Todes des Erblassers gegeben sein.
+
+<sup>2</sup> Die Zuständigkeit nach den Artikeln 86–88 ist zudem ausgeschlossen, soweit der Erblasser ein im Ausland gelegenes Grundstück durch letztwillige Verfügung oder Erbvertrag der Zuständigkeit des Lagestaates unterstellt hat und dessen Behörden sich damit befassen.
+
+[^88b-1]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 4. Sichernde Massnahmen
 
 #### Art. 89
 
-Hinterlässt der Erblasser mit letztem Wohnsitz im Ausland Vermögen in der Schweiz, so ordnen die schweizerischen Behörden am Ort der gelegenen Sache die zum einstweiligen Schutz der Vermögenswerte notwendigen Massnahmen an.
+[^89-1]
+
+Hinterlässt der Erblasser Vermögen in der Schweiz und besteht keine Zuständigkeit nach den Artikeln 86–88, so ordnen die schweizerischen Behörden am Lageort die zum einstweiligen Schutz der Vermögenswerte notwendigen Massnahmen an.
+
+[^89-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### II. Anwendbares Recht
 
-### 1. Letzter Wohnsitz in der Schweiz
+### 1. Grundsatz
+
+[^chap6-lvlII-lvl1-1]
+
+[^chap6-lvlII-lvl1-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 #### Art. 90
 
 <sup>1</sup> Der Nachlass einer Person mit letztem Wohnsitz in der Schweiz untersteht schweizerischem Recht.
 
-<sup>2</sup> Ein Ausländer kann jedoch durch letztwillige Verfügung oder Erbvertrag den Nachlass einem seiner Heimatrechte unterstellen. Diese Unterstellung fällt dahin, wenn er im Zeitpunkt des Todes diesem Staat nicht mehr angehört hat oder wenn er Schweizer Bürger geworden ist.
+<sup>2</sup> Der Nachlass einer Person mit letztem Wohnsitz im Ausland untersteht dem Recht, auf welches das Kollisionsrecht des Wohnsitzstaates verweist. Verweist dieses auf das schweizerische Kollisionsrecht zurück, ist das materielle Erbrecht des Wohnsitzstaates anzuwenden.[^90-1]
 
-### 2. Letzter Wohnsitz im Ausland
+<sup>3</sup> Soweit nach Artikel 87 Absatz 1 die schweizerischen Gerichte oder Behörden am Heimatort zuständig sind, untersteht der Nachlass schweizerischem Recht.[^90-2]
+
+[^90-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^90-2]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 2. Rechtswahl
 
 #### Art. 91
 
-<sup>1</sup> Der Nachlass einer Person mit letztem Wohnsitz im Ausland untersteht dem Recht, auf welches das Kollisionsrecht des Wohnsitzstaates verweist.
+[^91-1]
 
-<sup>2</sup> Soweit nach Artikel 87 die schweizerischen Gerichte oder Behörden am Heimatort zuständig sind, untersteht der Nachlass eines Schweizers mit letztem Wohnsitz im Ausland schweizerischem Recht, es sei denn, der Erblasser habe in der letztwilligen Verfügung oder im Erbvertrag ausdrücklich das Recht an seinem letzten Wohnsitz vorbehalten.
+<sup>1</sup> Eine Person kann ihren Nachlass durch letztwillige Verfügung oder Erbvertrag dem Recht eines ihrer Heimatstaaten unterstellen. Die entsprechende Staatsangehörigkeit muss entweder im Verfügungszeitpunkt oder im Zeitpunkt des Todes der verfügenden Person gegeben sein. Schweizer Bürger können die Bestimmungen des schweizerischen Rechts über die Verfügungsfreiheit nicht abbedingen.
+
+<sup>2</sup> Unterstellt ein Schweizer Bürger seinen Nachlass ganz oder teilweise der schweizerischen Zuständigkeit (Art. 87 Abs. 2), so gilt dies, sofern er nichts Gegenteiliges angeordnet hat, auch als Unterstellung unter das schweizerische Recht.
+
+<sup>3</sup> Eine Teilrechtswahl ist nur zulässig, wenn damit in der Schweiz gelegenes Vermögen dem schweizerischen Recht unterstellt wird und dies mit einer Unterstellung derselben Vermögenswerte unter die schweizerische Zuständigkeit verbunden ist oder eine solche zur Folge hat (Art. 87 Abs. 2).
+
+[^91-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 3. Umfang des Erbstatuts und Nachlassabwicklung
 
@@ -1117,7 +1179,9 @@ Hinterlässt der Erblasser mit letztem Wohnsitz im Ausland Vermögen in der Schw
 
 <sup>1</sup> Das auf den Nachlass anwendbare Recht bestimmt, was zum Nachlass gehört, wer in welchem Umfang daran berechtigt ist, wer die Schulden des Nachlasses trägt, welche Rechtsbehelfe und Massnahmen zulässig sind und unter welchen Voraussetzungen sie angerufen werden können.
 
-<sup>2</sup> Die Durchführung der einzelnen Massnahmen richtet sich nach dem Recht am Ort der zuständigen Behörde. Diesem Recht unterstehen namentlich die sichernden Massnahmen und die Nachlassabwicklung mit Einschluss der Willensvollstreckung.
+<sup>2</sup> Die Durchführung der einzelnen Massnahmen richtet sich nach dem Recht am Ort der zuständigen Behörde. Diesem Recht unterstehen namentlich die sichernden Massnahmen und die Nachlassabwicklung, mit Einschluss der verfahrensrechtlichen Aspekte der Willensvollstreckung oder Nachlassverwaltung, sowie die Frage der Berechtigung des Willensvollstreckers oder Nachlassverwalters am Nachlass und seiner Verfügungsmacht darüber.[^92-1]
+
+[^92-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 4. Form
 
@@ -1127,25 +1191,67 @@ Hinterlässt der Erblasser mit letztem Wohnsitz im Ausland Vermögen in der Schw
 
 <sup>2</sup> Dieses Übereinkommen gilt sinngemäss auch für die Form anderer Verfügungen von Todes wegen.
 
-[^93-1]: [SR 0.211.312.1](https://fedlex.data.admin.ch/eli/cc/1971/1370_1366_1366)
+[^93-1]: [SR 0.211.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/867)
 
-### 5. Verfügungsfähigkeit
+### 5. Letztwillige Verfügungen
 
 #### Art. 94
 
-Eine Person kann von Todes wegen verfügen, wenn sie im Zeitpunkt der Verfügung nach dem Recht am Wohnsitz oder am gewöhnlichen Aufenthalt oder nach dem Recht eines ihrer Heimatstaaten verfügungsfähig ist.
+[^94-1]
 
-### 6. Erbverträge und gegenseitige Verfügungen von Todes wegen
+<sup>1</sup> Die materielle Wirksamkeit, die Widerrufbarkeit und die Auslegung einer letztwilligen Verfügung sowie die Wirkungen der darin enthaltenen Anordnungen unterstehen dem Recht am Wohnsitz des Verfügenden zur Zeit ihrer Errichtung.
+
+<sup>2</sup> Hat der Verfügende in der betreffenden oder einer früheren Verfügung seinen ganzen Nachlass dem Recht eines seiner Heimatstaaten (Art. 91 Abs. 1) unterstellt, so tritt dieses an die Stelle des in Absatz 1 bezeichneten Rechts.
+
+<sup>3</sup> Der Verfügende kann die letztwillige Verfügung dem Recht eines seiner Heimatstaaten unterstellen. Die entsprechende Staatsangehörigkeit muss entweder im Verfügungszeitpunkt oder im Zeitpunkt des Todes des Verfügenden gegeben sein.
+
+[^94-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 6. Erbverträge
 
 #### Art. 95
 
-<sup>1</sup> Der Erbvertrag untersteht dem Recht am Wohnsitz des Erblassers zur Zeit des Vertragsabschlusses.
+[^95-1]
 
-<sup>2</sup> Unterstellt ein Erblasser im Vertrag den ganzen Nachlass seinem Heimatrecht, so tritt dieses an die Stelle des Wohnsitzrechts.
+<sup>1</sup> Die materielle Wirksamkeit, die Bindungswirkungen und die Auslegung eines Erbvertrags sowie die Wirkungen der darin enthaltenen Anordnungen unterstehen dem Recht am Wohnsitz des Verfügenden zur Zeit des Vertragsabschlusses.
 
-<sup>3</sup> Gegenseitige Verfügungen von Todes wegen müssen dem Wohnsitzrecht jedes Verfügenden oder dem von ihnen gewählten gemeinsamen Heimatrecht entsprechen.
+<sup>2</sup> Hat der Verfügende im Erbvertrag oder in einer früheren Verfügung den ganzen Nachlass dem Recht eines seiner Heimatstaaten unterstellt (Art. 91 Abs. 1), so tritt dieses an die Stelle des in Absatz 1 bezeichneten Rechts.
 
-<sup>4</sup> Vorbehalten bleiben die Bestimmungen dieses Gesetzes über die Form und die Verfügungsfähigkeit (Art. 93 und 94).
+<sup>3</sup> Bei Erbverträgen mit zwei oder mehr Verfügenden untersteht die Verfügung eines jeden Verfügenden dem auf sie anwendbaren Recht nach Absatz 1 oder 2. Als Erbvertrag gelten auch letztwillige Verfügungen, denen eine gemeinsame Vereinbarung der Verfügenden mit Bindungswirkung zugrunde liegt.
+
+<sup>4</sup> Die Vertragschliessenden können den Erbvertrag dem Recht eines der Heimatstaaten des Verfügenden beziehungsweise eines der Verfügenden oder dem Recht am Wohnsitz eines der Verfügenden zur Zeit des Vertragsabschlusses unterstellen. Die entsprechende Staatsangehörigkeit muss entweder im Zeitpunkt des Vertragsabschlusses oder im Zeitpunkt des Todes des erstversterbenden Verfügenden gegeben sein.
+
+[^95-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 7. Andere vertragliche Verfügungen von Todes wegen
+
+#### Art. 95a
+
+[^95a-1]
+
+Artikel 95 gilt für andere vertragliche Verfügungen über den Nachlass sinngemäss.
+
+[^95a-1]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### 8. Begriff der materiellen Wirksamkeit
+
+#### Art. 95b
+
+[^95b-1]
+
+<sup>1</sup>
+
+Materielle Wirksamkeit im Sinne der Artikel 94–95*a* umfasst:
+
+- a. die Zulässigkeit der letztwilligen Verfügung oder des betreffenden Vertragstyps an sich;
+- b. das Zustandekommen der letztwilligen Verfügung oder des Vertrags;
+- c. die Verfügungsfähigkeit des Verfügenden;
+- d. die Anfechtbarkeit der letztwilligen Verfügung oder des Vertrags;
+- e. die Zulässigkeit der darin enthaltenen Anordnungen.
+
+<sup>2</sup> Die Verfügungsfreiheit bestimmt sich nach dem von den Artikeln 90 und 91 bezeichneten Recht.
+
+[^95b-1]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### III. Ausländische Entscheidungen, Massnahmen, Urkunden und Rechte
 
@@ -1153,14 +1259,21 @@ Eine Person kann von Todes wegen verfügen, wenn sie im Zeitpunkt der Verfügung
 
 <sup>1</sup>
 
-Ausländische Entscheidungen, Massnahmen und Urkunden, die den Nachlass betreffen, sowie Rechte aus einem im Ausland eröffneten Nachlass werden in der Schweiz anerkannt:
+Ausländische Entscheidungen, Massnahmen und Urkunden, die den Nachlass betreffen, sowie Rechte aus einem im Ausland eröffneten Nachlass werden unter Vorbehalt von Artikel 87 Absatz 2 in der Schweiz anerkannt:[^96-1]
 
-- a. wenn sie im Staat des letzten Wohnsitzes des Erblassers oder im Staat, dessen Recht er gewählt hat, getroffen, ausgestellt oder festgestellt worden sind oder wenn sie in einem dieser Staaten anerkannt werden, oder
-- b. wenn sie Grundstücke betreffen und in dem Staat, in dem sie liegen, getroffen, ausgestellt oder festgestellt worden sind oder wenn sie dort anerkannt werden.
+- a.[^96-2] wenn sie im Staat des letzten Wohnsitzes des Erblassers getroffen, ausgestellt oder festgestellt worden sind oder wenn sie dort anerkannt werden;
+- b. wenn sie Grundstücke betreffen und in dem Staat, in dem sie liegen, getroffen, ausgestellt oder festgestellt worden sind oder wenn sie dort anerkannt werden;
+- c.[^96-3] wenn sie in einem Heimatstaat des Erblassers getroffen, ausgestellt oder festgestellt worden sind und der Erblasser seinen Nachlass der Zuständigkeit oder dem Recht des betreffenden Staates unterstellt hatte; oder
+- d.[^96-4] wenn sie im Staat des letzten gewöhnlichen Aufenthalts oder einem Heimatstaat des Erblassers oder, falls sie nur einzelne bewegliche Nachlasswerte betreffen, im Staat, in dem diese liegen, getroffen, ausgestellt oder festgestellt worden sind, soweit sich der letzte Wohnsitz des Erblassers im Ausland befand und der betreffende Staat sich nicht mit dem Nachlass befasst.
 
 <sup>2</sup> Beansprucht ein Staat für die in seinem Gebiet liegenden Grundstücke des Erblassers die ausschliessliche Zuständigkeit, so werden nur dessen Entscheidungen, Massnahmen und Urkunden anerkannt.
 
 <sup>3</sup> Sichernde Massnahmen des Staates, in dem Vermögen des Erblassers liegt, werden in der Schweiz anerkannt.
+
+[^96-1]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-2]: Fassung gemäss Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-3]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-4]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ## 7. Kapitel: Sachenrecht
 
@@ -1191,7 +1304,7 @@ Für Klagen betreffend dingliche Rechte an Grundstücken in der Schweiz sind die
 Für Klagen auf Rückführung von Kulturgut nach Artikel 9 des Kulturgütertransfergesetzes vom 20. Juni 2003[^98a-2] ist das Gericht am Wohnsitz oder Sitz der beklagten Partei oder am Ort, an dem das Kulturgut sich befindet, zuständig.
 
 [^98a-1]: Eingefügt durch Art. 32 Ziff. 3 des Kulturgütertransfergesetzes vom 20. Juni 2003, in Kraft seit 1. Juni 2005 ([AS 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
-[^98a-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^98a-2]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 ### II. Anwendbares Recht
 
@@ -1308,7 +1421,7 @@ Ausländische Entscheidungen über dingliche Rechte an beweglichen Sachen werden
 Der Begriff der intermediärverwahrten Wertpapiere ist im Sinne des Haager Übereinkommens vom 5. Juli 2006[^108a-2] über die auf bestimmte Rechte an intermediärverwahrten Wertpapieren anzuwendende Rechtsordnung zu verstehen.
 
 [^108a-1]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^108a-2]: [SR 0.221.556.1](https://fedlex.data.admin.ch/eli/cc/2017/185)
+[^108a-2]: [SR 0.221.556.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/899)
 
 ### II. Zuständigkeit
 
@@ -1324,7 +1437,7 @@ Der Begriff der intermediärverwahrten Wertpapiere ist im Sinne des Haager Über
 
 Für intermediärverwahrte Wertpapiere gilt das Haager Übereinkommen vom 5. Juli 2006[^108c-1] über die auf bestimmte Rechte an intermediärverwahrten Wertpapieren anzuwendende Rechtsordnung.
 
-[^108c-1]: [SR 0.221.556.1](https://fedlex.data.admin.ch/eli/cc/2017/185)
+[^108c-1]: [SR 0.221.556.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/899)
 
 ### IV. Ausländische Entscheidungen
 
@@ -1475,7 +1588,7 @@ Als charakteristische Leistung gilt namentlich:
 
 <sup>2</sup> Artikel 120 ist vorbehalten.
 
-[^118-1]: [SR 0.221.211.4](https://fedlex.data.admin.ch/eli/cc/1972/1882_1906_2087)
+[^118-1]: [SR 0.221.211.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/887)
 
 ### b. Grundstücke
 
@@ -1609,7 +1722,7 @@ Für Klagen aus ungerechtfertigter Bereicherung sind die schweizerischen Gericht
 <sup>3</sup> Die Zuständigkeitsordnung nach Absatz 2 gilt sinngemäss auch für Klagen aus nuklearen Ereignissen, auf die das Übereinkommen nicht anwendbar ist. Befinden sich bei einer solchen Klage weder der Ort des Ereignisses noch die Kernanlage in der Schweiz, so kann auch in demjenigen Kanton geklagt werden, auf dessen Gebiet der geltend gemachte Schaden eingetreten ist. Ist in mehreren Kantonen ein Schaden eingetreten, ist derjenige Kanton zuständig, der am meisten von den Auswirkungen des Ereignisses betroffen ist.[^130-3]
 
 [^130-1]: Fassung gemäss Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^130-2]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^130-2]: [SR 0.732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2779)
 [^130-3]: Fassung gemäss Anhang 2 Ziff. 1 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Auskunfts- und Einsichtsrechte im Zusammenhang mit Personendaten
@@ -1656,7 +1769,7 @@ Die Parteien können nach Eintritt des schädigenden Ereignisses stets vereinbar
 
 Für Ansprüche aus Strassenverkehrsunfällen gilt das Haager Übereinkommen vom 4. Mai 1971[^134-1] über das auf Strassenverkehrsunfälle anwendbare Recht.
 
-[^134-1]: [SR 0.741.31](https://fedlex.data.admin.ch/eli/cc/1986/2253_2253_2253)
+[^134-1]: [SR 0.741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2830)
 
 ### b. Produktemängel
 
@@ -1713,7 +1826,7 @@ Ist die Kernanlage des haftpflichtigen Inhabers in einem Vertragsstaat des Paris
 <sup>3</sup> Absatz 2 ist sinngemäss anwendbar auf den Inhaber einer Kernanlage, die nicht in einem Vertragsstaat des Pariser Übereinkommens gelegen ist, sofern dieser Staat der Schweiz gegenüber eine mindestens gleichwertige Regelung vorsieht.
 
 [^138a-1]: Eingefügt durch Anhang Ziff. II 3 des Kernenergiehaftpflichtgesetzes vom 13. Juni 2008, in Kraft seit 1. Jan. 2022, veröffentlicht am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^138a-2]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+[^138a-2]: [SR 0.732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2779)
 
 ### f. Persönlichkeitsverletzung
 
@@ -1866,7 +1979,7 @@ Eine ausländische Entscheidung wird ferner anerkannt:
 
 Als Trusts gelten rechtsgeschäftlich errichtete Trusts im Sinne des Haager Übereinkommens vom 1. Juli 1985[^149a-1] über das auf Trusts anzuwendende Recht und über ihre Anerkennung, unabhängig davon, ob sie im Sinne von Artikel 3 des Übereinkommens schriftlich nachgewiesen sind.
 
-[^149a-1]: [SR 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
+[^149a-1]: [SR 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
 
 ### II. Zuständigkeit
 
@@ -1899,7 +2012,7 @@ Fehlt eine gültige Gerichtsstandswahl oder ist nach ihr das bezeichnete Gericht
 
 <sup>2</sup> Das vom Übereinkommen bezeichnete anwendbare Recht ist auch dort massgebend, wo nach Artikel 5 des Übereinkommens dieses nicht anzuwenden ist oder wo nach Artikel 13 des Übereinkommens keine Verpflichtung zur Anerkennung eines Trusts besteht.
 
-[^149c-1]: [SR 0.221.371](https://fedlex.data.admin.ch/eli/cc/2007/375)
+[^149c-1]: [SR 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
 
 ### IV. Besondere Vorschriften betreffend Publizität
 
@@ -2062,7 +2175,7 @@ Werden die Geschäfte einer Gesellschaft, die nach ausländischem Recht gegründ
 
 <sup>3</sup> Eine Kapitalgesellschaft hat vor der Eintragung durch den Bericht eines zugelassenen Revisionsexperten im Sinne des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^162-1] nachzuweisen, dass ihr Grundkapital nach schweizerischem Recht gedeckt ist.[^162-2]
 
-[^162-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^162-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^162-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### 2. Verlegung der Gesellschaft von der Schweiz ins Ausland
@@ -2078,8 +2191,8 @@ Werden die Geschäfte einer Gesellschaft, die nach ausländischem Recht gegründ
 <sup>3</sup> Die Bestimmungen über vorsorgliche Schutzmassnahmen im Falle internationaler Konflikte im Sinne von Artikel 61 des Landesversorgungsgesetzes vom 8. Oktober 1982[^163-3] sind vorbehalten.
 
 [^163-1]: Fassung gemäss Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^163-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^163-3]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 24, [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 1, [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 48, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 15. [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)Anhang 2 Ziff. I]. Siehe heute: das Landesversorgungsgesetz vom 17. Juni 2016 ([SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)).
+[^163-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
+[^163-3]: [[AS 1983 931](https://fedlex.data.admin.ch/eli/oc/1983/931_931_931), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 24, [1995 1018](https://fedlex.data.admin.ch/eli/oc/1995/1018_1018_1018)[1794](https://fedlex.data.admin.ch/eli/oc/1995/1794_1794_1794), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Anhang 2 Ziff. 1, [2001 1439](https://fedlex.data.admin.ch/eli/oc/2001/205), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 48, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 15. [AS 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308)Anhang 2 Ziff. I]. Siehe heute: das Landesversorgungsgesetz vom 17. Juni 2016 ([SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)).
 
 ### 3. Fusion
 
@@ -2115,7 +2228,7 @@ Eine ausländische Gesellschaft kann eine schweizerische Gesellschaft übernehme
 <sup>4</sup> Im Übrigen untersteht die Fusion dem Recht der übernehmenden ausländischen Gesellschaft.
 
 [^163b-1]: Eingefügt durch Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^163b-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^163b-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### c. Fusionsvertrag
 
@@ -2161,7 +2274,7 @@ Eine ausländische Gesellschaft kann eine schweizerische Gesellschaft übernehme
 - b.[^164-4] ein zugelassener Revisionsexperte bestätigen, dass die ausländische Gesellschaft den anspruchsberechtigten Gesellschaftern der schweizerischen Gesellschaft die Anteils- oder Mitgliedschaftsrechte eingeräumt oder eine allfällige Ausgleichszahlung oder Abfindung ausgerichtet oder sichergestellt hat.
 
 [^164-1]: Fassung gemäss Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^164-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^164-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 [^164-3]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^164-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -2176,7 +2289,7 @@ Eine ausländische Gesellschaft kann eine schweizerische Gesellschaft übernehme
 <sup>2</sup> Der bisherige Betreibungsort und Gerichtsstand in der Schweiz bleibt bestehen, bis die Forderungen der Gläubiger oder Anteilsinhaber sichergestellt oder befriedigt sind.
 
 [^164a-1]: Eingefügt durch Anhang Ziff. 4 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
-[^164a-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^164a-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### c. Verlegung, Fusion, Spaltung und Vermögensübertragung im Ausland
 
@@ -2231,7 +2344,7 @@ Ein ausländisches Konkursdekret wird auf Antrag der ausländischen Konkursverwa
 <sup>3</sup> Ist ein Verfahren nach Artikel 50 Absatz 1 SchKG bereits eröffnet und die Frist nach Artikel 250 SchKG nicht abgelaufen, so wird dieses Verfahren nach der Anerkennung des ausländischen Konkursdekrets eingestellt. Bereits angemeldete Forderungen werden nach Massgabe von Artikel 172 in den Kollokationsplan des Hilfskonkursverfahrens aufgenommen. Die aufgelaufenen Verfahrenskosten werden dem Hilfskonkursverfahren zugeschlagen.
 
 [^166-1]: Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
-[^166-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^166-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### II. Verfahren
 
@@ -2254,7 +2367,7 @@ Ein ausländisches Konkursdekret wird auf Antrag der ausländischen Konkursverwa
 
 Sobald die Anerkennung des ausländischen Konkursdekrets beantragt ist, kann das Gericht auf Begehren des Antragstellers die sichernden Massnahmen nach den Artikeln 162–165 und 170 SchKG[^168-1] [^168-2] anordnen.
 
-[^168-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^168-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^168-2]: Ausdruck gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)). Die Änd. wurde im ganzen Text berücksichtigt.
 
 ### 3. Veröffentlichung
@@ -2290,7 +2403,7 @@ Sobald die Anerkennung des ausländischen Konkursdekrets beantragt ist, kann das
 
 <sup>2</sup> Massgebend für die Berechnung der Fristen nach den Artikeln 285–288*a* und 292 SchKG ist der Zeitpunkt der ausländischen Konkurseröffnung.[^171-2]
 
-[^171-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^171-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^171-2]: Eingefügt durch Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### 3. Kollokationsplan
@@ -2309,7 +2422,7 @@ In den Kollokationsplan werden nur aufgenommen:
 
 <sup>3</sup> Ist ein Gläubiger in einem ausländischen Verfahren, das mit dem Konkurs in Zusammenhang steht, teilweise befriedigt worden, so ist dieser Teil nach Abzug der ihm entstandenen Kosten im schweizerischen Verfahren auf die Konkursdividende anzurechnen.
 
-[^172-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^172-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^172-2]: Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 [^172-3]: Fassung gemäss Ziff. I des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
@@ -2333,7 +2446,7 @@ In den Kollokationsplan werden nur aufgenommen:
 
 <sup>2</sup> Das Gleiche gilt, wenn der Kollokationsplan nicht innert der vom Richter angesetzten Frist zur Anerkennung vorgelegt wird.
 
-[^174-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^174-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^174-2]: Fassung gemäss Anhang Ziff. 22 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Verzicht auf Durchführung eines Hilfskonkursverfahrens
@@ -2393,7 +2506,7 @@ Eine von der zuständigen ausländischen Behörde ausgesprochene Genehmigung ein
 <sup>3</sup> Der Sitz des Schiedsgerichts wird von den Parteien oder der von ihnen benannten Schiedsgerichtsinstitution, andernfalls vom Schiedsgericht[^176-4] bezeichnet.
 
 [^176-1]: Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^176-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^176-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^176-3]: Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 [^176-4]: Ausdruck gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
@@ -2688,7 +2801,7 @@ Eine Partei kann die Revision eines Entscheids verlangen, wenn:
 Einzige Rechtsmittelinstanz ist das schweizerische Bundesgericht. Die Verfahren richten sich nach den Artikeln 77 und 119*a* des Bundesgerichtsgesetzes vom 17. Juni 2005[^191-2].
 
 [^191-1]: Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^191-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^191-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### X. Verzicht auf Rechtsmittel
 
@@ -2699,7 +2812,7 @@ Einzige Rechtsmittelinstanz ist das schweizerische Bundesgericht. Die Verfahren 
 <sup>2</sup> Haben die Parteien eine Anfechtung der Entscheide vollständig ausgeschlossen und sollen die Entscheide in der Schweiz vollstreckt werden, so gilt das New Yorker Übereinkommen vom 10. Juni 1958[^192-2] über die Anerkennung und Vollstreckung ausländischer Schiedssprüche sinngemäss.
 
 [^192-1]: Fassung gemäss Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^192-2]: [SR 0.277.12](https://fedlex.data.admin.ch/eli/cc/1965/795_799_793)
+[^192-2]: [SR 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
 
 ### XI. Hinterlegung und Vollstreckbarkeitsbescheinigung
 
@@ -2724,7 +2837,7 @@ Einzige Rechtsmittelinstanz ist das schweizerische Bundesgericht. Die Verfahren 
 
 Für die Anerkennung und Vollstreckung ausländischer Schiedssprüche gilt das New Yorker Übereinkommen vom 10. Juni 1958[^194-1] über die Anerkennung und Vollstreckung ausländischer Schiedssprüche.
 
-[^194-1]: [SR 0.277.12](https://fedlex.data.admin.ch/eli/cc/1965/795_799_793)
+[^194-1]: [SR 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
 
 ## 13. Kapitel: Schlussbestimmungen
 
@@ -2766,6 +2879,38 @@ Für Klagen oder Begehren, die beim Inkrafttreten dieses Gesetzes in erster Inst
 
 Für Begehren auf Anerkennung oder Vollstreckung ausländischer Entscheide, die beim Inkrafttreten dieses Gesetzes hängig sind, richten sich die Voraussetzungen der Anerkennung oder Vollstreckung nach diesem Gesetz.
 
+### III. Änderungen dieses Gesetzes
+
+### 1. Grundsatz
+
+#### Art. 199a
+
+[^199a-1]
+
+Die Artikel 196–199 gelten für Änderungen dieses Gesetzes sinngemäss.
+
+[^199a-1]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)). Fassung gemäss Anhang Ziff. 4 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### 2. Erbrecht
+
+#### Art. 199b
+
+[^199b-1]
+
+Änderungen der Bestimmungen des 6. Kapitels über das anwendbare Recht gelten für Erbfälle, die nach ihrem Inkrafttreten eingetreten sind. Verfügungen von Todes wegen, die vor Inkrafttreten der jeweiligen Änderung errichtet worden sind und nach den vom neuen Recht bezeichneten Bestimmungen ungültig wären, unterstehen den vom bisherigen Recht bezeichneten Bestimmungen. Die Verfügungsfreiheit bestimmt sich jedoch stets nach den vom neuen Recht bezeichneten Bestimmungen.
+
+[^199b-1]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+
+### IV. Übergangsbestimmung zur Änderung vom 14. Juni 2024
+
+#### Art. 199c
+
+[^199c-1]
+
+Artikel 45 Absatz 3 Buchstabe a findet auch auf vor dem Inkrafttreten der Änderung vom 14. Juni 2024 geschlossene Ehen Anwendung. Beim Inkrafttreten dieser Änderung hängige Verfahren nach Artikel 45*a* werden dadurch nicht berührt.
+
+[^199c-1]: Eingefügt durch Ziff. III des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
 ### 3. Abschnitt: Referendum und Inkrafttreten
 
 #### Art. 200
@@ -2795,11 +2940,11 @@ Es werden aufgehoben:
 - g. Artikel 41 Absatz 2 des Bundesgesetzes vom 20. März 1975[^annexu1-lvlu1-lvlI-6] über den Schutz von Pflanzenzüchtungen.
 
 [^annexu1-lvlu1-lvlI-1]: [BS **2** 737; [AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653)Ziff. II 1; [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 1; [1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)Ziff. II 1]
-[^annexu1-lvlu1-lvlI-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^annexu1-lvlu1-lvlI-3]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^annexu1-lvlu1-lvlI-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^annexu1-lvlu1-lvlI-3]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^annexu1-lvlu1-lvlI-4]: [BS **2** 845; [AS 1951 903](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)Art. 1; [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 8. [AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 74]
 [^annexu1-lvlu1-lvlI-5]: [BS **2** 881; [AS 1962 459](https://fedlex.data.admin.ch/eli/oc/1962/459_465_479); [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. I Bst. f; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 9; [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784), [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)Anhang Ziff. 3. [AS 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226)Anhang Ziff. 1]
-[^annexu1-lvlu1-lvlI-6]: [SR 232.16](https://fedlex.data.admin.ch/eli/cc/1977/862_862_862)
+[^annexu1-lvlu1-lvlI-6]: [SR 232.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5983)
 
 ### II. Änderung des geltenden Bundesrechts
 
