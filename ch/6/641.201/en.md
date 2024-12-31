@@ -4,11 +4,11 @@ title: "Ordinance of 27 November 2009 on Value Added Tax (Value Added Tax Ordina
 short: VAT Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: en
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20250101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Ordinance, VAT Ordinance)
 
-of 27 November 2009 (Status as of 1 July 2024)
+of 27 November 2009 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on the Value Added Tax Act of 12 June 2009[^ingress-1] (VAT Act),
 
 ordains:
 
-[^ingress-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^ingress-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 ## Title 1 General Provisions
 
@@ -91,9 +91,10 @@ In relation to goods that have been moved from abroad into a warehouse on Swiss 
 
 <sup>3</sup> The place of supply remains on Swiss territory until the end of any calendar year in which the supplier fails to reach the turnover threshold of 100 000 francs from supplies in accordance with paragraph 1.
 
-<sup>4</sup> If the supplier fails to reach the turnover threshold but does not notify the FTA of this fact in writing, the supplier is deemed to be subject to the VAT Act in accordance with Article 7 paragraph 3 letter a.
+<sup>4</sup> If the supplier fails to reach the turnover threshold but does not notify the Federal Tax Administration (FTA) of this fact in writing, the supplier is deemed to be subject to the VAT Act in accordance with Article 7 paragraph 3 letter a.[^4a-2]
 
 [^4a-1]: Inserted by No I of the O of 15 Aug. 2018, in force since 1 Jan. 2019 ([AS 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+[^4a-2]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 5
 
@@ -305,7 +306,7 @@ The following supplies in particular of public authorities are of a business cha
 
 [^14-1]: Amended by No I of the O of 18 June 2010, in force since 1 Jan. 2010 ([AS 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^14-2]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^14-3]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^14-3]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ### Section 3 Group Taxation
 
@@ -341,22 +342,40 @@ There is common management if the behaviour of a legal entity is controlled by t
 
 <sup>2</sup> The formation of several sub-groups is permissible.
 
-#### Art. 18
+#### Art. 17a
 
-**Authorisation of group taxation**
+**Group representative**[^17a-1]
 
-### (Art. 13 and 67 para. 2 VAT Act)
+### (Art. 13 VAT Act)
 
-<sup>1</sup> On application, the FTA shall authorise group taxation, provided the relevant conditions are met.
-
-<sup>2</sup> The application must enclose written declarations by each group member, in which they declare their consent to group taxation and its effects and to joint representation by the group member or person designated in the application.
-
-<sup>3</sup>
-
-The application must be submitted by the group representative. The group representative may be:
+The group representative may be:
 
 - a. a member of the VAT group domiciled on Swiss territory; or
-- b. a person who is not a member but who has its domicile or a place of business on Swiss territory.
+- b. a person who is not a member of the VAT group but who is domiciled or has a place of business on Swiss territory.
+
+[^17a-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 18
+
+**Request for group taxation**[^18-1]
+
+### (Art. 13, 65*a* para. 1 and 67 para. 2 VAT Act)
+
+<sup>1</sup> On request, the FTA shall enter the group in the register of taxable persons (VAT register).
+
+<sup>2</sup> If the conditions set out in Article 13 paragraph 1 of the VAT Act for group taxation are met at the beginning of the tax period, the FTA shall register the group as of this date, provided that
+
+- a. none of the legal entities concerned has submitted a tax return for the tax period for which group taxation is requested; and
+- b. the deadline for submitting the tax return in accordance with Article 71 paragraph 1 of the VAT Act has not expired.
+
+<sup>3</sup> If the conditions set out in Article 13 paragraph 1 of the VAT Act for group taxation are only met during the current tax period, the FTA shall register the group as of this date, provided that
+
+- a. none of the legal entities concerned has submitted a tax return for the reporting? period in which the conditions for the application of group taxation were met; and
+- b. the deadline for submitting the tax return in accordance with Article 71 paragraph 1 of the VAT Act has not expired.
+
+<sup>4</sup> The request must enclose written declarations by each group member, in which they declare their consent to group taxation and its effects and to joint representation by the group member or person designated in the application.
+
+[^18-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 19
 
@@ -364,23 +383,33 @@ The application must be submitted by the group representative. The group represe
 
 ### (Art. 13 VAT Act)
 
-<sup>1</sup> Resignation as representative of a VAT group is possible only at the end of a tax period. Notice of the resignation must be given to the FTA in writing at least one month in advance.
+<sup>1</sup> Notice must be given to the FTA of any change in the representative of a VAT group.[^19-1]
 
-<sup>2</sup> If the former group representative resigns and written notice of a new group representative is not given to the FTA one month before the end of the tax period, the FTA may after prior warning designate one of the group members as the group representative.
+<sup>2</sup> If the former group representative resigns and notice of a new group representative is not given to the FTA, the FTA may after prior warning designate one of the group members as the group representative.[^19-2]
 
 <sup>3</sup> The group members may jointly withdraw the mandate from the group representative provided that at the same time they designate a new group representative. Paragraph 1 applies by analogy.
 
+[^19-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^19-2]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 20
 
-**Changes in the membership of the group**
+**Changes in the composition of a group**[^20-1]
 
 ### (Art. 13 VAT Act)
 
-<sup>1</sup> If a member no longer fulfils the requirements for participating in the group taxation, the group representative must notify the FTA in writing.
+<sup>1</sup> If a member no longer fulfils the requirements for participating in the group taxation in accordance with Article 13 paragraph 1 VAT Act, the group representative must notify the FTA.
 
-<sup>2</sup> On application, the legal entity may join an existing group or a member can leave a group. The FTA authorises the entry or withdrawal for the beginning of the following or the end of the current tax period.
+<sup>2</sup> On request, the legal entity may join an existing group at the beginning of the following tax period or a member can leave a group at the end of the current tax period.
 
-<sup>3</sup> If a legal entity, for whom the requirements for participation in the group taxation were not formerly given, now fulfils the requirements, admission to an existing VAT group can also be applied for during the current tax period, provided the relevant application is submitted to the FTA in writing within 30 days of publication of the applicable change in the Commercial Register or after the requirements are met.
+<sup>3</sup>
+
+If a legal entity meets the requirements of Article 13 paragraph 1 VAT Act for participation in the group taxation for the first time during the current tax period, admission to an existing VAT group may also be applied at the time these requirements are met provided:
+
+- a. neither the VAT group nor the newly admitted legal entity has submitted a tax return for the reporting period in which the conditions for participation in group taxation were met; and
+- b. the deadline for submitting the tax return in accordance with Article 71 paragraph 1 of the VAT Act has not expired.
+
+[^20-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 21
 
@@ -454,7 +483,7 @@ The provision of supplies to closely related persons constitutes a supply relati
 
 Private organisations within the meaning of Article 32*a*<sup>bis</sup> EPA[^27-1] make supplies to manufacturers and importers through their activities. The prepaid disposal fees are a consideration for these services.
 
-[^27-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^27-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 #### Art. 28
 
@@ -474,14 +503,20 @@ A supply relationship does not exist in the cross-border posting of employees wi
 
 ### (Art. 18 para. 2 let. a VAT Act)
 
-Subsidies or other public contributions are in particular amounts paid by public authorities as:
+<sup>1</sup>
 
-- a. financial assistance within the meaning of Article 3 paragraph 1 of the Subsidies Act of 5 October 1990[^29-1] (SubA);
+Subject to Article 18 paragraph 3 VAT Act, subsidies or other public contributions are in particular amounts paid by public authorities as:[^29-1]
+
+- a. financial assistance within the meaning of Article 3 paragraph 1 of the Subsidies Act of 5 October 1990[^29-2] (SubA);
 - b. compensation within the meaning of Article 3 paragraph 2 letter a SubA, provided if a supply relationship exists;
 - c. research contributions, provided the public authority does not have an exclusive right to the results of the research;
-- d. cash flows comparable with letters a–c that are paid under cantonal and communal law.
+- d. cash flows comparable with letters a–c that are paid under cantonal and communal law.¨
 
-[^29-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+<sup>2</sup> A public authority may designate funds to the recipient as a subsidy or other contribution under public law up to the expiry of the deadline under Article 72 paragraph 1 of the VAT Act for the tax period in which the payment is made.[^29-3]
+
+[^29-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^29-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^29-3]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 30
 
@@ -503,7 +538,7 @@ Subsidies or other public contributions are in particular amounts paid by public
 
 <sup>1</sup>
 
-Special tools that a taxable person purchases, has made to order, or makes himself specifically for the performance of a manufacturing contract constitute part of the supply of the goods that they are used to manufacture. It is irrelevant whether the special tools:
+Special tools that a taxable person purchases, has made to order, or makes specifically for the performance of a manufacturing contract constitute part of the supply of the goods that they are used to manufacture. It is irrelevant whether the special tools:
 
 - a. are invoiced to the recipient of the supply separately or are included in the price of the products;
 - b. are delivered to the recipient of the supply or to a third person designated by the recipient of the supply, or not after performance of the manufacturing contract.
@@ -542,7 +577,7 @@ An import tax assessment under Article 112 also applies to the Swiss tax, provid
 
 The following are equivalent to human medical treatment:
 
-- a. special maternity services, such as check-ups, birth preparation or breast feeding advice;
+- a. special maternity services, such as check-ups, birth preparation or breast-feeding advice;
 - b. examinations, consultations and treatment related to artificial insemination, contraception or abortion;
 - c. supplies of goods and supplies of services by a doctor or a dentist when destined for a medical report or an expert opinion for the assessment of social security claims.
 
@@ -550,7 +585,7 @@ The following are equivalent to human medical treatment:
 
 The following in particular do not constitute human medical treatment:
 
-- a. examinations, consultations and treatment solely for the purposes of enhancing wellbeing or performance or which are provided merely for aesthetic reasons, unless the examination, advice or treatment is provided by a doctor or dentist who is authorised to practise his or her profession on Swiss territory;
+- a. examinations, consultations and treatment solely for the purposes of enhancing wellbeing or performance or which are provided merely for aesthetic reasons, unless the examination, advice or treatment is provided by a doctor or dentist who is authorised to practise on Swiss territory;
 - b. the examinations carried out for the purpose of writing an expert report which are not related to a specific treatment of the person examined, except for the cases under paragraph 2 letter c;
 - c. the dispensing of medicines or of medical appliances, unless they are used by the person providing the treatment in the course of human medical treatment;
 - d. the dispensing of self-manufactured or purchased prostheses and orthopaedic equipment, even if this takes place in the course of human medical treatment; a prosthesis is a replacement body part that can be separated from the body without an operation and reinserted or attached;
@@ -578,6 +613,7 @@ Members of human medical and nursing professions within the meaning of Article 2
 - c. dental technicians;
 - c<sup>bis</sup>.[^35-1] dental hygienists;
 - d. psychotherapists;
+- d<sup>bis</sup>.[^35-2] psychologists;
 - e. chiropractors;
 - f. physiotherapists;
 - g. ergotherapists;
@@ -588,12 +624,15 @@ Members of human medical and nursing professions within the meaning of Article 2
 - l. speech therapists;
 - m. dietary advisers;
 - n. podologists;
-- o.[^35-2] …
-- p.[^35-3] …
+- o.[^35-3] …
+- p.[^35-4] pharmacists;
+- q.[^35-5] optometrists.
 
 [^35-1]: Inserted by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-2]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 until 31 Dec. 2022, extended to 30 June 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^35-3]: Inserted by No II of the O of 27 Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Amended by No II of the O of 3 Dec. 2021, in force from 1 Jan. 2022 until 31 Dec. 2022, extended to 31 Dec. 2023 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)No II).
+[^35-2]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^35-3]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 until 31 Dec. 2022, extended to 30 June 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
+[^35-4]: Inserted by No II of the O of 27 Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^35-5]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 36
 
@@ -627,10 +666,22 @@ Members of human medical and nursing professions within the meaning of Article 2
 
 The tax exemption extends to:
 
-- a. supplies between private or public companies whose equity interests are held exclusively by public authorities, and companies held exclusively by such companies, whether directly or indirectly, or institutions and foundations directly or indirectly established by such companies;
-- b. supplies between institutions or foundations established exclusively by public authorities and companies held exclusively by such institutions or foundations, whether directly or indirectly, or institutions and foundations directly or indirectly established by such institutions and foundations.
+- a.
+
+  supplies between private or public companies whose equity interests are held exclusively by public authorities, and:
+
+  - 1\. companies held exclusively by such companies, whether directly or indirectly, or
+  - 2\. the institutions and foundations of which they are the sole founders or sponsors;
+
+- b.
+
+  supplies between institutions or foundations whose founders or sponsors are exclusively public authorities, and:
+
+  - 1\. the companies held exclusively by these institutions or foundations, whether directly or indirectly, or
+  - 2\. the institutions and foundations of which they are the sole founders or sponsors.[^38-2]
 
 [^38-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^38-2]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 38a
 
@@ -649,7 +700,7 @@ Educational and research institutions are:
 <sup>2</sup> Private sector businesses do not qualify as educational and research institutions.
 
 [^38a-1]: Inserted by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^38a-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^38a-2]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 #### Art. 39
 
@@ -716,34 +767,23 @@ Exempt from the tax with credit is the transport of persons by bus or coach on s
 
 <sup>2</sup> Exempt from the tax with credit is the transport of persons on purely Swiss sections of a journey solely in order to carry a person directly to a transport service under paragraph 1, provided it is invoiced together with the transport service under paragraph 1.
 
+#### Art. 43a
+
+**Waiver of tax-free supply to platforms**[^43a-1]
+
+### (Art. 23 para. 2 No 13 VAT Act)
+
+With the consent of the supplier in accordance with Article 20a of the VAT Act, the seller may invoice the deemed supply of goods on Swiss territory to the supplier with tax. Consent is not required if an administrative measure pursuant to Article 79*a* of the VAT Act has been imposed on the supplier in accordance with Article 20*a* of the VAT Act.
+
+<sup>2</sup> The supplier in accordance with Article 20*a* of the VAT Act may deduct the tax as input tax.
+
+[^43a-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 44
 
-**Tax exempt turnovers with credit in gold coins and fine gold**
+[^44-1]
 
-### (Art. 107 para. 2 VAT Act)
-
-<sup>1</sup>
-
-Exempt from the tax with credit are turnovers in:
-
-- a. state minted gold coins with customs tariff numbers 7118.9000[^44-1] and 9705.0000[^44-2];
-- b.[^44-3]
-
-  gold for investment purposes with a minimum fineness of 995 per mille, in the form of:
-
-  - 1\. cast bars bearing a fineness mark and the stamp of a recognised assayer-melter, or
-  - 2\. pressed bars bearing a fineness mark and the stamp of a recognised assayer-melter or a responsibility mark registered on Swiss territory;
-
-- c.[^44-4] gold in the form of granules with a minimum fineness of 995 per mille, which have been packed and sealed by an accredited assayer-melter;
-- d. unprocessed or semi-finished gold that is destined for refining or recovery;
-- e. gold in the form of clippings and scrap.
-
-<sup>2</sup> Alloys with two or more per cent by weight gold or, if platinum is contained therein, with more gold than platinum also constitute gold within the meaning of paragraph 1 letters d and e.
-
-[^44-1]: Amended by Annex 2 No II 9 of the O of 15 Feb. 2023 on the Amendment of the Customs Tariff, in force since 1 Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
-[^44-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex. Now: 7118.9010, 9705.3100 and 9705.3900.
-[^44-3]: Amended by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^44-4]: Amended by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-1]: Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Chapter 3 Assessment Basis and Tax Rates
 
@@ -833,9 +873,9 @@ Works of art means the following physical works by creators as referred to in Ar
 - c. serigraphs that display the features of an original individually created artistic work, have been produced in limited numbers and have been executed from reproduction forms completely hand-made by the creator;
 - d. original sculptures and statuary, in any material, provided that they are executed entirely by the artist; sculpture casts the production of which is in limited numbers and supervised by the artist or his successors in title;
 - e. tapestries and wall textiles made by hand from original designs provided by artists, provided that the production is in limited numbers;
-- f. individual pieces of ceramics executed entirely by the artist and signed by him or her;
+- f. individual pieces of ceramics executed entirely by and signed by the artist;
 - g. enamels on copper, executed entirely by hand, produced in limited numbers and bearing the signature of the artist or the studio;
-- h. photographs taken by the artist, printed by him or her or under his or her supervision in limited numbers, signed and numbered;
+- h. photographs taken by the artist, printed by the artist or under the artist’s supervision in limited numbers, and signed and numbered by the artist;
 - i. works of art personally created by the artist in limited numbers that are not mentioned in letters a–h.
 
 <sup>2</sup> Antiques are moveable goods that are more than 100 years old.
@@ -844,7 +884,7 @@ Works of art means the following physical works by creators as referred to in Ar
 
 Collectors’ items are in particular also:
 
-- a. postage stamps, revenue stamps, postmarks first day covers, postal stationery and the like, used, or if unused not current and not intended to be current;
+- a. postage stamps, revenue stamps, postmarks first-day covers, postal stationery and the like, used, or if unused not current and not intended to be current;
 - b. zoological, botanical, mineralogical or anatomical collectors’ items and collections; collectors’ items of historic, archaeological, palaeontological, ethnological or numismatic interest;
 - c. motor vehicles first registered on purchase more than 30 years previously;
 - d. wines and other alcoholic beverages the vintage of which is displayed and which may be individualised by numbering or by other means;
@@ -878,6 +918,16 @@ Where the taxable person details the tax on the resale of collectors’ items cl
 
 - [tab] The taxable person must carry out a check at the time of acquisition and sale in relation to the collectors’ items. In the case of goods purchased for a total price, separate records must be kept for each overall purchase.
 
+#### Art. 48e
+
+**Margin taxation for digital platforms**[^48e-1]
+
+### (Art. 24*a* VAT Act)
+
+A person who is deemed to be a supplier under Article 20*a* of the VAT Act may only apply margin taxation if the seller of the goods is domiciled on Swiss territory and is not entered in the VAT register.
+
+[^48e-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 ### Section 2 Tax Rates
 
 #### Art. 49
@@ -894,12 +944,12 @@ Medication is defined as:
 - d.[^49-5] non-authorised ready-to-use medicinal products under Articles 48 and 49 paragraphs 1–4 of the Medicinal Products Licensing Ordinance of 14 November 2018[^49-6] and Article 7–7*c* of the Veterinary Medicinal Products Ordinance of 18 August 2004[^49-7].
 
 [^49-1]: Amended by No I of the O of 18 June 2010, in force since 1 Jan. 2010 ([AS 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
-[^49-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^49-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^49-3]: Amended by No I of the O of 8 March 2019, in force since 1 April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-4]: Amended by No I of the O of 8 March 2019, in force since 1 April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-5]: Amended by No III 1 of the O of 3 June 2022, in force since 1 July 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^49-6]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^49-7]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^49-6]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^49-7]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 50
 
@@ -941,8 +991,8 @@ Electronic newspapers and magazines without advertising character are electronic
 
 Printed matter which fulfils the following conditions constitutes books and other printed matter without advertising character:
 
-- a. they are in the form of books, brochures or loose leaf books; loose leaf products are books if they consist of a binding cover, fitted with a screw post, spiral or ring binder and the loose leaf pages to be filed therein contain when complete at least 16 pages and the title of the work appears on the binding cover;
-- b. including the jacket and the cover page they contain at least 16 pages, with the exception of children’s books, printed music and parts of loose leaf works;
+- a. they are in the form of books, brochures or loose-leaf books; loose leaf products are books if they consist of a binding cover, fitted with a screw post, spiral or ring binder and the loose leaf pages to be filed therein contain when complete at least 16 pages and the title of the work appears on the binding cover;
+- b. including the jacket and the cover page they contain at least 16 pages, with the exception of children’s books, printed music and parts of loose-leaf works;
 - c. the content is religious, literary, artistic, entertaining, educational, instructive, informative, technical or scientific;
 - d. they are not designed to be written in or to store pictures for collection, with the exception of school and instruction books and certain children’s books, such as exercise books with illustrations and supplementary text and drawing and painting books with designs and instructions.
 
@@ -1031,7 +1081,7 @@ Takeaway food is food which the customer takes after purchase to another place a
 - b. the handing over of the food in a special package suitable for transport;
 - c. the handing over of food that is not suitable for immediate consumption.
 
-<sup>3</sup> The FTA shall provide for simplifications within the meaning of Article 80 VAT Act for certain sites and events.
+<sup>3</sup> The FTA shall provide for simplifications within the meaning of Article 80 VAT Act for certain businesses and events.
 
 #### Art. 56
 
@@ -1079,11 +1129,9 @@ Article 45 applies by analogy to the calculation of the deductible input taxes.
 
 #### Art. 61
 
-**Input tax deduction for gold coins and fine gold**
+[^61-1]
 
-### (Art. 107 para. 2 VAT Act)
-
-The tax on supplies of goods and on supplies of services which are used for turnovers under Article 44 and imports under Article 113 let. g may be deducted as input tax.
+[^61-1]: Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Section 2 Deduction of Notional Input Tax
 
@@ -1099,7 +1147,7 @@ The tax on supplies of goods and on supplies of services which are used for turn
 
 Precious metals with tariff numbers 7106–7112[^62-1] and gemstones with tariff numbers 7102–7105 are not individualisable moveable goods.
 
-[^62-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+[^62-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Annex
 
 #### Art. 63
 
@@ -1117,12 +1165,19 @@ The deduction of notional input tax is not permitted where:
 
 - a. the notification procedure under Article 38 VAT Act was applied on the purchase of the good;
 - b. the taxable person imported the good;
-- c. goods under Article 44 paragraph 1 letters a and b and paragraph 2 have been purchased;
+- c.[^63-2] goods have been purchased in accordance with Article 23 paragraph 2 number 12 VAT Act;
 - d. the taxable person knows or should have known that the good was imported exempt from the tax.
+- e.[^63-3] the taxable person obtained the goods from a beneficiary in accordance with Article 2 of the Host State Act of 22 June 2007[^63-4] (HSA).
 
 <sup>4</sup> In the case of payments made under the claim settlement, notional input tax may only be deducted based on the actual value of the good at the time that it is taken over.
 
+<sup>5</sup> Any person who is deemed to be a supplier under Article 20*a* of the VAT Act may only deduct notional input tax if the seller of the goods is domiciled on Swiss territory and is not entered in the VAT register.[^63-5]
+
 [^63-1]: The correction of 30 Jan. 2018 only concerns the Italian text ([AS 2018 521](https://fedlex.data.admin.ch/eli/oc/2018/56)).
+[^63-2]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^63-3]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^63-4]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^63-5]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 64
 
@@ -1187,7 +1242,7 @@ If the taxable person bases the correction of the input tax deduction on its own
 
 <sup>2</sup> The input tax deduction must be corrected on goods and services put to use that are still available at the time the requirements are no longer fulfilled and have a fair value. In the case of supply of services in the fields of consulting, accounting, staff recruitment, management and advertising, it is assumed they are exhausted at the time of their acquisition and are no longer available.
 
-<sup>3</sup> In the case of self-manufactured goods, for putting the infrastructure to use, a flat rate surcharge of 33 per cent must be made on the input taxes on materials and on any third party work on semi-finished goods. Alternatively, effective proof of the input taxes applicable to the use of the infrastructure may be provided.
+<sup>3</sup> In the case of self-manufactured goods, for putting the infrastructure to use, a flat rate surcharge of 33 per cent must be made on the input taxes on materials and on any third-party work on semi-finished goods. Alternatively, effective proof of the input taxes applicable to the use of the infrastructure may be provided.
 
 <sup>4</sup> If subsequently the requirements for the input tax deduction are only partially fulfilled, the correction must be made to the extent that the use no longer entitles the input tax deduction to be made.
 
@@ -1221,7 +1276,7 @@ If the renovation costs in a construction phase exceed in total 5 per cent of th
 
 <sup>2</sup> The input tax deduction may be corrected on goods and services put to use which still exist and have a fair value at the time the requirements for the input tax deduction are fulfilled. For services in the fields of consulting, accounting, staff recruitment, management and advertising, it is assumed that they are used on acquisition and thereafter cease to exist.
 
-<sup>3</sup> In the case of self-manufactured goods, for putting the infrastructure to use, a flat rate surcharge of 33 per cent may be made on the input taxes on materials and on any third party work on semi-finished goods. Alternatively, effective proof of input taxes applicable to the use of the infrastructure may be provided.
+<sup>3</sup> In the case of self-manufactured goods, for putting the infrastructure to use, a flat rate surcharge of 33 per cent may be made on the input taxes on materials and on any third-party work on semi-finished goods. Alternatively, effective proof of input taxes applicable to the use of the infrastructure may be provided.
 
 <sup>4</sup> If subsequently the requirements for the input tax deduction are only partially fulfilled, the correction may be made only to the extent of the use entitling the input tax deduction to be made.
 
@@ -1253,7 +1308,9 @@ If the renovation costs in a construction phase exceed in total 5 per cent of th
 
 <sup>2</sup> To the extent the funds under Article 18 paragraph 2 letters a–c VAT Act can be attributed to a specific business activity, only the input tax on the expenditures for this business activity must be reduced.
 
-<sup>3</sup> If the funds under Article 18 paragraph 2 letters a–c VAT Act are paid to cover an operating deficit, the input tax must be reduced overall in the proportion of these funds to the total turnover, excluding VAT.
+<sup>3</sup> If the funds under Article 18 paragraph 2 letters a–c VAT Act are paid to cover an operating deficit, the input tax must be reduced in the proportion of these funds to the total income. The total income is made up of the total turnovers excluding VAT and the income that does not count as considerations.[^75-1]
+
+[^75-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Chapter 6 Calculation and Constitution of the Tax Claim
 
@@ -1266,6 +1323,74 @@ If the renovation costs in a construction phase exceed in total 5 per cent of th
 [^76-1]
 
 [^76-1]: Comes into force at a later date.
+
+### Section 1*a* Annual Reporting
+
+[^tit2-chap6-sec1a-1]
+
+[^tit2-chap6-sec1a-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 76a
+
+**Annual reporting on commencement of tax liability**
+
+### (Art. 35 para. 1<sup>bis</sup> let. b, 35*a* and 86*a* VAT Act)
+
+<sup>1</sup> Persons newly entered in the VAT register who wish to use annual reporting must apply to the FTA no later than 60 days after receiving their VAT number.
+
+<sup>2</sup> The FTA shall authorise the application of annual reporting if the expected turnover with VAT in the first twelve months does not exceed the threshold set out in Article 35 paragraph 1<sup>bis</sup> letter b of the VAT Act.
+
+<sup>3</sup> After the deadline in paragraph 1 has expired, the taxable person may apply for annual reporting after one tax period at the earliest.
+
+#### Art. 76b
+
+**Change to annual reporting**
+
+### (Art. 35 para. 1<sup>bis</sup> let. b, 35*a* and 86*a* VAT Act)
+
+<sup>1</sup> Taxable persons who wish to change to annual reporting must apply to the FTA no later than 60 days after the start of the tax period from which the change is to take place.
+
+<sup>2</sup>
+
+The FTA shall authorise annual reporting if the taxable person:
+
+- a. did not exceed the turnover threshold of Article 35 paragraph 1<sup>bis</sup> letter b of the VAT Act in the previous tax period; and
+- b. has submitted all tax returns on time and has paid all tax claims in full and on time in the previous three tax periods or, if the liability has existed for a shorter period, since commencement of tax liability.
+
+#### Art. 76c
+
+**End of annual reporting**
+
+### (Art. 35 para. 1<sup>bis</sup> let. b, 35*a**,* 86 para. 2 and 86*a* VAT Act)
+
+<sup>1</sup> Taxable persons who no longer wish to use annual reporting must notify the FTA no later than 60 days after the start of the tax period from which the change is to take place.
+
+<sup>2</sup>
+
+The FTA shall revoke authorisation for the annual reporting:
+
+- a. at the beginning of the next tax period if the taxable person has exceeded the turnover threshold specified in Article 35 paragraph 1<sup>bis</sup> letter b of the VAT Act for three consecutive tax periods;
+- b.
+
+  at the beginning of the tax period after the next tax period if:
+
+  - 1\.
+
+    the taxable person has applied for a reduction in the instalments as a result of which the total of the instalments in the current tax period falls below the following value in relation to the amount of tax due according to the tax return:
+
+    - – in the case of the effective reporting method and reporting with flat tax rates: 50 per cent
+    - – in the case of reporting with net tax rates: 35 per cent,
+
+  - 2\. the FTA has determined the amount of tax due at its own discretion on the basis of the second sentence of Article 86 paragraph 2 VAT Act due to failure to submit the tax return, or
+  - 3\. the FTA has initiated debt enforcement proceedings on the basis of the first sentence of Article 86 paragraph 2.
+
+#### Art. 76d
+
+**Adjustment of instalments**
+
+### (Art. 35 para. 1<sup>bis</sup> let. b, 35*a* and 86*a* VAT Act)
+
+The instalments may only be adjusted before they become due.
 
 ### Section 2 Net Tax Rate Method
 
@@ -1282,56 +1407,71 @@ If the renovation costs in a construction phase exceed in total 5 per cent of th
 The net tax rate method may not be chosen by taxable persons who:
 
 - a. may report using the flat tax rate method under Article 37 paragraph 5 VAT Act;
-- b. use the movement procedure under Article 63 VAT Act;
+- b. use the transfer procedure under Article 63 VAT Act;
 - c. use group taxation under Article 13 VAT Act;
 - d. have their place of business or a permanent establishment in the valley areas of Samnaun or Sampuoir;
 - e.[^77-1] generate more than 50 per cent of their turnovers from taxable supplies to another taxable person who reports using the effective method where the persons involved are under the same management;
 - f.[^77-2] make supplies on Swiss territory based on Article 7 paragraph 3 VAT Act.
+- g.[^77-3] are deemed to be suppliers in accordance with Article 20*a* of the VAT Act;
+- h.[^77-4] have their place of business abroad.
 
-<sup>3</sup> Taxable persons who report using the net tax rate method may not opt for the taxation of supplies under Article 21 paragraph 2 numbers 1–24, 27, 29 and 30 VAT Act. If the tax is nevertheless invoiced, the tax charged must be paid to the FTA with reservation of Article 27 paragraph 2 VAT Act.[^77-3]
+<sup>3</sup> Taxable persons who report using the net tax rate method may not opt for the taxation of supplies under Article 21 paragraph 2 numbers 1–24 and 27–31 VAT Act. If the tax is nevertheless invoiced, the tax charged must be paid to the FTA with reservation of Article 27 paragraph 2 VAT Act.[^77-5]
 
 [^77-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^77-2]: Inserted by No I of the O of 15 Aug. 2018, in force since 1 Jan. 2019 ([AS 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
-[^77-3]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^77-3]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^77-4]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^77-5]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 78
 
-**Submission to the net tax rate method on commencement of tax liability**
+**Net tax rate method on commencement of tax liability**[^78-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-<sup>1</sup> Persons newly entered in the Register of Taxable Persons (VAT Register) who wish to submit to the net tax rate method must notify the FTA in writing within 60 days of notification of their VAT number.
+<sup>1</sup> Persons newly entered in the VAT Register who wish use the net tax rate method must notify the FTA within 60 days of notification of their VAT number.
 
 <sup>2</sup> The FTA shall approve the use of the net tax rate method if in the first 12 months both the expected turnover and the expected taxes do not exceed the thresholds in Article 37 paragraph 1 VAT Act.
 
-<sup>3</sup> If no request is made within the period in paragraph 1, the taxable person must report for at least three years using the effective reporting method before it may submit to the net tax rate method. An earlier change of the reporting method is possible at the time of any adjustment to the net tax rate that is not due to a change in the rates of taxation under Articles 25 and 55 VAT Act.[^78-1]
+<sup>3</sup> If no request is made within the period in paragraph 1, the taxable person must report for at least three full tax periods using the effective reporting method before they may change to the net tax rate method. An earlier change of the reporting method is possible at the time of any adjustment to the net tax rate that is not due to a change in the rates of taxation under Articles 25 and 55 VAT Act.
 
-<sup>4</sup> Paragraphs 1–3 also apply to retroactive entries analogously.
+<sup>4</sup> Paragraphs 1–3 apply to retroactive entries analogously.
 
-<sup>5</sup> The VAT chargeable on the stock of goods, the operating material and the fixed assets at the start of tax liability is taken into account in applying the net tax rate method. No subsequent input tax deduction may be made.
+<sup>5</sup> The tax charged on goods and services on commencement of tax liability is taken into account in applying the net tax rate method. No subsequent input tax deduction may be made.
 
-[^78-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^78-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 79
 
-**Change from the effective reporting method to the net tax rate method**
+**Change from the effective reporting method to the net tax rate method**[^79-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-<sup>1</sup> Taxable persons who wish to change from the effective reporting method to the net tax rate method must notify the FTA in writing at the latest 60 days after the beginning of the tax period from which the change is to be made. If the notification is late, the change is effective for the beginning of the subsequent tax period.
+<sup>1</sup> Taxable persons who wish to change from the effective reporting method to the net tax rate method must notify the FTA at the latest 60 days after the beginning of the tax period from which the change is to be made.
 
 <sup>2</sup> The FTA shall approve the use of the net tax rate method if in the prior tax period neither of the thresholds in Article 37 paragraph 1 VAT Act was exceeded.
 
-<sup>3</sup> On changing from the effective reporting method to the net tax rate method, no corrections or changes shall be made to the stock of goods, the operating material and the fixed assets. The foregoing does not apply to a correction under Article 93 where immovable goods are used after the change to a negligible extent for an activity entitling the input tax deduction to be made.[^79-1]
+<sup>3</sup> The input tax previously deducted on the fair value of the goods and services at the time of the change, including the portion corrected as a subsequent input tax deduction, must be refunded to the FTA. The declaration must be made in the last reporting period before the change. Article 31 paragraph 3 VAT Act and Article 69 paragraphs 1–3, 70 and 71 apply by analogy.
 
 <sup>4</sup>
 
-If simultaneously with submission to the net tax rate method the manner of reporting under Article 39 VAT Act is also changed, the following corrections must be made:
+If simultaneously with the change to the net tax rate method the manner of reporting under Article 39 VAT Act is changed, the following corrections must also be made as per the date of the change:
 
-- a. if a change is made from agreed to collected considerations, the FTA shall credit the taxable person the tax at the appropriate statutory tax rate on the taxable supplies invoiced but not yet paid on the date of change (debtor items) and at the same time charge the input tax on the taxable supplies invoiced to it, but not yet paid (creditor items);
-- b. if a change is made from collected to agreed considerations, the FTA shall charge the tax on the debtor items existing on the date of change at the appropriate statutory tax rate and at the same time credit the input tax on the creditor items.
+-
 
-[^79-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+  if a change is made from agreed to collected considerations, the taxable person must reverse the following in the last reporting period before the change:
+
+  - 1\. the declared tax on the taxable supplies invoiced but not yet paid on the date of change (debtor items); and
+  - 2\. the input tax deduction on the taxable supplies invoiced to it but not yet paid (creditor items), insofar as these are input taxes that do not already have to be corrected on the basis of paragraph 3.
+
+-
+
+  if a change is made from collected to agreed considerations, the taxable person must in the last reporting period before the change:
+
+  - 1\. declare the tax on the existing debtor items at the appropriate statutory tax rate; and
+  - 2\. deduct the tax charged on the creditor items as input tax.
+
+[^79-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 80
 
@@ -1343,28 +1483,26 @@ The FTA may retroactively withdraw approval to use this reporting method from ta
 
 #### Art. 81
 
-**Change from the net tax rate method to the effective reporting method**
+**Change from the net tax rate method to the effective reporting method**[^81-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-<sup>1</sup> Taxable persons who wish to change from the net tax rate method to the effective method must notify the FTA in writing at the latest 60 days before the beginning of the tax period from which the change is to be made. If the request is late, the change is effective from the beginning of the subsequent tax period.
+<sup>1</sup> Taxable persons who wish to change from the net tax rate method to the effective reporting method must notify the FTA at the latest 60 days before the beginning of the tax period from which the change is to be made.
 
-<sup>2</sup> Persons who exceed one or both thresholds laid down in Article 37 paragraph 1 VAT Act in two consecutive tax periods by up to 50 per cent must change to the effective reporting method at the beginning of the following tax period.
+<sup>2</sup> A change is permitted before the end of the entire tax period if reporting is carried out with at least one authorised net tax rate that the FTA has adjusted, unless this is due to a change in the tax rates in accordance with Articles 25 and 55 VAT Act. The change takes place at the time of the change in the net tax rate.
 
-<sup>3</sup> Persons who exceed one or both thresholds laid down in Article 37 paragraph 1 VAT Act by more than 50 per cent must change to the effective reporting method at the beginning of the following tax period. If the thresholds are exceeded in the first 12 months of submission to the net tax rate method, approval is withdrawn retroactively.
+<sup>3</sup> Persons who exceed one or both thresholds laid down in Article 37 paragraph 1 VAT Act in three consecutive tax periods must change to the effective reporting method at the beginning of the following tax period.
 
-<sup>4</sup> If one or both thresholds are exceeded by more than 50 per cent due to the takeover of all or part of the assets under the notification procedure, the taxable person may decide whether it wishes to change to the effective reporting method retroactively to the beginning of the tax period in which the takeover took place or at the beginning of the subsequent tax period.
-
-<sup>5</sup> On change from the net tax rate method to the effective reporting method, there are no corrections to the stock of goods, the operating material and the fixed assets. The foregoing does not apply to a subsequent input tax deduction under Article 32 VAT Act if the stock of goods, the operating material and the fixed assets are used to a greater extent after the change for an activity entitling the input tax deduction to be made.[^81-1]
+<sup>4</sup> The tax charged on the fair value of the goods and services at the time of the change may be deducted as input tax in the first reporting period after the change. Article 32 paragraph 2 VAT Act and Articles 72 paragraphs 1–3, 73 and 74 apply by analogy.
 
 <sup>6</sup>
 
-If at the same time as the change to the effective reporting method the manner of reporting under Article 39 VAT Act is also changed, the following corrections must be made:
+If at the same time as the change to the effective reporting method the manner of reporting under Article 39 VAT Act is also changed, the following corrections must be made as of the date of change:
 
-- a. if a change is made from agreed to collected considerations, the FTA shall credit the taxable person with the tax on the debtor items existing at the date of change at the approved net tax rates. No corrections are made to the creditor items;
-- b. if a change is made from collected to agreed considerations, the FTA shall charge the tax on the debtor items existing at the date of the change at the approved net tax rates. No corrections are made to the creditor items.
+- If a change is made from agreed to collected considerations, the taxable person must deduct the tax declared on the debtor items in the last reporting period before the change; in addition, the tax must be charged on the creditor items for which a subsequent input tax deduction is permitted on the basis of paragraph 4.
+- If a change is made from collected to agreed considerations, the taxable person must declare the tax on the debtor items at the authorised net tax rates in the last reporting period before the change; no corrections shall be made to the creditor items.
 
-[^81-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^81-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 82
 
@@ -1374,34 +1512,21 @@ If at the same time as the change to the effective reporting method the manner o
 
 <sup>1</sup> If a taxable person reporting under the net tax rate method ceases its business activities or if, due to failing to reach the turnover threshold in Article 10 paragraph 2 letter a VAT Act, it is exempt from tax liability, the turnovers generated prior to being removed from the VAT Register, the work in progress and, if reporting according to collected considerations, the debtor items are also to be reported at the approved net tax rates.
 
-<sup>2</sup>
+<sup>2 and <sup>3</sup></sup> …[^82-1]
 
-On the date of removal from the VAT Register, the tax must be reported on the fair value of immoveable goods at the standard rate applicable at that time, provided:[^82-1]
-
-- a. the good was purchased, constructed or converted by the taxable person when it used the effective method and it has claimed the input tax deduction;
-- b.[^82-2] the good was purchased by the taxable person under the notification procedure from a taxable person reporting using the effective method.
-
-<sup>3</sup> In determining the fair value of immovable goods, for every year expired one twentieth is reduced on a straight-line basis.
-
-[^82-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^82-2]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^82-1]: Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 83
 
-**Takeover of assets under the notification procedure**
+**Takeover of assets under the notification procedure**[^83-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-<sup>1</sup>
+<sup>1</sup> If a taxable person reporting under the net tax rate method using the notification procedure under Article 38 VAT Act takes over all of the assets, part of the assets or individual assets from a person using the effective reporting method, a correction must be made in accordance with Article 79 paragraph 3; paragraph 2 remains reserved.
 
-If, from the date of the takeover, a taxable person reporting under the net tax rate method does not use all or part of the assets taken over using the notification procedure under Article 38 VAT Act or uses such assets only to a lesser extent than the seller of a business entitled to deduct input tax, the procedure is as follows:[^83-1]
+<sup>2</sup> No correction shall be made if all of the assets, part of the assets or individual assets have been used by the seller for an activity not entitling a deduction of the input tax.
 
-- a. if the seller reports under the net tax rate method, no corrections are made;
-- b. if the seller reports under the effective method, on that part of the assets taken over which is used in future for a business activity not entitling him to deduct the input tax, own use within the meaning of Article 31 VAT Act must be reported taking into consideration Article 38 paragraph 4 VAT Act.
-
-<sup>2</sup> If a taxable person reporting under the net tax rate method uses all or part of the assets taken over using the notification procedure under Article 38 VAT Act to a greater extent than the seller for a business activity entitling him to deduct the input tax, a correction is not permitted.
-
-[^83-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^83-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 84
 
@@ -1413,207 +1538,131 @@ If, from the date of the takeover, a taxable person reporting under the net tax 
 
 <sup>2</sup> If a business activity ceases or a new business activity is begun or if the turnover shares of the business activities change in such a way that a new allocation of the net tax rates becomes necessary, the taxable person must contact the FTA.
 
-<sup>3</sup> Taxable persons for whom two different net tax rates have been approved must record the revenues for each of the net tax rates separately.
+<sup>3</sup> Taxable persons for whom two or more different net tax rates have been approved must record the revenues for each of the net tax rates separately.[^84-1]
+
+[^84-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 85
 
-**Approval of the use of a single net tax rate**
+[^85-1]
 
-### (Art. 37 para. 1–4 VAT Act)
-
-The taxable person is permitted to use a single net tax rate unless a case under Article 86 paragraph 1 or Article 89 paragraphs 3 or 5 applies.
+[^85-1]: Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 86
 
-**Approval of the use of two net tax rates**
+**Authorisation of net tax rates**[^86-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-<sup>1</sup>
-
-The taxable person is permitted to use two net tax rates if:
-
-- a. it carries on two or more business activities for which the net tax rates laid down by the FTA differ; and
-- b.[^86-1] at least two of these business activities each has a share of more than 10 per cent of the total turnover from taxable supplies.
+<sup>1</sup> For each activity that accounts for more than 10 per cent of total turnover from taxable supplies, the net tax rate for this activity shall be authorised.
 
 <sup>2</sup>
 
-The 10 per cent threshold is calculated:
+The following are decisive for determining whether the 10 per cent threshold has been exceeded:
 
-- a. for persons who become newly taxable and for taxable persons who take up a new business activity: based on the expected turnovers;
-- b. for the other taxable persons: based on the turnover of the two preceding tax periods.
+- a. for persons who become newly taxable and for taxable persons who take up a new business activity: the expected turnovers in the first 12 months;
+- b. in the case of other taxable persons, the turnover achieved in the three previous tax periods, whereby the share of the relevant activity in the total turnover from taxable supplies must have been more than 10 per cent in each of these tax periods.
 
-<sup>3</sup> The turnovers of business activities with the same net tax rate must be accumulated in investigating whether the 10 per cent threshold is exceeded.
+<sup>3</sup> The turnovers from business activities with the same net tax rate must be accumulated when determining whether the 10 per cent threshold has been exceeded.
 
-<sup>4</sup> In the case of a taxable person who has been permitted the use of two net tax rates, if only one or more business activities for which the same net tax rate is provided exceed the 10 per cent threshold during two consecutive tax periods, the approval for the use of the second net tax rate lapses at the beginning of the third tax period.
+<sup>4</sup> If the turnover for an activity or the turnover for several activities for which the same net tax rate applies no longer exceeds the 10 per cent threshold for three consecutive tax periods, authorisation to apply the relevant net tax rate lapses at the beginning of the fourth tax period
 
-[^86-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^86-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 87
 
-**Level of the approved net tax rates**
+[^87-1]
 
-### (Art. 37 para. 1–4 VAT Act)
-
-<sup>1</sup> If only two of the taxable person’s business activities exceed the 10 per cent threshold, the use of the two net tax rates laid down for these businesses will be approved.
-
-<sup>2</sup>
-
-If more than two business activities exceed the 10 per cent threshold, use of the following net tax rates is approved:
-
-- a. the highest of the net tax rates that are laid down for the business activities whose share in the total turnover is more than 10 per cent;
-- b. a second net tax rate which the taxable person selects from those tax rates that are laid down for the other business activities whose share in the total turnover is more than 10 per cent.
+[^87-1]: Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 88
 
-**Taxation of the individual business activities**
+**Taxation of individual business activities**[^88-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-<sup>1</sup>
+<sup>1</sup> Turnovers from the business activities of a taxable person who has been authorised to apply more than one net tax rate must be taxed at the authorised net tax rate specified for the activity in question.
 
-The turnovers from the business activities of a taxable person who has been permitted the use of two net tax rates are taxable:
+<sup>2</sup>
 
-- a. at the higher approved net tax rate if the net tax rate laid down for the business activity in question lies above the lower approved rate;
-- b. at the lower approved rate in the other cases.
-- [tab] <sup>2</sup> In cases under Article 19 paragraph 2 VAT Act, the entire consideration may be reported at the approved net rate tax applicable to the majority of the supply. However, if the supplies are all subject to the same tax rate under Article 25 VAT Act, the entire consideration must be reported at the higher approved net rate tax unless the taxable person can show which parts of the consideration apply to the individual supplies.[^88-1]
+If the net tax rate stipulated for an activity has not been authorised, the turnover generated is taxable as follows:
 
-[^88-1]: Inserted by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+- a. at the next lower authorised net tax rate if no higher rate is authorised;
+- b. at the next higher authorised net tax rate in other cases.
+
+<sup>3</sup> In cases under Article 19 paragraph 2 VAT Act, the entire consideration may be reported at the approved net tax rate applicable to the predominant supply in accordance with Articles 84 and 86 and paragraphs 1 and 2.
+
+<sup>4</sup> If the services are all subject to the same tax rate in accordance with Article 25 VAT Act, the individual supplies must be reported at the net tax rates authorised for this purpose.
+
+<sup>5</sup> If the taxable person is unable to prove what proportion is attributable to the individual supplies, the total consideration must be reported at the highest net tax rate that has been authorised for these supplies.
+
+<sup>6</sup> The taxable person may voluntarily report the entire turnover from taxable supplies at the highest authorised net tax rate.
+
+[^88-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 89
 
-**Special rule for mixed branches of the industry**
+[^89-1]
 
-### (Art. 37 para. 1–4 VAT Act)
-
-<sup>1</sup> Mixed branches of the industry are branches of the industry in which several business activities are normally carried on which, if considered separately, would be reported using different net tax rates.
-
-<sup>2</sup>
-
-The FTA shall lay down in an ordinance:
-
-- a. the net tax rate applicable to each mixed branch of the industry;
-- b. the usual main and ancillary business activities in the mixed branch of the industry.
-
-<sup>3</sup> Articles 86–88 apply to reporting using net tax rates if the share of one or more business activities usually ancillary to a branch of the industry for which under the FTA’s ordinance the same net tax rate would apply exceed 50 per cent of the turnover of the taxable main business and the taxable business usually ancillary to an industry.[^89-1]
-
-<sup>4</sup>
-
-The 50 per cent threshold is calculated:
-
-- a. for persons who become newly taxable and for taxable persons, who take up a new business: based on the expected turnovers;
-- b. for the other taxable persons: based on the turnover in the two preceding tax periods.
-
-<sup>5</sup> If a taxable person who operates in a mixed branch of the industry also carries on business activities that are alien to the branch of the industry, reporting using net tax rates for these business activities is governed by Articles 86–88.
-
-[^89-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^89-1]: Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 90
 
-**Special procedures**
+**Special procedures**[^90-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-<sup>1</sup>
+The FTA provides businesses and events in accordance with Article 55 paragraph 3 with a flat-rate arrangement for the allocation of turnover to catering services and sales of take-away food in accordance with Article 55 paragraph 2.
 
-The FTA shall make a procedure for the approximate compensation of the input taxes incurred available to taxable persons reporting using the net tax rate method for:
-
-- a. supplies of goods abroad, if the goods are self-manufactured or purchased with VAT being charged;
-- b. supplies to beneficiaries under Article 2 of the Host State Act of 22 June 2007[^90-1] (HSA), provided the place of supply lies on Swiss territory and for supplies of goods that the goods are self-manufactured or purchased with VAT being charged.
-
-<sup>2</sup>
-
-Taxable persons reporting using the net tax rate method who purchase individualisable moveable goods without openly transferred tax may use the procedure made available by the FTA to compensate the notional input tax. The procedure does not apply to used automobiles with an overall weight not exceeding 3,500 kg or to goods:
-
-- a. that the taxable person has accepted under the notification procedure from a person reporting using the effective method;
-- b. that the taxable person knows or should have known were imported exempt from the tax;
-- c. that the taxable person acquired exempt from the tax on Swiss territory; or
-- d. that the taxable person accepted as part of a claim settlement, provided the payments made exceed the actual value of the good at the time of acceptance.[^90-2]
-
-<sup>2bis</sup> The procedure under paragraph 2 applies in an analogous manner when collectors’ items (Art. 48*a*) are sold.[^90-3]
-
-<sup>3</sup> For businesses and events under Article 55 paragraph 3, the FTA provides for a flat rate arrangement for the approximate division of the turnovers between the two net tax rates.
-
-[^90-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^90-2]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^90-3]: Inserted by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^90-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 91
 
-**Reporting of the acquisition tax**
+**Reporting of the acquisition tax**[^91-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-Taxable persons reporting using the net tax rate method who acquire supplies from businesses with their place of business abroad under Articles 45–49 VAT Act, must pay the acquisition tax semi-annually at the appropriate statutory tax rate.
+Taxable persons using the net tax rate method who acquire supplies under Article 45 paragraph 1 VAT Act, must pay the acquisition tax in the relevant reporting period at the appropriate statutory tax rate.
+
+[^91-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 92
 
-**Own use**
+**Own use**[^92-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-Own use, with the exception of Article 83 paragraph 1 letter b, is taken into account in applying the net tax rate method.
+Own use is taken into account in applying the net tax rate method.
+
+[^92-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 93
 
-**Corrections of immovable goods**
+[^93-1]
 
-### (Art. 37 para. 1–4 VAT Act)
-
-<sup>1</sup>
-
-If an immovable good is no longer used in the business activities of the taxable person or is used newly for a business activity exempted from the tax without credit under Article 21 paragraph 2 VAT Act, the tax must be charged on the fair value at the standard rate at that time provided:[^93-1]
-
-- a. the good was purchased, constructed or converted by the taxable person when the person used the effective reporting method and claimed the input tax deduction;
-- b.[^93-2] the good was purchased by the taxable person under the notification procedure from a taxable person applying the effective reporting method.
-
-<sup>2</sup> To determine the fair value of the immovable goods, for every completed year the value is reduced by one twentieth on a straight line basis.
-
-[^93-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^93-2]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^93-1]: Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 94
 
-**Supplies to closely related persons and employees**
+**Supplies to closely related persons and employees**[^94-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-[^94-1]
+<sup>1</sup> Supplies to closely related persons and employees must be reported at the authorised net tax rate applicable to the supply in question in accordance with Article 84, 86 and 88.
 
-<sup>1</sup>
+<sup>2</sup> Supplies that must be included in the salary certificate for direct tax purposes always constitute supplies for consideration. The tax must be calculated on the basis of the amount that is also applicable for direct tax purposes.
 
-Supplies to closely related persons are, subject to Article 93, reported as follows when reporting using net tax rates:
-
-- a. and b.[^94-2] ...
-- c.[^94-3] goods and services are reported using the approved net tax rate at a value equal to the consideration paid, but at least at the amount that would be agreed between independent third parties;
-- d. if reporting is done using two net tax rates and the supply cannot be allocated to a business activity, the higher rate is used.
-
-<sup>2</sup>
-
-Using net tax rates for reporting, supplies to employees are treated as follows:
-
-- a. goods given and services supplied for consideration to employees are reported at the approved net tax rate;
-- b. if reporting is done using two net tax rates and the supply cannot be allocated to a business activity, the higher rate is used.
-
-<sup>3</sup> For closely related persons who are also employees, paragraph 2 applies.[^94-4]
-
-<sup>4</sup> Supplies that must be included in the salary certificate for direct tax purposes always constitute supplies for consideration. The tax must be calculated on the amount that is also applicable for direct tax purposes.[^94-5]
-
-[^94-1]: The correction of 12 Dec. 2017 only concerns the French text ([AS 2017 7263](https://fedlex.data.admin.ch/eli/oc/2017/789)).
-[^94-2]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-3]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-4]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-5]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^94-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 95
 
-**Sales of equipment and fixed assets**[^95-1]
+**Sales of equipment, fixed assets and capitalisable services**[^95-1]
 
 ### (Art. 37 para. 1–4 VAT Act)
 
-Sales of equipment and fixed assets that are not used exclusively to provide supplies that are exempt from the tax without credit must be reported at the approved net tax rate. If reporting is done using two net tax rates and the equipment or the fixed assets were used for both business activities, the considerations must be reported at the higher net tax rate.
+Sales of equipment and fixed assets and capitalisable services that are not used exclusively to provide supplies that are exempt from the tax without credit must be reported at the approved net tax rate for the supply concerned in accordance with Articles 84, 86 and 88.
 
-[^95-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^95-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 96
 
@@ -1631,31 +1680,53 @@ If a taxable person reporting using net tax rates invoices a supply at an excess
 
 ### (Art. 37 para. 5 VAT Act)
 
-<sup>1</sup> Related institutions under Article 37 paragraph 5 VAT Act are in particular communal associations and other combinations of public authorities, parishes, private schools and boarding schools, private hospitals, medical treatment centres, rehabilitation centres, sanatoria, private home care organisations, old people’s homes, nursing homes, seniors residences, charitable businesses, such as disabled workshops, hostels and special schools, operators of sports facilities and cultural centres subsidised by public authorities, cantonal building insurers, water cooperatives, public transport businesses, private law forest corporations subsidised by public authorities, organisers of non-recurring cultural and sports events, associations under Articles 60–79 of the Civil Code[^97-1] (CC) and foundations under Articles 80–89<sup>bis</sup> CC.
+<sup>1</sup>
+
+Related institutions under Article 37 paragraph 5 VAT Act are in particular:
+
+- a. communal associations and other combinations of public authorities;
+- b. parishes;
+- c. private schools and boarding schools;
+- d. private hospitals and medical treatment centres;
+- e. rehabilitation centres and sanatoria;
+- f. private home care organisations;
+- g. old people’s homes, nursing homes and seniors’ residences;
+- h. charitable businesses, such as disabled workshops, hostels and special schools;
+- i. operators of sports facilities and cultural centres subsidised by public authorities;
+- j. cantonal buildings insurers;
+- k. water cooperatives;
+- l. public transport businesses;
+- m. corporations subsidised by public authorities;
+- n. organisers of non-recurring cultural and sports events;
+- o. associations under Articles 60–79 of the Civil Code(CC)[^97-1]; and
+- p. foundations under Articles 80–89<sup>bis</sup> CC.[^97-2]
 
 <sup>2</sup> There are no monetary thresholds for the use of the flat tax rate method.
 
-<sup>3</sup> Taxable persons who report using the flat tax rate method may not opt for the taxation of supplies under Article 21 paragraph 2 numbers 1–25, 27 and 29 VAT Act. If the tax is nevertheless invoiced, the tax charge must be paid to the FTA with reservation of Article 27 paragraph 2 VAT Act.[^97-2]
+<sup>3</sup> Taxable persons who report using the flat tax rate method may not opt for the taxation of supplies under Article 21 paragraph 2 numbers 1–24, 27 and 29–31VAT Act. If the tax is nevertheless invoiced, the tax charge must be paid to the FTA with reservation of Article 27 paragraph 2 VAT Act.[^97-3]
 
-<sup>4</sup> Autonomous agencies under Article 12 paragraph 1 VAT Act that merge to form a single taxable entity (Art. 12 para. 2 VAT Act) may apply the flat rate tax method.[^97-3]
+<sup>4</sup> Autonomous agencies under Article 12 paragraph 1 VAT Act that merge to form a single taxable entity (Art. 12 para. 2 VAT Act) may apply the flat rate tax method.[^97-4]
 
-[^97-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^97-2]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^97-3]: Inserted by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^97-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^97-2]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^97-3]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^97-4]: Inserted by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 98
 
-**Submission to the flat tax rate method and change of the reporting method**
+**Submission to the flat tax rate method and change of the reporting method**[^98-1]
 
 ### (Art. 37 para. 5 VAT Act)
 
-<sup>1</sup> Public authorities and related institutions under Article 97 paragraph 1 which wish to report using the flat tax rate method must notify the FTA in writing.
+<sup>1</sup> Public authorities and related institutions under Article 97 paragraph 1 which wish to report using the flat tax rate method must notify the FTA.
 
-<sup>2</sup> The flat tax rate method must be retained for at least three tax periods. If the taxable person elects for the effective reporting method, the person may change to the flat tax rate method at the earliest after ten years. An earlier change of the reporting method is possible at the time of any adjustment to the flat tax rate that is not due to a change in the rates of taxation under Articles 25 and 55 VAT Act.[^98-1]
+<sup>2</sup> The flat tax rate method must be retained for at least an entire tax period. If the taxable person elects for the effective reporting method, the person may change to the flat tax rate method at the earliest after an entire tax period.
 
-<sup>3</sup> Changes to the reporting method are possible at the beginning of a tax period. They must be notified to the FTA in writing at the latest 60 days after the beginning of the tax period from which the change is to be made. If the notification is late, the change is effective at the beginning of the subsequent tax period.
+<sup>3</sup> An earlier change to the effective method or the flat-rate method is permitted whenever the flat-rate tax rate concerned is adjusted, unless this is due to a change in the rates of taxation under Articles 25 and 55 VAT Act.
 
-[^98-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+<sup>4</sup> Changes to the reporting method are possible at the beginning of a tax period. They must be notified to the FTA at the latest 60 days after the beginning of the tax period from which the change is to be made.
+
+[^98-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 99
 
@@ -1667,17 +1738,15 @@ If a taxable person reporting using net tax rates invoices a supply at an excess
 
 <sup>2</sup> The FTA establishes the flat tax rates taking account of the input tax amounts usual in the relevant branch of the industry. A business activity for which no flat tax rate has been established must be reported at the rate applicable for the net tax rate method.
 
-<sup>3</sup> The taxable person must report each of its business activities with the appropriate flat tax rate. The number of applicable flat tax rates is not limited.
+<sup>3</sup> The taxable person must report each of its business activities with the appropriate flat tax rate irrespective of the amount of turnover generated. The taxable person may voluntarily report the entire turnover from taxable supplies at the highest authorised flat tax rate.[^99-1]
+
+[^99-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 99a
 
-**Reporting the acquisition tax**[^99a-1]
+[^99a-1]
 
-### (Art. 37 para. 5 VAT Act)
-
-Taxable persons reporting using the flat tax rate method who acquire supplies from businesses with their place of business abroad in accordance with Articles 45–49 VAT Act must pay the acquisition tax on a quarterly basis at the relevant statutory tax rate.
-
-[^99a-1]: Inserted by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^99a-1]: Inserted by No I of the O of 18 Oct. 2017 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 100
 
@@ -1764,14 +1833,15 @@ On changing from reporting under the agreed considerations to the collected cons
 
 [^107-1]
 
-<sup>1</sup> On changing from reporting on the basis of the collected considerations to reporting on the basis of the agreed considerations, the taxable person must report the claims existing at the time of change at the approved net tax rates or, where applicable, flat tax rates in the reporting period following the change.[^107-2]
+<sup>1</sup> If the taxable person changes from reporting on the basis of the collected considerations to reporting on the basis of the agreed considerations, they must, in the reporting period following the change, account for the debtor items existing at the time of the change at the authorised net tax rates or flat tax rates that apply in accordance with Articles 84, 86 and 88 for the activities from which these debtor items arise.[^107-2]
 
-<sup>2</sup> On changing from reporting on the basis of the agreed considerations to reporting on the basis of the collected considerations, the taxable person must deduct the debtor items existing at the time of the change from the considerations collected in this reporting period in the reporting period following the change.
+<sup>2</sup> If the taxable person changes from reporting on the basis of the agreed considerations to reporting on the basis of the collected considerations, they must, in the reporting period following the change, deduct the debtor items existing at the time of the change from the considerations collected in this reporting period in respect of the relevant activities.[^107-3]
 
 <sup>3</sup> If at the same time as changing of the form of reporting the reporting method is also changed, Article 79 paragraph 4 or Article 81 paragraph 6 applies.
 
 [^107-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^107-2]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^107-2]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^107-3]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 108
 
@@ -1783,11 +1853,11 @@ On assignment and pledge of the tax claim, the confidentiality provisions under 
 
 ## Title 3 Acquisition Tax
 
-#### Art. 109
+#### Art. 109 and 110
 
-**und **110**[^109-1]**
+[^109110-1]
 
-[^109-1]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^109110-1]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 111
 
@@ -1814,9 +1884,37 @@ The following goods are in particular deemed equivalent to data storage media wi
 - b. legal opinions from lawyers, reports from experts, translations, research and test results and results of analyses, valuations and similar;
 - c. certificated rights and intellectual property.
 
+#### Art. 111a
+
+**Transfer of emission allowances and similar rights**[^111a-1]
+
+### (45 para. 1 let. e VAT Act)
+
+<sup>1</sup> The transfer of emission allowances and other rights in accordance with Article 45 paragraph 1 letter e of the VAT Act is not subject to domestic tax.
+
+<sup>2</sup> If domestic tax is invoiced on the transfer, it cannot be deducted as input tax unless the tax has been reported and paid.
+
+[^111a-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 ## Title 4 Import Tax
 
-### Chapter 1 Plurality of Supplies and Exemption from the Import Tax
+### Chapter 1 Mail-Order Company instead of the Platform as a Person liable for Import Tax
+
+[^tit4-chap1-1]
+
+[^tit4-chap1-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+### (Art. 51 VAT Act)
+
+#### Art. 111b
+
+When importing goods, a mail-order company may agree with the supplier in accordance with Article 20*a* of the VAT Act that it will import the goods in its own name, provided it fulfils at least one of the two conditions in Article 7 paragraph 3 of the VAT Act.
+
+### Chapter 1*a* Plurality of Supplies and Exemption from the Import Tax
+
+[^tit4-chap1a-1]
+
+[^tit4-chap1a-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 112
 
@@ -1841,21 +1939,25 @@ The cost calculation must show:
 
 #### Art. 113
 
-**Exemption from import tax**
+**Exemption from value added tax**
 
-### (Art. 53 para. 2 and 107 para. 2 VAT Act)
+### (Art. 53 para. 2 VAT Act)
+
+[^113-1]
 
 Exempt from the import tax are:
 
-- a. goods for heads of state and for diplomatic, consular and international organisations and their members which are duty free under Article 6 of the Customs Ordinance dated 1 November 2006[^113-1] (CustO);
+- a. goods for heads of state and for diplomatic, consular and international organisations and their members which are duty free under Article 6 of the Customs Ordinance dated 1 November 2006[^113-2] (CustO);
 - b. coffins, urns and related decoration that are duty free under Article 7 CustO;
 - c. prizes, mementos and gifts that are duty free under Article 8 CustO;
 - d. restaurant car inventories that are tax free under Article 10 CustO;
 - e. inventories, spare parts and equipment on ships that are duty free under Article 11 CustO;
 - f. inventories, spare parts and equipment on aircraft that are duty free under Article 12 CustO;
-- g. gold coins and fine gold under Article 44.
+- g.[^113-3] …
 
-[^113-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^113-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^113-2]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^113-3]: Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Chapter 2 Establishment of and Security for the Import Tax Debt
 
@@ -1880,13 +1982,13 @@ If the tax is paid via the centralised settlement procedure (CSP), the FOCBS may
 
 The amount of the security for conditional tax claims or in cases, in which payment reliefs under Article 76 paragraph 1 CustA[^115-1] are granted:
 
-- a. 100 per cent on storage of bulk goods;
+- 100 per cent on storage of bulk goods;
 - a<sup>bis</sup>.[^115-2] a maximum of 10 per cent for the authorised economic operator (AEO) under Article 42*a* CustA;
 - b. at least 25 per cent in other cases.
 
 <sup>2</sup> For international transits, the amount of the security is governed by international treaties.
 
-[^115-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^115-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^115-2]: Inserted by Annex No 2 of the O of 18 Nov. 2015, in force since 1 Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804))
 
 #### Art. 116
@@ -1940,9 +2042,12 @@ Authorisation is granted if the taxable person:
 - d.[^118-1] in its periodic tax returns with the FTA regularly reports input tax surpluses on imports and exports of goods under letter b of more than 10,000 francs per year that arise from the payment of import tax to the FOCBS; and
 - e. guarantees the correct functioning of the procedure.
 
+<sup>1bis</sup> Suppliers under Article 20*a* VAT Act who have been subject to an administrative measure under Article 79*a* VAT Act may be granted authorisation to use the transfer procedure on request from the day after the ruling is lifted.[^118-2]
+
 <sup>2</sup> The grant or extension of the authorisation may be made conditional on the provision of security in the amount of the anticipated claims.
 
 [^118-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^118-2]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 119
 
@@ -1954,11 +2059,15 @@ If any of the conditions for authorisation under Article 118 paragraph 1 letters
 
 #### Art. 120
 
-**Withdrawal of the authorisation**
+**Withdrawal of the authorisation**[^120-1]
 
 ### (Art. 63 VAT Act)
 
-Authorisation is withdrawn if the taxable person no longer guarantees the correct functioning of the procedure.
+<sup>1</sup> Authorisation is withdrawn if the taxable person no longer guarantees the correct functioning of the procedure.
+
+<sup>2</sup> Suppliers under Article 20*a* of the VAT Act who are subject to an administrative measure under Article 79*a* of the VAT Act shall have their authorisation withdrawn with effect from the day after the ruling is issued.
+
+[^120-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 121
 
@@ -1972,54 +2081,63 @@ Articles 118–120 apply by analogy for authorisation under Article 63 paragraph
 
 ### Chapter 1 Rights and Obligations of the Taxable Person
 
-### Section 1 Opting not to register as a Taxable Person
-
-[^tit5-chap1-sec1-1]
-
-[^tit5-chap1-sec1-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-
-### (Art. 66 para. 1 VAT Act)
+### Section 1 …
 
 #### Art. 121a
 
-Businesses that exclusively provide supplies on Swiss territory that are exempt from tax without credit may opt not to register with the FTA as a taxable person. The foregoing also applies to businesses without a place of business, domicile or permanent establishment on Swiss territory if they also make supplies for which they are exempt from tax under Article 10 paragraph 2 letter b VAT Act.
+[^121a-1]
+
+[^121a-1]: Inserted by No I of the O of 18 Oct. 2017 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Section 1*a* Paperless Receipts, Electronic Procedures
 
-[^tit5-chap1-sec1a-1]
+[^tit5-chap1-sec2-1]
 
-[^tit5-chap1-sec1a-1]: Inserted by No I of the O of 18 Oct. 2017 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Amended by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+[^tit5-chap1-sec2-1]: Inserted by No I of the O of 18 Oct. 2017 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Amended by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
 
 #### Art. 122
 
-**Paperless receipts**[^122-1]
+**Paperless receipts**[^126-1]
 
 ### (Art. 70 para. 4 VAT Act)
 
-[^122-2]
+[^126-2]
 
-Articles 957–958*f* of the Code of Obligations[^122-3] and the Accounts Ordinance of 24 April 2002[^122-4] apply to the transmission and retention of paperless receipts.
+Articles 957–958*f* of the Code of Obligations[^126-3] and the Accounts Ordinance of 24 April 2002[^126-4] apply to the transmission and retention of paperless receipts.
 
-[^122-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^122-2]: Inserted by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
-[^122-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^122-4]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^126-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^126-2]: Inserted by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+[^126-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^126-4]: [SR 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 123
 
-**Electronic procedures**[^123-1]
+**Electronic procedures**[^127-1]
 
 ### (Art. 65*a* VAT Act)
 
-Registration as a taxable person (Art. 66 para. 1 VAT Act), filing returns (Art. 71 VAT Act) and the correction of errors in returns (Art. 72 VAT Act) must be carried out electronically using the portal provided.
+<sup>1</sup> If the electronic procedure is mandatory, all submissions to the FTA must be made electronically via the portal provided for this purpose.
 
-[^123-1]: Amended by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+<sup>2</sup>
 
-#### Art. 124
+The electronic procedure is mandatory for:
 
-**und **125**[^124-1]**
+- a. …
+- b. annual reporting (Art. 35*a* and 86*a* VAT Act);
+- c. …
+- d. …
+- e. registration as a taxable person (Art. 66 para. 1 VAT Act);
+- f. …
+- g. filing returns (Art. 71 VAT Act);
+- h. correction of errors in returns (Art. 72 VAT Act).
 
-[^124-1]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^127-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025, para. 2 lets a, c, d and f come into force on 1 Jan. 2027 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 124 and 125
+
+[^128-1]
+
+[^128-1]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 ### Section 2 Reporting
 
@@ -2040,7 +2158,7 @@ When using the effective reporting method, the taxable person must for reporting
   - 1\. taxed supplies, classified by tax rates,
   - 2\. supplies that are taxed voluntarily under Article 22 VAT Act (Option),
   - 3\. supplies that are exempt from the tax under Article 23 VAT Act,
-  - 4\. supplies to beneficiaries under Article 2 HSA[^126-1] that are exempt from the VAT under Article 143 of this Ordinance,
+  - 4\. supplies to beneficiaries under Article 2 HSA[^126-5] that are exempt from the VAT under Article 143 of this Ordinance,
   - 5\. supplies for which the notification procedure under Article 38 VAT Act was used,
   - 6\. supplies that are exempt from tax without credit under Article 21 VAT Act;
 
@@ -2074,7 +2192,7 @@ When using the effective reporting method, the taxable person must for reporting
 
 <sup>2</sup> The FTA may consolidate several figures under paragraph 1 into one field of the reporting form or refrain from requiring them in the periodic reporting.
 
-[^126-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^126-5]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 127
 
@@ -2092,7 +2210,7 @@ When using the net tax rate or flat tax rate method, the taxable person must rec
 
   - 1\. taxed supplies, classified by net tax rates or flat tax rates,
   - 2\. supplies that are exempt from the tax under Article 23 VAT Act,
-  - 3\. supplies to beneficiaries under Article 2 HSA[^127-1] that are exempt from VAT under Article 143 of this Ordinance,
+  - 3\. supplies to beneficiaries under Article 2 HSA[^127-2] that are exempt from VAT under Article 143 of this Ordinance,
   - 4\. supplies for which the notification procedure under Article 38 VAT Act was used,
   - 5\. supplies that are exempt from the tax without credit under Article 21 VAT Act;
 
@@ -2106,12 +2224,15 @@ When using the net tax rate or flat tax rate method, the taxable person must rec
   - 3\. other flows of funds not qualifying as considerations under Article 18 paragraph 2 letters d–l VAT Act;
 
 - d. the total of the considerations for supplies subject to the acquisition tax classified by tax rates;
-- e. tax compensations arising from the use of a special procedure made available by the FTA under Article 90 paragraphs 1 and 2;
-- f. the fair value of the immovable goods under Article 93 that are no longer used for business purposes or are newly used for a business activity exempt from the tax without credit under Article 21 paragraph 2 VAT Act.
+- e. and f.[^127-3] …
+- g.[^127-4] corrections in accordance with Articles 79 paragraphs 3 and 4, 81 paragraphs 4 and 5[^127-5] and 83 paragraph 1.
 
 <sup>2</sup> The FTA may consolidate several figures under paragraph 1 under one field of the reporting form or refrain from requiring them in the periodic reporting.
 
-[^127-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^127-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^127-3]: Repealed by No I of the O of 21 Aug. 2024, with effect from 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^127-4]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^127-5]: The reference was amended in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 128
 
@@ -2166,7 +2287,7 @@ Errors in past returns must be corrected separately from the ordinary returns.
 The obligation of third parties to provide information under Article 73 paragraph 2 letter c VAT Act does not apply to documents which
 
 - a. have been entrusted to the person obliged to provide information in order to make the supply;
-- b. the person obliged to provide information has prepared himself in order to make the supply.
+- b. the person obliged to provide information has prepared in order to make the supply.
 
 ### Chapter 3 Rights and Obligations of the Authorities
 
@@ -2186,7 +2307,7 @@ The obligation of third parties to provide information under Article 73 paragrap
 
 <sup>2</sup> This person shall monitor compliance with the data protection provisions and in particular ensure that a regular review is made of the accuracy and security of the data.
 
-<sup>3</sup> He or she shall also ensure that regular checks are carried out relating to the accuracy and complete transfer of the gathered data onto data carriers.
+<sup>3</sup> This person shall also ensure that regular checks are carried out relating to the accuracy and complete transfer of the gathered data onto data carriers.
 
 [^131-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
@@ -2239,7 +2360,7 @@ The data that the FTA may process under Article 76*a* paragraph 3 VAT Act are as
 
 [^134-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^134-2]: Term in accordance with Annex No II 24 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^134-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^134-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 135
 
@@ -2254,8 +2375,8 @@ The data that the FTA may process under Article 76*a* paragraph 3 VAT Act are as
 <sup>3</sup> Non-anonymised data may be used for internal business audits and for internal business planning.
 
 [^135-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^135-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^135-3]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^135-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^135-3]: [SR 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^135-4]: Amended by Annex 2 No II 73 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 135a
@@ -2289,7 +2410,7 @@ The FTA shall make the data under Article 134 accessible online to the persons i
 <sup>2</sup> Prior to destroy the data shall be offered to the Federal Archives in accordance with the Archiving Act of 26 June 1998[^137-2] for archiving.
 
 [^137-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^137-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^137-2]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 138
 
@@ -2309,13 +2430,33 @@ The FTA shall make the data under Article 134 accessible online to the persons i
 
 [^139-1]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
-### Section 2 Audit
+### Section 2 Ensuring the Correct Payment of Taxes
 
-### (Art. 78 para. 2 VAT Act)
+[^tit5-chap3-sec2-1]
+
+[^tit5-chap3-sec2-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 140
 
+**Audit**
+
+### (Art. 78 para. 2 VAT Act)
+
+[^140-1]
+
 A demand for comprehensive documentation is deemed to have been made if a demand for the books of account for a financial year is made with or without the related booking receipts.
+
+[^140-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 140a
+
+**Destruction costs**[^140a-1]
+
+### (Art. 79*a* para. 4 VAT Act)
+
+The costs of the destruction of goods ordered by the FTA shall be borne by the FTA.
+
+[^140a-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Chapter 4 Ruling and Appeal Procedures
 
@@ -2327,7 +2468,7 @@ A demand for comprehensive documentation is deemed to have been made if a demand
 
 The FTA is entitled within the meaning of Article 89 paragraph 2 letter a of the Federal Supreme Court Act of 17 June 2005[^141-1] to appeal to the Federal Court.
 
-[^141-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^141-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 142
 
@@ -2368,7 +2509,7 @@ Individual beneficiaries are:
 
 <sup>5</sup> Relief from VAT is effected by tax exemption at source under Articles 144 and 145 and, in exceptional cases, by refund under Article 146.
 
-[^143-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^143-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 144
 
@@ -2400,15 +2541,15 @@ The tax exemption applies only to supplies of goods and supplies of services:
 
 <sup>1</sup> An institutional beneficiary that wishes to claim a tax exemption must before every acquisition of supplies certify on the official form that the supplies acquired are for official use.
 
-<sup>2</sup> An individual beneficiary who wishes to claim tax exemption must before every acquisition of supplies have certified by the institutional beneficiary to which the person belongs, on the official form, that the person enjoys the status under Article 143 paragraph 3, which confers entitlement to tax free acquisition. The individual beneficiary must hand over the official form signed in person to the supplier and identify himself on every acquisition of supplies with the identification card issued by the competent federal authority.
+<sup>2</sup> An individual beneficiary who wishes to claim tax exemption must before every acquisition of supplies have certified by the institutional beneficiary to which the person belongs, on the official form, that the person enjoys the status under Article 143 paragraph 3, which confers entitlement to tax free acquisition. The individual beneficiary must hand over the official form signed in person to the supplier and provide proof of identify on every acquisition of supplies with the identification card issued by the competent federal authority.
 
 <sup>3</sup> A tax exemption under Article 144 paragraph 1 letter a may be claimed only if the effective acquisition price for the supplies indicated on the invoice or an equivalent document is at least 100 francs, including tax. This minimum amount does not apply to telecommunications and electronic services under Article 10 and for supplies of water in pipes, gas and electricity by utility companies.
 
 <sup>4</sup> The conditions under paragraphs 1–3 for claiming tax exemption do not apply to acquisitions of motor fuel for which the institutional or the individual beneficiary may claim exemption from the mineral oil tax based on Articles 26–28 of the Mineral Oil Tax Ordinance of 20 November 1996[^145-1], on Articles 30 and 31 of the Ordinance of 23 August 1989[^145-2] on the Customs Privileges of Diplomatic Missions in Bern and Consular Posts on Swiss territory and of Articles 28 and 29 of the Ordinance of 13 November 1985[^145-3] on the Customs Privileges of International Organisations, of States in their relations with such Organisations and of Special Missions of Foreign States. In this case the supplier must be able to prove that the FOCBS has not levied the mineral oil tax or has refunded it.
 
-[^145-1]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
-[^145-2]: [SR 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
-[^145-3]: [SR 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^145-1]: [SR 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
+[^145-2]: [SR 631.144.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7833)
+[^145-3]: [SR 631.145.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7834)
 
 #### Art. 146
 
@@ -2434,7 +2575,7 @@ The tax exemption applies only to supplies of goods and supplies of services:
 
 The taxable person must retain in full the originals of the official forms used, together with the other receipts, in accordance with Article 70 paragraph 2 VAT Act. For electronically transmitted and stored official forms, Article 122[^147-1] applies by analogy.
 
-[^147-1]: The reference has been adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) on 1. Jan. 2018.
+[^147-1]: The reference has been adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) on 1. Jan. 2018.
 
 #### Art. 148
 
@@ -2454,16 +2595,21 @@ The tax on supplies of goods, on imports of goods and on supplies of services th
 
 <sup>2</sup> The provisions of the Vienna Conventions dated 18 April 1961[^149-1] on Diplomatic Relations and dated 24 April 1963[^149-2] on Consular Relations and of the Headquarters Agreement are reserved.
 
-[^149-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^149-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^149-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^149-2]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 150
 
-**Voluntary taxation of supplies exempt without credit**
+**Voluntary taxation of supplies exempt without credit**[^150-1]
 
 ### (Art. 107 para. 1 let. a VAT Act)
 
-The FTA can approve the voluntary taxation of the supplies referred to in Article 21 paragraph 2 numbers 20 and 21 VAT Act, without the value of the land, provided they have been made to institutional beneficiaries under Article 143 paragraph 2 letter a, regardless whether the institutional beneficiary is liable for tax on Swiss territory or not. This option is limited to properties and parts of properties used for administrative purposes, and in particular to offices, conference rooms, warehouses, parking places, or which are intended as the residence of the head of a diplomatic mission, a permanent mission or another representative in inter-governmental organisations or of a consular post.
+The supplies referred to in Article 21 paragraph 2 numbers 20 and 21 VAT Act, without the value of the land may be taxed voluntarily, provided they have been made to institutional beneficiaries under Article 143 paragraph 2 letter a, regardless whether the institutional beneficiary is liable for tax on Swiss territory. This option is limited to properties and parts of properties which:
+
+- a. are used for administrative purposes, in particular offices, conference rooms, warehouses, parking places, or which
+- b. are intended exclusively as the residence of the head of a diplomatic mission, a permanent mission or another representative in inter-governmental organisations or of a consular post.
+
+[^150-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ## Title 7 Refund of VAT to Customers with Domicile or Place of Business Abroad
 
@@ -2482,12 +2628,18 @@ The right to a refund of the taxes incurred under Article 28 paragraph 1 letter 
 - c. do not make supplies on Swiss territory subject to paragraph 2; and
 - d. prove to the FTA their business character in the state of their domicile, of their place of business or of the permanent establishment.
 
-<sup>2</sup> The entitlement to a tax refund remains intact if the person is exempt from tax liability under Article 10 paragraph 2 letter b VAT Act and does not waive this exemption.[^151-2]
+<sup>2</sup>
+
+The entitlement to a tax refund remains intact if:
+
+- a. the person is exempt from tax liability under Article 10 paragraph 2 letter b VAT Act;
+- b. does not waive this exemption; and
+- c. the exemption is not exclusively attributable to Article 10 paragraph 2 letter b number 1<sup>bis</sup> VAT Act.[^151-2]
 
 <sup>3</sup> Refund of the tax is conditional on the state of residence or of place of business or of the permanent establishment of the applicant business granting a corresponding reciprocal right.
 
 [^151-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^151-2]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^151-2]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 152
 
@@ -2513,12 +2665,12 @@ Reciprocal right is deemed to be given if:
 
 <sup>1</sup> The tax refund is commensurate in scope and limitations with the right of input tax deduction under Articles 28–30 and 33 paragraph 2 VAT Act. A refund is made at a rate of tax that is no higher than the statutory maximum rate for the supply concerned. Value added tax paid on supplies that are not subject to or exempt from tax under the VAT Act is not refunded.[^153-1]
 
-<sup>2</sup> Travel agents and organisers of events with their place of business abroad are not entitled to refunds of the taxes which have been invoiced to them on the territory of the Swiss Confederation for the acquisition of supplies of goods and supplies of services that they charge on to customers.[^153-2]
+<sup>2</sup> Travel agents with their place of business abroad are not entitled to refunds of the taxes which have been invoiced to them on Swiss territory for the acquisition of supplies of goods and services that they charge on to customers.[^153-2]
 
 <sup>3</sup> Repayable taxes are refunded only if their amount in a calendar year reaches at least 500 francs.
 
 [^153-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^153-2]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^153-2]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 154
 
@@ -2538,7 +2690,7 @@ Reciprocal right is deemed to be given if:
 
 ### (Art. 107 para. 1 let. b VAT Act)
 
-<sup>1</sup> The application for a tax refund must be addressed to the FTA with the suppliers’ original invoices or with the FOCBS’ assessment advice. The original invoices must meet the requirements under Article 26 paragraph 2 VAT Act and be in the name of the applicant.
+<sup>1</sup> The application for a tax refund must be addressed to the FTA with the suppliers’ invoices or with the FOCBS’ assessment advice. The invoices must meet the requirements under Article 26 paragraph 2 VAT Act and be in the name of the applicant.[^155-1]
 
 <sup>2</sup> The FTA’s form must be used for the application.
 
@@ -2547,6 +2699,8 @@ Reciprocal right is deemed to be given if:
 <sup>4</sup> The tax displayed on cash receipts may not be refunded.
 
 <sup>5</sup> The FTA may demand further details and documentation.
+
+[^155-1]: Amended by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 156
 
@@ -2571,7 +2725,7 @@ If the tax refund is paid out later than 180 days after receipt of the complete 
 The Value Added Tax Consultative Commission (Consultative Commission) is an extra-parliamentary commission under Article 57*a* of the Government and Administrative Organisation Act of 21 March 1997[^157-2].
 
 [^157-1]: Amended by No I of the O of 12 Oct. 2011, in force since 1 Jan. 2012 ([AS 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
-[^157-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^157-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 158
 
@@ -2712,6 +2866,28 @@ Where goods supplied from abroad onto Swiss territory are exempt from import tax
 <sup>2</sup> Corrections of returns that have been filed in paper form must also be filed in paper form.
 
 [^166c-1]: Inserted by No I of the O of 16 June 2023, in force since 1 Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
+#### Art. 166d
+
+**Transitional provision to the Amendment of 21 August 2024**[^166d-1]
+
+### (Art. 35 para. 1<sup>bis</sup> let. b VAT Act)
+
+Taxable persons who have not yet been entered in the VAT register for a full year when the amendment of 21 August 2024 comes into force must convert their turnover to a full year in order to determine whether the turnover threshold in Article 35 paragraph 1<sup>bis</sup> letter b of the VAT Act has been exceeded.
+
+[^166d-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 166e
+
+**Transitional provision to the Amendment of 21 August 2024**[^166e-1]
+
+### (Art. 37 VAT Act)
+
+<sup>1</sup> The time limits under Article 37 paragraph 4 of the VAT Act for changing from the effective reporting method to the net tax rate method and vice versa shall restart when the amendment of 21 August 2024 comes into force.
+
+<sup>2</sup> The time limits under Article 98 paragraph 2 for changing from the effective reporting method to the flat tax rate method and vice versa shall restart when the amendment of 21 August 2024 comes into force.
+
+[^166e-1]: Inserted by No I of the O of 21 Aug. 2024, in force since 1 Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485))..
 
 ### Chapter 3 Commencement Date
 

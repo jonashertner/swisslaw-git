@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20250101-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (État le 1<sup>er</sup> juillet 2024)
+du 27 novembre 2009 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -27,7 +27,7 @@ vu la loi du 12 juin 2009 sur la TVA (LTVA)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^ingress-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 ## Titre 1 Dispositions générales
 
@@ -92,9 +92,10 @@ Pour les biens en provenance de l’étranger, apportés dans un dépôt sur le 
 
 <sup>3</sup> Le lieu de la livraison demeure sur le territoire suisse jusqu’à la fin de l’année civile durant laquelle le fournisseur de la prestation n’atteint plus la limite du chiffre d’affaires de 100 000 francs provenant de livraisons au sens de l’al. 1.
 
-<sup>4</sup> Si le fournisseur de la prestation n’atteint plus la limite du chiffre d’affaires mais ne le communique pas par écrit à l’AFC, il est réputé assujetti au sens de l’art. 7, al. 3, let. a, LTVA.
+<sup>4</sup> Si le fournisseur de la prestation n’atteint plus la limite du chiffre d’affaires mais ne le communique pas par écrit à l’Administration fédérale des contributions (AFC), il est réputé assujetti au sens de l’art. 7, al. 3, let. a, LTVA.[^4a-2]
 
 [^4a-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+[^4a-2]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 5
 
@@ -313,7 +314,7 @@ Les prestations d’une collectivité publique qui ne constituent pas une activi
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^14-2]: Abrogé par le ch. I de l’O du 18 oct. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^14-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^14-4]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^14-4]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ### Section 3 Imposition de groupe
 
@@ -351,24 +352,44 @@ Il y a direction unique lorsque le comportement d’une entité est contrôlé p
 
 <sup>2</sup> La constitution de plusieurs sous-groupes est autorisée.
 
+#### Art. 17a
+
+**Représentation du groupe**[^17a-1]
+
+### (art. 13 LTVA)
+
+Le groupe d’imposition peut être représenté par:
+
+- a. un membre du groupe résidant en Suisse, ou
+- b. une personne qui n’est pas membre du groupe et qui a son domicile ou son siège en Suisse.
+
+[^17a-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 18
 
-**Autorisation de l’imposition de groupe**
+**Demande pour appliquer l’imposition de groupe**[^18-1]
 
-### (art. 13 et 67, al. 2, LTVA)
+### (art. 13, 65*a*, al. 1, et 67, al. 2, LTVA)
 
-<sup>1</sup> Sur demande, l’AFC autorise l’imposition de groupe dans la mesure où les conditions requises sont remplies.
+<sup>1</sup> Sur demande, l’AFC inscrit le groupe au registre des assujettis.
 
-<sup>2</sup> Seront jointes à la demande les déclarations écrites de tous les membres attestant qu’ils acceptent l’imposition de groupe et ses conséquences ainsi que la représentation commune par le membre du groupe désigné ou la personne désignée dans ladite demande.
+<sup>2</sup>
+
+Si les conditions fixées à l’art. 13, al. 1, LTVA pour recourir à l’imposition de groupe sont remplies dès le début de la période fiscale, l’AFC inscrit le groupe au registre des assujettis à cette date, dans la mesure où:
+
+- a. aucune des entités concernées n’a remis son décompte pour la période fiscale pour laquelle l’imposition de groupe est demandée, et que
+- b. le délai pour le dépôt des décomptes fixé à l’art. 71, al. 1, LTVA n’est pas écoulé.
 
 <sup>3</sup>
 
-La demande doit être déposée par le représentant du groupe. Celui-ci peut être:
+Si les conditions fixées à l’art. 13, al. 1, LTVA pour recourir à l’imposition de groupe sont remplies seulement en cours de période fiscale, l’AFC inscrit le groupe au registre des assujettis à cette date, dans la mesure où:
 
-- a. un membre du groupe d’imposition TVA résidant en Suisse, ou
-- b.[^18-1] une personne non-membre ayant son domicile ou son siège en Suisse.
+- a. aucune des entités concernées n’a remis son décompte pour la période de décompte au cours de laquelle les conditions pour l’imposition de groupe ont été réunies, et que
+- b. le délai pour le dépôt des décomptes fixé à l’art. 71, al. 1, LTVA n’est pas écoulé.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+<sup>4</sup> Doivent être jointes à la demande les déclarations écrites de tous les membres du groupe attestant qu’ils acceptent l’imposition de groupe et ses conséquences ainsi que la représentation commune par le membre ou la personne désigné dans la demande.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 19
 
@@ -376,26 +397,33 @@ La demande doit être déposée par le représentant du groupe. Celui-ci peut ê
 
 ### (art. 13 LTVA)
 
-<sup>1</sup> La démission de la fonction de représentant d’un groupe TVA n’est possible que pour la fin d’une période fiscale. Pour ce faire, la démission doit être annoncée par écrit à l’AFC au moins un mois à l’avance.
+<sup>1</sup> Tout changement dans la représentation d’un groupe doit être annoncé à l’AFC.[^19-1]
 
-<sup>2</sup> Si le représentant du groupe démissionne et si aucun nouveau représentant n’est annoncé par écrit à l’AFC jusqu’à un mois avant la fin de la période fiscale, l’AFC peut, après sommation, désigner l’un des membres du groupe en tant que représentant du groupe.
+<sup>2</sup> Si le représentant du groupe démissionne de sa fonction et qu’aucun nouveau représentant n’est annoncé à l’AFC, celle-ci peut, après sommation, désigner l’un des membres du groupe en tant que représentant du groupe.[^19-2]
 
 <sup>3</sup> De concert, les membres du groupe peuvent retirer au représentant son mandat de représentation, pour autant qu’ils désignent simultanément un nouveau représentant. L’al. 1 s’applique par analogie.
 
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 20
 
-**Modification de la composition du groupe**
+**Modification de la composition du groupe**[^20-1]
 
 ### (art. 13 LTVA)
 
-<sup>1</sup> Lorsqu’un membre ne remplit plus les conditions pour participer à l’imposition de groupe, le représentant du groupe doit en aviser l’AFC par écrit.
+<sup>1</sup> Le représentant du groupe doit aviser l’AFC si un membre ne remplit plus les conditions fixées à l’art. 13, al. 1, LTVA pour participer à l’imposition de groupe.
 
-<sup>2</sup> Sur demande, une entité peut adhérer à un groupe existant ou un membre peut quitter un groupe. L’AFC autorise l’adhésion ou la sortie pour le début de la période fiscale suivante ou la fin de celle en cours.[^20-1]
+<sup>2</sup> Sur demande, une entité peut adhérer à un groupe existant pour le début de la période fiscale suivante ou un membre peut quitter un groupe pour la fin de la période en cours.
 
-<sup>3</sup> Si une entité qui ne remplissait pas les conditions d’admission à l’imposition de groupe remplit désormais ces conditions, elle peut également demander l’adhésion à un groupe d’imposition existant pendant la période fiscale en cours, pour autant que la demande correspondante soit remise par écrit à l’AFC dans les 30 jours suivant la publication de la modification déterminante au registre du commerce ou la réalisation des conditions nécessaires.[^20-2]
+<sup>3</sup>
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^20-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+Si une entité remplit désormais les conditions fixées à l’art. 13, al. 1, LTVA pour participer à l’imposition de groupe, elle peut demander l’adhésion à un groupe d’imposition existant à compter du moment où ces conditions sont remplies, même en cours de période fiscale, dans la mesure où:
+
+- a. ni le groupe d’imposition ni l’entité à intégrer au groupe n’ont remis leurs décomptes pour la période de décompte au cours de laquelle les conditions pour l’admission à l’imposition de groupe ont été réunies, et
+- b. le délai pour le dépôt des décomptes fixé à l’art. 71, al. 1, LTVA n’est pas écoulé.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 21
 
@@ -469,7 +497,7 @@ La fourniture de prestations à des personnes étroitement liées est considér�
 
 Les organisations privées visées à l’art. 32*a*<sup>bis</sup> LPE[^27-1] fournissent, de par leur activité, des prestations au producteur ou à l’importateur. Les taxes d’élimination anticipées constituent la contre-prestation pour ces prestations.
 
-[^27-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^27-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 #### Art. 28
 
@@ -489,14 +517,20 @@ Il n’y a pas de rapport de prestations en cas de détachement transfrontalier 
 
 ### (art. 18, al. 2, let. a, LTVA)
 
-Sont notamment réputées subventions ou autres contributions de droit public les contributions suivantes consenties par une collectivité publique:
+<sup>1</sup>
 
-- a. les aides financières au sens de l’art. 3, al. 1, de la loi du 5 octobre 1990 sur les subventions (LSu)[^29-1];
+Sous réserve de l’art. 18, al. 3, LTVA, sont notamment réputées subventions ou autres contributions de droit public les contributions suivantes consenties par une collectivité publique:[^29-1]
+
+- a. les aides financières au sens de l’art. 3, al. 1, de la loi du 5 octobre 1990 sur les subventions (LSu)[^29-2];
 - b. les indemnités au sens de l’art. 3, al. 2, let. a, LSu, dans la mesure où il n’y a pas de rapport de prestations;
 - c. les subsides en faveur de la recherche, dans la mesure où la collectivité n’a aucun droit exclusif sur les résultats de la recherche;
 - d. les fonds analogues à ceux des let. a à c versés sur la base du droit cantonal ou communal.
 
-[^29-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+<sup>2</sup> Une collectivité publique peut communiquer au destinataire des fonds que les fonds versés constituent des subventions ou d’autres contributions de droit public jusqu’à l’expiration du délai fixé à l’art. 72, al. 1, LTVA de la période fiscale au cours de laquelle le versement a lieu.[^29-3]
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^29-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^29-3]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 30
 
@@ -593,6 +627,7 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 - c. les prothésistes dentaires;
 - c<sup>bis</sup>.[^35-2] les hygiénistes dentaires;
 - d. les psychothérapeutes;
+- d<sup>bis</sup>.[^35-3] les psychologues;
 - e. les chiropraticiens;
 - f. les physiothérapeutes;
 - g. les ergothérapeutes;
@@ -603,13 +638,16 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 - l. les logopédistes-orthophonistes;
 - m. les diététiciens;
 - n. les pédicures-podologues;
-- o.[^35-3] …
-- p.[^35-4] …
+- o.[^35-4] …
+- p.[^35-5] les pharmaciens;
+- q.[^35-6] les optométristes.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introduite par le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 30 juin 2024 ([RO 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)ch. III).
-[^35-4]: Introduite par le ch. II de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. II de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 31 déc. 2023 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)ch. II).
+[^35-3]: Introduite par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^35-4]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 30 juin 2024 ([RO 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)ch. III).
+[^35-5]: Introduite par le ch. II de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^35-6]: Introduite par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 36
 
@@ -643,10 +681,22 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 
 L’exclusion du champ de l’impôt s’étend:
 
-- a. aux prestations fournies entre des sociétés de droit privé ou des sociétés de droit public, détenues exclusivement par des collectivités publiques, et les sociétés qu’elles détiennent directement ou indirectement ou les établissements ou les fondations qu’elles ont créés de manière directe ou indirecte;
-- b. aux prestations fournies entre des établissements ou fondations, constitués exclusivement par des collectivités publiques, et les sociétés que ces établissements ou fondations détiennent directement ou indirectement ou les établissements ou fondations qu’ils ont fondés directement ou indirectement.
+- a.
+
+  aux prestations fournies entre des sociétés de droit privé ou des sociétés de droit public, détenues exclusivement par des collectivités publiques, et:
+
+  - 1\. les sociétés qu’elles détiennent directement ou indirectement, ou
+  - 2\. les établissements et fondations dont elles sont les seules fondatrices ou les seules responsables;
+
+- b.
+
+  aux prestations fournies entre des établissements ou des fondations, dont les fondatrices ou responsables sont exclusivement des collectivités publiques, et:
+
+  - 1\. les sociétés que seuls ces établissements ou fondations détiennent directement ou indirectement, ou
+  - 2\. les établissements et fondations dont ils sont les seuls fondateurs ou les seuls responsables.[^38-2]
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^38-2]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 38a
 
@@ -665,7 +715,7 @@ Sont réputés institutions de formation et de recherche:
 <sup>2</sup> Les entreprises de l’économie privée ne sont pas considérées comme des institutions de formation et de recherche.
 
 [^38a-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^38a-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^38a-2]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 #### Art. 39
 
@@ -732,34 +782,23 @@ Sont exonérés de l’impôt les transports de personnes par car sur des trajet
 
 <sup>2</sup> Sont exonérés de l’impôt les transports de personnes sur le territoire suisse destinés exclusivement à amener directement une personne au départ d’une prestation de transport visée à l’al. 1, à condition que ce transport soit facturé avec la prestation de transport visée à l’al. 1.
 
+#### Art. 43a
+
+**Renonciation à la livraison exonérée aux plateformes**[^43a-1]
+
+### (art. 23, al. 2, ch. 13, LTVA)
+
+<sup>1</sup> Le vendeur peut, avec l’accord du fournisseur de la prestation au sens de l’art. 20*a* LTVA, faire figurer la TVA sur la facture relative à la livraison fictive de biens sur le territoire suisse. Cet accord du fournisseur de la prestation au sens de l’art. 20*a* LTVA n’est pas nécessaire si une mesure administrative prévue à l’art. 79*a* LTVA a été prononcée à son encontre.
+
+<sup>2</sup> Le fournisseur de la prestation au sens de l’art. 20*a* LTVA peut déduire la TVA à titre d’impôt préalable.
+
+[^43a-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 44
 
-**Opérations exonérées portant sur les monnaies d’or et l’or fin**
+[^44-1]
 
-### (art. 107, al. 2, LTVA)
-
-<sup>1</sup>
-
-Sont exonérées de l’impôt les opérations portant sur:
-
-- a. les monnaies d’or émises par des États, des numéros 7118.9000[^44-1] et 9705.0000 du tarif douanier[^44-2];
-- b.
-
-  l’or d’investissement au titre minimal de 995 millièmes sous forme:
-
-  - 1\. de lingots coulés portant l’indication du titre et le poinçon d’un essayeur-fondeur reconnu, ou
-  - 2\. de plaquettes estampées portant l’indication du titre et le poinçon d’un essayeur-fondeur reconnu ou un poinçon de maître enregistré en Suisse;[^44-3]
-
-- c.[^44-4] l’or sous forme de grenaille d’une teneur d’au moins 995 millièmes emballée et scellée par un essayeur-fondeur reconnu;
-- d. l’or sous forme brute ou mi-ouvrée destiné à l’affinage ou à la récupération;
-- e. l’or sous forme de déchets ou de rebuts.
-
-<sup>2</sup> Sont également réputés être de l’or au sens de l’al. 1, let. d et e, les alliages qui contiennent en poids 2 % ou plus d’or ou qui, comprenant du platine, contiennent plus d’or que de platine.
-
-[^44-1]: Nouveau numéro selon l’annexe 2 ch. II 9 de l’O du 15 fév. 2023 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
-[^44-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe. Actuellement: 9705.3100 et 9705.3900
-[^44-3]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^44-4]: Nouvelle teneur selon le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-1]: Abrogé par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Chapitre 3 Calcul de l’impôt et taux de l’impôt
 
@@ -894,6 +933,16 @@ Si l’assujetti mentionne de manière apparente l’impôt lors de la revente d
 
 L’assujetti doit tenir un contrôle de l’achat et de la vente de pièces de collection. Lorsque les biens ont été acquis à un prix global, ils doivent faire l’objet d’enregistrements séparés par lot.
 
+#### Art. 48e
+
+**Imposition de la marge pour les plateformes numériques**[^48e-1]
+
+### (art. 24*a* LTVA)
+
+Quiconque est réputé fournisseur de la prestation au sens de l’art. 20*a* LTVA peut appliquer l’imposition de la marge uniquement si le vendeur du bien réside sur le territoire suisse et qu’il n’est pas inscrit au registre des assujettis.
+
+[^48e-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 ### Section 2 Taux de l’impôt
 
 #### Art. 49
@@ -910,12 +959,12 @@ Sont réputés médicaments:
 - d.[^49-5] les médicaments prêts à l’emploi non autorisés visés aux art. 48 et 49, al. 1 à 4, de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments[^49-6] et 7 à 7*c* de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^49-7].
 
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
-[^49-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^49-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^49-3]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-4]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-5]: Nouvelle teneur selon le ch. III 1 de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^49-6]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^49-7]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^49-6]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^49-7]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 50
 
@@ -1097,11 +1146,9 @@ L’art. 45 s’applique par analogie au calcul du montant de l’impôt préala
 
 #### Art. 61
 
-**Déduction de l’impôt préalable sur les monnaies d’or et l’or fin**
+[^61-1]
 
-### (art. 107, al. 2, LTVA)
-
-L’impôt grevant les livraisons de biens et les prestations de services, affectées à des opérations au sens de l’art. 44 et à des importations au sens de l’art. 113, let. g, est déductible à titre d’impôt préalable.
+[^61-1]: Abrogé par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Section 2 Déduction de l’impôt préalable fictif
 
@@ -1117,7 +1164,7 @@ L’impôt grevant les livraisons de biens et les prestations de services, affec
 
 Ne sont pas réputés biens mobiliers identifiables les métaux précieux des numéros 7106 à 7112 du tarif douanier[^62-1] et les pierres précieuses des numéros 7102 à 7105.
 
-[^62-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annexe
+[^62-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Annexe
 
 #### Art. 63
 
@@ -1135,12 +1182,19 @@ La déduction de l’impôt préalable fictif est exclue lorsque:
 
 - a. la procédure de déclaration prévue à l’art. 38 LTVA a été appliquée au moment de l’acquisition du bien;
 - b. l’assujetti a importé le bien;
-- c. des biens au sens de l’art. 44, al. 1, let. a et b, et 2 ont été acquis;
-- d. l’assujetti sait ou devrait savoir que le bien a été importé en franchise d’impôt.
+- c.[^63-2] des biens au sens de l’art. 23, al. 2, ch. 12, LTVA ont été acquis;
+- d. l’assujetti sait ou devrait savoir que le bien a été importé en franchise d’impôt;
+- e.[^63-3] l’assujetti a acheté le bien à un bénéficiaire au sens de l’art. 2 de la loi du 22 juin 2007 sur l’État hôte (LEH)[^63-4].
 
 <sup>4</sup> En cas de versement effectué dans le cadre de la gestion du sinistre, la déduction de l’impôt préalable fictif est admise uniquement sur la valeur effective du bien au moment de la reprise.
 
+<sup>5</sup> Quiconque est réputé fournisseur de la prestation au sens de l’art. 20*a* LTVA peut déduire l’impôt préalable fictif uniquement si le vendeur du bien réside sur le territoire suisse et qu’il n’est pas inscrit au registre des assujettis.[^63-5]
+
 [^63-1]: Erratum du 30 janv. 2018, ne concerne que le texte italien ([RO 2018 521](https://fedlex.data.admin.ch/eli/oc/2018/56)).
+[^63-2]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^63-3]: Introduite par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^63-4]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^63-5]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 64
 
@@ -1271,7 +1325,9 @@ Si les coûts de rénovation d’une phase de construction dépassent 5 % de la 
 
 <sup>2</sup> Si les éléments visés à l’art. 18, al. 2, let. a à c, LTVA peuvent être imputés à un domaine d’activité déterminé, seul l’impôt préalable sur les dépenses pour ce domaine d’activité doit être réduit.
 
-<sup>3</sup> Si les fonds éléments à l’art. 18, al. 2, let. a à c, LTVA sont versés pour couvrir un déficit d’exploitation, l’impôt préalable doit être réduit globalement en fonction du rapport entre ces éléments et le chiffre d’affaires total, sans taxe sur la valeur ajoutée.
+<sup>3</sup> Si les éléments visés à l’art. 18, al. 2, let. a à c, LTVA sont versés pour couvrir un déficit d’exploitation, l’impôt préalable doit être réduit globalement en fonction du rapport entre ces éléments et l’ensemble des recettes. Ces recettes sont composées de l’ensemble des chiffres d’affaires hors TVA et des recettes qui ne font pas partie de contre-prestations.[^75-1]
+
+[^75-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Chapitre 6 Détermination et naissance de la créance fiscale
 
@@ -1284,6 +1340,74 @@ Si les coûts de rénovation d’une phase de construction dépassent 5 % de la 
 [^76-1]
 
 [^76-1]: Cet art. entre en vigueur ultérieurement.
+
+### Section 1*a* Décompte annuel
+
+[^tit2-chap6-sec1a-1]
+
+[^tit2-chap6-sec1a-1]: Introduite par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 76a
+
+**Décompte annuel au début de l’assujettissement**
+
+### (art. 35, al. 1<sup>bis</sup>, let. b, 35*a* et 86*a* LTVA)
+
+<sup>1</sup> Les personnes qui viennent d’être inscrites au registre des assujettis et qui veulent établir leurs décomptes annuellement doivent en faire la demande à l’AFC au plus tard 60 jours après la notification du numéro TVA.
+
+<sup>2</sup> L’AFC autorise le recours au décompte annuel si le chiffre d’affaires, TVA comprise, escompté au cours des douze premiers mois ne dépasse pas la limite fixée à l’art. 35, al. 1<sup>bis</sup>, let. b, LTVA.
+
+<sup>3</sup> Après l’échéance du délai fixé à l’al. 1, l’assujetti peut demander à établir son décompte annuellement au plus tôt après une période fiscale.
+
+#### Art. 76b
+
+**Passage au décompte annuel**
+
+### (art. 35, al. 1<sup>bis</sup>, let. b, 35*a* et 86*a* LTVA)
+
+<sup>1</sup> Les assujettis qui souhaitent passer au décompte annuel doivent en faire la demande au plus tard 60 jours après le début de la période fiscale à partir de laquelle le changement doit avoir lieu.
+
+<sup>2</sup>
+
+L’AFC autorise le décompte annuel si l’assujetti:
+
+- a. n’a pas dépassé la limite de chiffre d’affaires fixée à l’art. 35, al. 1<sup>bis</sup>, let. b, LTVA pendant la période fiscale précédente, et qu’il
+- b. a remis tous ses décomptes et payé intégralement toutes ses créances d’impôt dans les délais au cours des trois périodes fiscales précédentes ou depuis le début de l’assujettissement, si celui-ci est plus récent.
+
+#### Art. 76c
+
+**Fin du décompte annuel**
+
+### (art. 35, al. 1<sup>bis</sup>, let. b, 35*a*, 86, al. 2, et 86*a* LTVA)
+
+<sup>1</sup> Les assujettis qui ne souhaitent plus avoir recours au décompte annuel doivent l’annoncer à l’AFC au plus tard 60 jours après le début de la période fiscale à partir de laquelle le changement doit avoir lieu.
+
+<sup>2</sup>
+
+L’AFC révoque l’autorisation d’établir des décomptes annuels:
+
+- a. pour le début de la période fiscale suivante si l’assujetti a dépassé la limite de chiffre d’affaires fixée à l’art. 35, al. 1<sup>bis</sup>, let. b, LTVA pendant trois périodes fiscales consécutives;
+- b.
+
+  pour le début de la deuxième période fiscale suivante:
+
+  - 1\.
+
+    si l’assujetti a demandé une réduction de ses acomptes et que, pour la période fiscale en cours, le total des acomptes est inférieur, par rapport au montant de l’impôt selon le décompte, aux valeurs suivantes:
+
+    - – 50 % pour les décomptes établis selon la méthode effective ou les décomptes établis au moyen de la méthode des taux forfaitaires
+    - – 35 % pour les décomptes établis au moyen de la méthode des taux de la dette fiscale nette,
+
+  - 2\. si elle a déterminé le montant de l’impôt dû dans les limites de son pouvoir d’appréciation en vertu de l’art. 86, al. 2, 2<sup>e</sup> phrase, LTVA, parce que l’assujetti n’a pas remis son décompte, ou
+  - 3\. si elle a engagé, en se fondant sur l’art. 86, al. 2, 1<sup>re</sup> phrase, LTVA, des poursuites visant au recouvrement de créances.
+
+#### Art. 76d
+
+**Adaptation des acomptes**
+
+### (art. 35, al. 1<sup>bis</sup>, let. b, 35*a* et 86*a* LTVA)
+
+Les acomptes peuvent être adaptés uniquement avant leur échéance.
 
 ### Section 2 Méthode des taux de la dette fiscale nette
 
@@ -1304,52 +1428,67 @@ La méthode des taux de la dette fiscale nette ne peut pas être adoptée par le
 - c. appliquent l’imposition de groupe selon l’art. 13 LTVA;
 - d. ont leur siège ou un établissement stable dans les vallées de Samnaun et de Sampuoir;
 - e.[^77-1] réalisent plus de 50 % de leur chiffre d’affaires au moyen de prestations imposables fournies à d’autres assujettis qui établissent leurs décomptes selon la méthode de décompte effective, dans la mesure où les personnes concernées se trouvent sous une direction unique;
-- f.[^77-2] effectuent des livraisons de biens sur le territoire suisse en vertu de l’art. 7, al. 3, LTVA.
+- f.[^77-2] effectuent des livraisons de biens sur le territoire suisse en vertu de l’art. 7, al. 3, LTVA;
+- g.[^77-3] sont réputés fournisseurs de la prestation au sens de l’art. 20*a* LTVA;
+- h.[^77-4] ont leur siège à l’étranger.
 
-<sup>3</sup> Les assujettis qui établissent leurs décomptes au moyen des taux de la dette fiscale nette ne peuvent pas opter pour l’imposition des prestations visées à l’art. 21, al. 2, ch. 1 à 24, 27, 29 et 30, LTVA. Si l’impôt est néanmoins facturé, le montant indiqué doit être versé à l’AFC, sous réserve de l’art. 27, al. 2, LTVA.[^77-3]
+<sup>3</sup> Les assujettis qui établissent leurs décomptes au moyen des taux de la dette fiscale nette ne peuvent pas opter pour l’imposition des prestations visées à l’art. 21, al. 2, ch. 1 à 24 et 27 à 31, LTVA. Si l’impôt est néanmoins facturé, le montant indiqué doit être versé à l’AFC, sous réserve de l’art. 27, al. 2, LTVA.[^77-5]
 
 [^77-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^77-2]: Introduite par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
-[^77-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^77-3]: Introduite par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^77-4]: Introduite par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^77-5]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 78
 
-**Adhésion à la méthode des taux de la dette fiscale nette au début de l’assujettissement**
+**Méthode des taux de la dette fiscale nette au début de l’assujettissement**[^78-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-<sup>1</sup> Les personnes qui viennent d’être immatriculées au registre des assujettis et qui veulent établir leur décompte selon la méthode des taux de la dette fiscale nette, doivent s’annoncer par écrit à l’AFC dans les 60 jours suivant la notification du numéro TVA.
+<sup>1</sup> Les personnes qui viennent d’être inscrites au registre des assujettis et qui veulent établir leurs décomptes selon la méthode des taux de la dette fiscale nette doivent l’annoncer à l’AFC dans les 60 jours qui suivent la notification du numéro TVA.
 
-<sup>2</sup> L’AFC autorise l’application de la méthode des taux de la dette fiscale nette si le chiffre d’affaires et l’impôt escompté ne dépassent pas les limites visées à l’art. 37, al. 1, LTVA pendant les douze premiers mois.
+<sup>2</sup> L’AFC autorise l’application de la méthode des taux de la dette fiscale nette si le chiffre d’affaires et l’impôt escomptés au cours des douze premiers mois ne dépassent pas les limites fixées à l’art. 37, al. 1, LTVA.
 
-<sup>3</sup> Si aucune annonce n’est faite dans le délai imparti à l’al. 1, l’assujetti doit établir ses décomptes selon la méthode effective pendant trois ans au moins avant de pouvoir passer à la méthode des taux de la dette fiscale nette. Un changement anticipé de méthode est possible lors de chaque modification du taux correspondant de la dette fiscale nette qui n’est pas due à une modification des taux d’imposition fixés aux art. 25 et 55 LTVA.[^78-1]
+<sup>3</sup> Si aucune annonce n’est faite dans le délai prévu à l’al. 1, l’assujetti doit établir ses décomptes selon la méthode effective pendant au moins trois périodes fiscales complètes avant de pouvoir passer à la méthode des taux de la dette fiscale nette. Un changement anticipé de méthode est possible lors de chaque modification du taux correspondant de la dette fiscale nette qui n’est pas due à une modification des taux d’imposition fixés aux art. 25 et 55 LTVA.
 
-<sup>4</sup> Les al. 1 à 3 s’appliquent également en cas d’inscription rétroactive.
+<sup>4</sup> Les al. 1 à 3 s’appliquent par analogie en cas d’inscription rétroactive.
 
-<sup>5</sup> La taxe sur la valeur ajoutée grevant les stocks, les moyens d’exploitation et les biens d’investissement au moment de l’assujettissement est prise en compte dans le cadre de l’application de la méthode des taux de la dette fiscale nette. Il n’est pas possible de procéder à un dégrèvement ultérieur de l’impôt préalable.
+<sup>5</sup> L’impôt grevant, au moment de l’assujettissement, les biens et les prestations de services est pris en compte dans le cadre de l’application de la méthode des taux de la dette fiscale nette. Il n’est pas possible de procéder à un dégrèvement ultérieur de l’impôt préalable.
 
-[^78-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^78-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 79
 
-**Passage de la méthode effective à la méthode des taux de la dette fiscale nette**
+**Passage de la méthode effective à la méthode des taux de la dette fiscale nette**[^79-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-<sup>1</sup> Les assujettis qui veulent passer de la méthode effective à la méthode des taux de la dette fiscale nette doivent s’annoncer par écrit à l’AFC au plus tard 60 jours après le début de la période fiscale à partir de laquelle le passage doit avoir lieu. En cas d’annonce tardive, le passage a lieu au début de la période fiscale suivante.
+<sup>1</sup> Les assujettis qui souhaitent passer de la méthode effective à la méthode des taux de la dette fiscale nette doivent l’annoncer à l’AFC au plus tard 60 jours après le début de la période fiscale à partir de laquelle le changement doit avoir lieu.
 
-<sup>2</sup> L’AFC autorise l’application de la méthode des taux de la dette fiscale nette si aucune des limites fixées à l’art. 37, al. 1, LTVA n’a été dépassées pendant la période fiscale précédente.
+<sup>2</sup> L’AFC autorise l’application de la méthode des taux de la dette fiscale nette si aucune des limites fixées à l’art. 37, al. 1, LTVA n’a été dépassée pendant la période fiscale précédente.
 
-<sup>3</sup> En cas de passage de la méthode effective à celle des taux de la dette fiscale nette, il n’y a pas de correction sur les stocks, les moyens d’exploitation et les biens d’investissement. Demeure réservée une correction au sens de l’art. 93, lorsque des biens immobiliers sont utilisés, à compter du changement de méthode, dans une plus faible mesure pour une activité donnant droit à la déduction de l’impôt préalable.[^79-1]
+<sup>3</sup> L’impôt préalable déduit auparavant sur des biens et des prestations de services, y compris les parts de cet impôt corrigées à titre de dégrèvement ultérieur de l’impôt préalable, doit être remboursé à l’AFC à concurrence de leur valeur résiduelle au moment du changement. La déclaration correspondante doit être effectuée au cours de la période de décompte précédant le changement. Les art. 31, al. 3, LTVA et 69, al. 1 à 3, 70 et 71 de la présente ordonnance s’appliquent par analogie.
 
 <sup>4</sup>
 
-Si l’adhésion à la méthode des taux de la dette fiscale nette a lieu en même temps que le changement du mode de décompte prévu à l’art. 39 LTVA, les corrections suivantes doivent être effectuées:
+Si le passage à la méthode des taux de la dette fiscale nette a lieu en même temps que le changement de mode de décompte prévu à l’art. 39 LTVA, les corrections suivantes doivent en outre être effectuées jusqu’à la date du changement:
 
-- a. en cas de passage des contre-prestations convenues aux contre-prestations reçues, l’AFC crédite à l’assujetti, au taux légal, l’impôt sur les prestations imposables facturées à la date du passage, mais pas encore encaissées (postes débiteurs) et débite simultanément l’impôt préalable sur les prestations imposables facturées à l’assujetti, mais pas encore payées (postes créanciers);
-- b. en cas de passage des contre-prestations reçues aux contre-prestations convenues, l’AFC débite à l’assujetti, au taux légal, l’impôt sur les postes débiteurs existant à la date du passage et crédite l’impôt préalable sur les postes créanciers.
+- a.
 
-[^79-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+  en cas de passage des contre-prestations convenues aux contre-prestations reçues, l’assujetti doit annuler les opérations suivantes, dans la période de décompte précédant le changement:
+
+  - 1\. l’impôt déclaré sur les prestations imposables qu’il a facturées, mais qu’il n’a pas encore encaissées (postes débiteurs), et
+  - 2\. la déduction de l’impôt préalable opérée sur les prestations imposables qui lui ont été facturées, mais qu’il n’a pas encore payées (postes créanciers), dans la mesure où il ne s’agit pas d’impôts préalables qui doivent déjà être corrigés en vertu de l’al. 3;
+
+- b.
+
+  en cas de passage des contre-prestations reçues aux contre-prestations convenues, l’assujetti doit, dans la période de décompte précédant le changement:
+
+  - 1\. déclarer l’impôt, au taux légal, sur les postes débiteurs existant à la date du changement, et
+  - 2\. déduire à titre d’impôt préalable l’impôt grevant les postes créanciers.
+
+[^79-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 80
 
@@ -1361,28 +1500,26 @@ Si l’application de la méthode des taux de la dette fiscale nette a été acc
 
 #### Art. 81
 
-**Passage de la méthode des taux de la dette fiscale nette à la méthode effective**
+**Passage de la méthode des taux de la dette fiscale nette à la méthode effective**[^81-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-<sup>1</sup> Les assujettis qui veulent passer de la méthode des taux de la dette fiscale nette à la méthode effective doivent le communiquer par écrit à l’AFC au plus tard 60 jours après le début de la période fiscale à partir de laquelle le passage doit avoir lieu. En cas d’annonce tardive, le passage a lieu au début de la période fiscale suivante.
+<sup>1</sup> Les assujettis qui souhaitent passer de la méthode des taux de la dette fiscale nette à la méthode effective doivent l’annoncer à l’AFC au plus tard 60 jours après le début de la période fiscale à partir de laquelle le changement doit avoir lieu.
 
-<sup>2</sup> L’assujetti qui dépasse l’une ou les deux limites fixées à l’art. 37, al. 1, LTVA de 50 % au plus durant deux périodes fiscales consécutives doit passer à la méthode effective au début de la période fiscale suivante.
+<sup>2</sup> Un passage avant la fin d’une période fiscale est admis si au moins l’un des taux de la dette fiscale autorisés avec lesquels l’assujetti établit ses décomptes a été modifié par l’AFC, sans que cette modification ne soit due à une modification des taux d’imposition fixés aux art. 25 et 55 LTVA. Le changement a lieu au moment de la modification du taux de la dette fiscale nette.
 
-<sup>3</sup> L’assujetti qui dépasse l’une ou les deux limites fixées à l’art. 37, al. 1, LTVA de plus de 50 % doit passer à la méthode effective au début de la période fiscale suivante. Si les limites sont déjà dépassées durant les douze premiers mois de l’adhésion à la méthode des taux de la dette fiscale nette, l’autorisation est révoquée rétroactivement.
+<sup>3</sup> L’assujetti qui dépasse l’une des limites ou les deux limites fixées à l’art. 37, al. 1, LTVA durant trois périodes fiscales consécutives doit passer à la méthode effective au début de la période fiscale suivante.
 
-<sup>4</sup> Si le dépassement de plus de 50 % de l’une ou des deux limites est dû à la reprise de l’ensemble ou d’une partie d’un patrimoine dans le cadre d’une procédure de déclaration, l’assujetti peut décider s’il veut appliquer la méthode de décompte effective rétroactivement dès le début de la période fiscale durant laquelle le transfert a eu lieu ou dès le début de la période fiscale suivante.
+<sup>4</sup> L’impôt grevant des biens et des prestations de services peut être déduit à titre d’impôt préalable dans la période de décompte suivant le changement à concurrence de leur valeur résiduelle au moment du changement. Les art. 32, al. 2, LTVA et 72, al. 1 à 3, 73 et 74 de la présente ordonnance s’appliquent par analogie.
 
-<sup>5</sup> En cas de passage de la méthode des taux de la dette fiscale nette à la méthode effective, il n’y a pas de correction sur les stocks, les moyens d’exploitation et les biens d’investissement. Demeure réservé un dégrèvement ultérieur de l’impôt préalable au sens de l’art. 32 LTVA, lorsque des stocks, des moyens d’exploitation ou des biens d’investissement sont utilisés, à compter du changement de méthode, dans une plus large mesure pour une activité donnant droit à la déduction de l’impôt préalable.[^81-1]
+<sup>5</sup>
 
-<sup>6</sup>
+Si le passage à la méthode effective a lieu en même temps que le changement de mode de décompte prévu à l’art. 39 LTVA, les corrections suivantes doivent en outre être effectuées jusqu’à la date du changement:
 
-Si le passage à la méthode effective a lieu en même temps que le changement du mode de décompte prévu à l’art. 39 LTVA, les corrections suivantes doivent être effectuées:
+- a. en cas de passage des contre-prestations convenues aux contre-prestations reçues, l’assujetti doit déduire, au cours de la période de décompte précédant le changement, l’impôt déjà déclaré sur les postes débiteurs; il doit en outre procéder à une imputation de l’impôt sur les postes créanciers pouvant faire l’objet d’un dégrèvement ultérieur de l’impôt préalable en vertu de l’al. 4;
+- b. en cas de passage des contre-prestations reçues aux contre-prestations convenues, l’assujetti doit déclarer, au cours de la période de décompte précédant le changement, l’impôt aux taux de la dette fiscale nette autorisés sur les postes débiteurs; aucune correction ne doit être effectuée sur les postes créanciers.
 
-- a. en cas de passage des contre-prestations convenues aux contre-prestations reçues, l’AFC crédite à l’assujetti l’impôt sur les postes débiteurs existant à la date du passage aux taux de la dette fiscale nette autorisés; il n’y a pas de correction à faire sur les postes créanciers;
-- b. en cas de passage des contre-prestations reçues aux contre-prestations convenues, l’AFC débite l’impôt sur les postes débiteurs existant à la date du passage aux taux de la dette fiscale nette autorisés; il n’y a pas de correction à faire sur les postes créanciers.
-
-[^81-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^81-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 82
 
@@ -1392,34 +1529,21 @@ Si le passage à la méthode effective a lieu en même temps que le changement d
 
 <sup>1</sup> Si l’assujetti qui établit ses décomptes au moyen de la méthode des taux de la dette fiscale nette met fin à son activité commerciale ou s’il est libéré de l’assujettissement parce que son chiffre d’affaires est inférieur à la limite fixée à l’art. 10, al. 2, let. a, LTVA, le chiffre d’affaires réalisé, les travaux en cours et, en cas de décompte selon les contre-prestations reçues également les postes débiteurs, doivent être décomptés aux taux de la dette fiscale nette autorisés jusqu’à la radiation du registre des assujettis.
 
-<sup>2</sup>
+<sup>2 et <sup>3</sup></sup> …[^82-1]
 
-L’impôt sur la valeur résiduelle des biens immobiliers au moment de la radiation du registre des assujettis doit être décompté au taux normal en vigueur à ce moment-là, si:[^82-1]
-
-- a. le bien a été acquis, construit ou transformé par l’assujetti lorsqu’il établissait ses décomptes au moyen de la méthode effective et qu’il a procédé à la déduction de l’impôt préalable;
-- b.[^82-2] l’assujetti a acquis ce bien, dans le cadre de la procédure de déclaration, auprès d’un assujetti décomptant selon la méthode effective.
-
-<sup>3</sup> Pour déterminer la valeur résiduelle des biens immobiliers, il est tenu compte d’un amortissement linéaire d’un vingtième par année écoulée.
-
-[^82-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^82-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^82-1]: Abrogés par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 83
 
-**Reprise de patrimoines selon la procédure de déclaration**
+**Reprise de patrimoine selon la procédure de déclaration**[^83-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-<sup>1</sup>
+<sup>1</sup> Si un assujetti qui établit ses décomptes selon la méthode des taux de la dette fiscale nette reprend, dans le cadre de la procédure de déclaration visée à l’art. 38 LTVA, un patrimoine, une part de patrimoine ou d’autres valeurs patrimoniales d’un assujetti qui établit ses décomptes selon la méthode effective, il doit procéder à une correction au sens de l’art. 79, al. 3; l’al. 2 est réservé.
 
-L’assujetti qui établit ses décomptes selon la méthode des taux de la dette fiscale nette et qui, au moment de la reprise, n’affecte pas ou dans une moindre mesure par rapport à l’aliénateur l’ensemble ou une part de patrimoine repris dans le cadre de la procédure de déclaration selon l’art. 38 LTVA à une activité donnant droit à la déduction de l’impôt préalable doit procéder comme suit:[^83-1]
+<sup>2</sup> Aucune correction n’est requise si le patrimoine, la part de patrimoine ou les autres valeurs patrimoniales repris étaient utilisés par l’aliénateur pour une activité ne donnant pas droit à la déduction de l’impôt préalable.
 
-- a. si l’aliénateur établit ses décomptes selon la méthode des taux de la dette fiscale nette, il n’a pas de correction à effectuer;
-- b. si l’aliénateur établit ses décomptes selon la méthode effective, la prestation à soi-même au sens de l’art. 31 LTVA compte tenu de l’art. 38, al. 4, LTVA doit être décomptée sur la part du patrimoine repris qui est désormais affectée à une activité ne donnant pas droit à la déduction de l’impôt préalable.
-
-<sup>2</sup> Si un assujetti qui établit ses décomptes selon la méthode des taux de la dette fiscale nette affecte l’ensemble ou une part d’un patrimoine repris selon la procédure de déclaration selon l’art. 38 LTVA dans une plus grande mesure que l’aliénateur à une activité donnant droit à la déduction de l’impôt préalable, il ne peut pas effectuer de correction.
-
-[^83-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^83-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 84
 
@@ -1431,208 +1555,131 @@ L’assujetti qui établit ses décomptes selon la méthode des taux de la dette
 
 <sup>2</sup> L’assujetti doit prendre contact avec l’AFC s’il cesse d’exercer une activité, s’il commence une nouvelle activité ou si les parts des différentes activités par rapport au chiffre d’affaires total se modifient à tel point qu’une nouvelle attribution des taux de la dette fiscale nette est nécessaire.
 
-<sup>3</sup> Les assujettis auxquels deux taux de la dette fiscale nette ont été attribués doivent comptabiliser séparément les produits affectés à chacun de ces taux.
+<sup>3</sup> Les assujettis auxquels plusieurs taux de la dette fiscale nette ont été attribués doivent comptabiliser séparément les produits affectés à chacun de ces taux.[^84-1]
+
+[^84-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 85
 
-**Autorisation d’appliquer un seul taux de la dette fiscale nette**
+[^85-1]
 
-### (art. 37, al. 1 à 4, LTVA)
-
-L’assujetti est autorisé à appliquer un seul taux de la dette fiscale nette, excepté si l’un des cas décrits aux art. 86, al. 1, ou 89, al. 3 ou 5, se présente.
+[^85-1]: Abrogé par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 86
 
-**Autorisation d’appliquer deux taux de la dette fiscale nette**
+**Autorisation d’appliquer les taux de la dette fiscale nette**[^86-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-<sup>1</sup>
-
-L’assujetti a le droit d’appliquer deux taux de la dette fiscale nette, si:
-
-- a. il exerce deux activités ou plus, pour lesquelles l’AFC prévoit des taux de la dette fiscale nette différents, et
-- b.[^86-1] au moins deux de ces activités représentent chacune une part de plus de 10 % du chiffre d’affaires global réalisé provenant de prestations imposables.
+<sup>1</sup> L’application du taux de la dette fiscale nette correspondant sera autorisée pour chaque activité dont la part au chiffre d’affaires total provenant de prestations imposables est supérieure à 10 %.
 
 <sup>2</sup>
 
-La limite de 10 % se calcule:
+Sont déterminants pour évaluer si la limite de 10 % est dépassée:
 
-- a. pour les nouveaux assujettis et pour les assujettis qui débutent une nouvelle activité: sur les chiffres d’affaires escomptés;
-- b. pour les autres assujettis: sur les chiffres d’affaires des deux périodes fiscales précédentes.
+- a. pour les nouveaux assujettis et les assujettis qui débutent une nouvelle activité: les chiffres d’affaires escomptés au cours des douze premiers mois;
+- b. pour les autres assujettis: les chiffres d’affaires réalisés au cours des trois périodes fiscales précédentes; la limite est considérée comme dépassée si la part de l’activité concernée par rapport au chiffre d’affaires total provenant des prestations imposables est supérieure à 10 % au cours de chacune de ces périodes fiscales.
 
 <sup>3</sup> Il faut additionner les chiffres d’affaires des activités soumises au même taux de la dette fiscale nette pour déterminer si la limite de 10 % est dépassée.
 
-<sup>4</sup> Si pour un assujetti auquel l’autorisation d’appliquer deux taux de la dette fiscale nette avait été accordée, la limite de 10 % est dépassée uniquement par une activité, ou par plusieurs activités soumises au même taux de la dette fiscale nette, pendant deux périodes fiscales consécutives, l’autorisation d’appliquer le deuxième taux de la dette fiscale nette est supprimée pour le début de la troisième période fiscale.
+<sup>4</sup> Si le chiffre d’affaires provenant d’une activité, ou provenant de plusieurs activités soumises au même taux de la dette fiscale nette, ne dépasse plus la limite de 10 % pendant trois périodes fiscales consécutives, l’autorisation d’appliquer le taux correspondant de la dette fiscale nette devient caduque au début de la quatrième période fiscale.
 
-[^86-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^86-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 87
 
-**Valeur des taux de la dette fiscale nette accordés**
+[^87-1]
 
-### (art. 37, al. 1 à 4, LTVA)
-
-<sup>1</sup> Si seules deux activités de l’assujetti dépassent la limite de 10 %, l’application des deux taux de la dette fiscale prévus pour ces activités est accordée.
-
-<sup>2</sup>
-
-Si plus de deux activités dépassent la limite de 10 %, l’application des taux de la dette fiscale nette suivants est accordée:
-
-- a. le plus élevé des taux de la dette fiscale nette prévus pour les activités en question dont la part de chiffre d’affaires se monte à plus de 10 % du chiffre d’affaires global;
-- b. un deuxième taux de la dette fiscale nette choisi par l’assujetti parmi les taux prévus pour les autres activités dont la part de chiffre d’affaires se monte à plus de 10 % du chiffre d’affaires global.
+[^87-1]: Abrogé par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 88
 
-**Imposition des différentes activités**
+**Imposition des différentes activités**[^88-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-<sup>1</sup>
+<sup>1</sup> Les chiffres d’affaires provenant d’activités de l’assujetti ayant reçu l’autorisation d’appliquer plusieurs taux de la dette fiscale nette doivent être imposés au taux de la dette fiscale nette autorisé correspondant à l’activité concernée.
 
-Les chiffres d’affaires provenant d’activités de l’assujetti ayant reçu l’autorisation d’appliquer deux taux de la dette fiscale nette doivent être imposés:
+<sup>2</sup>
 
-- a. au taux de la dette fiscale nette supérieur ayant été accordé si le taux de la dette fiscale nette prévu pour cette activité est supérieur au taux de la dette fiscale nette inférieur ayant été accordé;
-- b. au taux de la dette fiscale nette inférieur ayant été accordé, dans les autres cas.
+Si le taux de la dette fiscale nette fixé pour une activité n’a pas été autorisé, les chiffres d’affaires réalisés avec cette activité doivent être imposés de la manière suivante:
 
-<sup>2</sup> Dans les cas régis par l’art. 19, al. 2, LTVA, la contre-prestation globale peut être décomptée au taux de la dette fiscale nette autorisé qui s’applique à la prestation principale. Si toutes les prestations sont soumises au même taux d’imposition en vertu de l’art. 25 LTVA, la contre-prestation globale doit être décomptée au taux de la dette fiscale nette supérieur autorisé, sauf si l’assujetti peut apporter la preuve de la part de chaque prestation par rapport à la prestation globale.[^88-1]
+- a. au taux de la dette fiscale nette autorisé immédiatement inférieur, si aucun taux supérieur n’a été autorisé;
+- b. au taux de la dette fiscale nette autorisé immédiatement supérieur, dans les autres cas.
 
-[^88-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+<sup>3</sup> Dans les cas régis par l’art. 19, al. 2, LTVA, la contre-prestation globale peut être décomptée au taux de la dette fiscale nette autorisé déterminant pour la prestation principale en vertu des art. 84 et 86 et des al. 1 et 2.
+
+<sup>4</sup> Si toutes les prestations sont soumises au même taux d’imposition en vertu de l’art. 25 LTVA, chaque prestation doit être décomptée au taux de la dette fiscale nette autorisé correspondant.
+
+<sup>5</sup> Si l’assujetti ne peut pas justifier la part de chaque prestation dans la prestation globale, la contre-prestation globale doit être décomptée au taux de la dette fiscale nette le plus élevé autorisé pour ces prestations.
+
+<sup>6</sup> L’assujetti peut décompter volontairement la totalité de son chiffre d’affaires provenant de prestations imposables au taux de la dette fiscale nette autorisé le plus élevé.
+
+[^88-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 89
 
-**Réglementation spéciale pour les branches mixtes**
+[^89-1]
 
-### (art. 37, al. 1 à 4, LTVA)
-
-<sup>1</sup> Les branches mixtes sont des branches dans lesquelles sont exercées usuellement plusieurs activités qui devraient être décomptées à des taux de la dette fiscale nette différents.
-
-<sup>2</sup>
-
-Dans une ordonnance, l’AFC détermine:
-
-- a. le taux de la dette fiscale nette applicable pour chaque branche mixte;
-- b. les activités principales et accessoires usuelles dans chaque branche mixte.
-
-<sup>3</sup> Si la part du chiffre d’affaires réalisé avec une activité accessoire usuelle dans cette branche, ou avec plusieurs activités accessoires usuelles dans cette branche pour lesquelles le même taux de la dette fiscale nette serait applicable en vertu de l’ordonnance de l’AFC, dépasse 50 % du chiffre d’affaires provenant de l’activité principale imposable et des activités accessoires imposables usuelles, les art. 86 à 88 s’appliquent au décompte au moyen des taux de la dette fiscale nette.[^89-1]
-
-<sup>4</sup>
-
-La limite des 50 % se calcule:
-
-- a. pour les nouveaux assujettis et pour les assujettis qui débutent une nouvelle activité: sur les chiffres d’affaires escomptés;
-- b. pour les autres assujettis: sur les chiffres d’affaires réalisés durant les deux périodes fiscales précédentes.
-
-<sup>5</sup> Si un assujetti actif au sein d’une branche mixte exerce encore d’autres activités étrangères à la branche, le décompte au moyen des taux de la dette fiscale nette pour ces activités est régi par les art. 86 à 88.
-
-[^89-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^89-1]: Abrogé par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 90
 
-**Procédures particulières**
+**Procédures particulières**[^90-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-<sup>1</sup>
+L’AFC met à la disposition des établissements et des manifestations visés à l’art. 55, al. 3, une réglementation forfaitaire pour la répartition des chiffres d’affaires entre les prestations de la restauration et les ventes de denrées alimentaires destinées à être emportées visées à l’art. 55, al. 2.
 
-L’AFC met à la disposition des assujettis qui établissent leurs décomptes selon la méthode des taux de la dette fiscale nette une procédure pour la mise en compte par approximation de l’impôt préalable pour:
-
-- a. les livraisons de biens à l’étranger, si le bien a été fabriqué par l’assujetti ou acquis grevé de l’impôt;
-- b. les prestations fournies aux bénéficiaires au sens de l’art. 2 de la loi du 22 juin 2007 sur l’État hôte (LEH)[^90-1], si le lieu de la prestation se situe sur le territoire suisse et, en cas de livraison, si le bien a été fabriqué par l’assujetti lui-même ou acquis grevé de l’impôt.
-
-<sup>2</sup>
-
-Les assujettis qui établissent leurs décomptes selon la méthode des taux de la dette fiscale nette et qui acquièrent des biens mobiliers identifiables sur lesquels l’impôt n’a pas été répercuté ouvertement, peuvent appliquer, lors de la vente de ces biens, la procédure de mise en compte de l’impôt préalable fictif proposée par l’AFC. Cette procédure ne s’applique pas aux véhicules d’occasion dont le poids ne dépasse pas 3500 kg, ni aux biens:
-
-- a. acquis par l’assujetti dans le cadre de la procédure de déclaration auprès d’un assujetti qui établit ses décomptes selon la méthode effective;
-- b. à propos desquels l’assujetti sait ou devrait savoir qu’ils ont été importés en franchise d’impôt;
-- c. acquis par l’assujetti sur le territoire suisse en franchise d’impôt;
-- d. acquis par l’assujetti dans le cadre d’une gestion du sinistre, lorsque le montant des paiements effectués dépasse la valeur effective des biens au moment de la reprise.[^90-2]
-
-<sup>2bis</sup> La procédure définie à l’al. 2 s’applique par analogie lorsque des pièces de collection (art. 48*a*) sont vendues.[^90-3]
-
-<sup>3</sup> Pour les établissements et les manifestations visés à l’art. 55, al. 3, l’AFC prévoit une réglementation forfaitaire pour une répartition par approximation des chiffres d’affaires entre les deux taux de la dette fiscale nette.
-
-[^90-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^90-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^90-3]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^90-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 91
 
-**Décompte de l’impôt sur les acquisitions**
+**Décompte de l’impôt sur les acquisitions**[^91-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-Les assujettis établissant leurs décomptes au moyen des taux de la dette fiscale nette qui acquièrent des prestations au sens des art. 45 à 49 LTVA d’entreprises qui ont leur siège à l’étranger, doivent acquitter semestriellement l’impôt sur les acquisitions au taux d’impôt légal correspondant.
+Les assujettis établissant leurs décomptes selon la méthode des taux de la dette fiscale nette qui acquièrent des prestations au sens de l’art. 45, al. 1, LTVA doivent, au cours de la période de décompte correspondante, acquitter l’impôt sur les acquisitions au taux d’impôt légal applicable aux prestations concernées.
+
+[^91-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 92
 
-**Prestation à soi-même**
+**Prestation à soi-même**[^92-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-À l’exception de l’art. 83, al. 1, let. b, la prestation à soi-même est prise en compte dans l’application de la méthode des taux de la dette fiscale nette.
+La prestation à soi-même est prise en compte dans l’application de la méthode des taux de la dette fiscale nette.
+
+[^92-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 93
 
-**Corrections pour les biens immobiliers**
+[^93-1]
 
-### (art. 37, al. 1 à 4, LTVA)
-
-<sup>1</sup>
-
-Si un bien immobilier n’est plus affecté à une activité entrepreneuriale de l’assujetti ou est désormais affecté à une activité exclue du champ de l’impôt selon l’art. 21, al. 2, LTVA, l’impôt doit être décompté sur la valeur résiduelle au taux normal en vigueur à ce moment, si:[^93-1]
-
-- a. l’assujetti a acquis, construit ou transformé ce bien alors qu’il établissait ses décomptes selon la méthode effective et a opéré la déduction de l’impôt préalable;
-- b.[^93-2] l’assujetti a acquis le bien auprès d’un assujetti décomptant selon la méthode effective, dans le cadre de la procédure de déclaration.
-
-<sup>2</sup> Pour déterminer la valeur résiduelle des biens immobiliers, il est tenu compte d’un amortissement linéaire d’un vingtième par année écoulée.
-
-[^93-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^93-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^93-1]: Abrogé par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 94
 
-**Prestations fournies à des personnes étroitement liées et au personnel**
+**Prestations fournies à des personnes étroitement liées et au personnel**[^94-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-[^94-1]
+<sup>1</sup> Les prestations fournies à des personnes étroitement liées ou au personnel doivent être décomptées au taux de la dette fiscale nette autorisé applicable en vertu des art. 84, 86 et 88 à la prestation concernée.
 
-<sup>1</sup>
+<sup>2</sup> Les prestations qui doivent être déclarées dans le certificat de salaire pour les impôts directs sont toujours considérées comme fournies à titre onéreux. L’impôt doit être calculé sur la base du montant déterminant pour les impôts directs.
 
-Sous réserve de l’art. 93, les prestations fournies à des personnes proches doivent être traitées de la manière suivante en cas de décompte au moyen des taux de la dette fiscale nette:
-
-- a. et b.[^94-2] …
-- c.[^94-3] les biens et les prestations de services doivent être décomptés au taux de la dette fiscale nette autorisé sur la contre-prestation payée, mais au moins sur la valeur qui aurait été convenue entre des tiers indépendants;
-- d. le taux le plus élevé est applicable si le décompte est établi avec deux taux de la dette fiscale nette et si la prestation ne peut pas être imputée à une activité.
-
-<sup>2</sup>
-
-En cas de décompte au moyen des taux de la dette fiscale nette, les prestations fournies au personnel doivent être traitées comme suit:
-
-- a. les biens remis à titre onéreux ou les prestations de services fournies au personnel à titre onéreux doivent être imposés au taux de la dette fiscale nette autorisé;
-- b. le taux le plus élevé est applicable si le décompte est établi avec deux taux de la dette fiscale nette et si la prestation ne peut pas être imputée à une activité.
-
-<sup>3</sup> L’al. 2 s’applique aux personnes étroitement liées qui sont des membres du personnel.[^94-4]
-
-<sup>4</sup> Les prestations qui doivent être déclarées dans le certificat de salaire pour les impôts directs sont toujours considérées comme fournies à titre onéreux. L’impôt doit être calculé sur le montant déterminant pour les impôts directs.[^94-5]
-
-[^94-1]: Erratum du 12 déc. 2017 ([RO 2017 7263](https://fedlex.data.admin.ch/eli/oc/2017/789)).
-[^94-2]: Abrogées par le ch. I de l’O du 18 oct. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-4]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-5]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^94-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 95
 
-**Ventes de moyens d*’*exploitation et de biens d*’*investissement**[^95-1]
+**Ventes de moyens d’exploitation, de biens d’investissement et de prestations de services pouvant être inscrites à l’actif**[^95-1]
 
 ### (art. 37, al. 1 à 4, LTVA)
 
-Les ventes de moyens d’exploitation et de biens d’investissement qui n’ont pas été utilisés exclusivement pour fournir des prestations exclues du champ de l’impôt doivent être imposées au taux de la dette fiscale nette autorisé. Si le décompte est établi avec deux taux de la dette fiscale nette et si les moyens d’exploitation ou les biens d’investissement ont été utilisés pour les deux activités, les contre-prestations doivent être décomptées au taux de la dette fiscale nette le plus élevé.
+Les ventes de moyens d’exploitation, de biens d’investissement et de prestations de services pouvant être inscrites à l’actif qui n’ont pas été utilisés exclusivement pour fournir des prestations exclues du champ de l’impôt doivent être imposées au taux de la dette fiscale nette autorisé applicable en vertu des art. 84, 86 et 88 à la prestation concernée.
 
-[^95-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^95-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 96
 
@@ -1650,32 +1697,53 @@ L’assujetti établissant ses décomptes au moyen des taux de la dette fiscale 
 
 ### (art. 37, al. 5, LTVA)
 
-<sup>1</sup> Les institutions analogues au sens de l’art. 37, al. 5, LTVA sont notamment les syndicats intercommunaux et autres regroupements de collectivités publiques, les paroisses, les écoles et les internats privés, les cliniques privées, les centres de soins médicaux, les centres de réadaptation, les maisons de cure, les organisations Spitex privées, les homes pour personnes âgées, les établissements médico-sociaux, les résidences pour les aînés, les entreprises actives dans le domaine social comme les ateliers pour personnes handicapées, les foyers et les écoles spéciales, les exploitants d’installations sportives ou de centres culturels subventionnés par des collectivités publiques, les assurances immobilières cantonales, les coopératives de fourniture d’eau, les entreprises de transports publics, les corporations forestières de droit privé subventionnées par des collectivités publiques, les organisateurs de manifestations culturelles ou sportives occasionnelles, les associations selon les art. 60 à 79 du code civil (CC)[^97-1] et les fondations au sens des art. 80 à 89<sup>bis</sup> CC.[^97-2]
+<sup>1</sup>
+
+Les institutions analogues au sens de l’art. 37, al. 5, LTVA sont notamment:
+
+- a. les syndicats intercommunaux et autres regroupements de collectivités publiques;
+- b. les paroisses;
+- c. les écoles et internats privés;
+- d. les cliniques privées et les centres de soins médicaux;
+- e. les centres de réadaptation et les maisons de cure;
+- f. les organisations Spitex privées;
+- g. les homes pour personnes âgées, les établissements médico-sociaux et les résidences pour les aînés;
+- h. les entreprises actives dans le domaine social comme les ateliers pour personnes handicapées, les foyers et les écoles spéciales;
+- i. les exploitants d’installations sportives ou de centres culturels subventionnés par des collectivités publiques;
+- j. les assurances immobilières cantonales;
+- k. les coopératives de fourniture d’eau;
+- l. les entreprises de transports publics;
+- m. les corporations de droit privé subventionnées par des collectivités publiques;
+- n. les organisateurs de manifestations culturelles ou sportives occasionnelles;
+- o. les associations selon les art. 60 à 79 du code civil (CC)[^97-1], et
+- p. les fondations au sens des art. 80 à 89<sup>bis</sup> CC.[^97-2]
 
 <sup>2</sup> Il n’y a pas de montants limitant l’application de la méthode des taux forfaitaires.
 
-<sup>3</sup> Les assujettis qui établissent leurs décomptes au moyen des taux forfaitaires ne peuvent pas opter pour l’imposition des prestations visées à l’art. 21, al. 2, ch. 1 à 24, 27, 29 et 30, LTVA. Si l’impôt est néanmoins facturé, le montant indiqué doit être versé à l’AFC, sous réserve de l’art. 27, al. 2, LTVA.[^97-3]
+<sup>3</sup> Les assujettis qui établissent leurs décomptes au moyen de la méthode des taux forfaitaires ne peuvent pas opter pour l’imposition des prestations visées à l’art. 21, al. 2, ch. 1 à 24, 27 et 29 à 31, LTVA. Si l’impôt est néanmoins facturé, le montant indiqué doit être versé à l’AFC, sous réserve de l’art. 27, al. 2, LTVA.[^97-3]
 
 <sup>4</sup> Les services autonomes au sens de l’art. 12, al. 1, LTVA qui se regroupent pour former un seul sujet fiscal (art. 12, al. 2, LTVA), peuvent établir leurs décomptes selon la méthode des taux forfaitaires.[^97-4]
 
-[^97-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^97-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^97-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^97-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^97-2]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^97-3]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 [^97-4]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 98
 
-**Adhésion à la méthode des taux forfaitaires et changement de méthode de décompte**
+**Adhésion à la méthode des taux forfaitaires et changement de méthode de décompte**[^98-1]
 
 ### (art. 37, al. 5, LTVA)
 
-<sup>1</sup> Les collectivités publiques et les institutions analogues au sens de l’art. 97, al. 1, qui veulent établir leurs décomptes selon la méthode des taux forfaitaires doivent l’annoncer par écrit à l’AFC.
+<sup>1</sup> Les collectivités publiques et les institutions analogues au sens de l’art. 97, al. 1, qui veulent établir leurs décomptes selon la méthode des taux forfaitaires doivent l’annoncer à l’AFC.
 
-<sup>2</sup> La méthode des taux forfaitaires doit être conservée pendant trois périodes fiscales au moins. L’assujetti qui choisit la méthode effective ne peut passer à la méthode des taux forfaitaires qu’après dix ans au plus tôt. Un changement de méthode anticipé est possible lors de chaque modification du taux forfaitaire correspondant qui n’est pas due à une modification des taux d’imposition fixés aux art. 25 et 55 LTVA.[^98-1]
+<sup>2</sup> La méthode des taux forfaitaires doit être conservée pendant au moins une période fiscale complète. L’assujetti qui choisit la méthode effective ne peut passer à la méthode des taux forfaitaires qu’après une période fiscale complète au plus tôt.
 
-<sup>3</sup> Les changements de méthode de décompte sont possibles pour le début d’une période fiscale. Ils doivent être annoncés par écrit à l’AFC au plus tard 60 jours après le début de la période fiscale à partir de laquelle le changement doit avoir lieu. En cas d’annonce tardive, le passage a lieu au début de la période fiscale suivante.
+<sup>3</sup> Un passage anticipé à la méthode effective ou à la méthode des taux forfaitaires est admis lors de chaque modification du taux forfaitaire correspondant qui n’est pas due à une modification des taux d’imposition fixés aux art. 25 et 55 LTVA.
 
-[^98-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+<sup>4</sup> Les changements de méthode de décompte sont possibles pour le début d’une période fiscale. Ils doivent être annoncés à l’AFC au plus tard 60 jours après le début de la période fiscale à partir de laquelle le changement doit avoir lieu.
+
+[^98-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 99
 
@@ -1687,17 +1755,15 @@ L’assujetti établissant ses décomptes au moyen des taux de la dette fiscale 
 
 <sup>2</sup> L’AFC fixe les taux forfaitaires en tenant compte des coefficients d’impôt préalable usuels dans la branche. Une activité pour laquelle aucun taux forfaitaire n’a été fixé doit être décomptée au taux applicable selon la méthode des taux de la dette fiscale nette.
 
-<sup>3</sup> L’assujetti doit décompter chacune de ses activités au taux forfaitaire déterminant. Le nombre des taux forfaitaires applicables n’est pas limité.
+<sup>3</sup> L’assujetti doit décompter chacune de ses activités au taux forfaitaire déterminant quel que soit le montant du chiffre d’affaires réalisé avec ces activités. Il peut aussi décompter volontairement la totalité de son chiffre d’affaires provenant de prestations imposables au taux forfaitaire autorisé le plus élevé.[^99-1]
+
+[^99-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 99a
 
-**Déclaration de l*’*impôt sur les acquisitions**[^99a-1]
+[^99a-1]
 
-### (art. 37, al. 5, LTVA)
-
-Les assujettis établissant leurs décomptes selon la méthode des taux forfaitaires qui acquièrent des prestations au sens des art. 45 à 49 LTVA d’entreprises qui ont leur siège à l’étranger, doivent acquitter trimestriellement l’impôt sur les acquisitions calculé au taux d’impôt légal correspondant.
-
-[^99a-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^99a-1]: Introduit par le ch. I de l’O du 18 oct. 2017 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Abrogé par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 100
 
@@ -1774,7 +1840,9 @@ En cas de passage du décompte selon les contre-prestations convenues au décomp
 - a. déduire les postes débiteurs existant au moment de ce passage des contre-prestations reçues durant cette période de décompte, et
 - b. déduire l’impôt préalable sur les postes créanciers existant au moment de ce passage de l’impôt préalable payé durant cette période de décompte.
 
-<sup>3</sup> Si la méthode de décompte selon les art. 36 et 37 LTVA est changée en même temps que le mode de décompte, les dispositions de l’art. 79, al. 4, ou de l’art. 81, al. 6, de la présente ordonnance s’appliquent.
+<sup>3</sup> Si la méthode de décompte selon les art. 36 et 37 LTVA est changée en même temps que le mode de décompte, les dispositions de l’art. 79, al. 4, ou de l’art. 81, al. 5[^106-1], de la présente ordonnance s’appliquent.
+
+[^106-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2025 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 107
 
@@ -1784,14 +1852,16 @@ En cas de passage du décompte selon les contre-prestations convenues au décomp
 
 [^107-1]
 
-<sup>1</sup> En cas de passage du décompte selon les contre-prestations reçues au décompte selon les contre-prestations convenues, l’assujetti doit, dans la période de décompte suivant ce passage, décompter les créances existantes au moment du passage au moyen des taux de la dette fiscale nette ou des taux forfaitaires autorisés.[^107-2]
+<sup>1</sup> Si un assujetti passe du décompte selon les contre-prestations reçues au décompte selon les contre-prestations convenues, il doit, au cours de la période de décompte suivante, décompter les postes débiteurs existant au moment du passage au moyen des taux de la dette fiscale nette ou des taux forfaitaires autorisés déterminants en vertu des art. 84, 86 et 88 pour les activités desquelles résultent ces postes débiteurs.[^107-2]
 
-<sup>2</sup> En cas de passage du décompte selon les contre-prestations convenues au décompte selon les contre-prestations reçues, l’assujetti doit déduire, au cours de la période de décompte suivant le passage, les postes débiteurs existant au moment du passage des contre-prestations reçues durant cette période de décompte.
+<sup>2</sup> Si un assujetti passe du décompte selon les contre-prestations convenues au décompte selon les contre-prestations reçues, il doit, au cours de la période de décompte suivante, déduire les postes débiteurs existant au moment de ce passage des contre-prestations qui ont été reçues durant cette période de décompte et qui proviennent des activités correspondantes.[^107-3]
 
-<sup>3</sup> Si la méthode de décompte est changée en même temps que le mode de décompte, les dispositions de l’art. 79, al. 4, ou de l’art. 81, al. 6, s’appliquent.
+<sup>3</sup> Si la méthode de décompte est changée en même temps que le mode de décompte, les dispositions de l’art. 79, al. 4, ou de l’art. 81, al. 5[^107-4], s’appliquent.
 
 [^107-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^107-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^107-2]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^107-3]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^107-4]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2025 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 108
 
@@ -1834,9 +1904,37 @@ Les biens suivants sont notamment assimilés aux supports de données sans valeu
 - b. les actes de procédure des avocats, les rapports d’experts, les traductions, les résultats de recherches et d’expériences, les résultats d’analyses, les évaluations et les documents analogues;
 - c. les droits représentés par des titres et les valeurs immatérielles.
 
+#### Art. 111a
+
+**Transfert de droits d’émission et de droits similaires**[^111a-1]
+
+### (art. 45, al. 1, let. e, LTVA)
+
+<sup>1</sup> Le transfert de droits d’émission et d’autres droits visé à l’art. 45, al. 1, let. e, LTVA n’est pas soumis à l’impôt grevant les opérations réalisées sur le territoire suisse.
+
+<sup>2</sup> Si l’impôt grevant les opérations réalisées sur le territoire suisse a été facturé lors du transfert, il ne peut pas être déduit à titre d’impôt préalable, à moins qu’il ait été décompté et payé.
+
+[^111a-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 ## Titre 4 Impôt sur les importations
 
-### Chapitre 1 Pluralité de prestations et exonération de l’impôt sur les importations
+### Chapitre 1 Entreprises de vente par correspondance réputées personnes assujetties à l’impôt sur les importations à la place des plateformes
+
+[^tit4-chap1-1]
+
+[^tit4-chap1-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+### (art. 51 LTVA)
+
+#### Art. 111b
+
+Lors de l’importation de biens, l’entreprise de vente par correspondance peut, dans la mesure où elle remplit au moins une des deux conditions énoncées à l’art. 7, al. 3, LTVA, convenir avec le fournisseur de la prestation au sens de l’art. 20*a* LTVA qu’elle effectue l’importation en son propre nom.
+
+### Chapitre 1*a* Pluralité de prestations et exonération de l’impôt sur les importations
+
+[^tit4-chap1a-1]
+
+[^tit4-chap1a-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 112
 
@@ -1857,25 +1955,29 @@ Doivent ressortir du calcul des coûts:
 
 <sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^112-1] peut demander des documents supplémentaires pour vérifier le calcul des coûts.
 
-[^112-1]: La dénomination de l’unité administrative a été adaptée au 1<sup>er</sup> janvier 2022 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
+[^112-1]: La dénomination de l’unité administrative a été adaptée au 1<sup>er</sup> janvier 2022 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 113
 
 **Exonération de l’impôt sur les importations**
 
-### (art. 53, al. 2 et 107, al. 2, LTVA)
+### (art. 53, al. 2 LTVA)
+
+[^113-1]
 
 Sont franches d’impôt les importations de:
 
-- a. biens destinés aux chefs d’État ainsi qu’à des services diplomatiques, consulaires ou internationaux et à leurs membres, qui sont admis en franchise de droits de douane en vertu de l’art. 6 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)[^113-1];
+- a. biens destinés aux chefs d’État ainsi qu’à des services diplomatiques, consulaires ou internationaux et à leurs membres, qui sont admis en franchise de droits de douane en vertu de l’art. 6 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)[^113-2];
 - b. cercueils, urnes et ornements funéraires admis en franchise de droits de douane en vertu de l’art. 7 OD;
 - c. prix d’honneur, insignes commémoratifs et dons d’honneur admis en franchise de droits de douane en vertu de l’art. 8 OD;
 - d. réserves à bord de wagons-restaurants admises en franchise de droits de douane en vertu de l’art. 10 OD;
 - e. réserves, pièces de rechange et objets d’équipement à bord de bateaux admis en franchise de droits de douane en vertu de l’art. 11 OD;
 - f. réserves, pièces de rechange et objets d’équipement à bord d’aéronefs admis en franchise de droits de douane en vertu de l’art. 12 OD;
-- g. monnaies d’or et or fin au sens de l’art. 44.
+- g.[^113-3] …
 
-[^113-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^113-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^113-2]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^113-3]: Abrogée par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Chapitre 2 Détermination et sûreté de la créance d’impôt sur les importations
 
@@ -1906,7 +2008,7 @@ En cas de créance fiscale conditionnelle ou d’octroi de facilités de paiemen
 
 <sup>2</sup> En cas de transit international, le montant de la sûreté est régi par les traités internationaux.
 
-[^115-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^115-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^115-2]: Introduite par l’annexe ch. 2 de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 116
@@ -1960,9 +2062,12 @@ L’autorisation est délivrée si l’assujetti:
 - d.[^118-1] présente régulièrement, dans les décomptes d’impôt périodiques remis à l’AFC, des excédents d’impôt préalable dépassant 10 000 francs par an provenant d’importations et d’exportations de biens au sens de la let. b et qui résultent du paiement de l’impôt sur les importations à l’OFDF, et
 - e. offre toutes les garanties quant au bon déroulement de la procédure.
 
+<sup>1bis</sup> L’autorisation pour l’application de la procédure de report du paiement de l’impôt peut, sur demande, être accordée aux fournisseurs de la prestation au sens de l’art. 20*a* LTVA à l’encontre desquels une mesure administrative prévue à l’art. 79*a* LTVA a été ordonnée à partir du jour suivant la levée de cette mesure.[^118-2]
+
 <sup>2</sup> L’octroi ou le maintien de l’autorisation peut être subordonné à la fourniture de sûretés à concurrence des prétentions présumées.
 
 [^118-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^118-2]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 119
 
@@ -1974,11 +2079,15 @@ L’assujetti avise immédiatement l’AFC par écrit si l’une des conditions 
 
 #### Art. 120
 
-**Retrait de l’autorisation**
+**Retrait de l’autorisation**[^120-1]
 
 ### (art. 63 LTVA)
 
-L’autorisation est retirée si l’assujetti n’offre plus toutes les garanties d’un bon déroulement de la procédure.
+<sup>1</sup> L’autorisation est retirée si l’assujetti n’offre plus toutes les garanties d’un bon déroulement de la procédure.
+
+<sup>2</sup> L’autorisation accordée aux fournisseurs de la prestation au sens de l’art. 20*a* LTVA à l’encontre desquels des mesures administratives prévues à l’art. 79*a* LTVA ont été ordonnées est retirée avec effet au lendemain du jour où la décision a été rendue.
+
+[^120-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 121
 
@@ -1992,17 +2101,13 @@ Les art. 118 à 120 sont applicables par analogie à l’autorisation prévue à
 
 ### Chapitre 1 Droits et obligations de l’assujetti
 
-### Section 1 Renonciation à l’inscription au registre des assujettis
-
-[^tit5-chap1-sec1-1]
-
-[^tit5-chap1-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-
-### (art. 66, al. 1, LTVA)
+### Section 1 …
 
 #### Art. 121a
 
-Les entreprises qui fournissent exclusivement des prestations exclues du champ de l’impôt sur le territoire suisse peuvent renoncer à s’inscrire au registre des assujettis de l’AFC. Pour les entreprises qui n’ont ni siège, ni domicile, ni établissement stable sur le territoire suisse, cela s’applique également si elles fournissent en outre des prestations visées à l’art. 10, al. 2, let. b, LTVA, pour lesquelles elles sont libérées de l’assujettissement.
+[^121a-1]
+
+[^121a-1]: Introduit par le ch. I de l’O du 18 oct. 2017 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Abrogé par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Section 1*a* Pièces justificatives électroniques, procédures électroniques
 
@@ -2022,8 +2127,8 @@ Les art. 957 à 958*f* du code des obligations[^122-3] et l’ordonnance du 24 a
 
 [^122-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^122-2]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
-[^122-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^122-4]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^122-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^122-4]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 123
 
@@ -2031,9 +2136,22 @@ Les art. 957 à 958*f* du code des obligations[^122-3] et l’ordonnance du 24 a
 
 ### (art. 65*a* LTVA)
 
-L’annonce en tant qu’assujetti (art. 66, al. 1, LTVA), la remise du décompte (art. 71 LTVA) et la correction ultérieure d’erreurs dans le décompte (art. 72 LTVA) doivent être effectuées par voie électronique par l’intermédiaire du portail prévu à cet effet.
+<sup>1</sup> Si la procédure électronique est prescrite, tous les envois adressés à l’AFC doivent être effectués par voie électronique au moyen du portail prévu à cet effet.
 
-[^123-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312))
+<sup>2</sup>
+
+Une telle procédure est prescrite pour:
+
+- a. …
+- b. le décompte annuel (art. 35*a* et 86*a* LTVA);
+- c. …
+- d. …
+- e. la déclaration d’assujettissement (art. 66, al. 1, LTVA);
+- f. …
+- g. la remise du décompte (art. 71 LTVA);
+- h. les corrections ultérieures du décompte (art. 72 LTVA).
+
+[^123-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025, sous réserve de l’al. 2, let. a, c, d et f, en vigueur depuis le 1<sup>er</sup> janv. 2027 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 124 à 125
 
@@ -2094,7 +2212,7 @@ L’assujetti qui établit ses décomptes au moyen de la méthode effective doit
 
 <sup>2</sup> L’AFC peut réunir plusieurs des valeurs énumérées à l’al. 1 sous un même chiffre du formulaire de décompte ou renoncer à les demander dans le cadre des décomptes périodiques.
 
-[^126-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^126-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 127
 
@@ -2126,12 +2244,15 @@ L’assujetti qui établit ses décomptes au moyen de la méthode des taux de la
   - 3\. les autres montants qui ne sont pas des contre-prestations conformément à l’art. 18, al. 2, let. d à l, LTVA;
 
 - d. la somme des contre-prestations pour les prestations soumises à l’impôt sur les acquisitions, répartie en fonction des taux de l’impôt;
-- e. les imputations d’impôt provenant d’une procédure particulière mise à disposition par l’AFC selon l’art. 90, al. 1 et 2;
-- f. la valeur résiduelle des biens immobiliers selon l’art. 93, qui ne sont plus utilisés dans le cadre de l’activité entrepreneuriale ou qui sont désormais utilisés pour une activité exclue du champ de l’impôt selon l’art. 21, al. 2, LTVA.
+- e. et f.[^127-2] …
+- g.[^127-3] les corrections visées aux art. 79, al. 3 et 4, 81, al. 4 et 5[^127-4], et 83, al. 1.
 
 <sup>2</sup> L’AFC peut réunir plusieurs des valeurs énumérées à l’al. 1 sous un même chiffre du formulaire de décompte ou renoncer à les demander dans le cadre des décomptes périodiques.
 
-[^127-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^127-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^127-2]: Abrogées par le ch. I de l’O du 21 août 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^127-3]: Introduite par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^127-4]: Le renvoi a été adapté en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 128
 
@@ -2259,7 +2380,7 @@ Les données pouvant être traitées par l’AFC, en vertu de l’art. 76*a*, al
 
 [^134-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^134-2]: Nouvelle expression selon l’annexe ch. II 24 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^134-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^134-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 135
 
@@ -2274,8 +2395,8 @@ Les données pouvant être traitées par l’AFC, en vertu de l’art. 76*a*, al
 <sup>3</sup> Les données qui n’ont pas été rendues anonymes peuvent être utilisées à des fins de contrôle et de planification internes des affaires.
 
 [^135-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^135-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^135-3]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^135-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^135-3]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^135-4]: Nouvelle teneur selon l’annexe 2 ch. II 73 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 135a
@@ -2309,7 +2430,7 @@ L*’*AFC ouvre aux personnes chargées de la perception et du recouvrement de l
 <sup>2</sup> Avant d’être détruites, les données sont proposées pour archivage aux Archives fédérales conformément à la loi fédérale du 26 juin 1998 sur l’archivage[^137-2].
 
 [^137-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^137-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^137-2]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 138
 
@@ -2329,13 +2450,33 @@ L*’*AFC ouvre aux personnes chargées de la perception et du recouvrement de l
 
 [^139-1]: Abrogés par le ch. I de l’O du 18 oct. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
-### Section 2 Contrôle
+### Section 2 Garantie de l’acquittement correct de l’impôt
 
-### (art. 78, al. 2, LTVA)
+[^tit5-chap3-sec2-1]
+
+[^tit5-chap3-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 140
 
+**Contrôle**
+
+### (art. 78, al. 2, LTVA)
+
+[^140-1]
+
 Il y a réquisition de l’ensemble des pièces de l’assujetti lorsque sont demandés les comptes d’un exercice commercial avec ou sans les justificatifs comptables y relatifs.
+
+[^140-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 140a
+
+**Coûts liés à la destruction de biens**[^140a-1]
+
+### (art. 79*a*, al. 4, LTVA)
+
+Les coûts liés aux destructions de biens ordonnées par l’AFC sont à la charge de cette dernière.
+
+[^140a-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Chapitre 4 Procédure de décision et de recours
 
@@ -2347,7 +2488,7 @@ Il y a réquisition de l’ensemble des pièces de l’assujetti lorsque sont de
 
 L’AFC a qualité pour recourir devant le Tribunal fédéral au sens de l’art. 89, al. 2, let. a, de la loi du 17 juin 2005 sur le Tribunal fédéral[^141-1].
 
-[^141-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^141-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 142
 
@@ -2388,7 +2529,7 @@ Sont réputés personnes bénéficiaires:
 
 <sup>5</sup> Le dégrèvement de la taxe sur la valeur ajoutée s’opère par voie d’exonération à la source conformément aux art. 144 et 145 et, exceptionnellement, par voie de remboursement conformément à l’art. 146.
 
-[^143-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^143-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 144
 
@@ -2426,9 +2567,9 @@ L’exonération de l’impôt n’est applicable qu’aux livraisons et aux pre
 
 <sup>4</sup> Les conditions prévues aux al. 1 à 3 pour faire valoir une exonération de l’impôt ne s’appliquent pas aux acquisitions de carburant pour lesquelles un bénéficiaire institutionnel ou une personne bénéficiaire peut faire valoir l’exonération de l’impôt sur les huiles minérales en vertu des art. 26 à 28 de l’ordonnance du 20 novembre 1996 sur l’imposition des huiles minérales[^145-1], des art. 30 et 31 de l’ordonnance du 23 août 1989 concernant les privilèges douaniers des missions diplomatiques à Berne et des postes consulaires en Suisse[^145-2], ainsi que des art. 28 et 29 de l’ordonnance du 13 novembre 1985 concernant les privilèges douaniers des organisations internationales, des États dans leurs relations avec ces organisations et des Missions spéciales d’États étrangers[^145-3]. Dans ce cas, le fournisseur de la prestation doit pouvoir prouver que l’OFDF n’a pas perçu l’impôt sur les huiles minérales ou qu’elle le lui a remboursé.
 
-[^145-1]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
-[^145-2]: [RS 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
-[^145-3]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^145-1]: [RS 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
+[^145-2]: [RS 631.144.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7833)
+[^145-3]: [RS 631.145.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7834)
 
 #### Art. 146
 
@@ -2454,7 +2595,7 @@ L’exonération de l’impôt n’est applicable qu’aux livraisons et aux pre
 
 L’assujetti doit conserver tous les originaux des formules officielles utilisées avec les autres pièces justificatives, en vertu de l’art. 70, al. 2, LTVA. En ce qui concerne les formules officielles transmises et conservées électroniquement, les dispositions de l’art. 122[^147-1] sont applicables par analogie.
 
-[^147-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^147-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 148
 
@@ -2474,16 +2615,21 @@ L’impôt grevant les livraisons, les importations de biens et les prestations 
 
 <sup>2</sup> Les Conventions de Vienne du 18 avril 1961 sur les relations diplomatiques[^149-1] et du 24 avril 1963 sur les relations consulaires[^149-2] ainsi que les accords de siège sont réservés.
 
-[^149-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^149-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^149-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^149-2]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 150
 
-**Imposition volontaire des prestations exclues du champ de l’impôt**
+**Imposition volontaire des prestations exclues du champ de l’impôt**[^150-1]
 
 ### (art. 107, al. 1, let. a, LTVA)
 
-L’AFC peut autoriser l’imposition volontaire des prestations mentionnées à l’art. 21, al. 2, ch. 20 et 21, LTVA, sans la valeur du sol, s’il est établi qu’elles sont fournies à des bénéficiaires institutionnels au sens de l’art. 143, al. 2, let. a, indépendamment du fait qu’ils soient assujettis ou non sur le territoire suisse. Cette option se limite aux immeubles et aux parts d’immeubles servant des fins administratives, notamment des bureaux, des salles de conférences, des dépôts et des places de parking, ou servant exclusivement de résidence au chef d’une mission diplomatique, d’une mission permanente ou autre représentation auprès des organisations intergouvernementales ou d’un poste consulaire.
+Les prestations mentionnées à l’art. 21, al. 2, ch. 20 et 21, LTVA, sans la valeur du sol, peuvent faire l’objet d’une imposition volontaire, si elles sont fournies à des bénéficiaires institutionnels au sens de l’art. 143, al. 2, let. a, que ceux-ci soient assujettis sur le territoire suisse ou non. Cette option se limite aux immeubles et aux parts d’immeubles:
+
+- a. servant des fins administratives, notamment des bureaux, des salles de conférences, des dépôts et des places de parking, ou
+- b. servant exclusivement de résidence au chef d’une mission diplomatique, d’une mission permanente ou autre représentation auprès des organisations intergouvernementales ou d’un poste consulaire.
+
+[^150-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ## Titre 7 Remboursement de la taxe sur la valeur ajoutée à des acquéreurs dont le domicile ou le siège social est à l’étranger
 
@@ -2502,12 +2648,18 @@ A droit au remboursement de l’impôt acquitté en vertu de l’art. 28, al. 1,
 - c. sous réserve de l’al. 2, ne fournit aucune prestation sur le territoire suisse, et
 - d. prouve à l’AFC sa qualité d’entrepreneur dans le pays où il a son domicile, son siège social ou des établissements stables.
 
-<sup>2</sup> Le droit au remboursement de l’impôt demeure lorsque le requérant est libéré de l’assujettissement en vertu de l’art. 10, al. 2, let. b, LTVA et ne renonce pas à cette libération.[^151-2]
+<sup>2</sup>
+
+Le droit au remboursement de l’impôt demeure:
+
+- a. si le requérant est libéré de l’assujettissement en vertu de l’art. 10, al. 2, let. b, LTVA;
+- b. s’il ne renonce pas à cette libération, et
+- c. si cette libération ne repose pas uniquement sur l’art. 10, al. 2, let. b, ch. 1<sup>bis</sup>, LTVA.[^151-2]
 
 <sup>3</sup> Le remboursement de l’impôt suppose que l’État dans lequel l’entreprise étrangère déposant la demande a son domicile, le siège de son activité commerciale ou des établissements stables accorde la réciprocité.
 
 [^151-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^151-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^151-2]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 152
 
@@ -2533,12 +2685,12 @@ La réciprocité est réputée garantie si:
 
 <sup>1</sup> Le remboursement de l’impôt correspond dans son étendue et ses restrictions au droit à la déduction de l’impôt préalable selon les art. 28 à 30 et 33, al. 2, LTVA. Le montant du remboursement ne dépasse pas celui de l’impôt calculé d’après le taux prévu par la loi pour la prestation concernée. La TVA acquittée sur des prestations qui ne sont pas soumises à la TVA selon la LTVA ou qui en sont exonérées n’est pas remboursée.[^153-1]
 
-<sup>2</sup> Les agences de voyages et les organisateurs de manifestations ayant leur siège à l’étranger n’ont pas droit au remboursement de l’impôt qui leur a été facturé en Suisse lors de l’acquisition de biens et de prestations de services qu’ils refacturent à leurs clients.[^153-2]
+<sup>2</sup> Les agences de voyages qui ont leur siège à l’étranger n’ont pas droit au remboursement de l’impôt qui leur a été facturé en Suisse lors de l’acquisition de biens et de prestations de services qu’elles refacturent à leurs clients.[^153-2]
 
 <sup>3</sup> Les montants de l’impôt remboursables ne sont restitués que si leur somme atteint au moins 500 francs par année civile.
 
 [^153-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^153-2]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^153-2]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 154
 
@@ -2558,7 +2710,7 @@ La réciprocité est réputée garantie si:
 
 ### (art. 107, al. 1, let. b, LTVA)
 
-<sup>1</sup> La demande de remboursement de l’impôt doit être adressée à l’AFC avec les factures originales du fournisseur des prestations ou avec les décisions de taxation de l’OFDF. Les factures originales doivent remplir les conditions mentionnées à l’art. 26, al. 2, LTVA et être établies au nom du requérant.
+<sup>1</sup> La demande de remboursement de l’impôt doit être adressée à l’AFC avec les factures du fournisseur des prestations ou avec les décisions de taxation de l’OFDF. Les factures doivent remplir les conditions mentionnées à l’art. 26, al. 2, LTVA et être établies au nom du requérant.[^155-1]
 
 <sup>2</sup> La formule de l’AFC doit être utilisée pour le dépôt de la demande.
 
@@ -2567,6 +2719,8 @@ La réciprocité est réputée garantie si:
 <sup>4</sup> L’impôt figurant sur les tickets de caisse ne peut pas être remboursé.
 
 <sup>5</sup> L’AFC peut demander d’autres renseignements et documents.
+
+[^155-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 156
 
@@ -2591,7 +2745,7 @@ Si l’impôt est remboursé plus de 180 jours après la réception par l’AFC 
 L’organe consultatif en matière de TVA (organe consultatif) est une commission extraparlementaire au sens de l’art. 57*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^157-2].
 
 [^157-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
-[^157-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^157-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 158
 
@@ -2730,6 +2884,28 @@ En cas de livraison sur le territoire suisse de biens en provenance de l’étra
 <sup>2</sup> Les corrections de décomptes déposés sur papier doivent également être déposées sur papier.
 
 [^166c-1]: Introduit par le ch. I de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
+#### Art. 166d
+
+**Disposition transitoire relative à la modification du 21 août 2024**[^166d-1]
+
+### (art. 35, al. 1<sup>bis</sup>, let. b, LTVA)
+
+Les assujettis qui, au moment de l’entrée en vigueur de la modification du 21 août 2024, ne sont pas inscrits au registre des assujettis depuis une année complète doivent procéder à une extrapolation de leur chiffre d’affaires à l’année pour déterminer s’ils dépassent la limite de chiffre d’affaires fixée à l’art. 35, al. 1<sup>bis</sup>, let. b, LTVA.
+
+[^166d-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 166e
+
+**Disposition transitoire relative à la modification du 21 août 2024**[^166e-1]
+
+### (art. 37 LTVA)
+
+<sup>1</sup> Les délais fixés à l’art. 37, al. 4, LTVA pour le passage de la méthode de décompte effective à la méthode des taux de la dette fiscale nette et inversement recommencent à courir à l’entrée en vigueur de la modification du 21 août 2024.
+
+<sup>2</sup> Les délais fixés à l’art. 98, al. 2, pour le passage de la méthode de décompte effective à la méthode des taux forfaitaires et inversement recommencent à courir à l’entrée en vigueur de la modification du 21 août 2024.
+
+[^166e-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Chapitre 3 Entrée en vigueur
 

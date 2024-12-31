@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20250101-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/it"
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 1° luglio 2024)
+del 27 novembre 2009 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge del 12 giugno 2009[^ingress-1] sull’IVA (LIVA),
 
 ordina:
 
-[^ingress-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^ingress-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 ## Titolo primo: Disposizioni generali
 
@@ -57,15 +57,15 @@ Le navi svizzere d’alto mare non sono considerate territorio nazionale svizzer
 
 [^3-1]
 
-<sup>1</sup> ...[^3-2]
+<sup>1</sup> …[^3-2]
 
 <sup>2</sup> Se l’importazione è effettuata a proprio nome fondandosi su una dichiarazione d’adesione, nelle operazioni a catena le forniture che precedono l’importazione sono considerate effettuate all’estero e quelle che la seguono sono considerate effettuate in territorio svizzero.
 
 <sup>3</sup> Se rinuncia a importare i beni a proprio nome, il fornitore della prestazione segnala la rinuncia nella fattura destinata all’acquirente.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^3-2]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^3-2]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^3-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 4
 
@@ -75,7 +75,7 @@ Le navi svizzere d’alto mare non sono considerate territorio nazionale svizzer
 
 Nel caso in cui un bene sia trasferito dall’estero in un deposito in territorio svizzero per essere fornito a partire da tale deposito, il luogo della fornitura è considerato sito all’estero se il destinatario della fornitura e la controprestazione dovuta sono noti al momento del trasferimento dei beni in territorio svizzero e i beni sono in libera pratica doganale al momento della fornitura.[^4-1]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 4a
 
@@ -89,9 +89,10 @@ Nel caso in cui un bene sia trasferito dall’estero in un deposito in territori
 
 <sup>3</sup> Il luogo della fornitura rimane sito in territorio svizzero fino alla fine dell’anno civile in cui il fornitore della prestazione non raggiunge più il limite della cifra d’affari di 100 000 franchi con forniture di cui al capoverso 1.
 
-<sup>4</sup> Se non raggiunge il limite della cifra d’affari e non lo comunica per scritto all’AFC, il fornitore della prestazione è considerato assoggettato ai sensi dell’articolo 7 capoverso 3 lettera a LIVA.
+<sup>4</sup> Se non raggiunge il limite della cifra d’affari e non lo comunica per scritto all’Amministrazione federale delle contribuzioni (AFC), il fornitore della prestazione è considerato assoggettato ai sensi dell’articolo 7 capoverso 3 lettera a LIVA.[^4a-2]
 
-[^4a-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+[^4a-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 5
 
@@ -130,7 +131,7 @@ Non sono considerati stabilimenti d’impresa segnatamente:
 
 Il trasporto di persone con battelli sul lago di Costanza, sul lago Inferiore di Costanza e sul Reno tra il lago Inferiore di Costanza e la frontiera svizzera sotto a Basilea è considerato effettuato all’estero.
 
-[^5a-1]: Introdotto dal n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
 
 #### Art. 6
 
@@ -150,7 +151,7 @@ Vi è prestazione di trasporto anche quando un mezzo di trasporto è messo a dis
 
 <sup>2</sup> Se il contribuente prova che una prestazione di cui al capoverso 1 è stata eseguita all’estero, si applica l’articolo 8 capoverso 2 lettera c e d LIVA.
 
-[^6a-1]: Introdotto dal n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
 
 ## Titolo secondo: Imposta sulle prestazioni eseguite sul territorio svizzero
 
@@ -166,13 +167,13 @@ Vi è prestazione di trasporto anche quando un mezzo di trasporto è messo a dis
 
 Gli stabilimenti d’impresa in territorio svizzero di un’impresa con sede all’estero sono considerati insieme un unico soggetto fiscale indipendente.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371), [2011 6545](https://fedlex.data.admin.ch/eli/oc/2011/910)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371), [2011 6545](https://fedlex.data.admin.ch/eli/oc/2011/910)).
 
 #### Art. 8
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^8-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 9
 
@@ -191,7 +192,7 @@ Se sulla base della nuova valutazione è presumibile il raggiungimento del sudde
 
 <sup>3</sup> Per le imprese già esentate dall’assoggettamento, l’esenzione termina allo scadere dell’esercizio in cui viene raggiunto il limite della cifra d’affari. Se l’attività che fonda l’assoggettamento non è stata esercitata durante tutto l’anno, la cifra d’affari è riportata su un anno intero.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 9a
 
@@ -210,7 +211,7 @@ Se sulla base della nuova valutazione è presumibile il raggiungimento del sudde
 
 <sup>3</sup> Per le imprese già esentate dall’assoggettamento, l’esenzione termina allo scadere dell’esercizio in cui viene raggiunto il limite della cifra d’affari. Se l’attività che fonda l’assoggettamento non è stata esercitata durante tutto l’anno, la cifra d’affari è riportata su un anno intero.
 
-[^9a-1]: Introdotto dal n. I dell’O del 12 nov. 2014 ([RU 2014 3847](https://fedlex.data.admin.ch/eli/oc/2014/659)). Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 12 nov. 2014 ([RU 2014 3847](https://fedlex.data.admin.ch/eli/oc/2014/659)). Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 10
 
@@ -238,15 +239,15 @@ Non sono considerate prestazioni di servizi in materia d’informatica o di tele
 - b. le prestazioni in materia di formazione ai sensi dell’articolo 21 capoverso 2 numero 11 LIVA aventi carattere interattivo;
 - c.[^10-3] la semplice messa a disposizione di impianti o parti di impianti esattamente definiti e destinati all’uso esclusivo del locatario per il trasferimento di dati.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^10-2]: Nuovo testo giusta l’all. 2 n. II 2 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^10-2]: Nuovo testo giusta l’all. 2 cifra II n. 2 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 11
 
 [^11-1]
 
-[^11-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^11-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 ### Sezione 2: Collettività pubbliche
 
@@ -275,7 +276,7 @@ Gli altri enti di diritto pubblico di cui all’articolo 12 capoverso 1 LIVA son
 
 [^13-1]
 
-[^13-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^13-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 14
 
@@ -290,7 +291,7 @@ Sono considerate imprenditoriali e quindi imponibili le prestazioni di una colle
 - 3\. il trasporto di beni e di persone;
 - 4\. le prestazioni di servizi portuali e aeroportuali;
 - 5\. le forniture di prodotti finiti nuovi destinati alla vendita;
-- 6\.[^14-2] ...
+- 6\.[^14-2] …
 - 7\. l’organizzazione di fiere e di esposizioni di carattere commerciale;
 - 8\. l’esercizio di impianti sportivi quali stabilimenti balneari e di piste di ghiaccio artificiale;
 - 9\.[^14-3] la gestione di depositi;
@@ -305,10 +306,10 @@ Sono considerate imprenditoriali e quindi imponibili le prestazioni di una colle
 - 18\. il controllo dei gas di combustione;
 - 19\. le prestazioni nel campo della pubblicità.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
-[^14-2]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^14-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^14-4]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
+[^14-2]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^14-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^14-4]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ### Sezione 3: Imposizione di gruppo
 
@@ -330,9 +331,9 @@ Sono considerate imprenditoriali e quindi imponibili le prestazioni di una colle
 
 <sup>2</sup> Gli agenti assicurativi possono essere membri di un gruppo.
 
-<sup>3</sup> ...[^16-1]
+<sup>3</sup> …[^16-1]
 
-[^16-1]: Abrogato dal n. I dell’O del 12 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3847](https://fedlex.data.admin.ch/eli/oc/2014/659)).
+[^16-1]: Abrogato dalla cifra I dell’O del 12 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 3847](https://fedlex.data.admin.ch/eli/oc/2014/659)).
 
 #### Art. 17
 
@@ -344,22 +345,44 @@ Sono considerate imprenditoriali e quindi imponibili le prestazioni di una colle
 
 <sup>2</sup> È ammessa la costituzione di più sottogruppi.
 
+#### Art. 17a
+
+**Rappresentanza del gruppo**[^17a-1]
+
+### (art. 13 LIVA)
+
+Può rappresentare il gruppo:
+
+- a. un membro del gruppo d’imposizione residente in Svizzera; o
+- b. una persona che non sia membro del gruppo d’imposizione e abbia il domicilio o la sede sociale in Svizzera.
+
+[^17a-1]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 18
 
-**Autorizzazione dell’imposizione di gruppo**
+**Richiesta di applicazione dell’imposizione di gruppo**[^18-1]
 
-### (art. 13 e 67 cpv. 2 LIVA)
+### (art. 13, 65*a* cpv. 1 e 67 cpv. 2 LIVA)
 
-<sup>1</sup> Su richiesta, l’AFC rilascia l’autorizzazione all’imposizione di gruppo se sono soddisfatte le condizioni determinanti.
+<sup>1</sup> Su richiesta, l’AFC iscrive il gruppo nel registro dei contribuenti.
 
-<sup>2</sup> La domanda va corredata delle dichiarazioni scritte con cui i singoli membri si dicono d’accordo con l’imposizione di gruppo, gli effetti della stessa e la rappresentanza del gruppo da parte del membro designato o della persona designata nella domanda.
+<sup>2</sup>
+
+Se le condizioni di cui all’articolo 13 capoverso 1 LIVA per l’imposizione di gruppo sono soddisfatte all’inizio del periodo fiscale, l’AFC iscrive il gruppo nel registro dei contribuenti a partire da tale momento, purché:
+
+- a. nessuno dei soggetti giuridici interessati abbia presentato un rendiconto per il periodo fiscale per cui viene richiesta l’imposizione di gruppo; e
+- b. il termine per presentare il rendiconto secondo l’articolo 71 capoverso 1 LIVA non sia decorso.
 
 <sup>3</sup>
 
-La domanda va presentata dal rappresentante del gruppo. Può rappresentare il gruppo:
+Se le condizioni di cui all’articolo 13 capoverso 1 LIVA per l’imposizione di gruppo sono soddisfatte solo durante il periodo fiscale in corso, l’AFC iscrive il gruppo nel registro dei contribuenti a partire da tale momento, purché:
 
-- a. un membro del gruppo d’imposizione residente in Svizzera; o
-- b. una persona che non sia membro del gruppo e abbia il domicilio o la sede sociale in Svizzera.
+- a. nessuno dei soggetti giuridici interessati abbia presentato un rendiconto per il periodo di rendiconto in cui le condizioni per l’applicazione dell’imposizione di gruppo sono state soddisfatte; e
+- b. il termine per presentare il rendiconto secondo l’articolo 71 capoverso 1 LIVA non sia decorso.
+
+<sup>4</sup> La richiesta va corredata delle dichiarazioni scritte con cui i singoli membri del gruppo si dicono d’accordo con l’imposizione di gruppo, gli effetti della stessa e la rappresentanza del gruppo da parte del membro designato o della persona designata nella richiesta.
+
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 19
 
@@ -367,23 +390,33 @@ La domanda va presentata dal rappresentante del gruppo. Può rappresentare il gr
 
 ### (art. 13 LIVA)
 
-<sup>1</sup> Il rappresentante di un gruppo d’imposizione può dimettersi soltanto per la fine di un periodo fiscale. Le dimissioni vanno notificate per scritto all’AFC almeno un mese prima di tale data.
+<sup>1</sup> I cambiamenti nella rappresentanza di un gruppo d’imposizione devono essere notificati all’AFC.[^19-1]
 
-<sup>2</sup> Se, in caso di dimissioni del rappresentante del gruppo, un mese prima della fine del periodo fiscale non le è stato notificato per scritto il nome del nuovo rappresentante, l’AFC può, previa diffida, designare quale rappresentante uno dei membri del gruppo.
+<sup>2</sup> Se, in caso di dimissioni del rappresentante del gruppo, non le è stato notificato il nome del nuovo rappresentante, l’AFC può, previa diffida, designare quale rappresentante uno dei membri del gruppo.[^19-2]
 
 <sup>3</sup> Di comune accordo, i membri del gruppo possono revocare il mandato al rappresentante purché designino nel contempo un nuovo rappresentante. Il capoverso 1 si applica per analogia.
 
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 20
 
-**Modifiche nella composizione del gruppo**
+**Modifiche nella composizione del gruppo**[^20-1]
 
 ### (art. 13 LIVA)
 
-<sup>1</sup> Se un membro non soddisfa più le condizioni di partecipazione all’imposizione di gruppo, il rappresentante del gruppo ne informa l’AFC per scritto.
+<sup>1</sup> Se un membro non soddisfa più le condizioni di cui all’articolo 13 capoverso 1 LIVA per partecipare all’imposizione di gruppo, il rappresentante del gruppo ne informa l’AFC.
 
-<sup>2</sup> Su richiesta, un soggetto giuridico può entrare a far parte di un gruppo esistente o un membro può uscirne. L’AFC autorizza l’entrata e l’uscita per l’inizio del periodo fiscale successivo o la fine di quello in corso.
+<sup>2</sup> Su richiesta, un soggetto giuridico può entrare a far parte di un gruppo esistente all’inizio del periodo fiscale successivo o un membro può uscirne alla fine del periodo fiscale in corso.
 
-<sup>3</sup> Il soggetto giuridico che soddisfa le condizioni di partecipazione all’imposizione di gruppo che in precedenza non adempiva può chiedere di entrare a far parte di un gruppo d’imposizione esistente anche nel corso del periodo fiscale, purché ne faccia domanda scritta all’AFC entro 30 giorni dalla comunicazione della determinante modifica del registro di commercio o dall’adempimento delle condizioni.
+<sup>3</sup>
+
+Se un soggetto giuridico soddisfa le condizioni per partecipare all’imposizione di gruppo di cui all’articolo 13 capoverso 1 LIVA che in precedenza non adempiva, può richiedere di entrare a far parte di un gruppo d’imposizione esistente anche durante il periodo fiscale in corso, a partire dal momento in cui tali condizioni sono soddisfatte, purché:
+
+- a. né il gruppo d’imposizione né il nuovo soggetto giuridico da includere abbiano presentato un rendiconto per il periodo di rendiconto in cui le condizioni di partecipazione a un’imposizione di gruppo sono state soddisfatte; e
+- b. il termine per presentare il rendiconto secondo l’articolo 71 capoverso 1 LIVA non sia decorso.
+
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 21
 
@@ -457,8 +490,8 @@ L’esecuzione di prestazioni a persone strettamente vincolate è considerata un
 
 Mediante le loro attività, le organizzazioni private ai sensi dell’articolo 32*a*<sup>bis</sup> LPAmb[^27-1] eseguono prestazioni nei confronti di fabbricanti e importatori. Le tasse di smaltimento anticipate costituiscono la controprestazione di tali prestazioni.[^27-2]
 
-[^27-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^27-2]: Nuovo testo per per. giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
+[^27-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^27-2]: Nuovo testo per per. giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 
 #### Art. 28
 
@@ -478,14 +511,20 @@ Il distaccamento transfrontaliero di collaboratori in seno a un gruppo non è co
 
 ### (art. 18 cpv. 2 lett. a LIVA)
 
-Sono considerati sussidio o altro contributo di diritto pubblico segnatamente i seguenti flussi di mezzi finanziari versati da una collettività pubblica:
+<sup>1</sup>
 
-- a. gli aiuti finanziari ai sensi dell’articolo 3 capoverso 1 della legge del 5 ottobre 1990[^29-1] sui sussidi (LSu);
+Fatto salvo l’articolo 18 capoverso 3 LIVA, sono considerati sussidi o altri contributi di diritto pubblico segnatamente i seguenti flussi di mezzi finanziari versati da una collettività pubblica:[^29-1]
+
+- a. gli aiuti finanziari ai sensi dell’articolo 3 capoverso 1 della legge del 5 ottobre 1990[^29-2] sui sussidi (LSu);
 - b. le indennità ai sensi dell’articolo 3 capoverso 2 lettera a LSu, in quanto non sia dato un rapporto di prestazione;
 - c. i contributi per la ricerca, in quanto la collettività pubblica non abbia il diritto esclusivo sui risultati della ricerca;
 - d. i flussi di mezzi finanziari paragonabili a quelli di cui alle lettere a–c versati in virtù del diritto cantonale e comunale.
 
-[^29-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+<sup>2</sup> Una collettività pubblica può designare come sussidio o altro contributo di diritto pubblico i mezzi finanziari versati al beneficiario fino alla scadenza del termine di cui all’articolo 72 capoverso 1 LIVA riferito al periodo fiscale in cui avviene il versamento.[^29-3]
+
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^29-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^29-3]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 30
 
@@ -522,7 +561,7 @@ Gli arnesi speciali che il contribuente ha acquistato, fabbricato o fatto fabbri
 
 Per determinare se il luogo della prestazione in caso di combinazioni di prestazioni si trovi in territorio svizzero o all’estero si applica per analogia l’articolo 19 capoverso 2 LIVA
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 33
 
@@ -560,8 +599,8 @@ Non sono considerati cure mediche segnatamente:
 - d. la somministrazione di protesi e di apparecchi ortopedici fabbricati in proprio o acquistati, anche se essa avviene nell’ambito di una cura medica; è considerato protesi un pezzo sostitutivo del corpo che, senza intervento chirurgico, può essere reimpiegato o riapplicato dopo essere stato tolto dal corpo;
 - e. i provvedimenti della cura di base; questi sono considerati prestazioni di cura giusta l’articolo 21 capoverso 2 numero 4 LIVA.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 
 #### Art. 35
 
@@ -585,6 +624,7 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 - c. protesisti dentari;
 - c<sup>bis</sup>.[^35-2] igienisti dentali;
 - d. psicoterapeuti;
+- d<sup>bis</sup>.[^35-3] psicologi;
 - e. chiropratici;
 - f. fisioterapisti;
 - g. ergoterapisti;
@@ -595,13 +635,16 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 - l. logopedisti;
 - m. dietisti;
 - n. podologi;
-- o.[^35-3] ....
-- p.[^35-4] ...
+- o.[^35-4] ….
+- p.[^35-5] farmacisti;
+- q.[^35-6] optometristi.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
-[^35-2]: Introdotta dal n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-3]: Introdotta dal n. II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogata sino al 30 giu. 2024 ([RU 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)n. III).
-[^35-4]: Introdotta dal n. II dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 31 dic. 2023 ([RU 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)n. II).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
+[^35-2]: Introdotta dalla cifra I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^35-3]: Introdotta dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^35-4]: Introdotta dalla cifra II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogata sino al 30 giu. 2024 ([RU 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)cifra III).
+[^35-5]: Introdotta dalla cifra II dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^35-6]: Introdotta dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 36
 
@@ -609,17 +652,17 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 
 ### (art. 21 cpv. 2 n. 14 e 16 LIVA)
 
-<sup>1</sup> ...[^36-1]
+<sup>1</sup> …[^36-1]
 
 <sup>2</sup> Sono considerati autori ai sensi dell’articolo 21 capoverso 2 numero 16 LIVA gli autori di opere giusta gli articoli 2 e 3 LDA, purché eseguano prestazioni culturali.
 
-[^36-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^36-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 37
 
 [^37-1]
 
-[^37-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^37-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 38
 
@@ -635,10 +678,22 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 
 L’esclusione dall’imposta si estende:
 
-- a. alle prestazioni effettuate tra le società di diritto privato o pubblico alle quali partecipano esclusivamente collettività pubbliche e le società detenute in modo diretto o indiretto esclusivamente da tali società o gli istituti e le fondazioni fondati in modo diretto o indiretto esclusivamente da tali società;
-- b. alle prestazioni effettuate tra gli istituti o le fondazioni fondati esclusivamente da collettività pubbliche e le società detenute in modo diretto o indiretto esclusivamente da tali istituti e fondazioni o gli istituti e le fondazioni fondati in modo diretto o indiretto esclusivamente da tali istituti e fondazioni.
+- a.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+  alle prestazioni effettuate tra le società di diritto privato o pubblico alle quali partecipano esclusivamente collettività pubbliche e:
+
+  - 1\. le società detenute in modo diretto o indiretto esclusivamente da tali società, o
+  - 2\. gli istituti e le fondazioni di cui tali società sono i fondatori o i responsabili esclusivi;
+
+- b.
+
+  alle prestazioni effettuate tra gli istituti o le fondazioni i cui fondatori o responsabili sono esclusivamente collettività pubbliche e:
+
+  - 1\. le società detenute in modo diretto o indiretto esclusivamente da tali istituti o fondazioni, o
+  - 2\. gli istituti e le fondazioni di cui tali istituti o fondazioni sono i fondatori o i responsabili esclusivi.[^38-2]
+
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 38a
 
@@ -656,8 +711,8 @@ Sono considerati istituti di formazione e di ricerca:
 
 <sup>2</sup> Le imprese dell’economia privata non sono considerate istituti di formazione e di ricerca.
 
-[^38a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^38a-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^38a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^38a-2]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 #### Art. 39
 
@@ -667,7 +722,7 @@ Sono considerati istituti di formazione e di ricerca:
 
 L’opzione mediante dichiarazione nel rendiconto è esercitata nel medesimo periodo fiscale in cui è sorto il debito fiscale. Trascorso il termine di finalizzazione di cui all’articolo 72 capoverso 1 LIVA, non è più possibile esercitare l’opzione o rinunciare a un’opzione già esercitata.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 ### Sezione 4: Prestazioni esenti dall’imposta
 
@@ -675,7 +730,7 @@ L’opzione mediante dichiarazione nel rendiconto è esercitata nel medesimo per
 
 [^40-1]
 
-[^40-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^40-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 41
 
@@ -724,34 +779,23 @@ Fatto salvo il capoverso 2, i trasporti ferroviari transfrontalieri sono esenti 
 
 <sup>2</sup> È esente dall’imposta il trasporto di persone su tragitti situati esclusivamente in territorio svizzero che sia unicamente destinato a portare una persona direttamente nel luogo in cui viene effettuata una prestazione di trasporto secondo il capoverso 1, purché esso sia fatturato unitamente a quest’ultima.
 
+#### Art. 43a
+
+**Rinuncia alla fornitura esente dall’imposta a piattaforme**[^43a-1]
+
+### (art. 23 cpv. 2 n. 13 LIVA)
+
+<sup>1</sup> Il venditore può, previo consenso del fornitore della prestazione secondo l’articolo 20*a* LIVA, indicare l’imposta nella fattura per la fornitura fittizia di beni sul territorio svizzero. Il consenso non è necessario se nei confronti del fornitore della prestazione secondo l’articolo 20*a* LIVA è stata disposta una misura amministrativa di cui all’articolo 79*a* LIVA.
+
+<sup>2</sup> Il fornitore della prestazione secondo l’articolo 20*a* LIVA può dedurre l’imposta a titolo d’imposta precedente.
+
+[^43a-1]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 44
 
-**Operazioni con monete d’oro e oro fino esenti dall’imposta**
+[^44-1]
 
-### (art. 107 cpv. 2 LIVA)
-
-<sup>1</sup>
-
-Sono esenti dall’imposta le operazioni con:
-
-- a. monete d’oro coniate dagli Stati designate nelle voci di tariffa doganale[^44-1] 7118.9000[^44-2] e 9705.0000;
-- b.[^44-3]
-
-  oro a scopi di investimento con il titolo minimo di 995 millesimi, sotto forma di:
-
-  - 1\. lingotti fusi, con menzione del titolo e del marchio proveniente da un saggiatore-fonditore riconosciuto, oppure
-  - 2\. lamelle ritagliate, con menzione del titolo e del marchio proveniente da un saggiatore-fonditore riconosciuto, oppure di un marchio d’artefice registrato in Svizzera;
-
-- c.[^44-4] oro in forma di granuli d’un tenore d’oro fino di almeno 995 millesimi, imballati e sigillati da un fonditore-saggiatore riconosciuto;
-- d. oro greggio o semilavorato destinato alla raffinazione o al recupero;
-- e. oro in forma di cascami e rottami.
-
-<sup>2</sup> È considerata oro ai sensi del capoverso 1 lettere d ed e anche qualsiasi lega contenente, in peso, 2 per cento o più di oro o, in presenza di platino, contenente più oro che platino.
-
-[^44-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato. Ora: 9705.3100 e 9705.3900.
-[^44-2]: Nuovo numero giusta l’all. 2 n. II 9 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
-[^44-3]: Nuovo testo giusta il n. I dell’O del 30 ott. 2014, in vigore dal 1° gen. 2013 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^44-4]: Nuovo testo giusta il n. I dell’O del 30 ott. 2014, in vigore dal 1° gen. 2013 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-1]: Abrogato dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Capitolo 3: Base di calcolo e aliquote d’imposta
 
@@ -775,9 +819,9 @@ Sono esenti dall’imposta le operazioni con:
 
 <sup>5</sup> Il metodo prescelto (corso medio mensile, corso del giorno o corso del gruppo) va applicato almeno per un periodo fiscale.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^45-2]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^45-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^45-2]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^45-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 46
 
@@ -824,7 +868,7 @@ L’AFC tiene conto del fatto che:
 
 [^tit2-chap3-sec1a-1]
 
-[^tit2-chap3-sec1a-1]: Introdotta dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^tit2-chap3-sec1a-1]: Introdotta dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 48a
 
@@ -886,6 +930,16 @@ Se in caso di rivendita di pezzi da collezione indica chiaramente l’imposta, i
 
 Il contribuente effettua una registrazione dell’acquisto e della vendita dei pezzi da collezione. In caso di beni acquistati a un prezzo complessivo sono effettuate registrazioni separate per ogni lotto.
 
+#### Art. 48e
+
+**Imposizione dei margini per piattaforme elettroniche**[^48e-1]
+
+### (art. 24*a* LIVA)
+
+Chi è considerato fornitore della prestazione secondo l’articolo 20*a* LIVA può applicare l’imposizione dei margini solo se il venditore del bene fornito è residente sul territorio svizzero e non è iscritto nel registro dei contribuenti.
+
+[^48e-1]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 ### Sezione 2: Aliquote d’imposta
 
 #### Art. 49
@@ -901,13 +955,13 @@ Sono considerati medicinali:
 - c.[^49-4] i medicamenti pronti per l’uso che hanno ottenuto un’omologazione temporanea ai sensi dell’articolo 9*a* LATer o un’autorizzazione temporanea ai sensi dell’articolo 9*b* LATer;
 - d.[^49-5] i medicamenti pronti per l’uso non omologati ai sensi degli articoli 48 e 49 capoversi 1–4 dell’ordinanza del 14 novembre 2018[^49-6] sull’autorizzazione dei medicamenti come pure ai sensi degli articoli 7–7*c* dell’ordinanza del 18 agosto 2004[^49-7] sui medicamenti veterinari.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
-[^49-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^49-3]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
-[^49-4]: Nuovo testo giusta il n. I dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
-[^49-5]: Nuovo testo giusta il n. III 1 dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^49-6]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^49-7]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
+[^49-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^49-3]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
+[^49-4]: Nuovo testo giusta la cifra I dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
+[^49-5]: Nuovo testo giusta la cifra III n. 1 dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^49-6]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^49-7]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 50
 
@@ -940,7 +994,7 @@ Sono considerati giornali e riviste elettronici senza carattere pubblicitario i 
 
 <sup>2</sup> Dei giornali e delle riviste elettronici senza carattere pubblicitario fanno parte anche gli audiogiornali e le audioriviste il cui contenuto riflette in massima parte l’opera originale.
 
-[^50a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^50a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 51
 
@@ -971,7 +1025,7 @@ Sono considerati libri elettronici senza carattere pubblicitario i prodotti elet
 
 <sup>2</sup> Dei libri elettronici senza carattere pubblicitario fanno parte anche gli audiolibri il cui contenuto riflette in massima parte l’opera originale.
 
-[^51a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^51a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 52
 
@@ -990,7 +1044,7 @@ Sono considerate terzi che sostengono l’editore:
 
 <sup>3</sup> È considerata pubblicità sia la pubblicità diretta, come la pubblicità e le inserzioni, sia quella indiretta, come gli articoli pubbliredazionali e i comunicati pubblicitari.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 53
 
@@ -1085,21 +1139,19 @@ Al calcolo delle imposte precedenti deducibili si applica per analogia l’artic
 
 [^60-1]
 
-[^60-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^60-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 61
 
-**Deduzione dell’imposta precedente per le monete d’oro e l’oro fino**
+[^61-1]
 
-### (art. 107 cpv. 2 LIVA)
-
-L’imposta sulle forniture di beni e sulle prestazioni di servizi utilizzati per le operazioni di cui all’articolo 44 e per le importazioni di cui all’articolo 113 lettera g può essere dedotta quale imposta precedente.
+[^61-1]: Abrogato dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Sezione 2: Deduzione dell’imposta precedente fittizia
 
 [^tit2-chap5-sec2-1]
 
-[^tit2-chap5-sec2-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^tit2-chap5-sec2-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 62
 
@@ -1109,7 +1161,7 @@ L’imposta sulle forniture di beni e sulle prestazioni di servizi utilizzati pe
 
 Non sono considerati beni mobili accertabili i metalli preziosi delle voci di tariffa doganale 7106–7112[^62-1] e le pietre preziose delle voci di tariffa doganale 7102–7105.
 
-[^62-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), allegato
+[^62-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), allegato
 
 #### Art. 63
 
@@ -1127,12 +1179,19 @@ La deduzione dell’imposta precedente fittizia è esclusa se:
 
 - a. al momento dell’acquisto del bene è stata applicata la procedura di notifica di cui all’articolo 38 LIVA;
 - b. il contribuente ha importato il bene;
-- c. sono stati acquistati beni di cui all’articolo 44 capoversi 1 lettere a e b e 2;
-- d. il contribuente sa o dovrebbe sapere che tale bene è stato importato in esenzione d’imposta.
+- c.[^63-2] sono stati acquistati beni di cui all’articolo 23 capoverso 2 numero 12 LIVA;
+- d. il contribuente sa o dovrebbe sapere che tale bene è stato importato in esenzione d’imposta;
+- e.[^63-3] il contribuente ha acquistato il bene da un beneficiario di cui all’articolo 2 della legge del 22 giugno 2007[^63-4] sullo Stato ospite.
 
 <sup>4</sup> Per i pagamenti effettuati nell’ambito della liquidazione dei danni, la deduzione dell’imposta precedente è consentita unicamente sul valore effettivo del bene al momento della sua assunzione.
 
+<sup>5</sup> Chi è considerato fornitore della prestazione secondo l’articolo 20*a* LIVA può applicare la deduzione dell’imposta precedente fittizia solo se il venditore del bene fornito è residente sul territorio svizzero e non è iscritto nel registro dei contribuenti.[^63-5]
+
 [^63-1]: Correzione del 30 gen. 2018 ([RU 2018 521](https://fedlex.data.admin.ch/eli/oc/2018/56)).
+[^63-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^63-3]: Introdotta dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^63-4]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^63-5]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 64
 
@@ -1229,7 +1288,7 @@ Se i costi di ristrutturazione di una fase di costruzione superano complessivame
 
 <sup>1</sup> La deduzione dell’imposta precedente può essere corretta integralmente riguardo a beni e prestazioni di servizi non utilizzati.
 
-<sup>2</sup> La deduzione dell’imposta precedente può essere corretta riguardo a beni e prestazioni di servizi utilizzati che siano ancora disponibili e abbiano un valore attuale nel momento in cui si sono realizzati i presupposti per la deduzione dell’imposta precedente. Si presume che siano consumate o non più godibili già al momento dell’acquisto le prestazioni di servizi nell’ambito della consulenza, della contabilità, del reclutamento di personale, del management e della pubblicità,.
+<sup>2</sup> La deduzione dell’imposta precedente può essere corretta riguardo a beni e prestazioni di servizi utilizzati che siano ancora disponibili e abbiano un valore attuale nel momento in cui si sono realizzati i presupposti per la deduzione dell’imposta precedente. Si presume che siano consumate o non più godibili già al momento dell’acquisto le prestazioni di servizi nell’ambito della consulenza, della contabilità, del reclutamento di personale, del management e della pubblicità.
 
 <sup>3</sup> Per i beni fabbricati in proprio occorre prevedere, per l’utilizzazione dell’infrastruttura, un supplemento del 33 per cento sulle imposte precedenti sul materiale e su eventuali lavori di terzi per i semilavorati. È fatta salva la prova effettiva delle imposte precedenti sull’utilizzazione dell’infrastruttura.
 
@@ -1253,7 +1312,7 @@ Se i costi di ristrutturazione di una fase di costruzione superano complessivame
 
 Se i costi di ristrutturazione di una fase di costruzione superano complessivamente il 5 per cento del valore d’assicurazione dell’edificio prima della ristrutturazione, la deduzione dell’imposta precedente può essere corretta dei costi complessivi, indipendentemente dal fatto che si tratti di costi che aumentano o mantengono il valore.
 
-[^74-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
+[^74-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 
 ### Sezione 6: Riduzione della deduzione dell’imposta precedente
 
@@ -1265,7 +1324,9 @@ Se i costi di ristrutturazione di una fase di costruzione superano complessivame
 
 <sup>2</sup> Se i mezzi di cui all’articolo 18 capoverso 2 lettere a–c LIVA sono attribuibili a un determinato settore d’attività, va ridotta soltanto l’imposta precedente sulle spese di tale settore.
 
-<sup>3</sup> Se i mezzi di cui all’articolo 18 capoverso 2 lettere a–c LIVA sono versati per coprire un disavanzo d’esercizio, l’imposta precedente va ridotta complessivamente in ragione del rapporto tra questi mezzi e la cifra d’affari complessiva, esclusa l’imposta sul valore aggiunto.
+<sup>3</sup> Se i mezzi di cui all’articolo 18 capoverso 2 lettere a–c LIVA sono versati per coprire un disavanzo d’esercizio, l’imposta precedente va ridotta complessivamente in ragione del rapporto tra questi mezzi e le entrate complessive. Le entrate complessive comprendono il totale della cifra d’affari, esclusa l’imposta sul valore aggiunto, e le entrate che non sono considerate controprestazioni.[^75-1]
+
+[^75-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Capitolo 6: Determinazione e nascita del credito fiscale
 
@@ -1278,6 +1339,74 @@ Se i costi di ristrutturazione di una fase di costruzione superano complessivame
 [^76-1]
 
 [^76-1]: Entrerà in vigore in un secondo tempo.
+
+### Sezione 1*a*: Rendiconto annuale
+
+[^tit2-chap6-sec1a-1]
+
+[^tit2-chap6-sec1a-1]: Introdotta dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 76a
+
+**Rendiconto annuale all’inizio dell’assoggettamento**
+
+### (art. 35 cpv. 1<sup>bis</sup> lett. b, 35*a* e 86*a* LIVA)
+
+<sup>1</sup> I nuovi contribuenti iscritti nel registro dei contribuenti che intendono applicare il rendiconto annuale devono farne richiesta presso l’AFC entro 60 giorni dalla comunicazione del numero IVA.
+
+<sup>2</sup> L’AFC autorizza l’applicazione del rendiconto annuale se la cifra d’affari preventivata nei primi 12 mesi con l’imposta sul valore aggiunto non supera il limite di cui all’articolo 35 capoverso 1<sup>bis</sup> lettera b LIVA.
+
+<sup>3</sup> Trascorso il termine di cui al capoverso 1, il contribuente può richiedere di applicare il rendiconto annuale al più presto dopo un periodo fiscale.
+
+#### Art. 76b
+
+**Passaggio al rendiconto annuale**
+
+### (art. 35 cpv. 1<sup>bis</sup> lett. b, 35*a* e 86*a* LIVA)
+
+<sup>1</sup> I contribuenti che intendono passare al rendiconto annuale devono farne richiesta entro 60 giorni dall’inizio del periodo fiscale a partire dal quale ha luogo il passaggio.
+
+<sup>2</sup>
+
+L’AFC autorizza il rendiconto annuale se il contribuente:
+
+- a. nel periodo fiscale precedente non ha superato il limite della cifra d’affari di cui all’articolo 35 capoverso 1<sup>bis</sup> lettera b LIVA; e
+- b. nei tre periodi fiscali precedenti o, in caso di durata inferiore dell’assoggettamento, dall’inizio dell’assoggettamento ha presentato tutti i rendiconti entro i termini e ha versato l’integralità dei crediti fiscali entro i termini.
+
+#### Art. 76c
+
+**Fine del rendiconto annuale**
+
+### (art. 35 cpv. 1<sup>bis</sup> lett. b, 35*a*, 86 cpv. 2 e 86*a* LIVA)
+
+<sup>1</sup> I contribuenti che non intendono più applicare il rendiconto annuale devono notificarlo all’AFC entro 60 giorni dall’inizio del periodo fiscale a partire dal quale ha luogo il passaggio.
+
+<sup>2</sup>
+
+L’AFC revoca l’autorizzazione ad applicare il rendiconto annuale:
+
+- a. all’inizio del periodo fiscale successivo, se nel corso di tre periodi fiscali consecutivi il contribuente ha superato il limite della cifra d’affari stabilito nell’articolo 35 capoverso 1<sup>bis</sup> lettera b LIVA;
+- b.
+
+  all’inizio del secondo periodo fiscale successivo, se:
+
+  - 1\.
+
+    il contribuente ha richiesto una riduzione degli acconti in seguito alla quale, nel periodo fiscale in corso, il totale degli acconti in rapporto all’ammontare d’imposta indicato nel rendiconto scende al di sotto del valore seguente:
+
+    - – in caso di applicazione del metodo di rendiconto effettivo o del metodo delle aliquote forfetarie: 50 per cento
+    - – in caso di rendiconto secondo il metodo delle aliquote saldo: 35 per cento,
+
+  - 2\. a causa della mancata presentazione del rendiconto, in virtù dell’articolo 86 capoverso 2 secondo periodo LIVA l’AFC ha determinato l’ammontare d’imposta dovuto, nei limiti del suo potere d’apprezzamento, o
+  - 3\. in virtù dell’articolo 86 capoverso 2 primo periodo, l’AFC ha promosso l’esecuzione dei crediti.
+
+#### Art. 76d
+
+**Adeguamento degli acconti**
+
+### (art. 35 cpv. 1<sup>bis</sup> lett. b, 35*a* e 86*a* LIVA)
+
+Gli acconti possono essere adeguati soltanto prima della loro scadenza.
 
 ### Sezione 2: Metodo delle aliquote saldo
 
@@ -1298,52 +1427,67 @@ Il metodo delle aliquote saldo non può essere scelto dai contribuenti che:
 - c. applicano l’imposizione di gruppo secondo l’articolo 13 LIVA;
 - d. hanno la loro sede o uno stabilimento d’impresa nelle valli di Samnaun o Sampuoir;
 - e.[^77-1] realizzano più del 50 per cento della loro cifra d’affari con prestazioni imponibili eseguite per altri contribuenti che applicano il metodo di rendiconto effettivo, se le persone coinvolte sono poste sotto una direzione unica;
-- f.[^77-2] in virtù dell’articolo 7 capoverso 3 LIVA eseguono forniture in territorio svizzero.
+- f.[^77-2] in virtù dell’articolo 7 capoverso 3 LIVA eseguono forniture in territorio svizzero;
+- g.[^77-3] sono considerati fornitori di prestazioni secondo l’articolo 20*a* LIVA;
+- h.[^77-4] hanno la loro sede all’estero.
 
-<sup>3</sup> I contribuenti che applicano il metodo delle aliquote saldo non possono optare per l’imposizione delle prestazioni di cui all’articolo 21 capoverso 2 numeri 1–24, 27, 29 e 30 LIVA. Se l’imposta viene comunque menzionata nella fattura, l’importo indicato è versato all’AFC fatto salvo l’articolo 27 capoverso 2 LIVA.[^77-3]
+<sup>3</sup> I contribuenti che applicano il metodo delle aliquote saldo non possono optare per l’imposizione delle prestazioni di cui all’articolo 21 capoverso 2 numeri 1–24 e 27–31 LIVA. Se l’imposta viene comunque menzionata nella fattura, l’importo indicato è versato all’AFC fatto salvo l’articolo 27 capoverso 2 LIVA.[^77-5]
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^77-2]: Introdotta dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
-[^77-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^77-2]: Introdotta dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+[^77-3]: Introdotta dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^77-4]: Introdotta dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^77-5]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 78
 
-**Adesione al metodo delle aliquote saldo all’inizio dell’assoggettamento**
+**Metodo delle aliquote saldo all’inizio dell’assoggettamento**[^78-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-<sup>1</sup> I nuovi contribuenti iscritti nel relativo registro (registro dei contribuenti) che intendono applicare il metodo delle aliquote saldo devono notificarlo per scritto all’AFC entro 60 giorni dalla comunicazione del numero IVA.
+<sup>1</sup> I nuovi contribuenti iscritti nel registro dei contribuenti che intendono aderire al metodo delle aliquote saldo devono notificarlo all’AFC entro 60 giorni dalla comunicazione del numero IVA.
 
 <sup>2</sup> L’AFC autorizza l’applicazione del metodo delle aliquote saldo se nei primi 12 mesi sia la cifra d’affari preventivata sia le imposte previste non superano i limiti di cui all’articolo 37 capoverso 1 LIVA.
 
-<sup>3</sup> Se la notifica non ha luogo entro il termine di cui al capoverso 1, il contribuente applica il metodo di rendiconto effettivo per almeno tre anni prima di poter passare al metodo delle aliquote saldo. Il passaggio anticipato è possibile in concomitanza con ogni adeguamento dell’aliquota saldo corrispondente che non sia riconducibile a una modifica delle aliquote di cui agli articoli 25 e 55 LIVA.[^78-1]
+<sup>3</sup> Se la notifica non ha luogo entro il termine di cui al capoverso 1, il contribuente applica il metodo di rendiconto effettivo per almeno tre periodi fiscali interi prima di poter aderire al metodo delle aliquote saldo. Il passaggio anticipato è possibile in concomitanza con ogni adeguamento dell’aliquota saldo corrispondente che non sia riconducibile a una modifica delle aliquote di cui agli articoli 25 e 55 LIVA.
 
-<sup>4</sup> I capoversi 1–3 si applicano per analogia anche in caso di iscrizione retroattiva.
+<sup>4</sup> I capoversi 1–3 si applicano per analogia in caso di iscrizione retroattiva.
 
-<sup>5</sup> L’imposta sul valore aggiunto che, all’inizio dell’assoggettamento, grava le scorte di merci, i mezzi d’esercizio e i beni d’investimento è considerata applicando il metodo delle aliquote saldo. Uno sgravio fiscale successivo non è ammesso.
+<sup>5</sup> L’imposta che, all’inizio dell’assoggettamento, grava i beni e le prestazioni di servizi è considerata applicando il metodo delle aliquote saldo. Uno sgravio fiscale successivo non è ammesso.
 
-[^78-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^78-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 79
 
-**Passaggio dal metodo di rendiconto effettivo al metodo delle aliquote saldo**
+**Passaggio dal metodo di rendiconto effettivo al metodo delle aliquote saldo**[^79-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-<sup>1</sup> I contribuenti che intendono passare dal metodo di rendiconto effettivo al metodo delle aliquote saldo devono notificarlo per scritto all’AFC entro 60 giorni dall’inizio del periodo fiscale a partire dal quale ha luogo il passaggio. In caso di notifica tardiva il passaggio ha luogo all’inizio del periodo fiscale successivo.
+<sup>1</sup> I contribuenti che intendono passare dal metodo di rendiconto effettivo al metodo delle aliquote saldo devono notificarlo all’AFC entro 60 giorni dall’inizio del periodo fiscale a partire dal quale ha luogo il passaggio.
 
 <sup>2</sup> L’AFC autorizza l’applicazione del metodo delle aliquote saldo se nel periodo fiscale precedente non è stato superato alcuno dei limiti di cui all’articolo 37 capoverso 1 LIVA.
 
-<sup>3</sup> In caso di passaggio dal metodo di rendiconto effettivo al metodo delle aliquote saldo non si effettuano correzioni sulle scorte di merci, sui mezzi d’esercizio né sui beni d’investimento. Resta salva una correzione conformemente all’articolo 93, se dal momento del passaggio i beni immobili vengono utilizzati in minor misura per un’attività che dà diritto alla deduzione dell’imposta precedente.[^79-1]
+<sup>3</sup> L’imposta precedente dedotta, comprese le relative quote corrette a titolo di sgravio fiscale successivo, deve essere restituita all’AFC in funzione del valore attuale dei beni e delle prestazioni di servizi al momento del passaggio. La dichiarazione deve avvenire nell’ultimo periodo di rendiconto prima del passaggio. L’articolo 31 capoverso 3 LIVA e gli articoli 69 capoversi 1–3, 70 e 71 si applicano per analogia.
 
 <sup>4</sup>
 
-Se, simultaneamente all’adesione al metodo delle aliquote saldo, è modificato anche il sistema di rendiconto secondo l’articolo 39 LIVA, vanno effettuate le seguenti correzioni:
+Se, simultaneamente all’adesione al metodo delle aliquote saldo, è modificato anche il sistema di rendiconto secondo l’articolo 39 LIVA, vanno inoltre effettuate le seguenti correzioni alla data del passaggio:
 
-- a. se si passa dalle controprestazioni convenute a quelle ricevute, l’AFC accredita al contribuente, applicando l’aliquota legale corrispondente, l’imposta sulle prestazioni imponibili da questi fatturate al momento del passaggio ma non ancora incassate (posizioni debitori) e addebita nel contempo l’imposta precedente sulle prestazioni imponibili fatturate al contribuente ma non ancora pagate (posizioni creditori);
-- b. se si passa dalle controprestazioni ricevute a quelle convenute, l’AFC addebita l’imposta sulle posizioni debitori esistenti al momento del passaggio applicando l’aliquota legale corrispondente e accredita nel contempo l’imposta precedente gravante le posizioni creditori.
+- a.
 
-[^79-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+  se si passa dalle controprestazioni convenute a quelle ricevute, nell’ultimo periodo di rendiconto prima del passaggio il contribuente deve annullare:
+
+  - 1\. l’imposta dichiarata sulle prestazioni imponibili da lui fatturate ma non ancora incassate (posizioni debitori), e
+  - 2\. la deduzione dell’imposta precedente sulle prestazioni imponibili fatturategli ma non ancora pagate (posizioni creditori), a condizione che si tratti di imposte precedenti che non devono già essere corrette in virtù del capoverso 3;
+
+- b.
+
+  se si passa dalle controprestazioni ricevute a quelle convenute, nell’ultimo periodo di rendiconto prima del passaggio il contribuente deve:
+
+  - 1\. dichiarare l’imposta sulle posizioni debitori esistenti applicando l’aliquota legale corrispondente, e
+  - 2\. dedurre l’imposta gravante le posizioni creditori a titolo di imposta precedente.
+
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 80
 
@@ -1355,28 +1499,26 @@ Se l’applicazione del metodo delle aliquote saldo è stata concessa in base a 
 
 #### Art. 81
 
-**Passaggio dal metodo delle aliquote saldo al metodo di rendiconto effettivo**
+**Passaggio dal metodo delle aliquote saldo al metodo di rendiconto effettivo**[^81-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-<sup>1</sup> I contribuenti che intendono passare dal metodo delle aliquote saldo al metodo di rendiconto effettivo devono notificarlo per scritto all’AFC entro 60 giorni dall’inizio del periodo fiscale a partire dal quale ha luogo il passaggio. In caso di notifica tardiva il passaggio ha luogo all’inizio del periodo fiscale successivo.
+<sup>1</sup> I contribuenti che intendono passare dal metodo delle aliquote saldo al metodo di rendiconto effettivo devono notificarlo all’AFC entro 60 giorni dall’inizio del periodo fiscale a partire dal quale ha luogo il passaggio.
 
-<sup>2</sup> Chi, nel corso di due periodi fiscali consecutivi, supera del 50 per cento al massimo uno o entrambi i limiti fissati all’articolo 37 capoverso 1 LIVA deve passare al metodo di rendiconto effettivo all’inizio del periodo fiscale successivo.
+<sup>2</sup> Il passaggio è ammesso prima della scadenza dell’intero periodo fiscale, se il conteggio è effettuato con almeno un’aliquota saldo autorizzata adeguata dall’AFC, senza che l’adeguamento sia riconducibile a una modifica delle aliquote di cui agli articoli 25 e 55 LIVA. Il passaggio avviene al momento della modifica dell’aliquota saldo.
 
-<sup>3</sup> Chi supera di oltre il 50 per cento uno o entrambi i limiti fissati all’articolo 37 capoverso 1 LIVA deve passare al metodo di rendiconto effettivo all’inizio del periodo fiscale successivo. Se i limiti sono già superati nei primi 12 mesi dall’adesione al metodo delle aliquote saldo, l’autorizzazione è revocata con effetto retroattivo.
+<sup>3</sup> Chi, nel corso di tre periodi fiscali consecutivi, supera uno o entrambi i limiti fissati all’articolo 37 capoverso 1 LIVA deve passare al metodo di rendiconto effettivo all’inizio del periodo fiscale successivo.
 
-<sup>4</sup> Se il superamento di uno o di entrambi i limiti di oltre il 50 per cento è riconducibile all’assunzione di un patrimonio o di parte di esso nell’ambito della procedura di notifica, il contribuente può decidere se intende passare al metodo di rendiconto effettivo retroattivamente, all’inizio del periodo fiscale in cui ha avuto luogo l’assunzione, o all’inizio del periodo fiscale successivo.
+<sup>4</sup> L’imposta gravante beni e prestazioni di servizi può essere dedotta a titolo d’imposta precedente nel primo periodo di rendiconto dopo il passaggio in funzione del valore attuale dei beni e delle prestazioni di servizi al momento del passaggio. L’articolo 32 capoverso 2 LIVA e gli articoli 72 capoversi 1–3, 73 e 74 si applicano per analogia.
 
-<sup>5</sup> In caso di passaggio dal metodo delle aliquote saldo al metodo di rendiconto effettivo non si effettuano correzioni sulle scorte di merci, sui mezzi d’esercizio né sui beni d’investimento. Resta salvo uno sgravio fiscale successivo conformemente all’articolo 32 LIVA, se dal momento del passaggio le scorte di merci, i mezzi d’esercizio o i beni d’investimento vengono utilizzati in maggior misura per un’attività che dà diritto alla deduzione dell’imposta precedente.[^81-1]
+<sup>5</sup>
 
-<sup>6</sup>
+Se, simultaneamente al passaggio al metodo di rendiconto effettivo, è modificato anche il sistema di rendiconto secondo l’articolo 39 LIVA, vanno inoltre effettuate le seguenti correzioni alla data del passaggio:
 
-Se, simultaneamente al passaggio al metodo di rendiconto effettivo, è modificato anche il sistema di rendiconto secondo l’articolo 39 LIVA, occorre effettuare le seguenti correzioni:
+- a. se si passa dalle controprestazioni convenute a quelle ricevute, nell’ultimo periodo di rendiconto prima del passaggio il contribuente deve dedurre l’imposta che aveva dichiarato sulle posizioni debitori; va inoltre applicata l’imposta sulle posizioni creditori per le quali è ammesso uno sgravio fiscale successivo in virtù del capoverso 4;
+- b. se si passa dalle controprestazioni ricevute a quelle convenute, nell’ultimo periodo di rendiconto prima del passaggio il contribuente deve dichiarare l’imposta sulle posizioni debitori applicando le aliquote saldo autorizzate; sulle posizioni creditori non vanno effettuate correzioni.
 
-- a. se si passa dalle controprestazioni convenute a quelle ricevute, l’AFC accredita al contribuente, applicando le aliquote saldo autorizzate, l’imposta sulle posizioni debitori esistenti al momento del passaggio. Sulle posizioni creditori non vanno effettuate correzioni;
-- b. se si passa dalle controprestazioni ricevute a quelle convenute, l’AFC addebita, applicando le aliquote saldo autorizzate, l’imposta sulle posizioni debitori esistenti al momento del passaggio. Sulle posizioni creditori non vanno effettuate correzioni.
-
-[^81-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 82
 
@@ -1386,34 +1528,21 @@ Se, simultaneamente al passaggio al metodo di rendiconto effettivo, è modificat
 
 <sup>1</sup> Se un contribuente che applica il metodo delle aliquote saldo sospende la sua attività commerciale o è esentato dall’assoggettamento poiché non supera il limite della cifra d’affari di cui all’articolo 10 capoverso 2 lettera a LIVA, le cifre d’affari realizzate sino al momento della cancellazione dal registro dei contribuenti, i lavori iniziati e, in caso di rendiconto secondo le controprestazioni ricevute, anche le posizioni debitori devono essere conteggiati alle aliquote saldo autorizzate.
 
-<sup>2</sup>
+<sup>2 e <sup>3</sup></sup> …[^82-1]
 
-Al momento della cancellazione dal registro dei contribuenti l’imposta sul valore attuale dei beni immobili è conteggiata all’aliquota normale in vigore in quel momento se:[^82-1]
-
-- a. il contribuente ha acquistato, costruito o ristrutturato il bene quando applicava ancora il metodo di rendiconto effettivo e ha effettuato la deduzione dell’imposta precedente;
-- b.[^82-2] il contribuente ha acquistato il bene nell’ambito della procedura di notifica da un contribuente che applica il metodo di rendiconto effettivo.
-
-<sup>3</sup> Per stabilire il valore dei beni immobili si tiene conto di un ammortamento lineare di un ventesimo per ogni anno trascorso.
-
-[^82-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^82-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^82-1]: Abrogati dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 83
 
-**Assunzione di un patrimonio nell’ambito della procedura di notifica**
+**Assunzione di un patrimonio nell’ambito della procedura di notifica**[^83-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-<sup>1</sup>
+<sup>1</sup> Se un contribuente che applica il metodo delle aliquote saldo assume un patrimonio o parte di esso oppure altri valori patrimoniali nell’ambito della procedura di notifica di cui all’articolo 38 LIVA da un contribuente che applica il metodo di rendiconto effettivo, occorre effettuare una correzione ai sensi dell’articolo 79 capoverso 3; è fatto salvo il capoverso 2.
 
-Se un contribuente che applica il metodo delle aliquote saldo non utilizza oppure utilizza in misura inferiore rispetto all’alienante, per un’attività che dà diritto alla deduzione dell’imposta precedente, un patrimonio o parte di esso dal momento della sua assunzione nell’ambito della procedura di notifica di cui all’articolo 38 LIVA, occorre procedere come segue:[^83-1]
+<sup>2</sup> Non vanno effettuate correzioni se il patrimonio o parte di esso oppure gli altri valori patrimoniali sono stati utilizzati dall’alienante per un’attività che non dà diritto alla deduzione dell’imposta precedente.
 
-- a. se l’alienante applica il metodo delle aliquote saldo, non vanno apportate correzioni;
-- b. se l’alienante applica il metodo effettivo, il consumo proprio ai sensi dell’articolo 31 LIVA va conteggiato, tenendo conto dell’articolo 38 capoverso 4 LIVA, sulla parte del patrimonio che in seguito all’assunzione è utilizzata per un’attività che non dà diritto alla deduzione dell’imposta precedente.
-
-<sup>2</sup> Se un contribuente che applica il metodo delle aliquote saldo utilizza un patrimonio, o parte di esso, assunto nell’ambito della procedura di notifica di cui all’articolo 38 LIVA in misura superiore rispetto all’alienante per un’attività che dà diritto alla deduzione dell’imposta precedente, non possono essere apportate correzioni.
-
-[^83-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^83-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 84
 
@@ -1425,208 +1554,131 @@ Se un contribuente che applica il metodo delle aliquote saldo non utilizza oppur
 
 <sup>2</sup> Se cessa o inizia un’attività o le quote di cifra d’affari delle attività cambiano a tal punto da rendere necessaria una nuova attribuzione delle aliquote saldo, il contribuente deve mettersi in contatto con l’AFC.
 
-<sup>3</sup> I contribuenti ai quali sono state concesse due distinte aliquote saldo devono contabilizzare separatamente i proventi afferenti a ognuna delle due aliquote saldo.
+<sup>3</sup> I contribuenti ai quali sono state concesse più aliquote saldo devono contabilizzare separatamente i proventi afferenti a ognuna di queste aliquote saldo.[^84-1]
+
+[^84-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 85
 
-**Autorizzazione all’applicazione di un’unica aliquota saldo**
+[^85-1]
 
-### art. 37 cpv. 1–4 LIVA)
-
-Il contribuente è autorizzato ad applicare un’unica aliquota saldo tranne nei casi di cui all’articolo 86 capoverso 1 o 89 capoverso 3 o 5.
+[^85-1]: Abrogato dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 86
 
-**Autorizzazione all’applicazione di due aliquote saldo**
+**Autorizzazione all’applicazione delle aliquote saldo**[^86-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-<sup>1</sup>
-
-Il contribuente è autorizzato ad applicare due aliquote saldo se:
-
-- a. esercita due o più attività per le quali l’AFC ha previsto due aliquote saldo distinte;
-- b.[^86-1] almeno due di queste attività costituiscono ciascuna oltre il 10 per cento della cifra d’affari complessiva derivante da prestazioni imponibili.
+<sup>1</sup> Per ogni attività che costituisce oltre il 10 per cento della cifra d’affari complessiva derivante da prestazioni imponibili è autorizzata l’applicazione dell’aliquota saldo corrispondente.
 
 <sup>2</sup>
 
-Il limite del 10 per cento è calcolato:
+Per accertare se il limite del 10 per cento sia superato sono determinanti:
 
-- a. per i nuovi contribuenti e le persone che iniziano una nuova attività: sulla base delle cifre d’affari presumibili;
-- b. per gli altri contribuenti: sulla base della cifra d’affari degli ultimi due periodi fiscali.
+- a. per i nuovi contribuenti e le persone che iniziano una nuova attività: le cifre d’affari presumibili nei primi 12 mesi;
+- b. per gli altri contribuenti: le cifre d’affari realizzate negli ultimi tre periodi fiscali; in ognuno di questi periodi fiscali l’attività in questione deve avere costituito oltre il 10 per cento della cifra d’affari complessiva derivante da prestazioni imponibili.
 
 <sup>3</sup> Nell’accertare se il limite del 10 per cento sia superato, le cifre d’affari di attività cui si applica la stessa aliquota saldo vanno cumulate.
 
-<sup>4</sup> Se, nel corso di due periodi fiscali consecutivi, soltanto un’attività o più attività per le quali è prevista la medesima aliquota saldo superano il limite del 10 per cento, l’autorizzazione all’applicazione della seconda aliquota saldo decade all’inizio del terzo periodo fiscale.
+<sup>4</sup> Se, nel corso di tre periodi fiscali consecutivi, la cifra d’affari di un’attività o di più attività per le quali è stabilita la stessa aliquota saldo non supera più il limite del 10 per cento, l’autorizzazione all’applicazione dell’aliquota saldo in questione decade all’inizio del quarto periodo fiscale.
 
-[^86-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^86-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 87
 
-**Aliquote saldo autorizzate**
+[^87-1]
 
-### (art. 37 cpv. 1–4 LIVA)
-
-<sup>1</sup> Se soltanto due attività del contribuente superano il limite del 10 per cento, è autorizzata l’applicazione delle due aliquote saldo previste per tali attività.
-
-<sup>2</sup>
-
-Se più di due attività superano il limite del 10 per cento, è autorizzata l’applicazione delle seguenti aliquote saldo:
-
-- a. l’aliquota saldo più elevata tra quelle previste per le attività che costituiscono oltre il 10 per cento della cifra d’affari complessiva;
-- b. una seconda aliquota saldo, che il contribuente può scegliere tra le aliquote previste per le altre attività che costituiscono oltre il 10 per cento della cifra d’affari complessiva.
+[^87-1]: Abrogato dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 88
 
-**Imposizione delle singole attività**
+**Imposizione delle singole attività**[^88-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-<sup>1</sup>
+<sup>1</sup> Le cifre d’affari delle attività del contribuente autorizzato ad applicare più aliquote saldo vanno conteggiate all’aliquota saldo autorizzata stabilita per l’attività in questione.
 
-Le cifre d’affari delle attività del contribuente autorizzato ad applicare due aliquote saldo vanno conteggiate:
+<sup>2</sup>
 
-- a. all’aliquota saldo autorizzata più elevata, se l’aliquota saldo prevista per l’attività in questione è superiore all’aliquota saldo autorizzata più bassa;
-- b. all’aliquota saldo autorizzata più bassa, negli altri casi.
+Se per un’attività non è stata autorizzata l’applicazione dell’aliquota saldo corrispondente, le relative cifre d’affari vanno conteggiate:
 
-<sup>2</sup> Nei casi di cui all’articolo 19 capoverso 2 LIVA la controprestazione complessiva può essere conteggiata all’aliquota saldo autorizzata applicabile alla prestazione preponderante. Se tuttavia le prestazioni sono tutte soggette alla medesima aliquota di cui all’articolo 25 LIVA, la controprestazione complessiva andrà conteggiata all’aliquota saldo autorizzata più elevata, salvo che il contribuente riesca a dimostrare quale percentuale della prestazione complessiva sia relativa alle singole prestazioni parziali.[^88-1]
+- a. all’aliquota saldo autorizzata immediatamente inferiore, se non è stata autorizzata un’aliquota più alta;
+- b. all’aliquota saldo autorizzata immediatamente superiore, negli altri casi.
 
-[^88-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+<sup>3</sup> Nei casi di cui all’articolo 19 capoverso 2 LIVA la controprestazione complessiva può essere conteggiata all’aliquota saldo autorizzata determinante per la prestazione preponderante secondo gli articoli 84 e 86 e i capoversi 1 e 2.
+
+<sup>4</sup> Se le prestazioni sono tutte soggette alla medesima aliquota di cui all’articolo 25 LIVA, le singole prestazioni parziali vanno conteggiate alle aliquote saldo autorizzate corrispondenti.
+
+<sup>5</sup> Se il contribuente non è in grado di dimostrare quali percentuali siano relative alle singole prestazioni parziali, la controprestazione complessiva va conteggiata all’aliquota saldo massima autorizzata per le prestazioni in questione.
+
+<sup>6</sup> Il contribuente può decidere volontariamente di conteggiare la cifra d’affari complessiva derivante da prestazioni imponibili all’aliquota saldo massima autorizzata.
+
+[^88-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 89
 
-**Regola speciale per i settori misti**
+[^89-1]
 
-### (art. 37 cpv. 1–4 LIVA)
-
-<sup>1</sup> I settori misti sono settori in cui sono svolte usualmente numerose attività che, considerate singolarmente, andrebbero conteggiate ad aliquote saldo distinte.
-
-<sup>2</sup>
-
-L’AFC stabilisce in un’ordinanza:
-
-- a. l’aliquota saldo applicabile ai vari settori misti;
-- b. le attività principali e accessorie usuali nei vari settori misti.
-
-<sup>3</sup> Se un’attività accessoria usuale per il settore o più attività accessorie usuali per il settore per le quali l’ordinanza dell’AFC prevede la stessa aliquota saldo costituiscono oltre il 50 per cento della cifra d’affari complessiva realizzata con l’attività principale imponibile e con le attività accessorie imponibili usuali per il settore, il rendiconto secondo il metodo delle aliquote saldo è retto dagli articoli 86–88.[^89-1]
-
-<sup>4</sup>
-
-Il limite del 50 per cento è calcolato:
-
-- a. per i nuovi contribuenti e le persone che iniziano una nuova attività: sulla base delle cifre d’affari presumibili;
-- b. per gli altri contribuenti: sulla base della cifra d’affari degli ultimi due periodi fiscali.
-
-<sup>5</sup> Se un contribuente attivo in un settore misto esercita anche attività estranee al settore, il rendiconto secondo il metodo delle aliquote saldo relativo a tali attività è retto dagli articoli 86–88.
-
-[^89-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^89-1]: Abrogato dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 90
 
-**Procedure speciali**
+**Procedure speciali**[^90-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-<sup>1</sup>
+L’AFC mette a disposizione delle aziende e delle manifestazioni secondo l’articolo 55 capoverso 3 una regolamentazione forfetaria per la ripartizione delle cifre d’affari tra prestazioni della ristorazione e prestazioni derivanti dalla vendita di derrate alimentari destinate ad essere asportate secondo l’articolo 55 capoverso 2.
 
-L’AFC mette a disposizione dei contribuenti che applicano il metodo delle aliquote saldo una procedura per il rimborso approssimativo delle imposte precedenti in caso di:
-
-- a. forniture di beni verso l’estero, sempre che il bene sia stato fabbricato in proprio o acquistato gravato dall’imposta;
-- b. prestazioni a beneficiari di cui all’articolo 2 della legge del 22 giugno 2007[^90-1] sullo Stato ospite (LSO), sempre che il luogo della prestazione sia situato in territorio svizzero e, in caso di forniture, il bene sia stato fabbricato in proprio o acquistato gravato dall’imposta.
-
-<sup>2</sup>
-
-I contribuenti che applicano il metodo delle aliquote saldo e acquistano beni mobili accertabili senza che sia loro chiaramente trasferita l’imposta possono applicare, al momento della vendita di questi beni, la procedura di computo dell’imposta precedente fittizia messa a disposizione dall’AFC. Tale procedura non è applicabile agli autoveicoli usati il cui peso complessivo non supera i 3500 kg né ai beni:
-
-- a. che il contribuente ha ricevuto nell’ambito della procedura di notifica da una persona che applica il metodo di rendiconto effettivo;
-- b. di cui il contribuente sa o dovrebbe sapere che sono stati importati in esenzione d’imposta;
-- c. che il contribuente ha acquistato in territorio svizzero in esenzione d’imposta; o
-- d. che il contribuente ha ricevuto nell’ambito di una liquidazione dei danni, se gli importi pagati eccedono il valore effettivo del bene al momento della sua assunzione.[^90-2]
-
-<sup>2bis</sup> La procedura di cui al capoverso 2 si applica per analogia quando si vendono pezzi da collezione (art. 48*a*).[^90-3]
-
-<sup>3</sup> Per aziende e manifestazioni di cui all’articolo 55 capoverso 3, l’AFC prevede un disciplinamento forfetario per la ripartizione approssimativa delle cifre d’affari sulle due aliquote saldo.
-
-[^90-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^90-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^90-3]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 91
 
-**Rendiconto dell’imposta sull’acquisto**
+**Rendiconto dell’imposta sull’acquisto**[^91-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-I contribuenti che applicano il metodo delle aliquote saldo e acquistano prestazioni di imprese con sede all’estero secondo gli articoli 45–49 LIVA devono versare semestralmente l’imposta sull’acquisto all’aliquota legale corrispondente.
+I contribuenti che applicano il metodo delle aliquote saldo e acquistano prestazioni secondo l’articolo 45 capoverso 1 LIVA devono versare l’imposta sull’acquisto all’aliquota legale applicabile nel periodo di rendiconto corrispondente.
+
+[^91-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 92
 
-**Consumo proprio**
+**Consumo proprio**[^92-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-Eccezion fatta per l’articolo 83 capoverso 1 lettera b, il consumo proprio è considerato mediante l’applicazione del metodo delle aliquote saldo.
+Il consumo proprio è considerato mediante l’applicazione del metodo delle aliquote saldo.
+
+[^92-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 93
 
-**Correzioni per beni immobili**
+[^93-1]
 
-### (art. 37 cpv. 1–4 LIVA)
-
-<sup>1</sup>
-
-Se un bene immobile non è più utilizzato nell’ambito dell’attività imprenditoriale del contribuente o viene destinato a un’attività esclusa dall’imposta secondo l’articolo 21 capoverso 2 LIVA, l’imposta è calcolata sul valore attuale all’aliquota normale in vigore in quel momento se:[^93-1]
-
-- a. il contribuente ha acquistato, costruito o ristrutturato il bene quando applicava il metodo di rendiconto effettivo e ha effettuato la deduzione dell’imposta precedente;
-- b.[^93-2] il contribuente ha acquistato il bene nell’ambito della procedura di notifica da un contribuente che applica il metodo di rendiconto effettivo.
-
-<sup>2</sup> Per stabilire il valore dei beni immobili si tiene conto di un ammortamento lineare di un ventesimo per ogni anno trascorso.
-
-[^93-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^93-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^93-1]: Abrogato dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 94
 
-**Prestazioni a persone strettamente vincolate e al personale**
+**Prestazioni a persone strettamente vincolate e al personale**[^94-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-[^94-1]
+<sup>1</sup> Le prestazioni a persone strettamente vincolate e al personale vanno conteggiate all’aliquota saldo autorizzata determinante per la prestazione in questione secondo gli articoli 84, 86 e 88.
 
-<sup>1</sup>
+<sup>2</sup> Le prestazioni che devono figurare nel certificato di salario ai fini delle imposte dirette sono sempre considerate come eseguite a titolo oneroso. L’imposta è calcolata sulla base dell’importo determinante anche per le imposte dirette.
 
-Fatto salvo l’articolo 93, le prestazioni a persone strettamente vincolate vanno considerate, nel rendiconto secondo il metodo delle aliquote saldo, come segue:
-
-- a. e b.[^94-2] ...
-- c.[^94-3] i beni e le prestazioni di servizi sono conteggiati all’aliquota saldo autorizzata alla controprestazione pagata, ma almeno al valore che sarebbe stato convenuto fra terzi indipendenti;
-- d. se si applicano due aliquote saldo e la prestazione non può essere attribuita a un’attività, si applica l’aliquota più elevata.
-
-<sup>2</sup>
-
-Nel rendiconto secondo il metodo delle aliquote saldo, le prestazioni al personale vanno considerate come segue:
-
-- a. i beni consegnati a titolo oneroso e le prestazioni di servizi eseguite a titolo oneroso al personale vanno conteggiati all’aliquota saldo autorizzata;
-- b. se si applicano due aliquote saldo e la prestazione non può essere attribuita a un’attività, si applica l’aliquota più elevata.
-
-<sup>3</sup> Alle persone strettamente vincolate che fanno parte del personale si applica il capoverso 2.[^94-4]
-
-<sup>4</sup> Le prestazioni che devono figurare nel certificato di salario ai fini delle imposte dirette sono considerate come eseguite a titolo oneroso. L’imposta è calcolata sull’importo determinante anche per le imposte dirette.[^94-5]
-
-[^94-1]: La correzione del 12 dic. 2017 concerne soltanto il testo francese ([RU 2017 7263](https://fedlex.data.admin.ch/eli/oc/2017/789)).
-[^94-2]: Abrogate dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-4]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-5]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^94-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 95
 
-**Vendita di mezzi d’esercizio e beni d’investimento**[^95-1]
+**Vendita di mezzi d’esercizio, beni d’investimento e prestazioni di servizi attivabili**[^95-1]
 
 ### (art. 37 cpv. 1–4 LIVA)
 
-La vendita di mezzi d’esercizio e beni d’investimento che non sono stati impiegati esclusivamente per l’esecuzione di prestazioni escluse dall’imposta è conteggiata all’aliquota saldo autorizzata. Se sono state autorizzate due aliquote saldo e il mezzo d’esercizio o il bene d’investimento è stato utilizzato in entrambe le attività, le controprestazioni sono conteggiate all’aliquota saldo più elevata.
+La vendita di mezzi d’esercizio, beni d’investimento e prestazioni di servizi attivabili che non sono stati impiegati esclusivamente per l’esecuzione di prestazioni escluse dall’imposta è conteggiata all’aliquota saldo autorizzata determinante per la prestazione in questione secondo gli articoli 84, 86 e 88.
 
-[^95-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^95-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 96
 
@@ -1644,32 +1696,53 @@ Se applica il metodo delle aliquote saldo e fattura una prestazione applicando u
 
 ### (art. 37 cpv. 5 LIVA)
 
-<sup>1</sup> Le istituzioni affini di cui all'articolo 37 capoverso 5 LIVA sono segnatamente i consorzi comunali e gli altri raggruppamenti di collettività pubbliche, le parrocchie, le scuole e gli internati privati, gli ospedali privati, i centri medici, i centri di riabilitazione, le case di cura, le organizzazioni private Spitex, le case di riposo, le case di cura, le residenze per anziani, le imprese attive nel sociale come i laboratori per disabili, le residenze e le scuole speciali, i gestori di impianti sportivi e centri culturali sussidiati da collettività pubbliche, le assicurazioni cantonali di edifici, le cooperative idriche, le imprese di trasporto pubblico, le corporazioni forestali di diritto privato sussidiate da collettività pubbliche, gli organizzatori di manifestazioni non ricorrenti nei settori della cultura e dello sport, le associazioni secondo gli articoli 60–79 del Codice civile (CC)[^97-1] e le fondazioni ai sensi degli articoli 80–89<sup>bis</sup> CC.[^97-2]
+<sup>1</sup>
+
+Le istituzioni affini di cui all’articolo 37 capoverso 5 LIVA sono segnatamente:
+
+- a. i consorzi comunali e gli altri raggruppamenti di collettività pubbliche;
+- b. le parrocchie;
+- c. le scuole e gli internati privati;
+- d. gli ospedali privati e i centri medici;
+- e. i centri di riabilitazione e i centri per le cure di convalescenza;
+- f. le organizzazioni private Spitex;
+- g. le case di riposo, le case di cura e le residenze per anziani;
+- h. le imprese attive nel sociale come i laboratori per disabili, le residenze e le scuole speciali;
+- i. i gestori di impianti sportivi e centri culturali sussidiati da collettività pubbliche;
+- j. le assicurazioni cantonali di edifici;
+- k. le cooperative idriche;
+- l. le imprese di trasporto pubblico;
+- m. le corporazioni di diritto privato sussidiate da collettività pubbliche;
+- n. gli organizzatori di manifestazioni non ricorrenti nei settori della cultura e dello sport;
+- o. le associazioni secondo gli articoli 60–79 del Codice civile (CC)[^97-1]; e
+- p. le fondazioni ai sensi degli articoli 80–89<sup>bis</sup> CC.[^97-2]
 
 <sup>2</sup> Non sono previsti importi limite per l’applicazione del metodo delle aliquote forfetarie.
 
-<sup>3</sup> I contribuenti che applicano il metodo delle aliquote forfetarie non possono optare per l’imposizione delle prestazioni di cui all’articolo 21 capoverso 2 numeri 1–24, 27, 29 e 30 LIVA. Se l’imposta viene comunque menzionata nella fattura, l’importo indicato è versato all’AFC, fatto salvo l’articolo 27 capoverso 2 LIVA.[^97-3]
+<sup>3</sup> I contribuenti che applicano il metodo delle aliquote forfetarie non possono optare per l’imposizione delle prestazioni di cui all’articolo 21 capoverso 2 numeri 1–24, 27 e 29–31 LIVA. Se l’imposta viene comunque fatturata, l’importo indicato deve essere versato all’AFC, fatto salvo l’articolo 27 capoverso 2 LIVA.[^97-3]
 
 <sup>4</sup> I servizi autonomi di cui all’articolo 12 capoverso 1 LIVA che si riuniscono in un unico soggetto fiscale (art. 12 cpv. 2 LIVA) possono applicare il metodo delle aliquote forfetarie.[^97-4]
 
-[^97-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^97-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^97-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^97-4]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^97-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^97-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^97-3]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^97-4]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 98
 
-**Adesione al metodo delle aliquote forfetarie e cambiamento del metodo di rendiconto**
+**Adesione al metodo delle aliquote forfetarie e cambiamento del metodo di rendiconto**[^98-1]
 
 ### (art. 37 cpv. 5 LIVA)
 
-<sup>1</sup> Le collettività pubbliche e le istituzioni affini di cui all’articolo 97 capoverso 1 che intendono applicare il metodo delle aliquote forfetarie devono notificarlo per scritto all’AFC.
+<sup>1</sup> Le collettività pubbliche e le istituzioni affini di cui all’articolo 97 capoverso 1 che intendono applicare il metodo delle aliquote forfetarie devono notificarlo all’AFC.
 
-<sup>2</sup> Il metodo delle aliquote forfetarie è mantenuto per almeno tre periodi fiscali. Se il contribuente sceglie il metodo di rendiconto effettivo, può passare al metodo delle aliquote forfetarie soltanto dopo dieci anni. Il passaggio anticipato è possibile in occasione di qualsiasi adeguamento dell’aliquota forfetaria che non sia riconducibile a una modifica delle aliquote d’imposta di cui agli articoli 25 e 55 LIVA.[^98-1]
+<sup>2</sup> Il metodo delle aliquote forfetarie è mantenuto per almeno un intero periodo fiscale. Se il contribuente sceglie il metodo di rendiconto effettivo, può passare al metodo delle aliquote forfetarie soltanto dopo un intero periodo fiscale.
 
-<sup>3</sup> Il passaggio a un altro metodo di rendiconto è ammesso per l’inizio di un periodo fiscale. Deve essere notificato per scritto all’AFC entro 60 giorni dall’inizio del periodo fiscale a partire dal quale ha luogo il passaggio. In caso di notifica tardiva, il passaggio ha luogo all’inizio del periodo fiscale successivo.
+<sup>3</sup> Il passaggio anticipato al metodo di rendiconto effettivo o al metodo delle aliquote forfetarie è ammesso in concomitanza con ogni adeguamento dell’aliquota forfetaria corrispondente che non sia riconducibile a una modifica delle aliquote d’imposta di cui agli articoli 25 e 55 LIVA.
 
-[^98-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+<sup>4</sup> Il passaggio a un altro metodo di rendiconto è ammesso per l’inizio di un periodo fiscale. Deve essere notificato all’AFC entro 60 giorni dall’inizio del periodo fiscale a partire dal quale ha luogo il passaggio.
+
+[^98-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 99
 
@@ -1681,17 +1754,15 @@ Se applica il metodo delle aliquote saldo e fattura una prestazione applicando u
 
 <sup>2</sup> L’AFC fissa le aliquote forfetarie tenendo conto della quota dell’imposta precedente usuale per il settore. Un’attività per la quale non è stata fissata un’aliquota forfetaria va conteggiata all’aliquota applicabile secondo il metodo delle aliquote saldo.
 
-<sup>3</sup> Il contribuente deve conteggiare ognuna delle sue attività all’aliquota forfetaria determinante. Il numero delle aliquote forfetarie applicabili non è limitato.
+<sup>3</sup> Il contribuente deve conteggiare ognuna delle sue attività all’aliquota forfetaria determinante, indipendentemente dall’importo della relativa cifra d’affari. Può anche decidere volontariamente di conteggiare la cifra d’affari complessiva derivante da prestazioni imponibili all’aliquota forfetaria massima autorizzata.[^99-1]
+
+[^99-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 99a
 
-**Rendiconto dell’imposta sull’acquisto**[^99a-1]
+[^99a-1]
 
-### (art. 37 cpv. 5 LIVA)
-
-I contribuenti che applicano il metodo delle aliquote forfetarie e acquistano prestazioni di imprese con sede all’estero secondo gli articoli 45–49 LIVA versano trimestralmente l’imposta sull’acquisto all’aliquota legale corrispondente.
-
-[^99a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^99a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Abrogato dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 100
 
@@ -1768,7 +1839,9 @@ In caso di passaggio dal rendiconto secondo le controprestazioni convenute al re
 - a. dedurre dalle controprestazioni ricevute in tale periodo di rendiconto le posizioni debitori esistenti al momento del passaggio; e
 - b. dedurre dall’imposta precedente pagata in tale periodo di rendiconto l’imposta precedente sulle posizioni creditori esistenti al momento del passaggio.
 
-<sup>3</sup> Se, simultaneamente alla modifica del sistema di rendiconto, è modificato anche il metodo di rendiconto secondo gli articoli 36 e 37 LIVA, si applica l’articolo 79 capoverso 4 o 81 capoverso 6 della presente ordinanza.
+<sup>3</sup> Se, simultaneamente alla modifica del sistema di rendiconto, è modificato anche il metodo di rendiconto secondo gli articoli 36 e 37 LIVA, si applica l’articolo 79 capoverso 4 o 81 capoverso 5[^106-1] della presente ordinanza.
+
+[^106-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2025.
 
 #### Art. 107
 
@@ -1778,14 +1851,16 @@ In caso di passaggio dal rendiconto secondo le controprestazioni convenute al re
 
 [^107-1]
 
-<sup>1</sup> In caso di passaggio dal rendiconto secondo le controprestazioni ricevute al rendiconto secondo le controprestazioni convenute, nel periodo di rendiconto successivo al passaggio il contribuente conteggia i crediti esistenti al momento del passaggio applicando le aliquote saldo o forfetarie autorizzate.[^107-2]
+<sup>1</sup> Se passa dal rendiconto secondo le controprestazioni ricevute al rendiconto secondo le controprestazioni convenute, nel periodo di rendiconto successivo al passaggio, il contribuente deve conteggiare le posizioni debitori esistenti al momento del passaggio applicando le aliquote saldo o forfetarie autorizzate determinanti secondo gli articoli 84, 86 e 88 per le attività da cui derivano dette posizioni. [^107-2]
 
-<sup>2</sup> In caso di passaggio dal rendiconto secondo le controprestazioni convenute al rendiconto secondo le controprestazioni ricevute, nel periodo di rendiconto successivo al passaggio il contribuente deve dedurre le posizioni debitori esistenti al momento del passaggio dalle controprestazioni ricevute in tale periodo di rendiconto.
+<sup>2</sup> Se passa dal rendiconto secondo le controprestazioni convenute al rendiconto secondo le controprestazioni ricevute, nel periodo di rendiconto successivo al passaggio, il contribuente deve dedurre le posizioni debitori esistenti al momento del passaggio dalle controprestazioni ricevute in tale periodo di rendiconto provenienti dalle attività corrispondenti.[^107-3]
 
-<sup>3</sup> Se, simultaneamente alla modifica del sistema di rendiconto, è modificato anche il metodo di rendiconto, si applica l’articolo 79 capoverso 4 o 81 capoverso 6.
+<sup>3</sup> Se, simultaneamente alla modifica del sistema di rendiconto, è modificato anche il metodo di rendiconto, si applica l’articolo 79 capoverso 4 o 81 capoverso 5[^107-4].
 
-[^107-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^107-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^107-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^107-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^107-3]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^107-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2025.
 
 #### Art. 108
 
@@ -1801,7 +1876,7 @@ Le disposizioni sul segreto di cui all’articolo 74 LIVA non si applicano in ca
 
 [^109110-1]
 
-[^109110-1]: Abrogati dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^109110-1]: Abrogati dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 111
 
@@ -1828,9 +1903,37 @@ Ai supporti di dati senza valore di mercato sono equiparati segnatamente i segue
 - b. atti giuridici di avvocati, perizie di esperti, traduzioni, risultati di ricerche ed esperimenti, nonché risultati di analisi, valutazioni e simili;
 - c. diritti rappresentati da un titolo e diritti immateriali.
 
+#### Art. 111a
+
+**Trasferimento di diritti di emissione e di diritti analoghi**[^111a-1]
+
+### (art. 45 cpv. 1 lett. e LIVA)
+
+<sup>1</sup> Il trasferimento di diritti di emissione e di altri diritti di cui all’articolo 45 capoverso 1 lettera e LIVA non soggiace all’imposta sulle prestazioni eseguite sul territorio svizzero.
+
+<sup>2</sup> Se, in occasione del trasferimento, è fatturata l’imposta sulle prestazioni eseguite sul territorio svizzero, tale imposta non può essere dedotta a titolo di imposta precedente, salvo che l’imposta sia stata conteggiata e pagata.
+
+[^111a-1]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 ## Titolo quarto: Imposta sull’importazione
 
-### Capitolo 1: Pluralità di prestazioni ed esenzione dall’imposta sull’importazione
+### Capitolo 1*:* Impresa di vendita per corrispondenza anziché piattaforma quale persona assoggettata all’imposta sull’importazione
+
+[^tit4-chap1-1]
+
+[^tit4-chap1-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+### (art. 51 LIVA)
+
+#### Art. 111b
+
+In caso di importazione di beni, l’impresa di vendita per corrispondenza può concordare con il fornitore della prestazione secondo l’articolo 20*a* LIVA di effettuare l’importazione a proprio nome, purché l’impresa di vendita per corrispondenza soddisfi almeno uno dei due requisiti di cui all’articolo 7 capoverso 3 LIVA.
+
+### Capitolo 1*a*: Pluralità di prestazioni ed esenzione dall’imposta sull’importazione
+
+[^tit4-chap1a-1]
+
+[^tit4-chap1a-1]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 112
 
@@ -1851,25 +1954,29 @@ Dal calcolo dei costi devono risultare:
 
 <sup>4</sup> Per verificare la correttezza del calcolo, l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^112-1] può esigere documenti supplementari.
 
-[^112-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022. Di detta modifica è tenuto conto in tutto il presente testo.
+[^112-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022. Di detta modifica è tenuto conto in tutto il presente testo.
 
 #### Art. 113
 
 **Esenzione dall’imposta sull’importazione**
 
-### (art. 53 cpv. 2 e 107 cpv. 2 LIVA)
+### (art. 53 cpv. 2 LIVA)
+
+[^113-1]
 
 Sono esenti dall’imposta sull’importazione:
 
-- a. i beni destinati a capi di Stato, nonché a servizi diplomatici, consolari e internazionali e loro membri, esenti da dazio secondo l’articolo 6 dell’ordinanza del 1° novembre 2006[^113-1] sulle dogane (OD);
+- a. i beni destinati a capi di Stato, nonché a servizi diplomatici, consolari e internazionali e loro membri, esenti da dazio secondo l’articolo 6 dell’ordinanza del 1° novembre 2006[^113-2] sulle dogane (OD);
 - b. le bare, le urne cinerarie e gli accessori funebri esenti da dazio secondo l’articolo 7 OD;
 - c. i premi di onore, gli oggetti ricordo e i doni d’onore esenti da dazio secondo l’articolo 8 OD;
 - d. le scorte per carrozze ristorante esenti da dazio secondo l’articolo 10 OD;
 - e. le scorte, i pezzi di ricambio e gli oggetti dell’equipaggiamento su battelli esenti da dazio secondo l’articolo 11 OD;
-- f. le scorte, i pezzi di ricambio e gli oggetti dell’equipaggiamento a bordo di aeromobili esenti da dazio secondo l’articolo 12 OD.
-- g. le monete d’oro e l’oro fino secondo l’articolo 44.
+- f. le scorte, i pezzi di ricambio e gli oggetti dell’equipaggiamento a bordo di aeromobili esenti da dazio secondo l’articolo 12 OD;
+- g.[^113-3] …
 
-[^113-1]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^113-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^113-2]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^113-3]: Abrogata dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Capitolo 2: Determinazione e garanzia del debito fiscale sull’importazione
 
@@ -1900,8 +2007,8 @@ L’importo della garanzia ammonta, in caso di crediti fiscali sorti condizionat
 
 <sup>2</sup> Per i transiti internazionali, l’ammontare della garanzia è determinato conformemente ai trattati internazionali.
 
-[^115-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^115-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^115-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^115-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^115-3]: Introdotta dall’all. n. 2 dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 116
@@ -1955,10 +2062,13 @@ L’autorizzazione è rilasciata se il contribuente:
 - d.[^118-2] presenta nei suoi periodici rendiconti fiscali con l’AFC, per le importazioni ed esportazioni di beni di cui alla lettera b, eccedenti d’imposta precedente regolarmente superiori a 10 000 franchi per anno, che provengono dal versamento dell’imposta sull’importazione all’UDSC; e
 - e. offre le garanzie per un corretto decorso della procedura di riporto.
 
+<sup>1bis</sup> L’autorizzazione all’applicazione della procedura di riporto del pagamento può essere rilasciata, su richiesta, ai fornitori di prestazioni secondo l’articolo 20*a* LIVA nei confronti dei quali è stata disposta una misura amministrativa di cui all’articolo 79*a* LIVA a partire dal giorno successivo alla revoca della relativa decisione.[^118-3]
+
 <sup>2</sup> Il rilascio o il mantenimento dell’autorizzazione può essere subordinato alla prestazione di garanzie pari alle presunte pretese.
 
-[^118-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^118-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^118-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^118-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^118-3]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 119
 
@@ -1970,11 +2080,15 @@ Se viene meno una delle condizioni per l’autorizzazione di cui all’articolo 
 
 #### Art. 120
 
-**Revoca dell’autorizzazione**
+**Revoca dell’autorizzazione**[^120-1]
 
 ### (art. 63 LIVA)
 
-L’autorizzazione è revocata se il contribuente non offre più le garanzie per un corretto decorso della procedura di riporto.
+<sup>1</sup> L’autorizzazione è revocata se il contribuente non offre più le garanzie per un corretto decorso della procedura di riporto.
+
+<sup>2</sup> L’autorizzazione rilasciata ai fornitori di prestazioni secondo l’articolo 20*a* LIVA nei confronti dei quali è disposta una misura amministrativa di cui all’articolo 79*a* LIVA è revocata con effetto a partire dal giorno successivo all’emanazione della relativa decisione.
+
+[^120-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 121
 
@@ -1988,23 +2102,19 @@ All’autorizzazione di cui all’articolo 63 capoverso 2 LIVA si applicano per 
 
 ### Capitolo 1: Diritti e obblighi del contribuente
 
-### Sezione 1: Rinuncia all’annuncio di inizio dell’assoggettamento
-
-[^tit5-chap1-sec1-1]
-
-[^tit5-chap1-sec1-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-
-### (art. 66 cpv. 1 LIVA)
+### Sezione 1: …
 
 #### Art. 121a
 
-Le imprese che sul territorio svizzero eseguono esclusivamente prestazioni escluse dall’imposta possono rinunciare ad annunciarsi come contribuenti presso l’AFC. Nel caso delle imprese che non hanno sede, domicilio o stabilimento d’impresa sul territorio svizzero la rinuncia è possibile anche se, oltre alle suddette, eseguono prestazioni per le quali sono esentate dall’assoggettamento secondo l’articolo 10 capoverso 2 lettera b LIVA.
+[^121a-1]
+
+[^121a-1]: Abrogata dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Sezione 1*a*: Giustificativi in forma non cartacea, procedure elettroniche
 
 [^tit5-chap1-sec1a-1]
 
-[^tit5-chap1-sec1a-1]: Introdotto dal n. I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+[^tit5-chap1-sec1a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Nuovo testo giusta la cifra I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
 
 #### Art. 122
 
@@ -2016,10 +2126,10 @@ Le imprese che sul territorio svizzero eseguono esclusivamente prestazioni esclu
 
 La trasmissione e la conservazione dei giustificativi in forma non cartacea sono rette dagli articoli 957–958*f* del Codice delle obbligazioni[^122-3] e dall’ordinanza del 24 aprile 2002[^122-4] sui libri di commercio.
 
-[^122-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^122-2]: Introdotto dal n. I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
-[^122-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^122-4]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^122-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^122-2]: Introdotto dalla cifra I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+[^122-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^122-4]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 123
 
@@ -2027,15 +2137,28 @@ La trasmissione e la conservazione dei giustificativi in forma non cartacea sono
 
 ### (art. 65*a* LIVA)
 
-L’annuncio di inizio dell’assoggettamento (art. 66 cpv. 1 LIVA), la presentazione del rendiconto (art. 71 LIVA) e le correzioni successive del rendiconto (art. 72 LIVA) devono avvenire per via elettronica attraverso l’apposito portale.
+<sup>1</sup> Se è prescritta la procedura elettronica, tutti gli atti all’AFC devono essere trasmessi per via elettronica tramite l’apposito portale.
 
-[^123-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+<sup>2</sup>
+
+La procedura elettronica è prescritta per:
+
+- a. …
+- b. il rendiconto annuale (art. 35*a* e 86*a* LIVA);
+- c. …
+- d. …
+- e. l’annuncio di inizio dell’assoggettamento (art. 66 cpv. 1 LIVA);
+- f. …
+- g. la presentazione del rendiconto (art. 71 LIVA);
+- h. le correzioni successive del rendiconto (art. 72 LIVA).
+
+[^123-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025, le lett. a, c d ed f del cpv. 2, in vigore dal 1° gen. 2027 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 124 e 125
 
 [^124125-1]
 
-[^124125-1]: Abrogati dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^124125-1]: Abrogati dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 ### Sezione 2: Rendiconto
 
@@ -2090,7 +2213,7 @@ Il contribuente che applica il metodo di rendiconto effettivo deve indicare in m
 
 <sup>2</sup> L’AFC può raggruppare più valori di cui al capoverso 1 sotto una voce del modulo di rendiconto, oppure può rinunciare ad esigerli nel quadro del rendiconto periodico.
 
-[^126-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^126-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 127
 
@@ -2122,12 +2245,15 @@ Il contribuente che applica il metodo delle aliquote saldo o delle aliquote forf
   - 3\. altri flussi di mezzi finanziari non considerati controprestazioni secondo l’articolo 18 capoverso 2 lettere d–l LIVA;
 
 - d. il totale delle controprestazioni per prestazioni soggiacenti all’imposta sull’acquisto, suddivise secondo le aliquote d’imposta;
-- e. i computi d’imposta risultanti dall’applicazione di una della procedure speciali messe a disposizione dall’AFC secondo l’articolo 90 capoversi 1 e 2;
-- f. il valore attuale dei beni immobili secondo l’articolo 93 che non sono più utilizzati nell’ambito dell’attività imprenditoriale del contribuente o vengono destinati a un’attività esclusa dall’imposta secondo l’articolo 21 capoverso 2 LIVA.
+- e. ed f.[^127-2] …
+- g.[^127-3] le correzioni di cui agli articoli 79 capoversi 3 e 4, 81 capoversi 4 e 5[^127-4] e 83 capoverso 1.
 
 <sup>2</sup> L’AFC può raggruppare più valori di cui al capoverso 1 sotto una voce del modulo di rendiconto oppure può rinunciare ad esigerli nel quadro del rendiconto periodico.
 
-[^127-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^127-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^127-2]: Abrogate dalla cifra I dell’O del 21 ago. 2024, con effetto dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^127-3]: Introdotta dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^127-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 128
 
@@ -2173,7 +2299,7 @@ Dalla riconciliazione delle cifre d’affari deve risultare come si sia raggiunt
 
 La correzione di lacune constatate in rendiconti precedenti deve avvenire separatamente dall’allestimento dei rendiconti ordinari.
 
-[^129-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
+[^129-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 
 ### Capitolo 2: Obbligo di terzi di fornire informazioni
 
@@ -2192,7 +2318,7 @@ L’obbligo di terzi di fornire informazioni secondo l’articolo 73 capoverso 2
 
 [^tit5-chap3-sec1-1]
 
-[^tit5-chap3-sec1-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^tit5-chap3-sec1-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 131
 
@@ -2206,7 +2332,7 @@ L’obbligo di terzi di fornire informazioni secondo l’articolo 73 capoverso 2
 
 <sup>3</sup> Il consulente provvede inoltre affinché si svolgano controlli periodici che garantiscano l’esattezza dei dati raccolti e il loro trasferimento completo su supporti di dati.
 
-[^131-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^131-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 132
 
@@ -2220,11 +2346,11 @@ L’obbligo di terzi di fornire informazioni secondo l’articolo 73 capoverso 2
 
 <sup>2</sup> L’AFC può trattare in forma elettronica o altra forma i dati che essa rileva o raccoglie oppure riceve da partecipanti a un procedimento, da terzi o da autorità.[^132-2]
 
-<sup>3</sup> ...[^132-3]
+<sup>3</sup> …[^132-3]
 
-[^132-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^132-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^132-3]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^132-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^132-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^132-3]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 133
 
@@ -2234,7 +2360,7 @@ L’obbligo di terzi di fornire informazioni secondo l’articolo 73 capoverso 2
 
 L’AFC è responsabile della sicurezza dell’esercizio e della manutenzione del sistema d’informazione e della legittimità del trattamento dei dati.
 
-[^133-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^133-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 134
 
@@ -2255,9 +2381,9 @@ I dati che l’AFC può trattare ai sensi dell’articolo 76*a* capoverso 3 LIVA
 - i. dati su procedimenti amministrativi: dati riguardanti procedimenti amministrativi e procedimenti giudiziari in ambito fiscale, necessari per l’emissione di avvisi di tassazione e per la valutazione delle pretese di restituzione e delle domande di condono dell’imposta;
 - j. dati su procedure di assistenza amministrativa e giudiziaria: autorità richiedente, data e oggetto della richiesta, persone interessate, svolgimento della procedura e tipo di misure.
 
-[^134-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^134-2]: Nuova espr. giusta l’all. n. II 24 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^134-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^134-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^134-2]: Nuova espr. giusta l’all. cifra II n. 24 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^134-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 135
 
@@ -2271,9 +2397,9 @@ I dati che l’AFC può trattare ai sensi dell’articolo 76*a* capoverso 3 LIVA
 
 <sup>3</sup> I dati che non sono stati resi anonimi possono essere utilizzati per controlli interni e per la pianificazione interna.
 
-[^135-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^135-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^135-3]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^135-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^135-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^135-3]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^135-4]: Nuovo testo giusta l’all. 2 n. II 73 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 135a
@@ -2284,7 +2410,7 @@ I dati che l’AFC può trattare ai sensi dell’articolo 76*a* capoverso 3 LIVA
 
 L’AFC può accordare all’Ufficio federale di statistica (UST) l’accesso ai rendiconti d’imposta mediante una procedura di richiamo ai fini dell’esecuzione di rilevazioni statistiche, sempreché il contribuente abbia autorizzato l’UST a procurarsi tali dati presso l’AFC.
 
-[^135a-1]: Introdotto dal n. I dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
+[^135a-1]: Introdotto dalla cifra I dell’O dell’8 mar. 2019, in vigore dal 1° apr. 2019 ([RU 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 
 #### Art. 136
 
@@ -2294,7 +2420,7 @@ L’AFC può accordare all’Ufficio federale di statistica (UST) l’accesso ai
 
 L’AFC accorda al personale dell’UDSC incaricato di determinare e riscuotere l’imposta sul valore aggiunto l’accesso ai dati di cui all’articolo 134 mediante una procedura di richiamo, nella misura in cui tali dati siano necessari per una corretta e completa imposizione dell’importazione o per l’esecuzione di procedimenti penali o amministrativi.
 
-[^136-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^136-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 137
 
@@ -2306,8 +2432,8 @@ L’AFC accorda al personale dell’UDSC incaricato di determinare e riscuotere 
 
 <sup>2</sup> I dati destinati alla distruzione sono offerti all’Archivio federale conformemente alla legge federale del 26 giugno 1998[^137-2] sull’archiviazione.
 
-[^137-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^137-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^137-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^137-2]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 138
 
@@ -2319,21 +2445,41 @@ L’AFC accorda al personale dell’UDSC incaricato di determinare e riscuotere 
 
 <sup>2</sup> I dati possono essere trattati solo per tale valutazione e per la durata assolutamente necessaria. Dopo la valutazione sono distrutti o resi anonimi.
 
-[^138-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^138-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 139
 
 [^139-1]
 
-[^139-1]: Abrogato dal n. I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^139-1]: Abrogato dalla cifra I dell’O del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
-### Sezione 2: Controllo
+### Sezione 2: Garanzia della corretta riscossione delle imposte
 
-(art. 78 cpv. 2 LIVA)
+[^tit5-chap3-sec2-1]
+
+[^tit5-chap3-sec2-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 140
 
+**Controllo**
+
+### (art. 78 cpv. 2 LIVA)
+
+[^140-1]
+
 Una richiesta di documenti completi è data quando sono richiesti i libri contabili di un esercizio, con o senza i relativi documenti giustificativi.
+
+[^140-1]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 140a
+
+**Spese per la distruzione**[^140a-1]
+
+### (art. 79*a* cpv. 4 LIVA)
+
+Le spese per la distruzione dei beni ordinata dall’AFC sono a carico dell’AFC.
+
+[^140a-1]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Capitolo 4: Procedura di decisione e di ricorso
 
@@ -2345,7 +2491,7 @@ Una richiesta di documenti completi è data quando sono richiesti i libri contab
 
 L’AFC ha diritto di interporre ricorso presso il Tribunale federale secondo l’articolo 89 capoverso 2 lettera a della legge del 17 giugno 2005[^141-1] sul Tribunale federale.
 
-[^141-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^141-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 142
 
@@ -2386,7 +2532,7 @@ Sono considerate persone beneficiarie:
 
 <sup>5</sup> Lo sgravio dall’imposta sul valore aggiunto è operato tramite esenzione fiscale alla fonte conformemente agli articoli 144 e 145 e, eccezionalmente, tramite rimborso conformemente all’articolo 146.
 
-[^143-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^143-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 144
 
@@ -2408,7 +2554,7 @@ L’esenzione fiscale si applica soltanto alle forniture e alle prestazioni di s
 - a. persone beneficiarie, se destinate esclusivamente all’uso personale;
 - b. beneficiari istituzionali, se destinate esclusivamente all’uso ufficiale.
 
-[^144-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^144-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 145
 
@@ -2424,9 +2570,9 @@ L’esenzione fiscale si applica soltanto alle forniture e alle prestazioni di s
 
 <sup>4</sup> Le condizioni giusta i capoversi 1–3 che danno diritto all’esenzione fiscale non si applicano agli acquisti di carburante per i quali il beneficiario istituzionale o la persona beneficiaria ha diritto all’esenzione dell’imposta sugli oli minerali in virtù degli articoli 26–28 dell’ordinanza del 20 novembre 1996[^145-1] sull’imposizione degli oli minerali, degli articoli 30 e 31 dell’ordinanza del 23 agosto 1989[^145-2] concernente i privilegi doganali delle missioni diplomatiche a Berna e dei posti consolari in Svizzera, così come degli articoli 28 e 29 dell’ordinanza del 13 novembre 1985[^145-3] concernente i privilegi doganali delle organizzazioni internazionali, degli Stati nelle loro relazioni con tali organizzazioni e delle missioni speciali di Stati esteri. In questo caso il fornitore di prestazioni deve poter comprovare che l’UDSC non ha riscosso l’imposta sugli oli minerali oppure che l’ha rimborsata.
 
-[^145-1]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
-[^145-2]: [RS 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
-[^145-3]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^145-1]: [RS 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
+[^145-2]: [RS 631.144.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7833)
+[^145-3]: [RS 631.145.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7834)
 
 #### Art. 146
 
@@ -2452,7 +2598,7 @@ L’esenzione fiscale si applica soltanto alle forniture e alle prestazioni di s
 
 Il contribuente deve conservare integralmente gli originali dei moduli ufficiali utilizzati, unitamente agli altri giustificativi, conformemente all’articolo 70 capoverso 2 LIVA. Ai moduli ufficiali trasmessi e conservati per via elettronica si applica per analogia l’articolo 122[^147-1].
 
-[^147-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2018.
+[^147-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2018.
 
 #### Art. 148
 
@@ -2472,18 +2618,21 @@ L’imposta sulle forniture e sull’importazione di beni, nonché sulle prestaz
 
 <sup>2</sup> Sono fatte salve le disposizioni delle Convenzioni di Vienna del 18 aprile 1961[^149-1] sulle relazioni diplomatiche e del 24 aprile 1963[^149-2] sulle relazioni consolari nonché degli accordi di sede.
 
-[^149-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^149-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^149-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^149-2]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 150
 
-**Imposizione volontaria di prestazioni escluse dall’imposta**
+**Imposizione volontaria di prestazioni escluse dall’imposta**[^150-1]
 
 ### (art. 107 cpv. 1 lett. a LIVA)
 
-L’AFC può autorizzare l’imposizione volontaria delle prestazioni di cui all’articolo 21 capoverso 2 numeri 20 e 21 LIVA, al netto del valore del terreno, purché siano effettuate a favore di beneficiari istituzionali secondo l’articolo 143 capoverso 2 lettera a, indipendentemente dal fatto che il beneficiario istituzionale sia assoggettato all’imposta in territorio svizzero. Tale opzione è limitata a fondi e parti di fondi destinati a scopi amministrativi, segnatamente uffici, sale per conferenze, depositi e parcheggi, o utilizzati esclusivamente per la residenza del capo di una missione diplomatica, di una missione permanente o di un’altra rappresentanza presso organizzazioni intergovernative o di un posto consolare.[^150-1]
+Le prestazioni di cui all’articolo 21 capoverso 2 numeri 20 e 21 LIVA, al netto del valore del terreno, possono essere assoggettate volontariamente all’imposta, purché siano effettuate a favore di beneficiari istituzionali secondo l’articolo 143 capoverso 2 lettera a, indipendentemente dal fatto che il beneficiario istituzionale sia assoggettato all’imposta in territorio svizzero. Tale opzione è limitata a fondi e parti di fondi:
 
-[^150-1]: Nuovo testo del per. giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+- a. destinati a scopi amministrativi, segnatamente uffici, sale per conferenze, depositi e parcheggi; o
+- b. utilizzati esclusivamente per la residenza del capo di una missione diplomatica, di una missione permanente o di un’altra rappresentanza presso organizzazioni intergovernative o di un posto consolare.
+
+[^150-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ## Titolo settimo: Rimborso dell’imposta sul valore aggiunto ad acquirenti con domicilio o sede sociale all’estero
 
@@ -2502,12 +2651,18 @@ Ha diritto al rimborso delle imposte versate secondo l’articolo 28 capoverso 1
 - c. fatto salvo il capoverso 2, non esegue prestazioni in territorio svizzero; e
 - d. comprova nei confronti dell’AFC la sua qualità di imprenditore nel Paese di domicilio, della sede sociale o dello stabilimento d’impresa.
 
-<sup>2</sup> Il diritto al rimborso dell’imposta è salvaguardato se il richiedente è esentato dall’assoggettamento conformemente all’articolo 10 capoverso 2 lettera b LIVA e non rinuncia a questa esenzione.[^151-2]
+<sup>2</sup>
+
+Il diritto al rimborso dell’imposta è salvaguardato se il richiedente:
+
+- a. è esentato dall’assoggettamento conformemente all’articolo 10 capoverso 2 lettera b LIVA;
+- b. non rinuncia a questa esenzione; e
+- c. l’esenzione non è riconducibile esclusivamente all’articolo 10 capoverso 2 lettera b numero 1<sup>bis</sup> LIVA.[^151-2]
 
 <sup>3</sup> Il rimborso dell’imposta presuppone che lo Stato in cui l’imprenditore estero richiedente ha il domicilio, la sede sociale o lo stabilimento d’impresa garantisca la reciprocità.
 
-[^151-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^151-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^151-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^151-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 152
 
@@ -2533,12 +2688,12 @@ La reciprocità è considerata garantita se:
 
 <sup>1</sup> Il rimborso dell’imposta corrisponde, per entità e restrizioni, al diritto alla deduzione dell’imposta precedente di cui agli articoli 28–30 e 33 capoverso 2 LIVA. Il rimborso è limitato all’ammontare corrispondente all’aliquota prevista dalla legge per la specifica prestazione. L’imposta sul valore aggiunto versata per le prestazioni non soggette o esentate da tale imposta ai sensi della LIVA non viene rimborsata.[^153-1]
 
-<sup>2</sup> Le agenzie di viaggio e gli organizzatori di manifestazioni con sede all’estero non hanno diritto al rimborso delle imposte loro fatturate in Svizzera per forniture e prestazioni di servizi ricevute che essi rifatturano ai loro clienti.[^153-2]
+<sup>2</sup> Le agenzie di viaggio con sede all’estero non hanno diritto al rimborso delle imposte loro fatturate in Svizzera per forniture e prestazioni di servizi ricevute che esse rifatturano ai loro clienti.[^153-2]
 
 <sup>3</sup> Le imposte rifondibili sono rimborsate soltanto se il loro importo raggiunge almeno 500 franchi per anno civile.
 
-[^153-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^153-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^153-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^153-2]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 154
 
@@ -2550,7 +2705,7 @@ La reciprocità è considerata garantita se:
 
 <sup>2</sup> Il periodo di rimborso termina nel momento in cui il fornitore della prestazione diviene contribuente. La richiesta di rimborso relativa a tale periodo deve essere presentata unitamente al primo rendiconto.
 
-[^154-1]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+[^154-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
 
 #### Art. 155
 
@@ -2558,7 +2713,7 @@ La reciprocità è considerata garantita se:
 
 ### (art. 107 cpv. 1 lett. b LIVA)
 
-<sup>1</sup> La richiesta di rimborso dell’imposta deve essere indirizzata all’AFC unitamente agli originali delle fatture del fornitore di prestazioni o alle decisioni d’imposizione dell’UDSC. Le fatture originali devono soddisfare i requisiti di cui all’articolo 26 capoverso 2 LIVA ed essere intestate al richiedente.
+<sup>1</sup> La richiesta di rimborso dell’imposta deve essere indirizzata all’AFC unitamente alle fatture del fornitore di prestazioni o alle decisioni d’imposizione dell’UDSC. Le fatture devono soddisfare i requisiti di cui all’articolo 26 capoverso 2 LIVA ed essere intestate al richiedente.[^155-1]
 
 <sup>2</sup> Per la richiesta va utilizzato il modulo dell’AFC.
 
@@ -2567,6 +2722,8 @@ La reciprocità è considerata garantita se:
 <sup>4</sup> L’imposta indicata negli scontrini di cassa non può essere restituita.
 
 <sup>5</sup> L’AFC può esigere ulteriori indicazioni e documenti.
+
+[^155-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 156
 
@@ -2580,7 +2737,7 @@ Se il rimborso dell’imposta è versato oltre 180 giorni dopo la ricezione dell
 
 [^tit8-1]
 
-[^tit8-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
+[^tit8-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
 
 #### Art. 157
 
@@ -2590,8 +2747,8 @@ Se il rimborso dell’imposta è versato oltre 180 giorni dopo la ricezione dell
 
 L’organo consultivo per l’IVA (organo consultivo) è una commissione extraparlamentare ai sensi dell’articolo 57*a* della legge del 21 marzo 1997[^157-2] sull’organizzazione del Governo e dell’Amministrazione.
 
-[^157-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
-[^157-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^157-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
+[^157-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 158
 
@@ -2601,7 +2758,7 @@ L’organo consultivo per l’IVA (organo consultivo) è una commissione extrapa
 
 L’organo consultivo si compone di 14 membri permanenti
 
-[^158-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^158-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 159
 
@@ -2615,8 +2772,8 @@ L’organo consultivo si compone di 14 membri permanenti
 
 <sup>2</sup> L’AFC assume i compiti amministrativi di segretariato e tiene il verbale delle riunioni; il verbale riporta le raccomandazioni dell’organo consultivo ed eventuali pareri di maggioranza e minoranza.[^159-2]
 
-[^159-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^159-2]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^159-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^159-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 160
 
@@ -2626,7 +2783,7 @@ L’organo consultivo si compone di 14 membri permanenti
 
 L’organo consultivo presenta i propri pareri e le proprie raccomandazioni all’attenzione del DFF. Può indicare i pareri di maggioranza e quelli di minoranza.
 
-[^160-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^160-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 161
 
@@ -2638,7 +2795,7 @@ L’organo consultivo presenta i propri pareri e le proprie raccomandazioni all�
 
 <sup>2</sup> La decisione circa la definizione della prassi spetta all’AFC.[^161-1]
 
-[^161-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^161-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 162
 
@@ -2648,7 +2805,7 @@ L’organo consultivo presenta i propri pareri e le proprie raccomandazioni all�
 
 <sup>2</sup> L’organo consultivo può informare il pubblico, con il consenso dell’AFC, riguardo agli affari da esso trattati.
 
-[^162-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^162-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^162-2]: [www.estv.admin.ch](http://www.estv.admin.ch) &gt; Imposta sul valore aggiunto &gt; Informazioni specifiche &gt; Organo consultivo.
 
 ## Titolo nono: Disposizioni finali
@@ -2659,7 +2816,7 @@ L’organo consultivo presenta i propri pareri e le proprie raccomandazioni all�
 
 L’ordinanza del 29 marzo 2000[^163-1] relativa alla legge federale concernente l’imposta sul valore aggiunto è abrogata.
 
-[^163-1]: [[RU 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360),[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 24,[6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 9].
+[^163-1]: [[RU 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360),[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 24,[6657](https://fedlex.data.admin.ch/eli/oc/2007/861)all. n. 9].
 
 ### Capitolo 2: Disposizioni transitorie
 
@@ -2682,7 +2839,7 @@ Le disposizioni concernenti lo sgravio fiscale successivo non sono applicabili:
 - a.[^165-1] ai flussi di mezzi finanziari non considerati controprestazioni (art. 18 cpv. 2 LIVA) che con l’entrata in vigore del nuovo diritto non comportano più una riduzione della deduzione dell’imposta precedente secondo l’articolo 33 capoverso 1 LIVA;
 - b. alle prestazioni proprie imposte nell’ambito del consumo proprio per lavori su costruzioni secondo l’articolo 9 capoverso 2 della legge del 2 settembre 1999[^165-2] sull’IVA.
 
-[^165-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
+[^165-1]: Nuovo testo giusta la cifra I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^165-2]: [[RU 2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)]
 
 #### Art. 166
@@ -2697,7 +2854,7 @@ Le disposizioni concernenti lo sgravio fiscale successivo non sono applicabili:
 
 <sup>3</sup> Nei casi in cui l’articolo 114 capoverso 2 LIVA prevede un termine di 90 giorni, esso prevale sul termine di 60 giorni previsto agli articoli 79, 81 e 98 della presente ordinanza.[^166-1]
 
-[^166-1]: Nuovo testo giusta il n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2013 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^166-1]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2013 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 
 #### Art. 166a
 
@@ -2707,7 +2864,7 @@ Le disposizioni concernenti lo sgravio fiscale successivo non sono applicabili:
 
 Per le imprese estere che non hanno uno stabilimento d’impresa in territorio svizzero e che nei 12 mesi precedenti l’entrata in vigore della presente ordinanza hanno eseguito prestazioni imponibili in territorio svizzero, l’esenzione dall’assoggettamento secondo l’articolo 9*a* termina al momento dell’entrata in vigore della presente ordinanza se nel corso di questi 12 mesi l’impresa ha raggiunto il limite della cifra d’affari secondo l’articolo 10 capoverso 2 lettera a o c LIVA proveniente da prestazioni eseguite sul territorio svizzero o all’estero che non sono escluse dall’imposta e se è presumibile che anche nei 12 mesi successivi all’entrata in vigore dell’ordinanza esegue prestazioni imponibili in territorio svizzero. Se le prestazioni non sono state eseguite per tutti e 12 i mesi, la cifra d’affari è riportata su un anno intero.
 
-[^166a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^166a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 166b
 
@@ -2717,7 +2874,7 @@ Per le imprese estere che non hanno uno stabilimento d’impresa in territorio s
 
 Se vengono forniti dall’estero in territorio svizzero beni che in ragione dell’ammontare d’imposta irrilevante sono esenti dall’imposta sull’importazione, l’assoggettamento del fornitore della prestazione inizia con l’entrata in vigore della modifica del 15 agosto 2018, se nel corso dei 12 mesi precedenti con tali forniture ha raggiunto il limite della cifra d’affari di 100 000 franchi e se è presumibile che anche nei 12 mesi successivi all’entrata in vigore della modifica eseguirà prestazioni simili.
 
-[^166b-1]: Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+[^166b-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
 
 #### Art. 166c
 
@@ -2729,7 +2886,29 @@ Se vengono forniti dall’estero in territorio svizzero beni che in ragione dell
 
 <sup>2</sup> Le correzioni dei rendiconti presentati in forma cartacea devono pure essere presentate in forma cartacea.
 
-[^166c-1]: Introdotto dal n. I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+[^166c-1]: Introdotto dalla cifra I dell’O del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
+#### Art. 166d
+
+**Disposizione transitoria della modifica del 21 agosto 2024**[^166d-1]
+
+### (art. 35 cpv. 1<sup>bis</sup> lett. b LIVA)
+
+Per accertare se superano il limite della cifra d’affari di cui all’articolo 35 capoverso 1<sup>bis</sup> lettera b LIVA, i contribuenti che al momento dell’entrata in vigore della modifica del 21 agosto 2024 sono iscritti nel registro dei contribuenti da meno di un anno devono riportare su un anno intero la cifra d’affari realizzata.
+
+[^166d-1]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 166e
+
+**Disposizione transitoria della modifica del 21 agosto 2024**[^166e-1]
+
+### (art. 37 LIVA)
+
+<sup>1</sup> Con l’entrata in vigore della modifica del 21 agosto 2024 decorrono nuovamente i termini di cui all’articolo 37 capoverso 4 LIVA per il passaggio dal metodo di rendiconto effettivo al metodo delle aliquote saldo e viceversa.
+
+<sup>2</sup> Con l’entrata in vigore della modifica del 21 agosto 2024 decorrono nuovamente i termini di cui all’articolo 98 capoverso 2 per il passaggio dal metodo di rendiconto effettivo al metodo delle aliquote forfetarie e viceversa.
+
+[^166e-1]: Introdotto dalla cifra I dell’O del 21 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### Capitolo 3: Entrata in vigore
 

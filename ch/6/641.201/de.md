@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20250101-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 1. Juli 2024)
+vom 27. November 2009 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Mehrwertsteuergesetz vom 12. Juni 2009[^ingress-1] (MWSTG),
 
 verordnet:
 
-[^ingress-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^ingress-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 ## 1. Titel: Allgemeine Bestimmungen
 
@@ -89,9 +89,10 @@ Bei Gegenständen, die aus dem Ausland in ein Lager im Inland verbracht und ab d
 
 <sup>3</sup> Der Ort der Lieferung bleibt bis zum Ende desjenigen Kalenderjahres im Inland gelegen, in dem der Leistungserbringer oder die Leistungserbringerin die Umsatzgrenze von 100 000 Franken aus Lieferungen nach Absatz 1 unterschreitet.
 
-<sup>4</sup> Unterschreitet der Leistungserbringer oder die Leistungserbringerin die Umsatzgrenze und teilt er oder sie dies der ESTV nicht schriftlich mit, so gilt er oder sie als unterstellt nach Artikel 7 Absatz 3 Buchstabe a MWSTG.
+<sup>4</sup> Unterschreitet der Leistungserbringer oder die Leistungserbringerin die Umsatzgrenze und teilt er oder sie dies der Eidgenössischen Steuerverwaltung (ESTV) nicht schriftlich mit, so gilt er oder sie als unterstellt nach Artikel 7 Absatz 3 Buchstabe a MWSTG.[^4a-2]
 
 [^4a-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
+[^4a-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 5
 
@@ -303,7 +304,7 @@ Als unternehmerisch und damit steuerbar gelten Leistungen eines Gemeinwesens, di
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2010, in Kraft seit 1. Jan. 2010 ([AS 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^14-2]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^14-3]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^14-3]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ### 3. Abschnitt: Gruppenbesteuerung
 
@@ -339,22 +340,44 @@ Eine einheitliche Leitung liegt vor, wenn durch Stimmenmehrheit, Vertrag oder au
 
 <sup>2</sup> Die Bildung mehrerer Teilgruppen ist zulässig.
 
+#### Art. 17a
+
+**Gruppenvertretung**[^17a-1]
+
+### (Art. 13 MWSTG)
+
+Gruppenvertretung kann sein:
+
+- a. ein in der Schweiz ansässiges Mitglied der Mehrwertsteuergruppe; oder
+- b. eine Person, die nicht Mitglied der Mehrwertsteuergruppe ist und Wohn- oder Geschäftssitz in der Schweiz hat.
+
+[^17a-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 18
 
-**Bewilligung der Gruppenbesteuerung**
+**Antrag auf Gruppenbesteuerung**[^18-1]
 
-### (Art. 13 und 67 Abs. 2 MWSTG)
+### (Art. 13, 65*a* Abs. 1 und 67 Abs. 2 MWSTG)
 
-<sup>1</sup> Die ESTV erteilt auf entsprechendes Gesuch hin die Bewilligung zur Gruppenbesteuerung, sofern die massgebenden Voraussetzungen erfüllt sind.
+<sup>1</sup> Auf Antrag trägt die ESTV die Gruppe in das Register der steuerpflichtigen Personen (Mehrwertsteuerregister) ein.
 
-<sup>2</sup> Dem Gesuch sind schriftliche Erklärungen der einzelnen Mitglieder beizulegen, in denen sich diese mit der Gruppenbesteuerung und deren Wirkungen sowie der gemeinsamen Vertretung durch das darin bestimmte Gruppenmitglied oder die darin bestimmte Person einverstanden erklären.
+<sup>2</sup>
+
+Sind die Voraussetzungen nach Artikel 13 Absatz 1 MWSTG für die Gruppenbesteuerung auf Beginn der Steuerperiode erfüllt, so trägt die ESTV die Gruppe auf diesen Zeitpunkt ins Mehrwertsteuerregister ein, sofern:
+
+- a. keiner der betroffenen Rechtsträger für diejenige Steuerperiode eine Abrechnung eingereicht hat, für welche die Gruppenbesteuerung beantragt wird; und
+- b. die Frist zur Einreichung der Abrechnung nach Artikel 71 Absatz 1 MWSTG nicht verstrichen ist.
 
 <sup>3</sup>
 
-Das Gesuch ist von der Gruppenvertretung einzureichen. Gruppenvertretung kann sein:
+Sind die Voraussetzungen nach Artikel 13 Absatz 1 MWSTG für die Gruppenbesteuerung erst während der laufenden Steuerperiode erfüllt, so trägt die ESTV die Gruppe auf diesen Zeitpunkt ins Mehrwertsteuerregister ein, sofern:
 
-- a. ein in der Schweiz ansässiges Mitglied der Mehrwertsteuergruppe; oder
-- b. eine Person, die nicht Mitglied ist, mit Wohn- oder Geschäftssitz in der Schweiz.
+- a. keiner der betroffenen Rechtsträger für diejenige Abrechnungsperiode eine Abrechnung eingereicht hat, in der die Voraussetzungen zur Anwendung der Gruppenbesteuerung eingetreten sind; und
+- b. die Frist zur Einreichung der Abrechnung nach Artikel 71 Absatz 1 MWSTG nicht verstrichen ist.
+
+<sup>4</sup> Dem Antrag sind schriftliche Erklärungen der einzelnen Gruppenmitglieder beizulegen, in denen sich diese mit der Gruppenbesteuerung und deren Wirkungen sowie der gemeinsamen Vertretung durch das darin bestimmte Mitglied oder die darin bestimmte Person einverstanden erklären.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 19
 
@@ -362,23 +385,33 @@ Das Gesuch ist von der Gruppenvertretung einzureichen. Gruppenvertretung kann se
 
 ### (Art. 13 MWSTG)
 
-<sup>1</sup> Ein Rücktritt von der Vertretung einer Mehrwertsteuergruppe ist nur auf das Ende einer Steuerperiode möglich. Dabei ist der Rücktritt mindestens einen Monat im Voraus der ESTV schriftlich anzuzeigen.
+<sup>1</sup> Ein Wechsel der Vertretung einer Mehrwertsteuergruppe ist der ESTV zu melden.[^19-1]
 
-<sup>2</sup> Tritt die bisherige Gruppenvertretung zurück und wird der ESTV nicht bis einen Monat vor Ende der Steuerperiode eine neue Gruppenvertretung schriftlich gemeldet, so kann die ESTV nach vorgängiger Mahnung eines der Gruppenmitglieder zur Gruppenvertretung bestimmen.
+<sup>2</sup> Tritt die bisherige Gruppenvertretung zurück und wird der ESTV keine neue Gruppenvertretung gemeldet, so kann die ESTV nach vorgängiger Mahnung eines der Gruppenmitglieder zur Gruppenvertretung bestimmen.[^19-2]
 
 <sup>3</sup> Die Gruppenmitglieder können gemeinsam der Gruppenvertretung das Mandat entziehen, sofern sie gleichzeitig eine neue Gruppenvertretung bestimmen. Absatz 1 gilt sinngemäss.
 
+[^19-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^19-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 20
 
-**Änderungen im Bestand der Gruppe**
+**Änderung im Bestand der Gruppe**[^20-1]
 
 ### (Art. 13 MWSTG)
 
-<sup>1</sup> Erfüllt ein Mitglied die Voraussetzungen nicht mehr, um an der Gruppenbesteuerung teilzunehmen, so muss die Gruppenvertretung dies der ESTV schriftlich melden.
+<sup>1</sup> Erfüllt ein Mitglied die Voraussetzungen nach Artikel 13 Absatz 1 MWSTG nicht mehr, um an der Gruppenbesteuerung teilzunehmen, so muss die Gruppenvertretung dies der ESTV melden.
 
-<sup>2</sup> Auf Gesuch hin kann ein Rechtsträger in eine bestehende Gruppe eintreten oder ein Mitglied aus einer Gruppe austreten. Die ESTV bewilligt den Ein- oder den Austritt auf den Beginn der folgenden beziehungsweise auf das Ende der laufenden Steuerperiode.
+<sup>2</sup> Auf Antrag kann ein Rechtsträger auf den Beginn der folgenden Steuerperiode in eine bestehende Gruppe eintreten oder ein Mitglied auf das Ende der laufenden Steuerperiode aus einer Gruppe austreten.
 
-<sup>3</sup> Erfüllt ein Rechtsträger, bei dem die Voraussetzungen zur Teilnahme an der Gruppenbesteuerung bisher nicht gegeben waren, neu diese Voraussetzungen, so kann der Eintritt in eine bestehende Mehrwertsteuergruppe auch während der laufenden Steuerperiode verlangt werden, sofern das entsprechende Gesuch der ESTV innert 30 Tagen nach Bekanntgabe der massgebenden Änderung im Handelsregister beziehungsweise nach Eintritt der Voraussetzungen schriftlich eingereicht wird.
+<sup>3</sup>
+
+Erfüllt ein Rechtsträger neu die Voraussetzungen nach Artikel 13 Absatz 1 MWSTG zur Teilnahme an der Gruppenbesteuerung, so kann der Eintritt in eine bestehende Mehrwertsteuergruppe auch während der laufenden Steuerperiode zum Zeitpunkt der Erfüllung dieser Voraussetzungen beantragt werden, sofern:
+
+- a. weder die Mehrwertsteuergruppe noch der neu aufzunehmende Rechtsträger für diejenige Abrechnungsperiode eine Abrechnung eingereicht hat, in der die Voraussetzungen zur Teilnahme an einer Gruppenbesteuerung eingetreten sind; und
+- b. die Frist zur Einreichung der Abrechnung nach Artikel 71 Absatz 1 MWSTG nicht verstrichen ist.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 21
 
@@ -452,7 +485,7 @@ Das Erbringen von Leistungen an eng verbundene Personen gilt als Leistungsverhä
 
 Private Organisationen im Sinn von Artikel 32*a*<sup>bis</sup> USG[^27-1] erbringen durch ihre Tätigkeiten Leistungen gegenüber den Herstellern und Importeuren. Die vorgezogenen Entsorgungsgebühren sind Entgelt für diese Leistungen.
 
-[^27-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^27-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 #### Art. 28
 
@@ -472,14 +505,20 @@ Kein Leistungsverhältnis bei grenzüberschreitender Entsendung von Mitarbeitend
 
 ### Art. 18 Abs. 2 Bst. a MWSTG)
 
-Als Subventionen oder andere öffentlich-rechtliche Beiträge gelten namentlich die von Gemeinwesen ausgerichteten:
+<sup>1</sup>
 
-- a. Finanzhilfen im Sinn von Artikel 3 Absatz 1 des Subventionsgesetzes vom 5. Oktober 1990[^29-1] (SuG);
+Als Subventionen oder andere öffentlich-rechtliche Beiträge gelten unter Vorbehalt von Artikel 18 Absatz 3 MWSTG namentlich die von Gemeinwesen ausgerichteten:[^29-1]
+
+- a. Finanzhilfen im Sinn von Artikel 3 Absatz 1 des Subventionsgesetzes vom 5. Oktober 1990[^29-2] (SuG);
 - b. Abgeltungen im Sinn von Artikel 3 Absatz 2 Buchstabe a SuG, sofern kein Leistungsverhältnis vorliegt;
 - c. Forschungsbeiträge, sofern dem Gemeinwesen kein Exklusivrecht auf die Resultate der Forschung zusteht;
 - d. mit den Buchstaben a–c vergleichbaren Mittelflüsse, die gestützt auf kantonales und kommunales Recht ausgerichtet werden.
 
-[^29-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+<sup>2</sup> Ein Gemeinwesen kann Mittel gegenüber dem Empfänger oder der Empfängerin bis zum Ablauf der Frist von Artikel 72 Absatz 1 MWSTG jener Steuerperiode, in der die Auszahlung erfolgt, als Subvention oder anderen öffentlich-rechtlichen Beitrag bezeichnen.[^29-3]
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^29-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
+[^29-3]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 30
 
@@ -576,6 +615,7 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 - c. Zahnprothetiker und Zahnprothetikerinnen;
 - c<sup>bis</sup>.[^35-1] Dentalhygieniker und Dentalhygienikerinnen;
 - d. Psychotherapeuten und Psychotherapeutinnen;
+- d<sup>bis</sup>.[^35-2] Psychologen und Psychologinnen;
 - e. Chiropraktoren und Chiropraktorinnen;
 - f. Physiotherapeuten und Physiotherapeutinnen;
 - g. Ergotherapeuten und Ergotherapeutinnen;
@@ -586,12 +626,15 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 - l. Logopäden und Logopädinnen;
 - m. Ernährungsberater und Ernährungsberaterinnen;
 - n. Podologen und Podologinnen;
-- o.[^35-2] …
-- p.[^35-3] …
+- o.[^35-3] …
+- p.[^35-4] Apotheker und Apothekerinnen;
+- q.[^35-5] Optometristen und Optometristinnen.
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^35-3]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 31. Dez. 2023 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)Ziff. II).
+[^35-2]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^35-3]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
+[^35-4]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^35-5]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 36
 
@@ -625,10 +668,22 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 
 Die Steuerausnahme erstreckt sich auf:
 
-- a. die Leistungen zwischen privat- oder öffentlich-rechtlichen Gesellschaften, an denen ausschliesslich Gemeinwesen beteiligt sind, und den ausschliesslich von diesen Gesellschaften direkt oder indirekt gehaltenen Gesellschaften oder direkt oder indirekt gegründeten Anstalten und Stiftungen;
-- b. die Leistungen zwischen ausschliesslich von Gemeinwesen gegründeten Anstalten oder Stiftungen und den ausschliesslich von diesen Anstalten oder Stiftungen direkt oder indirekt gehaltenen Gesellschaften oder direkt oder indirekt gegründeten Anstalten und Stiftungen.
+- a.
+
+  die Leistungen zwischen privat- oder öffentlich-rechtlichen Gesellschaften, an denen ausschliesslich Gemeinwesen beteiligt sind, und:
+
+  - 1\. den ausschliesslich von diesen Gesellschaften direkt oder indirekt gehaltenen Gesellschaften, oder
+  - 2\. den Anstalten und Stiftungen, deren alleinige Gründer oder Träger sie sind;
+
+- b.
+
+  die Leistungen zwischen Anstalten oder Stiftungen, deren Gründer oder Träger ausschliesslich Gemeinwesen sind, und:
+
+  - 1\. den Gesellschaften, die sie alleine direkt oder indirekt halten, oder
+  - 2\. den Anstalten und Stiftungen, deren alleinige Träger oder Gründer sie sind.[^38-2]
 
 [^38-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^38-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 38a
 
@@ -647,7 +702,7 @@ Als Bildungs- und Forschungsinstitutionen gelten:
 <sup>2</sup> Unternehmen der Privatwirtschaft gelten nicht als Bildungs- oder Forschungsinstitutionen.
 
 [^38a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^38a-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^38a-2]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 
 #### Art. 39
 
@@ -714,34 +769,23 @@ Von der Steuer befreit sind die Beförderungen von Personen mit Autobussen auf S
 
 <sup>2</sup> Von der Steuer befreit sind Personenbeförderungen auf reinen Inlandstrecken, die allein für das unmittelbare Zubringen einer Person zu einer Beförderungsleistung nach Absatz 1 bestimmt sind, sofern diese gemeinsam mit der Beförderungsleistung nach Absatz 1 in Rechnung gestellt wird.
 
+#### Art. 43a
+
+**Verzicht auf steuerfreie Lieferung an Plattformen**[^43a-1]
+
+### (Art. 23 Abs. 2 Ziff. 13 MWSTG)
+
+<sup>1</sup> Der Verkäufer oder die Verkäuferin kann die fingierte Lieferung von Gegenständen im Inland an einen Leistungserbringer oder eine Leistungserbringerin nach Artikel 20*a* MWSTG mit dessen oder deren Einverständnis mit Steuer in Rechnung stellen. Kein Einverständnis ist notwendig, wenn gegen den Leistungserbringer oder die Leistungserbringerin nach Artikel 20*a* MWSTG eine administrative Massnahme nach Artikel 79*a* MWSTG verfügt ist.
+
+<sup>2</sup> Der Leistungserbringer oder die Leistungserbringerin nach Artikel 20*a* MWSTG kann die Steuer als Vorsteuer in Abzug bringen.
+
+[^43a-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 #### Art. 44
 
-**Steuerbefreite Umsätze von Münz- und Feingold**
+[^44-1]
 
-### (Art. 107 Abs. 2 MWSTG)
-
-<sup>1</sup>
-
-Von der Steuer sind befreit die Umsätze von:
-
-- a. staatlich geprägten Goldmünzen der Zolltarifnummern 7118.9000[^44-1] und 9705.0000[^44-2];
-- b.[^44-3]
-
-  Gold zu Anlagezwecken im Mindestfeingehalt von 995 Tausendsteln, in Form von:
-
-  - 1\. gegossenen Barren, versehen mit der Angabe des Feingehalts und dem Stempelzeichen eines anerkannten Prüfer-Schmelzers, oder
-  - 2\. gestanzten Plättchen, versehen mit der Angabe des Feingehalts und dem Stempelzeichen eines anerkannten Prüfer-Schmelzers oder einer in der Schweiz registrierten Verantwortlichkeitsmarke;
-
-- c.[^44-4] Gold in Form von Granalien im Mindestfeingehalt von 995 Tausendsteln, die von einem anerkannten Prüfer-Schmelzer verpackt und versiegelt wurden;
-- d. Gold in Rohform oder in Form von Halbzeug, das zur Raffination oder Wiedergewinnung bestimmt ist;
-- e. Gold in Form von Abfällen und Schrott.
-
-<sup>2</sup> Als Gold im Sinn von Absatz 1 Buchstaben d und e gelten auch Legierungen, die zwei oder mehr Gewichtsprozent Gold oder, wenn Platin enthalten ist, mehr Gold als Platin aufweisen.
-
-[^44-1]: Fassung gemäss Anhang 2 Ziff. II 9 der V vom 15. Febr. 2023 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2024 ([AS 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
-[^44-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang. Heute: 9705.3100 und 9705.3900.
-[^44-3]: Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^44-4]: Fassung gemäss Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
+[^44-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### 3. Kapitel: Bemessungsgrundlage und Steuersätze
 
@@ -876,6 +920,16 @@ Weist die steuerpflichtige Person die Steuer beim Wiederverkauf von Sammlerstüc
 
 Die steuerpflichtige Person muss über die Sammlerstücke eine Bezugs- und Verkaufskontrolle führen. Bei zu einem Gesamtpreis erworbenen Gegenständen sind pro Gesamtheit separate Aufzeichnungen zu führen.
 
+#### Art. 48e
+
+**Margenbesteuerung für elektronische Plattformen**[^48e-1]
+
+### (Art. 24*a* MWSTG)
+
+Wer als Leistungserbringer oder Leistungserbringerin nach Artikel 20*a* MWSTG gilt, kann die Margenbesteuerung nur anwenden, sofern der Verkäufer oder die Verkäuferin des Gegenstandes im Inland ansässig und nicht im Mehrwertsteuerregister eingetragen ist.
+
+[^48e-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 ### 2. Abschnitt: Steuersätze
 
 #### Art. 49
@@ -892,12 +946,12 @@ Als Medikamente gelten:
 - d.[^49-5] nicht zugelassene verwendungsfertige Arzneimittel nach den Artikeln 48 und 49 Absätze 1–4 der Arzneimittel-Bewilligungsverordnung vom 14. November 2018[^49-6] sowie nach den Artikeln 7–7*c* der Tierarzneimittelverordnung vom 18. August 2004[^49-7].
 
 [^49-1]: Fassung gemäss Ziff. I der V vom 18. Juni 2010, in Kraft seit 1. Jan. 2010 ([AS 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
-[^49-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^49-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^49-3]: Fassung gemäss Ziff. I der V vom 8. März 2019, in Kraft seit 1. April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-4]: Fassung gemäss Ziff. I der V vom 8. März 2019, in Kraft seit 1. April 2019 ([AS 2019 911](https://fedlex.data.admin.ch/eli/oc/2019/162)).
 [^49-5]: Fassung gemäss Ziff. III 1 der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
-[^49-6]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^49-7]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^49-6]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^49-7]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 50
 
@@ -1079,11 +1133,9 @@ Für die Berechnung der abziehbaren Vorsteuern gilt Artikel 45 sinngemäss.
 
 #### Art. 61
 
-**Vorsteuerabzug bei Münz- und Feingold**
+[^61-1]
 
-### (Art. 107 Abs. 2 MWSTG)
-
-Die Steuer auf den Lieferungen von Gegenständen und auf den Dienstleistungen, die für Umsätze nach Artikel 44 und Einfuhren nach Artikel 113 Buchstabe g verwendet werden, kann als Vorsteuer abgezogen werden.
+[^61-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### 2. Abschnitt: Abzug fiktiver Vorsteuer
 
@@ -1099,7 +1151,7 @@ Die Steuer auf den Lieferungen von Gegenständen und auf den Dienstleistungen, d
 
 Nicht als individualisierbare bewegliche Gegenstände gelten Edelmetalle der Zolltarifnummern 7106–7112[^62-1] und Edelsteine der Zolltarifnummern 7102–7105.
 
-[^62-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^62-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 
 #### Art. 63
 
@@ -1117,12 +1169,19 @@ Der Abzug der fiktiven Vorsteuer ist ausgeschlossen, wenn:
 
 - a. beim Erwerb des Gegenstands das Meldeverfahren nach Artikel 38 MWSTG zur Anwendung kam;
 - b. die steuerpflichtige Person den Gegenstand eingeführt hat;
-- c. Gegenstände nach Artikel 44 Absatz 1 Buchstaben a und b und Absatz 2 erworben wurden;
-- d. die steuerpflichtige Person weiss oder wissen müsste, dass der Gegenstand steuerbefreit eingeführt wurde.
+- c.[^63-2] Gegenstände nach Artikel 23 Absatz 2 Ziffer 12 MWSTG erworben wurden;
+- d. die steuerpflichtige Person weiss oder wissen müsste, dass der Gegenstand steuerbefreit eingeführt wurde;
+- e.[^63-3] die steuerpflichtige Person den Gegenstand von einem Begünstigten oder einer Begünstigten nach Artikel 2 des Gaststaatgesetzes vom 22. Juni 2007[^63-4] (GSG) bezogen hat.
 
 <sup>4</sup> Bei Zahlungen im Rahmen der Schadenregulierung ist der Abzug der fiktiven Vorsteuer nur auf dem tatsächlichen Wert des Gegenstandes im Zeitpunkt der Übernahme zulässig.
 
+<sup>5</sup> Wer als Leistungserbringer oder Leistungserbringerin nach Artikel 20*a* MWSTG gilt, kann den Abzug der fiktiven Vorsteuer nur anwenden, sofern der Verkäufer oder die Verkäuferin des Gegenstandes im Inland ansässig und nicht im Mehrwertsteuerregister eingetragen ist.[^63-5]
+
 [^63-1]: Die Berichtigung vom 30. Jan. 2018 betrifft nur den italienischen Text ([AS 2018 521](https://fedlex.data.admin.ch/eli/oc/2018/56)).
+[^63-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^63-3]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^63-4]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^63-5]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 64
 
@@ -1253,7 +1312,9 @@ Stützt die steuerpflichtige Person die Korrektur des Vorsteuerabzugs auf eigene
 
 <sup>2</sup> Soweit die Mittel nach Artikel 18 Absatz 2 Buchstaben a–c MWSTG einem bestimmten Tätigkeitsbereich zugeordnet werden können, ist nur die Vorsteuer auf den Aufwendungen für diesen Tätigkeitsbereich zu kürzen.
 
-<sup>3</sup> Werden die Mittel nach Artikel 18 Absatz 2 Buchstaben a–c MWSTG zur Deckung eines Betriebsdefizits entrichtet, so ist die Vorsteuer gesamthaft im Verhältnis dieser Mittel zum Gesamtumsatz exklusive Mehrwertsteuer zu kürzen.
+<sup>3</sup> Werden die Mittel nach Artikel 18 Absatz 2 Buchstaben a–c MWSTG zur Deckung eines Betriebsdefizits entrichtet, so ist die Vorsteuer gesamthaft im Verhältnis dieser Mittel zu den Gesamteinnahmen zu kürzen. Die Gesamteinnahmen setzen sich zusammen aus dem Total der Umsätze exklusive Mehrwertsteuer und den Einnahmen, die nicht zu den Entgelten zählen.[^75-1]
+
+[^75-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### 6. Kapitel: Ermittlung und Entstehung der Steuerforderung
 
@@ -1266,6 +1327,74 @@ Stützt die steuerpflichtige Person die Korrektur des Vorsteuerabzugs auf eigene
 [^76-1]
 
 [^76-1]: Tritt zu einem späteren Zeitpunkt in Kraft.
+
+### 1*a*. Abschnitt: Jährliche Abrechnung
+
+[^tit2-chap6-sec1a-1]
+
+[^tit2-chap6-sec1a-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 76a
+
+**Jährliche Abrechnung bei Beginn der Steuerpflicht**
+
+### (Art. 35 Abs. 1<sup>bis</sup> Bst. b, 35*a* und 86*a* MWSTG)
+
+<sup>1</sup> Neu im Mehrwertsteuerregister eingetragene Personen, welche die jährliche Abrechnung anwenden wollen, müssen dies bei der ESTV spätestens 60 Tage nach Zustellung der Mehrwertsteuernummer beantragen.
+
+<sup>2</sup> Die ESTV bewilligt die Anwendung der jährlichen Abrechnung, wenn der in den ersten zwölf Monaten erwartete Umsatz mit Mehrwertsteuer die Grenze von Artikel 35 Absatz 1<sup>bis</sup> Buchstabe b MWSTG nicht überschreitet.
+
+<sup>3</sup> Nach Ablauf der Frist von Absatz 1 kann die steuerpflichtige Person die jährliche Abrechnung frühestens nach einer Steuerperiode beantragen.
+
+#### Art. 76b
+
+**Wechsel zur jährlichen Abrechnung**
+
+### (Art. 35 Abs. 1<sup>bis</sup> Bst. b, 35*a* und 86*a* MWSTG)
+
+<sup>1</sup> Steuerpflichtige Personen, die zur jährlichen Abrechnung wechseln wollen, müssen dies spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, beantragen.
+
+<sup>2</sup>
+
+Die ESTV bewilligt die jährliche Abrechnung, wenn die steuerpflichtige Person:
+
+- a. in der vorangegangenen Steuerperiode die Umsatzgrenze von Artikel 35 Absatz 1<sup>bis</sup> Buchstabe b MWSTG nicht überschritten hat; und
+- b. in den vorangegangenen drei Steuerperioden oder, wenn die Steuerpflicht weniger lang besteht, seit Beginn der Steuerpflicht alle Abrechnungen fristgerecht eingereicht und alle Steuerforderungen vollumfänglich und fristgerecht bezahlt hat.
+
+#### Art. 76c
+
+**Ende der jährlichen Abrechnung**
+
+### (Art. 35 Abs. 1<sup>bis</sup> Bst. b, 35*a**,* 86 Abs. 2 und 86*a* MWSTG)
+
+<sup>1</sup> Steuerpflichtige Personen, welche die jährliche Abrechnung nicht mehr anwenden wollen, müssen dies der ESTV spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, melden.
+
+<sup>2</sup>
+
+Die ESTV widerruft die Genehmigung der jährlichen Abrechnung:
+
+- a. auf den Beginn der nächsten Steuerperiode, wenn die steuerpflichtige Person die in Artikel 35 Absatz 1<sup>bis</sup> Buchstabe b MWSTG festgelegte Umsatzgrenze in drei aufeinander folgenden Steuerperioden überschritten hat;
+- b.
+
+  auf den Beginn der übernächsten Steuerperiode, wenn:
+
+  - 1\.
+
+    die steuerpflichtige Person eine Herabsetzung der Raten beantragt hat, durch die in der laufenden Steuerperiode das Total der Raten im Verhältnis zum Steuerbetrag gemäss Abrechnung folgenden Wert unterschreitet:
+
+    - – bei effektiver Abrechnung und bei Abrechnung mit Pauschalsteuersätzen: 50 Prozent
+    - – bei Abrechnung mit Saldosteuersätzen: 35 Prozent,
+
+  - 2\. die ESTV wegen Nichteinreichens der Abrechnung den geschuldeten Steuerbetrag gestützt auf Artikel 86 Absatz 2 zweiter Satz MWSTG nach pflichtgemässem Ermessen bestimmt hat, oder
+  - 3\. die ESTV gestützt auf Artikel 86 Absatz 2 erster Satz Forderungen in Betreibung gesetzt hat.
+
+#### Art. 76d
+
+**Anpassung der Raten**
+
+### (Art. 35 Abs. 1<sup>bis</sup> Bst. b, 35*a* und 86*a* MWSTG)
+
+Eine Anpassung der Raten ist nur vor deren Fälligkeit möglich.
 
 ### 2. Abschnitt: Saldosteuersatzmethode
 
@@ -1286,52 +1415,67 @@ Die Saldosteuersatzmethode kann nicht gewählt werden von steuerpflichtigen Pers
 - c. die Gruppenbesteuerung nach Artikel 13 MWSTG anwenden;
 - d. ihren Sitz oder eine Betriebsstätte in den Talschaften Samnaun oder Sampuoir haben;
 - e.[^77-1] mehr als 50 Prozent ihres Umsatzes aus steuerbaren Leistungen an andere steuerpflichtige, nach der effektiven Abrechnungsmethode abrechnende Personen erzielen, sofern die beteiligten Personen unter einheitlicher Leitung stehen;
-- f.[^77-2] gestützt auf Artikel 7 Absatz 3 MWSTG Lieferungen im Inland erbringen.
+- f.[^77-2] gestützt auf Artikel 7 Absatz 3 MWSTG Lieferungen im Inland erbringen;
+- g.[^77-3] als Leistungserbringer oder Leistungserbringerinnen nach Artikel 20*a* MWSTG gelten;
+- h.[^77-4] ihren Sitz im Ausland haben.
 
-<sup>3</sup> Steuerpflichtige Personen, die mit der Saldosteuersatzmethode abrechnen, können nicht für die Versteuerung von Leistungen nach Artikel 21 Absatz 2 Ziffern 1–24, 27, 29 und 30 MWSTG optieren. Wird die Steuer gleichwohl in Rechnung gestellt, so ist die ausgewiesene Steuer unter Vorbehalt von Artikel 27 Absatz 2 MWSTG der ESTV abzuliefern.[^77-3]
+<sup>3</sup> Steuerpflichtige Personen, die mit der Saldosteuersatzmethode abrechnen, können nicht für die Versteuerung von Leistungen nach Artikel 21 Absatz 2 Ziffern 1–24 und 27–31 MWSTG optieren. Wird die Steuer gleichwohl in Rechnung gestellt, so ist die ausgewiesene Steuer unter Vorbehalt von Artikel 27 Absatz 2 MWSTG der ESTV abzuliefern.[^77-5]
 
 [^77-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^77-2]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3143](https://fedlex.data.admin.ch/eli/oc/2018/499)).
-[^77-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^77-3]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^77-4]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^77-5]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 78
 
-**Unterstellung unter die Saldosteuersatzmethode bei Beginn der Steuerpflicht**
+**Saldosteuersatzmethode bei Beginn der Steuerpflicht**[^78-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-<sup>1</sup> Neu ins Register der steuerpflichtigen Personen (Mehrwertsteuerregister) eingetragene Personen, die sich der Saldosteuersatzmethode unterstellen wollen, müssen dies der ESTV innert 60 Tagen nach Zustellung der Mehrwertsteuernummer schriftlich melden.
+<sup>1</sup> Neu ins Mehrwertsteuerregister eingetragene Personen, die sich der Saldosteuersatzmethode unterstellen wollen, müssen dies der ESTV innert 60 Tagen nach Zustellung der Mehrwertsteuernummer melden.
 
 <sup>2</sup> Die ESTV bewilligt die Anwendung der Saldosteuersatzmethode, wenn in den ersten 12 Monaten sowohl der erwartete Umsatz als auch die erwarteten Steuern die Grenzen von Artikel 37 Absatz 1 MWSTG nicht überschreiten.
 
-<sup>3</sup> Erfolgt keine Meldung innert der Frist von Absatz 1, so muss die steuerpflichtige Person mindestens drei Jahre nach der effektiven Abrechnungsmethode abrechnen, bevor sie sich der Saldosteuersatzmethode unterstellen kann. Ein früherer Wechsel ist bei jeder Anpassung des betreffenden Saldosteuersatzes möglich, die nicht auf eine Änderung der Steuersätze nach den Artikeln 25 und 55 MWSTG zurückzuführen ist.[^78-1]
+<sup>3</sup> Erfolgt keine Meldung innert der Frist von Absatz 1, so muss die steuerpflichtige Person mindestens drei ganze Steuerperioden nach der effektiven Abrechnungsmethode abrechnen, bevor sie sich der Saldosteuersatzmethode unterstellen kann. Ein früherer Wechsel ist bei jeder Anpassung des betreffenden Saldosteuersatzes möglich, die nicht auf eine Änderung der Steuersätze nach den Artikeln 25 und 55 MWSTG zurückzuführen ist.
 
-<sup>4</sup> Die Absätze 1–3 gelten auch bei rückwirkenden Eintragungen sinngemäss.
+<sup>4</sup> Die Absätze 1–3 gelten bei rückwirkenden Eintragungen sinngemäss.
 
-<sup>5</sup> Die bei Beginn der Steuerpflicht auf dem Warenlager, den Betriebsmitteln und den Anlagegütern lastende Mehrwertsteuer wird mit der Anwendung der Saldosteuersatzmethode berücksichtigt. Eine Einlageentsteuerung kann nicht vorgenommen werden.
+<sup>5</sup> Die bei Beginn der Steuerpflicht auf Gegenständen und Dienstleistungen lastende Steuer wird mit der Anwendung der Saldosteuersatzmethode berücksichtigt. Eine Einlageentsteuerung kann nicht vorgenommen werden.
 
-[^78-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^78-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 79
 
-**Wechsel von der effektiven Abrechungsmethode zur Saldosteuersatzmethode**
+**Wechsel von der effektiven Abrechnungsmethode zur Saldosteuersatzmethode**[^79-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-<sup>1</sup> Steuerpflichtige Personen, die von der effektiven Abrechnungsmethode zur Saldosteuersatzmethode wechseln wollen, müssen dies der ESTV bis spätestens 60 Tage nach Beginn der Steuerperiode schriftlich melden, ab welcher der Wechsel erfolgen soll. Bei verspäteter Meldung erfolgt der Wechsel auf den Beginn der nachfolgenden Steuerperiode.
+<sup>1</sup> Steuerpflichtige Personen, die von der effektiven Abrechnungsmethode zur Saldosteuersatzmethode wechseln wollen, müssen dies der ESTV bis spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, melden.
 
 <sup>2</sup> Die ESTV bewilligt die Anwendung der Saldosteuersatzmethode, wenn in der vorangegangenen Steuerperiode keine der Grenzen von Artikel 37 Absatz 1 MWSTG überschritten wurde.
 
-<sup>3</sup> Beim Wechsel von der effektiven Abrechnungsmethode zur Saldosteuersatzmethode erfolgen keine Korrekturen auf dem Warenlager, den Betriebsmitteln und den Anlagegütern. Vorbehalten bleibt eine Korrektur nach Artikel 93, wenn unbewegliche Gegenstände ab dem Wechsel in geringerem Umfang für eine zum Vorsteuerabzug berechtigende Tätigkeit verwendet werden.[^79-1]
+<sup>3</sup> Auf dem Zeitwert der Gegenstände und Dienstleistungen im Zeitpunkt des Wechsels ist die früher in Abzug gebrachte Vorsteuer einschliesslich ihrer als Einlageentsteuerung korrigierten Anteile an die ESTV zurückzuerstatten. Die Deklaration hat in der letzten Abrechnungsperiode vor dem Wechsel zu erfolgen. Artikel 31 Absatz 3 MWSTG und die Artikel 69 Absätze 1–3, 70 und 71 gelten sinngemäss.
 
 <sup>4</sup>
 
-Wird gleichzeitig mit der Unterstellung unter die Saldosteuersatzmethode auch die Abrechnungsart nach Artikel 39 MWSTG geändert, so sind folgende Korrekturen vorzunehmen:
+Wird gleichzeitig mit der Unterstellung unter die Saldosteuersatzmethode auch die Abrechnungsart nach Artikel 39 MWSTG geändert, so sind per Umstellungsdatum zusätzlich folgende Korrekturen vorzunehmen:
 
-- a. Wird von vereinbarten auf vereinnahmte Entgelte gewechselt, so schreibt die ESTV der steuerpflichtigen Person auf den im Zeitpunkt der Umstellung von ihr in Rechnung gestellten, aber noch nicht bezahlten steuerbaren Leistungen (Debitorenposten) die Steuer zum entsprechenden gesetzlichen Steuersatz gut und belastet gleichzeitig die Vorsteuer auf den ihr in Rechnung gestellten, aber noch nicht bezahlten steuerbaren Leistungen (Kreditorenposten).
-- b. Wird von vereinnahmten auf vereinbarte Entgelte gewechselt, so belastet die ESTV die Steuer auf den im Zeitpunkt der Umstellung bestehenden Debitorenposten zum entsprechenden gesetzlichen Steuersatz und schreibt gleichzeitig die auf den Kreditorenposten lastende Vorsteuer gut.
+- a.
 
-[^79-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+  Wird von vereinbarten auf vereinnahmte Entgelte gewechselt, so hat die steuerpflichtige Person in der letzten Abrechnungsperiode vor dem Wechsel Folgendes rückgängig zu machen:
+
+  - 1\. die deklarierte Steuer auf den von ihr in Rechnung gestellten, aber noch nicht bezahlten steuerbaren Leistungen (Debitorenposten); und
+  - 2\. den Vorsteuerabzug auf den ihr in Rechnung gestellten, aber noch nicht bezahlten steuerbaren Leistungen (Kreditorenposten), sofern es sich dabei um Vorsteuern handelt, die nicht bereits aufgrund von Absatz 3 korrigiert werden müssen.
+
+- b.
+
+  Wird von vereinnahmten auf vereinbarte Entgelte gewechselt, so hat die steuerpflichtige Person in der letzten Abrechnungsperiode vor dem Wechsel:
+
+  - 1\. die Steuer auf den bestehenden Debitorenposten zum entsprechenden gesetzlichen Steuersatz zu deklarieren; und
+  - 2\. die auf den Kreditorenposten lastende Steuer als Vorsteuer abzuziehen.
+
+[^79-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 80
 
@@ -1343,28 +1487,26 @@ Steuerpflichtigen Personen, denen die Anwendung der Saldosteuersatzmethode aufgr
 
 #### Art. 81
 
-**Wechsel von der Saldosteuersatzmethode zur effektiven Abrechnungsmethode**
+**Wechsel von der Saldosteuersatzmethode zur effektiven Abrechnungsmethode**[^81-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-<sup>1</sup> Steuerpflichtige Personen, die von der Saldosteuersatzmethode zur effektiven Methode wechseln wollen, müssen dies der ESTV bis spätestens 60 Tage nach Beginn der Steuerperiode schriftlich melden, ab welcher der Wechsel erfolgen soll. Bei verspäteter Meldung erfolgt der Wechsel auf den Beginn der nachfolgenden Steuerperiode.
+<sup>1</sup> Steuerpflichtige Personen, die von der Saldosteuersatzmethode zur effektiven Abrechnungsmethode wechseln wollen, müssen dies der ESTV bis spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, melden.
 
-<sup>2</sup> Wer eine oder beide der in Artikel 37 Absatz 1 MWSTG festgelegten Grenzen in zwei aufeinander folgenden Steuerperioden um höchstens 50 Prozent überschreitet, muss auf den Beginn der folgenden Steuerperiode zur effektiven Abrechnungsmethode wechseln.
+<sup>2</sup> Ein Wechsel ist vor Ablauf der ganzen Steuerperiode zulässig, wenn mit mindestens einem bewilligten Saldosteuersatz abgerechnet wird, den die ESTV angepasst hat, ohne dass die Anpassung auf eine Änderung der Steuersätze nach den Artikeln 25 und 55 MWSTG zurückzuführen ist. Der Wechsel erfolgt auf den Zeitpunkt der Änderung des Saldosteuersatzes.
 
-<sup>3</sup> Wer eine oder beide der in Artikel 37 Absatz 1 MWSTG festgelegten Grenzen um mehr als 50 Prozent überschreitet, muss auf den Beginn der folgenden Steuerperiode zur effektiven Abrechnungsmethode wechseln. Werden die Grenzen bereits in den ersten 12 Monaten der Unterstellung unter die Saldosteuersatzmethode überschritten, so wird die Bewilligung rückwirkend entzogen.
+<sup>3</sup> Wer eine oder beide der in Artikel 37 Absatz 1 MWSTG festgelegten Grenzen in drei aufeinander folgenden Steuerperioden überschreitet, muss auf den Beginn der folgenden Steuerperiode zur effektiven Abrechnungsmethode wechseln.
 
-<sup>4</sup> Ist die Überschreitung einer oder beider Grenzen um mehr als 50 Prozent auf die Übernahme eines Gesamt- oder Teilvermögens im Meldeverfahren zurückzuführen, so kann die steuerpflichtige Person entscheiden, ob sie rückwirkend auf den Beginn der Steuerperiode, in der die Übernahme erfolgte, oder auf den Beginn der nachfolgenden Steuerperiode zur effektiven Abrechnungsmethode wechseln will.
+<sup>4</sup> Die im Zeitpunkt des Wechsels auf dem Zeitwert der Gegenstände und Dienstleistungen lastende Steuer kann in der ersten Abrechnungsperiode nach dem Wechsel als Vorsteuer abgezogen werden. Artikel 32 Absatz 2 MWSTG und die Artikel 72 Absätze 1–3, 73 und 74 gelten sinngemäss.
 
-<sup>5</sup> Beim Wechsel von der Saldosteuersatzmethode zur effektiven Abrechnungsmethode erfolgen keine Korrekturen auf dem Warenlager, den Betriebsmitteln und den Anlagegütern. Vorbehalten bleibt eine Einlageentsteuerung nach Artikel 32 MWSTG, wenn Warenlager, Betriebsmittel oder Anlagegüter ab dem Wechsel in grösserem Umfang für eine zum Vorsteuerabzug berechtigende Tätigkeit verwendet werden.[^81-1]
+<sup>5</sup>
 
-<sup>6</sup>
+Wird gleichzeitig mit dem Wechsel zur effektiven Abrechnungsmethode auch die Abrechnungsart nach Artikel 39 MWSTG geändert, so sind per Umstellungsdatum zusätzlich folgende Korrekturen vorzunehmen:
 
-Wird gleichzeitig mit dem Wechsel zur effektiven Abrechnungsmethode auch die Abrechnungsart nach Artikel 39 MWSTG geändert, so sind folgende Korrekturen vorzunehmen:
+- a. Wird von vereinbarten auf vereinnahmte Entgelte gewechselt, so muss die steuerpflichtige Person in der letzten Abrechnungsperiode vor dem Wechsel die Steuer abziehen, die sie auf den Debitorenposten deklariert hat; zusätzlich ist eine Belastung der Steuer auf den Kreditorenposten vorzunehmen, bei denen gestützt auf Absatz 4 eine Einlageentsteuerung möglich ist.
+- b. Wird von vereinnahmten auf vereinbarte Entgelte gewechselt, so muss die steuerpflichtige Person in der letzten Abrechnungsperiode vor dem Wechsel auf den Debitorenposten die Steuer zu den bewilligten Saldosteuersätzen deklarieren; auf den Kreditorenposten sind keine Korrekturen vorzunehmen.
 
-- a. Wird von vereinbarten auf vereinnahmte Entgelte gewechselt, so schreibt die ESTV der steuerpflichtigen Person auf den im Zeitpunkt der Umstellung bestehenden Debitorenposten die Steuer zu den bewilligten Saldosteuersätzen gut. Auf den Kreditorenposten sind keine Korrekturen vorzunehmen.
-- b. Wird von vereinnahmten auf vereinbarte Entgelte gewechselt, so belastet die ESTV die Steuer auf den im Zeitpunkt der Umstellung bestehenden Debitorenposten zu den bewilligten Saldosteuersätzen. Auf den Kreditorenposten sind keine Korrekturen vorzunehmen.
-
-[^81-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^81-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 82
 
@@ -1374,34 +1516,21 @@ Wird gleichzeitig mit dem Wechsel zur effektiven Abrechnungsmethode auch die Abr
 
 <sup>1</sup> Stellt eine nach der Saldosteuersatzmethode abrechnende steuerpflichtige Person ihre Geschäftstätigkeit ein oder wird sie infolge Unterschreitens der Umsatzgrenze von Artikel 10 Absatz 2 Buchstabe a MWSTG von der Steuerpflicht befreit, so sind die bis zur Löschung aus dem Mehrwertsteuerregister erzielten Umsätze, die angefangenen Arbeiten und bei Abrechnung nach vereinnahmten Entgelten auch die Debitorenposten mit den bewilligten Saldosteuersätzen abzurechnen.
 
-<sup>2</sup>
+<sup>2 und <sup>3</sup></sup> …[^82-1]
 
-Im Zeitpunkt der Löschung aus dem Mehrwertsteuerregister ist die Steuer auf dem Zeitwert der unbeweglichen Gegenstände zum in diesem Zeitpunkt geltenden Normalsatz abzurechnen, wenn:[^82-1]
-
-- a. der Gegenstand von der steuerpflichtigen Person erworben, erbaut oder umgebaut wurde, als sie nach der effektiven Methode abrechnete, und sie den Vorsteuerabzug vorgenommen hat;
-- b.[^82-2] der Gegenstand von der steuerpflichtigen Person im Rahmen des Meldeverfahrens von einer effektiv abrechnenden steuerpflichtigen Person erworben wurde.
-
-<sup>3</sup> Zur Ermittlung des Zeitwerts der unbeweglichen Gegenstände wird für jedes abgelaufene Jahr linear ein Zwanzigstel abgeschrieben.
-
-[^82-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^82-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^82-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 83
 
-**Übernahme von Vermögen im Meldeverfahren**
+**Übernahme von Vermögen im Meldeverfahren**[^83-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-<sup>1</sup>
+<sup>1</sup> Übernimmt eine nach der Saldosteuersatzmethode abrechnende steuerpflichtige Person im Meldeverfahren nach Artikel 38 MWSTG ein Gesamt- oder Teilvermögen oder sonstige Vermögenswerte von einer effektiv abrechnenden Person, so ist eine Korrektur im Sinne von Artikel 79 Absatz 3 vorzunehmen; vorbehalten bleibt Absatz 2.
 
-Verwendet eine nach der Saldosteuersatzmethode abrechnende steuerpflichtige Person ein im Meldeverfahren nach Artikel 38 MWSTG übernommenes Gesamt- oder Teilvermögen ab der Übernahme nicht oder zu einem geringeren Anteil als der Veräusserer oder die Veräusserin für eine zum Vorsteuerabzug berechtigende Tätigkeit, so ist wie folgt vorzugehen:[^83-1]
+<sup>2</sup> Keine Korrektur ist vorzunehmen, wenn das Gesamt- oder Teilvermögen oder die sonstigen Vermögenswerte vom Veräusserer oder von der Veräusserin für eine nicht zum Vorsteuerabzug berechtigende Tätigkeit verwendet wurde.
 
-- a. Rechnet der Veräusserer oder die Veräusserin nach der Saldosteuersatzmethode ab, so sind keine Korrekturen vorzunehmen.
-- b. Rechnet der Veräusserer oder die Veräusserin nach der effektiven Methode ab, so ist auf dem Teil des übernommenen Vermögens, der neu für eine nicht zum Vorsteuerabzug berechtigende Tätigkeit verwendet wird, der Eigenverbrauch im Sinn von Artikel 31 MWSTG unter Berücksichtigung von Artikel 38 Absatz 4 MWSTG abzurechnen.
-
-<sup>2</sup> Verwendet eine nach der Saldosteuersatzmethode abrechnende steuerpflichtige Person ein im Meldeverfahren nach Artikel 38 MWSTG übernommenes Gesamt- oder Teilvermögen zu einem grösseren Anteil als der Veräusserer oder die Veräusserin für eine zum Vorsteuerabzug berechtigende Tätigkeit, so kann keine Korrektur vorgenommen werden.
-
-[^83-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^83-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 84
 
@@ -1413,208 +1542,131 @@ Verwendet eine nach der Saldosteuersatzmethode abrechnende steuerpflichtige Pers
 
 <sup>2</sup> Wird eine Tätigkeit aufgegeben oder eine neue aufgenommen oder verändern sich die Umsatzanteile der Tätigkeiten derart, dass eine Neuzuteilung der Saldosteuersätze notwendig wird, so muss sich die steuerpflichtige Person mit der ESTV in Verbindung setzen.
 
-<sup>3</sup> Steuerpflichtige Personen, denen zwei verschiedene Saldosteuersätze bewilligt wurden, müssen die Erträge für jeden der beiden Saldosteuersätze separat verbuchen.
+<sup>3</sup> Steuerpflichtige Personen, denen mehrere Saldosteuersätze bewilligt wurden, müssen die Erträge für jeden dieser Saldosteuersätze separat verbuchen.[^84-1]
+
+[^84-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 85
 
-**Bewilligung der Anwendung eines einzigen Saldosteuersatzes**
+[^85-1]
 
-### (Art. 37 Abs. 1–4 MWSTG)
-
-Der steuerpflichtigen Person wird die Anwendung eines einzigen Saldosteuersatzes bewilligt, ausser es liegt ein Fall nach Artikel 86 Absatz 1 oder 89 Absatz 3 oder 5 vor.
+[^85-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 86
 
-**Bewilligung der Anwendung von zwei Saldosteuersätzen**
+**Bewilligung der Saldosteuersätze**[^86-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-<sup>1</sup>
-
-Der steuerpflichtigen Person wird die Anwendung von zwei Saldosteuersätzen bewilligt, wenn:
-
-- a. sie zwei oder mehr Tätigkeiten ausübt, deren von der ESTV festgelegte Saldosteuersätze sich unterscheiden; und
-- b.[^86-1] mindestens zwei dieser Tätigkeiten einen Anteil von je mehr als 10 Prozent am Gesamtumsatz aus steuerbaren Leistungen haben.
+<sup>1</sup> Für jede Tätigkeit, deren Anteil am Gesamtumsatz aus steuerbaren Leistungen mehr als 10 Prozent beträgt, wird der dafür festgelegte Saldosteuersatz bewilligt.
 
 <sup>2</sup>
 
-Die 10-Prozent-Grenze wird berechnet:
+Massgebend für die Abklärung, ob die 10-Prozent-Grenze überschritten ist, sind:
 
-- a. bei Personen, die neu steuerpflichtig werden, und bei steuerpflichtigen Personen, die eine neue Tätigkeit aufnehmen: gestützt auf die voraussichtlichen Umsätze;
-- b. bei den übrigen steuerpflichtigen Personen: gestützt auf den Umsatz in den vorangegangenen zwei Steuerperioden.
+- a. bei Personen, die neu steuerpflichtig werden, und bei steuerpflichtigen Personen, die eine neue Tätigkeit aufnehmen, die voraussichtlichen Umsätze in den ersten 12 Monaten;
+- b. bei den übrigen steuerpflichtigen Personen die in den drei vorangegangenen Steuerperioden erzielten Umsätze, wobei der Anteil der betreffenden Tätigkeit am Gesamtumsatz aus steuerbaren Leistungen in jeder dieser Steuerperioden mehr als 10 Prozent betragen haben muss.
 
 <sup>3</sup> Die Umsätze von Tätigkeiten mit gleichem Saldosteuersatz sind bei der Abklärung, ob die 10-Prozent-Grenze überschritten wird, zusammenzuzählen.
 
-<sup>4</sup> Überschreiten bei einer steuerpflichtigen Person, der die Anwendung von zwei Saldosteuersätzen bewilligt wurde, während zwei aufeinander folgenden Steuerperioden nur noch eine Tätigkeit beziehungsweise mehrere Tätigkeiten, für die derselbe Saldosteuersatz vorgesehen ist, die 10-Prozent-Grenze, so fällt die Bewilligung für die Anwendung des zweiten Saldosteuersatzes auf den Beginn der dritten Steuerperiode dahin.
+<sup>4</sup> Überschreitet der Umsatz einer Tätigkeit oder der Umsatz mehrerer Tätigkeiten, für die der gleiche Saldosteuersatz festgelegt ist, während drei aufeinander folgenden Steuerperioden die 10-Prozent-Grenze nicht mehr, so fällt die Bewilligung zur Anwendung des betreffenden Saldosteuersatzes auf den Beginn der vierten Steuerperiode dahin.
 
-[^86-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^86-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 87
 
-**Höhe der bewilligten Saldosteuersätze**
+[^87-1]
 
-### (Art. 37 Abs. 1–4 MWSTG)
-
-<sup>1</sup> Überschreiten nur zwei Tätigkeiten der steuerpflichtigen Person die 10-Prozent-Grenze, so wird die Anwendung der zwei für diese Tätigkeiten vorgesehenen Saldosteuersätze bewilligt.
-
-<sup>2</sup>
-
-Überschreiten mehr als zwei Tätigkeiten die 10-Prozent-Grenze, so wird die Anwendung der folgenden Saldosteuersätze bewilligt:
-
-- a. der höchste der Saldosteuersätze, die für die entsprechenden Tätigkeiten, deren Anteil am Gesamtumsatz mehr als 10 Prozent beträgt, vorgesehen sind;
-- b. ein zweiter Saldosteuersatz, den die steuerpflichtige Person unter jenen Sätzen wählt, die für ihre übrigen Tätigkeiten, deren Anteil am Gesamtumsatz mehr als 10 Prozent beträgt, vorgesehen sind.
+[^87-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 88
 
-**Versteuerung der einzelnen Tätigkeiten**
+**Versteuerung der einzelnen Tätigkeiten**[^88-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-<sup>1</sup>
+<sup>1</sup> Die Umsätze aus Tätigkeiten der steuerpflichtigen Person, der mehr als ein Saldosteuersatz bewilligt worden ist, sind zum bewilligten Saldosteuersatz zu versteuern, der für die betreffende Tätigkeit festgelegt ist.
 
-Die Umsätze aus Tätigkeiten der steuerpflichtigen Person, der die Anwendung von zwei Saldosteuersätzen bewilligt worden sind, sind zu versteuern:
+<sup>2</sup>
 
-- a. zum höheren bewilligten Saldosteuersatz, wenn der für die betreffende Tätigkeit vorgesehene Saldosteuersatz über dem tieferen bewilligten Satz liegt;
-- b. zum tieferen bewilligten Satz in den übrigen Fällen.
+Wurde für eine Tätigkeit der dafür festgelegte Saldosteuersatz nicht bewilligt, so sind die damit erzielten Umsätze wie folgt zu versteuern:
 
-<sup>2</sup> In Fällen von Artikel 19 Absatz 2 MWSTG kann das Gesamtentgelt mit dem bewilligten Saldosteuersatz abgerechnet werden, der für die überwiegende Leistung gilt. Unterliegen die Leistungen jedoch alle dem gleichen Steuersatz nach Artikel 25 MWSTG, so ist das Gesamtentgelt zum höheren bewilligten Saldosteuersatz abzurechnen, ausser die steuerpflichtige Person kann nachweisen, welcher Anteil der Gesamtleistung auf die einzelnen Teilleistungen entfällt.[^88-1]
+- a. zum nächsttieferen bewilligten Saldosteuersatz, wenn kein höherer Satz bewilligt ist;
+- b. zum nächsthöheren bewilligten Saldosteuersatz in den übrigen Fällen.
 
-[^88-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+<sup>3</sup> In den Fällen von Artikel 19 Absatz 2 MWSTG kann das Gesamtentgelt mit dem bewilligten Saldosteuersatz abgerechnet werden, der nach den Artikeln 84 und 86 sowie nach den Absätzen 1 und 2 für die überwiegende Leistung massgebend ist.
+
+<sup>4</sup> Unterliegen die Leistungen alle dem gleichen Steuersatz nach Artikel 25 MWSTG, so sind die einzelnen Teilleistungen zu den hierfür bewilligten Saldosteuersätzen abzurechnen.
+
+<sup>5</sup> Kann die steuerpflichtige Person nicht nachweisen, welche Anteile auf die einzelnen Teilleistungen entfallen, ist das Gesamtentgelt zum höchsten Saldosteuersatz abzurechnen, der für diese Leistungen bewilligt wurde.
+
+<sup>6</sup> Die steuerpflichtige Person kann den gesamten Umsatz aus steuerbaren Leistungen freiwillig zum höchsten bewilligten Saldosteuersatz abrechnen.
+
+[^88-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 89
 
-**Sonderregelung für Mischbranchen**
+[^89-1]
 
-### (Art. 37 Abs. 1–4 MWSTG)
-
-<sup>1</sup> Mischbranchen sind Branchen, in denen üblicherweise mehrere Tätigkeiten ausgeübt werden, die für sich allein betrachtet zu unterschiedlichen Saldosteuersätzen abzurechnen wären.
-
-<sup>2</sup>
-
-Die ESTV legt in einer Verordnung fest:
-
-- a. den für die jeweilige Mischbranche anwendbaren Saldosteuersatz;
-- b. die in der jeweiligen Mischbranche üblichen Haupt- und Nebentätigkeiten.
-
-<sup>3</sup> Überschreitet der Anteil einer branchenüblichen Nebentätigkeit oder mehrerer branchenüblichen Nebentätigkeiten, für die nach der Verordnung der ESTV derselbe Saldosteuersatz anwendbar wäre, 50 Prozent des Umsatzes aus der steuerbaren Haupttätigkeit und den steuerbaren branchenüblichen Nebentätigkeiten, so gelten für die Abrechnung nach Saldosteuersätzen die Artikel 86–88.[^89-1]
-
-<sup>4</sup>
-
-Die 50-Prozent-Grenze wird berechnet:
-
-- a. bei Personen, die neu steuerpflichtig werden, und bei steuerpflichtigen Personen, die eine neue Tätigkeit aufnehmen: gestützt auf die voraussichtlichen Umsätze;
-- b. bei den übrigen steuerpflichtigen Personen: gestützt auf den Umsatz in den vorangegangenen zwei Steuerperioden.
-
-<sup>5</sup> Übt eine steuerpflichtige Person, die in einer Mischbranche tätig ist, noch branchenfremde Tätigkeiten aus, so richtet sich die Abrechnung nach Saldosteuersätzen für diese Tätigkeiten nach den Artikeln 86–88.
-
-[^89-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^89-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 90
 
-**Besondere Verfahren**
+**Besondere Verfahren**[^90-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-<sup>1</sup>
+Die ESTV stellt Betrieben und Anlässen nach Artikel 55 Absatz 3 eine Pauschalregelung für die Aufteilung der Umsätze auf gastgewerbliche Leistungen und auf Verkäufe von zum Mitnehmen bestimmten Lebensmitteln nach Artikel 55 Absatz 2 zur Verfügung.
 
-Die ESTV stellt den nach der Saldosteuersatzmethode abrechnenden steuerpflichtigen Personen ein Verfahren zur annäherungsweisen Abgeltung der angefallenen Vorsteuern zur Verfügung bei:
-
-- a. Lieferungen von Gegenständen ins Ausland, sofern der Gegenstand selbst hergestellt oder steuerbelastet eingekauft worden ist;
-- b. Leistungen an Begünstigte nach Artikel 2 des Gaststaatgesetzes vom 22. Juni 2007[^90-1] (GSG), sofern der Ort der Leistung im Inland liegt und bei Lieferungen der Gegenstand selbst hergestellt oder steuerbelastet eingekauft worden ist.
-
-<sup>2</sup>
-
-Nach der Saldosteuersatzmethode abrechnende steuerpflichtige Personen, die individualisierbare bewegliche Gegenstände ohne offen überwälzte Steuer beziehen, können beim Verkauf dieser Gegenstände das von der ESTV zur Verfügung gestellte Verfahren zur Abgeltung der fiktiven Vorsteuer anwenden. Nicht anwendbar ist das Verfahren für gebrauchte Automobile bis zu einem Gesamtgewicht von 3500 kg sowie für Gegenstände:
-
-- a. welche die steuerpflichtige Person im Meldeverfahren von einer effektiv abrechnenden Person übernommen hat;
-- b. von denen die steuerpflichtige Person weiss oder wissen müsste, dass sie steuerbefreit eingeführt wurden;
-- c. welche die steuerpflichtige Person im Inland steuerbefreit bezogen hat; oder
-- d. welche die steuerpflichtige Person im Rahmen einer Schadenregulierung übernommen hat, wenn die ausgerichteten Zahlungen den tatsächlichen Wert des Gegenstandes im Zeitpunkt der Übernahme übersteigen.[^90-2]
-
-<sup>2bis</sup> Das Verfahren nach Absatz 2 ist sinngemäss anwendbar, wenn Sammlerstücke (Art. 48*a*) verkauft werden.[^90-3]
-
-<sup>3</sup> Für Betriebe und Anlässe nach Artikel 55 Absatz 3 sieht die ESTV eine Pauschalregelung zur annäherungsweisen Aufteilung der Umsätze auf die beiden Saldosteuersätze vor.
-
-[^90-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^90-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^90-3]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^90-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 91
 
-**Abrechnung der Bezugsteuer**
+**Abrechnung der Bezugsteuer**[^91-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-Nach der Saldosteuersatzmethode abrechnende steuerpflichtige Personen, die Leistungen von Unternehmen mit Sitz im Ausland nach den Artikeln 45–49 MWSTG beziehen, müssen die Bezugsteuer halbjährlich zum entsprechenden gesetzlichen Steuersatz entrichten.
+Nach der Saldosteuersatzmethode abrechnende steuerpflichtige Personen, die Leistungen nach Artikel 45 Absatz 1 MWSTG beziehen, müssen die Bezugsteuer in der entsprechenden Abrechnungsperiode zum hierfür geltenden gesetzlichen Steuersatz entrichten.
+
+[^91-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 92
 
-**Eigenverbrauch**
+**Eigenverbrauch**[^92-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-Der Eigenverbrauch ist, mit Ausnahme von Artikel 83 Absatz 1 Buchstabe b, mit der Anwendung der Saldosteuersatzmethode berücksichtigt.
+Der Eigenverbrauch ist mit der Anwendung der Saldosteuersatzmethode berücksichtigt.
+
+[^92-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 93
 
-**Korrekturen bei unbeweglichen Gegenständen**
+[^93-1]
 
-### (Art. 37 Abs. 1–4 MWSTG)
-
-<sup>1</sup>
-
-Wird ein unbeweglicher Gegenstand nicht mehr im Rahmen der unternehmerischen Tätigkeit der steuerpflichtigen Person oder neu für eine nach Artikel 21 Absatz 2 MWSTG von der Steuer ausgenommene Tätigkeit verwendet, so ist auf dem Zeitwert die Steuer zum in diesem Zeitpunkt geltenden Normalsatz zu belasten, wenn:[^93-1]
-
-- a. der Gegenstand von der steuerpflichtigen Person erworben, erbaut oder umgebaut wurde, als sie nach der effektiven Methode abrechnete, und sie den Vorsteuerabzug vorgenommen hat;
-- b.[^93-2] der Gegenstand von der steuerpflichtigen Person im Rahmen des Meldeverfahrens von einer effektiv abrechnenden steuerpflichtigen Person erworben wurde.
-
-<sup>2</sup> Zur Ermittlung des Zeitwerts der unbeweglichen Gegenstände wird für jedes abgelaufene Jahr linear ein Zwanzigstel abgeschrieben.
-
-[^93-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^93-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^93-1]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 94
 
-**Leistungen an eng verbundene Personen und an das Personal**
+**Leistungen an eng verbundene Personen und das Personal**[^94-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-[^94-1]
+<sup>1</sup> Leistungen an eng verbundene Personen und an das Personal sind mit dem nach den Artikeln 84, 86 und 88 für die betreffende Leistung massgebenden bewilligten Saldosteuersatz abzurechnen.
 
-<sup>1</sup>
+<sup>2</sup> Leistungen, die im Lohnausweis zuhanden der direkten Steuern aufgeführt werden müssen, gelten immer als entgeltlich erbracht. Die Steuer ist auf der Grundlage des Betrages zu berechnen, der auch für die direkten Steuern massgebend ist.
 
-Leistungen an eng verbundene Personen sind, unter Vorbehalt von Artikel 93, bei der Abrechnung mit Saldosteuersätzen wie folgt zu behandeln:
-
-- a. und b.[^94-2] …
-- c.[^94-3] Gegenstände und Dienstleistungen sind zum bezahlten Entgelt, mindestens aber zum Wert, der unter unabhängigen Dritten vereinbart würde, mit dem bewilligten Saldosteuersatz abzurechnen.
-- d. Wird mit zwei Saldosteuersätzen abgerechnet und kann die Leistung nicht einer Tätigkeit zugeordnet werden, so kommt der höhere Satz zur Anwendung.
-
-<sup>2</sup>
-
-Leistungen an das Personal sind bei der Abrechnung mit Saldosteuersätzen wie folgt zu behandeln:
-
-- a. Entgeltlich abgegebene Gegenstände und entgeltlich erbrachte Dienstleistungen an das Personal sind mit dem bewilligten Saldosteuersatz abzurechnen.
-- b. Wird mit zwei Saldosteuersätzen abgerechnet und kann die Leistung nicht einer Tätigkeit zugeordnet werden, so kommt der höhere Satz zur Anwendung.
-
-<sup>3</sup> Für eng verbundene Personen, die zum Personal gehören, gilt Absatz 2.[^94-4]
-
-<sup>4</sup> Leistungen, die im Lohnausweis zuhanden der direkten Steuern aufgeführt werden müssen, gelten immer als entgeltlich erbracht. Die Steuer ist auf dem Betrag zu berechnen, der auch für die direkten Steuern massgebend ist.[^94-5]
-
-[^94-1]: Die Berichtigung vom 12. Dez. 2017 betrifft nur den französischen Text ([AS 2017 7263](https://fedlex.data.admin.ch/eli/oc/2017/789)).
-[^94-2]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-4]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^94-5]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^94-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 95
 
-**Verkäufe von Betriebsmitteln und Anlagegütern**[^95-1]
+**Verkäufe von Betriebsmitteln, Anlagegütern und aktivierbaren Dienstleistungen**[^95-1]
 
 ### (Art. 37 Abs. 1–4 MWSTG)
 
-Verkäufe von Betriebsmitteln und Anlagegütern, die nicht ausschliesslich zur Erbringung von Leistungen, die von der Steuer ausgenommen sind, eingesetzt wurden, sind zum bewilligten Saldosteuersatz zu versteuern. Wird mit zwei Saldosteuersätzen abgerechnet und wurde das Betriebsmittel oder das Anlagegut für beide Tätigkeiten verwendet, so sind die Entgelte zum höheren Saldosteuersatz abzurechnen.
+Verkäufe von Betriebsmitteln, Anlagegütern und aktivierbaren Dienstleistungen, die nicht ausschliesslich zur Erbringung von Leistungen, die von der Steuer ausgenommen sind, eingesetzt wurden, sind mit dem nach den Artikeln 84, 86 und 88 für die betreffende Leistung massgebenden bewilligten Saldosteuersatz abzurechnen.
 
-[^95-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^95-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 96
 
@@ -1632,31 +1684,53 @@ Stellt eine mit Saldosteuersätzen abrechnende steuerpflichtige Person eine Leis
 
 ### (Art. 37 Abs. 5 MWSTG)
 
-<sup>1</sup> Verwandte Einrichtungen nach Artikel 37 Absatz 5 MWSTG sind namentlich Gemeindezweckverbände und andere Zusammenschlüsse von Gemeinwesen, Kirchgemeinden, private Schulen und Internate, private Spitäler, Zentren für ärztliche Heilbehandlungen, Rehabilitationszentren, Kurhäuser, private Spitexorganisationen, Altersheime, Pflegeheime, Seniorenresidenzen, sozial tätige Unternehmen wie Behindertenwerkstätten, Wohnheime und Sonderschulen, von Gemeinwesen subventionierte Betreiber von Sportanlagen und Kulturzentren, kantonale Gebäudeversicherungen, Wassergenossenschaften, Transportunternehmen des öffentlichen Verkehrs, von Gemeinwesen subventionierte privatrechtliche Waldkorporationen, Veranstalter und Veranstalterinnen von nicht wiederkehrenden Anlässen in den Bereichen Kultur und Sport, Vereine nach den Artikeln 60–79 des Zivilgesetzbuchs[^97-1] (ZGB) und Stiftungen nach den Artikeln 80–89<sup>bis</sup> ZGB.
+<sup>1</sup>
+
+Verwandte Einrichtungen nach Artikel 37 Absatz 5 MWSTG sind namentlich:
+
+- a. Gemeindezweckverbände und andere Zusammenschlüsse von Gemeinwesen;
+- b. Kirchgemeinden;
+- c. private Schulen und Internate;
+- d. private Spitäler und Zentren für ärztliche Heilbehandlungen;
+- e. Rehabilitationszentren und Kurhäuser;
+- f. private Spitexorganisationen;
+- g. Altersheime, Pflegeheime und Seniorenresidenzen;
+- h. sozial tätige Unternehmen wie Behindertenwerkstätten, Wohnheime und Sonderschulen;
+- i. von Gemeinwesen subventionierte Betreiber von Sportanlagen und Kulturzentren;
+- j. kantonale Gebäudeversicherungen;
+- k. Wassergenossenschaften;
+- l. Transportunternehmen des öffentlichen Verkehrs;
+- m. von Gemeinwesen subventionierte privatrechtliche Korporationen;
+- n. Veranstalter und Veranstalterinnen von nicht wiederkehrenden Anlässen in den Bereichen Kultur und Sport;
+- o. Vereine nach den Artikeln 60–79 des Zivilgesetzbuchs (ZGB)[^97-1]; und
+- p. Stiftungen nach den Artikeln 80–89<sup>bis</sup> ZGB.[^97-2]
 
 <sup>2</sup> Es bestehen keine betragsmässigen Grenzen für die Anwendung der Pauschalsteuersatzmethode.
 
-<sup>3</sup> Steuerpflichtige Personen, die mit der Pauschalsteuersatzmethode abrechnen, können nicht für die Versteuerung von Leistungen nach Artikel 21 Absatz 2 Ziffern 1–24, 27, 29 und 30 MWSTG optieren. Wird die Steuer gleichwohl in Rechnung gestellt, so ist die ausgewiesene Steuer unter Vorbehalt von Artikel 27 Absatz 2 MWSTG der ESTV abzuliefern.[^97-2]
+<sup>3</sup> Steuerpflichtige Personen, die mit der Pauschalsteuersatzmethode abrechnen, können nicht für die Versteuerung von Leistungen nach Artikel 21 Absatz 2 Ziffern 1–24, 27 und 29–31 MWSTG optieren. Wird die Steuer gleichwohl in Rechnung gestellt, so ist die ausgewiesene Steuer unter Vorbehalt von Artikel 27 Absatz 2 MWSTG der ESTV abzuliefern.[^97-3]
 
-<sup>4</sup> Autonome Dienststellen nach Artikel 12 Absatz 1 MWSTG, die sich zu einem einzigen Steuersubjekt zusammenschliessen (Art. 12 Abs. 2 MWSTG), können die Pauschalsteuersatzmethode anwenden.[^97-3]
+<sup>4</sup> Autonome Dienststellen nach Artikel 12 Absatz 1 MWSTG, die sich zu einem einzigen Steuersubjekt zusammenschliessen (Art. 12 Abs. 2 MWSTG), können die Pauschalsteuersatzmethode anwenden.[^97-4]
 
-[^97-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^97-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^97-3]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^97-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^97-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^97-3]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^97-4]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
 #### Art. 98
 
-**Unterstellung unter die Pauschalsteuersatzmethode und Wechsel der Abrechnungsmethode**
+**Unterstellung unter die Pauschalsteuersatzmethode und Wechsel der Abrechnungsmethode**[^98-1]
 
 ### (Art. 37 Abs. 5 MWSTG)
 
-<sup>1</sup> Gemeinwesen sowie verwandte Einrichtungen nach Artikel 97 Absatz 1, die nach der Pauschalsteuersatzmethode abrechnen wollen, müssen dies der ESTV schriftlich melden.
+<sup>1</sup> Gemeinwesen und verwandte Einrichtungen nach Artikel 97 Absatz 1, die nach der Pauschalsteuersatzmethode abrechnen wollen, müssen dies der ESTV melden.
 
-<sup>2</sup> Die Pauschalsteuersatzmethode muss während mindestens dreier Steuerperioden beibehalten werden. Entscheidet sich die steuerpflichtige Person für die effektive Abrechnungsmethode, so kann sie frühestens nach zehn Jahren zur Pauschalsteuersatzmethode wechseln. Ein früherer Wechsel ist bei jeder Anpassung des betreffenden Pauschalsteuersatzes möglich, die nicht auf eine Änderung der Steuersätze nach den Artikeln 25 und 55 MWSTG zurückzuführen ist.[^98-1]
+<sup>2</sup> Die Pauschalsteuersatzmethode muss während mindestens einer ganzen Steuerperiode beibehalten werden. Entscheidet sich die steuerpflichtige Person für die effektive Abrechnungsmethode, so kann sie frühestens nach einer ganzen Steuerperiode zur Pauschalsteuersatzmethode wechseln.
 
-<sup>3</sup> Wechsel der Abrechnungsmethode sind auf den Beginn einer Steuerperiode möglich. Sie müssen der ESTV bis spätestens 60 Tage nach Beginn der Steuerperiode schriftlich gemeldet werden, ab welcher der Wechsel erfolgen soll. Bei verspäteter Meldung erfolgt der Wechsel auf den Beginn der nachfolgenden Steuerperiode.
+<sup>3</sup> Frühere Wechsel zur effektiven Methode oder zur Pauschalsteuersatzmethode sind bei jeder Anpassung des betreffenden Pauschalsteuersatzes zulässig, die nicht auf eine Änderung der Steuersätze nach den Artikeln 25 und 55 MWSTG zurückzuführen ist.
 
-[^98-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+<sup>4</sup> Wechsel der Abrechnungsmethode sind auf den Beginn einer Steuerperiode möglich. Sie müssen der ESTV bis spätestens 60 Tage nach Beginn der Steuerperiode, ab welcher der Wechsel erfolgen soll, gemeldet werden.
+
+[^98-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 99
 
@@ -1668,17 +1742,15 @@ Stellt eine mit Saldosteuersätzen abrechnende steuerpflichtige Person eine Leis
 
 <sup>2</sup> Die ESTV legt die Pauschalsteuersätze unter Berücksichtigung der branchenüblichen Vorsteuerquote fest. Eine Tätigkeit, für die kein Pauschalsteuersatz festgelegt wurde, ist mit dem bei der Saldosteuersatzmethode geltenden Satz abzurechnen.
 
-<sup>3</sup> Die steuerpflichtige Person muss jede ihrer Tätigkeiten zum massgebenden Pauschalsteuersatz abrechnen. Die Anzahl der anwendbaren Pauschalsteuersätze ist nicht beschränkt.
+<sup>3</sup> Die steuerpflichtige Person muss jede ihrer Tätigkeiten ungeachtet der Höhe des damit erzielten Umsatzes zum massgebenden Pauschalsteuersatz abrechnen. Sie kann den gesamten Umsatz aus steuerbaren Leistungen auch freiwillig zum höchsten bewilligten Pauschalsteuersatz abrechnen.[^99-1]
+
+[^99-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 99a
 
-**Abrechnung der Bezugsteuer**[^99a-1]
+[^99a-1]
 
-### (Art. 37 Abs. 5 MWSTG)
-
-Nach der Pauschalsteuersatzmethode abrechnende steuerpflichtige Personen, die Leistungen von Unternehmen mit Sitz im Ausland nach den Artikeln 45–49 MWSTG beziehen, müssen die Bezugsteuer vierteljährlich zum entsprechenden gesetzlichen Steuersatz entrichten.
-
-[^99a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^99a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 100
 
@@ -1755,7 +1827,9 @@ Beim Wechsel von der Abrechnung nach vereinbarten Entgelten zur Abrechnung nach 
 - a. die im Zeitpunkt des Wechsels bestehenden Debitorenposten von den in dieser Abrechnungsperiode vereinnahmten Entgelten abziehen; und
 - b. die Vorsteuern auf den im Zeitpunkt des Wechsels bestehenden Kreditorenposten von den in dieser Abrechnungsperiode bezahlten Vorsteuern abziehen.
 
-<sup>3</sup> Wird gleichzeitig mit dem Wechsel der Abrechnungsart auch die Abrechnungsmethode nach den Artikeln 36 und 37 MWSTG geändert, so gilt Artikel 79 Absatz 4 beziehungsweise Artikel 81 Absatz 6 dieser Verordnung.
+<sup>3</sup> Wird gleichzeitig mit dem Wechsel der Abrechnungsart auch die Abrechnungsmethode nach den Artikeln 36 und 37 MWSTG geändert, so gilt Artikel 79 Absatz 4 beziehungsweise Artikel 81 Absatz 5[^106-1] dieser Verordnung.
+
+[^106-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2025 angepasst.
 
 #### Art. 107
 
@@ -1765,14 +1839,16 @@ Beim Wechsel von der Abrechnung nach vereinbarten Entgelten zur Abrechnung nach 
 
 [^107-1]
 
-<sup>1</sup> Beim Wechsel von der Abrechnung nach vereinnahmten Entgelten zur Abrechnung nach vereinbarten Entgelten muss die steuerpflichtige Person in der auf den Wechsel folgenden Abrechnungsperiode die im Zeitpunkt des Wechsels bestehenden Forderungen mit den bewilligten Saldosteuersätzen beziehungsweise Pauschalsteuersätzen abrechnen.[^107-2]
+<sup>1</sup> Wechselt die steuerpflichtige Person von der Abrechnung nach vereinnahmten Entgelten zur Abrechnung nach vereinbarten Entgelten, so muss sie in der auf den Wechsel folgenden Abrechnungsperiode die im Zeitpunkt des Wechsels bestehenden Debitorenposten mit den bewilligten Saldosteuersätzen beziehungsweise Pauschalsteuersätzen abrechnen, die nach den Artikeln 84, 86 und 88 für die Tätigkeiten massgebend sind, aus denen sich diese Debitorenposten ergeben.[^107-2]
 
-<sup>2</sup> Beim Wechsel von der Abrechnung nach vereinbarten Entgelten zur Abrechnung nach vereinnahmten Entgelten muss die steuerpflichtige Person in der auf den Wechsel folgenden Abrechnungsperiode die im Zeitpunkt des Wechsels bestehenden Debitorenposten von den in dieser Abrechnungsperiode vereinnahmten Entgelten abziehen.
+<sup>2</sup> Wechselt die steuerpflichtige Person von der Abrechnung nach vereinbarten Entgelten zur Abrechnung nach vereinnahmten Entgelten, so muss sie in der Abrechnungsperiode, die auf den Wechsel folgt, die im Zeitpunkt des Wechsels bestehenden Debitorenposten von den in dieser Abrechnungsperiode vereinnahmten Entgelten aus den entsprechenden Tätigkeiten abziehen.[^107-3]
 
-<sup>3</sup> Wird gleichzeitig mit dem Wechsel der Abrechnungsart auch die Abrechnungsmethode geändert, so gilt Artikel 79 Absatz 4 beziehungsweise Artikel 81 Absatz 6.
+<sup>3</sup> Wird gleichzeitig mit dem Wechsel der Abrechnungsart auch die Abrechnungsmethode geändert, so gilt Artikel 79 Absatz 4 beziehungsweise Artikel 81 Absatz 5[^107-4].
 
 [^107-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^107-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^107-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^107-3]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^107-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2025 angepasst.
 
 #### Art. 108
 
@@ -1815,9 +1891,37 @@ Den Datenträgern ohne Marktwert sind namentlich die folgenden Gegenstände glei
 - b. Rechtsschriften von Anwälten und Anwältinnen, Gutachten von Sachverständigen, Übersetzungen, Forschungs- und Versuchsergebnisse sowie Ergebnisse aus Analysen, Bewertungen und Ähnlichem;
 - c. verbriefte Rechte und immaterielle Werte.
 
+#### Art. 111a
+
+**Übertragung von Emissionsrechten und ähnlichen Rechten**[^111a-1]
+
+### (45 Abs. 1 Bst. e MWSTG)
+
+<sup>1</sup> Die Übertragung von Emissionsrechten und weiteren Rechten nach Artikel 45 Absatz 1 Buchstabe e MWSTG unterliegt nicht der Inlandsteuer.
+
+<sup>2</sup> Wird bei der Übertragung die Inlandsteuer in Rechnung gestellt, kann diese nicht als Vorsteuer abgezogen werden, es sei denn, die Steuer wurde abgerechnet und bezahlt.
+
+[^111a-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
 ## 4. Titel: Einfuhrsteuer
 
-### 1. Kapitel: Mehrheit von Leistungen und Befreiung von der Einfuhrsteuer
+### 1. Kapitel: Versandhandelsunternehmen anstelle der Plattform als einfuhrsteuerpflichtiger Person
+
+[^tit4-chap1-1]
+
+[^tit4-chap1-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+### (Art. 51 MWSTG)
+
+#### Art. 111b
+
+Das Versandhandelsunternehmen kann bei der Einfuhr von Gegenständen mit dem Leistungserbringer oder der Leistungserbringerin nach Artikel 20*a* MWSTG vereinbaren, dass es die Einfuhr im eigenen Namen vornimmt, sofern es mindestens eine der beiden Bedingungen von Artikel 7 Absatz 3 MWSTG erfüllt.
+
+### 1*a*. Kapitel: Mehrheit von Leistungen und Befreiung von der Einfuhrsteuer
+
+[^tit4-chap1a-1]
+
+[^tit4-chap1a-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 112
 
@@ -1842,21 +1946,25 @@ Aus der Kostenkalkulation müssen ersichtlich sein:
 
 #### Art. 113
 
-**Befreiung von der Einfuhrsteuer**
+**Befreiung von der Mehrwertsteuer**
 
-### (Art. 53 Abs. 2 und 107 Abs. 2 MWSTG)
+### (Art. 53 Abs. 2 MWSTG)
+
+[^113-1]
 
 Von der Einfuhrsteuer sind befreit:
 
-- a. Gegenstände für Staatsoberhäupter sowie für diplomatische, konsularische und internationale Stellen und deren Mitglieder, die nach Artikel 6 der Zollverordnung vom 1. November 2006[^113-1] (ZV) zollfrei sind;
+- a. Gegenstände für Staatsoberhäupter sowie für diplomatische, konsularische und internationale Stellen und deren Mitglieder, die nach Artikel 6 der Zollverordnung vom 1. November 2006[^113-2] (ZV) zollfrei sind;
 - b. Särge, Urnen und Trauerschmuck, die nach Artikel 7 ZV zollfrei sind;
 - c. Ehrenpreise, Erinnerungszeichen und Ehrengaben, die nach Artikel 8 ZV zollfrei sind;
 - d. Speisewagenvorräte, die nach Artikel 10 ZV zollfrei sind;
 - e. Vorräte, Ersatzteile und Ausrüstungsgegenstände auf Schiffen, die nach Artikel 11 ZV zollfrei sind;
 - f. Vorräte, Ersatzteile und Ausrüstungsgegenstände an Bord von Luftfahrzeugen, die nach Artikel 12 ZV zollfrei sind;
-- g. Münz- und Feingold nach Artikel 44.
+- g.[^113-3] …
 
-[^113-1]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^113-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^113-2]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
+[^113-3]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### 2. Kapitel: Bestimmung und Sicherstellung der Einfuhrsteuerschuld
 
@@ -1887,7 +1995,7 @@ Die Höhe der Sicherheit beträgt bei bedingt entstandenen Steuerforderungen ode
 
 <sup>2</sup> Bei internationalen Transiten richtet sich die Höhe der Sicherheit nach den völkerrechtlichen Verträgen.
 
-[^115-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^115-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^115-2]: Eingefügt durch Anhang Ziff. 2 der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 116
@@ -1941,9 +2049,12 @@ Die Bewilligung wird erteilt, wenn die steuerpflichtige Person:
 - d.[^118-1] in ihren periodischen Steuerabrechnungen mit der ESTV regelmässig Vorsteuerüberschüsse aus Ein- und Ausfuhren von Gegenständen nach Buchstabe b von mehr als 10 000 Franken pro Jahr ausweist, die aus der Entrichtung der Einfuhrsteuer an das BAZG herrühren; und
 - e. Gewähr bietet für einen ordnungsgemässen Ablauf des Verfahrens.
 
+<sup>1bis</sup> Leistungserbringern oder Leistungserbringerinnen nach Artikel 20*a* MWSTG, gegen die eine administrative Massnahme nach Artikel 79*a* MWSTG verfügt war, kann die Bewilligung für die Anwendung des Verlagerungsverfahrens auf Antrag hin ab dem Folgetag der Aufhebung der Verfügung erteilt werden.[^118-2]
+
 <sup>2</sup> Die Erteilung oder Aufrechterhaltung der Bewilligung kann von der Leistung von Sicherheiten in Höhe der mutmasslichen Ansprüche abhängig gemacht werden.
 
 [^118-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^118-2]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 119
 
@@ -1955,11 +2066,15 @@ Fällt eine der Voraussetzungen der Bewilligung nach Artikel 118 Absatz 1 Buchst
 
 #### Art. 120
 
-**Entzug der Bewilligung**
+**Entzug der Bewilligung**[^120-1]
 
 ### (Art. 63 MWSTG)
 
-Die Bewilligung wird entzogen, wenn die steuerpflichtige Person nicht mehr Gewähr für einen ordnungsgemässen Ablauf des Verfahrens bietet.
+<sup>1</sup> Die Bewilligung wird entzogen, wenn die steuerpflichtige Person nicht mehr Gewähr für einen ordnungsgemässen Ablauf des Verfahrens bietet.
+
+<sup>2</sup> Leistungserbringern oder Leistungserbringerinnen nach Artikel 20*a* MWSTG, gegen die eine administrative Massnahme nach Artikel 79*a* MWSTG verfügt wird, wird die Bewilligung mit Wirkung ab dem Tag nach dem Erlass der Verfügung entzogen.
+
+[^120-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 121
 
@@ -1973,17 +2088,13 @@ Für die Bewilligung nach Artikel 63 Absatz 2 MWSTG gelten die Artikel 118–120
 
 ### 1. Kapitel: Rechte und Pflichten der steuerpflichtigen Person
 
-### 1. Abschnitt: Verzicht auf die Anmeldung als steuerpflichtige Person
-
-[^tit5-chap1-sec1-1]
-
-[^tit5-chap1-sec1-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-
-### (Art. 66 Abs. 1 MWSTG)
+### 1. Abschnitt: …
 
 #### Art. 121a
 
-Unternehmen, die im Inland ausschliesslich von der Steuer ausgenommene Leistungen erbringen, können auf die Anmeldung bei der ESTV als steuerpflichtige Person verzichten. Bei Unternehmen ohne Sitz, Wohnsitz oder Betriebsstätte im Inland gilt dies auch, wenn sie zudem Leistungen erbringen, für die sie nach Artikel 10 Absatz 2 Buchstabe b MWSTG von der Steuerpflicht befreit sind.
+[^121a-1]
+
+[^121a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)). Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### 1*a*. Abschnitt: Papierlose Belege, elektronische Verfahren
 
@@ -2003,8 +2114,8 @@ Für die Übermittlung und Aufbewahrung papierloser Belege gelten die Artikel 95
 
 [^122-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^122-2]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
-[^122-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^122-4]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^122-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^122-4]: [SR 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 123
 
@@ -2012,9 +2123,22 @@ Für die Übermittlung und Aufbewahrung papierloser Belege gelten die Artikel 95
 
 ### (Art. 65*a* MWSTG)
 
-Die Anmeldung als steuerpflichtige Person (Art. 66 Abs. 1 MWSTG), die Einreichung der Abrechnung (Art. 71 MWSTG) und die nachträglichen Korrekturen der Abrechnung (Art. 72 MWSTG) müssen elektronisch über das hierfür vorgesehene Portal erfolgen.
+<sup>1</sup> Wird das elektronische Verfahren vorgeschrieben, so müssen sämtliche Eingaben an die ESTV elektronisch über das hierfür vorgesehene Portal erfolgen.
 
-[^123-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+<sup>2</sup>
+
+Das elektronische Verfahren wird vorgeschrieben für:
+
+- a. …
+- b. die jährliche Abrechnung (Art. 35*a* und 86*a* MWSTG);
+- c. …
+- d. …
+- e. die Anmeldung als steuerpflichtige Person (Art. 66 Abs. 1 MWSTG);
+- f. …
+- g. die Einreichung der Abrechnung (Art. 71 MWSTG);
+- h. die nachträglichen Korrekturen der Abrechnung (Art. 72 MWSTG).
+
+[^123-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025, Abs. 2 Bst. a, c, d und f treten am 1. Jan. 2027 in Kraft ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 124 und 125
 
@@ -2075,7 +2199,7 @@ Bei der effektiven Abrechnungsmethode muss die steuerpflichtige Person für die 
 
 <sup>2</sup> Die ESTV kann mehrere Werte nach Absatz 1 unter einer Ziffer des Abrechnungsformulars zusammenfassen oder darauf verzichten, sie im Rahmen der periodischen Abrechnung zu verlangen.
 
-[^126-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^126-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 127
 
@@ -2107,12 +2231,15 @@ Bei der Saldosteuersatz- und der Pauschalsteuersatzmethode muss die steuerpflich
   - 3\. anderen nicht als Entgelte geltenden Mittelflüsse nach Artikel 18 Absatz 2 Buchstaben d–l MWSTG;
 
 - d. das Total der Entgelte für der Bezugsteuer unterliegende Leistungen, aufgeteilt nach Steuersätzen;
-- e. Steueranrechnungen aus der Anwendung eines von der ESTV zur Verfügung gestellten besonderen Verfahrens nach Artikel 90 Absätze 1 und 2;
-- f. Zeitwert der unbeweglichen Gegenstände nach Artikel 93, die nicht mehr im Rahmen der unternehmerischen Tätigkeit oder neu für eine nach Artikel 21 Absatz 2 MWSTG von der Steuer ausgenommene Tätigkeit verwendet werden.
+- e. und f.[^127-2] …
+- g.[^127-3] die Korrekturen nach den Artikeln 79 Absätze 3 und 4, 81 Absätze 4 und 5[^127-4] sowie 83 Absatz 1.
 
 <sup>2</sup> Die ESTV kann mehrere Werte nach Absatz 1 unter einer Ziffer des Abrechnungsformulars zusammenfassen oder darauf verzichten, sie im Rahmen der periodischen Abrechnung zu verlangen.
 
-[^127-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^127-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^127-2]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^127-3]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+[^127-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
 
 #### Art. 128
 
@@ -2240,7 +2367,7 @@ Die Daten, welche die ESTV nach Artikel 76*a* Absatz 3 MWSTG bearbeiten kann, si
 
 [^134-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 [^134-2]: Ausdruck gemäss Anhang Ziff. II 24 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^134-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^134-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 135
 
@@ -2255,8 +2382,8 @@ Die Daten, welche die ESTV nach Artikel 76*a* Absatz 3 MWSTG bearbeiten kann, si
 <sup>3</sup> Nicht anonymisierte Daten dürfen für interne Geschäftskontrollen und für die interne Geschäftsplanung verwendet werden.
 
 [^135-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^135-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^135-3]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
+[^135-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^135-3]: [SR 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
 [^135-4]: Fassung gemäss Anhang 2 Ziff. II 73 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 135a
@@ -2290,7 +2417,7 @@ Die ESTV macht den im BAZG mit der Erhebung und dem Einzug der Mehrwertsteuer be
 <sup>2</sup> Vor der Vernichtung werden die Daten dem Bundesarchiv nach dem Archivierungsgesetz vom 26. Juni 1998[^137-2] zur Archivierung angeboten.
 
 [^137-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^137-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^137-2]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 138
 
@@ -2310,13 +2437,33 @@ Die ESTV macht den im BAZG mit der Erhebung und dem Einzug der Mehrwertsteuer be
 
 [^139-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
 
-### 2. Abschnitt: Kontrolle
+### 2. Abschnitt: Sicherstellung der korrekten Steuerentrichtung
 
-(Art. 78 Abs. 2 MWSTG)
+[^tit5-chap3-sec2-1]
+
+[^tit5-chap3-sec2-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 140
 
+**Kontrolle**
+
+### (Art. 78 Abs. 2 MWSTG)
+
+[^140-1]
+
 Ein Einfordern von umfassenden Unterlagen liegt vor, wenn die Geschäftsbücher eines Geschäftsjahres verlangt werden, sei es mit oder ohne die dazugehörigen Buchungsbelege.
+
+[^140-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 140a
+
+**Vernichtungskosten**[^140a-1]
+
+### (Art. 79*a* Abs. 4 MWSTG)
+
+Die Kosten für die von der ESTV verfügte Vernichtung der Gegenstände gehen zulasten der ESTV.
+
+[^140a-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### 4. Kapitel: Verfügungs- und Rechtsmittelverfahren
 
@@ -2328,7 +2475,7 @@ Ein Einfordern von umfassenden Unterlagen liegt vor, wenn die Geschäftsbücher 
 
 Die ESTV ist im Sinn von Artikel 89 Absatz 2 Buchstabe a des Bundesgerichtsgesetzes vom 17. Juni 2005[^141-1] zur Beschwerde an das Bundesgericht berechtigt.
 
-[^141-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^141-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 142
 
@@ -2369,7 +2516,7 @@ Als begünstigte Personen gelten:
 
 <sup>5</sup> Die Entlastung von der Mehrwertsteuer wird durch die Steuerbefreiung an der Quelle nach den Artikeln 144 und 145 und ausnahmsweise durch die Rückerstattung nach Artikel 146 bewirkt.
 
-[^143-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^143-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 144
 
@@ -2407,9 +2554,9 @@ Die Steuerbefreiung gilt nur für Lieferungen und Dienstleistungen:
 
 <sup>4</sup> Die Voraussetzungen nach den Absätzen 1–3 für die Beanspruchung einer Steuerbefreiung gelten nicht für Bezüge von Treibstoff, für die der institutionelle Begünstigte oder die begünstigte Person auf Grund der Artikel 26–28 der Mineralölsteuerverordnung vom 20. November 1996[^145-1], der Artikel 30 und 31 der Verordnung vom 23. August 1989[^145-2] über Zollvorrechte der diplomatischen Missionen in Bern und der konsularischen Posten in der Schweiz sowie der Artikel 28 und 29 der Verordnung vom 13. November 1985[^145-3] über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten die Befreiung von der Mineralölsteuer beanspruchen kann. In diesem Fall muss der Leistungserbringer oder die Leistungserbringerin nachweisen können, dass das BAZG die Mineralölsteuer nicht erhoben oder rückvergütet hat.
 
-[^145-1]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
-[^145-2]: [SR 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
-[^145-3]: [SR 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^145-1]: [SR 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
+[^145-2]: [SR 631.144.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7833)
+[^145-3]: [SR 631.145.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7834)
 
 #### Art. 146
 
@@ -2435,7 +2582,7 @@ Die Steuerbefreiung gilt nur für Lieferungen und Dienstleistungen:
 
 Die steuerpflichtige Person muss die verwendeten amtlichen Formulare im Original zusammen mit den übrigen Belegen vollständig nach Artikel 70 Absatz 2 MWSTG aufbewahren. Bezüglich elektronisch übermittelter und aufbewahrter amtlicher Formulare gilt Artikel 122[^147-1] sinngemäss.
 
-[^147-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2018 angepasst
+[^147-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2018 angepasst
 
 #### Art. 148
 
@@ -2455,16 +2602,21 @@ Die Steuer auf den Lieferungen und den Einfuhren von Gegenständen sowie den Die
 
 <sup>2</sup> Die Bestimmungen der Wiener Übereinkommen vom 18. April 1961[^149-1] über diplomatische Beziehungen und vom 24. April 1963[^149-2] über konsularische Beziehungen sowie der Sitzabkommen bleiben vorbehalten.
 
-[^149-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^149-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^149-1]: [SR 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^149-2]: [SR 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 
 #### Art. 150
 
-**Freiwillige Versteuerung von ausgenommenen Leistungen**
+**Freiwillige Versteuerung von ausgenommenen Leistungen**[^150-1]
 
 ### (Art. 107 Abs. 1 Bst. a MWSTG)
 
-Die ESTV kann die freiwillige Versteuerung der in Artikel 21 Absatz 2 Ziffern 20 und 21 MWSTG genannten Leistungen, ohne den Wert des Bodens, bewilligen, sofern diese gegenüber institutionellen Begünstigten nach Artikel 143 Absatz 2 Buchstabe a erbracht werden, unabhängig davon, ob der institutionelle Begünstigte im Inland steuerpflichtig ist oder nicht. Diese Option ist beschränkt auf Grundstücke und Grundstücksteile, die administrativen Zwecken dienen, namentlich für Büros, Konferenzsäle, Lager, Parkplätze, oder die ausschliesslich für die Residenz des Chefs oder der Chefin einer diplomatischen Mission, einer ständigen Mission oder anderen Vertretung bei zwischenstaatlichen Organisationen oder eines konsularischen Postens bestimmt sind.
+Die in Artikel 21 Absatz 2 Ziffern 20 und 21 MWSTG genannten Leistungen ohne den Wert des Bodens können freiwillig versteuert werden, sofern sie gegenüber institutionellen Begünstigten nach Artikel 143 Absatz 2 Buchstabe a erbracht werden, unabhängig davon, ob der institutionelle Begünstigte im Inland steuerpflichtig ist. Diese Option ist beschränkt auf Grundstücke und Grundstücksteile, die:
+
+- a. administrativen Zwecken dienen, namentlich Büros, Konferenzsäle, Lager, Parkplätze; oder
+- b. ausschliesslich für die Residenz des Chefs oder der Chefin einer diplomatischen Mission, einer ständigen Mission oder anderen Vertretung bei zwischenstaatlichen Organisationen oder eines konsularischen Postens bestimmt sind.
+
+[^150-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ## 7. Titel: Vergütung der Mehrwertsteuer an Abnehmer und Abnehmerinnen mit Wohn- oder Geschäftssitz im Ausland
 
@@ -2483,12 +2635,18 @@ Anspruch auf Vergütung der angefallenen Steuern nach Artikel 28 Absatz 1 Buchst
 - c. unter Vorbehalt von Absatz 2 im Inland keine Leistungen erbringt; und
 - d. seine oder ihre Unternehmereigenschaft im Land des Wohnsitzes, des Geschäftssitzes oder der Betriebsstätte gegenüber der ESTV nachweist.
 
-<sup>2</sup> Der Anspruch auf Steuervergütung bleibt gewahrt, wenn die Person nach Artikel 10 Absatz 2 Buchstabe b MWSTG von der Steuerpflicht befreit ist und nicht auf diese Befreiung verzichtet.[^151-2]
+<sup>2</sup>
+
+Der Anspruch auf Steuervergütung bleibt gewahrt, wenn:
+
+- a. die Person nach Artikel 10 Absatz 2 Buchstabe b MWSTG von der Steuerpflicht befreit ist;
+- b. sie nicht auf diese Befreiung verzichtet; und
+- c. die Befreiung nicht ausschliesslich auf Artikel 10 Absatz 2 Buchstabe b Ziffer 1<sup>bis</sup> MWSTG zurückzuführen ist.[^151-2]
 
 <sup>3</sup> Die Steuervergütung setzt voraus, dass der Staat des Wohn- oder Geschäftssitzes beziehungsweise der Betriebsstätte des antragstellenden ausländischen Unternehmens ein entsprechendes Gegenrecht gewährt.
 
 [^151-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^151-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^151-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 152
 
@@ -2514,12 +2672,12 @@ Gegenrecht gilt als gewährt, wenn:
 
 <sup>1</sup> Die Steuervergütung entspricht bezüglich Umfang und Einschränkungen dem Vorsteuerabzugsrecht nach den Artikeln 28–30 und 33 Absatz 2 MWSTG. Eine Vergütung erfolgt höchstens in der Höhe des für die Leistung gesetzlich vorgesehenen Steuersatzes. Bezahlte Mehrwertsteuer auf Leistungen, die nach dem MWSTG nicht der Mehrwertsteuer unterliegen oder davon befreit sind, wird nicht vergütet.[^153-1]
 
-<sup>2</sup> Reisebüros und Organisatoren von Veranstaltungen mit Sitz im Ausland haben keinen Anspruch auf Vergütung der Steuern, die ihnen in der Schweiz beim Bezug von Lieferungen und Dienstleistungen, die sie den Kunden und Kundinnen weiterfakturieren, in Rechnung gestellt worden sind.[^153-2]
+<sup>2</sup> Reisebüros mit Sitz im Ausland haben keinen Anspruch auf Vergütung der Steuern, die ihnen in der Schweiz beim Bezug von Lieferungen und Dienstleistungen, die sie den Kunden und Kundinnen weiterfakturieren, in Rechnung gestellt worden sind.[^153-2]
 
 <sup>3</sup> Rückzahlbare Steuern werden nur vergütet, wenn deren Betrag in einem Kalenderjahr mindestens 500 Franken erreicht.
 
 [^153-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^153-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
+[^153-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 154
 
@@ -2539,7 +2697,7 @@ Gegenrecht gilt als gewährt, wenn:
 
 ### (Art. 107 Abs. 1 Bst. b MWSTG)
 
-<sup>1</sup> Der Antrag auf Steuervergütung ist mit den Originalrechnungen der Leistungserbringer und Leistungserbringerinnen beziehungsweise mit den Veranlagungsverfügungen des BAZG an die ESTV zu richten. Die Originalrechnungen müssen die Anforderungen nach Artikel 26 Absatz 2 MWSTG erfüllen und auf den Namen des Antragstellers oder der Antragstellerin lauten.
+<sup>1</sup> Der Antrag auf Steuervergütung ist mit den Rechnungen der Leistungserbringer und Leistungserbringerinnen oder mit den Veranlagungsverfügungen des BAZG an die ESTV zu richten. Die Rechnungen müssen die Anforderungen nach Artikel 26 Absatz 2 MWSTG erfüllen und auf den Namen des Antragstellers oder der Antragstellerin lauten.[^155-1]
 
 <sup>2</sup> Für den Antrag ist das Formular der ESTV zu verwenden.
 
@@ -2548,6 +2706,8 @@ Gegenrecht gilt als gewährt, wenn:
 <sup>4</sup> Die auf Kassenzetteln ausgewiesene Steuer kann nicht rückerstattet werden.
 
 <sup>5</sup> Die ESTV kann weitere Angaben und Unterlagen verlangen.
+
+[^155-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 #### Art. 156
 
@@ -2572,7 +2732,7 @@ Wird die Steuervergütung später als 180 Tage nach Eintreffen des vollständige
 Das Mehrwertsteuer-Konsultativgremium (Konsultativgremium) ist eine ausserparlamentarische Kommission nach Artikel 57*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^157-2].
 
 [^157-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4739](https://fedlex.data.admin.ch/eli/oc/2011/671)).
-[^157-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^157-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 158
 
@@ -2711,6 +2871,28 @@ Werden Gegenstände aus dem Ausland ins Inland geliefert, die aufgrund des gerin
 <sup>2</sup> Korrekturen von Abrechnungen, die in Papierform eingereicht wurden, sind ebenfalls in Papierform einzureichen.
 
 [^166c-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 312](https://fedlex.data.admin.ch/eli/oc/2023/312)).
+
+#### Art. 166d
+
+**Übergangsbestimmung zur Änderung vom 21. August 2024**[^166d-1]
+
+### (Art. 35 Abs. 1<sup>bis</sup> Bst. b MWSTG)
+
+Steuerpflichtige Personen, die im Zeitpunkt des Inkrafttretens der Änderung vom 21. August 2024 noch nicht ein ganzes Jahr im Mehrwertsteuerregister eingetragen sind, haben für die Abklärung, ob die Umsatzgrenze von Artikel 35 Absatz 1<sup>bis</sup> Buchstabe b MWSTG überschritten wird, ihren erzielten Umsatz auf ein volles Jahr umzurechnen.
+
+[^166d-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
+
+#### Art. 166e
+
+**Übergangsbestimmung zur Änderung vom 21. August 2024**[^166e-1]
+
+### (Art. 37 MWSTG)
+
+<sup>1</sup> Die Fristen nach Artikel 37 Absatz 4 MWSTG für den Wechsel von der effektiven Abrechnungsmethode zur Saldosteuersatzmethode und umgekehrt beginnen mit Inkrafttreten der Änderung vom 21. August 2024 neu zu laufen.
+
+<sup>2</sup> Die Fristen nach Artikel 98 Absatz 2 für den Wechsel von der effektiven Abrechnungsmethode zur Pauschalsteuersatzmethode und umgekehrt beginnen mit Inkrafttreten der Änderung vom 21. August 2024 neu zu laufen.
+
+[^166e-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 485](https://fedlex.data.admin.ch/eli/oc/2024/485)).
 
 ### 3. Kapitel: Inkrafttreten
 
