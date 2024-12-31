@@ -3,11 +3,11 @@ sr: "0.747.341.2"
 title: "Internationales Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten, vom 7. Juli 1978 (mit Anlage)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: de
-version: 2024-01-24
+version: 2025-01-01
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20240124/de/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20240124-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20240124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20250101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Dezember 1987
 
 In Kraft getreten für die Schweiz am 15. März 1988
 
-(Stand am 24. Januar 2024)
+(Stand am 1. Januar 2025)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 9. März 1987 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -66,7 +66,7 @@ Im Sinne des Übereinkommens haben, soweit nicht ausdrücklich etwas anderes bes
 
 **Anwendungsbereich**
 
-Dieses Übereinkommen findet auf Seeleute Anwendung, die auf Seeschiffen Dienst tun, welche die Flagge einer Vertragspartei zu führen berechtigt sind; es gilt jedoch nicht für Seeleute
+Dieses Übereinkommen findet auf Seeleute Anwendung, die auf Seeschiffen Dienst tun, welche die Flagge einer Vertragspartei zu führen berechtigt sind; es gilt jedoch nicht für Seeleute:
 
 - a) auf Kriegsschiffen, Flottenhilfsschiffen oder sonstigen einem Staat gehörenden oder von ihm betriebenen Schiffen, die im Staatsdienst stehen und ausschliesslich anderen als Handelszwecken dienen; jedoch stellt jede Vertragspartei durch geeignete, den Betrieb oder die Betriebsfähigkeit nicht beeinträchtigende Massnahmen sicher, dass Personen, die auf solchen Schiffen Dienst tun, soweit zumutbar und durchführbar die Anforderungen des Übereinkommens erfüllen;
 - b) auf Fischereifahrzeugen;
@@ -77,7 +77,9 @@ Dieses Übereinkommen findet auf Seeleute Anwendung, die auf Seeschiffen Dienst 
 
 **Übermittlung von Informationen**
 
-<sup>1.</sup> Die Vertragsparteien übermitteln dem Generalsekretär so bald wie möglich
+<sup>1.</sup>
+
+Die Vertragsparteien übermitteln dem Generalsekretär so bald wie möglich:
 
 - a) den Wortlaut der Gesetze, Verordnungen, Ausführungsbestimmungen und sonstigen Vorschriften, die auf den verschiedenen Sachgebieten im Anwendungsbereich des Übereinkommens erlassen wurden,
 - b) gegebenenfalls alle Einzelheiten über Inhalte und Dauer der Ausbildung sowie die innerstaatlichen Prüfungs‑ und sonstigen Voraussetzungen für jeden nach Massgabe des Übereinkommens ausgestellten Fähigkeitsausweis;
@@ -89,7 +91,9 @@ Dieses Übereinkommen findet auf Seeleute Anwendung, die auf Seeschiffen Dienst 
 
 **Sonstige Verträge und Auslegung**
 
-<sup>1.</sup> Alle früheren Verträge, Übereinkommen und Vereinbarungen über Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten, die zwischen den Vertragsparteien in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam in bezug auf
+<sup>1.</sup>
+
+Alle früheren Verträge, Übereinkommen und Vereinbarungen über Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten, die zwischen den Vertragsparteien in Kraft sind, bleiben während ihrer jeweiligen Geltungsdauer unbeschränkt wirksam in bezug auf:
 
 - a) Seeleute, auf die dieses Übereinkommen nicht angewendet wird;
 - b) Seeleute, auf die dieses Übereinkommen angewendet wird, soweit es sich um darin nicht ausdrücklich geregelte Angelegenheiten handelt.
@@ -116,9 +120,9 @@ Dieses Übereinkommen findet auf Seeleute Anwendung, die auf Seeschiffen Dienst 
 
 <sup>2.</sup> Nach dem Inkrafttreten des Übereinkommens für eine Vertragspartei kann deren Verwaltung für einen Zeitabschnitt von höchstens fünf Jahren weiterhin nach ihrer bisherigen Übung Fähigkeitsausweise erteilen. Diese Fähigkeitsausweise werden als gültig im Sinne des Übereinkommens anerkannt. Während dieser Übergangszeit werden solche Fähigkeitsausweise jedoch nur Seeleuten erteilt, die ihre Seefahrtzeit innerhalb desjenigen Dienstbereichs des Schiffes, auf den sich das Zeugnis bezieht, bereits vor dem Inkrafttreten des Übereinkommens für die betreffende Vertragspartei angetreten hatten. Die Verwaltung stellt sicher, dass die Prüfung aller sonstigen Bewerber sowie die Erteilung ihrer Zeugnisse nach Massgabe des Übereinkommens erfolgen.
 
-<sup>3.</sup> Eine Vertragspartei kann innerhalb von zwei Jahren nach dem Zeitpunkt, zu dem das Übereinkommen für sie in Kraft getreten ist, eine Dienstbescheinigung an Seeleute erteilen, die weder einen ordnungsmässigen Fähigkeitsausweis nach dem Übereinkommen noch einen Fähigkeitsausweis besitzen, der vor dem Inkrafttreten des Übereinkommens für diese Vertragspartei nach deren Rechtsvorschriften erteilt wurde, die jedoch
+<sup>3.</sup> Im Sinne des Übereinkommens ist eine nach diesem Absatz erteilte Dienstbescheinigung einem nach dem Übereinkommen erteilten Fähigkeitsausweis gleichwertig.
 
-Im Sinne des Übereinkommens ist eine nach diesem Absatz erteilte Dienstbescheinigung einem nach dem Übereinkommen erteilten Fähigkeitsausweis gleichwertig.
+Eine Vertragspartei kann innerhalb von zwei Jahren nach dem Zeitpunkt, zu dem das Übereinkommen für sie in Kraft getreten ist, eine Dienstbescheinigung an Seeleute erteilen, die weder einen ordnungsmässigen Fähigkeitsausweis nach dem Übereinkommen noch einen Fähigkeitsausweis besitzen, der vor dem Inkrafttreten des Übereinkommens für diese Vertragspartei nach deren Rechtsvorschriften erteilt wurde, die jedoch:
 
 - a) innerhalb der letzten sieben Jahre vor dem Inkrafttreten des Übereinkommens für diese Vertragspartei mindestens drei Jahre auf See die Aufgaben wahrgenommen haben, für die sie eine Dienstbescheinigung beantragen;
 - b) den Nachweis erbringen, dass sie diese Aufgaben zufriedenstellend wahrgenommen haben;
@@ -160,9 +164,9 @@ Im Sinne des Übereinkommens ist eine nach diesem Absatz erteilte Dienstbeschein
 
 **Förderung der technischen Zusammenarbeit**
 
-<sup>1.</sup> Die Vertragsparteien fördern in Konsultation mit der Organisation und mit ihrer Hilfe die Unterstützung derjenigen Vertragsparteien, die um technische Hilfe ersuchen
+<sup>1.</sup> vorzugsweise auf nationaler, regionaler oder unterregionaler Ebene, wodurch den Zielen und Zwecken des Übereinkommens unter Berücksichtigung der besonderen Bedürfnisse der Entwicklungsländer auf diesem Gebiet gedient wird.
 
-vorzugsweise auf nationaler, regionaler oder unterregionaler Ebene, wodurch den Zielen und Zwecken des Übereinkommens unter Berücksichtigung der besonderen Bedürfnisse der Entwicklungsländer auf diesem Gebiet gedient wird.
+Die Vertragsparteien fördern in Konsultation mit der Organisation und mit ihrer Hilfe die Unterstützung derjenigen Vertragsparteien, die um technische Hilfe ersuchen:
 
 - a) für die Ausbildung von Verwaltungs‑ und technischem Personal;
 - b) für die Schaffung von Ausbildungsstätten für Seeleute;
@@ -214,7 +218,9 @@ Dieses Übereinkommen kann nach einem der beiden folgenden Verfahren geändert w
 
 **Unterzeichnung, Ratifikation, Annahme, Genehmigung und Beitritt**
 
-<sup>1.</sup> Das Übereinkommen liegt vom 1. Dezember 1978 bis zum 30. November 1979 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Jeder Staat kann Vertragspartei werden,
+<sup>1.</sup>
+
+Das Übereinkommen liegt vom 1. Dezember 1978 bis zum 30. November 1979 am Sitz der Organisation zur Unterzeichnung und danach zum Beitritt auf. Jeder Staat kann Vertragspartei werden:
 
 - a) indem er es ohne Vorbehalt der Ratifikation, Annahme oder Genehmigung unterzeichnet;
 - b) indem er es vorbehaltlich der Ratifikation, Annahme oder Genehmigung unterzeichnet und später ratifiziert, annimmt oder genehmigt oder
@@ -268,7 +274,7 @@ Das Übereinkommen ist in einer Urschrift in chinesischer, englischer, französi
 
 Anlage[^t-2]
 
-[^t-2]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden
+[^t-2]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel, eingesehen werden
 
 Geltungsbereich am 24. Januar 2024[^t-3]
 

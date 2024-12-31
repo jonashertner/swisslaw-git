@@ -3,11 +3,11 @@ sr: "0.747.341.2"
 title: "Convenzione internazionale del 1978 sugli standard di addestramento, abilitazione e tenuta della guardia per i marittimi, del 7 luglio 1978 (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: it
-version: 2024-01-24
+version: 2025-01-01
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20240124/it/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20240124-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20240124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20250101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1988** 1639; FF **1986** II 541
 
 Traduzione
 
-Conclusa a Londra il 7 luglio 1978
+Conclusa a Londra il 7 luglio 1978 Approvata dall’Assemblea federale il 9 marzo 1987[^t-1] Ratificata dalla Svizzera con strumento depositato il 15 dicembre 1987 Entrata in vigore per la Svizzera il 15 marzo 1988
 
-Approvata dall’Assemblea federale il 9 marzo 1987[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 15 dicembre 1987
-
-Entrata in vigore per la Svizzera il 15 marzo 1988
-
-(Stato 24 gennaio 2024)
+(Stato 1° gennaio 2025)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 9 mar. 1987 ([RU 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -279,7 +273,7 @@ La Convenzione è redatta in un unico esemplare nelle lingue cinese, inglese, fr
 
 Allegato[^t-2]
 
-[^t-2]: Il presente All. ed i suoi emendamenti, non sono pubblicati nella RU ([RU 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
+[^t-2]: Il presente all. ed i suoi emendamenti, non sono pubblicati nella RU ([RU 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 Campo d’applicazione il 24 gennaio 2024[^t-3]
 
@@ -327,7 +321,7 @@ Campo d’applicazione il 24 gennaio 2024[^t-3]
 <tr><td>Croazia</td><td>27 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>5 dicembre</td><td>1989 A</td><td>5 marzo</td><td>1990</td></tr>
 <tr><td>Danimarca\* <sup>b</sup></td><td>20 gennaio</td><td>1981</td><td>28 aprile</td><td>1984</td></tr>
-<tr><td>[tab] Faeröer, Isole</td><td>20 gennaio</td><td>1981</td><td>28 aprile</td><td>1984</td></tr>
+<tr><td>Faeröer, Isole</td><td>20 gennaio</td><td>1981</td><td>28 aprile</td><td>1984</td></tr>
 <tr><td>Dominica</td><td>21 giugno</td><td>2000 A</td><td>21 settembre</td><td>2000</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>9 giugno</td><td>2016 A</td><td>9 settembre</td><td>2016</td></tr>
 <tr><td>Ecuador</td><td>17 maggio</td><td>1988 A</td><td>17 agosto</td><td>1988</td></tr>
