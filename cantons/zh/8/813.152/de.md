@@ -4,17 +4,17 @@ number: "813.152"
 title: Personalreglement des Universitätsspitals Zürich (PR-USZ)
 short: PR-USZ
 language: de
-version: "2022-08-01"
-nachtrag: "122"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
+valid_until: 2026-03-01
 adopted: 2008-11-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_152-2008_11_19-2009_02_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_152-2008_11_19-2009_02_01-127.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Personalreglement des Universitätsspitals Zürich (PR-USZ)
+# Personalreglement des Universitätsspitals Zürich (PR-USZ)
 
 (vom 19. November 2008)<sup>1</sup>
 
@@ -28,7 +28,7 @@ beschliesst:
 
 #### § 1
 
-**Gegenstand und Geltungsbereich**
+**Gegenstand und Geltungsbereich**
 
 <sup>1</sup> Diesem Reglement untersteht das Personal, das in einem öffentlich-rechtlichen Arbeitsverhältnis zum Universitätsspital Zürich steht.
 
@@ -50,13 +50,13 @@ beschliesst:
 
 - b. die Genehmigung von Richtlinien der Spitaldirektion betreffend die Anstellung von Personal mittels öffentlich-rechtlichen oder privatrechtlichen Vertrags,
 
-- c. die Anstellung von Personal des Spitalrates,
-
-- d. die Ernennung der Mitglieder der Spitaldirektion,
+- c. die Anstellung von Personal des Spitalrates, d.<sup>17</sup> die Ernennung der Mitglieder der Spitaldirektion, wobei er die Spitaldirektion bei der Evaluation von Kandidatinnen und Kandidaten miteinbezieht,
 
 **1**
 
-1.10. 23 - 122 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
+- 1\. 1. 25 - 127
+
+- e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
 
 - f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal des Universitätsspitals,
 
@@ -72,7 +72,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 - c. des Prämienanteils des Personals an einer allfälligen Krankentaggeldversicherung gemäss § 14,
 
-- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind, e.<sup>15</sup>
+- d. der Beiträge an die Verpflegung und die Abonnemente des öffentlichen Verkehrs für Mitarbeitende, die an mehreren Standorten tätig sind, e.<sup>18</sup>
 
 - f. von Sozialplänen gemäss § 27 PG<sup>4</sup>.
 
@@ -134,9 +134,9 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 **3**
 
-1.10. 23 - 122 § 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
+- 1\. 1. 25 - 127 § 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG<sup>4</sup> sind insbesondere:
 
-**Sachlich zureichende Kündigungsgründe a. allgemein**
+**Sachlich  zureichende Kündigungsgründe a. allgemein**
 
 - a. die Auflösung der Vereinbarung über eine Drittmittelfinanzierung und der Abbruch des finanzierten Projekts,
 
@@ -146,7 +146,9 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>2</sup> Die ordentlichen Kündigungsfristen sind einzuhalten.
 
-**b. ärztliches Kader**
+<sup>3</sup> Kann sich die mangelnde Leistung oder das unbefriedigende Verhalten der Mitarbeiterin oder des Mitarbeiters auf die Sicherheit der Patientinnen und Patienten auswirken, so kann auf eine schriftliche Mahnung und die Ansetzung einer Frist zur Verbesserung gemäss § 19 PG<sup>4</sup> verzichtet werden. Dieser Verzicht bedarf der Zustimmung einer dafür von der Direktion HRM bezeichneten internen Stelle.<sup>16</sup>
+
+**b. ärztliches  Kader**
 
 § 7 a.<sup>11</sup> <sup>1</sup> Für das ärztliche Kader sind erhebliche Mängel insbesondere in den folgenden Bereichen sachlich zureichende Gründe für die Auflösung des Anstellungsverhältnisses:
 
@@ -156,9 +158,9 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 - c. in der Qualität, Dokumentation oder Abrechnung der Behandlung von Patientinnen und Patienten.
 
-<sup>2</sup> Bei erheblichen Mängeln wird in der Regel keine Bewährungsfrist gewährt.
+<sup>2</sup> Bei erheblichen Mängeln wird in der Regel keine Frist zur Verbesserung gewährt.<sup>17</sup>
 
-**Anstellung nach der ordentlichen Pensionierung**
+**Anstellung nach der ordentlichen Pensionierung**
 
 § 8.<sup>12</sup> <sup>1</sup> In besonderen Fällen, insbesondere bei Personalgruppen mit Fachkräftemangel, ist eine befristete Verlängerung des Anstellungsverhältnisses oder eine befristete Wiederanstellung nach Vollendung des 65. Altersjahres sowie eine Verlängerung dieser Befristung bis zum 70. Altersjahr über ein Jahr hinaus möglich.
 
@@ -184,7 +186,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>3</sup> Die Lohnentwicklung orientiert sich am Arbeitsmarkt im Gesundheitswesen und berücksichtigt die finanzielle Situation des Universitätsspitals.
 
-**c. variabler Vergütungsbestandteil**
+**c. variabler  Vergütungsbestandteil**
 
 § 10.<sup>12</sup> <sup>1</sup> Die Vergütung der Mitglieder der Spitaldirektion und des mit öffentlich-rechtlichem Vertrag angestellten Personals kann einen variablen Bestandteil enthalten.
 
@@ -194,7 +196,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>4</sup> Der variable Vergütungsbestandteil wird jährlich in Abhängigkeit der Erreichung der Jahresziele festgelegt.
 
-**d. ärztliches Kader**
+**d. ärztliches  Kader**
 
 § 11.<sup>12</sup> <sup>1</sup> Die Vergütung des ärztlichen Kaders besteht aus den festen Bestandteilen Grundlohn und Marktkomponente. Sie wird nicht nach dem Lohnsystem des Kantons Zürich festgelegt.
 
@@ -202,19 +204,29 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>3</sup> Die Gesamtvergütung eines Mitglieds des ärztlichen Kaders beträgt höchstens 1 Mio. Franken pro Jahr. Sie umfasst insbesondere allfällige Entschädigungen der Universität Zürich und Einnahmen, die mit Gutachten, Zeugnissen und Berichten für Patientinnen und Patienten oder Dritte erzielt werden.
 
-<sup>4</sup> Der Grundlohn wird in der Regel bei der BVK Personalvorsorge des Kantons Zürich versichert. Die übrigen Vergütungsbestandteile können bei anderen Vorsorgeeinrichtungen versichert werden. Die Versicherung der Vergütung der Oberärztinnen und Oberärzte richtet sich nach § 15 Abs. 2 USZG.
+**5**
+
+- 1\. 1. 25 - 127
+
+<sup>4</sup> Der Grundlohn wird in der Regel bei der BVK Personalvorsorge des Kantons Zürich versichert. Die übrigen Vergütungsbestandteile können bei anderen Vorsorgeeinrichtungen versichert werden. Die Versicherung der Vergütung der Oberärztinnen und Oberärzte richtet sich nach § 15 Abs. 2 USZG<sup>8</sup>.
 
 <sup>5</sup> Der Spitalrat erlässt ein Vergütungsreglement.
 
-**5**
+**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
 
-1.10. 23 - 122 § 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
-
-**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
+§ 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
 
 <sup>2</sup> Die Entschädigung entspricht mindestens dem kantonalen Ansatz.
 
-§ 13.<sup>13</sup>
+**Arbeitszeit Assistenzärztinnen und -ärzte**
+
+§ 13.<sup>13,</sup> <sup>16</sup> Unter Beachtung der Übergangsbestimmung beträgt die Wochenarbeitszeit für Assistenzärztinnen und -ärzte 46 Stunden. Sie setzt sich zusammen aus 42 Stunden klinischer Arbeitszeit und vier Stunden strukturierter Weiterbildung.
+
+**Dokumentation der Arbeitszeit**
+
+§ 13 a.<sup>16</sup> <sup>1</sup> Die Mitarbeitenden dokumentieren die geleistete Arbeitszeit.
+
+<sup>2</sup> Die Spitaldirektion bezeichnet die Funktionen, die lediglich zur Erfassung ihrer Abwesenheiten verpflichtet sind.
 
 **Versicherungen**
 
@@ -234,15 +246,25 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>3</sup> Die Spitaldirektion erlässt Führungsgrundsätze, die vom Spitalrat zu genehmigen sind.
 
-### D. Nebenbeschäftigungen und öffentliche Ämter<sup>12</sup>
+### D. Nebenbeschäftigungen, öffentliche Ämter und Interessen-
+
+bindungen<sup>17</sup>
 
 **Begriffe**
 
 § 16.<sup>12</sup> <sup>1</sup> Als Nebenbeschäftigung gilt jede Ausübung einer selbstständigen oder unselbstständigen Tätigkeit neben der Anstellung am Universitätsspital, insbesondere Beratungstätigkeiten, Lehrverpflichtungen oder die Wahrnehmung von Organfunktionen bei Dritten.
 
-<sup>2</sup> Als öffentliches Amt gilt die Mitgliedschaft in einem Parlament oder einer Exekutive, die Tätigkeit an einem Gericht oder in einer Kommission der Eidgenossenschaft, eines Kantons, einer Gemeinde, einer Kirchgemeinde oder einer anderen Körperschaft des öffentlichen Rechts. § 17.<sup>12</sup> <sup>1</sup> Nebenbeschäftigungen sind nur zulässig, wenn a. die Aufgabenerfüllung der oder des Angestellten nicht beeinträchtigt wird,
+<sup>2</sup> Als öffentliches Amt gilt die Mitgliedschaft in einem Parlament oder einer Exekutive, die Tätigkeit an einem Gericht oder in einer Kommission der Eidgenossenschaft, eines Kantons, einer Gemeinde, einer Kirchgemeinde oder einer anderen Körperschaft des öffentlichen Rechts.
+
+<sup>3</sup> Eine Interessenbindung gemäss § 15 a USZG<sup>8</sup> liegt vor, wenn eine Mitarbeiterin oder ein Mitarbeiter aufgrund einer der nachfolgend aufgeführten Umstände in einen Konflikt mit den Interessen des Universitätsspitals geraten kann:<sup>16</sup> a. Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes,
+
+- b. Beteiligung an einem Unternehmen.
+
+<sup>4</sup> Einzelheiten regeln die Weisung über Nebenbeschäftigungen und öffentliche Ämter sowie die Weisung über den Umgang mit den Interessenkonflikten und die Offenlegung von Interessenbindungen.<sup>16</sup>
 
 **Nebenbeschäftigungen a. Zulässigkeit**
+
+§ 17.<sup>12</sup> <sup>1</sup> Nebenbeschäftigungen sind nur zulässig, wenn a. die Aufgabenerfüllung der oder des Angestellten nicht beeinträchtigt wird,
 
 - b. die Tätigkeit mit der Stellung der oder des Angestellten am Universitätsspital vereinbar ist,
 
@@ -260,9 +282,11 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 § 18.<sup>12</sup> Für Nebenbeschäftigungen ist eine Bewilligung der Spitaldirektion erforderlich, wenn Arbeitszeit, Infrastruktur oder Personal des Universitätsspitals beansprucht oder eine Organfunktion bei Dritten übernommen wird.
 
-**c. Information und Entscheid**
+**7**
 
-§ 19.<sup>12</sup> Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte die Spitaldirektion. Diese entscheidet in Absprache mit der vorgesetzten Stelle der oder des Angestellten, ob eine Bewilligung eingeholt werden muss. Sie kann auch nachträglich und von sich aus das Einholen einer Bewilligung verlangen.
+- 1\. 1. 25 - 127 § 19.<sup>12</sup> Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte die Spitaldirektion. Diese entscheidet in Absprache mit der vorgesetzten Stelle der oder des Angestellten, ob eine Bewilligung eingeholt werden muss. Sie kann auch nachträglich und von sich aus das Einholen einer Bewilligung verlangen.
+
+**c. Information und Entscheid**
 
 **d. Professoren der Universität**
 
@@ -274,13 +298,17 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>4</sup> Sie kann die Abgeltung der Infrastruktur- und Personalkosten verlangen. In Absprache mit der Universität kann sie einen Teil der erzielten Nebeneinkünfte als Abgabe einfordern und Bewilligungen nach Abs. 2 unter Auflagen erteilen.
 
-**7**
+**Öffentliche  Ämter**
 
-1.10. 23 - 122 § 21.<sup>12</sup> Die Ausübung öffentlicher Ämter richtet sich nach dem Personalgesetz.
+§ 21.<sup>12</sup> Die Ausübung öffentlicher Ämter richtet sich nach dem Personalgesetz.
+
+**Offenlegung  Interessenbindungen**
+
+§ 21 a.<sup>16</sup> <sup>1</sup> Die Interessenbindungen der Mitglieder der Spitaldirektion sowie der Führungspersonen, die den Mitgliedern der Spitaldirektion direkt unterstellt sind, werden in einem öffentlich zugänglichen Register geführt. Die Unterstellungsverhältnisse ergeben sich aus dem jeweils per 1. März gültigen Organigramm.
+
+<sup>2</sup> Des Weiteren werden die Interessenbindungen der Klinik- und Institutsdirektoren, der Chefärztinnen und Chefärzte sowie der Leitenden Ärztinnen und Ärzte in einem öffentlich zugänglichen Register aufgeführt.
 
 #### § 22
-
-**Öffentliche Ämter**
 
 **Ausführungsbestimmungen**
 
@@ -302,7 +330,9 @@ Das Universitätsspital unterstützt die Entwicklung und Verwertung von Erfindun
 
 <sup>2</sup> Die Spitaldirektion kann den Angestellten die Auswertung oder das Verwendungsrecht überlassen. Angestellte, denen die Auswertung einer Erfindung von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
 
-<sup>3</sup> Für Erfindungen im Bereich der universitären Forschung und Lehre gelten die Bestimmungen der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich vom 16. April 2003<sup>6</sup>.
+<sup>3</sup> Für Erfindungen im Bereich der universitären Forschung und Lehre gelten die Bestimmungen der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich vom 16. April 2003[^23-1].
+
+[^23-1]: LS 415.16.
 
 #### § 25
 
@@ -310,11 +340,15 @@ Das Universitätsspital unterstützt die Entwicklung und Verwertung von Erfindun
 
 <sup>1</sup> Die Verwertungsrechte an einem urheberrechtlich geschützten Werk, das in Ausübung der dienstlichen Tätigkeit geschaffen wurde, stehen dem Universitätsspital zu, soweit keine anderslautenden Vereinbarungen getroffen wurden.
 
-<sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss. § 25 a.<sup>11</sup> <sup>1</sup> Vorbehältlich §§ 24 und 25 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum des Universitätsspitals.
+<sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht gilt sinngemäss.
 
-**Weitere Arbeitsergebnisse**
+**Weitere  Arbeitsergebnisse**
+
+§ 25 a.[^25-1] <sup>1</sup> Vorbehältlich §§ 24 und 25 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum des Universitätsspitals.
 
 <sup>2</sup> Vorbehalten sind anderslautende vertragliche Vereinbarungen.
+
+[^25-1]: Eingefügt durch B vom 9. März 2022 (OS 77, 438; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-08-19).
 
 ### F. Schluss- und Übergangsbestimmungen
 
@@ -324,33 +358,34 @@ Das Universitätsspital unterstützt die Entwicklung und Verwertung von Erfindun
 
 Die Spitaldirektion passt Bewilligungen, Auflagen und andere, im Zeitpunkt des Inkrafttretens dieses Reglements bestehende Dauerrechtsverhältnisse an die Vorgaben dieses Reglements an.
 
-#### § 27
+**9**
+
+- 1\. 1. 25 - 127 § 27. Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Genehmigung durch den Regierungsrat[^26-1] in Kraft[^26-2].
 
 **Inkrafttreten**
 
-Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Genehmigung durch den Regierungsrat<sup>2</sup> in Kraft<sup>3</sup>.
+[^26-1]: Vom Regierungsrat genehmigt am 3. Dezember 2008.
+[^26-2]: Inkrafttreten: 1. Februar 2009.
 
-<sup>1</sup> OS 64, 23; Begründung siehe ABl 2009, 52.
+### Übergangsbestimmungen zur Änderung vom 18. September 2024
 
-<sup>2</sup> Vom Regierungsrat genehmigt am 3. Dezember 2008.
+(OS 79, 465)
 
-<sup>3</sup> Inkrafttreten: 1. Februar 2009.
+- 1\. Die klinische Arbeitszeit der Assistenzärztinnen und -ärzte wird etappenweise auf den Wert von § 13 Satz 2 reduziert. Sie beträgt:
 
-<sup>4</sup> LS 177.10.
+- a. bis 31. Dezember 2024: 46 Stunden pro Woche,
 
-<sup>5</sup> LS 177.111.
+- b. von 1. Januar 2025 bis 31. Dezember 2025: 45 Stunden pro Woche,
 
-<sup>6</sup> LS 415.16.
+- c. von 1. Januar 2026 bis 31. Dezember 2026: 44 Stunden pro Woche,
 
-<sup>7</sup> LS 415.21.
+- d. von 1. Januar 2027 bis 31. Dezember 2027: 43 Stunden pro Woche,
 
-<sup>8</sup> LS 813.15.
+- e. ab 1. Januar 2028: 42 Stunden pro Woche.
 
-<sup>9</sup> Fassung gemäss B des Spitalrates vom 10. Februar 2010 (OS 65, 143; ABl 2010, 321). In Kraft seit 1. April 2010.
+- 2\. Die Assistenzärztinnen und -ärzte unterstützen das Universitätsspital bei der Feststellung und Umsetzung von Massnahmen, um die Reduktion der Arbeitszeit mit einer entsprechenden Effizienzsteigerung zu kompensieren.
 
-<sup>10</sup> Obsolet.
-
-<sup>11</sup> Eingefügt durch B vom 9. März 2022 (OS 77, 438; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-08-19).
+- 3\. Bei Übertreffen der jährlichen Effizienzziele kann die Spitaldirektion auch eine raschere Reduktion der klinischen Arbeitszeit beschliessen.
 
 <sup>12</sup> Fassung gemäss B vom 9. März 2022 (OS 77, 438; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-08-19).
 
@@ -358,8 +393,25 @@ Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Gene
 
 <sup>14</sup> Inkrafttreten: 1. Oktober 2023 (OS 78, 377; ABl 2023-09-15).
 
-<sup>15</sup> Aufgehoben durch Urteil des Verwaltungsgerichts vom 2. März 2023 (AN. 2022.00006).
+<sup>15</sup> Aufgehoben durch Urteil des Verwaltungsgerichts vom 2. März 2023 (AN. 2022.00006).
 
-**9**
+<sup>16</sup> Eingefügt durch B vom 18. September 2024 (OS 79, 465; ABl 2024-11-01). In Kraft seit 1. Januar 2025.
 
-1.10. 23 - 122
+<sup>17</sup> Fassung gemäss B vom 18. September 2024 (OS 79, 465; ABl 2024-11-01). In Kraft seit 1. Januar 2025.
+
+<sup>18</sup> Aufgehoben durch B vom 18. September 2024 (OS 79, 465; ABl 2024-11-01). In Kraft seit 1. Januar 2025.
+
+**11**
+
+- 1\. 1. 25 - 127
+
+## Weitere Fussnoten
+
+- [1] OS 64, 23; Begründung siehe ABl 2009, 52.
+- [4] LS 177.10.
+- [5] LS 177.111.
+- [7] LS 415.21.
+- [8] LS 813.15.
+- [9] Fassung gemäss B des Spitalrates vom 10. Februar 2010 (OS 65, 143; ABl 2010,
+- [321] . In Kraft seit 1. April 2010.
+- [10] Obsolet.
