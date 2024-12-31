@@ -3,20 +3,19 @@ canton: SG
 number: "131.12"
 title: Kantonsratsbeschluss über die Entschädigung der Mitglieder und der Fraktionen des Kantonsrates
 language: de
-version: 2020-06-01
-valid_until: 2024-12-31
-version_adopted: 2020-04-21
+version: 2025-01-01
+version_adopted: 2024-12-04
 adopted: 1991-02-20
 in_force: 1991-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2950/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3706/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Entschädigung der Mitglieder und der Fraktionen des Kantonsrates
 
-vom 20.02.1991 (Stand 01.06.2020)
+vom 20.02.1991 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -32,7 +31,7 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Die Entschädigungen für die Mitglieder des Kantonsrates nach Art. 150 des Geschäftsreglements des Kantonsrates[^Ziff1-1] werden wie folgt festgesetzt:
 
 - a) Taggeld: Fr. 400.– für eine Sitzung von zwei Stunden Dauer oder mehr, Fr. 200.– für eine Sitzung von weniger als zwei Stunden Dauer;
-- b) erhöhtes Taggeld für wenigstens zwei Sitzungen von jeweils zwei Stunden Dauer oder mehr am gleichen Tag: Fr. 600.–;
+- b) erhöhtes Taggeld für zwei oder mehr Sitzungen von insgesamt wenigstens vier Stunden Dauer am gleichen Tag: Fr. 600.–;
 - c) Entfernungszuschlag je Strassenkilometer: Fr. –.70.
 
 [^Ziff1-1]: sGS [131.11](https://www.gesetzessammlung.sg.ch/data/131.11/de).
@@ -51,6 +50,14 @@ beschliesst:[^ingress-2]
 - b) Zuschlag für jedes Fraktionsmitglied: Fr. 3 000.—.
 
 [^Ziff2-1]: sGS [131.11](https://www.gesetzessammlung.sg.ch/data/131.11/de).
+
+#### Ziff. 2bis
+
+<sup>1</sup> Der jährliche Vorsorgebeitrag des Kantons nach Art. 161<sup>bis</sup> des Geschäftsreglements des Kantonsrates[^Ziff2bis-1] an die Mitglieder des Kantonsrates beträgt 12 Prozent der jeweiligen Bruttoentschädigung.
+
+<sup>2</sup> Die Mitglieder des Kantonsrates entscheiden über die Verwendung ihres jährlichen Vorsorgebeitrags.
+
+[^Ziff2bis-1]: sGS [131.11](https://www.gesetzessammlung.sg.ch/data/131.11/de).
 
 #### Ziff. 3
 
