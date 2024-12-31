@@ -4,13 +4,13 @@ number: IV B/4/3
 title: Reglement über den Bildungsgang Fachmittelschule der Kantonsschule Glarus
 short: "Reglement Fachmittelschule, RFMS"
 language: de
-version: 2020-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-11
 adopted: 2020-06-12
 in_force: 2020-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.4.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2178/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2523/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2178/pdf_file"
 
 (Reglement Fachmittelschule, RFMS)
 
-Vom 12.06.2020 (Stand 01.08.2020)
+Vom 12.06.2020 (Stand 01.01.2025)
 
 Der Kantonsschulrat,
 
@@ -61,7 +61,7 @@ erlässt:
 
 <sup>1</sup> Für die Aufnahme ist eine Aufnahmeprüfung zu bestehen.
 
-<sup>2</sup> Für das Bestehen der Aufnahmeprüfung sind die Prüfungsnoten in Deutsch, Mathematik und dem Prüfungsgespräch sowie die Beurteilung der Fachleistung, des Arbeitsverhaltens und der Persönlichkeit der Lernenden durch die abgebende Schule ausschlaggebend.
+<sup>2</sup> Für das Bestehen der Aufnahmeprüfung sind die Prüfungsnoten in Deutsch, Mathematik und dem Prüfungsgespräch sowie die Beurteilung der Fachleistung und der personalen und sozialen Kompetenzen durch die abgebende Schule ausschlaggebend.
 
 <sup>3</sup> Die Aufnahme erfolgt nach bestandener Aufnahmeprüfung definitiv.
 
@@ -159,7 +159,7 @@ erlässt:
   - 12\. Musik;
   - 13\. Sport.
 - b. Berufsfeld Gesundheit / Naturwissenschaften:
-  - 1\. Naturwissenschaften mit Praktika;
+  - 1\. Naturwissenschaftliche Praktika;
   - 2\. Humanbiologie;
   - 3\. Psychologie;
   - 4\. Informatik;
@@ -168,21 +168,22 @@ erlässt:
   - 1\. Gestalten;
   - 2\. Psychologie;
   - 3\. Informatik;
+  - 3a. Musik;
   - 4\. Projektunterricht.
 - d. Berufsfeld Kommunikation und Information:
-  - 1\. Medienkunde;
+  - 1\. Medien und Kommunikation;
   - 2\. Informatik;
-  - 3\. Anwendung der Informatik;
-  - 4\. Visuelle Gestaltung;
+  - 3\. Informationstechnologie;
+  - 4\. Visuelle Kommunikation;
   - 5\. Projektunterricht.
 
 #### Art. 12
 
 **Beurteilungsblatt**
 
-<sup>1</sup> Jeweils auf Semesterende, ausgenommen zweites Semester der dritten Klasse, erhalten die Lernenden ein Beurteilungsblatt, das über das Arbeits- und Sozialverhalten Auskunft gibt.
+<sup>1</sup> Jeweils auf Semesterende der ersten und zweiten Klasse erhalten die Lernenden ein Beurteilungsblatt, das über das Arbeits- und Sozialverhalten Auskunft gibt.
 
-<sup>2</sup> Das Arbeitsverhalten wird in den einzelnen Fächern und das Sozialverhalten gesamthaft mit den Ausdrücken gut, genügend und ungenügend bewertet.
+<sup>2</sup> Das Arbeitsverhalten wird in den einzelnen Fächern und das Sozialverhalten gesamthaft mit den Ausdrücken sehr gut, gut, genügend und ungenügend bewertet.
 
 #### Art. 13
 
@@ -235,18 +236,77 @@ erlässt:
 
 <sup>2</sup> Nach der ersten Klasse erfolgt ein Wechsel des Berufsfeldes nur noch, wenn sich dieser aufgrund einer Repetition zwingend ergibt.
 
-<sup>3</sup> Soll nach Erlangen des Fachmittelschulausweises die Fachmaturität in einem anderen, an der Fachmittelschule angebotenen Berufsfeld absolviert werden, kann die Schulleitung dies auf Antrag genehmigen und die dafür geltenden Bedingungen festlegen.
+<sup>3</sup> Soll nach Erlangen des Fachmittelschulausweises die Fachmaturität in einem anderen, an der Fachmittelschule angebotenen Berufsfeld absolviert werden, kann die Schulleitung dies auf Antrag genehmigen.
 
-## 6. Fachmittelschulabschluss und Fachmaturität
+<sup>4</sup> Für die weitere Ausbildung vorausgesetzte, fehlende Kompetenzen sind bei einem Berufsfeldwechsel in jedem Fall zu kompensieren beziehungsweise zu erwerben. Die Schulleitung legt die dazu nötigen Leistungen im Einzelfall fest.
+
+<sup>5</sup> In der zweiten Klasse muss ein dreiwöchiges Praktikum in einer Institution des Berufsfeldes absolviert werden.
+
+## 6. Fachmittelschulabschluss
 
 #### Art. 18
 
-**Abschluss**
+**Zulassung**
 
-<sup>1</sup> Zur Abschlussprüfung der Fachmittelschule werden Lernende zugelassen, welche mindestens den Unterricht des dritten von drei Schuljahren regelmässig besucht haben.
+<sup>1</sup> Zur Abschlussprüfung der Fachmittelschule werden Lernende zugelassen, welche:
 
-<sup>2</sup> Zur Fachmaturität zugelassen wird, wer einen erfolgreichen Fachmittelschulabschluss vorweisen kann.
+- a. eine bewertete selbstständige Arbeit verfasst und präsentiert haben;
+- b. das dreiwöchige Berufspraktikum und ein dreiwöchiges Sprachpraktikum absolviert haben; sowie
+- c. mindestens den Unterricht des dritten von drei Schuljahren regelmässig besucht haben.
 
-<sup>3</sup> Über Ausnahmen bezüglich der Zulassung entscheidet die Schulleitung.
+<sup>2</sup> Über Ausnahmen bezüglich der Zulassung entscheidet die Schulleitung.
+
+<sup>3</sup> Die Schulleitung erlässt eine vom Kantonsschulrat zu genehmigende Weisung zur Abschlussprüfung, in welcher sie insbesondere das Weitere zur Zulassung, den Fächern für die Fachnoten und zur Durchführung der Prüfung regelt.
+
+#### Art. 19
+
+**Bestehen**
+
+<sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn:
+
+- a. der Durchschnitt aus allen Fachnoten mindestens 4 beträgt;
+- b. höchstens drei Fachnoten ungenügend sind; sowie
+- c. die Summe der Notenabweichungen von 4 nach unten nicht mehr als 2,0 Punkte beträgt.
+
+<sup>2</sup> Als Fachnoten zählen die Note der selbstständigen Arbeit mit Präsentation, bei Fächern mit Abschlussprüfung der Durchschnitt aus Erfahrungsnote und Abschlussprüfung und bei Fächern ohne Abschlussprüfung die Erfahrungsnote.
+
+## 7. Fachmaturität
+
+#### Art. 20
+
+**Dauer**
+
+<sup>1</sup> Der Erwerb des Fachmaturitätszeugnisses erfolgt in der Regel unmittelbar nach Erhalt des Fachmittelschulausweises. In begründeten Fällen kann von der Schulleitung ein zeitlicher Unterbruch von maximal drei Jahren nach Erhalt des Fachmittelschulausweises akzeptiert werden.
+
+#### Art. 21
+
+**Zulassung**
+
+<sup>1</sup> Zur Fachmaturität zugelassen wird, wer:
+
+- a. einen erfolgreichen Fachmittelschulabschluss im gewählten Berufsfeld vorweisen kann;
+- b. im Berufsfeld Gesundheit / Naturwissenschaften einen fachspezifischen, mindestens drei Wochen umfassenden Kurs besucht hat;
+- c. im Berufsfeld Kommunikation und Information anerkannte B2-Sprachzertifikate in Englisch und Französisch sowie einen mehrwöchigen Sprachaufenthalt vorweisen kann; sowie
+- d. nach Abschluss der Fachmittelschule ein mindestens 24 Wochen dauerndes, anerkanntes und validiertes Praktikum in einer Institution des gewählten Berufsfeldes absolviert hat sowie mindestens acht Wochen für die Vorbereitung, Begleitung und Auswertung des Praktikums sowie zum Verfassen der Fachmaturitätsarbeit eingesetzt hat.
+
+<sup>2</sup> Die Begleitung und Validierung der Zulassungsvoraussetzungen obliegt der Schulleitung in Zusammenarbeit mit den für die zusätzlichen Leistungen zuständigen Institutionen.
+
+<sup>3</sup> Die Schulleitung erlässt eine vom Kantonsschulrat zu genehmigende Weisung, in welcher sie insbesondere die Bedingungen für Praktika, Fachmaturitätsarbeit mit Präsentation, Kurse und Sprachdiplome für das Fachmaturitätsjahr regelt.
+
+#### Art. 22
+
+**Bestehen**
+
+<sup>1</sup> Die Fachmaturität ist bestanden, wenn eine eigenständige, berufsfeldspezifische, in Bezug zum 24-wöchigen Praktikum stehende, schriftliche Fachmaturitätsarbeit mit mündlicher Präsentation als mindestens genügend bewertet wurde sowie die Zulassungsvoraussetzungen gemäss Artikel 21 erfüllt sind.
+
+## 8. Übergangsbestimmungen
+
+#### Art. 23
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Für Lernende der ersten Klasse im Schuljahr 2024/2025 gelten die Änderungen vom 11. November 2024 umgehend.
+
+<sup>2</sup> Für die übrigen Lernenden gelten die Änderungen vom 11. November 2024 ab dem 1. August 2025.
 
 SBE 2020 27
