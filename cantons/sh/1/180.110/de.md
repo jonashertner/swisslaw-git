@@ -3,27 +3,26 @@ canton: SH
 number: "180.110"
 title: Dekret über die Besoldung der Richterinnen und Richter
 language: de
-version: 2024-01-01
-corrected: 2024-06-18
-version_adopted: 2023-12-12
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-25
 adopted: 2004-05-03
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.110"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/62/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1974/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über die Besoldung der Richterinnen und Richter
 
-vom 3. Mai 2004
+Vom 03.05.2004 (Stand 01.01.2025)
 
 Der Kantonsrat Schaffhausen,
 
 gestützt auf Art. 19 Abs. 6 des Personalgesetzes vom 3. Mai 2004,
 
-beschliesst als Dekret:
+beschliesst:
 
 #### § 1
 
@@ -31,69 +30,39 @@ beschliesst als Dekret:
 
 <sup>1</sup> Die nachstehenden Richterfunktionen werden im Rahmen ihrer Pensen wie folgt besoldet, wobei sich die Angaben auf die jeweilig geltende Besoldungsordnung für das Staatspersonal beziehen:
 
-- a) Obergericht <sup>4)</sup>
+- a) Obergericht:
+  - 1\. Obergerichtspräsidentin oder ‑präsident: 100 bis 105% des Maximums des obersten Lohnbandes
+  - 2\. Obergerichtsvizepräsidentin oder ‑präsident und Oberrichterinnen oder ‑richter, die einer Kammer vorsitzen: 95% bis Maximum des obersten Lohnbandes
+  - 3\. Oberrichterinnen oder ‑richter: 95% bis Maximum des zweitobersten Lohnbandes
+- b) Kantonsgericht:
+  - 1\. Kantonsgerichtspräsidentin oder ‑präsident: 95% bis Maximum des obersten Lohnbandes
+  - 2\. Kantonsrichterinnen und ‑richter, die einer Kammer vorsitzen oder vorwiegend Einzelrichtertätigkeiten wahrnehmen: 95% bis Maximum des zweitobersten Lohnbandes
+  - 3\. Kantonsrichterinnen und ‑richter: 95% bis Maximum des drittobersten Lohnbandes
 
-- 1\. Obergerichtspräsidentin oder -präsident 100 bis 105 % des Maximums des obersten Lohnbandes
-
-- 2\. Obergerichtsvizepräsidentin oder -präsident und Oberrichterinnen oder -richter, die einer Kammer vorsitzen 95 % bis Maximum des obersten Lohnbandes
-
-- 3\. Oberrichterinnen oder -richter
-
-95 % bis Maximum des zweitobersten Lohnbandes
-
-- b) Kantonsgericht <sup>8)</sup>
-
-- 1\. Kantonsgerichtspräsidentin oder -präsident 95 % bis Maximum des obersten Lohnbandes
-
-- 2\. Kantonsrichterinnen und -richter, die einer Kammer vorsitzen oder vorwiegend Einzelrichtertätigkeiten wahrnehmen
-
-95 % bis Maximum des zweitobersten Lohnbandes
-
-- 3\. Kantonsrichterinnen und -richter
-
-95 % bis Maximum des drittobersten Lohnbandes
-
-<sup>2</sup> Bei Eintritt richtet sich die Besoldung nach dem niedrigsten Prozentwert. Danach erfolgt jährlich auf Beginn des Kalenderjahres eine Erhöhung um ein Prozent bis zum Erreichen des maximalen
-
-Amtsblatt 2005, S. 1275. Wertes. Erfolgt der Eintritt in der zweiten Jahreshälfte, so tritt die erste Erhöhung auf Beginn des übernächsten Kalenderjahres ein.
+<sup>2</sup> Bei Eintritt richtet sich die Besoldung nach dem niedrigsten Prozentwert. Danach erfolgt jährlich auf Beginn des Kalenderjahres eine Erhöhung um ein Prozent bis zum Erreichen des maximalen Wertes. Erfolgt der Eintritt in der zweiten Jahreshälfte, so tritt die erste Erhöhung auf Beginn des übernächsten Kalenderjahres ein.
 
 #### § 2
 
-<sup>9)</sup>
+**Ersatzrichterinnen und ‑richter**
 
-**Ersatzrichterinnen und -richter**
+<sup>1</sup> Die fallweise beschäftigten Ersatzrichterinnen und ‑richter erhalten folgende Vergütungen:
 
-Die fallweise beschäftigten Ersatzrichterinnen und -richter erhalten folgende Vergütungen:
+- a) Obergericht:
+  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 373.60
+  - 2\. für ganztägige Sitzung: — Fr. 577.35
+  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 192.45
+- b) Kantonsgericht:
+  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 350.95
+  - 2\. für ganztägige Sitzung: — Fr. 554.65
+  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 181.20
 
-**Fr.**
-
-- a) Obergericht
-
-- 1\. pro Sitzung (Aktenstudium und Referate inbegriffen) 368.80
-
-**569.95**
-
-- 2\. für ganztägige Sitzung
-
-**190.--**
-
-- 3\. für Vertretung/Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen
-
-- b) Kantonsgericht
-
-- 1\. pro Sitzung (Aktenstudium und Referate inbegriffen) 346.45
-
-**547.55**
-
-- 2\. für ganztägige Sitzung
-
-- 3\. für Vertretung/Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen 178.85
+<sup>2</sup> Bei besonders aufwändigen Geschäften bzw. Verfahren kann die Vergütung auf das Zweifache der Vergütung gemäss Abs. 1 erhöht werden.
 
 #### § 3
 
 **Teuerung**
 
-Die Besoldungen werden im gleichen Umfang an die Teuerung angepasst wie für das Staatspersonal. Der Regierungsrat passt § 2 jeweils an.
+<sup>1</sup> Die Besoldungen werden im gleichen Umfang an die Teuerung angepasst wie für das Staatspersonal. Der Regierungsrat passt § 2 jeweils an.
 
 #### § 4
 
@@ -105,20 +74,11 @@ Die Besoldungen werden im gleichen Umfang an die Teuerung angepasst wie für das
 
 #### § 5
 
-**In-Kraft-Treten**
+<sup>1</sup> Dieses Dekret tritt auf einen vom Regierungsrat festzulegenden Zeitpunkt in Kraft[^5-1].
 
-<sup>1</sup> Dieses Dekret tritt auf einen vom Regierungsrat festzulegenden Zeitpunkt in Kraft <sup>1)</sup>.
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^5-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen <sup>2)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
+[^5-1]: In Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1277).
+[^5-2]: Amtsblatt 2005, S. 1275.
 
-Fussnoten:
-
-- 1) In Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1277).
-
-- 2) Amtsblatt 2005, S. 1275.
-
-- 4) Fassung gemäss D vom 20. März 2006, in Kraft getreten am 1. Juli 2006 (Amtsblatt 2006, S. 849).
-
-- 8) Fassung gemäss D vom 6. Dezember 2010, in Kraft getreten am 1. Januar 2011 (Amtsblatt 2010, S. 1768).
-
-- 9) Fassung gemäss RRB vom 12. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2192).
+Abl. 2005, S. 1275
