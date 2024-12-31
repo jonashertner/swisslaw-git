@@ -4,13 +4,13 @@ number: "311.1"
 title: "Loi d'application du code pénal"
 short: LACP
 language: fr
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-15
+version: 2025-01-01
+valid_until: 2026-01-31
+version_adopted: 2024-09-12
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3543/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3544/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3543/pdf_file"
 
 (LACP)
 
-du 12.05.2016 (état 01.03.2024)
+du 12.05.2016 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -1011,6 +1011,48 @@ ordonne:[^ingress-1]
 <sup>2</sup> Le tribunal des mesures de contrainte est compétent pour autoriser la surveillance.
 
 <sup>3</sup> La décision du tribunal est sujette à recours auprès d’un juge du Tribunal cantonal. Les articles 379 à 397 CPP s’appliquent par analogie.
+
+### 5.4 Loi fédérale sur l'interdiction de se dissimuler le visage (LIDV)
+
+#### Art. 86b
+
+**Autorisation**
+
+<sup>1</sup> La demande d’autorisation de se dissimuler le visage au sens de l’article 2 alinéa 3 LIDV doit être adressée au conseil municipal de la commune où se déroule la manifestation ou l’action avant sa tenue.
+
+<sup>2</sup> La demande contient notamment les indications suivantes:
+
+- a) les informations relatives à la personne requérante:
+  - 1\. nom, prénom, adresse de domicile, date de naissance et numéro de téléphone s’agissant d’une personne physique,
+  - 2\. raison sociale, siège social, adresse postale et numéro de téléphone ainsi que nom et prénom de la personne référente s’agissant d’une personne morale;
+- b) une description de la manifestation ou de l’action visée par la demande ainsi que les dates, les heures et les lieux;
+- c) un exposé du motif de la demande.
+
+<sup>3</sup> La personne requérante doit fournir tout document ou renseignement nécessaire, y compris à des fins d'identification, au conseil municipal dans le cadre du traitement de la demande.
+
+<sup>4</sup> D’office ou sur requête, le conseil municipal peut délivrer une autorisation générale de se dissimuler le visage valable pour toutes les personnes participant à la manifestation ou à l’action lorsque la demande d’autorisation a pour but de permettre d’exprimer figurativement une opinion au sens de l’article 2 alinéa 3 lettre b LIDV.
+
+#### Art. 86c
+
+**Révocation de l'autorisation**
+
+<sup>1</sup> Le conseil municipal peut révoquer l’autorisation de se dissimuler le visage délivrée lorsqu’il est à prévoir que son bénéficiaire commette une infraction sous couvert de l’anonymat.
+
+<sup>2</sup> Toute violation de l’ordre ou de la sécurité publique commise sous couvert de l’anonymat par une personne au bénéfice d’une autorisation entraine la révocation de cette dernière.
+
+#### Art. 86d
+
+**Collaboration administrative**
+
+<sup>1</sup> L’administration cantonale et le conseil municipal sont tenus de collaborer, notamment concernant l’évaluation des motifs invoqués et le risque encouru pour la sécurité et l’ordre publics, ainsi que les décisions fondées sur la LIDV.
+
+#### Art. 86e
+
+**Contraventions de droit fédéral**
+
+<sup>1</sup> Sous réserve de la compétence du Tribunal des mineurs, la poursuite et le jugement pénaux des contraventions à la LIDV incombent à la police cantonale.
+
+<sup>2</sup> Les amendes d’ordre sont perçues par la police cantonale et les polices municipales.
 
 ## 6 Disposition finale
 

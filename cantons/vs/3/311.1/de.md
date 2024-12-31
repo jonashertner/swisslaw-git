@@ -4,13 +4,13 @@ number: "311.1"
 title: Einführungsgesetz zum Strafgesetzbuch
 short: EGStGB
 language: de
-version: 2024-03-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-15
+version: 2025-01-01
+valid_until: 2026-01-31
+version_adopted: 2024-09-12
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/de/versions/3543/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3544/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3543/pdf_file"
 
 (EGStGB)
 
-vom 12.05.2016 (Stand 01.03.2024)
+vom 12.05.2016 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -1011,6 +1011,48 @@ verordnet:[^ingress-1]
 <sup>2</sup> Das Zwangsmassnahmengericht ist zuständig für die Genehmigung der Überwachung.
 
 <sup>3</sup> Der Entscheid des Zwangsmassnahmengerichts kann mittels Beschwerde bei einem Richter des Kantonsgerichts angefochten werden. Die Artikel 379 bis 397 StPO gelten sinngemäss.
+
+### 5.4 Bundesgesetz über das Verbot der Verhüllung des Gesichts (BVVG)
+
+#### Art. 86b
+
+**Bewilligung**
+
+<sup>1</sup> Das Gesuch um Bewilligung zur Gesichtsverhüllung im Sinne von Artikel 2 Absatz 3 BVVG ist vor der Durchführung der Veranstaltung oder Aktivität an den Gemeinderat der Gemeinde zu richten, in der die Veranstaltung oder Aktivität stattfindet.
+
+<sup>2</sup> Das Gesuch enthält insbesondere folgende Angaben:
+
+- a) Angaben zur gesuchstellenden Person:
+  - 1\. Name, Vorname, Wohnadresse, Geburtsdatum und Telefonnummer, wenn es sich um eine natürliche Person handelt,
+  - 2\. Firmenname, Sitz, Postadresse und Telefonnummer sowie Name und Vorname der Kontaktperson, wenn es sich um eine juristische Person handelt;
+- b) eine Beschreibung der Veranstaltung oder Aktivität, auf die sich das Gesuch bezieht, sowie Datum, Zeit und Ort;
+- c) eine Begründung des Gesuchs.
+
+<sup>3</sup> Die gesuchstellende Person muss alle Dokumente und Auskünfte vorlegen, die der Gemeinderat im Rahmen der Behandlung des Gesuchs benötigt, einschliesslich Informationen zur Feststellung der Identität.
+
+<sup>4</sup> Der Gemeinderat kann von Amtes wegen oder auf Gesuch hin eine generelle, für alle an der Veranstaltung oder Aktivität teilnehmenden Personen gültige Bewilligung zur Gesichtsverhüllung erteilen, wenn mit dem Bewilligungsgesuch beabsichtigt wird, eine bildliche Meinungsäusserung im Sinne von Artikel 2 Absatz 3 Buchstabe b BVVG darzustellen.
+
+#### Art. 86c
+
+**Widerruf der Bewilligung**
+
+<sup>1</sup> Der Gemeinderat kann die erteilte Bewilligung zur Gesichtsverhüllung widerrufen, wenn zu erwarten ist, dass der Berechtigte im Schutze der Anonymität eine Straftat begeht.
+
+<sup>2</sup> Verstösse gegen die öffentliche Ordnung und Sicherheit, die von einer Person mit einer Bewilligung im Schutze der Anonymität begangen werden, führen zum Widerruf der Bewilligung.
+
+#### Art. 86d
+
+**Verwaltungszusammenarbeit**
+
+<sup>1</sup> Die Kantonsverwaltung und der Gemeinderat sind zur Zusammenarbeit verpflichtet, insbesondere bei der Beurteilung der angegebenen Gründe und des Risikos für die öffentliche Sicherheit und Ordnung sowie bei Entscheiden, die sich auf das BVVG stützen.
+
+#### Art. 86e
+
+**Übertretungen des Bundesrechts**
+
+<sup>1</sup> Die strafrechtliche Verfolgung und Beurteilung von Übertretungen des BVVG obliegt der Kantonspolizei, unter Vorbehalt der Zuständigkeit des Jugendgerichts.
+
+<sup>2</sup> Ordnungsbussen werden von der Kantonspolizei und den Gemeindepolizeien eingezogen.
 
 ## 6 Schlussbestimmung
 
