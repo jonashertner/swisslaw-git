@@ -4,13 +4,13 @@ number: "172.111"
 title: "Standeskommissionsbeschluss über die Departemente, Amtsstellen und Kommissionen"
 short: StKB Dep
 language: de
-version: 2024-06-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-26
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2025-02-04
 adopted: 2001-04-03
 in_force: 2001-04-03
 url: "https://ai.clex.ch/app/de/texts_of_law/172.111"
-pdf: "https://ai.clex.ch/api/de/versions/2361/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2364/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2361/pdf_file"
 
 (StKB Dep)
 
-vom 03.04.2001 (Stand 01.06.2024)
+vom 03.04.2001 (Stand 01.01.2025)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -247,7 +247,7 @@ beschliesst:
 - a) Landwasserversorgung
 - b) Wildkirchli-Stiftung
 - c) …
-- d) Bieneninspektorat
+- d) …
 - e) Sanierung der Wohnverhältnisse im Berggebiet
 
 #### Art. 8
