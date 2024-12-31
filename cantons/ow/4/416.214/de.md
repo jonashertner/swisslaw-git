@@ -3,20 +3,19 @@ canton: OW
 number: "416.214"
 title: Ausführungsbestimmungen über die Aufnahme in Berufsmaturitätsschulen
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-05
+version: 2025-01-01
+version_adopted: 2024-09-23
 adopted: 2023-12-05
 in_force: 2024-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/416.214"
-pdf: "http://gdb.ow.ch/api/de/versions/1838/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1890/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Aufnahme in Berufsmaturitätsschulen
 
-vom 05.12.2023 (Stand 01.01.2024)
+vom 05.12.2023 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -74,7 +73,7 @@ beschliesst:
 
 <sup>4</sup> Der Prüfungsstoff richtet sich nach dem Inhalt des Lehrplans der öffentlichen Orientierungsschule bis zur Aufnahmeprüfung. Die Prüfung umfasst die Fächer Mathematik, Deutsch, Französisch und Englisch.
 
-<sup>5</sup> Die Aufnahmeprüfung ist bestanden, wenn der Notendurchschnitt der beiden Bereiche Mathematik und Sprachen (Deutsch, Französisch, Englisch) mindestens 4.0 beträgt.
+<sup>5</sup> Die Aufnahmeprüfung ist bestanden, wenn der Notendurchschnitt der beiden Bereiche Mathematik und Sprachen (Deutsch, Französisch, Englisch) mindestens 4.0 beträgt. In der Ausrichtung „Technik, Architektur, Life Sciences“ muss zusätzlich die Note in Mathematik mindestens 4.0 betragen.
 
 #### Art. 7
 
@@ -95,5 +94,9 @@ beschliesst:
 Ursprüngliche Fundstelle: OGS 2023, 40
 
 Ursprüngliches Inkrafttreten: 1. Januar 2024
+
+geändert durch:
+
+\- den Nachtrag vom 23. September 2024, in Kraft seit 1. Januar 2024 (OGS 2024, 22)
 
 OGS 2023, 40
