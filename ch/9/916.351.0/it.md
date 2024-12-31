@@ -4,11 +4,11 @@ title: Ordinanza del 20 ottobre 2010 sul controllo del latte (OCL)
 short: OCL
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/713"
 language: it
-version: 2024-02-01
+version: 2025-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2010-713-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2010-713-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20240201/it"
 
 (OCL)
 
-del 20 ottobre 2010 (Stato 1° febbraio 2024)
+del 20 ottobre 2010 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 10 capoverso 3 lettera a e 44 della legge del 20 giugno 2014[^ingress-1] sulle derrate alimentari; visti gli articoli 10 e 177 capoverso 1 della legge del 29 aprile 1998[^ingress-2] sull’agricoltura,[^ingress-3]
+visti gli articoli 10 capoverso 3 lettera a e 44 della legge del 20 giugno 2014[^ingress-1] sulle derrate alimentari; visti gli articoli 10, 41 e 177 capoverso 1 della legge del 29 aprile 1998[^ingress-2] sull’agricoltura,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^ingress-3]: Nuovo testo giusta il n. II dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 
 ## Sezione 1: Disposizioni generali
 

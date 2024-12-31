@@ -4,11 +4,11 @@ title: Milchprüfungsverordnung vom 20. Oktober 2010 (MiPV)
 short: MiPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/713"
 language: de
-version: 2024-02-01
+version: 2025-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2010-713-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2010-713-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20240201/de"
 
 (MiPV)
 
-vom 20. Oktober 2010 (Stand am 1. Februar 2024)
+vom 20. Oktober 2010 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 10 Absatz 3 Buchstabe a und 44 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-1] und auf die Artikel 10 und 177 Absatz 1 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-2],[^ingress-3]
+gestützt auf die Artikel 10 Absatz 3 Buchstabe a und 44 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-1] und auf die Artikel 10, 41 und 177 Absatz 1 des Landwirtschaftsgesetzes vom 29. April 1998[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^ingress-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^ingress-3]: Fassung gemäss Ziff. II der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -158,7 +158,7 @@ Die Prüflaboratorien müssen nach der europäischen Norm EN ISO/IEC 17025 über
 <sup>4</sup> Das BLV erlässt Weisungen über die technischen Mindeststandards der Prüflaboratorien.
 
 [^11-1]: Ausdruck gemäss Ziff. I 12 der V vom 4. Sept. 2013 (Reorganisation im Bereich Lebensmittelsicherheit und Veterinärwesen), in Kraft seit 1. Jan. 2014 ([AS 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^11-2]: Der Text dieser Norm kann beim Bundesamt für Veterinärwesen, 3003 Bern kostenlos eingesehen oder kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^11-2]: Der Text dieser Norm kann beim Bundesamt für Veterinärwesen, 3003 Bern kostenlos eingesehen oder kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 [^11-3]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 12

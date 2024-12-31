@@ -4,11 +4,11 @@ title: Ordonnance du 20 octobre 2010 sur le contrôle du lait (OCL)
 short: OCL
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/713"
 language: fr
-version: 2024-02-01
+version: 2025-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-713-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/713/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-713-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/713/20240201/fr"
 
 (OCL)
 
-du 20 octobre 2010 (État le 1<sup>er</sup> février 2024)
+du 20 octobre 2010 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
-vu les art. 10, al. 3, let. a, et 44 de la loi du 20 juin 2014 sur les denrées alimentaires[^ingress-1], vu les art. 10 et 177, al. 1, de la loi du 29 avril 1998 sur l’agriculture[^ingress-2],[^ingress-3]
+vu les art. 10, al. 3, let. a, et 44 de la loi du 20 juin 2014 sur les denrées alimentaires[^ingress-1], vu les art. 10, 41 et 177, al. 1, de la loi du 29 avril 1998 sur l’agriculture[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 831](https://fedlex.data.admin.ch/eli/oc/2023/831)).
+[^ingress-3]: Nouvelle teneur selon le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 638](https://fedlex.data.admin.ch/eli/oc/2024/638)).
 
 ## Section 1 Dispositions générales
 
@@ -158,7 +158,7 @@ Les laboratoires d’essais doivent être exploités et évalués conformément 
 <sup>4</sup> L’OSAV édicte des directives relatives aux normes techniques minimales applicables aux laboratoires d’essais.
 
 [^11-1]: Nouvelle expression selon le ch. I 12 de l’O du 4 sept. 2013 (Réorganisation de la sécurité alimentaire et des affaires vétérinaires), en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)).
-[^11-2]: Le texte de la norme peut être obtenu contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch. La norme peut également être consultée gratuitement à l’Office vétérinaire fédéral, 3003 Berne.
+[^11-2]: Le texte de la norme peut être obtenu contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch). La norme peut également être consultée gratuitement à l’Office vétérinaire fédéral, 3003 Berne.
 [^11-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 12
@@ -240,7 +240,7 @@ L’OSAV exécute la présente ordonnance, sauf disposition contraire.
 
 L’ordonnance du 23 novembre 2005 sur la qualité du lait[^17-1] est abrogée.
 
-[^17-1]: [[RO 2005 5567](https://fedlex.data.admin.ch/eli/oc/2005/757), [2006 4863](https://fedlex.data.admin.ch/eli/oc/2006/752)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)annexe ch. 5, [2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)annexe ch. 2, [2008 565](https://fedlex.data.admin.ch/eli/oc/2008/125), [2009 559](https://fedlex.data.admin.ch/eli/oc/2009/96)]
+[^17-1]: [[RO 2005 5567](https://fedlex.data.admin.ch/eli/oc/2005/757); [2006 4863](https://fedlex.data.admin.ch/eli/oc/2006/752), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)annexe ch. 5; [2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)annexe ch. 2; [2008 565](https://fedlex.data.admin.ch/eli/oc/2008/125); [2009 559](https://fedlex.data.admin.ch/eli/oc/2009/96)]
 
 #### Art. 18
 
