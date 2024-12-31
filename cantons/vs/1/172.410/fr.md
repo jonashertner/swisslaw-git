@@ -5,11 +5,12 @@ title: "Ordonnance concernant le traitement des employés de l'Etat du Valais"
 short: OTrait
 language: fr
 version: 2025-01-01
+corrected: 2024-12-03
 version_adopted: 2024-11-20
 adopted: 1997-07-10
 in_force: 1998-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.410"
-pdf: "https://lex.vs.ch/api/fr/versions/3418/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3416/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -323,13 +324,11 @@ ordonne:
 
 **Traitement en cas de maternité**
 
-<sup>1</sup> En cas de cessation des rapports de service pendant la période durant laquelle un traitement en cas de maternité est versé, le droit au traitement est de huit semaines.
+<sup>1</sup> Si la reprise du travail n'intervient pas dans les six mois qui suivent l'accouchement, le droit au traitement court pendant huit semaines.
 
-<sup>1<sup>bis</sup></sup> Lors de l’hospitalisation prolongée du nouveau-né, le traitement est prolongé conformément à la durée prévue à l’article 16c alinéa 3 LAPG, pour autant que les conditions soient remplies.
+<sup>1<sup>bis</sup></sup> En cas de prolongation de l'allocation de maternité au sens de l'article 16c alinéa 3 LAPG, le salaire continue d'être versé à 100 pour cent pendant 42 jours au maximum, sur la base de l'article 6 alinéa 2 LcPers et de l'article 329f alinéa 2 CO.
 
-<sup>2</sup> Si les rapports de service cessent entre la fin du traitement maternité et les six mois qui suivent l’accouchement, le droit au traitement est réduit prorata temporis.
-
-<sup>2<sup>bis</sup></sup> Si l’employée a bénéficié d’un traitement pour cause de maternité plus important que celui auquel elle a droit en vertu du présent article, elle doit restituer le surplus, les éventuelles allocations maternité lui restant acquises.
+<sup>2</sup> Si après l'accouchement, le temps de travail est inférieur à six mois, le droit au traitement est réduit prorata temporis.
 
 <sup>3</sup> …
 
@@ -340,8 +339,6 @@ ordonne:
 <sup>6</sup> Lorsqu'une employée est engagée pour une durée limitée et que l'accouchement a lieu avant la fin des rapports de service, le traitement en cas de maternité court jusqu'au dernier jour des rapports de service.
 
 <sup>7</sup> L'employée qui bénéficie d'un droit au traitement en cas de maternité de 16 semaines peut demander une anticipation jusqu'à deux semaines au maximum du versement du traitement en cas de congé maternité.
-
-<sup>8</sup> Si le père de l'enfant ou l’épouse de la mère décède au cours des six mois qui suivent la naissance de l’enfant, la mère a droit à un congé supplémentaire équivalent au congé de l’autre parent de l’article 25f de la présente ordonnance.
 
 #### Art. 25a
 
@@ -395,19 +392,11 @@ ordonne:
 
 #### Art. 25f
 
-**Congé de l’autre parent**
+**Congé de parentalité**
 
-<sup>1</sup> Un congé de l’autre parent de dix jours ouvrables est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance de parentalité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
+<sup>1</sup> Un congé de parentalité de dix jours ouvrables est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance de parentalité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
 
 <sup>2</sup> Ces jours peuvent se prendre sous forme de semaines ou par jours isolés en tenant compte dans la mesure du possible de l'organisation de l'entité.
-
-<sup>2<sup>bis</sup></sup> Si la mère décède dans les 14 semaines qui suivent la naissance de l’enfant, le père de l'enfant ou l’épouse de la mère a droit à un congé supplémentaire de 14 semaines, en plus du congé prévu par le présent article.
-
-<sup>2<sup>ter</sup></sup> Ce congé doit être pris à compter du jour qui suit le décès et de manière ininterrompue.
-
-<sup>2<sup>quater</sup></sup> Si l’enfant est hospitalisé dès sa naissance, l’article 25 alinéa 1<sup>bis</sup> de la présente ordonnance s’applique par analogie.
-
-<sup>2<sup>quinquies</sup></sup> Le délai-cadre de six mois prévu à l’alinéa 1 est suspendu pendant la période où le droit au congé visé aux alinéas 2<sup>bis</sup> à 2<sup>quater</sup> est exercé.
 
 <sup>3</sup> L'indemnité de la caisse de compensation appartient à l'employeur qui poursuit le versement du traitement dans sa totalité.
 
@@ -668,7 +657,7 @@ ordonne:
 
 - a) une employée, en raison d’une grossesse, est empêchée de travailler pendant deux mois au plus;
 - b) une employée a pris un congé de maternité;
-- c) un employé a pris un congé de l'autre parent
+- c) un employé a pris un congé de parentalité;
 - c<sup>bis</sup>) un employé a pris un congé d'adoption, ou
 - d) un employé a bénéficié d’un congé de prise en charge au sens de l’article 37b.
 
@@ -806,7 +795,7 @@ ordonne:
 
 <sup>1</sup> L’Etat du Valais soutient l’octroi de congés non payés.
 
-<sup>2</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, les employés ont le droit de bénéficier d’un congé non payé (prorata temporis), après un congé maternité, d’adoption ou de l’autre parent. Pour ces types de congé non payé, l’Etat du Valais prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (part employé et employeur) pour la durée du congé non payé, mais au maximum pendant trois mois. Le délai de six mois prévu à l’article 25 alinéa 2 de la présente ordonnance est suspendu pendant la durée de ce congé non payé.
+<sup>2</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, les employés ont le droit de bénéficier d’un congé non payé (pro rata temporis), après un congé maternité, d’adoption ou de parentalité. Pour ces types de congé non payé, l’Etat du Valais prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (part employé et employeur) pour la durée du congé non payé, mais au maximum pendant 3 mois. Lors de la demande d’un congé non payé faisant suite à un congé maternité ou d’adoption, le personnel est rendu attentif au fait que le droit au traitement du congé précité sera réduit s’il ne reprend pas son activité dans les 6 mois suivant l’accouchement ou l’adoption. La durée de ces congés non payés est fixée en accord avec le chef de service.
 
 <sup>3</sup> Le chef de service, sur demande motivée et préavis du SRH, peut accorder à un employé un congé non payé pour une durée maximale de six mois (prorata temporis), pour autant que l'activité du service ne soit pas perturbée de façon considérable. Au-delà de cette durée, la compétence de décision appartient au chef de département.
 

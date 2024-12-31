@@ -5,11 +5,12 @@ title: "Verordnung über die Besoldung der Angestellten des Staates Wallis *"
 short: VBes
 language: de
 version: 2025-01-01
+corrected: 2024-12-03
 version_adopted: 2024-11-20
 adopted: 1997-07-10
 in_force: 1998-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.410"
-pdf: "https://lex.vs.ch/api/de/versions/3418/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -38,7 +39,7 @@ verordnet:
 
 <sup>1</sup> Die vorliegende Verordnung regelt den Bereich der Besoldung der Angestellten der kantonalen Verwaltung, der staatlichen Anstalten und der Gerichte (Verwaltungspersonal).
 
-<sup>2</sup> Die besonderen Bestimmungen über die Lernenden und die Reisespesen bleiben vorbehalten.
+<sup>2</sup> Die besonderen Bestimmungen über die Lehrlinge und die Reisespesen bleiben vorbehalten.
 
 #### Art. 2
 
@@ -113,7 +114,7 @@ verordnet:
 - d) die Beurteilung der Leistungen und des Verhaltens sowie der Abweichungen;
 - e) die Zufriedenheit des Angestellten.
 
-<sup>4</sup> Bei Versetzungen und Beförderungen ist zum Zeitpunkt der Beurteilung der neue direkte Vorgesetzte für dieselbe zuständig, in Zusammenarbeit mit dem bisherigen direkten Vorgesetzten.
+<sup>4</sup> Bei Versetzungen und Beförderungen ist der Dienstchef zum Zeitpunkt der Beurteilung für dieselbe zuständig.
 
 <sup>5</sup> Der Angestellte, der gleichzeitig in mehreren Dienststellen arbeitet, wird in jeder Dienststelle beurteilt. Die Beurteilungen werden entsprechend dem jeweiligen Beschäftigungsgrad berücksichtigt.
 
@@ -323,13 +324,11 @@ verordnet:
 
 **Besoldung bei Mutterschaft**
 
-<sup>1</sup> Bei Auflösung des Dienstverhältnisses während des Zeitraums, in dem eine Besoldung bei Mutterschaft entrichtet wird, beträgt der Besoldungsanspruch acht Wochen.
+<sup>1</sup> Wird die Arbeit innerhalb von sechs Monaten nach der Niederkunft nicht wieder aufgenommen wird, besteht ein Besoldungsanspruch während acht Wochen.
 
-<sup>1<sup>bis</sup></sup> Bei einem längeren Spitalaufenthalt des Neugeborenen wird die Besoldung entsprechend der in Artikel 16c Absatz 3 EOG vorgesehenen Dauer verlängert, sofern die Voraussetzungen erfüllt sind.
+<sup>1<sup>bis</sup></sup> Bei Verlängerung der Mutterschaftsentschädigung gemäss Artikel 16c Absatz 3 EOG, wird der Lohn gestützt auf Artikel 6 Absatz 2 kGPers und Artikel 329f Absatz 2 OR während maximal 42 Tagen zu 100 Prozent weiterbezahlt.
 
-<sup>2</sup> Wird das Dienstverhältnis zwischen dem Ende der Besoldung bei Mutterschaft und den sechs Monaten nach der Niederkunft aufgelöst, wird der Besoldungsanspruch prorata temporis gekürzt.
-
-<sup>2<sup>bis</sup></sup> Hat die Angestellte eine höhere Besoldung bei Mutterschaft erhalten, als ihr nach vorliegendem Artikel zusteht, so muss sie den Überschuss zurückerstatten, wobei ihr eine allfällige Mutterschaftsentschädigung verbleibt.
+<sup>2</sup> Endet das Arbeitsverhältnis vor sechs Monaten nach der Niederkunft, wird der Besoldungsanspruch prorata temporis gekürzt.
 
 <sup>3</sup> …
 
@@ -337,11 +336,9 @@ verordnet:
 
 <sup>5</sup> Die Besoldung bei Mutterschaft wird nicht ausgerichtet, wenn das Dienstverhältnis im Zeitpunkt der Niederkunft nicht mehr besteht oder suspendiert ist.
 
-<sup>6</sup> Falls eine Angestellte für eine befristete Dauer angestellt ist und die Niederkunft vor dem Ende des Dienstverhältnisses stattfindet, wird die Besoldung bei Mutterschaft bis Ende des Dienstverhältnisses ausgerichtet.
+<sup>6</sup> Falls eine Angestellte für eine befristete Dauer angestellt ist und die Geburt vor dem Ende des Arbeitsverhältnisses stattfindet, wird die Besoldung bei Mutterschaft bis Ende des Arbeitsverhältnisses ausgerichtet.
 
 <sup>7</sup> Die Angestellte, die einen Besoldungsanspruch bei Mutterschaft von 16 Wochen hat, kann eine Vorleistung der Besoldung bei Mutterschaft bis zu höchstens zwei Wochen verlangen.
-
-<sup>8</sup> Stirbt der Vater des Kindes oder die Ehefrau der Mutter innerhalb von sechs Monaten nach der Geburt des Kindes, so hat die Mutter Anspruch auf einen zusätzlichen Urlaub, der dem Urlaub des anderen Elternteils gemäss Artikel 25f der vorliegenden Verordnung entspricht.
 
 #### Art. 25a
 
@@ -395,19 +392,11 @@ verordnet:
 
 #### Art. 25f
 
-**Urlaub des anderen Elternteils**
+**Elternschaftsurlaub**
 
-<sup>1</sup> Gegen Vorweisung der Kopie der Geburtsurkunde oder der Elternschaftsurkunde wird ein Urlaub des anderen Elternteils von zehn Arbeitstagen gewährt, wobei der Urlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
+<sup>1</sup> Gegen Vorweisung der Kopie der Geburtsurkunde oder der Elternschaftsurkunde wird ein Elternschaftsurlaub von zehn Arbeitstagen gewährt, wobei der Urlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
 
 <sup>2</sup> Diese Tage können als Wochen oder als einzelne Tage bezogen werden, wobei die Organisation der Einheit so weit wie möglich zu berücksichtigen ist.
-
-<sup>2<sup>bis</sup></sup> Wenn die Mutter innerhalb von 14 Wochen nach der Geburt des Kindes stirbt, hat der Vater des Kindes oder die Ehefrau der Mutter Anspruch auf einen zusätzlichen Urlaub von 14 Wochen neben dem im vorliegenden Artikel vorgesehenen Urlaub.
-
-<sup>2<sup>ter</sup></sup> Dieser Urlaub muss ab dem Folgetag des Todes am Stück bezogen werden.
-
-<sup>2<sup>quater</sup></sup> Wenn das Kind nach der Geburt im Spital bleiben muss, gilt Artikel 25 Absatz 1<sup>bis</sup> der vorliegenden Verordnung sinngemäss.
-
-<sup>2<sup>quinquies</sup></sup> Die in Absatz 1 vorgesehene sechsmonatige Rahmenfrist steht während der Zeit still, in der der Urlaubsanspruch nach den Absätzen 2<sup>bis</sup> bis 2<sup>quater</sup> ausgeübt wird.
 
 <sup>3</sup> Die Entschädigung der Ausgleichskasse gehört dem Arbeitgeber, welcher weiterhin den vollen Lohn auszahlt.
 
@@ -668,7 +657,7 @@ verordnet:
 
 - a) eine Angestellte wegen Schwangerschaft bis zu zwei Monaten an der Arbeitsleistung verhindert ist;
 - b) eine Angestellte einen Mutterschaftsurlaub bezogen hat;
-- c) ein Angestellter einen Urlaub des anderen Elternteils bezogen hat;
+- c) ein Angestellter einen Elternschaftsurlaub bezogen hat;
 - c<sup>bis</sup>) ein Angestellter einen Adoptionsurlaub bezogen hat, oder
 - d) ein Angestellter einen Betreuungsurlaub nach Artikel 37b bezogen hat.
 
@@ -806,13 +795,13 @@ verordnet:
 
 <sup>1</sup> Der Staatsrat unterstützt die Gewährung von unbezahlten Urlauben.
 
-<sup>2</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, werden die Angestellten berechtigt, nach einem Mutterschafts-, Adoptions oder Urlaub des anderen Elternteils einen unbezahlten Urlaub (prorata temporis) zu beziehen. Für diese Arten von unbezahltem Urlaub übernimmt der Staat Wallis die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge) für die Dauer des unbezahlten Urlaubs, aber im Maximum während drei Monaten. Die sechsmonatige Frist in Artikel 25 Absatz 2 der vorliegenden Verordnung steht für die Dauer dieses unbezahlten Urlaubs still.
+<sup>2</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, werden die Angestellten berechtigt, nach einem Mutterschafts-, Adoptions- oder Elternschaftsurlaub einen unbezahlten Urlaub (pro rata temporis) zu beziehen. Für diese Arten von unbezahltem Urlaub übernimmt der Arbeitgeber die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge) für die Dauer des unbezahlten Urlaubs, aber im Maximum während drei Monaten. Bei einem Antrag für einen unbezahlten Urlaub nach einem Schwangerschaftsurlaub oder einer Adoption wird die Angestellte darauf aufmerksam gemacht, dass ihr Recht auf den Lohnanspruch während dem oben erwähnten Urlaub vermindert wird, sofern sie ihre Tätigkeit nicht innerhalb von sechs Monaten nach der Geburt oder Adoption wieder aufnimmt. Die Dauer dieser unbezahlten Urlaube wird im Einverständnis mit dem Dienstchef festgelegt.
 
 <sup>3</sup> Der Dienstchef kann einem Angestellten auf begründetes Gesuch hin und nach Einholung der Vormeinung der DPM unbezahlten Urlaub von maximal sechs Monaten gewähren (prorata temporis), sofern dadurch die Tätigkeit der Dienststelle nicht merklich beeinträchtigt wird. Länger dauernde unbezahlte Urlaube fallen in die Entscheidkompetenz des Departementsvorstehers.
 
-<sup>4</sup> Für den Antragsteller sind die Artikel 2 fortfolgende des Gesetzes betreffend die Besoldung der Angestellten des Staates Wallis während des unbezahlten Urlaubs nicht anwendbar. Nicht anwendbar sind ausserdem während dieses Zeitraums die Bestimmungen des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger.
+<sup>4</sup> Für den Antragssteller sind die Artikel 2 fortfolgende des Gesetzes betreffend die Besoldung der Angestellten des Staates Wallis während des unbezahlten Urlaubs nicht anwendbar. Nicht anwendbar sind ausserdem während diesem Zeitraum die Bestimmungen des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger.
 
-<sup>5</sup> Während seines unbezahlten Urlaubs muss der Angestellte alle notwendigen Schritte zur Deckung der Sozialversicherungen unternehmen (Unfallversicherung, evtl. berufliche Vorsorge, usw.).
+<sup>5</sup> Während seines unbezahlten Urlaubs muss der Angestellte alle notwendigen Schritte zur Deckung der Sozialversicherungen unternehmen (Unfallversicherung, ev. Berufsvorsorgeversicherung, usw.).
 
 #### Art. 41a
 
