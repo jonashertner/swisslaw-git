@@ -4,13 +4,12 @@ number: "170.3"
 title: "Loi sur les participations de l'Etat à des personnes morales et autres entités"
 short: LPartEt
 language: fr
-version: 2021-05-01
-valid_until: 2024-12-31
-version_adopted: 2019-11-14
+version: 2025-01-01
+version_adopted: 2024-05-16
 adopted: 2011-03-17
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/170.3"
-pdf: "https://lex.vs.ch/api/fr/versions/2890/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3388/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2890/pdf_file"
 
 (LPartEt)
 
-du 17.03.2011 (état 01.05.2021)
+du 17.03.2011 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -59,7 +58,7 @@ ordonne:[^ingress-1]
 
 **Définitions**
 
-<sup>1</sup> Le Conseil d'Etat arrête les participations importantes.
+<sup>1</sup> Le Conseil d'Etat dresse la liste des participations importantes et publie les rémunérations qui y sont liées.
 
 <sup>2</sup> Sont considérées comme participations importantes celles:
 
@@ -168,6 +167,8 @@ ordonne:[^ingress-1]
 <sup>2</sup> Lorsque les personnes morales concernées reçoivent des subventions importantes de l’Etat, les représentants de celui-ci doivent être indépendants de l’autorité ou de l’organe compétent pour l’attribution des subventions.
 
 <sup>3</sup> Le Conseil d'Etat, cas échéant en collaboration avec la personne morale concernée, peut établir une liste de critères complémentaires spécifiques à la fonction concernée.
+
+<sup>4</sup> Pour les participations importantes, le Conseil d'État définit un profil de compétences et un cahier des charges. Il met systématiquement les postes au concours, à l’exception de ceux dont l’occupation est fixée par une loi spéciale ainsi que lorsque le Conseil d'Etat décide de nommer l'un de ses membres comme représentant.
 
 #### Art. 11
 

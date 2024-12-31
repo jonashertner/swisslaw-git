@@ -4,13 +4,12 @@ number: "170.3"
 title: Gesetz über die Beteiligung des Staates an juristischen Personen und anderen Einrichtungen
 short: GBetSt
 language: de
-version: 2021-05-01
-valid_until: 2024-12-31
-version_adopted: 2019-11-14
+version: 2025-01-01
+version_adopted: 2024-05-16
 adopted: 2011-03-17
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/170.3"
-pdf: "https://lex.vs.ch/api/de/versions/2890/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2890/pdf_file"
 
 (GBetSt)
 
-vom 17.03.2011 (Stand 01.05.2021)
+vom 17.03.2011 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -59,7 +58,7 @@ verordnet: [^ingress-1]
 
 **Definitionen**
 
-<sup>1</sup> Der Staatsrat legt die wichtigen Beteiligungen fest.
+<sup>1</sup> Der Staatsrat erstellt die Liste der wichtigen Beteiligungen und veröffentlicht die damit verbundenen Entschädigungen.
 
 <sup>2</sup> Als wichtige Beteiligungen gelten jene:
 
@@ -168,6 +167,8 @@ verordnet: [^ingress-1]
 <sup>2</sup> Werden die betroffenen juristischen Personen vom Staat bedeutend subventioniert, müssen dessen Vertreter von der oder dem für die Subventionsgewährung zuständigen Behörde oder Organ unabhängig sein.
 
 <sup>3</sup> Der Staatsrat kann, gegebenenfalls in Zusammenarbeit mit der betroffenen juristischen Person, eine Liste mit zusätzlichen spezifischen Kriterien für die betreffende Funktion erstellen.
+
+<sup>4</sup> Für wichtige Beteiligungen legt der Staatsrat ein Kompetenzprofil und ein Pflichtenheft fest. Die Posten werden systematisch ausgeschrieben mit Ausnahme jener, deren Besetzung durch ein Spezialgesetz geregelt ist oder bei denen der Staatsrat entscheidet, sich durch eines seiner Mitglieder vertreten zu lassen.
 
 #### Art. 11
 
