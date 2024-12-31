@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 26. Mai 2016 über Fernmeldeanlagen (VFAV)
 short: VFAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: de
-version: 2024-08-15
+version: 2025-01-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20240815-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240815/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240815/de"
 
 (VFAV)
 
-vom 26. Mai 2016 (Stand am 15. August 2024)
+vom 26. Mai 2016 (Stand am 1. Januar 2025)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -253,8 +253,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), Ziff. I der V des BAKOM vom 11. Nov. 2021 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), Ziff. II Abs. 2 der V des BAKOM vom 21. Juli 2022 ([AS 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)), Ziff. I der V des BAKOM vom 8. Nov. 2022 ([AS 2022 670](https://fedlex.data.admin.ch/eli/oc/2022/670)) und vom 6. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 665](https://fedlex.data.admin.ch/eli/oc/2023/665)).
-[^annex2-lvlu1-1]: Die anwendbaren Vorschriften für Schnittstellen können beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen werden und sind im Internet unter folgender Adresse abrufbar: [www.bakom.ch](https://www.bakom.admin.ch/bakom/de/home/frequenzen-antennen/nationaler-frequenzzuweisungsplan/schnittstellen-anforderungen.html) &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Technische Schnittstellenanforderungen (RIR).
+[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), Ziff. I der V des BAKOM vom 11. Nov. 2021 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), Ziff. II Abs. 2 der V des BAKOM vom 21. Juli 2022 ([AS 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)), Ziff. I der V des BAKOM vom 8. Nov. 2022 ([AS 2022 670](https://fedlex.data.admin.ch/eli/oc/2022/670)), vom 6. Nov. 2023 ([AS 2023 665](https://fedlex.data.admin.ch/eli/oc/2023/665)) und vom 12. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 694](https://fedlex.data.admin.ch/eli/oc/2024/694)).
+[^annex2-lvlu1-1]: Die anwendbaren Vorschriften für Schnittstellen können beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, kostenlos bezogen werden und sind im Internet abrufbar unter: www.bakom.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Technische Schnittstellenanforderungen (RIR).
 
 <table>
 <tr><th>Nr.</th><th>Titel der technischen Anforderung</th><th>Ausgabe</th></tr>
@@ -267,7 +267,7 @@ Anhang 2[^t-2]
 <tr><td>RIR0203</td><td>Funkanwendungen für Programmerstellung und bei Veranstaltungen (PMSE)</td><td>23</td></tr>
 <tr><td>RIR0301</td><td>Punkt-zu-Multipunkt-Richtfunkanlagen</td><td>12</td></tr>
 <tr><td>RIR0302</td><td>Punkt-zu-Punkt-Richtfunkanlagen</td><td>31</td></tr>
-<tr><td>RIR0501</td><td>Digitale zellulare Telefonie</td><td>19</td></tr>
+<tr><td>RIR0501</td><td>Digitale zellulare Telefonie</td><td>20</td></tr>
 <tr><td>RIR0503</td><td>Drahtlose Telefone</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Funkanlagen für Notfalldienste</td><td>11</td></tr>
 <tr><td>RIR0506</td><td>Personensuchanlagen (Pager)</td><td>9</td></tr>
@@ -279,25 +279,25 @@ Anhang 2[^t-2]
 <tr><td>RIR0702</td><td>Wettersonden</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Wetterradar</td><td>8</td></tr>
 <tr><td>RIR0705</td><td>Wind-Profiler</td><td>6</td></tr>
-<tr><td>RIR0805</td><td>Speiseverbindungen (Feeder Links)</td><td>1</td></tr>
+<tr><td>RIR0805</td><td>Speiseverbindungen (Feeder links)</td><td>2</td></tr>
 <tr><td>RIR0806</td><td>Terrestrische stationäre Satellitenfunkanlagen (FSS)</td><td>18</td></tr>
 <tr><td>RIR0808</td><td>Terrestrische bewegliche Satellitenfunkanlagen (MSS)</td><td>19</td></tr>
 <tr><td>RIR0809</td><td>Satellitennavigationssysteme (RNSS)</td><td>4</td></tr>
 <tr><td>RIR1001</td><td>Alarmanlagen</td><td>12</td></tr>
-<tr><td>RIR1002</td><td>Eisenbahnanwendungen</td><td>11</td></tr>
-<tr><td>RIR1003</td><td>Suchen, Verfolgen und Erfassen von Daten</td><td>17</td></tr>
-<tr><td>RIR1004</td><td>Funkortung</td><td>17</td></tr>
+<tr><td>RIR1002</td><td>Eisenbahnanwendungen</td><td>12</td></tr>
+<tr><td>RIR1003</td><td>Suchen, Verfolgen und Erfassen von Daten</td><td>18</td></tr>
+<tr><td>RIR1004</td><td>Funkortung</td><td>18</td></tr>
 <tr><td>RIR1005</td><td>Induktive Anwendungen</td><td>13</td></tr>
 <tr><td>RIR1006</td><td>Drahtlose Anwendungen im Gesundheitswesen</td><td>19</td></tr>
 <tr><td>RIR1007</td><td>Modell-Fernsteuerungen</td><td>9</td></tr>
-<tr><td>RIR1008</td><td>Allgemeiner Kurzstreckenfunk</td><td>22</td></tr>
+<tr><td>RIR1008</td><td>Allgemeiner Kurzstreckenfunk</td><td>23</td></tr>
 <tr><td>RIR1009</td><td>Drahtlose Mikrofonanlagen</td><td>26</td></tr>
 <tr><td>RIR1010</td><td>Breitband-Datenübertragungssysteme</td><td>19</td></tr>
 <tr><td>RIR1011</td><td>Hochfrequenz-Identifikationsanlagen (RFID)</td><td>12</td></tr>
 <tr><td>RIR1012</td><td>Transport- und Verkehrstelematik (TTT)</td><td>16</td></tr>
 <tr><td>RIR1013</td><td>Drahtlose Audioanlagen</td><td>17</td></tr>
 <tr><td>RIR1021</td><td>Fernsteuern, Fernmessen und Datenübertragung mit höheren Leistungen</td><td>12</td></tr>
-<tr><td>RIR1023</td><td>Ultra-Breitband-Anwendungen (UWB)</td><td>11</td></tr>
+<tr><td>RIR1023</td><td>Ultra-Breitband-Anwendungen (UWB)</td><td>12</td></tr>
 <tr><td>RIR1101</td><td>Amateurfunkanlagen</td><td>14</td></tr>
 <tr><td>RIR1102</td><td>CB-Funkanlagen</td><td>9</td></tr>
 <tr><td>RIR1108</td><td>Funkortung (zivil)</td><td>9</td></tr>
@@ -322,12 +322,12 @@ Anhang 4[^t-3]
 
 ## Zulassungsverfahren für Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden
 
-[^t-3]: Bereinigt gemäss Ziff. I der V des BAKOM vom 11. Nov. 2021 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)) und Ziff. II Abs. 1 der V des BAKOM vom 23. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
+[^t-3]: Bereinigt gemäss Ziff. I der V des BAKOM vom 11. Nov. 2021 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), Ziff. II Abs. 1 der V des BAKOM vom 23. Nov. 2023 ([AS 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)) und Ziff. I der V des BAKOM vom 12. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 694](https://fedlex.data.admin.ch/eli/oc/2024/694)).
 
 ### 1 Zulassungsgesuch
 
 - 1\.1 Wer eine Zulassung für eine Funkanlage erhalten will, die dazu bestimmt ist, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden, muss dem BAKOM ein Gesuch mit dem entsprechenden Formular[^annex4-lvlu1-lvl1-1] und den erforderlichen Unterlagen und Informationen einreichen.
-- 1\.2 Die Prüfberichte (Art. 14 Abs. 4 Bst. h FAV) betreffend die Anforderungen an die elektromagnetische Verträglichkeit und die Nutzung des Frequenzspektrums (Art. 26 Abs. 3 FAV) müssen von einer anerkannten Prüfstelle nach Artikel 17 FAV ausgestellt werden.
+- 1\.2 Die Prüfberichte (Art. 14 Abs. 4 Bst. h FAV) betreffend die Anforderungen an die elektromagnetische Verträglichkeit und die Nutzung des Frequenzspektrums (Art. 26 Abs. 3 FAV) müssen von einer anerkannten Prüfstelle nach Artikel 17 FAV ausgestellt werden. Sie können auch vom Hersteller erstellt werden, wenn dieser über das nötige Wissen und die notwendigen Messmittel verfügt.
 - 1\.3 Gesuchstellerinnen und Gesuchsteller, die sich auf den Prüfbericht oder die Zulassung von Dritten stützen, müssen nachweisen, dass die Funkanlage mit der ursprünglich geprüften oder zugelassenen Funkanlage in allen Punkten übereinstimmt.
 
 [^annex4-lvlu1-lvl1-1]: Das Formular kann beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel bezogen werden.
@@ -384,15 +384,15 @@ Anhang 5[^t-4]
 
 [^annex5-lvlu1-1]
 
-[^t-4]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 11. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)).
-[^annex5-lvlu1-1]: Die technischen und administrativen Vorschriften können kostenlos bezogen werden beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, und sind im Internet unter folgender Adresse abrufbar: www.bakom.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Andere Anforderungen.
+[^t-4]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 12. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 694](https://fedlex.data.admin.ch/eli/oc/2024/694)).
+[^annex5-lvlu1-1]: Die technischen und administrativen Vorschriften können beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, kostenlos bezogen werden und sind im Internet abrufbar unter: www.bakom.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Andere Anforderungen.
 
 <table>
 <tr><th>Nr.</th><th>Titel der technischen Anforderung</th><th>Ausgabe</th></tr>
 <tr><td>TAV 5.1 (Art. 6)</td><td>Technische und administrative Vorschriften betreffend die leitungsgebundenen Fernmeldeanlagen mit Powerline-Communication-Technologie (PLC)</td><td>5</td></tr>
-<tr><td>TAV 5.2 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Fest installierte störende Anlagen</td><td>4</td></tr>
-<tr><td>TAV 5.3 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Mobile störende Anlagen</td><td>4</td></tr>
-<tr><td>TAV 5.4 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Ortungs- und Überwachungssysteme sowie Daten- und Sprechfunkanlagen</td><td>3</td></tr>
+<tr><td>TAV 5.2 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Fest installierte störende Anlagen</td><td>5</td></tr>
+<tr><td>TAV 5.3 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Mobile störende Anlagen</td><td>5</td></tr>
+<tr><td>TAV 5.4 (Art. 4 Abs. 2)</td><td>Technische und administrative Vorschriften betreffend die Funkanlagen, die dazu bestimmt sind, zur Wahrung der öffentlichen Sicherheit von Behörden betrieben zu werden: Ortungs- und Überwachungssysteme sowie Daten- und Sprechfunkanlagen</td><td>4</td></tr>
 </table>
 
 Anhang 6[^t-5]
@@ -407,7 +407,7 @@ Anhang 6[^t-5]
 
 <sup>2</sup> Es enthält das folgende Symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/de/xml/image/image1.png)
 
 <sup>3</sup> Für eine Funkanlage, die das schweizerische Konformitätskennzeichen gemäss Anhang 1 Ziffer 1 FAV trägt, enthält es neben oder unter dem Symbol gemäss Absatz 2 die Abkürzung der Schweiz (CH).
 
@@ -425,13 +425,13 @@ Anhang 6[^t-5]
 <sup>7</sup> Beispiel mit informativem Charakter:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/de/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Durchführungsverordnung (EU) 2017/1354 der Kommission vom 20. Juli 2017 zur Festlegung der Aufmachung von Informationen gemäss Artikel 10 Absatz 10 der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 190 vom 21.7.2017, S. 7.
@@ -442,7 +442,7 @@ Anhang 7[^t-6]
 
 ## Mit einem einheitlichen Ladenetzteil kompatible Funkanlagen
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V des BAKOM vom 23. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)).
+[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V des BAKOM vom 23. Nov. 2023 ([AS 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)). Bereinigt gemäss Ziff. I der V des BAKOM vom 12. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 694](https://fedlex.data.admin.ch/eli/oc/2024/694)).
 
 ### 1 Funkanlagen nach Artikel 7 Absatz 2<sup>bis</sup> FAV
 
@@ -467,8 +467,8 @@ Anhang 7[^t-6]
 
 <table>
 <tr><th>Ziff.</th><th>Kategorie</th><th>Anwendbare technische Spezifikationen</th></tr>
-<tr><td>1.</td><td>Funkanlagen, die mit Kabel aufladbar sind:</td><td>Die Funkanlagen müssen: – mit dem USB-Typ-C-Anschluss entsprechend der Norm EN IEC 62680-1-2: 2021, Schnittstellen des Universellen Seriellen Busses für Daten und Energie – Teile 1–3: Gemeinsame Bauteile – Festlegung für USB-Typ-C®-Kabel und -Steckverbinder ausgestattet sein und dieser Anschluss muss jederzeit zugänglich und betriebsbereit sein; – mit Kabel aufladbar sein, die der Norm EN IEC 62680-1-3: 2021, Schnittstellen des Universellen Seriellen Busses für Daten und Energie – Teile 1–3: Gemeinsame Bauteile – Festlegung für USB-Typ-C®-Kabel und -Steckverbinder entsprechen.</td></tr>
-<tr><td>2.</td><td>Funkanlagen, die mit Kabel mit einer Spannung von mehr als 5 Volt, einer Stromstärke von mehr als 3 Ampere oder einer Leistung von mehr als 15 Watt aufladbar sind:</td><td>Die Funkanlagen müssen: – mit dem Ladeprotokoll USB Power Delivery entsprechend der Norm EN IEC 62680 1 2: 2021, Schnittstellen des Universellen Seriellen Busses für Daten und Energie – Teile 1–2: Gemeinsame Komponenten – Festlegung für die USB-Stromversorgung, ausgestattet sein; – so konzipiert sein, dass bei Ausstattung mit einem zusätzlichen Ladeprotokoll unabhängig vom verwendeten Ladenetzteil die volle Funktionalität des Ladeprotokolls USB Power Delivery sichergestellt ist.</td></tr>
+<tr><td>1.</td><td>Funkanlagen, die mit Kabel aufladbar sind:</td><td>Die Funkanlagen müssen: – mit dem USB-Typ-C-Anschluss entsprechend der Norm EN IEC 62680-1-3: 2022, Schnittstellen des Universellen Seriellen Busses für Daten und Energie – Teile 1–3: Gemeinsame Bauteile – Festlegung für USB-Typ-C®-Kabel und -Steckverbinder ausgestattet sein und dieser Anschluss muss jederzeit zugänglich und betriebsbereit sein; – mit Kabel aufladbar sein, die der Norm EN IEC 62680-1-3: 2022, Schnittstellen des Universellen Seriellen Busses für Daten und Energie – Teile 1–3: Gemeinsame Bauteile – Festlegung für USB-Typ-C®-Kabel und -Steckverbinder entsprechen.</td></tr>
+<tr><td>2.</td><td>Funkanlagen, die mit Kabel mit einer Spannung von mehr als 5 Volt, einer Stromstärke von mehr als 3 Ampere oder einer Leistung von mehr als 15 Watt aufladbar sind:</td><td>Die Funkanlagen müssen: – mit dem Ladeprotokoll USB Power Delivery entsprechend der Norm EN IEC 62680-1-2: 2022, Schnittstellen des Universellen Seriellen Busses für Daten und Energie – Teile 1–2: Gemeinsame Komponenten – Festlegung für die USB-Stromversorgung, ausgestattet sein; – so konzipiert sein, dass bei Ausstattung mit einem zusätzlichen Ladeprotokoll unabhängig vom verwendeten Ladenetzteil die volle Funktionalität des Ladeprotokolls USB Power Delivery sichergestellt ist.</td></tr>
 </table>
 
 ### 3 Angaben zu den Ladefunktionen und zu den kompatiblen Ladenetzteilen nach Artikel 19 Absatz 2 Buchstabe d FAV
@@ -485,11 +485,11 @@ Anhang 7[^t-6]
 
 - a. für Funkanlagen, die in Kombination mit einem Ladenetzteil angeboten werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/de/xml/image/image2.png)
 
 - b. für Funkanlagen, die ohne Ladenetzteil angeboten werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/de/xml/image/image3.png)
 
 \2. Sofern das Piktogramm erkennbar und verständlich bleibt, sind z. B. in Bezug auf Farbe, ausgefüllte Darstellung, Umriss und Linienstärke Varianten zulässig. Wird das Piktogramm kleiner oder grösser dargestellt, müssen die Grössenverhältnisse der Darstellung unter Ziffer 1 gewahrt werden. Die Abmessung «a» muss auch bei Varianten mindestens 7 mm betragen.
 
@@ -497,7 +497,7 @@ Anhang 7[^t-6]
 
 \1. Das Etikett hat folgendes Format und enthält das folgende Symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/de/xml/image/image4.png)
 
 \2. Anstelle der Buchstaben XX ist der Zahlenwert der zum Aufladen der Funkanlage benötigten Mindestleistung anzugeben, die ein Ladenetzteil zum Laden der Funkanlage liefern muss. Anstelle der Buchstaben YY ist der Zahlenwert der von der Funkanlage zum Erreichen der maximalen Ladegeschwindigkeit benötigten Höchstleistung anzugeben, die ein Ladenetzeil mindestens liefern muss, damit diese maximale Ladegeschwindigkeit erreicht wird. Die Abkürzung USB PD (USB Power Delivery) ist anzugeben, wenn die Funkanlage dieses Schnellladeprotokoll unterstützt.
 
