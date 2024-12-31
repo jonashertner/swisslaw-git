@@ -3,20 +3,20 @@ canton: LU
 number: "261"
 title: Kantonsratsbeschluss über die Sitze der Gerichte und Schlichtungsbehörden und die Einteilung des Kantons in Gerichtsbezirke
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-22
+version: 2025-01-01
+valid_until: 2026-12-31
+version_adopted: 2024-06-17
 adopted: 2010-05-10
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/261"
-pdf: "https://srl.lu.ch/api/de/versions/3648/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4329/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Sitze der Gerichte und Schlichtungsbehörden und die Einteilung des Kantons in Gerichtsbezirke
 
-vom 10.05.2010 (Stand 01.01.2021)
+vom 10.05.2010 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -63,7 +63,7 @@ beschliesst:
 
 <sup>1</sup> Das Bezirksgericht Hochdorf hat seinen Sitz in Hochdorf.
 
-<sup>2</sup> Der Gerichtsbezirk Hochdorf umfasst die Gemeinden Aesch, Ballwil, Buchrain, Dierikon, Ebikon, Emmen, Ermensee, Eschenbach, Gisikon, Hitzkirch, Hochdorf, Hohenrain, Honau, Inwil, Rain, Römerswil, Rothenburg, Root und Schongau.
+<sup>2</sup> Der Gerichtsbezirk Hochdorf umfasst die Gemeinden Aesch, Ballwil, Buchrain, Dierikon, Ebikon, Emmen, Ermensee, Eschenbach, Gisikon, Hitzkirch, Hochdorf, Hohenrain, Inwil, Rain, Römerswil, Rothenburg, Root und Schongau.
 
 #### § 5
 
