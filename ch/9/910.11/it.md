@@ -3,11 +3,11 @@ sr: "910.11"
 title: "Ordinanza del 16 giugno 2006 concernente le tasse dell'Ufficio federale dell'agricoltura (Ordinanza sulle tasse UFAG)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2006-415-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2006-415-20250101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20240101/it"
 
 (Ordinanza sulle tasse UFAG)
 
-del 16 giugno 2006 (Stato 1° gennaio 2024)
+del 16 giugno 2006 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -24,9 +24,9 @@ visto l’articolo 46*a* della legge federale del 21 marzo 1997[^ingress-1] sull
 
 ordina:
 
-[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-3]: Nuovo testo giusta il n. I 2 dell’O del 1° mag. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-3]: Nuovo testo giusta la cifra I n. 2 dell’O del 1° mag. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
 
 #### Art. 1
 
@@ -36,9 +36,9 @@ ordina:
 
 <sup>2</sup> Essa disciplina altresì la riscossione di tasse da parte di organi d’esecuzione, a cui l’UFAG ha affidato compiti d’esecuzione.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
-[^1-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^1-3]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
+[^1-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^1-3]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
 
 #### Art. 2
 
@@ -48,14 +48,14 @@ ordina:
 
 <sup>2</sup> Per la riscossione di emolumenti da parte di organi d’esecuzione, a cui l’UFAG ha affidato compiti d’esecuzione, si applicano per analogia gli articoli 2 capoverso 2 e 6–14 dell’ordinanza generale dell’8 settembre 2004 sugli emolumenti.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
-[^2-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
+[^2-2]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
 [^3-1]
 
-[^3-1]: Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
+[^3-1]: Abrogato dalla cifra I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
 
 #### Art. 3a
 
@@ -67,7 +67,7 @@ Non sono riscosse tasse per:
 - b. le decisioni concernenti aiuti finanziari e indennità;
 - c.[^3a-2] l’uso di servizi elettronici dell’UFAG da parte di terzi che agiscono unicamente nell’ambito di un mandato di diritto pubblico o che sostengono l’attuazione del diritto europeo.
 
-[^3a-1]: Introdotto dal n. I dell’O del 12 mag. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
+[^3a-1]: Introdotto dalla cifra I dell’O del 12 mag. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
 [^3a-2]: Introdotta dall’all. dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)).
 
 #### Art. 4
@@ -84,10 +84,10 @@ Non sono riscosse tasse per:
 
 <sup>4</sup> Qualora per l’emanazione di una misura amministrativa di cui agli articoli 169–171*a* della legge del 29 aprile 1998 sull’agricoltura sia necessaria un’ispezione aziendale, per ogni ispezione è riscosso un importo forfettario di 200 franchi per costi di viaggio e trasporto.[^4-4]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
-[^4-2]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^4-3]: Introdotto dal n. I 2 dell’O del 1° mag. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
-[^4-4]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
+[^4-2]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^4-3]: Introdotto dalla cifra I n. 2 dell’O del 1° mag. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
+[^4-4]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
 
 #### Art. 5
 
@@ -101,7 +101,7 @@ Per prestazioni e decisioni che su richiesta sono rese d’urgenza o al di fuori
 
 Le tasse di cui all’allegato 2 vanno versate anticipatamente.
 
-[^5a-1]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
 
 #### Art. 6
 
@@ -109,7 +109,7 @@ Le tasse di cui all’allegato 2 vanno versate anticipatamente.
 
 L’ordinanza del 18 ottobre 2000[^6-1] concernente le tasse dell’Ufficio federale dell’agricoltura è abrogata.
 
-[^6-1]: [[RU 2000 2698](https://fedlex.data.admin.ch/eli/oc/2000/446), [2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)art. 51 n. 5, [2003 152](https://fedlex.data.admin.ch/eli/oc/2003/17)n. II [5319](https://fedlex.data.admin.ch/eli/oc/2003/776), [2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)art. 69 n. 1]
+[^6-1]: [[RU 2000 2698](https://fedlex.data.admin.ch/eli/oc/2000/446), [2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)art. 51 n. 5, [2003 152](https://fedlex.data.admin.ch/eli/oc/2003/17)cifra II n. 5319, [2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)art. 69 n. 1]
 
 #### Art. 7
 
@@ -123,10 +123,10 @@ Allegato 1[^t-1]
 
 ## Tasse per prestazioni e decisioni
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 28 ott. 2015 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Aggiornato dall’all. dell’O del 31 ott. 2018 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), dal n. I 2 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), dall’all. dell’O dell’11 nov. 2021 ([RU 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), dal n. II dell’O del 3 nov. 2021 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)), dall’all. n. 3 dell’O del 17 nov. 2021 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)), dal n. I dell’O del 1° nov. 2023 ([RU 2023 696](https://fedlex.data.admin.ch/eli/oc/2023/696)) e dall’all. 5 n. II 4 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 28 ott. 2015 ([RU 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Aggiornato dall’all. dell’O del 31 ott. 2018 ([RU 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), dalla cifra I n. 2 dell’O del 1° mag. 2019 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), dall’all. dell’O dell’11 nov. 2021 ([RU 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), dalla cifra II dell’O del 3 nov. 2021 ([RU 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)), dall’all. n. 3 dell’O del 17 nov. 2021 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)), dalla cifra I dell’O del 1° nov. 2023 ([RU 2023 696](https://fedlex.data.admin.ch/eli/oc/2023/696)), dall’all. 5 cifra II n. 4 dell’O del 1° nov. 2023 sui concimi, in vigore dal 1° gen. 2024 ([RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)) e dalla cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 646](https://fedlex.data.admin.ch/eli/oc/2024/646)).
 
 <table>
-<tr><th></th><th colspan="2"></th><th colspan="2">Franchi</th></tr>
+<tr><th></th><th colspan="2"></th><th colspan="2">Franchi/ spese effettive</th></tr>
 <tr><td>1</td><td colspan="2">Ordinanza del 22 settembre 1997[^annex1-lvlu1-1] sull’agricoltura biologica</td><td colspan="2"></td></tr>
 <tr><td>1.1</td><td colspan="2">Esame dell’ammissibilità della conversione per tappe (art. 9)</td><td colspan="2">200</td></tr>
 <tr><td>1.2</td><td colspan="2">Esame di una domanda di utilizzazione temporanea di ingredienti di origine agricola non autorizzati dal Dipartimento (art. 16*k* cpv. 3)</td><td colspan="2">250</td></tr>
@@ -135,14 +135,10 @@ Allegato 1[^t-1]
 <tr><td>2.1</td><td colspan="2">Decisione di non entrata nel merito su una domanda di modifica dei limiti delle zone (art. 6)</td><td colspan="2">300</td></tr>
 <tr><td>2.2</td><td colspan="2">Decisione sostanziale in merito a una domanda di modifica dei limiti delle zone (art. 6)</td><td colspan="2">600</td></tr>
 <tr><td>2.3</td><td colspan="2">Decisione sostanziale in merito a una domanda di modifica dei limiti delle zone (art. 6); più richiedenti</td><td colspan="2">1200</td></tr>
-<tr><td>3</td><td colspan="2">Ordinanza dell’UFAG del 7 dicembre 1998[^annex1-lvlu1-3] concernente il controllo dei mosti d’uva, dei succhi d’uva e dei vini destinati all’esportazione</td><td colspan="2"></td></tr>
-<tr><td>3.1</td><td colspan="2">Analisi standard per il controllo della qualità del mosto d’uva e del succo d’uva (art. 2 cpv. 1 lett. a)</td><td colspan="2">180</td></tr>
-<tr><td>3.2</td><td colspan="2">Analisi standard per il controllo della qualità del vino e del mosto d’uva parzialmente fermentato (art. 2 cpv. 1 lett. b)</td><td colspan="2">250</td></tr>
-<tr><td>3.3</td><td colspan="2">Analisi supplementari (art. 2 cpv. 2):</td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="2">a. acido sorbico e natamicina (HPLC-MS)</td><td colspan="2">150</td></tr>
-<tr><td></td><td colspan="2">b. cenere totale (gravimetria)</td><td colspan="2">80</td></tr>
-<tr><td></td><td colspan="2">c. ferro e rame (fotometria)</td><td colspan="2">50</td></tr>
-<tr><td></td><td colspan="2">d. lieviti e batteri lattici (analisi microbiologica)</td><td colspan="2">80</td></tr>
+<tr><td>3</td><td colspan="2">Ordinanza dell’UFAG del 1° febbraio 2019[^annex1-lvlu1-3] concernente il controllo dei mosti d’uva, dei succhi d’uva e dei vini destinati all’esportazione</td><td colspan="2"></td></tr>
+<tr><td>3.1</td><td colspan="2">Analisi standard per il controllo della qualità del mosto d’uva e del succo d’uva (art. 2 cpv. 1 lett. a)</td><td colspan="2">spese effettive</td></tr>
+<tr><td>3.2</td><td colspan="2">Analisi standard per il controllo della qualità del vino e del mosto d’uva parzialmente fermentato (art. 2 cpv. 1 lett. b)</td><td colspan="2">spese effettive</td></tr>
+<tr><td>3.3</td><td colspan="2">Analisi supplementari (art. 2 cpv. 2)</td><td colspan="2">spese effettive</td></tr>
 <tr><td></td><td colspan="2">e. metanolo (GC)</td><td colspan="2">80</td></tr>
 <tr><td></td><td colspan="2">f. cloruri e solfati (fotometria)</td><td colspan="2">50</td></tr>
 <tr><td>4</td><td colspan="2">Ordinanza del 7 dicembre 1998[^annex1-lvlu1-4] sul materiale di moltiplicazione</td><td colspan="2"></td></tr>
@@ -188,15 +184,15 @@ Allegato 1[^t-1]
 <tr><td></td><td colspan="2">c. importo forfettario annuo a copertura dei costi di elaborazione periodica dei dati, a seconda del numero di persone che hanno dato il loro consenso all’accessibilità ai dati</td><td colspan="2">600–3200</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
-[^annex1-lvlu1-2]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
-[^annex1-lvlu1-3]: [[RU 1999 609](https://fedlex.data.admin.ch/eli/oc/1999/89), [2002 1381](https://fedlex.data.admin.ch/eli/oc/2002/213). RU **2019** 699 art. 6]. Vedi ora l’O del 1° feb. 2019 ([RS 916.145.211](https://fedlex.data.admin.ch/eli/cc/2019/115)).
-[^annex1-lvlu1-4]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^annex1-lvlu1-5]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
-[^annex1-lvlu1-6]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annex1-lvlu1-7]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex1-lvlu1-8]: [RS 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
-[^annex1-lvlu1-9]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-1]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^annex1-lvlu1-2]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
+[^annex1-lvlu1-3]: [RS 916.145.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10619)
+[^annex1-lvlu1-4]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^annex1-lvlu1-5]: [RS 916.151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10636)
+[^annex1-lvlu1-6]: [RS 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^annex1-lvlu1-7]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex1-lvlu1-8]: [RS 916.307.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10675)
+[^annex1-lvlu1-9]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 Allegato 2[^t-2]
 
@@ -204,7 +200,7 @@ Allegato 2[^t-2]
 
 ## Tasse per l’acquisizione di dati sul latte e valutazioni:
 
-[^t-2]: Introdotto dal n. II cpv. 1 dell’O del 12 mag. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Aggiornato dal n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)).
+[^t-2]: Introdotto dalla cifra II cpv. 1 dell’O del 12 mag. 2010 ([RU 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)). Aggiornato dalla cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5853](https://fedlex.data.admin.ch/eli/oc/2010/834)).
 
 <table>
 <tr><th></th><th></th><th>Franchi incl. IVA</th></tr>
@@ -226,7 +222,7 @@ Allegato 2[^t-2]
 <tr><td></td><td>– Acquisizione di singole valutazioni standard per le quali la persona interessata non ha sottoscritto un abbonamento.</td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 919.117.72](https://fedlex.data.admin.ch/eli/cc/2002/703)
+[^annex2-lvlu1-1]: [RS 919.117.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10954)
 
 Allegato 3[^t-3]
 
@@ -236,8 +232,8 @@ Allegato 3[^t-3]
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Introdotto dal n. I 2 dell’O del 1° mag. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
-[^annex3-lvlu1-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^t-3]: Introdotto dalla cifra I n. 2 dell’O del 1° mag. 2019, in vigore dal 1° gen. 2020 ([RU 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
+[^annex3-lvlu1-1]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 <table>
 <tr><th></th><th></th><th>Franchi/tempo richiesto/ spese effettive</th></tr>

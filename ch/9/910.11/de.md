@@ -4,11 +4,11 @@ title: Verordnung vom 16. Juni 2006 über Gebühren des Bundesamtes für Landwir
 short: GebV-BLW
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/415"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2006-06-16
 in_force: 2006-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-415-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/415/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2006-415-20250101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/415/20240101/de"
 
 (GebV-BLW)
 
-vom 16. Juni 2006 (Stand am 1. Januar 2024)
+vom 16. Juni 2006 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes
 
 verordnet:
 
-[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^ingress-3]: Fassung gemäss Ziff. I 2 der V vom 1. Mai 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
 
 #### Art. 1
@@ -38,7 +38,7 @@ verordnet:
 <sup>2</sup> Sie regelt zudem die Erhebung von Gebühren durch Vollzugsorgane, denen vom BLW Vollzugsaufgaben übertragen wurden.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
-[^1-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^1-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^1-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)).
 
 #### Art. 2
@@ -50,7 +50,7 @@ verordnet:
 <sup>2</sup> Für die Gebührenerhebung durch Vollzugsorgane, denen vom BLW Vollzugsaufgaben übertragen wurden, gelten die Artikel 2 Absatz 2 sowie 6–14 der Allgemeinen Gebührenverordnung vom 8. September 2004 sinngemäss.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
-[^2-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^2-2]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 3
 
@@ -86,7 +86,7 @@ Keine Gebühren werden erhoben für:
 <sup>4</sup> Ist für den Erlass einer Verwaltungsmassnahme nach den Artikeln 169–171*a* des Landwirtschaftsgesetzes vom 29. April 1998 eine Betriebsinspektion erforderlich, so wird je Betriebsinspektion für Reise- und Transportkosten eine Pauschale von 200 Franken erhoben.[^4-4]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2315](https://fedlex.data.admin.ch/eli/oc/2010/334)).
-[^4-2]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^4-2]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^4-3]: Eingefügt durch Ziff. I 2 der V vom 1. Mai 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
 [^4-4]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)).
 
@@ -124,10 +124,10 @@ Anhang 1[^t-1]
 
 ## Gebühren für Dienstleistungen und Verfügungen
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Bereinigt gemäss Anhang der V vom 31. Okt. 2018 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), Ziff. I 2 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), Anhang der V vom 11. Nov. 2020 ([AS 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), Ziff. II der V vom 3. Nov. 2021 ([AS 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)), Anhang Ziff. 3 der V vom 17. Nov. 2021 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)), Ziff. I der V vom 1. Nov. 2023 ([AS 2023 696](https://fedlex.data.admin.ch/eli/oc/2023/696)) und Anhang 5 Ziff. 4 der Düngerverordnung vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4491](https://fedlex.data.admin.ch/eli/oc/2015/750)). Bereinigt gemäss Anhang der V vom 31. Okt. 2018 ([AS 2018 4279](https://fedlex.data.admin.ch/eli/oc/2018/684)), Ziff. I 2 der V vom 1. Mai 2019 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)), Anhang der V vom 11. Nov. 2020 ([AS 2020 5759](https://fedlex.data.admin.ch/eli/oc/2020/967)), Ziff. II der V vom 3. Nov. 2021 ([AS 2021 675](https://fedlex.data.admin.ch/eli/oc/2021/675)), Anhang Ziff. 3 der V vom 17. Nov. 2021 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)), Ziff. I der V vom 1. Nov. 2023 ([AS 2023 696](https://fedlex.data.admin.ch/eli/oc/2023/696)), Anhang 5 Ziff. 4 der Düngerverordnung vom 1. Nov. 2023 ([AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)) und Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 646](https://fedlex.data.admin.ch/eli/oc/2024/646)).
 
 <table>
-<tr><th></th><th colspan="2"></th><th>Franken</th></tr>
+<tr><th></th><th colspan="2"></th><th>Franken / effektive Kosten</th></tr>
 <tr><td>1</td><td colspan="2">Bio-Verordnung vom 22. September 1997[^annex1-lvlu1-1]</td><td></td></tr>
 <tr><td>1.1</td><td colspan="2">Prüfung der Zulassung der schrittweisen Umstellung (Art. 9)</td><td>200</td></tr>
 <tr><td>1.2</td><td colspan="2">Prüfung eines Gesuchs um befristete Verwendung von Zutaten landwirtschaftlichen Ursprungs, die nicht vom Departement zugelassen wurden (Art. 16*k* Abs. 3)</td><td>250</td></tr>
@@ -136,23 +136,17 @@ Anhang 1[^t-1]
 <tr><td>2.1</td><td colspan="2">Nichteintretensentscheid über Gesuch um Änderung der Zonengrenzen (Art. 6)</td><td>300</td></tr>
 <tr><td>2.2</td><td colspan="2">Materieller Entscheid über Gesuch um Änderung der Zonengrenzen (Art. 6); Einzelgesuch</td><td>600</td></tr>
 <tr><td>2.3</td><td colspan="2">Materieller Entscheid über Gesuch um Änderung der Zonengrenzen (Art. 6); mehrere Gesuchsteller</td><td>1200</td></tr>
-<tr><td>3</td><td colspan="2">Verordnung des BLW vom 7. Dezember 1998[^annex1-lvlu1-3] über die Kontrolle von Traubenmosten, Traubensäften und Weinen für die Ausfuhr</td><td></td></tr>
-<tr><td>3.1</td><td colspan="2">Grundanalyse für die Qualitätsprüfung für Traubenmost und Traubensaft (Art. 2 Abs. 1 Bst. a)</td><td>180</td></tr>
-<tr><td>3.2</td><td colspan="2">Grundanalyse für die Qualitätsprüfung für Wein und teilweise vergorenen Traubenmost (Art. 2 Abs. 1 Bst. b)</td><td>250</td></tr>
-<tr><td>3.3</td><td colspan="2">Zusätzliche Analysen (Art. 2 Abs. 2):</td><td></td></tr>
-<tr><td>[tab]</td><td colspan="2">a. Sorbinsäure und Natamycin (HPLC-MS)</td><td>150</td></tr>
-<tr><td>[tab]</td><td colspan="2">b. Asche gesamt (Gravimetrie)</td><td>80</td></tr>
-<tr><td>[tab]</td><td colspan="2">c. Eisen und Kupfer (Photometrie)</td><td>50</td></tr>
-<tr><td>[tab]</td><td colspan="2">d. Hefen und Milchsäurebakterien (mikrobiologische Bestimmung)</td><td>80</td></tr>
-<tr><td>[tab]</td><td colspan="2">e. Methanol (GC)</td><td>80</td></tr>
-<tr><td>[tab]</td><td colspan="2">f. Chlorid und Sulfat (Photometrie)</td><td>50</td></tr>
+<tr><td>3</td><td colspan="2">Verordnung des BLW vom 1. Februar 2019[^annex1-lvlu1-3] über die Kontrolle von Traubenmosten, Traubensäften und Weinen für die Ausfuhr</td><td></td></tr>
+<tr><td>3.1</td><td colspan="2">Grundanalyse für die Qualitätsprüfung für Traubenmost und Traubensaft (Art. 2 Abs. 1 Bst. a)</td><td>Effektive Kosten</td></tr>
+<tr><td>3.2</td><td colspan="2">Grundanalyse für die Qualitätsprüfung für Wein und teilweise vergorenen Traubenmost (Art. 2 Abs. 1 Bst. b)</td><td>Effektive Kosten</td></tr>
+<tr><td>3.3</td><td colspan="2">Zusätzliche Analysen (Art. 2 Abs. 2)</td><td>Effektive Kosten</td></tr>
 <tr><td>4</td><td colspan="2">Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^annex1-lvlu1-4]</td><td></td></tr>
 <tr><td>4.1</td><td colspan="2">Behandlung eines Gesuchs um Aufnahme in den nationalen Sortenkatalog bzw. in die Sortenliste (Art. 4 und 9)</td><td>150</td></tr>
 <tr><td>4.2</td><td colspan="2">Kontrolle von Saat- und Pflanzgut (Art. 22 Abs. 4):</td><td></td></tr>
 <tr><td>4.2.1</td><td colspan="2">Probenahme</td><td>50</td></tr>
 <tr><td>4.2.2</td><td colspan="2">Vollständige Analyse (Reinheit, Keimfähigkeit, Anzahl fremder Samen) von gereinigten Proben für die Saatgutzertifizierung von:</td><td></td></tr>
-<tr><td>[tab]</td><td colspan="2">a. Getreide, Mais und grosssamigen Körnerleguminosen</td><td>55</td></tr>
-<tr><td>[tab]</td><td colspan="2">b. anderen Arten</td><td>90</td></tr>
+<tr><td></td><td colspan="2">a. Getreide, Mais und grosssamigen Körnerleguminosen</td><td>55</td></tr>
+<tr><td></td><td colspan="2">b. anderen Arten</td><td>90</td></tr>
 <tr><td>5</td><td colspan="2">Saat- und Pflanzgut-Verordnung des WBF vom 7. Dezember 1998[^annex1-lvlu1-5]</td><td></td></tr>
 <tr><td>5.1</td><td colspan="2">Anbau- und Verwendungsprüfung (Art. 17); jährliche Gebühr für:</td><td></td></tr>
 <tr><td></td><td colspan="2">a. Kartoffeln:</td><td></td></tr>
@@ -189,15 +183,15 @@ Anhang 1[^t-1]
 <tr><td></td><td colspan="2">c. jährliche Pauschale zur Deckung der Kosten für die periodische Aufbereitung der Daten, abhängig von der Anzahl Personen, die ihr Einverständnis zum Datenabruf gegeben haben</td><td>600–3200</td></tr>
 </table>
 
-[^annex1-lvlu1-1]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
-[^annex1-lvlu1-2]: [SR 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
-[^annex1-lvlu1-3]: [[AS 1999 609](https://fedlex.data.admin.ch/eli/oc/1999/89); [2002 1381](https://fedlex.data.admin.ch/eli/oc/2002/213). [AS 2019 669](https://fedlex.data.admin.ch/eli/oc/2019/115)Art. 6] Siehe heute: die V des BLW vom 1. Februar 2019 ([SR 916.145.211](https://fedlex.data.admin.ch/eli/cc/2019/115)).
-[^annex1-lvlu1-4]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^annex1-lvlu1-5]: [SR 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
-[^annex1-lvlu1-6]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annex1-lvlu1-7]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^annex1-lvlu1-8]: [SR 916.307.1](https://fedlex.data.admin.ch/eli/cc/2011/802)
-[^annex1-lvlu1-9]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex1-lvlu1-1]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^annex1-lvlu1-2]: [SR 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
+[^annex1-lvlu1-3]: [SR 916.145.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10619)
+[^annex1-lvlu1-4]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+[^annex1-lvlu1-5]: [SR 916.151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10636)
+[^annex1-lvlu1-6]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^annex1-lvlu1-7]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
+[^annex1-lvlu1-8]: [SR 916.307.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10675)
+[^annex1-lvlu1-9]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 Anhang 2[^t-2]
 
@@ -227,7 +221,7 @@ Anhang 2[^t-2]
 <tr><td></td><td>– Bezug von einzelnen Standardauswertungen, für welche die interessierte Person kein Abonnement gelöst hat</td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 919.117.72](https://fedlex.data.admin.ch/eli/cc/2002/703)
+[^annex2-lvlu1-1]: [SR 919.117.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10954)
 
 Anhang 3[^t-3]
 
@@ -238,7 +232,7 @@ Anhang 3[^t-3]
 [^annex3-lvlu1-1]
 
 [^t-3]: Eingefügt durch Ziff. I 2 der V vom 1. Mai 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 1615](https://fedlex.data.admin.ch/eli/oc/2019/312)).
-[^annex3-lvlu1-1]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^annex3-lvlu1-1]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 <table>
 <tr><th></th><th></th><th>Franken/Zeitaufwand/ effektive Kosten</th></tr>
