@@ -4,13 +4,12 @@ number: "850"
 title: Gesetz über die Sozial- und die Jugendhilfe
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2023-04-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-04
+version: 2025-01-01
+version_adopted: 2024-04-11
 adopted: 2001-06-21
 in_force: 2002-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850"
-pdf: "https://bl.clex.ch/api/de/versions/3429/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3994/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3429/pdf_file"
 
 (Sozialhilfegesetz, SHG)
 
-Vom 21.06.2001 (Stand 01.04.2023)
+Vom 21.06.2001 (Stand 01.01.2025)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -288,13 +287,23 @@ Gefälligkeitszuwendungen von Dritten an unterstützte Personen bei der Teilnahm
 
 <sup>2</sup> Das unterstützende Gemeinwesen kann die Leistungen Dritter direkt bei diesen einfordern und mit der zurückzuerstattenden Unterstützung verrechnen.
 
+<sup>3</sup> Die Rückerstattungsforderung verjährt 10 Jahre nach Ende des Unterstützungszeitraums.
+
+<sup>4</sup> Die Verjährung wird unterbrochen und beginnt neu mit den in Art. 135 OR[^12-1] genannten Handlungen und jeder auf Feststellung oder Geltendmachung der Forderung gerichteten Amtshandlung, mit der die Forderung gegenüber dem Schuldner in geeigneter Weise geltend gemacht wird.
+
+[^12-1]: [SR 220](https://db.clex.ch/link/Bund/220/de)
+
 #### § 13
 
 **Rückerstattung aufgrund wirtschaftlicher Verhältnisse**
 
-<sup>1</sup> Die unterstützte Person ist verpflichtet, bezogene Unterstützungen zurückzuerstatten, wenn sich ihre wirtschaftlichen Verhältnisse so weit gebessert haben, dass eine Rückerstattung ganz oder teilweise zumutbar ist.
+<sup>1</sup> Die unterstützte Person ist verpflichtet, bezogene Unterstützungen zurückzuerstatten, wenn sie zu erheblichem Vermögen gelangt (Vermögensanfall).
 
 <sup>2</sup> Die Rückerstattung erstreckt sich auf die materielle Unterstützung, welche die unterstützte Person für sich und für die mit ihr gemeinsam unterstützten Personen erhalten hat.
+
+<sup>3</sup> Die Rückerstattungsforderung verjährt innert 1 Jahr seit Bekanntwerden des Vermögensanfalls, spätestens jedoch 10 Jahre nach Ende des Unterstützungszeitraums.
+
+<sup>4</sup> Der Regierungsrat legt Freibeträge bei einem Vermögensanfall fest und regelt weitere Einzelheiten.
 
 #### § 13a
 
@@ -316,9 +325,9 @@ Gefälligkeitszuwendungen von Dritten an unterstützte Personen bei der Teilnahm
 
 <sup>2</sup> Die Rückerstattungsschuld ist unverzinslich. Sie ist in dem Umfang vererblich, soweit sie die Erbschaft nicht überschuldet.
 
-<sup>3</sup> Die Rückerstattungsforderungen gemäss den §§ 12 und 13 verjähren nach 10 Jahren seit Ende des Unterstützungszeitraums.
+<sup>3</sup> …
 
-<sup>4</sup> Die durch ein Grundpfand gesicherte Rückerstattung unterliegt keiner Verjährung.
+<sup>4</sup> Die durch ein Grundpfand gesicherte Rückerstattung unterliegt weder der Verjährung noch der Verwirkung.
 
 #### § 14a
 
@@ -616,13 +625,13 @@ Gefälligkeitszuwendungen von Dritten an unterstützte Personen bei der Teilnahm
 
 **Im Bereich der Rückerstattung**
 
-<sup>1</sup> Die Gemeinde, die den Beschluss über die materielle Hilfe gefasst hat, klärt periodisch die Voraussetzungen der Rückerstattung ab und vollzieht bei Vorliegen der Voraussetzungen die Rückerstattung.
+<sup>1</sup> Die Gemeinde, die den Beschluss über die materielle Hilfe gefasst hat, vollzieht die Bestimmungen über die Rückerstattung.
 
-<sup>2</sup> Die Gemeinden streben die Zusammenarbeit an.
+<sup>2</sup> …
 
-<sup>3</sup> Der Kanton übernimmt auf Gesuch einer Gemeinde die Prüfung und Geltendmachung von Rückerstattungsforderungen gemäss § 13.
+<sup>3</sup> …
 
-<sup>4</sup> Die Gemeinde entschädigt den Kanton für den Aufwand. Der Regierungsrat legt die Ansätze fest.
+<sup>4</sup> …
 
 #### § 34
 
@@ -812,6 +821,12 @@ Gefälligkeitszuwendungen von Dritten an unterstützte Personen bei der Teilnahm
 <sup>1</sup> Zuschüsse gemäss § 6<sup>bis</sup> und Minderungen gemäss § 6<sup>ter</sup> werden per Inkrafttreten der Änderung vom 4. November 2021[^43a-1] auch auf laufende Unterstützungsfälle angewendet.
 
 [^43a-1]: Vom Regierungsrat am 25. Oktober 2022 mit RRB Nr. 2022-1556 gestaffelt in Kraft gesetzt per 1. Januar 2023, ausgenommen die §§ 6<sup>bis</sup>, 6<sup>ter</sup> und 7 SHG: Diese treten per 1. April 2023 in Kraft.
+
+#### § 43b
+
+**Übergangsbestimmung zur Änderung vom 11. April 2024**
+
+<sup>1</sup> Auf laufende Rückerstattungsfälle wird das neue Recht angewendet.
 
 #### § 44
 
