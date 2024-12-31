@@ -3,11 +3,11 @@ sr: "0.812.122.2"
 title: Convention internationale du 19 octobre 2005 contre le dopage dans le sport (avec annexes et appendices)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-95-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-95-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Paris le 19 octobre 2005 Approuvée par l’Assemblée fédérale le 13 juin 2008[^t-1] Instrument de ratification déposé par la Suisse le 23 octobre 2008 Entrée en vigueur pour la Suisse le 1<sup>er</sup> décembre 2008
 
-(État le 1<sup>er</sup> janvier 2024)
+(État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: [RO 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -76,7 +76,7 @@ La présente Convention a pour but, dans le cadre de la stratégie et du program
 
 Ces définitions s’entendent dans le contexte du Code mondial antidopage. En cas de conflit, toutefois, les dispositions de la Convention l’emportent.
 
-Aux fins de la présente Convention,
+Aux fins de la présente Convention:
 
 - 1\. Par «laboratoires antidopage agréés», on entend les laboratoires agréés par l’Agence mondiale antidopage.
 - 2\. Par «organisation antidopage», on entend une instance responsable de l’adoption des règles à suivre pour mettre en route, appliquer ou faire respecter tout volet du processus de contrôle du dopage. Ce peut être, par exemple, le Comité international olympique, le Comité international paralympique, d’autres organisations responsables de grands événements sportifs qui procèdent à des contrôles à cette occasion, l’Agence mondiale antidopage, les fédérations internationales et les organisations nationales antidopage.
@@ -522,7 +522,7 @@ Annexe I[^t-2]
 
 [^annexI-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon la mod. entrée en vigueur le 1<sup>er</sup> janv. 2024 ([RO 2024 492](https://fedlex.data.admin.ch/eli/oc/2024/492)).
+[^t-2]: Nouvelle teneur selon la mod. entrée en vigueur le 1<sup>er</sup> janv. 2025 ([RO 2024 657](https://fedlex.data.admin.ch/eli/oc/2024/657)).
 [^annexI-lvlu1-1]: La liste actuelle des interdictions du Code mondial antidopage peut être gratuitement consultée en français et en allemand sur le site de l’Antidoping Suisse: [www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions](https://www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions), autorité compétente pour les mesures de lutte contre le dopage, conformément à l’art. 19 de la loi du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
 
 Annexe II[^t-3]
