@@ -1,37 +1,39 @@
 ---
 canton: GR
 number: "815.100"
-title: "Lescha introductiva tar la lescha federala davart la protecziun da las auas (lescha chantunala davart la protecziun da las auas, LCPA)"
+title: Lescha introductiva tar la lescha federala davart la protecziun da las auas
 short: "lescha chantunala davart la protecziun da las auas, LCPA"
 language: rm
-version: 2012-12-01
-corrected: 2014-11-09
-version_adopted: 2011-10-19
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1997-06-08
 in_force: 1997-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/815.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1568/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3421/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha introductiva tar la lescha federala davart la protecziun da las auas (lescha chantunala davart la protecziun da las auas, LCPA)
+# Lescha introductiva tar la lescha federala davart la protecziun da las auas
 
-sa basond sin l'art. 45 da la lescha federala dals 24 da schaner 1991 davart la protecziun da las auas (LPAuas)[^t-1]
+(lescha chantunala davart la protecziun da las auas, LCPA)
 
-acceptada dal pievel ils 8 da zercladur 1997[^t-2]
+dals 08-06-1997 (versiun dals 01-01-2025)
 
-I. Disposiziuns generalas
+sa basond sin l'art. 45 da la lescha federala dals 24 da schaner 1991 davart la protecziun da las auas (LPAuas)[^ingress-1]
 
-[^t-1]: CS 814.20
-[^t-2]: M dals 27 d'avust 1996, pagina 399; PCG 1996/97, 652
+acceptada dal pievel ils 8 da zercladur 1997[^ingress-2]
+
+[^ingress-1]: CS [814.20](https://db.clex.ch/link/Bund/814.20/rm)
+[^ingress-2]: M dals 27 d'avust 1996, pagina 399; PCG 1996/97, 652
+
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
 **Intent**
 
-Questa lescha ha l'intent da garantir l'execuziun dal dretg federal davart la protecziun da las auas. Ella regla en spezial la repartiziun da las incumbensas tranter las vischnancas ed il chantun.
+<sup>1</sup> Questa lescha ha l'intent da garantir l'execuziun dal dretg federal davart la protecziun da las auas. Ella regla en spezial la repartiziun da las incumbensas tranter las vischnancas ed il chantun.
 
 #### Art. 2
 
@@ -43,7 +45,7 @@ Questa lescha ha l'intent da garantir l'execuziun dal dretg federal davart la pr
 
 <sup>3</sup> Il cussegl grond numna il departament cumpetent (departament) ed il post spezialisà per dumondas da la protecziun da las auas (post spezialisà).
 
-[^2-1]: CS 814.20
+[^2-1]: CS [814.20](https://db.clex.ch/link/Bund/814.20/rm)
 
 #### Art. 3
 
@@ -53,7 +55,7 @@ Questa lescha ha l'intent da garantir l'execuziun dal dretg federal davart la pr
 
 <sup>2</sup> Las prescripziuns da questa lescha che pertutgan las vischnancas vegnan applitgadas analogamain per las corporaziuns da vischnancas.
 
-[^3-1]: CS 814.20 1-12-2012 1
+[^3-1]: CS [814.20](https://db.clex.ch/link/Bund/814.20/rm)
 
 #### Art. 4
 
@@ -67,29 +69,29 @@ Questa lescha ha l'intent da garantir l'execuziun dal dretg federal davart la pr
 
 **Consultaziun da corporaziuns e da persunas privatas**
 
-Las autoritads executivas pon consultar corporaziuns da dretg public e persunas privatas qualifitgadas per ademplir lur incumbensas.
+<sup>1</sup> Las autoritads executivas pon consultar corporaziuns da dretg public e persunas privatas qualifitgadas per ademplir lur incumbensas.
 
 #### Art. 6
 
 **Princip da la chaschunadra u dal chaschunader**
 
-Tgi che chaschuna mesiras tenor questa lescha u tenor la lescha federala[^6-1], porta ils custs respectivs.
+<sup>1</sup> Tgi che chaschuna mesiras tenor questa lescha u tenor la lescha federala[^6-1], porta ils custs respectivs.
 
-[^6-1]: CS 814.20
+[^6-1]: CS [814.20](https://db.clex.ch/link/Bund/814.20/rm)
 
 #### Art. 7
 
 **Infurmaziun**
 
-Las autoritads chantunalas cumpetentas e las vischnancas infurmeschan la publicitad davart la protecziun da las auas e davart lur stadi. Ellas proponan mesiras per impedir e per sminuir influenzas nuschaivlas sin las auas.
+<sup>1</sup> Las autoritads chantunalas cumpetentas e las vischnancas infurmeschan la publicitad davart la protecziun da las auas e davart lur stadi. Ellas proponan mesiras per impedir e per sminuir influenzas nuschaivlas sin las auas.
 
 #### Art. 8
 
 **Mesiras repressivas**
 
-Las autoritads disponentas pon far valair per forza las mesiras ch'ellas han ordinà. La procedura sa drizza tenor ils artitgels 41 ss. da la lescha federala davart la procedura administrativa[^8-1].
+<sup>1</sup> Las autoritads disponentas pon far valair per forza las mesiras ch'ellas han ordinà. La procedura sa drizza tenor ils artitgels 41 ss. da la lescha federala davart la procedura administrativa[^8-1].
 
-[^8-1]: CS 172.021
+[^8-1]: CS [172.021](https://db.clex.ch/link/Bund/172.021/rm)
 
 #### Art. 9
 
@@ -99,32 +101,31 @@ Las autoritads disponentas pon far valair per forza las mesiras ch'ellas han ord
 
 <sup>2</sup> L'ordinaziun da taxas vegn relaschada en il chantun da la regenza, en las vischnancas da l'autoritad ch'è cumpetenta tenor il dretg communal.
 
-[^9-1]: CS 814.20 2 1-12-2012
+[^9-1]: CS [814.20](https://db.clex.ch/link/Bund/814.20/rm)
 
-### II. Inducziun e tractament da l'aua persa
+## 2. Inducziun e tractament da l'aua persa
 
-- 1\. PLAN GENERAL D'ALLONTANAMENT D'AUA
+### 2.1. Plan general d'allontanament d'aua
 
 #### Art. 10
 
 **Plan general d'allontanament d'aua**
 
-Las vischnancas fan in plan general d'allontanament d'aua. Quel sto vegnir approvà dal post spezialisà.
+<sup>1</sup> Las vischnancas fan in plan general d'allontanament d'aua. Quel sto vegnir approvà dal post spezialisà.
 
-- 2\. AUA PERSA SMERDADA ED AUA PERSA NUNSMERDADA
+<sup>2</sup> Mesiras tecnicas da l'aua persa che na correspundan betg al plan general d'allontanament d'aua dovran il consentiment dal post spezialisà.
+
+### 2.2. Aua persa smerdada ed aua persa nunsmerdada
 
 #### Art. 11
 
 **Princips**
 
-L'inducziun ed il tractament da l'aua persa sa drizza tenor ils suandants princips:
+<sup>1</sup> L'inducziun ed il tractament da l'aua persa sa drizza tenor ils suandants princips:
 
 - a) aua persa smerdada sto vegnir tractada;
-
 - b) aua persa tractada pon ins inducir en in aual u laschar sfundrar mo cun la permissiun da l'autoritad chantunala;
-
 - c) en las sereneras po vegnir manada mo aua persa smerdada;
-
 - d) aua persa nunsmerdada ston ins laschar sfundrar; sche las relaziuns localas na permettan betg quai, sto ella vegnir manada – a norma dal plan general d'allontanament d'aua u cun la permissiun da l'autoritad chantunala – en in'aua sur terra.
 
 #### Art. 12
@@ -139,7 +140,7 @@ L'inducziun ed il tractament da l'aua persa sa drizza tenor ils suandants princi
 
 <sup>4</sup> Ordaifer il sectur da la chanalisaziun publica procuran las vischnancas – cun proceduras spezialas – per l'allontanament adequat da l'aua persa smerdada; il post spezialisà sto vegnir consultà.
 
-[^12-1]: CS 814.20 1-12-2012 3
+[^12-1]: CS [814.20](https://db.clex.ch/link/Bund/814.20/rm)
 
 #### Art. 13
 
@@ -150,7 +151,6 @@ L'inducziun ed il tractament da l'aua persa sa drizza tenor ils suandants princi
 <sup>2</sup> En ils suandants cas ordinescha el il tractament preliminar u l'allontanament da l'aua persa smerdada:
 
 - a) per aua persa che na correspunda betg a las pretensiuns per l'inducir en la chanalisaziun;
-
 - b) per aua persa che n'è betg adattada da vegnir tractada en ina serenera centrala.
 
 <sup>3</sup> Il post spezialisà ordinescha il tractament per l'aua persa d'ina chanalisaziun publica che na po anc betg vegnir tractada en ina serenera centrala.
@@ -177,29 +177,30 @@ L'inducziun ed il tractament da l'aua persa sa drizza tenor ils suandants princi
 
 **Sanaziun**
 
-En cas d'inducziuns u da sfundradas illegalas tras persunas privatas, disponan las vischnancas d'uffizi u sin dumonda dal post spezialisà ch'il stadi prescrit legal vegnia stgaffì.
+<sup>1</sup> En cas d'inducziuns u da sfundradas illegalas tras persunas privatas, disponan las vischnancas d'uffizi u sin dumonda dal post spezialisà ch'il stadi prescrit legal vegnia stgaffì.
 
-**4**
-
-**5**
-
-1-12-2012 3. SERENERAS
+### 2.3. Sereneras
 
 #### Art. 17
 
 **Construcziun e manaschi da sereneras publicas**
 
-<sup>1</sup> La construcziun ed il manaschi da sereneras publicas è chaussa da las vischnancas.
+<sup>1</sup> La construcziun, il manaschi, il mantegniment, la sanaziun ed il remplazzament da sereneras publicas è chaussa da las vischnancas.
 
 <sup>2</sup> Ellas pon surdar questa incumbensa ad in'autra corporaziun da dretg public, ad ina instituziun da dretg public u a persunas privatas.
 
 <sup>3</sup> La regenza po obligar las vischnancas:
 
-- a) da construir entaifer in termin adequat ina serenera centrala e la rait da chanalisaziun necessaria e da manar quella adequatamain;
-
+- a) da construir entaifer in termin adequat ina serenera centrala e la rait da chanalisaziun necessaria sco er da mantegnair e da manar adequatamain quellas;
 - b) da sa colliar cun ina serenera existenta pajond ina indemnisaziun adequata;
+- c) da construir e da manar sereneras cun autras vischnancas en la medema situaziun geografica u economica;
+- d) da sanar, d'engrondir u da remplazzar entaifer in termin adequat sereneras publicas existentas sco er da garantir la finanziaziun.
 
-- c) da construir e da manar sereneras cun autras vischnancas en la medema situaziun geografica ed economica.
+#### Art. 17a
+
+**Audiziun dal post spezialisà**
+
+<sup>1</sup> Projects da construcziun che concernan sereneras publicas sco er mesiras vi da sereneras centralas che han l'intent d'ademplir las pretensiuns da la qualitad da l'aua ston vegnir suttamess al post spezialisà per l'audiziun, e quai avant che la permissiun da construcziun vegn concedida respectivamain avant che las mesiras vegnan concludidas.
 
 #### Art. 18
 
@@ -233,8 +234,6 @@ En cas d'inducziuns u da sfundradas illegalas tras persunas privatas, disponan l
 
 <sup>1</sup> Las vischnancas pretendan contribuziuns e taxas che cuvran ils custs e che correspundan al princip da la chaschunadra u dal chaschunader per la construcziun, per il manaschi, per il mantegniment, per la sanaziun e per il remplazzament da sereneras publicas.
 
-1-12-2012
-
 <sup>2</sup> Uschenavant ch'igl existan circumstanzas spezialas, pajan las vischnancas ils custs restants or da meds generals.
 
 <sup>3</sup> Las possessuras ed ils possessurs da las sereneras fan retenziuns adequatas per mantegnair, per sanar e per remplazzar quellas.
@@ -243,15 +242,15 @@ En cas d'inducziuns u da sfundradas illegalas tras persunas privatas, disponan l
 
 **Reglaments davart las auas persas**
 
-La construcziun ed il manaschi da sereneras publicas e privatas, l'obligaziun da colliaziun, las premissas da colliaziun, la procedura e la finanziaziun dals custs da construcziun e da manaschi ston vegnir ordinads da las vischnancas en la lescha da construcziun ed en in reglament davart las auas persas.
+<sup>1</sup> La construcziun ed il manaschi da sereneras publicas e privatas, l'obligaziun da colliaziun, las premissas da colliaziun, la procedura e la finanziaziun dals custs da construcziun e da manaschi ston vegnir ordinads da las vischnancas en la lescha da construcziun ed en in reglament davart las auas persas.
 
-### III. Protecziun en dumondas da planisaziun
+## 3. Protecziun en dumondas da planisaziun
 
 #### Art. 23
 
 **Secturs per la protecziun da las auas e dals areals per la protecziun da l'aua sutterrana**
 
-La regenza reparta – suenter avair consultà las vischnancas – il territori chantunal en secturs per la protecziun da las auas e zavra areals per la protecziun da l'aua sutterrana.
+<sup>1</sup> La regenza reparta – suenter avair consultà las vischnancas – il territori chantunal en secturs per la protecziun da las auas e zavra areals per la protecziun da l'aua sutterrana.
 
 #### Art. 24
 
@@ -265,16 +264,13 @@ La regenza reparta – suenter avair consultà las vischnancas – il territori 
 
 **Procedura**
 
-<sup>1</sup>[^25-1]Ils plans da las zonas da protecziun ed ils reglaments correspundents vegnan exponids publicamain en las vischnancas pertutgadas durant 30 dis. A las proprietarias ed als proprietaris da bains immobigliars pertutgads vegn communitgada l'exposiziun publica cun in'annunzia persunala.
+<sup>1</sup> Ils plans da las zonas da protecziun ed ils reglaments correspundents vegnan exponids publicamain en las vischnancas pertutgadas durant 30 dis. A las proprietarias ed als proprietaris da bains immobigliars pertutgads vegn communitgada l'exposiziun publica cun in'annunzia persunala.
 
 <sup>2</sup> Tgi ch'è pertutgà da la zavrada da las zonas da protecziun e crai d'avair in interess degn da vegnir protegì vi da l'aboliziun u vi da la midada da quella, po far protesta entaifer il termin d'exposiziun. Davart las protestas decida la suprastanza communala.
 
-<sup>3</sup>[^25-2]Cunter decisiuns da protesta da la suprastanza communala po vegnir fatg recurs tar la regenza entaifer 30 dis suenter la communicaziun.
+<sup>3</sup> Cunter decisiuns da protesta da la suprastanza communala po vegnir fatg recurs tar la regenza entaifer 30 dis suenter la communicaziun.
 
 <sup>4</sup> Davart recurs decida la regenza ensemen cun l'approvaziun dals plans da las zonas da protecziun e dals reglaments correspundents.
-
-[^25-1]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3326; entrà en vigur il 1. da schaner 2007 6 1-12-2012
-[^25-2]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3326; entrà en vigur il 1. da schaner 2007
 
 #### Art. 26
 
@@ -284,23 +280,23 @@ La regenza reparta – suenter avair consultà las vischnancas – il territori 
 
 <sup>2</sup> Per cas che la zavrada vegn fatga preventivamain, pon ils custs vegnir indossads a quellas parts che dovran l'aua en l'avegnir.
 
-[^26-1]: DG 801.100 1-12-2012 7
+[^26-1]: DG [801.100](https://www.gr-lex.gr.ch/data/801.100/rm)
 
-### IV. Tractament da liquids privlus per las auas
+## 4. Tractament da liquids privlus per las auas
 
 #### Art. 27
 
 **Center da rimnada**
 
-L'indriz da centers da rimnada per liquids privlus per las auas sco er l'utilisaziun u l'allontanament betg nuschaivel da quels liquids sa drizza tenor las prescripziuns davart l'allontanament da ruments spezials da la legislaziun chantunala davart la gestiun da ruments.
+<sup>1</sup> L'indriz da centers da rimnada per liquids privlus per las auas sco er l'utilisaziun u l'allontanament betg nuschaivel da quels liquids sa drizza tenor las prescripziuns davart l'allontanament da ruments spezials da la legislaziun chantunala davart la gestiun da ruments.
 
 #### Art. 28
 
 **Implants da manaschi e circulaziuns cun liquids privlus per las auas**
 
-Implants da manaschi e circulaziuns cun liquids privlus per las auas che retiran u che portan chalur al terren ston avair ina permissiun dal chantun.
+<sup>1</sup> Implants da manaschi e circulaziuns cun liquids privlus per las auas che retiran u che portan chalur al terren ston avair ina permissiun dal chantun.
 
-### V. Prevenziun e reparaziun da donns
+## 5. Prevenziun e reparaziun da donns
 
 #### Art. 29
 
@@ -314,98 +310,55 @@ Implants da manaschi e circulaziuns cun liquids privlus per las auas che retiran
 
 <sup>4</sup> La regenza relascha tras in'ordinaziun[^29-1] las prescripziuns detagliadas davart il servetsch cunter donns.
 
-[^29-1]: DG 815.500
+[^29-1]: DG [815.500](https://www.gr-lex.gr.ch/data/815.500/rm)
 
 #### Art. 30
 
 **Mesiras preventivas**
 
-Per prevegnir ad in privel che smanatscha directamain las auas pon las autoritads ch'èn cumpetentas per il servetsch cunter donns ordinar mesiras preventivas en il rom da lur cumpetenzas.
+<sup>1</sup> Per prevegnir ad in privel che smanatscha directamain las auas pon las autoritads ch'èn cumpetentas per il servetsch cunter donns ordinar mesiras preventivas en il rom da lur cumpetenzas.
 
-### VI. Contribuziuns chantunalas
+## 6. Contribuziuns chantunalas
 
 #### Art. 31
 
-**Projects sustegnids da la confederaziun**
+**Projects innovativs**
 
-<sup>1</sup> Il chantun paja contribuziuns da maximalmain 30 pertschient als projects sustegnids da la confederaziun.
+<sup>1</sup> Il chantun po conceder contribuziuns a projects ed a stabiliments innovativs per tractar l'aua persa, sche quels gidan substanzialmain a proteger las resursas natiralas u a mitigiar la grevezza per l'ambient.
 
-<sup>2</sup>[^31-1]Per ils stabiliments per dismetter ils ruments e per ils indrizs per proteger las auas tar deponias da ruments che vegnan sustegnids da la confederaziun importa la tariffa da contribuziun dal chantun maximalmain 25 pertschient.
-
-[^31-1]: versiun tenor l'art. 59 da la LI tar la LF davart la protecziun da l'ambient 8 1-12-2012
+<sup>2</sup> …
 
 #### Art. 32
 
-**Ulteriurs projects**
-
-<sup>1</sup> Il chantun paja ultra da quai contribuziuns da maximalmain 30 pertschient als suandants projects:
-
-- a) construir ed engrondir sereneras centralas;
-
-- b) mesiras supplementaras per ademplir las pretensiuns a la qualitad da l'aua tar sereneras centralas;
-
-- c) planisaziun generala per allontanar l'aua;
-
-- d) conducts collectivs che sa chattan ordaifer la zona da construcziun;
-
-- e) conducts collectivs che vegnan duvrads almain da duas vischnancas;
-
-- f) batschigls per l'aua da plievgia;
-
-- g) stabiliments per tractar u per utilisar la glitta da serenera sientada e smarschida.
-
-<sup>2</sup> Per stabiliments per tractar u per utilisar ruments chasans paja il chantun contribuziuns da maximalmain 25 pertschient.
+**…**
 
 #### Art. 33
 
-**Premissas ed import**
-
-<sup>1</sup> Contribuziuns vegnan pajadas mo, sche la schliaziun previsa sa basa sin ina planisaziun cunvegnenta, garantescha ina protecziun adequata da las auas, correspunda al stadi da la tecnica ed è economica.
-
-<sup>2</sup> Las contribuziuns vegnan pajadas als custs renconuschids e graduadas tenor la forza finanziala da las vischnancas. La regenza relascha prescripziuns davart ils custs imputabels, davart il resguard da la forza finanziala da las vischnancas e davart la procedura da contribuziun.
-
-<sup>3</sup> Sch'ina serenera serva er per deviar u per purifitgar l'aua persa da singulas interpresas industrialas, po la contribuziun vegnir scursanida.
-
-<sup>4</sup> Il manaschi, il mantegniment e la sanaziun sco er il remplazzament da stabiliments u da parts da stabiliments, als quals igl èn vegnidas pajadas contribuziuns per lur construcziun, n'han betg il dretg da survegnir contribuziuns.
-
-<sup>5</sup> Sche las lavurs da construcziun vegnan cumenzadas u sche l'empustaziun vegn fatga avant che la disposiziun da contribuziun saja relaschada, croda il dretg da survegnir contribuziuns.
+**…**
 
 #### Art. 34
 
-**Finanziaziun, urden da prioritads**
-
-<sup>1</sup>[^34-1]Ils meds finanzials dal chantun vegnan mess a disposiziun dal cussegl grond en il rom dal budget.
-
-<sup>2</sup> Sche las dumondas ch'èn entradas u che pon vegnir spetgadas surpassan ils meds finanzials disponibels, fa il post spezialisà in urden da prioritad tenor il qual las dumondas vegnan tractadas.
-
-[^34-1]: versiun tenor l'agiunta da la lescha da finanzas dal chantun Grischun, DG 710.100; entrà en vigur il 1. da december 2012
+**…**
 
 #### Art. 35
 
-**Restituziun**
+**…**
 
-<sup>1</sup> Contribuziuns ch'èn vegnidas retratgas nungiustifitgadamain ston vegnir restituidas, en spezial er, sche las cundiziuns e sche las pretensiuns ch'èn colliadas cun il pajament na vegnan betg observadas.
-
-<sup>2</sup> Il dretg da restituziun surannescha tenor las prescripziuns da la lescha federala.
-
-### VII. Giurisdicziun
+## 7. Giurisdicziun
 
 #### Art. 36
 
 **Procedura da meds legals**
 
-<sup>1</sup>[^36-1]Cunter disposiziuns da vischnancas, da corporaziuns da vischnancas sco er dal post spezialisà che stattan en connex cun ina permissiun da construcziun poi vegnir fatg recurs tar la dretgira administrativa entaifer 30 dis.
+<sup>1</sup> Cunter disposiziuns da vischnancas, da corporaziuns da vischnancas sco er dal post spezialisà che stattan en connex cun ina permissiun da construcziun poi vegnir fatg recurs tar la Dretgira superiura entaifer 30 dis.
 
-<sup>2</sup>[^36-2]Autras disposiziuns dal post spezialisà suttastattan al recurs administrativ tenor la lescha davart la giurisdicziun administrativa[^36-3].
+<sup>2</sup> Autras disposiziuns dal post spezialisà suttastattan al recurs administrativ tenor la lescha davart la giurisdicziun administrativa[^36-1].
 
-<sup>3</sup> …[^36-4]
+<sup>3</sup> …
 
-[^36-1]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3326; entrà en vigur il 1. da schaner 2007 1-12-2012 9
-[^36-2]: versiun tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3326; entrà en vigur il 1. da schaner 2007
-[^36-3]: DG 370.100
-[^36-4]: abolì tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3326; entrà en vigur il 1. da schaner 2007
+[^36-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
-### VIII. Disposiziuns penalas
+## 8. Disposiziuns penalas
 
 #### Art. 37
 
@@ -413,70 +366,70 @@ Per prevegnir ad in privel che smanatscha directamain las auas pon las autoritad
 
 <sup>1</sup> La persecuziun ed il giudicament dals delicts che vegnan numnads en la lescha federala è chaussa da las autoritads penalas ordinarias.
 
-<sup>2</sup> Per la persecuziun e per il giudicament dals surpassaments che vegnan numnads en la lescha federala[^37-1]è cumpetent il departament.
+<sup>2</sup> Per la persecuziun e per il giudicament dals surpassaments che vegnan numnads en la lescha federala[^37-1] è cumpetent il departament.
 
-[^37-1]: CS 814.20
+[^37-1]: CS [814.20](https://db.clex.ch/link/Bund/814.20/rm)
 
 #### Art. 38
 
 **Consultaziun dal post spezialisà**
 
-Las autoritads d'inquisiziun e da dretgira cumpetentas pon consultar organs dal post spezialisà sco expertas u sco experts en dumondas da la protecziun da las auas.
+<sup>1</sup> Las autoritads d'inquisiziun e da dretgira cumpetentas pon consultar organs dal post spezialisà sco expertas u sco experts en dumondas da la protecziun da las auas.
 
 #### Art. 39
 
 **Communicaziun**
 
-Sentenzias penalas, disposiziuns da refusa e disposiziuns da sistida ston er vegnir communitgadas al post spezialisà.
+<sup>1</sup> Sentenzias penalas, disposiziuns da refusa e disposiziuns da sistida ston er vegnir communitgadas al post spezialisà.
 
-### IX. Disposiziuns finalas
+## 9. Disposiziuns finalas
 
 #### Art. 40
 
 **Ordinaziun executiva**
 
-Il cussegl grond relascha in'ordinaziun executiva tar questa lescha[^40-1].
+<sup>1</sup> Il cussegl grond relascha in'ordinaziun executiva tar questa lescha[^40-1].
 
-[^40-1]: DG 815.200
+[^40-1]: DG [815.200](https://www.gr-lex.gr.ch/data/815.200/rm)
 
 #### Art. 41
 
 **Aboliziun dal dretg vertent**
 
-Cun l'entrada en vigur da questa lescha èn abolidas tut las prescripziuns che stattan en cuntradicziun cun ella, en spezial la lescha introductiva tar la lescha federala davart la protecziun da las auas encunter contaminaziun dals 4 d'october 1959[^41-1].
+<sup>1</sup> Cun l'entrada en vigur da questa lescha èn abolidas tut las prescripziuns che stattan en cuntradicziun cun ella, en spezial la lescha introductiva tar la lescha federala davart la protecziun da las auas encunter contaminaziun dals 4 d'october 1959[^41-1].
 
-[^41-1]: CUL 1960, 93 e CUL 1995, 3411 10 1-12-2012
+[^41-1]: CUL 1960, 93 e CUL 1995, 3411
 
 #### Art. 42
 
 **Disposiziuns transitoricas 1. mancanza d'in plan general d'allontanament d'aua**
 
-<sup>2</sup> Uscheditg ch'ina vischnanca na dispona betg d'in plan general d'allontanament d'aua, procura ella, tenor las ordinaziuns dal post spezialisà, che l'aua persa nunsmerdada vegnia tractada suandantamain tut tenor las relaziuns localas:
+<sup>1</sup> Uscheditg ch'ina vischnanca na dispona betg d'in plan general d'allontanament d'aua, procura ella, tenor las ordinaziuns dal post spezialisà, che l'aua persa nunsmerdada vegnia tractada suandantamain tut tenor las relaziuns localas:
 
 - a) sche las relaziuns idrologicas e geologicas permettan quai, duain ins la laschar sfundrar;
-
 - b) sch'i n'è betg pussaivel da la laschar sfundrar, ston ins inducir ella avertamain u tras conducts per l'aua da plievgia en in'aua sur terra, e quai cun la permissiun da l'autoritad chantunala;
-
 - c) sche naginas da las metodas da tractament menziunadas n'èn pussaivlas, po l'aua persa nunsmerdada vegnir manada en la serenera.
 
 #### Art. 43
 
 **2. aua persa nunsmerdada che resulta permanentamain**
 
-Las vischnancas procuran, a norma da la lescha federala[^43-1], ch'ils disturbis da l'effect da lur serenera che derivan da l'aua persa nunsmerdada, che resulta permanentamain, vegnian reparads.
+<sup>1</sup> Las vischnancas procuran, a norma da la lescha federala[^43-1], ch'ils disturbis da l'effect da lur serenera che derivan da l'aua persa nunsmerdada, che resulta permanentamain, vegnian reparads.
 
-[^43-1]: CS 814.20
+[^43-1]: CS [814.20](https://db.clex.ch/link/Bund/814.20/rm)
 
 #### Art. 44
 
 **3. Adattaziun da relaschs communals**
 
-Ils relaschs communals ston vegnir adattads a las novas prescripziuns entaifer 5 onns suenter l'entrada en vigur da questa lescha.
+<sup>1</sup> Ils relaschs communals ston vegnir adattads a las novas prescripziuns entaifer 5 onns suenter l'entrada en vigur da questa lescha.
 
 #### Art. 45
 
 **Entrada en vigur**
 
-Questa lescha vegn messa en vigur[^45-1] da la regenza suenter ch'ella è vegnida acceptada dal pievel.
+<sup>1</sup> Questa lescha vegn messa en vigur[^45-1] da la regenza suenter ch'ella è vegnida acceptada dal pievel.
 
-[^45-1]: messa en vigur cun CR dal 1. da fanadur 1997 per il 1. d'october 1997 1-12-2012 11
+[^45-1]: messa en vigur cun CR dal 1. da fanadur 1997 per il 1. d'october 1997
+
+-

@@ -1,37 +1,39 @@
 ---
 canton: GR
 number: "815.100"
-title: "Legge d'introduzione della legge federale sulla protezione delle acque (Legge cantonale sulla protezione delle acque, LCPAc)"
+title: "Legge d'introduzione della legge federale sulla protezione delle acque"
 short: "Legge cantonale sulla protezione delle acque, LCPAc"
 language: it
-version: 2012-12-01
-corrected: 2014-11-09
-version_adopted: 2011-10-19
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1997-06-08
 in_force: 1997-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/815.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1568/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3421/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge d'introduzione della legge federale sulla protezione delle acque (Legge cantonale sulla protezione delle acque, LCPAc)
+# Legge d'introduzione della legge federale sulla protezione delle acque
 
-accettata dal Popolo l'8 giugno 1997[^t-1]
+(Legge cantonale sulla protezione delle acque, LCPAc)
 
-giusta l'articolo 45 della legge federale sulla protezione delle acque (LPAc) del 24 gennaio 1991[^t-2]
+del 08.06.1997 (stato 01.01.2025)
 
-I. Disposizioni generali
+accettata dal Popolo l'8 giugno 1997[^ingress-1]
 
-[^t-1]: M del 27 ago. 1996, pagina 399, PGC 1996/97, 652
-[^t-2]: RS 814.20
+giusta l'articolo 45 della legge federale sulla protezione delle acque (LPAc) del 24 gennaio 1991[^ingress-2]
+
+[^ingress-1]: M del 27 ago. 1996, pagina 399, PGC 1996/97, 652
+[^ingress-2]: RS [814.20](https://db.clex.ch/link/Bund/814.20/it)
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
 **Scopo**
 
-Scopo della presente legge è garantire l'esecuzione del diritto federale in materia di protezione delle acque. Essa disciplina in particolare la divisione dei compiti tra i comuni ed il Cantone.
+<sup>1</sup> Scopo della presente legge è garantire l'esecuzione del diritto federale in materia di protezione delle acque. Essa disciplina in particolare la divisione dei compiti tra i comuni ed il Cantone.
 
 #### Art. 2
 
@@ -43,7 +45,7 @@ Scopo della presente legge è garantire l'esecuzione del diritto federale in mat
 
 <sup>3</sup> Il Gran Consiglio designa il dipartimento competente (Dipartimento) e l'ufficio cantonale preposto alla protezione delle acque (Ufficio).
 
-[^2-1]: RS 814.20
+[^2-1]: RS [814.20](https://db.clex.ch/link/Bund/814.20/it)
 
 #### Art. 3
 
@@ -53,7 +55,7 @@ Scopo della presente legge è garantire l'esecuzione del diritto federale in mat
 
 <sup>2</sup> Le prescrizioni della presente legge concernenti i comuni sono applicabili per analogia alle unioni di comuni.
 
-[^3-1]: RS 814.20 1.1.2010 1
+[^3-1]: RS [814.20](https://db.clex.ch/link/Bund/814.20/it)
 
 #### Art. 4
 
@@ -67,29 +69,29 @@ Scopo della presente legge è garantire l'esecuzione del diritto federale in mat
 
 **Consultazione di corporazioni e privati**
 
-Per adempiere ai loro compiti le autorità di esecuzione possono far capo a corporazioni di diritto pubblico e a privati professionalmente qualificati.
+<sup>1</sup> Per adempiere ai loro compiti le autorità di esecuzione possono far capo a corporazioni di diritto pubblico e a privati professionalmente qualificati.
 
 #### Art. 6
 
 **Principio di causalità**
 
-Colui che causa provvedimenti ai sensi della presente legge o della legge federale[^6-1], ne sopporta i costi.
+<sup>1</sup> Colui che causa provvedimenti ai sensi della presente legge o della legge federale[^6-1], ne sopporta i costi.
 
-[^6-1]: RS 814.20
+[^6-1]: RS [814.20](https://db.clex.ch/link/Bund/814.20/it)
 
 #### Art. 7
 
 **Informazione**
 
-Le competenti autorità cantonali ed i comuni informano il pubblico sulla protezione delle acque e sullo stato di queste. Essi raccomandano misure atte a prevenire o a diminuire gli effetti pregiudizievoli alle acque.
+<sup>1</sup> Le competenti autorità cantonali ed i comuni informano il pubblico sulla protezione delle acque e sullo stato di queste. Essi raccomandano misure atte a prevenire o a diminuire gli effetti pregiudizievoli alle acque.
 
 #### Art. 8
 
 **Misure coattive**
 
-Le autorità decidenti possono imporre coattivamente l'esecuzione dei provvedimenti da loro ordinati. La procedura si conforma all'articolo 41 sgg. della legge federale sulla procedura amministrativa.[^8-1]
+<sup>1</sup> Le autorità decidenti possono imporre coattivamente l'esecuzione dei provvedimenti da loro ordinati. La procedura si conforma all'articolo 41 sgg. della legge federale sulla procedura amministrativa.[^8-1]
 
-[^8-1]: RS 172.021
+[^8-1]: RS [172.021](https://db.clex.ch/link/Bund/172.021/it)
 
 #### Art. 9
 
@@ -99,32 +101,31 @@ Le autorità decidenti possono imporre coattivamente l'esecuzione dei provvedime
 
 <sup>2</sup> La tariffa viene emanata nel Cantone dal Governo e nei comuni dall'autorità competente giusta il diritto comunale.
 
-[^9-1]: RS 814.20 2 1.1.2010
+[^9-1]: RS [814.20](https://db.clex.ch/link/Bund/814.20/it)
 
-### II. Immissione e trattamento delle acque di scarico
+## 2. Immissione e trattamento delle acque di scarico
 
-- 1\. PIANO GENERALE DELLE CANALIZZAZIONI
+### 2.1. Piano generale delle canalizzazioni
 
 #### Art. 10
 
 **Piano generale delle canalizzazioni**
 
-I comuni allestiscono un piano generale delle canalizzazioni. Questo necessita dell'approvazione da parte dell'Ufficio.
+<sup>1</sup> I comuni allestiscono un piano generale delle canalizzazioni. Questo necessita dell'approvazione da parte dell'Ufficio.
 
-- 2\. ACQUE DI SCARICO INQUINATE E NON INQUINATE
+<sup>2</sup> Provvedimenti tecnici relativi alle acque di scarico che non corrispondono al piano generale delle canalizzazioni necessitano dell'approvazione dell'Ufficio.
+
+### 2.2. Acque di scarico inquinate e non inquinate
 
 #### Art. 11
 
 **Principi**
 
-L'immissione e il trattamento delle acque di scarico si conformano ai principi che seguono:
+<sup>1</sup> L'immissione e il trattamento delle acque di scarico si conformano ai principi che seguono:
 
 - a) le acque di scarico inquinate devono essere trattate;
-
 - b) le acque di scarico trattate possono essere immesse o lasciate infiltrare nelle acque solo con il permesso dell'autorità cantonale;
-
 - c) nelle stazioni di depurazione è ammesso addurre solo acque di scarico inquinate;
-
 - d) le acque di scarico non inquinate devono essere lasciate infiltrare; se le condizioni locali non lo permettono, esse devono essere immesse nelle acque superficiali in conformità al piano generale delle canalizzazioni oppure con il permesso dell'autorità cantonale.
 
 #### Art. 12
@@ -139,7 +140,7 @@ L'immissione e il trattamento delle acque di scarico si conformano ai principi c
 
 <sup>4</sup> Al di fuori del perimetro delle canalizzazioni pubbliche i comuni provvedono all'appropriata eliminazione delle acque di scarico inquinate mediante metodi speciali; deve essere consultato l'Ufficio.
 
-[^12-1]: RS 814.20 1.1.2010 3
+[^12-1]: RS [814.20](https://db.clex.ch/link/Bund/814.20/it)
 
 #### Art. 13
 
@@ -150,7 +151,6 @@ L'immissione e il trattamento delle acque di scarico si conformano ai principi c
 <sup>2</sup> Nei casi seguenti esso ordina il pretrattamento oppure l'eliminazione delle acque di scarico:
 
 - a) acque di scarico che non soddisfano le esigenze per l'immissione nella canalizzazione:
-
 - b) acque di scarico che non sono idonee ad essere trattate in una stazione centrale di depurazione.
 
 <sup>3</sup> L'Ufficio ordina il trattamento delle acque di scarico provenienti da una canalizzazione pubblica, che non possono ancora essere trattate in una stazione centrale di depurazione.
@@ -177,29 +177,30 @@ L'immissione e il trattamento delle acque di scarico si conformano ai principi c
 
 **Risanamento**
 
-In caso di immissioni o infiltrazioni contrarie alla legge ad opera di privati i comuni ordinano d'ufficio o su richiesta dell'Ufficio il ripristino dello stato conforme alle prescrizioni.
+<sup>1</sup> In caso di immissioni o infiltrazioni contrarie alla legge ad opera di privati i comuni ordinano d'ufficio o su richiesta dell'Ufficio il ripristino dello stato conforme alle prescrizioni.
 
-- 3\. IMPIANTI DI EVACUAZIONE E DI DEPURAZIONE
+### 2.3. Impianti di evacuazione e di depurazione
 
 #### Art. 17
 
 **Costruzione e esercizio di impianti pubblici**
 
-<sup>1</sup> La costruzione e l'esercizio di impianti pubblici di evacuazione e di depurazione sono di competenza dei comuni.
+<sup>1</sup> Costruzione, esercizio, manutenzione, risanamento e sostituzione di impianti pubblici di evacuazione e di depurazione sono di competenza dei comuni.
 
 <sup>2</sup> Essi possono delegare questi compiti ad un'altra corporazione di diritto pubblico, ad un ente di diritto pubblico oppure a dei privati.
 
 <sup>3</sup> Il Governo può obbligare un comune:
 
-- a) a costruire entro un termine adeguato una stazione centrale di depurazione delle acque di scarico e la necessaria rete di canalizzazioni come pure a gestire tutto ciò in modo appropriato;
-
+- a) a costruire entro un termine adeguato una stazione centrale di depurazione delle acque di scarico e la necessaria rete di canalizzazioni, come pure a mantenere e gestire tutto ciò in modo appropriato;
 - b) ad allacciarsi ad un impianto esistente contro adeguato indennizzo;
+- c) a costruire e gestire insieme ad altri comuni formanti un'unità geografica o economica impianti comuni di evacuazione e di depurazione;
+- d) a risanare, ampliare o sostituire entro un termine adeguato impianti di depurazione pubblici esistenti, nonché a garantirne il finanziamento.
 
-- c) a costruire e gestire insieme ad altri comuni formanti un'unità geografica ed economica impianti comuni di evacuazione e di depurazione.
+#### Art. 17a
 
-**4**
+**Consultazione dell'Ufficio**
 
-1.1.2010
+<sup>1</sup> I progetti di costruzione che interessano impianti di depurazione pubblici, nonché misure presso impianti centrali di depurazione delle acque di scarico volti a soddisfare i requisiti posti alla qualità dell'acqua vanno sottoposti all'Ufficio per la consultazione prima che venga rilasciata la licenza edilizia, rispettivamente prima che le misure vengano decise.
 
 #### Art. 18
 
@@ -241,19 +242,15 @@ In caso di immissioni o infiltrazioni contrarie alla legge ad opera di privati i
 
 **Regolamenti delle acque di scarico**
 
-La costruzione e l'esercizio di impianti di depurazione pubblici e privati, l'obbligo di allacciamento, le condizioni di allacciamento, la procedura ed il finanziamento dei costi di costruzione e d'esercizio devono essere disciplinati dai comuni nella legge edilizia ed in un regolamento delle acque di scarico.
+<sup>1</sup> La costruzione e l'esercizio di impianti di depurazione pubblici e privati, l'obbligo di allacciamento, le condizioni di allacciamento, la procedura ed il finanziamento dei costi di costruzione e d'esercizio devono essere disciplinati dai comuni nella legge edilizia ed in un regolamento delle acque di scarico.
 
-**5**
-
-1.1.2010
-
-### III. Misure pianificatorie di protezione
+## 3. Misure pianificatorie di protezione
 
 #### Art. 23
 
 **Settori di protezione delle acque e aree di protezione delle acque sotterranee**
 
-Uditi i comuni il Governo procede alla classificazione del territorio cantonale in settori di protezione delle acque e delimita le aree di protezione delle acque sotterranee.
+<sup>1</sup> Uditi i comuni il Governo procede alla classificazione del territorio cantonale in settori di protezione delle acque e delimita le aree di protezione delle acque sotterranee.
 
 #### Art. 24
 
@@ -267,17 +264,13 @@ Uditi i comuni il Governo procede alla classificazione del territorio cantonale 
 
 **Procedura**
 
-<sup>1</sup>[^25-1]I piani delle zone di protezione ed i relativi regolamenti vengono esposti pubblicamente nei comuni interessati durante 30 giorni. I proprietari fondiari toccati vengono informati in merito alla pubblica esposizione mediante avviso personale.
+<sup>1</sup> I piani delle zone di protezione ed i relativi regolamenti vengono esposti pubblicamente nei comuni interessati durante 30 giorni. I proprietari fondiari toccati vengono informati in merito alla pubblica esposizione mediante avviso personale.
 
 <sup>2</sup> Colui che è toccato dalla delimitazione di una zona di protezione e ritiene di avere un interesse degno di protezione alla revoca o modifica della stessa, può presentare opposizione entro il termine di esposizione. La sovrastanza comunale decide in merito alle opposizioni.
 
-<sup>3</sup>[^25-2]Contro le decisioni su opposizione della sovrastanza comunale è data la facoltà di presentare ricorso dinanzi al Governo entro 30 giorni dalla comunicazione.
+<sup>3</sup> Contro le decisioni su opposizione della sovrastanza comunale è data la facoltà di presentare ricorso dinanzi al Governo entro 30 giorni dalla comunicazione.
 
-<sup>4</sup>[^25-3]Il Governo decide in merito ai ricorsi contemporaneamente all'approvazione dei piani delle zone di protezione e dei relativi regolamenti.
-
-[^25-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3417; entrato in vigore il 1° gen. 2007
-[^25-2]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3417; entrato in vigore il 1° gen. 2007
-[^25-3]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3418; entrato in vigore il 1° gen. 2007
+<sup>4</sup> Il Governo decide in merito ai ricorsi contemporaneamente all'approvazione dei piani delle zone di protezione e dei relativi regolamenti.
 
 #### Art. 26
 
@@ -287,23 +280,23 @@ Uditi i comuni il Governo procede alla classificazione del territorio cantonale 
 
 <sup>2</sup> In caso di delimitazione a titolo provvisionale i costi possono venire addebitati a coloro che si riforniranno di acqua in avvenire.
 
-[^26-1]: CSC 801.100 6 1.1.2010
+[^26-1]: CSC [801.100](https://www.gr-lex.gr.ch/data/801.100/it)
 
-### IV. Esigenze concernenti i liquidi inquinanti
+## 4. Esigenze concernenti i liquidi inquinanti
 
 #### Art. 27
 
 **Posti di raccolta**
 
-La costruzione di posti di raccolta dei liquidi inquinanti nonché il riciclaggio o l'eliminazione di tali liquidi che non nuoccia alle acque si conforma alle prescrizioni in materia di eliminazione di rifiuti speciali della legislazione cantonale sui rifiuti.
+<sup>1</sup> La costruzione di posti di raccolta dei liquidi inquinanti nonché il riciclaggio o l'eliminazione di tali liquidi che non nuoccia alle acque si conforma alle prescrizioni in materia di eliminazione di rifiuti speciali della legislazione cantonale sui rifiuti.
 
 #### Art. 28
 
 **Impianti di esercizio e circuiti contenenti liquidi nocivi**
 
-Per impianti d'esercizio e circuiti contenenti liquidi nocivi alle acque, che prelevano calore dalle acque o dal suolo o ve lo immettono, è necessaria un'autorizzazione del Cantone.
+<sup>1</sup> Per impianti d'esercizio e circuiti contenenti liquidi nocivi alle acque, che prelevano calore dalle acque o dal suolo o ve lo immettono, è necessaria un'autorizzazione del Cantone.
 
-### V. Prevenzione ed eliminazione dei danni
+## 5. Prevenzione ed eliminazione dei danni
 
 #### Art. 29
 
@@ -317,96 +310,55 @@ Per impianti d'esercizio e circuiti contenenti liquidi nocivi alle acque, che pr
 
 <sup>4</sup> Il Governo emana sotto forma di ordinanza[^29-1] norme più dettagliate sul Servizio avarie.
 
-[^29-1]: CSC 815.500 1.1.2010 7
+[^29-1]: CSC [815.500](https://www.gr-lex.gr.ch/data/815.500/it)
 
 #### Art. 30
 
 **Misure provvisionali**
 
-Per prevenire un pericolo imminente per le acque, le autorità competenti per il Servizio avarie possono, nell'ambito della loro competenza, ordinare delle misure provvisionali.
+<sup>1</sup> Per prevenire un pericolo imminente per le acque, le autorità competenti per il Servizio avarie possono, nell'ambito della loro competenza, ordinare delle misure provvisionali.
 
-### VI. Sussidi cantonali
+## 6. Sussidi cantonali
 
 #### Art. 31
 
-**Progetti sovvenzionati dalla Confederazione**
+**Progetti innovativi**
 
-<sup>1</sup> Il Cantone versa sussidi pari al massimo al 30 percento a progetti sovvenzionati dalla Confederazione.
+<sup>1</sup> Il Cantone può concedere sussidi a progetti e impianti innovativi per il trattamento delle acque di scarico che forniscono un contributo sostanziale all'utilizzo parsimonioso delle risorse naturali o alla riduzione del carico ambientale.
 
-<sup>2</sup>[^31-1]Per gli impianti di trattamento dei rifiuti sovvenzionati dalla Confederazione e le installazioni destinate alla protezione delle acque nei pressi di discariche il sussidio del Cantone ammonta al massimo al 25 percento.
-
-[^31-1]: Testo giusta art. 59 della legge d'introduzione alla legge federale sulla protezione dell'ambiente 8 1.1.2010
+<sup>2</sup> …
 
 #### Art. 32
 
-**Altri progetti**
-
-<sup>1</sup> Il Cantone versa inoltre sussidi pari al massimo al 30 percento ai seguenti progetti:
-
-- a) costruzione e ampliamento di stazioni centrali di depurazione delle acque di scarico;
-
-- b) provvedimenti complementari presso stazioni centrali di depurazione delle acque di scarico per soddisfare le esigenze relative alla qualità delle acque;
-
-- c) pianificazione generale delle canalizzazioni;
-
-- d) canali collettori situati fuori delle zone edificabili;
-
-- e) canali collettori utilizzati da due o più comuni;
-
-- f) bacini di acque pluviali;
-
-- g) impianti per il trattamento o il riciclaggio dei fanghi di depurazione disidratati e digeriti;
-
-<sup>2</sup> Per impianti destinati al trattamento o riciclaggio di rifiuti urbani il Cantone versa sussidi pari al massimo al 25 percento.
+**…**
 
 #### Art. 33
 
-**Condizioni e ammontare**
-
-<sup>1</sup> I sussidi vengono versati soltanto se la soluzione prevista risponde ad una pianificazione efficace, garantisce una protezione adeguata delle acque, e conforme allo stato della tecnica ed è economica.
-
-<sup>2</sup> I sussidi sono versati in base ai costi riconosciuti e commisurati alla capacità finanziaria dei comuni. Il Governo emana prescrizioni sui costi computabili, sulla presa in considerazione della capacità finanziaria dei comuni e sulla procedura contributiva.
-
-<sup>3</sup> Ove un impianto serva anche a derivare o a depurare le acque di scarico di singole aziende industriali, il sussidio può essere ridotto.
-
-<sup>4</sup> L‘esercizio, la manutenzione ed il risanamento nonché la sostituzione di impianti o di parti d'impianto, ai quali sono stati versati sussidi all'atto della costruzione, non hanno diritto al sussidio.
-
-<sup>5</sup> Se la costruzione viene iniziata o commissionata prima dell'emanazione del decreto di sussidio, il diritto al sussidio decade.
+**…**
 
 #### Art. 34
 
-**Finanziamento, scala delle priorità**
-
-<sup>1</sup> I mezzi finanziari del Cantone vengono messi a disposizione dal Gran Consiglio nel quadro del bilancio preventivo.
-
-<sup>2</sup> Se i mezzi a disposizione non sono sufficienti per soddisfare tutte le richieste presentate o previste, l'Ufficio allestisce una scala delle priorità per l'esame delle richieste.
+**…**
 
 #### Art. 35
 
-**Restituzione**
+**…**
 
-<sup>1</sup> I sussidi indebitamente ottenuti devono essere restituiti, in particolare anche nel caso in cui le condizioni e gli oneri connessi al pagamento non sono stati rispettati.
-
-<sup>2</sup> Il diritto alla restituzione si prescrive giusta le disposizioni del diritto federale.
-
-### VII. Rimedi giuridici
+## 7. Rimedi giuridici
 
 #### Art. 36
 
 **Procedura d'impugnazione**
 
-<sup>1</sup>[^36-1]Le decisioni di comuni, unioni di comuni nonché dell'Ufficio, che sono in relazione con una licenza edilizia, possono essere fatte proseguire con ricorso al Tribunale amministrativo entro 30 giorni.
+<sup>1</sup> Le decisioni di comuni, unioni di comuni nonché dell'Ufficio che sono in relazione con una licenza edilizia possono essere impugnate con ricorso al Tribunale d'appello entro 30 giorni.
 
-<sup>2</sup>[^36-2]Altre decisioni dell'Ufficio sottostanno al ricorso amministrativo giusta la legge sulla giustizia amministrativa.[^36-3]
+<sup>2</sup> Altre decisioni dell'Ufficio sottostanno al ricorso amministrativo giusta la legge sulla giustizia amministrativa.[^36-1]
 
-<sup>3</sup> …[^36-4]
+<sup>3</sup> …
 
-[^36-1]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3418; entrato in vigore il 1° gen. 2007
-[^36-2]: Testo giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3418; entrato in vigore il 1° gen. 2007
-[^36-3]: CSC 370.100
-[^36-4]: Abrogazione giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3418; entrata in vigore il 1° gen. 2007
+[^36-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
-### VIII. Disposizioni penali
+## 8. Disposizioni penali
 
 #### Art. 37
 
@@ -416,35 +368,35 @@ Per prevenire un pericolo imminente per le acque, le autorità competenti per il
 
 <sup>2</sup> Per il procedimento penale e il giudizio delle contravvenzioni menzionate nella legge federale[^37-1] è competente il Dipartimento.
 
-[^37-1]: RS 814.20 1.1.2010 9
+[^37-1]: RS [814.20](https://db.clex.ch/link/Bund/814.20/it)
 
 #### Art. 38
 
 **Consultazione dell'Ufficio**
 
-Le competenti autorità istruttorie e giudiziarie possono consultare gli organi dell'Ufficio in qualità di periti per questioni relative alla protezione delle acque.
+<sup>1</sup> Le competenti autorità istruttorie e giudiziarie possono consultare gli organi dell'Ufficio in qualità di periti per questioni relative alla protezione delle acque.
 
 #### Art. 39
 
 **Comunicazione**
 
-Anche le sentenze penali nonché le decisioni di rifiuto e di sospensione devono essere comunicate all'Ufficio.
+<sup>1</sup> Anche le sentenze penali nonché le decisioni di rifiuto e di sospensione devono essere comunicate all'Ufficio.
 
-### IX. Disposizioni finali
+## 9. Disposizioni finali
 
 #### Art. 40
 
 **Ordinanza d'esecuzione**
 
-Il Gran Consiglio emana un'ordinanza di esecuzione della presente legge.[^40-1]
+<sup>1</sup> Il Gran Consiglio emana un'ordinanza di esecuzione della presente legge.[^40-1]
 
-[^40-1]: CSC 815.200
+[^40-1]: CSC [815.200](https://www.gr-lex.gr.ch/data/815.200/it)
 
 #### Art. 41
 
 **Abrogazioni**
 
-Con l'entrata in vigore della presente legge tutta la normativa in contraddizione con essa viene abrogata, in particolare la legge d'introduzione della legge federale sulla protezione delle acque dall'inquinamento del 4 ottobre 1959.[^41-1]
+<sup>1</sup> Con l'entrata in vigore della presente legge tutta la normativa in contraddizione con essa viene abrogata, in particolare la legge d'introduzione della legge federale sulla protezione delle acque dall'inquinamento del 4 ottobre 1959.[^41-1]
 
 [^41-1]: AGS 1960, 93 e AGS 1995, 3411
 
@@ -452,32 +404,32 @@ Con l'entrata in vigore della presente legge tutta la normativa in contraddizion
 
 **Disposizioni transitorie 1. Assenza di un piano generale delle canalizzazioni**
 
-Fintanto che un comune non dispone di un piano generale delle canalizzazioni, esso provvede giusta gli ordini dell'Ufficio affinché le acque di scarico non inquinate vengano trattate, a seconda delle circostanze locali, nel modo seguente:
+<sup>1</sup> Fintanto che un comune non dispone di un piano generale delle canalizzazioni, esso provvede giusta gli ordini dell'Ufficio affinché le acque di scarico non inquinate vengano trattate, a seconda delle circostanze locali, nel modo seguente:
 
 - a) sempreché le condizioni idrologiche e geologiche lo permettano, esse devono essere lasciate infiltrare;
-
 - b) se un'infiltrazione non è possibile, con il permesso dell'autorità cantonale esse devono essere immesse nelle acque superficiali tramite scavo aperto oppure attraverso condotte per le acque pluviali;
-
 - c) se non è possibile alcuno dei trattamenti citati, le acque di scarico non inquinate possono essere fatte affluire nella stazione di depurazione.
 
 #### Art. 43
 
 **2. Acque di scarico non inquinate con afflusso permanente**
 
-Conformemente alla legge federale[^43-1] i comuni provvedono affinché vengano eliminati i pregiudizi all'efficacia delle loro stazioni di depurazione dovuti alle acque di scarico non inquinate con afflusso permanente.
+<sup>1</sup> Conformemente alla legge federale[^43-1] i comuni provvedono affinché vengano eliminati i pregiudizi all'efficacia delle loro stazioni di depurazione dovuti alle acque di scarico non inquinate con afflusso permanente.
 
-[^43-1]: RS 814.20 10 1.1.2010
+[^43-1]: RS [814.20](https://db.clex.ch/link/Bund/814.20/it)
 
 #### Art. 44
 
 **3. Adeguamento di atti legislativi comunali**
 
-Gli atti legislativi comunali devono essere adeguati alle nuove prescrizioni entro il termine di cinque anni dall'entrata in vigore della presente legge.
+<sup>1</sup> Gli atti legislativi comunali devono essere adeguati alle nuove prescrizioni entro il termine di cinque anni dall'entrata in vigore della presente legge.
 
 #### Art. 45
 
 **Entrata in vigore**
 
-La presente legge sarà dichiarata in vigore dal Governo dopo la sua accettazione da parte del Popolo.[^45-1]
+<sup>1</sup> La presente legge sarà dichiarata in vigore dal Governo dopo la sua accettazione da parte del Popolo.[^45-1]
 
-[^45-1]: Entrata in vigore con DG del 1o lug. 1997 per il 1o ott. 1997 1.1.2010 11
+[^45-1]: Entrata in vigore con DG del 1° luglio 1997 per il 1° ottobre 1997
+
+-

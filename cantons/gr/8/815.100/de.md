@@ -4,34 +4,36 @@ number: "815.100"
 title: Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer
 short: "Kantonales Gewässerschutzgesetz, KGSchG"
 language: de
-version: 2012-12-01
-corrected: 2014-11-09
-version_adopted: 2011-10-19
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 1997-06-08
 in_force: 1997-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/815.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1568/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3421/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer (Kantonales Gewässerschutzgesetz, KGSchG)
+# Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer
 
-Gestützt auf Artikel 45 des Bundesgesetzes über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG) vom 24. Januar 1991[^t-1]
+(Kantonales Gewässerschutzgesetz, KGSchG)
 
-vom Volke angenommen am 8. Juni 1997[^t-2]
+Vom 08.06.1997 (Stand 01.01.2025)
 
-I. Allgemeine Bestimmungen
+Gestützt auf Art. 45 des Bundesgesetzes über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG) vom 24. Januar 1991[^ingress-1]
 
-[^t-1]: SR 814.20
-[^t-2]: B vom 27. August 1996, Seite 399; GRP 1996/97, 652
+vom Volke angenommen am 8. Juni 1997[^ingress-2]
+
+[^ingress-1]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
+[^ingress-2]: B vom 27. August 1996, Seite 399; GRP 1996/97, 652
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-Dieses Gesetz bezweckt, den Vollzug des Bundesrechts über den Gewässerschutz zu gewährleisten. Es regelt insbesondere die Aufgabenteilung zwischen den Gemeinden und dem Kanton.
+<sup>1</sup> Dieses Gesetz bezweckt, den Vollzug des Bundesrechts über den Gewässerschutz zu gewährleisten. Es regelt insbesondere die Aufgabenteilung zwischen den Gemeinden und dem Kanton.
 
 #### Art. 2
 
@@ -43,7 +45,7 @@ Dieses Gesetz bezweckt, den Vollzug des Bundesrechts über den Gewässerschutz z
 
 <sup>3</sup> Der Grosse Rat bezeichnet das zuständige Departement (Departement) und die Fachstelle für Gewässerschutz (Fachstelle).
 
-[^2-1]: SR 814.20
+[^2-1]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### Art. 3
 
@@ -53,7 +55,7 @@ Dieses Gesetz bezweckt, den Vollzug des Bundesrechts über den Gewässerschutz z
 
 <sup>2</sup> Die Vorschriften dieses Gesetzes, welche die Gemeinden betreffen, finden auf die Gemeindeverbindungen sinngemäss Anwendung.
 
-[^3-1]: SR 814.20 01.12.2012 1
+[^3-1]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### Art. 4
 
@@ -67,29 +69,29 @@ Dieses Gesetz bezweckt, den Vollzug des Bundesrechts über den Gewässerschutz z
 
 **Beizug von Körperschaften und Privaten**
 
-Die Vollzugsbehörden können zur Erfüllung ihrer Aufgaben öffentlichrechtliche Körperschaften und fachlich ausgewiesene Private beiziehen.
+<sup>1</sup> Die Vollzugsbehörden können zur Erfüllung ihrer Aufgaben öffentlich-rechtliche Körperschaften und fachlich ausgewiesene Private beiziehen.
 
 #### Art. 6
 
 **Verursacherprinzip**
 
-Wer Massnahmen nach diesem Gesetz oder nach dem Bundesgesetz[^6-1] verursacht, trägt die Kosten dafür.
+<sup>1</sup> Wer Massnahmen nach diesem Gesetz oder nach dem Bundesgesetz[^6-1] verursacht, trägt die Kosten dafür.
 
-[^6-1]: SR 814.20
+[^6-1]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### Art. 7
 
 **Information**
 
-Die zuständigen kantonalen Behörden und die Gemeinden informieren die Öffentlichkeit über den Gewässerschutz und den Zustand der Gewässer. Sie empfehlen Massnahmen zur Verhinderung und zur Verminderung nachteiliger Einwirkungen auf die Gewässer.
+<sup>1</sup> Die zuständigen kantonalen Behörden und die Gemeinden informieren die Öffentlichkeit über den Gewässerschutz und den Zustand der Gewässer. Sie empfehlen Massnahmen zur Verhinderung und zur Verminderung nachteiliger Einwirkungen auf die Gewässer.
 
 #### Art. 8
 
 **Zwangsmassnahmen**
 
-Die verfügenden Behörden können die von ihnen angeordneten Massnahmen zwangsweise durchsetzen. Das Verfahren richtet sich nach Artikel 41ff. des Bundesgesetzes über das Verwaltungsverfahren[^8-1].
+<sup>1</sup> Die verfügenden Behörden können die von ihnen angeordneten Massnahmen zwangsweise durchsetzen. Das Verfahren richtet sich nach Artikel 41ff. des Bundesgesetzes über das Verwaltungsverfahren[^8-1].
 
-[^8-1]: SR 172.021
+[^8-1]: SR [172.021](https://db.clex.ch/link/Bund/172.021/de)
 
 #### Art. 9
 
@@ -99,32 +101,31 @@ Die verfügenden Behörden können die von ihnen angeordneten Massnahmen zwangsw
 
 <sup>2</sup> Die Gebührenordnung wird im Kanton von der Regierung, in den Gemeinden von der nach kommunalem Recht zuständigen Behörde erlassen.
 
-[^9-1]: SR 814.20 2 01.12.2012
+[^9-1]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
 
-### II. Einleitung und Behandlung von Abwasser
+## 2. Einleitung und Behandlung von Abwasser
 
-- 1\. GENERELLER ENTWÄSSERUNGSPLAN
+### 2.1. Genereller Entwässerungsplan
 
 #### Art. 10
 
 **Genereller Entwässerungsplan**
 
-Die Gemeinden erstellen einen generellen Entwässerungsplan. Dieser bedarf der Genehmigung durch die Fachstelle.
+<sup>1</sup> Die Gemeinden erstellen einen generellen Entwässerungsplan. Dieser bedarf der Genehmigung durch die Fachstelle.
 
-- 2\. VERSCHMUTZTES UND NICHT VERSCHMUTZTES ABWASSER
+<sup>2</sup> Abwassertechnische Massnahmen, die nicht dem generellen Entwässerungsplan entsprechen, bedürfen der Zustimmung durch die Fachstelle.
+
+### 2.2. Verschmutztes und nicht verschmutztes Abwasser
 
 #### Art. 11
 
 **Grundsätze**
 
-Die Einleitung und Behandlung von Abwasser richtet sich nach folgenden Grundsätzen:
+<sup>1</sup> Die Einleitung und Behandlung von Abwasser richtet sich nach folgenden Grundsätzen:
 
 - a) verschmutztes Abwasser muss behandelt werden;
-
 - b) behandeltes Abwasser darf man nur mit Bewilligung der kantonalen Behörde in ein Gewässer einleiten oder versickern lassen;
-
 - c) den Abwasserreinigungsanlagen darf nur verschmutztes Abwasser zugeführt werden;
-
 - d) nicht verschmutztes Abwasser ist versickern zu lassen; erlauben die örtlichen Verhältnisse dies nicht, ist es nach Massgabe des generellen Entwässerungsplans oder mit Bewilligung der kantonalen Behörde in ein oberirdisches Gewässer einzuleiten.
 
 #### Art. 12
@@ -139,7 +140,7 @@ Die Einleitung und Behandlung von Abwasser richtet sich nach folgenden Grundsät
 
 <sup>4</sup> Ausserhalb des Bereichs öffentlicher Kanalisationen sorgen die Gemeinden für die zweckmässige Beseitigung des verschmutzten Abwassers durch besondere Verfahren; die Fachstelle ist anzuhören.
 
-[^12-1]: SR 814.20 01.12.2012 3
+[^12-1]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### Art. 13
 
@@ -150,7 +151,6 @@ Die Einleitung und Behandlung von Abwasser richtet sich nach folgenden Grundsät
 <sup>2</sup> In folgenden Fällen ordnet sie die Vorbehandlung oder die Beseitigung des Abwassers an:
 
 - a) für Abwasser, das den Anforderungen an die Einleitung in die Kanalisation nicht entspricht;
-
 - b) für Abwasser, das für die Behandlung in einer zentralen Abwasserreinigungsanlage nicht geeignet ist.
 
 <sup>3</sup> Die Fachstelle ordnet die Behandlung für Abwasser aus einer öffentlichen Kanalisation an, das noch nicht in einer zentralen Abwasserreinigungsanlage behandelt werden kann.
@@ -177,29 +177,30 @@ Die Einleitung und Behandlung von Abwasser richtet sich nach folgenden Grundsät
 
 **Sanierung**
 
-Bei gesetzeswidrigen Einleitungen oder Versickerungen durch Private verfügen die Gemeinden von Amtes wegen oder auf Antrag der Fachstelle die Herstellung des vorschriftsgemässen Zustandes.
+<sup>1</sup> Bei gesetzeswidrigen Einleitungen oder Versickerungen durch Private verfügen die Gemeinden von Amtes wegen oder auf Antrag der Fachstelle die Herstellung des vorschriftsgemässen Zustandes.
 
-- 3\. ABWASSERANLAGEN
+### 2.3. Abwasseranlagen
 
 #### Art. 17
 
 **Bau und Betrieb öffentlicher Abwasseranlagen**
 
-<sup>1</sup> Bau und Betrieb öffentlicher Abwasseranlagen ist Sache der Gemeinden.
+<sup>1</sup> Bau, Betrieb, Unterhalt, Sanierung und Ersatz öffentlicher Abwasseranlagen ist Sache der Gemeinden.
 
 <sup>2</sup> Sie können diese Aufgaben einer anderen öffentlich-rechtlichen Körperschaft, einer öffentlich-rechtlichen Anstalt oder an Private übertragen.
 
 <sup>3</sup> Die Regierung kann eine Gemeinde verpflichten:
 
-**4**
-
-**5**
-
-01.12.2012 a) innert angemessener Frist eine zentrale Abwasserreinigungsanlage und das erforderliche Kanalisationsnetz zu erstellen und sachgemäss zu betreiben;
-
+- a) innert angemessener Frist eine zentrale Abwasserreinigungsanlage und das erforderliche Kanalisationsnetz zu erstellen sowie sachgemäss zu unterhalten und zu betreiben;
 - b) sich gegen angemessene Entschädigung an eine bestehende Anlage anzuschliessen;
+- c) zusammen mit anderen Gemeinden eines geografisch oder wirtschaftlich zusammenhängenden Gebietes gemeinsame Abwasseranlagen zu bauen und zu betreiben;
+- d) innert angemessener Frist bestehende öffentliche Abwasseranlagen zu sanieren, zu erweitern oder zu ersetzen sowie die Finanzierung sicherzustellen.
 
-- c) zusammen mit anderen Gemeinden eines geographisch und wirtschaftlich zusammenhängenden Gebietes gemeinsame Abwasseranlagen zu bauen und zu betreiben.
+#### Art. 17a
+
+**Anhörung der Fachstelle**
+
+<sup>1</sup> Bauvorhaben, welche öffentliche Abwasseranlagen betreffen, sowie Massnahmen bei zentralen Abwasserreinigungsanlagen zur Erfüllung der Anforderungen an die Wasserqualität sind der Fachstelle zur Anhörung zu unterbreiten, bevor die Baubewilligung erteilt wird beziehungsweise bevor die Massnahmen beschlossen werden.
 
 #### Art. 18
 
@@ -241,17 +242,15 @@ Bei gesetzeswidrigen Einleitungen oder Versickerungen durch Private verfügen di
 
 **Abwasserreglemente**
 
-Bau und Betrieb öffentlicher und privater Abwasseranlagen, Anschlusspflicht, Anschlussvoraussetzungen, Verfahren und Finanzierung der Bau-
+<sup>1</sup> Bau und Betrieb öffentlicher und privater Abwasseranlagen, Anschlusspflicht, Anschlussvoraussetzungen, Verfahren und Finanzierung der Bau- und Betriebskosten sind von den Gemeinden im Baugesetz und in einem Abwasserreglement zu ordnen.
 
-01.12.2012 und Betriebskosten sind von den Gemeinden im Baugesetz und in einem Abwasserreglement zu ordnen.
-
-### III. Planerischer Schutz
+## 3. Planerischer Schutz
 
 #### Art. 23
 
 **Gewässerschutzbereiche und Grundwasserschutzareale**
 
-Die Regierung nimmt nach Anhören der Gemeinden die Einteilung des Kantonsgebietes in Gewässerschutzbereiche vor und scheidet Grundwasserschutzareale aus.
+<sup>1</sup> Die Regierung nimmt nach Anhören der Gemeinden die Einteilung des Kantonsgebietes in Gewässerschutzbereiche vor und scheidet Grundwasserschutzareale aus.
 
 #### Art. 24
 
@@ -265,16 +264,13 @@ Die Regierung nimmt nach Anhören der Gemeinden die Einteilung des Kantonsgebiet
 
 **Verfahren**
 
-<sup>1</sup>[^25-1]Die Schutzzonenpläne und die dazugehörigen Reglemente werden in den betroffenen Gemeinden während 30 Tagen öffentlich aufgelegt. Die betroffenen Grundeigentümerinnen und Grundeigentümer werden mit persönlicher Anzeige von der öffentlichen Auflage in Kenntnis gesetzt.
+<sup>1</sup> Die Schutzzonenpläne und die dazugehörigen Reglemente werden in den betroffenen Gemeinden während 30 Tagen öffentlich aufgelegt. Die betroffenen Grundeigentümerinnen und Grundeigentümer werden mit persönlicher Anzeige von der öffentlichen Auflage in Kenntnis gesetzt.
 
 <sup>2</sup> Wer durch die Schutzzonenausscheidung berührt ist und ein schutzwürdiges Interesse an deren Aufhebung oder Änderung zu haben glaubt, kann während der Auflagefrist Einsprache erheben. Über die Einsprachen entscheidet der Gemeindevorstand.
 
-<sup>3</sup>[^25-2]Gegen Einspracheentscheide des Gemeindevorstands kann innert 30 Tagen seit Mitteilung bei der Regierung Beschwerde erhoben werden.
+<sup>3</sup> Gegen Einspracheentscheide des Gemeindevorstands kann innert 30 Tagen seit Mitteilung bei der Regierung Beschwerde erhoben werden.
 
 <sup>4</sup> Über Beschwerden entscheidet die Regierung gleichzeitig mit der Genehmigung der Schutzzonenpläne und der dazugehörigen Reglemente.
-
-[^25-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3326, am 1. Januar 2007 in Kraft getreten.
-[^25-2]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3326, am 1. Januar 2007 in Kraft getreten.
 
 #### Art. 26
 
@@ -284,23 +280,23 @@ Die Regierung nimmt nach Anhören der Gemeinden die Einteilung des Kantonsgebiet
 
 <sup>2</sup> Im Falle der vorsorglichen Ausscheidung können die Kosten auf diejenigen abgewälzt werden, welche künftig Wasser beziehen.
 
-[^26-1]: BR 801.100 6 01.12.2012
+[^26-1]: BR [801.100](https://www.gr-lex.gr.ch/data/801.100/de)
 
-### IV. Umgang mit wassergefährdenden Flüssigkeiten
+## 4. Umgang mit wassergefährdenden Flüssigkeiten
 
 #### Art. 27
 
 **Sammelstellen**
 
-Die Einrichtung von Sammelstellen für wassergefährdende Flüssigkeiten sowie deren unschädliche Verwertung oder Beseitigung richtet sich nach den Vorschriften über die Beseitigung von Sonderabfällen der kantonalen Abfallgesetzgebung.
+<sup>1</sup> Die Einrichtung von Sammelstellen für wassergefährdende Flüssigkeiten sowie deren unschädliche Verwertung oder Beseitigung richtet sich nach den Vorschriften über die Beseitigung von Sonderabfällen der kantonalen Abfallgesetzgebung.
 
 #### Art. 28
 
 **Betriebsanlagen und Kreisläufe mit wassergefährdenden Flüssigkeiten**
 
-Für Betriebsanlagen und für Kreisläufe mit wassergefährdenden Flüssigkeiten, die dem Wasser oder dem Boden Wärme entziehen oder abgeben, ist eine Bewilligung des Kantons erforderlich.
+<sup>1</sup> Für Betriebsanlagen und für Kreisläufe mit wassergefährdenden Flüssigkeiten, die dem Wasser oder dem Boden Wärme entziehen oder abgeben, ist eine Bewilligung des Kantons erforderlich.
 
-### V. Schadenverhütung und -behebung
+## 5. Schadenverhütung und -behebung
 
 #### Art. 29
 
@@ -314,98 +310,55 @@ Für Betriebsanlagen und für Kreisläufe mit wassergefährdenden Flüssigkeiten
 
 <sup>4</sup> Die Regierung erlässt durch Verordnung[^29-1] die näheren Vorschriften über den Schadendienst.
 
-[^29-1]: BR 815.500 01.12.2012 7
+[^29-1]: BR [815.500](https://www.gr-lex.gr.ch/data/815.500/de)
 
 #### Art. 30
 
 **Vorsorgliche Massnahmen**
 
-Zur Abwehr einer unmittelbar drohenden Gefahr für die Gewässer können die für den Schadendienst zuständigen Behörden im Rahmen ihrer Zuständigkeit vorsorgliche Massnahmen anordnen.
+<sup>1</sup> Zur Abwehr einer unmittelbar drohenden Gefahr für die Gewässer können die für den Schadendienst zuständigen Behörden im Rahmen ihrer Zuständigkeit vorsorgliche Massnahmen anordnen.
 
-### VI. Kantonsbeiträge
+## 6. Kantonsbeiträge
 
 #### Art. 31
 
-**Vom Bund unterstützte Vorhaben**
+**Innovative Vorhaben**
 
-<sup>1</sup> Der Kanton leistet Beiträge von höchstens 30 Prozent an die durch den Bund unterstützten Vorhaben.
+<sup>1</sup> Der Kanton kann Beiträge an innovative Vorhaben und Anlagen zur Behandlung des Abwassers gewähren, sofern diese einen substantiellen Beitrag zur Schonung der natürlichen Ressourcen oder zur Verminderung der Umweltbelastung leisten.
 
-<sup>2</sup>[^31-1]Für die vom Bund unterstützten Abfallanlagen und Einrichtungen zum Schutz von Gewässern bei Abfalldeponien beträgt der Beitragssatz des Kantons höchstens 25 Prozent.
-
-[^31-1]: Fassung gemäss Art. 59 des EG zum BG über den Umweltschutz 8 01.12.2012
+<sup>2</sup> …
 
 #### Art. 32
 
-**Übrige Vorhaben**
-
-<sup>1</sup> Der Kanton leistet ausserdem Beiträge von höchstens 30 Prozent an folgende Vorhaben:
-
-- a) Erstellung und Erweiterung zentraler Abwasserreinigungsanlagen;
-
-- b) zusätzliche Massnahmen bei zentralen Abwasserreinigungsanlagen zur Erfüllung der Anforderungen an die Wasserqualität;
-
-- c) generelle Entwässerungsplanung;
-
-- d) Sammelleitungen, die sich ausserhalb der Bauzone befinden;
-
-- e) Sammelleitungen, die von mindestens zwei Gemeinden benutzt werden;
-
-- f) Regenbecken;
-
-- g) Anlagen zur Behandlung oder Verwertung von entwässertem und gefaultem Klärschlamm.
-
-<sup>2</sup> Für Anlagen zur Behandlung oder Verwertung von Siedlungsabfällen leistet der Kanton Beiträge von höchstens 25 Prozent.
+**…**
 
 #### Art. 33
 
-**Voraussetzungen und Höhe**
-
-<sup>1</sup> Beiträge werden nur geleistet, wenn die vorgesehene Lösung auf einer zweckmässigen Planung beruht, einen sachgemässen Gewässerschutz gewährleistet, dem Stand der Technik entspricht und wirtschaftlich ist.
-
-<sup>2</sup> Beiträge werden an die anerkannten Kosten ausgerichtet und nach der Finanzkraft der Gemeinden abgestuft. Die Regierung erlässt Vorschriften über die anrechenbaren Kosten, die Berücksichtigung der Finanzkraft der Gemeinden und das Beitragsverfahren.
-
-<sup>3</sup> Dient eine Abwasseranlage auch der Ableitung oder der Reinigung von Abwasser aus einzelnen Industriebetrieben, so kann der Beitrag gekürzt werden.
-
-<sup>4</sup> Betrieb, Unterhalt und Sanierung sowie der Ersatz von Anlagen oder Anlageteilen, an die bei der Erstellung Beiträge ausgerichtet wurden, sind nicht beitragsberechtigt.
-
-<sup>5</sup> Erfolgt der Baubeginn oder die Bestellung vor Erlass der Beitragsverfügung, entfällt die Beitragsberechtigung.
+**…**
 
 #### Art. 34
 
-**Finanzierung, Prioritätenordnung**
-
-<sup>1</sup>[^34-1]Die finanziellen Mittel des Kantons werden durch den Grossen Rat im Rahmen des Budgets bereitgestellt.
-
-<sup>2</sup> Übersteigen die eingereichten oder zu erwartenden Gesuche die verfügbaren Mittel, so erstellt die Fachstelle eine Prioritätenordnung, nach der die Gesuche behandelt werden.
-
-[^34-1]: Fassung gemäss Anhang zum Gesetz über den Finanzhaushalt des Kantons Graubünden, BR 710.100; am 1. Dezember 2012 in Kraft getreten.
+**…**
 
 #### Art. 35
 
-**Rückerstattung**
+**…**
 
-<sup>1</sup> Zu Unrecht bezogene Beiträge sind zurückzuerstatten, insbesondere auch, wenn die mit der Ausrichtung verbundenen Bedingungen und Auflagen nicht eingehalten werden.
-
-<sup>2</sup> Der Rückerstattungsanspruch verjährt nach den Vorschriften des Bundesgesetzes.
-
-### VII. Rechtspflege
+## 7. Rechtspflege
 
 #### Art. 36
 
-**Rechtsmittel verfahren**
+**Rechtsmittelverfahren**
 
-<sup>1</sup>[^36-1]Verfügungen von Gemeinden, Gemeindeverbindungen sowie der Fachstelle, die im Zusammenhang mit einer Baubewilligung stehen, können innert 30 Tagen mit Beschwerde an das Verwaltungsgericht weitergezogen werden.
+<sup>1</sup> Verfügungen von Gemeinden, Gemeindeverbindungen sowie der Fachstelle, die im Zusammenhang mit einer Baubewilligung stehen, können innert 30 Tagen mit Beschwerde an das Obergericht weitergezogen werden.
 
-<sup>2</sup>[^36-2]Andere Verfügungen der Fachstelle unterliegen der Verwaltungsbeschwerde gemäss Verwaltungsrechtspflegegesetz[^36-3].
+<sup>2</sup> Andere Verfügungen der Fachstelle unterliegen der Verwaltungsbeschwerde gemäss Verwaltungsrechtspflegegesetz[^36-1].
 
-<sup>3</sup> …[^36-4]
+<sup>3</sup> …
 
-[^36-1]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3326, am 1. Januar 2007 in Kraft getreten.
-[^36-2]: Fassung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3326, am 1. Januar 2007 in Kraft getreten.
-[^36-3]: BR 370.100
-[^36-4]: Aufgehoben gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3326, am 1. Januar 2007 in Kraft getreten. 01.12.2012 9
+[^36-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
-### VIII. Strafbestimmungen
+## 8. Strafbestimmungen
 
 #### Art. 37
 
@@ -415,37 +368,37 @@ Zur Abwehr einer unmittelbar drohenden Gefahr für die Gewässer können die fü
 
 <sup>2</sup> Für die Verfolgung und Beurteilung der im Bundesgesetz[^37-1] genannten Übertretungen ist das Departement zuständig.
 
-[^37-1]: SR 814.20
+[^37-1]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### Art. 38
 
 **Beizug der Fachstelle**
 
-Die zuständigen Untersuchungs- und Gerichtsbehörden können Organe der Fachstelle als Sachverständige in Fragen des Gewässerschutzes beiziehen.
+<sup>1</sup> Die zuständigen Untersuchungs- und Gerichtsbehörden können Organe der Fachstelle als Sachverständige in Fragen des Gewässerschutzes beiziehen.
 
 #### Art. 39
 
 **Mitteilung**
 
-Strafurteile, Ablehnungs- und Einstellungsverfügungen sind auch der Fachstelle mitzuteilen.
+<sup>1</sup> Strafurteile, Ablehnungs- und Einstellungsverfügungen sind auch der Fachstelle mitzuteilen.
 
-### IX. Schlussbestimmungen
+## 9. Schlussbestimmungen
 
 #### Art. 40
 
 **Vollziehungsverordnung**
 
-Der Grosse Rat erlässt eine Vollziehungsverordnung zu diesem Gesetz[^40-1].
+<sup>1</sup> Der Grosse Rat erlässt eine Vollziehungsverordnung zu diesem Gesetz[^40-1].
 
-[^40-1]: BR 815.200
+[^40-1]: BR [815.200](https://www.gr-lex.gr.ch/data/815.200/de)
 
 #### Art. 41
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten dieses Gesetzes sind alle damit in Widerspruch stehenden Vorschriften aufgehoben, insbesondere das Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer gegen Verunreinigung vom 4. Oktober 1959[^41-1].
+<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes sind alle damit in Widerspruch stehenden Vorschriften aufgehoben, insbesondere das Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer gegen Verunreinigung vom 4. Oktober 1959[^41-1].
 
-[^41-1]: AGS 1960, 93 und AGS 1995, 3411 10 01.12.2012
+[^41-1]: AGS 1960, 93 und AGS 1995, 3411
 
 #### Art. 42
 
@@ -454,29 +407,29 @@ Mit dem Inkrafttreten dieses Gesetzes sind alle damit in Widerspruch stehenden V
 <sup>1</sup> Solange eine Gemeinde nicht über einen generellen Entwässerungsplan verfügt, sorgt sie nach den Anordnungen der Fachstelle dafür, dass nicht verschmutztes Abwasser je nach den örtlichen Gegebenheiten wie folgt behandelt wird:
 
 - a) sofern es die hydrologischen und geologischen Verhältnisse erlauben, ist es versickern zu lassen;
-
 - b) ist eine Versickerung nicht möglich, ist es mit Bewilligung der kantonalen Behörde offen oder über Regenwasserleitungen in ein oberirdisches Gewässer einzuleiten;
-
 - c) ist keine der erwähnten Arten der Behandlung möglich, kann das unverschmutzte Abwasser der Abwasserreinigungsanlage zugeleitet werden.
 
 #### Art. 43
 
 **2. Stetig anfallendes, nicht verschmutztes Abwasser**
 
-Die Gemeinden sorgen nach Massgabe des Bundesgesetzes[^43-1] dafür, dass Beeinträchtigungen der Wirkung ihrer Abwasserreinigungsanlage durch stetig anfallendes, nicht verschmutztes Abwasser behoben werden.
+<sup>1</sup> Die Gemeinden sorgen nach Massgabe des Bundesgesetzes[^43-1] dafür, dass Beeinträchtigungen der Wirkung ihrer Abwasserreinigungsanlage durch stetig anfallendes, nicht verschmutztes Abwasser behoben werden.
 
-[^43-1]: SR 814.20
+[^43-1]: SR [814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### Art. 44
 
 **3. Anpassung kommunaler Erlasse**
 
-Die Gemeindeerlasse sind innert fünf Jahren nach Inkrafttreten dieses Gesetzes den neuen Vorschriften anzupassen.
+<sup>1</sup> Die Gemeindeerlasse sind innert fünf Jahren nach Inkrafttreten dieses Gesetzes den neuen Vorschriften anzupassen.
 
 #### Art. 45
 
 **Inkrafttreten**
 
-Dieses Gesetz wird nach seiner Annahme durch das Volk von der Regierung in Kraft[^45-1] gesetzt.
+<sup>1</sup> Dieses Gesetz wird nach seiner Annahme durch das Volk von der Regierung in Kraft[^45-1] gesetzt.
 
-[^45-1]: Mit RB vom 1. Juli 1997 auf den 1. Oktober 1997 in Kraft gesetzt. 01.12.2012 11
+[^45-1]: Mit RB vom 1. Juli 1997 auf den 1. Oktober 1997 in Kraft gesetzt.
+
+-
