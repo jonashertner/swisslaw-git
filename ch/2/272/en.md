@@ -4,11 +4,11 @@ title: "Swiss Civil Procedure Code of 19 December 2008 (Civil Procedure Code, CP
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: en
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230901/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230901-en-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20250101-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Civil Procedure Code, CPC)
 
-of 19 December 2008 (Status as of 1 September 2023)
+of 19 December 2008 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ based on Article 122 paragraph 1 of the Federal Constitution[^ingress-1], and ha
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)
 
 ## Part 1 General Provisions
@@ -51,7 +51,7 @@ This Code governs the proceedings before the cantonal authorities for:
 
 The provisions of international treaties and of the Federal Act of 18 December 1987[^2-1] on Private International Law (PILA) are reserved.
 
-[^2-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^2-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 #### Art. 3
 
@@ -82,53 +82,75 @@ The cantonal law designates the court that has jurisdiction as sole cantonal ins
 - a. disputes in connection with intellectual property rights, including disputes concerning the nullity, ownership, licensing, transfer and violation of such rights;
 - b. cartel law disputes;
 - c. disputes on the use of a business name;
-- d. disputes under the Unfair Competition Act of 19 December 1986[^5-1] if the amount in dispute exceeds 30,000 francs or if the Confederation exercises its right to file an action;
+- d. disputes under the Unfair Competition Act of 19 December 1986[^5-1] if the value in dispute exceeds 30,000 francs or if the Confederation exercises its right to file an action;
 - e.[^5-2] disputes under the Nuclear Energy Public Liability Act of 13 June 2008[^5-3];
+- f.[^5-4] actions against the Confederation, provided the value in dispute exceeds CHF 30,000;
 - f. claims against the Confederation;
-- g.[^5-4] disputes relating to the instigation and conduct of a special investigation in accordance with Articles 697*c–*697*h*<sup>bis</sup> of the Code of Obligations (CO)[^5-5];
-- h.[^5-6] disputes under the Collective Investment Schemes Act of 23 June 2006[^5-7], the Financial Market Infrastructure Act of 19 June 2015[^5-8] and the Financial Institutions Act of 15 June 2018[^5-9];
-- i.[^5-10] disputes under the Coat of Arms Protection Act of 21 June 2013[^5-11], the Federal Act of 25 March 1954[^5-12] on the Protection of the Emblem and Name of the Red Cross and the Federal Act of 15 December 1961[^5-13] on the Protection of the Names and Emblems of the United Nations Organization and other Intergovernmental Organisations.
+- g.[^5-5] disputes relating to the instigation and conduct of a special investigation in accordance with Articles 697*c–*697*h*<sup>bis</sup> of the Code of Obligations (CO)[^5-6];
+- h.[^5-7] disputes under the Collective Investment Schemes Act of 23 June 2006[^5-8], the Financial Market Infrastructure Act of 19 June 2015[^5-9] and the Financial Institutions Act of 15 June 2018[^5-10];
+- i.[^5-11] disputes under the Coat of Arms Protection Act of 21 June 2013[^5-12], the Federal Act of 25 March 1954[^5-13] on the Protection of the Emblem and Name of the Red Cross and the Federal Act of 15 December 1961[^5-14] on the Protection of the Names and Emblems of the United Nations Organization and other Intergovernmental Organisations.
 
 <sup>2</sup> This court is also competent to order interim measures before an action is pending.
 
-[^5-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^5-1]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 [^5-2]: Amended by Annex 2 No 1, in force since 1 Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^5-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-4]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^5-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-6]: Amended by Annex No II 4 of the Financial Institutes Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-7]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-8]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-9]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-10]: Inserted by Annex 3 No II 3 of the Coat of Arms Protection Act of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-11]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-12]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-13]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-3]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
+[^5-4]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^5-5]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^5-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^5-7]: Amended by Annex No II 4 of the Financial Institutes Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-8]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^5-9]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^5-10]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^5-11]: Inserted by Annex 3 No II 3 of the Coat of Arms Protection Act of 21 June 2013, in force since 1 Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-12]: [SR 232.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5987)
+[^5-13]: [SR 232.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5989)
+[^5-14]: [SR 232.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5991)
 
 #### Art. 6
 
-**Commercial Court**
+**Commercial court**
 
-<sup>1</sup> The cantons may designate a special court that has jurisdiction as sole cantonal instance for commercial disputes (Commercial Court).
+<sup>1</sup> The cantons may designate a special court that has jurisdiction as sole cantonal instance for commercial disputes (commercial court).
 
 <sup>2</sup>
 
 A dispute is considered commercial, if:
 
 - a. it concerns the commercial activity of at least one party;
-- b. the decision is subject to an objection in civil matters to the Federal Supreme Court; and
-- c. the parties are registered in the Swiss Commercial Registry or in an equivalent foreign registry.
+- b.[^6-1] the value in dispute exceeds CHF 30,000 or the dispute is not a property dispute;
+- c.[^6-2] the parties are registered as legal entities in the Swiss Commercial Register or in an equivalent foreign register; and
+- d.[^6-3] it is not a dispute arising from a employment relationship, under the Recruitment Act of 6 October 1989[^6-4], under the Gender Equality Act of 24 March 1995[^6-5], or relating to the renting or leasing of residential and commercial premises or to agricultural leases.
 
-<sup>3</sup> If only the defendant is registered in the Swiss Commercial Register or in an equivalent foreign register, but all the other conditions are met, the plaintiff may choose between the Commercial Court and the ordinary court.
+<sup>3</sup> If only the defendant is registered as a legal entity in the Swiss Commercial Register or in an equivalent foreign register, but all the other conditions are met, the plaintiff may choose between the commercial court and the ordinary court.[^6-6]
 
 <sup>4</sup>
 
-The cantons may also assign to the Commercial Court:
+The cantons may also assign to the commercial court:
 
 - a. the disputes mentioned in Article 5 paragraph 1;
-- b. the disputes relating to the law of commercial companies and cooperatives.
+- b. the disputes relating to the law of commercial companies and cooperatives;
+- c.[^6-7]
 
-<sup>5</sup> The Commercial Court is also competent to order interim measures before an action is pending.
+  disputes in which all the following conditions are met:
+
+  - 1\. The dispute concerns the business activities of at least one party.
+  - 2\. The value in dispute is at least CHF 100,000.
+  - 3\. The parties agree to the jurisdiction of the commercial court.
+  - 4\. At the time of this agreement, at least one party has its domicile, habitual residence or registered office abroad.
+
+<sup>5</sup> The commercial court is also competent to order interim measures before an action is pending.
+
+<sup>6</sup> If actions concern joint parties that are not all registered as legal entities in the Swiss Commercial Register or in a comparable foreign register, the commercial court shall only have jurisdiction if all actions fall within its jurisdiction.[^6-8]
+
+[^6-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-3]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-4]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^6-5]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^6-6]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-7]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-8]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 7
 
@@ -136,7 +158,7 @@ The cantons may also assign to the Commercial Court:
 
 The cantons may designate a court that has jurisdiction as sole cantonal instance for disputes relating to insurance supplementary to social health insurance under the Federal Act of 18 March 1994[^7-1] on Health Insurance.
 
-[^7-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^7-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
 
@@ -144,7 +166,9 @@ The cantons may designate a court that has jurisdiction as sole cantonal instanc
 
 <sup>1</sup> If in a financial dispute the value in dispute is at least CHF 100,000, the plaintiff may, with the consent of the defendant, file its action directly before the higher court.
 
-<sup>2</sup> This court decides as the sole cantonal instance.
+<sup>2</sup> This court decides as the sole cantonal instance. It is also responsible for ordering interim measures before an action becomes pending.[^8-1]
+
+[^8-1]: Second sentence inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Chapter 2 Territorial Jurisdiction
 
@@ -168,12 +192,14 @@ Unless this Code provides otherwise, the following court has jurisdiction:
 
 - a. for actions against a natural person: the court at the person's domicile;
 - b. for actions against legal entities, public corporations and institutions as well as general partnerships and limited partnerships: the court at the location of their registered office;
+- c.[^10-1] for actions against the Confederation: the court in the City of Bern or the court where the plaintiff's domicile, registered office or habitual residence is located;
 - c. for actions against the Confederation: the Supreme Court of the Canton of Bern or the supreme court of the canton where the plaintiff's domicile, registered office or habitual residence is located;
 - d. for actions against a canton: a court in the canton's capital.
 
-<sup>2</sup> Domicile is determined in accordance with the Civil Code (CC)[^10-1]. Article 24 CC does not apply.
+<sup>2</sup> Domicile is determined in accordance with the Civil Code (CC)[^10-2]. Article 24 CC does not apply.
 
-[^10-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^10-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^10-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 11
 
@@ -220,7 +246,7 @@ Unless the law provides otherwise, the following court has mandatory jurisdictio
 
 **Third party action**
 
-The court that has jurisdiction to decide the main action also decides on the third party action.
+The court that has jurisdiction to decide the main action also decides on the third-party action.
 
 #### Art. 17
 
@@ -256,7 +282,7 @@ The court at the domicile or registered office of either of the parties has juri
 - d.[^20-1] actions and requests under the Data Protection Act of 25 September 2020[^20-2] (FADP).
 
 [^20-1]: Amended by Annex 1 No II 24 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^20-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 21
 
@@ -264,7 +290,7 @@ The court at the domicile or registered office of either of the parties has juri
 
 The court at the last known domicile of the missing person has mandatory jurisdiction over applications relating to a declaration of death or declaration of presumed death (Art. 34 to 38 CC[^21-1]).
 
-[^21-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^21-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 22
 
@@ -379,7 +405,7 @@ The court at the place where the immovable property is situated has jurisdiction
 
 <sup>2</sup> If a job applicant or an employee brings an action based on the Recruitment Act of 6 October 1989[^34-1], the court at the place of the business establishment of the recruitment or hiring agent with whom the contract was concluded also has jurisdiction.
 
-[^34-1]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^34-1]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 35
 
@@ -418,7 +444,7 @@ The court at the domicile or registered office of the defendant or at the place 
 
 <sup>2</sup> Actions against the Swiss National Bureau of Insurance (Art. 74 of the Road Traffic Act of 19 December 1958[^38-1]; RTA) or against the Swiss National Guarantee Fund (Art. 76 RTA) may also be brought before the court at the place of any branch of such institutions.
 
-[^38-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^38-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 38a
 
@@ -463,7 +489,7 @@ The competence of the criminal court to decide incidental civil actions is reser
 
 The court at the registered office of one of the involved entities has jurisdiction to decide actions relating to the Mergers Act of 3 October 2003[^42-1].
 
-[^42-1]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^42-1]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 43
 
@@ -483,7 +509,7 @@ The court at the registered office of one of the involved entities has jurisdict
 
 The place of jurisdiction for the authorisation to convene a creditors' meeting is governed by Article 1165 CO[^44-1].
 
-[^44-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^44-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 45
 
@@ -497,7 +523,7 @@ The court at the registered office of the concerned licence holder has mandatory
 
 The place of jurisdiction for actions under the Federal Act of 11 April 1889[^46-1] on Debt Enforcement and Bankruptcy (DEBA) is determined by this chapter unless the DEBA provides for a place of jurisdiction.
 
-[^46-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^46-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Chapter 3 Recusal
 
@@ -526,7 +552,7 @@ Involvement in the following, in particular, is in itself no reason for recusal:
 - d. the ordering of interim measures;
 - e. proceedings for protection of the marital union.
 
-[^47-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^47-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 48
 
@@ -548,7 +574,7 @@ The judge or judicial officer concerned shall make a timely disclosure of any po
 
 <sup>1</sup> If the reason given for recusal is disputed, the court shall decide.
 
-<sup>2</sup> The decision may be challenged by objection.
+<sup>2</sup> An objection may be filed against the decision.
 
 #### Art. 51
 
@@ -558,7 +584,9 @@ The judge or judicial officer concerned shall make a timely disclosure of any po
 
 <sup>2</sup> If the taking of evidence cannot be repeated, the relevant evidence may be taken into consideration by the deciding court.
 
-<sup>3</sup> If a reason for recusal is detected only after the close of the proceedings, the provisions on review apply.
+<sup>3</sup> If a reason for recusal is detected only after the close of the proceedings and if no other legal remedy is still available, the provisions on review apply.[^51-1]
+
+[^51-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Title 3 Procedural Principles and Procedural Requirements
 
@@ -568,7 +596,11 @@ The judge or judicial officer concerned shall make a timely disclosure of any po
 
 **Acting in good faith**
 
-All those who participate in proceedings must act in good faith.
+<sup>1</sup> All those who participate in proceedings must act in good faith.
+
+<sup>2</sup> Incorrect instructions on appellate remedies are effective in relation to all courts to the extent that they are advantageous to the party invoking them.[^52-1]
+
+[^52-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 53
 
@@ -577,6 +609,10 @@ All those who participate in proceedings must act in good faith.
 <sup>1</sup> The parties have the right to be heard.
 
 <sup>2</sup> They have in particular the right to consult the case files and to obtain copies thereof provided this does not conflict with overriding public or private interests.
+
+<sup>3</sup> They may comment on all submissions made by the opposing party. The court shall set them a deadline of at least ten days to do so. If the deadline expires unused, it shall be assumed that the parties do not wish to comment.[^53-1]
+
+[^53-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 54
 
@@ -667,13 +703,14 @@ If the parties have concluded an arbitration agreement relating to an arbitrable
 
 **Pendency where the court has no jurisdiction or the procedure is incorrect**
 
-<sup>1</sup> If a submission that has been withdrawn or rejected due to lack of jurisdiction is filed again with the competent conciliation authority or court within one month of withdrawal or the declaration of non-admissibility, the date of the first filing is deemed to be the date of pendency.
+<sup>1</sup> If a submission that has been withdrawn or rejected due to lack of jurisdiction is filed again with the competent conciliation authority or court within one month of withdrawal or the declaration of non-admissibility, or if it is forwarded in accordance with Article 143 paragraph 1<sup>bis</sup>, the date of the first filing is deemed to be the date of pendency.[^63-1]
 
 <sup>2</sup> The same applies if the claim was not filed under the proper procedure.
 
-<sup>3</sup> The special statutory deadlines for filing actions under the DEBA[^63-1] are reserved.
+<sup>3</sup> The special statutory deadlines for filing actions under the DEBA[^63-2] are reserved.
 
-[^63-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^63-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^63-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 64
 
@@ -740,8 +777,8 @@ The following persons are allowed to act as professional representatives:
 
 <sup>4</sup> The court may order the personal appearance of a represented party.
 
-[^68-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
-[^68-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^68-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
+[^68-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 69
 
@@ -761,17 +798,23 @@ The following persons are allowed to act as professional representatives:
 
 <sup>1</sup> If two or more persons are in a legal relationship that calls for one single decision with effect for all of them, they must jointly appear as plaintiffs or be sued as joint defendants.
 
-<sup>2</sup> Procedural measures duly taken by one of the joint parties are likewise effective for the others, with the exception of challenging a decision.
+<sup>2</sup> Procedural acts duly carried out by one of the joint parties are likewise effective for the others, with the exception of challenging a decision.
 
 #### Art. 71
 
-**Voluntary joinder**
+**Voluntary joinder**[^71-1]
 
-<sup>1</sup> Two or more persons whose rights and duties result from similar circumstances or legal grounds may jointly appear as plaintiffs or be sued as joint defendants.
+<sup>1</sup>
 
-<sup>2</sup> Voluntary joinder is excluded if the individual cases are subject to different types of procedure.
+Two or more persons may jointly appear as plaintiffs or be sued as joint defendants provided:
 
-<sup>3</sup> Each of the joint parties may proceed independently from the others.
+- a. rights and duties resulting from similar circumstances or legal grounds are to be assessed;
+- b. the individual cases are not subject to different types of procedure; and
+- c. the same court has material jurisdiction.
+
+<sup>2</sup> Each of the joint parties may proceed independently from the others.
+
+[^71-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 72
 
@@ -803,7 +846,7 @@ Any person who shows a credible legal interest in having a pending dispute decid
 
 <sup>1</sup> The application for intervention shall indicate the reasons for intervention and the party in whose favour the intervention is made.
 
-<sup>2</sup> The court decides on the application after hearing the parties. The decision may be challenged by way of objection.
+<sup>2</sup> The court decides on the application after hearing the parties. An objection may be filed against the decision.
 
 #### Art. 76
 
@@ -822,9 +865,9 @@ A result that is unfavourable to the principal party is effective against the in
 - a. the state of the proceedings at the moment of intervention or the acts or omissions of the principal party have prevented the intervenor from making use of offensive or defensive measures; or
 - b. the principal party has failed, wilfully or through gross negligence, to make use of offensive or defensive measures of which the intervenor was not aware.
 
-### Chapter 5 Third Party Notice and Third Party Action
+### Chapter 5 Third-Party Notice and Third-Party Action
 
-### Section 1 Third Party Notice
+### Section 1 Third-Party Notice
 
 #### Art. 78
 
@@ -853,29 +896,40 @@ The notified third party may:
 
 Article 77 applies by analogy.
 
-### Section 2 Third Party Action
+### Section 2 Third-Party Action
 
 #### Art. 81
 
 **Principles**
 
-<sup>1</sup> The notifying party may assert the rights that he or she believes he or she will have against the notified third party in the event that he or she is unsuccessful in the court that is dealing with the main action.
+<sup>1</sup>
 
-<sup>2</sup> The notified third party may not bring a further third party action.
+The notifying party may assert the rights that he or she believes, in the event that he or she is unsuccessful, he or she will have against the notified party instituting the dispute or that it fears the notified party may have against it before the court hearing the main action, provided that:
 
-<sup>3</sup> The third party action is not admissible under the simplified or summary procedures.
+- a. the claims are factually related to the main action;
+- b. the court has material jurisdiction; and
+- c. the main action and the claims are to be assessed in ordinary proceedings.[^81-1]
+
+<sup>2</sup> The notified third party may not bring a further third-party action.
+
+<sup>3</sup> …[^81-2]
+
+[^81-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^81-2]: Repealed by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), with effect from 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 82
 
 **Procedure**
 
-<sup>1</sup> The request for the third party action to be admitted must be made with the answers or the reply in the main proceedings. The notifying party shall set out the prayers to be raised against the third party together with a brief statement of the grounds.
+<sup>1</sup> The request for the third-party action to be admitted must be made with the answers or the reply in the main proceedings. The notifying party shall set out the prayers to be raised against the third party together with a brief statement of the grounds. They shall not be quantified if they relate to the same contractual performance to which the notified party is obliged in the main proceedings.[^82-1]
 
 <sup>2</sup> The court shall give the opposing party and the third party the opportunity to respond.
 
-<sup>3</sup> If the third party action is admitted, the court shall determine the time and extent of the related exchange of written submissions, subject to Article 125.
+<sup>3</sup> If the third-party action is admitted, the court shall determine the time and extent of the related exchange of written submissions, subject to Article 125.
 
-<sup>4</sup> The decision to admit the third party action may be challenged by way of objection.
+<sup>4</sup> An objection may be filed against the decision to admit the third-party action.
+
+[^82-1]: Third sentence inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Chapter 6 Substitution of a Party
 
@@ -905,7 +959,9 @@ Article 77 applies by analogy.
 
 <sup>1</sup> If it is impossible or unreasonable to quantify the amount of the debt at the start of the proceedings, the plaintiff may bring an action for an unquantified debt. However, the plaintiff must indicate a minimal amount as a provisional value in dispute.
 
-<sup>2</sup> Once evidence is taken or the required information furnished by the defendant, the plaintiff must quantify the debt claim as soon as he or she is able to do so. The seised court maintains competence even if the value in dispute exceeds its material jurisdiction.
+<sup>2</sup> Once evidence is taken or the required information furnished by the parties or third parties, the court shall set a deadline for the parties to quantify their claim.[^85-1] The seised court maintains competence even if the value in dispute exceeds its material jurisdiction.
+
+[^85-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 86
 
@@ -945,10 +1001,16 @@ They may request the court:
 
 **Combination of actions**
 
+<sup>1</sup>
+
 The plaintiff may combine two or more claims against the same party in one action, if:
 
 - a. they are within the material jurisdiction of the same court; and
 - b. they are subject to the same type of procedure.
+
+<sup>2</sup> The combination of actions is also permitted if a difference in material jurisdiction or type of proceedings is based solely on the value in dispute. If different types of proceedings apply to the individual claims, they shall be assessed together in the ordinary proceedings.[^90-1]
+
+[^90-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Title 7 Value in Dispute
 
@@ -984,6 +1046,18 @@ The plaintiff may combine two or more claims against the same party in one actio
 
 <sup>2</sup> For the purpose of determining the costs, the values of the action and the counterclaim are added together insofar as they are not mutually exclusive.
 
+<sup>3</sup> If the main action is a partial action, the legal costs are calculated solely on the basis of the value in dispute in the main action.[^94-1]
+
+[^94-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 94a
+
+**Group action**[^94a-1]
+
+In the case of a group action, if the parties are unable to agree on the value in dispute, or if the value they put forward is obviously incorrect, the court shall determine the value in dispute in accordance with the interests of the individual members of the group of persons concerned and the importance of the case.
+
+[^94a-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
 ### Title 8 Costs and Legal Aid
 
 ### Chapter 1 Procedural Costs
@@ -994,14 +1068,14 @@ The plaintiff may combine two or more claims against the same party in one actio
 
 <sup>1</sup>
 
-The procedural costs include:
+The procedural costs are:
 
 - a. the court costs;
 - b. the party costs.
 
 <sup>2</sup>
 
-The court costs include:
+The court costs are:
 
 - a. the fee for the conciliation proceedings;
 - b. the fee for the decision (judgment fee);
@@ -1011,17 +1085,22 @@ The court costs include:
 
 <sup>3</sup>
 
-The party costs include:
+The party costs are:
 
 - a. the reimbursement of necessary outlays;
-- b. the costs for professional representation;
-- c. in justified cases: reasonable compensation for personal efforts if a party is not professionally represented.
+- b. the costs of professional representation;
+- c. in justified cases: reasonable compensation for personal expenses if a party is not professionally represented.
 
 #### Art. 96
 
-**Tariffs**
+**Tariffs and right of representatives to party costs**[^96-1]
 
-The cantons set the tariffs for the procedural costs.
+<sup>1</sup> The cantons set the tariffs for the procedural costs. The fee regulations pursuant to Article 16 paragraph 1 DEBA remain reserved[^96-2].
+
+<sup>2</sup> The cantons may provide that the lawyer has an exclusive claim to the fees and expenses awarded as party costs.
+
+[^96-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^96-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 97
 
@@ -1031,9 +1110,20 @@ The court shall advise a party without legal representation on the costs to be e
 
 #### Art. 98
 
-**Advance payment of costs**
+**Advance payment of costs**[^98-1]
 
-The court may demand that the plaintiff make an advance payment up to the amount of the expected court costs.
+<sup>1</sup> The court or the conciliation authority may demand that the plaintiff make an advance payment not exceeding one half of the expected court costs.
+
+<sup>2</sup>
+
+It may request an advance payment not exceeding the total estimated court costs in the following cases:
+
+- a. proceedings under Article 6 paragraph 4 letter c and Article 8;
+- b. conciliation proceedings;
+- c. summary proceedings, with the exception of interim measures under Article 248 letter d and family law disputes under Articles 271, 276, 302 and 305;
+- d. appellate proceedings.
+
+[^98-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 99
 
@@ -1048,7 +1138,7 @@ At the request of the defendant, the plaintiff must provide security for party c
 - c. if he or she owes costs from prior proceedings; or
 - d. if for other reasons there seems to be a considerable risk that the compensation will not be paid.
 
-<sup>2</sup> In the case of mandatory joinder, security must be provided only if each party fulfils one of the above mentioned conditions.
+<sup>2</sup> In the case of mandatory joinder, security must be provided only if each party fulfils one of the above-mentioned conditions.
 
 <sup>3</sup>
 
@@ -1060,7 +1150,7 @@ No security need be provided:
 - d.[^99-1] in proceedings relating to a dispute under the FADP[^99-2].
 
 [^99-1]: Inserted by Annex 1 No II 24 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^99-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^99-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 100
 
@@ -1082,7 +1172,7 @@ No security need be provided:
 
 #### Art. 102
 
-**Advance for taking of evidence**
+**Advance for taking evidence**
 
 <sup>1</sup> Each party shall advance the costs for taking the evidence that he or she requires.
 
@@ -1094,7 +1184,7 @@ No security need be provided:
 
 **Appellate remedy**
 
-Decisions relating to advances of costs and security may be challenged by way of objection.
+An objection may be filed against decisions relating to advances of costs and security.
 
 ### Chapter 2 Allocation and Settlement of Procedural Costs
 
@@ -1122,11 +1212,13 @@ Decisions relating to advances of costs and security may be challenged by way of
 
 **General principles of allocation**
 
-<sup>1</sup> The costs are charged to the unsuccessful party. If an action is not admitted by the court or if it is withdrawn, the plaintiff is deemed to be the unsuccessful party; in case of acceptance of the claim it is the defendant.
+<sup>1</sup> The costs are charged to the unsuccessful party. If an action is not admitted by the court or if it is withdrawn, the plaintiff is deemed to be the unsuccessful party; in the event of the acceptance of the claim it is the defendant.
 
 <sup>2</sup> If no party entirely is successful, the costs are allocated in accordance with the outcome of the case.
 
-<sup>3</sup> If three or more persons are participating in the proceedings as principal parties or accessory parties, the court shall determine each party's share of the costs. It may hold the parties jointly and severally liable.
+<sup>3</sup> If three or more persons are participating in the proceedings as principal parties or accessory parties, the court shall determine each party's share of the costs according to the extent of their participation. In the case of mandatory joinder, it may decide that they are jointly and severally liable.[^106-1]
+
+[^106-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 107
 
@@ -1172,17 +1264,20 @@ The costs are allocated according to Articles 106–108:
 
 **Appellate remedy**
 
-The decision on costs may be separately challenged by way of objection only.
+The decision on costs may be separately challenged by filing an objection only.
 
 #### Art. 111
 
 **Recovery of costs**
 
-<sup>1</sup> The court costs are set off against the advances paid by the parties. The balance is collected from the person liable to pay.
+<sup>1</sup> Where a party who has paid an advance is ordered to pay costs, the court costs shall be set off against the advances paid. Otherwise an advance shall be refunded. The party liable to pay the costs shall be required to pay any shortfall.[^111-1]
 
-<sup>2</sup> The party liable to pay shall reimburse the other party his or her advances and shall pay the other party the party costs awarded.
+<sup>2</sup> The party liable to pay the costs shall pay the other party the party costs awarded.[^111-2]
 
 <sup>3</sup> The provisions on legal aid are reserved.
+
+[^111-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^111-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 112
 
@@ -1209,18 +1304,18 @@ No court costs are charged in disputes:
 - a. relating to the Gender Equality Act of 24 March 1995[^113-1];
 - b. relating to the Disability Discrimination Act of 13 December 2002[^113-2];
 - c. relating to the rental and lease of residential and business property or the lease of agricultural property;
-- d. relating to an employment contract or the Recruitment Act of 6 October 1989[^113-3] up to an amount in dispute of 30,000 francs;
+- d. relating to an employment contract or the Recruitment Act of 6 October 1989[^113-3] up to an value in dispute of 30,000 francs;
 - e. relating to the Participation Act of 17 December 1993[^113-4];
 - f. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[^113-5] on Health Insurance;
 - g.[^113-6] under the FADP[^113-7].
 
-[^113-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^113-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^113-3]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
-[^113-4]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^113-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^113-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^113-2]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^113-3]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^113-4]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^113-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^113-6]: Inserted by Annex 1 No II 24 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^113-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^113-7]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 114
 
@@ -1230,21 +1325,21 @@ In litigation proceedings, no court costs are charged in disputes:
 
 - a. relating to the Gender Equality Act of 24 March 1995[^114-1];
 - b. relating to the Disability Discrimination Act of 13 December 2002[^114-2];
-- c. relating to an employment contract or the Recruitment Act of 6 October 1989[^114-3] up to an amount in dispute of 30,000 francs;
+- c. relating to an employment contract or the Recruitment Act of 6 October 1989[^114-3] up to an value in dispute of 30,000 francs;
 - d. relating to the Participation Act of 17 December 1993[^114-4];
 - e. relating to insurance supplementary to the social health insurance under the Federal Act of 18 March 1994[^114-5] on Health Insurance;
 - f.[^114-6] because of violence, threats or harassment under Article 28*b* CC[^114-7] or relating to electronic monitoring under Article 28*c* CC;
 - g.[^114-8] under the FADP[^114-9].
 
-[^114-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^114-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^114-3]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
-[^114-4]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^114-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^114-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^114-2]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^114-3]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^114-4]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^114-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^114-6]: Inserted by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^114-7]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^114-7]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^114-8]: Inserted by Annex 1 No II 24 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^114-9]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^114-9]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 115
 
@@ -1254,7 +1349,7 @@ In litigation proceedings, no court costs are charged in disputes:
 
 <sup>2</sup> In the case of litigation relating to Article 114 letter f, court costs may also be charged to the unsuccessful party if an injunction pursuant to Article 28*b* CC[^115-1] or electronic monitoring pursuant to Article 28*c* CC is ordered against them.[^115-2]
 
-[^115-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^115-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^115-2]: Inserted by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 116
@@ -1288,9 +1383,11 @@ Legal aid comprises:
 - b. an exemption from court costs;
 - c. the appointment by the court of a legal agent under the legal aid system if this is necessary to protect the rights of the party concerned, and in particular if the opposing party is represented by a legal agent; the legal agent under the legal aid system may be appointed prior to the court hearing in order to prepare the proceedings.
 
-<sup>2</sup> Legal aid may be granted for all or part of the case.
+<sup>2</sup> Legal aid may be granted for all or part of the case. It can also be granted for the precautionary taking of evidence.[^118-1]
 
 <sup>3</sup> The grant of legal aid does not relieve the party concerned from paying party costs to the opposing party.
+
+[^118-1]: Second sentence inserted by No I of the FA of 17 March 2023 (Improvement of Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 119
 
@@ -1318,7 +1415,7 @@ The court shall revoke legal aid if the conditions are no longer fulfilled or if
 
 **Appellate remedy**
 
-The decision by which legal aid is refused or revoked in full or in part may be challenged by way of objection.
+An objection may be filed against the decision by which legal aid is refused or revoked in full or in part.
 
 #### Art. 122
 
@@ -1345,7 +1442,7 @@ If a party with legal aid is unsuccessful, the costs shall be settled as follows
 
 ### Title 9 Director of Proceedings, Procedural Acts and Deadlines
 
-### Chapter 1 Director of proceedings
+### Chapter 1 Director of Proceedings
 
 #### Art. 124
 
@@ -1374,7 +1471,7 @@ In order to simplify the proceedings, the court may, in particular:
 
 <sup>1</sup> The court may suspend proceedings if appropriate. The proceedings may be suspended in particular if the decision depends on the outcome of other proceedings.
 
-<sup>2</sup> Suspension may be challenged by way of objection.
+<sup>2</sup> An objection may be filed against the suspension.
 
 #### Art. 127
 
@@ -1382,7 +1479,7 @@ In order to simplify the proceedings, the court may, in particular:
 
 <sup>1</sup> If factually connected cases are pending before different courts, the subsequently seised court may transfer the case to the court seised first if that court agrees to take over.
 
-<sup>2</sup> The transfer may be challenged by way of objection.
+<sup>2</sup> An objection may be filed against the transfer.
 
 #### Art. 128
 
@@ -1394,7 +1491,7 @@ In order to simplify the proceedings, the court may, in particular:
 
 <sup>3</sup> In the event of bad faith or vexatious conduct, the parties and their representatives shall be liable to a disciplinary fine not exceeding 2,000 francs, and in the event of a repetition not exceeding 5,000 francs.
 
-<sup>4</sup> The disciplinary fine may be challenged by way of objection.
+<sup>4</sup> An objection may be filed against the disciplinary fine.
 
 ### Chapter 2 Forms of Procedural Acts
 
@@ -1402,7 +1499,16 @@ In order to simplify the proceedings, the court may, in particular:
 
 #### Art. 129
 
-The proceedings shall be held in the official language of the canton in which the case is heard. Cantons that recognise two or more official languages shall regulate their use in the proceedings.
+<sup>1</sup> The proceedings shall be held in the official language of the canton in which the case is heard. Cantons that recognise two or more official languages shall regulate their use in the proceedings.
+
+<sup>2</sup>
+
+Cantonal law may provide for the following languages to be used at the request of all parties:
+
+- a. a different national language, whereby no party may waive the language of proceedings in accordance with paragraph 1 in advance;
+- b. English in international commercial disputes under Article 6 paragraph 4 letter c before the commercial court or the ordinary court.[^129-1]
+
+[^129-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Section 2 Party Submissions
 
@@ -1421,7 +1527,7 @@ In the case of electronic submission, the submission and its enclosures must bea
 - c. the requirements for requesting the submission of documents in paper form in the event of technical problems.
 
 [^130-1]: Amended by Annex No II 5 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^130-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^130-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 131
 
@@ -1450,10 +1556,13 @@ The summons contains:
 - a. the name and address of the summoned party;
 - b. the matter in dispute and the parties;
 - c. the capacity in which the party is summoned;
+- d.[^133-1] the place, date and time of the required appearance or the availability required when using electronic equipment for audio or video transmission;
 - d. the place, date and time of the appearance;
 - e. the procedural act to which the party is summoned;
 - f. the consequences of default;
 - g. the date of the summons and the seal of the court.
+
+[^133-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 134
 
@@ -1521,7 +1630,7 @@ The Federal Council regulates:
 - d. the point in time at which the summons, ruling or decision is deemed to have been served.
 
 [^139-1]: Amended by Annex No II 5 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^139-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^139-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 140
 
@@ -1543,7 +1652,39 @@ Service shall be effected by notice in the official gazette of the canton or in 
 
 <sup>2</sup> Service is deemed accomplished on the day of publication.
 
-### Chapter 3 Limitation Periods, Default and Restitution
+### Section 5 Use of Electronic Equipment for Audio or Video Transmission
+
+[^part1-tit9-chap2-sec5-1]
+
+[^part1-tit9-chap2-sec5-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 141a
+
+**Principles**
+
+<sup>1</sup> The court may conduct procedural acts orally on request or *ex officio* by using electronic audio or video equipment, in particular by videoconference, or authorise the persons participating in the proceedings to do so by using such equipment, unless the law provides otherwise and all parties agree.
+
+<sup>2</sup> If this Code requires the parties to appear in person, the use of electronic equipment is only permitted if the parties agree and there are no overriding public or private interests to the contrary.
+
+<sup>3</sup> If a hearing in accordance with this Code is public, the court shall grant access to the courtroom on request. The court may also grant access by electronic means without a prior request being required.
+
+#### Art. 141b
+
+**Requirements**
+
+<sup>1</sup>
+
+The following requirements must be met when using electronic audio or video equipment:
+
+- a. The transmission of sound and images between all persons participating in the procedural act takes place simultaneously.
+- b. The examination of witnesses, questioning of parties, giving of evidence and personal hearings shall be recorded; other hearings may exceptionally be recorded on request or *ex officio*, unless the sole purpose of a hearing is to freely discuss the matter in dispute or to attempt to reach an agreement.
+- c. Data protection and data security are guaranteed.
+
+<sup>2</sup> With the consent of the persons concerned, video transmission may be dispensed with by way of exception if there is particular urgency or other special circumstances in the individual case.
+
+<sup>3</sup> The Federal Council shall regulate the technical requirements and the requirements for data protection and data security.
+
+### Chapter 3 Limitation Periods, Default and Reinstatement
 
 ### Section 1 Limitation Periods
 
@@ -1553,9 +1694,13 @@ Service shall be effected by notice in the official gazette of the canton or in 
 
 <sup>1</sup> Limitation periods triggered by a communication or the occurrence of an event starting on the following day.
 
+<sup>1bis</sup> If a document is served by ordinary post on a Saturday, a Sunday or a public holiday recognised under federal or cantonal law at the place of jurisdiction (Art. 138 para. 4), the communication under paragraph 1 shall be deemed to have been made on the following working day.[^142-1]
+
 <sup>2</sup> If a limitation period is measured in months, it expires on the same date of the last month as the date of the month in which the period started to run. In the absence of such a date, the period expires on the last day of the month.
 
 <sup>3</sup> If the last day of a limitation period is a Saturday, a Sunday or a public holiday recognised by federal or cantonal law at the location of the court, the period expires on the following working day.
+
+[^142-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 143
 
@@ -1563,11 +1708,14 @@ Service shall be effected by notice in the official gazette of the canton or in 
 
 <sup>1</sup> Submissions must be filed no later than the last day of the limitation period, either by filing with the court or by handing over to Swiss Post or a diplomatic mission or consular office of Switzerland for forwarding on to the court.
 
-<sup>2</sup> In case of electronic submission, the relevant time for compliance with a deadline is that at which the receipt is issued that confirms that all the steps have been completed that the party must carry out for transmission.[^143-1]
+<sup>1bis</sup> Submissions that are mistakenly filed within the time limit with a Swiss court that does not have jurisdiction are deemed to have been filed on time. If another court in Switzerland has jurisdiction, the court without jurisdiction shall forward the submission *ex officio*.[^143-1]
+
+<sup>2</sup> In case of electronic submission, the relevant time for compliance with a deadline is that at which the receipt is issued that confirms that all the steps have been completed that the party must carry out for transmission.[^143-2]
 
 <sup>3</sup> Payment to the court is made within the deadline if the funds are handed over to Swiss Post in favour of the court or debited from a postal or bank account in Switzerland no later than on the last day of the limitation period.
 
-[^143-1]: Amended by Annex No II 5 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^143-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^143-2]: Amended by Annex No II 5 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 144
 
@@ -1598,9 +1746,10 @@ The suspension does not apply:
 
 <sup>3</sup> Parties must be made aware of the exceptions provided in paragraph 2 above.
 
-<sup>4</sup> The provisions of the DEBA[^145-1] on debt enforcement holidays and suspension are reserved.
+<sup>4</sup> The provisions of this Code on the suspension of time limits apply to all actions under the DEBA[^145-1] which are to be brought before a court. They do not apply to objections filed with the supervisory authority.[^145-2]
 
-[^145-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^145-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^145-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 146
 
@@ -1610,7 +1759,7 @@ The suspension does not apply:
 
 <sup>2</sup> No hearings are held in court during the suspension period, unless the parties agree otherwise.
 
-### Section 2 Default and Restitution
+### Section 2 Default and Reinstatement
 
 #### Art. 147
 
@@ -1624,21 +1773,23 @@ The suspension does not apply:
 
 #### Art. 148
 
-**Restitution**
+**Reinstatement of proceedings**
 
 <sup>1</sup> The court may on application grant a period of grace or summon the parties again for a new appearance provided the defaulting party shows credibly that he or she was not responsible for the default or was responsible only to a minor extent.
 
 <sup>2</sup> The application must be submitted within 10 days of the day when the cause of default has ceased to apply.
 
-<sup>3</sup> If notice of a decision has been given to the parties, restitution may be requested only within six months after the decision has come into force.
+<sup>3</sup> If notice of a decision has been given to the parties, reinstatement may be requested only within six months after the decision has come into force.
 
 #### Art. 149
 
-**Restitution procedure**
+**Reinstatement procedure**[^149-1]
 
-The court shall invite the opposing party to comment on the application and shall issue a final decision.
+The court shall invite the opposing party to comment on the application and shall issue a final decision unless the refusal to reinstate the proceedings results in the permanent loss of rights.
 
-### Title 10 Evidence
+[^149-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+### Title 10 Proof
 
 ### Chapter 1 General Provisions
 
@@ -1646,19 +1797,19 @@ The court shall invite the opposing party to comment on the application and shal
 
 **Subject of evidence**
 
-<sup>1</sup> Evidence is required to prove facts that are legally relevant and disputed.
+<sup>1</sup> Proof is required of facts that are legally relevant and disputed.
 
-<sup>2</sup> Evidence may also be required to prove common practice, local usages and, in financial disputes, foreign law.
+<sup>2</sup> Proof may also be required of common practice, local usages and, in financial disputes, foreign law.
 
 #### Art. 151
 
 **Known facts**
 
-Evidence is not required in support of publicly known facts, facts known to the court and commonly accepted rules of experience.
+Proof is not required in support of publicly known facts, facts known to the court and commonly accepted matters of experience.
 
 #### Art. 152
 
-**Right to evidence**
+**Right to have evidence accepted**
 
 <sup>1</sup> Each party is entitled to have the court accept the evidence that he or she offers in the required form and time.
 
@@ -1668,7 +1819,7 @@ Evidence is not required in support of publicly known facts, facts known to the 
 
 **Taking of evidence *ex officio***
 
-<sup>1</sup> The court takes evidence *ex officio* whenever it must ascertain the facts *ex officio*.
+<sup>1</sup> The court shall take evidence *ex officio* whenever it must ascertain the facts *ex officio*.
 
 <sup>2</sup> It may take evidence *ex officio* if serious doubts exist as to the truth of an undisputed fact.
 
@@ -1676,7 +1827,7 @@ Evidence is not required in support of publicly known facts, facts known to the 
 
 **Ruling on evidence**
 
-Before evidence is taken, the court issues the necessary rulings. They indicate, in particular, the admissible evidence and, for each fact, which party has the burden of proof or counter-proof. Rulings on evidence may be changed or amended any time.
+Before evidence is taken, the court shall issue the required rulings. They indicate, in particular, the admissible evidence and, for each fact, which party has the burden of proof or counter-proof. Rulings on evidence may be changed or amended any time.
 
 #### Art. 155
 
@@ -1740,7 +1891,7 @@ Parties and third parties have a duty to cooperate in the taking of evidence. In
 <sup>3</sup> Third parties that are under a duty to cooperate are entitled to reasonable compensation.
 
 [^160-1]: Amended by No I 4 of the FA of 28 Sept. 2012 on the Amendment of Procedural Provisions on Lawyers' Professional Secrecy, in force since 1 May 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
-[^160-2]: [SR 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^160-2]: [SR 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 [^160-3]: Amended by Annex 2 No 3 of the FA of 19 Dec. 2008, in force since 1 Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262), [2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)[7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 161
@@ -1757,7 +1908,7 @@ Parties and third parties have a duty to cooperate in the taking of evidence. In
 
 The court may not infer from a party's or third party's legitimate refusal to cooperate that the alleged fact is proven.
 
-### Section 2 The Parties' Right to Refuse
+### Section 2 Parties' Right to Refuse
 
 #### Art. 163
 
@@ -1772,7 +1923,7 @@ A party may refuse to cooperate if:
 
 <sup>2</sup> Other confidants entrusted with legally protected secrets may refuse to cooperate if they credibly demonstrate that the interest in keeping the secret outweighs the interest in finding the truth.
 
-[^163-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^163-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 164
 
@@ -1820,7 +1971,7 @@ Any third party may refuse to cooperate:
 
 <sup>3</sup> The special provisions of social security law concerning the disclosure of data are reserved.
 
-[^166-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^166-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^166-2]: Amended by Annex 1 No 5 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^166-3]: Amended by Annex No 2 of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
@@ -1839,9 +1990,31 @@ If a third party refuses to cooperate without justification, the court may:
 
 <sup>2</sup> The default of a third party has the same consequences as refusing to cooperate without a valid reason.
 
-<sup>3</sup> The third party may challenge the court's order by way of objection.
+<sup>3</sup> The third party may file an objection against the court's order.
 
-[^167-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^167-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+### Section 4 Right to Refuse in relation to the Activities of an In-House Legal Service
+
+[^part1-tit10-chap2-sec4-1]
+
+[^part1-tit10-chap2-sec4-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 167a
+
+<sup>1</sup>
+
+A party may refuse to cooperate and to hand over documents in connection with the activities of its in-house legal service if:
+
+- a. it is registered as a legal entity in the Swiss Commercial Register or in a comparable foreign register;
+- b. the legal service is headed by a person who holds a cantonal licence to practise law or who fulfils the professional requirements for practising law in their country of origin; and
+- c. the activity in question would be considered profession-specific for a lawyer.
+
+<sup>2</sup> A third party may refuse to cooperate and to hand over documents in connection with their activities in an internal legal service subject to the conditions set out in paragraph 1.
+
+<sup>3</sup> The parties and the third parties may file an objection against decisions on the refusal to cooperate in accordance with paragraphs 1 and 2.
+
+<sup>4</sup> The costs of disputes concerning the right of refusal in accordance with paragraphs 1 and 2 shall be borne by the party or third person who invokes it.
 
 ### Chapter 3 Evidence
 
@@ -1855,10 +2028,10 @@ The following evidence is admissible:
 
 - a. testimony;
 - b. physical records;
-- c. inspection;
+- c. inspections;
 - d. expert opinion;
 - e. written statements;
-- f. questioning and statements of the parties.
+- f. the examination of and evidence given by the parties.
 
 <sup>2</sup> The provisions relating to matters of children in family law proceedings are reserved.
 
@@ -1880,29 +2053,37 @@ Any person who is not a party may testify on matters that he or she has directly
 
 <sup>3</sup> A witness may be questioned at his or her place of residence. The parties must be notified thereof in advance.
 
+#### Art. 170a
+
+**Examination by video conference**[^170a-1]
+
+The court may conduct the examination of a witness by videoconference or other electronic method of audio or video transmission, or question a witness by such means while the other participants are present on the court's premises, provided there are no overriding public or private interests, in particular the safety of the witness, to the contrary.
+
+[^170a-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
 #### Art. 171
 
-**Form of statement**
+**Examination procedure**
 
-<sup>1</sup> A witness shall be cautioned as to the requirement to tell the truth before being questioned; if at least 14 years of age, the witness shall also be advised of the criminal consequences of perjury (Art. 307 SCC[^171-1]).
+<sup>1</sup> A witness shall be cautioned as to the requirement to tell the truth before being examined; if at least 14 years of age, the witness shall also be advised of the criminal consequences of perjury (Art. 307 SCC[^171-1]).
 
-<sup>2</sup> The court shall question each witness individually with no other witnesses present; the foregoing is subject to the provisions on confrontation.
+<sup>2</sup> The court shall question each witness individually with no other witnesses present; the foregoing is subject to the provision on confrontation.
 
 <sup>3</sup> The witness must testify without notes; the court may authorise the use of written documents.
 
 <sup>4</sup> The court shall exclude witnesses from the remainder of the hearing as long as they have not been released from being a witness.
 
-[^171-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^171-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 172
 
-**Content of statement**
+**Content of the examination**
 
 The court shall ask witnesses:
 
 - a. to state their particulars;
 - b. to describe their personal relationship with the parties and other circumstances that may be relevant to the credibility of their testimony;
-- c. to state the facts of the case as they have observed them.
+- c. to state their observations on the facts of the case.
 
 #### Art. 173
 
@@ -1914,7 +2095,7 @@ The parties may request that additional questions be put to the witness, or, wit
 
 **Confrontation**
 
-Witnesses may be confronted with each other or with the parties.
+Witnesses may be confronted with other witnesses and with the parties.
 
 #### Art. 175
 
@@ -1926,22 +2107,36 @@ If a witness has special expertise, the court may also ask him or her questions 
 
 **Transcript**
 
-<sup>1</sup> The essential details of the statement shall be placed on record, which is then read out or given to the witness to read and thereafter signed by the witness. Additional questions requested by the parties that have been rejected are also recorded if a party so requests.[^176-1]
+<sup>1</sup> The essential details of the statement shall be placed on record, which is then read out or given to the witness to read and thereafter signed by the witness. Where a party has requested additional questions, but the request has been rejected, the questions shall also be recorded if a party so requests.[^176-1]
 
-<sup>2</sup> In addition, the statement may be recorded on tape, by video or by other appropriate technical aids.
+<sup>2</sup> In addition, the statement may be recorded on tape, by video or by using other appropriate technical aids.
 
-<sup>3</sup> If statements are recorded during a hearing using technical aids in accordance with 2, the court or the examining member of the court may dispense with reading the transcript back to the person examined and or giving that person the transcript to read and sign. The recordings are placed in the case files together with the transcript.[^176-2]
+<sup>3</sup> …[^176-2]
 
 [^176-1]: Amended by No I 1 of the FA of 28 Sept. 2012 (Transcription Regulations), in force since 1 May 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
-[^176-2]: Inserted by No I 1 of the FA of 28 Sept. 2012 (Transcription Regulations), in force since 1 May 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
+[^176-2]: Inserted by No I 1 of the FA of 28 Sept. 2012 (Transcription Regulations) ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)). Repealed by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), with effect from 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 176a
+
+**Transcript of recordings**[^176a-1]
+
+If the statements made during a hearing are recorded using technical aids, the following derogations apply to the transcript:
+
+- a. The transcript may be created retrospectively based on the recording.
+- b. The court or the member of court conducting the examination may dispense with reading the transcript to the witness or giving the witness the transcript to read and sign.
+- c. The recording is placed on file.
+
+[^176a-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Section 3 Physical Records
 
 #### Art. 177
 
-**Definition**
+**Definition**[^177-1]
 
-The following are considered to be physical records: papers, drawings, plans, photos, films, audio recordings, electronic files and the like that are suitable to prove legally significant facts.
+Physical records are documents that are suitable to prove legally significant facts, such as papers, drawings, plans, photos, films, audio recordings, electronic files and the like as well as private expert opinions obtained by the parties.
+
+[^177-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 178
 
@@ -1951,9 +2146,9 @@ The party invoking a physical record must prove its authenticity if this is disp
 
 #### Art. 179
 
-**Evidentiary force of public registers and official records**
+**Probative effect of public registers and official records**
 
-Public registers and official records are conclusive evidence of the facts stated therein, unless their content is proven to be incorrect
+Public registers and official records are conclusive proof of the facts stated therein, unless their content is proven to be incorrect
 
 #### Art. 180
 
@@ -2001,9 +2196,9 @@ A record must be kept of the inspection. If appropriate, the record shall includ
 
 <sup>2</sup> The court shall caution the expert as to the criminal consequences of perjury by an expert witness in terms of Article 307 SCC[^184-1] and of a breach of official secrecy under Article 320 SCC as well as the consequences of default or failure to perform the mandate adequately.
 
-<sup>3</sup> The expert is entitled to a fee. The decision of the court on the fee may be challenged by way of objection.
+<sup>3</sup> The expert is entitled to a fee. An objection may be filed against the decision of the court on the fee.
 
-[^184-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^184-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 185
 
@@ -2027,13 +2222,16 @@ A record must be kept of the inspection. If appropriate, the record shall includ
 
 **Submission of the opinion**
 
-<sup>1</sup> The court may order that the expert submits his or her opinion in writing or presents it orally. It may also summon the expert to the hearing in order to explain his or her written opinion.
+<sup>1</sup> The court may order that the expert submits his or her opinion in writing or presents it orally. It may also summon the expert to the hearing in order to explain his or her written opinion. Article 170*a* applies *mutatis mutandis*.[^187-1]
 
-<sup>2</sup> An orally presented opinion must be placed on record in accordance with Article 176.
+<sup>2</sup> An orally presented opinion must be placed on record in accordance with Articles 176 and 176*a*.[^187-2]
 
 <sup>3</sup> If two or more experts have been mandated, each one shall submit a separate opinion, unless the court decides otherwise.
 
 <sup>4</sup> The court shall give the parties the opportunity to ask for explanations or to put additional questions.
+
+[^187-1]: Third sentence inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^187-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 188
 
@@ -2075,7 +2273,7 @@ The court is bound by the arbitrator's opinion with regard to the facts establis
 
 <sup>1</sup> The court may question one or both parties on the relevant facts of the case.
 
-<sup>2</sup> Before the examination, the parties shall be cautioned that they must tell the truth and advised that if they wilfully lie, they may be liable to a disciplinary fine not exceeding 2,000 francs or, in the event of repeated lying, not exceeding 5,000 francs.
+<sup>2</sup> Before the examination, the parties shall be cautioned that they must tell the truth and advised that if they wilfully fail to do so, they may be liable to a disciplinary fine not exceeding 2,000 francs or, in the event of repeated failure, not exceeding 5,000 francs.
 
 #### Art. 192
 
@@ -2085,13 +2283,15 @@ The court is bound by the arbitrator's opinion with regard to the facts establis
 
 <sup>2</sup> Before giving evidence, the parties shall be cautioned that they must tell the truth and advised of the criminal consequences of perjury (Art. 306 SCC[^192-1]).
 
-[^192-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^192-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 193
 
-**Record**
+**Transcript and video conference procedure**[^193-1]
 
-Article 176 applies by analogy to the record of the examination of the parties and the evidence given.
+Articles 170a*,* 176 and 176*a* apply *mutatis mutandis* to the questioning of parties and the evidence given.
+
+[^193-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Title 11 Mutual Assistance between Swiss Courts
 
@@ -2142,12 +2342,12 @@ Conciliation proceedings are not held:
 - a. in summary proceedings;
 - a<sup>bis</sup>.[^198-1] in proceedings on violence, threats or harassment pursuant to Article 28*b* CC[^198-2] or on electronic monitoring pursuant to Article 28*c* CC;
 - b. in proceedings on civil status;
-- b<sup>bis</sup>.[^198-3] in proceedings on child maintenance and other child-related issues if a parent has requested the child protection authority to intervene before the proceedings (Art. 298*b* and 298*d* CC[^198-4]);
+- b<sup>bis</sup>.[^198-3] in proceedings relating to maintenance for minor and adult children and other children’s matters;
 - c. in divorce proceedings;
-- d.[^198-5] in proceedings for the dissolution or annulment of a registered partnership;
+- d.[^198-4] in proceedings for the dissolution or annulment of a registered partnership;
 - e.
 
-  for the following actions arising from the DEBA[^198-6]:
+  for the following actions arising from the DEBA[^198-5]:
 
   - 1\. action for release from a debt (Art. 83 para. 2 DEBA),
   - 2\. action for a declaratory judgment (Art. 85*a* DEBA),
@@ -2158,16 +2358,20 @@ Conciliation proceedings are not held:
   - 7\. action to ascertain new assets (Art. 265a DEBA),
   - 8\. action for the recovery of items that are subject to the right of retention (Art. 284 DEBA);
 
+- f.[^198-6] in disputes for which a court of sole cantonal instance has jurisdiction pursuant to Article 7 of this Code;
 - f. in disputes for which a court of sole cantonal instance has jurisdiction pursuant to Articles 5 and 6;
 - g. for principal intervention, counterclaim and third-party actions;
-- h. if the court has set a deadline for filing the action.
+- h.[^198-7] if the court has set a deadline for filing the action, and in the case of actions that are combined with such an action, provided that the actions are factually related;
+- i.[^198-8] in actions before the Federal Patent Court.
 
 [^198-1]: Inserted by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^198-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^198-3]: Inserted by Annex No 2 of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^198-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^198-5]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^198-6]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^198-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^198-3]: Inserted by Annex No 2 of the FA of 20 March 2015 (Child Maintenance) ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)). Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-4]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^198-5]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^198-6]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-7]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-8]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 199
 
@@ -2183,7 +2387,10 @@ The plaintiff may unilaterally waive conciliation:
 - b. if the defendant's residence is unknown;
 - c. in disputes under the Gender Equality Act of 24 March 1995[^199-1].
 
-[^199-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+<sup>3</sup> In disputes for which a single cantonal instance has jurisdiction under Articles 5, 6 and 8, the plaintiff may bring the action directly before the court.[^199-2]
+
+[^199-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^199-2]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 200
 
@@ -2193,7 +2400,7 @@ The plaintiff may unilaterally waive conciliation:
 
 <sup>2</sup> In disputes under the Gender Equality Act of 24 March 1995[^200-1], the conciliation authority shall comprise a chairperson and an equal number of representatives of the employer and employee and of the public and private sectors; the genders must be equally represented.
 
-[^200-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^200-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
 
 #### Art. 201
 
@@ -2215,7 +2422,9 @@ The plaintiff may unilaterally waive conciliation:
 
 <sup>3</sup> The conciliation authority shall serve the opposing party with the application immediately and at the same time summon the parties to a hearing.
 
-<sup>4</sup> In the disputes mentioned in Article 200, it may as an exception order the exchange of written submissions if it is considering a proposed judgment under Article 210 or a decision under Article 212.
+<sup>4</sup> In the disputes mentioned in Article 200, it may as an exception order the exchange of written submissions if it is considering a decision proposal[^202-1] under Article 210 or a decision under Article 212.
+
+[^202-1]: Term in accordance with No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)). This amendment has been made throughout the text.
 
 #### Art. 203
 
@@ -2223,7 +2432,7 @@ The plaintiff may unilaterally waive conciliation:
 
 <sup>1</sup> The hearing must take place within two months of receipt of the application or the end of the exchange of written submissions.
 
-<sup>2</sup> The conciliation authority shall consider the physical records presented to it and may conduct an inspection. If it is considering a proposed judgment under Article 210 or a decision under Article 212, it may also take other evidence unless this will substantially delay the proceedings.
+<sup>2</sup> The conciliation authority shall consider the physical records presented to it and may conduct an inspection. If it is considering a decision proposal under Article 210 or a decision under Article 212, it may also take other evidence unless this will substantially delay the proceedings.
 
 <sup>3</sup> The hearing is not public. In the disputes mentioned in Article 200, the conciliation authority may allow full or partial public access to the hearings if there is a public interest.
 
@@ -2233,19 +2442,25 @@ The plaintiff may unilaterally waive conciliation:
 
 **Personal appearance**
 
-<sup>1</sup> The parties must appear in person at the conciliation hearing.
+<sup>1</sup> The parties must appear in person at the conciliation hearing. If a legal entity is a party, a corporate body or a person who has a commercial power of attorney must appear on its behalf who is authorised to conduct the proceedings and conclude a settlement and who is familiar with the subject matter of the dispute.[^204-1]
 
-<sup>2</sup> They may be accompanied by legal agent or a confidant.
+<sup>2</sup> The parties may be accompanied by legal agent or a confidant.[^204-2]
 
 <sup>3</sup>
 
 The following persons are exempt from appearing in person and may send a representative:
 
-- a. persons domiciled outside the canton or abroad;
-- b. persons prevented from appearing due to illness or age or for other good cause;
-- c. in the disputes mentioned in Article 243, an employee as the delegate of the employer or insurer and the property manager as delegate of the landlord, provided the persons so delegated are authorised in writing to conclude a settlement.
+- a.[^204-3] a person or entity domiciled or registered outside the canton or abroad;
+- b. a person prevented from appearing due to illness or age or for other good cause;
+- c. in the disputes mentioned in Article 243, a person who as an employer or insurer delegates an employee or who as the landlord delegates the property manager, provided the person so delegated is authorised in writing to conclude a settlement.
+- d.[^204-4] any one of two or more plaintiffs or defendants, provided one of the parties is present and authorised to represent the other plaintiffs or defendants and to conclude a settlement on their behalf.
 
 <sup>4</sup> The opposing party must be notified in advance of the representation.
+
+[^204-1]: Second sentence inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-3]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-4]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 205
 
@@ -2253,7 +2468,7 @@ The following persons are exempt from appearing in person and may send a represe
 
 <sup>1</sup> The statements of the parties may not be recorded or used subsequently in court proceedings.
 
-<sup>2</sup> The use of the statements in the case of a proposed judgment or a decision by the conciliation authority is reserved.
+<sup>2</sup> The use of the statements in the case of a decision proposal or a decision by the conciliation authority is reserved.
 
 #### Art. 206
 
@@ -2264,6 +2479,10 @@ The following persons are exempt from appearing in person and may send a represe
 <sup>2</sup> If the defendant is in default, the conciliation authority shall proceed as if no agreement has been achieved (Art. 209–212).
 
 <sup>3</sup> If both parties are in default, the proceedings shall be dismissed as groundless.
+
+<sup>4</sup> An disciplinary fine of up to CHF 1,000 may be imposed on a defaulting party.[^206-1]
+
+[^206-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 207
 
@@ -2313,31 +2532,35 @@ The authorisation to proceed contains:
 
 <sup>3</sup> The plaintiff is entitled to file the action in court within three months of authorisation to proceed being granted.
 
-<sup>4</sup> The deadline is 30 days in disputes over the tenancy and lease of residential and business property or the lease of agricultural property. Other statutory or judicial filing deadlines are reserved.
+<sup>4</sup> The deadline is 30 days in disputes over the tenancy and lease of residential and business property or the lease of agricultural property.[^209-1]
 
-### Chapter 4 Proposed Judgment and Decision
+[^209-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+### Chapter 4 Decision Proposal and Decision
 
 #### Art. 210
 
-**Proposed judgment**
+**Decision proposal**
 
 <sup>1</sup>
 
-The conciliation authority may submit a proposed judgment to the parties:
+The conciliation authority may submit a decision proposal to the parties:[^210-1]
 
-- a. in disputes under the Gender Equality Act of 24 March 1995[^210-1];
+- a. in disputes under the Gender Equality Act of 24 March 1995[^210-2];
 - b. in disputes relating to the tenancy and lease of residential and business property or the lease of agricultural property if they concern the deposit of rent, protection against abusive rent, protection against termination, or the extension of the rental relationship;
-- c. in other financial disputes, if the value in dispute does not exceed 5,000 francs.
+- c.[^210-3] in other financial disputes, if the value in dispute does not exceed 10,000 francs.
 
-<sup>2</sup> The proposed judgment may contain a short statement of grounds; otherwise, Article 238 applies by analogy.
+<sup>2</sup> The decision proposal may contain a short statement of grounds; otherwise, Article 238 applies by analogy.
 
-[^210-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^210-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^210-2]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^210-3]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 211
 
 **Effects**
 
-<sup>1</sup> The proposed judgment is deemed to be accepted and has the effect of a binding decision if none of the parties rejects it within 20 days of written notification to the parties. The rejection needs no statement of grounds.
+<sup>1</sup> The decision proposal is deemed to be accepted and has the effect of a binding decision if none of the parties rejects it within 20 days of written notification to the parties. The rejection needs no statement of grounds.
 
 <sup>2</sup>
 
@@ -2346,9 +2569,9 @@ After receiving the rejection, the conciliation authority shall grant authorisat
 - a. to the rejecting party in matters under Article 210 paragraph 1 letter b;
 - b. to the plaintiff in all other cases.
 
-<sup>3</sup> If in matters under Article 210 paragraph 1 letter b the action is not filed in time, the proposed judgment is deemed to be accepted and has the effect of a binding decision.
+<sup>3</sup> If in matters under Article 210 paragraph 1 letter b the action is not filed in time, the decision proposal is deemed to be accepted and has the effect of a binding decision.
 
-<sup>4</sup> The parties must be advised in the proposed judgment of its effects in accordance with paragraphs 1 to 3 above.
+<sup>4</sup> The parties must be advised in the decision proposal of its effects in accordance with paragraphs 1 to 3 above.
 
 #### Art. 212
 
@@ -2357,6 +2580,10 @@ After receiving the rejection, the conciliation authority shall grant authorisat
 <sup>1</sup> In financial disputes with a value in dispute not exceeding 2,000 francs, the conciliation authority may render a decision on the merits if the plaintiff so requests.
 
 <sup>2</sup> The proceedings are oral.
+
+<sup>3</sup> In the event of a decision pursuant to paragraph 1, the conciliation authority shall determine the court costs and the party costs.[^212-1]
+
+[^212-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Title 2 Mediation
 
@@ -2483,11 +2710,20 @@ The following must be filed together with the statement of claim:
 
 **Counterclaim**
 
-<sup>1</sup> The defendant may file a counterclaim in the statement of defence if the claim made by the defendant is subject to the same type of procedure as the main action.
+<sup>1</sup> The defendant may file a counterclaim in the statement of defence, provided the claim made by the defendant is subject to the same type of procedure as the main action.
+
+<sup>1bis</sup>
+
+The counterclaim is also admissible and shall be assessed together with the main action in ordinary proceedings if:
+
+- a. the claim asserted is only to be assessed under the simplified procedure because of the value in dispute, but the main action is to be assessed in the ordinary procedure; or
+- b. the counterclaim seeks to establish the non-existence of a right or legal relationship after only part of a claim arising from this right or legal relationship has been asserted in the main action and the simplified procedure therefore only applies because of the value in dispute.[^224-1]
 
 <sup>2</sup> If the value of the counterclaim exceeds the material jurisdiction of the court, the court shall transfer both claims to the court with greater material jurisdiction.
 
 <sup>3</sup> If a counterclaim is filed, the court shall set a deadline for the plaintiff to file a written defence. The plaintiff may not answer the counterclaim with a counterclaim.
+
+[^224-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 225
 
@@ -2534,18 +2770,22 @@ An amendment of the statement of claim is admissible if the new or amended claim
 
 **New facts and evidence**
 
-<sup>1</sup>
+<sup>1</sup> If neither a second exchange of written submissions nor an instruction hearing has taken place, new facts and evidence may be presented in the main hearing in the opening party submission in accordance with Article 228 paragraph 1 without restriction.[^229-1]
 
-New facts and new evidence are admissible at the main hearings only if presented immediately and:
+<sup>2</sup>
 
-- a.[^229-1] if they occurred after the exchange of written submissions or after the last instruction hearing (*proper nova*); or
-- b. if they existed before the close of the exchange of written submissions or before the last instruction hearing but could not have been submitted despite reasonable diligence (*improper nova*).
+In other cases, new facts and evidence may be submitted by a deadline set by the court or, in the absence of such a deadline, at the latest by the opening party submission in the main hearing in accordance with Article 228 paragraph 1:
 
-<sup>2</sup> If there was neither a second round of written submissions nor an instruction hearing, new facts and new evidence may be submitted without limitation at the beginning of the main hearing.
+- a. if they occurred after the exchange of written submissions or after the last instruction hearing (*proper nova*); or
+- b. if they existed before the close of the exchange of written submissions or before the last instruction hearing but could not have been submitted despite reasonable diligence (*improper nova*).[^229-2]
 
-<sup>3</sup> Where the court must establish the facts *ex officio*, new facts and new evidence are admitted until the court begins its deliberations.
+<sup>2bis</sup> After the opening party submissions, new facts and evidence in accordance with paragraph 2 letters a and b shall only be taken into account if they are submitted within the deadline set by the court or, in the absence of such a deadline, at the latest at the next hearing.[^229-3]
 
-[^229-1]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+<sup>3</sup> Where the court must establish the facts *ex officio*, new facts and new evidence may be admitted until the court begins its deliberations.
+
+[^229-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^229-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^229-3]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 230
 
@@ -2641,8 +2881,11 @@ The decision contains:
 - d. the conclusions;
 - e. the persons and authorities to be served with the decision;
 - f. instructions on appellate remedies unless the parties have waived their right to seek the same;
+- g.[^238-1] the main factual and legal grounds for the decision, if applicable;
 - g. the grounds for the decision, if applicable;
 - h. the seal of the court.
+
+[^238-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 239
 
@@ -2650,24 +2893,30 @@ The decision contains:
 
 <sup>1</sup>
 
-The court may give notice of the decision to the parties without providing a written statement of the grounds:
+The court shall normally give notice of the decision to the parties without providing a written statement of the grounds:[^239-1]
 
 - a. at the main hearing, by handing over the written conclusions to the parties and giving an oral summary of the grounds;
-- b. by serving the parties with the conclusions.
+- b.[^239-2] by serving the parties promptly with the conclusions.
 
 <sup>2</sup> A written statement of the grounds must be provided if one of the parties so requests within 10 days of the notice being given of the decision. If no statement of grounds is requested, the parties are deemed to have waived their right to challenge the decision by appeal or objection.
 
-<sup>3</sup> The above is subject to the provisions of the Federal Supreme Court Act of 17 June 2005[^239-1] on notice of decisions that may be referred to the Federal Supreme Court.
+<sup>3</sup> The above is subject to the provisions of the Federal Supreme Court Act of 17 June 2005[^239-3] on notice of decisions that may be referred to the Federal Supreme Court.
 
-[^239-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^239-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^239-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^239-3]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 240
 
 **Notice and publication of the decision**
 
-If so provided by the law or if it serves enforcement, the decision shall be published or notice shall be given to the authorities and third parties concerned.
+If so provided for by the law or if it serves enforcement, the decision shall be published or notice shall be given to the authorities and third parties concerned.
 
-### Chapter 6 Close of Proceedings without Decision
+### Chapter 6 Close of Proceedings without a Substantive Decision
+
+[^part2-tit3-chap6-1]
+
+[^part2-tit3-chap6-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 241
 
@@ -2681,9 +2930,11 @@ If so provided by the law or if it serves enforcement, the decision shall be pub
 
 #### Art. 242
 
-**Proceedings made groundless for other reasons**
+**Proceedings made groundless for other reasons**[^242-1]
 
-If for any other reasons the proceedings end without a decision, the proceedings shall be dismissed.
+If for any other reasons the proceedings end without a substantive decision, the court shall issue a decision dismissing the proceedings.
+
+[^242-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Title 4 Simplified Proceedings
 
@@ -2695,7 +2946,7 @@ If for any other reasons the proceedings end without a decision, the proceedings
 
 <sup>2</sup>
 
-They apply regardless of the amount in dispute in the case of:[^243-1]
+They apply regardless of the value in dispute in the case of:[^243-1]
 
 - a. disputes under the Gender Equality Act of 24 March 1995[^243-2];
 - b.[^243-3] disputes concerning violence, threats or stalking pursuant to Article 28*b* CC[^243-4] or concerning electronic monitoring pursuant to Article 28*c* CC;
@@ -2707,13 +2958,13 @@ They apply regardless of the amount in dispute in the case of:[^243-1]
 <sup>3</sup> The simplified proceedings do not apply to disputes before the court of sole cantonal instance in accordance with Articles 5 and 8 and before the Commercial Court in accordance with Article 6.
 
 [^243-1]: Amended by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^243-2]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^243-2]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
 [^243-3]: Amended by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^243-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^243-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^243-5]: Amended by Annex 1 No II of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^243-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^243-7]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^243-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^243-6]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^243-7]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^243-8]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 244
 
@@ -2743,9 +2994,12 @@ The following must be filed together with the statement of claim:
 
 **Summons to a hearing and statement of defence**
 
-<sup>1</sup> If no grounds are stated for the action, the court shall serve the defendant with the statement of claim and summon the parties to a hearing.
+<sup>1</sup> If no grounds are stated for the action, the court shall serve the defendant with the statement of claim and summon the parties to a hearing. If a party fails to attend the hearing, the court shall immediately issue one further summons to the hearing and inform the parties of the consequences of any further default on their part. The hearing shall take place within 30 days of the first hearing.[^245-1]
 
-<sup>2</sup> If the grounds for the action are stated, the court shall first set a deadline for the defendant to file a written response to the claim.
+<sup>2</sup> If the grounds for the action are stated, the court shall first set a deadline for the defendant to file a written response to the claim. If the court summons the parties to the hearing, Article 234 applies *mutatis mutandis* in the event of default.[^245-2]
+
+[^245-1]: Second and third sentences inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^245-2]: Second sentence inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 246
 
@@ -2759,7 +3013,7 @@ The following must be filed together with the statement of claim:
 
 **Establishment of facts**
 
-<sup>1</sup> By asking the appropriate questions, the court shall cause the parties to complete inadequate submissions and to designate the evidence.
+<sup>1</sup> By asking the appropriate questions, the court shall cause the parties to complete inadequate submissions and to indicate the evidence.
 
 <sup>2</sup>
 
@@ -2793,18 +3047,19 @@ Summary proceedings may be brought:
 
 **Civil Code**
 
-Summary proceedings may be brought in particular in the following cases:
+Summary proceedings may be brought in the following cases:[^249-1]
 
-- a.[^249-1]
+- a.[^249-2]
 
   Law of persons:
 
-  - 1\. fixing a time limit for legal transactions by minors or persons subject to a general deputyship (Art. 19*a* CC[^249-2]),
+  - 1\. fixing a time limit for legal transactions by minors or persons subject to a general deputyship (Art. 19*a* CC[^249-3]),
   - 2\. right of reply (Art. 28l CC),
   - 3\. declaration of presumed death (Art. 35–38 CC),
-  - 4\. rectification of the civil status registry (Art. 42 CC);
+  - 4\. rectification of the civil status registry (Art. 42 CC),
+  - 5\.[^249-4] measures in the event of organisational defects of an association (Art. 69*c* CC);
 
-- b.[^249-3] ...
+- b.[^249-5] ...
 - c.
 
   Law of succession:
@@ -2825,32 +3080,34 @@ Summary proceedings may be brought in particular in the following cases:
   - 6\. setting a deadline to provide security and order the dispossession in case of usufruct (Art. 760 and 762 CC),
   - 7\. ordering the liquidation of debts in a usufructuary estate (Art. 766 CC),
   - 8\. measures in favour of the creditor to protect the value of the real estate security interest (Art. 808 para. 1 and 2 and Art. 809–811 CC),
-  - 9\.[^249-4] appointing an authorised agent on the issue of a mortgage certificate (Art. 850 para. 3 CC),
-  - 10\.[^249-5] cancellation of a mortgage certificate (Art. 856 and 865 CC),
+  - 9\.[^249-6] appointing an authorised agent on the issue of a mortgage certificate (Art. 850 para. 3 CC),
+  - 10\.[^249-7] cancellation of a mortgage certificate (Art. 856 and 865 CC),
   - 11\. noting of restrictions on powers of disposal and provisional entries in disputed cases (Art. 960 para. 1 sec. 1, 961 para. 1 sec. 1 and 966 para. 2 CC).
 
-[^249-1]: Amended by Annex 2 No 3 of the FA of 19 Dec. 2008, in force since 1 Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262), [2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)[7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^249-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^249-3]: Repealed by Annex 2 No 3 of the FA of 19 Dec. 2008, with effect from 1 Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262), [2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)[7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^249-4]: Amended by No II 3 of the FA of 11 Dec. 2009 (Register Mortgage Certificate and other amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^249-5]: Amended by No II 3 of the FA of 11 Dec. 2009 (Register Mortgage Certificate and other amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^249-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^249-2]: Amended by Annex 2 No 3 of the FA of 19 Dec. 2008, in force since 1 Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262), [2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)[7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^249-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^249-4]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^249-5]: Repealed by Annex 2 No 3 of the FA of 19 Dec. 2008, with effect from 1 Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262), [2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)[7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^249-6]: Amended by No II 3 of the FA of 11 Dec. 2009 (Register Mortgage Certificate and other amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^249-7]: Amended by No II 3 of the FA of 11 Dec. 2009 (Register Mortgage Certificate and other amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 250
 
 **Code of Obligations**
 
-Summary proceedings may be brought in particular in the following cases:
+Summary proceedings may be brought in the following cases:[^250-1]
 
 - a.
 
   General provisions:
 
-  - 1\. deposit of an expired power of attorney with the court (Art. 36 para. 1 CO[^250-1]),
+  - 1\. deposit of an expired power of attorney with the court (Art. 36 para. 1 CO[^250-2]),
   - 2\. setting a reasonable deadline to provide security (Art. 83 para. 2 CO),
   - 3\. deposit and sale of an object for the event of an obligee's default (Art. 92 para. 2 and 93 para. 2 CO),
   - 4\. authorisation for performance by a third party (Art. 98 CO),
-  - 5\. setting a time limit to perform a contract (Art. 107 para. 1[^250-2] CO),
-  - 6\. deposit of an amount in dispute (Art. 168 para. 1 CO);
+  - 5\. setting a time limit to perform a contract (Art. 107 para. 1[^250-3] CO),
+  - 6\. deposit of an value in dispute (Art. 168 para. 1 CO);
 
 - b.
 
@@ -2868,23 +3125,24 @@ Summary proceedings may be brought in particular in the following cases:
 
 - c.
 
-  Company law and the commercial register:[^250-3]
+  Company law and the commercial register:[^250-4]
 
   - 1\. provisional withdrawal of the authority to represent (Art 565 para. 2, 603 and 767 para. 1 CO),
   - 2\. appointment of a joint representative (Art. 690 para. 1, 764 para. 2, 792 sec. 1 and 847 para. 4 CO),
   - 3\. appointment, dismissal and replacement of liquidators (Art. 583 para. 2, 619, 740, 741, 770, 826 para. 2 and 913 CO),
   - 4\. sale at an overall sale price and modalities of sale of immovable property (Art. 585 para. 3 and 619 CO),
   - 5\. appointment of an expert to verify the profit and loss account and the balance sheet of the limited partnership (Art. 600 para. 3 CO),
-  - 6\.[^250-4] allowing a period of time in the case of insufficient number of members or lack of corporate bodies (Art. 731*b*, 819, 908 and 941*a* CO),
-  - 7\.[^250-5] ordering the disclosure of information to creditors, shareholders and members of a limited liability company and to members of a cooperative (Art. 697*b*, 802 para. 4, 857 para. 3 and 958*e* CO),
-  - 8\.[^250-6] a special investigation (Art. 697*c*–697*h*<sup>bis</sup> CO),
-  - 9\.[^250-7] convening a general meeting, putting an item on the agenda, tabling motions with short explanations in the invitation to the general meeting (Art. 699 para. 5, 699*b* para. 4, 805 para. 5 nos 2 and 3 and 881 para. 3 CO),
-  - [tab] 10.[^250-8] designation of a representative of the company or the cooperative in the event of a resolution of the general meeting being challenged by the management (Art. 706*a* para. 2, 808*c* and 891 para. 1 CO),
-  - [tab] 11.[^250-9] appointment and removal of the auditors (Art. 731*b,* 819 and 908 CO),
+  - 6\.[^250-5] measures in the event of defects in the organisation of the company or co-operative (Art. 731*b*, 819 and 908 OR),
+  - 7\.[^250-6] ordering the disclosure of information to creditors, shareholders and members of a limited liability company and to members of a cooperative (Art. 697*b*, 802 para. 4, 857 para. 3 and 958*e* CO),
+  - 8\.[^250-7] a special investigation (Art. 697*c*–697*h*<sup>bis</sup> CO),
+  - 9\.[^250-8] convening a general meeting, putting an item on the agenda, tabling motions with short explanations in the invitation to the general meeting (Art. 699 para. 5, 699*b* para. 4, 805 para. 5 nos 2 and 3 and 881 para. 3 CO),
+  - [tab] 10.[^250-9] designation of a representative of the company or the cooperative in the event of a resolution of the general meeting being challenged by the management (Art. 706*a* para. 2, 808*c* and 891 para. 1 CO),
+  - 11\.[^250-10] …
   - 12\. deposit of amounts of claims in case of liquidation (Art. 744, 770, 826 para. 2 and 913 CO),
-  - [tab] 13.[^250-10] removal of the directors and auditors of a cooperative (Art. 890 para. 2 CO),
-  - [tab] 14.[^250-11] reinstatement of a deleted legal entity in the commercial register (Art. 935 CO),
-  - [tab] 15.[^250-12] ordering the dissolution of the company and its liquidation in accordance with the provisions on bankruptcy (Art. 731*b*, 819 und 908 CO);
+  - 13\.[^250-11] removal of the directors and auditors of a cooperative (Art. 890 para. 2 CO),
+  - [tab] 14.[^250-12] reinstatement of a deleted legal entity in the commercial register (Art. 935 CO),
+  - 15\.[^250-13] ordering the dissolution of the company and its liquidation in accordance with the provisions on bankruptcy (Art. 731*b*, 819 und 908 CO),
+  - 16\.[^250-14] deletion of a legal entity (Art. 934 para. 3 CO);
 
 - d.
 
@@ -2895,40 +3153,45 @@ Summary proceedings may be brought in particular in the following cases:
   - 3\. lapse of the authority conferred by the creditors meeting on the representative of the community of creditors (Art. 1162 para. 4 CO),
   - 4\. convening a creditors meeting on the application by the bond creditors (Art. 1165 para. 3 and 4 CO).
 
-[^250-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^250-2]: Corrected by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^250-3]: Amended by Annex No 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-[^250-4]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-5]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^250-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^250-3]: Corrected by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^250-4]: Amended by Annex No 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-5]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 [^250-6]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^250-7]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^250-8]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^250-9]: Amended by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^250-10]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-11]: Inserted by Annex No 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-[^250-12]: Inserted by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-10]: Repealed by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), with effect from 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^250-11]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^250-12]: Inserted by Annex No 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-13]: Inserted by Annex No 3 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-14]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [2024 235](https://fedlex.data.admin.ch/eli/oc/2024/235); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 251
 
 **Debt Enforcement and Bankruptcy Act of 11 April 1889**
 
-Summary proceedings may be brought in particular in the following cases:
+Summary proceedings may be brought in the following cases:[^251-1]
 
 - a. decisions made in matters of clearance to proceed, bankruptcy, attachment and composition;
-- b. admission of a belated objection (Art. 77 para. 3 DEBA[^251-1]) and of the objection in the enforcement of bills of exchange (Art. 181 DEBA);
+- b. admission of a belated objection (Art. 77 para. 3 DEBA[^251-2]) and of the objection in the enforcement of bills of exchange (Art. 181 DEBA);
 - c. revocation or suspension of the debt collection proceedings (Art. 85 DEBA);
 - d. decision on the existence of new assets (Art. 265*a* para. 1–3 DEBA);
 - e. ordering the separation of property (Art. 68b DEBA).
 
-[^251-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^251-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^251-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 251a
 
 **Federal Act of 18 December 1987 on Private International Law**[^251a-1]
 
-Summary proceedings may be brought in particular in the following cases:
+<sup>1</sup>
 
-- a. appointing and replacing members of an arbitral tribunal (Art. 179 para. 2–5 PILA[^251a-2]);
+Summary proceedings may be brought in particular in the following cases:[^251a-2]
+
+- a. appointing and replacing members of an arbitral tribunal (Art. 179 para. 2–5 PILA[^251a-3]);
 - b. challenging and removing a member of an arbitral tribunal (Art. 180*a* para. 2 and Art. 180*b* para. 2 PILA);
 - c. obtaining assistance from the state court in enforcing interim measures (Art. 183 para. 2 PILA) and in taking evidence (Art. 184 para. 2 PILA);
 - d. obtaining other forms of assistance from the state court in the arbitration proceedings (Art. 185 PILA);
@@ -2936,8 +3199,12 @@ Summary proceedings may be brought in particular in the following cases:
 - f. depositing the award and certifying its enforceability (Art. 193 PILA);
 - g. acknowledging and executing foreign awards (Art. 194 PILA).
 
+<sup>2</sup> Cantonal law may provide that, at the request of all parties, English is used as the language of proceedings if English is used for the arbitration agreement or arbitration clause or as the language of proceedings in the arbitration.[^251a-4]
+
 [^251a-1]: Inserted by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^251a-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^251a-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^251a-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^251a-4]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Chapter 2 Procedure and Decision
 
@@ -2959,7 +3226,7 @@ If the request does not seem obviously inadmissible or unfounded, the court shal
 
 **Evidence**
 
-<sup>1</sup> Evidence must be provided in the form of physical records.
+<sup>1</sup> Proof must be provided in the form of physical records.
 
 <sup>2</sup>
 
@@ -3086,9 +3353,12 @@ If the principal action is not yet pending, the court shall set a deadline withi
 
 The court may order interim measures against periodically published media only if:
 
+- a.[^266-1] an existing or imminent violation of rights is causing or may cause the applicant a particularly serious disadvantage;
 - a. the imminent violation of rights may cause the applicant a particularly serious disadvantage;
 - b. the violation is obviously not justified; and
 - c. the measure does not seem disproportionate.
+
+[^266-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 267
 
@@ -3114,9 +3384,9 @@ The following provisions are reserved:
 - b. the provisions of the CC[^269-2] on protective measures in succession;
 - c. the provisions of the Patents Act of 25 June 1954[^269-3] on the action relating to the granting of a licence.
 
-[^269-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^269-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^269-3]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^269-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^269-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^269-3]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 
 ### Section 2 Protective Letter
 
@@ -3128,7 +3398,7 @@ The following provisions are reserved:
 
 <sup>3</sup> The protective letter becomes ineffective six months after it is filed.
 
-[^270-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^270-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^270-2]: Amended by Art. 3 No 1 of the FD of 11 Dec. 2009 (Adoption and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### Title 6 Special Proceedings in Marital Law
@@ -3151,7 +3421,7 @@ Subject to Articles 272 and 273, summary procedure applies to measures for prote
 - h. the spouse's consent to the renunciation or acceptance of an inheritance (Art. 230 para. 2 CC);
 - i. directions to debtors and the provision of security for post-matrimonial maintenance outside proceedings on post-matrimonial maintenance (Art. 132 CC).
 
-[^271-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^271-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 272
 
@@ -3258,8 +3528,8 @@ In other cases in which no agreement is reached, after the final decision on the
 - d.[^281-7] the occupational pension funds that pay the spouses pensions, the amount of those pensions and the shares of the pensions paid.
 
 [^281-1]: Amended by Annex No 2 of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^281-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^281-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^281-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^281-3]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^281-4]: Amended by Annex No 2 of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^281-5]: Amended by Annex No 2 of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^281-6]: Amended by Annex No 2 of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
@@ -3302,7 +3572,7 @@ The agreement or decision fixing the maintenance payments must indicate:
 
 <sup>3</sup> The provisions on the divorce action apply by analogy to the proceedings for contentious modifications.
 
-[^284-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^284-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^284-2]: Amended by Annex No 2 of the FA of 19 June 2015 (Equitable Division of Pensions on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### Section 2 Divorce at Joint Request
@@ -3337,7 +3607,7 @@ The joint submission of the spouses contains:
 If the submission is complete, the court shall summon the parties to a hearing. The conduct of the hearing is governed by the provisions of the CC[^287-2].
 
 [^287-1]: Amended by No II of the FA of 25 Sept. 2009 (Period for reflection in Divorce Proceedings on Joint Application), in force since 1 Jan. 2011 ([AS 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [BBl 2008 1959](https://fedlex.data.admin.ch/eli/fga/2008/445)[1975](https://fedlex.data.admin.ch/eli/fga/2008/447)).
-[^287-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^287-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 288
 
@@ -3345,12 +3615,14 @@ If the submission is complete, the court shall summon the parties to a hearing. 
 
 <sup>1</sup> If the conditions for a divorce at joint request are fulfilled, the court shall decree the divorce and approve the agreement.
 
-<sup>2</sup> If the effects of the divorce remain disputed, the proceedings shall be continued with regard to these effects under adversarial procedure.[^288-1] The court may assign the roles of plaintiff and defendant.
+<sup>2</sup> If the effects of the divorce remain disputed, the proceedings shall be continued with regard to these effects with the parties as adversaries.[^288-1] The simplified procedure applies.[^288-2] The court may assign the roles of plaintiff and defendant.[^288-3]
 
-<sup>3</sup> If the requirements for divorce at joint request are not met, the court shall reject the joint request for divorce and at the same time set a deadline to each spouse for the filing of a divorce action.[^288-2] The proceedings remain pending during this period and any interim measures continue to apply.
+<sup>3</sup> If the requirements for divorce at joint request are not met, the court shall reject the joint request for divorce and at the same time set a deadline to each spouse for the filing of a divorce action.[^288-4] The proceedings remain pending during this period and any interim measures continue to apply.
 
 [^288-1]: Amended by No II of the FA of 25 Sept. 2009 (Period for reflection in Divorce Proceedings on Joint Application), in force since 1 Jan. 2011 ([AS 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [BBl 2008 1959](https://fedlex.data.admin.ch/eli/fga/2008/445)[1975](https://fedlex.data.admin.ch/eli/fga/2008/447)).
-[^288-2]: Amended by No II of the FA of 25 Sept. 2009 (Period for reflection in Divorce Proceedings on Joint Application), in force since 1 Jan. 2011 ([AS 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [BBl 2008 1959](https://fedlex.data.admin.ch/eli/fga/2008/445)[1975](https://fedlex.data.admin.ch/eli/fga/2008/447)).
+[^288-2]: Second sentence inserted by No I of the FA of 17 March 2023 (Improvement of Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^288-3]: Originally the second sentence.
+[^288-4]: Amended by No II of the FA of 25 Sept. 2009 (Period for reflection in Divorce Proceedings on Joint Application), in force since 1 Jan. 2011 ([AS 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [BBl 2008 1959](https://fedlex.data.admin.ch/eli/fga/2008/445)[1975](https://fedlex.data.admin.ch/eli/fga/2008/447)).
 
 #### Art. 289
 
@@ -3373,7 +3645,7 @@ An action for divorce may be filed without a written statement of the grounds. I
 - e. the necessary documents;
 - f. the date and signatures.
 
-[^290-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^290-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 291
 
@@ -3383,7 +3655,9 @@ An action for divorce may be filed without a written statement of the grounds. I
 
 <sup>2</sup> If grounds for divorce are established, the court shall attempt to secure an agreement between the spouses with regard to the effects of the divorce.
 
-<sup>3</sup> If grounds for divorce are not established or if an agreement cannot be reached, the court shall set a deadline for the plaintiff to submit a written statement of grounds for the action. In the event of default, the proceedings shall be dismissed as groundless.
+<sup>3</sup> If grounds for divorce are not established or if an agreement cannot be reached, the court shall give the plaintiff the opportunity to state or add to the grounds. The proceedings shall be continued with the parties as adversaries. The simplified procedure applies.[^291-1]
+
+[^291-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 292
 
@@ -3418,9 +3692,11 @@ A divorce action may be changed to a separation action at any time prior to the 
 
 #### Art. 295
 
-**Principle**
+**Principle**[^295-1]
 
-Independent actions are decided in simplified proceedings.
+Individual actions relating to maintenance for minor and adult children and other matters related to children shall be decided in simplified proceedings.
+
+[^295-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 296
 
@@ -3446,9 +3722,13 @@ Independent actions are decided in simplified proceedings.
 
 <sup>1</sup> The child is heard in person and in an appropriate way by the court or by a third party appointed for this purpose, to the extent that the child's age or other good cause does not preclude a hearing.
 
+<sup>1bis</sup> The use of electronic equipment for audio or video transmission is not permitted.[^298-1]
+
 <sup>2</sup> Only the information that is relevant for the decision is placed on record. This information shall be communicated to the parents or the child's welfare agent.
 
-<sup>3</sup> A child who has the capacity to consent may contest the refusal to grant a hearing by filing an objection.
+<sup>3</sup> A child who has the capacity to consent may challenge the refusal to grant a hearing by filing an objection.
+
+[^298-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 299
 
@@ -3491,11 +3771,11 @@ The court shall consider appointing a representative in particular if:
 
 The child's representative may file applications and appellate remedies to the extent they concern:
 
-- a. the allocation of the parental responsibility;
-- b. the allocation of residence;
-- c. important questions of personal relations;
-- d. sharing responsibilities for care;
-- e. maintenance payments;
+- the allocation of the parental responsibility;
+- the allocation of residence;
+- important questions of personal relations;
+- sharing responsibilities for care;
+- maintenance payments;
 - f. measures for the protection of the child.
 
 [^300-1]: Amended by Annex No 2 of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
@@ -3555,10 +3835,10 @@ Summary procedure applies in particular in the case of:
 <sup>2</sup> The provisions of the Federal Act of 21 December 2007[^302-5] on International Child Abduction and the Hague Conventions on the Protection of Children and Adults are reserved.
 
 [^302-1]: Repealed by Annex No 2 of the FA of 20 March 2015 (Child Maintenance), with effect from 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^302-2]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
-[^302-3]: [SR 0.211.230.01](https://fedlex.data.admin.ch/eli/cc/1983/1681_1681_1681)
-[^302-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^302-5]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^302-2]: [SR 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
+[^302-3]: [SR 0.211.230.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/855)
+[^302-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^302-5]: [SR 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
 
 ### Chapter 3 Maintenance and Paternity Actions
 
@@ -3585,9 +3865,9 @@ If the action for maintenance has been filed together with the paternity action,
 
 <sup>1</sup> The court that has jurisdiction to decide the paternity action shall also decide on the deposit, the advance payment, the disbursement of deposited amounts and the refund of advances.
 
-<sup>2</sup> In the case of an action for maintenance, the court shall also decide on parental responsibility and other child-related issues.[^304-1]
+<sup>2</sup> In an action for maintenance, the court shall also decide on parental responsibility and other child-related issues. If a parent-child relationship is established, the parents have party status. The court may assign the roles of plaintiff and defendant.[^304-1]
 
-[^304-1]: Inserted by Annex No 2 of the FA of 20 March 2015 (Child Maintenance), in force since 1 Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^304-1]: Inserted by Annex No 2 of the FA of 20 March 2015 (Child Maintenance) ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)). Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Title 8 Proceedings relating to Same-Sex Partnerships
 
@@ -3608,8 +3888,8 @@ Summary procedure applies in particular to:[^305-1]
 - g. the restriction of a partner's power to dispose of certain assets (Art. 22 para. 1 SSPA),
 - h. the granting of deadlines for the repayment of debts between the partners (Art. 23 para. 1 SSPA).
 
-[^305-1]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^305-2]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^305-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), with effect from 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^305-2]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 306
 
@@ -3671,7 +3951,7 @@ An appeal is not admissible:
   - 6\.[^309-2] attachment (Art. 272 and 278 DEBA);
   - 7\.[^309-3] decisions falling under the jurisdiction of the bankruptcy or composition court under the DEBA.
 
-[^309-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^309-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^309-2]: Amended by Art. 3 No 1 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^309-3]: Inserted by Art. 3 No 1 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
@@ -3713,16 +3993,21 @@ The appeal may be filed on grounds of:
 The cross appeal lapses if:
 
 - a. the appellate court declares the principal appeal inadmissible;
-- b. the principal appeal is dismissed because it is obviously unfounded;
-- c. the principal appeal is withdrawn before the beginning of deliberations.
+- b.[^313-1] …
+- c. the principal appeal is withdrawn before the beginning of deliberations on the decision.
+
+[^313-1]: Repealed by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), with effect from 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 314
 
 **Summary proceedings**
 
-<sup>1</sup> If the decision was rendered in summary proceedings, the deadline for filing the appeal and the answer to appeal is in each case 10 days.
+<sup>1</sup> If the decision was rendered in summary proceedings, the deadline for filing the appeal and the answer to appeal is in each case 10 days. A cross appeal is not admissible.[^314-1]
 
-<sup>2</sup> A cross appeal is not admissible.
+<sup>2</sup> In family law disputes under Articles 271, 276, 302 and 305, the deadline for filing the appeal and the answer to the appeal is 30 days. A cross appeal is admissible.[^314-2]
+
+[^314-1]: Second sentence inserted by No I of the FA of 17 March 2023 (Improvement of Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^314-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Section 3 Effects and Procedure of an Appeal
 
@@ -3732,18 +4017,30 @@ The cross appeal lapses if:
 
 <sup>1</sup> The legal effect and enforceability of those parts of the contested decision to which the applications in the appeal relate shall be suspended.
 
-<sup>2</sup> The appellate court may authorise early enforcement. If necessary, it shall order protective measures or the provision of security.
-
-<sup>3</sup> Suspensive effect may not be revoked when the appeal is against a judgment for modification of legal relationships.
-
-<sup>4</sup>
+<sup>2</sup>
 
 The appeal does not have suspensive effect if it is filed against a decision on:
 
 - a. the right of reply;
 - b. interim measures.
+- c. directions to debtors;
+- d. the security provided for maintenance.[^315-1]
 
-<sup>5</sup> The enforcement of interim measures may be suspended in extraordinary circumstances if the party concerned is threatened with not easily reparable harm.
+<sup>3</sup> If the appeal is against an organisational decision, it shall always have suspensive effect.[^315-2]
+
+<sup>4</sup>
+
+If the party concerned is threatened with not easily reparable harm, the appellate court may on request:
+
+- a. authorise early enforcement and, if necessary, order protective measures or the provision of security; or
+- b. exceptionally defer enforceability in the cases referred to in paragraph 2.[^315-3]
+
+<sup>5</sup> The appellate court may decide before the appeal is filed. The order is automatically cancelled if no grounds for the first instance decision are requested or the deadline for the appeal expires unused.[^315-4]
+
+[^315-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^315-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^315-3]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^315-4]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 316
 
@@ -3766,14 +4063,17 @@ New facts and new evidence are considered only if:
 - a. they are submitted immediately; and
 - b. they could not have been submitted in the first instance despite reasonable diligence.
 
+<sup>1bis</sup> Where the appellate court must establish the facts *ex officio*, new facts and new evidence may be admitted until the court begins its deliberations.[^317-1]
+
 <sup>2</sup>
 
 The amendment of the claim is admissible only if:
 
 - a. the conditions under Article 227 paragraph 1 are fulfilled; and
-- b.[^317-1] the amendment is based on new facts or new evidence.
+- b.[^317-2] the amendment is based on new facts or new evidence.
 
-[^317-1]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^317-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^317-2]: Amended by No II of the FA of 25 Sept. 2015 (Professional Representation in Enforcement Proceedings), in force since 1 Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
 
 #### Art. 318
 
@@ -3792,19 +4092,21 @@ The appellate court may:
   - 1\. an essential part of the claim was not considered, or
   - 2\. essential issues of fact must still be established.
 
-<sup>2</sup> The appellate court shall give notice of its decision to the parties with a written statement of grounds.
+<sup>2</sup> Article 239 applies *mutatis mutandis* to giving notice of and providing grounds for the decision.[^318-1]
 
 <sup>3</sup> If the appellate court makes a new decision, it shall also decide on the costs at first instance.
+
+[^318-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Chapter 2 Objections
 
 #### Art. 319
 
-**Object of objection**
+**Object of challenge**
 
 An objection is admissible against:
 
-- a. final and interim decisions and decisions on interim measures of first instance that are not subject to appeal;
+- a. final and interim decisions and decisions on interim measures of first instance that may not be challenged by an appeal;
 - b.
 
   other decisions and procedural rulings of first instance:
@@ -3820,8 +4122,8 @@ An objection is admissible against:
 
 An objection is admissible on the following grounds:
 
-- a. incorrect application of the law;
-- b. obviously incorrect establishment of the facts.
+- a. an incorrect application of the law;
+- b. an obviously incorrect finding in fact.
 
 #### Art. 321
 
@@ -3829,11 +4131,13 @@ An objection is admissible on the following grounds:
 
 <sup>1</sup> The objection must be filed in writing and with a statement of grounds with the appellate court within 30 days of service of a decision and grounds therefor or of the subsequent service of the statement of the grounds (Art. 239).
 
-<sup>2</sup> If the objection is against a decision taken in summary proceedings or against a procedural ruling, it must be filed within 10 days unless the law provides otherwise.
+<sup>2</sup> If the objection is against a decision taken in summary proceedings or if other first-instance decisions or procedural rulings contested, the objection must be filed within 10 days unless the law provides otherwise.[^321-1]
 
 <sup>3</sup> The contested decision or procedural ruling must be enclosed if it has been served on the party.
 
 <sup>4</sup> The objection on the grounds of undue delay may be filed at any time.
+
+[^321-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 322
 
@@ -3861,7 +4165,9 @@ The appellate court may invite the lower court to comment.
 
 <sup>1</sup> The objection does not suspend the legal effect and enforceability of the contested decision.
 
-<sup>2</sup> The appellate court may suspend the enforceability of the contested decision. If necessary, it shall order protective measures or the provision of security.
+<sup>2</sup> The appellate court may suspend the enforceability of the contested decision, if the party concerned is threatened with not easily reparable harm. The appellate court may decide before the objection is filed. If necessary, it shall order protective measures or the provision of security. The order is automatically cancelled if no grounds for the first instance decision are requested or the deadline for the legal remedy expires unused.[^325-1]
+
+[^325-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 326
 
@@ -3888,7 +4194,9 @@ In the event that it upholds the objection, the appellate court shall:
 
 <sup>4</sup> If an objection of undue delay is upheld, the appellate court may set a deadline within which the lower court must deal with the case.
 
-<sup>5</sup> The appellate court shall give notice of its decision to the parties together with a written statement of grounds.
+<sup>5</sup> Article 239 applies *mutatis mutandis* to the notification and justification of the decision.[^327-1]
+
+[^327-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 327a
 
@@ -3901,8 +4209,8 @@ In the event that it upholds the objection, the appellate court shall:
 <sup>3</sup> The deadline for filing the objection against the enforcement declaration is governed by Article 43 paragraph 5 of the Convention.
 
 [^327a-1]: Inserted by Art. 3 No 1 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^327a-2]: [SR 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
-[^327a-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^327a-2]: [SR 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
+[^327a-3]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Chapter 3 Review
 
@@ -3914,20 +4222,24 @@ In the event that it upholds the objection, the appellate court shall:
 
 A party may request the court that has decided as final instance to review the final decision if:
 
-- a. the party subsequently discovers significant facts or decisive evidence that could not have been submitted in the earlier proceedings, excluding facts and evidence that arose after the decision;
+- a.[^328-1] the party despite exercising due diligence subsequently discovers significant facts or decisive evidence that could not have been submitted in the earlier proceedings, excluding facts and evidence that arose after the decision;
 - b. criminal proceedings have established that the decision was influenced to the detriment of the party concerned by a felony or misdemeanour, even if no one has been convicted by the criminal court; if criminal proceedings are not possible, proof may be provided in some other manner;
-- c. it is claimed that the acceptance, withdrawal or settlement of the claim is invalid.
+- c.[^328-2] it is claimed that the acceptance, withdrawal or settlement of the claim is invalid because of formal or substantive deficiencies;
+- d.[^328-3] the party only discovers a reason for recusal after the proceedings have been concluded and no other legal remedy is available.
 
 <sup>2</sup>
 
-A review on the grounds of a violation of the European Convention on Human Rights of 4 November 1950[^328-1] (ECHR) may be requested if:
+A review on the grounds of a violation of the European Convention on Human Rights of 4 November 1950[^328-4] (ECHR) may be requested if:
 
-- a.[^328-2] the European Court of Human Rights has determined in a final judgment (Art. 44 ECHR) that the ECHR or its protocols have been violated, or the case has been concluded by means of a friendly settlement (Art. 39 ECHR);
+- a.[^328-5] the European Court of Human Rights has determined in a final judgment (Art. 44 ECHR) that the ECHR or its protocols have been violated, or the case has been concluded by means of a friendly settlement (Art. 39 ECHR);
 - b. compensation is not an appropriate remedy for the effects of the violation; and
 - c. the review is necessary to remedy the violation.
 
-[^328-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^328-2]: Amended by Annex No 2 of the FA of 1 Oct. 2021, in force since 1 July 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^328-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^328-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^328-3]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^328-4]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^328-5]: Amended by Annex No 2 of the FA of 1 Oct. 2021, in force since 1 July 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 329
 
@@ -3949,13 +4261,15 @@ The court shall serve the application for the review on the opposing party so th
 
 <sup>1</sup> A request for a review does not suspend the legal effect and enforceability of the decision.
 
-<sup>2</sup> The court may suspend the enforceability of the contested decision. If necessary, it shall order protective measures or the provision of security.
+<sup>2</sup> The court may suspend the enforceability of the contested decision.[^331-1] If necessary, it shall order protective measures or the provision of security.
+
+[^331-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 332
 
 **Decision on the review application**
 
-The decision on the application for review may be challenged by way of objection.
+An objection may be filed against the decision on the application for review.
 
 #### Art. 333
 
@@ -3971,11 +4285,11 @@ The decision on the application for review may be challenged by way of objection
 
 #### Art. 334
 
-<sup>1</sup> If the conclusions of the decision are unclear, contradictory or incomplete, or if they do not correspond with the statement of grounds, the court shall *ex officio* or at the request of a party provide an explanation or rectification of the decision. The request must indicate the relevant parts and the requested changes.
+<sup>1</sup> If the conclusions are unclear, contradictory or incomplete, or if they do not correspond with the statement of grounds, the court shall *ex officio* or at the request of a party provide an explanation or rectification of the decision. The request must indicate the relevant parts and the requested changes.
 
 <sup>2</sup> Articles 330 and 331 apply by analogy. The court does not require the parties to comment when correcting typographical or arithmetical errors.
 
-<sup>3</sup> The decision on the request for explanation or rectification may be contested by objection.
+<sup>3</sup> An objection may be filed against the decision on the request for explanation or rectification.
 
 <sup>4</sup> Notice of the explained or rectified decision shall be given to the parties.
 
@@ -3993,8 +4307,8 @@ The decision on the application for review may be challenged by way of objection
 
 <sup>3</sup> The recognition, the declaration of enforceability and the enforcement of foreign decisions are governed by this chapter, unless an international treaty or the PILA[^335-2] provides otherwise.
 
-[^335-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^335-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^335-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^335-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 #### Art. 336
 
@@ -4004,10 +4318,15 @@ The decision on the application for review may be challenged by way of objection
 
 A decision is enforceable, if:
 
-- a. it is legally binding and the court has not suspended its enforcement (Art. 325 para. 2 and 331 para. 2); or
-- b. it is not yet legally binding, but its early enforcement has been authorised.
+- a. it is legally binding and the court has not suspended its enforceability (Art. 315 Abs. 4, 325 para. 2 and 331 para. 2); or
+- b. it is not yet legally binding, but its early enforceability has been authorised.[^336-1]
 
 <sup>2</sup> The court that has made the decision on enforceability shall certify the enforceability of the decision on request.
+
+<sup>3</sup> A decision issued without written grounds (Art. 239) is enforceable under the conditions set out in paragraph 1.[^336-2]
+
+[^336-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^336-2]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 337
 
@@ -4083,8 +4402,8 @@ If the decision provides for an obligation to act, refrain from acting or to tol
 
 <sup>3</sup> The person entrusted with enforcement may request the assistance of the competent authorities.
 
-[^343-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^343-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^343-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^343-3]: Inserted by No I 2 of the FA of 14 Dec. 2018 on Improving the Protection of Persons Affected by Violence, in force since 1 Jan. 2022 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 344
@@ -4112,7 +4431,7 @@ The prevailing party may demand:
 
 **Appellate remedy for third parties**
 
-Third parties may contest enforcement decisions by filing an objection if the decision affects their rights.
+Third parties may file an objection against enforcement decisions if the decision affects their rights.
 
 ### Chapter 2 Enforcement of Official Records
 
@@ -4144,9 +4463,9 @@ Official records are not directly enforceable if they concern performance:
 - d. arising from employment relations or under the Recruitment Act of 6 October 1989[^348-3];
 - e. arising from consumer contracts (Art. 32).
 
-[^348-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^348-2]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^348-3]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^348-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^348-2]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^348-3]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 349
 
@@ -4154,7 +4473,7 @@ Official records are not directly enforceable if they concern performance:
 
 An enforceable record relating to performance in money is deemed to be a title setting aside an objection under Articles 80 and 81 DEBA[^349-1].
 
-[^349-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^349-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 350
 
@@ -4190,7 +4509,7 @@ The judicial review of the performance due is reserved in every case. In particu
 
 <sup>2</sup> The parties may exclude the application of this Part by making a declaration to this effect in the arbitration agreement or a subsequent agreement, and instead agree that the provisions of the Twelfth Chapter of the PILA apply. The declaration must be in the form specified in Article 358.[^353-2]
 
-[^353-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^353-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^353-2]: Amended by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 354
@@ -4230,9 +4549,10 @@ The canton where the arbitral tribunal is located shall designate a different co
 - b. the extension of the arbitral tribunal's term of office;
 - c. supporting the arbitral tribunal in all its procedural acts.
 
-<sup>3</sup> The competent ordinary court decides in summary proceedings other than in cases under paragraph 1 letter a.[^356-1]
+<sup>3</sup> The competent ordinary court decides in summary proceedings other than in cases under paragraph 1 letter a.[^356-1] Article 251*a* paragraph 2 applies.[^356-2]
 
 [^356-1]: Inserted by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^356-2]: Second sentence inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Title 2 Arbitration Agreement and Arbitration Clause
 
@@ -4390,13 +4710,14 @@ A member of the arbitral tribunal may be challenged:
 
 **Removal**
 
-<sup>1</sup> Any member of the arbitral tribunal may be removed by a written agreement of the parties.
+<sup>1</sup> Any member of the arbitral tribunal may be removed by a written agreement of the parties. The agreement requires the form specified for an arbitration agreement.[^370-1]
 
-<sup>2</sup> If a member of the arbitral tribunal is unable to fulfil his or her duties within due time or with due care, unless the parties have agreed otherwise, he or she may be removed at a party's request by the body designated by the parties or, if no such body has been designated, by the ordinary court that has jurisdiction under Article 356 paragraph 2.[^370-1]
+<sup>2</sup> If a member of the arbitral tribunal is unable to fulfil his or her duties within due time or with due care, unless the parties have agreed otherwise, he or she may be removed at a party's request by the body designated by the parties or, if no such body has been designated, by the ordinary court that has jurisdiction under Article 356 paragraph 2.[^370-2]
 
 <sup>3</sup> Article 369 paragraph 5 applies to the challenge of the removal.
 
-[^370-1]: Amended by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^370-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^370-2]: Amended by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 371
 
@@ -4423,7 +4744,9 @@ Arbitration proceedings become pending:
 - a. when a party seises the arbitral tribunal designated in the arbitration agreement; or
 - b. if no arbitral tribunal is designated in the arbitration agreement: when a party initiates the procedure to constitute the arbitral tribunal or the preceding conciliation proceedings agreed by the parties.
 
-<sup>2</sup> If identical actions between the same parties are submitted before an ordinary court and an arbitral tribunal, the last seised court shall suspend the proceedings until the first seised court has decided on its competence.
+<sup>2</sup> …[^372-1]
+
+[^372-1]: Repealed by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), with effect from 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 373
 
@@ -4455,13 +4778,15 @@ The parties may regulate the arbitration procedure:
 
 <sup>1</sup> The ordinary court or, unless the parties have otherwise agreed, the arbitral tribunal may at the request of a party order interim measures, including measures to protect the evidence.
 
-<sup>2</sup> If the person concerned does not comply with the measure ordered by the arbitral tribunal, the tribunal or a party may apply to the ordinary court for it to issue the necessary orders; if the application is made by a party, it requires the consent of the arbitral tribunal.
+<sup>2</sup> If the party concerned does not comply with the measure ordered by the arbitral tribunal, the tribunal or a party may apply to the ordinary court for it to issue the necessary orders.[^374-1]
 
 <sup>3</sup> The arbitral tribunal or the ordinary court may make the interim measures conditional on the payment of security if it is anticipated that the measures may cause harm to the other party.
 
 <sup>4</sup> The applicant is liable for the harm caused by unjustified interim measures. If he or she proves, however, that the application for the measures was made in good faith, the arbitral tribunal or the ordinary court may reduce the damages or relieve the applicant entirely from liability. The aggrieved party may assert his or her claim in the pending arbitration.
 
 <sup>5</sup> The security must be released once it is established that no claim for damages will be filed; where there is uncertainty, the court shall set a deadline for filing the action.
+
+[^374-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 375
 
@@ -4619,7 +4944,7 @@ Either party may apply to the arbitral tribunal to:
 
 <sup>2</sup> The procedure is governed by the Federal Supreme Court Act of 17 June 2005[^389-1], unless otherwise provided in this Chapter.
 
-[^389-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^389-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 390
 
@@ -4687,22 +5012,23 @@ After hearing the parties, the appellate court may remit the award to the arbitr
 
 A party may request the ordinary court that has jurisdiction under Article 356 paragraph 1 to review an arbitral award if:
 
-- a. the party subsequently discovers significant facts or decisive evidence that could not have been submitted in the earlier proceedings, excluding facts and evidence that arose after the arbitral award was made;
+- a.[^396-1] the party, despite exercising due diligence, subsequently discovers significant facts or decisive evidence that could not have been submitted in the earlier proceedings; excluded are facts and evidence that arose after the arbitral award was made;
 - b. criminal proceedings have established that the arbitral award was influenced to the detriment of the party concerned by a felony or misdemeanour, even if no one is convicted by a criminal court; if criminal proceedings are not possible, proof may be provided in some other manner;
 - c. it is claimed that the acceptance, withdrawal or settlement of the claim is invalid;
-- d.[^396-1] a ground for challenge under Article 367 paragraph 1 letter c only came to light after conclusion of the arbitration proceedings despite exercising due diligence and no other legal remedy is available.
+- d.[^396-2] a ground for challenge under Article 367 paragraph 1 letter c only came to light after conclusion of the arbitration proceedings despite exercising due diligence and no other legal remedy is available.
 
 <sup>2</sup>
 
-The review on the grounds of a violation of the ECHR[^396-2] may be requested if:
+The review on the grounds of a violation of the ECHR[^396-3] may be requested if:
 
-- a.[^396-3] the European Court of Human Rights has determined in a final judgment (Art. 44 ECHR) that the ECHR or its protocols have been violated, or the case has been concluded by means of a friendly settlement (Art. 39 ECHR);
+- a.[^396-4] the European Court of Human Rights has determined in a final judgment (Art. 44 ECHR) that the ECHR or its protocols have been violated, or the case has been concluded by means of a friendly settlement (Art. 39 ECHR);
 - b. compensation is not an appropriate remedy for the effects of the violation; and
 - c. the review is necessary to remedy the violation.
 
-[^396-1]: Inserted by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^396-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^396-3]: Amended by Annex No 2 of the FA of 1 Oct. 2021, in force since 1 July 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^396-1]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^396-2]: Inserted by Annex No 2 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^396-3]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^396-4]: Amended by Annex No 2 of the FA of 1 Oct. 2021, in force since 1 July 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 397
 
@@ -4738,7 +5064,12 @@ The procedure is governed by Articles 330 to 331.
 
 <sup>2</sup> It provides forms for court records and party submissions. The forms for the parties must be designed in a way that they can be completed by persons who are not legally trained.
 
-<sup>3</sup> The Federal Council may delegate responsibility for issuing administrative and technical regulations to the Federal Office of Justice.
+<sup>2bis</sup> The Federal Council shall provide the public with information on legal costs and the possibilities of legal aid and litigation funding.[^400-1]
+
+<sup>3</sup> The Federal Council may delegate responsibility for issuing administrative and technical regulations and providing forms and information to the Federal Office of Justice.[^400-2]
+
+[^400-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^400-2]: Amended by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 401
 
@@ -4747,6 +5078,14 @@ The procedure is governed by Articles 330 to 331.
 <sup>1</sup> The cantons may carry out pilot projects with the consent of the Federal Council.
 
 <sup>2</sup> The Federal Council may delegate competence for the approval of such projects to the Federal Office of Justice.
+
+#### Art. 401a
+
+**Statistics and business figures**[^401a-1]
+
+The Confederation and the cantons shall work with the courts to ensure that sufficient basic statistical information and business figures related to the indicators for the application of this Code are made available, and in particular the number, type, subject matter, duration and cost of the proceedings.
+
+[^401a-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Title 2 Amendment of Legislation
 
@@ -4858,6 +5197,16 @@ The new law applies to proceedings pending when the amendment of 14 December 201
 
 The new law applies to proceedings pending when the amendment of 25 September 2020 comes into force.
 
+### Chapter 7 Transitional Provision to the Amendment of 17 March 2023
+
+[^part4-tit3-chap7-1]
+
+[^part4-tit3-chap7-1]: Inserted by No I of the FA of 17 March 2023 (Improving Practicality and Law Enforcement), in force since 1 Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 407f
+
+Articles 8 paragraph 2 second sentence, 63 paragraph 1, 118 paragraph 2 second sentence, 141*a*, 141*b*, 143 paragraph 1<sup>bis</sup>, 149, 167*a*, 170*a*, 176 paragraph 3, 176*a*, 177, 187 paragraph 1 third sentence and 2, 193, 198 letters b<sup>bis</sup>, f, h and i, 199 paragraph 3, 206 paragraph 4, 210 paragraph 1 introductory sentence and letter c, 239 paragraph 1, 298 paragraph 1<sup>bis</sup>, 315 paragraphs 2-5, 317 paragraph 1<sup>bis</sup>, 318 paragraph 2, 325 paragraph 2, 327 paragraph 5 and 336 paragraphs 1 and 3 also apply to proceedings that are pending when the Amendment of 17 March 2023 comes into force.
+
 ### Title 4 Referendum and Commencement
 
 #### Art. 408
@@ -4902,14 +5251,14 @@ Annex 2
 
 …[^annex2-lvlu1-lvl1-2]
 
-[^annex2-lvlu1-lvl1-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
+[^annex2-lvlu1-lvl1-1]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
 [^annex2-lvlu1-lvl1-2]: The amendments may be consulted under [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).
 
 ### 2. Coordination of Number 19 of Annex 1 with the new NEPLA
 
 *Irrespective of whether the new NEPLA*[^annex2-lvlu1-lvl2-1]*or the CPC comes into force first, on commencement of the enactment that comes into force later or if both enactments come into force on the same date, Number 19 of Annex 1 of the CPC ceases to apply and the new NEPLA shall be amended in accordance with Number 20 of Annex 1 of the CPC.*
 
-[^annex2-lvlu1-lvl2-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
+[^annex2-lvlu1-lvl2-1]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560); [BBl 2008 5339](https://fedlex.data.admin.ch/eli/fga/2008/954)
 
 ### 3. Coordination with the Amendment of the Civil Code (CC) of 19 December 2008 (Protection of Adults, Law of Persons and Law on Children)
 
@@ -4917,5 +5266,5 @@ Annex 2
 
 ...[^annex2-lvlu1-lvl3-2]
 
-[^annex2-lvlu1-lvl3-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233); [BBl 2009 141](https://fedlex.data.admin.ch/eli/fga/2009/7)
+[^annex2-lvlu1-lvl3-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703); [BBl 2009 141](https://fedlex.data.admin.ch/eli/fga/2009/7)
 [^annex2-lvlu1-lvl3-2]: The amendments may be consulted under [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).

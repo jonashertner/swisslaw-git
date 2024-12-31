@@ -4,11 +4,11 @@ title: "Codice di diritto processuale civile svizzero del 19 dicembre 2008 (Codi
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230901-it-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2010-262-20250101-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/it"
 
 (Codice di procedura civile, CPC)
 
-del 19 dicembre 2008 (Stato 1° settembre 2023)
+del 19 dicembre 2008 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 122 capoverso 1 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)
 
 ## Parte prima: Disposizioni generali
@@ -49,7 +49,7 @@ Il presente Codice disciplina la procedura dinanzi alle giurisdizioni cantonali 
 
 Sono fatte salve le disposizioni dei trattati internazionali e della legge federale del 18 dicembre 1987[^2-1] sul diritto internazionale privato (LDIP).
 
-[^2-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^2-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 #### Art. 3
 
@@ -82,26 +82,27 @@ Il diritto cantonale designa il tribunale competente a decidere, in istanza cant
 - c. controversie vertenti sull’uso di una ditta commerciale;
 - d. controversie secondo la legge federale del 19 dicembre 1986[^5-1] contro la concorrenza sleale, in quanto il valore litigioso ecceda 30 000 franchi o in quanto la Confederazione eserciti il suo diritto d’azione;
 - e.[^5-2] controversie secondo la legge federale del 13 giugno 2008[^5-3] sulla responsabilità civile in materia nucleare;
-- f. azioni giudiziali contro la Confederazione;
-- g.[^5-4] controversie riguardo all’istituzione e all’esecuzione di una verifica speciale secondo gli articoli 697*c–*697*h*<sup>bis</sup> del Codice delle obbligazioni (CO)[^5-5];
-- h.[^5-6] controversie secondo la legge del 23 giugno 2006[^5-7] sugli investimenti collettivi, la legge del 19 giugno 2015[^5-8] sull’infrastruttura finanziaria e la legge del 15 giugno 2018[^5-9] sugli istituti finanziari;
-- i.[^5-10] controversie secondo la legge del 21 giugno 2013[^5-11] sulla protezione degli stemmi, la legge federale del 25 marzo 1954[^5-12] concernente la protezione dell’emblema e del nome della Croce Rossa e la legge federale del 15 dicembre 1961[^5-13] concernente la protezione dei nomi e degli emblemi dell’Organizzazione delle Nazioni Unite e d’altre organizzazioni intergovernative.
+- f.[^5-4] azioni giudiziali contro la Confederazione, in quanto il valore litigioso ecceda 30 000 franchi;
+- g.[^5-5] controversie riguardo all’istituzione e all’esecuzione di una verifica speciale secondo gli articoli 697*c–*697*h*<sup>bis</sup> del Codice delle obbligazioni (CO)[^5-6];
+- h.[^5-7] controversie secondo la legge del 23 giugno 2006[^5-8] sugli investimenti collettivi, la legge del 19 giugno 2015[^5-9] sull’infrastruttura finanziaria e la legge del 15 giugno 2018[^5-10] sugli istituti finanziari;
+- i.[^5-11] controversie secondo la legge del 21 giugno 2013[^5-12] sulla protezione degli stemmi, la legge federale del 25 marzo 1954[^5-13] concernente la protezione dell’emblema e del nome della Croce Rossa e la legge federale del 15 dicembre 1961[^5-14] concernente la protezione dei nomi e degli emblemi dell’Organizzazione delle Nazioni Unite e d’altre organizzazioni intergovernative.
 
 <sup>2</sup> Questo tribunale è parimenti competente per l’emanazione di provvedimenti cautelari prima della pendenza della causa.
 
-[^5-1]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^5-1]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 [^5-2]: Nuovo testo giusta l’all. 2 n. 1, in vigore dal 1° gen. 2022 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); FF **2007** 5397).
-[^5-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); FF **2008** 4673
-[^5-4]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^5-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-6]: Nuovo testo giusta l’all. n. II 4 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-7]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-8]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-9]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-10]: Introdotta dall’all. 3 n. II 3 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-11]: [RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-12]: [RS 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-13]: [RS 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-3]: [RS 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
+[^5-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^5-5]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^5-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^5-7]: Nuovo testo giusta l’all. n. II 4 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-8]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^5-9]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^5-10]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^5-11]: Introdotta dall’all. 3 n. II 3 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-12]: [RS 232.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5987)
+[^5-13]: [RS 232.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5989)
+[^5-14]: [RS 232.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5991)
 
 #### Art. 6
 
@@ -114,19 +115,39 @@ Il diritto cantonale designa il tribunale competente a decidere, in istanza cant
 Vi è contenzioso commerciale se:
 
 - a. la controversia si riferisce all’attività commerciale di una parte almeno;
-- b. la decisione del tribunale è impugnabile con ricorso in materia civile al Tribunale federale; e
-- c. le parti risultano iscritte nel registro svizzero di commercio o in un analogo registro estero.
+- b.[^6-1] il valore litigioso eccede 30 000 franchi o si tratta di una controversia non patrimoniale;
+- c.[^6-2] le parti risultano iscritte come enti giuridici nel registro svizzero di commercio o in un analogo registro estero; e
+- d.[^6-3] non si tratta di una controversia derivante da un rapporto di lavoro, di una controversia secondo la legge del 6 ottobre 1989[^6-4] sul collocamento o la legge del 24 marzo 1995[^6-5] sulla parità dei sessi, né di una controversia in materia di locazione e affitto di abitazioni e locali commerciali o di affitto agricolo.
 
-<sup>3</sup> Se soltanto il convenuto è iscritto nel registro svizzero di commercio o in un analogo registro estero, ma le altre condizioni risultano adempiute, l’attore può scegliere tra il tribunale commerciale e il giudice ordinario.
+<sup>3</sup> Se soltanto il convenuto è iscritto come ente giuridico nel registro svizzero di commercio o in un analogo registro estero, ma le altre condizioni risultano adempiute, l’attore può scegliere tra il tribunale commerciale e il giudice ordinario.[^6-6]
 
 <sup>4</sup>
 
 I Cantoni possono altresì attribuire al tribunale commerciale il giudizio su:
 
 - a. le controversie di cui all’articolo 5 capoverso 1;
-- b. le controversie in materia di società commerciali e cooperative.
+- b. le controversie in materia di società commerciali e cooperative;
+- c.[^6-7]
+
+  le controversie che adempiono le seguenti condizioni:
+
+  - 1\. la controversia si riferisce all’attività commerciale di una parte almeno,
+  - 2\. il valore litigioso raggiunge almeno 100 000 franchi,
+  - 3\. le parti acconsentono all’attribuzione del giudizio della controversia al tribunale commerciale, e
+  - 4\. al momento del consenso almeno una parte ha domicilio, dimora abituale o sede all’estero.
 
 <sup>5</sup> Il tribunale commerciale è parimenti competente per l’emanazione di provvedimenti cautelari prima della pendenza della causa.
+
+<sup>6</sup> Qualora, in caso di litisconsorzio, non tutti i litisconsorti siano iscritti come enti giuridici nel registro svizzero di commercio o in un analogo registro estero, il tribunale commerciale è competente soltanto se lo è per tutte le azioni.[^6-8]
+
+[^6-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-3]: Introdotta dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-4]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^6-5]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^6-6]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-7]: Introdotta dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-8]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 7
 
@@ -134,7 +155,7 @@ I Cantoni possono altresì attribuire al tribunale commerciale il giudizio su:
 
 I Cantoni possono designare un tribunale competente a decidere, in istanza cantonale unica, le controversie derivanti da assicurazioni complementari all’assicurazione sociale contro le malattie secondo la legge federale del 18 marzo 1994[^7-1] sull’assicurazione malattie.
 
-[^7-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^7-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
 
@@ -142,7 +163,9 @@ I Cantoni possono designare un tribunale competente a decidere, in istanza canto
 
 <sup>1</sup> Nelle controversie patrimoniali in cui il valore litigioso raggiunga almeno 100 000 franchi l’attore, con l’accordo del convenuto, può deferire la causa direttamente all’autorità giudiziaria superiore.
 
-<sup>2</sup> L’autorità giudiziaria superiore giudica in istanza cantonale unica.
+<sup>2</sup> L’autorità giudiziaria superiore giudica in istanza cantonale unica. È parimenti competente per l’emanazione di provvedimenti cautelari prima della pendenza della causa.[^8-1]
+
+[^8-1]: Per. introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Capitolo 2: Competenza per territorio
 
@@ -166,12 +189,13 @@ Salvo che il presente Codice disponga altrimenti, le azioni si propongono:
 
 - a. contro una persona fisica, al giudice del suo domicilio;
 - b. contro una persona giuridica, enti o istituti di diritto pubblico oppure società in nome collettivo o in accomandita, al giudice della loro sede;
-- c. contro la Confederazione, alla Corte suprema del Cantone di Berna o al tribunale cantonale del Cantone di domicilio, sede o dimora abituale dell’attore;
+- c.[^10-1] contro la Confederazione, al giudice della città di Berna o al giudice del domicilio, della sede o della dimora abituale dell’attore;
 - d. contro un Cantone, a un tribunale del capoluogo cantonale.
 
-<sup>2</sup> Il domicilio si determina secondo il Codice civile[^10-1] (CC). L’articolo 24 CC non è tuttavia applicabile.
+<sup>2</sup> Il domicilio si determina secondo il Codice civile[^10-2] (CC). L’articolo 24 CC non è tuttavia applicabile.
 
-[^10-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^10-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^10-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 11
 
@@ -254,7 +278,7 @@ Per le seguenti azioni e istanze è competente il giudice del domicilio o della 
 - d.[^20-1] azioni e istanze secondo la legge federale del 25 settembre 2020[^20-2] sulla protezione dei dati (LPD).
 
 [^20-1]: Nuovo testo giusta l’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^20-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 21
 
@@ -262,7 +286,7 @@ Per le seguenti azioni e istanze è competente il giudice del domicilio o della 
 
 Per le istanze di dichiarazione di morte o di scomparsa (art. 34–38 CC[^21-1]) è imperativo il foro dell’ultimo domicilio conosciuto della persona scomparsa.
 
-[^21-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^21-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 22
 
@@ -377,7 +401,7 @@ Per le azioni in materia di locazione e di affitto di beni immobili è competent
 
 <sup>2</sup> Per le azioni fondate sulla legge del 6 ottobre 1989[^34-1] sul collocamento, proposte da una persona in cerca di impiego o da un lavoratore, oltre al giudice di cui al capoverso 1 è competente anche il giudice del luogo del domicilio d’affari del collocatore o del prestatore con cui è stato concluso il contratto.
 
-[^34-1]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^34-1]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 35
 
@@ -416,7 +440,7 @@ Per le azioni di risarcimento del danno in caso di provvedimenti cautelari ingiu
 
 <sup>2</sup> Se l’azione è diretta contro l’Ufficio nazionale di assicurazione (art. 74 della LF del 19 dic. 1958[^38-1] sulla circolazione stradale, LCStr) o contro il Fondo nazionale di garanzia (art. 76 LCStr), oltre al giudice di cui al capoverso 1 è competente anche il giudice del luogo di una delle loro succursali.
 
-[^38-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^38-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 38a
 
@@ -461,7 +485,7 @@ Per le azioni di risarcimento del danno in caso di provvedimenti cautelari ingiu
 
 Per le azioni fondate sulla legge del 3 ottobre 2003[^42-1] sulla fusione è competente il giudice della sede di uno dei soggetti giuridici coinvolti.
 
-[^42-1]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^42-1]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 43
 
@@ -481,7 +505,7 @@ Per le azioni fondate sulla legge del 3 ottobre 2003[^42-1] sulla fusione è com
 
 Per l’autorizzazione a convocare l’assemblea degli obbligazionisti la competenza per territorio è retta dall’articolo 1165 CO[^44-1].
 
-[^44-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^44-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 45
 
@@ -495,7 +519,7 @@ Per le azioni degli investitori e del rappresentante della comunità degli inves
 
 Per le azioni fondate sulla legge federale dell’11 aprile 1889[^46-1] sulla esecuzione e sul fallimento (LEF) la competenza per territorio è determinata dal presente capitolo, in quanto la LEF non preveda un altro foro.
 
-[^46-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^46-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Capitolo 3: Ricusazione
 
@@ -524,7 +548,7 @@ Non è in sé motivo di ricusazione segnatamente la partecipazione:
 - d. all’emanazione di provvedimenti cautelari;
 - e. alla procedura a tutela dell’unione coniugale.
 
-[^47-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^47-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 48
 
@@ -556,7 +580,9 @@ Chi opera in seno a un’autorità giudiziaria e si trova in un caso di possibil
 
 <sup>2</sup> Le prove già esperite ma non più ripetibili possono essere nondimeno prese in considerazione.
 
-<sup>3</sup> Se il motivo di ricusazione è scoperto soltanto dopo la chiusura del procedimento, si applicano le disposizioni sulla revisione.
+<sup>3</sup> Se il motivo di ricusazione è scoperto soltanto dopo la chiusura del procedimento e non è più disponibile alcun altro mezzo d’impugnazione, si applicano le disposizioni sulla revisione.[^51-1]
+
+[^51-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo terzo: Principi di procedura e presupposti processuali
 
@@ -566,7 +592,11 @@ Chi opera in seno a un’autorità giudiziaria e si trova in un caso di possibil
 
 **Comportamento secondo buona fede**
 
-Tutte le persone che partecipano al procedimento devono comportarsi secondo buona fede.
+<sup>1</sup> Tutte le persone che partecipano al procedimento devono comportarsi secondo buona fede.
+
+<sup>2</sup> Le indicazioni errate riguardo ai mezzi di impugnazione possono essere fatte valere nei confronti di qualsiasi giudice in quanto comportino un vantaggio per la parte che se ne prevale.[^52-1]
+
+[^52-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 53
 
@@ -575,6 +605,10 @@ Tutte le persone che partecipano al procedimento devono comportarsi secondo buon
 <sup>1</sup> Le parti hanno il diritto di essere sentite.
 
 <sup>2</sup> Le parti hanno segnatamente il diritto di consultare gli atti e di farsene rilasciare copia, sempre che preponderanti interessi pubblici o privati non vi si oppongano.
+
+<sup>3</sup> Hanno il diritto di esprimersi su tutti gli atti di causa della controparte. A tal fine il giudice impartisce loro un termine di almeno dieci giorni. Decorso infruttuosamente tale termine, si considera che vi abbiano rinunciato.[^53-1]
+
+[^53-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 54
 
@@ -665,13 +699,14 @@ Se le parti hanno pattuito di sottoporre ad arbitrato una controversia compromet
 
 **Pendenza della causa in caso di incompetenza e di errato tipo di procedura**
 
-<sup>1</sup> Se l’atto ritirato o respinto per incompetenza del giudice o dell’autorità di conciliazione aditi è riproposto entro un mese davanti al giudice o all’autorità competenti, la causa si considera pendente dal giorno in cui l’atto fu proposto la prima volta.
+<sup>1</sup> Se l’atto ritirato o respinto per incompetenza del giudice o dell’autorità di conciliazione aditi è riproposto entro un mese davanti al giudice o all’autorità competenti, o inoltrato conformemente all’articolo 143 capoverso 1<sup>bis</sup>, la causa si considera pendente dal giorno in cui l’atto fu proposto la prima volta.[^63-1]
 
 <sup>2</sup> Lo stesso vale se l’azione fu promossa in errato tipo di procedura.
 
-<sup>3</sup> Sono fatti salvi gli speciali termini legali d’azione previsti dalla LEF[^63-1].
+<sup>3</sup> Sono fatti salvi gli speciali termini legali d’azione previsti dalla LEF[^63-2].
 
-[^63-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^63-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^63-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 64
 
@@ -738,8 +773,8 @@ Sono autorizzati a esercitare la rappresentanza professionale in giudizio:
 
 <sup>4</sup> Il giudice può ordinare la comparizione personale delle parti rappresentate.
 
-[^68-1]: [RS 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
-[^68-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^68-1]: [RS 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
+[^68-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 69
 
@@ -763,13 +798,19 @@ Sono autorizzati a esercitare la rappresentanza professionale in giudizio:
 
 #### Art. 71
 
-**Litisconsorzio facoltativo**
+**Litisconsorzio facoltativo**[^71-1]
 
-<sup>1</sup> Più persone possono agire o essere convenute congiuntamente se si tratta di statuire su diritti o obblighi che si fondano su fatti o titoli giuridici simili.
+<sup>1</sup>
 
-<sup>2</sup> Il litisconsorzio facoltativo è escluso se alle singole azioni non è applicabile lo stesso tipo di procedura.
+Più persone possono agire o essere convenute congiuntamente se:
 
-<sup>3</sup> Ciascun litisconsorte può condurre la propria causa indipendentemente dagli altri.
+- a. si tratta di statuire su diritti o obblighi che si fondano su fatti o titoli giuridici simili;
+- b. alle singole azioni è applicabile lo stesso tipo di procedura; e
+- c. il giudice adito è competente per materia per ciascuna pretesa.
+
+<sup>2</sup> Ciascun litisconsorte può condurre la propria causa indipendentemente dagli altri.
+
+[^71-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 72
 
@@ -857,23 +898,34 @@ Si applica per analogia l’articolo 77.
 
 **Principi**
 
-<sup>1</sup> La parte che denuncia la lite può far valere davanti al giudice adito con l’azione principale le pretese che in caso di soccombenza ritiene di avere contro il terzo chiamato in causa.
+<sup>1</sup>
+
+La parte che denuncia la lite può chiedere al giudice adito con l’azione principale di statuire sulle pretese che, in caso di soccombenza, ritiene di avere contro il terzo chiamato in causa, o teme che questi faccia valere nei suoi confronti, se:
+
+- a. le pretese sono materialmente connesse con l’azione principale;
+- b. il giudice adito è competente per materia per tali pretese; e
+- c. l’azione principale e le pretese vanno giudicate in procedura ordinaria.[^81-1]
 
 <sup>2</sup> Il terzo non può a sua volta chiamare altri in causa.
 
-<sup>3</sup> L’azione di chiamata in causa è improponibile in procedura semplificata o sommaria.
+<sup>3</sup> ...[^81-2]
+
+[^81-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^81-2]: Abrogato dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), con effetto dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 82
 
 **Procedura**
 
-<sup>1</sup> La parte che intende proporre azione di chiamata in causa deve farne istanza nell’ambito della risposta alla petizione o nell’ambito della replica nel processo principale. Le conclusioni ch’essa si propone di opporre al terzo denunciato devono essere indicate e succintamente motivate.
+<sup>1</sup> La parte che intende proporre azione di chiamata in causa deve farne istanza nell’ambito della risposta alla petizione o nell’ambito della replica nel processo principale. Le conclusioni ch’essa si propone di opporre al terzo denunciato devono essere indicate e succintamente motivate. Non devono essere quantificate se riguardano la prestazione ch’essa sarebbe condannata a fornire nel processo principale.[^82-1]
 
 <sup>2</sup> Il giudice dà alla controparte e al terzo denunciato l’opportunità di presentare le proprie osservazioni.
 
 <sup>3</sup> Se l’azione di chiamata in causa è ammessa, il giudice determina il momento e l’estensione del pertinente scambio di scritti; è fatto salvo l’articolo 125.
 
 <sup>4</sup> La decisione circa l’ammissibilità dell’azione è impugnabile mediante reclamo.
+
+[^82-1]: Terzo per. introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Capitolo 6: Sostituzione di parte
 
@@ -903,7 +955,9 @@ Si applica per analogia l’articolo 77.
 
 <sup>1</sup> Se non è possibile o non si può ragionevolmente esigere che l’entità della pretesa sia precisata già all’inizio del processo, l’attore può promuovere un’azione creditoria senza quantificare il valore litigioso. Deve tuttavia indicare un valore minimo quale valore litigioso provvisorio.
 
-<sup>2</sup> L’attore deve precisare l’entità della pretesa appena sia in grado di farlo dopo l’assunzione delle prove o dopo che il convenuto ha fornito informazioni in merito. Il giudice adito rimane competente anche se il valore litigioso eccede la sua competenza per materia.
+<sup>2</sup> Dopo l’assunzione delle prove o dopo che le parti o terzi hanno fornito informazioni in merito, il giudice impartisce alle parti un termine per precisare l’entità della pretesa.[^85-1] Il giudice adito rimane competente anche se il valore litigioso eccede la sua competenza per materia.
+
+[^85-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 86
 
@@ -943,10 +997,16 @@ Con tale azione collettiva si può chiedere al giudice di:
 
 **Cumulo di azioni**
 
+<sup>1</sup>
+
 L’attore può riunire in un’unica azione più pretese contro una medesima parte se:
 
 - a. per ciascuna di esse è competente per materia il giudice adito; e
 - b. risulta applicabile la stessa procedura.
+
+<sup>2</sup> Il cumulo di azioni è pure ammesso quando la competenza per materia o il tipo di procedura differiscono soltanto a causa del valore litigioso. Se risultano applicabili procedure diverse, le pretese sono giudicate in procedura ordinaria.[^90-1]
+
+[^90-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo settimo: Valore litigioso
 
@@ -981,6 +1041,18 @@ L’attore può riunire in un’unica azione più pretese contro una medesima pa
 <sup>1</sup> Se all’azione è contrapposta una domanda riconvenzionale, il valore litigioso è determinato dalla più elevata delle due pretese.
 
 <sup>2</sup> Per la determinazione delle spese giudiziarie, i valori litigiosi vengono sommati, eccetto che azione e domanda riconvenzionale si escludano vicendevolmente.
+
+<sup>3</sup> Se l’azione principale è un’azione parziale, le spese giudiziarie sono determinate esclusivamente in base al valore litigioso dell’azione principale.[^94-1]
+
+[^94-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 94a
+
+**Azione collettiva**[^94a-1]
+
+In caso di azione collettiva, se le parti non si accordano in merito al valore litigioso oppure le loro indicazioni in proposito sono manifestamente errate, il giudice determina il valore litigioso secondo il proprio apprezzamento, in funzione degli interessi dei singoli membri del gruppo di persone in questione e dell’importanza della causa.
+
+[^94a-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo ottavo: Spese giudiziarie e gratuito patrocinio
 
@@ -1017,9 +1089,14 @@ Sono spese ripetibili:
 
 #### Art. 96
 
-**Tariffe**
+**Tariffe e distrazione delle spese ripetibili**[^96-1]
 
-I Cantoni stabiliscono le tariffe per le spese giudiziarie.
+<sup>1</sup> I Cantoni stabiliscono le tariffe per le spese giudiziarie. È fatta salva la normativa in materia di tasse ai sensi dell’articolo 16 capoverso 1 LEF[^96-2].
+
+<sup>2</sup> I Cantoni possono prevedere che l’avvocato ha un diritto esclusivo agli onorari e spese assegnati a titolo di spese ripetibili.
+
+[^96-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^96-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 97
 
@@ -1029,9 +1106,20 @@ Il giudice informa la parte non patrocinata da un avvocato sull’importo presum
 
 #### Art. 98
 
-**Anticipazione delle spese**
+**Anticipazione delle spese**[^98-1]
 
-Il giudice può esigere che l’attore anticipi un importo a copertura parziale o totale delle spese processuali presumibili.
+<sup>1</sup> Il giudice e l’autorità di conciliazione possono esigere che l’attore anticipi un importo a copertura della metà al massimo delle spese processuali presumibili.
+
+<sup>2</sup>
+
+Possono esigere l’anticipazione di un importo a copertura della totalità delle spese processuali presumibili:
+
+- a. nei procedimenti di cui all’articolo 6 capoverso 4 lettera c e all’articolo 8;
+- b. nella procedura di conciliazione;
+- c. nella procedura sommaria, eccettuati i provvedimenti cautelari di cui all’articolo 248 lettera d e le cause del diritto di famiglia di cui agli articoli 271, 276, 302 e 305;
+- d. nella procedura di ricorso.
+
+[^98-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 99
 
@@ -1058,7 +1146,7 @@ Non vi è obbligo di prestare cauzione:
 - d.[^99-1] nella procedura relativa a una controversia secondo la LPD[^99-2].
 
 [^99-1]: Introdotta dall’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^99-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^99-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 100
 
@@ -1124,7 +1212,9 @@ Le decisioni in materia di anticipazione delle spese e di prestazione della cauz
 
 <sup>2</sup> In caso di soccombenza parziale reciproca, le spese giudiziarie sono ripartite secondo l’esito della procedura.
 
-<sup>3</sup> Se al processo partecipano più persone come parti principali o parti accessorie, il giudice ne determina la rispettiva quota di spese giudiziarie. Può anche decidere che tutte rispondano solidalmente.
+<sup>3</sup> Se al processo partecipano più persone come parti principali o parti accessorie, il giudice ne determina la rispettiva quota di spese giudiziarie in ragione della loro partecipazione. In caso di litisconsorzio necessario, può anche decidere che tutte rispondano solidalmente.[^106-1]
+
+[^106-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 107
 
@@ -1176,11 +1266,14 @@ La decisione in materia di spese è impugnabile a titolo indipendente soltanto m
 
 **Liquidazione delle spese giudiziarie**
 
-<sup>1</sup> Le spese processuali sono compensate con gli anticipi prestati dalle parti. L’eventuale scoperto è a carico di chi è condannato a pagare le spese.
+<sup>1</sup> Le spese processuali sono compensate con gli anticipi prestati dalle parti nei casi in cui la parte che ha prestato un anticipo è condannata a pagare le spese. Negli altri casi, l’anticipo è rimborsato. L’importo che non fosse coperto dagli anticipi è a carico della parte condannata a pagare le spese.[^111-1]
 
-<sup>2</sup> La parte condannata a pagare le spese deve rimborsare all’altra gli anticipi prestati e pagarle le ripetibili assegnate dal giudice.
+<sup>2</sup> La parte condannata a pagare le spese deve pagare all’altra le ripetibili assegnate dal giudice.[^111-2]
 
 <sup>3</sup> Sono fatte salve le disposizioni sul gratuito patrocinio.
+
+[^111-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^111-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 112
 
@@ -1212,13 +1305,13 @@ Nella procedura di conciliazione non sono addossate spese processuali per le con
 - f. derivanti da assicurazioni complementari all’assicurazione sociale contro le malattie secondo la legge federale del 18 marzo 1994[^113-5] sull’assicurazione malattie;
 - g.[^113-6] secondo la LPD[^113-7].
 
-[^113-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^113-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^113-3]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
-[^113-4]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^113-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^113-1]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^113-2]: [RS 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^113-3]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^113-4]: [RS 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^113-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^113-6]: Introdotta dall’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^113-7]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^113-7]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 114
 
@@ -1234,15 +1327,15 @@ Nella procedura decisionale non sono addossate spese processuali per le controve
 - f.[^114-6] per violenze, minacce o insidie secondo l’articolo 28*b* CC[^114-7] o riguardanti la sorveglianza elettronica secondo l’articolo 28*c* CC;
 - g.[^114-8] secondo la LPD[^114-9].
 
-[^114-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^114-2]: [RS 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^114-3]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
-[^114-4]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^114-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^114-1]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^114-2]: [RS 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^114-3]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^114-4]: [RS 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^114-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^114-6]: Introdotta dal n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^114-7]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^114-7]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^114-8]: Introdotta dall’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^114-9]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^114-9]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 115
 
@@ -1252,7 +1345,7 @@ Nella procedura decisionale non sono addossate spese processuali per le controve
 
 <sup>2</sup> Per le controversie di cui all’articolo 114 lettera f le spese processuali possono essere addossate alla parte soccombente se contro di essa è stato ordinato un divieto secondo l’articolo 28*b* CC[^115-1] o una sorveglianza elettronica secondo l’articolo 28*c* CC.[^115-2]
 
-[^115-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^115-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^115-2]: Introdotto dal n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 116
@@ -1286,9 +1379,11 @@ Il gratuito patrocinio comprende:
 - b. l’esenzione dalle spese processuali;
 - c. la designazione di un patrocinatore d’ufficio, se necessario per tutelare i diritti dell’interessato, segnatamente se la controparte è patrocinata da un avvocato; il patrocinatore può essere designato già per la preparazione del processo.
 
-<sup>2</sup> Il gratuito patrocinio può essere concesso integralmente o in parte.
+<sup>2</sup> Il gratuito patrocinio può essere concesso integralmente o in parte. Può essere concesso anche per l’assunzione di prove a titolo cautelare.[^118-1]
 
 <sup>3</sup> Il gratuito patrocinio non esenta dal pagamento delle ripetibili alla controparte.
+
+[^118-1]: Per. introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 119
 
@@ -1400,7 +1495,16 @@ Per semplificare il processo il giudice può segnatamente:
 
 #### Art. 129
 
-Il procedimento si svolge nella lingua ufficiale del Cantone. In presenza di più lingue ufficiali i Cantoni emanano le necessarie disposizioni.
+<sup>1</sup> Il procedimento si svolge nella lingua ufficiale del Cantone. In presenza di più lingue ufficiali i Cantoni emanano le necessarie disposizioni.
+
+<sup>2</sup>
+
+Il diritto cantonale può prevedere che, su richiesta di tutte le parti, siano utilizzate le seguenti lingue:
+
+- a. un’altra lingua nazionale, fermo restando che nessuna parte può rinunciare a priori alla lingua del procedimento ai sensi del capoverso 1;
+- b. l’inglese davanti al tribunale commerciale, o davanti al giudice ordinario, nel contenzioso commerciale internazionale ai sensi dell’articolo 6 capoverso 4 lettera c.[^129-1]
+
+[^129-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Sezione 2: Atti scritti delle parti
 
@@ -1419,7 +1523,7 @@ In caso di trasmissione per via elettronica, l’atto scritto deve essere munito
 - c. le condizioni alle quali può essere richiesta la trasmissione successiva di documenti cartacei in caso di problemi tecnici.
 
 [^130-1]: Nuovo testo giusta l’all. n. II 5 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^130-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^130-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 131
 
@@ -1448,10 +1552,12 @@ La citazione contiene:
 - a. il nome e l’indirizzo della persona citata;
 - b. l’oggetto della causa e le parti;
 - c. la qualità nella quale la persona è citata;
-- d. il luogo, la data e l’ora della prevista comparizione;
+- d.[^133-1] il luogo, la data e l’ora in cui la persona citata deve comparire, o essere dispo-nibile in caso d’impiego di strumenti elettronici di trasmissione audiovisiva;
 - e. l’atto processuale per il quale la persona è citata;
 - f. le conseguenze in caso di mancata comparizione;
 - g. la data della citazione medesima e la firma dell’autorità citante.
+
+[^133-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 134
 
@@ -1519,7 +1625,7 @@ Il Consiglio federale disciplina:
 - d. il momento in cui la citazione, l’ordinanza o la decisione è considerata notificata.
 
 [^139-1]: Nuovo testo giusta l’all. n. II 5 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^139-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^139-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 140
 
@@ -1541,6 +1647,38 @@ La notificazione è fatta mediante pubblicazione nel Foglio ufficiale cantonale 
 
 <sup>2</sup> La notificazione è considerata avvenuta il giorno della pubblicazione.
 
+### Sezione 5: Impiego di strumenti elettronici di trasmissione audiovisiva
+
+[^part1-tit9-chap2-sec5-1]
+
+[^part1-tit9-chap2-sec5-1]: Introdotta dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 141a
+
+**Principi**
+
+<sup>1</sup> Il giudice può, su richiesta o d’ufficio, compiere atti processuali orali mediante strumenti elettronici di trasmissione audiovisiva, segnatamente mediante videoconferenza, o permettere alle persone che partecipano al procedimento di farlo mediante tali strumenti, sempre che la legge non disponga altrimenti e che tutte le parti vi acconsentano.
+
+<sup>2</sup> In quanto il presente Codice esiga la comparizione personale delle parti, l’impiego degli strumenti elettronici è ammesso soltanto se queste vi acconsentono e preponderanti interessi pubblici o privati non vi si oppongono.
+
+<sup>3</sup> In quanto il presente Codice preveda che un’udienza è pubblica, il giudice deve consentire a chi ne fa richiesta di seguirla in loco. Può anche consentire di seguirla mediante strumenti elettronici senza previa richiesta.
+
+#### Art. 141b
+
+**Condizioni**
+
+<sup>1</sup>
+
+L’impiego degli strumenti elettronici di trasmissione audiovisiva è ammesso soltanto se:
+
+- a. il suono e l’immagine pervengono simultaneamente a tutti i partecipanti all’atto processuale;
+- b. gli esami testimoniali, l’interrogatorio e le deposizioni delle parti e l’audizione di altre persone sono registrati, fermo restando che negli altri casi l’udienza può eccezionalmente essere registrata su richiesta o d’ufficio in quanto non serva esclusivamente a esporre liberamente l’oggetto litigioso o a tentare un’intesa tra le parti; e
+- c. sono garantite la protezione e la sicurezza dei dati.
+
+<sup>2</sup> Con il consenso dei diretti interessati, si può eccezionalmente rinunciare alla trasmissione dell’immagine se un’urgenza particolare o altre circostanze speciali del caso specifico lo esigono.
+
+<sup>3</sup> Il Consiglio federale disciplina le condizioni tecniche e i requisiti in materia di protezione e sicurezza dei dati.
+
 ### Capitolo 3: Termini, inosservanza e restituzione
 
 ### Sezione 1: Termini
@@ -1551,9 +1689,13 @@ La notificazione è fatta mediante pubblicazione nel Foglio ufficiale cantonale 
 
 <sup>1</sup> I termini la cui decorrenza dipende da una comunicazione o dal verificarsi di un evento decorrono a partire dal giorno successivo.
 
+<sup>1bis</sup> Se una notificazione avviene per invio postale ordinario ai sensi dell’articolo 138 capoverso 4 un sabato, una domenica o un giorno che nel luogo del tribunale è riconosciuto festivo dal diritto federale o cantonale, la comunicazione secondo il capoverso 1 è considerata avvenuta il primo giorno feriale seguente.[^142-1]
+
 <sup>2</sup> Il termine fissato in mesi scade, nell’ultimo mese, il giorno corrispondente per numero a quello della decorrenza. Mancando tale giorno nell’ultimo mese, il termine scade l’ultimo giorno di detto mese.
 
 <sup>3</sup> Se l’ultimo giorno del termine è un sabato, una domenica o un giorno che nel luogo del tribunale è riconosciuto festivo dal diritto federale o cantonale, il termine scade il primo giorno feriale seguente.
+
+[^142-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 143
 
@@ -1561,11 +1703,14 @@ La notificazione è fatta mediante pubblicazione nel Foglio ufficiale cantonale 
 
 <sup>1</sup> Gli atti scritti devono essere consegnati al tribunale oppure, all’indirizzo di questo, alla posta svizzera o a una rappresentanza diplomatica o consolare svizzera il più tardi l’ultimo giorno del termine.
 
-<sup>2</sup> In caso di trasmissione per via elettronica, per l’osservanza di un termine fa stato il momento in cui è rilasciata la ricevuta attestante che la parte ha eseguito tutte le operazioni necessarie per la trasmissione.[^143-1]
+<sup>1bis</sup> Gli atti scritti consegnati entro il termine ma indirizzati per errore a un tribunale svizzero incompetente sono considerati consegnati tempestivamente. Se è competente un altro tribunale svizzero, il tribunale incompetente gli inoltra d’ufficio gli atti scritti.[^143-1]
+
+<sup>2</sup> In caso di trasmissione per via elettronica, per l’osservanza di un termine fa stato il momento in cui è rilasciata la ricevuta attestante che la parte ha eseguito tutte le operazioni necessarie per la trasmissione.[^143-2]
 
 <sup>3</sup> Il termine per un pagamento al tribunale è osservato se l’importo dovuto è versato alla posta svizzera, oppure addebitato a un conto postale o bancario in Svizzera, in favore del tribunale, il più tardi l’ultimo giorno del termine.
 
-[^143-1]: Nuovo testo giusta l’all. n. II 5 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^143-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^143-2]: Nuovo testo giusta l’all. n. II 5 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 144
 
@@ -1596,9 +1741,10 @@ Questa sospensione dei termini non vale per:
 
 <sup>3</sup> Le parti sono rese attente alle eccezioni di cui al capoverso 2.
 
-<sup>4</sup> Sono fatte salve le disposizioni della LEF[^145-1] sulle ferie e sospensioni.
+<sup>4</sup> Le disposizioni del presente Codice sulla sospensione dei termini si applicano alle azioni fondate sulla LEF[^145-1] che devono essere proposte al giudice. Non si applicano al ricorso all’autorità di vigilanza.[^145-2]
 
-[^145-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^145-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^145-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 146
 
@@ -1632,9 +1778,11 @@ Questa sospensione dei termini non vale per:
 
 #### Art. 149
 
-**Procedura di restituzione**
+**Procedura di restituzione**[^149-1]
 
-Il giudice dà alla controparte l’opportunità di presentare le proprie osservazioni e decide definitivamente.
+Il giudice dà alla controparte l’opportunità di presentare le proprie osservazioni e decide definitivamente, eccetto che il rifiuto della restituzione comporti la perdita definitiva del diritto in questione.
+
+[^149-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo decimo: Prova
 
@@ -1738,7 +1886,7 @@ Le parti e i terzi sono tenuti a cooperare all’assunzione delle prove. Devono 
 <sup>3</sup> I terzi tenuti a cooperare hanno diritto a un adeguato indennizzo.
 
 [^160-1]: Nuovo testo giusta n. I 4 della LF del 28 set. 2012 che adegua disposizioni di diritto procedurale sul segreto professionale degli avvocati, in vigore dal 1° mag. 2013 ([RU 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [FF 2011 7255](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
-[^160-2]: [RS 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^160-2]: [RS 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 
 #### Art. 161
 
@@ -1769,7 +1917,7 @@ Una parte può rifiutarsi di cooperare qualora:
 
 <sup>2</sup> I depositari di altri segreti legalmente protetti possono rifiutarsi di cooperare qualora rendano verosimile che l’interesse al mantenimento del segreto prevale su quello all’accertamento della verità.
 
-[^163-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^163-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 164
 
@@ -1817,7 +1965,7 @@ Un terzo può rifiutarsi di cooperare:
 
 <sup>3</sup> Sono fatte salve le disposizioni speciali concernenti la comunicazione di dati previste dalla legislazione in materia di assicurazioni sociali.
 
-[^166-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^166-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^166-2]: Nuovo testo giusta l’all. 1 n. 5 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2023 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^166-3]: Nuovo testo giusta l’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
@@ -1838,7 +1986,29 @@ Se il terzo si rifiuta indebitamente di cooperare, il giudice può:
 
 <sup>3</sup> Il terzo può impugnare la decisione del giudice mediante reclamo.
 
-[^167-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^167-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+### Sezione 4: Rifiuto di cooperare riguardo all’attività del servizio giuridico interno di un’impresa
+
+[^part1-tit10-chap2-sec4-1]
+
+[^part1-tit10-chap2-sec4-1]: Introdotta dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 167a
+
+<sup>1</sup>
+
+Una parte può rifiutarsi di cooperare e di produrre documenti riguardo all’attività del proprio servizio giuridico interno se:
+
+- a. è iscritta quale ente giuridico nel registro svizzero di commercio o in un analogo registro estero;
+- b. il servizio giuridico è diretto da una persona titolare di una patente cantonale di avvocato o che soddisfa nel proprio Stato di provenienza i requisiti professionali richiesti per l’esercizio dell’avvocatura; e
+- c. l’attività in questione, qualora fosse svolta da un avvocato, sarebbe considerata come specifica dell’esercizio della sua professione.
+
+<sup>2</sup> Un terzo può rifiutarsi di cooperare e di produrre documenti riguardo alla propria attività in seno al servizio giuridico interno di un’impresa alle condizioni di cui al capoverso 1.
+
+<sup>3</sup> Le parti e i terzi possono impugnare le decisioni sul rifiuto di cooperare di cui ai capoversi 1 e 2 mediante reclamo.
+
+<sup>4</sup> Le spese per le controversie concernenti il diritto di rifiutarsi di cooperare di cui ai capoversi 1 e 2 sono addossate alla parte o al terzo che si prevale di tale diritto.
 
 ### Capitolo 3: Mezzi di prova
 
@@ -1877,6 +2047,14 @@ Chi non è parte può testimoniare sui fatti che ha percepito in modo diretto.
 
 <sup>3</sup> La testimonianza può essere assunta nel luogo di dimora del testimone. Le parti ne sono tempestivamente informate.
 
+#### Art. 170a
+
+**Esame testimoniale mediante videoconferenza**[^170a-1]
+
+Il giudice può procedere a un esame testimoniale mediante videoconferenza o altri strumenti elettronici di trasmissione audiovisiva se preponderanti interessi pubblici o privati, segnatamente la sicurezza del testimone, non vi si oppongono; il giudice e gli altri partecipanti al procedimento possono sia essere fisicamente presenti alla relativa udienza sia collegarsi singolarmente anch’essi mediante tali strumenti elettronici di trasmissione.
+
+[^170a-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
 #### Art. 171
 
 **Forma dell’esame testimoniale**
@@ -1889,7 +2067,7 @@ Chi non è parte può testimoniare sui fatti che ha percepito in modo diretto.
 
 <sup>4</sup> Il giudice non consente al testimone di presenziare ad altre udienze fintanto che non lo ritenga pienamente escusso.
 
-[^171-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^171-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 172
 
@@ -1927,18 +2105,32 @@ A un testimone con conoscenze peritali il giudice può altresì porre domande at
 
 <sup>2</sup> Le deposizioni possono inoltre essere registrate anche su supporto sonoro o video oppure mediante altri strumenti tecnici appropriati.
 
-<sup>3</sup> Se durante un’udienza le deposizioni sono registrate mediante strumenti tecnici secondo il capoverso 2, il giudice unico, il collegio giudicante o il membro dello stesso che procede all’esame testimoniale può rinunciare a leggere o a dare da leggere il verbale al testimone e a farglielo firmare. Le registrazioni sono acquisite agli atti e conservate assieme al verbale.[^176-2]
+<sup>3</sup> ...[^176-2]
 
 [^176-1]: Nuovo testo giusta il n. I 1 della LF del 28 set. 2012 (Disposizioni sulla verbalizzazione), in vigore dal 1° mag. 2013 ([RU 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [FF 2012 5043](https://fedlex.data.admin.ch/eli/fga/2012/860)[5055](https://fedlex.data.admin.ch/eli/fga/2012/862)).
-[^176-2]: Introdotto dal n. I 1 della LF del 28 set. 2012 (Disposizioni sulla verbalizzazione), in vigore dal 1° mag. 2013 ([RU 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [FF 2012 5043](https://fedlex.data.admin.ch/eli/fga/2012/860)[5055](https://fedlex.data.admin.ch/eli/fga/2012/862)).
+[^176-2]: Introdotto dal n. I 1 della LF del 28 set. 2012 (Disposizioni sulla verbalizzazione) ([RU 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [FF 2012 5043](https://fedlex.data.admin.ch/eli/fga/2012/860)[5055](https://fedlex.data.admin.ch/eli/fga/2012/862)). Abrogato dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), con effetto dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 176a
+
+**Verbalizzazione in caso di registrazione**[^176a-1]
+
+Se durante un’udienza le deposizioni sono registrate mediante strumenti tecnici, alla verbalizzazione si applicano le seguenti deroghe:
+
+- a. il verbale può essere redatto successivamente, in base alle registrazioni;
+- b. il giudice unico, il collegio giudicante o il membro dello stesso che procede all’esame testimoniale può rinunciare a leggere o a dare da leggere il verbale al testimone e a farglielo firmare;
+- c. le registrazioni sono acquisite agli atti.
+
+[^176a-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Sezione 3: Documenti
 
 #### Art. 177
 
-**Definizione**
+**Definizione**[^177-1]
 
-Sono documenti gli atti come scritti, disegni, piani, fotografie, film, registrazioni sonore, archivi elettronici e simili, idonei a provare fatti giuridicamente rilevanti.
+Sono documenti gli atti idonei a provare fatti giuridicamente rilevanti, come scritti, disegni, piani, fotografie, film, registrazioni sonore, archivi elettronici e simili, nonché le perizie private delle parti.
+
+[^177-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 178
 
@@ -2000,7 +2192,7 @@ L’ispezione è verbalizzata. Se del caso il verbale è completato con piani, d
 
 <sup>3</sup> Il perito ha diritto d’essere remunerato. La decisione del giudice sulla remunerazione del perito è impugnabile mediante reclamo.
 
-[^184-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^184-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 185
 
@@ -2024,13 +2216,16 @@ L’ispezione è verbalizzata. Se del caso il verbale è completato con piani, d
 
 **Presentazione della perizia**
 
-<sup>1</sup> Il giudice può ordinare la presentazione di una perizia orale o scritta. Può inoltre far obbligo al perito di illustrare nel corso di un’udienza la perizia scritta.
+<sup>1</sup> Il giudice può ordinare la presentazione di una perizia orale o scritta. Può inoltre far obbligo al perito di illustrare nel corso di un’udienza la perizia scritta. L’articolo 170*a* si applica per analogia.[^187-1]
 
-<sup>2</sup> La perizia orale è verbalizzata in applicazione analogica dell’articolo 176.
+<sup>2</sup> La perizia orale è verbalizzata in applicazione analogica degli articoli 176 e 176*a*.[^187-2]
 
 <sup>3</sup> Se sono stati nominati più periti, ciascuno di essi presenta una propria perizia, salvo che il giudice disponga altrimenti.
 
 <sup>4</sup> Il giudice dà modo alle parti di chiedere la delucidazione o un completamento della perizia.
+
+[^187-1]: Terzo per. introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^187-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 188
 
@@ -2082,13 +2277,15 @@ La perizia dell’arbitratore vincola il giudice riguardo ai fatti ivi accertati
 
 <sup>2</sup> Prima della deposizione, la parte è esortata a dire la verità e resa attenta alle conseguenze penali di una falsa dichiarazione in giudizio (art. 306 CP[^192-1]).
 
-[^192-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^192-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 193
 
-**Verbale**
+**Verbale e videoconferenza**[^193-1]
 
-Alla verbalizzazione dell’interrogatorio e delle deposizioni delle parti si applica per analogia l’articolo 176.
+All’interrogatorio e alle deposizioni delle parti si applicano per analogia gli articoli 170*a*, 176 e 176*a*.
+
+[^193-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo undicesimo: Assistenza giudiziaria tra tribunali svizzeri
 
@@ -2137,14 +2334,14 @@ La procedura decisionale è preceduta da un tentativo di conciliazione davanti a
 La procedura di conciliazione non ha luogo:
 
 - a. nella procedura sommaria;
-- a<sup>bis</sup>.[^198-1] nelle azioni per violenze, minacce o insidie secondo l’articolo 28*b* CC[^198-2] o riguardanti una sorveglianza elettronica secondo l’articolo 28*c* CC;
+- a<sup>bis</sup>.[^198-1] in caso di azioni per violenze, minacce o insidie secondo l’articolo 28*b* CC[^198-2] o riguardanti una sorveglianza elettronica secondo l’articolo 28*c* CC;
 - b. nelle cause sullo stato delle persone;
-- b<sup>bis</sup>.[^198-3] nelle cause sul mantenimento e sulle altre questioni riguardanti i figli, se uno dei genitori si è rivolto all’autorità di protezione dei minori prima che fosse promossa la causa (art. 298*b* e 298*d* CC[^198-4]);
+- b<sup>bis</sup>.[^198-3] nelle cause sul mantenimento dei figli minorenni e maggiorenni e sugli altri interessi dei figli;
 - c. nelle cause di divorzio;
-- d.[^198-5] nelle cause di scioglimento e di annullamento dell’unione domestica registrata;
+- d.[^198-4] nelle cause di scioglimento e di annullamento dell’unione domestica registrata;
 - e.
 
-  nelle seguenti cause rette dalla LEF[^198-6]:
+  nelle seguenti cause rette dalla LEF[^198-5]:
 
   - 1\. azione di disconoscimento del debito (art. 83 cpv. 2 LEF),
   - 2\. azione d’accertamento (art. 85*a* LEF),
@@ -2155,16 +2352,19 @@ La procedura di conciliazione non ha luogo:
   - 7\. azione d’accertamento del ritorno a miglior fortuna (art. 265*a* LEF),
   - 8\. azione di reintegrazione di oggetti vincolati al diritto di ritenzione (art. 284 LEF);
 
-- f. nelle controversie per cui gli articoli 5 e 6 del presente Codice prevedono il giudizio in istanza cantonale unica;
+- f.[^198-6] nelle controversie per cui l’articolo 7 del presente Codice prevede il giudizio in istanza cantonale unica;
 - g. in caso di intervento principale, di domanda riconvenzionale e di azione di chiamata in causa;
-- h. allorché il giudice ha impartito un termine per proporre azione.
+- h.[^198-7] in caso di azione da proporre entro un termine impartito dal giudice, né di azioni riunite e materialmente connesse con la stessa;
+- i.[^198-8] in caso di azioni davanti al Tribunale federale dei brevetti.
 
-[^198-1]: Introdotta dal n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^198-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^198-3]: Introdotta dall’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^198-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^198-5]: Nuovo testo giusta il n. II della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^198-6]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^198-1]: Introdotta dal n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)). Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^198-3]: Introdotta dall’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio) ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)). Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-4]: Nuovo testo giusta il n. II della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^198-5]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^198-6]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-7]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-8]: Introdotta dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 199
 
@@ -2180,7 +2380,10 @@ L’attore può inoltre rinunciare unilateralmente alla procedura di conciliazio
 - b. quando il convenuto è di ignota dimora;
 - c. nelle controversie secondo la legge federale del 24 marzo 1995[^199-1] sulla parità dei sessi.
 
-[^199-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+<sup>3</sup> Nelle controversie per cui gli articoli 5, 6 e 8 prevedono il giudizio in istanza cantonale unica l’attore può proporre direttamente azione al giudice.[^199-2]
+
+[^199-1]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^199-2]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 200
 
@@ -2190,7 +2393,7 @@ L’attore può inoltre rinunciare unilateralmente alla procedura di conciliazio
 
 <sup>2</sup> Nelle controversie secondo la legge federale del 24 marzo 1995[^200-1] sulla parità dei sessi l’autorità di conciliazione è composta di un presidente e di una rappresentanza paritetica di datori di lavoro e lavoratori, del settore pubblico e privato; ambo i sessi vi devono essere pariteticamente rappresentati.
 
-[^200-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^200-1]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
 
 #### Art. 201
 
@@ -2212,7 +2415,9 @@ L’attore può inoltre rinunciare unilateralmente alla procedura di conciliazio
 
 <sup>3</sup> L’autorità di conciliazione notifica senza indugio l’istanza alla controparte e nel contempo cita le parti all’udienza di conciliazione.
 
-<sup>4</sup> Nelle controversie di cui all’articolo 200, qualora entri in linea di conto una proposta di giudizio ai sensi dell’articolo 210 o una sua decisione nel merito secondo l’articolo 212, l’autorità di conciliazione può eccezionalmente disporre che si proceda a uno scambio di scritti.
+<sup>4</sup> Nelle controversie di cui all’articolo 200, qualora entri in linea di conto una proposta di decisione[^202-1] ai sensi dell’articolo 210 o una sua decisione nel merito secondo l’articolo 212, l’autorità di conciliazione può eccezionalmente disporre che si proceda a uno scambio di scritti.
+
+[^202-1]: Nuova espr. giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 203
 
@@ -2220,7 +2425,7 @@ L’attore può inoltre rinunciare unilateralmente alla procedura di conciliazio
 
 <sup>1</sup> L’udienza di conciliazione ha luogo entro due mesi dal ricevimento dell’istanza o dalla chiusura dello scambio di scritti.
 
-<sup>2</sup> L’autorità di conciliazione prende visione degli eventuali documenti e può procedere a un’ispezione oculare. Se entra in linea di conto una proposta di giudizio ai sensi dell’articolo 210 o una sua decisione nel merito secondo l’articolo 212, può avvalersi anche degli altri mezzi di prova, sempre che il procedimento non ne risulti eccessivamente ritardato.
+<sup>2</sup> L’autorità di conciliazione prende visione degli eventuali documenti e può procedere a un’ispezione oculare. Se entra in linea di conto una proposta di decisione ai sensi dell’articolo 210 o una sua decisione nel merito secondo l’articolo 212, può avvalersi anche degli altri mezzi di prova, sempre che il procedimento non ne risulti eccessivamente ritardato.
 
 <sup>3</sup> L’udienza non è pubblica. Se sussiste un interesse pubblico, nelle controversie secondo l’articolo 200 l’autorità di conciliazione può tuttavia, in tutto o in parte, disporre altrimenti.
 
@@ -2230,19 +2435,26 @@ L’attore può inoltre rinunciare unilateralmente alla procedura di conciliazio
 
 **Comparizione personale**
 
-<sup>1</sup> Le parti devono comparire personalmente all’udienza di conciliazione.
+<sup>1</sup> Le parti devono comparire personalmente all’udienza di conciliazione. Se una persona giuridica è parte, devono comparire per lei un organo oppure una persona con mandato commerciale, autorizzata a condurre la causa e a concludere transazioni e con una buona conoscenza dell’oggetto litigioso.[^204-1]
 
-<sup>2</sup> Possono farsi assistere da patrocinatori o da persone di fiducia.
+<sup>2</sup> Le parti possono farsi assistere da patrocinatori o da persone di fiducia.[^204-2]
 
 <sup>3</sup>
 
-Non è tenuto a comparire personalmente e può farsi rappresentare:
+Non sono tenuti a comparire personalmente e possono farsi rappresentare: [^204-3]
 
-- a. chi è domiciliato fuori Cantone o all’estero;
+- a.[^204-4] chi ha domicilio o sede fuori Cantone o all’estero;
 - b. chi è impedito a seguito di malattia, età avanzata o per altri motivi gravi;
-- c. nelle controversie secondo l’articolo 243, il datore di lavoro o assicuratore che delega un suo dipendente oppure il locatore che delega l’amministratore dell’immobile, a condizione che tali delegati siano stati autorizzati per scritto a concludere una transazione.
+- c. nelle controversie secondo l’articolo 243, il datore di lavoro o assicuratore che delega un suo dipendente oppure il locatore che delega l’amministratore dell’immobile, a condizione che tali delegati siano stati autorizzati per scritto a concludere una transazione;
+- d. [^204-5] in caso di pluralità di attori o convenuti, se uno di essi compare ed è autorizzato a rappresentare gli altri e a concludere una transazione in loro nome, gli altri attori o convenuti..
 
 <sup>4</sup> La controparte dev’essere previamente informata della rappresentanza.
+
+[^204-1]: Per. introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-5]: Introdotta dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 205
 
@@ -2250,7 +2462,9 @@ Non è tenuto a comparire personalmente e può farsi rappresentare:
 
 <sup>1</sup> Le dichiarazioni delle parti non possono essere verbalizzate, né utilizzate nella susseguente procedura decisionale.
 
-<sup>2</sup> È eccettuato il caso di proposta di giudizio o di decisione nel merito dell’autorità di conciliazione.
+<sup>2</sup> È eccettuato il caso di proposta di decisione (art. 210) o di decisione nel merito (art. 212) dell’autorità di conciliazione.[^205-1]
+
+[^205-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 206
 
@@ -2261,6 +2475,10 @@ Non è tenuto a comparire personalmente e può farsi rappresentare:
 <sup>2</sup> Se il convenuto ingiustificatamente non compare, l’autorità di conciliazione procede come in caso di mancata conciliazione (art. 209–212).
 
 <sup>3</sup> Se entrambe le parti ingiustificatamente non compaiono, la causa è stralciata dal ruolo in quanto priva d’oggetto.
+
+<sup>4</sup> La parte che ingiustificatamente non compare può essere punita con la multa disciplinare fino a 1000 franchi.[^206-1]
+
+[^206-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 207
 
@@ -2310,42 +2528,46 @@ L’autorizzazione ad agire contiene:
 
 <sup>3</sup> L’autorizzazione ad agire permette di inoltrare la causa al tribunale entro tre mesi dalla notificazione.
 
-<sup>4</sup> Nelle controversie in materia di locazione e affitto di abitazioni e di locali commerciali come pure di affitto agricolo il termine di inoltro della causa è di 30 giorni. Sono fatti salvi gli altri termini speciali d’azione previsti dalla legge o dal giudice.
+<sup>4</sup> Nelle controversie in materia di locazione e affitto di abitazioni e di locali commerciali come pure di affitto agricolo il termine di inoltro della causa è di 30 giorni.[^209-1]
 
-### Capitolo 4: Proposta di giudizio e decisione
+[^209-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+### Capitolo 4: Proposta di decisione e decisione
 
 #### Art. 210
 
-**Proposta di giudizio**
+**Proposta di decisione**
 
 <sup>1</sup>
 
-L’autorità di conciliazione può sottoporre alle parti una proposta di giudizio:
+L’autorità di conciliazione può sottoporre alle parti una proposta di decisione:[^210-1]
 
-- a. nelle controversie secondo la legge federale del 24 marzo 1995[^210-1] sulla parità dei sessi;
+- a. nelle controversie secondo la legge federale del 24 marzo 1995[^210-2] sulla parità dei sessi;
 - b. nelle controversie in materia di locazione e affitto di abitazioni e di locali commerciali come pure di affitto agricolo, se vertenti sul deposito di pigioni o fitti, sulla protezione da pigioni o fitti abusivi, sulla protezione dalla disdetta o sulla protrazione del rapporto di locazione o d’affitto;
-- c. nelle altre controversie patrimoniali fino a un valore litigioso di 5000 franchi.
+- c.[^210-3] nelle altre controversie patrimoniali fino a un valore litigioso di 10 000 franchi.
 
-<sup>2</sup> La proposta di giudizio può contenere una breve motivazione; per il resto si applica per analogia l’articolo 238.
+<sup>2</sup> La proposta di decisione può contenere una breve motivazione; per il resto si applica per analogia l’articolo 238.
 
-[^210-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^210-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^210-2]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^210-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 211
 
 **Effetti**
 
-<sup>1</sup> Se nessuna delle parti la rifiuta entro 20 giorni dalla comunicazione scritta, la proposta di giudizio è considerata accettata e ha l’effetto di una decisione passata in giudicato. Il rifiuto non abbisogna d’essere motivato.
+<sup>1</sup> Se nessuna delle parti la rifiuta entro 20 giorni dalla comunicazione scritta, la proposta di decisione è considerata accettata e ha l’effetto di una decisione passata in giudicato. Il rifiuto non abbisogna d’essere motivato.
 
 <sup>2</sup>
 
 Preso atto del rifiuto, l’autorità di conciliazione rilascia l’autorizzazione ad agire:
 
-- a. nelle controversie di cui all’articolo 210 capoverso 1 lettera b, alla parte che ha rifiutato la proposta di giudizio;
+- a. nelle controversie di cui all’articolo 210 capoverso 1 lettera b, alla parte che ha rifiutato la proposta di decisione;
 - b. negli altri casi, all’attore.
 
-<sup>3</sup> Nelle controversie di cui all’articolo 210 capoverso 1 lettera b, se l’azione non è promossa tempestivamente la proposta di giudizio è considerata accettata e ha l’effetto di una decisione passata in giudicato.
+<sup>3</sup> Nelle controversie di cui all’articolo 210 capoverso 1 lettera b, se l’azione non è promossa tempestivamente la proposta di decisione è considerata accettata e ha l’effetto di una decisione passata in giudicato.
 
-<sup>4</sup> Nella proposta di giudizio le parti sono rese attente alle conseguenze di cui ai capoversi 1–3.
+<sup>4</sup> Nella proposta di decisione le parti sono rese attente alle conseguenze di cui ai capoversi 1–3.
 
 #### Art. 212
 
@@ -2354,6 +2576,10 @@ Preso atto del rifiuto, l’autorità di conciliazione rilascia l’autorizzazio
 <sup>1</sup> Se l’attore ne fa richiesta, l’autorità di conciliazione può giudicare essa stessa le controversie patrimoniali con un valore litigioso fino a 2000 franchi.
 
 <sup>2</sup> La procedura è orale.
+
+<sup>3</sup> In caso di decisione ai sensi del capoverso 1, l’autorità di conciliazione statuisce sulle spese processuali e assegna le ripetibili.[^212-1]
+
+[^212-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo secondo: Mediazione
 
@@ -2482,9 +2708,18 @@ Alla petizione devono essere allegati:
 
 <sup>1</sup> Nella risposta, il convenuto può proporre una domanda riconvenzionale se la pretesa addotta è giudicabile secondo la procedura applicabile all’azione principale.
 
+<sup>1bis</sup>
+
+La domanda riconvenzionale è pure ammissibile e dev’essere giudicata in procedura ordinaria assieme all’azione principale se:
+
+- a. la pretesa addotta dev’essere giudicata in procedura semplificata soltanto a causa del valore litigioso, mentre l’azione principale è giudicata in procedura ordinaria; o
+- b. con la domanda riconvenzionale si chiede che sia accertata l’inesistenza di un diritto o di un rapporto giuridico determinato, mentre l’azione principale verte unicamente su una parte della pretesa derivante da tale diritto o rapporto giuridico e deve quindi essere giudicata in procedura semplificata soltanto a causa del valore litigioso.[^224-1]
+
 <sup>2</sup> Se il valore litigioso della domanda riconvenzionale eccede la competenza per materia del giudice adito, questi rimette l’azione principale e la domanda riconvenzionale al giudice competente per il maggior valore.
 
 <sup>3</sup> Se il convenuto propone domanda riconvenzionale, il giudice assegna all’attore un termine per presentare una risposta scritta. L’attore non può però rispondere con una sua propria domanda riconvenzionale.
+
+[^224-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 225
 
@@ -2531,18 +2766,22 @@ La mutazione dell’azione è ammissibile se la nuova o ulteriore pretesa deve e
 
 **Nuovi fatti e nuovi mezzi di prova**
 
-<sup>1</sup>
+<sup>1</sup> Se non vi sono stati né un secondo scambio di scritti né un’udienza di istruzione della causa, nuovi fatti e nuovi mezzi di prova possono essere addotti nel dibattimento, senza alcuna limitazione, durante le prime arringhe ai sensi dell’articolo 228 capoverso 1.[^229-1]
 
-Nel dibattimento nuovi fatti e nuovi mezzi di prova sono considerati soltanto se vengono immediatamente addotti e:
+<sup>2</sup>
 
-- a.[^229-1] sono sorti soltanto dopo la chiusura dello scambio di scritti o dopo l’ultima udienza di istruzione della causa; oppure
-- b. sussistevano già prima della chiusura dello scambio di scritti o prima dell’ultima udienza di istruzione della causa, ma non era possibile addurli nemmeno con la diligenza ragionevolmente esigibile tenuto conto delle circostanze.
+Negli altri casi, nuovi fatti e nuovi mezzi di prova possono essere addotti entro un termine impartito dal giudice o, in mancanza di tale termine, il più tardi durante le prime arringhe ai sensi dell’articolo 228 capoverso 1, se:
 
-<sup>2</sup> Se non vi sono stati né un secondo scambio di scritti né un’udienza di istruzione della causa, nuovi fatti e nuovi mezzi di prova possono essere addotti all’inizio del dibattimento, senza alcuna limitazione.
+- a. sono sorti soltanto dopo la chiusura dello scambio di scritti o dopo l’ultima udienza di istruzione della causa; oppure
+- b. sussistevano già prima della chiusura dello scambio di scritti o prima dell’ultima udienza di istruzione della causa, ma non era possibile addurli nemmeno con la diligenza ragionevolmente esigibile tenuto conto delle circostanze.[^229-2]
+
+<sup>2bis</sup> Dopo le prime arringhe, nuovi fatti e nuovi mezzi di prova secondo il capoverso 2 lettere a e b sono considerati soltanto se vengono addotti entro un termine impartito dal giudice o, in mancanza di tale termine, se vengono addotti il più tardi nell’udienza successiva.[^229-3]
 
 <sup>3</sup> Quando deve chiarire d’ufficio i fatti, il giudice considera i nuovi fatti e i nuovi mezzi di prova fino alla deliberazione della sentenza.
 
-[^229-1]: Nuovo testo giusta il n. II della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^229-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^229-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^229-3]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 230
 
@@ -2638,8 +2877,10 @@ La decisione contiene:
 - d. il dispositivo;
 - e. l’indicazione delle persone e autorità cui la decisione deve essere comunicata;
 - f. l’indicazione dei mezzi di impugnazione, se le parti non hanno rinunciato all’impugnazione medesima;
-- g. se del caso, i motivi su cui si fonda;
+- g.[^238-1] se del caso, i motivi essenziali di fatto e di diritto su cui si fonda;
 - h. la firma del tribunale.
+
+[^238-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 239
 
@@ -2647,16 +2888,18 @@ La decisione contiene:
 
 <sup>1</sup>
 
-Il giudice può notificare la sua decisione senza motivazione scritta:
+Il giudice notifica di regola la sua decisione senza motivazione scritta:[^239-1]
 
 - a. al dibattimento, consegnando alle parti il dispositivo scritto, con una breve motivazione orale;
-- b. recapitando il dispositivo alle parti.
+- b.[^239-2] recapitando rapidamente il dispositivo alle parti.
 
 <sup>2</sup> La motivazione scritta è fatta pervenire in un secondo tempo se una parte lo chiede entro dieci giorni dalla comunicazione della decisione. L’omessa richiesta di motivazione si ha per rinuncia all’impugnazione della decisione mediante appello o reclamo.
 
-<sup>3</sup> Sono fatte salve le disposizioni della legge del 17 giugno 2005[^239-1] sul Tribunale federale concernenti la notificazione di decisioni che possono essere impugnate davanti al Tribunale federale.
+<sup>3</sup> Sono fatte salve le disposizioni della legge del 17 giugno 2005[^239-3] sul Tribunale federale concernenti la notificazione di decisioni che possono essere impugnate davanti al Tribunale federale.
 
-[^239-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^239-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^239-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^239-3]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 240
 
@@ -2664,7 +2907,11 @@ Il giudice può notificare la sua decisione senza motivazione scritta:
 
 Se la legge lo prevede o ai fini dell’esecuzione, la decisione è comunicata ad autorità e terzi interessati oppure pubblicata.
 
-### Capitolo 6: Fine del procedimento senza decisione del giudice
+### Capitolo 6: Fine del procedimento senza decisione di merito
+
+[^part2-tit3-chap6-1]
+
+[^part2-tit3-chap6-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 241
 
@@ -2678,9 +2925,11 @@ Se la legge lo prevede o ai fini dell’esecuzione, la decisione è comunicata a
 
 #### Art. 242
 
-**Causa divenuta priva d’oggetto per altri motivi**
+**Causa divenuta priva d’oggetto per altri motivi**[^242-1]
 
-La causa è parimenti stralciata dal ruolo se il procedimento termina per altri motivi senza decisione del giudice.
+Il giudice pronuncia parimenti lo stralcio della causa dal ruolo se il procedimento termina senza decisione di merito per altri motivi.
+
+[^242-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo quarto: Procedura semplificata
 
@@ -2703,13 +2952,13 @@ Senza riguardo al valore litigioso, la procedura semplificata si applica nelle c
 
 <sup>3</sup> La procedura semplificata non si applica nelle controversie giudicate in istanza cantonale unica secondo gli articoli 5 e 8 o deferite al tribunale commerciale secondo l’articolo 6.
 
-[^243-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^243-1]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
 [^243-2]: Nuovo testo giusta il n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^243-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^243-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^243-4]: Nuovo testo giusta l’all. 1 n. II 24 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^243-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^243-6]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^243-7]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^243-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^243-6]: [RS 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^243-7]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 244
 
@@ -2739,9 +2988,12 @@ Vanno allegati:
 
 **Citazione al dibattimento e osservazioni del convenuto**
 
-<sup>1</sup> Se la petizione non contiene una motivazione, il giudice la notifica al convenuto e nel contempo cita le parti al dibattimento.
+<sup>1</sup> Se la petizione non contiene una motivazione, il giudice la notifica al convenuto e nel contempo cita le parti al dibattimento. Se una parte ingiustificatamente non compare, il giudice cita senza indugio ancora un’unica volta le parti al dibattimento rendendole attente alle conseguenze di un’eventuale loro nuova mancata comparizione. La nuova udienza si svolge entro 30 giorni dalla prima.[^245-1]
 
-<sup>2</sup> Se la petizione contiene una motivazione, il giudice assegna dapprima al convenuto un termine per presentare per scritto le proprie osservazioni.
+<sup>2</sup> Se la petizione contiene una motivazione, il giudice assegna dapprima al convenuto un termine per presentare per scritto le proprie osservazioni. Se il giudice cita le parti al dibattimento, l’articolo 234 si applica per analogia in caso di mancata comparizione.[^245-2]
+
+[^245-1]: Secondo e terzo per. introdotti dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^245-2]: Per. introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 246
 
@@ -2789,7 +3041,7 @@ La procedura sommaria è applicabile:
 
 **Codice civile**
 
-La procedura sommaria si applica segnatamente nelle seguenti questioni:
+La procedura sommaria si applica nelle seguenti questioni:[^249-1]
 
 - a.
 
@@ -2798,9 +3050,10 @@ La procedura sommaria si applica segnatamente nelle seguenti questioni:
   - 1\. fissazione di un termine per la ratifica di un negozio giuridico di un minorenne o di una persona sotto curatela generale (art. 19*a* CC),
   - 2\. diritto di risposta (art. 28*l* CC),
   - 3\. dichiarazione di scomparsa (art. 35–38 CC),
-  - 4\. rettificazione di un’iscrizione nel registro dello stato civile (art. 42 CC);[^249-1]
+  - 4\. rettificazione di un’iscrizione nel registro dello stato civile (art. 42 CC),
+  - 5\.[^249-2] misure in caso di lacune nell’organizzazione di un’associazione (art. 69*c* CC);[^249-3]
 
-- b.[^249-2] …
+- b.[^249-4] …
 - c.
 
   diritto successorio:
@@ -2821,30 +3074,32 @@ La procedura sommaria si applica segnatamente nelle seguenti questioni:
   - 6\. fissazione del termine per la prestazione di garanzie in caso di usufrutto e revoca del possesso (art. 760 e 762 CC),
   - 7\. domanda di liquidazione della sostanza oggetto di usufrutto (art. 766 CC),
   - 8\. provvedimenti a garanzia dei creditori garantiti da pegno immobiliare (art. 808 cpv. 1 e 2 come pure 809–811 CC),
-  - 9\.[^249-3] designazione del rappresentante di cartelle ipotecarie (art. 850 cpv. 3 CC),
-  - 10\.[^249-4] annullamento di cartelle ipotecarie (art. 856 e 865 CC),
+  - 9\.[^249-5] designazione del rappresentante di cartelle ipotecarie (art. 850 cpv. 3 CC),
+  - 10\.[^249-6] annullamento di cartelle ipotecarie (art. 856 e 865 CC),
   - 11\. annotazione di restrizioni della facoltà di disporre e iscrizioni provvisorie, se contenziose (art. 960 cpv. 1 n. 1, 961 cpv. 1 n. 1 e 966 cpv. 2 CC).
 
-[^249-1]: Nuovo testo giusta l’all. 2 n. 3, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^249-2]: Abrogata dall’all. 2 n. 3, con effetto dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^249-3]: Nuovo testo giusta il n. II 3 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^249-4]: Nuovo testo giusta il n. II 3 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^249-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^249-2]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^249-3]: Nuovo testo giusta l’all. 2 n. 3, in vigore dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^249-4]: Abrogata dall’all. 2 n. 3, con effetto dal 1° gen. 2013 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914); [RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^249-5]: Nuovo testo giusta il n. II 3 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^249-6]: Nuovo testo giusta il n. II 3 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 250
 
 **Codice delle obbligazioni**
 
-La procedura sommaria si applica segnatamente nelle seguenti questioni:
+La procedura sommaria si applica nelle seguenti questioni:[^250-1]
 
 - a.
 
   parte generale:
 
-  - 1\. deposito giudiziale, dopo la cessazione del mandato, di un titolo comprovante il mandato (art. 36 cpv. 1 CO[^250-1]),
+  - 1\. deposito giudiziale, dopo la cessazione del mandato, di un titolo comprovante il mandato (art. 36 cpv. 1 CO[^250-2]),
   - 2\. assegnazione di un congruo termine per la prestazione della garanzia (art. 83 cpv. 2 CO),
   - 3\. deposito e vendita della cosa dovuta in caso di mora del creditore (art. 92 cpv. 2 e 93 cpv. 2 CO),
   - 4\. autorizzazione a eseguire la prestazione a spese del debitore (art. 98 CO),
-  - 5\. fissazione del termine per l’adempimento del contratto (art. 107 cpv. 1[^250-2] CO),
+  - 5\. fissazione del termine per l’adempimento del contratto (art. 107 cpv. 1[^250-3] CO),
   - 6\. deposito dell’importo contestato in caso di cessione (art. 168 cpv. 1 CO);
 
 - b.
@@ -2863,23 +3118,24 @@ La procedura sommaria si applica segnatamente nelle seguenti questioni:
 
 - c.
 
-  diritto societario e registro di commercio:[^250-3]
+  diritto societario e registro di commercio:[^250-4]
 
   - 1\. revoca provvisoria della facoltà di rappresentanza (art. 565 cpv. 2, 603 e 767 cpv. 1 CO),
   - 2\. designazione di un rappresentante comune (art. 690 cpv. 1, 764 cpv. 2, 792 n. 1 e 847 cpv. 4 CO),
   - 3\. nomina, revoca e sostituzione di liquidatori (art. 583 cpv. 2, 619, 740, 741, 770, 826 cpv. 2 e 913 CO),
   - 4\. vendita in blocco e modalità di vendita di immobili (art. 585 cpv. 3 e 619 CO),
   - 5\. designazione di un perito per l’esame del conto dei profitti e delle perdite e del bilancio di una società in accomandita (art. 600 cpv. 3 CO),
-  - 6\.[^250-4] fissazione del termine in caso di numero insufficiente di membri o mancanza di organi (art. 731*b*, 819, 908 e 941*a* CO),
-  - 7\.[^250-5] ordine di fornire ragguagli a creditori e azionisti, a soci di una società a garanzia limitata e a soci di una società cooperativa (art. 697*b*, 802 cpv. 4, 857 cpv. 3 e 958*e* CO),
-  - 8\.[^250-6] verifica speciale (art. 697*c–*697*h*<sup>bis</sup> CO),
-  - 9\.[^250-7] convocazione dell’assemblea generale, iscrizione di un oggetto all’ordine del giorno e iscrizione di proposte e delle relative motivazioni nella convocazione dell’assemblea generale (art. 699 cpv. 5, 699*b* cpv. 4, 805 cpv. 5 n. 2 e 3 e 881 cpv. 3 CO),
-  - 10\.[^250-8] designazione di un rappresentante della società o della società cooperativa in caso di contestazione delle deliberazioni assembleari da parte dell’amministrazione (art. 706*a* cpv. 2, 808*c* e 891 cpv. 1 CO),
-  - 11\.[^250-9] nomina e revoca dell’ufficio di revisione (art. 731*b*, 819 e 908 CO),
+  - 6\.[^250-5] misure in caso di lacune nell’organizzazione di una società (art. 731*b*, 819 e 908 CO),
+  - 7\.[^250-6] ordine di fornire ragguagli a creditori e azionisti, a soci di una società a garanzia limitata e a soci di una società cooperativa (art. 697*b*, 802 cpv. 4, 857 cpv. 3 e 958*e* CO),
+  - 8\.[^250-7] verifica speciale (art. 697*c–*697*h*<sup>bis</sup> CO),
+  - 9\.[^250-8] convocazione dell’assemblea generale, iscrizione di un oggetto all’ordine del giorno e iscrizione di proposte e delle relative motivazioni nella convocazione dell’assemblea generale (art. 699 cpv. 5, 699*b* cpv. 4, 805 cpv. 5 n. 2 e 3 e 881 cpv. 3 CO),
+  - 10\.[^250-9] designazione di un rappresentante della società o della società cooperativa in caso di contestazione delle deliberazioni assembleari da parte dell’amministrazione (art. 706*a* cpv. 2, 808*c* e 891 cpv. 1 CO),
+  - 11\.[^250-10] ...
   - 12\. deposito degli importi dovuti in caso di liquidazione (art. 744, 770, 826 cpv. 2 e 913 CO),
   - 13\. revoca dell’amministrazione e dell’ufficio di revisione di una società cooperativa (art. 890 cpv. 2 CO),
-  - 14\.[^250-10] la reiscrizione nel registro di commercio di un ente giuridico cancellato (art. 935 CO),
-  - 15\.[^250-11] pronuncia dello scioglimento della società e della sua liquidazione secondo le prescrizioni applicabili al fallimento (art. 731*b*, 819 e 908 CO);
+  - 14\.[^250-11] la reiscrizione nel registro di commercio di un ente giuridico cancellato (art. 935 CO),
+  - 15\.[^250-12] pronuncia dello scioglimento della società e della sua liquidazione secondo le prescrizioni applicabili al fallimento (art. 731*b*, 819 e 908 CO),
+  - 16\.[^250-13] cancellazione di un ente giuridico dal registro di commercio (art. 934 cpv. 3 CO);
 
 - d.
 
@@ -2890,39 +3146,44 @@ La procedura sommaria si applica segnatamente nelle seguenti questioni:
   - 3\. estinzione della procura conferita a un rappresentante dell’assemblea degli obbligazionisti in materia di prestiti in obbligazioni (art. 1162 cpv. 4 CO),
   - 4\. convocazione dell’assemblea degli obbligazionisti su istanza degli obbligazionisti medesimi (art. 1165 cpv. 3 e 4 CO).
 
-[^250-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^250-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^250-3]: Nuovo testo giusta l’all. n. 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-[^250-4]: Nuovo testo giusta il n. II della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-5]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^250-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^250-3]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^250-4]: Nuovo testo giusta l’all. n. 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-5]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 [^250-6]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^250-7]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^250-8]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^250-9]: Nuovo testo giusta l’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^250-10]: Introdotto dall’all. n. 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-[^250-11]: Introdotto dall’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-10]: Abrogato dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), con effetto dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^250-11]: Introdotto dall’all. n. 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-12]: Introdotto dall’all. n. 3 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-13]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [2024 235](https://fedlex.data.admin.ch/eli/oc/2024/235); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 251
 
 **Legge federale dell’11 aprile 1889 sulla esecuzione e sul fallimento**
 
-La procedura sommaria si applica segnatamente nelle seguenti questioni:
+La procedura sommaria si applica nelle seguenti questioni:[^251-1]
 
 - a. decisioni del giudice preposto al rigetto dell’opposizione, al fallimento, al sequestro e al concordato;
-- b. autorizzazione dell’opposizione tardiva (art. 77 cpv. 3 LEF[^251-1]) e dell’opposizione nell’esecuzione cambiaria (art. 181 LEF);
+- b. autorizzazione dell’opposizione tardiva (art. 77 cpv. 3 LEF[^251-2]) e dell’opposizione nell’esecuzione cambiaria (art. 181 LEF);
 - c. annullamento o sospensione dell’esecuzione (art. 85 LEF);
 - d. decisione d’accertamento del ritorno a miglior fortuna (art. 265*a* cpv. 1–3 LEF);
 - e. pronuncia della separazione dei beni (art. 68*b* LEF).
 
-[^251-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^251-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^251-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 251a
 
 **Legge federale del 18 dicembre 1987 sul diritto internazionale privato**[^251a-1]
 
-La procedura sommaria si applica segnatamente nelle seguenti questioni:
+<sup>1</sup>
 
-- a. nomina e sostituzione degli arbitri (art. 179 cpv. 2–5 LDIP[^251a-2]);
+La procedura sommaria si applica nelle seguenti questioni:[^251a-2]
+
+- a. nomina e sostituzione degli arbitri (art. 179 cpv. 2–5 LDIP[^251a-3]);
 - b. ricusazione e destituzione di un arbitro (art. 180*a* cpv. 2 e 180*b* cpv. 2 LDIP);
 - c. collaborazione del giudice all’attuazione di provvedimenti cautelari (art. 183 cpv. 2 LDIP) e all’assunzione di prove (art. 184 cpv. 2 LDIP);
 - d. ulteriore collaborazione del giudice nel procedimento arbitrale (art. 185 LDIP);
@@ -2930,8 +3191,12 @@ La procedura sommaria si applica segnatamente nelle seguenti questioni:
 - f. deposito del lodo ed emissione dell’attestazione dell’esecutività (art. 193 LDIP);
 - g. riconoscimento ed esecuzione di lodi stranieri (art. 194 LDIP).
 
+<sup>2</sup> Il diritto cantonale può prevedere che, su richiesta di tutte le parti, l’inglese sia utilizzato come lingua della procedura se la lingua inglese è impiegata nel patto di arbitrato, nella clausola di arbitrato o quale lingua del procedimento arbitrale.[^251a-4]
+
 [^251a-1]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^251a-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^251a-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^251a-3]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^251a-4]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Capitolo 2: Procedura e decisione
 
@@ -3080,9 +3345,11 @@ Se la causa di merito non è ancora pendente, il giudice assegna all’instante 
 
 Nei confronti dei mass media periodici il giudice può ordinare un provvedimento cautelare soltanto se:
 
-- a. l’incombente lesione dei diritti dell’instante è tale da potergli causare un pregiudizio particolarmente grave;
+- a.[^266-1] l’attuale o incombente lesione dei diritti dell’instante è tale da causargli o da potergli causare un pregiudizio grave;
 - b. manifestamente non vi è alcun motivo che giustifichi la lesione; e
 - c. il provvedimento non appare sproporzionato.
+
+[^266-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 267
 
@@ -3108,9 +3375,9 @@ Sono fatte salve le disposizioni:
 - b. del CC[^269-2], sulle misure a tutela della successione;
 - c. della legge del 25 giugno 1954[^269-3] sui brevetti, in caso di azione per la concessione di una licenza.
 
-[^269-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^269-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^269-3]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^269-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^269-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^269-3]: [RS 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 
 ### Sezione 2: Memoria difensiva
 
@@ -3122,7 +3389,7 @@ Sono fatte salve le disposizioni:
 
 <sup>3</sup> La memoria difensiva diviene caduca dopo sei mesi.
 
-[^270-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^270-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^270-2]: Nuovo testo giusta l’art. 3 n. 1 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### Titolo sesto: Procedure speciali di diritto matrimoniale
@@ -3145,7 +3412,7 @@ Fatti salvi gli articoli 272 e 273, la procedura sommaria è applicabile alle mi
 - h. consenso di un coniuge alla rinuncia o all’accettazione di un’eredità (art. 230 cpv. 2 CC);
 - i. avviso ai debitori e garanzia dell’obbligo di mantenimento dopo il divorzio, al di fuori di un processo sull’obbligo di mantenimento dopo il divorzio (art. 132 CC).
 
-[^271-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^271-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 272
 
@@ -3252,8 +3519,8 @@ Negli altri casi in cui i coniugi non giungono a un’intesa, appena la decision
 - d.[^281-7] gli istituti di previdenza professionale che versano rendite ai coniugi, gli importi di queste ultime e le parti di rendita assegnate.
 
 [^281-1]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^281-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^281-3]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^281-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^281-3]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^281-4]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^281-5]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^281-6]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
@@ -3296,7 +3563,7 @@ La convenzione o la decisione che fissa contributi di mantenimento deve menziona
 
 <sup>3</sup> Al contenzioso si applicano per analogia le disposizioni sull’azione di divorzio.
 
-[^284-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^284-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^284-2]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2015 (Conguaglio della previdenza professionale in caso di divorzio), in vigore dal 1° gen. 2017 ([RU 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [FF 2013 4151](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### Sezione 2: Divorzio su richiesta comune
@@ -3331,7 +3598,7 @@ In caso d’intesa totale, l’istanza congiunta dei coniugi contiene:
 Se l’istanza è completa, il giudice convoca le parti. L’audizione è retta dalle disposizioni del CC[^287-2].
 
 [^287-1]: Nuovo testo giusta il n. II della LF del 25 set. 2009 (Periodo di riflessione nella procedura di divorzio su richiesta comune), in vigore dal 1° gen. 2011 ([RU 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [FF 2008 1667](https://fedlex.data.admin.ch/eli/fga/2008/445)[1683](https://fedlex.data.admin.ch/eli/fga/2008/447)).
-[^287-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^287-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 288
 
@@ -3339,12 +3606,13 @@ Se l’istanza è completa, il giudice convoca le parti. L’audizione è retta 
 
 <sup>1</sup> Se le condizioni del divorzio su richiesta comune sono soddisfatte, il giudice pronuncia il divorzio e omologa la convenzione.
 
-<sup>2</sup> Se le conseguenze del divorzio permangono controverse, la procedura prosegue in contraddittorio relativamente alle stesse.[^288-1] Il giudice può ripartire i ruoli di parte.
+<sup>2</sup> Se le conseguenze del divorzio permangono controverse, la procedura prosegue in contraddittorio relativamente alle stesse.[^288-1] Si applica la procedura semplificata.[^288-2] Il giudice può ripartire i ruoli di parte.
 
-<sup>3</sup> Se le condizioni del divorzio su richiesta comune non sono soddisfatte, il giudice respinge la richiesta comune di divorzio e nel contempo impartisce un termine a ogni coniuge per proporre azione di divorzio.[^288-2] Durante tale termine, la causa rimane pendente e i provvedimenti cautelari eventualmente disposti permangono validi.
+<sup>3</sup> Se le condizioni del divorzio su richiesta comune non sono soddisfatte, il giudice respinge la richiesta comune di divorzio e nel contempo impartisce un termine a ogni coniuge per proporre azione di divorzio.[^288-3] Durante tale termine, la causa rimane pendente e i provvedimenti cautelari eventualmente disposti permangono validi.
 
 [^288-1]: Nuovo testo giusta il n. II della LF del 25 set. 2009 (Periodo di riflessione nella procedura di divorzio su richiesta comune), in vigore dal 1° gen. 2011 ([RU 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [FF 2008 1667](https://fedlex.data.admin.ch/eli/fga/2008/445)[1683](https://fedlex.data.admin.ch/eli/fga/2008/447)).
-[^288-2]: Nuovo testo giusta il n. II della LF del 25 set. 2009 (Periodo di riflessione nella procedura di divorzio su richiesta comune), in vigore dal 1° gen. 2011 ([RU 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [FF 2008 1667](https://fedlex.data.admin.ch/eli/fga/2008/445)[1683](https://fedlex.data.admin.ch/eli/fga/2008/447)).
+[^288-2]: Secondo per. introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^288-3]: Nuovo testo giusta il n. II della LF del 25 set. 2009 (Periodo di riflessione nella procedura di divorzio su richiesta comune), in vigore dal 1° gen. 2011 ([RU 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [FF 2008 1667](https://fedlex.data.admin.ch/eli/fga/2008/445)[1683](https://fedlex.data.admin.ch/eli/fga/2008/447)).
 
 #### Art. 289
 
@@ -3367,7 +3635,7 @@ L’azione di divorzio può essere proposta anche con petizione non corredata di
 - e. i documenti giustificativi;
 - f. la data e le firme.
 
-[^290-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^290-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 291
 
@@ -3377,7 +3645,9 @@ L’azione di divorzio può essere proposta anche con petizione non corredata di
 
 <sup>2</sup> Se sussiste il motivo di divorzio, il giudice cerca di conseguire un’intesa fra i coniugi in merito alle conseguenze del divorzio.
 
-<sup>3</sup> Se non sussiste il motivo di divorzio o se l’intesa non è raggiunta, il giudice impartisce all’attore un termine per motivare per scritto l’azione. In caso di inosservanza del termine, la causa è stralciata dal ruolo in quanto priva di oggetto.
+<sup>3</sup> Se non sussiste il motivo di divorzio o se l’intesa non è raggiunta, il giudice dà all’attore l’opportunità di motivare l’azione o di completare la motivazione. La procedura prosegue in contraddittorio. Si applica la procedura semplificata.[^291-1]
+
+[^291-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 292
 
@@ -3412,9 +3682,11 @@ L’azione di divorzio può essere mutata in azione di separazione fintanto che 
 
 #### Art. 295
 
-**Principio**
+**Principio**[^295-1]
 
-Le azioni indipendenti si svolgono in procedura semplificata.
+Le azioni indipendenti riguardanti il mantenimento dei figli minorenni e maggiorenni e gli altri interessi dei figli si svolgono in procedura semplificata.
+
+[^295-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 296
 
@@ -3440,9 +3712,13 @@ Le azioni indipendenti si svolgono in procedura semplificata.
 
 <sup>1</sup> I figli sono personalmente e appropriatamente sentiti dal giudice o da un terzo incaricato, eccetto che la loro età o altri motivi gravi vi si oppongano.
 
+<sup>1bis</sup> Non è ammesso l’impiego di strumenti elettronici di trasmissione audiovisiva.[^298-1]
+
 <sup>2</sup> Nel verbale dell’audizione sono registrate soltanto le risultanze essenziali per la decisione. I genitori e il curatore vengono informati su tali risultanze.
 
 <sup>3</sup> Il figlio capace di discernimento può interporre reclamo contro la negata audizione.
+
+[^298-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 299
 
@@ -3548,10 +3824,10 @@ La procedura sommaria è applicabile segnatamente per:
 <sup>2</sup> Sono fatte salve le disposizioni della legge federale del 21 dicembre 2007[^302-5] sul rapimento internazionale dei minori e sulle Convenzioni dell’Aia sulla protezione dei minori e degli adulti.
 
 [^302-1]: Abrogata dall’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio), con effetto dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^302-2]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
-[^302-3]: [RS 0.211.230.01](https://fedlex.data.admin.ch/eli/cc/1983/1681_1681_1681)
-[^302-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^302-5]: [RS 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^302-2]: [RS 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
+[^302-3]: [RS 0.211.230.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/855)
+[^302-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^302-5]: [RS 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
 
 ### Capitolo 3: Azione di mantenimento e di paternità
 
@@ -3578,9 +3854,9 @@ Se l’azione di mantenimento è stata promossa assieme a quella di paternità, 
 
 <sup>1</sup> Il giudice competente per l’azione decide anche sul deposito, sul pagamento provvisorio, sul versamento dei contributi depositati e sulla restituzione dei pagamenti provvisori.
 
-<sup>2</sup> Il giudice competente per l’azione di mantenimento decide anche sull’autorità parentale e sulle altre questioni riguardanti i figli.[^304-1]
+<sup>2</sup> Il giudice competente per l’azione di mantenimento decide anche sull’autorità parentale e sugli altri interessi dei figli. Se il rapporto di filiazione è accertato, i genitori hanno qualità di parte. Il giudice può ripartire i ruoli di parte.[^304-1]
 
-[^304-1]: Introdotto dall’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio), in vigore dal 1° gen. 2017 ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^304-1]: Introdotto dall’all. n. 2 della LF del 20 mar. 2015 (Mantenimento del figlio ([RU 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [FF 2014 489](https://fedlex.data.admin.ch/eli/fga/2014/98)). Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo ottavo: Procedura in materia di unione domestica registrata
 
@@ -3590,7 +3866,7 @@ Se l’azione di mantenimento è stata promossa assieme a quella di paternità, 
 
 **Campo d’applicazione**
 
-La procedura sommaria è applicabile segnatamente per:[^305-1]
+La procedura sommaria è applicabile per:[^305-1]
 
 - a. la determinazione dei contributi pecuniari per il mantenimento e l’ordine ai debitori di un partner di fare i loro pagamenti all’altro (art. 13 cpv. 2 e 3 della legge del 18 giu. 2004[^305-2] sull’unione domestica registrata, LUD);
 - b. l’autorizzazione a un partner a disporre dell’abitazione comune (art. 14 cpv. 2 LUD);
@@ -3601,8 +3877,8 @@ La procedura sommaria è applicabile segnatamente per:[^305-1]
 - g. la limitazione del potere di disporre di un partner relativamente a determinati beni (art. 22 cpv. 1 LUD);
 - h. l’assegnazione di termini per la compensazione di debiti tra i partner (art. 23 cpv. 1 LUD).
 
-[^305-1]: Nuovo testo giusta il n. II della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^305-2]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^305-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^305-2]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 306
 
@@ -3664,7 +3940,7 @@ L’appello è improponibile:
   - 6\.[^309-2] sequestro (art. 272 e 278 LEF),
   - 7\.[^309-3] decisioni che secondo la LEF sono di competenza del giudice del fallimento o del concordato.
 
-[^309-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^309-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^309-2]: Nuovo testo giusta l’art. 3 n. 1 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^309-3]: Introdotto dall’art. 3 n. 1 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
@@ -3706,16 +3982,21 @@ Con l’appello possono essere censurati:
 L’appello incidentale decade se:
 
 - a. l’autorità giudiziaria superiore non entra nel merito dell’appello principale;
-- b. l’appello principale è respinto in quanto manifestamente infondato;
+- b.[^313-1] ...
 - c. l’appello principale è ritirato prima che il giudice inizi a deliberare.
+
+[^313-1]: Abrogata dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), con effetto dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 314
 
 **Procedura sommaria**
 
-<sup>1</sup> Se è appellata una decisione pronunciata in procedura sommaria, il termine di appello e il termine di risposta sono entrambi di dieci giorni.
+<sup>1</sup> Se è appellata una decisione pronunciata in procedura sommaria, il termine di appello e il termine di risposta sono entrambi di dieci giorni. L’appello incidentale è improponibile.[^314-1]
 
-<sup>2</sup> L’appello incidentale è improponibile.
+<sup>2</sup> Nelle cause del diritto di famiglia di cui agli articoli 271, 276, 302 e 305 il termine di appello e il termine di risposta sono entrambi di 30 giorni. L’appello incidentale è proponibile.[^314-2]
+
+[^314-1]: Per. introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^314-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Sezione 3: Effetti e procedura dell’appello
 
@@ -3725,18 +4006,30 @@ L’appello incidentale decade se:
 
 <sup>1</sup> L’appello preclude, limitatamente alle conclusioni, l’efficacia e l’esecutività della decisione impugnata.
 
-<sup>2</sup> L’autorità giudiziaria superiore può autorizzare l’esecuzione anticipata della decisione impugnata. Se del caso, ordina provvedimenti conservativi o la prestazione di garanzie.
-
-<sup>3</sup> L’effetto sospensivo non può essere tolto se è appellata una decisione costitutiva.
-
-<sup>4</sup>
+<sup>2</sup>
 
 L’appello non ha effetto sospensivo se è appellata una decisione in materia di:
 
 - a. diritto di risposta;
-- b. provvedimenti cautelari.
+- b. provvedimenti cautelari;
+- c. diffida ai debitori;
+- d. prestazione di garanzie per i contributi di mantenimento.[^315-1]
 
-<sup>5</sup> L’esecuzione di provvedimenti cautelari può essere eccezionalmente sospesa se la parte interessata rischia di subire un pregiudizio difficilmente riparabile.
+<sup>3</sup> L’appello ha sempre effetto sospensivo se è appellata una decisione costitutiva.[^315-2]
+
+<sup>4</sup>
+
+Se la parte interessata rischia di subire un pregiudizio difficilmente riparabile, l’autorità giudiziaria superiore può, su richiesta:
+
+- a. dichiarare la decisione impugnata eseguibile anticipatamente e, se del caso, ordinare provvedimenti conservativi o la prestazione di garanzie; oppure
+- b. nei casi di cui al capoverso 2, sospendere eccezionalmente l’esecutività della decisione impugnata.[^315-3]
+
+<sup>5</sup> L’autorità giudiziaria superiore può pronunciarsi già prima della proposizione dell’appello. La sua decisione decade se non è chiesta la motivazione della decisione di prima istanza o se il termine d’impugnazione decorre infruttuosamente.[^315-4]
+
+[^315-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^315-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^315-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^315-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 316
 
@@ -3759,14 +4052,17 @@ Nuovi fatti e nuovi mezzi di prova sono considerati soltanto se:
 - a. vengono immediatamente addotti; e
 - b. dinanzi alla giurisdizione inferiore non era possibile addurli nemmeno con la diligenza ragionevolmente esigibile tenuto conto delle circostanze.
 
+<sup>1bis</sup> Se deve esaminare i fatti d’ufficio, l’autorità giudiziaria superiore considera i nuovi fatti e i nuovi mezzi di prova fino alla deliberazione della sentenza.[^317-1]
+
 <sup>2</sup>
 
 Una mutazione dell’azione è ammissibile soltanto se:
 
 - a. sono date le premesse di cui all’articolo 227 capoverso 1; e
-- b.[^317-1] la mutazione è fondata su nuovi fatti o su nuovi mezzi di prova.
+- b.[^317-2] la mutazione è fondata su nuovi fatti o su nuovi mezzi di prova.
 
-[^317-1]: Nuovo testo giusta il n. II della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^317-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^317-2]: Nuovo testo giusta il n. II della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
 
 #### Art. 318
 
@@ -3785,9 +4081,11 @@ L’autorità giudiziaria superiore può:
   - 1\. non è stata giudicata una parte essenziale dell’azione, oppure
   - 2\. i fatti devono essere completati in punti essenziali.
 
-<sup>2</sup> L’autorità giudiziaria superiore notifica la sua decisione con motivazione scritta.
+<sup>2</sup> L’autorità giudiziaria superiore notifica e motiva la sua decisione in applicazione analogica dell’articolo 239.[^318-1]
 
 <sup>3</sup> Se statuisce essa stessa, l’autorità giudiziaria superiore pronuncia anche sulle spese giudiziarie della procedura di prima istanza.
+
+[^318-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Capitolo 2: Reclamo
 
@@ -3822,11 +4120,13 @@ Con il reclamo possono essere censurati:
 
 <sup>1</sup> Il reclamo, scritto e motivato, dev’essere proposto all’autorità giudiziaria superiore entro 30 giorni dalla notificazione della decisione impugnata motivata o dalla notificazione a posteriori della motivazione (art. 239).
 
-<sup>2</sup> Se è impugnata una decisione pronunciata in procedura sommaria o una disposizione ordinatoria processuale, il termine di reclamo è di dieci giorni, salvo che la legge disponga altrimenti.
+<sup>2</sup> Se è impugnata una decisione pronunciata in procedura sommaria o un’altra decisione o disposizione ordinatoria processuale di prima istanza, il termine di reclamo è di dieci giorni, salvo che la legge disponga altrimenti.[^321-1]
 
 <sup>3</sup> Se è in possesso della parte, la decisione o disposizione impugnata dev’essere allegata.
 
 <sup>4</sup> Il reclamo per ritardata giustizia è possibile in ogni tempo.
+
+[^321-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 322
 
@@ -3854,7 +4154,9 @@ L’autorità giudiziaria superiore può chiedere alla giurisdizione inferiore d
 
 <sup>1</sup> Il reclamo non preclude l’efficacia e l’esecutività della decisione impugnata.
 
-<sup>2</sup> L’autorità giudiziaria superiore può rinviare l’esecuzione della decisione impugnata. Se del caso, ordina provvedimenti conservativi o la prestazione di garanzie.
+<sup>2</sup> L’autorità giudiziaria superiore può, su richiesta, sospendere l’esecutività della decisione impugnata se la parte interessata rischia di subire un pregiudizio difficilmente riparabile. L’autorità giudiziaria superiore può pronunciarsi già prima della proposizione del reclamo. Se del caso, ordina provvedimenti conservativi o la prestazione di garanzie. La sua decisione decade se non è chiesta la motivazione della decisione di prima istanza o se il termine d’impugnazione decorre infruttuosamente.[^325-1]
+
+[^325-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 326
 
@@ -3881,7 +4183,9 @@ Se accoglie il reclamo, l’autorità giudiziaria superiore:
 
 <sup>4</sup> Se il reclamo è accolto per ritardata giustizia, l’autorità giudiziaria superiore può impartire alla giurisdizione inferiore un termine per la trattazione della causa.
 
-<sup>5</sup> L’autorità giudiziaria superiore notifica la sua decisione con motivazione scritta.
+<sup>5</sup> L’autorità giudiziaria superiore notifica e motiva la sua decisione in applicazione analogica dell’articolo 239.[^327-1]
+
+[^327-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 327a
 
@@ -3894,8 +4198,8 @@ Se accoglie il reclamo, l’autorità giudiziaria superiore:
 <sup>3</sup> Il termine per la proposizione del reclamo contro la dichiarazione di esecutività è retto dall’articolo 43 paragrafo 5 della Convenzione di Lugano.
 
 [^327a-1]: Introdotto dall’art. 3 n. 1 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^327a-2]: [RS 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
-[^327a-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^327a-2]: [RS 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
+[^327a-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### Capitolo 3: Revisione
 
@@ -3907,20 +4211,24 @@ Se accoglie il reclamo, l’autorità giudiziaria superiore:
 
 Una parte può chiedere al giudice che ha statuito sulla causa in ultima istanza la revisione della decisione passata in giudicato se:
 
-- a. ha successivamente appreso fatti rilevanti o trovato mezzi di prova decisivi che non ha potuto allegare nella precedente procedura, esclusi i fatti e mezzi di prova sorti dopo la decisione;
+- a.[^328-1] ha successivamente appreso fatti rilevanti o trovato mezzi di prova decisivi che non ha potuto allegare nella precedente procedura nonostante abbia usato la dovuta attenzione, esclusi i fatti e mezzi di prova sorti dopo la decisione;
 - b. da un procedimento penale risulta che la decisione a lei sfavorevole è stata influenzata da un crimine o da un delitto; non occorre che sia stata pronunciata una condanna dal giudice penale; se il procedimento penale non può essere esperito, la prova può essere addotta in altro modo;
-- c. fa valere che l’acquiescenza, la desistenza o la transazione giudiziaria è inefficace.
+- c.[^328-2] fa valere che l’acquiescenza, la desistenza o la transazione giudiziaria è inefficace per vizi formali o materiali;
+- d.[^328-3] ha scoperto un motivo di ricusazione soltanto dopo la chiusura del procedi-mento e non dispone di nessun altro mezzo di impugnazione.
 
 <sup>2</sup>
 
-La revisione può essere chiesta per violazione della Convenzione europea del 4 novembre 1950[^328-1] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali (CEDU) se:
+La revisione può essere chiesta per violazione della Convenzione europea del 4 novembre 1950[^328-4] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali (CEDU) se:
 
-- a.[^328-2] la Corte europea dei diritti dell’uomo ha accertato in una sentenza definitiva (art. 44 CEDU) che la CEDU o i suoi protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU);
+- a.[^328-5] la Corte europea dei diritti dell’uomo ha accertato in una sentenza definitiva (art. 44 CEDU) che la CEDU o i suoi protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU);
 - b. un indennizzo è inadatto a compensare le conseguenze della violazione; e
 - c. la revisione è necessaria per rimuovere la violazione.
 
-[^328-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^328-2]: Nuovo testo giusta l’all. n. 2 della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^328-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^328-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^328-3]: Introdotta dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^328-4]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^328-5]: Nuovo testo giusta l’all. n. 2 della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 329
 
@@ -3942,7 +4250,9 @@ Se la domanda di revisione non risulta manifestamente inammissibile o manifestam
 
 <sup>1</sup> La domanda di revisione non preclude l’efficacia e l’esecutività della decisione impugnata.
 
-<sup>2</sup> Il giudice può differire l’esecuzione della decisione impugnata. Se del caso ordina provvedimenti conservativi o la prestazione di garanzie.
+<sup>2</sup> Il giudice può sospendere l’esecutività della decisione impugnata.[^331-1] Se del caso ordina provvedimenti conservativi o la prestazione di garanzie.
+
+[^331-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 332
 
@@ -3986,8 +4296,8 @@ La decisione sulla domanda di revisione è impugnabile mediante reclamo.
 
 <sup>3</sup> Il riconoscimento, la dichiarazione di esecutività e l’esecuzione di decisioni straniere sono regolati dal presente capitolo, eccetto che un trattato internazionale o la LDIP[^335-2] dispongano altrimenti.
 
-[^335-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^335-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^335-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^335-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 #### Art. 336
 
@@ -3997,10 +4307,15 @@ La decisione sulla domanda di revisione è impugnabile mediante reclamo.
 
 Una decisione è esecutiva se:
 
-- a. è passata in giudicato e il giudice non ha sospeso l’esecuzione (art. 325 cpv. 2 e 331 cpv. 2); oppure
+- a.[^336-1] è passata in giudicato e il giudice non ne ha sospeso l’esecutività (art. 315 cpv. 4, 325 cpv. 2 e 331 cpv. 2); oppure
 - b. pur non essendo ancora passata in giudicato, è stata dichiarata eseguibile anticipatamente.
 
 <sup>2</sup> A richiesta, il giudice che ha preso la decisione da eseguire ne attesta l’esecutività.
+
+<sup>3</sup> Una decisione notificata senza motivazione scritta (art. 239) è esecutiva alle condizioni di cui al capoverso 1.[^336-2]
+
+[^336-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^336-2]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 337
 
@@ -4076,8 +4391,8 @@ Se la decisione impone un obbligo di fare, omettere o tollerare, il giudice dell
 
 <sup>3</sup> La persona incaricata dell’esecuzione può far capo all’aiuto dell’autorità competente.
 
-[^343-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^343-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^343-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^343-3]: Introdotto dal n. I 2 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° gen. 2022 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 344
@@ -4137,9 +4452,9 @@ Non sono direttamente esecutivi i documenti concernenti prestazioni:
 - d. inerenti a rapporti di lavoro e alla legge del 6 ottobre 1989[^348-3] sul collocamento;
 - e. inerenti a contratti conclusi con consumatori (art. 32).
 
-[^348-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^348-2]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^348-3]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^348-1]: [RS 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^348-2]: [RS 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^348-3]: [RS 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 349
 
@@ -4147,7 +4462,7 @@ Non sono direttamente esecutivi i documenti concernenti prestazioni:
 
 I documenti esecutivi concernenti prestazioni in denaro sono considerati titoli definitivi di rigetto dell’opposizione secondo gli articoli 80 e 81 LEF[^349-1].
 
-[^349-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^349-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 350
 
@@ -4183,7 +4498,7 @@ I documenti esecutivi concernenti prestazioni in denaro sono considerati titoli 
 
 <sup>2</sup> Le parti possono escludere l’applicabilità delle presenti disposizioni sull’arbitrato mediante una dichiarazione nel patto d’arbitrato o in un accordo successivo e convenire di applicare le disposizioni del capitolo 12 LDIP. Tale dichiarazione richiede la forma di cui all’articolo 358.[^353-2]
 
-[^353-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^353-1]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^353-2]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 354
@@ -4223,9 +4538,10 @@ Un altro tribunale o un tribunale composto in altro modo, designato dal Cantone 
 - b. prorogare il mandato del tribunale arbitrale;
 - c. prestare concorso al tribunale arbitrale per procedere ad atti procedurali.
 
-<sup>3</sup> Il tribunale statale competente decide in procedura sommaria, salvo nei casi di cui al capoverso 1 lettera a.[^356-1]
+<sup>3</sup> Il tribunale statale competente decide in procedura sommaria, salvo nei casi di cui al capoverso 1 lettera a.[^356-1] L’articolo 251*a* capoverso 2 è applicabile.[^356-2]
 
 [^356-1]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^356-2]: Per. introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo secondo: Patto e clausole d’arbitrato
 
@@ -4383,13 +4699,14 @@ Un arbitro può essere ricusato se:
 
 **Destituzione**
 
-<sup>1</sup> Ciascun arbitro può essere destituito per accordo scritto tra le parti.
+<sup>1</sup> Ciascun arbitro può essere destituito per accordo tra le parti. L’accordo soggiace alla forma richiesta per il patto d’arbitrato.[^370-1]
 
-<sup>2</sup> Salvo diversa pattuizione delle parti, se un arbitro non si dimostra in grado di adempiere i suoi compiti in un termine utile o di agire con la cura richiesta dalle circostanze, su richiesta di una parte questi può essere destituito dall’ente designato dalle parti oppure, se un tale ente non è stato previsto, dal tribunale statale competente ai sensi dell’articolo 356 capoverso 2.[^370-1]
+<sup>2</sup> Salvo diversa pattuizione delle parti, se un arbitro non si dimostra in grado di adempiere i suoi compiti in un termine utile o di agire con la cura richiesta dalle circostanze, su richiesta di una parte questi può essere destituito dall’ente designato dalle parti oppure, se un tale ente non è stato previsto, dal tribunale statale competente ai sensi dell’articolo 356 capoverso 2.[^370-2]
 
 <sup>3</sup> All’impugnazione di una tale decisione si applica l’articolo 369 capoverso 5.
 
-[^370-1]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^370-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^370-2]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 371
 
@@ -4416,7 +4733,9 @@ Il procedimento arbitrale è pendente:
 - a. appena una parte adisce il tribunale arbitrale designato nel patto d’arbitrato; oppure
 - b. in mancanza di tale designazione, appena una parte avvia la procedura di costituzione del tribunale arbitrale oppure la preventiva procedura di conciliazione pattuita dalle parti.
 
-<sup>2</sup> Se davanti a un tribunale statale e a un tribunale arbitrale sono pendenti, tra le medesime parti, cause concernenti il medesimo oggetto litigioso, il tribunale successivamente adito sospende la procedura finché il tribunale preventivamente adito abbia deciso sulla sua competenza.
+<sup>2</sup> ...[^372-1]
+
+[^372-1]: Abrogato dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), con effetto dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 373
 
@@ -4448,13 +4767,15 @@ Le parti possono regolare la procedura arbitrale:
 
 <sup>1</sup> Il tribunale statale o, salvo diversa pattuizione delle parti, il tribunale arbitrale può, ad istanza di parte, ordinare provvedimenti cautelari, compresi quelli per assicurare i mezzi di prova.
 
-<sup>2</sup> Se la persona contro cui è ordinato il provvedimento del tribunale arbitrale non vi si sottopone spontaneamente, il tribunale statale, su richiesta del tribunale arbitrale o ad istanza di parte, prende le necessarie disposizioni; l’istanza di parte richiede il consenso del tribunale arbitrale.
+<sup>2</sup> Se la parte contro cui è ordinato il provvedimento del tribunale arbitrale non vi si sottopone spontaneamente, il tribunale statale, su richiesta del tribunale arbitrale o ad istanza di parte, prende le necessarie disposizioni.[^374-1]
 
 <sup>3</sup> Se vi è da temere un danno per l’altra parte, il tribunale arbitrale o statale può subordinare i provvedimenti cautelari alla prestazione di garanzie.
 
 <sup>4</sup> La parte instante risponde del danno causato da un provvedimento cautelare ingiustificato. Tuttavia, se essa prova di aver presentato l’istanza in buona fede, il tribunale arbitrale o statale può ridurre o escludere il risarcimento. La parte lesa può far valere la sua pretesa nel procedimento arbitrale pendente.
 
 <sup>5</sup> La garanzia è liberata se è certo che non è promossa alcuna azione di risarcimento del danno; se vi è incertezza in proposito, il tribunale arbitrale assegna un termine per proporre l’azione.
+
+[^374-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 375
 
@@ -4612,7 +4933,7 @@ Ogni parte può chiedere al tribunale arbitrale di:
 
 <sup>2</sup> La procedura è retta dalle disposizioni della legge del 17 giugno 2005[^389-1] sul Tribunale federale, salvo che il presente capitolo disponga altrimenti.
 
-[^389-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^389-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 390
 
@@ -4680,22 +5001,23 @@ L’autorità di ricorso, sentite le parti, può rinviare il lodo al tribunale a
 
 Una parte può chiedere la revisione del lodo al tribunale statale competente secondo l’articolo 356 capoverso 1 se:
 
-- a. ha successivamente appreso fatti rilevanti o trovato mezzi di prova decisivi che non ha potuto allegare nella precedente procedura, esclusi i fatti e mezzi di prova sorti dopo la pronuncia del lodo;
+- a.[^396-1] ha successivamente appreso fatti rilevanti o trovato mezzi di prova decisivi che non ha potuto allegare nella precedente procedura nonostante abbia usato la dovuta attenzione, esclusi i fatti e mezzi di prova sorti dopo la pronuncia del lodo;
 - b. da un procedimento penale risulta che il lodo a lei sfavorevole è stato influenzato da un crimine o da un delitto; non occorre che sia stata pronunciata una condanna dal giudice penale; se il procedimento penale non può essere esperito, la prova può essere addotta in altro modo;
 - c. fa valere che l’acquiescenza, la desistenza o la transazione arbitrale è inefficace;
-- d.[^396-1] un motivo di ricusazione ai sensi dell’articolo 367 capoverso 1 lettera c è stato scoperto, nonostante sia stata usata la dovuta attenzione, soltanto dopo la chiusura del procedimento arbitrale, sempre che non si disponga di un altro mezzo d’impugnazione.
+- d.[^396-2] un motivo di ricusazione ai sensi dell’articolo 367 capoverso 1 lettera c è stato scoperto, nonostante sia stata usata la dovuta attenzione, soltanto dopo la chiusura del procedimento arbitrale, sempre che non si disponga di un altro mezzo d’impugnazione.
 
 <sup>2</sup>
 
-La revisione può essere chiesta per violazione della CEDU[^396-2] se:
+La revisione può essere chiesta per violazione della CEDU[^396-3] se:
 
-- a.[^396-3] la Corte europea dei diritti dell’uomo ha accertato in una sentenza definitiva (art. 44 CEDU) che la CEDU o i suoi protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU);
+- a.[^396-4] la Corte europea dei diritti dell’uomo ha accertato in una sentenza definitiva (art. 44 CEDU) che la CEDU o i suoi protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU);
 - b. un indennizzo è inadatto a compensare le conseguenze della violazione; e
 - c. la revisione è necessaria per rimuovere la violazione.
 
-[^396-1]: Introdotta dall’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^396-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^396-3]: Nuovo testo giusta l’all. n. 2 della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^396-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^396-2]: Introdotta dall’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^396-3]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^396-4]: Nuovo testo giusta l’all. n. 2 della LF del 1° ott. 2021, in vigore dal 1° lug. 2022 ([RU 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [FF 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 397
 
@@ -4731,7 +5053,12 @@ Alla procedura si applicano gli articoli 330 e 331.
 
 <sup>2</sup> Esso mette a disposizione i moduli per i documenti giudiziari e per gli atti scritti delle parti. I moduli per gli atti scritti delle parti devono essere concepiti in modo da poter essere compilati anche da una parte non esperta in fatto di diritto.
 
-<sup>3</sup> Il Consiglio federale può delegare all’Ufficio federale di giustizia l’emanazione di norme amministrative e tecniche.
+<sup>2bis</sup> Mette a disposizione del pubblico informazioni sulle spese giudiziarie, nonché sulle possibilità di gratuito patrocinio e di finanziamento del processo.[^400-1]
+
+<sup>3</sup> Il Consiglio federale può delegare all’Ufficio federale di giustizia la competenza di emanare norme amministrative e tecniche, nonché quella di informare il pubblico e di mettere moduli a sua disposizione. [^400-2]
+
+[^400-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^400-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 401
 
@@ -4740,6 +5067,14 @@ Alla procedura si applicano gli articoli 330 e 331.
 <sup>1</sup> Con il benestare del Consiglio federale i Cantoni possono attuare progetti pilota nel settore del diritto processuale civile.
 
 <sup>2</sup> Il Consiglio federale può delegare la competenza di concedere il benestare all’Ufficio federale di giustizia.
+
+#### Art. 401a
+
+**Statistiche e numero di casi**[^401a-1]
+
+La Confederazione e i Cantoni provvedono assieme ai tribunali all’allestimento di statistiche sufficienti sul numero di casi e sugli indicatori relativi all’applicazione della presente legge, segnatamente sul numero, la natura, la materia, la durata e i costi dei procedimenti.
+
+[^401a-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### Titolo secondo: Adeguamento di leggi
 
@@ -4851,6 +5186,16 @@ I procedimenti pendenti al momento dell’entrata in vigore della modifica del 1
 
 Le procedure pendenti al momento dell’entrata in vigore della modifica del 25 settembre 2020 sono rette dal nuovo diritto.
 
+### Capitolo 7: Disposizione transitoria della modifica del 17 marzo 2023
+
+[^part4-tit3-chap7-1]
+
+[^part4-tit3-chap7-1]: Introdotto dal n. I della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 407f
+
+Gli articoli 8 capoverso 2 secondo periodo, 63 capoverso 1, 118 capoverso 2 secondo periodo, 141*a*, 141*b*, 143 capoverso 1<sup>bis</sup>, 149, 167*a*, 170*a*, 176 capoverso 3, 176*a*, 177, 187 capoversi 1 terzo periodo e 2, 193, 198 lettere b<sup>bis</sup>, f, h e i, 199 capoverso 3, 206 capoverso 4, 210 capoverso 1, frase introduttiva e lettera c, 239 capoverso 1, 298 capoverso 1<sup>bis</sup>, 315 capoversi 2–5, 317 capoverso 1<sup>bis</sup>, 318 capoverso 2, 325 capoverso 2, 327 capoverso 5 e 336 capoversi 1 e 3 si applicano anche ai procedimenti pendenti al momento dell’entrata in vigore della modifica del 17 marzo 2023.
+
 ### Titolo quarto: Referendum ed entrata in vigore
 
 #### Art. 408
@@ -4895,14 +5240,14 @@ Allegato 2
 
 … [^annex2-lvlu1-lvl1-2]
 
-[^annex2-lvlu1-lvl1-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43). In vigore dal 1° gen. 2022; [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43), pubblicata il 27 gen. 2022.
+[^annex2-lvlu1-lvl1-1]: [RS 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560). In vigore dal 1° gen. 2022; [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43), pubblicata il 27 gen. 2022.
 [^annex2-lvlu1-lvl1-2]: Le mod. possono essere consultate alla [RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).
 
 ### 2. Coordinamento del numero 19 dell’allegato 1 CPC con la nuova LRCN
 
 *Indipendentemente dal fatto che entri prima in vigore la nuova LRCN*[^annex2-lvlu1-lvl2-1] *o il CPC, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, il numero 19 dell’allegato 1 CPC diverrà privo d’oggetto e la nuova LRCN risulterà modificata conformemente al numero 20 dell’allegato 1 CPC.*
 
-[^annex2-lvlu1-lvl2-1]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43). In vigore dal 1° gen. 2022; [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43), pubblicata il 27 gen. 2022.
+[^annex2-lvlu1-lvl2-1]: [RS 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560). In vigore dal 1° gen. 2022; [RU 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43), pubblicata il 27 gen. 2022.
 
 ### 3. Coordinamento con la modifica del CC del 19 dicembre 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione)
 
@@ -4910,5 +5255,5 @@ Allegato 2
 
 … [^annex2-lvlu1-lvl3-2]
 
-[^annex2-lvlu1-lvl3-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^annex2-lvlu1-lvl3-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^annex2-lvlu1-lvl3-2]: Le mod. possono essere consultate alla [RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262).

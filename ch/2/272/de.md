@@ -4,11 +4,11 @@ title: "Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessor
 short: ZPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20230901-de-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20250101-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20230901/de"
 
 (Zivilprozessordnung, ZPO)
 
-vom 19. Dezember 2008 (Stand am 1. September 2023)
+vom 19. Dezember 2008 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 122 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)
 
 ## 1. Teil: Allgemeine Bestimmungen
@@ -49,7 +49,7 @@ Dieses Gesetz regelt das Verfahren vor den kantonalen Instanzen für:
 
 Bestimmungen des Staatsvertragsrechts und die Bestimmungen des Bundesgesetzes vom 18. Dezember 1987[^2-1] über das Internationale Privatrecht (IPRG) bleiben vorbehalten.
 
-[^2-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^2-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 #### Art. 3
 
@@ -82,26 +82,27 @@ Das kantonale Recht bezeichnet das Gericht, welches als einzige kantonale Instan
 - c. Streitigkeiten über den Gebrauch einer Firma;
 - d. Streitigkeiten nach dem Bundesgesetz vom 19. Dezember 1986[^5-1] gegen den unlauteren Wettbewerb, sofern der Streitwert mehr als 30 000 Franken beträgt oder sofern der Bund sein Klagerecht ausübt;
 - e.[^5-2] Streitigkeiten nach dem Kernenergiehaftpflichtgesetz vom 13. Juni 2008[^5-3];
-- f. Klagen gegen den Bund;
-- g.[^5-4] Streitigkeiten über die Einleitung und Durchführung einer Sonderuntersuchung nach den Artikeln 697*c–*697*h*<sup>bis</sup> des Obligationenrechts (OR)[^5-5];
-- h.[^5-6] Streitigkeiten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^5-7], nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^5-8] und nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^5-9];
-- i.[^5-10] Streitigkeiten nach dem Wappenschutzgesetz vom 21. Juni 2013[^5-11], dem Bundesgesetz vom 25. März 1954[^5-12] betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes und dem Bundesgesetz vom 15. Dezember 1961[^5-13] zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen.
+- f.[^5-4] Klagen gegen den Bund, sofern der Streitwert mehr als 30 000 Franken beträgt;
+- g.[^5-5] Streitigkeiten über die Einleitung und Durchführung einer Sonderuntersuchung nach den Artikeln 697*c–*697*h*<sup>bis</sup> des Obligationenrechts (OR)[^5-6];
+- h.[^5-7] Streitigkeiten nach dem Kollektivanlagengesetz vom 23. Juni 2006[^5-8], nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^5-9] und nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^5-10];
+- i.[^5-11] Streitigkeiten nach dem Wappenschutzgesetz vom 21. Juni 2013[^5-12], dem Bundesgesetz vom 25. März 1954[^5-13] betreffend den Schutz des Zeichens und des Namens des Roten Kreuzes und dem Bundesgesetz vom 15. Dezember 1961[^5-14] zum Schutz von Namen und Zeichen der Organisation der Vereinten Nationen und anderer zwischenstaatlicher Organisationen.
 
 <sup>2</sup> Diese Instanz ist auch für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit einer Klage zuständig.
 
-[^5-1]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^5-1]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 [^5-2]: Fassung gemäss Anhang 2 Ziff. 1, in Kraft seit 1. Jan. 2022 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^5-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
-[^5-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^5-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-6]: Fassung gemäss Anhang Ziff. II 4 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^5-7]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^5-8]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^5-9]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^5-10]: Eingefügt durch Anhang 3 Ziff. II 3 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
-[^5-11]: [SR 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)
-[^5-12]: [SR 232.22](https://fedlex.data.admin.ch/eli/cc/1954/1297_1327_1355)
-[^5-13]: [SR 232.23](https://fedlex.data.admin.ch/eli/cc/1962/455_461_475)
+[^5-3]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
+[^5-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^5-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^5-6]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^5-7]: Fassung gemäss Anhang Ziff. II 4 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^5-8]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^5-9]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
+[^5-10]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+[^5-11]: Eingefügt durch Anhang 3 Ziff. II 3 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^5-12]: [SR 232.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5987)
+[^5-13]: [SR 232.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5989)
+[^5-14]: [SR 232.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5991)
 
 #### Art. 6
 
@@ -114,19 +115,39 @@ Das kantonale Recht bezeichnet das Gericht, welches als einzige kantonale Instan
 Eine Streitigkeit gilt als handelsrechtlich, wenn:
 
 - a. die geschäftliche Tätigkeit mindestens einer Partei betroffen ist;
-- b. gegen den Entscheid die Beschwerde in Zivilsachen an das Bundesgericht offen steht; und
-- c. die Parteien im schweizerischen Handelsregister oder in einem vergleichbaren ausländischen Register eingetragen sind.
+- b.[^6-1] der Streitwert mehr als 30 000 Franken beträgt oder es sich um eine nicht vermögensrechtliche Streitigkeit handelt;
+- c.[^6-2] die Parteien als Rechtseinheiten im schweizerischen Handelsregister oder in einem vergleichbaren ausländischen Register eingetragen sind; und
+- d.[^6-3] es sich nicht um eine Streitigkeit aus dem Arbeitsverhältnis, nach dem Arbeitsvermittlungsgesetz vom 6. Oktober 1989[^6-4], nach dem Gleichstellungsgesetz vom 24. März 1995[^6-5], aus Miete und Pacht von Wohn- und Geschäftsräumen oder aus landwirtschaftlicher Pacht handelt.
 
-<sup>3</sup> Ist nur die beklagte Partei im schweizerischen Handelsregister oder in einem vergleichbaren ausländischen Register eingetragen, sind aber die übrigen Voraussetzungen erfüllt, so hat die klagende Partei die Wahl zwischen dem Handelsgericht und dem ordentlichen Gericht.
+<sup>3</sup> Ist nur die beklagte Partei als Rechtseinheit im schweizerischen Handelsregister oder in einem vergleichbaren ausländischen Register eingetragen, sind aber die übrigen Voraussetzungen erfüllt, so kann die klagende Partei zwischen dem Handelsgericht und dem ordentlichen Gericht wählen.[^6-6]
 
 <sup>4</sup>
 
 Die Kantone können das Handelsgericht ausserdem zuständig erklären für:
 
 - a. Streitigkeiten nach Artikel 5 Absatz 1;
-- b. Streitigkeiten aus dem Recht der Handelsgesellschaften und Genossenschaften.
+- b. Streitigkeiten aus dem Recht der Handelsgesellschaften und Genossenschaften;
+- c.[^6-7]
+
+  Streitigkeiten, bei denen die folgenden Bedingungen erfüllt sind:
+
+  - 1\. Die Streitigkeit betrifft die geschäftliche Tätigkeit mindestens einer Partei.
+  - 2\. Der Streitwert beträgt mindestens 100 000 Franken.
+  - 3\. Die Parteien stimmen der Zuständigkeit des Handelsgerichts zu.
+  - 4\. Im Zeitpunkt dieser Zustimmung hat mindestens eine Partei ihren Wohnsitz, ihren gewöhnlichen Aufenthaltsort oder ihren Sitz im Ausland.
 
 <sup>5</sup> Das Handelsgericht ist auch für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit einer Klage zuständig.
+
+<sup>6</sup> Betreffen Klagen Streitgenossen, die nicht alle als Rechtseinheiten im schweizerischen Handelsregister oder in einem vergleichbaren ausländischen Register eingetragen sind, so ist das Handelsgericht nur zuständig, wenn alle Klagen in seine Zuständigkeit fallen.[^6-8]
+
+[^6-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-4]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^6-5]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^6-6]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-7]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^6-8]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 7
 
@@ -134,7 +155,7 @@ Die Kantone können das Handelsgericht ausserdem zuständig erklären für:
 
 Die Kantone können ein Gericht bezeichnen, welches als einzige kantonale Instanz für Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994[^7-1] über die Krankenversicherung zuständig ist.
 
-[^7-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^7-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
 
@@ -142,7 +163,9 @@ Die Kantone können ein Gericht bezeichnen, welches als einzige kantonale Instan
 
 <sup>1</sup> In vermögensrechtlichen Streitigkeiten kann die klagende Partei mit Zustimmung der beklagten Partei direkt an das obere Gericht gelangen, sofern der Streitwert mindestens 100 000 Franken beträgt.
 
-<sup>2</sup> Dieses Gericht entscheidet als einzige kantonale Instanz.
+<sup>2</sup> Dieses Gericht entscheidet als einzige kantonale Instanz. Es ist auch für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit zuständig.[^8-1]
+
+[^8-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 2. Kapitel: Örtliche Zuständigkeit
 
@@ -166,12 +189,13 @@ Sieht dieses Gesetz nichts anderes vor, so ist zuständig:
 
 - a. für Klagen gegen eine natürliche Person: das Gericht an deren Wohnsitz;
 - b. für Klagen gegen eine juristische Person und gegen öffentlich-rechtliche Anstalten und Körperschaften sowie gegen Kollektiv- und Kommanditgesellschaften: das Gericht an deren Sitz;
-- c. für Klagen gegen den Bund: das Obergericht des Kantons Bern oder das obere Gericht des Kantons, in dem die klagende Partei ihren Wohnsitz, Sitz oder gewöhnlichen Aufenthalt hat;
+- c.[^10-1] für Klagen gegen den Bund: das Gericht in der Stadt Bern oder das Gericht am Wohnsitz, Sitz oder gewöhnlichen Aufenthaltsort der klagenden Partei;
 - d. für Klagen gegen einen Kanton: ein Gericht am Kantonshauptort.
 
-<sup>2</sup> Der Wohnsitz bestimmt sich nach dem Zivilgesetzbuch (ZGB)[^10-1]. Artikel 24 ZGB ist nicht anwendbar.
+<sup>2</sup> Der Wohnsitz bestimmt sich nach dem Zivilgesetzbuch (ZGB)[^10-2]. Artikel 24 ZGB ist nicht anwendbar.
 
-[^10-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^10-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^10-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 11
 
@@ -254,7 +278,7 @@ Für die folgenden Klagen und Begehren ist das Gericht am Wohnsitz oder Sitz ein
 - d.[^20-1] Klagen und Begehren nach dem Datenschutzgesetz vom 25. September 2020[^20-2] (DSG).
 
 [^20-1]: Fassung gemäss Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^20-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^20-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 21
 
@@ -262,7 +286,7 @@ Für die folgenden Klagen und Begehren ist das Gericht am Wohnsitz oder Sitz ein
 
 Für Gesuche, die eine Todes- oder eine Verschollenerklärung betreffen (Art. 34–38 ZGB[^21-1]), ist das Gericht am letzten bekannten Wohnsitz der verschwundenen Person zwingend zuständig.
 
-[^21-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^21-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 22
 
@@ -377,7 +401,7 @@ Für Klagen aus Miete und Pacht unbeweglicher Sachen ist das Gericht am Ort der 
 
 <sup>2</sup> Für Klagen einer stellensuchenden Person sowie einer Arbeitnehmerin oder eines Arbeitnehmers, die sich auf das Arbeitsvermittlungsgesetz vom 6. Oktober 1989[^34-1] stützen, ist zusätzlich das Gericht am Ort der Geschäftsniederlassung der vermittelnden oder verleihenden Person, mit welcher der Vertrag abgeschlossen wurde, zuständig.
 
-[^34-1]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^34-1]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 35
 
@@ -416,7 +440,7 @@ Für Schadenersatzklagen wegen ungerechtfertigter vorsorglicher Massnahmen ist d
 
 <sup>2</sup> Für Klagen gegen das nationale Versicherungsbüro (Art. 74 des Strassenverkehrsgesetzes vom 19. Dez. 1958[^38-1]; SVG) oder gegen den nationalen Garantiefonds (Art. 76 SVG) ist zusätzlich das Gericht am Ort einer Zweigniederlassung dieser Einrichtungen zuständig.
 
-[^38-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^38-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 38a
 
@@ -461,7 +485,7 @@ Für die Beurteilung adhäsionsweise geltend gemachter Zivilansprüche bleibt di
 
 Für Klagen, die sich auf das Fusionsgesetz vom 3. Oktober 2003[^42-1] stützen, ist das Gericht am Sitz eines beteiligten Rechtsträgers zuständig.
 
-[^42-1]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^42-1]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 43
 
@@ -481,7 +505,7 @@ Für Klagen, die sich auf das Fusionsgesetz vom 3. Oktober 2003[^42-1] stützen,
 
 Die örtliche Zuständigkeit für die Ermächtigung zur Einberufung der Gläubigerversammlung richtet sich nach Artikel 1165 OR[^44-1].
 
-[^44-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^44-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 45
 
@@ -495,7 +519,7 @@ Für Klagen der Anlegerinnen und Anleger sowie der Vertretung der Anlegergemeins
 
 Für Klagen nach dem Bundesgesetz vom 11. April 1889[^46-1] über Schuldbetreibung und Konkurs (SchKG) bestimmt sich die örtliche Zuständigkeit nach diesem Kapitel, soweit das SchKG keinen Gerichtsstand vorsieht.
 
-[^46-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^46-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 3. Kapitel: Ausstand
 
@@ -524,7 +548,7 @@ Kein Ausstandsgrund für sich allein ist insbesondere die Mitwirkung:
 - d. bei der Anordnung vorsorglicher Massnahmen;
 - e. beim Eheschutzverfahren.
 
-[^47-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^47-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 48
 
@@ -556,7 +580,9 @@ Die betroffene Gerichtsperson legt einen möglichen Ausstandsgrund rechtzeitig o
 
 <sup>2</sup> Nicht wiederholbare Beweismassnahmen darf das entscheidende Gericht berücksichtigen.
 
-<sup>3</sup> Wird der Ausstandsgrund erst nach Abschluss des Verfahrens entdeckt, so gelten die Bestimmungen über die Revision.
+<sup>3</sup> Wird der Ausstandsgrund erst nach Abschluss des Verfahrens entdeckt und steht kein anderes Rechtsmittel mehr zur Verfügung, so gelten die Bestimmungen über die Revision.[^51-1]
+
+[^51-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 3. Titel: Verfahrensgrundsätze und Prozessvoraussetzungen
 
@@ -566,7 +592,11 @@ Die betroffene Gerichtsperson legt einen möglichen Ausstandsgrund rechtzeitig o
 
 **Handeln nach Treu und Glauben**
 
-Alle am Verfahren beteiligten Personen haben nach Treu und Glauben zu handeln.
+<sup>1</sup> Alle am Verfahren beteiligten Personen haben nach Treu und Glauben zu handeln.
+
+<sup>2</sup> Unrichtige Rechtsmittelbelehrungen sind gegenüber allen Gerichten insoweit wirksam, als sie zum Vorteil der Partei lauten, die sich darauf beruft.[^52-1]
+
+[^52-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 53
 
@@ -575,6 +605,10 @@ Alle am Verfahren beteiligten Personen haben nach Treu und Glauben zu handeln.
 <sup>1</sup> Die Parteien haben Anspruch auf rechtliches Gehör.
 
 <sup>2</sup> Insbesondere können sie die Akten einsehen und Kopien anfertigen lassen, soweit keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
+
+<sup>3</sup> Sie dürfen zu sämtlichen Eingaben der Gegenpartei Stellung nehmen. Das Gericht setzt ihnen dazu eine Frist von mindestens zehn Tagen an. Nach unbenutztem Ablauf der Frist wird Verzicht angenommen.[^53-1]
+
+[^53-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 54
 
@@ -665,13 +699,14 @@ Haben die Parteien über eine schiedsfähige Streitsache eine Schiedsvereinbarun
 
 **Rechtshängigkeit bei fehlender Zuständigkeit und falscher Verfahrensart**
 
-<sup>1</sup> Wird eine Eingabe, die mangels Zuständigkeit zurückgezogen oder auf die nicht eingetreten wurde, innert eines Monates seit dem Rückzug oder dem Nichteintretensentscheid bei der zuständigen Schlichtungsbehörde oder beim zuständigen Gericht neu eingereicht, so gilt als Zeitpunkt der Rechtshängigkeit das Datum der ersten Einreichung.
+<sup>1</sup> Wird eine Eingabe, die mangels Zuständigkeit zurückgezogen oder auf die nicht eingetreten wurde, innert eines Monates seit dem Rückzug oder dem Nichteintretensentscheid bei der zuständigen Schlichtungsbehörde oder beim zuständigen Gericht neu eingereicht oder wird sie gemäss Artikel 143 Absatz 1<sup>bis</sup> weitergeleitet, so gilt als Zeitpunkt der Rechtshängigkeit das Datum der ersten Einreichung.[^63-1]
 
 <sup>2</sup> Gleiches gilt, wenn eine Klage nicht im richtigen Verfahren eingereicht wurde.
 
-<sup>3</sup> Vorbehalten bleiben die besonderen gesetzlichen Klagefristen nach dem SchKG[^63-1].
+<sup>3</sup> Vorbehalten bleiben die besonderen gesetzlichen Klagefristen nach dem SchKG[^63-2].
 
-[^63-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^63-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^63-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 64
 
@@ -738,8 +773,8 @@ Zur berufsmässigen Vertretung sind befugt:
 
 <sup>4</sup> Das Gericht kann das persönliche Erscheinen einer vertretenen Partei anordnen.
 
-[^68-1]: [SR 935.61](https://fedlex.data.admin.ch/eli/cc/2002/153)
-[^68-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^68-1]: [SR 935.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11119)
+[^68-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 69
 
@@ -763,13 +798,19 @@ Zur berufsmässigen Vertretung sind befugt:
 
 #### Art. 71
 
-**Einfache Streitgenossenschaft**
+**Einfache Streitgenossenschaft**[^71-1]
 
-<sup>1</sup> Sollen Rechte und Pflichten beurteilt werden, die auf gleichartigen Tatsachen oder Rechtsgründen beruhen, so können mehrere Personen gemeinsam klagen oder beklagt werden.
+<sup>1</sup>
 
-<sup>2</sup> Die einfache Streitgenossenschaft ist ausgeschlossen, wenn für die einzelnen Klagen nicht die gleiche Verfahrensart anwendbar ist.
+Mehrere Personen können gemeinsam klagen oder beklagt werden, sofern:
 
-<sup>3</sup> Jeder Streitgenosse kann den Prozess unabhängig von den andern Streitgenossen führen.
+- a. Rechte und Pflichten beurteilt werden sollen, die auf gleichartigen Tatsachen oder Rechtsgründen beruhen;
+- b. für die einzelnen Klagen die gleiche Verfahrensart anwendbar ist; und
+- c. das gleiche Gericht sachlich zuständig ist.
+
+<sup>2</sup> Jeder Streitgenosse kann den Prozess unabhängig von den andern Streitgenossen führen.
+
+[^71-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 72
 
@@ -857,23 +898,34 @@ Artikel 77 gilt sinngemäss.
 
 **Grundsätze**
 
-<sup>1</sup> Die streitverkündende Partei kann ihre Ansprüche, die sie im Falle des Unterliegens gegen die streitberufene Person zu haben glaubt, beim Gericht, das mit der Hauptklage befasst ist, geltend machen.
+<sup>1</sup>
+
+Die streitverkündende Partei kann Ansprüche, die sie im Falle des Unterliegens gegenüber der streitberufenen Person zu haben glaubt oder die sie von Seiten der streitberufenen Person befürchtet, beim Gericht, das mit der Hauptklage befasst ist, geltend machen, sofern:
+
+- a. die Ansprüche in einem sachlichen Zusammenhang mit der Hauptklage stehen;
+- b. das Gericht dafür sachlich zuständig ist; und
+- c. die Hauptklage und die Ansprüche im ordentlichen Verfahren zu beurteilen sind.[^81-1]
 
 <sup>2</sup> Die streitberufene Person kann keine weitere Streitverkündungsklage erheben.
 
-<sup>3</sup> Im vereinfachten und im summarischen Verfahren ist die Streitverkündungsklage unzulässig.
+<sup>3</sup> …[^81-2]
+
+[^81-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^81-2]: Aufgehoben durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), mit Wirkung seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 82
 
 **Verfahren**
 
-<sup>1</sup> Die Zulassung der Streitverkündungsklage ist mit der Klageantwort oder mit der Replik im Hauptprozess zu beantragen. Die Rechtsbegehren, welche die streitverkündende Partei gegen die streitberufene Person zu stellen gedenkt, sind zu nennen und kurz zu begründen.
+<sup>1</sup> Die Zulassung der Streitverkündungsklage ist mit der Klageantwort oder mit der Replik im Hauptprozess zu beantragen. Die Rechtsbegehren, welche die streitverkündende Partei gegen die streitberufene Person zu stellen gedenkt, sind zu nennen und kurz zu begründen. Sie sind nicht zu beziffern, wenn sie dieselbe Leistung betreffen, zu der die streitverkündende Partei ihrerseits im Hauptverfahren verpflichtet wird.[^82-1]
 
 <sup>2</sup> Das Gericht gibt der Gegenpartei sowie der streitberufenen Person Gelegenheit zur Stellungnahme.
 
 <sup>3</sup> Wird die Streitverkündungsklage zugelassen, so bestimmt das Gericht Zeitpunkt und Umfang des betreffenden Schriftenwechsels; Artikel 125 bleibt vorbehalten.
 
 <sup>4</sup> Der Entscheid über die Zulassung der Klage ist mit Beschwerde anfechtbar.
+
+[^82-1]: Dritter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 6. Kapitel: Parteiwechsel
 
@@ -903,7 +955,9 @@ Artikel 77 gilt sinngemäss.
 
 <sup>1</sup> Ist es der klagenden Partei unmöglich oder unzumutbar, ihre Forderung bereits zu Beginn des Prozesses zu beziffern, so kann sie eine unbezifferte Forderungsklage erheben. Sie muss jedoch einen Mindestwert angeben, der als vorläufiger Streitwert gilt.
 
-<sup>2</sup> Die Forderung ist zu beziffern, sobald die klagende Partei nach Abschluss des Beweisverfahrens oder nach Auskunftserteilung durch die beklagte Partei dazu in der Lage ist. Das angerufene Gericht bleibt zuständig, auch wenn der Streitwert die sachliche Zuständigkeit übersteigt.
+<sup>2</sup> Nach Abschluss des Beweisverfahrens oder nach Auskunftserteilung durch die Parteien oder Dritte setzt das Gericht den Parteien eine Frist zur Bezifferung ihrer Klage.[^85-1] Das angerufene Gericht bleibt zuständig, auch wenn der Streitwert die sachliche Zuständigkeit übersteigt.
+
+[^85-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 86
 
@@ -943,10 +997,16 @@ Mit der Verbandsklage kann beantragt werden:
 
 **Klagenhäufung**
 
+<sup>1</sup>
+
 Die klagende Partei kann mehrere Ansprüche gegen dieselbe Partei in einer Klage vereinen, sofern:
 
 - a. das gleiche Gericht dafür sachlich zuständig ist; und
 - b. die gleiche Verfahrensart anwendbar ist.
+
+<sup>2</sup> Die Klagenhäufung ist auch zulässig, wenn eine unterschiedliche sachliche Zuständigkeit oder Verfahrensart lediglich auf dem Streitwert beruht. Sind für die einzelnen Ansprüche unterschiedliche Verfahrensarten anwendbar, so werden sie zusammen im ordentlichen Verfahren beurteilt.[^90-1]
+
+[^90-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 7. Titel: Streitwert
 
@@ -981,6 +1041,18 @@ Die klagende Partei kann mehrere Ansprüche gegen dieselbe Partei in einer Klage
 <sup>1</sup> Stehen sich Klage und Widerklage gegenüber, so bestimmt sich der Streitwert nach dem höheren Rechtsbegehren.
 
 <sup>2</sup> Zur Bestimmung der Prozesskosten werden die Streitwerte zusammengerechnet, sofern sich Klage und Widerklage nicht gegenseitig ausschliessen.
+
+<sup>3</sup> Ist die Hauptklage eine Teilklage, werden die Prozesskosten ausschliesslich auf der Grundlage des Streitwerts der Hauptklage berechnet.[^94-1]
+
+[^94-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 94a
+
+**Verbandsklage**[^94a-1]
+
+Bei einer Verbandsklage setzt das Gericht den Streitwert entsprechend dem Interesse der einzelnen Angehörigen der betroffenen Personengruppe und der Bedeutung des Falls nach Ermessen fest, sofern sich die Parteien darüber nicht einigen oder ihre Angaben offensichtlich unrichtig sind.
+
+[^94a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 8. Titel: Prozesskosten und unentgeltliche Rechtspflege
 
@@ -1017,9 +1089,14 @@ Als Parteientschädigung gilt:
 
 #### Art. 96
 
-**Tarife**
+**Tarife und Anspruch der Vertretung auf Parteientschädigung**[^96-1]
 
-Die Kantone setzen die Tarife für die Prozesskosten fest.
+<sup>1</sup> Die Kantone setzen die Tarife für die Prozesskosten fest. Vorbehalten bleibt die Gebührenregelung nach Artikel 16 Absatz 1 SchKG[^96-2].
+
+<sup>2</sup> Die Kantone können vorsehen, dass die Anwältin oder der Anwalt einen ausschliesslichen Anspruch auf die Honorare und Auslagen hat, die als Parteientschädigung gewährt werden.
+
+[^96-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^96-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 97
 
@@ -1029,9 +1106,20 @@ Das Gericht klärt die nicht anwaltlich vertretene Partei über die mutmassliche
 
 #### Art. 98
 
-**Kostenvorschuss**
+**Kostenvorschuss**[^98-1]
 
-Das Gericht kann von der klagenden Partei einen Vorschuss bis zur Höhe der mutmasslichen Gerichtskosten verlangen.
+<sup>1</sup> Das Gericht und die Schlichtungsbehörde können von der klagenden Partei einen Vorschuss von höchstens der Hälfte der mutmasslichen Gerichtskosten verlangen.
+
+<sup>2</sup>
+
+Sie können einen Vorschuss bis zur Höhe der gesamten mutmasslichen Gerichtskosten verlangen in:
+
+- a. Verfahren nach Artikel 6 Absatz 4 Buchstabe c und nach Artikel 8;
+- b. Schlichtungsverfahren;
+- c. summarischen Verfahren mit Ausnahme der vorsorglichen Massnahmen nach Artikel 248 Buchstabe d und der familienrechtlichen Streitigkeiten nach den Artikeln 271, 276, 302 und 305;
+- d. Rechtsmittelverfahren.
+
+[^98-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 99
 
@@ -1058,7 +1146,7 @@ Keine Sicherheit ist zu leisten:
 - d.[^99-1] im Verfahren wegen einer Streitigkeit nach dem DSG[^99-2].
 
 [^99-1]: Eingefügt durch Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^99-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^99-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 100
 
@@ -1124,7 +1212,9 @@ Entscheide über die Leistung von Vorschüssen und Sicherheiten sind mit Beschwe
 
 <sup>2</sup> Hat keine Partei vollständig obsiegt, so werden die Prozesskosten nach dem Ausgang des Verfahrens verteilt.
 
-<sup>3</sup> Sind am Prozess mehrere Personen als Haupt- oder Nebenparteien beteiligt, so bestimmt das Gericht ihren Anteil an den Prozesskosten. Es kann auf solidarische Haftung erkennen.
+<sup>3</sup> Sind am Prozess mehrere Personen als Haupt- oder Nebenparteien beteiligt, so bestimmt das Gericht ihren Anteil an den Prozesskosten nach Massgabe ihrer Beteiligung. Bei notwendiger Streitgenossenschaft kann es entscheiden, dass sie solidarisch haften.[^106-1]
+
+[^106-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 107
 
@@ -1176,11 +1266,14 @@ Der Kostenentscheid ist selbstständig nur mit Beschwerde anfechtbar.
 
 **Liquidation der Prozesskosten**
 
-<sup>1</sup> Die Gerichtskosten werden mit den geleisteten Vorschüssen der Parteien verrechnet. Ein Fehlbetrag wird von der kostenpflichtigen Person nachgefordert.
+<sup>1</sup> Die Gerichtskosten werden in den Fällen der Kostenpflichtigkeit der Partei, die einen Vorschuss geleistet hat, mit den geleisteten Vorschüssen verrechnet. In den übrigen Fällen wird ein Vorschuss zurückerstattet. Ein Fehlbetrag wird bei der kostenpflichtigen Partei nachgefordert.[^111-1]
 
-<sup>2</sup> Die kostenpflichtige Partei hat der anderen Partei die geleisteten Vorschüsse zu ersetzen sowie die zugesprochene Parteientschädigung zu bezahlen.
+<sup>2</sup> Die kostenpflichtige Partei hat der anderen Partei die zugesprochene Parteientschädigung zu bezahlen.[^111-2]
 
 <sup>3</sup> Vorbehalten bleiben die Bestimmungen über die unentgeltliche Rechtspflege.
+
+[^111-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^111-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 112
 
@@ -1212,13 +1305,13 @@ Keine Gerichtskosten werden gesprochen in Streitigkeiten:
 - f. aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994[^113-5] über die Krankenversicherung;
 - g.[^113-6] nach dem DSG[^113-7].
 
-[^113-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^113-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^113-3]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
-[^113-4]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^113-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^113-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^113-2]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^113-3]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^113-4]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^113-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^113-6]: Eingefügt durch Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^113-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^113-7]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 114
 
@@ -1234,15 +1327,15 @@ Im Entscheidverfahren werden keine Gerichtskosten gesprochen bei Streitigkeiten:
 - f.[^114-6] wegen Gewalt, Drohungen oder Nachstellungen nach Artikel 28*b* ZGB[^114-7] oder betreffend die elektronische Überwachung nach Artikel 28*c* ZGB;
 - g.[^114-8] nach dem DSG[^114-9].
 
-[^114-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^114-2]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
-[^114-3]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
-[^114-4]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^114-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^114-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^114-2]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
+[^114-3]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^114-4]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^114-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^114-6]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^114-7]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^114-7]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^114-8]: Eingefügt durch Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^114-9]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^114-9]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 115
 
@@ -1252,7 +1345,7 @@ Im Entscheidverfahren werden keine Gerichtskosten gesprochen bei Streitigkeiten:
 
 <sup>2</sup> Bei Streitigkeiten nach Artikel 114 Buchstabe f können die Gerichtskosten der unterliegenden Partei auferlegt werden, wenn gegen sie ein Verbot nach Artikel 28*b* ZGB[^115-1] oder eine elektronische Überwachung nach Artikel 28*c* ZGB angeordnet wird.[^115-2]
 
-[^115-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^115-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^115-2]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 116
@@ -1286,9 +1379,11 @@ Die unentgeltliche Rechtspflege umfasst:
 - b. die Befreiung von den Gerichtskosten;
 - c. die gerichtliche Bestellung einer Rechtsbeiständin oder eines Rechtsbeistandes, wenn dies zur Wahrung der Rechte notwendig ist, insbesondere wenn die Gegenpartei anwaltlich vertreten ist; die Rechtsbeiständin oder der Rechtsbeistand kann bereits zur Vorbereitung des Prozesses bestellt werden.
 
-<sup>2</sup> Sie kann ganz oder teilweise gewährt werden.
+<sup>2</sup> Sie kann ganz oder teilweise gewährt werden. Sie kann auch für die vorsorgliche Beweisführung gewährt werden.[^118-1]
 
 <sup>3</sup> Sie befreit nicht von der Bezahlung einer Parteientschädigung an die Gegenpartei.
+
+[^118-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 119
 
@@ -1400,7 +1495,16 @@ Zur Vereinfachung des Prozesses kann das Gericht insbesondere:
 
 #### Art. 129
 
-Das Verfahren wird in der Amtssprache des zuständigen Kantons geführt. Bei mehreren Amtssprachen regeln die Kantone den Gebrauch der Sprachen.
+<sup>1</sup> Das Verfahren wird in der Amtssprache des zuständigen Kantons geführt. Bei mehreren Amtssprachen regeln die Kantone den Gebrauch der Sprachen.
+
+<sup>2</sup>
+
+Das kantonale Recht kann vorsehen, dass auf Antrag sämtlicher Parteien folgende Sprachen benutzt werden:
+
+- a. eine andere Landessprache, wobei keine Partei auf die Verfahrenssprache nach Absatz 1 zum Voraus verzichten kann;
+- b. die englische Sprache in internationalen handelsrechtlichen Streitigkeiten nach Artikel 6 Absatz 4 Buchstabe c vor dem Handelsgericht oder dem ordentlichen Gericht.[^129-1]
+
+[^129-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 2. Abschnitt: Eingaben der Parteien
 
@@ -1419,7 +1523,7 @@ Bei elektronischer Einreichung muss die Eingabe mit einer qualifizierten elektro
 - c. die Voraussetzungen, unter denen bei technischen Problemen die Nachreichung von Dokumenten auf Papier verlangt werden kann.
 
 [^130-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^130-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^130-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 131
 
@@ -1448,10 +1552,12 @@ Die Vorladung enthält:
 - a. Name und Adresse der vorgeladenen Person;
 - b. die Prozesssache und die Parteien;
 - c. die Eigenschaft, in welcher die Person vorgeladen wird;
-- d. Ort, Datum und Zeit des geforderten Erscheinens;
+- d.[^133-1] Ort, Datum und Zeit des geforderten Erscheinens oder der geforderten Verfügbarkeit beim Einsatz elektronischer Mittel zur Ton- und Bildübertragung;
 - e. die Prozesshandlung, zu der vorgeladen wird;
 - f. die Säumnisfolgen;
 - g. das Datum der Vorladung und die Unterschrift des Gerichts.
+
+[^133-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 134
 
@@ -1519,7 +1625,7 @@ Der Bundesrat regelt:
 - d. den Zeitpunkt, zu dem die Vorladung, die Verfügung oder der Entscheid als zugestellt gilt.
 
 [^139-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
-[^139-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^139-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 140
 
@@ -1541,6 +1647,38 @@ Die Zustellung erfolgt durch Publikation im kantonalen Amtsblatt oder im Schweiz
 
 <sup>2</sup> Die Zustellung gilt am Tag der Publikation als erfolgt.
 
+### 5. Abschnitt: Einsatz elektronischer Mittel zur Ton- und Bildübertragung
+
+[^part1-tit9-chap2-sec5-1]
+
+[^part1-tit9-chap2-sec5-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 141a
+
+**Grundsätze**
+
+<sup>1</sup> Das Gericht kann mündliche Prozesshandlungen auf Antrag oder von Amtes wegen mittels elektronischer Mittel zur Ton- und Bildübertragung, insbesondere mittels Videokonferenz, durchführen oder den am Verfahren beteiligten Personen die Teilnahme mittels solcher Mittel gestatten, sofern das Gesetz nichts anderes bestimmt und sämtliche Parteien damit einverstanden sind.
+
+<sup>2</sup> Sofern dieses Gesetz das persönliche Erscheinen der Parteien verlangt, ist der Einsatz elektronischer Mittel nur zulässig, wenn die Parteien damit einverstanden sind und keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen.
+
+<sup>3</sup> Sofern eine Verhandlung nach diesem Gesetz öffentlich ist, gewährt das Gericht auf Antrag hin den Zugang vor Ort. Das Gericht kann den Zugang auch ohne vorherigen Antrag über elektronische Mittel gewähren.
+
+#### Art. 141b
+
+**Voraussetzungen**
+
+<sup>1</sup>
+
+Für den Einsatz elektronischer Mittel zur Ton- und Bildübertragung müssen folgende Voraussetzungen erfüllt sein:
+
+- a. Die Übertragung von Ton und Bild zwischen sämtlichen an der Prozesshandlung beteiligten Personen erfolgt zeitgleich.
+- b. Bei Zeugeneinvernahmen, Parteibefragungen, Beweisaussagen und persönlichen Anhörungen erfolgt eine Aufzeichnung; bei den übrigen Verhandlungen kann ausnahmsweise auf Antrag oder von Amtes wegen eine Aufzeichnung erfolgen, soweit eine Verhandlung nicht ausschliesslich der freien Erörterung des Streitgegenstandes oder dem Versuch der Einigung dient.
+- c. Der Datenschutz und die Datensicherheit sind gewährleistet.
+
+<sup>2</sup> Mit dem Einverständnis der betroffenen Personen kann ausnahmsweise auf die Übertragung des Bildes verzichtet werden, wenn besondere Dringlichkeit oder andere besondere Umstände des Einzelfalls vorliegen.
+
+<sup>3</sup> Der Bundesrat regelt die technischen Voraussetzungen und die Anforderungen an den Datenschutz und die Datensicherheit.
+
 ### 3. Kapitel: Fristen, Säumnis und Wiederherstellung
 
 ### 1. Abschnitt: Fristen
@@ -1551,9 +1689,13 @@ Die Zustellung erfolgt durch Publikation im kantonalen Amtsblatt oder im Schweiz
 
 <sup>1</sup> Fristen, die durch eine Mitteilung oder den Eintritt eines Ereignisses ausgelöst werden, beginnen am folgenden Tag zu laufen.
 
+<sup>1bis</sup> Erfolgt die Zustellung einer Sendung an einem Samstag, einem Sonntag oder einem am Gerichtsort vom Bundesrecht oder vom kantonalen Recht anerkannten Feiertag durch gewöhnliche Post (Art. 138 Abs. 4), so gilt die Mitteilung nach Absatz 1 am nächsten Werktag als erfolgt.[^142-1]
+
 <sup>2</sup> Berechnet sich eine Frist nach Monaten, so endet sie im letzten Monat an dem Tag, der dieselbe Zahl trägt wie der Tag, an dem die Frist zu laufen begann. Fehlt der entsprechende Tag, so endet die Frist am letzten Tag des Monats.
 
 <sup>3</sup> Fällt der letzte Tag einer Frist auf einen Samstag, einen Sonntag oder einen am Gerichtsort vom Bundesrecht oder vom kantonalen Recht anerkannten Feiertag, so endet sie am nächsten Werktag.
+
+[^142-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 143
 
@@ -1561,11 +1703,14 @@ Die Zustellung erfolgt durch Publikation im kantonalen Amtsblatt oder im Schweiz
 
 <sup>1</sup> Eingaben müssen spätestens am letzten Tag der Frist beim Gericht eingereicht oder zu dessen Handen der Schweizerischen Post oder einer schweizerischen diplomatischen oder konsularischen Vertretung übergeben werden.
 
-<sup>2</sup> Bei elektronischer Einreichung ist für die Wahrung einer Frist der Zeitpunkt massgebend, in dem die Quittung ausgestellt wird, die bestätigt, dass alle Schritte abgeschlossen sind, die auf der Seite der Partei für die Übermittlung notwendig sind.[^143-1]
+<sup>1bis</sup> Eingaben, die innert der Frist irrtümlich bei einem unzuständigen schweizerischen Gericht eingereicht werden, gelten als rechtzeitig eingereicht. Ist ein anderes Gericht in der Schweiz zuständig, leitet das unzuständige Gericht die Eingabe von Amtes wegen weiter.[^143-1]
+
+<sup>2</sup> Bei elektronischer Einreichung ist für die Wahrung einer Frist der Zeitpunkt massgebend, in dem die Quittung ausgestellt wird, die bestätigt, dass alle Schritte abgeschlossen sind, die auf der Seite der Partei für die Übermittlung notwendig sind.[^143-2]
 
 <sup>3</sup> Die Frist für eine Zahlung an das Gericht ist eingehalten, wenn der Betrag spätestens am letzten Tag der Frist zugunsten des Gerichts der Schweizerischen Post übergeben oder einem Post- oder Bankkonto in der Schweiz belastet worden ist.
 
-[^143-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^143-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^143-2]: Fassung gemäss Anhang Ziff. II 5 des BG vom 18. März 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 #### Art. 144
 
@@ -1596,9 +1741,10 @@ Dieser Fristenstillstand gilt nicht für:
 
 <sup>3</sup> Die Parteien sind auf die Ausnahmen nach Absatz 2 hinzuweisen.
 
-<sup>4</sup> Vorbehalten bleiben die Bestimmungen des SchKG[^145-1] über die Betreibungsferien und den Rechtsstillstand.
+<sup>4</sup> Die Bestimmungen dieses Gesetzes über den Stillstand der Fristen sind für alle Klagen nach dem SchKG[^145-1], die vor einem Gericht einzureichen sind, anwendbar. Sie sind für die Beschwerde vor der Aufsichtsbehörde nicht anwendbar.[^145-2]
 
-[^145-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^145-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^145-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 146
 
@@ -1632,9 +1778,11 @@ Dieser Fristenstillstand gilt nicht für:
 
 #### Art. 149
 
-**Verfahren der Wiederherstellung**
+**Verfahren der Wiederherstellung**[^149-1]
 
-Das Gericht gibt der Gegenpartei Gelegenheit zur Stellungnahme und entscheidet endgültig.
+Das Gericht gibt der Gegenpartei Gelegenheit zur Stellungnahme und entscheidet endgültig, es sei denn, die Verweigerung der Wiederherstellung hat den definitiven Rechtsverlust zur Folge.
+
+[^149-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 10. Titel: Beweis
 
@@ -1738,7 +1886,7 @@ Die Parteien und Dritte sind zur Mitwirkung bei der Beweiserhebung verpflichtet.
 <sup>3</sup> Dritte, die zur Mitwirkung verpflichtet sind, haben Anspruch auf eine angemessene Entschädigung.
 
 [^160-1]: Fassung gemäss Ziff. I 4 des BG vom 28. Sept. 2012 über die Anpassung von verfahrensrechtlichen Bestimmungen zum anwaltlichen Berufsgeheimnis, in Kraft seit 1. Mai 2013 ([AS 2013 847](https://fedlex.data.admin.ch/eli/oc/2013/177); [BBl 2011 8181](https://fedlex.data.admin.ch/eli/fga/2011/1435)).
-[^160-2]: [SR 935.62](https://fedlex.data.admin.ch/eli/cc/2011/312)
+[^160-2]: [SR 935.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11120)
 [^160-3]: Fassung gemäss Anhang 2 Ziff. 3, in Kraft seit 1. Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 #### Art. 161
@@ -1770,7 +1918,7 @@ Eine Partei kann die Mitwirkung verweigern, wenn sie:
 
 <sup>2</sup> Die Trägerinnen und Träger anderer gesetzlich geschützter Geheimnisse können die Mitwirkung verweigern, wenn sie glaubhaft machen, dass das Geheimhaltungsinteresse das Interesse an der Wahrheitsfindung überwiegt.
 
-[^163-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^163-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 164
 
@@ -1818,7 +1966,7 @@ Eine dritte Person kann die Mitwirkung verweigern:
 
 <sup>3</sup> Vorbehalten bleiben die besonderen Bestimmungen des Sozialversicherungsrechts über die Datenbekanntgabe.
 
-[^166-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^166-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^166-2]: Fassung gemäss Anhang 1 Ziff. 5 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 [^166-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 
@@ -1839,7 +1987,29 @@ Verweigert die dritte Person die Mitwirkung unberechtigterweise, so kann das Ger
 
 <sup>3</sup> Die dritte Person kann die gerichtliche Anordnung mit Beschwerde anfechten.
 
-[^167-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^167-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+
+### 4. Abschnitt: Verweigerungsrecht betreffend die Tätigkeit eines unternehmensinternen Rechtsdienstes
+
+[^part1-tit10-chap2-sec4-1]
+
+[^part1-tit10-chap2-sec4-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 167a
+
+<sup>1</sup>
+
+Eine Partei kann die Mitwirkung und die Herausgabe von Unterlagen im Zusammenhang mit der Tätigkeit ihres unternehmensinternen Rechtsdienstes verweigern, wenn:
+
+- a. sie als Rechtseinheit im schweizerischen Handelsregister oder in einem vergleichbaren ausländischen Register eingetragen ist;
+- b. der Rechtsdienst von einer Person geleitet wird, die über ein kantonales Anwaltspatent verfügt oder in ihrem Herkunftsstaat die fachlichen Voraussetzungen für die Ausübung des Anwaltsberufs erfüllt; und
+- c. die betreffende Tätigkeit bei einer Anwältin oder einem Anwalt als berufsspezifisch gelten würde.
+
+<sup>2</sup> Eine dritte Person kann die Mitwirkung und die Herausgabe von Unterlagen im Zusammenhang mit ihrer Tätigkeit in einem unternehmensinternen Rechtsdienst unter den Voraussetzungen nach Absatz 1 verweigern.
+
+<sup>3</sup> Die Parteien und die dritten Personen können Entscheide über die Verweigerung der Mitwirkung nach Absatz 1 und 2 mit Beschwerde anfechten.
+
+<sup>4</sup> Die Kosten für Streitigkeiten über das Verweigerungsrecht nach den Absätzen 1 und 2 werden der Partei oder der dritten Person auferlegt, die sich darauf beruft.
 
 ### 3. Kapitel: Beweismittel
 
@@ -1878,6 +2048,14 @@ Wer nicht Partei ist, kann über Tatsachen Zeugnis ablegen, die er oder sie unmi
 
 <sup>3</sup> Die Befragung kann am Aufenthaltsort der Zeugin oder des Zeugen erfolgen. Die Parteien sind darüber rechtzeitig zu informieren.
 
+#### Art. 170a
+
+**Einvernahme mittels Videokonferenz**[^170a-1]
+
+Das Gericht kann die Einvernahme einer Zeugin oder eines Zeugen mittels Videokonferenz oder anderen elektronischen Mitteln zur Ton- und Bildübertragung durchführen oder eine Zeugin oder einen Zeugen mittels solcher Mittel befragen, während die übrigen Teilnehmerinnen und Teilnehmer in den Räumlichkeiten des Gerichts anwesend sind, sofern keine überwiegenden öffentlichen oder privaten Interessen, namentlich die Sicherheit der Zeugin oder des Zeugen, entgegenstehen.
+
+[^170a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
 #### Art. 171
 
 **Form der Einvernahme**
@@ -1890,7 +2068,7 @@ Wer nicht Partei ist, kann über Tatsachen Zeugnis ablegen, die er oder sie unmi
 
 <sup>4</sup> Das Gericht schliesst Zeuginnen und Zeugen von der übrigen Verhandlung aus, solange sie nicht aus dem Zeugenstand entlassen sind.
 
-[^171-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^171-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 172
 
@@ -1928,18 +2106,32 @@ Das Gericht kann einer sachverständigen Zeugin oder einem sachverständigen Zeu
 
 <sup>2</sup> Die Aussagen können zusätzlich auf Tonband, auf Video oder mit anderen geeigneten technischen Hilfsmitteln aufgezeichnet werden.
 
-<sup>3</sup> Werden die Aussagen während einer Verhandlung mit technischen Hilfsmitteln nach Absatz 2 aufgezeichnet, so kann das Gericht oder das einvernehmende Gerichtsmitglied darauf verzichten, der Zeugin oder dem Zeugen das Protokoll vorzulesen oder zum Lesen vorzulegen und von der Zeugin oder dem Zeugen unterzeichnen zu lassen. Die Aufzeichnungen werden zu den Akten genommen und zusammen mit dem Protokoll aufbewahrt.[^176-2]
+<sup>3</sup> …[^176-2]
 
 [^176-1]: Fassung gemäss Ziff. I 1 des BG vom 28. Sept. 2012 (Protokollierungsvorschriften), in Kraft seit 1. Mai 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
-[^176-2]: Eingefügt durch Ziff. I 1 des BG vom 28. Sept. 2012 (Protokollierungsvorschriften), in Kraft seit 1. Mai 2013 ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)).
+[^176-2]: Eingefügt durch Ziff. I 1 des BG vom 28. Sept. 2012 (Protokollierungsvorschriften) ([AS 2013 851](https://fedlex.data.admin.ch/eli/oc/2013/178); [BBl 2012 5707](https://fedlex.data.admin.ch/eli/fga/2012/860)[5719](https://fedlex.data.admin.ch/eli/fga/2012/862)). Aufgehoben durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), mit Wirkung seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 176a
+
+**Protokollierung bei Aufzeichnung**[^176a-1]
+
+Werden die Aussagen während einer Verhandlung mit technischen Hilfsmitteln aufgezeichnet, so gelten für die Protokollierung folgende Abweichungen:
+
+- a. Das Protokoll kann nachträglich gestützt auf die Aufzeichnung erstellt werden.
+- b. Das Gericht oder das einvernehmende Gerichtsmitglied kann darauf verzichten, der Zeugin oder dem Zeugen das Protokoll vorzulesen oder zum Lesen vorzulegen und es von ihr oder ihm unterzeichnen zu lassen.
+- c. Die Aufzeichnung wird zu den Akten genommen.
+
+[^176a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 3. Abschnitt: Urkunde
 
 #### Art. 177
 
-**Begriff**
+**Begriff**[^177-1]
 
-Als Urkunden gelten Dokumente wie Schriftstücke, Zeichnungen, Pläne, Fotos, Filme, Tonaufzeichnungen, elektronische Dateien und dergleichen, die geeignet sind, rechtserhebliche Tatsachen zu beweisen.
+Als Urkunden gelten Dokumente, die geeignet sind, rechtserhebliche Tatsachen zu beweisen, wie Schriftstücke, Zeichnungen, Pläne, Fotos, Filme, Tonaufzeichnungen, elektronische Dateien und dergleichen sowie private Gutachten der Parteien.
+
+[^177-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 178
 
@@ -2001,7 +2193,7 @@ Die Partei, die sich auf eine Urkunde beruft, hat deren Echtheit zu beweisen, so
 
 <sup>3</sup> Die sachverständige Person hat Anspruch auf Entschädigung. Der gerichtliche Entscheid über die Entschädigung ist mit Beschwerde anfechtbar.
 
-[^184-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^184-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 185
 
@@ -2025,13 +2217,16 @@ Die Partei, die sich auf eine Urkunde beruft, hat deren Echtheit zu beweisen, so
 
 **Erstattung des Gutachtens**
 
-<sup>1</sup> Das Gericht kann mündliche oder schriftliche Erstattung des Gutachtens anordnen. Es kann überdies anordnen, dass die sachverständige Person ihr schriftliches Gutachten in der Verhandlung erläutert.
+<sup>1</sup> Das Gericht kann mündliche oder schriftliche Erstattung des Gutachtens anordnen. Es kann überdies anordnen, dass die sachverständige Person ihr schriftliches Gutachten in der Verhandlung erläutert. Artikel 170*a* gilt sinngemäss.[^187-1]
 
-<sup>2</sup> Über ein mündliches Gutachten ist sinngemäss nach Artikel 176 Protokoll zu führen.
+<sup>2</sup> Über ein mündliches Gutachten ist sinngemäss nach den Artikeln 176 und 176*a* Protokoll zu führen.[^187-2]
 
 <sup>3</sup> Sind mehrere sachverständige Personen beauftragt, so erstattet jede von ihnen ein Gutachten, sofern das Gericht nichts anderes anordnet.
 
 <sup>4</sup> Das Gericht gibt den Parteien Gelegenheit, eine Erläuterung des Gutachtens oder Ergänzungsfragen zu beantragen.
+
+[^187-1]: Dritter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^187-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 188
 
@@ -2083,13 +2278,15 @@ Das Schiedsgutachten bindet das Gericht hinsichtlich der darin festgestellten Ta
 
 <sup>2</sup> Die Parteien werden vor der Beweisaussage zur Wahrheit ermahnt und auf die Straffolgen einer Falschaussage hingewiesen (Art. 306 StGB[^192-1]).
 
-[^192-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^192-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 193
 
-**Protokoll**
+**Protokoll und Durchführung mittels Videokonferenz**[^193-1]
 
-Für das Protokoll der Parteibefragung und der Beweisaussage gilt Artikel 176 sinngemäss.
+Für die Parteibefragung und die Beweisaussage gelten die Artikel 170*a,* 176 und 176*a* sinngemäss.
+
+[^193-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 11. Titel: Rechtshilfe zwischen schweizerischen Gerichten
 
@@ -2101,7 +2298,7 @@ Für das Protokoll der Parteibefragung und der Beweisaussage gilt Artikel 176 si
 
 <sup>2</sup> Sie verkehren direkt miteinander[^194-1].
 
-[^194-1]: Die örtlich zuständige schweizerische Justizbehörde für Rechtshilfeersuchen kann über folgende Internetseite ermittelt werden: www.elorge.admin.ch
+[^194-1]: Die örtlich zuständige schweizerische Justizbehörde für Rechtshilfeersuchen kann über folgende Internetseite ermittelt werden: [www.elorge.admin.ch](https://www.elorge.admin.ch)
 
 #### Art. 195
 
@@ -2140,12 +2337,12 @@ Das Schlichtungsverfahren entfällt:
 - a. im summarischen Verfahren;
 - a<sup>bis</sup>.[^198-1] bei Klagen wegen Gewalt, Drohungen oder Nachstellungen nach Artikel 28*b* ZGB[^198-2] oder betreffend eine elektronische Überwachung nach Artikel 28*c* ZGB;
 - b. bei Klagen über den Personenstand;
-- b<sup>bis</sup>.[^198-3] bei Klagen über den Unterhalt des Kindes und weitere Kinderbelange, wenn vor der Klage ein Elternteil die Kindesschutzbehörde angerufen hat (Art. 298*b* und 298*d* ZGB[^198-4]);
+- b<sup>bis</sup>.[^198-3] bei Klagen über den Unterhalt von minder- und volljährigen Kindern und weitere Kinderbelange;
 - c. im Scheidungsverfahren;
-- d.[^198-5] im Verfahren zur Auflösung und zur Ungültigerklärung der eingetragenen Partnerschaft;
+- d.[^198-4] im Verfahren zur Auflösung und zur Ungültigerklärung der eingetragenen Partnerschaft;
 - e.
 
-  bei folgenden Klagen aus dem SchKG[^198-6]:
+  bei folgenden Klagen aus dem SchKG[^198-5]:
 
   - 1\. Aberkennungsklage (Art. 83 Abs. 2 SchKG),
   - 2\. Feststellungsklage (Art. 85*a* SchKG),
@@ -2156,16 +2353,19 @@ Das Schlichtungsverfahren entfällt:
   - 7\. Klage auf Feststellung neuen Vermögens (Art. 265*a* SchKG),
   - 8\. Klage auf Rückschaffung von Retentionsgegenständen (Art. 284 SchKG);
 
-- f. bei Streitigkeiten, für die nach den Artikeln 5 und 6 dieses Gesetzes eine einzige kantonale Instanz zuständig ist;
+- f.[^198-6] bei Streitigkeiten, für die nach Artikel 7 dieses Gesetzes eine einzige kantonale Instanz zuständig ist;
 - g. bei der Hauptintervention, der Widerklage und der Streitverkündungsklage;
-- h. wenn das Gericht Frist für eine Klage gesetzt hat.
+- h.[^198-7] wenn das Gericht eine Frist für eine Klage gesetzt hat sowie bei Klagen, die mit einer solchen Klage vereint werden, sofern die Klagen in einem sachlichen Zusammenhang stehen;
+- i.[^198-8] bei Klagen vor dem Bundespatentgericht.
 
 [^198-1]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^198-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^198-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^198-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^198-5]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^198-6]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^198-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^198-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. März 2015 (Kindesunterhalt) ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)). Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-4]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^198-5]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^198-6]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-7]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^198-8]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 199
 
@@ -2181,7 +2381,10 @@ Die klagende Partei kann einseitig auf das Schlichtungsverfahren verzichten, wen
 - b. der Aufenthaltsort der beklagten Partei unbekannt ist;
 - c. in Streitigkeiten nach dem Gleichstellungsgesetz vom 24. März 1995[^199-1].
 
-[^199-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+<sup>3</sup> Bei Streitigkeiten, für die nach den Artikeln 5, 6 und 8 eine einzige kantonale Instanz zuständig ist, kann die klagende Partei die Klage direkt beim Gericht einreichen.[^199-2]
+
+[^199-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^199-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 200
 
@@ -2191,7 +2394,7 @@ Die klagende Partei kann einseitig auf das Schlichtungsverfahren verzichten, wen
 
 <sup>2</sup> Bei Streitigkeiten nach dem Gleichstellungsgesetz vom 24. März 1995[^200-1] besteht die Schlichtungsbehörde aus einer vorsitzenden Person und einer paritätischen Vertretung der Arbeitgeber- und Arbeitnehmerseite und des öffentlichen und privaten Bereichs; die Geschlechter müssen paritätisch vertreten sein.
 
-[^200-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^200-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
 
 #### Art. 201
 
@@ -2213,7 +2416,9 @@ Die klagende Partei kann einseitig auf das Schlichtungsverfahren verzichten, wen
 
 <sup>3</sup> Die Schlichtungsbehörde stellt der Gegenpartei das Schlichtungsgesuch unverzüglich zu und lädt gleichzeitig die Parteien zur Vermittlung vor.
 
-<sup>4</sup> In den Angelegenheiten nach Artikel 200 kann sie, soweit ein Urteilsvorschlag nach Artikel 210 oder ein Entscheid nach Artikel 212 in Frage kommt, ausnahmsweise einen Schriftenwechsel durchführen.
+<sup>4</sup> In den Angelegenheiten nach Artikel 200 kann sie, soweit ein Entscheidvorschlag[^202-1] nach Artikel 210 oder ein Entscheid nach Artikel 212 in Frage kommt, ausnahmsweise einen Schriftenwechsel durchführen.
+
+[^202-1]: Ausdruck gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 203
 
@@ -2221,7 +2426,7 @@ Die klagende Partei kann einseitig auf das Schlichtungsverfahren verzichten, wen
 
 <sup>1</sup> Die Verhandlung hat innert zwei Monaten seit Eingang des Gesuchs oder nach Abschluss des Schriftenwechsels stattzufinden.
 
-<sup>2</sup> Die Schlichtungsbehörde lässt sich allfällige Urkunden vorlegen und kann einen Augenschein durchführen. Soweit ein Urteilsvorschlag nach Artikel 210 oder ein Entscheid nach Artikel 212 in Frage kommt, kann sie auch die übrigen Beweismittel abnehmen, wenn dies das Verfahren nicht wesentlich verzögert.
+<sup>2</sup> Die Schlichtungsbehörde lässt sich allfällige Urkunden vorlegen und kann einen Augenschein durchführen. Soweit ein Entscheidvorschlag nach Artikel 210 oder ein Entscheid nach Artikel 212 in Frage kommt, kann sie auch die übrigen Beweismittel abnehmen, wenn dies das Verfahren nicht wesentlich verzögert.
 
 <sup>3</sup> Die Verhandlung ist nicht öffentlich. In den Angelegenheiten nach Artikel 200 kann die Schlichtungsbehörde die Öffentlichkeit ganz oder teilweise zulassen, wenn ein öffentliches Interesse besteht.
 
@@ -2231,19 +2436,25 @@ Die klagende Partei kann einseitig auf das Schlichtungsverfahren verzichten, wen
 
 **Persönliches Erscheinen**
 
-<sup>1</sup> Die Parteien müssen persönlich zur Schlichtungsverhandlung erscheinen.
+<sup>1</sup> Die Parteien müssen persönlich zur Schlichtungsverhandlung erscheinen. Ist eine juristische Person Partei, so muss für sie entweder ein Organ oder eine Person erscheinen, die mit einer kaufmännischen Handlungsvollmacht ausgestattet, zur Prozessführung sowie zum Abschluss eines Vergleichs befugt und mit dem Streitgegenstand vertraut ist.[^204-1]
 
-<sup>2</sup> Sie können sich von einer Rechtsbeiständin, einem Rechtsbeistand oder einer Vertrauensperson begleiten lassen.
+<sup>2</sup> Die Parteien können sich von einer Rechtsbeiständin, einem Rechtsbeistand oder einer Vertrauensperson begleiten lassen.[^204-2]
 
 <sup>3</sup>
 
 Nicht persönlich erscheinen muss und sich vertreten lassen kann, wer:
 
-- a. ausserkantonalen oder ausländischen Wohnsitz hat;
+- a.[^204-3] ausserkantonalen oder ausländischen Wohnsitz oder Sitz hat;
 - b. wegen Krankheit, Alter oder anderen wichtigen Gründen verhindert ist;
-- c. in Streitigkeiten nach Artikel 243 als Arbeitgeber beziehungsweise als Versicherer eine angestellte Person oder als Vermieter die Liegenschaftsverwaltung delegiert, sofern diese zum Abschluss eines Vergleichs schriftlich ermächtigt sind.
+- c. in Streitigkeiten nach Artikel 243 als Arbeitgeber beziehungsweise als Versicherer eine angestellte Person oder als Vermieter die Liegenschaftsverwaltung delegiert, sofern diese zum Abschluss eines Vergleichs schriftlich ermächtigt sind;
+- d.[^204-4] eine von mehreren klagenden oder beklagten Parteien ist, sofern eine der Parteien anwesend und befugt ist, die anderen klagenden oder beklagten Parteien zu vertreten und einen Vergleich in deren Namen abzuschliessen.
 
 <sup>4</sup> Die Gegenpartei ist über die Vertretung vorgängig zu orientieren.
+
+[^204-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^204-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 205
 
@@ -2251,7 +2462,7 @@ Nicht persönlich erscheinen muss und sich vertreten lassen kann, wer:
 
 <sup>1</sup> Aussagen der Parteien dürfen weder protokolliert noch später im Entscheidverfahren verwendet werden.
 
-<sup>2</sup> Vorbehalten ist die Verwendung der Aussagen im Falle eines Urteilsvorschlages oder Entscheides der Schlichtungsbehörde.
+<sup>2</sup> Vorbehalten ist die Verwendung der Aussagen im Falle eines Entscheidvorschlages oder Entscheides der Schlichtungsbehörde.
 
 #### Art. 206
 
@@ -2262,6 +2473,10 @@ Nicht persönlich erscheinen muss und sich vertreten lassen kann, wer:
 <sup>2</sup> Bei Säumnis der beklagten Partei verfährt die Schlichtungsbehörde, wie wenn keine Einigung zu Stande gekommen wäre (Art. 209–212).
 
 <sup>3</sup> Bei Säumnis beider Parteien wird das Verfahren als gegenstandslos abgeschrieben.
+
+<sup>4</sup> Eine säumige Partei kann mit einer Ordnungsbusse bis zu 1000 Franken bestraft werden.[^206-1]
+
+[^206-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 207
 
@@ -2311,31 +2526,35 @@ Die Klagebewilligung enthält:
 
 <sup>3</sup> Nach Eröffnung berechtigt die Klagebewilligung während dreier Monate zur Einreichung der Klage beim Gericht.
 
-<sup>4</sup> In Streitigkeiten aus Miete und Pacht von Wohn- und Geschäftsräumen sowie aus landwirtschaftlicher Pacht beträgt die Klagefrist 30 Tage. Vorbehalten bleiben weitere besondere gesetzliche und gerichtliche Klagefristen.
+<sup>4</sup> In Streitigkeiten aus Miete und Pacht von Wohn- und Geschäftsräumen sowie aus landwirtschaftlicher Pacht beträgt die Klagefrist 30 Tage.[^209-1]
 
-### 4. Kapitel: Urteilsvorschlag und Entscheid
+[^209-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+### 4. Kapitel: Entscheidvorschlag und Entscheid
 
 #### Art. 210
 
-**Urteilsvorschlag**
+**Entscheidvorschlag**
 
 <sup>1</sup>
 
-Die Schlichtungsbehörde kann den Parteien einen Urteilsvorschlag unterbreiten in:
+Die Schlichtungsbehörde kann den Parteien einen Entscheidvorschlag unterbreiten in:[^210-1]
 
-- a. Streitigkeiten nach dem Gleichstellungsgesetz vom 24. März 1995[^210-1];
+- a. Streitigkeiten nach dem Gleichstellungsgesetz vom 24. März 1995[^210-2];
 - b. Streitigkeiten aus Miete und Pacht von Wohn- und Geschäftsräumen sowie aus landwirtschaftlicher Pacht, sofern die Hinterlegung von Miet- und Pachtzinsen, der Schutz vor missbräuchlichen Miet- und Pachtzinsen, der Kündigungsschutz oder die Erstreckung des Miet- und Pachtverhältnisses betroffen ist;
-- c. den übrigen vermögensrechtlichen Streitigkeiten bis zu einem Streitwert von 5000 Franken.
+- c.[^210-3] den übrigen vermögensrechtlichen Streitigkeiten bis zu einem Streitwert von 10 000 Franken.
 
-<sup>2</sup> Der Urteilsvorschlag kann eine kurze Begründung enthalten; im Übrigen gilt Artikel 238 sinngemäss.
+<sup>2</sup> Der Entscheidvorschlag kann eine kurze Begründung enthalten; im Übrigen gilt Artikel 238 sinngemäss.
 
-[^210-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^210-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^210-2]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^210-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 211
 
 **Wirkungen**
 
-<sup>1</sup> Der Urteilsvorschlag gilt als angenommen und hat die Wirkungen eines rechtskräftigen Entscheids, wenn ihn keine Partei innert 20 Tagen seit der schriftlichen Eröffnung ablehnt. Die Ablehnung bedarf keiner Begründung.
+<sup>1</sup> Der Entscheidvorschlag gilt als angenommen und hat die Wirkungen eines rechtskräftigen Entscheids, wenn ihn keine Partei innert 20 Tagen seit der schriftlichen Eröffnung ablehnt. Die Ablehnung bedarf keiner Begründung.
 
 <sup>2</sup>
 
@@ -2344,9 +2563,9 @@ Nach Eingang der Ablehnung stellt die Schlichtungsbehörde die Klagebewilligung 
 - a. in den Angelegenheiten nach Artikel 210 Absatz 1 Buchstabe b: der ablehnenden Partei;
 - b. in den übrigen Fällen: der klagenden Partei.
 
-<sup>3</sup> Wird die Klage in den Angelegenheiten nach Artikel 210 Absatz 1 Buchstabe b nicht rechtzeitig eingereicht, so gilt der Urteilsvorschlag als anerkannt und er hat die Wirkungen eines rechtskräftigen Entscheides.
+<sup>3</sup> Wird die Klage in den Angelegenheiten nach Artikel 210 Absatz 1 Buchstabe b nicht rechtzeitig eingereicht, so gilt der Entscheidvorschlag als anerkannt und er hat die Wirkungen eines rechtskräftigen Entscheides.
 
-<sup>4</sup> Die Parteien sind im Urteilsvorschlag auf die Wirkungen nach den Absätzen 1–3 hinzuweisen.
+<sup>4</sup> Die Parteien sind im Entscheidvorschlag auf die Wirkungen nach den Absätzen 1–3 hinzuweisen.
 
 #### Art. 212
 
@@ -2355,6 +2574,10 @@ Nach Eingang der Ablehnung stellt die Schlichtungsbehörde die Klagebewilligung 
 <sup>1</sup> Vermögensrechtliche Streitigkeiten bis zu einem Streitwert von 2000 Franken kann die Schlichtungsbehörde entscheiden, sofern die klagende Partei einen entsprechenden Antrag stellt.
 
 <sup>2</sup> Das Verfahren ist mündlich.
+
+<sup>3</sup> Bei einem Entscheid gemäss Absatz 1 legt die Schlichtungsbehörde die Gerichtskosten und die Parteientschädigung fest.[^212-1]
+
+[^212-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 2. Titel: Mediation
 
@@ -2483,9 +2706,18 @@ Mit der Klage sind folgende Beilagen einzureichen:
 
 <sup>1</sup> Die beklagte Partei kann in der Klageantwort Widerklage erheben, wenn der geltend gemachte Anspruch nach der gleichen Verfahrensart wie die Hauptklage zu beurteilen ist.
 
+<sup>1bis</sup>
+
+Die Widerklage ist auch zulässig und zusammen mit der Hauptklage im ordentlichen Verfahren zu beurteilen, wenn:
+
+- a. der geltend gemachte Anspruch lediglich aufgrund des Streitwerts im vereinfachten Verfahren, die Hauptklage aber im ordentlichen Verfahren zu beurteilen ist; oder
+- b. mit der Widerklage auf Feststellung des Nichtbestehens eines Rechts oder Rechtsverhältnisses geklagt wird, nachdem mit der Hauptklage nur ein Teil eines Anspruchs aus diesem Recht oder Rechtsverhältnis eingeklagt wurde und deshalb lediglich aufgrund des Streitwerts das vereinfachte Verfahren Anwendung findet.[^224-1]
+
 <sup>2</sup> Übersteigt der Streitwert der Widerklage die sachliche Zuständigkeit des Gerichts, so hat dieses beide Klagen dem Gericht mit der höheren sachlichen Zuständigkeit zu überweisen.
 
 <sup>3</sup> Wird Widerklage erhoben, so setzt das Gericht der klagenden Partei eine Frist zur schriftlichen Antwort. Widerklage auf Widerklage ist unzulässig.
+
+[^224-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 225
 
@@ -2532,18 +2764,22 @@ Eine Klageänderung ist zulässig, wenn der geänderte oder neue Anspruch nach d
 
 **Neue Tatsachen und Beweismittel**
 
-<sup>1</sup>
+<sup>1</sup> Hat weder ein zweiter Schriftenwechsel noch eine Instruktionsverhandlung stattgefunden, so können neue Tatsachen und Beweismittel in der Hauptverhandlung im ersten Parteivortrag nach Artikel 228 Absatz 1 unbeschränkt vorgebracht werden.[^229-1]
 
-In der Hauptverhandlung werden neue Tatsachen und Beweismittel nur noch berücksichtigt, wenn sie ohne Verzug vorgebracht werden und:
+<sup>2</sup>
 
-- a.[^229-1] erst nach Abschluss des Schriftenwechsels oder nach der letzten Instruktionsverhandlung entstanden sind (echte Noven); oder
-- b. bereits vor Abschluss des Schriftenwechsels oder vor der letzten Instruktionsverhandlung vorhanden waren, aber trotz zumutbarer Sorgfalt nicht vorher vorgebracht werden konnten (unechte Noven).
+In den anderen Fällen können neue Tatsachen und Beweismittel innerhalb einer vom Gericht festgelegten Frist oder, bei Fehlen einer solchen Frist, spätestens bis zum ersten Parteivortrag in der Hauptverhandlung nach Artikel 228 Absatz 1 vorgebracht werden, wenn sie:
 
-<sup>2</sup> Hat weder ein zweiter Schriftenwechsel noch eine Instruktionsverhandlung stattgefunden, so können neue Tatsachen und Beweismittel zu Beginn der Hauptverhandlung unbeschränkt vorgebracht werden.
+- a. erst nach Abschluss des Schriftenwechsels oder nach der letzten Instruktionsverhandlung entstanden sind (echte Noven); oder
+- b. bereits vor Abschluss des Schriftenwechsels oder vor der letzten Instruktionsverhandlung vorhanden waren, aber trotz zumutbarer Sorgfalt nicht vorher vorgebracht werden konnten (unechte Noven).[^229-2]
+
+<sup>2bis</sup> Nach den ersten Parteivorträgen werden neue Tatsachen und Beweismittel nach Absatz 2 Buchstaben a und b nur noch berücksichtigt, wenn sie in der vom Gericht festgelegten Frist oder, bei Fehlen einer solchen Frist, spätestens in der nächsten Verhandlung vorgebracht werden.[^229-3]
 
 <sup>3</sup> Hat das Gericht den Sachverhalt von Amtes wegen abzuklären, so berücksichtigt es neue Tatsachen und Beweismittel bis zur Urteilsberatung.
 
-[^229-1]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^229-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^229-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^229-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 230
 
@@ -2639,8 +2875,10 @@ Ein Entscheid enthält:
 - d. das Dispositiv (Urteilsformel);
 - e. die Angabe der Personen und Behörden, denen der Entscheid mitzuteilen ist;
 - f. eine Rechtsmittelbelehrung, sofern die Parteien auf die Rechtsmittel nicht verzichtet haben;
-- g. gegebenenfalls die Entscheidgründe;
+- g.[^238-1] gegebenenfalls die wesentlichen Entscheidgründe tatsächlicher und rechtlicher Art;
 - h. die Unterschrift des Gerichts.
+
+[^238-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 239
 
@@ -2648,16 +2886,18 @@ Ein Entscheid enthält:
 
 <sup>1</sup>
 
-Das Gericht kann seinen Entscheid ohne schriftliche Begründung eröffnen:
+Das Gericht eröffnet seinen Entscheid in der Regel ohne schriftliche Begründung:[^239-1]
 
 - a. in der Hauptverhandlung durch Übergabe des schriftlichen Dispositivs an die Parteien mit kurzer mündlicher Begründung;
-- b. durch Zustellung des Dispositivs an die Parteien.
+- b.[^239-2] durch zeitnahe Zustellung des Dispositivs an die Parteien.
 
 <sup>2</sup> Eine schriftliche Begründung ist nachzuliefern, wenn eine Partei dies innert zehn Tagen seit der Eröffnung des Entscheides verlangt. Wird keine Begründung verlangt, so gilt dies als Verzicht auf die Anfechtung des Entscheides mit Berufung oder Beschwerde.
 
-<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Bundesgerichtsgesetzes vom 17. Juni 2005[^239-1] über die Eröffnung von Entscheiden, die an das Bundesgericht weitergezogen werden können.
+<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Bundesgerichtsgesetzes vom 17. Juni 2005[^239-3] über die Eröffnung von Entscheiden, die an das Bundesgericht weitergezogen werden können.
 
-[^239-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^239-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^239-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^239-3]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 240
 
@@ -2665,7 +2905,11 @@ Das Gericht kann seinen Entscheid ohne schriftliche Begründung eröffnen:
 
 Sieht das Gesetz es vor oder dient es der Vollstreckung, so wird der Entscheid Behörden und betroffenen Dritten mitgeteilt oder veröffentlicht.
 
-### 6. Kapitel: Beendigung des Verfahrens ohne Entscheid
+### 6. Kapitel: Beendigung des Verfahrens ohne Sachentscheid
+
+[^part2-tit3-chap6-1]
+
+[^part2-tit3-chap6-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 241
 
@@ -2679,9 +2923,11 @@ Sieht das Gesetz es vor oder dient es der Vollstreckung, so wird der Entscheid B
 
 #### Art. 242
 
-**Gegenstandslosigkeit aus anderen Gründen**
+**Gegenstandslosigkeit aus anderen Gründen**[^242-1]
 
-Endet das Verfahren aus anderen Gründen ohne Entscheid, so wird es abgeschrieben.
+Endet das Verfahren aus anderen Gründen ohne Sachentscheid, so erlässt das Gericht einen Abschreibungsentscheid.
+
+[^242-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 4. Titel: Vereinfachtes Verfahren
 
@@ -2705,13 +2951,13 @@ Es gilt ohne Rücksicht auf den Streitwert bei Streitigkeiten:[^243-1]
 <sup>3</sup> Es findet keine Anwendung in Streitigkeiten vor der einzigen kantonalen Instanz nach den Artikeln 5 und 8 und vor dem Handelsgericht nach Artikel 6.
 
 [^243-1]: Fassung gemäss Ziff. I 2 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^243-2]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^243-2]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
 [^243-3]: Fassung gemäss Ziff. I 2 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^243-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^243-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^243-5]: Fassung gemäss Anhang 1 Ziff. II 24 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^243-6]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^243-7]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^243-8]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^243-6]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^243-7]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^243-8]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 244
 
@@ -2741,9 +2987,12 @@ Als Beilagen sind einzureichen:
 
 **Vorladung zur Verhandlung und Stellungnahme**
 
-<sup>1</sup> Enthält die Klage keine Begründung, so stellt das Gericht sie der beklagten Partei zu und lädt die Parteien zugleich zur Verhandlung vor.
+<sup>1</sup> Enthält die Klage keine Begründung, so stellt das Gericht sie der beklagten Partei zu und lädt die Parteien zugleich zur Verhandlung vor. Bei Säumnis einer Partei an der Verhandlung lädt das Gericht unverzüglich noch ein einziges Mal zur Verhandlung vor und weist die Parteien dabei auf die Folgen einer allfälligen weiteren Säumnis ihrerseits hin. Die Verhandlung findet innert 30 Tagen seit der ersten Verhandlung statt.[^245-1]
 
-<sup>2</sup> Enthält die Klage eine Begründung, so setzt das Gericht der beklagten Partei zunächst eine Frist zur schriftlichen Stellungnahme.
+<sup>2</sup> Enthält die Klage eine Begründung, so setzt das Gericht der beklagten Partei zunächst eine Frist zur schriftlichen Stellungnahme. Lädt das Gericht die Parteien zur Verhandlung vor, so gilt bei Säumnis Artikel 234 sinngemäss.[^245-2]
+
+[^245-1]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^245-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 246
 
@@ -2791,18 +3040,19 @@ Das summarische Verfahren ist anwendbar:
 
 **Zivilgesetzbuch**
 
-Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
+Das summarische Verfahren gilt für folgende Angelegenheiten:[^249-1]
 
-- a.[^249-1]
+- a.[^249-2]
 
   Personenrecht:
 
-  - 1\. Fristansetzung zur Genehmigung von Rechtsgeschäften einer minderjährigen Person oder einer Person unter umfassender Beistandschaft (Art. 19*a* ZGB[^249-2]),
+  - 1\. Fristansetzung zur Genehmigung von Rechtsgeschäften einer minderjährigen Person oder einer Person unter umfassender Beistandschaft (Art. 19*a* ZGB[^249-3]),
   - 2\. Anspruch auf Gegendarstellung (Art. 28*l* ZGB),
   - 3\. Verschollenerklärung (Art. 35–38 ZGB),
-  - 4\. Bereinigung einer Eintragung im Zivilstandsregister (Art. 42 ZGB);
+  - 4\. Bereinigung einer Eintragung im Zivilstandsregister (Art. 42 ZGB),
+  - 5\.[^249-4] Massnahmen bei Mängeln in der Organisation eines Vereins (Art. 69*c* ZGB);
 
-- b.[^249-3] …
+- b.[^249-5] …
 - c.
 
   Erbrecht:
@@ -2823,31 +3073,33 @@ Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
   - 6\. Fristansetzung zur Sicherstellung bei Nutzniessung und Entzug des Besitzes (Art. 760 und 762 ZGB),
   - 7\. Anordnung der Schuldenliquidation des Nutzniessungsvermögens (Art. 766 ZGB),
   - 8\. Massnahmen zu Gunsten des Pfandgläubigers zur Sicherung des Grundpfands (Art. 808 Abs. 1 und 2 sowie Art. 809–811 ZGB),
-  - 9\.[^249-4] Anordnung über die Stellvertretung bei Schuldbrief (Art. 850 Abs. 3 ZGB),
-  - 10\.[^249-5] Kraftloserklärung von Schuldbrief (Art. 856 und 865 ZGB),
+  - 9\.[^249-6] Anordnung über die Stellvertretung bei Schuldbrief (Art. 850 Abs. 3 ZGB),
+  - 10\.[^249-7] Kraftloserklärung von Schuldbrief (Art. 856 und 865 ZGB),
   - 11\. Vormerkung von Verfügungsbeschränkungen und vorläufigen Eintragungen im Streitfall (Art. 960 Abs. 1 Ziff. 1, 961 Abs. 1 Ziff. 1 und 966 Abs. 2 ZGB).
 
-[^249-1]: Fassung gemäss Anhang 2 Ziff. 3, in Kraft seit 1. Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^249-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^249-3]: Aufgehoben durch Anhang 2 Ziff. 3, mit Wirkung seit 1. Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^249-4]: Fassung gemäss Ziff. II 3 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^249-5]: Fassung gemäss Ziff. II 3 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^249-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^249-2]: Fassung gemäss Anhang 2 Ziff. 3, in Kraft seit 1. Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^249-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^249-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^249-5]: Aufgehoben durch Anhang 2 Ziff. 3, mit Wirkung seit 1. Jan. 2013 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914); [AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^249-6]: Fassung gemäss Ziff. II 3 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^249-7]: Fassung gemäss Ziff. II 3 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 250
 
 **Obligationenrecht**
 
-Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
+Das summarische Verfahren gilt für folgende Angelegenheiten:[^250-1]
 
 - a.
 
   Allgemeiner Teil:
 
-  - 1\. gerichtliche Hinterlegung einer erloschenen Vollmacht (Art. 36 Abs. 1 OR[^250-1]),
+  - 1\. gerichtliche Hinterlegung einer erloschenen Vollmacht (Art. 36 Abs. 1 OR[^250-2]),
   - 2\. Ansetzung einer angemessenen Frist zur Sicherstellung (Art. 83 Abs. 2 OR),
   - 3\. Hinterlegung und Verkauf der geschuldeten Sache bei Gläubigerverzug (Art. 92 Abs. 2 und 93 Abs. 2 OR),
   - 4\. Ermächtigung zur Ersatzvornahme (Art. 98 OR),
-  - 5\. Ansetzung einer Frist zur Vertragserfüllung (Art. 107 Abs. 1[^250-2] OR),
+  - 5\. Ansetzung einer Frist zur Vertragserfüllung (Art. 107 Abs. 1[^250-3] OR),
   - 6\. Hinterlegung eines streitigen Betrages (Art. 168 Abs. 1 OR);
 
 - b.
@@ -2866,23 +3118,24 @@ Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
 
 - c.
 
-  Gesellschaftsrecht und Handelsregister:[^250-3]
+  Gesellschaftsrecht und Handelsregister:[^250-4]
 
   - 1\. vorläufiger Entzug der Vertretungsbefugnis (Art. 565 Abs. 2, 603 und 767 Abs. 1 OR),
   - 2\. Bezeichnung der gemeinsamen Vertretung (Art. 690 Abs. 1, 764 Abs. 2, 792 Ziff. 1 und 847 Abs. 4 OR),
   - 3\. Bestimmung, Abberufung und Ersetzung von Liquidatoren (Art. 583 Abs. 2, 619, 740, 741, 770, 826 Abs. 2 und 913 OR),
   - 4\. Verkauf zu einem Gesamtübernahmepreis und Art der Veräusserung von Grundstücken (Art. 585 Abs. 3 und 619 OR),
   - 5\. Bezeichnung der sachverständigen Person zur Prüfung der Gewinn- und Verlustrechnung und der Bilanz der Kommanditgesellschaft (Art. 600 Abs. 3 OR),
-  - 6\.[^250-4] Ansetzung einer Frist bei ungenügender Anzahl von Mitgliedern oder bei Fehlen von notwendigen Organen (Art. 731*b*, 819, 908 und 941*a* OR),
-  - 7\.[^250-5] Anordnung der Auskunftserteilung an Gläubiger sowie an Aktionäre, Gesellschafter einer Gesellschaft mit beschränkter Haftung und Genossenschafter (Art. 697*b*, 802 Abs. 4, 857 Abs. 3 und 958*e* OR),
-  - 8\.[^250-6] Sonderuntersuchung (Art. 697*c*–697*h*<sup>bis</sup> OR),
-  - 9\.[^250-7] Einberufung der Generalversammlung, Traktandierung eines Verhandlungsgegenstandes und Aufnahme von Anträgen und kurzen Begründungen in die Einladung der Generalversammlung (Art. 699 Abs. 5, 699*b* Abs. 4, 805 Abs. 5 Ziff. 2 und 3 und 881 Abs. 3 OR),
-  - 10\.[^250-8] Bezeichnung einer Vertretung der Gesellschaft oder der Genossenschaft bei Anfechtung von Generalversammlungsbeschlüssen durch die Verwaltung (Art. 706*a* Abs. 2, 808*c* und 891 Abs. 1 OR),
-  - 11\.[^250-9] Ernennung und Abberufung der Revisionsstelle (Art. 731*b*, 819 und 908 OR),
+  - 6\.[^250-5] Massnahmen bei Mängeln in der Organisation der Gesellschaft oder Genossenschaft (Art. 731*b*, 819 und 908 OR),
+  - 7\.[^250-6] Anordnung der Auskunftserteilung an Gläubiger sowie an Aktionäre, Gesellschafter einer Gesellschaft mit beschränkter Haftung und Genossenschafter (Art. 697*b*, 802 Abs. 4, 857 Abs. 3 und 958*e* OR),
+  - 8\.[^250-7] Sonderuntersuchung (Art. 697*c*–697*h*<sup>bis</sup> OR),
+  - 9\.[^250-8] Einberufung der Generalversammlung, Traktandierung eines Verhandlungsgegenstandes und Aufnahme von Anträgen und kurzen Begründungen in die Einladung der Generalversammlung (Art. 699 Abs. 5, 699*b* Abs. 4, 805 Abs. 5 Ziff. 2 und 3 und 881 Abs. 3 OR),
+  - 10\.[^250-9] Bezeichnung einer Vertretung der Gesellschaft oder der Genossenschaft bei Anfechtung von Generalversammlungsbeschlüssen durch die Verwaltung (Art. 706*a* Abs. 2, 808*c* und 891 Abs. 1 OR),
+  - 11\.[^250-10] …
   - 12\. Hinterlegung von Forderungsbeiträgen bei der Liquidation (Art. 744, 770, 826 Abs. 2 und 913 OR),
-  - 13\.[^250-10] Abberufung der Verwaltung und der Revisionsstelle der Genossenschaft (Art. 890 Abs. 2 OR),
-  - 14\.[^250-11] Wiedereintragung einer gelöschten Rechtseinheit ins Handelsregister (Art. 935 OR),
-  - [tab] 15.[^250-12] Anordnung zur Auflösung der Gesellschaft und zu ihrer Liquidation nach den Vorschriften über den Konkurs (Art. 731*b*, 819 und 908 OR);
+  - 13\.[^250-11] Abberufung der Verwaltung und der Revisionsstelle der Genossenschaft (Art. 890 Abs. 2 OR),
+  - 14\.[^250-12] Wiedereintragung einer gelöschten Rechtseinheit ins Handelsregister (Art. 935 OR),
+  - [tab] 15.[^250-13] Anordnung zur Auflösung der Gesellschaft und zu ihrer Liquidation nach den Vorschriften über den Konkurs (Art. 731*b*, 819 und 908 OR),
+  - 16\.[^250-14] Löschung einer Rechtseinheit (Art. 934 Abs. 3 OR);
 
 - d.
 
@@ -2893,40 +3146,45 @@ Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
   - 3\. Erlöschen einer Vollmacht, welche die Gläubigerversammlung bei Anleihensobligationen einer Vertretung erteilt hat (Art. 1162 Abs. 4 OR),
   - 4\. Einberufung einer Gläubigerversammlung auf Gesuch der Anleihensgläubiger (Art. 1165 Abs. 3 und 4 OR).
 
-[^250-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^250-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^250-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-[^250-4]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-5]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^250-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^250-3]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG – [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^250-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-5]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 [^250-6]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^250-7]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^250-8]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^250-9]: Fassung gemäss Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^250-10]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^250-11]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-[^250-12]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-10]: Aufgehoben durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), mit Wirkung seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^250-11]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^250-12]: Eingefügt durch Anhang Ziff. 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^250-13]: Eingefügt durch Anhang Ziff. 3 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^250-14]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [2024 235](https://fedlex.data.admin.ch/eli/oc/2024/235); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 251
 
 **Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs**
 
-Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
+Das summarische Verfahren gilt für folgende Angelegenheiten:[^251-1]
 
 - a. Entscheide, die vom Rechtsöffnungs-, Konkurs-, Arrest- und Nachlassgericht getroffen werden;
-- b. Bewilligung des nachträglichen Rechtsvorschlages (Art. 77 Abs. 3 SchKG[^251-1]) und des Rechtsvorschlages in der Wechselbetreibung (Art. 181 SchKG);
+- b. Bewilligung des nachträglichen Rechtsvorschlages (Art. 77 Abs. 3 SchKG[^251-2]) und des Rechtsvorschlages in der Wechselbetreibung (Art. 181 SchKG);
 - c. Aufhebung oder Einstellung der Betreibung (Art. 85 SchKG);
 - d. Entscheid über das Vorliegen neuen Vermögens (Art. 265*a* Abs. 1–3 SchKG);
 - e. Anordnung der Gütertrennung (Art. 68*b* SchKG).
 
-[^251-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^251-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^251-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 251a
 
 **Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht**[^251a-1]
 
-Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
+<sup>1</sup>
 
-- a. Ernennung und Ersetzung von Mitgliedern des Schiedsgerichts (Art. 179 Abs. 2–5 IPRG[^251a-2]);
+Das summarische Verfahren gilt für folgende Angelegenheiten:[^251a-2]
+
+- a. Ernennung und Ersetzung von Mitgliedern des Schiedsgerichts (Art. 179 Abs. 2–5 IPRG[^251a-3]);
 - b. Ablehnung und Abberufung eines Mitglieds des Schiedsgerichts (Art. 180*a* Abs. 2 und Art. 180*b* Abs. 2 IPRG);
 - c. Mitwirkung des staatlichen Gerichts bei der Umsetzung vorsorglicher Massnahmen (Art. 183 Abs. 2 IPRG) und bei der Beweisabnahme (Art. 184 Abs. 2 IPRG);
 - d. sonstige Mitwirkung des staatlichen Gerichts im Schiedsverfahren (Art. 185 IPRG);
@@ -2934,8 +3192,12 @@ Das summarische Verfahren gilt insbesondere für folgende Angelegenheiten:
 - f. Hinterlegung des Schiedsentscheids und Ausstellung einer Vollstreckbarkeitsbescheinigung (Art. 193 IPRG);
 - g. Anerkennung und Vollstreckung ausländischer Schiedsentscheide (Art. 194 IPRG).
 
+<sup>2</sup> Das kantonale Recht kann vorsehen, dass auf Antrag sämtlicher Parteien die englische Sprache als Verfahrenssprache benutzt wird, wenn für die Schiedsvereinbarung oder Schiedsklausel oder als Verfahrenssprache im Schiedsverfahren die englische Sprache verwendet wird.[^251a-4]
+
 [^251a-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^251a-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^251a-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^251a-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
+[^251a-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 2. Kapitel: Verfahren und Entscheid
 
@@ -3084,9 +3346,11 @@ Ist die Klage in der Hauptsache noch nicht rechtshängig, so setzt das Gericht d
 
 Gegen periodisch erscheinende Medien darf das Gericht eine vorsorgliche Massnahme nur anordnen, wenn:
 
-- a. die drohende Rechtsverletzung der gesuchstellenden Partei einen besonders schweren Nachteil verursachen kann;
+- a.[^266-1] die bestehende oder drohende Rechtsverletzung der gesuchstellenden Partei einen schweren Nachteil verursacht oder verursachen kann;
 - b. offensichtlich kein Rechtfertigungsgrund vorliegt; und
 - c. die Massnahme nicht unverhältnismässig erscheint.
+
+[^266-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 267
 
@@ -3112,9 +3376,9 @@ Vorbehalten bleiben die Bestimmungen:
 - b. des ZGB[^269-2] über die erbrechtlichen Sicherungsmassregeln;
 - c. des Patentgesetzes vom 25. Juni 1954[^269-3] über die Klage auf Lizenzerteilung.
 
-[^269-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^269-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^269-3]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^269-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^269-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^269-3]: [SR 232.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5975)
 
 ### 2. Abschnitt: Schutzschrift
 
@@ -3126,7 +3390,7 @@ Vorbehalten bleiben die Bestimmungen:
 
 <sup>3</sup> Die Schutzschrift ist sechs Monate nach Einreichung nicht mehr zu beachten.
 
-[^270-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^270-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^270-2]: Fassung gemäss Art. 3 Ziff. 1 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 6. Titel: Besondere eherechtliche Verfahren
@@ -3149,7 +3413,7 @@ Das summarische Verfahren ist unter Vorbehalt der Artikel 272 und 273 anwendbar 
 - h. die Zustimmung eines Ehegatten zur Ausschlagung oder zur Annahme einer Erbschaft (Art. 230 Abs. 2 ZGB);
 - i. die Anweisung an die Schuldner und die Sicherstellung nachehelichen Unterhalts ausserhalb eines Prozesses über den nachehelichen Unterhalt (Art. 132 ZGB).
 
-[^271-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^271-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 272
 
@@ -3256,8 +3520,8 @@ In den übrigen Fällen, in denen keine Vereinbarung zustande kommt, überweist 
 - d.[^281-7] die Einrichtungen der beruflichen Vorsorge, die den Ehegatten Renten ausrichten, die Höhe dieser Renten und die zugesprochenen Rentenanteile.
 
 [^281-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^281-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^281-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^281-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^281-3]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^281-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^281-5]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^281-6]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
@@ -3300,7 +3564,7 @@ Werden durch Vereinbarung oder Entscheid Unterhaltsbeiträge festgelegt, so ist 
 
 <sup>3</sup> Für streitige Änderungsverfahren gelten die Vorschriften über die Scheidungsklage sinngemäss.
 
-[^284-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^284-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^284-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2015 (Vorsorgeausgleich bei Scheidung), in Kraft seit 1. Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### 2. Abschnitt: Scheidung auf gemeinsames Begehren
@@ -3335,7 +3599,7 @@ Die gemeinsame Eingabe der Ehegatten enthält:
 Ist die Eingabe vollständig, so lädt das Gericht die Parteien zur Anhörung vor. Diese richtet sich nach den Bestimmungen des ZGB[^287-2].
 
 [^287-1]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2009 (Bedenkzeit im Scheidungsverfahren auf gemeinsames Begehren), in Kraft seit 1. Jan. 2011 ([AS 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [BBl 2008 1959](https://fedlex.data.admin.ch/eli/fga/2008/445)[1975](https://fedlex.data.admin.ch/eli/fga/2008/447)).
-[^287-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^287-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 288
 
@@ -3343,12 +3607,14 @@ Ist die Eingabe vollständig, so lädt das Gericht die Parteien zur Anhörung vo
 
 <sup>1</sup> Sind die Voraussetzungen für eine Scheidung auf gemeinsames Begehren erfüllt, so spricht das Gericht die Scheidung aus und genehmigt die Vereinbarung.
 
-<sup>2</sup> Sind Scheidungsfolgen streitig geblieben, so wird das Verfahren in Bezug auf diese kontradiktorisch fortgesetzt.[^288-1] Das Gericht kann die Parteirollen verteilen.
+<sup>2</sup> Sind Scheidungsfolgen streitig geblieben, so wird das Verfahren in Bezug auf diese kontradiktorisch fortgesetzt.[^288-1] Es gilt das vereinfachte Verfahren.[^288-2] Das Gericht kann die Parteirollen verteilen.[^288-3]
 
-<sup>3</sup> Sind die Voraussetzungen für eine Scheidung auf gemeinsames Begehren nicht erfüllt, so weist das Gericht das gemeinsame Scheidungsbegehren ab und setzt gleichzeitig jedem Ehegatten eine Frist zur Einreichung einer Scheidungsklage.[^288-2] Das Verfahren bleibt während dieser Frist rechtshängig und allfällige vorsorgliche Massnahmen gelten weiter.
+<sup>3</sup> Sind die Voraussetzungen für eine Scheidung auf gemeinsames Begehren nicht erfüllt, so weist das Gericht das gemeinsame Scheidungsbegehren ab und setzt gleichzeitig jedem Ehegatten eine Frist zur Einreichung einer Scheidungsklage.[^288-4] Das Verfahren bleibt während dieser Frist rechtshängig und allfällige vorsorgliche Massnahmen gelten weiter.
 
 [^288-1]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2009 (Bedenkzeit im Scheidungsverfahren auf gemeinsames Begehren), in Kraft seit 1. Jan. 2011 ([AS 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [BBl 2008 1959](https://fedlex.data.admin.ch/eli/fga/2008/445)[1975](https://fedlex.data.admin.ch/eli/fga/2008/447)).
-[^288-2]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2009 (Bedenkzeit im Scheidungsverfahren auf gemeinsames Begehren), in Kraft seit 1. Jan. 2011 ([AS 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [BBl 2008 1959](https://fedlex.data.admin.ch/eli/fga/2008/445)[1975](https://fedlex.data.admin.ch/eli/fga/2008/447)).
+[^288-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^288-3]: Ursprünglich: Zweiter Satz.
+[^288-4]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2009 (Bedenkzeit im Scheidungsverfahren auf gemeinsames Begehren), in Kraft seit 1. Jan. 2011 ([AS 2010 281](https://fedlex.data.admin.ch/eli/oc/2010/37)[1861](https://fedlex.data.admin.ch/eli/oc/2010/263); [BBl 2008 1959](https://fedlex.data.admin.ch/eli/fga/2008/445)[1975](https://fedlex.data.admin.ch/eli/fga/2008/447)).
 
 #### Art. 289
 
@@ -3365,13 +3631,13 @@ Die Scheidung der Ehe kann nur wegen Willensmängeln mit Berufung angefochten we
 Die Scheidungsklage kann ohne schriftliche Begründung eingereicht werden. Sie enthält:
 
 - a. Namen und Adressen der Ehegatten sowie die Bezeichnung allfälliger Vertreterinnen und Vertreter;
-- b. das Rechtsbegehren, die Ehe sei zu scheiden sowie die Bezeichnung des Scheidungsgrunds (Art. 114 oder 115 ZGB[^290-1]);
+- b. das Rechtsbegehren, die Ehe sei zu scheiden, sowie die Bezeichnung des Scheidungsgrunds (Art. 114 oder 115 ZGB[^290-1]);
 - c. die Rechtsbegehren hinsichtlich der vermögensrechtlichen Scheidungsfolgen;
 - d. die Rechtsbegehren hinsichtlich der Kinder;
 - e. die erforderlichen Belege;
 - f. das Datum und die Unterschriften.
 
-[^290-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^290-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 291
 
@@ -3381,7 +3647,9 @@ Die Scheidungsklage kann ohne schriftliche Begründung eingereicht werden. Sie e
 
 <sup>2</sup> Steht der Scheidungsgrund fest, so versucht das Gericht zwischen den Ehegatten eine Einigung über die Scheidungsfolgen herbeizuführen.
 
-<sup>3</sup> Steht der Scheidungsgrund nicht fest oder kommt keine Einigung zustande, so setzt das Gericht der klagenden Partei Frist, eine schriftliche Klagebegründung nachzureichen. Bei Nichteinhalten der Frist wird die Klage als gegenstandslos abgeschrieben.
+<sup>3</sup> Steht der Scheidungsgrund nicht fest oder kommt keine Einigung zustande, so gibt das Gericht der klagenden Partei Gelegenheit zur Klagebegründung oder zur Ergänzung der Begründung. Das Verfahren wird kontradiktorisch fortgesetzt. Es gilt das vereinfachte Verfahren.[^291-1]
+
+[^291-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 292
 
@@ -3416,9 +3684,11 @@ Die Scheidungsklage kann bis zum Beginn der Urteilsberatung in eine Trennungskla
 
 #### Art. 295
 
-**Grundsatz**
+**Grundsatz**[^295-1]
 
-Für selbstständige Klagen gilt das vereinfachte Verfahren.
+Für selbstständige Klagen über den Unterhalt von minder- und volljährigen Kindern und weitere Kinderbelange gilt das vereinfachte Verfahren.
+
+[^295-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 296
 
@@ -3444,9 +3714,13 @@ Für selbstständige Klagen gilt das vereinfachte Verfahren.
 
 <sup>1</sup> Das Kind wird durch das Gericht oder durch eine beauftragte Drittperson in geeigneter Weise persönlich angehört, sofern sein Alter oder andere wichtige Gründe nicht dagegen sprechen.
 
+<sup>1bis</sup> Der Einsatz elektronischer Mittel zur Ton- und Bildübertragung ist unzulässig.[^298-1]
+
 <sup>2</sup> Im Protokoll der Anhörung werden nur die für den Entscheid wesentlichen Ergebnisse festgehalten. Die Eltern und die Beiständin oder der Beistand werden über diese Ergebnisse informiert.
 
 <sup>3</sup> Das urteilsfähige Kind kann die Verweigerung der Anhörung mit Beschwerde anfechten.
+
+[^298-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 299
 
@@ -3553,10 +3827,10 @@ Das summarische Verfahren ist insbesondere anwendbar für:
 <sup>2</sup> Die Bestimmungen des Bundesgesetzes vom 21. Dezember 2007[^302-5] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen sind vorbehalten.
 
 [^302-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 20. März 2015 (Kindesunterhalt), mit Wirkung seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
-[^302-2]: [SR 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
-[^302-3]: [SR 0.211.230.01](https://fedlex.data.admin.ch/eli/cc/1983/1681_1681_1681)
-[^302-4]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^302-5]: [SR 211.222.32](https://fedlex.data.admin.ch/eli/cc/2009/379)
+[^302-2]: [SR 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
+[^302-3]: [SR 0.211.230.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/855)
+[^302-4]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^302-5]: [SR 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
 
 ### 3. Kapitel: Unterhalts- und Vaterschaftsklage
 
@@ -3583,9 +3857,9 @@ Ist die Unterhaltsklage zusammen mit der Vaterschaftsklage eingereicht worden, s
 
 <sup>1</sup> Über die Hinterlegung, die vorläufige Zahlung, die Auszahlung hinterlegter Beiträge und die Rückerstattung vorläufiger Zahlungen entscheidet das für die Beurteilung der Klage zuständige Gericht.
 
-<sup>2</sup> Im Fall einer Unterhaltsklage entscheidet das Gericht auch über die elterliche Sorge sowie die weiteren Kinderbelange.[^304-1]
+<sup>2</sup> Im Fall einer Unterhaltsklage entscheidet das Gericht auch über die elterliche Sorge sowie die weiteren Kinderbelange. Steht das Kindesverhältnis fest, haben die Eltern Parteistellung. Das Gericht kann die Parteirollen verteilen.[^304-1]
 
-[^304-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
+[^304-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. März 2015 (Kindesunterhalt) ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)). Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 8. Titel: Verfahren bei eingetragener Partnerschaft
 
@@ -3595,7 +3869,7 @@ Ist die Unterhaltsklage zusammen mit der Vaterschaftsklage eingereicht worden, s
 
 **Geltungsbereich**
 
-Das summarische Verfahren ist insbesondere anwendbar für:[^305-1]
+Das summarische Verfahren ist anwendbar für:[^305-1]
 
 - a. die Festsetzung von Geldbeiträgen an den Unterhalt und Anweisung an die Schuldnerin oder den Schuldner (Art. 13 Abs. 2 und 3 des Partnerschaftsgesetzes vom 18. Juni 2004[^305-2], PartG);
 - b. die Ermächtigung einer Partnerin oder eines Partners zur Verfügung über die gemeinsame Wohnung (Art. 14 Abs. 2 PartG);
@@ -3606,8 +3880,8 @@ Das summarische Verfahren ist insbesondere anwendbar für:[^305-1]
 - g. die Beschränkung der Verfügungsbefugnis einer Partnerin oder eines Partners über bestimmte Vermögenswerte (Art. 22 Abs. 1 PartG);
 - h. die Einräumung von Fristen zur Begleichung von Schulden zwischen den Partnerinnen oder Partnern (Art. 23 Abs. 1 PartG).
 
-[^305-1]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
-[^305-2]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^305-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^305-2]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
 #### Art. 306
 
@@ -3669,7 +3943,7 @@ Die Berufung ist unzulässig:
   - 6\.[^309-2] Arrest (Art. 272 und 278 SchKG),
   - 7\.[^309-3] Entscheide, die nach SchKG in die Zuständigkeit des Konkurs- oder des Nachlassgerichts fallen.
 
-[^309-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^309-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^309-2]: Fassung gemäss Art. 3 Ziff. 1 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^309-3]: Eingefügt durch Art. 3 Ziff. 1 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
@@ -3711,16 +3985,21 @@ Mit Berufung kann geltend gemacht werden:
 Die Anschlussberufung fällt dahin, wenn:
 
 - a. die Rechtsmittelinstanz nicht auf die Berufung eintritt;
-- b. die Berufung als offensichtlich unbegründet abgewiesen wird;
+- b.[^313-1] …
 - c. die Berufung vor Beginn der Urteilsberatung zurückgezogen wird.
+
+[^313-1]: Aufgehoben durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), mit Wirkung seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 314
 
 **Summarisches Verfahren**
 
-<sup>1</sup> Gegen einen im summarischen Verfahren ergangenen Entscheid beträgt die Frist zur Einreichung der Berufung und zur Berufungsantwort je zehn Tage.
+<sup>1</sup> Gegen einen im summarischen Verfahren ergangenen Entscheid beträgt die Frist zur Einreichung der Berufung und zur Berufungsantwort je zehn Tage. Die Anschlussberufung ist unzulässig.[^314-1]
 
-<sup>2</sup> Die Anschlussberufung ist unzulässig.
+<sup>2</sup> Bei familienrechtlichen Streitigkeiten nach den Artikeln 271, 276, 302 und 305 beträgt die Frist zur Einreichung der Berufung und der Berufungsantwort je 30 Tage. Die Anschlussberufung ist zulässig.[^314-2]
+
+[^314-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^314-2]: Fssung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 3. Abschnitt: Wirkungen und Verfahren der Berufung
 
@@ -3730,18 +4009,30 @@ Die Anschlussberufung fällt dahin, wenn:
 
 <sup>1</sup> Die Berufung hemmt die Rechtskraft und die Vollstreckbarkeit des angefochtenen Entscheids im Umfang der Anträge.
 
-<sup>2</sup> Die Rechtsmittelinstanz kann die vorzeitige Vollstreckung bewilligen. Nötigenfalls ordnet sie sichernde Massnahmen oder die Leistung einer Sicherheit an.
-
-<sup>3</sup> Richtet sich die Berufung gegen einen Gestaltungsentscheid, so kann die aufschiebende Wirkung nicht entzogen werden.
-
-<sup>4</sup>
+<sup>2</sup>
 
 Keine aufschiebende Wirkung hat die Berufung gegen Entscheide über:
 
 - a. das Gegendarstellungsrecht;
-- b. vorsorgliche Massnahmen.
+- b. vorsorgliche Massnahmen;
+- c. Anweisungen an die Schuldner;
+- d. die Sicherstellung des Unterhalts.[^315-1]
 
-<sup>5</sup> Die Vollstreckung vorsorglicher Massnahmen kann ausnahmsweise aufgeschoben werden, wenn der betroffenen Partei ein nicht leicht wiedergutzumachender Nachteil droht.
+<sup>3</sup> Richtet sich die Berufung gegen einen Gestaltungsentscheid, so hat sie stets aufschiebende Wirkung.[^315-2]
+
+<sup>4</sup>
+
+Wenn der betroffenen Partei ein nicht leicht wiedergutzumachender Nachteil droht, kann die Rechtsmittelinstanz auf Gesuch:
+
+- a. die vorzeitige Vollstreckbarkeit bewilligen und nötigenfalls sichernde Massnahmen oder die Leistung einer Sicherheit anordnen; oder
+- b. in den Fällen nach Absatz 2 die Vollstreckbarkeit ausnahmsweise aufschieben.[^315-3]
+
+<sup>5</sup> Die Rechtsmittelinstanz kann bereits vor der Einreichung der Berufung entscheiden. Die Anordnung fällt ohne Weiteres dahin, wenn keine Begründung des erstinstanzlichen Entscheids verlangt wird oder die Rechtsmittelfrist unbenutzt abläuft.[^315-4]
+
+[^315-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^315-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^315-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^315-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 316
 
@@ -3764,14 +4055,17 @@ Neue Tatsachen und Beweismittel werden nur noch berücksichtigt, wenn sie:
 - a. ohne Verzug vorgebracht werden; und
 - b. trotz zumutbarer Sorgfalt nicht schon vor erster Instanz vorgebracht werden konnten.
 
+<sup>1bis</sup> Hat die Rechtsmittelinstanz den Sachverhalt von Amtes wegen zu erforschen, so berücksichtigt sie neue Tatsachen und Beweismittel bis zur Urteilsberatung.[^317-1]
+
 <sup>2</sup>
 
 Eine Klageänderung ist nur noch zulässig, wenn:
 
 - a. die Voraussetzungen nach Artikel 227 Absatz 1 gegeben sind; und
-- b.[^317-1] sie auf neuen Tatsachen oder Beweismitteln beruht.
+- b.[^317-2] sie auf neuen Tatsachen oder Beweismitteln beruht.
 
-[^317-1]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^317-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^317-2]: Fassung gemäss Ziff. II des BG vom 25. Sept. 2015 (Gewerbsmässige Vertretung im Zwangsvollstreckungsverfahren), in Kraft seit 1. Jan. 2018 ([AS 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [BBl 2014 8669](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
 
 #### Art. 318
 
@@ -3790,9 +4084,11 @@ Die Rechtsmittelinstanz kann:
   - 1\. ein wesentlicher Teil der Klage nicht beurteilt wurde, oder
   - 2\. der Sachverhalt in wesentlichen Teilen zu vervollständigen ist.
 
-<sup>2</sup> Die Rechtsmittelinstanz eröffnet ihren Entscheid mit einer schriftlichen Begründung.
+<sup>2</sup> Für die Eröffnung und Begründung des Entscheides gilt Artikel 239 sinngemäss.[^318-1]
 
 <sup>3</sup> Trifft die Rechtsmittelinstanz einen neuen Entscheid, so entscheidet sie auch über die Prozesskosten des erstinstanzlichen Verfahrens.
+
+[^318-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 2. Kapitel: Beschwerde
 
@@ -3827,11 +4123,13 @@ Mit der Beschwerde kann geltend gemacht werden:
 
 <sup>1</sup> Die Beschwerde ist bei der Rechtsmittelinstanz innert 30 Tagen seit der Zustellung des begründeten Entscheides oder seit der nachträglichen Zustellung der Entscheidbegründung (Art. 239) schriftlich und begründet einzureichen.
 
-<sup>2</sup> Wird ein im summarischen Verfahren ergangener Entscheid oder eine prozessleitende Verfügung angefochten, so beträgt die Beschwerdefrist zehn Tage, sofern das Gesetz nichts anderes bestimmt.
+<sup>2</sup> Wird ein im summarischen Verfahren ergangener Entscheid oder werden andere erstinstanzliche Entscheide und prozessleitende Verfügungen angefochten, so beträgt die Beschwerdefrist zehn Tage, sofern das Gesetz nichts anderes bestimmt.[^321-1]
 
 <sup>3</sup> Der angefochtene Entscheid oder die angefochtene prozessleitende Verfügung ist beizulegen, soweit die Partei sie in Händen hat.
 
 <sup>4</sup> Gegen Rechtsverzögerung kann jederzeit Beschwerde eingereicht werden.
+
+[^321-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 322
 
@@ -3859,7 +4157,9 @@ Die Rechtsmittelinstanz kann die Vorinstanz um eine Stellungnahme ersuchen.
 
 <sup>1</sup> Die Beschwerde hemmt die Rechtskraft und die Vollstreckbarkeit des angefochtenen Entscheids nicht.
 
-<sup>2</sup> Die Rechtsmittelinstanz kann die Vollstreckung aufschieben. Nötigenfalls ordnet sie sichernde Massnahmen oder die Leistung einer Sicherheit an.
+<sup>2</sup> Die Rechtsmittelinstanz kann auf Gesuch die Vollstreckbarkeit aufschieben, wenn der betroffenen Partei ein nicht leicht wiedergutzumachender Nachteil droht. Die Rechtsmittelinstanz kann bereits vor der Einreichung der Beschwerde entscheiden. Nötigenfalls ordnet sie sichernde Massnahmen oder die Leistung einer Sicherheit an. Die Anordnung fällt ohne Weiteres dahin, wenn keine Begründung des erstinstanzlichen Entscheids verlangt wird oder die Rechtsmittelfrist unbenutzt abläuft.[^325-1]
+
+[^325-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 326
 
@@ -3886,7 +4186,9 @@ Soweit sie die Beschwerde gutheisst:
 
 <sup>4</sup> Wird die Beschwerde wegen Rechtsverzögerung gutgeheissen, so kann die Rechtsmittelinstanz der Vorinstanz eine Frist zur Behandlung der Sache setzen.
 
-<sup>5</sup> Die Rechtsmittelinstanz eröffnet ihren Entscheid mit einer schriftlichen Begründung.
+<sup>5</sup> Für die Eröffnung und Begründung des Entscheids gilt Artikel 239 sinngemäss.[^327-1]
+
+[^327-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 327a
 
@@ -3899,8 +4201,8 @@ Soweit sie die Beschwerde gutheisst:
 <sup>3</sup> Die Frist für die Beschwerde gegen die Vollstreckbarerklärung richtet sich nach Artikel 43 Absatz 5 des Lugano-Übereinkommens.
 
 [^327a-1]: Eingefügt durch Art. 3 Ziff. 1 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^327a-2]: [SR 0.275.12](https://fedlex.data.admin.ch/eli/cc/2010/801)
-[^327a-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^327a-2]: [SR 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
+[^327a-3]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 3. Kapitel: Revision
 
@@ -3912,20 +4214,24 @@ Soweit sie die Beschwerde gutheisst:
 
 Eine Partei kann beim Gericht, welches als letzte Instanz in der Sache entschieden hat, die Revision des rechtskräftigen Entscheids verlangen, wenn:
 
-- a. sie nachträglich erhebliche Tatsachen erfährt oder entscheidende Beweismittel findet, die sie im früheren Verfahren nicht beibringen konnte; ausgeschlossen sind Tatsachen und Beweismittel, die erst nach dem Entscheid entstanden sind;
+- a.[^328-1] sie nachträglich erhebliche Tatsachen erfährt oder entscheidende Beweismittel findet, die sie im früheren Verfahren trotz gehöriger Aufmerksamkeit nicht beibringen konnte; ausgeschlossen sind Tatsachen und Beweismittel, die erst nach dem Entscheid entstanden sind;
 - b. ein Strafverfahren ergeben hat, dass durch ein Verbrechen oder ein Vergehen zum Nachteil der betreffenden Partei auf den Entscheid eingewirkt wurde; eine Verurteilung durch das Strafgericht ist nicht erforderlich; ist das Strafverfahren nicht durchführbar, so kann der Beweis auf andere Weise erbracht werden;
-- c. geltend gemacht wird, dass die Klageanerkennung, der Klagerückzug oder der gerichtliche Vergleich unwirksam ist.
+- c.[^328-2] geltend gemacht wird, dass die Klageanerkennung, der Klagerückzug oder der gerichtliche Vergleich wegen formeller oder materieller Mängel unwirksam ist;
+- d.[^328-3] sie einen Ausstandsgrund erst nach Abschluss des Verfahrens entdeckt und kein anderes Rechtsmittel zur Verfügung steht.
 
 <sup>2</sup>
 
-Die Revision wegen Verletzung der Europäischen Menschenrechtskonvention vom 4. November 1950[^328-1] (EMRK) kann verlangt werden, wenn:
+Die Revision wegen Verletzung der Europäischen Menschenrechtskonvention vom 4. November 1950[^328-4] (EMRK) kann verlangt werden, wenn:
 
-- a.[^328-2] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
+- a.[^328-5] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
 - b. eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen; und
 - c. die Revision notwendig ist, um die Verletzung zu beseitigen.
 
-[^328-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^328-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^328-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^328-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^328-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^328-4]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^328-5]: Fassung gemäss Anhang Ziff. 2 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 329
 
@@ -3947,7 +4253,9 @@ Das Gericht stellt das Revisionsgesuch der Gegenpartei zur Stellungnahme zu, es 
 
 <sup>1</sup> Das Revisionsgesuch hemmt die Rechtskraft und die Vollstreckbarkeit des Entscheids nicht.
 
-<sup>2</sup> Das Gericht kann die Vollstreckung aufschieben. Nötigenfalls ordnet es sichernde Massnahmen oder die Leistung einer Sicherheit an.
+<sup>2</sup> Das Gericht kann die Vollstreckbarkeit aufschieben.[^331-1] Nötigenfalls ordnet es sichernde Massnahmen oder die Leistung einer Sicherheit an.
+
+[^331-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 332
 
@@ -3991,8 +4299,8 @@ Der Entscheid über das Revisionsgesuch ist mit Beschwerde anfechtbar.
 
 <sup>3</sup> Die Anerkennung, Vollstreckbarerklärung und Vollstreckung ausländischer Entscheide richten sich nach diesem Kapitel, soweit weder ein Staatsvertrag noch das IPRG[^335-2] etwas anderes bestimmen.
 
-[^335-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^335-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^335-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^335-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 #### Art. 336
 
@@ -4002,10 +4310,15 @@ Der Entscheid über das Revisionsgesuch ist mit Beschwerde anfechtbar.
 
 Ein Entscheid ist vollstreckbar, wenn er:
 
-- a. rechtskräftig ist und das Gericht die Vollstreckung nicht aufgeschoben hat (Art. 325 Abs. 2 und 331 Abs. 2); oder
-- b. noch nicht rechtskräftig ist, jedoch die vorzeitige Vollstreckung bewilligt worden ist.
+- a. rechtskräftig ist und das Gericht die Vollstreckbarkeit nicht aufgeschoben hat (Art. 315 Abs. 4, 325 Abs. 2 und 331 Abs. 2); oder
+- b. noch nicht rechtskräftig ist, jedoch die vorzeitige Vollstreckbarkeit bewilligt worden ist.[^336-1]
 
 <sup>2</sup> Auf Verlangen bescheinigt das Gericht, das den zu vollstreckenden Entscheid getroffen hat, die Vollstreckbarkeit.
+
+<sup>3</sup> Ein ohne schriftliche Begründung eröffneter Entscheid (Art. 239) ist unter den Voraussetzungen nach Absatz 1 vollstreckbar.[^336-2]
+
+[^336-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^336-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 337
 
@@ -4081,8 +4394,8 @@ Lautet der Entscheid auf eine Verpflichtung zu einem Tun, Unterlassen oder Dulde
 
 <sup>3</sup> Die mit der Vollstreckung betraute Person kann die Hilfe der zuständigen Behörde in Anspruch nehmen.
 
-[^343-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^343-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^343-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^343-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^343-3]: Eingefügt durch Ziff. I 2 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Jan. 2022 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 344
@@ -4142,9 +4455,9 @@ Nicht direkt vollstreckbar sind Urkunden über Leistungen:
 - d. aus dem Arbeitsverhältnis und nach dem Arbeitsvermittlungsgesetz vom 6. Oktober 1989[^348-3];
 - e. aus Konsumentenverträgen (Art. 32).
 
-[^348-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
-[^348-2]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
-[^348-3]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^348-1]: [SR 151.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4920)
+[^348-2]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
+[^348-3]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
 
 #### Art. 349
 
@@ -4152,7 +4465,7 @@ Nicht direkt vollstreckbar sind Urkunden über Leistungen:
 
 Die vollstreckbare Urkunde über eine Geldleistung gilt als definitiver Rechtsöffnungstitel nach den Artikeln 80 und 81 SchKG[^349-1].
 
-[^349-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^349-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 350
 
@@ -4188,7 +4501,7 @@ Die gerichtliche Beurteilung der geschuldeten Leistung bleibt in jedem Fall vorb
 
 <sup>2</sup> Die Parteien können die Geltung dieses Teils durch eine Erklärung in der Schiedsvereinbarung oder in einer späteren Übereinkunft ausschliessen und die Anwendung der Bestimmungen des zwölften Kapitels des IPRG vereinbaren. Die Erklärung bedarf der Form gemäss Artikel 358.[^353-2]
 
-[^353-1]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^353-1]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^353-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 354
@@ -4228,9 +4541,10 @@ Ein vom Sitzkanton bezeichnetes anderes oder anders zusammengesetztes Gericht is
 - b. die Verlängerung der Amtsdauer des Schiedsgerichts;
 - c. die Unterstützung des Schiedsgerichts bei den Verfahrenshandlungen.
 
-<sup>3</sup> Mit Ausnahme von Absatz 1 Buchstabe a entscheidet das zuständige staatliche Gericht im summarischen Verfahren.[^356-1]
+<sup>3</sup> Mit Ausnahme von Absatz 1 Buchstabe a entscheidet das zuständige staatliche Gericht im summarischen Verfahren.[^356-1] Artikel 251*a* Absatz 2 ist anwendbar.[^356-2]
 
 [^356-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^356-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 2. Titel: Schiedsvereinbarung und Schiedsklausel
 
@@ -4388,13 +4702,14 @@ Ein Mitglied des Schiedsgerichts kann abgelehnt werden, wenn:
 
 **Abberufung**
 
-<sup>1</sup> Jedes Mitglied des Schiedsgerichts kann durch schriftliche Vereinbarung der Parteien abberufen werden.
+<sup>1</sup> Jedes Mitglied des Schiedsgerichts kann durch Vereinbarung der Parteien abberufen werden. Für die Vereinbarung gilt die für die Schiedsvereinbarung geforderte Form.[^370-1]
 
-<sup>2</sup> Ist ein Mitglied des Schiedsgerichts ausser Stande, seine Aufgaben innert nützlicher Frist oder mit gehöriger Sorgfalt zu erfüllen und haben die Parteien nichts anderes vereinbart, so kann auf Antrag einer Partei die von den Parteien bezeichnete Stelle oder, wenn keine solche bezeichnet wurde, das nach Artikel 356 Absatz 2 zuständige staatliche Gericht dieses Mitglied absetzen.[^370-1]
+<sup>2</sup> Ist ein Mitglied des Schiedsgerichts ausser Stande, seine Aufgaben innert nützlicher Frist oder mit gehöriger Sorgfalt zu erfüllen und haben die Parteien nichts anderes vereinbart, so kann auf Antrag einer Partei die von den Parteien bezeichnete Stelle oder, wenn keine solche bezeichnet wurde, das nach Artikel 356 Absatz 2 zuständige staatliche Gericht dieses Mitglied absetzen.[^370-2]
 
 <sup>3</sup> Für die Anfechtung eines solchen Entscheides gilt Artikel 369 Absatz 5.
 
-[^370-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^370-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^370-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 #### Art. 371
 
@@ -4421,7 +4736,9 @@ Das Schiedsverfahren ist rechtshängig:
 - a. sobald eine Partei das in der Schiedsvereinbarung bezeichnete Schiedsgericht anruft; oder
 - b. wenn die Vereinbarung kein Schiedsgericht bezeichnet: sobald eine Partei das Verfahren zur Bestellung des Schiedsgerichts oder das von den Parteien vereinbarte vorausgehende Schlichtungsverfahren einleitet.
 
-<sup>2</sup> Werden bei einem staatlichen Gericht und einem Schiedsgericht Klagen über denselben Streitgegenstand zwischen denselben Parteien rechtshängig gemacht, setzt das zuletzt angerufene Gericht das Verfahren aus, bis das zuerst angerufene Gericht über seine Zuständigkeit entschieden hat.
+<sup>2</sup> …[^372-1]
+
+[^372-1]: Aufgehoben durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), mit Wirkung seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 373
 
@@ -4453,13 +4770,15 @@ Die Parteien können das Schiedsverfahren:
 
 <sup>1</sup> Das staatliche Gericht oder, sofern die Parteien nichts anderes vereinbart haben, das Schiedsgericht kann auf Antrag einer Partei vorsorgliche Massnahmen einschliesslich solcher für die Sicherung von Beweismitteln anordnen.
 
-<sup>2</sup> Unterzieht sich die betroffene Person einer vom Schiedsgericht angeordneten Massnahme nicht freiwillig, so trifft das staatliche Gericht auf Antrag des Schiedsgerichts oder einer Partei die erforderlichen Anordnungen; stellt eine Partei den Antrag, so muss die Zustimmung des Schiedsgerichts eingeholt werden.
+<sup>2</sup> Unterzieht sich die betroffene Partei einer vom Schiedsgericht angeordneten Massnahme nicht freiwillig, so trifft das staatliche Gericht auf Antrag des Schiedsgerichts oder einer Partei die erforderlichen Anordnungen.[^374-1]
 
 <sup>3</sup> Ist ein Schaden für die andere Partei zu befürchten, so kann das Schiedsgericht oder das staatliche Gericht die Anordnung vorsorglicher Massnahmen von der Leistung einer Sicherheit abhängig machen.
 
 <sup>4</sup> Die gesuchstellende Partei haftet für den aus einer ungerechtfertigten vorsorglichen Massnahme erwachsenen Schaden. Beweist sie jedoch, dass sie ihr Gesuch in guten Treuen gestellt hat, so kann das Gericht die Ersatzpflicht herabsetzen oder gänzlich von ihr entbinden. Die geschädigte Partei kann den Anspruch im hängigen Schiedsverfahren geltend machen.
 
 <sup>5</sup> Eine geleistete Sicherheit ist freizugeben, wenn feststeht, dass keine Schadenersatzklage erhoben wird; bei Ungewissheit setzt das Schiedsgericht eine Frist zur Klage.
+
+[^374-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 375
 
@@ -4617,7 +4936,7 @@ Jede Partei kann beim Schiedsgericht beantragen, dass dieses:
 
 <sup>2</sup> Für das Verfahren gelten die Bestimmungen des Bundesgerichtsgesetzes vom 17. Juni 2005[^389-1], soweit dieses Kapitel nichts anderes bestimmt.
 
-[^389-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^389-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 390
 
@@ -4685,22 +5004,23 @@ Die Rechtsmittelinstanz kann den Schiedsspruch nach Anhörung der Parteien an da
 
 Eine Partei kann beim nach Artikel 356 Absatz 1 zuständigen staatlichen Gericht die Revision eines Schiedsspruchs verlangen, wenn:
 
-- a. sie nachträglich erhebliche Tatsachen erfährt oder entscheidende Beweismittel findet, die sie im früheren Verfahren nicht beibringen konnte; ausgeschlossen sind Tatsachen und Beweismittel, die erst nach dem Schiedsspruch entstanden sind;
+- a.[^396-1] sie nachträglich erhebliche Tatsachen erfährt oder entscheidende Beweismittel findet, die sie im früheren Verfahren trotz gehöriger Aufmerksamkeit nicht beibringen konnte; ausgeschlossen sind Tatsachen und Beweismittel, die erst nach dem Schiedsspruch entstanden sind;
 - b. wenn ein Strafverfahren ergeben hat, dass durch ein Verbrechen oder ein Vergehen zum Nachteil der betreffenden Partei auf den Schiedsspruch eingewirkt wurde; eine Verurteilung durch das Strafgericht ist nicht erforderlich; ist das Strafverfahren nicht durchführbar, so kann der Beweis auf andere Weise erbracht werden;
 - c. geltend gemacht wird, dass die Klageanerkennung, der Klagerückzug oder der schiedsgerichtliche Vergleich unwirksam ist;
-- d.[^396-1] ein Ablehnungsgrund gemäss Artikel 367 Absatz 1 Buchstabe c trotz gehöriger Aufmerksamkeit erst nach Abschluss des Schiedsverfahrens entdeckt wurde und kein anderes Rechtsmittel zur Verfügung steht.
+- d.[^396-2] ein Ablehnungsgrund gemäss Artikel 367 Absatz 1 Buchstabe c trotz gehöriger Aufmerksamkeit erst nach Abschluss des Schiedsverfahrens entdeckt wurde und kein anderes Rechtsmittel zur Verfügung steht.
 
 <sup>2</sup>
 
-Die Revision wegen Verletzung der EMRK[^396-2] kann verlangt werden, wenn:
+Die Revision wegen Verletzung der EMRK[^396-3] kann verlangt werden, wenn:
 
-- a.[^396-3] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
+- a.[^396-4] der Europäische Gerichtshof für Menschenrechte in einem endgültigen Urteil (Art. 44 EMRK) festgestellt hat, dass die EMRK oder die Protokolle dazu verletzt worden sind, oder den Fall durch eine gütliche Einigung (Art. 39 EMRK) abgeschlossen hat;
 - b. eine Entschädigung nicht geeignet ist, die Folgen der Verletzung auszugleichen; und
 - c. die Revision notwendig ist, um die Verletzung zu beseitigen.
 
-[^396-1]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^396-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^396-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
+[^396-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^396-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^396-3]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^396-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 1. Okt. 2021, in Kraft seit 1. Juli 2022 ([AS 2022 289](https://fedlex.data.admin.ch/eli/oc/2022/289); [BBl 2021 300](https://fedlex.data.admin.ch/eli/fga/2021/300), [889](https://fedlex.data.admin.ch/eli/fga/2021/889)).
 
 #### Art. 397
 
@@ -4736,7 +5056,12 @@ Für das Verfahren gelten die Artikel 330 und 331.
 
 <sup>2</sup> Er stellt für Gerichtsurkunden und Parteieingaben Formulare zur Verfügung. Die Formulare für die Parteieingaben sind so zu gestalten, dass sie auch von einer rechtsunkundigen Partei ausgefüllt werden können.
 
-<sup>3</sup> Er kann den Erlass administrativer und technischer Vorschriften dem Bundesamt für Justiz übertragen.
+<sup>2bis</sup> Der Bundesrat stellt der Öffentlichkeit Informationen zu den Prozesskosten und den Möglichkeiten der unentgeltlichen Rechtspflege sowie der Prozessfinanzierung zur Verfügung.[^400-1]
+
+<sup>3</sup> Er kann den Erlass administrativer und technischer Vorschriften sowie die Bereitstellung von Formularen und Informationen dem Bundesamt für Justiz übertragen.[^400-2]
+
+[^400-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^400-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 #### Art. 401
 
@@ -4745,6 +5070,14 @@ Für das Verfahren gelten die Artikel 330 und 331.
 <sup>1</sup> Die Kantone können mit Genehmigung des Bundesrates Pilotprojekte durchführen.
 
 <sup>2</sup> Der Bundesrat kann die Zuständigkeit für die Genehmigung dem Bundesamt für Justiz übertragen.
+
+#### Art. 401a
+
+**Statistik und Geschäftszahlen**[^401a-1]
+
+Bund und Kantone sorgen gemeinsam mit den Gerichten dafür, dass genügend statistische Grundlagen und Geschäftszahlen über die Indikatoren der Anwendung dieses Gesetzes vorliegen, insbesondere Anzahl, Art, Materie, Dauer und Kosten der Verfahren.
+
+[^401a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### 2. Titel: Anpassung von Gesetzen
 
@@ -4856,6 +5189,16 @@ Für Verfahren, die bei Inkrafttreten der Änderung vom 14. Dezember 2018 rechts
 
 Für Verfahren, die bei Inkrafttreten der Änderung vom 25. September 2020 hängig sind, gilt das neue Recht.
 
+### 7. Kapitel: Übergangsbestimmung zur Änderung vom 17. März 2023
+
+[^part4-tit3-chap7-1]
+
+[^part4-tit3-chap7-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Verbesserung der Praxistauglichkeit und der Rechtsdurchsetzung), in Kraft seit 1. Jan. 2025 ([AS 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [BBl 2020 2697](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+
+#### Art. 407f
+
+Artikel 8 Absatz 2 zweiter Satz, 63 Absatz 1, 118 Absatz 2 zweiter Satz, 141*a*, 141*b*, 143 Absatz 1<sup>bis</sup>, 149, 167*a*, 170*a*, 176 Absatz 3, 176*a*, 177, 187 Absatz 1 dritter Satz und 2, 193, 198 Buchstaben b<sup>bis</sup>, f, h und i, 199 Absatz 3, 206 Absatz 4, 210 Absatz 1 Einleitungssatz und Buchstabe c, 239 Absatz 1, 298 Absatz 1<sup>bis</sup>, 315 Absätze 2−5, 317 Absatz 1<sup>bis</sup>, 318 Absatz 2, 325 Absatz 2, 327 Absatz 5 und 336 Absätze 1 und 3 gelten auch für Verfahren, die bei Inkrafttreten der Änderung vom 17. März 2023 rechtshängig sind.
+
 ### 4. Titel: Referendum und Inkrafttreten
 
 #### Art. 408
@@ -4900,14 +5243,14 @@ Anhang 2
 
 …[^annex2-lvlu1-lvl1-2]
 
-[^annex2-lvlu1-lvl1-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); in Kraft seit 1. Jan. 2022, publiziert am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
+[^annex2-lvlu1-lvl1-1]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560); in Kraft seit 1. Jan. 2022, publiziert am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
 [^annex2-lvlu1-lvl1-2]: Die Änderungen können unter [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)konsultiert werden.
 
 ### 2. Koordination von Ziffer 19 des Anhangs 1 mit dem neuen KHG
 
 *Unabhängig davon, ob das neue KHG*[^annex2-lvlu1-lvl2-1] *oder die ZPO zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten Ziffer 19 des Anhangs 1 der ZPO gegenstandslos und das neue KHG wird gemäss Ziffer 20 des Anhangs 1 der ZPO geändert.*
 
-[^annex2-lvlu1-lvl2-1]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43); in Kraft seit 1. Jan. 2022, publiziert am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
+[^annex2-lvlu1-lvl2-1]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560); in Kraft seit 1. Jan. 2022, publiziert am 27. Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43)).
 
 ### 3. Koordination mit der Änderung vom 19. Dezember 2008 des ZGB (Erwachsenenschutz, Personenrecht und Kindesrecht)
 
@@ -4915,5 +5258,5 @@ Anhang 2
 
 …[^annex2-lvlu1-lvl3-2]
 
-[^annex2-lvlu1-lvl3-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^annex2-lvlu1-lvl3-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^annex2-lvlu1-lvl3-2]: Die Änderungen können unter [AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262)konsultiert werden.
