@@ -3,20 +3,20 @@ sr: "747.301"
 title: Ordinanza del 20 novembre 1956 sulla navigazione marittima
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473"
 language: it
-version: 2013-08-20
+version: 2025-01-01
 adopted: 1956-11-20
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20130820/it/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20130820-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20130820/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sulla navigazione marittima****
+# Ordinanza sulla navigazione marittima
 
-del 20 novembre 1956 (Stato 20 agosto 2013)[^t-1]
+del 20 novembre 1956 (Stato 1° gennaio 2025)[^t-1]
 
-[^t-1]: Nuovo testo del tit. giusta il n. I dell’O del 29 giu. 1977, in vigore dal 1° ago. 1977 ([RU 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
+[^t-1]: Nuovo testo del tit. giusta la cifra I dell’O del 29 giu. 1977, in vigore dal 1° ago. 1977 ([RU 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
 
 Il Consiglio federale svizzero
 
@@ -26,7 +26,7 @@ decreta:
 
 [^ingress-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
 [^ingress-2]: [RS 747.11](https://fedlex.data.admin.ch/eli/cc/40/62_63_63)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 ## Capo primo: Organizzazione
 
@@ -58,121 +58,104 @@ Il Dipartimento federale degli affari esteri[^1-1] provvede all’organizzazione
 
 Secondo la legge sulla navigazione marittima, per consolati s’intendono anche le ambasciate, se geriscono affari consolari. Il termine «consolato» comprende i consolati generali, i consolati e le agenzie consolari; per «console» s’intende il capo della rappresentanza diplomatica o consolare o il suo mandatario.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 1977, in vigore dal 1° ago. 1977 ([RU 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 1977, in vigore dal 1° ago. 1977 ([RU 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
 
-### II.**** Compiti di diritto civile
+### II. Compiti di diritto civile
 
 [^chap1-lvlII-1]
 
-[^chap1-lvlII-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chap1-lvlII-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 4
 
 Il Dipartimento federale di giustizia e polizia emana le istruzioni necessarie ai fini dell’esecuzione dei compiti di diritto civile da parte del capitano giusta l’articolo 56 della legge sulla navigazione marittima.
 
-## Capo II: Nave svizzera****
+## Capo II: Nave svizzera
 
 [^chapII-1]
 
-[^chapII-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
-### I. Condizioni per la registrazione di navi svizzere e controllo da parte degli uffici di revisione****
+### I. Condizioni per la registrazione di navi svizzere e controllo da parte degli uffici di revisione
 
 [^chapII-lvlI-1]
 
-[^chapII-lvlI-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlI-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
-### 1.**** Condizioni generali
+### 1. Condizioni generali
 
 [^chapII-lvlI-lvl1-1]
 
-[^chapII-lvlI-lvl1-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlI-lvl1-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 5
 
 [^5-1]
 
-Una nave è iscritta nel registro del naviglio svizzero se le condizioni stabilite dalla legge sulla navigazione marittima e dalla presente ordinanza sono adempiute.
+<sup>1</sup> Le navi di imprese secondo l’articolo 19 della legge sulla navigazione marittima sono iscritte nel registro del naviglio svizzero se le condizioni stabilite dalla legge sulla navigazione marittima e dalla presente ordinanza sono adempiute.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+<sup>2</sup> Salvo disposizioni contrarie della legge sulla navigazione marittima o della presente ordinanza, si applicano le disposizioni del Codice delle obbligazioni[^5-2] in materia di rappresentanza di imprese secondo l’articolo 19 della legge sulla navigazione marittima.
 
-### 2.**** Domicilio e sede
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^5-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-[^chapII-lvlI-lvl2-1]
-
-[^chapII-lvlI-lvl2-1]: Introdotto dal n. I dell’O del 5 mag. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 15 nov. 1995 ([RU 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+### 2. ...
 
 #### Art. 5a
 
-Devono avere domicilio o sede in Svizzera:
+[^5a-1]
 
-- a. il titolare di una ditta individuale;
-- b. i tre quarti dei soci o altri titolari di quote di società in nome collettivo o in accomandita o a garanzia limitata, che detengono, almeno, i tre quarti dell’attivo sociale, dell’accomandita o del capitale sociale;
-- c. gli azionisti di una società anonima o in accomandita per azioni che detengono la maggioranza, almeno, del capitale azionario e i due terzi, almeno, dei voti;
-- d. i due terzi dei soci di una società cooperativa, che nel contempo detengono oltre due terzi delle quote del capitale sociale.
+[^5a-1]: Introdotto dalla cifra I dell’O del 5 mag. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Abrogato dalla cifra I dell’O del 9 ott. 2024, con effetto dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-### 3.**** Nazionalità e controllo
-
-[^chapII-lvlI-lvl3-1]
-
-[^chapII-lvlI-lvl3-1]: Introdotto dal n. I dell’O del 5 mag. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 15 nov. 1995 ([RU 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+### 3. ...
 
 #### Art. 5b
 
-<sup>1</sup> Le persone fisiche di cui all’articolo 5*a* devono essere cittadini svizzeri.
+[^5b-1]
 
-<sup>2</sup> La società commerciale o persona giuridica che partecipa all’impresa del proprietario svizzero della nave come socio, accomandante, azionista o titolare di quote sociali oppure come usufruttuario o in virtù di altri diritti deve avere carattere incontestabilmente svizzero per ciò che riguarda i suoi soci, accomandanti, azionisti o membri nonché le persone incaricate dell’amministrazione, come pure i suoi capitali.
+[^5b-1]: Introdotto dalla cifra I dell’O del 5 mag. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Abrogato dalla cifra I dell’O del 9 ott. 2024, con effetto dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-<sup>3</sup> Se il mantenimento del carattere svizzero dell’impresa lo esige, l’Ufficio svizzero della navigazione marittima può prescrivere che gli azionisti o i soci che, giusta l’articolo 24 capoverso 1 della legge mettono a disposizione dell’impresa i fondi propri necessari, siano cittadini svizzeri domiciliati in Svizzera o società commerciali o persone giuridiche svizzere ai sensi del capoverso 2.
-
-### 4.**** Amministrazione e gestione
+### 4. Amministrazione
 
 [^chapII-lvlI-lvl4-1]
 
-[^chapII-lvlI-lvl4-1]: Introdotto dal n. I dell’O del 5 mag. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Nuovo testo giusta il n. I dell’O del 25 ott. 1995, in vigore dal 15 nov. 1995 ([RU 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+[^chapII-lvlI-lvl4-1]: Introdotto dalla cifra I dell’O del 5 mag. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 #### Art. 5c
 
-<sup>1</sup> I due terzi dei membri degli organi di amministrazione e di gestione di una società anonima, in accomandita per azioni, a garanzia limitata o cooperativa devono essere cittadini svizzeri.
+Le imprese secondo l’articolo 19 della legge sulla navigazione marittima devono avere la loro amministrazione effettiva in Svizzera.
 
-<sup>2</sup> Se l’amministrazione o la gestione è affidata ad una sola persona, questa deve essere domiciliata in Svizzera. Se l’organo di amministrazione o di gestione si compone di più membri, questi devono essere in maggioranza persone domiciliate in Svizzera.
-
-<sup>3</sup> Se la conservazione del carattere svizzero dell’impresa lo esige, l’Ufficio svizzero della navigazione marittima può prescrivere che altre persone partecipanti alla gestione siano cittadini svizzeri domiciliati in Svizzera.
-
-### 5.**** Mezzi finanziari
+### 5. Mezzi finanziari
 
 [^chapII-lvlI-lvl5-1]
 
-[^chapII-lvlI-lvl5-1]: Introdotto dal n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlI-lvl5-1]: Introdotto dalla cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 5d
 
+[^5d-1]
+
 <sup>1</sup> Il proprietario della nave deve disporre di fondi propri che rappresentino almeno il 20 per cento del valore contabile delle navi iscritte a suo nome. Per ogni nave di cui è chiesta l’iscrizione, il prezzo d’acquisto è considerato come primo valore contabile.
 
-<sup>2</sup> Se i fondi propri diminuiscono in seguito a perdite, una riduzione degli stressi fino all’8 per cento del valore contabile è ammissibile durante i cinque esercizi annui successivi alla perdita; qualora circostanze eccezionali lo giustifichino, l’Ufficio svizzero della navigazione marittima può prorogare questo termine di due anni al massimo.
+<sup>2</sup> Se i fondi propri diminuiscono in seguito a perdite, una riduzione degli stessi fino al 5 per cento del valore contabile è ammissibile durante gli otto esercizi annui successivi alla perdita; qualora circostanze eccezionali lo giustifichino, l’Ufficio svizzero della navigazione marittima può prorogare questo termine di due anni al massimo.
 
-<sup>3</sup> Per l’acquisto di navi, l’Ufficio svizzero della navigazione marittima può autorizzare che i fondi propri siano inferiori a quanto previsto dal capoverso 1 se vi sono prospettive fondate che, nei prossimi cinque anni e con un andamento normale degli affari, essi possano raggiungere nuovamente il 20 per cento del valore contabile. Questi fondi non dovranno tuttavia essere inferiori all’8 per cento del valore contabile.
+<sup>3</sup> Per l’acquisto di navi, l’Ufficio svizzero della navigazione marittima può autorizzare che i fondi propri siano inferiori a quanto previsto dal capoverso 1 se vi sono prospettive fondate che, nei prossimi otto anni e con un andamento normale degli affari, essi possano raggiungere nuovamente il 20 per cento del valore contabile. Questi fondi non dovranno tuttavia essere inferiori al 5 per cento del valore contabile.
 
-<sup>4</sup>
+<sup>4</sup> L’Ufficio svizzero della navigazione marittima può richiedere che il proprietario della nave specifichi, mediante un certificato di finanziamento completo, l’origine dei mezzi finanziari investiti nella nave.
 
-Il proprietario deve specificare, mediante un certificato di finanziamento completo, l’origine dei mezzi finanziari investiti nella nave. Fatte salve le disposizioni del presente articolo, egli può finanziare la nave completamente con capitali mutuati, sempre che:
+[^5d-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, con effetto dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-- a. non ne risulti pregiudicato l’influsso svizzero sull’impresa e sulla condotta della nave; e
-- b. i creditori esteri siano tenuti ad accettare, su domanda dell’Ufficio svizzero della navigazione marittima, il rimborso immediato del debito.
-
-<sup>5</sup> Il proprietario deve dichiarare per iscritto che la sua impresa non cela né dissimula alcun influsso straniero.
-
-### 6.**** Contabilità
+### 6. Contabilità
 
 [^chapII-lvlI-lvl6-1]
 
-[^chapII-lvlI-lvl6-1]: Introdotto dal n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlI-lvl6-1]: Introdotto dalla cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 5e
 
-<sup>1</sup> I capitali investiti nell’impresa di un proprietario o di un armatore svizzero, con i quali egli esercita la navigazione marittima sotto bandiera svizzera, devono essere designati separatamente nel bilancio e nei libri contabili, e non possono essere iscritti tra i debiti correnti.
+<sup>1</sup> I capitali investiti nell’impresa di un proprietario svizzero che sono utilizzati per il finanziamento di una nave devono essere designati separatamente nel bilancio e nei libri contabili e non possono essere iscritti tra i debiti correnti.[^5e-1]
 
-<sup>2</sup> Nel libro delle azioni, qualora si tratti di una società anonima, o nel libro delle quote sociali, qualora si tratti di una società cooperativa, devono essere iscritti i soci, con l’indicazione del nome, del domicilio e della cittadinanza, nonché della natura e dell’entità della loro partecipazione.
+<sup>2</sup> ...[^5e-2]
 
 <sup>3</sup>
 
@@ -186,16 +169,20 @@ Sono considerati fondi propri giusta l’articolo 24 capoverso 1 della legge sul
   - 2\. il capitale di partecipazione e gli averi di ogni azionista o socio fino a concorrenza del capitale non versato;
 
 - b. per le società in nome collettivo o in accomandita: i versamenti di capitale e gli averi dei soci illimitatamente responsabili, come anche le quote accomandate versate;
-- c. per le ditte individuali: i fondi propri del proprietario investiti nell’impresa;
+- c. per le imprese individuali: i fondi propri del proprietario investiti nell’impresa;[^5e-3]
 - d. per tutte le imprese: le riserve palesi, compreso il riporto dell’utile e gli accantonamenti che non sono destinati alla copertura delle spese dell’esercizio in corso.
 
 <sup>4</sup> Le perdite devono essere dedotte dai fondi propri.
 
-### 7.**** Ufficio di revisione
+[^5e-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^5e-2]: Abrogato dalla cifra I dell’O del 9 ott. 2024, con effetto dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^5e-3]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### 7. Ufficio di revisione
 
 [^chapII-lvlI-lvl7-1]
 
-[^chapII-lvlI-lvl7-1]: Introdotto dal n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlI-lvl7-1]: Introdotto dalla cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 5f
 
@@ -209,35 +196,39 @@ Sono considerati fondi propri giusta l’articolo 24 capoverso 1 della legge sul
 
 <sup>4</sup> Il Dipartimento federale degli affari esteri può escludere dal controllo di determinate o di tutte le imprese di proprietari svizzeri di navi le imprese di revisione che contravvengano alle disposizioni della presente ordinanza.
 
-[^5f-1]: Nuovo testo giusta il n. II 6 dell’all. all’O del 22 ago. 2007 sui revisori, in vigore dal 1° set. 2006 ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
+[^5f-1]: Nuovo testo giusta la cifra II 6 dell’all. all’O del 22 ago. 2007 sui revisori, in vigore dal 1° set. 2006 ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
 [^5f-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^5f-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### 7a *.***** Riserva di ulteriori modificazioni
+### 7*a* *.* Riserva di ulteriori modificazioni
 
 [^chapII-lvlI-lvl7a-1]
 
-[^chapII-lvlI-lvl7a-1]: Introdotto dal n. I dell’O del 25 ott. 1995, in vigore dal 15 nov. 1995 ([RU 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+[^chapII-lvlI-lvl7a-1]: Introdotto dalla cifra I dell’O del 25 ott. 1995, in vigore dal 15 nov. 1995 ([RU 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
 
 #### Art. 5g
 
 Se il proprietario di una nave non adempie più le condizioni di iscrizione nel registro del naviglio svizzero a causa della modificazione delle disposizioni della presente ordinanza, si applicano le disposizioni degli articoli 27-29 della legge.
 
-### 8. Armatore non proprietario****
+### 8. Armatore non proprietario
 
 [^chapII-lvlI-lvl8-1]
 
-[^chapII-lvlI-lvl8-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlI-lvl8-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 6
 
-Qualora l’armatore non sia proprietario della nave, l’Ufficio svizzero della navigazione marittima accerta se egli adempia le condizioni richieste dalla legge per l’armatore svizzero. Tuttavia, al pari del proprietario, l’armatore può presentare annualmente un rapporto di revisione allestito da un ufficio di revisione riconosciuto; in tal caso non ha luogo l’accertamento d’ufficio.
+[^6-1]
 
-### 9.**** Richiesta di registrazione
+Qualora l’armatore non sia proprietario della nave, l’Ufficio svizzero della navigazione marittima accerta se egli adempia le condizioni richieste dalla legge per l’armatore svizzero.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### 9. Richiesta di registrazione
 
 [^chapII-lvlI-lvl9-1]
 
-[^chapII-lvlI-lvl9-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlI-lvl9-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 7
 
@@ -264,27 +255,33 @@ Il proprietario della nave deve allegare alla richiesta:
 
 <sup>3</sup> Ogni modificazione dei dati summenzionati deve essere comunicata senza indugio dal proprietario della nave all’Ufficio svizzero del naviglio, che a sua volta ne informa l’Ufficio della navigazione marittima.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
-### II. Classificazione delle navi****
+### II. Classificazione delle navi
 
 [^chapII-lvlII-1]
 
-[^chapII-lvlII-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlII-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 8
 
-<sup>1</sup> Le navi svizzere devono avere la classe più elevata di una società di classificazione riconosciuta dall’Ufficio svizzero della navigazione marittima.
+<sup>1</sup> Le navi svizzere devono avere una classe commerciale di una società di classificazione riconosciuta dall’Ufficio svizzero della navigazione marittima.[^8-1]
 
 <sup>2</sup> Sono fatti salvi i certificati di navigabilità rilasciati per singoli viaggi.
 
-### III. Armamento delle navi e prescrizioni di sicurezza****
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### III. Convenzioni internazionali
 
 [^chapII-lvlIII-1]
 
-[^chapII-lvlIII-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlIII-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-### 1. Applicazione di convenzioni internazionali
+### 1. Applicazione
+
+[^chapII-lvlIII-lvl1-1]
+
+[^chapII-lvlIII-lvl1-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 #### Art. 9
 
@@ -292,50 +289,58 @@ Il proprietario della nave deve allegare alla richiesta:
 
 <sup>1</sup>
 
-Alle navi svizzere, al loro armamento e alla loro sicurezza, come anche alla salvaguardia della vita umana in mare e alla protezione delle acque marittime, come pure alla formazione della gente di mare si applicano, nel loro ultimo tenore vigente, le seguenti convenzioni internazionali:
+Alle navi svizzere, al loro armamento e alla loro sicurezza, alla salvaguardia della vita umana in mare e alla protezione delle acque marittime, alle condizioni di lavoro su navi svizzere come pure alla formazione della gente di mare si applicano, nel loro ultimo tenore vigente, le seguenti convenzioni internazionali:[^9-2]
 
-- a. Convenzione internazionale del 5 aprile 1966[^9-2] sulle linee di carico;
-- b. Convenzione internazionale del 1° novembre 1974[^9-3] con protocollo del 17 febbraio 1978[^9-4] per la salvaguardia della vita umana in mare;
-- c. Convenzione del 20 ottobre 1972[^9-5] sul regolamento internazionale per prevenire gli abbordi in mare;
-- d. Regolamento delle radiocomunicazioni allegato alla Convenzione internazionale delle telecomunicazioni del 6 novembre 1982[^9-6];
-- e. Convenzione internazionale del 2 novembre 1973 per la prevenzione dell’inquinamento da parte delle navi, nel tenore del Protocollo del 17 febbraio 1978[^9-7];
-- f. Convenzione internazionale del 7 luglio 1978[^9-8] sugli standard di addestramento, abilitazione e tenuta della guardia per i marittimi;
-- g.[^9-9] Convenzione internazionale del 30 novembre 1990[^9-10] sulla preparazione, la lotta e la cooperazione in materia di inquinamento da idrocarburi;
-- h.[^9-11] Convenzione sul lavoro marittimo del 23 febbraio 2006[^9-12] sulle condizioni di lavoro nel trasporto marittimo. [^9-13]
+- a. Convenzione internazionale del 5 aprile 1966[^9-3] sulle linee di carico;
+- b. Convenzione internazionale del 1° novembre 1974[^9-4] con protocollo del 17 febbraio 1978[^9-5] per la salvaguardia della vita umana in mare;
+- c. Convenzione del 20 ottobre 1972[^9-6] sul regolamento internazionale per prevenire gli abbordi in mare;
+- d.[^9-7] ...
+- e.[^9-8] Protocollo del 17 febbraio 1978[^9-9] relativo alla Convenzione internazionale del 1973 per la prevenzione dell’inquinamento da parte delle navi e Protocollo del 26 settembre 1997[^9-10] che modifica detta Convenzione, nella versione del relativo Protocollo del 1978;
+- f. Convenzione internazionale del 7 luglio 1978[^9-11] sugli standard di addestramento, abilitazione e tenuta della guardia per i marittimi;
+- g.[^9-12] Convenzione internazionale del 30 novembre 1990[^9-13] sulla preparazione, la lotta e la cooperazione in materia di inquinamento da idrocarburi;
+- h.[^9-14] Convenzione sul lavoro marittimo del 23 febbraio 2006[^9-15] sulle condizioni di lavoro nel trasporto marittimo;
+- i.[^9-16] Convenzione internazionale del 23 giugno 1969[^9-17] sulla stazzatura delle navi.[^9-18]
 
 <sup>2</sup> Le disposizioni delle convenzioni internazionali, indicate al capoverso 1, si applicano parimente alle navi svizzere con stanza lorda inferiore a cinquecento tonnellate; l’Ufficio svizzero della navigazione marittima può tuttavia accordare, in casi particolari, deroghe a tali navi, sempreché siano garantite la sicurezza necessaria e la salvaguardia della vita umana in mare.
 
-<sup>3</sup> E vietato immergere in mare, dal bordo di navi svizzere, rifiuti radioattivi.
+<sup>3</sup> e <sup>4</sup> ...[^9-19]
 
-<sup>4</sup> Restano salve le prescrizioni dell’Azienda delle PTT[^9-14] concernenti l’installazione e l’impiego di apparecchi radiotelegrafici e radiotelefonici a bordo delle navi in conformità della convenzione internazionale del 1° novembre 1974 e del protocollo del 17 febbraio 1978 per la salvaguardia della vita umana in mare.[^9-15]
-
-[^9-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^9-2]: [RS 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
-[^9-3]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^9-4]: [RS 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
-[^9-5]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
-[^9-6]: [RS 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093). Del R delle radiocomunicazioni sono stati pubblicati nella RU solamente i n. 422 § 1 e 725 § 1 (RS **0****.****784.403.1**).
-[^9-7]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
-[^9-8]: [RS 0.747.341.2](https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639)
-[^9-9]: Introdotta dal n. I dell’O del 9 dic. 1996, in vigore dal 1° feb. 1997 ([RU 1997 151](https://fedlex.data.admin.ch/eli/oc/1997/151_151_151)).
-[^9-10]: FF **1995** IV 259
-[^9-11]: Introdotta dal n. I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^9-12]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
-[^9-13]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^9-14]: Ora: Swisscom. Nuova denominazione giusta il n. 1 dell’all. alla L del 21 giu. 1991 sulle telecomunicazioni, in vigore dal 1° mag. 1992 ([RU 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^9-15]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^9-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-3]: [RS 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
+[^9-4]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^9-5]: [RS 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
+[^9-6]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
+[^9-7]: Abrogata dalla cifra I dell’O del 9 ott. 2024, con effetto dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-8]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-9]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^9-10]: [RU 2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887)
+[^9-11]: [RS 0.747.341.2](https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639)
+[^9-12]: Introdotta dalla cifra I dell’O del 9 dic. 1996, in vigore dal 1° feb. 1997 ([RU 1997 151](https://fedlex.data.admin.ch/eli/oc/1997/151_151_151)).
+[^9-13]: FF **1995** IV 259
+[^9-14]: Introdotta dalla cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^9-15]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^9-16]: Introdotta dalla cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-17]: [RS 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^9-18]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^9-19]: Abrogati dalla cifra I dell’O del 9 ott. 2024, con effetto dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ### 2. Autorità competente e controllo
 
 #### Art. 10
 
-<sup>1</sup> Nei casi in cui una convenzione internazionale dichiarata applicabile rinvia alla competenza o alle attribuzioni del Governo o dell’amministrazione dello Stato, nei cui registri è immatricolata la nave, è competente, per le navi svizzere, l’Ufficio svizzero della navigazione marittima. Sono salve le attribuzioni dell’Azienda delle PTT per quel che concerne gli impianti radiotelegrafici e radiotelefonici.
+<sup>1</sup> Nei casi in cui una convenzione internazionale dichiarata applicabile rinvia alla competenza o alle attribuzioni del Governo o dell’amministrazione dello Stato nei cui registri è immatricolata la nave, è competente, per le navi svizzere, l’Ufficio svizzero della navigazione marittima; sono salve le attribuzioni dell’Ufficio federale delle comunicazioni (UFCOM) per quel che concerne gli impianti radiotelegrafici e radiotelefonici.[^10-1]
 
-<sup>2</sup> Se una convenzione internazionale dichiarata applicabile esige che si rechino certificati, occorre verificare l’esattezza delle indicazioni ivi contenute, negli intervalli prescritti.[^10-1]
+<sup>2</sup> Se una convenzione internazionale dichiarata applicabile esige che si rechino certificati, occorre verificare l’esattezza delle indicazioni ivi contenute, negli intervalli prescritti.[^10-2]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 3. Mezzi di caricazione
+### 3. Prescrizioni concernenti i mezzi di caricazione, comprese le ispezioni e i controlli
+
+[^chapII-lvlIII-lvl3-1]
+
+[^chapII-lvlIII-lvl3-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 #### Art. 11
 
@@ -347,14 +352,54 @@ Alle navi svizzere, al loro armamento e alla loro sicurezza, come anche alla sal
 
 <sup>3</sup> Il risultato delle ispezioni e delle revisioni dev’essere annotato in un libro specialmente predisposto a tale scopo. I certificati e il libro di controllo devono sempre essere conservati a bordo.
 
-[^11-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^11-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 [^11-2]: Non ratificata dalla Svizzera.
 
-### IV. Composizione dell’equipaggio****
+### 3*a*. Smaltimento dei rifiuti
+
+[^chapII-lvlIII-lvl3a-1]
+
+[^chapII-lvlIII-lvl3a-1]: Introdotto dalla cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+#### Art. 11a
+
+<sup>1</sup> È vietato immergere in mare, dal bordo di navi svizzere, rifiuti o altre sostanze.
+
+<sup>2</sup> Resta salvo lo smaltimento di rifiuti derivanti dalla conduzione di navi conformemente al Protocollo del 17 febbraio 1978[^11a-1] relativo alla Convenzione internazionale del 1973 per la prevenzione dell’inquinamento da parte delle navi.
+
+[^11a-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+
+### 3*b*. Incenerimento dei rifiuti
+
+[^chapII-lvlIII-lvl3b-1]
+
+[^chapII-lvlIII-lvl3b-1]: Introdotto dalla cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+#### Art. 11b
+
+<sup>1</sup> È vietato incenerire in mare, su navi svizzere, rifiuti o altre sostanze.
+
+<sup>2</sup> Resta salvo l’incenerimento di rifiuti derivanti dalla conduzione di navi conformemente al Protocollo del 17 febbraio 1978[^11b-1] relativo alla Convenzione internazionale del 1973 per la prevenzione dell’inquinamento da parte delle navi.
+
+[^11b-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+
+### 3*c* *.* Sistemi antivegetativi
+
+[^chapII-lvlIII-lvl3c-1]
+
+[^chapII-lvlIII-lvl3c-1]: Introdotto dalla cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+#### Art. 11c
+
+Sulle navi svizzere sono vietati l’applicazione, la riapplicazione, l’installazione e l’uso dei sistemi antivegetativi elencati nell’allegato 1 alla Convenzione internazionale del 5 ottobre 2001[^11c-1] sul controllo dei sistemi antivegetativi nocivi sulle navi.
+
+[^11c-1]: [RS 0.814.295](https://fedlex.data.admin.ch/eli/cc/2013/889)
+
+### IV. Composizione dell’equipaggio
 
 [^chapII-lvlIV-1]
 
-[^chapII-lvlIV-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^chapII-lvlIV-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 #### Art. 12
 
@@ -362,13 +407,13 @@ Alle navi svizzere, al loro armamento e alla loro sicurezza, come anche alla sal
 
 <sup>2</sup> L’Ufficio svizzero della navigazione marittima, in esecuzione delle risoluzioni dell’Organizzazione internazionale della navigazione marittima e dopo aver sentito le cerchie interessate, decide quale debba essere l’effettivo minimo dell’equipaggio e rilascia un certificato in merito.[^12-1]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### V. Alloggio per l’equipaggio****
+### V. Alloggio per l’equipaggio
 
 [^chapII-lvlV-1]
 
-[^chapII-lvlV-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^chapII-lvlV-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### 1. Applicazione di convenzioni internazionali
 
@@ -376,7 +421,7 @@ Alle navi svizzere, al loro armamento e alla loro sicurezza, come anche alla sal
 
 [^13-1]
 
-[^13-1]: Abrogato dal n. I dell’O del 20 feb. 2013, con effetto dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^13-1]: Abrogato dalla cifra I dell’O del 20 feb. 2013, con effetto dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
 ### 2. Attribuzioni dell’autorità
 
@@ -386,11 +431,11 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 [^14-1]: All. II alla presente O.
 
-## Capo III. Menzione e annotazione della locazione di nave e di noleggio****
+## Capo III. Menzione e annotazione della locazione di nave e di noleggio
 
 [^chapIII-1]
 
-[^chapIII-1]: Nuovo testo del tit. giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^chapIII-1]: Nuovo testo del tit. giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 #### Art. 15
 
@@ -400,10 +445,10 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 <sup>3</sup> Si procede alla cancellazione della menzione su richiesta scritta del proprietario e del conduttore. Scaduto il contratto di locazione, il conduttore e il proprietario possono reciprocamente esigere l’uno dall’altro il consenso per la cancellazione della menzione. Tale diritto spetta al conduttore anche nel caso in cui il proprietario abbia rinunciato alla menzione.
 
-<sup>4</sup> Le disposizioni degli articoli 81 e 82 dell’ordinanza del 23 settembre 2011[^15-1] sul registro fondiario si applicano per analogia all’annotazione di un contratto di locazione giusta l’articolo 92 capoverso 4, e di un contratto di noleggio, secondo l’articolo 94 capoverso 3 della legge sulla navigazione marittima.[^15-2]
+<sup>4</sup> Le disposizioni degli articoli 81 e 82 dell’ordinanza del 23 settembre 2011[^15-1] sul registro fondiario si applicano per analogia all’annotazione di un contratto di locazione giusta l’articolo 92 capoverso 5 della legge sulla navigazione marittima e di un contratto di noleggio secondo l’articolo 94 capoverso 3 della legge sulla navigazione marittima.[^15-2]
 
 [^15-1]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
-[^15-2]: Introdotto dal n. I del DCF del 4 nov. 1966 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)). Nuovo testo giusta il n. 4 dell’all. all’O del 23 set. 2011 sul registro fondiario, in vigore dal 1° gen. 2012 ([RU 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^15-2]: Introdotto dalla cifra I del DCF del 4 nov. 1966 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)). Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ## Capo IV. Disciplina del lavoro marittimo
 
@@ -417,8 +462,8 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 <sup>3</sup> ...[^16-2]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^16-2]: Abrogato dal n. I dell’O del 22 dic. 1988, con effetto dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^16-2]: Abrogato dalla cifra I dell’O del 22 dic. 1988, con effetto dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### II. Visite mediche
 
@@ -432,8 +477,8 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 <sup>3</sup> La prima visita medica deve precedere il primo arruolamento a bordo di una nave svizzera.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 1977, in vigore dal 1° ago. 1977 ([RU 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 1977, in vigore dal 1° ago. 1977 ([RU 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
 
 ### 2. Visite periodiche
 
@@ -445,8 +490,8 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 <sup>3</sup> Deve inoltre essere effettuata una nuova visita medica adeguata alle circostanze, ogni qual volta un componente dell’equipaggio sia stato colpito da grave malattia o sia stato vittima di un grave incidente, oppure il suo comportamento a bordo lasci supporre un affievolimento delle sue capacità visive, auditive e di distinzione dei colori.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^18-2]: Abrogato dal n. I dell’O del 22 dic. 1988, con effetto dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^18-2]: Abrogato dalla cifra I dell’O del 22 dic. 1988, con effetto dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 3. Eccezioni e visita a spese dell’interessato
 
@@ -456,7 +501,7 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 <sup>2</sup> Qualora, in seguito a visita medica, sia stato negato a un marittimo il certificato di attitudine fisica, egli può richiedere di sottoporsi a sue spese a una nuova visita da parte di uno o più medici indipendenti.[^19-1]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
 ### III. Certificato di idoneità
 
@@ -464,7 +509,7 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 #### Art. 20
 
-<sup>1</sup> In quanto siano adempiute le condizioni richieste, l’Ufficio svizzero della navigazione marittima rilascia certificati svizzeri d’idoneità ai capitani e agli ufficiali di coperta e di macchina, alla squadra delle imbarcazioni di salvataggio, come anche ai marinai incaricati della guardia di ponte a bordo di navi svizzere; l’Azienda delle PTT procede analogamente per il rilascio dei certificati d’idoneità ai radiotelegrafisti di bordo.[^20-1]
+<sup>1</sup> In quanto siano adempiute le condizioni richieste, l’Ufficio svizzero della navigazione marittima rilascia certificati svizzeri d’idoneità ai capitani e agli ufficiali di coperta e di macchina, alla squadra delle imbarcazioni di salvataggio, come anche ai marinai incaricati della guardia di ponte a bordo di navi svizzere; l’UFCOM procede analogamente per il rilascio dei certificati d’idoneità ai radiotelegrafisti di bordo.[^20-1]
 
 <sup>2</sup> I certificati d’idoneità svizzeri possono essere rilasciati anche a cittadini stranieri occupati a bordo di navi svizzere, qualora sia provato che questi ultimi ne abbisognino per l’esercizio della loro attività a bordo.[^20-2]
 
@@ -472,9 +517,9 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 <sup>4</sup> In casi motivati, l’Ufficio svizzero della navigazione marittima può, tenendo conto delle disposizioni delle convenzioni internazionali applicabili, rilasciare un certificato d’idoneità provvisorio, di validità limitata.[^20-3]
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^20-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^20-3]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 2. Età minima richiesta ed esame
 
@@ -482,7 +527,7 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 <sup>1</sup> L’età minima richiesta è di ventitré anni per il capitano e il primo ufficiale di macchina, di ventun anni per il primo ufficiale di coperta e il secondo ufficiale di macchina e di venti anni per tutti gli altri ufficiali dei servizi di coperta e di macchina come anche per i radiotelegrafisti.[^21-1]
 
-<sup>2</sup> L’esame per la rispettiva qualifica deve essere superato presso una scuola nautica riconosciuta dall’Ufficio svizzero della navigazione marittima; valgono a tali effetti le regole della scuola medesima. Per i radiotelegrafisti e per gli aiuti-radiotelegrafisti, l’esame deve invece aver luogo presso l’Azienda delle PTT.
+<sup>2</sup> L’esame per la rispettiva qualifica deve essere superato presso una scuola nautica riconosciuta dall’Ufficio svizzero della navigazione marittima; valgono a tali effetti le regole della scuola medesima. Per i radiotelegrafisti e per gli aiuti-radiotelegrafisti, l’esame deve invece aver luogo presso l’UFCOM.[^21-2]
 
 <sup>3</sup>
 
@@ -490,10 +535,11 @@ Il terzo e il quarto ufficiale di macchina non devono superare esami, ma devono 
 
 - a. d’aver compiuto a terra un tirocinio appropriato;
 - b. di essere raccomandati da un armatore circa la loro idoneità;
-- c. di aver partecipato a un corso pratico ammesso di lotta antincendio.[^21-2]
+- c. di aver partecipato a un corso pratico ammesso di lotta antincendio.[^21-3]
 
-[^21-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^21-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^21-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 3. Durata della navigazione prescritta
 
@@ -510,7 +556,7 @@ La durata della navigazione a bordo di una nave marittima, necessaria per il con
 
 <sup>2</sup> Agli ufficiali di macchina sono applicabili, per il servizio di officina e la durata della navigazione richiesta, le prescrizioni dello Stato, in cui avviene la formazione professionale o l’esame. Il terzo ufficiale deve tuttavia aver prestato servizio per almeno un anno con la qualifica di quarto ufficiale, e quest’ultimo almeno un anno con la qualifica di aiuto-macchinista, a bordo di una nave.
 
-[^22-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^22-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### IV. Durata del lavoro a bordo
 
@@ -530,9 +576,9 @@ La durata della navigazione a bordo di una nave marittima, necessaria per il con
 
 <sup>5</sup> Il servizio di guardia in porto e alla rada, prestato in domenica o nei giorni festivi riconosciuti, deve essere rimunerato come lavoro supplementare; è parimente considerato lavoro supplementare il servizio di guardia, prestato di notte, che supera la durata normale del lavoro giusta il capoverso 3.[^23-3]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^23-2]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^23-3]: Introdotto dal n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^23-2]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^23-3]: Introdotto dalla cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### b. Marittimi non di guardia
 
@@ -546,7 +592,7 @@ La durata della navigazione a bordo di una nave marittima, necessaria per il con
 
 <sup>4</sup> Il servizio di picchetto o di guardia in porto e alla rada, prestato in domenica, nei giorni festivi riconosciuti e di notte, è disciplinato dalle disposizioni dell’articolo 23 capoversi 4 e 5.[^24-1]
 
-[^24-1]: Introdotto dal n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^24-1]: Introdotto dalla cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### c. Marittimi adibiti ai servizi complementari di bordo
 
@@ -558,7 +604,7 @@ La durata della navigazione a bordo di una nave marittima, necessaria per il con
 
 <sup>3</sup> I giorni di riposo sono accordati nei porti, giusta le direttive del capitano. Qualora non possano essere goduti per mancanza di tempo o per altre gravi ragioni, ogni giorno di riposo è compensato con una indennità corrispondente a un trentesimo della retribuzione base mensile convenuta, con esclusione di indennità per alloggio e vitto.
 
-[^25-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^25-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### 2. Ripartizione del lavoro a bordo
 
@@ -572,11 +618,13 @@ La durata della navigazione a bordo di una nave marittima, necessaria per il con
 
 <sup>3</sup> Durante la navigazione, i marittimi non ripartiti nei turni di guardia e quelli adibiti ai servizi complementari di bordo prestano le loro ore di lavoro in un periodo di tempo di tredici ore consecutive.
 
-<sup>4</sup> Durante la navigazione marittima, i radiotelegrafisti prestano quotidianamente un servizio di otto ore, conformemente alle disposizioni del regolamento delle radiocomunicazioni allegato alla convenzione internazionale delle telecomunicazioni del 6 novembre 1982[^26-2]. L’Ufficio svizzero della navigazione marittima, dopo aver sentito le cerchie interessate, può liberarli dal servizio di turno se la nave è equipaggiata con apparecchi radiotelegrafici automatici supplementari. Il capitano può adibirli a lavori di scritturazione o ad altre mansioni amministrative una volta terminati gli eventuali lavori di manutenzione o di riparazione degli impianti elettronici.[^26-3]
+<sup>4</sup> Durante la navigazione marittima, i radiotelegrafisti prestano quotidianamente un servizio di otto ore, conformemente alle disposizioni del Regolamento delle radiocomunicazioni del 17 novembre 1995[^26-2] allegato alla Costituzione del 22 dicembre 1992[^26-3] dell’Unione internazionale delle telecomunicazioni e alla Convenzione del 22 dicembre 1992[^26-4] dell’Unione internazionale delle telecomunicazioni. L’Ufficio svizzero della navigazione marittima, dopo aver sentito le cerchie interessate, può liberarli dal servizio di turno se la nave è equipaggiata con apparecchi radiotelegrafici automatici supplementari. Il capitano può adibirli a lavori di scritturazione o ad altre mansioni amministrative una volta terminati gli eventuali lavori di manutenzione o di riparazione degli impianti elettronici.[^26-5]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^26-2]: [RS 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093). Del R delle radiocomunicazioni sono stati pubblicati nella RU solamente i n. 422 § 1 e 725 § 1 (RS **0****.****784.403.1**).
-[^26-3]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^26-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
+[^26-3]: [RS 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)
+[^26-4]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^26-5]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ### b. In porto e alla rada
 
@@ -594,7 +642,7 @@ La durata della navigazione a bordo di una nave marittima, necessaria per il con
 
 Le persone di età inferiore ai 18 anni non possono essere adibite al lavoro notturno. È considerata notte il tempo tra le ore ventuno e le ore sei.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
 ### 3. Ripartizione del lavoro fatta dal capitano
 
@@ -612,7 +660,7 @@ In quanto non le disciplini la presente ordinanza, la ripartizione e la durata d
 
 <sup>2</sup> Il lavoro supplementare deve essere evitato nei limiti del possibile e non deve superare, di regola, le quattro ore giornaliere; ciascun componente dell’equipaggio deve avere a disposizione, entro ogni periodo di ventiquattro ore, dieci ore di riposo, di cui sei ore ininterrotte.[^30-1]
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
 ### b. Obbligo d’indennità
 
@@ -636,9 +684,9 @@ Non sono considerati lavori supplementari e non danno luogo a indennità, anche 
 
 <sup>4</sup> La retribuzione ripartita giusta l’articolo 75 capoverso 1 della legge sulla navigazione marittima oppure quella determinante circa il calcolo dei compensi per atti d’assistenza o di salvataggio, secondo l’articolo 75 capoverso 2, è costituita dalla retribuzione di base, esclusa qualsiasi altra indennità.[^31-3]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^31-2]: Introdotto dal n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^31-3]: Introdotto dal n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^31-2]: Introdotto dalla cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^31-3]: Introdotto dalla cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### V. Vitto dell’equipaggio a bordo
 
@@ -680,7 +728,7 @@ Al fini della tutela della salute e del benessere dell’equipaggio e avuto rigu
 
 <sup>4</sup> Il capitano è tenuto a ispezionare, almeno una volta alla settimana, lo stato della cucina, dei magazzini, dei locali frigoriferi, delle installazioni e degli oggetti destinati al vitto dell’equipaggio. Egli deve parimente vigilare sulla preparazione dei cibi. Qualsiasi manchevolezza dev’essere immediatamente eliminata. Qualora non sia in grado di provvedervi, il capitano deve informare senza indugio l’armatore; questi ha l’obbligo di prendere subito le misure necessarie.
 
-[^35-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^35-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### 5. Avvenimenti straordinari
 
@@ -700,9 +748,9 @@ Al fini della tutela della salute e del benessere dell’equipaggio e avuto rigu
 
 <sup>3</sup> In caso di violazione delle disposizioni della Convenzione sul lavoro marittimo del 23 febbraio 2006[^37-2] sulle condizioni di lavoro nel trasporto marittimo, il componente dell’equipaggio è abilitato a presentare reclamo direttamente al funzionario competente del porto in cui la nave ha fatto scalo. In casi simili le organizzazioni dei lavoratori e dei datori di lavoro interessate possono richiedere l’assistenza giudiziaria di cui all’articolo 59 capoverso 3 della legge federale del 23 settembre 1953 sulla navigazione marittima sotto bandiera svizzera.[^37-3]
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 [^37-2]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
-[^37-3]: Introdotto dal n. I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^37-3]: Introdotto dalla cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
 ### VII. Diritto alle vacanze dei componenti dell’equipaggio
 
@@ -714,7 +762,7 @@ Al fini della tutela della salute e del benessere dell’equipaggio e avuto rigu
 
 Il diritto minimo a vacanze pagate è determinato giusta l’articolo 329*a* del Codice delle obbligazioni[^38-2].
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^38-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### 2. Attuazione
@@ -739,7 +787,7 @@ Il diritto minimo a vacanze pagate è determinato giusta l’articolo 329*a* del
 
 <sup>3</sup> Il diritto alle vacanze, esistente al momento della perdita della nave a causa di naufragio, non può essere computato nel periodo di disoccupazione effettivo, durante il quale l’equipaggio ha diritto a un’indennità, giusta l’articolo 86 della legge sulla navigazione marittima. L’indennità di disoccupazione a causa di naufragio, di cui al suindicato articolo 86, corrisponde alla retribuzione di base aumentata dell’indennità di vitto.[^40-1]
 
-[^40-1]: Introdotto dal n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^40-1]: Introdotto dalla cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### VIII. Assicurazione contro le malattie e gl’infortuni
 
@@ -747,24 +795,28 @@ Il diritto minimo a vacanze pagate è determinato giusta l’articolo 329*a* del
 
 #### Art. 41
 
-<sup>1</sup> L’assicurazione contro le malattie e gli infortuni professionali deve essere stipulata con una compagnia d’assicurazione autorizzata dal Dipartimento federale di giustizia e polizia a esercitare la propria attività in Svizzera. Qualora l’armatore di una nave svizzera abbia istituito per il proprio personale una speciale cassa-malati e detta cassa sia stata riconosciuta conformemente alla legge federale del 18 marzo 1994[^41-1] sull’assicurazione contro le malattie, essa è ammessa a praticare l’assicurazione malattie prevista dalla presente ordinanza.[^41-2]
+[^41-1]
 
-<sup>2</sup> Ogni armatore d’una nave svizzera deve trasmettere una copia del contratto d’assicurazione all’Ufficio svizzero della navigazione marittima. Prima di dare la sua approvazione, tale ufficio deve consultare l’Autorità federale di sorveglianza sui mercati finanziari[^41-3], se del caso, l’Ufficio federale della sanità pubblica[^41-4]. Le compagnie d’assicurazione sono tenute a informare l’Ufficio svizzero della navigazione marittima, mediante lettera raccomandata, della dichiarazione di recesso del contratto o della scadenza del medesimo.
+<sup>1</sup> L’assicurazione contro le malattie e gli infortuni professionali deve essere stipulata con una società d’assicurazione ammessa dall’Autorità federale di vigilanza sui mercati finanziari a esercitare la propria attività in Svizzera oppure con una società d’assicurazione ammessa a esercitare la propria attività all’estero. Qualora l’armatore di una nave svizzera abbia istituito per il proprio personale una speciale cassa malati e detta cassa sia stata riconosciuta dalla Confederazione conformemente alla legge federale del 18 marzo 1994[^41-2] sull’assicurazione malattie, essa è ammessa a praticare l’assicurazione malattie prevista dalla presente ordinanza.
 
-[^41-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^41-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^41-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
-[^41-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+<sup>2</sup> Ogni armatore di una nave svizzera deve trasmettere una copia del contratto d’assicurazione all’Ufficio svizzero della navigazione marittima. Le società d’assicurazione sono tenute a informare l’Ufficio svizzero della navigazione marittima, mediante lettera raccomandata, della dichiarazione di recesso del contratto o della scadenza del medesimo.
+
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^41-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### 2. Prestazioni minime; contratto-tipo
 
 #### Art. 42
 
-<sup>1</sup> Il Consiglio federale, sentiti i circoli interessati, stabilirà in un contratto-tipo le prestazioni minime e le norme particolari alle quali deve conformarsi il contratto d’assicurazione perché l’armatore adempia l’obbligo di assicurazione previsto dall’articolo 84 capoverso 3 della legge sulla navigazione marittima; il contratto-tipo è un allegato della presente ordinanza e ne è considerato parte integrante[^42-1].
+[^42-1]
+
+<sup>1</sup> Il Consiglio federale, sentiti i circoli interessati, stabilirà in un contratto-tipo le prestazioni minime e le norme particolari alle quali deve conformarsi il contratto d’assicurazione di una società d’assicurazione svizzera perché l’armatore adempia l’obbligo di assicurazione previsto dall’articolo 84 capoverso 3 della legge sulla navigazione marittima; il contratto-tipo è un allegato della presente ordinanza e ne è considerato parte integrante[^42-2]. I contratti delle società d’assicurazione straniere devono essere equivalenti e coprire le responsabilità degli armatori riguardo alle condizioni di lavoro sulle navi d’alto mare secondo la Convenzione del 23 febbraio 2006[^42-3] sul lavoro marittimo.
 
 <sup>2</sup> Le prestazioni eseguite dall’assicuratore devono essere imputate a quelle eventualmente dovute dal contraente.
 
-[^42-1]: All. III alla presente O.
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^42-2]: All. III alla presente O.
+[^42-3]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
 
 ### 3. Infortuni professionali
 
@@ -772,17 +824,17 @@ Il diritto minimo a vacanze pagate è determinato giusta l’articolo 329*a* del
 
 Sono considerati infortuni professionali tutti gli infortuni che colpiscono l’assicurato nell’adempimento dei suoi obblighi di servizio. Gli infortuni che accadono a bordo della nave, nel traffico con battello fra nave e nave e da nave a terraferma o ritorno, sono in ogni caso considerati infortuni professionali.
 
-### 4. ...****
+### 4. ...
 
 [^chapIV-lvlVIII-lvl4-1]
 
-[^chapIV-lvlVIII-lvl4-1]: Tit. abrogato dal n. I dell’O del 22 dic. 1989, con effetto dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapIV-lvlVIII-lvl4-1]: Abrogato dalla cifra I dell’O del 22 dic. 1989, con effetto dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-## Capo V**** Limitazione della responsabilità
+## Capo V Limitazione della responsabilità
 
 [^chapV-1]
 
-[^chapV-1]: Introdotto dal n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapV-1]: Introdotto dalla cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### I. Responsabilità del vettore
 
@@ -801,7 +853,7 @@ In applicazione dell’articolo 105 capoverso 3 della legge sulla navigazione ma
 
 <sup>3</sup> Nella navigazione sul Reno, la responsabilità del trasportatore, nel caso del capoverso 1 lettera b, è limitata a un’unità di conto.
 
-[^44-1]: Originariamente precedeva il cap. V.
+[^44-1]: Originariamente precedeva il Cap. V.
 
 ### II. ...
 
@@ -809,19 +861,19 @@ In applicazione dell’articolo 105 capoverso 3 della legge sulla navigazione ma
 
 [^44a-1]
 
-[^44a-1]: Abrogato dal n. I dell’O del 3 set. 1997, con effetto dal 1° nov. 1997 ([RU 1997 2186](https://fedlex.data.admin.ch/eli/oc/1997/2186_2186_2186)).
+[^44a-1]: Abrogato dalla cifra I dell’O del 3 set. 1997, con effetto dal 1° nov. 1997 ([RU 1997 2186](https://fedlex.data.admin.ch/eli/oc/1997/2186_2186_2186)).
 
-## Capo VI****. Disposizioni di procedura
+## Capo VI. Disposizioni di procedura
 
 [^chapVI-1]
 
-[^chapVI-1]: Originario cap. V.
+[^chapVI-1]: Originario Cap. V.
 
-### Sezione I. Limitazione della responsabilità mediante la costituzione di un fondo****
+### Sezione I. Limitazione della responsabilità mediante la costituzione di un fondo
 
-[^chapVI-sec1-1]
+[^chapVI-secI-1]
 
-[^chapVI-sec1-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^chapVI-secI-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### I. Apertura della procedura
 
@@ -839,7 +891,7 @@ In applicazione dell’articolo 105 capoverso 3 della legge sulla navigazione ma
 
 <sup>4</sup> Le spese del procedimento, incluse quelle concernenti il commissario, sono a carico dell’armatore.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 2. Effetti dell’apertura del procedimento
 
@@ -851,7 +903,7 @@ In applicazione dell’articolo 105 capoverso 3 della legge sulla navigazione ma
 
 <sup>3</sup> Avvenuta la costituzione dei fondi di limitazione e anticipate le spese del procedimento, sono revocati d’ufficio i sequestri e i pignoramenti eseguiti per crediti a cui si riferisce il procedimento, in quanto non abbia ancora avuto luogo alcuna realizzazione.[^46-1]
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 3. Il commissario
 
@@ -863,7 +915,7 @@ In applicazione dell’articolo 105 capoverso 3 della legge sulla navigazione ma
 
 <sup>3</sup> Le comunicazioni e le ingiunzioni dirette dal commissario ai creditori sono effettuate mediante lettera raccomandata. Qualora il domicilio di un creditore sia ignoto o non possa aver luogo una notificazione a mezzo posta, si provvede a una notificazione pubblica nel *Foglio ufficiale svizzero di commercio,* nonchè, al caso, in organi di pubblicazione stranieri. Qualora un creditore risieda all’estero a un indirizzo sconosciuto, il commissario comunica la notificazione pubblicata alla rappresentanza diplomatica o consolare dello Stato interessato.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^47-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 ### 4. Comunicazioni ai creditori
@@ -887,15 +939,15 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>3</sup> Su domanda dell’armatore, il commissario, in una pubblica grida, deve diffidare anche gli altri creditori, sconosciuti all’armatore o non designati da lui, ad insinuare i loro crediti, che devono essere soddisfatti con un fondo di limitazione, entro il termine previsto nel capoverso 2 lettera e, corredandoli dei mezzi di prova.[^48-3]
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^48-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^48-3]: Introdotto dal n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^48-3]: Introdotto dalla cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### II. Determinazione dei fondi di limitazione****
+### II. Determinazione dei fondi di limitazione
 
-[^chapVI-sec1-lvlII-1]
+[^chapVI-secI-lvlII-1]
 
-[^chapVI-sec1-lvlII-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlII-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 1. Determinazione da parte del giudice su domanda del creditore
 
@@ -907,15 +959,15 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>3</sup> Determinando un fondo di limitazione più elevato, il giudice stabilisce contemporaneamente la modalità e il termine della prestazione.[^49-3]
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^49-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^49-3]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^49-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^49-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 2. Modalità della costituzione e computo dei fondi di limitazione****
+### 2. Modalità della costituzione e computo dei fondi di limitazione
 
-[^chapVI-sec1-lvlII-lvl2-1]
+[^chapVI-secI-lvlII-lvl2-1]
 
-[^chapVI-sec1-lvlII-lvl2-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlII-lvl2-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 #### Art. 50
 
@@ -925,14 +977,14 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>3</sup> Qualora le norme del diritto straniero applicabile limitino la responsabilità dell’armatore al valore della nave o dispongano la responsabilità della sola nave, agli effetti del procedimento in Svizzera deve essere determinato il valore della nave e depositato il suo ammontare.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^50-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^50-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 3. Diritto ai fondi di limitazione****
+### 3. Diritto ai fondi di limitazione
 
-[^chapVI-sec1-lvlII-lvl3-1]
+[^chapVI-secI-lvlII-lvl3-1]
 
-[^chapVI-sec1-lvlII-lvl3-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlII-lvl3-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 #### Art. 51
 
@@ -942,7 +994,7 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>2</sup> Il fallimento dell’armatore dopo la costituzione di un fondo di limitazione o l’introduzione da parte sua di una procedura concordataria non incidono sullo svolgimento del procedimento di limitazione della responsabilità.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### III. Verificazione dei crediti
 
@@ -958,8 +1010,8 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>4</sup> Il creditore, il cui credito è sottoposto al procedimento, non è con ciò privato del diritto di far valere la responsabilità illimitata dell’armatore per colpa propria.[^52-2]
 
-[^52-1]: Introdotto dal n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^52-2]: Originario cpv. 3. Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^52-1]: Introdotto dalla cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^52-2]: Originario cpv. 3. Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### 2. Scadenza e computo dei crediti
 
@@ -969,7 +1021,7 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>2</sup> I crediti in valuta straniera sono convertiti in franchi svizzeri al corso vigente il giorno dell’apertura del procedimento.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 3. Graduazione dei crediti
 
@@ -979,7 +1031,7 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>2</sup> Lo stato di graduazione è depositato per sessanta giorni presso il tribunale, dove può esserne presa visione. Il commissario rende noto l’avvenuto deposito pubblicando l’avviso nel *Foglio ufficiale svizzero di commercio;* egli comunica copia dello stato di graduazione a ciascun creditore, indicandogli la data del deposito.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 4. Opposizioni
 
@@ -993,9 +1045,9 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>4</sup> La sentenza che decide dell’opposizione è vincolante nei confronti dell’armatore e di tutti i creditori partecipanti al procedimento.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^55-2]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^55-3]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^55-2]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^55-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 5. Crediti ritirati o non insinuati
 
@@ -1017,15 +1069,15 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>3</sup> Se il creditore, nei confronti del quale avviene la compensazione, si oppone alle pretese dell’armatore, il commissario deve depositare giudizialmente, perché venga assegnato all’avente diritto, il dividendo conteso.
 
-[^57-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^57-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^57-3]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^57-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^57-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^57-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### IV. Ripartizione dei fondi di limitazione****
+### IV. Ripartizione dei fondi di limitazione
 
-[^chapVI-sec1-lvlIV-1]
+[^chapVI-secI-lvlIV-1]
 
-[^chapVI-sec1-lvlIV-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlIV-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 1. Stato di ripartizione
 
@@ -1037,7 +1089,7 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>3</sup> Un eventuale reclamo contro lo stato di ripartizione deve essere proposto entro il termine del suo deposito.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 2. Pagamento ai creditori
 
@@ -1057,7 +1109,7 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>2</sup> L’armatore può invocare la limitazione legale della responsabilità per un credito anche fuori di questo procedimento, tenendo però conto che egli non fruirà dei vantaggi particolari offerti dalla costituzione dei fondi di limitazione.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### V. Chiusura o sospensione del procedimento
 
@@ -1069,9 +1121,9 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 <sup>2</sup> Qualora l’armatore non costituisca, nel termine assegnatogli, i fondi di limitazione da lui proposti o determinati dal giudice e non provveda all’anticipazione delle spese, il giudice sospende il procedimento. Il commissario notifica la sospensione ai creditori già informati del procedimento. Se un fondo di limitazione era già stato parzialmente costituito, quanto rimane, dedotte le spese sopportate, è restituito all’armatore.[^61-3]
 
-[^61-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^61-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^61-3]: Nuovo testo giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^61-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^61-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^61-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### VI. Procedimenti simultanei all’estero
 
@@ -1081,16 +1133,16 @@ La comunicazione o la notificazione pubblica del commissario deve contenere:
 
 Qualora l’armatore venga contemporaneamente escusso all’estero per crediti inclusi in un procedimento aperto in Svizzera, il giudice, a richiesta dell’armatore, deve prendere le misure e le disposizioni necessarie per attuare la limitazione della sua responsabilità e per soddisfare uniformemente i creditori. Il giudice può, in particolare, ridurre un fondo di limitazione o attribuire all’armatore il dividendo spettante a un creditore, in quanto questi venga soddisfatto all’estero.[^62-2]
 
-[^62-1]: Nuovo testo giusta il n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^62-2]: Nuovo testo del per. 2 giusta il n. I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^62-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^62-2]: Nuovo testo del per. 2 giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### Sezione II. Omologazione giudiziale del regolamento d’avaria comune
 
-### I.**** Diritto applicabile
+### I. Diritto applicabile
 
-[^chapVI-sec2-lvlI-1]
+[^chapVI-secII-lvlI-1]
 
-[^chapVI-sec2-lvlI-1]: Introdotto dal n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapVI-secII-lvlI-1]: Introdotto dalla cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 63
 
@@ -1098,11 +1150,11 @@ In caso di avaria comune sono applicabili le regole di York e di Anversa nel ten
 
 [^63-1]: [RU 1993 2284](https://fedlex.data.admin.ch/eli/oc/1993/2284_2284_2284)
 
-### II. Attuazione del regolamento d’avaria****
+### II. Attuazione del regolamento d’avaria
 
-[^chapVI-sec2-lvlII-1]
+[^chapVI-secII-lvlII-1]
 
-[^chapVI-sec2-lvlII-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapVI-secII-lvlII-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 63a
 
@@ -1118,11 +1170,11 @@ In caso di avaria comune sono applicabili le regole di York e di Anversa nel ten
 
 [^63a-1]: Originario art. 63.
 
-### III. Omologazione del regolamento d’avaria comune****
+### III. Omologazione del regolamento d’avaria comune
 
-[^chapVI-sec2-lvlIII-1]
+[^chapVI-secII-lvlIII-1]
 
-[^chapVI-sec2-lvlIII-1]: Nuovo testo giusta il n. I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapVI-secII-lvlIII-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 ### 1. Domanda degli interessati
 
@@ -1136,7 +1188,7 @@ In caso di avaria comune sono applicabili le regole di York e di Anversa nel ten
 
 <sup>4</sup> Alle autorità svizzere spetta la competenza di omologare il regolamento d’avaria, se quest’ultimo è stato compilato in Svizzera oppure se l’interessato al regolamento d’avaria, tanto come richiedente quanto come convenuto, ha il domicilio in Svizzera.[^64-1]
 
-[^64-1]: Introdotto dal n. I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^64-1]: Introdotto dalla cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### 2. Componimento amichevole delle opposizioni
 
@@ -1193,7 +1245,7 @@ In caso di avaria comune sono applicabili le regole di York e di Anversa nel ten
 <sup>2</sup> Il termine «armatore», usato per il procedimento di limitazione della responsabilità mediante la costituzione di fondi di limitazione, è applicabile per analogia a qualsiasi persona che, conformemente agli articoli 49 e 126 capoverso 2 della legge sulla navigazione marittima e alle convenzioni internazionali ivi menzionate, può invocare la limitazione della responsabilità.[^70-2]
 
 [^70-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^70-2]: Nuovo testo giusta il n. I dell’O del 3 set. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2186](https://fedlex.data.admin.ch/eli/oc/1997/2186_2186_2186)).
+[^70-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2186](https://fedlex.data.admin.ch/eli/oc/1997/2186_2186_2186)).
 
 ### II. Autorità giudiziarie competenti
 
@@ -1213,11 +1265,11 @@ In caso di avaria comune sono applicabili le regole di York e di Anversa nel ten
 
 <sup>2</sup> Sono osservati i termini processuali, qualora entro il termine stabilito per agire in giudizio, sia stato stipulato il compromesso in arbitri, l’attore abbia proceduto alla nomina del suo arbitro e il convenuto sia stato invitato a nominare il proprio oppure abbia chiesto la designazione di un arbitro unico. Decorre da tale momento un nuovo termine di trenta giorni, entro il quale la domanda deve essere presentata al tribunale arbitrale in difetto di che, si reputa scaduto il termine per agire.
 
-## Capo VII****. Disposizioni finali
+## Capo VII. Disposizioni finali
 
-[^sec7-1]
+[^chapVII-1]
 
-[^sec7-1]: Originario cap. VI.
+[^chapVII-1]: Originario Cap. VI.
 
 ### Entrata in vigore
 
@@ -1229,27 +1281,27 @@ Allegato I
 
 (art. 9 cpv. 1)
 
-## Regole per prevenire gli abbordi in mare****
+## Regole per prevenire gli abbordi in mare
 
 [^annexI-lvlu1-1]
 
 [^annexI-lvlu1-1]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
 
-Allegato II*[^t-2]*
+Allegato II[^t-2]
 
 (art. 13)
 
-[^t-2]: Abrogato dal n. II cpv. 1 dell’O del 20 feb. 2013, con effetto dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^t-2]: Abrogato dalla cifra II cpv. 1 dell’O del 20 feb. 2013, con effetto dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
-Allegato III*[^t-3]*
+Allegato III[^t-3]
 
 (art. 42)
 
-## Contratto tipo per l’assicurazione degli equipaggi delle navi marittime****
+## Contratto tipo per l’assicurazione degli equipaggi delle navi marittime
 
 [^annexIII-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^t-3]: Aggiornato dalla cifra II cpv. 2 dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 [^annexIII-lvlu1-1]: [RU 1965 1013](https://fedlex.data.admin.ch/eli/oc/1965/1015_1027_1013)
 
 Approvato dal Consiglio federale il 23 novembre 1965
@@ -1331,7 +1383,7 @@ In deroga:
 - c. agli articoli 84 a 87 della LAMI[^annexIII-lvlu1-lvlB-lvlI-6-4], la rendita della vedova o del vedovo ammonta al 40 per cento, la rendita d’orfano semplice al 20 per cento, la rendita d’orfano doppio al 35 per cento e le rendite degli ascendenti e dei fratelli e sorelle insieme al 25 per cento del salario preso in considerazione conformemente alla lettera d. Le rendite ai superstiti non possono, in totale, superare il 90 per cento di tale salario;
 - d. agli articoli 74 capoverso 2, e 78 della LAMI[^annexIII-lvlu1-lvlB-lvlI-6-5], si considera salario solo la mercede di base, cui vanno aggiunti gli importi da dichiarare all’assicurazione vecchiaia e superstiti (detta qui di seguito «AVS») per il mantenimento e l’alloggio, fino a concorrenza dell’importo massimo del guadagno annuale valido per l’assicurazione contro gli infortuni obbligatoria.
 
-[^annexIII-lvlu1-lvlB-lvlI-6-1]: [CS **8** 273; CS **2** 193 in fine n. II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114, [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)allegato n. 37, **1995** 511, **1998** 3125 allegato n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)allegato n. 1]. Vedi ora la LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^annexIII-lvlu1-lvlB-lvlI-6-1]: [CS **8** 273; CS **2** 193 in fine cifra II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I n. 611; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511); [1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125)all. n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]. Vedi ora la LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
 [^annexIII-lvlu1-lvlB-lvlI-6-2]: Ora: agli art. 16 e 17 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
 [^annexIII-lvlu1-lvlB-lvlI-6-3]: Ora: all’art. 20 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
 [^annexIII-lvlu1-lvlB-lvlI-6-4]: Ora: agli art. 28 a 33 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
@@ -1351,7 +1403,7 @@ Le prestazioni sono le seguenti:
 <tr><td>Inoltre:</td><td>rimborso dell’80 per cento delle spese di cura fino a concorrenza di 8000 franchi per caso; la partecipazione alle spese da parte del componente dell’equipaggio non deve tuttavia essere superiore alla metà d’una retribuzione base mensile.</td></tr>
 </table>
 
-[^annexIII-lvlu1-lvlB-lvlII-7-1]: Nuovo testo giusta il n. I dell’O dell 10 dic. 1973, in vigore dal 1° gen. 1974 ([RU 1974 73](https://fedlex.data.admin.ch/eli/oc/1974/73_73_73)).
+[^annexIII-lvlu1-lvlB-lvlII-7-1]: Nuovo testo giusta la cifra I dell’O dell 10 dic. 1973, in vigore dal 1° gen. 1974 ([RU 1974 73](https://fedlex.data.admin.ch/eli/oc/1974/73_73_73)).
 
 #### Art. 8
 
@@ -1413,7 +1465,7 @@ Valgono inoltre le disposizioni della legge federale del 2 aprile 1908[^annexIII
 
 [^annexIII-lvlu1-lvlD-16-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
 
-Allegato IV*[^t-4]*
+Allegato IV[^t-4]
 
 (art. 63)
 
@@ -1423,87 +1475,83 @@ Allegato IV*[^t-4]*
 
 Stabilite dal Comitato marittimo internazionale (Conferenza di Amburgo 1974)
 
-### *Regole di interpretazione*
+**Regole di interpretazione**
 
 Nel regolamento di avaria comune devono essere applicate le regole seguenti, distinte con lettere e numeri, a esclusione di qualsiasi norma di legge o di qualsiasi uso con esse incompatibile.
 
 Salvo quanto disposto nelle regole distinte con numeri, l’avaria comune deve essere regolata secondo le regole distinte con lettere.
 
-### *Regola A*
+**Regola A**
 
 Si ha un atto di avaria comune quando, e soltanto quando, volontariamente e ragionevolmente, un sacrificio straordinario o una spesa straordinaria siano fatti per la comune salvezza, allo scopo di preservare da un pericolo i beni impegnati in una spedizione marittima comune.
 
-### *Regola B*
+**Regola B**
 
 I sacrifici e le spese di avaria comune debbono essere sopportati dai vari interessi che, secondo le norme qui di seguito determinate, sono chiamati a contribuire.
 
-### *Regola C*
+**Regola C**
 
 Solo i danni, le perdite e le spese direttamente causati dall’avaria comune sono ammessi in avaria comune.
 
 La perdita o il danno subìti dalla nave o dal carico in seguito a ritardo sia nel viaggio, sia successivamente (quale il periodo di controstallìa) e ogni qualsiasi perdita indiretta (quale una svalutazione di mercato) non sono ammessi in avaria comune.
 
-### *Regola D*
+**Regola D**
 
 Qualora l’evento che ha cagionato il sacrificio o la spesa sia dovuto a colpa di una delle parti interessate nella spedizione, la contribuzione ha luogo, ma restano salve le azioni e le difese che possono concernere parte in colpa.
 
-### *Regola E*
+**Regola E**
 
 L’onere della prova che la perdita o la spesa reclamata sono da ammettere in avaria comune, incombe alla parte che reclama la contribuzione.
 
-### *Regola F*
+**Regola F**
 
 Qualsiasi spesa suppletiva incorsa in luogo o vece di un’altra spesa che sarebbe stata ammissibile in avaria comune deve essere considerata avaria comune e come tale ammessa, senza tener conto dell’eventuale economia realizzata per gli altri interessi, ma soltanto fino all’ammontare dell’evitata spesa di avaria comune.
 
-### *Regola G*
+**Regola G**
 
 Il regolamento d’avaria comune dev’essere fatto, tanto per le perdite quanto per le contribuzioni, sulla base dei valori correnti nel momento e nel luogo in cui ha termine la spedizione.
 
 Questa regola non deve influenzare la determinazione del luogo in cui il regolamento di avaria deve essere fatto.
 
-### *Regola IGetto del carico*
+**Regola I Getto del carico**
 
 Il getto del carico deve essere ammesso in avaria comune soltanto nel caso in cui questo sia stato trasportato in conformità degli usi commerciali riconosciuti.
 
-### Regola IIDanno derivante dal getto del carico e dal sacrificio per la comune salvezza
+**Regola II Danno derivante dal getto del carico e dal sacrificio per la comune salvezza**
 
 Il danno arrecato alla nave e al carico, o a uno di essi, da, o in conseguenza di un sacrificio fatto per la comune salvezza, o dall’acqua introdottasi nella nave dai boccaporti aperti o da qualsiasi altra apertura praticata allo scopo di fare un getto per la comune salvezza, è considerato avaria comune.
 
-### *Regola IIIEstinzione di incendio a bordo*
+**Regola III Estinzione di incendio a bordo**
 
 Il danno arrecato alla nave e al carico, o a uno di essi, dall’acqua o altrimenti, compreso il danno nel fare arenare o affondare una nave in fiamme, allo scopo di estinguere il fuoco a bordo, è considerato avaria comune. Tuttavia, nessun compenso è accordato per danni cagionati dal fumo o dal calore, indipendentemente dalla causa.
 
-### *Regola IVTaglio dei relitti*
+**Regola IV Taglio dei relitti**
 
 La perdita o il danno sopportati con il taglio di relitti o di parti della nave, asportate o effettivamente perdute in accidenti di mare, non sono considerati avaria comune.
 
-### *Regola VArenamento volontario*
+**Regola V Arenamento volontario**
 
 Quando una nave viene deliberatamente fatta arenare per la comune salvezza, indipendentemente se essa sarebbe o no stata trascinata a riva, le perdite o i danni risultanti sono considerati avaria comune.
 
-### *Regola VI**Assistenza*
-
-[^annexIV-lvlu1-lvlu14-1]
-
-[^annexIV-lvlu1-lvlu14-1]: Modificata dal Comitato marittimo internazionale (Conferenza di Parigi 1990).
+**Regola VI[^annexIV-lvlu1-1] Assistenza**
 
 - a) Le spese incorse per l’assistenza delle parti intervenute, sia per contratto sia altrimenti, sono considerate avaria comune nella misura in cui le operazioni di assistenza abbiano perseguito lo scopo di preservare da pericoli le proprietà impegnate in un’operazione marittima comune.
 - Le spese considerate avaria comune includono qualsiasi rimunerazione di assistenza per la cui fissazione sono calcolate l’abilità e gli sforzi degli assistenti per prevenire o limitare i danni all’ambiente, come enunciati nell’articolo 13 capoverso 1 lettera b della Convenzione Internazionale del 1989 sull’assistenza.
 - b) L’indennità speciale dovuta all’assistente da parte dell’armatore, ai sensi dell’articolo 14 della Convenzione citata, alle condizioni stabilite dal paragrafo 4 del detto articolo o di qualsiasi altra disposizione di analoga portata, non sarà considerata avaria comune.
 
-### *Regola VII**Danno alle macchine e alle caldaie*
+**Regola VII Danno alle macchine e alle caldaie**
 
 Il danno causato alle macchine e alle caldaie di una nave che è arenata e in posizione di pericolo, negli sforzi per farla rigalleggiare, è compreso nell’avaria comune quando sia provato che esso deriva dall’effettiva intenzione di far galleggiare la nave per la comune salvezza con rischio di tale danno. Trattandosi invece di nave galleggiante (non incagliata), nessuna perdita o danno causato dal funzionamento dell’apparecchio di propulsione e dalle caldaie può, in nessuna circostanza, essere considerato avaria comune.
 
-### *Regola VIII**Spese e danni incontrati per alleggerire una nave arenata*
+**Regola VIII Spese e danni incontrati per alleggerire una nave arenata**
 
 Quando una nave sia arenata e il carico e il combustibile e le provviste della nave, o uno di essi, siano scaricati in circostanze tali che il provvedimento costituisca un atto di avaria comune, il costo straordinario di alleggerimento, il fitto dei mezzi di alleggio, le spese di ricaricazione incorse e i conseguenti danni e perdite sostenuti sono considerati avaria comune.
 
-### *Regola IX**Materiali di bordo e provviste consumate per combustibile*
+**Regola IX Materiali di bordo e provviste consumate per combustibile**
 
 Gli oggetti di bordo e le provviste, o uno di essi, necessariamente consumati come combustibile per la comune salvezza in un momento di pericolo, sono considerati avaria comune soltanto quando sia stata fatta una larga provvista di combustibile. Ma la quantità di combustibile che, secondo valutazione, si sarebbe consumata, calcolata in base al prezzo corrente nell’ultimo porto di partenza della nave e alla data della sua partenza, è accreditata in avaria comune.
 
-### *Regola X**Spese nel porto di rilascio, ecc.*
+**Regola X Spese nel porto di rilascio, ecc.**
 
 - a) Qualora una nave sia entrata in un porto o in luogo di rilascio o abbia fatto ritorno al porto o luogo di caricazione in conseguenza di sinistro, sacrificio o altri avvenimenti straordinari che abbiano reso quanto sopra necessario per la comune salvezza, le spese di entrata in tale porto o in tale luogo sono considerate come avaria comune. Qualora la nave sia partita da questo porto o luogo con il suo carico originale o con parte di esso, le corrispondenti spese di partenza da tale porto o luogo conseguenti alla predetta entrata o al predetto ritorno, sono ugualmente ammessi in avaria comune.
 - Quando una nave è in porto o in luogo di rifugio e viene necessariamente trasferita in un altro porto o luogo perché le riparazioni non possono essere effettuate nel primo porto o luogo, le disposizioni di questa regola sono applicate al secondo porto o luogo come se questo fosse un porto o luogo di rifugio e il costo del trasferimento, comprese le riparazioni provvisorie e la rimorchiatura, è considerato avaria comune.
@@ -1513,7 +1561,7 @@ Gli oggetti di bordo e le provviste, o uno di essi, necessariamente consumati co
 - c) Ogni qualvolta le spese di manutenzione o di scaricazione del carico, del combustibile, o delle provviste siano considerate come avaria comune, le spese del loro magazzinaggio (inclusa l’assicurazione, se ragionevolmente stipulata), della loro ricaricazione e del loro stivaggio sono ugualmente considerate avaria comune.
 - Ma qualora la nave sia dichiarata innavigabile o non prosegua nel suo viaggio originario, le spese di magazzinaggio sono considerate avaria comune solo fino alla data della dichiarazione di innavigabilità o dell’abbandono del viaggio oppure fino alla data del completamento della discarica nel caso d’innavigabilità della nave o l’abbandono del viaggio prima di questa data.
 
-### *Regola XI**Retribuzione e mantenimento dell’equipaggio e altre spese sost**e**nute nel porto di rilascio e per raggiungere questo, ecc.*
+**Regola XI Retribuzione e mantenimento dell’equipaggio e altre spese sostenute nel porto di rilascio e per raggiungere questo, ecc.**
 
 - a) Le spese di retribuzione e di mantenimento del capitano, degli ufficiali e dell’equipaggio ragionevolmente sostenute, come pure il combustibile e le provviste consumate durante il prolungamento del viaggio causato dal fatto che la nave sia entrata in un porto o luogo di rilascio oppure sia ritornata nel porto o luogo di caricazione, sono considerati avaria comune quando le spese di entrata in questo porto o luogo siano computabili in avaria comune ai sensi della regola X a).
 - b) Quando, in conseguenza di sinistro, sacrificio o altro evento straordinario, le esigenze della comune salvezza o delle riparazioni (essenziali alla sicura prosecuzione del viaggio) dei danni subìti hanno costretto una nave a entrare o a trattenersi in un porto, le spese per la retribuzione e il mantenimento del capitano, degli ufficiali e dell’equipaggio ragionevolmente sostenute durante il periodo straordinario di permanenza in detto porto o luogo fintanto che la nave sia o dovrebbe essere pronta a proseguire il viaggio, sono considerate avaria comune.
@@ -1524,11 +1572,11 @@ Gli oggetti di bordo e le provviste, o uno di essi, necessariamente consumati co
 - c) Agli effetti di questa e di altre regole, le retribuzioni comprendono tutti i pagamenti fatti al capitano, agli ufficiali e all’equipaggio o a loro vantaggio, sia che i pagamenti stessi siano imposti agli armatori dalla legge, sia che vengano effettuati in esecuzione delle clausole del contratto di lavoro.
 - d) Nel caso che si corrisponda compenso per lavoro supplementare al capitano, agli ufficiali o all’equipaggio per la manutenzione della nave o per le sue riparazioni, il costo di questi compensi non è ammesso in avaria comune. Questi compensi per lavoro supplementare sono ammessi in avaria comune soltanto nei limiti del risparmio delle spese che si sarebbero dovute sostenere e ammettere in avaria, se il lavoro straordinario di cui sopra non fosse stato effettuato.
 
-### *Regola XII**Danni causati al carico nella scaricazione, ecc.*
+**Regola XII Danni causati al carico nella scaricazione, ecc.**
 
 Il danno causato al carico, al combustibile e alle provviste e la loro perdita durante le operazioni di manutenzione, di discarica, di magazzinaggio, di ricaricazione e di stivaggio sono ammessi in avaria comune solo quando il costo di queste operazioni sia rispettivamente ammesso alla contribuzione come avaria comune.
 
-### *Regola XIII**Deduzioni delle spese di riparazione*
+**Regola XIII Deduzioni delle spese di riparazione**
 
 Le riparazioni da considerarsi avaria comune non soggiacciono alle deduzioni per differenza fra il «vecchio» e il «nuovo» quando il vecchio materiale viene totalmente o parzialmente sostituito da materiale nuovo a meno che la nave abbia più di quindici anni; in siffatto caso la deduzione è pari a un terzo.
 
@@ -1542,7 +1590,7 @@ I diritti di bacino e di scali di alaggio e le spese di spostamento della nave s
 
 Le spese di pulitura, pitturazione o verniciatura della carena non sono considerate avaria comune, a meno che la carena sia stata pitturata o verniciata nei dodici mesi precedenti la data dell’atto d’avaria comune. In siffatto caso, queste spese sono considerate per la metà.
 
-### *Regola XIV**Riparazioni provvisorie*
+**Regola XIV Riparazioni provvisorie**
 
 Se vengono eseguite riparazioni provvisorie a una nave in un porto di caricazione, di scalo o di rilascio per la salvezza comune oppure riparazioni provvisorie di avarie causate da un sacrificio di avaria comune, il costo di queste riparazioni è considerato avaria comune.
 
@@ -1550,19 +1598,19 @@ Se riparazioni provvisorie di avarie conseguenti da sinistro siano state eseguit
 
 Non è fatta alcuna deduzione fra «nuovo e vecchio» dal costo delle riparazioni provvisorie dei danni da ammettersi in avaria comune.
 
-### *Regola XV**Perdita di nolo*
+**Regola XV Perdita di nolo**
 
 La perdita di nolo derivante da danno o perdita del carico è ammessa in avaria comune, sia quando venga causata da un provvedimento costituente avaria comune, sia quando il danno o la perdita del carico siano ammessi alla contribuzione.
 
 Dall’ammontare del nolo lordo perduto sono dedotte le spese che il proprietario di esso nolo avrebbe incontrato per guadagnarlo ma che non ha effettivamente incontrato in conseguenza del sacrificio di avaria comune.
 
-### *Regola XVI**Valutazione del carico perduto o danneggiato per sacrificio*
+**Regola XVI Valutazione del carico perduto o danneggiato per sacrificio**
 
 La somma da considerare avaria comune per danno o perdita di carico sacrificato equivale al valore della perdita subìta, calcolato sulla base del prezzo al momento dello scarico, verificato secondo la fattura commerciale consegnata al destinatario oppure, se manca la fattura, secondo il valore imbarcato. Il prezzo al momento dello scarico comprende i costi d’assicurazione e di noleggio, salvo se quest’ultimo non è a rischio del carico.
 
 Qualora la merce così danneggiata sia venduta e l’ammontare del danno non sia stato altrimenti determinato, la perdita da considerare come avaria comune è data dalla differenza fra il ricavo netto della vendita e il valore netto allo stato inalterato, sul fondamento del calcolo secondo il primo paragrafo della presente regola.
 
-### *Regola XVII**Valore contribuente*
+**Regola XVII Valore contribuente**
 
 La contribuzione in avaria comune è calcolata sul valore netto effettivo delle proprietà alla fine del viaggio, salvo il valore del carico, che corrisponde al prezzo al momento della discarica, verificato secondo la fattura commerciale consegnata al destinatario oppure, se manca una tale fattura, secondo il valore imbarcato. Il valore del carico comprende le spese d’assicurazione e di noleggio, purché il noleggio non sia a rischio del carico previa deduzione delle perdite o dei danni subìti dal carico prima o dopo la discarica. Il valore della nave è valutato senza tener conto dei vantaggi o degli svantaggi del noleggio a viaggio o a tempo, cui può essere subordinata la nave.
 
@@ -1572,7 +1620,7 @@ Un carico, se è venduto in corso di viaggio, deve contribuire al ricavo netto d
 
 I bagagli dei passeggeri e gli effetti personali non imbarcati con polizza di carico sono esentati dall’obbligo di contribuire all’avaria comune.
 
-### *Regola XVIII**Danni alla nave*
+**Regola XVIII Danni alla nave**
 
 La somma considerabile avaria comune, per danno o perdita subìti dalla nave, dall’apparato motore e/o dagli attrezzi in seguito a un atto di avaria comune, è la seguente:
 
@@ -1580,22 +1628,24 @@ La somma considerabile avaria comune, per danno o perdita subìti dalla nave, da
 - b) nel caso contrario, un ragionevole deprezzamento a cagione del danno o della perdita non eccedente il costo presunto delle riparazioni.
 - Quando però vi sia perdita totale oppure qualora il costo delle riparazioni del danno superasse il valore della nave riparata, la somma considerabile avaria comune è costituita dalla differenza tra il valore di stima della nave allo stato sano, previa deduzione del costo presunto di riparazione del danno non considerabile avaria comune e il valore della nave nello stato di avaria, tenuto conto che quest’ultimo può essere eventualmente determinato dal ricavo netto della vendita.
 
-### *Regola XIX**Carico non dichiarato o dichiarazione falsa*
+**Regola XIX Carico non dichiarato o dichiarazione falsa**
 
 Le avarie o le perdite cagionate a merci caricate all’insaputa dell’armatore o del suo agente o alle merci dichiarate volutamente in modo inesatto all’atto della loro caricazione, non sono ammesse in avaria comune, ma devono contribuire all’avaria comune se salvate.
 
 Le avarie o perdite causate a merci che sono state erroneamente dichiarate all’atto dell’imbarco con un valore inferiore al loro valore reale, sono ammesse in avaria comune per il valore dichiarato, ma contribuiscono per il loro valore effettivo.
 
-### *Regola XX**Provvista di fondi*
+**Regola XX Provvista di fondi**
 
 Una commissione del 2 per cento sugli esborsi di avaria comune, eccettuati le retribuzioni e il mantenimento del capitano, degli ufficiali e dell’equipaggio, e le spese per il combustibile e le provviste non sostituite durante il viaggio, è ammessa in avaria comune; qualora i fondi non siano forniti da uno degli interessi contribuenti, le spese necessarie per ottenere i fondi richiesti a mezzo di prestito o cambio marittimo o altrimenti, o la perdita sopportata dal proprietario delle merci vendute a tal fine, sono ammesse in avaria comune.
 
 Il costo dell’assicurazione delle somme anticipate per gli esborsi di avaria comune è pure ammesso in avaria comune.
 
-### *Regola XXI**Interessi sulle perdite ammesse in avaria comune*
+**Regola XXI Interessi sulle perdite ammesse in avaria comune**
 
 Sulle spese, i sacrifici e gli anticipi imputati in avaria comune è consentito un interesse del 7 per cento all’anno fino alla data di regolamento dell’avaria comune, tenuto il debito conto di eventuali rimborsi parziali fatti nel frattempo da parti contribuenti o prelevati dal fondo di deposito per l’avaria comune.
 
-### *Regola XXIITrattamento dei depositi in contanti*
+**Regola XXII Trattamento dei depositi in contanti**
 
 Qualora siano stati costituiti depositi in contanti in relazione alla responsabilità del carico per l’avaria comune, per spese di salvataggio o speciali, tali depositi sono versati senza indugio in un conto speciale intestato congiuntamente ai nomi di un rappresentante nominato per conto dell’armatore e di un rappresentante nominato per conto dei depositanti in una banca di gradimento di ambedue. La somma così depositata, unitamente agli eventuali interessi maturati, è tenuta a garanzia del pagamento agli aventi diritto, in base all’avaria comune, delle spese di salvataggio o delle speciali spese pagabili dal carico, in vista delle quali i depositi sono stati raccolti. I pagamenti in acconto o i rimborsi di depositi possono essere effettuati, se autorizzati per iscritto dal liquidatore di avaria. Questi depositi, pagamenti o rimborsi sono effettuati senza pregiudizio per la definitiva responsabilità delle parti.
+
+[^annexIV-lvlu1-1]: Modificata dal Comitato marittimo internazionale (Conferenza di Parigi 1990).

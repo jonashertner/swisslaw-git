@@ -3,18 +3,18 @@ sr: "747.301"
 title: Ordonnance du 20 novembre 1956 sur la navigation maritime
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473"
 language: fr
-version: 2013-08-20
+version: 2025-01-01
 adopted: 1956-11-20
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20130820/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20130820-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20130820/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur la navigation maritime****
+# Ordonnance sur la navigation maritime
 
-du 20 novembre 1956 (Etat le 20 août 2013)[^t-1]
+du 20 novembre 1956 (État le 1<sup>er</sup> janvier 2025)[^t-1]
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I de l’O du 29 juin 1977, en vigueur depuis le 1<sup>er</sup> août 1977 ([RO 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
 
@@ -60,7 +60,7 @@ Au sens de la loi le terme de consulat s’applique également aux ambassades qu
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 1977, en vigueur depuis le 1<sup>er</sup> août 1977 ([RO 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
 
-### II.**** Tâches de droit civil
+### II. Tâches de droit civil
 
 [^chap1-lvlII-1]
 
@@ -70,19 +70,19 @@ Au sens de la loi le terme de consulat s’applique également aux ambassades qu
 
 Le Département fédéral de justice et police édicte les instructions nécessaires à l’exercice, par le capitaine, des tâches de droit civil qui lui sont dévolues par l’art. 56 de la loi.
 
-## Chapitre II: Du navire suisse****
+## Chapitre II: Du navire suisse
 
 [^chapII-1]
 
 [^chapII-1]: Nouvelle teneur selon le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
-### I. Conditions pour l’enregistrement de navires suisses et contrôles effectués par des organes de révision****
+### I. Conditions pour l’enregistrement de navires suisses et contrôles effectués par des organes de révision
 
 [^chapII-lvlI-1]
 
 [^chapII-lvlI-1]: Nouvelle teneur selon le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
-### 1. Conditions générales****
+### 1. Conditions générales
 
 [^chapII-lvlI-lvl1-1]
 
@@ -92,54 +92,40 @@ Le Département fédéral de justice et police édicte les instructions nécessa
 
 [^5-1]
 
-Un navire n’est enregistré dans le registre des navires suisses que si toutes les conditions prévues par la loi et par la présente ordonnance sont remplies.
+<sup>1</sup> Les navires des entreprises telles que définies à l’art. 19 de la loi ne sont enregistrés dans le registre des navires suisses que si toutes les conditions prévues par la loi et par la présente ordonnance sont remplies.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+<sup>2</sup> Sauf dispositions contraires de la loi ou de la présente ordonnance, les dispositions du code des obligations[^5-2] relatives à la représentation des entreprises telles que définies à l’art. 19 de la loi s’appliquent.
 
-### 2.**** Domicile ou siège
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^5-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-[^chapII-lvlI-lvl2-1]
-
-[^chapII-lvlI-lvl2-1]: Introduit par le ch. I de l’O du 5 mai 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Nouvelle teneur selon le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 15 nov. 1995 ([RO 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+### 2. …
 
 #### Art. 5a
 
-Doivent avoir leur domicile ou leur siège en Suisse:
+[^5a-1]
 
-- a. le propriétaire d’une entreprise individuelle;
-- b. les trois quarts au moins des associés ou des autres bénéficiaires de parts d’une société en nom collectif, en commandite ou à responsabilité limitée, qui disposent des trois quarts au moins de l’actif social, de la commandite ou du capital social;
-- c. les actionnaires d’une société anonyme ou d’une société en commandite par actions, qui disposent de la majorité, au moins, du capital-actions et d’au moins deux tiers des voix;
-- d. les deux tiers au moins des associés d’une société coopérative, qui disposent en même temps d’au moins deux tiers des parts du capital social.
+[^5a-1]: Introduit par le ch. I de l’O du 5 mai 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Abrogé par le ch. I de l’O du 9 oct. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-### 3.**** Nationalité et contrôle
-
-[^chapII-lvlI-lvl3-1]
-
-[^chapII-lvlI-lvl3-1]: Introduit par le ch. I de l’O du 5 mai 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Nouvelle teneur selon le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 15 nov. 1995 ([RO 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+### 3. …
 
 #### Art. 5b
 
-<sup>1</sup> Les personnes physiques mentionnées à l’art. 5*a* doivent être des ressortissants suisses.
+[^5b-1]
 
-<sup>2</sup> Si une société commerciale ou une personne morale a des intérêts dans l’entreprise du propriétaire suisse du navire à titre d’associé, de commanditaire, d’actionnaire ou de porteur de parts ou si elle a des droits sur ladite entreprise en qualité d’usufruitier ou à un autre titre, elle doit avoir un caractère indubitablement suisse par ses associés, commanditaires, actionnaires, porteurs de parts ou membres, par les personnes chargées de l’administration, de même que par ses moyens financiers.
+[^5b-1]: Introduit par le ch. I de l’O du 5 mai 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Abrogé par le ch. I de l’O du 9 oct. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-<sup>3</sup> Si le maintien du caractère suisse de l’entreprise l’exige, l’Office suisse de la navigation maritime peut exiger que les actionnaires ou les associés qui apportent les fonds propres nécessaires de l’entreprise en vertu de l’art. 24 de la loi, soient des ressortissants suisses domiciliés en Suisse ou des sociétés commerciales ou des personnes morales en mains suisses au sens de l’al. 2.
-
-### 4.**** Administration et direction
+### 4. Administration
 
 [^chapII-lvlI-lvl4-1]
 
-[^chapII-lvlI-lvl4-1]: Introduit par le ch. I de l’O du 5 mai 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Nouvelle teneur selon le ch. I de l’O du 25 oct. 1995, en vigueur depuis le 15 nov. 1995 ([RO 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+[^chapII-lvlI-lvl4-1]: Introduit par le ch. I de l’O du 5 mai 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 #### Art. 5c
 
-<sup>1</sup> Les deux tiers au moins des membres des organes d’administration et de direction d’une société anonyme, en commandite par actions, à responsabilité limitée ou coopérative doivent être des ressortissants suisses.
+Les entreprises telles que définies à l’art. 19 de la loi doivent avoir leur administration effective en Suisse.
 
-<sup>2</sup> Lorsqu’une seule personne est chargée de l’administration ou de la direction, elle doit avoir son domicile en Suisse. Si l’un de ces organes comprend plusieurs membres, la majorité des membres de chacun d’eux doivent avoir leur domicile en Suisse.
-
-<sup>3</sup> Si le maintien du caractère suisse de l’entreprise l’exige, l’Office suisse de la navigation maritime peut exiger que d’autres personnalités dirigeantes d’une société soient des ressortissants suisses domiciliés en Suisse.
-
-### 5.**** Moyens financiers
+### 5. Moyens financiers
 
 [^chapII-lvlI-lvl5-1]
 
@@ -147,22 +133,19 @@ Doivent avoir leur domicile ou leur siège en Suisse:
 
 #### Art. 5d
 
+[^5d-1]
+
 <sup>1</sup> Le propriétaire du navire doit disposer de fonds propres représentant au moins 20 % de la valeur comptable des navires enregistrés à son nom. Pour chaque navire dont l’enregistrement est requis, le prix d’achat est considéré comme première valeur comptable.
 
-<sup>2</sup> Si les fonds propres diminuent par suite de pertes, ils ne devront jamais être inférieurs à 8 % de la valeur comptable pendant les cinq exercices annuels suivant la survenance des pertes; si des circonstances exceptionnelles le justifient, l’Office suisse de la navigation maritime peut prolonger ce délai de deux ans au plus.
+<sup>2</sup> Si les fonds propres diminuent par suite de pertes, ils ne devront jamais être inférieurs à 5 % de la valeur comptable pendant les huit exercices annuels suivant la survenance des pertes; si des circonstances exceptionnelles le justifient, l’Office suisse de la navigation maritime peut prolonger ce délai de deux ans au plus.
 
-<sup>3</sup> L’Office suisse de la navigation maritime peut, pour l’acquisition de navires, autoriser que les fonds propres restent inférieurs aux exigences de l’al. 1 s’il y a tout lieu d’espérer que dans le cadre du courant normal des affaires, les fonds propres atteindront à nouveau 20 % de la valeur comptable au cours des cinq prochaines années. Toutefois, les fonds propres ne devront jamais rester inférieurs à huit pour cent de la valeur comptable.
+<sup>3</sup> L’Office suisse de la navigation maritime peut, pour l’acquisition de navires, autoriser que les fonds propres restent inférieurs aux exigences de l’al. 1 s’il y a tout lieu d’espérer que dans le cadre du courant normal des affaires, les fonds propres atteindront à nouveau 20 % de la valeur comptable au cours des huit prochaines années. Toutefois, les fonds propres ne doivent pas être inférieurs à cinq pour cent de la valeur comptable.
 
-<sup>4</sup>
+<sup>4</sup> L’Office suisse de la navigation maritime peut exiger que le propriétaire justifie, en fournissant un certificat de financement complet, l’origine des capitaux engagés dans son navire.
 
-Le propriétaire doit justifier, en fournissant un certificat de financement complet, l’origine des capitaux engagés dans son navire. Sous réserve des dispositions du présent article, le financement intégral d’un navire suisse par des fonds étrangers est possible à la condition:
+[^5d-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-- a. Qu’il ne soit pas ainsi porté atteinte à l’influence suisse qui doit pouvoir s’exercer sur l’entreprise et la conduite du navire, et
-- b. Que les créanciers étrangers soient obligés d’accepter le remboursement imédiat de leurs fonds à la demande de l’Office suisse de la navigation maritime.
-
-<sup>5</sup> Le propriétaire doit déclarer par écrit que son entreprise ne recouvre ni dissimule aucune influence étrangère.
-
-### 6.**** Livres
+### 6. Livres
 
 [^chapII-lvlI-lvl6-1]
 
@@ -170,25 +153,29 @@ Le propriétaire doit justifier, en fournissant un certificat de financement com
 
 #### Art. 5e
 
-<sup>1</sup> Les capitaux engagés dans l’entreprise du propriétaire ou de l’armateur d’un navire suisse et grâce auxquels il exerce la navigation maritime sous pavillon suisse doivent être spécialement désignés dans le bilan et dans les livres; ils ne peuvent être passés parmi les engagements courants.
+<sup>1</sup> Les capitaux engagés dans l’entreprise du propriétaire suisse d’un navire qui sont utilisés pour le financement d’un navire doivent être spécialement désignés dans le bilan et dans les livres; ils ne peuvent être passés parmi les engagements courants.[^5e-1]
 
-<sup>2</sup> Le registre des actions, s’il s’agit d’une société anonyme, ou le registre des parts sociales, s’il s’agit d’une société coopérative, doivent indiquer le nom des actionnaires ou associés, leur domicile, leur nationalité ainsi que la nature et l’importance de leur participation.
+<sup>2</sup> …[^5e-2]
 
 <sup>3</sup>
 
 Sont considérés comme fonds propres au sens de l’art. 24, al. 1, de la loi:
 
-- a. Dans les sociétés anonymes, les sociétés en commandite par actions, les sociétés à responsabilité limitée et les sociétés coopératives;
+- a. dans les sociétés anonymes, les sociétés en commandite par actions, les sociétés à responsabilité limitée et les sociétés coopératives;
   - 1\. le capital libéré (capital-actions, capital social);
   - 2\. le capital-participation et les avoirs de chaque actionnaire, associé ou porteur de parts, jusqu’à concurrence du capital non libéré;
 
-- b. Dans les sociétés en nom collectif et en commandite: les apports de capitaux et les avoirs des associés dont la responsabilité est illimitée, ainsi que les commandites versées;
-- c. Dans les entreprises à raison individuelle: les fonds propres du propriétaire, engagés dans l’entreprise;
+- b. dans les sociétés en nom collectif et en commandite: les apports de capitaux et les avoirs des associés dont la responsabilité est illimitée, ainsi que les commandites versées;
+- c.[^5e-3] dans les entreprises individuelles: les fonds propres du propriétaire de l’entreprise;
 - d. Dans toutes les entreprises: les réserves ouvertes, y compris le report des bénéfices et les provisions qui ne sont pas destinées à couvrir des frais de l’exercice courant.
 
 <sup>4</sup> Un éventuel report des pertes est à déduire des fonds propres.
 
-### 7.**** Organe de révision
+[^5e-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^5e-2]: Abrogé par le ch. I de l’O du 9 oct. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^5e-3]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### 7. Organe de révision
 
 [^chapII-lvlI-lvl7-1]
 
@@ -206,11 +193,11 @@ Sont considérés comme fonds propres au sens de l’art. 24, al. 1, de la loi:
 
 <sup>4</sup> Le Département fédéral des affaires étrangères peut exclure du contrôle de certaines ou de toutes les entreprises de navigation suisses une entreprise de révision qui contrevient aux prescriptions de la présente ordonnance.
 
-[^5f-1]: Nouvelle teneur selon le ch. II 6 de l’annexe à l’O du 22 août 2007 sur la surveillance de la révision, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
+[^5f-1]: Nouvelle teneur selon l’annexe ch. II 6 de l’O du 22 août 2007 sur la surveillance de la révision, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
 [^5f-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^5f-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### 7*a*.**** Réserve relative à des modifications ultérieures
+### 7*a*. Réserve relative à des modifications ultérieures
 
 [^chapII-lvlI-lvl7a-1]
 
@@ -220,7 +207,7 @@ Sont considérés comme fonds propres au sens de l’art. 24, al. 1, de la loi:
 
 Si le propriétaire d’un navire ne remplit plus les conditions d’enregistrement des navires suisses suite à une modification des dispositions de la présente ordonnance, les dispositions des art. 27 à 29 de la loi s’appliquent.
 
-### 8. Armateur non propriétaire****
+### 8. Armateur non propriétaire
 
 [^chapII-lvlI-lvl8-1]
 
@@ -228,9 +215,13 @@ Si le propriétaire d’un navire ne remplit plus les conditions d’enregistrem
 
 #### Art. 6
 
-Si l’armateur n’est pas propriétaire du navire, l’Office suisse de la navigation maritime vérifie s’il remplit les conditions légales prévues pour l’armateur suisse. Toutefois, l’armateur peut, comme le propriétaire, déposer pour chaque exercice un rapport de revision d’une institution de revision reconnue, auquel cas il n’y a pas lieu à examen par l’office.
+[^6-1]
 
-### 9.**** Requête d’enregistrement
+Si l’armateur n’est pas propriétaire d’un navire, l’Office suisse de la navigation maritime vérifie s’il remplit les conditions légales prévues pour l’armateur suisse.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### 9. Requête d’enregistrement
 
 [^chapII-lvlI-lvl9-1]
 
@@ -250,16 +241,16 @@ La requête d’enregistrement d’un navire dans le registre des navires suisse
 
 <sup>2</sup>
 
-A l’appui de sa requête, le propriétaire doit:
+À l’appui de sa requête, le propriétaire doit:
 
 - a. Produire la déclaration d’état conforme, l’admission à la navigation et l’approbation du nom, délivrées pour le navire à enregistrer par l’Office suisse de la navigation maritime, ainsi que le titre de propriété;
-- b. Etablir que le navire, s’il avait été enregistré précédemment dans un autre Etat, a été radié du registre de cet Etat ou que la radiation interviendra au moment de l’enregistrement en Suisse;
-- c. Déclarer par écrit qu’il n’a pas requis et ne se propose pas de requérir l’enregistrement du navire dans le registre d’un autre Etat;
-- d. Etablir que le navire n’est grevé d’aucun droit de gage conventionnel ou, s’il en est grevé, que le créancier gagiste consent à ce que sa créance soit inscrite dans le registre des navires suisses, en francs suisses, et soumise au droit suisse et, s’il est étranger, prouver que la constitution de son droit de gage est admise conformément à l’art. 5d, al. 4.
+- b. Établir que le navire, s’il avait été enregistré précédemment dans un autre État, a été radié du registre de cet État ou que la radiation interviendra au moment de l’enregistrement en Suisse;
+- c. Déclarer par écrit qu’il n’a pas requis et ne se propose pas de requérir l’enregistrement du navire dans le registre d’un autre État;
+- d. Établir que le navire n’est grevé d’aucun droit de gage conventionnel ou, s’il en est grevé, que le créancier gagiste consent à ce que sa créance soit inscrite dans le registre des navires suisses, en francs suisses, et soumise au droit suisse et, s’il est étranger, prouver que la constitution de son droit de gage est admise conformément à l’art. 5d, al. 4.
 
 <sup>3</sup> Le propriétaire est tenu de porter, sans délai, toute modification des faits énumérés ci-dessus à la connaissance de l’Office du registre des navires suisses, lequel en informera l’Office suisse de la navigation maritime.
 
-### II. Classification des navires****
+### II. Classification des navires
 
 [^chapII-lvlII-1]
 
@@ -267,17 +258,23 @@ A l’appui de sa requête, le propriétaire doit:
 
 #### Art. 8
 
-<sup>1</sup> Les navires suisses doivent avoir la cote la plus élevée d’une société de classification reconnue par l’Office suisse de la navigation maritime.
+<sup>1</sup> Les navires suisses doivent avoir la classe commerciale d’une société de classification reconnue par l’Office suisse de la navigation maritime.[^8-1]
 
 <sup>2</sup> Sont réservés les certificats de navigabilité établis pour des voyages isolés.
 
-### III. Armement des navires et prescriptions de sécurité****
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### III. Conventions internationales
 
 [^chapII-lvlIII-1]
 
-[^chapII-lvlIII-1]: Nouvelle teneur selon le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlIII-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-### 1. Application de conventions internationales
+### 1. Application
+
+[^chapII-lvlIII-lvl1-1]
+
+[^chapII-lvlIII-lvl1-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 #### Art. 9
 
@@ -285,50 +282,58 @@ A l’appui de sa requête, le propriétaire doit:
 
 <sup>1</sup>
 
-Les conventions internationales ci-après s’appliquent dans leur teneur la plus récente aux navires suisses, à leur armement et à leur sécurité, à la sauvegarde de la vie humaine en mer et à la protection des eaux de la mer, ainsi qu’à la formation des gens de mer:
+Les conventions internationales ci-après s’appliquent dans leur teneur la plus récente aux navires suisses, à leur armement et à leur sécurité, à la sauvegarde de la vie humaine en mer et à la protection des eaux de la mer, aux conditions de travail sur les navires suisses ainsi qu’à la formation des gens de mer:[^9-2]
 
-- a. Convention internationale du 5 avril 1966[^9-2] sur les lignes de charge;
-- b. Convention internationale du 1<sup>er</sup> novembre 1974[^9-3] et protocole du 17 février 1978[^9-4] pour la sauvegarde de la vie humaine en mer;
-- c. Convention du 20 octobre 1972[^9-5] sur le règlement international pour prévenir les abordages en mer;
-- d. Règlement des radiocommunications annexé à la Convention internationale des télécommunications du 6 novembre 1982[^9-6];
-- e. Convention internationale du 2 novembre 1973 pour la prévention de la pollution par les navires au sens du protocole du 17 février 1978[^9-7];
-- f. Convention internationale du 7 juillet 1978[^9-8] sur les normes de formation des gens de mer, de délivrance des brevets et de veille;
-- g.[^9-9] Convention internationale du 30 novembre 1990[^9-10] sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures;
-- h.[^9-11] Convention du travail maritime du 23 février 2006 sur les conditions d’emploi dans la navigation en haute mer[^9-12].[^9-13]
+- a. Convention internationale du 5 avril 1966[^9-3] sur les lignes de charge;
+- b. Convention internationale du 1<sup>er</sup> novembre 1974[^9-4] et protocole du 17 février 1978[^9-5] pour la sauvegarde de la vie humaine en mer;
+- c. Convention du 20 octobre 1972[^9-6] sur le règlement international pour prévenir les abordages en mer;
+- d.[^9-7] …
+- e.[^9-8] Protocole du 17 février 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires[^9-9] et protocole du 26 septembre 1997 modifiant la Convention internationale de 1973 pour la prévention de la pollution par les navires, telle que modifiée par le protocole de 1978 y relatif[^9-10];
+- f. Convention internationale du 7 juillet 1978[^9-11] sur les normes de formation des gens de mer, de délivrance des brevets et de veille;
+- g.[^9-12] Convention internationale du 30 novembre 1990[^9-13] sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures;
+- h.[^9-14] Convention du travail maritime du 23 février 2006 sur les conditions d’emploi dans la navigation en haute mer[^9-15];
+- i.[^9-16] Convention internationale du 23 juin 1969 sur le jaugeage des navires[^9-17].[^9-18]
 
 <sup>2</sup> Les dispositions des conventions internationales mentionnées à l’al. 1 s’appliquent également aux navires suisses jaugeant moins de 500 t brutes; toutefois, l’Office suisse de la navigation maritime peut, dans des cas particuliers, accorder à ces navires des dérogations en tant que la sécurité nécessaire et la sauvegarde de la vie humaine en mer sont assurées.
 
-<sup>3</sup> Il n’est pas permis d’immerger à la mer des déchets radioactifs du bord des navires suisses.
-
-<sup>4</sup> Sont réservées les prescriptions de l’Entreprise des PTT[^9-14] relatives à l’installation et à l’exploitation d’appareils de radiotélégraphie et radiotéléphonie à bord des navires en conformité avec la convention internationale du 1<sup>er</sup> novembre 1974 et du protocole du 17 février 1978 pour la sauvegarde de la vie humaine en mer.[^9-15]
+<sup>3</sup> et <sup>4</sup> …[^9-19]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’ACF du 4 nov. 1966, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^9-2]: [RS 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
-[^9-3]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^9-4]: [RS 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
-[^9-5]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
-[^9-6]: [RS 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)**.** Seuls les ch. 422 par. 1 et 725 par. 1 du R des radiocommunications ont été publiés au RO (RS **0****.****784.403.1**).
-[^9-7]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
-[^9-8]: [RS 0.747.341.2](https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639)
-[^9-9]: Introduite par le ch. I de l’O du 9 déc. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 151](https://fedlex.data.admin.ch/eli/oc/1997/151_151_151)).
-[^9-10]: FF **1995** IV 270
-[^9-11]: Introduite par le ch. I de l’O du 20 fév. 2013, en vigueur depuis le 20 août 2013 ([RO 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^9-12]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
-[^9-13]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^9-14]: Nouvelle dénomination selon le ch. 1 de l’appendice à la loi du 21 juin 1991 sur les télécommunications, en vigueur depuis le 1<sup>er</sup> mai 1992 ([RO 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)). Il a été tenu compte de cette mod. dans tout le texte.
-[^9-15]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-3]: [RS 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
+[^9-4]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^9-5]: [RS 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
+[^9-6]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
+[^9-7]: Abrogée par le ch. I de l’O du 9 oct. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-8]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-9]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^9-10]: [RO 2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887)
+[^9-11]: [RS 0.747.341.2](https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639)
+[^9-12]: Introduite par le ch. I de l’O du 9 déc. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 151](https://fedlex.data.admin.ch/eli/oc/1997/151_151_151)).
+[^9-13]: FF **1995** IV 270
+[^9-14]: Introduite par le ch. I de l’O du 20 fév. 2013, en vigueur depuis le 20 août 2013 ([RO 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^9-15]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^9-16]: Introduite par le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-17]: [RS 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^9-18]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^9-19]: Abrogés par le ch. I de l’O du 9 oct. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ### 2. Autorité compétente et contrôle
 
 #### Art. 10
 
-<sup>1</sup> Lorsqu’une convention internationale déclarée applicable renvoie à la compétence ou aux attributions du gouvernement ou de l’administration de l’Etat dans les registres duquel le navire est enregistré, l’autorité compétente pour le navire suisse est l’Office suisse de la navigation maritime. Sont réservées les attributions de l’Entreprise des PTT relativement aux installations de radiotélégraphie et de radiotéléphonie.
+<sup>1</sup> Lorsqu’une convention internationale déclarée applicable renvoie à la compétence ou aux attributions du gouvernement ou de l’administration de l’État dans les registres duquel le navire est enregistré, l’autorité compétente pour le navire suisse est l’Office suisse de la navigation maritime. Sont réservées les attributions de l’Office fédéral de la communication (OFCOM) relativement aux installations de radiotélégraphie et de radiotéléphonie.[^10-1]
 
-<sup>2</sup> Lorsqu’une convention internationale déclarée applicable exige la possession de certificats, il y a lieu de vérifier la régularité de leur contenu dans les délais prescrits.[^10-1]
+<sup>2</sup> Lorsqu’une convention internationale déclarée applicable exige la possession de certificats, il y a lieu de vérifier la régularité de leur contenu dans les délais prescrits.[^10-2]
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 3. Moyens de chargement
+### 3. Prescriptions relatives aux moyens de chargement, y compris les inspections et les révisions
+
+[^chapII-lvlIII-lvl3-1]
+
+[^chapII-lvlIII-lvl3-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 #### Art. 11
 
@@ -343,7 +348,47 @@ Les conventions internationales ci-après s’appliquent dans leur teneur la plu
 [^11-1]: Nouvelle teneur selon le ch. I de l’ACF du 4 nov. 1966, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 [^11-2]: Cette conv. n’a pas été ratifiée par la Suisse.
 
-### IV. Composition de l’équipage****
+### 3*a*. Élimination des déchets
+
+[^chapII-lvlIII-lvl3a-1]
+
+[^chapII-lvlIII-lvl3a-1]: Introduit par le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+#### Art. 11a
+
+<sup>1</sup> Il est interdit de rejeter à la mer des déchets ou d’autres substances du bord des navires suisses.
+
+<sup>2</sup> Est réservée l’élimination de déchets liée à l’exploitation des navires conformément au Protocole du 17 février 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires[^11a-1].
+
+[^11a-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+
+### 3*b*. Incinération des déchets
+
+[^chapII-lvlIII-lvl3b-1]
+
+[^chapII-lvlIII-lvl3b-1]: Introduit par le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+#### Art. 11b
+
+<sup>1</sup> Il est interdit d’incinérer des déchets ou d’autres substances à bord des navires suisses en mer.
+
+<sup>2</sup> Est réservée l’incinération de déchets liée à l’exploitation des navires conformément au Protocole du 17 février 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires[^11b-1].
+
+[^11b-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+
+### 3*c* *.* Systèmes antisalissure
+
+[^chapII-lvlIII-lvl3c-1]
+
+[^chapII-lvlIII-lvl3c-1]: Introduit par le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+#### Art. 11c
+
+Il est interdit d’appliquer, de réappliquer ou d’utiliser sur les navires suisses les systèmes antisalissure mentionnés à l’annexe 1 de la Convention internationale du 5 octobre 2001 sur le contrôle des systèmes antisalissure nuisibles sur les navires[^11c-1].
+
+[^11c-1]: [RS 0.814.295](https://fedlex.data.admin.ch/eli/cc/2013/889)
+
+### IV. Composition de l’équipage
 
 [^chapII-lvlIV-1]
 
@@ -353,11 +398,11 @@ Les conventions internationales ci-après s’appliquent dans leur teneur la plu
 
 <sup>1</sup> L’effectif de l’équipage d’un navire suisse doit, par le nombre et par les qualifications, et compte tenu des usages en vigueur dans la navigation maritime, être suffisant pour que la sécurité du navire et de la navigation ainsi que la sauvegarde de la vie humaine en mer soient assurées, pour que le service du navire puisse se faire de façon bien ordonnée, que les prescriptions sur la durée du travail puissent être respectées, et que tout surmenage de l’équipage par des heures de travail supplémentaires puisse dans toute la mesure du possible être évité.
 
-2 L’Office suisse de la navigation maritime, en exécution des résolutions de l’Organisation internationale de la navigation maritime et après avoir entendu les milieux intéressés, décide de l’effectif minimum de l’équipage et délivre ensuite un certificat.[^12-1]
+<sup>2</sup> L’Office suisse de la navigation maritime, en exécution des résolutions de l’Organisation internationale de la navigation maritime et après avoir entendu les milieux intéressés, décide de l’effectif minimum de l’équipage et délivre ensuite un certificat.[^12-1]
 
 [^12-1]: Nouvelle teneur selon le ch. I. de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### V. Logement de l’équipage****
+### V. Logement de l’équipage
 
 [^chapII-lvlV-1]
 
@@ -379,7 +424,7 @@ S’agissant des navires construits et achevés avant l’année 1953, mais déj
 
 [^14-1]: Annexe II de la présente ordonnance.
 
-## Chapitre III. De la mention et de l’annotation de la location du navire et de l’affrètement****
+## Chapitre III. De la mention et de l’annotation de la location du navire et de l’affrètement
 
 [^chapIII-1]
 
@@ -393,10 +438,10 @@ S’agissant des navires construits et achevés avant l’année 1953, mais déj
 
 <sup>3</sup> La mention est radiée sur requête écrite du propriétaire et du locataire. Si le contrat de location est venu à expiration, le locataire et le propriétaire peuvent chacun exiger de l’autre que celui-ci consente à la radiation de la mention. Le locataire a de même ce droit lorsque le propriétaire a renoncé à la mention.
 
-<sup>4</sup> Les art. 81 et 82 de l’ordonnance du 23 septembre 2011 sur le registre foncier[^15-1] s’appliquent par analogie à l’annotation d’un contrat de location conformément à l’art. 92, al. 4, et d’un affrètement conformément à l’art. 94, al. 3, de la loi.[^15-2]
+<sup>4</sup> Les art. 81 et 82 de l’ordonnance du 23 septembre 2011 sur le registre foncier[^15-1] s’appliquent par analogie à l’annotation d’un contrat de location conformément à l’art. 92, al. 5, et d’un affrètement conformément à l’art. 94, al. 3, de la loi.[^15-2]
 
 [^15-1]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
-[^15-2]: Introduit par le ch. I de l’ACF du 4 nov. 1966 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)). Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 (RO **1911** 4659).
+[^15-2]: Introduit par le ch. I de l’ACF du 4 nov. 1966 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)). Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ## Chapitre IV. Réglementation du travail en mer
 
@@ -457,7 +502,7 @@ S’agissant des navires construits et achevés avant l’année 1953, mais déj
 
 #### Art. 20
 
-<sup>1</sup> Lorsque les conditions prévues sont remplies, l’Office suisse de la navigation maritime délivre des certificats de capacité aux capitaines et aux officiers du pont et aux officiers mécaniciens, aux personnes fonctionnant dans l’équipe d’exploitation des embarcations et radeaux de sauvetage ainsi qu’à celles effectuant le service de quart; l’Entreprise des PTT fait de même pour les radiotélégraphistes du bord.[^20-1]
+<sup>1</sup> Lorsque les conditions prévues sont remplies, l’Office suisse de la navigation maritime délivre des certificats de capacité aux capitaines, aux officiers du pont, aux officiers mécaniciens, aux personnes fonctionnant dans l’équipe d’exploitation des embarcations et radeaux de sauvetage et à à celles effectuant le service de quart; l’OFCOM fait de même pour les radiotélégraphistes du bord.[^20-1]
 
 <sup>2</sup> Des certificats de capacité suisses peuvent également être délivrés à des ressortissants étrangers employés à bord d’un navire suisse, lorsqu’ils doivent posséder de tels documents pour l’exercice de leur activité à bord.[^20-2]
 
@@ -465,17 +510,17 @@ S’agissant des navires construits et achevés avant l’année 1953, mais déj
 
 <sup>4</sup> Dans des cas motivés, l’Office suisse de la navigation maritime peut délivrer un certificat de capacité provisoire d’une durée de validité limitée. Ce faisant, il tient compte des dispositions des conventions internationales applicables.[^20-3]
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 [^20-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^20-3]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 2. Age minimum et examen
+### 2. Âge minimum et examen
 
 #### Art. 21
 
 <sup>1</sup> L’âge minimum est de 23 ans pour le capitaine et le premier officier mécanicien, de 21 ans pour le premier officier du pont et le deuxième officier mécanicien et de 20 ans pour tous les autres officiers des services du pont et des machines, ainsi que pour les radiotélégraphistes.[^21-1]
 
-<sup>2</sup> L’examen pour chaque grade doit être passé à une école de navigation maritime reconnue par l’Office suisse de la navigation maritime, les prescriptions de cette école relatives à cet examen étant alors déterminantes. Pour les radiotélégraphistes et leurs assistants, l’examen est toutefois passé auprès de l’Entreprise des PTT.
+<sup>2</sup> L’examen pour chaque grade doit être passé à une école de navigation maritime reconnue par l’Office suisse de la navigation maritime, les prescriptions de cette école relatives à cet examen étant alors déterminantes. Pour les radiotélégraphistes et leurs assistants, l’examen est toutefois passé auprès de l’OFCOM.[^21-2]
 
 <sup>3</sup>
 
@@ -483,10 +528,11 @@ Le troisième et le quatrième officiers mécaniciens ne sont pas tenus de passe
 
 - a. De l’accomplissement à terre d’un apprentissage approprié;
 - b. D’une recommandation de l’armateur quant à leurs aptitudes;
-- c. De la participation à un cours pratique agréé de lutte contre l’incendie.[^21-2]
+- c. De la participation à un cours pratique agréé de lutte contre l’incendie.[^21-3]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’ACF du 4 nov. 1966, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^21-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 3. Durée de navigation prescrite
 
@@ -565,11 +611,13 @@ La navigation à bord d’un navire de mer exigée pour l’obtention d’un cer
 
 <sup>3</sup> Les marins qui ne sont pas répartis en quarts ainsi que les marins des services généraux fournissent en mer leurs heures de travail dans les limites d’un laps de temps de treize heures consécutives.
 
-<sup>4</sup> Les radiotélégraphistes font on mer des services quotidiens de huit heures conformément au règlement des radiocommunications annexé à la convention internationale des télécommunications du 6 novembre 1982[^26-2]. L’Office suisse de la navigation maritime peut, après avoir entendu les milieux intéressés, les libérer du service de quart lorsque le navire est équipé d’appareils télégraphiques automatiques supplémentaires. Une fois terminés les travaux éventuels d’entretien ou de réparation des appareils électroniques, ils peuvent être affectés par le capitaine à des travaux d’écriture ou à d’autres travaux administratifs.[^26-3]
+<sup>4</sup> Les radiotélégraphistes font en mer des services quotidiens de huit heures conformément au Règlement des radiocommunications du 17 novembre 1995[^26-2] annexé à la Constitution du 22 décembre 1992 de l’Union internationale des télécommunications[^26-3] et à la Convention du 22 décembre 1992 de l’Union internationale des télécommunications[^26-4]. L’Office suisse de la navigation maritime peut, après avoir entendu les milieux intéressés, les libérer du service de quart lorsque le navire est équipé d’appareils télégraphiques automatiques supplémentaires. Une fois terminés les travaux éventuels d’entretien ou de réparation des appareils électroniques, ils peuvent être affectés par le capitaine à des travaux d’écriture ou à d’autres travaux administratifs.[^26-5]
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^26-2]: [RS 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)**.** Seuls les ch. 422 par. 1 et 725 par. 1 du R des radiocommunications ont été publiés au RO (RS **0****.****784.403.1**).
-[^26-3]: Nouvelle teneur selon le ch. I. de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^26-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
+[^26-3]: [RS 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)
+[^26-4]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^26-5]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ### b. Au port et en rade
 
@@ -675,7 +723,7 @@ L’armateur et le capitaine sont tenus, pour la sauvegarde et la santé et du b
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’ACF du 4 nov. 1966, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
-### 5. Evénements extraordinaires
+### 5. Événements extraordinaires
 
 #### Art. 36
 
@@ -700,7 +748,7 @@ L’armateur et le capitaine sont tenus, pour la sauvegarde et la santé et du b
 
 ### VII. Droit des marins aux vacances
 
-### 1. Etendue du droit aux vacances
+### 1. Étendue du droit aux vacances
 
 #### Art. 38
 
@@ -741,24 +789,28 @@ Le droit minimum à des vacances payées se détermine d’après l’art. 329*a
 
 #### Art. 41
 
-<sup>1</sup> L’assurance contre la maladie et les accidents professionnels doit être conclue auprès d’une compagnie d’assurances autorisée par le Département fédéral de justice et police à opérer en Suisse. Si l’armateur d’un navire suisse a institué, pour son personnel, sa propre caisse-maladie et que cette caisse a été reconnue conformément à la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^41-1], cette caisse doit être admise à pratiquer l’assurance prévue par la présente ordonnance.[^41-2]
+[^41-1]
 
-<sup>2</sup> Tout armateur d’un navire suisse doit adresser une copie du contrat d’assurance à l’Office suisse de la navigation maritime. Avant de donner son approbation, cet office consultera l’Autorité fédérale de surveillance des marchés financiers[^41-3] ou, le cas échéant, l’Office fédéral de la santé publique[^41-4]. Les compagnies d’assurance sont tenues d’informer l’Office suisse de la navigation maritime, par lettre recommandée, de la dénonciation ou de l’expiration du contrat.
+<sup>1</sup> L’assurance contre la maladie et les accidents professionnels doit être conclue auprès d’une compagnie d’assurances admise par l’Autorité fédérale de surveillance des marchés financiers à opérer en Suisse ou d’une compagnie d’assurance admise à opérer à l’étranger. Si l’armateur d’un navire suisse a institué, pour son personnel, sa propre caisse-maladie et que cette caisse a été reconnue conformément à la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^41-2], cette caisse doit être admise à pratiquer l’assurance prévue par la présente ordonnance.
 
-[^41-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^41-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^41-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
-[^41-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+<sup>2</sup> Tout armateur d’un navire suisse doit adresser une copie du contrat d’assurance à l’Office suisse de la navigation maritime. Les compagnies d’assurance sont tenues d’informer l’Office suisse de la navigation maritime, par lettre recommandée, de la dénonciation ou de l’expiration du contrat.
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^41-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### 2. Prestations minimums; contrat type
 
 #### Art. 42
 
-<sup>1</sup> Le Conseil fédéral fixera dans un contrat type, après avoir pris l’avis des milieux intéressés, les prestations minimums et les prescriptions de détail auxquelles le contrat d’assurance doit se conformer pour que l’armateur satisfasse à l’obligation d’assurance prévue à l’art. 84, al. 3, de la loi; le contrat type est annexé à l’ordonnance et réputé partie intégrante de celle-ci.[^42-1]
+[^42-1]
+
+<sup>1</sup> Le Conseil fédéral fixera dans un contrat-type, après avoir pris l’avis des milieux intéressés, les prestations minimales et les prescriptions de détail auxquelles le contrat d’assurance d’une compagnie d’assurance suisse doit se conformer pour que l’armateur satisfasse à l’obligation d’assurance prévue à l’art. 84, al. 3, de la loi; le contrat-type est annexé à l’ordonnance et réputé partie intégrante de celle-ci[^42-2]. Les contrats des compagnies d’assurance étrangères doivent être équivalents et couvrir la responsabilité de l’armateur concernant les conditions de travail à bord des navires de haute mer conformément à la convention du travail maritime du 23 février 2006[^42-3].
 
 <sup>2</sup> Les prestations d’assurance seront imputées sur celles que le preneur d’assurance est éventuellement tenu de verser.
 
-[^42-1]: Annexe III de la présente ordonnance.
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^42-2]: Annexe III de la présente ordonnance.
+[^42-3]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
 
 ### 3. Accidents professionnels
 
@@ -766,13 +818,13 @@ Le droit minimum à des vacances payées se détermine d’après l’art. 329*a
 
 Sont réputés accidents professionnels tous les accidents subis par l’assuré pendant l’exécution de son service. Les accidents survenus à bord du navire, ou lors du trafic par bateau d’un navire à l’autre ou du navire à la terre et retour, sont réputés dans tous les cas accidents professionnels.
 
-### 4. …****
+### 4. …
 
 [^chapIV-lvlVIII-lvl4-1]
 
-[^chapIV-lvlVIII-lvl4-1]: Tit. abrogé par le ch. I de l’O du 22 déc. 1988, avec effet au 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapIV-lvlVIII-lvl4-1]: Abrogé par le ch. I de l’O du 22 déc. 1988, avec effet au 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-## Chapitre V.**** Montants de responsabilité
+## Chapitre V. Montants de responsabilité
 
 [^chapV-1]
 
@@ -805,17 +857,17 @@ En vertu de l’art. 105, al. 3, de la loi, la responsabilité du transporteur e
 
 [^44a-1]: Abrogé par le ch. I de l’O du 3 sept. 1997, avec effet au 1<sup>er</sup> nov. 1997 ([RO 1997 2186](https://fedlex.data.admin.ch/eli/oc/1997/2186_2186_2186)).
 
-## Chapitre VI.**** Dispositions de procédure
+## Chapitre VI. Dispositions de procédure
 
 [^chapVI-1]
 
 [^chapVI-1]: Anciennement ch. V.
 
-## Section I. De la limitation de la responsabilité moyennant constitution d’un fonds de limitation****
+### Section I. De la limitation de la responsabilité moyennant constitution d’un fonds de limitation
 
-[^sec7-1]
+[^chapVI-secI-1]
 
-[^sec7-1]: Nouvelle teneur selon le ch. I de l’ACF du 4 nov. 1966, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^chapVI-secI-1]: Nouvelle teneur selon le ch. I de l’ACF du 4 nov. 1966, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### I. Ouverture de la procédure
 
@@ -879,17 +931,17 @@ La communication ou la notification publique du commissaire doit contenir:
 - g. Le rappel des règles de péremption contenues aux art. 49 et 52 de la présente ordonnance;
 - h. Le nom et l’adresse du commissaire.
 
-<sup>3</sup> A la demande de l’armateur, le commissaire doit également, dans une notification publique, indiquer aux créanciers inconnus de l’armateur ou non désignés par lui, que celles de leurs créances qui sont censées être satisfaites sur un fonds de limitation doivent être annoncées dans le délai prévu à l’al. 2, let. e, et accompagnées des moyens de preuves.[^48-3]
+<sup>3</sup> À la demande de l’armateur, le commissaire doit également, dans une notification publique, indiquer aux créanciers inconnus de l’armateur ou non désignés par lui, que celles de leurs créances qui sont censées être satisfaites sur un fonds de limitation doivent être annoncées dans le délai prévu à l’al. 2, let. e, et accompagnées des moyens de preuves.[^48-3]
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^48-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^48-3]: Introduit par le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### II. Fixation des fonds de limitation****
+### II. Fixation des fonds de limitation
 
-[^sec7-lvlII-1]
+[^chapVI-secI-lvlII-1]
 
-[^sec7-lvlII-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlII-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 1. Fixation par le juge à la demande du créancier
 
@@ -908,11 +960,11 @@ La communication ou la notification publique du commissaire doit contenir:
 [^49-3]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^49-4]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 2. Mode de la constitution et du calcul des fonds de limitation****
+### 2. Mode de la constitution et du calcul des fonds de limitation
 
-[^sec7-lvlII-lvl2-1]
+[^chapVI-secI-lvlII-lvl2-1]
 
-[^sec7-lvlII-lvl2-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlII-lvl2-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 #### Art. 50
 
@@ -925,11 +977,11 @@ La communication ou la notification publique du commissaire doit contenir:
 [^50-1]: Nouvelle teneur selon le ch. I. de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^50-2]: Nouvelle teneur selon le ch. I. de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 3. Droit aux fonds de limitation****
+### 3. Droit aux fonds de limitation
 
-[^sec7-lvlII-lvl3-1]
+[^chapVI-secI-lvlII-lvl3-1]
 
-[^sec7-lvlII-lvl3-1]: Nouvelle teneur selon le ch. I. de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlII-lvl3-1]: Nouvelle teneur selon le ch. I. de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 #### Art. 51
 
@@ -992,7 +1044,7 @@ La communication ou la notification publique du commissaire doit contenir:
 <sup>4</sup> Le jugement obtenu lie l’armateur ainsi que tous les créanciers englobés dans la procédure de limitation.
 
 [^55-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^55-2]: Introduit par le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^55-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^55-3]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 5. Créances retirées ou non annoncées
@@ -1019,11 +1071,11 @@ La communication ou la notification publique du commissaire doit contenir:
 [^57-2]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^57-3]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### IV. Distribution des fonds de limitation****
+### IV. Distribution des fonds de limitation
 
-[^sec7-lvlIV-1]
+[^chapVI-secI-lvlIV-1]
 
-[^sec7-lvlIV-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlIV-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 1. Tableau de distribution
 
@@ -1084,13 +1136,13 @@ Si, pour des créances englobées dans une procédure ouverte en Suisse, l’arm
 [^62-1]: Nouvelle teneur selon le ch. I de l’ACF du 4 nov. 1966, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 [^62-2]: Nouvelle teneur de la dernière phrase selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-## Section II: De l’homologation judiciaire des dispaches
+### Section II: De l’homologation judiciaire des dispaches
 
-### I.**** Droit applicable
+### I. Droit applicable
 
-[^secII-lvlI-1]
+[^chapVI-secII-lvlI-1]
 
-[^secII-lvlI-1]: Introduit par le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapVI-secII-lvlI-1]: Introduit par le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 63
 
@@ -1098,11 +1150,11 @@ Les règles de York et d’Anvers, dans la teneur de l’annexe IV[^63-1] à la 
 
 [^63-1]: [RO 1993 2284](https://fedlex.data.admin.ch/eli/oc/1993/2284_2284_2284)
 
-### II. Etablissement de la dispache****
+### II. Établissement de la dispache
 
-[^secII-lvlII-1]
+[^chapVI-secII-lvlII-1]
 
-[^secII-lvlII-1]: Nouvelle teneur selon le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapVI-secII-lvlII-1]: Nouvelle teneur selon le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 63a
 
@@ -1118,11 +1170,11 @@ Les règles de York et d’Anvers, dans la teneur de l’annexe IV[^63-1] à la 
 
 [^63a-1]: Anciennement art. 63.
 
-### III. Homologation de la dispache****
+### III. Homologation de la dispache
 
-[^secII-lvlIII-1]
+[^chapVI-secII-lvlIII-1]
 
-[^secII-lvlIII-1]: Nouvelle teneur selon le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapVI-secII-lvlIII-1]: Nouvelle teneur selon le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 ### 1. Requête des intéressés
 
@@ -1182,7 +1234,7 @@ Les règles de York et d’Anvers, dans la teneur de l’annexe IV[^63-1] à la 
 
 <sup>2</sup> Lorsque les oppositions sont résolues au cours du débat ou à la suite d’un jugement, le juge, tenant compte de la solution intervenue, décide de la répartition équitable des frais de la procédure d’homologation.
 
-## Section III. Dispositions communes
+### Section III. Dispositions communes
 
 ### I. Dispositions complémentaires
 
@@ -1213,7 +1265,7 @@ Les règles de York et d’Anvers, dans la teneur de l’annexe IV[^63-1] à la 
 
 <sup>2</sup> Les délais de procédure sont respectés si le compromis d’arbitrage a été signé dans le délai pour intenter action, si le demandeur a nommé son arbitre et si le défenseur a été invité à nommer le sien ou bien a demandé la désignation d’un arbitre unique. Un nouveau délai de trente jours, au cours duquel la demande doit être soumise au tribunal arbitral, commence alors à courir, à l’expiration duquel le délai utile pour agir est réputé expiré.
 
-## Chapitre VII.**** Dispositions finales
+## Chapitre VII. Dispositions finales
 
 [^chapVII-1]
 
@@ -1227,23 +1279,23 @@ La présente ordonnance entre en vigueur, à la même date que la loi fédérale
 
 Annexe I
 
-(Art. 9, al. 1)
+(art. 9, al. 1)
 
-## Règles pour prévenir les abordages en mer****
+## Règles pour prévenir les abordages en mer
 
 [^annexI-lvlu1-1]
 
 [^annexI-lvlu1-1]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
 
-Annexe II*[^t-2]*
+Annexe II[^t-2]
 
 [^t-2]: Abrogée par le ch. II al. 1 de l’O du 20 fév. 2013, avec effet au 20 août 2013 ([RO 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
-Annexe III*[^t-3]*
+Annexe III[^t-3]
 
-(Art. 42)
+(art. 42)
 
-## Contrat-type pour l’assurance de l’équipage de navires de mer****
+## Contrat-type pour l’assurance de l’équipage de navires de mer
 
 [^annexIII-lvlu1-1]
 
@@ -1256,25 +1308,25 @@ Approuvé par le Conseil fédéral le 23 novembre 1965
 
 ### I. Cercle des personnes assurées
 
-**Art. 1**
+#### Art. 1
 
-<sup>1</sup> Conformément à l’art. 84 de la loi fédérale du 23 novembre 1953[^annexIII-lvlu1-lvlA-lvlI-1] sur la navigation maritime sous pavillon suisse et l’art. 42 de l’ordonnance du 20 novembre 1956, tout l’équipage du navire de mer est assuré contre la maladie et les accidents professionnels.
+<sup>1</sup> Conformément à l’art. 84 de la loi fédérale du 23 novembre 1953[^annexIII-lvlu1-lvlA-lvlI-1-1] sur la navigation maritime sous pavillon suisse et l’art. 42 de l’ordonnance du 20 novembre 1956, tout l’équipage du navire de mer est assuré contre la maladie et les accidents professionnels.
 
 <sup>2</sup> Appartiennent à l’équipage le capitaine et les autres marins qui ont un emploi à bord et sont inscrits sur le rôle d’équipage.
 
-[^annexIII-lvlu1-lvlA-lvlI-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^annexIII-lvlu1-lvlA-lvlI-1-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
 
-### II. Etendue de l’assurance
+### II. Étendue de l’assurance
 
-**Art. 2**
+#### Art. 2
 
 <sup>1</sup> L’assurance s’étend aux suites d’accidents professionnels et de maladies.
 
 <sup>2</sup> L’assurance contre la maladie est subordonnée à une visite médicale d’entrée.
 
-<table>
-<tr><td>Art. 3</td><td>1. Assurance-accidents</td></tr>
-</table>
+#### Art. 3
+
+**1. Assurance-accidents**
 
 <sup>1</sup>
 
@@ -1286,9 +1338,9 @@ Sont réputés accidents professionnels:
 
 <sup>2</sup> Sont déterminantes pour définir l’accident les dispositions de détail sur l’assurance-accidents obligatoire et la pratique de la Caisse nationale suisse d’assurance en cas d’accidents (Caisse nationale). L’assurance des accidents professionnels s’étend aussi aux maladies professionnelles et maladies produites par le travail reconnues par la Caisse nationale comme donnant droit aux prestations.
 
-<table>
-<tr><td>Art. 4</td><td>2. Assurance-maladie</td></tr>
-</table>
+#### Art. 4
+
+**2. Assurance-maladie**
 
 <sup>1</sup> Toutes les maladies sont couvertes, à l’exception des cas mentionnés à l’alinéa suivant.
 
@@ -1302,7 +1354,7 @@ Ne sont pas couvertes:
 
 ### III. Début et durée de l’assurance
 
-**Art. 5**
+#### Art. 5
 
 <sup>1</sup> L’assurance prend effet pour l’assuré dés le premier jour pour lequel il a son salaire, mais au plus tard le jour de son embarquement, et prend fin lors de son licenciement, ainsi que 48 heures après qu’il a été fait prisonnier, a été interné ou a été débarqué par une puissance étrangère.
 
@@ -1316,35 +1368,42 @@ Ne sont pas couvertes:
 
 ### I. Assurance-accidents
 
-**Art. 6**
+#### Art. 6
 
-<sup>1</sup> Le montant des prestations d’assurance est déterminé uniquement par les dispositions de la loi fédérale du 13 juin 1911[^annexIII-lvlu1-lvlB-lvlI-1] sur l’assurance en cas de maladie et d’accidents, sous réserve de l’al. 2 ci-dessous. Dans les cas qui ne sont pas réglés nettement par la loi, la pratique de la Caisse nationale est déterminante.
+<sup>1</sup> Le montant des prestations d’assurance est déterminé uniquement par les dispositions de la loi fédérale du 13 juin 1911[^annexIII-lvlu1-lvlB-lvlI-6-1] sur l’assurance en cas de maladie et d’accidents, sous réserve de l’al. 2 ci-dessous. Dans les cas qui ne sont pas réglés nettement par la loi, la pratique de la Caisse nationale est déterminante.
 
 <sup>2</sup>
 
 En dérogation:
 
-- a. A l’art. 74 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-2], l’indemnité journalière est égale à 100 % cent du salaire pris en considération conformément à la lettre d;
-- b. A l’art. 77 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-3], la rente d’invalidité est égale, en cas d’incapacité totale de travail, à 100 % du salaire pris en considération conformément à la lettre d. En cas d’incapacité partielle de travail, la rente subit une réduction proportionnelle;
-- c. Aux art. 84 et 87 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-4], la rente de veuve ou de veuf s’élève à 40 %, la rente d’orphelin simple à 20 %, la rente d’orphelin double à 35 % et les rentes d’ascendants et de frères et soeurs ensemble à 25 % du salaire pris en considération conformément à la lettre d. Les rentes de survivants ne peuvent, au total, excéder 90 % dudit salaire;
-- d. Aux art. 74, al. 2, et 78 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-5] est réputé salaire pris en considération uniquement le salaire de base avec adjonction des montants à déclarer à l’assurance-vieillesse et survivants pour l’entretien et le logement, jusqu’à concurrence du montant maximal du gain annuel valable pour l’assurance-accidents obligatoire.
+- a. À l’art. 74 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-6-2], l’indemnité journalière est égale à 100 % cent du salaire pris en considération conformément à la lettre d;
+- b. À l’art. 77 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-6-3], la rente d’invalidité est égale, en cas d’incapacité totale de travail, à 100 % du salaire pris en considération conformément à la lettre d. En cas d’incapacité partielle de travail, la rente subit une réduction proportionnelle;
+- c. Aux art. 84 et 87 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-6-4], la rente de veuve ou de veuf s’élève à 40 %, la rente d’orphelin simple à 20 %, la rente d’orphelin double à 35 % et les rentes d’ascendants et de frères et soeurs ensemble à 25 % du salaire pris en considération conformément à la lettre d. Les rentes de survivants ne peuvent, au total, excéder 90 % dudit salaire;
+- d. Aux art. 74, al. 2, et 78 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-6-5] est réputé salaire pris en considération uniquement le salaire de base avec adjonction des montants à déclarer à l’assurance-vieillesse et survivants pour l’entretien et le logement, jusqu’à concurrence du montant maximal du gain annuel valable pour l’assurance-accidents obligatoire.
 
-[^annexIII-lvlu1-lvlB-lvlI-1]: [RS **8** 283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)ch. II art. 6 ch. 2 disp. fin. et trans. tit. X, **1977** 2249 ch. I 611, **1978** 1836 annexe ch. 4, **1982** 196 1676 annexe ch. 1 2184 art. 114, **1990** 1091, **1991** 362 ch. II 412, **1992** 288 annexe ch. 37, **1995** 511. [RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)annexe ch. 1]. Voir actuellement la LF du 20 mars 1981 sur l’assurance-accidents ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-2]: Actuellement «Aux art. 16 et 17 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-3]: Actuellement «A l’art. 20 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-4]: Actuellement «Aux art. 28 à 33 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-5]: Actuellement «Aux art. 15 et 17 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^annexIII-lvlu1-lvlB-lvlI-6-1]: [RS **8** 283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)ch. II art. 6 ch. 2 disp. fin. et trans. tit. X, **1977** 2249 ch. I 611, **1978** 1836 annexe ch. 4, **1982** 196 1676 annexe ch. 1 2184 art. 114, **1990** 1091, **1991** 362 ch. II 412, **1992** 288 annexe ch. 37, **1995** 511. [RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)annexe ch. 1]. Voir actuellement la LF du 20 mars 1981 sur l’assurance-accidents ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^annexIII-lvlu1-lvlB-lvlI-6-2]: Actuellement «Aux art. 16 et 17 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^annexIII-lvlu1-lvlB-lvlI-6-3]: Actuellement «À l’art. 20 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^annexIII-lvlu1-lvlB-lvlI-6-4]: Actuellement «Aux art. 28 à 33 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^annexIII-lvlu1-lvlB-lvlI-6-5]: Actuellement «Aux art. 15 et 17 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
 
 ### II. Assurance-maladie
 
+#### Art. 7
+
+[^annexIII-lvlu1-lvlB-lvlII-7-1]
+
+Les prestations sont les suivantes:
+
 <table>
-<tr><td>Art. 7*[^annexIII-lvlu1-lvlB-lvlII-1]*</td><td colspan="2">Les prestations sont les suivantes:</td></tr>
-<tr><td colspan="2">En cas de décès:</td><td>Remboursement des frais funéraires jusqu’à concurrence de 600 francs. Cette somme est due à l’armateur dans la mesure où il a pris en charge les frais funéraires.</td></tr>
-<tr><td colspan="2">En cas d’incapacité temporaire de travail:</td><td>Une indemnité journalière égale à 100 % du gain journalier pris en considération conformément à l’art. 6, al. 2, let. d, et cela pendant 180 jours au maximum.</td></tr>
-<tr><td colspan="2">En outre:</td><td>Bonification de 80 % des frais de traitement jusqu’à concurrence de 8000 francs par cas, la participation d’un membre de l’équipage ne devant toutefois pas, dans ces limites, dépasser la moitié de son salaire de base mensuel.</td></tr>
+<tr><td>En cas de décès:</td><td>Remboursement des frais funéraires jusqu’à concurrence de 600 francs. Cette somme est due à l’armateur dans la mesure où il a pris en charge les frais funéraires.</td></tr>
+<tr><td>En cas d’incapacité temporaire de travail:</td><td>Une indemnité journalière égale à 100 % du gain journalier pris en considération conformément à l’art. 6, al. 2, let. d, et cela pendant 180 jours au maximum.</td></tr>
+<tr><td>En outre:</td><td>Bonification de 80 % des frais de traitement jusqu’à concurrence de 8000 francs par cas, la participation d’un membre de l’équipage ne devant toutefois pas, dans ces limites, dépasser la moitié de son salaire de base mensuel.</td></tr>
 </table>
 
-**Art. 8**
+[^annexIII-lvlu1-lvlB-lvlII-7-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 1973, en vigueur depuis le 1<sup>er</sup> janv. 1974 ([RO 1974 73](https://fedlex.data.admin.ch/eli/oc/1974/73_73_73)).
+
+#### Art. 8
 
 <sup>1</sup> L’assuré qui se trouve à bord du navire a droit à une indemnité journalière pendant la durée de son incapacité de travail, et en proportion de cette incapacité.
 
@@ -1354,7 +1413,7 @@ En dérogation:
 
 <sup>4</sup> L’indemnité journalière n’est versée pour des cures de convalescence que si le médecin de la compagnie estime la cure nécessaire pour la guérison des suites de la maladie.
 
-**Art. 9**
+#### Art. 9
 
 <sup>1</sup> Sont considérés comme frais de traitement les frais nécessaires de médecin, de médicaments, d’hôpital ou d’autres traitements jusqu’à concurrence du montant maximum prévu à l’art. 7, et pendant une année à partir du début de la maladie. Il en va de même des frais de remplacement artificiel d’un membre (frais de prothèse).
 
@@ -1362,11 +1421,9 @@ En dérogation:
 
 <sup>3</sup> Au titre des traitements dentaires, seules les extractions de dents sont prises en charge.
 
-[^annexIII-lvlu1-lvlB-lvlII-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 1973, en vigueur depuis le 1<sup>er</sup> janv. 1974 ([RO 1974 73](https://fedlex.data.admin.ch/eli/oc/1974/73_73_73)).
-
 ### C. Obligations en cas de sinistre
 
-**Art. 10**
+#### Art. 10
 
 <sup>1</sup> Dans le cas d’un accident qui entraînera vraisemblablement la mort de l’assuré ou une invalidité permanente, le capitaine est tenu d’adresser immédiatement, sous forme de procès-verbal, un rapport sur les faits au consulat suisse pouvant être atteint le plus rapidement ou, si cela n’est pas possible, aux autorités du port qui peut être atteint le plus rapidement, en faisant si possible appel à des témoins de l’accident. Ce rapport devra fournir des renseignements conformes à la vérité sur la cause et les circonstances, sur l’endroit et le moment de l’accident, la nature et les suites présumées des blessures, l’activité de l’assuré au moment de l’accident et le nom des personnes qui pourraient encore être citées comme témoins. Une copie certifiée conforme de ce rapport devra être envoyée immédiatement à la compagnie.
 
@@ -1374,11 +1431,11 @@ En dérogation:
 
 <sup>3</sup> Pour les accidents n’entraînant qu’une incapacité temporaire de travail, de même que pour les maladies, le capitaine devra remplir la formule de déclaration de sinistre délivrée par la compagnie en donnant des renseignements sur les faits (procès-verbal signé par le capitaine ou extrait du journal de bord) et l’expédier à la compagnie dès l’arrivée au prochain port.
 
-**Art. 11**
+#### Art. 11
 
 L’assuré est tenu, sous peine de déchéance en cas d’omission ou de refus, de fournir à la compagnie, dans un délai de quatorze jours, sur demande formulée par écrit et indiquant les conséquences du retard, tout renseignement sur le sinistre, l’évolution des suites de l’accident ou de la maladie, et l’état de santé actuel et antérieur; il est aussi tenu de se soumettre à l’examen du médecin de la compagnie et, si une période d’observation est nécessaire, d’entrer dans un établissement hospitalier. Il doit, en outre, autoriser tous les médecins qui lui ont donné des soins à l’occasion du sinistre, ou d’autres accidents ou maladies, ou lors de la visite médicale d’entrée, à fournir tous les renseignements désirés par la compagnie sur ces cas.
 
-**Art. 12**
+#### Art. 12
 
 <sup>1</sup> Si l’assuré ou, à sa place, le capitaine ou son remplaçant sont empêchés de remplir les obligations susmentionnées, celles-ci incombent aux personnes qui font valoir des droits aux prestations de l’assurance.
 
@@ -1386,26 +1443,27 @@ L’assuré est tenu, sous peine de déchéance en cas d’omission ou de refus,
 
 ### D. Dispositions finales
 
-**Art. 13**
+#### Art. 13
 
-Si la compagnie résilie le contrat en se fondant sur l’art. 42 de la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^annexIII-lvlu1-lvlD-1], sa responsabilité cesse 14 jours après qu’elle a notifié la résiliation au preneur d’assurance. Si le navire se trouve encore en mer, le contrat reste en tout cas valable jusqu’à la fin du voyage commencé, c’est-à-dire jusqu’à l’entrée dans le port de destination ou dans un port de secours, auquel cas le port de secours est considéré comme port de destination.
+*Si la compagnie* résilie le contrat en se fondant sur l’art. 42 de la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^annexIII-lvlu1-lvlD-13-1], sa responsabilité cesse 14 jours après qu’elle a notifié la résiliation au preneur d’assurance. Si le navire se trouve encore en mer, le contrat reste en tout cas valable jusqu’à la fin du voyage commencé, c’est-à-dire jusqu’à l’entrée dans le port de destination ou dans un port de secours, auquel cas le port de secours est considéré comme port de destination.
 
-**Art. 14**
+[^annexIII-lvlu1-lvlD-13-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+
+#### Art. 14
 
 Les communications de la compagnie aux assurés ou aux ayants droit sont légalement valables si elles sont envoyées à la dernière adresse qui lui est connue.
 
-**Art. 15**
+#### Art. 15
 
 En cas de litige découlant du présent contrat, seuls les tribunaux suisses sont compétents. En principe, le for de la compagnie est au siège principal de celle-ci en Suisse; en outre, la compagnie reconnaît la compétence des tribunaux du domicile suisse de l’assuré ou des ayants droit, ainsi que du domicile suisse du preneur d’assurance.
 
-**Art. 16**
+#### Art. 16
 
-Au surplus, le présent contrat est régi par la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^annexIII-lvlu1-lvlD-2].
+Au surplus, le présent contrat est régi par la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^annexIII-lvlu1-lvlD-16-1].
 
-[^annexIII-lvlu1-lvlD-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^annexIII-lvlu1-lvlD-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^annexIII-lvlu1-lvlD-16-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
 
-Annexe IV*[^t-4]*
+Annexe IV[^t-4]
 
 (art. 63)
 
@@ -1415,147 +1473,108 @@ Annexe IV*[^t-4]*
 
 Adoptées par le Comité maritime international (Conférence de Hambourg 1974)
 
-Règle d’interprétation
+**Règle d’interprétation**
 
 Dans le règlement d’avaries communes, les Règles suivantes précédées de lettres et de numéros doivent s’appliquer à l’exclusion de toute loi et pratique incompatibles avec elles.
 
-A l’exception de ce qui est prévu par les Règles numérotées, l’avarie commune doit être réglée conformément aux Règles précédées de lettres.
+À l’exception de ce qui est prévu par les Règles numérotées, l’avarie commune doit être réglée conformément aux Règles précédées de lettres.
 
-### Règle A
+**Règle A**
 
 Il y a d’acte d’avarie commune quand, et seulement quand, intentionnellement et raisonnablement, un sacrifice extraordinaire est fait ou une dépense extraordinaire encourue pour le salut commun, dans le but de préserver d’un péril les propriétés engagées dans une aventure maritime commune.
 
-### Règle B
+**Règle B**
 
 Les sacrifices et dépenses d’avarie commune seront supportés par les divers intérêts appelés à contribuer sur les bases déterminées ci-après.
 
-### Règle C
+**Règle C**
 
 Seuls les dommages, pertes ou dépenses qui sont la conséquence directe de l’acte d’avarie commune, seront admis en avarie commune.
 
 Les pertes ou dommages subis par le navire ou la cargaison, par suite de retard, soit au cours de voyage, soit postérieurement, tels que le chômage, et toute perte indirecte quelconque telle que la différence de cours, ne seront pas admis en avarie commune.
 
-### Règle D
+**Règle D**
 
 Lorsque l’événement qui a donné lieu au sacrifice ou à la dépense aura été la conséquence d’une faute commise par l’une des parties engagées dans l’aventure, il n’y aura pas moins lieu à contribution, mais sans préjudice des recours ou des défenses pouvant concerner cette partie à raison d’une telle faute.
 
-### Règle E
+**Règle E**
 
 La preuve qu’une perte ou une dépense doit effectivement être admise en avarie commune incombe à celui qui réclame cette admission.
 
-### Règle F
+**Règle F**
 
 Toute dépense supplémentaire encourue en substitution d’une autre dépense qui aurait été admissible en avarie commune sera réputée elle-même avarie commune et admise à ce titre, sans égard à l’économie éventuellement réalisée par d’autres intérêts, mais seulement jusqu’à concurrence du montant de la dépense d’avarie commune ainsi évitée.
 
-### Règle G
+**Règle G**
 
 Le règlement des avaries communes doit être établi, tant pour l’estimation des pertes que pour la contribution, sur la base des valeurs au moment et au lieu où se termine l’aventure.
 
 Cette règle est sans influence sur la détermination du lieu où le règlement doit être établi.
 
-<table>
-<tr><td>Règle I</td><td>Jet de cargaison</td></tr>
-</table>
+**Règle I Jet de cargaison**
 
 Aucun jet de cargaison ne sera admis en avarie commune à moins que cette cargaison n’ait été transportée conformément aux usages reconnus du commerce.
 
-<table>
-<tr><td>Règle II</td><td>Dommage causé par jet et sacrifice pour le salut commun</td></tr>
-</table>
+**Règle II Dommage causé par jet et sacrifice pour le salut commun**
 
 Sera admis en avarie commune le dommage causé au navire et à la cargaison, ou à l’un d’eux, par un sacrifice ou en conséquence d’un sacrifice fait pour le salut commun, et par l’eau qui pénètre dans la cale par les écoutilles ouvertes ou par toute autre ouverture pratiquée en vue d’opérer un jet pour le salut commun.
 
-<table>
-<tr><td>Règle III</td><td>Extinction d’incendie à bord</td></tr>
-</table>
+**Règle III Extinction d’incendie à bord**
 
 Sera admis en avarie commune le dommage causé au navire et à la cargaison, ou à l’un d’eux, par l’eau ou autrement, y compris le dommage causé en submergeant ou en sabordant un navire en feu, en vue d’éteindre un incendie à bord; toutefois, aucune bonification ne sera faite pour dommage causé par la fumée ou la chaleur quelle qu’en soit la cause.
 
-<table>
-<tr><td>Règle IV</td><td>Coupement de débris</td></tr>
-</table>
+**Règle IV Coupement de débris**
 
 La perte ou le dommage éprouvé en coupant des débris ou des parties du navire qui ont été enlevés ou sont effectivement perdus par accident, ne sera pas bonifié en avarie commune.
 
-<table>
-<tr><td>Règle V</td><td>Echouement volontaire</td></tr>
-</table>
+**Règle V Échouement volontaire**
 
 Quand un navire est intentionnellement mis à la côte pour le salut commun, qu’il dût ou non y être drossé, les pertes ou dommages en résultant seront admis en avarie commune.
 
-<table>
-<tr><td>Règle VI*[^annexIV-lvlu1-lvlu7-1]*</td><td>Assistance</td></tr>
-</table>
+**Règle VI[^annexIV-lvlu1-1] Assistance**
 
 - a) Les dépenses encourues par les parties engagées dans l’aventure et ayant le caractère d’assistance, soit en vertu d’un contrat soit autrement, seront admises en avarie commune, pourvu que les opérations d’assistance aient été effectuées dans le but de préserver du péril les propriétés engagées dans l’aventure maritime commune.
-
-Les dépenses admises en avarie commune comprendront toute rémunération d’assistance dans la fixation de laquelle l’habileté et les efforts des assistants pour prévenir ou limiter les dommages à l’environnement, tels qu’ils sont énoncés à l’art. 13, al. 1, let. b, de la Convention Internationale de 1989 sur l’assistance, ont été pris en compte.
-
+- Les dépenses admises en avarie commune comprendront toute rémunération d’assistance dans la fixation de laquelle l’habileté et les efforts des assistants pour prévenir ou limiter les dommages à l’environnement, tels qu’ils sont énoncés à l’art. 13, al. 1, let. b, de la Convention Internationale de 1989 sur l’assistance, ont été pris en compte.
 - b) L’indemnité spéciale payable à l’assistant par l’armateur sous l’empire de l’art. 14 de la dite Convention, dans les conditions indiquées par le par. 4 de cet article, ou de toute autre disposition de portée semblable, ne sera pas admise en avarie commune.
 
-<table>
-<tr><td>Règle VII</td><td>Dommage aux machines et aux chaudières</td></tr>
-</table>
+**Règle VII Dommage aux machines et aux chaudières**
 
 Le dommage causé à toute machine et chaudière d’un navire échoué dans une position périlleuse par les efforts faits pour le renflouer, sera admis en avarie commune, lorsqu’il sera établi qu’il procède de l’intention réelle de renflouer le navire pour le salut commun au risque d’un tel dommage; mais lorsqu’un navire est à flot, aucune perte ou avarie causée par le fonctionnement de l’appareil de propulsion et des chaudières ne sera en aucune circonstance admise en avarie commune.
 
-<table>
-<tr><td>Règle VIII</td><td>Dépenses pour alléger un navire échoué et dommage résultant de cette mesure</td></tr>
-</table>
+**Règle VIII Dépenses pour alléger un navire échoué et dommage résultant de cette mesure**
 
 Lorsqu’un navire est échoué et que la cargaison, ainsi que le combustible et les approvisionnements du navire, ou l’un d’eux, sont déchargés dans des circonstances telles que cette mesure constitue un acte d’avarie commune, les dépenses supplémentaires d’allégement, de location des allégés et, le cas échéant, celles de réembarquement ainsi que la perte ou le dommage en résultant, seront admises en avarie commune.
 
-<table>
-<tr><td>Règle IX</td><td>Objets du navire et approvisionnements brûlés comme combustibles</td></tr>
-</table>
+**Règle IX Objets du navire et approvisionnements brûlés comme combustibles**
 
 Les objets et approvisionnements du navire, ou l’un d’eux, qu’il aura été nécessaire de brûler comme combustible pour le salut commun en cas de péril, seront admis en avarie commune quand, et seulement quand, le navire aura été pourvu d’un ample approvisionnement de combustible. Mais la quantité estimative de combustible qui aurait été consommée, calculée au prix courant au dernier port de départ du navire et à la date de ce départ, sera portée au crédit de l’avarie commune.
 
-<table>
-<tr><td>Règle X</td><td>Dépenses au port de refuge, etc.</td></tr>
-</table>
+**Règle X Dépenses au port de refuge, etc.**
 
 - a) Quand un navire sera entré dans un port ou lieu de refuge ou qu’il sera retourné à son port ou lieu de chargement par suite d’accident, de sacrifice ou d’autres circonstances extraordinaires qui auront rendu cette mesure nécessaire pour le salut commun, les dépenses encourues pour entrer dans ce port ou lieu seront admises en avarie commune; et, quand il en sera reparti avec tout ou partie de sa cargaison primitive, les dépenses correspondantes pour quitter ce port ou lieu qui auront été la conséquence de cette entrée ou de ce retour seront de même admises en avarie commune.
-
-Quand un navire est dans un port ou lieu de refuge quelconque et qu’il est nécessairement déplacé vers un autre port ou lieu parce que les répartitions ne peuvent être effectuées au premier port ou lieu, les dispositions de cette Règle s’appliqueront au deuxième port ou lieu, comme s’il était un port ou lieu de refuge, et le coût du déplacement, y compris les réparations provisoires et le remorquage, sera admis en avarie commune.
-
-Les dispositions de la Règle XI s’appliqueront à la prolongation du voyage occasionnée par ce déplacement.
-
+- Quand un navire est dans un port ou lieu de refuge quelconque et qu’il est nécessairement déplacé vers un autre port ou lieu parce que les répartitions ne peuvent être effectuées au premier port ou lieu, les dispositions de cette Règle s’appliqueront au deuxième port ou lieu, comme s’il était un port ou lieu de refuge, et le coût du déplacement, y compris les réparations provisoires et le remorquage, sera admis en avarie commune.
+- Les dispositions de la Règle XI s’appliqueront à la prolongation du voyage occasionnée par ce déplacement.
 - b) Les frais pour manutentionner à bord ou pour décharger la cargaison, le combustible ou les approvisionnements, soit à un port, soit à un lieu de chargement, d’escale ou de refuge, seront admis en avarie commune si la manutention ou le déchargement était nécessaire pour le salut commun ou pour permettre de réparer les avaries au navire causées par sacrifice ou par accident si ces réparations étaient nécessaires pour permettre de continuer le voyage en sécurité, excepté si les avaries au navire sont découvertes dans un port ou lieu de chargement ou d’escale sans qu’aucun accident ou autre circonstance extraordinaire en rapport avec ces avaries ne se soit produit au cours du voyage.
-
-Les frais pour manutentionner à bord ou pour décharger la cargaison, le combustible ou les approvisionnements ne seront pas admis en avarie commune s’ils ont été encourus à seule fin de remédier à un désarrimage survenu au cours du voyage, à moins qu’une telle mesure soit nécessaire pour le salut commun.
-
+- Les frais pour manutentionner à bord ou pour décharger la cargaison, le combustible ou les approvisionnements ne seront pas admis en avarie commune s’ils ont été encourus à seule fin de remédier à un désarrimage survenu au cours du voyage, à moins qu’une telle mesure soit nécessaire pour le salut commun.
 - c) Toutes les fois que les frais de manutention ou de déchargement de la cargaison, du combustible ou des approvisionnements seront admissibles en avarie commune, les frais de leur magasinage, y compris l’assurance si elle a été raisonnablement conclue, de leur rechargement et de leur arrimage seront également admis en avarie commune.
+- Mais si le navire est condamné ou ne continue pas son voyage primitif, les frais de magasinage ne seront admis en avarie commune que jusqu’à la date de condamnation du navire ou de l’abandon du voyage ou bien jusqu’à la date de l’achèvement du déchargement de la cargaison en cas de condamnation du navire ou d’abandon du voyage avant cette date.
 
-Mais si le navire est condamné ou ne continue pas son voyage primitif, les frais de magasinage ne seront admis en avarie commune que jusqu’à la date de condamnation du navire ou de l’abandon du voyage ou bien jusqu’à la date de l’achèvement du déchargement de la cargaison en cas de condamnation du navire ou d’abandon du voyage avant cette date.
-
-<table>
-<tr><td>Règle XI</td><td>Salaires et entretien de l’équipage et autres dépenses pour se rendre au port de refuge, et dans ce port, etc.</td></tr>
-</table>
+**Règle XI Salaires et entretien de l’équipage et autres dépenses pour se rendre au port de refuge, et dans ce port, etc.**
 
 - a) Les salaires et frais d’entretien du capitaine, des officiers et de l’équipage raisonnablement encourus ainsi que le combustible et les approvisionnements consommés durant la prolongation de voyage occasionnée par l’entrée du navire dans un port de refuge, ou par son retour au port ou lieu de chargement, doivent être admis en avarie commune quand les dépenses pour entrer en ce port ou lieu sont admissibles en avarie commune par application de la Règle X, (a).
 - b) Quand un navire sera entré ou aura été retenu dans un port ou lieu par suite d’un accident, sacrifice ou autres circonstances extraordinaires qui ont rendu cela nécessaire pour le salut commun, ou pour permettre la répartition des avaries causées au navire par sacrifice ou accident quand la réparation est nécessaire à la poursuite du voyage en sécurité, les salaires et frais d’entretien des capitaine, officiers et équipage raisonnablement encourus pendant la période supplémentaire d’immobilisation en ce port ou lieu jusqu’à ce que le navire soit ou aurait dû être mis en état de poursuivre son voyage, seront admis en avarie commune.
-
-Cependant, si des avaries au navire sont découvertes dans un port ou lieu de chargement ou d’escale sans qu’aucun accident ou autre circonstance extraordinaire en rapport avec ces avaries se soit produit au cours du voyage, alors les salaires et frais d’entretien des capitaine, officiers et équipage, ni le combustible et les approvisionnements consommés pendant l’immobilisation supplémentaire pour les besoins de la réparation des avaries ainsi découvertes, ne seront admis en avarie commune même si la réparation est nécessaire à la poursuite du voyage en sécurité.
-
-Quand le navire est condamné ou ne poursuit pas son voyage primitif, les salaires et frais d’entretien des capitaine, officiers et équipage et le combustible et les approvisionnements consommés ne seront admis en avarie commune que jusqu’à la date de la condamnation du navire ou de l’abandon du voyage ou jusqu’à la date d’achèvement du déchargement de la cargaison en cas de condamnation du navire ou d’abandon du voyage avant cette date.
-
-Le combustible et les approvisionnements consommés pendant la période supplémentaire d’immobilisation seront admis en avarie commune à l’exception du combustible et des approvisionnements consommés en effectuant des réparations non admissibles en avarie commune.
-
-Les frais de port encourus durant cette période supplémentaire d’immobilisation seront de même admis en avarie commune, à l’exception des frais qui ne sont encourus qu’à raison de réparation, non admissibles en avarie commune.
-
+- Cependant, si des avaries au navire sont découvertes dans un port ou lieu de chargement ou d’escale sans qu’aucun accident ou autre circonstance extraordinaire en rapport avec ces avaries se soit produit au cours du voyage, alors les salaires et frais d’entretien des capitaine, officiers et équipage, ni le combustible et les approvisionnements consommés pendant l’immobilisation supplémentaire pour les besoins de la réparation des avaries ainsi découvertes, ne seront admis en avarie commune même si la réparation est nécessaire à la poursuite du voyage en sécurité.
+- Quand le navire est condamné ou ne poursuit pas son voyage primitif, les salaires et frais d’entretien des capitaine, officiers et équipage et le combustible et les approvisionnements consommés ne seront admis en avarie commune que jusqu’à la date de la condamnation du navire ou de l’abandon du voyage ou jusqu’à la date d’achèvement du déchargement de la cargaison en cas de condamnation du navire ou d’abandon du voyage avant cette date.
+- Le combustible et les approvisionnements consommés pendant la période supplémentaire d’immobilisation seront admis en avarie commune à l’exception du combustible et des approvisionnements consommés en effectuant des réparations non admissibles en avarie commune.
+- Les frais de port encourus durant cette période supplémentaire d’immobilisation seront de même admis en avarie commune, à l’exception des frais qui ne sont encourus qu’à raison de réparation, non admissibles en avarie commune.
 - c) Pour l’application de la présente règle ainsi que des autres règles, les salaires comprennent les paiements faits aux capitaine, officiers et équipage ou à leur profit, que ces paiements soient imposés aux armateurs par la loi ou qu’ils résultent des conditions et clauses des contrats de travail.
 - d) Quand des heures supplémentaires sont payées aux capitaine, officiers ou équipage pour l’entretien du navire ou pour des réparations dont le coût n’est pas admissible en avarie commune, ces heures supplémentaires ne seront admises en avarie commune que jusqu’à concurrence de la dépense qui a été évitée et qui eût été encourue et admise en avarie commune si la dépense de ces heures supplémentaires n’avait pas été exposée.
 
-<table>
-<tr><td>Règle XII</td><td>Dommage causé à la cargaison en la déchargeant, etc.</td></tr>
-</table>
+**Règle XII Dommage causé à la cargaison en la déchargeant, etc.**
 
 Le dommage ou la perte subis par la cargaison, le combustible ou les approvisionnements dans les opérations de manutention, déchargement, emmagasinage, rechargement et arrimage seront admis en avarie commune lorsque le coût respectif de ces opérations sera admis en avarie commune et dans ce cas seulement.
 
-<table>
-<tr><td>Règle XIII</td><td>Déduction du coût des réparations</td></tr>
-</table>
+**Règle XIII Déduction du coût des réparations**
 
 Les réparations à admettre en avarie commune ne seront pas sujettes à des déductions pour différence du «neuf au vieux» quand du vieux matériel sera, en totalité ou en partie, remplacé par du neuf, à moins que le navire ait plus de quinze ans; en pareil cas, la déduction sera de un tiers.
 
@@ -1569,9 +1588,7 @@ Les frais de cale sèche, de slip et de déplacement du navire seront admis en e
 
 Les frais de nettoyage, de peinture ou d’enduit de la coque ne seront pas admis en avarie commune à moins que la coque ait été peinte ou enduite dans les douze mois qui ont précédé la date de l’acte d’avarie commune; en pareil cas, ces frais seront admis pour moitié.
 
-<table>
-<tr><td>Règle XIV</td><td>Réparations provisoires</td></tr>
-</table>
+**Règle XIV Réparations provisoires**
 
 Lorsque les réparations provisoires sont effectuées à un navire, dans un port de chargement, d’escale ou de refuge, pour le salut commun ou pour des avaries causées par un sacrifice d’avarie commune, le coût de ces réparations sera bonifié en avarie commune.
 
@@ -1579,71 +1596,54 @@ Lorsque les réparations provisoires d’un dommage fortuit sont effectuées afi
 
 Aucune déduction pour différence du «neuf au vieux» ne sera faite du coût des réparations provisoires admissibles en avarie commune.
 
-<table>
-<tr><td>Règle XV</td><td>Perte de fret</td></tr>
-</table>
+**Règle XV Perte de fret**
 
 La perte de fret résultant d’une perte ou d’un dommage subi par la cargaison sera admise en avarie commune, tant si elle est causée par un acte d’avarie commune que si cette perte ou ce dommage est ainsi admis.
 
 Devront être déduites du montant du fret brut perdu, les dépenses que le propriétaire de ce fait aurait encourues pour le gagner, mais qu’il n’a pas exposées par suite du sacrifice.
 
-<table>
-<tr><td>Règle XVI</td><td>Valeur à admettre pour la cargaison perdue ou avariée par sacrifice</td></tr>
-</table>
+**Règle XVI Valeur à admettre pour la cargaison perdue ou avariée par sacrifice**
 
 Le montant à admettre en avarie commune pour dommage ou perte de cargaison sacrifiée sera le montant de la perte éprouvée de ce fait en prenant pour base le prix au moment du déchargement vérifié d’après la facture commerciale remise au réceptionnaire ou, à défaut d’une telle facture, d’après la valeur embarquée. Le prix au moment du déchargement inclura le coût de l’assurance et le fret, sauf si ce fret n’est pas au risque de la cargaison.
 
 Quand une marchandise ainsi avariée est vendue et que le montant du dommage n’a pas été autrement convenu, la perte à admettre en avarie commune sera la différence entre le produit net de la vente et la valeur nette à l’état sain, telle qu’elle est calculée dans le premier paragraphe de cette Règle.
 
-<table>
-<tr><td>Règle XVII</td><td>Valeurs contributives</td></tr>
-</table>
+**Règle XVII Valeurs contributives**
 
 La contribution à l’avarie commune sera établie sur les valeurs nettes réelles des propriétés à la fin du voyage sauf que la valeur de la cargaison sera le prix au moment du déchargement vérifié d’après la facture commerciale remise au réceptionnaire ou, à défaut d’une telle facture, d’après la valeur embarquée. La valeur de la cargaison comprendra le coût de l’assurance et le fret sauf si ce fret n’est pas au risque de la cargaison, et sous déduction des pertes ou avaries subies par la cargaison avant ou pendant le déchargement. La valeur du navire sera estimée sans tenir compte de la plus ou moins value résultant de l’affrètement coque nue ou à temps sous lequel il peut se trouver.
 
-A ces valeurs sera ajouté le montant admis en avarie commune des propriétés sacrifiées, s’il n’y est pas déjà compris. Du fret et du prix de passage en risque seront déduits les frais et les gages de l’équipage qui n’auraient pas été encourus pour gagner le fret si le navire et la cargaison s’étaient totalement perdus au moment de l’acte d’avarie commune et qui n’ont pas été admis en avarie commune. De la valeur des propriétés seront également déduits tous les frais supplémentaires y relatifs, postérieurs à l’événement qui donne ouverture à l’avarie commune mais pour autant seulement qu’ils n’auront pas été admis en avarie commune.
+À ces valeurs sera ajouté le montant admis en avarie commune des propriétés sacrifiées, s’il n’y est pas déjà compris. Du fret et du prix de passage en risque seront déduits les frais et les gages de l’équipage qui n’auraient pas été encourus pour gagner le fret si le navire et la cargaison s’étaient totalement perdus au moment de l’acte d’avarie commune et qui n’ont pas été admis en avarie commune. De la valeur des propriétés seront également déduits tous les frais supplémentaires y relatifs, postérieurs à l’événement qui donne ouverture à l’avarie commune mais pour autant seulement qu’ils n’auront pas été admis en avarie commune.
 
 Quand une cargaison est vendue en cours de voyage, elle contribue sur le produit net de vente augmenté du montant admis en avarie commune.
 
 Les bagages des passagers et les effets personnels pour lesquels il n’est pas établi de connaissance ne contribueront pas à l’avarie commune.
 
-<table>
-<tr><td>Règle XVIII</td><td>Avaries au navire</td></tr>
-</table>
+**Règle XVIII Avaries au navire**
 
 Le montant à admettre en avarie commune pour dommage ou perte subis par le navire, ses machines et/ou ses apparaux, du fait d’un acte d’avarie commune, sera le suivant:
 
 - a) en cas de réparation ou de remplacement, le coût réel et raisonnable de la réparation ou du remplacement du dommage ou de la perte sous réserve des déductions à opérer en vertu de la Règle XIII;
 - b) dans le cas contraire, la dépréciation raisonnable résultant d’un tel dommage ou d’une telle perte jusqu’à concurrence du coût estimatif des réparations.
+- Mais lorsqu’il y a perte totale ou que le coût des réparations du dommage dépasserait la valeur du navire une fois réparé, le montant à admettre en avarie commune sera la différence entre la valeur estimative du navire à l’état sain sous déduction du coût estimatif des réparations du dommage n’ayant pas le caractère d’avarie commune, et la valeur du navire en son état d’avarie, cette valeur pouvant être déterminée par le produit net de vente, le cas échéant.
 
-Mais lorsqu’il y a perte totale ou que le coût des réparations du dommage dépasserait la valeur du navire une fois réparé, le montant à admettre en avarie commune sera la différence entre la valeur estimative du navire à l’état sain sous déduction du coût estimatif des réparations du dommage n’ayant pas le caractère d’avarie commune, et la valeur du navire en son état d’avarie, cette valeur pouvant être déterminée par le produit net de vente, le cas échéant.
-
-<table>
-<tr><td>Règle XIX</td><td>Marchandises non déclarées ou faussement déclarées</td></tr>
-</table>
+**Règle XIX Marchandises non déclarées ou faussement déclarées**
 
 La perte ou le dommage causé aux marchandises chargées à l’insu de l’armateur ou de son agent, ou à celles qui ont fait l’objet d’une désignation volontairement fausse au moment de l’embarquement, ne sera pas admis en avarie commune, mais ces marchandises resteront tenues de contribuer si elles sont sauvées.
 
 La perte ou le dommage causé aux marchandises qui ont été faussement déclarées à l’embarquement pour une valeur moindre que leur valeur réelle sera admis sur la base de la valeur déclarée, mais ces marchandises devront contribuer sur leur valeur réelle.
 
-<table>
-<tr><td>Règle XX</td><td>Avances de fonds</td></tr>
-</table>
+**Règle XX Avances de fonds**
 
 Une commission de deux pour cent sur les débours d’avarie commune autres que les salaires et frais d’entretien du capitaine, des officiers et de l’équipage et le combustible et les approvisionnements qui n’ont pas été remplacés durant le voyage, sera admise en avarie commune, mais lorsque les fonds n’auront pas été fournis par l’un des intérêts appelés à contribuer, les frais encourus exposés pour obtenir les fonds nécessaires, au moyen d’un prêt à la grosse ou autrement, de même que la perte subie par les propriétaires des marchandises vendues dans ce but seront admis en avarie commune.
 
 Les frais d’assurance de l’argent avancé pour payer les dépenses d’avarie commune seront également admis en avarie commune.
 
-<table>
-<tr><td>Règle XXI</td><td>Intérêts sur les pertes admises en avarie commune</td></tr>
-</table>
+**Règle XXI Intérêts sur les pertes admises en avarie commune**
 
 Un intérêt sera alloué sur les dépenses, sacrifices et bonifications classées en avarie commune, au taux de sept pour cent par an, jusqu’à la date du règlement d’avarie commune, en tenant compte toutefois des remboursements qui ont été faits dans l’intervalle par ceux qui sont appelés à contribuer ou prélevés sur le fonds des dépôts d’avarie commune.
 
-<table>
-<tr><td>Règle XXII</td><td>Traitement des dépôts en espèces</td></tr>
-</table>
+**Règle XXII Traitement des dépôts en espèces**
 
 Lorsque des dépôts en espèces auront été encaissés en garantie de la contribution de la cargaison à l’avarie commune, aux frais de sauvetage ou frais spéciaux, ces dépôts devront être versés, sans aucun délai, à un compte joint spécial aux noms d’un représentant désigné pour l’armateur et d’un représentant désigné pour les déposants dans une banque agréée par eux deux. La somme ainsi déposée augmentée, s’il y a lieu, des intérêts, sera conservée à titre de garantie pour le paiement aux ayants droit en raison de l’avarie commune, des frais de sauvetage ou des frais spéciaux payables par la cargaison et en vue desquels les dépôts ont été effectués. Des paiements en acompte ou des remboursements de dépôts peuvent être faits avec l’autorisation écrite du dispacheur. Ces dépôts, paiements ou remboursements, seront effectués sans préjudice des obligations définitives des parties.
 
-[^annexIV-lvlu1-lvlu7-1]: Modifiée par le Comité maritime international (Conférence de Paris 1990).
+[^annexIV-lvlu1-1]: Modifiée par le Comité maritime international (Conférence de Paris 1990).

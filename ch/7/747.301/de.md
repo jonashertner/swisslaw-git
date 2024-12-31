@@ -3,18 +3,18 @@ sr: "747.301"
 title: Seeschifffahrtsverordnung vom 20. November 1956
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473"
 language: de
-version: 2013-08-20
+version: 2025-01-01
 adopted: 1956-11-20
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20130820/de/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20130820-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20130820/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Seeschifffahrtsverordnung****
+# Seeschifffahrtsverordnung
 
-vom 20. November 1956 (Stand am 20. August 2013)[^t-1]
+vom 20. November 1956 (Stand am 1. Januar 2025)[^t-1]
 
 [^t-1]: AS **1956** 1369 Fassung gemäss Ziff. I der V vom 29. Juni 1977, in Kraft seit 1. Aug. 1977 (AS **1977** 1338).
 
@@ -60,7 +60,7 @@ Im Sinne des Seeschifffahrtsgesetzes sind unter Konsulaten auch Botschaften zu v
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 29. Juni 1977, in Kraft seit 1. Aug. 1977 ([AS 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
 
-### II.**** Zivilrechtliche Aufgaben
+### II. Zivilrechtliche Aufgaben
 
 [^chap1-lvlII-1]
 
@@ -70,19 +70,19 @@ Im Sinne des Seeschifffahrtsgesetzes sind unter Konsulaten auch Botschaften zu v
 
 Für die Durchführung der zivilrechtlichen Aufgaben des Kapitäns nach Artikel 56 des Seeschifffahrtsgesetzes erlässt das Eidgenössische Justiz- und Polizeidepartement die erforderlichen Weisungen.
 
-## Zweiter Abschnitt: Das schweizerische Seeschiff****
+## Zweiter Abschnitt: Das schweizerische Seeschiff
 
 [^chapII-1]
 
-[^chapII-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-1]: Fassung gemäss Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
-### I. Voraussetzungen für die Registrierung schweizerischer Seeschiffe und Kontrolle durch Revisionsstellen****
+### I. Voraussetzungen für die Registrierung schweizerischer Seeschiffe und Kontrolle durch Revisionsstellen
 
 [^chapII-lvlI-1]
 
-[^chapII-lvlI-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlI-1]: Fassung gemäss Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
-### 1.**** Allgemeine Voraussetzungen
+### 1. Allgemeine Voraussetzungen
 
 [^chapII-lvlI-lvl1-1]
 
@@ -90,52 +90,42 @@ Für die Durchführung der zivilrechtlichen Aufgaben des Kapitäns nach Artikel 
 
 #### Art. 5
 
-Ein Seeschiff wird im Register der schweizerischen Seeschiffe eingetragen, wenn die Voraussetzungen nach dem Seeschifffahrtsgesetz und dieser Verordnung erfüllt sind.
+[^5-1]
 
-### 2.**** Wohnsitz und Sitz
+<sup>1</sup> Seeschiffe von Unternehmen nach Artikel 19 des Seeschifffahrtsgesetzes werden im Register der schweizerischen Seeschiffe eingetragen, wenn die Voraussetzungen nach dem Seeschifffahrtsgesetz und dieser Verordnung erfüllt sind.
 
-[^chapII-lvlI-lvl2-1]
+<sup>2</sup> Soweit das Seeschifffahrtsgesetz oder diese Verordnung nichts anderes bestimmt, gelten die Bestimmungen des Obligationenrechts[^5-2] über die Vertretung der Unternehmen nach Artikel 19 des Seeschifffahrtsgesetzes.
 
-[^chapII-lvlI-lvl2-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 15. Nov. 1995 ([AS 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^5-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+### 2. …
 
 #### Art. 5a
 
-In der Schweiz müssen Wohnsitz oder Sitz haben:
+[^5a-1]
 
-- a. der Inhaber einer Einzelfirma;
-- b. drei Viertel der Gesellschafter oder sonstigen Teilhaber einer Kollektiv- oder Kommanditgesellschaft oder einer Gesellschaft mit beschränkter Haftung, die über drei Viertel der Kapital- und Kommanditeinlagen oder des Stammkapitals verfügen;
-- c. die Aktionäre einer Aktiengesellschaft oder Kommanditaktiengesellschaft, die über die Mehrheit des Aktienkapitals sowie über zwei Drittel der Stimmen verfügen;
-- d. zwei Drittel der Genossenschafter einer Genossenschaft, die zugleich über zwei Drittel des durch Anteilscheine geschaffenen Genossenschaftskapitals verfügen.
+[^5a-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Aufgehoben durch Ziff. I der V vom 9. Okt. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-### 3.**** Staatsangehörigkeit und Beherrschung
-
-[^chapII-lvlI-lvl3-1]
-
-[^chapII-lvlI-lvl3-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 15. Nov. 1995 ([AS 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+### 3. …
 
 #### Art. 5b
 
-<sup>1</sup> Natürliche Personen nach Artikel 5*a* müssen Schweizer Bürger sein.
+[^5b-1]
 
-<sup>2</sup> Handelsgesellschaften oder juristische Personen, die als Gesellschafter, Kommanditäre, Aktionäre, Genossenschafter oder sonstige Teilhaber am Unternehmen des schweizerischen Schiffseigentümers beteiligt oder als Nutzniesser oder in anderer Weise daran berechtigt sind, müssen hinsichtlich ihrer Gesellschafter, Kommanditäre, Aktionäre, Genossenschafter oder Mitglieder und der mit der Verwaltung beauftragten Personen sowie in Bezug auf ihr Gesellschaftskapital unzweifelhaft schweizerisch sein.
+[^5b-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Aufgehoben durch Ziff. I der V vom 9. Okt. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-<sup>3</sup> Das Schweizerische Seeschifffahrtsamt kann, wenn es für die Erhaltung der schweizerischen Eigenart des Unternehmens erforderlich ist, verlangen, dass die Aktionäre, Gesellschafter oder Genossenschafter, welche die nach Artikel 24 des Seeschifffahrtsgesetzes erforderlichen eigenen Mittel des Unternehmens stellen, in der Schweiz wohnhafte Schweizer Bürger oder im Sinne von Absatz 2 schweizerisch beherrschte Handelsgesellschaften oder juristische Personen sind.
-
-### 4.**** Verwaltung und Geschäftsführung
+### 4. Verwaltung
 
 [^chapII-lvlI-lvl4-1]
 
-[^chapII-lvlI-lvl4-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Fassung gemäss Ziff. I der V vom 25. Okt. 1995, in Kraft seit 15. Nov. 1995 ([AS 1995 4867](https://fedlex.data.admin.ch/eli/oc/1995/4867_4867_4867)).
+[^chapII-lvlI-lvl4-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)). Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 #### Art. 5c
 
-<sup>1</sup> Zwei Drittel der Mitglieder der Verwaltung und Geschäftsführung einer Aktiengesellschaft, einer Kommanditaktiengesellschaft, einer Gesellschaft mit beschränkter Haftung oder einer Genossenschaft müssen Schweizer Bürger sein.
+Unternehmen nach Artikel 19 des Seeschifffahrtsgesetzes müssen ihre tatsächliche Verwaltung in der Schweiz haben.
 
-<sup>2</sup> Ist mit der Verwaltung oder Geschäftsführung eine einzige Person betraut, so muss diese in der Schweiz wohnhaft sein. Besteht die Verwaltung oder Geschäftsführung aus mehreren Mitgliedern, so muss deren Mehrheit in der Schweiz wohnhaft sein.
-
-<sup>3</sup> Das Schweizerische Seeschifffahrtsamt kann, wenn es für die Erhaltung der schweizerischen Eigenart des Unternehmens erforderlich ist, verlangen, dass auch andere leitende Personen in der Schweiz wohnhafte Schweizer Bürger sind.
-
-### 5.**** Finanzielle Mittel
+### 5. Finanzielle Mittel
 
 [^chapII-lvlI-lvl5-1]
 
@@ -143,22 +133,19 @@ In der Schweiz müssen Wohnsitz oder Sitz haben:
 
 #### Art. 5d
 
+[^5d-1]
+
 <sup>1</sup> Der Schiffseigentümer muss über eigene Mittel verfügen, die mindestens 20 Prozent des Buchwerts der auf seinen Namen eingetragenen Schiffe entsprechen. Für jedes neu einzutragende Seeschiff gilt der Erwerbspreis als erster Buchwert.
 
-<sup>2</sup> Vermindern sich die eigenen Mittel infolge von Verlusten, so dürfen sie in den nächsten fünf Geschäftsjahren nie unter 8 Prozent des Buchwerts sinken; in Ausnahmefällen kann das Schweizerische Seeschifffahrtsamt diese Frist um höchstens zwei Jahre verlängern.
+<sup>2</sup> Vermindern sich die eigenen Mittel infolge von Verlusten, so dürfen sie in den nächsten acht Geschäftsjahren nie unter 5 Prozent des Buchwerts sinken; in Ausnahmefällen kann das Schweizerische Seeschifffahrtsamt diese Frist um höchstens zwei Jahre verlängern.
 
-<sup>3</sup> Für den Erwerb von Seeschiffen kann das Schweizerische Seeschifffahrtsamt eine Unterschreitung der in Absatz 1 geforderten eigenen Mittel zulassen, wenn die begründete Aussicht besteht, dass im Rahmen des normalen Geschäftsganges in den nächsten fünf Jahren die eigenen Mittel wieder 20 Prozent des Buchwertes erreichen. Die eigenen Mittel dürfen jedoch 8 Prozent des Buchwertes nicht unterschreiten.
+<sup>3</sup> Für den Erwerb von Seeschiffen kann das Schweizerische Seeschifffahrtsamt eine Unterschreitung der in Absatz 1 geforderten eigenen Mittel zulassen, wenn die begründete Aussicht besteht, dass im Rahmen des normalen Geschäftsganges in den nächsten acht Jahren die eigenen Mittel wieder 20 Prozent des Buchwertes erreichen. Die eigenen Mittel dürfen jedoch 5 Prozent des Buchwertes nicht unterschreiten.
 
-<sup>4</sup>
+<sup>4</sup> Das Schweizerische Seeschifffahrtsamt kann verlangen, dass der Schiffseigentümer die Herkunft der in seinem Seeschiff investierten Mittel mit einem vollständigen Finanzierungsausweis darlegt.
 
-Der Schiffseigentümer muss die Herkunft der in seinem Seeschiff investierten Mittel mit einem vollständigen Finanzierungsausweis darlegen. Unter Vorbehalt der Bestimmungen dieses Artikels kann er ein Seeschiff vollständig mit fremden Mitteln finanzieren, wenn:
+[^5d-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-- a. dadurch der schweizerische Einfluss auf das Unternehmen und auf die Führung des Seeschiffes nicht beeinträchtigt wird und
-- b. die ausländischen Gläubiger verpflichtet sind, auf Verlangen des Schweizerischen Seeschifffahrtsamtes die sofortige Rückzahlung der Schuld entgegenzunehmen.
-
-<sup>5</sup> Der Schiffseigentümer hat schriftlich zu erklären, dass sein Unternehmen keinen ausländischen Einfluss verdeckt oder verheimlicht.
-
-### 6.**** Buchführung
+### 6. Buchführung
 
 [^chapII-lvlI-lvl6-1]
 
@@ -166,9 +153,9 @@ Der Schiffseigentümer muss die Herkunft der in seinem Seeschiff investierten Mi
 
 #### Art. 5e
 
-<sup>1</sup> Die im Unternehmen eines schweizerischen Schiffseigentümers oder Reeders investierten finanziellen Mittel, mit denen er die Seeschifffahrt unter Schweizer Flagge betreibt, sind in der Bilanz und in den Büchern gesondert auszuweisen und dürfen nicht unter den laufenden Verpflichtungen aufgeführt sein.
+<sup>1</sup> Die im Unternehmen eines schweizerischen Schiffseigentümers investierten finanziellen Mittel, die zur Finanzierung eines Seeschiffes verwendet werden, sind in der Bilanz und in den Büchern gesondert auszuweisen und dürfen nicht unter den laufenden Verpflichtungen aufgeführt sein. [^5e-1]
 
-<sup>2</sup> Im Aktienbuch einer Aktiengesellschaft und im Anteilbuch einer Genossenschaft sind die Gesellschafter mit Name, Wohnort, Staatsangehörigkeit sowie Art und Umfang ihrer Beteiligung einzutragen.
+<sup>2</sup> …[^5e-2]
 
 <sup>3</sup>
 
@@ -182,12 +169,16 @@ Als eigene Mittel im Sinne von Artikel 24 Absatz 1 des Seeschifffahrtsgesetzes g
   - 2\. das Partizipationskapital und die Guthaben jedes Aktionärs, Gesellschafters oder Genossenschafters im Umfang des nicht einbezahlten Kapitals;
 
 - b. bei Kollektiv- und Kommanditgesellschaften: die Kapitaleinlagen und Guthabenkonten der unbeschränkt haftenden Gesellschafter und die einbezahlten Kommanditsummen;
-- c. bei Einzelfirmen: die eigenen Mittel des Inhabers im Unternehmen;
+- c.[^5e-3] bei Einzelunternehmen: die eigenen Mittel des Inhabers im Unternehmen;
 - d. bei allen Unternehmen: die offenen Reserven einschliesslich des Gewinnvortrages und die Rückstellungen, die nicht zur Deckung von Kosten des laufenden Geschäftsjahres bestimmt sind.
 
 <sup>4</sup> Ein Verlust ist von den eigenen Mitteln abzuziehen.
 
-### 7.**** Revisionsstelle
+[^5e-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^5e-2]: Aufgehoben durch Ziff. I der V vom 9. Okt. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^5e-3]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### 7. Revisionsstelle
 
 [^chapII-lvlI-lvl7-1]
 
@@ -209,7 +200,7 @@ Als eigene Mittel im Sinne von Artikel 24 Absatz 1 des Seeschifffahrtsgesetzes g
 [^5f-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^5f-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### 7a.**** Vorbehalt künftiger Änderungen
+### 7a. Vorbehalt künftiger Änderungen
 
 [^chapII-lvlI-lvl7a-1]
 
@@ -219,17 +210,21 @@ Als eigene Mittel im Sinne von Artikel 24 Absatz 1 des Seeschifffahrtsgesetzes g
 
 Erfüllt ein Schiffseigentümer im Falle einer künftigen Änderung die Bestimmungen dieser Verordnung über die Voraussetzungen für die Registrierung schweizerischer Seeschiffe nicht mehr, so finden die Bestimmungen der Artikel 27–29 des Seeschifffahrtsgesetzes Anwendung.
 
-### 8. Reeder-Nichteigentümer****
+### 8. Reeder-Nichteigentümer
 
 [^chapII-lvlI-lvl8-1]
 
-[^chapII-lvlI-lvl8-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlI-lvl8-1]: Fassung gemäss Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 6
 
-Ist ein Reeder nicht zugleich Eigentümer des Seeschiffes, so überwacht das Schweizerische Seeschifffahrtsamt, ob er die gesetzlichen Bedingungen als schweizerischer Reeder erfüllt. Der Reeder kann jedoch gleich wie ein Eigentümer alljährlich einen Revisionsbericht einer anerkannten Revisionsstelle einreichen, womit die Prüfung durch das Amt dahinfällt.
+[^6-1]
 
-### 9.**** Antrag auf Registrierung
+Ist ein Reeder nicht zugleich Eigentümer eines Seeschiffes, so überwacht das Schweizerische Seeschifffahrtsamt, ob er die gesetzlichen Bedingungen als schweizerischer Reeder erfüllt.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### 9. Antrag auf Registrierung
 
 [^chapII-lvlI-lvl9-1]
 
@@ -258,7 +253,7 @@ Der Schiffseigentümer hat dem Antrag beizulegen:
 
 <sup>3</sup> Jede Änderung der angegebenen Tatsachen ist vom Schiffseigentümer unverzüglich dem Schweizerischen Seeschiffsregisteramt zu melden, das sie an das Schweizerische Seeschifffahrtsamt weiterleitet.
 
-### II. Klassifikation der Seeschiffe****
+### II. Klassifikation der Seeschiffe
 
 [^chapII-lvlII-1]
 
@@ -266,17 +261,23 @@ Der Schiffseigentümer hat dem Antrag beizulegen:
 
 #### Art. 8
 
-<sup>1</sup> Schweizerische Seeschiffe müssen die höchste Klasse einer vom Schweizerischen Seeschifffahrtsamt anerkannten Klassifikationsgesellschaft besitzen.
+<sup>1</sup> Schweizerische Seeschiffe müssen eine kommerzielle Klasse einer vom Schweizerischen Seeschifffahrtsamt anerkannten Klassifikationsgesellschaft besitzen.[^8-1]
 
 <sup>2</sup> Vorbehalten bleiben die Seefähigkeitszeugnisse für einzelne Reisen.
 
-### III. Ausrüstung der Seeschiffe und Sicherheitsvorschriften****
+[^8-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### III. Internationale Übereinkommen
 
 [^chapII-lvlIII-1]
 
-[^chapII-lvlIII-1]: Fassung gemäss Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapII-lvlIII-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
-### 1. Anwendung internationaler Übereinkommen
+### 1. Anwendung
+
+[^chapII-lvlIII-lvl1-1]
+
+[^chapII-lvlIII-lvl1-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 #### Art. 9
 
@@ -284,50 +285,58 @@ Der Schiffseigentümer hat dem Antrag beizulegen:
 
 <sup>1</sup>
 
-Für die schweizerischen Seeschiffe, ihre Ausrüstung und Sicherheit, den Schutz des menschlichen Lebens auf See und der Gewässer des Meeres sowie für die Ausbildung von Seeleuten gelten die folgenden internationalen Übereinkommen in ihrer jeweils neuesten gültigen Fassung:
+Für die schweizerischen Seeschiffe, ihre Ausrüstung und Sicherheit, den Schutz des menschlichen Lebens auf See und der Gewässer des Meeres, die Arbeitsbedingungen auf schweizerischen Seeschiffen sowie die Ausbildung von Seeleuten gelten die folgenden internationalen Übereinkommen in ihrer jeweils neuesten gültigen Fassung:[^9-2]
 
-- a. Internationales Freibord-Übereinkommen vom 5. April 1966[^9-2];
-- b. Internationales Übereinkommen vom 1. November 1974[^9-3] mit Protokoll vom 17. Februar 1978[^9-4] zum Schutz des menschlichen Lebens auf See;
-- c. Übereinkommen vom 20. Oktober 1972[^9-5] über die internationalen Regeln zur Verhütung von Zusammenstössen auf See;
-- d. Radioreglement, das als Anhang zum internationalen Fernmeldevertrag vom 6. November 1982[^9-6] beigefügt ist;
-- e. Internationales Übereinkommen vom 2. November 1973 zur Verhütung der Meeresverschmutzung durch Schiffe in der Fassung des Protokolls vom 17. Februar 1978[^9-7];
-- f. Internationales Übereinkommen vom 7. Juli 1978[^9-8] über die Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten;
-- g[^9-9]. Internationales Übereinkommen vom 30. November 1990[^9-10] über Vorsorge, Bekämpfung und Zusammenarbeit auf dem Gebiet der Ölverschmutzung;
-- h.[^9-11] Seearbeitsübereinkommen vom 23. Februar 2006[^9-12] über die Arbeitsbedingungen auf Hochseeschiffen.[^9-13]
+- a. Internationales Freibord-Übereinkommen vom 5. April 1966[^9-3];
+- b. Internationales Übereinkommen vom 1. November 1974[^9-4] mit Protokoll vom 17. Februar 1978[^9-5] zum Schutz des menschlichen Lebens auf See;
+- c. Übereinkommen vom 20. Oktober 1972[^9-6] über die internationalen Regeln zur Verhütung von Zusammenstössen auf See;
+- d.[^9-7] …
+- e.[^9-8] Protokoll vom 17. Februar 1978[^9-9] zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und Protokoll vom 26. September 1997[^9-10] zur Änderung des Internationalen Übereinkommens zur Verhütung der Meeresverschmutzung durch Schiffe, 1973, in der Fassung des Protokolls zu diesem Übereinkommen 1978;
+- f. Internationales Übereinkommen vom 7. Juli 1978[^9-11] über die Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten;
+- g.[^9-12] Internationales Übereinkommen vom 30. November 1990[^9-13] über Vorsorge, Bekämpfung und Zusammenarbeit auf dem Gebiet der Ölverschmutzung;
+- h.[^9-14] Seearbeitsübereinkommen vom 23. Februar 2006[^9-15] über die Arbeitsbedingungen auf Hochseeschiffen;
+- i.[^9-16] Internationales Schiffsvermessungs-Übereinkommen vom 23. Juni 1969[^9-17].[^9-18]
 
 <sup>2</sup> Die Bestimmungen der in Absatz 1 erwähnten internationalen Übereinkommen finden auch Anwendung auf schweizerische Seeschiffe, die weniger als 500 Bruttoregistertonnen aufweisen; jedoch kann das Schweizerische Seeschifffahrtsamt für solche Schiffe im Einzelfalle Erleichterungen zulassen, sofern die erforderliche Sicherheit und der angestrebte Schutz gewährleistet sind.
 
-<sup>3</sup> Von schweizerischen Seeschiffen aus dürfen keine radioaktiven Abfälle ins Meer versenkt werden.
-
-<sup>4</sup> Vorbehalten bleiben die Vorschriften der PTT-Betriebe[^9-14] für die Errichtung und den Betrieb der Radiotelegrafie- und Radiotelefonie- Anlagen an Bord der Seeschiffe nach Massgabe des Internationalen Übereinkommens vom 1. November 1974 mit Protokoll vom 17. Februar 1978 zum Schutz des menschlichen Lebens auf See.[^9-15]
+<sup>3</sup> und <sup>4</sup> …[^9-19]
 
 [^9-1]: Fassung gemäss Ziff. I des BRB vom 4. Nov. 1966, in Kraft seit 1. Jan. 1967 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^9-2]: [SR 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
-[^9-3]: [SR 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^9-4]: [SR 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
-[^9-5]: [SR 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
-[^9-6]: [SR 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)**.** Das Radioreglement ist in der AS nicht veröffentlicht (siehe SR **0****.****784.403.1**).
-[^9-7]: [SR 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
-[^9-8]: [SR 0.747.341.2](https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639)
-[^9-9]: Eingefügt durch Ziff. I der V vom 9. Dez. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 151](https://fedlex.data.admin.ch/eli/oc/1997/151_151_151)).
-[^9-10]: BBl **1995** IV 271
-[^9-11]: Eingefügt durch Ziff. I der V vom 20. Febr. 2013, in Kraft seit 20. Aug. 2013 ([AS 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^9-12]: [SR 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
-[^9-13]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^9-14]: Bezeichnung gemäss Anhang Ziff. 1 des Fernmeldegesetzes vom 21. Juni 1991, in Kraft seit 1. Mai 1992 ([AS 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581)). Diese Änderung ist im ganzen Erlass berücksichtigt.
-[^9-15]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-3]: [SR 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
+[^9-4]: [SR 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^9-5]: [SR 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
+[^9-6]: [SR 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
+[^9-7]: Aufgehoben durch Ziff. I der V vom 9. Okt. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-8]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-9]: [SR 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^9-10]: [AS 2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887)
+[^9-11]: [SR 0.747.341.2](https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639)
+[^9-12]: Eingefügt durch Ziff. I der V vom 9. Dez. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 151](https://fedlex.data.admin.ch/eli/oc/1997/151_151_151)).
+[^9-13]: BBl **1995** IV 271
+[^9-14]: Eingefügt durch Ziff. I der V vom 20. Febr. 2013, in Kraft seit 20. Aug. 2013 ([AS 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
+[^9-15]: [SR 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^9-16]: Eingefügt durch Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^9-17]: [SR 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^9-18]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^9-19]: Aufgehoben durch Ziff. I der V vom 9. Okt. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ### 2. Zuständige Behörde und Kontrolle
 
 #### Art. 10
 
-<sup>1</sup> Wo ein anwendbar erklärtes internationales Übereinkommen von der Zuständigkeit und den Befugnissen der Regierung oder der Verwaltung des Staates, in dessen Schiffsregister das Seeschiff eingetragen ist, spricht, ist für schweizerische Seeschiffe das Schweizerische Seeschifffahrtsamt die zuständige Behörde, vorbehältlich der Befugnisse der PTT-Betriebe für die Radiotelegrafie- und Radiotelefonie-Anlagen.
+<sup>1</sup> Wo ein anwendbar erklärtes internationales Übereinkommen von der Zuständigkeit und den Befugnissen der Regierung oder der Verwaltung des Staates, in dessen Schiffsregister das Seeschiff eingetragen ist, spricht, ist für schweizerische Seeschiffe das Schweizerische Seeschifffahrtsamt die zuständige Behörde, vorbehältlich der Befugnisse des Bundesamtes für Kommunikation (BAKOM) für die Radiotelegrafie- und Radiotelefonie-Anlagen.[^10-1]
 
-<sup>2</sup> Sieht ein anwendbar erklärtes internationales Übereinkommen das Mitführen von Zeugnissen vor, so ist die Richtigkeit der in ihnen enthaltenen Angaben in den vorgeschriebenen Zeitabständen nachzuprüfen.[^10-1]
+<sup>2</sup> Sieht ein anwendbar erklärtes internationales Übereinkommen das Mitführen von Zeugnissen vor, so ist die Richtigkeit der in ihnen enthaltenen Angaben in den vorgeschriebenen Zeitabständen nachzuprüfen.[^10-2]
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 3. Ladegeschirre
+### 3. Vorschriften für Ladegeschirre, einschliesslich Überprüfung und Kontrolle
+
+[^chapII-lvlIII-lvl3-1]
+
+[^chapII-lvlIII-lvl3-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 #### Art. 11
 
@@ -342,7 +351,47 @@ Für die schweizerischen Seeschiffe, ihre Ausrüstung und Sicherheit, den Schutz
 [^11-1]: Fassung gemäss Ziff. I des BRB vom 4. Nov. 1966, in Kraft seit 1. Jan. 1967 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 [^11-2]: Von der Schweiz nicht ratifiziert.
 
-### IV. Bestand der Schiffsbesatzung****
+### 3*a*. Abfallentsorgung
+
+[^chapII-lvlIII-lvl3a-1]
+
+[^chapII-lvlIII-lvl3a-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+#### Art. 11a
+
+<sup>1</sup> Von schweizerischen Seeschiffen aus dürfen keine Abfälle oder sonstige Stoffe ins Meer versenkt werden.
+
+<sup>2</sup> Vorbehalten bleibt die Entsorgung von Abfall aus dem Betrieb von Schiffen in Übereinstimmung mit dem Protokoll vom 17. Februar 1978[^11a-1] zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe.
+
+[^11a-1]: [SR 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+
+### 3*b*. Abfallverbrennung
+
+[^chapII-lvlIII-lvl3b-1]
+
+[^chapII-lvlIII-lvl3b-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+#### Art. 11b
+
+<sup>1</sup> Auf schweizerischen Seeschiffen dürfen keine Abfälle oder sonstige Stoffe auf See verbrannt werden.
+
+<sup>2</sup> Vorbehalten bleibt die Verbrennung von Abfall aus dem Betrieb von Schiffen in Übereinstimmung mit dem Protokoll vom 17. Februar 1978[^11b-1] zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe.
+
+[^11b-1]: [SR 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+
+### 3*c* *.* Bewuchsschutzsysteme
+
+[^chapII-lvlIII-lvl3c-1]
+
+[^chapII-lvlIII-lvl3c-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+#### Art. 11c
+
+Auf schweizerischen Seeschiffen dürfen keine in Anlage 1 des Internationalen Übereinkommens vom 5. Oktober 2001[^11c-1] über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen aufgelisteten Bewuchsschutzsysteme aufgebracht, wiederaufgebracht, angebracht oder verwendet werden.
+
+[^11c-1]: [SR 0.814.295](https://fedlex.data.admin.ch/eli/cc/2013/889)
+
+### IV. Bestand der Schiffsbesatzung
 
 [^chapII-lvlIV-1]
 
@@ -356,7 +405,7 @@ Für die schweizerischen Seeschiffe, ihre Ausrüstung und Sicherheit, den Schutz
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### V. Unterkunft der Schiffsbesatzung****
+### V. Unterkunft der Schiffsbesatzung
 
 [^chapII-lvlV-1]
 
@@ -378,7 +427,7 @@ Das Schweizerische Seeschifffahrtsamt kann bei bereits eingetragenen und bei vor
 
 [^14-1]: Anhang II der vorliegenden V.
 
-## Dritter Abschnitt: Anmerkung und Vormerkung der Schiffsmiete und Charterverträge****
+## Dritter Abschnitt: Anmerkung und Vormerkung der Schiffsmiete und Charterverträge
 
 [^chapIII-1]
 
@@ -392,10 +441,10 @@ Das Schweizerische Seeschifffahrtsamt kann bei bereits eingetragenen und bei vor
 
 <sup>3</sup> Die Löschung der Anmerkung erfolgt auf schriftliches Begehren des Eigentümers und des Mieters. Ist der Mietvertrag dahingefallen, so kann der Mieter vom Eigentümer und dieser vom Mieter verlangen, dass er die Löschung der Anmerkung bewillige. Der Mieter hat dieses Recht auch dann, wenn der Eigentümer auf die Anmerkung verzichtet hat.
 
-<sup>4</sup> Für die Vormerkung der Schiffsmiete gemäss Artikel 92 Absatz 4 und eines Chartervertrages gemäss Artikel 94 Absatz 3 des Seeschifffahrtsgesetzes finden die Bestimmungen der Artikel 81 und 82 der Grundbuchverordnung vom 23. September 2011[^15-1] entsprechende Anwendung.[^15-2]
+<sup>4</sup> Für die Vormerkung der Schiffsmiete gemäss Artikel 92 Absatz 5 des Seeschifffahrtsgesetzes und eines Chartervertrages gemäss Artikel 94 Absatz 3 des Seeschifffahrtsgesetzes finden die Bestimmungen der Artikel 81 und 82 der Grundbuchverordnung vom 23. September 2011[^15-1] entsprechende Anwendung.[^15-2]
 
 [^15-1]: [SR 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
-[^15-2]: Eingefügt durch Ziff. I des BRB vom 4. Nov. 1966 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)). Fassung gemäss Anhang Ziff. 4 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^15-2]: Eingefügt durch Ziff. I des BRB vom 4. Nov. 1966 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)). Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ## Vierter Abschnitt: Das Arbeitsrecht zur See
 
@@ -456,7 +505,7 @@ Das Schweizerische Seeschifffahrtsamt kann bei bereits eingetragenen und bei vor
 
 #### Art. 20
 
-<sup>1</sup> Das Schweizerische Seeschifffahrtsamt stellt für Kapitäne und Offiziere des Deck- und Maschinendienstes, für Rettungsbootsleute sowie Schiffsleute, die Brückenwache gehen, und die PTT-Betriebe stellen für die Funker an Bord eines Seeschiffes schweizerische Fähigkeitsausweise aus, wenn die erforderlichen Bedingungen erfüllt sind.[^20-1]
+<sup>1</sup> Das Schweizerische Seeschifffahrtsamt stellt für Kapitäne und Offiziere des Deck- und Maschinendienstes, für Rettungsbootsleute sowie für Schiffsleute, die Brückenwache gehen, und das BAKOM für die Funker an Bord eines Seeschiffes schweizerische Fähigkeitsausweise aus, wenn die erforderlichen Bedingungen erfüllt sind.[^20-1]
 
 <sup>2</sup> Schweizerische Fähigkeitsausweise können auch ausländischen Staatsangehörigen, die an Bord schweizerischer Seeschiffe beschäftigt sind, ausgestellt werden, sofern sie solche für die Ausübung ihrer Tätigkeit an Bord nachweislich benötigen.[^20-2]
 
@@ -464,7 +513,7 @@ Das Schweizerische Seeschifffahrtsamt kann bei bereits eingetragenen und bei vor
 
 <sup>4</sup> In begründeten Fällen kann das Schweizerische Seeschifffahrtsamt einen zeitlich befristeten, provisorischen Fähigkeitsausweis ausstellen. Es beachtet dabei die Regeln der anwendbaren internationalen Übereinkommen.[^20-3]
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 [^20-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^20-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
@@ -474,7 +523,7 @@ Das Schweizerische Seeschifffahrtsamt kann bei bereits eingetragenen und bei vor
 
 <sup>1</sup> Das Mindestalter beträgt für den Kapitän und den ersten Offizier des Maschinendienstes 23 Jahre, für den ersten Offizier des Deckdienstes und den zweiten Offizier des Maschinendienstes 21 Jahre und für alle weiteren Offiziere des Deck- und Maschinendienstes sowie für den Funker 20 Jahre.[^21-1]
 
-<sup>2</sup> Die Prüfung für den entsprechenden Dienstgrad ist an einer vom Schweizerischen Seeschifffahrtsamt anerkannten Seefahrtsschule zu bestehen, wobei die Prüfungsbedingungen dieser Schulen massgebend sind. Für Funker und Hilfsfunker wird die Prüfung jedoch von den PTT-Betrieben durchgeführt.
+<sup>2</sup> Die Prüfung für den entsprechenden Dienstgrad ist an einer vom Schweizerischen Seeschifffahrtsamt anerkannten Seefahrtsschule zu bestehen, wobei die Prüfungsbedingungen dieser Schulen massgebend sind. Für Funker und Hilfsfunker wird die Prüfung vom BAKOM durchgeführt.[^21-2]
 
 <sup>3</sup>
 
@@ -482,10 +531,11 @@ Der dritte und der vierte Offizier des Maschinendienstes brauchen keine Prüfung
 
 - a. eine an Land bestandene, zweckmässige Berufslehre;
 - b. eine Empfehlung des Reeders hinsichtlich ihrer Befähigung;
-- c. die Teilnahme an einem zugelassenen praktischen Brandbekämpfungskurs.[^21-2]
+- c. die Teilnahme an einem zugelassenen praktischen Brandbekämpfungskurs.[^21-3]
 
 [^21-1]: Fassung gemäss Ziff. I des BRB vom 4. Nov. 1966, in Kraft seit 1. Jan. 1967 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
-[^21-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^21-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 3. Mindestfahrzeit
 
@@ -564,11 +614,13 @@ Die Fahrzeit an Bord eines Seeschiffes, die für den Erwerb eines Fähigkeitszeu
 
 <sup>3</sup> Die nicht in Wachen eingeteilten Seeleute sowie die Seeleute des allgemeinen Dienstes leisten auf See ihre Arbeitsstunden innerhalb einer Zeitspanne von 13 aufeinander folgenden Stunden.
 
-<sup>4</sup> Die Funker leisten auf See täglich acht Stunden Wachdienst nach den Bestimmungen des dem Internationalen Fernmeldevertrag vom 6. November 1982[^26-2] beigefügten Radioreglements. Ist das Schiff mit zusätzlichen automatischen Funkanlagen ausgerüstet, so kann das Schweizerische Seeschifffahrtsamt nach Anhören der beteiligten Kreise den Funker vom Wachdienst befreien. Nach Beendigung der allfälligen Instandstellungsarbeiten an den elektronischen Anlagen dürfen die Funker vom Kapitän zu Schreibarbeiten oder andern administrativen Arbeiten herangezogen werden.[^26-3]
+<sup>4</sup> Die Funker leisten auf See täglich acht Stunden Wachdienst nach den Bestimmungen des Radioreglements vom 17. November 1995[^26-2], das die Konstitution der Internationalen Fernmeldeunion vom 22. Dezember 1992[^26-3] und die Konvention der Internationalen Fernmeldeunion vom 22. Dezember 1992[^26-4] ergänzt. Ist das Schiff mit zusätzlichen automatischen Funkanlagen ausgerüstet, so kann das Schweizerische Seeschifffahrtsamt nach Anhören der beteiligten Kreise den Funker vom Wachdienst befreien. Nach Beendigung der allfälligen Instandstellungsarbeiten an den elektronischen Anlagen dürfen die Funker vom Kapitän zu Schreibarbeiten oder andern administrativen Arbeiten herangezogen werden.[^26-5]
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^26-2]: [SR 0.784.16](https://fedlex.data.admin.ch/eli/cc/1985/1093_1093_1093)**.** Das Radioreglement ist in der AS nicht veröffentlicht (siehe SR **0****.****784.403.1**).
-[^26-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^26-2]: [SR 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
+[^26-3]: [SR 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)
+[^26-4]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^26-5]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ### b. im Hafen und auf der Reede
 
@@ -740,24 +792,28 @@ Der Mindestanspruch auf bezahlte Ferien bestimmt sich nach Artikel 329*a* des Ob
 
 #### Art. 41
 
-<sup>1</sup> Die Versicherung gegen Krankheit und Berufsunfälle hat bei einer vom Eidgenössischen Justiz- und Polizeidepartement zum Geschäftsbetrieb in der Schweiz ermächtigten Versicherungsgesellschaft zu erfolgen. Verfügt der Reeder eines schweizerischen Seeschiffes für sein Personal über eine gemäss Krankenversicherungsgesetz vom 18. März 1994[^41-1] vom Bund anerkannte eigene Krankenkasse, ist diese für die vorgeschriebene Krankenversicherung zugelassen.[^41-2]
+[^41-1]
 
-<sup>2</sup> Jeder Reeder eines schweizerischen Seeschiffes hat dem Schweizerischen Seeschifffahrtsamt ein Doppel des Versicherungsvertrages einzusenden. Dieses Amt hat vorgängig der Genehmigung die Eidgenössische Finanzmarktaufsicht[^41-3] oder gegebenenfalls das Bundesamt für Gesundheit[^41-4] anzuhören. Die Versicherungsgesellschaften sind verpflichtet, dem Schweizerischen Seeschifffahrtsamt von einer Auflösung oder Beendigung des Vertrages durch eingeschriebenen Brief Kenntnis zu geben.
+<sup>1</sup> Die Versicherung gegen Krankheit und Berufsunfälle hat bei einer von der Eidgenössischen Finanzmarktaufsicht zum Geschäftsbetrieb in der Schweiz oder bei einer im Ausland zum dortigen Geschäftsbetrieb zugelassenen Versicherungsgesellschaft zu erfolgen. Verfügt der Reeder eines schweizerischen Seeschiffes für sein Personal über eine eigene Krankenkasse, die gemäss Bundesgesetz vom 18. März 1994[^41-2] über die Krankenversicherung vom Bund anerkannt ist, so ist diese für die vorgeschriebene Krankenversicherung zugelassen.
 
-[^41-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^41-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^41-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
-[^41-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
+<sup>2</sup> Jeder Reeder eines schweizerischen Seeschiffes hat dem Schweizerischen Seeschifffahrtsamt ein Doppel des Versicherungsvertrages einzusenden. Die Versicherungsgesellschaften sind verpflichtet, dem Schweizerischen Seeschifffahrtsamt von einer Auflösung oder einer Beendigung des Vertrages durch eingeschriebenen Brief Kenntnis zu geben.
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^41-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### 2. Mindestleistungen; Mustervertrag
 
 #### Art. 42
 
-<sup>1</sup> Die Mindestleistungen und die weiteren Bestimmungen, die der Versicherungsvertrag zu enthalten hat, um der Versicherungspflicht des Reeders gemäss Artikel 84 Absatz 3 des Seeschifffahrtsgesetzes zu genügen, werden nach Einladung der beteiligten Kreise zur Meinungsäusserung vom Bundesrat in einem Mustervertrag festgesetzt; dieser Mustervertrag wird der Verordnung im Anhang als Bestandteil beigefügt.[^42-1]
+[^42-1]
+
+<sup>1</sup> Die Mindestleistungen und die weiteren Bestimmungen, die der Versicherungsvertrag einer schweizerischen Versicherungsgesellschaft zu enthalten hat, um der Versicherungspflicht des Reeders gemäss Artikel 84 Absatz 3 des Seeschifffahrtsgesetzes zu genügen, werden nach Einladung der beteiligten Kreise zur Meinungsäusserung vom Bundesrat in einem Mustervertrag festgesetzt; dieser Mustervertrag wird der Verordnung im Anhang als Bestandteil beigefügt.[^42-2] Die Verträge der ausländischen Versicherungsgesellschaften müssen gleichwertig sein und die Verpflichtungen der Reeder betreffend die Arbeitsbedingungen auf Hochseeschiffen nach dem Seearbeitsübereinkommen vom 23. Februar 2006[^42-3] abdecken.
 
 <sup>2</sup> Die Vergütungen aus der Versicherung werden an eine allfällige Leistungspflicht des Versicherungsnehmers angerechnet.
 
-[^42-1]: Anhang III der vorliegenden V.
+[^42-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+[^42-2]: Anhang III der vorliegenden V.
+[^42-3]: [SR 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
 
 ### 3. Berufsunfälle
 
@@ -765,15 +821,13 @@ Der Mindestanspruch auf bezahlte Ferien bestimmt sich nach Artikel 329*a* des Ob
 
 Als Berufsunfälle gelten alle Unfälle, die sich bei Ausübung einer dienstlichen Obliegenheit ereignen. Unfälle an Bord des Schiffes, beim Bootsverkehr von Schiff zu Schiff sowie vom Schiff zum Land und zurück gelten in allen Fällen als Berufsunfälle.
 
-### 4. …****
+### 4. …
 
 [^chapIV-lvlVIII-lvl4-1]
 
 [^chapIV-lvlVIII-lvl4-1]: Aufgehoben durch Ziff. I der V vom 22. Dez. 1988, mit Wirkung seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-## Fünfter Abschnitt****: Haftungsbeträge
-
-[^chapV-1]
+## Fünfter Abschnitt[^chapV-1]: Haftungsbeträge
 
 [^chapV-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
@@ -804,17 +858,15 @@ Die Haftung des Seefrachtführers wird nach Artikel 105 Absatz 3 des Seeschifffa
 
 [^44a-1]: Aufgehoben durch Ziff. I der V vom 3. Sept. 1997, mit Wirkung seit 1. Nov. 1997 ([AS 1997 2186](https://fedlex.data.admin.ch/eli/oc/1997/2186_2186_2186)).
 
-## Sechster Abschnitt****: Verfahrensrechtliche Bestimmungen
-
-[^chapVI-1]
+## Sechster Abschnitt[^chapVI-1]: Verfahrensrechtliche Bestimmungen
 
 [^chapVI-1]: Ursprünglich fünfter Abschnitt.
 
-### Erster Unterabschnitt: Haftungsbeschränkung durch Einrichtung eines Haftungsfonds****
+### Erster Unterabschnitt: Haftungsbeschränkung durch Einrichtung eines Haftungsfonds
 
-[^chapVI-sec1-1]
+[^chapVI-secI-1]
 
-[^chapVI-sec1-1]: Fassung des Tit. gemäss Ziff. I des BRB vom 4. Nov. 1966, in Kraft seit 1. Jan. 1967 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^chapVI-secI-1]: Fassung des Tit. gemäss Ziff. I des BRB vom 4. Nov. 1966, in Kraft seit 1. Jan. 1967 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 
 ### I. Eröffnung des Verfahrens
 
@@ -884,11 +936,11 @@ Die Mitteilung oder die öffentliche Bekanntmachung des Sachwalters hat zu entha
 [^48-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^48-3]: Eingefügt durch Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### II. Feststellung der Haftungsfonds****
+### II. Feststellung der Haftungsfonds
 
-[^chapVI-sec1-lvlII-1]
+[^chapVI-secI-lvlII-1]
 
-[^chapVI-sec1-lvlII-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlII-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 1. Gerichtliche Beurteilung auf Antrag des Gläubigers
 
@@ -907,11 +959,11 @@ Die Mitteilung oder die öffentliche Bekanntmachung des Sachwalters hat zu entha
 [^49-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^49-4]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 2. Art der Errichtung und Berechnung der Haftungsfonds****
+### 2. Art der Errichtung und Berechnung der Haftungsfonds
 
-[^chapVI-sec1-lvlII-lvl2-1]
+[^chapVI-secI-lvlII-lvl2-1]
 
-[^chapVI-sec1-lvlII-lvl2-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlII-lvl2-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 #### Art. 50
 
@@ -924,11 +976,11 @@ Die Mitteilung oder die öffentliche Bekanntmachung des Sachwalters hat zu entha
 [^50-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^50-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### 3. Recht an den Haftungsfonds****
+### 3. Recht an den Haftungsfonds
 
-[^chapVI-sec1-lvlII-lvl3-1]
+[^chapVI-secI-lvlII-lvl3-1]
 
-[^chapVI-sec1-lvlII-lvl3-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlII-lvl3-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 #### Art. 51
 
@@ -1015,11 +1067,11 @@ Die Mitteilung oder die öffentliche Bekanntmachung des Sachwalters hat zu entha
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
-### IV. Verteilung der Haftungsfonds****
+### IV. Verteilung der Haftungsfonds
 
-[^chapVI-sec1-lvlIV-1]
+[^chapVI-secI-lvlIV-1]
 
-[^chapVI-sec1-lvlIV-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+[^chapVI-secI-lvlIV-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 
 ### 1. Verteilungsliste
 
@@ -1082,21 +1134,21 @@ Wird der Reeder für Forderungen, auf die sich ein in der Schweiz eröffnetes Ve
 
 ### Zweiter Unterabschnitt: Die gerichtliche Bestätigung einer Dispache
 
-### I.**** Anwendbares Recht
+### I. Anwendbares Recht
 
-[^chapVI-sec2-lvlI-1]
+[^chapVI-secII-lvlI-1]
 
-[^chapVI-sec2-lvlI-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapVI-secII-lvlI-1]: Eingefügt durch Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 63
 
 Für die Havarie-Grosse gelten die Bestimmungen der York-Antwerpener Regeln in der Fassung von Anhang IV zu dieser Verordnung.
 
-### II. Aufstellung der Dispache****
+### II. Aufstellung der Dispache
 
-[^chapVI-sec2-lvlII-1]
+[^chapVI-secII-lvlII-1]
 
-[^chapVI-sec2-lvlII-1]: Fassung gemäss Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapVI-secII-lvlII-1]: Fassung gemäss Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 #### Art. 63a
 
@@ -1112,11 +1164,11 @@ Für die Havarie-Grosse gelten die Bestimmungen der York-Antwerpener Regeln in d
 
 [^63a-1]: Ursprünglich Art. 63.
 
-### III. Bestätigung der Dispache****
+### III. Bestätigung der Dispache
 
-[^chapVI-sec2-lvlIII-1]
+[^chapVI-secII-lvlIII-1]
 
-[^chapVI-sec2-lvlIII-1]: Fassung gemäss Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+[^chapVI-secII-lvlIII-1]: Fassung gemäss Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 ### 1. Antrag der Beteiligten
 
@@ -1207,11 +1259,9 @@ Für die Havarie-Grosse gelten die Bestimmungen der York-Antwerpener Regeln in d
 
 <sup>2</sup> Die Klagfristen sind eingehalten, wenn innerhalb der vorgeschriebenen Frist der Schiedsvertrag unterzeichnet worden ist, die Klagpartei ihren Schiedsrichter ernannt und die Gegenpartei um Ernennung ihres Schiedsrichters aufgefordert oder gegebenenfalls Antrag auf Bezeichnung des Einzelschiedsrichters gestellt hat. Von diesem Zeitpunkt an läuft eine weitere Frist von 30 Tagen, binnen welcher die Klage beim Schiedsgericht einzureichen ist, widrigenfalls die Klagfrist als versäumt gilt.
 
-## Siebter Abschnitt****: Schlussbestimmungen
+## Siebter Abschnitt[^chapVII-1]: Schlussbestimmungen
 
-[^sec7-1]
-
-[^sec7-1]: Ursprünglich: sechster Abschnitt.
+[^chapVII-1]: Ursprünglich: sechster Abschnitt.
 
 ### Inkrafttreten
 
@@ -1223,21 +1273,21 @@ Anhang I
 
 (Art. 9 Abs. 1)
 
-## Regeln zur Verhütung von Zusammenstössen auf See****
+## Regeln zur Verhütung von Zusammenstössen auf See
 
 [^annexI-lvlu1-1]
 
 [^annexI-lvlu1-1]: [SR 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
 
-Anhang II*[^t-2]*
+Anhang II[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. II Abs. 1 der V vom 20. Febr. 2013, mit Wirkung seit 20. Aug. 2013 ([AS 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
-Anhang III*[^t-3]*
+Anhang III[^t-3]
 
 (Art. 42)
 
-## Mustervertrag für die Versicherung von Schiffsbesatzungen in der Seeschifffahrt****
+## Mustervertrag für die Versicherung von Schiffsbesatzungen in der Seeschifffahrt
 
 [^annexIII-lvlu1-1]
 
@@ -1312,7 +1362,9 @@ Nicht versichert sind:
 
 <sup>1</sup> Die Höhe der Versicherungsleistungen richtet sich ausschliesslich nach den massgebenden Bestimmungen des Bundesgesetzes vom 13. Juni 1911[^annexIII-lvlu1-lvlB-lvlI-6-1] über die Kranken- und Unfallversicherung (KUVG) unter Vorbehalt von Absatz 2 hienach. In Fällen, die in diesem Gesetze nicht eindeutig geregelt sind, ist die Praxis der SUVA massgebend.
 
-<sup>2</sup> In Abänderung
+<sup>2</sup>
+
+In Abänderung:
 
 - a. von Artikel 74 KUVG[^annexIII-lvlu1-lvlB-lvlI-6-2] beträgt das Krankengeld (Taggeld) 100 Prozent des anrechenbaren Lohnbetrages laut Buchstabe d;
 - b. von Artikel 77 KUVG[^annexIII-lvlu1-lvlB-lvlI-6-3] beträgt die Invalidenrente bei gänzlicher Erwerbsunfähigkeit 100 Prozent des gemäss Buchstabe d anrechenbaren Lohnbetrages. Bei nur teilweiser Erwerbsunfähigkeit wird die Rente entsprechend gekürzt;
@@ -1401,7 +1453,7 @@ Im Übrigen gelten die Bestimmungen des Versicherungsvertragsgesetzes vom 2. Apr
 
 [^annexIII-lvlu1-lvlD-16-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
 
-Anhang IV*[^t-4]*
+Anhang IV[^t-4]
 
 (Art. 63)
 
@@ -1411,89 +1463,85 @@ Anhang IV*[^t-4]*
 
 Angenommen von dem Comité Maritime International (Konferenz von Hamburg 1974)
 
-### *Auslegungsregel*
+**Auslegungsregel**
 
 Bei der Aufmachung von Havarie-grosse-Dispachen sollen die folgenden Buchstaben- und Ziffernregeln angewendet werden unter Ausschluss jedes Gesetzes oder jeder Praxis, die diesen Regeln entgegenstehen.
 
 Mit Ausnahme dessen, was in den Ziffernregeln vorgesehen ist, soll Havarie-grosse in Übereinstimmung mit den Buchstabenregeln dispachiert werden.
 
-### *Regel A*
+**Regel A**
 
 Ein Havarie-grosse-Fall ist dann und nur dann gegeben, wenn irgendein ausserordentliches Opfer oder eine ausserordentliche Aufwendung absichtlich und vernünftigerweise für die gemeinsame Sicherheit zu dem Zwecke gemacht oder eingegangen wurde, um das in einer gemeinsamen Seeunternehmung befindliche Eigentum vor Gefahr zu bewahren.
 
-### *Regel B*
+**Regel B**
 
 Havarie-grosse-Aufopferungen und -Aufwendungen sollen von den verschiedenen beitragenden Interessen auf der nachstehend vorgesehenen Grundlage getragen werden.
 
-### *Regel C*
+**Regel C**
 
 Nur solche Verluste, Schäden oder Ausgaben, die die direkte Folge einer Havarie-grosse-Massnahme sind, sollen in Havarie-grosse vergütet werden.
 
 An Schiff oder Ladung entstandener Verlust oder Schaden durch Verzögerung und/oder Aufenthalt, einerlei, ob während der Reise oder im Anschluss an dieselbe, wie z. B. Zeitverlust, und jeder wie auch immer geartete indirekte Verlust, wie z. B. Marktverlust, sollen nicht in Havarie-grosse vergütet werden.
 
-### *Regel D*
+**Regel D**
 
 Die Rechte auf Havarie-grosse-Beitrag sollen selbst dann nicht beeinträchtigt werden, wenn das Ereignis, das zu der Aufopferung oder Aufwendung Veranlassung gab, möglicherweise dem Verschulden einer der an dem Unternehmen beteiligten Parteien zuzuschreiben ist.
 
 Dies soll jedoch eventuelle Rechtsansprüche oder deren Abwehr nicht präjudizieren, die möglicherweise gegen oder für diese Partei wegen solchen Verschuldens offen stehen.
 
-### *Regel E*
+**Regel E**
 
 Die Beweislast obliegt der Partei, die eine Vergütung in Havarie-grosse reklamiert. Sie hat darzulegen, dass der geforderte Verlust oder die geforderte Aufwendung tatsächlich in Havarie-grosse vergütungsberechtigt ist.
 
-### *Regel F*
+**Regel F**
 
 Jede Extraausgabe, die an Stelle einer anderen Ausgabe gemacht wurde, die in Havarie-grosse vergütungsberechtigt gewesen wäre, soll ohne Berücksichtigung evtl. Ersparnisse anderer Interessen als Havarie-grosse angesehen und vergütet werden, aber nur bis zur Höhe des Betrages der Havarie-grosse-Kosten, die vermieden wurden.
 
-### *Regel G*
+**Regel G**
 
 Havarie-grosse soll bezüglich Verlust und Beitrag auf Grundlage der Werte dispachiert werden, die zurzeit und am Orte gelten, wann und wo das Unternehmen endet.
 
 Diese Regel soll die Bestimmung des Ortes nicht beeinträchtigen, an dem die Dispache über die Havarie-grosse aufzumachen ist.
 
-### *Regel ISeewurf von Ladung*
+**Regel I Seewurf von Ladung**
 
 Kein Seewurf von Ladung soll als Havarie-grosse vergütet werden, wenn solche Ladung nicht in Übereinstimmung mit den anerkannten Schifffahrtsusanzen befördert worden ist.
 
-### *Regel IISchaden durch Seewurf und Aufopferung für die gemeinsame Sicherheit*
+**Regel II Schaden durch Seewurf und Aufopferung für die gemeinsame Sicherheit**
 
 Schaden, der Schiff und Ladung oder einem von beiden zugefügt wurde durch eine oder infolge einer für die gemeinsame Sicherheit gemachten Aufopferung, und Schaden durch Wasser, das durch die geöffneten Schiffsluken oder eine andere Öffnung eindringt, die zum Zwecke des Überbordwerfens zur gemeinsamen Sicherheit gemacht wurde, soll in Havarie-grosse vergütet werden.
 
-### *Regel IIIFeuerlöschen an Bord des Schiffes*
+**Regel III Feuerlöschen an Bord des Schiffes**
 
 Schaden, der Schiff und Ladung oder einem von beiden zugefügt wurde, durch Wasser oder auf andere Weise, einschliesslich des Schadens durch Aufstrandsetzen oder Versenken eines brennenden Schiffes, um ein Feuer an Bord eines Schiffes zu löschen, soll als Havarie-grosse vergütet werden, mit der Ausnahme jedoch, dass keine Vergütung erfolgen soll für Schaden durch Rauch oder Hitze, wie auch immer verursacht.
 
-### *Regel IVKappen von Wrackteilen*
+**Regel IV Kappen von Wrackteilen**
 
 Verlust oder Schaden, der durch das Kappen von Wrackteilen oder Teilen des Schiffes entsteht, die vorher beschädigt wurden oder infolge Unfalls tatsächlich verloren gingen, sollen nicht in Havarie-grosse vergütet werden.
 
-### *Regel VFreiwillige Strandung*
+**Regel V Freiwillige Strandung**
 
 Wenn ein Schiff absichtlich auf Strand gesetzt wird zur gemeinsamen Sicherheit, gleichgültig, ob es auf Strand getrieben wäre oder nicht, soll der daraus folgende Verlust oder Schaden in Havarie-grosse vergütet werden.
 
-### *Regel VI**Bergungsvergütung*
-
-[^annexIV-lvlu1-lvlu14-1]
-
-[^annexIV-lvlu1-lvlu14-1]: Geändert vom Comité Maritime International (Konferenz von Paris 1990).
+**Regel VI[^annexIV-lvlu1-1] Bergungsvergütung**
 
 - a) Aufwendungen, die den Beteiligten an dem Unternehmen wegen Bergungsmassnahmen entstanden sind, gleichgültig ob aufgrund eines Vertrages oder in anderer Weise, sollen in Havarie-grosse vergütet werden, soweit die Bergungsmassnahmen für den Zweck unternommen wurden, dass Eigentum an einem gemeinsamen Seeunternehmen vor Gefahr zu bewahren.
 - In Havarie-grosse zu vergütende Aufwendungen sollen Bergungsvergütungen enthalten, die die Sachkunde und die Anstrengungen der Berger bei Verhütung oder Begrenzung von Umweltschäden gemäss Artikel 13, Absatz 1, Buchstabe b des Internationalen Übereinkommens von 1989 über Bergung berücksichtigen.
 - b) Eine Sondervergütung, die der Schiffseigentümer einem Berger nach Artikel 14 des genannten Übereinkommens oder nach irgendeiner anderen Vorschrift gleichen Inhalts zu zahlen hat, soll nicht in Havarie-grosse vergütet werden.
 
-### *Regel VIIMaschinen- und Kesselschaden*
+**Regel VII Maschinen- und Kesselschaden**
 
 Der an allen maschinellen Einrichtungen und Kesseln eines Schiffes, das auf Strand sitzt und in gefährlicher Lage ist, verursachte Schaden bei dem Bemühen, das Schiff wieder flott zu machen, soll in Havarie-grosse vergütet werden, wenn nachgewiesen wird, dass dieser infolge der tatsächlichen Absicht entstanden ist, das Schiff für die gemeinsame Sicherheit auf das Risiko solchen Schadens hin flottzubringen. Wenn aber ein Schiff flott ist, soll kein durch Arbeiten der Antriebsmaschinen und Kessel verursachter Verlust oder Schaden, unter welchen Umständen auch immer, als Havarie-grosse vergütet werden.
 
-### *Regel VIIILeichterungskosten eines auf Grund sitzenden Schiffes und Folgeschäden*
+**Regel VIII Leichterungskosten eines auf Grund sitzenden Schiffes und Folgeschäden**
 
 Wenn ein Schiff gestrandet ist und Ladung, Brennstoff und Ausrüstung oder ein Teil derselben als Havarie-grosse-Massnahme entlöscht worden sind, sollen die Extrakosten der Leichterung, Leichtermiete und Wiederverladung (falls aufgewendet) sowie der Verlust oder Schaden, der dabei entstanden ist, in Havarie-grosse vergütet werden.
 
-### *Regel IXAls Brennstoff verbrauchtes Schiffsmaterial und Ausrüstung*
+**Regel IX Als Brennstoff verbrauchtes Schiffsmaterial und Ausrüstung**
 
 Schiffsmaterial und Vorräte oder ein Teil derselben, die notwendigerweise in der Zeit der Gefahr für die gemeinsame Sicherheit als Brennstoff verbrannt worden sind, sollen in Havarie-grosse vergütet werden, jedoch nur, wenn eine ausreichende Menge an Brennstoff beschafft worden war; doch soll die geschätzte Menge an Brennstoff der Havarie-grosse kreditiert werden, die verbraucht worden wäre, berechnet zum Preis beim Abgang aus dem letzten Abfahrtshafen.
 
-### *Regel XKosten im Nothafen usw.*
+**Regel X Kosten im Nothafen usw.**
 
 - a) Wenn ein Schiff infolge eines zufälligen Ereignisses, Aufopferung oder anderer aussergewöhnlicher Umstände, für die gemeinsame Sicherheit einen Nothafen oder Notplatz angelaufen hat oder an seinen Ladehafen oder Ladeplatz zurückgekehrt ist, dann sind die Kosten des Anlaufens dieses Hafens oder Platzes in Havarie-grosse zu vergüten; und wenn das Schiff von dort mit seiner ursprünglichen Ladung oder einem Teil derselben wieder abgefahren ist, dann sind die entsprechenden Kosten des Auslaufens aus diesem Hafen oder von diesem Platz als Folge des Anlaufens oder der Rückkehr ebenfalls in Havarie-grosse zu vergüten.
 - Liegt ein Schiff in einem Nothafen oder an einem Notplatz und wird es notwendigerweise nach einem anderen Hafen oder Platz überführt, weil in dem ersten Hafen oder an dem ersten Platz Reparaturen nicht ausgeführt werden können, dann sind die Bestimmungen dieser Regel auf den zweiten Hafen oder Platz so anzuwenden, als wenn sie Nothafen oder Notplatz wären, und die Kosten dieser Überführung einschliesslich vorläufiger Reparaturen und Verschleppung sind in Havarie-grosse zu vergüten.
@@ -1503,7 +1551,7 @@ Schiffsmaterial und Vorräte oder ein Teil derselben, die notwendigerweise in de
 - c) Wenn die Kosten der Umstauung oder Entlöschung von Ladung, Brennstoff oder Vorräten in Havarie-grosse vergütungsberechtigt sind, dann sind die Kosten der Lagerung einschliesslich vernünftiger Versicherung, der Rückladung und Stauung dieser Güter ebenfalls in Havarie-grosse zu vergüten.
 - Wird das Schiff aber kondemniert oder setzt es seine ursprüngliche Reise nicht fort, dann sind Lagerkosten nur bis zum Datum der Kondemnation oder der Aufgabe der Reise zu vergüten, oder aber bis zur Beendigung der Entlöschung, falls die Kondemnation oder Aufgabe der Reise vor diesem Datum erfolgt.
 
-### *Regel XIHeuern und Unterhalt der Besatzung und andere Ausgaben beim Abweichen nach und in einem Nothafen usw.*
+**Regel XI Heuern und Unterhalt der Besatzung und andere Ausgaben beim Abweichen nach und in einem Nothafen usw.**
 
 - a) Heuern und Unterhalt für Kapitän, Offiziere und Mannschaft, welche vernünftigerweise aufgewendet sind, sowie Verbrauch an Heizmaterial und Vorräten während der Reiseverlängerung infolge Anlaufens eines Nothafens oder ‑platzes oder Rückkehr nach dem Ladehafen oder ‑platz sind in Havarie-grosse zu vergüten, wenn die Kosten des Anlaufens eines solchen Hafens oder Platzes nach Regel X a) in Havarie-grosse vergütungsberechtigt sind.
 - b) Hat ein Schiff einen Hafen oder Platz angelaufen oder wird es dort aufgehalten infolge eines zufälligen Ereignisses, Aufopferung oder anderer aussergewöhnlicher Umstände, entweder für die gemeinsame Sicherheit oder um die Reparatur eines durch Aufopferung oder Zufall entstandenen Schadens am Schiff zur sicheren Fortsetzung der Reise zu ermöglichen, dann sind Heuern und Unterhalt für Kapitän, Offiziere und Mannschaft, welche während der Extrazeit in solchem Hafen oder an solchem Platz vernünftigerweise entstehen, in Havarie-grosse zu vergüten, bis das Schiff wieder bereit ist oder hätte sein können, seine Reise fortzusetzen.
@@ -1514,11 +1562,11 @@ Schiffsmaterial und Vorräte oder ein Teil derselben, die notwendigerweise in de
 - c) Nach dieser und anderen Regeln soll die Heuer alle Zahlungen an den Kapitän, die Offiziere und die Mannschaft einschliessen, welche dem Reeder entweder durch Gesetz oder durch Arbeitsvertrag auferlegt sind.
 - d) Werden an Kapitän, Offiziere oder Mannschaft Überstunden gezahlt für Instandhaltung oder Reparaturen des Schiffes, deren Kosten nicht in Havarie-grosse vergütungsberechtigt sind, dann sollen diese in Havarie-grosse nur bis zum Betrage der ersparten Kosten ersetzt werden, welche an Stelle der Überstunden entstanden und in Havarie-grosse vergütet worden wären.
 
-### *Regel XIISchaden an Ladung beim Entlöschen*
+**Regel XII Schaden an Ladung beim Entlöschen**
 
 Schaden an oder Verlust von Ladung, Brennstoff oder Vorräten, entstanden durch Umtrimmen, Löschen, Einlagern, Wiedereinladen und Stauen, sollen in Havarie-grosse vergütet werden, und zwar nur, wenn die entsprechenden Kosten dieser Massnahmen in Havarie-grosse vergütet werden.
 
-### *Regel XIIIAbzüge von Reparaturkosten*
+**Regel XIII Abzüge von Reparaturkosten**
 
 Reparaturkosten, die in Havarie-grosse zu vergüten sind, sollen keinem Abzug «neu für alt» unterliegen, soweit altes Material oder Teile neu ersetzt werden.
 
@@ -1528,7 +1576,7 @@ Keinem Abzug unterliegen: Proviant, Vorräte, Anker und Ankerketten. Trockendock
 
 Die Kosten für das Reinigen und den Bodenanstrich sollen nicht in Havarie-grosse vergütet werden, falls der Schiffsboden nicht innerhalb von zwölf Monaten vor dem Datum des Havarie-grosse-Falles gemalt worden ist; in diesem Fall soll die Hälfte dieser Kosten vergütet werden.
 
-### *Regel XIVVorläufige Reparaturen*
+**Regel XIV Vorläufige Reparaturen**
 
 Wenn vorläufige Reparaturen an einem Schiff in einem Lade-, Order- oder Nothafen für die gemeinsame Sicherheit oder für einen durch ein Havarie-grosse-Opfer verursachten Schaden ausgeführt werden, dann sollen die Kosten solcher Reparaturen in Havarie-grosse vergütet werden.
 
@@ -1536,19 +1584,19 @@ Wenn vorläufige Reparaturen eines zufälligen Schadens ausgeführt werden, dami
 
 Vorläufige Reparaturkosten, die in Havarie-grosse vergütungsberechtigt sind, unterliegen keinem Abzug «neu für alt».
 
-### *Regel XVFrachtverlust*
+**Regel XV Frachtverlust**
 
 Frachtverlust infolge Schadens an oder Verlust von Ladung soll in Havarie-grosse vergütet werden, wenn derselbe durch eine Havarie-grosse-Massnahme verursacht wurde oder wenn der Schaden an oder Verlust der Ladung in Havarie-grosse vergütet wird.
 
 Abzüge sollen vom Betrag der verlorenen Bruttofracht in Höhe derjenigen Kosten gemacht werden, die der Reeder hätte aufwenden müssen, um diese Fracht zu verdienen, aber infolge des Opfers nicht aufgewandt hat.
 
-### *Regel XVIVergütung der durch Aufopferung verlorenen oder beschädigten Ladung*
+**Regel XVI Vergütung der durch Aufopferung verlorenen oder beschädigten Ladung**
 
 Der in Havarie-grosse zu vergütende Betrag für Schaden an oder Verlust von Ladung durch Aufopferung soll der erlittene Verlust sein, der auf dem Wert zum Zeitpunkt der Entlöschung basiert, ermittelt aus der dem Empfänger übersandten Handelsrechnung oder, falls eine solche Handelsrechnung nicht ausgestellt ist, aufgrund des Wertes am Abladeort. Der Wert zum Zeitpunkt der Entlöschung soll Versicherungs- und Frachtkosten einschliessen, sofern die Fracht nicht im Risiko anderer als der Ladungsinteressenten ist.
 
 Falls so beschädigte Ladung verkauft wird und der Schadenbetrag nicht anders vereinbart wurde, soll der in Havarie-grosse zu vergütende Verlust der Unterschied sein zwischen dem Netto-Verkaufserlös und dem Nettogesundwert gemäss Absatz 1 dieser Regel.
 
-### *Regel XVIIBeitragswerte*
+**Regel XVII Beitragswerte**
 
 Der Havarie-grosse-Beitrag soll geleistet werden auf die tatsächlichen Nettowerte am Ende des Unternehmens, ausgenommen davon ist der Ladungswert, der auf dem Wert zum Zeitpunkt der Entlöschung basiert, ermittelt aus der dem Empfänger übersandten Handelsrechnung oder, falls eine solche Handelsrechnung nicht ausgestellt ist, aufgrund des Wertes am Abladeort. Der Wert zum Zeitpunkt der Entlöschung soll Versicherungs- und Frachtkosten einschliessen, sofern die Fracht nicht im Risiko anderer als der Ladungsinteressenten ist. Von diesem Wert ist abzuziehen jeder Verlust oder Schaden, den die Ladung vor oder zum Zeitpunkt der Entlöschung erlitten hat.
 
@@ -1558,7 +1606,7 @@ Zu diesen Werten soll hinzugerechnet werden der in Havarie-grosse vergütete Opf
 
 Passagiergepäck und persönliche Effekten, die nicht unter einem Konnossement verladen wurden, sollen nicht zur Havarie-grosse beitragen.
 
-### *Regel XVIIISchaden am Schiff*
+**Regel XVIII Schaden am Schiff**
 
 Der Betrag der Havarie-grosse-Vergütung für Schaden oder Verlust am Schiff, seiner Maschinenanlage und/oder seinem Zubehör, der durch Havarie-grosse-Massnahmen verursacht ist, soll wie folgt ermittelt werden:
 
@@ -1566,22 +1614,24 @@ Der Betrag der Havarie-grosse-Vergütung für Schaden oder Verlust am Schiff, se
 - b) Wenn nicht repariert wird oder Teile ersetzt werden: die durch solchen Schaden oder Verlust entstandene angemessene Entwertung, die jedoch die geschätzten Reparaturkosten nicht übersteigen darf.
 - Wenn aber ein tatsächlicher Totalverlust des Schiffes vorliegt und wenn die Kosten für die Reparatur des Schadens den Wert des reparierten Schiffes übersteigen würden, soll der in Havarie-grosse zu vergütende Betrag der Unterschied sein zwischen dem geschätzten Gesundwert des Schiffes nach Abzug der geschätzten Reparaturkosten, die nicht Havarie-grosse sind, und dem Wert des Schiffes im beschädigten Zustand, der sich möglicherweise aus dem Netto-Verkaufserlös ergeben kann.
 
-### *Regel XIXNicht deklarierte oder falsch deklarierte Ladung*
+**Regel XIX Nicht deklarierte oder falsch deklarierte Ladung**
 
 Schaden oder Verlust an Gütern, die ohne Wissen des Reeders oder seines Agenten verladen sind oder die zur Zeit der Verladung absichtlich falsch bezeichnet sind, sollen nicht in Havarie-grosse vergütet werden, doch sollen solche Güter, falls gerettet, beitragspflichtig bleiben.
 
 Schaden oder Verlust an Gütern, die bei Verladung falsch deklariert sind, und zwar mit einem Werte, der niedriger ist als ihr wirklicher Wert, sollen zu dem deklarierten Werte vergütet werden, doch sollen solche Güter mit ihrem tatsächlichen Werte beitragen.
 
-### *Regel XXProvision auf Auslagen*
+**Regel XX Provision auf Auslagen**
 
 Eine Kommission von 2 % soll auf Havarie-grosse-Aufwendungen, und zwar auf andere als Heuern und Unterhalt des Kapitäns, der Offiziere und der Mannschaft sowie Brennstoff und Ausrüstung, die während der Reise nicht ersetzt sind, in Havarie-grosse vergütet werden. Wenn die Gelder jedoch nicht durch eine der beitragenden Parteien aufgebracht werden, so sollen die notwendigerweise aufgewendeten Kosten zur Erlangung der Gelder durch Bodmerei oder auf andere Weise, oder der Verlust, den ein Ladungsbeteiligter durch Verkauf seiner Güter hierdurch erlitten hat, in Havarie-grosse vergütet werden.
 
 Die Kosten der Versicherung des zur Bezahlung von Havarie-grosse-Aufwendungen vorgeschossenen Geldes sollen ebenfalls vergütet werden.
 
-### *Regel XXIZinsen auf in Havarie-grosse vergütete Verluste*
+**Regel XXI Zinsen auf in Havarie-grosse vergütete Verluste**
 
 Zinsen sind zu vergüten auf Aufwendungen, Opfer und Vergütungen der Havarie-grosse in Höhe von 7 % per annum bis zum Datum der Havarie-grosse-Dispache. Für jede zwischenzeitliche Rückzahlung durch beitragspflichtige Interessenten oder vom Havarie-grosse-Treuhandkonto ist eine entsprechende Verrechnung vorzunehmen.
 
-### *Regel XXIIBehandlung von Bareinschüssen*
+**Regel XXII Behandlung von Bareinschüssen**
 
 Wenn infolge der Verpflichtung der Ladung zur Zahlung von Havrie-grosse-, Bergungs- oder Spezialkosten Bareinschüsse eingezogen worden sind, sollen solche Einschüsse unverzüglich auf ein besonderes Konto eingezahlt werden, das in dem gemeinsamen Namen eines Vertreters des Reeders und eines Vertreters der Einzahler bei einer von beiden Vertretern anerkannten Bank eröffnet worden ist. Die deponierte Summe soll zusammen mit den aufgelaufenen Zinsen, falls entstanden, als Sicherheit für die von der Ladung an die dazu berechtigten Parteien zu zahlenden Havarie-grosse-, Bergungs- und Spezialkosten dienen, für welche die Einschüsse eingezogen wurden. Teilzahlungen oder Rückzahlungen auf geleistete Einschüsse können gemacht werden, wenn sie von dem Dispacheur schriftlich bescheinigt sind. Solche Einschüsse und Zahlungen oder Rückzahlungen sollen jedoch für die endgültige Verantwortlichkeit der Parteien ohne Präjudiz sein.
+
+[^annexIV-lvlu1-1]: Geändert vom Comité Maritime International (Konferenz von Paris 1990).
