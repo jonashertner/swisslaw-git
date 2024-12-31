@@ -4,13 +4,13 @@ number: "521.1"
 title: Gesetz über die Steuern des Kantons und der Gemeinden
 short: "Steuergesetz, StG"
 language: de
-version: 2023-01-01
-corrected: 2023-02-21
-version_adopted: 2022-12-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-12-03
 adopted: 2000-03-22
 in_force: 2001-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/521.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1088/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1337/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1088/pdf_file"
 
 (Steuergesetz, StG)
 
-vom 22.03.2000 (Stand 01.01.2023)
+vom 22.03.2000 (Stand 01.01.2025)
 
 Der Landrat von Nidwalden,
 
@@ -434,11 +434,11 @@ beschliesst:
 - 3\. Einkünfte aus Baurechtsverträgen;
 - 4\. Einkünfte aus der Ausbeutung von Kies, Sand und anderen Bestandteilen des Bodens.
 
-<sup>2</sup> Als Mietwert gemäss Abs. 1 Ziff. 2 gilt der Betrag, den die steuerpflichtige Person bei der Vermietung ihres Grundstückes als Miete erzielen könnte.
+<sup>2</sup> Der Mietwert gemäss Abs. 1 Ziff. 2 entspricht der mittleren Marktmiete und wird vom Kantonalen Steueramt grundsätzlich schematisch und formelmässig nach Grundstückskategorien in Prozenten des Grundstückswertes festgelegt.
 
-<sup>3</sup> Der Mietwert von selbstgenutzten Grundstücken entspricht einem durch den Regierungsrat festzulegenden Prozentsatz des durch die amtliche Güterschatzung ermittelten Mietwertes. Der Prozentsatz ist jeweils vor Beginn der Steuerperiode derart festzulegen, dass Marktmietwerte erreicht werden.
+<sup>3</sup> Der Regierungsrat legt in einer Verordnung die Prozentsätze je Grundstückskategorie so fest, dass mittlere Marktmieten erreicht werden. Er kann bei der Festlegung der Prozentsätze zusätzlich auch eine Differenzierung nach Gemeinde vornehmen.
 
-<sup>4</sup> Der steuerbare Eigenmietwert von Grundstücken, die von der steuerpflichtigen Person an ihrem Wohnsitz dauernd selbst bewohnt werden, ist unter Berücksichtigung der Wohneigentumsförderung und der Selbstvorsorge massvoll festzulegen. Für den steuerbaren Eigenmietwert wird der Mietwert gemäss Abs. 3 um 30 Prozent herabgesetzt.
+<sup>4</sup> Für den steuerbaren Eigenmietwert wird der Mietwert gemäss Abs. 2 um 40 Prozent herabgesetzt.
 
 <sup>5</sup> Der gemäss Abs. 4 errechnete Eigenmietwert ist angemessen zu reduzieren, wenn die zur Verfügung stehenden Räume den Eigengebrauch übersteigen.
 
@@ -609,10 +609,10 @@ beschliesst:
 - 6\. die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
 - 7\. die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Ziff. 6 fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen:
   - a) für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben im jeweils geltenden Umfang von Art. 33 Abs. 1 lit. g Ziff. 1 des Bundesgesetzes über die direkte Bundessteuer (DBG)[^35-1];
-  - b) für die übrigen Steuerpflichtigen im jeweils geltenden Umfang von Art. 33 Abs. 1 lit. g Ziff. 2 DBG.
-  - c) Für Steuerpflichtige ohne Beiträge gemäss den Ziff. 4 und 5 erhöhen sich diese Abzüge um die Hälfte. Diese Abzüge erhöhen sich für jedes Kind oder jede unterstützungsbedürftige Person, für die die steuerpflichtige Person einen Abzug nach Art. 39 Abs. 1 Ziff. 1 oder 4 geltend machen kann, im jeweils geltenden Umfang von Art. 33 Abs. 1<sup>bis</sup> lit. b DBG;
+  - b) für die übrigen Steuerpflichtigen im jeweils geltenden Umfang von Art. 33 Abs. 1 lit. g Ziff. 2 DBG;
+  - c) für Steuerpflichtige ohne Beiträge gemäss den Ziff. 4 und 5 erhöhen sich diese Abzüge um die Hälfte. Diese Abzüge erhöhen sich für jedes Kind oder jede unterstützungsbedürftige Person, für die die steuerpflichtige Person einen Abzug nach Art. 39 Abs. 1 Ziff. 1 oder 4 geltend machen kann, im jeweils geltenden Umfang von Art. 33 Abs. 1<sup>bis</sup> lit. b DBG;
 - 8\. die nachgewiesenen Kosten, jedoch höchstens Fr. 8'100.–, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
-- 9\. die Einsatzkosten in der Höhe von 5 Prozent der einzelnen Gewinne aus der Teilnahme an Geldspielen, welche nicht gemäss Art. 27 Ziff. 11a–12 steuerfrei sind, jedoch höchstens Fr. 5'100.–. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen gemäss Art. 27 Ziff. 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25'700.– abgezogen.
+- 9\. die Einsatzkosten in der Höhe von 5 Prozent der einzelnen Gewinne aus der Teilnahme an Geldspielen, welche nicht gemäss Art. 27 Ziff. 11a–12 steuerfrei sind, jedoch höchstens Fr. 5'100.–. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen gemäss Art. 27 Ziff. 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25'700.– abgezogen;
 - 10\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich Umschulungskosten, bis zum Gesamtbetrag von Fr. 12'400.–, sofern:
   - a) ein erster Abschluss auf der Sekundarstufe II vorliegt; oder
   - b) das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
@@ -623,7 +623,7 @@ beschliesst:
 
 **2. Zweitverdienerabzug**
 
-<sup>1</sup> Bei gemeinsam steuerpflichtigen Ehegatten werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, Fr. 1'100.– abgezogen; ein gleicher Abzug wird bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten gewährt. Der Abzug darf das betreffende Einkommen nach Abzug der Gewinnungskosten nicht übersteigen.
+<sup>1</sup> Bei gemeinsam steuerpflichtigen Ehegatten werden vom Erwerbseinkommen, das ein Ehegatte unabhängig vom Beruf, Geschäft oder Gewerbe des andern Ehegatten erzielt, Fr. 1'200.– abgezogen; ein gleicher Abzug wird bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten gewährt. Der Abzug darf das betreffende Einkommen nach Abzug der Gewinnungskosten nicht übersteigen.
 
 #### Art. 37
 
@@ -663,9 +663,9 @@ beschliesst:
 
 <sup>1</sup> Zur Ermittlung des steuerbaren Einkommens werden vom Reineinkommen abgezogen:
 
-- 1\. als Kinderabzug: Fr. 6'000.– für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Abzüge gemäss Art. 35 Abs. 1 Ziff. 3 für das Kind geltend gemacht werden;
+- 1\. als Kinderabzug: Fr. 6'400.– für jedes minderjährige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Abzüge gemäss Art. 35 Abs. 1 Ziff. 3 für das Kind geltend gemacht werden;
 - 2\. als Ausbildungsabzug zusätzlich zum Abzug gemäss Ziff. 1:
-  - a) Fr. 1'700.–, wenn das Kind gemäss Ziff. 1 ausserhalb des Kantons in schulischer Ausbildung steht, oder
+  - a) Fr. 1'700.–, wenn das Kind gemäss Ziff. 1 ausserhalb des Kantons in schulischer Ausbildung steht; oder
   - b) Fr. 5'600.– für das erste Kind gemäss Ziff. 1, das in schulischer Ausbildung steht und sich hiefür ständig am auswärtigen Ausbildungsort aufhalten muss;
   - c) Fr. 7'800.– für jedes weitere Kind gemäss Ziff. 1, das in schulischer Ausbildung steht und sich hiefür ständig am auswärtigen Ausbildungsort aufhalten muss;
 - 3\. als Eigenbetreuungsabzug für Kinder: Fr. 3'100.– für jedes am Ende der Steuerperiode weniger als 14 Jahre alte Kind, für das ein Abzug gemäss Ziff. 1 geltend gemacht werden kann, für die eigene Betreuung;
@@ -808,17 +808,17 @@ beschliesst:
 
 **Unbewegliches Vermögen 1. Grundsatz**
 
-<sup>1</sup> Die Grundstücke werden bezogen auf einen Stichtag amtlich geschätzt. Dieser Güterschatzungswert hat dem Verkehrswert zu entsprechen. Der Regierungsrat erlässt unter Berücksichtigung der nachfolgenden Bewertungsgrundsätze die nötigen Schatzungsvorschriften.
+<sup>1</sup> Der Verkehrswert der Grundstücke wird vom Kantonalen Steueramt bezogen auf einen Stichtag amtlich geschätzt.
 
-<sup>2</sup> Der Steuerwert der Grundstücke entspricht einem Prozentsatz des amtlichen Güterschatzungswertes. Der Regierungsrat legt den Prozentsatz jeweils vor Beginn der Steuerperiode derart fest, dass aktuelle Verkehrswerte erreicht werden.
+<sup>2</sup> Der Regierungsrat regelt die Bewertung im Rahmen der gesetzlichen Bewertungsgrundsätze in einer Verordnung.
 
 #### Art. 50
 
-**2. Bewertungsgrundsätze a) nichtlandwirtschaftliche Grundstücke**
+**2. Bewertungsgrundsätze a) Grundstücke innerhalb der Bauzone**
 
-<sup>1</sup> Nichtlandwirtschaftlich genutzte, überbaute Grundstücke werden unter Berücksichtigung von Real- und Ertragswert geschätzt, wobei der Bedeutung des Ertragswertes für den Verkehrswert durch eine entsprechende Gewichtung des Ertragswertes Rechnung zu tragen ist.
+<sup>1</sup> Nichtlandwirtschaftlich genutzte überbaute Grundstücke werden grundsätzlich schematisch und formelmässig je nach Grundstückskategorie zum Real- oder Ertragswert geschätzt.
 
-<sup>2</sup> Landwirtschaftlich genutzte Grundstücke innerhalb der Bauzone werden zum Ertragswert besteuert, wenn das Grundstück nicht unmittelbar der Überbauung zugeführt werden soll. Solche Grundstücke müssen in der Regel mindestens eine Fläche von 2500 m² aufweisen.
+<sup>2</sup> Landwirtschaftlich genutzte Grundstücke innerhalb der Bauzone werden zum landwirtschaftlichen Ertragswert besteuert, wenn das Grundstück nicht unmittelbar der Überbauung zugeführt werden soll. Solche Grundstücke müssen in der Regel mindestens eine Fläche von 2500 m² aufweisen.
 
 <sup>3</sup> Nichtlandwirtschaftlich genutzte unüberbaute Grundstücke innerhalb der Bauzone werden zum Realwert geschätzt.
 
@@ -2776,48 +2776,47 @@ beschliesst:
 
 #### Art. 216
 
-**Grundsatz**
+**Stichtag**
 
-<sup>1</sup> Die amtliche Güterschatzung erfolgt in der Regel aufgrund eines vorgängigen Augenscheines.
+<sup>1</sup> Die Bewertungen werden vom Kantonalen Steueramt bezogen auf einen Stichtag vorgenommen, wobei der Stichtag für einzelne Grundstückskategorien unterschiedlich festgelegt werden kann.
 
-<sup>2</sup> Die Schatzungen werden bezogen auf einen Stichtag vorgenommen, wobei der Stichtag für einzelne Grundstückskategorien unterschiedlich festgelegt werden kann.
-
-<sup>3</sup> Bei allgemeinen und teilweisen Neuschatzungen sind die Verhältnisse am Stichtag massgebend.
-
-<sup>4</sup> Bei Revisionsschatzungen sind die Verhältnisse bei Durchführung der Schatzung massgebend. Die ermittelten Werte sind auf den letzten festgelegten Stichtag umzurechnen.
+<sup>2–4</sup> …
 
 #### Art. 217
 
-**Allgemeine oder teilweise Neuschatzung**
-
-<sup>1</sup> Wenn sich die Real- oder Ertragswerte aller Grundstücke oder ganzer Grundstückskategorien wesentlich verändern, ordnet der Regierungsrat eine allgemeine oder teilweise Neuschatzung der Grundstücke an.
+**…**
 
 #### Art. 218
 
-**Revisionsschatzung**
+**Neuermittlung des Grundstückwertes**
 
-<sup>1</sup> Wenn sich der Real- oder Ertragswert einzelner Grundstücke seit der letzten allgemeinen oder teilweisen Neuschatzung wesentlich verändert, wird auf Antrag der Eigentümerin oder des Eigentümers, der Nutzniesserin oder des Nutzniessers beziehungsweise von Amtes wegen eine Revisionsschatzung durchgeführt.
+<sup>1</sup> Der Grundstückswert wird alle sieben Jahre neu ermittelt.
 
-<sup>2</sup> Eine Revisionsschatzung erfolgt insbesondere bei:
+<sup>2</sup> Bei Änderung der für die Bewertung massgebenden tatsächlichen Verhältnisse und bei Wegfall der Voraussetzungen für eine Real- oder Ertragswertschatzung wird der Grundstückswert auf den Zeitpunkt der Änderung neu ermittelt.
 
-- 1\. einer wesentlichen Änderung des Landwertes;
-- 2\. einer wesentlichen Änderung des Zeitwertes;
-- 3\. einer wesentlichen Änderung der Nutzung sowie der Nutzungsmöglichkeiten;
-- 4\. bei Beendigung der Selbstbewirtschaftung von landwirtschaftlichen Grundstücken.
-
-<sup>3</sup> Allgemeine Veränderungen auf dem Immobilienmarkt bilden keinen Revisionsgrund.
+<sup>3</sup> Erweist sich ein Grundstückswert wegen Nichtbeachtung wesentlicher Tatsachen oder infolge unrichtiger Rechtsanwendung als unzutreffend, wird er neu ermittelt.
 
 #### Art. 219
 
 **Besondere Mitwirkungspflichten 1. Grundeigentümerinnen und Grundeigentümer sowie Nutzniesserinnen und Nutzniesser**
 
-<sup>1</sup> Die Grundeigentümerinnen und Grundeigentümer sowie die Nutzniesserinnen und Nutzniesser sind verpflichtet, die für die Schatzung nötigen Auskünfte zu erteilen und die erforderlichen Abklärungen zu dulden.
+<sup>1</sup> Die Grundeigentümerinnen und Grundeigentümer sowie die Nutzniesserinnen und Nutzniesser sind verpflichtet, die für die Bewertung nötigen Auskünfte zu erteilen und die erforderlichen Abklärungen zu dulden.
+
+<sup>2</sup> Sie haben Änderungen der für die Bewertung massgebenden tatsächlichen Verhältnisse zu melden.
 
 #### Art. 220
 
 **2. Nidwaldner Sachversicherung**
 
-<sup>1</sup> Die Nidwaldner Sachversicherung ist verpflichtet, den mit dem Vollzug dieses Gesetzes betrauten Behörden und Instanzen die für die Schätzung oder deren Überprüfung nötigen Auskünfte zu erteilen.
+<sup>1</sup> Die Nidwaldner Sachversicherung ist verpflichtet, den mit dem Vollzug dieses Gesetzes betrauten Behörden und Instanzen die für die Bewertung oder deren Überprüfung nötigen Auskünfte zu erteilen.
+
+<sup>2</sup> Sie stellt die Unterlagen zur Ermittlung der Bauwerte zur Verfügung und meldet Neubauten und bauliche Veränderungen.
+
+#### Art. 220a
+
+**3. Grundbuchamt**
+
+<sup>1</sup> Das Grundbuchamt meldet dem Kantonalen Steueramt alle eingetragenen Handänderungen und Änderungen von Grundstücksgrenzen sowie die Begründung und Aufhebung von Baurechten, Stockwerkeigentum und selbständigem Miteigentum.
 
 #### Art. 221
 
@@ -2832,13 +2831,13 @@ beschliesst:
 
 #### Art. 222
 
-**Kosten**
+**Gebühren**
 
-<sup>1</sup> Im amtlichen Schatzungs- und Einspracheverfahren werden keine Kosten erhoben und keine Parteientschädigung ausgerichtet.
+<sup>1</sup> Im amtlichen Bewertungsverfahren werden keine Gebühren erhoben.
 
-<sup>2</sup> Die Kosten im Beschwerdeverfahren richten sich nach Art. 188.
+<sup>2</sup> Für Bewertungen zu nichtsteuerlichen Zwecken wird eine durch den Regierungsrat festzulegende Gebühr erhoben.
 
-<sup>3</sup> Für Schatzungen zu nichtsteuerlichen Zwecken wird eine durch den Regierungsrat festzulegende Gebühr erhoben.
+<sup>3</sup> …
 
 ### 8.6 Änderung rechtskräftiger Verfügungen und Entscheide
 
@@ -3494,17 +3493,9 @@ beschliesst:
 
 <sup>1</sup> Die Handänderungssteuern und die Grundstückgewinnsteuern werden nach dem neuen Recht erhoben, wenn die Veräusserung oder das ihr gleichgestellte Rechtsgeschäft nach dem 31. Dezember 2000 vollzogen wird.
 
-#### Art. 278
+#### Art. 278–279
 
-**Güterschatzungswerte**
-
-<sup>1</sup> Die bestehenden Güterschatzungswerte behalten, vorbehältlich Revisionsschatzungen gemäss Art. 218, ihre Gültigkeit bis zur nächsten allgemeinen oder teilweisen Neuschatzung.
-
-#### Art. 279
-
-**Eigenmietwerte**
-
-<sup>1</sup> Die bestehenden Eigenmietwerte behalten, vorbehältlich Revisionsschatzungen gemäss Art. 218, ihre Gültigkeit bis zur nächsten allgemeinen oder teilweisen Neuschatzung.
+**…**
 
 #### Art. 280
 
@@ -3525,6 +3516,12 @@ beschliesst:
 **Übergangsbestimmung zur Änderung vom 26. August 2020**
 
 <sup>1</sup> Für die Beurteilung von Straftaten, die in die Steuerperioden vor Inkrafttreten der Änderung vom 26. August 2020 begangen wurden, ist das neue Recht anwendbar, sofern dieses milder ist als das in jenen Steuerperioden geltende Recht.
+
+#### Art. 280c
+
+**Übergangsbestimmung zur Änderung vom 27. Oktober 2021**
+
+<sup>1</sup> Die Güterschatzungs- und Mietwerte nach bisherigem Recht bleiben bis zur Bewertung nach neuem Recht bestehen.
 
 #### Art. 281
 
