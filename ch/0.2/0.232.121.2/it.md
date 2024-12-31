@@ -3,11 +3,11 @@ sr: "0.232.121.2"
 title: "Accordo dell'Aja concernente il deposito internazionale dei disegni o modelli industriali riveduto all'Aja il 28 novembre 1960"
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/889_889_889"
 language: it
-version: 2014-05-12
+version: 2025-01-01
 adopted: 1960-11-28
 in_force: 1984-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/889_889_889/20140512/it/xml/fedlex-data-admin-ch-eli-cc-1984-889_889_889-20140512-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/889_889_889/20140512/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/889_889_889/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1984-889_889_889-20250101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/889_889_889/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/889_889_889/20140512/it"
 
 RU **1984** 889; FF **1962** I 453 ediz. ted. 473 ediz. franc.[^t-1]
 
-Traduzione[^t-2]
+Traduzione
 
-Conchiuso all’Aja il 28 novembre 1960 Approvato dall’Assemblea federale il 21 settembre 1962[^t-3] Istrumento di ratificazione depositato dalla Svizzera il 31 ottobre 1962 Entrato in vigore per la Svizzera il 1° agosto 1984
+Conchiuso all’Aja il 28 novembre 1960 Approvato dall’Assemblea federale il 21 settembre 1962[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 31 ottobre 1962 Entrato in vigore per la Svizzera il 1° agosto 1984 Sospeso l’Assemblea dell’OMPI per il 1° gen. 2025[^t-3]
 
-(Stato 12 maggio 2014)
+(Stato 1° gennaio 2025)
 
-[^t-1]: Vedi anche gli atti complementari ed il RE sotto **0.232.121.12/.14**
-[^t-2]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-3]: Art. 1 n. 1 del DF del 21 set. 1962 ([RU 1962 1633](https://fedlex.data.admin.ch/eli/oc/1962/1553_1611_1633)).
+[^t-1]: Vedi anche gli atti complementari ed il RE sotto [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072), **[0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072).**
+[^t-2]: Art. 1 n. 1 del DF del 21 set. 1962 ([RU 1962 1633](https://fedlex.data.admin.ch/eli/oc/1962/1553_1611_1633)).
+[^t-3]: Durante la riunione del 17 lug. 2024, l’Assemblea dell’OMPI ha deciso di sospendere questo Acc., con effetto dal 1° gen. 2025 ([RU 2025 502](https://fedlex.data.admin.ch/eli/oc/2025/502)).
 
 Gli Stati contraenti,
 
@@ -34,7 +34,7 @@ Ritenendo che, a tal fine, sia opportuno rivedere l’Accordo concernente il dep
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.232.121.1](https://fedlex.data.admin.ch/eli/cc/55/1264_1304_1292)
+[^ingress-1]: [RS 0.232.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1070)
 
 #### Art. 1
 
@@ -63,9 +63,9 @@ Ai sensi del presente Accordo si intende per:
 </table>
 
 [^2-1]: [CS **11** 1000]
-[^2-2]: [RS 0.232.121.1](https://fedlex.data.admin.ch/eli/cc/55/1264_1304_1292)
-[^2-3]: [RS 0.232.121.14](https://fedlex.data.admin.ch/eli/cc/1986/282_282_282)
-[^2-4]: Ora: Ufficio internazionale della proprietà intellettuale (art. 7 cpv. 1 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^2-2]: [RS 0.232.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1070)
+[^2-3]: [RS 0.232.121.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1074)
+[^2-4]: Ora: Ufficio internazionale della proprietà intellettuale (art. 7 cpv. 1 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 3
 
@@ -282,7 +282,7 @@ Le tasse dell’Ufficio internazionale versate per i servizi previsti dal presen
 - (a) il loro ricavato copra tutte le spese del servizio internazionale dei disegni o modelli nonché quelle necessarie alla preparazione e all’organizzazione di riunioni del Comitato internazionale dei disegni o modelli o di Conferenze di revisione del presente Accordo;
 - (b) permettano di mantenere il fondo di riserva di cui nell’articolo 20.
 
-[^19-1]: Abrogato per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)art. 7 cpv. 2).
+[^19-1]: Abrogato per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072), art. 7 cpv. 2).
 
 #### Art. 20
 
@@ -299,8 +299,8 @@ Le tasse dell’Ufficio internazionale versate per i servizi previsti dal presen
 
 <sup>(5)</sup> Quando i contributi unici siano stati integralmente rimborsati, il Comitato internazionale dei disegni o modelli può decidere di non più chiedere tale contributo agli Stati che divenissero in seguito partecipi dell’Accordo.
 
-[^20-1]: Abrogato per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)art. 7 cpv. 2).
-[^20-2]: [RS 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^20-1]: Abrogato per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)art. 7 cpv. 2).
+[^20-2]: [RS 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
 
 #### Art. 21
 
@@ -332,8 +332,8 @@ Il Comitato è convocato dal Direttore dell’Ufficio internazionale:
 
 <sup>(5)</sup> Le spese di viaggio e di soggiorno dei membri dei Comitato sono a carico dei rispettivi Governi.
 
-[^21-1]: Abrogato per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)art. 7 cpv. 2).
-[^21-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^21-1]: Abrogato per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072), art. 7 cpv. 2).
+[^21-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 22
 
@@ -343,8 +343,8 @@ Il Comitato è convocato dal Direttore dell’Ufficio internazionale:
 
 <sup>(2)</sup> In caso di ricorso alla procedura scritta, gli emendamenti sono proposti dal Direttore dell’Ufficio internazionale con lettera circolare inviata a tutti gli Stati contraenti. Gli emendamenti sono considerati accettati se, entro un anno a decorrere dalla comunicazione, nessuno Stato contraente ha reso nota la propria opposizione al Governo della Confederazione Svizzera[^22-2].
 
-[^22-1]: Abrogato per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)art. 7 cpv. 2).
-[^22-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^22-1]: Abrogato per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072), art. 7 cpv. 2).
+[^22-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 23
 
@@ -358,7 +358,7 @@ Il Comitato è convocato dal Direttore dell’Ufficio internazionale:
 
 <sup>(2)</sup> Tale adesione sarà notificata per via diplomatica al Governo della Confederazione Svizzera[^24-1] e da questo ai Governi di tutti gli Stati contraenti.
 
-[^24-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^24-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 25
 
@@ -372,16 +372,16 @@ Il Comitato è convocato dal Direttore dell’Ufficio internazionale:
 
 <sup>(2)</sup> In seguito, il deposito degli strumenti di ratifica e d’adesione dovrà essere notificato agli Stati contraenti dal Governo della Confederazione Svizzera[^26-2]; tali ratifiche e adesioni prenderanno effetto alla scadenza del termine di un mese a decorrere dalla data d’invio di detta notifica, a meno che, in caso di adesione, non sia stata indicata una data posteriore nello strumento d’adesione.
 
-[^26-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
-[^26-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^26-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
+[^26-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 27
 
 Ogni Stato contraente può, in qualsiasi momento, notificare al Governo della Confederazione Svizzera[^27-1] che il presente Accordo è applicabile a tutti o a parte dei territori di cui assicura le relazioni internazionali. Il Governo della Confederazione Svizzera[^27-2] ne informa tutti gli Stati contraenti, e l’Accordo si applica ugualmente ai territori designati nella notifica un mese dopo l’invio della comunicazione del Governo della Confederazione Svizzera[^27-3] agli Stati contraenti, a meno che nella notifica non sia stata indicata una data posteriore.
 
-[^27-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
-[^27-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
-[^27-3]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^27-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
+[^27-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
+[^27-3]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 28
 
@@ -389,8 +389,8 @@ Ogni Stato contraente può, in qualsiasi momento, notificare al Governo della Co
 
 <sup>(2)</sup> La denuncia del presente Accordo da parte di uno Stato contraente non lo esime dagli obblighi contratti per quanto riguarda i disegni o modelli che sono stati oggetto di registrazione internazionale prima della data in cui la denuncia diventa effettiva.
 
-[^28-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
-[^28-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^28-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
+[^28-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 29
 
@@ -398,8 +398,8 @@ Ogni Stato contraente può, in qualsiasi momento, notificare al Governo della Co
 
 <sup>(2)</sup> Le Conferenze di revisione saranno convocate su domanda del Comitato internazionale dei disegni o modelli[^29-2] o della metà almeno degli Stati contraenti.
 
-[^29-1]: Termini soppressi per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)art. 7 cpv. 4).
-[^29-2]: Termini soppressi per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)art. 7 cpv. 4).
+[^29-1]: Termini soppressi per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072), art. 7 cpv. 4).
+[^29-2]: Termini soppressi per gli Stati partecipanti all’Atto complementare di Stoccolma del 14 lug. 1967 ([RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072), art. 7 cpv. 4).
 
 #### Art. 30
 
@@ -412,8 +412,8 @@ Più Stati contraenti possono in qualunque momento notificare al Governo della C
 
 <sup>(2)</sup> Detta notifica ha effetto soltanto sei mesi dopo la data d’invio della comunicazione del Governo della Confederazione Svizzera[^30-2] agli altri Stati contraenti.
 
-[^30-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
-[^30-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^30-1]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
+[^30-2]: Ora: Direttore generale (art. 7 cpv. 3 dell’Atto complementare di Stoccolma del 14 lug. 1967 – [RS 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 31
 
@@ -430,7 +430,7 @@ Più Stati contraenti possono in qualunque momento notificare al Governo della C
 
 <sup>(2)</sup> Ogni Stato contraente che abbia sottoscritto la dichiarazione di cui nel paragrafo 1 o ogni altro Stato contraente che non sia partecipe dell’Accordo del 1925 o dell’Accordo del 1934 può firmare il Protocollo allegato al presente Accordo o aderirvi. Al momento della firma o del deposito dello strumento d’adesione può dichiarare di non considerarsi vincolato dalle disposizioni del paragrafo 2 (a) o 2 (b) del Protocollo; in tal caso gli altri Stati aderenti al Protocollo non sono tenuti ad applicare, nelle relazioni con lo Stato che ha fatto uso di questa facoltà, la disposizione che è stata oggetto di tale dichiarazione. Le disposizioni degli articoli 23 a 28 incluso s’applicano per analogia.
 
-[^32-1]: [RS 0.232.121.13](https://fedlex.data.admin.ch/eli/cc/1979/608_608_608)
+[^32-1]: [RS 0.232.121.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1073)
 
 #### Art. 33
 
@@ -441,43 +441,43 @@ Il presente Atto sarà firmato in un solo esemplare che sarà depositato negli A
 Campo d’applicazione il 12 maggio 2014[^t-4]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Albania</td><td>19 febbraio</td><td>2007 A</td><td>19 marzo</td><td>2007</td></tr>
-<tr><td colspan="2">Belgio</td><td>15 febbraio</td><td>1979</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Belize</td><td>12 giugno</td><td>2003 A</td><td>12 luglio</td><td>2003</td></tr>
-<tr><td colspan="2">Benin</td><td>2 ottobre</td><td>1986 A</td><td>2 novembre</td><td>1986</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>11 novembre</td><td>1996 A</td><td>11 dicembre</td><td>1996</td></tr>
-<tr><td colspan="2">Corea (Nord)</td><td>15 aprile</td><td>1992 A</td><td>27 maggio</td><td>1992</td></tr>
-<tr><td colspan="2">Côte d’Ivoire</td><td>26 aprile</td><td>1993 A</td><td>30 maggio</td><td>1993</td></tr>
-<tr><td colspan="2">Croazia</td><td>12 gennaio</td><td>2004 A</td><td>12 febbraio</td><td>2004</td></tr>
-<tr><td colspan="2">Francia</td><td>13 giugno</td><td>1962</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Dipartimenti e territori d’oltre mare</td><td>13 giugno</td><td>1962</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Gabon</td><td>18 luglio</td><td>2003 A</td><td>18 agosto</td><td>2003</td></tr>
-<tr><td colspan="2">Georgia</td><td>1° luglio</td><td>2003 A</td><td>1° agosto</td><td>2003</td></tr>
-<tr><td colspan="2">Germania</td><td>14 marzo</td><td>1983</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Grecia</td><td>18 marzo</td><td>1997 A</td><td>18 aprile</td><td>1997</td></tr>
-<tr><td colspan="2">Italia</td><td>11 maggio</td><td>1987</td><td>13 giugno</td><td>1987</td></tr>
-<tr><td colspan="2">Kirghizistan</td><td>17 febbraio</td><td>2003 A</td><td>13 marzo</td><td>2003</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td>1° marzo</td><td>1966</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>23 ottobre</td><td>1978</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Macedonia</td><td>18 febbraio</td><td>1997 A</td><td>18 marzo</td><td>1997</td></tr>
-<tr><td colspan="2">Mali</td><td>7 agosto</td><td>2006 A</td><td>7 settembre</td><td>2006</td></tr>
-<tr><td colspan="2">Marocco</td><td>13 settembre</td><td>1999 A</td><td>13 ottobre</td><td>1999</td></tr>
-<tr><td colspan="2">Moldova</td><td>14 febbraio</td><td>1994 A</td><td>14 marzo</td><td>1994</td></tr>
-<tr><td colspan="2">Monaco</td><td>13 ottobre</td><td>1981</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Mongolia</td><td>12 marzo</td><td>1997 A</td><td>12 aprile</td><td>1997</td></tr>
-<tr><td colspan="2">Montenegro</td><td>4 dicembre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Niger</td><td>20 agosto</td><td>2004 A</td><td>20 settembre</td><td>2004</td></tr>
-<tr><td colspan="2">Paesi Bassi<sup>a</sup></td><td>15 febbraio</td><td>1979</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Romania</td><td>17 giugno</td><td>1992 A</td><td>18 luglio</td><td>1992</td></tr>
-<tr><td colspan="2">Senegal</td><td>30 maggio</td><td>1984 A</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Serbia</td><td>25 novembre</td><td>1993</td><td>30 dicembre</td><td>1993</td></tr>
-<tr><td colspan="2">Slovenia</td><td>12 dicembre</td><td>1994 A</td><td>13 gennaio</td><td>1995</td></tr>
-<tr><td colspan="2">Suriname</td><td>16 novembre</td><td>1976 A</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Svizzera</td><td>31 ottobre</td><td>1962</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td colspan="2">Ucraina</td><td>28 maggio</td><td>2002 A</td><td>28 agosto</td><td>2002</td></tr>
-<tr><td colspan="2">Ungheria</td><td>7 marzo</td><td>1984 A</td><td>1° agosto</td><td>1984</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">L’Acc. si applica al Regno in Europa.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>19 febbraio</td><td>2007 A</td><td>19 marzo</td><td>2007</td></tr>
+<tr><td>Belgio</td><td>15 febbraio</td><td>1979</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Belize</td><td>12 giugno</td><td>2003 A</td><td>12 luglio</td><td>2003</td></tr>
+<tr><td>Benin</td><td>2 ottobre</td><td>1986 A</td><td>2 novembre</td><td>1986</td></tr>
+<tr><td>Bulgaria</td><td>11 novembre</td><td>1996 A</td><td>11 dicembre</td><td>1996</td></tr>
+<tr><td>Corea (Nord)</td><td>15 aprile</td><td>1992 A</td><td>27 maggio</td><td>1992</td></tr>
+<tr><td>Côte d’Ivoire</td><td>26 aprile</td><td>1993 A</td><td>30 maggio</td><td>1993</td></tr>
+<tr><td>Croazia</td><td>12 gennaio</td><td>2004 A</td><td>12 febbraio</td><td>2004</td></tr>
+<tr><td>Francia</td><td>13 giugno</td><td>1962</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Dipartimenti e territori d’oltre mare</td><td>13 giugno</td><td>1962</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Gabon</td><td>18 luglio</td><td>2003 A</td><td>18 agosto</td><td>2003</td></tr>
+<tr><td>Georgia</td><td>1° luglio</td><td>2003 A</td><td>1° agosto</td><td>2003</td></tr>
+<tr><td>Germania</td><td>14 marzo</td><td>1983</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Grecia</td><td>18 marzo</td><td>1997 A</td><td>18 aprile</td><td>1997</td></tr>
+<tr><td>Italia</td><td>11 maggio</td><td>1987</td><td>13 giugno</td><td>1987</td></tr>
+<tr><td>Kirghizistan</td><td>17 febbraio</td><td>2003 A</td><td>13 marzo</td><td>2003</td></tr>
+<tr><td>Liechtenstein</td><td>1° marzo</td><td>1966</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Lussemburgo</td><td>23 ottobre</td><td>1978</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Macedonia del Nord</td><td>18 febbraio</td><td>1997 A</td><td>18 marzo</td><td>1997</td></tr>
+<tr><td>Mali</td><td>7 agosto</td><td>2006 A</td><td>7 settembre</td><td>2006</td></tr>
+<tr><td>Marocco</td><td>13 settembre</td><td>1999 A</td><td>13 ottobre</td><td>1999</td></tr>
+<tr><td>Moldova</td><td>14 febbraio</td><td>1994 A</td><td>14 marzo</td><td>1994</td></tr>
+<tr><td>Monaco</td><td>13 ottobre</td><td>1981</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Mongolia</td><td>12 marzo</td><td>1997 A</td><td>12 aprile</td><td>1997</td></tr>
+<tr><td>Montenegro</td><td>4 dicembre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Niger</td><td>20 agosto</td><td>2004 A</td><td>20 settembre</td><td>2004</td></tr>
+<tr><td>Paesi Bassi <sup>a</sup></td><td>15 febbraio</td><td>1979</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Romania</td><td>17 giugno</td><td>1992 A</td><td>18 luglio</td><td>1992</td></tr>
+<tr><td>Senegal</td><td>30 maggio</td><td>1984 A</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Serbia</td><td>25 novembre</td><td>1993</td><td>30 dicembre</td><td>1993</td></tr>
+<tr><td>Slovenia</td><td>12 dicembre</td><td>1994 A</td><td>13 gennaio</td><td>1995</td></tr>
+<tr><td>Suriname</td><td>16 novembre</td><td>1976 A</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Svizzera</td><td>31 ottobre</td><td>1962</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td>Ucraina</td><td>28 maggio</td><td>2002 A</td><td>28 agosto</td><td>2002</td></tr>
+<tr><td>Ungheria</td><td>7 marzo</td><td>1984 A</td><td>1° agosto</td><td>1984</td></tr>
+<tr><td colspan="5"><sup>a</sup> L’Acc. si applica al Regno in Europa.</td></tr>
 </table>
 
-[^t-4]: [RU 1984 889](https://fedlex.data.admin.ch/eli/oc/1984/889_889_889), [1987 705](https://fedlex.data.admin.ch/eli/oc/1987/705_705_705), [1990 850](https://fedlex.data.admin.ch/eli/oc/1990/850_850_850), [2003 3533](https://fedlex.data.admin.ch/eli/oc/2003/505), [2005 4949](https://fedlex.data.admin.ch/eli/oc/2005/673), [2009 3151](https://fedlex.data.admin.ch/eli/oc/2009/392)e [2014 1219](https://fedlex.data.admin.ch/eli/oc/2014/262). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 1984 889](https://fedlex.data.admin.ch/eli/oc/1984/889_889_889), [1987 705](https://fedlex.data.admin.ch/eli/oc/1987/705_705_705), [1990 850](https://fedlex.data.admin.ch/eli/oc/1990/850_850_850), [2003 3533](https://fedlex.data.admin.ch/eli/oc/2003/505), [2005 4949](https://fedlex.data.admin.ch/eli/oc/2005/673), [2009 3151](https://fedlex.data.admin.ch/eli/oc/2009/392), [2014 1219](https://fedlex.data.admin.ch/eli/oc/2014/262). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

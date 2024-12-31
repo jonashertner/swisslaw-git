@@ -3,28 +3,30 @@ sr: "0.232.121.2"
 title: "Haager Abkommen über die internationale Hinterlegung gewerblicher Muster oder Modelle, revidiert in Den Haag am 28. November 1960"
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/889_889_889"
 language: de
-version: 2014-05-12
+version: 2025-01-01
 adopted: 1960-11-28
 in_force: 1984-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/889_889_889/20140512/de/xml/fedlex-data-admin-ch-eli-cc-1984-889_889_889-20140512-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/889_889_889/20140512/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/889_889_889/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1984-889_889_889-20250101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/889_889_889/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Haager Abkommen über die internationale Hinterlegung gewerblicher Muster oder Modelle revidiert in Den Haag am 28. November 1960****
+# Haager Abkommen über die internationale Hinterlegung gewerblicher Muster oder Modelle revidiert in Den Haag am 28. November 1960
 
 AS **1984** 889; BBl **1962** I 453[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Abgeschlossen in Den Haag am 28. November 1960 Von der Bundesversammlung genehmigt am 21. September 1962[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 31. Oktober 1962 In Kraft getreten für die Schweiz am 1. August 1984
+Abgeschlossen in Den Haag am 28. November 1960 Von der Bundesversammlung genehmigt am 21. September 1962[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 31. Oktober 1962 In Kraft getreten für die Schweiz am 1. August 1984
 
-(Stand am 12. Mai 2014)
+Suspendiert mit Wirkung am 1. Januar 2025[^t-3]
 
-[^t-1]: Siehe auch die ergänzenden Vereinbarungen und die Ausführungsordnung unter [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)**/.14**.
-[^t-2]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-3]: Art. 1 Ziff. 1 des BB vom 21. Sept. 1962 ([AS 1962 1553](https://fedlex.data.admin.ch/eli/oc/1962/1553_1611_1633))
+(Stand am 1. Januar 2025)
+
+[^t-1]: Siehe auch die ergänzenden Vereinbarungen und die Ausführungsordnung unter [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)**/.14**.
+[^t-2]: Art. 1 Ziff. 1 des BB vom 21. Sept. 1962 ([AS 1962 1553](https://fedlex.data.admin.ch/eli/oc/1962/1553_1611_1633))
+[^t-3]: Beschluss der Versammlung der WIPO vom 17. Juli 2024 ([AS 2025 502](https://fedlex.data.admin.ch/eli/oc/2025/502)).
 
 Die vertragsschliessenden Staaten,
 
@@ -34,7 +36,7 @@ in der Erwägung, dass es zu diesem Zweck angebracht sei, das am 6. November 192
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.232.121.1](https://fedlex.data.admin.ch/eli/cc/55/1264_1304_1292)
+[^ingress-1]: [SR 0.232.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1070)
 
 #### Art. 1
 
@@ -60,9 +62,9 @@ Im Sinne dieses Abkommens bedeutet:
 </table>
 
 [^2-1]: [BS **11** 1039]
-[^2-2]: [SR 0.232.121.1](https://fedlex.data.admin.ch/eli/cc/55/1264_1304_1292)
-[^2-3]: [SR 0.232.121.14](https://fedlex.data.admin.ch/eli/cc/1986/282_282_282)
-[^2-4]: Heute: Internationales Büro für geistiges Eigentum (Art. 7 Abs. 1 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^2-2]: [SR 0.232.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1070)
+[^2-3]: [SR 0.232.121.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1074)
+[^2-4]: Heute: Internationales Büro für geistiges Eigentum (Art. 7 Abs. 1 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 3
 
@@ -266,7 +268,7 @@ Die Gebühren des Internationalen Büros, die für die in diesem Abkommen vorges
 - (a) dass ihr Ertrag alle Ausgaben des internationalen Dienstes der Muster oder Modelle sowie die Ausgaben deckt, die für die Vorbereitung und Durchführung von Zusammenkünften des Internationalen Ausschusses für Muster oder Modelle oder von Konferenzen für die Revision dieses Abkommens erforderlich sind;
 - (b) dass sie die Aufrechterhaltung des in Artikel 20 vorgesehenen Reservefonds ermöglichen.
 
-[^19-1]: Aufgehoben für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 ([SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)– Art. 7 Abs. 2).
+[^19-1]: Aufgehoben für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 ([SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)– Art. 7 Abs. 2).
 
 #### Art. 20
 
@@ -283,8 +285,8 @@ Die Gebühren des Internationalen Büros, die für die in diesem Abkommen vorges
 
 <sup>(5)</sup> Sind die einmaligen Beiträge vollständig zurückgezahlt, so kann der Internationale Ausschuss für Muster oder Modelle beschliessen, dass von den Staaten, die später dem Abkommen beitreten, keine einmaligen Beiträge mehr zu verlangen sind.
 
-[^20-1]: Aufgehoben für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 ([SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)– Art. 7 Abs. 2).
-[^20-2]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)**/.04**
+[^20-1]: Aufgehoben für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 ([SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)– Art. 7 Abs. 2).
+[^20-2]: [SR 0.232.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1027)**/.04**
 
 #### Art. 21
 
@@ -316,8 +318,8 @@ Der Ausschuss wird vom Direktor des Internationalen Büros einberufen:
 
 <sup>(5)</sup> Die Reise‑ und Aufenthaltskosten der Mitglieder des Ausschusses gehen zu Lasten ihrer Regierungen.
 
-[^21-1]: Aufgehoben für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 ([SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)– Art. 7 Abs. 2).
-[^21-2]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^21-1]: Aufgehoben für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 ([SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)– Art. 7 Abs. 2).
+[^21-2]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 22
 
@@ -327,7 +329,7 @@ Der Ausschuss wird vom Direktor des Internationalen Büros einberufen:
 
 <sup>(2)</sup> Beim schriftlichen Verfahren werden die Änderungen vom Direktor des Internationalen Büros mit einem an alle vertragsschliessenden Staaten gerichteten Rundschreiben vorgeschlagen. Die Änderungen gelten als angenommen, wenn innerhalb eines Jahres von der Mitteilung an gerechnet kein vertragsschliessender Staat der Regierung der Schweizerischen Eidgenossenschaft’) seinen Einspruch zur Kenntnis gebracht hat.
 
-[^22-1]: Aufgehoben für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 ([SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)Art. 7 Abs. 2).
+[^22-1]: Aufgehoben für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 ([SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)Art. 7 Abs. 2).
 
 #### Art. 23
 
@@ -353,15 +355,15 @@ Der Ausschuss wird vom Direktor des Internationalen Büros einberufen:
 
 <sup>(2)</sup> In der Folge ist die Hinterlegung der Ratifikations‑ und Beitrittsurkunden den vertragsschliessenden Staaten durch die Regierung der Schweizerischen Eidgenossenschaft 1) anzuzeigen; diese Ratifizierungen und Beitritte treten einen Monat nach der Absendung dieser Anzeige in Kraft, sofern im Fall des Beitritts kein späterer Zeitpunkt in der Beitrittsurkunde angegeben ist.
 
-[^26-1]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^26-1]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 27
 
 Jeder vertragsschliessende Staat kann der Regierung der Schweizerischen Eidgenossenschaft[^27-1] jederzeit anzeigen, dass dieses Abkommen auf alle oder einen Teil der Gebiete Anwendung findet, deren internationale Beziehungen er wahrnimmt. Die Regierung der Schweizerischen Eidgenossenschaft[^27-2] teilt dies allen vertragsschliessenden Staaten mit. Das Abkommen findet dann auch auf die in der Anzeige bezeichneten Gebiete Anwendung, und zwar nach Ablauf eines Monats seit der Absendung der Mitteilung der Regierung der Schweizerischen Eidgenossenschaft[^27-3] an die vertragsschliessenden Staaten, sofern in der Anzeige kein späterer Zeitpunkt angegeben ist.
 
-[^27-1]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
-[^27-2]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
-[^27-3]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^27-1]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
+[^27-2]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
+[^27-3]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 28
 
@@ -369,8 +371,8 @@ Jeder vertragsschliessende Staat kann der Regierung der Schweizerischen Eidgenos
 
 <sup>(2)</sup> Die Kündigung dieses Abkommens durch einen vertragsschliessenden Staat entbindet diesen nicht von den Verpflichtungen, die er hinsichtlich der Muster oder Modelle übernommen hat, die vor dem Wirksamwerden der Kündigung international registriert worden sind.
 
-[^28-1]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
-[^28-2]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^28-1]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
+[^28-2]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 29
 
@@ -378,8 +380,8 @@ Jeder vertragsschliessende Staat kann der Regierung der Schweizerischen Eidgenos
 
 <sup>(2)</sup> Die Revisionskonferenzen werden auf Verlangen des Internationalen Ausschusses für Muster oder Modelle[^29-2] einberufen oder auf Verlangen von mindestens der Hälfte der vertragsschliessenden Staaten.
 
-[^29-1]: Für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 wird dieses Wort bzw. diese Wortgruppe gestrichen ([SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)Art. 7 Abs. 4).
-[^29-2]: Für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 wird dieses Wort bzw. diese Wortgruppe gestrichen ([SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)Art. 7 Abs. 4).
+[^29-1]: Für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 wird dieses Wort bzw. diese Wortgruppe gestrichen ([SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)Art. 7 Abs. 4).
+[^29-2]: Für die Vertragsstaaten der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 wird dieses Wort bzw. diese Wortgruppe gestrichen ([SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)Art. 7 Abs. 4).
 
 #### Art. 30
 
@@ -392,8 +394,8 @@ Mehrere vertragsschliessende Staaten können der Regierung der Schweizerischen E
 
 <sup>(2)</sup> Diese Anzeige wird erst sechs Monate nach dem Zeitpunkt der Absendung der Mitteilung wirksam, welche die Regierung der Schweizerischen Eidgenossenschaft[^30-2] den anderen vertragsschliessenden Staaten darüber zugehen lässt.
 
-[^30-1]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
-[^30-2]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)).
+[^30-1]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
+[^30-2]: Heute: Generaldirektor (Art. 7 Abs. 3 der Stockholmer Ergänzungsvereinb. vom 14. Juli 1967 – [SR 0.232.121.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1072)).
 
 #### Art. 31
 
@@ -410,7 +412,7 @@ Mehrere vertragsschliessende Staaten können der Regierung der Schweizerischen E
 
 <sup>(2)</sup> Jeder vertragsschliessende Staat, der eine Erklärung gemäss Absatz 1 abgegeben hat, oder jeder andere vertragsschliessende Staat, der dem Abkommen von 1925 oder dem Abkommen von 1934 nicht angehört, kann das diesem Abkommen beigefügte Protokoll unterzeichnen oder ihm beitreten. Bei der Unterzeichnung oder Hinterlegung der Beitrittsurkunde kann er erklären, dass er sich durch die Bestimmungen des Absatzes 2a oder 2b des Protokolls nicht als gebunden betrachtet; in diesem Fall sind die anderen, dem Protokoll angehörenden Staaten nicht verpflichtet, in ihren Beziehungen zu dem Staat, der von dieser Möglichkeit Gebrauch gemacht hat, die Bestimmung, auf die sich diese Erklärung bezieht, anzuwenden. Die Bestimmungen der Artikel 23–28 sind entsprechend anzuwenden.
 
-[^32-1]: [SR 0.232.121.13](https://fedlex.data.admin.ch/eli/cc/1979/608_608_608)
+[^32-1]: [SR 0.232.121.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1073)
 
 #### Art. 33
 
@@ -418,46 +420,46 @@ Diese Übereinkunft wird in einem einzigen Stück unterzeichnet, das im Archiv d
 
 *Zu Urkund dessen* haben die Bevollmächtigten nach Vorlage ihrer in guter und gehöriger Form befundenen Vollmachten unterzeichnet. Geschehen in Den Haag am achtundzwanzigsten November tausendneunhundertsechzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 12. Mai 2014**[^t-4]**
+Geltungsbereich am 12. Mai 2014[^t-4]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Albanien</td><td>19. Februar</td><td>2007 B</td><td>19. März</td><td>2007</td></tr>
-<tr><td colspan="2">Belgien</td><td>15. Februar</td><td>1979</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Belize</td><td>12. Juni</td><td>2003 B</td><td>12. Juli</td><td>2003</td></tr>
-<tr><td colspan="2">Benin</td><td>2. Oktober</td><td>1986 B</td><td>2. November</td><td>1986</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>11. November</td><td>1996 B</td><td>11. Dezember</td><td>1996</td></tr>
-<tr><td colspan="2">Côte d’Ivoire</td><td>26. April</td><td>1993 B</td><td>30. Mai</td><td>1993</td></tr>
-<tr><td colspan="2">Deutschland</td><td>14. März</td><td>1983</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Frankreich</td><td>13. Juni</td><td>1962</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Überseeische Departemente und Gebiete</td><td>13. Juni</td><td>1962</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Gabun</td><td>18. Juli</td><td>2003 B</td><td>18. August</td><td>2003</td></tr>
-<tr><td colspan="2">Georgien</td><td>1. Juli</td><td>2003 B</td><td>1. August</td><td>2003</td></tr>
-<tr><td colspan="2">Griechenland</td><td>18. März</td><td>1997 B</td><td>18. April</td><td>1997</td></tr>
-<tr><td colspan="2">Italien</td><td>11. Mai</td><td>1987</td><td>13. Juni</td><td>1987</td></tr>
-<tr><td colspan="2">Kirgisistan</td><td>17. Februar</td><td>2003 B</td><td>13. März</td><td>2003</td></tr>
-<tr><td colspan="2">Korea (Nord-)</td><td>15. April</td><td>1992 B</td><td>27. Mai</td><td>1992</td></tr>
-<tr><td colspan="2">Kroatien</td><td>12. Januar</td><td>2004 B</td><td>12. Februar</td><td>2004</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td>1. März</td><td>1966</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>23. Oktober</td><td>1978</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Mali</td><td>7. August</td><td>2006 B</td><td>7. September</td><td>2006</td></tr>
-<tr><td colspan="2">Marokko</td><td>13. September</td><td>1999 B</td><td>13. Oktober</td><td>1999</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>18. Februar</td><td>1997 B</td><td>18. März</td><td>1997</td></tr>
-<tr><td colspan="2">Moldau</td><td>14. Februar</td><td>1994 B</td><td>14. März</td><td>1994</td></tr>
-<tr><td colspan="2">Monaco</td><td>13. Oktober</td><td>1981</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Mongolei</td><td>12. März</td><td>1997 B</td><td>12. April</td><td>1997</td></tr>
-<tr><td colspan="2">Montenegro</td><td>4. Dezember</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
-<tr><td colspan="2">Niederlande<sup>a</sup></td><td>15. Februar</td><td>1979</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Niger</td><td>20. August</td><td>2004 B</td><td>20. September</td><td>2004</td></tr>
-<tr><td colspan="2">Rumänien</td><td>17. Juni</td><td>1992 B</td><td>18. Juli</td><td>1992</td></tr>
-<tr><td colspan="2">Schweiz</td><td>31. Oktober</td><td>1962</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Senegal</td><td>30. Mai</td><td>1984 B</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Serbien</td><td>25. November</td><td>1993</td><td>30. Dezember</td><td>1993</td></tr>
-<tr><td colspan="2">Slowenien</td><td>12. Dezember</td><td>1994 B</td><td>13. Januar</td><td>1995</td></tr>
-<tr><td colspan="2">Suriname</td><td>16. November</td><td>1976 B</td><td>1. August</td><td>1984</td></tr>
-<tr><td colspan="2">Ukraine</td><td>28. Mai</td><td>2002 B</td><td>28. August</td><td>2002</td></tr>
-<tr><td colspan="2">Ungarn</td><td>7. März</td><td>1984 B</td><td>1. August</td><td>1984</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Das Abk. gilt für das Königreich in Europa.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Albanien</td><td>19. Februar</td><td>2007 B</td><td>19. März</td><td>2007</td></tr>
+<tr><td>Belgien</td><td>15. Februar</td><td>1979</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Belize</td><td>12. Juni</td><td>2003 B</td><td>12. Juli</td><td>2003</td></tr>
+<tr><td>Benin</td><td>2. Oktober</td><td>1986 B</td><td>2. November</td><td>1986</td></tr>
+<tr><td>Bulgarien</td><td>11. November</td><td>1996 B</td><td>11. Dezember</td><td>1996</td></tr>
+<tr><td>Côte d’Ivoire</td><td>26. April</td><td>1993 B</td><td>30. Mai</td><td>1993</td></tr>
+<tr><td>Deutschland</td><td>14. März</td><td>1983</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Frankreich</td><td>13. Juni</td><td>1962</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Überseeische Departemente und Gebiete</td><td>13. Juni</td><td>1962</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Gabun</td><td>18. Juli</td><td>2003 B</td><td>18. August</td><td>2003</td></tr>
+<tr><td>Georgien</td><td>1. Juli</td><td>2003 B</td><td>1. August</td><td>2003</td></tr>
+<tr><td>Griechenland</td><td>18. März</td><td>1997 B</td><td>18. April</td><td>1997</td></tr>
+<tr><td>Italien</td><td>11. Mai</td><td>1987</td><td>13. Juni</td><td>1987</td></tr>
+<tr><td>Kirgisistan</td><td>17. Februar</td><td>2003 B</td><td>13. März</td><td>2003</td></tr>
+<tr><td>Korea (Nord-)</td><td>15. April</td><td>1992 B</td><td>27. Mai</td><td>1992</td></tr>
+<tr><td>Kroatien</td><td>12. Januar</td><td>2004 B</td><td>12. Februar</td><td>2004</td></tr>
+<tr><td>Liechtenstein</td><td>1. März</td><td>1966</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Luxemburg</td><td>23. Oktober</td><td>1978</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Mali</td><td>7. August</td><td>2006 B</td><td>7. September</td><td>2006</td></tr>
+<tr><td>Marokko</td><td>13. September</td><td>1999 B</td><td>13. Oktober</td><td>1999</td></tr>
+<tr><td>Moldau</td><td>14. Februar</td><td>1994 B</td><td>14. März</td><td>1994</td></tr>
+<tr><td>Monaco</td><td>13. Oktober</td><td>1981</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Mongolei</td><td>12. März</td><td>1997 B</td><td>12. April</td><td>1997</td></tr>
+<tr><td>Montenegro</td><td>4. Dezember</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Niederlande <sup>a</sup></td><td>15. Februar</td><td>1979</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Niger</td><td>20. August</td><td>2004 B</td><td>20. September</td><td>2004</td></tr>
+<tr><td>Nordmazedonien</td><td>18. Februar</td><td>1997 B</td><td>18. März</td><td>1997</td></tr>
+<tr><td>Rumänien</td><td>17. Juni</td><td>1992 B</td><td>18. Juli</td><td>1992</td></tr>
+<tr><td>Schweiz</td><td>31. Oktober</td><td>1962</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Senegal</td><td>30. Mai</td><td>1984 B</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Serbien</td><td>25. November</td><td>1993</td><td>30. Dezember</td><td>1993</td></tr>
+<tr><td>Slowenien</td><td>12. Dezember</td><td>1994 B</td><td>13. Januar</td><td>1995</td></tr>
+<tr><td>Suriname</td><td>16. November</td><td>1976 B</td><td>1. August</td><td>1984</td></tr>
+<tr><td>Ukraine</td><td>28. Mai</td><td>2002 B</td><td>28. August</td><td>2002</td></tr>
+<tr><td>Ungarn</td><td>7. März</td><td>1984 B</td><td>1. August</td><td>1984</td></tr>
+<tr><td colspan="5"><sup>a</sup> Das Abk. gilt für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: [AS 1984 889](https://fedlex.data.admin.ch/eli/oc/1984/889_889_889), [1987 705](https://fedlex.data.admin.ch/eli/oc/1987/705_705_705), [1990 850](https://fedlex.data.admin.ch/eli/oc/1990/850_850_850), [2003 3533](https://fedlex.data.admin.ch/eli/oc/2003/505), [2005 4949](https://fedlex.data.admin.ch/eli/oc/2005/673), [2009 3151](https://fedlex.data.admin.ch/eli/oc/2009/392)und [2014 1219](https://fedlex.data.admin.ch/eli/oc/2014/262). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 1984 889](https://fedlex.data.admin.ch/eli/oc/1984/889_889_889); [1987 705](https://fedlex.data.admin.ch/eli/oc/1987/705_705_705); [1990 850](https://fedlex.data.admin.ch/eli/oc/1990/850_850_850); [2003 3533](https://fedlex.data.admin.ch/eli/oc/2003/505); [2005 4949](https://fedlex.data.admin.ch/eli/oc/2005/673); [2009 3151](https://fedlex.data.admin.ch/eli/oc/2009/392); [2014 1219](https://fedlex.data.admin.ch/eli/oc/2014/262). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
