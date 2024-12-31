@@ -3,20 +3,19 @@ canton: GR
 number: "803.100"
 title: Enteignungsgesetz des Kantons Graubünden
 language: de
-version: 2024-12-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-06-14
 adopted: 1958-10-26
 in_force: 1959-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/803.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3371/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3485/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Enteignungsgesetz des Kantons Graubünden
 
-Vom 26.10.1958 (Stand 01.12.2024)
+Vom 26.10.1958 (Stand 01.01.2025)
 
 Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 
@@ -30,7 +29,7 @@ Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 
 <sup>1</sup> Dieses Gesetz gilt unter Vorbehalt des Bundesrechtes und des kantonalen Raumplanungsrechtes für alle Enteignungen und die Feststellung und Folgen enteignungsähnlicher Eigentumsbeschränkungen.
 
-<sup>2</sup> Ist eine Enteignung nach eidgenössischem und kantonalem Recht möglich, so kann der Enteigner bestimmen, nach welchem Rechte sie durchzuführen ist Nach Erteilung des Enteignungsrechts besteht dieses Wahlrecht nicht mehr.
+<sup>2</sup> Ist eine Enteignung nach eidgenössischem und kantonalem Recht möglich, so kann der Enteigner bestimmen, nach welchem Rechte sie durchzuführen ist. Nach Erteilung des Enteignungsrechts besteht dieses Wahlrecht nicht mehr.
 
 #### Art. 2
 
@@ -195,23 +194,23 @@ Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 
 #### Art. 18
 
-**Enteignungskreise**
-
-<sup>1</sup> Die Regierung bestimmt die Enteignungskreise[^18-1].
-
-[^18-1]: Gemäss RB vom 30. Dezember 1958 und vom 19. März 1962 ist der ganze Kanton in acht Enteignungskreise eingeteilt worden, welche mit Ausnahme des einen eigenen Enteignungskreis bildenden Gebietes der Stadt Chur den Ingenieurbezirken entsprechen. Die Ingenieurbezirke sind folgendermassen eingeteilt: 1. Bezirk mit Sitz in Chur, umfassend die Untere Strasse von der St. Galler- und Liechtensteinergrenze bis Reichenau, die Obere Strasse von Chur bis Tiefencastel, ferner die Schanfiggerstrasse von Chur bis Arosa, die Prättigauerstrasse von Landquart bis Schiers/Schasseintobel, die Verbindungsstrassen sowie die Stationsstrassen der RhB, welche der kantonalen Strassenpolizeiordnung unterstellt sind; 2. Bezirk mit Sitz in Mesocco, umfassend die Italienische Strasse Hinterrhein (Passanfang) –St. Bernhardin–Mesocco–Tessinergrenze nebst der Calancastrasse von Grono bis Rossa und die Verbindungsstrassen; 3. Bezirk mit Sitz in Samedan, umfassend die Obere Strasse von der Grenze Mulegns/Sur–Julier–Silvaplana–Maloja–Landesgrenze, die Engadinerstrasse von Silvaplana bis Punt ota oberhalb Brail, die Berninastrasse von Samedan und von Celerina/Schlarigna über Pontresina–Poschiavo bis Campocologno; dann die Albulastrasse von Preda bis La Punt Chamues–ch und die Verbindungsstrassen sowie die Stationsstrassen der RhB, die der kantonalen Strassenpolizeiordnung unterstellt sind; 4. Bezirk mit Sitz in Scuol, umfassend die Engadinerstrasse von Punt ota oberhalb Brail bis Martina–Vinadi–Landesgrenze, die Ofenberg- und Münstertalerstrasse von Zernez bis zur Landesgrenze bei Müstair, die Umbrailstrasse bis zur Landesgrenze auf der Passhöhe, die Flüelastrasse von Susch bis Grenze Susch/Davos und die Samnaunerstrasse von Vinadi bis Spissermühle, die Verbindungsstrassen und die der kantonalen Strassenpolizeiordnung unterstellten Stationsstrassen der RhB; 5. Bezirk mit Sitz in Davos-Platz, umfassend die Obere Strasse von Tiefencastel bis Grenze Mulegns/Sur, die Albulastrasse von Tiefencastel bis Preda, die Landwasserstrasse von Lantsch/Lenz über Wiesen bis Davos, die Flüelastrasse von Davos-Dorf bis Grenze Davos/Susch und die Prättigauerstrasse von Schiers–Schasseintobel bis Davos-Dorf, die Verbindungsstrassen sowie die der kantonalen Strassenpolizeiordnung unterstellten Stationsstrassen der RhB; 6. Bezirk mit Sitz in Ilanz, umfassend die Oberländerstrasse ab Reichenau über Ilanz-Tavetsch bis zur Urnergrenze, die Oberländerstrasse von der Grenze Versam/Valendas bis Ilanz, dann die Lugnezerstrasse von Ilanz bis Vrin und Val Gronda über Peiden bis Vals, die Glennerstrasse von Ilanz bis Peidenbad, die Lukmanierstrasse von Disentis/Mustér bis zur Tessinergrenze, die Verbindungsstrassen und die der kantonalen Strassenpolizeiordnung unterstellten Stationsstrassen der RhB; 7. Bezirk mit Sitz in Thusis, umfassend die Italienische Strasse von Reichenau bis Hinterrhein (Passanfang), den Splügenpass bis Landesgrenze, die Averserstrasse, die Schynstrasse von Thusis bis Tiefencastel, die Oberländerstrasse von Bonaduz bis Grenze Versam/Valendas, die Safierstrasse von Versam bis Safien-Thalkirch und die Domleschgerstrasse von Rothenbrunnen bis Sils i.D. sowie die Verbindungsstrassen und die Zufahrtsstrassen zu den Stationen der RhB, die der kantonalen Strassenpolizeiordnung unterstellt sind.
+**…**
 
 #### Art. 19
 
-**Enteignungskommission**
+**Enteignungskommission 1. Stellung und Zusammensetzung**
 
-<sup>1</sup> Für alle in einem Enteignungskreis vorkommenden Enteignungsfälle wählt die Regierung für eine Amtsdauer von vier Jahren eine Enteignungskommission von drei Mitgliedern und zwei Stellvertretern. Der Präsident wird von der Regierung bezeichnet. Über die Protokollführung entscheidet die Kommission.
+<sup>1</sup> Für den gesamten Kanton besteht eine Enteignungskommission.
 
-<sup>2</sup> Für den Ausstand sind die Bestimmungen des Verwaltungsrechtspflegegesetzes[^19-1] massgebend.
+<sup>2</sup> Die Enteignungskommission setzt sich zusammen aus einer Präsidentin oder einem Präsidenten, einer Vizepräsidentin oder einem Vizepräsidenten und fünf weiteren Mitgliedern.
 
-<sup>3</sup> Erstreckt sich das auszuführende Werk über mehrere Enteignungskreise, so bestimmt die Regierung eine einzige Enteignungskommission.
+<sup>3</sup> Die Enteignungskommission ist in der Rechtsprechung unabhängig und nur dem Recht verpflichtet.
 
-[^19-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+<sup>4</sup> Die Enteignungskommission kann ein Sekretariat und ein Aktuariat bestellen. Administrativ ist sie dem Obergericht angegliedert. Sie verfügt dort über eine Zustelladresse.
+
+<sup>5</sup> Die Regierung legt das Taggeld für die im Nebenamt tätigen Mitglieder der Enteignungskommission fest. Sie kann von den in Artikel 70 des Gesetzes über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden[^19-1] vorgesehenen Ansätzen abweichen.
+
+[^19-1]: BR [170.400](https://www.gr-lex.gr.ch/data/170.400/de)
 
 #### Art. 19a
 
@@ -227,7 +226,7 @@ Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 
 #### Art. 20
 
-**Zuständigkeit**
+**3. Zuständigkeit**
 
 <sup>1</sup> Der Enteignungskommission obliegt im besondern der Entscheid über:
 
@@ -244,21 +243,34 @@ Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 - l) nachträgliche Entschädigungsansprüche, sofern ein Enteignungsverfahren nicht oder nicht gegen den Geschädigten durchgeführt worden ist;
 - m) das Vorliegen einer materiellen Enteignung.
 
+#### Art. 20a
+
+**4. Besetzung**
+
+<sup>1</sup> Die Enteignungskommission entscheidet in der Besetzung mit drei Mitgliedern. Der Spruchkörper besteht aus:
+
+- a) der Präsidentin beziehungsweise dem Präsidenten oder der Vizepräsidentin beziehungsweise dem Vizepräsidenten (Vorsitz);
+- b) zwei weiteren Mitgliedern.
+
+<sup>2</sup> Hat die Enteignungskommission ein Aktuariat bestellt, wirkt die Aktuarin oder der Aktuar gemäss den Instruktionen der oder des Vorsitzenden am Verfahren mit. Sie oder er hat bei der Entscheidfindung beratende Stimme.
+
 #### Art. 21
 
 **Aufsicht**
 
-<sup>1</sup> Das Verwaltungsgericht übt die Aufsicht über die Enteignungskommissionen aus.
+<sup>1</sup> Das Obergericht übt die Aufsicht über die Enteignungskommission aus.
 
-<sup>2</sup> Es überwacht ihren Geschäftsgang in geeigneter Weise und kann ihnen allgemeine Weisungen erteilen.
+<sup>2</sup> Es verfügt gegenüber der Enteignungskommission und deren Mitgliedern über dieselben Aufsichtsinstrumente und Hilfsmittel wie gegenüber den anderen richterlichen Behörden und deren Mitgliedern, die seiner direkten Aufsicht unterstehen.
 
-<sup>3</sup> Die Bestimmungen des Gerichtsorganisationgesetzes über die Justizaufsicht finden sinngemäss Anwendung.
+<sup>3</sup> Die Bestimmungen des Gerichtsorganisationsgesetzes[^21-1] über die Justizaufsicht finden sinngemäss Anwendung.
+
+[^21-1]: BR [173.000](https://www.gr-lex.gr.ch/data/173.000/de)
 
 #### Art. 22
 
-**Verwaltungsgericht**
+**Obergericht**
 
-<sup>1</sup> Der Enteigner und der Enteignete können, wenn nicht ausdrücklich etwas anderes bestimmt ist, alle Sachentscheide der Enteignungskommission an das Verwaltungsgericht weiterziehen[^22-1].
+<sup>1</sup> Der Enteigner und der Enteignete können, wenn nicht ausdrücklich etwas anderes bestimmt ist, alle Sachentscheide der Enteignungskommission an das Obergericht weiterziehen[^22-1].
 
 <sup>2</sup> Wird von einer Partei Beschwerde eingereicht, so steht der Gegenpartei das Recht der Anschlussbeschwerde zu.
 
@@ -388,5 +400,15 @@ Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 <sup>1</sup> Fälle, für die die Enteignung beim Inkrafttreten dieses Gesetzes bereits eingeleitet ist, werden nach dem bisherigen Recht behandelt.
 
 <sup>2</sup> Hingegen finden die Bestimmungen dieses Gesetzes über den Weiterzug, den Vollzug der Enteignung und das Rückforderungsrecht auf alle Entscheide Anwendung, die nach Inkrafttreten dieses Gesetzes mitgeteilt werden.
+
+#### Art. 36
+
+**Übergangsbestimmungen betreffend die Reorganisation der Enteignungskommissionen**
+
+<sup>1</sup> Die Amtsdauer der Mitglieder der Enteignungskommissionen endet per 31. Dezember 2024.
+
+<sup>2</sup> Die Befugnisse, Vermögenswerte und Verbindlichkeiten der altrechtlichen Enteignungskommissionen gehen mit dem Inkrafttreten der Änderung dieses Gesetzes entschädigungslos auf die neurechtliche Enteignungskommission über.
+
+<sup>3</sup> Verfahren, die beim Inkrafttreten der Änderung dieses Gesetzes bei den altrechtlichen Enteignungskommissionen hängig sind, werden mit dem Inkrafttreten des neuen Rechts auf die neurechtliche Enteignungskommission übertragen.
 
 -

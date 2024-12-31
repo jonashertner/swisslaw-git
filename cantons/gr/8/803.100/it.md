@@ -3,20 +3,19 @@ canton: GR
 number: "803.100"
 title: Legge sulle espropriazioni del Cantone dei Grigioni
 language: it
-version: 2024-12-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-06-14
 adopted: 1958-10-26
 in_force: 1959-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/803.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3371/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3485/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulle espropriazioni del Cantone dei Grigioni
 
-del 26.10.1958 (stato 01.12.2024)
+del 26.10.1958 (stato 01.01.2025)
 
 accettata dal Popolo il 26 ottobre 1958[^ingress-1]
 
@@ -195,23 +194,23 @@ accettata dal Popolo il 26 ottobre 1958[^ingress-1]
 
 #### Art. 18
 
-**Circondari di espropriazione**
-
-<sup>1</sup> I circondari d'espropriazione sono stabiliti dal Governo.[^18-1]
-
-[^18-1]: Con DG del 30 dicembre 1958 e del 19 marzo 1962, l'intero territorio cantonale è stato ripartito in otto circondari d'espropriazione, che corrispondono ai circondari tecnici, fatta eccezione per la Città di Coira, formante un circondario proprio. I circondari tecnici sono ripartiti come segue: 1° circondario con sede a Coira, comprendente la Untere Strasse dal confine con il Cantone di San Gallo e con il Principato del Liechtenstein fino a Reichenau, la Obere Strasse da Coira a Tiefencastel, la strada dello Schanfigg da Coira ad Arosa, la strada della Prettigovia da Landquart a Schiers/Schasseintobel, le strade di allacciamento, nonché le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 2° circondario con sede a Mesocco, comprendente la Strada italiana Hinterrhein (inizio del passo) - San Bernardino - Mesocco - confine con il Cantone Ticino, oltre alla strada della Calanca da Grono a Rossa e alle strade d'allacciamento; 3° circondario con sede a Samedan, comprendente la Obere Strasse dal confine Mulegns/Sur - Julier - Silvaplana - Maloja - confine di Stato, la strada dell'Engadina da Silvaplana a Punt ota sopra Braul, la strada del Bernina da Samedan e Celerina/Schlarigna attraverso Pontresina - Poschiavo fino a Campocologno; inoltre la strada dell'Albula da Preda a La Punt Chamues-ch e le strade d'allacciamento nonché le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 4° circondario con sede a Scuol, comprendente la strada dell'Engadina da Punt ota sopra Braul a Martina - Vinadi - confine di Stato, la strada del passo del Forno e la strada della Val Monastero da Zernez al confine di Stato presso Müstair, la strada del passo dell'Umbrail fino al confine di Stato in cima al passo, la strada del Flüela da Susch fino al confine Susch/Davos e la strada per Samnaun da Vinadi a Spissermühle, le strade d'allacciamento e le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 5° circondario con sede a Davos-Platz, comprendente la Obere Strasse da Tiefencastel al confine Mulegns/Sur, la strada dell'Albula da Tiefencastel fino a Preda, la strada della Landwasser, da Lantsch/Lenz passando per Wiesen fino a Davos, la strada del Flüela da Davos-Dorf al confine Davos/Susch e la strada della Prettigovia da Schiers–Schasseintobel a Davos-Dorf, le strade d'allacciamento, nonché le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 6° circondario con sede a Ilanz comprendente la strada della Surselva da Reichenau passando per Ilanz-Tavetsch fino al confine con il Cantone di Uri, la strada della Surselva dal confine Versam/Valendas a Ilanz, la strada della Lumnezia da Ilanz a Vrin e da Val Gronda passando per Peiden fino a Vals, la Glennerstrasse da Ilanz a Peidenbad, la strada del Lucomagno da Disentis/Mustér fino al confine con il Cantone Ticino, le strade d'allacciamento e le strade delle stazioni della FR che sottostanno all'ordinanza cantonale sulla polizia della strada; 7°circondario con sede a Thusis, comprendente la Strada italiana da Reichenau a Hinterrhein (inizio del passo), il passo dello Spluga fino al confine di Stato, la strada per Avers, la strada della Schyn da Thusis a Tiefencastel, la strada della Surselva da Bonaduz al confine Versam/Valendas, la strada per Safien da Versam a Safien-Thalkirch e la strada della Domigliasca da Rothenbrunnen a Sils i.D, nonché le strade d'allacciamento e le strade di accesso alle stazioni FR che che sottostanno all'ordinanza cantonale sulla polizia della strada.
+**…**
 
 #### Art. 19
 
-**Commissioni di espropriazione**
+**Commissione di espropriazione 1. Posizione e composizione**
 
-<sup>1</sup> Per tutti i casi di espropriazione che hanno luogo in un circondario d'espropriazione, il Governo nomina una commissione di espropriazione composta di tre membri e due supplenti in carica per 4 anni. Il presidente è designato dal Governo. Circa la tenuta del verbale decide la commissione stessa.
+<sup>1</sup> Vi è una commissione di espropriazione per l'intero Cantone.
 
-<sup>2</sup> Per la ricusazione fanno stato le disposizioni della legge sulla giustizia amministrativa[^19-1].
+<sup>2</sup> La commissione di espropriazione è composta da un presidente, da un vicepresidente e da cinque altri membri.
 
-<sup>3</sup> Se l'opera da eseguire si estende a più circondari d'espropriazione, il Governo designa una commissione d'espropriazione unica.
+<sup>3</sup> La commissione di espropriazione è autonoma nella giurisprudenza e vincolata unicamente al diritto.
 
-[^19-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+<sup>4</sup> La commissione di espropriazione può costituire una segreteria e un attuariato. Sotto il profilo amministrativo è annessa al Tribunale d'appello. Lì dispone di un indirizzo di recapito.
+
+<sup>5</sup> Il Governo stabilisce l'indennità giornaliera per i membri della commissione di espropriazione attivi a titolo accessorio. Esso può prevedere deroghe agli importi previsti dall'articolo 70 della legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni[^19-1].
+
+[^19-1]: CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it)
 
 #### Art. 19a
 
@@ -227,7 +226,7 @@ accettata dal Popolo il 26 ottobre 1958[^ingress-1]
 
 #### Art. 20
 
-**Competenze**
+**3. Competenze**
 
 <sup>1</sup> La commissione d'espropriazione decide specialmente circa:
 
@@ -244,21 +243,34 @@ accettata dal Popolo il 26 ottobre 1958[^ingress-1]
 - l) le pretese susseguenti d'indennità se non venne effettuata una procedura d'espropriazione oppure se essa non venne effettuata contro il danneggiato.
 - m) l'esistenza di un'espropriazione materiale.
 
+#### Art. 20a
+
+**4. Composizione**
+
+<sup>1</sup> La commissione di espropriazione decide nella composizione di tre membri. Il collegio giudicante è composto:
+
+- a) dal presidente o dal vicepresidente (presidenza);
+- b) da altri due membri.
+
+<sup>2</sup> Se la commissione di espropriazione ha costituito un attuariato, l'attuario prende parte al procedimento in conformità alle istruzioni impartite dal presidente. Egli ha voto consultivo nel processo decisionale.
+
 #### Art. 21
 
 **Vigilanza**
 
-<sup>1</sup> Il Tribunale amministrativo esercita la vigilanza sulle commissioni d'espropriazione.
+<sup>1</sup> Il Tribunale d'appello esercita la vigilanza sulla commissione di espropriazione.
 
-<sup>2</sup> Esso esercita in maniera opportuna la vigilanza sul loro funzionamento e può impartire loro istruzioni generali.
+<sup>2</sup> Nei confronti della commissione di espropriazione e dei suoi membri esso dispone degli stessi strumenti di vigilanza e mezzi ausiliari di cui dispone nei confronti delle altre autorità giudiziarie e dei loro membri sottoposti alla sua vigilanza diretta.
 
-<sup>3</sup> Le disposizioni della legge sull'organizzazione giudiziaria relative alla vigilanza sulla giustizia si applicano per analogia.
+<sup>3</sup> Si applicano per analogia le disposizioni della legge sull'organizzazione giudiziaria[^21-1] relative alla vigilanza sulla giustizia.
+
+[^21-1]: CSC [173.000](https://www.gr-lex.gr.ch/data/173.000/it)
 
 #### Art. 22
 
-**Tribunale amministrativo**
+**Tribunale d'appello**
 
-<sup>1</sup> L'espropriante e l'espropriato possono presentare ricorso quando non sia esplicitamente disposto in altro modo, al Tribunale amministrativo contro tutte le decisioni della commissione d'espropriazione su oggetti.[^22-1]
+<sup>1</sup> L'espropriante e l'espropriato possono presentare ricorso, quando non sia esplicitamente disposto in altro modo, al Tribunale d'appello contro tutte le decisioni della commissione di espropriazione su oggetti[^22-1].
 
 <sup>2</sup> Se una parte presenta ricorso, l'altra parte ha diritto di aderivi.
 
@@ -266,7 +278,7 @@ accettata dal Popolo il 26 ottobre 1958[^ingress-1]
 
 <sup>4</sup> …
 
-[^22-1]: Vedi gli art. 52 sgg. LTA, CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+[^22-1]: Vedi gli art. 52 segg. LTA, CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
 ## 6. Esecuzione dell'espropriazione
 
@@ -387,5 +399,15 @@ accettata dal Popolo il 26 ottobre 1958[^ingress-1]
 <sup>1</sup> Le pratiche di espropriazione già iniziate all'entrata in vigore di questa legge vanno evase secondo la legislazione precedente.
 
 <sup>2</sup> Si applicano invece le disposizioni di questa legge sul ricorso, sull'esecuzione dell'espropriazione e sulla retrocessione a tutte le decisioni notificate dopo l'entrata in vigore della legge.
+
+#### Art. 36
+
+**Disposizioni transitorie concernenti la riorganizzazione delle commissioni di espropriazione**
+
+<sup>1</sup> Il periodo di carica dei membri delle commissioni di espropriazione si conclude il 31 dicembre 2024.
+
+<sup>2</sup> I poteri, i beni e le obbligazioni delle commissioni di espropriazione di diritto anteriore passano senza indennizzo alcuno alle commissioni di espropriazione di nuovo diritto al momento dell'entrata in vigore della presente legge.
+
+<sup>3</sup> I procedimenti che al momento dell'entrata in vigore della presente legge sono pendenti dinanzi alle commissioni di espropriazione di diritto anteriore vengono trasferiti alla commissione di espropriazione di nuovo diritto con effetto al momento dell'entrata in vigore del nuovo diritto.
 
 -

@@ -3,20 +3,19 @@ canton: GR
 number: "803.100"
 title: "Lescha d'expropriaziun dal chantun Grischun"
 language: rm
-version: 2024-12-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2022-06-14
 adopted: 1958-10-26
 in_force: 1959-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/803.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3371/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3485/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha d'expropriaziun dal chantun Grischun
 
-dals 26-10-1958 (versiun dals 01-12-2024)
+dals 26-10-1958 (versiun dals 01-01-2025)
 
 acceptada dal pievel ils 26 d'october 1958[^ingress-1]
 
@@ -195,23 +194,23 @@ acceptada dal pievel ils 26 d'october 1958[^ingress-1]
 
 #### Art. 18
 
-**Circuls d'expropriaziun**
-
-<sup>1</sup> La regenza fixescha ils circuls d'expropriaziun.[^18-1]
-
-[^18-1]: Tenor il CR dals 30 da december 1958 e dals 19 da mars 1962 è l'entir chantun vegnì repartì en otg circuls d'expropriaziun che correspundan als districts d'inschigner, cun excepziun dal territori da la citad da Cuira che furma in agen circul d'expropriaziun. Ils districts d'inschigner èn repartids suandantamain: 1. district cun sedia a Cuira, cumpigliond la via sut dal cunfin da Son Gagl e dal Principadi da Liechtenstein fin La Punt, la via sura da Cuira fin Casti, plinavant la via dal Scanvetg da Cuira fin Arosa, la via dal Partenz da Landquart fin Schiers/Schasseintobel, las vias da colliaziun sco er las vias da la staziun da la VR, las qualas èn suttamessas a l'urden chantunal da la polizia stradala; 2. district cun sedia a Mesauc, cumpigliond la via taliana Valragn (cumenzament dal pass) –San Bernardin–Mesauc–cunfin dal Tessin sper la via da Calanca da Grono fin Rossa e las vias da colliaziun; 3. district cun sedia a Samedan, cumpigliond la via sura dal cunfin Mulegns/ Sour–Güglia–Silvaplauna–Malögia–cunfin dal pajais, la via da l'Engiadina da Silvaplauna fin Punt ota sur Brail, la via dal Bernina da Samedan e da Schlarigna sur Puntraschigna–Puschlav fin Campocologno; lura la via da l'Alvra da Preda fin La Punt Chamues-ch e las vias da colliaziun sco er las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 4. district cun sedia a Scuol, cumpigliond la via da l'Engiadina da Punt ota sur Brail fin Martina–Vinadi–cunfin dal stadi, la via dal Fuorn e la via da la Val Müstair da Zernez fin al cunfin dal stadi tar Müstair, la via da l'Umbrail fin al cunfin dal pajais sin il pass, la via dal Flüela da Susch fin al cunfin Susch/Tavau e la via da Samignun da Vinadi fin al mulin da Spiss, las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 5. district cun sedia a Tavau Plaz, cumpigliond la via sura da Casti fin al cunfin da Mulegns/Sour, la via da l'Alvra da Casti fin Preda, la via da la Landwasser da Lantsch sur Wiesen fin Tavau, la via dal Flüela da Tavau Vitg fin al cunfin Tavau/Susch e la via dal Partenz da Schiers–Schasseintobel fin Tavau Vitg, las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 6. district cun sedia a Glion, cumpigliond la via da la Surselva da La Punt sur Glion–Tujetsch fin al cunfin dal chantun Uri, la via da la Surselva dal cunfin da Versomi/Valendau fin Glion, lura la via da la Lumnezia da Glion fin Vrin e Val Gronda sur Peiden fin Val S. Pieder, la via dal Glogn da Glion fin Peiden Bogn, la via dal Lucmagn da Mustér fin al cunfin dal Tessin, las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala; 7. district cun sedia a Tusaun, cumpigliond la via taliana da La Punt fin Valragn (cumenzament dal pass), il pass dal Spleia fin al cunfin naziunal, la via d'Avras, la via dal Meir da Tusaun fin Casti, la via da la Surselva da Panaduz fin al cunfin da Versomi/Valendau, la via da la Stussavgia da Versomi fin Safien-Talkirch e la via da la Tumleastga da Giuvaulta fin Seglias sco er las vias da colliaziun e las vias da la staziun da la VR, ch'èn suttamessas a l'urden chantunal da la polizia stradala.
+**…**
 
 #### Art. 19
 
-**Cumissiun d'expropriaziun**
+**Cumissiun d'expropriaziun 1. posiziun e cumposiziun**
 
-<sup>1</sup> Per tut ils cas d'expropriaziun che vegnan avant en in circul d'expropriaziun elegia la regenza per ina perioda d'uffizi da 4 onns ina cumissiun d'expropriaziun da trais commembers e da dus suppleants. Il president vegn designà da la regenza. La cumissiun decida tgi che maina il protocol.
+<sup>1</sup> Per l'entir chantun exista ina cumissiun d'expropriaziun.
 
-<sup>2</sup> Per la recusaziun èn decisivas las disposiziuns da la lescha davart la giurisdicziun administrativa[^19-1].
+<sup>2</sup> La cumissiun d'expropriaziun sa cumpona d'ina presidenta u d'in president, d'ina vicepresidenta u d'in vicepresident sco er da tschintg ulteriuras commembras ed ulteriurs commembers.
 
-<sup>3</sup> Sche l'ovra cumpiglia plirs circuls d'expropriaziun, fixescha la regenza in'unica cumissiun d'expropriaziun.
+<sup>3</sup> La cumissiun d'expropriaziun è independenta en la giurisdicziun ed è obligada mo al dretg.
 
-[^19-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+<sup>4</sup> La cumissiun d'expropriaziun po nominar in secretariat ed in actuariat. En reguard administrativ è ella integrada en la Dretgira superiura. Là dispona ella d'ina adressa da consegna.
+
+<sup>5</sup> La Regenza fixescha la diaria per las commembras ed ils commembers da la cumissiun d'expropriaziun che lavuran en uffizi accessoric. Ella po divergiar da las tariffas previsas en l'artitgel 70 da la Lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun[^19-1].
+
+[^19-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 19a
 
@@ -227,7 +226,7 @@ acceptada dal pievel ils 26 d'october 1958[^ingress-1]
 
 #### Art. 20
 
-**Cumpetenza**
+**3. cumpetenza**
 
 <sup>1</sup> La cumissiun d'expropriaziun decida spezialmain davart:
 
@@ -244,21 +243,34 @@ acceptada dal pievel ils 26 d'october 1958[^ingress-1]
 - l) las pretensiuns d'indemnisaziun posteriuras, sche la procedura d'expropriaziun n'è betg vegnida fatga u sch'ella n'è betg vegnida fatga cunter il donnegià;
 - m) l'existenza d'ina expropriaziun materiala.
 
+#### Art. 20a
+
+**4. cumposiziun**
+
+<sup>1</sup> La cumissiun d'expropriaziun decida per regla en ina cumposiziun da trais commembras e commembers. Il collegi giuditgant sa cumpona:
+
+- a) da la presidenta respectivamain dal president u da la vicepresidenta respectivamain dal vicepresident (presidi);
+- b) da duas ulteriuras commembras e commembers.
+
+<sup>2</sup> Sche la cumissiun d'expropriaziun ha nominà in actuariat, cooperescha l'actuara u l'actuar a la procedura tenor las instrucziuns da la parsura u dal parsura. En il process da decisiun ha ella u el vusch consultativa.
+
 #### Art. 21
 
 **Surveglianza**
 
-<sup>1</sup> La dretgira administrativa surveglia las cumissiuns d'expropriaziun.
+<sup>1</sup> La Dretgira superiura ha la surveglianza da la cumissiun d'expropriaziun.
 
-<sup>2</sup> Ella surveglia l'andament da lur fatschentas en moda adattada e po dar instrucziuns generalas ad ellas.
+<sup>2</sup> Envers la cumissiun d'expropriaziun ed envers sias commembras e ses commembers dispona ella dals medems instruments da surveglianza e dals medems meds auxiliars sco envers las autras autoritads giudizialas ed envers lur commembras e commembers ch'èn suttamess a sia surveglianza directa.
 
-<sup>3</sup> Las disposiziuns da la lescha davart l'organisaziun giudiziala concernent la surveglianza da la giustia vegnan applitgadas analogamain.
+<sup>3</sup> Las disposiziuns da la Lescha davart l'organisaziun giudiziala[^21-1] concernent la surveglianza giudiziala vegnan applitgadas analogamain.
+
+[^21-1]: DG [173.000](https://www.gr-lex.gr.ch/data/173.000/rm)
 
 #### Art. 22
 
-**Dretgira administrativa**
+**Dretgira superiura**
 
-<sup>1</sup> L'expropriant e l'exproprià pon – sch'i n'è betg fixà expressivamain insatge auter – far recurs tar la dretgira administrativa cunter tut las decisiuns en chaussa da la cumissiun d'expropriaziun.[^22-1]
+<sup>1</sup> L'expropriant e l'exproprià pon – sch'i n'è betg fixà expressivamain insatge auter – far recurs tar la Dretgira superiura cunter tut las decisiuns materialas da la cumissiun d'expropriaziun[^22-1].
 
 <sup>2</sup> Sch'ina partida fa recurs, ha la cuntrapartida il dretg dal recurs adesiv.
 
@@ -266,7 +278,7 @@ acceptada dal pievel ils 26 d'october 1958[^ingress-1]
 
 <sup>4</sup> …
 
-[^22-1]: vesair ils art. 52 ss. LDA, DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+[^22-1]: Guardar art. 52 ss. LDA, DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
 ## 6. Execuziun da l'expropriaziun
 
@@ -388,5 +400,15 @@ acceptada dal pievel ils 26 d'october 1958[^ingress-1]
 <sup>1</sup> Cas, per ils quals l'expropriaziun è gia introducida il mument che questa lescha entra en vigur, vegnan tractads tenor il dretg vertent.
 
 <sup>2</sup> Percunter vegnan applitgadas las disposiziuns da questa lescha davart il recurs, l'execuziun da l'expropriaziun ed il dretg da restituziun per tut las decisiuns che vegnan communitgadas suenter l'entrada en vigur da questa lescha.
+
+#### Art. 36
+
+**Disposiziuns transitoricas concernent la reorganisaziun da las cumissiuns d'expropriaziun**
+
+<sup>1</sup> La perioda d'uffizi da las commembras e dals commembers da las cumissiuns d'expropriaziun finescha ils 31 da december 2024.
+
+<sup>2</sup> Las cumpetenzas, las valurs da facultad e las obligaziuns da las cumissiuns d'expropriaziun tenor il dretg vegl vegnan transferidas – cun l'entrada en vigur da la midada da questa lescha – senza indemnisaziun a la cumissiun d'expropriaziun tenor il dretg nov.
+
+<sup>3</sup> Proceduras ch'èn pendentas davant las cumissiuns d'expropriaziun tenor il dretg vegl il mument che la midada da questa lescha entra en vigur, vegnan surdadas a la cumissiun d'expropriaziun tenor il dretg nov, cura ch'il dretg nov entra en vigur.
 
 -
