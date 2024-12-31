@@ -4,13 +4,12 @@ number: "295.200"
 title: Beurkundungs- und Beglaubigungsgesetz
 short: BeurG
 language: de
-version: 2013-01-01
-valid_until: 2024-12-31
-version_adopted: 2011-08-30
+version: 2025-01-01
+version_adopted: 2024-07-02
 adopted: 2011-08-30
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/295.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3626/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3686/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3626/pdf_file"
 
 (BeurG)
 
-Vom 30.08.2011 (Stand 01.01.2013)
+Vom 30.08.2011 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -92,7 +91,7 @@ beschliesst:
 
 **Anerkennung fremder öffentlicher Urkunden**
 
-<sup>1</sup> Öffentliche Urkunden, die eine zuständige schweizerische Urkundsperson ausserhalb des Kantons gültig errichtet hat, werden anerkannt. Ausgenommen sind Rechtsgeschäfte über im Kanton gelegene Grundstücke.
+<sup>1</sup> Öffentliche Urkunden, die in der Schweiz ausserhalb des Kantons gültig errichtet wurden, werden anerkannt. Ausgenommen sind Rechtsgeschäfte über im Kanton gelegene Grundstücke.
 
 ### 2.2. Urkundspersonen
 
@@ -126,12 +125,12 @@ beschliesst:
 - c) der gewerbsmässige Handel im Grundstückverkehr und die Vermittlung von Grundstücken gegen Provision,
 - d) jede Tätigkeit, die mit einer unabhängigen und einwandfreien Beurkundungstätigkeit oder mit dem Ansehen des Notariats nicht vereinbar ist. Die Urkundsperson darf eine solche Tätigkeit auch nicht durch Dritte ausüben lassen.
 
-<sup>2</sup> Die Urkundsperson darf gleichzeitig den Anwaltsberuf ausüben, wenn sie im Anwaltsregister des Kantons eingetragen ist.
+<sup>2</sup> Die Urkundsperson darf gleichzeitig den Anwaltsberuf ausüben, wenn sie im Anwaltsregister eines Kantons eingetragen ist.
 
 <sup>3</sup> Wenn ihre Unabhängigkeit gemäss § 22 gewährleistet ist, kann die Urkundsperson die Beurkundungstätigkeit im Anstellungsverhältnis ausüben bei einer
 
-- a) aargauischen Urkundsperson oder einer entsprechenden Personengesellschaft,
-- b) Kapitalgesellschaft, die von aargauischen Urkundspersonen oder im Anwaltsregister des Kantons eingetragenen Anwältinnen oder Anwälten beherrscht ist. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
+- a) aargauischen Urkundsperson,
+- b) Kapital- oder Personengesellschaft, die von aargauischen Urkundspersonen oder im Anwaltsregister eines Kantons eingetragenen Anwältinnen oder Anwälten beherrscht ist. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
 #### § 8
 
@@ -142,8 +141,8 @@ beschliesst:
 <sup>2</sup> Der ausserkantonale Fähigkeitsausweis als Notarin oder Notar wird von der Notariatskommission anerkannt, wenn
 
 - a) ihm gleichwertige Voraussetzungen für die Erteilung zugrunde liegen,
-- b) die Gesuchstellerin oder der Gesuchsteller die deutsche Sprache beherrscht,
-- c) der andere Kanton Gegenrecht hält.
+- b) die Gesuchstellerin oder der Gesuchsteller die deutsche Sprache beherrscht.
+- c) …
 
 #### § 9
 
@@ -158,7 +157,7 @@ beschliesst:
 <sup>1</sup> Die Notariatsprüfungskommission lässt Kandidatinnen und Kandidaten zur Notariatsprüfung zu, die
 
 - a) handlungsfähig sind,
-- b) über ein juristisches Masterdiplom oder ein juristisches Lizentiat einer schweizerischen Universität oder ein Masterdiplom einer schweizerischen Fachhochschule mit Fachrichtung Notariat verfügen,
+- b) über ein juristisches Masterdiplom oder ein juristisches Lizentiat einer schweizerischen Universität verfügen oder gemäss Art. 5 des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte (Anwaltsgesetz, BGFA) vom 23. Juni 2000[^10-1] in einem kantonalen Anwaltsregister eingetragen sind,
 - c) daran anschliessend das Notariatspraktikum absolviert haben.
 
 <sup>2</sup> Sie führt die Notariatsprüfung durch. Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil.
@@ -170,6 +169,8 @@ beschliesst:
 <sup>5</sup> Die Notariatskommission kann für Inhaberinnen oder Inhaber eines ausserkantonalen Fähigkeitsausweises als Notarin oder Notar Erleichterungen vorsehen.
 
 <sup>6</sup> Der Regierungsrat regelt den Prüfungsstoff und die Durchführung der Prüfungen durch Verordnung.
+
+[^10-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
 
 #### § 11
 
@@ -234,7 +235,7 @@ beschliesst:
 
 **Register**
 
-<sup>1</sup> Die Notariatskommission führt ein Register der Urkunds- und Beglaubigungspersonen sowie der Notarinnen und Notare.
+<sup>1</sup> Die Notariatskommission führt ein Register der Urkunds- und Beglaubigungspersonen.
 
 <sup>2</sup> Das Register enthält
 
@@ -342,7 +343,7 @@ beschliesst:
 
 <sup>1</sup> Die Urkundsperson muss die Beurkundung ablehnen, wenn an der Beurkundung beteiligt oder unmittelbar interessiert sind:
 
-- a) sie selbst als Urkundspartei oder Nebenperson,
+- a) sie selbst,
 - b) eine Person, als deren Vertreterin sie handelt,
 - c) ihre Ehegattin oder ihr Ehegatte, ihre eingetragene Partnerin oder ihr eingetragener Partner oder eine mit ihr in gemeinsamem Haushalt lebende Person, ihre Verwandten in gerader Linie, ihre Geschwister, Stiefeltern und Pflegeeltern sowie deren Ehegattinnen und Ehegatten oder eingetragene Partnerinnen und Partner,
 - d) eine Kollektiv- oder Kommanditgesellschaft, der eine in diesem Absatz genannte Person als unbeschränkt haftende Gesellschafterin oder als Kommanditärin angehört,
@@ -468,10 +469,13 @@ beschliesst:
 
 <sup>2</sup> Folgende Akten sind während mindestens 30 Jahren aufzubewahren:
 
-- a) Ein Exemplar, eine Kopie oder eine Abschrift der öffentlichen Urkunden, die nicht dauernd bei einer Behörde oder einer Amtsstelle bleiben,
+- a) Ein Exemplar oder eine beglaubigte Kopie der öffentlichen Urkunden, die nicht dauernd bei einer Behörde oder einer Amtsstelle bleiben,
+- a<sup>bis</sup>) Ein Exemplar der öffentlichen Urkunden, die als elektronische Ausfertigung nicht dauernd bei einer Behörde oder einer Amtsstelle bleiben,
 - b) Vollmachten, Zustimmungserklärungen von Ehegatten oder eingetragenen Partnerinnen und Partnern sowie weitere Dokumente, auf die in einer öffentlichen Urkunde Bezug genommen wird und die nicht bei einer Behörde oder einer Amtsstelle aufbewahrt werden.
 
 <sup>3</sup> Die übrigen Akten sind während zehn Jahren aufzubewahren.
+
+<sup>3<sup>bis</sup></sup> Die Aufbewahrung elektronischer Originale öffentlicher Urkunden erfolgt nach den bundesrechtlichen Vorschriften.
 
 <sup>4</sup> Der Regierungsrat regelt Einzelheiten und Ausnahmen von der Aufbewahrungspflicht durch Verordnung.
 
@@ -482,6 +486,8 @@ beschliesst:
 <sup>1</sup> Endet die Beurkundungsbefugnis dauernd, hat die Urkundsperson die Akten der Notariatskommission abzuliefern.
 
 <sup>2</sup> Die Akten können auch einer Nachfolgerin oder einem Nachfolger zur Aufbewahrung übergeben werden. Die Notariatskommission ist zu informieren.
+
+<sup>3</sup> Endet die Beurkundungsbefugnis durch den Tod der Urkundsperson, sind die Erben der Urkundsperson verpflichtet, deren Akten der Notariatskommission herauszugeben. Die Aussonderung durch die Notariatskommission, eines ihrer Mitglieder oder eine von ihr bestimmte Person erfolgt kostenpflichtig zulasten des Nachlasses.
 
 ### 3.4. Verantwortlichkeit
 
@@ -502,15 +508,17 @@ beschliesst:
 
 <sup>4</sup> Nach dem dauernden Entzug der Beurkundungs- oder Beglaubigungsbefugnis kann diese frühestens nach Ablauf von drei Jahren wieder erteilt werden.
 
+<sup>5</sup> Besteht ein öffentliches Interesse, ist das Aussprechen einer Disziplinarmassnahme auch nach dem Ende der Beurkundungs- oder Beglaubigungsbefugnis möglich.
+
 #### § 40
 
 **Verjährung**
 
-<sup>1</sup> Die disziplinarische Verfolgung der Urkunds- oder Beglaubigungsperson verjährt ein Jahr, nachdem die Notariatskommission vom beanstandeten Vorfall Kenntnis erhalten hat.
+<sup>1</sup> …
 
-<sup>2</sup> Die Frist wird durch jede Untersuchungs- oder Prozesshandlung über den beanstandeten Vorfall unterbrochen.
+<sup>2</sup> …
 
-<sup>3</sup> Die disziplinarische Verfolgung verjährt in jedem Fall zehn Jahre nach dem beanstandeten Vorfall.
+<sup>3</sup> Die disziplinarische Verfolgung der Urkunds- oder Beglaubigungsperson verjährt zehn Jahre nach dem beanstandeten Vorfall.
 
 <sup>4</sup> Stellt die Verletzung der Berufspflicht eine strafbare Handlung dar, gilt die vom Strafrecht vorgesehene längere Verjährungsfrist.
 
@@ -596,21 +604,25 @@ beschliesst:
 
 #### § 48
 
-**Kopien**
+**Ausfertigungen und Kopien**
 
 <sup>1</sup> Von der öffentlichen Urkunde stellt die Urkundsperson beglaubigte Kopien in der erforderlichen Anzahl her.
 
-<sup>2</sup> Die Urkundsperson kann von einer selbst errichteten öffentlichen Urkunde elektronisch beglaubigte Kopien herstellen.
+<sup>2</sup> Die Urkundsperson kann von öffentlichen Urkunden elektronisch beglaubigte Kopien herstellen.
+
+<sup>3</sup> Die Urkundsperson kann von selbst errichteten öffentlichen Urkunden elektronische Ausfertigungen herstellen.
 
 #### § 49
 
 **Änderungen und Korrekturen**
 
-<sup>1</sup> Inhaltliche Änderungen der Urkunde sind nur während der Beurkundung und nur mit unterschriftlicher Zustimmung aller Urkundsparteien und mit Bescheinigung der Urkundsperson zulässig.
+<sup>1</sup> Inhaltliche Änderungen der Urkunde sind nur während der Beurkundung zulässig.
 
-<sup>2</sup> Auf der Urkunde darf nicht radiert werden.
+<sup>1<sup>bis</sup></sup> Inhaltliche Änderungen nach der Beurkundung sind mittels Nachbeurkundung vorzunehmen.
 
-<sup>3</sup> Der Regierungsrat regelt das Verfahren und das Vorgehen bei Korrekturen formeller Art durch Verordnung.
+<sup>2</sup> …
+
+<sup>3</sup> Der Regierungsrat regelt das Verfahren bei inhaltlichen Änderungen gemäss den Absätzen 1 und 1<sup>bis</sup> sowie bei Korrekturen formeller Art durch Verordnung.
 
 #### § 50
 
@@ -668,6 +680,8 @@ beschliesst:
 
 <sup>3</sup> Sie darf die Urkunde nachträglich verfassen und unterzeichnen beziehungsweise unterzeichnen lassen.
 
+<sup>4</sup> Erfolgt eine virtuelle Generalversammlung, muss sich die Urkundsperson bei der Teilnahme an derselben sowie bei der nachträglichen Unterzeichnung und Beurkundung des Protokolls im Kanton Aargau befinden.
+
 #### § 54
 
 **Gesellschaftsrechtliche Feststellungen**
@@ -680,7 +694,7 @@ beschliesst:
 
 <sup>1</sup> Die Urkundsperson kann Rechtsgeschäfte unter Lebenden auch gemäss den bundesrechtlichen Vorschriften über die öffentliche Beurkundung von Rechtsgeschäften von Todes wegen beurkunden.
 
-<sup>2</sup> Für die Folgen einer mangelhaften Beurkundung gelten die Bestimmungen dieses Gesetzes.
+<sup>2</sup> Die Ausstandsgründe sowie die Folgen einer mangelhaften Beurkundung richten sich nach dem kantonalen Recht.
 
 #### § 56
 
@@ -763,7 +777,7 @@ beschliesst:
 
 <sup>3</sup> Wenn die Urkunds- oder Beglaubigungsperson mit der fremden Sprache nicht genügend vertraut ist oder wenn die Urkundspartei dies wünscht, zieht die Urkunds- oder Beglaubigungsperson eine Übersetzerin oder einen Übersetzer bei.
 
-<sup>4</sup> Die Übersetzerin oder der Übersetzer erklärt unterschriftlich, den ursprünglichen Text nach bestem Wissen und Gewissen übersetzt zu haben. Die Urkunds- oder Beglaubigungsperson bescheinigt die Erklärung und die ihr glaubhaft gemachte fachliche Qualifikation der Übersetzerin oder des Übersetzers.
+<sup>4</sup> Die Übersetzerin oder der Übersetzer erklärt unterschriftlich, dass die Übersetzung richtig ist. Die Urkunds- oder Beglaubigungsperson bescheinigt die Erklärung und die ihr glaubhaft gemachte fachliche Qualifikation der Übersetzerin oder des Übersetzers.
 
 ### 4.5. Ausserordentliche Beurkundungsverfahren
 
@@ -783,9 +797,9 @@ beschliesst:
 
 <sup>1</sup> Ist die Urkundsperson mit einer verwendeten Sprache nicht genügend vertraut oder verlangt es eine Urkundspartei, wird für die Abfassung der Urkunde und für den Beurkundungsakt eine Übersetzerin oder ein Übersetzer beigezogen.
 
-<sup>2</sup> Die Übersetzerin oder der Übersetzer muss bei der Beurkundung anwesend sein. Sie oder er erklärt unterschriftlich auf der Urkunde, deren Inhalt nach bestem Wissen und Gewissen übersetzt zu haben.
+<sup>2</sup> Eine Übersetzerin oder ein Übersetzer muss bei der Beurkundung anwesend sein. Sie oder er erklärt unterschriftlich auf der Urkunde, dass sie oder er alle Äusserungen der Urkundsperson und der Urkundsparteien nach bestem Wissen und Gewissen übersetzt hat und die schriftliche Übersetzung der Urkunde richtig ist.
 
-<sup>3</sup> Die Urkundsperson bescheinigt die ihr glaubhaft gemachte fachliche Qualifikation der Übersetzerin oder des Übersetzers. Sie bescheinigt ferner, dass die Übersetzerin oder der Übersetzer bei der Beurkundung anwesend gewesen ist und dass diese oder dieser erklärt hat, den Inhalt der Urkunde nach bestem Wissen und Gewissen übersetzt zu haben.
+<sup>3</sup> Die Urkundsperson bescheinigt die ihr glaubhaft gemachte fachliche Qualifikation der Übersetzerin oder des Übersetzers. Sie bescheinigt ferner, dass eine Übersetzerin oder ein Übersetzer bei der Beurkundung anwesend gewesen ist und dass diese oder dieser erklärt hat, dass sie oder er alle Äusserungen der Urkundsperson und der Urkundsparteien nach bestem Wissen und Gewissen übersetzt hat und die schriftliche Übersetzung der Urkunde richtig ist.
 
 #### § 65
 
@@ -897,7 +911,7 @@ beschliesst:
 
 **Inspektionen**
 
-<sup>1</sup> Die Notariatskommission kann in den Büroräumlichkeiten der Urkundsperson auf Anzeige hin oder von Amtes wegen jederzeit, auch ohne Voranmeldung, überprüfen die
+<sup>1</sup> Die Notariatskommission kann auf Anzeige hin oder von Amtes wegen jederzeit, auch ohne Voranmeldung, in den Büroräumlichkeiten der Urkundsperson oder gestützt auf die Kopien von einverlangten Unterlagen der Urkundsperson, Folgendes überprüfen:
 
 - a) Geschäftsführung der Urkundsperson,
 - b) Rechnungsstellung,
@@ -938,9 +952,9 @@ beschliesst:
 
 **Zusammensetzung, Wahl und Beschlussfähigkeit**
 
-<sup>1</sup> Die Notariatsprüfungskommission setzt sich aus fünf Mitgliedern und zwei Ersatzmitgliedern zusammen, die fachlich geeignet sind und nicht der Notariatskommission angehören. Mindestens ein Mitglied muss eine Urkundsperson sein. Ein weiteres Mitglied vertritt das zuständige Departement.
+<sup>1</sup> Die Notariatsprüfungskommission setzt sich aus fünf Mitgliedern und fünf Ersatzmitgliedern zusammen, die fachlich geeignet sind und nicht der Notariatskommission angehören. Mindestens ein Mitglied muss eine Urkundsperson sein.
 
-<sup>2</sup> Mitglieder und Ersatzmitglieder werden von der Notariatskommission auf eine Amtsdauer von vier Jahren gewählt. Die Notariatskommission bestimmt das Präsidium und dessen Stellvertretung.
+<sup>2</sup> Mitglieder und Ersatzmitglieder werden von der Notariatskommission auf eine Amtsdauer von vier Jahren gewählt. Die Notariatskommission bestimmt das Präsidium.
 
 <sup>3</sup> Die Notariatsprüfungskommission ist beschlussfähig, wenn fünf Mitglieder oder Ersatzmitglieder anwesend sind.
 
