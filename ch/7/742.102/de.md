@@ -4,20 +4,20 @@ title: Gebührenverordnung vom 25. November 1998 für den öffentlichen Verkehr 
 short: GebV-öV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/116"
 language: de
-version: 2020-07-01
+version: 2025-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/116/20200701/de/xml/fedlex-data-admin-ch-eli-cc-1999-116-20200701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/116/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/116/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1999-116-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/116/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Gebührenverordnung für den öffentlichen Verkehr
 
-(GebV-öV)**[^t-1]**
+(GebV-öV)[^t-1]
 
-vom 25. November 1998 (Stand am 1. Juli 2020)
+vom 25. November 1998 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I 2 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
@@ -76,9 +76,9 @@ Eine Gebühr muss bezahlen, wer eine Dienstleistung oder Verfügung nach Artikel
 
 <sup>2</sup> Behörden der Kantone und der Gemeinden müssen keine Gebühren bezahlen, wenn sie die Dienstleistung für sich selbst in Anspruch nehmen. Sie sind jedoch gebührenpflichtig, wenn sie um eine Konzession oder Bewilligung des Bundes ersuchen oder die Dienstleistung als Inhaber der Konzession oder Bewilligung veranlassen.
 
-<sup>3</sup> ...[^3-2]
+<sup>3</sup> …[^3-2]
 
-<sup>4</sup> ...[^3-3]
+<sup>4</sup> …[^3-3]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 16. März 2001, in Kraft seit 1. April 2001 ([AS 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
 [^3-2]: Aufgehoben durch Ziff. I der V vom 16. März 2001, mit Wirkung seit 1. April 2001 ([AS 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
@@ -86,7 +86,7 @@ Eine Gebühr muss bezahlen, wer eine Dienstleistung oder Verfügung nach Artikel
 
 #### Art. 4
 
-**Gebühren- und Abgabenarten [^4-1]**
+**Gebühren- und Abgabenarten[^4-1]**
 
 In dieser Verordnung gelten als:
 
@@ -97,11 +97,11 @@ In dieser Verordnung gelten als:
 
   - 1\. Plangenehmigungsgebühr: die Gebühr für die Behandlung und die Genehmigung der Pläne und Planänderungen für Bauten und Anlagen, einschliesslich elektrischer Anlagen und Einrichtungen, der konzessionierten Verkehrsunternehmungen sowie für die Typenzulassung der Bauelemente, Anlagen, Fahrzeuge oder deren Teile,
   - 2\. Betriebsbewilligungsgebühr: die Gebühr für die Erprobung, die Abnahme, die Erteilung und die Änderung der Bewilligung zur Eröffnung des Betriebes für Bauten, Anlagen und Fahrzeuge, einschliesslich elektrischer Anlagen und Einrichtungen, der konzessionierten Verkehrsunternehmungen sowie für die Bewilligung zur Inverkehrsetzung umgebauter oder von anderen Unternehmen übernommener Fahrzeuge,
-  - 3\.[^4-3] ...
+  - 3\.[^4-3] …
   - 4\.[^4-4] Gebühr für Fahrzeugkontrollen: die Gebühr für regelmässige technisch-betriebliche Kontrollen und Nachkontrollen sowie für Inspektionen von Fahrzeugen der konzessionierten Automobil- und Trolleybusunternehmungen;
 
 - c.[^4-5] besondere Verwaltungsgebühren: die übrigen Gebühren für Verwaltungsverfahren sowie für die übrigen Dienstleistungen und Verfügungen in Konzessions-, Genehmigungs-, Zustimmungs-, Aufsichts- und anderen Verwaltungssachen, insbesondere für schriftliche Beanstandungen bei Audits und für Abklärungen, Gutachten, Unfalluntersuchungen, umfangreiche Beratungen und Akteneinsicht;
-- d.[^4-6] ...
+- d.[^4-6] …
 - e.[^4-7] Regalabgabe: die Abgabe für das mit der Konzession bzw. Bewilligung erteilte oder erneuerte Recht zur regelmässigen und gewerbsmässigen Personenbeförderung.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 16. März 2001, in Kraft seit 1. April 2001 ([AS 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
@@ -244,7 +244,7 @@ Die Abgabe wird fällig:[^15-1]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 28. Febr. 2007, in Kraft seit 15. März 2007 ([AS 2007 617](https://fedlex.data.admin.ch/eli/oc/2007/129)).
 
-## 2. Abschnitt: Konzessionen, Bewilligungen und Regalabgaben****
+## 2. Abschnitt: Konzessionen, Bewilligungen und Regalabgaben
 
 [^sec2-1]
 
@@ -365,14 +365,14 @@ Keine Regalabgabe wird erhoben bei Erteilung und Erneuerung der Konzession für:
 
 <table>
 <tr><th></th><th>Franken</th></tr>
-<tr><td>a.[^22-3] ...</td><td></td></tr>
+<tr><td>a.[^22-3] …</td><td></td></tr>
 <tr><td>b.[^22-4] die erstmalige Ausstellung des Ausweises</td><td>150</td></tr>
 <tr><td>c. die Änderung oder die Erneuerung des Ausweises</td><td>100</td></tr>
 </table>
 
 <sup>1bis</sup> Für die Genehmigung einer Spezialkategorie wird eine Gebühr nach Zeitaufwand erhoben.[^22-5]
 
-<sup>2</sup> ...[^22-6]
+<sup>2</sup> …[^22-6]
 
 <sup>3</sup> Für die vom BAV organisierte oder in seinem Auftrag durchgeführte Ausbildung der Prüfungsexperten wird ein angemessener Kostenanteil erhoben.
 
@@ -415,7 +415,7 @@ Die Gebühr für die Betriebsbewilligung bemisst sich nach dem Zeitaufwand sowie
 
 <sup>1</sup> Die Gebühr für die Prüfung und die Genehmigung von Pflichtenheften und Typenskizzen bei Fahrzeugen bzw. von Anlagenplänen bei Sicherungsanlagen nach Artikel 18*w* Absatz 2 EBG wird nach Zeitaufwand berechnet, beträgt jedoch mindestens 400 Franken.[^25-2]
 
-<sup>2</sup> ...[^25-3]
+<sup>2</sup> …[^25-3]
 
 <sup>3</sup> Die Gebühr für die Typenzulassung nach Artikel 7 EBV[^25-4] bemisst sich nach dem Zeitaufwand.[^25-5]
 
@@ -528,7 +528,7 @@ Die Gebühr wird nach Zeitaufwand berechnet.
 <tr><td>c. Personentransportanhänger</td><td>100</td></tr>
 </table>
 
-<sup>3</sup> ...[^30-1]
+<sup>3</sup> …[^30-1]
 
 [^30-1]: Aufgehoben durch Ziff. I der V vom 16. März 2001, in Kraft seit 1. April 2001 ([AS 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
 
@@ -636,7 +636,7 @@ Die Gebühr für die Anerkennung von Sachverständigen im Schifffahrtsbereich wi
 
 [^34c-1]: Eingefügt durch Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5197](https://fedlex.data.admin.ch/eli/oc/2017/571)).
 
-## 7. Abschnitt:**** Seilbahnen
+## 7. Abschnitt: Seilbahnen
 
 [^sec7-1]
 
@@ -716,11 +716,9 @@ Die Gebühr für die Anhörung des BAV vor der Bewilligung einer Nebenanlage nac
 
 #### Art. 42
 
-**Rechnungsprüfung**[^42-1]
+[^42-1]
 
-Für die Prüfung und die Genehmigung von Rechnungen und Bilanzen nach Artikel 37 PBG werden Gebühren nach Zeitaufwand erhoben.
-
-[^42-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2011, in Kraft seit 1. Nov. 2011 ([AS 2011 4509](https://fedlex.data.admin.ch/eli/oc/2011/627)).
+[^42-1]: Aufgehoben durch Anhang 4 Ziff. II 1 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, mit Wirkung seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 43
 
@@ -809,13 +807,13 @@ Anhang
 
 ## Aufhebung und Änderung bisherigen Rechts:
 
-### 1. Die Gebührenverordnung BAV vom 1. Juli 1987**** wird aufgehoben.
+### 1. Die Gebührenverordnung BAV vom 1. Juli 1987 wird aufgehoben.
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [[AS 1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052),[1992 573](https://fedlex.data.admin.ch/eli/oc/1992/573_573_573)Art. 25. Abs. 3, **1993** 1375 Art. 7 2599, **1996** 146 Ziff. I 3 470 Art. 55 Abs. 3]
+[^annexu1-lvlu1-lvl1-1]: [[AS 1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052);[1992 573](https://fedlex.data.admin.ch/eli/oc/1992/573_573_573)Art. 25. Abs. 3; **1993** 1375 Art. 7, 2599; **1996** 146 Ziff. I 3, 470 Art. 55 Abs. 3]
 
-### 2.–7. ...****
+### 2.–7. …
 
 [^annexu1-lvlu1-lvl2-1]
 

@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 1998 sugli emolumenti per i trasporti pubblici 
 short: OEm-TP
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/116"
 language: it
-version: 2020-07-01
+version: 2025-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/116/20200701/it/xml/fedlex-data-admin-ch-eli-cc-1999-116-20200701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/116/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/116/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1999-116-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/116/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/116/20200701/it"
 
 (OEm-TP)[^t-1]
 
-del 25 novembre 1998 (Stato 1° luglio 2020)
+del 25 novembre 1998 (Stato 1° gennaio 2025)
 
 [^t-1]: Nuovo testo giusta il n. I 2 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
@@ -653,6 +653,8 @@ L’emolumento per il riconoscimento di periti nel settore della navigazione è 
 
 [^35-1]
 
+<sup>1</sup>
+
 L’UFT riscuote emolumenti calcolati in funzione del tempo impiegato nel settore degli impianti di trasporto a fune per:
 
 - a. le decisioni;
@@ -726,11 +728,9 @@ L’emolumento per l’audizione dell’UFT prima dell’autorizzazione di un im
 
 #### Art. 42
 
-**Verifica dei conti**[^42-1]
+[^42-1]
 
-Per la verifica e l’approvazione dei conti e dei bilanci secondo l’articolo 37 LTV sono riscossi emolumenti in funzione del tempo impiegato.
-
-[^42-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2011, in vigore dal 1° nov. 2011 ([RU 2011 4509](https://fedlex.data.admin.ch/eli/oc/2011/627)).
+[^42-1]: Abrogato dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 43
 

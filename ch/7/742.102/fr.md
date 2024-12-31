@@ -4,20 +4,20 @@ title: Ordonnance du 25 novembre 1998 sur les émoluments pour les transports pu
 short: OEmol-TP
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/116"
 language: fr
-version: 2020-07-01
+version: 2025-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/116/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-1999-116-20200701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/116/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/116/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-116-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/116/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les émoluments pour les transports publics
 
-(OEmol-TP)**[^t-1]**
+(OEmol-TP)[^t-1]
 
-du 25 novembre 1998 (Etat le 1<sup>er</sup> juillet 2020)
+du 25 novembre 1998 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I 2 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
@@ -76,9 +76,9 @@ Est tenu d’acquitter un émolument celui qui sollicite une prestation au sens 
 
 <sup>2</sup> Les autorités des cantons et des communes sont exonérées d’émolument lorsqu’elles sollicitent une prestation en leur faveur. Elles sont néanmoins soumises à émolument lorsqu’elles requièrent une concession ou une autorisation fédérale ou lorsqu’elles donnent lieu à une prestation en qualité de titulaires d’une telle concession ou autorisation.
 
-<sup>3</sup> ...[^3-2]
+<sup>3</sup> …[^3-2]
 
-<sup>4</sup> ...[^3-3]
+<sup>4</sup> …[^3-3]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 16 mars 2001, en vigueur depuis le 1<sup>er</sup> avr. 2001 ([RO 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
 [^3-2]: Abrogé par le ch. I de l’O du 16 mars 2001, avec effet au 1<sup>er</sup> avr. 2001 ([RO 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
@@ -97,11 +97,11 @@ Aux termes de la présente ordonnance sont considérés comme:
 
   - 1\. l’émolument d’approbation de plans: l’émolument pour l’examen et l’approbation de plans et de modifications de plans de constructions et d’installations, y compris les équipements et dispositifs électriques, des entreprises de transport concessionnaires, de même que pour l’homologation d’éléments de construction, d’installations, de véhicules ou de parties de ceux-ci,
   - 2\. l’émolument d’autorisation d’exploiter: l’émolument pour l’essai, la réception, l’octroi et la modification de l’autorisation d’exploiter des constructions, des installations et des véhicules, y compris les équipements et dispositifs électriques, des entreprises de transport concessionnaires; de même que pour l’autorisation d’exploiter des véhicules transformés ou repris d’autres entreprises,
-  - 3\.[^4-4] ...
+  - 3\.[^4-4] …
   - 4\.[^4-5] l’émolument pour les contrôles des véhicules: l’émolument pour les contrôles, contrôles subséquents et inspections, effectués régulièrement, de nature technique ou portant sur l’exploitation des véhicules des entreprises concessionnaires d’automobiles et de trolleybus;
 
 - c.[^4-6] émoluments administratifs particuliers: les autres émoluments pour les procédures administratives ainsi que pour les autres prestations de services et décisions dans le domaine des concessions, de l’approbation, de la surveillance ou d’autres activités administratives, notamment les réclamations écrites faisant suite aux anomalies constatées lors d’audits, les examens, les expertises, les enquêtes sur les accidents, les conseils d’une certaine envergure et la consultation des dossiers;
-- d.[^4-7] ...
+- d.[^4-7] …
 - e.[^4-8] taxe de régale: la taxe pour le droit, octroyé ou renouvelé par une concession ou une autorisation, de transporter des personnes régulièrement et à titre professionnel.
 
 [^4-1]: Nouvelle expression selon le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5197](https://fedlex.data.admin.ch/eli/oc/2017/571)).
@@ -245,7 +245,7 @@ La taxe est échue:[^15-1]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 28 fév. 2007, en vigueur depuis le 15 mars 2007 ([RO 2007 617](https://fedlex.data.admin.ch/eli/oc/2007/129)).
 
-## Section 2 Concessions, autorisations et taxes de régale****
+## Section 2 Concessions, autorisations et taxes de régale
 
 [^sec2-1]
 
@@ -296,7 +296,9 @@ La taxe est échue:[^15-1]
 
 **Taxes de régale**[^19-1]
 
-<sup>1</sup> La taxe de régale est perçue pour l’octroi et le renouvellement d’une concession ou d’une autorisation. Elle s’élève, par année de validité de la concession ou de l’autorisation,
+<sup>1</sup>
+
+La taxe de régale est perçue pour l’octroi et le renouvellement d’une concession ou d’une autorisation. Elle s’élève, par année de validité de la concession ou de l’autorisation:
 
 - a. pour les transports à câbles, à 20 francs pour une capacité de transport de 100 personnes par heure et par direction;
 - b. à un forfait de 500 francs pour le trafic international routier des voyageurs sur de longues distances;
@@ -366,14 +368,14 @@ Aucune taxe de régale n’est perçue pour l’octroi ni pour le renouvellement
 
 <table>
 <tr><th></th><th>Francs</th></tr>
-<tr><td>a.[^22-3] ...</td><td></td></tr>
+<tr><td>a.[^22-3] …</td><td></td></tr>
 <tr><td>b.[^22-4] première délivrance du permis</td><td>150</td></tr>
 <tr><td>c. modification ou renouvellement du permis</td><td>100</td></tr>
 </table>
 
 <sup>1bis</sup> Un émolument fixé en fonction du temps consacré est perçu pour l’admission d’une catégorie spéciale.[^22-5]
 
-<sup>2</sup> ...[^22-6]
+<sup>2</sup> …[^22-6]
 
 <sup>3</sup> Une participation équitable aux frais est demandée pour la formation d’experts d’examen organisée par l’OFT ou à sa demande.
 
@@ -417,7 +419,7 @@ L’émolument d’autorisation d’exploiter est fixé en fonction du temps con
 
 <sup>1</sup> L’émolument d’examen et d’approbation des cahiers des charges, des croquis de véhicules ou des plans des installations de sécurité visés à l’art. 18*w*, al. 2, LCdF est calculé en fonction du temps investi, mais s’élève à 400 francs au moins.[^25-2]
 
-<sup>2</sup> ...[^25-3]
+<sup>2</sup> …[^25-3]
 
 <sup>3</sup> L’émolument pour l’homologation de série visée à l’art. 7 OCF[^25-4] est calculé en fonction du temps consacré.[^25-5]
 
@@ -643,7 +645,7 @@ L’émolument pour la reconnaissance d’experts dans le domaine de la navigati
 
 [^34c-1]: Introduit par le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5197](https://fedlex.data.admin.ch/eli/oc/2017/571)).
 
-## Section 7**** Installations à câbles
+## Section 7 Installations à câbles
 
 [^sec7-1]
 
@@ -723,12 +725,9 @@ L’émolument pour la consultation de l’OFT avant l’autorisation d’une in
 
 #### Art. 42
 
-**Contrôle des comptes**[^42-1]
+[^42-1]
 
-Pour le contrôle et l’approbation des comptes et des bilans selon l’art. 37 LTV[^42-2], les émoluments se calculent en fonction du temps consacré.
-
-[^42-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2011, en vigueur depuis le 1<sup>er</sup> nov. 2011 ([RO 2011 4509](https://fedlex.data.admin.ch/eli/oc/2011/627)).
-[^42-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^42-1]: Abrogé par l’annexe 4 ch. II 1 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 43
 
@@ -747,7 +746,7 @@ Dans les litiges visés à l’art. 40 LCdF, les frais et l’obligation de vers
 
 <sup>2</sup> L’émolument pour la délivrance de l’autorisation d’exploiter et l’émolument pour l’approbation des prescriptions d’exploitation sont tous deux compris entre 300 et 5000 francs.
 
-[^44-1]: Nouvelle teneur selon le ch. II 4 de l’annexe à l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^44-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
 #### Art. 45
 
@@ -818,7 +817,7 @@ Annexe
 
 ## Abrogation et modification du droit en vigueur
 
-### 1. L’ordonnance du 1<sup>er</sup> juillet 1987 sur les émoluments de l’OFT**** est abrogée.
+### 1. L’ordonnance du 1<sup>er</sup> juillet 1987 sur les émoluments de l’OFT est abrogée.
 
 [^annexu1-lvlu1-lvl1-1]
 
@@ -826,6 +825,6 @@ Annexe
 
 ### 2. à 7.
 
-...[^annexu1-lvlu1-lvl2-1]
+…[^annexu1-lvlu1-lvl2-1]
 
 [^annexu1-lvlu1-lvl2-1]: Les mod. peuvent être consultées au [RO 1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116).
