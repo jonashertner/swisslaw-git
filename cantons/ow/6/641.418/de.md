@@ -3,20 +3,19 @@ canton: OW
 number: "641.418"
 title: Ausführungsbestimmungen über die Errichtung des steuerlichen Nachlassinventars
 language: de
-version: 2001-01-01
-valid_until: 2024-12-31
-version_adopted: 2001-03-20
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 1995-06-06
 in_force: 1995-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.418"
-pdf: "http://gdb.ow.ch/api/de/versions/729/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1912/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Errichtung des steuerlichen Nachlassinventars
 
-vom 06.06.1995 (Stand 01.01.2001)
+vom 06.06.1995 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -34,9 +33,9 @@ beschliesst:
 
 **Inventarbehörde**
 
-<sup>1</sup> Zuständige Behörde für die Inventaraufnahme und die Siegelung ist die kantonale Steuerverwaltung.
+<sup>1</sup> Zuständige Behörde für die Inventaraufnahme und die Siegelung ist die Steuerverwaltung.
 
-<sup>2</sup> Innerhalb der kantonalen Steuerverwaltung nimmt die Abteilung Sondersteuern die Aufgabe wahr.
+<sup>2</sup> …
 
 #### Art. 2
 
@@ -48,13 +47,13 @@ beschliesst:
 
 **Meldung von Zivilstandsamt und Gemeindekanzlei**
 
-<sup>1</sup> Das Zivilstandsamt des letzten steuerrechtlichen Wohnsitzes oder Aufenthalts meldet jeden Todesfall, die Gemeindekanzlei jede Testamentseröffnung mit Abschrift des Testaments der kantonalen Steuerverwaltung innerhalb von acht Tagen.
+<sup>1</sup> Das Zivilstandsamt des letzten steuerrechtlichen Wohnsitzes oder Aufenthalts meldet jeden Todesfall, die Gemeindekanzlei jede Testamentseröffnung mit Abschrift des Testaments der Steuerverwaltung innerhalb von acht Tagen.
 
 #### Art. 4
 
 **Anwendbares Recht**
 
-<sup>1</sup> Die Verordnung über die Errichtung des Nachlassinventars für die direkte Bundessteuer[^4-1] ist auch auf die Inventaraufnahme und die Siegelung nach kantonalem Steuerrecht sachgemäss anwendbar.
+<sup>1</sup> Die Verordnung über die Errichtung des Nachlassinventars für die direkte Bundessteuer[^4-1] ist auch auf die Inventaraufnahme und die Siegelung nach kantonalem Steuerrecht sinngemäss anwendbar.
 
 [^4-1]: SR [642.113](https://db.clex.ch/link/Bund/642.113/de)
 
@@ -78,6 +77,8 @@ Ursprüngliche Fundstelle: OGS 1995, 83
 
 geändert durch
 
-\- Nachtrag vom 20. März 2001, in Kraft rückwirkend seit 1. Januar 2001 (OGS 2001, 31)
+\- Nachtrag vom 20. März 2001, in Kraft rückwirkend seit 1. Januar 2001 (OGS 2001, 31),
+
+\- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38)
 
 OGS 1995, 83
