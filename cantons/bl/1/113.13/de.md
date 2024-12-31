@@ -3,20 +3,19 @@ canton: BL
 number: "113.13"
 title: Verordnung betreffend die Regelung des Kleingrenzverkehrs zwischen der Bundesrepublik Deutschland und dem Kanton Basel-Landschaft
 language: de
-version: 2019-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-06-05
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 1998-10-13
 in_force: 1998-11-01
 url: "https://bl.clex.ch/app/de/texts_of_law/113.13"
-pdf: "https://bl.clex.ch/api/de/versions/2242/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4116/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend die Regelung des Kleingrenzverkehrs zwischen der Bundesrepublik Deutschland und dem Kanton Basel-Landschaft
 
-Vom 13.10.1998 (Stand 01.01.2019)
+Vom 13.10.1998 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -52,7 +51,7 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Das Amt für Migration und Bürgerrecht und die Leitung der Polizei Basel-Landschaft erheben folgende Gebühren:
+<sup>1</sup> Das Amt für Migration, Integration und Bürgerrecht und die Leitung der Polizei Basel-Landschaft erheben folgende Gebühren:
 
 - a. für das Ausstellen einer Grenzkarte — CHF 65;
 - b. für das Verlängern einer Grenzkarte — CHF 65;
