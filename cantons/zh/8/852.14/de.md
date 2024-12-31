@@ -4,10 +4,10 @@ number: "852.14"
 title: Verordnung über die Tagesfamilien und Kindertagesstätten (V TaK)
 short: V TaK
 language: de
-nachtrag: "110"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2020-05-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_14-2020_05_27-2020_08_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_14-2020_05_27-2020_08_01-127.html"
 text: pdf
 ---
 
@@ -29,7 +29,7 @@ beschliesst:
 
 ### A. Allgemeines
 
-[^hAAllgemeines-1]: SR 211.222.338. 1.10. 20 - 110 5
+[^hAAllgemeines-1]: SR 211.222.338.
 
 #### § 1
 
@@ -55,21 +55,25 @@ Die regelmässige Betreuung eines Kindes in einer Tagesfamilie oder Kita darf 60
 
 <sup>3</sup> Die Meldung ist innerhalb dreier Monate seit Aufnahme der meldepflichtigen Tätigkeit zu machen.
 
-#### § 4
-
 **Persönliche Eignung**
 
-<sup>1</sup> Die betreuenden Personen reichen mit der Meldung und danach mindestens alle vier Jahre folgende Auszüge aus dem Strafregister ein:
+§ 4.[^3-1] <sup>1</sup> Die betreuenden Personen reichen mit der Meldung und danach alle zwei Jahre folgende Auszüge aus dem Strafregister ein:
 
-- a. für sich und ihre volljährigen Hausgenossinnen und Hausgenossen je einen aktuellen Privat- und Sonderprivatauszug,
+- a. für ihre volljährigen Hausgenossinnen und Hausgenossen einen aktuellen Privatauszug und soweit möglich einen aktuellen Sonderprivatauszug,
 
 - b. für Minderjährige, die in ihrem Haushalt angestellt sind, einen aktuellen Sonderprivatauszug.
 
 **1**
 
-1.10. 20 - 110
+- 1\. 1. 25 - 127
 
 <sup>2</sup> Kommt eine neue Hausgenossin oder ein neuer Hausgenosse hinzu, sind die Auszüge gemäss Abs. 1 innerhalb dreier Monate einzureichen.
+
+<sup>3</sup> Die Gemeinde kann von den betreuenden Personen für diese und deren Hausgenossinnen und Hausgenossen einen aktuellen Strafregisterauszug aus dem Heimat- oder Herkunftsstaat oder andere für die Prüfung der persönlichen Eignung geeignete Dokumente verlangen.
+
+<sup>4</sup> Sie kann von den betreuenden Personen eine Übersetzung dieser Dokumente ins Deutsche verlangen.
+
+[^3-1]: Fassung gemäss RRB vom 18. September 2024 (OS 79, 439; ABl 2024-10-04). In Kraft seit 1. Januar 2025.
 
 ### C. Kindertagesstätten
 
@@ -141,29 +145,27 @@ Die Trägerschaft bestätigt, dass für die pädagogische und personelle Leitung
 
 <sup>3</sup> Ausländische Ausbildungen müssen von der zuständigen eidgenössischen oder kantonalen Stelle als gleichwertig anerkannt sein. Die im Anhang genannten ausländischen Abschlüsse gelten ohne solche Anerkennung als gleichwertig.
 
-#### § 10
+**3**
+
+- 1\. 1. 25 - 127 § 10. <sup>1</sup> Die Trägerschaft bestätigt, dass als Kitaleitung gemäss § 8 tätige Personen die Anforderungen gemäss § 9 Abs. 1 und 3 erfüllen und
 
 **b. Kitaleitung**
 
-<sup>1</sup> Die Trägerschaft bestätigt, dass als Kitaleitung gemäss § 8 tätige Personen die Anforderungen gemäss § 9 Abs. 1 und 3 erfüllen und a. über ausreichendes Fachwissen in Personalführung verfügen oder b. über wenigstens einjährige Erfahrung in der Personalführung verfügen und sich in einer Aus- oder Weiterbildung gemäss Abs. 2 befinden.
+- a. über ausreichendes Fachwissen in Personalführung verfügen oder
+
+- b. über wenigstens einjährige Erfahrung in der Personalführung verfügen und sich in einer Aus- oder Weiterbildung gemäss Abs. 2 befinden.
 
 <sup>2</sup> Fachwissen in Personalführung ist ausreichend, wenn es im Rahmen einer abgeschlossenen Aus- oder Weiterbildung im Umfang von mindestens 140 Anwesenheitsstunden erworben wurde.
 
-**3**
-
-1.10. 20 - 110
-
 <sup>3</sup> Die Bestätigung für eine Aus- oder Weiterbildung im Sinne von Abs. 2 kann durch einen Nachweis, dass als Kitaleitung tätige Personen aufgrund langjähriger Führungserfahrung über das erforderliche Fachwissen in Personalführung verfügen, ersetzt werden.
-
-#### § 11
 
 **Persönliche Eignung**
 
-Mit dem Bewilligungsgesuch bestätigt die Trägerschaft, dass sie für alle in der Kita tätigen Personen, bevor diese ihre Tätigkeit aufnehmen, und anschliessend mindestens alle vier Jahre die folgenden Auszüge aus dem Strafregister überprüft:
+§ 11.[^9-1] <sup>1</sup> Die Gemeinde kann von der Trägerschaft für die Leiterin oder den Leiter sowie für die Mitarbeitenden einen aktuellen Strafregisterauszug aus dem Heimat- oder Herkunftsstaat oder andere für die Prüfung der persönlichen Eignung geeignete Dokumente verlangen.
 
-- a. aktueller Privatauszug und Sonderprivatauszug bei volljährigen Mitarbeitenden,
+<sup>2</sup> Sie kann von der Trägerschaft eine Übersetzung dieser Dokumente ins Deutsche verlangen.
 
-- b. aktueller Sonderprivatauszug bei minderjährigen Mitarbeitenden.
+[^9-1]: Fassung gemäss RRB vom 18. September 2024 (OS 79, 439; ABl 2024-10-04). In Kraft seit 1. Januar 2025.
 
 #### § 12
 
@@ -173,9 +175,11 @@ Mit dem Bewilligungsgesuch bestätigt die Trägerschaft, dass sie für alle in d
 
 - b. den Bau- und Brandschutzvorschriften entsprechen.
 
-<sup>2</sup> Zudem weist die Trägerschaft nach, dass die Kita beim zuständigen Lebensmittelinspektorat gemeldet ist.
+<sup>2</sup> Zudem weist die Trägerschaft nach, dass die Kita beim zuständigen Lebensmittelinspektorat und bei der kantonalen Fachstelle für Radon gemeldet ist.[^12-1]
 
 <sup>3</sup> Die Gemeinde nimmt einen Augenschein vor.
+
+[^12-1]: Fassung gemäss RRB vom 18. September 2024 (OS 79, 439; ABl 2024-10-04). In Kraft seit 1. Januar 2025.
 
 #### § 13
 
@@ -225,6 +229,16 @@ Private Trägerschaften weisen mit dem Bewilligungsgesuch nach, dass sie für di
 
 - b. Kostenrechnung für die Kita.
 
+**5**
+
+- 1\. 1. 25 - 127
+
+### Übergangsbestimmung zur Änderung vom 18. September 2024
+
+(OS 79, 439)
+
+Die Trägerschaften von Kitas, die bei Inkrafttreten dieser Änderung über eine Bewilligung verfügen, müssen die Kitas innerhalb eines Jahres gemäss § 12 Abs. 2 bei der kantonalen Fachstelle für Radon melden.
+
 ### Anhang
 
 - 1\. Inländische Abschlüsse gemäss § 9 Abs. 1
@@ -246,3 +260,7 @@ Private Trägerschaften weisen mit dem Bewilligungsgesuch nach, dass sie für di
 - h. ein von der Bewilligungsbehörde als gleichwertig mit lit. a–g anerkannter Abschluss einer Ausbildung, die nicht mehr angeboten wird.
 
 - 2\. Ausländischer Abschluss gemäss § 9 Abs. 3 Staatlich anerkannte Erzieherin bzw. staatlich anerkannter Erzieher (Deutschland).
+
+**7**
+
+- 1\. 1. 25 - 127
