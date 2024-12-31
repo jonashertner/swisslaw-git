@@ -3,11 +3,10 @@ canton: ZH
 number: "181.405"
 title: Richtlinien zur Freiwilligenarbeit
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2013-11-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_405-2013_11_06-2014_04_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_405-2013_11_06-2014_04_01-127.html"
 text: pdf
 ---
 
@@ -68,7 +67,7 @@ Diese Richtlinien gelten sinngemäss für Pfarrämter in Institutionen sowie ges
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 25 - 127
 
 - c. den Freiwilligen den nötigen Raum für die Mitgestaltung gewähren,
 
@@ -161,7 +160,7 @@ Die Kirchgemeinden weisen den Freiwilligen auf Wunsch die geleistete Freiwillige
 
 <sup>2</sup> Der Kirchenrat kann die Leitfäden betreffend die Freiwilligenarbeit und weitere Regelungen als verbindlich erklären.
 
-[^12-1]: Fassung gemäss B vom 25. August 2021 (OS 76, 469; ABl 2021-09-03). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 5
+[^12-1]: Fassung gemäss B vom 25. August 2021 (OS 76, 469; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
 
 ### C. Rechte und Pflichten der Freiwilligen
 
@@ -176,7 +175,7 @@ Der Schutz der Persönlichkeit der Freiwilligen richtet sich nach § 75 der Pers
 
 **3**
 
-- 1\. 1. 22 - 115 § 15. Der Ersatz von Sachschäden, die Freiwillige im Zusammenhang mit der Freiwilligenarbeit erleiden, richtet sich nach §§ 78 und 79 der Vollzugsverordnung zur Personalverordnung[^14-1]. Diese Bestimmungen sind sinngemäss anwendbar.
+- 1\. 1. 25 - 127 § 15. Der Ersatz von Sachschäden, die Freiwillige im Zusammenhang mit der Freiwilligenarbeit erleiden, richtet sich nach §§ 78 und 79 der Vollzugsverordnung zur Personalverordnung[^14-1]. Diese Bestimmungen sind sinngemäss anwendbar.
 
 [^14-1]: LS 181.401.
 [^14-2]: LS 181.40.
@@ -217,7 +216,7 @@ Der Schutz von Freiwilligen vor ungerechtfertigten Angriffen richtet sich nach �
 
 <sup>3</sup> Der Kirchenrat trägt die Kosten einer von ihm als verbindlich erklärten Weiterbildung. Die Kirchgemeinde trägt gemäss § 17 die im Zusammenhang mit einer Weiterbildung anfallenden Auslagen sowie die Kosten für Weiterbildungen, welche die Freiwilligen gemäss Abs. 2 auf Anweisung der Kirchenpflege oder mit Bewilligung der Ansprechperson gemäss § 6 Abs. 1 besuchen.
 
-[^18-1]: Fassung gemäss B vom 25. August 2021 (OS 76, 469; ABl 2021-09-03). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 5
+[^18-1]: Fassung gemäss B vom 25. August 2021 (OS 76, 469; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
 [^18-2]: Fassung gemäss B vom 20. September 2017 (OS 72, 617; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
 [^18-3]: LS 181.10.
 
@@ -229,17 +228,10 @@ Die Freiwilligen unterstehen hinsichtlich ihrer Tätigkeit der Schweigepflicht g
 
 **d. Privatauszug und Sonderprivatauszug**
 
-§ 20 a.[^20-1] <sup>1</sup> Volljährige Freiwillige, die regelmässig mit Minderjährigen oder anderen besonders schutzbedürftigen Personen tätig sind, reichen dem personalverantwortlichen Mitglied der Kirchenpflege oder der von der Kirchenpflege bezeichneten Person vor Aufnahme ihrer Tätigkeit und jeweils auf Beginn der Amtsdauer der Pfarrerinnen und Pfarrer einen Privatauszug und einen Sonderprivatauszug aus dem Strafregister ein.
+§ 20 a.[^20-1] Die Kirchgemeinde trägt die Kosten des Privatauszugs und des Sonderprivatauszugs, den Freiwillige gemäss § 87 b der Personalverordnung[^20-2] einzureichen haben.
 
-<sup>2</sup> Der Privatauszug und der Sonderprivatauszug gemäss Abs. 1 dürfen nicht älter als ein Jahr sein.
-
-<sup>3</sup> Die Verpflichtung gemäss Abs. 1 entfällt, wenn sich beim personalverantwortlichen Mitglied der Kirchenpflege oder bei der von der Kirchenpflege bezeichneten Person ein Privatauszug und ein Sonderprivatauszug finden, die nicht älter als zwei Jahre sind.
-
-<sup>4</sup> Die Kirchenpflege kann Freiwillige in begründeten Fällen jederzeit verpflichten, einen aktuellen Privat- und Sonderprivatauszug einzureichen.
-
-<sup>5</sup> Die Kirchgemeinde trägt die Kosten des Privatauszugs und des Sonderprivatauszugs, den Freiwillige gemäss Abs. 1 und 4 einzureichen haben.
-
-[^20-1]: Eingefügt durch B vom 25. August 2021 (OS 76, 469; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
+[^20-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 391; ABl 2024-06-28). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 5
+[^20-2]: LS 181.40.
 
 ### D. Schlussbestimmung
 
@@ -248,3 +240,7 @@ Die Freiwilligen unterstehen hinsichtlich ihrer Tätigkeit der Schweigepflicht g
 **Inkrafttreten**
 
 Diese Richtlinien treten am 1. April 2014 in Kraft.
+
+## Weitere Fussnoten
+
+- [7] Eingefügt durch B vom 25. August 2021 (OS 76, 469; ABl 2021-09-03). In Kraft seit 1. Januar 2022.
