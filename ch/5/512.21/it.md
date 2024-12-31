@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 concernente l'obbligo di prestare servizi
 short: OOPSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20250101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20240101/it"
 
 (OOPSM)
 
-del 22 novembre 2017 (Stato 1° gennaio 2024)
+del 22 novembre 2017 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ vista la legge militare del 3 febbraio 1995[^ingress-1] (LM); vista la legge fed
 
 ordina:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^ingress-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## **Capitolo 1:** **Scopo**
@@ -140,12 +140,12 @@ I richiedenti sono attribuiti o assegnati se:
 <sup>5</sup> Le condizioni per le persone che intendono prestare un servizio nel Servizio della Croce Rossa sono rette dall’ordinanza del 29 settembre 2006[^4-7] sul Servizio della Croce Rossa.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^4-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^4-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^4-3]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^4-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^4-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^4-6]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^4-7]: [RS 513.52](https://fedlex.data.admin.ch/eli/cc/2006/620)
+[^4-7]: [RS 513.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7477)
 
 #### Art. 5
 
@@ -340,7 +340,7 @@ Alla manifestazione informativa sono raccolti i dati relativi alle persone sogge
 [^11-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^11-3]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^11-4]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^11-5]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^11-5]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 12
 
@@ -392,8 +392,8 @@ Per l’accertamento del profilo attitudinale le persone soggette all’obbligo 
 
 <sup>2</sup> L’apprezzamento dello stato di salute e della psiche è retto dall’ordinanza del 24 novembre 2004[^14-1] concernente l’apprezzamento medico dell’idoneità al servizio militare e dell’idoneità a prestare servizio militare e dall’ordinanza dell’11 novembre 2020[^14-2] sulla protezione civile.[^14-3]
 
-[^14-1]: [RS 511.12](https://fedlex.data.admin.ch/eli/cc/2004/748)
-[^14-2]: [RS 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
+[^14-1]: [RS 511.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7387)
+[^14-2]: [RS 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
 [^14-3]: Nuovo testo giusta l’all. 6 n. II 1 dell’O dell’11 nov. 2020 sulla protezione civile, in vigore dal 1° gen. 2021 ([RU 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
 
 #### Art. 15
@@ -442,7 +442,7 @@ Una persona idonea al servizio militare è attribuita provvisoriamente a una fun
 [^16-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^16-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^16-3]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^16-4]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^16-4]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 17
 
@@ -527,7 +527,7 @@ Su domanda congiunta della persona interessata e del comando competente, gli uff
 [^21-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-3]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^21-4]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^21-4]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 ### Sezione 6: Servizio militare non armato
 
@@ -676,7 +676,7 @@ Sono considerati personale indispensabile per garantire il funzionamento di tali
 - c.[^28-2] il personale di cura in possesso di un attestato federale di capacità;
 - d. gli specialisti medico-terapeuti e medico-tecnici con formazione universitaria e in possesso di un diploma professionale rilasciato o riconosciuto dall’istituto di formazione cantonale.
 
-[^28-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^28-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^28-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 29
@@ -694,7 +694,7 @@ Sono considerati membri dei servizi di salvataggio, dei servizi di polizia, dei 
 - c. gli impiegati dei corpi di pompieri professionisti e delle basi di pompieri nonché le persone che esercitano la funzione di comandante dei pompieri, di sostituto del comandante dei pompieri, di ufficiale dei pompieri, di operatore di apparecchi, di capo delle divisioni speciali, di portatore di apparecchi per la protezione della respirazione, di custode di apparecchi per la protezione della respirazione, di specialista della difesa C e di specialista della difesa contro le radiazioni dei corpi di pompieri e dei servizi di difesa riconosciuti dallo Stato.
 
 [^29-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^29-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^29-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^29-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 30
@@ -717,7 +717,7 @@ In situazioni straordinarie sono indispensabili alla Rete integrata Svizzera per
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^30-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^30-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^30-3]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 31
 
@@ -744,7 +744,7 @@ Sono considerati personale indispensabile di tali servizi gli impiegati:
 <sup>3</sup> Il DDPS designa le persone d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni e con Skyguide.
 
 [^31-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^31-2]: [RS 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
+[^31-2]: [RS 748.132.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9078)
 
 ### Sezione 8: Non reclutamento, esclusione dall’esercito, degradazione, riammissione e cambiamento di funzione
 
@@ -820,7 +820,7 @@ Se è stata pronunciata una sentenza penale per un crimine o un delitto, il cons
   - 1\. una pena pecuniaria di oltre 60 aliquote giornaliere, senza la condizionale,
   - 2\. una pena pecuniaria con la condizionale parziale, con una parte da eseguire di oltre 60 aliquote giornaliere,
   - 3\. una pena detentiva senza condizionale o con la condizionale parziale,
-  - [tab] 4. e 5.[^35-2] ...
+  - [tab] 4. e 5.[^35-2] …
   - 6\. una misura privativa della libertà.
 
 <sup>2</sup>
@@ -895,8 +895,8 @@ Sono competenti per il cambiamento di funzione:
 
 L’obbligo di custodire al sicuro e di mantenere in buono stato l’equipaggiamento personale è retto dal Regolamento di servizio dell’esercito svizzero del 22 giugno 1994[^40-1] e dall’ordinanza del 5 dicembre 2003[^40-2] sull’equipaggiamento personale dei militari.
 
-[^40-1]: [RS 510.107.0](https://fedlex.data.admin.ch/eli/cc/1995/170_170_170)
-[^40-2]: [[RU 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)all. 7 n. II 5. [RU 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)art. 37 n. 1]. Vedi ora l’O del 21 nov. 2018 ([RS 514.10](https://fedlex.data.admin.ch/eli/cc/2018/732)).
+[^40-1]: [RS 510.107.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7253)
+[^40-2]: [[RU 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)all. 7 n. II 5. [RU 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)art. 37 n. 1]. Vedi ora l’O del 21 nov. 2018 ([RS 514.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7492)).
 
 #### Art. 41
 
@@ -938,7 +938,7 @@ L’obbligo di custodire al sicuro e di mantenere in buono stato l’equipaggiam
 
 <sup>5</sup> Per il personale dell’Aggruppamento Difesa in servizio comandato all’estero per oltre 12 mesi, l’ordine per il servizio comandato equivale all’autorizzazione di un congedo per l’estero rilasciata d’ufficio.
 
-[^43-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^43-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 44
 
@@ -962,7 +962,7 @@ Il congedo per l’estero non è autorizzato se:
 
 <sup>4</sup> Se viene meno una delle condizioni del congedo per l’estero autorizzato, l’autorizzazione per tale congedo decade.
 
-[^44-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^44-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 45
 
@@ -972,7 +972,7 @@ Il congedo per l’estero non è autorizzato se:
 
 Il tiro obbligatorio è retto dall’ordinanza del 5 dicembre 2003[^45-1] sul tiro fuori del servizio.
 
-[^45-1]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^45-1]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
 #### Art. 45a
 
@@ -984,8 +984,8 @@ Il tiro obbligatorio è retto dall’ordinanza del 5 dicembre 2003[^45-1] sul ti
 
 Le convocazioni ufficiali sono rilasciate:
 
-- a. dal Cdo Istr per audizioni personali nel caso di controlli di sicurezza relativi alle persone concernenti le persone soggette all’obbligo di leva e i militari;
-- b. dal Servizio medico militare per visite mediche nel caso di un nuovo esame dell’idoneità al servizio.
+- dal Cdo Istr per audizioni personali nel caso di controlli di sicurezza relativi alle persone concernenti le persone soggette all’obbligo di leva e i militari;
+- dal Servizio medico militare per visite mediche nel caso di un nuovo esame dell’idoneità al servizio.
 
 <sup>2</sup> Le convocazioni ufficiali non danno diritto al soldo e non vengono computate sul totale obbligatorio di giorni di servizio d’istruzione.
 
@@ -1060,7 +1060,7 @@ Il numero complessivo di giorni di servizio d’istruzione computabili da presta
   - 5\.[^47-11] come dentisti: 538 giorni, senza carriera normale di medici militari: 658 giorni,
   - 6\.[^47-12] come veterinari o ispettori delle derrate alimentari: 536 giorni, senza carriera normale di veterinari: 656 giorni.
 
-<sup>2</sup> ...[^47-13]
+<sup>2</sup> …[^47-13]
 
 <sup>3</sup>
 
@@ -1240,7 +1240,7 @@ Ai militari che prestano servizio di promovimento della pace è computato sul to
 
 Presentando domanda al Cdo Istr, i militari possono essere chiamati a prestare servizi d’istruzione volontari dei quadri per conseguire un grado di sottufficiale, di sottufficiale superiore, di ufficiale subalterno o il grado di capitano se:[^54-1]
 
-- [tab] a. e b.[^54-2] ...
+- a. e b.[^54-2] …
 - c. in base ai giorni di servizio d’istruzione già prestati non potrebbero più prestare quattro corsi di ripetizione nella nuova funzione da esercitare; e
 - d. il loro datore di lavoro o l’ufficio regionale di collocamento competente ha dato il suo consenso scritto.
 
@@ -1278,7 +1278,7 @@ La domanda è autorizzata se:
 
 <sup>4</sup> I militari possono prestare annualmente 38 giorni di servizio d’istruzione volontario al massimo.
 
-[^55-1]: [RS 512.38](https://fedlex.data.admin.ch/eli/cc/2003/584)
+[^55-1]: [RS 512.38](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7440)
 [^55-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^55-3]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
@@ -1386,7 +1386,7 @@ I militari possono essere chiamati a prestare i seguenti servizi al di fuori del
 - h. corso d’introduzione, corso per specialisti e corso di base: al massimo 19 giorni.
 
 [^60-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^60-2]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^60-2]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 #### Art. 61
 
@@ -1663,7 +1663,7 @@ Per l’incorporazione in una determinata funzione o la promozione a un grado su
 <sup>3</sup> Per l’incorporazione in una determinata funzione o la promozione a un grado superiore occorre tenere conto, per quanto possibile, delle conoscenze acquisite dai militari nella vita civile e nell’esercito.
 
 [^72-1]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^72-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^72-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 73
 
@@ -1796,7 +1796,7 @@ Soldati, appuntati, sottufficiali e sottufficiali superiori possono essere nomin
 <sup>5</sup> Il comandante competente per l’occupazione di una funzione di ufficiale presenta al Cdo Istr la domanda per la nomina a ufficiale specialista unitamente al militare interessato. Il Cdo Istr decide in merito alle domande e procede, se del caso, alla nomina a ufficiale specialista.
 
 [^80-1]: Nuovo testo giusta l’all. 8 n. II 6 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^80-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^80-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 [^80-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 81
@@ -2033,8 +2033,8 @@ Sono eccettuati:
 - a. i militari esclusi dal servizio militare o dall’esercito in virtù della LM o del Codice penale militare del 13 giugno 1927[^95-1];
 - b. i militari di professione il cui rapporto di lavoro presso il DDPS è stato disdetto per propria colpa in virtù dell’articolo 10 capoverso 3 o 4 della legge del 24 marzo 2000[^95-2] sul personale federale.
 
-[^95-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^95-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^95-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^95-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Capitolo 7: Competenze della Confederazione e dei Cantoni
 
@@ -2252,7 +2252,10 @@ Può ordinare:
 - a. la riduzione o il prolungamento della durata di servizi d’istruzione in casi di forza maggiore;
 - b. in singoli casi, servizi della medesima durata o di durata inferiore se vi sono particolari esigenze d’istruzione.
 
-<sup>3</sup> L’Aggruppamento Difesa può concludere autonomamente, d’intesa con il DDPS, trattati internazionali per l’attuazione di accordi quadro vigenti nell’ambito della cooperazione internazionale in materia d’istruzione militare secondo l’articolo 48*a* LM.
+<sup>3</sup> Per l’attuazione di accordi quadro vigenti nell’ambito della cooperazione internazionale in materia d’istruzione militare secondo l’articolo 48*a* LM, l’Aggruppamento Difesa può concludere autonomamente, d’intesa con la Segreteria di Stato della politica di sicurezza (SEPOS), trattati internazionali di portata limitata ai sensi dell’articolo 7*a* capoverso 2 della legge del 21 marzo 1997[^106-1] sull’organizzazione del Governo e dell’Amministrazione.[^106-2]
+
+[^106-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^106-2]: Nuovo testo giusta l’art. 17 n. 1 dell’O del 13 nov. 2024 sulla cooperazione militare internazionale , in vigore dal 1° gen. 2024 ([RU 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
 
 ### Sezione 2: Abrogazione e modifica di altri atti normativi
 
@@ -2287,7 +2290,7 @@ I seguenti militari promossi al loro grado attuale prima del 1° gennaio 2018 de
 - b. i caporali: 260 giorni;
 - c. i sergenti: 400 giorni;
 - d.[^109-4] i sergenti granatieri: 425 giorni;
-- [tab] d<sup>bis</sup>.[^109-5]i sergenti esploratori paracadutisti: 865 giorni;
+- d<sup>bis</sup>.[^109-5] i sergenti esploratori paracadutisti: 865 giorni;
 - e. i sergenti capi: 430 giorni;
 - e<sup>bis</sup>.[^109-6] i sergenti capi esploratori paracadutisti: 865 giorni;
 - f. i sergenti maggiori: 450 giorni;
@@ -2589,7 +2592,7 @@ Allegato 3[^t-3]
 </table>
 
 <table>
-<tr><td>Legenda 1 Le condizioni per l’assegnazione della proposta non si applicano al personale militare \* Promozione durante il servizio d’istruzione, dal punto di vista amministrativo per il primo giorno successivo al compimento del servizio d’istruzione \*\* Promozione trimestrale per il giorno 01.01/01.04/01.07/01.10 con incorporazione nella funzione [tab] I ten Primotenente Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore Aiut suff Aiutante sottufficiale App Appuntato</td><td>Cap Capitano Cdt SIQ Comandante del servizio d’istruzione dei quadri Cdt U Comandante d’unità sotto i cui ordini prestano servizio i militari Cdt U SIB Comandante d’unità nel servizio d’istruzione di base CEs Capo dell’esercito CR Corso di ripetizione Fur Furiere ISI Istruzione specifica all’impiego Magg Maggiore MFC Militare in ferma continuata Recl Recluta</td><td>S prom pace Servizio di promovimento della pace Sdt Soldato Sgt ergente Sgt capo Sergente capo Sgtm Sergente maggiore Sgtm capo Sergente maggiore capo SIF Servizi d’istruzione delle formazioni SIF MFC Servizi d’istruzione delle formazioni per militari in ferma continuata (giorni di servizio rimanenti senza interruzione) SMG di stato maggiore generale Suff Sottufficiale Suff sup Sottufficiale superiore Ten Tenente Ten col Tenente colonnello</td></tr>
+<tr><td>Legenda 1 Le condizioni per l’assegnazione della proposta non si applicano al personale militare \* Promozione durante il servizio d’istruzione, dal punto di vista amministrativo per il primo giorno successivo al compimento del servizio d’istruzione \*\* Promozione trimestrale per il giorno 01.01/01.04/01.07/01.10 con incorporazione nella funzione I ten Primotenente Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore Aiut suff Aiutante sottufficiale App Appuntato</td><td>Cap Capitano Cdt SIQ Comandante del servizio d’istruzione dei quadri Cdt U Comandante d’unità sotto i cui ordini prestano servizio i militari Cdt U SIB Comandante d’unità nel servizio d’istruzione di base CEs Capo dell’esercito CR Corso di ripetizione Fur Furiere ISI Istruzione specifica all’impiego Magg Maggiore MFC Militare in ferma continuata Recl Recluta</td><td>S prom pace Servizio di promovimento della pace Sdt Soldato Sgt ergente Sgt capo Sergente capo Sgtm Sergente maggiore Sgtm capo Sergente maggiore capo SIF Servizi d’istruzione delle formazioni SIF MFC Servizi d’istruzione delle formazioni per militari in ferma continuata (giorni di servizio rimanenti senza interruzione) SMG di stato maggiore generale Suff Sottufficiale Suff sup Sottufficiale superiore Ten Tenente Ten col Tenente colonnello</td></tr>
 </table>
 
 Allegato 4[^t-4]
@@ -2732,7 +2735,7 @@ Allegato 4[^t-4]
 </table>
 
 <table>
-<tr><td>Legenda X Corsi di formazione professionale nel quadro del rapporto d’assunzione senza computabilità sul totale obbligatorio di giorni di servizio d’istruzione. \* Nella funzione di milizia il grado di un sottufficiale di professione può superare al massimo di un grado il suo grado nella funzione professionale. [tab] I ten Primotenente AIME Autorizzazione per l’impiego di munizioni esplosive Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore Aiut suff Aiutante sottufficiale App Appuntato App capo Appuntato capo BACI Battle Area Clearance Cap Capitano Cfo base SSPE Corso di formazione di base della Scuola per sottufficiali di professione dell’esercito Cfo avanz Corso di formazione per l’avanzamento CMD Conventional Munitions Disposal EOD Explosive Ordnance Disposal Fur Furiere HMA Humanitarian Mine Action</td><td>IEDD Improvised Explosive Device Disposal KAMIBES Eliminazione di munizioni inesplose KAMIR Eliminazione di munizioni inesplose e sminamento Magg Maggiore PM Polizia militare Recl Recluta Sdt Soldato Sgt capo Sergente capo Sgt Sergente Sgtm capo Sergente maggiore capo Sgtm Sergente maggiore SMG di stato maggiore generale Suff prof Sottufficiale di professione Ten col Tenente colonnello Ten Tenente Uff prof Ufficiale di professione</td></tr>
+<tr><td>Legenda X Corsi di formazione professionale nel quadro del rapporto d’assunzione senza computabilità sul totale obbligatorio di giorni di servizio d’istruzione. \* Nella funzione di milizia il grado di un sottufficiale di professione può superare al massimo di un grado il suo grado nella funzione professionale. I ten Primotenente AIME Autorizzazione per l’impiego di munizioni esplosive Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore Aiut suff Aiutante sottufficiale App Appuntato App capo Appuntato capo BACI Battle Area Clearance Cap Capitano Cfo base SSPE Corso di formazione di base della Scuola per sottufficiali di professione dell’esercito Cfo avanz Corso di formazione per l’avanzamento CMD Conventional Munitions Disposal EOD Explosive Ordnance Disposal Fur Furiere HMA Humanitarian Mine Action</td><td>IEDD Improvised Explosive Device Disposal KAMIBES Eliminazione di munizioni inesplose KAMIR Eliminazione di munizioni inesplose e sminamento Magg Maggiore PM Polizia militare Recl Recluta Sdt Soldato Sgt capo Sergente capo Sgt Sergente Sgtm capo Sergente maggiore capo Sgtm Sergente maggiore SMG di stato maggiore generale Suff prof Sottufficiale di professione Ten col Tenente colonnello Ten Tenente Uff prof Ufficiale di professione</td></tr>
 </table>
 
 Allegato 5[^t-5]
@@ -2826,7 +2829,7 @@ II
 
 I seguenti atti normativi sono modificati come segue:
 
-...[^annex7-lvlu1-7]
+…[^annex7-lvlu1-7]
 
 [^annex7-lvlu1-1]: [[RU 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141), [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)art. 9 n. 1 [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)art. 24, [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)art. 7 [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)all. 3 [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)art. 44, [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)n. III 2, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 35, [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)II, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 3, [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 6, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3), [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)n. I 2]
 [^annex7-lvlu1-2]: [[RU 2002 892](https://fedlex.data.admin.ch/eli/oc/2002/158), [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)n. I 2]

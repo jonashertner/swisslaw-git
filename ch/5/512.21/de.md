@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Militärdienstpflicht (VMDP)
 short: VMDP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20240101/de"
 
 (VMDP)
 
-vom 22. November 2017 (Stand am 1. Januar 2024)
+vom 22. November 2017 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Militärgesetz vom 3. Februar 1995[^ingress-1] (MG) und auf da
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## 1. Kapitel: Zweck
@@ -140,12 +140,12 @@ Die gesuchstellenden Personen werden zugeteilt oder zugewiesen, wenn:
 <sup>5</sup> Die Voraussetzungen für Personen, die einen Dienst im Rotkreuzdienst leisten wollen, richten sich nach der Verordnung vom 29. September 2006[^4-7] über den Rotkreuzdienst.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^4-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^4-2]: [SR 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^4-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^4-5]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^4-6]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^4-7]: [SR 513.52](https://fedlex.data.admin.ch/eli/cc/2006/620)
+[^4-7]: [SR 513.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7477)
 
 #### Art. 5
 
@@ -340,7 +340,7 @@ An der Orientierungsveranstaltung werden von den Stellungspflichtigen die für d
 [^11-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^11-3]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^11-4]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^11-5]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^11-5]: [SR 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 12
 
@@ -392,8 +392,8 @@ Zur Ermittlung des Leistungsprofils werden bei den Stellungspflichtigen in Testv
 
 <sup>2</sup> Die Beurteilung des Gesundheitszustandes und der Psyche richtet sich nach der Verordnung vom 24. November 2004[^14-1] über die medizinische Beurteilung der Militärdiensttauglichkeit und der Militärdienstfähigkeit beziehungsweise nach der Zivilschutzverordnung vom 11. November 2020[^14-2].[^14-3]
 
-[^14-1]: [SR 511.12](https://fedlex.data.admin.ch/eli/cc/2004/748)
-[^14-2]: [SR 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
+[^14-1]: [SR 511.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7387)
+[^14-2]: [SR 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
 [^14-3]: Fassung gemäss Anhang 6 Ziff. II 1 der Zivilschutzverordnung vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
 
 #### Art. 15
@@ -442,7 +442,7 @@ Eine militärdiensttaugliche Person wird provisorisch auf eine Rekrutierungsfunk
 [^16-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^16-3]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^16-4]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^16-4]: [SR 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 17
 
@@ -527,7 +527,7 @@ Auf gemeinsames Gesuch der betroffenen Person und des zuständigen Kommandos kö
 [^21-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-3]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^21-4]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^21-4]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 ### 6. Abschnitt: Waffenloser Militärdienst
 
@@ -676,7 +676,7 @@ Als unentbehrliches Personal für die Sicherstellung des Betriebes dieser Einric
 - c.[^28-2] Pflegefachpersonen mit einem eidgenössischen Fähigkeitszeugnis;
 - d. die medizinisch-therapeutischen und medizinisch-technischen Spezialisten und Spezialistinnen mit Hochschulabschluss und einem von der kantonalen Bildungsstätte ausgestellten oder anerkannten Berufsdiplom.
 
-[^28-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^28-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^28-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 29
@@ -694,7 +694,7 @@ Als Angehörige der Rettungsdienste, Polizeidienste, Feuerwehren und Wehrdienste
 - c. Angestellte der Berufsfeuerwehren und Stützpunktfeuerwehren sowie Personen in der Funktion als Feuerwehrkommandant oder -kommandantin, als stellvertretender Feuerwehrkommandant oder stellvertretende Feuerwehrkommandantin, als Feuerwehroffizier oder -offizierin, als Geräteführer oder -führerin, als Chef oder Chefin der Spezialabteilungen, als Atemschutzgeräteträger oder -trägerin, als Atemschutzgerätewart oder -wartin, als C-Wehrspezialist oder -spezialistin und als Strahlenwehrspezialist oder -spezialistin der staatlich anerkannten Feuerwehren und Wehrdienste.
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^29-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^29-2]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^29-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 30
@@ -717,7 +717,7 @@ Für den Sicherheitsverbund Schweiz sind in ausserordentlichen Lagen unentbehrli
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^30-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^30-3]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^30-3]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 31
 
@@ -744,7 +744,7 @@ Als unentbehrliches Personal dieser Dienste gelten Angestellte des:
 <sup>3</sup> Das VBS bezeichnet die Personen im Einvernehmen mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation und mit Skyguide.
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^31-2]: [SR 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
+[^31-2]: [SR 748.132.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9078)
 
 ### 8. Abschnitt: Nichtrekrutierung, Ausschluss aus der Armee, Degradation, Wiederzulassung und Funktionsänderung
 
@@ -895,8 +895,8 @@ Zuständig für die Funktionsänderung sind:
 
 Die Pflicht zur sicheren Aufbewahrung und zum Unterhalt der persönlichen Ausrüstung richtet sich nach dem Dienstreglement der Schweizerischen Armee vom 22. Juni 1994[^40-1] und nach der Verordnung vom 5. Dezember 2003[^40-2] über die persönliche Ausrüstung der Armeeangehörigen.
 
-[^40-1]: [SR 510.107.0](https://fedlex.data.admin.ch/eli/cc/1995/170_170_170)
-[^40-2]: [[AS 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755); [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209); [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733); [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 12; [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748); [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)Anhang 7 Ziff. II 5. [AS 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)]. Siehe heute: die V vom 21. Nov. 2018 ([SR 514.10](https://fedlex.data.admin.ch/eli/cc/2018/732)).
+[^40-1]: [SR 510.107.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7253)
+[^40-2]: [[AS 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755); [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209); [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733); [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)Ziff. I 12; [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748); [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)Anhang 7 Ziff. II 5. [AS 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)]. Siehe heute: die V vom 21. Nov. 2018 ([SR 514.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7492)).
 
 #### Art. 41
 
@@ -938,7 +938,7 @@ Die Pflicht zur sicheren Aufbewahrung und zum Unterhalt der persönlichen Ausrü
 
 <sup>5</sup> Für mehr als zwölf Monate ins Ausland abkommandiertes Personal der Gruppe Verteidigung gilt die Abkommandierung als Bewilligung von Auslandurlaub von Amtes wegen.
 
-[^43-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^43-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 44
 
@@ -962,7 +962,7 @@ Auslandurlaub wird nicht bewilligt, wenn:
 
 <sup>4</sup> Fällt eine Voraussetzung für den bewilligten Auslandurlaub weg, so fällt die Bewilligung für Auslandurlaub dahin.
 
-[^44-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^44-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 45
 
@@ -972,7 +972,7 @@ Auslandurlaub wird nicht bewilligt, wenn:
 
 Die Schiesspflicht richtet sich nach der Schiessverordnung vom 5. Dezember 2003[^45-1].
 
-[^45-1]: [SR 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^45-1]: [SR 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
 #### Art. 45a
 
@@ -1278,7 +1278,7 @@ Das Gesuch wird bewilligt, wenn:
 
 <sup>4</sup> Angehörige der Armee dürfen jährlich höchstens 38 Tage freiwilligen Ausbildungsdienst leisten.
 
-[^55-1]: [SR 512.38](https://fedlex.data.admin.ch/eli/cc/2003/584)
+[^55-1]: [SR 512.38](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7440)
 [^55-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^55-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
@@ -1384,7 +1384,7 @@ Angehörige der Armee können im nachstehenden Umfang ausserhalb der Formationen
 - h. Einführungs-, Fachdienst- und Grundkurs: höchstens 19 Tage.
 
 [^60-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^60-2]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^60-2]: [SR 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 #### Art. 61
 
@@ -1662,7 +1662,7 @@ Für eine Einteilung in eine bestimmte Funktion oder eine Beförderung in einen 
 <sup>3</sup> Bei der Einteilung in eine bestimmte Funktion oder der Beförderung in einen höheren Grad sind die im Zivilleben und in der Armee erworbenen Kenntnisse der Angehörigen der Armee soweit als möglich zu berücksichtigen.
 
 [^72-1]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^72-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^72-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 73
 
@@ -1795,7 +1795,7 @@ Zum Fachoffizier oder zur Fachoffizierin ernannt werden können Soldaten, Gefrei
 <sup>5</sup> Der für die Besetzung einer Offiziersfunktion zuständige Kommandant stellt Gesuche um Ernennung zum Fachoffizier oder zur Fachoffizierin zusammen mit dem oder der betroffenen Angehörigen der Armee an das Kdo Ausb. Dieses entscheidet über die Gesuche und nimmt allenfalls die Ernennung zum Fachoffizier oder zur Fachoffizierin vor.
 
 [^80-1]: Fassung gemäss Anhang 8 Ziff. II 6 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^80-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^80-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 [^80-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 81
@@ -2031,8 +2031,8 @@ Davon ausgenommen sind:
 - a. Angehörige der Armee, die gestützt auf das MG oder das Militärstrafgesetz vom 13. Juni 1927[^95-1] von der Militärdienstleistung oder der Armee ausgeschlossen wurden;
 - b. Berufsmilitärs, deren Arbeitsverhältnis beim VBS gestützt auf Artikel 10 Absatz 3 oder 4 des Bundespersonalgesetzes vom 24. März 2000[^95-2] aus eigenem Verschulden beendigt wurde.
 
-[^95-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^95-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^95-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^95-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## 7. Kapitel: Zuständigkeiten von Bund und Kantonen
 
@@ -2250,7 +2250,10 @@ Es kann anordnen:
 - a. die Verkürzung oder die Verlängerung von Ausbildungsdiensten bei Ereignissen höherer Gewalt;
 - b. gleich lange oder kürzere Dienste bei besonderen Ausbildungsbedürfnissen im Einzelfall.
 
-<sup>3</sup> Die Gruppe Verteidigung kann, im Einvernehmen mit dem VBS, selbstständig Staatsverträge zur Umsetzung bestehender Rahmenabkommen im Bereich der militärischen Ausbildungszusammenarbeit nach Artikel 48*a* MG abschliessen.
+<sup>3</sup> Die Gruppe Verteidigung kann zur Umsetzung bestehender Rahmenabkommen im Bereich der militärischen Ausbildungszusammenarbeit nach Artikel 48*a* MG im Einvernehmen mit dem Staatssekretariat für Sicherheitspolitik (SEPOS) selbstständig Staatsverträge von beschränkter Tragweite im Sinne von Artikel 7*a* Absatz 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^106-1] abschliessen.[^106-2]
+
+[^106-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^106-2]: Fassung gemäss Art. 17 Ziff. 1 der V vom 13. Nov. 2024 über die internationale militärische Kooperation, in Kraft seit 1. Jan. 2025 ([AS 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
 
 ### 2. Abschnitt: Aufhebung und Änderung anderer Erlasse
 
@@ -2590,7 +2593,7 @@ Anhang 3[^t-3]
 </table>
 
 <table>
-<tr><td>Legende: 1 Die Bedingungen für die Vorschlagserteilung gelten nicht für das Militärische Personal \* Beförderung während des Ausbildungsdienstes, administrativ auf den ersten Tag nach bestandenem Ausbildungsdienst \*\* Beförderung durch Quartalsbeförderung per 01.01./01.04./01.07./01.10. mit Einteilung in die Funktion [tab] ADF Ausbildungsdienste der Formationen ADF DD Ausbildungsdienste der Formationen für Durchdienende (restliche Diensttage ohne Unterbruch) Adj Uof Adjutantunteroffizier</td><td>CdA Chef/in der Armee Chefadj Chefadjutant DD Durchdienende Einh Kdt Einheitskommandant/in, unter dem/der die Angehörigen der Armee Dienst leisten Einh Kdt GAD Einheitskommandant/in Grundausbildung Four Fourier Fw Feldweibel Gfr Gefreiter Höh Uof Höherer Unteroffizier Hptadj Hauptadjutant Hptfw Hauptfeldweibel Hptm Hauptmann</td><td>i Gst im Generalstab Kdt KAD Kommandant/in Kaderausbildungsdienst Lt Leutnant Maj Major Oberstlt Oberstleutnant Oblt Oberleutnant Obwm Oberwachtmeister Rekr Rekrut Sdt Soldat Stabsadj Stabsadjutant Uof Unteroffizier Wm Wachtmeister WK Wiederholungskurse</td></tr>
+<tr><td>Legende: 1 Die Bedingungen für die Vorschlagserteilung gelten nicht für das Militärische Personal \* Beförderung während des Ausbildungsdienstes, administrativ auf den ersten Tag nach bestandenem Ausbildungsdienst \*\* Beförderung durch Quartalsbeförderung per 01.01./01.04./01.07./01.10. mit Einteilung in die Funktion ADF Ausbildungsdienste der Formationen ADF DD Ausbildungsdienste der Formationen für Durchdienende (restliche Diensttage ohne Unterbruch) Adj Uof Adjutantunteroffizier</td><td>CdA Chef/in der Armee Chefadj Chefadjutant DD Durchdienende Einh Kdt Einheitskommandant/in, unter dem/der die Angehörigen der Armee Dienst leisten Einh Kdt GAD Einheitskommandant/in Grundausbildung Four Fourier Fw Feldweibel Gfr Gefreiter Höh Uof Höherer Unteroffizier Hptadj Hauptadjutant Hptfw Hauptfeldweibel Hptm Hauptmann</td><td>i Gst im Generalstab Kdt KAD Kommandant/in Kaderausbildungsdienst Lt Leutnant Maj Major Oberstlt Oberstleutnant Oblt Oberleutnant Obwm Oberwachtmeister Rekr Rekrut Sdt Soldat Stabsadj Stabsadjutant Uof Unteroffizier Wm Wachtmeister WK Wiederholungskurse</td></tr>
 </table>
 
 Anhang 4[^t-4]
@@ -2733,7 +2736,7 @@ Anhang 4[^t-4]
 </table>
 
 <table>
-<tr><td>Legende: X Berufliche Ausbildungslehrgänge im Rahmen des Anstellungsverhältnisses ohne Anrechenbarkeit an die Ausbildungsdienstpflicht. \* Der Grad eines Berufsunteroffiziers/einer Berufsunteroffizierin darf in der Milizfunktion höchstens um einen Grad höher sein als sein/ihr Grad in der beruflichen Funktion. [tab] Adj Uof Adjutantunteroffizier BACI Battle Area Clearance BEMS Berechtigung für den Einsatz von Munition mit Sprengwirkung BO Berufsoffizier/in BU Berufsunteroffizier/in Chefadj Chefadjutant CMD Conventional Munitions Disposal EOD Explosive Ordnance Disposal Four Fourier Fw Feldweibel GAL BUSA Grundausbildungslehrgang Berufsunteroffiziersschule der Armee Gfr Gefreiter HMA Humanitarian Mine Action Hptadj Hauptadjutant Hptfw Hauptfeldweibel Hptm Hauptmann</td><td>IEDD Improvised Explosive Device Disposal i Gst im Generalstab KAMIBES Kampfmittelbeseitigung KAMIR Kampfmittelbeseitigung und Minenräumung Lt Leutnant Maj Major MP Militärpolizei Oberstlt Oberstleutnant Obgfr Obergefreiter Oblt Oberleutnant Obwm Oberwachtmeister Rekr Rekrut Sdt Soldat Stabsadj Stabsadjutant WAL Weiterausbildungslehrgang Wm Wachtmeister</td></tr>
+<tr><td>Legende: X Berufliche Ausbildungslehrgänge im Rahmen des Anstellungsverhältnisses ohne Anrechenbarkeit an die Ausbildungsdienstpflicht. \* Der Grad eines Berufsunteroffiziers/einer Berufsunteroffizierin darf in der Milizfunktion höchstens um einen Grad höher sein als sein/ihr Grad in der beruflichen Funktion. Adj Uof Adjutantunteroffizier BACI Battle Area Clearance BEMS Berechtigung für den Einsatz von Munition mit Sprengwirkung BO Berufsoffizier/in BU Berufsunteroffizier/in Chefadj Chefadjutant CMD Conventional Munitions Disposal EOD Explosive Ordnance Disposal Four Fourier Fw Feldweibel GAL BUSA Grundausbildungslehrgang Berufsunteroffiziersschule der Armee Gfr Gefreiter HMA Humanitarian Mine Action Hptadj Hauptadjutant Hptfw Hauptfeldweibel Hptm Hauptmann</td><td>IEDD Improvised Explosive Device Disposal i Gst im Generalstab KAMIBES Kampfmittelbeseitigung KAMIR Kampfmittelbeseitigung und Minenräumung Lt Leutnant Maj Major MP Militärpolizei Oberstlt Oberstleutnant Obgfr Obergefreiter Oblt Oberleutnant Obwm Oberwachtmeister Rekr Rekrut Sdt Soldat Stabsadj Stabsadjutant WAL Weiterausbildungslehrgang Wm Wachtmeister</td></tr>
 </table>
 
 Anhang 5[^t-5]

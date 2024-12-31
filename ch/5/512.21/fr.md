@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2017 sur les obligations militaires (OMi)
 short: OMi
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-810-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20240101/fr"
 
 (OMi)
 
-du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2024)
+du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi du 3 février 1995 sur l’armée (LAAM)[^ingress-1], vu la loi fédé
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## Chapitre 1 But
@@ -140,10 +140,10 @@ Les requérants sont attribués ou affectés:
 <sup>5</sup> Les personnes qui servent dans le Service de la Croix-Rouge sont soumises aux dispositions de l’ordonnance du 29 septembre 2006 sur le Service de la Croix-Rouge[^4-5].
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^4-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^4-2]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 [^4-3]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^4-5]: [RS 513.52](https://fedlex.data.admin.ch/eli/cc/2006/620)
+[^4-5]: [RS 513.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7477)
 
 #### Art. 5
 
@@ -339,7 +339,7 @@ La séance d’information sert également à collecter les données personnelle
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^11-4]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^11-5]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^11-6]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^11-6]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 12
 
@@ -391,8 +391,8 @@ Afin de déterminer leur profil de prestations, les conscrits sont contrôlés, 
 
 <sup>2</sup> L’appréciation de l’état de santé et du psychisme est réglée par l’ordonnance du 24 novembre 2004 concernant l’appréciation médicale de l’aptitude au service militaire et de l’aptitude à faire du service militaire[^14-1] et par l’ordonnance du 11 novembre 2020 sur la protection civile[^14-2].[^14-3]
 
-[^14-1]: [RS 511.12](https://fedlex.data.admin.ch/eli/cc/2004/748)
-[^14-2]: [RS 520.11](https://fedlex.data.admin.ch/eli/cc/2020/888)
+[^14-1]: [RS 511.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7387)
+[^14-2]: [RS 520.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7591)
 [^14-3]: Nouvelle teneur selon l’annexe 6 ch. II 1 de l’O du 11 nov. 2020 sur la protection civile, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5031](https://fedlex.data.admin.ch/eli/oc/2020/888)).
 
 #### Art. 15
@@ -441,7 +441,7 @@ Une personne apte au service militaire est provisoirement affectée à une fonct
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^16-3]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^16-4]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^16-4]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 17
 
@@ -528,7 +528,7 @@ Sur demande conjointe de la personne concernée et du commandement compétent, l
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-3]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^21-4]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^21-4]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 ### Section 6 Service militaire sans arme
 
@@ -677,7 +677,7 @@ Sont réputés personnel indispensable pour assurer l’exploitation de ces inst
 - c.[^28-2] le personnel infirmier titulaire d’un certificat fédéral de capacité;
 - d.[^28-3] les spécialistes en soins médicaux et le personnel médico-technique titulaires d’un diplôme universitaire et d’un diplôme professionnel délivré ou reconnu par l’autorité cantonale d’enseignement.
 
-[^28-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^28-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^28-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^28-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
@@ -696,7 +696,7 @@ Sont réputés membres des services de sauvetage, des services de police, du cor
 - c. les membres des corps de sapeurs-pompiers professionnels et des centres de renfort d’incendie et de secours, ainsi que les personnes exerçant la fonction de commandant des sapeurs-pompiers et de remplaçant du commandant, d’officier sapeurs-pompiers, de chef d’engins, de chef des détachements spéciaux, de porteurs d’appareil de protection respiratoire, de préposés aux appareils de protection respiratoire, de spécialistes de défense contre les produits chimiques et contre la radioactivité des corps de sapeurs-pompiers et des services d’intervention reconnus par l’État.
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^29-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^29-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^29-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 30
@@ -719,7 +719,7 @@ Sont réputés indispensables pour le Réseau national de sécurité dans les si
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^30-2]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^30-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^30-3]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 31
 
@@ -746,7 +746,7 @@ Sont réputés personnel indispensable de ces services les employés du:
 <sup>3</sup> Le DDPS détermine les personnes en accord avec le DETEC et Skyguide.
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^31-2]: [RS 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
+[^31-2]: [RS 748.132.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9078)
 
 ### Section 8 Non-recrutement, exclusion de l’armée, dégradation, réadmission et changement de fonction
 
@@ -902,8 +902,8 @@ Sont compétents pour un changement de fonction:
 
 L’obligation de conserver l’équipement personnel en lieu sûr et de le maintenir en bon état est régie par le règlement de service de l’armée suisse du 22 juin 1994[^40-1] et par l’ordonnance du 5 décembre 2003 sur l’équipement personnel des militaires[^40-2].
 
-[^40-1]: [RS 510.107.0](https://fedlex.data.admin.ch/eli/cc/1995/170_170_170)
-[^40-2]: [[RO 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)ch. I 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)annexe 7 ch. II 5. [RO 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)art. 37 ch. 1]. Voir actuellement l’O du 21 nov. 2018 ([RS 514.10](https://fedlex.data.admin.ch/eli/cc/2018/732)).
+[^40-1]: [RS 510.107.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7253)
+[^40-2]: [[RO 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)ch. I 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)annexe 7 ch. II 5. [RO 2018 4639](https://fedlex.data.admin.ch/eli/oc/2018/732)art. 37 ch. 1]. Voir actuellement l’O du 21 nov. 2018 ([RS 514.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7492)).
 
 #### Art. 41
 
@@ -945,7 +945,7 @@ L’obligation de conserver l’équipement personnel en lieu sûr et de le main
 
 <sup>5</sup> Pour le personnel du Groupement Défense détaché à l’étranger pour plus de douze mois consécutifs, le détachement vaut autorisation d’office.
 
-[^43-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^43-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 44
 
@@ -969,7 +969,7 @@ Il n’est pas accordé si le requérant:
 
 <sup>4</sup> Si une condition sous-tendant l’autorisation de congé à l’étranger n’est plus remplie, l’autorisation est caduque.
 
-[^44-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^44-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 45
 
@@ -979,7 +979,7 @@ Il n’est pas accordé si le requérant:
 
 Le tir obligatoire est régi par l’ordonnance du 5 décembre 2003 sur le tir[^45-1].
 
-[^45-1]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^45-1]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
 #### Art. 45a
 
@@ -1284,7 +1284,7 @@ La demande est acceptée si:
 
 <sup>4</sup> Les militaires peuvent accomplir au maximum 38 jours de service d’instruction volontaires par année.
 
-[^55-1]: [RS 512.38](https://fedlex.data.admin.ch/eli/cc/2003/584)
+[^55-1]: [RS 512.38](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7440)
 [^55-2]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^55-3]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
@@ -1393,7 +1393,7 @@ Les militaires peuvent être convoqués hors des formations pour les services ci
 - h. les cours d’introduction, cours techniques et cours de base: au maximum 19 jours.
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
-[^60-2]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^60-2]: [RS 512.271](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7421)
 
 #### Art. 61
 
@@ -1671,7 +1671,7 @@ Pour une incorporation dans une fonction particulière ou pour une promotion à 
 <sup>3</sup> Les connaissances du militaire acquises au civil et dans l’armée sont prises en compte dans la mesure du possible lors de l’incorporation dans une fonction particulière ou de la promotion à un grade supérieur.
 
 [^72-1]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^72-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^72-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 
 #### Art. 73
 
@@ -1806,7 +1806,7 @@ Des soldats, appointés, sous-officiers et sous-officiers supérieurs peuvent ê
 <sup>5</sup> Le commandant compétent pour l’attribution d’une fonction d’officier et le militaire concerné présentent ensemble au cdmt Instr la demande de nomination au grade d’officier spécialiste. Celui-ci statue sur la demande et, le cas échéant, procède à la nomination.
 
 [^80-1]: Nouvelle teneur selon l’annexe 8 ch. II 6 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^80-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
+[^80-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 [^80-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 81
@@ -2048,8 +2048,8 @@ Font exception:
 - a. les militaires interdits de convocation au service militaire ou exclus de l’armée conformément à la LAAM ou au code pénal militaire du 13 juin 1927[^95-1];
 - b. les militaires de carrière dont les rapports de travail auprès du DDPS ont été résiliés suite à une faute de l’employé en vertu de l’art. 10, al. 3 ou 4, de la loi du 24 mars 2000 sur le personnel de la Confédération[^95-2].
 
-[^95-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^95-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^95-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^95-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Chapitre 7 Compétences de la Confédération et des cantons
 
@@ -2267,7 +2267,10 @@ Il peut ordonner:
 - a. la réduction ou la prolongation des services d’instruction en cas de force majeure;
 - b. l’accomplissement d’autres services de durée égale ou inférieure en cas de besoins particuliers de l’instruction.
 
-<sup>3</sup> Le Groupement Défense peut, en accord avec le DDPS, conclure de manière autonome des traités internationaux pour mettre en œuvre les accords-cadres existants relevant du domaine de la collaboration militaire en matière d’instruction, conformément à l’art. 48*a* LAAM.
+<sup>3</sup> Le Groupement Défense peut, en accord avec le Secrétariat d’État à la politique de sécurité (SEPOS), conclure seul des traités internationaux de portée mineure visés à l’art. 7*a*, al. 2, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^106-1] pour mettre en œuvre les accords-cadres existants relevant du domaine de la collaboration militaire en matière d’instruction, conformément à l’art. 48*a* LAAM.[^106-2]
+
+[^106-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^106-2]: Nouvelle teneur selon l’art. 17 ch. 1 de l’O du 13 nov. 2024 concernant la coopération militaire internationale, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
 
 ### Section 2 Abrogation et modification d’autres actes
 
@@ -2607,7 +2610,7 @@ Annexe 3[^t-3]
 </table>
 
 <table>
-<tr><td>Légende: 1 Les conditions d’octroi de la proposition ne s’appliquent pas au personnel militaire \* Promotion en cours de service d’instruction, avec effet administratif au premier jour suivant ledit service d’instruction \*\* Promotion trimestrielle au 01.01 / 01.04 / 01.07 / 01.10 avec incorporation dans la fonction [tab] Adj chef adjudant-chef Adj EM adjudant d’état-major Adj maj adjudant-major Adj sof adjudant sous-officier App appointé Cap capitaine CC cours préparatoire de cadres</td><td>CdA chef de l’Armée Cdt U commandant d’unité sous les ordres duquel les militaires accomplissent du service Cdt U SIB commandant d’unité pour le service d’instruction de base Cdt S instr commandant du service d’instruction cadres des cadres CR cours de répétition EMG état-major général Four fourrier IAE instruction axée sur l’engagement Lt lieutenant Lt col lieutenant-colonel Maj major Mil SL militaire en service long</td><td>Plt premier-lieutenant Recr recrue Sdt soldat Sgt sergent Sgt chef sergent-chef Sgtm sergent-major Sgtm chef sergent-major chef SIF service d’instruction des formations SIF mil SL service d’instruction des formationspour militaires en service long (solde des jours de service effectués sans interruption) Sof sous-officier Sof sup sous-officier supérieur SPP service de promotion de la paix</td></tr>
+<tr><td>Légende: 1 Les conditions d’octroi de la proposition ne s’appliquent pas au personnel militaire \* Promotion en cours de service d’instruction, avec effet administratif au premier jour suivant ledit service d’instruction \*\* Promotion trimestrielle au 01.01 / 01.04 / 01.07 / 01.10 avec incorporation dans la fonction Adj chef adjudant-chef Adj EM adjudant d’état-major Adj maj adjudant-major Adj sof adjudant sous-officier App appointé Cap capitaine CC cours préparatoire de cadres</td><td>CdA chef de l’Armée Cdt U commandant d’unité sous les ordres duquel les militaires accomplissent du service Cdt U SIB commandant d’unité pour le service d’instruction de base Cdt S instr commandant du service d’instruction cadres des cadres CR cours de répétition EMG état-major général Four fourrier IAE instruction axée sur l’engagement Lt lieutenant Lt col lieutenant-colonel Maj major Mil SL militaire en service long</td><td>Plt premier-lieutenant Recr recrue Sdt soldat Sgt sergent Sgt chef sergent-chef Sgtm sergent-major Sgtm chef sergent-major chef SIF service d’instruction des formations SIF mil SL service d’instruction des formationspour militaires en service long (solde des jours de service effectués sans interruption) Sof sous-officier Sof sup sous-officier supérieur SPP service de promotion de la paix</td></tr>
 </table>
 
 Annexe 4[^t-4]
@@ -2750,7 +2753,7 @@ Annexe 4[^t-4]
 </table>
 
 <table>
-<tr><td>Légende: X Stages de formation professionnelle accomplis dans le cadre des rapports de travail non imputés sur la durée totale des services d’instruction. \* Dans sa fonction de milice, le sous-officier de carrière ne peut pas être promu au-delà du grade directement supérieur à celui qu’il revêt dans sa fonction professionnelle. [tab] Adj chef adjudant-chef Adj EM adjudant d’état-major Adj maj adjudant major Adj sof adjudant sous-officier AEME autorisation d’engager des munitions explosives App appointé App chef appointé-chef BACl *Battle Area Clearance* Cap capitaine CC cours préparatoire de cadres CMD *Conventional Munitions Disposal* DEMUNEX déminage et élimination de munitions non explosées EOD Explosive Ordnance Disposal EMG état-major général EMUNEX élimination de munitions non explosées Four fourrier HMA *Humanitarian Mine Action* IEDD Improvised *Explosive Device Disposal*</td><td>ISP Institut suisse de police Lt lieutenant Lt col lieutenant-colonel Maj major Of carr officier de carrière Plt premier-lieutenant PM police militaire Recr recrue Sdt soldat SFB ESCA stage de formation de base de l’École des sous-officiers de carrière de l’armée Sgt sergent Sgt chef sergent-chef Sgtm sergent-major Sgtm chef sergent-major chef SIF service d’instruction des formations Sof carr sous-officier de carrière SP stage de perfectionnement</td></tr>
+<tr><td>Légende: X Stages de formation professionnelle accomplis dans le cadre des rapports de travail non imputés sur la durée totale des services d’instruction. \* Dans sa fonction de milice, le sous-officier de carrière ne peut pas être promu au-delà du grade directement supérieur à celui qu’il revêt dans sa fonction professionnelle. Adj chef adjudant-chef Adj EM adjudant d’état-major Adj maj adjudant major Adj sof adjudant sous-officier AEME autorisation d’engager des munitions explosives App appointé App chef appointé-chef BACl *Battle Area Clearance* Cap capitaine CC cours préparatoire de cadres CMD *Conventional Munitions Disposal* DEMUNEX déminage et élimination de munitions non explosées EOD Explosive Ordnance Disposal EMG état-major général EMUNEX élimination de munitions non explosées Four fourrier HMA *Humanitarian Mine Action* IEDD Improvised *Explosive Device Disposal*</td><td>ISP Institut suisse de police Lt lieutenant Lt col lieutenant-colonel Maj major Of carr officier de carrière Plt premier-lieutenant PM police militaire Recr recrue Sdt soldat SFB ESCA stage de formation de base de l’École des sous-officiers de carrière de l’armée Sgt sergent Sgt chef sergent-chef Sgtm sergent-major Sgtm chef sergent-major chef SIF service d’instruction des formations Sof carr sous-officier de carrière SP stage de perfectionnement</td></tr>
 </table>
 
 Annexe 5[^t-5]
