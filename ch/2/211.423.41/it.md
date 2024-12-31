@@ -4,18 +4,20 @@ title: "Ordinanza del 23 gennaio 1931 sull'emissione di obbligazioni fondiarie (
 short: OOF
 eli: "https://fedlex.data.admin.ch/eli/cc/47/121_125_70"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 1931-01-23
 in_force: 1931-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20230101/it/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20250101/it/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sull’emissione di obbligazioni fondiarie (OOF)
+# Ordinanza sull’emissione di obbligazioni fondiarie
 
-del 23 gennaio 1931 (Stato 1° gennaio 2023)[^t-1]
+(OOF)[^t-1]
+
+del 23 gennaio 1931 (Stato 1° gennaio 2025)
 
 [^t-1]: Nuovo tit. giusta il n. I dell’O del 20 ott. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1879](https://fedlex.data.admin.ch/eli/oc/1982/1879_1879_1879)).
 
@@ -101,7 +103,7 @@ Tra le spese d’emissione da rifondersi alla centrale quando un istituto che ne
 
 [^11-1]
 
-<sup>1</sup> L’inventario può essere tenuto in forma di schedario o, conformemente al capoverso 5, in forma di lista EED.
+<sup>1</sup>
 
 Il registro dei pegni dei membri di una centrale (art. 21 della legge) si compone di:
 
@@ -123,6 +125,7 @@ Il registro dei pegni dei membri di una centrale (art. 21 della legge) si compon
   - 12\. il limite di prestito;
   - 13\. osservazioni circa eventuali modificazioni del pegno.
 
+- L’inventario può essere tenuto in forma di schedario o, conformemente al capoverso 5, in forma di lista EED.
 - b.
 
   un giornale indicante:
@@ -184,6 +187,17 @@ Il registro dei pegni delle centrali (art. 16 della legge) va disposto nello ste
 
 [^14a-1]: Introdotto dall’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
+#### Art. 14b
+
+**Copertura minima**[^14b-1]
+
+<sup>1</sup> Il valore nominale della copertura dei mutui dei membri deve ammontare in ogni momento almeno al 110 per cento del valore nominale dei mutui delle centrali. Se nell’aggregato di copertura sono contenuti crediti ipotecari che i membri hanno concesso derogando alle prescrizioni delle loro direttive interne relative alla sostenibilità di cui all’articolo 72*d* dell’ordinanza del 1° giugno 2012[^14b-2] sui fondi propri, il valore applicabile è pari al 115 per cento.
+
+<sup>2</sup> Il valore della copertura dei mutui computabile tenendo conto dei limiti di prestito deve ammontare in ogni momento almeno al 108 per cento del valore nominale dei mutui delle centrali. L’Autorità federale di vigilanza sui mercati finanziari (FINMA) può stabilire un livello minimo di copertura più elevato, in particolare per tenere conto dei maggiori rischi nell’aggregato di copertura.
+
+[^14b-1]: Introdotto dall’all. n. 1 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^14b-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
 #### Art. 15
 
 [^15-1]
@@ -204,11 +218,11 @@ Il registro dei pegni delle centrali (art. 16 della legge) va disposto nello ste
 
 Per i crediti su pegni manuali a’ sensi dell’articolo 19 della legge si intendono dei mutui di somme fisse a scadenze fisse o disdicibili entro tre mesi almeno e garantiti da pegno manuale.
 
-## V. Bilancio, conto economico e rapporto di gestione
+## V. Bilancio, conto economico, rapporto di gestione e pubblicazione
 
 [^lvlV-1]
 
-[^lvlV-1]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^lvlV-1]: Nuovo testo giusta l’all. n. 1 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 18
 
@@ -235,10 +249,8 @@ Le due centrali sono tenute ad allestire un bilancio intermedio alla fine di ogn
 - 1\.2.7[^18-8] Cassa, conti correnti
 - 1\.2.8[^18-9] Immobili appartenenti alla centrale
 - 1\.2.9[^18-10] Costi d’emissione da ammortizzare
-- [tab] 1.2.10[^18-11]Altri attivi
-- [tab] 1.2.11[^18-12]*...*
-- 1\.2.10 Costi d’emissione da ammortizzare
-- 1\.2.11 Altri attivi
+- 1\.2.10[^18-11] Altri attivi
+- 1\.2.11[^18-12] .*..*
 - 1\.3 Capitale sociale non versato
 - 1\.4 Perdita riportata
 - 1\.5 *Totale del bilancio*
@@ -342,17 +354,47 @@ Il conto economico delle due centrali conterrà almeno le seguenti rubriche:[^20
 
 [^21-1]: Nuovo testo giusta l’all. n. 4 all’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
+#### Art. 21a
+
+**Pubblicazione**[^21a-1]
+
+Le centrali devono pubblicare almeno semestralmente ed entro due mesi dal giorno di riferimento del bilancio intermedio le seguenti informazioni:
+
+- a. il valore delle obbligazioni fondiarie e della copertura;
+- b. la ripartizione dell’aggregato di copertura per sede e tipologia dell’immobile e in base all’entità dei singoli crediti di copertura;
+- c. il prodotto degli interessi delle obbligazioni fondiarie e della copertura;
+- d. il rischio di cambio;
+- e. la struttura delle scadenze delle obbligazioni fondiarie e della copertura;
+- f. la quota dei crediti di copertura scaduti da più di 90 giorni.
+
+[^21a-1]: Introdotto dall’all. n. 1 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
 ## V*a*. Informazioni fornite dalla persona incaricata in caso di provvedimenti dell’Autorità federale di vigilanza sui mercati finanziari
 
 [^lvlVa-1]
 
 [^lvlVa-1]: Introdotta dall’all. n. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
-**Art. 21**a
+#### Art. 21a<sup>bis</sup>
 
-<sup>1</sup> Se l’Autorità federale di vigilanza sui mercati finanziari (FINMA) ordina nei confronti di un membro provvedimenti secondo gli articoli 40 e 40*a* della legge, la persona incaricata dalla FINMA può fornire alle centrali tutte le informazioni necessarie all’adempimento dei loro compiti.
+[^21abis-1]
+
+<sup>1</sup> Se la FINMA ordina nei confronti di un membro provvedimenti secondo gli articoli 40 e 40*a* della legge, la persona incaricata dalla FINMA può fornire alle centrali tutte le informazioni necessarie all’adempimento dei loro compiti.[^21abis-2]
 
 <sup>2</sup> La persona incaricata informa periodicamente le centrali sull’applicazione dei provvedimenti, qualora ne sia interessata.
+
+[^21abis-1]: Originario art. 21*a*.
+[^21abis-2]: Nuovo testo giusta l’all. n. 1 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+## V*b*. Disposizione transitoria della modifica del 29 novembre 2023
+
+[^lvlVb-1]
+
+[^lvlVb-1]: Introdotto dall’all. n. 1 dell’O del 29 nov. 2023 sui fondi propri, in vigore dal 1° gen. 2025 ([RU 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 21b
+
+La pubblicazione secondo l’articolo 21*a* avviene per la prima volta alla data di riferimento del 31 dicembre 2025. Nel singolo caso la FINMA può ammettere una data di riferimento successiva nel 2026.
 
 ## VI. Entrata in vigore
 

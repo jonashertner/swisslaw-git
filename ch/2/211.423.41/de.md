@@ -4,11 +4,11 @@ title: Pfandbriefverordnung vom 23. Januar 1931 (PfV)
 short: PfV
 eli: "https://fedlex.data.admin.ch/eli/cc/47/121_125_70"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 1931-01-23
 in_force: 1931-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20230101/de/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20250101/de/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20230101/de"
 
 (PfV)[^t-1]
 
-vom 23. Januar 1931 (Stand am 1. Januar 2023)
+vom 23. Januar 1931 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I der V vom 20. Okt. 1982, in Kraft seit 1. Jan. 1983 ([AS 1982 1879](https://fedlex.data.admin.ch/eli/oc/1982/1879_1879_1879)).
 
@@ -125,7 +125,7 @@ Das Pfandregister der Mitglieder einer Zentrale (Art. 21 des Gesetzes) setzt sic
   - 12\. die Belehnungsgrenze;
   - 13\. Bemerkungen zu Pfandänderungen.
 
-- [tab] Das Inventar kann als Kartei oder nach Absatz 5 als EDV-Liste geführt werden.
+- Das Inventar kann als Kartei oder nach Absatz 5 als EDV-Liste geführt werden.
 - b.
 
   einem Journal, das aufführt:
@@ -187,6 +187,17 @@ Das Pfandregister der Zentralen (Art. 16 des Gesetzes) ist gleich anzuordnen wie
 
 [^14a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
+#### Art. 14b
+
+**Mindestdeckung**[^14b-1]
+
+<sup>1</sup> Der Nominalwert der Darlehensdeckung der Mitglieder muss jederzeit mindestens 110 Prozent des Nominalwerts der Darlehen der Pfandbriefzentralen betragen. Sind Grundpfandforderungen im Deckungsstock enthalten, die die Mitglieder abweichend von den Vorgaben ihrer internen Weisungen in Bezug auf die Tragbarkeit nach Artikel 72*d* der Eigenmittelverordnung vom 1. Juni 2012[^14b-2] vergeben haben, so gilt ein Wert von 115 Prozent.
+
+<sup>2</sup> Der unter Berücksichtigung der Belehnungsgrenzen anrechenbare Wert der Darlehensdeckung muss jederzeit mindestens 108 Prozent des Nominalwerts der Darlehen der Pfandbriefzentralen betragen. Die Eidgenössische Finanzmarktaufsicht (FINMA) kann einen höheren Mindestdeckungsgrad festlegen, insbesondere um erhöhte Risiken im Deckungsstock zu berücksichtigen.
+
+[^14b-1]: Eingefügt durch Anhang Ziff. 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^14b-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
 #### Art. 15
 
 [^15-1]
@@ -207,11 +218,11 @@ Das Pfandregister der Zentralen (Art. 16 des Gesetzes) ist gleich anzuordnen wie
 
 Unter Faustpfandforderungen im Sinne von Artikel 19 des Gesetzes sind durch Faustpfand gesicherte Darlehen mit festen Schuldsummen und festen Verfallzeiten oder mit Kündigungsfristen von mindestens drei Monaten zu verstehen.
 
-## V. Bilanz, Erfolgsrechnung und Geschäftsbericht
+## V. Bilanz, Erfolgsrechnung, Geschäftsbericht und Offenlegung
 
 [^lvlV-1]
 
-[^lvlV-1]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^lvlV-1]: Fassung gemäss Anhang Ziff. 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 18
 
@@ -344,17 +355,47 @@ Die Erfolgsrechnung der beiden Zentralen ist mindestens wie folgt zu gliedern:[^
 
 [^21-1]: Fassung gemäss Anhang Ziff. 4 der Finanzmarktprüfverordnung vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 (SR [AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
+#### Art. 21a
+
+**Offenlegung**[^21a-1]
+
+Die Pfandbriefzentralen müssen mindestens halbjährlich und innerhalb von zwei Monaten nach dem Stichtag des Zwischenabschlusses die folgenden Informationen offenlegen:
+
+- a. Wert der Pfandbriefe und der Deckung;
+- b. Verteilung des Deckungsstocks nach Standort und Art der Liegenschaft sowie nach Grösse der einzelnen Deckungsforderungen;
+- c. Zinsertrag der Pfandbriefe und der Deckung;
+- d. Währungsrisiko;
+- e. Fälligkeitsstruktur der Pfandbriefe und der Deckung;
+- f. Anteil der seit mehr als 90 Tagen überfälligen Deckungsforderungen.
+
+[^21a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
 ## V*a*. Informationen durch die beauftragte Person bei Massnahmen der Eidgenössischen Finanzmarktaufsicht
 
 [^lvlVa-1]
 
 [^lvlVa-1]: Eingefügt durch Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
-#### Art. 21a
+#### Art. 21a<sup>bis</sup>
 
-<sup>1</sup> Ordnet die Eidgenössische Finanzmarktaufsicht (FINMA) gegen ein Mitglied Massnahmen nach den Artikeln 40 und 40*a* des Gesetzes an, so kann die von der FINMA beauftragte Person den Pfandbriefzentralen alle Auskünfte erteilen, die diese zur Erfüllung ihrer Aufgaben benötigen.
+[^21abis-1]
+
+<sup>1</sup> Ordnet die FINMA gegen ein Mitglied Massnahmen nach den Artikeln 40 und 40*a* des Gesetzes an, so kann die von der FINMA beauftragte Person den Pfandbriefzentralen alle Auskünfte erteilen, die diese zur Erfüllung ihrer Aufgaben benötigen.[^21abis-2]
 
 <sup>2</sup> Die beauftragte Person informiert die Pfandbriefzentralen regelmässig über den Stand des Verfahrens, soweit sie davon betroffen sind.
+
+[^21abis-1]: Ursprünglich: Art. 21*a*.
+[^21abis-2]: Fassung gemäss Anhang Ziff. 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+## V*b*. Übergangsbestimmung zur Änderung vom 29. November 2023
+
+[^lvlVb-1]
+
+[^lvlVb-1]: Eingefügt durch Anhang Ziff. 1 der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 21b
+
+Die erstmalige Offenlegung nach Artikel 21*a* erfolgt per Stichtag 31. Dezember 2025. Die FINMA kann im Einzelfall einen späteren Stichtag im Jahr 2026 zulassen.
 
 ## VI. Inkrafttreten
 

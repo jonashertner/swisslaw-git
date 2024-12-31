@@ -4,11 +4,11 @@ title: "Ordonnance du 23 janvier 1931 sur l'émission de lettres de gage (OLG)"
 short: OLG
 eli: "https://fedlex.data.admin.ch/eli/cc/47/121_125_70"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 1931-01-23
 in_force: 1931-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20230101/fr"
 
 (OLG)[^t-1]
 
-du 23 janvier 1931 (État le 1<sup>er</sup> janvier 2023)
+du 23 janvier 1931 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I de l’O du 20 oct. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1879](https://fedlex.data.admin.ch/eli/oc/1982/1879_1879_1879)).
 
@@ -152,7 +152,7 @@ Le registre des gages des membres d’une centrale (art. 21 de la loi) se compos
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 16 avril 1986, en vigueur depuis le 1<sup>er</sup> juil. 1986 ([RO 1986 694](https://fedlex.data.admin.ch/eli/oc/1986/694_694_694)).
 [^11-2]: Abrogé par l’annexe ch. 1 de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^11-3]: Abrogé par le ch. 4 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750))
+[^11-3]: Abrogé par l’annexe ch. 4 de l’O du 15 oct. 2008 sur les audits des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750))
 [^11-4]: Introduit par l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 12
@@ -187,6 +187,17 @@ Le registre des gages des centrales (art. 16 de la loi) sera établi de la même
 
 [^14a-1]: Introduit par l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
+#### Art. 14b
+
+**Couverture minimale**[^14b-1]
+
+<sup>1</sup> La valeur nominale de la couverture des prêts des membres doit toujours être d’au moins 110 % de la valeur nominale des prêts des centrales.Si le portefeuille de couverture comprend des créances hypothécaires que les membres ont accordées en dérogation à leurs directives internes concernant la capacité d’endettement visée à l’art. 72*d* de l’ordonnance du 1<sup>er</sup> juin 2012 sur les fonds propres[^14b-2], une valeur de 115 % s’applique.
+
+<sup>2</sup> La valeur nominale de la couverture des prêts prise en compte eu égard aux limites de charge doit toujours être d’au moins 108 % de la valeur nominale des prêts des centrales. L’Autorité fédérale de surveillance des marchés financiers (FINMA) peut fixer un taux de couverture minimal plus élevé, notamment pour tenir compte de risques accrus dans le portefeuille de couverture.
+
+[^14b-1]: Introduit par l’annexe ch. 1 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+[^14b-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+
 #### Art. 15
 
 [^15-1]
@@ -207,11 +218,11 @@ Le registre des gages des centrales (art. 16 de la loi) sera établi de la même
 
 Sous le nom de créances garanties par nantissement, au sens de l’art. 19 de la loi, il faut entendre des prêts de sommes fixes à échéances fixes ou dénonçables à trois mois au moins et garantis par gage.
 
-## V. Bilan, compte de résultats et rapport de gestion
+## V. Bilan, compte de profits et pertes, rapport de gestion et publication
 
 [^lvlV-1]
 
-[^lvlV-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^lvlV-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 #### Art. 18
 
@@ -273,7 +284,7 @@ Les deux centrales sont tenues de dresser un bilan intermédiaire au terme de ch
 [^18-9]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^18-10]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^18-11]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^18-12]: Introduit par l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-12]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^18-13]: Abrogé par l’annexe ch. 1 de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^18-14]: Introduits par le ch. I de l’O du 18 fév. 2009, en vigueur du 1<sup>er</sup> mars 2009 au 31 déc. 2014 ([RO 2009 823](https://fedlex.data.admin.ch/eli/oc/2009/135)).
 
@@ -305,7 +316,6 @@ Le compte de résultats des deux centrales contient au moins les rubriques suiva
 - 1\.1.2.4[^20-8] Obligations suisses
 - 1\.1.2.5[^20-9] Avoirs en banque
 - 1\.1.2.6[^20-10] Autres actifs
-- 1\.1.2.7[^20-11] …
 - 1\.2 Commissions
 - 1\.3 Divers
 - 1\.4 Perte de l’exercice
@@ -336,7 +346,6 @@ Le compte de résultats des deux centrales contient au moins les rubriques suiva
 [^20-8]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^20-9]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^20-10]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
-[^20-11]: Abrogé par l’annexe ch. 1 de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 21
 
@@ -350,7 +359,22 @@ Le compte de résultats des deux centrales contient au moins les rubriques suiva
 
 <sup>4</sup> L’attestation de la société d’audit doit être reproduite dans le rapport de gestion.
 
-[^21-1]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^21-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+
+#### Art. 21a
+
+**Publication**[^21a-1]
+
+Les centrales publient les informations suivantes au moins semestriellement, dans les deux mois suivant la date de clôture des comptes intermédiaires:
+
+- a. la valeur des lettres de gage et de la couverture;
+- b. la répartition du panier de couverture selon l’emplacement et le type des immeubles, ainsi que selon la valeur de chaque créance de couverture;
+- c. le produit des intérêts des lettres de gage et de la couverture;
+- d. le risque de change;
+- e. la structure des échéances des lettres de gage et de la couverture;
+- f. la part des créances de couverture échues depuis plus de 90 jours.
+
+[^21a-1]: Introduit par l’annexe ch. 1 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
 
 ## V*a*. Informations à fournir par le mandataire en cas de mesures de l’Autorité fédérale de surveillance des marchés financiers
 
@@ -358,11 +382,26 @@ Le compte de résultats des deux centrales contient au moins les rubriques suiva
 
 [^lvlVa-1]: Introduit par l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
-#### Art. 21a
+#### Art. 21a<sup>bis</sup>
 
-<sup>1</sup> Lorsque l’Autorité fédérale de surveillance des marchés financiers (FINMA) ordonne les mesures visées aux art. 40 et 40*a* de la loi à l’encontre d’un membre d’une centrale, son mandataire peut fournir aux centrales tous les renseignements dont celles-ci ont besoin pour exécuter leurs tâches.
+[^21abis-1]
+
+<sup>1</sup> Lorsque la FINMA ordonne les mesures visées aux art. 40 et 40*a* de la loi à l’encontre d’un membre d’une centrale, son mandataire peut fournir aux centrales tous les renseignements dont celles-ci ont besoin pour exécuter leurs tâches.[^21abis-2]
 
 <sup>2</sup> Le mandataire informe régulièrement les centrales de l’avancement de la procédure, dans la mesure où celles-ci sont concernées.
+
+[^21abis-1]: Anciennement art. 21*a*.
+[^21abis-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+## V*b*. Disposition transitoire relative à la modification du 29 novembre 2023
+
+[^lvlVb-1]
+
+[^lvlVb-1]: Introduit par l’annexe ch. 1 de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 13](https://fedlex.data.admin.ch/eli/oc/2024/13)).
+
+#### Art. 21b
+
+La publication au sens de l’art. 21*a* a lieu, pour la première fois, à la date de référence du 31 décembre 2025. La FINMA peut, au cas par cas, autoriser une date de référence ultérieure dans l’année 2026.
 
 ## VI. Entrée en vigueur
 
