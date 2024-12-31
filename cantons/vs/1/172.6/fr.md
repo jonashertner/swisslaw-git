@@ -4,13 +4,12 @@ number: "172.6"
 title: Loi sur la procédure et la juridiction administratives
 short: LPJA
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-03-11
+version: 2025-01-01
+version_adopted: 2023-11-16
 adopted: 1976-10-06
 in_force: 1978-01-02
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.6"
-pdf: "https://lex.vs.ch/api/fr/versions/3275/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3359/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3275/pdf_file"
 
 (LPJA)
 
-du 06.10.1976 (état 01.01.2024)
+du 06.10.1976 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -573,7 +572,7 @@ arrête:
 
 <sup>1</sup> Les décisions portant condamnation à payer une somme d'argent ou à fournir des sûretés sont exécutées par la voie de la poursuite, conformément à la loi fédérale sur la poursuite pour dettes et la faillite. Elles sont assimilées aux jugements exécutoires au sens de l'article 80 de ladite loi.
 
-<sup>2</sup> Demeurent réservées les dispositions du concordat intercantonal sur l'entraide judiciaire pour l'exécution des prétentions de droit public.
+<sup>2</sup> …
 
 #### Art. 38
 

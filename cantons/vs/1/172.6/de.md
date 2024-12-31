@@ -4,13 +4,12 @@ number: "172.6"
 title: Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege
 short: VVRG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-03-11
+version: 2025-01-01
+version_adopted: 2023-11-16
 adopted: 1976-10-06
 in_force: 1978-01-02
 url: "https://lex.vs.ch/app/de/texts_of_law/172.6"
-pdf: "https://lex.vs.ch/api/de/versions/3275/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3359/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3275/pdf_file"
 
 (VVRG)
 
-vom 06.10.1976 (Stand 01.01.2024)
+vom 06.10.1976 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -573,7 +572,7 @@ beschliesst:
 
 <sup>1</sup> Verfügungen auf Geldzahlung oder Sicherheitsleistung sind auf dem Weg der Schuldbetreibung nach dem Bundesgesetz über Schuldbetreibung und Konkurs zu vollstrecken. Sie stehen vollstreckbaren Urteilen im Sinne von Artikel 80 jenes Gesetzes gleich.
 
-<sup>2</sup> Die Vorschriften des interkantonalen Konkordates über die Gewährung der gegenseitigen Rechtshilfe zur Vollstreckung öffentlichrechtlicher Ansprüche bleiben vorhanden.
+<sup>2</sup> …
 
 #### Art. 38
 
