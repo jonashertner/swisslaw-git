@@ -4,13 +4,12 @@ number: "673.325"
 title: Allgemeine Versicherungsbedingungen für die Gebäudewasserversicherung
 short: AVB Gebäudewasser
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-05-13
+version: 2025-01-01
+version_adopted: 2024-05-14
 adopted: 2012-04-27
 in_force: 2012-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/673.325"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2890/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3684/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2890/pdf_file"
 
 (AVB Gebäudewasser)
 
-Vom 27.04.2012 (Stand 01.01.2021)
+Vom 27.04.2012 (Stand 01.01.2025)
 
 Der Verwaltungsrat der Aargauischen Gebäudeversicherung,
 
@@ -33,7 +32,7 @@ beschliesst:
 
 **Versicherungsobjekte**
 
-<sup>1</sup> Die Aargauische Gebäudeversicherung (AGV) betreibt im Kanton eine Versicherung zur Deckung von Wasserschäden an Gebäuden.
+<sup>1</sup> Die Aargauische Gebäudeversicherung (AGV) betreibt im Kanton eine Schadenversicherung zur Deckung von Wasserschäden an Gebäuden.
 
 #### § 2
 
@@ -48,7 +47,7 @@ beschliesst:
   - 4\. den zum versicherten Gebäude gehörenden Heizungs- und Tankanlagen, Kühlanlagen sowie aus Wärmeaustausch- und/oder Wärmepumpen-Kreislaufsystemen,
 - b) Regen-, Schnee-, Schmelz- und Grundwasser, das durch die Gebäudehülle ins Gebäude eingedrungen ist,
 - c) …
-- d) plötzlich und unfallmässiges ausfliessendes Wasser aus Wasserbetten, Aquarien und Zierbrunnen, Bade- und Planschbecken und wasser-führenden Geräten (zum Beispiel Luftentfeuchter, Dampfgarer),
+- d) plötzlich und unfallmässiges ausfliessendes Wasser aus Wasserbetten, Aquarien und Zierbrunnen, Bade- und Planschbecken und wasserführenden Geräten (zum Beispiel Luftentfeuchter, Dampfgarer),
 - e) ausfliessendes Kondenswasser aus Kühlanlagen (zum Beispiel Kühlschränken, Gefrierschränken und Gefriertruhen, Klimaanlagen).
 
 <sup>2</sup> Versichert sind ferner Schäden im Innern des Gebäudes durch
@@ -76,7 +75,7 @@ beschliesst:
 
 <sup>1</sup> Zusätzlich sind Kosten versichert für
 
-- a) die Untersuchung, die Dekontamination sowie den Austausch von kontaminiertem Erdreich (inkl. Fauna und Flora) auf dem Grundstück auf dem sich das versicherte Gebäude befindet und sich der Wasserschaden ereignet hat,
+- a) die Untersuchung, die Dekontamination sowie den Austausch von kontaminiertem Erdreich (inkl. Fauna und Flora) auf dem Grundstück, auf dem sich das versicherte Gebäude befindet und sich der Wasserschaden ereignet hat,
 - b) den Transport von kontaminiertem Erdreich in eine Wiederaufbereitungsanlage und wieder zurück zur Schadenstätte,
 - c) den Transport von kontaminiertem Erdreich in die nächste geeignete Deponie und die dortige Ablagerung oder Vernichtung,
 - d) die anschliessende Wiederherstellung des Grundstücks in den Zustand wie vor Eintritt des Schadenfalls.
@@ -91,7 +90,7 @@ beschliesst:
 
 #### § 4
 
-**Zusatzversicherung**
+**Zusatzversicherung Aqua Plus**
 
 <sup>1</sup> Es kann eine Zusatzversicherung mit folgendem Leistungsumfang abgeschlossen werden:
 
@@ -108,20 +107,21 @@ beschliesst:
 
 **Ausschlüsse**
 
-<sup>1</sup> Von der Gebäudewasserversicherung ausgeschlossen sind:
+<sup>1</sup> Von der Gebäudewasserversicherung ausgeschlossen sind
 
 - a) Schäden, die durch Bodensenkung oder schlechten Baugrund verursacht werden,
 - b) Kosten für die Behebung der Schadenursache, zum Beispiel Reinigung, Ersatz oder Reparatur der schadenverursachenden Gebäudebestandteile, ausgenommen bei Frostschäden,
 - c) Unterhalts- und Schadenverhütungskosten,
-- d) Schäden durch Regen-, Schnee-, Schmelz- und Grundwasser an der Gebäudeaussenhülle, das heisst an der Hausfassade (Aussenmauern und dergleichen samt Wärmedämmung) und am Dach (an der tragenden Konstruktion, dem Dachbelag und der Wärmedämmung),
+- d) Schäden durch Regen-, Schnee-, Schmelz- und Grundwasser (unterirdisches Wasser) an der Gebäudeaussenhülle, das heisst an der Hausfassade (Aussenmauern und dergleichen samt Wärmedämmung, Fenstern und Türen) und am Dach (an der tragenden Konstruktion, dem Dachbelag und der Wärmedämmung),
 - e) Kosten für das Auftauen und Reparieren von Dachrinnen und Aussenablaufrohren sowie für das Wegräumen von Schnee und Eis,
-- f) Schäden durch stetig ins Gebäude eindringendes Grundwasser,
+- f) Schäden durch stetig ins Gebäude eindringendes Grundwasser (unterirdisches Wasser),
 - g) Schäden durch künstlich erzeugten Frost,
 - h) Schäden durch Kondenswasserbildung,
 - i) …
 - k) Schäden, die als Folge von Feuer, Rauch, Hitze, Blitzschlag, Explosion, Implosion, Sprengung, abstürzenden oder notlandenden Flugkörpern oder Teilen davon, Luftfracht eingeschlossen, sowie Elementarereignissen am Gebäude entstanden sind,
 - l) Schäden zufolge kriegerischer Ereignisse, Neutralitätsverletzungen, Unruhen aller Art, Erdbeben, Veränderungen der Atomkernstruktur,
-- m) Schäden infolge Eindringens von Wasser durch offene Fenster, Türen, Oberlichter sowie durch Öffnung in der Gebäudehülle, ausgenommen Öffnungen, die nach den Regeln der Baukunde und dem Stand der Technik offen sein müssen,
+- m) Schäden infolge Eindringens von Wasser durch offene Fenster, Türen, Oberlichter sowie durch Öffnungen in der Gebäudehülle, ausgenommen Öffnungen, die nach den Regeln der Baukunde und dem Stand der Technik offen sein müssen,
+- m<sup>bis</sup>) Schäden infolge Eindringens von Wasser durch Gebäudeöffnungen, die im Zusammenhang mit einem Neu- beziehungsweise Umbau nur provisorisch abgedeckt wurden,
 - n) Schäden, die im Wesentlichen durch fehlerhafte Konstruktion und unsachgemässe Ausführung verursacht werden, sofern ein Baubeteiligter (Unternehmer, Architekt, Ingenieur usw.) nach den gesetzlichen oder vertraglichen Bestimmungen für den Schaden einzustehen hat, oder die Gebäudeeigentümerin beziehungsweise der Gebäudeeigentümer selbst für den Mangel verantwortlich ist,
 - o) Schäden, die im Wesentlichen durch mangelhaften Unterhalt oder Unterlassung von Abwehrmassnahmen verursacht werden,
 - p) Schäden infolge allmählicher Einwirkung, es sei denn, die Einwirkung konnte visuell zu keiner Zeit erkannt werden.
@@ -138,27 +138,36 @@ beschliesst:
 
 #### § 7
 
-**Obliegenheiten im Schadenfall**
+**Obliegenheiten**
 
-<sup>1</sup> Die Versicherten haben bei Eintritt eines versicherten Ereignisses
+<sup>1</sup> Wesentliche Gefahrserhöhungen durch Nutzungsänderungen oder andere Umstände, unabhängig davon, ob sie von der beziehungsweise dem Versicherten herbeigeführt wurden, sind der AGV unverzüglich zu melden.
+
+- a) …
+- b) …
+- c) …
+- d) …
+
+<sup>2</sup> Die Versicherten haben bei Eintritt eines versicherten Ereignisses
 
 - a) den Schaden unverzüglich der AGV zu melden,
-- b) jede Auskunft über Ursache, Höhe und nähere Umstände des Schadens zu erteilen und jede hiezu notwendige Abklärung zu gestatten,
+- b) jede Auskunft über Ursache, Höhe und nähere Umstände des Schadens zu erteilen und jede hierzu notwendige Abklärung zu gestatten,
 - c) während und nach dem Schadenereignis nach Möglichkeit für die Erhaltung und Rettung der versicherten Sache und für die Minderung des Schadens zu sorgen und dabei die Anordnungen der AGV zu befolgen,
-- d) Veränderungen am beschädigten Gebäude, welche die Feststellung der Schadenursache oder Höhe des Schadens erschweren oder vereiteln könnten, zu unterlassen, sofern sie nicht der Schadenminderung dienen oder im öffentlichen Interesse liegen.
+- d) Veränderungen am beschädigten Gebäude, welche die Feststellung der Schadenursache oder Höhe des Schadens erschweren oder vereiteln könnten, zu unterlassen, sofern sie nicht der Schadenminderung dienen, im öffentlichen Interesse liegen oder die AGV vorab zugestimmt hat.
+
+<sup>3</sup> Handelt die beziehungsweise der Versicherte den Obliegenheiten in Absatz 2 in betrügerischer Absicht zuwider, ist die AGV nicht an den Vertrag gebunden.
 
 #### § 8
 
 **Missachtung von Sorgfaltspflichten und Obliegenheiten**
 
-<sup>1</sup> Bei schuldhafter Missachtung von Sorgfaltspflichten, von vertraglichen oder gesetzlichen Sicherheitsvorschriften oder von anderen Obliegenheiten sowie bei einer Gefahrenerhöhung, die schuldhaft nicht angezeigt worden ist, kann die Entschädigung in dem Ausmass herabgesetzt werden, als Eintritt und Umfang des Schadens dadurch beeinflusst wurden.
+<sup>1</sup> Bei schuldhafter Missachtung von Sorgfaltspflichten, von vertraglichen oder gesetzlichen Sicherheitsvorschriften oder von anderen Obliegenheiten sowie bei einer wesentlichen Gefahrenerhöhung, die schuldhaft nicht angezeigt worden ist, kann die Entschädigung in dem Ausmass herabgesetzt werden, als Eintritt und Umfang des Schadens dadurch beeinflusst wurden.
 
 <sup>2</sup> Die an die Gefahrserhöhung geknüpften Rechtsfolgen treten nicht ein, wenn
 
 - a) die Gefahrserhöhung in der Absicht, das Interesse des Versicherers zu wahren, vorgenommen worden ist,
 - b) die Gefahrserhöhung durch ein Gebot der Menschlichkeit veranlasst worden ist.
 
-<sup>3</sup> Die Entschädigung wird gekürzt oder fällt ganz weg, wenn infolge verspäteter Schadenmeldung die Ursachen oder das Ausmass des Schadens nicht mehr festgestellt werden können.
+<sup>3</sup> Die Entschädigung wird gekürzt oder fällt ganz weg, wenn infolge verspäteter Schadensmeldung die Ursachen oder das Ausmass des Schadens nicht mehr festgestellt werden können.
 
 #### § 9
 
@@ -196,23 +205,29 @@ beschliesst:
 
 <sup>1</sup> Die Entschädigung wird 30 Tage nach dem Zeitpunkt fällig, in welchem die AGV die zur Feststellung der Höhe des Schadens und ihrer Haftung erforderlichen Unterlagen erhalten hat. Bei grösseren Schäden können Teilzahlungen je nach dem Stand der Wiederherstellung geleistet werden.
 
+<sup>2</sup> Ist die Höhe der Entschädigung umstritten, kann die Versicherungsnehmerin beziehungsweise der Versicherungsnehmer nach Ablauf der in Absatz 1 genannten Frist Abschlagszahlungen bis zur Höhe des unbestrittenen Betrags verlangen. Gleiches gilt, wenn nicht geklärt ist, wie die Versicherungsleistung auf mehrere Anspruchsberechtigte aufgeteilt werden soll.
+
 #### § 13
 
 **Beginn und Dauer der Versicherung**
 
 <sup>1</sup> Der Antrag zum Abschluss der Versicherung ist der AGV schriftlich einzureichen. Die Antragstellerin beziehungsweise der Antragsteller bleibt, sofern sie beziehungsweise er nicht für die Annahme eine kürzere Frist gesetzt hat, 14 Tage seit der Übergabe oder Absendung des Antrags an die AGV gebunden. Die Versicherung beginnt mit der Annahme der Offerte durch die AGV gemäss dem auf der Police ausgewiesenen Datum.
 
-<sup>2</sup> Der Versicherungsvertrag gilt jeweils bis zum Jahresende und erneuert sich stillschweigend um ein weiteres Jahr, wenn er nicht drei Monate vor Ablauf schriftlich gekündigt wird. Besteht für ein gegen Wasserschäden versichertes Gebäude gleichzeitig eine Bauzeitversicherung, ist die Kündigung der Gebäudewasserversicherung erstmals auf den Ablauf der Bauzeitversicherung möglich; sie muss um gültig zu sein zudem spätestens im Zeitpunkt der Schätzung schriftlich erfolgen.
+<sup>1<sup>bis</sup></sup> Die Antragstellerin beziehungsweise der Antragsteller kann den Antrag oder die Erklärung zum Abschluss des Vertrags schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, widerrufen. Die Widerrufsfrist beträgt 14 Tage und beginnt, sobald die Versicherungsnehmerin beziehungsweise der Versicherungsnehmer den Vertrag beantragt oder angenommen hat. Der Widerruf bewirkt, dass der Antrag oder die Annahmeerklärung von Anfang an unwirksam ist.
+
+<sup>2</sup> Der Versicherungsvertrag gilt jeweils bis zum Jahresende und erneuert sich stillschweigend um ein weiteres Jahr, wenn er nicht drei Monate vor Ablauf schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, von einer Partei gekündigt wird. Besteht für ein gegen Wasserschäden versichertes Gebäude gleichzeitig eine Bauzeitversicherung, ist die Kündigung der Gebäudewasserversicherung erstmals auf den Ablauf der Bauzeitversicherung möglich; sie muss, um gültig zu sein, zudem spätestens im Zeitpunkt der Schätzung schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, erfolgen.
 
 <sup>3</sup> Nach Eintritt eines ersatzpflichtigen Schadens können beide Parteien spätestens bei Auszahlung der Entschädigung die Versicherung kündigen. Die Haftung der AGV erlischt 14 Tage nachdem der anderen Partei die Kündigung mitgeteilt wurde. Die Prämie ist nur für die Zeit bis zur Vertragsauflösung geschuldet, es sei denn, die beziehungsweise der Versicherte habe den Vertrag während des auf den Vertragsabschluss folgenden Jahres gekündigt.
 
 <sup>4</sup> Bei Änderungen der Versicherungsbedingungen oder der Prämiensätze gibt die AGV den Versicherten spätestens 30 Tage vor der nächsten Prämienfälligkeit die neuen Bedingungen oder Prämiensätze bekannt. Versicherte, die mit diesen Änderungen nicht einverstanden sind, können die Wasserversicherung per nächsten Prämienverfall kündigen. Erhält die AGV bis zum nächsten Prämienverfall keine Kündigung, gilt dies als Zustimmung zu den Vertragsänderungen.
 
+<sup>5</sup> Nicht zur Kündigung berechtigen Änderungen von Prämien und Versicherungssummen infolge Anpassung an den neuen Indexstand und von Prämien oder Leistungen zu Gunsten der Versicherten.
+
 #### § 14
 
 **Konkurs der Versicherungsnehmerin beziehungsweise des Versicherungsnehmers**
 
-<sup>1</sup> Fällt die Versicherungsnehmerin beziehungsweise der Versicherungsnehmer in Konkurs, so endet der Vertrag mit der Konkurseröffnung.
+<sup>1</sup> Wird über der Versicherungsnehmerin beziehungsweise dem Versicherungsnehmer der Konkurs eröffnet, bleibt der Vertrag bestehen und die Konkursverwaltung ist zu dessen Erfüllung verpflichtet. Die Vorschriften dieser AVB über die Beendigung des Vertrags bleiben vorbehalten.
 
 #### § 15
 
@@ -228,9 +243,9 @@ beschliesst:
 
 **Schadenfreiheitsrabatt**
 
-<sup>1</sup> Die AGV gewährt auf der Prämie für die ordentliche Versicherung einen Rabatt von 15 %, sofern sie in den vorangegangenen drei Jahren keine Entschädigung leisten musste. Die Beobachtungsperiode endet am 1. Oktober.
+<sup>1</sup> Die AGV gewährt auf der Prämie einen Rabatt von 15 %, sofern sie in den vorangegangenen drei Jahren weder aus der Grundversicherung noch aus der allfälligen Zusatzversicherung Aqua Plus eine Entschädigung leisten musste. Die Beobachtungsperiode endet am 1. Oktober.
 
-<sup>2</sup> Wird der AGV ein Schadenfall gemeldet, entfällt der Rabatt.
+<sup>2</sup> Wird der AGV ein versicherter Schadenfall gemeldet, entfällt der Rabatt.
 
 <sup>3</sup> Der Rabatt wird nach drei aufeinanderfolgenden Versicherungsjahren, in denen die AGV keine Entschädigungen leisten musste, erneut gewährt.
 
@@ -246,7 +261,7 @@ beschliesst:
 
 **Einstellung der Leistungspflicht**
 
-<sup>1</sup> Versicherte, die ihrer Zahlungspflicht nicht innert 30 Tagen nachkommen, werden unter Androhung der Säumnisfolgen schriftlich aufgefordert, innert 14 Tagen Zahlung zu leisten. Bleibt die Mahnung ohne Erfolg, ruht die Leistungspflicht der AGV vom Ablauf der Mahnfrist an bis zur vollständigen Zahlung der Prämien und Kosten (Deckungsunterbruch).
+<sup>1</sup> Versicherte, die ihrer Zahlungspflicht nicht innert 30 Tagen nachkommen, werden unter Androhung der Säumnisfolgen schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, aufgefordert, innert 14 Tagen, von der Absendung der Mahnung an gerechnet, Zahlung zu leisten. Bleibt die Mahnung ohne Erfolg, ruht die Leistungspflicht der AGV vom Ablauf der Mahnfrist an bis zur vollständigen Zahlung der Prämien und Kosten (Deckungsunterbruch).
 
 #### § 17
 
@@ -254,21 +269,21 @@ beschliesst:
 
 <sup>1</sup> Wechselt das Eigentum am versicherten Gebäude, gehen die Rechte und Pflichten aus der Gebäudewasserversicherung auf die Erwerberin beziehungsweise den Erwerber über.
 
-<sup>2</sup> Der Versicherungsvertrag geht nicht auf die Erwerberin beziehungsweise den Erwerber über, wenn sie beziehungsweise er der AGV innert 30 Tagen nach Zustellung der Police schriftlich mitteilt, dass sie beziehungsweise er den Übergang der Versicherung ablehnt. In diesem Fall wird die auf die nicht abgelaufene Versicherungszeit entfallende Prämie der bisherigen Eigentümerin beziehungsweise dem bisherigen Eigentümer rückvergütet, wenn keine schriftliche Abtretung an die Erwerberin beziehungsweise den Erwerber vorliegt.
+<sup>2</sup> Der Versicherungsvertrag geht nicht auf die Erwerberin beziehungsweise den Erwerber über, wenn sie beziehungsweise er der AGV innert 30 Tagen nach Zustellung der Police schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, mitteilt, dass sie beziehungsweise er den Übergang der Versicherung ablehnt. In diesem Fall wird die auf die nicht abgelaufene Versicherungszeit entfallende Prämie der bisherigen Eigentümerin beziehungsweise dem bisherigen Eigentümer rückvergütet, wenn keine schriftliche Abtretung an die Erwerberin beziehungsweise den Erwerber vorliegt.
 
-<sup>3</sup> Die AGV ist berechtigt, innert 14 Tagen, nachdem sie von der Handänderung Kenntnis erhalten hat, die Gebäudewasserversicherung auf 30 Tage zu kündigen, unter Rückerstattung der auf die nicht abgelaufene Versicherungszeit entfallende Prämie an die Erwerberin beziehungsweise den Erwerber.
+<sup>3</sup> Die AGV ist berechtigt, innert 14 Tagen, nachdem sie von der Handänderung Kenntnis erhalten hat, die Gebäudewasserversicherung auf 30 Tage schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, zu kündigen, unter Rückerstattung der auf die nicht abgelaufene Versicherungszeit entfallende Prämie an die Erwerberin beziehungsweise den Erwerber.
 
 #### § 18
 
-**Doppelversicherung**
+**Mehrfachversicherung**
 
-<sup>1</sup> Hat der bzw. die Versicherte gegen dieselbe Gefahr eine weitere Gebäudewasserversicherung abgeschlossen, haftet die AGV nur anteilsmässig. Der nicht auf die AGV entfallende Anteil ist von der Deckung ausgeschlossen.
+<sup>1</sup> Hat der beziehungsweise die Versicherte gegen dieselbe Gefahr weitere Gebäudewasserversicherungen abgeschlossen, haftet die AGV für den Schaden, der durch die Gebäudewasserversicherung der AGV gedeckt wird, nur anteilsmässig. Der nicht auf die AGV entfallende Anteil ist von der Deckung ausgeschlossen.
 
 #### § 19
 
 **Verjährung**
 
-<sup>1</sup> Die Forderungen aus dem Versicherungsvertrag verjähren zwei Jahre nach Eintritt der Tatsache, welche die Leistungspflicht begründet.
+<sup>1</sup> Die Forderungen aus dem Versicherungsvertrag verjähren fünf Jahre nach Eintritt der Tatsache, welche die Leistungspflicht begründet.
 
 #### § 20
 
