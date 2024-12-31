@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinance of 30 November 2012 for the Reduction of CO<sub>2</sub> Emissions (CO<sub>2</sub> Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: en
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20240101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20250101-en-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CO<sub>2</sub> Ordinance)
 
-of 30 November 2012 (Status as of 1 January 2024)
+of 30 November 2012 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -26,7 +26,7 @@ on the basis of the CO<sub>2</sub> Act of 23 December 2011[^ingress-1] (CO<sub>2
 
 ordains:
 
-[^ingress-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-1]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ## Chapter 1 General Provisions
 
@@ -334,7 +334,7 @@ The crediting period shall be extended for projects or programmes in Switzerland
 <sup>8</sup> The added ecological value of the emission reductions or the increase in the carbon sink effect shall be offset by issuing attestations. If the added ecological value has already been offset, no attestations are issued.
 
 [^10-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^10-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^10-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 11
 
@@ -411,7 +411,7 @@ Installation operators with reduction obligations under Article 66 paragraph 1 t
 [^12-2]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^12-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^12-4]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^12-5]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^12-5]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^12-6]: [AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)
 [^12-7]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^12-8]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
@@ -449,7 +449,7 @@ Installation operators that have agreed with the Confederation on targets for th
 [^12a-2]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^12a-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^12a-4]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^12a-5]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^12a-5]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^12a-6]: [AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)
 [^12a-7]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^12a-8]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
@@ -495,14 +495,15 @@ The FOEN may, subject to preservation of manufacturing and trade secrecy, publis
 - b.[^14-3] validation reports in accordance with Article 6 paragraph 6;
 - c. monitoring reports in accordance with Article 9 paragraph 1;
 - d. verification reports in accordance with Article 9 paragraph 4;
-- e.[^14-4] the decisions in accordance with Articles 8 paragraph 1 and 10 paragraph 1<sup>bis</sup>.
-- [tab] <sup>2</sup> Before publication, the FOEN shall provide the applicant with the documentation specified in paragraph 1. It shall require the applicant to indicate the information that in the applicant’s opinion is subject to manufacturing and trade secrecy.[^14-5]
+- e.[^14-4] the decisions in accordance with Articles 8 paragraph 1 and 10 paragraph 3[^14-5].
+- [tab] <sup>2</sup> Before publication, the FOEN shall provide the applicant with the documentation specified in paragraph 1. It shall require the applicant to indicate the information that in the applicant’s opinion is subject to manufacturing and trade secrecy.[^14-6]
 
 [^14-1]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 [^14-2]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^14-3]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^14-4]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^14-5]: Inserted by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^14-5]: The reference was adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) on 1. June 2022.
+[^14-6]: Inserted by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 ### Section 6 Coordination of Adaptation Measures
 
@@ -548,7 +549,7 @@ The report must contain information regarding:
 <sup>3</sup> If the vehicle is not certified and the importer is not recorded in the Driver and Vehicle Authorisation Information System, the importer is the person or entity named as such in the customs declaration.
 
 [^17-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^17-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^17-2]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 17a
 
@@ -559,7 +560,7 @@ The report must contain information regarding:
 <sup>2</sup> They do not apply to special-purpose vehicles in accordance with Annex I Part A number 5 of Regulation (EU) 2018/858[^17a-3].[^17a-4]
 
 [^17a-1]: Inserted by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^17a-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^17a-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^17a-3]: Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC, OJ L 151 of 14.6.2018, S. 1; last amended by Regulation (EU) 2019/2144, OJ L 325 of 16.12.2019, S. 1.
 [^17a-4]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
@@ -591,11 +592,11 @@ The report must contain information regarding:
 
 #### Art. 17d
 
-**Placing vehicles on the market for the first time**[^17d-1]
+**Placing vehicles on the market for the first time**[^17cbis-1]
 
 <sup>1</sup> Vehicles that are placed on the market in Switzerland for the first time are those that are registered for use in Switzerland for the first time and whose use specified in their initial registration corresponds to their actual use by the end user.
 
-<sup>2</sup> Placing on the market in a customs enclave in accordance with Article 3 paragraph 3 of the Customs Act of 18 March 2005[^17d-2] (CustA) and in Liechtenstein is deemed registration in Switzerland. Registration in a customs enclave in accordance with Article 3 paragraph 2 CustA, with the exception of Liechtenstein, is deemed placing on the market abroad.
+<sup>2</sup> Placing on the market in a customs enclave in accordance with Article 3 paragraph 3 of the Customs Act of 18 March 2005[^17cbis-2] (CustA) and in Liechtenstein is deemed registration in Switzerland. Registration in a customs enclave in accordance with Article 3 paragraph 2 CustA, with the exception of Liechtenstein, is deemed placing on the market abroad.
 
 <sup>3</sup>
 
@@ -607,34 +608,34 @@ The following are not regarded as placed on the market for the first time:
   vehicles registered for use abroad more than six months but no more than 12 months before the customs declaration in Switzerland and which have covered 5000 km or more at the following times:
 
   - 1\. at the time of the customs declaration,
-  - 2\. at the time of first registration for use if the number of kilometres covered was not recorded at the time of the customs declaration.[^17d-3]
+  - 2\. at the time of first registration for use if the number of kilometres covered was not recorded at the time of the customs declaration.[^17cbis-3]
 
-<sup>4</sup> …[^17d-4]
+<sup>4</sup> …[^17cbis-4]
 
-[^17d-1]: Originally Art.17*a*. Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^17d-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^17d-3]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^17d-4]: Repealed by No I of the O of 29 Sept. 2023, with effect from 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^17cbis-1]: Originally Art.17*a*. Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^17cbis-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^17cbis-3]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^17cbis-4]: Repealed by No I of the O of 29 Sept. 2023, with effect from 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17e
 
-**Reference year**[^17e-1]
+**Reference year**[^17d-1]
 
 - [tab] The reference year is the calendar year in which achievement of the individual target is verified.
 
-[^17e-1]: Originally: Art. 17*a,* then Art. 17*a*<sup>bis</sup>. Inserted by No I of the O of 25 Nov. 2020, ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) and amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^17d-1]: Originally: Art. 17*a,* then Art. 17*a*<sup>bis</sup>. Inserted by No I of the O of 25 Nov. 2020, ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) and amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 17f
 
-**Applicable test and correlation procedures and target values in accordance with Article 10 paragraphs 1 and 2 of the CO<sub>2</sub> Act**[^17f-1]
+**Applicable test and correlation procedures and target values in accordance with Article 10 paragraphs 1 and 2 of the CO<sub>2</sub> Act**[^17e-1]
 
 <sup>1</sup>
 
 The following test and correlation procedures are used to determine the target values under Article 10 paragraphs 1 and 2 of the CO<sub>2</sub> Act:
 
-- a. the worldwide harmonised test procedure for light-duty vehicles in accordance with Annex XXI of Regulation (EU) 2017/1151[^17f-2] (WLTP);
-- b. the test and correlation procedures in accordance with Annex I of Implementing Regulation (EU) 2017/1152[^17f-3];
-- c. the test and correlation procedures in accordance with Annex I of Implementing Regulation 2017/1153[^17f-4].
+- a. the worldwide harmonised test procedure for light-duty vehicles in accordance with Annex XXI of Regulation (EU) 2017/1151[^17e-2] (WLTP);
+- b. the test and correlation procedures in accordance with Annex I of Implementing Regulation (EU) 2017/1152[^17e-3];
+- c. the test and correlation procedures in accordance with Annex I of Implementing Regulation 2017/1153[^17e-4].
 
 <sup>2</sup>
 
@@ -643,16 +644,16 @@ Pursuant to the test and correlation procedures in accordance with paragraph 1, 
 - a. for cars: 118 grams CO<sub>2</sub>/km;
 - b. for vans and light articulated vehicles: 186 grams CO<sub>2</sub>/km.
 
-[^17f-1]: Originally Art. 17*b*. Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^17f-2]: Commission Regulation (EU) No 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Commission Regulation (EC) No 692/2008, OJ L 175 of 7.7.2017, p. 1; last amended by Regulation (EU) 2020/49, OJ L 17 of 22.1.2020, p. 1.
-[^17f-3]: Commission Implementing Regulation (EU) 2017/1152 of 2 June 2017 setting out a methodology for determining the correlation parameters necessary for reflecting the change in the regulatory test procedure with regard to light commercial vehicles and amending Implementing Regulation (EU) No 293/2012, OJ L 175 of 7.7.2017, p. 644; last amended by Commission Implementing Regulation (EU) 2019/1839, OJ L 282 of 4.11.2019, p. 1.
-[^17f-4]: Commission Implementing Regulation (EU) 2017/1153 of 2 June 2017 setting out a methodology for determining the correlation parameters necessary for reflecting the change in the regulatory test procedure and amending Regulation (EU) No 1014/2010, OJ L 175 of 7.7.2017, p. 679; last amended by Commission Implementing Regulation (EU) 2019/1840, OJ L 282 of 4.11.2019, p. 9.
+[^17e-1]: Originally Art. 17*b*. Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^17e-2]: Commission Regulation (EU) No 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Commission Regulation (EC) No 692/2008, OJ L 175 of 7.7.2017, p. 1; last amended by Regulation (EU) 2020/49, OJ L 17 of 22.1.2020, p. 1.
+[^17e-3]: Commission Implementing Regulation (EU) 2017/1152 of 2 June 2017 setting out a methodology for determining the correlation parameters necessary for reflecting the change in the regulatory test procedure with regard to light commercial vehicles and amending Implementing Regulation (EU) No 293/2012, OJ L 175 of 7.7.2017, p. 644; last amended by Commission Implementing Regulation (EU) 2019/1839, OJ L 282 of 4.11.2019, p. 1.
+[^17e-4]: Commission Implementing Regulation (EU) 2017/1153 of 2 June 2017 setting out a methodology for determining the correlation parameters necessary for reflecting the change in the regulatory test procedure and amending Regulation (EU) No 1014/2010, OJ L 175 of 7.7.2017, p. 679; last amended by Commission Implementing Regulation (EU) 2019/1840, OJ L 282 of 4.11.2019, p. 9.
 
 ### Section 2 Importers and Manufacturers
 
 #### Art. 18
 
-**Large-scale importer**[^18-1]
+**Large-scale importer**[^17g-1]
 
 <sup>1</sup>
 
@@ -663,29 +664,29 @@ An importer is deemed to be a large-scale importer in a reference year with resp
 
 <sup>2</sup> If an importer's fleet of new vehicles in the previous year comprised the number of vehicles specified in paragraph 1 or more, the importer shall be treated provisionally as a large-scale importer in the reference year for the vehicles in question.
 
-<sup>3</sup> If an importer's fleet of new vehicles in the previous year comprised fewer vehicles than those specified in paragraph 1, the importer may apply to the SFOE to be treated provisionally as a large-scale importer in the reference year in relation to the vehicles in question from the date of approval of the application.[^18-2]
+<sup>3</sup> If an importer's fleet of new vehicles in the previous year comprised fewer vehicles than those specified in paragraph 1, the importer may apply to the SFOE to be treated provisionally as a large-scale importer in the reference year in relation to the vehicles in question from the date of approval of the application.[^17g-2]
 
 <sup>4</sup> If, on 31 December of the reference year, the fleet of new vehicles referred to in paragraph 2 or 3 comprises fewer vehicles than those specified in paragraph 1, the importer shall be deemed to be a small-scale importer in relation to the vehicles concerned in the reference year.
 
-[^18-1]: Amended by No I of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^18-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^17g-1]: Amended by No I of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^17g-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 19
 
-[^19-1]
+[^18-1]
 
-[^19-1]: Repealed by No I of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^18-1]: Repealed by No I of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 20
 
-**Small-scale importer**[^20-1]
+**Small-scale importer**[^19-1]
 
 An importer is deemed to be a small-scale importer in a reference year with respect to the vehicles in question if the new fleet comprises fewer than the following number of vehicles on 31 December of the reference year:
 
 - a. 50 passenger cars; or
 - b. six vans or light articulated vehicles.
 
-[^20-1]: Amended by No I of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^19-1]: Amended by No I of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 21
 
@@ -697,25 +698,25 @@ Depending on the number of a manufacturer’s vehicles that are registered for t
 
 **Emission pools**
 
-<sup>1</sup> Importers and manufacturers that wish to be treated as an emission pool must apply to the SFOE by 31 December of the year before the reference year to be treated as an emission pool for a duration of one to five years.[^22-1]
+<sup>1</sup> Importers and manufacturers that wish to be treated as an emission pool must apply to the SFOE by 31 December of the year before the reference year to be treated as an emission pool for a duration of one to five years.[^21-1]
 
 <sup>2</sup> An emission pool must appoint a representative.
 
-[^22-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^21-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 22a
 
-**Agreement to take over vehicles**[^22a-1]
+**Agreement to take over vehicles**[^22-1]
 
 <sup>1</sup> An importer may agree with a large-scale importer that the latter will take over vehicles from the importer and thereby enter into all the obligations under this Chapter in respect of these vehicles.
 
-<sup>2</sup> The importer or large-scale importer must notify the SFOE of this before the vehicles concerned are placed on the market for the first time.[^22a-2]
+<sup>2</sup> The importer or large-scale importer must notify the SFOE of this before the vehicles concerned are placed on the market for the first time.[^22-2]
 
-<sup>3</sup> Vehicles may only be assigned to another importer once. It is not possible to revoke an assignment.[^22a-3]
+<sup>3</sup> Vehicles may only be assigned to another importer once. It is not possible to revoke an assignment.[^22-3]
 
-[^22a-1]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^22a-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^22a-3]: Inserted by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^22-1]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^22-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^22-3]: Inserted by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Section 3 Bases for Assessments
 
@@ -738,33 +739,33 @@ If by 31 January of the year following the reference year large-scale importers 
 
 [^23-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 [^23-2]: See footnote to Art. 17*a* para. 2.
-[^23-3]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^23-3]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 24
 
-**Sources of data used for the calculation of the target and the average carbon emissions of the new car fleet**[^24-1]
+**Sources of data used for the calculation of the target and the average carbon emissions of the new car fleet**[^23a-1]
 
-The data used for the calculation of the individual target and for the calculation of the average carbon emissions of the new car fleet shall originate from a document issued by the vehicle manufacturer, by a governmental authority or by a RVTAO[^24-2] inspection centre or a foreign inspection centre listed in Annex 2, which is equivalent to the COC.
+The data used for the calculation of the individual target and for the calculation of the average carbon emissions of the new car fleet shall originate from a document issued by the vehicle manufacturer, by a governmental authority or by a RVTAO[^23a-2] inspection centre or a foreign inspection centre listed in Annex 2, which is equivalent to the COC.
 
-[^24-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^24-2]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^23a-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^23a-2]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 25
 
-**Determining the carbon emissions of a vehicle**[^25-1]
+**Determining the carbon emissions of a vehicle**[^24-1]
 
-<sup>1</sup> For the determination of the carbon emissions of a vehicle, the emissions according to the WLTP are used.[^25-2]
+<sup>1</sup> For the determination of the carbon emissions of a vehicle, the emissions according to the WLTP are used.[^24-2]
 
 <sup>2</sup> For vehicles for which no values determined in accordance with the WLTP are available, the carbon emissions are calculated in accordance with Annex 4.
 
 <sup>4</sup> If the carbon emissions cannot be calculated in accordance with Annex 4, passenger cars shall be assumed to produce emissions of 300 g CO<sub>2</sub>/km and vans and light articulated vehicles 400 g CO<sub>2</sub>/km.
 
-[^25-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^25-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^24-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^24-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 26
 
-**Carbon-reducing factors for vehicles**[^26-1]
+**Carbon-reducing factors for vehicles**[^25-1]
 
 <sup>1</sup> If the average carbon emissions of a fleet of new vehicles of a large-scale importer or of any vehicle of a small-scale importer are reduced by using eco-innovations, the reduction shall be taken into account up to a maximum of 7g CO<sub>2</sub>/km.
 
@@ -776,10 +777,10 @@ The carbon reductions achieved as a result of eco-innovations that are indicated
 - b. in the reference year 2022: 1.7;
 - c. in the reference year 2023: 1.5.
 
-<sup>3</sup> In the case of vehicles that can be fuelled by a mixture of natural gas and biogas, the percentage of the biogenic component under Article 12*a* paragraph 2 the Energy Efficiency Ordinance of 1 November 2017[^26-2] shall be deducted from the carbon emissions; the result shall be arithmetically rounded up to the next tenth of a gram CO<sub>2</sub>/km.
+<sup>3</sup> In the case of vehicles that can be fuelled by a mixture of natural gas and biogas, the percentage of the biogenic component under Article 12*a* paragraph 2 the Energy Efficiency Ordinance of 1 November 2017[^25-2] shall be deducted from the carbon emissions; the result shall be arithmetically rounded up to the next tenth of a gram CO<sub>2</sub>/km.
 
-[^26-1]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^26-2]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^25-1]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^25-2]: [SR 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
 
 #### Art. 27
 
@@ -787,22 +788,22 @@ The carbon reductions achieved as a result of eco-innovations that are indicated
 
 <sup>1</sup> The average carbon emissions of a fleet of new vehicles of a large-scale importer is calculated based on the arithmetical mean of the carbon emissions of the passenger cars or, where applicable, vans and light articulated vehicles of the large-scale importer registered for the first time in the reference year, rounded to three decimal places.
 
-<sup>2</sup> In order to calculate the average carbon emissions of a fleet of new vans and light articulated vehicles, only those 95 per cent of the vehicles with the lowest carbon emissions from the new vehicle fleet in the reference year 2022 shall be taken into account.[^27-1]
+<sup>2</sup> In order to calculate the average carbon emissions of a fleet of new vans and light articulated vehicles, only those 95 per cent of the vehicles with the lowest carbon emissions from the new vehicle fleet in the reference year 2022 shall be taken into account.[^25a-1]
 
 <sup>3</sup>
 
-In order to calculate the average carbon emissions of a fleet of new passenger cars and a fleet of new vans and light articulated vehicles, vehicles with carbon emissions of less than 50 g CO<sub>2</sub>/km shall be taken into account for the reference years 2020–2022 as follows:[^27-2]
+In order to calculate the average carbon emissions of a fleet of new passenger cars and a fleet of new vans and light articulated vehicles, vehicles with carbon emissions of less than 50 g CO<sub>2</sub>/km shall be taken into account for the reference years 2020–2022 as follows:[^25a-2]
 
 - a. in the reference year 2020: double;
 - b. in the reference year 2021: 1.67 times;
-- c. in the reference year 2022: 1.33 times.[^27-3]
+- c. in the reference year 2022: 1.33 times.[^25a-3]
 
-<sup>4</sup> The multiple accounting for vehicles under paragraph 3 applies only up to a reduction in the average carbon emissions of the fleet of new vehicles of a maximum total of 9.3 g CO<sub>2</sub>/km in accordance with the WLTP. Reductions achieved in 2020, the extent of which have been determined using measurement methods applied the until the end of 2020, shall be multiplied by a factor of 1.24.[^27-4]
+<sup>4</sup> The multiple accounting for vehicles under paragraph 3 applies only up to a reduction in the average carbon emissions of the fleet of new vehicles of a maximum total of 9.3 g CO<sub>2</sub>/km in accordance with the WLTP. Reductions achieved in 2020, the extent of which have been determined using measurement methods applied the until the end of 2020, shall be multiplied by a factor of 1.24.[^25a-4]
 
-[^27-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^27-2]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^27-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^27-4]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^25a-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^25a-2]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^25a-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^25a-4]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 #### Art. 28
 
@@ -829,17 +830,17 @@ The individual target for carbon emissions of the fleet of new vehicles of a lar
 
 **Sanction for exceeding individual targets**
 
-<sup>1</sup> If the average carbon emissions of the fleet of new vehicles of a large-scale importer exceed the individual target, then the SFOE shall impose a penalty.[^30-1]
+<sup>1</sup> If the average carbon emissions of the fleet of new vehicles of a large-scale importer exceed the individual target, then the SFOE shall impose a penalty.[^26-1]
 
 <sup>2</sup> Emissions exceeding the individual target are rounded down to the nearest tenth of a gram of CO<sub>2</sub>/km to calculate the penalty.
 
-<sup>3</sup> If a large-scale importer fails to pay the penalty on time, he or she shall owe default interest. The Federal Department of Finance (FDF) shall fix the interest rate.[^30-2]
+<sup>3</sup> If a large-scale importer fails to pay the penalty on time, he or she shall owe default interest. The Federal Department of Finance (FDF) shall fix the interest rate.[^26-2]
 
-<sup>4</sup> …[^30-3]
+<sup>4</sup> …[^26-3]
 
-[^30-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^30-2]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^30-3]: Repealed by No I of the O of 24 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^26-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^26-2]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^26-3]: Repealed by No I of the O of 24 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 31
 
@@ -853,20 +854,20 @@ It may invoice large-scale importers for quarterly advance payments for any sanc
 
 - a. the average carbon emissions of a fleet of new vehicles exceed the individual target in the reference year by more than 5g CO<sub>2</sub> / km:
 - b. the large-scale importer is based abroad;
-- c. the large-scale importer is currently subject to debt enforcement proceedings or has existing certificates of loss.[^31-1]
+- c. the large-scale importer is currently subject to debt enforcement proceedings or has existing certificates of loss.[^26a-1]
 
 <sup>3</sup> The SFOE shall calculate the amount of the advance payments on the basis of the data in paragraph 1. Advance payments already made are taken into account in preparing the invoice.
 
-<sup>4</sup> If the payments made exceed the penalty owed for the entire year for the fleet of new vehicles, the SFOE shall refund the difference together with the reimbursement interest thereon.[^31-2]
+<sup>4</sup> If the payments made exceed the penalty owed for the entire year for the fleet of new vehicles, the SFOE shall refund the difference together with the reimbursement interest thereon.[^26a-2]
 
-[^31-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^31-2]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^26a-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^26a-2]: Inserted by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 32 and 33
 
-[^3233-1]
+[^26b-1]
 
-[^3233-1]: Repealed by No I of the O of 24 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^26b-1]: Repealed by No I of the O of 24 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 34
 
@@ -880,20 +881,20 @@ It may invoice large-scale importers for quarterly advance payments for any sanc
 
 #### Art. 35
 
-[^35-1]
+[^27-1]
 
-<sup>1</sup> If the carbon emissions of a small-scale importer's vehicle exceed the individual target, then SFOE shall impose a penalty.[^35-2]
+<sup>1</sup> If the carbon emissions of a small-scale importer's vehicle exceed the individual target, then SFOE shall impose a penalty.[^27-2]
 
-<sup>1bis</sup> The penalty must be paid before the vehicle is placed on the market for the first time.[^35-3]
+<sup>1bis</sup> The penalty must be paid before the vehicle is placed on the market for the first time.[^27-3]
 
 <sup>2</sup> Article 30 paras 2 and 3 apply mutatis mutandis.
 
-<sup>3</sup> Any penalties for vans and light articulated vehicles shall be reduced by 5 per cent in 2022.[^35-4]
+<sup>3</sup> Any penalties for vans and light articulated vehicles shall be reduced by 5 per cent in 2022.[^27-4]
 
-[^35-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^35-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^35-3]: Inserted by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^35-4]: Inserted by No I of the O of 4 May 2022, in force since 1 Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^27-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^27-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^27-3]: Inserted by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^27-4]: Inserted by No I of the O of 4 May 2022, in force since 1 Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Section 6 Reporting and Informing the Public
 
@@ -919,7 +920,7 @@ The SFOE shall inform the public in some suitable form about the targets reached
 
 <sup>2</sup> The proceeds are equal to the penalties levied for the reference year, including default interest and less implementation costs, bad debt losses and reimbursement interest.
 
-[^37-1]: [SR 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^37-1]: [SR 725.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8474)
 [^37-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 #### Art. 38 and 39
@@ -967,7 +968,7 @@ Repealed
 <sup>3</sup> If the greenhouse gas emissions of the installations increase to more than 25,000 tonnes CO<sub>2</sub>eq during a year, then the operator must again participate in the ETS from the beginning of the following year. Emissions from emergency power groups and CHP plants that are caused by a reserve call for electricity production under the Winter Reserve Ordinance are not taken into account here.[^41-4]
 
 [^41-1]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^41-2]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^41-2]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
 [^41-3]: Inserted by Annex No II 1 of the Winter Reserve Ordinance of 25 Jan. 2023, in force from 15 Feb. 2023 to 31 Dec. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 [^41-4]: Amended by Annex No II 1 of the Winter Reserve Ordinance of 25 Jan. 2023, in force from 15 Feb. 2023 to 31 Dec. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
 
@@ -1021,7 +1022,7 @@ The installation operator may request that the following installations are not t
 [^43-2]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^43-3]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^43-4]: Amended by Annex 6 No 2 of the Waste Management Ordinance of 4 Dec. 2015, in force since 1 Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^43-5]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^43-5]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 [^43-6]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 43a
@@ -1157,7 +1158,7 @@ If the portion under paragraph 2 is insufficient to meet claims in full, the emi
 
 <sup>4</sup> The FOEN may request an aircraft operator to designate an address for service in Switzerland.
 
-[^46d-1]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^46d-1]: [SR 748.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9034)
 
 #### Art. 46e
 
@@ -1174,7 +1175,7 @@ If the portion under paragraph 2 is insufficient to meet claims in full, the emi
 [^46e-1]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46e-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 [^46e-3]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^46e-4]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^46e-4]: [SR 0.814.011.268](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3477)
 
 #### Art. 46f
 
@@ -1434,7 +1435,7 @@ On application, the FOEN may, in cases where European emission allowances are no
 <sup>4</sup> If no linking with the European Emissions Trading Registry exists or is likely to exist in the foreseeable future, the European emission allowances must be transferred annually to a Swiss Confederation account in the European Union Emissions Trading Registry.
 
 [^55a-1]: Inserted by No I of the O of 8 Oct. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^55a-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^55a-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3477)
 
 #### Art. 55b–55d
 
@@ -1690,7 +1691,7 @@ The FOEN may, subject to preservation of manufacturing and trade secrecy, electr
 [^65-1]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^65-2]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^65-3]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^65-4]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^65-4]: [SR 0.814.011.268](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3477)
 [^65-5]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^65-6]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^65-7]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
@@ -2016,7 +2017,7 @@ Persons or installation operators are subject to offsetting obligations if:
 
 <sup>2</sup> Carbon emissions from motor fuels that, in accordance with Article 17 of the Mineral Oil Tax Act of 21 June 1996[^86-1], are entirely exempt from mineral oil tax, need not be offset.
 
-[^86-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^86-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 87
 
@@ -2100,14 +2101,15 @@ The following data and documents are managed in a FOEN-administered database for
 
 <sup>1</sup> If an installation operator or person with offsetting obligations does not do so by the deadline, then the FOEN grants an appropriate grace period.
 
-<sup>2</sup> If an installation operator or person with offsetting obligations does not do so within the grace period, then the FOEN rules on a penalty in accordance with Article 28 of the CO<sub>2</sub> Act.
+<sup>2</sup> If an installation operator or person with offsetting obligations does not do so within the grace period, then the FOEN rules on a penalty in accordance with Article 28*e*[^92-1] of the CO<sub>2</sub> Act.
 
-<sup>3</sup> The payment deadline is 30 days from the issue of the ruling. If a payment is late, default interest is charged. The FDF shall fix the rate of interest.[^92-1]
+<sup>3</sup> The payment deadline is 30 days from the issue of the ruling. If a payment is late, default interest is charged. The FDF shall fix the rate of interest.[^92-2]
 
-<sup>4</sup> The deadline for surrendering emission allowances and international attestations is 1 June of the following year.[^92-2]
+<sup>4</sup> The deadline for surrendering emission allowances and international attestations is 1 June of the following year.[^92-3]
 
-[^92-1]: Amended by No I of the O of 4 May 2022, in force since 1 Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^92-2]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^92-1]: The reference was modified on 1 Jan. 2025 in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^92-2]: Amended by No I of the O of 4 May 2022, in force since 1 Jan. 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^92-3]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
 
 ## Chapter 8 CO<sub>2</sub> Levy
 
@@ -2122,7 +2124,7 @@ The production, extraction and import of the following are subject to the CO<sub
 - a. coal;
 - b. other thermal fuels listed in Article 2 paragraph 1 of the CO<sub>2</sub> Act insofar as they are subject to a mineral oil tax under the Mineral Oil Tax Act of 21 June 1996[^93-1].
 
-[^93-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^93-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 94
 
@@ -2244,7 +2246,7 @@ Fossil-thermal power plants are installations that produce either solely electri
 - [tab] <sup>5</sup> If the operator does not submit any verifiable information on the amounts paid, a value of zero francs shall be assumed.[^96b-3]
 
 [^96b-1]: Inserted by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^96b-2]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^96b-2]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 [^96b-3]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 97
@@ -2265,7 +2267,7 @@ It must include:
 <sup>3</sup> The FOCBS may demand further evidence if required for determining the refund. In particular, the invoices for the CO<sub>2</sub> levy paid must be produced if it so requests.[^97-4]
 
 [^97-1]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^97-2]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^97-2]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 [^97-3]: Repealed by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^97-4]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
@@ -2336,7 +2338,7 @@ CHP plant operators that are neither participating in the ETS nor subject to a r
 [^98b-1]: Inserted by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^98b-2]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^98b-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^98b-4]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^98b-4]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^98b-5]: Repealed by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^98b-6]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^98b-7]: Inserted by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
@@ -2360,7 +2362,7 @@ CHP plant operators that are neither participating in the ETS nor subject to a r
 
 <sup>1</sup> Any person who has paid a levy on thermal fuels that were not used as a source of energy and wants to apply for a refund must prove the quantity that was not used as a source of energy. To this end, records (consumption control) must be maintained for the input, output and consumption of the thermal fuels as well as for warehouse stocks.
 
-<sup>1bis</sup> The FOCBS may the refund the levy for thermal fuels not used as a source of energy based on the purchased quantity, provided the applicant’s operating conditions leave no doubt that the use was not related to energy production and the applicant provides the FOCBS with binding confirmation that using the thermal fuels was not related to energy production.[^99-1]
+<sup>1bis</sup> The FOCBS may the refund the levy for thermal fuels not used as a source of energy based on the purchased quantity, provided the applicant’s operating conditions leave no doubt that the use was not related to energy production and the applicant provides the FOCBS with binding confirmation that using the thermal fuels was not related to energy production.[^98d-1]
 
 <sup>2</sup> The refund application must be submitted to the FOCBS in the prescribed form.
 
@@ -2372,10 +2374,10 @@ It must contain information about:
 - b. the quantity and type of thermal fuels that were not used as a source of energy;
 - c. the applicable rate of the CO<sub>2</sub> levy.
 
-<sup>4</sup> The FOCBS may request additional evidence if required for the refund. Invoices for the CO<sub>2</sub> levy paid must be produced if it so requests.[^99-2]
+<sup>4</sup> The FOCBS may request additional evidence if required for the refund. Invoices for the CO<sub>2</sub> levy paid must be produced if it so requests.[^98d-2]
 
-[^99-1]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^99-2]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^98d-1]: Inserted by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^98d-2]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 #### Art. 100
 
@@ -2395,11 +2397,11 @@ All documents relevant to the refund are to be retained for five years and submi
 
 #### Art. 102
 
-**Minimum refund amount**[^102-1]
+**Minimum refund amount**[^101-1]
 
 Refund amounts of less than 100 francs per request will not be paid out.
 
-[^102-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^101-1]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 103
 
@@ -2423,7 +2425,7 @@ If an installation operator or person referred to in Article 96 violates the obl
 
 The Confederation shall grant the cantons global financial assistance in accordance with Article 34 paragraph 1 of the CO<sub>2</sub> Act for the promotion of measures for the long-term reduction of carbon emissions from buildings, including a reduction in power consumption in the winter period if:
 
-- a. the requirements set out in Articles 55–60 of the Energy Ordinance of 1 November 2017[^104-1] (EnO) are met;
+- a. the requirements set out in Articles 55–60 of the Energy Ordinance of 1 November 2017[^103a-1] (EnO) are met;
 - b. the measures effectively reduce carbon emissions, including reducing power consumption in the winter period; and
 - c. the measures are implemented in a harmonised manner throughout the cantons.
 
@@ -2431,12 +2433,12 @@ The Confederation shall grant the cantons global financial assistance in accorda
 
 It shall not grant global financial assistance in particular for measures:
 
-- a.[^104-2] that are implemented in plants whose operator is subject to a reduction obligation under the CO<sub>2</sub> Act or that is participating in the ETS;
+- a.[^103a-2] that are implemented in plants whose operator is subject to a reduction obligation under the CO<sub>2</sub> Act or that is participating in the ETS;
 - b. that are implemented within the framework of agreements with the Confederation in accordance with Article 4 paragraph 3 of the CO<sub>2</sub> Act to achieve the statutory reduction target where no additional emission target is thereby achieved;
 - c. the measures are already supported elsewhere by the Confederation or a private organisation in the climate sector, if no additional emission target is thereby achieved.
 
-[^104-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
-[^104-2]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^103a-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^103a-2]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 105
 
@@ -2447,7 +2449,7 @@ The procedure is governed by Articles 63, 64 and 67 EnO[^105-1], whereby:
 - a. the canton applying for global financial assistance must additionally declare its willingness to implement a programme with measures in accordance with Article 104;
 - b. the SFOE forwards the application to the FOEN for information.
 
-[^105-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^105-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 106
 
@@ -2455,7 +2457,7 @@ The procedure is governed by Articles 63, 64 and 67 EnO[^105-1], whereby:
 
 The canton must use at least 80 per cent the funds resulting from the Confederation’s global financial assistance and the loans provided by the canton for the relevant programme for energy and waste heat measures in accordance with Article 50 EnA[^106-1].
 
-[^106-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^106-1]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 107
 
@@ -2489,7 +2491,7 @@ Global financial assistance is paid annually to the cantons.
 
 <sup>3</sup> The SFOE shall forward the report to the FOEN for information purposes.
 
-[^110-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^110-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 111
 
@@ -2497,7 +2499,7 @@ Global financial assistance is paid annually to the cantons.
 
 Control of the correct use of the global financial assistance is governed by Article 60 EnO[^111-1].
 
-[^111-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^111-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 111a
 
@@ -2511,21 +2513,21 @@ Repealed
 
 #### Art. 112
 
-**Projects eligible for assistance**[^112-1]
+**Projects eligible for assistance**[^104-1]
 
 <sup>1</sup> For projects involving the direct use of geothermal energy to provide heat (Art. 34 para. 2 CO<sub>2</sub> Act), assistance may be granted for prospecting and developing geothermal reservoirs if the projects meet the requirements of Annex 12.
 
 <sup>2</sup> Assistance shall not exceed 60 per cent of the eligible investment costs of the project as set out in Annex 12.
 
-[^112-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^104-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 #### Art. 113
 
-**Application**[^113-1]
+**Application**[^105-2]
 
 <sup>1</sup> Applications for financial assistance must be submitted the SFOE.
 
-<sup>2</sup> Applications for support for prospecting must meet the requirements of Annex 12 number 3.1, and applications for support for developing must meet the requirements of Annex 12 numbers 4.1 and 4.2. The applications must include evidence that the applications for the authorisations and licences required for the project have been submitted in full to the competent authorities and that the financing of the project has been secured.[^113-2]
+<sup>2</sup> Applications for support for prospecting must meet the requirements of Annex 12 number 3.1, and applications for support for developing must meet the requirements of Annex 12 numbers 4.1 and 4.2. The applications must include evidence that the applications for the authorisations and licences required for the project have been submitted in full to the competent authorities and that the financing of the project has been secured.[^105-3]
 
 <sup>3</sup> The SFOE will consult a panel of up to six experts, independent of the project, to examine applications. In addition, the canton concerned may appoint a representative to the expert panel.
 
@@ -2533,24 +2535,24 @@ Repealed
 
 <sup>5</sup> If the conditions for granting financial assistance are met, the Confederation shall conclude an administrative contract with the applicant. In particular, it shall specify the conditions for reclaiming the financial assistance in accordance with Article 113*b*.
 
-[^113-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^113-2]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^105-2]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^105-3]: Amended by No I of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
 
 #### Art. 113a
 
-**Order of consideration**[^113a-1]
+**Order of consideration**[^106-2]
 
 <sup>1</sup> If no funds or insufficient funds are available for a project, the SFOE shall place the project on a waiting list unless it clearly does not meet the eligibility criteria. The SFOE shall inform the applicant accordingly.
 
 <sup>2</sup> When funds are again available, the SFOE shall take the most advanced projects into account. If several projects are equally advanced, the project for which the application was submitted in full earliest will be considered.
 
-[^113a-1]: Inserted by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^106-2]: Inserted by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 #### Art. 113b
 
-**Reclaiming financial assistance**[^113b-1]
+**Reclaiming financial assistance**[^107-1]
 
-<sup>1</sup> Articles 28–30 of the Subsidies Act of 5 October 1990[^113b-2] (SubA) apply mutatis mutandis to reclaiming financial assistance. Financial assistance can also be reclaimed if the operations of the plant generate profits that subsequently make the financial assistance appear unnecessary.
+<sup>1</sup> Articles 28–30 of the Subsidies Act of 5 October 1990[^107-2] (SubA) apply mutatis mutandis to reclaiming financial assistance. Financial assistance can also be reclaimed if the operations of the plant generate profits that subsequently make the financial assistance appear unnecessary.
 
 <sup>2</sup> If the project is used for other purposes and a profit is made, the SFOE may demand a pro rata or full repayment of the financial assistance paid out.
 
@@ -2562,8 +2564,8 @@ The SFOE must be informed of any other use or sale regarding:
 - b. ownership and sponsorship;
 - c. profits and their amount.
 
-[^113b-1]: Inserted by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^113b-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^107-1]: Inserted by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^107-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ### Section 2 Promotion of Technologies for the Reduction of Greenhouse Gas Emissions
 
@@ -2579,11 +2581,11 @@ The Confederation guarantees loans for equipment and processes in accordance wit
 - b. the borrower can credibly demonstrate creditworthiness; and
 - c. the lender takes the guarantee into account in determining the interest on the loan.
 
-<sup>2</sup> It only guarantees loans granted by a bank in accordance with the Federal Act of 8 November 1934[^114-1] on Banks and Savings Banks or another appropriate lender.
+<sup>2</sup> It only guarantees loans granted by a bank in accordance with the Federal Act of 8 November 1934[^112-1] on Banks and Savings Banks or another appropriate lender.
 
 <sup>3</sup> The guarantee may secure all or part of the loan but may not exceed three million francs.
 
-[^114-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^112-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
 #### Art. 115
 
@@ -2602,9 +2604,9 @@ The application for granting the guarantee must include:
 
 <sup>3</sup> The FOEN may request additional information if it is required for assessing the application.
 
-<sup>4</sup> It may require collateral to secure the guarantee in well-founded cases.[^115-1]
+<sup>4</sup> It may require collateral to secure the guarantee in well-founded cases.[^113-1]
 
-[^115-1]: Inserted by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^113-1]: Inserted by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 
 #### Art. 116
 
@@ -2619,22 +2621,22 @@ A borrower who has received a loan guarantee must inform the FOEN without delay 
 
 <sup>2</sup>
 
-It must submit a report every quarter to the FOEN on:[^116-1]
+It must submit a report every quarter to the FOEN on:[^113a-1]
 
 - a. the status of the guaranteed loans;
-- b.[^116-2] the course of business and its expected development; and
-- c.[^116-3] the liquidity and financial structure.
+- b.[^113a-2] the course of business and its expected development; and
+- c.[^113a-3] the liquidity and financial structure.
 
-<sup>3</sup> It provides the business report, balance sheet and statement of financial performance to the FOEN annually. These must be submitted no later than three months following their completion.[^116-4]
+<sup>3</sup> It provides the business report, balance sheet and statement of financial performance to the FOEN annually. These must be submitted no later than three months following their completion.[^113a-4]
 
-[^116-1]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^116-2]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^116-3]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^116-4]: Inserted by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^113a-1]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^113a-2]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^113a-3]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^113a-4]: Inserted by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
 
 #### Art. 117
 
-**Implementation**[^117-1]
+**Implementation**[^113b-1]
 
 <sup>1</sup> DETEC appoints a steering committee to administer the technology fund and by means of an administrative contract, a guarantee committee and an administrative office. It determines the principles for awarding guarantees and for the organisation.
 
@@ -2644,11 +2646,11 @@ It must submit a report every quarter to the FOEN on:[^116-1]
 
 <sup>4</sup> The administrative office manages the technology fund’s operations. It is responsible in particular for the assessment of guarantee requests, administration of the guarantees and the processing of guarantee cases as well as control of the reporting under Article 116. It submits a report on the technology fund’s activities and financial situation to the steering committee.
 
-<sup>5</sup> The administrative office invoices guarantee holders for fees for the evaluation of guarantee requests and carrying out controls on guarantee holders for the term of the guarantee. The fee for the evaluation of the guarantee request is calculated using a flat rate and is based on number 9 of the Annex to the Ordinance on the Fees charged by the Federal Office for the Environment of 3 June 2005[^117-2] (FeeO-FOEN). The annual guarantee fee is calculated according to costs (Art. 4 FeeO-FOEN); it amounts to no more than 0.9 per cent of the guarantee amount per year.[^117-3]
+<sup>5</sup> The administrative office invoices guarantee holders for fees for the evaluation of guarantee requests and carrying out controls on guarantee holders for the term of the guarantee. The fee for the evaluation of the guarantee request is calculated using a flat rate and is based on number 9 of the Annex to the Ordinance on the Fees charged by the Federal Office for the Environment of 3 June 2005[^113b-2] (FeeO-FOEN). The annual guarantee fee is calculated according to costs (Art. 4 FeeO-FOEN); it amounts to no more than 0.9 per cent of the guarantee amount per year.[^113b-3]
 
-[^117-1]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^117-2]: [SR 814.014](https://fedlex.data.admin.ch/eli/cc/2005/449)
-[^117-3]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^113b-1]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^113b-2]: [SR 814.014](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9451)
+[^113b-3]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 118
 
@@ -2666,24 +2668,24 @@ It must submit a report every quarter to the FOEN on:[^116-1]
 
 **Portion of the revenue for the public**
 
-<sup>1</sup> The portion of the levy revenue for the public includes the portion of the collection year’s estimated annual revenue for the public and the difference from the amount estimated two years earlier and the public’s share of the funds not used two years earlier in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act.[^119-1]
+<sup>1</sup> The portion of the levy revenue for the public includes the portion of the collection year’s estimated annual revenue for the public and the difference from the amount estimated two years earlier and the public’s share of the funds not used two years earlier in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act.[^114-1]
 
 <sup>2</sup> The estimated annual revenue equals the anticipated receipts plus positive or minus negative interest as of 31 December.
 
-[^119-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^114-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 #### Art. 120
 
 **Distribution**
 
-<sup>1</sup> The portion of the revenue for the public is distributed by insurers in each collection year on behalf of, and under the supervision of, the FOEN. The difference between estimated and actual annual revenues and the public’s share of the unused funds in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act are balanced in the distribution two years later.[^120-1]
+<sup>1</sup> The portion of the revenue for the public is distributed by insurers in each collection year on behalf of, and under the supervision of, the FOEN. The difference between estimated and actual annual revenues and the public’s share of the unused funds in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act are balanced in the distribution two years later.[^115-1]
 
 <sup>2</sup>
 
 The following are deemed insurers:
 
-- a. providers of mandatory health insurance under the Federal Act of 18 March 1994[^120-2] on Health Insurance (HInsA);
-- b. providers of military insurance under the Federal Act of 19 June 1992[^120-3] on Military Insurance (MilIA).
+- a. providers of mandatory health insurance under the Federal Act of 18 March 1994[^115-2] on Health Insurance (HInsA);
+- b. providers of military insurance under the Federal Act of 19 June 1992[^115-3] on Military Insurance (MilIA).
 
 <sup>3</sup>
 
@@ -2696,9 +2698,9 @@ Insurers distribute the portion of the revenue to the public in even payments to
 
 <sup>5</sup> The insurers settle the amounts by deducting the distributions from the premiums due in the collection year.
 
-[^120-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^120-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^120-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^115-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^115-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^115-3]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 121
 
@@ -2721,17 +2723,17 @@ Each insurer shall notify the Federal Office of Public Health (FOPH) by 20 March
 - a. the number of persons it has insured who, as of 1 January of the collection year, meet the requirements of Article 120 paragraph 3;
 - b. the sum of its actual distributions in the previous year.
 
-<sup>2</sup> Insurers shall inform the insured persons regarding the amounts to be distributed when they inform them of new premiums for the collection year. In addition they must provide the insured persons with a factsheet prepared by the FOEN on the procedure for redistribution.[^122-1]
+<sup>2</sup> Insurers shall inform the insured persons regarding the amounts to be distributed when they inform them of new premiums for the collection year. In addition they must provide the insured persons with a factsheet prepared by the FOEN on the procedure for redistribution.[^117-1]
 
-[^122-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^117-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 123
 
 **Offsetting the insurers**
 
-For the expenses for implementation of this Ordinance as well as the Ordinance of 12 November 1997[^123-1] on the Incentive Tax on Volatile Organic Compounds, insurers shall be compensated a total of 30 cents per insured person who, as of 1 January of the collection year, meets the requirements of Article 120 paragraph 3.
+For the expenses for implementation of this Ordinance as well as the Ordinance of 12 November 1997[^118-1] on the Incentive Tax on Volatile Organic Compounds, insurers shall be compensated a total of 30 cents per insured person who, as of 1 January of the collection year, meets the requirements of Article 120 paragraph 3.
 
-[^123-1]: [SR 814.018](https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972)
+[^118-1]: [SR 814.018](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9456)
 
 ### Section 4 Distribution to the Private Sector
 
@@ -2739,30 +2741,30 @@ For the expenses for implementation of this Ordinance as well as the Ordinance o
 
 **Portion of the revenue for the business community**
 
-<sup>1</sup> The portion of the levy revenue for the business community (portion of the revenue for the business community) includes the portion of the collection year’s estimated annual revenue for the business community and the difference from the amount estimated two years earlier and the amount of unused funds in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act minus the public’s share of the funds not used two years earlier in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act.[^124-1]
+<sup>1</sup> The portion of the levy revenue for the business community (portion of the revenue for the business community) includes the portion of the collection year’s estimated annual revenue for the business community and the difference from the amount estimated two years earlier and the amount of unused funds in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act minus the public’s share of the funds not used two years earlier in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act.[^119-1]
 
 <sup>2</sup> The estimated annual revenue equals the anticipated receipts plus positive or minus negative interest as of 31 December.
 
-[^124-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^119-1]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 
 #### Art. 125
 
 **Distribution**
 
-<sup>1</sup> The portion of the revenue for the business community is distributed to employers in accordance with the directives of the Federal Social Insurance Office by the OASI compensation offices (compensation offices) in each collection year on behalf of and under the supervision of the FOEN and with the involvement of the Central Compensation Office. The difference between estimated and actual annual revenues and the public’s share of the unused funds in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act are balanced in the distribution two years later.[^125-1]
+<sup>1</sup> The portion of the revenue for the business community is distributed to employers in accordance with the directives of the Federal Social Insurance Office by the OASI compensation offices (compensation offices) in each collection year on behalf of and under the supervision of the FOEN and with the involvement of the Central Compensation Office. The difference between estimated and actual annual revenues and the public’s share of the unused funds in accordance with Article 34 paragraph 4 of the CO<sub>2</sub> Act are balanced in the distribution two years later.[^120-1]
 
-<sup>2</sup> The compensation offices shall distribute the portion of the revenue for the business community by 30 September of the collection year. If justified, these deadlines may be appropriately extended by the FOEN on application.[^125-2]
+<sup>2</sup> The compensation offices shall distribute the portion of the revenue for the business community by 30 September of the collection year. If justified, these deadlines may be appropriately extended by the FOEN on application.[^120-2]
 
 <sup>3</sup> They distribute the portion of the revenue for the business community in proportion to the employees’ qualifying salary for OASI two years before the collection year. Salaries subsequently corrected due to employer reviews will not be taken into account.
 
-<sup>4</sup> The compensation offices distribute the portion of the revenue for the business community by offsetting them against employers’ contributions due in the collection year or by a pay-out to employers. Amounts of 50 francs or more that cannot be offset will be paid out. In the event of changes being made, amounts of 50 francs or more will be offset or paid out.[^125-3]
+<sup>4</sup> The compensation offices distribute the portion of the revenue for the business community by offsetting them against employers’ contributions due in the collection year or by a pay-out to employers. Amounts of 50 francs or more that cannot be offset will be paid out. In the event of changes being made, amounts of 50 francs or more will be offset or paid out.[^120-3]
 
-<sup>5</sup> The auditors for the compensation offices shall review the distribution of the portion of the revenue for the business community in the final audit and submit a report thereon to the FOEN in accordance with the directives issued by the Federal Social Insurance Office.[^125-4]
+<sup>5</sup> The auditors for the compensation offices shall review the distribution of the portion of the revenue for the business community in the final audit and submit a report thereon to the FOEN in accordance with the directives issued by the Federal Social Insurance Office.[^120-4]
 
-[^125-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^125-2]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
-[^125-3]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^125-4]: Inserted by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^120-1]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^120-2]: Amended by No I of the O of 1 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
+[^120-3]: Amended by No I of the O of 8 Oct. 2014, in force since 1 Dec. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^120-4]: Inserted by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 126
 
@@ -2790,7 +2792,7 @@ For the expenses for implementation of this Ordinance as well as the Ordinance o
 
 <sup>2</sup> Within the scope of authorised financial assistance, the FOEN shall provide grants to public and private organisations that offer basic and advanced training in the field of climate protection and coping with the consequences of increased greenhouse gas concentrations in the atmosphere.
 
-[^128-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^128-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 129
 
@@ -2936,7 +2938,7 @@ The data collected for implementation of this Ordinance shall be made available 
 [^134-4]: Amended by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^134-5]: Inserted by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^134-6]: Amended by Annex No 1 of the O of 23 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^134-7]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^134-7]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 [^134-8]: Inserted by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 134a
@@ -2946,7 +2948,7 @@ The data collected for implementation of this Ordinance shall be made available 
 The FOEN shall support the European Commission in accordance with Article 11 of the ETS Agreement.[^134a-2] In particular it shall transmit to it the information required for this purpose.
 
 [^134a-1]: Inserted by No I of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^134a-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^134a-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3477)
 
 #### Art. 135
 
@@ -2986,7 +2988,7 @@ DETEC shall amend:
 DETEC may approve technical and administrative decisions of minor importance of the ETS Agreement’s[^135a-2] Joint Committee.
 
 [^135a-1]: Inserted by No I of the O of 13 Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Amended by No I of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581))
-[^135a-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^135a-2]: [SR 0.814.011.268](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3477)
 
 ## Chapter 12 Final Provisions
 
@@ -3154,7 +3156,7 @@ Emission-reduction certificates under Article 60 paragraph 3 that are entered in
 
 <sup>3</sup> Expired emission-reduction certificates will be cancelled.
 
-[^146b-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^146b-1]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 ### Section 2*b* Transitional Provisions
 
@@ -3278,7 +3280,7 @@ Emission reductions achieved outside Switzerland up to 2021 may be counted if:
 - a. they are attested to by an emission-reduction certificate under the United Nations Framework Convention on Climate Change (UNFCCC) of 9 May 1992[^146l-1]; and
 - b. Annex 2 does not preclude their being counted.
 
-[^146l-1]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^146l-1]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
 
 #### Art. 146m
 
@@ -3385,7 +3387,7 @@ The request to disregard carbon emissions in accordance with paragraph 1 must be
 
 Emissions caused by a reserve call for electricity production under the Winter Reserve Ordinance of 25 January 2023[^146w-1] shall not be taken into account before 2024 when assessing whether or not the reduction obligation has been met.
 
-[^146w-1]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^146w-1]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
 
 ### Section 2*g* Transitional Provisions to the Amendment of 29 September 2023
 
@@ -3407,7 +3409,7 @@ In the case of imported vehicles in respect of which a customs declaration has b
 
 <sup>2</sup> The emission allowances that have not been allocated free of charge for 2020–2023 based on Article 46*f* shall be cancelled.
 
-[^146y-1]: [SR 0.814.011.268](https://fedlex.data.admin.ch/eli/cc/2018/124)
+[^146y-1]: [SR 0.814.011.268](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3477)
 
 ### Section 3 Commencement
 
@@ -3501,7 +3503,7 @@ Annex 2[^t-2]
 - a. emission reduction certificates from projects that have been registered before 1 January 2013 in accordance with Article 12 of the Kyoto Protocol of 11 December 1997[^annex2a-lvlu1-1];
 - b. emission reduction certificates for emission reductions achieved before 1 January 2013 from projects in accordance with Article 6 of the Kyoto Protocol of 11 December 1997.
 
-[^annex2a-lvlu1-1]: [SR 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
+[^annex2a-lvlu1-1]: [SR 0.814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3476)
 
 Annex 2a[^t-3]
 
@@ -3560,11 +3562,11 @@ No attestations are issued for a domestic emission-reduction project or programm
 
 - i. using ad- and absorption technologies to produce cold or heat, with the exception of the decentralised use of sufficiently available waste heat in accordance with Article 2 letter e of the Energy Promotion Ordinance of 1 November 2017[^annex3a-lvlu1-5].
 
-[^annex3a-lvlu1-1]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^annex3a-lvlu1-2]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
-[^annex3a-lvlu1-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^annex3a-lvlu1-4]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^annex3a-lvlu1-5]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^annex3a-lvlu1-1]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
+[^annex3a-lvlu1-2]: [SR 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
+[^annex3a-lvlu1-3]: [SR 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
+[^annex3a-lvlu1-4]: [SR 916.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10645)
+[^annex3a-lvlu1-5]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 
 Annex 3a[^t-5]
 
@@ -3586,7 +3588,7 @@ This Annex applies to projects and programmes if they involve:
 
 In this Annex:
 
-- a. *local heating network* means a network to distribute heat with centralised heat sources and decentralised consumers;
+- *local heating network* means a network to distribute heat with centralised heat sources and decentralised consumers;
 - b. *new consumers* means heat consumers who connect to a new or existing local heating network after the start of project implementation (Art. 5 para. 3);
 - c. *existing consumers* means heat consumers that were already connected to an existing local heating network before the start of implementation of the project;
 - d. *new buildings* means buildings that are under construction at the time of connection to the local heating network and which are not existing consumers.
@@ -3718,7 +3720,7 @@ When measuring the heat supplied (W<sub>new,1,y</sub>) (W<sub>existing,l,y</sub>
 - e. quality assurance must meet the requirements of the Measuring Instruments Ordinance of 15 February 2006[^annex3b-lvlu1-lvl4-lvl42-1] (MIO) and the related implementing provisions issued by the Federal Department of Justice and Police (FDJP); and
 - f. the point of transfer to the heat consumer must be used as the measuring point.
 
-[^annex3b-lvlu1-lvl4-lvl42-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^annex3b-lvlu1-lvl4-lvl42-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 ### 4.3 Age of the centralised fossil heat source to be replaced
 
@@ -3760,8 +3762,6 @@ When measuring electrical energy (M<sub>el,y</sub>), all the following requireme
 
 \2. This value shall be specified each year in the monitoring report as the emission allowances issued to the operator of the installations in the emissions trading system.
 
-- [tab]
-
 Annex 3b[^t-6]
 
 (Art. 6 para. 3[^t-7])
@@ -3769,7 +3769,7 @@ Annex 3b[^t-6]
 ## Requirements for calculating the reduction in emissions and for the monitoring concept for landfill gas projects and programmes
 
 [^t-6]: Inserted by No II para. 1 of the O of 21 Sept. 2018 ([AS 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Revised by No II para. 1 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Correction of 10 Nov. 2023 ([AS 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)).
-[^t-7]: The reference was amended in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^t-7]: The reference was amended in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ### 1 Scope of application
 
@@ -3807,7 +3807,7 @@ In this Annex:
 
 For determining the value of the oxidation factor parameter (OX) required to calculate the emission reductions, the following decision tree must be used:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20240101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250101/en/xml/image/image1.png)
 
 ### 3.3 Ex-ante calculation of methane reduction
 
@@ -3939,78 +3939,88 @@ Annex 4[^t-8]
 
 ## Calculation of carbon emissions from vehicles lacking the information listed in Article 25 paragraph 2
 
-[^t-8]: Amended by No II para. 2 of the O of 25 Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)). Revised by No II para. 1 of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-8]: Amended by No I para. 1 of the O of 20 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 705](https://fedlex.data.admin.ch/eli/oc/2024/705)).
 
-### 1 Calculation of carbon emissions from cars
+### 1 Key
 
-- 1\.1
+-
 
-  Petrol engine and manual transmission:
+  The following abbreviations are used in the formulas below:
 
-  - [tab] CO<sub>2</sub> = 0.045 m + 0.345 p + 59.490
-
-- 1\.2
-
-  Petrol engine and automatic transmission:
-
-  - [tab] CO<sub>2</sub> = 0.069 m + 0.234 p + 36.506
-
-- 1\.3
-
-  Petrol engine and hybrid electric drive:
-
-  - [tab] CO<sub>2</sub> = 0.046 m + 0.324 p + 38.999
-
-- 1\.4
-
-  Diesel engine and manual transmission:
-
-  - [tab] CO<sub>2</sub> = 0.100 m + 0.048 p – 16.230
-
-- 1\.5
-
-  Diesel engine and automatic transmission:
-
-  - [tab] CO<sub>2</sub> = 0.083 m + 0.045 p + 15.290
-
-- 1\.6
-
-  Diesel engine and hybrid-electrical-drive system:
-
-  - [tab] CO<sub>2</sub> = 0,085 m + 6,157
-
-- 1\.7
-
-  Plug-in-Hybrid-electrical-drive system:
-
-  - [tab] CO<sub>2</sub> = 0,027 m + 3,730
-
-- 1\.8. The carbon emissions of cars with internal combustion engines that are powered neither by petrol nor diesel are calculated using the corresponding equations for petrol-powered vehicles, depending on the transmission system used.
-- 1\.9 In the case of cars driven solely by electricity and cars with a fuel-cell drive system, a carbon emission value of 0 g/km applies.
-- CO<sub>2</sub>: carbon emissions (combined) in g/km
-- m: unladen weight of the vehicle in kg
-- p: maximum engine power in kW
-
-### 2 Calculation of the carbon emissions of vans and light articulated vehicles
-
-- 2\.1
-
-  Diesel engine and manual transmission:
-
-  - [tab] CO<sub>2</sub> = 0,101 m + 0,505 p – 39.981
-
-- 2\.2
-
-  Diesel engine and automatic transmission:
-
-  - [tab] CO<sub>2</sub> = 0,108 m – 11,462
   - CO<sub>2</sub>: carbon emissions (combined) in g/km
   - m: unladen weight of the vehicle in kg
   - p: maximum engine power in kW
 
-- 2\.3 The carbon emissions of vans and light articulated vehicles not covered by numbers 2.1 or 2.2 are calculated using the corresponding equations for cars in accordance with Number 1.
+### 2 Calculation of carbon emissions from cars
 
-### 3 Rounding of the carbon emissions
+- 2\.1
+
+  Petrol engine and manual transmission:
+
+  - [tab] CO<sub>2</sub> = 0.050 m + 0.371 p + 37.751
+
+- 2\.2
+
+  Petrol engine and automatic transmission:
+
+  - [tab] CO<sub>2</sub> = 0.077 m + 0.226 p + 14.107
+
+- 2\.3
+
+  Petrol engine and hybrid electric drive:
+
+  - [tab] CO<sub>2</sub> = 0.025 m + 0.392 p + 53.679
+
+- 2\.4
+
+  Diesel engine and manual transmission:
+
+  - [tab] CO<sub>2</sub> = 0.086 m + 0.160 p – 19.698
+
+- 2\.5
+
+  Diesel engine and automatic transmission:
+
+  - [tab] CO<sub>2</sub> = 0.093 m + 0.089 p + 21.938
+
+- 2\.6
+
+  Diesel engine and hybrid-electrical-drive system:
+
+  - [tab] CO<sub>2</sub> = 0.072 m + 0.170 p – 18.692
+
+- 2\.7
+
+  Plug-in-Hybrid-electrical-drive system:
+
+  - [tab] CO<sub>2</sub> = 0.025 m + 0.205 p + 56.308
+
+- 2\.8. The carbon emissions of cars with internal combustion engines that are powered neither by petrol nor diesel are calculated using the corresponding equations for petrol-powered vehicles, depending on the transmission system used.
+- 2\.9 In the case of cars driven solely by electricity and cars with a fuel-cell drive system, a carbon emission value of 0 g/km applies.
+
+### 3 Calculation of the carbon emissions of vans and light articulated vehicles
+
+- 3\.1
+
+  Diesel engine and manual transmission:
+
+  - [tab] CO<sub>2</sub> = 0.133 m + 0.512 p – 113.494
+
+- 3\.2
+
+  Diesel engine and automatic transmission:
+
+  - [tab] CO<sub>2</sub> = 0.133 m – 61.014
+
+- 3\.3
+
+  Petrol engine:
+
+  - [tab] CO<sub>2</sub> = 0.017 m + 0.954 p + 61.697
+
+- 3\.4 The carbon emissions of vans and light articulated vehicles not covered by numbers 3.1, 3.2 or 3.3 are calculated using the corresponding equations for cars in accordance with Number 2.
+
+### 4 Rounding of the carbon emissions
 
 The carbon emissions are rounded to the first digit following the decimal point as follows:
 
@@ -4023,7 +4033,7 @@ Annex 4a[^t-9]
 
 ## Calculation of the individual target
 
-[^t-9]: Inserted by No II para. 3 of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), No II para. 1 of the O of 25 Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) and No I of the DETEC Ordinance of 23 Nov. 2022 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)) and No II para. 1 of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-9]: Inserted by No II para. 3 of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), No II para. 1 of the O of 25 Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), No I of the DETEC Ordinance of 23 Nov. 2022 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)), No II para. 1 of the O of 29 Sept. 2023 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)) and No I para. 2 of the O of 20 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 705](https://fedlex.data.admin.ch/eli/oc/2024/705)).
 
 ### 1 Calculation of the individual target for small-scale importers and manufacturers
 
@@ -4056,7 +4066,8 @@ Annex 4a[^t-9]
   - e. 2019: 1636 kg;
   - f. 2020: 1674 kg;
   - g. 2021: 1693 kg;
-  - h. 2022: 1727 kg.
+  - h. 2022: 1727 kg;
+  - i. 2023: 1767 kg.
 
 ### 2.2 Vans and light articulated vehicles
 
@@ -4068,7 +4079,8 @@ Annex 4a[^t-9]
   - b. 2019: 2067 kg;
   - c. 2020: 2089 kg;
   - d. 2021: 2094 kg;
-  - e. 2022: 2117 kg.
+  - e. 2022: 2117 kg;
+  - f. 2023: 2110 kg.
 
 Annex 5[^t-10]
 
@@ -4076,37 +4088,18 @@ Annex 5[^t-10]
 
 ## Sanction amounts for exceeding individual targets (Art. 13 para. 1 of the CO<sub>2</sub> Act)
 
-[^t-10]: Amended by No I para. 2 of the DETEC Ordinance of 21 Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), No II para. 1 of the O of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) and No I of the DETEC Ordinance of 23 Nov. 2022 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)) and No II para. 1 of the O of 29 Sept. 2023, in force since 1 Jan. 2024 ([AS 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-10]: Amended by No I para. 1 of the O of 20 Nov. 2024, in force since 1 Jan. 2025 ([AS 2024 705](https://fedlex.data.admin.ch/eli/oc/2024/705)).
 
-### 1 Sanction amounts for the reference year 2017
+### 1 Sanction amounts for cars, vans and light articulated vehicles
 
-The sanction amounts to be paid if the individual target is exceeded for the reference year 2017:
+For each gram of CO<sub>2</sub> per kilometre (from 0.1 gram) above the individual target, the sanction amounts to be paid if the individual target is exceeded are as follows:
 
-- a. for the first gram of CO<sub>2</sub>/km (from 0.1 gram up to and including 1 gram) above the individual target: CHF 5.50;
-- b. for the second gram of CO<sub>2</sub>/km (from 1.1 gram up to and including 2 grams) above the individual target: CHF 16.50;
-- c. for the third gram of CO<sub>2</sub>/km (from 2.1 grams up to and including 3 grams) above the individual target: CHF 27.50;
-- d. for every additional gram of CO<sub>2</sub>/km (from 3.1 grams) above the individual target: CHF 104.50.
+- a. for the reference year 2024: CHF 95;
+- b. for the reference year 2025: CHF 95.
 
-### 2 Sanction amounts for the reference year 2018
+### 2 Sanction amounts for heavy-duty vehicles
 
-The sanction amounts to be paid if the individual target is exceeded for the reference year 2018:
-
-- a. for the first gram of CO<sub>2</sub>/km (from 0.1 gram up to and including 1 gram) above the individual target: CHF 5.50;
-- b. for the second gram of CO<sub>2</sub>/km (from 1.1 gram up to and including 2 grams) above the individual target: CHF 16.50;
-- c. for the third gram of CO<sub>2</sub>/km (from 2.1 grams up to and including 3 grams) above the individual target: CHF 27.50;
-- d. for every additional gram of CO<sub>2</sub>/km (from 3.1 grams) above the individual target: CHF 103.50.
-
-### 3 Sanction amounts for the reference years 2019 and subsequent
-
-The sanction amounts to be paid if the individual target is exceeded amount for each gram of CO<sub>2</sub>/km (from 0.1 grams):
-
-- a. for the reference year 2019: CHF 111.00;
-- b. for the reference year 2020: CHF 109.00;
-- c. for the reference year 2021: CHF 103.50;
-- d. for the reference year 2022: CHF 104;
-- e. for the reference year 2023: CHF 101;
-- f. for the reference year 2024: CHF 95.
-- [tab]
+For each gram of CO<sub>2</sub> per tonne kilometre (from 0.01 gram) above the individual target, the sanction amount to be paid if the individual target is exceeded for the reference year 2025 is CHF 4250.
 
 Annex 6[^t-11]
 
@@ -4118,7 +4111,7 @@ Annex 6[^t-11]
 
 An installation operator that engages in at least one of the following activities must participate in the ETS:
 
-- 1\. combustion of fossil-fuel or partial fossil-fuel fuels with a total rated thermal input of over 20 MW; excluded is the combustion of fossil-fuel or partial fossil-fuel fuels in installations whose main function is the disposal of municipal waste in accordance with Article 3 letter a of the ADWO[^annex7-lvlu1-1];
+- 1\. combustion of fossil-fuel or partial fossil-fuel fuels with a total rated thermal input of over 20 MW; excluded is the combustion of fossil-fuel or partial fossil-fuel fuels in installations whose main function is the disposal of municipal waste in accordance with Article 3 letter a of the ADWO[^annex5-lvlu1-1];
 - 2\. refining of mineral oil;
 - 3\. production of coke;
 - 4\. roasting or sintering, including palletisation, of metal ore, including sulphide ore;
@@ -4127,8 +4120,8 @@ An installation operator that engages in at least one of the following activitie
 - 7\. production of primary aluminium;
 - 8\. production of secondary aluminium in which combustion units with a total rated thermal input of over 20 MW are operated;
 - 9\. production or processing of non-ferrous metals, including production of alloys, refining, foundry casting, etc., in which combustion units with a total rated thermal input, including the thermal fuels used as reducing agents, of over 20 MW are operated;
-- 10\. production of cement clinker in rotary kilns with an production capacity of over 500 tonnes per day or in other furnaces with a production capacity of over 50 tonnes per day;
-- 11\. production of lime or calcination of dolomite or magnesite in rotary kilns or in other furnaces with an production capacity of over 50 tonnes per day;
+- 10\. production of cement clinker in rotary kilns with a production capacity of over 500 tonnes per day or in other furnaces with a production capacity of over 50 tonnes per day;
+- 11\. production of lime or calcination of dolomite or magnesite in rotary kilns or in other furnaces with a production capacity of over 50 tonnes per day;
 - 12\. manufacture of glass including glass fibre with a melting capacity of over 20 tonnes per day;
 - 13\. manufacture of ceramic products by firing, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain, with a production capacity of over 75 tonnes per day;
 - 14\. manufacture of mineral wool insulation material using glass, rock or slag with a melting capacity of over 20 tonnes per day;
@@ -4145,7 +4138,7 @@ An installation operator that engages in at least one of the following activitie
 - 25\. production of soda ash (Na<sub>2</sub>CO<sub>3</sub>) and sodium bicarbonate (NaHCO<sub>3</sub>);
 - 26\. production of niacin.
 
-[^annex7-lvlu1-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex5-lvlu1-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 Annex 7[^t-12]
 
@@ -4294,9 +4287,9 @@ Annex 9[^t-14]
 - 1\.5 For using gases that come from processes and contain a high proportion of partially oxidised carbon (residual gas), there is an additional free-of-charge allocation to compensate for higher carbon emissions and lower efficiency in using residual gases in comparison with natural gas. This allocation is only made if the residual gas is created outside of a sub-installation with product benchmark and is used within the installation in the ETS to generate measurable or non-measurable heat or for the production of electricity.
 - 1\.6 No emission allowances are allocated free of charge for heat resulting from the manufacture of nitric acid.
 - 1\.7 If heat used within a sub-installation with product benchmark is imported from third parties outside the ETS, if the heat originates from the manufacture of nitric acid or if it is generated from electricity or by using nuclear energy, the quantity of emission allowances to be allocated free of charge that is calculated according to the product benchmark shall be reduced by this quantity of heat multiplied by the heat benchmark of 47.3 emission allowances per TJ.
-- 1\.8 In the case of installations whose main purpose is to dispose of special waste in accordance with Article 3 letter c ADWO[^annex10-lvlu1-lvl1-1], the quantity of emission allowances to be allocated annually free of charge of shall be calculated in accordance with number 1.3 for the support fuels used and in accordance with number 1.4 for the emissions from the combustion of the special waste.
+- 1\.8 In the case of installations whose main purpose is to dispose of special waste in accordance with Article 3 letter c ADWO[^annex8-lvlu1-lvl1-1], the quantity of emission allowances to be allocated annually free of charge of shall be calculated in accordance with number 1.3 for the support fuels used and in accordance with number 1.4 for the emissions from the combustion of the special waste.
 
-[^annex10-lvlu1-lvl1-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex8-lvlu1-lvl1-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 2 General calculation of the quantity of emission allowances to be allocated free of charge
 
@@ -4315,7 +4308,7 @@ Annex 9[^t-14]
 
 - 3\.1
 
-  For sectors and subsectors that are not listed in the Annex to Decision 2019/708/EU[^annex10-lvlu1-lvl3-1], the quantities calculated in accordance with numbers 2 and 4 are multiplied by the following adaptation factors:
+  For sectors and subsectors that are not listed in the Annex to Decision 2019/708/EU[^annex8-lvlu1-lvl3-1], the quantities calculated in accordance with numbers 2 and 4 are multiplied by the following adaptation factors:
 
   - 3\.1.1 for 2021: 0.3
   - 3\.1.2 for 2022: 0.3
@@ -4331,10 +4324,10 @@ Annex 9[^t-14]
 3.2 If an installation operator delivers heat to a third party, then the customer’s adaptation factor is decisive.
 
 - 3\.3 The adaptation factor for measurable heat amounts to 0.3 if it is distributed via a network and used for heating water, space heating or space cooling in buildings or at locations whose operator does not participate in the ETS,; the foregoing does not apply to measurable heat that is directly or indirectly used to manufacture products or generate electricity.
-- 3\.4 For the manufacture of niacin and installations whose main purpose is the disposal of special waste as defined in Article 3 letter c ADWO[^annex10-lvlu1-lvl3-2], the adaptation factor amounts to 1.
+- 3\.4 For the manufacture of niacin and installations whose main purpose is the disposal of special waste as defined in Article 3 letter c ADWO[^annex8-lvlu1-lvl3-2], the adaptation factor amounts to 1.
 
-[^annex10-lvlu1-lvl3-1]: Commission Delegated Decision (EU) 2019/708 of 15 February 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council concerning the determination of sectors and subsectors deemed at risk of carbon leakage for the period 2021 to 2030, Amended by OJ L 120 of 8.5.2019, p. 20.
-[^annex10-lvlu1-lvl3-2]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex8-lvlu1-lvl3-1]: Commission Delegated Decision (EU) 2019/708 of 15 February 2019 supplementing Directive 2003/87/EC of the European Parliament and of the Council concerning the determination of sectors and subsectors deemed at risk of carbon leakage for the period 2021 to 2030, Amended by OJ L 120 of 8.5.2019, p. 20.
+[^annex8-lvlu1-lvl3-2]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 4 Special adaptation factors for thermal fuels and electricity operated production processes
 
@@ -4407,7 +4400,7 @@ Annex 10[^t-15]
 [^t-15]: Inserted by Annex 2 No 3 of the O of 29 March 2017 on the Federal Inventory of Landscapes and Natural Monuments, in force since 1 June 2017 ([AS 2017 2815](https://fedlex.data.admin.ch/eli/oc/2017/290)).
 
 <table>
-<tr><td>Customs tariff number[^annex11-lvlu1-1]</td><td>Description</td><td>Emission factor t CO<sub>2</sub> per 1000 kg</td><td>Emission factor t CO<sub>2</sub> per TJ</td><td>Emission factor t CO<sub>2</sub> per m<sup>3</sup></td></tr>
+<tr><td>Customs tariff number[^annex9-lvlu1-1]</td><td>Description</td><td>Emission factor t CO<sub>2</sub> per 1000 kg</td><td>Emission factor t CO<sub>2</sub> per TJ</td><td>Emission factor t CO<sub>2</sub> per m<sup>3</sup></td></tr>
 <tr><td>2710.1211</td><td>Petroleum spirit and fractions thereof, and mineral oil content in mixtures of this number, not including aviation fuel</td><td>3.15</td><td>73.80 at a calorific value (Hu) of 42.6 MJ/kg</td><td>2.32 with a density\* of 737 kg/m<sup>3</sup></td></tr>
 <tr><td>ex 2710.1211</td><td>Aviation fuel</td><td>3.17</td><td>72.50 at a calorific value (Hu) of 43.7 MJ/kg</td><td>2. 27 with a density\* of 715 kg/m<sup>3</sup></td></tr>
 <tr><td>2710.1911</td><td>Petroleum oil, incl. aviation petrol</td><td>3.14</td><td>72.80 at a calorific value (Hu) of 43.2 MJ/kg</td><td>2.51 with a density\* of 799 kg/m<sup>3</sup></td></tr>
@@ -4423,7 +4416,7 @@ Annex 10[^t-15]
 <tr><td colspan="5">\*\*\* at 0 °C, 1 bar</td></tr>
 </table>
 
-[^annex11-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+[^annex9-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Annex
 
 Annex 11[^t-16]
 
@@ -4440,7 +4433,7 @@ Annex 11[^t-16]
 The following tax rates apply to the following fuels:
 
 <table>
-<tr><td>Customs tariff number[^annex12-lvlu1-lvl2-1]</td><td>Description</td><td>Levy in CHF</td></tr>
+<tr><td>Customs tariff number[^annex10-lvlu1-lvl2-1]</td><td>Description</td><td>Levy in CHF</td></tr>
 <tr><td></td><td></td><td>per 1000 kg</td></tr>
 <tr><td>[tab] 2701.</td><td>Coal; briquettes, ovoids and similar solid fuels manufactured from coal:</td><td></td></tr>
 <tr><td></td><td>– black coal, whether pulverized or not, but not agglomerated:</td><td></td></tr>
@@ -4484,7 +4477,7 @@ The following tax rates apply to the following fuels:
 <tr><td></td><td>– liquefied:</td><td></td></tr>
 <tr><td></td><td>– – natural gas:</td><td></td></tr>
 <tr><td>1190</td><td>– – – other</td><td>321.60</td></tr>
-<tr><td>[tab]</td><td></td><td>per 1000 l at 15°C</td></tr>
+<tr><td></td><td></td><td>per 1000 l at 15°C</td></tr>
 <tr><td></td><td>– – propane:</td><td></td></tr>
 <tr><td>1290</td><td>– – – other</td><td>182.40</td></tr>
 <tr><td></td><td>– – butane:</td><td></td></tr>
@@ -4511,7 +4504,7 @@ The following tax rates apply to the following fuels:
 <tr><td>...</td><td>thermal fuels from other fossil-fuel source materials</td><td>278.40</td></tr>
 </table>
 
-[^annex12-lvlu1-lvl2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+[^annex10-lvlu1-lvl2-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Annex
 
 ### 3 Amount of the CO<sub>2</sub> levy and levy rates for fuels for certain stationary uses
 
@@ -4684,11 +4677,11 @@ Annex 12[^t-17]
 ### 5 Geodata
 
 - 5\.1 The applicant shall make the respective geodata available free of charge to swisstopo and to the canton where the prospecting and development is taking place in accordance with the technical specifications of swisstopo no later than six months after the data was collected.
-- 5\.2 swisstopo may use and process these geodata in accordance with the objectives of the Geoinformation Act of 5 October 2007[^annex13-lvlu1-lvl5-1] and the Geological Survey Ordinance of 21 May 2008[^annex13-lvlu1-lvl5-2]; the cantons with prospecting and development sites may do so in accordance with their respective regulations.
+- 5\.2 swisstopo may use and process these geodata in accordance with the objectives of the Geoinformation Act of 5 October 2007[^annex11-lvlu1-lvl5-1] and the Geological Survey Ordinance of 21 May 2008[^annex11-lvlu1-lvl5-2]; the cantons with prospecting and development sites may do so in accordance with their respective regulations.
 - 5\.3 It shall make the primary and the processed primary geodata available to the public within 24 months after completion of prospecting and within 12 months after completion of development.
 
-[^annex13-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^annex13-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+[^annex11-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
+[^annex11-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
 Annex 13[^t-18]
 
@@ -4714,7 +4707,7 @@ Annex 13[^t-18]
   - a. flights performed exclusively for the transport on official mission of a reigning monarch and his/her immediate family, heads of state, heads of government and government ministers, where this is substantiated by an appropriate status indicator in the flight plan;
   - b. military, customs and police flights;
   - c. flights relating to search and rescue, fire-fighting flights, humanitarian flights and emergency medical service flights;
-  - d. flights performed exclusively under visual flight rules as defined in Annex 2 of the Convention of 7 December 1944[^annex14-lvlu1-1] on International Civil Aviation;
+  - d. flights performed exclusively under visual flight rules as defined in Annex 2 of the Convention of 7 December 1944[^annex12-lvlu1-1] on International Civil Aviation;
   - e. flights terminating at the aerodrome from which the aircraft has taken off and during which no planned intermediate landing has been made;
   - f. training flights performed exclusively in order to acquire or maintain a licence, or a rating in the case of cockpit flight crew, where this is substantiated by an appropriate remark in the flight plan provided that the flights are not for the transport of passengers and/or cargo or for the positioning or ferrying of aircraft;
   - g. flights performed exclusively for the purpose of scientific research;
@@ -4727,7 +4720,7 @@ Annex 13[^t-18]
 - 3\. The exemptions cited in number 2 letters j and k do not apply to aircraft operators subject to the European ETS.
 - 4\. For the allocation of flights to the four-month periods cited in number 2 letter j, it is the local take-off time of each flight that is of relevance.
 
-[^annex14-lvlu1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^annex12-lvlu1-1]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 
 Annex 14[^t-19]
 
@@ -4743,7 +4736,7 @@ For installation operators participating in the ETS, the FOEN is the competent a
 
 ### 2 Aircraft operators
 
-2.1 For aircraft operators obliged to participate in the ETS, the state competent for their administration is determined in accordance with the Ordinance (EC) No 748/2009[^annex15-lvlu1-lvl2-1].
+2.1 For aircraft operators obliged to participate in the ETS, the state competent for their administration is determined in accordance with the Ordinance (EC) No 748/2009[^annex13-lvlu1-lvl2-1].
 
 2.2 Decisive for the administration of aircraft operators is:
 
@@ -4753,7 +4746,7 @@ b. the highest attributed estimated value for carbon emissions of the respective
 
 2.3 In the case of administration by Switzerland, the FOEN is the competent authority.
 
-[^annex15-lvlu1-lvl2-1]: See footnote to Art. 135 let. f.
+[^annex13-lvlu1-lvl2-1]: See footnote to Art. 135 let. f.
 
 Annex 15[^t-20]
 
@@ -4888,10 +4881,9 @@ Annex 16[^t-21]
 - Kerosene (jet A-1 or jet A): 3.16
 - Jet B: 3.10
 - Aviation gasoline (AvGas): 3.10
-- 3\.3 The emission factor of biomass fuels is zero provided the biomass used meets the sustainability criteria in accordance with Article 29 of Directive (EU) 2018/2001[^annex17-lvlu1-lvl3-1].
-- [tab]
+- 3\.3 The emission factor of biomass fuels is zero provided the biomass used meets the sustainability criteria in accordance with Article 29 of Directive (EU) 2018/2001[^annex15-lvlu1-lvl3-1].
 
-[^annex17-lvlu1-lvl3-1]: Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 Dec. 2018 on the promotion of the use of energy from renewable sources (new version), OJ L 328 of 21.12.2018, p. 82
+[^annex15-lvlu1-lvl3-1]: Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 Dec. 2018 on the promotion of the use of energy from renewable sources (new version), OJ L 328 of 21.12.2018, p. 82
 
 Annex 17[^t-22]
 
@@ -4928,11 +4920,9 @@ Annex 17[^t-22]
 - h. in the event of data gaps, a description of the reasons for the data gaps, the method used to estimate the substitute data and the emissions calculated on the basis of it;
 - i. for each aerodrome pair, the ICAO aerodrome designation and the number of flights for which the data have to be recorded and the respective annual emissions.
 
-2.2 Small emitters under Article 54 paragraph 1 of Implementing Regulation (EU) 2018/2066[^annex18-lvlu1-lvl2-1] may estimate their fuel consumption using an instrument for small emitters in accordance with Article 54 paragraph 2 of Implementing Regulation (EU) No 2018/2066.
+2.2 Small emitters under Article 54 paragraph 1 of Implementing Regulation (EU) 2018/2066[^annex16-lvlu1-lvl2-1] may estimate their fuel consumption using an instrument for small emitters in accordance with Article 54 paragraph 2 of Implementing Regulation (EU) No 2018/2066.
 
-- [tab]
-
-[^annex18-lvlu1-lvl2-1]: See footnote to Art. 52 para. 5.
+[^annex16-lvlu1-lvl2-1]: See footnote to Art. 52 para. 5.
 
 Annex 18[^t-23]
 
@@ -4974,13 +4964,13 @@ The verification of monitoring reports shall be carried out as follows:
 
   The verifier must be accredited for the mandated verification activity in accordance with:
 
-  - a. the Accreditation and Designation Ordinance of 17 June 1996;[^annexu1-lvlu1-lvl4-1] or
-  - b. Ordinance (EC) No 765/2008[^annexu1-lvlu1-lvl4-2] and Implementing Regulation (EU) 2018/2067[^annexu1-lvlu1-lvl4-3].
+  - a. the Accreditation and Designation Ordinance of 17 June 1996;[^annex17-lvlu1-lvl4-1] or
+  - b. Ordinance (EC) No 765/2008[^annex17-lvlu1-lvl4-2] and Implementing Regulation (EU) 2018/2067[^annex17-lvlu1-lvl4-3].
 
 - 4\.2 The verifier must be independent of the aircraft operator and perform its duties professionally and objectively.
 - 4\.3 The verifier must be able to demonstrate that it possesses the required professional abilities to verify carbon emission data in the civil aviation sector and is familiar with the way in which all information for the monitoring report is produced, in particular with respect to the acquisition, calculation and transmission of data.
 - 4\.4 The verifier must be familiar with all the relevant provisions and applicable legal and administrative regulations.
 
-[^annexu1-lvlu1-lvl4-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^annexu1-lvlu1-lvl4-2]: Ordinance (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Ordinance (EEC) No 339/93 of the Council, OJ L 218 of 13.8.2008, p. 30, last amended by Regulation (EU) 2019/1020, OJ L 169 of 25.6.2019, p. 1.
-[^annexu1-lvlu1-lvl4-3]: Commission Implementing Ordinance (EU) 2018/2067 of 19 December 2018 on the verification of data and on the accreditation of verifiers pursuant to Directive 2003/87/EC of the European Parliament and of the Council, OJ L 334 of 31.12.2018, p. 94, last amended by Implementing Regulation (EU) 2020/2084, OJ L 423 of 15.12.2020, p. 23.
+[^annex17-lvlu1-lvl4-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^annex17-lvlu1-lvl4-2]: Ordinance (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Ordinance (EEC) No 339/93 of the Council, OJ L 218 of 13.8.2008, p. 30, last amended by Regulation (EU) 2019/1020, OJ L 169 of 25.6.2019, p. 1.
+[^annex17-lvlu1-lvl4-3]: Commission Implementing Ordinance (EU) 2018/2067 of 19 December 2018 on the verification of data and on the accreditation of verifiers pursuant to Directive 2003/87/EC of the European Parliament and of the Council, OJ L 334 of 31.12.2018, p. 94, last amended by Implementing Regulation (EU) 2020/2084, OJ L 423 of 15.12.2020, p. 23.
