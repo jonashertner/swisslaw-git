@@ -4,24 +4,23 @@ number: "832.720"
 title: Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 short: KBV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+version_adopted: 2024-11-05
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/832.720"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6293/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6523/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 
-Krankheits- und Behinderungskosten: Verordnung | AHV und IV / Alters- und Invalidenhilfe[^t-1]
+Krankheits- und Behinderungskosten: Verordnung | AHV und IV | Alters- und Invalidenhilfe[^t-1]
 
 (KBV)
 
-Vom 18. Dezember 2007 (Stand 1. Januar 2024)
+Vom 18. Dezember 2007 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -167,6 +166,11 @@ beschliesst:
 **Kosten für Hilfe und Betreuung zu Hause durch Institutionen der Behindertenhilfe und Institutionen für Wohnungen mit Serviceangebot für Betagte**
 
 <sup>1</sup> Beim Bezug von notwendigen Leistungen durch eine anerkannte Institution gemäss § 27 des Gesetzes über die Behindertenhilfe (BHG) vom 14. September 2016 werden bei Personen mit Behinderung im Sinne von § 4 BHG die Kosten für die nicht personalen Leistungen vergütet, bei allen übrigen Personen die Kosten für die personalen und die nicht personalen Leistungen. Die Höchstbeträge gemäss Art. 14 Abs. 3 lit. a. ELG werden in diesen Fällen auf 60’000 Franken für Einzelpersonen und Vollwaisen bzw. 120’000 Franken für Ehepaare erhöht.
+
+<sup>1<sup>bis</sup></sup> Die Berücksichtigung der Kosten für die personalen und die nicht personalen Leistungen nach Abs. 1 wird durch die Abteilung Langzeitpflege des Gesundheitsdepartements bewilligt, falls die betroffene Person:
+
+- a) das Referenzalter gemäss dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946 erreicht hat und
+- b) auf Veranlassung der Abteilung Langzeitpflege des Gesundheitsdepartements einen mittels des Instruments des Individuellen Hilfeplans (IHP) gemäss § 5 der Verordnung über die Behindertenhilfe (BHV) vom 29. November 2016 festgestellten behinderungsbedingten Bedarf nachweist.
 
 <sup>2</sup> Bei Personen, die notwendige Leistungen durch eine anerkannte Einrichtung gemäss kantonaler Liste der anerkannten Institutionen für Wohnungen mit Serviceangebot für Betagte beziehen, werden höchstens die in der Leistungsvereinbarung festgelegten Tarife vergütet.
 
