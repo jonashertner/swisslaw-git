@@ -4,13 +4,13 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-08
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-06-25
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5469/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5496/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,17 @@ pdf: "https://bgs.so.ch/api/de/versions/5469/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.08.2024)
+Vom 31.01.2007 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
-gestützt auf die Artikel 3, 22, 40, 50, 71, 73, 74, 78, 85, 94, 95, 96, 97, 99, 100 Absatz 2, 101, 113, 121 Absatz 1 und 124 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-1], Artikel 80 des Asylgesetzes (AsylG) vom 26. Juni 1998[^ingress-2], Artikel 293 Absatz 2 und Artikel 328 des schweizerischen Zivilgesetzbuches (ZGB) vom 10. Dezember 1907[^ingress-3], Artikel 3 der Verordnung über die Aufnahme von Kindern zur Pflege und zur Adoption (PAVO) vom 19. Oktober 1977[^ingress-4], Artikel 274 des Bundesgesetzes vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht, OR)[^ingress-5], Artikel 119 Absatz 4 des schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937[^ingress-6], Artikel 3 und 16 des Bundesgesetzes über die Hilfe an Opfer von Straftaten (Opferhilfegesetz, OHG) vom 4. Oktober 1991[^ingress-7], Artikel 34 des Bundesgesetzes über die Betäubungsmittel (Betäubungsmittelgesetz, BetmG) vom 3. Oktober 1951[^ingress-8], Artikel 32 und Artikel 41 Absatz 2 des Bundesgesetzes über die Arbeitsvermittlung und den Personalverleih (Arbeitsvermittlungsgesetz, AVG) vom 6. Oktober 1989[^ingress-9], Artikel 57, 79 und 82 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) vom 6. Oktober 2000[^ingress-10], Artikel 61 und 63 Absatz 4 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946[^ingress-11], Artikel 54 des Bundesgesetzes über die Invalidenversicherung (IVG) vom 19. Juni 1959[^ingress-12], Artikel 2 und 21 des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)[^ingress-13], Artikel 61, 73 und 97 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^ingress-14], Artikel 6, 65 und 89 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^ingress-15], Artikel 57, 80, 86, und 98 des Bundesgesetzes über die Unfallversicherung (UVG) vom 20. März 1981[^ingress-16], Artikel 27 des Bundesgesetzes über die Militärversicherung (MVG) vom 19. Juni 1992[^ingress-17], Artikel 16 b ff, 17, 21 Absatz 2, 24 und 33 des Bundesgesetzes über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz, EOG)[^ingress-18], Artikel 13, 21, und 24 des Bundesgesetzes über die Familienzulagen in der Landwirtschaft (FLG) vom 20. Juni 1952[^ingress-19], Artikel 17 Absatz 2, Artikel 21, 26 und 28b des Bundesgesetzes über die Familienzulagen vom 24. März 2006 (Familienzulagengesetz, FamZG)[^ingress-20], des Artikel 113 des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz, AVIG) vom 25. Juni 1982[^ingress-21], Artikel 35 Absatz 2 des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger (Zuständigkeitsgesetz, ZUG) vom 24. Juni 1977[^ingress-22] und Artikel 2 des Bundesgesetzes über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG) vom 6. Oktober 2006
+gestützt auf Artikel 124 Absatz 2 des Bundesgesetzes über die Ausländerinnen und Ausländer und über die Integration (Ausländer- und Integrationsgesetz, AIG) vom 16. Dezember 2005[^ingress-1], Artikel 80 des Asylgesetzes (AsylG) vom 26. Juni 1998[^ingress-2], Artikel 293 Absatz 2 und Artikel 328 des schweizerischen Zivilgesetzbuches (ZGB) vom 10. Dezember 1907[^ingress-3], Artikel 3 der Verordnung über die Aufnahme von Kindern zur Pflege und zur Adoption (PAVO) vom 19. Oktober 1977[^ingress-4], Artikel 274 des Bundesgesetzes vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht, OR)[^ingress-5], Artikel 119 Absatz 4 des schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937[^ingress-6], Artikel 3 und 16 des Bundesgesetzes über die Hilfe an Opfer von Straftaten (Opferhilfegesetz, OHG) vom 4. Oktober 1991[^ingress-7], Artikel 34 des Bundesgesetzes über die Betäubungsmittel (Betäubungsmittelgesetz, BetmG) vom 3. Oktober 1951[^ingress-8], Artikel 32 und Artikel 41 Absatz 2 des Bundesgesetzes über die Arbeitsvermittlung und den Personalverleih (Arbeitsvermittlungsgesetz, AVG) vom 6. Oktober 1989[^ingress-9], Artikel 57, 79 und 82 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) vom 6. Oktober 2000[^ingress-10], Artikel 61 und 63 Absatz 4 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946[^ingress-11], Artikel 54 des Bundesgesetzes über die Invalidenversicherung (IVG) vom 19. Juni 1959[^ingress-12], Artikel 2 und 21 des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)[^ingress-13], Artikel 61, 73 und 97 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^ingress-14], Artikel 6, 65 und 89 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^ingress-15], Artikel 57, 80, 86, und 98 des Bundesgesetzes über die Unfallversicherung (UVG) vom 20. März 1981[^ingress-16], Artikel 27 des Bundesgesetzes über die Militärversicherung (MVG) vom 19. Juni 1992[^ingress-17], Artikel 16 b ff, 17, 21 Absatz 2, 24 und 33 des Bundesgesetzes über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz, EOG)[^ingress-18], Artikel 13, 21, und 24 des Bundesgesetzes über die Familienzulagen in der Landwirtschaft (FLG) vom 20. Juni 1952[^ingress-19], Artikel 17 Absatz 2, Artikel 21, 26 und 28b des Bundesgesetzes über die Familienzulagen vom 24. März 2006 (Familienzulagengesetz, FamZG)[^ingress-20], des Artikel 113 des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz, AVIG) vom 25. Juni 1982[^ingress-21], Artikel 35 Absatz 2 des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger (Zuständigkeitsgesetz, ZUG) vom 24. Juni 1977[^ingress-22] und Artikel 2 des Bundesgesetzes über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG) vom 6. Oktober 2006, Artikel 3, 22, 40, 50, 71, 73, 74, 78, 85, 94, 95, 96, 97, 99, 100 Absatz 2, 101, 113, 121 Absatz 1 und 124 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-23],
 
 nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 12. Juli 2005 (RRB Nr. 2005/1617)
 
 beschliesst:
 
-[^ingress-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
+[^ingress-1]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de).
 [^ingress-2]: SR [142.31](https://db.clex.ch/link/Bund/142.31/de).
 [^ingress-3]: SR [210](https://db.clex.ch/link/Bund/210/de).
 [^ingress-4]: SR [211.222.338](https://db.clex.ch/link/Bund/211.222.338/de).
@@ -51,6 +51,7 @@ beschliesst:
 [^ingress-20]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
 [^ingress-21]: SR [837.0](https://db.clex.ch/link/Bund/837.0/de).
 [^ingress-22]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de).
+[^ingress-23]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
 
 ## 1. Allgemeine Bestimmungen
 
@@ -95,7 +96,7 @@ beschliesst:
   - 3\. Alimentenbevorschussung und -inkassohilfe,
 - d) die Unterstützung und Hilfe von Kanton und Einwohnergemeinden für die folgenden Lebens- und Problemlagen:
   - 1\. Familie, Kinder, Jugend und Alter,
-  - 2\. Integration der ausländischen Wohnbevölkerung,
+  - 2\. Integration der ausländischen Bevölkerung,
   - 3\. Wohnen und Miete,
   - 4\. Arbeitslosenhilfe,
   - 5\. Opferhilfe,
@@ -529,7 +530,7 @@ beschliesst:
 
 - a) Familie, Kinder, Jugend und Alter;
 - b) Alimentenbevorschussung und Inkassohilfe;
-- c) Integration der ausländischen Wohnbevölkerung;
+- c) Integration der ausländischen Bevölkerung;
 - d) Arbeitslosenhilfe;
 - e) Suchthilfe;
 - f) ambulante und stationäre Betreuung und Pflege;
@@ -778,11 +779,7 @@ beschliesst:
 
 #### § 44
 
-**Aufgaben der Einwohnergemeinden**
-
-<sup>1</sup> Jede Einwohnergemeinde führt auf ihre Kosten ein Gemeindearbeitsamt oder delegiert diese Aufgaben an die RAV oder eine andere regionale Stelle.
-
-<sup>2</sup> Der Regierungsrat kann den Gemeindearbeitsämtern weitere Aufgaben übertragen, die mit der Anmeldung zur öffentlichen Arbeitsvermittlung und zum Bezug von Leistungen der Arbeitslosenversicherung zusammenhängen.
+**…**
 
 #### § 45
 
@@ -820,9 +817,14 @@ beschliesst:
 
 **Interinstitutionelle Zusammenarbeit**
 
-<sup>1</sup> Kanton, Einwohnergemeinden und Sozialversicherungsträgerinnen errichten gemeinsam Anlaufstellen (Intake) und eine Institution zur Fallführung (Case-Management), um soziale Aufgaben zu erfüllen.
+<sup>1</sup> Der Kanton und die Einwohnergemeinden arbeiten eng mit den Sozialversicherungsträgerinnen und den Arbeitgebervertretungen zusammen und stellen die gemeinschaftliche Entwicklung, Förderung und Durchführung von Angeboten gemeinsamer sozialer Aufgaben sicher.
 
-<sup>2</sup> Sie können dafür mit Dritten Leistungsvereinbarungen abschliessen oder die Aufgaben den Sozialregionen übertragen.
+<sup>2</sup> …
+
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten in einer Verordnung. Er bestimmt insbesondere:
+
+- a) die Mitglieder der Gremien der interinstitutionellen Zusammenarbeit;
+- b) die kantonale Geschäftsstelle.
 
 #### § 49
 
@@ -834,7 +836,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat kann in einzelnen sozialen Leistungsfeldern Fachkommissionen einsetzen.
 
-<sup>2</sup> Für die interinstitutionelle Zusammenarbeit ernennt der Regierungsrat ein Leitungsorgan aus Vertretungen der Arbeitslosenversicherung, der Ausgleichskasse, der Invalidenversicherungs-Stelle und des Verbandes solothurnischer Einwohnergemeinden, das für Intake und Case-Management die strategischen Ziele festlegt und bei Bedarf steuernd eingreift.
+<sup>2</sup> …
 
 ### 1.4. Finanzierung durch Kanton und Einwohnergemeinden
 
@@ -882,16 +884,7 @@ beschliesst:
 
 <sup>4</sup> …
 
-<sup>5</sup> Die Infrastruktur- und Betriebskosten (Verwaltungskosten) der interinstitutionellen Zusammenarbeit werden wie folgt getragen:
-
-- a) Intake über
-  - 1\. die Abgeltung der Ausgleichskasse des Kantons Solothurn an die Zweigstellen (AHV),
-  - 2\. den Abgeltungsanteil des Kantons an die Zweigstellen (EL),
-  - 3\. Beiträge der Einwohnergemeinden;
-- b) Case-Management über
-  - 1\. 40% von der Arbeitslosenversicherung,
-  - 2\. 20% von der Invalidenversicherung im Rahmen des administrativen Durchführungskosten,
-  - 3\. 40% von den Einwohnergemeinden.
+<sup>5</sup> …
 
 #### § 55
 
@@ -1813,65 +1806,149 @@ beschliesst:
 
 <sup>3</sup> Die Beiträge können einseitig oder vertraglich an Bedingungen geknüpft, mit Auflagen oder mit einer Leistungsvereinbarung verbunden werden.
 
-### 4.2. Integration der ausländischen Wohnbevölkerung
+### 4.1<sup>bis</sup> Chancengleichheit und Religion
+
+#### § 119bis
+
+**Anlauf- und Koordinationsstelle für Chancengleichheit**
+
+<sup>1</sup> Der Kanton führt eine Anlauf- und Koordinationsstelle für Chancengleichheit mit dem Ziel, Benachteiligungen wegen der Herkunft, der Rasse, des Geschlechts, des Alters, der Sprache, der sozialen Stellung, der Lebensform, der religiösen, weltanschaulichen oder politischen Überzeugung oder wegen einer körperlichen, geistigen oder psychischen Behinderung zu verhindern oder zu beseitigen und Chancengleichheit zu fördern.
+
+<sup>2</sup> Die Anlauf- und Koordinationsstelle für Chancengleichheit
+
+- a) informiert die Bevölkerung;
+- b) berät Behörden, öffentliche und private Institutionen sowie andere Strukturen;
+- c) kann Projekte fördern und unterstützen.
+
+#### § 119ter
+
+**Anlauf- und Koordinationsstelle für Religionsfragen**
+
+<sup>1</sup> Der Kanton führt eine Anlauf- und Koordinationsstelle für Religionsfragen mit dem Ziel
+
+- a) den gegenseitigen Informationsaustausch zwischen den Religionsgemeinschaften und Behörden zu fördern;
+- b) den interreligiösen Dialog zu fördern, um das gegenseitige Verständnis zwischen den Religionsgemeinschaften zu verbessern.
+
+<sup>2</sup> Die Anlauf- und Koordinationsstelle für Religionsfragen
+
+- a) informiert die Bevölkerung;
+- b) berät Behörden, öffentliche und private Institutionen sowie Privatpersonen;
+- c) kann Projekte fördern und unterstützen.
+
+### 4.2. Integration der ausländischen Bevölkerung
+
+### 4.2.1. Allgemeines
 
 #### § 120
 
-**Ziel und Zweck**
+**Grundsätze**
 
-<sup>1</sup> Integration bezweckt , zwischen schweizerischen Staatsangehörigen und ausländischen Staatsangehörigen mit rechtmässig und auf Dauer geregeltem Aufenthaltsstatus
+<sup>1</sup> Die Integrationsförderung erfolgt in erster Linie in den bestehenden Strukturen.
 
-- a) ein friedliches, von gegenseitigem Respekt geprägtes Verständnis und Zusammenleben zu ermöglichen;
-- b) gleichberechtigte Teilhabe und Mitverantwortung am wirtschaftlichen, sozialen und kulturellen Leben der Gesellschaft zu bewirken.
+- a) …
+- b) …
+
+<sup>1<sup>bis</sup></sup> Die spezifische Integrationsförderung beschränkt sich auf Personen, für die das Bundesrecht das Einfordern von Massnahmen zu ihrer Integration vorsieht.
 
 <sup>2</sup> Integration verlangt von den ausländischen Staatsangehörigen, dass sie
 
 - a) die geltenden Grundwerte und die demokratisch-rechtsstaatliche Ordnung der Schweiz anerkennen;
 - b) bereit und gewillt sind, sich in die Gesellschaft der Schweiz einzugliedern, indem sie insbesondere die deutsche Sprache erlernen, am Bildungsangebot und dem Wirtschafts- und Arbeitsleben teilnehmen und sich mit der geltenden Kultur auseinandersetzen.
 
-<sup>3</sup> Integration verlangt von den schweizerischen Staatsangehörigen, dass sie sich mit andern Kulturen auseinandersetzen und die Eingliederung von ausländischen Staatsangehörigen unterstützen.
+<sup>3</sup> Integration verlangt von der schweizerischen Bevölkerung, dass sie sich mit anderen Kulturen auseinandersetzt und die Eingliederung von ausländischen Staatsangehörigen unterstützt.
+
+### 4.2.2. Aufgaben der Einwohnergemeinden
 
 #### § 121
 
-**Einwohnergemeinden**
+**Förderung der Integration**
 
-<sup>1</sup> Die Einwohnergemeinden können eine Ansprechstelle für Integrationsfragen bestimmen.
+<sup>1</sup> Jede Einwohnergemeinde bestimmt eine Ansprechstelle für Integrationsfragen.
 
-<sup>2</sup> Sie fördern die Integration, indem sie insbesondere
+<sup>2</sup> Die Einwohnergemeinden fördern die Integration, indem sie insbesondere
 
 - a) ausländische Staatsangehörige mit der deutschen Sprache und den örtlichen Lebensbedingungen vertraut machen;
-- b) Projektbeiträge leisten;
+- b) Projekte und Angebote zur sozialen Integration unterstützen;
 - c) Raum und Infrastruktur zur Verfügung stellen;
-- d) die Partizipation der ausländischen Bevölkerung fördern.
+- d) auf die Partizipation der ausländischen Bevölkerung hinwirken;
+- e) die kommunalen und regionalen Strukturen beraten;
+- f) die Bevölkerung über die Integrationspolitik und über die besondere Situation der ausländischen Staatsangehörigen informieren.
+
+#### § 121bis
+
+**Erstinformation**
+
+<sup>1</sup> Die Ansprechstelle für Integrationsfragen informiert alle neu aus dem Ausland zugezogenen ausländischen Staatsangehörigen über ihre Rechte und Pflichten, die Lebens- und Arbeitsbedingungen in der Schweiz sowie über die Angebote zur Integrationsförderung.
+
+#### § 121ter
+
+**Integrationsbedarf und -gespräch**
+
+<sup>1</sup> Stellt die Ansprechstelle für Integrationsfragen bei der Erstinformation oder auf andere Weise fest, dass bei ausländischen Staatsangehörigen oder bei ihren minderjährigen Kindern ein Bedarf für Integrationsmassnahmen vorliegen könnte, bietet sie die Personen zu einem Integrationsgespräch auf und stellt durch geeignete Massnahmen sicher, dass die im Gespräch vermittelten Informationen von diesen richtig verstanden werden. Vorbehalten bleiben die Zuständigkeiten der Sozialhilfebehörden.
+
+<sup>2</sup> Die aufgebotenen Personen sind verpflichtet, am Integrationsgespräch teilzunehmen.
+
+<sup>3</sup> Für Staatsangehörige der Mitgliedstaaten der Europäischen Gemeinschaft und der Europäischen Freihandelsassoziation sowie für ausländische Familienangehörige von Schweizern und Schweizerinnen gilt das Aufgebot als Empfehlung.
+
+#### § 121quater
+
+**Empfehlung individueller Integrationsmassnahmen**
+
+<sup>1</sup> Die Ansprechstelle für Integrationsfragen empfiehlt der aufgebotenen Person individuelle Integrationsmassnahmen, sofern hierfür ein Bedarf besteht.
+
+<sup>2</sup> Die Ansprechstelle für Integrationsfragen
+
+- a) kann die Ziele, empfohlenen Massnahmen und Fristen einer individuellen Integrationsförderung gemeinsam mit der aufgebotenen Person schriftlich festhalten;
+- b) begleitet die Umsetzung der empfohlenen Integrationsmassnahmen.
+
+#### § 121quinquies
+
+**Meldepflichten**
+
+<sup>1</sup> Die Ansprechstelle für Integrationsfragen und die Sozialhilfebehörden melden der Migrationsbehörde Personen mit Integrationsdefizit gemäss den Weisungen des Departements.
+
+<sup>2</sup> Bei der Beurteilung, ob ein besonderes Integrationsdefizit vorliegt, sind insbesondere das persönliche Verschulden, die Art und Anzahl der das Integrationsdefizit begründenden Handlungen oder Unterlassungen sowie deren Auswirkungen auf die Integration zu berücksichtigen.
+
+### 4.2.3. Aufgaben des Kantons
 
 #### § 122
 
-**Kanton**
+**Anlauf- und Koordinationsstelle für Integration**
 
-<sup>1</sup> Der Kanton führt eine Anlauf- und Koordinationsstelle für Integration und gegen Rassismus mit dem Ziel
+<sup>1</sup> Der Kanton führt eine Anlauf- und Koordinationsstelle für Integration mit dem Ziel, Massnahmen zur Integrationsförderung zu treffen und den Informations- und Erfahrungsaustausch sicherzustellen.
 
-- a) die deutsche Sprache und die Mehrsprachigkeit zur Integration an öffentlichen Schulen zu fördern;
-- b) Sprach- und Integrationskurse für ausländische Staatsangehörige zu unterstützen;
-- c) den interkulturellen und interreligiösen Dialog zu fördern, um das gegenseitige Verständnis zwischen schweizerischer und ausländischer Bevölkerung zu verbessern;
-- d) Institutionen und Aktivitäten von und für ausländische Staatsangehörige zu unterstützen;
-- e) jegliche Formen von Diskriminierung und Fremdenfeindlichkeit zu verhindern und zu bekämpfen;
-- f) auf die Einbürgerung vorzubereiten.
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+
+<sup>2</sup> Die Anlauf- und Koordinationsstelle für Integration
+
+- a) berät und unterstützt die Ansprechstellen für Integrationsfragen in Angelegenheiten der Integrationsförderung;
+- b) unterstützt Sprach- und Integrationskurse für ausländische Staatsangehörige;
+- c) unterstützt Institutionen und Aktivitäten von und für ausländische Staatsangehörige.
 
 #### § 123
 
-**Verpflichtung zu Sprach- und Integrationskursen**
-
-<sup>1</sup> Die Erteilung einer neuen Aufenthaltsbewilligung kann mit der Bedingung verbunden werden, dass Sprach- oder Integrationskurse besucht werden. Diese Bedingung gilt auch für Bewilligungsverfahren im Rahmen des Familiennachzuges.
-
-<sup>2</sup> Ausländische Staatsangehörige, die bereits im Kanton wohnen, können zu Sprach- oder Integrationskursen verpflichtet werden, wenn sie Leistungen der interinstitutionellen Zusammenarbeit oder Sozialhilfe beziehen.
+**…**
 
 #### § 124
 
-**Finanzierung**
+**…**
 
-<sup>1</sup> Der Kanton und die Einwohnergemeinden gewähren für die Integration finanzielle Beiträge.
+### 4.2.4. Amtshilfe
 
-<sup>2</sup> Die Beiträge können einseitig oder vertraglich an Bedingungen geknüpft, mit Auflagen oder mit einer Leistungsvereinbarung verbunden werden.
+#### § 124bis
+
+**Zusammenarbeit und Datenbekanntgabe**
+
+<sup>1</sup> Bei der Integration der ausländischen Bevölkerung arbeiten die Behörden des Kantons und der Einwohnergemeinden zusammen.
+
+<sup>2</sup> Die Migrationsbehörde meldet der Sozialregion den Abschluss einer Integrationsvereinbarung nach Artikel 58*b* AIG[^124bis-1], sofern die betreffende Person Sozialhilfe bezieht.
+
+[^124bis-1]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de).
 
 ### 4.3. Wohnen und Miete
 
