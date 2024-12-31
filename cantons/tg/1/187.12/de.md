@@ -3,13 +3,12 @@ canton: TG
 number: "187.12"
 title: Kirchenordnung der Evangelischen Landeskirche des Kantons Thurgau
 language: de
-version: 2014-12-01
-valid_until: 2024-12-31
-version_adopted: 2014-02-17
+version: 2025-01-01
+version_adopted: 2023-11-27
 adopted: 2014-02-17
 in_force: 2014-12-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.12"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2419/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2863/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2419/pdf_file"
 
 Kirchenordnung Evangelische Landeskirche
 
-vom 17.02.2014 (Stand 01.12.2014)
+vom 17.02.2014 (Stand 01.01.2025)
 
 Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirche des Kantons Thurgau ist das Evangelium gemäss der Heiligen Schrift Alten und Neuen Testaments.
 
@@ -28,7 +27,9 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 
 *und an den heiligen Geist, der uns erneuert nach dem Bilde Gottes zu wahrhafter Gerechtigkeit und Heiligkeit.*
 
-*Amen*. (Thurgauer Bekenntnis von 1874)
+*Amen.*
+
+(Thurgauer Bekenntnis von 1874)
 
 ## 1. Mitgliedschaft und Anspruch auf kirchliche Dienste
 
@@ -750,11 +751,14 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 
 <sup>3</sup> Die Kirche fördert die Kinder und Jugendlichen auf dem Weg zu einem mündigen, verantwortungsvollen Christsein. Sie sollen den Glauben kennen lernen und in das kirchliche Leben hineinwachsen. In der kirchlichen Gemeinschaft sollen sie Begleitung, Lebenshilfe und Glaubensstärkung erfahren.
 
+<sup>3<sup>bis</sup></sup> Die Kirche berücksichtigt die Anliegen und spezifischen Bedürfnisse von jungen Erwachsenen ab dem Konfirmationsalter. Sie ermöglicht ihnen, Gemeinschaft zu erleben und den Glauben zu teilen.
+
 <sup>4</sup> Dazu erlässt die Synode eine Verordnung zu den drei Bereichen:
 
 - a) Religions- und Konfirmationsunterricht;
 - b) Kirchliches Feiern mit Kindern und Jugendlichen;
 - c) Kirchliche Freizeitangebote.
+- d) Junge Erwachsene ab dem Konfirmationsalter
 
 #### § 87
 
@@ -890,7 +894,7 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 
 **Grundsatz**
 
-<sup>1</sup> Aufgabe und Ziel des Konfirmationsjahrs ist es, den Jugendlichen einen Überblick über die wesentlichen Inhalte des christlichen Glaubens zu vermitteln, sie mit dem Leben der Kirchgemeinde und dem kirchlichen Liedgut vertraut zu machen, sie zum Glauben zu ermutigen sowie die Fähigkeit zu fördern, als Christen zu leben.
+<sup>1</sup> Aufgabe und Ziel des Konfirmationsjahrs ist es, den Jugendlichen einen Überblick über die wesentlichen Inhalte des christlichen Glaubens zu vermitteln, sie mit dem Leben der Kirchgemeinde und dem kirchlichen Liedgut vertraut zu machen, sie zum Glauben zu ermutigen sowie die Fähigkeit zu fördern, als Christen zu leben. Dabei sollen die Jugendlichen Möglichkeiten erhalten, das kirchliche Leben aktiv mitzugestalten.
 
 #### § 107
 
@@ -898,13 +902,15 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 
 <sup>1</sup> Die Erteilung des Unterrichts und die weitere Gestaltung des Konfirmationsjahrs ist Aufgabe des Pfarrers oder der Pfarrerin.
 
-<sup>2</sup> Auf Antrag der Kirchenvorsteherschaft kann der Kirchenrat auch andere Personen mit der Leitung beauftragen.
+<sup>2</sup> Die Kirchenvorsteherschaft kann auch andere entsprechend ausgebildete Personen mit der Leitung beauftragen.
 
 #### § 108
 
-**Umfang**
+**Umfang und Zeitpunkt**
 
-<sup>1</sup> Der Konfirmationsunterricht umfasst mindestens 40 Lektionen. Mit Einverständnis der Kirchenvorsteherschaft kann der Unterricht mit einem Lager, Gemeinschaft fördernden Aktivitäten und anderen Veranstaltungen ergänzt werden.
+<sup>1</sup> Der Konfirmationsunterricht umfasst mindestens 40 Lektionen und beinhaltet Gemeinschaft fördernde Aktivitäten und Veranstaltungen. Zudem wird der Unterricht mit einem Lager oder Wochenende ergänzt.
+
+<sup>2</sup> Der Konfirmationsunterricht beginnt in der Regel im dritten Schuljahr der Sekundarstufe I.
 
 #### § 109
 
@@ -912,9 +918,9 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 
 <sup>1</sup> Voraussetzung für die Aufnahme ins Konfirmationsjahr ist die Erfüllung der von der Kirchenvorsteherschaft aufgrund der Verordnung Kirche, Kind und Jugend erlassenen Regelung.
 
-<sup>2</sup> Der Konfirmationsunterricht beginnt in der Regel im dritten Schuljahr der Sekundarstufe I.
+<sup>2</sup> Für Kinder und Jugendliche, welche aufgrund einer Beeinträchtigung oder besonderen Situation die Regelungen gemäss Absatz 1 nicht erfüllen können, ist eine angepasste Lösung für den Konfirmationsunterricht und die Konfirmation zu suchen, damit diese erfolgen kann.
 
-<sup>3</sup> Über Ausnahmen entscheidet die Kirchenvorsteherschaft auf Antrag des zuständigen Pfarramts.
+<sup>3</sup> Über weitere Ausnahmen entscheidet die Kirchenvorsteherschaft.
 
 #### § 110
 
@@ -926,9 +932,9 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Konfirmationsunterricht wird beim zuständigen Pfarrer oder der zuständigen Pfarrerin der Kirchgemeinde des Wohnsitzes besucht.
+<sup>1</sup> Es wird der Konfirmationsunterricht der Kirchgemeinde des Wohnsitzes besucht.
 
-<sup>2</sup> Für Gesuche um Zuteilung zu einem andern Pfarrer oder einer andern Pfarrerin innerhalb der eigenen Gemeinde ist die Kirchenvorsteherschaft zuständig.
+<sup>2</sup> Für Gesuche um Zuteilung zu einer anderen Gruppe innerhalb der eigenen Gemeinde ist die Kirchenvorsteherschaft zuständig.
 
 <sup>3</sup> Eltern, die ihre Jugendlichen in einer andern Kirchgemeinde unterrichten beziehungsweise konfirmieren lassen wollen, stellen ein begründetes Gesuch an die Kirchenvorsteherschaft der Gemeinde, in der der Unterricht oder die Konfirmation stattfinden sollen. Diese entscheidet im Einvernehmen mit dem Pfarramt, bei dem der Unterricht besucht oder die Konfirmation vorgenommen werden soll und nach Rücksprache mit der Kirchenvorsteherschaft der Wohnsitzkirchgemeinde.
 
@@ -936,7 +942,7 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 
 **Elternbesuche**
 
-<sup>1</sup> Im Konfirmationsjahr besucht der Pfarrer oder die Pfarrerin die Eltern der Konfirmanden und Konfirmandinnen.
+<sup>1</sup> Im Konfirmationsjahr besucht der Pfarrer oder die Pfarrerin oder die zuständige Person die Eltern der Konfirmanden und Konfirmandinnen.
 
 ### 7d. Konfirmation
 
@@ -944,7 +950,7 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 
 **Bedeutung**
 
-<sup>1</sup> Bei der Konfirmation erhalten die Jugendlichen die Gelegenheit, zusammen mit der Gemeinde ihren Glauben zu bekennen und die mit der Taufe verbundene Einladung zu einem christlichen Leben zu bekräftigen. Ihnen wird das Ja Gottes bestätigt, das ihnen bei der Taufe zugesprochen worden ist.
+<sup>1</sup> Bei der Konfirmation erhalten die Jugendlichen die Gelegenheit, die mit der Taufe verbundene Einladung zu einem christlichen Leben zu bekräftigen.
 
 <sup>2</sup> Die Konfirmation beinhaltet Segen und Fürbitte für die Jugendlichen und bestätigt den Abschluss des kirchlichen Unterrichts sowie die Mitgliedschaft in der Evangelischen Landeskirche.
 
@@ -952,15 +958,21 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 
 #### § 114
 
-**Form**
+**Form, Leitung und Ort**
 
-<sup>1</sup> Die Konfirmation findet nach empfangenem Unterricht vor versammelter Gemeinde in einem Gottesdienst statt.
+<sup>1</sup> Die Konfirmation findet nach Teilnahme am Unterricht vor versammelter Gemeinde in einem Gottesdienst statt.
+
+<sup>2</sup> Wenn die Leitung des Konfirmationsunterrichts bei einer anderen Person als einer Pfarrperson liegt, kann die Konfirmationsfeier gemeinsam mit der Pfarrperson gestaltet werden. Der Einbezug von weiteren Personen, die im Konfirmationsunterricht mitwirken, ist anzustreben.
+
+<sup>3</sup> Wird der Konfirmationsunterricht zusammen mit einer anderen Kirchgemeinde durchgeführt, so kann die Konfirmation gemeinsam in einer Kirchgemeinde stattfinden oder in der jeweiligen Kirchgemeinde der Jugendlichen.
 
 #### § 115
 
 **Zulassung zur Konfirmation**
 
-<sup>1</sup> Der regelmässige Besuch des Konfirmationsunterrichts sowie der weiteren Aktivitäten und Veranstaltungen und der Gottesdienste im Rahmen der gemeindeeigenen Regelung sind Voraussetzung für die Konfirmation.
+<sup>1</sup> Die regelmässige Teilnahme am Konfirmationsunterricht sowie an weiteren Aktivitäten und Veranstaltungen und den Gottesdiensten im Rahmen der gemeindeeigenen Regelung sind Voraussetzung für die Konfirmation.
+
+<sup>2</sup> Wenn ein Konfirmand oder eine Konfirmandin aufgrund Abs. 1 von der Konfirmation ausgeschlossen werden soll, ist ein Beschluss der Kirchenvorsteherschaft notwendig.
 
 #### § 116
 
@@ -999,6 +1011,22 @@ Grundlage und Leitlinie für das Leben und Handeln der Evangelischen Landeskirch
 <sup>1</sup> Mit Leitungsaufgaben werden Mitarbeiter und Mitarbeiterinnen betraut, welche die entsprechenden Voraussetzungen mitbringen.
 
 <sup>2</sup> Die Kirchgemeinde fördert die freiwillige Mitarbeit junger Erwachsener.
+
+### 7f. Junge Erwachsene
+
+#### § 120a
+
+**Grundsatz**
+
+<sup>1</sup> Die besonderen Bedürfnisse und Begabungen junger Erwachsener ab dem Konfirmationsalter sollen im Gemeindeleben Raum erhalten.
+
+#### § 120b
+
+**Auftrag und Form**
+
+<sup>1</sup> Die Kirchgemeinde unterstützt die jungen Erwachsenen dabei, ihren persönlichen Glauben zu entdecken und diesen im Alltag zu integrieren. Die Kirchgemeinde bietet Angebote für die Teilnahme und fördert die aktive Beteiligung.
+
+<sup>2</sup> Ist dies in der Kirchgemeinde nicht möglich, kann dies in einer regionalen Zusammenarbeit, kantonal oder interkonfessionell erfolgen.
 
 ## 8. Seelsorge
 
