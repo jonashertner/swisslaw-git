@@ -3,18 +3,18 @@ sr: "916.307.11"
 title: "Ordonnance de l'OFAG du 21 mai 2014 sur la liste des aliments OGM pour animaux"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/323"
 language: fr
-version: 2015-01-01
+version: 2025-01-01
 adopted: 2014-05-21
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/323/20150101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-323-20150101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/323/20150101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/323/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-323-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/323/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OFAG sur la liste des aliments OGM pour animaux
 
-du 21 mai 2014 (Etat le 1<sup>er</sup> janvier 2015)
+du 21 mai 2014 (État le 1<sup>er</sup> janvier 2025)
 
 L’Office fédéral de l’agriculture (OFAG),
 
@@ -66,23 +66,22 @@ L’ordonnance de l’OFAG du 1<sup>er</sup> février 2005 sur les listes d’al
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2014.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 1 et 2, al. 3)
 
 ## Liste des aliments OGM pour animaux
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OFAG du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4045](https://fedlex.data.admin.ch/eli/oc/2014/677)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 628](https://fedlex.data.admin.ch/eli/oc/2024/628)).
 
 <table>
 <tr><th>Organismes génétiquement modifiés homologués pour la fabrication de matières premières et d’additifs</th><th>Matières premières et additifs pour la fabrication desquels les organismes de la colonne 1 peuvent être utilisés</th><th>Date de l’homologation</th><th>Date de la prolongation de l’homologation</th><th>Date de l’abrogation de l’homologation</th><th>Abrogation de l’homologation pour des raisons de sécurité</th></tr>
-<tr><td>Soja GTS 40-3-2 (Monsanto)</td><td>tous</td><td>20.12.1997</td><td>01.01.2015</td><td></td><td></td></tr>
-<tr><td>Maïs Bt 11 (Syngenta)</td><td>tous</td><td>14.10.1998</td><td>01.01.2015</td><td></td><td></td></tr>
-<tr><td>Maïs Bt 176 (Syngenta)</td><td>tous</td><td>06.01.1998</td><td></td><td>01.01.2015</td><td>non</td></tr>
-<tr><td>Maïs MON810 (Monsanto)</td><td>tous</td><td>27.07.2000</td><td>01.01.2015</td><td></td><td></td></tr>
-<tr><td>Maïs 1507 (Pioneer HiBred)</td><td>tous</td><td>01.07.2014</td><td></td><td></td><td></td></tr>
+<tr><td>Soja GTS 40-3-2 (Monsanto)</td><td>tous</td><td>20.12.1997</td><td>01.01.2015</td><td>01.01.2025</td><td>non</td></tr>
+<tr><td>Maïs Bt 11 (Syngenta)</td><td>tous</td><td>14.10.1998</td><td>01.01.2015</td><td>01.01.2025</td><td>non</td></tr>
+<tr><td>Maïs MON810 (Monsanto)</td><td>tous</td><td>27.07.2000</td><td>01.01.2015</td><td>01.01.2025</td><td>non</td></tr>
+<tr><td>Maïs 1507 (Pioneer HiBred)</td><td>tous</td><td>01.07.2014</td><td></td><td>01.07.2024</td><td>non</td></tr>
 <tr><td>Tous les organismes génétiquement modifiés autorisés à être mis en circulation dans l’UE selon les art. 19 à 23 du règlement (CE) n<sup>o</sup> 1829/2003[^annexu1-lvlu1-1]</td><td>gluten de maïs gluten-feed de maïs farine de rafles de maïs germes de maïs flocons de maïs farine fourragère de maïs maïs-épis complet, séché amidon de maïs amidon de maïs gélatinisé drèche de maïs de distillerie séchée graines de soja extrudées coques de soja</td><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td>farine ou flocons de pommes de terre amidon de pomme de terre protéine de pomme de terre mélasse de betterave pulpe de betteraves déshydratée huile, tourteau et autre sous-produit résultant de la production d’huile de colza, de soja, de coton et de maïs</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: R (CE) n<sup>o</sup> 1829/2003 du Parlement européen et du Conseil du 22 sept. 2003 concernant les denrées alimentaires et les aliments pour animaux génétiquement modifiés, JO L 268 du 18.10.2003, p. 1; modifié en dernier lieu par le R (CE) n<sup>o</sup> 298/2008 du 11.3.2008, JO L 97 du 9.4.2008, p. 64.
+[^annexu1-lvlu1-1]: Règlement (CE) n<sup>o</sup> 1829/2003 du Parlement européen et du Conseil du 22 septembre 2003 concernant les denrées alimentaires et les aliments pour animaux génétiquement modifiés, JO L 268 du 18.10.2003, p. 1; modifié en dernier lieu par le règlement (UE) 2019/1381, JO L 231 du 6.9.2019, p. 1.

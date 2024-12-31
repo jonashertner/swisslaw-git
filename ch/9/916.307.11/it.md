@@ -3,18 +3,18 @@ sr: "916.307.11"
 title: "Ordinanza dell'UFAG del 21 maggio 2014 concernente la lista degli alimenti OGM per animali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/323"
 language: it
-version: 2015-01-01
+version: 2025-01-01
 adopted: 2014-05-21
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/323/20150101/it/xml/fedlex-data-admin-ch-eli-cc-2014-323-20150101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/323/20150101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/323/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2014-323-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/323/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’UFAG concernente la lista degli alimenti OGM per animali
 
-del 21 maggio 2014 (Stato 1° gennaio 2015)
+del 21 maggio 2014 (Stato 1° gennaio 2025)
 
 L’Ufficio federale dell’agricoltura (UFAG),
 
@@ -50,7 +50,7 @@ Per gli OGM la cui autorizzazione per la produzione di alimenti per animali è s
 - a. la data di revoca dell’autorizzazione;
 - b. l’informazione indicante se l’autorizzazione sia stata revocata per motivi di sicurezza.[^2-1]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’UFAG del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4045](https://fedlex.data.admin.ch/eli/oc/2014/677)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O dell’UFAG del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4045](https://fedlex.data.admin.ch/eli/oc/2014/677)).
 
 #### Art. 3
 
@@ -66,23 +66,22 @@ L’ordinanza dell’UFAG del 1° febbraio 2005[^3-1] concernente la lista degli
 
 La presente ordinanza entra in vigore il 1° luglio 2014.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 1, 2 cpv. 3)
 
 ## Lista degli alimenti OGM per animali
 
-[^t-1]: Nuovo testo giusta il n. II dell’O dell’UFAG del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4045](https://fedlex.data.admin.ch/eli/oc/2014/677)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’UFAG del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 628](https://fedlex.data.admin.ch/eli/oc/2024/628)).
 
 <table>
-<tr><th>Organismi geneticamente modificati autorizzati per la produzione di materie prime e additivi</th><th></th><th>Materie prime e additivi nei quali possono essere utilizzati gli organismi della colonna 1</th><th></th><th>Data dell’autorizzazione</th><th></th><th>Data della proroga dell’autorizzazione</th><th></th><th>Data della revoca dell’autorizzazione</th><th></th><th>Revoca dell’autorizzazione per motivi di sicurezza</th></tr>
-<tr><td>Soia GTS 40-3-2 (Monsanto)</td><td></td><td>tutti</td><td></td><td>20.12.1997</td><td></td><td>01.01.2015</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Granturco Bt 11 (Syngenta)</td><td></td><td>tutti</td><td></td><td>14.10.1998</td><td></td><td>01.01.2015</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Granturco Bt 176 (Syngenta)</td><td></td><td>tutti</td><td></td><td>06.01.1998</td><td></td><td></td><td></td><td>01.01.2015</td><td></td><td>No</td></tr>
-<tr><td>Granturco MON810 (Monsanto)</td><td></td><td>tutti</td><td></td><td>27.07.2000</td><td></td><td>01.01.2015</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Granturco 1507 (Pioneer HiBred)</td><td></td><td>tutti</td><td></td><td>01.07.2014</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Tutti gli organismi geneticamente modificati che in virtù degli articoli 19–23 del regolamento (CE) 1829/2003[^annexu1-lvlu1-1] possono essere immessi sul mercato dell’UE</td><td></td><td>Glutine di granturco Alimenti di glutine di granturco Farina di fuso di granturco Germi di granturco Fiocchi di granturco Farina di granturco per l'alimentazione animale Tritello di spiga di granturco essiccato Amido di granturco Amido gonfiato di granturco Borlande essiccate di granturco Fave di soia estruse Baccelli di fave di soia</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Farina o fiocchi di patate Fecola di patate Proteine di patate Melassa di barbabietole da zucchero Polpa di barbabietole da zucchero Olio, panelli oleosi e altri sottoprodotti dell’estrazione di olio di colza, soia, semi di cotone e granturco</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>Organismi geneticamente modificati autorizzati per la produzione di materie prime e additivi</th><th>Materie prime e additivi nei quali possono essere utilizzati gli organismi della colonna 1</th><th>Data dell’autorizzazione</th><th>Data della proroga dell’autorizzazione</th><th>Data della revoca dell’autorizzazione</th><th>Revoca dell’autorizzazione per motivi di sicurezza</th></tr>
+<tr><td>Soia GTS 40-3-2 (Monsanto)</td><td>tutti</td><td>20.12.1997</td><td>01.01.2015</td><td>01.01.2025</td><td>no</td></tr>
+<tr><td>Granturco Bt 11 (Syngenta)</td><td>tutti</td><td>14.10.1998</td><td>01.01.2015</td><td>01.01.2025</td><td>no</td></tr>
+<tr><td>Granturco MON810 (Monsanto)</td><td>tutti</td><td>27.07.2000</td><td>01.01.2015</td><td>01.01.2025</td><td>no</td></tr>
+<tr><td>Granturco 1507 (Pioneer HiBred)</td><td>tutti</td><td>01.07.2014</td><td></td><td>01.07.2024</td><td>no</td></tr>
+<tr><td>Tutti gli organismi geneticamente modificati che in virtù degli articoli 19–23 del regolamento (CE) n. 1829/2003[^annexu1-lvlu1-1] possono essere immessi sul mercato dell’UE</td><td>Glutine di granturco Alimenti di glutine di granturco Farina di fuso di granturco Germi di granturco Fiocchi di granturco Farina di granturco per l’alimentazione animale Tritello di spiga di granturco essiccato Amido di granturco Amido gonfiato di granturco Borlande essiccate di granturco Fave di soia estruse Baccelli di fave di soia</td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td>Farina o fiocchi di patate Fecola di patate Proteine di patate Melassa di barbabietole da zucchero Polpa di barbabietole da zucchero Olio, panelli oleosi e altri sottoprodotti dell’estrazione di olio di colza, soia, semi di cotone e granturco</td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-[^annexu1-lvlu1-1]: Regolamento (CE) n. 1829/2003 del Parlamento europeo e del Consiglio del 22 set. 2003 relativo agli alimenti e ai mangimi geneticamente modificati, GU L 268 del 18.10.2003, pag. 1; modificato da ultimo dal regolamento (CE) n. 298/2008 GU L 97 del 9.4.2008, pag. 64.
+[^annexu1-lvlu1-1]: Regolamento (CE) n. 1829/2003 del Parlamento europeo e del Consiglio del 22 settembre 2003 relativo agli alimenti e ai mangimi geneticamente modificati, GU L 268 del 18.10.2003, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1381, GU L 231 del 6.9.2019, pag. 1.
