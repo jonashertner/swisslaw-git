@@ -4,11 +4,11 @@ title: "Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinan
 short: OMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: it
-version: 2022-05-01
+version: 2025-01-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220501/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220501-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/it"
 
 (Ordinanza sul materiale bellico, OMB)
 
-del 25 febbraio 1998 (Stato 1° maggio 2022)
+del 25 febbraio 1998 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -324,19 +324,20 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 
 **Autorità di rilascio**
 
-<sup>1</sup> Fatto salvo il capoverso 3, la SECO è l’autorità preposta al rilascio delle autorizzazioni.[^13-1]
+<sup>1</sup> Fatti salvi i capoversi 2 e 3, la SECO è l’autorità preposta al rilascio delle autorizzazioni.[^13-1]
 
-<sup>2</sup> ...[^13-2]
+<sup>2</sup> La competenza per il trasporto per via terrestre di materiale bellico da parte di truppe militari straniere e dei loro membri è retta dall’ordinanza del 13 novembre 2024[^13-2] sulla cooperazione militare internazionale.[^13-3]
 
-<sup>2bis</sup> ...[^13-3]
+<sup>2bis</sup> ...[^13-4]
 
-<sup>3</sup> La competenza per il transito con aeromobili militari esteri e altri aeromobili di Stato è retta dall’ordinanza del 23 marzo 2005[^13-4] concernente la salvaguardia della sovranità sullo spazio aereo.[^13-5]
+<sup>3</sup> La competenza per il transito con aeromobili militari esteri e altri aeromobili di Stato è retta dall’ordinanza del 23 marzo 2005[^13-5] concernente la salvaguardia della sovranità sullo spazio aereo.[^13-6]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-2]: Abrogato dal n. I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-3]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogato dal n. I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-4]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
-[^13-5]: Nuovo testo giusta il n. I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^13-1]: Nuovo testo giusta l’art. 17 n. 2 dell’O del 13 nov. 2024 sulla cooperazione militare internazionale, in vigore dal 1° gen. 2024 ([RU 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
+[^13-2]: RS **580.81**
+[^13-3]: Nuovo testo giusta l’art. 17 n. 2 dell’O del 13 nov. 2024 sulla cooperazione militare internazionale, in vigore dal 1° gen. 2024 ([RU 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
+[^13-4]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogato dal n. I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^13-5]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^13-6]: Nuovo testo giusta il n. I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 
 #### Art. 14
 
@@ -561,7 +562,7 @@ Le domande pendenti al momento dell’entrata in vigore della modifica del 19 se
 
 La presente ordinanza entra in vigore il 1° aprile 1998.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2)
 
@@ -623,7 +624,7 @@ I beni elencati nel presente elenco quale allegato all’ordinanza sul materiale
 <tr><td colspan="2">KM 22</td><td colspan="2">(Non contiene nessun KM; figura solo per mantenere il parallelismo con la numerazione della ML)</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 6 e 7)
 
@@ -681,7 +682,7 @@ Svezia
 
 Ungheria
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 6*a* cpv. 4)
 

@@ -4,11 +4,11 @@ title: Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)
 short: OMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: fr
-version: 2022-05-01
+version: 2025-01-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220501/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220501-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/fr"
 
 (OMG)
 
-du 25 février 1998 (Etat le 1<sup>er</sup> mai 2022)
+du 25 février 1998 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -62,7 +62,7 @@ Sont réputés matériel de guerre les biens énumérés dans l’annexe 1.
 Il faut joindre à la demande d’obtention d’une autorisation initiale:
 
 - a. une liste du matériel de guerre qui fait l’objet de la demande d’autorisation;
-- b.[^3-1] ...
+- b.[^3-1] …
 - c. un extrait du registre du commerce;
 - d. un extrait du rôle des contributions;
 - e. un extrait du registre des poursuites;
@@ -275,7 +275,9 @@ Les personnes des catégories suivantes n’ont besoin d’aucune autorisation p
 
 **Certificat d’importation**
 
-<sup>1</sup> Le Secrétariat d’État à l’économie (SECO) établit, sur demande écrite de l’importateur de matériel de guerre, un certificat d’importation officiel, en complément de l’autorisation d’importer, si
+<sup>1</sup>
+
+Le Secrétariat d’État à l’économie (SECO) établit, sur demande écrite de l’importateur de matériel de guerre, un certificat d’importation officiel, en complément de l’autorisation d’importer, si:
 
 - a. l’État fournisseur du matériel de guerre le demande expressément, et
 - b.[^10-1] le requérant est domicilié ou établi en Suisse ou au Liechtenstein.
@@ -322,19 +324,20 @@ Les personnes des catégories suivantes n’ont besoin d’aucune autorisation p
 
 **Autorité compétente en matière d’autorisation**
 
-<sup>1</sup> L’autorité habilitée à délivrer les autorisations est le SECO, sous réserve de l’al. 3.[^13-1]
+<sup>1</sup> L’autorité habilitée à délivrer les autorisations est le SECO, sous réserve des al. 2 et 3.[^13-1]
 
-<sup>2</sup> ...[^13-2]
+<sup>2</sup> La compétence en matière de transport de matériel de guerre par des troupes étrangères et leurs membres au sol est régie par l’ordonnance du 13 novembre 2024 concernant la coopération militaire internationale[^13-2].[^13-3]
 
-<sup>2bis</sup> ...[^13-3]
+<sup>2bis</sup> …[^13-4]
 
-<sup>3</sup> La compétence en matière de transit d’aéronefs militaires et d’autres aéronefs d’État étrangers est régie par l’ordonnance du 23 mars 2005 sur la sauvegarde de la souveraineté sur l’espace aérien[^13-4].[^13-5]
+<sup>3</sup> La compétence en matière de transit d’aéronefs militaires et d’autres aéronefs d’État étrangers est régie par l’ordonnance du 23 mars 2005 sur la sauvegarde de la souveraineté sur l’espace aérien[^13-5].[^13-6]
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-2]: Abrogé par le ch. I de l’O du 21 nov. 2001, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-3]: Introduit par l’art. 50 ch. 3 de l’O du 21 sept. 1998 sur les armes, dans la teneur du 16 mars 2001 ([RO 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogé par le ch. I de l’O du 21 nov. 2001 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-4]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
-[^13-5]: Nouvelle teneur selon le ch. I de l’O du 19 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^13-1]: Nouvelle teneur selon l’art. 17 ch. 2 de l’O du 13 nov. 2024 concernant la coopération militaire internationale, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
+[^13-2]: [RS 510.81](https://fedlex.data.admin.ch/eli/cc/2024/685)
+[^13-3]: Nouvelle teneur selon l’art. 17 ch. 2 de l’O du 13 nov. 2024 concernant la coopération militaire internationale, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
+[^13-4]: Introduit par l’art. 50 ch. 3 de l’O du 21 sept. 1998 sur les armes, dans la teneur du 16 mars 2001 ([RO 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogé par le ch. I de l’O du 21 nov. 2001 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^13-5]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^13-6]: Nouvelle teneur selon le ch. I de l’O du 19 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 
 #### Art. 14
 
@@ -464,7 +467,7 @@ Les autorisations sont soumises aux émoluments suivants:[^22-1]
 - b. pour la révision ou l’adaptation d’une autorisation initiale ou pour l’établissement d’une nouvelle autorisation initiale: 250 francs;
 - c. pour les autorisations d’importation et d’exportation: 0,8 % de la valeur du bien, mais au minimum 50 francs et au maximum 5000 francs;
 - d.[^22-2] pour les autorisations de courtage, de commerce, les licences générales d’importation et de transit et les autorisations de conclure un contrat aux termes de l’art. 20 LFMG: 200 francs;
-- e.[^22-3] ...
+- e.[^22-3] …
 - f.[^22-4] pour les autorisations spécifiques de transit: 100 francs.
 
 <sup>2</sup> Les émoluments perçus conformément à l’al. 1, let. a, b, d et f peuvent être augmentés au maximum de moitié lorsque l’octroi de l’autorisation engendre des dépenses extraordinaires.[^22-5]
@@ -479,7 +482,7 @@ Aucun émolument n’est perçu pour les autorisations de transit:
 
 - a.[^22-7] d’armes à feu et de leurs munitions que des tireurs ou des chasseurs font transiter en rendant plausible le fait qu’elles serviront à des concours ou des entraînements de tir, à une formation ou à la chasse dans un État tiers;
 - b. de matériel de guerre qui doit transiter par la Suisse pour servir dans des États tiers dans le cadre de procédures d’enquête policière ou judiciaire;
-- c.[^22-8] ... .[^22-9]
+- c.[^22-8] … .[^22-9]
 
 <sup>6</sup>
 
@@ -545,11 +548,11 @@ Les demandes qui sont pendantes à l’entrée en vigueur des modifications du 1
 
 #### Art. 25
 
-**...**
+**…**
 
-<sup>1</sup> et <sup>2</sup> ...[^25-1]
+<sup>1</sup> et <sup>2</sup> …[^25-1]
 
-<sup>3</sup> ...[^25-2]
+<sup>3</sup> …[^25-2]
 
 [^25-1]: Abrogés par le ch. I de l’O du 21 nov. 2001, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^25-2]: Introduit par le ch. I de l’O du 21 nov. 2001 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)). Abrogé par le ch. IV 14 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
@@ -560,7 +563,7 @@ Les demandes qui sont pendantes à l’entrée en vigueur des modifications du 1
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 1998.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2)
 
@@ -623,7 +626,7 @@ Les biens répertoriés dans cette annexe de l’ordonnance sur le matériel de 
 <tr><td colspan="2">KM 22</td><td colspan="2">(ne vise pas du matériel de guerre; ne figure que pour qu’il y ait coïncidence de la numérotation avec celle de la LM)</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 6 et 7)
 
@@ -681,7 +684,7 @@ Suède
 
 République tchèque
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 6*a*, al. 4)
 

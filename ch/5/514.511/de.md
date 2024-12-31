@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterial
 short: KMV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: de
-version: 2022-05-01
+version: 2025-01-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220501/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220501-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/de"
 
 (Kriegsmaterialverordnung, KMV)
 
-vom 25. Februar 1998 (Stand am 1. Mai 2022)
+vom 25. Februar 1998 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -325,19 +325,20 @@ Das Staatssekretariat für Wirtschaft (SECO) stellt für die Einfuhr von Kriegsm
 
 **Bewilligungsbehörde**
 
-<sup>1</sup> Bewilligungsbehörde ist das SECO, unter Vorbehalt von Absatz 3.[^13-1]
+<sup>1</sup> Bewilligungsbehörde ist das SECO, unter Vorbehalt der Absätze 2 und 3.[^13-1]
 
-<sup>2</sup> …[^13-2]
+<sup>2</sup> Die Zuständigkeit für das Mitführen von Kriegsmaterial durch ausländische militärische Truppen und deren Angehörigen am Boden richtet sich nach der Verordnung vom 13. November 2024[^13-2] über die internationale militärische Kooperation.[^13-3]
 
-<sup>2bis</sup> …[^13-3]
+<sup>2bis</sup> …[^13-4]
 
-<sup>3</sup> Die Zuständigkeit für Durchfuhren mit ausländischen Militär- und anderen Staatsluftfahrzeugen richtet sich nach der Verordnung vom 23. März 2005[^13-4] über die Wahrung der Lufthoheit.[^13-5]
+<sup>3</sup> Die Zuständigkeit für Durchfuhren mit ausländischen Militär- und anderen Staatsluftfahrzeugen richtet sich nach der Verordnung vom 23. März 2005[^13-5] über die Wahrung der Lufthoheit.[^13-6]
 
-[^13-1]: Fassung gemäss Ziff. I der V über das Kriegsmaterial vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-2]: Aufgehoben durch Ziff. I der V über das Kriegsmaterial vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-3]: Eingefügt durch Art. 50 Ziff. 3 der Waffenverordnung vom 21. Sept. 1998, in der Fassung vom 16. März 2001 ([AS 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Aufgehoben durch Ziff. I der V vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-4]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
-[^13-5]: Fassung gemäss Ziff. I der V vom 19. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^13-1]: Fassung gemäss Art. 17 Ziff. 2 der V vom 13. Nov. 2024 über die internationale militärische Kooperation, in Kraft seit 1. Jan. 2025 ([AS 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
+[^13-2]: [SR 510.81](https://fedlex.data.admin.ch/eli/cc/2024/685)
+[^13-3]: Fassung gemäss Art. 17 Ziff. 2 der V vom 13. Nov. 2024 über die internationale militärische Kooperation, in Kraft seit 1. Jan. 2025 ([AS 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
+[^13-4]: Eingefügt durch Art. 50 Ziff. 3 der Waffenverordnung vom 21. Sept. 1998, in der Fassung vom 16. März 2001 ([AS 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Aufgehoben durch Ziff. I der V vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
+[^13-5]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^13-6]: Fassung gemäss Ziff. I der V vom 19. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 
 #### Art. 14
 
@@ -483,7 +484,7 @@ Es werden keine Gebühren erhoben für Durchfuhrbewilligungen für:
 
 - a.[^22-6] Feuerwaffen mit dazugehöriger Munition, die Schützen oder Jäger glaubhaft für Wett- oder Trainingsschiessen, eine Ausbildung oder für die Jagd in einem Drittstaat durchführen;
 - b. Kriegsmaterial, das im Rahmen polizeilicher oder gerichtlicher Ermittlungsverfahren für Abklärungen in Drittstaaten durch die Schweiz durchgeführt werden muss;
-- c.[^22-7] ….[^22-8]
+- c.[^22-7] …[^22-8]
 
 <sup>6</sup>
 
@@ -563,7 +564,7 @@ Gesuche, die zum Zeitpunkt des Inkrafttretens der Änderungen vom 19. September 
 
 Diese Verordnung tritt am 1. April 1998 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2)
 
@@ -623,7 +624,7 @@ Anmerkung: Die in dieser Liste als Anhang zur Kriegsmaterialverordnung aufgefüh
 <tr><td>KM 22</td><td colspan="2">(Enthält kein KM; aufgeführt nur damit analoge Nummerierung zur ML)</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 6 und 7)
 
@@ -681,7 +682,7 @@ Ungarn
 
 USA
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 6*a* Abs. 4)
 

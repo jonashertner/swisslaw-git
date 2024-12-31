@@ -4,11 +4,11 @@ title: "Ordinance of 25 February 1998 on War Material (War Material Ordinance, W
 short: WMO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: en
-version: 2022-05-01
+version: 2025-01-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20220501/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20220501-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20220501/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (War Materiel Ordinance, WMO)
 
-of 25 February 1998 (Status as of 1 May 2022)
+of 25 February 1998 (Status as of 1 January 2025)
 
 The Swiss Federal Council,
 
@@ -327,19 +327,20 @@ On written application from the importer, the State Secretariat for Economic Aff
 
 **Licensing authority**
 
-<sup>1</sup> The licensing authority is SECO, subject to the reservation of paragraph 3.[^13-1]
+<sup>1</sup> The licensing authority is SECO, subject to the reservation of paragraphs 2 and 3.[^13-1]
 
-<sup>2</sup> ... [^13-2]
+<sup>2</sup> The responsibility for the transport of war materiel by foreign military units and their members on the ground is governed by the Ordinance of 13 November 2024[^13-2] on International Military Cooperation.[^13-3]
 
-<sup>2bis</sup> ...[^13-3]
+<sup>2bis</sup> ...[^13-4]
 
-<sup>3</sup> The responsibility for the transit of military and other state aircraft is governed by the Ordinance of 23 March 2005[^13-4] on the Protection of Airspace Sovereignty.[^13-5]
+<sup>3</sup> The responsibility for the transit of military and other state aircraft is governed by the Ordinance of 23 March 2005[^13-5] on the Protection of Airspace Sovereignty.[^13-6]
 
-[^13-1]: Amended by No I of the Ordinance on War Materiel of 21 Nov. 2001, in force since 1 March 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-2]: Repealed by No I of the Ordinance on War Materiel of 21 Nov. 2001, with effect from 1 March 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-3]: Inserted by Art. 50 No 3 of the Weapons Ordinance of 21 Sept. 1998, in its version of 16 March 2001 ([AS 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Repealed by No I of the O of 21 Nov. 2001, with effect from 1 March 2002 (AS **2001** 312).
-[^13-4]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
-[^13-5]: Amended by No I of the O of 19 Aug. 2015, in force since 1 Oct. 2015 ([AS 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
+[^13-1]: Amended by Art. 17 No 2 of the O of 13 Nov. 2024 on International Military Cooperation, in force since 1 Jan. 2025 ([AS 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
+[^13-2]: [SR 510.81](https://fedlex.data.admin.ch/eli/cc/2024/685)
+[^13-3]: Amended by Art. 17 No 2 of the O of 13 Nov. 2024 on International Military Cooperation, in force since 1 Jan. 2025 ([AS 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
+[^13-4]: Inserted by Art. 50 No 3 of the Weapons Ordinance of 21 Sept. 1998, in its version of 16 March 2001 ([AS 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Repealed by No I of the O of 21 Nov. 2001, with effect from 1 March 2002 (AS **2001** 312).
+[^13-5]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^13-6]: Amended by No I of the O of 19 Aug. 2015, in force since 1 Oct. 2015 ([AS 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 
 #### Art. 14
 
@@ -357,7 +358,7 @@ In the case of the licensing of foreign transactions under Article 22 WMA and of
 - b. the Federal Office for Energy in the case of nuclear related matters;
 - c.[^14-4] the Federal Office of Civil Aviation and the responsible offices of the Federal Department of Defence, Civil Protection and Sport in the case of transit with civilian aircraft.
 
-<sup>2</sup> <sup>bis</sup> SECO shall consult the FIS in the case of significant licensing proceedings.[^14-5]
+<sup>2bis</sup> SECO shall consult the FIS in the case of significant licensing proceedings.[^14-5]
 
 <sup>3</sup> The offices involved shall decide which applications are of major significance to foreign policy or security policy in accordance with Article 29 paragraph 2 WMA and must therefore be submitted to the Federal Council for decision.[^14-6]
 
@@ -565,7 +566,7 @@ Applications that are pending when the amendments of 19 September 2014 come into
 
 This Ordinance comes into force on 1 April 1998.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 2)
 
@@ -625,7 +626,7 @@ Note: The goods listed as the Annex to the War Materiel Ordinance originate from
 <tr><td>ML 22</td><td colspan="2">(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
 </table>
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 6 and 7)
 
@@ -683,7 +684,7 @@ Hungary
 
 USA
 
-Annex 3*[^t-3]*
+Annex 3[^t-3]
 
 (Art. 6*a* para. 4)
 
