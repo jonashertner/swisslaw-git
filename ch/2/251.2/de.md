@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Februar 1998 über die Gebühren zum Kartellgesetz (G
 short: GebV-KG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/919_919_919"
 language: de
-version: 2013-01-01
+version: 2025-01-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/919_919_919/20130101/de/xml/fedlex-data-admin-ch-eli-cc-1998-919_919_919-20130101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/919_919_919/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/919_919_919/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1998-919_919_919-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/919_919_919/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/919_919_919/20130101/de"
 
 (Gebührenverordnung KG, GebV-KG)[^t-1]
 
-vom 25. Februar 1998 (Stand am 1. Januar 2013)
+vom 25. Februar 1998 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2637](https://fedlex.data.admin.ch/eli/oc/2006/403)).
 
@@ -93,12 +93,12 @@ Keine Gebühren bezahlen ferner:
 
 <sup>2</sup> Es gilt ein Stundenansatz von 100–400 Franken. Dieser richtet sich namentlich nach der Dringlichkeit des Geschäfts und der Funktionsstufe des ausführenden Personals.[^4-1]
 
-<sup>3</sup> Für die vorläufige Prüfung gemäss Artikel 32 KG erhebt das Sekretariat statt der Gebühr nach Zeitaufwand eine Pauschalgebühr von 5000 Franken.[^4-2]
+<sup>3</sup> …[^4-2]
 
 <sup>4</sup> Auslagen für Porti sowie Telefon- und Kopierkosten sind sowohl in den Gebühren nach Aufwand als auch in den Pauschalgebühren eingeschlossen.[^4-3]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 12. März 2004, in Kraft seit 1. April 2004 ([AS 2004 1391](https://fedlex.data.admin.ch/eli/oc/2004/173)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 12. März 2004, in Kraft seit 1. April 2004 ([AS 2004 1391](https://fedlex.data.admin.ch/eli/oc/2004/173)).
+[^4-2]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 677](https://fedlex.data.admin.ch/eli/oc/2024/677)).
 [^4-3]: Eingefügt durch Ziff. I der V vom 12. März 2004, in Kraft seit 1. April 2004 ([AS 2004 1391](https://fedlex.data.admin.ch/eli/oc/2004/173)).
 
 #### Art. 5

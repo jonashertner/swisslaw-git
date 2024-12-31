@@ -4,18 +4,18 @@ title: "Ordonnance du 25 février 1998 relative aux émoluments prévus par la l
 short: OEmol-LCart
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/919_919_919"
 language: fr
-version: 2013-01-01
+version: 2025-01-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/919_919_919/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-919_919_919-20130101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/919_919_919/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/919_919_919/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-919_919_919-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/919_919_919/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance relative aux émoluments prévus par la loi sur les cartels (Ordonnance sur les émoluments LCart, OEmol-LCart)
 
-du 25 février 1998 (État le 1<sup>er</sup> janvier 2013)[^t-1]
+du 25 février 1998 (État le 1<sup>er</sup> janvier 2025)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2637](https://fedlex.data.admin.ch/eli/oc/2006/403)).
 
@@ -91,12 +91,12 @@ N’ont en outre pas à verser d’émoluments:
 
 <sup>2</sup> Il varie entre 100 et 400 francs l’heure. Le montant est fixé notamment en fonction de l’urgence de l’affaire et de la classe de salaire de l’employé qui effectue la prestation.[^4-1]
 
-<sup>3</sup> Le secrétariat perçoit un émolument forfaitaire de 5000 francs au lieu d’un émolument «prorata temporis» pour l’examen préalable visé à l’art. 32 LCart.[^4-2]
+<sup>3</sup> …[^4-2]
 
 <sup>4</sup> Les frais de port, de téléphone et de copie sont compris autant dans l’émolument «prorata temporis» que dans l’émolument forfaitaire.[^4-3]
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2004, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1391](https://fedlex.data.admin.ch/eli/oc/2004/173)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2004, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1391](https://fedlex.data.admin.ch/eli/oc/2004/173)).
+[^4-2]: Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 677](https://fedlex.data.admin.ch/eli/oc/2024/677)).
 [^4-3]: Introduit par le ch. I de l’O du 12 mars 2004, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1391](https://fedlex.data.admin.ch/eli/oc/2004/173)).
 
 #### Art. 5
