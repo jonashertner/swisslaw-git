@@ -4,13 +4,13 @@ number: "860.21"
 title: Verordnung über die sozialen Leistungsangebote
 short: SLV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-25
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-16
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2889/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3070/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2889/pdf_file"
 
 (SLV)
 
-vom 24.11.2021 (Stand 01.01.2024)
+vom 24.11.2021 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -203,16 +203,16 @@ beschliesst:
 
 - a bei Pflegestufe 1 — CHF 0.00 pro Tag
 - b bei Pflegestufe 2 — CHF 0.00 pro Tag
-- c bei Pflegestufe 3 — CHF 5.95 pro Tag
-- d bei Pflegestufe 4 — CHF 19.45 pro Tag
-- e bei Pflegestufe 5 — CHF 32.95 pro Tag
-- f bei Pflegestufe 6 — CHF 46.45 pro Tag
-- g bei Pflegestufe 7 — CHF 59.95 pro Tag
-- h bei Pflegestufe 8 — CHF 73.45 pro Tag
-- j bei Pflegestufe 9 — CHF 86.95 pro Tag
-- k bei Pflegestufe 10 — CHF 100.45 pro Tag
-- l bei Pflegestufe 11 — CHF 113.95 pro Tag
-- m bei Pflegestufe 12 — CHF 127.45 pro Tag
+- c bei Pflegestufe 3 — CHF 6.95 pro Tag
+- d bei Pflegestufe 4 — CHF 20.85 pro Tag
+- e bei Pflegestufe 5 — CHF 34.75 pro Tag
+- f bei Pflegestufe 6 — CHF 48.65 pro Tag
+- g bei Pflegestufe 7 — CHF 62.55 pro Tag
+- h bei Pflegestufe 8 — CHF 76.45 pro Tag
+- i bei Pflegestufe 9 — CHF 90.35 pro Tag
+- k bei Pflegestufe 10 — CHF 104.25 pro Tag
+- l bei Pflegestufe 11 — CHF 118.15 pro Tag
+- m bei Pflegestufe 12 — CHF 132.05 pro Tag
 
 <sup>3</sup> Werden ausserkantonale Leistungen der stationären Pflege in Anspruch genommen, vergütet das Gesundheitsamt die Pflegekosten nach Artikel 25a Absatz 5 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^15-1].
 
@@ -386,17 +386,17 @@ beschliesst:
 <sup>3</sup> Die Normkosten betragen vor Abzug der Patientenbeteiligung für:
 
 - a Versorgungsrelevante Spitex-Organisationen:
-  - 1\. Abklärung, Beratung und Koordination: — CHF 37.00 pro Stunde
-  - 2\. Untersuchung und Behandlung: — CHF 37.40 pro Stunde
-  - 3\. Grundpflege: — CHF 39.80 pro Stunde
+  - 1\. Abklärung, Beratung und Koordination: — CHF 37.90 pro Stunde
+  - 2\. Untersuchung und Behandlung: — CHF 38.10 pro Stunde
+  - 3\. Grundpflege: — CHF 40.50 pro Stunde
 - b Freiberufliche Pflegefachpersonen:
-  - 1\. Abklärung, Beratung und Koordination: — CHF 30.30 pro Stunde
-  - 2\. Untersuchung und Behandlung: — CHF 31.50 pro Stunde
-  - 3\. Grundpflege: — CHF 34.40 pro Stunde
+  - 1\. Abklärung, Beratung und Koordination: — CHF 31.10 pro Stunde
+  - 2\. Untersuchung und Behandlung: — CHF 32.20 pro Stunde
+  - 3\. Grundpflege: — CHF 35.00 pro Stunde
 - c Anbieterinnen und Anbieter des Wohnens mit Dienstleistungen:
-  - 1\. Abklärung, Beratung und Koordination: — CHF 24.80 pro Stunde
-  - 2\. Untersuchung und Behandlung: — CHF 25.10 pro Stunde
-  - 3\. Grundpflege: — CHF 27.60 pro Stunde
+  - 1\. Abklärung, Beratung und Koordination: — CHF 25.60 pro Stunde
+  - 2\. Untersuchung und Behandlung: — CHF 25.90 pro Stunde
+  - 3\. Grundpflege: — CHF 28.20 pro Stunde
 
 #### Art. 30
 
@@ -410,14 +410,14 @@ beschliesst:
 <sup>2</sup> Die zusätzlichen Normkosten der Pflege für das Bereitstellen des gesamten Leistungsspektrums nach Artikel 27 betragen vor Abzug der Patientenbeteiligung:
 
 - 1\. Abklärung, Beratung und Koordination: — CHF 5.80 pro Stunde
-- 2\. Untersuchung und Behandlung: — CHF 3.30 pro Stunde
+- 2\. Untersuchung und Behandlung: — CHF 3.50 pro Stunde
 - 3\. Grundpflege: — CHF 2.00 pro Stunde
 
 <sup>3</sup> Spitex-Organisationen mit Leistungsvertrag werden somit für die Pflege insgesamt entschädigt mit:
 
-- 1\. Abklärung, Beratung und Koordination: — CHF 42.80 pro Stunde
-- 2\. Untersuchung und Behandlung: — CHF 40.70 pro Stunde
-- 3\. Grundpflege: — CHF 41.80 pro Stunde
+- 1\. Abklärung, Beratung und Koordination: — CHF 43.70 pro Stunde
+- 2\. Untersuchung und Behandlung: — CHF 41.60 pro Stunde
+- 3\. Grundpflege: — CHF 42.50 pro Stunde
 
 <sup>4</sup> Die Normkosten für die Wegentschädigung der Leistungsvertragspartnerinnen und Leistungsvertragspartner betragen:
 

@@ -4,13 +4,13 @@ number: "860.21"
 title: Ordonnance sur les programmes d’action sociale
 short: OPASoc
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-10-25
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-10-16
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2889/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3070/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2889/pdf_file"
 
 (OPASoc)
 
-du 24.11.2021 (état au 01.01.2024)
+du 24.11.2021 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -203,16 +203,16 @@ arrête:
 
 - a Degré de soins 1 — CHF 0.00 par jour
 - b Degré de soins 2 — CHF 0.00 par jour
-- c Degré de soins 3 — CHF 5.95 par jour
-- d Degré de soins 4 — CHF 19.45 par jour
-- e Degré de soins 5 — CHF 32.95 par jour
-- f Degré de soins 6 — CHF 46.45 par jour
-- g Degré de soins 7 — CHF 59.95 par jour
-- h Degré de soins 8 — CHF 73.45 par jour
-- j Degré de soins 9 — CHF 86.95 par jour
-- k Degré de soins 10 — CHF 100.45 par jour
-- l Degré de soins 11 — CHF 113.95 par jour
-- m Degré de soins 12 — CHF 127.45 par jour
+- c Degré de soins 3 — CHF 6.95 par jour
+- d Degré de soins 4 — CHF 20.85 par jour
+- e Degré de soins 5 — CHF 34.75 par jour
+- f Degré de soins 6 — CHF 48.65 par jour
+- g Degré de soins 7 — CHF 62.55 par jour
+- h Degré de soins 8 — CHF 76.45 par jour
+- i Degré de soins 9 — CHF 90.35 par jour
+- k Degré de soins 10 — CHF 104.25 par jour
+- l Degré de soins 11 — CHF 118.15 par jour
+- m Degré de soins 12 — CHF 132.05 par jour
 
 <sup>3</sup> En cas de recours à des soins résidentiels dans un autre canton, l’Office de la santé rémunère les coûts conformément à l’article 25a, alinéa 5 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^15-1].
 
@@ -386,17 +386,17 @@ arrête:
 <sup>3</sup> Les coûts normatifs s’élèvent aux montants suivants avant déduction de la participation de la patientèle:
 
 - a Services de maintien à domicile déterminants
-  - 1\. Évaluation, conseils et coordination: — CHF 37.00 par heure
-  - 2\. Examens et traitements: — CHF 37.40 par heure
-  - 3\. Soins de base: — CHF 39.80 par heure
+  - 1\. Évaluation, conseils et coordination: — CHF 37.90 par heure
+  - 2\. Examens et traitements: — CHF 38.10 par heure
+  - 3\. Soins de base: — CHF 40.50 par heure
 - b Infirmières et infirmiers exerçant à titre indépendant
-  - 1\. Évaluation, conseils et coordination: — CHF 30.30 par heure
-  - 2\. Examens et traitements: — CHF 31.50 par heure
-  - 3\. Soins de base: — CHF 34.40 par heure
+  - 1\. Évaluation, conseils et coordination: — CHF 31.10 par heure
+  - 2\. Examens et traitements: — CHF 32.20 par heure
+  - 3\. Soins de base: — CHF 35.00 par heure
 - c Prestataires proposant des appartements protégés
-  - 1\. Évaluation, conseils et coordination: — CHF 24.80 par heure
-  - 2\. Examens et traitements: — CHF 25.10 par heure
-  - 3\. Soins de base: — CHF 27.60 par heure
+  - 1\. Évaluation, conseils et coordination: — CHF 25.60 par heure
+  - 2\. Examens et traitements: — CHF 25.90 par heure
+  - 3\. Soins de base: — CHF 28.20 par heure
 
 #### Art. 30
 
@@ -410,14 +410,14 @@ arrête:
 <sup>2</sup> Les coûts normatifs supplémentaires définis pour la fourniture de l’ensemble des prestations prévues à l’article 27 s’élèvent aux montants suivants pour les soins avant déduction de la participation de la patientèle:
 
 - 1\. Évaluation, conseils et coordination: — CHF 5.80 par heure
-- 2\. Examens et traitements: — CHF 3.30 par heure
+- 2\. Examens et traitements: — CHF 3.50 par heure
 - 3\. Soins de base: — CHF 2.00 par heure
 
 <sup>3</sup> Les services de maintien à domicile bénéficiant d’un contrat de prestations se voient donc allouer au total l’indemnisation suivante pour les soins:
 
-- 1\. Évaluation, conseils et coordination: — CHF 42.80 par heure
-- 2\. Examens et traitements: — CHF 40.70 par heure
-- 3\. Soins de base: — CHF 41.80 par heure
+- 1\. Évaluation, conseils et coordination: — CHF 43.70 par heure
+- 2\. Examens et traitements: — CHF 41.60 par heure
+- 3\. Soins de base: — CHF 42.50 par heure
 
 <sup>4</sup> Les coûts normatifs pour l’indemnité de déplacement accordée aux partenaires contractuels s’élèvent aux montants suivants:
 
