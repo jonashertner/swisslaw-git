@@ -4,11 +4,11 @@ title: "Loi du 18 mars 2016 sur les amendes d'ordre (LAO)"
 short: LAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20240101/fr"
 
 (LAO)[^t-1]
 
-du 18 mars 2016 (État le 1<sup>er</sup> janvier 2024)
+du 18 mars 2016 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -59,13 +59,14 @@ Est sanctionné par une amende d’ordre dans une procédure simplifiée (procé
   - 14\. loi du 4 octobre 1991 sur les forêts[^1-15],
   - 15\. loi du 20 juin 1986 sur la chasse[^1-16],
   - 16\. loi fédérale du 21 juin 1991 sur la pêche[^1-17],
-  - 17\. loi fédérale du 23 mars 2001 sur le commerce itinérant[^1-18], ou
+  - 17\. loi fédérale du 23 mars 2001 sur le commerce itinérant[^1-18],
+  - 18\.[^1-19] loi fédérale du 29 septembre 2023 sur l’interdiction de se dissimuler le visage[^1-20], ou
 
-- b. prévue dans une ordonnance d’exécution des lois citées à la let. a, ch. 1 à 9 et 11 à 17. …[^1-19]
+- b. prévue dans une ordonnance d’exécution des lois citées à la let. a, ch. 1 à 9 et 11 à 17. …[^1-21]
 
 <sup>2</sup> La procédure de l’amende d’ordre n’est applicable qu’aux contraventions figurant dans les listes établies en vertu de l’art. 15.
 
-<sup>3</sup> Elle n’est pas applicable aux contraventions qui sont poursuivies et jugées en vertu de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^1-20].
+<sup>3</sup> Elle n’est pas applicable aux contraventions qui sont poursuivies et jugées en vertu de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^1-22].
 
 <sup>4</sup> Le montant maximal de l’amende d’ordre est de 300 francs.
 
@@ -89,8 +90,10 @@ Est sanctionné par une amende d’ordre dans une procédure simplifiée (procé
 [^1-16]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 [^1-17]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^1-18]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^1-19]: Phrase introduite par le ch. II 1 de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^1-20]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^1-19]: Introduit par l’art. 4 de la LF du 29 sept. 2023 sur l’interdiction de se dissimuler le visage, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 620](https://fedlex.data.admin.ch/eli/oc/2024/620); [FF 2022 2668](https://fedlex.data.admin.ch/eli/fga/2022/2668)).
+[^1-20]: [RS 311.6](https://fedlex.data.admin.ch/eli/cc/2024/620)
+[^1-21]: Phrase introduite par le ch. II 1 de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-22]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 2
 

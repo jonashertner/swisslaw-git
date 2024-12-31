@@ -4,11 +4,11 @@ title: Ordnungsbussengesetz vom 18. März 2016 (OBG)
 short: OBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20240101/de"
 
 (OBG)
 
-vom 18. März 2016 (Stand am 1. Januar 2024)
+vom 18. März 2016 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -57,13 +57,14 @@ Mit Ordnungsbusse wird in einem vereinfachten Verfahren (Ordnungsbussenverfahren
   - 14\. Waldgesetz vom 4. Oktober 1991[^1-16],
   - 15\. Jagdgesetz vom 20. Juni 1986[^1-17],
   - 16\. Bundesgesetz vom 21. Juni 1991[^1-18] über die Fischerei,
-  - 17\. Bundesgesetz vom 23. März 2001[^1-19] über das Gewerbe der Reisenden; oder
+  - 17\. Bundesgesetz vom 23. März 2001[^1-19] über das Gewerbe der Reisenden;
+  - 18\.[^1-20] Bundesgesetz vom 29. September 2023[^1-21] über das Verbot der Verhüllung des Gesichts; oder
 
-- b. in einer Verordnung aufgeführt ist, die sich auf ein Gesetz nach Buchstabe a Ziffern 1–9 und 11–17 stützt; ….[^1-20]
+- b. in einer Verordnung aufgeführt ist, die sich auf ein Gesetz nach Buchstabe a Ziffern 1–9 und 11–17 stützt; ….[^1-22]
 
 <sup>2</sup> Das Ordnungsbussenverfahren ist nur anwendbar, wenn der betreffende Übertretungstatbestand in den Listen nach Artikel 15 aufgeführt ist.
 
-<sup>3</sup> Es ist nicht anwendbar bei Übertretungen, die nach dem Bundesgesetz vom 22. März 1974[^1-21] über das Verwaltungsstrafrecht verfolgt und beurteilt werden.
+<sup>3</sup> Es ist nicht anwendbar bei Übertretungen, die nach dem Bundesgesetz vom 22. März 1974[^1-23] über das Verwaltungsstrafrecht verfolgt und beurteilt werden.
 
 <sup>4</sup> Die Ordnungsbusse beträgt höchstens 300 Franken.
 
@@ -88,8 +89,10 @@ Mit Ordnungsbusse wird in einem vereinfachten Verfahren (Ordnungsbussenverfahren
 [^1-17]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 [^1-18]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^1-19]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^1-20]: Zweiter Teilsatz eingefügt durch Ziff. II 1 des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^1-21]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^1-20]: Eingefügt durch Art. 4 des BG vom 29. Sept. 2023 über das Verbot der Verhüllung des Gesichts, in Kraft seit 1. Jan. 2025 (AS **202****4** 620; [BBl 2022 2668](https://fedlex.data.admin.ch/eli/fga/2022/2668)).
+[^1-21]: [SR 311.6](https://fedlex.data.admin.ch/eli/cc/2024/620)
+[^1-22]: Zweiter Teilsatz eingefügt durch Ziff. II 1 des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-23]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 2
 
@@ -220,7 +223,7 @@ Das Bedenkfristformular enthält folgende Angaben:
 
 <sup>3</sup> In Fällen nach Artikel 7 kann das Bedenkfristformular als Steckzettel verwendet werden. Das Bedenkfristformular enthält anstelle der Personalien nach Absatz 2 Buchstabe a das Fahrzeugkennzeichen.
 
-[^9-1]: Fassung gemäss Anhang 1 Ziff. 8 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); BBl **20****19** 6697).
+[^9-1]: Fassung gemäss Anhang 1 Ziff. 8 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 [^9-2]: Fassung gemäss Anhang 1 Ziff. 8 des BG vom 17. Juni 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 468](https://fedlex.data.admin.ch/eli/oc/2023/468); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 10

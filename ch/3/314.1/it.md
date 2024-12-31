@@ -4,11 +4,11 @@ title: Legge del 18 marzo 2016 sulle multe disciplinari (LMD)
 short: LMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20240101/it"
 
 (LMD)
 
-del 18 marzo 2016 (Stato 1° gennaio 2024)
+del 18 marzo 2016 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 123 capoverso 1 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: RU **2017** 6559 RS **101**
 [^ingress-2]: [FF 2015 869](https://fedlex.data.admin.ch/eli/fga/2015/96)
 
 #### Art. 1
@@ -57,13 +57,14 @@ decreta:
   - 14\. legge forestale del 4 ottobre 1991[^1-15],
   - 15\. legge del 20 giugno 1986[^1-16] sulla caccia,
   - 16\. legge federale del 21 giugno 1991[^1-17] sulla pesca,
-  - 17\. legge federale del 23 marzo 2001[^1-18] sul commercio ambulante; o
+  - 17\. legge federale del 23 marzo 2001[^1-18] sul commercio ambulante,
+  - 18\.[^1-19] legge federale del 29 settembre 2023[^1-20] sul divieto di dissimulare il viso; o
 
-- b. in un’ordinanza emanata in virtù di una legge di cui alla lettera a numeri 1–9 e 11–17; .... .[^1-19]
+- b. in un’ordinanza emanata in virtù di una legge di cui alla lettera a numeri 1–9 e 11–17; ... .[^1-21]
 
 <sup>2</sup> La procedura della multa disciplinare si applica soltanto alle fattispecie contravvenzionali che figurano in un elenco di cui all’articolo 15.
 
-<sup>3</sup> Non si applica alle contravvenzioni perseguite e giudicate secondo la legge federale del 22 marzo 1974[^1-20] sul diritto penale amministrativo.
+<sup>3</sup> Non si applica alle contravvenzioni perseguite e giudicate secondo la legge federale del 22 marzo 1974[^1-22] sul diritto penale amministrativo.
 
 <sup>4</sup> La multa disciplinare ammonta al massimo a 300 franchi.
 
@@ -87,8 +88,10 @@ decreta:
 [^1-16]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 [^1-17]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^1-18]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^1-19]: Seconda parte del per. introdotta dal n. II 1 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^1-20]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^1-19]: Introdotto dall’art. 4 della LF del 29 set. 2023 sul divieto di dissimulare il viso, in vigore dal 1° gen 2025 ([RU 2024 620](https://fedlex.data.admin.ch/eli/oc/2024/620); [FF 2022 2668](https://fedlex.data.admin.ch/eli/fga/2022/2668)).
+[^1-20]: [RS 311.6](https://fedlex.data.admin.ch/eli/cc/2024/620)
+[^1-21]: Seconda parte del per. introdotta dal n. II 1 della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 19 dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-22]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 2
 
