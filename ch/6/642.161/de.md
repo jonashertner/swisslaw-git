@@ -4,11 +4,11 @@ title: "Verordnung vom 22. Dezember 2023 über die Mindestbesteuerung grosser Un
 short: MindStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/841"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2023-12-22
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2023-841-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2023-841-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20240101/de"
 
 (Mindestbesteuerungsverordnung, MindStV)
 
-vom 22. Dezember 2023 (Stand am 1. Januar 2024)
+vom 22. Dezember 2023 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -518,9 +518,11 @@ Die veranlagenden Kantone können pro Veranlagungsverfügung eine Entschädigung
 
 <sup>1</sup> Diese Verordnung findet unter Vorbehalt von Absatz 2 Anwendung auf Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften, die ab dem Tag ihres Inkrafttretens beginnen.
 
-<sup>2</sup> Die Bestimmungen über die internationale Ergänzungssteuer finden zu einem späteren Zeitpunkt Anwendung. Für die Feststellung der ergänzungssteuerpflichtigen Geschäftseinheit nach Artikel 5 finden jedoch die Artikel 2.1–2.3 der GloBE-Mustervorschriften über die IIR bereits ab Inkrafttreten dieser Verordnung Anwendung.
+<sup>2</sup> Die Bestimmungen über die internationale Ergänzungssteuer finden, mit Ausnahme von Artikel 10 Absatz 3, Anwendung auf Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften, die ab dem 1. Januar 2025 beginnen. Artikel 10 Absatz 3 findet zu einem späteren Zeitpunkt Anwendung.[^40-1]
 
 <sup>3</sup> Bei fahrlässiger Verletzung von Verfahrenspflichten oder fahrlässiger Steuerhinterziehung entfällt die Strafbarkeit nach den Artikeln 29 und 30 für alle Geschäftsjahre nach Artikel 10.1 der GloBE-Mustervorschriften, die bis am 31. Dezember 2026 beginnen und bis am 30. Juni 2028 enden.
+
+[^40-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 #### Art. 41
 

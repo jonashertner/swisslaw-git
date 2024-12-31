@@ -4,11 +4,11 @@ title: "Ordonnance du 22 décembre 2023 sur l’imposition minimale des grands g
 short: OIMin
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/841"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2023-12-22
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-841-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-841-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20240101/fr"
 
 (Ordonnance sur l’imposition minimale, OIMin)
 
-du 22 décembre 2023 (État le 1<sup>er</sup> janvier 2024)
+du 22 décembre 2023 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -74,8 +74,10 @@ Ne sont pas applicables:
 
 Sont considérées comme des groupes d’entreprises distincts aux fins de l’impôt complémentaire suisse:
 
-- a. une coentreprise (joint venture) au sens de l’art. 10.1 des règles types GloBE avec ses entités constitutives, dès lors qu’au moins un détenteur de participations dans la coentreprise entre dans le champ d’application des règles types GloBE;
+- a.[^4-1] une coentreprise (*joint venture*) au sens de l’art. 10.1 des règles types GloBE avec ses entités constitutives, dès lors qu’au moins un détenteur de participations dans la coentreprise entre dans le champ d’application des règles types GloBE;
 - b. une entité constitutive à détention minoritaire au sens de l’art. 10.1 des règles types GloBE avec ses entités constitutives, dès lors que le détenteur de participations dans l’entité constitutive à détention minoritaire entre dans le champ d’application des règles types GloBE.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 ## Chapitre 2 Entités constitutives assujetties à l’impôt complémentaire
 
@@ -83,24 +85,29 @@ Sont considérées comme des groupes d’entreprises distincts aux fins de l’i
 
 <sup>1</sup> Une entité constitutive rattachée fiscalement à la Suisse qui, conformément aux dispositions des art. 2.1 à 2.3 des règles types GloBE, est assujettie à l’impôt complémentaire international en vertu de la règle d’inclusion du revenu (*Income Inclusion Rule*, IIR) est également assujettie à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de la règle relative aux bénéfices insuffisamment imposés (UTPR).
 
-<sup>2</sup> Si aucune entité constitutive n’est soumise à l’impôt complémentaire international en vertu de l’IIR en Suisse, l’entité constitutive présentant le bilan moyen le plus élevé au vu des trois derniers comptes annuels en application de l’art. 125, al. 2, let. a, LIFD[^5-1], en ne tenant pas compte de ses participations, est soumise à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de l’UTPR. Cette entité constitutive reste assujettie à l’impôt complémentaire pendant trois années fiscales au sens de l’art. 10.1 des règles types GloBE.
+<sup>2</sup> Si aucune entité constitutive n’est assujettie à l’impôt complémentaire international en vertu de l’IIR en Suisse, l’entité constitutive présentant le bilan moyen le plus élevé au vu des trois derniers comptes annuels en application de l’art. 125, al. 2, let. a, LIFD[^5-1], en ne tenant pas compte de ses participations, est assujettie à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de l’UTPR. Cette entité constitutive reste assujettie à l’impôt complémentaire pendant trois années fiscales au sens de l’art. 10.1 des règles types GloBE.[^5-2]
 
-<sup>3</sup> Si plusieurs entités constitutives sont soumises à l’impôt complémentaire international en vertu de l’IIR en Suisse, l’entité constitutive présentant le bilan moyen le plus élevé au vu des trois derniers comptes annuels en application de l’art. 125, al. 2, let. a, LIFD, en ne tenant pas compte de ses participations, est soumise à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de l’UTPR. Cette entité constitutive reste assujettie à l’impôt complémentaire pendant trois années fiscales au sens de l’art. 10.1 des règles types GloBE.
+<sup>3</sup> Si plusieurs entités constitutives sont assujetties à l’impôt complémentaire international en vertu de l’IIR en Suisse, celle d’entre elles présentant le bilan moyen le plus élevé au vu des trois derniers comptes annuels en application de l’art. 125, al. 2, let. a, LIFD, en ne tenant pas compte de ses participations, est assujettie à l’impôt complémentaire suisse et à l’impôt complémentaire international en application de l’UTPR. Cette entité constitutive reste assujettie à l’impôt complémentaire pendant trois années fiscales au sens de l’art. 10.1 des règles types GloBE.[^5-3]
 
-<sup>4</sup> Dans le cas d’une coentreprise ou d’une entité constitutive à détention minoritaire au sens de l’art. 4, c’est l’entité constitutive la plus élevée rattachée fiscalement à la Suisse qui est assujettie à l’impôt complémentaire suisse. Si aucune entité constitutive rattachée fiscalement à la Suisse ne peut être considérée comme la plus élevée, l’assujettissement à l’impôt complémentaire est régi par l’al. 2.
+<sup>4</sup> Dans le cas d’une coentreprise ou d’une entité constitutive à détention minoritaire au sens de l’art. 4, c’est son entité constitutive la plus élevée rattachée fiscalement à la Suisse qui est assujettie à l’impôt complémentaire suisse. Si aucune entité constitutive rattachée fiscalement à la Suisse ne peut être considérée comme la plus élevée, l’assujettissement à l’impôt complémentaire est régi par l’al. 2.[^5-4]
 
 <sup>5</sup>
 
-En cas de litige quant à l’entité constitutive d’un groupe d’entreprises qui doit être assujettie à l’impôt complémentaire, cette dernière est désignée par les autorités suivantes:
+Les autorités suivantes désignent l’entité constitutive d’un groupe d’entreprises assujettie à l’impôt complémentaire en cas de litige portant sur un cas concret:
 
 - a. l’administration cantonale de l’impôt complémentaire quand toutes les entités constitutives du groupe d’entreprises sont rattachées fiscalement au même canton, la décision de l’administration cantonale pouvant faire l’objet d’une réclamation selon les art. 14 et 24 et d’un recours selon l’art. 25;
-- b. l’Administration fédérale des contributions (AFC) dans les autres cas, la décision de l’AFC pouvant faire l’objet d’un recours conformément aux dispositions générales de la procédure fédérale.
+- b. l’Administration fédérale des contributions (AFC) dans les autres cas, la décision de l’AFC pouvant faire l’objet d’un recours conformément aux dispositions générales de la procédure fédérale.[^5-5]
 
-<sup>6</sup> La désignation de l’entité constitutive assujettie à l’impôt complémentaire peut être demandée par l’autorité chargée de la taxation de l’impôt complémentaire, par l’administration cantonale de l’impôt complémentaire ou par une entité constitutive concernée du groupe d’entreprises en question. Cette procédure nécessite que les entités constitutives du groupe d’entreprises qui sont rattachées fiscalement à la Suisse désignent une représentation commune en Suisse.
+<sup>6</sup> La désignation de l’entité constitutive assujettie à l’impôt complémentaire peut être demandée par l’autorité chargée de la taxation de l’impôt complémentaire, par l’administration cantonale de l’impôt complémentaire ou par une entité constitutive concernée du groupe d’entreprises en question. Les entités constitutives du groupe d’entreprises qui sont rattachées fiscalement à la Suisse doivent désigner une représentation commune en Suisse pour cette procédure.[^5-6]
 
 <sup>7</sup> L’autorité qui a traité un cas qui ne relevait pas de sa compétence territoriale transmet le dossier à l’autorité compétente.
 
 [^5-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^5-6]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 ## Chapitre 3 Responsabilité solidaire, charges justifiées par l’usage commercial
 
@@ -164,13 +171,15 @@ L’impôt complémentaire international se calcule selon les art. 5.1 à 5.6 de
 
 #### Art. 12
 
-<sup>1</sup> L’impôt complémentaire suisse d’un groupe d’entreprises est imputé aux différentes entités constitutives en fonction du montant de l’impôt complémentaire qui résulterait d’un calcul fondé sur les états financiers individuels de ces entités constitutives. À cette fin, les impôts déterminants, le bénéfice déterminant ainsi que l’excédent de bénéfice pour chaque entité constitutive sont calculés sur la base de l’état financier établi pour chaque entité constitutive selon les règles types GloBE.
+<sup>1</sup> L’impôt complémentaire suisse d’un groupe d’entreprises est imputé aux différentes entités constitutives en fonction du montant de l’impôt complémentaire qui résulterait d’un calcul fondé sur les états financiers individuels de ces entités constitutives. À cette fin, les impôts déterminants, le bénéfice déterminant ainsi que l’excédent de bénéfice pour chaque entité constitutive sont calculés sur la base de l’état financier individuel établi pour chaque entité constitutive selon les règles types GloBE.[^12-1]
 
 <sup>2</sup> Si une imputation en vertu de l’al. 1 ne peut pas se faire, le montant de l’impôt complémentaire suisse calculé selon le bénéfice déterminant de chaque entité constitutive doit leur être imputé.
 
 <sup>3</sup> Si une entité constitutive a des objets fiscaux dans plusieurs cantons, l’impôt complémentaire suisse est réparti entre ces objets selon les règles du droit fédéral concernant l’interdiction de la double imposition intercantonale.
 
 <sup>4</sup> L’art. 2.6 des règles types GloBE s’applique par analogie à l’imputation aux entités constitutives du montant de l’impôt complémentaire international en application de l’UTPR.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 ## Chapitre 7 Répartition du produit brut
 
@@ -196,12 +205,14 @@ Sous réserve des dispositions de la présente ordonnance, les art. 102 à 106, 
 
 #### Art. 15
 
-**Organisation**
+**Organisation**[^15-1]
 
-À moins que le droit cantonal ne désigne d’autres autorités:
+À moins que le droit cantonal ne désigne une autre autorité:
 
-- a. l’administration cantonale de l’impôt fédéral direct est responsable de l’impôt complémentaire;
-- b. l’autorité chargée de la taxation de l’impôt fédéral direct pour les personnes morales est chargée de la taxation de l’impôt complémentaire.
+- a. l’administration cantonale de l’impôt fédéral direct est aussi l’administration cantonale de l’impôt complémentaire;
+- b. l’autorité chargée de la taxation de l’impôt fédéral direct pour les personnes morales est aussi l’autorité chargée de la taxation de l’impôt complémentaire.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 #### Art. 16
 
@@ -211,13 +222,15 @@ Sous réserve des dispositions de la présente ordonnance, les art. 102 à 106, 
 
 <sup>2</sup> Les autorités cantonales taxent et perçoivent l’impôt complémentaire auprès des entités constitutives assujetties qui sont fiscalement rattachées à leur canton au début de l’année fiscale au sens de l’art. 10.1 des règles types GloBE.
 
-<sup>3</sup> Lorsque le for fiscal ne peut être déterminé avec certitude ou qu’il est litigieux, il revient à l’AFC de trancher. Un recours peut être formé contre la décision de l’AFC conformément aux dispositions générales de la procédure fédérale.
+<sup>3</sup> Lorsque, dans un cas concret, le for fiscal ne peut être déterminé avec certitude ou qu’il est litigieux, il revient à l’AFC de trancher. Un recours peut être formé contre la décision de l’AFC conformément aux dispositions générales de la procédure fédérale.[^16-2]
 
-<sup>4</sup> La désignation du for fiscal peut être demandée par l’autorité chargée de la taxation de l’impôt complémentaire, par l’administration cantonale de l’impôt complémentaire ou par l’entité constitutive assujettie. Cette procédure nécessite que l’entité constitutive assujettie désigne un domicile de notification en Suisse.
+<sup>4</sup> La désignation du for fiscal peut être demandée par l’autorité chargée de la taxation de l’impôt complémentaire, par l’administration cantonale de l’impôt complémentaire ou par l’entité constitutive assujettie. L’entité constitutive assujettie doit désigner un domicile de notification en Suisse pour cette procédure.[^16-3]
 
 <sup>5</sup> L’autorité qui a traité un cas qui ne relevait pas de sa compétence territoriale transmet le dossier à l’autorité compétente.
 
 [^16-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 ### Section 3 Système d’information en matière d’impôt complémentaire
 
@@ -233,7 +246,7 @@ Sous réserve des dispositions de la présente ordonnance, les art. 102 à 106, 
 
 <sup>4</sup>
 
-Celui-ci sert notamment pour les tâches suivantes:
+Le système d’information sert notamment pour les tâches suivantes:[^17-1]
 
 - a. tenue d’un registre central des entités constitutives assujetties à l’impôt complémentaire (registre central de l’impôt complémentaire);
 - b. remise électronique et traitement de la déclaration d’impôt complémentaire ainsi que d’autres documents fournis par les entités constitutives assujetties aux autorités chargées de la taxation de l’impôt complémentaire;
@@ -242,7 +255,7 @@ Celui-ci sert notamment pour les tâches suivantes:
 
 <sup>5</sup>
 
-Le système d’information contient les données suivantes:
+Il contient notamment les données suivantes:[^17-2]
 
 - a. les déclarations relatives à l’impôt complémentaire avec les annexes;
 - b. les décisions de taxation et autres décisions prises par les autorités chargées de la taxation de l’impôt complémentaire;
@@ -259,6 +272,9 @@ Le registre central de l’impôt complémentaire contient notamment les donnée
 - d. les personnes habilitées à représenter les entités constitutives.
 
 <sup>7</sup> Les autorités chargées de la taxation de l’impôt complémentaire, les administrations cantonales de l’impôt complémentaire et l’AFC utilisent systématiquement l’IDE dans le cadre de l’accomplissement des tâches qui leur incombent en vertu de la présente ordonnance.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 #### Art. 18
 
@@ -518,15 +534,17 @@ Les cantons qui procèdent à la taxation peuvent retenir, sur chaque décision 
 
 <sup>1</sup> Sous réserve de l’al. 2, la présente ordonnance s’applique aux années fiscales, au sens de l’art. 10.1 des règles types GloBE, qui commencent le jour de son entrée en vigueur ou plus tard.
 
-<sup>2</sup> Les dispositions relatives à l’impôt complémentaire international s’appliqueront à une date ultérieure. Toutefois, pour désigner l’entité constitutive assujettie à l’impôt complémentaire en vertu de l’art. 5, les dispositions des art. 2.1 à 2.3 des règles types GloBE portant sur l’IIR s’appliquent dès l’entrée en vigueur de la présente ordonnance.
+<sup>2</sup> À l’exception de l’art. 10, al. 3, les dispositions relatives à l’impôt complémentaire international s’appliquent aux années fiscales, au sens de l’art. 10.1 des règles types GloBE, qui commencent le 1<sup>er</sup> janvier 2025 ou plus tard. L’art. 10, al. 3, s’appliquera à une date ultérieure.[^40-1]
 
 <sup>3</sup> La violation par négligence des obligations procédurales et la soustraction d’impôt par négligence ne sont pas punissables selon les art. 29 et 30 pour toutes les années fiscales au sens de l’art. 10.1 des règles types GloBE qui commencent avant le 31 décembre 2026 et se terminent le 30 juin 2028 au plus tard.
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 #### Art. 41
 
 **Modification d’un autre acte**
 
-...[^41-1]
+…[^41-1]
 
 [^41-1]: La mod. peut être consultée au [RO 2023 841](https://fedlex.data.admin.ch/eli/oc/2023/841).
 

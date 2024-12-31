@@ -4,11 +4,11 @@ title: "Ordinanza del 22 dicembre 2023 concernente l’imposizione minima dei gr
 short: OImM
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/841"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2023-12-22
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2023-841-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/841/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2023-841-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/841/20240101/it"
 
 (Ordinanza sull’imposizione minima, OImM)
 
-del 22 dicembre 2023 (Stato 1° gennaio 2024)
+del 22 dicembre 2023 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -33,74 +33,83 @@ ordina:
 
 **Oggetto e campo di applicazione**
 
-La presente ordinanza disciplina l’imposizione minima dei grandi gruppi di imprese attraverso un’imposta integrativa, determinata sulla base degli utili delle loro unità operative che:
+La presente ordinanza disciplina l’imposizione minima dei grandi gruppi di imprese attraverso un’imposta integrativa, determinata sulla base degli utili delle loro entità costitutive[^1-1] che:
 
 - a. appartengono fiscalmente alla Svizzera (imposta integrativa svizzera);
 - b. non appartengono fiscalmente alla Svizzera (imposta integrativa internazionale).
+
+[^1-1]: Nuova espressione giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
 **Diritto applicabile**
 
-<sup>1</sup> Le prescrizioni modello del 14 dicembre 2021[^2-1] finalizzate a contrastare a livello mondiale l’erosione della base imponibile e il trasferimento degli utili emanate dall’Inclusive Framework on Base Erosion and Profit Shifting dell’Organizzazione per la cooperazione e lo sviluppo economici e degli Stati del G20 (*Global Anti-Base Erosion Model Rules [Pillar Two]*, prescrizioni modello GloBE), fatto salvo il capoverso 2, si applicano direttamente all’imposta integrativa internazionale e per analogia all’imposta integrativa svizzera.
+<sup>1</sup> Le norme tipo globali del 14 dicembre 2021[^2-1] in materia di lotta all’erosione della base imponibile e al trasferimento degli utili emanate dall’Inclusive Framework on Base Erosion and Profit Shifting dell’Organizzazione per la cooperazione e lo sviluppo economici e degli Stati del G20 (Global Anti-Base Erosion Model Rules [Pillar Two], norme tipo GloBE), fatto salvo il capoverso 2, si applicano direttamente all’imposta integrativa internazionale e per analogia all’imposta integrativa svizzera.[^2-2]
 
-<sup>2</sup>
+<sup>2</sup> [^2-3]
 
 Non sono applicabili:
 
-- a. l’articolo 9.3.5 delle prescrizioni modello GloBE;
-- b. per l’imposta integrativa svizzera, gli articoli 4.3.2 lettere a e c–e nonché 6.4 delle prescrizioni modello GloBE.
+- a. l’articolo 9.3.5 delle norme tipo GloBE[^2-4]
 
-<sup>3</sup> Le prescrizioni modello GloBE devono essere interpretate in particolare secondo il relativo commentario[^2-2] e le pertinenti normative dell’Organizzazione per la cooperazione e lo sviluppo economici e degli Stati del G20.
+- [tab] ;
+- b. per l’imposta integrativa svizzera, gli articoli 4.3.2 lettere a e c–e nonché 6.4 delle norme tipo GloBE.
 
-<sup>4</sup> Nell’applicazione delle prescrizioni modello GloBE, la Svizzera è considerata «implementing jurisdiction» ai sensi delle prescrizioni modello GloBE.
+<sup>3</sup> Le norme tipo GloBE devono essere interpretate in particolare secondo il relativo commentario[^2-5] e le pertinenti normative dell’Organizzazione per la cooperazione e lo sviluppo economici e degli Stati del G20.
 
-[^2-1]: Le prescrizioni modello GloBE sono consultabili gratuitamente all’indirizzo: [www.oecd.org](https://www.oecd.org/tax/beps/tax-challenges-arising-from-the-digitalisation-of-the-economy-global-anti-base-erosion-model-rules-pillar-two.htm) &gt; Topics &gt; Tax &gt; Base erosion and profit shifting &gt; BEPS Actions &gt; Tax Challenges Arising from the Digitalisation of the Economy &gt; December 2021: Global Anti-Base Erosion Model (GloBE) Rules – Pillar Two.
-[^2-2]: Il commentario è consultabile gratuitamente all’indirizzo: [www.oecd.org](https://www.oecd.org/tax/beps/tax-challenges-arising-from-the-digitalisation-of-the-economy-global-anti-base-erosion-model-rules-pillar-two.htm) &gt; Topics &gt; Tax &gt; Base erosion and profit shifting &gt; BEPS Actions &gt; Tax Challenges Arising from the Digitalisation of the Economy &gt; March 2022: Commentary to the Global Anti-Base Erosion Model (GloBE) Rules – Pillar Two.
+<sup>4</sup> Nell’applicazione delle norme tipo GloBE, la Svizzera è considerata «implementing jurisdiction» ai sensi delle norme tipo GloBE.
+
+[^2-1]: Le norme tipo GloBE sono consultabili gratuitamente all’indirizzo: [www.oecd.org](https://www.oecd.org/en/topics/base-erosion-and-profit-shifting-beps.html) &gt; Topics &gt; Tax &gt; Base erosion and profit shifting &gt; BEPS Actions &gt; Tax Challenges Arising from the Digitalisation of the Economy &gt; December 2021: Global Anti-Base Erosion Model (GloBE) Rules – Pillar Two.
+[^2-2]: Nuova testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^2-3]: Nuova espressione giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-4]: Nuova espressione giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-5]: Il commentario è consultabile gratuitamente all’indirizzo: [www.oecd.org](https://www.oecd.org/tax/beps/tax-challenges-arising-from-the-digitalisation-of-the-economy-global-anti-base-erosion-model-rules-pillar-two.htm) &gt; Topics &gt; Tax &gt; Base erosion and profit shifting &gt; BEPS Actions &gt; Tax Challenges Arising from the Digitalisation of the Economy &gt; March 2022: Commentary to the Global Anti-Base Erosion Model (GloBE) Rules – Pillar Two.
 
 #### Art. 3
 
-**Unità operative**
+**Entità costitutive**
 
-<sup>1</sup> Sono considerate unità operative le «constituent entities» secondo l’articolo 1.3 delle prescrizioni modello GloBE.
+<sup>1</sup> Sono considerate entità costitutive le «constituent entities» secondo l’articolo 1.3 delle norme tipo GloBE.
 
-<sup>2</sup> L’appartenenza fiscale delle unità operative a un Cantone è determinata per analogia secondo gli articoli 105 capoverso 3 e 106 della legge federale del 14 dicembre 1990[^3-1] sull’imposta federale diretta (LIFD) concernenti la competenza territoriale. In deroga agli articoli 105 capoverso 3 e 106 LIFD è determinante la situazione all’inizio di ciascun esercizio (*Fiscal Year*) ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE.
+<sup>2</sup> L’appartenenza fiscale delle entità costitutive a un Cantone è determinata per analogia secondo gli articoli 105 capoverso 3 e 106 della legge federale del 14 dicembre 1990[^3-1] sull’imposta federale diretta (LIFD) concernenti la competenza territoriale. In deroga agli articoli 105 capoverso 3 e 106 LIFD è determinante la situazione all’inizio di ciascun esercizio (*Fiscal Year*) ai sensi dell’articolo 10.1 delle norme tipo GloBE.
 
 [^3-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
 #### Art. 4
 
-**Imposta integrativa svizzera in caso di joint venture e unità operative partecipate in via minoritaria**
+**Imposta integrativa svizzera in caso di joint venture e entità costitutive partecipate in via minoritaria**
 
 Ai fini dell’imposta integrativa svizzera, sono considerate come gruppo di imprese a sé stante:
 
-- a. una joint venture ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE insieme alle sue unità operative, se almeno un titolare di partecipazioni della joint venture rientra nel campo di applicazione delle prescrizioni modello GloBE;
-- b. un’unità operativa partecipata in via minoritaria ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE insieme alle sue unità operative, se il titolare di partecipazioni dell’unità operativa partecipata in via minoritaria rientra nel campo di applicazione delle prescrizioni modello GloBE.
+- a. una joint venture ai sensi dell’articolo 10.1 delle norme tipo GloBE insieme alle sue entità costitutive, se almeno un titolare di partecipazioni della joint venture rientra nel campo di applicazione delle norme tipo GloBE;
+- b. un’entità costitutiva partecipata in via minoritaria ai sensi dell’articolo 10.1 delle norme tipo GloBE insieme alle sue entità costitutive, se il titolare di partecipazioni dell’entità costitutiva partecipata in via minoritaria rientra nel campo di applicazione delle norme tipo GloBE.
 
-## Capitolo 2: Unità operative assoggettate all’imposta integrativa
+## Capitolo 2: Entità costitutive assoggettate all’imposta integrativa
 
 #### Art. 5
 
-<sup>1</sup> L’unità operativa fiscalmente appartenente alla Svizzera assoggettata all’imposta integrativa internazionale secondo la regola di inclusione del reddito (*Income Inclusion Rule*, IIR) conformemente agli articoli 2.1–2.3 delle prescrizioni modello GloBE è assoggettata anche all’imposta integrativa svizzera e all’imposta integrativa internazionale secondo la regola sui profitti a bassa imposizione (UTPR).
+<sup>1</sup> L’entità costitutiva fiscalmente appartenente alla Svizzera assoggettata all’imposta integrativa internazionale secondo la regola di inclusione del reddito (*Income Inclusion Rule*, IIR) conformemente agli articoli 2.1–2.3 delle norme tipo GloBE è assoggettata anche all’imposta integrativa svizzera e all’imposta integrativa internazionale secondo la regola sui profitti a bassa imposizione (UTPR).
 
-<sup>2</sup> Se in Svizzera non è assoggettata all’imposta integrativa internazionale secondo l’IIR alcuna unità operativa, è assoggettata all’imposta integrativa svizzera e all’imposta integrativa internazionale secondo l’UTPR l’unità operativa con la somma di bilancio media più elevata dei tre conti annuali precedenti secondo l’articolo 125 capoverso 2 lettera a LIFD[^5-1], escludendo le sue partecipazioni. Questa unità operativa rimane assoggettata all’imposta integrativa per tre esercizi ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE.
+<sup>2</sup> Se in Svizzera non è assoggettata all’imposta integrativa internazionale secondo l’IIR alcuna entità costitutiva, è assoggettata all’imposta integrativa svizzera e all’imposta integrativa internazionale secondo l’UTPR l’entità costitutiva con la somma di bilancio media più elevata dei tre conti annuali precedenti secondo l’articolo 125 capoverso 2 lettera a LIFD[^5-1], escludendo le sue partecipazioni. Questa entità costitutiva rimane assoggettata all’imposta integrativa per tre esercizi ai sensi dell’articolo 10.1 delle norme tipo GloBE.
 
-<sup>3</sup> Se in Svizzera è assoggettata all’imposta integrativa internazionale secondo l’IIR più di un’unità operativa, è assoggettata all’imposta integrativa svizzera e all’imposta integrativa internazionale secondo l’UTPR l’unità operativa con la somma di bilancio media più elevata dei tre conti annuali precedenti secondo l’articolo 125 capoverso 2 lettera a LIFD, escludendo le sue partecipazioni. Questa unità operativa rimane assoggettata all’imposta integrativa per tre esercizi ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE.
+<sup>3</sup> Se in Svizzera è assoggettata all’imposta integrativa internazionale secondo l’IIR più di un’entità costitutiva, di tali entità costitutive è assoggettata all’imposta integrativa svizzera e all’imposta integrativa internazionale secondo l’UTPR quella con la somma di bilancio media più elevata dei tre conti annuali precedenti secondo l’articolo 125 capoverso 2 lettera a LIFD, escludendo le sue partecipazioni. Questa entità costitutiva rimane assoggettata all’imposta integrativa per tre esercizi ai sensi dell’articolo 10.1 delle norme tipo GloBE.[^5-2]
 
-<sup>4</sup> Nel caso di una joint venture o di un’unità operativa partecipata in via minoritaria secondo l’articolo 4, è assoggettata all’imposta integrativa svizzera la sua unità operativa più elevata appartenente fiscalmente alla Svizzera. Se nessuna delle unità operative appartenenti fiscalmente alla Svizzera può essere considerata la più elevata, l’obbligo di assoggettamento all’imposta integrativa è retto dal capoverso 2.
+<sup>4</sup> Nel caso di una joint venture o di un’entità costitutiva partecipata in via minoritaria secondo l’articolo 4, è assoggettata all’imposta integrativa svizzera la sua entità costitutiva più elevata appartenente fiscalmente alla Svizzera. Se nessuna delle entità costitutive appartenenti fiscalmente alla Svizzera può essere considerata la più elevata, l’obbligo di assoggettamento all’imposta integrativa è retto dal capoverso 2.
 
 <sup>5</sup>
 
-Se, in un caso concreto, è controverso quale unità operativa di un gruppo di imprese sia assoggettata all’imposta integrativa, questa unità viene stabilita dalla seguente autorità:
+Se, in un caso concreto, è controverso quale entità costitutiva di un gruppo di imprese sia assoggettata all’imposta integrativa, questa entità viene stabilita dalla seguente autorità:
 
-- a. nei casi in cui le unità operative di un gruppo di imprese appartengono fiscalmente allo stesso Cantone, dall’amministrazione cantonale dell’imposta integrativa; la decisione dell’amministrazione cantonale dell’imposta integrativa è impugnabile con reclamo secondo gli articoli 14 e 24 nonché con ricorso secondo l’articolo 25;
-- b. in tutti gli altri casi, dall’Amministrazione federale delle contribuzioni (AFC); la decisione dell’AFC è impugnabile con ricorso secondo le disposizioni generali dell’organizzazione giudiziaria federale.
+- a. nei casi in cui le entità costitutive di un gruppo di imprese appartengono fiscalmente allo stesso Cantone, dall’amministrazione cantonale dell’imposta integrativa; la decisione dell’amministrazione cantonale dell’imposta integrativa è impugnabile con reclamo secondo gli articoli 14 e 24 nonché con ricorso secondo l’articolo 25;
+- b. in tutti gli altri casi, dall’Amministrazione federale delle contribuzioni (AFC); la decisione dell’AFC è impugnabile con ricorso secondo le disposizioni generali sull’amministrazione della giustizia federale.[^5-3]
 
-<sup>6</sup> L’accertamento dell’unità operativa assoggettata all’imposta integrativa può essere richiesto dall’autorità di tassazione dell’imposta integrativa, dall’amministrazione cantonale dell’imposta integrativa o da un’unità operativa interessata del relativo gruppo di imprese. A tale scopo, le unità operative appartenenti fiscalmente alla Svizzera del gruppo di imprese devono designare una rappresentanza comune in Svizzera.
+<sup>6</sup> L’accertamento dell’entità costitutiva assoggettata all’imposta integrativa può essere richiesto dall’autorità di tassazione dell’imposta integrativa, dall’amministrazione cantonale dell’imposta integrativa o da un’entità costitutiva interessata del relativo gruppo di imprese. A tale scopo, le entità costitutive appartenenti fiscalmente alla Svizzera del gruppo di imprese devono designare una rappresentanza comune in Svizzera.
 
 <sup>7</sup> L’autorità che ha trattato un caso esulante dalla sua competenza territoriale trasmette l’incarto all’autorità competente.
 
 [^5-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^5-2]: Nuova testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^5-3]: Nuova testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 ## Capitolo 3: Responsabilità solidale, oneri giustificati dall’uso commerciale
 
@@ -108,7 +117,7 @@ Se, in un caso concreto, è controverso quale unità operativa di un gruppo di i
 
 **Responsabilità solidale**
 
-Per l’imposta integrativa rispondono solidalmente nella misura dell’imposta integrativa imputata loro secondo l’articolo 12 tutte le unità operative appartenenti fiscalmente alla Svizzera di un gruppo di imprese.
+Per l’imposta integrativa rispondono solidalmente nella misura dell’imposta integrativa imputata loro secondo l’articolo 12 tutte le entità costitutive appartenenti fiscalmente alla Svizzera di un gruppo di imprese.
 
 #### Art. 7
 
@@ -122,23 +131,25 @@ L’imposta integrativa non può essere fatta valere come onere giustificato dal
 
 **Campo di applicazione**
 
-<sup>1</sup> Sono assoggettati all’imposta integrativa svizzera gli utili delle unità operative appartenenti fiscalmente alla Svizzera di un gruppo di imprese la cui società madre capogruppo raggiunge secondo il proprio conto annuale consolidato una cifra d’affari annua di 750 milioni di euro ai sensi degli articoli 1.1.1, 1.1.2 e 6.1 delle prescrizioni modello GloBE.
+<sup>1</sup> Sono assoggettati all’imposta integrativa svizzera gli utili delle entità costitutive appartenenti fiscalmente alla Svizzera di un gruppo di imprese la cui società madre capogruppo raggiunge secondo il proprio conto annuale consolidato una cifra d’affari annua di 750 milioni di euro ai sensi degli articoli 1.1.1, 1.1.2 e 6.1 delle norme tipo GloBE.
 
-<sup>2</sup> Se la giurisdizione fiscale della società madre capogruppo applica un valore soglia inferiore alla cifra d’affari annua consolidata ai sensi degli articoli 1.1.1, 1.1.2 e 6.1 delle prescrizioni modello GloBE, gli utili delle sue unità operative appartenenti fiscalmente alla Svizzera sono a loro volta assoggettati all’imposta integrativa svizzera.
+<sup>2</sup> Se la giurisdizione fiscale della società madre capogruppo applica un valore soglia inferiore alla cifra d’affari annua consolidata ai sensi degli articoli 1.1.1, 1.1.2 e 6.1 delle norme tipo GloBE, gli utili delle sue entità costitutive appartenenti fiscalmente alla Svizzera sono a loro volta assoggettati all’imposta integrativa svizzera.
 
-<sup>3</sup> Gli utili di un’unità operativa appartenente fiscalmente alla Svizzera sono assoggettati all’imposta integrativa svizzera indipendentemente dalla giurisdizione fiscale cui appartiene fiscalmente la società madre capogruppo.
+<sup>3</sup> Gli utili di un’ entità costitutiva appartenente fiscalmente alla Svizzera sono assoggettati all’imposta integrativa svizzera indipendentemente dalla giurisdizione fiscale cui appartiene fiscalmente la società madre capogruppo.
 
-<sup>4</sup> Nella fase iniziale della sua attività internazionale, un’unità operativa appartenente fiscalmente alla Svizzera di un gruppo di imprese è assoggettata conformemente agli articoli 9.3.1–9.3.4 delle prescrizioni modello GloBE soltanto all’imposta integrativa svizzera se agli utili delle unità operative interessate non è applicabile un’IIR estera.
+<sup>4</sup> Nella fase iniziale della sua attività internazionale conformemente agli articoli 9.3.1–9.3.4 delle norme tipo GloBE, un’entità costitutiva appartenente fiscalmente alla Svizzera di un gruppo di imprese è assoggettata soltanto all’imposta integrativa svizzera se agli utili delle entità costitutive interessate è applicabile un’IIR estera.[^8-1]
+
+[^8-1]: Nuova testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 #### Art. 9
 
 **Calcolo**
 
-<sup>1</sup> L’imposta integrativa svizzera è calcolata per analogia conformemente agli articoli 5.1–5.6 delle prescrizioni modello GloBE; per analogia sono parimenti applicabili le disposizioni speciali delle prescrizioni modello GloBE. Nel calcolo secondo l’articolo 5.2.3 delle prescrizioni modello GloBE l’imposta integrativa svizzera non viene dedotta.
+<sup>1</sup> L’imposta integrativa svizzera è calcolata per analogia conformemente agli articoli 5.1–5.6 delle norme tipo GloBE; per analogia sono parimenti applicabili le disposizioni speciali delle norme tipo GloBE. Nel calcolo secondo l’articolo 5.2.3 delle norme tipo GloBE l’imposta integrativa svizzera non viene dedotta.
 
-<sup>2</sup> Se i conti annuali di tutte le unità operative fiscalmente appartenenti alla Svizzera sono allestiti in base alle raccomandazioni relative alla presentazione dei conti della Fondazione per le raccomandazioni relative alla presentazione dei conti (Swiss GAAP RPC)[^9-1] e sottostanno a una verifica di un ufficio di revisione esterno, l’imposta integrativa svizzera è calcolata sulla base di tali conti annuali.
+<sup>2</sup> Se i conti annuali di tutte le entità costitutive fiscalmente appartenenti alla Svizzera sono allestiti in base alle raccomandazioni relative alla presentazione dei conti della Fondazione per le raccomandazioni relative alla presentazione dei conti (Swiss GAAP RPC)[^9-1] e sottostanno a una verifica di un ufficio di revisione esterno, l’imposta integrativa svizzera è calcolata sulla base di tali conti annuali.
 
-<sup>3</sup> Se non tutte le unità operative fiscalmente appartenenti alla Svizzera soddisfano le condizioni di cui al capoverso 2 oppure se gli esercizi per i quali sono stati allestiti i conti annuali secondo il capoverso 2 di una o più unità operative fiscalmente appartenenti alla Svizzera non coincidono con l’esercizio ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE, l’imposta integrativa svizzera è calcolata sulla base del conto annuale, allestito conformemente agli articoli 3.1.2 e 3.1.3 delle prescrizioni modello GloBE.
+<sup>3</sup> Se non tutte le entità costitutive fiscalmente appartenenti alla Svizzera soddisfano le condizioni di cui al capoverso 2 oppure se gli esercizi per i quali sono stati allestiti i conti annuali secondo il capoverso 2 di una o più entità costitutive fiscalmente appartenenti alla Svizzera non coincidono con l’esercizio ai sensi dell’articolo 10.1 delle norme tipo GloBE, l’imposta integrativa svizzera è calcolata sulla base del conto annuale, allestito conformemente agli articoli 3.1.2 e 3.1.3 delle norme tipo GloBE.
 
 [^9-1]: Le raccomandazioni possono essere consultate gratuitamente o ottenute a pagamento presso: Verlag SKV, Hans‑Huber-Strasse 4, 8002 Zurigo ([www.verlagskv.ch](https://verlagskv.ch/)).
 
@@ -148,37 +159,41 @@ L’imposta integrativa non può essere fatta valere come onere giustificato dal
 
 **Campo di applicazione**
 
-<sup>1</sup> L’imposta integrativa internazionale è determinata sulla base degli utili delle unità operative non appartenenti fiscalmente alla Svizzera di un gruppo di imprese la cui società madre capogruppo raggiunge secondo il proprio conto annuale consolidato una cifra d’affari annua di 750 milioni di euro ai sensi degli articoli 1.1.1, 1.1.2 e 6.1 delle prescrizioni modello GloBE.
+<sup>1</sup> L’imposta integrativa internazionale è determinata sulla base degli utili delle entità costitutive non appartenenti fiscalmente alla Svizzera di un gruppo di imprese la cui società madre capogruppo raggiunge secondo il proprio conto annuale consolidato una cifra d’affari annua di 750 milioni di euro ai sensi degli articoli 1.1.1, 1.1.2 e 6.1 delle norme tipo GloBE.
 
-<sup>2</sup> Conformemente agli articoli 2.1–2.3 delle prescrizioni modello GloBE concernenti l’IIR, l’imposta integrativa internazionale è determinata sulla base degli utili delle unità operative appartenenti fiscalmente a un’altra giurisdizione fiscale.
+<sup>2</sup> Conformemente agli articoli 2.1–2.3 delle norme tipo GloBE concernenti l’IIR, l’imposta integrativa internazionale è determinata sulla base degli utili delle entità costitutive appartenenti fiscalmente a un’altra giurisdizione fiscale.
 
-<sup>3</sup> Conformemente agli articoli 2.4–2.6 delle prescrizioni modello GloBE concernenti l’UTPR, l’imposta integrativa internazionale è applicabile agli utili delle unità operative appartenenti fiscalmente a un’altra giurisdizione fiscale di un gruppo di imprese la cui società madre capogruppo appartiene fiscalmente a sua volta a un’altra giurisdizione fiscale, se almeno un’unità operativa del gruppo di imprese appartiene fiscalmente alla Svizzera e nella misura in cui agli utili delle unità operative estere interessate non è applicabile un’IIR estera.
+<sup>3</sup> Conformemente agli articoli 2.4–2.6 delle norme tipo GloBE concernenti l’UTPR, l’imposta integrativa internazionale è applicabile agli utili delle entità costitutive appartenenti fiscalmente a un’altra giurisdizione fiscale di un gruppo di imprese la cui società madre capogruppo appartiene fiscalmente a sua volta a un’altra giurisdizione fiscale, se almeno un’entità costitutiva del gruppo di imprese appartiene fiscalmente alla Svizzera e nella misura in cui agli utili delle entità costitutive estere interessate non è applicabile un’IIR estera.
 
 #### Art. 11
 
 **Calcolo**
 
-L’imposta integrativa internazionale è calcolata conformemente agli articoli 5.1–5.6 delle prescrizioni modello GloBE; sono parimenti applicabili le disposizioni speciali delle prescrizioni modello GloBE.
+L’imposta integrativa internazionale è calcolata conformemente agli articoli 5.1–5.6 delle norme tipo GloBE; sono parimenti applicabili le disposizioni speciali delle norme tipo GloBE.
 
-## Capitolo 6: Imputazione dell’imposta integrativa alle unità operative
+## Capitolo 6: Imputazione dell’imposta integrativa alle entità costitutive
 
 #### Art. 12
 
-<sup>1</sup> L’imposta integrativa svizzera di un gruppo di imprese è imputata alle singole unità operative proporzionalmente alla somma dell’imposta integrativa che risulterebbe da un calcolo basato sulle chiusure contabili singole di queste unità operative. Per il calcolo vengono determinati le imposte determinanti, l’utile determinante così come l’utile eccedente per ogni unità operativa sulla base della chiusura contabile singola allestita conformemente alle prescrizioni modello GloBE.
+<sup>1</sup> L’imposta integrativa svizzera di un gruppo di imprese è imputata alle singole entità costitutive proporzionalmente all’importo dell’imposta integrativa che risulterebbe da un calcolo basato sulle chiusure contabili singole di queste entità costitutive. Per il calcolo vengono determinati le imposte determinanti, l’utile determinante così come l’utile eccedente per ogni entità costitutiva sulla base della chiusura contabile singola allestita conformemente alle norme tipo GloBE.[^12-1]
 
-<sup>2</sup> Se un’imputazione secondo il capoverso 1 non è possibile, la somma dell’imposta integrativa svizzera deve essere imputata alle unità operative proporzionalmente all’utile determinante delle singole unità operative.
+<sup>2</sup> Se un’imputazione secondo il capoverso 1 non è possibile, l’importo dell’imposta integrativa svizzera deve essere imputato alle entità costitutive proporzionalmente all’utile determinante delle singole entità costitutive.[^12-2]
 
-<sup>3</sup> Se un’unità operativa dispone di oggetti dell’imposta in più Cantoni, l’imposta integrativa svizzera viene ripartita su tali oggetti conformemente ai principi del diritto federale concernenti il divieto della doppia imposizione intercantonale.
+<sup>3</sup> Se un’entità costitutiva dispone di oggetti dell’imposta in più Cantoni, l’imposta integrativa svizzera viene ripartita su tali oggetti conformemente ai principi del diritto federale concernenti il divieto della doppia imposizione intercantonale.
 
-<sup>4</sup> La somma dell’imposta integrativa internazionale secondo l’UTPR viene imputata alle unità operative per analogia conformemente all’articolo 2.6 delle prescrizioni modello GloBE.
+<sup>4</sup> L’importo dell’imposta integrativa internazionale secondo l’UTPR viene imputato alle entità costitutive per analogia conformemente all’articolo 2.6 delle norme tipo GloBE.[^12-3]
+
+[^12-1]: Nuova testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^12-2]: Nuova testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^12-3]: Nuova testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 ## Capitolo 7: Ripartizione del gettito lordo
 
 #### Art. 13
 
-<sup>1</sup> Il gettito lordo dell’imposta integrativa svizzera su attività delle unità operative di Confederazione, Cantoni e Comuni esenti dall’imposta sull’utile conformemente all’articolo 56 LIFD[^13-1], assoggettate all’imposizione minima secondo le prescrizioni modello GloBE, spetta al rispettivo ente pubblico.
+<sup>1</sup> Il gettito lordo dell’imposta integrativa svizzera su attività delle entità costitutive di Confederazione, Cantoni e Comuni esenti dall’imposta sull’utile conformemente all’articolo 56 LIFD[^13-1], assoggettate all’imposizione minima secondo le norme tipo GloBE, spetta al rispettivo ente pubblico.
 
-<sup>2</sup> Per il resto la quota cantonale del gettito lordo dell’imposta integrativa spetta ai Cantoni in base all’appartenenza fiscale delle unità operative cui è stata imputata l’imposta integrativa. Se un’unità operativa dispone di oggetti dell’imposta in più Cantoni, il gettito lordo spetta ai Cantoni in base all’imputazione a tali oggetti dell’imposta.
+<sup>2</sup> Per il resto la quota cantonale del gettito lordo dell’imposta integrativa spetta ai Cantoni in base all’appartenenza fiscale delle entità costitutive cui è stata imputata l’imposta integrativa. Se un’entità costitutiva dispone di oggetti dell’imposta in più Cantoni, il gettito lordo spetta ai Cantoni in base all’imputazione a tali oggetti dell’imposta.
 
 [^13-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
@@ -209,11 +224,11 @@ Se il diritto cantonale non designa un’altra autorità:
 
 <sup>1</sup> Gli articoli 105–108 LIFD[^16-1] sulla competenza territoriale non sono applicabili.
 
-<sup>2</sup> Le autorità cantonali tassano e riscuotono l’imposta integrativa dalle unità operative assoggettate che all’inizio dell’esercizio ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE appartengono fiscalmente al Cantone.
+<sup>2</sup> Le autorità cantonali tassano e riscuotono l’imposta integrativa dalle entità costitutive assoggettate che all’inizio dell’esercizio ai sensi dell’articolo 10.1 delle norme tipo GloBE appartengono fiscalmente al Cantone.
 
 <sup>3</sup> Se, in un caso concreto, il luogo della tassazione è incerto o controverso, esso viene stabilito dall’AFC. La decisione dell’AFC è impugnabile con ricorso secondo le disposizioni generali sull’amministrazione della giustizia federale.
 
-<sup>4</sup> L’accertamento del luogo della tassazione può essere richiesto dall’autorità di tassazione dell’imposta integrativa, dall’amministrazione cantonale dell’imposta integrativa o dall’unità operativa assoggettata all’imposta integrativa. A tale scopo, l’unità operativa assoggettata all’imposta integrativa deve designare un recapito in Svizzera.
+<sup>4</sup> L’accertamento del luogo della tassazione può essere richiesto dall’autorità di tassazione dell’imposta integrativa, dall’amministrazione cantonale dell’imposta integrativa o dall’entità costitutiva assoggettata all’imposta integrativa. A tale scopo, l’entità costitutiva assoggettata all’imposta integrativa deve designare un recapito in Svizzera.
 
 <sup>5</sup> L’autorità che ha trattato un caso esulante dalla sua competenza territoriale trasmette l’incarto all’autorità competente.
 
@@ -235,10 +250,10 @@ Se il diritto cantonale non designa un’altra autorità:
 
 Il sistema d’informazione serve in particolare:
 
-- a. alla tenuta di un elenco centrale delle unità operative assoggettate all’imposta integrativa (elenco centrale dell’imposta integrativa);
-- b. alla presentazione e al trattamento per via elettronica delle dichiarazioni dell’imposta integrativa così come di altre notificazioni delle unità operative assoggettate alle autorità di tassazione dell’imposta integrativa;
+- a. alla tenuta di un elenco centrale delle entità costitutive assoggettate all’imposta integrativa (elenco centrale dell’imposta integrativa);
+- b. alla presentazione e al trattamento per via elettronica delle dichiarazioni dell’imposta integrativa così come di altre notificazioni delle entità costitutive assoggettate alle autorità di tassazione dell’imposta integrativa;
 - c. alla notificazione elettronica delle tassazioni e delle decisioni delle autorità di tassazione dell’imposta integrativa;
-- d. allo scambio di informazioni tra le unità operative assoggettate all’imposta integrativa e le autorità di tassazione dell’imposta integrativa.
+- d. allo scambio di informazioni tra le entità costitutive assoggettate all’imposta integrativa e le autorità di tassazione dell’imposta integrativa.
 
 <sup>5</sup>
 
@@ -247,16 +262,16 @@ Il sistema d’informazione contiene segnatamente i seguenti dati:
 - a. le dichiarazioni dell’imposta integrativa, inclusi gli allegati;
 - b. le decisioni di tassazione e altre decisioni delle autorità di tassazione dell’imposta integrativa;
 - c. indicazioni sulla ripartizione del gettito lordo dell’imposta integrativa tra i singoli Cantoni e la Confederazione;
-- d. le unità operative all’estero.
+- d. le entità costitutive all’estero.
 
 <sup>6</sup>
 
-L’elenco centrale dell’imposta integrativa contiene segnatamente i seguenti dati delle unità operative assoggettate all’imposta integrativa:
+L’elenco centrale dell’imposta integrativa contiene segnatamente i seguenti dati delle entità costitutive assoggettate all’imposta integrativa:
 
 - a. la ditta;
 - b. la sede;
 - c. il numero d’identificazione delle imprese (IDI);
-- d. le persone autorizzate a rappresentare le unità operative.
+- d. le persone autorizzate a rappresentare le entità costitutive.
 
 <sup>7</sup> Le autorità di tassazione dell’imposta integrativa, le amministrazioni cantonali dell’imposta integrativa e l’AFC utilizzano sistematicamente l’IDI per adempiere i loro compiti secondo la presente ordinanza.
 
@@ -271,7 +286,7 @@ L’elenco centrale dell’imposta integrativa contiene segnatamente i seguenti 
 Le amministrazioni cantonali delle contribuzioni possono consultare:
 
 - a. l’elenco centrale dell’imposta integrativa;
-- b. i dati delle unità operative di un gruppo di imprese, se le unità operative o gli oggetti dell’imposta di tale gruppo di imprese appartengono fiscalmente al Cantone.
+- b. i dati delle entità costitutive di un gruppo di imprese, se le entità costitutive o gli oggetti dell’imposta di tale gruppo di imprese appartengono fiscalmente al Cantone.
 
 <sup>3</sup> I Cantoni possono utilizzare i dati di cui vengono a conoscenza in virtù della presente ordinanza per adempiere i propri compiti nell’ambito dell’imposta federale diretta.
 
@@ -283,13 +298,13 @@ Le amministrazioni cantonali delle contribuzioni possono consultare:
 
 #### Art. 19
 
-**Obblighi dell’unità operativa assoggettata all’imposta integrativa**
+**Obblighi dall’entità costitutiva assoggettata all’imposta integrativa**
 
-<sup>1</sup> L’unità operativa assoggettata all’imposta integrativa secondo l’articolo 5 deve annunciarsi spontaneamente nel sistema d’informazione entro il termine previsto dall’articolo 20 per la presentazione della dichiarazione dell’imposta integrativa.
+<sup>1</sup> L’entità costitutiva assoggettata all’imposta integrativa secondo l’articolo 5 deve annunciarsi spontaneamente nel sistema d’informazione entro il termine previsto dall’articolo 20 per la presentazione della dichiarazione dell’imposta integrativa.
 
 <sup>2</sup> Deve presentare per via elettronica i suoi dati secondo l’articolo 17 capoversi 5 lettere a e d nonché 6.
 
-<sup>3</sup> Quando il suo assoggettamento all’imposta integrativa cessa, l’unità operativa deve annunciarlo spontaneamente nel sistema d’informazione dell’imposta integrativa.
+<sup>3</sup> Quando il suo assoggettamento all’imposta integrativa cessa, l’entità costitutiva deve annunciarlo spontaneamente nel sistema d’informazione dell’imposta integrativa.
 
 ### Sezione 4: Tassazione
 
@@ -297,15 +312,15 @@ Le amministrazioni cantonali delle contribuzioni possono consultare:
 
 **Termini per la dichiarazione dell’imposta integrativa**
 
-<sup>1</sup> L’unità operativa assoggettata all’imposta integrativa deve presentare la dichiarazione dell’imposta integrativa all’amministrazione cantonale competente entro 15 mesi dalla fine dell’esercizio ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE; la prima dichiarazione dell’imposta integrativa dal momento in cui il gruppo di imprese rientra nel campo di applicazione delle prescrizioni modello GloBE deve essere presentata entro 18 mesi dalla fine del primo esercizio.
+<sup>1</sup> L’entità costitutiva assoggettata all’imposta integrativa deve presentare la dichiarazione dell’imposta integrativa all’amministrazione cantonale competente entro 15 mesi dalla fine dell’esercizio ai sensi dell’articolo 10.1 delle norme tipo GloBE; la prima dichiarazione dell’imposta integrativa dal momento in cui il gruppo di imprese rientra nel campo di applicazione delle norme tipo GloBE deve essere presentata entro 18 mesi dalla fine del primo esercizio.
 
-<sup>2</sup> L’unità operativa assoggettata all’imposta integrativa che omette di presentare la dichiarazione dell’imposta integrativa o la presenta incompleta è sollecitata dall’autorità cantonale competente a rimediarvi entro un congruo termine.
+<sup>2</sup> L’entità costitutiva assoggettata all’imposta integrativa che omette di presentare la dichiarazione dell’imposta integrativa o la presenta incompleta è sollecitata dall’autorità cantonale competente a rimediarvi entro un congruo termine.
 
 #### Art. 21
 
-**Obbligo di informare delle unità operative dello stesso gruppo di imprese**
+**Obbligo di informare delle entità costitutive dello stesso gruppo di imprese**
 
-Su richiesta dell’autorità di tassazione competente per l’imposta integrativa, le unità operative appartenenti fiscalmente alla Svizzera di un gruppo di imprese devono fornire informazioni su tutti i fatti rilevanti ai fini della tassazione dell’imposta integrativa, se l’unità operativa assoggettata all’imposta integrativa non fornisce tali informazioni.
+Su richiesta dell’autorità di tassazione competente per l’imposta integrativa, le entità costitutive appartenenti fiscalmente alla Svizzera di un gruppo di imprese devono fornire informazioni su tutti i fatti rilevanti ai fini della tassazione dell’imposta integrativa, se l’entità costitutiva assoggettata all’imposta integrativa non fornisce tali informazioni.
 
 #### Art. 22
 
@@ -325,7 +340,7 @@ Se il conto annuale è espresso in una valuta estera, l’ammontare dell’impos
 
 **Disposizioni speciali per il reclamo**
 
-Il reclamo presentato dall’unità operativa assoggettata all’imposta integrativa contro una decisione di tassazione già esaustivamente motivata può essere trasmesso come ricorso al Tribunale amministrativo federale, se vi è il consenso della reclamante, dell’amministrazione cantonale dell’imposta integrativa e dell’AFC.
+Il reclamo presentato dall’entità costitutiva assoggettata all’imposta integrativa contro una decisione di tassazione già esaustivamente motivata può essere trasmesso come ricorso al Tribunale amministrativo federale, se vi è il consenso della reclamante, dell’amministrazione cantonale dell’imposta integrativa e dell’AFC.
 
 #### Art. 25
 
@@ -333,7 +348,7 @@ Il reclamo presentato dall’unità operativa assoggettata all’imposta integra
 
 <sup>1</sup> Gli articoli 140–146 LIFD[^25-1] sulla procedura di ricorso davanti alla commissione cantonale di ricorso in materia d’imposta, a un’altra autorità cantonale di ricorso o al Tribunale federale non sono applicabili.
 
-<sup>2</sup> L’unità operativa assoggettata all’imposta integrativa può ricorrere presso il Tribunale amministrativo federale conformemente alla legge del 17 giugno 2005[^25-2] sul Tribunale amministrativo federale (LTAF) contro la decisione su reclamo pronunciata dall’autorità di tassazione dell’imposta integrativa.
+<sup>2</sup> L’entità costitutiva assoggettata all’imposta integrativa può ricorrere presso il Tribunale amministrativo federale conformemente alla legge del 17 giugno 2005[^25-2] sul Tribunale amministrativo federale (LTAF) contro la decisione su reclamo pronunciata dall’autorità di tassazione dell’imposta integrativa.
 
 <sup>3</sup> L’amministrazione cantonale dell’imposta integrativa del Cantone competente per la tassazione e l’AFC possono ricorrere presso il Tribunale amministrativo federale conformemente alla LTAF contro ogni decisione di tassazione e ogni decisione su reclamo pronunciate dall’autorità di tassazione dell’imposta integrativa.
 
@@ -342,7 +357,7 @@ Il reclamo presentato dall’unità operativa assoggettata all’imposta integra
 Il termine di ricorso secondo il capoverso 3 è:
 
 - a. 30 giorni dalla notificazione, per le decisioni di tassazione e le decisioni su reclamo notificate all’amministrazione ricorrente;
-- b. 60 giorni dalla notificazione della decisione di tassazione o della decisione su reclamo all’unità operativa assoggettata all’imposta integrativa, negli altri casi.
+- b. 60 giorni dalla notificazione della decisione di tassazione o della decisione su reclamo all’entità costitutiva assoggettata all’imposta integrativa, negli altri casi.
 
 <sup>5</sup> La revisione delle sentenze del Tribunale amministrativo federale è disciplinata dalla LTAF.
 
@@ -403,32 +418,33 @@ Gli articoli 167–167*g* LIFD[^28-1] sul condono dell’imposta non sono applic
 
 <sup>1</sup>
 
-L’unità operativa assoggettata all’imposta integrativa è punita con la multa se, intenzionalmente o per negligenza:
+L’entità costitutiva assoggettata all’imposta integrativa è punita con la multa se, intenzionalmente o per negligenza:
 
 - a. fa in modo che una tassazione sia indebitamente omessa o che una tassazione passata in giudicato sia incompleta;
-- b. ottiene una restituzione illecita d’imposta.
+- b.[^30-1] ottiene una restituzione illecita dell’imposta integrativa.
 
 <sup>2</sup> La multa equivale di regola all’importo dell’imposta integrativa sottratta. In caso di colpa lieve, può essere ridotta a un terzo e, in caso di colpa grave, aumentata sino al triplo dell’imposta sottratta.
 
 <sup>3</sup> Sono fatte salve le pene inflitte agli organi o ai rappresentanti della persona giuridica secondo l’articolo 31.
 
-<sup>4</sup> All’autodenuncia è applicabile per analogia l’articolo 181*a* LIFD[^30-1].
+<sup>4</sup> All’autodenuncia è applicabile per analogia l’articolo 181*a* LIFD[^30-2].
 
-<sup>5</sup> L’unità operativa assoggettata all’imposta integrativa è punita con la multa se tenta di sottrarre un’imposta integrativa. La multa è pari a due terzi della multa che sarebbe inflitta nel caso di sottrazione intenzionale e consumata dell’imposta integrativa.
+<sup>5</sup> L’entità costitutiva assoggettata all’imposta integrativa è punita con la multa se tenta di sottrarre un’imposta integrativa. La multa è pari a due terzi della multa che sarebbe inflitta nel caso di sottrazione intenzionale e consumata dell’imposta integrativa.
 
-[^30-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^30-1]: Nuova testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
+[^30-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
 #### Art. 31
 
 **Istigazione, complicità, concorso**
 
-<sup>1</sup> Chiunque, intenzionalmente, istiga a una sottrazione dell’imposta integrativa, vi presta aiuto oppure, come rappresentante dell’unità operativa assoggettata all’imposta integrativa, la attua o vi partecipa, è punito con la multa indipendentemente dalla punibilità dell’unità operativa assoggettata all’imposta integrativa e risponde solidalmente per il pagamento dell’imposta integrativa sottratta.
+<sup>1</sup> Chiunque, intenzionalmente, istiga a una sottrazione dell’imposta integrativa, vi presta aiuto oppure, come rappresentante dell’entità costitutiva assoggettata all’imposta integrativa, la attua o vi partecipa, è punito con la multa indipendentemente dalla punibilità dell’entità costitutiva assoggettata all’imposta integrativa e risponde solidalmente per il pagamento dell’imposta integrativa sottratta.
 
 <sup>2</sup> La multa è di 10 000 franchi al massimo e, in casi gravi o di recidiva, di 50 000 franchi al massimo.
 
 <sup>3</sup> All’autodenuncia sono applicabili per analogia gli articoli 177 capoverso 3 e 181*a* LIFD[^31-1].
 
-<sup>4</sup> I capoversi 1–3 sono applicabili alla persona giuridica che, nell’esercizio della sua attività, ha istigato, prestato aiuto o partecipato a sottrazioni dell’imposta integrativa commesse dall’unità operativa assoggettata all’imposta integrativa.
+<sup>4</sup> I capoversi 1–3 sono applicabili alla persona giuridica che, nell’esercizio della sua attività, ha istigato, prestato aiuto o partecipato a sottrazioni dell’imposta integrativa commesse dall’entità costitutiva assoggettata all’imposta integrativa.
 
 [^31-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
@@ -516,11 +532,13 @@ I Cantoni competenti per la tassazione possono trattenere per ogni decisione di 
 
 **Disposizioni transitorie**
 
-<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza si applica agli esercizi ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE che iniziano a partire dalla data di entrata in vigore della stessa.
+<sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza si applica agli esercizi ai sensi dell’articolo 10.1 delle norme tipo GloBE che iniziano a partire dalla data di entrata in vigore della stessa.
 
-<sup>2</sup> Le disposizioni sull’imposta integrativa internazionale si applicano a partire da una data ulteriore. Per determinare l’unità operativa assoggettata all’imposta integrativa secondo l’articolo 5, gli articoli 2.1–2.3 delle prescrizioni modello GloBE concernenti l’IIR si applicano tuttavia già dall’entrata in vigore della presente ordinanza.
+<sup>2</sup> Ad eccezione dell’articolo 10 capoverso 3, le disposizioni sull’imposta integrativa internazionale si applicano agli esercizi ai sensi dell’articolo 10.1 delle norme tipo GloBE che iniziano a partire dal 1°gennaio 2025. L’articolo 10 capoverso 3 si applica a partire da una data ulteriore.[^40-1]
 
-<sup>3</sup> In caso di violazione per negligenza di obblighi procedurali o di sottrazione d’imposta per negligenza viene meno la punibilità secondo gli articoli 29 e 30 per gli esercizi ai sensi dell’articolo 10.1 delle prescrizioni modello GloBE che iniziano prima del 31 dicembre 2026 e terminano prima del 30 giugno 2028.
+<sup>3</sup> In caso di violazione per negligenza di obblighi procedurali o di sottrazione d’imposta per negligenza viene meno la punibilità secondo gli articoli 29 e 30 per gli esercizi ai sensi dell’articolo 10.1 delle norme tipo GloBE che iniziano prima del 31 dicembre 2026 e terminano prima del 30 giugno 2028.
+
+[^40-1]: Nuova testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° ott. 2025 ([RU 2024 692](https://fedlex.data.admin.ch/eli/oc/2024/692)).
 
 #### Art. 41
 
