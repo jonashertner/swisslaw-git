@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Personalverordnung
 short: PV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-29
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-13
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2976/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3089/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2976/pdf_file"
 
 (PV)
 
-vom 18.05.2005 (Stand 01.01.2024)
+vom 18.05.2005 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -777,7 +777,7 @@ beschliesst:
 
 <sup>3</sup> Familien- und Betreuungszulagen sind von der Kürzung im zweiten Krankheitsjahr ausgenommen.
 
-<sup>4</sup> Funktionsbezogene Zulagen werden nicht weiter ausgerichtet, wenn die Arbeitsverhinderung länger als einen Monat dauert.
+<sup>4</sup> …
 
 #### Art. 52a
 
@@ -1588,7 +1588,13 @@ beschliesst:
 - d Hauswartinnen und Hauswarte,
 - e Mitarbeiterinnen und Mitarbeiter der Wildhut,
 - f Betreuungspersonal sowie Mitarbeiterinnen und Mitarbeiter der kantonalen besonderen Volksschulen und Einrichtungen für Kinder mit besonderem Förder- und Schutzbedarf,
-- g Mitarbeiterinnen und Mitarbeiter der Kantonspolizei ohne Polizeistatus, aber mit operativen polizeilichen Aufgaben.
+- g Mitarbeiterinnen und Mitarbeiter der Kantonspolizei ohne Polizeistatus, aber mit operativen polizeilichen Aufgaben,
+- h Amtliche Tierärztinnen und Tierärzte sowie amtliche Fachassistentinnen und Fachassistenten im Amt für Veterinärwesen,
+- i Mitarbeiterinnen und Mitarbeiter der Fischereiaufsicht im Amt für Landwirtschaft und Natur,
+- k Mitarbeiterinnen und Mitarbeiter der Chauffeurdienste für Mitglieder des Regierungsrates (Sicherheitsdirektion),
+- l Mitarbeiterinnen und Mitarbeiter des Archäologischen Dienstes im Amt für Kultur,
+- m Mitarbeiterinnen und Mitarbeiter des Regulier- und Schadendienstes im Amt für Wasser und Abfall,
+- n Laborpersonal.
 
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter der Kantonspolizei mit Polizeistatus in den Gehaltsklassen 1 bis 23 erhalten eine Zeitgutschrift von 16 Prozent für Einsätze zwischen 20.00 und 06.00 Uhr.
 

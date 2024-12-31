@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Ordonnance sur le personnel
 short: OPers
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-29
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-13
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2976/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3089/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2976/pdf_file"
 
 (OPers)
 
-du 18.05.2005 (état au 01.01.2024)
+du 18.05.2005 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -775,7 +775,7 @@ arrête:
 
 <sup>3</sup> L’allocation familiale et l’allocation d’entretien sont exclues de la réduction du traitement durant la deuxième année.
 
-<sup>4</sup> Les allocations de fonction cessent d’être versées lorsque l’empêchement de travailler dure plus d’un mois.
+<sup>4</sup> …
 
 #### Art. 52a
 
@@ -1586,7 +1586,13 @@ arrête:
 - d concierges,
 - e collaborateurs et collaboratrices de la surveillance de la chasse,
 - f personnel d’encadrement ainsi que collaborateurs et collaboratrices des établissements particuliers de la scolarité obligatoire et des institutions pour enfants ayant un besoin particulier d'encouragement et de protection,
-- g collaboratrices et collaborateurs de la Police cantonale n'ayant pas le statut de policière ou de policier, mais accomplissant des tâches de police d'ordre opérationnel.
+- g collaboratrices et collaborateurs de la Police cantonale n'ayant pas le statut de policière ou de policier, mais accomplissant des tâches de police d'ordre opérationnel,
+- h vétérinaires officiels ainsi qu'assistantes et assistants officiels à l’Office des affaires vétérinaires,
+- i collaboratrices et collaborateurs de la surveillance de la pêche à l'Office de l'agriculture et de la nature,
+- k collaboratrices et collaborateurs des services de chauffeur pour les membres du Conseil-exécutif (Direction de la sécurité),
+- l collaboratrices et collaborateurs du Service archéologique à l'Office de la culture,
+- m collaboratrices et collaborateurs du service de régulation et du service des sinistres à l’Office des eaux et des déchets,
+- n personnel de laboratoire.
 
 <sup>2</sup> Les collaborateurs et les collaboratrices de la Police cantonale ayant le statut de policier ou de policière qui sont affectés aux classes de traitement 1 à 23 reçoivent un bonus-temps de 16 pour cent pour les interventions effectuées entre 20 h et 6 h.
 
@@ -1758,9 +1764,9 @@ arrête:
 
 <sup>1</sup> Les agents et agentes bénéficiant de l’horaire de travail fondé sur la confiance reçoivent, selon leur choix, deux des prestations suivantes :
 
-- a une allocation annuelle sous la forme d’une indemnité représentant au plus trois pour cent du traitement annuel brut,
-- b une allocation annuelle sous la forme de cinq jours de compensation au maximum,
-- c des cotisations d’épargne supplémentaires à la prévoyance professionnelle de trois pour cent du salaire assuré.
+- a une allocation annuelle sous la forme d’une indemnité représentant trois pour cent du traitement annuel brut,
+- b une allocation annuelle sous la forme de cinq jours de compensation,
+- c des cotisations d’épargne supplémentaires de l'employeur à la prévoyance professionnelle de trois pour cent du salaire assuré.
 
 <sup>2</sup> Le droit d’effectuer un choix conformément à l’alinéa 1 peut être exercé chaque année jusqu’au 31 décembre pour l’année suivante. S’il n’est pas exercé, les prestations choisies pour l’année en cours restent valables. Pour les personnes nouvellement engagées qui n’ont pas exercé leur droit à effectuer un choix, les lettres a et c s’appliquent par défaut.
 
