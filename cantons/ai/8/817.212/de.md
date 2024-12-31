@@ -4,21 +4,21 @@ number: "817.212"
 title: Standeskommissionsbeschluss über die Entschädigungen und Gebühren im Veterinärwesen
 short: StKB Vet
 language: de
-version: 2018-07-03
-corrected: 2019-02-15
-version_adopted: 2018-07-03
+version: 2025-01-01
+version_adopted: 2025-02-04
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/817.212"
-pdf: "https://ai.clex.ch/api/de/versions/1076/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2344/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Standeskommissionsbeschluss über die Entschädigungen und Gebühren im Veterinärwesen (StKB Vet)
+# Standeskommissionsbeschluss über die Entschädigungen und Gebühren im Veterinärwesen
 
-vom 19. Dezember 20171
+(StKB Vet)
+
+vom 19.12.2017 (Stand 01.01.2025)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -26,14 +26,15 @@ in Ausführung von Ziff. 2622 der Verordnung über die Gebühren der kantonalen 
 
 beschliesst:
 
-### I. Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Anwendungsbereich**
 
-Dieser Standeskommissionsbeschluss regelt a) die Entschädigung der Personen, die im Auftrag der Kantonstierärztin oder des Kantonstierarztes amtliche Verrichtungen vornehmen;
+<sup>1</sup> Dieser Standeskommissionsbeschluss regelt
 
+- a) die Entschädigung der Personen, die im Auftrag der Kantonstierärztin oder des Kantonstierarztes amtliche Verrichtungen vornehmen;
 - b) die Gebühren des Veterinärwesens.
 
 #### Art. 2
@@ -46,47 +47,61 @@ Dieser Standeskommissionsbeschluss regelt a) die Entschädigung der Personen, di
 
 <sup>3</sup> Sofern dieser Standeskommissionsbeschluss nichts anderes vorsieht, wird die Höhe der Gebühren und der Entschädigungen nach Massgabe des Zeitaufwandes für die gebührenpflichtige oder zu entschädigende Verrichtung festgelegt.
 
-### II. Entschädigungen
+## II. Entschädigungen
 
 #### Art. 3
 
-Entschädigung <sup>1</sup>Die Entschädigung nach Zeitaufwand findet insbesondere Anwendung bei:
+**Entschädigung nach dem Zeitaufwand a) Grundsätze**
 
-nach dem Zeit- a) der Schlachttier- und Fleischuntersuchung;
+<sup>1</sup> Die Entschädigung nach Zeitaufwand findet insbesondere Anwendung bei:
 
-aufwand b) bei übrigen tierärztlichen Verrichtungen, mit Ausnahme des Vollzugs der Tiera) Grundsätze seuchengesetzgebung c) den amtlichen Verrichtungen von Bieneninspektorinnen und -inspektoren; Schätzungsexpertinnen und -experten sowie anderen nichttierärztlichen Beauftragten;
-
+- a) der Schlachttier- und Fleischuntersuchung;
+- b) bei übrigen tierärztlichen Verrichtungen, mit Ausnahme des Vollzugs der Tierseuchengesetzgebung
+- c) den amtlichen Verrichtungen von Bieneninspektorinnen und -inspektoren; Schätzungsexpertinnen und -experten sowie anderen nichttierärztlichen Beauftragten;
 - d) Kursen und Sitzungen, die von der Kantonstierärztin oder vom Kantonstierarzt angeordnet werden.
 
 <sup>2</sup> Entschädigt wird die am Einsatz-, Kurs- oder Sitzungsort verbrachte Zeit sowie die Zeit für die An- und Rückfahrt.
 
 #### Art. 4
 
-- b) Ansätze Die Entschädigung für den Zeitaufwand beträgt (in Franken):
+**b) Ansätze**
 
-für andere für Tierärzte Personen a) während der ordentlichen Arbeitszeit, pro Stunde b) ausserhalb der ordentlichen Arbeitszeit, falls angeordnet, pro Stunde c) bei Kursen und Sitzungen, pro Stunde höchstens aber insgesamt bei halbtägigen Kursen und Sitzungen bei ganztägigen Kursen oder Sitzungen
+<sup>1</sup> Die Entschädigung für den Zeitaufwand beträgt (in Franken):
 
-**157.– 48.–**
+- a) während der ordentlichen Arbeitszeit, pro Stunde:
+  - 1\. für Tierärzte: — 157.--
+  - 2\. für andere Personen: — 48.--
+- b) ausserhalb der ordentlichen Arbeitszeit, falls angeordnet, pro Stunde:
+  - 1\. für Tierärzte: — 236.--
+  - 2\. für andere Personen: — 72.--
+- c) bei Kursen und Sitzungen, pro Stunde:
+  - 1\. für Tierärzte: — 119.--
+  - 2\. für andere Personen: — 37.--
+- d) bei halbtägigen Kursen und Sitzungen höchstens aber insgesamt:
+  - 1\. für Tierärzte: — 247.--
+  - 2\. für andere Personen: — 132.--
+- e) bei ganztägigen Kursen oder Sitzungen höchstens aber insgesamt:
+  - 1\. für Tierärzte: — 474.--
+  - 2\. für andere Personen: — 264.--
 
-**236.– 72.– 119.– 37.–**
+#### Art. 5
 
-**247.– 132.– 474.– 264.–**
+**Pauschalentschädigungen a) Zusammensetzung**
 
-Art. 5 Pauschalent- <sup>1</sup>Für den Vollzug der Tierseuchengesetzgebung durch Tierärztinnen und Tierärzte schädigungen werden Pauschalentschädigungen ausgerichtet.
+<sup>1</sup> Für den Vollzug der Tierseuchengesetzgebung durch Tierärztinnen und Tierärzte werden Pauschalentschädigungen ausgerichtet.
 
-- a) Zusammen- <sup>2</sup>Eine Pauschalentschädigung setzt sich zusammen aus einer Grundentschädigung setzung für den Besuch des Tierhaltebetriebs und, soweit dies vorgesehen ist, zusätzlichen Einzelentschädigungen für einzelne Verrichtungen.
+<sup>2</sup> Eine Pauschalentschädigung setzt sich zusammen aus einer Grundentschädigung für den Besuch des Tierhaltebetriebs und, soweit dies vorgesehen ist, zusätzlichen Einzelentschädigungen für einzelne Verrichtungen.
 
 #### Art. 6
 
-- b) Grundent- <sup>1</sup>Mit der Grundentschädigung sind die Organisation von Probenahmen, Fahrspesen, schädigung Auslagen für Porto und Verpackungsmaterial, der übliche administrative Aufwand
+**b) Grundentschädigung**
 
-sowie das Verpacken und Einsenden von Proben abgegolten.
+<sup>1</sup> Mit der Grundentschädigung sind die Organisation von Probenahmen, Fahrspesen, Auslagen für Porto und Verpackungsmaterial, der übliche administrative Aufwand sowie das Verpacken und Einsenden von Proben abgegolten.
 
 <sup>2</sup> Die Grundentschädigung beträgt:
 
-- a) pro Betriebsbesuch Fr. 47.–
-
-- b) für den Besuch jedes weiteren Stalls des gleichen Tierhaltenden (andere Tierverkehrsdatenbanknummer) zusätzlich Fr. 20.–.
+- a) pro Betriebsbesuch: Fr. 47.--
+- b) für den Besuch jedes weiteren Stalls des gleichen Tierhaltenden (andere Tierverkehrsdatenbanknummer) zusätzlich Fr. 20.--.
 
 #### Art. 7
 
@@ -95,14 +110,10 @@ sowie das Verpacken und Einsenden von Proben abgegolten.
 <sup>1</sup> Zusätzlich zu Grundentschädigungen werden Einzelentschädigungen im folgenden Rahmen ausgerichtet:
 
 - a) Schutzimpfung oder Tuberkulinisierung, je Tier Fr. 3.20 bis Fr. 9.60;
-
-- b) die Entnahme diverser Proben, je Probe Fr. 3.20 bis Fr. 32.–;
-
-- c) die Sektion inklusive Bericht Fr. 80.– bis Fr. 1'600.–;
-
-- d) zusätzlichen administrativen Aufwand Fr. 8.– bis Fr. 24.–.
-
-- e) tierärztliche Berichte, je Bericht Fr. 80.– bis Fr. 320.–;
+- b) die Entnahme diverser Proben, je Probe Fr. 3.20 bis Fr. 32.--;
+- c) die Sektion inklusive Bericht Fr. 80.-- bis Fr. 1'600.--;
+- d) zusätzlichen administrativen Aufwand Fr. 8.-- bis Fr. 24.--.
+- e) tierärztliche Berichte, je Bericht Fr. 80.-- bis Fr. 320.--;
 
 <sup>2</sup> Innerhalb dieses Entschädigungsrahmens bemisst die Kantonstierärztin oder der Kantonstierarzt im Einvernehmen mit dem Departement die Entschädigung anhand des durchschnittlichen Zeitaufwandes für vergleichbare Verrichtungen.
 
@@ -112,119 +123,100 @@ sowie das Verpacken und Einsenden von Proben abgegolten.
 
 **Abgegoltene Auslagen**
 
-Mit den Entschädigungen sind die Arbeitszeit der Beauftragten, die Mehrwertsteuer, die Aufwendungen für die notwendige Aus- und Weiterbildung, allfällige Sozialversicherungsbeträge sowie die Bereitstellung und Nutzung von Telefon, Internet und Bürogeräten abgegolten.
+<sup>1</sup> Mit den Entschädigungen sind die Arbeitszeit der Beauftragten, die Mehrwertsteuer, die Aufwendungen für die notwendige Aus- und Weiterbildung, allfällige Sozialversicherungsbeträge sowie die Bereitstellung und Nutzung von Telefon, Internet und Bürogeräten abgegolten.
 
 #### Art. 9
 
 **Spesen**
 
-Für Spesen werden vergütet:
+<sup>1</sup> Für Spesen werden vergütet:
 
 - a) bei Fahrten mit privaten Fahrzeugen Fr. 0.70 pro Kilometer;
-
-- b) bei Fahrten mit öffentlichen Verkehrsmitteln die Kosten für Fahrausweise der
-
-- 2\. Klasse;
-
+- b) bei Fahrten mit öffentlichen Verkehrsmitteln die Kosten für Fahrausweise der 2. Klasse;
 - c) die Auslagen für Porto und Verbrauchsmaterial und übrige Spesen nach Massgabe der vorgelegten Belege.
 
-### III. Gebühren
+## III. Gebühren
 
 #### Art. 10
 
 **Gebühren nach dem Zeitaufwand a) Befreiung von Gebühren**
 
-Tierseuchenpolizeiliche Sperrverfügungen sind gebührenfrei, ausser:
+<sup>1</sup> Tierseuchenpolizeiliche Sperrverfügungen sind gebührenfrei, ausser:
 
 - a) wenn Tierverkehrsvorschriften nicht eingehalten wurden;
-
 - b) im Rahmen von Ein- und Ausfuhren;
-
 - c) auf Antrag des Tierhaltenden eine Ausnahmebewilligung erteilt wird.
 
 #### Art. 11
 
-- b) Ansätze <sup>1</sup>Es werden die folgenden Grundgebühren erhoben:
+**b) Ansätze**
 
-**47.–**
+<sup>1</sup> Es werden die folgenden Grundgebühren erhoben:
 
-- a) pro Betriebsbesuch b ) für den Besuch jedes weiteren Stalls des gleichen Tierhaltenden
-
-**20.–**
-
-(andere Tierverkehrsdatenbanknummer) zusätzlich
+- a) pro Betriebsbesuch: — 47.--
+- b) für den Besuch jedes weiteren Stalls des gleichen Tierhaltenden (andere Tierverkehrsdatenbanknummer) zusätzlich: — 20.--
 
 <sup>2</sup> Der Ansatz für den Zeitaufwand der Tierärztinnen und Tierärzte, Bieneninspektorinnen und -inspektoren, Schätzungsexpertinnen und -experten und der anderen nichttierärztlichen Beauftragten beträgt zusätzlich:
 
-für Tierärzfür andere tinnen und Beauftragte Tierärzte a) während der ordentlichen Arbeitszeit, pro Stunde b) ausserhalb der ordentlichen Arbeitszeit, falls angeordnet, pro Stunde
-
-**157.– 48.–-**
-
-**236.–- 72.–**
+- a) während der ordentlichen Arbeitszeit, pro Stunde:
+  - 1\. für Tierärztinnen und Tierärzte: — 157.--
+  - 2\. für andere Beauftragte: — 48.--
+- b) ausserhalb der ordentlichen Arbeitszeit, falls ange- ordnet, pro Stunde:
+  - 1\. für Tierärztinnen und Tierärzte: — 236.--
+  - 2\. für andere Beauftragte: — 72.--
 
 <sup>3</sup> Der Ansatz für administrative Verrichtungen des Veterinäramtes beträgt Fr. 100.– pro Stunde.
 
 #### Art. 12
 
-Schlachttier- und <sup>1</sup>Für die Schlachttier- und Fleischuntersuchung werden Pauschalgebühren erhoben. Fleischuntersu- <sup>2</sup>Die Pauschalgebühr setzt sich zusammen aus einer Grundgebühr für den Besuch chung der Schlachtanlage, eines Zuschlages und Einzelgebühren für jedes Schlachttier a) Zusammen- sowie Gebühren für die Beprobung der Schlachttiere.
+**Schlachttier- und Fleischuntersuchung a) Zusammensetzung und Ausnahmen**
 
-setzung und Ausnahmen <sup>3</sup>Statt Pauschalgebühren werden Gebühren nach Art. 11 erhoben für:
+<sup>1</sup> Für die Schlachttier- und Fleischuntersuchung werden Pauschalgebühren erhoben.
+
+<sup>2</sup> Die Pauschalgebühr setzt sich zusammen aus einer Grundgebühr für den Besuch der Schlachtanlage, eines Zuschlages und Einzelgebühren für jedes Schlachttier sowie Gebühren für die Beprobung der Schlachttiere.
+
+<sup>3</sup> Statt Pauschalgebühren werden Gebühren nach Art. 11 erhoben für:
 
 - a) die Wartezeit des Fleischkontrolleurs, wenn diese länger als 15 Minuten dauert;
-
 - b) bei Schlachttieruntersuchungen im Herkunftsbetrieb.
 
 #### Art. 13
 
-- b) Grundgebühr Die Grundgebühr pro Besuch der Schlachtanlage beträgt Fr. 20.–.
+**b) Grundgebühr**
+
+<sup>1</sup> Die Grundgebühr pro Besuch der Schlachtanlage beträgt Fr. 20.--.
 
 #### Art. 14
 
-- c) Zuschläge <sup>1</sup>Ein Zuschlag zur Grundgebühr wird erhoben, wenn zu einer Schlachttier- und Fleischuntersuchung aufgeboten wird:
+**c) Zuschläge**
 
-**30.–**
+<sup>1</sup> Ein Zuschlag zur Grundgebühr wird erhoben, wenn zu einer Schlachttier- und Fleischuntersuchung aufgeboten wird:
 
-- a) ausserhalb der ordentlichen Arbeitszeit b ) ausserhalb der vereinbarten Schlachtprogrammzeiten und während der ordentlichen Arbeitszeit
-
-**50.–**
-
-- c) ausserhalb der vereinbarten Schlachtprogrammzeiten und aus-
-
-**100.–**
-
-serhalb der ordentlichen Arbeitszeit
+- a) ausserhalb der ordentlichen Arbeitszeit: — 30.--
+- b) ausserhalb der vereinbarten Schlachtprogrammzeiten und während der ordentlichen Arbeitszeit: — 50.--
+- c) ausserhalb der vereinbarten Schlachtprogrammzeiten und ausserhalb der ordentlichen Arbeitszeit: — 100.--
 
 <sup>2</sup> Bei Notschlachtungen von Tieren aus den Kantonen Appenzell A.Rh. oder Appenzell I.Rh. werden keine Zuschläge erhoben.
 
 #### Art. 15
 
-**d) Einzelgebüh- 12.– ren 8.– 8.– 7.– 5.– 12.– 0.20 8.–**
+**d) Einzelgebühren**
 
 <sup>1</sup> Die Einzelgebühren betragen pro Schlachttier:
 
-- a) Rind, ab einem Alter von 6 Wochen
-
-- b) Kalb, unter einem Alter von 6 Wochen
-
-- c) Schwein
-
-- d) Schaf, Ziege
-
-- e) Schaf, Ziege: bei mehr als 50 Gitzi oder Lämmer pro Schlachttag
-
-- f) Pferd
-
-- g) Hausgeflügel, Hauskaninchen, Federwild, Hasen
-
-- h) anderes Schlachtvieh, Zucht-Schalenwild, anderes Wild
+- a) Rind, ab einem Alter von 6 Wochen: — 12.--
+- b) Kalb, unter einem Alter von 6 Wochen: — 8.--
+- c) Schwein: — 8.--
+- d) Schaf, Ziege: — 7.--
+- e) Schaf, Ziege: bei mehr als 50 Gitzi oder Lämmer pro Schlachttag: — 5.--
+- f) Pferd: — 12.--
+- g) Hausgeflügel, Hauskaninchen, Federwild, Hasen: — 0.20
+- h) anderes Schlachtvieh, Zucht-Schalenwild, anderes Wild: — 8.--
 
 <sup>2</sup> Die Einzelgebühren betragen pro Probe, (exkl. Versand- und Laborkosten):
 
-**3.– 15.–**
-
-- a) Trichinellenuntersuchung
-
-- b) Rückstandsuntersuchung
+- a) Trichinellenuntersuchung: — 3.--
+- b) Rückstandsuntersuchung: — 15.--
 
 <sup>3</sup> Bei Grossbetrieben nach Art. 3 lit. k der Verordnung über das Schlachten und die Fleischkontrolle vom 23. November 2005 (VSFK) kann die Kantonstierärztin oder der Kantonstierarzt die Einzelgebühren aufgrund des ermittelten Zeitaufwandes bemessen.
 
@@ -236,29 +228,25 @@ serhalb der ordentlichen Arbeitszeit
 
 <sup>2</sup> Die Gebühren für die Entsorgung von tierischen Nebenprodukten bemessen sich nach den effektiven Entsorgungskosten.
 
-Art. 16<sup>bis</sup>1
+#### Art. 16bis
 
-**Viehhandelspatent**
+**…**
 
-Die Gebühr für das Viehhandelspatent beträgt jährlich Fr. 200.--.
-
-### IV. Schlussbestimmungen
+## IV. Schlussbestimmungen
 
 #### Art. 17
 
 **Änderung bisherigen Rechts**
 
-Es werden aufgehoben:
+<sup>1</sup> Es werden aufgehoben:
 
 - a) der Standeskommissionsbeschluss über Entschädigungen und Gebühren zur Verordnung über die Fleischhygiene vom 20. März 2007;
-
 - b) der Standeskommissionsbeschluss über Entschädigungen zur Tierseuchenverordnung vom 29. März 2007.
 
 #### Art. 18
 
-Inkrafttreten Dieser Beschluss tritt am 1. Januar 2018 in Kraft.
+**Inkrafttreten**
 
-## Weitere Fussnoten
+<sup>1</sup> Dieser Beschluss tritt am 1. Januar 2018 in Kraft.
 
-- [1] Mit Revision vom 3. Juli 2018.
-- [1] Eingefügt durch StKB vom 3. Juli 2018.
+cGS -
