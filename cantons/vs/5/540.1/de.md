@@ -4,13 +4,12 @@ number: "540.1"
 title: Gesetz zum Schutz gegen Feuer und Naturelemente
 short: GSFN
 language: de
-version: 2018-05-01
-valid_until: 2024-12-31
-version_adopted: 2017-12-14
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 1977-11-18
 in_force: 1979-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/540.1"
-pdf: "https://lex.vs.ch/api/de/versions/2427/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3435/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2427/pdf_file"
 
 (GSFN)
 
-vom 18.11.1977 (Stand 01.05.2018)
+vom 18.11.1977 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -505,7 +504,7 @@ beschliesst:
 
 **Beiträge der Feuerversicherungsgesellschaften**
 
-<sup>1</sup> Die Feuerversicherungsgesellschaften beteiligen sich an den Kosten der Feuerpolizei und der Brandverhütungsmassnahmen durch jährliche Beiträgean einen kantonalen Fonds, der durch das Finanz- und Volkswirtschaftsdepartement verwaltet wird. Dieser Fonds muss verzinst werden.
+<sup>1</sup> Die Feuerversicherungsgesellschaften beteiligen sich an den Kosten der Feuerpolizei und der Brandverhütungsmassnahmen durch jährliche Beiträge an einen kantonalen Fonds, der durch das Finanz- und Volkswirtschaftsdepartement verwaltet wird.
 
 <sup>2</sup> Der Staatsrat legt diese Beiträge nach Anhörung der Versicherungsgesellschaften anhand der von ihnen jährlich erstellten Statistiken fest.
 

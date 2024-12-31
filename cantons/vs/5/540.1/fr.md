@@ -4,13 +4,12 @@ number: "540.1"
 title: "Loi sur la protection contre l'incendie et les éléments naturels"
 short: LPIEN
 language: fr
-version: 2018-05-01
-valid_until: 2024-12-31
-version_adopted: 2017-12-14
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 1977-11-18
 in_force: 1979-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/540.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2427/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3435/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2427/pdf_file"
 
 (LPIEN)
 
-du 18.11.1977 (état 01.05.2018)
+du 18.11.1977 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -505,7 +504,7 @@ ordonne:
 
 **Contributions des compagnies d'assurances contre l'incendie**
 
-<sup>1</sup> Les compagnies d'assurances contre l'incendie contribuent aux frais de protection contre le feu par le versement d'une taxe annuelle à un fonds cantonal géré par le département des finances et de l'économie. Ce fonds porte intérêt.
+<sup>1</sup> Les compagnies d'assurances contre l'incendie contribuent aux frais de protection contre le feu par le versement d'une taxe annuelle à un fonds cantonal géré par le département des finances et de l'économie.
 
 <sup>2</sup> Le Conseil d'Etat détermine cette taxe sur la base des statistiques annuelles fournies par les compagnies et après les avoir entendues.
 
