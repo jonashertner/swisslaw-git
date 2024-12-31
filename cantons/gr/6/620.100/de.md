@@ -4,13 +4,12 @@ number: "620.100"
 title: Einführungsgesetz zum Bundesgesetz über die Wehrpflichtersatzabgabe
 short: EGzWPEG
 language: de
-version: 2017-05-01
-valid_until: 2024-12-31
-version_adopted: 2016-12-07
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2016-12-07
 in_force: 2017-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/620.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2789/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3850/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2789/pdf_file"
 
 (EGzWPEG)
 
-Vom 07.12.2016 (Stand 01.05.2017)
+Vom 07.12.2016 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -36,9 +35,9 @@ beschliesst:
 
 #### Art. 1
 
-**Amt für Militär und Zivilschutz**
+**Amt für Bevölkerungsschutz und Militär**
 
-<sup>1</sup> Das Amt für Militär und Zivilschutz (Amt) ist zuständig für:
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär (Amt) ist zuständig für:
 
 - a) die Veranlagung und den Einzug der Ersatzabgabe;
 - b) die Beurteilung von Gesuchen um Befreiung, Ermässigung, Erlass und Stundung der Ersatzabgabe;
@@ -58,9 +57,9 @@ beschliesst:
 
 #### Art. 3
 
-**Verwaltungsgericht**
+**Obergericht**
 
-<sup>1</sup> Das Verwaltungsgericht ist zuständig für:
+<sup>1</sup> Das Obergericht ist zuständig für:
 
 - a) die Beurteilung von Beschwerden gegen Einspracheentscheide des Amtes;
 - b) die Beurteilung von Beschwerden gegen Erlass- und Stundungsentscheide des Amtes;

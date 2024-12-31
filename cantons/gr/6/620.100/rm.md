@@ -4,13 +4,12 @@ number: "620.100"
 title: "Lescha introductiva tar la lescha federala davart la taxa d'exemziun dal servetsch militar"
 short: LItLTES
 language: rm
-version: 2017-05-01
-valid_until: 2024-12-31
-version_adopted: 2016-12-07
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2016-12-07
 in_force: 2017-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/620.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2789/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3850/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2789/pdf_file"
 
 (LItLTES)
 
-dals 07-12-2016 (versiun dals 01-05-2017)
+dals 07-12-2016 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -36,9 +35,9 @@ concluda:
 
 #### Art. 1
 
-**Uffizi da militar e da protecziun civila**
+**Uffizi da protecziun da la populaziun e militar**
 
-<sup>1</sup> L'uffizi da militar e da protecziun civila (uffizi) è cumpetent per:
+<sup>1</sup> L'Uffizi da protecziun da la populaziun e militar (uffizi) è cumpetent per:
 
 - a) disponer ed incassar la taxa d'exemziun;
 - b) giuditgar dumondas da deliberar, da reducir, da relaschar e da prorogar la taxa d'exemziun;
@@ -58,9 +57,9 @@ concluda:
 
 #### Art. 3
 
-**Dretgira administrativa**
+**Dretgira superiura**
 
-<sup>1</sup> La dretgira administrativa è cumpetenta per:
+<sup>1</sup> La Dretgira superiura è cumpetenta per:
 
 - a) giuditgar recurs cunter decisiuns da protesta da l'uffizi;
 - b) giuditgar recurs cunter decisiuns da relasch e da prorogaziun da l'uffizi;

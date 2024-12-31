@@ -4,13 +4,12 @@ number: "620.100"
 title: "Legge d'applicazione della legge federale sulla tassa d'esenzione dall'obbligo militare"
 short: LAdLTEO
 language: it
-version: 2017-05-01
-valid_until: 2024-12-31
-version_adopted: 2016-12-07
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2016-12-07
 in_force: 2017-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/620.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2789/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3850/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2789/pdf_file"
 
 (LAdLTEO)
 
-del 07.12.2016 (stato 01.05.2017)
+del 07.12.2016 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -36,9 +35,9 @@ decide:
 
 #### Art. 1
 
-**Ufficio del militare e della protezione civile**
+**Ufficio della protezione della popolazione e del militare**
 
-<sup>1</sup> L'Ufficio del militare e della protezione civile (Ufficio) è competente per:
+<sup>1</sup> L'Ufficio della protezione della popolazione e del militare (Ufficio) è competente per:
 
 - a) l'applicazione e la riscossione della tassa d'esenzione;
 - b) la valutazione di istanze di esenzione, riduzione, condono e dilazione della tassa;
@@ -58,9 +57,9 @@ decide:
 
 #### Art. 3
 
-**Tribunale amministrativo**
+**Tribunale d'appello**
 
-<sup>1</sup> Il Tribunale amministrativo è competente per:
+<sup>1</sup> Il Tribunale d'appello è competente per:
 
 - a) il giudizio su ricorsi contro decisioni su opposizione dell'Ufficio;
 - b) il giudizio su ricorsi contro decisioni di condono e di dilazione dell'Ufficio;
