@@ -4,13 +4,13 @@ number: "350.500"
 title: "Lescha davart l'execuziun giudiziala en il chantun Grischun"
 short: "lescha davart l'execuziun giudiziala, LExeG"
 language: rm
-version: 2022-01-01
-corrected: 2022-05-18
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3219/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3393/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3219/pdf_file"
 
 (lescha davart l'execuziun giudiziala, LExeG)
 
-dals 27-08-2009 (versiun dals 01-01-2022)
+dals 27-08-2009 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -436,7 +436,7 @@ concluda:
 - e) collocar en in local ch'è segirà spezialmain e che na cuntegna nagins objects periclitants;
 - f) liar.
 
-<sup>3</sup> Las mesiras tenor l'alinea 1 literas a, c ed e èn er admissiblas, sch'il privel da la liberaziun u sch'in disturbi considerabel da l'urden en l'instituziun d'execuziun na po betg vegnir evità autramain.
+<sup>3</sup> Las mesiras tenor l'alinea 2 literas a, c ed e èn er admissiblas, sch'il privel da la liberaziun u sch'in disturbi considerabel da l'urden en l'instituziun d'execuziun na po betg vegnir evità autramain.
 
 <sup>4</sup> Sin ordinaziun da l'instituziun d'execuziun èsi admess da liar ina persuna collocada per la sortida, per la preschentaziun u per il transport er alura, sch'igl exista in privel da fugia augmentà per auters motivs che quels da l'alinea 1.
 
@@ -740,9 +740,9 @@ concluda:
 
 #### Art. 48
 
-**Recurs tar la Dretgira chantunala dal Grischun**
+**Recurs tar la Dretgira superiura**
 
-<sup>1</sup> Cunter decisiuns dal departament pon las persunas pertutgadas e la Procura publica far recurs penal tar la Dretgira chantunala entaifer 30 dis dapi la communicaziun.
+<sup>1</sup> Cunter decisiuns dal departament pon las persunas pertutgadas e la Procura publica far recurs penal tar la Dretgira superiura entaifer 30 dis dapi la communicaziun.
 
 <sup>2</sup> Per la procedura da recurs valan las disposiziuns dal Cudesch da procedura penala[^48-1] confurm al senn.
 

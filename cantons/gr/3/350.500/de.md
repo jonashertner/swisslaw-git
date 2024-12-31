@@ -4,13 +4,13 @@ number: "350.500"
 title: Gesetz über den Justizvollzug im Kanton Graubünden
 short: "Justizvollzugsgesetz, JVG"
 language: de
-version: 2022-01-01
-corrected: 2022-05-18
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3219/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3393/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3219/pdf_file"
 
 (Justizvollzugsgesetz, JVG)
 
-Vom 27.08.2009 (Stand 01.01.2022)
+Vom 27.08.2009 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -434,7 +434,7 @@ beschliesst:
 - e) Unterbringen in einem besonders gesicherten Raum ohne gefährdende Gegenstände;
 - f) Fesseln.
 
-<sup>3</sup> Massnahmen nach Absatz 1 Litera a, c und e sind auch zulässig, wenn die Gefahr der Befreiung oder eine erhebliche Störung der Ordnung in der Vollzugseinrichtung nicht anders vermieden werden kann.
+<sup>3</sup> Massnahmen nach Absatz 2 Litera a, c und e sind auch zulässig, wenn die Gefahr der Befreiung oder eine erhebliche Störung der Ordnung in der Vollzugseinrichtung nicht anders vermieden werden kann.
 
 <sup>4</sup> Beim Ausführen, Vorführen oder Transportieren ist eine Fesselung auf Anordnung der Vollzugseinrichtung auch dann zulässig, wenn aus anderen Gründen als denen des Absatzes 1 in erhöhtem Masse Fluchtgefahr besteht.
 
@@ -738,9 +738,9 @@ beschliesst:
 
 #### Art. 48
 
-**Beschwerde ans Kantonsgericht von Graubünden**
+**Beschwerde ans Obergericht**
 
-<sup>1</sup> Gegen Entscheide des Departements können die Betroffenen und die Staatsanwaltschaft innert 30 Tagen seit der Mitteilung strafrechtliche Beschwerde beim Kantonsgericht einlegen.
+<sup>1</sup> Gegen Entscheide des Departements können die Betroffenen und die Staatsanwaltschaft innert 30 Tagen seit der Mitteilung strafrechtliche Beschwerde beim Obergericht einlegen.
 
 <sup>2</sup> Für das Beschwerdeverfahren gelten die Bestimmungen der Strafprozessordnung[^48-1] sinngemäss.
 

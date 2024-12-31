@@ -4,13 +4,13 @@ number: "350.500"
 title: "Legge sull'esecuzione giudiziaria nel Cantone dei Grigioni"
 short: LEG
 language: it
-version: 2022-01-01
-corrected: 2022-05-18
-version_adopted: 2021-08-27
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-06-14
 adopted: 2009-08-27
 in_force: 2010-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3219/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3393/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3219/pdf_file"
 
 (LEG)
 
-del 27.08.2009 (stato 01.01.2022)
+del 27.08.2009 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -432,7 +432,7 @@ decide:
 - e) collocarlo in un locale particolarmente sicuro e privo di oggetti pericolosi;
 - f) ammanettarlo.
 
-<sup>3</sup> Le misure di cui al capoverso 1 lettere a, c ed e sono consentite anche se il pericolo di fuga o un notevole turbamento dell'ordine dell'istituzione d'esecuzione non possono essere evitati in altro modo.
+<sup>3</sup> Le misure di cui al capoverso 2 lettere a, c ed e sono consentite anche se il pericolo di fuga o un notevole turbamento dell'ordine dell'istituzione d'esecuzione non possono essere evitati in altro modo.
 
 <sup>4</sup> È consentito ammanettare un collocato su ordine dell'istituzione d'esecuzione per farlo uscire, accompagnarlo o trasportarlo, anche se l'elevato pericolo di fuga sussiste per motivi diversi da quelli di cui al capoverso 1.
 
@@ -736,9 +736,9 @@ decide:
 
 #### Art. 48
 
-**Ricorso al Tribunale cantonale dei Grigioni**
+**Ricorso al Tribunale d'appello**
 
-<sup>1</sup> Gli interessati e la Procura pubblica possono presentare ricorso di diritto penale contro le decisioni del Dipartimento dinanzi al Tribunale cantonale entro 30 giorni dalla comunicazione.
+<sup>1</sup> Gli interessati e la Procura pubblica possono presentare ricorso di diritto penale contro le decisioni del Dipartimento dinanzi al Tribunale d'appello entro 30 giorni dalla comunicazione.
 
 <sup>2</sup> Per la procedura di ricorso fanno stato le disposizioni del Codice di procedura penale[^48-1].
 
