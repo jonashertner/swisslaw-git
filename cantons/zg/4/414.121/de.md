@@ -3,20 +3,19 @@ canton: ZG
 number: "414.121"
 title: Reglement für den Eintritt in die und den Wechsel zwischen den kantonalen Mittelschulen
 language: de
-version: 2020-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-04-29
+version: 2025-01-01
+version_adopted: 2024-12-09
 adopted: 2018-03-26
 in_force: 2018-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.121"
-pdf: "https://bgs.zg.ch/api/de/versions/2120/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2648/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für den Eintritt in die und den Wechsel zwischen den kantonalen Mittelschulen
 
-Vom 26. März 2018 (Stand 1. August 2020)
+Vom 26. März 2018 (Stand 1. Januar 2025)
 
 Die Schulkommission der kantonalen Mittelschulen des Kantons Zug,
 
@@ -50,11 +49,11 @@ beschliesst:
 
 <sup>2</sup> Bei fristgerechter sowie nicht fristgerechter Anmeldung entscheidet das zuständige Schulleitungsmitglied über die Aufnahme in eine kantonale Mittelschule. Vorbehalten bleibt Abs. 3.
 
-<sup>3</sup> Der Eintritt ins Langzeitgymnasium setzt eine Prüfung durch das Amt für Mittelschulen und Pädagogische Hochschule voraus. Das Amt für Mittelschulen und Pädagogische Hochschule:
+<sup>3</sup> Der Eintritt ins Langzeitgymnasium oder ins Kurzzeitgymnasium setzt eine Prüfung durch das Amt für Mittelschulen und Pädagogische Hochschule voraus. Das Amt für Mittelschulen und Pädagogische Hochschule:
 
 - a) prüft, ob die Voraussetzungen für den Eintritt erfüllt sind;
 - b) kann eine Bestätigung der für Zulassungsentscheide zuständigen Behörde verlangen, dass die Schülerin bzw. der Schüler in ihrem bzw. seinem angestammten Kanton, Gliedstaat und dgl. weiterhin an einem öffentlichen Gymnasium zur Schule gehen könnte, wobei sich die Aufnahme im Übrigen nach § 4 richtet;
-- c) prüft, welchem Langzeitgymnasium die Schülerin bzw. der Schüler zugeteilt werden kann.
+- c) prüft, welchem Langzeitgymnasium oder Kurzzeitgymnasium die Schülerin bzw. der Schüler zugeteilt werden kann.
 
 #### § 3
 
