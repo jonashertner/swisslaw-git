@@ -4,13 +4,13 @@ number: "930.1"
 title: Einführungsgesetz zum Bundesgesetz über den Wald
 short: "kantonales Waldgesetz, kWaG"
 language: de
-version: 2016-06-01
-valid_until: 2024-12-31
-version_adopted: 2016-03-10
+version: 2025-01-01
+valid_until: 2026-02-28
+version_adopted: 2024-05-23
 adopted: 2016-03-10
 in_force: 2016-06-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/930.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1596/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1878/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1596/pdf_file"
 
 (kantonales Waldgesetz, kWaG)
 
-vom 10.03.2016 (Stand 01.06.2016)
+vom 10.03.2016 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -540,5 +540,9 @@ Aufgehobene Erlasse:
 \- Regierungsratsbeschluss über den Eid der Forstbeamten und Forstangestellten vom 23. April 1878 (OGS 1899, 7),
 
 \- Regierungsratsbeschluss über die Bekämpfung der Borkenkäfergefahr in den Waldungen vom 26. Februar 1948 (OGS 1950, 71)
+
+Geändert durch:
+
+\- Nachtrag vom 23. Mai 2024 (OGS 2024, 7), Botschaft und Vorlage des Regierungsrats vom 23. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.02), in Kraft seit 1. Januar 2025 (OGS 2024, 18)
 
 OGS 2016, 16
