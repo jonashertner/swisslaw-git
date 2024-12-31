@@ -4,13 +4,13 @@ number: "831.2"
 title: Sozialverordnung
 short: SV
 language: de
-version: 2024-08-01
-valid_until: 2024-12-31
-version_adopted: 2024-06-11
+version: 2025-01-01
+valid_until: 2025-08-31
+version_adopted: 2024-09-24
 adopted: 2007-10-29
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.2"
-pdf: "https://bgs.so.ch/api/de/versions/5461/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5494/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5461/pdf_file"
 
 (SV)
 
-Vom 29.10.2007 (Stand 01.08.2024)
+Vom 29.10.2007 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -394,17 +394,11 @@ beschliesst:
 
 #### § 33
 
-**Gemeindearbeitsamt, § 44 SG**
-
-<sup>1</sup> Die Gemeindearbeitsämter nehmen nach Art. 17 Abs. 2 AVIG von den in der Gemeinde wohnhaften Versicherten die Anmeldung zur Arbeitsvermittlung entgegen und orientieren sie über ihre wesentlichsten Rechte und Pflichten gegenüber der Arbeitslosenversicherung. Sie weisen die Versicherten innerhalb von 5 Arbeitstagen an das zuständige RAV weiter.
-
-<sup>2</sup> Gemeindestellen, die Aufgaben der Arbeitslosenversicherung erfüllen, unterstehen in diesem Bereich der Aufsicht und den Weisungen des Amtes für Wirtschaft und Arbeit. Dieses stellt den Gemeinden die zur Erfüllung ihrer Aufgaben erforderlichen Informationen zur Verfügung.
-
-<sup>3</sup> Das Amt für Wirtschaft und Arbeit kann den Gemeindearbeitsämtern weitere mit der Anmeldung zur Arbeitsvermittlung und zum Bezug von Leistungen der Arbeitslosenversicherung zusammenhängende Aufgaben übertragen.
+**…**
 
 #### § 34
 
-**Regionale Arbeitsvermittlungszentren (RAV), § 44 SG**
+**Regionale Arbeitsvermittlungszentren (RAV), § 43 SG**
 
 <sup>1</sup> Die Regionalen Arbeitsvermittlungszentren:
 
@@ -427,6 +421,56 @@ beschliesst:
 <sup>1</sup> Das Departement ist Verbindungsstelle für die interkantonale Vereinbarung soziale Institutionen (IVSE).
 
 <sup>2</sup> Das Departement für Bildung und Kultur erteilt die Bewilligung und führt die Aufsicht und das Controlling im Bereich der Sonderschulung.
+
+#### § 35bis
+
+**Interinstitutionelle Zusammenarbeit (IIZ), § 48 Abs. 3 SG 1. Ziel und Zweck**
+
+<sup>1</sup> Die Interinstitutionelle Zusammenarbeit (IIZ) umfasst die Zusammenarbeit in den Bereichen soziale Sicherheit, Bildung sowie berufliche und soziale Integration mit dem übergeordneten Ziel, insbesondere die:
+
+- a) Eingliederungschancen von Personen in den ersten Arbeitsmarkt zu verbessern;
+- b) Regelstrukturen in ihren Aufgaben zu stärken und zu unterstützen sowie subsidiär spezifische Angebote zu schaffen;
+- c) verschiedenen Systeme optimal aufeinander abzustimmen und zu koordinieren;
+- d) verbindliche Zusammenarbeit zwischen den zuständigen Stellen zu fördern.
+
+<sup>2</sup> Die Integrationsförderung erfolgt primär durch die zuständigen Stellen im Rahmen der Regelstrukturen und nach Massgabe ihrer gesetzlichen Aufträge.
+
+#### § 35ter
+
+**2. Organisation**
+
+<sup>1</sup> Die IIZ umfasst:
+
+- a) die IIZ-Leitung, bestehend aus:
+  - 1\. dem Regierungsrat,
+  - 2\. Vertretungen des Verbands Solothurner Einwohnergemeinden,
+  - 3\. Vertretungen der Arbeitgeberverbände;
+- b) das IIZ-Entwicklungs- und Koordinationsgremium (IIZ-EKG) mit ständigen Vertretungen folgender Behörden, Organisationen und Verbänden:
+  - 1\. Amt für Gesellschaft und Soziales,
+  - 2\. Amt für Berufsbildung, Mittel- und Hochschulen,
+  - 3\. Amt für Wirtschaft und Arbeit,
+  - 4\. IV-Stelle Kanton Solothurn,
+  - 5\. Verband Solothurner Einwohnergemeinden,
+  - 6\. Sozialregionen,
+  - 7\. Arbeitgeberverbände.
+
+<sup>2</sup> Der Regierungsrat bestimmt nach Anhörung der weiteren Mitglieder der IIZ-Leitung den Vorsitz des IIZ-EKG. Im Übrigen konstituiert und organisiert sich das IIZ-EKG selbst.
+
+<sup>3</sup> Bei Bedarf kann das IIZ-EKG weitere Vertretungen von Behörden, Organisationen und Verbänden als assoziierte Mitglieder bezeichnen oder als Fachreferenten und Fachreferentinnen oder Gäste einladen. Assoziierte Mitglieder haben die gleiche Stellung wie die ständigen Vertretungen gemäss Absatz 1 Buchstabe b.
+
+<sup>4</sup> Das IIZ-EKG beantragt bei der IIZ-Leitung die Einsetzung von kantonalen Fachgruppen, wenn diese für mehr als ein Jahr eingesetzt werden sollen. Für die Steuerung der einzelnen Fachgruppen kann das IIZ-EKG Ausschüsse bestellen.
+
+<sup>5</sup> Die Geschäftsstelle IIZ wird von jenem Departement geführt, welches den Vorsitz des IIZ-EKG innehat.
+
+#### § 35quater
+
+**3. Finanzkompetenz**
+
+<sup>1</sup> Die Finanzierung der Aufgaben und Massnahmen, die im Rahmen der IIZ-Struktur koordiniert werden, erfolgt durch die jeweils zuständigen Stellen.
+
+<sup>2</sup> Die Verwendung von allfälligen vom Bund zur Verfügung gestellten Mitteln wird über die IIZ koordiniert, sofern diese nicht bereits gesetzlich oder vertraglich festgelegt ist.
+
+<sup>3</sup> Das IIZ-EKG beantragt bei der IIZ-Leitung die Verwendung der Bundesmittel unter Berücksichtigung der gesetzlichen und vertraglichen Vorgaben und Rahmenbedingungen.
 
 #### § 36
 
@@ -480,7 +524,9 @@ beschliesst:
 
 <sup>3</sup> Die Trägerschaften der Sozialregionen reichen dem Departement für das Folgejahr bis spätestens Ende September den Stellenplan auf der Basis der Dossierzahlen per Stichtag 31. Dezember des Vorjahres ein. Der Stellenplan hat die für die Bedarfsbeurteilung notwendigen Angaben zu enthalten.
 
-<sup>4</sup> Das Departement genehmigt, in Absprache mit den Einwohnergemeinden, jeweils auf Beginn jedes Kalenderjahres, aber per Stichtag 31. Dezember des Vorjahres, den Stellenplan. 5 Das Department kann ausnahmsweise spezifische regionale Verhältnisse berücksichtigen.
+<sup>4</sup> Das Departement genehmigt, in Absprache mit den Einwohnergemeinden, jeweils auf Beginn jedes Kalenderjahres, aber per Stichtag 31. Dezember des Vorjahres, den Stellenplan.
+
+<sup>5</sup> Das Departement kann ausnahmsweise spezifische regionale Verhältnisse berücksichtigen.
 
 ## 2. Prävention
 
@@ -996,73 +1042,35 @@ beschliesst:
 
 #### § 81
 
-**Schlichtungsstelle, § 126 SG**
-
-<sup>1</sup> In jeder Amtei wird eine Schlichtungsstelle für Miet- und Pachtverhältnisse gebildet.
+**…**
 
 #### § 82
 
-**Zusammensetzung, § 126 SG**
-
-<sup>1</sup> Die Schlichtungsstellen bestehen aus 3 Mitgliedern:
-
-- a) dem Vorsteher oder der Vorsteherin des Oberamtes als Präsident oder Präsidentin;
-- b) einer Vertretung der Vermieter;
-- c) einer Vertretung der Mieter.
-
-<sup>2</sup> Für jedes Mitglied wird eine Stellvertretung bestimmt.
-
-<sup>3</sup> Das Oberamt besorgt das Sekretariat und die Protokollführung.
-
-<sup>4</sup> Die in Absatz 1 Buchstaben b und c genannten Mitglieder und ihre Stellvertretung wählt der Regierungsrat auf Amtsdauer.
+**…**
 
 #### § 83
 
-**Aufgaben, § 126 SG**
-
-<sup>1</sup> Die Schlichtungsstelle für Miet- und Pachtverhältnisse ist Schlichtungsbehörde im Sinne des Bundesrechts.
-
-<sup>2</sup> Die Schlichtungsstelle stellt den Sachverhalt von Amtes wegen fest und würdigt die Beweise nach freiem Ermessen; die Parteien müssen ihr alle für die Beurteilung des Streitfalls notwendigen Unterlagen vorlegen (Art. 274 d Abs. 3 OR)[^83-1] .
-
-[^83-1]: SR [220](https://db.clex.ch/link/Bund/220/de).
+**…**
 
 #### § 84
 
-**Verfahren, § 126 SG**
-
-<sup>1</sup> Begehren an die Schlichtungsstelle können beim Oberamt mündlich zu Protokoll erklärt oder schriftlich eingereicht werden.
-
-<sup>2</sup> An den Verhandlungen haben die Parteien persönlich teilzunehmen; sie können eine Vertretung beiziehen.
-
-<sup>3</sup> Über das Verfahren wird ein summarisches Protokoll geführt.
-
-<sup>4</sup> Fällt die Schlichtungsstelle einen Entscheid, so muss sie ihn kurz begründen.
+**…**
 
 #### § 85
 
-**Unentgeltlichkeit, § 126 SG**
-
-<sup>1</sup> Alle Verrichtungen der Schlichtungsstellen sind kosten- und gebührenfrei; Parteientschädigungen werden nicht zugesprochen.
-
-<sup>2</sup> Bei mutwilliger Prozessführung kann die fehlbare Partei zur gänzlichen oder teilweisen Übernahme der Verfahrenskosten und zur Leistung einer Entschädigung an die andere Partei verpflichtet werden (Art. 274 d Abs. 2 OR).
+**…**
 
 #### § 86
 
-**Anrufung des Richters, § 126 SG**
-
-<sup>1</sup> Gegen einen Entscheid der Schlichtungsstelle kann der Amtsgerichtspräsident oder die Amtsgerichtspräsidentin angerufen werden. Er/Sie entscheidet im summarischen Verfahren. § 83 Absatz 2 dieser Verordnung ist anwendbar.
+**…**
 
 #### § 87
 
-**Mitteilung der Urteile, § 126 SG**
-
-<sup>1</sup> Die Gerichtspräsidenten/-innen und das Obergericht stellen ein Doppel ihrer Urteile über angefochtene Mietzinse und andere Forderungen der Vermieterschaft dem Eidgenössischen Volkswirtschaftsdepartement zu (Art. 23 Abs. 2 VMWG)[^87-1] .
-
-[^87-1]: SR [221.213.11](https://db.clex.ch/link/Bund/221.213.11/de).
+**…**
 
 #### § 88
 
-**Zuständigkeiten; Formulare, § 126 SG**
+**Zuständigkeiten; Formulare**
 
 <sup>1</sup> Hinterlegungsstelle für künftig fällige Mietzinse (Art. 259 g OR) ist das Oberamt.
 
