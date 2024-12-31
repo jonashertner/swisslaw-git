@@ -4,13 +4,13 @@ number: "177.223"
 title: Verordnung des Regierungsrates zur Besoldungsverordnung
 short: RRV BesVO
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-28
+version: 2025-01-01
+valid_until: 2025-09-30
+version_adopted: 2025-02-25
 adopted: 1999-09-21
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.223"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2719/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2885/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RRV BesVO
 
 (RRV BesVO)
 
-vom 21.09.1999 (Stand 01.01.2024)
+vom 21.09.1999 (Stand 01.01.2025)
 
 ## 1. Vollzug der Allgemeinen Bestimmungen der Besoldungsverordnung
 
@@ -136,7 +136,7 @@ vom 21.09.1999 (Stand 01.01.2024)
 
 <sup>2</sup> …
 
-<sup>3</sup> Der Aufstieg in die Leistungszone IV und Lohnerhöhungen in dieser Zone setzen sehr gut erfüllte oder gut erfüllte Leistungen voraus.
+<sup>3</sup> Der Aufstieg in die Leistungszone IV und Lohnerhöhungen in dieser Zone setzen deutlich übertroffene oder übertroffene Leistungen voraus.
 
 <sup>4</sup> Als Beförderung gilt, wenn Mitarbeiterinnen oder Mitarbeiter in eine höher eingereihte Funktion eingewiesen werden.
 
@@ -322,7 +322,7 @@ vom 21.09.1999 (Stand 01.01.2024)
 
 <sup>3</sup> Die Zulage für Nacht-, Samstags- und Ruhetagsdienst wird für das Strassenpersonal mit 50 % der auf eine Stunde umgerechneten Besoldung bemessen.
 
-[^26-1]: Indexstand 101.8 Punkte (Basis: 1993)
+[^26-1]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 7.23
 
 #### § 27
 
@@ -333,7 +333,7 @@ vom 21.09.1999 (Stand 01.01.2024)
 - 1\. für Präsenzdienst (Bereitschaftsdienst in unmittelbarer Nähe des Arbeitsplatzes): Fr. 3.60 pro Stunde[^27-1]
 - 2\. für Pikettdienst (Bereitschaftsdienst in der eigenen Wohnung): Fr. 2.40 pro Stunde[^27-2]
 
-<sup>2</sup> Zusätzlich zu den Ansätzen gemäss Abs. 1 wird für Bereitschaftsdienst an arbeitsfreien Tagen eine Grundpauschale von Fr. 33.95 pro Halbtag beziehungsweise Fr. 67.85 pro Tag[^27-3] ausgerichtet.
+<sup>2</sup> Zusätzlich zu den Ansätzen gemäss Abs. 1 wird für Bereitschaftsdienst an arbeitsfreien Tagen eine Grundpauschale von Fr. 33.95 pro Halbtag[^27-3] beziehungsweise Fr. 67.85 pro Tag[^27-4] ausgerichtet.
 
 <sup>3</sup> Für die während des Bereitschaftsdienstes an Samstagen und öffentlichen Ruhetagen sowie während der Nacht tatsächlich geleistete Arbeit werden nur die Zulagen gemäss § 24 ausbezahlt. Die geleistete Arbeitszeit kann kompensiert werden.
 
@@ -341,9 +341,10 @@ vom 21.09.1999 (Stand 01.01.2024)
 
 <sup>5</sup> Für das Zeughauspersonal gelten bezüglich des vom Bund angeordneten Bereitschaftsdienstes dessen Vorschriften.
 
-[^27-1]: Indexstand 101.8 Punkte (Basis: 1993)
-[^27-2]: Indexstand 101.8 Punkte (Basis: 1993)
-[^27-3]: Indexstand 101.8 Punkte (Basis: 1993)
+[^27-1]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 4.34
+[^27-2]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 2.89
+[^27-3]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 40.90
+[^27-4]: Indexstand 101.8 Punkte (Basis Mai 1993=100); Stand 1. Januar 2025: Fr. 81.80
 
 #### § 28
 
@@ -357,8 +358,8 @@ vom 21.09.1999 (Stand 01.01.2024)
 
 <sup>4</sup> Das Polizeikommando ordnet die Anteile den Stellen und Personen zu und überprüft diese Anordnung jährlich.
 
-[^28-1]: Indexstand 101.8 Punkte (Basis: 1993)
-[^28-2]: Indexstand 101.8 Punkte (Basis: 1993)
+[^28-1]: Indexstand 101.8 Punkte (Basis Mai 1993=100)
+[^28-2]: Indexstand 101.8 Punkte (Basis Mai 1993=100)
 
 ### 1.2.7. Überstunden
 
@@ -736,11 +737,9 @@ vom 21.09.1999 (Stand 01.01.2024)
 
 <sup>1</sup> Sämtliche Kosten der Benützung privater Fahrzeuge für Dienstfahrten werden mit einer pauschalen Kilometerentschädigung nach folgenden Ansätzen abgegolten:
 
-- 1\. Auto: Fr. 0.70/km[^64-1]
+- 1\. Auto: Fr. 0.65/km
 - 2\. Motorrad: Fr. 0.50/km
 - 3\. Kleinmotorrad: Fr. 0.30/km
-
-[^64-1]: Erhöhung von Fr. 0.65 auf Fr. 0.70 mit RRB Nr. 251 vom 12. April 2022 befristet vom 1. April 2022 bis zum 31. Dezember 2022, verlängert mit RRB Nr. 714 vom 6. Dezember 2022 bis zum 31. Dezember 2023 und mit RRB Nr. 657 vom 28. November 2023 bis zum 31. Dezember 2024.
 
 #### § 65
 
