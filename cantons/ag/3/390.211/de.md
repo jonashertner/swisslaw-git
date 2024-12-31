@@ -4,13 +4,12 @@ number: "390.211"
 title: Verordnung zum Einführungsgesetz zum Tierseuchengesetz
 short: V EG TSG
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-09-22
+version: 2025-01-01
+version_adopted: 2024-07-03
 adopted: 2008-11-19
 in_force: 2009-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/390.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3649/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3654/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3649/pdf_file"
 
 (V EG TSG)
 
-Vom 19.11.2008 (Stand 01.01.2022)
+Vom 19.11.2008 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -179,8 +178,8 @@ beschliesst:
 
 <sup>1</sup> Der Tierhalterbeitrag beträgt
 
-- a) pro Grossvieheinheit (GVE) — Fr. 5.–
-- b) pro Bienenvolk — Fr. 1.–
+- a) pro Grossvieheinheit (GVE) — Fr. 9.–
+- b) pro Bienenvolk — Fr. 3.–
 - c) pro 100 kg Fische — Fr. 2.–
 
 <sup>2</sup> …
