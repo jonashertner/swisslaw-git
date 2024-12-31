@@ -4,13 +4,12 @@ number: "841.31"
 title: "Loi portant introduction de la loi fédérale sur les prestations complémentaires à l'AVS et à l'AI"
 short: LiLPC
 language: fr
-version: 2020-11-01
-valid_until: 2024-12-31
-version_adopted: 2020-09-02
+version: 2025-01-01
+version_adopted: 2024-03-05
 adopted: 2008-11-27
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/841.31"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1995/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3072/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1995/pdf_file"
 
 (LiLPC)
 
-du 27.11.2008 (état au 01.11.2020)
+du 27.11.2008 (état au 01.01.2025)
 
 Le Grand Conseil du canton de Berne,
 
@@ -56,7 +55,7 @@ arrête:
 
 **Evaluation des immeubles**
 
-<sup>1</sup> Quand il s’agit d’un immeuble, la valeur déterminante pour la répartition intercantonale de l’impôt est applicable en lieu et place de la valeur vénale.
+<sup>1</sup> Quand il s’agit d’un immeuble, la valeur déterminante pour la répartition intercantonale de l’impôt est applicable en lieu et place de la valeur vénale au calcul des montants de la prétention et de la restitution de prestations légalement perçues.
 
 #### Art. 5
 
@@ -115,9 +114,38 @@ arrête:
 
 #### Art. 11
 
-**Mise à disposition des données**
+**Acquisition de données extraites de fichiers de données personnelles**
 
-<sup>1</sup> Le service compétent de la Direction des finances permet à la CCB d’accéder aux données de la plate-forme GERES et de la gestion centrale des personnes (GCP) nécessaires à l’exécution de la présente loi conformément à la législation sur l’harmonisation des registres officiels.
+<sup>1</sup> La CCB peut, par une procédure d'appel, acquérir les données des fichiers centraux de données personnelles dont elle a besoin pour l'exécution du régime des prestations complémentaires en application de la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^11-1].
+
+<sup>2</sup> L'acquisition de données au sens de l'alinéa 1 comprend également les données particulièrement dignes de protection ci-après, données antérieures comprises:
+
+- a informations sur les mesures de protection de l'enfant et de l'adulte,
+- b informations sur les ménages.
+
+[^11-1]: RSB [152.05](https://www.belex.sites.be.ch/data/152.05/fr)
+
+#### Art. 11a
+
+**Participation du service compétent de la Direction des finances**
+
+<sup>1</sup> Le service compétent de la Direction des finances permet à la CCB d'accéder par une procédure d'appel aux données du ​système de ​taxation des personnes physiques nécessaires à la mise en œuvre du régime des prestations complémentaires.
+
+#### Art. 11b
+
+**Participation du service compétent de la Direction de l'intérieur et de la justice**
+
+<sup>1</sup> Le service compétent de la Direction de l'intérieur et de la justice communique à la CCB, sur demande, le montant des primes effectives de l'assurance obligatoire des soins (art. 16d OPC) des bénéficiaires de prestations complémentaires en vue de la réévaluation annuelle du droit à de telles prestations.
+
+#### Art. 11c
+
+**Participation des communes et des préfectures**
+
+<sup>1</sup> Lors d’un décès, l’autorité communale chargée d’apposer les scellés précise dans le procès-verbal de l’opération si la personne décédée, sa conjointe prédécédée ou son conjoint prédécédé ou encore les deux époux ont bénéficié de prestations complémentaires dans les dix ans précédant le décès de la personne ayant survécu à la première.
+
+<sup>2</sup> Le Conseil-exécutif règle par voie d'ordonnance les documents que les préfectures doivent mettre à la disposition de la CCB lorsqu'une personne ayant vécu seule décède et que, dans les dix ans précédant son décès, elle ou sa conjointe prédécédée ou son conjoint prédécédé ou encore les deux époux ont bénéficié de prestations complémentaires.
+
+<sup>3</sup> Les alinéas 1 et 2 s'appliquent également aux personnes décédées ayant vécu en partenariat enregistré.
 
 #### Art. 12
 
@@ -187,6 +215,12 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente loi entre en vigueur le 1<sup>er</sup> janvier 2010.
+
+## T1 Disposition transitoire de la modification du 05.03.2024
+
+#### Art. T1-1
+
+<sup>1</sup> L'article 11c ne s'applique qu'aux prestations complémentaires versées après le 1<sup>er</sup> janvier 2021.
 
 Berne, le 27 novembre 2008
 

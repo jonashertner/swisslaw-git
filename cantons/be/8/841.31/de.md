@@ -4,13 +4,12 @@ number: "841.31"
 title: "Einführungsgesetz zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: EG ELG
 language: de
-version: 2020-11-01
-valid_until: 2024-12-31
-version_adopted: 2020-09-02
+version: 2025-01-01
+version_adopted: 2024-03-05
 adopted: 2008-11-27
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/841.31"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1995/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3072/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1995/pdf_file"
 
 (EG ELG)
 
-vom 27.11.2008 (Stand 01.11.2020)
+vom 27.11.2008 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -56,7 +55,7 @@ beschliesst:
 
 **Bewertung von Grundstücken**
 
-<sup>1</sup> Bei Grundstücken wird anstelle des Verkehrswertes der für die interkantonale Steuerausscheidung massgebende Repartitionswert angewendet.
+<sup>1</sup> Bei Grundstücken wird bei der Berechnung des Anspruchs und der Rückforderung rechtmässig bezogener Leistungen anstelle des Verkehrswerts der für die interkantonale Steuerausscheidung massgebende Repartitionswert angewendet.
 
 #### Art. 5
 
@@ -115,9 +114,38 @@ beschliesst:
 
 #### Art. 11
 
-**Zurverfügung-Stellung von Daten**
+**Datenbezug aus zentralen Personendatensammlungen**
 
-<sup>1</sup> Die zuständige Stelle der Finanzdirektion macht der AKB die für den Vollzug dieses Gesetzes notwendigen Daten der GERES-Plattform und der zentralen Personenverwaltung (ZPV) gemäss der Gesetzgebung über die Harmonisierung amtlicher Register zugänglich.
+<sup>1</sup> Die AKB kann die für den Vollzug der Ergänzungsleistungen notwendigen Daten im Abrufverfahren aus zentralen Personendatensammlungen nach dem Gesetz vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG)[^11-1] beziehen.
+
+<sup>2</sup> Der Datenbezug nach Absatz 1 umfasst auch besonders schützenswerte Personendaten einschliesslich früherer Daten über
+
+- a Massnahmen des Kindes- und Erwachsenenschutzes,
+- b den Haushalt.
+
+[^11-1]: BSG [152.05](https://www.belex.sites.be.ch/data/152.05/de)
+
+#### Art. 11a
+
+**Mitwirkung der zuständigen Stelle der Finanzdirektion**
+
+<sup>1</sup> Die zuständige Stelle der Finanzdirektion stellt der AKB die für den Vollzug der Ergänzungsleistungen notwendigen Daten des Steuerveranlagungssystems von natürlichen Personen durch ein Abrufverfahren zur Verfügung.
+
+#### Art. 11b
+
+**Mitwirkung der zuständigen Stelle der Direktion für Inneres und Justiz**
+
+<sup>1</sup> Die zuständige Stelle der Direktion für Inneres und Justiz teilt der AKB die Höhe der tatsächlichen Prämien für die obligatorische Krankenpflegeversicherung (Art. 16d ELV) der Bezügerinnen und Bezüger von Ergänzungsleistungen für die jährliche Neuberechnung der Ansprüche auf Ergänzungsleistungen auf Verlangen mit.
+
+#### Art. 11c
+
+**Mitwirkung der Gemeinden und Regierungsstatthalterämter**
+
+<sup>1</sup> Die für die Siegelung zuständige Gemeindebehörde vermerkt bei einem Todesfall im Siegelungsprotokoll, ob die verstorbene Person, ihre vorverstorbene Ehegattin bzw. ihr vorverstorbener Ehegatte oder beide in den zehn Jahren vor dem Tod der zweitverstorbenen Person Ergänzungsleistungen bezogen haben.
+
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung, welche Unterlagen die Regierungsstatthalterämter der AKB zur Verfügung stellen müssen, wenn eine verstorbene Person alleinstehend gewesen ist und sie, ihre vorverstorbene Ehegattin bzw. ihr vorverstorbener Ehegatte oder beide in den zehn Jahren vor dem Tod der zweitverstorbenen Person Ergänzungsleistungen bezogen haben.
+
+<sup>3</sup> Die Absätze 1 und 2 gelten auch für verstorbene Personen, die in eingetragener Partnerschaft gelebt haben.
 
 #### Art. 12
 
@@ -185,6 +213,12 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Dieses Gesetz tritt am 1. Januar 2010 in Kraft.
+
+## T1 Übergangsbestimmung der Änderung vom 05.03.2024
+
+#### Art. T1-1
+
+<sup>1</sup> Artikel 11c gilt nur für Ergänzungsleistungen, die nach dem 1. Januar 2021 ausbezahlt worden sind.
 
 Bern, 27. November 2008
 
