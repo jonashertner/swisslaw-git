@@ -4,11 +4,11 @@ title: "Ordonnance du 19 décembre 1966 sur l'impôt anticipé (OIA)"
 short: OIA
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: fr
-version: 2024-06-01
+version: 2025-01-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20240601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20240601/fr"
 
 (OIA)[^t-1]
 
-du 19 décembre 1966 (État le 1<sup>er</sup> juin 2024)
+du 19 décembre 1966 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -495,23 +495,23 @@ La demande doit être adressée par écrit à l’AFC; elle doit indiquer:
 
 ### 2. Répartition des pertes et des frais
 
+#### Art. 29
+
+Les pertes subies dans un placement collectif de capitaux et les frais en rapport avec la réalisation des bénéfices en capital (frais d’obtention du bénéfice, commission de distribution, etc.) doivent être comptabilisés au débit des bénéfices en capital réalisés et du capital.
+
 ### 3. Direction du fonds et banque dépositaire
 
 [^tit1-chap2-lvlC-lvlI-lvl3-1]
 
 [^tit1-chap2-lvlC-lvlI-lvl3-1]: Nouvelle teneur selon le ch. I 2 de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 
-#### Art. 29
+#### Art. 30
 
-Les pertes subies dans un placement collectif de capitaux et les frais en rapport avec la réalisation des bénéfices en capital (frais d’obtention du bénéfice, commission de distribution, etc.) doivent être comptabilisés au débit des bénéfices en capital réalisés et du capital.
-
-**Art. 30**
-
-<sup>1</sup> …[^29-1]
+<sup>1</sup> …[^30-1]
 
 <sup>2</sup> Toute disposition traitant de «direction du fonds» ou de «banque dépositaire» s’applique par analogie aux personnes qui exercent ces fonctions.
 
-[^29-1]: Abrogé par le ch. I 2 de l’O du 15 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^30-1]: Abrogé par le ch. I 2 de l’O du 15 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 
 ### II. Déclaration comme contribuable
 
@@ -816,6 +816,19 @@ Les gains en nature qui, provenant de jeux d’adresse ou de loteries destinés 
 <sup>4</sup> Les rentes certaines doivent être déclarées à leur valeur actuelle, comme prestation en capital, lors du versement de la première rente; les bases de calcul de la valeur actuelle et l’échéance de la dernière rente doivent être indiquées.
 
 <sup>5</sup> Pour les rentes viagères et les pensions, la déclaration de la première rente indiquera le début du service de la rente, le montant de la rente annuelle et les dates d’échéance des rentes suivantes; une nouvelle déclaration ne doit être remise que si le montant de la rente a été augmenté ou que l’ayant droit ait changé.
+
+<sup>6</sup>
+
+Lors de la déclaration de prestations des assurances de rentes viagères qui sont soumises à la loi du 2 avril 1908 sur le contrat d’assurance[^47-1], l’assureur doit indiquer séparément:
+
+- a. la date de conclusion du contrat d’assurance;
+- b. le montant de la rente viagère garantie;
+- c. les prestations excédentaires;
+- d. la part de rendement des prestations excédentaires, et
+- e. la part totale de rendement imposable.[^47-2]
+
+[^47-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^47-2]: Introduit par le ch. I de l’O du 9 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Opposition à la déclaration
 

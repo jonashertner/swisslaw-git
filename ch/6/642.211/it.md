@@ -4,11 +4,11 @@ title: "Ordinanza del 19 dicembre 1966 sull'imposta preventiva (OIPrev)"
 short: OIPrev
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: it
-version: 2024-06-01
+version: 2025-01-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20240601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20250101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20240601/it"
 
 (OIPrev)[^t-1]
 
-del 19 dicembre 1966 (Stato 1° giugno 2024)
+del 19 dicembre 1966 (Stato 1° gennaio 2025)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -819,6 +819,19 @@ Le vincite in natura a lotterie e giochi di destrezza destinati a promuovere le 
 <sup>4</sup> Le rendite a termine devono essere notificate, come prestazioni in capitale, per il loro valore monetario all’atto del versamento della prima rendita; devono essere indicate le basi di calcolo di detto valore e la scadenza dell’ultima rendita.
 
 <sup>5</sup> Per quanto riguarda le rendite vitalizie e le pensioni, nella notifica della prima rendita figureranno l’inizio dei pagamenti, l’ammontare della rendita annua e le scadenze delle rendite successive; una nuova notifica deve essere presentata soltanto in caso di aumento della rendita o di cambiamento dell’avente diritto.
+
+<sup>6</sup>
+
+Nella notifica delle prestazioni derivanti da assicurazioni di rendita vitalizia rette dalla legge del 2 aprile 1908[^47-1] sul contratto d’assicurazione, l’assicuratore deve menzionare separatamente:
+
+- a. il momento della conclusione del contratto d’assicurazione;
+- b. l’importo della rendita vitalizia garantita;
+- c. le prestazioni eccedentarie;
+- d. la quota di reddito delle prestazioni eccedentarie; e
+- e. la quota di reddito imponibile complessiva.[^47-2]
+
+[^47-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^47-2]: Introdotto dal n. I dell’O del 9 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Opposizione alla notifica
 

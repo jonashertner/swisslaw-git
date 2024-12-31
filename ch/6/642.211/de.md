@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Dezember 1966 über die Verrechnungssteuer (Verrechnu
 short: VStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: de
-version: 2024-06-01
+version: 2025-01-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20240601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20240601/de"
 
 (Verrechnungssteuerverordnung, VStV)[^t-1]
 
-vom 19. Dezember 1966 (Stand am 1. Juni 2024)
+vom 19. Dezember 1966 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -232,7 +232,9 @@ Absatz 1 ist nicht anwendbar, wenn:
 
 #### Art. 15
 
-<sup>1</sup> Obligationen sind auf den Inhaber, an Ordre oder auf den Namen lautende
+<sup>1</sup>
+
+Obligationen sind auf den Inhaber, an Ordre oder auf den Namen lautende:
 
 - a. Anleihensobligationen, mit Einschluss der Partialen von Anleihen, die durch Grundpfand sichergestellt sind, Rententitel, Pfandbriefe, Kassenobligationen, Kassen- und Depositenscheine;
 - b. in einer Mehrzahl ausgegebene wechselähnliche Schuldverschreibungen und andere Diskontopapiere, die zur Unterbringung im Publikum bestimmt sind.
@@ -277,7 +279,9 @@ Die Steuer auf dem Ertrag von Anleihensobligationen, der ihnen von der ESTV für
 
 <sup>1</sup> Die Steuer auf dem Ertrag von Kassenobligationen, Kassen- und Depositenscheinen, wechselähnlichen Schuldverschreibungen und anderen Diskontopapieren, der ihnen von der ESTV für die Steuerabrechnung gleichgestellten Obligationen, Serienschuldbriefe und Seriengülten sowie von Kundenguthaben bei Banken und Sparkassen ist aufgrund der Abrechnung nach amtlichem Formular innert 30 Tagen nach Ablauf des Geschäftsvierteljahres für die in diesem Zeitraum fällig gewordenen Zinsen und sonstigen Erträge unaufgefordert der ESTV zu entrichten.
 
-<sup>2</sup> Um unverhältnismässige Umtriebe zu vermeiden, kann die ESTV eine von Absatz 1 abweichende Art der Steuerabrechnung gestatten oder anordnen; sie kann insbesondere zulassen,
+<sup>2</sup>
+
+Um unverhältnismässige Umtriebe zu vermeiden, kann die ESTV eine von Absatz 1 abweichende Art der Steuerabrechnung gestatten oder anordnen; sie kann insbesondere zulassen:
 
 - a. dass die in den ersten drei Geschäftsvierteljahren fällig gewordenen Steuern annäherungsweise ermittelt werden und über die im ganzen Geschäftsjahr fällig gewordenen Steuern erst nach Ablauf des letzten Geschäftsvierteljahres genau abgerechnet wird;
 - b.[^19-1] dass in Fällen, wo der Gesamtwert der Obligationen und Kundenguthaben im Sinne von Absatz 1 nicht mehr als 1 000 000 Franken beträgt, über die auf ihren Erträgen fällig gewordenen Steuern nur einmal jährlich abgerechnet wird.
@@ -810,6 +814,19 @@ Die gemäss Artikel 6 Absatz 2 VStG steuerbaren Naturalgewinne aus Lotterien und
 <sup>4</sup> Zeitrenten sind bei der ersten Rentenzahlung als Kapitalleistung mit dem Barwert zu melden; die Berechnungsgrundlagen des Barwertes und die Fälligkeit der letzten Rentenzahlung sind anzugeben.
 
 <sup>5</sup> Bei Leibrenten und Pensionen sind in der Meldung der ersten Rente der Beginn des Rentenlaufs, der Betrag der Jahresrente und die Fälligkeitsdaten der künftigen Renten anzugeben; eine neue Meldung ist jeweils nur zu erstatten, wenn der Rentenbetrag erhöht wird oder der Anspruchsberechtigte wechselt.
+
+<sup>6</sup>
+
+Bei der Meldung von Leistungen aus Leibrentenversicherungen, die dem Versicherungsvertragsgesetz vom 2. April 1908[^47-1] unterstehen, muss der Versicherer gesondert ausweisen:
+
+- a. den Zeitpunkt des Vertragsabschlusses des Versicherungsvertrags;
+- b. die Höhe der garantierten Leibrente;
+- c. die Überschussleistungen;
+- d. den Ertragsanteil aus den Überschussleistungen; und
+- [tab] e. den gesamten steuerbaren Ertragsanteil.[^47-2]
+
+[^47-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^47-2]: Eingefügt durch Ziff. I der V vom 9. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2023 305](https://fedlex.data.admin.ch/eli/oc/2023/305)).
 
 ### 2. Einspruch gegen die Meldung
 
