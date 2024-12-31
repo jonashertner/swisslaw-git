@@ -4,13 +4,13 @@ number: "651.111"
 title: Verordnung zum Steuergesetz
 short: StGV
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-03-13
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-20
 adopted: 2000-09-11
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3508/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3705/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3508/pdf_file"
 
 (StGV)
 
-Vom 11.09.2000 (Stand 01.07.2024)
+Vom 11.09.2000 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 188 Abs. 1, 227 Abs. 2 und 276 Abs. 2 des Steuergesetzes (StG) vom 15. Dezember 1998[^ingress-1] sowie § 10 Abs. 2 des Allgemeinen Gebührengesetzes (GebührG) vom 19. September 2023[^ingress-2],
+gestützt auf § 276 Abs. 2 des Steuergesetzes (StG) vom 15. Dezember 1998[^ingress-1] sowie § 10 Abs. 2 des Allgemeinen Gebührengesetzes (GebührG) vom 19. September 2023[^ingress-2],
 
 beschliesst:
 
@@ -250,7 +250,7 @@ beschliesst:
 
 **Kinderbetreuungskosten (§ 40 lit. n StG)**
 
-<sup>1</sup> Lebenshaltungskosten gelten nicht als Kinderbetreuungskosten. Sie werden pauschal mit 10 % der nachgewiesenen Kosten berücksichtigt.
+<sup>1</sup> …
 
 <sup>2</sup> Kinderbetreuungskosten sind nur abzugsfähig bei einer tatsächlichen Verhinderung, die Kinder selbst zu betreuen. Bei Ehepaaren liegt eine solche vor, wenn beide Elternteile gleichzeitig einer Erwerbstätigkeit nachgehen beziehungsweise in Ausbildung stehen oder erwerbsunfähig sind. Dies gilt sinngemäss auch für unverheiratete Personen, die mit Kindern zusammen in einem Haushalt leben (Konkubinat).
 
@@ -390,9 +390,7 @@ beschliesst:
 
 #### § 43
 
-**Grundstückgewinnsteuer im Konkurs (§ 95 ff. StG)**
-
-<sup>1</sup> Auf die Veranlagung und Erhebung einer Grundstückgewinnsteuer wird im Konkurs- und Nachlassverfahren mit Vermögensabtretung insoweit verzichtet, als die Gläubigerinnen oder Gläubiger nicht volle Deckung erhalten.
+**…**
 
 #### § 44
 
@@ -410,7 +408,7 @@ beschliesst:
 
 **Anrechenbare Aufwendungen (§ 104 Abs. 1 lit. c StG)**
 
-<sup>1</sup> Lediglich die unmittelbar durch den Erwerb und die Veräusserung des Grundstückes bedingten ausgewiesenen Kosten wie Auslagen für die Beurkundung und den Grundbucheintrag, die üblichen Mäklerprovisionen und Inserate sowie bei unentgeltlich erworbenen Liegenschaften die darauf bezahlten Erbschafts- und Schenkungssteuern zählen zu den anrechenbaren Aufwendungen. Nicht anrechenbar sind die eigenen Kaufs- bzw. Verkaufsbemühungen und die dabei anfallenden Unkosten der steuerpflichtigen Person.
+<sup>1</sup> Lediglich die unmittelbar durch den Erwerb und die Veräusserung des Grundstückes bedingten ausgewiesenen Kosten wie Auslagen für die Beurkundung und den Grundbucheintrag sowie die üblichen Mäklerprovisionen und Inserate zählen zu den anrechenbaren Aufwendungen. Nicht anrechenbar sind die eigenen Kaufs- beziehungsweise Verkaufsbemühungen und die dabei anfallenden Unkosten der steuerpflichtigen Person.
 
 #### § 46
 
@@ -464,7 +462,7 @@ beschliesst:
 
 **Gelegenheitsgeschenke (§ 142 Abs. 4 StG)**
 
-<sup>1</sup> Als kleinere Gelegenheitsgeschenke gelten die üblichen Geschenke zu besonderen Anlässen und Ereignissen (Taufe, Heirat, Geburtstag usw.), sofern sie den Wert von Fr. 2'000.– nicht übersteigen.
+<sup>1</sup> Als kleinere Gelegenheitsgeschenke gelten die üblichen Geschenke zu besonderen Anlässen und Ereignissen (Taufe, Heirat, Geburtstag usw.), sofern sie den Wert von Fr. 5'000.– nicht übersteigen.
 
 #### § 53
 
