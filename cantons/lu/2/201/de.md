@@ -3,20 +3,19 @@ canton: LU
 number: "201"
 title: Verordnung über das Zivilstandswesen
 language: de
-version: 2021-01-01
-valid_until: 2024-12-31
-version_adopted: 2020-12-09
+version: 2025-01-01
+version_adopted: 2025-01-07
 adopted: 2001-09-25
 in_force: 2002-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/201"
-pdf: "https://srl.lu.ch/api/de/versions/3686/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4362/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Zivilstandswesen
 
-vom 25.09.2001 (Stand 01.01.2021)
+vom 25.09.2001 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
