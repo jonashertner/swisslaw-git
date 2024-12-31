@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2024-04-02
+version: 2025-01-01
+valid_until: 2025-06-30
+version_adopted: 2025-04-01
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5446/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5529/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. Januar 2024)
+vom 25. Oktober 2004 (Stand 1. Januar 2025)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -422,12 +422,13 @@ Weitere Detaillierungen werden zwischen den vertragsschliessenden Personalverbä
 <sup>4</sup> Bei Neuanstellungen, die zu einem mehrfachen Abzug führen würden, kann die Bestätigung, dass bereits eine andere Schulgemeinde oder Lohnverwaltung den Abzug macht, spätestens einen Monat nach dem ersten doppelten Abzug beigebracht werden.
 
 [^29-1]: § 29 Absatz 1 Lemma 2 Fassung vom 26. Juni 2012.
+[^29-2]: § 30 Fassung vom 17. Dezember 2024.
 
 #### § 30
 
-**Rechenschaftspflicht der Verbände**
+**Rechenschaftspflicht der Verbände**[^29-2]
 
-Die vertragsschliessenden Personalverbände legen dem Kanton jährlich jeweils per 31. März gemeinsam Rechenschaft ab über die vereinbarungsgemässe Verwendung der Solidaritätsbeiträge. Der Kanton kann zusätzliche Informationen einverlangen und in die Liste der Ausgabenbeträge nach § 27 GAV Einsicht nehmen.
+Die vertragsschliessenden Personalverbände legen dem Kanton jährlich jeweils per 31. Mai gemeinsam Rechenschaft ab über die vereinbarungsgemässe Verwendung der Solidaritätsbeiträge. Der Kanton kann zusätzliche Informationen einverlangen und in die Liste der Ausgabenbeträge nach § 27 GAV Einsicht nehmen.
 
 ### SB Anhang 2: Paritätische Schlichtungskommission
 
@@ -697,7 +698,11 @@ c<sup>bis</sup>) vor dem Ende des verlängerten Mutterschaftsurlaubs nach § 190
 
 bar ist. Der Wegfall der Wahl- oder Anstellungserfordernisse gilt auch als wichtiger Grund.
 
-<sup>3</sup> Bei Wegfall der Wahl- oder Anstellungserfordernisse kann die Wahl- oder Anstellungsbehörde das Anstellungsverhältnis um längstens drei Monate verlängern, falls die Umstände dies rechtfertigen.
+<sup>3</sup> Bei Wegfall der Wahl- oder Anstellungserfordernisse kann die Wahl- oder
+
+### Anstellungsbehörde das Anstellungsverhältnis um längstens drei Monate
+
+verlängern, falls die Umstände dies rechtfertigen.
 
 <sup>4</sup> Zuständig zur Auflösung ist:
 
@@ -774,9 +779,7 @@ das Verantwortlichkeitsgesetz vom 26. Juni 1966 (BGS 124.21).
 
 **Entschädigung bei missbräuchlicher Kündigung oder**
 
-ungerechtfertigter fristloser Auflösung des
-
-### Anstellungsverhältnisses (§ 33 StPG)
+ungerechtfertigter fristloser Auflösung des Anstellungsverhältnisses (§ 33 StPG)
 
 <sup>1</sup> Wenn das Gericht die Kündigung des Anstellungsverhältnisses als missbräuchlich beurteilt hat und eine Weiterbeschäftigung am bisherigen Arbeitsplatz oder an einem andern möglichst gleichwertigen Arbeitsplatz nicht möglich ist, haben die Arbeitnehmenden Anspruch auf eine Entschädigung von mindestens sechs Monatslöhnen und höchstens einem Jahreslohn.
 
@@ -796,9 +799,9 @@ ungerechtfertigter fristloser Auflösung des
 
 <sup>5</sup> Bei wechselndem Pensum bemisst sich der Monatslohn nach Absatz 1 nach dem Durchschnitt des Beschäftigungsgrades in den letzten drei Jahren vor der Beendigung des Anstellungsverhältnisses. Bei einer vom Arbeitgeber angeordneten Pensenreduktion gilt der Durchschnitt des Beschäftigungsgrades in den letzten drei Jahren vor dieser Reduktion.
 
-<sup>6</sup> …[^hAnstellungsverhältni-1]
+<sup>6</sup> …[^52-1]
 
-[^hAnstellungsverhältni-1]: § 52 Absatz 6 aufgehoben am 7. Juni 2016.
+[^52-1]: § 52 Absatz 6 aufgehoben am 7. Juni 2016.
 
 #### § 53
 
@@ -1565,9 +1568,15 @@ Die Arbeitnehmenden haben Anspruch auf bezahlten Urlaub in folgendem Umfang:
 
 <sup>3</sup> …[^114-1]
 
-<sup>4</sup> Für die notwendige Betreuung von erkrankten oder verunfallten Familienmitgliedern (insbesondere Eltern, Ehepartner), der Lebenspartnerin oder des Lebenspartners, die benötigte Zeit, jedoch höchstens 3 Tage pro Fall und maximal 10 Tage pro Kalenderjahr. Der Urlaub kann am Stück oder tageweise oder wenn betrieblich möglich stundenweise bezogen werden.[^114-2]
+<sup>4</sup> Für die notwendige Betreuung von erkrankten oder verunfallten Familienmitgliedern (insbesondere Eltern, Ehepartner), der Lebenspartnerin oder des Lebenspartners, die benötigte Zeit, jedoch höchstens 3 Tage pro
 
-<sup>4bis</sup> Für die notwendige Betreuung von erkrankten oder verunfallten Kindern die benötigte Zeit, jedoch höchstens 3 Tage pro Fall. Der Urlaub kann am Stück oder tageweise oder wenn betrieblich möglich stundenweise bezogen werden.[^114-3]
+[^114-1]: § 114 Absatz 3 aufgehoben am 15. Dezember 2020.
+
+### Fall und maximal 10 Tage pro Kalenderjahr. Der Urlaub kann am Stück
+
+oder tageweise oder wenn betrieblich möglich stundenweise bezogen werden.[^hFallundmaximal10-1]
+
+<sup>4bis</sup> Für die notwendige Betreuung von erkrankten oder verunfallten Kindern die benötigte Zeit, jedoch höchstens 3 Tage pro Fall. Der Urlaub kann am Stück oder tageweise oder wenn betrieblich möglich stundenweise bezogen werden.[^hFallundmaximal10-2]
 
 <sup>5</sup> Todesfälle:
 
@@ -1585,14 +1594,13 @@ Die Arbeitnehmenden haben Anspruch auf bezahlten Urlaub in folgendem Umfang:
 
 <sup>8</sup> Für Vorstellungsgespräche, wenn das Anstellungsverhältnis durch den Arbeitgeber aufgelöst wurde, die benötigte Zeit, jedoch höchstens einen halben Tag pro Woche.
 
-[^114-1]: § 114 Absatz 3 aufgehoben am 15. Dezember 2020.
-[^114-2]: § 114 Absatz 4 Fassung vom 26. September 2023.
-[^114-3]: § 114 Absatz 4bis eingefügt am 26. September 2023.
-[^114-4]: § 114bis eingefügt am 26. September 2023.
+[^hFallundmaximal10-1]: § 114 Absatz 4 Fassung vom 26. September 2023.
+[^hFallundmaximal10-2]: § 114 Absatz 4bis eingefügt am 26. September 2023.
+[^hFallundmaximal10-3]: § 114bis eingefügt am 26. September 2023.
 
 #### § 114bis
 
-**Betreuungsurlaub[^114-4]**
+**Betreuungsurlaub[^hFallundmaximal10-3]**
 
 <sup>1</sup> Solange die Arbeitnehmenden Anspruch auf eine Betreuungsentschädigung nach den Artikeln 16n-16s Bundesgesetz über den Erwerbsersatz (Erwerbsersatzgesetz, EOG, SR 834.1) haben, weil ihr Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, haben sie Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.
 
@@ -1903,6 +1911,10 @@ Der oder die Arbeitnehmende kann ausnahmsweise in einer tieferen Lohnklasse (Ein
 
 <sup>2</sup> Lehrpersonen sind vom Geltungsbereich ausgenommen.
 
+<sup>3</sup> Richter und Richterinnen sind vom Geltungsbereich ausgenommen.[^141-1]
+
+[^141-1]: § 141 Absatz 3 eingefügt am 1. April 2025.
+
 #### § 142
 
 **Bewilligungspflichtige Vergütungen**
@@ -2110,7 +2122,7 @@ Bedeutet die Benützung des privaten Personenwagens gegenüber den öffentlichen
 
 - b) 55 Rappen für jeden weiteren Kilometer.[^161-2]
 
-[^161-1]: § 157 Absatz 1 aufgehoben am 12. März 2013.
+[^161-1]: § 164 Absatz 2 Fassung vom 24. Oktober 2022.
 [^161-2]: § 161 Buchstabe b Fassung vom 27. Januar 2009.
 
 #### § 162
@@ -2223,7 +2235,7 @@ Die Entschädigung für die Gesprächstaxen wird mit besonderem Formular geltend
 3.1. Bezahlter Urlaub
 
 [^167-1]: Kapitel 2.4. §§ 167bis-167sexies eingefügt am 12. März 2007.
-[^167-2]: § 161 Buchstabe b Fassung vom 27. Januar 2009.
+[^167-2]: § 164 Absatz 1 Fassung vom 24. Oktober 2022.
 [^167-3]: § 167ter Absatz 4 eingefügt am 30. August 2022.
 
 #### § 168
@@ -2402,9 +2414,7 @@ Wechseln Arbeitnehmende nach Ablauf der Probezeit im Geltungsbereich des GAV in 
 
 <sup>2</sup> Für die unbefristet angestellten Arbeitnehmenden beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Lohnfortzahlung nach § 174 Absatz 1 Buchstabe b und besteht während maximal 12 Monaten.
 
-<sup>3</sup> Für die befristet angestellten Arbeitnehmenden beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Lohnfortzahlung nach § 176 Absatz 1 Buchstaben a-c. Für die befristet angestellten Arbeitnehmenden nach dem vollendendeten 65. Altersjahr besteht nach Ablauf der Lohnfortzahlung nach § 176 Absatz 1 Buchstabe d kein Anspruch auf das Krankentaggeld.[^177-2] Falls die Lohnfortzahlung wegen Beendigung des Anstellungsverhältnisses nicht voll beansprucht werden kann, beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Karenzfrist, die der Dauer der maximal für das Anstellungsverhältnis vorgesehenen Lohnfortzahlung entspricht.
-
-Der Anspruch auf das Krankentaggeld besteht a) bei einer Karenzfrist von 3 Monaten maximal während 21 Monaten;
+<sup>3</sup> Für die befristet angestellten Arbeitnehmenden beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Lohnfortzahlung nach § 176 Absatz 1 Buchstaben a-c. Für die befristet angestellten Arbeitnehmenden nach dem vollendendeten 65. Altersjahr besteht nach Ablauf der Lohnfortzahlung nach § 176 Absatz 1 Buchstabe d kein Anspruch auf das Krankentaggeld.[^177-2] Falls die Lohnfortzahlung wegen Beendigung des Anstellungsverhältnisses nicht voll beansprucht werden kann, beginnt der Anspruch auf das Krankentaggeld nach Ablauf der Karenzfrist, die der Dauer der maximal für das Anstellungsverhältnis vorgesehenen Lohnfortzahlung entspricht. Der Anspruch auf das Krankentaggeld besteht a) bei einer Karenzfrist von 3 Monaten maximal während 21 Monaten;
 
 - b) bei einer Karenzfrist von 6 Monaten maximal während 18 Monaten;
 
@@ -2746,15 +2756,18 @@ Kosten, welche durch eine Wiederholung der Abschlussprüfung entstehen, werden v
 
 - e) Lehrpersonen der Volksschule;[^199-1]
 
-<sup>2</sup> …[^199-2]
+- f) Haftrichter und Haftrichterin.[^199-2]
+
+<sup>2</sup> …[^199-3]
 
 <sup>3</sup> Arbeitnehmende, die von der Mitarbeiter- und Mitarbeiterinnenbeurteilung ausgeschlossen sind, haben keinen Anspruch auf einen Leistungszuschlag.
 
-§ 199<sup>bis</sup>.[^199-3] Mitarbeitendenbeurteilung der Berufs- und Mittelschullehrpersonen Die Mitarbeitendenbeurteilung der Berufs- und Mittelschullehrpersonen ist Teil eines Konzeptes zur Personalführung und Qualitätssicherung und richtet sich nach RRB Nr. 2012/174 vom 31. Januar 2012.
+§ 199<sup>bis</sup>.[^199-4] Mitarbeitendenbeurteilung der Berufs- und Mittelschullehrpersonen Die Mitarbeitendenbeurteilung der Berufs- und Mittelschullehrpersonen ist Teil eines Konzeptes zur Personalführung und Qualitätssicherung und richtet sich nach RRB Nr. 2012/174 vom 31. Januar 2012.
 
 [^199-1]: § 199 Absatz 1 Buchstabe e Fassung vom 26. Juni 2012.
-[^199-2]: § 199 Absatz 2 aufgehoben am 4. Juni 2013.
-[^199-3]: § 199bis eingefügt am 4. Juni 2013.
+[^199-2]: § 199 Absatz 1 Buchstabe f eingefügt am 1. April 2025.
+[^199-3]: § 199 Absatz 2 aufgehoben am 4. Juni 2013.
+[^199-4]: § 199bis eingefügt am 4. Juni 2013.
 
 #### § 200
 
@@ -3410,13 +3423,11 @@ selber Anstellungsbehörde ist. Dessen Entscheid kann mit Verwaltungsgerichtsbes
 
 **Leitungs- und Lehr- Jährl. personen der Grund-Schulen lohn in**
 
-LK Personal der Soziales & Verwaltung medizinisches
-
-Personal
-
-Fr. LK 31 - Oberrichter/in (max. LK 31) - Chefarzt/ärztin - Staatsschreiber/in (max. LK 31) LK 30 - Hauptabteilungsleiter/in - Chefarzt/ärztin
+### LK Personal der Soziales & Verwaltung medizinisches Personal Fr.
 
 **117'589**
+
+LK 31 - Oberrichter/in (max. LK 31) - Chefarzt/ärztin - Staatsschreiber/in (max. LK 31) LK 30 - Hauptabteilungsleiter/in - Chefarzt/ärztin
 
 **112'384**
 
@@ -3450,13 +3461,11 @@ LK 29 - Amtsgerichtspräsident/in - Chefarzt/ärztin - Chef/in Amt für Finanzen
 
 **Leitungs- und Lehr- Jährl. personen der Grund-Schulen lohn in**
 
-LK Personal der Soziales & Verwaltung medizinisches
-
-Personal
-
-Fr. LK -Abteilungsleiter/in I 25[^239-1] -Amtschreiber/in[^239-2] -Departementssekretär/in II -Polizeioffizier I -Staatsanwalt/anwältin -Wissenschaftl. Sachbearb. I LK 24 -Abteilungsleiter/in I -Amtschreiber/in -Departementssekretär/in II -Kreiskommandant/in -Polizeioffizier II -Stv. des Jugendanwalts/-anwältin -wissenschaftl. Sachbearb. I LK 23 -Abteilungsleiter/in I -Leiter/in Pflegedienst - Berufsfachschul- -Amtschreiber/in -...[^239-3] -Polizeioffizier II -wissenschaftl. Sachbearbeiter/in I son - Schulleiter/in Mittel- und Berufsschule[^239-4] LK 22 -Abteilungsleiter/in II -Leiter/in Pflegedienst - Berufsfachschul- -Admin. Sachbearbeiter/in I -Amtsgerichtsschreiber/in<sup>7</sup>) -Gerichtsschreiber/in I -Polizeioffizier II -Techn. Sachbearbeiter/in I -wissenschaftl. Sachbearbeiter/in II - Lehrbeauftragte/r an Berufsfachschule - Lehrbeauftragte/r an höherer Fachschule<sup>8</sup>)
+### LK Personal der Soziales & Verwaltung medizinisches Personal Fr.
 
 **- Schulleiter/in 88'998 Mittel- und Berufsschule3)**
+
+LK -Abteilungsleiter/in I 25[^hLKPersonalderSozi_2-1] -Amtschreiber/in[^hLKPersonalderSozi_2-2] -Departementssekretär/in II -Polizeioffizier I -Staatsanwalt/anwältin -Wissenschaftl. Sachbearb. I LK 24 -Abteilungsleiter/in I -Amtschreiber/in -Departementssekretär/in II -Kreiskommandant/in -Polizeioffizier II -Stv. des Jugendanwalts/-anwältin -wissenschaftl. Sachbearb. I LK 23 -Abteilungsleiter/in I -Leiter/in Pflegedienst - Berufsfachschul- -Amtschreiber/in -...[^hLKPersonalderSozi_2-3] -Polizeioffizier II -wissenschaftl. Sachbearbeiter/in I son - Schulleiter/in Mittel- und Berufsschule[^hLKPersonalderSozi_2-4] LK 22 -Abteilungsleiter/in II -Leiter/in Pflegedienst - Berufsfachschul- -Admin. Sachbearbeiter/in I -Amtsgerichtsschreiber/in<sup>7</sup>) -Gerichtsschreiber/in I -Polizeioffizier II -Techn. Sachbearbeiter/in I -wissenschaftl. Sachbearbeiter/in II - Lehrbeauftragte/r an Berufsfachschule - Lehrbeauftragte/r an höherer Fachschule<sup>8</sup>)
 
 **- Schulleiter/in 84'832 Mittel- und Berufsschule4)**
 
@@ -3486,27 +3495,35 @@ Fr. LK -Abteilungsleiter/in I 25[^239-1] -Amtschreiber/in[^239-2] -Departementss
 
 **Leitungs- und Lehr- Jährl. personen der Grund-Schulen lohn in**
 
-LK Personal der Soziales & Verwaltung medizinisches
+[^hLKPersonalderSozi_2-1]: Aufgehoben am 4. November 2008.
+[^hLKPersonalderSozi_2-2]: Fassung vom 20. Juni 2011.
+[^hLKPersonalderSozi_2-3]: Fassung vom 20. Juni 2011.
+[^hLKPersonalderSozi_2-4]: Aufgehoben am 20. Juni 2011.
 
-Personal
+### LK Personal der Soziales & Verwaltung medizinisches Personal Fr.
 
 **- Berufsfachschul- 73'321**
 
-**- Mittelschullehrperson - Volksschullehrperson - Lehrbeauftragte/r an Berufsfachschule - Lehrbeauftragte/r**
-
-Fr. LK 21 -Abteilungsleiter/in II -Assistenzarzt/ärztin -Admin. Sachbearbeiter/in I -Leiter/in Pflegedienst lehrperson -...[^239-1] -Gerichtsschreiber/in I -Polizeioffizier II -Techn. Sachbearbeiter/in I -Vorsteher/in des Oberamtes -wissenschaftl. Sachbearbeiter/in II an höherer Fachschule - Lehrbeauftragte/r an Mittelschule[^239-2] LK 20 -Abteilungsleiter/in II -Assistenzarzt/ärztin -Admin. Sachbearbeiter/in I -Fachpfleger/schwester I an Berufsfachschu- -...[^239-5] -Leiter/in Pflegedienst le -Gerichtsschreiber/in I -Pfleger/Schwester in - Mittelschullehr- -Polizeioffizier II leitender Stellung I -Techn. Sachbearbeiter/in I -wissenschaftl. Sachbearbeiter/in II an Berufsfachschule -Lehrbeauftragte/r an höherer Fachschule - Lehrbeauftragte/r an Mittelschule[^239-6] LK 19 -Abteilungsleiter/in II -Fachpfleger/schwester I - Volksschullehrper- 66'445 -Admin. Sachbearbeiter/in I -Pfleger/Schwester in -Gerichtsschreiber/in I leitender Stellung I -Gerichtsschreiber/in II -Informatiker/in I -Polizeimitarbeiter/in -Techn. Sachbearbeiter/in I -wissenschaftl. Sachbearbeiter/in II LK - - LK Personal der Soziales & Verwaltung medizinisches
+LK 21 -Abteilungsleiter/in II -Assistenzarzt/ärztin -Admin. Sachbearbeiter/in I -Leiter/in Pflegedienst lehrperson -...[^hLKPersonalderSozi_3-1] -Gerichtsschreiber/in I -Polizeioffizier II -Techn. Sachbearbeiter/in I -Vorsteher/in des Oberamtes -wissenschaftl. Sachbearbeiter/in II an höherer Fachschule - Lehrbeauftragte/r an Mittelschule[^hLKPersonalderSozi_3-2] LK 20 -Abteilungsleiter/in II -Assistenzarzt/ärztin -Admin. Sachbearbeiter/in I -Fachpfleger/schwester I an Berufsfachschu- -...[^hLKPersonalderSozi_3-3] -Leiter/in Pflegedienst le -Gerichtsschreiber/in I -Pfleger/Schwester in - Mittelschullehr- -Polizeioffizier II leitender Stellung I -Techn. Sachbearbeiter/in I -wissenschaftl. Sachbearbeiter/in II an Berufsfachschule -Lehrbeauftragte/r an höherer Fachschule - Lehrbeauftragte/r an Mittelschule[^hLKPersonalderSozi_3-4] LK 19 -Abteilungsleiter/in II -Fachpfleger/schwester I - Volksschullehrper- 66'445 -Admin. Sachbearbeiter/in I -Pfleger/Schwester in -Gerichtsschreiber/in I leitender Stellung I -Gerichtsschreiber/in II -Informatiker/in I -Polizeimitarbeiter/in -Techn. Sachbearbeiter/in I -wissenschaftl. Sachbearbeiter/in II LK - -
 
 **Leitungs- und Lehr- Jährl. personen der Grund-Schulen lohn in**
 
-Personal
+[^hLKPersonalderSozi_3-1]: Aufgehoben am 4. November 2008.
+[^hLKPersonalderSozi_3-2]: Fassung vom 20. Juni 2011.
+[^hLKPersonalderSozi_3-3]: Aufgehoben am 4. November 2008.
+[^hLKPersonalderSozi_3-4]: Fassung vom 20. Juni 2011.
 
-Fr. LK 18 -Abteilungsleiter/in III -Fachpfleger/schwester I - Volksschullehrper- 63'238 -Admin. Sachbearbeiter/in I -Pfleger/Schwester in -Gerichtsschreiber/in II leitender Stellung I -Informatiker/in I -Polizeimitarbeiter/in -Techn. Sachbearbeiter/in I an höherer Fachschule - Lehrbeauftragte/r an Mittelschule - Lehrbeauftragte/r an Volksschule[^239-7] LK 17 -Abteilungsleiter/in III -Fachpfleger/schwester I -Volksschullehrper- 60'185 -Admin. Sachbearbeiter/in II -Med.-techn. Mitarb. in son -Gerichtsschreiber/in II leitender Stellung -Informatiker/in I -Med.-therap. Mitarb. in an Berufsfachschu- -Polizeimitarbeiter/in leitender Stellung -Techn. Sachbearbeiter/in II -Pfleger/Schwester in -Lehrbeauftragte/r
+### LK Personal der Soziales & Verwaltung medizinisches Personal Fr.
+
+**- Mittelschullehrperson - Volksschullehrperson - Lehrbeauftragte/r an Berufsfachschule - Lehrbeauftragte/r**
+
+**son - Lehrbeauftragte/r an Berufsfachschule - Lehrbeauftragte/r**
+
+LK 18 -Abteilungsleiter/in III -Fachpfleger/schwester I - Volksschullehrper- 63'238 -Admin. Sachbearbeiter/in I -Pfleger/Schwester in -Gerichtsschreiber/in II leitender Stellung I -Informatiker/in I -Polizeimitarbeiter/in -Techn. Sachbearbeiter/in I an höherer Fachschule - Lehrbeauftragte/r an Mittelschule - Lehrbeauftragte/r an Volksschule[^hLKPersonalderSozi_4-1] LK 17 -Abteilungsleiter/in III -Fachpfleger/schwester I -Volksschullehrper- 60'185 -Admin. Sachbearbeiter/in II -Med.-techn. Mitarb. in son -Gerichtsschreiber/in II leitender Stellung -Informatiker/in I -Med.-therap. Mitarb. in an Berufsfachschu- -Polizeimitarbeiter/in leitender Stellung -Techn. Sachbearbeiter/in II -Pfleger/Schwester in -Lehrbeauftragte/r
 
 **- Praxislehrperson 69'804**
 
 **person - Volksschullehrperson - Lehrbeauftragte/r**
-
-**son - Lehrbeauftragte/r an Berufsfachschule - Lehrbeauftragte/r**
 
 **-Lehrbeauftragte/r**
 
@@ -3532,7 +3549,7 @@ leitender Stellung II
 
 **son - Lehrbeauftragte/r an Berufsfachschule - Lehrbeauftragte/r an Mittelschule5)**
 
-LK 15 -Abteilungsleiter/in III -Fachpfleger/schwester II -Lehrbeauftragte/r 54'522 -Admin. Sachbearbeiter/in II -Med.-techn. Mitarb. in an Berufsfachschu- -Informatiker/in II leitender Stellung -Polizeimitarbeiter/in -Med.-techn. Mitarb. I -Lehrbeauftragte/r -Techn. Sachbearbeiter/in II -Med.-therap. Mitarb. in an Volksschule[^239-8]
+LK 15 -Abteilungsleiter/in III -Fachpfleger/schwester II -Lehrbeauftragte/r 54'522 -Admin. Sachbearbeiter/in II -Med.-techn. Mitarb. in an Berufsfachschu- -Informatiker/in II leitender Stellung -Polizeimitarbeiter/in -Med.-techn. Mitarb. I -Lehrbeauftragte/r -Techn. Sachbearbeiter/in II -Med.-therap. Mitarb. in an Volksschule[^hLKPersonalderSozi_4-2]
 
 **le**
 
@@ -3552,11 +3569,12 @@ leitender Stellung II
 
 **Leitungs- und Lehr- Jährl. personen der Grund-Schulen lohn in**
 
-LK Personal der Soziales & Verwaltung medizinisches
+[^hLKPersonalderSozi_4-1]: Fassung vom 20. Juni 2011.
+[^hLKPersonalderSozi_4-2]: Fassung vom 20. Juni 2011.
 
-Personal
+### LK Personal der Soziales & Verwaltung medizinisches Personal Fr.
 
-Fr. LK 14 -Admin. Sachbearbeiter/in II -Fachpfleger/schwester II -Lehrbeauftragte/r 51'908 -Gruppenleiter/in I -Med.-techn. Mitarb. I an Berufsfachschu- -Informatiker/in II -Med.-therap. Mitarb. I le[^239-9] -Polizeimitarbeiter/in -Pfleger/Schwester -Techn. Sachbearbeiter/in II -Pfleger/Schwester in
+LK 14 -Admin. Sachbearbeiter/in II -Fachpfleger/schwester II -Lehrbeauftragte/r 51'908 -Gruppenleiter/in I -Med.-techn. Mitarb. I an Berufsfachschu- -Informatiker/in II -Med.-therap. Mitarb. I le[^hLKPersonalderSozi_5-1] -Polizeimitarbeiter/in -Pfleger/Schwester -Techn. Sachbearbeiter/in II -Pfleger/Schwester in
 
 leitender Stellung II
 
@@ -3566,31 +3584,36 @@ leitender Stellung II
 
 LK 13 -Admin. Sachbearbeiter/in -Fachpfleger/schwester II III -Med.-techn. Mitarb. I -Gruppenleiter/in I -Med.-therap. Mitarb. I -Handwerkl. Mitarb. I -Pfleger/Schwester -Hauswirtschaftl. Mitarb. I -Pfleger/Schwester in -Informatiker/in II leitender Stellung II -Landwirtschaftl. Mitarb. I -Sozialbetreuer/in II -Polizeimitarbeiter/in -Techn. Mitarbeiter/in I -Techn. Sachbearbeiter/in III -Verwaltungsmitarbeiter/in I LK 12 -Admin. Sachbearbeiter/in -Med.-techn. Mitarb. I -Lehrbeauftragte/r 47'103
 
-III -Med.-techn. Mitarb. II an Volksschule[^239-10]
+III -Med.-techn. Mitarb. II an Volksschule[^hLKPersonalderSozi_5-2]
 
-**44'908**
+-Gruppenleiter/in I -Med.-therap. Mitarb. I -Handwerkl. Mitarb. I -Med.-therap. Mitarb. II -Hauswirtschaftl. Mitarb. I -Spitalmitarbeiter/in I -Informatiker/in II -Landwirtschaftl. Mitarb. I -Polizeimitarbeiter/in -Techn. Mitarbeiter/in I -Techn. Sachbearbeiter/in III -Verwaltungsmitarbeiter/in I LK 11 -Admin. Sachbearb./in III -Med.-techn. Mitarb. II -Gruppenleiter/in I -Med.-therap. Mitarb. II -Handwerkl. Mitarb. I -Spitalmitarbeiter/in I -Hauswirtschaftl. Mitarb. I -Informatiker/in III -Landwirtschaftl. Mitarb. I -Techn. Mitarbeiter/in I -Techn. Sachbearbeiter/in III -Verwaltungsmitarbeiter/in I
+
+**Leitungs- und Lehr- Jährl. personen der Grund-Schulen lohn in**
+
+[^hLKPersonalderSozi_5-1]: Fassung vom 20. Juni 2011.
+[^hLKPersonalderSozi_5-2]: Fassung vom 20. Juni 2011.
+
+### LK Personal der Soziales & Verwaltung medizinisches Personal Fr.
 
 **42'845**
 
-**39'110**
+LK 10 -Admin. Sachbearbeiter/in -Med.-techn. Mitarb. II III -Med.-therap. Mitarb. II -Gruppenleiter/in II -Spitalmitarbeiter/in I -Handwerkl. Mitarbeiter/in I
 
--Gruppenleiter/in I -Med.-therap. Mitarb. I -Handwerkl. Mitarb. I -Med.-therap. Mitarb. II -Hauswirtschaftl. Mitarb. I -Spitalmitarbeiter/in I -Informatiker/in II -Landwirtschaftl. Mitarb. I -Polizeimitarbeiter/in -Techn. Mitarbeiter/in I -Techn. Sachbearbeiter/in III -Verwaltungsmitarbeiter/in I LK 11 -Admin. Sachbearb./in III -Med.-techn. Mitarb. II -Gruppenleiter/in I -Med.-therap. Mitarb. II -Handwerkl. Mitarb. I -Spitalmitarbeiter/in I -Hauswirtschaftl. Mitarb. I -Informatiker/in III -Landwirtschaftl. Mitarb. I -Techn. Mitarbeiter/in I -Techn. Sachbearbeiter/in III -Verwaltungsmitarbeiter/in I LK Personal der Soziales & Verwaltung medizinisches
+**44'908**
+
+-Hauswirtschaftl. Mitarb. I -Informatiker/in III -Landwirtschaftl. Mitarb. I -Techn. Mitarbeiter/in I -Techn. Sachbearbeiter/in III -Verwaltungsmitarbeiter/in I LK 9 -Gruppenleiter/in II -Med.-techn. Mitarb. II -Lehrbeauftragte/r 40'913 -Handwerkl. Mitarbeiter/in I -Med.-therap. Mitarb. II an Volksschule[^hLKPersonalderSozi_6-1] -Hauswirtschaftl. Mitarb. I -Spitalmitarbeiter/in I -Informatiker/in III -Landwirtschaftl. Mitarb. I -Techn. Mitarbeiter/in I -Verwaltungsmitarbeiter/in I LK 8 -Gruppenleiter/in II -Spitalmitarbeiter/in II -Handwerkl. Mitarbeiter/in II -Hauswirtschaftl. Mitarb. II -Informatiker/in III -Landwirtschaftl. Mitarb. II -Techn. Mitarbeiter/in II -Verwaltungsmitarbeiter/in II LK 7 -Gruppenleiter/in II -Spitalmitarbeiter/in II -Handwerkl. Mitarbeiter/in II -Hauswirtschaftl. Mitarb. II -Landwirtschaftl. Mitarb. II -Techn. Mitarbeiter/in II -Verwaltungsmitarbeiter/in II LK 6 -Datatypist/in -Spitalmitarbeiter/in II -Handwerkl. Mitarbeiter/in II -Hauswirtschaftl. Mitarb. II -Landwirtschaftl. Mitarb. II -Techn. Mitarbeiter/in II -Verwaltungsmitarbeiter/in II
 
 **Leitungs- und Lehr- Jährl. personen der Grund-Schulen lohn in**
 
-Personal
+[^hLKPersonalderSozi_6-1]: Fassung vom 20. Juni 2011.
 
-Fr. LK 10 -Admin. Sachbearbeiter/in -Med.-techn. Mitarb. II III -Med.-therap. Mitarb. II -Gruppenleiter/in II -Spitalmitarbeiter/in I -Handwerkl. Mitarbeiter/in I
+### LK Personal der Soziales & Verwaltung medizinisches Personal Fr.
 
 **34'442**
 
--Hauswirtschaftl. Mitarb. I -Informatiker/in III -Landwirtschaftl. Mitarb. I -Techn. Mitarbeiter/in I -Techn. Sachbearbeiter/in III -Verwaltungsmitarbeiter/in I LK 9 -Gruppenleiter/in II -Med.-techn. Mitarb. II -Lehrbeauftragte/r 40'913 -Handwerkl. Mitarbeiter/in I -Med.-therap. Mitarb. II an Volksschule[^239-11] -Hauswirtschaftl. Mitarb. I -Spitalmitarbeiter/in I -Informatiker/in III -Landwirtschaftl. Mitarb. I -Techn. Mitarbeiter/in I -Verwaltungsmitarbeiter/in I LK 8 -Gruppenleiter/in II -Spitalmitarbeiter/in II -Handwerkl. Mitarbeiter/in II -Hauswirtschaftl. Mitarb. II -Informatiker/in III -Landwirtschaftl. Mitarb. II -Techn. Mitarbeiter/in II -Verwaltungsmitarbeiter/in II LK 7 -Gruppenleiter/in II -Spitalmitarbeiter/in II -Handwerkl. Mitarbeiter/in II -Hauswirtschaftl. Mitarb. II -Landwirtschaftl. Mitarb. II -Techn. Mitarbeiter/in II -Verwaltungsmitarbeiter/in II LK 6 -Datatypist/in -Spitalmitarbeiter/in II -Handwerkl. Mitarbeiter/in II -Hauswirtschaftl. Mitarb. II -Landwirtschaftl. Mitarb. II -Techn. Mitarbeiter/in II -Verwaltungsmitarbeiter/in II LK Personal der Soziales & Verwaltung medizinisches
+LK 5 -Datatypist/in -Spitalmitarbeiter/in II -Handwerkl. Mitarbeiter/in II -Hauswirtschaftl. Mitarb. II -Landwirtschaftl. Mitarb. II -Techn. Mitarbeiter/in II -Verwaltungsmitarbeiter/in II
 
-**Leitungs- und Lehr- Jährl. personen der Grund-Schulen lohn in**
-
-Personal
-
-Fr. LK 5 -Datatypist/in -Spitalmitarbeiter/in II -Handwerkl. Mitarbeiter/in II -Hauswirtschaftl. Mitarb. II -Landwirtschaftl. Mitarb. II -Techn. Mitarbeiter/in II -Verwaltungsmitarbeiter/in II
+**39'110**
 
 **37'433**
 
@@ -3599,18 +3622,6 @@ Fr. LK 5 -Datatypist/in -Spitalmitarbeiter/in II -Handwerkl. Mitarbeiter/in II -
 **33'123**
 
 LK 4 -Datatypist/in -Spitalmitarbeiter/in III -Handwerkl. Mitarb./in III -Hauswirtschaftl. Mitarb. III -Landwirtschaftl. Mitarb. III -Verwaltungsmitarb. III LK 3 -Datatypist/in -Spitalmitarbeiter/in III -Handwerkl. Mitarb./in III -Hauswirtschaftl. Mitarb. III -Landwirtschaftl. Mitarb. III -Verwaltungsmitarb. III LK 2 -Handwerkl. Mitarb./in III -Spitalmitarbeiter/in III -Hauswirtschaftl. Mitarb. III -Landwirtschaftl. Mitarb. III -Verwaltungsmitarb. III LK 1 -Handwerkl. Mitarb./in III -Spitalmitarbeiter/in III -Hauswirtschaftl. Mitarb. III -Landwirtschaftl. Mitarb. III -Verwaltungsmitarb.in III
-
-[^239-1]: Aufgehoben am 4. November 2008.
-[^239-2]: Fassung vom 20. Juni 2011.
-[^239-3]: Fassung vom 20. Juni 2011.
-[^239-4]: Aufgehoben am 20. Juni 2011.
-[^239-5]: Aufgehoben am 4. November 2008.
-[^239-6]: Fassung vom 20. Juni 2011.
-[^239-7]: Fassung vom 20. Juni 2011.
-[^239-8]: Fassung vom 20. Juni 2011.
-[^239-9]: Fassung vom 20. Juni 2011.
-[^239-10]: Fassung vom 20. Juni 2011.
-[^239-11]: Fassung vom 20. Juni 2011.
 
 #### § 240
 
@@ -3640,9 +3651,9 @@ Durch die Beifügung des Buchstabens a bei einer Lohnklasse wird der Grundlohn u
 
 #### § 243
 
-**31'917**[^242-1]
+**Grundlohn für soziales und medizinisches Personal**[^242-1]
 
-**Grundlohn für soziales und medizinisches Personal**
+**31'917**
 
 Der Grundlohn für soziales und medizinisches Personal beträgt für Mitarbeitende mit Stellenantritt vor dem 1. Januar 2016 105% der Beträge nach § 239 GAV. Für Mitarbeitende mit Stellenantritt ab dem 1. Januar 2016 wird der Grundlohn gemäss § 239 GAV festgelegt.
 
@@ -3666,9 +3677,7 @@ Die ersten 10 Erfahrungsanstiege für soziales und medizinisches Personal mit St
 
 **Berechnung der AHV-Ersatzrente[^hNBATAnhang2AHVE-1]**
 
-### Die AHV-Ersatzrente berechnet sich wie folgt: Jahresbruttolohn inkl. 13 Mo-
-
-natslohn und unkl. Teuerungszulagen ohne Leistungsbonus.
+Die AHV-Ersatzrente berechnet sich wie folgt: Jahresbruttolohn inkl. 13 Monatslohn und unkl. Teuerungszulagen ohne Leistungsbonus.
 
 ### Normative Bestimmungen, Besonderer Teil: I. Spitäler (NB BT Spitäler)
 
@@ -3766,7 +3775,7 @@ Die Dauer der ununterbrochenen Präsenz im Spital darf mit Ausnahme dringender N
 
 <sup>1</sup> Der Klinikchef oder die Klinikchefin fördert die Ausbildung der Ärztinnen und Ärzte. Die zur Erlangung und Weiterführung der FMH-Fachtitel notwendige Supervisions-, Weiter- und Fortbildungszeit ist innerhalb der Arbeitszeit zu gewähren.
 
-<sup>2</sup> Betriebsinterne Veranstaltungen stehen in der Regel allen Ärztinnen und Ärzten offen. Die tatsächliche Dauer gilt als Arbeitszeit. Bei externen Veranstaltungen werden je Abwesenheitstag[^hOberärztinnenundä-1]/[^hOberärztinnenundä-2], je halben Abwesenheitstag
+<sup>2</sup> Betriebsinterne Veranstaltungen stehen in der Regel allen Ärztinnen und Ärzten offen. Die tatsächliche Dauer gilt als Arbeitszeit. Bei externen Veranstaltungen werden je Abwesenheitstag[^hOberärztinnenundä-1]/5, je halben Abwesenheitstag
 
 <sup>1</sup> /<sup>10</sup> der festgelegten Wochensollarbeitszeit angerechnet, wobei in der Regel jährlich 5 Abwesenheitstage geltend gemacht werden können. Eine Abweichung nach oben ist möglich, wenn die WBO/FBO der FMH dies vorsehen.
 
@@ -3779,7 +3788,6 @@ Die Dauer der ununterbrochenen Präsenz im Spital darf mit Ausnahme dringender N
 - 1\. Löhne
 
 [^hOberärztinnenundä-1]: § 255 Fassung vom 11. August 2015.
-[^hOberärztinnenundä-2]: § 257 aufgehoben am 15. Dezember 2020.
 
 #### § 255
 
@@ -4202,7 +4210,7 @@ Müssen Korpsangehörige regelmässig private Automobile für Dienstfahrten zur 
 
 <sup>1</sup> Die Halter von einsatzfähigen Diensthunden erhalten jährlich eine Entschädigung von 3'000 Franken. Das Kommando setzt die Bezugsberechtigung fest. Während der Ausbildungszeit des Junghundes und bis zur Erlangung seiner Einsatzfähigkeit als Diensthund erhalten die Halter jährlich eine Entschädigung von 1'800 Franken.[^292-1]
 
-<sup>2</sup> Nach Absolvierung und Bestehen der geforderten Hundeprüfung meldet der technische Leiter dem Kommando auf dem Dienstweg die Einsatzbereitschaft neu ausgebildeter Tiere. Nach erfolgter Meldung werden dem Hundeführer, auf Antrag und unter Berücksichtigung der marktüblichen Preise,[^292-2]/[^292-3] der Anschaffungskosten des Hundes (max. 1000 Franken) rückvergütet.
+<sup>2</sup> Nach Absolvierung und Bestehen der geforderten Hundeprüfung meldet der technische Leiter dem Kommando auf dem Dienstweg die Einsatzbereitschaft neu ausgebildeter Tiere. Nach erfolgter Meldung werden dem Hundeführer, auf Antrag und unter Berücksichtigung der marktüblichen Preise,[^292-2]/3 der Anschaffungskosten des Hundes (max. 1000 Franken) rückvergütet.
 
 <sup>3</sup> Das Kommando kommt für die Kosten der tiermedizinischen Behandlung auf, die aufgrund einer im Einsatz oder in einem angeordneten Training erlittenen Verletzung nötig ist. Das Kommando kommt zu zwei Drittel für die Kosten der tiermedizinischen Behandlung auf, die als Folge eines ausserdienstlichen Ereignisses (Verletzung oder Krankheit) zur Wiederherstellung der Einsatzfähigkeit des Diensthundes nötig ist.[^292-2]
 
@@ -4922,7 +4930,7 @@ Jeder Unterrichtsausfall ist der direkt vorgesetzten Stelle zu melden.
 
 <sup>3</sup> Die Verantwortung für die Handhabung der Kompensation liegt bei der direkt vorgesetzten Schulbehörde und bei den einzelnen Lehrpersonen.
 
-[^346-1]: § 342bis eingefügt am 25. Juni 2018.
+[^346-1]: § 349 Fassung vom 9. Mai 2011.
 
 #### § 347
 
@@ -5321,7 +5329,11 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 
 **21**
 
-Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehrerinnen- und Arbeitslehrerinnenpatente) Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte[^384-3] tent Absolvierende der Studienvarianten «Querein- 18
+Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehre-
+
+rinnen- und Arbeitslehrerinnenpatente)
+
+Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte[^384-3] tent Absolvierende der Studienvarianten «Querein- 18
 
 stieg» oder «BachelorPlus/MasterPlus»
 
@@ -5397,9 +5409,15 @@ Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Matu
 
 **LK**
 
-Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie vom 3. November 2000[^384-13] Altrechtliche Diplome in Logopädie Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
+Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomoto-
+
+riktherapie vom 3. November 2000[^384-13]
 
 **19**
+
+Altrechtliche Diplome in Logopädie
+
+Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
 
 **9**
 
@@ -6971,19 +6989,9 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 8\. Mai 2012 (§ 177 Abs. 1 und § 239 LK 29 -25 Spalte 1) am 1. Januar 2012;
 
-- 8\. Mai 2012 (§ 7 Abs. 4, Besonderer Teil V, § 258 Abs. 1, 3 und 4, § 43<sup>bis</sup>,
+- 8\. Mai 2012 (§ 7 Abs. 4, Besonderer Teil V, § 258 Abs. 1, 3 und 4, § 43<sup>bis</sup>, § 134 Abs. 1<sup>bis</sup>, § 327, § 205 Abs. 2) am 1. Juni 2012;
 
-[^520-1]: Titel XI aufgehoben am 8. Juni 2010.
-
-#### § 134
-
-**Abs. 1<sup>bis</sup>, § 327, § 205 Abs. 2) am 1. Juni 2012;**
-
-- 5\. Juni 2012 am 1. Januar 2012 (Korrektur des Beschlusses vom 8. Mai 2012;
-
-#### § 239
-
-**LK 29 -25 Spalte 1);**
+- 5\. Juni 2012 am 1. Januar 2012 (Korrektur des Beschlusses vom 8. Mai 2012; § 239 LK 29 -25 Spalte 1);
 
 - 8\. Mai 2012 am 1. August 2012;
 
@@ -7079,14 +7087,18 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 29\. Januar 2024 am 1. Januar 2024;
 
-- 2\. April 2024 am 1. Januar 2024.
+- 2\. April 2024 am 1. Januar 2024;
+
+- 17\. Dezember 2024 am 1. Januar 2025;
+
+- 1\. April 2025 am 1. Januar 2025.
+
+[^520-1]: Titel XI aufgehoben am 8. Juni 2010.
 
 ## Weitere Fussnoten
 
-- [1] § 161 Buchstabe a Fassung vom 27. Januar 2009.
 - [18] a
 - [2] Fassung vom 20. Juni 2011.
 - [3] Fassung vom 20. Juni 2011.
-- [1] § 347 aufgehoben am 9. Mai 2011.
 - [2] § 384 Absatz 3 Kategorie «Lehrbeauftragte» Fassung vom 4. Juli 2023.
 - [3] § 384 Absatz 4 aufgehoben am 26. Juni 2012.
