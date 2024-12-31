@@ -4,13 +4,12 @@ number: "850.11"
 title: Sozialhilfeverordnung
 short: SHV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2001-09-25
 in_force: 2002-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.11"
-pdf: "https://bl.clex.ch/api/de/versions/3788/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4111/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3788/pdf_file"
 
 (SHV)
 
-Vom 25.09.2001 (Stand 01.01.2024)
+Vom 25.09.2001 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -102,12 +101,12 @@ beschliesst:
 
 <sup>1</sup> Das Mass der Unterstützungen an die Aufwendungen für den Grundbedarf beträgt monatlich bei einem Haushalt mit:
 
-- a. 1 Person CHF 1'031.–;
-- b. 2 Personen CHF 1'577.–;
-- c. 3 Personen CHF 1'918.–;
-- d. 4 Personen CHF 2'206.–;
-- e. 5 Personen CHF 2'495.–;
-- f. pro weitere Person plus CHF 209.–.
+- a. 1 Person CHF 1'061.–;
+- b. 2 Personen CHF 1'624.–;
+- c. 3 Personen CHF 1'974.–;
+- d. 4 Personen CHF 2'271.–;
+- e. 5 Personen CHF 2'568.–;
+- f. pro weitere Person plus CHF 216.–.
 - g. …
 - h. …
 
@@ -117,13 +116,13 @@ beschliesst:
 
 <sup>2<sup>ter</sup></sup> Wohnen unterstützte volljährige Kinder im Haushalt der nicht unterstützten Eltern oder umgekehrt, wird die Unterstützung für den Grundbedarf entsprechend ihrem Anteil an der Haushaltsgrösse gemäss Abs. 1 reduziert (Kopfquote) und um 20 % gekürzt.
 
-<sup>3</sup> Wohnen unterstützte Personen, die zwischen 18 und 25 Jahren alt sind, in einem 1-Personen-Haushalt, beträgt die Unterstützung an ihre Aufwendungen für den Grundbedarf in der Regel monatlich CHF 789.–.
+<sup>3</sup> Wohnen unterstützte Personen, die zwischen 18 und 25 Jahren alt sind, in einem 1-Personen-Haushalt, beträgt die Unterstützung an ihre Aufwendungen für den Grundbedarf in der Regel monatlich CHF 812.–.
 
 #### § 10
 
 **Mass des Grundbedarfs ohne Haushalt (§ 6 Abs. 2 [SHG](https://bl.clex.ch/data/850/de/art6))**
 
-<sup>1</sup> Bei Personen in einem Heim, in einer Klinik oder in einer ähnlichen Einrichtung richtet sich das Mass der Unterstützungen an die Aufwendungen für den Grundbedarf nach den aktuellen Bedürfnissen der unterstützten Person und beträgt monatlich höchstens CHF 372.–.
+<sup>1</sup> Bei Personen in einem Heim, in einer Klinik oder in einer ähnlichen Einrichtung richtet sich das Mass der Unterstützungen an die Aufwendungen für den Grundbedarf nach den aktuellen Bedürfnissen der unterstützten Person und beträgt monatlich höchstens CHF 383.–.
 
 <sup>2</sup> Bei bedürftigen Personen, die keinen Unterstützungswohnsitz und keinen Aufenthaltsort haben, sowie bei Personen, die sich gemäss § 21 [SHG](https://bl.clex.ch/data/850/de/art21) in einer stationären Therapie befinden, richtet sich das Mass der Unterstützung an die Aufwendungen für den Grundbedarf nach deren aktuellen Bedürfnissen.
 
@@ -179,9 +178,9 @@ beschliesst:
 
 **Verfahren bei Zahnarztkosten**
 
-<sup>1</sup> Für Unterstützungen an die Aufwendungen für Zahnbehandlungen und Zahnsanierungen gemäss § 13 Bst. c und d und § 14 kAV ist der Sozialhilfebehörde vor der Durchführung der Behandlung ein Kostenvoranschlag einzureichen. Ausgenommen sind die Fälle notfallmässig vorzunehmender, schmerzstillender Zahnbehandlungen.
+<sup>1</sup> Für Unterstützungen an die Aufwendungen für Zahnbehandlungen und Zahnsanierungen gemäss § 13 Abs. 1 Bst. c und d und § 14 kAV ist der Sozialhilfebehörde vor der Durchführung der Behandlung ein Kostenvoranschlag einzureichen. Ausgenommen sind die Fälle notfallmässig vorzunehmender, schmerzstillender Zahnbehandlungen sowie jährliche Zahnkontrollen und Dentalhygienebehandlungen.
 
-<sup>2</sup> Die Sozialhilfebehörde entscheidet über die Gesuche bis CHF 300.– direkt. Höhere Kostenvoranschläge reicht die Sozialhilfebehörde der zuständigen zahnärztlichen Person zur Plausibilitätsprüfung ein. Die zahnärztliche Person erstattet der Sozialhilfebehörde Bericht nach Massgabe des Vertrags gemäss Abs. 3.
+<sup>2</sup> Die Sozialhilfebehörde entscheidet über die Gesuche bis CHF 500.– direkt. Kostenvoranschläge zwischen CHF 500.– und CHF 1'000.– kann die Sozialhilfebehörde der zuständigen zahnärztlichen Person zur Plausibilitätsprüfung einreichen. Kostenvoranschläge über CHF 1'000.– sind der zuständigen zahnärztlichen Person zur Plausibilitätsprüfung einzureichen. Die zahnärztliche Person erstattet der Sozialhilfebehörde Bericht nach Massgabe des Vertrags gemäss Abs. 3.
 
 <sup>3</sup> Die Finanz- und Kirchendirektion und die Volkswirtschafts- und Gesundheitsdirektion bestimmen gemeinsam die für die Sozialhilfebehörden zuständigen zahnärztlichen Personen aus dem Kreis der im Kanton praktizierenden Zahnärztinnen und Zahnärzte. Sie schliessen mit diesen einen Vertrag mit mindestens folgendem Inhalt ab:
 
@@ -334,7 +333,7 @@ beschliesst:
 
 <sup>4</sup> Verletzen unterstützte Personen schuldhaft ihre Pflichten gemäss § 17a Bst. c, f, h und i, wird die Unterstützung nach vorgängiger Androhung direkt auf Nothilfe herabgesetzt.
 
-<sup>5</sup> Neben den Kosten für eine angemessene Unterbringung und den Kosten gemäss § 13 umfasst die Nothilfe gemäss den Abs. 3 und 4 pro Person und Tag CHF 10.30 für die Aufwendungen an den Lebensunterhalt.
+<sup>5</sup> Neben den Kosten für eine angemessene Unterbringung und den Kosten gemäss § 13 umfasst die Nothilfe gemäss den Abs. 3 und 4 pro Person und Tag CHF 10.60 für die Aufwendungen an den Lebensunterhalt.
 
 <sup>6</sup> Auf besondere Bedürfnisse ist Rücksicht zu nehmen.
 
@@ -344,7 +343,7 @@ beschliesst:
 
 <sup>1</sup> Die Nothilfe gemäss § 4c [SHG](https://bl.clex.ch/data/850/de/art4c) umfasst in 1. Linie die Kosten der Heimreise.
 
-<sup>2</sup> In 2. Linie umfasst die Nothilfe eine angemessene Unterbringung, medizinische Notversorgung und CHF 8.30 pro Person und Tag. Diese decken pauschal alle Aufwendungen für den Lebensunterhalt ab und sind nach Möglichkeit in Form von Sachleistungen abzugeben.
+<sup>2</sup> In 2. Linie umfasst die Nothilfe eine angemessene Unterbringung, medizinische Notversorgung und CHF 8.55 pro Person und Tag. Diese decken pauschal alle Aufwendungen für den Lebensunterhalt ab und sind nach Möglichkeit in Form von Sachleistungen abzugeben.
 
 <sup>3</sup> Auf besondere Bedürfnisse ist Rücksicht zu nehmen.
 
@@ -364,42 +363,92 @@ beschliesst:
 
 <sup>3</sup> Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton inklusiv aller notwendigen Unterlagen einzureichen. Als notwendige Unterlagen gelten die Verfügungen und die Rechnungsbelege der Leistungserbringenden. Zu vergüten sind die Leistungen, deren Rechnungsdatum in das abzurechnende Quartal fällt.
 
-<sup>4</sup> Bei nicht fristgemässer Einreichung verwirkt der Anspruch.
+<sup>4</sup> …
 
 #### § 21
 
-**Kantonale Entschädigungen an die Gemeinden für Flüchtlinge (§ 32 Abs. 3 [SHG](https://bl.clex.ch/data/850/de/art32))**
+**Kantonale Entschädigungen an die Gemeinden für Personen aus dem Asyl- und Flüchtlingsbereich (§ 32 Abs. 3 [SHG](https://bl.clex.ch/data/850/de/art32))**
 
-<sup>1</sup> Der Kanton entschädigt die Gemeinden für die Kosten für die anerkannten Flüchtlinge und die Schutzbedürftigen mit Aufenthaltsbewilligung mit pauschal CHF 42.– pro Person und Tag.
+<sup>1</sup> Der Kanton entschädigt die Gemeinden für die Kosten für die anerkannten Flüchtlinge und die Schutzbedürftigen mit Aufenthaltsbewilligung pauschal basierend auf der vom Bund ausgerichteten Globalpauschale 2 (GP2).
 
-- a. …
-- b. …
-- c. …
-- d. …
-- e. …
+<sup>2</sup> Der Kanton entschädigt die Gemeinden für die Kosten für Asylsuchende mit Ausweis N, vorläufig Aufgenommene mit Ausweis F und Schutzbedürftige ohne Aufenthaltsbewilligung mit Ausweis S pauschal basierend auf der vom Bund ausgerichteten Globalpauschale 1a und 1b (GP1).
 
-<sup>1<sup>bis</sup></sup> Die Gemeinden finanzieren mit dieser Pauschale:
+<sup>3</sup> Die Weitergabe der Globalpauschalen erfolgt nach Abzug :
 
-- a. den Grundbedarf,
-- b. angemessene Wohnungskosten,
-- c. obligatorische Versicherungen,
-- d. medizinische Behandlungen und Pflege,
-- e. Tagesbetreuung und familienstützende Massnahmen,
-- f. weitere notwendige Aufwendungen.
+- a. des Anteils für unbegleitete minderjährige Asylsuchende (UMA);
+- b. der Kosten, die dem Kanton für Personen im Asylsystem in Rechnung gestellt werden, die noch nicht dem Kanton zugewiesen sind;
+- c. aussergewöhnlicher Kosten, die der Kanton übergeordnet für das Asylwesen trägt;
+- d. der Kosten, die dem Kanton im Zusammenhang mit Plausibilitätsprüfungen von Kostenvoranschlägen bei Zahnbehandlungen entstehen.
 
-<sup>1<sup>ter</sup></sup> Die Gemeinden können mit dieser Pauschale weitere zweckdienliche Aufwendungen finanzieren. Dazu zählen insbesondere:
+<sup>4</sup> Die Weitergabe der Globalpauschalen nach den Abzügen gemäss Abs. 3 erfolgt wie folgt:
 
-- a. Betreuungsleistungen, Begleitungen, niederschwellige Angebote zur Alltagsbewältigung;
-- b. interne Verrechnungen aus anderen Verwaltungsbereichen, die für den Asyl- und Flüchtlingsbereich Leistungen erbracht haben;
-- c. Unterstützungen von Projekten im Asyl- und Flüchtlingsbereich.
+- a. 88 % fix pro zugewiesene Person;
+- b. 3,5 % aufgeteilt auf Personen über der Durchschnittsquote;
+- c. 1 %, jedoch maximal CHF 60.– pro Platz und Monat, aufgeteilt auf dem Bund oder Kanton zur Verfügung gestellte Erstaufnahmeplätze (EAP);
+- d. 4 % aufgeteilt auf besondere Fälle.
 
-<sup>1<sup>quater</sup></sup> Allfällige Überschüsse sind durch die Gemeinde einem Fonds zuzuweisen. Unterdeckungen werden maximal im Umfang der im Fonds erhaltenen Mittel diesem entnommen.
+<sup>5</sup> Die Berechnungen gemäss Abs. 4 erfolgen gestützt auf nachfolgende Formeln:
 
-<sup>1<sup>quinquies</sup></sup> Über die Verwendung des Fonds befindet der Gemeinderat auf Antrag der Sozialhilfebehörde.
+- a. 88 % Fixanteil = GP2 x 88 % / Personenbestand Status B und VA FL.
+- b. 88 % Fixanteil = GP1 x 88 % / Personenbestand Status N, VA und S.
+- c. 3,5 % variabler Anteil pro Person über der Durchschnittquote = (GP1 x 3,5 % + GP2 x 3,5 %) / Summe aller Personen über der Durchschnittsquote.
+- d. 1 % Anteil pro EAP = (GP1 x 1 % + GP2 x 1 %) / Anzahl EAP im Kanton.
+- e. 4 % Risikoanteil = GP1 x 4 % + GP2 x 4 %.
 
-<sup>1<sup>sexies</sup></sup> Der Kanton entschädigt die Gemeinden zudem für die Kosten, die diesen entstanden sind durch die Integrationsmassnahmen.
+<sup>6</sup> In der Formel bedeuten:
 
-<sup>1<sup>septies</sup></sup> Die Höhe der Entschädigung gemäss Abs. 1<sup>sexies</sup> beträgt pro Monat für:
+- a. GP2: Globalpauschale 2 vom Bund;
+- b. Status B: Personen mit einem positiven Asylentscheid;
+- c. VA FL: Personen mit einer vorläufigen Aufnahme als Flüchtling;
+- d. GP1: Globalpauschale 1 vom Bund, die sowohl die Globalpauschale 1a wie auch 1b beinhaltet;
+- e. Status N: Asylsuchende;
+- f. Status VA: Personen mit einer vorläufigen Aufnahme;
+- g. Status S: Schutzbedürftige ohne Aufenthaltsbewilligung;
+- h. Durchschnittsquote: Für die Berechnung der Durchschnittquote werden alle Personen gemäss § 2 Abs. 1 kAV berücksichtigt.
+- i. Personenbestand: Massgebend sind alle am letzten Tag des Monats anwesenden Personen.
+- j. EAP: dem Bund oder Kanton für die Unterbringung zur Verfügung gestellte Erstaufnahmeplätze.
+
+<sup>7</sup> Als besondere Fälle gemäss Abs. 4 Bst. d gelten:
+
+- a. Personen, die nach den Kriterien vom Bund als «Medizinalfall» gemäss Art. 99a Abs. 3 Bst. f AsylG eingestuft werden;
+- b. Personen, die in einem Heim untergebracht werden müssen;
+- c. ehemalige unbegleitete minderjährige Asylsuchende mit besonderem Betreuungsbedarf bis zum Abschluss der Erstausbildung jedoch höchstens bis zum vollendeten 25. Lebensjahr;
+- d. unbegleitete minderjährige Asylsuchende, die vollumfänglich durch die Gemeinde betreut werden und sich nicht in durch den Kanton mitfinanzierten Strukturen befinden.
+
+<sup>8</sup> Die Ausrichtung der Pauschale erfolgt quartalsweise.
+
+<sup>9</sup> Korrekturen der Auszahlungen gemäss Abs. 8 erfolgen mit der ersten Auszahlung im Folgejahr.
+
+<sup>10</sup> Die Ausrichtung der Gelder für besondere Fälle gemäss Abs. 7 erfolgt 1-mal im Jahr anteilsmässig auf alle Fälle verteilt.
+
+<sup>11</sup> 3,5 % der Bundespauschalen verbleiben beim Kanton als Beitrag an die Kosten, die dem Kanton aufgrund der Führung der Erstaufnahmeheime entstehen.
+
+<sup>12</sup> Die Dauer der Entschädigung richtet sich nach der Dauer der erhaltenen Bundesgelder.
+
+<sup>13</sup> Die festgelegte Aufteilung der Globalpauschalen gemäss Abs. 4 und 11 wird in regelmässigen Abständen überprüft und an veränderte Entwicklungen angepasst.
+
+#### § 21a
+
+**Kantonale Entschädigung an die Gemeinden für Personen aus dem Asyl- und Flüchtlingsbereich in einem kantonalen Erstaufnahmeheim**
+
+<sup>1</sup> Die Vergütung der Pauschale gemäss § 21, § 17a Abs. 1 kAV und § 18 Abs. 1 Bst. b kAV erfolgt ab erfolgtem Austritt aus dem Erstaufnahmeheim in die Gemeinde.
+
+<sup>2</sup> Der Kanton entschädigt die Gemeinden ab Zuweisungsdatum rückwirkend per Eintritt in ein Erstaufnahmeheim für die Kosten der obligatorischen Kranken- und Unfallversicherung der bedürftigen Personen:
+
+- a. für die Prämien pauschal in der Höhe von 90 % der regionalen Durchschnittsprämie für Erwachsene, junge Erwachsene und Kinder pro Person und Tag gemäss dem Eidgenössischen Departement des Innern;
+- b. für die Franchisen und Selbstbehalte pauschal nach Massgabe von Art. 103 Abs. 1 bzw. 2 der Verordnung über die Krankenversicherung (KVV) vom 27. Juni 1995[^21a-1] für die Altersgruppe pro Person und Tag.
+
+<sup>3</sup> Ausnahmsweise kann die Ausrichtung der Pauschale oder von Teilen davon in Abweichung von Abs. 1 trotz Verbleib in einem Erstaufnahmeheim bereits ab Zuweisung auf die Gemeinde erfolgen.
+
+[^21a-1]: [SR 832.102](https://db.clex.ch/link/Bund/832.102/de)
+
+#### § 21b
+
+**Kantonale Entschädigung für Integrationsmassnahmen für Personen aus dem Asyl- und Flüchtlingsbereich**
+
+<sup>1</sup> Der Kanton entschädigt die Gemeinden für die Kosten, die diesen entstanden sind durch die Integrationsmassnahmen.
+
+<sup>2</sup> Die Höhe der Entschädigung gemäss Abs. 1 beträgt pro Monat für:
 
 - a. Förderungsprogramme — CHF 1'500.–;
 - b. Sprachförderungskurse — CHF 1'500.–;
@@ -408,17 +457,16 @@ beschliesst:
 - e. Massnahmen der sozialen Integration — CHF 400.–;
 - f. Massnahmen der frühen Sprachförderung — CHF 400.–.
 
-<sup>2</sup> Die Dauer der Entschädigungen richtet sich nach der Dauer der erhaltenen Bundesgelder.
+<sup>3</sup> Der Kanton entrichtet den Gemeinden die Aufwendungen quartalsweise.
 
-<sup>2<sup>bis</sup></sup> Der Kanton entrichtet den Gemeinden die Kosten quartalsweise.
+<sup>4</sup> Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton inklusive aller notwendigen Unterlagen einzureichen. Als notwendige Unterlagen gelten die Verfügungen und die Rechnungsbelege der Leistungserbringenden. Zu vergüten sind die Leistungen, deren Rechnungsdatum in das abzurechnende Quartal fällt.
 
-<sup>2<sup>ter</sup></sup> Die Abrechnung für die Aufwendungen gemäss Abs. 1<sup>sexies</sup> ist spätestens 3 Monate nach Quartalsende dem Kanton inklusive aller notwendigen Unterlagen einzureichen. Als notwendige Unterlagen gelten die Verfügungen und die Rechnungsbelege der Leistungserbringenden. Zu vergüten sind die Leistungen, deren Rechnungsdatum in das abzurechnende Quartal fällt.
+<sup>5</sup> Die Entschädigung für die Integration erfolgt unter Vorbehalt einer möglichen Rückerstattungspflicht gegenüber dem Bund.
 
-<sup>2<sup>quater</sup></sup> Bei nicht fristgemässer Einreichung der Abrechnung gemäss Abs. 2<sup>ter</sup> verwirkt der Anspruch.
+<sup>6</sup> Der Kanton richtet die Entschädigung gemäss Abs. 2 wie folgt aus:
 
-<sup>2<sup>quinquies</sup></sup> Die Entschädigung für die Eingliederung erfolgt unter Vorbehalt einer möglichen Rückerstattungspflicht gegenüber dem Bund.
-
-<sup>3</sup> Reicht die Pauschale gemäss Abs. 1 über die Dauer von jeweils 3 Jahren nachweislich nicht aus, um die Aufwendungen gemäss Abs. 1<sup>bis</sup> zu finanzieren, wird diese Unterdeckung durch den Kanton entschädigt, sofern die Unterdeckung nicht mit Mitteln aus dem Fonds finanziert werden kann.
+- a. für Personen mit einem positiven Asylentscheid längstens während 5 Jahren seit dem Datum des Asylgesuchs und danach gemäss § 25b Abs. 2;
+- b. für vorläufig aufgenommene Flüchtlinge längstens während 7 Jahren seit Einreise in die Schweiz und danach gemäss § 25b Abs. 2.
 
 #### § 22
 
@@ -434,71 +482,24 @@ beschliesst:
 
 **Rückerstattung (§ 13 [SHG](https://bl.clex.ch/data/850/de/art13))**
 
-<sup>1</sup> Die wirtschaftlichen Verhältnisse einer unterstützten Person haben sich gebessert, wenn ein Einkommensüberschuss oder Vermögen vorhanden ist.
+<sup>1</sup> Bei einem Vermögensanfall sind folgende Freibeträge zu gewähren:
 
-- a. …
-- b. …
+- a. für die Person mit dem Vermögensanfall CHF 30'000.–;
+- b. für jedes Kind zusätzlich CHF 15'000.–, sofern:
+  - 1\. das Kind minderjährig oder in Ausbildung ist und
+  - 2\. die Person mit dem Vermögensanfall unterhaltspflichtig ist.
 
-<sup>2</sup> Massgebend für die Berechnung des Einkommensüberschusses sind die anerkannten effektiven Einnahmen und Ausgaben des im Zeitpunkt der Überprüfung laufenden Kalenderjahres.
+<sup>2</sup> Im Rahmen der Rückerstattungsüberprüfung ist die betroffene Person verpflichtet über ihre finanziellen Verhältnisse die erforderlichen Auskünfte zu erteilen.
 
-- a. …
-- b. …
+<sup>3</sup> Freizügigkeitsleistungen und Leistungen der gebundenen Vorsorge 3a können nicht zur Rückerstattung herangezogen werden.
 
-<sup>3</sup> Für die Rückerstattung wird die Hälfte vom Einkommensüberschuss herangezogen.
+<sup>4</sup> Es kommt das im Zeitpunkt der Überprüfung der Rückerstattung geltende Recht zur Anwendung.
 
-<sup>4</sup> Anerkannte Einnahmen gemäss Abs. 2 sind:
-
-- a. Nettoeinkommen;
-- b. 13. Monatslohn, Bonus und Gratifikation;
-- c. Kinder- und Erziehungszulagen;
-- d. Renten- und Pensionsansprüche;
-- e. Taggelder;
-- f. Mieterträge;
-- g. Vermögenserträge;
-- h. Unterhaltsansprüche.
-
-<sup>5</sup> Anerkannte Ausgaben gemäss Abs. 2 sind:
-
-- a. allgemeiner Lebensbedarf pro Jahr:
-  - 1\. alleinstehend — CHF 19'610.–;
-  - 2\. verheiratet, eingetragene Partnerschaft, gefestigtes Konkubinat — CHF 29'415.–;
-  - 3\. 1. Kind (0-10 Jahre) — CHF 7'200.–;
-  - 4\. 2. Kind (0-10 Jahre) — CHF 6'000.–;
-  - 5\. 3. Kind (0-10 Jahre) — CHF 5'000.–;
-  - 6\. 4. Kind (0-10 Jahre) — CHF 4'165.–;
-  - 7\. jedes weitere Kind (0-10 Jahre) — CHF 3'470.–;
-  - 8\. erste 2 Kinder (11-25 Jahre) je — CHF 10'260.–;
-  - 9\. weitere 2 Kinder (11-25 Jahre) je — CHF 6'840.–;
-  - 10\. jedes weitere Kind (11-25 Jahre) — CHF 3'420.–;
-- b. Mietzins inkl. Nebenkosten;
-- c. Hypothekarzins;
-- d. Nebenkosten bei selbstbewohntem Eigentum im Umfang von jährlich CHF 1‘680.–;
-- e. Gebäudeunterhaltskosten;
-- f. Gewinnungskosten von maximal CHF 3‘000.– pro Jahr;
-- g. Grundversicherung der Kranken- und Unfallversicherung;
-- h. weitere Gesundheitskosten, jedoch maximal CHF 2‘500.– pro Person/Jahr;
-- i. Fremdbetreuungskosten von Kindern;
-- j. Bundes-, Staats- und Gemeindesteuern.
-
-<sup>6</sup> Für die Rückerstattung wird das Vermögen abzüglich der Freibeträge berücksichtigt. Als Freibeträge gelten:
-
-- a. bei alleinstehenden Personen — CHF 30'000.–;
-- b. bei Ehepaaren, eingetragener Partnerschaft, gefestigten Konkubinatspaaren — CHF 50'000.–;
-- c. für jedes Kind zusätzlich — CHF 15'000.–.
-
-<sup>7</sup> Im Rahmen der Rückerstattungsüberprüfung gilt die Mitwirkungspflicht der unterstützten Person gemäss § 11 Ab. 2 [SHG](https://bl.clex.ch/data/850/de/art11) sinngemäss.
-
-<sup>8</sup> Es kommt das im Zeitpunkt der Überprüfung geltende Recht zur Anwendung. Ausgeschlossen sind Rückforderungen, die nach Massgabe des bis Ende 2015 geltenden Rechts bereits verjährt waren.
-
-<sup>9</sup> Die Rückerstattung kann auch mit einer Vereinbarung erfolgen.
+<sup>5</sup> Die Rückerstattung kann auch mit einer Vereinbarung erfolgen.
 
 #### § 24a
 
-**Aufwandsentschädigung (§ 33 Abs. 4 [SHG](https://bl.clex.ch/data/850/de/art33))**
-
-<sup>1</sup> Der Tarif nach Zeitaufwand beträgt CHF 90.– pro Stunde.
-
-<sup>2</sup> Auslagen für Porti und Kopien werden zusätzlich in Rechnung gestellt. Für Fotokopien wird CHF 1.– pro Kopie erhoben. Die Auslagen für Porti werden nach effektiven Kosten festgelegt.
+**…**
 
 ## 3 Eingliederung
 
@@ -520,7 +521,7 @@ beschliesst:
 
 <sup>2</sup> Die Vergütung der Betreuungspauschale an die Gemeinde setzt voraus, dass die Anreizbeiträge zur Erfüllung ihres gesetzlichen Zwecks geeignet sind und die Leistungsreduktion nachgewiesen ist.
 
-<sup>3</sup> Der Kanton entrichtet den Gemeinden die Betreuungspauschale quartalsweise. Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton inkl. der Verfügung zwischen dem Arbeitgeber und der Sozialhilfebehörde einzureichen. Bei nicht fristgerechter Einreichung verwirkt der Anspruch.
+<sup>3</sup> Der Kanton entrichtet den Gemeinden die Betreuungspauschale quartalsweise. Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton inkl. der Verfügung zwischen dem Arbeitgeber und der Sozialhilfebehörde einzureichen.
 
 #### § 25b
 
@@ -541,7 +542,7 @@ beschliesst:
 
 <sup>4</sup> Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton inklusive aller notwendigen Unterlagen einzureichen. Als notwendige Unterlagen gelten die Verfügungen und die Rechnungsbelege der Leistungserbringenden. Zu vergüten sind die Leistungen, deren Rechnungsdatum in das abzurechnende Quartal fällt.
 
-<sup>5</sup> Bei nicht fristgemässer Einreichung verwirkt der Anspruch.
+<sup>5</sup> …
 
 #### § 25c
 
@@ -648,6 +649,12 @@ beschliesst:
 **Übergangsbestimmung der Änderung vom 11. Dezember 2018**
 
 <sup>1</sup> Die Gemeinden können dem Kanton noch nicht eingereichte Abrechnungen für die Perioden vor Inkraftsetzung der Verordnungsänderung vom 11. Dezember 2018 gestützt auf die §§ 20, 21 und 25b bis zum 30. Juni 2019 einreichen; widrigenfalls verwirkt der Anspruch.
+
+#### § 31c
+
+**Übergangsbestimmung der Änderung vom 17. Dezember 2024**
+
+<sup>1</sup> Fonds, die gestützt auf das bis zum 31. Dezember 2024 geltende Recht geäufnet wurden, sind aufzulösen.
 
 #### § 32
 
