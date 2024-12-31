@@ -4,13 +4,12 @@ number: "320.5"
 title: Gesetz über den Psychiatrieverbund
 short: GPV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-08-09
+version: 2025-01-01
+version_adopted: 2024-06-25
 adopted: 2011-01-25
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3402/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3674/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3402/pdf_file"
 
 (GPV)
 
-vom 25.01.2011 (Stand 01.01.2023)
+vom 25.01.2011 (Stand 01.01.2025)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -84,10 +83,10 @@ als Gesetz:[^ingress-2]
 
 **Verwaltungsrat a) Zusammensetzung und Wahl**
 
-<sup>1</sup> Dem Verwaltungsrat gehören an:
+<sup>1</sup> Dem Verwaltungsrat gehören höchstens sieben nach fachlichen Kriterien gewählte Mitglieder an. Mitglieder anderer Organe des Psychiatrieverbundes sowie Mitglieder der Regierung sind nicht wählbar.
 
-- a) eine Vertreterin oder ein Vertreter des zuständigen Departementes, ausgenommen die Vorsteherin oder der Vorsteher;
-- b) höchstens sechs weitere, nach fachlichen Kriterien gewählte Mitglieder. Mitglieder anderer Organe des Psychiatrieverbundes sind nicht wählbar.
+- a) …
+- b) …
 
 <sup>2</sup> Die Amtsdauer beträgt höchstens vier Jahre. Sie endet spätestens mit der Vollendung des 70. Altersjahres. Im Übrigen konstituiert sich der Verwaltungsrat selbst.
 
@@ -129,11 +128,9 @@ als Gesetz:[^ingress-2]
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Finanzkontrolle des Kantons St.Gallen ist Revisionsstelle.
+<sup>1</sup> Die Regierung wählt als Revisionsstelle die kantonale Finanzkontrolle oder eine externe Revisionsstelle.
 
-<sup>2</sup> Sie nimmt die Prüfungstätigkeit nach den Bestimmungen des Staatsverwaltungsgesetzes vom 16. Juni 1994[^9-1] wahr.
-
-[^9-1]: sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
+<sup>2</sup> Die Revisionsstelle prüft Rechnungswesen und Jahresrechnung des Psychiatrieverbundes.
 
 ### 2. Regierung
 
