@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2007 über die Familienzulagen (Familienzulage
 short: FamZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20240101/de"
 
 (Familienzulagenverordnung, FamZV)
 
-vom 31. Oktober 2007 (Stand am 1. Januar 2024)
+vom 31. Oktober 2007 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -58,12 +58,13 @@ verordnet:
 Die Geburtszulage wird ausgerichtet, wenn:
 
 - a. ein Anspruch auf Familienzulagen nach dem FamZG besteht; und
-- b. die Mutter während der neun Monate unmittelbar vor der Geburt des Kindes Wohnsitz oder gewöhnlichen Aufenthalt nach Artikel 13 des Bundesgesetzes vom 6. Oktober 2000[^2-1] über den Allgemeinen Teil des Sozialversicherungsrechts in der Schweiz hat; erfolgt die Geburt vorzeitig, so wird die erforderliche Dauer des Wohnsitzes oder des gewöhnlichen Aufenthaltes in der Schweiz gemäss Artikel 27 der Verordnung vom 24. November 2004[^2-2] zum Erwerbsersatzgesetz herabgesetzt.
+- b.[^2-1] die Mutter während der neun Monate unmittelbar vor der Geburt des Kindes Wohnsitz oder gewöhnlichen Aufenthalt nach Artikel 13 des Bundesgesetzes vom 6. Oktober 2000[^2-2] über den Allgemeinen Teil des Sozialversicherungsrechts in der Schweiz hat; erfolgt die Geburt vorzeitig, so wird die erforderliche Dauer des Wohnsitzes oder des gewöhnlichen Aufenthaltes in der Schweiz gemäss Artikel 27 der Erwerbsersatzverordnung vom 24. November 2004[^2-3] herabgesetzt.
 
 <sup>4</sup> Haben mehrere Personen für das gleiche Kind Anspruch auf eine Geburtszulage, so steht der Anspruch jener Person zu, die für dieses Kind Anspruch auf Familienzulagen hat. Ist die Geburtszulage der zweitanspruchsberechtigten Person höher, so hat diese Anspruch auf die Differenz.
 
-[^2-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^2-2]: [SR 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
+[^2-1]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^2-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^2-3]: [SR 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
 
 #### Art. 3
 
@@ -192,18 +193,28 @@ Als Zweigniederlassungen gelten Einrichtungen und Betriebsstätten, in denen auf
 Der Anspruch auf Familienzulagen bleibt auch ohne gesetzlichen Lohnanspruch bestehen:
 
 - a. bei einem Mutterschaftsurlaub: während höchstens 16 Wochen;
-- b. bei Verlängerung des Mutterschaftsurlaubs wegen Spitalaufenthalts des Neugeborenen: während insgesamt höchstens 22 Wochen;
-- c. bei einem Vaterschaftsurlaub: während höchstens 2 Wochen;
+- b.[^10-4] bei einer Verlängerung des Mutterschaftsurlaubs wegen Spitalaufenthalts des Neugeborenen: während insgesamt höchstens 22 Wochen;
+- b<sup>bis</sup>.[^10-5] bei einer Verlängerung des Mutterschaftsurlaubs im Todesfall des anderen Elternteils: während insgesamt höchstens 16 Wochen;
+- b<sup>ter</sup>.[^10-6] bei einer Verlängerung des Mutterschaftsurlaubs im Falle eines Spitalaufenthalts des Neugeborenen und im Todesfall des anderen Elternteils: während insgesamt höchstens 24 Wochen;
+- c.[^10-7] bei einem Urlaub des anderen Elternteils: während höchstens 2 Wochen;
+- c<sup>bis</sup>.[^10-8] bei einer Verlängerung des Urlaubs des anderen Elternteils im Todesfall der Mutter: während insgesamt höchstens 16 Wochen;
+- c<sup>ter</sup>.[^10-9] bei einer Verlängerung des Urlaubs des anderen Elternteils im Todesfall der Mutter und im Falle eines Spitalaufenthalts des Neugeborenen: während insgesamt höchstens 24 Wochen;
 - d. bei einem Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes: während höchstens 14 Wochen;
 - e. bei einem Adoptionsurlaub: während 2 Wochen;
-- f. bei einem Jugendurlaub nach Artikel 329*e* Absatz 1 OR: während des Urlaubs.[^10-4]
+- f. bei einem Jugendurlaub nach Artikel 329*e* Absatz 1 OR: während des Urlaubs.[^10-10]
 
 <sup>3</sup> Stirbt der Arbeitnehmer oder die Arbeitnehmerin, so werden die Familienzulagen noch während des laufenden Monats und der drei darauf folgenden Monate ausgerichtet.
 
 [^10-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^10-2]: Eingefügt durch Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^10-3]: Eingefügt durch Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
-[^10-4]: Fassung gemäss Anhang Ziff. 2 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^10-4]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^10-5]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^10-6]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^10-7]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^10-8]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^10-9]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^10-10]: Fassung gemäss Anhang Ziff. 2 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 10a
 
@@ -317,15 +328,16 @@ Nicht als nichterwerbstätige Personen im Sinne des FamZG gelten:
 
 ### (Art. 19 Abs. 1ter FamZG)
 
-<sup>1</sup> Als arbeitslose Mütter gelten Frauen, die im Zeitpunkt der Geburt ihres Kindes die Voraussetzungen nach Artikel 29 der Verordnung vom 24. November 2004[^16a-2] zum Erwerbsersatzgesetz erfüllen.
+<sup>1</sup> Als arbeitslose Mütter gelten Frauen, die im Zeitpunkt der Geburt ihres Kindes die Voraussetzungen nach Artikel 29 der Erwerbsersatzverordnung vom 24. November 2004[^16a-2] erfüllen.[^16a-3]
 
-<sup>2</sup> Als Mutterschaftsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^16a-3] (EOG) gilt auch die von den Kantonen im Sinne von Artikel 16*h* EOG vorgesehene länger dauernde Mutterschaftsentschädigung.
+<sup>2</sup> Als Mutterschaftsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^16a-4] (EOG) gilt auch die von den Kantonen im Sinne von Artikel 16*h* EOG vorgesehene länger dauernde Mutterschaftsentschädigung.
 
 <sup>3</sup> Der Anspruch auf Familienzulagen für das Kind beginnt am ersten Tag des Monats, in dem das Kind geboren wurde.
 
 [^16a-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 [^16a-2]: [SR 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
-[^16a-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^16a-3]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^16a-4]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 #### Art. 17
 
@@ -377,15 +389,17 @@ Das Familienzulagenregister enthält die folgenden Daten:
 
 **Zugangsberechtigte Stellen**
 
-Die folgenden Stellen haben mittels Abrufverfahren Zugang zum Familienzulagenregister:
+Die folgenden Stellen haben Online-Zugriff auf das Familienzulagenregister:[^18b-1]
 
 - a. die Stellen nach Artikel 21*c* FamZG;
 - b. die schweizerischen Stellen, die für die Koordination der Familienzulagen im internationalen Verhältnis zuständig sind;
 - c. die kantonalen Behörden, welche die Aufsicht nach Artikel 17 Absatz 2 FamZG ausüben;
-- d. das BSV, soweit es Aufgaben nach Artikel 27 Absatz 2 FamZG und Artikel 72 Absatz 1 erster Satz AHVG erfüllt;
-- e. das Staatssekretariat für Wirtschaft, soweit es Aufgaben nach Artikel 83 Absatz 1 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^18b-1] erfüllt.
+- d.[^18b-2] das BSV, soweit es Aufgaben nach Artikel 27 Absatz 2 FamZG und Artikel 72*a* Absatz 2 Buchstabe c AHVG erfüllt;
+- e. das Staatssekretariat für Wirtschaft, soweit es Aufgaben nach Artikel 83 Absatz 1 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^18b-3] erfüllt.
 
-[^18b-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^18b-1]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^18b-2]: Fassung gemäss Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^18b-3]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 18c
 
@@ -460,6 +474,32 @@ Der Datenschutz und die Informationssicherheit richten sich nach:[^18h-2]
 <sup>1</sup> Die Daten des Familienzulagenregisters werden ab Ende des Monats, in dem der Anspruch auf die Familienzulage endet, fünf Jahre aufbewahrt; nach Ablauf dieser Frist werden sie dem Bundesarchiv zur Archivierung angeboten.
 
 <sup>2</sup> Die vom Bundesarchiv als nicht archivwürdig eingestuften Daten werden vernichtet.
+
+#### Art. 18j
+
+**Zugriff auf das Familienzulagenregister für andere Aufgaben**[^18j-1]
+
+<sup>1</sup>
+
+Soweit sie Aufgaben in Zusammenhang mit dem Betrieb des Informationssystems nach Artikel 21*a* EOG[^18j-2] erfüllt, hat die Zentrale Ausgleichsstelle Zugriff auf die folgenden Daten:
+
+- a. die AHV-Nummer und das Geburtsdatum des Kindes, das den Anspruch auf Familienzulagen begründet;
+- b. die AHV-Nummer der anspruchsberechtigten Person;
+- c. die Art der Familienzulagen;
+- d. den Beginn und das Ende des Anspruchs.
+
+<sup>2</sup>
+
+Die kantonalen Stellen nach Artikel 21*e**<sup>bis</sup>* FamZG haben Zugriff auf die folgenden Daten:
+
+- a. die AHV-Nummer des Kindes, das den Anspruch auf Familienzulagen begründet;
+- b. die AHV-Nummer der anspruchsberechtigten Person;
+- c. das Verhältnis des Kindes, das den Anspruch auf Familienzulagen begründet, zur anspruchsberechtigten Person;
+- d. die Art der Familienzulagen;
+- e. den Beginn und das Ende des Anspruchs.
+
+[^18j-1]: Eingefügt durch Anhang Ziff. 6 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^18j-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 ## 5. Abschnitt: Beschwerdebefugnis der Behörden
 

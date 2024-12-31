@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2007 sur les allocations familiales (OAFam)
 short: OAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20240101/fr"
 
 (OAFam)
 
-du 31 octobre 2007 (État le 1<sup>er</sup> janvier 2024)
+du 31 octobre 2007 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -58,12 +58,13 @@ arrête:
 L’allocation de naissance est versée:
 
 - a. si un droit aux allocations familiales existe selon la LAFam, et
-- b. si la mère a eu son domicile ou sa résidence habituelle au sens de l’art. 13 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales[^2-1] en Suisse durant les neuf mois précédant la naissance de l’enfant; si la naissance se produit avant terme, la durée requise du domicile ou de la résidence habituelle en Suisse est réduite conformément à l’art. 27 du règlement du 24 novembre 2004 sur les allocations pour perte de gain[^2-2].
+- b.[^2-1] si la mère a eu son domicile ou sa résidence habituelle au sens de l’art. 13 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales[^2-2] en Suisse durant les neuf mois précédant la naissance de l’enfant; si la naissance se produit avant terme, la durée requise du domicile ou de la résidence habituelle en Suisse est réduite conformément à l’art. 27 de l’ordonnance du 24 novembre 2004 sur les allocations pour perte de gain[^2-3].
 
 <sup>4</sup> Lorsque plusieurs personnes peuvent faire valoir un droit à l’allocation de naissance pour le même enfant, le droit à cette prestation appartient à la personne qui a droit aux allocations familiales pour cet enfant. Si l’allocation de naissance du second ayant droit est plus élevée, ce dernier a droit au versement de la différence.
 
-[^2-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^2-2]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
+[^2-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^2-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^2-3]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
 
 #### Art. 3
 
@@ -106,7 +107,7 @@ L’allocation d’adoption est versée:
 
 ### (art. 4, al.1, let. c, LAFam)
 
-- [tab] L’enfant recueilli donne droit aux allocations familiales si l’ayant droit assume gratuitement et de manière durable les frais d’entretien et d’éducation au sens de l’art. 49, al. 1, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^5-1].
+L’enfant recueilli donne droit aux allocations familiales si l’ayant droit assume gratuitement et de manière durable les frais d’entretien et d’éducation au sens de l’art. 49, al. 1, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^5-1].
 
 [^5-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
@@ -193,17 +194,26 @@ Le droit aux allocations familiales subsiste même sans droit légal au salaire:
 
 - a. lors d’un congé de maternité: pendant 16 semaines au maximum;
 - b. lors d’une prolongation du congé de maternité en raison d’une hospitalisation du nouveau-né: pendant une durée totale de 22 semaines au maximum;
-- c. lors d’un congé de paternité: pendant 2 semaines au maximum;
+- b<sup>bis</sup>.[^10-4] lors d’une prolongation du congé de maternité en cas de décès de l’autre parent: pendant une durée totale de 16 semaines au maximum;
+- b<sup>ter</sup>.[^10-5] lors d’une prolongation du congé de maternité en cas d’hospitalisation du nouveau-né et de décès de l’autre parent: pendant une durée totale de 24 semaines au maximum;
+- c.[^10-6] lors d’un congé de l’autre parent: pendant 2 semaines au maximum;
+- c<sup>bis</sup>.[^10-7] lors d’une prolongation du congé de l’autre parent en cas de décès de la mère: pendant une durée totale de 16 semaines au maximum;
+- c<sup>ter</sup>.[^10-8] lors d’une prolongation du congé de l’autre parent en cas de décès de la mère et d’hospitalisation du nouveau-né: pendant une durée totale de 24 semaines au maximum;
 - d. lors d’un congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident: pendant 14 semaines au maximum;
 - e. lors d’un congé d’adoption: pendant 2 semaines au maximum;
-- f. lors d’un congé pour activités de jeunesse en vertu de l’art. 329*e*, al. 1, CO: pendant la durée de ce congé.[^10-4]
+- f. lors d’un congé pour activités de jeunesse en vertu de l’art. 329*e*, al. 1, CO: pendant la durée de ce congé.[^10-9]
 
 <sup>3</sup> Si le salarié décède, les allocations familiales sont versées pendant le mois en cours et les trois mois suivants.
 
 [^10-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^10-2]: Introduit par le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^10-3]: Introduit par le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
-[^10-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^10-4]: Introduite par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^10-5]: Introduite par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^10-6]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1er janv. 2025 (RO 2024 719).
+[^10-7]: Introduite par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur de-puis le 1er janv. 2025 (RO 2024 719).
+[^10-8]: Introduite par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^10-9]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 10a
 
@@ -317,15 +327,16 @@ Ne sont pas considérées comme personnes sans activité lucrative au sens de la
 
 ### (art. 19, al. 1<sup>ter</sup>, LAFam)
 
-<sup>1</sup> Sont considérées comme mères au chômage les femmes qui, au moment de la naissance de leur enfant, remplissent les conditions de l’art. 29 du règlement du 24 novembre 2004 sur les allocations pour perte de gain[^16a-2].
+<sup>1</sup> Sont considérées comme mères au chômage les femmes qui, au moment de la naissance de leur enfant, remplissent les conditions de l’art. 29 de l’ordonnance du 24 novembre 2004 sur les allocations pour perte de gain[^16a-2].[^16a-3]
 
-<sup>2</sup> Est également considérée comme allocation de maternité selon la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain (LAPG)[^16a-3] l’allocation de maternité plus longue prévue par les cantons au sens de l’art. 16*h* LAPG.
+<sup>2</sup> Est également considérée comme allocation de maternité selon la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain (LAPG)[^16a-4] l’allocation de maternité plus longue prévue par les cantons au sens de l’art. 16*h* LAPG.
 
 <sup>3</sup> Le droit aux allocations familiales pour le nouveau-né commence le premier jour du mois de naissance de l’enfant.
 
 [^16a-1]: Introduit par le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 [^16a-2]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
-[^16a-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^16a-3]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^16a-4]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 #### Art. 17
 
@@ -377,15 +388,17 @@ Le registre des allocations familiales contient les données suivantes:
 
 **Services ayant accès au registre des allocations familiales**
 
-Les services suivants ont accès au registre des allocations familiales par une procédure d’appel:
+Les services suivants ont accès au registre des allocations familiales par une procédure d’appel:[^18b-1]
 
 - a. les services cités à l’art. 21*c* LAFam;
 - b. les services suisses compétents pour la coordination des allocations familiales dans les relations internationales;
 - c. les autorités cantonales pour l’exercice de leur fonction de surveillance selon l’art. 17, al. 2, LAFam;
-- d. l’OFAS, dans la mesure où il exécute les tâches prévues aux art. 27, al. 2, LAFam et 72, al. 1, première phrase, LAVS;
-- e. le Secrétariat d’état à l’économie, dans la mesure où il exécute les tâches prévues à l’art. 83, al. 1, de la loi sur l’assurance-chômage du 25 juin 1982[^18b-1].
+- d.[^18b-2] l’OFAS, lorsqu’il exécute les tâches prévues aux art. 27, al. 2, LAFam et 72*a*, al. 2, let. c, LAVS;
+- e. le Secrétariat d’état à l’économie, dans la mesure où il exécute les tâches prévues à l’art. 83, al. 1, de la loi sur l’assurance-chômage du 25 juin 1982[^18b-3].
 
-[^18b-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^18b-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^18b-2]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^18b-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 18c
 
@@ -460,6 +473,32 @@ La protection des données et la sécurité de l’information sont régies par 
 <sup>1</sup> Les données du registre des allocations familiales sont conservées pendant cinq ans à compter de la fin du mois au cours duquel le droit aux allocations familiales s’est éteint. À l’expiration de ce délai, elles sont proposées aux Archives fédérales.
 
 <sup>2</sup> Elles sont détruites si les Archives fédérales ne jugent pas leur archivage utile.
+
+#### Art. 18j
+
+**Accès au registre des allocations familiales pour d*’*autres tâches**[^18j-1]
+
+<sup>1</sup>
+
+Lorsqu’elle exécute des tâches relatives à l’exploitation du système d’information prévu à l’art. 21*a* LAPG[^18j-2], la Centrale de compensation a accès aux données suivantes:
+
+- a. le numéro AVS et la date de naissance de l’enfant donnant droit aux allocations familiales;
+- b. le numéro AVS de l’ayant droit;
+- c. le genre des allocations familiales;
+- d. le début et la fin du droit.
+
+<sup>2</sup>
+
+Les services cantonaux visés à l’art. 21*e*<sup>bis</sup> LAFam ont accès aux données suivantes:
+
+- a. le numéro AVS de l’enfant donnant droit aux allocations familiales;
+- b. le numéro AVS de l’ayant droit;
+- c. le lien de l’enfant donnant droit aux allocations familiales avec l’ayant droit;
+- d. le genre des allocations familiales;
+- e. le début et la fin du droit.
+
+[^18j-1]: Introduit par l’annexe ch. 6 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur de-puis le 1er janv. 2025 (RO 2024 719).
+[^18j-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 ## Section 5 Droit de recours des autorités
 
@@ -548,6 +587,6 @@ Annexe
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52).
