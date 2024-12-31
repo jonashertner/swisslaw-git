@@ -3,26 +3,24 @@ sr: "0.741.319.514"
 title: "Échange de notes du 3 novembre 2003 entre la Confédération suisse et la Principauté de Liechtenstein sur la couverture des dommages causés lors d'accidents de la circulation routière"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/26"
 language: fr
-version: 2019-10-01
+version: 2025-01-01
 adopted: 2003-11-03
 in_force: 2003-11-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/26/20191001/fr/xml/fedlex-data-admin-ch-eli-cc-2004-26-20191001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/26/20191001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/26/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-26-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/26/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Échange de notes du 3 novembre 2003
+# Échange de notes du 3 novembre 2003 entre la Confédération suisse et la Principauté de Liechtenstein sur la couverture des dommages causés lors d’accidents de la circulation routière
 
 RO **2004** 425
 
-entre la Confédération suisse et la Principauté de Liechtenstein sur la couverture des dommages causés lors d’accidents de la circulation routière
-
 Entré en vigueur le 3 novembre 2003
 
-(Etat le 1<sup>er</sup> octobre 2019)
+(État le 1<sup>er</sup> janvier 2025)
 
-Traduction*[^ingress-1]*
+Traduction
 
 <table>
 <tr><td>Ambassade de la Principauté de Liechtenstein</td><td>Berne, le 3 novembre 2003</td></tr>
@@ -35,10 +33,9 @@ L’Ambassade de la Principauté de Liechtenstein a l’honneur d’accuser réc
 
 «Le Département fédéral des affaires étrangères présente ses compliments à l’Ambassade de la Principauté de Liechtenstein et a l’honneur de lui présenter l’affaire suivante:
 
-Se fondant sur la volonté commune de la Suisse et de la Principauté de Liechtenstein d’exploiter des institutions communes pour couvrir la responsabilité des dommages causés par des véhicules étrangers, inconnus ou non assurés, ainsi que dans le domaine de la protection des victimes d’accidents de la circulation, le Conseil fédéral suisse propose au Gouvernement de la Principauté de Liechtenstein d’abroger l’échange de notes du 30 décembre 1981 entre la Confédération suisse et la Principauté de Liechtenstein sur la couverture des dommages lors d’accidents de la circulation[^ingress-2] et de le remplacer par la convention suivante concernant le Bureau national d’assurance et le Fonds national de garantie:
+Se fondant sur la volonté commune de la Suisse et de la Principauté de Liechtenstein d’exploiter des institutions communes pour couvrir la responsabilité des dommages causés par des véhicules étrangers, inconnus ou non assurés, ainsi que dans le domaine de la protection des victimes d’accidents de la circulation, le Conseil fédéral suisse propose au Gouvernement de la Principauté de Liechtenstein d’abroger l’échange de notes du 30 décembre 1981 entre la Confédération suisse et la Principauté de Liechtenstein sur la couverture des dommages lors d’accidents de la circulation[^ingress-1] et de le remplacer par la convention suivante concernant le Bureau national d’assurance et le Fonds national de garantie:
 
-[^ingress-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^ingress-2]: [[RO 1982 95](https://fedlex.data.admin.ch/eli/oc/1982/95_95_95)]
+[^ingress-1]: [[RO 1982 95](https://fedlex.data.admin.ch/eli/oc/1982/95_95_95)]
 
 #### Art. 1
 
@@ -48,17 +45,33 @@ Se fondant sur la volonté commune de la Suisse et de la Principauté de Liechte
 
 <sup>2</sup> Les entreprises d’assurance autorisées à exercer l’assurance responsabilité civile automobile dans la Principauté de Liechtenstein adhèrent en tant que membres à part entière au BNA et FNG.
 
-<sup>3</sup> Le BNA et le FNG ne gèrent pas séparément les affaires du Liechtenstein.
+<sup>3</sup> Le BNA et le FNG ne tiennent pas de comptes séparés pour les affaires du Liechtenstein et de la Suisse. Font exception les montants affectés à la constitution de provisions visant à couvrir l’insolvabilité ou la liquidation d’entreprises d’assurance autorisées à exercer l’assurance en responsabilité civile automobile. Ceux-ci sont imputés à la Principauté de Liechtenstein ou à la Suisse conformément à la clé de répartition visée à l’al. 5.[^1-1]
 
-4 Dans la mesure où elles possèdent un droit d’action directe contre le BNA et le FNG, les personnes domiciliées dans la Principauté de Liechtenstein bénéficient d’un for à leur lieu de domicile au Liechtenstein ainsi qu’au siège ou au lieu d’établissement du BNA ou du FNG, en plus de celui du lieu de l’accident.
+<sup>4</sup> Si les fonds collectés par le FNG conformément au mécanisme de perception des contributions en vigueur et provisionnés pour la Principauté de Liechtenstein ne sont pas suffisants pour financer les prétentions élevées à l’encontre du FNG dans le cadre de l’art. 72 de la loi liechtensteinoise du 30 juin 1978 sur la circulation routière (SVG; LR *741.01*/LGBl. 1978 Nr. 18), la Principauté de Liechtenstein paye la différence dans les meilleurs délais, en fonction des besoins. Ce principe ne s’applique qu’aux prétentions élevées à l’encontre du FNG à la suite de l’insolvabilité ou de la liquidation d’une entreprise d’assurance autorisée à exercer l’assurance en responsabilité civile automobile dans la Principauté de Liechtenstein. Les modalités sont réglées dans une convention conclue entre le Gouvernement de la Principauté de Liechtenstein et le FNG. La conclusion de ladite convention par le FNG doit être approuvée par les autorités de surveillance de ce dernier en Suisse.[^1-2]
 
-<sup>5</sup> Les modifications des statuts du BNA et du FNG sont soumises à l’autorisation de l’Office fédéral des routes et du Gouvernement de la Principauté de Liechtenstein.
+<sup>5</sup> Une clé de répartition établie en proportion des véhicules automobiles immatriculés dans les deux États est utilisée pour la constitution de provisions destinées à couvrir l’éventuelle insolvabilité ou liquidation d’entreprises d’assurance autorisées à exercer l’assurance en responsabilité civile automobile dans la Principauté de Liechtenstein. Les modalités sont réglées dans une convention conclue entre le Gouvernement de la Principauté de Liechtenstein et le FNG. La conclusion de ladite convention par le FNG doit être approuvée par les autorités de surveillance de ce dernier en Suisse.[^1-3]
 
-<sup>6</sup> L’autorité compétente selon le droit suisse tranche en cas de litiges entre le BNA et le FNG ou entre ceux-ci et leurs membres. Elle entend au préalable l’Autorité de surveillance du marché financier (Finanzmarktaufsicht) du Liechtenstein lorsque le litige concerne des entreprises d’assurance ayant leur siège dans un autre État de l’Espace économique européen et autorisées à exercer leur activité au Liechtenstein.[^1-1]
+<sup>6</sup>
 
-<sup>7</sup> Les accords conclus par le BNA et le FNG avec d’autres institutions actives dans le domaine de la couverture des dommages causées par des véhicules étrangers, inconnus ou non assurés, ou dans le domaine de la protection des victimes des accidents de la circulation, sont aussi valable pour la Principauté de Liechtenstein. L’autorisation accordée au BNA et au FNG de conclure de tels accords inclut la même autorisation de la part du Liechtenstein.
+Dans la mesure où les personnes domiciliées dans la Principauté de Liechtenstein possèdent un droit d’action directe contre le BNA et le FNG, la juridiction compétente pour les actions de ces dernières est celle:
 
-[^1-1]: Nouvelle teneur selon l’échange de notes des 22 déc. 2004/14 janv. 2005 ([RO 2005 1161](https://fedlex.data.admin.ch/eli/oc/2005/160)).
+- a. du lieu de l’accident;
+- b. du lieu de domicile du demandeur au Liechtenstein;
+- c. du siège ou du lieu d’établissement du BNA ou du FNG.[^1-4]
+
+<sup>7</sup> Les modifications des statuts du BNA et du FNG sont soumises à l’autorisation de l’Office fédéral des routes et du Gouvernement de la Principauté de Liechtenstein.[^1-5]
+
+<sup>8</sup> L’autorité compétente selon le droit suisse tranche en cas de litiges entre le BNA et le FNG ou entre ceux-ci et leurs membres. Elle entend au préalable l’Autorité de surveillance des marchés financiers (*Finanzmarktaufsicht*) du Liechtenstein lorsque le litige concerne des entreprises d’assurance ayant leur siège dans un autre État de l’Espace économique européen et autorisées à exercer leur activité au Liechtenstein.[^1-6]
+
+<sup>9</sup> Les accords conclus par le BNA et le FNG avec d’autres institutions actives dans le domaine de la couverture des dommages causées par des véhicules étrangers, inconnus ou non assurés, ou dans le domaine de la protection des victimes des accidents de la circulation, sont aussi valables pour la Principauté de Liechtenstein. L’autorisation accordée au BNA et au FNG de conclure de tels accords inclut la même autorisation de la part du Liechtenstein. Font exception les accords qui entrent dans le champ d’application de l’art. 72 de la loi liechtensteinoise du 30 juin 1978 sur la circulation routière (SVG; LR *741.01*/LGBl. 1978 Nr. 18). La conclusion de tels accords est soumise à l’autorisation du Gouvernement de la Principauté de Liechtenstein.[^1-7]
+
+[^1-1]: Nouvelle teneur selon l’échange de notes des 3 sept./17 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-2]: Nouvelle teneur selon l’échange de notes des 3 sept./17 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-3]: Nouvelle teneur selon l’échange de notes des 3 sept./17 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-4]: Nouvelle teneur selon l’échange de notes des 3 sept./17 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-5]: Nouvelle teneur selon l’échange de notes des 3 sept./17 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-6]: Introduit par l’échange de notes des 3 sept./17 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-7]: Introduit par l’échange de notes des 3 sept./17 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
 
 #### Art. 2
 

@@ -3,11 +3,11 @@ sr: "0.741.319.514"
 title: Notenaustausch vom 3. November 2003 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein über die Schadendeckung bei Strassenverkehrsunfällen
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/26"
 language: de
-version: 2019-10-01
+version: 2025-01-01
 adopted: 2003-11-03
 in_force: 2003-11-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/26/20191001/de/xml/fedlex-data-admin-ch-eli-cc-2004-26-20191001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/26/20191001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/26/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2004-26-20250101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/26/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein
 
 In Kraft getreten am 3. November 2003
 
-(Stand am 1. Oktober 2019)
+(Stand am 1. Januar 2025)
 
 Originaltext
 
@@ -48,17 +48,33 @@ Aufgrund des Bestrebens der Schweiz und des Fürstentums Liechtenstein, für die
 
 <sup>2</sup> Die im Fürstentum Liechtenstein zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassenen Versicherungsunternehmen treten dem NVB und dem NGF als gleichberechtigte Mitglieder bei.
 
-<sup>3</sup> Das NVB und der NGF führen für liechtensteinische Fälle keine eigene Rechnung.
+<sup>3</sup> Das NVB und der NGF führen für liechtensteinische und schweizerische Fälle keine getrennten Rechnungen. Davon ausgenommen sind jene Beträge, welche zur Äufnung von Rückstellungen zur Deckung von Insolvenzen oder Liquidationen von Versicherungsunternehmen, die zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassen sind, herangezogen werden. Diese werden nach dem Verteilschlüssel gemäss Absatz 5 dem Fürstentum Liechtenstein, beziehungsweise der Schweiz zugerechnet.[^1-1]
 
-<sup>4</sup> Soweit Personen mit Wohnsitz im Fürstentum Liechtenstein ein direktes Forderungsrecht gegenüber dem NVB und dem NGF haben, sind für Klagen dieser Personen gegen das NVB oder den NGF neben dem Gericht am Unfallort auch die Gerichte am liechtensteinischen Wohnsitz der klagenden Partei sowie am Sitz oder am Ort einer Zweigniederlassung des NVB oder des NGF zuständig.
+<sup>4</sup> Reichen die vom NGF nach geltendem Beitragserhebungsmechanismus erhobenen und für das Fürstentum Liechtenstein zurückgestellten Mittel nicht aus, um die gegen den NGF im Rahmen von Artikel 72 des liechtensteinischen Strassenverkehrsgesetzes vom 30. Juni 1978 (SVG; LR *741.01*/LGBl. 1978 Nr. 18) erhobenen Ansprüche zu finanzieren, kommt das Fürstentum Liechtenstein zeitnah und bedarfsgerecht für den Fehlbetrag auf. Dies gilt ausschliesslich für Ansprüche gegenüber dem NGF, die aus einer Insolvenz oder einer Liquidation eines im Fürstentum Liechtenstein zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassenen Versicherungsunternehmens entstehen. Die Einzelheiten werden in einer Vereinbarung zwischen der Regierung des Fürstentums Liechtenstein und dem NGF geregelt. Der Abschluss dieser Vereinbarung durch den NGF muss von dessen Aufsichtsbehörden in der Schweiz genehmigt werden.[^1-2]
 
-<sup>5</sup> Änderungen der Statuten des NVB und des NGF bedürfen der Genehmigung des schweizerischen Bundesamtes für Strassen und der Regierung des Fürstentums Liechtenstein.
+<sup>5</sup> Zur Äufnung von Rückstellungen für allfällige Insolvenzen oder Liquidationen von im Fürstentum Liechtenstein zum Betrieb der Motorfahrzeug-Haftpflichtversicherung zugelassenen Versicherungsunternehmen kommt ein Verteilschlüssel zur Anwendung, der dem Verhältnis der zugelassenen Motorfahrzeuge in beiden Staaten entspricht. Die Einzelheiten werden in einer Vereinbarung zwischen der Regierung des Fürstentums Liechtenstein und dem NGF geregelt. Der Abschluss dieser Vereinbarung durch den NGF muss von dessen Aufsichtsbehörden in der Schweiz genehmigt werden.[^1-3]
 
-<sup>6</sup> Streitigkeiten zwischen dem NVB und dem NGF oder zwischen diesen und ihren Mitgliedern entscheiden die nach schweizerischem Recht dafür zuständigen Behörden. Sind im Fürstentum Liechtenstein zugelassene Versicherungsunternehmen mit Sitz in einem Vertragsstaat des Europäischen Wirtschaftsraumes (EWR) betroffen, so hört die verfügende schweizerische Behörde vorgängig die liechtensteinische Finanzmarktaufsicht an.[^1-1]
+<sup>6</sup>
 
-<sup>7</sup> Vom NVB und vom NGF abgeschlossene Abkommen mit anderen Institutionen, die im Bereich der Deckung der Haftung von Schäden, die durch ausländische, unbekannte oder nichtversicherte Fahrzeuge verursacht worden sind, oder im Bereich des Verkehrsopferschutzes tätig sind, gelten auch für das Fürstentum Liechtenstein. Die Ermächtigung an das NVB und den NGF zum Abschluss solcher Abkommen schliesst die Ermächtigung seitens des Fürstentums Liechtenstein ein.
+Soweit Personen mit Wohnsitz im Fürstentum Liechtenstein ein direktes Forderungsrecht gegenüber dem NVB und dem NGF haben, sind für Klagen dieser Personen gegen das NVB oder den NGF zuständig:
 
-[^1-1]: Fassung gemäss Notenaustausch vom 22. Dez. 2004/14. Jan. 2005 ([AS 2005 1161](https://fedlex.data.admin.ch/eli/oc/2005/160)).
+- a. das Gericht am Unfallort;
+- b. die Gerichte am liechtensteinischen Wohnsitz der klagenden Partei;
+- c. die Gerichte am Sitz oder am Ort einer Zweigniederlassung des NVB beziehungsweise des NGF.[^1-4]
+
+<sup>7</sup> Änderungen der Statuten des NVB und des NGF bedürfen der Genehmigung des schweizerischen Bundesamtes für Strassen und der Regierung des Fürstentums Liechtenstein.[^1-5]
+
+<sup>8</sup> Streitigkeiten zwischen dem NVB und dem NGF oder zwischen diesen und ihren Mitgliedern entscheiden die nach schweizerischem Recht dafür zuständigen Behörden. Sind im Fürstentum Liechtenstein zugelassene Versicherungsunternehmen mit Sitz in einem Vertragsstaat des Europäischen Wirtschaftsraumes betroffen, so hört die zuständige schweizerische Behörde vorgängig die liechtensteinische Finanzmarktaufsicht an.[^1-6]
+
+<sup>9</sup> Vom NVB und vom NGF abgeschlossene Abkommen mit anderen Institutionen, die im Bereich der Deckung der Haftung von Schäden, die durch ausländische, unbekannte oder nichtversicherte Fahrzeuge verursacht worden sind, oder im Bereich des Verkehrsopferschutzes tätig sind, gelten auch für das Fürstentum Liechtenstein. Die Ermächtigung an das NVB und den NGF zum Abschluss solcher Abkommen schliesst die Ermächtigung seitens des Fürstentums Liechtenstein ein. Davon ausgenommen sind Abkommen, welche in den Anwendungsbereich von Artikel 72 des liechtensteinischen Strassenverkehrsgesetzes vom 30. Juni 1978 (SVG; LR *741.01*/LGBl. 1978 Nr. 18) fallen. Der Abschluss solcher Abkommen untersteht der Genehmigung durch die Regierung des Fürstentums Liechtenstein.[^1-7]
+
+[^1-1]: Fassung gemäss Notenaustausch vom 3. Sept. / 17. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-2]: Fassung gemäss Notenaustausch vom 3. Sept. / 17. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-3]: Fassung gemäss Notenaustausch vom 3. Sept. / 17. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-4]: Fassung gemäss Notenaustausch vom 3. Sept. / 17. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-5]: Fassung gemäss Notenaustausch vom 3. Sept. / 17. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-6]: Eingefügt durch Notenaustausch vom 3. Sept. / 17. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-7]: Eingefügt durch Notenaustausch vom 3. Sept. / 17. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
 
 #### Art. 2
 

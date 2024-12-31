@@ -3,11 +3,11 @@ sr: "0.741.319.514"
 title: Scambio di note del 3 novembre 2003 tra la Svizzera e il Principato del Liechtenstein sulla copertura dei danni in caso di incidenti della circolazione stradale
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/26"
 language: it
-version: 2019-10-01
+version: 2025-01-01
 adopted: 2003-11-03
 in_force: 2003-11-03
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/26/20191001/it/xml/fedlex-data-admin-ch-eli-cc-2004-26-20191001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/26/20191001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/26/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2004-26-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/26/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2003** 425
 
 Entrato in vigore il 3 novembre 2003
 
-(Stato 1° ottobre 2019)
+(Stato 1° gennaio 2025)
 
 Traduzione
 
@@ -45,18 +45,34 @@ Sul fondamento degli sforzi intrapresi dalla Svizzera e dal Principato del Liech
 
 <sup>2</sup> Le compagnie di assicurazione ammesse a esercitare nel Principato del Liechtenstein un’assicurazione di responsabilità civile per i veicoli a motore diventano membri a uguali diritti dell’UNA e del FNG.
 
-<sup>3</sup> L’UNA e il FNG non tengono un conteggio separato per i casi riguardanti il Liechtenstein.
+<sup>3</sup> L’UNA e il FNG non tengono conteggi separati per i casi riguardanti la Svizzera e il Liechtenstein. Sono esclusi gli importi destinati a costituire accantonamenti per la copertura di insolvenze o liquidazioni di compagnie di assicurazione ammesse a esercitare l’assicurazione di responsabilità civile per i veicoli a motore. Tali importi sono attribuiti al Liechtenstein o alla Svizzera secondo la chiave di ripartizione di cui al capoverso 5.[^1-2]
 
-<sup>4</sup> Nella misura in cui le persone domiciliate nel Principato del Liechtenstein hanno un diritto di azione diretta nei confronti dell’UNA o del FNG, per le azioni di queste persone contro l’UNA e il FNG sono competenti, oltre ai tribunali del luogo del sinistro, anche quelli del domicilio nel Liechtenstein dell’attore nonché della sede o del luogo di una delle succursali dell’UNA o del FNG.
+<sup>4</sup> Se i fondi riscossi dal FNG secondo il vigente meccanismo di riscossione dei contributi e accantonati per il Liechtenstein non sono sufficienti a finanziare le pretese avanzate contro il FNG nel quadro dell’articolo 72 della legge del 30 giugno 1978 sulla circolazione stradale del Liechtenstein (SVG; LR *741.01*/LGBl. 1978 n. 18), il Liechtenstein si fa prontamente carico dell’importo mancante. Ciò vale soltanto per pretese nei confronti del FNG in caso di insolvenza o liquidazione di una compagnia di assicurazione ammessa a esercitare l’assicurazione di responsabilità civile per i veicoli a motore nel Liechtenstein. I dettagli sono disciplinati in una convenzione tra il Governo del Principato del Liechtenstein e il FNG. La conclusione di tale convenzione da parte del FNG deve essere approvata dalle preposte autorità di vigilanza in Svizzera.[^1-3]
 
-<sup>5</sup> Le modifiche degli statuti dell’UNA e del FNG necessitano l’approvazione dell’Ufficio federale svizzero delle strade e del Governo del Principato del Liechtenstein.
+<sup>5</sup> Per costituire accantonamenti per eventuali insolvenze o liquidazioni di compagnie di assicurazione ammesse a esercitare l’assicurazione di responsabilità civile per i veicoli a motore nel Liechtenstein si applica una chiave di ripartizione proporzionale al numero di veicoli a motore immatricolati in ciascuno Stato. I dettagli sono disciplinati in una convenzione tra il Governo del Principato del Liechtenstein e il FNG. La conclusione di tale convenzione da parte del FNG deve essere approvata dalle preposte autorità di vigilanza in Svizzera.[^1-4]
 
-<sup>6</sup> Le vertenze tra l’UNA e il FNG o tra questi e i loro membri sono risolte dalle autorità competenti secondo il diritto svizzero. Se sono coinvolte compagnie d’assicurazione ammesse nel Principato del Liechtenstein che hanno sede in uno Stato parte dello Spazio economico europeo (SEE), l’autorità svizzera disponente sente previamente l’Autorità di sorveglianza del mercato finanziario (Finanzmarktaufsicht) del Liechtenstein.[^1-2]
+<sup>6</sup>
 
-<sup>7</sup> I trattati conclusi dall’UNA o dal FNG con altre istituzioni attive nell’ambito della responsabilità per danni causati da veicoli stranieri, sconosciuti o non assicurati oppure nell’ambito della protezione delle vittime della circolazione stradale valgono anche per il Principato del Liechtenstein. L’autorizzazione accordata all’UNA e al FNG a concludere tali trattati include l’autorizzazione da parte del Principato del Liechtenstein.
+Per le azioni contro l’UNA e il FNG di persone domiciliate nel Liechtenstein aventi diritto di azione diretta nei confronti dell’UNA o del FNG sono competenti:
+
+- a. il tribunale del luogo del sinistro;
+- b. i tribunali del domicilio nel Liechtenstein dell’attore;
+- c. i tribunali della sede o del luogo di una delle succursali dell’UNA o del FNG.[^1-5]
+
+<sup>7</sup> Le modifiche degli statuti dell’UNA e del FNG necessitano l’approvazione dell’Ufficio federale svizzero delle strade e del Governo del Principato del Liechtenstein.[^1-6]
+
+<sup>8</sup> Le vertenze tra l’UNA e il FNG o tra questi e i loro membri sono risolte dalle autorità competenti secondo il diritto svizzero. Se sono coinvolte compagnie di assicurazione ammesse nel Principato del Liechtenstein che hanno sede in uno Stato parte dello Spazio economico europeo (SEE), l’autorità svizzera competente sente previamente l’autorità di vigilanza sui mercati finanziari del Liechtenstein.[^1-7]
+
+<sup>9</sup> I trattati conclusi dall’UNA o dal FNG con altre istituzioni attive nell’ambito della responsabilità per danni causati da veicoli stranieri, sconosciuti o non assicurati oppure nell’ambito della protezione delle vittime della circolazione stradale si applicano anche al Principato del Liechtenstein. L’autorizzazione accordata all’UNA e al FNG a concludere tali trattati include l’autorizzazione da parte del Principato del Liechtenstein. Sono esclusi i trattati rientranti nel campo di applicazione dell’articolo 72 della legge del 30 giugno 1978 sulla circolazione stradale del Liechtenstein (SVG; LR *741.01*/LGBl. 1978 n. 18). La conclusione di tali trattati è soggetta all’approvazione del Governo del Principato del Liechtenstein.[^1-8]
 
 [^1-1]: Ora: Autorità federale di vigilanza sui mercati finanziari.
-[^1-2]: Nuovo testo giusta lo scambio di note dei 22 dic. 2004/14 gen. 2005, in vigore dal 14 gen. 2005 con effetto retroattivo al 1° gen. 2005 ([RU 2005 1161](https://fedlex.data.admin.ch/eli/oc/2005/160)).
+[^1-2]: Nuovo testo giusta lo scambio di note dei 3 set./17 dic. 2024, in vigore dal 1° gen. 2025 ([RU 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-3]: Nuovo testo giusta lo scambio di note dei 3 set./17 dic. 2024, in vigore dal 1° gen. 2025 ([RU 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-4]: Nuovo testo giusta lo scambio di note dei 3 set./17 dic. 2024, in vigore dal 1° gen. 2025 ([RU 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-5]: Nuovo testo giusta lo scambio di note dei 3 set./17 dic. 2024, in vigore dal 1° gen. 2025 ([RU 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-6]: Nuovo testo giusta lo scambio di note dei 3 set./17 dic. 2024, in vigore dal 1° gen. 2025 ([RU 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-7]: Introdotto dallo scambio di note dei 3 set./17 dic. 2024, in vigore dal 1° gen. 2025 ([RU 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
+[^1-8]: Introdotto dallo scambio di note dei 3 set./17 dic. 2024, in vigore dal 1° gen. 2025 ([RU 2025 7](https://fedlex.data.admin.ch/eli/oc/2025/7)).
 
 #### Art. 2
 
@@ -82,7 +98,7 @@ Sul fondamento degli sforzi intrapresi dalla Svizzera e dal Principato del Liech
 
 <sup>2</sup> Il Controllo federale dei veicoli fornisce secondo le disposizioni del diritto svizzero all’UNA o al FNG i dati necessari all’adempimento dei loro compiti o rende possibile la consultazione dei medesimi mediante supporto elettronico.
 
-[^4-1]: Nuova denominazione giusta la comunicazione del Principato del Liechtenstein del 13 dic. 2019, in vigore dal 1° ott. 2019 ([RU 2020 143](https://fedlex.data.admin.ch/eli/oc/2020/24)).
+[^4-1]: Nuova denominazione giusta la comunicazione del Principato del Liechtenstein del 1 3 dic. 2019, in vigore dal 1° ott. 2019 ([RU 2020 143](https://fedlex.data.admin.ch/eli/oc/2020/24)).
 
 #### Art. 5
 
