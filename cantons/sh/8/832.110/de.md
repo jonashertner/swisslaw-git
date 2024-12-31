@@ -3,43 +3,45 @@ canton: SH
 number: "832.110"
 title: Dekret über den Vollzug des Krankenversicherungsgesetzes
 language: de
-version: 2024-01-01
-corrected: 2024-06-16
-version_adopted: 2023-12-04
+version: 2025-01-01
+version_adopted: 2024-12-02
 adopted: 1996-06-10
 in_force: 1996-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/832.110"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/80/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1927/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über den Vollzug des Krankenversicherungsgesetzes
 
-vom 10. Juni 1996
+Vom 10.06.1996 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Schaffhausen
 
-gestützt auf das kantonale Krankenversicherungsgesetz vom 19. Dezember 1994 <sup>1)</sup>,
+gestützt auf das kantonale Krankenversicherungsgesetz vom 19. Dezember 1994[^ingress-1],
 
 beschliesst:
 
-### I. Allgemeine Bestimmungen
+[^ingress-1]: SHR [832.100](https://rechtsbuch.sh.ch/data/832.100/de).
+
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Grundsatz**
 
-<sup>1</sup> Dieses Dekret regelt den Vollzug des Bundesgesetzes über die Krankenversicherung (KVG) <sup>2)</sup>, insbesondere die Umsetzung von Versicherungspflicht und Prämienverbilligung.
+<sup>1</sup> Dieses Dekret regelt den Vollzug des Bundesgesetzes über die Krankenversicherung (KVG)[^1-1], insbesondere die Umsetzung von Versicherungspflicht und Prämienverbilligung.
 
 <sup>2</sup> Der Regierungsrat kann weitere ergänzende Vorschriften erlassen.
+
+[^1-1]: SR [832.10](http://db.clex.ch/link/Bund/832.10/de).
 
 #### § 2
 
 **Information**
 
-Der Kanton sorgt unter Mitwirkung der Gemeinden für die Information der Bevölkerung bezüglich Versicherungspflicht und Prämienverbilligung.
+<sup>1</sup> Der Kanton sorgt unter Mitwirkung der Gemeinden für die Information der Bevölkerung bezüglich Versicherungspflicht und Prämienverbilligung.
 
 #### § 3
 
@@ -47,17 +49,13 @@ Der Kanton sorgt unter Mitwirkung der Gemeinden für die Information der Bevölk
 
 <sup>1</sup> Die Verwaltungs- und Rechtspflegeorgane des Kantons und der Gemeinden sowie die Versicherer haben den zuständigen Organen kostenlos die für den Vollzug dieses Dekretes erforderlichen Auskünfte zu erteilen und die nötigen Unterlagen einzureichen.
 
-<sup>2</sup> Personen, die Anspruch auf Prämienverbilligung erheben, ihre gesetzlichen oder bevollmächtigten Vertreter sowie Stellen oder
+<sup>2</sup> Personen, die Anspruch auf Prämienverbilligung erheben, ihre gesetzlichen oder bevollmächtigten Vertreter sowie Stellen oder Personen, die anspruchsberechtigte Personen unterstützen, haben den zuständigen Organen die erforderlichen Auskünfte wahrheitsgetreu zu erteilen, nötigenfalls zu belegen und eingetretene Änderungen mitzuteilen. Soweit erforderlich haben sie Behörden und Institutionen zur Auskunftserteilung zu ermächtigen.
 
-Amtsblatt 1996, S. 797. Personen, die anspruchsberechtigte Personen unterstützen, haben den zuständigen Organen die erforderlichen Auskünfte wahrheitsgetreu zu erteilen, nötigenfalls zu belegen und eingetretene Änderungen mitzuteilen. Soweit erforderlich haben sie Behörden und Institutionen zur Auskunftserteilung zu ermächtigen.
+<sup>3</sup> Alle Personen, die mit dem Vollzug des Versicherungsobligatoriums und der Prämienverbilligung betraut sind, haben über ihre dabei gemachten Wahrnehmungen Verschwiegenheit zu bewahren; die Bestimmungen des Bundesgesetzes über die Alters- und Hinterlassenenversicherung zur Schweigepflicht und zur Datenbekanntgabe sind sinngemäss anwendbar.
 
-<sup>3</sup> Alle Personen, die mit dem Vollzug des Versicherungsobligatoriums und der Prämienverbilligung betraut sind, haben über ihre dabei gemachten Wahrnehmungen Verschwiegenheit zu bewahren; die Bestimmungen des Bundesgesetzes über die Alters- und Hinterlassenenversicherung zur Schweigepflicht und zur Datenbekanntgabe sind sinngemäss anwendbar. <sup>6)</sup>
-
-### II. Versicherungspflicht
+## 2 Versicherungspflicht
 
 #### § 4
-
-<sup>6)</sup>
 
 **Kontrolle**
 
@@ -79,41 +77,41 @@ Amtsblatt 1996, S. 797. Personen, die anspruchsberechtigte Personen unterstütze
 
 **Befreiung von der Versicherungspflicht**
 
-Personen, die bei einem ausländischen Versicherer über einen gleichwertigen Versicherungsschutz für Behandlungen in der Schweiz verfügen, können im Rahmen der bundesrechtlichen Vorgaben auf Gesuch hin von der Versicherungspflicht befreit werden.
+<sup>1</sup> Personen, die bei einem ausländischen Versicherer über einen gleichwertigen Versicherungsschutz für Behandlungen in der Schweiz verfügen, können im Rahmen der bundesrechtlichen Vorgaben auf Gesuch hin von der Versicherungspflicht befreit werden.
 
 #### § 7
 
-<sup>6)</sup>
-
 **Zuweisung zu einem Versicherer**
 
-Die gemäss § 4 zuständigen Stellen weisen Personen, die ihrer Versicherungspflicht nicht nachkommen, sowie Personen, welche den Versicherungsnachweis nach erfolgter einmaliger Mahnung nicht innert eines Monats erbringen, einem Versicherer zu.
+<sup>1</sup> Die gemäss § 4 zuständigen Stellen weisen Personen, die ihrer Versicherungspflicht nicht nachkommen, sowie Personen, welche den Versicherungsnachweis nach erfolgter einmaliger Mahnung nicht innert eines Monats erbringen, einem Versicherer zu.
 
-### III. Prämienverbilligung
+## 3 Prämienverbilligung
 
 #### § 8
 
 **Zuständigkeit**
 
-<sup>1</sup> Die AHV-Ausgleichskasse des Kantons Schaffhausen führt die Prämienverbilligung als übertragene Aufgaben gemäss Art. 63 Abs. 4 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung <sup>3)</sup> durch.
+<sup>1</sup> Die AHV-Ausgleichskasse des Kantons Schaffhausen führt die Prämienverbilligung als übertragene Aufgaben gemäss Art. 63 Abs. 4 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung[^8-1] durch.
 
 <sup>2</sup> Die Gemeinden bezeichnen die Stellen, die unter Aufsicht und nach Weisung der AHV-Ausgleichskasse alle Aufgaben wahrnehmen, die den Gemeinden nach diesem Dekret übertragen sind.
 
-<sup>3</sup> … <sup>13)</sup>
+<sup>3</sup> …
 
 <sup>4</sup> Der Regierungsrat regelt die Aufsicht sowie die Einzelheiten des Vollzuges auf dem Verordnungswege.
 
+[^8-1]: SR [831.10](http://db.clex.ch/link/Bund/831.10/de).
+
 #### § 8a
 
-<sup>17)</sup>
+**…**
 
 #### § 9
 
 **Persönliche Voraussetzungen**
 
-<sup>1</sup> Anspruch auf Prämienverbilligung haben Personen mit steuerrechtlichem Wohnsitz im Kanton, die durch die Prämien der obligatorischen Krankenversicherung stark belastet sind, sowie analog belastete Personen gemäss Art. 65a KVG, welche der Versicherungspflicht gemäss KVG unterliegen und einem vom Bund anerkannten Versicherer angehören. <sup>6)</sup>
+<sup>1</sup> Anspruch auf Prämienverbilligung haben Personen mit steuerrechtlichem Wohnsitz im Kanton, die durch die Prämien der obligatorischen Krankenversicherung stark belastet sind, sowie analog belastete Personen gemäss Art. 65a KVG, welche der Versicherungspflicht gemäss KVG unterliegen und einem vom Bund anerkannten Versicherer angehören.
 
-<sup>2</sup> Gemeinsam besteuerte Personen haben einen gemeinschaftlichen Anspruch. Kinder und Jugendliche bis zum vollendeten 20. Altersjahr haben in der Regel einen gemeinschaftlichen Anspruch mit den Eltern. In begründeten Fällen, insbesondere bei nachgewiesener wirtschaftlicher Unabhängigkeit von den Eltern, kann ab dem vollendeten 18. Altersjahr ein eigener Anspruch geltend gemacht werden. <sup>8)</sup>
+<sup>2</sup> Gemeinsam besteuerte Personen haben einen gemeinschaftlichen Anspruch. Kinder und Jugendliche bis zum vollendeten 20. Altersjahr haben in der Regel einen gemeinschaftlichen Anspruch mit den Eltern. In begründeten Fällen, insbesondere bei nachgewiesener wirtschaftlicher Unabhängigkeit von den Eltern, kann ab dem vollendeten 18. Altersjahr ein eigener Anspruch geltend gemacht werden.
 
 <sup>3</sup> Für die Berechtigung massgeblich sind in der Regel die persönlichen Verhältnisse am 1. Januar des Jahres, für welches die Prämienverbilligung beansprucht wird. In besonderen Fällen, insbesondere bei Beitragsberechtigten im Sinne von § 19 und § 20, kann ein anderer Stichtag als massgeblich anerkannt werden.
 
@@ -121,23 +119,18 @@ Die gemäss § 4 zuständigen Stellen weisen Personen, die ihrer Versicherungspf
 
 #### § 10
 
-<sup>18)</sup>
-
 **Wirtschaftliche Voraussetzungen**
 
-Ein Anspruch auf Prämienverbilligung kann geltend gemacht werden, wenn die anrechenbaren Prämien der obligatorischen Krankenpflegeversicherung 15 % des anrechenbaren Einkommens übersteigen (Art. 1 Abs. 2 Krankenversicherungsgesetz).
+<sup>1</sup> Ein Anspruch auf Prämienverbilligung kann geltend gemacht werden, wenn die anrechenbaren Prämien der obligatorischen Krankenpflegeversicherung 15% des anrechenbaren Einkommens übersteigen (Art. 1 Abs. 2 Krankenversicherungsgesetz).
 
 #### § 11
-
-<sup>18)</sup>
 
 **Anrechenbare Prämien**
 
 <sup>1</sup> Die anrechenbaren Prämien entsprechen den folgenden Anteilen der vom Bund für die Ergänzungsleistungen zur AHV / IV im Kanton Schaffhausen festgelegten Durchschnittsprämien:
 
-- a) 85 % der Durchschnittsprämien bei Personen ab dem 26. Altersjahr sowie bei Kindern bis zum vollendeten 18. Altersjahr;
-
-- b) 75 % der Durchschnittsprämien bei Personen vom 19. bis zum vollendeten 25. Altersjahr.
+- a) 85% der Durchschnittsprämien bei Personen ab dem 26. Altersjahr sowie bei Kindern bis zum vollendeten 18. Altersjahr
+- b) 75% der Durchschnittsprämien bei Personen vom 19. bis zum vollendeten 25. Altersjahr
 
 #### § 12
 
@@ -145,21 +138,19 @@ Ein Anspruch auf Prämienverbilligung kann geltend gemacht werden, wenn die anre
 
 <sup>1</sup> Als anrechenbares Einkommen gilt das Reineinkommen nach kantonalem Steuerrecht, korrigiert um die nachfolgenden Elemente:
 
-- a) Grund-Abzug Fr. 9'000 bei Haushalten mit Kindern bis zum vollendeten 20. Altersjahr, die mit den Eltern einen gemeinschaftlichen Anspruch haben, bzw. Fr. 4'500 bei den übrigen Haushalten; <sup>22)</sup>
+- a) Grund-Abzug Fr. 9'000.00 bei Haushalten mit Kindern bis zum vollendeten 20. Altersjahr, die mit den Eltern einen gemeinschaftlichen Anspruch haben, bzw. Fr. 4'500.00 bei den übrigen Haushalten
+- b) Entlastungsabzug gemäss Art. 37 Abs. 1 Bst. d des kantonalen Steuergesetzes[^12-1] (einheitliche Anwendung der Ansätze gemäss Ziff. 1 auch für Nicht-Rentner, Anrechnung der Ansätze für Paare auch für Alleinerziehende)
+- c) Zuschlag 15% des nach kantonalem Recht steuerpflichtigen Vermögens
+- d) Aufrechnung allfälliger Negativsaldi der Einkünfte aus Grundeigentum, wenn die Gesamtkosten für Unterhalt und Verwaltung von Grundeigentum die Brutto-Mieterträge übersteigen
+- e) Aufrechnung allfälliger Abzüge für Einlagen in die gebundene Selbstvorsorge sowie für Zuwendungen an gemeinnützige Organisationen und politische Parteien
 
-- b) Entlastungsabzug gemäss Art. 37 Abs. 1 Bst. d des kantonalen Steuergesetzes <sup>16)</sup> (einheitliche Anwendung der Ansätze gemäss Ziffer 1 auch für Nicht-Rentner, Anrechnung der Ansätze für Paare auch für Alleinerziehende);
+<sup>2</sup> Massgebend sind die definitiven Steuerwerte für das zweite dem Zahlungsjahr vorangehende Jahr.
 
-- c) <sup>18)</sup> Zuschlag 15 % des nach kantonalem Recht steuerpflichtigen Vermögens;
+<sup>3</sup> Liegen zum Zeitpunkt der Beitragsberechnung die Werte gemäss Abs. 2 nicht vor, wird auf die letzten verfügbaren provisorischen Werte abgestellt.
 
-- d) Aufrechnung allfälliger Negativsaldi der Einkünfte aus Grundeigentum, wenn die Gesamtkosten für Unterhalt und Verwaltung von Grundeigentum die Brutto-Mieterträge übersteigen;
+<sup>4</sup> Bei Personen, denen Beiträge aufgrund provisorischer Steuerdaten zugesprochen wurden, erfolgen von Amtes wegen Rückforderungen bzw. Nachzahlungen, wenn die später festgelegten definitiven Steuerdaten abweichen.
 
-- e) Aufrechnung allfälliger Abzüge für Einlagen in die gebundene Selbstvorsorge sowie für Zuwendungen an gemeinnützige Organisationen und politische Parteien.
-
-<sup>2</sup> Massgebend sind die definitiven Steuerwerte für das zweite dem Zahlungsjahr vorangehende Jahr. <sup>22)</sup>
-
-<sup>3</sup> Liegen zum Zeitpunkt der Beitragsberechnung die Werte gemäss Absatz 2 nicht vor, wird auf die letzten verfügbaren provisorischen Werte abgestellt. <sup>22)</sup>
-
-<sup>4</sup> Bei Personen, denen Beiträge aufgrund provisorischer Steuerdaten zugesprochen wurden, erfolgen von Amtes wegen Rückforderungen bzw. Nachzahlungen, wenn die später festgelegten definitiven Steuerdaten abweichen. <sup>22)</sup>
+[^12-1]: SHR [641.100](https://rechtsbuch.sh.ch/data/641.100/de).
 
 #### § 13
 
@@ -167,37 +158,33 @@ Ein Anspruch auf Prämienverbilligung kann geltend gemacht werden, wenn die anre
 
 <sup>1</sup> Die Höhe der Beiträge entspricht der Differenz zwischen den anrechenbaren Prämien und dem gemäss § 10 massgeblichen Prozentsatz des anrechenbaren Einkommens.
 
-<sup>2</sup> Beträgt die Differenz weniger als 100 Franken, wird kein Betrag ausbezahlt <sup>15)</sup>
+<sup>2</sup> Beträgt die Differenz weniger als Fr. 100.00, wird kein Betrag ausbezahlt.
 
-<sup>3</sup> Unter Vorbehalt von § 19 werden maximal 65 Prozent der anrechenbaren Prämien erstattet. <sup>15)</sup>
+<sup>3</sup> Unter Vorbehalt von § 19 werden maximal 65 Prozent der anrechenbaren Prämien erstattet.
 
 <sup>4</sup> Auf Leistungen, die nach diesem Dekret ausgerichtet werden, sind weder Vergütungs- noch Verzugszinsen geschuldet.
 
 #### § 13bis
 
-<sup>19)</sup>
-
 **Mindestanspruch nach KVG**
 
-<sup>1</sup> Bei Haushalten mit Kindern wird der ihnen zustehende Betrag primär zur Deckung der Mindestansprüche der Kinder und der jungen Erwachsenen in Ausbildung gemäss Art. 65 Abs. 1bis KVG eingesetzt. Die verbleibenden Mittel werden anteilig entsprechend der Höhe der anrechenbaren Prämie auf die mitbetroffenen Angehörigen des Haushalts verteilt.
+<sup>1</sup> Bei Haushalten mit Kindern wird der ihnen zustehende Betrag primär zur Deckung der Mindestansprüche der Kinder und der jungen Erwachsenen in Ausbildung gemäss Art. 65 Abs. 1<sup>bis</sup> KVG eingesetzt. Die verbleibenden Mittel werden anteilig entsprechend der Höhe der anrechenbaren Prämie auf die mitbetroffenen Angehörigen des Haushalts verteilt.
 
-<sup>2</sup> Wird der Mindestanspruch eines Kindes bzw. eines oder einer jungen Erwachsenen in Ausbildung gemäss Art. 65 Abs. 1bis KVG nach Abzug des Selbstbehalts noch nicht eingehalten, wird die Prämienverbilligung dieses Haushalts entsprechend erhöht.
+<sup>2</sup> Wird der Mindestanspruch eines Kindes bzw. eines oder einer jungen Erwachsenen in Ausbildung gemäss Art. 65 Abs. 1<sup>bis</sup> KVG nach Abzug des Selbstbehalts noch nicht eingehalten, wird die Prämienverbilligung dieses Haushalts entsprechend erhöht.
 
 #### § 14
 
-<sup>8)</sup>
-
 **Ermittlung der Beitragsberechtigung**
 
-<sup>1</sup> Die kantonale Steuerbehörde stellt der AHV-Ausgleichskasse die zur Ermittlung der Beitragsberechtigung benötigten Steuer- und Personendaten derjenigen Personen, die nach ihrem Kenntnisstand Anspruch auf Prämienverbilligung haben, zur Verfügung. So weit erforderlich kann sie dazu andere betroffenen Stellen des Kantons und der Gemeinden heranziehen.
+<sup>1</sup> Die AHV-Ausgleichskasse bezieht von der kantonalen Steuerverwaltung die zur Ermittlung der Beitragsberechtigten benötigten Steuer- und Personendaten.
 
-<sup>2</sup> Die AHV-Ausgleichskasse prüft und bearbeitet diese Daten und ermittelt die Höhe der Beiträge. Sie nimmt bei Bedarf zusätzliche Abklärungen vor und fordert bei den Versicherten die für die Auszahlung erforderlichen Angaben ein.
+<sup>1<sup>bis</sup></sup> Von der Bekanntgabe ausgenommen sind Daten, wenn der Anspruch einer Person auf Prämienverbilligung aufgrund ihrer Einkommens- und Vermögensverhältnisse ausser Betracht fällt, wobei der Regierungsrat den Schwellenwert festlegt, der gewährleistet, dass alle, die einen möglichen Anspruch auf Prämienverbilligung haben, ein Antragsformular zugestellt erhalten.
 
-<sup>3</sup> Werden die für die Berechnung bzw. die Auszahlung der Beiträge erforderlichen Angaben durch die Versicherten nicht innert der angesetzten Frist eingereicht, so ist der Anspruch verwirkt.
+<sup>2</sup> Die AHV-Ausgleichskasse prüft und bearbeitet diese Daten und ermittelt die Beitragsberechtigten. Sie nimmt bei Bedarf zusätzliche Abklärungen vor und fordert bei den Versicherten die für Auszahlung erforderlichen Angaben ein.
+
+<sup>3</sup> Werden die für die Berechnung bzw. Auszahlung der Beiträge erforderlichen Angaben durch die Versicherten nicht innert der angesetzten Frist eingereicht, so ist der Anspruch verwirkt. Die Frist kann bis 10 Tage nach Ablauf der regulären Frist wiederhergestellt werden.
 
 #### § 15
-
-<sup>8)</sup>
 
 **Antragsverfahren**
 
@@ -209,8 +196,6 @@ Ein Anspruch auf Prämienverbilligung kann geltend gemacht werden, wenn die anre
 
 #### § 16
 
-<sup>8)</sup>
-
 **Entscheid**
 
 <sup>1</sup> Über den Anspruch und die Höhe der Prämienverbilligung entscheidet die AHV-Ausgleichskasse mit Verfügung.
@@ -218,8 +203,6 @@ Ein Anspruch auf Prämienverbilligung kann geltend gemacht werden, wenn die anre
 <sup>2</sup> Bei Anspruch auf Prämienverbilligung teilt sie den Anspruchsberechtigten die Höhe der Beiträge mit. Institutionen oder Personen, die eine Drittauszahlung gemäss § 19 beanspruchen, werden durch Zustellung einer Kopie der Verfügung informiert.
 
 #### § 17
-
-<sup>18)</sup>
 
 **Auszahlung**
 
@@ -231,37 +214,31 @@ Ein Anspruch auf Prämienverbilligung kann geltend gemacht werden, wenn die anre
 
 #### § 18
 
-<sup>17)</sup>
+**…**
 
 #### § 19
 
-<sup>18)</sup>
+**Sozialhilfe**
 
-**Sozialhilfe 18)**
-
-Bei Personen, die durch die öffentliche Sozialhilfe unterstützt werden, können auf Antrag der zuständigen Sozialhilfebehörden die effektiv bezahlten Grundprämien erstattet werden, soweit sie die vom Bund für die Berechnung der Ergänzungsleistungen im Kanton Schaffhausen festgelegten Durchschnittsprämien nicht übersteigen.
+<sup>1</sup> Bei Personen, die durch die öffentliche Sozialhilfe unterstützt werden, können auf Antrag der zuständigen Sozialhilfebehörden die effektiv bezahlten Grundprämien erstattet werden, soweit sie die vom Bund für die Berechnung der Ergänzungsleistungen im Kanton Schaffhausen festgelegten Durchschnittsprämien nicht übersteigen.
 
 #### § 20
 
-<sup>18)</sup>
-
 **Ergänzungsleistungen**
 
-Die Beitragszahlungen an Personen, die Ergänzungsleistungen zur AHV / IV beziehen, richten sich nach den Vorgaben des Bundesrechts.
+<sup>1</sup> Die Beitragszahlungen an Personen, die Ergänzungsleistungen zur AHV / IV beziehen, richten sich nach den Vorgaben des Bundesrechts.
 
 #### § 21
 
-<sup>6)</sup>
-
 **Quellenbesteuerte, EU/EFTA**
 
-Die Prämienverbilligung für quellensteuerpflichtige Personen und für die in Art. 65a des Bundesgesetzes über die Krankenversicherung genannten Personen wird durch Verordnung des Regierungsrates so geregelt, dass eine Gleichbehandlung mit direkt besteuerten Personen in vergleichbaren wirtschaftlichen Verhältnissen nach Möglichkeit erreicht wird.
+<sup>1</sup> Die Prämienverbilligung für quellensteuerpflichtige Personen und für die in Art. 65a des Bundesgesetzes über die Krankenversicherung genannten Personen wird durch Verordnung des Regierungsrates so geregelt, dass eine Gleichbehandlung mit direkt besteuerten Personen in vergleichbaren wirtschaftlichen Verhältnissen nach Möglichkeit erreicht wird.
 
 #### § 22
 
 **Finanzierung**
 
-<sup>1</sup> ... <sup>12)</sup>
+<sup>1</sup> …
 
 <sup>2</sup> Der Kanton und die Gemeinden kommen für den bei ihnen anfallenden Verwaltungsaufwand auf.
 
@@ -275,13 +252,13 @@ Die Prämienverbilligung für quellensteuerpflichtige Personen und für die in A
 
 **Rückforderung**
 
-<sup>1</sup> Leistungen, die zu Unrecht ausgerichtet wurden, sind durch die AHV- Ausgleichskasse bei den Personen, Behörden oder Institutionen, welche sie bezogen haben, zurückzufordern.
+<sup>1</sup> Leistungen, die zu Unrecht ausgerichtet wurden, sind durch die AHV-Ausgleichskasse bei den Personen, Behörden oder Institutionen, welche sie bezogen haben, zurückzufordern.
 
 <sup>2</sup> Die Rückforderung verjährt innert eines Jahres ab dem Zeitpunkt, in dem die Ausgleichskasse vom Sachverhalt Kenntnis erhielt, spätestens jedoch fünf Jahre nach der Auszahlung.
 
 <sup>3</sup> Bei gutem Glauben und gleichzeitigem Vorliegen einer grossen Härte kann von der Rückforderung abgesehen werden. Die Vorschriften des Bundesgesetzes über die Alters- und Hinterlassenenversicherung gelten sinngemäss.
 
-<sup>4</sup> Rückforderungen von zu Unrecht bezogenen Leistungen können mit fälligen Prämienverbilligungen verrechnet werden <sup>14)</sup>
+<sup>4</sup> Rückforderungen von zu Unrecht bezogenen Leistungen können mit fälligen Prämienverbilligungen verrechnet werden.
 
 #### § 24
 
@@ -289,25 +266,23 @@ Die Prämienverbilligung für quellensteuerpflichtige Personen und für die in A
 
 <sup>1</sup> Gegen die Entscheide der AHV-Ausgleichskasse kann innert 30 Tagen seit der Mitteilung bei der AHV-Ausgleichskasse schriftlich und begründet Einsprache erhoben werden.
 
-<sup>2</sup> Gegen Einspracheentscheide der AHV-Ausgleichskasse kann innert 30 Tagen seit der Mitteilung beim Obergericht schriftlich und begründet Beschwerde erhoben werden (Art. 36a VRG). <sup>10)</sup>
+<sup>2</sup> Gegen Einspracheentscheide der AHV-Ausgleichskasse kann innert 30 Tagen seit der Mitteilung beim Obergericht schriftlich und begründet Beschwerde erhoben werden (Art. 36a VRG).
 
 #### § 25
 
 **Strafbestimmungen**
 
-Mit Busse wird bestraft, wer durch unwahre oder unvollständige Angaben oder in anderer Weise für sich oder andere Leistungen, die ihm nicht zustehen, erwirkt bzw. zu erwirken versucht.
+<sup>1</sup> Mit Busse wird bestraft, wer durch unwahre oder unvollständige Angaben oder in anderer Weise für sich oder andere Leistungen, die ihm nicht zustehen, erwirkt bzw. zu erwirken versucht.
 
 #### § 26
 
 **Ergänzendes Recht**
 
-Soweit dieses Dekret keine Regelung enthält, finden die Bestimmungen des Bundesgesetzes über die Alters- und Hinterlassenenversicherung sinngemäss Anwendung.
+<sup>1</sup> Soweit dieses Dekret keine Regelung enthält, finden die Bestimmungen des Bundesgesetzes über die Alters- und Hinterlassenenversicherung sinngemäss Anwendung.
 
-### IV. Zahlungsverzug der Versicherten <sup>14)</sup>
+## 4 Zahlungsverzug der Versicherten
 
 #### § 26a
-
-<sup>14)</sup>
 
 **Zuständigkeiten**
 
@@ -319,19 +294,15 @@ Soweit dieses Dekret keine Regelung enthält, finden die Bestimmungen des Bundes
 
 #### § 26b
 
-<sup>14)</sup>
-
 **Meldepflichten**
 
 <sup>1</sup> Die Versicherer melden der AHV-Ausgleichskasse unverzüglich und unaufgefordert diejenigen versicherten Personen, gegen die sie im Betreibungsverfahren wegen ausstehender Prämien und Kostenbeteiligungen das Fortsetzungsbegehren stellen.
 
 <sup>2</sup> Die AHV-Ausgleichskasse informiert die Sozialhilfebehörden der Gemeinden. Eine Orientierung kann unterbleiben bei Personen, die Ergänzungsleistungen zur AHV/IV oder Erwerbsersatzleistungen für Alleinerziehende beziehen.
 
-<sup>3</sup> Die Sozialhilfebehörde berät die Personen und unterstützt sie bei Bedürftigkeit gemäss der Sozialhilfegesetzgebung. <sup>20)</sup>
+<sup>3</sup> Die Sozialhilfebehörde berät die Personen und unterstützt sie bei Bedürftigkeit gemäss der Sozialhilfegesetzgebung.
 
 #### § 26c
-
-<sup>14)</sup>
 
 **Übernahme offener Forderungen**
 
@@ -341,64 +312,28 @@ Soweit dieses Dekret keine Regelung enthält, finden die Bestimmungen des Bundes
 
 #### § 26d
 
-<sup>21)</sup>
+**…**
 
 #### § 26e
 
-<sup>14)</sup>
-
 **Übergangsbestimmung**
 
-Über die allfällige Übernahme von Forderungen, die auf Zahlungsausstände vor dem 1. Januar 2012 zurückgehen, entscheidet die AHV-Ausgleichskasse nach Anhörung der Sozialhilfebehörde der Gemeinde.
+<sup>1</sup> Über die allfällige Übernahme von Forderungen, die auf Zahlungsausstände vor dem 1. Januar 2012 zurückgehen, entscheidet die AHV-Ausgleichskasse nach Anhörung der Sozialhilfebehörde der Gemeinde.
 
-### V. Schlussbestimmungen <sup>15)</sup>
+## 5 Schlussbestimmungen
 
 #### § 27
 
 **Übergangsbestimmung**
 
-Die Verordnung über die Ausrichtung von Beiträgen zur Verbilligung der Krankenversicherungsprämien von Personen mit Ergänzungsleistungen vom 19. Dezember 1995 gilt unabhängig von § 28 bis zum 31. Dezember 1996.
+<sup>1</sup> Die Verordnung über die Ausrichtung von Beiträgen zur Verbilligung der Krankenversicherungsprämien von Personen mit Ergänzungsleistungen vom 19. Dezember 1995 gilt unabhängig von § 28 bis zum 31. Dezember 1996.
 
 #### § 28
 
 **Inkrafttreten**
 
-Dieses Dekret tritt rückwirkend auf den 1. Januar 1996 in Kraft. Es ist im Amtsblatt zu veröffentlichen <sup>5)</sup> und in die kantonale Gesetzessammlung aufzunehmen. Fussnoten:
+<sup>1</sup> Dieses Dekret tritt rückwirkend auf den 1. Januar 1996 in Kraft. Es ist im Amtsblatt zu veröffentlichen[^28-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-- 1) SHR 832.100.
+[^28-1]: Amtsblatt 1996, S. 797.
 
-- 2) SR 832.10.
-
-- 3) SR 831.10.
-
-- 5) Amtsblatt 1996, S. 797.
-
-- 6) Fassung gemäss GRB vom 2. Dezember 2002, in Kraft getreten am 1. Januar 2003 (Amtsblatt 2002, S. 1827).
-
-- 8) Fassung gemäss KRB vom 13. Dezember 2004, in Kraft getreten am 1. Januar 2005 (Amtsblatt 2004, S. 1877).
-
-- 9) Fassung gemäss G vom 17. Mai 2004, in Kraft getreten am 1. September 2004 (Amtsblatt 2004, S. 707, S. 1263).
-
-- 10) Fassung gemäss D vom 20. März 2006, in Kraft getreten am 1. Juli 2006 (Amtsblatt 2006, S. 849).
-
-- 12) Aufgehoben durch D vom 4. Juni 2007, in Kraft getreten am 1. Januar 2008 (Amtsblatt 2007, S. 1801).
-
-- 13) Aufgehoben durch D vom 31. Oktober 2011, in Kraft getreten am 1. Januar 2012 (Amtsblatt 2011, S. 1471).
-
-- 14) Eingefügt durch D vom 31. Oktober 2011, in Kraft getreten am 1. Januar 2012 (Amtsblatt 2011, S. 1471).
-
-- 15) Fassung gemäss D vom 31. Oktober 2011, in Kraft getreten am 1. Januar 2012 (Amtsblatt 2011, S. 1471).
-
-- 16) SHR 641.100.
-
-- 17) Aufgehoben durch D vom 2. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1795).
-
-- 18) Fassung gemäss D vom 2. Dezember 2013, in Kraft getreten am 1. Januar 2014 (Amtsblatt 2013, S. 1795).
-
-- 19) Eingefügt durch D vom 14. Dezember 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2259).
-
-- 20) Fassung gemäss D vom 14. Dezember 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2259).
-
-- 21) Aufgehoben durch D vom 14. Dezember 2020, in Kraft getreten am 1. Januar 2021 (Amtsblatt 2020, S. 2259).
-
-- 22) Fassung gemäss D vom 4. Dezember 2023, in Kraft getreten am 1. Januar 2024 (Amtsblatt 2023, S. 2120).
+Abl. 1996, S. 797
