@@ -4,13 +4,13 @@ number: "125.12"
 title: Gesetz über die Gerichtsorganisation
 short: GO
 language: de
-version: 2022-07-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-31
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2024-06-25
 adopted: 1977-03-13
 in_force: 1977-05-01
 url: "https://bgs.so.ch/app/de/texts_of_law/125.12"
-pdf: "https://bgs.so.ch/api/de/versions/5188/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5486/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5188/pdf_file"
 
 (GO)
 
-Vom 13.03.1977 (Stand 01.07.2022)
+Vom 13.03.1977 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -94,7 +94,7 @@ beschliesst:
 - c) bei Klagen nach Artikel 961 und 975 des Schweizerischen Zivilgesetzbuches (ZGB);
 - d) bei Streitigkeiten aus Miete und Pacht von Wohn- und Geschäftsräumen sowie aus landwirtschaftlicher Pacht;
 - e) bei Streitigkeiten nach dem Gleichstellungsgesetz vom 24. März 1995.
-- f) bei Klagen über Kinderbelange in familienrechtlichen Angelegenheiten sowie bei Klagen über Unterhalt und Unterstützungspflicht;
+- f) bei Klagen über die Unterstützungspflicht;
 
 <sup>3</sup> Er beurteilt die weiteren Fälle, die ihm durch Gesetz zugewiesen werden.
 
@@ -369,11 +369,14 @@ beschliesst:
 - f) Beschwerden gegen Verfügungen der Grundbuchämter gemäss Artikel 956a-b ZGB;
 - g) Beschwerden gegen Entscheide des Amtschreibers gemäss § 224 und § 225 EG ZGB[^30-2] sowie Beschwerden gegen Entscheide des Amtsgerichtspräsidenten gemäss § 225<sup>bis</sup> EG ZGB[^30-3].
 
-<sup>2</sup> In den Fällen von Absatz 1 Buchstaben b und c ist der Präsident der Zivilkammer auch für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit einer Klage und für eine vorsorgliche Beweisführung (Art. 158 ZPO) zuständig.
+<sup>2</sup> In den Fällen von Absatz 1 Buchstaben b und c ist der Präsident der Zivilkammer auch für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit einer Klage und für eine vorsorgliche Beweisführung (Art. 158 ZPO) zuständig. Er amtet in diesen Fällen als Schlichtungsbehörde, wenn ein Schlichtungsgesuch eingereicht wird.
+
+<sup>3</sup> Im Fall von Absatz 1 Buchstabe c kann die Zivilkammer ihre Zuständigkeit ablehnen, wenn ein internationaler Sachverhalt vorliegt und der Binnenbezug gering ist (Art. 5 Abs. 3 Bst. c des Bundesgesetzes über das Internationale Privatrecht [IPRG] vom 18. Dezember 1987[^30-4]). Übergeordnetes Recht bleibt vorbehalten.
 
 [^30-1]: SR [221.411](https://db.clex.ch/link/Bund/221.411/de).
 [^30-2]: BGS [211.1](https://bgs.so.ch/data/211.1/de).
 [^30-3]: BGS [211.1](https://bgs.so.ch/data/211.1/de).
+[^30-4]: SR [291](https://db.clex.ch/link/Bund/291/de).
 
 #### § 31
 
