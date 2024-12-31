@@ -4,13 +4,12 @@ number: "922.010"
 title: Verordnung zum Jagdgesetz
 short: JaV
 language: de
-version: 2023-08-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-19
+version: 2025-01-01
+version_adopted: 2024-12-02
 adopted: 1989-06-13
 in_force: 1989-06-13
 url: "https://ai.clex.ch/app/de/texts_of_law/922.010"
-pdf: "https://ai.clex.ch/api/de/versions/2236/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2236/pdf_file"
 
 (JaV)
 
-vom 13.06.1989 (Stand 01.08.2023)
+vom 13.06.1989 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
@@ -46,7 +45,7 @@ beschliesst:
 - i) die Ausscheidung von Jagdbann- und Schongebieten (Art. 11 Abs. 4 JSG);
 - k) den Erlass von Befahrungsverboten für die Jäger während der Jagdzeit;
 - l) den Erlass von Kontrollvorschriften;
-- m) tierseuchenpolizeiliche Massnahmen;
+- m) …
 - n) den Erlass aller weiteren Vorkehren und Massnahmen, die angetan sind, einen weidmännischen Jagdbetrieb unter Berücksichtigung der Artenvielfalt und der Lebensräume der wildlebenden Säugetiere und Vögel zu gewährleisten (Art. 3 Abs. 1 JSG).
 
 <sup>2</sup> Die unter den Buchstaben d–n aufgeführten Obliegenheiten ordnet die Standeskommission in den jährlichen Jagdvorschriften, soweit nicht besondere Umstände eine sofortige Regelung erfordern.
