@@ -1,25 +1,26 @@
 ---
 canton: TG
 number: "814.041"
-title: Verordnung des Regierungsrates zum Gesetz über die Abfallbewirtschaftung
+title: Verordnung zum Gesetz über die Abfallbewirtschaftung
 short: Abfallverordnung
 language: de
-version: 2011-12-31
-valid_until: 2024-12-31
-version_adopted: 2011-10-04
+version: 2025-01-01
+version_adopted: 2024-12-03
 adopted: 2007-12-18
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/814.041"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2247/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2857/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über die Abfallbewirtschaftung
+# Verordnung zum Gesetz über die Abfallbewirtschaftung
 
-RRV Abfallbewirtschaftung
+Abfallverordnung
 
-vom 18.12.2007 (Stand 31.12.2011)
+(Abfallverordnung)
+
+vom 18.12.2007 (Stand 01.01.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -29,19 +30,19 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 <sup>1</sup> Im Rahmen der bewilligten Kredite ist der Regierungsrat zuständig für:
 
-- 1\. die Übertragung der Aufgaben des Kantons gemäss § 7 Abs. 2 des Gesetzes[^1-1];
-- 2\. den Entscheid, ob sich der Kanton an Abfallanlagen beteiligt oder selber solche errichtet oder betreibt;
-- 3\. die Gewährung von Beiträgen, Darlehen oder Bürgschaften gemäss § 25 des Gesetzes unter Vorbehalt von Abs. 2.
+- 1\. die Übertragung der Aufgaben des Kantons gemäss § 7 Abs. 2 des Gesetzes über die Abfallbewirtschaftung (Abfallgesetz)[^1-1]
+- 2\. den Entscheid, ob sich der Kanton an Abfallanlagen beteiligt oder selber solche errichtet oder betreibt
+- 3\. die Gewährung von Beiträgen, Darlehen oder Bürgschaften gemäss § 25 Abfallgesetz unter Vorbehalt von Abs. 2
 
-<sup>2</sup> Zuständiges Departement im Sinne des Gesetzes ist das Departement für Bau und Umwelt. Es entscheidet im Rahmen der bewilligten Kredite über die Gewährung von Beiträgen nach § 22 Abs. 2.
+<sup>2</sup> Zuständiges Departement im Sinne des Abfallgesetzes ist das Departement für Bau und Umwelt. Es entscheidet im Rahmen der bewilligten Kredite über die Gewährung von Beiträgen nach § 22 Abs. 2.
 
-<sup>3</sup> Soweit das kantonale Recht keine abweichenden Zuständigkeiten festlegt, vollzieht im übrigen das Amt für Umwelt das Gesetz sowie folgende Erlasse des Bundes:
+<sup>3</sup> Soweit das kantonale Recht keine abweichenden Zuständigkeiten festlegt, vollzieht im übrigen das Amt für Umwelt das Abfallgesetz sowie folgende Erlasse des Bundes:
 
-- 1\. Technische Verordnung über Abfälle[^1-2];
-- 2\. Verordnung über den Verkehr mit Abfällen[^1-3];
-- 3\. Verordnung über die Sanierung von belasteten Standorten[^1-4];
-- 4\. Verordnung über Belastungen des Bodens[^1-5];
-- 5\. Verordnung über die Abgabe zur Sanierung von Altlasten[^1-6];
+- 1\. Technische Verordnung über Abfälle[^1-2]
+- 2\. Verordnung über den Verkehr mit Abfällen[^1-3]
+- 3\. Verordnung über die Sanierung von belasteten Standorten[^1-4]
+- 4\. Verordnung über Belastungen des Bodens[^1-5]
+- 5\. Verordnung über die Abgabe zur Sanierung von Altlasten[^1-6]
 - 6\. …
 
 [^1-1]: RB [814.04](https://www.rechtsbuch.tg.ch/data/814.04/de)
@@ -65,7 +66,7 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 **Aufsicht**
 
-<sup>1</sup> Das Departement führt die Oberaufsicht über den Vollzug des Gesetzes.
+<sup>1</sup> Das Departement führt die Oberaufsicht über den Vollzug des Abfallgesetzes.
 
 <sup>2</sup> Das Amt für Umwelt führt die Oberaufsicht über die Bewirtschaftung von
 
@@ -87,11 +88,11 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 **Vorbildfunktion des Gemeinwesens**
 
-<sup>1</sup> Bei der Erfüllung ihrer Aufgaben sorgen Kanton und Gemeinden dafür, dass:
+<sup>1</sup> Bei der Erfüllung ihrer Aufgaben sorgen Kanton und Gemeinden dafür, dass
 
-- 1\. Material sparsam verwendet wird und bei der Materialwahl die spätere Entsorgung berücksichtigt wird;
-- 2\. wo möglich und sinnvoll, rezykliertes Material verwendet wird;
-- 3\. verwertbare Abfälle der Verwertung zugeführt werden;
+- 1\. Material sparsam verwendet wird und bei der Materialwahl die spätere Entsorgung berücksichtigt wird,
+- 2\. wo möglich und sinnvoll, rezykliertes Material verwendet wird,
+- 3\. verwertbare Abfälle der Verwertung zugeführt werden und
 - 4\. unvermeidbare Abfälle die Umwelt so wenig wie möglich belasten.
 
 #### § 4
@@ -110,7 +111,7 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 **Kleine Mengen**
 
-<sup>1</sup> Als kleine Mengen von Sonderabfällen im Sinne von § 6 Abs. 1 Ziff. 3 des Gesetzes gelten 20 Kilogramm pro Abgabe einschliesslich Gebinde.
+<sup>1</sup> Als kleine Mengen von Sonderabfällen im Sinne von § 6 Abs. 1 Ziff. 3 Abfallgesetz gelten 20 Kilogramm pro Abgabe einschliesslich Gebinde.
 
 ## 2. Abfallanlagen
 
@@ -118,14 +119,14 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 **Befreiung von der Bewilligungspflicht**
 
-<sup>1</sup> Keiner Errichtungsbewilligung nach § 8 des Gesetzes bedürfen:
+<sup>1</sup> Keiner Errichtungsbewilligung nach § 8 Abfallgesetz bedürfen:
 
-- 1\. Abfallanlagen, deren Betrieb an einem Ort für weniger als ein Jahr geplant ist;
-- 2\. Kompostieranlagen mit einem Jahresumsatz oder einer Jahreskapazität von weniger als 100 Tonnen;
-- 3\. Sammelstellen der Gemeinden und des Kantons;
-- 4\. Abfallanlagen, in denen ausschliesslich Abfälle, die aus der betriebsinternen Produktion stammen, sortiert, abgelagert, zwischengelagert oder behandelt werden;
-- 5\. alle übrigen Abfallanlagen, in denen höchstens 1'000 Tonnen Abfälle pro Jahr und keine Sonderabfälle oder andere kontrollpflichtige Abfälle bewirtschaftet werden dürfen;
-- 6\. Anlagen, in denen Abfälle ausschliesslich als Ersatz für Rohstoffe in einem Herstellungsprozess eingesetzt werden, können vom Amt für Umwelt im Einzelfall von der Bewilligungspflicht befreit werden.
+- 1\. Abfallanlagen, deren Betrieb an einem Ort für weniger als ein Jahr geplant ist
+- 2\. Kompostieranlagen mit einem Jahresumsatz oder einer Jahreskapazität von weniger als 100 Tonnen
+- 3\. Sammelstellen der Gemeinden und des Kantons
+- 4\. Abfallanlagen, in denen ausschliesslich Abfälle, die aus der betriebsinternen Produktion stammen, sortiert, abgelagert, zwischengelagert oder behandelt werden
+- 5\. alle übrigen Abfallanlagen, in denen höchstens 1'000 Tonnen Abfälle pro Jahr und keine Sonderabfälle oder andere kontrollpflichtige Abfälle bewirtschaftet werden dürfen
+- 6\. Anlagen, in denen Abfälle ausschliesslich als Ersatz für Rohstoffe in einem Herstellungsprozess eingesetzt werden, können vom Amt für Umwelt im Einzelfall von der Bewilligungspflicht befreit werden
 
 <sup>2</sup> Die Erteilung von Bewilligungen aufgrund anderer Vorschriften bleibt vorbehalten.
 
@@ -135,9 +136,9 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 <sup>1</sup> Das Gesuch um Erteilung einer Errichtungsbewilligung ist mit dem Baugesuch bei der zuständigen Gemeindebehörde einzureichen. Es hat mindestens zu enthalten:
 
-- 1\. den Verfahrensbeschrieb unter Darlegung der Stoff- und Energieflüsse;
-- 2\. für Deponien die Unterlagen nach der Technischen Verordnung über Abfälle[^7-1];
-- 3\. Angaben zu den Auswirkungen auf die Umwelt.
+- 1\. den Verfahrensbeschrieb unter Darlegung der Stoff- und Energieflüsse
+- 2\. für Deponien die Unterlagen nach der Technischen Verordnung über Abfälle[^7-1]
+- 3\. Angaben zu den Auswirkungen auf die Umwelt
 
 <sup>2</sup> Die Gemeindebehörde leitet das Gesuch mit den Baugesuchsakten an den Kanton weiter.
 
@@ -147,10 +148,10 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 **Betriebsbewilligung**
 
-<sup>1</sup> Einer Betriebsbewilligung nach § 9 des Gesetzes bedürfen alle Anlagen, die einer Errichtungsbewilligung bedürfen sowie:
+<sup>1</sup> Einer Betriebsbewilligung nach § 9 Abfallgesetz bedürfen alle Anlagen, die einer Errichtungsbewilligung bedürfen sowie:
 
-- 1\. Abfallanlagen, deren Betrieb an einem Ort für weniger als ein Jahr geplant ist;
-- 2\. mobile Abfallanlagen mit einer Jahreskapazität von mehr als 1'000 Tonnen.
+- 1\. Abfallanlagen, deren Betrieb an einem Ort für weniger als ein Jahr geplant ist
+- 2\. mobile Abfallanlagen mit einer Jahreskapazität von mehr als 1'000 Tonnen
 
 #### § 9
 
@@ -158,10 +159,10 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 <sup>1</sup> Gesuche um Erteilung oder Verlängerung einer Betriebsbewilligung sind mindestens drei Monate vor der geplanten Inbetriebnahme der Anlage oder dem Ablauf der bestehenden Bewilligung beim Amt für Umwelt einzureichen. Das Gesuch hat mindestens zu enthalten:
 
-- 1\. Angaben über die geplanten Material- und Stoffflüsse;
-- 2\. Ein Betriebsreglement oder Pflichtenheft für das Personal;
-- 3\. Den Nachweis, dass der Betreiber über das erforderliche ausgebildete Personal verfügt;
-- 4\. Für Deponien die Unterlagen nach der Technischen Verordnung über Abfälle.
+- 1\. Angaben über die geplanten Material- und Stoffflüsse
+- 2\. Ein Betriebsreglement oder Pflichtenheft für das Personal
+- 3\. Den Nachweis, dass der Betreiber über das erforderliche ausgebildete Personal verfügt
+- 4\. Für Deponien die Unterlagen nach der Technischen Verordnung über Abfälle
 
 ## 3. Belastete Standorte
 
@@ -169,7 +170,7 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 **Verdachtsflächenplan**
 
-<sup>1</sup> Als Grundlage für die Führung des Katasters gemäss § 14 des Gesetzes führt das Amt für Umwelt einen nicht öffentlichen Verdachtsflächenplan. In den Plan werden mögliche belastete Standorte mit den zugehörigen Informationen aufgenommen.
+<sup>1</sup> Als Grundlage für die Führung des Katasters gemäss § 14 Abfallgesetz führt das Amt für Umwelt einen nicht öffentlichen Verdachtsflächenplan. In den Plan werden mögliche belastete Standorte mit den zugehörigen Informationen aufgenommen.
 
 <sup>2</sup> Der Verdachtsflächenplan wird den Gemeinden für ihr Gebiet zur Verfügung gestellt.
 
@@ -181,7 +182,7 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 <sup>1</sup> Die Gemeinden unterbreiten Baugesuche für Bauten und Anlagen, die eine im Verdachtsflächenplan enthaltene Fläche beanspruchen, vor dem Entscheid über die Baubewilligung dem Amt für Umwelt zur Stellungnahme.
 
-<sup>2</sup> Meldestelle für bevorstehende Eingriffe gemäss § 16 Abs. 3 des Gesetzes ist das Amt für Umwelt.
+<sup>2</sup> Meldestelle für bevorstehende Eingriffe gemäss § 16 Abs. 3 Abfallgesetz ist das Amt für Umwelt.
 
 ## 4. Besondere Bewirtschaftungsvorschriften
 
@@ -193,11 +194,11 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 <sup>1</sup> Wiederverwertbare oder verwertbare Siedlungsabfälle sind, soweit ökologisch sinnvoll, gesondert zu halten und entweder den Separatsammlungen der Gemeinden oder direkt der entsprechenden Bewirtschaftung zuzuführen. Dies gilt insbesondere für:
 
-- 1\. kompostierbares und vergärbares Material;
-- 2\. Glas;
-- 3\. Metalle;
-- 4\. Mineral- und Speiseöle;
-- 5\. Papier und Karton.
+- 1\. kompostierbares und vergärbares Material
+- 2\. Glas
+- 3\. Metalle
+- 4\. Mineral- und Speiseöle
+- 5\. Papier und Karton
 
 #### § 13
 
@@ -280,7 +281,7 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 **Beiträge, Darlehen, Bürgschaften**
 
-<sup>1</sup> Schwierige Verhältnisse im Sinne von § 25 Abs. 2 des Gesetzes liegen insbesondere vor, wenn die Erstellung oder der Betrieb einer gemäss Abfallplanung unentbehrlichen Anlage unmittelbar gefährdet ist oder eine zum Schutz der Umwelt dringend erforderliche Sanierung einer Altlast ohne kantonale Beiträge finanziell nicht tragbar ist.
+<sup>1</sup> Schwierige Verhältnisse im Sinne von § 25 Abs. 2 Abfallgesetz liegen insbesondere vor, wenn die Erstellung oder der Betrieb einer gemäss Abfallplanung unentbehrlichen Anlage unmittelbar gefährdet ist oder eine zum Schutz der Umwelt dringend erforderliche Sanierung einer Altlast ohne kantonale Beiträge finanziell nicht tragbar ist.
 
 <sup>2</sup> Der Kanton leistet Beiträge bis zu 50 % an die vom Departement anerkannten Kosten von rechtlich nicht zwingenden Massnahmen zur Sanierung von mit Abfällen belasteten Standorten von Schiessanlagen, sofern mit diesen Massnahmen ein besseres Ergebnis für die Umwelt erreicht werden kann.
 
@@ -300,26 +301,18 @@ vom 18.12.2007 (Stand 31.12.2011)
 
 #### § 24
 
-**Ordnungsbussen**
+**Ordnungsbussen für Littering**
 
-<sup>1</sup> Als geringfügige Übertretungen im Sinne von § 30 Abs. 3 des Gesetzes wird das Zurücklassen, Wegwerfen oder Ablagern der nachstehenden Abfälle ausserhalb von Abfallanlagen oder Sammelstellen mit folgenden Ordnungsbussen geahndet:
+<sup>1</sup> Als geringfügige Übertretungen im Sinne von § 30 Abs. 3 Abfallgesetz wird das Zurücklassen, Wegwerfen oder Ablagern der nachstehenden Abfälle ausserhalb von Abfallanlagen oder Sammelstellen mit folgenden Ordnungsbussen geahndet:
 
-- 1\. Inhalt eines Aschenbechers: — Fr. 80;
-- 2\. einzelne Kleinabfälle wie Dosen, Flaschen, Papier, Verpackungen, Zigarettenstummel, Kaugummi, Essensreste: — Fr. 50;
-- 3\. Kehrichtsäcke oder Kleinabfälle in grösseren Mengen: — Fr. 250.
+- 1\. einzelne Kleinabfälle wie Papier, Verpackungen, Kaugummi oder Essensreste — Fr. 150
+- 2\. Dosen, Flaschen, Zigarettenstummel, Inhalt eines Aschenbechers oder Kleinabfälle in grösseren Mengen — Fr. 300
+- 3\. …
 
-## 7. Schlussbestimmungen
+## 7.
 
-#### § 25
+#### § 25–26
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates zum Gesetz über die Abfallbewirtschaftung vom 30. August 1994 wird aufgehoben.
-
-#### § 26
-
-**Inkrafttreten**
-
-<sup>1</sup> Das Gesetz über die Abfallbewirtschaftung vom 4. Juli 2007 sowie diese Verordnung treten am 1. Januar 2008 in Kraft.
+**…**
 
 51/2007
