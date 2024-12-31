@@ -4,13 +4,12 @@ number: "170.450"
 title: Lescha davart la cassa da pensiun dal Grischun
 short: LCPG
 language: rm
-version: 2022-10-01
-valid_until: 2024-12-31
-version_adopted: 2021-12-07
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3258/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3381/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3258/pdf_file"
 
 (LCPG)
 
-dals 23-04-2013 (versiun dals 01-10-2022)
+dals 23-04-2013 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -137,6 +136,18 @@ concluda:
 
 <sup>1</sup> La cumissiun administrativa po relaschar novs plans da prevenziun.
 
+#### Art. 11a
+
+**Commembras e commembers da las autoritads giudizialas**
+
+<sup>1</sup> Las commembras ed ils commembers da las autoritads giudizialas èn assicurads tar la Cassa da pensiun fin a la cumplenida dal 65. onn da vegliadetgna per il provediment professiunal.
+
+<sup>2</sup> Suenter la cumplenida dal 65. onn da vegliadetgna po il provediment da vegliadetgna vegnir cuntinuà, sin dumonda d'ina commembra u d'in commember d'ina autoritad giudiziala, fin al pensiunament tenor lescha.
+
+<sup>3</sup> Las contribuziuns da spargn annualas da las commembras e dals commembers da la Dretgira superiura vegnan mintgamai auzadas la fin da l'onn per 25 pertschient sin donn e cust dal chantun. L'augment è limità a las contribuziuns maximalas dal plan da provediment. En cas d'ina extrada durant l'onn u en in cas da provediment vegn l'augment concedì proporziunalmain.
+
+<sup>4</sup> Apports facultativs en il rom dal plan da provediment dal chantun cun l'import da cumpra il pli aut vegnan auzads 5 onns suenter il pajament per 10 pertschient a favur da la commembra u dal commember en uffizi sin donn e cust dal chantun.
+
 #### Art. 12
 
 **Mesiras en cas da sutgaranzia**
@@ -178,6 +189,16 @@ concluda:
 **Aboliziun dal dretg vertent**
 
 <sup>1</sup> Cun l'entrada en vigur da questa lescha vegn abolida la lescha davart la cassa da pensiun chantunala dal Grischun (LCPG) dals 16 da zercladur 2005.
+
+#### Art. 15a
+
+**Disposiziuns transitoricas per las commembras ed ils commembers da las autoritads giudizialas**
+
+<sup>1</sup> Las prestaziuns resultadas tenor il dretg vegl per il 1. da schaner 2007 na vegnan betg midadas. Sch'ils chapitals da spargn individuals ch'èn vegnids accumulads na bastan betg per finanziar questas prestaziuns, surpiglia il chantun lur finanziaziun en la procedura da repartiziun.
+
+<sup>2</sup> Ils chapitals da spargn individuals ch'èn vegnids accumulads da las commembras e dals commembers da la Dretgira chantunala e da la Dretgira administrativa en uffizi cumplain tenor l'Ordinaziun davart la prevenziun professiunala dals commembers en uffizi cumplain da las dretgiras chantunalas dals 2 d'october 2000, vegnan transferids a la Cassa da pensiun a favur da mintga commembra e commember sco prestaziun da libra circulaziun. Il possess actual areguard l'import da lur renta da vegliadetgna vegn garantì. Ils augments dal dabun da spargn ch'èn necessaris per garantir il possess actual van sin donn e cust dal chantun.
+
+<sup>3</sup> Fin a l'entrada en vigur dal dretg nov pon las commembras ed ils commembers ordinaris da la Dretgira chantunala e da la Dretgira administrativa decider, sch'ellas ed els vulan far diever da las prestaziuns spezialas dal dretg davart il provediment professiunal tenor l'artitgel 5 u l'artitgel 6 da la Lescha davart ils salaris e davart la prevenziun professiunala da las commembras e dals commembers da la Dretgira chantunala e da la Dretgira administrativa ubain da las prestaziuns spezialas tenor l'artitgel 11a alinea 2 ed alinea 3. Sch'ellas ed els na fan nagina decleraziun da tscherna u tschernan la nova regulaziun, vegn il dabun da spargn auzà sin donn e cust dal chantun fin a l'entrada en vigur dal dretg nov. Per mintga onn d'uffizi cumplenì sco commembra u commember ordinari da la Dretgira chantunala u da la Dretgira administrativa importa l'augment 2,5 pertschient, maximalmain dentant 15 pertschient.
 
 #### Art. 16
 

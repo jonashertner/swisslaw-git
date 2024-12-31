@@ -4,13 +4,12 @@ number: "170.450"
 title: Gesetz über die Pensionskasse Graubünden
 short: PKG
 language: de
-version: 2022-10-01
-valid_until: 2024-12-31
-version_adopted: 2021-12-07
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3258/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3381/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3258/pdf_file"
 
 (PKG)
 
-Vom 23.04.2013 (Stand 01.10.2022)
+Vom 23.04.2013 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -137,6 +136,18 @@ beschliesst:
 
 <sup>1</sup> Die Verwaltungskommission kann neue Vorsorgepläne erlassen.
 
+#### Art. 11a
+
+**Mitglieder richterlicher Behörden**
+
+<sup>1</sup> Die Mitglieder der richterlichen Behörden sind bis zum vollendeten 65. Altersjahr für die berufliche Vorsorge bei der Pensionskasse versichert.
+
+<sup>2</sup> Nach der Vollendung des 65. Altersjahrs kann die Altersvorsorge auf Antrag eines Mitglieds einer richterlichen Behörde bis zum gesetzlichen Altersrücktritt fortgeführt werden.
+
+<sup>3</sup> Die jährlichen Sparbeiträge der Mitglieder des Obergerichts werden jeweils Ende Jahr zu Lasten des Kantons um 25 Prozent erhöht. Der Zuschlag ist auf die maximalen Beiträge des Vorsorgeplans beschränkt. Beim unterjährigen Austritt oder im Vorsorgefall wird der Zuschlag anteilsmässig gewährt.
+
+<sup>4</sup> Freiwillige Einlagen im Rahmen des Vorsorgeplans des Kantons mit dem höchsten Einkaufsbetrag werden fünf Jahre nach der Einzahlung dem amtierenden Mitglied zu Lasten des Kantons um zehn Prozent erhöht.
+
 #### Art. 12
 
 **Massnahmen bei Unterdeckung**
@@ -174,6 +185,16 @@ beschliesst:
 **Aufhebung bisherigen Rechts**
 
 <sup>1</sup> Mit Inkrafttreten dieses Gesetzes wird das Gesetz über die Kantonale Pensionskasse Graubünden (PKG) vom 16. Juni 2005 aufgehoben.
+
+#### Art. 15a
+
+**Übergangsbestimmungen für die Mitglieder richterlicher Behörden**
+
+<sup>1</sup> Die nach dem alten Recht per 1. Januar 2007 entstandenen Leistungen bleiben unverändert. Reichen die angesammelten individuellen Sparkapitalien zur Finanzierung dieser Leistungen nicht aus, übernimmt der Kanton deren Finanzierung im Umlageverfahren.
+
+<sup>2</sup> Die gemäss der Verordnung über die berufliche Vorsorge der vollamtlichen Mitglieder der kantonalen Gerichte vom 2. Oktober 2000 von den vollamtlichen Mitgliedern des Kantons- und Verwaltungsgerichts angesammelten individuellen Sparguthaben werden zu Gunsten jedes Mitglieds als Freizügigkeitsleistung der Pensionskasse übertragen. Der betragsmässige Besitzstand ihrer Altersrente bleibt gewahrt. Zur Besitzstandswahrung notwendige Erhöhungen des Sparguthabens gehen zu Lasten des Kantons.
+
+<sup>3</sup> Ordentliche amtierende Mitglieder des Kantons- und Verwaltungsgerichts können bis zum Inkrafttreten des neuen Rechts wählen, ob sie die berufsvorsorgerechtlichen Sonderleistungen gemäss Artikel 5 oder Artikel 6 des Gesetzes über die Gehälter und die berufliche Vorsorge der Mitglieder des Kantons- oder Verwaltungsgerichts oder gemäss Artikel 11a Absatz 2 und Absatz 3 beanspruchen wollen. Geht keine Wahlerklärung ein oder wird die neue Regelung gewählt, wird das Sparguthaben bis zum Inkrafttreten des neuen Rechts zu Lasten des Kantons erhöht. Der Zuschlag beträgt für jedes vollendete Amtsjahr als ordentliches Mitglied des Kantons- oder des Verwaltungsgerichts 2,5 Prozent, jedoch maximal 15 Prozent.
 
 #### Art. 16
 

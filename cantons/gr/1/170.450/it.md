@@ -4,13 +4,12 @@ number: "170.450"
 title: Legge sulla Cassa pensioni dei Grigioni
 short: LCPG
 language: it
-version: 2022-10-01
-valid_until: 2024-12-31
-version_adopted: 2021-12-07
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2013-04-23
 in_force: 2014-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.450"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3258/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3381/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3258/pdf_file"
 
 (LCPG)
 
-del 23.04.2013 (stato 01.10.2022)
+del 23.04.2013 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -135,6 +134,18 @@ decide:
 
 <sup>1</sup> La Commissione amministrativa può emanare nuovi piani previdenziali.
 
+#### Art. 11a
+
+**Membri di autorità giudiziarie**
+
+<sup>1</sup> I membri delle autorità giudiziarie sono assicurati per la previdenza professionale presso la Cassa pensioni fino al compimento dei 65 anni.
+
+<sup>2</sup> Su richiesta di un membro di un'autorità giudiziaria, dopo il compimento dei 65 anni la previdenza per la vecchiaia può essere proseguita fino al compimento dell'età di pensionamento stabilita dalla legge.
+
+<sup>3</sup> I contributi di risparmio annuali dei giudici del Tribunale d'appello vengono aumentati del 25 per cento a carico del Cantone alla fine di ogni anno. Il supplemento è limitato agli importi massimi del piano previdenziale. In caso di partenza nel corso dell'anno o in un caso di previdenza il supplemento viene concesso proporzionalmente.
+
+<sup>4</sup> Versamenti facoltativi effettuati nel quadro del piano previdenziale del Cantone con l'importo di riscatto massimo vengono aumentati del dieci per cento a favore del membro in carica e a carico del Cantone cinque anni dopo il versamento.
+
 #### Art. 12
 
 **Misure in caso di copertura insufficiente**
@@ -172,6 +183,16 @@ decide:
 **Abrogazione del diritto previgente**
 
 <sup>1</sup> Con l'entrata in vigore della presente legge viene abrogata la legge sulla Cassa cantonale pensioni dei Grigioni (LCPG) del 16 giugno 2005.
+
+#### Art. 15a
+
+**Disposizioni transitorie per i membri di autorità giudiziarie**
+
+<sup>1</sup> Le prestazioni sorte in base al vecchio diritto con effetto al 1° gennaio 2007 rimangono invariate. Se i capitali a risparmio individuali accumulati non sono sufficienti per finanziare queste prestazioni, il Cantone si assume il loro finanziamento secondo un sistema di ripartizione.
+
+<sup>2</sup> Gli averi a risparmio individuali accumulati dai giudici a tempo pieno del Tribunale cantonale e del Tribunale amministrativo in conformità all'ordinanza sulla previdenza professionale dei membri a tempo pieno dei tribunali cantonali del 2 ottobre 2000 vengono trasferiti alla Cassa pensioni a favore di ogni giudice quale prestazione di libero passaggio. L'importo della loro rendita di vecchiaia rimane garantito. Gli aumenti dell'avere a risparmio necessari per garantire la rendita sono a carico del Cantone.
+
+<sup>3</sup> Fino all'entrata in vigore del nuovo diritto, i giudici ordinari in carica del Tribunale cantonale e del Tribunale amministrativo possono scegliere se beneficiare delle prestazioni straordinarie della previdenza professionale conformemente all'articolo 5 o all'articolo 6 della legge sugli stipendi e la previdenza professionale dei membri del Tribunale cantonale e del Tribunale amministrativo oppure conformemente all'articolo 11a capoverso 2 e capoverso 3. In assenza di una dichiarazione relativa alla scelta oppure se viene scelta la nuova regolamentazione, l'avere a risparmio viene aumentato a carico del Cantone fino all'entrata in vigore del nuovo diritto. Il supplemento ammonta al 2,5 per cento per ogni anno di carica completo quale giudice ordinario del Tribunale cantonale o del Tribunale amministrativo, tuttavia al massimo al 15 per cento.
 
 #### Art. 16
 
