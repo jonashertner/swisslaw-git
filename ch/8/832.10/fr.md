@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20241001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20250101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20241001/fr"
 
 (LAMal)
 
-du 18 mars 1994 (État le 1<sup>er</sup> octobre 2024)
+du 18 mars 1994 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1768,35 +1768,37 @@ L’assureur ne peut prélever aucune participation aux coûts des prestations s
 
 <sup>1bis</sup> Si l’assuré est mineur, les dispositions concernant le non-paiement des primes et des participations aux coûts s’appliquent à ses parents ou au parent débiteur des primes.[^64a-2]
 
-<sup>2</sup> Si, malgré la sommation, l’assuré ne paie pas dans le délai imparti les primes, les participations aux coûts et les intérêts moratoires dus, l’assureur doit engager des poursuites. Le canton peut exiger que l’assureur annonce à l’autorité cantonale compétente les débiteurs qui font l’objet de poursuites.
+<sup>2</sup> Si, malgré la sommation, l’assuré ne paie pas dans le délai imparti les primes, les participations aux coûts et les intérêts moratoires dus, l’assureur doit engager des poursuites. Il peut poursuivre un assuré au maximum deux fois au cours d’une année civile pour ses propres arriérés et deux fois pour ceux d’un enfant.[^64a-3] Les poursuites pour les créances qui ont déjà fait l’objet d’un acte de défaut de biens ou donné lieu à un titre équivalent ne sont pas comptabilisées. Le canton peut exiger que l’assureur lui annonce les personnes qui font l’objet de poursuites.[^64a-4]
 
 <sup>3</sup> L’assureur annonce à l’autorité cantonale compétente les débiteurs concernés et, pour chacun, le montant total des créances relevant de l’assurance obligatoire des soins (primes et participations aux coûts arriérées, intérêts moratoires et frais de poursuite) pour lesquelles un acte de défaut de biens ou un titre équivalent a été délivré durant la période considérée. Il demande à l’organe de contrôle désigné par le canton d’attester l’exactitude des données communiquées et transmet cette attestation au canton.
 
-<sup>4</sup> Le canton prend en charge 85 % des créances ayant fait l’objet de l’annonce prévue à l’al. 3.[^64a-3]
+<sup>4</sup> Le canton prend en charge 85 % des créances ayant fait l’objet de l’annonce prévue à l’al. 3.[^64a-5]
 
 <sup>5</sup> L’assureur conserve les actes de défaut de biens et les titres équivalents jusqu’au paiement intégral des créances arriérées. Dès que l’assuré a payé tout ou partie de sa dette à l’assureur, celui-ci rétrocède au canton 50 % du montant versé par l’assuré.
 
-<sup>6</sup> En dérogation à l’art. 7, l’assuré en retard de paiement ne peut pas changer d’assureur tant que ses arriérés de primes, de participations aux coûts, d’intérêts moratoires et de frais de poursuite ne sont pas payés intégralement. Les enfants ne peuvent pas changer d’assureur s’il existe pour eux de tels arriérés. Les assurés qui n’ont des arriérés que pour leurs enfants peuvent changer d’assureur. L’art. 7, al. 3 et 4, est réservé.[^64a-4]
+<sup>6</sup> En dérogation à l’art. 7, l’assuré en retard de paiement ne peut pas changer d’assureur tant que ses arriérés de primes, de participations aux coûts, d’intérêts moratoires et de frais de poursuite ne sont pas payés intégralement. Les enfants ne peuvent pas changer d’assureur s’il existe pour eux de tels arriérés. Les assurés qui n’ont des arriérés que pour leurs enfants peuvent changer d’assureur. L’art. 7, al. 3 et 4, est réservé.[^64a-6]
 
-<sup>7</sup> Les cantons peuvent tenir une liste des assurés qui ne paient pas leurs primes malgré les poursuites, liste à laquelle n’ont accès que les fournisseurs de prestations, la commune et le canton. Sur notification du canton, l’assureur suspend la prise en charge des prestations fournies à ces assurés, à l’exception de celles relevant de la médecine d’urgence, et avise l’autorité cantonale compétente de la suspension de sa prise en charge et, lorsque les assurés ont acquitté leurs créances, de l’annulation de cette suspension. Une prestation relevant de la médecine d’urgence consiste en une prestation qui ne peut pas être repoussée. C’est le cas lorsque l’assuré, en l’absence d’un traitement immédiat, doit craindre une atteinte à la santé, voire la mort, ou qu’il peut mettre en danger la santé d’autres personnes.[^64a-5]
+<sup>7</sup> Les cantons peuvent tenir une liste des assurés qui ne paient pas leurs primes malgré les poursuites, liste à laquelle n’ont accès que les fournisseurs de prestations, la commune et le canton. Sur notification du canton, l’assureur suspend la prise en charge des prestations fournies à ces assurés, à l’exception de celles relevant de la médecine d’urgence, et avise l’autorité cantonale compétente de la suspension de sa prise en charge et, lorsque les assurés ont acquitté leurs créances, de l’annulation de cette suspension. Une prestation relevant de la médecine d’urgence consiste en une prestation qui ne peut pas être repoussée. C’est le cas lorsque l’assuré, en l’absence d’un traitement immédiat, doit craindre une atteinte à la santé, voire la mort, ou qu’il peut mettre en danger la santé d’autres personnes.[^64a-7]
 
-<sup>7bis</sup> Les assurés qui deviennent majeurs peuvent changer d’assureur à la fin de l’année civile en dérogation à l’al. 6 même si des arriérés de primes et de participations aux coûts, des intérêts moratoires et des frais de poursuite datant de la période de leur minorité sont impayés. Pour les membres de la famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni, l’art. 4*a* s’applique.[^64a-6]
+<sup>7bis</sup> Les assurés qui deviennent majeurs peuvent changer d’assureur à la fin de l’année civile en dérogation à l’al. 6 même si des arriérés de primes et de participations aux coûts, des intérêts moratoires et des frais de poursuite datant de la période de leur minorité sont impayés. Pour les membres de la famille tenus de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni, l’art. 4*a* s’applique.[^64a-8]
 
-<sup>7ter</sup> Les cantons et les assureurs échangent leurs données selon une procédure uniforme. Le Conseil fédéral règle les modalités après avoir entendu les cantons et les assureurs.[^64a-7]
+<sup>7ter</sup> Les cantons et les assureurs échangent leurs données selon une procédure uniforme. Le Conseil fédéral règle les modalités après avoir entendu les cantons et les assureurs.[^64a-9]
 
-<sup>8</sup> Le Conseil fédéral règle les tâches de l’organe de révision et désigne les titres jugés équivalents à un acte de défaut de biens. Il règle également les frais de rappel et de sommation, les modalités de la procédure de sommation et de poursuite ainsi que les modalités des versements des cantons aux assureurs.[^64a-8]
+<sup>8</sup> Le Conseil fédéral règle les tâches de l’organe de révision et désigne les titres jugés équivalents à un acte de défaut de biens. Il règle également les frais de rappel et de sommation, les modalités de la procédure de sommation et de poursuite ainsi que les modalités des versements des cantons aux assureurs.[^64a-10]
 
-<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-9]
+<sup>9</sup> Le Conseil fédéral édicte des dispositions sur le non-paiement des primes et des participations aux coûts des personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni. Si le droit de l’État concerné permet à l’assureur de recouvrer les primes et participations aux coûts impayées, le Conseil fédéral peut obliger les cantons à prendre en charge 85 % des créances ayant fait l’objet de l’annonce visée à l’al. 3. Si le droit de l’État concerné ne le permet pas, le Conseil fédéral peut accorder aux assureurs le droit de suspendre la prise en charge des coûts des prestations.[^64a-11]
 
 [^64a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476), [FF 2009 5973](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5987](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^64a-2]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-3]: Voir aussi les dips. trans. de la mod. du 19 mars 2010 à la fin du texte.
-[^64a-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-5]: 3<sup>e</sup> et 4<sup>e</sup> phrases introduites par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-6]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes) ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre de la conv. sur la coordination de la sécurité sociale entre la Suisse et le Royaume‑Uni, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
-[^64a-7]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-8]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-9]: 2<sup>e</sup> et 3<sup>e</sup> phrases introduites par le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
+[^64a-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-4]: 3<sup>e</sup> et 4<sup>e</sup> phrases introduites par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-5]: Voir aussi les dips. trans. de la mod. du 19 mars 2010 à la fin du texte.
+[^64a-6]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-7]: 3<sup>e</sup> et 4<sup>e</sup> phrases introduites par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-8]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes) ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre de la conv. sur la coordination de la sécurité sociale entre la Suisse et le Royaume‑Uni, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
+[^64a-9]: Introduit par le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-10]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 mars 2022 (Exécution de l’obligation de payer les primes), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-11]: 2<sup>e</sup> et 3<sup>e</sup> phrases introduites par le ch. I de la LF du 30 sept. 2016 (Adaptation de dispositions à caractère international), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 
 ### Section 4 Réduction des primes par les subsides des pouvoirs publics
 
@@ -2683,19 +2685,31 @@ Pendant une année après l’entrée en vigueur de la modification du 18 décem
 
 L’organisation visée à l’art. 47*a* doit être instituée dans les deux ans qui suivent l’entrée en vigueur de la modification du 18 juin 2021.
 
-## Disposition transitoire relative à la modification du 30 septembre 2022
+## Dispositions transitoires de la modification du 18 mars 2022
 
 [^u20-1]
 
-[^u20-1]: [RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)
+[^u20-1]: [RO 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)
+
+<sup>1</sup> …[^u20-2]
+
+<sup>2</sup> Les art. 61*a* et 64, al. 1<sup>bis</sup>, s’appliquent aux assurés encore mineurs au moment de l’entrée en vigueur de la modification du 18 mars 2022. Ils s’appliquent également pour les primes, participations aux coûts, intérêts moratoires et frais de poursuite non payés de ces assurés au moment de l’entrée en vigueur.
+
+[^u20-2]: En vigueur le 1<sup>er</sup> juil. 2025.
+
+## Disposition transitoire relative à la modification du 30 septembre 2022
+
+[^u21-1]
+
+[^u21-1]: [RO 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)
 
 Les conventions qui visent à définir le monitorage et les mesures de correction conformément à l’art. 47*c*, al. 2, doivent être soumises pour approbation à l’autorité compétente dans les deux ans qui suivent l’entrée en vigueur de la modification du 30 septembre 2022.
 
 ## Disposition transitoire relative à la modification du 16 décembre 2022
 
-[^u21-1]
+[^u22-1]
 
-[^u21-1]: [RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)
+[^u22-1]: [RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)
 
 Le Conseil fédéral évalue les effets de la modification du 16 décembre 2022 sur le développement des soins infirmiers et remet au Parlement un rapport au plus tard cinq ans après l’entrée en vigueur de ladite modification.
 

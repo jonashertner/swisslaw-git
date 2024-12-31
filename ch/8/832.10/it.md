@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20241001/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20241001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20250101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20241001/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° ottobre 2024)
+del 18 marzo 1994 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -166,7 +166,7 @@ Sono assicurati presso lo stesso assicuratore:
 
 I Cantoni informano circa l’obbligo di assicurazione:
 
-- a. le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che sono tenute ad assicurarsi in virtù di un’attività lucrativa esercitata in Svizzera;
+- a. le persone che risiedono uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che sono tenute ad assicurarsi in virtù di un’attività lucrativa esercitata in Svizzera;
 - b. le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che sono tenute ad assicurarsi poiché percepiscono una prestazione dell’assicurazione svizzera contro la disoccupazione;
 - c. le persone tenute ad assicurarsi poiché percepiscono una rendita svizzera e che trasferiscono la loro residenza in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito.[^6a-3]
 
@@ -241,7 +241,7 @@ Al momento dell’affiliazione all’assicurazione sociale malattie, l’assicur
 
 ### Capitolo 2: Organizzazione
 
-### Sezione 1: ...
+### Sezione 1: …
 
 #### Art. 11 a 15
 
@@ -486,7 +486,7 @@ Queste prestazioni comprendono:
 - c. un contributo alle spese di cure balneari prescritte dal medico;
 - d. i provvedimenti di riabilitazione medica, eseguiti o prescritti dal medico;
 - e.[^25-4] la degenza in ospedale secondo lo standard del reparto comune;
-- f.[^25-5] ...
+- f.[^25-5] …
 - f<sup>bis</sup>.[^25-6] la degenza in caso di parto in una casa per partorienti (art. 29);
 - g. un contributo alle spese di trasporto necessarie dal profilo medico e alle spese di salvataggio;
 - h.[^25-7] la prestazione effettuata dal farmacista al momento di fornire i medicamenti prescritti dal medico secondo la lettera b.
@@ -654,7 +654,7 @@ Il Consiglio federale può prevedere che l’assicurazione obbligatoria delle cu
 
 **Tipi di fornitori di prestazioni[^35-1]**
 
-<sup>1</sup> ...[^35-2]
+<sup>1</sup> …[^35-2]
 
 <sup>2</sup>
 
@@ -1017,6 +1017,15 @@ Sono in particolare inammissibili e dunque nulli i seguenti provvedimenti, indip
 <sup>4</sup> Se le federazioni dei fornitori di prestazioni e quelle degli assicuratori non si accordano sui principi relativi alla forma, all’esercizio e al finanziamento dell’organizzazione, il Consiglio federale stabilisce tali principi dopo aver sentito le organizzazioni interessate.
 
 <sup>5</sup> I fornitori di prestazioni e gli assicuratori comunicano gratuitamente all’organizzazione i dati necessari per l’elaborazione, lo sviluppo, l’adeguamento e la manutenzione delle strutture tariffali nel settore delle cure ambulatoriali.
+
+<sup>6</sup>
+
+In caso di violazione dell’obbligo di comunicare i dati di cui al capoverso 5, il DFI può, su richiesta dell’organizzazione, prendere sanzioni contro i fornitori di prestazioni interessati. Le sanzioni consistono:
+
+- a. nell’ammonizione;
+- b. nella multa sino a 20 000 franchi.
+
+<sup>7</sup> I partner tariffali sottopongono per approvazione al Consiglio federale le strutture tariffali elaborate dall’organizzazione e i relativi adeguamenti.
 
 [^47a-1]: Introdotto dal n. I della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2022 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
@@ -1606,7 +1615,7 @@ I progetti pilota che concernono uno degli ambiti qui appresso possono derogare 
 
 ### Capitolo 5: Finanziamento
 
-### Sezione 1: ...
+### Sezione 1: …
 
 #### Art. 60
 
@@ -1632,14 +1641,14 @@ I progetti pilota che concernono uno degli ambiti qui appresso possono derogare 
 
 <sup>4</sup> Per gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito i premi sono calcolati in funzione dello Stato di residenza. Il Consiglio federale emana prescrizioni sulla determinazione e l’incasso dei premi di questi assicurati.[^61-5]
 
-<sup>5</sup> ...[^61-6]
+<sup>5</sup> …[^61-6]
 
 [^61-1]: Nuovo testo giusta l’all. n. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^61-2]: Introdotto dall’all. n. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 [^61-3]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2019 ([RU 2018 1843](https://fedlex.data.admin.ch/eli/oc/2018/276); [FF 2016 6479](https://fedlex.data.admin.ch/eli/fga/2016/1540)[7149](https://fedlex.data.admin.ch/eli/fga/2016/1716)).
 [^61-4]: Introdotto dal n. I della LF del 24 mar. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
 [^61-5]: Introdotto dal n. I 9 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta il n. I 8 della LF del 4 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^61-6]: Per. introdotto dal n. I della LF del 18 dic. 1998 ([RU 1999 2041](https://fedlex.data.admin.ch/eli/oc/1999/319); FF **1998** 940 946). Originario cpv. 4. Abrogato dall’all. n. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+[^61-6]: Introdotto dal n. I della LF del 18 dic. 1998 ([RU 1999 2041](https://fedlex.data.admin.ch/eli/oc/1999/319); FF **1998** 940 946). Originario cpv. 4. Abrogato dall’all. n. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
 #### Art. 61a
 
@@ -1739,7 +1748,7 @@ L’assicuratore non può riscuotere alcuna partecipazione ai costi per:
 [^64-1]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 [^64-2]: Introdotta dal n. I della LF del 24 mar. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687).
 [^64-3]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° mar. 2014 ([RU 2014 387](https://fedlex.data.admin.ch/eli/oc/2014/56); [FF 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/418)[2115](https://fedlex.data.admin.ch/eli/fga/2013/420)).
-[^64-4]: Nuovo testo giusta il n. I della LF del 24 mar. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^64-4]: Introdotto dal n. I della LF del 24 mar. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2305](https://fedlex.data.admin.ch/eli/oc/2000/365); FF **1999** 687). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 ### Sezione 3*a*: Mancato pagamento dei premi e delle partecipazioni ai costi
 
@@ -1755,35 +1764,37 @@ L’assicuratore non può riscuotere alcuna partecipazione ai costi per:
 
 <sup>1bis</sup> Se l’assicurato è minorenne, le disposizioni relative al mancato pagamento dei premi e delle partecipazioni ai costi si applicano ai suoi genitori o al genitore debitore del premio.[^64a-2]
 
-<sup>2</sup> Se, nonostante la diffida, l’assicurato non paga i premi, le partecipazioni ai costi e gli interessi di mora entro il termine assegnato, l’assicuratore deve richiedere l’esecuzione. Il Cantone può esigere che l’assicuratore comunichi all’autorità cantonale competente il nome dei debitori escussi.
+<sup>2</sup> Se, nonostante la diffida, l’assicurato non paga i premi, le partecipazioni ai costi e gli interessi di mora entro il termine assegnato, l’assicuratore deve richiedere l’esecuzione. Un assicurato può essere perseguito al massimo due volte nel corso di un anno civile per i propri arretrati e due volte per quelli di un figlio.[^64a-3] Le esecuzioni per i crediti che hanno già dato luogo a un attestato di carenza di beni o a un titolo equivalente non sono contabilizzate. Il Cantone può esigere che l’assicuratore gli comunichi il nome delle persone escusse.[^64a-4]
 
 <sup>3</sup> L’assicuratore comunica all’autorità cantonale competente il nome degli assicurati interessati nonché, per ogni debitore, l’importo complessivo dei crediti relativi all’assicurazione obbligatoria delle cure medico-sanitarie (premi e partecipazioni ai costi in arretrato, interessi di mora e spese di esecuzione) per i quali, durante il periodo considerato, è stato rilasciato un attestato di carenza di beni o un titolo equivalente. L’assicuratore chiede all’organo di revisione designato dal Cantone di confermare l’esattezza dei dati che ha comunicato al Cantone e trasmette la conferma a quest’ultimo.
 
-<sup>4</sup> Il Cantone assume l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3.[^64a-3]
+<sup>4</sup> Il Cantone assume l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3.[^64a-5]
 
 <sup>5</sup> L’assicuratore conserva gli attestati di carenza di beni e i titoli equivalenti sino al pagamento integrale dei crediti in arretrato. Non appena l’assicurato ha saldato in tutto o in parte il debito verso l’assicuratore, questi restituisce al Cantone il 50 per cento dell’importo ricevuto dall’assicurato.
 
-<sup>6</sup> In deroga all’articolo 7, l’assicurato in mora non può cambiare assicuratore finché non sono stati pagati integralmente i premi, le partecipazioni ai costi, gli interessi di mora e le spese di esecuzione in arretrato. I figli non possono cambiare assicuratore se per loro esistono arretrati di questo tipo. Gli assicurati i cui arretrati concernono soltanto i loro figli possono cambiare assicuratore. È fatto salvo l’articolo 7 capoversi 3 e 4.[^64a-4]
+<sup>6</sup> In deroga all’articolo 7, l’assicurato in mora non può cambiare assicuratore finché non sono stati pagati integralmente i premi, le partecipazioni ai costi, gli interessi di mora e le spese di esecuzione in arretrato. I figli non possono cambiare assicuratore se per loro esistono arretrati di questo tipo. Gli assicurati i cui arretrati concernono soltanto i loro figli possono cambiare assicuratore. È fatto salvo l’articolo 7 capoversi 3 e 4.[^64a-6]
 
-<sup>7</sup> Gli assicurati che nonostante l’esecuzione non pagano i premi possono essere registrati dai Cantoni in un elenco accessibile unicamente ai fornitori di prestazioni, ai Comuni e al Cantone interessato. Su notificazione del Cantone, l’assicuratore sospende l’assunzione dei costi delle prestazioni fornite a questi assicurati, salvo nei casi d’urgenza medica, e informa l’autorità cantonale competente della sospensione delle prestazioni e dell’annullamento di tale sospensione dopo il pagamento dei crediti in arretrato da parte degli assicurati. Vi è urgenza medica quando un trattamento non può essere differito. Tale è il caso quando l’assicurato, in assenza di un trattamento immediato, deve temere danni alla salute o la morte, oppure può mettere in pericolo la salute di altre persone.[^64a-5]
+<sup>7</sup> Gli assicurati che nonostante l’esecuzione non pagano i premi possono essere registrati dai Cantoni in un elenco accessibile unicamente ai fornitori di prestazioni, ai Comuni e al Cantone interessato. Su notificazione del Cantone, l’assicuratore sospende l’assunzione dei costi delle prestazioni fornite a questi assicurati, salvo nei casi d’urgenza medica, e informa l’autorità cantonale competente della sospensione delle prestazioni e dell’annullamento di tale sospensione dopo il pagamento dei crediti in arretrato da parte degli assicurati. Vi è urgenza medica quando un trattamento non può essere differito. Tale è il caso quando l’assicurato, in assenza di un trattamento immediato, deve temere danni alla salute o la morte, oppure può mettere in pericolo la salute di altre persone.[^64a-7]
 
-<sup>7bis</sup> Gli assicurati che diventano maggiorenni possono cambiare assicuratore alla fine dell’anno civile, in deroga al capoverso 6, anche se vi sono premi, partecipazioni ai costi, interessi di mora o spese di esecuzione in arretrato risalenti al periodo della loro minore età. Ai familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito si applica l’articolo 4*a*.[^64a-6]
+<sup>7bis</sup> Gli assicurati che diventano maggiorenni possono cambiare assicuratore alla fine dell’anno civile, in deroga al capoverso 6, anche se vi sono premi, partecipazioni ai costi, interessi di mora o spese di esecuzione in arretrato risalenti al periodo della loro minore età. Ai familiari tenuti ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito si applica l’articolo 4*a*.[^64a-8]
 
-<sup>7ter</sup> I Cantoni e gli assicuratori scambiano i loro dati sulla base di uno standard uniforme. Il Consiglio federale disciplina le modalità dopo aver sentito i Cantoni e gli assicuratori.[^64a-7]
+<sup>7ter</sup> I Cantoni e gli assicuratori scambiano i loro dati sulla base di uno standard uniforme. Il Consiglio federale disciplina le modalità dopo aver sentito i Cantoni e gli assicuratori.[^64a-9]
 
-<sup>8</sup> Il Consiglio federale stabilisce i compiti dell’organo di revisione e designa i titoli considerati equivalenti all’attestato di carenza di beni. Disciplina inoltre le spese di sollecito e di diffida, le modalità relative alla procedura di diffida e di esecuzione e le modalità di pagamento dei Cantoni agli assicuratori.[^64a-8]
+<sup>8</sup> Il Consiglio federale stabilisce i compiti dell’organo di revisione e designa i titoli considerati equivalenti all’attestato di carenza di beni. Disciplina inoltre le spese di sollecito e di diffida, le modalità relative alla procedura di diffida e di esecuzione e le modalità di pagamento dei Cantoni agli assicuratori.[^64a-10]
 
-<sup>9</sup> Il Consiglio federale emana disposizioni relative al mancato pagamento dei premi e delle partecipazioni ai costi per le persone tenute ad assicurarsi residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito. Se il diritto di tale Stato permette all’assicuratore di recuperare i premi e le partecipazioni ai costi non pagati, il Consiglio federale può obbligare i Cantoni ad assumere l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3. Se il diritto di tale Stato non lo permette, il Consiglio federale può accordare agli assicuratori il diritto di sospendere l’assunzione dei costi delle prestazioni.[^64a-9]
+<sup>9</sup> Il Consiglio federale emana disposizioni relative al mancato pagamento dei premi e delle partecipazioni ai costi per le persone tenute ad assicurarsi residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito. Se il diritto di tale Stato permette all’assicuratore di recuperare i premi e le partecipazioni ai costi non pagati, il Consiglio federale può obbligare i Cantoni ad assumere l’85 per cento dei crediti oggetto della comunicazione di cui al capoverso 3. Se il diritto di tale Stato non lo permette, il Consiglio federale può accordare agli assicuratori il diritto di sospendere l’assunzione dei costi delle prestazioni.[^64a-11]
 
 [^64a-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° gen. 2012 ([RU 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [FF 2009 5757](https://fedlex.data.admin.ch/eli/fga/2009/1165)[5771](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^64a-2]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-3]: Vedi anche la disp. trans. della mod. del 19 mar. 2010 alla fine del presente testo.
-[^64a-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 (RU **2003** 678; [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-5]: Terzo e quarto per. introdotti dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-6]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi) ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Nuovo testo giusta l’all. n. 1 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero la Convenzione sul coordinamento della sicurezza sociale tra la Svizzera e il Regno Unito, in vigore dal 1° mar. 2024 ([RU 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
-[^64a-7]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-8]: Nuovo testo del secondo per. giusta il n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-9]: Secondo e terzo per. introdotti dal n. I della LF del 30 set. 2016 (Adeguamento delle disposizioni con pertinenza internazionale), in vigore dal 1° gen. 2018 ([RU 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
+[^64a-3]: Nuovo testo del secondo per. giusta il n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2025 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-4]: Terzo e quarto per. introdotti dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2025 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-5]: Vedi anche la disp. trans. della mod. del 19 mar. 2010 alla fine del presente testo.
+[^64a-6]: Nuovo testo giusta il n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 (RU **2003** 678; [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-7]: Terzo e quarto per. introdotti dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-8]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi) ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Nuovo testo giusta l’all. n. 1 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero la Convenzione sul coordinamento della sicurezza sociale tra la Svizzera e il Regno Unito , in vigore dal 1° mar. 2024 ([RU 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
+[^64a-9]: Introdotto dal n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-10]: Nuovo testo del secondo per. giusta il n. I della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° gen. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-11]: Secondo e terzo per. introdotti dal n. I della LF del 30 set. 2016 (Adeguamento delle disposizioni con pertinenza internazionale), in vigore dal 1° gen. 2018 ([RU 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [FF 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 
 ### Sezione 4: Riduzione dei premi mediante sussidi dell’ente pubblico
 
@@ -2046,7 +2057,7 @@ Il diritto di regresso secondo l’articolo 72 LPGA[^79a-2] si applica per analo
 
 <sup>1</sup> Le prestazioni assicurative sono concesse mediante procedura semplificata secondo l’articolo 51 LPGA[^80-2]. Questa disposizione è applicabile, in deroga all’articolo 49 capoverso 1 LPGA, anche alle prestazioni di ragguardevole entità.[^80-3]
 
-<sup>2</sup> ...[^80-4]
+<sup>2</sup> …[^80-4]
 
 <sup>3</sup> L’assicuratore non può subordinare la notifica della decisione all’esaurimento di eventuali procedure interne di ricorso.
 
@@ -2130,7 +2141,7 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 
 - a.[^84a-4] ad altri organi incaricati di applicare la presente legge o la LVAMal, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere gli obblighi conferiti loro dalla presente legge o dalla LVAMal;
 - b. agli organi di altre assicurazioni sociali, qualora, in deroga all’articolo 32 capoverso 2 LPGA, l’obbligo di comunicazione sia sancito da una legge federale;
-- [tab] b<sup>bis</sup>.[^84a-5] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero AVS;
+- b<sup>bis</sup>.[^84a-5] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero AVS;
 - c. alle autorità competenti per l’imposta alla fonte, conformemente agli articoli 88 e 100 della legge federale del 14 dicembre 1990[^84a-6] sull’imposta federale diretta (LIFD), nonché alle rispettive disposizioni cantonali;
 - d. agli organi della statistica federale, conformemente alla legge federale del 9 ottobre 1992[^84a-7] sulla statistica federale;
 - e. agli organi incaricati di allestire statistiche per l’esecuzione della presente legge, qualora i dati siano necessari all’adempimento di tale obbligo e l’anonimato degli assicurati sia garantito;
@@ -2146,9 +2157,9 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
   - 3\. ai tribunali penali e alle autorità istruttorie penali, qualora ne necessitino per accertare un crimine o un delitto,
   - 4\. agli uffici d’esecuzione, conformemente agli articoli 91, 163 e 222 della legge federale dell’11 aprile 1889[^84a-11] sulla esecuzione e sul fallimento,
   - 5\.[^84a-12] alle autorità di protezione dei minori e degli adulti, conformemente all’articolo 448 capoverso 4 del Codice civile[^84a-13],
-  - 6\.[^84a-14] ... [^84a-15]
+  - 6\.[^84a-14] … [^84a-15]
 
-<sup>2</sup> ...[^84a-16]
+<sup>2</sup> …[^84a-16]
 
 <sup>3</sup> In deroga all’articolo 33 LPGA, i dati d’interesse generale in relazione all’applicazione della presente legge possono essere pubblicati. L’anonimato degli assicurati dev’essere garantito.[^84a-17]
 
@@ -2281,7 +2292,7 @@ Contro le sentenze del tribunale arbitrale cantonale può essere interposto rico
 
 - a. mediante indicazioni false o incomplete, oppure altrimenti, si sottrae in tutto o in parte all’obbligo di assicurarsi;
 - b. mediante indicazioni false o incomplete, oppure altrimenti, ottiene per sé stesso o per terzi, senza che gli spetti, una prestazione secondo la presente legge;
-- c.[^92-3] ...
+- c.[^92-3] …
 - d.[^92-4] non fa usufruire delle rimunerazioni ai sensi dell’articolo 56 capoverso 3.
 
 <sup>2</sup> In deroga all’articolo 79 capoverso 2 LPGA[^92-5], l’UFSP persegue e giudica le infrazioni all’articolo 56 capoverso 3 lettera b in combinato disposto con l’articolo 92 capoverso 1 lettera d.[^92-6]
@@ -2673,7 +2684,7 @@ L’organizzazione di cui all’articolo 47*a* è istituita entro due anni dall�
 
 [^u20-1]: [RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)
 
-<sup>1</sup> ...[^u20-2]
+<sup>1</sup> …[^u20-2]
 
 <sup>2</sup> Gli articoli 61*a* e 64 capoverso 1<sup>bis</sup> si applicano agli assicurati ancora minorenni al momento dell’entrata in vigore della modifica del 18 marzo 2022. Si applicano anche ai premi, alle partecipazioni ai costi, agli interessi di mora e alle spese di esecuzione di questi assicurati non ancora pagati al momento dell’entrata in vigore.
 
@@ -2707,6 +2718,6 @@ Allegato
 
 ### 2. a 6.
 
-...[^annexu1-lvlu1-lvl2-1]
+…[^annexu1-lvlu1-lvl2-1]
 
 [^annexu1-lvlu1-lvl2-1]: Le mod. possono essere consultate alla [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328).

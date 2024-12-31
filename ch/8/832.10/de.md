@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2024-10-01
+version: 2025-01-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20241001/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20241001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20250101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20241001/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Oktober 2024)
+vom 18. März 1994 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -62,7 +62,7 @@ Sie finden keine Anwendung in folgenden Bereichen:
 
 #### Art. 1a
 
-**Geltungsbereich**[^1a-1]
+**Geltungsbereich**
 
 <sup>1</sup> Dieses Gesetz regelt die soziale Krankenversicherung. Sie umfasst die obligatorische Krankenpflegeversicherung und eine freiwillige Taggeldversicherung.
 
@@ -70,12 +70,11 @@ Sie finden keine Anwendung in folgenden Bereichen:
 
 Die soziale Krankenversicherung gewährt Leistungen bei:
 
-- a. Krankheit (Art. 3 ATSG[^1a-2]);
+- a. Krankheit (Art. 3 ATSG[^1a-1]);
 - b. Unfall (Art. 4 ATSG), soweit dafür keine Unfallversicherung aufkommt;
 - c. Mutterschaft (Art. 5 ATSG).
 
-[^1a-1]: Eingefügt durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^1a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1a-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 2
 
@@ -489,7 +488,7 @@ Diese Leistungen umfassen:
 - d. die ärztlich durchgeführten oder angeordneten Massnahmen der medizinischen Rehabilitation;
 - e.[^25-4] den Aufenthalt im Spital entsprechend dem Standard der allgemeinen Abteilung;
 - f.[^25-5] …
-- [tab] f<sup>bis</sup>.[^25-6] den Aufenthalt bei Entbindung in einem Geburtshaus (Art. 29);
+- f<sup>bis</sup>.[^25-6] den Aufenthalt bei Entbindung in einem Geburtshaus (Art. 29);
 - g. einen Beitrag an die medizinisch notwendigen Transportkosten sowie an die Rettungskosten;
 - h.[^25-7] die Leistung der Apotheker und Apothekerinnen bei der Abgabe von nach Buchstabe b verordneten Arzneimitteln.
 
@@ -1069,7 +1068,7 @@ Die Massnahmen nach Absatz 1 müssen pro Bereich, der für die jeweilige Art von
 
 <sup>5</sup> Die Verträge nach Absatz 2 legen die von den Leistungserbringern und den Versicherern nicht beeinflussbaren Faktoren fest, die eine Erhöhung der Mengen und der Kosten erklären können, insbesondere medizin-technischer Fortschritt und sozio-demographische oder politische Entwicklungen. Sie müssen Regeln zur Korrektur bei ungerechtfertigten Erhöhungen der Mengen und der Kosten oder Volumen gegenüber einem im Vertrag festgelegten Zeitraum vorsehen.
 
-- [tab] <sup>6</sup> Alle Leistungserbringer und alle Versicherer sind verpflichtet, die für den jeweiligen Bereich vereinbarten Massnahmen nach Absatz 1 einzuhalten.
+<sup>6</sup> Alle Leistungserbringer und alle Versicherer sind verpflichtet, die für den jeweiligen Bereich vereinbarten Massnahmen nach Absatz 1 einzuhalten.
 
 [^47c-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Massnahmen zur Kostendämpfung – Paket 1*b*), in Kraft seit 1. Jan. 2024 ([AS 2023 630](https://fedlex.data.admin.ch/eli/oc/2023/630); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
@@ -1765,35 +1764,37 @@ Für folgende Leistungen darf der Versicherer keine Kostenbeteiligung erheben:
 
 <sup>1bis</sup> Ist die versicherte Person minderjährig, so sind die Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen auf ihre Eltern oder den Elternteil, der die Prämien schuldet, anzuwenden.[^64a-2]
 
-<sup>2</sup> Bezahlt die versicherte Person trotz Zahlungsaufforderung die Prämien, Kostenbeteiligungen und Verzugszinse nicht innert der gesetzten Frist, so muss der Versicherer die Betreibung anheben. Der Kanton kann verlangen, dass der Versicherer der zuständigen kantonalen Behörde die Schuldnerinnen und Schuldner, die betrieben werden, bekannt gibt.
+<sup>2</sup> Bezahlt die versicherte Person trotz Zahlungsaufforderung die Prämien, Kostenbeteiligungen und Verzugszinse nicht innert der gesetzten Frist, so muss der Versicherer die Betreibung anheben. Eine Person darf in einem Kalenderjahr höchstens je zwei Mal für eigene Ausstände und für Ausstände eines Kindes betrieben werden.[^64a-3] Dabei werden Betreibungen für Forderungen, die bereits zu einem Verlustschein oder einem gleichwertigen Rechtstitel geführt haben, nicht hinzugerechnet. Der Kanton kann verlangen, dass der Versicherer ihm die von einer Betreibung betroffenen Personen bekannt gibt.[^64a-4]
 
 <sup>3</sup> Der Versicherer gibt der zuständigen kantonalen Behörde die betroffenen Versicherten sowie, pro Schuldner und Schuldnerin, den Gesamtbetrag der Forderungen aus der obligatorischen Krankenpflegeversicherung (ausstehende Prämien und Kostenbeteiligungen sowie Verzugszinse und Betreibungskosten) bekannt, die während des berücksichtigten Zeitraumes zur Ausstellung eines Verlustscheines oder eines gleichwertigen Rechtstitels geführt haben. Er ersucht die vom Kanton bezeichnete Revisionsstelle, die Richtigkeit der Daten, die er dem Kanton bekannt gegeben hat, zu bestätigen und übermittelt die Bestätigung dem Kanton.
 
-<sup>4</sup> Der Kanton übernimmt 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren.[^64a-3]
+<sup>4</sup> Der Kanton übernimmt 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren.[^64a-5]
 
 <sup>5</sup> Der Versicherer bewahrt die Verlustscheine und die gleichwertigen Rechtstitel bis zur vollständigen Bezahlung der ausstehenden Forderungen auf. Sobald die versicherte Person ihre Schuld vollständig oder teilweise gegenüber dem Versicherer beglichen hat, erstattet dieser 50 Prozent des von der versicherten Person erhaltenen Betrages an den Kanton zurück.
 
-<sup>6</sup> In Abweichung von Artikel 7 kann die säumige versicherte Person den Versicherer nicht wechseln, solange die ausstehenden Prämien, Kostenbeteiligungen, Verzugszinse und Betreibungskosten nicht vollständig bezahlt sind. Kinder können den Versicherer nicht wechseln, wenn solche Ausstände für sie bestehen. Versicherte, die nur Ausstände für ihre Kinder haben, dürfen den Versicherer trotzdem wechseln. Artikel 7 Absätze 3 und 4 bleibt vorbehalten.[^64a-4]
+<sup>6</sup> In Abweichung von Artikel 7 kann die säumige versicherte Person den Versicherer nicht wechseln, solange die ausstehenden Prämien, Kostenbeteiligungen, Verzugszinse und Betreibungskosten nicht vollständig bezahlt sind. Kinder können den Versicherer nicht wechseln, wenn solche Ausstände für sie bestehen. Versicherte, die nur Ausstände für ihre Kinder haben, dürfen den Versicherer trotzdem wechseln. Artikel 7 Absätze 3 und 4 bleibt vorbehalten.[^64a-6]
 
-<sup>7</sup> Die Kantone können versicherte Personen, die ihrer Prämienpflicht trotz Betreibung nicht nachkommen, auf einer Liste erfassen, welche nur den Leistungserbringern, der Gemeinde und dem Kanton zugänglich ist. Die Versicherer schieben für diese Versicherten auf Meldung des Kantons die Übernahme der Kosten für Leistungen mit Ausnahme der Notfallbehandlungen auf und erstatten der zuständigen kantonalen Behörde Meldung über den Leistungsaufschub und dessen Aufhebung nach Begleichung der ausstehenden Forderungen. Eine Notfallbehandlung liegt vor, wenn die Behandlung nicht aufgeschoben werden kann. Dies ist der Fall, wenn die versicherte Person ohne sofortige Behandlung gesundheitliche Schäden oder den Tod befürchten muss oder die Gesundheit anderer Personen gefährden kann.[^64a-5]
+<sup>7</sup> Die Kantone können versicherte Personen, die ihrer Prämienpflicht trotz Betreibung nicht nachkommen, auf einer Liste erfassen, welche nur den Leistungserbringern, der Gemeinde und dem Kanton zugänglich ist. Die Versicherer schieben für diese Versicherten auf Meldung des Kantons die Übernahme der Kosten für Leistungen mit Ausnahme der Notfallbehandlungen auf und erstatten der zuständigen kantonalen Behörde Meldung über den Leistungsaufschub und dessen Aufhebung nach Begleichung der ausstehenden Forderungen. Eine Notfallbehandlung liegt vor, wenn die Behandlung nicht aufgeschoben werden kann. Dies ist der Fall, wenn die versicherte Person ohne sofortige Behandlung gesundheitliche Schäden oder den Tod befürchten muss oder die Gesundheit anderer Personen gefährden kann.[^64a-7]
 
-<sup>7bis</sup> Versicherte, die volljährig geworden sind, können den Versicherer in Abweichung von Absatz 6 auf das Ende des Kalenderjahres auch wechseln, wenn Prämien, Kostenbeteiligungen, Verzugszinse oder Betreibungskosten aus der Zeit ihrer Minderjährigkeit ausstehen. Bei versicherungspflichtigen Familienangehörigen mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, Norwegen oder im Vereinigten Königreich geht Artikel 4*a* vor.[^64a-6]
+<sup>7bis</sup> Versicherte, die volljährig geworden sind, können den Versicherer in Abweichung von Absatz 6 auf das Ende des Kalenderjahres auch wechseln, wenn Prämien, Kostenbeteiligungen, Verzugszinse oder Betreibungskosten aus der Zeit ihrer Minderjährigkeit ausstehen. Bei versicherungspflichtigen Familienangehörigen mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, Norwegen oder im Vereinigten Königreich geht Artikel 4*a* vor.[^64a-8]
 
-<sup>7ter</sup> Die Kantone und die Versicherer tauschen ihre Daten nach einem einheitlichen Standard aus. Der Bundesrat regelt die Einzelheiten, nachdem er die Kantone und die Versicherer angehört hat.[^64a-7]
+<sup>7ter</sup> Die Kantone und die Versicherer tauschen ihre Daten nach einem einheitlichen Standard aus. Der Bundesrat regelt die Einzelheiten, nachdem er die Kantone und die Versicherer angehört hat.[^64a-9]
 
-<sup>8</sup> Der Bundesrat legt die Aufgaben der Revisionsstelle fest und bezeichnet die einem Verlustschein gleichzusetzenden Rechtstitel. Er regelt zudem die Gebühren für Mahnungen und Zahlungsaufforderungen, die Einzelheiten des Mahn- und Betreibungsverfahrens sowie der Zahlungen der Kantone an die Versicherer.[^64a-8]
+<sup>8</sup> Der Bundesrat legt die Aufgaben der Revisionsstelle fest und bezeichnet die einem Verlustschein gleichzusetzenden Rechtstitel. Er regelt zudem die Gebühren für Mahnungen und Zahlungsaufforderungen, die Einzelheiten des Mahn- und Betreibungsverfahrens sowie der Zahlungen der Kantone an die Versicherer.[^64a-10]
 
-<sup>9</sup> Der Bundesrat erlässt Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen der versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen. Ist es nach dem Recht des betreffenden Staates möglich, dass der Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so kann der Bundesrat die Kantone zur Übernahme von 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren, verpflichten. Ist es nach dem Recht des betreffenden Staates nicht möglich, so kann der Bundesrat den Versicherern das Recht gewähren, die Übernahme der Kosten für die Leistungen aufzuschieben.[^64a-9]
+<sup>9</sup> Der Bundesrat erlässt Bestimmungen über die Nichtbezahlung von Prämien und Kostenbeteiligungen der versicherungspflichtigen Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen. Ist es nach dem Recht des betreffenden Staates möglich, dass der Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so kann der Bundesrat die Kantone zur Übernahme von 85 Prozent der Forderungen, die Gegenstand der Bekanntgabe nach Absatz 3 waren, verpflichten. Ist es nach dem Recht des betreffenden Staates nicht möglich, so kann der Bundesrat den Versicherern das Recht gewähren, die Übernahme der Kosten für die Leistungen aufzuschieben.[^64a-11]
 
 [^64a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 3523](https://fedlex.data.admin.ch/eli/oc/2011/476); [BBl 2009 6617](https://fedlex.data.admin.ch/eli/fga/2009/1165)[6631](https://fedlex.data.admin.ch/eli/fga/2009/1167)).
 [^64a-2]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^64a-3]: Siehe auch die UeB Änd. 19.3.2010 am Schluss dieses Textes.
-[^64a-4]: Fassung gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-5]: Dritter und vierter Satz eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-6]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Fassung gemäss Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweiz und dem Vereinigten Königreich, in Kraft seit 1. März 2024 ([AS 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [BBl 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
-[^64a-7]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-8]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
-[^64a-9]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2018 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
+[^64a-3]: Fassung des zweiten Satzes Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2025 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-4]: Dritter und vierter Satz eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2025 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-5]: Siehe auch die UeB Änd. 19.3.2010 am Schluss dieses Textes.
+[^64a-6]: Fassung gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-7]: Dritter und vierter Satz eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-8]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)). Fassung gemäss Anhang Ziff. 1 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweiz und dem Vereinigten Königreich, in Kraft seit 1. März 2024 ([AS 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [BBl 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
+[^64a-9]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-10]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. März 2022 (Vollstreckung der Prämienzahlungspflicht), in Kraft seit 1. Jan. 2024 ([AS 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [BBl 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745), [1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^64a-11]: Zweiter und dritter Satz eingefügt durch Ziff. I des BG vom 30. Sept. 2016 (Anpassung von Bestimmungen mit internationalem Bezug), in Kraft seit 1. Jan. 2018 ([AS 2017 6717](https://fedlex.data.admin.ch/eli/oc/2017/748); [BBl 2016 1](https://fedlex.data.admin.ch/eli/fga/2016/1)).
 
 ### 4. Abschnitt: Prämienverbilligung durch Beiträge der öffentlichen Hand
 
@@ -2139,13 +2140,13 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mi
 
 - a.[^84a-5] anderen mit der Durchführung sowie der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes oder des KVAG betrauten Organen, wenn die Daten für die Erfüllung der ihnen nach diesem Gesetz oder dem KVAG übertragenen Aufgaben erforderlich sind;
 - b. Organen einer anderen Sozialversicherung, wenn sich in Abweichung von Artikel 32 Absatz 2 ATSG eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;
-- [tab] b<sup>bis</sup>.[^84a-6]Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
+- b<sup>bis</sup>.[^84a-6] Organen einer anderen Sozialversicherung für die Zuweisung oder Verifizierung der AHV-Nummer;
 - c. den für die Quellensteuer zuständigen Behörden, nach den Artikeln 88 und 100 des Bundesgesetzes vom 14. Dezember 1990[^84a-7] über die direkte Bundessteuer sowie den entsprechenden kantonalen Bestimmungen;
 - d. den Organen der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^84a-8];
 - e. Stellen, die mit der Führung von Statistiken zur Durchführung dieses Gesetzes betraut sind, wenn die Daten für die Erfüllung dieser Aufgabe erforderlich sind und die Anonymität der Versicherten gewahrt bleibt;
 - f.[^84a-9] den zuständigen kantonalen Behörden, wenn es sich um Daten nach Artikel 22*a* handelt und diese für die Planung der Spitäler und Pflegeheime sowie für die Beurteilung der Tarife erforderlich sind;
 - g. den Strafuntersuchungsbehörden, wenn die Anzeige oder die Abwendung eines Verbrechens die Datenbekanntgabe erfordert;
-- [tab] g<sup>bis</sup>.[^84a-10] dem Nachrichtendienst des Bundes (NDB) oder den Sicherheitsorganen der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^84a-11] gegeben ist;
+- g<sup>bis</sup>.[^84a-10] dem Nachrichtendienst des Bundes (NDB) oder den Sicherheitsorganen der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^84a-11] gegeben ist;
 - h.
 
   im Einzelfall und auf schriftlich begründetes Gesuch hin:
@@ -2708,8 +2709,14 @@ Anhang
 
 ## Aufhebung und Änderung von Bundesgesetzen
 
-- 1\. Das Bundesgesetz vom 13. Juni 1911[^annexu1-lvlu1-1] über die Krankenversicherung wird aufgehoben.
-- 2\.‒6. …[^annexu1-lvlu1-2]
+### 1. Das Bundesgesetz vom 13. Juni 1911 über die Krankenversicherung wird aufgehoben.
 
-[^annexu1-lvlu1-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 64](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)II Art. 6 Ziff. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, [611](https://fedlex.data.admin.ch/eli/oc/1977/611_611_611); [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
-[^annexu1-lvlu1-2]: Die Änderungen können unter [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)konsultiert werden.
+[^annexu1-lvlu1-lvl1-1]
+
+[^annexu1-lvlu1-lvl1-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 64](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)II Art. 6 Ziff. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, [611](https://fedlex.data.admin.ch/eli/oc/1977/611_611_611); [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511)]
+
+### 2.‒6.
+
+…[^annexu1-lvlu1-lvl2-1]
+
+[^annexu1-lvlu1-lvl2-1]: Die Änderungen können unter [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)konsultiert werden.
