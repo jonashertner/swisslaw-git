@@ -1,33 +1,32 @@
 ---
 canton: VS
 number: "730.100"
-title: "Ordonnance sur l'utilisation rationnelle de l'énergie dans les constructions et les installations"
-short: OURE
+title: "Ordonnance sur l'énergie"
+short: OcEne
 language: fr
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-14
+version: 2025-01-01
+version_adopted: 2024-03-20
 adopted: 2024-03-20
 in_force: 2025-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/730.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3105/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3513/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur l'utilisation rationnelle de l'énergie dans les constructions et les installations
+# Ordonnance sur l'énergie
 
-(OURE)
+(OcEne)
 
-du 09.02.2011 (état 01.01.2023)
+du 20.03.2024 (état 01.01.2025)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi sur l’énergie du 15 janvier 2004 (LcEne);
+vu l’article 57 alinéa 2 de la Constitution cantonale;
 
-vu la loi sur les constructions du 15 décembre 2016 (LC), en particulier son article 4 alinéa 2;
+vu l'article 6 alinéa 3 de la loi sur l'énergie du 8 septembre 2023 (LcEne);
 
-sur la proposition du département en charge de l’énergie,
+sur proposition du département en charge de l'énergie,
 
 ordonne:
 
@@ -35,672 +34,1391 @@ ordonne:
 
 #### Art. 1
 
-**Buts**
+**Objet**
 
-<sup>1</sup> La présente ordonnance fixe les exigences relatives à l'utilisation économe et rationnelle de l'énergie ainsi qu'au recours aux énergies renouvelables, applicables à la conception, à la réalisation et à l'exploitation des bâtiments, des installations ainsi que de leurs équipements.
+<sup>1</sup> La présente ordonnance contient les dispositions d'exécution de la loi cantonale sur l'énergie.
+
+<sup>2</sup> Elle fixe les objectifs et règle notamment:
+
+- a) les calculs économiques et les coûts externes;
+- b) les dérogations;
+- c) la planification énergétique;
+- d) l’approvisionnement énergétique;
+- e) l’utilisation économe et efficace de l’énergie;
+- f) les exigences concernant la couverture des besoins de chaleur et la production propre d’électricité pour les nouveaux bâtiments et les bâtiments existants;
+- g) l’exemplarité des collectivités publiques;
+- h) les bâtiments et processus grands consommateurs;
+- i) les aides financières et les mesures d’encouragement.
 
 #### Art. 2
 
-**Compétences**
+**Notions**
 
-<sup>1</sup> Les autorités compétentes en matière de droit public sur les constructions veillent à l'application de la présente ordonnance.
+<sup>1</sup> Les énergies primaires sont les ressources énergétiques telles qu’on les trouve à l’état naturel. On peut les classer en ressources énergétiques renouvelables et non renouvelables.
 
-<sup>2</sup> Le département chargé de l'énergie, par son service de l'énergie et des forces hydrauliques (ci-après: le service):
+<sup>2</sup> Les ressources énergétiques renouvelables sont:
 
-- a) surveille l'application de cette ordonnance;
-- b) est responsable pour les dérogations à cette ordonnance.
+- a) l’énergie solaire;
+- b) la force hydraulique;
+- c) l’énergie éolienne;
+- d) la biomasse (bois, matière organique telle que déchets verts, engrais agricoles ou les boues d’épuration, etc.);
+- e) la géothermie;
+- f) la chaleur de l’environnement.
 
-<sup>3</sup> Le service en charge de la construction et de l'entretien du parc immobilier de l'Etat est responsable du respect d'exigences énergétiques et de confort supérieures ou égales au standard Minergie pour les constructions dans lesquelles l'Etat est impliqué en tant que propriétaire ou partenaire foncier.
+<sup>3</sup> Les ressources énergétiques non renouvelables sont:
+
+- a) le pétrole;
+- b) le gaz naturel;
+- c) l'uranium;
+- d) le charbon.
+
+<sup>4</sup> Les énergies secondaires sont produites par la transformation d’une énergie primaire. Il peut s’agir notamment d’électricité, de biogaz, de gaz de synthèse (hydrogène, méthane, etc.), de combustibles liquides de synthèse, de chaleur à distance, de produits pétroliers raffinés. Certaines énergies secondaires peuvent être d’origine renouvelable ou non renouvelable selon l’énergie primaire utilisée pour les produire.
+
+<sup>5</sup> Au sens de la présente ordonnance, on entend par:
+
+- a) ressource énergétique renouvelable et indigène: les ressources énergétiques renouvelables disponibles dans le canton du Valais;
+- b) rejets de chaleur: les déperditions de chaleur inévitables en l’état de la technique, produites par des processus de conversion d’énergie ou par des processus chimiques, par exemple dans les usines de valorisation thermique des déchets (UVTD), sauf la chaleur des installations ayant pour buts premiers et équivalents la production simultanée d’électricité et d’énergie thermique;
+- c) concept énergétique: le produit d'une démarche systématique incluant l'élaboration de variantes qui vise à limiter les besoins en énergie d'une construction et de ses installations et à minimiser le recours aux énergies non renouvelables. Il repose sur l'élaboration d'un concept architectural et technique cohérent en fonction du besoin des utilisateurs, des opportunités et des contraintes que présente l'environnement du projet;
+- d) chaleur de l’environnement: la chaleur disponible dans l’air, dans les eaux de surface et dans le sol.
 
 #### Art. 3
 
-**Champ d'application**
+**Objectifs**
 
-<sup>1</sup> Les exigences requises par la présente ordonnance s'appliquent:
+<sup>1</sup> Les objectifs pour 2035 sont les suivants:
 
-- a) aux constructions nouvelles et installations destinées à être chauffées, ventilées, refroidies ou humidifiées;
-- b) aux transformations et changements d'affectation des constructions et installations existantes destinées à être chauffées, ventilées, refroidies ou humidifiées, même si les travaux entrepris ne sont pas soumis à autorisation en vertu des dispositions légales en matière de construction;
-- c) au montage de nouvelles installations techniques destinées à la production et à la distribution de chaleur, de froid, d'eau chaude sanitaire et d'air, même si les travaux entrepris ne sont pas soumis à autorisation en vertu des dispositions légales en matière de construction;
-- d) au remplacement, à la transformation ou à la modification des installations techniques, même si les travaux entrepris ne sont pas soumis à autorisation en vertu des dispositions légales en matière de construction;
-- e) aux installations d'éclairage dans les grands bâtiments.
+- a) la consommation d’énergie finale par habitant doit diminuer de 43 pour cent par rapport à 2000, sans considérer la consommation des grands sites industriels;
+- b) la consommation d’électricité par habitant doit diminuer de 13 pour cent par rapport à 2000, sans considérer la consommation des grands sites industriels;
+- c) la production moyenne nette décennale d’hydroélectricité doit atteindre 9’750 GWh par an;
+- d) la production d’électricité renouvelable (sans la production hydroélectrique) doit atteindre 1'300 GWh par an;
+- e) la production de chaleur renouvelable et la valorisation des rejets de chaleur doit atteindre 1'050 GWh par an;
+- f) la production d’énergies renouvelables en mains valaisannes (privées et publiques) doit permettre de couvrir 60 pour cent de la consommation d’énergie du canton, en considérant la consommation des grands sites industriels.
 
-<sup>2</sup> La réalisation de constructions annexes et les transformations s'apparentant à la construction d'un nouveau bâtiment telles que l'évacuation de murs intérieurs et de dalles ou d'autres travaux semblables sont assimilées à la réalisation de nouveaux bâtiments et doivent répondre aux exigences fixées pour ces derniers. La présente disposition n'est pas applicable aux travaux mineurs.
-
-<sup>3</sup> Dans les cas repris à l'alinéa 1 sous lettres b à e, l'autorité compétente peut réduire les exigences pour préserver de cette manière un intérêt public.
+<sup>2</sup> D’ici 2040, la production hivernale supplémentaire moyenne d’hydroélectricité doit atteindre 1200 GWh par an par rapport à 2020.
 
 #### Art. 4
 
-**Définitions**
+**Calcul économique et coûts externes**
 
-<sup>1</sup> Les définitions au sens de l'article 1 de l'ordonnance fédérale sur l'énergie du 7 décembre 1998 et celles au sens du chapitre 1 "Terminologie" de la norme SIA 380/1 "L'énergie thermique dans le bâtiment" sont applicables pour autant qu'elles soient utilisées de manière analogue dans la présente ordonnance.
+<sup>1</sup> Lors d'études de variantes mettant en comparaison différentes solutions énergétiques (enveloppes de constructions et/ou installations techniques, etc.), les calculs de rentabilité sur la durée de vie des différentes variantes doivent inclure les coûts externes de l’énergie.
 
-<sup>2</sup> En outre, on entend par:
+<sup>2</sup> Pour les calculs économiques, la norme SIA 480 s’applique.
 
-- a) construction/bâtiment: ouvrage construit, fondé dans le sol ou reposant en surface, de facture artificielle, appelé à durer, offrant un espace plus ou moins totalement clos destiné à protéger les gens et les choses des effets extérieurs, notamment atmosphériques. Répondent également à cette définition les constructions mobiles pour autant qu'elles stationnent au même endroit pendant une durée prolongée;
-- b) installation: objet de facture artificielle, fondé dans le sol ou reposant en surface, appelée à durer, mais ne constituant pas un bâtiment, comme par exemple: rampes, places de parc, terrains de sport, champs de tir, téléphériques, etc.;
-- c) équipements/installations techniques du bâtiment: dispositifs en rapport avec un bâtiment ou une installation et qui sont liés de façon significative à la consommation d'énergie, comme par exemple: chaudière, monobloc de ventilation, etc.;
-- d) touché par les transformations: un élément d'enveloppe est dit "touché par les transformations" si l'on y entreprend des travaux plus importants qu'un simple rafraîchissement ou des réparations mineures;
-- e) touché par les modifications: une installation du bâtiment est dite "touchée par les modifications" si des travaux ou des réglages allant au-delà de l'entretien et de la maintenance ou des réparations mineures sont entrepris;
-- f) touché par le changement d'affectation: un élément de construction est dit "touché par le changement d'affectation" si celui-ci entraîne une modification de la température ambiante selon les conditions normales d'utilisation (SIA 380/1).
+<sup>3</sup> Les coûts externes de l’utilisation des agents énergétiques pour les calculs économiques sont publiés périodiquement par le service en charge de l’énergie (ci-après: le service).
+
+<sup>4</sup> Les taxes prélevées par la Confédération sur les agents énergétiques pour des buts énergétiques ou de protection du climat sont considérées incluses dans les coûts externes tant qu’elles ne leur sont pas supérieures. Cela concerne notamment la taxe sur le CO<sub>2</sub> ou le supplément sur les coûts de transport de l’électricité.
 
 #### Art. 5
 
-**Prise en compte des énergies renouvelables**
+**Dérogations**
 
-<sup>1</sup> L'énergie thermique ou électrique issue d'une source d'énergie renouvelable ne peut être prise en compte au sens de la présente ordonnance que si elle est produite directement sur le site concerné ou si elle est fournie par un réseau de chauffage à distance.
+<sup>1</sup> La demande de dérogation est adressée à l’autorité compétente en matière d’autorisation de construire ou, à défaut, au service.
+
+<sup>2</sup> Elle est formulée par écrit, motivée et accompagnée des moyens de preuve éventuels.
+
+<sup>3</sup> Par situation personnelle d’une personne physique ou situation de la personne morale, on entend en principe toutes les circonstances qui, dans un cas concret, font apparaître une mesure prescrite par la loi comme déraisonnable, disproportionnée ou inadéquate.
+
+<sup>4</sup> La situation financière peut justifier une dérogation lorsque l’investissement requis entraîne un endettement excessif ou que la personne ne peut pas obtenir de financement bancaire.
+
+<sup>5</sup> Lors de l’évaluation de la situation du bâtiment, les projets considérés à court terme (rénovation d’envergure, l’extension ou la démolition du bâtiment etc.) sont ceux qui seront réalisés dans un délai de 5 ans.
+
+## 2 Planification énergétique
 
 #### Art. 6
 
-**Etat de la technique**
+**Cadastre énergétique**
 
-<sup>1</sup> Mesures prescrites par la présente ordonnance, relatives à l'énergie et à l'hygiène de l'air, sont planifiées et appliquées conformément à l'état de la technique.
+<sup>1</sup> Le cadastre énergétique ne remplace pas les cadastres communaux ou ceux d’acteurs du domaine énergétique.
 
-<sup>2</sup> Sauf règle expresse contraire, l'état de la technique correspond aux performances requises et aux méthodes de calcul des normes et des recommandations en vigueur émises par les associations professionnelles et par la Conférence des directeurs cantonaux de l'énergie (EnDK) ou la Conférence des services cantonaux de l'énergie (EnFK).
-
-<sup>3</sup> Le service met à disposition la liste des principales normes et recommandations.
-
-<sup>4</sup> En cas de révision ou d'adaptation, par les associations professionnelles, des normes et recommandations en vigueur, le service peut fixer une période transitoire jusqu'à l'application des nouvelles dispositions.
+<sup>2</sup> Il sera présenté sous une forme adaptée pour fournir une information générale. Il n’est pas destiné à préciser l’emplacement exact des infrastructures énergétiques.
 
 #### Art. 7
 
-**Dérogations**
+**Planification énergétique communale ou intercommunale**
 
-<sup>1</sup> Le service peut accorder des dérogations si des conditions extraordinaires rendent excessif le respect des dispositions de la présente ordonnance, et dans la mesure où l'intérêt public ne s'y oppose pas.
+<sup>1</sup> La planification énergétique communale ou intercommunale est un document de portée stratégique. Les communes peuvent rendre contraignants des éléments de celle-ci en les introduisant dans leurs règlements.
 
-<sup>2</sup> Sous réserve d'une autre réglementation formelle, nul n'a droit à obtenir une dérogation.
+<sup>2</sup> La planification énergétique communale ou intercommunale comprend en particulier:
 
-<sup>3</sup> L'autorité peut assortir l'octroi d'une dérogation de conditions et charges. Cette dérogation peut également être limitée dans le temps.
+- a) une planification énergétique territoriale;
+- b) des propositions de mesures organisationnelles en lien avec les activités communales;
+- c) des propositions de mesures financières visant l’accélération de la transition énergétique;
+- d) des propositions de dispositions à intégrer dans des règlements spécifiques (p.ex. sur les mesures de soutien, relatif aux mesures d'encouragement pour l'utilisation rationnelle de l'énergie et la promotion des énergies renouvelables) ou dans des instruments d’aménagement du territoire (PAZ, RCCZ, PAS, etc.) si les mesures ont un impact territorial localisé.
 
-<sup>4</sup> La demande de dérogation doit correspondre aux critères fixés par le service. Le requérant peut être appelé à fournir des justifications spécifiques (monuments historiques, physique du bâtiment, etc.).
+<sup>3</sup> La planification met en évidence les éventuels conflits d’intérêts entre les objectifs énergétiques et les objectifs de protection d’autres intérêts.
 
-<sup>5</sup> Les aspects économiques seront notamment traités sur la base de calculs de rentabilité tenant compte des coûts externes de l'énergie; une décision du Conseil d'Etat fixe périodiquement les modalités de calculs et la valeur des coûts externes.
-
-## 2 Enveloppe des bâtiments
+<sup>4</sup> Le département en charge de l’énergie (ci-après: le département) met à disposition des communes un exemple de planification énergétique communale.
 
 #### Art. 8
 
-**Conception**
+**Planification énergétique territoriale**
 
-<sup>1</sup> Dans les limites des contraintes architecturales et urbanistiques, les bâtiments sont conçus de manière à favoriser l'utilisation de l'énergie solaire passive et active, notamment par l'orientation de la construction, la répartition et la proportion des ouvertures vitrées, ainsi que par le choix des matériaux.
+<sup>1</sup> La planification énergétique territoriale comprend:
 
-<sup>2</sup> Afin d'éviter autant que possible le recours à une installation de rafraîchissement ou au moins de maintenir faible sa consommation d'énergie, les locaux seront protégés d'un échauffement excessif dû au rayonnement solaire par des mesures appropriées sur l'enveloppe du bâtiment.
+- a) un diagnostic, basé sur l’établissement graphique et cartographique de la situation énergétique locale, avec l’identification des consommations actuelles d’énergie par agent énergétique, des infrastructures existantes et planifiées (gaz, chauffage à distance, etc.) et des potentiels d’énergies renouvelables et de rejets de chaleur valorisés et valorisables localement;
+- b) des scénarios, basés sur une évaluation des consommations futures, mises en relation avec les potentiels de production et de valorisation énergétiques identifiés localement; une comparaison des performances des différents scénarios, au moins sur le plan de l’efficacité énergétique et de la part en énergies renouvelables, est exigée;
+- c) des recommandations fondées sur la base de la comparaison des scénarios.
+
+<sup>2</sup> Pour tout ou partie de leur territoire, les communes peuvent introduire dans des règlements spécifiques ou dans les instruments d’aménagement du territoire (PAZ, RCCZ, PAS, etc.) des exigences énergétiques particulières, notamment:
+
+- a) l'utilisation ou l’interdiction d'un agent énergétique déterminé;
+- b) des exigences accrues en matière d'utilisation efficace de l'énergie et de valorisation des énergies renouvelables;
+- c) le raccordement des bâtiments à un réseau de chauffage ou de refroidissement à distance alimenté essentiellement par des énergies renouvelables et/ou des rejets de chaleur, y compris la chaleur produite par des couplages chaleur-force.
+
+<sup>3</sup> En cas d’introduction d’exigences énergétiques particulières pour certains secteurs du territoire dans un règlement spécifique, ces secteurs sont reportés à titre indicatif sur le plan d'affectation des zones, p.ex. un secteur avec obligation de raccordement à une centrale de chauffage commune à un groupe de bâtiments ou à un quartier.
 
 #### Art. 9
 
-**Exigences et justification concernant la protection thermique pour l'hiver**
+**Données énergétiques**
 
-<sup>1</sup> Excepté pour les locaux frigorifiques, les serres agricoles et artisanales, et les halles gonflables, les exigences requises en matière d'isolation thermique des constructions se basent sur la norme SIA 380/1.
+<sup>1</sup> Le service collabore avec le service en charge de la statistique publique pour le traitement et la gestion des données énergétiques.
 
-<sup>2</sup> La justification par la performance globale s'effectue avec les données climatiques:
-
-- a) de Sion pour un bâtiment à une altitude inférieure à 1'000 mètres;
-- b) de Montana ou de Zermatt (selon la station la plus appropriée) pour une altitude comprise entre 1'000 et 1'800 mètres;
-- c) du Grand-Saint-Bernard pour une altitude supérieure à 1'800 mètres.
-
-<sup>3</sup> Dans des cas particuliers et sur justification technique, les exigences et le calcul des besoins de chauffage peuvent se baser sur d'autres données climatiques plus appropriées.
-
-<sup>4</sup> Le calcul des besoins de chaleur pour le chauffage s'effectue à l'aide d'un logiciel certifié.
-
-<sup>5</sup> Lors de transformations ou de changements d'affectation, le calcul des besoins de chaleur pour le chauffage porte sur tous les locaux comprenant des éléments de construction touchés par les transformations ou le changement d'affectation. Les locaux qui ne sont pas concernés par les transformations ou le changement d'affectation peuvent aussi être pris en compte dans le calcul. Les besoins de chaleur pour le chauffage ne peuvent pas dépasser, directement ou indirectement sur la base des performances ponctuelles requises, la limite fixée dans une autorisation de construire antérieure.
+<sup>2</sup> Il collabore avec les associations professionnelles dont les membres sont propriétaires de données énergétiques pour faciliter les échanges de données en vue d’une digitalisation des processus.
 
 #### Art. 10
 
-**Exigences et justification concernant la protection thermique pour l'été**
+**Traitement des données personnelles**
 
-<sup>1</sup> La protection thermique des bâtiments pour l'été doit être justifiée au sens de la norme SIA 382/1.
+<sup>1</sup> Les données personnelles traitées le sont dans les limites de l’article 14 de la loi sur l’énergie (LcEne), pour autant que le besoin soit démontré et en accord avec la loi sur l'information du public, la protection des données et l'archivage (LIPDA).
 
-<sup>2</sup> Pour des locaux refroidis ou des locaux pour lesquels un refroidissement est nécessaire ou souhaité, les exigences à respecter concernant la valeur g, la commande et la résistance au vent de la protection solaire sont celles fixées par l'état de la technique.
+<sup>2</sup> Les données personnelles peuvent être conservées pendant 10 ans au plus.
 
-<sup>3</sup> Pour les autres locaux, les exigences relatives à la valeur g de la protection solaire sont celles fixées par l'état de la technique.
+<sup>3</sup> L'authenticité, la fiabilité, l'intégrité et l'exploitabilité des données sont assurées afin de garantir de manière appropriée la protection des données. Les mesures techniques et organisationnelles mises en place font l’objet d'un réexamen périodique.
 
 #### Art. 11
 
-**Locaux frigorifiques**
+**Communication des données**
 
-<sup>1</sup> Dans les locaux frigorifiques maintenus à une température inférieure à 8°C, l'apport de chaleur moyen à travers des éléments de construction constituant l'enveloppe du local ne doit pas dépasser 5W/m² par zone de température.
+<sup>1</sup> Le responsable du traitement indique au destinataire l'actualité et la fiabilité des données personnelles qu'il communique, dans la mesure où ces informations ne ressortent pas des données elles-mêmes ou des circonstances.
 
-<sup>2</sup> Le calcul doit être fondé, d'une part, sur la température de conception du local et, d'autre part, sur les températures ambiantes suivantes:
+<sup>2</sup> Le service s’assure, dans le cadre d’un contrat, du respect de la présente loi et des règles de protection des données auprès du destinataire des données.
 
-- a) dans les locaux chauffé — température de conception pour le chauffage
-- b) vers l'extérieur — 20°C
-- c) vers le terrain ou les locaux non chauffés — 10°C
+<sup>3</sup> Les données sont transmises de façon sécurisée.
 
-<sup>3</sup> Pour les locaux frigorifiques de moins de 30m³ de volume utile, les exigences sont aussi respectées si les éléments de construction présentent une valeur U moyenne inférieure ou égale à 0.15W/m²K.
+## 3 Approvisionnement énergétique
 
 #### Art. 12
 
-**Serres et halles gonflables chauffées**
+**Intérêt cantonal à l'utilisation des énergies renouvelables et indigènes**
 
-<sup>1</sup> Les serres artisanales et agricoles dans lesquelles la reproduction, la production ou la commercialisation de plantes imposent des conditions de croissance bien définies sont soumises aux exigences requises dans la recommandation "Serres chauffées" de la Conférence des services cantonaux de l'énergie (EnFK).
+<sup>1</sup> Sont considérées comme installations d’intérêt cantonal:
 
-<sup>2</sup> Pour les halles gonflables chauffées, sont applicables les exigences de la recommandation "Halles gonflables chauffées" de l'EnFK.
+- a) une installation hydroélectrique atteignant une production moyenne attendue d’au moins 5 GWh par an;
+- b) une installation éolienne ou un parc éolien produisant au moins 10 GWh par an;
+- c) une installation solaire photovoltaïque d’au moins 30 kWp;
+- d) une chaudière à bois ou à pellets produisant au moins 1 GWh par an de chaleur pour autant qu’elle se situe à une altitude supérieure à 800 m.s.m;
+- e) une centrale de couplage chaleur-force à bois d’une puissance thermique primaire minimale de 3 MW avec un rendement global (électrique et thermique) d’au moins 75 pour cent pour autant qu’elle se situe à une altitude supérieure à 800 m.s.m;
+- f) une installation de production de chaleur à bois telle que définie aux lettres d et e, mise en place à une altitude inférieure à 800 m.s.m., pour autant qu’elle alimente un réseau de chauffage à distance à caractère renouvelable à au moins 75 pour cent;
+- g) une pompe à chaleur produisant au moins 0,1 GWh par an de chaleur;
+- h) une installation solaire thermique produisant au moins 0,05 GWh par an;
+- i) une installation de production de biogaz produisant au moins 1 GWh net par an injecté dans le réseau de gaz, ou, en cas de valorisation sur le site de production, avec un rendement global (électrique et thermique) d’au moins 75 pour cent. La quantité nette d’énergie produite prend en compte l’énergie consommée pour produire le biogaz.
+
+<sup>2</sup> Même si une installation de chauffage ou de production d'électricité ne présente pas la taille ou l’importance requise à l’alinéa 1, le Conseil d’Etat peut exceptionnellement lui reconnaître un intérêt cantonal, si les conditions suivantes sont remplies:
+
+- a) elle contribue de manière essentielle à atteindre les objectifs de la loi;
+- b) la commune d’implantation en fait la demande, par son conseil communal.
+
+<sup>3</sup> Lors de l’évaluation de la demande de la commune, le Conseil d’Etat tient compte des autres sites d’implantation éventuels et de leur nombre.
 
 #### Art. 13
 
-**Dispense et allègement**
+**Rejets de chaleur des installations productrices d'électricité**
 
-<sup>1</sup> Un allègement des exigences de l'article 9 en matière de protection thermique pour l'hiver est possible pour:
+<sup>1</sup> Par biomasse agricole au sens de l’article 22 alinéa 2 LcEne, on entend les déchets de biomasse générés au sein d’une exploitation agricole tels que lisier, excréments, déchets verts, etc.
 
-- a) des bâtiments chauffés à moins de 10°C de manière active, excepté les locaux frigorifiques;
-- b) des locaux frigorifiques qui ne sont pas refroidis à moins de 8°C;
-- c) des bâtiments dont l'autorisation de construire est limitée à trois ans au maximum (constructions provisoires);
-- d) des constructions provisoires érigées chaque année pendant la saison de chauffage.
-
-<sup>2</sup> Une dispense du respect des exigences de l'article 9 en matière de protection thermique pour l'hiver est possible pour les changements d'affectation qui n'impliquent pas d'élévation ou de baisse de la température ambiante et, de ce fait, n'augmentent pas la différence de température mesurée de part et d'autre du périmètre d'isolation.
-
-<sup>3</sup> Un allègement des exigences de l'article 10 en matière de protection thermique pour l'été est possible pour:
-
-- a) des bâtiments dont l'autorisation de construire est limitée à trois ans au maximum (constructions provisoires);
-- b) des constructions provisoires érigées chaque année pendant la saison estivale.
-
-<sup>4</sup> Une dispense du respect des exigences de l'article 10 en matière de protection thermique pour l'été est possible pour:
-
-- a) des changements d'affectation, pour autant qu'aucun local ne soit concerné par l'article 10;
-- b) des projets pour lesquels il est établi, sur la base d'une procédure de calcul reconnue, qu'il n'y aura pas une consommation accrue d'énergie.
-
-## 3 Part maximale d'énergies non renouvelables pour les nouveaux bâtiments
+<sup>2</sup> Les installations productrices d'électricité alimentées avec de la biomasse cultivée à des fins de production d’énergie ne sont pas exemptées de l’obligation de valoriser les rejets de chaleur.
 
 #### Art. 14
 
-**Part maximale d'énergies non renouvelables**
+**Rétribution de la chaleur et des gaz de synthèse d’origine renouvelable**
 
-<sup>1</sup> Les nouveaux bâtiments et les extensions de bâtiments existants (surélévations, annexes, etc.) doivent être construits et équipés de sorte que les énergies non renouvelables ne couvrent pas plus du 80 pour cent des besoins de chaleur admissibles pour le chauffage et l'eau chaude sanitaire.
+<sup>1</sup> La participation pour l’amortissement du réseau est calculée sur la base de l’amortissement moyen du réseau et de la moyenne de l’énergie distribuée par le gestionnaire de réseau sur 5 ans.
 
-<sup>2</sup> Sont dispensées de l'exigence de l'alinéa 1 les extensions de bâtiments existants si la nouvelle construction comporte moins de 50 mètres carrés surface de référence énergétique, ou si elle représente moins de 20 pour cent de la surface de référence énergétique du bâtiment existant sans pour autant dépasser 1'000 mètres carrés.
+## 4 Utilisation économe et efficace de l'énergie
+
+### 4.1 Dispositions générales
 
 #### Art. 15
 
-**Principes de calcul**
+**Intérêt cantonal à l’efficacité énergétique**
 
-<sup>1</sup> Les besoins de chaleur admissibles pour les nouveaux bâtiments s'obtiennent en additionnant la valeur limite des besoins de chaleur pour le chauffage (selon l'art. 9) et celle pour l'eau chaude sanitaire, déterminées en fonction des conditions normales d'utilisation définies par la norme SIA 380/1.
+<sup>1</sup> Sont considérées d’intérêt cantonal à l’efficacité énergétique toutes mesures d’économie d’énergie permettant:
 
-<sup>2</sup> Dans les bâtiments équipés d'installations mécaniques de ventilation, le calcul des besoins de chaleur pour le chauffage peut s'effectuer en fonction des besoins énergétiques effectifs pour la ventilation, en incluant les besoins d'énergie pour le transport de l'air. Le débit d'air neuf nécessaire du point de vue de l'hygiène doit être garanti.
+- a) de réduire les besoins d’énergie d’au moins 100’000 kWh par an, sans condition sur le pourcentage de réduction des besoins d’énergie;
+- b) de réduire les besoins d’énergie en valeur absolue d’au minimum 10'000 kWh par an, sous condition que la réduction des besoins soit d’au moins 30 pour cent pour 10'000 kWh par an;
+- c) de réduire les besoins d’énergie en valeur relative de manière linéaire entre 10'000 et 100'000 kWh, selon la formule 1/3 [100 – (l’économie en valeur absolue / 1'000)].
 
-<sup>3</sup> L'électricité utilisée pour couvrir les besoins en chaleur pour le chauffage et pour la production d'eau chaude sanitaire, ainsi que pour le transport de l'air pour la ventilation, est pondérée d'un facteur 2.
+<sup>2</sup> Sous forme graphique, l’intérêt cantonal à l’efficacité énergétique se présente comme suit:
+
+<sup>3</sup> L’économie d’électricité est pondérée avec un facteur 2. Ainsi 1 kWh d’électricité économisé équivaut à 2 kWh économisés pour l’application de l’alinéa 1.
 
 #### Art. 16
 
-**Justification à l'aide de solutions standard**
+**Etat de la technique**
 
-<sup>1</sup> L'exigence requise à l'article 14 est considérée comme respectée si le projet répond à l'une des solutions standard ci-dessous et qu'il est réalisé dans les règles de l'art:
+<sup>1</sup> Les mesures relatives à l’énergie et à l’hygiène de l’air ambiant prescrites par la présente ordonnance doivent être planifiées et appliquées conformément à l’état de la technique.
 
-- a) isolation thermique renforcée:
-  - 1\. valeurs U des éléments de construction opaques contre l'extérieur — &lt; 0.12W/m²K
-  - 2\. et valeur U des fenêtres — &lt; 1.0W/m²K
-- b) isolation thermique renforcée et aération douce:
-  - 1\. valeurs U des éléments de construction opaques contre l'extérieur — &lt; 0.15W/m²K
-  - 2\. et valeur U des fenêtres — &lt; 1.0W/m²K
-  - 3\. et aération douce avec air fourni, air repris et récupérateur de chaleur;
-- c) isolation thermique renforcée et installation solaire:
-  - 1\. valeurs U des éléments de construction opaques contre l'extérieur — &lt; 0.15W/m²K
-  - 2\. et valeur U des fenêtres — &lt; 1.0W/m²K
-  - 3\. et capteurs solaires pour la production d'eau chaude sanitaire, dont la surface représente au moins deux pour cent de la SRE (la surface des capteurs solaires correspond à la surface nette d'absorbeurs vitrés sélectifs);
-- d) chauffage au bois et installation solaire:
-  - 1\. chauffage au bois pour le chauffage,
-  - 2\. et capteurs solaires pour la production d'eau chaude sanitaire, dont la surface représente au moins deux pour cent de la SRE (la surface des capteurs solaires correspond à la surface nette d'absorbeurs vitrés sélectifs);
-- e) chauffage automatique au bois: chauffage automatique au bois, pour le chauffage et la production d'eau chaude sanitaire toute l'année (p.ex. chauffage aux granulés de bois ou "pellets");
-- f) pompe à chaleur avec sondes géothermiques ou équipée d'un échangeur eau/eau: pompe à chaleur saumure/eau alimentée à l'électricité, avec sondes géothermiques ou pompe à chaleur eau/eau avec eaux souterraines ou superficielles comme source de chaleur, pour le chauffage et la production d'eau chaude sanitaire toute l'année;
-- g) pompe à chaleur utilisant l'air extérieur: pompe à chaleur air extérieur/eau alimentée à l'électricité, pour le chauffage et la production d'eau chaude sanitaire toute l'année. La pompe à chaleur doit être dimensionnée de telle manière que sa puissance thermique puisse couvrir les besoins de chaleur (chauffage et production d'eau chaude) pour tout le bâtiment sans appoint électrique. La température de départ maximale pour le chauffage est de 35°C;
-- h) aération douce et installation solaire:
-  - 1\. aération douce avec air fourni, air repris et récupérateur de chaleur,
-  - 2\. et capteurs solaires pour le chauffage et la production d'eau chaude sanitaire, dont la surface représente au moins cinq pour cent de SRE (la surface des capteurs solaires correspond à la surface nette d'absorbeurs vitrés sélectifs);
-- i) installation solaire: capteurs solaires pour le chauffage et la production d'eau chaude sanitaire, d'au moins sept pour cent de SRE (la surface des capteurs solaires correspond à la surface nette d'absorbeurs vitrés sélectifs);
-- j) rejets thermiques: utilisation des rejets thermiques (p.ex. chauffage à distance provenant d'une UIOM, d'une STEP ou d'une industrie) pour le chauffage et la production d'eau chaude sanitaire toute l'année;
-- k) couplage chaleur-force: installation de couplage chaleur-force avec rendement électrique d'au moins 30 pour cent pour au moins 70 pour cent des besoins de chaleur pour le chauffage et la production d'eau chaude sanitaire.
+<sup>2</sup> Sauf règle expresse contraire, l’état de la technique correspond aux performances requises et aux méthodes de calcul des normes et des recommandations en vigueur émises par les associations professionnelles et par l’EnDK ou l’EnFK. En cas de divergence, le service décide.
 
-## 4 Installations techniques
+<sup>3</sup> Le service met à disposition la liste des principales normes et recommandations.
+
+<sup>4</sup> En cas de révision ou d’adaptation, par les associations professionnelles, des normes et recommandations en vigueur, le service peut fixer une période transitoire jusqu’à l’application des nouvelles dispositions.
 
 #### Art. 17
+
+**Définitions**
+
+<sup>1</sup> Les définitions au sens du chapitre 1 "Terminologie" de la norme SIA 380/1 "Besoin de chaleur pour le chauffage", sont applicables pour autant qu’elles soient utilisées de manière analogue dans la présente ordonnance.
+
+<sup>2</sup> En outre, on entend par:
+
+- a) construction / bâtiment: constructions, petites constructions, annexes, constructions souterraines ou constructions partiellement souterraines au sens de l'accord intercantonal harmonisant la terminologie dans le domaine des constructions (AIHC). Les constructions mobiles, pour autant qu’elles stationnent au même endroit pour une durée supérieure à trois mois, y sont assimilées;
+- b) installation / aménagement: objet de facture artificielle, fondé dans le sol ou reposant en surface, appelé à durer, mais ne constituant pas un bâtiment, comme par exemple: rampes, places de parc, terrains de sport, champs de tir, téléphériques, etc.;
+- c) équipements / installations techniques du bâtiment: dispositifs en rapport avec un bâtiment ou une installation et qui sont liés de façon significative à la consommation d’énergie, comme par exemple: chaudière, monobloc de ventilation, pompe à chaleur, etc.;
+- d) touché par les transformations: un élément de construction est dit "touché par les transformations" si l’on y entreprend des travaux plus importants qu’un simple rafraîchissement ou des réparations mineures;
+- e) touché par les modifications: une installation du bâtiment est dite "touchée par les modifications" si des travaux ou des réglages allant au-delà de l'entretien et de la maintenance ou des réparations mineures sont entrepris;
+- f) touché par le changement d’affectation: un élément de construction est dit "touché par le changement d’affectation" si celui-ci entraîne une modification de la température ambiante selon les conditions normales d’utilisation (norme SIA 380/1);
+- g) surface de référence énergétique (SRE): définie dans la norme SIA 380, il s'agit de la somme de toutes les surfaces de plancher des étages et des sous-sols inclues dans l’enveloppe thermique; la notion de surface brute chauffée définie dans la norme SIA 416 est identique;
+- h) EnDK: Conférence des directeurs cantonaux de l’énergie;
+- i) EnFK: Conférence des services cantonaux de l’énergie.
+
+#### Art. 18
+
+**Labels, certificats et normes**
+
+<sup>1</sup> Sauf disposition contraire, les labels, certificats et normes auxquels la présente ordonnance renvoie sont ceux en vigueur.
+
+<sup>2</sup> Les principaux labels, certificats et normes sont:
+
+- a) les labels MINERGIE® définis par l’Association MINERGIE®;
+- b) le certificat énergétique cantonal des bâtiments (CECB) défini par l’EnDK;
+- c) la norme SIA 180 "Isolation thermique et protection contre l'humidité dans les bâtiments" (norme SIA 180);
+- d) la norme SIA 380 "Bases pour les calculs énergétiques des bâtiments" (norme SIA 380);
+- e) la norme SIA 380/1 "Besoins de chaleur pour le chauffage" (norme SIA 380/1);
+- f) la norme SIA 382/1 "Installations de ventilation et de climatisation - Bases générales et performances requises" (norme SIA 382/1);
+- g) la norme SIA 385/1 "Installations d'eau chaude sanitaire dans les bâtiments" (norme SIA 385/1);
+- h) la norme SIA 387/4 "Électricité dans le bâtiment - Illumination: calcul et exigences" (norme SIA 387/4);
+- i) la norme SIA 480 "Calcul de rentabilité pour les investissements dans le bâtiment" (norme SIA 480);
+- j) le cahier technique SIA 2060 "Infrastructure pour véhicules électriques dans les bâtiments";
+- k) la norme SN EN 13201 "Éclairage des routes" de l’Association Suisse de normalisation (SNV) (norme SN EN 13201).
+
+#### Art. 19
+
+**Certificat énergétique cantonal des bâtiments (CECB)**
+
+<sup>1</sup> La classe énergétique d'un bâtiment est établie à l'aide du certificat énergétique cantonal des bâtiments CECB.
+
+<sup>2</sup> Le CECB s'applique aux catégories d’ouvrages de la norme SIA 380/1 définies dans le "Règlement des produits" de l’Association CECB.
+
+<sup>3</sup> Le CECB peut servir de justificatif à des exigences prévues dans la présente ordonnance.
+
+#### Art. 20
+
+**Champ d’application des exigences minimales pour les constructions et les installations**
+
+<sup>1</sup> Les exigences requises pour les constructions et les installations s’appliquent:
+
+- a) aux nouveaux bâtiments destinées à être chauffés, ventilés, refroidis ou humidifiés;
+- b) aux transformations et changements d’affectation des bâtiments et installations existants destinés à être chauffés, ventilés, refroidis ou humidifiés;
+- c) au montage de nouvelles installations techniques des bâtiments;
+- d) au remplacement, à la transformation ou à la modification des installations techniques des bâtiments.
+
+<sup>2</sup> Les exigences de la présente ordonnance s'appliquent également aux travaux qui ne sont pas soumis à autorisation en vertu des dispositions légales en matière de construction.
+
+<sup>3</sup> La réalisation de constructions annexes et les transformations s’apparentant à la construction d’un nouveau bâtiment telles que l’évacuation de murs intérieurs et de dalles ou d’autres travaux semblables, sont assimilées à la réalisation de nouveaux bâtiments et doivent répondre aux exigences fixées pour ces derniers. La présente disposition n’est pas applicable aux travaux mineurs.
+
+### 4.1.1 Enveloppe des bâtiments
+
+#### Art. 21
+
+**Conception**
+
+<sup>1</sup> Dans les limites des contraintes architecturales et urbanistiques, les bâtiments sont conçus de manière à favoriser l’utilisation de l’énergie solaire passive et active, notamment par l’orientation de la construction, la répartition et la proportion des ouvertures vitrées, ainsi que par le choix des matériaux.
+
+<sup>2</sup> Les performances requises par la norme SIA 180 doivent être respectées. Ces performances s'appliquent en particulier aux domaines du confort, de l'étanchéité de l'enveloppe du bâtiment et des méthodes d'aération.
+
+<sup>3</sup> Afin d’éviter autant que possible le recours à une installation de rafraîchissement ou au moins afin de maintenir le plus faible possible la consommation d’énergie, les bâtiments seront conçus dans le respect des exigences des normes SIA 180 et SIA 382/1, avec notamment des locaux protégés d’un échauffement excessif dû au rayonnement solaire par des mesures appropriées sur l’enveloppe du bâtiment.
+
+#### Art. 22
+
+**Exigences et justification concernant l'isolation thermique en hiver**
+
+<sup>1</sup> Les exigences requises en matière d'isolation thermique des constructions se basent sur la norme SIA 380/1, sous réserve des exigences décrites aux articles 24, 25, 26, 27, 28 et 29.
+
+<sup>2</sup> S’agissant du respect des performances ponctuelles pour l’isolation thermique de chaque élément de l’enveloppe des nouveaux bâtiments et des nouveaux éléments de construction lors de transformations ou de changements d’affectation, les valeurs limites suivantes ainsi que celles mentionnées aux alinéas 3 et 4 sont applicables:
+
+Valeurs limites U<sub>li</sub> en W/(m²·K) avec justificatif des ponts thermiques
+
+<table>
+<tr><th>Eléments</th><th>Éléments d'enveloppe contre l'extérieur ou enterrés à moins de 2 m</th><th>Éléments d'enveloppe contre locaux non chauffés ou enterrés à plus de 2 m</th></tr>
+<tr><td>Éléments opaques (toit, plafond, mur, sol)</td><td>0,17</td><td>0,25</td></tr>
+<tr><td>Fenêtres, portes vitrées</td><td>1,0</td><td>1,3</td></tr>
+<tr><td>Portes</td><td>1,2</td><td>1,5</td></tr>
+<tr><td>Portes (selon norme SIA 343)</td><td>1,7</td><td>2,0</td></tr>
+<tr><td>Caissons de stores</td><td>0,5</td><td>0,5</td></tr>
+</table>
+
+<sup>3</sup> Valeur limite W/(m·K) du coefficient linéique de transmission thermique Ψ:
+
+- a) type 1: parties saillantes, telle que balcon ou avant-toit: — 0,30
+- b) type 2: interruption de l’isolation thermique par des parois, des dalles ou des plafonds: — 0,20
+- c) type 3: interruption de l'enveloppe isolante vers les arêtes horizontales ou verticales: — 0,20
+- d) type 5: appui de fenêtre contre mur: — 0,15
+
+<sup>4</sup> Valeur limite W/K du coefficient ponctuel de transmission thermique Χ:
+
+- a) Élément ponctuel traversant l’isolation thermique: — 0,30
+
+<sup>5</sup> S’agissant du respect des performances ponctuelles pour l’isolation thermique de chaque élément de l’enveloppe du bâtiment, applicables à tous les éléments de construction touchés par une transformation ou un changement d’affectation, les valeurs limites sont les suivantes:
+
+Valeurs limites U<sub>li</sub> en W/(m²·K):
+
+<table>
+<tr><th>Elément</th><th>Éléments d'enveloppe contre l'extérieur ou enterrés à moins de 2 m</th><th>Éléments d'enveloppe contre locaux non chauffés ou enterrés à plus de 2 m</th></tr>
+<tr><td>Éléments opaques (toit, plafond, mur, sol)</td><td>0,25</td><td>0,28</td></tr>
+<tr><td>Fenêtres, portes vitrées</td><td>1,0</td><td>1,3</td></tr>
+<tr><td>Portes</td><td>1,2</td><td>1,5</td></tr>
+<tr><td>Portes (selon norme SIA 343)</td><td>1,7</td><td>2,0</td></tr>
+<tr><td>Caissons de stores</td><td>0,5</td><td>0,5</td></tr>
+</table>
+
+<sup>6</sup> S'agissant du respect de la performance globale sous forme de calcul des besoins de chaleur pour le chauffage et de la puissance de chauffage spécifique des bâtiments à construire, les valeurs limites doivent être calculées avec les valeurs suivantes:
+
+<table>
+<tr><th>Catégorie d'ouvrages</th><th>Nom</th><th>Q<sub>H,li0</sub></th><th>ΔQ<sub>H,li</sub></th><th>P<sub>H,li</sub></th></tr>
+<tr><td>I</td><td>Habitat collectif</td><td>13</td><td>15</td><td>20</td></tr>
+<tr><td>II</td><td>Habitat individuel</td><td>16</td><td>15</td><td>25</td></tr>
+<tr><td>III</td><td>Administration</td><td>13</td><td>15</td><td>25</td></tr>
+<tr><td>IV</td><td>Ecole</td><td>14</td><td>15</td><td>20</td></tr>
+<tr><td>V</td><td>Commerce</td><td>7</td><td>14</td><td>-</td></tr>
+<tr><td>VI</td><td>Restauration</td><td>16</td><td>15</td><td>-</td></tr>
+<tr><td>VII</td><td>Lieu de rassemblement</td><td>18</td><td>15</td><td>-</td></tr>
+<tr><td>VIII</td><td>Hôpital</td><td>18</td><td>17</td><td></td></tr>
+<tr><td>IX</td><td>Industrie</td><td>10</td><td>14</td><td>-</td></tr>
+<tr><td>X</td><td>Dépôt</td><td>14</td><td>14</td><td>-</td></tr>
+<tr><td>XI</td><td>Installation sportive</td><td>16</td><td>14</td><td>-</td></tr>
+<tr><td>XII</td><td>Piscine couverte</td><td>15</td><td>18</td><td>-</td></tr>
+</table>
+
+<sup>7</sup> La valeur limite pour les transformations ou changements d’affectation Q<sub>H,li,re</sub> pour toutes les catégories d'ouvrages correspond à 1,5 Q<sub>H,li</sub> kWh/m².
+
+<sup>8</sup> Les bâtiments à construire ou ceux considérés comme tels sont soumis en outre aux exigences du chapitre 4.2.
+
+#### Art. 23
+
+**Données climatiques**
+
+<sup>1</sup> La justification par la performance globale s’effectue en principe avec les données climatiques de la station de Sion pour les bâtiments situés à une altitude inférieure ou égale à 1'000 m et avec celles de Montana pour les bâtiments situés à une altitude supérieure.
+
+<sup>2</sup> Dans des cas particuliers et sur justification technique, les exigences et le calcul des besoins de chauffage peuvent se baser sur d'autres données climatiques plus appropriées.
+
+#### Art. 24
+
+**Valeurs limites**
+
+<sup>1</sup> Aucune correction climatique des valeurs limites n’est requise pour les performances ponctuelles.
+
+<sup>2</sup> Pour la performance globale, les valeurs limites pour les besoins de chaleur annuels et pour la puissance de chauffage spécifique, relatifs au chauffage des nouveaux bâtiments, des bâtiments transformés ou changeant d’affectation, valables pour une température moyenne annuelle de 9,4°C et pour une température de dimensionnement de -8°C, se calculent avec les valeurs mentionnées à l'article 22 alinéa 6.
+
+<sup>3</sup> Ces valeurs limites sont majorées, respectivement réduites, de 6 pour cent lorsque la température moyenne annuelle est plus basse, respectivement plus élevée, d’un Kelvin.
+
+<sup>4</sup> Dans le cas d'une justification par performance globale au sens de la norme SIA 380/1, pour les bâtiments à construire, la puissance de chauffage spécifique (P<sub>H</sub>) ne doit pas excéder 20 W par m² de SRE pour les bâtiments scolaires et les bâtiments d'habitation collective et 25 W par m² de SRE pour les bâtiments d'habitation individuelle et les bâtiments administratifs.
+
+<sup>5</sup> La valeur limite de la puissance de chauffage spécifique (P<sub>H,li</sub>) est adaptée en tenant compte de l'écart entre la température de dimensionnement effective et la température de - 8°C.
+
+#### Art. 25
+
+**Transformation, changement d’affectation ou rénovation d’envergure**
+
+<sup>1</sup> Lors de transformations, de changements d’affectation ou de rénovations d’envergure, le calcul des besoins de chaleur pour le chauffage porte sur tous les locaux comprenant des éléments d'enveloppe touchés par les transformations, le changement d’affectation ou la rénovation d’envergure.
+
+<sup>2</sup> Les locaux qui ne sont pas concernés par les transformations, le changement d’affectation ou des rénovations d’envergure peuvent aussi être pris en compte dans le calcul.
+
+<sup>3</sup> Les besoins de chaleur pour le chauffage ne peuvent pas dépasser, directement ou indirectement à partir des performances ponctuelles, la valeur limite requise lors d'une précédente autorisation de construire.
+
+#### Art. 26
+
+**Allègement et dispense pour l’hiver**
+
+<sup>1</sup> Un allègement des exigences de l’article 22 en matière d’isolation thermique pour l’hiver est possible pour:
+
+- a) les bâtiments chauffés à moins de 10°C de manière active, exceptés les locaux frigorifiques;
+- b) les locaux frigorifiques qui ne sont pas refroidis à moins de 8°C;
+- c) les bâtiments dont le permis de construire est limité à 3 ans au maximum (constructions provisoires).
+
+<sup>2</sup> Une dispense aux exigences de l’article 22 en matière d’isolation thermique pour l’hiver est possible pour les changements d’affectation qui n’impliquent pas d’élévation ou de baisse de la température ambiante et, de ce fait, n’augmentent pas la différence de température mesurée de part et d’autre du périmètre d’isolation.
+
+#### Art. 27
+
+**Exigences et justification concernant le confort thermique en été**
+
+<sup>1</sup> Le confort thermique des bâtiments en été doit être justifié.
+
+<sup>2</sup> Pour des locaux rafraîchis ou des locaux pour lesquels un rafraîchissement est nécessaire ou souhaité, les exigences à respecter concernant le taux de transmission d’énergie globale g, la commande et la résistance au vent de la protection solaire sont celles fixées par l'état de la technique.
+
+<sup>3</sup> Pour les autres locaux, les exigences relatives à la valeur g de la protection solaire sont celles fixées par l'état de la technique.
+
+#### Art. 28
+
+**Allègement pour l’été**
+
+<sup>1</sup> Un allègement des exigences de l'article 27 en matière de confort thermique pour l’été est possible pour:
+
+- a) les bâtiments dont l’autorisation de construire est limitée à 3 ans au maximum (constructions provisoires);
+- b) des changements d’affectation, pour autant qu’aucun local ne soit concerné par l’article 25;
+- c) des projets pour lesquels il est établi sur la base d'une procédure de calcul ou d’une simulation dynamique reconnue, établie dans les règles de l’art, qu'il n'y aura pas une consommation accrue d'énergie et que le confort sera garanti;
+- d) les bâtiments de la catégorie XII et les locaux qui ne servent pas au séjour prolongé de personnes (moins d’une heure par jour);
+- e) des éléments de construction qui, pour des raisons d’exploitation, ne peuvent pas être adaptés.
+
+#### Art. 29
+
+**Constructions provisoires saisonnières**
+
+<sup>1</sup> Les constructions érigées ou utilisées chaque année durant une période saisonnière peuvent faire l’objet d’une dérogation.
+
+#### Art. 30
+
+**Locaux frigorifiques**
+
+<sup>1</sup> Dans les locaux frigorifiques maintenus à une température inférieure à 8°C, l’apport de chaleur moyen à travers les éléments de construction constituant l’enveloppe du local ne doit pas dépasser 5 W/m² par zone de température.
+
+<sup>2</sup> Le calcul doit être fondé d’une part, sur la température de consigne planifiée pour le local et, d’autre part, sur les températures ambiantes suivantes:
+
+- a) vers des locaux chauffés: température de consigne pour le chauffage;
+- b) vers l’extérieur: 20°C;
+- c) vers le terrain ou vers des locaux non chauffés: 10°C.
+
+<sup>3</sup> Pour les locaux frigorifiques de moins de 30 m³ de volume utile, les exigences sont aussi respectées si l'ensemble des éléments de construction présente une valeur U moyenne inférieure ou égale à 0,15 W/(m² K).
+
+#### Art. 31
+
+**Serres et halles gonflables chauffées**
+
+<sup>1</sup> Les serres dans lesquelles la reproduction, la production ou la commercialisation de plantes imposent des conditions de croissance bien définies sont soumises aux exigences requises dans la recommandation "Serres chauffées" de l’EnFK.
+
+<sup>2</sup> Pour les halles gonflables chauffées, sont applicables les exigences de la recommandation "Halles gonflables chauffées" de l’EnFK.
+
+### 4.1.2 Installations techniques
+
+#### Art. 32
 
 **Dimensionnement et exploitation**
 
 <sup>1</sup> Le dimensionnement des installations doit correspondre à l'état de la technique.
 
-<sup>2</sup> Les générateurs de chaleur et de froid d'une puissance supérieure à 20kW thermiques ainsi que les installations de ventilation et climatisation d'une puissance propulsive supérieure à 10kW seront équipés d'appareils de mesure de la consommation d'énergie.
+<sup>2</sup> Lors du remplacement d'installations techniques, tout nouvel équipement doit être dimensionné en tenant compte des données d'exploitation et des consommations recueillies préalablement.
 
-<sup>3</sup> Lors du remplacement d'installations techniques, tout nouvel équipement devra être dimensionné en tenant compte des données d'exploitation et des consommations recueillies préalablement.
+<sup>3</sup> Lors de la mise en place d’un générateur de chaleur ou de froid (chaudière, groupe frigorifique, pompe à chaleur, installation solaire thermique, etc.) celui-ci doit être équipé des dispositifs de comptage d’énergies rendant possible un contrôle de l’efficacité énergétique globale (fraction utile, COPA, etc.) et permettant à l’exploitant d’établir une comptabilité énergétique sur la base d’un relevé périodique.
 
-<sup>4</sup> Les installations doivent être mises en service et réglées selon les règles de l'art et dotées d'un dossier d'exploitation spécifique à l'installation.
+<sup>4</sup> Lors de la mise en place d’une pompe à chaleur eau-eau d’une puissance thermique supérieure ou égale à 100 kW, en plus des équipements prévus à l’alinéa 3, celle-ci doit être équipée des dispositifs permettant de quantifier l’énergie soutirée à l’environnement (nappe, lac, etc.). Le débit d’eau et la température d’eau soutirée ainsi que la température d’eau rejetée doivent être mesurés.
 
-<sup>5</sup> Les installations font l'objet d'une réception finale. Lors du contrôle de conformité, l'autorité compétente peut demander d'examiner le protocole établi à ce moment-là.
+<sup>5</sup> Lors de la mise en place d’une installation de ventilation mécanique centralisée, celle-ci doit être équipée d’un dispositif de comptage d’électricité permettant à l’exploitant d’établir une comptabilité énergétique sur la base d’un relevé périodique.
 
-#### Art. 18
+<sup>6</sup> Les compteurs d’énergie prévus aux alinéas 3, 4 et 5 sont des compteurs non étalonnés.
 
-**Production de chaleur**
+<sup>7</sup> Les installations doivent être mises en service et réglées selon les règles de l'art et dotées d'un dossier d'exploitation spécifique à l'installation transmis au maître de l’ouvrage lors de la réception finale.
 
-<sup>1</sup> Les exigences requises en matière de pertes par effluents gazeux sont fixées par les dispositions de la législation sur la protection de l'air (OPair).
-
-<sup>2</sup> Les chaudières installées dans des nouveaux bâtiments et alimentées par des combustibles fossiles doivent pouvoir utiliser la chaleur de condensation lorsque leur température de sécurité est inférieure à 110°C.
-
-<sup>3</sup> La même exigence s'applique aux installations de production de chaleur remplaçant une ancienne installation, dans la mesure des possibilités techniques et pour autant que l'investissement soit raisonnable.
-
-#### Art. 19
-
-**Chauffage électrique fixe à résistance**
-
-<sup>1</sup> Le montage de nouveaux chauffages électriques fixes à résistance pour le chauffage des bâtiments n'est autorisé que dans la mesure où il s'agit d'un chauffage de secours destiné à compléter une installation de chauffage principale correctement dimensionnée pour chauffer l'ensemble du bâtiment selon la norme SIA en vigueur, notamment dans les cas:
-
-- a) d'une pompe à chaleur, afin de fournir la puissance nécessaire lorsque la température extérieure est inférieure à la température de dimensionnement;
-- b) d'un chauffage au bois à alimentation manuelle, pour tenir compte de l'éventuelle absence des habitants, pour autant que la puissance électrique installée ne représente pas plus de 50 pour cent de la puissance de chauffage requise;
-- c) de certains locaux dont l'affectation particulière nécessiterait le maintien en service de l'installation de chauffage principale en dehors de la période de chauffe, sans la mise en place d'un chauffage électrique (par exemple salle de thérapie, salle de bain);
-- d) d'installations raccordées à un chauffage à distance déclenché en dehors de la période de chauffe;
-- e) d'installations prévues pour le séchage d'un bâtiment.
-
-<sup>2</sup> Le montage d'un chauffage électrique fixe à résistance comme chauffage d'appoint n'est pas autorisé. Est considérée comme chauffage d'appoint toute installation visant à compléter un chauffage principal sous-dimensionné (selon la norme SIA en vigueur), afin de couvrir la totalité du besoin de puissance à la température de dimensionnement.
-
-<sup>3</sup> Le remplacement d'un chauffage électrique fixe à résistance alimentant un système de distribution de chaleur à eau, par un chauffage électrique fixe, n'est pas autorisé.
-
-<sup>4</sup> Le remplacement d'un chauffage électrique fixe à résistance défectueux est autorisé lorsque le bâtiment ne dispose pas d'un système de distribution de chaleur à eau pour le chauffage.
-
-<sup>5</sup> Les alinéas 1 à 4 ne s'appliquent pas:
-
-- a) aux dispositifs électriques pour améliorer le confort des salles d'eau;
-- b) aux rubans chauffants installés sur les conduites de distribution d'eau chaude sanitaire;
-- c) aux chauffages électriques à résistance intégrés dans les processus industriels et artisanaux;
-- d) aux chauffages électriques extérieurs constituant une protection contre le gel.
-
-#### Art. 20
-
-**Chauffe-eau et accumulateur de chaleur**
-
-<sup>1</sup> L'isolation thermique des chauffe-eau ainsi que celle des accumulateurs d'eau chaude sanitaire et de chaleur pour lesquels aucune exigence légale n'existe au niveau fédéral, doivent atteindre partout les épaisseurs minimales indiquées dans l'annexe 1.
-
-<sup>2</sup> Les chauffe-eau doivent être dimensionnés et réglés pour une température d'exploitation n'excédant pas 60°C. Peuvent être dispensés de cette exigence les chauffe-eau devant être réglés de manière permanente à une température plus élevée pour des raisons d'exploitation ou d'hygiène (par exemple pour prévenir la multiplication des bactéries "légionnelles").
-
-<sup>3</sup> Dans les habitations, la mise en place d'un corps de chauffe électrique pour la production d'eau chaude sanitaire n'est autorisée que si:
-
-- a) pendant la période de chauffage, l'eau chaude sanitaire est chauffée ou préchauffée avec le générateur de chaleur exploité pour le chauffage, ou si
-- b) l'eau chaude sanitaire est majoritairement chauffée avec des énergies renouvelables ou des rejets thermiques qui ne sont pas utilisables autrement.
-
-<sup>4</sup> La puissance d'une résistance électrique prévue soit pour assurer un appoint éventuel à la production d'eau chaude sanitaire soit pour assurer une sécurité en cas de panne du producteur principal sera limitée de manière à ne garantir que le standard défini par la norme SIA 385/3 "Alimentation du bâtiment en eau chaude sanitaire".
-
-#### Art. 21
-
-**Distribution et émission de chaleur**
-
-<sup>1</sup> Les systèmes d'émission de chaleur neufs ou mis à neuf doivent être dimensionnés et exploités de manière à ce que les températures de départ ne dépassent pas 50°C lorsque la température extérieure atteint la valeur servant au dimensionnement. Pour les chauffages de sol et généralement pour les chauffages de surface (plafonds, murs), la limite est de 35°C. Font exception le chauffage de halles au moyen de panneaux rayonnants, les systèmes de chauffage des serres et d'autres installations analogues, pour autant qu'ils nécessitent effectivement une température de départ plus élevée.
-
-<sup>2</sup> Les nouvelles installations et les installations mises à neuf à l'occasion de transformations doivent être entièrement isolées contre les pertes thermiques conformément aux exigences fixées à l'annexe 2. Ceci s'applique à la robinetterie et aux pompes, ainsi qu'aux conduites:
-
-- a) de distribution de chaleur dans des locaux non chauffés et à l'extérieur;
-- b) d'eau chaude sanitaire dans des locaux non chauffés et à l'extérieur, excepté celles alimentant, sans circulation ni ruban chauffant, des points de soutirage isolés;
-- c) de circulation d'eau chaude sanitaire ou celles équipées d'un ruban chauffant dans des locaux chauffés;
-- d) d'eau chaude sanitaire allant de l'accumulateur à la nourrice (nourrice incluse).
-
-<sup>3</sup> L'épaisseur de l'isolation thermique peut être réduite dans les cas où cela se justifie, comme par exemple:
-
-- a) en cas d'intersections ou de traversées de murs et de dalles;
-- b) lorsque les températures de départ n'excèdent pas 30°C;
-- c) pour la robinetterie, les pompes, etc.
-
-<sup>4</sup> Les conduites enterrées doivent être isolées de façon à ce que les valeurs Uc indiquées dans l'annexe 3 ne soient pas dépassées.
-
-<sup>5</sup> Lors du remplacement d'une chaudière ou d'un chauffe-eau, les conduites accessibles doivent être adaptées aux exigences indiquées à l'alinéa 2 dans la mesure où la place à disposition le permet.
-
-<sup>6</sup> Les locaux chauffés doivent être équipés de dispositifs permettant de fixer pour chacun d'eux la température ambiante indépendamment et de régler cette dernière automatiquement. Sont dispensés de ces exigences les locaux bénéficiant prioritairement d'un chauffage par le sol avec une température de départ de 30°C maximum.
-
-<sup>7</sup> Les rubans chauffants et les pompes de circulation d'eau chaude sanitaire doivent être munis des connexions électriques permettant la pose d'une horloge ou d'un thermostat de commande.
-
-#### Art. 22
-
-**Réglage du chauffage dans les résidences secondaires**
-
-<sup>1</sup> Dans les habitations individuelles neuves qui seront occupées de manière intermittente, au moins deux niveaux de température ambiante doivent pouvoir être réglés à distance (p.ex. par téléphone, internet, SMS).
-
-<sup>2</sup> Dans les habitations collectives neuves qui seront occupées de manière intermittente, au moins deux niveaux de température ambiante doivent pouvoir être réglés à distance, par appartement (p.ex. par téléphone, internet, SMS).
-
-<sup>3</sup> La même règle est applicable dans les habitations collectives lors d'un assainissement des installations de distribution de chauffage, ou dans les habitations individuelles lors du changement du producteur de chaleur.
-
-#### Art. 23
-
-**Utilisation des rejets thermiques**
-
-<sup>1</sup> Les rejets de chaleur, en particulier ceux provenant de la production de froid et de processus artisanaux ou industriels, doivent être utilisés dans la mesure où les possibilités techniques ainsi que les conditions d'exploitation le permettent, et où cela ne requiert pas d'investissement disproportionné.
-
-#### Art. 24
-
-**Chauffage de plein air**
-
-<sup>1</sup> Les chauffages de plein air (fournissant de la chaleur à l'extérieur de locaux fermés et isolés telles les terrasses, les rampes, les chenaux, les estrades, etc.) doivent être exclusivement alimentés par des énergies renouvelables ou des rejets thermiques inutilisables d'une autre manière.
-
-<sup>2</sup> Une exception à l'alinéa 1 peut être accordée pour la mise en place, le remplacement et la modification d'un chauffage de plein air, s'il est démontré cumulativement que:
-
-- a) la sécurité des personnes, des animaux et des biens ou la protection d'équipements techniques l'exige, et
-- b) des travaux de construction (mise sous toit) ou des mesures d'exploitation (déneigement) sont impossibles ou demandent des moyens disproportionnés, et
-- c) le chauffage de plein air et équipé d'un réglage thermique et hygrométrique.
-
-#### Art. 25
-
-**Installations de ventilation**
-
-<sup>1</sup> Les installations de ventilation avec air neuf et air rejeté doivent être munies de récupérateurs ayant un indice de récupération de chaleur correspondant à l'état de la technique.
-
-<sup>2</sup> Les installations simples d'air repris des locaux chauffés doivent être équipées soit d'un dispositif d'amenée d'air neuf contrôlé et d'un récupérateur de chaleur, soit d'un dispositif de valorisation de la chaleur de l'air repris, dès lors que le volume d'air extrait représente plus de 1'000m³/h et que le temps d'exploitation soit supérieur à 500h/a. Dans le cas de plusieurs installations simples d'air repris, distinctes mais sises dans un même immeuble, celles-ci doivent être considérées comme une seule installation.
-
-<sup>3</sup> La vitesse de l'air, rapportée à la section nette, doit être inférieure à 2m/s dans les appareils et ne pas dépasser les valeurs suivantes dans les gaines de distribution:
-
-- a) jusqu'à 1'000m³/h — 3m/s
-- b) jusqu'à 2'000m³/h — 4m/s
-- c) jusqu'à 4'000m³/h — 5m/s
-- d) jusqu'à 10'000m³/h — 6m/s
-- e) au-delà de 10'000m³/h — 7m/s
-
-<sup>4</sup> Des vitesses supérieures peuvent être admises:
-
-- a) s'il est clairement démontré à l'aide d'un calcul qu'elles ne provoquent pas une consommation supplémentaire d'énergie, ou
-- b) si l'installation fonctionne moins de 1'000 heures par année, ou
-- c) si ces vitesses sont ponctuellement inévitables du fait de conditions spécifiques aux locaux.
-
-<sup>5</sup> Les installations de ventilation desservant des locaux ou des groupes de locaux aux affectations ou aux périodes d'exploitation sensiblement différentes doivent être équipées de dispositifs permettant une exploitation différenciée.
-
-#### Art. 26
-
-**Isolation thermique d'installations techniques de ventilation**
-
-<sup>1</sup> Les canaux d'aération, les tuyaux ainsi que les appareils de ventilation et de climatisation doivent être protégés contre les transmissions de chaleur (perte ou prise de chaleur), en fonction de la différence de température à la valeur de dimensionnement, et en fonction de la valeur λ du matériau isolant (cf. annexe 4). Les épaisseurs d'isolation peuvent être réduites dans des cas dûment motivés tels que les intersections, les traversées de murs ou de dalles, les conduites peu utilisées dont les clapets se trouvent à l'intérieur de l'enveloppe thermique ou les problèmes d'espaces lors du remplacement ou de l'assainissement d'installations.
-
-#### Art. 27
-
-**Refroidissement, humidification et déshumidification**
-
-<sup>1</sup> Le montage de nouvelles installations de refroidissement et/ou d'humidification, respectivement de déshumidification, ou le remplacement de telles installations, est toujours admis dès l'instant où la puissance électrique nécessaire au transport et au traitement des fluides, y compris, le cas échéant, la puissance nécessaire au refroidissement, à l'humidification, à la déshumidification ainsi qu'au traitement de l'eau, n'excède pas une demande globale en électricité de 7W/m² pour les nouveaux bâtiments ou de 12W/m² pour les bâtiments existants.
-
-<sup>2</sup> Pour les installations de refroidissement et de confort qui ne respectent pas les exigences de l'alinéa 1, les températures de l'eau froide et les coefficients de performance pour la production de froid sont à dimensionner et à exploiter selon l'état de la technique, au sens de la norme SIA 382/1
-
-<sup>3</sup> Pour les installations qui ne respectent pas les exigences de l'alinéa 1, une éventuelle humidification doit être dimensionnée et exploitée selon l'état de la technique, au sens de la norme SIA 382/1.
-
-#### Art. 28
-
-**Energie électrique dans les bâtiments**
-
-<sup>1</sup> Dans les cas de nouveaux bâtiments, de transformations et de changements d'affectation impliquant une surface de référence énergétique (AE) de plus de 1'000 mètres carrés, le respect des valeurs limites des besoins d'électricité annuels selon la norme SIA 380/4 "L'énergie électrique dans le bâtiment", pour l'éclairage E'Li , et la ventilation E'V ou la ventilation/climatisation E'VCH, doit être justifié. Les bâtiments d'habitation ou des parties de ces derniers ne sont pas concernés par ces exigences.
-
-<sup>2</sup> Eclairage: s'il est démontré que la valeur cible de la puissance spécifique pour l'éclairage pLi est respectée, on peut renoncer à justifier le respect de la valeur limite de la consommation annuelle d'électricité pour l'éclairage.
-
-<sup>3</sup> Ventilation: s'il est démontré que la valeur limite de la puissance spécifique pour la ventilation pV est respectée, on peut renoncer à justifier le respect de la valeur limite de la consommation annuelle d'électricité pour la ventilation. On peut également renoncer à la justification pour la ventilation si la surface nette ventilée est inférieure à 500 mètres carrés.
-
-<sup>4</sup> Ventilation et climatisation: s'il est démontré que la puissance électrique nécessaire à la ventilation et à la climatisation est inférieure à 7W/m² pour une nouvelle installation, ou inférieure à 12W/m² pour une installation existante ou assainie (selon art. 27), on peut renoncer à justifier le respect de la valeur limite de la consommation annuelle d'électricité pour la ventilation et la climatisation.
-
-#### Art. 28a
-
-**Exigences relatives à l'utilisation de l'énergie solaire pour les nouveaux bâtiments**
-
-<sup>1</sup> Lors de la construction de nouveaux bâtiments d'une surface déterminante de construction supérieure à 300 m², une installation solaire doit être mise en place sur les toits ou les façades. Par surface déterminante de construction, on entend la surface située à l’intérieur de la projection du pied de façade.
-
-<sup>2</sup> La surface des panneaux ou des capteurs solaires doit correspondre au minimum à 40 pour cent de la surface déterminante de construction.
-
-<sup>3</sup> Les demandes de dérogations sont régies par l’article 7 de la présente ordonnance. N’est pas considérée comme économiquement disproportionnée une installation solaire dont le prix de revient est inférieur à 20 cts/kWh en calculant avec une durée d’amortissement de 25 ans.
-
-## 5 Piscines chauffées
-
-#### Art. 29
-
-**Principes**
-
-<sup>1</sup> La construction et l'assainissement de piscines chauffées, ainsi que le renouvellement et la transformation importante des installations techniques qui les chauffent, sont soumises à autorisation.
-
-<sup>2</sup> Un bassin de moins de 8 mètres cube de contenance n'est pas considéré comme une piscine au sens de l'alinéa 1.
-
-<sup>3</sup> Le chauffage au moyen d'une pompe à chaleur est admis à la condition que le bassin soit équipé d'une couverture contre les déperditions thermiques.
-
-#### Art. 30
-
-**Exigences générales**
-
-<sup>1</sup> Le bassin doit être équipé d'une couverture contre les déperditions thermiques.
-
-<sup>2</sup> La chaleur contenue dans l'eau évacuée des bassins doit être récupérée.
-
-<sup>3</sup> Le réglage de la température de l'eau de la piscine doit être effectué avec des instruments de haute précision.
-
-<sup>4</sup> Les parois de la piscine et le fond sur au moins 3 mètres à l'intérieur du pourtour seront protégés des déperditions thermiques. La valeur U sera inférieure ou égale à 0.4W/m²K.
-
-#### Art. 31
-
-**Piscines en halles fermées**
-
-<sup>1</sup> L'eau de la piscine est chauffée au moins pour moitié par des énergies renouvelables ou des rejets de chaleur inutilisables autrement.
-
-<sup>2</sup> S'il s'agit d'une piscine avec accès public et que le plan d'eau a une surface supérieure à 50 mètres carrés, l'eau de la piscine est chauffée dans la mesure du possible au moins pour moitié par des énergies renouvelables ou des rejets de chaleur inutilisables autrement.
-
-<sup>3</sup> Les dispositions applicables en matière de chauffage de locaux et de ventilation demeurent réservées.
-
-#### Art. 32
-
-**Piscines à l'air libre**
-
-<sup>1</sup> L'eau de la piscine est chauffée intégralement par des énergies renouvelables ou des rejets de chaleur inutilisables autrement.
-
-<sup>2</sup> S'il s'agit d'une piscine avec accès public et que le plan d'eau a une surface supérieure à 200 mètres carrés, l'eau de la piscine est chauffée au moins pour moitié par des énergies renouvelables ou des rejets de chaleur inutilisables autrement.
-
-## 6 Décompte individuel des frais de chauffage et d'eau chaude sanitaire
+<sup>8</sup> Les installations font l'objet d'une réception finale. Lors du contrôle de conformité, l’autorité compétente peut demander d'examiner le protocole établi à ce moment-là.
 
 #### Art. 33
 
-**Obligation d'équipement pour les nouveaux bâtiments**
+**Production de chaleur**
 
-<sup>1</sup> Les nouveaux bâtiments et groupes de nouveaux bâtiments alimentés par une production de chaleur centralisée, comportant au moins cinq unités d'occupation, doivent être équipés des appareils requis pour l'établissement du décompte individuel des frais de chauffage, respectivement d'eau chaude sanitaire.
+<sup>1</sup> Les exigences requises en matière de pertes par effluents gazeux sont fixées par les dispositions de l’ordonnance fédérale sur la protection de l'air (OPair).
 
-<sup>2</sup> Dans le cas de surfaces chauffantes, l'élément de construction séparant le système d'émission de chaleur de l'unité d'occupation adjacente doit présenter une valeur U inférieure à 0.7W/m²K.
+<sup>2</sup> Lors de la mise en place de nouvelles chaudières alimentées par des combustibles fossiles, la chaleur de condensation est utilisée dans la mesure des possibilités techniques.
 
 #### Art. 34
 
-**Equipement des bâtiments existants**
+**Chauffages électriques fixes à résistance**
 
-<sup>1</sup> Pour autant que les conditions techniques et d'exploitation le permettent, et que cela ne cause pas de dépenses déraisonnables, les bâtiments existants et groupes de bâtiments existants alimentés par une production de chaleur centralisée, comportant au moins cinq unités d'occupation, doivent être équipés des appareils requis pour l'établissement du décompte individuel des frais de chauffage, et des dispositifs permettant de fixer la température ambiante de manière individuelle et de la garantir automatiquement.
+<sup>1</sup> Le montage de nouveaux chauffages électriques fixes à résistance pour le chauffage des bâtiments, qu’ils soient à rayonnement ou non, n’est autorisé que dans la mesure où il s’agit d’un chauffage de secours destiné à compléter une installation de chauffage principale correctement dimensionnée pour chauffer l’ensemble du bâtiment selon la norme SIA en vigueur, notamment dans les cas:
 
-<sup>2</sup> La consommation individuelle d'eau chaude sanitaire doit pouvoir être mesurée à l'aide d'équipements requis, et facturée, à partir du moment où le système de distribution est remplacé.
+- a) d’une pompe à chaleur, afin de fournir la puissance nécessaire lorsque la température extérieure est inférieure à la température de dimensionnement;
+- b) d’un chauffage au bois à alimentation manuelle, pour tenir compte de l’éventuelle absence des habitants, pour autant que la puissance électrique installée ne représente pas plus de 50 pour cent de la puissance de chauffage requise;
+- c) de certains locaux dont l’affectation particulière nécessiterait le maintien en service de l’installation de chauffage principale en dehors de la période de chauffe, sans la mise en place d’un chauffage électrique (p.ex. salle de thérapie, salle de bain);
+- d) d’installations raccordées à un chauffage à distance déclenché en dehors de la période de chauffe;
+- e) d’installations prévues pour le séchage d’un bâtiment.
+
+<sup>2</sup> Le montage d’un chauffage électrique fixe à résistance comme chauffage d’appoint n’est pas autorisé. Est considéré comme chauffage d’appoint, toute installation visant à compléter un chauffage principal sous-dimensionné (selon la norme SIA en vigueur), afin de couvrir la totalité du besoin de puissance à la température de dimensionnement.
+
+<sup>3</sup> Les alinéas 1 à 2 ne s’appliquent pas:
+
+- a) aux dispositifs électriques pour améliorer le confort des salles d’eau;
+- b) aux rubans chauffants installés sur les conduites de distribution d’eau chaude sanitaire;
+- c) aux chauffages électriques à résistance intégrés dans les processus industriels et artisanaux;
+- d) aux chauffages électriques constituant une protection contre le gel, réglés à un maximum de +5°C, lorsque toute autre mesure d’exploitation ou de sécurité n’est pas possible (p.ex. chenaux, stations de pompage en montagne, etc.).
 
 #### Art. 35
 
-**Obligation d'équipement pour les rénovations d'envergure**
+**Chauffe-eau et accumulateur de chaleur**
 
-<sup>1</sup> Lorsque le système de chauffage et/ou de production et de distribution d'eau chaude sanitaire est/sont entièrement remplacé(s) dans un bâtiment existant disposant d'une centrale de chauffe pour cinq unités d'occupation ou plus, il faut équiper le bâtiment des appareils requis pour l'établissement du décompte individuel des frais de chauffage et/ou d'eau chaude sanitaire.
+<sup>1</sup> L’isolation thermique des chauffe-eau ainsi que celle des accumulateurs d’eau chaude sanitaire et de chaleur pour lesquels aucune exigence légale n’existe au niveau fédéral, doit atteindre partout les épaisseurs minimales suivantes:
 
-<sup>2</sup> Dans un groupe de bâtiments raccordés à une production de chaleur centralisée, les appareils requis pour l'établissement du décompte des frais de chauffage par bâtiment doivent être installés lorsque l'enveloppe d'un ou de plusieurs bâtiments est rénovée à plus de 75 pour cent.
+<table>
+<tr><th>Capacité en litres</th><th>Épaisseur de l'isolation thermique si λ &gt; 0,03 W/(m·K) jusqu'à λ ≤ 0,05 W/(m·K)</th><th>Épaisseur de l'isolation thermique si λ ≤ 0,03 W/(m·K)</th></tr>
+<tr><td>jusqu’à 400 litres</td><td>110 mm</td><td>90 mm</td></tr>
+<tr><td>de 401 à 2'000 litres</td><td>130 mm</td><td>100 mm</td></tr>
+<tr><td>supérieure à 2'000 litres</td><td>160 mm</td><td>120 mm</td></tr>
+</table>
+
+<sup>2</sup> Les chauffe-eau doivent être dimensionnés et réglés pour une température d’exploitation n’excédant pas 60°C. Peuvent être dispensés de cette exigence les chauffe-eau devant être réglés à une température plus élevée pour des raisons d’exploitation ou d’hygiène (p. ex. pour prévenir la multiplication des bactéries "légionnelles").
+
+<sup>3</sup> Dans les bâtiments d’habitation, la mise en place d’un corps de chauffe électrique pour la production d’eau chaude sanitaire n’est autorisé que:
+
+- a) si pendant la période de chauffage, l’eau chaude sanitaire est chauffée ou préchauffée avec le générateur de chaleur exploité pour le chauffage, ou
+- b) si l’eau chaude sanitaire est chauffée au moins à 50 pour cent avec des énergies renouvelables ou des rejets thermiques qui ne sont pas utilisables autrement.
+
+<sup>4</sup> La puissance d’une résistance électrique prévue soit pour assurer un appoint éventuel à la production d’eau chaude sanitaire soit pour assurer une sécurité en cas de panne du producteur principal, sera limitée de manière à ne garantir qu’un confort minimal.
 
 #### Art. 36
 
-**Décompte**
+**Distribution et émission de chaleur**
 
-<sup>1</sup> Dans les bâtiments ou groupes de bâtiments soumis à l'obligation d'être équipés de dispositifs de saisie, les frais de chauffage et d'eau chaude sanitaire doivent faire l'objet d'un décompte se fondant en majeure partie sur la consommation effective de chaque unité d'occupation.
+<sup>1</sup> Les systèmes d’émission de chaleur neufs ou remplacés doivent être dimensionnés et exploités de manière à ce que les températures de départ ne dépassent pas 50°C lorsque la température extérieure atteint la valeur servant au dimensionnement. Pour les chauffages de sol et généralement pour les chauffages de surface (plafonds, murs), la limite est de 35°C. Font exception le chauffage de halles au moyen de panneaux rayonnants, les systèmes de chauffage des serres et d’autres installations analogues, pour autant qu’ils nécessitent effectivement une température de départ plus élevée.
 
-<sup>2</sup> Seuls les appareils reconnus conformes par l'Office fédéral de métrologie METAS peuvent servir à l'établissement des décomptes.
+<sup>2</sup> Les nouvelles installations et les installations remplacées à l'occasion de transformations doivent être isolées contre les pertes thermiques conformément aux exigences suivantes:
 
-<sup>3</sup> La clé de répartition des frais doit être déterminée en respectant les principes formulés dans le modèle de décompte de l'Office fédéral de l'énergie.
+<table>
+<tr><th>Diamètre de conduite [DN]</th><th>Diamètre de conduite [Pouces]</th><th>Épaisseur d'isolation thermique si λ &gt; 0,03 W/(m·K) jusqu'à λ ≤ 0,05 W/(m·K)</th><th>Épaisseur d'isolation thermique si λ ≤ 0,03 W/(m·K)</th></tr>
+<tr><td>10-15</td><td>3/8"</td><td>40 mm</td><td>30 mm</td></tr>
+<tr><td>20-32</td><td>¾" - 1¼"</td><td>50 mm</td><td>40 mm</td></tr>
+<tr><td>40-50</td><td>1½" - 2"</td><td>60 mm</td><td>50 mm</td></tr>
+<tr><td>65-80</td><td>2½"-3"</td><td>80 mm</td><td>60 mm</td></tr>
+<tr><td>100-150</td><td>4" - 6"</td><td>100 mm</td><td>80 mm</td></tr>
+<tr><td>175-200</td><td>7" - 8"</td><td>120 mm</td><td>80 mm</td></tr>
+</table>
 
-<sup>4</sup> Les unités d'occupation touchées par une panne de compteurs verront leurs décomptes calculés selon une clé de répartition forfaitaire au prorata des surfaces habitables ou du volume des unités ou d'après une autre clé plausible, tandis que les autres unités continueront d'avoir leurs décomptes calculés sur la base de leurs consommations mesurées.
+<sup>3</sup> Les prescriptions mentionnées à l'alinéa 2 s'appliquent également:
+
+- a) à la robinetterie;
+- b) aux pompes;
+- c) aux conduites de distribution de chaleur dans des locaux non chauffés et à l’extérieur;
+- d) à tous les éléments du système de distribution d’eau chaude sanitaire maintenus en température dans des locaux chauffés ou non chauffés et à l’extérieur, excepté ceux alimentant, sans circulation ni ruban chauffant, des points de soutirage isolés.
+
+<sup>4</sup> On peut admettre une moindre épaisseur de l’isolation thermique dans les cas où cela se justifie, comme en cas d’intersection ou de traversées de murs et de dalles, ou lorsque les températures de départ n’excèdent pas 30°C, ainsi que pour la robinetterie, les pompes, etc. Les épaisseurs indiquées sont valables pour des températures d’exploitation allant jusqu’à 90°C. En cas de températures d’exploitation plus élevées, l’isolation thermique sera augmentée proportionnellement.
+
+<sup>5</sup> Les conduites enterrées doivent être isolées de façon à ce que les valeurs U<sub>c</sub> suivantes ne soient pas dépassées:
+
+<table>
+<tr><th>DN</th><th>Pouces</th><th>Conduites rigides - W/(m·K)</th><th>Conduites souples et tubes jumelés - W/(m·K)</th></tr>
+<tr><td>20</td><td>¾''</td><td>0,14</td><td>0,16</td></tr>
+<tr><td>25</td><td>1''</td><td>0,17</td><td>0,18</td></tr>
+<tr><td>32</td><td>5/4''</td><td>0,18</td><td>0,18</td></tr>
+<tr><td>40</td><td>1½''</td><td>0,21</td><td>0,24</td></tr>
+<tr><td>50</td><td>2''</td><td>0,22</td><td>0,27</td></tr>
+<tr><td>65</td><td>2½''</td><td>0,25</td><td>0,27</td></tr>
+<tr><td>80</td><td>3''</td><td>0,27</td><td>0,28</td></tr>
+<tr><td>100</td><td>4''</td><td>0,28</td><td>0,31</td></tr>
+<tr><td>125</td><td>5''</td><td>0,31</td><td>0,34</td></tr>
+<tr><td>150</td><td>6''</td><td>0,34</td><td>0,36</td></tr>
+<tr><td>175</td><td>7''</td><td>0,36</td><td>0,38</td></tr>
+<tr><td>200</td><td>8''</td><td>0,37</td><td>0,40</td></tr>
+</table>
+
+<sup>6</sup> Lors du remplacement d’un producteur de chaleur ou d’un chauffe-eau, les conduites accessibles doivent être adaptées aux exigences indiquées à l’alinéa 2 dans la mesure où la place à disposition le permet.
+
+<sup>7</sup> Les locaux chauffés doivent être équipés de dispositifs permettant de fixer indépendamment pour chacun d'eux une température ambiante et de régler cette dernière automatiquement. Sont dispensés de ces exigences les locaux bénéficiant prioritairement d’un plancher / plafond chauffant avec une température de départ de 30°C maximum. En pareil cas, il est nécessaire d'installer au moins un dispositif de régulation par unité d'habitation ou unité d'occupation, dans un local de référence.
+
+<sup>8</sup> Les systèmes de distribution d'eau chaude sanitaire peuvent être maintenus en température uniquement à l'aide de rubans chauffants autorégulants asservis à une horloge ou à l'aide d'une pompe de circulation asservie à une horloge et un thermostat de commande.
 
 #### Art. 37
 
-**Dispense pour les nouveaux bâtiments et les rénovations d'envergure**
+**Réglage du chauffage dans les bâtiments occupés de manière intermittente**
 
-<sup>1</sup> Sont dispensés de l'obligation d'équiper et d'effectuer un décompte individuel des frais de chauffage et d'eau chaude sanitaire les bâtiments et groupes de bâtiments:
+<sup>1</sup> Dans les bâtiments à construire dont certaines unités d’occupation seront occupés de manière intermittente, au moins 2 niveaux de température ambiante doivent pouvoir être réglés à distance par unité d'occupation (p. ex. par téléphone, Internet, SMS).
 
-- a) dont la puissance installée pour la production de chaleur (eau chaude sanitaire comprise) est inférieure à 20W par mètre carré de surface de référence énergétique, ou
-- b) qui disposent d'un certificat Minergie, ou
-- c) dont les besoins de chaleur (chauffage et eau chaude sanitaire) sont couverts au moins pour moitié par des énergies renouvelables.
-
-## 7 Exemplarité des bâtiments publics
+<sup>2</sup> La même règle est applicable dans les bâtiments comprenant plusieurs unités d’occupation lors d’un assainissement des installations de distribution de chaleur ou dans les bâtiments comprenant une seule unité d’occupation lors du changement du producteur de chaleur.
 
 #### Art. 38
 
-**Principes**
+**Utilisation des rejets de chaleur**
 
-<sup>1</sup> Les constructions et installations appartenant au canton, aux communes et à toute autre collectivité publique doivent être construites et exploitées de manière exemplaire.
-
-<sup>2</sup> En particulier, les constructions et installations sont réalisées pour garantir une consommation d'énergie minimale et couvrir autant que possible les besoins d'énergie résiduels au moyen de rejets de chaleur et d'énergies renouvelables.
+<sup>1</sup> Les rejets de chaleur disponibles dans la construction, en particulier ceux provenant de la production de froid et de processus artisanaux ou industriels, doivent être utilisés dans la mesure où les possibilités techniques ainsi que les conditions d’exploitation le permettent, et où cela ne requière pas d’investissement disproportionné.
 
 #### Art. 39
 
-**Bâtiments construits ou subventionnés par le canton**
+**Chauffage de plein air lors de manifestations de durée limitée**
 
-<sup>1</sup> Les constructions nouvelles et les rénovations importantes exécutées par le canton doivent satisfaire des exigences énergétiques et de confort supérieures ou égales à celles définies par le Règlement du standard Minergie.
+<sup>1</sup> Une dérogation relative à un chauffage de plein air destiné à garantir un confort minimum pour des personnes travaillant à l’extérieur dans le cadre d’une manifestation de durée limitée (marché, marché de Noël, etc.) peut être octroyée aux conditions cumulatives suivantes:
 
-<sup>2</sup> Les constructions nouvelles et les rénovations importantes, qui sont d'intérêt public et subventionnées par l'Etat, doivent satisfaire au standard Minergie. Si ce n'est pas le cas, ces constructions perdent, après fixation d'un délai suffisant pour réaliser les améliorations nécessaires, les subventions liées à ces travaux.
+- a) le chauffage est exclusivement prévu pour une place de travail et pas pour la clientèle;
+- b) l’installation est mise en place dans un abri avec toiture, fermé si possible sur au moins 3 côtés;
+- c) son exploitation est limitée aux heures officielles de la manifestation;
+- d) l’appareil est équipé de manière à pouvoir assurer un réglage du chauffage (enclenchement, déclenchement, niveau de température, etc.).
 
-<sup>3</sup> Des dérogations au sens de l'article 7 font l'objet d'une décision du département. Elles peuvent être octroyées:
-
-- a) pour des bâtiments protégés;
-- b) pour des bâtiments dont l'affectation ne justifie pas l'application du standard Minergie;
-- c) pour des rénovations de bâtiments pour lesquelles la pose d'une aération contrôlée engendre des problèmes insurmontables;
-- d) lorsqu'un bâtiment neuf ou rénové sera raccordé à une chaufferie à distance existante utilisant une énergie fossile et que l'atteinte du standard Minergie nécessiterait des coefficients d'isolation meilleurs que 65 pour cent des valeurs limites de la norme SIA 380/1.
-
-## 8 Standards de qualité dans le domaine du bâtiment
+<sup>2</sup> L’autorité compétente en matière d’autorisation de manifestation veille à assortir sa décision dérogatoire des conditions susmentionnées ainsi qu’à contrôler le respect d’autres conditions découlant notamment de la protection de l’environnement (OPair, OLED, etc.) et de la protection contre les incendies.
 
 #### Art. 40
 
-**Bonus sur l'indice d'utilisation du sol**
+**Installations de ventilation**
 
-<sup>1</sup> Le requérant d'une autorisation de construire un bâtiment Minergie ou de transformer un bâtiment existant en bâtiment Minergie a droit au bonus prévu à l'article 20 alinéa 1 de la loi sur l'énergie du 15 janvier 2004.
+<sup>1</sup> Les installations de ventilation avec air neuf et air rejeté doivent être munies de récupérateurs de chaleur. L’indice de récupération de chaleur doit correspondre à l’état de la technique dans la mesure où il n’existe pas d’exigences particulières issues de l’ordonnance fédérale sur l’efficacité énergétique (OEEE).
 
-<sup>2</sup> En cas de présentation d'un autre certificat de qualité énergétique, national ou reconnu internationalement, le département peut, après analyse de l'équivalence, décider l'octroi du bonus prévu à l'article 20 alinéa 1 de la loi sur l'énergie.
+<sup>2</sup> Les installations simples d’air repris des locaux chauffés doivent être équipées:
 
-<sup>3</sup> Par analogie et dans la mesure du possible, les communes accordent d'autres mesures incitatives dans les zones sans indice d'utilisation du sol.
+- a) soit d’un dispositif d’amenée d’air neuf contrôlé et d’un récupérateur de chaleur;
+- b) soit d'un dispositif de valorisation de la chaleur de l'air repris, et ce pour autant que le volume d’air extrait représente plus de 1’000 m³/h et que le temps d’exploitation soit supérieur à 500 h/a.
+
+<sup>3</sup> Dans le cas de plusieurs installations simples d’air repris, distinctes et situées dans un même bâtiment, celles-ci doivent être considérées comme une seule installation. D’autres solutions que celles prévues à l’alinéa 2 sont admises si un calcul de la consommation énergétique ou une simulation dynamique établis dans les règles de l’art permet de prouver qu’un volume d’air et un temps d’exploitation supérieurs n’entraînent pas de consommation supplémentaire.
+
+<sup>4</sup> La vitesse de l’air, rapportée à la section nette, doit être inférieure à 2 m/s dans les appareils et ne pas dépasser les valeurs suivantes dans les gaines de distribution:
+
+- a) jusqu’à 1’000 m³/h: 3 m/s;
+- b) jusqu’à 2’000 m³/h: 4 m/s;
+- c) jusqu’à 4’000 m³/h: 5 m/s;
+- d) jusqu’à 10’000 m³/h: 6 m/s;
+- e) au-delà de 10’000 m³/h: 7 m/s.
+
+<sup>5</sup> Des vitesses supérieures peuvent être admises:
+
+- a) si un calcul de la consommation énergétique établi dans les règles de l’art permet de prouver que ce dépassement ne provoque pas de consommation supplémentaire;
+- b) si l'installation fonctionne moins de 1'000 heures par année;
+- c) si ces vitesses sont ponctuellement inévitables du fait de conditions spécifiques aux locaux.
+
+<sup>6</sup> Les installations de ventilation desservant des locaux ou des groupes de locaux aux affectations ou aux périodes d’exploitation sensiblement différentes, doivent être équipées de dispositifs permettant une exploitation différenciée.
 
 #### Art. 41
 
-**Utilisation de la nappe phréatique**
+**Isolation thermique d’installations techniques de ventilation**
 
-<sup>1</sup> Les eaux souterraines peuvent être utilisées à des fins thermo-énergétiques gratuitement pour les bâtiments Minergie et Minergie-P. Demeurent réservées les dispositions de la loi cantonale sur l'utilisation des forces hydrauliques et de la législation sur la protection des eaux.
-
-## 9 Exécution
+<sup>1</sup> Les canaux d’aération, les tuyaux ainsi que les appareils de ventilation et de climatisation doivent être protégés contre les transmissions de chaleur (perte ou prise de chaleur), en fonction de la différence de température à la valeur de dimensionnement, et en fonction de la valeur λ du matériau isolant conformément aux exigences de la norme SIA 382/1 en vigueur. Les épaisseurs d’isolation peuvent être réduites dans des cas dûment motivés tels que, par exemple, des tronçons courts de conduites, des intersections ou des traversées de murs ou de dalles, des conduites peu utilisées dont les clapets se trouvent à l’intérieur de l’enveloppe thermique ou encore des problèmes d’espaces lors du remplacement ou de l’assainissement d’installations.
 
 #### Art. 42
 
-**Dossier de demande d'autorisation**
+**Rafraîchissement, humidification et déshumidification**
 
-<sup>1</sup> Le respect des dispositions de la présente ordonnance ou les demandes de dérogations doivent faire l'objet d'un justificatif énergétique.
+<sup>1</sup> Les installations de rafraîchissement, d’humidification et de déshumidification, destinées à l’amélioration du confort dans les bâtiments existants doivent être planifiées et réalisées de telle sorte que:
 
-<sup>2</sup> Le justificatif est présenté sur la base des formulaires et à l'aide des directives établies par le service. Il doit être signé conjointement par le maître de l'ouvrage et par l'auteur du projet.
+- a) la puissance électrique nécessaire au transport et au traitement des fluides, y compris la puissance nécessaire au rafraîchissement, à l’humidification, à la déshumidification et au traitement de l’eau n’excède pas 12 W par m², ou
+- b) les températures de l’eau froide et les coefficients de performance pour la production de froid soient conformes à l'état de la technique, ainsi que la planification et l’exploitation d’une éventuelle déshumidification.
 
-<sup>3</sup> Un certificat Minergie a valeur de justificatif énergétique pour les exigences de l'article 9 "Exigences et justification concernant la protection thermique pour l'hiver", et pour les exigences de le chapitre 3 "Part maximale d'énergies non renouvelables pour les nouveaux bâtiments".
+<sup>2</sup> Pour les installations qui ne satisfont pas à l’alinéa 1, la production propre d’électricité selon l’article 60 alinéa 2 doit être multipliée par le ratio de l’Energy Efficiency Ratio (EER) selon l’état de la technique sur l’EER du processus mis en œuvre.
+
+<sup>3</sup> Pour les bâtiments d’habitation non soumis à l’article 60 et qui ne peuvent respecter l’alinéa 1, une dérogation peut être octroyée dans le sens d’une production propre d’électricité compensant la consommation excédentaire d’électricité par rapport à l’état de la technique.
 
 #### Art. 43
 
-**Projets soumis à autorisation de construire**
+**Besoins en électricité pour l’éclairage des grands bâtiments**
 
-<sup>1</sup> Dans le cas des constructions et des installations soumises à une autorisation de construire en vertu des dispositions de la législation sur les constructions, le justificatif énergétique du projet fait partie intégrante de la demande de permis de construire.
+<sup>1</sup> Dans les bâtiments à construire, les transformations ou les changements d’affectation d’une surface de référence énergétique de plus de 1’000 m², le respect des valeurs limites des besoins d’électricité annuels pour l’éclairage E<sub>L</sub>, conformément à la norme SIA 387/4, doit être justifié. Les bâtiments d’habitation ou partie de ces derniers ne sont pas concernés par ces dispositions.
 
-<sup>2</sup> Le dossier est alors traité conformément aux dispositions de l'ordonnance sur les constructions.
-
-<sup>3</sup> Un préavis du service est requis si la commune ne fait pas appel à des tiers pour les tâches d'exécution et qu'elle ne possède pas elle-même les compétences nécessaires pour l'application des articles 11 "Locaux frigorifiques", 12 "Serres et halles gonflables chauffées", 24 "Chauffage de plein air", 27 "Refroidissement, humidification et déshumidification", 28 "Energie électrique dans les bâtiments" et 29, 30, 31 et 32 "Piscines chauffées".
-
-<sup>4</sup> Un préavis du service doit être délivré pour les demandes de dérogation.
+<sup>2</sup> Les exigences de l’alinéa 1 sont considérées comme remplies s’il est démontré, par l’intermédiaire de l’outil d’aide Éclairage de l’EnFK, que les exigences concernant la puissance spécifique p<sub>L</sub>, calculée à partir des valeurs limites, respectivement cibles de la norme SIA 387/4, sont respectées.
 
 #### Art. 44
+
+**Enseignes lumineuses extérieures**
+
+<sup>1</sup> Par enseignes lumineuses extérieures, on entend un dispositif publicitaire lumineux avec représentation textuelle ou visuelle de noms, logos, slogans etc.
+
+<sup>2</sup> Les enseignes lumineuses extérieures sont éteintes entre minuit et 6 heures si l'activité concernée par l’enseigne a cessé.
+
+<sup>3</sup> Lorsque les activités concernées par l’enseigne se poursuivent au-delà de minuit, l'enseigne est éteinte au plus tard une heure après l'arrêt de l'activité.
+
+<sup>4</sup> Ne sont pas soumises à ces restrictions horaires, les enseignes lumineuses extérieures d’intérêt public ayant notamment une fonction sécuritaire ou concernant un service d'urgence, notamment pour les hôpitaux, pharmacies de garde, services du feu, police ainsi que celles des hôtels et d'autres installations importantes pour le tourisme.
+
+#### Art. 45
+
+**Éclairage nocturne des bâtiments non résidentiels**
+
+<sup>1</sup> Par éclairage nocturne des bâtiments non résidentiels, on entend l'éclairage extérieur des façades des bâtiments et des espaces extérieurs ou l'éclairage intérieur visible de l'extérieur utilisé la nuit par les commerces (vitrines), bureaux, établissements publics, entreprises ou dépôts ainsi que des infrastructures publiques.
+
+<sup>2</sup> L'éclairage nocturne de ces bâtiments ou partie de bâtiment est éteint entre minuit et 6 heures du matin si l'activité concernée a cessé.
+
+<sup>3</sup> Lorsque les activités concernées se poursuivent au-delà de minuit, l'éclairage est éteint au plus tard une heure après l'arrêt de l'activité.
+
+<sup>4</sup> Ne sont pas soumis à ces restrictions horaires, les éclairages de bâtiments ayant une fonction sécuritaire ou concernant un service d'urgence, notamment les hôpitaux, pharmacies de garde, services du feu, police ainsi que ceux de lieux éminemment touristiques.
+
+<sup>5</sup> La législation spéciale, notamment en matière de sécurité et d'ordre public, est réservée.
+
+#### Art. 46
+
+**Bornes de recharge de véhicules électriques**
+
+<sup>1</sup> Les nouvelles infrastructures de recharge doivent permettre une gestion dynamique de la charge dès lors que plusieurs bornes de recharge pourraient être installées au même point de raccordement au réseau de distribution.
+
+<sup>2</sup> Pour le surplus, le cahier technique SIA 2060 "Infrastructure pour véhicules électriques dans les bâtiments" est applicable.
+
+### 4.1.3 Piscines chauffées
+
+#### Art. 47
+
+**Principes**
+
+<sup>1</sup> Sauf dispositions contraires, les exigences de ce chapitre s’appliquent aux installations intérieures et extérieures lors de la construction, la mise en place et l’assainissement de piscines chauffées, ainsi qu’au remplacement et à la transformation des installations techniques qui les alimentent en chaleur, en eau et en air.
+
+<sup>2</sup> Est considéré comme piscine tout bassin d’une contenance de 8 m³ et plus.
+
+<sup>3</sup> L’eau de la piscine est chauffée sans énergie fossile ni chauffage électrique direct.
+
+<sup>4</sup> Le plan d’eau d’une piscine doit être équipé d'une couverture contre l’évaporation et les déperditions thermiques.
+
+<sup>5</sup> La chaleur contenue dans l’eau évacuée nécessaire au renouvellement d’eau d'appoint journalier doit être récupérée.
+
+<sup>6</sup> Les dispositions applicables en matière de chauffage de locaux, de ventilation et ceux relatifs à l’eau chaude sanitaire, demeurent réservées.
+
+#### Art. 48
+
+**Isolations des bassins**
+
+<sup>1</sup> Les parois d’une piscine et son fond sur au moins 3 mètres à l’intérieur du pourtour, doivent être protégés des déperditions thermiques. La valeur U à prévoir doit être inférieure ou égale à 0,4 W/(m²·K).
+
+<sup>2</sup> En cas d’assainissement de bassins, les exigences indiquées à l’alinéa 1 ne concernent que les éléments du périmètre mouillé touchés par les transformations.
+
+#### Art. 49
+
+**Piscines démontables hors-sol**
+
+<sup>1</sup> Une piscine démontable hors-sol, non isolée selon les exigences de l’article 48 alinéa 1, ne peut pas être chauffée.
+
+<sup>2</sup> Une piscine démontable hors-sol, isolée selon les exigences de l’article 48 alinéa 1, peut être chauffée exclusivement par des énergies renouvelables ou des rejets de chaleur (pompe à chaleur, solaire thermique, etc.).
+
+### 4.1.4 Décompte individuel des frais de chauffage et d’eau chaude sanitaire
+
+#### Art. 50
+
+**Equipement pour les nouveaux bâtiments**
+
+<sup>1</sup> Les nouveaux bâtiments alimentés par une centrale de chauffe doivent être équipés des appareils requis pour l'établissement du décompte individuel des besoins d’eau chaude sanitaire dès qu'ils comportent 5 unités d'occupation ou plus.
+
+<sup>2</sup> Les nouveaux bâtiments alimentés par une centrale de chauffe alimentant un groupe de bâtiments doivent être équipés des appareils requis pour l'établissement d’un décompte individuel des frais de chauffage par bâtiment.
+
+#### Art. 51
+
+**Equipement pour les rénovations d’envergure**
+
+<sup>1</sup> Lorsque l’installation de chauffage (production et distribution de chaleur) et/ou l’installation de production et de distribution d’eau chaude sanitaire est remplacée dans un bâtiment existant qui dispose d’une centrale de chauffe pour 5 unités d’occupation ou plus, il faut équiper le bâtiment des appareils requis pour l'établissement du décompte individuel des frais de chauffage et/ou d’eau chaude sanitaire.
+
+<sup>2</sup> Dans un groupe de bâtiments raccordés à une centrale de chauffage, les appareils requis pour l’établissement du décompte individuel des frais de chauffage par bâtiment doivent être installés lorsque plus de 75 pour cent de l'enveloppe d’un ou de plusieurs bâtiments est rénovée.
+
+#### Art. 52
+
+**Isolation thermique en cas de surface chauffante**
+
+<sup>1</sup> Dans le cas de surfaces chauffantes, l'élément de construction séparant le système d'émission de chaleur de l'unité d'occupation adjacente doit présenter un coefficient de transmission thermique (valeur U) inférieur ou égal à 0,7 W/(m²·K).
+
+#### Art. 53
+
+**Décompte**
+
+<sup>1</sup> Dans les bâtiments ou groupes de bâtiments soumis à l'obligation d'être équipés de dispositifs de saisie, les frais de chauffage d’eau chaude sanitaire doivent faire l'objet d'un décompte se fondant en majeure partie sur la consommation effective de chaque unité d'occupation.
+
+<sup>2</sup> Seuls les appareils conformes à l’ordonnance sur les instruments de mesure de l’énergie thermique (OIMTh) peuvent servir à l'établissement des décomptes.
+
+<sup>3</sup> La clé de répartition des frais doit être déterminée en respectant les principes formulés dans le modèle de décompte établi par l’Office fédéral de l’énergie.
+
+<sup>4</sup> Les unités d'occupation touchées par une panne de compteurs verront leurs décomptes calculés selon une clé de répartition forfaitaire au prorata des surfaces habitables ou du volume des unités ou d'après une autre clé plausible, tandis que les autres unités continueront d'avoir leurs décomptes calculés sur la base de leurs consommations mesurées.
+
+#### Art. 54
+
+**Dérogation pour les bâtiments énergétiquement performants**
+
+<sup>1</sup> Les nouveaux bâtiments sont exemptés de l’obligation d’équipement et de l’obligation d’effectuer un décompte individuel des frais de chauffage s’ils disposent d'un label Minergie-P® ou Minergie-A® ou d’un CECB A/A.
+
+<sup>2</sup> Les bâtiments et groupes de bâtiments existants comportant 5 unités d'occupation ou plus sont exemptés de l’obligation d’équipement et de l’obligation d’effectuer un décompte individuel des frais de chauffage, si:
+
+- a) la puissance installée pour la production de chaleur (eau chaude sanitaire comprise) est inférieure à 20 W par m² de SRE, ou
+- b) ils disposent d’un label Minergie-Rénovation®, ou
+- c) ils disposent d'un CECB C/C après rénovation, ou
+- d) leurs besoins de chaleur (chauffage et eau chaude sanitaire) sont couverts au moins pour moitié par des énergies renouvelables ou des rejets de chaleur non utilisés.
+
+### 4.2 Exigences concernant la couverture des besoins de chaleur et la production propre d’électricité pour les nouveaux bâtiments
+
+#### Art. 55
+
+**Exigences concernant la couverture des besoins de chaleur dans les nouveaux bâtiments**
+
+<sup>1</sup> Les besoins d'énergie annuels pondérés pour le chauffage, la préparation de l'eau chaude sanitaire, la ventilation et le rafraîchissement dans les bâtiments à construire et les agrandissements (surélévations, annexes, etc.), ne doivent pas dépasser les valeurs suivantes:
+
+<table>
+<tr><th>Catégorie d'ouvrages</th><th>Nom</th><th>Valeur limite EHWLK - kWh/m²</th></tr>
+<tr><td>I</td><td>Habitat collectif</td><td>35</td></tr>
+<tr><td>II</td><td>Habitat individuel</td><td>35</td></tr>
+<tr><td>III</td><td>Administration</td><td>40</td></tr>
+<tr><td>IV</td><td>Ecole</td><td>35</td></tr>
+<tr><td>V</td><td>Commerce</td><td>40</td></tr>
+<tr><td>VI</td><td>Restauration</td><td>45</td></tr>
+<tr><td>VII</td><td>Lieu de rassemblement</td><td>40</td></tr>
+<tr><td>VIII</td><td>Hôpital</td><td>70</td></tr>
+<tr><td>IX</td><td>Industrie</td><td>20</td></tr>
+<tr><td>X</td><td>Dépôt</td><td>20</td></tr>
+<tr><td>XI</td><td>Installation sportive</td><td>25</td></tr>
+<tr><td>XII</td><td>Piscine couverte</td><td>Pas d'exigence</td></tr>
+</table>
+
+<sup>2</sup> Pour les catégories VI (restauration) et XI (installation sportive), les valeurs limites ne prennent pas en compte les besoins pour l’eau chaude sanitaire.
+
+<sup>3</sup> Pour les projets de la catégorie XII (piscine couverte), l’utilisation des rejets de chaleur de l’air rejeté et de l’eau des bains et des douches doit être optimisée.
+
+<sup>4</sup> Pour le recours à des combustibles gazeux ou liquides renouvelables ainsi que le recours à des combustibles synthétiques produits à partir de ressources énergétiques renouvelables, sont applicables les exigences suivantes:
+
+- a) le recours à ces combustibles entraîne une réduction des émissions dans l'inventaire suisse des gaz à effet de serre pour l'année en cours ou l'une des deux années précédentes, en tenant compte des facteurs de pondération nationaux;
+- b) les combustibles ne sont pas issus de cultures alimentaires ou énergétiques;
+- c) les certificats sont réalisés par des organismes reconnus;
+- d) le bilan est établi par un organisme central reconnu nationalement, dont les données peuvent être consultées publiquement;
+- e) les certificats, correspondant à une durée de vie de 20 ans de la chaudière, sont remis en une seule fois dans le cadre de la demande de permis de construire liée à la mise en place du nouveau producteur de chaleur;
+- f) le calcul des certificats à obtenir en kWh correspond aux besoins annuels d’énergie calculés pour le chauffage et l’eau chaude x 20 ans x 2[^55-1] .
+
+<sup>5</sup> Les exigences doivent être remplies par des mesures appliquées sur le site.
+
+[^55-1]: Le coefficient 2 correspond au taux d’énergie renouvelable requis (100 %) divisé par le facteur de pondération (0,5).
+
+#### Art. 56
+
+**Principes de calcul**
+
+<sup>1</sup> Pour calculer les besoins d'énergie annuels pondérés pour le chauffage, la préparation de l'eau chaude sanitaire, la ventilation et le rafraîchissement, on divise les besoins de chaleur pour le chauffage (Q<sub>H,eff</sub>) et pour l'eau chaude sanitaire (Q<sub>WW</sub>) par le rendement (η) des producteurs de chaleur installés en tenant compte de leur part respective à la fourniture de chaleur. Le résultat est multiplié par le facteur de pondération (g) des agents énergétiques utilisés. Au résultat de la multiplication, on additionne la dépense d'électricité pour la ventilation et le rafraîchissement (E<sub>LK</sub>) également multipliée par le facteur de pondération (g).
+
+<sup>2</sup> Le calcul des besoins énergétiques ne prend en considération que de l'énergie de grande valeur fournie au bâtiment pour assurer le chauffage, la ventilation et le rafraîchissement des locaux ainsi que celle nécessaire à la préparation de l'eau chaude sanitaire, sans tenir compte d’une éventuelle énergie liée à des procédés de production qui dépend notamment d’une utilisation particulière des locaux.
+
+<sup>3</sup> L’électricité issue d’une propre production n’est pas prise en compte dans le calcul des besoins d’énergie annuels pondérés. Fait toutefois exception l’électricité issue d’installations de couplage-chaleur-force (CCF) installée dans la construction considérée.
+
+<sup>4</sup> Les facteurs de pondération (g) appliqués aux différents agents énergétiques sont les facteurs nationaux déterminés par l'EnDK.
+
+#### Art. 57
+
+**Justification à l’aide de combinaisons de solutions standards**
+
+<sup>1</sup> Pour les catégories d'ouvrages I (habitat collectif) et II (habitat individuel), l'exigence requise à l'article 55 est considérée comme respectée si le projet répond à l'une des combinaisons de solutions standards ci-après, appliquée dans les règles de l’art.
+
+<sup>2</sup> Dans les nouveaux bâtiments dont les éléments de construction opaques contre l'extérieur respectent une valeur U<sub>w</sub> de 0,17 W/(m²·K) et les fenêtres une valeur U<sub>w</sub> de 1,00 W/(m²·K), il faut prévoir alternativement:
+
+- a) une installation de ventilation mécanique contrôlée combinée à:
+  - 1\. une pompe à chaleur électrique sol-eau ou eau-eau,
+  - 2\. un chauffage à bois automatique,
+  - 3\. un chauffage à distance (UIOM, STEP ou énergies renouvelables),
+  - 4\. une pompe à chaleur électrique air-eau;
+- b) une installation solaire thermique pour produire de l'eau chaude sanitaire, d'une surface correspondant au minimum à 2 pour cent de la SRE, combinée à:
+  - 1\. une pompe à chaleur électrique sol-eau ou eau-eau,
+  - 2\. un chauffage à bois automatique,
+  - 3\. un chauffage à distance (UIOM, STEP ou énergies renouvelables),
+  - 4\. une pompe à chaleur électrique air-eau,
+  - 5\. une chaudière à bûches.
+
+<sup>3</sup> Dans les nouveaux bâtiments dont les éléments de construction opaques contre l'extérieur respectent une valeur U<sub>w</sub> de 0,15 W/(m²·K), il faut prévoir alternativement:
+
+- a) des fenêtres respectant une valeur U<sub>w</sub> de 1,00 W/(m²·K) combinées à:
+  - 1\. une pompe à chaleur électrique sol-eau ou eau-eau,
+  - 2\. un chauffage à bois automatique,
+  - 3\. un chauffage à distance (UIOM, STEP ou énergies renouvelables);
+- b) des fenêtres respectant une valeur U<sub>w</sub> de 0,80 W/(m²·K) combinées à:
+  - 1\. une pompe à chaleur électrique sol-eau ou eau-eau,
+  - 2\. un chauffage à bois automatique,
+  - 3\. un chauffage à distance (UIOM, STEP ou énergies renouvelables),
+  - 4\. une pompe à chaleur électrique air-eau.
+
+<sup>4</sup> Les solutions standards concernées ne sont reconnues qu'en cas de respect des conditions supplémentaires suivantes:
+
+- a) le rendement de récupération de chaleur de l'installation de ventilation mécanique contrôlée doit être au minimum de 80 pour cent;
+- b) la part d’énergie fossile du chauffage à distance doit être inférieure ou égale à 25 pour cent.
+
+<sup>5</sup> L'outil de justification pour les bâtiments simples (ENteb) mis à disposition par l’EnDK peut être utilisé en lieu et place des combinaisons de solutions standards de l'alinéa 1.
+
+#### Art. 58
+
+**Production propre d'électricité des nouveaux bâtiments et des agrandissements de bâtiments existants**
+
+<sup>1</sup> Par installation "à proximité du bâtiment", on entend une installation sise sur la même parcelle que le bâtiment ou sur une parcelle voisine.
+
+<sup>2</sup> La participation financière à une installation produisant une énergie renouvelable implantée en dehors du site est régie par l’article 59.
+
+#### Art. 59
+
+**Participation financière à une installation utilisant une ressource énergétique renouvelable**
+
+<sup>1</sup> Lorsque le requérant d’une autorisation de construire souhaite participer financièrement à une installation de production d’électricité utilisant une ressource énergétique renouvelable sur le territoire cantonal ou d’un canton limitrophe, en lieu et place de la pose d’une installation solaire photovoltaïque dans, sur ou à proximité du bâtiment, il doit joindre un dossier à la demande d’autorisation de construire.
+
+<sup>2</sup> Le dossier comprend:
+
+- a) les coordonnées complètes du requérant;
+- b) les informations utiles concernant le bâtiment qui devrait en principe être équipé d’une installation photovoltaïque;
+- c) le plan de situation de l’installation de production d’électricité;
+- d) les informations détaillées sur le promoteur de l’installation de production d’électricité;
+- e) les informations sur l’avancement du projet de production d’électricité;
+- f) les informations sur l’investissement spécifique relatif à l’installation de production d’électricité en francs par kilowattheure produits annuellement.
+
+<sup>3</sup> L’autorité compétente en matière d’autorisation de construire doit requérir un préavis du service.
+
+<sup>4</sup> La demande de participation financière à une installation de production d’électricité utilisant une ressources énergétiques renouvelable ou à une extension de celle-ci sera acceptée, dès lors que:
+
+- a) l’installation bénéficie d’une autorisation de construire en force;
+- b) l’installation n’est pas en service au moment de la demande d'autorisation de construire;
+- c) le propriétaire de l’installation déclare accepter la participation financière du requérant;
+- d) la production annuelle prévisible financée par le requérant est au moins équivalente à celle qui serait atteinte par une installation photovoltaïque sur le bâtiment planifié.
+
+<sup>5</sup> Le propriétaire de l’installation fournit au service le protocole de mise en service dans un délai de 30 jours dès sa réception.
+
+#### Art. 60
+
+**Couverture des besoins d’électricité pour le rafraîchissement, l’humidification et la déshumidification des bâtiments**
+
+<sup>1</sup> La consommation d’électricité saisonnière des appareils principaux nécessaires à la production et à la distribution de froid ou de vapeur détermine la quantité d’électricité à produire durant la période considérée.
+
+<sup>2</sup> La quantité d’électricité nécessaire en kWh peut, par simplification, être calculée en multipliant par 1'000 heures la puissance électrique totale en kW des appareils nécessaires à la production et à la distribution de froid et de vapeur.
+
+<sup>3</sup> La production d’électricité nécessaire au froid est considérée d’avril à septembre. Celle en lien avec l’humidification et la déshumidification est considérée de novembre à février.
+
+<sup>4</sup> Une simulation de la quantité d’électricité nécessaire, réalisée par un bureau spécialisé et effectuée dans les règles de l’art, est acceptée.
+
+<sup>5</sup> Une production d'électricité équivalente, par la participation financière à une installation produisant une énergie renouvelable implantée en dehors du site, est possible conformément à l’article 59.
+
+#### Art. 61
+
+**Exigences concernant la couverture de l’ensemble des besoins énergétiques**
+
+<sup>1</sup> Les bâtiments disposant d’un label Minergie-P®, Minergie-A® ou d’un CECB A/A ne doivent pas démontrer le respect des exigences individuelles des articles 32, 33 et 34 LcEne.
+
+<sup>2</sup> Les grands ensembles de bâtiments disposant d’un label Minergie-Quartier® ne doivent pas démontrer le respect des exigences individuelles des articles 32, 33 et 34 LcEne.
+
+### 4.3 Exigences concernant la couverture des besoins de chaleur et la production propre d’électricité pour les bâtiments existants
+
+#### Art. 62
+
+**Chaleur renouvelable lors du remplacement des installations de production de chaleur**
+
+<sup>1</sup> L’exigence requise à l’article 38 alinéa 3 LcEne est considérée comme respectée si:
+
+- a) le projet répond à une solution standard selon l'alinéa 2 ou à une combinaison de solutions standards selon l'alinéa 3, ou
+- b) le projet répond aux exigences de l'alinéa 4, ou
+- c) le bâtiment dispose du label Minergie®, ou
+- d) le bâtiment atteint au moins la classe D du CECB pour la performance énergétique globale.
+
+<sup>2</sup> Une des solutions standards suivantes est réalisée au moment du remplacement de la chaudière:
+
+- a) mise en place d'une installation solaire thermique pour le chauffage et l'eau chaude sanitaire – condition: surface des absorbeurs ≥ 7 pour cent de la surface de référence énergétique;
+- b) raccordement à un réseau de chauffage à distance alimenté au moins à 75 pour cent par des énergies renouvelables;
+- c) mise en place d’un chauffe-eau pompe à chaleur raccordé à l'installation de chauffage et pose d’une installation solaire photovoltaïque – condition: puissance de l'installation solaire photovoltaïque ≥ 5 Wc par m² de surface de référence énergétique;
+- d) mise en place d’un générateur de base pour la production automatique de chaleur fonctionnant aux énergies renouvelables avec chaudière d'appoint bivalente fonctionnant aux énergies fossiles – condition: le générateur de base avec des énergies renouvelables (pellets, plaquettes de bois, chaleur du sol, de l'air ou de l'eau) dispose d’une puissance thermique d’au moins 50 pour cent de la puissance nécessaire à la température de dimensionnement de l’installation de chauffage;
+- e) mise en place d'une pompe à chaleur pour le chauffage et l'eau chaude sanitaire;
+- f) mise en place d'un chauffage automatique au bois pour le chauffage et l'eau chaude sanitaire.
+
+<sup>3</sup> Au minimum, deux des solutions standards suivantes ont été réalisées ou seront mises en œuvre dans les 3 ans suivant le changement de la chaudière:
+
+- a) remplacement de toutes les fenêtres de l'enveloppe thermique – conditions: U<sub>w</sub> ≤ 0,7 W/(m²·K) et intercalaires en matière synthétique ou en acier inoxydable;
+- b) isolation des façades – condition: U<sub>w</sub> ≤ 0,20 W/(m²·K);
+- c) isolation de la toiture – condition: U<sub>w</sub> ≤ 0,20 W/(m²·K);
+- d) mise en place d'une installation solaire thermique pour la production d'eau chaude sanitaire – condition : surface des absorbeurs ≥ 2 pour cent de la surface de référence énergétique;
+- e) mise en place d'une installation de ventilation mécanique contrôlée à double-flux avec récupérateur de chaleur ayant un rendement minimal de 70 pour cent;
+- f) mise en place d'un chauffe-eau pompe à chaleur.
+
+<sup>4</sup> Le recours à des combustibles renouvelables ou d’origine renouvelable sous forme de gaz ou de liquides est autorisé à condition que les exigences suivantes soient respectées:
+
+- a) le recours à ces combustibles entraîne une réduction des émissions dans l'inventaire suisse des gaz à effet de serre pour l'année en cours ou l'une des deux années précédentes, en tenant compte des facteurs de pondération nationaux;
+- b) les combustibles ne sont pas issus de cultures alimentaires ou énergétiques;
+- c) les certificats sont établis par des organismes reconnus;
+- d) le bilan est établi par un organisme central reconnu nationalement, dont les données peuvent être consultées publiquement;
+- e) les certificats, correspondant à une durée de vie de 20 ans de la chaudière, sont remis en une seule fois dans le cadre de la demande d’autorisation de construire liée au remplacement de la chaudière;
+- f) le calcul des certificats à acquérir en kWh correspond à la surface de référence énergétique (m²) × 100 kWh (par m² et par an) × 20 ans × 0,4[^62-1] .
+
+<sup>5</sup> Tout système de production de chaleur pouvant utiliser une énergie fossile est soumis à un préavis du service en application de l’article 54 alinéa 2 LcEne.
+
+<sup>6</sup> Les exigences doivent être remplies par des mesures appliquées sur le site.
+
+<sup>7</sup> Sont exemptés de ces exigences les bâtiments ayant une affectation mixte, lorsque la surface d'habitation (catégories I et II de la norme SIA 380/1) n'excède pas 150 m² de SRE.
+
+<sup>8</sup> Si aucune des propositions mentionnées à l’alinéa 1 n’est retenue, une justification du respect de la réduction d'au moins 20 pour cent de la couverture des besoins globaux de chaleur par des énergies non renouvelables doit être présentée.
+
+[^62-1]: Les 100 kWh correspondent au besoin d'énergie annuel estimé pour le chauffage et l'eau chaude. Le facteur de 0,4 correspond au taux d'énergie renouvelable requis (20 %) divisé par le facteur de pondération (0,5).
+
+#### Art. 63
+
+**Remplacement des chauffages électriques décentralisés**
+
+<sup>1</sup> Par rénovation d’envergure au sens de l’article 40 LcEne, on entend une rénovation qui permet sans difficultés techniques, dans le cadre des travaux prévus, d’installer une distribution de chaleur hydraulique.
+
+<sup>2</sup> Pour l’application de l’article 40 alinéa 2 lettre e LcEne:
+
+- a) la consommation d’électricité saisonnière des chauffages électriques décentralisés détermine la quantité d’électricité à produire durant la période considérée;
+- b) la consommation peut être démontrée:
+  - 1\. par la remise des factures détaillées des 3 dernières années, ou
+  - 2\. par le calcul de la quantité d’électricité nécessaire en kWh, en multipliant par 2’300 heures la puissance électrique totale en kW des appareils nécessaires à la production de chaleur, ou
+  - 3\. par une simulation de la quantité d’électricité nécessaire, réalisée par un bureau spécialisé et effectuée dans les règles de l’art, pour le lieu considéré sur l’ensemble de la période de chauffe;
+- c) le calcul de la production hivernale d’énergie électrique sur site, réalisé au moyen du calculateur solaire de Suisse Energie ou d’un autre outil reconnu, doit être présenté au service;
+- d) une production d'électricité équivalente, par la participation financière à une installation produisant une énergie renouvelable implantée en dehors du site, est possible conformément à l’article 59.
+
+#### Art. 64
+
+**Production propre d’électricité ou de chaleur des bâtiments existants**
+
+<sup>1</sup> En cas de dépose de la couverture de la toiture, une installation solaire d’une puissance installée d’au moins 20 W par m² de SRE doit être mise en place, sans qu'une puissance supérieure à 30 kW soit imposée.
+
+<sup>2</sup> La surface de l’installation ne doit toutefois pas être supérieure à 80 pour cent des surfaces de toiture dont la couverture est déposée.
+
+<sup>3</sup> Est considérée comme rénovation énergétique des façades simultanément à la rénovation de la toiture selon l’article 43 alinéa 1 lettre b LcEne, la rénovation de toutes les façades contre l’extérieur dont la protection thermique satisfait les exigences ponctuelles de la norme SIA 380/1.
+
+<sup>4</sup> Sont considérés comme bâtiments qui ne sont utilisés que pendant la saison estivale, les bâtiments non accessibles en hiver et qui ne sont utilisés que pendant les mois de mai à octobre.
+
+<sup>5</sup> En application de l’article 43 alinéa 2 LcEne, une surface de panneaux photovoltaïques correspondant au minimum à 40 pour cent de la surface de la toiture ou représentant une puissance installée d’au moins 20 W par m² de SRE doit être mise en place.
+
+<sup>6</sup> Une production d'électricité équivalente, par la participation financière à une installation produisant une énergie renouvelable implantée en dehors du site, est possible conformément à l’article 59.
+
+### 4.4 Exemplarité des collectivités publiques
+
+#### Art. 65
+
+**Principes**
+
+<sup>1</sup> Le canton et les communes veillent à respecter de manière exemplaire les objectifs de la loi sur l’énergie notamment dans leurs activités législative, administrative, de construction et d'exploitation de leurs biens, en particulier dans leurs opérations immobilières, lors de subventionnements, de participations et d’appels d’offres.
+
+<sup>2</sup> Les constructions, les infrastructures et les installations sont réalisées et équipées de façon optimale pour garantir une consommation d’énergie minimale et couvrir dans la mesure du possible les besoins d’énergie résiduels au moyen de rejets de chaleur et d’énergies renouvelables et indigènes.
+
+<sup>3</sup> Le choix des agents énergétiques est effectué en vue d’assurer un approvisionnement en chaleur 100 pour cent renouvelable et indigène d'ici 2050 pour les communes et d’ici 2035 pour les bâtiments et les installations du canton.
+
+<sup>4</sup> Le respect des objectifs d’exemplarité peut être démontré par une approche globale des questions énergétiques à l’échelle d’un parc immobilier pour autant que la démarche ait été validée par le service.
+
+#### Art. 66
+
+**Parc immobilier**
+
+<sup>1</sup> Les bâtiments dont le canton ou les communes sont propriétaires ou pour lesquels ils participent financièrement à la construction, à la rénovation ou à l'exploitation doivent obtenir:
+
+- a) pour les nouveaux bâtiments, le label Minergie-P® ou Minergie-A® ou le CECB A/A;
+- b) pour les bâtiments rénovés, le label Minergie-Rénovation® ou le CECB B/B.
+
+<sup>2</sup> Les demandes de dérogation aux exigences de l’alinéa 1 font l'objet d'une décision du Conseil d’Etat, laquelle devra être jointe au dossier de demande d’autorisation de construire. Elles peuvent notamment être octroyées pour:
+
+- a) des bâtiments classés;
+- b) des bâtiments dont l'affectation ne justifie pas l'application des standards définis;
+- c) des bâtiments neufs ou rénovés pour lesquels l'atteinte des standards définis engendre des problèmes insurmontables par exemple la nécessité de recourir à des coefficients d'isolation meilleurs que le 60 pour cent des valeurs limites de la norme SIA 380/1.
+
+<sup>3</sup> Le service en charge de la construction et de l’entretien du parc immobilier de l’Etat du Valais veille au respect des prescriptions susmentionnées. Il définit un programme d’amélioration énergétique du parc immobilier de l’Etat du Valais et procède à un suivi des consommations énergétiques.
+
+<sup>4</sup> Lors de concours d’architecture pour des constructions de collectivités publiques, les aspects énergétiques du bâtiment doivent être pris en compte en tant que critère de jugement.
+
+#### Art. 67
+
+**Infrastructures, parc automobile et appareils**
+
+<sup>1</sup> Les services exploitant des infrastructures définissent un programme d’amélioration énergétique et procèdent à un suivi des consommations énergétiques.
+
+<sup>2</sup> Le canton acquiert les véhicules et les appareils énergétiquement les plus performants compatibles avec l’accomplissement de ses tâches.
+
+<sup>3</sup> Priorité sera donnée aux véhicules électriques par rapport aux véhicules hybrides ou thermiques.
+
+#### Art. 68
+
+**Nouvel éclairage public**
+
+<sup>1</sup> Les nouvelles installations d’éclairage public ainsi que les installations renouvelées doivent être conçues, réalisées et exploitées selon l'état de la technique, notamment selon la norme SN EN 13201 et selon les Directives sur l’éclairage public SLG 202 de l'Association Suisse pour l'éclairage (SLG). Les valeurs limites de l’énergie et de la puissance selon les classes d’éclairage y figurant ne doivent pas être dépassées. Demeurent réservées les dispositions applicables en matière de protection de l’environnement ou de sécurité.
+
+### 4.5 Bâtiments et processus grands consommateurs
+
+#### Art. 69
+
+**Bâtiments ayant une grande incidence énergétique**
+
+<sup>1</sup> Le périmètre à considérer pour l’optimisation de l’approvisionnement énergétique est préalablement défini en concertation entre le porteur du projet, la commune et le service.
+
+<sup>2</sup> Toutes les mesures mises en œuvre pour minimiser les besoins en énergie du bâtiment concerné et celles prévues pour optimiser l’approvisionnement énergétique du périmètre considéré seront précisées dans le dossier relatif au concept énergétique transmis au service, qui doit inclure:
+
+- a) le dossier du justificatif énergétique du bâtiment concerné (justificatifs de projet, calculs énergétiques, esquisses de projet, schémas de principes, etc.);
+- b) le plan du quartier considéré avec les indications des puissances installées et des agents énergétiques utilisés dans les constructions existantes ou à venir (chauffage, eau chaude sanitaire, ventilation, réfrigération, etc.);
+- c) la liste des mesures mises en œuvre pour limiter l’impact énergétique de l’objet considéré (isolation renforcée, récupération de chaleur, optimisation d’installations techniques, amélioration d’efficacité d’installations, etc.).
+
+#### Art. 70
+
+**Optimisation de l’exploitation des grands bâtiments non liés à l’habitat**
+
+<sup>1</sup> Sont concernés par l’optimisation de l’exploitation, les bâtiments des catégories suivantes dont la consommation d’électricité est comprise entre 0,2 et 0,5 GWh par an ou la consommation de chaleur est comprise entre 1,0 et 5,0 GWh par an ou dont la SRE est supérieure ou égale à celle indiquées ci-après:
+
+<table>
+<tr><th>Catégories d'ouvrage</th><th>Nom</th><th>Valeurs indicatives</th></tr>
+<tr><td>III</td><td>Administration</td><td>10'000 m²</td></tr>
+<tr><td>IV</td><td>Ecole</td><td>15'000 m²</td></tr>
+<tr><td>V</td><td>Commerce</td><td>5'000 m²</td></tr>
+<tr><td>VI</td><td>Restauration</td><td>5'000 m²</td></tr>
+<tr><td>VII</td><td>Lieu de rassemblement</td><td>5'000 m²</td></tr>
+<tr><td>VIII</td><td>Hôpital</td><td>5'000 m²</td></tr>
+<tr><td>IX</td><td>Industrie</td><td>5'000 m²</td></tr>
+<tr><td>X</td><td>Dépôt</td><td>5'000 m²</td></tr>
+<tr><td>XI</td><td>Installation sportive</td><td>5'000 m²</td></tr>
+<tr><td>XII</td><td>Piscine couverte</td><td>2'000 m²</td></tr>
+</table>
+
+<sup>2</sup> L’optimisation d’une exploitation implique le contrôle des valeurs de consigne et de consommation des installations de chauffage, ventilation, climatisation, réfrigération, sanitaires, ainsi que des systèmes électriques et des dispositifs d'automation.
+
+<sup>3</sup> L’exécution de l’optimisation de l’exploitation doit faire l’objet d’un rapport donnant les informations sur les prestations d’optimisation réalisées et les indications sur:
+
+- a) l’état initial des réglages et des consignes des installations;
+- b) les éventuelles mesures d’adaptation mises en place visant à augmenter l’efficacité énergétique des installations;
+- c) l’évolution des consommations d’énergie;
+- d) le plan de contrôles et de suivis temporels des installations;
+- e) les coûts et les retours sur investissement de chaque mesure.
+
+<sup>4</sup> La documentation relative à l’analyse et à l’optimisation des installations doit être conservée au moins 10 ans. Sur demande, elle doit être présentée au service.
+
+<sup>5</sup> Un contrôle de l’optimisation de l’exploitation doit être réalisé tous les 5 ans.
+
+#### Art. 71
+
+**Principes**
+
+<sup>1</sup> Chaque gros consommateur, localisé sur un site, doit prendre des mesures raisonnables basées sur une analyse de sa consommation énergétique (ACE), en prenant en compte l'efficacité avec laquelle l'énergie est utilisée au moment de la définition des mesures ainsi que l'évolution technique et économique probable relative au cas spécifique.
+
+<sup>2</sup> L’ACE doit obligatoirement et cumulativement:
+
+- a) être effectuée par un spécialiste externe au gros consommateur, mandaté par celui-ci et issu d’un bureau actif dans le domaine de l’énergie, indépendant de l’entreprise;
+- b) se conformer à l’édition en vigueur du "Guide pour l’analyse de la consommation énergétique" édité par l’EnDK;
+- c) utiliser les outils informatiques mis à disposition par l’EnDK.
+
+<sup>3</sup> La durée d’amortissement est considérée comme raisonnable si elle est inférieure à 8 ans pour les installations techniques des bâtiments et leur enveloppe et inférieure à 4 ans pour un processus industriel.
+
+#### Art. 72
+
+**Convention d’objectifs universelle**
+
+<sup>1</sup> Comme alternative à l’ACE, les gros consommateurs ont le choix de s’engager de façon individuelle par une convention d’objectifs conclue avec la Confédération et visant l’amélioration de l’efficacité énergétique.
+
+<sup>2</sup> Une telle convention d’objectifs universelle répond à la directive du 30 septembre 2014 sur les conventions d'objectifs conclues avec la Confédération et visant à l'amélioration de l'efficacité énergétique. L'adhésion à la convention se fait par une procédure gérée par l'Agence de l'énergie pour l'économie (AEnEc), par Cleantech Suisse (Act) ou par l'adhésion à un groupe ayant signé un accord spécial avec la Confédération dans le même contexte.
+
+<sup>3</sup> La convention doit convenir d’objectifs énergétiques précis fondés sur:
+
+- a) l’efficacité énergétique pour les entreprises ayant une consommation énergétique moyenne à élevée, ou
+- b) un plan de mesures détaillé, pour les entreprises ayant une consommation énergétique faible à moyenne.
+
+<sup>4</sup> Au terme d’une convention avec la Confédération, si l’entreprise demeure un gros consommateur et qu’elle ne souhaite pas la renouveler, l’article 71 est applicable.
+
+<sup>5</sup> Dès le moment où les consommateurs ne sont plus sous le régime d'une convention, leurs bâtiments et installations, réalisés pendant la validité de la convention, devront satisfaire pleinement à toutes les exigences de la LcEne et de la présente ordonnance, dans un délai de 3 ans.
+
+## 5 Aides financières et mesures d’encouragement
+
+### 5.1 Mise en œuvre des aides financières
+
+#### Art. 73
+
+**Principe**
+
+<sup>1</sup> Toute personne physique ou morale de droit privé ou de droit public peut être mise au bénéfice d'une aide financière selon l’article 47 LcEne.
+
+#### Art. 74
+
+**Demande d'aide financière**
+
+<sup>1</sup> Le dossier de demande d'aide financière doit comporter tous les documents et informations nécessaires à l'examen des aspects légaux, techniques, économiques et financiers, y compris l'indication d'autres subventions attendues.
+
+<sup>2</sup> S'il existe une formule spéciale pour la demande, celle-ci sera utilisée.
+
+<sup>3</sup> La demande doit être présentée au service.
+
+<sup>4</sup> Il n'est pas entré en matière sur les demandes relatives à des travaux déjà entrepris ou exécutés.
+
+<sup>5</sup> Pour une demande relative à la promotion des labels Minergie-P® ou Minergie-A® ainsi que pour le CECB A/A, il n'est pas entré en matière sur les demandes relatives à un projet de construction, reconstruction, transformation et agrandissement dont l'avancement des travaux est tel que le bâtiment satisfait déjà la qualité énergétique visée.
+
+#### Art. 75
+
+**Montant et conditions de l'aide financière**
+
+<sup>1</sup> Le montant de l’aide financière dépend de l'intérêt et de l'importance de l'activité ou du projet dans le cadre de la politique énergétique cantonale.
+
+<sup>2</sup> Le service propose à l'autorité compétente les conditions particulières d'attribution, la forme et le montant de l'aide financière.
+
+<sup>3</sup> Les dispositions de la loi sur les subventions sont applicables. En particulier, il n'existe aucun droit à l'obtention d'une aide financière.
+
+#### Art. 76
+
+**Versement**
+
+<sup>1</sup> Le versement de l'aide financière est effectué après achèvement des travaux et sur présentation des justificatifs administratifs et techniques.
+
+<sup>2</sup> D'éventuels procès-verbaux de réception et de mise en service peuvent être appelés à compléter le dossier.
+
+<sup>3</sup> Le versement d'acomptes peut exceptionnellement être admis sur la base de situations provisoires reconnues.
+
+#### Art. 77
+
+**Obligation de donner des renseignements**
+
+<sup>1</sup> Le requérant de l'aide financière garantit au service le libre accès à tous les documents relatifs à la décision ainsi qu'au résultat de la mesure soutenue.
+
+#### Art. 78
+
+**Modification du projet**
+
+<sup>1</sup> Toute modification d'un projet faisant l'objet d'une décision d'aide financière devra être soumise au service et approuvée par celui-ci.
+
+#### Art. 79
+
+**Validité**
+
+<sup>1</sup> En l'absence d'une disposition contraire dans une directive du département ou dans la décision d’aide financière, la promesse d'aide financière perd sa validité:
+
+- a) si les travaux n'ont pas commencé dans le délai d'une année à partir de la décision par l'autorité compétente et s'ils ne sont pas terminés en l'espace de 2 ans;
+- b) si le décompte n'a pas été présenté dans l'année qui suit la fin des travaux.
+
+#### Art. 80
+
+**Restitution**
+
+<sup>1</sup> Les aides financières indûment perçues doivent être restituées. Cette restitution est également exigible si, au cours d'une période de 10 ans, une installation ou une mesure est abandonnée ou détournée de son but initial, ou si des conditions et obligations ne sont pas respectées.
+
+<sup>2</sup> Les prétentions à la restitution s'éteignent par prescription un an après que les organes compétents du canton ont pris connaissance des faits, et en tous cas 10 ans après la naissance de la prétention. L'interruption de la prescription est régie par les dispositions du Code suisse des obligations (CO).
+
+<sup>3</sup> Pour les installations d'essai qui ne produisent pas les résultats escomptés, il est possible de renoncer à la restitution dans sa totalité ou en partie. Le département en charge de l'énergie prend les dispositions nécessaires à cet égard.
+
+### 5.2 Mesures d’encouragement et soutien
+
+#### Art. 81
+
+**Mesures d’encouragement**
+
+<sup>1</sup> Les mesures d’encouragement dans le domaine de l'énergie consistent à soutenir:
+
+- a) l'information et le conseil dispensés aux spécialistes et au public;
+- b) la formation et la formation continue ainsi que la reconversion professionnelle;
+- c) des études;
+- d) la recherche et le développement de nouvelles technologies;
+- e) des projets exemplaires du point de vue de l'utilisation économe et efficace de l'énergie, du recours à des ressources énergétiques renouvelables, du stockage d’énergie d’origine renouvelable et de l'utilisation des rejets de chaleur.
+
+#### Art. 82
+
+**Soutien**
+
+<sup>1</sup> Le soutien peut prendre la forme de:
+
+- a) prestations assurées par le service;
+- b) de participation financière à des projets élaborés en collaboration avec l'office fédéral de l'énergie, d'autres cantons, d'autres services cantonaux, des communes ou des organisations privées;
+- c) d'aide financière sous forme de contribution à fonds perdu, de prêt sans intérêts et de cautionnement, pour des projets sans participation directe du service.
+
+#### Art. 83
+
+**Information et conseil**
+
+<sup>1</sup> Sont considérées comme activités d'information, notamment:
+
+- a) la distribution de documentation pour le grand public;
+- b) l'élaboration d'un journal, d'un magazine ou d'une lettre d'information;
+- c) les relations publiques en vue d'obtenir des comptes rendus médiatisés;
+- d) la tenue d'un stand dans des foires ou expositions;
+- e) une journée portes ouvertes;
+- f) une manifestation ou activité spéciale relative au thème de l'énergie.
+
+<sup>2</sup> Sont considérées comme activités de conseil:
+
+- a) un entretien sur un projet concret;
+- b) l'étude détaillée d'un projet avec remise d'un rapport;
+- c) l'accompagnement d'un projet.
+
+#### Art. 84
+
+**Formation, formation continue et reconversion professionnelle**
+
+<sup>1</sup> Sont considérées comme activités de formation, de formation continue et de reconversion professionnelle, notamment:
+
+- a) la tenue de cours, de séminaires et d'ateliers de formation;
+- b) la préparation de matériel d'enseignement;
+- c) la tenue de journées ou de semaines de l'énergie dans des entreprises.
+
+#### Art. 85
+
+**Etudes**
+
+<sup>1</sup> Sont considérées comme études dans ce contexte, notamment:
+
+- a) les études de faisabilité;
+- b) les études de marché;
+- c) l'analyse de fonctionnement d'une installation particulière;
+- d) l'élaboration d’une planification énergétique territoriale;
+- e) les études relatives aux fondements de l'économie énergétique.
+
+#### Art. 86
+
+**Recherche et développement**
+
+<sup>1</sup> Le soutien aux activités de recherche et de développement peut intervenir de manière subsidiaire au soutien des instances responsables de l'encouragement à la recherche énergétique et à celui de l'office fédéral de l'énergie.
+
+<sup>2</sup> Les projets pilotes et de démonstration dans le domaine de l'énergie peuvent bénéficier d'un soutien:
+
+- a) lorsqu'ils favorisent l'utilisation économe et rationnelle de l'énergie ou le recours aux énergies renouvelables;
+- b) lorsque le potentiel d'application et les probabilités de succès du projet sont suffisamment importants;
+- c) lorsque le projet est conforme à la politique énergétique cantonale;
+- d) lorsque les résultats obtenus sont accessibles au public et communiqués aux milieux intéressés.
+
+<sup>3</sup> L'alinéa 2 est applicable par analogie au soutien d'analyses et d'essais sur le terrain.
+
+#### Art. 87
+
+**Bâtiments et installations exemplaires**
+
+<sup>1</sup> Le département met en place des programmes de promotion visant à soutenir des mesures pour:
+
+- a) l'utilisation efficace de l'énergie dans les bâtiments;
+- b) l'amélioration de l'efficacité énergétique des installations;
+- c) la production d’énergies d’origine renouvelable;
+- d) l'utilisation des rejets de chaleur.
+
+<sup>2</sup> Les programmes de promotion, comprenant les conditions particulières d'attribution, la forme et le montant de l'aide financière, figurent dans des directives édictées par le département.
+
+<sup>3</sup> Des projets particuliers ne pouvant faire l'objet de programmes de promotion en raison de leur rareté peuvent également être soutenus. Le montant de l'aide financière tiendra compte de la rentabilité du projet et ne dépassera pas 20 pour cent de l'investissement.
+
+#### Art. 88
+
+**Bonus sur l’indice d’utilisation du sol**
+
+<sup>1</sup> Outre les bâtiments construits ou rénovés selon les exigences des labels MINERGIE-P® ou Minergie-A® ou celles permettant d’atteindre les classes A/A du CECB, le service peut reconnaître d’autres certificats de qualité énergétique, national ou reconnu internationalement.
+
+#### Art. 89
+
+**Utilisation gratuite des eaux souterraines et de surface**
+
+<sup>1</sup> Les eaux publiques souterraines et de surface peuvent être utilisées gratuitement à des fins thermo-énergétiques par le bénéficiaire de l’autorisation de prélèvement d’eau pour les bâtiments à très haute efficacité énergétique, notamment:
+
+- a) pour les nouveaux bâtiments, ceux disposant d’un label Minergie-P® ou Minergie-A® ou d'un CECB A/A;
+- b) pour les bâtiments existants, ceux disposant d’un label Minergie Rénovation® ou d'un CECB B/B.
+
+<sup>2</sup> Demeurent réservées les dispositions de la loi cantonale sur l'utilisation des forces hydrauliques et de la législation sur la protection des eaux.
+
+## 6 Exécution
+
+#### Art. 90
+
+**Justificatif énergétique**
+
+<sup>1</sup> Le respect des dispositions de la présente ordonnance doit faire l'objet d'un justificatif énergétique.
+
+<sup>2</sup> Le justificatif est présenté sur la base des formulaires et à l’aide des directives établies par le service. Il doit être signé conjointement par le maître de l’ouvrage et par l’auteur du projet.
+
+#### Art. 91
+
+**Projet soumis à autorisation de construire**
+
+<sup>1</sup> Un préavis du service est requis si la commune ne fait pas appel à des tiers pour les tâches d'exécution et qu'elle ne possède pas elle-même les compétences nécessaires pour l'application des articles 30 "Locaux frigorifiques", 31 "Serres et halles gonflables chauffées", 42 "Rafraîchissement, humidification et déshumidification", 43 "Besoins en électricité pour l’éclairage des grands bâtiments" ainsi que des articles 47, 48 et 49 relatifs aux "Piscines chauffées".
+
+#### Art. 92
 
 **Projets non soumis à autorisation de construire**
 
 <sup>1</sup> Si un projet ne nécessite pas d'autorisation de construire ou de justificatif énergétique, le maître de l'ouvrage veille lui-même à ce que les dispositions de la législation sur l'énergie soient observées.
 
-#### Art. 45
+#### Art. 93
 
 **Demande d'informations auprès du distributeur d'énergie de réseau**
 
-<sup>1</sup> Lorsque la planification prévoit la mise en place d'une installation de chauffage ou de rafraîchissement et/ou de production d'eau chaude sanitaire alimentée par une énergie de réseau (gaz, électricité, chauffage à distance, etc.), le maître de l'ouvrage ou son mandataire doit s'informer auprès du distributeur d'énergie, préalablement au dépôt de la demande d'autorisation de construire, sur les possibilités techniques et sur les conditions de raccordement au réseau. Cette exigence concerne notamment les pompes à chaleur, les machines de froid, les chaudières, les chauffe-eau, etc.
+<sup>1</sup> Lorsque la planification prévoit la mise en place d'une installation de chauffage ou de rafraîchissement et/ou de production d'eau chaude sanitaire alimentée par une énergie de réseau (gaz, électricité, chauffage à distance, etc.), le maître de l'ouvrage ou son mandataire doit s'informer auprès du distributeur d'énergie, préalablement au dépôt de la demande d'autorisation de construire, sur les possibilités techniques et sur les conditions de raccordement au réseau. Cette exigence concerne notamment les pompes à chaleur, les machines de froid, les chaudières, les chauffe-eau, les installations photovoltaïques, etc.
 
 <sup>2</sup> Il en va de même lors d'un changement d'installation non soumis à autorisation de construire.
 
-#### Art. 46
-
-**Emoluments**
-
-<sup>1</sup> Pour les justificatifs faisant partie intégrante de dossiers de permis de construire, les émoluments et les frais sont régis par les dispositions de la législation sur les constructions.
-
-<sup>2</sup> Dans le cadre du contrôle d'exécution de la présente ordonnance, et pour autant qu'un défaut ait été constaté, le Service perçoit, auprès du maître de l'ouvrage, un émolument dont le montant est compris entre 100 et 500 francs.
-
-<sup>3</sup> Le service fixe l'émolument en fonction de l'importance et des difficultés du dossier ainsi que du temps nécessaire à son examen.
-
-#### Art. 47
-
-**Délégation de tâches d'exécution à des privés**
-
-<sup>1</sup> La commune peut mandater des tiers ou des organisations privées pour remplir ses tâches de vérification, de contrôle ou de surveillance.
-
-<sup>2</sup> Le tiers mandaté doit disposer des connaissances spécialisées et des aptitudes nécessaires pour exécuter le mandat.
-
-#### Art. 48
+#### Art. 94
 
 **Attestation de conformité**
 
 <sup>1</sup> Au terme des travaux, le maître de l'ouvrage et le responsable du projet doivent fournir à l'autorité compétente une attestation conjointe confirmant que l'exécution est conforme au projet accepté.
 
-#### Art. 49
+#### Art. 95
 
-**Abrogation**
+**Données relatives au suivi annuel**
 
-<sup>1</sup> Sont abrogées toutes les dispositions contraires à celles de la présente ordonnance, dès leur entrée en vigueur.
+<sup>1</sup> Le service met à disposition un fichier informatique pour la transmission annelle des données relatives aux contrôles des dossiers d’autorisations de construire, aux suivis des chantiers effectués et aux remplacements des installations de production de chaleur.
 
-#### Art. 50
+#### Art. 96
 
-**Entrée en vigueur**
+**Emoluments**
 
-<sup>1</sup> La présente ordonnance, à l'exception des articles 14, 15, 16, 19, 28 et 31, entre en vigueur le 1<sup>er</sup> mars 2011.
+<sup>1</sup> Pour l’élaboration de préavis au sens de l’article 54 alinéas 2 et 3 LcEne, pour autant qu’ils soient négatifs, le service peut percevoir, par l'intermédiaire des administrations communales concernées, un émolument dont le montant est compris entre 100 et 500 francs.
 
-<sup>2</sup> Les articles 14, 15, 16, 19, 28 et 31 entrent en vigueur le 1<sup>er</sup> juin 2011.
+<sup>2</sup> Les factures concernant les frais sont adressées aux administrations communales; 5 pour cent du montant est déduit pour couvrir les frais d'encaissement par les communes.
 
-## A1 Annexe 1 à l'article 20 alinéa 1
+<sup>3</sup> Dans le cadre du contrôle d'exécution de la présente ordonnance, et pour autant qu'un défaut ait été constaté, le service perçoit, auprès du maître de l'ouvrage, un émolument dont le montant est compris entre 100 et 1’000 francs.
 
-#### Art. A1-1
+<sup>4</sup> Le service fixe l'émolument en fonction de l'importance et des difficultés du dossier ainsi que du temps nécessaire à son examen.
 
-<sup>1</sup> Epaisseur minimale de l’isolation thermique des chauffe-eau et des accumulateurs d’eau chaude sanitaire ou de chaleur:
-
-<table>
-<tr><th>Capacité en [litres]</th><th>Epaisseur de l’isolation thermique [mm] si λ &gt; 0.03 [W/mK] jusqu’à λ ≤ 0.05 [W/mK]</th><th>Epaisseur de l’isolation thermique [mm]</th></tr>
-<tr><td>Jusqu’à 400</td><td>110</td><td>90</td></tr>
-<tr><td>&gt; 400 à 2'000</td><td>130</td><td>100</td></tr>
-<tr><td>&gt; 2'000</td><td>160</td><td>120</td></tr>
-</table>
-
-## A2 Annexe 2 à l'article 21 alinéa 2
-
-#### Art. A2-1
-
-<sup>1</sup> Epaisseur minimale de l’isolation thermique des conduites de chauffage et d’eau chaude sanitaire:
-
-<table>
-<tr><th>Diamètre de la conduire [DN]</th><th>Diamètre de la conduire [pouces]</th><th>Epaisseur de l’isolation thermique [mm] si λ &gt; 0.03 [W/mK] jusqu’à λ ≤ 0.05 [W/mK]</th><th>Epaisseur de l’isolation thermique [mm] si λ ≤ 0.03 [W/mK]</th></tr>
-<tr><td>10-15</td><td>3/8" - 1/2"</td><td>40</td><td>30</td></tr>
-<tr><td>20-32</td><td>3/4" - 11/4"</td><td>50</td><td>40</td></tr>
-<tr><td>40-50</td><td>11/2" - 2"</td><td>60</td><td>50</td></tr>
-<tr><td>65-80</td><td>21/2" - 3"</td><td>80</td><td>60</td></tr>
-<tr><td>100-150</td><td>4" - 6"</td><td>100</td><td>80</td></tr>
-<tr><td>175-200</td><td>7" - 8"</td><td>120</td><td>80</td></tr>
-</table>
-
-## A3 Annexe 3 à l'article 21 alinéa 4
-
-#### Art. A3-1
-
-<sup>1</sup> Valeur Uc maximale pour les conduites enterrées:
-
-<table>
-<tr><th>DN</th><th>20</th><th>25</th><th>32</th><th>40</th><th>50</th><th>65</th><th>80</th><th>100</th><th>125</th><th>150</th><th>175</th><th>200</th></tr>
-<tr><td></td><td>3/4"</td><td>1"</td><td>5/4"</td><td>11/2"</td><td>2"</td><td>21/3"</td><td>3"</td><td>4"</td><td>5"</td><td>6"</td><td>7"</td><td>8"</td></tr>
-</table>
-
-<sup>2</sup> Conduites rigides [W/mK]:
-
-<table>
-<tr><th>UC</th><th>0.14</th><th>0.17</th><th>0.18</th><th>0.21</th><th>0.22</th><th>0.25</th><th>0.27</th><th>0.28</th><th>0.31</th><th>0.34</th><th>0.36</th><th>0.37</th></tr>
-</table>
-
-<sup>3</sup> Conduites souples et tubes jumelés [W/mK]:
-
-<table>
-<tr><th>Uc</th><th>0.16</th><th>0.18</th><th>0.18</th><th>0.24</th><th>0.27</th><th>0.27</th><th>0.28</th><th>0.31</th><th>0.34</th><th>0.36</th><th>0.38</th><th>0.40</th></tr>
-</table>
-
-## A4 Annexe 4 à l'article 26 alinéa 1
-
-#### Art. A4-1
-
-<sup>1</sup> Epaisseurs minimales d'isolation pour des canaux d'aération, des tuyaux et des appareils d'aération et de climatisation:
-
-<table>
-<tr><th>Différence de température en [K] à la température de dimensionnement</th><th>5</th><th>10</th><th>15 ou plus</th></tr>
-<tr><td>Epaisseur d'isolation en [mm] pour λ &gt; 0.03W/mK jusqu’à λ ≤ 0.05W/mK</td><td>30</td><td>60</td><td>100</td></tr>
-</table>
-
-RCV BO/Abl. 7/2011
+RCV RO/AGS 2024-089

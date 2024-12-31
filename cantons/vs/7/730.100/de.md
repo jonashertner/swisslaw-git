@@ -1,31 +1,30 @@
 ---
 canton: VS
 number: "730.100"
-title: Verordnung betreffend die rationelle Energienutzung in Bauten und Anlagen
-short: VREN
+title: Energieverordnung
+short: kEnV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-12-14
+version: 2025-01-01
+version_adopted: 2024-03-20
 adopted: 2024-03-20
 in_force: 2025-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/730.100"
-pdf: "https://lex.vs.ch/api/de/versions/3105/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung betreffend die rationelle Energienutzung in Bauten und Anlagen
+# Energieverordnung
 
-(VREN)
+(kEnV)
 
-vom 09.02.2011 (Stand 01.01.2023)
+vom 20.03.2024 (Stand 01.01.2025)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Energiegesetz vom 15. Januar 2004 (kEnG);
+eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
 
-eingesehen das Baugesetz vom 15. Dezember 2016 (BauG), insbesondere Artikel 4 Absatz 2;
+eingesehen Artikel 6 Absatz 3 des Energiegesetzes vom 8. September 2023 (kEnG);
 
 auf Antrag des für die Energie zuständigen Departements,
 
@@ -35,672 +34,1391 @@ verordnet:
 
 #### Art. 1
 
-**Ziele**
+**Gegenstand**
 
-<sup>1</sup> Die vorliegende Verordnung legt die Anforderungen betreffend einer wirtschaftlichen und rationellen Energienutzung, sowie der Nutzung von erneuerbaren Energien fest. Die Verordnung betrifft sowohl die Planung, die Realisierung sowie den Betrieb von Gebäuden, Anlagen und ihren technischen Installationen.
+<sup>1</sup> Die vorliegende Verordnung enthält die Ausführungsbestimmungen zum kantonalen Energiegesetz.
+
+<sup>2</sup> Sie legt die Ziele fest und regelt insbesondere:
+
+- a) die wirtschaftlichen Berechnungen und die externen Kosten;
+- b) die Ausnahmen;
+- c) die Energieplanung;
+- d) die Energieversorgung;
+- e) die sparsame und effiziente Nutzung von Energie;
+- f) die Anforderungen an die Deckung des Wärmebedarfs und die Eigenstromerzeugung bei neuen und bestehenden Gebäuden;
+- g) die Vorbildfunktion der öffentlichen Verwaltung;
+- h) die Grossverbraucher: Gebäude und Prozesse;
+- i) die Finanzhilfen und die Fördermassnahmen.
 
 #### Art. 2
 
-**Zuständigkeit**
+**Begriffe**
 
-<sup>1</sup> Die zuständigen Behörden im öffentlichen Baurecht stellen den Vollzug der vorliegenden Verordnung sicher.
+<sup>1</sup> Primärenergien sind natürlich vorkommende Energieressourcen. Sie können in erneuerbare und nicht erneuerbare Energieressourcen eingeteilt werden.
 
-<sup>2</sup> Das für die Energie zuständige Departement, über seine Dienststelle für Energie und Wasserkraft (nachfolgend: Dienststelle):
+<sup>2</sup> Erneuerbare Energieressourcen sind:
 
-- a) übt die Aufsicht über den Vollzug dieser Verordnung aus;
-- b) ist für die Ausnahmebewilligungen dieser Verordnung zuständig.
+- a) die Sonnenenergie;
+- b) die Wasserkraft;
+- c) die Windenergie;
+- d) die Biomasse (Holz, organisches Material wie Grünabfälle, Dünger aus der Landwirtschaft oder Klärschlamm usw.);
+- e) die Geothermie;
+- f) die Umweltwärme.
 
-<sup>3</sup> Die Dienststelle welche für den Bau und den Unterhalt des Immobilienparks des Kantons Wallis zuständig ist, ist verantwortlich für die Einhaltung von energietechnischen Anforderungen und erhöhten oder zumindest gleichwertigen Komfortanforderungen gemäss Minergie-Standard, dies für alle Gebäude in welchen der Kanton als Eigentümer auftritt oder als Eigentumer ein Grundstück im Baurecht zur Verfügung stellt.
+<sup>3</sup> Nicht erneuerbare Energieressourcen sind:
+
+- a) das Erdöl;
+- b) das Erdgas;
+- c) das Uran;
+- d) die Kohle.
+
+<sup>4</sup> Sekundärenergien werden durch die Umwandlung von Primärenergie gewonnen. Dazu gehören Strom, Biogas, Synthesegas (Wasserstoff, Methan, usw.), synthetische Flüssigbrennstoffe, Fernwärme und raffinierte Erdölprodukte. Gewisse Sekundärenergien können je nach der zu ihrer Erzeugung verwendeten Primärenergie aus erneuerbaren oder nicht erneuerbaren Quellen stammen.
+
+<sup>5</sup> Im Sinne dieser Verordnung bedeuten:
+
+- a) erneuerbare und einheimische Energieressourcen: die im Kanton Wallis verfügbaren erneuerbaren Energieressourcen;
+- b) Abwärme: nach dem Stand der Technik nicht vermeidbare Wärmeverluste, die aus Energieumwandlungsprozessen oder aus chemischen Prozessen, beispielsweise in Kehrichtverbrennungsanlagen (KVA), entstehen, ausgenommen Heizwärme aus Anlagen, welche die gekoppelte Produktion von elektrischer und thermischer Energie als primäre und gleichrangige Ziele haben;
+- c) Energiekonzept: das Ergebnis eines systematischen Vorgehens, einschliesslich der Ausarbeitung von Varianten, welches darauf abzielt, den Energiebedarf eines Gebäudes und seiner Anlagen zu begrenzen und den Einsatz nicht erneuerbarer Energien zu minimieren. Es beruht auf der Entwicklung eines kohärenten architektonischen und technischen Konzepts, das auf den Bedürfnissen der Nutzer und den Möglichkeiten und Einschränkungen der Projektumgebung basiert;
+- d) Umweltwärme: die verfügbare Wärme, in der Luft, in Oberflächengewässern und im Erdreich.
 
 #### Art. 3
 
-**Geltungsbereich**
+**Ziele**
+
+<sup>1</sup> Bis 2035 werden die folgenden Ziele verfolgt:
+
+- a) der Endenergieverbrauch pro Einwohner ist gegenüber 2000 um 43 Prozent zu senken, ohne Berücksichtigung des Verbrauchs der Grossindustrie;
+- b) der Stromverbrauch pro Einwohner ist gegenüber 2000 um 13 Prozent zu senken ohne Berücksichtigung des Verbrauchs der Grossindustrie;
+- c) die 10-jährige durchschnittliche Stromerzeugung aus Wasserkraft soll netto 9’750 GWh/a betragen;
+- d) die Stromerzeugung aus erneuerbaren Energien (ohne Wasserkraft) soll 1’300 GWh/a betragen;
+- e) die Produktion von Wärme aus erneuerbaren Energien und die Verwertung von Abwärme soll 1’050 GWh/a betragen;
+- f) die Produktion von erneuerbaren Energien in Walliser Hand (privat und öffentlich) soll 60 Prozent des Energieverbrauchs des Kantons decken, wobei der Verbrauch der Grossindustrie berücksichtigt wird.
+
+<sup>2</sup> Bis 2040 soll gegenüber 2020 eine durchschnittliche zusätzliche Wasserkraftproduktion in den Wintermonaten von 1'200 GWh/a erreicht werden.
+
+#### Art. 4
+
+**Wirtschaftliche Berechnung und externe Kosten**
+
+<sup>1</sup> Bei Variantenstudien, in denen verschiedene Energielösungen (Gebäudehüllen und/oder technische Anlagen usw.) verglichen werden, müssen die Berechnungen der Wirtschaftlichkeit über die Lebensdauer der verschiedenen Varianten die externen Energiekosten einschliessen.
+
+<sup>2</sup> Für die wirtschaftlichen Berechnungen gilt die Norm SIA 480.
+
+<sup>3</sup> Die externen Kosten der Nutzung von Energieträgern für wirtschaftliche Berechnungen werden von der für Energie zuständigen Dienststelle (nachstehend: Dienststelle) in regelmässigen Abständen veröffentlicht.
+
+<sup>4</sup> Steuern, die der Bund für Energie- oder Klimaschutzzwecke auf Energieträger erhebt, gelten als in den externen Kosten enthalten, solange sie nicht höher sind als diese. Dies betrifft insbesondere die CO<sub>2</sub>-Abgabe oder den Zuschlag auf die Stromübertragungskosten.
+
+#### Art. 5
+
+**Ausnahmen**
+
+<sup>1</sup> Das Ausnahmegesuch ist an die für die Baubewilligung zuständige Behörde oder, falls eine solche nicht vorhanden ist, an die Dienststelle zu richten.
+
+<sup>2</sup> Es ist schriftlich einzureichen und unter Angabe allfälliger Beweismittel zu begründen.
+
+<sup>3</sup> Als persönliche Situation einer natürlichen Person oder einer juristischen Person gelten grundsätzlich alle Umstände, die im konkreten Einzelfall eine vom Gesetz vorgeschriebene Massnahme als unzumutbar, unverhältnismässig oder unangemessen erscheinen lassen.
+
+<sup>4</sup> Die finanzielle Situation gilt namentlich als Grund für eine Ausnahme, wenn die erforderliche Investition zu einer übermässigen Verschuldung führt oder die Person keine Bankfinanzierung erhalten kann.
+
+<sup>5</sup> Bei der Bewertung der Gebäudesituation werden kurzfristige Projekte (eine grössere Sanierung, eine Erweiterung oder der Abriss des Gebäudes usw.) betrachtet, die innerhalb von 5 Jahren umgesetzt werden.
+
+## 2 Energieplanung
+
+#### Art. 6
+
+**Energiekataster**
+
+<sup>1</sup> Das Energiekataster ersetzt nicht die Kataster der Gemeinden oder von Akteuren im Energiebereich.
+
+<sup>2</sup> Es wird in einer Form präsentiert, die geeignet ist, allgemeine Informationen zu liefern. Es ist nicht dazu gedacht, die genaue Lage der Energieinfrastrukturen anzugeben.
+
+#### Art. 7
+
+**Kommunale oder interkommunale Energieplanung**
+
+<sup>1</sup> Die kommunale oder interkommunale Energieplanung ist ein Dokument von strategischer Bedeutung. Die Gemeinden können Teile davon verbindlich machen, indem sie diese in ihre Reglemente aufnehmen.
+
+<sup>2</sup> Sie umfasst insbesondere:
+
+- a) eine räumliche Energieplanung;
+- b) Vorschläge zu organisatorischen Massnahmen im Zusammenhang mit kommunalen Aktivitäten;
+- c) Vorschläge zu finanziellen Massnahmen zur Beschleunigung der Energiewende;
+- d) Vorschläge für Bestimmungen, die in spezifische Verordnungen (z. B. über Fördermassnahmen für die effiziente Energienutzung und erneuerbare Energien) oder in Raumplanungsinstrumente (ZNP, KBZR, SNP, usw.) aufgenommen werden sollen, wenn die Massnahmen lokal begrenzte territoriale Auswirkungen haben.
+
+<sup>3</sup> Die Planung zeigt mögliche Interessenkonflikte zwischen energiepolitischen Zielen und Zielen zum Schutz anderer Interessen auf.
+
+<sup>4</sup> Das für Energie zuständige Departement (nachstehend: Departement) stellt den Gemeinden ein Beispiel für die kommunale Energieplanung zur Verfügung.
+
+#### Art. 8
+
+**Räumliche Energieplanung**
+
+<sup>1</sup> Die räumliche Energieplanung umfasst:
+
+- a) eine Diagnose, die auf der grafischen und kartografischen Erstellung der lokalen Energiesituation basiert, mit der Identifizierung des aktuellen Energieverbrauchs nach Energieträgern, der bestehenden und geplanten Infrastruktur (Gas, Fernwärme, usw.) und des Potenzials an erneuerbaren Energien und Abwärme, die lokal genutzt und verwertet werden können;
+- b) Szenarien, die auf einer Bewertung des zukünftigen Verbrauchs basieren, der mit dem lokal ermittelten Energieerzeugungs- und -verwertungspotenzial in Beziehung gesetzt wird; ein Vergleich der Leistungen der verschiedenen Szenarien, zumindest im Hinblick auf die Energieeffizienz und den Anteil erneuerbarer Energien, ist erforderlich;
+- c) Empfehlungen, fundiert auf der Grundlage des Szenarienvergleichs.
+
+<sup>2</sup> Für ihr gesamtes Gebiet oder einen Teil davon können die Gemeinden in spezifischen Reglementen oder in den Instrumenten der Raumplanung (ZNP, KBZR, SNP, usw.) besondere Energieanforderungen einführen, insbesondere:
+
+- a) die Verwendung oder das Verbot eines bestimmten Energieträgers;
+- b) höhere Anforderungen an die effiziente Energienutzung und die Nutzung erneuerbarer Energien;
+- c) Anschluss von Gebäuden an ein Fernwärme- oder Fernkältenetz, das hauptsächlich durch erneuerbare Energien und/oder Abwärme gespeist wird, einschliesslich Wärme aus Wärme-Kraft-Kopplungsanlagen.
+
+<sup>3</sup> Werden in einem spezifischen Reglement besondere Energieanforderungen für bestimmte Gebiete eingeführt, werden diese Gebiete mit hinweisendem Charakter in die Zonennutzungsplanung übertragen, z. B. ein Gebiet mit Anschlusspflicht an eine gemeinsame Heizzentrale für eine Gruppe von Gebäuden oder ein Quartier.
+
+#### Art. 9
+
+**Energiedaten**
+
+<sup>1</sup> Die Dienststelle arbeitet für die Verarbeitung und Verwaltung der Energiedaten mit dem für die öffentliche Statistik zuständigen Amt zusammen.
+
+<sup>2</sup> Sie arbeitet mit Berufsverbänden zusammen, deren Mitglieder Eigentümer von Energiedaten sind, um den Datenaustausch im Hinblick auf die Digitalisierung von Prozessen zu erleichtern.
+
+#### Art. 10
+
+**Umgang mit personenbezogenen Daten**
+
+<sup>1</sup> Die persönlichen Daten, die verarbeitet werden, werden innerhalb der Grenzen von Artikel 14 des Energiegesetzes (kEnG) behandelt. Dies aber nur, wenn die Notwendigkeit nachgewiesen wird und es in Übereinstimmung mit dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA) erfolgt.
+
+<sup>2</sup> Personenbezogene Daten können bis zu 10 Jahre lang aufbewahrt werden.
+
+<sup>3</sup> Die Authentizität, Zuverlässigkeit, Integrität und Nutzbarkeit der Daten wird sichergestellt, um den Datenschutz in angemessener Weise zu gewährleisten. Die eingesetzten technischen und organisatorischen Massnahmen werden regelmässig überprüft.
+
+#### Art. 11
+
+**Datenübermittlung**
+
+<sup>1</sup> Der Verantwortliche für die Datenbearbeitung meldet dem Datenempfänger die Aktualität und Zuverlässigkeit der von ihm bekannt gegebenen Personendaten, sofern diese Informationen nicht aus den Daten selbst oder aus den Umständen hervorgehen.
+
+<sup>2</sup> Die Dienststelle stellt im Rahmen eines Vertrags sicher, dass dieses Gesetz und die Datenschutzvorschriften vom Datenempfänger eingehalten werden.
+
+<sup>3</sup> Die Daten werden auf sichere Weise übermittelt.
+
+## 3 Energieversorgung
+
+#### Art. 12
+
+**Kantonales Interesse an der Nutzung erneuerbarer und einheimischer Energiequellen**
+
+<sup>1</sup> Als Anlagen von kantonalem Interesse gelten:
+
+- a) eine Wasserkraftanlage, die eine mittlere erwartete Produktion von mindestens 5 GWh pro Jahr verfügt;
+- b) eine Windkraftanlage oder ein Windpark, die/der mindestens 10 GWh pro Jahr produziert;
+- c) eine Photovoltaikanlage mit einer Leistung von mindestens 30 kWp;
+- d) ein Holz- oder Pelletsheizkessel, der mindestens 1 GWh Wärme pro Jahr erzeugt, sofern er sich in einer Höhenlage über 800 m.ü.M. befindet;
+- e) eine mit Holz befeuerte Wärmekraftkopplungsanlage mit einer Leistung von mindestens 3 MW und einem Gesamtwirkungsgrad (Strom und Wärme) von mindestens 75 Prozent, sofern sie sich in einer Höhenlage über 800 m.ü.M. befindet;
+- f) eine mit Holz betriebene Wärmeerzeugungsanlage gemäss Buchstaben d und e, die in einer Höhe von weniger als 800 m.ü.M. installiert wird, sofern sie ein Fernwärmenetz speist, das zu mindestens 75 Prozent aus erneuerbaren Energien besteht;
+- g) eine Wärmepumpe, die mindestens 0,1 GWh pro Jahr Wärme erzeugt;
+- h) eine thermische Solaranlage, die mindestens 0,05 GWh pro Jahr erzeugt;
+- i) eine Anlage zur Biogaserzeugung, die mindestens 1 GWh netto pro Jahr erzeugt und in das Gasnetz einspeist oder bei einer Verwertung am Produktionsstandort mit einem Gesamtwirkungsgrad (elektrisch und thermisch) von mindestens 75 Prozent. Die erzeugte Nettoenergiemenge berücksichtigt die Energie, die zur Erzeugung des Biogases verbraucht wird.
+
+<sup>2</sup> Auch wenn eine Heizungs- oder Stromerzeugungsanlage nicht die in Absatz 1 geforderte Grösse oder Bedeutung aufweist, kann der Staatsrat ihr ausnahmsweise ein kantonales Interesse zuerkennen, wenn die folgenden Bedingungen erfüllt sind:
+
+- a) sie trägt wesentlich zur Erreichung der Ziele des Gesetzes bei;
+- b) die Standortgemeinde dies durch ihren Gemeinderat beantragt.
+
+<sup>3</sup> Bei der Beurteilung des Gesuchs der Gemeinde berücksichtigt der Staatsrat mögliche alternative Standorte und deren Anzahl.
+
+#### Art. 13
+
+**Abwärme bei Elektrizitätserzeugungsanlagen**
+
+<sup>1</sup> Unter landwirtschaftlicher Biomasse im Sinne von Artikel 22 Absatz 2 kEnG, versteht man die in einem landwirtschaftlichen Betrieb anfallenden Biomasseabfälle wie Gülle, Exkremente, Grünabfälle, usw.
+
+<sup>2</sup> Stromerzeugende Anlagen, die mit Biomasse betrieben werden, die für die Energieerzeugung angebaut wird, sind nicht von der Pflicht zur Nutzung von Abwärme befreit.
+
+#### Art. 14
+
+**Vergütung für Wärme und Synthesegas aus erneuerbaren Quellen**
+
+<sup>1</sup> Die Beteiligung für die Amortisation des Netzes wird auf der Grundlage der durchschnittlichen Amortisation des Netzes und des Durchschnitts der vom Netzbetreiber über 5 Jahre verteilten Energie berechnet.
+
+## 4 Sparsame und effiziente Energienutzung
+
+### 4.1 Allgemeine Bestimmungen
+
+#### Art. 15
+
+**Kantonales Interesse an Energieeffizienz**
+
+<sup>1</sup> Als kantonales Interesse an der Energieeffizienz gelten alle Energiesparmassnahmen, die Folgendes ermöglichen:
+
+- a) den Energiebedarf um mindestens 100'000 kWh pro Jahr zu senken, wobei keine Bedingungen an den Prozentsatz der Senkung des Energiebedarfs gestellt werden dürfen;
+- b) den absoluten Energiebedarf um mindestens 10'000 kWh pro Jahr zu senken, vorausgesetzt, die Senkung des Bedarfs beträgt mindestens 30 Prozent pro 10'000 kWh pro Jahr;
+- c) den relativen Energiebedarf linear zwischen 10'000 und 100'000 kWh nach der Formel 1/3 [100 – (die absolute Einsparung / 1'000)] zu reduzieren.
+
+<sup>2</sup> In graficher Form stellt sich das kantonale Interesse an der Energieeffizienz wie folgt dar:
+
+<sup>3</sup> Die Stromeinsparung wird mit dem Faktor 2 gewichtet. So entspricht eine eingesparte kWh Strom bei der Anwendung von Absatz 1 eingesparten kWh.
+
+#### Art. 16
+
+**Stand der Technik**
+
+<sup>1</sup> Die in dieser Verordnung vorgeschriebenen energie- und raumlufthygienischen Massnahmen sind nach dem Stand der Technik zu planen und umzusetzen.
+
+<sup>2</sup> Ohne ausdrückliche anderslautende Vorschrift gelten als Stand der Technik die Anforderungen und Rechenmethoden der geltenden Normen und Empfehlungen der Fachorganisationen, der EnDK oder der EnFK. Bei Abweichungen entscheidet die Dienststelle.
+
+<sup>3</sup> Die Dienststelle erstellt eine Liste der wichtigsten Normen und Empfehlungen.
+
+<sup>4</sup> Im Falle einer Revision oder Anpassung der gültigen Normen und Empfehlungen durch die Fachorganisationen, kann die Dienststelle eine Übergangszeit bis zur Anwendung der neuen Bestimmungen festlegen
+
+#### Art. 17
+
+**Begriffsdefinitionen**
+
+<sup>1</sup> Die Begriffsdefinitionen gemäss Kapitel 1 "Verständigung" der Norm SIA 380/1 "Heizwärmebedarf", gelten, soweit sie in der vorliegenden Verordnung analog verwendet sind.
+
+<sup>2</sup> Des Weiteren bedeuten in dieser Verordnung:
+
+- a) Baute / Gebäude: Bauten, Kleinbauten, Anbauten, unterirdische Bauten oder teilweise unterirdische Bauten im Sinne der Interkantonalen Vereinbarung zur Harmonisierung der Baubegriffe (IVHB). Diesen gleichgestellt sind mobile Bauten, sofern sie länger als drei Monate am selben Ort stationiert sind;
+- b) Installation / Anlage: Künstlich geschaffene und auf Dauer angelegte Einrichtung, die in fester Beziehung zum Erdboden steht und keine Baute darstellt, wie beispielsweise: Rampen, Parkplätze, Sportplätze, Schiessplätze, Seilbahnen, usw.;
+- c) Ausstattungen und Ausrüstungen/haustechnische Anlagen: Energierelevante Installationen, die im Zusammenhang mit einer Baute oder Anlage stehen, wie beispielsweise: Heizkessel, Lüftungsanlagen, Wärmepumpe, usw.;
+- d) von einem Umbau betroffen: ein Bauteil gilt als "von einem Umbau betroffen", wenn an ihm mehr als blosse Oberflächen-Auffrischungs- oder Reparaturarbeiten vorgenommen werden;
+- e) von einer Änderung betroffen: eine haustechnische Anlage gilt als "von einer Änderung betroffen" wenn an ihr Arbeiten oder Einstellungen vorgenommen werden, welche über die Unterhalts- und Wartungsarbeiten oder Reparaturen gehen;
+- f) von einer Umnutzung betroffen: ein Bauteil gilt als "von einer Umnutzung betroffen", wenn daran durch die Umnutzung die Temperaturdifferenz aufgrund der Standardnutzung verändert wird (Norm SIA 380/1);
+- g) Energiebezugsfläche (EBF): Definiert in der Norm SIA 380, ist die Summe aller ober- und unterirdischen Geschossflächen die innerhalb der thermischen Gebäudehülle liegen und für deren eine Nutzung ein Konditionieren notwendig ist; der Begriff der beheizten Bruttofläche, der in der Norm SIA 416 definiert ist, ist identisch;
+- h) EnDK: Konferenz kantonaler Energiedirektoren;
+- i) EnFK: Konferenz kantonaler Energiefachstellen.
+
+#### Art. 18
+
+**Labels, Ausweise und Normen**
+
+<sup>1</sup> Sofern nichts anderes bestimmt ist, sind die Labels, Ausweise und Normen auf die in dieser Verordnung verwiesen wird, jene, die in Kraft sind.
+
+<sup>2</sup> Die wichtigsten Labels, Zertifikate und Standards sind:
+
+- a) die MINERGIE® -Labels, die vom Verein MINERGIE® definiert sind;
+- b) der Gebäudeenergieausweis der Kantone (GEAK), der von der EnDK definiert ist;
+- c) die Norm SIA 180 "Wärmeschutz, Feuchteschutz und Raumklima in Gebäuden" (Norm SIA 180);
+- d) die Norm SIA 380 "Grundlagen für die energetische Berechnung von Gebäuden" (Norm SIA 380);
+- e) die Norm SIA 380/1 "Heizwärmebedarf" (Norm SIA 380/1);
+- f) die Norm-SIA 382/1 "Lüftungs- und Klimaanlagen - Allgemeine Grundlagen und Anforderungen" (Norm SIA 382/1);
+- g) die Norm SIA 385/1 "Anlagen für Trinkwarmwasser in Gebäuden – Grundlagen und Anforderungen" (Norm SIA 385/1);
+- h) die Norm SIA 387/4 "Elektrizität in Gebäuden - Beleuchtung: Berechnung und Anforderungen" (Norm SIA 387/4);
+- i) die Norm SIA 480 "Wirtschaftlichkeitsrechnung für Investitionen im Hochbau" (Norm SIA 480);
+- j) das Merkblatt SIA 2060 "Infrastruktur für Elektrofahrzeuge in Gebäuden";
+- k) die Norm SN EN 13201 "Strassenbeleuchtung" der Schweizerischen Normenvereinigung (SNV) (Norm SN EN 13201).
+
+#### Art. 19
+
+**Gebäudeenergieausweis der Kantone (GEAK)**
+
+<sup>1</sup> Die Energieklassifizierung eines Gebäudes wird mithilfe des Gebäudeenergieausweises der Kantone GEAK ermittelt.
+
+<sup>2</sup> Der GEAK gilt für die Gebäudekategorien der Norm SIA 380/1, die im "Reglement für Produkte" des GEAK-Vereins definiert sind.
+
+<sup>3</sup> Der GEAK kann als Nachweis für Anforderungen nach dieser Verordnung dienen.
+
+#### Art. 20
+
+**Geltungsbereich der Mindestanforderungen für Bauten und Anlagen**
 
 <sup>1</sup> Die Anforderungen dieser Verordnung gelten bei:
 
 - a) Neubauten und Anlagen, welche beheizt, belüftet, gekühlt oder befeuchtet werden;
-- b) Umbauten und Umnutzungen von bestehenden Gebäuden und Anlagen, welche beheizt, belüftet, gekühlt oder befeuchtet werden, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind;
-- c) Neuinstallationen haustechnischer Anlagen zur Aufbereitung und Verteilung von Wärme, Kälte, Warmwasser und Raumluft, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind;
-- d) Erneuerung, Umbau oder Änderung technischer Anlagen, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind;
-- e) Beleuchtungsanlagen in Grossbauten.
+- b) Umbauten und Umnutzungen von bestehenden Gebäuden und Anlagen, welche beheizt, belüftet, gekühlt oder befeuchtet werden;
+- c) Neuinstallationen haustechnischer Anlagen zur Aufbereitung und Verteilung von Wärme, Kälte, Warmwasser und Raumluft;
+- d) Erneuerung, Umbau oder Änderung technischer Anlagen.
 
-<sup>2</sup> Die Realisierung von Anbauten und neubauartigen Umbauten, wie zum Beispiel Auskernungen, Räumung von internen Wänden und Böden, oder ähnliche Arbeiten, gelten als Neubauten und haben die Anforderungen für Neubauten zu erfüllen. Die vorliegende Bestimmung gilt nicht bei Bagatellfällen.
+<sup>2</sup> Die Anforderungen dieser Verordnung gelten auch für Arbeiten, die nach den baurechtlichen Bestimmungen nicht bewilligungspflichtig sind.
 
-<sup>3</sup> Die zuständige Behörde kann die Anforderungen in den Fällen von Absatz 1 Buchstaben b bis e reduzieren, wenn dadurch ein öffentliches Interesse besser geschützt werden kann.
+<sup>3</sup> Die Realisierung von Anbauten und neubauartigen Umbauten, wie zum Beispiel Auskernungen, Räumung von internen Wänden und Böden, oder ähnliche Arbeiten, gelten als Neubauten und haben die Anforderungen für Neubauten zu erfüllen. Die vorliegende Bestimmung gilt nicht bei Bagatellfällen.
 
-#### Art. 4
+### 4.1.1 Gebäudehülle
 
-**Begriffsdefinitionen**
-
-<sup>1</sup> Die Begriffsdefinitionen von Artikel 1 der Energieverordnung des Bundes vom 7. Dezember 1998 und jene von Ziffer 1 "Verständigung" der Norm SIA 380/1 "Thermische Energie im Hochbau" sind gültig, soweit sie in der vorliegenden Verordnung analog verwendet sind.
-
-<sup>2</sup> Des weiteren bedeuten in dieser Verordnung:
-
-- a) Baute/Gebäude: im Erdboden eingelassene oder darauf stehende, künstlich geschaffene, auf Dauer angelegte bauliche Einrichtung, die einen Raum zum Schutze von Menschen und Sachen gegen äussere, namentlich atmosphärische Einflüsse mehr oder weniger vollständig abschliesst. Darunter fallen auch Fahrnisbauten, sofern sie über einen längeren Zeitraum ortsfest verwendet werden;
-- b) Anlage: Künstlich geschaffene und auf Dauer angelegte Einrichtung, die in fester Beziehung zum Erdboden steht und keine Baute darstellt, wie bespielsweise: Rampen, Parkplätze, Sportplätze, Schiessplätze, Seilbahnen, usw.;
-- c) Ausstattungen und Ausrüstungen/Haustechnische Anlagen: Energierelevante Installationen, die im Zusammenhang mit einer Baute oder Anlage stehen, wie beispielsweise: Heizkessel, Lüftungsanlagen, usw.;
-- d) Von einem Umbau betroffen: ein Bauteil gilt als "von einem Umbau betroffen", wenn an ihm mehr als blosse Oberflächen-Auffrischungs- oder Reparaturarbeiten vorgenommen werden;
-- e) Von einer Änderung betroffen: eine haustechnische Anlage gilt als "von einer Änderung betroffen" wenn an ihr Arbeiten oder Einstellungen vorgenommen werden, welche über die Unterhalts- und Wartunsarbeiten oder Reparaturen gehen;
-- f) Von einer Umnutzung betroffen: ein Bauteil gilt als "von einer Umnutzung betroffen", wenn daran durch die Umnutzung die Temperaturdifferenz aufgrund der Standardnutzung verändert wird (SIA 380/1).
-
-#### Art. 5
-
-**Anrechnung von erneuerbarer Energie**
-
-<sup>1</sup> Im Sinne der vorliegenden Verordnung, kann die thermische oder elektrische Energie welche von erneuerbarer Quelle stammt, nur als erneuerbare Energie angerechnet werden, falls sie direkt auf dem betreffenden Gelände produziert wird, oder falls sie von einem Fernwärmenetz geliefert wird.
-
-#### Art. 6
-
-**Stand der Technik**
-
-<sup>1</sup> Die gemäss der vorliegenden Verordnung notwendigen energetischen und raumlufthygienischen Massnahmen sind nach dem Stand der Technik zu planen und auszuführen.
-
-<sup>2</sup> Soweit Gesetz und Verordnung nichts anderes bestimmen, gelten als Stand der Technik die Anforderungen und Rechenmethoden der geltenden Normen und Empfehlungen der Fachorganisationen und der Konferenz Kantonaler Energiedirektoren (EnDK) oder der Konferenz Kantonaler Energiefachstellen (EnFK).
-
-<sup>3</sup> Die Dienststelle erstellt eine Liste der wichtigsten Normen und Empfehlungen.
-
-<sup>4</sup> Im Falle einer Revision oder Anpassung der gültigen Normen und Empfehlungen durch die Fachorganisationen, kann die Dienststelle eine Übergangszeit bis zur Anwendung der neuen Bestimmungen festlegen.
-
-#### Art. 7
-
-**Ausnahmen**
-
-<sup>1</sup> Liegen ausserordentliche Verhältnisse vor und bedeutet die Einhaltung der Bestimmungen dieser Verordnung eine unverhältnismässige Härte, so kann die Dienststelle Ausnahmen von einzelnen Vorschriften gewähren, wenn dadurch keine öffentlichen Interessen verletzt werden.
-
-<sup>2</sup> Vorbehältlich ausdrücklicher anderweitiger Regelung besteht kein Anspruch auf Gewährung von Ausnahmen.
-
-<sup>3</sup> Die Behörde kann eine Ausnahmebewilligung an Bedingungen und Auflagen knüpfen. Die Ausnahmebewilligung kann befristet werden.
-
-<sup>4</sup> Das Gesuch um Erteilung einer Ausnahmebewilligung hat den Kriterien der Dienststelle zu entsprechen. Vom Gesuchsteller kann die Einreichung spezieller Nachweise verlangt werden, namentlich für Denkmalpflege, Bauphysik, usw.
-
-<sup>5</sup> Die wirtschaftlichen Aspekte werden insbesondere auf der Basis der Rentabilitätsrechnungen behandelt, welche die externen Kosten der Energie berücksichtigen. Ein Entscheid des Staatsrates legt regelmässig die Berechnungsmethoden und den Wert der externen Kosten fest.
-
-## 2 Gebäudehülle
-
-#### Art. 8
+#### Art. 21
 
 **Planung**
 
-<sup>1</sup> Innerhalb der architektonischen und städtebaulichen Grenzen werden die Gebäude so geplant, dass die Nutzung der passiven und aktiven Sonnenenergie begünstigt wird. Dies wird durch die Orientierung des Gebäudes, die Ver-teilung und der Anteil der verglasten Flächen, sowie durch die Wahl der Materialien realisiert.
+<sup>1</sup> Innerhalb der architektonischen und städtebaulichen Grenzen werden die Gebäude so geplant, dass die Nutzung der passiven und aktiven Sonnenenergie begünstigt wird. Dies wird durch die Orientierung des Gebäudes, die Verteilung und den Anteil der verglasten Flächen, sowie durch die Wahl der Materialien realisiert.
 
-<sup>2</sup> Um die Installation einer Klimaanlage möglichst zu vermeiden oder ihren Energiekonsum so klein wie möglich zu halten sind Räume soweit möglich, durch geeignete Massnahmen an der Gebäudehülle, vor übermässiger Erwärmung durch Sonneneinstrahlung zu schützen.
+<sup>2</sup> Die in der Norm SIA 180 geforderten Leistungen müssen eingehalten werden. Diese Leistungen gelten insbesondere für die Bereiche Komfort, Dichtheit der Gebäudehülle und Lüftungsmethoden.
 
-#### Art. 9
+<sup>3</sup> Um die Installation einer Kühlanlage möglichst zu vermeiden oder zumindest den Energieverbrauch so gering wie möglich zu halten, sind die Gebäude nach den Anforderungen der Normen SIA 180 und SIA 382/1 zu konzipieren, wobei insbesondere die Räume durch geeignete Massnahmen an der Gebäudehülle vor übermässiger Erwärmung durch die Sonnenstrahlung geschützt werden müssen.
+
+#### Art. 22
 
 **Anforderungen und Nachweis winterlicher Wärmeschutz**
 
-<sup>1</sup> Die Anforderungen an den Wärmeschutz von Gebäuden richten sich, ausser bei Kühlräumen sowie gewerblichen und landwirtschaftlichen Gewächshäusern und Traglufthallen, nach der Norm SIA 380/1.
+<sup>1</sup> Die Anforderungen an den Wärmeschutz von Gebäuden richten sich nach der Norm SIA 380/1, unter Vorbehalt der in den Artikeln 24, 25, 26, 27, 28 und 29 beschriebenen Anforderungen.
 
-<sup>2</sup> Der Nachweis anhand der Systemanforderungen stützt sich auf die gegebenen Wetterdaten von:
+<sup>2</sup> In Bezug auf die Einhaltung der Einzelanforderungen für die Wärmedämmung jedes einzelnen Elements der Gebäudehülle von Neubauten und neue Bauteile bei Umbauten oder Nutzungsänderungen gelten die folgenden Grenzwerte sowie die in den Absätzen 3 und 4 genannten Grenzwerte:
 
-- a) Sion für ein Gebäude auf einer Höhe unter 1'000 Meter;
-- b) Montana oder Zermatt (gemäss der angemesseren Station) für eine Höhe zwischen 1'000 und 1'800 Meter;
-- c) Grosser St. Bernhard für eine Höhe über 1'800 Meter.
+Grenzwerte U<sub>li</sub> in W/(m²·K) mit Wärmebrückennachweis
 
-<sup>3</sup> In besonderen Fällen und gestützt auf einen technischen Nachweis können sich die Forderungen und die Berechnungen des Heizwärmebedarfs auf andere angemessenere Klimadaten beziehen.
+<table>
+<tr><th>Bauteil</th><th>Bauteil gegen Aussenklima oder weniger als 2 m im Erdreich</th><th>Bauteil gegen unbeheizte Räume oder mehr als 2 m im Erdreich</th></tr>
+<tr><td>Opake Bauteile (Dach, Decke, Wand, Boden)</td><td>0,17</td><td>0,25</td></tr>
+<tr><td>Fenster, Fenstertüren</td><td>1,0</td><td>1,3</td></tr>
+<tr><td>Türen</td><td>1,2</td><td>1,5</td></tr>
+<tr><td>Tore (gemäss Norm SIA 343)</td><td>1,7</td><td>2,0</td></tr>
+<tr><td>Storenkasten</td><td>0,5</td><td>0,5</td></tr>
+</table>
 
-<sup>4</sup> Der Heizwärmebedarf wird mit Hilfe einer anerkannten Software berechnet.
+<sup>3</sup> Längenbezogener Wärmedurchgangskoeffizient Ψ:
 
-<sup>5</sup> Der Systemnachweis für Umbauten und Umnutzungen hat alle Räume zu umfassen, die Bauteile aufweisen, die vom Umbau oder von der Umnutzung betroffen werden. Die vom Umbau oder der Umnutzung nicht betroffenen Räume können ebenfalls in den Systemnachweis einbezogen werden. Der Heizwärmebedarf darf den geforderten Grenzwert von einer früher erteilten Baubewilligung, direkt oder indirekt über Einzelanforderungen, nicht überschreiten.
+- a) Typ 1: Auskragungen in Form von Platten oder Riegeln — 0,30
+- b) Typ 2: Unterbrechung der Wärmedämmschicht durch Wände, Böden oder Decken — 0,20
+- c) Typ 3: Unterbrechung der Wärmedämmschicht an horizontalen oder vertikalen Gebäudekanten — 0,20
+- d) Typ 5: Fensteranschlag — 0,15
 
-#### Art. 10
+<sup>4</sup> Punktbezogener Wärmedurchgangkoeffizient Χ:
+
+- a) Punktuelle Durchdringung der Wärmedämmung — 0,30
+
+<sup>5</sup> In Bezug auf die Einhaltung der Einzelanforderungen für die Wärmedämmung jedes einzelnen Elements der Gebäudehülle, die für alle Bauteile von einem Umbau oder einer Nutzungsänderung betroffenen sind, gelten folgende Grenzwerte:
+
+Grenzwerte U<sub>li</sub> in W/(m²·K):
+
+<table>
+<tr><th>Bauteil</th><th>Bauteil gegen Aussenklima oder weniger als 2 m im Erdreich</th><th>Bauteil gegen unbeheizte Räume oder mehr als 2 m im Erdreich</th></tr>
+<tr><td>Opake Bauteile (Dach, Decke,Wand, Boden)</td><td>0,25</td><td>0,28</td></tr>
+<tr><td>Fenster, Fenstertüren</td><td>1,0</td><td>1,3</td></tr>
+<tr><td>Türen</td><td>1,2</td><td>1,5</td></tr>
+<tr><td>Tore (gemäss Norm SIA 343)</td><td>1,7</td><td>2,0</td></tr>
+<tr><td>Storenkasten</td><td>0,5</td><td>0,5</td></tr>
+</table>
+
+<sup>6</sup> Was die Einhaltung der Gesamtleistung in Form der Berechnung des Heizwärmebedarfs und der spezifischen Heizleistung von Neubauten betrifft, so sind die Grenzwerte mit folgenden Werten zu berechnen:
+
+<table>
+<tr><th>Gebäudekategorien</th><th>Name</th><th>Q<sub>H,li0</sub></th><th>ΔQ<sub>H,li</sub></th><th>P<sub>H,li</sub></th></tr>
+<tr><td>I</td><td>Wohnen MFH</td><td>13</td><td>15</td><td>20</td></tr>
+<tr><td>II</td><td>Wohnen EFH</td><td>16</td><td>15</td><td>25</td></tr>
+<tr><td>III</td><td>Verwaltung</td><td>13</td><td>15</td><td>25</td></tr>
+<tr><td>IV</td><td>Schulen</td><td>14</td><td>15</td><td>20</td></tr>
+<tr><td>V</td><td>Verkauf</td><td>7</td><td>14</td><td>-</td></tr>
+<tr><td>VI</td><td>Restaurants</td><td>16</td><td>15</td><td>-</td></tr>
+<tr><td>VII</td><td>Versammlungslokale</td><td>18</td><td>15</td><td>-</td></tr>
+<tr><td>VII</td><td>Spitäler</td><td>18</td><td>17</td><td>-</td></tr>
+<tr><td>IX</td><td>Industrie</td><td>10</td><td>14</td><td>-</td></tr>
+<tr><td>X</td><td>Lager</td><td>14</td><td>14</td><td>-</td></tr>
+<tr><td>XI</td><td>Sportbauten</td><td>16</td><td>14</td><td>-</td></tr>
+<tr><td>XII</td><td>Hallenbäder</td><td>15</td><td>18</td><td>-</td></tr>
+</table>
+
+<sup>7</sup> Der Grenzwert für Umbauten oder Umnutzungen Q<sub>H,li,re</sub> für alle Gebäudekategorien entspricht 1,5 Q<sub>H,li</sub> kWh/m².
+
+<sup>8</sup> Für zu errichtende oder als zu errichten geltende Gebäude gelten zusätzlich die Anforderungen von Kapitel 4.2.
+
+#### Art. 23
+
+**Wetterdaten**
+
+<sup>1</sup> Der Nachweis anhand der Systemanforderungen erfolgt grundsätzlich mit den Wetterdaten der Station Sitten für ein Gebäude auf einer Höhe von bis zu 1’000 m und mit den Wetterdaten von Montana für ein Gebäude in einer höheren Höhe.
+
+<sup>2</sup> In besonderen Fällen und gestützt auf einen technischen Nachweis können sich die Forderungen und die Berechnungen des Heizwärmebedarfs auf andere angemessenere Klimadaten beziehen.
+
+#### Art. 24
+
+**Grenzwerte**
+
+<sup>1</sup> Für die Einzelanforderungen ist keine Klimakorrektur der Grenzwerte erforderlich.
+
+<sup>2</sup> Für die Gesamteffizienz sind die Grenzwerte für den Heizwärmebedarf pro Jahr und die spezifische Heizleistung für die Beheizung von von Neubauten, Umbauten oder Umnutzungen, die bei Jahresdurchschnittstemperatur von 9,4°C und Auslegungstemperatur von -8°C gelten, mit den in Artikel 22 Absatz 6 genannten Werten zu berechnen.
+
+<sup>3</sup> Diese Grenzwerte werden um 6 Prozent erhöht bzw. gesenkt, wenn die Jahresdurchschnittstemperatur um 1 Kelvin niedriger bzw. höher ist.
+
+<sup>4</sup> Im Falle eines Systemnachweises im Sinne der Norm SIA 380/1 darf bei neu zu errichtenden Gebäuden die spezifische Heizleistung (P<sub>H</sub>) bei Schulgebäuden und Mehrfamilienhäusern 20 W pro m² EBF und bei Einfamilienhäusern und Verwaltungsgebäuden 25 W pro m² EBF nicht überschreiten.
+
+<sup>5</sup> Der Grenzwert für die spezifische Heizleistung (P<sub>H,li</sub>) wird unter Berücksichtigung der Abweichung zwischen der tatsächlichen Auslegungstemperatur und der Temperatur von - 8°C angepasst.
+
+#### Art. 25
+
+**Umbauten, Umnutzungen und umfassende Renovationen**
+
+<sup>1</sup> Der Systemnachweis für Umbauten und Umnutzungen hat alle Räume zu umfassen, die Bauteile aufweisen, die vom Umbau oder von der Umnutzung oder von umfassenden Renovationen betroffen werden.
+
+<sup>2</sup> Die vom Umbau oder der Umnutzung nicht betroffenen Räume können ebenfalls in den Systemnachweis einbezogen werden.
+
+<sup>3</sup> Der Heizwärmebedarf darf den in früher erteilten Baubewilligungen, direkt oder indirekt über Einzelanforderungen, geforderten Grenzwert nicht überschreiten.
+
+#### Art. 26
+
+**Erleichterungen und Befreiung für den winterlichen Wärmeschutz**
+
+<sup>1</sup> Eine Erleichterung der Anforderungen von Artikel 22 an den winterlichen Wärmeschutz ist möglich für:
+
+- a) Gebäude, die auf weniger als 10°C aktiv beheizt werden, ausgenommen Kühlräume;
+- b) Kühlräume, die nicht auf unter 8°C aktiv gekühlt werden;
+- c) Gebäude, deren Baubewilligung auf maximal 3 Jahre befristet sind (provisorische Gebäude).
+
+<sup>2</sup> Umnutzungen, wenn damit keine Erhöhung oder Absenkung der Raumlufttemperaturen verbunden ist und somit keine höhere Temperaturdifferenz bei der thermischen Gebäudehülle entsteht, sind von den Anforderungen an den winterlichen Wärmeschutz der Gebäudehülle gemäss Artikel 22 befreit.
+
+#### Art. 27
 
 **Anforderungen und Nachweis sommerlicher Wärmeschutz**
 
-<sup>1</sup> Der sommerliche Wärmeschutz von Gebäuden ist im Sinne der Norm SIA 382/1 nachzuweisen.
+<sup>1</sup> Der sommerliche Wärmeschutz von Gebäuden ist nachzuweisen.
 
 <sup>2</sup> Bei gekühlten Räumen oder bei Räumen, bei welchen eine Kühlung notwendig oder erwünscht ist, sind die Anforderungen an den g-Wert, die Steuerung und die Windfestigkeit des Sonnenschutzes nach dem Stand der Technik einzuhalten.
 
 <sup>3</sup> Bei den anderen Räumen sind die Anforderungen an den g-Wert des Sonnenschutzes nach dem Stand der Technik einzuhalten.
 
-#### Art. 11
+#### Art. 28
+
+**Erleichterungen für den sommerlichen Wärmeschutz**
+
+<sup>1</sup> Eine Erleichterung der Anforderungen von Artikel 27 an den sommerlichen Wärmeschutz ist möglich für:
+
+- a) Gebäude, deren Baugenehmigung auf höchstens 3 Jahre befristet ist (provisorische Bauten);
+- b) Umnutzungen, sofern keine Räume von Artikel 25 betroffen sind;
+- c) Projekte, bei denen auf der Grundlage eines anerkannten, fachgerechten Berechnungsverfahrens oder einer dynamischen Simulation nachgewiesen wird, dass es nicht zu einem erhöhten Energieverbrauch kommt und dass der Komfort gewährleistet ist;
+- d) Gebäude der Kategorie XII und Räume, die nicht für den längeren Aufenthalt von Personen (weniger als eine Stunde pro Tag) genutzt werden;
+- e) Gebäudeteile, die aus betrieblichen Gründen nicht angepasst werden können.
+
+#### Art. 29
+
+**Saisonale provisorische Bauten**
+
+<sup>1</sup> Für Bauten, die jedes Jahr während einer Saisonperiode errichtet oder genutzt werden, kann eine Ausnahmebewilligung erteilt werden.
+
+#### Art. 30
 
 **Kühlräume**
 
 <sup>1</sup> Bei Kühlräumen, die auf weniger als 8°C gekühlt werden, darf der mittlere Wärmefluss durch die umschliessenden Bauteile pro Temperaturzone 5W/m² nicht überschreiten.
 
-<sup>2</sup> Für die entsprechende Berechnung ist von der Auslegungstemperatur des Kühlraums einerseits und den folgenden Umgebungstemperaturen andererseits auszugehen:
+<sup>2</sup> Die entsprechende Berechnung ist einerseits auf der geplanten Solltemperatur für den Raum und andererseits auf folgenden Umgebungstemperaturen auszulegen:
 
-- a) in beheizten Räumen — Auslegungstemperatur für die Heizung
-- b) gegen Aussenklima — 20°C
-- c) gegen Erdreich oder unbeheizte Räume — 10°C
+- a) in beheizten Räumen Auslegungstemperatur für die Heizung;
+- b) gegen Aussenklima: 20°C;
+- c) gegen Erdreich oder unbeheizte Räume: 10°C.
 
-<sup>3</sup> Für Kühlräume mit weniger als 30m³ Nutzvolumen sind die Anforderungen auch erfüllt, wenn die umschliessenden Bauteile einen mittleren U-Wert von U kleiner oder gleich 0.15W/m²K einhalten.
+<sup>3</sup> Für Kühlräume mit weniger als 30 m³ Nutzvolumen sind die Anforderungen auch erfüllt, wenn die umschliessenden Bauteile einen mittleren U-Wert von U kleiner oder gleich 0,15 W/(m² K) einhalten.
 
-#### Art. 12
+#### Art. 31
 
 **Gewächshäuser und beheizte Traglufthallen**
 
-<sup>1</sup> Gewerbliche und landwirtschaftliche Gewächshäuser, in denen für die Aufzucht, Produktion oder Vermarktung von Pflanzen vorgegebene Wachstumsbedingungen aufrecht erhalten werden müssen, gelten die Anforderungen gemäss der Empfehlung "Beheizte Gewächshäuser" der Konferenz der Kantonalen Energiefachstellen (EnFK).
+<sup>1</sup> Für Gewächshäuser, in denen zur Aufzucht, Produktion oder Vermarktung von Pflanzen vorgegebene Wachstumsbedingungen aufrechterhalten werden müssen, gelten die Anforderungen gemäss Empfehlung EnFK "Beheizte Gewächshäuser".
 
-<sup>2</sup> Für beheizte Traglufthallen gelten die Anforderungen gemäss Empfehlung "Beheizte Traglufthallen" der EnFK.
+<sup>2</sup> Für beheizte Traglufthallen gelten die Anforderungen gemäss Empfehlung EnFK "Beheizte Traglufthallen".
 
-#### Art. 13
+### 4.1.2 Haustechnische Anlagen
 
-**Befreiung und Erleichterungen**
-
-<sup>1</sup> Erleichterungen von den Anforderungen an den winterlichen Wärmeschutz der Gebäudehülle gemäss Artikel 9 sind möglich bei:
-
-- a) Gebäuden, die auf weniger als 10°C aktiv beheizt werden, ausgenommen Kühlräume;
-- b) Kühlräumen, die nicht auf unter 8°C aktiv gekühlt werden;
-- c) Gebäuden, deren Baubewilligung auf maximal drei Jahre befristet sind (provisorische Gebäude);
-- d) regelmässig für die Heizperiode errichteten, provisorischen Bauten.
-
-<sup>2</sup> Umnutzungen, wenn damit keine Erhöhung oder Absenkung der Raumlufttemperaturen verbunden ist und somit keine höhere Temperaturdifferenz bei der thermischen Gebäudehülle entsteht, sind von den Anforderungen an den winterlichen Wärmeschutz der Gebäudehülle gemäss Artikel 9 befreit.
-
-<sup>3</sup> Erleichterungen von den Anforderungen an den sommerlichen Wärmeschutz der Gebäudehülle gemäss Artikel 10 sind möglich bei:
-
-- a) Gebäuden, deren Baubewilligung auf maximal drei Jahre befristet sind (provisorische Gebäude);
-- b) regelmässig für die Sommersaison errichteten, provisorischen Bauten.
-
-<sup>4</sup> Von den Anforderungen an den sommerlichen Wärmeschutz der Gebäudehülle gemäss Artikel 10 sind befreit:
-
-- a) Umnutzungen, wenn damit keine Räume neu unter Artikel 10 fallen;
-- b) Vorhaben, für die mit einem anerkannten Rechenverfahren nachgewiesen wird, dass kein erhöhter Energieverbrauch auftreten wird.
-
-## 3 Höchstanteil an nicht erneuerbaren Energien bei Neubauten
-
-#### Art. 14
-
-**Höchstanteil an nicht erneuerbaren Energien**
-
-<sup>1</sup> Neubauten und Erweiterungen von bestehenden Gebäuden (Aufstockungen, Anbauten, usw.) müssen so gebaut und ausgerüstet werden, dass höchstens 80 Prozent des zulässigen Wärmebedarfs für Heizung und Warmwasser mit nicht erneuerbaren Energien gedeckt werden.
-
-<sup>2</sup> Von den Anforderungen gemäss Absatz 1 befreit sind Erweiterungen von bestehenden Gebäuden, wenn die neu geschaffene Energiebezugsfläche weniger als 50 Quadratmeter beträgt, oder maximal 20 Prozent der Energiebezugsfläche des bestehenden Gebäudeteiles und nicht mehr als 1'000 Quadratmeter.
-
-#### Art. 15
-
-**Berechnungsregeln**
-
-<sup>1</sup> Der zulässige Wärmebedarf für Neubauten ergibt sich aus dem Grenzwert für den Heizwärmebedarf (gemäss Art. 9) und dem Wärmebedarf für Warmwasser entsprechend der Standardnutzung gemäss SIA Norm 380/1.
-
-<sup>2</sup> Bei Gebäuden mit mechanischen Lüftungsanlagen kann bei der Berechnung des Heizwärmebedarfs der effektive Energiebedarf der Lüftung inkl. Energiebedarf für Luftförderung eingesetzt werden. Der hygienisch notwendige Aussenluftvolumenstrom ist dabei zu gewährleisten.
-
-<sup>3</sup> Elektrizität die zur Deckung des Heizwärmebedarfs und zur Erzeugung von Warmwasser, sowie zur Luftförderung der Lüftung genutzt wird, wird mit dem Faktor 2 gerechnet.
-
-#### Art. 16
-
-**Nachweis mittels Standardlösung**
-
-<sup>1</sup> Die Anforderung gemäss Artikel 14 gilt als erbracht, wenn eine der folgenden Standardlösungen fachgerecht ausgeführt wird:
-
-- a) verbesserte Wärmedämmung:
-  - 1\. U-Wert opake Bauteile gegen aussen — &lt; 0.12W/m²K
-  - 2\. und U-Wert Fenster — &lt; 1.0W/m²K
-- b) verbesserte Wärmedämmung und Komfortlüftung:
-  - 1\. U-Wert opake Bauteile gegen aussen — &lt; 0.15W/m²K
-  - 2\. und U-Wert Fenster — &lt; 1.0W/m²K
-  - 3\. und Komfortlüftung mit Zuluft, Abluft und Wärmerückgewinnung;
-- c) verbesserte Wärmedämmung und Solaranlage:
-  - 1\. U-Wert opake Bauteile gegen aussen — &lt; 0.15W/m²K
-  - 2\. und U-Wert Fenster — &lt; 1.0W/m²K
-  - 3\. und Sonnenkollektoren für Wassererwärmung mindestens 2 Prozent der EBF. Als Mass der Sonnenkollektorfläche gilt die Fläche von verglasten, selektiv beschichteten Absorbern;
-- d) Holzfeuerung und Solaranlage:
-  - 1\. Holzfeuerung für Heizung,
-  - 2\. und Sonnenkollektoren für Wassererwärmung mindestens 2 Prozent der EBF. Als Mass der Sonnenkollektorfläche gilt die Fläche von verglasten, selektiv beschichteten Absorbern;
-- e) automatische Holzfeuerung: Automatische Holzfeuerung für Heizung und Wassererwärmung ganzjährig (z.B. Pelletsheizung);
-- f) Wärmepumpe mit Erdsonde oder Wasser: Elektrisch angetriebene Sole-Wasser-Wärmepumpe mit Erdwärmesonde oder Wasser-Wasser-Wärmepumpe mit Grund- oder Oberflächenwasser als Wärmequelle, für Heizung und Wassererwärmung ganzjährig;
-- g) Wärmepumpe mit Aussenluft: Elektrisch angetriebene Aussenluft-Wasser-Wärmepumpe für Heizung und Wassererwärmung ganzjährig. Die Luft-Wasser-Wärmepumpe ist so auszulegen, dass der Wärmeleistungsbedarf für das ganze Gebäude und für die Wassererwärmung ohne zusätzliche elektrische Nachwärmung erbracht werden kann. Maximale Vorlauftemperatur von 35°C für die Heizung;
-- h) Komfortlüftung und Solaranlage:
-  - 1\. Komfortlüftung mit Zuluft, Abluft und Wärmerückgewinnung,
-  - 2\. und Sonnenkollektoren für Heizung und Wassererwärmung mindestens fünf Prozent der EBF. Als Mass der Sonnenkollektorfläche gilt die Fläche von verglasten, selektiv beschichteten Absorbern;
-- i) Solaranlage: Sonnenkollektoren für Heizung und Wassererwärmung mindestens sieben Prozent der EBF. Als Mass der Sonnenkollektorfläche gilt die Fläche von verglasten, selektiv beschichteten Absorbern;
-- j) Abwärme: Nutzung von Abwärme z.B. Fernwärme aus KVA, warme Fernwärme aus ARA oder Abwärme aus Industrie; für Heizung und Wassererwärmung ganzjährig;
-- k) Wärmekraftkopplung: Wärmekraftkopplungsanlage mit einem elektrischen Wirkungsgrad von mindestens 30 Prozent für mindestens 70 Prozent des Wärmebedarfs für Heizung und Warmwasser.
-
-## 4 Haustechnische Anlagen
-
-#### Art. 17
+#### Art. 32
 
 **Dimensionierung und Betrieb**
 
 <sup>1</sup> Die Dimensionierung der Anlagen muss dem Stand der Technik entsprechen.
 
-<sup>2</sup> Wärme- und Kälteerzeuger mit einer Leistung grösser als 20kW sowie alle Ventilations- und Klimatisationsanlagen mit einer Förderleistung von mehr als 10kW, werden mit Messgeräten für den Energieverbrauch ausgestattet.
+<sup>2</sup> Wenn technische Anlagen ersetzt werden, muss jedes neue Gerät unter Berücksichtigung der zuvor gesammelten Betriebs- und Verbrauchsdaten dimensioniert werden.
 
-<sup>3</sup> Beim Ersatz von technischen Anlagen muss jede neue Anlage unter Berücksichtigung der Betriebsdaten und des vorgängig bestimmten Verbrauchs dimensioniert werden.
+<sup>3</sup> Bei der Installation eines Wärme- oder Kälteerzeugers (Heizkessel, Kühlaggregat, Wärmepumpe, thermische Solaranlage, usw.) muss dieser mit Energiezählern ausgestattet sein, die eine Kontrolle der Gesamtenergieeffizienz (Nutzanteil, JAZ, usw.) ermöglichen und es dem Betreiber erlauben, eine Energiebuchhaltung auf der Grundlage einer periodischen Ablesung zu erstellen.
 
-<sup>4</sup> Die Anlagen müssen nach den fachkundigen Regeln in Betrieb gesetzt werden und ein entsprechendes Betriebshandbuch ist auszuhändigen.
+<sup>4</sup> Bei der Installation einer Wasser-Wasser-Wärmepumpe mit einer thermischen Leistung von 100 kW oder mehr muss diese zusätzlich zu den in Absatz 3 vorgesehenen Ausrüstungen mit Vorrichtungen ausgestattet sein, die es ermöglichen, die der Umwelt (Grundwasser, See, usw.) entzogene Energie zu quantifizieren. Der Wasserdurchfluss und die Temperatur des entnommenen Wassers sowie die Temperatur des abgeleiteten Wassers müssen gemessen werden.
 
-<sup>5</sup> Über die Anlage erfolgt eine Schlussabnahme. Bei einer Kontrolle kann die zuständige Behörde das zu diesem Zeitpunkt erstellte Protokoll verlangen.
+<sup>5</sup> Bei der Installation einer zentralen mechanischen Lüftungsanlage muss diese mit einem Elektrizitätszähler ausgestattet sein, die es dem Betreiber ermöglicht, eine Energiebuchhaltung auf der Grundlage einer periodischen Ablesung zu erstellen.
 
-#### Art. 18
+<sup>6</sup> Bei den in den Absätzen 3, 4 und 5 vorgesehenen Energiezählern handelt es sich um nicht geeichte Zähler.
+
+<sup>7</sup> Die Anlagen müssen nach den Regeln der Technik in Betrieb genommen und eingestellt werden und mit einer anlagenspezifischen Betriebsdokumentation ausgestattet sein, die dem Bauherrn bei der Endabnahme übergeben wird.
+
+<sup>8</sup> Über die Anlage erfolgt eine Schlussabnahme. Bei einer Kontrolle kann die zuständige Behörde das zu diesem Zeitpunkt erstellte Protokoll verlangen.
+
+#### Art. 33
 
 **Wärmeerzeugung**
 
-<sup>1</sup> Die Anforderungen bezüglich der Abgasverluste werden durch die Bestimmungen der Luftreinhalteverordnung (LRV) festgelegt.
+<sup>1</sup> Die Anforderungen bezüglich der Abgasverluste werden durch die Bestimmungen der eidgenössischen Luftreinhalte-Verordnung (LRV) festgelegt.
 
-<sup>2</sup> Mit fossilen Brennstoffen betriebene Heizkessel bei Neubauten mit einer Absicherungstemperatur von weniger als 110°C müssen die Kondensationswärme ausnützen können.
+<sup>2</sup> Bei der Einrichtung neuer Heizkessel, die mit fossilen Brennstoffen betrieben werden, wird die Kondensationswärme im Rahmen der technischen Möglichkeiten genutzt.
 
-<sup>3</sup> Die gleiche Anforderung gilt beim Ersatz einer Wärmeerzeugungsanlage, soweit es technisch möglich und der Aufwand verhältnismässig ist.
-
-#### Art. 19
+#### Art. 34
 
 **Ortsfeste elektrische Widerstandsheizungen**
 
-<sup>1</sup> Die Neuinstallation ortsfester elektrischer Widerstandsheizungen zur Gebäudeheizung wird nur bewilligt, falls es sich um eine Notheizung handelt welche zur Ergänzung der Leistung einer Hauptheizung installiert wird. Die Hauptheizung muss dabei gemäss aktuellen SIA Normen korrekt dimensioniert sein zur Beheizung des gesamten Gebäudes. Namentlich gilt dies für folgende Fälle:
+<sup>1</sup> Die Neuinstallation ortsfester elektrischer Widerstandsheizungen zur Gebäudeheizung, unabhängig davon, ob es sich um Strahlungsheizungen handelt oder nicht, wird nur bewilligt, falls es sich um eine Notheizung handelt welche zur Ergänzung der Leistung einer Hauptheizung installiert wird. Die Hauptheizung muss dabei gemäss aktuellen Normen SIA korrekt dimensioniert sein zur Beheizung des gesamten Gebäudes. Namentlich gilt dies für folgende Fälle:
 
 - a) bei Wärmepumpen, insbesondere für Aussentemperaturen unter der Auslegetemperatur;
 - b) bei handbeschickten Holzheizungen, um befristete Abwesenheiten der Bewohner zu berücksichtigen, deren installierte elektrische Leistung nicht grösser als 50 Prozent des Heizleistungsbedarfs bei Auslegetemperatur ist;
-- c) bei bestimmten Räumen, für deren Nutzung ausserhalb der Heizperiode andernfalls die Inbetriebnahme des Hauptheizsystems nötig wäre (z.B. Therapiezimmer, Badezimmer);
+- c) bei bestimmten Räumen, für deren Nutzung ausserhalb der Heizperiode andernfalls die Inbetriebnahme des Hauptheizsystems nötig wäre (z. B. Therapiezimmer, Badezimmer);
 - d) bei Installationen welche an ein Nah-/Fernwärmenetz angeschlossen sind welches ausserhalb der Heizperiode abgeschaltet wird;
 - e) bei Installationen für die Bauaustrocknung.
 
-<sup>2</sup> Die Installation ortsfester elektrischer Widerstandsheizungen als Zusatzheizung wird nicht bewilligt. Eine Heizung gilt als Zusatzheizung, wenn sie als Ergänzung einer zu klein dimensionierten Hauptheizung (gemäss aktuellen SIA Normen) eingesetzt wird, welche bei der Auslegungstemperatur nicht den ganzen Leistungsbedarf decken kann.
+<sup>2</sup> Der Einbau einer fest installierten elektrischen Widerstandsheizung als Zusatzheizung ist nicht zulässig. Als Zusatzheizung gilt jede Anlage, die dazu dient, eine unterdimensionierte Hauptheizung (gemäss der geltenden Norm SIA) zu ergänzen, um den gesamten Leistungsbedarf bei der Auslegungstemperatur zu decken.
 
-<sup>3</sup> Der Ersatz von ortsfesten elektrischen Widerstandsheizungen mit Wasserverteilsystem durch eine ortsfeste elektrische Widerstandheizung wird nicht bewilligt.
-
-<sup>4</sup> Der Ersatz von defekten ortsfesten elektrischen Widerstandsheizungen wird nur bewilligt, falls das Gebäude kein Wasserverteilsystem zur Heizung besitzt.
-
-<sup>5</sup> Die Absätze 1 bis 4 gelten nicht für:
+<sup>3</sup> Die Absätze 1 und 2 gelten nicht für:
 
 - a) elektrische Systeme, die lediglich der Komfortsteigerung in Badezimmern dienen;
 - b) Begleitheizungen von Warmwasserverteilleitungen;
 - c) elektrische Widerstandsheizungen für gewerbliche und industrielle Prozesse;
-- d) elektrische Aussenheizungen zur Frostschutzsicherung.
+- d) elektrische Aussenheizungen zur Frostschutzsicherung, auf maximal +5°C eingestellt, wenn keine anderen Betriebs- oder Sicherheitsmassnahmen möglich sind (z. B. Rinnen, Pumpstationen in den Bergen usw.).
 
-#### Art. 20
+#### Art. 35
 
 **Wassererwärmer und Wärmespeicher**
 
-<sup>1</sup> Wassererwärmer sowie Warmwasser- und Wärmespeicher, für die nach Bundesrecht keine energetischen Anforderungen bestehen, müssen bezüglich allseitiger Wärmedämmung im Minimum die Dämmstärken gemäss Anhang 1 erreichen.
+<sup>1</sup> Wassererwärmer sowie Warmwasser- und Wärmespeicher, für die nach Bundesrecht keine energetischen Anforderungen bestehen, müssen bezüglich allseitiger Wärmedämmung im Minimum die folgenden Dämmstärken erreichen:
 
-<sup>2</sup> Wassererwärmer sind für eine Betriebstemperatur von max. 60°C auszulegen. Ausgenommen werden können Wassererwärmer, deren Temperatur permanent aus betrieblichen oder aus hygienischen Gründen höher sein muss (z.B. um die Vermehrung von Legionellen-Bakterien zu verhindern).
+<table>
+<tr><th>Speicherinhalt</th><th>Dämmstärke bei λ &gt; 0,03 W/m·K bis λ ≤ 0,05 W/m·K</th><th>Dämmstärke bei λ &gt; 0,03 W/m·K</th></tr>
+<tr><td>bis 400 Liter</td><td>110 mm</td><td>90 mm</td></tr>
+<tr><td>von 401 bis 2'000 Liter</td><td>130 mm</td><td>100 mm</td></tr>
+<tr><td>grösser als 2'000 Liter</td><td>160 mm</td><td>120 mm</td></tr>
+</table>
+
+<sup>2</sup> Wassererwärmer sind für eine Betriebstemperatur von max. 60°C auszulegen. Ausgenommen werden können Wassererwärmer, deren Temperatur permanent aus betrieblichen oder aus hygienischen Gründen höher sein muss (z. B. um die Vermehrung von Legionellen-Bakterien zu verhindern).
 
 <sup>3</sup> Der Neubau einer Direkt-Elektroheizung zur Erzeugung von Brauchwarmwasser ist in Wohnbauten nur erlaubt, wenn:
 
-- a) das Brauchwarmwasser während der Heizperiode mit dem genutzten Wärmeerzeuger für die Raumheizung erwärmt oder vorgewärmt wird, oder falls
-- b) das Brauchwarmwasser mehrheitlich mittels erneuerbarer Energie oder nicht anders nutzbarer Abwärme erwärmt wird.
+- a) während der Heizperiode das Warmwasser mit dem zu Heizzwecken betriebenen Wärmeerzeuger erwärmt oder vorgewärmt wird, oder wenn
+- b) das Warmwasser zu mindestens 50 Prozent mit erneuerbaren Energien oder anderweitig nicht nutzbarer Abwärme erwärmt wird.
 
-<sup>4</sup> Die Leistung einer elektrischen Widerstandsheizung welche als Zusatzheizung zur Erzeugung von Brauchwarmwasser oder als Notheizung im Falle einer Panne des Hauptwärmeerzeugers vorgesehen ist, wird limitiert damit nur der Standard definiert durch die Norm SIA 385/3 "Warmwasserversorgungen für Trinkwasser in Gebäuden" gewährleistet wird.
+<sup>4</sup> Die Leistung einer elektrischen Widerstandsheizung welche als Zusatzheizung zur Erzeugung von Brauchwarmwasser oder als Notheizung im Falle einer Panne des Hauptwärmeerzeugers vorgesehen ist, wird so begrenzt, dass nur ein minimaler Komfort gewährleistet ist.
 
-#### Art. 21
+#### Art. 36
 
 **Wärmeverteilung und Abgabe**
 
 <sup>1</sup> Die Vorlauftemperaturen für neue oder ersetzte Wärmeabgabesysteme dürfen bei der massgebenden Auslegetemperatur höchstens 50°C betragen. Für Bodenheizungen und im generellen für Flächenheizungen (Decken, Wände, usw.) gilt eine Limite von 35°C. Ausgenommen sind Hallenheizungen mittels Bandstrahler sowie Heizungssysteme für Gewächshäuser und Ähnliches, sofern dieses nachgewiesenermassen eine höhere Vorlauftemperatur benötigt.
 
-<sup>2</sup> Folgende neue oder im Rahmen eines Umbaus neu erstellte Installationen inklusive Armaturen und Pumpen sind durchgehend mindestens mit den Dämmstärken gemäss Anhang 2 gegen Wärmeverluste zu dämmen:
+<sup>2</sup> Neue Anlagen und Anlagen, die bei Umbauten ersetzt werden, müssen nach den folgenden Anforderungen gegen Wärmeverluste isoliert sein:
 
-- a) Verteilleitungen der Heizung in unbeheizten Räumen und im Freien;
-- b) Warmwasserleitungen in unbeheizten Räumen und im Freien, ausgenommen Stichleitungen ohne Begleitheizungen zu einzelnen Zapfstellen;
-- c) Warmwasserleitungen von Zirkulationssystemen oder Warmwasserleitungen mit Begleitheizungen in beheizten Räumen;
-- d) Warmwasserleitungen vom Speicher bis zum Verteiler (inkl. Verteiler).
+<table>
+<tr><th>Rohrnennweite [DN]</th><th>Rohrnennweite [Zoll]</th><th>Dämmstärke bei λ &gt; 0,03 W/m·K bis λ ≤ 0,05 W/m·K</th><th>Dämmstärke bei λ ≤ 0,03 W/m K</th></tr>
+<tr><td>10-15</td><td>3/8"</td><td>40 mm</td><td>30 mm</td></tr>
+<tr><td>20-32</td><td>¾" - 1¼"</td><td>50 mm</td><td>40 mm</td></tr>
+<tr><td>40-50</td><td>1½" - 2"</td><td>60 mm</td><td>50 mm</td></tr>
+<tr><td>65-80</td><td>2½"-3"</td><td>80 mm</td><td>60 mm</td></tr>
+<tr><td>100-150</td><td>4" - 6"</td><td>100 mm</td><td>80 mm</td></tr>
+<tr><td>175-200</td><td>7" - 8"</td><td>120 mm</td><td>80 mm</td></tr>
+</table>
 
-<sup>3</sup> In begründeten Fällen können die Dämmstärken reduziert werden, wie zum Beispiel:
+<sup>3</sup> Die in Absatz 2 genannten Anforderungen gelten auch für:
 
-- a) bei Kreuzungen, Wand- und Deckendurchbrüchen;
-- b) bei maximalen Vorlauftemperaturen von 30°C;
-- c) bei Armaturen, Pumpen, usw.
+- a) Armaturen;
+- b) Pumpen;
+- c) Wärmeverteilungsleitungen in unbeheizten Räumen und im Freien;
+- d) alle Teile des Warmwasserverteilungssystems, die in beheizten oder unbeheizten Räumen und im Freien auf Temperatur gehalten werden, mit Ausnahme derjenigen, die ohne Zirkulation oder Heizband isolierte Zapfstellen versorgen.
 
-<sup>4</sup> Bei erdverlegten Leitungen dürfen die UR-Werte gemäss Anhang 3 nicht überschritten werden.
+<sup>4</sup> Eine geringere Dicke der Wärmedämmung kann in begründeten Fällen zugelassen werden, z. B. bei der Verschneidung oder Durchdringung von Wänden und Decken oder wenn die Vorlauftemperaturen 30°C nicht überschreiten, sowie für Armaturen, Pumpen etc. Die angegebenen Dicken gelten für Betriebstemperaturen bis 90°C. Bei höheren Betriebstemperaturen wird die Wärmedämmung proportional erhöht.
 
-<sup>5</sup> Beim Ersatz des Wärmeerzeugers oder eines Wassererwärmers sind frei zugängliche Leitungen den Anforderungen gemäss Absatz 2 anzupassen, soweit es die örtlichen Platzverhältnisse zulassen.
+<sup>5</sup> Erdverlegte Leitungen müssen so isoliert werden, dass die folgenden UR-Werte nicht überschritten werden:
 
-<sup>6</sup> In beheizten Räumen sind Einrichtungen zu installieren, die es ermöglichen, die Raumlufttemperatur einzeln einzustellen und selbsttätig zu regeln. Ausgenommen sind Räume, die überwiegend mittels träger Flächenheizungen mit einer Vorlauftemperatur von höchstens 30°C beheizt werden.
+<table>
+<tr><th>DN</th><th>Zoll</th><th>Starre Rohre - W/m·K</th><th>Flexible Rohre sowie Doppelrohre - W/m·K</th></tr>
+<tr><td>20</td><td>¾''</td><td>0,14</td><td>0,16</td></tr>
+<tr><td>25</td><td>1''</td><td>0,17</td><td>0,18</td></tr>
+<tr><td>32</td><td>5/4''</td><td>0,18</td><td>0,18</td></tr>
+<tr><td>40</td><td>1½''</td><td>0,21</td><td>0,24</td></tr>
+<tr><td>50</td><td>2''</td><td>0,22</td><td>0,27</td></tr>
+<tr><td>65</td><td>2½''</td><td>0,25</td><td>0,27</td></tr>
+<tr><td>80</td><td>3''</td><td>0,27</td><td>0,28</td></tr>
+<tr><td>100</td><td>4''</td><td>0,28</td><td>0,31</td></tr>
+<tr><td>125</td><td>5''</td><td>0,31</td><td>0,34</td></tr>
+<tr><td>150</td><td>6''</td><td>0,34</td><td>0,36</td></tr>
+<tr><td>175</td><td>7''</td><td>0,36</td><td>0,38</td></tr>
+<tr><td>200</td><td>8''</td><td>0,37</td><td>0,40</td></tr>
+</table>
 
-<sup>7</sup> Die Heizbänder und die Umwälzpumpen des Warmwassers müssen mit den elektrischen Anschlüssen ausgestattet werden, welche die Installation einer Uhr oder eines Steuerungsthermostats erlauben.
+<sup>6</sup> Beim Ersatz eines Wärmeerzeugers oder eines Wassererwärmers müssen die frei zugänglichen Leitungen den Anforderungen nach Absatz 2 angepasst werden, soweit es die örtlichen Platzverhältnisse zulassen.
 
-#### Art. 22
+<sup>7</sup> Beheizte Räume müssen mit Vorrichtungen ausgestattet sein, die es ermöglichen, für jeden Raum unabhängig eine Raumtemperatur festzulegen und diese automatisch zu regeln. Ausgenommen von diesen Anforderungen sind Räume, die vorrangig mit einer Fussboden- Deckenheizung mit einer Vorlauftemperatur von höchstens 30°C beheizt werden. In diesen Fällen muss mindestens eine Regelung pro Wohn- oder Nutzungseinheit in einem Referenzraum installiert werden.
 
-**Regulierung der Heizung in Ferienhäusern**
+<sup>8</sup> Warmwasserverteilungssysteme können nur mit zeitgesteuerten, selbstregelnden Heizbändern oder mit einer zeitgesteuerten Umwälzpumpe und einem Steuerungsthermostat auf Temperatur gehalten werden.
 
-<sup>1</sup> In neu erstellten Einfamilienhäsuern, die nur zeitweise belegt sind, muss die Raumtemperatur mittels Fernbedienung (z.B. per Telefon, Internet, SMS) auf mindestens zwei unterschiedliche Niveaus regulierbar sein.
+#### Art. 37
 
-<sup>2</sup> In neu erstellten Mehrfamilienhäusern, die nur zeitweise bewohnt sind, muss die Raumtemperatur für jede Einheit getrennt mittels Fernbedienung (z.B. per Telefon, Internet, SMS) auf mindestens zwei unterschiedliche Niveaus regulierbar sein.
+**Regulierung der Heizung in zeitweise belegten Gebäuden**
 
-<sup>3</sup> Die gleiche Vorschrift ist bei der Sanierung des Heizverteilsystems in Mehrfamilienhäusern oder beim Austausch des Wärmeerzeugers in Einfamilienhäusern anzuwenden.
+<sup>1</sup> In neu zu errichtenden Gebäuden, in denen einzelne Nutzungseinheiten nur zeitweise belegt werden, müssen mindestens 2 Raumtemperaturniveaus pro Nutzungseinheit ferngesteuert werden können (z. B. per Telefon, Internet, SMS).
 
-#### Art. 23
+<sup>2</sup> Die gleiche Vorschrift ist bei der Sanierung des Heizverteilsystems in Gebäuden mit mehreren Nutzungseinheiten oder beim Austausch des Wärmeerzeugers in Gebäuden mit nur einer Nutzungseinheit.
+
+#### Art. 38
 
 **Abwärmenutzung**
 
 <sup>1</sup> Im Gebäude anfallende Abwärme, insbesondere jene aus Kälteerzeugung sowie aus gewerblichen und industriellen Prozessen, ist zu nutzen, soweit dies technisch und betrieblich möglich und wirtschaftlich tragbar ist.
 
-#### Art. 24
+#### Art. 39
 
-**Heizungen im Freien**
+**Heizungen im Freien bei Veranstaltungen von begrenzter Dauer**
 
-<sup>1</sup> Heizungen im Freien (welche Wärme liefern ausserhalb von geschlossenen Räumen wie für Terrassen, für Rampen, für Rinnen, für Sitzplätze, usw.) sind ausschliesslich mit erneuerbarer Energie oder nicht anders nutzbarer Abwärme zu betreiben.
+<sup>1</sup> Eine Ausnahme für eine Freiluftheizung zur Gewährleistung eines Mindestkomforts für Personen, die im Rahmen einer Veranstaltung von begrenzter Dauer (Markt, Weihnachtsmarkt, usw.) im Freien arbeiten, kann unter den folgenden kumulativen Bedingungen erteilt werden:
 
-<sup>2</sup> Ausnahmen zu Absatz 1 für den Bau neuer sowie für den Ersatz und die Änderung bestehender Heizungen im Freien können bewilligt werden, wenn kumulativ:
+- a) die Heizung ist ausschliesslich für einen Arbeitsplatz und nicht für die Kundschaft vorgesehen;
+- b) die Anlage wird in einem überdachten Unterstand aufgestellt, der nach Möglichkeit auf mindestens 3 Seiten geschlossen ist;
+- c) der Betrieb ist auf die offiziellen Zeiten der Veranstaltung beschränkt;
+- d) das Gerät ist so ausgestattet, dass eine Regelung der Heizung (Ein- und Ausschalten, Temperaturniveau, usw.) möglich ist.
 
-- a) die Sicherheit von Personen, Tieren und Sachen oder der Schutz von technischen Einrichtungen den Betrieb einer Heizung im Freien erfordert; und
-- b) bauliche Massnahmen (z.B. Überdachungen) und betriebliche Massnahmen (z.B. Schneeräumungen) nicht ausführbar oder unverhältnismässig sind; und
-- c) die Heizung im Freien mit einer temperatur- und feuchteabhängigen Regelung ausgerüstet ist.
+<sup>2</sup> Die für die Bewilligung einer Veranstaltung zuständige Behörde achtet darauf, ihre Ausnahmebewilligung an die oben genannten Bedingungen zu knüpfen sowie die Einhaltung anderer Bedingungen zu kontrollieren, die sich insbesondere aus dem Umweltschutz (LRV, VLP, usw.) und dem Brandschutz ergeben.
 
-#### Art. 25
+#### Art. 40
 
 **Lüftungstechnische Anlagen**
 
-<sup>1</sup> Lüftungstechnische Anlagen mit Aussenluft und Fortluft sind mit einer Wärmerückgewinnung auszurüsten, welche einen Temperatur-Änderungsgrad nach dem Stand der Technik aufweist.
+<sup>1</sup> Lüftungsanlagen mit Frischluft und Abluft müssen mit Wärmerückgewinnungsanlagen ausgestattet sein. Der Wärmerückgewinnungsindex muss dem Stand der Technik entsprechen, sofern keine besonderen Anforderungen aus der eidgenössischen Energieeffizienzverordnung (EEV) bestehen.
 
-<sup>2</sup> Einfache Abluftanlagen von beheizten Räumen sind entweder mit einer kontrollierten Zuführung der Ersatzluft und einer Wärmerückgewinnung oder einer Nutzung der Wärme der Abluft auszurüsten, sofern der Abluftvolumenstrom mehr als 1'000m³/h und die Betriebsdauer mehr als 500h/a beträgt. Dabei gelten mehrere getrennte einfache Abluftanlagen im gleichen Gebäude als eine Anlage.
+<sup>2</sup> Einfache Abluftanlagen in beheizten Räumen müssen ausgestattet sein:
 
-<sup>3</sup> Die Luftgeschwindigkeiten dürfen in Apparaten, bezogen auf die Nettofläche, 2m/s und im massgebenden Strang der Kanäle folgende Werte nicht überschreiten:
+- a) entweder mit einer kontrollierten Zuführung der Ersatzluft und einer Wärmerückgewinnung;
+- b) oder mit einer Vorrichtung zur Nutzung der Wärme aus der Abluft, sofern der Abluftvolumenstrom mehr als 1'000 m³/h beträgt und die Betriebsdauer mehr als 500 h/a beträgt.
 
-- a) bis 1000m³/j — 3m/s,
-- b) bis 2000m³/j — 4m/s,
-- c) bis 4000m³/j — 5m/s,
-- d) bis 10'000m³/j — 6m/s,
-- e) über 10'000m³/j — 7m/s,
+<sup>3</sup> Im Falle mehrerer getrennter einfacher Abluftanlagen, die sich in demselben Gebäude befinden, sind diese als eine einzige Anlage zu betrachten. Andere Lösungen als die in Absatz 2 genannten sind zulässig, wenn durch eine fachmännische Berechnung des Energieverbrauchs oder eine dynamische Simulation nachgewiesen werden kann, dass ein grösseres Luftvolumen und eine längere Betriebszeit nicht zu einem Mehrverbrauch führen.
 
-<sup>4</sup> Grössere Luftgeschwindigkeiten sind zulässig, falls:
+<sup>4</sup> Die Luftgeschwindigkeiten dürfen in Apparaten, bezogen auf die Nettofläche, 2 m/s und im massgebenden Strang der Kanäle folgende Werte nicht überschreiten:
 
-- a) wenn mit Hilfe einer fachgerechten Energieverbrauchsrechnung nachgewiesen wird, dass kein zusätzlicher Energieverbrauch auftritt, oder
-- b) falls die Installation weniger als 1'000 Stunden pro Jahr in Betrieb ist, oder
-- c) wenn diese Geschwindigkeit wegen einzelner räumlicher Hindernisse nicht vermeidbar ist.
+- a) bis 1’000 m³/h: 3 m/s;
+- b) bis 2’000 m³/h: 4 m/s;
+- c) bis 4’000 m³/h: 5 m/s;
+- d) bis 10’000 m³/h: 6 m/s;
+- e) über 10’000 m³/h: 7 m/s.
 
-<sup>5</sup> Lufttechnische Anlagen für Räume oder Raumgruppen mit wesentlich abweichenden Nutzungen oder Betriebszeiten sind mit Einrichtungen auszurüsten, die einen individuellen Betrieb ermöglichen.
+<sup>5</sup> Grössere Luftgeschwindigkeiten sind zulässig, falls:
 
-#### Art. 26
+- a) wenn durch eine fachmännisch erstellte Berechnung des Energieverbrauchs nachgewiesen werden kann, dass die Überschreitung keinen Mehrverbrauch verursacht;
+- b) falls die Installation weniger als 1'000 Stunden pro Jahr in Betrieb ist;
+- c) wenn diese Geschwindigkeiten wegen einzelner räumlicher Hindernisse nicht vermeidbar sind.
+
+<sup>6</sup> Lüftungstechnische Anlagen für Räume oder Raumgruppen mit wesentlich abweichenden Nutzungen oder Betriebszeiten sind mit Einrichtungen auszustatten, die einen individuellen Betrieb ermöglichen.
+
+#### Art. 41
 
 **Wärmedämmung von lüftungstechnischen Anlagen**
 
-<sup>1</sup> Luftkanäle, Rohre und Geräte von Lüftungs- und Klimaanlagen müssen je nach Temperaturdifferenz im Auslegefall und λ-Wert des Dämmmaterials gemäss Anhang 4 gegen Wärmeübertragung (Wärmeverlust und Wärmeaufnahme) geschützt werden. In begründeten Fällen wie z.B. bei Kreuzungen, Wand- und Deckendurchbrüchen, wenig benutzten Leitungen mit Klappen im Bereich der thermischen Hülle sowie bei Platzproblemen bei Ersatz und Erneuerungen können die Dämmstärken reduziert werden.
+<sup>1</sup> Luftkanäle, Rohre und Geräte von Lüftungs- und Klimaanlagen müssen je nach Temperaturdifferenz im Auslegefall und λ-Wert des Dämmmaterials gemäss den Anforderungen der geltenden Norm SIA 382/1 gegen Wärmeübertragung (Wärmeverlust und Wärmeaufnahme) geschützt werden. In begründeten Fällen wie z. B. bei kurzen Abschnitten von Leitungen, Kreuzungen, Wand- und Deckendurchbrüchen, wenig benutzten Leitungen mit Klappen im Bereich der thermischen Hülle sowie bei Platzproblemen bei Ersatz und Erneuerungen können die Dämmstärken reduziert werden.
 
-#### Art. 27
+#### Art. 42
 
 **Kühlung, Be- und Entfeuchtung**
 
-<sup>1</sup> Die Installation neuer Anlagen sowie der Ersatz bestehender Anlagen für Kühlung, Be- und Entfeuchtung ist immer zulässig, wenn der elektrische Leistungsbedarf für die Medienförderung und die Medienaufbereitung inklusiver allfälliger Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung 7W/m² in Neubauten resp. 12W/m² in bestehenden Gebäuden nicht überschreitet.
+<sup>1</sup> Anlagen zur Kühlung, Befeuchtung und Entfeuchtung, die der Verbesserung des Komforts in bestehenden Gebäuden dienen, müssen so geplant und ausgeführt werden, dass sie:
 
-<sup>2</sup> Bei Anlagen für die Komfortkühlung, welche nicht unter Absatz 1 fallen, sind die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung nach dem Stand der Technik auszulegen und zu betreiben, dies im Sinne der Norm SIA 382/1.
+- a) die für den Transport und die Behandlung von Fluiden erforderliche elektrische Leistung, einschliesslich der Leistung für Kühlung, Befeuchtung, Entfeuchtung und Wasserbehandlung, 12 W pro m² gekühlte Nettofläche nicht überschreitet, oder
+- b) die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung dem Stand der Technik entsprechen, ebenso wie die Planung und der Betrieb einer eventuellen Entfeuchtung.
 
-<sup>3</sup> Bei Anlagen, welche nicht unter Absatz 1 fallen, müssen die Auslegung und der Betrieb einer allfälligen Befeuchtung nach dem Stand der Technik erfolgen, dies im Sinne der Norm SIA 382/1.
+<sup>2</sup> Bei Anlagen welche Absatz 1 nicht erfüllen, ist die Eigenstromproduktion nach Artikel 60 Absatz 2 mit dem Verhältnis der Energy Efficiency Ratio (EER) nach dem Stand der Technik zur EER des eingesetzten Prozesses zu multiplizieren.
 
-#### Art. 28
+<sup>3</sup> Für Wohngebäude, die nicht unter Artikel 60 fallen und Absatz 1 nicht einhalten können, kann eine Ausnahme im Sinne einer eigenen Stromproduktion gewährt werden, die den Mehrverbrauch an Elektrizität gegenüber dem Stand der Technik ausgleicht.
 
-**Elektrische Energie in Gebäuden**
+#### Art. 43
 
-<sup>1</sup> Für Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (AE) von mehr als 1'000 Quadratmetern muss die Einhaltung der Grenzwerte für den jährlichen Elektrizitätsbedarf gemäss SIA 380/4 "Elektrische Energie im Hochbau", für Beleuchtung E'Li und entweder Lüftung E'V oder Lüftung/Klimatisierung E'VCH nachgewiesen werden. Davon ausgenommen sind Wohnbauten oder Teile davon.
+**Elektrizitätsbedarf für die Beleuchtung grosser Gebäude**
 
-<sup>2</sup> Beleuchtung: Wird der Nachweis erbracht, dass der Zielwert der spezifischen Leistung für die Beleuchtung pLi eingehalten wird, kann auf den Nachweis der Einhaltung des Grenzwerts für den jährlichen Elektrizitätsbedarf Beleuchtung verzichtet werden.
+<sup>1</sup> Bei Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche (EBF) von mehr als 1000 m² muss die Einhaltung der Grenzwerte für den jährlichen Elektrizitätsbedarf für Beleuchtung E<sub>L</sub> gemäss Norm SIA 387/4, nachgewiesen werden. Davon ausgenommen sind Wohnbauten oder Teile davon.
 
-<sup>3</sup> Lüftung: Wird der Nachweis erbracht, dass der Grenzwert der spezifischen Leistung für die Lüftung pV eingehalten wird, kann auf den Nachweis der Einhaltung des Grenzwerts für den jährlichen Elektrizitätsbedarfs Lüftung verzichtet werden. Auf den Nachweis Lüftung kann verzichtet werden, wenn die mechanisch belüftete Nettofläche weniger als 500 Quadratmeter beträgt.
+<sup>2</sup> Die Anforderung gemäss Absatz 1 gilt ebenfalls als erfüllt, wenn mit dem Hilfsprogramm Beleuchtung der EnFK nachgewiesen wird, dass die Vorgabe an die spezifische Leistung p<sub>L</sub> bestimmt aus Grenz- respektive Zielwert gemäss Tabelle 13 der Norm SIA 387/4 eingehalten wird.
 
-<sup>4</sup> Lüftung/Klimatisierung: Wird der Nachweis erbracht, dass der elektrische Leistungsbedarf für Lüftung/Klimatisierung für eine neue Anlage 7W/m² oder für eine bestehende und sanierte Anlage 12W/m² oder kleiner ist (vgl. Art. 27), kann auf den Nachweis der Einhaltung des Grenzwerts für den jährlichen Elektrizitätsbedarf Lüftung/Kimatisierung verzichtet werden.
+#### Art. 44
 
-#### Art. 28a
+**Leuchtreklamen im Aussenbereich**
 
-**Pflicht zur Nutzung der Sonnenenergie bei neuen Gebäuden**
+<sup>1</sup> Als Leuchtreklamen im Aussenbereich gelten Lichtwerbeanlage mit textlicher oder bildlicher Darstellung von Namen, Logos, Slogans, usw.
 
-<sup>1</sup> Beim Bau neuer Gebäude mit einer anrechenbaren Gebäudefläche von mehr als 300 m² ist auf den Dächern oder an den Fassaden eine Solaranlage, zu erstellen. Als anrechenbare Gebäudefläche gilt die Fläche innerhalb der projizierten Fassadenlinie.
+<sup>2</sup> Leuchtreklamen im Aussenbereich werden zwischen Mitternacht und 6 Uhr ausgeschaltet, wenn die von der Reklame betroffene Aktivität eingestellt wurde.
 
-<sup>2</sup> Die Fläche der Solarpanels oder der Sonnenkollektoren muss mindestens 40 Prozent der anrechenbaren Gebäudefläche betragen.
+<sup>3</sup> Wenn die von der Leuchtreklame betroffenen Aktivitäten nach Mitternacht fortgesetzt werden, wird die Leuchtreklame spätestens eine Stunde nach Beendigung der Aktivität ausgeschaltet.
 
-<sup>3</sup> Die Anträge auf Ausnahmen sind in Artikel 7 dieser Verordnung geregelt. Nicht als wirtschaftlich unverhältnismässig gilt eine Solaranlage, deren Gestehungskosten bei Berechnung mit einer Amortisationszeit von 25 Jahren unter 20 Rp/kWh liegen.
+<sup>4</sup> Von diesen zeitlichen Beschränkungen ausgenommen sind Leuchtreklamen im Aussenbereich von öffentlichem Interesse, die insbesondere eine Sicherheitsfunktion haben oder einen Notdienst betreffen, insbesondere für Krankenhäuser, Notdienstapotheken, Feuerwehr, Polizei sowie die Leuchtreklame von Hotels und anderen touristisch relevanten Einrichtungen.
 
-## 5 Beheizte Schwimmbäder
+#### Art. 45
 
-#### Art. 29
+**Nächtliche Beleuchtung von Nichtwohnbauten**
 
-**Grundsatz**
+<sup>1</sup> Unter nächtlicher Beleuchtung von Nichtwohnbauten versteht man die von aussen erfolgte Beleuchtung von Gebäudefassaden und Aussenräumen oder die von aussen sichtbare Innenbeleuchtung von Geschäften (Schaufenstern), Büros, öffentlichen Einrichtungen, Unternehmen oder Lagerhäusern sowie von öffentlichen Infrastrukturen genutzt wird.
 
-<sup>1</sup> Der Bau neuer und die Sanierung bestehender beheizter Bäder sowie der Ersatz und die wesentliche Änderung der technischen Anlagen zu deren Beheizung sind bewilligungspflichtig.
+<sup>2</sup> Die nächtliche Beleuchtung dieser Bauten oder Bauteile wird zwischen Mitternacht und 6 Uhr morgens ausgeschaltet, wenn die Aktivität in dem Gebäude eingestellt wurde.
 
-<sup>2</sup> Wasserbecken mit weniger als 8m³ Inhalt gelten nicht als Schwimmbäder im Sinne von Absatz 1.
+<sup>3</sup> Wenn die entsprechenden Aktivitäten nach Mitternacht fortgesetzt werden, wird die Beleuchtung spätestens eine Stunde nach Beendigung der Aktivitäten ausgeschaltet.
 
-<sup>3</sup> Die Beheizung mithilfe einer Wärmepumpe ist erlaubt, unter der Bedingung dass das Schwimmbad mit einer Abdeckung der Wasserfläche gegen Wärmeverluste ausgerüstet wird.
+<sup>4</sup> Ausgenommen von diesen zeitlichen Beschränkungen ist die Beleuchtung von Gebäuden, die eine Sicherheitsfunktion haben oder einen Notdienst betreffen, insbesondere Krankenhäuser, Notfallapotheken, Feuerwehr, Polizei und andere eminente touristische Orte.
 
-#### Art. 30
+<sup>5</sup> Die Spezialgesetzgebung, insbesondere im Bereich der Sicherheit und öffentlichen Ordnung, bleibt vorbehalten.
 
-**Allgemeine Anforderungen**
+#### Art. 46
 
-<sup>1</sup> Das Schwimmbad muss mit einer Abdeckung der Wasserfläche gegen Wärmeverluste ausgerüstet sein.
+**Ladestationen für Elektrofahrzeuge**
 
-<sup>2</sup> Die Wärme aus dem Schwimmbadabwasser ist zurückzugewinnen.
+<sup>1</sup> Die neuen Ladeinfrastrukturen müssen ein dynamisches Lastmanagement ermöglichen, sobald mehrere Ladestationen am gleichen Anschlusspunkt an das Verteilnetz installiert werden könnten.
 
-<sup>3</sup> Die Regelung der Wassertemperatur des Schwimmbads muss mit Instrumenten hoher Präzision ausgeführt werden.
+<sup>2</sup> Im Übrigen gilt das Merkblatt SIA 2060 "Infrastruktur für Elektrofahrzeuge in Gebäuden".
 
-<sup>4</sup> Die Wände des Schwimmbads sowie sein Grund auf mindestens drei Meter ins Innere müssen vor Wärmeverlusten geschützt sein. Der U-Wert muss kleiner oder gleich als 0.4W/m²K sein.
+### 4.1.3 Beheizte Schwimmbäder
 
-#### Art. 31
+#### Art. 47
 
-**Schwimmbäder im Innenbereich**
+**Grundsätze**
 
-<sup>1</sup> Das Wasser des Schwimmbads ist im Minimum zur Hälfte durch erneuerbare Energien oder nicht anders nutzbarer Abwärme zu beheizen.
+<sup>1</sup> Soweit nicht anders geregelt, gelten die Anforderungen dieses Kapitels für Innen- und Aussenanlagen beim Bau, der Errichtung und der Sanierung von beheizten Schwimmbädern sowie für den Ersatz und den Umbau der technischen Anlagen, die diese mit Wärme, Wasser und Luft versorgen.
 
-<sup>2</sup> Handelt es sich um ein öffentlich zugängliches Schwimmbad und ist die Wasserfläche grösser als 50 Quadratmeter, so wird wenn möglich mindestens die Hälfte des Wassers mit erneuerbarer Energie oder nicht anders nutzbarer Abwärme beheizt.
+<sup>2</sup> Als Schwimmbad gelten alle Wasserbecken mit einem Fassungsvermögen von 8 m³ oder mehr.
 
-<sup>3</sup> Die Auflagen bezüglich der Beheizung von Räumen und der Lüftung bleiben vorbehalten.
+<sup>3</sup> Das Wasser des Schwimmbads wird ohne fossile Energie oder elektrische Direktheizung beheizt.
 
-#### Art. 32
+<sup>4</sup> Die Wasserfläche des Schwimmbeckens muss mit einer Abdeckung gegen Verdunstung und Wärmeverluste ausgerüstet sein.
 
-**Freiluftbäder**
+<sup>5</sup> Die im abgelassenen Wasser enthaltene Wärme, die für die tägliche Erneuerung des Zusatzwassers benötigt wird, muss zurückgewonnen werden.
 
-<sup>1</sup> Das Wasser des Schwimmbads ist mit erneuerbarer Energie oder nicht anders nutzbarer Abwärme zu beheizen.
+<sup>6</sup> Die Auflagen über Raumheizung, Lüftung und Warmwasser bleiben vorbehalten.
 
-<sup>2</sup> Handelt es sich um ein öffentlich zugängliches Schwimmbad und ist die Wasserfläche grösser als 200 Quadratmeter, so wird mindestens die Hälfte des Wassers mit erneuerbarer Energie oder nicht anders nutzbarer Abwärme beheizt.
+#### Art. 48
 
-## 6 Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
+**Isolation von Schwimmbecken**
 
-#### Art. 33
+<sup>1</sup> Die Wände des Schwimmbeckens sowie sein Grund auf mindestens drei Meter ins Innere müssen vor Wärmeverlusten geschützt sein. Der einzuplanende U-Wert muss kleiner oder gleich als 0,4 W/(m²·K) sein.
+
+<sup>2</sup> Bei der Sanierung von Schwimmbecken beziehen sich die in Absatz 1 genannten Anforderungen nur auf die von den Umbauten betroffenen Elemente des benetzten Perimeters.
+
+#### Art. 49
+
+**Zerlegbare oberirdische Schwimmbäder**
+
+<sup>1</sup> Ein oberirdisches zerlegbares Schwimmbad, das nicht nach den Anforderungen von Artikel 48 Absatz 1 isoliert ist, darf nicht beheizt werden.
+
+<sup>2</sup> Ein oberirdisches, zerlegbares Schwimmbad, das gemäss den Anforderungen von Artikel 48 Absatz 1 isoliert ist, darf ausschliesslich durch erneuerbare Energien oder Abwärme (Wärmepumpe, Solarthermie, usw.) beheizt werden.
+
+### 4.1.4 Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
+
+#### Art. 50
 
 **Ausrüstungspflicht bei Neubauten**
 
-<sup>1</sup> Neue Gebäude und neue Gebäudegruppen mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser auszurüsten.
+<sup>1</sup> Neue Gebäude mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für Warmwasser auszurüsten.
 
-<sup>2</sup> Bei Flächenheizungen ist für den Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit ein U-Wert von maximal 0.7W/m²K einzuhalten.
+<sup>2</sup> Neue Gebäude mit zentraler Wärmeversorgung für eine Gebäudegruppe sind mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung pro Gebäude auszurüsten.
 
-#### Art. 34
+#### Art. 51
 
-**Ausrüstungspflicht für bestehende Bauten**
+**Ausrüstungspflicht für umfassende Renovationen**
 
-<sup>1</sup> Bestehende Gebäude und bestehende Gebäudegruppen mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für die Heizung auszurüsten und mit Einrichtungen zu versehen, die es ermöglichen, die Raumlufttemperatur individuell einzustellen und selbstständig zu regeln, soweit dies technisch wie betrieblich möglich und der Aufwand verhältnismässig ist.
+<sup>1</sup> Wenn die Heizungsanlage (Wärmeerzeugung und Verteilung) und/oder die Warmwassererzeugung und Verteilung in einem bestehenden Gebäude, das über eine Heizzentrale für 5 oder mehr Nutzeinheiten verfügt, ersetzt wird, muss das Gebäude mit den Geräten ausgestattet werden, die für die Erfassung der individuellen Abrechnung der Heiz- und/oder Warmwasserkosten erforderlich sind.
 
-<sup>2</sup> Der individuelle Wärmeverbrauch für Warmwasser muss mit entsprechenden Einrichtungen erfasst und abgerechnet werden können. Dies gilt von dem Zeitpunkt an, ab dem das Warmwasser-Verteilsystem ersetzt ist.
+<sup>2</sup> In einer Gruppe von Gebäuden, die an eine Heizzentrale angeschlossen sind, müssen die für die Erstellung der individuellen Heizkostenabrechnung pro Gebäude erforderlichen Geräte installiert werden, wenn mehr als 75 Prozent der Gebäudehülle eines oder mehrerer Gebäude renoviert wird.
 
-#### Art. 35
+#### Art. 52
 
-**Ausrüstungspflicht bei wesentlichen Änderungen**
+**Wärmedämmung bei Flächenheizungen**
 
-<sup>1</sup> Bestehende Gebäude mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind bei einer Gesamterneuerung des Heizungs- und/oder des Produktions- und Verteilung des Warmwassersystems mit den Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser auszurüsten.
+<sup>1</sup> Bei Flächenheizungen ist für den Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit ein U-Wert von maximal 0,7 W/(m²·K) einzuhalten.
 
-<sup>2</sup> Bestehende Gebäudegruppen mit zentraler Wärmeversorgung sind mit den Geräten zur Erfassung des Wärmeverbrauchs für Heizung pro Gebäude auszurüsten, wenn an einem oder mehreren Gebäuden die Gebäudehülle zu über 75 Prozent saniert wird.
-
-#### Art. 36
+#### Art. 53
 
 **Abrechnung**
 
 <sup>1</sup> In Gebäuden und Gebäudegruppen, für welche eine Ausrüstungspflicht besteht, sind die Kosten für den Wärmeverbrauch (Heizenergie und Warmwasser) zum überwiegenden Teil anhand des effektiv gemessenen Verbrauchs der einzelnen Nutzeinheiten abzurechnen.
 
-<sup>2</sup> Für die entsprechenden Abrechnungen dürfen nur Geräte verwendet werden, deren Konformität durch das Bundesamt für Metrologie METAS anerkannt wird.
+<sup>2</sup> Für die entsprechenden Abrechnungen dürfen nur Geräte verwendet werden, die der Verordnung über Messmittel für thermische Energie (TMmV) entsprechen.
 
 <sup>3</sup> Für die Verteilung der Kosten sind die im Abrechnungsmodell des Bundesamtes für Energie formulierten Grundsätze einzuhalten.
 
 <sup>4</sup> Die Nutzeinheiten, deren Zähler durch eine Zählerpanne ausser Betrieb gesetzt wurden, erhalten ihre Abrechnung anhand eines Berechnungsschlüssels, welcher sich auf die bewohnte Fläche, das Volumen der Räume oder einen anderen nachvollziehbaren Verteilschlüssel stützt. Die restlichen Nutzeinheiten ohne Zählerpanne, erhalten Ihre Abrechnung weiterhin aufgrund der gemessenen Verbräuche.
 
-#### Art. 37
+#### Art. 54
 
-**Befreiung bei Neubauten und bei wesentlichen Erneuerungen**
+**Ausnahme für energieeffiziente Gebäude**
 
-<sup>1</sup> Von der Ausrüstungs- und Abrechnungspflicht verbrauchsabhängiger Heiz- und Warmwasserkostenabrechnung befreit sind Gebäude und Gebäudegruppen:
+<sup>1</sup> Neue Gebäude sind von der Ausrüstungspflicht und der Pflicht zur Erstellung einer individuellen Heizkostenabrechnung befreit, wenn sie über ein Label Minergie-P®, Minergie-A® oder ein GEAK A/A verfügen.
 
-- a) deren installierte Wärmeerzeugerleistung (inkl. Warmwasser) weniger als 20 Watt pro Quadratmeter Energiebezugsfläche beträgt, oder
-- b) die ein MINERGIE-Zertifikat erhalten haben, oder
-- c) deren Wärmebedarf (Heizung und Warmwasser) im minimum zu 50 Prozent durch erneuerbare Energien gedeckt wird.
+<sup>2</sup> Bestehende Gebäude und Gebäudegruppen mit 5 oder mehr Nutzeinheiten sind von der Ausstattungspflicht und der Pflicht zur Erstellung einer individuellen Heizkostenabrechnung ausgenommen, wenn:
 
-## 7 Vorzeigefunktion von öffentlichen Gebäuden
+- a) die installierte Leistung für die Wärmeerzeugung (einschliesslich Warmwasser) weniger als 20 W pro m² EBF beträgt, oder
+- b) sie verfügen über ein Minergie-Systemerneuerung®-Label, oder
+- c) sie verfügen über ein GEAK C/C nach der Renovation, oder
+- d) d) ihr Wärmebedarf (Heizung und Warmwasser) wird mindestens zur Hälfte durch erneuerbare Energien oder ungenutzte Abwärme gedeckt.
 
-#### Art. 38
+### 4.2 Anforderungen an die Deckung des Wärmebedarfs und die eigene Elektrizitätserzeugung bei Neubauten
+
+#### Art. 55
+
+**Anforderungen an die Deckung des Wärmebedarfs bei Neubauten**
+
+<sup>1</sup> Der gewichtete jährliche Energiebedarf für Heizung, Warmwasserbereitung, Lüftung und Kühlung in neu zu errichtenden Gebäuden und Erweiterungen (Aufstockungen, Anbauten, usw.) darf die folgenden Werte nicht überschreiten:
+
+<table>
+<tr><th>Gebäudekategorie</th><th>Name</th><th>Grenzwerte für Neubauten EHWLK in kWh/m²</th></tr>
+<tr><td>I</td><td>Wohnen MFH</td><td>35</td></tr>
+<tr><td>II</td><td>Wohnen EFH</td><td>35</td></tr>
+<tr><td>III</td><td>Verwaltung</td><td>40</td></tr>
+<tr><td>IV</td><td>Schulen</td><td>35</td></tr>
+<tr><td>V</td><td>Verkauf</td><td>40</td></tr>
+<tr><td>VI</td><td>Restaurants</td><td>45</td></tr>
+<tr><td>VII</td><td>Versammlungslokale</td><td>40</td></tr>
+<tr><td>VIII</td><td>Spitäler</td><td>70</td></tr>
+<tr><td>IX</td><td>Industrie</td><td>20</td></tr>
+<tr><td>X</td><td>Lager</td><td>20</td></tr>
+<tr><td>XI</td><td>Sportbauten</td><td>25</td></tr>
+<tr><td>XII</td><td>Hallenbäder</td><td>Keine Anforderung</td></tr>
+</table>
+
+<sup>2</sup> Für die Kategorien VI (Restaurants) und XI (Sportbauten) berücksichtigen die Grenzwerte nicht den Bedarf für Warmwasser.
+
+<sup>3</sup> Bei Projekten der Kategorie XII (Hallenbäder) muss die Nutzung der Abwärme aus der Abluft und dem Bade- und Duschwasser optimiert werden.
+
+<sup>4</sup> Für die Verwendung erneuerbarer gasförmiger oder flüssiger Brennstoffe sowie synthetischer Brennstoffe aus erneuerbaren Energieressourcen gelten die folgenden Anforderungen:
+
+- a) der Einsatz dieser Brennstoffe bewirkt eine Emissionsminderung im Treibhausgasinventar der Schweiz im laufenden oder in einem der beiden Vorjahre unter Berücksichtigung der nationalen Gewichtungsfaktoren;
+- b) die Brennstoffe stammen nicht aus dem Lebensmittel- oder Energiepflanzenanbau;
+- c) die Zertifikate werden von anerkannten Stellen ausgestellt;
+- d) die Bilanzierung wird von einer anerkannten, zentralen Stelle vorgenommen, deren Daten öffentlich einsehbar sind;
+- e) die Zertifikate, die einer Lebensdauer des Heizkessels von 20 Jahren entsprechen, werden einmalig im Rahmen des Antrags auf eine Baugenehmigung für den neuen Wärmeerzeuger ausgestellt;
+- f) die zu erwerbenden Zertifikate in kWh werden wie folgt berechnet: der berechnete jährliche Energiebedarf für Heizung und Warmwasser x 20 Jahre x 2[^55-1] .
+
+<sup>5</sup> Die Anforderungen müssen durch Massnahmen erfüllt werden, die vor Ort angewendet werden.
+
+[^55-1]: Der Koeffizient 2 entspricht dem geforderten Anteil an erneuerbarer Energie (100 %) geteilt durch den Gewichtungsfaktor (0,5).
+
+#### Art. 56
+
+**Grundsätze für die Berechnung**
+
+<sup>1</sup> Zur Berechnung des gewichteten Jahresenergiebedarfs für Heizung, Warmwasserbereitung, Lüftung und Kühlung wird der Wärmebedarf für Heizung (Q<sub>H,eff</sub>) und Warmwasser (Q<sub>WW</sub>) durch den Wirkungsgrad (η) der installierten Wärmeerzeuger unter Berücksichtigung ihres jeweiligen Anteils an der Wärmebereitstellung dividiert. Das Ergebnis wird mit dem Gewichtungsfaktor (g) der verwendeten Energieträger multipliziert. Zum Ergebnis der Multiplikation wird der Stromaufwand für Lüftung und Kühlung (E<sub>LK</sub>) addiert, der ebenfalls mit dem Gewichtungsfaktor (g) multipliziert wird.
+
+<sup>2</sup> Bei der Berechnung des Energiebedarfs wird nur hochwertige Energie berücksichtigt, die dem Gebäude zur Beheizung, Belüftung und Kühlung von Räumen sowie zur Warmwasserbereitung zugeführt wird, ohne Berücksichtigung einer möglichen Energie für Produktionsprozesse, die insbesondere von einer besonderen Nutzung der Räume abhängt.
+
+<sup>3</sup> Strom aus eigener Produktion wird bei der Berechnung des gewichteten Jahresenergiebedarfs nicht berücksichtigt. Ausgenommen ist jedoch Strom aus Wärmekraftkopplungsanlagen (WKK), die in dem betreffenden Gebäude installiert sind.
+
+<sup>4</sup> Die Gewichtungsfaktoren (g), die auf die verschiedenen Energieträger angewendet werden, sind die von der EnDK festgelegten nationalen Faktoren.
+
+#### Art. 57
+
+**Nachweis mithilfe von Standardlösungen**
+
+<sup>1</sup> Für die Gebäudekategorien I (Mehrfamilienhaus) und II (Einfamilienhaus) gilt die Anforderung nach Artikel 55 als erfüllt, wenn das Projekt einer der nachfolgend aufgeführten Kombinationen von Standardlösungen entspricht, die nach den Regeln der Technik angewendet werden.
+
+<sup>2</sup> Bei neuen Gebäuden, deren opake Bauteile gegen aussen einen U<sub>w</sub>-Wert von 0,17 W/(m²·K) und deren Fenster einen U<sub>w</sub>-Wert von 1,00 W/(m²·K) einhalten, muss alternativ vorgesehen werden:
+
+- a) einer kontrollierten mechanischen Wohnungslüftung kombiniert mit:
+  - 1\. einer elektrischen Wärmepumpe, Erdsonde/Wasser oder Wasser/Wasser,
+  - 2\. einer automatischen Holzfeuerung,
+  - 3\. einer Fernwärmeheizung (KVA, ARA oder erneuerbare Energien),
+  - 4\. einer elektrischen Wärmepumpe Luft/Wasser;
+- b) einer thermischen Solaranlage zur Warmwasserbereitung mit einer Fläche von mindestens 2 Prozent des EBF, kombiniert mit:
+  - 1\. einer elektrischen Wärmepumpe, Erdsonde/Wasser oder Wasser/Wasser,
+  - 2\. einer automatischen Holzfeuerung,
+  - 3\. einer Fernwärmeheizung (KVA, ARA oder erneuerbare Energien),
+  - 4\. einer elektrischen Wärmepumpe Luft/Wasser,
+  - 5\. einer Stückholzfeuerung.
+
+<sup>3</sup> Bei neuen Gebäuden, deren opake Bauteile gegen aussen einen U<sub>w</sub>-Wert von 0,15 W/(m²·K) einhalten, muss alternativ vorgesehen werden:
+
+- a) Fenster mit einem U<sub>w</sub> -Wert von 1,00 W/(m²·K) in Kombination mit:
+  - 1\. einer elektrischen Wärmepumpe, Erdsonde/Wasser oder Wasser/Wasser,
+  - 2\. einer automatischen Holzheizung,
+  - 3\. einer Fernwärmeheizung (KVA, ARA oder erneuerbare Energien);
+- b) Fenster mit einem U<sub>w</sub> -Wert von 0,80 W/(m²·K) in Kombination mit;
+  - 1\. einer elektrischen Wärmepumpe, Erdsonde/Wasser oder Wasser/Wasser,
+  - 2\. einer automatischen Holzheizung,
+  - 3\. einer Fernwärmeheizung (KVA, ARA oder erneuerbare Energien),
+  - 4\. einer elektrischen Wärmepumpe Luft/Wasser.
+
+<sup>4</sup> Die betreffenden Standardlösungen werden nur dann anerkannt, wenn die folgenden zusätzlichen Bedingungen erfüllt sind:
+
+- a) Der Wirkungsgrad der Wärmerückgewinnung der kontrollierten mechanischen Wohnungslüftung muss mindestens 80 Prozent betragen;
+- b) Der fossile Energieanteil der Fernwärme darf kleiner oder gleich 25 Prozent betragen.
+
+<sup>5</sup> Das von der EnDK zur Verfügung gestellte Nachweisinstrument für einfache Gebäude (ENteb) kann anstelle der Kombinationen von Standardlösungen aus Absatz 1 verwendet werden.
+
+#### Art. 58
+
+**Eigene Elektrizitätserzeugung bei Neubauten und Erweiterungen bestehender Gebäude**
+
+<sup>1</sup> Unter einer Anlage "in der Nähe des Gebäudes" versteht man eine Anlage, die sich auf derselben Parzelle wie das Gebäude oder auf einer benachbarten Parzelle befindet.
+
+<sup>2</sup> Die finanzielle Beteiligung an einer Anlage zur Erzeugung erneuerbarer Energie, die sich ausserhalb des Standorts befindet, ist in Artikel 59 geregelt.
+
+#### Art. 59
+
+**Finanzielle Beteiligung an einer Anlage, die eine erneuerbare Energieressource nutzt**
+
+<sup>1</sup> Wenn der Gesuchsteller einer Baubewilligung sich anstelle der Installation einer Elektrizitätserzeugungsanlage im, auf oder in der Nähe des Gebäudes finanziell an einer Anlage zur Elektrizitätserzeugung beteiligen will, die eine erneuerbare Energieressource auf dem Gebiet des Kantons oder eines Nachbarkantons nutzt, muss er das Dossier dem Baubewilligungsgesuch beilegen.
+
+<sup>2</sup> Das Dossier umfasst:
+
+- a) die vollständigen Kontaktdaten des Antragstellers;
+- b) relevante Informationen über das Gebäude, das im Prinzip mit einer Photovoltaikanlage ausgestattet werden sollte;
+- c) den Lageplan der Stromerzeugungsanlage;
+- d) detaillierte Angaben zum Projektträger der Stromerzeugungsanlage;
+- e) Informationen über den Fortschritt des Stromerzeugungsprojekts;
+- f) Informationen über die spezifische Investition in die Stromerzeugungsanlage in Franken pro jährlich erzeugte Kilowattstunde.
+
+<sup>3</sup> Die für die Baubewilligung zuständige Behörde muss eine Vormeinung der Dienststelle verlangen.
+
+<sup>4</sup> Der Antrag auf finanzielle Beteiligung an einer Anlage zur Erzeugung von Strom aus erneuerbaren Energiequellen oder an einer Erweiterung dieser Anlage wird angenommen, wenn:
+
+- a) die Anlage über eine rechtskräftige Baugenehmigung verfügt;
+- b) die Anlage zum Zeitpunkt des Baugesuchs noch nicht in Betrieb ist;
+- c) der Eigentümer der Anlage sich mit der finanziellen Beteiligung des Antragstellers einverstanden erklärt;
+- d) die vom Gesuchsteller finanzierte voraussichtliche Jahresproduktion mindestens derjenigen, die mit einer Photovoltaikanlage auf dem geplanten Gebäude erreicht werden könnte entspricht.
+
+<sup>5</sup> Der Besitzer der Anlage reicht der Dienststelle das Inbetriebnahmeprotokoll innerhalb von 30 Tagen nach Erhalt ein.
+
+#### Art. 60
+
+**Deckung des Strombedarfs für die Kühlung, Befeuchtung und Entfeuchtung von Gebäuden**
+
+<sup>1</sup> Der saisonale Stromverbrauch der Hauptgeräte, die für die Erzeugung und Verteilung von Kälte oder Dampf benötigt werden, bestimmt die Menge an Strom, die in dem betreffenden Zeitraum erzeugt werden muss.
+
+<sup>2</sup> Die benötigte Strommenge in kWh kann der Einfachheit halber berechnet werden, indem die gesamte elektrische Leistung in kW der Geräte, die für die Erzeugung und Verteilung von Kälte und Dampf benötigt werden, mit 1'000 Stunden multipliziert wird.
+
+<sup>3</sup> Die Stromerzeugung, die für die Kühlung benötigt wird, wird von April bis September betrachtet. Die Stromerzeugung im Zusammenhang mit der Befeuchtung und Entfeuchtung wird von November bis Februar betrachtet.
+
+<sup>4</sup> Eine Simulation der benötigten Strommenge, die von einem spezialisierten Büro erstellt und fachgerecht durchgeführt wird, wird akzeptiert.
+
+<sup>5</sup> Eine gleichwertige Stromproduktion durch die finanzielle Beteiligung an einer Anlage zur Erzeugung erneuerbarer Energie, die sich ausserhalb des Standorts befindet, ist nach Artikel 59 möglich.
+
+#### Art. 61
+
+**Anforderungen an die Deckung des gesamten Energiebedarfs**
+
+<sup>1</sup> Gebäude mit einem Label Minergie-P®, Minergie-A® oder einem GEAK A/A müssen die Einhaltung der Teilanforderungen der Artikel 32, 33 und 34 kEnG nicht nachweisen.
+
+<sup>2</sup> Grosse Gebäudekomplexe mit einem Minergie-Quartier®-Label müssen die Einhaltung der Teilanforderungen der Artikel 32, 33 und 34 kEnG nicht nachweisen.
+
+### 4.3 Anforderungen an die Deckung des Wärmebedarfs und die eigene Elektrizitätserzeugung bei bestehenden Gebäuden
+
+#### Art. 62
+
+**Erneuerbare Wärme beim Ersatz von Wärmeerzeugungsanlagen**
+
+<sup>1</sup> Die in Artikel 38 Absatz 3 kEnG geforderte Anforderung gilt als erfüllt, wenn:
+
+- a) das Projekt einer Standardlösung nach Absatz 2 oder einer Kombination von Standardlösungen nach Absatz 3 entspricht, oder
+- b) das Projekt erfüllt die Anforderungen des Absatzes 4, oder
+- c) das Gebäude mit dem Minergie®-Label ausgezeichnet ist, oder
+- d) das Gebäude mindestens die Klasse D des GEAK für die Gesamtenergieeffizienz erreicht.
+
+<sup>2</sup> Eine der folgenden Standardlösungen wird für den Ersatz des Wärmeerzeugers ausgeführt:
+
+- a) Einbau einer thermischen Solaranlage für Heizung und Wassererwärmung – Bedingung: Kollektorfläche ≥ 7 Prozent der Energiebezugsfläche;
+- b) Anschluss an ein Fernwärmenetz, dessen Hauptenergiequelle zu mindestens 75 Prozent erneuerbar ist;
+- c) Wärmepumpenboiler, der an die Heizanlage angeschlossen ist, und eine Photovoltaikanlage. Bedingung: Leistung der Photovoltaikanlage ≥ 5 Wp/m² Energiebezugsfläche;
+- d) mit erneuerbaren Energien automatisch betriebener Grundlast-Wärmeerzeuger mit bivalent betriebenem fossilem Spitzenlastkessel – Bedingung: Der Grundlast-Wärmeerzeuger wird mit erneuerbaren Energien betrieben (Holzschnitzel, Pellets, Erdwärme, Grundwasser oder Aussenluft) und verfügt über eine thermische Leistung von mindestens 50 Prozent der Leistung, die bei der Auslegungstemperatur der Heizungsanlage benötigt wird;
+- e) Einbau einer Wärmepumpe für Heizung und Wassererwärmung;
+- f) Einbau einer automatischen Holzfeuerung für Heizung und Wassererwärmung.
+
+<sup>3</sup> Mindestens zwei der folgenden Standardlösungen müssen ausgeführt sein oder innerhalb von 3 Jahren nach dem Wärmeerzeugerersatz ausgeführt werden:
+
+- a) kompletter Fensterersatz entlang der thermischen Gebäudehülle – Bedingung: U<sub>w</sub> ≤ 0,7 W/(m²·K) und Abstandhalter in Kunststoff oder Edelstahl;
+- b) Dämmung der Fassade – Bedingung: U<sub>w</sub> ≤ 0,20 W/(m²·K);
+- c) Dämmung des Dachs – Bedingung: U<sub>w</sub> ≤ 0,20 W/(m²·K);
+- d) Einbau einer thermischen Solaranlage für die Wassererwärmung – Bedingung: Kollektorfläche ≥ 2 Prozent der Energiebezugsfläche;
+- e) Einbau einer kontrollierten Wohnungslüftungsanlage mit Wärmerückgewinnung. Der Wirkungsgrad der Wärmerückgewinnung muss mindestens 70 Prozent betragen;
+- f) Einbau eines Wärmepumpenboilers.
+
+<sup>4</sup> Die Verwendung von erneuerbaren Brennstoffen beim Austausch in Form von Gasen oder Flüssigkeiten ist zulässig, sofern die folgenden Anforderungen erfüllt sind:
+
+- a) der Einsatz dieser Brennstoffe bewirkt eine Emissionsminderung im Treibhausgasinventar der Schweiz im laufenden oder in einem der beiden Vorjahre unter Berücksichtigung der nationalen Gewichtungsfaktoren;
+- b) die Brennstoffe stammen nicht aus dem Lebensmittel- oder Energiepflanzenanbau;
+- c) die Zertifikate werden von anerkannten Stellen ausgestellt.
+- d) die Bilanzierung wird von einer anerkannten, zentralen Stelle vorgenommen, deren Daten öffentlich einsehbar sind;
+- e) die Zertifikate für die gesamte Lebensdauer des Heizkessels von 20 Jahren werden einmalig im Rahmen des Baubewilligungsverfahrens für den Wärmeerzeugerersatz vorgelegt;
+- f) die zu erwerbenden Zertifikate in kWh werden wie folgt berechnet: Energiebezugsfläche (m²) × 100 kWh (pro m² und pro Jahr) × 20 Jahre × 0,4[^62-1] .
+
+<sup>5</sup> Jedes Wärmeerzeugungssystem, das eine fossile Energie nutzen kann, unterliegt einer Vormeinung von der Dienststelle in Anwendung von Artikel 54 Absatz 2 kEnG.
+
+<sup>6</sup> Die Anforderungen müssen durch Massnahmen erfüllt werden, die vor Ort angewendet werden.
+
+<sup>7</sup> Ausgenommen von diesen Anforderungen sind Gebäude mit gemischter Nutzung, wenn die Wohnfläche (Kategorien I und II der Norm SIA 380/1) nicht mehr als 150 m² EBF beträgt.
+
+<sup>8</sup> Wenn keiner der in Absatz 1 genannten Vorschläge berücksichtigt wird, muss eine Nachweisführung für die Einhaltung der Reduktion der Deckung des Gesamtwärmebedarfs durch nicht erneuerbare Energien um mindestens 20 Prozent vorgelegt werden.
+
+[^62-1]: Die 100 kWh entsprechen dem voraussichtlichen jährlichen Energiebedarf für Heizung und Wassererwärmung. Der Faktor von 0,4 entspricht dem erforderlichen Anteil an erneuerbaren Energien (20 %) dividiert durch den Gewichtungsfaktor (0,5).
+
+#### Art. 63
+
+**Ersatz von dezentralen elektrischen Heizungen**
+
+<sup>1</sup> Als umfassende Renovierung im Sinne von Artikel 40 kEnG, gilt eine Renovierung, die es ohne technische Schwierigkeiten ermöglicht, im Rahmen der geplanten Arbeiten eine hydraulische Wärmeverteilung zu installieren.
+
+<sup>2</sup> Für die Anwendung von Artikel 40 Absatz 2 Buchstabe e kEnG:
+
+- a) der saisonale Elektrizitätsverbrauch der dezentralen Elektroheizungen bestimmt die in dem betreffenden Zeitraum zu erzeugende Elektrizitätsmenge;
+- b) kann der Verbrauch nachgewiesen werden:
+  - 1\. durch die Vorlage detaillierter Rechnungen der letzten 3 Jahre, oder
+  - 2\. durch die Berechnung der benötigten Strommenge in kWh, indem die gesamte elektrische Leistung in kW der zur Wärmeerzeugung benötigten Geräte mit 2'300 Stunden multipliziert wird, oder
+  - 3\. durch eine Simulation der benötigten Strommenge, die von einem spezialisierten Büro nach den Regeln der Technik für den betreffenden Ort über die gesamte Heizperiode durchgeführt wird;
+- c) muss der Dienststelle die Berechnung der winterlichen Stromerzeugung am Standort mit dem Solarrechner von EnergieSchweiz oder einem anderen anerkannten Tool vorgelegt werden;
+- d) ist eine gleichwertige Stromproduktion durch finanzielle Beteiligung an einer Anlage zur Erzeugung erneuerbarer Energie ausserhalb des Standorts gemäss Artikel 59 möglich.
+
+#### Art. 64
+
+**Eigenstrom- oder Wärmeerzeugung bei bestehenden Gebäuden**
+
+<sup>1</sup> Wenn die Dacheindeckung entfernt wird, muss eine Solaranlage mit einer installierten Leistung von Minimum 20 W pro m² EBF installiert werden, wobei eine Leistung von mehr als 30 kW nicht vorgeschrieben ist.
+
+<sup>2</sup> Die Fläche der Anlage muss jedoch nicht mehr als 80 Prozent der Dachflächen betragen, deren Dacheindeckung hinterlegt ist.
+
+<sup>3</sup> Als energetische Fassadenrenovierung gemäss Artikel 43 Absatz 1 Buchstabe b kEnG, die gleichzeitig mit einer Dachrenovation vorgenommen wird, gilt die Renovation aller Fassaden gegen aussen, deren Wärmeschutz die punktuellen Anforderungen der Norm SIA 380/1 erfüllt.
+
+<sup>4</sup> Als Gebäude, die nur in der Sommersaison genutzt werden, gelten Gebäude, die im Winter nicht zugänglich sind und nur in den Monaten Mai bis Oktober genutzt werden.
+
+<sup>5</sup> In Anwendung von Artikel 43 Absatz 2 EnG muss eine Fläche mit Photovoltaikmodulen errichtet werden, die mindestens 40 Prozent der Dachfläche entspricht oder eine installierte Leistung von mindestens 20 W pro m² EBF aufweist.
+
+<sup>6</sup> Eine gleichwertige Stromproduktion durch finanzielle Beteiligung an einer Anlage zur Erzeugung erneuerbarer Energie, die sich ausserhalb des Standorts befindet, ist nach Artikel 59 möglich.
+
+### 4.4 Vorbildfunktion der öffentlichen Hand
+
+#### Art. 65
+
+**Grundsätze**
+
+<sup>1</sup> Der Kanton und die Gemeinden sorgen dafür, dass die Ziele des Energiegesetzes namentlich in ihrer Gesetzgebungs- und Verwaltungstätigkeit, beim Bau und bei der Nutzung ihrer Güter, insbesondere bei ihren Immobiliengeschäften, bei Subventionierungen, Beteiligungen und Ausschreibungen in vorbildlicher Weise eingehalten werden.
+
+<sup>2</sup> Bauten, Infrastrukturen und Anlagen sind so zu erstellen und auszustatten, dass sie einen minimalen Energieverbrauch gewährleisten und den verbleibenden Energiebedarf soweit wie möglich durch Abwärme sowie erneuerbare und einheimische Energien decken.
+
+<sup>3</sup> Die Wahl der Energieträger erfolgt mit dem Ziel, bis 2050 für die Gemeinden und bis 2035 für die Gebäude und Anlagen des Kantons eine Wärmeversorgung aus 100 Prozent erneuerbaren und einheimischen Quellen zu gewährleisten.
+
+<sup>4</sup> Die Einhaltung der Ziele der Vorbildfunktion kann durch einen umfassenden Ansatz für Energiefragen auf der Ebene eines Gebäudebestands nachgewiesen werden, sofern dieser Ansatz von der Dienststelle validiert wurde.
+
+#### Art. 66
+
+**Immobilienpark**
+
+<sup>1</sup> Gebäude, die sich im Eigentum des Kantons oder der Gemeinden befinden oder an deren Bau, Renovation oder Betrieb sie sich finanziell beteiligen, müssen erhalten:
+
+- a) für neue Gebäude das Label Minergie-P® oder Minergie-A® oder der GEAK A/A;
+- b) für renovierte Gebäude das Label Minergie-Renovation® oder der GEAK B/B.
+
+<sup>2</sup> Die Gesuche um Abweichung von den Anforderungen in Absatz 1 sind Gegenstand eines Beschlusses des Staatsrates, der dem Baubewilligungsgesuch beizulegen ist. Sie können insbesondere gewährt werden für:
+
+- a) denkmalgeschützte Gebäude;
+- b) Gebäude, deren Nutzung die Anwendung der festgelegten Standards nicht rechtfertigt;
+- c) neue oder renovierte Gebäude, bei denen das Erreichen der definierten Standards zu unüberwindbaren Problemen führen würde, z. B. die Notwendigkeit, bessere Dämmwerte als 60 Prozent der Grenzwerte der Norm SIA 380/1 zu verwenden.
+
+<sup>3</sup> Die für den Bau und den Unterhalt des Immobilienparks des Staates Wallis zuständige Dienststelle sorgt für die Einhaltung der oben erwähnten Vorschriften. Sie legt ein Programm zur energetischen Verbesserung des Immobilienparks des Staates Wallis fest und verfolgt den Energieverbrauch.
+
+<sup>4</sup> Bei Architekturwettbewerben für Bauten der öffentlichen Hand müssen die energetischen Aspekte des Gebäudes als Beurteilungskriterium berücksichtigt werden.
+
+#### Art. 67
+
+**Infrastrukturen, Fahrzeugpark und Geräte**
+
+<sup>1</sup> Die Dienststellen, die Infrastrukturen betreiben, legen ein Programm zur Verbesserung der Energieeffizienz fest und überwachen den Energieverbrauch.
+
+<sup>2</sup> Der Kanton beschafft die energieeffizientesten Fahrzeuge und Geräte, die mit der Erfüllung seiner Aufgaben vereinbar sind.
+
+<sup>3</sup> Elektrofahrzeugen wird Vorrang vor Hybrid- oder Verbrennungsmotorfahrzeugen eingeräumt.
+
+#### Art. 68
+
+**Neue öffentliche Beleuchtung**
+
+<sup>1</sup> Neue und erneuerte öffentliche Beleuchtungsanlagen sind nach dem Stand der Technik, insbesondere nach der Norm SN EN 13201 und den Richtlinien für die öffentliche Beleuchtung SLG 202 der Schweizerischen Lichttechnischen Gesellschaft (SLG) zu planen, zu erstellen und zu betreiben. Die Grenzwerte für Energie und Leistung gemäss den dort aufgeführten Beleuchtungsklassen dürfen nicht überschritten werden. Vorbehalten bleiben die geltenden Umweltschutzbestimmungen oder Sicherheitsbestimmungen.
+
+### 4.5 Grossverbraucher: Gebäude und Prozesse
+
+#### Art. 69
+
+**Gebäude mit hohen energetischen Auswirkungen**
+
+<sup>1</sup> Der für die Optimierung der Energieversorgung in Betracht zu ziehende Perimeter wird zuvor in Absprache zwischen dem Projektträger, der Gemeinde und der Dienststelle festgelegt.
+
+<sup>2</sup> Alle Massnahmen, die zur Minimierung des Energiebedarfs des betreffenden Gebäudes durchgeführt werden, und alle Massnahmen, die zur Optimierung der Energieversorgung des betreffenden Perimeters vorgesehen sind, werden in den Unterlagen zum Energiekonzept, die der Dienststelle übermittelt werden, angegeben, die auch Folgendes enthalten müssen:
+
+- a) die Unterlagen zum Energienachweis des betreffenden Gebäudes (Projektnachweise, Energieberechnungen, Projektskizzen, Prinzipschemen, usw.);
+- b) den Plan des betrachteten Quartiers mit Angaben zur installierten Leistung und zu den Energieträgern, die in bestehenden oder geplanten Gebäuden verwendet werden (Heizung, Warmwasser, Lüftung, Kühlung, usw.);
+- c) eine Liste der Massnahmen, die umgesetzt wurden, um die energetischen Auswirkungen des betreffenden Objekts zu begrenzen (verstärkte Isolierung, Wärmerückgewinnung, Optimierung technischer Anlagen, Verbesserung der Effizienz von Anlagen, usw.
+
+#### Art. 70
+
+**Optimierung des Betriebs von grossen Nichtwohnbauten**
+
+<sup>1</sup> Die Betriebsoptimierung gilt für Gebäude der folgenden Kategorien mit einem Stromverbrauch von 0,2 bis 0,5 GWh pro Jahr oder einem Wärmeverbrauch von 1,0 bis 5,0 GWh pro Jahr oder einem EBF, der grösser oder gleich dem unten angegebenen Wert ist:
+
+<table>
+<tr><th>Gebäudekategorien</th><th>Name</th><th>Richtwerte</th></tr>
+<tr><td>III</td><td>Verwaltung</td><td>10'000 m²</td></tr>
+<tr><td>IV</td><td>Schulen</td><td>15'000 m²</td></tr>
+<tr><td>V</td><td>Verkauf</td><td>5'000 m²</td></tr>
+<tr><td>VI</td><td>Restaurants</td><td>5'000 m²</td></tr>
+<tr><td>VII</td><td>Versammlungslokale</td><td>5'000 m²</td></tr>
+<tr><td>VIII</td><td>Spitäler</td><td>5'000 m²</td></tr>
+<tr><td>IX</td><td>Industrie</td><td>5'000 m²</td></tr>
+<tr><td>X</td><td>Lager</td><td>5'000 m²</td></tr>
+<tr><td>XI</td><td>Sportbauten</td><td>5'000 m²</td></tr>
+<tr><td>XII</td><td>Hallenbäder</td><td>2'000 m²</td></tr>
+</table>
+
+<sup>2</sup> Die Optimierung eines Betriebs beinhaltet die Kontrolle der Soll- und Verbrauchswerte von Heizungs-, Lüftungs-, Klima-, Kälte- und Sanitäranlagen sowie von elektrischen Systemen und Automatisierungsgeräten.
+
+<sup>3</sup> Über die Durchführung der Betriebsoptimierung muss ein Bericht erstellt werden, der Informationen über die durchgeführten Optimierungsleistungen und Angaben zu folgenden Punkten enthält:
+
+- a) den Ausgangszustand der Einstellungen und Anweisungen der Anlagen;
+- b) etwaige Anpassungsmassnahmen, die zur Steigerung der Energieeffizienz der Anlagen ergriffen wurden;
+- c) die Entwicklung des Energieverbrauchs;
+- d) den Plan für die Kontrollen und die zeitliche Überwachung der Anlagen;
+- e) die Kosten und die Investitionsrendite für jede Massnahme.
+
+<sup>4</sup> Die Dokumentation über die Analyse und Optimierung der Anlagen muss mindestens 10 Jahre aufbewahrt werden. Auf Verlangen ist sie der Dienststelle vorzulegen.
+
+<sup>5</sup> Eine Überprüfung der Betriebsoptimierung muss alle 5 Jahre durchgeführt werden.
+
+#### Art. 71
+
+**Grundsätze**
+
+<sup>1</sup> Jeder Grossverbraucher, der an einem Standort angesiedelt ist, muss angemessene Massnahmen auf der Grundlage einer Energieverbrauchsanalyse (EVA) ergreifen, wobei die Effizienz, mit der die Energie zum Zeitpunkt der Festlegung der Massnahmen genutzt wird, sowie die wahrscheinliche technische und wirtschaftliche Entwicklung in Bezug auf den spezifischen Fall zu berücksichtigen sind.
+
+<sup>2</sup> Die EVA muss obligatorisch und kumulativ:
+
+- a) von einem externen Spezialisten des Grossverbrauchers durchgeführt werden, der von diesem beauftragt wird und aus einem im Energiebereich tätigen Büro stammt, das vom Unternehmen unabhängig ist;
+- b) sich an die aktuelle Ausgabe des von der EnDK herausgegebenen "Leitfadens für die Analyse des Energieverbrauchs" halten;
+- c) die von der EnDK zur Verfügung gestellten IT-Tools verwenden.
+
+<sup>3</sup> Die Amortisationsdauer gilt als angemessen, wenn sie für gebäudetechnische Anlagen und deren Hülle weniger als 8 Jahre und für einen industriellen Prozess weniger als 4 Jahre beträgt.
+
+#### Art. 72
+
+**Universelle Zielvereinbarung**
+
+<sup>1</sup> Als Alternative zur EVA haben Grossverbraucher die Wahl, sich individuell durch eine Zielvereinbarung mit dem Bund zu verpflichten, die auf eine Verbesserung der Energieeffizienz abzielt.
+
+<sup>2</sup> Eine solche universelle Zielvereinbarung entspricht der Richtlinie vom 30. September 2014 über die mit dem Bund abgeschlossenen Zielvereinbarungen zur Verbesserung der Energieeffizienz. Der Beitritt zur Vereinbarung erfolgt über ein Verfahren, das von der Energieagentur der Wirtschaft (EnAW), von Cleantech Schweiz (Act) oder durch den Beitritt zu einer Gruppe verwaltet wird, die im gleichen Kontext eine Sondervereinbarung mit dem Bund unterzeichnet hat.
+
+<sup>3</sup> In der Vereinbarung müssen genaue Energieziele vereinbart werden, die sich auf Folgendes stützen:
+
+- a) Energieeffizienz für Unternehmen mit einem mittleren bis hohen Energieverbrauch, oder
+- b) einen detaillierten Massnahmenplan für Unternehmen mit einem niedrigen bis mittleren Energieverbrauch.
+
+<sup>4</sup> Nach Ablauf einer Vereinbarung mit dem Bund, wenn das Unternehmen weiterhin ein Grossverbraucher ist und die Vereinbarung nicht erneuern will, gilt Artikel 71.
+
+<sup>5</sup> Ab dem Zeitpunkt, an dem die Verbraucher nicht mehr unter einer Vereinbarung stehen, müssen ihre Gebäude und Anlagen, die während der Gültigkeit der Vereinbarung errichtet wurden, innerhalb von 3 Jahren alle Anforderungen des kEnG und dieser Verordnung vollständig erfüllen.
+
+## 5 Finanzhilfen und Fördermassnahmen
+
+### 5.1 Umsetzung der Finanzhilfen
+
+#### Art. 73
 
 **Grundsatz**
 
-<sup>1</sup> Bauten und Anlagen, die im Besitz des Kantons, der Gemeinden oder anderer öffentlicher Körperschaften sind, sollen beispielhaft gebaut und betrieben werden.
+<sup>1</sup> Jede natürliche oder juristische Person des privaten oder öffentlichen Rechts kann in den Genuss einer Finanzhilfe nach Artikel 47 kEnG kommen.
 
-<sup>2</sup> Insbesondere werden die Bauten und Anlagen so gebaut, dass der Energieverbrauch minimal ist und dass eine höchstmögliche Deckung des verbleibenden Energiebedarfs mittels Abwärme und erneuerbarer Energien erbracht wird.
+#### Art. 74
 
-#### Art. 39
+**Gesuch um Finanzhilfe**
 
-**Vom Kanton erbaute oder subventionierte Gebäude**
+<sup>1</sup> Das Gesuchsdossier für eine Finanzhilfe muss alle Dokumente und Informationen enthalten, die für die Prüfung der gesetzlichen, technischen, wirtschaftlichen und finanziellen Aspekte erforderlich sind, einschliesslich aller weiteren erwarteten Subventionen.
 
-<sup>1</sup> Neubauten und bedeutende Renovationen die vom Kanton ausgeführt werden, haben energietechnischen Anforderungen und erhöhten oder zumindest gleichwertigen Komfortanforderungen gemäss dem Reglement des Minergie-Standards zu entsprechen.
+<sup>2</sup> Liegt ein entsprechendes Gesuchsformular vor, ist dieses zu verwenden.
 
-<sup>2</sup> Neubauten und bedeutende Renovationen im öffentlichen Interesse die vom Kanton subventioniert werden, haben dem Minergie-Standard zu entsprechen. Andernfalls verlieren diese Bauten, nach Ansetzung einer genügenden Nachbesserungsfrist, die entsprechenden Subventionen.
+<sup>3</sup> Das Gesuch muss der Dienststelle vorgelegt werden.
 
-<sup>3</sup> Ausnahmen im Sinne von Artikel 7 werden vom zuständigen Departement behandelt. Sie können gewährt werden:
+<sup>4</sup> Auf Gesuche bereits in Angriff genommener oder ausgeführter Arbeiten wird nicht eingetreten.
 
-- a) für geschützte Bauten;
-- b) für Bauten, deren Nutzungszweck die Anwendung des Minergie-Standards nicht rechtfertigt;
-- c) für Renovationen bei denen der Einbau einer kontrollierten Lüftung unverhältnismässig ist;
-- d) für Neubauten oder Renovationen, die an eine bestehende mit fossilen Energien betriebene Fernwärmeheizung angeschlossen werden und bei welchen die Erreichung des Minergie-Standards Isolationswerte verlangen würde, welche besser als 65 Prozent der Grenzwerte der Norm SIA 380/1 sind.
+<sup>5</sup> Bei Gesuchen zur Förderung des Labels Minergie-P® oder Minergie-A® sowie für das Erreichen des GEAK A/A, wird für Neubauten, Wiederaufbauten, Umbauten oder Ausbauten von Gebäuden nicht eingetreten, wenn der Stand der Ausführung der Arbeiten soweit ist, dass das Gebäude bereits die angestrebte energetische Qualität erfüllt.
 
-## 8 Qualitätsstandards im Gebäudebereich
+#### Art. 75
 
-#### Art. 40
+**Höhe und Bedingungen der Finanzhilfe**
+
+<sup>1</sup> Die Höhe der Finanzhilfe ist abhängig vom Interesse und der Bedeutung des Vorhabens im Rahmen der kantonalen Energiepolitik.
+
+<sup>2</sup> Die Dienststelle schlägt der zuständigen Behörde die Bedingungen, die Form und den Betrag der Finanzhilfe vor.
+
+<sup>3</sup> Darüber hinaus sind die Bestimmungen des Subventionsgesetzes anwendbar. Grundsätzlich besteht auf Finanzhilfen kein Rechtsanspruch.
+
+#### Art. 76
+
+**Auszahlung**
+
+<sup>1</sup> Die Auszahlung der Finanzhilfe erfolgt nach Abschluss der Arbeiten und nach Vorlage der administrativen und technischen Nachweise.
+
+<sup>2</sup> Vorhandene Abnahme- und Inbetriebnahmeprotokolle können zur Vervollständigung des Dossiers verlangt werden.
+
+<sup>3</sup> Ausnahmsweise können Anzahlungen aufgrund anerkannter Situationsabrechnungen geleistet werden.
+
+#### Art. 77
+
+**Auskunftspflicht**
+
+<sup>1</sup> Der Gesuchssteller für eine Finanzhilfe gewährt der Dienststelle sowohl den freien Zugang zu allen Dokumenten im Zusammenhang des Entscheids als auch den freien Zugang zu den erzielten Ergebnissen der unterstützten Massnahmen.
+
+#### Art. 78
+
+**Projektänderung**
+
+<sup>1</sup> Jede Änderung eines Projektes, welches Gegenstand einer Entscheidung um Finanzhilfe war, muss der Dienststelle vorgelegt und durch diese genehmigt werden.
+
+#### Art. 79
+
+**Gültigkeit**
+
+<sup>1</sup> Ohne gegenteilige Bestimmung in einer Richtlinie des Departements oder in der Entscheidung über die Finanzhilfe verliert die Zusage der Finanzhilfe ihre Gültigkeit:
+
+- a) wenn die Arbeiten nicht binnen eines Jahres seit dem Entscheid durch die zuständige Instanz begonnen wurden und wenn sie nicht in einem Zeitraum von 2 Jahren beendet wurden;
+- b) wenn die Abrechnung nicht am darauffolgenden Jahr des Arbeitsabschlusses vorgelegt wird.
+
+#### Art. 80
+
+**Rückzahlung**
+
+<sup>1</sup> Zu Unrecht bezogene Finanzhilfen werden zurückgefordert. Die Rückforderung erfolgt auch, wenn eine Anlage oder Massnahme innerhalb von 10 Jahren aufgegeben oder ihrem Zweck entfremdet wird, oder wenn Bedingungen und Auflagen nicht eingehalten werden.
+
+<sup>2</sup> Die Rückerstattungsansprüche verjähren mit Ablauf eines Jahres, nachdem die zuständigen Organe des Kantons davon Kenntnis erhalten haben, in jedem Fall aber mit dem Ablauf von 10 Jahre seit der Entstehung des Anspruches. Für die Unterbrechung der Verjährung gelten die Bestimmungen des schweizerischen Obligationenrechts (OR).
+
+<sup>3</sup> Bei Versuchsanlagen, die nicht zu den gewünschten Resultaten führten, kann auf die Zurückerstattung ganz oder teilweise verzichtet werden. Das für die Energie zuständige Departement trifft die dazu nötigen Vorkehrungen.
+
+### 5.2 Fördermassnahmen und Unterstützung
+
+#### Art. 81
+
+**Fördermassnahmen**
+
+<sup>1</sup> Fördermassnahmen im Energiebereich bestehen für:
+
+- a) Information und Beratung der Spezialisten und der Öffentlichkeit;
+- b) Aus- und Weiterbildung sowie berufliche Umschulung;
+- c) Studien;
+- d) Forschung und Entwicklung neuer Technologien;
+- e) beispielhafte Projekte hinsichtlich der sparsamen und effizienten Energienutzung, der Einsatz von erneuerbarer Energiequellen, die Speicherung erneuerbarer Energie und der Nutzung der Abwärmenutzung.
+
+#### Art. 82
+
+**Unterstützung**
+
+<sup>1</sup> Die Unterstützung wird in folgenden Formen gewährt:
+
+- a) Leistungen durch die Dienststelle;
+- b) finanzielle Beteiligung an Projekten, die zusammen mit dem Bundesamt für Energie, mit anderen Kantonen, anderen kantonalen Dienststellen, den Gemeinden oder privaten Organisationen ausgearbeitet werden;
+- c) Finanzhilfe in Form eines nichtrückzahlbaren Beitrags, eines zinslosen Darlehens oder einer Bürgschaft bei Projekten ohne direkte Beteiligung der Dienststelle.
+
+#### Art. 83
+
+**Information und Beratung**
+
+<sup>1</sup> Als Informationstätigkeiten gelten namentlich:
+
+- a) die Verteilung des für die breite Bevölkerung vorgesehenen Informationsmaterials;
+- b) die Erarbeitung einer Zeitung, Zeitschrift oder eines Rundschreibens;
+- c) die Öffentlichkeitsarbeit zur Erreichung einer medialen Berichterstattung;
+- d) die Einrichtung eines Messe- oder Ausstellungsstandes;
+- e) die Durchführung von Tagen der offenen Türe;
+- f) eine Veranstaltung oder eine andere Aktivität zum Thema Energie.
+
+<sup>2</sup> Als Beratungstätigkeiten gelten namentlich:
+
+- a) ein projektbezogenes Gespräch;
+- b) eine detaillierte, in einem Bericht festgehaltenen Projektprüfung;
+- c) eine Projektbegleitung.
+
+#### Art. 84
+
+**Ausbildung, Weiterbildung und Umschulung**
+
+<sup>1</sup> Als Ausbildungs-, Weiterbildungs- und Umschulungsaktivitäten gelten namentlich:
+
+- a) die Durchführung von Kursen, Seminare und Ausbildungswerkstätten;
+- b) die Bereitstellung von Unterrichtsmaterial;
+- c) die Durchführung von Energietagen oder -wochen in Unternehmungen.
+
+#### Art. 85
+
+**Studien**
+
+<sup>1</sup> Als Studien in diesem Sinne gelten namentlich:
+
+- a) Machbarkeitsstudien;
+- b) Marktstudien;
+- c) Funktionsanalyse einer bestimmten Anlage;
+- d) die Ausarbeitung einer räumlichen Energieplanung;
+- e) Grundlagenstudien zur Energiewirtschaft.
+
+#### Art. 86
+
+**Forschung und Entwicklung**
+
+<sup>1</sup> Die Unterstützungsleistungen für Forschungs- und Entwicklungsaktivitäten werden subsidiär zu den Leistungen der verantwortlichen Instanzen zur Förderung der Energieforschung und des Bundesamtes für Energie gewährt.
+
+<sup>2</sup> Versuchs- und Demonstrationsprojekte im Energiebereich können von einer Unterstützung profitieren, wenn:
+
+- a) sie die rationelle Energienutzung oder die Nutzung von erneuerbaren Energien fördern;
+- b) das Anwendungspotential und die Erfolgswahrscheinlichkeit ausreichend genug sind;
+- c) das Projekt mit der kantonalen Energiepolitik vereinbar ist;
+- d) die erzielten Resultate der Öffentlichkeit zugänglich sind und den interessierten Kreisen mitgeteilt werden.
+
+<sup>3</sup> Absatz 2 ist analog anwendbar auf die Unterstützung von Analysen und Feldversuchen.
+
+#### Art. 87
+
+**Beispielhafte Bauten und Anlagen**
+
+<sup>1</sup> Das Departement führt Förderungsprogramme ein, die darauf abzielen, Massnahmen zu unterstützen, zur:
+
+- a) effizienten Energienutzung in Gebäuden;
+- b) Erhöhung der Energieeffizienz an Anlagen;
+- c) die Erzeugung von Energie aus erneuerbaren Quellen;
+- d) Abwärmenutzung.
+
+<sup>2</sup> Die Förderprogramme mit ihren jeweiligen Zulassungsbedingungen, die Form sowie der Betrag der Finanzhilfen sind in den durch das Departement erlassenen Richtlinien aufgeführt.
+
+<sup>3</sup> Projekte, welche aufgrund ihrer Aussergewöhnlichkeit, nicht Gegenstand der Förderungsprogramme sein können, können ebenfalls unterstützt werden. Die Finanzhilfe berücksichtigt die Rentabilität des Projekts und übersteigt nicht 20 Prozent der Investitionskosten.
+
+#### Art. 88
 
 **Bonus auf die Ausnützungsziffer**
 
-<sup>1</sup> Gesuchsteller einer Baubewilligung für ein Minergie-Gebäude oder zum Umbau eines bestehenden Gebäudes in ein Minergie-Gebäude haben Anrecht auf den im Artikel 20 Absatz 1 des Energiegesetzes vom 15. Januar 2004 vorgesehenen Bonus auf die Ausnützungsziffer.
+<sup>1</sup> Zusätzlich zu Gebäuden, die nach den Anforderungen der Labels MINERGIE-P® oder Minergie-A® oder nach den Anforderungen zur Erreichung der Klassen A/A des GEAK gebaut oder renoviert wurden, kann die Dienststelle auch andere nationale oder international anerkannte Energiequalitätszertifikate anerkennen.
 
-<sup>2</sup> Bei Vorlegen eines anderen Qualitäts-Energie-Zertifikats, national oder international anerkannt, kann das Departement nach Analyse der Gleichwertigkeit entscheiden, ob ein Bonus auf die Ausnützungsziffer gemäss Artikel 20 Absatz 1 des Energiegesetzes, erteilt werden kann.
+#### Art. 89
 
-<sup>3</sup> In Zonen ohne Ausnützungsziffer gewähren die Gemeinden andere Fördermassnahmen sinngemäss und im Rahmen des Möglichen.
+**Kostenlose Nutzung des Grund- und Oberflächengewässer**
 
-#### Art. 41
+<sup>1</sup> Öffentliche Grund- und Oberflächengewässer dürfen vom Empfänger der Wasserentnahmebewilligung unentgeltlich zu thermoenergetischen Zwecken für Gebäude mit sehr hoher Energieeffizienz genutzt werden, insbesondere:
 
-**Nutzung des Grundwassers**
+- a) bei Neubauten solche mit einem Label Minergie-P® oder Minergie-A® oder solche mit einem GEAK A/A.
+- b) bei bestehenden Gebäuden solche mit einem Label Minergie-Renovation® oder mit einem GEAK B/B.
 
-<sup>1</sup> Grundwasser kann unentgeltlich zu thermischen Zwecken für Minergie und Minergie-P-Gebäude genutzt werden. Die Bestimmungen des kantonalen Gesetzes über die Nutzbarmachung der Wasserkräfte und der Gewässerschutzgesetzgebung bleiben vorbehalten.
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen des kantonalen Gesetzes über die Nutzbarmachung der Wasserkräfte und der Gewässerschutzgesetzgebung.
 
-## 9 Vollzug
+## 6 Vollzug
 
-#### Art. 42
+#### Art. 90
 
-**Baubewilligungsgesuch**
+**Energienachweis**
 
-<sup>1</sup> Die Einhaltung der Bestimmungen dieser Verordnung, sowie allfällige Ausnahmen werden mittels eines Energienachweises erbracht.
+<sup>1</sup> Die Einhaltung der Bestimmungen dieser Verordnung werden mittels eines Energienachweises erbracht.
 
 <sup>2</sup> Der Nachweis wird anhand der entsprechenden Formulare und den Richtlinien der Dienststelle erbracht. Der Nachweis ist sowohl vom Bauherrn als auch vom Projektverfasser zu unterschreiben.
 
-<sup>3</sup> Ein Minergie-Zertifikat gilt als Energienachweis für die Anforderungen von Artikel 9 ''Anforderungen und Nachweis winterlicher Wärmeschutz'' und für die Anforderungen von Kapitel 3 ''Höchstanteil an nicht erneuerbaren Energien bei Neubauten''.
-
-#### Art. 43
+#### Art. 91
 
 **Baubewilligungspflichtige Projekte**
 
-<sup>1</sup> Bei den Bauten und Anlagen welche aufgrund der Baugesetzgebung einer Baubewilligung unterliegen, ist der Energienachweis integrierender Bestandteil des Baugesuches.
+<sup>1</sup> Wenn die Gemeinde für den Vollzug die notwendigen Kenntnisse nicht hat und diesen nicht an Dritte delegiert, holt sie für die folgenden Bestimmungen bei der Dienststelle eine Vormeinung ein: 30 "Kühlräume", 31 "Gewächshäuser und beheizte Traglufthallen", 42 "Kühlung, Be- und Entfeuchtung", 43 "Elektrizitätsbedarf für die Beleuchtung grosser Gebäude" sowie die Artikel 47, 48 und 49 über "Beheizte Schwimmbäder".
 
-<sup>2</sup> Das Dossier wird im Rahmen des ordentlichen Baubewilligungsverfahrens behandelt.
-
-<sup>3</sup> Wenn die Gemeinde für den Vollzug die notwendigen Kenntnisse nicht hat und diesen nicht an Dritte delegiert, holt sie für die folgenden Bestimmungen bei der Dienststelle eine Vormeinung ein: "Kühlräume" (Art. 11), "Gewächshäuser und beheizte Traglufthallen" (Art. 12), "Heizungen im Freien" (Art. 24), "Kühlung, Be- und Entfeuchtung" (Art. 27), "Elektrische Energie in Gebäuden" (Art. 28), und "Beheizte Schwimmbäder" (Art. 29, 30, 31 und 32).
-
-<sup>4</sup> Eine Vormeinung der Dienststelle muss bei Ausnahmebewilligungen abgegeben werden.
-
-#### Art. 44
+#### Art. 92
 
 **Nicht baubewilligungspflichtige Projekte**
 
-<sup>1</sup> Wenn für ein Projekt keine Baubewilligung oder Energienachweis erforderlich ist, achtet der Bauherr selber auf die Einhaltung der Bestimmungen der Gesetzgebung im Energiebereich.
+<sup>1</sup> Wenn für ein Projekt keine Baubewilligung oder Energienachweis erforderlich ist, achtet der Bauherr selbst auf die Einhaltung der Bestimmungen der Gesetzgebung im Energiebereich.
 
-#### Art. 45
+#### Art. 93
 
 **Informations-Anfrage bei den Verteilern von leitungsgebundener Energie**
 
-<sup>1</sup> Für Projekte, bei welchen eine Heizungs-, Kühlungs- und/oder Warmwassererzeugungsanlage mittels leitungsgebundener Energie (Gas, Elektrizität, Fernwärme, usw.) vorgesehen ist, muss sich der Bauherr oder sein Auftragnehmer vor der Baueingabe über die technischen Möglichkeiten und Anschlussbedingungen bei den Verteilern von leitungsgebundener Energie informieren. Diese Bedingung gilt insbesondere bei Wärmepumpen, Kühlanlagen, Heizkesseln, Warmwasserboilern, usw.
+<sup>1</sup> Für Projekte, bei welchen eine Heizungs-, Kühlungs- und/oder Warmwassererzeugungsanlage mittels leitungsgebundener Energie (Gas, Elektrizität, Fernwärme, usw.) vorgesehen ist, muss sich der Bauherr oder sein Auftragnehmer vor der Baueingabe über die technischen Möglichkeiten und Anschlussbedingungen bei den Verteilern von leitungsgebundener Energie informieren. Diese Bedingung gilt insbesondere bei Wärmepumpen, Kühlanlagen, Heizkesseln, Warmwasserboilern, Photovoltaikanlagen, usw.
 
 <sup>2</sup> Die gleiche Bedingung gilt beim Ersatz einer Anlage, auch wenn diese keiner Baubewilligung unterliegt.
 
-#### Art. 46
-
-**Gebühren**
-
-<sup>1</sup> Gebühren und Kosten für die Nachweise, welche Bestandteil des Baugesuchs sind, werden im Rahmen der Baugesetzgebung festgelegt.
-
-<sup>2</sup> Im Rahmen der Vollzugskontrolle dieser Verordnung erhebt die Dienststelle beim Vorliegen von Mängeln eine Gebühr zwischen 100 und 500 Franken beim Bauherrn.
-
-<sup>3</sup> Die Dienststelle legt die Gebühren aufgrund des Umfangs und des Schwierigkeitsgrads der Dossiers sowie der zur Prüfung der Dossiers benötigten Zeit fest.
-
-#### Art. 47
-
-**Vollzugsaufgaben an Private**
-
-<sup>1</sup> Die Gemeinde kann Dritte oder private Organisationen zum Vollzug beiziehen und diesen namentlich Prüf-, Kontroll- und Überwachungsaufgaben übertragen.
-
-<sup>2</sup> Der Mandatsbeauftragte muss über die notwendigen spezialisierten Kenntnisse und Eignungen verfügen.
-
-#### Art. 48
+#### Art. 94
 
 **Konformitätsbestätigung**
 
 <sup>1</sup> Nach Abschluss der Arbeiten hat der Bauherr und der Projektverantwortliche gegenüber der zuständigen Behörde eine Bestätigung abzugeben, dass die Ausführung dem bewilligten Projekt entspricht.
 
-#### Art. 49
+#### Art. 95
 
-**Aufhebung**
+**Daten zum jährlichen Monitoring**
 
-<sup>1</sup> Alle mit der vorliegenden Verordnung in Widerspruch stehenden Bestimmungen werden aufgehoben, dies nach dem Inkrafttreten der jeweiligen Bestimmungen.
+<sup>1</sup> Die Dienststelle stellt eine Informatikdatei für die jährliche Übermittlung von Daten über die Kontrolle der Baubewilligungsdossiers, die Überwachung der durchgeführten Bauarbeiten und den Ersatz von Wärmeerzeugungsanlagen zur Verfügung.
 
-#### Art. 50
+#### Art. 96
 
-**Inkrafttreten**
+**Gebühren**
 
-<sup>1</sup> Die vorliegende Verordnung, mit Ausnahme der Artikel 14, 15, 16, 19, 28 und 31, tritt am 1. März 2011 in Kraft.
+<sup>1</sup> Für die Ausarbeitung einer Stellungnahme im Sinne von Artikel 54 Absatz 2 und 3 kEnG, sofern diese negativ ausfällt, kann die Dienststelle über die betroffenen Gemeindeverwaltungen eine Gebühr erheben, deren Höhe zwischen 100 und 500 Franken liegt.
 
-<sup>2</sup> Die Artikel 14, 15, 16, 19, 28 und 31 treten am 1. Juni 2011 in Kraft.
+<sup>2</sup> Die Rechnungen für die Kosten werden den Gemeindeverwaltungen zugestellt; 5 Prozent des Betrages werden für die Kosten des Inkassos durch die Gemeinden abgezogen.
 
-## A1 Anhang 1 zu Artikel 20 Absatz 1
+<sup>3</sup> Im Rahmen der Vollzugskontrolle dieser Verordnung und sofern ein Mangel festgestellt worden ist, erhebt das Amt vom Bauherrn eine Gebühr, deren Betrag zwischen 100 und 1'000 Franken liegt.
 
-#### Art. A1-1
+<sup>4</sup> Die Dienststelle setzt die Gebühr nach der Bedeutung und den Schwierigkeiten des Dossiers sowie nach der für die Prüfung des Dossiers benötigten Zeit fest.
 
-<sup>1</sup> Minimale Dämmstärke bei Wassererwärmern sowie Warmwasser- und Wärmespeichern:
-
-<table>
-<tr><th>Speicherinhalt in Litern</th><th>Dämmstärke in mm - bei λ &gt; 0.03 W/mK bis λ ≤ 0.05 W/mK</th><th>Dämmstärke in mm - bei λ ≤ 0.03 W/mK</th></tr>
-<tr><td>bis 400</td><td>110</td><td>90</td></tr>
-<tr><td>&gt; 400 bis 2000</td><td>130</td><td>100</td></tr>
-<tr><td>&gt; 2000</td><td>160</td><td>120</td></tr>
-</table>
-
-## A2 Anhang 2 zu Artikel 21 Absatz 2
-
-#### Art. A2-1
-
-<sup>1</sup> Minimale Dämmstärke bei Verteilleitungen der Heizung sowie bei Warmwasserleitungen:
-
-<table>
-<tr><th>Rohrnennweite [DN]</th><th>Rohrnennweite [Zoll]</th><th>Dämmstärke in mm - bei λ &gt; 0.03 W/mK bis λ ≤ 0.05 W/mK</th><th>Dämmstärke in mm - bei λ ≤ 0.03 W/mK</th></tr>
-<tr><td>10-15</td><td>3/8" - 1/2"</td><td>40</td><td>30</td></tr>
-<tr><td>20-32</td><td>3/4" - 11/4"</td><td>50</td><td>40</td></tr>
-<tr><td>40-50</td><td>11/2" - 2"</td><td>60</td><td>50</td></tr>
-<tr><td>65-80</td><td>21/2" - 3"</td><td>80</td><td>60</td></tr>
-<tr><td>100-150</td><td>4" - 6"</td><td>100</td><td>80</td></tr>
-<tr><td>175-200</td><td>7" - 8"</td><td>120</td><td>80</td></tr>
-</table>
-
-## A3 Anhang 3 zu Artikel 21 Absatz 4
-
-#### Art. A3-1
-
-<sup>1</sup> Maximale UR-Werte für erdverlegte Leitungen:
-
-<table>
-<tr><th>DN</th><th>20</th><th>25</th><th>32</th><th>40</th><th>50</th><th>65</th><th>80</th><th>100</th><th>125</th><th>150</th><th>175</th><th>200</th></tr>
-<tr><td></td><td>3/4"</td><td>1"</td><td>5/4"</td><td>11/2"</td><td>2"</td><td>21/2"</td><td>3"</td><td>4"</td><td>5"</td><td>6"</td><td>7"</td><td>8"</td></tr>
-</table>
-
-<sup>2</sup> Für starre Rohre [W/mK]:
-
-<table>
-<tr><th>Uc</th><th>0.14</th><th>0.17</th><th>0.18</th><th>0.21</th><th>0.22</th><th>0.25</th><th>0.27</th><th>0.28</th><th>0.31</th><th>0.34</th><th>0.36</th><th>0.37</th></tr>
-</table>
-
-<sup>3</sup> Für flexible Rohre sowie Doppelrohre [W/mK]:
-
-<table>
-<tr><th>Uc</th><th>0.16</th><th>0.18</th><th>0.18</th><th>0.24</th><th>0.27</th><th>0.27</th><th>0.28</th><th>0.31</th><th>0.34</th><th>0.36</th><th>0.38</th><th>0.40</th></tr>
-</table>
-
-## A4 Anhang 4 zu Artikel 26 Absatz 1
-
-#### Art. A4-1
-
-<sup>1</sup> Minimale Dämmstärken bei Luftkanälen, Rohren und Geräten von Lüftungs- und Klimaanlagen:
-
-<table>
-<tr><th>Temperaturdifferenz in K im Auslegungsfall</th><th>5</th><th>10</th><th>15 oder mehr</th></tr>
-<tr><td>Dämmstärke in mm bei λ &gt; 0.03 W/mK bis λ ≤ 0.05 W/mK</td><td>30</td><td>60</td><td>100</td></tr>
-</table>
-
-CSW BO/Abl. 7/2011
+CSW RO/AGS 2024-089
