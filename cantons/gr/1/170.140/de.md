@@ -4,13 +4,12 @@ number: "170.140"
 title: Geschäftsordnung des Grossen Rates
 short: GGO
 language: de
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-08-30
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3467/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3467/pdf_file"
 
 (GGO)
 
-Vom 08.12.2005 (Stand 01.09.2024)
+Vom 08.12.2005 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -310,6 +309,7 @@ beschliesst:
 - c) prüft im Rahmen der Oberaufsicht die Geschäftsberichte/Jahresrechnungen von selbständigen öffentlich-rechtlichen Anstalten und von anderen Institutionen, an welche der Kanton erhebliche Beiträge leistet;
 - d) erstattet einen Mitbericht zum Finanzplan;
 - e) …
+- f) erstattet der Kommission für Justiz und Sicherheit einen Mitbericht, wenn der Gesamtstellenumfang für die Mitglieder des Obergerichts oder für die hauptamtlichen Mitglieder eines oder mehrerer Regionalgerichte erhöht werden soll.
 
 <sup>4</sup> Die Geschäftsprüfungskommission kann weiter:
 
@@ -353,7 +353,7 @@ beschliesst:
 
 **Kommission für Justiz und Sicherheit 1. Grösse, Aufgaben und Zuständigkeiten**
 
-<sup>1</sup> Die Kommission für Justiz und Sicherheit prüft und überwacht die Geschäftsführung der kantonalen Gerichte sowie der Aufsichtskommissionen über die Notare und die Rechtsanwälte und berät deren Geschäftsberichte vor. Sie besteht aus elf Mitgliedern.
+<sup>1</sup> Die Kommission für Justiz und Sicherheit prüft und überwacht die Geschäftsführung des Obergerichts, des Justizgerichts sowie der unter der Aufsicht des Obergerichts stehenden Behörden und berät deren Geschäftsberichte vor. Sie besteht aus elf Mitgliedern.
 
 <sup>2</sup> Sie berät zuhanden des Grossen Rates insbesondere folgende Angelegenheiten vor:
 
@@ -365,7 +365,10 @@ beschliesst:
 
 <sup>3</sup> Sie nimmt Stellung zu allen die Justiz betreffenden Berichten und Vorlagen und kann dem Grossen Rat Antrag stellen.
 
-<sup>4</sup> Sie nimmt zu Stellenschaffungs- und Stellungsumwandlungsgesuchen Stellung, soweit diese die kantonalen Gerichte sowie die Aufsichtskommissionen über die Notare und Rechtsanwälte betreffen. Zu Nachtragskrediten, soweit diese die kantonalen Gerichte sowie die Aufsichtskommissionen über die Notare und Rechtsanwälte betreffen, nimmt sie zuhanden der Geschäftsprüfungskommission Stellung.
+<sup>4</sup> Sie nimmt:
+
+- a) zuhanden des Obergerichts Stellung, wenn das Obergericht die Mittel für die Mitarbeitenden des Obergerichts, des Justizgerichts oder der weiteren richterlichen Behörden erhöhen will;
+- b) zuhanden der Geschäftsprüfungskommission zu Nachtragskrediten des Obergerichts und des Justizgerichts Stellung.
 
 <sup>5</sup> Sie entscheidet Beschwerden gegen die Regierungsratswahlen.
 
@@ -416,7 +419,7 @@ beschliesst:
 
 **Parlamentarische Untersuchungskommission**
 
-<sup>1</sup> Die näheren Bestimmungen über die Organisation der Untersuchungskommission und die Durchführung der Untersuchung erlässt der Grosse Rat im Rahmen des Einsetzungsbeschlusses. Er regelt insbesondere die Verfahrensrechte der Betroffenen und die Stellung der Regierung beziehungsweise der obersten Gerichtsbehörde im Verfahren.
+<sup>1</sup> Die näheren Bestimmungen über die Organisation der Untersuchungskommission und die Durchführung der Untersuchung erlässt der Grosse Rat im Rahmen des Einsetzungsbeschlusses. Er regelt insbesondere die Verfahrensrechte der Betroffenen und die Stellung der Regierung beziehungsweise des Obergerichts im Verfahren.
 
 ### 2.5. Ratsdienste und Protokollführung
 

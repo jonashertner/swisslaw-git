@@ -4,13 +4,12 @@ number: "170.140"
 title: Regolamento organico del Gran Consiglio
 short: ROGC
 language: it
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-08-30
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3467/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3468/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3467/pdf_file"
 
 (ROGC)
 
-del 08.12.2005 (stato 01.09.2024)
+del 08.12.2005 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -310,6 +309,7 @@ decide:
 - c) esamina nell'ambito dell'alta vigilanza i rapporti di gestione/conti an-nuali di istituzioni indipendenti di diritto pubblico alle quali il Cantone versa importanti sussidi;
 - d) presenta un corapporto sul piano finanziario;
 - e) …
+- f) presenta un corapporto alla Commissione di giustizia e sicurezza se si intende aumentare il volume di impiego complessivo per i giudici del Tribunale d'appello o per i giudici a titolo principale di uno o più tribunali regionali.
 
 <sup>4</sup> La Commissione della gestione può inoltre:
 
@@ -353,7 +353,7 @@ decide:
 
 **Commissione di giustizia e sicurezza 1. Grandezza, compiti e competenze**
 
-<sup>1</sup> La Commissione di giustizia e sicurezza esamina e sorveglia l'attività dei tribunali cantonali, nonché delle commissioni di vigilanza sui notai e sugli avvocati ed esamina in via preliminare i loro rapporti di gestione. Essa si compone di 11 membri.
+<sup>1</sup> La Commissione di giustizia e sicurezza verifica e monitora la gestione del Tribunale d'appello, del Tribunale della magistratura nonché delle autorità soggette alla vigilanza del Tribunale d'appello e svolge il dibattito preliminare relativo ai loro rapporti di gestione. Essa è composta da undici membri.
 
 <sup>2</sup> Essa esamina in via preliminare all'indirizzo del Gran Consiglio in particolare le seguenti pratiche:
 
@@ -365,7 +365,10 @@ decide:
 
 <sup>3</sup> Essa prende posizione su tutti i rapporti e le proposte concernenti la giustizia e può formulare proposte all'indirizzo del Gran Consiglio.
 
-<sup>4</sup> Essa prende posizione su domande di creazione di impieghi e di trasformazione di impieghi, nella misura in cui tali domande riguardino i tribunali cantonali, nonché le commissioni di vigilanza sui notai e sugli avvocati. In merito a crediti aggiuntivi, essa prende posizione all'indirizzo della Commissione della gestione, nella misura in cui questi crediti riguardino i tribunali cantonali, nonché le commissioni di vigilanza sui notai e sugli avvocati.
+<sup>4</sup> Essa:
+
+- a) prende posizione a destinazione del Tribunale d'appello, se il Tribunale d'appello intende aumentare i mezzi per i collaboratori del Tribunale d'appello, del Tribunale della magistratura o delle altre autorità giudiziarie;
+- b) prende posizione a destinazione della Commissione della gestione riguardo a crediti suppletivi del Tribunale d'appello e del Tribunale della magistratura.
 
 <sup>5</sup> Essa decide in merito a ricorsi contro le elezioni dei Consiglieri di Stato.
 
@@ -416,7 +419,7 @@ decide:
 
 **Commissione parlamentare d'inchiesta**
 
-<sup>1</sup> Il Gran Consiglio emana nell'ambito del decreto di nomina disposizioni più dettagliate circa l'organizzazione della Commissione d'inchiesta e l'esecuzione dell'inchiesta. Esso disciplina in particolare i diritti procedurali degli interessati e la funzione del Governo rispettivamente della massima autorità giudiziaria nel procedimento.
+<sup>1</sup> Il Gran Consiglio emana nell'ambito del decreto di nomina disposizioni più dettagliate circa l'organizzazione della Commissione d'inchiesta e l'esecuzione dell'inchiesta. Esso disciplina in particolare i diritti procedurali degli interessati e la funzione del Governo rispettivamente del Tribunale d'appello nel procedimento.
 
 ### 2.5. Servizi del gran consiglio e tenuta del protocollo
 

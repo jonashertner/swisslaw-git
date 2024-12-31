@@ -4,13 +4,12 @@ number: "170.140"
 title: Urden da gestiun dal cussegl grond
 short: UGCG
 language: rm
-version: 2024-09-01
-valid_until: 2024-12-31
-version_adopted: 2024-08-30
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3467/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3468/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3467/pdf_file"
 
 (UGCG)
 
-dals 08-12-2005 (versiun dals 01-09-2024)
+dals 08-12-2005 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -312,6 +311,7 @@ concluda:
 - c) examinescha en il rom da la surveglianza suprema ils rapports da gestiun respectivamain ils quints annuals d'instituts autonoms da dretg public e d'autras instituziuns che survegnan contribuziuns considerablas dal chantun;
 - d) fa in cunrapport tar il plan da finanzas;
 - e) …
+- f) suttametta in cunrapport a la Cumissiun per giustia e segirezza, sch'il volumen total da plazzas per las commembras ed ils commembers da la Dretgira superiura u per las commembras ed ils commembers d'ina u da pliras dretgiras regiunalas en uffizi principal duai vegnir auzà.
 
 <sup>4</sup> La cumissiun da gestiun po ultra da quai:
 
@@ -355,7 +355,7 @@ concluda:
 
 **Cumissiun per giustia e segirezza 1. grondezza, incumbensas e cumpetenzas**
 
-<sup>1</sup> La cumissiun per giustia e segirezza controllescha e surveglia la gestiun da las dretgiras chantunalas sco er da las cumissiuns da surveglianza per las notaras e per ils notars e per las advocatas e per ils advocats e predeliberescha lur rapports da gestiun. Ella consista dad 11 commembras e commembers.
+<sup>1</sup> La Cumissiun per giustia e segirezza controllescha e surveglia la gestiun da la Dretgira superiura, da la Dretgira da giustia sco er da las autoritads che stattan sut la surveglianza da la Dretgira superiura e predeliberescha lur rapports da gestiun. Ella consista dad 11 commembras e commembers.
 
 <sup>2</sup> Per mauns dal cussegl grond predeliberescha ella cunzunt las suandantas fatschentas:
 
@@ -367,7 +367,10 @@ concluda:
 
 <sup>3</sup> Ella prenda posiziun davart tut ils rapports e projects che pertutgan la giustia e po far propostas al cussegl grond.
 
-<sup>4</sup> Ella prenda posiziun davart dumondas da stgaffir plazzas e da transfurmar plazzas, uschenavant che quellas pertutgan las dretgiras chantunalas sco er las cumissiuns da surveglianza davart las notaras ed ils notars e davart las advocatas ed ils advocats. Per mauns da la cumissiun da gestiun prenda ella posiziun davart credits posteriurs, uschenavant che quels pertutgan las dretgiras chantunalas sco er las cumissiuns da surveglianza davart las notaras ed ils notars e davart las advocatas ed ils advocats.
+<sup>4</sup> Ella prenda:
+
+- a) posiziun per mauns da la Dretgira superiura, sche la Dretgira superiura vul auzar ils meds finanzials per las collavuraturas ed ils collavuraturs da la Dretgira superiura, da la Dretgira da giustia u da las ulteriuras autoritads giudizialas;
+- b) posiziun per mauns da la Cumissiun da gestiun davart credits posteriurs da la Dretgira superiura e da la Dretgira da giustia.
 
 <sup>5</sup> Ella decida davart recurs cunter las elecziuns da la regenza.
 
@@ -418,7 +421,7 @@ concluda:
 
 **Cumissiun d'inquisiziun parlamentara**
 
-<sup>1</sup> Las disposiziuns pli detagliadas davart l'organisaziun da la cumissiun d'inquisiziun e davart l'execuziun da l'inquisiziun vegnan relaschadas dal cussegl grond en il rom dal conclus da nominaziun. Il cussegl grond regla cunzunt ils dretgs da procedura da las persunas pertutgadas e la posiziun da la regenza respectivamain da l'autoritad giudiziala suprema en la procedura.
+<sup>1</sup> Las disposiziuns pli detagliadas davart l'organisaziun da la cumissiun d'inquisiziun e davart l'execuziun da l'inquisiziun vegnan relaschadas dal Cussegl grond en il rom dal conclus da nominaziun. Il Cussegl grond regla cunzunt ils dretgs da procedura da las persunas pertutgadas e la posiziun da la Regenza respectivamain da la Dretgira superiura en la procedura.
 
 ### 2.5. Servetschs dal cussegl grond e protocollaziun
 
