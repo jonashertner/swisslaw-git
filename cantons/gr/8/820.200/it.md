@@ -4,13 +4,13 @@ number: "820.200"
 title: "Legge sull'energia del Cantone dei Grigioni"
 short: LGE
 language: it
-version: 2011-01-01
-corrected: 2017-10-30
-version_adopted: 2010-04-20
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2022-06-14
 adopted: 2010-04-20
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2280/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3423/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2280/pdf_file"
 
 (LGE)
 
-del 20.04.2010 (stato 01.01.2011)
+del 20.04.2010 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -133,11 +133,41 @@ decide:
 
 #### Art. 9
 
-**Quota massima di energie non rinnovabili**
+**Impiego parsimonioso ed efficiente dell'energia**
 
-<sup>1</sup> Nei nuovi edifici o in caso di ampliamento di edifici esistenti, solo una parte dell'approvvigionamento termico complessivo ammesso può essere coperto con energie non rinnovabili.
+<sup>1</sup> Edifici, impianti e attrezzature ed equipaggiamenti a ciò correlati (installazioni tecniche) devono essere pianificati, realizzati e mantenuti in modo tale che l'energia venga impiegata in maniera parsimoniosa, razionale ed efficiente.
 
-<sup>2</sup> Il Governo fissa la quota massima di energie non rinnovabili.
+<sup>2</sup> …
+
+#### Art. 9a
+
+**Copertura del fabbisogno termico di nuovi edifici e ampliamenti**
+
+<sup>1</sup> Nuovi edifici e ampliamenti di edifici esistenti devono essere costruiti ed equipaggiati in modo tale che il loro fabbisogno energetico per riscaldamento, acqua calda, ventilazione e climatizzazione sia conforme allo stato della tecnica.
+
+<sup>2</sup> Il Governo stabilisce la tipologia e l'entità dei requisiti posti all'impiego di energia. Facendo questo tiene conto in particolare dello scopo di utilizzazione, della redditività nonché del clima nel luogo in cui è situato l'impianto.
+
+#### Art. 9b
+
+**Obbligo di produzione propria di energia elettrica per nuovi edifici**
+
+<sup>1</sup> Per nuovi edifici, una parte del fabbisogno di elettricità deve essere coperta con impianti di produzione di energia elettrica installati all'interno, sul tetto o sulle facciate dell'edificio.
+
+<sup>2</sup> Il Governo determina la tipologia e l'entità della produzione autonoma di elettricità tenendo conto della superficie di riferimento energetico quale base di calcolo.
+
+<sup>3</sup> In presenza di un raggruppamento ai fini del consumo proprio conformemente all'articolo 17 della legge federale sull'energia[^9b-1], l'obbligo di produzione propria di energia elettrica per nuovi edifici può essere adempiuto nel quadro di tale raggruppamento. Il Governo disciplina i dettagli.
+
+<sup>4</sup> Sono esentati dall'obbligo di produzione propria di energia elettrica i nuovi edifici situati in ubicazioni con una radiazione solare globale inferiore a 1250 kWh per m2 e anno nonché i nuovi edifici che soddisfano lo standard Minergie. Il Governo può stabilire altre eccezioni.
+
+[^9b-1]: RS [730.0](https://db.clex.ch/link/Bund/730.0/it)
+
+#### Art. 9c
+
+**Domotica in nuovi edifici**
+
+<sup>1</sup> Nuovi edifici senza utilizzazione a scopi abitativi con una superficie di riferimento energetico superiore a 5000 metri quadrati devono essere dotati di impianti per la domotica.
+
+<sup>2</sup> Il Governo stabilisce i dettagli e le eccezioni.
 
 #### Art. 10
 
@@ -147,9 +177,27 @@ decide:
 
 - a) l'installazione di nuovi riscaldamenti fissi a resistenza elettrica destinati al riscaldamento degli edifici e la sostituzione della parte elettrica di un riscaldamento fisso a resistenza elettrica con circuito idraulico;
 - b) l'utilizzo di un riscaldamento fisso a resistenza elettrica come sistema di appoggio al riscaldamento;
-- c) l'installazione di un nuovo sistema elettrico diretto per il riscaldamento dell'acqua calda sanitaria.
+- c) l'installazione di un nuovo sistema elettrico diretto per il riscaldamento dell'acqua calda sanitaria in edifici abitativi.
 
 <sup>2</sup> Il Governo fissa le eccezioni.
+
+#### Art. 10a
+
+**Sostituzione di generatori di calore in edifici esistenti**
+
+<sup>1</sup> In sede di sostituzione del generatore di calore in edifici esistenti con utilizzazione a scopi abitativi, questi devono essere equipaggiati in maniera tale che almeno il 10 per cento del fabbisogno energetico determinante venga risparmiato oppure coperto con energie rinnovabili.
+
+<sup>2</sup> Tenendo conto della legislazione federale, il Governo può aumentare fino a un massimo del 20 per cento la quota del fabbisogno energetico determinante che deve essere risparmiata in edifici esistenti con utilizzazione a scopi abitativi o che deve essere coperta con energie rinnovabili.
+
+<sup>3</sup> La sostituzione di un generatore di calore è soggetta all'obbligo di notifica.
+
+<sup>4</sup> Il Governo stabilisce il metodo di calcolo e le soluzioni standard. Con l'esecuzione a regola d'arte di una soluzione standard il requisito di cui ai capoversi 1 e 2 è considerato soddisfatto.
+
+<sup>5</sup> L'acquisto di combustibili rinnovabili gassosi o liquidi nonché l'acquisto di combustibili sintetici prodotti con energia rinnovabile soddisfano i requisiti di cui al capoverso 1 se la loro quota ammonta almeno al 20 per cento. Il Governo disciplina i dettagli.
+
+<sup>6</sup> Sono esentati dal rispetto del requisito di cui al capoverso 1 gli edifici che sono stati realizzati in base a una licenza edilizia rilasciata a partire dal 1992, che presentano una certificazione Minergie o che nel Certificato energetico cantonale degli edifici (CECE) raggiungono la classe di efficienza complessiva D.
+
+<sup>7</sup> Il Governo stabilisce le eccezioni.
 
 #### Art. 11
 
@@ -171,9 +219,9 @@ decide:
 
 #### Art. 13
 
-**Conteggio individuale delle spese di riscaldamento e dell'acqua calda (CISR)**
+**Conteggio individuale del consumo di calore**
 
-<sup>1</sup> I nuovi edifici e gruppi d'edifici dotati di una centrale termica per dieci o più unità d'uso, devono essere equipaggiati con i necessari apparecchi per la determinazione del consumo individuale di energia termica per il riscaldamento e per l'acqua calda. Lo stesso vale in caso di importanti rinnovi di edifici esistenti.
+<sup>1</sup> Nuovi edifici e gruppi d'edifici dotati di una centrale termica per cinque o più unità d'uso, devono essere equipaggiati con i necessari apparecchi per la determinazione del consumo individuale di energia termica. Lo stesso vale in caso di importanti rinnovi di edifici e gruppi d'edifici esistenti.
 
 <sup>2</sup> Il Governo fissa le eccezioni.
 
@@ -255,11 +303,17 @@ decide:
 
 <sup>1</sup> Il Cantone può accordare sussidi a impianti per la ricerca, lo sfruttamento e la sperimentazione di energie rinnovabili o di sistemi che risparmiano energia.
 
+#### Art. 23a
+
+**Impianti fotovoltaici per elettricità invernale**
+
+<sup>1</sup> Il Cantone può concedere sussidi per la realizzazione di impianti fotovoltaici su edifici e infrastrutture se a causa della loro configurazione e del loro posizionamento questi presentano un'efficienza particolare per la produzione di elettricità invernale.
+
 #### Art. 24
 
 **Calcolo**
 
-<sup>1</sup> I sussidi conformemente agli articoli 18 – 23 vengono calcolati in funzione del progetto e in base ai seguenti criteri:
+<sup>1</sup> I sussidi conformemente agli articoli 18 – 23a vengono calcolati in funzione del progetto e in base ai seguenti criteri:
 
 - a) efficienza energetica complessiva
 - b) fabbisogno energetico;
@@ -351,8 +405,12 @@ decide:
 
 - a) verificare il rispetto dei requisiti energetici;
 - b) effettuare controlli dei lavori e collaudi finali;
-- c) rilevare i dati energetici rilevanti per determinare il fabbisogno energetico atteso e la sua variazione;
-- d) svolgere procedure secondo il titolo 5. della presente legge in questioni comunali.
+- c) rilevare i dati energetici rilevanti per determinare il fabbisogno energetico atteso e la sua variazione.
+- d) …
+
+<sup>2</sup> Nel quadro di un obbligo di notifica i comuni danno esecuzione alle disposizioni relative al calore rinnovabile in sede di sostituzione del generatore di calore.
+
+<sup>3</sup> I comuni sono competenti per lo svolgimento di procedure secondo il 5° titolo della presente legge in affari comunali.
 
 #### Art. 35
 
@@ -400,10 +458,10 @@ decide:
 
 <sup>2</sup> Le procedure non ancora passate in giudicato quattro anni dopo l'entrata in vigore della presente legge vanno giudicate secondo il nuovo diritto.
 
-<sup>3</sup> Le controversie relative alle condizioni di raccordo per produttori indipendenti secondo l'articolo 7 della legge federale sull'energia[^39-1] nella versione del 26 giugno 1998[^39-2] sono decise dal Dipartimento, fatta salva l'impugnazione al Tribunale amministrativo.
+<sup>3</sup> Le controversie relative alle condizioni di raccordo per produttori indipendenti secondo l'articolo 7 della legge federale sull'energia[^39-1] nella versione del 26 giugno 1998[^39-2] sono decise dal Dipartimento, fatta salva l'impugnazione al Tribunale d'appello.
 
 [^39-1]: RS [730.0](https://db.clex.ch/link/Bund/730.0/it)
-[^39-2]: RU 1999 197
+[^39-2]: RU 1999, 197
 
 #### Art. 40
 

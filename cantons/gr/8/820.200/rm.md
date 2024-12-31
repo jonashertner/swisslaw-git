@@ -4,13 +4,13 @@ number: "820.200"
 title: "Lescha d'energia dal chantun Grischun"
 short: LEG
 language: rm
-version: 2011-01-01
-corrected: 2017-10-30
-version_adopted: 2010-04-20
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2022-06-14
 adopted: 2010-04-20
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/820.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2280/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3423/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2280/pdf_file"
 
 (LEG)
 
-dals 20-04-2010 (versiun dals 01-01-2011)
+dals 20-04-2010 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -135,11 +135,41 @@ concluda:
 
 #### Art. 9
 
-**Quota maximala d'energia betg regenerabla**
+**Utilisaziun spargnusa ed effizienta da l'energia**
 
-<sup>1</sup> En edifizis novs u en cas d'engrondiments d'edifizis existents dastga mo ina part da tut il basegn da chalur ch'è admissibel vegnir cuvrì cun energias betg regenerablas.
+<sup>1</sup> Edifizis e stabiliments sco er equipaments (indrizs da la tecnica da chasa) ch'èn colliads cun quels ston vegnir planisads, construids e mantegnids uschia, che l'energia vegn duvrada en moda spargnusa, raziunala ed effizienta.
 
-<sup>2</sup> La regenza fixescha la quota maximala d'energias betg regenerablas.
+<sup>2</sup> …
+
+#### Art. 9a
+
+**Cuvrida dal basegn da chalur d'edifizis novs e d'engrondiments**
+
+<sup>1</sup> Edifizis novs ed engrondiments d'edifizis existents ston vegnir construids ed equipads uschia, che lur basegn d'energia per il stgaudament, per l'aua chauda, per la ventilaziun e per la climatisaziun correspunda al stadi da la tecnica.
+
+<sup>2</sup> La Regenza fixescha il gener e la dimensiun da las pretensiuns envers il diever d'energia. En quest connex resguarda ella en spezial l'intent d'utilisaziun, la rentabilitad sco er il clima dal lieu.
+
+#### Art. 9b
+
+**Obligaziun da producir atgna electricitad en edifizis novs**
+
+<sup>1</sup> Ina part da l'electricitad che vegn duvrada en edifizis novs sto vegnir cuvrida cun indrizs per producir electricitad che vegnan installads en, sin u vi da l'edifizi.
+
+<sup>2</sup> La Regenza fixescha il gener e la dimensiun da la producziun d'atgna electricitad resguardond la surfatscha che retira energia sco basa da calculaziun.
+
+<sup>3</sup> Sch'igl exista in regruppament per l'agen consum tenor l'artitgel 17 da la Lescha federala d'energia[^9b-1], po l'obligaziun da producir atgna electricitad en edifizis novs vegnir ademplida en il rom da quest regruppament. La Regenza regla ils detagls.
+
+<sup>4</sup> Deliberads da l'obligaziun da producir atgna electricitad èn edifizis novs en lieus cun ina radiaziun globala da main che 1250 kWh/m2 ed onn sco er edifizis novs che cuntanschan il standard da MINERGIE. La Regenza po fixar ulteriuras excepziuns.
+
+[^9b-1]: CS [730.0](https://db.clex.ch/link/Bund/730.0/rm)
+
+#### Art. 9c
+
+**Automatisaziun en edifizis novs**
+
+<sup>1</sup> Edifizis novs che na vegnan betg duvrads per intents d'abitar e che han ina surfatscha che retira energia da passa 5000 meters quadrat ston vegnir equipads cun indrizs d'automatisaziun.
+
+<sup>2</sup> La Regenza fixescha ils detagls e las excepziuns.
 
 #### Art. 10
 
@@ -152,6 +182,24 @@ concluda:
 - c) d'installar in nov implant electric direct per stgaudar l'aua da diever en edifizis d'abitar.
 
 <sup>2</sup> La regenza fixescha las excepziuns.
+
+#### Art. 10a
+
+**Remplazzament dal stgaudament en edifizis existents**
+
+<sup>1</sup> Cun remplazzar il stgaudament en edifizis existents che vegnan duvrads per intents d'abitar stoi vegnir resguardà che almain 10 pertschient dal basegn d'energia decisiv vegnian spargnads u cuvrids cun energias regenerablas.
+
+<sup>2</sup> Resguardond la legislaziun federala po la Regenza augmentar la part dal basegn d'energia decisiv, che sto vegnir spargnada u cuvrida cun energias regenerablas en edifizis existents che vegnan duvrads per intents d'abitar, sin maximalmain 20 pertschient.
+
+<sup>3</sup> Il remplazzament d'in stgaudament sto vegnir annunzià.
+
+<sup>4</sup> La Regenza fixescha la moda da calculaziun e la soluziun da standard. Cun la realisaziun professiunala d'ina soluziun da standard è ademplida la pretensiun tenor ils alineas 1 e 2.
+
+<sup>5</sup> Il consum da combustibels liquids u da gas regenerabels ed il consum da combustibels sintetics che vegnan producids cun energia regenerabla adempleschan las pretensiuns tenor l'alinea 1, sche lur part importa almain 20 pertschient. La Regenza regla ils detagls.
+
+<sup>6</sup> Deliberads da las pretensiuns tenor l'alinea 1 èn edifizis ch'èn vegnids construids sin basa d'ina permissiun da construcziun concedida a partir da l'onn 1992, ch'èn vegnids certifitgads tenor MINERGIE u che cuntanschan la classa d'effizienza generala D dal Certificat energetic chantunal dals edifizis (CECE).
+
+<sup>7</sup> La Regenza fixescha las excepziuns.
 
 #### Art. 11
 
@@ -173,9 +221,9 @@ concluda:
 
 #### Art. 13
 
-**Quint individual dals custs dal stgaudament e da l'aua chauda (QICS)**
+**Quint individual dals custs per producir chalur**
 
-<sup>1</sup> Edifizis novs e gruppas d'edifizis che han in provediment da chalur central per diesch u per dapli unitads utilisantas ston vegnir equipads cun apparats per registrar il consum individual da chalur e d'aua chauda. Il medem vala, sche edifizis existents vegnan renovads essenzialmain.
+<sup>1</sup> Edifizis novs e gruppas d'edifizis che han in provediment da chalur central per tschintg u dapli unitads utilisantas ston vegnir equipads cun apparats per registrar il consum individual da chalur. Il medem vala, sche edifizis existents e gruppas d'edifizis existentas vegnan renovads essenzialmain.
 
 <sup>2</sup> La regenza fixescha las excepziuns.
 
@@ -257,11 +305,17 @@ concluda:
 
 <sup>1</sup> Il chantun po conceder contribuziuns per indrizs che han l'intent da perscrutar, da duvrar e d'examinar energias regenerablas u sistems che spargnan energia.
 
+#### Art. 23a
+
+**Implants da fotovoltaica per producir electricitad l'enviern**
+
+<sup>1</sup> Il chantun po conceder contribuziuns per l'installaziun d'implants da fotovoltaica vi d'edifizis e vi da stabiliments d'infrastructura, sche quels èn, pervia da lur concepziun e pervia da lur posiziun, spezialmain effizients per la producziun d'electricitad durant l'enviern.
+
 #### Art. 24
 
 **Fixaziun**
 
-<sup>1</sup> Las contribuziuns tenor ils artitgels 18 fin 23 vegnan calculadas sin basa dal project tenor ils suandants criteris:
+<sup>1</sup> Las contribuziuns tenor ils artitgels 18 fin 23a vegnan calculadas sin basa dal project tenor ils suandants criteris:
 
 - a) il total da l'effizienza energetica;
 - b) il basegn d'energia;
@@ -353,8 +407,12 @@ concluda:
 
 - a) controllar, sche las pretensiuns energeticas vegnan observadas;
 - b) far las controllas da la construcziun e las collaudaziuns;
-- c) retschertgar las datas energeticas ch'èn relevantas per eruir il basegn d'energia spetgà e sia midada;
-- d) realisar las proceduras tenor il titel 5 da questa lescha en chaussas communalas.
+- c) retschertgar las datas energeticas ch'èn relevantas per eruir il basegn d'energia spetgà e sia midada.
+- d) …
+
+<sup>2</sup> En il rom d'ina obligaziun d'annunzia exequeschan las vischnancas las disposiziuns davart la chalur regenerabla en cas dal remplazzament d'in stgaudament.
+
+<sup>3</sup> Las vischnancas èn cumpetentas per realisar proceduras tenor il 5. titel da questa lescha en fatschentas communalas.
 
 #### Art. 35
 
@@ -402,10 +460,10 @@ concluda:
 
 <sup>2</sup> Proceduras che n'èn anc betg vegnidas terminadas cun vigur legala 4 onns suenter che questa lescha è entrada en vigur ston vegnir giuditgadas tenor il dretg nov.
 
-<sup>3</sup> Cas da dispita davart las cundiziuns da colliaziun da las producentas e dals producents independents tenor l'artitgel 7 da la lescha federala d'energia[^39-1] en la versiun dals 26 da zercladur 1998[^39-2] vegnan decidids dal departament, cun resalva dal recurs tar la dretgira administrativa.
+<sup>3</sup> Cas da dispita davart las cundiziuns da colliaziun da las producentas e dals producents independents tenor l'artitgel 7 da la Lescha federala d'energia[^39-1] en la versiun dals 26 da zercladur 1998[^39-2] vegnan decidids dal departament, cun resalva dal recurs tar la Dretgira superiura.
 
 [^39-1]: CS [730.0](https://db.clex.ch/link/Bund/730.0/rm)
-[^39-2]: CULF 1999, 197
+[^39-2]: CULF 1999 197
 
 #### Art. 40
 

@@ -4,13 +4,13 @@ number: "820.200"
 title: Energiegesetz des Kantons Graubünden
 short: BEG
 language: de
-version: 2011-01-01
-corrected: 2017-10-30
-version_adopted: 2010-04-20
+version: 2025-01-01
+valid_until: 2025-12-30
+version_adopted: 2022-06-14
 adopted: 2010-04-20
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/820.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2280/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3423/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2280/pdf_file"
 
 (BEG)
 
-Vom 20.04.2010 (Stand 01.01.2011)
+Vom 20.04.2010 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -135,11 +135,41 @@ beschliesst:
 
 #### Art. 9
 
-**Höchstanteil nicht erneuerbarer Energie**
+**Sparsame und effiziente Energienutzung**
 
-<sup>1</sup> In neuen Gebäuden oder bei Erweiterung von bestehenden Gebäuden darf nur ein Teil des gesamten zulässigen Wärmebedarfs mit nicht erneuerbaren Energien gedeckt werden.
+<sup>1</sup> Gebäude, Anlagen und damit zusammenhängende Ausstattungen und Ausrüstungen (haustechnische Anlagen) sind so zu planen, zu erstellen und zu unterhalten, dass die Energie sparsam, rationell und effizient genutzt wird.
 
-<sup>2</sup> Die Regierung legt den Höchstanteil an nicht erneuerbaren Energien fest.
+<sup>2</sup> …
+
+#### Art. 9a
+
+**Deckung des Wärmebedarfs von Neubauten und Erweiterungen**
+
+<sup>1</sup> Neubauten und Erweiterungen von bestehenden Gebäuden sind so zu bauen und auszurüsten, dass ihr Energiebedarf für Heizung, Warmwasser, Lüftung und Klimatisierung dem Stand der Technik entspricht.
+
+<sup>2</sup> Die Regierung legt Art und Umfang der Anforderungen an den Energieeinsatz fest. Sie berücksichtigt dabei insbesondere den Nutzungszweck, die Wirtschaftlichkeit sowie das Standortklima.
+
+#### Art. 9b
+
+**Eigenstromerzeugungspflicht bei Neubauten**
+
+<sup>1</sup> Bei Neubauten ist ein Teil der benötigten Elektrizität durch Elektrizitätserzeugungsanlagen zu decken, welche im, auf oder am Gebäude installiert sind.
+
+<sup>2</sup> Die Regierung bestimmt Art und Umfang der Eigenstromerzeugung unter Berücksichtigung der Energiebezugsfläche als Berechnungsgrundlage.
+
+<sup>3</sup> Liegt ein Zusammenschluss zum Eigenverbrauch gemäss Artikel 17 des eidgenössischen Energiegesetzes[^9b-1] vor, kann die Eigenstromerzeugungspflicht für Neubauten im Rahmen dieses Zusammenschlusses erfüllt werden. Die Regierung regelt die Einzelheiten.
+
+<sup>4</sup> Von der Eigenstromerzeugungspflicht befreit sind Neubauten an Standorten mit einer Globalstrahlung von weniger als 1250 kWh/m2 und Jahr sowie Neubauten, welche den Minergiestandard erreichen. Die Regierung kann weitere Ausnahmen festlegen.
+
+[^9b-1]: SR [730.0](https://db.clex.ch/link/Bund/730.0/de)
+
+#### Art. 9c
+
+**Gebäudeautomation bei Neubauten**
+
+<sup>1</sup> Neubauten ohne Wohnnutzung mit mehr als 5000 Quadratmeter Energiebezugsfläche sind mit Einrichtungen zur Gebäudeautomation auszurüsten.
+
+<sup>2</sup> Die Regierung legt die Einzelheiten und die Ausnahmen fest.
 
 #### Art. 10
 
@@ -152,6 +182,24 @@ beschliesst:
 - c) die Installation einer neuen direkt-elektrischen Anlage zur Erwärmung des Brauchwarmwassers in Wohnbauten.
 
 <sup>2</sup> Die Regierung legt die Ausnahmen fest.
+
+#### Art. 10a
+
+**Wärmeerzeugerersatz in bestehenden Bauten**
+
+<sup>1</sup> Beim Ersatz des Wärmeerzeugers in bestehenden Bauten mit Wohnnutzung sind diese so auszurüsten, dass mindestens 10 Prozent des massgebenden Energiebedarfs eingespart oder mit erneuerbaren Energien abgedeckt werden.
+
+<sup>2</sup> Die Regierung kann den Anteil am massgebenden Energiebedarf, der in bestehenden Bauten mit Wohnnutzung einzusparen oder mit erneuerbaren Energien abzudecken ist, unter Berücksichtigung der Gesetzgebung des Bundes auf maximal 20 Prozent erhöhen.
+
+<sup>3</sup> Der Ersatz eines Wärmeerzeugers ist meldepflichtig.
+
+<sup>4</sup> Die Regierung legt die Berechnungsweise und die Standardlösungen fest. Mit der fachgerechten Umsetzung einer Standardlösung ist die Anforderung gemäss den Absätzen 1 und 2 erfüllt.
+
+<sup>5</sup> Der Bezug von erneuerbaren gasförmigen oder flüssigen Brennstoffen sowie der Bezug von synthetischen Brennstoffen, die mit erneuerbarer Energie hergestellt werden, erfüllen die Anforderungen gemäss Absatz 1, sofern deren Anteil mindestens 20 Prozent beträgt. Die Regierung regelt die Einzelheiten.
+
+<sup>6</sup> Von der Einhaltung der Anforderung gemäss Absatz 1 befreit sind Bauten, welche gestützt auf eine ab dem Jahr 1992 erteilte Baubewilligung erstellt worden sind, eine Minergie-Zertifizierung aufweisen oder im Gebäudeenergieausweis der Kantone (GEAK) die Gesamteffizienzklasse D erreichen.
+
+<sup>7</sup> Die Regierung legt die Ausnahmen fest.
 
 #### Art. 11
 
@@ -173,9 +221,9 @@ beschliesst:
 
 #### Art. 13
 
-**Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung (VHKA)**
+**Verbrauchsabhängige Wärmekostenabrechnung**
 
-<sup>1</sup> Neue Gebäude und Gebäudegruppen mit zentraler Wärmeversorgung für zehn oder mehr Nutzeinheiten sind mit Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser auszurüsten. Gleiches gilt bei wesentlichen Erneuerungen bestehender Gebäude.
+<sup>1</sup> Neubauten und Gebäudegruppen mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit Geräten zur Erfassung des individuellen Wärmeverbrauchs auszurüsten. Gleiches gilt bei wesentlichen Erneuerungen bestehender Gebäude und Gebäudegruppen.
 
 <sup>2</sup> Die Regierung legt die Ausnahmen fest.
 
@@ -257,11 +305,17 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann an Anlagen zur Erforschung, Nutzung und Erprobung erneuerbarer Energien oder energiesparender Systeme Beiträge gewähren.
 
+#### Art. 23a
+
+**Photovoltaikanlagen für Winterstrom**
+
+<sup>1</sup> Der Kanton kann Beiträge an die Erstellung von Photovoltaikanlagen an Bauten und Infrastrukturanlagen gewähren, sofern diese aufgrund ihrer Ausgestaltung und Positionierung eine besondere Effizienz für die Winterstromproduktion aufweisen.
+
 #### Art. 24
 
 **Bemessung**
 
-<sup>1</sup> Die Bemessung der Beiträge gemäss den Artikeln 18 bis 23 erfolgt projektbezogen anhand folgender Kriterien:
+<sup>1</sup> Die Bemessung der Beiträge gemäss den Artikeln 18 bis 23a erfolgt projektbezogen anhand folgender Kriterien:
 
 - a) Gesamt-Energieeffizienz;
 - b) Energiebedarf;
@@ -353,8 +407,12 @@ beschliesst:
 
 - a) prüfen, ob die energetischen Anforderungen eingehalten sind;
 - b) durchführen von Baukontrollen und Schlussabnahmen;
-- c) erheben der relevanten energetischen Daten zur Ermittlung des erwarteten Energiebedarfs und dessen Veränderung;
-- d) durchführen von Verfahren nach dem 5. Titel dieses Gesetzes in kommunalen Angelegenheiten.
+- c) erheben der relevanten energetischen Daten zur Ermittlung des erwarteten Energiebedarfs und dessen Veränderung.
+- d) …
+
+<sup>2</sup> Die Gemeinden vollziehen im Rahmen einer Meldepflicht die Bestimmungen zur erneuerbaren Wärme beim Ersatz des Wärmeerzeugers.
+
+<sup>3</sup> Die Gemeinden sind zuständig für die Durchführung von Verfahren nach dem 5. Titel dieses Gesetzes in kommunalen Angelegenheiten.
 
 #### Art. 35
 
@@ -402,7 +460,7 @@ beschliesst:
 
 <sup>2</sup> Verfahren, die vier Jahre nach Inkrafttreten dieses Gesetzes noch nicht rechtskräftig abgeschlossen wurden, sind nach neuem Recht zu beurteilen.
 
-<sup>3</sup> Streitfälle über die Anschlussbedingungen für unabhängige Produzenten nach Artikel 7 des eidgenössischen Energiegesetzes[^39-1] in der Fassung vom 26. Juni 1998[^39-2] entscheidet das Departement unter Vorbehalt des Weiterzuges ans Verwaltungsgericht.
+<sup>3</sup> Streitfälle über die Anschlussbedingungen für unabhängige Produzenten nach Artikel 7 des eidgenössischen Energiegesetzes[^39-1] in der Fassung vom 26. Juni 1998[^39-2] entscheidet das Departement unter Vorbehalt des Weiterzuges ans Obergericht.
 
 [^39-1]: SR [730.0](https://db.clex.ch/link/Bund/730.0/de)
 [^39-2]: AS 1999, 197
