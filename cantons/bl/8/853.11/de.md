@@ -4,13 +4,12 @@ number: "853.11"
 title: Verordnung über die Behindertenhilfe
 short: BHV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-28
+version: 2025-01-01
+version_adopted: 2024-11-12
 adopted: 2016-12-06
 in_force: 2017-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/853.11"
-pdf: "https://bl.clex.ch/api/de/versions/3993/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4002/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3993/pdf_file"
 
 (BHV)
 
-Vom 06.12.2016 (Stand 01.01.2024)
+Vom 06.12.2016 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -454,7 +453,7 @@ beschliesst:
 
 **Festlegung der Normkosten für ambulante nicht personale Leistungen**
 
-<sup>1</sup> Für ambulante, nicht personale Leistungen im institutionellen Bereich legt der Regierungsrat Normkosten pro Fachleistungsstunde alle 4 Jahre, erstmals auf den 1. Januar 2025, fest.
+<sup>1</sup> Für ambulante, nicht personale Leistungen im institutionellen Bereich legt der Regierungsrat Normkosten pro Fachleistungsstunde und deren Obergrenze alle 4 Jahre, erstmals auf den 1. Januar 2025, fest.
 
 <sup>2</sup> Der Teuerungsausgleich wird analog zu § 23 Abs. 2<sup>bis</sup> gewährt.
 
@@ -683,5 +682,13 @@ beschliesst:
 <sup>3</sup> Grundsätzlich werden mit Erreichen von Normkosten für die Institution in allen von ihr angebotenen Leistungsarten die bestehenden Rücklagen gemäss Abs. 1 aufgelöst. Bei den Institutionen noch bestehende Guthaben aus diesen Rücklagen sind dem Kanton geschuldet. Verlustvorträge verbleiben bei der Trägerschaft der Institution. Der Zeitpunkt der Auflösung richtet sich nach der Umsetzung der Angleichung der institutionsspezifischen Pauschalen gemäss den §§ 21 und 24 dieser Verordnung.
 
 <sup>4</sup> Erreicht eine Institution gemäss IFEG in allen Leistungsbereichen Normkosten vor dem 1. Januar 2023, verbleibt auch ein positiver Saldo als zweckgebundenes Fremdkapital bis zu diesem Datum bei der Institution. Entnahmen richten sich grundsätzlich nach Abs. 1. In Ausnahmefällen können Entnahmen zur Deckung von Verlusten bewilligt werden.
+
+#### § 49
+
+**Übergangsbestimmungen zu § 20 Abs. 4 und § 23 Abs. 2<sup>bis</sup> in der Version vom 28. November 2023 ([GS 2023.081](https://bl.clex.ch/app/de/change_documents/1063))**
+
+<sup>1</sup> Der Regierungsrat gewährt für die einzelnen Leistungsarten in Abweichung von § 20 Abs. 4 und § 23 Abs. 2<sup>bis</sup> in den Jahren 2026, 2027 und 2028 grundsätzlich keinen Teuerungsausgleich.
+
+<sup>2</sup> Der Regierungsrat kann in Abweichung zu Abs. 1 den Teuerungsausgleich ganz oder teilweise gewähren, wenn es die finanzpolitischen Rahmenbedingungen zulassen. Dabei berücksichtigt er auch das Verhältnis der Normkosten zu den Ist-Kosten in den Leistungen.
 
 GS 2016.072
