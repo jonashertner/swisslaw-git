@@ -4,13 +4,13 @@ number: "621"
 title: Steuerverordnung
 short: StV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-09-05
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-11-12
 adopted: 2000-12-12
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/621"
-pdf: "https://srl.lu.ch/api/de/versions/4139/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/4139/pdf_file"
 
 (StV)
 
-vom 12.12.2000 (Stand 01.01.2024)
+vom 12.12.2000 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 6 Absatz 1e, 28 Absatz 4, 39 Absatz 4, 40 Absatz 1h, 125 Absatz 2, 145 Absatz 4, 192 Absätze 3 und 4, 193 Absatz 2, 194 Absatz 3, 201 Absatz 3, 239 Absatz 1 und 247 des Steuergesetzes (StG) vom 22. November 1999[^ingress-1], § 21 Absatz 3 des Gesetzes über die Handänderungssteuer vom 28. Juni 1983[^ingress-2] und § 31a Absatz 3 des Gesetzes über die Grundstückgewinnsteuer vom 31. Oktober 1961[^ingress-3],
+gestützt auf die §§ 6 Absatz 1e, 28 Absatz 4, 39 Absatz 4, 40 Absatz 1h, 72f Absatz 1, 125 Absatz 2, 145 Absatz 4, 192 Absätze 3 und 4, 193 Absatz 2, 194 Absatz 3, 201 Absatz 3, 239 Absatz 1 und 247 des Steuergesetzes (StG) vom 22. November 1999[^ingress-1], § 21 Absatz 3 des Gesetzes über die Handänderungssteuer vom 28. Juni 1983[^ingress-2] und § 31a Absatz 3 des Gesetzes über die Grundstückgewinnsteuer vom 31. Oktober 1961[^ingress-3],
 
 auf Antrag des Finanzdepartementes,
 
@@ -220,7 +220,7 @@ beschliesst:
 
 **Kosten für die Drittbetreuung von Kindern**
 
-<sup>1</sup> Erfüllen bei getrennter Besteuerung beide Elternteile die Voraussetzungen für den Abzug von Kinderbetreuungskosten, kann jeder Elternteil 550 Franken für die eigene Betreuung abziehen; der Abzug jedes Elternteils erhöht sich auf höchstens 3050 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit oder der Ausbildung des Elternteils stehen. Eine andere Aufteilung der Drittbetreuungskosten ist von den Elternteilen nachzuweisen. Betragen die dabei geltend gemachten Drittbetreuungskosten beider Elternteile zusammen mehr als 5000 Franken, werden die Abzüge der Elternteile im Verhältnis der nachgewiesenen Kosten auf diesen Höchstbetrag gekürzt.
+<sup>1</sup> Erfüllen bei getrennter Besteuerung beide Elternteile die Voraussetzungen für den Abzug von Kinderbetreuungskosten, kann jeder Elternteil 1000 Franken für die eigene Betreuung abziehen; der Abzug jedes Elternteils erhöht sich auf höchstens 10 000 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit oder der Ausbildung des Elternteils stehen. Eine andere Aufteilung der Drittbetreuungskosten ist von den Elternteilen nachzuweisen. Betragen die dabei geltend gemachten Drittbetreuungskosten beider Elternteile zusammen mehr als 18 000 Franken, werden die Abzüge der Elternteile im Verhältnis der nachgewiesenen Kosten auf diesen Höchstbetrag gekürzt.
 
 #### § 15
 
@@ -307,6 +307,12 @@ beschliesst:
 <sup>1</sup> Für die Bemessung des Eigenkapitals ist das Eigenkapital am Bilanzstichtag des Geschäftsabschlusses nach Gewinnverwendung massgebend.
 
 <sup>2</sup> ...
+
+#### § 24a
+
+**Zusätzlicher Abzug für Forschung und Entwicklung**
+
+<sup>1</sup> Der über den geschäftsmässig begründeten Forschungs- und Entwicklungsaufwand hinausgehende Abzug beträgt 0,0 Prozent.
 
 ### 1.4 Verfahren
 
@@ -566,6 +572,37 @@ beschliesst:
 #### § 51
 
 **…**
+
+### 2a Gemeindeanteil am Ertrag der Mindestbesteuerung grosser Unternehmensgruppen
+
+#### § 51a
+
+**Zuständigkeit**
+
+<sup>1</sup> Das Departementssekretariat des Finanzdepartementes ist als Dienststelle zuständig für die Verteilung des Gemeindeanteils gemäss § 259h StG.
+
+<sup>2</sup> Die Lustat Statistik Luzern berechnet unter Beizug von Daten der Dienststelle Steuern die Verteilung des Gemeindeanteils auf die Einwohnergemeinden zuhanden des Departementssekretariates des Finanzdepartementes.
+
+<sup>3</sup> Die Kosten der Lustat Statistik Luzern für ihre Leistungen nach Absatz 2 werden durch den Kanton getragen.
+
+#### § 51b
+
+**Berechnung der Verteilung des Gemeindeanteils**
+
+<sup>1</sup> Massgebend für die Berechnung der Ertragsausfälle nach § 259h Absatz 3 StG ist die Differenz der individuellen Steuerbeträge je Einheit, multipliziert mit dem Steuerfuss des Jahres vor dem Verteiljahr.
+
+<sup>2</sup> Änderungen des Steuergesetzes, die zwischen dem sechsten bis vierten Jahr vor dem Verteiljahr und der Änderung des Steuergesetzes vom 18. März 2024 erfolgt sind, werden bei der Berechnung der Ertragsausfälle mitberücksichtigt.
+
+<sup>3</sup> Die Verteilung des Gemeindeanteils wird aufgrund der neusten amtlichen statistischen Grundlagen und Steuerdaten berechnet, die am Stichtag bei der Lustat Statistik Luzern verfügbar sind. Dieser Stichtag fällt
+
+- a. auf den 30. Juni des Jahres vor dem Verteiljahr, soweit die Verteilung nach Ertragsausfällen und Einwohnerzahl erfolgt,
+- b. auf den 28. Februar des Jahres vor dem Verteiljahr, soweit die Verteilung nach Einwohnerzahl erfolgt.
+
+#### § 51c
+
+**Verfahren**
+
+<sup>1</sup> Der Regierungsrat beschliesst jährlich die errechneten Beträge an die Einwohnergemeinden. Die zuständige Behörde informiert die Einwohnergemeinden über diesen Beschluss mittels Gutschriftsanzeige.
 
 ## 3 Schlussbestimmungen
 
