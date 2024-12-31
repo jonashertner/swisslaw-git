@@ -4,13 +4,12 @@ number: "618.100"
 title: Einführungsgesetz zur Ausländer- und Asylgesetzgebung des Bundes
 short: EGzAAG
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-27
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2008-12-10
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/618.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3224/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3411/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3224/pdf_file"
 
 (EGzAAG)
 
-Vom 10.12.2008 (Stand 01.01.2022)
+Vom 10.12.2008 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -233,7 +232,7 @@ beschliesst:
 
 **5. Weiterzug**
 
-<sup>1</sup> Entscheide der richterlichen Behörde können mit Beschwerde beim Kantonsgericht angefochten werden.
+<sup>1</sup> Entscheide der richterlichen Behörde können mit Beschwerde beim Obergericht angefochten werden.
 
 <sup>2</sup> Für das Verfahren gelten die Bestimmungen über die strafrechtliche Beschwerde sinngemäss.
 

@@ -4,13 +4,12 @@ number: "618.100"
 title: "Legge d'applicazione della legislazione federale sugli stranieri e sull'asilo"
 short: LAdLSA
 language: it
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-27
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2008-12-10
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/618.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3224/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3411/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3224/pdf_file"
 
 (LAdLSA)
 
-del 10.12.2008 (stato 01.01.2022)
+del 10.12.2008 (stato 01.01.2025)
 
 Il Gran Consiglio del Cantone dei Grigioni,
 
@@ -230,7 +229,7 @@ decide:
 
 **Impugnazione**
 
-<sup>1</sup> Decisioni dell'autorità giudiziaria possono essere impugnate con ricorso al Tribunale cantonale.
+<sup>1</sup> Decisioni dell'autorità giudiziaria possono essere impugnate con ricorso al Tribunale d'appello.
 
 <sup>2</sup> Per la procedura fanno stato per analogia le disposizioni concernenti il ricorso di diritto penale.
 

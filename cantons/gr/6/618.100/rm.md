@@ -4,13 +4,12 @@ number: "618.100"
 title: "Lescha introductiva tar la legislaziun federala davart las persunas estras e davart ils fatgs d'asil"
 short: LItLEA
 language: rm
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-08-27
+version: 2025-01-01
+version_adopted: 2022-06-14
 adopted: 2008-12-10
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/618.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3224/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3411/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3224/pdf_file"
 
 (LItLEA)
 
-dals 10-12-2008 (versiun dals 01-01-2022)
+dals 10-12-2008 (versiun dals 01-01-2025)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -233,7 +232,7 @@ concluda:
 
 **5. recurs**
 
-<sup>1</sup> Cunter decisiuns da l'autoritad giudiziala poi vegnir fatg recurs tar la dretgira chantunala.
+<sup>1</sup> Cunter decisiuns da l'autoritad giudiziala poi vegnir fatg recurs tar la Dretgira superiura.
 
 <sup>2</sup> Per la procedura valan las disposiziuns davart il recurs penal confurm al senn.
 
