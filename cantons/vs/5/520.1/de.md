@@ -4,13 +4,12 @@ number: "520.1"
 title: "Ausführungsgesetz zur Bundesgesetzgebung über den Zivilschutz *"
 short: AGZSG
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-15
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2010-09-10
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/520.1"
-pdf: "https://lex.vs.ch/api/de/versions/3265/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3434/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3265/pdf_file"
 
 (AGZSG)
 
-vom 10.09.2010 (Stand 01.01.2024)
+vom 10.09.2010 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -372,7 +371,7 @@ verordnet:
 <sup>3</sup> Der Staatsrat bestimmt regelmässig per Beschluss:
 
 - a) die Höhe der von der Dienststelle erhobenen Gebühr zur Deckung der Inkassokosten der Ersatzbeiträge;
-- b) den jährlich gutgeschriebenen Vergütungszins.
+- b) …
 
 <sup>4</sup> …
 

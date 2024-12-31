@@ -4,13 +4,12 @@ number: "520.1"
 title: "Loi d'application de la législation fédérale sur la protection civile"
 short: LALPCi
 language: fr
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-06-15
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 2010-09-10
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/520.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3265/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3434/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3265/pdf_file"
 
 (LALPCi)
 
-du 10.09.2010 (état 01.01.2024)
+du 10.09.2010 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -372,7 +371,7 @@ ordonne:
 <sup>3</sup> Le Conseil d'Etat fixe périodiquement par arrêté:
 
 - a) le montant de l'émolument perçu par le service et destiné à couvrir les frais d'encaissement des contributions de remplacement;
-- b) l'intérêt rémunératoire crédité annuellement.
+- b) …
 
 <sup>4</sup> …
 
