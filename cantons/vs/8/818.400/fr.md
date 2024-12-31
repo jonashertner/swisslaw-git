@@ -4,27 +4,31 @@ number: "818.400"
 title: Ordonnance sur la constatation des décès et les interventions sur les cadavres humains
 short: OCD
 language: fr
-version: 2014-09-05
-corrected: 2017-10-07
-version_adopted: 2014-08-27
+version: 2025-01-01
+version_adopted: 2025-01-15
 adopted: 2014-08-27
 in_force: 2014-09-05
 url: "https://lex.vs.ch/app/fr/texts_of_law/818.400"
-pdf: "https://lex.vs.ch/api/fr/versions/204/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3462/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la constatation des décès et les interventions sur les cadavres humains
 
-du 27 août 2014
+(OCD)
 
-Le Conseil d'Etat du canton du Valais vu les articles 52, 58, 59, 129, 133 à 137 de la loi sur la santé du 14 février 2008;
+du 27.08.2014 (état 01.01.2025)
 
-sur la proposition du Département de la santé, des affaires sociales et de la culture, ordonne:
+Le Conseil d'Etat du canton du Valais
 
-### Section 1: Constatation des décès
+vu les articles 103, 108, 109, 133, 154 à 159 de la loi sur la santé du 12 mars 2020 (LS);
+
+sur la proposition du département en charge de la santé,
+
+ordonne:
+
+## 1 Constatation des décès
 
 #### Art. 1
 
@@ -34,21 +38,23 @@ sur la proposition du Département de la santé, des affaires sociales et de la 
 
 <sup>2</sup> Pour le surplus, le médecin se conforme aux directives relatives établies par le médecin cantonal.
 
-#### Art. 2 b
+#### Art. 2
 
-**) Mort extraordinaire**
+**b) Mort extraordinaire**
 
-<sup>2</sup> Si l'examen du cadavre ne permet pas de conclure clairement à une mort naturelle, c'est-à-dire en cas de mort suspecte (mort d’origine indéterminée ou mort violente), le médecin doit immédiatement annoncer le décès à la police et aux autres autorités compétentes conformément à l’article 253 du code de procédure pénale.
+<sup>1</sup> Si l'examen du cadavre ne permet pas de conclure clairement à une mort naturelle, c'est-à-dire en cas de mort suspecte ou violente (mort non naturelle) ou de mort d'origine indéterminée (circonstances du décès inconnues), le médecin doit immédiatement annoncer le décès à la police et aux autres autorités compétentes conformément à l’article 253 du code de procédure pénale.
 
 <sup>2</sup> Il doit alors suivre les instructions des autorités pénales et se conformer pour le surplus aux directives du médecin cantonal.
 
-### Section 2: Inhumation
+<sup>3</sup> En cas de doute sur la mort violente de la personne, la Centrale d'urgence 144 doit être contactée sans délai et c'est elle qui détermine si une intervention d'urgence doit être engagée.
+
+## 2 Inhumation
 
 #### Art. 3
 
 **Prescriptions fédérales**
 
-L’inhumation de cadavres doit respecter les prescriptions fédérales en la matière.
+<sup>1</sup> L’inhumation de cadavres doit respecter les prescriptions fédérales en la matière.
 
 #### Art. 4
 
@@ -64,7 +70,7 @@ L’inhumation de cadavres doit respecter les prescriptions fédérales en la ma
 
 <sup>1</sup> L'inhumation ne peut avoir lieu que 36 heures à 120 heures au plus tard après le décès.
 
-<sup>2</sup> Le médecin cantonal ou, sur délégation, le médecin de district ou le médecin légiste délégué par le département (ci-après: le médecin légiste) peut autoriser des dérogations si les circonstances le justifient. Il peut assortir l'autorisation à des conditions particulières.
+<sup>2</sup> D'entente avec le médecin cantonal, le Service de Médecine Légale peut autoriser des dérogations si les circonstances le justifient. Il peut assortir l'autorisation à des conditions particulières.
 
 #### Art. 6
 
@@ -74,7 +80,7 @@ L’inhumation de cadavres doit respecter les prescriptions fédérales en la ma
 
 <sup>2</sup> Le médecin cantonal ou, sur délégation, le médecin de district ou le médecin légiste peut autoriser des dérogations si les circonstances le justifient.
 
-### Section 3: Incinération
+## 3 Incinération
 
 #### Art. 7
 
@@ -88,9 +94,9 @@ L’inhumation de cadavres doit respecter les prescriptions fédérales en la ma
 
 **Autorisation**
 
-Les dispositions de l'article 4 de la présente ordonnance sont également applicables pour les incinérations.
+<sup>1</sup> Les dispositions de l'article 4 de la présente ordonnance sont également applicables pour les incinérations.
 
-### Section 4: Exhumation et transport de cadavres
+## 4 Exhumation et transport de cadavres
 
 #### Art. 9
 
@@ -108,7 +114,7 @@ Les dispositions de l'article 4 de la présente ordonnance sont également appli
 
 <sup>2</sup> Le transport de cadavres respecte en outre l’article 8 de la loi fédérale sur les épidémies du 18 décembre 1970.
 
-### Section 5: Autopsies
+## 5 Autopsies
 
 #### Art. 11
 
@@ -126,23 +132,21 @@ Les dispositions de l'article 4 de la présente ordonnance sont également appli
 
 **Frais**
 
-Les frais d'autopsie ainsi que les frais de transport liés à cette intervention sont réglés:
+<sup>1</sup> Les frais d'autopsie ainsi que les frais de transport liés à cette intervention sont réglés:
 
 - a) par les autorités pénales lorsqu'elles l'ont ordonné;
-
 - b) par le département en charge de la santé lorsqu'il l'a ordonné dans l'intérêt de la santé publique;
-
 - c) par la personne qui l'a requise, dans tous les autres cas.
 
-### Section 6: Prélèvement et transplantation d'organes et de tissus
+## 6 Prélèvement et transplantation d'organes et de tissus
 
 #### Art. 13
 
 **Principes**
 
-Les prélèvements et transplantations d'organes et de tissus s’effectuent conformément à la loi fédérale relative à la recherche sur l’être humain du 30 septembre 2011 (Loi relative à la recherche sur l’être humain; LRH) et à ses ordonnances d’application, ainsi qu’à l’ordonnance fédérale sur la transplantation du 16 mars 2007.
+<sup>1</sup> Les prélèvements et transplantations d'organes et de tissus s’effectuent conformément à la loi fédérale relative à la recherche sur l’être humain du 30 septembre 2011 (Loi relative à la recherche sur l’être humain, LRH) et à ses ordonnances d’application, ainsi qu’à l’ordonnance fédérale sur la transplantation du 16 mars 2007.
 
-### Section 7: Cimetières
+## 7 Cimetières
 
 #### Art. 14
 
@@ -150,13 +154,13 @@ Les prélèvements et transplantations d'organes et de tissus s’effectuent con
 
 <sup>1</sup> Les cimetières sont des propriétés communales. Ils sont soumis à l'autorité, à la police et à la surveillance des autorités communales.
 
-<sup>2</sup> Les communes adoptent un règlement en la matière
+<sup>2</sup> Les communes adoptent un règlement en la matière.
 
 <sup>3</sup> Les règlements communaux sont soumis à l'approbation du Conseil d'Etat.
 
 <sup>4</sup> Le département peut édicter des directives sur les cimetières sous l'angle de la santé publique.
 
-### Section 8: Pompes funèbres et autres entreprises
+## 8 Pompes funèbres et autres entreprises
 
 #### Art. 15
 
@@ -170,17 +174,17 @@ Les prélèvements et transplantations d'organes et de tissus s’effectuent con
 
 <sup>4</sup> Sur mandat du service, l'association peut être chargée des modalités et des contrôles nécessaires au respect des directives.
 
-<sup>5</sup> En cas de non-respect des directives, le département prend les mesures administratives et les sanctions prévues au titre onzième de la loi sur la santé.
+<sup>5</sup> En cas de non-respect des directives, le département prend les mesures administratives et les sanctions prévues au chapitre 11 de la loi sur la santé.
 
 <sup>6</sup> Seules les entreprises figurant au registre du service et n'ayant pas fait l'objet de mesures administratives ou de sanctions peuvent être sollicitées par les autorités judiciaires ou de police.
 
-### Section 9: Dispositions finales
+## 9 Dispositions finales
 
 #### Art. 16
 
 **Abrogation**
 
-Sont abrogées toutes les dispositions contraires à la présente ordonnance, notamment l’ordonnance sur la constatation des décès et les interventions sur les cadavres humains du 17 mars 1999.
+<sup>1</sup> Sont abrogées toutes les dispositions contraires à la présente ordonnance, notamment l’ordonnance sur la constatation des décès et les interventions sur les cadavres humains du 17 mars 1999.
 
 #### Art. 17
 
@@ -194,16 +198,6 @@ Sont abrogées toutes les dispositions contraires à la présente ordonnance, no
 
 **Entrée en vigueur**
 
-La présente ordonnance entre en vigueur au moment de sa publication au Bulletin officiel.
+<sup>1</sup> La présente ordonnance entre en vigueur au moment de sa publication au Bulletin officiel.
 
-Ainsi adopté en Conseil d'Etat, à Sion, le 27 août 2014.
-
-Le président du Conseil d'Etat: Jean-Michel Cina Le chancelier d'Etat: Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**05.09.14**
-
-vigueur Ordonnance sur la constatation des décès et BO No 36/2014 les interventions sur les cadavres humains du 27 août 2014
+RCV BO/Abl. 36/2014

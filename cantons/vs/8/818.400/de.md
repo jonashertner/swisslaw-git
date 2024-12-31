@@ -1,30 +1,34 @@
 ---
 canton: VS
 number: "818.400"
-title: Verordnung über die Todesfeststellung und den Umgang mit Leichen
+title: "Verordnung über die Todesfeststellung und den Umgang mit Leichen *"
 short: VTF
 language: de
-version: 2014-09-05
-corrected: 2017-10-07
-version_adopted: 2014-08-27
+version: 2025-01-01
+version_adopted: 2025-01-15
 adopted: 2014-08-27
 in_force: 2014-09-05
 url: "https://lex.vs.ch/app/de/texts_of_law/818.400"
-pdf: "https://lex.vs.ch/api/de/versions/204/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3462/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Todesfeststellung und den Umgang mit Leichen
 
-vom 27. August 2014
+(VTF)
 
-Der Staatsrat des Kantons Wallis eingesehen die Artikel 52, 58, 59, 129, 133 bis 137 des Gesundheitsgesetzes vom 14. Februar 2008;
+vom 27.08.2014 (Stand 01.01.2025)
 
-auf Antrag des Departements für Gesundheit, Soziales und Kultur, verordnet:
+Der Staatsrat des Kantons Wallis
 
-### 1. Abschnitt: Todesfeststellung
+eingesehen die Artikel 103, 108, 109, 133, 154 bis 159 des Gesundheitsgesetzes vom 12. März 2020 (GG);
+
+auf Antrag des für die Gesundheit zuständigen Departements,
+
+verordnet:
+
+## 1 Todesfeststellung
 
 #### Art. 1
 
@@ -34,21 +38,23 @@ auf Antrag des Departements für Gesundheit, Soziales und Kultur, verordnet:
 
 <sup>2</sup> Im Übrigen gelten die vom Kantonsarzt erlassenen Richtlinien.
 
-#### Art. 2 b
+#### Art. 2
 
-**) Aussergewöhnlicher Todesfall**
+**b) Aussergewöhnlicher Todesfall**
 
-<sup>1</sup> Bestehen Anzeichen für einen unnatürlichen Tod (gewaltsamer Tod oder Tod unbekannten Ursprungs) und kann nach der Legalinspektion nicht eindeutig auf einen natürlichen Todesfall geschlossen werden, muss der Arzt beziehungsweisedie Ärztin den Todesfall gemäss Artikel 253 der Strafprozessordnung unverzüglich der Polizei und den weiteren zuständigen Behörden melden.
+<sup>1</sup> Bestehen Anzeichen für einen aussergewöhnlichen oder gewaltsamen Tod (unnatürlicher Tod) oder einen Tod unbekannten Ursprungs (unklare Todesart) und kann nach der Legalinspektion nicht eindeutig auf einen natürlichen Todesfall geschlossen werden, muss der Arzt beziehungsweise die Ärztin den Todesfall gemäss Artikel 253 der Strafprozessordnung unverzüglich der Polizei und den zuständigen Behörden melden.
 
 <sup>2</sup> Der Arzt oder die Ärztin folgt den Anordnungen der Strafverfolgungsbehörden und hält sich im Übrigen an die Richtlinien des Kantonsarztes.
 
-### 2. Abschnitt: Erdbestattung
+<sup>3</sup> Bestehen Zweifel am eindeutigen Tod der Person, muss unverzüglich die Notrufzentrale 144 kontaktiert werden, welche über einen allfälligen Notfalleinsatz entscheidet
+
+## 2 Erdbestattung
 
 #### Art. 3
 
 **Bundesrechtliche Vorgaben**
 
-Die bundesrechtlichen Vorgaben zur Erdbestattung müssen eingehalten werden.
+<sup>1</sup> Die bundesrechtlichen Vorgaben zur Erdbestattung müssen eingehalten werden.
 
 #### Art. 4
 
@@ -64,7 +70,7 @@ Die bundesrechtlichen Vorgaben zur Erdbestattung müssen eingehalten werden.
 
 <sup>1</sup> Eine Bestattung darf frühestens 36 Stunden und muss spätestens 120 Stunden nach dem Tod erfolgen.
 
-<sup>2</sup> Der Kantonsarzt oder in Vertretung der Bezirksarzt oder der vom Kanton beauftragte Rechtsmediziner (nachfolgend: der Rechtsmediziner) können in begründeten Fällen Ausnahmen gewähren. Die Bewilligung kann mit besonderen Auflagen verbunden werden.
+<sup>2</sup> In Absprache mit dem Kantonsarzt kann die Abteilung für Rechtsmedizin in begründeten Fällen Ausnahmen gewähren. Die Bewilligung kann mit besonderen Auflagen verbunden werden
 
 #### Art. 6
 
@@ -74,7 +80,7 @@ Die bundesrechtlichen Vorgaben zur Erdbestattung müssen eingehalten werden.
 
 <sup>2</sup> Der Kantonsarzt oder in Vertretung der Bezirksarzt oder der Rechtsmediziner können in begründeten Fällen Ausnahmen gewähren.
 
-### 3. Abschnitt: Feuerbestattung
+## 3 Feuerbestattung
 
 #### Art. 7
 
@@ -88,9 +94,9 @@ Die bundesrechtlichen Vorgaben zur Erdbestattung müssen eingehalten werden.
 
 **Bewilligung**
 
-Die Bestimmungen aus Artikel 4 der vorliegenden Verordnung gelten ebenfalls für Feuerbestattungen.
+<sup>1</sup> Die Bestimmungen aus Artikel 4 der vorliegenden Verordnung gelten ebenfalls für Feuerbestattungen.
 
-### 4. Abschnitt: Exhumierung und Leichentransport
+## 4 Exhumierung und Leichentransport
 
 #### Art. 9
 
@@ -108,7 +114,7 @@ Die Bestimmungen aus Artikel 4 der vorliegenden Verordnung gelten ebenfalls für
 
 <sup>2</sup> Beim Leichentransport muss ausserdem Artikel 8 des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen vom 18. Dezember 1970 eingehalten werden.
 
-### 5. Abschnitt: Autopsien
+## 5 Autopsien
 
 #### Art. 11
 
@@ -126,25 +132,21 @@ Die Bestimmungen aus Artikel 4 der vorliegenden Verordnung gelten ebenfalls für
 
 **Kosten**
 
-Die Kosten für eine Autopsie und die damit verbundenen Transportkosten übernimmt:
+<sup>1</sup> Die Kosten für eine Autopsie und die damit verbundenen Transportkosten übernimmt:
 
 - a) die anordnende Strafbehörde;
-
 - b) das anordnende Departement, wenn es sich um Gründe der öffentlichen Gesundheit handelt;
-
 - c) in allen übrigen Fällen der Gesuchsteller.
 
-### 6. Abschnitt: Entnahme und Transplantation von Organen
-
-und Geweben
+## 6 Entnahme und Transplantation von Organen und Geweben
 
 #### Art. 13
 
 **Grundsätze**
 
-Die Entnahme und die Transplantation von Organen und Geweben erfolgt gemäss dem Bundesgesetz über die Forschung am Menschen vom 30. September 2011 (Humanforschungsgesetz) und der Verordnung über die Transplantation von menschlichen Organen, Geweben und Zellen vom 16. März 2007.
+<sup>1</sup> Die Entnahme und die Transplantation von Organen und Geweben erfolgt gemäss dem Bundesgesetz über die Forschung am Menschen vom 30. September 2011 (Humanforschungsgesetz, HFG) und der Verordnung über die Transplantation von menschlichen Organen, Geweben und Zellen vom 16. März 2007.
 
-### 7. Abschnitt: Friedhöfe
+## 7 Friedhöfe
 
 #### Art. 14
 
@@ -158,7 +160,7 @@ Die Entnahme und die Transplantation von Organen und Geweben erfolgt gemäss dem
 
 <sup>4</sup> Das Departement kann aus Gründen der öffentlichen Gesundheit Richtlinien zu den Friedhöfen erlassen.
 
-### 8. Abschnitt: Bestattungsinstitute und weitere Unternehmen
+## 8 Bestattungsinstitute und weitere Unternehmen
 
 #### Art. 15
 
@@ -172,17 +174,17 @@ Die Entnahme und die Transplantation von Organen und Geweben erfolgt gemäss dem
 
 <sup>4</sup> Die Dienststelle kann den Verband mit den Modalitäten und der Kontrolle über die Einhaltung der Richtlinien beauftragen.
 
-<sup>5</sup> Bei Nichteinhaltung der Richtlinien kommen die im 11. Titel des Gesundheitsgesetzes vorgesehenen Verwaltungsmassnahmen und Strafbestimmungen zur Anwendung.
+<sup>5</sup> Bei Nichteinhaltung der Richtlinien kommen die im 11. Kapitel des Gesundheitsgesetzes vorgesehenen Verwaltungsmassnahmen und Strafbestimmungen zur Anwendung.
 
 <sup>6</sup> Justiz- und Polizeibehörden können nur Dienste von Unternehmen in Anspruch nehmen, die im Register der Dienststelle aufgeführt sind und gegen die keinerlei Strafen oder Massnahmen vorliegen.
 
-### 9. Abschnitt: Schlussbestimmungen
+## 9 Schlussbestimmungen
 
 #### Art. 16
 
 **Aufhebung bisherigen Rechts**
 
-Aufgehoben werden sämtliche vorliegender Verordnung widersprechende Bestimmungen, namentlich die Verordnung über die Todesfeststellung und die Eingriffe an Leichen vom 17. März 1999.
+<sup>1</sup> Aufgehoben werden sämtliche vorliegender Verordnung widersprechende Bestimmungen, namentlich die Verordnung über die Todesfeststellung und die Eingriffe an Leichen vom 17. März 1999.
 
 #### Art. 17
 
@@ -196,16 +198,6 @@ Aufgehoben werden sämtliche vorliegender Verordnung widersprechende Bestimmunge
 
 **Inkrafttreten**
 
-Die vorliegende Verordnung tritt mit der Veröffentlichung im Amtsblatt in Kraft.
+<sup>1</sup> Die vorliegende Verordnung tritt mit der Veröffentlichung im Amtsblatt in Kraft.
 
-So angenommen durch den Staatsrat in Sitten, am 27. August 2014.
-
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**05.09.14**
-
-Verordnung über die Todesfeststellung und Abl. Nr. 36/2014 den Umgang mit Leichen vom 27. August
-
-### 2014
+CSW BO/Abl. 36/2014
