@@ -4,13 +4,12 @@ number: BeE 680.100
 title: Benützungs- und Gebührenreglement Baslerhofscheune Bettingen
 short: Benützungs- und Gebührenreglement Baslerhofscheune
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
+version: 2025-01-01
 version_adopted: 2023-12-18
 adopted: 2015-12-14
 in_force: 2016-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20680.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6107/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6108/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Benützungs- und Gebührenreglement Baslerhofscheune | Bettingen: Einwohnergemei
 
 (Benützungs- und Gebührenreglement Baslerhofscheune)
 
-Vom 14. Dezember 2015 (Stand 1. Januar 2024)
+Vom 14. Dezember 2015 (Stand 1. Januar 2025)
 
 Der Gemeinderat Bettingen,
 
