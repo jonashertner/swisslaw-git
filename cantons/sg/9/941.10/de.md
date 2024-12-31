@@ -1,22 +1,21 @@
 ---
 canton: SG
 number: "941.10"
-title: Kantonsratsbeschluss über die Zahl der Richter
+title: Kantonsratsbeschluss über die Zahl der Richterinnen und Richter
 language: de
-version: 2020-04-01
-valid_until: 2024-12-31
-version_adopted: 2020-02-19
+version: 2025-01-01
+version_adopted: 2024-12-02
 adopted: 1990-11-27
 in_force: 1990-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/941.10"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2908/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3720/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonsratsbeschluss über die Zahl der Richter
+# Kantonsratsbeschluss über die Zahl der Richterinnen und Richter
 
-vom 27.11.1990 (Stand 01.04.2020)
+vom 27.11.1990 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -36,7 +35,7 @@ als Beschluss:[^ingress-3]
 
 **Kreisgerichte**
 
-<sup>1</sup> Die Zahl der Richter beträgt:
+<sup>1</sup> Die Zahl der Richterinnen und Richter beträgt:
 
 <table>
 <tr><th>Gerichtskreis</th><th>Mindestzahl</th><th>Höchstzahl</th></tr>
@@ -55,20 +54,18 @@ als Beschluss:[^ingress-3]
 
 #### Art. 3
 
-**Kantonsgericht[^3-1]**
+**Kantonsgericht**
 
 <sup>1</sup> Dem Kantonsgericht gehören an:
 
-- a) neun hauptamtliche Richter;
-- b) fünf bis acht nebenamtliche Richter.
-
-[^3-1]: Fassung gemäss VI. Nachtrag.
+- a) elf hauptamtliche Richterinnen und Richter;
+- b) fünf bis acht nebenamtliche Richterinnen und Richter.
 
 #### Art. 4
 
 **Handelsgericht**
 
-<sup>1</sup> Dem Handelsgericht gehören ausser dem Präsidenten und den Vizepräsidenten 25 Handelsrichter an.[^4-1]
+<sup>1</sup> Dem Handelsgericht gehören ausser der Präsidentin oder dem Präsidenten sowie den Vizepräsidentinnen und den Vizepräsidenten 25 Handelsrichterinnen und Handelsrichter an.[^4-1]
 
 [^4-1]: Art. [13](https://www.gesetzessammlung.sg.ch/data/941.1/de/art13) und [97](https://www.gesetzessammlung.sg.ch/data/941.1/de/art97) Bst. d GerG, sGS [941.1](https://www.gesetzessammlung.sg.ch/data/941.1/de).
 
@@ -78,8 +75,8 @@ als Beschluss:[^ingress-3]
 
 <sup>1</sup> Dem Verwaltungsgericht gehören an:[^5-1]
 
-- a) zwei hauptamtliche Richter;
-- b) sechs nebenamtliche Richter.
+- a) zwei hauptamtliche Richterinnen und Richter;
+- b) sechs nebenamtliche Richterinnen und Richter.
 
 [^5-1]: Art. [18](https://www.gesetzessammlung.sg.ch/data/941.1/de/art18) und [97](https://www.gesetzessammlung.sg.ch/data/941.1/de/art97) Bst. e GerG, sGS [941.1](https://www.gesetzessammlung.sg.ch/data/941.1/de).
 
