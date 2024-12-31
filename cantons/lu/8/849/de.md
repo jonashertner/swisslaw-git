@@ -4,20 +4,21 @@ number: "849"
 title: Verordnung über das Halten von Hunden
 short: HuV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2022-11-15
+version: 2025-01-01
+version_adopted: 2024-11-26
 adopted: 1973-12-10
 in_force: 1974-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/849"
-pdf: "https://srl.lu.ch/api/de/versions/3992/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4337/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Halten von Hunden
 
-vom 10.12.1973 (Stand 01.01.2023)
+(HuV)
+
+vom 10.12.1973 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -31,9 +32,9 @@ beschliesst:
 
 #### § 1
 
-**Wartung**
+**Führung und Betreuung**
 
-<sup>1</sup> Die Halterinnen und Halter sowie die Inhaberinnen und Inhaber von Hundezwingern und Hundeheimen haben ihre Hunde so zu warten und zu beaufsichtigen, dass sie
+<sup>1</sup> Die Halterinnen und Halter sowie die Inhaberinnen und Inhaber von Hundezwingern und Hundeheimen haben ihre Hunde so zu führen und zu betreuen, dass sie
 
 - a. keine Personen durch unzumutbares Gebell, Geheul oder auf andere Weise belästigen;
 - b. keine Strassen, Gehwege, Trottoirs, Parkanlagen, fremde Gärten oder landwirtschaftliche Kulturen verunreinigen.
@@ -75,7 +76,7 @@ beschliesst:
 <sup>2</sup> Davon ausgenommen sind
 
 - a. Halterinnen und Halter von Hunden, die als Übersiedlungsgut in die Schweiz eingeführt werden,
-- b. Halterinnen und Halter von Blindenführ- oder Diensthunden,
+- b. Halterinnen und Halter von Assistenz- oder Diensthunden,
 - c. Halterinnen und Halter von Hunden, die innert 18 Monaten nach Erwerb des Hundes eine anerkannte Prüfung der Technischen Kommission für das Gebrauchs- und Sporthundewesen der Schweizerischen Kynologischen Gesellschaft bestehen.
 
 <sup>3</sup> Bei Nichtbestehen des NHB oder einer als gleichwertig anerkannten Prüfung innert 18 Monaten nach Erwerb eines Hundes prüft der Veterinärdienst die Anordnung von Massnahmen nach § 7a Absatz 2 dieser Verordnung.
@@ -139,7 +140,7 @@ beschliesst:
 
 **Registrierung der Hunde**
 
-<sup>1</sup> Die kennzeichnenden Tierärztinnen und Tierärzte melden die erhobenen Daten innert zehn Tagen der Identitas AG. Diese registriert die Hunde mit diesen Daten in einer zentralen Datenbank (Hundedatenbank).
+<sup>1</sup> Die kennzeichnenden Tierärztinnen und Tierärzte melden die bei der Kennzeichnung oder deren Überprüfung erhobenen Daten innert zehn Tagen der Identitas AG. Diese registriert die Hunde mit diesen Daten in der nationalen Hundedatenbank.
 
 #### § 7d
 
@@ -170,11 +171,13 @@ beschliesst:
 - a. für Diensthunde, die von den Polizeiorganen oder andern öffentlichen Diensten benötigt werden, eine Bescheinigung der vorgesetzten Amtsstelle;
 - b. für Militärhunde ein Verbal für Militärhunde sowie eine Marke für Militärhunde;
 - c. für ausgebildete Schutz-, Sanitäts-, Katastrophen- und Lawinenhunde ein Leistungsheft der Schweizerischen Kynologischen Gesellschaft bzw. des Schweizerischen Alpen-Clubs sowie ein Ausweis über Einsatzverpflichtungen, die im öffentlichen Interesse liegen;
-- d. für Schweisshunde der Ausweis über eine kantonale Schweisshundeprüfung;
-- e. für Blindenführhunde der Nachweis, dass der Halter oder die Halterin blind ist;
-- f. für die in § 8 Absatz 1f bis h des Gesetzes[^10-1] aufgezählten Hunde ein entsprechender Nachweis des Halters oder der Halterin, wonach die vorgeschriebenen Erfordernisse für die Steuerbefreiung erfüllt sind.
+- d. für zur Nachsuche geprüfte Hunde gemäss § 8 Absatz 1d des Gesetzes[^10-1] ein Nachweis über eine mit einer Prüfung erfolgreich abgeschlossene Ausbildung gemäss § 20 Absätze 1 und 2 der kantonalen Verordnung über die Jagd und den Schutz wildlebender Säugetiere und Vögel[^10-2];
+- e. für Assistenzhunde ein Nachweis über eine entsprechende Ausbildung des Hundes sowie eine Bescheinigung der zuständigen IV-Stelle oder eines Arztes oder einer Ärztin über den Nutzen und die Zweckmässigkeit der Hundehaltung;
+- f. für die in § 8 Absatz 1f bis h des Gesetzes[^10-3] aufgezählten Hunde ein entsprechender Nachweis des Halters oder der Halterin, wonach die vorgeschriebenen Erfordernisse für die Steuerbefreiung erfüllt sind.
 
 [^10-1]: SRL Nr. [848](https://srl.lu.ch/data/848/de)
+[^10-2]: SRL Nr. [725a](https://srl.lu.ch/data/725a/de)
+[^10-3]: SRL Nr. [848](https://srl.lu.ch/data/848/de)
 
 ## 4 Straf- und Schlussbestimmungen
 
