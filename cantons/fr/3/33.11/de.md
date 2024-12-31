@@ -4,13 +4,13 @@ number: "33.11"
 title: Verordnung über kantons- und bundesrechtliche Ordnungsbussen
 short: KOBV
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-06-18
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2024-10-29
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8028/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8063/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ordnungsbussen – V
 
 (KOBV)
 
-vom 23.11.2021 (Fassung in Kraft getreten am 01.07.2024)
+vom 23.11.2021 (Fassung in Kraft getreten am 01.01.2025)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -218,26 +218,33 @@ beschliesst:
 
 **Gesetzgebung über die Fischerei**
 
-<sup>1</sup> Gesetz vom 15. Mai 1979 über die Fischerei (FischG; SGF 923.1), Reglement vom 23. November 2021 über die Ausübung der Patentfischerei in den Jahren 2022, 2023 und 2024 (FischR; SGF 923.12) und Verordnung vom 23. November 2021 über die Versteigerung und die Verpachtung der Fischereilose für die Jahre 2022–2027 (PachtV; SGF 923.15):
+<sup>1</sup> Gesetz vom 15. Mai 1979 über die Fischerei (FischG), Verordnung vom 1. Oktober 2024 über die Ausübung der Patentfischerei in den Jahren 2025, 2026 und 2027 (FischV) und Verordnung vom 23. November 2021 über die Versteigerung und die Verpachtung der Fischereilose für die Jahre 2022–2027 (PachtV):
 
 <table>
-<tr><th>Ordnungsbussennummer</th><th>Widerhandlungen (Art. 15 Abs. 2, 24, 27 Abs. 2, 34 und 35 FischG, Art. 10 Abs. 1–4, 16–19, 21, 23–34 FischR, Art. 9 Abs. 4, 15 Abs. 2, 16 und 18–22 PachtV)</th><th>Pauschalbetrag</th></tr>
-<tr><td>FR 301</td><td>Fischen vom Boot aus (Art. 16 FischR)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 302</td><td>Fischen an verbotenen Stellen (Art. 17, 18 und 19 FischR)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 304</td><td>Fischen ausserhalb der erlaubten Zeiten (Art. 21 FischR)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 306</td><td>Begrenzung der Fangzahl und Fangverbot (Art. 23 FischR)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 307</td><td>Verbotene Fanggeräte, Fischereimethoden und Köder (Art. 24 FischG / Art. 24–32 FischR)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 308</td><td>Behandlung der Fische (Art. 33 und 34 FischR)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 309</td><td>Patent und Kontrollheft (Art. 15 Abs. 2, Art. 27 Abs. 2 FischG / Art. 10 Abs. 1–3 FischR)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 310</td><td>Identitätsausweis (Art. 10 Abs. 4 FischR)</td><td>Fr. 50.–</td></tr>
-<tr><td>FR 311</td><td>Massstab mit Skala (Art. 10 Abs. 4 FischR)</td><td>Fr. 50.–</td></tr>
-<tr><td>FR 312</td><td>Verkehr oder Aufenthalt in Regalgewässern (Art. 34 FischG)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 313</td><td>Freies Herumlaufen von Haustieren in Regalgewässern (Art. 35 FischG)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 315</td><td>Fischen ausserhalb der erlaubten Zeiten (Art. 15 Abs. 2 PachtV)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 317</td><td>Fangverbot (Art. 16 PachtV)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 318</td><td>Verbotene Fanggeräte, Fischereimethoden und Köder (Art. 24 FischG / Art. 18 und 19 PachtV)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 319</td><td>Behandlung der Fische (Art. 20 und 21 PachtV)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 320</td><td>Fischerkarte und Statistikformular (Art. 15 Abs. 2 und 27 Abs. 2 FischG / Art. 9 Abs. 4 und 22 PachtV)</td><td>Fr. 100.–</td></tr>
+<tr><th>Ordnungsbussennummer</th><th>Widerhandlungen (Art. 15 Abs. 2, 23, 24, 27 Abs. 2, 34 und 35 FischG, Art. 7 Abs. 1 Bst. a–e, 10, 11, 12 Abs. 1–5, 13–15, 16 Abs. 3, 17, 20 Abs. 1 Bst. b und c, 29, 31–34, 36, 38, 39, 43, 44, 46, 48, 49, 51, 53, 54, 55, 57, 59–61, 63, 65–67 FischV, Art. 9 Abs. 4, 15 Abs. 2, 16 und 18–22 PachtV)</th><th>Pauschalbetrag</th></tr>
+<tr><td>FR 301</td><td>Verkehren oder Sich-Aufhalten eines Motorfahrzeuges in den Regalgewässern (Art. 34 FischG)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 302</td><td>Freies Herumlaufenlassen von Haustieren in Regalgewässern (Art. 35 FischG)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 303</td><td>Erwachsene Person, die mit mehr als drei Minderjährigen fischt (Art. 7 Abs. 1 Bst. a FischV)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 304</td><td>Nichtkonforme Verwendung von Fanggeräten, Angelruten oder Ködern (Art. 23 FischG, Art. 7 Abs. 1 Bst. b und e, 13, 14, 15 Abs. 2 und 3, 31, 38, 43, 48, 54, 60, 66 FischV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 305</td><td>Überschreiten der erlaubten Fangzahl (Art. 7 Abs. 1 Bst. c, 18 und 19 FischV)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 306</td><td>Nichteinhaltung der Eintragungsmodalitäten von Statistiken (Art. 7 Abs. 1 Bst. d, 10 FischV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 307</td><td>Fischen ohne das Fischereipatent bei sich zu tragen (Art. 15 Abs. 2 und 27 Abs. 2 FischG, Art. 11 Abs. 1 Bst. a FischV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 308</td><td>Fischen ohne amtlichen Identitätsausweis oder SaNa (Art. 11 Abs. 1 Bst. b und c FischV)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 309</td><td>Fischen ohne Mitführen der obligatorischen Ausrüstung (Art. 11 Abs. 1 Bst. d–g FischV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 310</td><td>Nichteinhaltung der Vorschriften über den Fang, Behandlung, Hälterung oder das Töten von Fischen (Art. 12 Abs. 1–3 FischV)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 311</td><td>Nichteinhaltung der Vorschriften über das Rücksetzen der Fische (Art. 12 Abs. 4 und 5 FischV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 312</td><td>Verwenden von für die Fischerei verbotenen Fanggeräten oder Fischereimethoden (Art. 24 FischG Art. 15 Abs. 1 und Art. 17 FischV)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 313</td><td>Fischen von einem Wasserfahrzeug aus an Orten, wo diese Praxis verboten ist (Art. 16 Abs. 3, 59 Abs. 2, 65 FischV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 314</td><td>Nichteinhaltung der kantonalen Fangverbote (Art. 20 Abs. 1 Bst. b und c FischV)</td><td>Fr. 150.-/Individuum</td></tr>
+<tr><td>FR 315</td><td>Fischen ausserhalb der erlaubten Fangzeiten (Art. 29, 36, 41, 46, 51, 57, 63 FischV)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 316</td><td>Fischen an Orten mit Fischereiverboten oder in Teilschongebieten (Art. 32, 34, 39, 44, 49, 55, 61, 67 FischV)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 317</td><td>Fischen in Schongebieten (Art. 33 FischV)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 318</td><td>Fischen von einem Wasserfahrzeug aus an erlaubten Orten, jedoch ohne Zusatzpatent D (Art. 53, 59 Abs. 1 FischV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 319</td><td>Fischen ohne Fischerkarte oder amtlichen Identitätsausweis (Art. 9 PachtV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 320</td><td>Fischen ausserhalb der erlaubten Fischereizeiten (Art. 15 PachtV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 321</td><td>Nichteinhaltung der kantonalen Fangverbote (Art. 16 PachtV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 322</td><td>Verwendung von für die Fischerei verbotenen Fanggeräten, Fischereimethoden oder Ködern (Art. 18 und 19 PachtV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 323</td><td>Nichteinhaltung der Vorschriften über den Fang, Behandlung, Hälterung oder das Töten von Fischen (Art. 20 und 21 PachtV)</td><td>100.–</td></tr>
 </table>
 
 2021\_148

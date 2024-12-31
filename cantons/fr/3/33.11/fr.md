@@ -4,13 +4,13 @@ number: "33.11"
 title: "Ordonnance sur les amendes d'ordre de droit cantonal et de droit fédéral"
 short: OCAO
 language: fr
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2024-06-18
+version: 2025-01-01
+valid_until: 2025-07-31
+version_adopted: 2024-10-29
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8028/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8063/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Amendes d'ordre – O
 
 (OCAO)
 
-du 23.11.2021 (version entrée en vigueur le 01.07.2024)
+du 23.11.2021 (version entrée en vigueur le 01.01.2025)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -218,26 +218,33 @@ Arrête:
 
 **Législation sur la pêche**
 
-<sup>1</sup> Loi du 15 mai 1979 sur la pêche (LPêche), règlement du 23 novembre 2021 concernant l'exercice de la pêche concédé par permis en 2022, 2023 et 2024 (RPêche) et ordonnance du 23 novembre 2021 fixant les conditions de mise aux enchères et d'affermage des lots de pêche pour la période 2022-2027 (OAff):
+<sup>1</sup> Loi du 15 mai 1979 sur la pêche (LPêche), ordonnance du 1<sup>er</sup> octobre 2024 concernant l'exercice de la pêche concédé par permis en 2025, 2026 et 2027 (OPêche) et ordonnance du 23 novembre 2021 fixant les conditions de mise aux enchères et d'affermage des lots de pêche pour la période 2022-2027 (OAff):
 
 <table>
-<tr><th>Numéro d'amende d'ordre</th><th>Infractions (art. 15 al. 2, 24, 27 al. 2, 34 et 35 LPêche, art. 10 al. 1 à 4, 16 à 19, 21, 23 à 34 RPêche, art. 9 al. 4, 15 al. 2, 16 et 18 à 22 OAff)</th><th>Montant forfaitaire</th></tr>
-<tr><td>FR 301</td><td>Pêche depuis une embarcation (art. 16 RPêche)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 302</td><td>Pêche dans des lieux interdits (art. 17, 18 et 19 RPêche)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 304</td><td>Pêche en dehors des heures admises (art. 21 RPêche)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 306</td><td>Dépassement du nombre de captures et interdiction de capture (art. 23 RPêche)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 307</td><td>Engins, modes de pêche et appâts interdits (art. 24 LPêche / art. 24 à 32 RPêche)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 308</td><td>Manipulation du poisson (art. 33 et 34 RPêche)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 309</td><td>Permis et carnet de contrôle (art. 15 al. 2 et 27 al. 2 LPêche / art. 10 al. 1 à 3 RPêche)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 310</td><td>Pièce d'identité (art. 10 al. 4 RPêche)</td><td>Fr. 50.–</td></tr>
-<tr><td>FR 311</td><td>Mesure graduée (art. 10 al. 4 RPêche)</td><td>Fr. 50.–</td></tr>
-<tr><td>FR 312</td><td>Circulation ou stationnement dans les eaux (art. 34 LPêche)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 313</td><td>Divagation d'animaux domestiques dans les eaux (art. 35 LPêche)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 315</td><td>Pêche en dehors des heures admises (art. 15 al. 2 OAff)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 317</td><td>Interdiction de capture (art. 16 OAff)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 318</td><td>Engins, modes de pêche et appâts interdits (art. 24 LPêche / art. 18 et 19 OAff)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 319</td><td>Manipulation du poisson (art. 20 et 21 OAff)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 320</td><td>Carte de pêche et formule de statistique (art. 15 al. 2 et 27 al. 2 LPêche / art. 9 al. 4 et 22 OAff)</td><td>Fr. 100.–</td></tr>
+<tr><th>Numéro d'amende d'ordre</th><th>Infractions (art. 15 al. 2, 23, 24, 27 al. 2, 34 et 35 LPêche, art. 7 al. 1 let. a à e, 10, 11, 12 al. 1 à 5, 13 à 15, 16 al. 3, 17, 20 al. 1 let. b et c, 29, 31 à 34, 36, 38, 39, 43, 44, 46, 48, 49, 51, 53, 54, 55, 57, 59 à 61, 63, 65 à 67 OPêche, art. 9 al. 4, 15 al. 2, 16 et 18 à 22 OAff)</th><th>Montant forfaitaire</th></tr>
+<tr><td>FR 301</td><td>Circulation ou stationnement d'un véhicule automobile dans les eaux (art. 34 LPêche)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 302</td><td>Divagation d'animaux domestiques dans les eaux (art. 35 LPêche)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 303</td><td>Adulte pêchant avec plus de trois mineur‑e‑s (art. 7 al. 1 let. a OPêche)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 304</td><td>Utilisation non conforme d'engins, lignes ou appâts (art. 23 LPêche, art. 7 al. 1 let. b et e, 13, 14, 15 al. 2 et 3, 31, 38, 43, 48, 54, 60, 66 OPêche)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 305</td><td>Dépassement du nombre de captures autorisées (art. 7 al. 1 let. c, 18 et 19 OPêche)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 306</td><td>Non-respect des modalités d'inscription des statistiques (art. 7 al. 1 let. d, 10 OPêche)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 307</td><td>Pêche sans être porteur d'un permis de pêche (art. 15 al. 2 et 27 al. 2 LPêche, art. 11 al. 1 let. a OPêche)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 308</td><td>Pêche sans être porteur d'une pièce d'identité ou de l'attestation SaNa (art. 11 al. 1 let. b et c OPêche)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 309</td><td>Pêche sans être porteur du matériel obligatoire (art. 11 al. 1 let. d à g OPêche)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 310</td><td>Non-respect des prescriptions sur la capture, manipulation, stockage ou mise à mort des poissons (art. 12 al. 1 à 3 OPêche)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 311</td><td>Non-respect des prescriptions sur la remise à l'eau des poissons (art. 12 al. 4 et 5 OPêche)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 312</td><td>Utilisation de matériel ou modes de pêche prohibés (art. 24 LPêche, art. 15 al. 1 et art. 17 OPêche)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 313</td><td>Pêche depuis une embarcation dans les lieux interdits à cette pratique (art. 16 al. 3, 59 al. 2, 65 OPêche)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 314</td><td>Non-respect des interdictions cantonales de capture (art. 20 al. 1 let. b et c OPêche)</td><td>Fr. 150.–/individu</td></tr>
+<tr><td>FR 315</td><td>Pêche en dehors des heures admises (art. 29, 36, 41, 46, 51, 57, 63 OPêche)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 316</td><td>Pêche dans les lieux interdits ou les réserves temporaires de pêche (art. 32, 34, 39, 44, 49, 55, 61, 67 OPêche)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 317</td><td>Pêche dans une réserve permanente de pêche (art. 33 OPêche)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 318</td><td>Pêche depuis une embarcation, dans les lieux autorisés, sans permis additionnel D (art. 53, 59 al. 1 OPêche)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 319</td><td>Pêche sans être porteur de la carte de pêche ou d'une pièce d'identité (art. 9 al. 4 OAff)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 320</td><td>Pêche en dehors des heures admises (art. 15 al. 2 OAff)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 321</td><td>Non-respect des interdictions cantonales de capture (art. 16 OAff)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 322</td><td>Utilisation d'engins, lignes, modes de pêche ou appâts prohibés (art. 18 et 19 OAff)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 323</td><td>Non-respect des prescriptions sur la capture, manipulation, stockage ou mise à mort des poissons (art. 20 et 21 OAff)</td><td>100.–</td></tr>
 </table>
 
 2021\_148
