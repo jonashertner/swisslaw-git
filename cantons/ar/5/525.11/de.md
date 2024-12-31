@@ -4,13 +4,12 @@ number: "525.11"
 title: Hundeverordnung
 short: HuV
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-12-19
+version: 2025-01-01
+version_adopted: 2024-12-03
 adopted: 2016-01-12
 in_force: 2016-01-15
 url: "https://ar.clex.ch/app/de/texts_of_law/525.11"
-pdf: "https://ar.clex.ch/api/de/versions/1208/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1550/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1208/pdf_file"
 
 (HuV)
 
-vom 12.01.2016 (Stand 01.01.2018)
+vom 12.01.2016 (Stand 01.01.2025)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -133,13 +132,15 @@ verordnet:
 
 **Ordentliche Hundesteuer**
 
-<sup>1</sup> Die einfache Hundesteuer beträgt Fr. 100.- pro Kalenderjahr.
+<sup>1</sup> Die einfache Hundesteuer beträgt Fr. 120.- pro Kalenderjahr. Wird ein Hund nicht während eines ganzen Kalenderjahres gehalten, ist die Hundesteuer anteilsmässig geschuldet.
 
-<sup>2</sup> Wird ein Hund nicht während eines ganzen Kalenderjahres gehalten, ist die Hundesteuer anteilsmässig geschuldet. Zu viel bezahlte Steuern werden zurückerstattet.
+<sup>2</sup> …
 
 <sup>3</sup> Der Steueranspruch erlischt, wenn er nicht innerhalb eines Jahres nach Ablauf der Steuerperiode geltend gemacht wird. Vorbehalten bleibt die Erhebung von Nachsteuern.
 
-<sup>4</sup> Der Anspruch auf Rückerstattung erlischt, wenn er nicht innert 30 Tagen seit Wegfall der Steuerpflicht geltend gemacht wird.
+<sup>4</sup> Zu viel bezahlte Steuern werden zurückerstattet. Der Anspruch auf Rückerstattung erlischt, wenn er nicht innert 30 Tagen seit Wegfall der Steuerpflicht geltend gemacht wird. Beim Wegzug aus dem Kanton erfolgt keine Rückerstattung.
+
+<sup>5</sup> Steuerbeträge von weniger als Fr. 10.- werden weder erhoben noch zurückerstattet.
 
 #### Art. 11
 
@@ -147,10 +148,10 @@ verordnet:
 
 <sup>1</sup> Von der Hundesteuer befreit sind Hunde, die in der Steuerperiode nachweislich als Nutzhunde im Einsatz stehen. Als Nutzhunde gelten:
 
-- a) Suchhunde für die Verschütteten- und Vermisstensuche (REDOG);
-- b) Lawinenhunde der Alpinen Rettung Schweiz (ARS);
-- c) Blindenführhunde;
-- d) Behindertenhunde;
+- a) Such- und Rettungshunde von REDOG;
+- b) Lawinen- und Geländesuchhunde der Alpinen Rettung Schweiz (ARS);
+- c) Assistenzhunde;
+- d) …
 - e) Schweisshunde;
 - f) Diensthunde, die in der Armee, beim Grenzwachtkorps oder bei der Polizei eingesetzt werden;
 - g) Herdenschutzhunde.
@@ -161,13 +162,13 @@ verordnet:
 
 <sup>4</sup> Als Nachweis gelten folgende Dokumente:
 
-- a) Suchhunde für die Verschütteten- und Vermisstensuche (REDOG): aktuelle Kopie des Testathefts des Hundeführers (Nachweis der Einsatzfähigkeit, Tests und Prüfungen);
-- a<sup>bis</sup>) Lawinenhunde (ARS): Bescheinigung von Alpine Rettung Schweiz;
-- b) Blindenführhunde: Nachweis einer von der Invalidenversicherung anerkannten Blindenführhundeschule;
-- c) Behindertenhunde: Nachweis der Ausbildung durch den Schweizerischen Verein für die Ausbildung von Hilfshunden für motorisch Behinderte oder Epileptiker und Bescheinigung der Invalidenversicherung über das Erfordernis;
+- a) Such- und Rettungshunde von REDOG: jährliches Attest von REDOG über die Einsatzfähigkeit und -bereitschaft des Hundes;
+- a<sup>bis</sup>) Lawinen- und Geländesuchhunde der Alpinen Rettung Schweiz (ARS): jährliches Attest von ARS über die Einsatzfähigkeit und -bereitschaft des Hundes;
+- b) Assistenzhunde: gültige fachärztliche Verordnung sowie Nachweis, dass die Ausbildungsstelle durch die Organisation Assistance Dogs International (ADI) zertifiziert ist;
+- c) …
 - d) Schweisshunde: Nachweis einer bestandenen Schweissprüfung auf der 1000 m Fährte gemäss Reglement der Arbeitsgemeinschaft für das Jagdhundewesen (AGJ) der Schweizerischen Kynologischen Gesellschaft (SKG) sowie Nachweis des Eintrags im aktuellen Verzeichnis der Schweisshundeführer des Patentjägervereins Appenzell Ausserrhoden;
-- e) Diensthunde: Bescheinigung der vorgesetzten Amtsstelle oder Verbal für die Diensthunde (Nachweis Einteilung und Dienstleistungen);
-- f) Herdenschutzhunde: Bescheinigung als vom Bund anerkannter Herdenschutzhund;
+- e) Diensthunde, die in der Armee, beim Grenzwachtkorps oder bei der Polizei eingesetzt werden: jährliche Bescheinigung der Einsatzorganisation über die Einsatzfähigkeit und -bereitschaft des Hundes;
+- f) Herdenschutzhunde: jährliche Bescheinigung als vom Bund oder Kanton anerkannter Herdenschutzhund;
 - g) Hunde nach Art. 20 Abs. 1 lit. b des Gesetzes: Nachweis der bereits geleisteten Abgabe;
 - h) Hunde nach Art. 20 Abs. 1 lit. c des Gesetzes: Bestätigung über den Aufenthalt.
 
@@ -177,7 +178,7 @@ verordnet:
 
 <sup>1</sup> Eine Nachsteuer wird erhoben, wenn die ordentliche Besteuerung wegen Verletzung der Meldepflicht unterblieb.
 
-<sup>2</sup> Die einfache Nachsteuer beträgt Fr. 150.- pro Hund und Kalenderjahr. Hält eine Halterin oder ein Halter mehr als einen Hund, wird für jeden weiteren Hund die doppelte Nachsteuer erhoben.
+<sup>2</sup> Die einfache Nachsteuer beträgt Fr. 180.- pro Hund und Kalenderjahr. Hält eine Halterin oder ein Halter mehr als einen Hund, wird für jeden weiteren Hund die doppelte Nachsteuer erhoben.
 
 <sup>3</sup> Der Nachsteueranspruch erlischt, sofern er nicht innerhalb von fünf Jahren nach Ablauf der Steuerperiode geltend gemacht wird.
 
@@ -185,12 +186,6 @@ verordnet:
 
 #### Art. 13
 
-**Hundesteuer 2016**
-
-<sup>1</sup> Die Hundesteuer 2016 wird im Monat Januar gegen Abgabe einer Kontrollmarke von der Kantonspolizei erhoben. Für Hunde, die nach dem Steuertermin erworben werden oder das Alter von drei Monaten erreichen, ist die Kontrollmarke innert 14 Tagen bei der Kantonspolizei nachzulösen. Tritt die Steuerpflicht erst nach dem 30. Juni ein, ist die halbe Steuer zu entrichten.
-
-<sup>2</sup> Es gilt Ziff. 11.0 des Bussenkatalogs für die Bussenerhebung auf der Stelle durch die Kantonspolizei (Stand: 01.05.2010)[^13-1].
-
-[^13-1]: bGS [323.1](https://ar.clex.ch/data/323.1/de)
+**…**
 
 Lf. Nr. / Abl. 1299 / 2016, S. 52
