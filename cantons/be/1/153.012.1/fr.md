@@ -4,13 +4,12 @@ number: "153.012.1"
 title: Ordonnance sur les rapports de travail des stagiaires
 short: "Ordonnance sur le travail des stagiaires, OTS"
 language: fr
-version: 2009-01-01
-valid_until: 2024-12-31
-version_adopted: 2008-09-03
+version: 2025-01-01
+version_adopted: 2024-11-13
 adopted: 2024-11-13
 in_force: 2025-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.012.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1059/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3088/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,142 +18,155 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1059/pdf_file"
 
 (Ordonnance sur le travail des stagiaires, OTS)
 
-du 03.09.2008 (état au 01.01.2009)
+du 13.11.2024 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 17 et 79 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-1], sur proposition de la Direction des finances,
+vu les articles 17 et 79, alinéa 1, lettre b de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-1],
+
+sur proposition de la Direction des finances,
 
 arrête:
 
-[^ingress-1]: RSB 153.01
-
-## 1 Dispositions générales
+[^ingress-1]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
 
 #### Art. 1
 
 **Champ d’application**
 
-<sup>1</sup> La présente ordonnance régit les rapports de travail des stagiaires du degré tertiaire employés par une unité administrative soumise à la législation sur le personnel.
+<sup>1</sup> La présente ordonnance régit les conditions d'engagement des personnes effectuant un stage du degré secondaire II, du degré tertiaire, du réseau de stages (art. 9) ou un stage linguistique au sein d'une entité de l'administration cantonale ou d'une haute école soumise à la législation sur le personnel.
 
-<sup>2</sup> La législation sur le personnel s’applique à titre supplétif dans les cas non réglés par la présente ordonnance.
+<sup>2</sup> La législation sur le personnel s’applique dans les cas non réglés par la présente ordonnance.
 
 #### Art. 2
 
 **Notion de stage**
 
-<sup>1</sup> Est réputée stage l’introduction encadrée d’un stagiaire ou d’une stagiaire du degré tertiaire dans la vie professionnelle ainsi que, le cas échéant, la préparation pratique des examens.
+<sup>1</sup> Est réputée stage la période d'insertion professionnelle encadrée, durant laquelle les stagiaires acquièrent ou approfondissent des aptitudes professionnelles dans un cadre pédagogique avant, pendant ou après leur formation. Les stages contribuent à la formation en permettant de mettre en pratique les connaissances théoriques acquises durant la formation et d'acquérir de l'expérience professionnelle ou de développer ses compétences dans l'autre langue officielle du canton.
 
-<sup>2</sup> Pendant leur stage, les stagiaires peuvent exécuter des tâches de façon autonome, mais ils doivent être encadrés, formés et soutenus durant cette période.
+<sup>2</sup> Pendant leur stage, les stagiaires peuvent exécuter des tâches de façon autonome, tout en étant encadrés, formés et soutenus.
 
 <sup>3</sup> Une convention sur les objectifs doit être établie pour chaque stage.
 
 #### Art. 3
 
-**Durée et degré d’occupation**
+**Types de stage**
 
-<sup>1</sup> Le stage dure en règle générale entre deux et douze mois.
+<sup>1</sup> Les différents types de stage sont les suivants:
 
-<sup>2</sup> Le degré d’occupation est en règle générale de 50 pour cent au moins.
+- a le stage du degré tertiaire, comprenant les stages préalables aux études supérieures et ceux qui sont réalisés pendant ou après l'obtention du titre de fin de formation du degré tertiaire;
+- b le stage faisant partie intégrante de la formation du degré secondaire II et constituant une condition à l'obtention du titre de fin de formation;
+- c le stage de préparation à l'entrée au degré secondaire II;
+- d le stage du réseau à disposition des personnes sans emploi ou suivant une formation en école de maturité professionnelle (MP 2) à l'issue d'un apprentissage effectué dans l'administration cantonale ou au sein d'une haute école;
+- e le stage linguistique ouvert aux personnes qui ne sont pas employées par le canton de Berne, afin qu'elles développent leur connaissance de l'autre langue officielle.
 
 #### Art. 4
 
-**Jours de formation**
+**Degré d'occupation**
 
-<sup>1</sup> Lorsque l’institution de formation établit que les jours de formation en dehors de la place de stage font partie intégrante du stage, l’entreprise de stage les comptabilise comme temps de travail.
+<sup>1</sup> Le degré d'occupation est de
+
+- a 50 pour cent au moins en règle générale,
+- b 20 pour cent au moins pour les bénéficiaires du réseau de stages.
+
+<sup>2</sup> Dans des cas motivés, l'autorité d'engagement peut déroger à ces règles.
 
 #### Art. 5
 
-**Traitement annuel**
+**Durée**
 
-<sup>1</sup> Les stagiaires reçoivent la rétribution suivante pendant la durée du stage (données en pour cent de la classe de traitement 1, 13e mois de salaire en sus):
+<sup>1</sup> Le stage dure
 
-<table>
-<tr><th>Echelon</th><th>Sans expérience professionnelle</th><th>Expérience professionnelle moyenne</th><th>Grande expérience professionnelle</th></tr>
-<tr><td>Stage avant les études</td><td>47%</td><td>50%</td><td>60%</td></tr>
-<tr><td>Pendant les études de bachelor</td><td>62%</td><td>65%</td><td>70%</td></tr>
-<tr><td>Pendant les études de master ou avec un titre de bachelor</td><td>75%</td><td>77%</td><td>80%</td></tr>
-<tr><td>Titulaire d’un master</td><td>80%</td><td>90%</td><td>100%</td></tr>
-</table>
+- a en règle générale entre deux et douze mois;
+- b quatre mois en règle générale, mais au plus jusqu'à la fin de l'année civile considérée (31 décembre) pour les personnes du réseau de stages (art. 9) qui sont sans emploi à l'issue de leur apprentissage effectué dans l'administration cantonale ou au sein d'une haute école;
+- c douze mois en règle générale, mais au plus jusqu'à la fin de l'année scolaire considérée (31 juillet) pour les bénéficiaires du réseau de stages (art. 9) suivant une formation en école de maturité professionnelle (MP 2) à l'issue de leur apprentissage effectué dans l'administration cantonale ou au sein d'une haute école;
+
+<sup>2</sup> Dans des cas motivés, l'autorité d'engagement peut déroger à la règle fixée à l'alinéa 1, lettre a.
+
+<sup>3</sup> La législation spéciale est réservée.
 
 #### Art. 6
 
-**Versement du traitement en cas de maladie, d'accident ou de naissance**
+**Traitement annuel**
 
-<sup>1</sup> En cas d’absence pour cause de maladie ou d’accident, un mois de traitement au plus est dû, à condition que le contrat ait été conclu pour une durée de plus de trois mois ou que les rapports de travail aient duré plus de trois mois.
+<sup>1</sup> Le Conseil-exécutif fixe chaque année le traitement des stagiaires.
 
-<sup>2</sup> En cas de naissance, le traitement est versé conformément à l’article 60 de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^6-1].
-
-<sup>3</sup> Dans tous les cas, le traitement est versé au plus jusqu’à la fin du stage.
-
-[^6-1]: RSB 153.011.1
+<sup>2</sup> Il peut l'adapter au renchérissement.
 
 #### Art. 7
 
-**Versement du traitement pendant le service militaire, le service dans la protection civile et le service civil**
+**Versement du traitement en cas de maladie ou d'accident**
 
-<sup>1</sup> Lorsque le stage ne dépasse pas trois mois, le traitement n’est pas dû pendant la durée du service.
+<sup>1</sup> Un mois de traitement au plus est dû aux stagiaires empêchés de travailler pour cause de maladie ou d’accident, à condition que leur contrat ait été conclu pour une durée de plus d'un mois ou que leurs rapports de travail aient duré plus d'un mois.
 
-<sup>2</sup> Lorsque le stage dure plus de trois mois, le traitement est versé conformément aux articles 61 à 73 OPers, mais au plus jusqu’à la fin du stage.
+<sup>2</sup> Pour les stagiaires du degré secondaire II, le maintien du traitement en cas d'empêchement de travailler pour cause de maladie ou d'accident est régi par l'article 52b de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^7-1].
+
+<sup>3</sup> L'article 55 OPers ne s'applique pas.
+
+[^7-1]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
 
 #### Art. 8
 
-**Caisse de pension**
+**Droit aux vacances**
 
-<sup>1</sup> Les stagiaires sont admis à la caisse de pension selon les dispositions de la loi du 30 juin 1993 sur la Caisse de pension bernoise (LCPB)[^8-1], à condition que le stage dure plus de trois mois et que leur traitement atteigne le salaire minimal selon la LPP[^8-2].
+<sup>1</sup> Le droit des stagiaires aux vacances est régi par l'article 144, alinéa 2 OPers.
 
-<sup>2</sup> En principe, les stagiaires sont admis à l’assurance-risque dès 17 ans révolus et jusqu’au 31 décembre qui suit la date à laquelle ils ont eu 24 ans révolus.
-
-<sup>3</sup> Ils passent à l’assurance de rentes au 1er janvier qui suit la date à laquelle ils ont eu 24 ans révolus.
-
-[^8-1]: Abrogée par L du 18. 5. 2014 sur les caisses de pension cantonales (LCPC); RSB 153.41
-[^8-2]: RS 831.40
+<sup>2</sup> Le droit aux vacances des stagiaires du degré secondaire II est régi par l'article 144, alinéa 3 OPers.
 
 #### Art. 9
 
-**Plan des postes**
+**Réseau de stages**
 
-<sup>1</sup> L’engagement des stagiaires s’effectue en dehors du plan des postes.
+<sup>1</sup> L'Office du personnel
+
+- a engage les bénéficiaires du réseau de stages;
+- b répartit ces places de stages entre les unités administratives.
+
+<sup>2</sup> Le service désigné par l'unité administrative accorde aux bénéficiaires du réseau de stages les congés payés de courte durée nécessaires à la recherche d'un emploi et à des perfectionnements spécifiques à leur métier, dans la limite de trois demi-journées de travail par semaine, au prorata du degré d'occupation.
+
+<sup>3</sup> Si une personne trouve un emploi avant le terme de son stage,
+
+- a celui-ci prend fin sur notification écrite à la date de l'entrée en fonction au nouveau poste;
+- b le service désigné par l'unité administrative signale immédiatement à l'Office du personnel que le stage a pris fin.
 
 #### Art. 10
 
-**Certificats de travail**
+**État des postes**
 
-<sup>1</sup> Le ou la stagiaire a droit à un certificat de travail dans la mesure où le stage a duré au moins trois mois.
-
-## 2 Dispositions transitoires et dispositions finales
+<sup>1</sup> L’engagement des stagiaires s’effectue en dehors de l'état des postes.
 
 #### Art. 11
 
-**Contrats en vigueur**
+**Financement des primes d'assurance-accidents**
 
-<sup>1</sup> Dès son entrée en vigueur, la présente ordonnance s’applique d’office à tous les contrats de travail en vigueur conclus avec des stagiaires.
+<sup>1</sup> Le canton finance l'intégralité de la prime d'assurance-accidents professionnels et non professionnels et d'assurance-accidents complémentaire des stagiaires.
 
 #### Art. 12
 
-**Abrogation du droit en vigueur**
+**Droit transitoire**
 
-<sup>1</sup> Les actes législatifs et les arrêtés suivants sont abrogés:
-
-- 1\. ordonnance du 22 mars 2006 sur les rapports de travail des avocats stagiaires et des notaires stagiaires (ordonnance sur les juristes stagiaires, OJS) (RSB 153.012.1),
-- 2\. arrêté du Conseil-exécutif 3919 du 2 octobre 1985 (stages en psychologie),
-- 3\. arrêté du Conseil-exécutif 2710 du 14 juin 1989 (stages en assistance sociale/pédagogie),
-- 4\. arrêté du Conseil-exécutif 2711 du 14 juin 1989 (stages préparatoires),
-- 5\. arrêté du Conseil-exécutif 1613 du 24 mai 2000 (stages dans les services psychologiques pour enfants et adolescents),
-- 6\. arrêté du Conseil-exécutif 1248 du 30 avril 2003 (futurs ingénieurs forestiers EPF).
+<sup>1</sup> Les contrats de stage en cours à l'entrée en vigueur de la présente ordonnance se poursuivent selon le nouveau droit.
 
 #### Art. 13
 
+**Abrogation d'un acte législatif**
+
+<sup>1</sup> L'ordonnance du 3 septembre 2008 sur les rapports de travail des stagiaires (ordonnance sur le travail des stagiaires, OTS)[^13-1] est abrogée.
+
+[^13-1]: RSB [153.012.1](https://www.belex.sites.be.ch/data/153.012.1/fr)
+
+#### Art. 14
+
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1er janvier 2009.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2025.
 
-Berne, le 3 septembre 2008
+Berne, le 13 novembre 2024
 
 Au nom du Conseil-exécutif,
 
-la présidente: Egger-Jenzer
+la présidente: Allemann
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-08-97
+24-055

@@ -4,13 +4,12 @@ number: "153.012.1"
 title: Verordnung über das Arbeitsverhältnis der Praktikantinnen und Praktikanten
 short: "Praktikantenverordnung, PAV"
 language: de
-version: 2009-01-01
-valid_until: 2024-12-31
-version_adopted: 2008-09-03
+version: 2025-01-01
+version_adopted: 2024-11-13
 adopted: 2024-11-13
 in_force: 2025-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.012.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1059/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3088/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,25 +18,23 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1059/pdf_file"
 
 (Praktikantenverordnung, PAV)
 
-vom 03.09.2008 (Stand 01.01.2009)
+vom 13.11.2024 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 17 und Artikel 79 des Personalgesetzes vom 16. September 2004 (PG)[^ingress-1],
+gestützt auf Artikel 17 und Artikel 79 Absatz 1 Buchstabe b des Personalgesetzes vom 16. September 2004 (PG)[^ingress-1],
 
 auf Antrag der Finanzdirektion,
 
 beschliesst:
 
-[^ingress-1]: BSG 153.01
-
-## 1 Allgemeine Bestimmungen
+[^ingress-1]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
 
 #### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt das Anstellungsverhältnis von Praktikantinnen und Praktikanten auf Tertiärstufe, die in einer der Personalgesetzgebung unterstellten Organisationseinheit beschäftigt werden.
+<sup>1</sup> Diese Verordnung regelt das Anstellungsverhältnis von Praktikantinnen und Praktikanten auf Sekundarstufe II, auf Tertiärstufe, im Sprachpraktikum und im Praktikumsnetz (Art. 9), die in einer der Personalgesetzgebung unterstellten Organisationseinheit der Kantonsverwaltung oder Hochschule beschäftigt werden.
 
 <sup>2</sup> Soweit dieser Verordnung keine Regelung entnommen werden kann, findet die Personalgesetzgebung Anwendung.
 
@@ -45,7 +42,7 @@ beschliesst:
 
 **Begriff Praktikum**
 
-<sup>1</sup> Als Praktikum gilt die begleitete Einführung einer Praktikantin oder eines Praktikanten auf Tertiärstufe in den Berufsalltag sowie allenfalls die praktische Prüfungsvorbereitung.
+<sup>1</sup> Als Praktikum gilt die begleitete Einführung in den Berufsalltag, während der Praktikantinnen und Praktikanten in einem Lernumfeld vor, während oder nach der Ausbildung berufliche Fähigkeiten erwerben oder vertiefen können. Praktika dienen der Ausbildung, um theoretisch erworbene Kenntnisse in die Praxis umzusetzen und Berufserfahrung zu sammeln oder ihre sprachlichen Kompetenzen in der anderen Amtssprache zu erweitern.
 
 <sup>2</sup> Die Praktikantinnen und Praktikanten können während ihres Praktikums selbstständig Aufgaben erfüllen, werden dabei aber begleitet, ausgebildet und unterstützt.
 
@@ -53,110 +50,123 @@ beschliesst:
 
 #### Art. 3
 
-**Dauer und Beschäftigungsgrad**
+**Praktikumsarten**
 
-<sup>1</sup> Das Praktikum dauert in der Regel zwischen zwei und zwölf Monaten.
+<sup>1</sup> Es werden folgende Arten von Praktika unterschieden:
 
-<sup>2</sup> Der Beschäftigungsgrad beträgt in der Regel mindestens 50 Prozent.
+- a das Praktikum auf Tertiärstufe mit den Vorstudienpraktika sowie den Praktika während oder nach dem Abschluss auf Tertiärstufe,
+- b das Praktikum während der Ausbildung auf Sekundarstufe II als Bestandteil einer Ausbildung und Voraussetzung für den Abschluss,
+- c das Praktikum vor der Ausbildung auf Sekundarstufe II zur Vorbereitung auf eine bevorstehende Ausbildung,
+- d das Praktikumsnetz für Lehrabgängerinnen und Lehrabgänger der kantonalen Verwaltung und Hochschulen, die nach dem Abschluss stellenlos sind oder die Berufsmaturitätsschule (BM II) besuchen,
+- e das Sprachpraktikum zur Erweiterung der Sprachkenntnisse in der anderen Amtssprache für Personen, die nicht in einem Anstellungsverhältnis mit dem Kanton Bern stehen.
 
 #### Art. 4
 
-**Ausbildungstage**
+**Beschäftigungsgrad**
 
-<sup>1</sup> Wenn Schulungstage ausserhalb des Praktikumsplatzes durch die Ausbildungsinstitution als integraler Bestandteil eines Praktikums definiert sind, dann sind diese durch den Praktikumsbetrieb als Arbeitszeit anzurechnen.
+<sup>1</sup> Der Beschäftigungsgrad beträgt
+
+- a in der Regel mindestens 50 Prozent,
+- b für Praktikantinnen und Praktikanten im Praktikumsnetz mindestens 20 Prozent.
+
+<sup>2</sup> In begründeten Einzelfällen kann die Anstellungsbehörde eine abweichende Regelung festlegen.
 
 #### Art. 5
 
-**Jahresgehalt**
+**Dauer**
 
-<sup>1</sup> Die Praktikantinnen und Praktikanten werden während der Dauer des Praktikums wie folgt entschädigt (Angaben in Prozent der Gehaltsklasse 1 Grundgehalt, zzgl. 13. Monatsgehalt):
+<sup>1</sup> Das Praktikum dauert
 
-<table>
-<tr><th>Stufe</th><th>ohne Berufserfahrung</th><th>mittlere Berufserfahrung</th><th>viel Berufserfahrung</th></tr>
-<tr><td>Vorstudienpraktikum</td><td>47%</td><td>50%</td><td>60%</td></tr>
-<tr><td>Während des Bachelorstudiums</td><td>62%</td><td>65%</td><td>70%</td></tr>
-<tr><td>Während des Masterstudiums bzw. mit Bachelorabschluss</td><td>75%</td><td>77%</td><td>80%</td></tr>
-<tr><td>Masterabsolventin oder Masterabsolvent</td><td>80%</td><td>90%</td><td>100%</td></tr>
-</table>
+- a in der Regel zwischen zwei und zwölf Monaten,
+- b für stellenlose Lehrabgängerinnen und Lehrabgänger der Kantonsverwaltung und Hochschulen im Praktikumsnetz (Art. 9) in der Regel vier Monate, längstens aber bis zum Ende des jeweiligen Kalenderjahres (31. Dezember),
+- c für Lehrabgängerinnen und Lehrabgänger der Kantonsverwaltung und Hochschulen im Praktikumsnetz (Art. 9), die nach dem Abschluss die Berufsmaturitätsschule (BM II) besuchen, in der Regel zwölf Monate, längstens aber bis zum Ende des jeweiligen Schuljahres (31. Juli).
+
+<sup>2</sup> In begründeten Einzelfällen kann die Anstellungsbehörde eine abweichende Regelung von Absatz 1 Buchstabe a festlegen.
+
+<sup>3</sup> Die besondere Gesetzgebung bleibt vorbehalten.
 
 #### Art. 6
 
-**Gehaltsausrichtung bei Krankheit, Unfall und Geburt**
+**Jahresgehalt**
 
-<sup>1</sup> Bei Abwesenheit infolge von Krankheit oder Unfall wird höchstens ein Monatsgehalt ausgerichtet, sofern der Vertrag für mehr als drei Monate abgeschlossen wurde oder das Arbeitsverhältnis mehr als drei Monate gedauert hat.
+<sup>1</sup> Der Regierungsrat setzt das Gehalt der Praktikantinnen und Praktikanten jährlich fest.
 
-<sup>2</sup> Anlässlich einer Geburt erfolgt die Gehaltsausrichtung gemäss Artikel 60 der Personalverordnung vom 18. Mai 2005 (PV)[^6-1].
-
-<sup>3</sup> Das Gehalt wird in jedem Fall längstens bis zum Ablauf der Praktikumsdauer ausgerichtet.
-
-[^6-1]: BSG 153.011.1
+<sup>2</sup> Der Regierungsrat kann das Gehalt der Teuerung anpassen.
 
 #### Art. 7
 
-**Gehaltsausrichtung während des Militär-, Zivilschutz- und Zivildienstes**
+**Gehaltsausrichtung bei Krankheit und Unfall**
 
-<sup>1</sup> Dauert das Praktikum bis zu drei Monaten, besteht während der Dienstleistung kein Anspruch auf das Gehalt.
+<sup>1</sup> Bei Arbeitsverhinderung wegen Krankheit oder Unfall wird den Praktikantinnen und Praktikanten das Gehalt für höchstens einen Monat ausgerichtet, sofern der Praktikumsvertrag für mehr als einen Monat abgeschlossen worden ist oder das Arbeitsverhältnis mehr als einen Monat gedauert hat.
 
-<sup>2</sup> Dauert das Praktikum länger als drei Monate, wird das Gehalt gemäss den Artikeln 61 bis 73 PV ausgerichtet, jedoch längstens bis zum Ablauf der Praktikumsdauer.
+<sup>2</sup> Für Praktikantinnen und Praktikanten auf Sekundarstufe II richtet sich das Gehalt bei Arbeitsverhinderung wegen Krankheit oder Unfall nach Artikel 52b der Personalverordnung vom 18. Mai 2005 (PV)[^7-1].
+
+<sup>3</sup> Artikel 55 PV ist nicht anwendbar.
+
+[^7-1]: BSG [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/de)
 
 #### Art. 8
 
-**Pensionskasse**
+**Ferienanspruch**
 
-<sup>1</sup> Die Praktikantinnen und Praktikanten werden nach den Vorschriften des Gesetzes vom 30. Juni 1993 über die Bernische Pensionskasse (BPKG)[^8-1] in die Pensionskasse aufgenommen, sofern das Praktikum länger als drei Monate dauert und der Mindestjahreslohn gemäss BVG[^8-2] erreicht wird.
+<sup>1</sup> Der Ferienanspruch der Praktikantinnen und Praktikanten richtet sich nach Artikel 144 Absatz 2 PV.
 
-<sup>2</sup> Praktikantinnen und Praktikanten werden grundsätzlich ab dem vollendeten 17. Altersjahr bis zum 31. Dezember nach vollendetem 24. Altersjahr der Risikoversicherung zugewiesen.
-
-<sup>3</sup> Der Übertritt in die Rentenversicherung erfolgt auf den 1. Januar nach vollendetem 24. Altersjahr.
-
-[^8-1]: Aufgehoben durch G vom 18. 5. 2014 über die kantonalen Pensionskassen; BSG 153.41
-[^8-2]: SR 831.40
+<sup>2</sup> Der Ferienanspruch der Praktikantinnen und Praktikanten auf Sekundarstufe II richtet sich nach Artikel 144 Absatz 3 PV.
 
 #### Art. 9
+
+**Praktikumsnetz**
+
+<sup>1</sup> Das Personalamt ist zuständig für
+
+- a die Anstellung der Praktikantinnen und Praktikanten im Praktikumsnetz,
+- b die Zuteilung der Praktikumsplätze in den Organisationseinheiten.
+
+<sup>2</sup> Die von der Organisationseinheit bezeichnete Stelle gewährt den Praktikantinnen und Praktikanten im Praktikumsnetz bezahlten Kurzurlaub im erforderlichen Umfang für die Stellensuche und berufsspezifische Weiterbildungen, höchstens jedoch drei halbe Arbeitstage pro Woche gemäss Beschäftigungsgrad.
+
+<sup>3</sup> Tritt die Praktikantin oder der Praktikant vor Ablauf der vereinbarten Praktikumsdauer eine neue Stelle an,
+
+- a endet das Praktikum auf schriftliche Anzeige hin auf den Zeitpunkt des Antritts der neuen Stelle,
+- b teilt die von der Organisationseinheit bezeichnete Stelle dem Personalamt umgehend die Beendigung des Praktikums mit.
+
+#### Art. 10
 
 **Stellenplan**
 
 <sup>1</sup> Die Anstellung von Praktikantinnen und Praktikanten erfolgt ausserhalb des Stellenplans.
 
-#### Art. 10
-
-**Arbeitszeugnis**
-
-<sup>1</sup> Sofern das Praktikum mindestens drei Monate dauert, besteht Anspruch auf die Ausstellung eines Arbeitszeugnisses.
-
-## 2 Übergangs- und Schlussbestimmungen
-
 #### Art. 11
 
-**Bestehende Verträge**
+**Unfallversicherung Prämienfinanzierung**
 
-<sup>1</sup> Diese Verordnung ist mit ihrem Inkrafttreten ohne Weiteres auf alle bestehenden Anstellungsverträge mit Praktikantinnen und Praktikanten anwendbar.
+<sup>1</sup> Der Kanton übernimmt für die Praktikantinnen und Praktikanten die ganze Prämie für die Berufsunfallversicherung, die Nichtberufsunfallversicherung und die UVG-Zusatzversicherung.
 
 #### Art. 12
 
-**Aufhebung von bisherigem Recht**
+**Übergangsrecht**
 
-<sup>1</sup> Folgende Erlasse und Beschlüsse werden aufgehoben:
-
-- 1\. Verordnung vom 22. März 2006 über das Dienstverhältnis der Anwaltspraktikantinnen und -praktikanten und der Notariatspraktikantinnen und -praktikanten (Praktikantenverordnung, ANPV) (BSG 153.012.1)
-- 2\. Regierungsratsbeschluss 3919 vom 2. Oktober 1985 (Psychologie-praktika)
-- 3\. Regierungsratsbeschluss 2710 vom 14. Juni 1989 (Sozialarbeiter- und Erzieher-Praktika)
-- 4\. Regierungsratsbeschluss 2711 vom 14. Juni 1989 (Vorpraktika)
-- 5\. Regierungsratsbeschluss 1613 vom 24. Mai 2000 (Praktika bei den Erziehungsberatungsstellen)
-- 6\. Regierungsratsbeschluss 1248 vom 30. April 2003 (angehende Forstingenieure ETH).
+<sup>1</sup> Die bei Inkrafttreten dieser Verordnung bestehenden Anstellungsverhältnisse der Praktikantinnen und Praktikanten werden nach neuem Recht weitergeführt.
 
 #### Art. 13
 
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Verordnung vom 3. September 2008 über das Arbeitsverhältnis der Praktikantinnen und Praktikanten (Praktikantenverordnung, PAV)[^13-1] wird aufgehoben.
+
+[^13-1]: BSG [153.012.1](https://www.belex.sites.be.ch/data/153.012.1/de)
+
+#### Art. 14
+
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2009 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2025 in Kraft.
 
-Bern, 3. September 2008
+Bern, 13. November 2024
 
 Im Namen des Regierungsrates
 
-Die Präsidentin: Egger-Jenzer
+Die Präsidentin: Allemann
 
-Der Staatsschreiber: Nuspliger
+Der Staatsschreiber: Auer
 
-08-97
+24-055
