@@ -4,13 +4,12 @@ number: "923.1"
 title: Loi cantonale sur la pêche
 short: LcSP
 language: fr
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-11-10
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 1996-11-15
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/923.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2124/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3438/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2124/pdf_file"
 
 (LcSP)
 
-du 15.11.1996 (état 01.01.2018)
+du 15.11.1996 (état 01.01.2025)
 
 Le Grand Conseil du canton du Valais
 
@@ -698,7 +697,7 @@ ordonne:
 
 **Fonds piscicole**
 
-<sup>1</sup> Un fonds piscicole destiné à favoriser la réalisation des buts de la présente loi est alimenté notamment par le produit des confiscations et des dévolutions, ainsi que par les versements compensatoires. Ce fonds est géré par le Département des finances et porte intérêts.
+<sup>1</sup> Un fonds piscicole destiné à favoriser la réalisation des buts de la présente loi est alimenté notamment par le produit des confiscations et des dévolutions, ainsi que par les versements compensatoires. Ce fonds est géré par le Département des finances.
 
 #### Art. 68
 

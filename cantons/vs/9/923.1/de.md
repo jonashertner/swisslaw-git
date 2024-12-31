@@ -4,13 +4,12 @@ number: "923.1"
 title: Kantonales Fischereigesetz
 short: kFG
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2016-11-10
+version: 2025-01-01
+version_adopted: 2024-11-14
 adopted: 1996-11-15
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/923.1"
-pdf: "https://lex.vs.ch/api/de/versions/2124/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3438/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2124/pdf_file"
 
 (kFG)
 
-vom 15.11.1996 (Stand 01.01.2018)
+vom 15.11.1996 (Stand 01.01.2025)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -698,7 +697,7 @@ verordnet:
 
 **Fischereifonds**
 
-<sup>1</sup> Der Fonds dient der Realisierung der Ziele des vorliegenden Gesetzes. Dieser Fonds wird geäufnet durch den Ertrag, der Einziehungen, den Verfall an den Staat und durch Kompensationsgelder. Er wird vom Finanzdepartement verwaltetund trägt Zinsen.
+<sup>1</sup> Der Fonds dient der Realisierung der Ziele des vorliegenden Gesetzes. Dieser Fonds wird geäufnet durch den Ertrag, der Einziehungen, den Verfall an den Staat und durch Kompensationsgelder. Er wird vom Finanzdepartement verwaltet.
 
 #### Art. 68
 
