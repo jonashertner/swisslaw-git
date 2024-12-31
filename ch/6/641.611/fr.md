@@ -4,11 +4,11 @@ title: "Ordonnance du 20 novembre 1996 sur l'imposition des huiles minérales (O
 short: Oimpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20240101/fr"
 
 (Oimpmin)
 
-du 20 novembre 1996 (État le 1<sup>er</sup> janvier 2024)
+du 20 novembre 1996 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -48,7 +48,7 @@ Au sens de la législation sur l’imposition des huiles minérales, on entend p
 
 [^1-1]: Nouveau numéro selon l’annexe ch. 13 de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
 [^1-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
-[^1-3]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^1-3]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch).
 [^1-4]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
 [^1-5]: Nouvelle teneur selon le ch. I de l’O du 30 janv. 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
 
@@ -60,6 +60,15 @@ L’autorité fiscale[^2-2] et l’Organisation suisse de stockage obligatoire p
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 [^2-2]: Nouvelle expression selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)). Il a été tenu compte de cette mod. dans tout le texte.
+
+#### Art. 2a
+
+**Collaboration avec l’organe d’exécution**[^2a-1]
+
+L’autorité fiscale et l’organe d’exécution visé à l’art. 64 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^2a-2] peuvent échanger des données concernant les titulaires des autorisations en vertu de la Limpmin et des données émanant des rapports que doivent fournir les assujettis à l’impôt, les exportateurs et les bénéficiaires de remboursements.
+
+[^2a-1]: Introduit par l’annexe ch. 3 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^2a-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 3
 
@@ -236,32 +245,41 @@ Dans les déclarations fiscales et les rapports périodiques:
 
 La surtaxe sur les huiles minérales de 300 francs par 1000 l à 15° C pour le gaz naturel et les autres hydrocarbures gazeux des numéros 2711.2110 et 2910 du tarif des douanes correspond à 399 fr. 30 par 1000 kg.
 
-### Section 1*a* Biocarburants
+### Section 1*a* Carburants renouvelables
 
-[^chap2-sec1a-1]
+[^chap2-sec1a-1][^chap2-sec1a-2]
 
 [^chap2-sec1a-1]: Introduite par le ch. I de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nouvelle teneur selon le ch. I de l’O du 4 mai 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^chap2-sec1a-2]: Nouvelle expression selon l’annexe ch. 2 let. a de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 19a
 
-**Biocarburants**
+**Carburants renouvelables**
 
-Sont réputés biocarburants:
+Sont réputés carburants renouvelables:[^19a-1]
 
-- a. *le bioéthanol:* éthanol issu de la biomasse ou d’autres agents énergétiques renouvelables;
-- b. *le biodiesel:* ester monoalkyle d’acides gras d’huiles végétales ou animales;
-- c. *le biogaz:* gaz riche en méthane provenant de la fermentation ou de la gazéification de la biomasse, y compris le gaz de digestion et le gaz de décharge;
-- d. *le biométhanol:* méthanol issu de la biomasse ou d’autres agents énergétiques renouvelables;
-- e. *le bio-éther diméthylique:* éther dyméthylique issu de la biomasse ou d’autres agents énergétiques renouvelables;
-- f. *le biohydrogène:* hydrogène issu de la biomasse ou d’autres agents énergétiques renouvelables;
-- g. *les biocarburants synthétiques:* hydrocarbures ou mélanges d’hydrocarbures synthétiques issus de la biomasse ou d’autres agents énergétiques renouvelables;
-- h. les huiles végétales et animales et les huiles végétales et animales usagées.
+- a. *l’éthanol renouvelable*[^19a-2]: éthanol issu de la biomasse ou d’autres agents énergétiques renouvelables;
+- b. *le biodiesel*: ester monoalkyle d’acides gras d’huiles végétales ou animales;
+- c. *le biogaz*: gaz riche en méthane provenant de la fermentation ou de la gazéification de la biomasse, y compris le gaz de digestion et le gaz de décharge;
+- d. *le méthanol renouvelable*[^19a-3]: méthanol issu de la biomasse ou d’autres agents énergétiques renouvelables;
+- e. *le bio-éther diméthylique*[^19a-4]: éther dyméthylique issu de la biomasse ou d’autres agents énergétiques renouvelables;
+- f. *l’hydrogène renouvelable*[^19a-5]: hydrogène issu de la biomasse ou d’autres agents énergétiques renouvelables;
+- g. *les carburants renouvelables synthétiques*: hydrocarbures ou mélanges d’hydrocarbures synthétiques issus de la biomasse ou d’autres agents énergétiques renouvelables;
+- h. les huiles végétales et animales et les huiles végétales et animales usagées;
+- i.[^19a-6] les éthers végétaux et animaux hydrogénés, les acides gras végétaux et animaux hydrogénés, les huiles végétales et animales hydrogénées et les huiles végétales et animales hydrogénées usagées.
+
+[^19a-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-2]: Nouvelle expression selon l’annexe ch. 2 let. b de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-3]: Nouvelle expression selon l’annexe ch. 2 let. c de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-4]: Nouvelle expression selon l’annexe ch. 2 let. d de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-5]: Nouvelle expression selon l’annexe ch. 2 let. e de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)). Il a été tenu compte de cette mod. dans tout le texte.
+[^19a-6]: Introduite par l’annexe ch. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 19b
 
-**Allégement fiscal pour les biocarburants**
+**Allégement fiscal pour les carburants renouvelables**
 
-L’allégement fiscal pour les biocarburants est accordé sur demande conformément au tarif figurant à l’annexe 2.
+L’allégement fiscal pour les carburants renouvelables est accordé sur demande conformément au tarif figurant à l’annexe 2.
 
 #### Art. 19c
 
@@ -271,8 +289,8 @@ L’allégement fiscal pour les biocarburants est accordé sur demande conformé
 
 Les exigences visées à l’art. 12*b*, al. 1, let. a à c, Limpmin (exigences écologiques) sont remplies:
 
-- a. si, depuis la production des matières premières jusqu’à leur utilisation, les biocarburants émettent au moins 40 % de gaz à effet de serre en moins que l’essence fossile;
-- b. si, depuis la production des matières premières jusqu’à leur utilisation, les biocarburants ne nuisent globalement pas à l’environnement de plus de 25 % que l’essence fossile, et
+- a. si, depuis la production des matières premières jusqu’à leur utilisation, les carburants renouvelables émettent au moins 40 % de gaz à effet de serre en moins que l’essence fossile;
+- b. si, depuis la production des matières premières jusqu’à leur utilisation, les carburants renouvelables ne nuisent globalement pas à l’environnement de plus de 25 % que l’essence fossile, et
 - c. si les matières premières n’ont pas été produites sur des surfaces ayant fait l’objet d’un changement d’affectation après le 1<sup>er</sup> janvier 2008 et ayant présenté avant le changement d’affectation un important stock de carbone ou une grande diversité biologique.
 
 <sup>2</sup> Est également considérée comme changement d’affectation l’utilisation de surfaces préalablement non utilisées.
@@ -295,8 +313,8 @@ Les surfaces présentant une grande diversité biologique sont en particulier le
 
 Les exigences visées à l’art. 12*b*, al. 1, let. d et e, Limpmin (exigences sociales) sont remplies:
 
-- a. si les surfaces sur lesquelles les matières premières nécessaires pour les biocarburants sont produites ont été acquises légalement, l’acquisition légale étant régie par le droit national et les obligations internationales de l’État dans lequel se trouvent les surfaces de culture ainsi que par les standards internationaux reconnus, et
-- b.[^19d-1] si, lors de la production des matières premières et de la fabrication des biocarburants, la législation sociale applicable au lieu de culture et au lieu de production, ou au moins les principes et droits fondamentaux des travailleurs qui font l’objet des conventions fondamentales de l’Organisation internationale du travail (OIT), sont respectés.
+- a. si les surfaces sur lesquelles les matières premières nécessaires pour les carburants renouvelables sont produites ont été acquises légalement, l’acquisition légale étant régie par le droit national et les obligations internationales de l’État dans lequel se trouvent les surfaces de culture ainsi que par les standards internationaux reconnus, et
+- b.[^19d-1] si, lors de la production des matières premières et de la fabrication des carburants renouvelables, la législation sociale applicable au lieu de culture et au lieu de production, ou au moins les principes et droits fondamentaux des travailleurs qui font l’objet des conventions fondamentales de l’Organisation internationale du travail (OIT), sont respectés.
 
 <sup>2</sup>
 
@@ -332,7 +350,7 @@ Les conventions fondamentales de l’OIT sont les suivantes:[^19d-2]
 
 **Exigences relatives à la production d’agents énergétiques renouvelables autres que la biomasse**
 
-Si des biocarburants sont fabriqués à partir d’agents énergétiques renouvelables autres que la biomasse et qu’aucune matière première n’est en l’occurrence cultivée, on entend pour déterminer si ces carburants remplissent les exigences visées aux art. 19*c* et 19*d* par culture des matières premières la production des agents énergétiques.
+Si des carburants renouvelables sont fabriqués à partir d’agents énergétiques renouvelables autres que la biomasse et qu’aucune matière première n’est en l’occurrence cultivée, on entend pour déterminer si ces carburants remplissent les exigences visées aux art. 19*c* et 19*d* par culture des matières premières la production des agents énergétiques.
 
 #### Art. 19f
 
@@ -342,8 +360,8 @@ Si des biocarburants sont fabriqués à partir d’agents énergétiques renouve
 
 La preuve de la conformité des exigences écologiques et la preuve par la vraisemblance de la conformité des exigences sociales doivent être apportées:
 
-- a. pour les biocarburants importés: par l’importateur;
-- b. pour les biocarburants fabriqués en Suisse: par l’établissement de fabrication.
+- a. pour les carburants renouvelables importés: par l’importateur;
+- b. pour les carburants renouvelables fabriqués en Suisse: par l’établissement de fabrication.
 
 <sup>2</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication règle les modalités relatives à la preuve de conformité aux exigences écologiques.
 
@@ -351,9 +369,9 @@ La preuve de la conformité des exigences écologiques et la preuve par la vrais
 
 #### Art. 19g
 
-**Demande d’allégement fiscal pour les biocarburants**
+**Demande d’allégement fiscal pour les carburants renouvelables**
 
-<sup>1</sup> La demande d’allégement fiscal pour les biocarburants doit être remise à l’autorité fiscale.
+<sup>1</sup> La demande d’allégement fiscal pour les carburants renouvelables doit être remise à l’autorité fiscale.
 
 <sup>2</sup>
 
@@ -370,7 +388,7 @@ Les documents suivants doivent être joints à la demande:
 
 **Durée de validité de l’allégement fiscal**
 
-<sup>1</sup> L’allégement fiscal est valable quatre ans à compter de la date de la décision. Il est révoqué si les conditions ne sont plus remplies.
+<sup>1</sup> L’allégement fiscal est valable jusqu’au 31 décembre 2030. Il est révoqué si les conditions ne sont plus remplies.[^19h-1]
 
 <sup>2</sup>
 
@@ -378,6 +396,8 @@ L’importateur ou l’établissement de fabrication doit annoncer immédiatemen
 
 - a. modifications concernant la biomasse utilisée ou les autres agents énergétiques renouvelables et le processus de fabrication, susceptibles d’entraîner le non-respect des exigences écologiques et sociales;
 - b. modifications concernant la circulation des marchandises ou les personnes qui participent aux échanges.
+
+[^19h-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ### Section 2 Impôt différencié selon l’emploi de la marchandise
 
@@ -634,7 +654,7 @@ Le carburant importé dans le réservoir d’un véhicule est exonéré de l’i
 
 <sup>1</sup> Les carburants qui sont fabriqués à partir de la biomasse ou d’autres agents énergétiques renouvelables dans des installations pilotes et de démonstration, mais qui ne relèvent toutefois pas de l’art. 19*a*, sont exonérés de l’impôt; ils peuvent contenir une très faible part d’agents énergétiques provenant de sources non renouvelables si cela s’avère indispensable à leur fabrication.[^35-1]
 
-<sup>2</sup> ...[^35-2]
+<sup>2</sup> …[^35-2]
 
 <sup>3</sup>
 
@@ -714,18 +734,21 @@ L’autorisation d’effectuer une déclaration fiscale périodique expire:
 
 <sup>1</sup> La personne assujettie à l’impôt doit remettre la déclaration fiscale périodique au plus tard le 10<sup>e</sup> jour du mois qui suit le jour de la naissance de la créance fiscale.[^41-1]
 
+<sup>1bis</sup> Sont exemptés des obligations visées à l’al. 1 les établissements de fabrication de carburants renouvelables qui sont destinés à la production d’électricité et qui bénéficient de l’allégement fiscal visé à l’art. 12*b* Limpmin.[^41-2]
+
 <sup>2</sup>
 
 La déclaration fiscale périodique doit être remise sous la forme prescrite et fournir les quantités totales classées par genre de marchandise (numéro du tarif des douanes, numéro statistique) et par taux de l’impôt, séparément pour:
 
 - a. les déclarations fiscales provisoires;
 - b. chaque entrepôt agréé, et
-- c.[^41-2] les entrepôts de réserves obligatoires hors des entrepôts agréés.
+- c.[^41-3] les entrepôts de réserves obligatoires hors des entrepôts agréés.
 
 <sup>3</sup> Si les taux de l’impôt changent, la personne assujettie à l’impôt doit remettre des déclarations fiscales séparées, avant et après la modification.
 
 [^41-1]: Nouvelle teneur selon le ch. I de l’O du 12 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
-[^41-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^41-2]: Introduit par l’annexe ch. 3 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^41-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 42
 
@@ -781,7 +804,7 @@ La déclaration fiscale périodique doit être remise sous la forme prescrite et
 
 **Avance pour les mélanges de carburants**
 
-<sup>1</sup> L’allégement fiscal sur la part biogène des mélanges de carburants qui comprennent des carburants donnant droit à un allégement fiscal et d’autres carburants est accordé en proportion, pour autant que les exigences écologiques et sociales soient remplies.[^45a-1]
+<sup>1</sup> L’allégement fiscal sur la part renouvelable[^45a-1] des mélanges de carburants qui comprennent des carburants donnant droit à un allégement fiscal et d’autres carburants est accordé en proportion, pour autant que les exigences écologiques et sociales soient remplies.[^45a-2]
 
 <sup>2</sup>
 
@@ -790,7 +813,8 @@ Il est accordé sous la forme d’une avance pour les marchandises qui:
 - a. sont importées et transférées dans un entrepôt agréé ou dans un entrepôt de réserves obligatoires hors entrepôts agréés;
 - b. sont mélangées avec d’autres carburants dans un entrepôt agréé.
 
-[^45a-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^45a-1]: Nouvelle expression selon l’annexe ch. 2 let. a de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^45a-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
 #### Art. 45b
 
@@ -824,7 +848,7 @@ L’autorité fiscale demande le remboursement de l’avance accordée:
   - 1\. qui sont mises à la consommation à partir d’un entrepôt agréé ou d’un entrepôt de réserves obligatoires hors entrepôts agréés, ou
   - 2\. pour lesquelles l’exonération fiscale a été accordée sous la forme d’un remboursement.
 
-<sup>2</sup> L’avance est remboursée en fonction de la teneur effective en biocarburants. Si la personne assujettie à l’impôt ne peut pas prouver cette teneur, l’avance est remboursée en fonction de la quantité de biocarburant qui peut être mélangée au maximum par marchandise.[^45c-1]
+<sup>2</sup> L’avance est remboursée en fonction de la teneur effective en carburants renouvelables. Si la personne assujettie à l’impôt ne peut pas prouver cette teneur, l’avance est remboursée en fonction de la quantité de carburant renouvelable qui peut être mélangée au maximum par marchandise.[^45c-1]
 
 [^45c-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
@@ -834,42 +858,44 @@ L’autorité fiscale demande le remboursement de l’avance accordée:
 
 Les parts de carburants au sens de l’art. 20*a*, al. 2, Limpmin ne doivent pas être déclarées séparément si elles sont inévitables lors de la manipulation et si elles n’excèdent pas 0,5 % du mélange.
 
-[^45d-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2016, en vigueur depuis le 1er août 2016 (RO 2016 2667).
+[^45d-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
-### Section 4 Dispositions spéciales applicables au biogaz, au biohydrogène et au gaz synthétique utilisés en tant que carburant en cas d’injection dans le réseau de gaz naturel ou de distribution directe dans une station-service
+### Section 4 Dispositions spéciales applicables aux carburants renouvelables et au gaz naturel distribué dans des stations-service raccordées au réseau de gaz naturel
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Anciennement avant l’art. 45*d*. Introduite par le ch. I de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nouvelle teneur selon le ch. I de l’O du 4 mai 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^chap4-sec4-1]: Anciennement avant l’art. 45*d*. Introduite par le ch. I de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nouvelle teneur selon l’annexe ch. 3 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 45e
 
 <sup>1</sup>
 
-Le biogaz, le biohydrogène et le gaz synthétique doivent être déclarés au service de clearing exploité par l’industrie gazière:
+Le biogaz, l’hydrogène renouvelable et le gaz synthétique doivent être déclarés à l’organe d’exécution visé à l’art. 64 de la loi du 30 septembre 2016 sur l’énergie[^45e-1]:
 
-- a. lorsqu’ils correspondent aux dispositions de la directive de mars 2016[^45e-1] de la Société Suisse de l’Industrie du Gaz et des Eaux pour l’injection de gaz renouvelables (Directive G13) et qu’ils sont injectés dans le réseau de gaz naturel et mesurés par une connexion fixe, ou
+- a. lorsqu’ils sont injectés dans le réseau de gaz naturel et mesurés par une connexion fixe, ou
 - b. lorsqu’ils sont préparés comme carburants et qu’ils sont distribués directement dans une station-service.
 
 <sup>2</sup>
 
-Les établissements de fabrication de biogaz, de biohydrogène ou de gaz synthétique doivent présenter à l’autorité fiscale via le service de clearing:
+Les établissements de fabrication de carburants renouvelables doivent présenter à l’autorité fiscale via l’organe d’exécution:
 
 - a. la déclaration fiscale périodique au sens de l’art. 20 Limpmin;
 - b. le rapport périodique au sens de l’art. 31 Limpmin.
 
-<sup>3</sup> Les fournisseurs et les vendeurs de gaz naturel doivent présenter à l’autorité fiscale via le service de clearing les rapports selon lesquels une différence d’impôt au sens de l’art. 4, al. 2, let. a, Limpmin a pris naissance.
+<sup>3</sup> Les fournisseurs et les vendeurs de gaz naturel doivent présenter à l’autorité fiscale via l’organe d’exécution les rapports selon lesquels une différence d’impôt au sens de l’art. 4, al. 2, let. a, Limpmin a pris naissance.
 
 <sup>4</sup>
 
-Les établissements de fabrication de biogaz, de biohydrogène et de gaz synthétique ainsi que les fournisseurs et les vendeurs de gaz naturel doivent tenir des relevés sur:
+Les établissements de fabrication de biogaz, d’hydrogène renouvelable ou de gaz synthétique ainsi que les fournisseurs et les vendeurs de gaz naturel doivent tenir des relevés sur:
 
-- a. la réception de biogaz, de biohydrogène et de gaz synthétique ventilée par fournisseurs;
-- b. la remise de biogaz, de biohydrogène et de gaz synthétique ventilée par destinataires.
+- a. la réception de biogaz, d’hydrogène renouvelable et de gaz synthétique, ventilée par fournisseurs;
+- b. la remise de biogaz, d’hydrogène renouvelable et de gaz synthétique, ventilée par destinataires.
 
-<sup>5</sup> Les importateurs, les exportateurs et les intermédiaires doivent annoncer toutes les quantités de biogaz, de biohydrogène et de gaz synthétique importées, exportées et commercialisées au service de clearing.
+<sup>5</sup> Les importateurs, les exportateurs et les intermédiaires doivent annoncer toutes les quantités de biogaz, d’hydrogène renouvelable et de gaz synthétique importées, exportées et commercialisées à l’organe d’exécution.
 
-[^45e-1]: La directive G13 peut être acquise sur le site Internet de la Société Suisse de l’Industrie du Gaz et des Eaux: www.svgw.ch &gt; Boutique &gt; Réglementation &gt; Gaz
+<sup>6</sup> L’organe d’exécution transmet immédiatement les données à l’autorité fiscale. Il contrôle en particulier si les quantités annoncées ont été entièrement comptabilisées et n’ont pas été utilisées ou imputées plusieurs fois.
+
+[^45e-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 ## Chapitre 5 Remboursements de l’impôt
 
@@ -904,13 +930,13 @@ Les montants inférieurs à 100 francs ne sont pas remboursés.
 
 L’année civile est réputée exercice comptable pour les remboursements suivants:
 
-- a. remboursements aux requérants qui ne sont pas assujettis à l’obligation de tenir une comptabilité visée à l’art. 957, al. 1, du code des obligations[^48-3];
+- a.[^48-3] remboursements aux requérants qui ne sont pas liés à un exercice comptable;
 - b. remboursements pour le carburant qui a été consommé par les entreprises de transport concessionnaires de la Confédération;
 - c. remboursements pour le carburant qui a été consommé par les agriculteurs.[^48-4]
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 [^48-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
-[^48-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 [^48-4]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 48a
@@ -1223,7 +1249,7 @@ Les contrôles de la consommation doivent mentionner le genre et la quantité de
 Les contrôles de la consommation doivent mentionner le genre et la quantité de carburant utilisés par machine ou installation. Ils doivent fournir au minimum les informations suivantes:
 
 - a. l’état du compteur d’heures de marche au début et à la fin de la période de remboursement;
-- b. le nombre d’heures de marche effectuées, avec mention séparée des fins donnant droit à l’allégement fiscal et des fins n’y donnant pas droit ;
+- b. le nombre d’heures de marche effectuées, avec mention séparée des fins donnant droit à l’allégement fiscal et des fins n’y donnant pas droit;
 - c. les indications nécessaires à l’identification de la machine ou de l’installation, notamment le numéro de série.
 
 <sup>3</sup> Si une machine ou une installation n’est pas munie d’un compteur d’heures de marche à sa sortie d’usine et que la mise en place d’un compteur est disproportionnée, l’autorité fiscale peut, sur demande, autoriser que les informations visées à l’al. 2, let. a, ne soient pas mentionnées dans les contrôles de la consommation.[^66a-2]
@@ -1871,7 +1897,7 @@ Les allégements fiscaux pour les carburants issus de matières premières renou
 
 [^u3-1]: [RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)
 
-Les allégements fiscaux pour les biocarburants qui sont valables le 30 juin 2020 conservent leur validité jusqu’au 31 décembre 2023.
+Les allégements fiscaux pour les carburants renouvelables qui sont valables le 30 juin 2020 conservent leur validité jusqu’au 31 décembre 2023.
 
 ## Dispositions transitoires relatives à la modification du 25 octobre 2023
 
@@ -1879,9 +1905,21 @@ Les allégements fiscaux pour les biocarburants qui sont valables le 30 juin 202
 
 [^u4-1]: [RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)
 
-<sup>1</sup> Les allégements fiscaux pour les biocarburants qui ont été octroyés sur la base d’une décision rendue entre le 1<sup>er</sup> janvier 2018 et le 31 décembre 2024 conservent leur validité jusqu’au 31 décembre 2024.
+<sup>1</sup> Les allégements fiscaux pour les carburants renouvelables qui ont été octroyés sur la base d’une décision rendue entre le 1<sup>er</sup> janvier 2018 et le 31 décembre 2024 conservent leur validité jusqu’au 31 décembre 2024.
 
-<sup>2</sup> L’art. 19*d* de l’ancien droit s’applique aux demandes d’allégements fiscaux pour les biocarburants qui sont présentées avant l’entrée en vigueur de la modification du 25 octobre 2023.
+<sup>2</sup> L’art. 19*d* de l’ancien droit s’applique aux demandes d’allégements fiscaux pour les carburants renouvelables qui sont présentées avant l’entrée en vigueur de la modification du 25 octobre 2023.
+
+## Dispositions transitoires relatives à la modification du 2 avril 2025
+
+[^u5-1]
+
+[^u5-1]: [RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)
+
+<sup>1</sup> Les allégements fiscaux pour les carburants renouvelables qui cessent d’être valables le 31 décembre 2024 conservent leur validité jusqu’au 31 décembre 2030.
+
+<sup>2</sup> …[^u5-2]
+
+[^u5-2]: En vigueur le 1<sup>er</sup> janv. 2026.
 
 Annexe 1[^t-1]
 
@@ -1904,35 +1942,25 @@ Annexe 2[^t-2]
 
 (art. 19*b*)
 
-## Tarif de l’impôt sur les biocarburants
+## Tarif de l’impôt sur les carburants renouvelables
 
-[^t-2]: Introduite par le ch. II de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nouvelle teneur selon le ch. II de l’O du 4 mai 2016 ([RO 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Mise à jour par l’annexe 3 ch. 9 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), le ch. II des O du 1<sup>er</sup> juil. 2020 ([RO 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)) et du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^t-2]: Introduite par le ch. II de l’O du 30 janv. 2008 ([RO 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 <table>
-<tr><td>N<sup>o</sup> du tarif des douanes</td><td>Désignation de la marchandise</td><td>Taux de l’impôt</td><td>Surtaxe</td></tr>
+<tr><th>N<sup>o</sup> du tarif des douanes</th><th>Désignation de la marchandise</th><th>Taux de l’impôt</th><th>Surtaxe</th></tr>
 <tr><td></td><td></td><td>Par 1000 l à 15 °C Fr.</td><td>Par 1000 l à 15 °C Fr.</td></tr>
-<tr><td>[tab] 2207.1000 [tab] 2000</td><td>[tab] Bioéthanol</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td>[tab] 3826.0010</td><td>[tab] Biodiesel</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td></td><td></td><td>Par 1000 kg Fr.</td><td>Par 1000 kg Fr.</td></tr>
-<tr><td>[tab] 2711.1910</td><td>[tab] Biogaz, liquéfié</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td>[tab] 2711.2910</td><td>[tab] Biogaz, à l’état gazeux</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td></td><td></td><td>Par 1000 l à 15 °C Fr.</td><td>Par 1000 l à 15 °C Fr.</td></tr>
-<tr><td>[tab] 2905.1110</td><td>[tab] Biométhanol</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td>[tab] 2909.1910</td><td>[tab] Bio-éther dyméthylique</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td></td><td></td><td>Par 1000 kg Fr.</td><td>Par 1000 kg Fr.</td></tr>
-<tr><td>[tab] 2804.1000</td><td>[tab] Biohydrogène:</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>– à l’état gazeux</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td></td><td></td><td>Par 1000 l à 15 °C Fr.</td><td>Par 1000 l à 15 °C Fr.</td></tr>
-<tr><td></td><td>– liquéfié</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td></td><td>Biocarburants synthétiques:</td><td></td><td></td></tr>
-<tr><td>2710.1911 [tab] 1912 [tab] 1919</td><td>– huiles et graisses végétales ou animales hydrogénées</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td></td><td></td><td>Par 1000 kg Fr.</td><td>Par 1000 kg Fr.</td></tr>
-<tr><td>[tab] 2711.1910</td><td>– gaz synthétique, liquéfié</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>Par 1000 l à 15 °C Fr.</td><td>Par 1000 l à 15 °C Fr.</td></tr>
-<tr><td>[tab] 3824.9920</td><td>– résidu de la distillation de biodiesel</td><td>[tab] 0.00</td><td>[tab] 0.00</td></tr>
-<tr><td></td><td></td><td>Par 1000 kg Fr.</td><td>Par 1000 kg Fr.</td></tr>
-<tr><td></td><td>Biocarburants synthétiques:</td><td></td><td></td></tr>
-<tr><td>2711.2910</td><td>– gaz synthétique, à l’état gazeux</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>Par 1000 l à 15 °C Fr.</td><td>Par 1000 l à 15 °C Fr.</td></tr>
+<tr><td>2207.1000 2000</td><td>Éthanol renouvelable</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2710.1911 1912 1919</td><td>Éthers végétaux et animaux hydrogénés, acides gras végétaux et animaux hydrogénés, huiles végétales et animales hydrogénées et huiles végétales et animales hydrogénées usagées</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2804.1000</td><td>Hydrogène renouvelable, liquéfié</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2905.1110</td><td>Méthanol renouvelable</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2909.1910</td><td>Éther diméthylique renouvelable</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>3824.9920</td><td>Résidu de la distillation de biodiesel</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>3826.0010</td><td>Biodiesel</td><td>0.00</td><td>0.00</td></tr>
 <tr><td>Chap. 15</td><td>Huiles végétales et animales et huiles végétales et animales usagées</td><td>0.00</td><td>0.00</td></tr>
+<tr><td></td><td></td><td>Par 1000 kg Fr.</td><td>Par 1000 kg Fr.</td></tr>
+<tr><td>2711.1910</td><td>Biogaz, liquéfié</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2711.1910</td><td>Gaz synthétique, liquéfié</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2711.2910</td><td>Biogaz, à l’état gazeux</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2711.2910</td><td>Gaz synthétique, à l’état gazeux</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2804.1000</td><td>Hydrogène renouvelable, à l’état gazeux</td><td>0.00</td><td>0.00</td></tr>
 </table>

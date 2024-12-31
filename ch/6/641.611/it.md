@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1996 sull'imposizione degli oli minerali (OIOm
 short: OIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: it
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20240101/it"
 
 (OIOm)
 
-del 20 novembre 1996 (Stato 1° gennaio 2024)
+del 20 novembre 1996 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -26,7 +26,7 @@ vista la legge federale del 21 giugno 1996[^ingress-1] sull’imposizione degli 
 ordina:
 
 [^ingress-1]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
-[^ingress-2]: Nuova espr. giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Di detta mod. è tenuto conto in tutto il testo.
+[^ingress-2]: Nuova espr. giusta la cifra I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Di detta mod. è tenuto conto in tutto il testo.
 
 ## Capitolo 1: Disposizioni generali
 
@@ -50,7 +50,7 @@ A tenore della legislazione sull’imposizione degli oli minerali s’intende pe
 [^1-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), All.
 [^1-3]: Il testo di tale norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^1-4]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^1-5]: Nuovo testo giusta il n. I dell’O del 30 gen. 2008, in vigore dal 1° lug. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
+[^1-5]: Nuovo testo giusta la cifra I dell’O del 30 gen. 2008, in vigore dal 1° lug. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
 
 #### Art. 2
 
@@ -58,8 +58,17 @@ A tenore della legislazione sull’imposizione degli oli minerali s’intende pe
 
 L’autorità fiscale[^2-2] e l’Organizzazione svizzera di scorte obbligatorie per carburanti e combustibili liquidi (Carbura) possono scambiarsi i dati relativi ai rapporti stesi dalle persone assoggettate all’imposta e dai detentori di scorte obbligatorie.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^2-2]: Nuova espressione giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^2-2]: Nuova espressione giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)). Di detta mod. è tenuto conto in tutto il presente testo.
+
+#### Art. 2a
+
+**Collaborazione con l’organo d’esecuzione**[^2a-1]
+
+L’autorità fiscale e l’organo d’esecuzione di cui all’articolo 64 della legge del 30 settembre 2016[^2a-2] sull’energia (LEne) possono scambiarsi dati relativi ai titolari di autorizzazioni ai sensi della LIOm e dati provenienti da notifiche che i contribuenti, gli esportatori e gli aventi diritto al rimborso devono effettuare.
+
+[^2a-1]: Introdotto dall’all. n. 3 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^2a-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 3
 
@@ -123,7 +132,7 @@ La prestazione di garanzia serve a garantire l’imposta e gli altri tributi, in
 
 <sup>3</sup> Per le scorte obbligatorie non imponibili, la Carbura deve prestare una garanzia adeguata.[^8-1]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
 
 #### Art. 9
 
@@ -214,7 +223,7 @@ Nelle dichiarazioni fiscali e nei rapporti periodici:
 
 [^17-1]: [RS 631.035](https://fedlex.data.admin.ch/eli/cc/2007/255)
 [^17-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^17-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^17-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ## Capitolo 2: Tariffe
 
@@ -236,32 +245,40 @@ Nelle dichiarazioni fiscali e nei rapporti periodici:
 
 Il supplemento fiscale sugli oli minerali di franchi 300 per 1000 l a 15°C per il gas di petrolio e gli idrocarburi gassosi delle voci 2711.2110 e 2910 della tariffa doganale corrisponde a franchi 399,30 per 1000 kg.
 
-### Sezione 1*a*: Biocarburanti
+### Sezione 1*a*: Carburanti rinnovabili
 
-[^chap2-sec1a-1]
+[^chap2-sec1a-1][^chap2-sec1a-2]
 
-[^chap2-sec1a-1]: Introdotta dal n. I dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^chap2-sec1a-1]: Introdotta dalla cifra I dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta la cifra I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^chap2-sec1a-2]: Nuova espr. giusta l’all. n. 2 lett. a dell’O del 2 apr. 2025 sul CO<sub>2</sub>, in vigore dal 1° gen. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 19a
 
-**Biocarburanti**
+**Carburanti rinnovabili**
 
-Per biocarburanti s’intendono:
+Per carburanti rinnovabili s’intendono:
 
-- a. *il bioetanolo:* etanolo proveniente da biomassa o da altri agenti energetici rinnovabili;
+- a. *l’etanolo rinnovabile*[^19a-1]*:* etanolo proveniente da biomassa o da altri agenti energetici rinnovabili;
 - b. *il biodiesel:* esteri monoalchilici di acidi grassi di oli vegetali o animali;
 - c. *il biogas:* gas ricco di metano proveniente dalla fermentazione o dalla gassificazione della biomassa, inclusi il gas di depurazione e il gas di discarica;
-- d. *il biometanolo*: metanolo proveniente da biomassa o da altri agenti energetici rinnovabili;
-- e. *il biodimetiletere:* etere dimetilico proveniente da biomassa o da altri agenti energetici rinnovabili;
-- f. *il bioidrogeno:* idrogeno proveniente da biomassa o da altri agenti energetici rinnovabili;
-- g. *i biocarburanti sintetici*: idrocarburi sintetici o miscele di idrocarburi sintetici provenienti da biomassa o da altri agenti energetici rinnovabili;
-- h. gli oli vegetali e animali o gli oli usati vegetali e animali.
+- d. *il metanolo rinnovabile*[^19a-2]: metanolo proveniente da biomassa o da altri agenti energetici rinnovabili;
+- e. *il dimetiletere rinnovabile*[^19a-3]*:* etere dimetilico proveniente da biomassa o da altri agenti energetici rinnovabili;
+- f. l’*idrogeno rinnovabile*[^19a-4]*:* idrogeno proveniente da biomassa o da altri agenti energetici rinnovabili;
+- g. *i carburanti rinnovabili* *sintetici*: idrocarburi sintetici o miscele di idrocarburi sintetici provenienti da biomassa o da altri agenti energetici rinnovabili;
+- h. gli oli vegetali e animali o gli oli usati vegetali e animali;
+- i.[^19a-5] gli esteri vegetali e animali idrogenati, gli acidi grassi, gli oli e gli oli usati.
+
+[^19a-1]: Nuova espr. giusta l’all. n. 2 lett. b dell’O del 2 apr. 2025 sul CO<sub>2</sub>, in vigore dal 1° gen. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-2]: Nuova espr. giusta l’all. n. 2 lett. c dell’O del 2 apr. 2025 sul CO<sub>2</sub>, in vigore dal 1° gen. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-3]: Nuova espr. giusta l’all. n. 2 lett. d dell’O del 2 apr. 2025 sul CO<sub>2</sub>, in vigore dal 1° gen. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^19a-4]: Nuova espr. giusta l’all. n. 2 lett. e dell’O del 2 apr. 2025 sul CO<sub>2</sub>, in vigore dal 1° gen. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^19a-5]: Introdotta testo giusta l’all. n. 2 dell’O del 2 apr. 2025 sul CO<sub>2</sub>, in vigore dal 1° gen. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 19b
 
-**Agevolazione fiscale per biocarburanti**
+**Agevolazione fiscale per carburanti rinnovabili**
 
-L’agevolazione fiscale per biocarburanti è concessa, su domanda, secondo la tariffa nell’allegato 2.
+L’agevolazione fiscale per carburanti rinnovabili è concessa, su domanda, secondo la tariffa nell’allegato 2.
 
 #### Art. 19c
 
@@ -271,8 +288,8 @@ L’agevolazione fiscale per biocarburanti è concessa, su domanda, secondo la t
 
 Le esigenze di cui all’articolo 12*b* capoverso 1 lettere a–c LIOm (esigenze ecologiche) sono adempiute se:
 
-- a. dalla coltivazione delle materie prime fino al loro consumo, i biocarburanti emettono almeno il 40 per cento in meno di gas serra rispetto alla benzina fossile;
-- b. dalla coltivazione delle materie prime fino al loro consumo, i biocarburanti inquinano l’ambiente al massimo il 25 per cento in più rispetto alla benzina fossile; e
+- a. dalla coltivazione delle materie prime fino al loro consumo, i carburanti rinnovabili emettono almeno il 40 per cento in meno di gas serra rispetto alla benzina fossile;
+- b. dalla coltivazione delle materie prime fino al loro consumo, i carburanti rinnovabili inquinano l’ambiente al massimo il 25 per cento in più rispetto alla benzina fossile; e
 - c. le materie prime non sono coltivate su superfici che hanno subito un cambiamento di destinazione dopo il 1° gennaio 2008 e che prima di tale cambiamento presentavano un elevato stock di carbonio o una grande biodiversità.
 
 <sup>2</sup> È considerata un cambiamento di destinazione anche l’utilizzazione di superfici in precedenza non utilizzate.
@@ -295,8 +312,8 @@ Le superfici con una grande biodiversità sono in particolare le superfici in zo
 
 Le esigenze di cui all’articolo 12*b* capoverso 1 lettere d ed e LIOm (esigenze sociali) sono adempiute se:
 
-- a. le superfici sulle quali sono coltivate le materie prime necessarie per i biocarburanti sono state acquistate legalmente, e tale acquisto a norma di legge si basa sul diritto nazionale e sugli obblighi internazionali dello Stato nel quale si trovano le superfici coltivate nonché sugli standard internazionali riconosciuti da detto Stato; e
-- b.[^19d-1] all’atto della coltivazione delle materie prime e della produzione dei biocarburanti sono osservate la legislazione sociale applicabile nel luogo di produzione o, almeno, i principi e diritti fondamentali dei lavoratori oggetto delle convenzioni principali dell’Organizzazione internazionale del lavoro (OIL).
+- a. le superfici sulle quali sono coltivate le materie prime necessarie per i carburanti rinnovabili sono state acquistate legalmente, e tale acquisto a norma di legge si basa sul diritto nazionale e sugli obblighi internazionali dello Stato nel quale si trovano le superfici coltivate nonché sugli standard internazionali riconosciuti da detto Stato; e
+- b.[^19d-1] all’atto della coltivazione delle materie prime e della produzione dei carburanti rinnovabili sono osservate la legislazione sociale applicabile nel luogo di produzione o, almeno, i principi e diritti fondamentali dei lavoratori oggetto delle convenzioni principali dell’Organizzazione internazionale del lavoro (OIL).
 
 <sup>2</sup>
 
@@ -313,8 +330,8 @@ Le convenzioni principali dell’OIL:[^19d-2]
 - h. Convenzione n. 182 del 17 giugno 1999[^19d-12] concernente il divieto delle forme più manifeste di sfruttamento del fanciullo sul lavoro e l’azione immediata volta alla loro abolizione;
 - i.[^19d-13] Convenzione n. 187 del 15 giugno 2006[^19d-14] sul quadro promozionale per la salute e la sicurezza sul lavoro.
 
-[^19d-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)). Vedi anche le disp. trans. alla fine di questo testo.
-[^19d-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)). Vedi anche le disp. trans. alla fine di questo testo.
+[^19d-2]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^19d-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
 [^19d-4]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
 [^19d-5]: [RS 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
@@ -322,17 +339,17 @@ Le convenzioni principali dell’OIL:[^19d-2]
 [^19d-7]: [RS 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
 [^19d-8]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
 [^19d-9]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
-[^19d-10]: Introdotta dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-10]: Introdotta dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^19d-11]: [www.ilo.org/normlex](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312300:NO) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C155
 [^19d-12]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
-[^19d-13]: Introdotta dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^19d-13]: Introdotta dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 [^19d-14]: [www.ilo.org/normlex](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312332:NO) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C187
 
 #### Art. 19e
 
 **Esigenze relative alla produzione di agenti energetici rinnovabili diversi dalla biomassa**
 
-Se i biocarburanti sono prodotti a partire da agenti energetici rinnovabili diversi dalla biomassa e a tal fine non sono coltivate materie prime, nel valutare se questi carburanti adempiono alle esigenze di cui agli articoli 19*c* e 19*d,* per coltivazione delle materie prime si intende la produzione degli agenti energetici.
+Se i carburanti rinnovabili sono prodotti a partire da agenti energetici rinnovabili diversi dalla biomassa e a tal fine non sono coltivate materie prime, nel valutare se questi carburanti adempiono alle esigenze di cui agli articoli 19*c* e 19*d,* per coltivazione delle materie prime si intende la produzione degli agenti energetici.
 
 #### Art. 19f
 
@@ -342,8 +359,8 @@ Se i biocarburanti sono prodotti a partire da agenti energetici rinnovabili dive
 
 La prova dell’adempimento delle esigenze ecologiche e la prova della plausibilità dell’adempimento delle esigenze sociali devono essere fornite:
 
-- a. dall’importatore, per i biocarburanti importati;
-- b. dallo stabilimento di fabbricazione, per i biocarburanti prodotti in Svizzera.
+- a. dall’importatore, per i carburanti rinnovabili importati;
+- b. dallo stabilimento di fabbricazione, per i carburanti rinnovabili prodotti in Svizzera.
 
 <sup>2</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni disciplina i dettagli concernenti la prova dell’adempimento delle esigenze ecologiche.
 
@@ -351,9 +368,9 @@ La prova dell’adempimento delle esigenze ecologiche e la prova della plausibil
 
 #### Art. 19g
 
-**Domanda di agevolazione fiscale per biocarburanti**
+**Domanda di agevolazione fiscale per carburanti rinnovabili**
 
-<sup>1</sup> La domanda di agevolazione fiscale per biocarburanti deve essere presentata all’autorità fiscale.
+<sup>1</sup> La domanda di agevolazione fiscale per carburanti rinnovabili deve essere presentata all’autorità fiscale.
 
 <sup>2</sup>
 
@@ -370,7 +387,7 @@ Alla domanda deve essere allegata la seguente documentazione:
 
 **Durata di validità dell’agevolazione fiscale**
 
-<sup>1</sup> L’agevolazione fiscale è valida per quattro anni dalla data della decisione. Essa viene revocata se le condizioni non sono più adempiute.
+<sup>1</sup> L’agevolazione fiscale è valida fino al 31 dicembre 2030. È revocata se le condizioni non sono più soddisfatte.[^19h-1]
 
 <sup>2</sup>
 
@@ -378,6 +395,8 @@ L’importatore o lo stabilimento di fabbricazione deve comunicare immediatament
 
 - a. i cambiamenti relativi alla biomassa utilizzata o agli altri agenti energetici rinnovabili e al processo di produzione che possono comportare il mancato adempimento delle esigenze ecologiche o sociali;
 - b. i cambiamenti relativi al flusso di merci o alle persone coinvolte nel commercio.
+
+[^19h-1]: Nuovo testo giusta l’all. n. 2 dell’O del 2 apr. 2025 sul CO<sub>2</sub>, in vigore dal 1° gen. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ### Sezione 2: Imposta differenziata secondo l’impiego della merce
 
@@ -407,9 +426,9 @@ L’importatore o lo stabilimento di fabbricazione deve comunicare immediatament
 
 <sup>2</sup> Il DFF[^22-2] può esigere l’imposizione all’aliquota più elevata e concedere la restituzione dell’imposta se è comprovato l’impiego fruente dell’agevolazione fiscale.[^22-3]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
-[^22-2]: Nuovo termine giusta il n. I dell’O del 30 gen. 2008, in vigore dal 1° lug. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^22-3]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
+[^22-2]: Nuovo termine giusta la cifra I dell’O del 30 gen. 2008, in vigore dal 1° lug. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^22-3]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
 
 #### Art. 23
 
@@ -421,8 +440,8 @@ L’importatore o lo stabilimento di fabbricazione deve comunicare immediatament
 
 <sup>2</sup> Una volta all’anno devono essere determinate le scorte e la contabilità merci deve essere aperta con i dati relativi alle scorte accertate.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
-[^23-2]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
+[^23-2]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
 
 #### Art. 24
 
@@ -439,7 +458,7 @@ La riserva d’uso ha il seguente tenore:
 
 <sup>3</sup> Per le altre merci di cui al capoverso 2 lettera b l’autorità fiscale può accettare una formulazione diversa della riserva d’uso, a condizione che il contenuto corrisponda a quello del capoverso 2 lettera b.[^24-1]
 
-[^24-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^24-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 25
 
@@ -472,7 +491,7 @@ Non hanno diritto al carburante esente da imposta:
 - a. i cittadini svizzeri;
 - b. le persone di nazionalità estera con un permesso di dimora secondo la legge federale del 16 dicembre 2005[^26-3] sugli stranieri e la loro integrazione[^26-4] che lavorano presso una missione diplomatica, una missione permanente o un’altra rappresentanza presso organizzazioni intergovernative oppure un posto consolare.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 [^26-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^26-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^26-4]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019.
@@ -494,7 +513,7 @@ Il carburante può essere utilizzato esclusivamente per corse:
 - a. effettuate da un beneficiario istituzionale ai sensi dell’articolo 26 capoverso 1 lettera a per l’adempimento di funzioni ufficiali;
 - b. effettuate da una persona beneficiaria ai sensi dell’articolo 26 capoverso 1 lettera b o da una persona ai sensi dell’articolo 26 capoverso 1 lettera c per uso personale.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 28
 
@@ -511,7 +530,7 @@ La carta carburante deve essere restituita immediatamente all’ufficio di emiss
 - a. il veicolo menzionatovi è alienato;
 - b. il beneficiario perde il diritto al carburante esente da imposta.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 28a
 
@@ -528,7 +547,7 @@ Il carburante esente da imposta può essere utilizzato in veicoli e macchine div
 
 <sup>3</sup> L’autorità fiscale definisce la procedura per la consegna di carburante esente da imposta.
 
-[^28a-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^28a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 [^28a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 28b
@@ -544,7 +563,7 @@ Hanno diritto al combustibile esente da imposta:
 
 <sup>2</sup> L’autorità fiscale definisce la procedura per la consegna di combustibile esente da imposta.
 
-[^28b-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^28b-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ### Sezione 2: Altre esenzioni
 
@@ -608,11 +627,11 @@ I carburanti acquistati negli aerodromi doganali per rifornire altri aeromobili 
 
 [^33-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^33-2]: Nuovo testo giusta l’all. 4 n. 29 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^33-3]: Nuovo testo giusta il n. I dell’O del 27 ago. 2003, in vigore dal 1° lug. 2003 ([RU 2003 3521](https://fedlex.data.admin.ch/eli/oc/2003/500)).
-[^33-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^33-5]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
-[^33-6]: Introdotto dal n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 1999 3135](https://fedlex.data.admin.ch/eli/oc/1999/477)).
-[^33-7]: Introdotto dal n. I dell’O del 3 lug. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)). Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^33-3]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2003, in vigore dal 1° lug. 2003 ([RU 2003 3521](https://fedlex.data.admin.ch/eli/oc/2003/500)).
+[^33-4]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^33-5]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
+[^33-6]: Introdotto dalla cifra I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 1999 3135](https://fedlex.data.admin.ch/eli/oc/1999/477)).
+[^33-7]: Introdotto dalla cifra I dell’O del 3 lug. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)). Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 34
 
@@ -627,7 +646,7 @@ I carburanti importati nel serbatoio di un veicolo sono esenti da imposta:
 
 <sup>2</sup> I carburanti importati nei bidoni di scorta di un veicolo sono esenti da imposta sino 25 litri al massimo.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
 
 #### Art. 35
 
@@ -648,10 +667,10 @@ Sono considerati impianti pilota e impianti di dimostrazione quelli il cui eserc
 
 <sup>5</sup> Se più impianti perseguono lo stesso obiettivo secondo il capoverso 3 lettere a o b e la produzione totale eccede 20 milioni di litri di equivalente diesel, il DFF esonera proporzionatamente dall’imposta i vari richiedenti.[^35-4]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
-[^35-2]: Abrogato dal n. I dell’O del 4 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
-[^35-3]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
-[^35-4]: Nuovo testo giusta il n. I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^35-2]: Abrogato dalla cifra I dell’O del 4 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^35-3]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
+[^35-4]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
 
 ## Capitolo 4: Riscossione dell’imposta
 
@@ -715,18 +734,21 @@ L’autorizzazione per la dichiarazione fiscale periodica si estingue:
 
 <sup>1</sup> La persona assoggettata all’imposta deve presentare la dichiarazione fiscale periodica entro il 10° giorno del mese che segue il giorno in cui sorge il credito fiscale.[^41-1]
 
+<sup>1bis</sup> Sono esentati dagli obblighi di cui al capoverso 1 gli stabilimenti di fabbricazione di carburanti rinnovabili per la produzione di energia elettrica fruenti dell’agevolazione fiscale di cui all’articolo 12*b* LIOm.[^41-2]
+
 <sup>2</sup>
 
 La dichiarazione fiscale dev’essere presentata nella forma prescritta e menzionare i dati relativi alle quantità totali, per genere di merce (voce della tariffa doganale, numero statistico) e per aliquota d’imposta, separatamente per:
 
 - a. le dichiarazioni fiscali provvisorie;
 - b. ogni deposito autorizzato; e
-- c.[^41-2] i depositi di scorte obbligatorie fuori dei depositi autorizzati.
+- c.[^41-3] i depositi di scorte obbligatorie fuori dei depositi autorizzati.
 
 <sup>3</sup> Se le aliquote d’imposta cambiano, devono essere presentate delle dichiarazioni fiscali separate per i periodi che precedono e seguono il cambiamento.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 12 set. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
-[^41-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 12 set. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
+[^41-2]: Introdotto dall’all. n. 3 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^41-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 42
 
@@ -746,7 +768,7 @@ La dichiarazione fiscale dev’essere presentata nella forma prescritta e menzio
 
 <sup>2</sup> Per le merci in un deposito autorizzato tale momento è quello in cui la merce defluisce dal dispositivo di misurazione.[^43-1]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 44
 
@@ -776,13 +798,13 @@ La dichiarazione fiscale dev’essere presentata nella forma prescritta e menzio
 
 [^chap4-sec3-1]
 
-[^chap4-sec3-1]: Introdotta dal n. I dell’O del 30 gen. 2008, in vigore dal 1° lug. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
+[^chap4-sec3-1]: Introdotta dalla cifra I dell’O del 30 gen. 2008, in vigore dal 1° lug. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
 
 #### Art. 45a
 
 **Anticipazione per le miscele di carburanti**
 
-<sup>1</sup> L’agevolazione fiscale per la quota di biocarburanti presente nelle miscele costituite da carburanti fruenti dell’agevolazione fiscale e da altri carburanti è concessa proporzionalmente se sono adempiute le esigenze ecologiche e sociali.[^45a-1]
+<sup>1</sup> L’agevolazione fiscale per la quota di carburanti rinnovabili presente nelle miscele costituite da carburanti fruenti dell’agevolazione fiscale e da altri carburanti è concessa proporzionalmente se sono adempiute le esigenze ecologiche e sociali.[^45a-1]
 
 <sup>2</sup>
 
@@ -791,7 +813,7 @@ Essa è concessa sotto forma di anticipazione per le merci:
 - a. importate e immesse in un deposito autorizzato o in un deposito di scorte obbligatorie fuori del deposito autorizzato;
 - b. miscelate con altri carburanti in un deposito autorizzato.
 
-[^45a-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^45a-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
 #### Art. 45b
 
@@ -807,7 +829,7 @@ Per le merci di cui all’articolo 45*a* capoverso 2 lettera a, l’importatore 
 
 <sup>2</sup> Per le merci di cui all’articolo 45*a* capoverso 2 lettera b, il depositario autorizzato deve chiedere l’anticipazione mediante la dichiarazione fiscale periodica.
 
-[^45b-1]: Abrogata dal n. I dell’O del 4 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^45b-1]: Abrogata dalla cifra I dell’O del 4 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
 #### Art. 45c
 
@@ -825,9 +847,9 @@ L’autorità fiscale chiede la restituzione dell’anticipazione concessa sulle
   - 1\. immesse in consumo da un deposito autorizzato o da un deposito di scorte obbligatorie fuori del deposito autorizzato, o
   - 2\. per le quali è stata accordata l’esenzione dall’imposta sotto forma di rimborso.
 
-<sup>2</sup> L’anticipazione è restituita in base al tenore effettivo di biocarburanti. Se il contribuente non può provare il tenore effettivo di biocarburanti, l’anticipazione è restituita in base alla quantità di biocarburante che può essere aggiunta al massimo per merce.[^45c-1]
+<sup>2</sup> L’anticipazione è restituita in base al tenore effettivo di carburanti rinnovabili. Se il contribuente non può provare il tenore effettivo di carburanti rinnovabili, l’anticipazione è restituita in base alla quantità di carburanti rinnovabili che può essere aggiunta al massimo per merce.[^45c-1]
 
-[^45c-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^45c-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
 #### Art. 45d
 
@@ -835,42 +857,44 @@ L’autorità fiscale chiede la restituzione dell’anticipazione concessa sulle
 
 Le quote di carburanti di cui all’articolo 20*a* capoverso 2 LIOm non devono essere dichiarate separatamente se all’atto della manipolazione sono inevitabili e la loro percentuale non supera lo 0,5 per cento vol. della miscela.
 
-[^45d-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^45d-1]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
-### Sezione 4: Disposizioni speciali concernenti il biogas, il bioidrogeno e il gas sintetico impiegati come carburante in caso di immissione nella rete di gas naturale o di consegna diretta a una stazione di rifornimento
+### Sezione 4: Disposizioni speciali concernenti i carburanti rinnovabili e il gas naturale consegnato tramite stazioni di rifornimento collegate alla rete di gas naturale
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Originaria avanti l’art. 45*d*. Introdotta dal n. I dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta il n. I dell’O del 4 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^chap4-sec4-1]: Originaria avanti l’art. 45*d*. Introdotta dalla cifra I dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta l’all. n. 3 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 45e
 
 <sup>1</sup>
 
-Il biogas, il bioidrogeno e il gas sintetico devono essere dichiarati al servizio di clearing designato dall’industria del gas se:
+Il biogas, l’idrogeno rinnovabile e il gas sintetico devono essere dichiarati all’organo d’esecuzione di cui all’articolo 64 della legge del 30 settembre 2016[^45e-1] sull’energia se:
 
-- a. sono conformi alle disposizioni della direttiva di marzo 2016[^45e-1] della Società svizzera dell’industria del gas e delle acque per l’immissione di gas rinnovabili (direttiva G13) e sono immessi e misurati nella rete di gas naturale tramite una conduttura fissa; o
+- a. sono immessi e misurati nella rete di gas naturale tramite una conduttura fissa; o
 - b. sono raffinati per ottenere un carburante di qualità e sono consegnati direttamente a una stazione di rifornimento.
 
 <sup>2</sup>
 
-Gli stabilimenti di fabbricazione che producono biogas, bioidrogeno o gas sintetico devono presentare all’autorità fiscale, tramite il servizio di clearing:
+Gli stabilimenti di fabbricazione che producono carburanti rinnovabili devono presentare all’autorità fiscale, tramite l’organo d’esecuzione:
 
 - a. la dichiarazione fiscale periodica di cui all’articolo 20 LIOm;
 - b. il rapporto periodico di cui all’articolo 31 LIOm.
 
-<sup>3</sup> I fornitori e i venditori di gas naturale devono presentare all’autorità fiscale, tramite il servizio di clearing, le dichiarazioni relative a una differenza d’imposta di cui all’articolo 4 capoverso 2 lettera a LIOm.
+<sup>3</sup> I fornitori e i venditori di gas naturale devono presentare all’autorità fiscale, tramite l’organo d’esecuzione, le dichiarazioni relative a una differenza d’imposta di cui all’articolo 4 capoverso 2 lettera a LIOm.
 
 <sup>4</sup>
 
-Gli stabilimenti di fabbricazione che producono biogas, bioidrogeno o gas sintetico nonché i fornitori e i venditori di gas naturale devono inoltre registrare:
+Gli stabilimenti di fabbricazione che producono biogas, idrogeno rinnovabile o gas sintetico nonché i fornitori e i venditori di gas naturale devono registrare:
 
-- a. i ritiri di biogas, bioidrogeno e gas sintetico, ripartiti secondo i fornitori;
-- b. le consegne di biogas, bioidrogeno e gas sintetico, ripartite secondo i destinatari.
+- a. i ritiri di biogas, idrogeno rinnovabile e gas sintetico, ripartiti secondo i fornitori;
+- b. le consegne di biogas, idrogeno rinnovabile e gas sintetico, ripartite secondo i destinatari.
 
-<sup>5</sup> Gli importatori, gli esportatori e gli intermediari devono dichiarare al servizio di clearing tutte le quantità di biogas, bioidrogeno e gas sintetico importate, esportate e commercializzate.
+<sup>5</sup> Gli importatori, gli esportatori e gli intermediari devono dichiarare all’organo d’esecuzione tutte le quantità di biogas, idrogeno rinnovabile e gas sintetico importate, esportate e commercializzate.
 
-[^45e-1]: La direttiva G13 può essere acquistata sul sito Internet della Società svizzera dell’industria del gas e delle acque all’indirizzo www.svgw.ch &gt; Regolamentazione/Shop &gt; Regolamentazione &gt; Gas.
+<sup>6</sup> L’organo d’esecuzione trasmette senza indugio i dati all’autorità fiscale. Verifica in particolare che le quantità dichiarate siano state conteggiate integralmente e che non siano state utilizzate o computate più volte.
+
+[^45e-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 ## Capitolo 5: Restituzione dell’imposta
 
@@ -884,8 +908,8 @@ Gli stabilimenti di fabbricazione che producono biogas, bioidrogeno o gas sintet
 
 <sup>2</sup> La restituzione non è concessa se il beneficiario dell’agevolazione non può comprovare nel modo prescritto quali quantità di carburante ha utilizzato per scopi fruenti dell’agevolazione.[^46-2]
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
-[^46-2]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
+[^46-2]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
 
 #### Art. 47
 
@@ -905,20 +929,20 @@ Gli importi inferiori a 100 franchi non sono restituiti.
 
 Per le seguenti restituzioni l’anno civile è considerato come anno d’esercizio:
 
-- a. restituzioni a richiedenti che non devono tenere la contabilità conformemente all’articolo 957 capoverso 1 del Codice delle obbligazioni[^48-3];
+- a.[^48-3] restituzioni a richiedenti che non sono legati a un anno d’esercizio;
 - b. restituzioni per il carburante utilizzato da imprese di trasporto concessionarie della Confederazione;
 - c. restituzioni per il carburante utilizzato per l’agricoltura.[^48-4]
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
-[^48-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
-[^48-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^48-4]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^48-3]: Nuovo testo giusta l’all. n. 2 dell’O del 2 apr. 2025 sul CO<sub>2</sub>, in vigore dal 1° gen. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^48-4]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 48a
 
 [^48a-1]
 
-[^48a-1]: Introdotto dal n. I dell’O del 23 ott. 2013 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)). Abrogato dal n. I dell’O del 4 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^48a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)). Abrogato dalla cifra I dell’O del 4 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
 ### Sezione 2: Restituzione dell’imposta alle imprese di trasporto concessionarie
 
@@ -930,7 +954,7 @@ Per le seguenti restituzioni l’anno civile è considerato come anno d’eserci
 
 <sup>2</sup> Il DFF determina per quali corse è concessa la restituzione e fissa le aliquote d’imposta ridotte. Determina parimenti quali sono i veicoli ai quali, per motivi ecologici, viene concessa soltanto una restituzione ridotta.[^49-1]
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 13 set. 2006, in vigore dal 1° gen. 2007 ([RU 2006 3925](https://fedlex.data.admin.ch/eli/oc/2006/587)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 13 set. 2006, in vigore dal 1° gen. 2007 ([RU 2006 3925](https://fedlex.data.admin.ch/eli/oc/2006/587)).
 
 #### Art. 50
 
@@ -946,7 +970,7 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 - b. la quantità di chilometri percorsi o di ore di funzionamento, suddivise tra scopi fruenti e scopi non fruenti dell’agevolazione fiscale;
 - c. i dati necessari per l’identificazione del veicolo, in particolare il numero di telaio o il numero di serie.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 #### Art. 51
 
@@ -956,8 +980,8 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>2</sup> Esse vertono sul consumo durante un periodo di un mese sino a 12 mesi nell’arco di un anno civile.[^51-2]
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
-[^51-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^51-2]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 ### Sezione 3: Restituzione dell’imposta per gli idrocarburi gassosi
 
@@ -1012,7 +1036,7 @@ Il depositario autorizzato chiede per scritto all’autorità fiscale la restitu
 
 [^chap5-sec4a-1]
 
-[^chap5-sec4a-1]: Introdotta dal n. I dell’O del 17 ago. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2995](https://fedlex.data.admin.ch/eli/oc/2016/504)).
+[^chap5-sec4a-1]: Introdotta dalla cifra I dell’O del 17 ago. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2995](https://fedlex.data.admin.ch/eli/oc/2016/504)).
 
 #### Art. 57a
 
@@ -1040,7 +1064,7 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 - b. la quantità di chilometri percorsi o di ore di funzionamento;
 - c. i dati necessari per l’identificazione del veicolo adibito alla preparazione di piste, in particolare il numero di telaio o il numero di serie.
 
-[^57c-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^57c-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 #### Art. 57d
 
@@ -1050,7 +1074,7 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>2</sup> Esse vertono sul consumo durante un periodo di un mese sino a 12 mesi.
 
-[^57d-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^57d-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 ### Sezione 5: Restituzione dell’imposta all’agricoltura
 
@@ -1074,9 +1098,9 @@ Il DFF fissa le norme; esso tiene conto a tal fine dei seguenti tipi d’attivit
 
 <sup>4</sup> Il DFF fissa le aliquote d’imposta ridotte.[^58-3]
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2006, in vigore dal 1° gen. 2007 ([RU 2006 3927](https://fedlex.data.admin.ch/eli/oc/2006/588)).
-[^58-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
-[^58-3]: Nuovo testo giusta il n. I dell’O del 5 lug. 2006, in vigore dal 1° gen. 2007 ([RU 2006 3927](https://fedlex.data.admin.ch/eli/oc/2006/588)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2006, in vigore dal 1° gen. 2007 ([RU 2006 3927](https://fedlex.data.admin.ch/eli/oc/2006/588)).
+[^58-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^58-3]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2006, in vigore dal 1° gen. 2007 ([RU 2006 3927](https://fedlex.data.admin.ch/eli/oc/2006/588)).
 
 #### Art. 59
 
@@ -1086,13 +1110,13 @@ Il DFF fissa le norme; esso tiene conto a tal fine dei seguenti tipi d’attivit
 
 <sup>2</sup> Esse vertono sull’anno civile trascorso.
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2006, in vigore dal 1° gen. 2007 ([RU 2006 3927](https://fedlex.data.admin.ch/eli/oc/2006/588)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 5 lug. 2006, in vigore dal 1° gen. 2007 ([RU 2006 3927](https://fedlex.data.admin.ch/eli/oc/2006/588)).
 
 #### Art. 60
 
 [^60-1]
 
-[^60-1]: Abrogato dal n. I dell’O del 5 lug. 2006, con effetto dal 1° gen. 2007 ([RU 2006 3927](https://fedlex.data.admin.ch/eli/oc/2006/588)).
+[^60-1]: Abrogato dalla cifra I dell’O del 5 lug. 2006, con effetto dal 1° gen. 2007 ([RU 2006 3927](https://fedlex.data.admin.ch/eli/oc/2006/588)).
 
 ### Sezione 6: Restituzione dell’imposta alla silvicoltura
 
@@ -1127,7 +1151,7 @@ Il DFF fissa le norme; esso tiene conto a tal fine dei seguenti tipi d’attivit
 
 [^chap5-sec6a-1]
 
-[^chap5-sec6a-1]: Introdotta dal n. I dell’O del 16 mag. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2695](https://fedlex.data.admin.ch/eli/oc/2007/355)).
+[^chap5-sec6a-1]: Introdotta dalla cifra I dell’O del 16 mag. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2695](https://fedlex.data.admin.ch/eli/oc/2007/355)).
 
 #### Art. 62a
 
@@ -1153,8 +1177,8 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>3</sup> Se un veicolo o una macchina non è dotato di serie di un contachilometri o di un contatore delle ore di funzionamento e se il suo equipaggiamento con un contatore risulta sproporzionato, l’autorità fiscale può autorizzare, su domanda, che nel controllo del consumo non siano menzionati i dati di cui al capoverso 2 lettera a.[^62b-2]
 
-[^62b-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
-[^62b-2]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^62b-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^62b-2]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 62c
 
@@ -1164,7 +1188,7 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>2</sup> Esse vertono sul consumo durante un periodo di un mese sino a 12 mesi.
 
-[^62c-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^62c-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 ### Sezione 7: Restituzione dell’imposta ai pescatori professionali
 
@@ -1178,8 +1202,8 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>2</sup> Il DFF fissa le aliquote d’imposta ridotte.
 
-[^63-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
-[^63-2]: Introdotto dal n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^63-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^63-2]: Introdotto dalla cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 #### Art. 64
 
@@ -1189,7 +1213,7 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>2</sup> I controlli del consumo devono menzionare il genere e la quantità di carburante consumato per ogni peschereccio. Devono contenere almeno i dati necessari per l’identificazione del peschereccio, in particolare il numero dello scafo o il numero di serie.
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 #### Art. 65
 
@@ -1199,7 +1223,7 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>2</sup> Esse vertono sul consumo durante un periodo di un mese sino a 12 mesi.
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 ### Sezione 8: Altre restituzioni dell’imposta
 
@@ -1211,7 +1235,7 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>2</sup> Il DFF stabilisce per quali scopi e per quali macchine e impianti è accordata la restituzione e fissa le aliquote d’imposta ridotte.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 #### Art. 66a
 
@@ -1229,8 +1253,8 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>3</sup> Se una macchina o un impianto non è dotato di serie di un contatore delle ore di funzionamento e se il suo equipaggiamento con un contatore risulta sproporzionato, l’autorità fiscale può autorizzare, su domanda, che nel controllo del consumo non siano menzionati i dati di cui al capoverso 2 lettera a.[^66a-2]
 
-[^66a-1]: Introdotto dal n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
-[^66a-2]: Introdotto dal n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^66a-1]: Introdotto dalla cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^66a-2]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 66b
 
@@ -1240,7 +1264,7 @@ I controlli del consumo devono menzionare il genere e la quantità di carburante
 
 <sup>2</sup> Esse vertono sul consumo durante un periodo di un mese sino a 12 mesi.
 
-[^66b-1]: Introdotto dal n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^66b-1]: Introdotto dalla cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 ## Capitolo 6: Depositi autorizzati
 
@@ -1497,7 +1521,7 @@ I rapporti devono:
 
 <sup>3</sup> In casi debitamente motivati, l’autorità fiscale può autorizzare la stesura e la trasmissione non informatizzata del rapporto.
 
-[^82-1]: Nuovo testo giusta il n. I dell’O del 12 set. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
+[^82-1]: Nuovo testo giusta la cifra I dell’O del 12 set. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
 [^82-2]: [RS 531.215.41](https://fedlex.data.admin.ch/eli/cc/2017/314)
 
 #### Art. 83
@@ -1510,7 +1534,7 @@ Le ditte depositarie che per conto e sotto la responsabilità dei depositari aut
 
 [^chap6-sec6-1]
 
-[^chap6-sec6-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^chap6-sec6-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 84
 
@@ -1518,7 +1542,7 @@ Le ditte depositarie che per conto e sotto la responsabilità dei depositari aut
 
 Le scorte obbligatorie non imponibili di carburanti, olio da riscaldamento extra leggero colorato e marcato nonché altri combustibili possono essere depositate, sotto sorveglianza della Carbura, fuori dei depositi autorizzati.
 
-[^84-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^84-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 85
 
@@ -1538,7 +1562,7 @@ Previa consultazione con la Carbura, l’autorità fiscale emana istruzioni conc
 
 [^87-1]
 
-[^87-1]: Abrogato dal n. I dell’O del 27 ott. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
+[^87-1]: Abrogato dalla cifra I dell’O del 27 ott. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4565](https://fedlex.data.admin.ch/eli/oc/2004/696)).
 
 #### Art. 88
 
@@ -1546,7 +1570,7 @@ Previa consultazione con la Carbura, l’autorità fiscale emana istruzioni conc
 
 L’esportazione di merci non imponibili depositate come scorte obbligatorie fuori dei depositi autorizzati è vietata.
 
-[^88-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^88-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ## Capitolo 7: Colorazione e marcatura dell’olio da riscaldamento
 
@@ -1573,8 +1597,8 @@ Per 1000 litri a 15°C l’olio da riscaldamento extra leggero deve contenere, b
 
 <sup>2</sup> Le quantità di cui al capoverso 1 possono essere superate al massimo del 50 per cento.[^90-2]
 
-[^90-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
-[^90-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^90-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 91
 
@@ -1588,8 +1612,8 @@ Per 1000 litri a 15°C l’olio da riscaldamento extra leggero deve contenere, b
 
 <sup>4</sup> Se per la risciacquatura viene utilizzato carburante già assoggettato all’imposta, quest’ultima può essere restituita; l’importo della restituzione è calcolato in base alla differenza tra l’aliquota d’imposta per i carburanti e quella per i prodotti utilizzati ad altri scopi nonché secondo la quantità comprovatamente utilizzata. La procedura si fonda sull’articolo 66*b*.[^91-2]
 
-[^91-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
-[^91-2]: Introdotto dal n. I dell’O del 3 lug. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)). Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
+[^91-1]: Introdotto dalla cifra I dell’O del 3 lug. 2002, in vigore il 1° ago. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)).
+[^91-2]: Introdotto dalla cifra I dell’O del 3 lug. 2002 ([RU 2002 2084](https://fedlex.data.admin.ch/eli/oc/2002/309)). Nuovo testo giusta la cifra I dell’O del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 
 #### Art. 92
 
@@ -1755,7 +1779,7 @@ Il bollettino di scorta è compilato su modulo ufficiale dell’autorità fiscal
 
 <sup>4</sup> L’autorità fiscale può autorizzare l’uso di documenti commerciali invece del modulo ufficiale, sempre che essi contengano i dati necessari, e prescrivere documenti doganali.
 
-[^101-1]: Introdotta dal n. I dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Abrogata dal n. I dell’O del 4 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^101-1]: Introdotta dalla cifraI dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Abrogata dalla cifra I dell’O del 4 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
 #### Art. 102
 
@@ -1777,7 +1801,7 @@ La procedura termina:
 
 <sup>3</sup> L’immagazzinamento di carburanti, olio da riscaldamento extra leggero e altri combustibili in un deposito di scorte obbligatorie fuori dei depositi autorizzati è attestato dalla Carbura nel bollettino di scorta.[^102-1]
 
-[^102-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^102-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 103
 
@@ -1824,7 +1848,7 @@ La procedura secondo il capoverso 1:
 
 [^chap8a-1]
 
-[^chap8a-1]: Introdotto dal n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^chap8a-1]: Introdotto dalla cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 106a
 
@@ -1840,7 +1864,7 @@ La procedura secondo il capoverso 1:
 
 [^107111-1]
 
-[^107111-1]: Abrogati dal n. I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^107111-1]: Abrogati dalla cifra I dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 ### Sezione 2: Entrata in vigore
 
@@ -1872,7 +1896,7 @@ Le agevolazioni fiscali per carburanti provenienti da materie prime rinnovabili 
 
 [^u3-1]: [RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)
 
-Le agevolazioni fiscali per biocarburanti la cui durata di validità non è ancora scaduta il 30 giugno 2020 rimangono valide fino al 31 dicembre 2023.
+Le agevolazioni fiscali per carburanti rinnovabili la cui durata di validità non è ancora scaduta il 30 giugno 2020 rimangono valide fino al 31 dicembre 2023.
 
 ## Disposizioni transitorie della modifica del 25 ottobre 2023
 
@@ -1880,9 +1904,21 @@ Le agevolazioni fiscali per biocarburanti la cui durata di validità non è anco
 
 [^u4-1]: [RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)
 
-<sup>1</sup> Le agevolazioni fiscali per biocarburanti concesse con decisione datata tra il 1° gennaio 2018 e il 31 dicembre 2024 sono valide fino al 31 dicembre 2024.
+<sup>1</sup> Le agevolazioni fiscali per carburanti rinnovabili concesse con decisione datata tra il 1° gennaio 2018 e il 31 dicembre 2024 sono valide fino al 31 dicembre 2024.
 
-<sup>2</sup> Alle domande di agevolazione fiscale per biocarburanti inoltrate prima dell’entrata in vigore della modifica del 25 ottobre 2023 si applica l’articolo 19*d* secondo il diritto anteriore.
+<sup>2</sup> Alle domande di agevolazione fiscale per carburanti rinnovabili inoltrate prima dell’entrata in vigore della modifica del 25 ottobre 2023 si applica l’articolo 19*d* secondo il diritto anteriore.
+
+## Disposizioni transitorie della modifica del 2 aprile 2025
+
+[^u5-1]
+
+[^u5-1]: [RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)
+
+<sup>1</sup> Le agevolazioni fiscali per i carburanti rinnovabili la cui durata di validità termina il 31 dicembre 2024 sono valide fino al 31 dicembre 2030.
+
+<sup>2</sup> ...[^u5-2]
+
+[^u5-2]: Entra in vigore il 1° gen. 2026
 
 Allegato 1
 
@@ -1903,35 +1939,25 @@ Allegato 2[^t-1]
 
 (art. 19*b*)
 
-## Tariffa d’imposta per biocarburanti
+## Tariffa d’imposta per carburanti rinnovabili
 
-[^t-1]: Introdotto dal n. II dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta il n. II dell’O del 4 mag. 2016 ([RU 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Aggiornato dall’all. 3 n. 9 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. II delle O del 1° lug. 2020 ([RU 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)) e del 25 ott. 2023, in vigore dal 1° gen. 2024 ([RU 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^t-1]: Introdotto dalla cifra II dell’O del 30 gen. 2008 ([RU 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Nuovo testo giusta l’all. n. 2 dell’O del 2 apr. 2025 sul CO<sub>2</sub>, in vigore dal 1° gen. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 <table>
 <tr><th>Voce di tariffa</th><th>Designazione della merce</th><th>Aliquota d’imposta</th><th>Supplemento fiscale</th></tr>
 <tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td>2207.1000 2000</td><td>Bioetanolo</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2207.1000 2000</td><td>Etanolo rinnovabile</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2710.1911 1912 1919</td><td>Esteri vegetali e animali idrogenati, acidi grassi, oli e oli usati</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2804.1000</td><td>Idrogeno rinnovabile, liquefatto</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2905.1110</td><td>Metanolo rinnovabile</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2909.1910</td><td>Dimetiletere rinnovabile</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>3824.9920</td><td>Residui di distillazione di biodiesel</td><td>0.00</td><td>0.00</td></tr>
 <tr><td>3826.0010</td><td>Biodiesel</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>Cap. 15</td><td>Oli vegetali e animali e oli usati vegetali e animali</td><td>0.00</td><td>0.00</td></tr>
 <tr><td></td><td></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
 <tr><td>2711.1910</td><td>Biogas, liquefatto</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2711.1910</td><td>Gas sintetico, liquefatto</td><td>0.00</td><td>0.00</td></tr>
 <tr><td>2711.2910</td><td>Biogas, allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td>2905.1110</td><td>Biometanolo</td><td>0.00</td><td>0.00</td></tr>
-<tr><td>2909.1910</td><td>Biodimetiletere</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
-<tr><td>2804.1000</td><td>Bioidrogeno:</td><td></td><td></td></tr>
-<tr><td></td><td>– allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td></td><td>– liquefatto</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td>Biocarburanti sintetici:</td><td></td><td></td></tr>
-<tr><td>2710.1911 1912 1919</td><td>– oli e grassi vegetali e animali idrogenati</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td>[tab]</td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
-<tr><td>2711.1910</td><td>– gas sintetico, liquefatto</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td>3824.9920</td><td>– residui di distillazione di biodiesel</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td></tr>
-<tr><td></td><td>Biocarburanti sintetici:</td><td></td><td></td></tr>
-<tr><td>2711.2910</td><td>– gas sintetico, allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td></tr>
-<tr><td>Cap. 15</td><td>Oli vegetali e animali o oli usati vegetali e animali</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2711.2910</td><td>Gas sintetico, allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2804.1000</td><td>Idrogeno rinnovabile, allo stato gassoso</td><td>0.00</td><td>0.00</td></tr>
 </table>

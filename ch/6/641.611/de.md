@@ -4,11 +4,11 @@ title: Mineralölsteuerverordnung vom 20. November 1996 (MinöStV)
 short: MinöStV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1996-11-20
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3393_3393_3393-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3393_3393_3393/20240101/de"
 
 (MinöStV)
 
-vom 20. November 1996 (Stand am 1. Januar 2024)
+vom 20. November 1996 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -48,7 +48,7 @@ Im Sinne der Mineralölsteuergesetzgebung gelten als:
 
 [^1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 [^1-2]: Fassung der Nummer gemäss Anhang Ziff. 13 der V vom 3. Juli 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2091](https://fedlex.data.admin.ch/eli/oc/2001/305)).
-[^1-3]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^1-3]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch)
 [^1-4]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
 [^1-5]: Fassung gemäss Ziff. I der V vom 30. Jan. 2008, in Kraft seit 1. Juli 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)).
 
@@ -60,6 +60,15 @@ Die Steuerbehörde[^2-2] und die Schweizerische Pflichtlagerorganisation für fl
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 [^2-2]: Ausdruck gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
+#### Art. 2a
+
+**Zusammenarbeit mit der Vollzugsstelle**[^2a-1]
+
+Die Steuerbehörde und die Vollzugsstelle nach Artikel 64 des Energiegesetztes vom 30. September 2016[^2a-2] (EnG) können Daten zu Bewilligungsinhabern nach dem MinöStG und Daten aus Meldungen, welche die Steuerpflichtigen, die Exporteure und die Rückerstattungsberechtigen erstatten müssen, austauschen.
+
+[^2a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^2a-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 #### Art. 3
 
@@ -236,32 +245,41 @@ In den Steueranmeldungen und den periodischen Meldungen müssen:
 
 Der Mineralölsteuerzuschlag für Erdgas und andere gasförmige Kohlenwasserstoffe der Zolltarifnummern 2711.2110 und 2910 von 300 Franken je 1000 l bei 15 °C entspricht 399.30 Franken je 1000 kg.
 
-### 1*a*. Abschnitt: Biogene Treibstoffe
+### 1*a*. Abschnitt: Erneuerbare Treibstoffe
 
-[^chap2-sec1a-1]
+[^chap2-sec1a-1][^chap2-sec1a-2]
 
 [^chap2-sec1a-1]: Eingefügt durch Ziff. I der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Fassung gemäss Ziff. I der V vom 4. Mai 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^chap2-sec1a-2]: Ausdruck gemäss Anhang Ziff. 2 Bst. a der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 19a
 
-**Biogene Treibstoffe**
+**Erneuerbare Treibstoffe**
 
-Als biogene Treibstoffe gelten:
+Als erneuerbare Treibstoffe gelten:[^19a-1]
 
-- a. *Bioethanol:* Ethanol aus Biomasse oder anderen erneuerbaren Energieträgern;
+- a. *Erneuerbares Ethanol*[^19a-2]*:* Ethanol aus Biomasse oder anderen erneuerbaren Energieträgern;
 - b. *Biodiesel:* Fettsäuremonoalkylester von pflanzlichen oder tierischen Ölen;
 - c. *Biogas:* methanreiches Gas aus der Vergärung oder Vergasung von Biomasse, einschliesslich Klärgas und Deponiegas;
-- d. *Biomethanol*: Methanol aus Biomasse oder anderen erneuerbaren Energieträgern;
-- e. *Biodimethylether:* Dimethylether aus Biomasse oder anderen erneuerbaren Energieträgern;
-- f. *Biowasserstoff:* Wasserstoff aus Biomasse oder anderen erneuerbaren Energieträgern;
-- g. *synthetische biogene Treibstoffe*: synthetische Kohlenwasserstoffe oder synthetische Kohlenwasserstoffgemische aus Biomasse oder anderen erneuerbaren Energieträgern;
-- h. pflanzliche und tierische Öle sowie pflanzliche und tierische Altöle.
+- d. *Erneuerbares Methanol*[^19a-3]: Methanol aus Biomasse oder anderen erneuerbaren Energieträgern;
+- e. *Erneuerbarer Dimethylether*[^19a-4]*:* Dimethylether aus Biomasse oder anderen erneuerbaren Energieträgern;
+- f. *Erneuerbarer Wasserstoff*[^19a-5]*:* Wasserstoff aus Biomasse oder anderen erneuerbaren Energieträgern;
+- g. *synthetische erneuerbare Treibstoffe*: synthetische Kohlenwasserstoffe oder synthetische Kohlenwasserstoffgemische aus Biomasse oder anderen erneuerbaren Energieträgern;
+- h. pflanzliche und tierische Öle sowie pflanzliche und tierische Altöle;
+- i.[^19a-6] hydrierte pflanzliche und tierische Ester, Fettsäuren, Öle und Altöle.
+
+[^19a-1]: Fassung gemäss Anhang Ziff. 2 der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-2]: Ausdruck gemäss Anhang Ziff. 2 Bst. b der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-3]: Ausdruck gemäss Anhang Ziff. 2 Bst. c der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-4]: Ausdruck gemäss Anhang Ziff. 2 Bst. d der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^19a-5]: Ausdruck gemäss Anhang Ziff. 2 Bst. f der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^19a-6]: Eingefügt durch Anhang Ziff. 2 der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 19b
 
-**Steuererleichterung für biogene Treibstoffe**[^19b-1]
+**Steuererleichterung für erneuerbare Treibstoffe**[^19b-1]
 
-Die Steuererleichterung für biogene Treibstoffe wird auf Gesuch hin nach dem Tarif in Anhang 2 gewährt.
+Die Steuererleichterung für erneuerbare Treibstoffe wird auf Gesuch hin nach dem Tarif in Anhang 2 gewährt.
 
 [^19b-1]: Siehe jedoch die UeB am Ende dieses Textes.
 
@@ -273,8 +291,8 @@ Die Steuererleichterung für biogene Treibstoffe wird auf Gesuch hin nach dem Ta
 
 Die Anforderungen nach Artikel 12*b* Absatz 1 Buchstaben a–c MinöStG (ökologische Anforderungen) sind erfüllt, wenn:
 
-- a. die biogenen Treibstoffe vom Anbau der Rohstoffe bis zu ihrem Verbrauch mindestens 40 Prozent weniger Treibhausgasemissionen erzeugen als fossiles Benzin;
-- b. die biogenen Treibstoffe die Umwelt vom Anbau der Rohstoffe bis zu ihrem Verbrauch gesamthaft höchstens 25 Prozent mehr belasten als fossiles Benzin; und
+- a. die erneuerbaren Treibstoffe vom Anbau der Rohstoffe bis zu ihrem Verbrauch mindestens 40 Prozent weniger Treibhausgasemissionen erzeugen als fossiles Benzin;
+- b. die erneuerbaren Treibstoffe die Umwelt vom Anbau der Rohstoffe bis zu ihrem Verbrauch gesamthaft höchstens 25 Prozent mehr belasten als fossiles Benzin; und
 - c. die Rohstoffe nicht auf Flächen angebaut wurden, die nach dem 1. Januar 2008 umgenutzt wurden und vor der Umnutzung einen hohen Kohlenstoffbestand oder eine grosse biologische Vielfalt aufgewiesen haben.
 
 <sup>2</sup> Als Umnutzung gilt auch die Nutzung von zuvor ungenutzten Flächen.
@@ -297,8 +315,8 @@ Flächen mit grosser biologischer Vielfalt sind insbesondere Flächen in Schutzg
 
 Die Anforderungen nach Artikel 12*b* Absatz 1 Buchstaben d und e MinöStG (soziale Anforderungen) sind erfüllt, wenn:
 
-- a. die Flächen, auf denen die für die biogenen Treibstoffe benötigten Rohstoffe angebaut werden, rechtmässig erworben wurden, wobei sich der rechtmässige Erwerb nach dem nationalen Recht und den internationalen Verpflichtungen des Staats, in dem sich die Anbauflächen befinden, sowie nach den von ihm anerkannten internationalen Standards richtet; und
-- b.[^19d-1] beim Anbau der Rohstoffe und bei der Herstellung der biogenen Treibstoffe die am Anbauort und am Herstellungsort anwendbare soziale Gesetzgebung, mindestens aber die grundlegenden Prinzipien und Rechte der Arbeitnehmerinnen und Arbeitnehmer, die Gegenstand der Kernübereinkommen der Internationalen Arbeitsorganisation (ILO) sind, eingehalten werden.
+- a. die Flächen, auf denen die für die erneuerbaren Treibstoffe benötigten Rohstoffe angebaut werden, rechtmässig erworben wurden, wobei sich der rechtmässige Erwerb nach dem nationalen Recht und den internationalen Verpflichtungen des Staats, in dem sich die Anbauflächen befinden, sowie nach den von ihm anerkannten internationalen Standards richtet; und
+- b.[^19d-1] beim Anbau der Rohstoffe und bei der Herstellung der erneuerbaren Treibstoffe die am Anbauort und am Herstellungsort anwendbare soziale Gesetzgebung, mindestens aber die grundlegenden Prinzipien und Rechte der Arbeitnehmerinnen und Arbeitnehmer, die Gegenstand der Kernübereinkommen der Internationalen Arbeitsorganisation (ILO) sind, eingehalten werden.
 
 <sup>2</sup>
 
@@ -325,16 +343,16 @@ Die Kernübereinkommen der ILO sind:[^19d-2]
 [^19d-8]: [SR 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
 [^19d-9]: [SR 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
 [^19d-10]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
-[^19d-11]: www.ilo.org/normlex &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C155
+[^19d-11]: [www.ilo.org/normlex](http://www.ilo.org/normlex) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C155
 [^19d-12]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
 [^19d-13]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
-[^19d-14]: www.ilo.org/normlex &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C187
+[^19d-14]: [www.ilo.org/normlex](http://www.ilo.org/normlex) &gt; Instruments &gt; Conventions &gt; Fondamentales &gt; C187
 
 #### Art. 19e
 
 **Anforderungen an die Herstellung anderer erneuerbarer Energieträger als Biomasse**
 
-Werden biogene Treibstoffe aus anderen erneuerbaren Energieträgern als Biomasse hergestellt und werden dabei keine Rohstoffe angebaut, so wird bei der Beurteilung, ob diese Treibstoffe die Anforderungen nach den Artikeln 19*c* und 19*d* erfüllen, unter Anbau der Rohstoffe die Herstellung des Energieträgers verstanden.
+Werden erneuerbare Treibstoffe aus anderen erneuerbaren Energieträgern als Biomasse hergestellt und werden dabei keine Rohstoffe angebaut, so wird bei der Beurteilung, ob diese Treibstoffe die Anforderungen nach den Artikeln 19*c* und 19*d* erfüllen, unter Anbau der Rohstoffe die Herstellung des Energieträgers verstanden.
 
 #### Art. 19f
 
@@ -344,8 +362,8 @@ Werden biogene Treibstoffe aus anderen erneuerbaren Energieträgern als Biomasse
 
 Der Nachweis der Erfüllung der ökologischen Anforderungen und die Glaubhaftmachung der Erfüllung der sozialen Anforderungen sind zu erbringen:
 
-- a. für eingeführte biogene Treibstoffe: vom Importeur;
-- b. für im Inland hergestellte biogene Treibstoffe: vom Herstellungsbetrieb.
+- a. für eingeführte erneuerbare Treibstoffe: vom Importeur;
+- b. für im Inland hergestellte erneuerbare Treibstoffe: vom Herstellungsbetrieb.
 
 <sup>2</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation regelt die Einzelheiten für den Nachweis der Erfüllung der ökologischen Anforderungen.
 
@@ -353,9 +371,9 @@ Der Nachweis der Erfüllung der ökologischen Anforderungen und die Glaubhaftmac
 
 #### Art. 19g
 
-**Gesuch um Steuererleichterung für biogene Treibstoffe**
+**Gesuch um Steuererleichterung für erneuerbare Treibstoffe**
 
-<sup>1</sup> Das Gesuch um Steuererleichterung für biogene Treibstoffe ist bei der Steuerbehörde einzureichen.
+<sup>1</sup> Das Gesuch um Steuererleichterung für erneuerbare Treibstoffe ist bei der Steuerbehörde einzureichen.
 
 <sup>2</sup>
 
@@ -372,7 +390,7 @@ Dem Gesuch sind die folgenden Unterlagen beizulegen:
 
 **Geltungsdauer der Steuererleichterung**
 
-<sup>1</sup> Die Steuererleichterung gilt für vier Jahre ab Verfügungsdatum. Sie wird widerrufen, falls die Voraussetzungen nicht mehr erfüllt sind.
+<sup>1</sup> Die Steuererleichterung gilt bis zum 31. Dezember 2030. Sie wird widerrufen, falls die Voraussetzungen nicht mehr erfüllt sind.[^19h-1]
 
 <sup>2</sup>
 
@@ -380,6 +398,8 @@ Importeure und Herstellungsbetriebe müssen der Steuerbehörde folgende Änderun
 
 - a. Änderungen betreffend die eingesetzte Biomasse oder die anderen erneuerbaren Energieträger und den Herstellungsprozess, die zur Folge haben können, dass die ökologischen oder sozialen Anforderungen nicht mehr erfüllt werden;
 - b. Änderungen betreffend den Warenfluss oder die am Handel beteiligten Personen.
+
+[^19h-1]: Fassung gemäss Anhang Ziff. 2 der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 ### 2. Abschnitt: Unterschiedliche Steuer je nach Verwendungszweck
 
@@ -718,18 +738,21 @@ Die Bewilligung zur periodischen Steueranmeldung erlischt:
 
 <sup>1</sup> Die steuerpflichtige Person muss die periodische Steueranmeldung bis zum 10. Tag des Monats abgeben, der auf den Tag folgt, an dem die Steuerforderung entsteht.[^41-1]
 
+<sup>1bis</sup> Von den Pflichten nach Absatz 1 ausgenommen sind Herstellungsbetriebe, die erneuerbare Treibstoffe mit Steuererleichterung nach Artikel 12*b* MinöStG zur Stromerzeugung herstellen.[^41-2]
+
 <sup>2</sup>
 
 Die periodische Steueranmeldung ist in der vorgeschriebenen Form abzugeben und umfasst die Gesamtmengen je Warenart (Zolltarifnummer, statistische Nummer) und je Steuersatz, getrennt für:
 
 - a. die provisorischen Steueranmeldungen;
 - b. jedes zugelassene Lager; und
-- c.[^41-2] die Pflichtlager ausserhalb von zugelassenen Lagern.
+- c.[^41-3] die Pflichtlager ausserhalb von zugelassenen Lagern.
 
 <sup>3</sup> Ändern die Steuersätze, so müssen vor und nach der Änderung getrennte Steueranmeldungen abgegeben werden.
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 12. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3133](https://fedlex.data.admin.ch/eli/oc/2014/528)).
-[^41-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
+[^41-2]: Eingefügt durch Anhang Ziff. 3 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^41-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4479](https://fedlex.data.admin.ch/eli/oc/2013/792)).
 
 #### Art. 42
 
@@ -787,7 +810,7 @@ Die periodische Steueranmeldung ist in der vorgeschriebenen Form abzugeben und u
 
 **Vorschuss für Treibstoffgemische**
 
-<sup>1</sup> Die Steuererleichterung auf dem biogenen Anteil an Gemischen aus Treibstoffen mit Steuererleichterung und anderen Treibstoffen wird anteilsmässig gewährt, sofern die ökologischen und sozialen Anforderungen erfüllt sind.[^45a-1]
+<sup>1</sup> Die Steuererleichterung auf dem erneuerbaren Anteil an Gemischen aus Treibstoffen mit Steuererleichterung und anderen Treibstoffen wird anteilsmässig gewährt, sofern die ökologischen und sozialen Anforderungen erfüllt sind.[^45a-1]
 
 <sup>2</sup>
 
@@ -830,7 +853,7 @@ Die Steuerbehörde fordert den gewährten Vorschuss zurück:
   - 1\. die aus einem zugelassenen Lager oder einem Pflichtlager ausserhalb zugelassener Lager in den steuerrechtlich freien Verkehr übergeführt wurden, oder
   - 2\. für die die Steuerbefreiung in Form einer Rückerstattung gewährt wurde.
 
-<sup>2</sup> Der Vorschuss wird für den effektiven Gehalt an biogenen Treibstoffen zurückgefordert. Kann die steuerpflichtige Person den effektiven Gehalt an biogenen Treibstoffen nicht nachweisen, so wird der Vorschuss für die Menge an biogenem Treibstoff zurückgefordert, die je Ware maximal beigemischt werden darf.[^45c-1]
+<sup>2</sup> Der Vorschuss wird für den effektiven Gehalt an erneuerbaren Treibstoffen zurückgefordert. Kann die steuerpflichtige Person den effektiven Gehalt an erneuerbaren Treibstoffen nicht nachweisen, so wird der Vorschuss für die Menge an erneuerbarem Treibstoff zurückgefordert, die je Ware maximal beigemischt werden darf.[^45c-1]
 
 [^45c-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
@@ -842,40 +865,42 @@ Treibstoffanteile nach Artikel 20*a* Absatz 2 MinöStG müssen nicht separat ang
 
 [^45d-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
 
-### 4*.* Abschnitt: Besondere Bestimmungen für Biogas, Biowasserstoff und synthetisches Gas als Treibstoff bei Einspeisung ins Erdgasnetz oder bei Direktabgabe an einer Tankstelle
+### 4*.* Abschnitt: Besondere Bestimmungen für erneuerbare Treibstoffe sowie für Erdgas, das über Tankstellen, die am Erdgasnetz angeschlossen sind abgegeben wird
 
 [^chap4-sec4-1]
 
-[^chap4-sec4-1]: Ursprünglich vor Art. 45*d.* Eingefügt durch Ziff. I der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Fassung gemäss Ziff. I der V vom 4. Mai 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)).
+[^chap4-sec4-1]: Ursprünglich vor Art. 45*d.* Eingefügt durch Ziff. I der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Fassung gemäss Anhang Ziff. 3 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 #### Art. 45e
 
 <sup>1</sup>
 
-Biogas, Biowasserstoff und synthetisches Gas müssen bei der von der Gasbranche eingesetzten Clearingstelle angemeldet werden, wenn sie:
+Biogas, erneuerbarer Wasserstoff und synthetisches Gas müssen bei der Vollzugsstelle nach Artikel 64 des Energiegesetzes vom 30. September 2016[^45e-1] angemeldet werden, wenn sie:
 
-- a. den Bestimmungen der Richtlinie des Schweizerischen Vereins des Gas- und Wasserfaches vom März 2016[^45e-1] für die Einspeisung von erneuerbaren Gasen (Richtlinie G13) entsprechen und über eine feste Verbindung ins Erdgasnetz eingespeist und gemessen werden; oder
+- a. über eine feste Verbindung ins Erdgasnetz eingespeist und gemessen werden; oder
 - b. zu Treibstoffqualität aufbereitet und direkt an einer Tankstelle abgegeben werden.
 
 <sup>2</sup>
 
-Herstellungsbetriebe, die Biogas, Biowasserstoff oder synthetisches Gas herstellen, müssen der Steuerbehörde über die Clearingstelle einreichen:
+Herstellungsbetriebe, die erneuerbare Treibstoffe herstellen, müssen der Steuerbehörde über die Vollzugsstelle einreichen:
 
 - a. die periodische Steueranmeldung nach Artikel 20 MinöStG;
 - b. die periodische Meldung nach Artikel 31 MinöStG.
 
-<sup>3</sup> Erdgaslieferanten und -verkäufer müssen Meldungen, wonach eine Steuerdifferenz nach Artikel 4 Absatz 2 Buchstabe a MinöStG entstanden ist, der Steuerbehörde über die Clearingstelle einreichen.
+<sup>3</sup> Erdgaslieferanten und -verkäufer müssen Meldungen, wonach eine Steuerdifferenz nach Artikel 4 Absatz 2 Buchstabe a MinöStG entstanden ist, der Steuerbehörde über die Vollzugsstelle einreichen.
 
 <sup>4</sup>
 
-Herstellungsbetriebe, die Biogas, Biowasserstoff oder synthetisches Gas herstellen sowie die Erdgaslieferanten und -verkäufer müssen Aufzeichnungen führen über:
+Herstellungsbetriebe, die Biogas, erneuerbarer Wasserstoff oder synthetisches Gas herstellen, sowie die Erdgaslieferanten und -verkäufer müssen Aufzeichnungen führen über:
 
-- a. die Abnahme von Biogas, Biowasserstoff und synthetischem Gas, aufgeteilt nach Lieferanten;
-- b. die Abgabe von Biogas, Biowasserstoff und synthetischem Gas, aufgeteilt nach Empfängern.
+- a. die Abnahme von Biogas, erneuerbarer Wasserstoff und synthetischem Gas aufgeteilt nach Lieferanten;
+- b. die Abgabe von Biogas, erneuerbarer Wasserstoff und synthetischem Gas aufgeteilt nach Empfängern.
 
-<sup>5</sup> Die Importeure, Exporteure und Zwischenhändler müssen alle eingeführten, ausgeführten und gehandelten Mengen von Biogas, Biowasserstoff und synthetischem Gas der Clearingstelle melden.
+<sup>5</sup> Die Importeure, die Exporteure und die Zwischenhändler müssen alle eingeführten, ausgeführten und gehandelten Mengen von Biogas, erneuerbarer Wasserstoff und synthetischem Gas der Vollzugsstelle melden.
 
-[^45e-1]: Die Richtlinie G13 kann im Internet beim Schweizerischen Verein des Gas- und Wasserfachs unter www.svgw.ch &gt; Regelwerk/Shop &gt; Regelwerk &gt; Gas &gt; Richtlinie für die Einspeisung von Biogas bezogen werden.
+<sup>6</sup> Die Vollzugsstelle leitet die Daten umgehend an die Steuerbehörde weiter. Sie überprüft insbesondere, ob die gemeldeten Mengen vollständig abgerechnet sind und nicht mehrfach verwendet oder verrechnet wurden.
+
+[^45e-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
 ## 5. Kapitel: Steuerrückerstattungen
 
@@ -910,13 +935,13 @@ Rückerstattungsbeträge von weniger als 100 Franken werden nicht ausbezahlt.
 
 Für die folgenden Rückerstattungen gilt das Kalenderjahr als Geschäftsjahr:
 
-- a. Rückerstattungen an Gesuchstellerinnen und Gesuchsteller, die nicht nach Artikel 957 Absatz 1 des Obligationenrechts[^48-3] zur Führung einer Buchhaltung verpflichtet sind;
+- a.[^48-3] Rückerstattungen an Gesuchstellerinnen und Gesuchsteller, die nicht an ein Geschäftsjahr gebunden sind;
 - b. Rückerstattung für Treibstoff, der durch die vom Bund konzessionierten Transportunternehmungen verwendet wurde;
 - c. Rückerstattung für Treibstoff, der für die Landwirtschaft verwendet wurde.[^48-4]
 
 [^48-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)).
 [^48-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
-[^48-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^48-3]: Fassung gemäss Anhang Ziff. 2 der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 [^48-4]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
 
 #### Art. 48a
@@ -1882,7 +1907,7 @@ Steuererleichterungen, die vor Inkrafttreten der Änderung vom 4. Mai 2016 für 
 
 [^u3-1]: [AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)
 
-Steuererleichterungen für biogene Treibstoffe, deren Geltungsdauer am 30. Juni 2020 noch nicht abgelaufen ist, gelten bis zum 31. Dezember 2023.
+Steuererleichterungen für erneuerbare Treibstoffe, deren Geltungsdauer am 30. Juni 2020 noch nicht abgelaufen ist, gelten bis zum 31. Dezember 2023.
 
 ## Übergangsbestimmungen zur Änderung vom 25. Oktober 2023
 
@@ -1890,9 +1915,21 @@ Steuererleichterungen für biogene Treibstoffe, deren Geltungsdauer am 30. Juni 
 
 [^u4-1]: [AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)
 
-<sup>1</sup> Steuererleichterungen für biogene Treibstoffe, die mit Verfügungsdatum zwischen dem 1. Januar 2018 und dem 31. Dezember 2024 gewährt wurden, gelten bis zum 31. Dezember 2024.
+<sup>1</sup> Steuererleichterungen für erneuerbare Treibstoffe, die mit Verfügungsdatum zwischen dem 1. Januar 2018 und dem 31. Dezember 2024 gewährt wurden, gelten bis zum 31. Dezember 2024.
 
-<sup>2</sup> Für Gesuche um Steuererleichterungen für biogene Treibstoffe, die vor Inkrafttreten der Änderung vom 25. Oktober 2023 eingereicht werden, gilt Artikel 19*d* gemäss bisherigem Recht.
+<sup>2</sup> Für Gesuche um Steuererleichterungen für erneuerbare Treibstoffe, die vor Inkrafttreten der Änderung vom 25. Oktober 2023 eingereicht werden, gilt Artikel 19*d* gemäss bisherigem Recht.
+
+## Übergangsbestimmungen zur Änderung vom 2. April 2025
+
+[^u5-1]
+
+[^u5-1]: [AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)
+
+<sup>1</sup> Steuererleichterungen für erneuerbare Treibstoffe, deren Geltungsdauer am 31. Dezember 2024 endet, gelten bis zum 31. Dezember 2030.
+
+<sup>2</sup> …[^u5-2]
+
+[^u5-2]: Tritt am 1. Jan. 2026 in Kraft.
 
 Anhang 1
 
@@ -1913,35 +1950,25 @@ Anhang 2[^t-1]
 
 (Art. 19*b*)
 
-## Steuertarif für biogene Treibstoffe
+## Steuertarif für erneuerbare Treibstoffe
 
-[^t-1]: Eingefügt durch Ziff. II der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Fassung gemäss Ziff. I der V vom 4. Mai 2016 ([AS 2016 2667](https://fedlex.data.admin.ch/eli/oc/2016/426)). Bereinigt gemäss Anhang 3 Ziff. 9 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Ziff. II der V vom 1. Juli 2020 ([AS 2020 3355](https://fedlex.data.admin.ch/eli/oc/2020/574)) und vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 629](https://fedlex.data.admin.ch/eli/oc/2023/629)).
+[^t-1]: Eingefügt durch Ziff. II der V vom 30. Jan. 2008 ([AS 2008 583](https://fedlex.data.admin.ch/eli/oc/2008/133)). Fassung gemäss Anhang Ziff. 2 der V vom 2. April 2025, in Kraft seit 1. Jan. 2025 ([AS 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Warenbezeichnung</th><th>Steuersatz</th><th>Steuerzuschlag</th></tr>
 <tr><td></td><td></td><td>je 1000 l bei 15 °C Fr.</td><td>je 1000 l bei 15 °C Fr.</td></tr>
-<tr><td>2207.1000 2000</td><td>Bioethanol</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2207.1000 2000</td><td>Erneuerbares Ethanol</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2710.1911 1912 1919</td><td>Hydrierte pflanzliche und tierische Ester, Fettsäuren, Öle und Altöle</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2804.1000</td><td>Erneuerbarer Wasserstoff, verflüssigt</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2905.1110</td><td>Erneuerbares Methanol</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2909.1910</td><td>Erneuerbarer Dimethylether</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>3824.9920</td><td>Biodiesel-Destillationsrückstand</td><td>0.00</td><td>0.00</td></tr>
 <tr><td>3826.0010</td><td>Biodiesel</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>Kap. 15</td><td>pflanzliche und tierische Öle sowie pflanzliche und tierische Altöle</td><td>0.00</td><td>0.00</td></tr>
 <tr><td></td><td></td><td>je 1000 kg Fr.</td><td>je 1000 kg Fr.</td></tr>
 <tr><td>2711.1910</td><td>Biogas, verflüssigt</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2711.1910</td><td>Synthetisches Gas, verflüssigt</td><td>0.00</td><td>0.00</td></tr>
 <tr><td>2711.2910</td><td>Biogas, in gasförmigem Zustand</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C Fr.</td><td>je 1000 l bei 15 °C Fr.</td></tr>
-<tr><td>2905.1110</td><td>Biomethanol</td><td>0.00</td><td>0.00</td></tr>
-<tr><td>2909.1910</td><td>Biodimethylether</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>je 1000 kg Fr.</td><td>je 1000 kg Fr.</td></tr>
-<tr><td>2804.1000</td><td>Biowasserstoff:</td><td></td><td></td></tr>
-<tr><td></td><td>– in gasförmigem Zustand</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C Fr.</td><td>je 1000 l bei 15 °C Fr.</td></tr>
-<tr><td></td><td>– verflüssigt</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td>synthetische biogene Treibstoffe:</td><td></td><td></td></tr>
-<tr><td>2710.1911 1912 1919</td><td>– Hydrierte pflanzliche und tierische Öle oder Fette</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>je 1000 kg Fr.</td><td>je 1000 kg Fr.</td></tr>
-<tr><td>2711.1910</td><td>– Synthetisches Gas, verflüssigt</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C Fr.</td><td>je 1000 l bei 15 °C Fr.</td></tr>
-<tr><td>3824.9920</td><td>– Biodiesel-Destillationsrückstand</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>je 1000 kg Fr.</td><td>je 1000 kg Fr.</td></tr>
-<tr><td></td><td>synthetische biogene Treibstoffe:</td><td></td><td></td></tr>
-<tr><td>2711.2910</td><td>– Synthetisches Gas, in gasförmigem Zustand</td><td>0.00</td><td>0.00</td></tr>
-<tr><td></td><td></td><td>je 1000 l bei 15 °C Fr.</td><td>je 1000 l bei 15 °C Fr.</td></tr>
-<tr><td>Kap. 15</td><td>pflanzliche und tierische Öle sowie pflanzliche und tierische Altöle</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2711.2910</td><td>Synthetisches Gas, in gasförmigem Zustand</td><td>0.00</td><td>0.00</td></tr>
+<tr><td>2804.1000</td><td>Erneuerbarer Wasserstoff, in gasförmigem Zustand</td><td>0.00</td><td>0.00</td></tr>
 </table>
