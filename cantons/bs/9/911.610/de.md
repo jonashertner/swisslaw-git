@@ -4,13 +4,12 @@ number: "911.610"
 title: Verordnung zum Waldgesetz Basel-Stadt
 short: WaV BS
 language: de
-version: 2021-12-11
-valid_until: 2024-12-31
-version_adopted: 2021-12-07
+version: 2025-01-01
+version_adopted: 2024-12-17
 adopted: 2001-12-18
 in_force: 2002-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/911.610"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5539/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6588/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Waldverordnung | Landwirtschaft / Forstwesen / Freizeitgärten[^t-1]
 
 (WaV BS)
 
-Vom 18. Dezember 2001 (Stand 11. Dezember 2021)
+Vom 18. Dezember 2001 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -39,13 +38,13 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Das Forstamt beider Basel (kurz: Forstamt) nimmt sämtliche Aufgaben und Befugnisse der eidgenössischen und kantonalen Waldgesetzgebung wahr, die nicht ausdrücklich einer anderen Behörde zugeordnet sind. Es ist zuständig für die Koordinierung aller Ansprüche an den Wald.
+<sup>1</sup> Das Amt für Wald und Wild beider Basel (kurz: Amt für Wald und Wild) nimmt sämtliche Aufgaben und Befugnisse der eidgenössischen und kantonalen Waldgesetzgebung wahr, die nicht ausdrücklich einer anderen Behörde zugeordnet sind. Es ist zuständig für die Koordinierung aller Ansprüche an den Wald.
 
 <sup>2</sup> Dem Departement für Wirtschaft, Soziales und Umwelt (kurz: Departement) obliegen
 
 - a) die ihm mit der vorliegenden Verordnung übertragenen Aufgaben;
 - b) die mit der vorliegenden Verordnung den Einwohnergemeinden übertragenen Obliegenheiten, soweit sie das Stadtgebiet betreffen;
-- c) die Aufsicht über das Forstamt.
+- c) die Aufsicht über das Amt für Wald und Wild.
 
 ## B. Rodung und Waldfeststellung (Art. 4 - 10 WaG)
 
@@ -59,7 +58,7 @@ beschliesst:
 
 **Rodungsgesuch (Art. 5 Abs. 1 WaV)**
 
-<sup>1</sup> Das Rodungsgesuch ist dem Forstamt einzureichen. Dieses sorgt zusammen mit der für das Leitverfahren zuständigen Behörde für die notwendige Verfahrenskoordination.
+<sup>1</sup> Das Rodungsgesuch ist dem Amt für Wald und Wild einzureichen. Dieses sorgt zusammen mit der für das Leitverfahren zuständigen Behörde für die notwendige Verfahrenskoordination.
 
 <sup>2</sup> Der Rodungsersatz ist im Rodungsgesuch auszuweisen.
 
@@ -67,11 +66,11 @@ beschliesst:
 
 **Rodungsverfahren (Art. 5 Abs. 2 WaV, § 4 Abs. 3 WaG BS)**
 
-<sup>1</sup> Das Forstamt oder die für das Leitverfahren zuständige Behörde legt das Rodungsgesuch während 30 Tagen öffentlich auf. Die Auflage ist im Kantonsblatt und in den amtlichen Publikationsorganen der betroffenen Gemeinden Bettingen und Riehen anzuzeigen.
+<sup>1</sup> Das Amt für Wald und Wild oder die für das Leitverfahren zuständige Behörde legt das Rodungsgesuch während 30 Tagen öffentlich auf. Die Auflage ist im Kantonsblatt und in den amtlichen Publikationsorganen der betroffenen Gemeinden Bettingen und Riehen anzuzeigen.
 
 <sup>2</sup> Gegen das Rodungsgesuch kann innert der Auflagefrist schriftlich und begründet bei der für die Auflage zuständigen Behörde Einsprache erhoben werden.
 
-<sup>3</sup> Das Forstamt versucht, Einsprachen einvernehmlich zu bereinigen.
+<sup>3</sup> Das Amt für Wald und Wild versucht, Einsprachen einvernehmlich zu bereinigen.
 
 <sup>4</sup> Über unerledigte Einsprachen entscheidet das Departement bei der Erteilung der Ausnahmebewilligung.
 
@@ -95,7 +94,7 @@ beschliesst:
 
 **Waldfeststellung (Art. 10 Abs. 1 WaG)**
 
-<sup>1</sup> Das Begehren um Waldfeststellung ist dem Forstamt einzureichen.
+<sup>1</sup> Das Begehren um Waldfeststellung ist dem Amt für Wald und Wild einzureichen.
 
 <sup>2</sup> Das Departement erlässt die kantonalen Waldfeststellungsverfügungen. Es ist ermächtigt, kantonale Richtlinien zu erlassen.
 
@@ -125,28 +124,33 @@ beschliesst:
 
 **Verfahren (§ 5 Abs. 3 WaG BS)**
 
-<sup>1</sup> Das Forstamt entwirft zusammen mit dem Grundbuch- und Vermessungsamt und in Absprache mit dem Hochbau- und Planungsamt und den zuständigen Behörden in den Gemeinden Bettingen und Riehen die Waldgrenzenkarten und legt sie unter Berücksichtigung der folgenden Grundsätze während 30 Tagen öffentlich auf:
+<sup>1</sup> Das Amt für Wald und Wild entwirft zusammen mit dem Grundbuch- und Vermessungsamt und in Absprache mit dem Hochbau- und Planungsamt[^10-1] und den zuständigen Behörden in den Gemeinden Bettingen und Riehen die Waldgrenzenkarten und legt sie unter Berücksichtigung der folgenden Grundsätze während 30 Tagen öffentlich auf:
 
-- a) die Waldgrenzenkarte wird beim Hochbau- und Planungsamt sowie bei den betroffenen Gemeinden Bettingen und Riehen aufgelegt;
+- a) die Waldgrenzenkarte wird beim Hochbau- und Planungsamt[^10-2] sowie bei den betroffenen Gemeinden Bettingen und Riehen aufgelegt;
 - b) die Auflage ist im Kantonsblatt sowie im amtlichen Publikationsorgan der betroffenen Gemeinden Bettingen und Riehen anzuzeigen;
 - c) Grundeigentümerinnen und Grundeigentümer, deren Grundstücke eine Änderung in Bezug auf die Waldfläche erfahren, werden schriftlich über die Auflage informiert.
 
-<sup>2</sup> Gegen den Entwurf der Waldgrenzenkarte kann innert der Auflagefrist schriftlich und begründet beim Forstamt Einsprache erhoben werden.
+<sup>2</sup> Gegen den Entwurf der Waldgrenzenkarte kann innert der Auflagefrist schriftlich und begründet beim Amt für Wald und Wild Einsprache erhoben werden.
 
-<sup>3</sup> Das Forstamt versucht, Einsprachen einvernehmlich zu bereinigen.
+<sup>3</sup> Das Amt für Wald und Wild versucht, Einsprachen einvernehmlich zu bereinigen.
 
 <sup>4</sup> Über unerledigte Einsprachen entscheidet das Departement beim Erlass der Waldgrenzenkarte.
+
+[^10-1]: umbenannt in: Abteilung Städtebau und Architektur
+[^10-2]: umbenannt in: Abteilung Städtebau und Architektur
 
 #### § 11
 
 **Orientierungspflicht**
 
-<sup>1</sup> Rechtskräftig festgesetzte Waldgrenzen sind vom Forstamt den zuständigen Ämtern zu melden zur:
+<sup>1</sup> Rechtskräftig festgesetzte Waldgrenzen sind vom Amt für Wald und Wild den zuständigen Ämtern zu melden zur:
 
 - a) Darstellung in den Nutzungsplänen gemäss Bundesgesetz über die Raumplanung vom 22. Juni 1979;
 - b) Darstellung im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen und im Plan für das Grundbuch.
 
-<sup>2</sup> Das Hochbau- und Planungsamt und die Gemeinden Bettingen und Riehen orientieren das Forstamt über vorgesehene Änderungen der Nutzungspläne in ihrem Zuständigkeitsgebiet, die den Wald betreffen könnten.
+<sup>2</sup> Das Hochbau- und Planungsamt[^11-1] und die Gemeinden Bettingen und Riehen orientieren das Amt für Wald und Wild über vorgesehene Änderungen der Nutzungspläne in ihrem Zuständigkeitsgebiet, die den Wald betreffen könnten.
+
+[^11-1]: umbenannt in: Abteilung Städtebau und Architektur
 
 ## D. Bauen im Wald
 
@@ -154,9 +158,9 @@ beschliesst:
 
 **Bewilligungspflicht (Art. 14 WaV)**
 
-<sup>1</sup> Das Forstamt nimmt zur Erstellung von Bauten oder Anlagen im Wald gegenüber der Leitbehörde Stellung.
+<sup>1</sup> Das Amt für Wald und Wild nimmt zur Erstellung von Bauten oder Anlagen im Wald gegenüber der Leitbehörde Stellung.
 
-<sup>2</sup> Für folgende Bauten oder Anlagen ist die Stellungnahme des Forstamtes im Baubewilligungsverfahren verbindlich:
+<sup>2</sup> Für folgende Bauten oder Anlagen ist die Stellungnahme des Amts für Wald und Wild im Baubewilligungsverfahren verbindlich:
 
 - a) forstliche Bauten und Anlagen;
 - b) forstliche Waldstrassen und Maschinenwege;
@@ -174,7 +178,7 @@ beschliesst:
 
 **Einzäunungsbewilligung (§ 8 Abs. 2 und 3 WaG BS)**
 
-<sup>1</sup> Das Forstamt ist zuständig für die Bewilligung von Einzäunungen von Wald.
+<sup>1</sup> Das Amt für Wald und Wild ist zuständig für die Bewilligung von Einzäunungen von Wald.
 
 <sup>2</sup> Wichtige Gründe für die Einzäunung von Wald sind:
 
@@ -189,13 +193,13 @@ beschliesst:
 
 **Veranstaltungsbewilligung (§ 9 Abs. 4 WaG BS)**
 
-<sup>1</sup> Für die Bewilligung von Veranstaltungen ist die Revierförsterin oder der Revierförster zuständig. Betrifft eine Veranstaltung mehr als ein Revier, entscheidet das Forstamt nach Anhörung der zuständigen Revierförsterinnen oder Revierförster über das Gesuch.
+<sup>1</sup> Für die Bewilligung von Veranstaltungen ist die Revierförsterin oder der Revierförster zuständig. Betrifft eine Veranstaltung mehr als ein Revier, entscheidet das Amt für Wald und Wild nach Anhörung der zuständigen Revierförsterinnen oder Revierförster über das Gesuch.
 
 <sup>2</sup> Das Gesuch für eine Veranstaltung ist spätestens zwei Monate vor der Veranstaltung der zuständigen Behörde einzureichen.
 
 <sup>3</sup> Die Bewilligung kann mit Auflagen und Bedingungen versehen werden.
 
-<sup>4</sup> Die Revierförsterin oder der Revierförster bzw. das Forstamt informiert die betroffenen Waldeigentümerinnen und Waldeigentümer in geeigneter Weise über erteilte Veranstaltungsbewilligungen.
+<sup>4</sup> Die Revierförsterin oder der Revierförster bzw. das Amt für Wald und Wild informiert die betroffenen Waldeigentümerinnen und Waldeigentümer in geeigneter Weise über erteilte Veranstaltungsbewilligungen.
 
 <sup>5</sup> Kann eine Veranstaltungsbewilligung erteilt werden, ist das wichtige private Interesse für eine beschränkte Fahrbewilligung gemäss § 10 Abs. 2 WaG BS in der Regel gegeben.
 
@@ -212,7 +216,7 @@ beschliesst:
 
 **Motorfahrzeugverkehr (§ 10 Abs. 2 WaG BS)**
 
-<sup>1</sup> Die Revierförsterin oder der Revierförster erteilt die Bewilligung zum Befahren von Waldstrassen. Ist mehr als ein Revier betroffen, erteilt das Forstamt die Bewilligung nach Anhörung der zuständigen Revierförsterinnen oder Revierförster.
+<sup>1</sup> Die Revierförsterin oder der Revierförster erteilt die Bewilligung zum Befahren von Waldstrassen. Ist mehr als ein Revier betroffen, erteilt das Amt für Wald und Wild die Bewilligung nach Anhörung der zuständigen Revierförsterinnen oder Revierförster.
 
 <sup>2</sup> Die Bewilligung zum Befahren von Waldstrassen in der Wasserschutzzone darf nur mit Zustimmung der Verkehrsabteilung der Kantonspolizei erteilt werden.
 
@@ -222,7 +226,7 @@ beschliesst:
 
 **Radfahren und Reiten (§ 11 Abs. 2 WaG BS)**
 
-<sup>1</sup> Für Entscheidungen über Einschränkungen der Erlaubnis oder über Ausnahmen vom Verbot ist in den Gemeinden Bettingen und Riehen der Gemeinderat, auf dem Stadtgebiet das Forstamt zuständig.
+<sup>1</sup> Für Entscheidungen über Einschränkungen der Erlaubnis oder über Ausnahmen vom Verbot ist in den Gemeinden Bettingen und Riehen der Gemeinderat, auf dem Stadtgebiet das Amt für Wald und Wild zuständig.
 
 #### § 19
 
@@ -242,7 +246,7 @@ beschliesst:
 
 **Veräusserung und Teilung von Wald (Art. 25 WaG)**
 
-<sup>1</sup> Das Forstamt ist zuständig für die Bewilligung von Veräusserung und Teilung von Wald.
+<sup>1</sup> Das Amt für Wald und Wild ist zuständig für die Bewilligung von Veräusserung und Teilung von Wald.
 
 <sup>2</sup> Gesamtentscheide im Sinne von Art. 25 Abs. 2 WaG obliegen dem Departement.
 
@@ -250,18 +254,20 @@ beschliesst:
 
 **Schutzmassnahmen (§ 18 Abs. 1 und 2 WaG BS)**
 
-<sup>1</sup> Das Forstamt ist zuständig für
+<sup>1</sup> Das Amt für Wald und Wild ist zuständig für:
 
 - a) die Anordnung von Massnahmen zur Sicherung der Anrissgebiete von Rutsch-, Erosions- und Steinschlaggebieten;
 - b) die Anordnung der Sicherstellung einer minimalen Waldpflege, wo es die Schutzfunktion erfordert.
 
-<sup>2</sup> Es führt die Gefahrenhinweiskarte über Rutsch-, Erosions- und Steinschlaggebiete sowie das entsprechende Ereigniskataster und sorgt zusammen mit dem Hochbau- und Planungsamt für die Erarbeitung der Gefahrenkarten.
+<sup>2</sup> Es führt die Gefahrenhinweiskarte über Rutsch-, Erosions- und Steinschlaggebiete sowie das entsprechende Ereigniskataster und sorgt zusammen mit dem Hochbau- und Planungsamt[^21-1] für die Erarbeitung der Gefahrenkarten.
+
+[^21-1]: umbenannt in: Abteilung Städtebau und Architektur
 
 #### § 22
 
 **Umweltgefährdende Stoffe (Art. 18 WaG, Art. 25 WaV)**
 
-<sup>1</sup> Das Forstamt ist zuständig für die Bewilligung der Verwendung umweltgefährdender Stoffe im Wald gemäss Art. 25 WaV und Art. 46 der Bundesverordnung vom 9. Juni 1986 über umweltgefährdende Stoffe (Stoffverordnung).
+<sup>1</sup> Das Amt für Wald und Wild ist zuständig für die Bewilligung der Verwendung umweltgefährdender Stoffe im Wald gemäss Art. 25 WaV und Art. 46 der Bundesverordnung vom 9. Juni 1986 über umweltgefährdende Stoffe (Stoffverordnung).
 
 <sup>2</sup> Das Amt für Umwelt und Energie ist die anzuhörende kantonale Fachstelle gemäss Art. 25 Abs. 2 WaV.
 
@@ -285,9 +291,9 @@ beschliesst:
 - k) die forstlichen Projekte, die subventionsrechtlich genehmigt sind;
 - l) die forstlichen und nicht-forstlichen Bauten, Anlagen und Einrichtungen.
 
-<sup>2</sup> Das Forstamt stellt die Planungsgrundlagen zusammen und führt sie nach.
+<sup>2</sup> Das Amt für Wald und Wild stellt die Planungsgrundlagen zusammen und führt sie nach.
 
-<sup>3</sup> Die kantonalen und kommunalen Behörden stellen dem Forstamt die notwendigen Unterlagen und Angaben unentgeltlich zur Verfügung.
+<sup>3</sup> Die kantonalen und kommunalen Behörden stellen dem Amt für Wald und Wild die notwendigen Unterlagen und Angaben unentgeltlich zur Verfügung.
 
 #### § 24
 
@@ -312,7 +318,7 @@ beschliesst:
 
 **Auflage**
 
-<sup>1</sup> Das Forstamt legt den Entwurf des Waldentwicklungsplanes während 30 Tagen öffentlich auf. Die Auflage ist im Kantonsblatt Basel-Stadt und in den amtlichen Publikationsorganen der betroffenen Gemeinden Bettingen und Riehen anzuzeigen.
+<sup>1</sup> Das Amt für Wald und Wild legt den Entwurf des Waldentwicklungsplanes während 30 Tagen öffentlich auf. Die Auflage ist im Kantonsblatt Basel-Stadt und in den amtlichen Publikationsorganen der betroffenen Gemeinden Bettingen und Riehen anzuzeigen.
 
 <sup>2</sup> Die Waldeigentümerinnen und Waldeigentümer werden schriftlich über die Auflage informiert.
 
@@ -322,13 +328,13 @@ beschliesst:
 
 <sup>1</sup> Der Waldentwicklungsplan und die Planungsgrundlagen stehen den betroffenen Waldeigentümerinnen und Waldeigentümern unentgeltlich zur Verfügung.
 
-<sup>2</sup> Jede Person kann den Waldentwicklungsplan bei der Revierförsterin oder beim Revierförster und die Planungsgrundlagen beim Forstamt einsehen.
+<sup>2</sup> Jede Person kann den Waldentwicklungsplan bei der Revierförsterin oder beim Revierförster und die Planungsgrundlagen beim Amt für Wald und Wild einsehen.
 
 #### § 27
 
 **Betriebsplan (§ 23 WaG BS)**
 
-<sup>1</sup> Das Forstamt ist zuständig für die Genehmigung der Betriebspläne.
+<sup>1</sup> Das Amt für Wald und Wild ist zuständig für die Genehmigung der Betriebspläne.
 
 <sup>2</sup> Der Betriebsplan besteht aus einem Analyse-, einem Planungs- und einem Kontrollteil und enthält mindestens:
 
@@ -337,15 +343,15 @@ beschliesst:
 - c) Angaben über die betriebliche Umsetzung des Waldentwicklungsplanes;
 - d) die waldbaulichen Ziele, die waldbauliche Planung, die Nutzungsfläche, die Nutzungsmenge sowie ein Konzept über die Jungwaldpflege.
 
-<sup>3</sup> Die Planungspflichtigen haben den Betriebsplan innerhalb von zwei Jahren nach Erlass des Waldentwicklungsplanes zu revidieren und dem Forstamt zur Genehmigung einzureichen.
+<sup>3</sup> Die Planungspflichtigen haben den Betriebsplan innerhalb von zwei Jahren nach Erlass des Waldentwicklungsplanes zu revidieren und dem Amt für Wald und Wild zur Genehmigung einzureichen.
 
-<sup>4</sup> Das Forstamt kann bei stark veränderten Verhältnissen eine vorzeitige Revision anordnen.
+<sup>4</sup> Das Amt für Wald und Wild kann bei stark veränderten Verhältnissen eine vorzeitige Revision anordnen.
 
 #### § 28
 
 **Programme (§ 23 Abs. 5 WaG BS)**
 
-<sup>1</sup> Das Forstamt ist zuständig für die Genehmigung der Nutzungs- und Pflegeprogramme. Diese hat die Wirkung einer Holzschlagbewilligung gemäss Art. 21 WaG.
+<sup>1</sup> Das Amt für Wald und Wild ist zuständig für die Genehmigung der Nutzungs- und Pflegeprogramme. Diese hat die Wirkung einer Holzschlagbewilligung gemäss Art. 21 WaG.
 
 <sup>2</sup> Das Nutzungsprogramm bezeichnet die vorgesehenen Holzschläge.
 
@@ -359,11 +365,11 @@ beschliesst:
 
 **Zuständigkeit und Inhalte**
 
-<sup>1</sup> Das Forstamt ist zusammen mit der Abteilung Berufsberatung, Berufs- und Erwachsenenbildung zuständig für die forstfachliche Aus-, Fort- und Weiterbildung des Forstpersonals sowie der Waldarbeiterinnen und Waldarbeiter.
+<sup>1</sup> Das Amt für Wald und Wild ist zusammen mit der Abteilung Berufsberatung, Berufs- und Erwachsenenbildung zuständig für die forstfachliche Aus-, Fort- und Weiterbildung des Forstpersonals sowie der Waldarbeiterinnen und Waldarbeiter.
 
 <sup>2</sup> Die Kurse für Waldarbeiterinnen und Waldarbeiter vermitteln Grundkenntnisse über die Regeln der Holzhauerei, der Holzbringung und der Waldökologie. Dabei ist das Schwergewicht auf Unfallverhütung, Erste Hilfe und Gesundheitsvorsorge sowie auf waldschonende Arbeitsausführung zu legen.
 
-<sup>3</sup> Das Forstamt bietet Praktikaplätze für angehende Forstingenieurinnen und Forstingenieure sowie für angehende Försterinnen und Förster an.
+<sup>3</sup> Das Amt für Wald und Wild bietet Praktikaplätze für angehende Forstingenieurinnen und Forstingenieure sowie für angehende Försterinnen und Förster an.
 
 ## I. Beiträge, Vergütungen und Gebühren
 
@@ -373,13 +379,13 @@ beschliesst:
 
 <sup>1</sup> Anschlussbeiträge an Bundesbeiträge sowie von Bundesbeiträgen unabhängige Kantonsbeiträge werden nur ausgerichtet, wenn die Voraussetzungen von Art. 39 Abs. 1 WaV erfüllt sind.
 
-<sup>2</sup> Beitragsgesuche sind dem Forstamt einzureichen. Es erlässt die Beitragsverfügungen.
+<sup>2</sup> Beitragsgesuche sind dem Amt für Wald und Wild einzureichen. Es erlässt die Beitragsverfügungen.
 
 #### § 31
 
 **Beitragsplanung**
 
-<sup>1</sup> Das Forstamt führt eine mittelfristige Planung über die voraussichtlich auszurichtenden Beiträge sowie über die Ausgaben, die dazu dem Grossen Rat zu beantragen sind.
+<sup>1</sup> Das Amt für Wald und Wild führt eine mittelfristige Planung über die voraussichtlich auszurichtenden Beiträge sowie über die Ausgaben, die dazu dem Grossen Rat zu beantragen sind.
 
 <sup>2</sup> Es bringt dem Regierungsrat die Planung jährlich zur Kenntnis.
 
@@ -387,7 +393,7 @@ beschliesst:
 
 **Vergütungen an das Forstrevier Riehen-Bettingen (§ 30 Abs. 2 WaG BS)**
 
-<sup>1</sup> Die Vergütungen des Kantons an das Forstrevier Riehen-Bettingen für die Ausübung der Forstaufsicht im Forstrevier sowie für die Erteilung der Holzschlagbewilligungen für die nicht-betriebsplanpflichtigen Waldeigentümerinnen und Waldeigentümer und deren Beratung werden vom Forstamt jährlich festgelegt.
+<sup>1</sup> Die Vergütungen des Kantons an das Forstrevier Riehen-Bettingen für die Ausübung der Forstaufsicht im Forstrevier sowie für die Erteilung der Holzschlagbewilligungen für die nicht-betriebsplanpflichtigen Waldeigentümerinnen und Waldeigentümer und deren Beratung werden vom Amt für Wald und Wild jährlich festgelegt.
 
 <sup>2</sup> Die entsprechenden Ansätze betragen CHF 10.- pro ha Waldfläche, CHF 2.- pro Silve Hiebsatz und CHF 1.- pro Einwohnerin oder Einwohner.
 
@@ -395,8 +401,8 @@ beschliesst:
 
 - a) die Sicherstellung einer nachhaltigen und naturnahen Waldbewirtschaftung sowie die Umsetzung der in der forstlichen Planung festgehaltenen Ziele und Massnahmen;
 - b) die Aufsicht, Koordination und Beratung in den Bereichen Rodung, Waldfeststellung, Bauwesen, Forstschutz, nachteilige Nutzungen, allgemeine Forstpolizei und Strafverfolgung;
-- c) die Beratung der Waldeigentümerinnen und Waldeigentümer, die Erteilung der Holzschlagbewilligung im nicht-betriebsplanpflichtigen Wald sowie die vom Forstamt angeordnete Information der Öffentlichkeit;
-- d) die fachliche Instruktion durch und die Berichterstattung an das Forstamt.
+- c) die Beratung der Waldeigentümerinnen und Waldeigentümer, die Erteilung der Holzschlagbewilligung im nicht-betriebsplanpflichtigen Wald sowie die vom Amt für Wald und Wild angeordnete Information der Öffentlichkeit;
+- d) die fachliche Instruktion durch und die Berichterstattung an das Amt für Wald und Wild.
 
 <sup>4</sup> Die durch Abs. 3 nicht erfassten Dienstleistungen werden dem Forstrevier Riehen-Bettingen jährlich nach den aufgewendeten Selbstkosten vergütet.
 
@@ -426,7 +432,7 @@ beschliesst:
 
 **Berichterstattungspflicht**
 
-<sup>1</sup> Die Revierförsterin oder der Revierförster erstattet dem Forstamt jährlich Bericht über die ausgeübte Forstaufsicht im Forstrevier.
+<sup>1</sup> Die Revierförsterin oder der Revierförster erstattet dem Amt für Wald und Wild jährlich Bericht über die ausgeübte Forstaufsicht im Forstrevier.
 
 ## L. Schlussbestimmungen
 
