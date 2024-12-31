@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240701/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 1° luglio 2024)
+del 29 aprile 2015 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -112,7 +112,7 @@ La dichiarazione di referti clinici di medici, ospedali e altre istituzioni pubb
 
 - l. i dati di contatto del medico, dell’ospedale, dell’organo dell’ospedale secondo l’articolo 12 capoverso 2 o dell’istituzione pubblica o privata del settore sanitario.
 
-[^6-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^6-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 7
 
@@ -139,7 +139,7 @@ Contiene, a seconda dell’agente patogeno, le seguenti informazioni:
 
 - f. i dati di contatto del medico, dell’ospedale, dell’organo dell’ospedale secondo l’articolo 12 capoverso 2 o dell’istituzione pubblica o privata del settore sanitario.
 
-[^7-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^7-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 8
 
@@ -167,7 +167,7 @@ La dichiarazione di referti delle analisi condotte da laboratori pubblici o priv
 
 <sup>2</sup> I laboratori comunicano periodicamente all’UFSP una statistica di tutti i risultati delle osservazioni soggette all’obbligo di dichiarazione. Il Dipartimento federale dell’interno (DFI) stabilisce il contenuto della statistica in riferimento ai singoli agenti patogeni.
 
-[^8-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^8-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 9
 
@@ -197,7 +197,7 @@ La dichiarazione di referti epidemiologici di medici, ospedali e altre istituzio
 
 - c. i dati di contatto del medico, dell’ospedale, dell’organo dell’ospedale secondo l’articolo 12 capoverso 2 o dell’istituzione pubblica o privata del settore sanitario.
 
-[^9-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^9-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 ### Sezione 4: Trattamento delle dichiarazioni
 
@@ -211,8 +211,8 @@ La dichiarazione di referti epidemiologici di medici, ospedali e altre istituzio
 
 <sup>3</sup> Se le dichiarazioni di cui agli articoli 6–8 sono trasmesse per via elettronica, l’UFSP controlla la correttezza del numero AVS.[^10-2]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
-[^10-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^10-2]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 11
 
@@ -238,8 +238,8 @@ La dichiarazione di referti epidemiologici di medici, ospedali e altre istituzio
 
 <sup>6</sup> I medici, gli ospedali e le altre istituzioni pubbliche o private del settore sanitario nonché i laboratori pubblici o privati devono cancellare i dati sulla persona in questione trattati elettronicamente per la dichiarazione non appena hanno adempiuto l’obbligo di dichiarazione.[^12-2]
 
-[^12-1]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
-[^12-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^12-1]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^12-2]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 13
 
@@ -466,10 +466,10 @@ I gerenti dei centri della Confederazione e degli alloggi collettivi cantonali p
 
 <sup>4</sup> L’UFSP emana d’intesa con la SEM raccomandazioni concernenti i provvedimenti di prevenzione nei centri della Confederazione e negli alloggi collettivi cantonali per richiedenti l’asilo. Mette altresì a disposizione il materiale informativo necessario.[^31-4]
 
-[^31-1]: Nuovo testo giusta il n. III 2 dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^31-2]: Nuovo testo giusta il n. III 2 dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^31-3]: Nuovo testo giusta il n. III 2 dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^31-4]: Nuovo testo giusta il n. III 2 dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^31-1]: Nuovo testo giusta la cifra III n. 2 dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^31-2]: Nuovo testo giusta la cifra III n. 2 dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^31-3]: Nuovo testo giusta la cifra III n. 2 dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^31-4]: Nuovo testo giusta la cifra III n. 2 dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 
 ### Sezione 2: Vaccinazioni
 
@@ -854,82 +854,37 @@ Possono essere considerati con priorità in particolare:
 
 [^64a64b-1]
 
-[^64a64b-1]: Introdotti dal n. I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2023 ([RU 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
+[^64a64b-1]: Introdotti dalla cifra I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta la cifra I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2023 ([RU 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 
 #### Art. 64c
 
 [^64c-1]
 
-[^64c-1]: Introdotto dal n. I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 30 giu. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^64c-1]: Introdotto dalla cifra I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 30 giu. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
 #### Art. 64d
 
 [^64d-1]
 
-[^64d-1]: Introdotto dal n. I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 30 giu. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^64d-1]: Introdotto dalla cifra I dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 30 giu. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
 #### Art. 64d<sup>bis</sup>
 
 [^64dbis-1]
 
-[^64dbis-1]: Introdotto dal n. I dell’O del 10 giu. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 30 giu. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^64dbis-1]: Introdotto dalla cifra I dell’O del 10 giu. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 al 30 giu. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
-#### Art. 64e
+#### Art. 64e e 64f
 
-**Assunzione dei costi dei medicamenti impiegati per il trattamento ambulatoriale di pazienti affetti da COVID-19**[^64e-1]
+[^64e64f-1]
 
-<sup>1</sup> La Confederazione assume i costi dei medicamenti indicati nell’allegato alle condizioni ivi definite.
+[^64e64f-1]: Introdotti dalla cifra I dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19) ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)). Abrogati dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 669](https://fedlex.data.admin.ch/eli/oc/2024/669)).
 
-<sup>2</sup>
-
-Il DFI può inserire ulteriori medicamenti nell’allegato, purché siano adempiute le seguenti condizioni:
-
-- a. sono impiegati per il trattamento ambulatoriale di pazienti affetti da COVID-19;
-- b. non figurano nell’elenco delle specialità secondo la LAMal[^64e-2];
-- c. al fine di garantire l’approvvigionamento della popolazione con questi medicamenti, la Confederazione ha stipulato un contratto con il titolare dell’omologazione.
-
-<sup>3</sup> Ogni medicamento ha un valore contabile uniforme di 150 franchi.
-
-<sup>4</sup> In caso di consegna di un medicamento da parte di un farmacista autorizzato quale fornitore di prestazioni secondo la LAMal, la Confederazione assume in aggiunta 24 franchi per gli oneri associati alla consegna.[^64e-3]
-
-<sup>5</sup>
-
-La rimunerazione del valore contabile uniforme del medicamento di cui al capoverso 3 e degli oneri associati alla consegna di cui al capoverso 4 avviene secondo il sistema del terzo pagante ai sensi dell’articolo 42 capoverso 2 LAMal. Sono debitori della rimunerazione i seguenti assicuratori:[^64e-4]
-
-- a. per le persone che dispongono di un’assicurazione obbligatoria delle cure me-dico-sanitarie secondo la LAMal, la cassa malati secondo l’articolo 2 della legge del 26 settembre 2014[^64e-5] sulla vigilanza sull’assicurazione malattie presso la quale è assicurata la persona trattata;
-- b. per le persone coperte contro malattia dall’assicurazione militare, l’assicurazione militare;
-- c. per le persone che non dispongono di un’assicurazione obbligatoria delle cure medico-sanitarie secondo la LAMal, l’istituzione comune di cui all’articolo 18 LAMal.
-
-[^64e-1]: Introdotto dal n. I dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19), in vigore dal 17 feb. 2022 ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
-[^64e-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64e-3]: Nuovo testo giusta il n. I dell’O del 10 giu. 2022, in vigore dal 20 mag. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
-[^64e-4]: Nuovo testo giusta il n. I dell’O del 10 giu. 2022, in vigore dal 20 mag. 2022 ([RU 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
-[^64e-5]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-
-#### Art. 64f
-
-**Procedura di assunzione dei costi dei medicamenti impiegati per il trattamento ambulatoriale di pazienti affetti da COVID-19**[^64f-1]
-
-<sup>1</sup> I fornitori di prestazioni inviano all’assicuratore competente la fattura per i costi di cui all’articolo 64*e* capoversi 3 e 4 per persona trattata di volta in volta o cumulando le prestazioni trimestralmente, al più tardi nove mesi dopo la fornitura delle prestazioni. La fattura può comprendere soltanto i costi di cui all’articolo 64*e* capoversi 3 e 4. L’invio avviene preferibilmente per via elettronica.
-
-<sup>2</sup> Gli assicuratori e l’istituzione comune controllano le fatture e verificano se il fornitore di prestazioni ha fatturato correttamente le prestazioni. Nell’elaborazione dei dati osservano gli articoli 84–84*b* LAMal[^64f-2].
-
-<sup>3</sup> All’inizio di gennaio, aprile, luglio e ottobre comunicano all’UFSP il numero di confezioni di medicamenti che hanno rimunerato ai fornitori di prestazioni e l’importo rimunerato. Gli uffici esterni di revisione degli assicuratori verificano annualmente le comunicazioni e l’esistenza di opportuni controlli ai sensi del capoverso 2 e fanno rapporto all’UFSP. L’UFSP può esigere dagli assicuratori informazioni supplementari sugli importi rimunerati per fornitore di prestazioni.
-
-<sup>4</sup> La Confederazione rimborsa trimestralmente agli assicuratori le prestazioni da loro rimunerate.
-
-<sup>5</sup> Se la prestazione è stata fatturata indebitamente dal fornitore di prestazioni, l’assicuratore può esigere la restituzione delle rimunerazioni già versate. Con il pagamento della prestazione da parte della Confederazione secondo il capoverso 4, un eventuale diritto alla restituzione passa alla Confederazione. Gli assicuratori comunicano alla Confederazione i dati necessari per esercitare il diritto alla restituzione. I dati non possono contenere dati personali degni di particolare protezione.
-
-<sup>6</sup> L’istituzione comune fattura trimestralmente all’UFSP le spese amministrative per la sua attività di assicuratore secondo l’articolo 64*e* capoverso 5 lettera c secondo l’onere. La tariffa oraria ammonta a 95 franchi e comprende le spese salariali, i contributi sociali e le spese infrastrutturali. Per le spese non incluse nelle spese amministrative per eventuali revisioni, adattamenti dei sistemi e interessi negativi sono rimunerati i costi effettivi.
-
-[^64f-1]: Introdotto dal n. I dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19), in vigore dal 17 feb. 2022 ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
-[^64f-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-
-#### Art. 64g a 64j
+#### Art. 64g e 64j
 
 [^64g64j-1]
 
-[^64g64j-1]: Introdotti dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^64g64j-1]: Introdotti dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
 ### Sezione 3: Trasporto di merci
 
@@ -1229,7 +1184,7 @@ Il sistema d’informazione si compone:
 
 <sup>4</sup> Il modulo «gestione dei contatti» contiene i dati di persone che sono malate, sospette malate, contagiate o sospette contagiate o che espellono agenti patogeni; contiene inoltre i dati delle persone con cui sono venute a contatto.
 
-[^90-1]: Nuovo testo giusta l’all. 2 n. II 108 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^90-1]: Nuovo testo giusta l’all. 2 cifra II n. 108 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^90-2]: [RS 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 [^90-3]: Nuovo testo giusta l’all. n. 9 dell’O del 3 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -1253,9 +1208,9 @@ I medici cantonali registrano nel sistema «dichiarazioni» i seguenti dati sull
 
 <sup>5</sup> L’UFSP mette l’IDI e il numero RIS a disposizione delle persone soggette all’obbligo di dichiarazione.[^91-3]
 
-[^91-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
-[^91-2]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
-[^91-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^91-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^91-2]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
+[^91-3]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 790](https://fedlex.data.admin.ch/eli/oc/2023/790)).
 
 #### Art. 92
 
@@ -1300,7 +1255,7 @@ Se necessario all’adempimento dei loro compiti prescritti dalla LEp, le seguen
 
 <sup>3</sup> L’UFSP rilascia i personali diritti di accesso e disciplina la relativa autenticazione.
 
-[^93-1]: Introdotta dal n. III dell’O del 18 nov. 2020, in vigore fino al 30 giu. 2022 ([RU 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Abrogata dall’art. 6 dell’O del 30 mar. 2022 sulla sospensione del sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e del sistema di segnalazione di un possibile contagio da coronavirus SARS CoV-2 durante una manifestazione, con effetto dal 1° apr. 2022 ([RU 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
+[^93-1]: Introdotta dalla cifra III dell’O del 18 nov. 2020, in vigore fino al 30 giu. 2022 ([RU 2020 4733](https://fedlex.data.admin.ch/eli/oc/2020/852)). Abrogata dall’art. 6 dell’O del 30 mar. 2022 sulla sospensione del sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e del sistema di segnalazione di un possibile contagio da coronavirus SARS CoV-2 durante una manifestazione, con effetto dal 1° apr. 2022 ([RU 2022 207](https://fedlex.data.admin.ch/eli/oc/2022/207)).
 
 #### Art. 94
 
@@ -1318,7 +1273,7 @@ Se necessario all’adempimento dei loro compiti prescritti dalla LEp, le seguen
 
 <sup>3</sup> L’UFSP rilascia i diritti di accesso personali e disciplina la relativa autenticazione.
 
-[^94-1]: Nuovo testo giusta il n. II 3 dell’O del 23 set.2022, in vigore dal 1° gen. 2023 ([RU 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
+[^94-1]: Nuovo testo giusta la cifra II n. 3 dell’O del 23 set.2022, in vigore dal 1° gen. 2023 ([RU 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 95
 
@@ -1334,7 +1289,7 @@ Se necessario all’adempimento dei loro compiti prescritti dalla LEp, le seguen
 
 Per garantire la sicurezza dei dati si applicano gli articoli 1–4 e 6 dell’ordinanza del 31 agosto 2022[^96-2] sulla protezione dei dati.
 
-[^96-1]: Nuovo testo giusta l’all. 2 n. II 108 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^96-1]: Nuovo testo giusta l’all. 2 cifra II n. 108 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^96-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
 #### Art. 97
@@ -1343,7 +1298,7 @@ Per garantire la sicurezza dei dati si applicano gli articoli 1–4 e 6 dell’o
 
 Gli accessi al sistema d’informazione sono costantemente verbalizzati. Le verbalizzazioni sono conservate per un anno. Le verbalizzazioni sono conservate per un anno separatamente dal sistema in cui sono trattati i dati personali.[^97-1]
 
-[^97-1]: Nuovo testo del per. giusta l’all. 2 n. II 108 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^97-1]: Nuovo testo del per. giusta l’all. 2 cifra II n. 108 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 98
 
@@ -1483,13 +1438,13 @@ Sono abrogate le seguenti ordinanze:
 - 9\. ordinanza del 17 giugno 1974[^107-9] concernente il trasporto e la sepoltura di cadaveri presentanti pericolo di contagio, come anche il trasporto di cadaveri in provenienza dall’estero e a destinazione di quest’ultimo.
 
 [^107-1]: [[RU 2002 3902](https://fedlex.data.admin.ch/eli/oc/2002/602)]
-[^107-2]: [[RU 2005 2137](https://fedlex.data.admin.ch/eli/oc/2005/349), [2007 2941](https://fedlex.data.admin.ch/eli/oc/2007/392), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.9]
+[^107-2]: [[RU 2005 2137](https://fedlex.data.admin.ch/eli/oc/2005/349), [2007 2941](https://fedlex.data.admin.ch/eli/oc/2007/392), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 2.9]
 [^107-3]: [[RU 1974 1103](https://fedlex.data.admin.ch/eli/oc/1974/1102_1103_1103), [2003 4837](https://fedlex.data.admin.ch/eli/oc/2003/707)]
 [^107-4]: [[RU 2005 6643](https://fedlex.data.admin.ch/eli/oc/2005/818)]
 [^107-5]: [[RU 2003 4839](https://fedlex.data.admin.ch/eli/oc/2003/708), [2009 2805](https://fedlex.data.admin.ch/eli/oc/2009/368)]
 [^107-6]: [[RU 1976 2820](https://fedlex.data.admin.ch/eli/oc/1976/2820_2820_2820)]
-[^107-7]: [[RU 1999 1092](https://fedlex.data.admin.ch/eli/oc/1999/144), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 12, [2003 4841](https://fedlex.data.admin.ch/eli/oc/2003/709), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 10]
-[^107-8]: [[RU 1985 1997](https://fedlex.data.admin.ch/eli/oc/1985/1997_1997_1997), [1986 326](https://fedlex.data.admin.ch/eli/oc/1986/326_326_326), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 83]
+[^107-7]: [[RU 1999 1092](https://fedlex.data.admin.ch/eli/oc/1999/144), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 12, [2003 4841](https://fedlex.data.admin.ch/eli/oc/2003/709), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 10]
+[^107-8]: [[RU 1985 1997](https://fedlex.data.admin.ch/eli/oc/1985/1997_1997_1997), [1986 326](https://fedlex.data.admin.ch/eli/oc/1986/326_326_326), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 83]
 [^107-9]: [[RU 1974 1106](https://fedlex.data.admin.ch/eli/oc/1974/1105_1106_1106), [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 12]
 
 #### Art. 108
@@ -1504,7 +1459,7 @@ Sono abrogate le seguenti ordinanze:
 
 [^108a-1]
 
-[^108a-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^108a-1]: Introdotto dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
 #### Art. 108b
 
@@ -1512,7 +1467,7 @@ Sono abrogate le seguenti ordinanze:
 
 Per la fatturazione delle vaccinazioni anti-COVID-19 effettuate tra il 1° gennaio 2024 e il 30 giugno 2024 si applica il diritto anteriore.
 
-[^108b-1]: Introdotto dal n. I dell’O del del 29 nov. 2023, in vigore dal 1° lug. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
+[^108b-1]: Introdotto dalla cifra I dell’O del del 29 nov. 2023, in vigore dal 1° lug. 2024 ([RU 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
 #### Art. 109
 
@@ -1522,53 +1477,8 @@ La presente ordinanza entra in vigore il 1° gennaio 2016.
 
 Allegato 1[^t-1]
 
-(art. 64*e* cpv. 1 e 2)
-
-## Medicamenti impiegati per il trattamento ambulatoriale di pazienti affetti da COVID-19
-
-[^t-1]: Originario allegato. Introdotto dal n. II dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19), in vigore dal 17 feb. 2022 ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
-
-- 1\. La Confederazione assume i costi secondo l’articolo 64*e* capoversi 3 e 4 per i seguenti medicamenti impiegati per il trattamento ambulatoriale di pazienti affetti da COVID-19:
-
-<table>
-<tr><th>Medicamento</th></tr>
-<tr><td>Molnupiravir</td></tr>
-<tr><td>Nirmatrelvir (PF-07321332) / Ritonavir</td></tr>
-</table>
-
-- 2\.
-
-  Assume i costi dei medicamenti soltanto per le persone che:
-
-  - a. sono sintomatiche; e
-  - b.
-
-    sono trattate come segue:
-
-    - 1\. nel quadro dell’indicazione omologata, o
-    - 2\. prima dell’omologazione del medicamento, ma applicando le raccomandazioni delle società specializzate responsabili e tenendo conto dei dati epidemiologici sulle varianti di SARS-CoV-2 preoccupanti («Variant of Concern», VOC) attuali.
-
-- 3\.
-
-  Assume i costi soltanto se i medicamenti sono:
-
-  - a.
-
-    prescritti dai seguenti fornitori di prestazioni secondo la LAMal[^annex1-lvlu1-1]:
-
-    - 1\. medici,
-    - 2\. ospedali;
-
-  - b.
-
-    consegnati dai seguenti fornitori di prestazioni secondo la LAMal:
-
-    - 1\. medici,
-    - 2\. farmacisti,
-    - 3\. ospedali.
-
-[^annex1-lvlu1-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^t-1]: Originario allegato. Introdotto dalla cifra II dell’O del 16 feb. 2022 (Assunzione dei costi dei medicamenti COVID-19) ([RU 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)). Abrogato dalla cifra II dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 669](https://fedlex.data.admin.ch/eli/oc/2024/669)).
 
 Allegato 2[^t-2]
 
-[^t-2]: Introdotto dal n. II dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^t-2]: Introdotto dalla cifra II dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).

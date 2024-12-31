@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240701/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 1. Juli 2024)
+vom 29. April 2015 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -874,56 +874,11 @@ Insbesondere folgende Personen können prioritär berücksichtigt werden:
 
 [^64dbis-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft vom 1. Jan. 2024 bis zum 30. Juni 2024 ([AS 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
-#### Art. 64e
+#### Art. 64e und 64f
 
-**Übernahme der Kosten von Arzneimitteln zur ambulanten Behandlung von Covid-19**[^64e-1]
+[^64e64f-1]
 
-<sup>1</sup> Der Bund übernimmt die Kosten der im Anhang aufgeführten Arzneimittel unter den dort festgelegten Voraussetzungen.
-
-<sup>2</sup>
-
-Das EDI kann weitere Arzneimittel in den Anhang aufnehmen, sofern sie folgende Voraussetzungen erfüllen:
-
-- a. Sie werden zur ambulanten Behandlung von Covid-19 eingesetzt.
-- b. Sie sind nicht auf der Spezialitätenliste nach dem KVG[^64e-2] aufgeführt.
-- c. Der Bund hat zur Sicherstellung der Versorgung der Bevölkerung mit diesen Arzneimitteln mit der Zulassungsinhaberin einen Vertrag abgeschlossen.
-
-<sup>3</sup> Jedes Arzneimittel hat einen einheitlichen Buchwert von 150 Franken.
-
-<sup>4</sup> Bei der Abgabe eines Arzneimittels durch eine Apothekerin oder einen Apotheker, die oder der als Leistungserbringer nach dem KVG zugelassen ist, übernimmt der Bund zusätzlich 24 Franken für die mit der Abgabe verbundenen Aufwände.[^64e-3]
-
-<sup>5</sup>
-
-Die Vergütung des einheitlichen Buchwerts der Arzneimittel nach Absatz 3 und der mit der Abgabe verbundenen Aufwände nach Absatz 4 erfolgt nach dem System des *Tiers payant* im Sinne von Artikel 42 Absatz 2 KVG. Sie wird von folgenden Versicherern geschuldet:[^64e-4]
-
-- a. bei Personen, die über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der Krankenkasse nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^64e-5], bei der die behandelte Person versichert ist;
-- b. bei Personen, die bei der Militärversicherung gegen Krankheit versichert sind, von der Militärversicherung;
-- c. bei Personen, die nicht über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der gemeinsamen Einrichtung nach Artikel 18 KVG.
-
-[^64e-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022 (Übernahme der Kosten von Covid-19-Arzneimitteln), in Kraft seit 17. Febr. 2022 ([AS 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
-[^64e-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64e-3]: Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 20. Mai 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
-[^64e-4]: Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 20. Mai 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
-[^64e-5]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-
-#### Art. 64f
-
-**Verfahren zur Übernahme der Kosten von Arzneimitteln zur ambulanten Behandlung von Covid-19**[^64f-1]
-
-<sup>1</sup> Die Leistungserbringer senden die Rechnung für die Kosten nach Artikel 64*e* Absätze 3 und 4 pro behandelte Person einzelfallweise oder quartalsweise gesammelt spätestens neun Monate nach Erbringung der Leistungen dem zuständigen Versicherer. Die Rechnung darf nur die Kosten nach Artikel 64*e* Absätze 3 und 4 enthalten. Die Übermittlung erfolgt vorzugsweise elektronisch.
-
-<sup>2</sup> Die Versicherer und die gemeinsame Einrichtung kontrollieren die Rechnungen und prüfen, ob der Leistungserbringer die Leistungen korrekt abgerechnet hat. Sie beachten bei der Bearbeitung der Daten die Artikel 84–84*b* KVG[^64f-2].
-
-<sup>3</sup> Sie melden dem BAG die Anzahl Arzneimittelpackungen, die sie den Leistungserbringern vergütet haben, sowie den vergüteten Betrag jeweils auf Anfang Januar, April, Juli und Oktober. Die externen Revisionsstellen der Versicherer prüfen jährlich die Meldungen und die Existenz geeigneter Kontrollen im Sinne von Absatz 2 und erstatten dem BAG Bericht. Das BAG kann von den Versicherern zusätzliche Informationen zu den vergüteten Beträgen je Leistungserbringer verlangen.
-
-<sup>4</sup> Der Bund zahlt den Versicherern die von ihnen vergüteten Leistungen quartalsweise.
-
-<sup>5</sup> Wurde die Leistung vom Leistungserbringer zu Unrecht in Rechnung gestellt, so kann der Versicherer bereits geleistete Vergütungen zurückfordern. Mit der Bezahlung der Leistung durch den Bund nach Absatz 4 geht ein allfälliger Rückforderungsanspruch auf den Bund über. Die Versicherer geben dem Bund die Daten bekannt, die für die Wahrnehmung des Rückforderungsanspruchs erforderlich sind. Die Daten dürfen keine besonders schützenswerten Personendaten enthalten.
-
-<sup>6</sup> Die gemeinsame Einrichtung stellt dem BAG quartalsweise ihre Verwaltungskosten für ihre Tätigkeit als Versicherer nach Artikel 64*e* Absatz 5 Buchstabe c nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
-
-[^64f-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022 (Übernahme der Kosten von Covid-19-Arzneimitteln), in Kraft seit 17. Febr. 2022 ([AS 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
-[^64f-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64e64f-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022 (Übernahme der Kosten von Covid-19-Arzneimitteln) ([AS 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 669](https://fedlex.data.admin.ch/eli/oc/2024/669)).
 
 #### Art. 64g–64j
 
@@ -1522,49 +1477,7 @@ Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
 Anhang 1[^t-1]
 
-(Art. 64*e* Abs. 1 und 2)
-
-## Arzneimittel zur ambulanten Behandlung von Covid-19
-
-[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. II der V vom 16. Febr. 2022 (Übernahme der Kosten von Covid-19-Arzneimitteln), in Kraft seit 17. Febr. 2022 ([AS 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
-
-- 1\. Der Bund übernimmt für folgende Arzneimittel, die zur ambulanten Behandlung von Covid-19 eingesetzt werden, die Kosten nach Artikel 64*e* Absätze 3 und 4:
-
-<table>
-<tr><th>Arzneimittel</th></tr>
-<tr><td>Molnupiravir</td></tr>
-<tr><td>Nirmatrelvir (PF-07321332) / Ritonavir</td></tr>
-</table>
-
-- 2\.
-
-  Er übernimmt die Kosten nur bei Personen, die:
-
-  - a. symptomatisch sind; und
-  - b. wie folgt behandelt werden;
-    - 1\. innerhalb der zugelassenen Indikation, oder
-    - 2\. vor der Zulassung des Arzneimittels, aber unter Anwendung der Empfehlungen der federführenden Fachgesellschaften und unter Berücksichtigung der epidemiologischen Daten zu den aktuellen besorgniserregenden Sars-CoV-2-Varianten («Variant of Concern», VOC).
-
-- 3\.
-
-  Er übernimmt die Kosten nur, wenn die Arzneimittel durch folgende Leistungserbringer nach dem KVG[^annex1-lvlu1-1]:
-
-  - a.
-
-    verordnet werden:
-
-    - 1\. Ärztinnen und Ärzte,
-    - 2\. Spitäler;
-
-  - b.
-
-    abgegeben werden:
-
-    - 1\. Ärztinnen und Ärzte,
-    - 2\. Apothekerinnen und Apotheker,
-    - 3\. Spitäler.
-
-[^annex1-lvlu1-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. II der V vom 16. Febr. 2022 (Übernahme der Kosten von Covid-19-Arzneimitteln) ([AS 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)). Aufgehoben durch Ziff. II der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 669](https://fedlex.data.admin.ch/eli/oc/2024/669)).
 
 Anhang 2[^t-2]
 

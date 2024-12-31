@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240701/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (État le 1<sup>er</sup> juillet 2024)
+du 29 avril 2015 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -874,56 +874,11 @@ En particulier, les personnes suivantes peuvent être considérées en priorité
 
 [^64dbis-1]: Introduit par le ch. I de l’O du 10 juin 2022 ([RO 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur du 1<sup>er</sup> janv. au 30 juin 2024 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
-#### Art. 64e
+#### Art. 64e et 64f
 
-**Prise en charge des coûts des médicaments pour le traitement ambulatoire du COVID-19**[^64e-1]
+[^64e64f-1]
 
-<sup>1</sup> La Confédération prend en charge les coûts des médicaments figurant dans l’annexe aux conditions qui y sont énoncées.
-
-<sup>2</sup>
-
-Le DFI peut ajouter d’autres médicaments dans l’annexe dès lors qu’ils remplissent les conditions suivantes:
-
-- a. ils sont utilisés pour le traitement ambulatoire du COVID-19;
-- b. ils ne figurent pas sur la liste des spécialités au sens de la LAMal[^64e-2];
-- c. la Confédération, pour ces médicaments, a conclu un contrat avec les titulaires de l’autorisation pour garantir un approvisionnement suffisant de la population.
-
-<sup>3</sup> Chaque médicament a une valeur comptable unique de 150 francs.
-
-<sup>4</sup> Lorsque le médicament est remis par un pharmacien admis comme fournisseur de prestations au sens de la LAMal, la Confédération prend en charge 24 francs supplémentaires pour les frais liés à la remise du médicament.[^64e-3]
-
-<sup>5</sup>
-
-La rémunération de la valeur comptable unique du médicament visée à l’al. 3 et des frais liés à la remise du médicament visés à l’al. 4 est effectuée selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal. Elle est due par les assureurs dans les cas suivants:[^64e-4]
-
-- a. pour les personnes qui disposent d’une assurance obligatoire des soins au sens de la LAMal, par la caisse-maladie visée à l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^64e-5], auprès de laquelle la personne traitée est assurée;
-- b. pour les personnes qui sont assurées en cas de maladie auprès de l’assurance militaire, par l’assurance militaire;
-- c. pour les personnes qui ne disposent pas d’une assurance obligatoire des soins au sens de la LAMal par l’institution commune visée à l’art. 18 LAMal.
-
-[^64e-1]: Introduit par le ch. I de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
-[^64e-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64e-3]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2022, en vigueur depuis le 20 mai 2022 ([RO 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
-[^64e-4]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2022, en vigueur depuis le 20 mai 2022 ([RO 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
-[^64e-5]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-
-#### Art. 64f
-
-**Procédure pour la prise en charge des coûts des médicaments pour le traitement ambulatoire du COVID-19**[^64f-1]
-
-<sup>1</sup> Les fournisseurs de prestations envoient à l’assureur compétent la facture relative aux coûts visés à l’art. 64*e*, al. 3 et 4, par personne traitée, au cas par cas ou de manière groupée sur une base trimestrielle, au plus tard 9 mois après la fourniture des prestations. La facture ne peut contenir que les coûts visés à l’art. 64*e*, al. 3 et 4. Dans l’idéal, la transmission se fait par voie électronique.
-
-<sup>2</sup> Les assureurs et l’institution commune contrôlent les factures et vérifient si le fournisseur de prestations a facturé correctement les prestations. Ils traitent les données conformément aux art. 84 à 84*b* LAMal[^64f-2].
-
-<sup>3</sup> Ils communiquent à l’OFSP le nombre d’emballages de médicaments qu’ils ont remboursés aux fournisseurs de prestations, ainsi que le montant remboursé au début des mois de janvier, d’avril, de juillet et d’octobre. Les services de révision externes des assureurs procèdent à un contrôle annuel des communications et de l’existence de contrôles appropriés au sens de l’al. 2 et font rapport à l’OFSP. L’OFSP peut demander aux assureurs des informations supplémentaires relatives aux montants remboursés par fournisseur de prestations.
-
-<sup>4</sup> Tous les 3 mois, la Confédération paie aux assureurs les prestations qu’ils ont remboursées.
-
-<sup>5</sup> Si la prestation a été indûment facturée par le fournisseur de prestations, l’assureur peut exiger de lui la restitution du montant déjà remboursé. Avec le paiement de la prestation par la Confédération au sens de l’al. 4, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles.
-
-<sup>6</sup> Tous les 3 mois, l’institution commune facture à l’OFSP ses frais administratifs liés à son activité en tant qu’assureur au sens de l’art. 64*e*, al. 5, let. c, sur la base de ses coûts effectifs. Le tarif horaire est de 95 francs et comprend les coûts liés aux salaires, aux prestations sociales et aux infrastructures. S’agissant des dépenses qui ne sont pas incluses dans les frais administratifs concernant d’éventuels révisions, modifications du système et intérêts négatifs, les coûts effectifs sont remboursés.
-
-[^64f-1]: Introduit par le ch. I de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
-[^64f-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64e64f-1]: Introduits par le ch. I de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19) ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)). Abrogés par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 669](https://fedlex.data.admin.ch/eli/oc/2024/669)).
 
 #### Art. 64g à 64j
 
@@ -1522,52 +1477,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
 Annexe 1[^t-1]
 
-(art. 64*e*, al. 1 et 2)
-
-## Médicaments pour le traitement ambulatoire du COVID-19
-
-[^t-1]: Anciennement annexe. Introduite par le ch. II de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19), en vigueur depuis le 17 fév. 2022 ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)).
-
-- 1\. La Confédération prend en charge les coûts visés à l’art. 64*e*, al. 3 et 4, pour les médicaments suivants utilisés pour le traitement ambulatoire du COVID-19:
-
-<table>
-<tr><th>Médicaments</th></tr>
-<tr><td>Molnupiravir</td></tr>
-<tr><td>Nirmatrelvir (PF-07321332) / Ritonavir</td></tr>
-</table>
-
-- 2\.
-
-  Elle prend en charge les coûts uniquement:
-
-  - a. pour les personnes qui sont symptomatiques, et
-  - b.
-
-    qui sont traitées:
-
-    - 1\. dans le cadre de l’indication autorisée, ou
-    - 2\. avant l’autorisation, mais selon les recommandations des sociétés médicales responsables et compte tenu des données épidémiologiques relatives aux variants préoccupants du SARS-CoV-2.
-
-- 3\.
-
-  Elle prend en charge les coûts uniquement dans les cas suivants:
-
-  - a.
-
-    si les médicaments sont ordonnés par les fournisseurs de prestations au sens de la LAMal[^annex1-lvlu1-1] suivants:
-
-    - 1\. médecins,
-    - 2\. hôpitaux;
-
-  - b.
-
-    si les médicaments sont remis par les fournisseurs de prestations au sens de la LAMal suivants:
-
-    - 1\. médecins,
-    - 2\. pharmaciens,
-    - 3\. hôpitaux.
-
-[^annex1-lvlu1-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^t-1]: Anciennement annexe. Introduite par le ch. II de l’O du 16 fév. 2022 (Prise en charge des coûts des médicaments utilisés pour le traitement du COVID-19) ([RO 2022 95](https://fedlex.data.admin.ch/eli/oc/2022/95)). Abrogée par le ch. II de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 669](https://fedlex.data.admin.ch/eli/oc/2024/669)).
 
 Annexe 2[^t-2]
 
