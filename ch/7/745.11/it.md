@@ -4,11 +4,11 @@ title: Ordinanza del 4 novembre 2009 sul trasporto di viaggiatori (OTV)
 short: OTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/739"
 language: it
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2009-11-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2009-739-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-739-20250101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20230901/it"
 
 (OTV)
 
-del 4 novembre 2009 (Stato 1° settembre 2023)
+del 4 novembre 2009 (Stato 1° gennaio 2025)
 
 Il Consiglio federale svizzero,
 
@@ -83,21 +83,35 @@ Le concessioni e le autorizzazioni per il trasporto regolare e professionale di 
 
 #### Art. 5
 
-**Funzione di collegamento**
+**Funzione di collegamento**[^5-1]
 
 ### (art. 3 LTV)
 
-<sup>1</sup> Vi è funzione di collegamento quando ad almeno un’estremità della linea si trova un punto di raccordo con la rete interregionale, nazionale o internazionale dei trasporti pubblici e all’altra estremità o tra le due estremità della linea una località.
+<sup>1</sup> Una linea ha funzione di collegamento se serve al collegamento generale o, nel traffico locale, al collegamento capillare di una località.
 
 <sup>2</sup>
 
-Sono considerate località gli agglomerati in cui tutto l’anno almeno 100 abitanti risiedono in:
+Sono considerate località le aree d’insediamento in cui tutto l’anno almeno 100 abitanti risiedono in:
 
-- a. zone edificabili adiacenti secondo la legge del 22 giugno 1979[^5-1] sulla pianificazione del territorio, comprese le zone di protezione delle acque, i siti caratteristici, i luoghi storici e i monumenti culturali;
-- b. insediamenti sparsi tradizionali;
+- a. un raggio di massimo 1,5 chilometri;
+- b. insediamenti sparsi tradizionali; oppure
 - c. valli nelle regioni di montagna, il cui collegamento è effettuato da un punto comune.
 
-[^5-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+<sup>3</sup>
+
+Una linea serve al collegamento generale se:
+
+- a. collega località tra loro o con la rete interregionale, nazionale o internazionale dei trasporti pubblici;
+- b. all’interno di una località collega parti dell’insediamento in cui risiedono tutto l’anno almeno 100 abitanti, lontane oltre 1,5 chilometri da fermate di altre linee che servono al collegamento generale.
+
+<sup>4</sup>
+
+Una linea serve al collegamento capillare se:
+
+- a. le fermate non distano più di 1,5 chilometri circa da fermate delle linee che servono al collegamento generale; e
+- b. le distanze tra le fermate sono brevi.
+
+[^5-1]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 6
 
@@ -171,7 +185,10 @@ Non sottostanno alla privativa sul trasporto di viaggiatori:
 
 **Concessioni e autorizzazioni di zona**
 
-- [tab] <sup>1</sup> Per il trasporto di viaggiatori con veicoli a guida non vincolata all’interno di una determinata zona possono essere rilasciate concessioni e autorizzazioni per:
+<sup>1</sup>
+
+Per il trasporto di viaggiatori con veicoli a guida non vincolata all’interno di una determinata zona possono essere rilasciate concessioni e autorizzazioni per:
+
 - a. il trasporto su richiesta e le corse collettive;
 - b. le reti del traffico locale.
 
@@ -193,17 +210,19 @@ Nell’esaminare la domanda per un’offerta di trasferimenti da un aeroporto si
 
 **Domanda di concessione**[^12-1]
 
-<sup>1</sup> L’impresa deve presentare una domanda di concessione all’UFT al più presto dieci mesi e al più tardi tre mesi prima dell’inizio o dell’ampliamento delle corse. Se la domanda è inoltrata nell’ambito di una messa a concorso secondo l’articolo 32 LTV, i termini sono retti dall’articolo 27*e* capoverso 2 dell’ordinanza dell’11 novembre 2009[^12-2] sulle indennità per il traffico regionale viaggiatori.
+<sup>1</sup> L’impresa deve presentare una domanda di concessione all’UFT al più presto dieci mesi e al più tardi tre mesi prima dell’inizio o dell’ampliamento delle corse. Se la domanda è inoltrata nell’ambito di una messa a concorso secondo l’articolo 32 LTV, i termini sono retti dall’articolo 15 capoverso 2 dell’ordinanza del 16 ott. 2024[^12-2] sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori.[^12-3]
 
 <sup>2</sup> La domanda deve essere motivata e contenere le indicazioni menzionate nell’allegato. In caso di rinnovo o di modifica della concessione l’UFT può rinunciare a singoli documenti.
 
-<sup>3</sup> La domanda dev’essere inoltrata con firma giuridicamente valida. La domanda e la documentazione possono essere inoltrate in forma elettronica. L’UFT può esigere altre copie della domanda e della documentazione in forma cartacea.[^12-3]
+<sup>3</sup> La domanda dev’essere inoltrata con firma giuridicamente valida. La domanda e la documentazione possono essere inoltrate in forma elettronica. L’UFT può esigere altre copie della domanda e della documentazione in forma cartacea.[^12-4]
 
-<sup>4</sup> In caso di messa a concorso l’impresa inoltra la domanda di concessione unitamente all’offerta. La domanda deve contenere le informazioni di cui all’allegato, numero I lettere a, d, f, i, k, l e n nonché all’allegato, numero II lettera a. Prima dell’inizio della consultazione, i committenti possono esigere informazioni supplementari dall’impresa che ha presentato l’offerta economicamente più favorevole secondo l’articolo 32*g* capoverso 1 LTV.
+<sup>4</sup> In caso di messa a concorso secondo l’articolo 32 LTV l’impresa inoltra la domanda di concessione unitamente all’offerta. La domanda deve contenere le informazioni di cui all’allegato, numero I lettere a, d, f, i, k, l e n nonché all’allegato, numero II lettera a. Prima dell’inizio della consultazione, la Confederazione può esigere informazioni supplementari dall’impresa che ha presentato l’offerta più vantaggiosa secondo l’articolo 32*g* capoverso 1 LTV.[^12-5]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
 [^12-2]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
-[^12-3]: Nuovo testo giusta il n. I 8 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^12-3]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^12-4]: Nuovo testo giusta il n. I 8 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^12-5]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 13
 
@@ -231,7 +250,7 @@ Per il rilascio della concessione, l’UFT tiene conto delle esigenze di coordin
 
 ### (art. 6 cpv. 3 LTV)
 
-<sup>1</sup> La concessione è rilasciata o rinnovata per dieci anni.
+<sup>1</sup> La concessione è rilasciata o rinnovata per 12 anni.[^15-2]
 
 <sup>2</sup>
 
@@ -239,14 +258,17 @@ La concessione può essere rilasciata o rinnovata per una durata inferiore in pa
 
 - a. l’impresa di trasporto lo richiede;
 - b. al momento della domanda la pianificazione delle messe a concorso dei Cantoni committenti prevede una messa a concorso per la linea in questione; oppure
-- c. una messa a concorso prevede una durata di validità inferiore.
+- c. una messa a concorso prevede una durata di validità inferiore;
+- d.[^15-3] ciò serve ad armonizzare le durate di concessione di più offerte ordinate di una stessa impresa.
 
 <sup>3</sup> Nel caso di una durata d’ammortamento più lunga dei mezzi d’esercizio, la concessione può essere rilasciata o rinnovata per un periodo più lungo, ma non superiore a 25 anni.
 
-<sup>4</sup> ...[^15-2]
+<sup>4</sup> ...[^15-4]
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
-[^15-2]: Abrogato dal n. III dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^15-2]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^15-3]: Introdotta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^15-4]: Abrogato dal n. III dell’O del 2 set. 2015, con effetto dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 16
 
@@ -278,29 +300,32 @@ La concessione può essere trasferita a un terzo su domanda delle imprese partec
 
 #### Art. 19
 
-**Contratto d’esercizio**
+**Procedura in caso di modifica o trasferimento della concessione**[^19-1]
+
+### (art. 9 cpv. 1 e 2 LTV)
+
+[^19-2]
+
+In caso di modifica o trasferimento della concessione, si applicano per analogia gli articoli 11–14.
+
+[^19-1]: Originario art. 20.
+[^19-2]: Nuovo testo giusta il n. I 8 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+
+#### Art. 20
+
+**Contratto d’esercizio**[^20-1]
 
 <sup>1</sup> Singoli diritti e obblighi, soprattutto relativi all’esecuzione di corse, possono essere trasferiti a un terzo mediante un contratto d’esercizio.
 
 <sup>2</sup> L’impresa concessionaria continua a essere responsabile nei confronti della Confederazione per quanto concerne l’adempimento degli obblighi.
 
-<sup>3</sup> Se sono trasferiti diritti e obblighi di un’offerta di trasporto cofinanziata dall’ente pubblico mediante contributi d’esercizio o d’investimento, l’impresa concessionaria garantisce l’osservanza delle prescrizioni relative alla presentazione dei conti di cui all’articolo 35 LTV.[^19-1]
+<sup>3</sup> Se sono trasferiti diritti e obblighi di un’offerta[^20-2] cofinanziata dall’ente pubblico mediante contributi d’esercizio o d’investimento, l’impresa concessionaria garantisce l’osservanza delle prescrizioni relative alla presentazione dei conti di cui all’articolo 35 LTV.[^20-3]
 
 <sup>4</sup> I contratti d’esercizio sono inviati all’UFT per informazione.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
-
-#### Art. 20
-
-**Procedura in caso di modifica o trasferimento della concessione**
-
-### (art. 9 cpv. 1 e 2 LTV)
-
-[^20-1]
-
-In caso di modifica o trasferimento della concessione, si applicano per analogia gli articoli 11–14.
-
-[^20-1]: Nuovo testo giusta il n. I 8 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^20-1]: Originario art. 19.
+[^20-2]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^20-3]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
 
 #### Art. 21
 
@@ -316,9 +341,11 @@ Se intende rinunciare alla sua attività, il titolare della concessione deve pre
 
 #### Art. 23
 
-**Designazione ufficiale**
+**Designazione ufficiale**[^23-1]
 
-D’intesa con l’impresa, l’UFT stabilisce la sua designazione ufficiale e le sue iniziali. Queste sono vincolanti per le pubblicazioni degli orari e delle tariffe.
+D’intesa con l’impresa, l’UFT stabilisce la designazione ufficiale e le iniziali di quest’ultima come pure i numeri di linea e le designazioni delle linee. Questi sono vincolanti per le pubblicazioni degli orari e delle tariffe.
+
+[^23-1]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 ### Sezione 3: Immatricolazione di veicoli per le offerte di trasporto concessionarie
 
@@ -485,7 +512,7 @@ Le autorizzazioni sono rilasciate esclusivamente per linee e non per zone.
 
 **Foglio di viaggio per il trasporto stradale**
 
-<sup>1</sup> Nell’ambito del trasporto stradale, per le corse circolari internazionali e le corse pendolari con alloggio di cui all’articolo 39 lettere f e g è obbligatorio munirsi del foglio di viaggio e delle relative traduzioni. Il foglio deve essere compilato prima dell’inizio della corsa.
+<sup>1</sup> Nell’ambito del trasporto stradale, per le corse internazionali pendolari con alloggio e le corse internazionali circolari di cui all’articolo 39 lettere f e g è obbligatorio munirsi del foglio di viaggio e delle relative traduzioni. Il foglio deve essere compilato prima dell’inizio della corsa.[^41-1]
 
 <sup>2</sup>
 
@@ -498,6 +525,8 @@ Il foglio di viaggio deve contenere almeno le seguenti indicazioni:
 
 <sup>3</sup> Il foglio di viaggio è distribuito dall’UFT o da un servizio da esso designato.
 
+[^41-1]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
 #### Art. 42
 
 **Itinerario e fermate**
@@ -508,9 +537,11 @@ Il foglio di viaggio deve contenere almeno le seguenti indicazioni:
 
 <sup>3</sup> Sono fatte salve le deroghe previste dagli accordi internazionali.
 
-<sup>4</sup> I Cantoni provvedono a istituire fermate adeguate e ne assicurano il collegamento al trasporto pubblico.
+<sup>4</sup> I Cantoni provvedono a istituire fermate adeguate e a collegarle al trasporto pubblico.[^42-1]
 
 <sup>5</sup> D’intesa con le autorità interessate, l’UFT può stabilire i valichi di frontiera che devono essere utilizzati.
+
+[^42-1]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 43
 
@@ -528,7 +559,7 @@ L’autorizzazione può essere rilasciata soltanto se:
 
 - a. l’impresa garantisce il rispetto delle disposizioni legali;
 - b.[^44-1] ...
-- c.[^44-2] non è gravemente pregiudicata l’esistenza, sui tratti diretti interessati, di un’offerta di trasporto comparabile coperta da uno o più contratti di pubblico servizio;
+- c.[^44-2] non è gravemente pregiudicata l’esistenza, sui tratti diretti interessati, di un’offerta comparabile coperta da uno o più contratti di pubblico servizio;
 - d.[^44-3] ...
 - e. le corse sono effettuate con i veicoli direttamente a disposizione dell’impresa;
 - f. nel trasporto esiste una cooperazione tra le imprese svizzere e quelle estere; sono fatte salve le deroghe previste dagli accordi internazionali;
@@ -723,7 +754,10 @@ Nel traffico concessionario le imprese forniscono le seguenti informazioni duran
 - d. principali coincidenze;
 - e. indicazioni sulla sicurezza.
 
+<sup>3</sup> Le imprese devono elaborare congiuntamente uno standard settoriale relativo all’obbligo d’informazione e sottoporlo all’UFT per approvazione.[^55b-2]
+
 [^55b-1]: Introdotto dal n. I 8 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^55b-2]: Introdotto dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 55c
 
@@ -756,24 +790,37 @@ Le imprese pubblicano ogni anno, congiuntamente alla relazione annuale, un rappo
 
 #### Art. 56
 
-**Trasporto diretto nel traffico concessionario**[^56-1]
+**Servizio diretto[^56-2] nel traffico concessionario**[^56-1]
 
 ### (art. 16 LTV)
 
-<sup>1</sup> Il trasporto diretto può estendersi anche solo a parti del territorio nazionale o a singoli agglomerati e regioni all’interno e all’esterno di organizzazioni ai sensi dell’articolo 17 LTV.
+<sup>1</sup> Il servizio diretto può estendersi anche solo a parti del territorio nazionale o a singoli agglomerati e regioni all’interno e all’esterno di organizzazioni ai sensi dell’articolo 17 LTV.
 
-<sup>2</sup> Le imprese devono offrire il trasporto diretto nel traffico regionale viaggiatori ordinato in virtù dell’articolo 28 capoverso 1 LTV e nel traffico a lunga distanza.
+<sup>2</sup> Le imprese devono offrire il servizio diretto o nel traffico regionale viaggiatori ordinato in virtù dell’articolo 28 capoverso 1 LTV e nel traffico a lunga distanza.
 
-<sup>3</sup>
+<sup>3</sup> Nell’ambito del restante traffico concessionario, le imprese devono offrire il servizio diretto se il vantaggio per i viaggiatori supera il dispendio economico per le imprese.[^56-3]
 
-Nell’ambito del restante traffico concessionario, le imprese devono offrire il trasporto diretto se:
-
-- a. le condizioni tecniche lo permettono;
-- b. il vantaggio per i viaggiatori supera il dispendio economico per le imprese.
-
-<sup>4</sup> La concessione stabilisce per quali linee dei trasporti a lunga distanza, regionali e locali non deve essere offerto il trasporto diretto.
+<sup>4</sup> La concessione stabilisce per quali linee dei trasporti a lunga distanza, regionali e locali non deve essere offerto il servizio diretto.
 
 [^56-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
+[^56-2]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^56-3]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la pre-sentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+#### Art. 56a
+
+**Piattaforma comune di distribuzione**[^56a-1]
+
+### (art. 17*a* LTV)
+
+<sup>1</sup> Le imprese di cui all’articolo 17*a* capoverso 1 LTV gestiscono congiuntamente i sistemi necessari per la fornitura di prestazioni di prenotazione, vendita, conteggio e ripartizione delle entrate come pure per le funzioni di controllo (piattaforma di distribuzione) e li sviluppano ulteriormente in funzione delle esigenze.
+
+<sup>2</sup> Le imprese che offrono il servizio diretto secondo l’articolo 16 LTV devono aderire alla piattaforma di distribuzione. Ad altre imprese va concessa l’adesione a condizioni non discriminatorie.
+
+<sup>3</sup> La piattaforma di distribuzione comprende almeno la gamma di titoli di trasporto del servizio diretto di cui all’articolo 16 capoverso 1 LTV.
+
+<sup>4</sup> I dati tecnici e personali necessari per la distribuzione comprendono in particolare gamme di titoli di trasporto, tariffe, dati della clientela, prestazioni richieste dalla stessa e dati di controllo.
+
+[^56a-1]: Introdotto dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 57
 
@@ -809,19 +856,42 @@ Nel servizio di linea internazionale con autobus soggetto ad autorizzazione fede
 
 #### Art. 58a
 
-**Sistemi d’informazione sui viaggiatori senza titolo di trasporto valido: trattamento dei dati, accesso e sicurezza dei dati**[^58a-1]
+**Sistemi d’informazione sui viaggiatori senza titolo di trasporto valido: trattamento di dati, accesso e sicurezza dei dati**[^58a-1]
 
-### (art. 20*a* LTV)
+### (art. 20, 20*a* LTV)
 
-<sup>1</sup> Nei sistemi d’informazione sui viaggiatori senza titolo di trasporto valido possono essere trattati nome e cognome, data di nascita, luogo d’origine o di nascita, indirizzo e qualsiasi altro dato risultante dai documenti presentati e necessario per l’identificazione dei viaggiatori stessi.
+<sup>1</sup>
 
-<sup>2</sup> I dati possono essere consultati e trattati soltanto dalle persone che li necessitano per riscuotere un supplemento o identificare un viaggiatore.
+Nei sistemi d’informazione, per quanto necessario per garantire il supplemento secondo l’articolo 20 LTV, la riscossione e il contrasto degli abusi le imprese possono trattare i seguenti dati personali di viaggiatori senza titolo di trasporto valido:
 
-<sup>3</sup> Chiunque è messo a conoscenza di mutazioni, deve rettificare senza indugio i dati in suo possesso.
+- a. cognome;
+- b. nome;
+- c. data di nascita;
+- d. luogo d’origine o di nascita;
+- e. lingua e nazionalità;
+- f. tipo e numero di documento d’identificazione;
+- g. numero di telefono;
+- h. dati di cui alle lettere a–g risultanti da foto dei documenti presentati dai viaggiatori;
+- i. indirizzo;
+- j. indirizzo e-mail;
+- k. dati sulla solvibilità dei viaggiatori che non pagano entro 30 giorni il supplemento richiesto, come la fase di diffida, lo stato dell’esecuzione, la presenza di attestati di carenza beni;
+- l. mezzo di pagamento;
+- m. verbali di controllo del titolo di trasporto, luogo e momento del controllo;
+- n. documenti utili a dimostrare un reato.
 
-<sup>4</sup> Se i dati sono resi accessibili mediante procedura di richiamo, il gestore del sistema d’informazione e l’impresa richiamante devono garantire che i dati stessi possano essere richiamati soltanto dalle persone che li necessitano per riscuotere il supplemento o identificare un viaggiatore.
+<sup>2</sup> Al fine di contrastare gli abusi il trattamento dei dati sul percorso è consentito per un massimo di 30 giorni se ciò è necessario per individuare usi plurimi non ammessi.
 
-[^58a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)).
+<sup>3</sup> Nel caso di viaggiatori minorenni o privi dell’esercizio della capacità civile possono essere trattati i dati di cui al capoverso 1 del rappresentante legale.
+
+<sup>4</sup> I dati di cui all’articolo 20*a* capoverso 2 lettera e LTV comprendono anche le sentenze cresciute in giudicato concernenti procedimenti penali o sanzioni riguardanti viaggi senza titolo di trasporto valido, se necessarie per far valere una pretesa.
+
+<sup>5</sup> I dati di cui al capoverso 1 possono essere consultati e trattati soltanto dalle persone che li necessitano per riscuotere un supplemento o identificare un viaggiatore.
+
+<sup>6</sup> Chiunque è messo a conoscenza di mutazioni di dati, deve rettificare senza indugio quelli in suo possesso.
+
+<sup>7</sup> Se i dati sono resi accessibili mediante procedura di richiamo, il gestore del sistema d’informazione e l’impresa richiamante devono garantire che i dati stessi possano essere richiamati soltanto dalle persone che li necessitano per riscuotere il supplemento o identificare un viaggiatore.
+
+[^58a-1]: Introdotto dal n. I dell’O del 2 set. 2015, in vigore dal 1° gen. 2016 ([RU 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)). Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 58b
 
@@ -876,9 +946,6 @@ Un pericolo per terzi può essere dato in particolare dal fatto che la persona i
 - b. ha percorso un pendio esposto al pericolo di valanghe;
 - c. non ha rispettato i segnali di istruzione e di divieto relativi alla sicurezza;
 - d. si è opposta agli ordini sulla sicurezza degli agenti dei servizi di vigilanza e di soccorso.
-- b. chiedere il trasporto gratuito per sé e per i bagagli fino alla stazione di partenza con la prima corsa adatta come pure il rimborso degli importi pagati;
-- c. proseguire il viaggio con la prossima corsa adatta; se necessario, l’impresa deve modificare il titolo di trasporto (proroga della validità, cambiamento d’itinerario, validazione per una classe superiore o una categoria diversa di veicoli), senza chiedere un sovrapprezzo;
-- d. acconsentire al proseguimento del viaggio con un altro vettore di trasporto.
 
 #### Art. 61
 
@@ -987,6 +1054,17 @@ Il pagamento anticipato in caso di decesso ammonta a un minimo di 40 000 franchi
 ### (art. 23 cpv. 1 LTV)
 
 Le tariffe disciplinano quali oggetti possono essere portati come bagagli a mano.
+
+#### Art. 62a
+
+**Biciclette a bordo nel trasporto ferroviario internazionale**[^62a-1]
+
+### (art. 23*a* LTV)
+
+Le disposizioni che consentono ai viaggiatori di portare a bordo biciclette nel traffico viaggiatori ferroviario transfrontaliero a lunga distanza si rifanno all’articolo 6 del regolamento (UE) 2021/782[^62a-2].
+
+[^62a-1]: Introdotto dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^62a-2]: [Regolamento (UE) 2021/782 del Parlamento europeo e del Consiglio, del 29 aprile 2021, relativo ai diritti e agli obblighi dei passeggeri nel trasporto ferroviario (rifusione), GU L 172 del 17.05.21, pag. 1](https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX%3A32021R0782)
 
 #### Art. 63
 
@@ -1262,9 +1340,45 @@ Ai fini della pianificazione dei trasporti, l’UFT può chiedere alle imprese i
 - c. luoghi di partenza e di destinazione dei viaggiatori;
 - d. numero di corse;
 - e. tipo di veicoli;
-- f. ripartizione territoriale degli abbonamenti.
+- f. ripartizione territoriale dei titoli di trasporto.[^79-1]
 
 <sup>2</sup> I dati possono essere utilizzati anche da altri Uffici federali e dai Cantoni a fini statistici e di studio.
+
+[^79-1]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+#### Art. 79a
+
+**Trattamento dei dati da parte delle imprese**[^79a-1]
+
+### (art. 54 LTV)
+
+<sup>1</sup>
+
+Per garantire i ricavi del prezzo del trasporto secondo l’articolo 54 LTV, oltre ai dati di cui all’articolo 54 capoverso 2 LTV le imprese possono trattare i seguenti dati personali di viaggiatori con un titolo di trasporto personale:
+
+- a. cognome;
+- b. nome;
+- c. data di nascita;
+- d. foto;
+- e. indirizzo, dal certificato di domicilio o dall’atto dello stato civile;
+- f. rapporto di filiazione o affiliazione;
+- g. numero di telefono, se il viaggiatore lo ha reso noto all’impresa su base volontaria;
+- h. indirizzo e-mail, se il viaggiatore lo ha reso noto all’impresa su base volontaria;
+- i. dati sulla solvibilità, previo consenso del viaggiatore;
+- j. mezzo di pagamento.
+
+<sup>2</sup> Nel caso di viaggiatori minorenni o privi dell’esercizio della capacità civile possono essere trattati i dati personali di cui al capoverso 1 del rappresentante legale.
+
+<sup>3</sup>
+
+Le imprese devono verbalizzare il trattamento dei dati personali:
+
+- a. nell’ambito in cui hanno potere di disporre;
+- b. in relazione alla riscossione del supplemento secondo gli articoli 20 e 20*a* LTV;
+- c. nel campo di applicazione della direttiva (UE) 2016/680[^79a-2].
+
+[^79a-1]: Introdotto dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazio-ne dei conti nel traffico regionale viaggiatori, in vigore dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^79a-2]: Direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali da parte delle autorità competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati e che abroga la decisione quadro 2008/977/GAI del Consiglio, versione della GU L 119 del 4.5.2016, pag. 89.
 
 #### Art. 80
 

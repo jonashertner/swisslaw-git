@@ -4,11 +4,11 @@ title: Ordonnance du 4 novembre 2009 sur le transport de voyageurs (OTV)
 short: OTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/739"
 language: fr
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2009-11-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2009-739-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-739-20250101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20230901/fr"
 
 (OTV)
 
-du 4 novembre 2009 (État le 1<sup>er</sup> septembre 2023)
+du 4 novembre 2009 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral Suisse,
 
@@ -83,21 +83,33 @@ Les concessions et les autorisations pour le transport régulier et professionne
 
 #### Art. 5
 
-**Fonction de desserte**
+**Fonction de desserte**[^5-1]
 
-### (art. 3 LTV)
-
-<sup>1</sup> Une ligne a une fonction de desserte lorsqu’il y a un point de jonction avec le réseau supérieur des transports publics à au moins une des extrémités de la ligne et une localité à l’autre extrémité ou entre les extrémités.
+<sup>1</sup> Une ligne a une fonction de desserte lorsqu’elle sert à la desserte générale ou à la desserte capillaire d’une localité.
 
 <sup>2</sup>
 
-Sont considérés comme des localités les espaces construits habités toute l’année et comprenant au moins 100 habitants dans:
+Sont considérés comme des localités les espaces construits habités toute l’année par au moins 100 habitants dans:
 
-- a. les zones à bâtir continues au sens de la loi du 22 juin 1979 sur l’aménagement du territoire[^5-1], y compris les zones de protection des eaux, les sites importants, les lieux historiques et les monuments culturels;
-- b. les habitats dispersés traditionnels;
+- a. un rayon de 1,5 km au maximum;
+- b. les habitats dispersés traditionnels, ou
 - c. les vallées des régions de montagne dont la desserte se fait à partir d’un point commun.
 
-[^5-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+<sup>3</sup>
+
+Une ligne sert à la desserte générale:
+
+- a. si elle relie des localités entre elles ou avec le réseau supérieur des transports publics;
+- b. si, au sein d’une localité, elle dessert des zones bâties habitées toute l’année par au moins 100 habitants qui se situent à plus de 1,5 km d’arrêts d’autres lignes servant à la desserte générale.
+
+<sup>4</sup>
+
+Une ligne sert à la desserte capillaire:
+
+- a. si les arrêts se trouvent à moins de 1,5 km environ d’arrêts de lignes servant à la desserte générale, et
+- b. si la distance entre les arrêts est courte.
+
+[^5-1]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 6
 
@@ -151,15 +163,16 @@ Sont soustraits à la régale du transport des voyageurs:
 - b. les courses proposées régulièrement et selon un horaire pendant quatorze jours consécutifs au plus pendant une année;
 - c. le transport exclusif de personnes handicapées;
 - d. le transport exclusif de militaires;
-- e. le transport de groupes de passagers préalablement constitués d’un point de départ commun à une destination commune, dans la mesure où le transport a lieu dans le cadre d’une offre de voyage forfaitaire;
-- f.[^8-1] le transport de groupes de passagers préalablement constitués, chaque groupe étant ramené à son point de départ avec le même véhicule (circuits);
+- e. le transport de groupes de passagers préalablement constitués d’un point de départ commun à une destination commune, dans la mesure où le transport a lieu dans le cadre d’une offre de prestations[^8-1] de voyage forfaitaire;
+- f.[^8-2] le transport de groupes de passagers préalablement constitués, chaque groupe étant ramené à son point de départ avec le même véhicule (circuits);
 - g. les courses auxquelles ne s’applique pas l’art. 6 ou 7.
 
 <sup>2</sup> Si les courses prévues sont comparables, en ce qui concerne leur fonctionnalité et leur capacité, aux courses ou aux chaînes de courses préexistantes du service de ligne et si elles s’adressent aux utilisateurs de ces dernières, elles sont soumises à la régale du transport de voyageurs.
 
 <sup>3</sup> En cas de doute, l’Office fédéral des transports (OFT) décide si un service de transport est soumis à concession ou à autorisation.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)).
+[^8-1]: Nouvelle expression selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)). Il a été tenu compte de cette mod. dans tout le texte.
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)).
 
 #### Art. 9
 
@@ -167,9 +180,11 @@ Sont soustraits à la régale du transport des voyageurs:
 
 <sup>1</sup> Les concessions et les autorisations sont octroyées pour le transport des voyageurs sur des lignes déterminées.
 
-<sup>2</sup> Sont réputées lignes toutes les courses ininterrompues sur des parcours ayant les mêmes points de départ et d’arrivée, y compris les courses de renfort, du matin et du soir sur certaines sections. Les nœuds et les points où la fonction de desserte se modifie peuvent être assimilés à un point de départ ou d’arrivée.
+<sup>2</sup> Sont réputées lignes toutes les courses ininterrompues sur des parcours ayant les mêmes points de départ et d’arrivée, y compris les courses de renfort, du matin et du soir sur des sections de lignes. Les nœuds et les points où la fonction de desserte se modifie peuvent être assimilés à un point de départ ou d’arrivée.[^9-1]
 
-<sup>3</sup> Les offres avec des fonctions de desserte différentes sur le même tronçon sont considérées comme des lignes à part entière.
+<sup>3</sup> Les offres de prestations avec des fonctions de desserte différentes sur le même tronçon sont considérées comme des lignes à part entière.
+
+[^9-1]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 10
 
@@ -192,7 +207,7 @@ Des concessions et des autorisations peuvent être octroyées pour le transport 
 
 ### (art. 9, al. 2, LTV)
 
-Lors de l’examen de demandes concernant une offre de transferts d’aéroport, il est supposé que ceux-ci ne créent pas, du point de vue de l’économie nationale, une concurrence préjudiciable à l’offre des autres entreprises de transports publics.
+Lors de l’examen de demandes concernant une offre de prestations de transferts d’aéroport, il est supposé que ceux-ci ne créent pas, du point de vue de l’économie nationale, une concurrence préjudiciable à l’offre de prestations des autres entreprises de transports publics.
 
 [^11-1]: Nouvelle teneur selon le ch. I 8 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
@@ -200,17 +215,19 @@ Lors de l’examen de demandes concernant une offre de transferts d’aéroport,
 
 **Demande de concession**[^12-1]
 
-<sup>1</sup> L’entreprise doit adresser une demande de concession à l’OFT au plus tôt dix mois et au plus tard trois mois avant la date du début ou de l’extension des courses. Si la demande est présentée dans le cadre d’une mise au concours conformément à l’art. 32 LTV, les délais sont régis par l’art. 27*e*, al. 2, de l’ordonnance du 11 novembre 2009 sur l’indemnisation du trafic régional des voyageurs[^12-2].
+<sup>1</sup> L’entreprise doit adresser une demande de concession à l’OFT au plus tôt dix mois et au plus tard trois mois avant la date du début ou de l’extension des courses. Si la demande est présentée dans le cadre d’une mise au concours conformément à l’art. 32 LTV, les délais sont régis par l’art. 15, al. 2, de l’ordonnance du 16 octobre 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs[^12-2].[^12-3]
 
 <sup>2</sup> La demande doit être motivée et contenir les indications mentionnées en annexe. L’OFT peut renoncer à exiger certaines indications, notamment lors du renouvellement ou de la modification d’une concession.
 
-<sup>3</sup> La demande présentée doit porter une signature valable. La demande et ses documents peuvent être présentés sous forme électronique. L’OFT peut exiger des exemplaires supplémentaires de la demande et de ses documents sur papier.[^12-3]
+<sup>3</sup> La demande présentée doit porter une signature valable. La demande et ses documents peuvent être présentés sous forme électronique. L’OFT peut exiger des exemplaires supplémentaires de la demande et de ses documents sur papier.[^12-4]
 
-<sup>4</sup> Lors d’une mise au concours, les entreprises présentent leur demande de concession en même temps que leur soumission. La demande doit contenir les indications mentionnées à l’annexe, ch. I, let. a, d, f, i, k, l et n, et ch. II, let. a. Les commanditaires peuvent exiger de l’entreprise dont l’offre est la plus avantageuse du point de vue économique conformément à l’art. 32*g*, al. 1, LTV des indications supplémentaires avant la consultation.
+<sup>4</sup> Lors d’une mise au concours conformément à l’art. 32 LTV, les entreprises présentent leur demande de concession en même temps que leur soumission. La demande doit contenir les indications mentionnées à l’annexe, ch. I, let. a, d, f, i, k, l et n, et ch. II, let. a. La Confédération peut exiger de l’entreprise dont l’offre est la plus avantageuse conformément à l’art. 32*g*, al. 1, LTV des indications supplémentaires avant la consultation.[^12-5]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
 [^12-2]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
-[^12-3]: Nouvelle teneur selon le ch. I 8 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^12-3]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^12-4]: Nouvelle teneur selon le ch. I 8 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^12-5]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 13
 
@@ -238,7 +255,7 @@ L’OFT octroie la concession en tenant compte de la coordination des transports
 
 ### (art. 6, al. 3, LTV)
 
-<sup>1</sup> La concession est octroyée ou renouvelée pour dix ans.
+<sup>1</sup> La concession est octroyée ou renouvelée pour douze ans.[^15-2]
 
 <sup>2</sup>
 
@@ -246,14 +263,17 @@ La concession peut être octroyée ou renouvelée pour une plus courte durée, n
 
 - a. si l’entreprise de transport le demande;
 - b. si, à la date de la demande, la mise au concours des lignes concernées figure dans les planifications de mises au concours des cantons commanditaires; ou
-- c. si une mise au concours a prévu une durée de concession plus brève.
+- c. si une mise au concours a prévu une durée de concession plus brève;
+- d.[^15-3] si cela permet d’harmoniser les durées de concession de plusieurs offres commandées par une même entreprise.
 
 <sup>3</sup> Elle peut être octroyée pour une plus longue durée, mais pour 25 ans au plus, si l’amortissement des moyens d’exploitation l’exige.
 
-<sup>4</sup> …[^15-2]
+<sup>4</sup> …[^15-4]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
-[^15-2]: Abrogé par le ch. III de l’O du 2 sept. 2015, avec effet au 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^15-2]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^15-3]: Introduite par l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^15-4]: Abrogé par le ch. III de l’O du 2 sept. 2015, avec effet au 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 16
 
@@ -281,33 +301,35 @@ La concession peut être renouvelée si les conditions d’octroi sont toujours 
 
 **Transfert de la concession**
 
-La concession peut, sur demande de l'entreprise concernée, être transférée à un tiers.
+La concession peut, sur demande de l’entreprise concernée, être transférée à un tiers.
 
 #### Art. 19
 
-**Contrat d’exploitation**
+**Procédure de modification ou de transfert de la concession**[^19-1]
+
+### (art. 9, al. 1 et 2, LTV)
+
+[^19-2]
+
+Les art. 11 à 14 s’appliquent par analogie à la modification et au transfert de la concession.
+
+[^19-1]: Anciennement art. 20.
+[^19-2]: Nouvelle teneur selon le ch. I 8 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+
+#### Art. 20
+
+**Contrat d’exploitation**[^20-1]
 
 <sup>1</sup> Certains droits et des obligations, en particulier l’exécution des courses, peuvent être transférés à un tiers par un contrat d’exploitation.
 
 <sup>2</sup> L’entreprise concessionnaire reste responsable envers la Confédération de l’exécution des obligations.
 
-<sup>3</sup> Lorsque des droits et des obligations relatifs à une offre de transport cofinancée par les pouvoirs publics au moyen de contributions d’exploitation ou d’investissement font l’objet d’un transfert, l’entreprise concessionnaire veille à ce que les dispositions de l’art. 35 LTV concernant la présentation des comptes soient respectées pour l’offre transférée.[^19-1]
+<sup>3</sup> Lorsque des droits et des obligations relatifs à une offre de prestations cofinancée par les pouvoirs publics au moyen de contributions d’exploitation ou d’investissement font l’objet d’un transfert, l’entreprise concessionnaire veille à ce que les dispositions de l’art. 35 LTV concernant la présentation des comptes soient respectées pour l’offre de prestations transférée.[^20-2]
 
 <sup>4</sup> Les contrats d’exploitation sont envoyés à l’OFT pour son information.
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
-
-#### Art. 20
-
-**Procédure de modification ou de transfert de la concession**
-
-### (art. 9, al. 1 et 2, LTV)
-
-[^20-1]
-
-Les art. 11 à 14 s’appliquent par analogie à la modification et au transfert de la concession.
-
-[^20-1]: Nouvelle teneur selon le ch. I 8 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^20-1]: Anciennement art. 19.
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
 
 #### Art. 21
 
@@ -323,11 +345,13 @@ Si le titulaire de la concession souhaite cesser ses activités, il doit soumett
 
 #### Art. 23
 
-**Désignation officielle**
+**Désignation officielle**[^23-1]
 
-L’OFT fixe la désignation officielle et le sigle de l’entreprise en accord avec cette dernière. La désignation officielle et le sigle sont contraignants pour la publication des horaires et des tarifs.
+L’OFT fixe en accord avec l’entreprise la désignation officielle et le sigle de cette dernière ainsi que les numéros de lignes et leurs désignations. Ces indications sont contraignantes pour la publication des horaires et des tarifs.
 
-### Section 3 Immatriculation de véhicules pour les offres de transport relevant de la concession
+[^23-1]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+### Section 3 Immatriculation de véhicules pour les offres de prestations relevant de la concession
 
 #### Art. 24
 
@@ -492,7 +516,7 @@ Les autorisations sont octroyées exclusivement pour des lignes et non pour des 
 
 **Feuille de route pour la circulation routière**
 
-<sup>1</sup> En circulation routière, le conducteur doit disposer d’une feuille de route munie du recueil des traductions pertinentes pour les circuits et les services de navette transfrontaliers avec hébergement définis à l’art. 39, let. f et g. La feuille de route doit être remplie avant le départ.
+<sup>1</sup> En circulation routière, le conducteur doit disposer d’une feuille de route munie du recueil des traductions pertinentes pour les services de navette transfrontaliers avec hébergement et les circuits définis à l’art. 39, let. f et g. La feuille de route doit être remplie avant le départ.[^41-1]
 
 <sup>2</sup>
 
@@ -505,6 +529,8 @@ La feuille de route contient au moins les indications suivantes:
 
 <sup>3</sup> Elle est publiée par l’OFT ou par un poste qu’il a désigné.
 
+[^41-1]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
 #### Art. 42
 
 **Itinéraire et arrêts**
@@ -515,9 +541,11 @@ La feuille de route contient au moins les indications suivantes:
 
 <sup>3</sup> Les dispositions contraires des accords internationaux sont réservées.
 
-<sup>4</sup> Les cantons veillent à des arrêts appropriés et garantissent leur raccordement aux transports publics.
+<sup>4</sup> Les cantons veillent à des arrêts appropriés et à leur raccordement aux transports publics.[^42-1]
 
 <sup>5</sup> L’OFT peut fixer, en accord avec les autorités concernées, les passages de frontière à utiliser.
+
+[^42-1]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 43
 
@@ -535,7 +563,7 @@ L’autorisation peut être octroyée uniquement:
 
 - a. si les entreprises garantissent le respect des dispositions légales;
 - b.[^44-1] …
-- c.[^44-2] si le service de transport n’affecte pas sérieusement, sur les tronçons directs concernés, le fonctionnement d’une offre de transport comparable relevant d’un ou plusieurs mandats de service public;
+- c.[^44-2] si le service de transport n’affecte pas sérieusement, sur les tronçons directs concernés, le fonctionnement d’une offre de prestations comparable relevant d’un ou plusieurs mandats de service public;
 - d.[^44-3] …
 - e. si les courses sont effectuées au moyen de véhicules à la disposition directe de l’entreprise de transport;
 - f. si les entreprises suisses et étrangères coopèrent; les dispositions contraires des accords internationaux sont réservées.
@@ -669,7 +697,7 @@ Les droits des personnes handicapées ou à mobilité réduite dans le transport
 
 **Bateaux**
 
-Les dispositions sur l’immatriculation des véhicules pour les offres de transport relevant de la concession définies aux art. 24 à 29 s’appliquent par analogie aux offres de transports par bateaux en trafic transfrontalier.
+Les dispositions sur l’immatriculation des véhicules pour les offres de prestations relevant de la concession définies aux art. 24 à 29 s’appliquent par analogie aux offres de prestations par bateaux en trafic transfrontalier.
 
 #### Art. 55
 
@@ -691,7 +719,7 @@ Les dispositions sur l’immatriculation des véhicules pour les offres de trans
 
 ### (art. 15 LTV)
 
-<sup>1</sup> Les tarifs sont déterminés notamment en fonction de la distance de voyage, du confort des véhicules, de l’attrait de l’offre de transport et des correspondances.
+<sup>1</sup> Les tarifs sont déterminés notamment en fonction de la distance de voyage, du confort des véhicules, de l’attrait de l’offre de prestations et des correspondances.
 
 <sup>2</sup> Les entreprises se concertent sur leur tarification destinée à l’atténuation des pics de demande et à l’équilibrage du taux d’utilisation des véhicules et de l’infrastructure.
 
@@ -730,7 +758,10 @@ En trafic concessionnaire, les entreprises fournissent les informations suivante
 - d. principales correspondances;
 - e. instructions de sécurité.
 
+<sup>3</sup> Les entreprises élaborent conjointement un standard commun à la branche en matière d’obligation d’informer et le soumettent à l’OFT pour approbation.[^55b-2]
+
 [^55b-1]: Introduit par le ch. I 8 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^55b-2]: Introduit par l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 55c
 
@@ -748,7 +779,7 @@ En trafic concessionnaire, les entreprises fournissent les informations suivante
 
 **Rapport sur la qualité de service**[^55d-1]
 
-### (Art. 18, al. 1, let. c, LTV)
+### (art. 18, al. 1, let. c, LTV)
 
 En même temps que chacun de leurs rapports annuels, les entreprises publient un rapport sur la qualité de service du transport ferroviaire international de voyageurs. Le rapport couvre au moins les domaines suivants:
 
@@ -771,16 +802,28 @@ En même temps que chacun de leurs rapports annuels, les entreprises publient un
 
 <sup>2</sup> Les entreprises doivent fournir le service direct pour le transport régional de voyageurs commandé conformément à l’art. 28, al. 1, LTV et pour le trafic longues distances.
 
-<sup>3</sup>
+<sup>3</sup> Pour le reste du transport relevant de la concession, les entreprises doivent également proposer le service direct lorsque l’utilité pour les voyageurs l’emporte sur les dépenses.[^56-2]
 
-Pour le reste du trafic relevant de la concession, les entreprises doivent également proposer le service direct en trafic local lorsque:
-
-- a. les conditions techniques le permettent;
-- b. l’utilité pour les voyageurs dépasse les dépenses.
-
-<sup>4</sup> Les lignes du trafic longues distances, du trafic régional et du trafic local pour lesquelles l’offre du service direct n’est pas obligatoire sont fixées dans la concession.
+<sup>4</sup> Les lignes du trafic longues distances, du trafic régional et du trafic local pour lesquelles l’offre de prestations du service direct n’est pas obligatoire sont fixées dans la concession.
 
 [^56-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
+[^56-2]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+#### Art. 56a
+
+**Plateforme numérique commune de distribution**[^56a-1]
+
+### (art. 17*a* LTV)
+
+<sup>1</sup> Les entreprises visées à l’art. 17*a*, al. 1, LTV exploitent en commun les systèmes nécessaires à la fourniture de prestations de réservation, de vente, de décompte et de répartition des recettes ainsi qu’aux fonctions de contrôle (infrastructure de distribution) et les développent en fonction des besoins.
+
+<sup>2</sup> Les entreprises qui proposent le service direct visé à l’art. 16 LTV doivent se raccorder à l’infrastructure de distribution. Le raccordement doit être accordé à des conditions non discriminatoires aux autres entreprises.
+
+<sup>3</sup> L’infrastructure de distribution comprend au moins l’assortiment de titres de transport du service direct conformément à l’art. 16, al. 1, LTV.
+
+<sup>4</sup> Les données techniques et personnelles nécessaires à la distribution comprennent notamment les assortiments de titres de transport, les tarifs, les données des clients, les prestations sollicitées par les clients ainsi que les données de contrôle.
+
+[^56a-1]: Introduit par l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 57
 
@@ -818,17 +861,40 @@ En trafic transfrontalier par bus de ligne soumis à autorisation fédérale, l�
 
 **Systèmes d’information sur les voyageurs sans titre de transport valable: traitement des données, accès et sécurité des données**[^58a-1]
 
-### (art. 20*a* LTV)
+### (art. 20, 20*a* LTV)
 
-<sup>1</sup> Le nom, le prénom, la date de naissance, le lieu d’origine ou de naissance, l’adresse et les données nécessaires à l’identification contenues dans les documents présentés peuvent être traités dans les systèmes d’information sur les voyageurs sans titre de transport valable dans le but d’identifier ces personnes.
+<sup>1</sup>
 
-<sup>2</sup> Les données ne peuvent être consultées et traitées que par les personnes qui en ont besoin pour la perception d’un supplément ou pour l’identification de voyageurs.
+Si nécessaire, les entreprises peuvent traiter dans des systèmes d’information les données personnelles ci-après sur les voyageurs sans titre de transport valable afin de garantir le supplément visé à l’art. 20 LTV et en vue de l’encaissement et de la lutte contre les abus:
 
-<sup>3</sup> Quiconque est informé de mutations doit rectifier ses données sans délai.
+- a. nom;
+- b. prénom;
+- c. date de naissance;
+- d. lieu d’origine et de naissance;
+- e. langue et nationalité;
+- f. type de permis et numéro de permis;
+- g. numéro de téléphone;
+- h. les données visées aux let. a à g à partir de photographies des documents présentés par le voyageur;
+- i. adresse du domicile;
+- j. adresse électronique;
+- k. données sur la solvabilité des voyageurs qui n’acquittent pas la créance du supplément dans les 30 jours, telles que le niveau de rappel, l’état de la poursuite, la présence d’actes de défaut de biens;
+- l. moyen de paiement;
+- m. procès-verbaux des contrôles de titres de transport, lieu et moment du contrôle;
+- n. documents servant à prouver une infraction.
 
-<sup>4</sup> Si des données sont accessibles par procédure d’appel, l’exploitant du système d’information et l’entreprise qui consulte les données doivent s’assurer que celles-ci sont accessibles uniquement aux personnes qui en ont besoin pour la perception du supplément ou pour l’identification de voyageurs.
+<sup>2</sup> Afin de lutter contre les abus, les données sur l’itinéraire peuvent être traitées au plus durant 30 jours dans la mesure où cela est nécessaire pour découvrir une utilisation multiple non autorisée.
 
-[^58a-1]: Introduit par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)).
+<sup>3</sup> Si les voyageurs sont mineurs ou n’ont pas l’exercice des droits civils, les données visées à l’al. 1 du représentant légal peuvent être traitées.
+
+<sup>4</sup> Les données visées à l’art. 20*a*, al. 2, let. e, LTV incluent les jugements sur les poursuites pénales et les sanctions pour voyage sans titre de transport valable, dans la mesure où ils sont requis pour faire valoir des droits.
+
+<sup>5</sup> Les données visées à l’al. 1 ne peuvent être consultées et traitées que par des personnes qui en ont besoin pour percevoir un supplément ou pour identifier des voyageurs.
+
+<sup>6</sup> Quiconque est informé de mutations de données est tenu de les corriger sans délai.
+
+<sup>7</sup> Si des données sont rendues accessibles en ligne, le gestionnaire du système d’information et l’entreprise qui accède aux données doivent s’assurer que seules les personnes qui en ont besoin pour percevoir le supplément ou pour identifier des voyageurs puissent y accéder.
+
+[^58a-1]: Introduit par le ch. I de l’O du 2 sept. 2015 ([RO 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)). Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 58b
 
@@ -955,7 +1021,7 @@ Si une entreprise de transport international par bus de ligne doit s’attendre 
 
 **Assistance en cas d’accident en transport international par bus de ligne**[^61c-1]
 
-### (Art. 8, al. 2, LTV)
+### (art. 8, al. 2, LTV)
 
 En cas d’accident lors d’un transport par bus de ligne international, l’entreprise fournit une assistance appropriée et proportionnée portant sur les besoins concrets immédiats des passagers à la suite de l’accident. Cette assistance englobe, si nécessaire, l’hébergement, la nourriture, les vêtements, le transport et la dispensation des premiers secours. Pour chaque passager, l’entreprise peut limiter le coût total de l’hébergement à un montant de 100 francs par nuit et pour deux nuits au plus.
 
@@ -965,7 +1031,7 @@ En cas d’accident lors d’un transport par bus de ligne international, l’en
 
 **Assistance en cas d’annulation de la course ou de départ retardé en transport international par bus de ligne**[^61d-1]
 
-### (Art. 8, al. 2, LTV)
+### (art. 8, al. 2, LTV)
 
 En cas d’annulation de la course ou de départ retardé de plus de 90 minutes pour un voyage en transport international par bus de ligne dont la durée prévue dépasse trois heures, l’entreprise offre gratuitement aux passagers:
 
@@ -978,7 +1044,7 @@ En cas d’annulation de la course ou de départ retardé de plus de 90 minutes 
 
 **Avance en cas de décès**[^61e-1]
 
-### (Art. 44*a* LTV)
+### (art. 44*a* LTV)
 
 L’avance en cas de décès est d’au moins 40 000 francs par voyageur.
 
@@ -991,6 +1057,17 @@ L’avance en cas de décès est d’au moins 40 000 francs par voyageur.
 ### (art. 23, al. 1, LTV)
 
 Les tarifs fixent les objets qui peuvent être emportés comme bagages à main.
+
+#### Art. 62a
+
+**Bicyclettes en transport ferroviaire international**[^62a-1]
+
+### (art. 23*a* LTV)
+
+Les dispositions relatives au transport de bicyclettes en transport international de voyageurs grandes lignes par chemin de fer sont régies par l’art. 6 du règlement (UE) 2021/782[^62a-2].
+
+[^62a-1]: Introduit par l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^62a-2]: Règlement (UE) 2021/782 du Parlement européen et du Conseil du 29 avril 2021 sur les droits et obligations des voyageurs ferroviaires (refonte), JO L 172 du 17.5.2021, p. 1.
 
 #### Art. 63
 
@@ -1239,13 +1316,13 @@ Elles autorisent les contrôles destinés à constater l’exécution réglement
 
 <sup>5</sup> Au surplus, l’ordonnance du 28 juin 2000 sur les enquêtes en cas d’accident des transports publics[^78-1] est applicable.
 
-[^78-1]: [[RO 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320), **2004** 4705 II 68, [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 let. b [4575](https://fedlex.data.admin.ch/eli/oc/2011/649). [RO 2015 215](https://fedlex.data.admin.ch/eli/oc/2015/26)art. 52 al. 2]. Voir actuellement l’O du 17 déc. 2014 sur les enquêtes de sécurité en cas d'incident dans le domaine des transports ([RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)).
+[^78-1]: [[RO 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320), **2004** 4705 II 68, [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)art. 2 let. b [4575](https://fedlex.data.admin.ch/eli/oc/2011/649). [RO 2015 215](https://fedlex.data.admin.ch/eli/oc/2015/26)art. 52 al. 2]. Voir actuellement l’O du 17 déc. 2014 sur les enquêtes de sécurité en cas d’incident dans le domaine des transports ([RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)).
 
 #### Art. 78a
 
 **Rapport sur l’application des droits des passagers en transport international par bus de ligne**[^78a-1]
 
-### (Art. 52 LTV)
+### (art. 52 LTV)
 
 L’OFT publie tous les deux ans un rapport sur l’application des art. 52*a*, 55*b*, 61*b* à 61*d* et 66 au cours des deux années civiles précédentes. Le rapport contient notamment des statistiques sur les recours et les sanctions appliquées.
 
@@ -1259,16 +1336,53 @@ L’OFT publie tous les deux ans un rapport sur l’application des art. 52*a*, 
 
 <sup>1</sup>
 
-À des fins de planification du trafic, l’OFT peut demander aux entreprises les données suivantes relatives aux lignes, sections de ligne et zones:
+À des fins de planification des transports, l’OFT peut demander aux entreprises les données suivantes relatives aux lignes, sections de ligne et zones:[^79-1]
 
 - a. les nombres de passagers du trafic journalier moyen, du trafic aux jours ouvrables moyen, des heures de pointe du matin pour chaque direction, des heures de pointe du soir pour chaque direction;
 - b. les taux d’occupation;
 - c. les lieux de départ et de destination des voyageurs;
 - d. le nombre de courses;
 - e. les types de véhicules;
-- f. la répartition géographique des abonnements.
+- f.[^79-2] la répartition géographique des titres de transport.
 
 <sup>2</sup> Ces données peuvent également être utilisées par d’autres offices de la Confédération et des cantons pour leurs propres études et statistiques.
+
+[^79-1]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^79-2]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+#### Art. 79a
+
+**Traitement des données par les entreprises**[^79a-1]
+
+### (art. 54 LTV)
+
+<sup>1</sup>
+
+Outre les données visées à l’art. 54, al. 2, LTV, les entreprises peuvent traiter les données personnelles ci-après des voyageurs munis d’un titre de transport personnel afin de garantir la perception du prix du transport conformément à l’art. 54 LTV:
+
+- a. nom;
+- b. prénom;
+- c. date de naissance;
+- d. photo;
+- e. à partir de l’attestation de domicile ou du document d’état civil: adresse du domicile;
+- f. filiation ou lien nourricier;
+- g. numéro de téléphone, si les voyageurs l’ont communiqué de leur plein gré à l’entreprise;
+- h. adresse électronique, si les voyageurs l’ont communiquée de leur plein gré à l’entreprise;
+- i. données sur la solvabilité, uniquement avec l’accord des voyageurs;
+- j. moyen de paiement.
+
+<sup>2</sup> Si les voyageurs sont mineurs ou n’ont pas l’exercice des droits civils, les données visées à l’al. 1 du représentant légal peuvent être traitées.
+
+<sup>3</sup>
+
+Les entreprises dressent un procès-verbal du traitement des données personnelles:
+
+- a. dans le domaine dans lequel elles ont des compétences de décision;
+- b. en rapport avec la perception du supplément visé aux art. 20 et 20*a* LTV;
+- c. dans le champ d’application de la directive (UE) 2016/680[^79a-2].
+
+[^79a-1]: Introduit par l’annexe 4 ch. II 5 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^79a-2]: Directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, version du JO L 119 du 4.5.2016, p. 89.
 
 #### Art. 80
 

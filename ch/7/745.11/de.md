@@ -4,11 +4,11 @@ title: Verordnung vom 4. November 2009 über die Personenbeförderung (VPB)
 short: VPB
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/739"
 language: de
-version: 2023-09-01
+version: 2025-01-01
 adopted: 2009-11-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2009-739-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/739/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-739-20250101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/739/20230901/de"
 
 (VPB)
 
-vom 4. November 2009 (Stand am 1. September 2023)
+vom 4. November 2009 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -83,21 +83,33 @@ Konzessionen und Bewilligungen für die regelmässige und gewerbsmässige Person
 
 #### Art. 5
 
-**Erschliessungsfunktion**
+**Erschliessungsfunktion**[^5-1]
 
-### (Art. 3 PBG)
-
-<sup>1</sup> Die Erschliessungsfunktion ist gegeben, wenn sich an mindestens einem Linienende ein Verknüpfungspunkt mit dem übergeordneten Netz des öffentlichen Verkehrs und am anderen Ende oder zwischen den Linienenden eine Ortschaft befindet.
+<sup>1</sup> Eine Linie hat Erschliessungsfunktion, wenn sie der Groberschliessung oder im Ortsverkehr der Feinerschliessung einer Ortschaft dient.
 
 <sup>2</sup>
 
-Als Ortschaften gelten Siedlungsgebiete, in denen das ganze Jahr über mindestens 100 Personen wohnen in:
+Als Ortschaften gelten Siedlungsgebiete, in denen das ganze Jahr über mindestens 100 Personen wohnen:
 
-- a. zusammenhängenden Bauzonen nach dem Raumplanungsgesetz vom 22. Juni 1979[^5-1], einschliesslich Schutzzonen für Gewässer, bedeutender Ortsbilder, geschichtlicher Stätten und Kulturdenkmäler;
-- b. traditionellen Streusiedlungen;
-- c. Talschaften im Berggebiet, die von einem gemeinsamen Punkt aus erschlossen werden.
+- a. in einem Umkreis von höchstens 1,5 km Radius;
+- b. in traditionellen Streusiedlungen; oder
+- c. in Talschaften im Berggebiet, die von einem gemeinsamen Punkt aus erschlossen werden.
 
-[^5-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+<sup>3</sup>
+
+Der Groberschliessung dient eine Linie, die:
+
+- a. Ortschaften untereinander oder mit dem übergeordneten Netz des öffentlichen Verkehrs verbindet;
+- b. innerhalb einer Ortschaft Siedlungsteile, in denen das ganze Jahr über mindestens 100 Personen wohnen, erschliesst, die mehr als 1,5 km von Haltestellen anderer Linien entfernt sind, die der Groberschliessung dienen.
+
+<sup>4</sup>
+
+Der Feinerschliessung dient eine Linie, wenn:
+
+- a. die Haltestellen nicht mehr als rund 1,5 km von Haltestellen der Linien entfernt sind, die der Groberschliessung dienen; und
+- b. die Abstände zwischen den Haltestellen klein sind.
+
+[^5-1]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 6
 
@@ -163,9 +175,11 @@ Vom Personenbeförderungsregal sind ausgenommen:
 
 <sup>1</sup> Konzessionen und Bewilligungen werden für die Personenbeförderung auf bestimmten Linien erteilt.
 
-<sup>2</sup> Als Linie gelten alle durchgehenden Fahrten von Kursen mit gleichen Anfangs- und Endpunkten, einschliesslich Verstärkungs-, Früh- und Spätkursen auf Teilstrecken. Als Anfangs- und Endpunkte können auch Knotenpunkte gelten und Punkte, an denen die Erschliessungsfunktion ändert.
+<sup>2</sup> Als Linie gelten alle durchgehenden Fahrten von Kursen mit gleichen Anfangs- und Endpunkten, einschliesslich Verstärkungs-, Früh- und Spätkursen auf Teillinien. Als Anfangs- und Endpunkte können auch Knotenpunkte gelten und Punkte, an denen die Erschliessungsfunktion ändert.[^9-1]
 
 <sup>3</sup> Angebote mit unterschiedlicher Erschliessungsfunktion auf derselben Strecke gelten als eigene Linie.
+
+[^9-1]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 10
 
@@ -196,17 +210,19 @@ Bei der Prüfung des Gesuchs für ein Angebot von Flughafentransfers wird vermut
 
 **Konzessionsgesuch**[^12-1]
 
-<sup>1</sup> Das Unternehmen muss das Konzessionsgesuch frühestens zehn und spätestens drei Monate vor dem Zeitpunkt, auf den die Fahrten aufgenommen oder erweitert werden sollen, beim BAV einreichen. Wird das Gesuch im Rahmen einer Ausschreibung nach Artikel 32 PBG eingereicht, so richten sich die Fristen nach Artikel 27*e* Absatz 2 der Verordnung vom 11. November 2009[^12-2] über die Abgeltung des regionalen Personenverkehrs.
+<sup>1</sup> Das Unternehmen muss das Konzessionsgesuch frühestens zehn und spätestens drei Monate vor dem Zeitpunkt, auf den die Fahrten aufgenommen oder erweitert werden sollen, beim BAV einreichen. Wird das Gesuch im Rahmen einer Ausschreibung nach Artikel 32 PBG eingereicht, so richten sich die Fristen nach Artikel 15 Absatz 2 der Verordnung vom 16. Oktober 2024[^12-2] über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr.[^12-3]
 
 <sup>2</sup> Das Gesuch muss begründet sein und die im Anhang genannten Angaben enthalten. Das BAV kann insbesondere bei Erneuerungen und Änderungen auf einzelne Angaben verzichten.
 
-<sup>3</sup> Das Gesuch ist mit rechtsgültiger Unterschrift einzureichen. Das Gesuch und die Gesuchsunterlagen können in elektronischer Form eingereicht werden. Das BAV kann weitere Exemplare des Gesuchs und der Gesuchsunterlagen auf Papier verlangen.[^12-3]
+<sup>3</sup> Das Gesuch ist mit rechtsgültiger Unterschrift einzureichen. Das Gesuch und die Gesuchsunterlagen können in elektronischer Form eingereicht werden. Das BAV kann weitere Exemplare des Gesuchs und der Gesuchsunterlagen auf Papier verlangen.[^12-4]
 
-<sup>4</sup> Bei einer Ausschreibung müssen die Unternehmen das Gesuch zusammen mit der Ausschreibungsofferte einreichen. Das Gesuch muss die Angaben nach Anhang Ziffer I Buchstaben a, d, f, i, k, l und n sowie Anhang Ziffer II Buchstabe a enthalten. Die Besteller können vom Unternehmen mit dem wirtschaftlich günstigsten Angebot nach Artikel 32*g* Absatz 1 PBG vor Beginn der Anhörung zusätzliche Angaben verlangen.
+<sup>4</sup> Bei einer Ausschreibung nach Artikel 32 PBG müssen die Unternehmen das Gesuch zusammen mit der Ausschreibungsofferte einreichen. Das Gesuch muss die Angaben nach Anhang Ziffer I Buchstaben a, d, f, i, k, l und n sowie Anhang Ziffer II Buchstabe a enthalten. Der Bund kann vom Unternehmen mit der vorteilhaftesten Offerte nach Artikel 32*g* Absatz 1 PBG vor Beginn der Anhörung zusätzliche Angaben verlangen.[^12-5]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
-[^12-2]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
-[^12-3]: Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^12-2]: SR **945.16**
+[^12-3]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^12-4]: Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^12-5]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 13
 
@@ -234,22 +250,25 @@ Das BAV berücksichtigt bei der Erteilung der Konzession die Koordination innerh
 
 ### (Art. 6 Abs. 3 PBG)
 
-<sup>1</sup> Die Konzession wird für zehn Jahre erteilt oder erneuert.
+<sup>1</sup> Die Konzession wird für zwölf Jahre erteilt oder erneuert.[^15-2]
 
 <sup>2</sup>
 
 Sie kann insbesondere dann für eine kürzere Dauer erteilt oder erneuert werden, wenn:
 
 - a. das Transportunternehmen dies beantragt;
-- b. zum Zeitpunkt des Gesuchs die Ausschreibung der betreffenden Linie in den Ausschreibungsplanungen der bestellenden Kantone vorgesehen ist; oder
-- c. eine Ausschreibung eine kürzere Geltungsdauer vorgesehen hat.
+- b. zum Zeitpunkt des Gesuchs die Ausschreibung der betreffenden Linie in den Ausschreibungsplanungen der bestellenden Kantone vorgesehen ist;
+- c. eine Ausschreibung eine kürzere Geltungsdauer vorgesehen hat; oder
+- d.[^15-3] dies der Harmonisierung der Konzessionsdauern mehrerer bestellter Angebote eines Unternehmens dient.
 
 <sup>3</sup> Bei längerer Amortisationsdauer der Betriebsmittel kann die Konzession für eine längere Dauer, jedoch höchstens für 25 Jahre erteilt oder erneuert werden.
 
-<sup>4</sup> ...[^15-2]
+<sup>4</sup> …[^15-4]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
-[^15-2]: Aufgehoben durch Ziff. III der V vom 2. Sept. 2015, mit Wirkung seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^15-2]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^15-3]: Eingefügt durch Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^15-4]: Aufgehoben durch Ziff. III der V vom 2. Sept. 2015, mit Wirkung seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 16
 
@@ -281,29 +300,32 @@ Die Konzession kann auf Gesuch der beteiligten Unternehmen auf eine Drittperson 
 
 #### Art. 19
 
-**Betriebsvertrag**
+**Verfahren bei der Änderung oder der Übertragung der Konzession**[^19-1]
+
+### (Art. 9 Abs. 1 und 2 PBG)
+
+[^19-2]
+
+Die Artikel 11–14 gelten bei der Änderung und der Übertragung von Konzessionen sinngemäss.
+
+[^19-1]: Ursprünglich: Art. 20.
+[^19-2]: Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+
+#### Art. 20
+
+**Betriebsvertrag**[^20-1]
 
 <sup>1</sup> Einzelne Rechte und Pflichten, insbesondere der Fahrbetrieb, können mit einem Betriebsvertrag auf eine Drittperson übertragen werden.
 
 <sup>2</sup> Das konzessionierte Unternehmen ist gegenüber dem Bund weiterhin für die Erfüllung der Pflichten verantwortlich.
 
-<sup>3</sup> Werden Rechte und Pflichten eines von der öffentlichen Hand durch Betriebs- oder Investitionsbeiträge mitfinanzierten Verkehrsangebotes übertragen, so stellt das konzessionierte Unternehmen sicher, dass für das übertragene Angebot die Vorschriften über die Rechnungslegung nach Artikel 35 PBG eingehalten werden.[^19-1]
+<sup>3</sup> Werden Rechte und Pflichten eines von der öffentlichen Hand durch Betriebs- oder Investitionsbeiträge mitfinanzierten Angebotes[^20-2] übertragen, so stellt das konzessionierte Unternehmen sicher, dass für das übertragene Angebot die Vorschriften über die Rechnungslegung nach Artikel 35 PBG eingehalten werden.[^20-3]
 
 <sup>4</sup> Die Betriebsverträge sind dem BAV zur Kenntnisnahme zuzustellen.
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
-
-#### Art. 20
-
-**Verfahren bei der Änderung oder der Übertragung der Konzession**
-
-### (Art. 9 Abs. 1 und 2 PBG)
-
-[^20-1]
-
-Die Artikel 11–14 gelten bei der Änderung und der Übertragung von Konzessionen sinngemäss.
-
-[^20-1]: Fassung gemäss Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^20-1]: Ursprünglich: Art. 19.
+[^20-2]: Ausdruck gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^20-3]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
 
 #### Art. 21
 
@@ -319,11 +341,13 @@ Will die Inhaberin der Konzession ihre Tätigkeit aufgeben, so muss sie beim BAV
 
 #### Art. 23
 
-**Amtliche Bezeichnung**
+**Amtliche Bezeichnungen**[^23-1]
 
-Das BAV legt nach Rücksprache mit dem Unternehmen dessen amtliche Bezeichnung und Initialen fest. Diese sind für Fahrplan- und Tarifpublikationen verbindlich.
+Das BAV legt nach Rücksprache mit dem Unternehmen dessen amtliche Bezeichnung und Initialen sowie die Liniennummern und Linienbezeichnungen fest. Diese Festlegungen sind für Fahrplan- und Tarifpublikationen verbindlich.
 
-### 3. Abschnitt: Zulassung von Fahrzeugen für konzessionierte Verkehrsangebote
+[^23-1]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+### 3. Abschnitt: Zulassung von Fahrzeugen für konzessionierte Angebote
 
 #### Art. 24
 
@@ -488,7 +512,7 @@ Bewilligungen werden ausschliesslich für Linien und nicht für Gebiete erteilt.
 
 **Fahrtenblatt im Strassenverkehr**
 
-<sup>1</sup> Im Strassenverkehr ist bei grenzüberschreitenden Rundfahrten und Pendelfahrten mit Unterbringung nach Artikel 39 Buchstaben f und g ein Fahrtenblatt mit der zugehörigen Übersetzungssammlung mitzuführen. Es muss jeweils vor Antritt der Fahrt ausgefüllt werden.
+<sup>1</sup> Im Strassenverkehr ist bei grenzüberschreitenden Pendelfahrten mit Unterbringung und Rundfahrten nach Artikel 39 Buchstaben f und g ein Fahrtenblatt mit der zugehörigen Übersetzungssammlung mitzuführen. Es muss jeweils vor Antritt der Fahrt ausgefüllt werden.[^41-1]
 
 <sup>2</sup>
 
@@ -501,6 +525,8 @@ Das Fahrtenblatt muss mindestens folgende Angaben enthalten:
 
 <sup>3</sup> Es wird vom BAV oder durch eine von ihm benannte Stelle herausgegeben.
 
+[^41-1]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
 #### Art. 42
 
 **Streckenführung undHaltestellen**
@@ -511,9 +537,11 @@ Das Fahrtenblatt muss mindestens folgende Angaben enthalten:
 
 <sup>3</sup> Vorbehalten bleiben abweichende Bestimmungen in internationalen Abkommen.
 
-<sup>4</sup> Die Kantone sorgen für geeignete Haltestellen und stellen deren Anbindung an den öffentlichen Verkehr sicher.
+<sup>4</sup> Die Kantone sorgen für geeignete Haltestellen und deren Anbindung an den öffentlichen Verkehr.[^42-1]
 
 <sup>5</sup> Das BAV kann in Absprache mit den betroffenen Behörden festlegen, welche Grenzübergänge verwendet werden.
+
+[^42-1]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 43
 
@@ -530,9 +558,9 @@ Schweizerische und ausländische Verkehrsunternehmen müssen die Verkehrsleistun
 Die Bewilligung darf nur erteilt werden, wenn:
 
 - a. die Unternehmen für die Einhaltung der gesetzlichen Bestimmungen Gewähr bieten;
-- b.[^44-1] ...
-- c.[^44-2] die Funktionsfähigkeit eines vergleichbaren Verkehrsangebotes im Rahmen eines oder mehrerer öffentlichen Dienstleistungsaufträge mit gemeinwirtschaftlichen Verpflichtungen auf den betreffenden direkten Teilstrecken nicht ernsthaft beeinträchtigt wird;
-- d.[^44-3] ...
+- b.[^44-1] …
+- c.[^44-2] die Funktionsfähigkeit eines vergleichbaren Angebotes im Rahmen eines oder mehrerer öffentlichen Dienstleistungsaufträge mit gemeinwirtschaftlichen Verpflichtungen auf den betreffenden direkten Teilstrecken nicht ernsthaft beeinträchtigt wird;
+- d.[^44-3] …
 - e. die Fahrten mit Fahrzeugen durchgeführt werden, die dem Transportunternehmen unmittelbar zur Verfügung stehen;
 - f. im Verkehr eine Kooperation zwischen schweizerischen und ausländischen Unternehmen besteht; vorbehalten bleiben abweichende Bestimmungen in internationalen Abkommen;
 - g. sämtliche beteiligten Unternehmen über eine Mindestversicherung nach Artikel 3 der Verkehrsversicherungsverordnung vom 20. November 1959[^44-4] verfügen, die in sämtlichen betroffenen Staaten gilt;
@@ -665,7 +693,7 @@ Die Rechte von Menschen mit Behinderungen oder eingeschränkter Mobilität im be
 
 **Schiffe**
 
-Die Bestimmungen über die Zulassung von Fahrzeugen für konzessionierte Verkehrsangebote nach den Artikeln 24–29 gelten für die Verkehrsangebote mit Schiffen im grenzüberschreitenden Verkehr sinngemäss.
+Die Bestimmungen über die Zulassung von Fahrzeugen für konzessionierte Angebote nach den Artikeln 24–29 gelten für die Angebote mit Schiffen im grenzüberschreitenden Verkehr sinngemäss.
 
 #### Art. 55
 
@@ -726,7 +754,10 @@ Im konzessionierten Verkehr müssen die Unternehmen während der Fahrt folgende 
 - d. wichtigste Anschlussverbindungen;
 - e. Sicherheitshinweise.
 
+<sup>3</sup> Die Unternehmen müssen gemeinsam einen Branchenstandard zur Informationspflicht erarbeiten und diesen dem BAV zur Genehmigung unterbreiten.[^55b-2]
+
 [^55b-1]: Eingefügt durch Ziff. I 8 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^55b-2]: Eingefügt durch Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 55c
 
@@ -767,16 +798,28 @@ Die Unternehmen veröffentlichen jährlich zusammen mit ihrem Geschäftsbericht 
 
 <sup>2</sup> Im gestützt auf Artikel 28 Absatz 1 PBG bestellten regionalen Personenverkehr sowie im Fernverkehr müssen die Unternehmen direkten Verkehr anbieten.
 
-<sup>3</sup>
-
-Im übrigen konzessionierten Verkehr müssen die Unternehmen direkten Verkehr anbieten, wenn:
-
-- a. die technischen Bedingungen es erlauben;
-- b. der Nutzen für die Reisenden gegenüber dem wirtschaftlichen Aufwand der Unternehmen überwiegt.
+<sup>3</sup> Im übrigen konzessionierten Verkehr müssen die Unternehmen direkten Verkehr anbieten, wenn der Nutzen für die Reisenden gegenüber dem wirtschaftlichen Aufwand der Unternehmen überwiegt.[^56-2]
 
 <sup>4</sup> In der Konzession wird festgelegt, für welche Linien des Fernverkehrs, des Regionalverkehrs und des Ortsverkehrs kein direkter Verkehr angeboten werden muss.
 
 [^56-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1695](https://fedlex.data.admin.ch/eli/oc/2013/389)).
+[^56-2]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+#### Art. 56a
+
+**Gemeinsame Vertriebsinfrastruktur**[^56a-1]
+
+### (Art. 17*a* PBG)
+
+<sup>1</sup> Die Unternehmen nach Artikel 17*a* Absatz 1 PBG betreiben gemeinsam die für die Erbringung von Reservations-, Verkaufs-, Abrechnungs- und Einnahmeverteilungsleistungen sowie für Kontrollfunktionen erforderlichen Systeme (Vertriebsinfrastruktur) und entwickeln diese bedürfnisgerecht weiter.
+
+<sup>2</sup> Unternehmen, die den direkten Verkehr nach Artikel 16 PBG anbieten, müssen sich der Vertriebsinfrastruktur anschliessen. Weiteren Unternehmen ist der Anschluss zu diskriminierungsfreien Bedingungen zu gewähren.
+
+<sup>3</sup> Die Vertriebsinfrastruktur umfasst mindestens das Fahrausweissortiment des direkten Verkehrs nach Artikel 16 Absatz 1 PBG.
+
+<sup>4</sup> Zu den für den Vertrieb erforderlichen Sach- und Personendaten gehören insbesondere Fahrausweissortimente, Tarife, Kundendaten, beanspruchte Leistungen der Kundinnen und Kunden sowie Kontrolldaten.
+
+[^56a-1]: Eingefügt durch Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 57
 
@@ -814,17 +857,40 @@ Im grenzüberschreitenden Linienbusverkehr mit eidgenössischer Bewilligung muss
 
 **Informationssysteme über Reisende ohne gültigen Fahrausweis: Datenbearbeitung, Zugang und Datensicherheit**[^58a-1]
 
-### (Art. 20*a* PBG)
+### (Art. 20, 20*a* PBG)
 
-<sup>1</sup> In Informationssystemen über Reisende ohne gültigen Fahrausweis können zur Identifizierung dieser Reisenden deren Name, Vorname, Geburtsdatum, Heimat- oder Geburtsort, Adresse sowie die zur Identifizierung notwendigen Daten aus den vorgelegten Dokumenten bearbeitet werden.
+<sup>1</sup>
 
-<sup>2</sup> Die Daten dürfen nur von den Personen eingesehen und bearbeitet werden, die sie für die Erhebung eines Zuschlags oder zur Identifizierung von Reisenden benötigen.
+Unternehmen dürfen soweit erforderlich in Informationssystemen folgende Personendaten über Reisende ohne gültigen Fahrausweis zur Sicherung des Zuschlags nach Artikel 20 PBG, zum Inkasso und zur Missbrauchsbekämpfung bearbeiten:
 
-<sup>3</sup> Wer über Mutationen informiert wird, muss seine Daten unverzüglich berichtigen.
+- a. Name;
+- b. Vorname;
+- c. Geburtsdatum;
+- d. Heimat- oder Geburtsort;
+- e. Sprache und Nationalität;
+- f. Ausweisart und Ausweisnummer;
+- g. Telefonnummer;
+- h. die Daten nach den Buchstaben a–g aus Fotografien der von den Reisenden vorgelegten Dokumente;
+- i. Wohnadresse;
+- j. E-Mail-Adresse;
+- k. Daten über die Bonität von Reisenden, welche die Zuschlagsforderung nicht binnen 30 Tagen beglichen haben, wie Mahnstufe, Stand der Betreibung, Vorhandensein von Verlustscheinen;
+- l. Zahlungsmittel;
+- m. Fahrausweis-Kontrollprotokolle mit Ort und Zeitpunkt der Kontrolle;
+- n. Dokumente, die zum Nachweis einer Straftat dienen.
 
-<sup>4</sup> Werden Daten im Abrufverfahren zugänglich gemacht, so müssen der Betreiber des Informationssystems und das abrufende Unternehmen sicherstellen, dass nur Personen Daten abrufen können, die diese für die Erhebung des Zuschlags oder zur Identifizierung von Reisenden benötigen.
+<sup>2</sup> Zur Missbrauchsbekämpfung dürfen Daten über den Reiseweg längstens 30 Tage bearbeitet werden, soweit dies erforderlich ist, um eine unzulässige Mehrfachnutzung entdecken zu können.
 
-[^58a-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)).
+<sup>3</sup> Sind Reisende minderjährig oder nicht handlungsfähig, dürfen die Daten nach Absatz 1 der gesetzlichen Vertreterin oder des gesetzlichen Vertreters bearbeitet werden.
+
+<sup>4</sup> Zu den Daten nach Artikel 20*a* Absatz 2 Buchstabe e PBG gehören auch rechtskräftige Urteile über strafrechtliche Verfolgungen oder Sanktionen betreffend das Reisen ohne gültigen Fahrausweis, soweit diese für die Durchsetzung von Ansprüchen erforderlich sind.
+
+<sup>5</sup> Die Daten nach Absatz 1 dürfen nur von Personen eingesehen und bearbeitet werden, die sie für die Erhebung eines Zuschlags oder zur Identifizierung von Reisenden benötigen.
+
+<sup>6</sup> Wer über Mutationen von Daten informiert wird, muss diese unverzüglich berichtigen.
+
+<sup>7</sup> Werden Daten im Abrufverfahren zugänglich gemacht, so müssen der Betreiber des Informationssystems und das abrufende Unternehmen sicherstellen, dass nur Personen Daten abrufen können, die diese für die Erhebung des Zuschlags oder zur Identifizierung von Reisenden benötigen.
+
+[^58a-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015 ([AS 2015 3217](https://fedlex.data.admin.ch/eli/oc/2015/599)). Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 58b
 
@@ -987,6 +1053,17 @@ Der Vorschuss im Todesfall beträgt mindestens 40 000 Franken je reisende Person
 ### (Art. 23 Abs. 1 PBG)
 
 Die Tarife regeln, welche Gegenstände als Handgepäck mitgenommen werden dürfen.
+
+#### Art. 62a
+
+**Mitnahme von Fahrrädern im internationalen Eisenbahnverkehr**[^62a-1]
+
+### (Art. 23*a* PBG)
+
+Die Bestimmungen über die Mitnahme von Fahrrädern im grenzüberschreitenden Eisenbahn-Personenfernverkehr richten sich nach Artikel 6 der Verordnung (EU) 2021/782[^62a-2].
+
+[^62a-1]: Eingefügt durch Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^62a-2]: [Verordnung (EU) 2021/782 des Europäischen Parlaments und des Rates vom 29. April 2021 über die Rechte und Pflichten der Fahrgäste im Eisenbahnverkehr (Neufassung), ABl. L 172 vom 17.5.2021, S. 1.](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX%3A32021R0782)
 
 #### Art. 63
 
@@ -1235,7 +1312,7 @@ Die Unternehmen lassen Kontrollen zur Feststellung der ordnungsgemässen Durchf�
 
 <sup>5</sup> Im Übrigen gilt die Unfalluntersuchungsverordnung vom 28. Juni 2000[^78-1].
 
-[^78-1]: [[AS 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 68, [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)Art. 2 Bst. b [4575](https://fedlex.data.admin.ch/eli/oc/2011/649). [AS 2015 215](https://fedlex.data.admin.ch/eli/oc/2015/26)Art. 59 Ziff. 2]. Siehe heute: V vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen ([SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)).
+[^78-1]: [[AS 2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 68; [2011 4573](https://fedlex.data.admin.ch/eli/oc/2011/648)Art. 2 Bst. b, [4575](https://fedlex.data.admin.ch/eli/oc/2011/649). [AS 2015 215](https://fedlex.data.admin.ch/eli/oc/2015/26)Art. 59 Ziff. 2]. Siehe heute: V vom 17. Dezember 2014 über die Sicherheitsuntersuchung von Zwischenfällen im Verkehrswesen ([SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)).
 
 #### Art. 78a
 
@@ -1262,9 +1339,45 @@ Zum Zweck der Verkehrsplanung kann das BAV von den Unternehmen folgende Daten zu
 - c. Abfahrts- und Zielorte der Reisenden;
 - d. Anzahl Fahrten;
 - e. Art der Fahrzeuge;
-- f. räumliche Verteilung der Abonnemente.
+- f.[^79-1] räumliche Verteilung der Fahrausweise.
 
 <sup>2</sup> Die Daten dürfen auch von anderen Ämtern des Bundes und von den Kantonen für eigene Studien und Statistiken verwendet werden.
+
+[^79-1]: Fassung gemäss Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+
+#### Art. 79a
+
+**Datenbearbeitung durch Unternehmen**[^79a-1]
+
+### (Art. 54 PBG)
+
+<sup>1</sup>
+
+Unternehmen dürfen neben den Daten nach Artikel 54 Absatz 2 PBG folgende Personendaten von Reisenden mit einem persönlichen Fahrausweis zur Sicherung der Einnahme des Fahrpreises nach Artikel 54 PBG bearbeiten:
+
+- a. Name;
+- b. Vornamen;
+- c. Geburtsdatum;
+- d. Foto;
+- e. aus der Wohnsitzbestätigung oder dem Zivilstandsdokument: Wohnadresse;
+- f. Kinds- oder Pflegekindsverhältnis;
+- g. Telefonnummer, sofern diese den Unternehmen von den Reisenden freiwillig bekanntgegeben wurde;
+- h. E-Mail-Adresse, sofern diese den Unternehmen von den Reisenden freiwillig bekanntgegeben wurde;
+- i. Daten über die Bonität, sofern eine Einwilligung der Reisenden vorliegt;
+- j. Zahlungsmittel.
+
+<sup>2</sup> Sind Reisende minderjährig oder nicht handlungsfähig, dürfen die Daten nach Absatz 1 der gesetzlichen Vertreterin oder des gesetzlichen Vertreters bearbeitet werden.
+
+<sup>3</sup>
+
+Die Unternehmen müssen die Bearbeitung von Personendaten protokollieren:
+
+- a. im Bereich, in dem ihnen Verfügungsbefugnisse zukommen;
+- b. im Zusammenhang mit der Zuschlagserhebung nach den Artikeln 20 und 20*a* PBG;
+- c. im Anwendungsbereich der Richtlinie (EU) 2016/680[^79a-2].
+
+[^79a-1]: Eingefügt durch Anhang 4 Ziff. II 5 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^79a-2]: Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, Fassung gemäss ABl. L 119 vom 4.5.2016, S. 89.
 
 #### Art. 80
 
@@ -1310,14 +1423,14 @@ Folgende Verordnungen werden aufgehoben:
 - 1\. Verordnung vom 25. November 1998[^82-1] über die Personenbeförderungskonzession;
 - 2\. Verordnung vom 5. November 1986[^82-2] über den Transport im öffentlichen Verkehr.
 
-[^82-1]: [[AS 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106), [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)Anhang Ziff. II 5, [2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)Anhang Ziff. II 5, [2008 3547](https://fedlex.data.admin.ch/eli/oc/2008/456)]
-[^82-2]: [[AS 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848)[2714](https://fedlex.data.admin.ch/eli/oc/1994/2714_2714_2714), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324)]
+[^82-1]: [[AS 1999 721](https://fedlex.data.admin.ch/eli/oc/1999/106); [2000 2103](https://fedlex.data.admin.ch/eli/oc/2000/320)Anhang Ziff. II 5; [2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)Anhang Ziff. II 5; [2008 3547](https://fedlex.data.admin.ch/eli/oc/2008/456)]
+[^82-2]: [[AS 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991); [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [2714](https://fedlex.data.admin.ch/eli/oc/1994/2714_2714_2714); [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035); [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105); [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324)]
 
 #### Art. 83
 
 **Änderung bisherigen Rechts**
 
-...[^83-1]
+…[^83-1]
 
 [^83-1]: Die Änderung kann unter [AS 2009 6027](https://fedlex.data.admin.ch/eli/oc/2009/739)konsultiert werden.
 
