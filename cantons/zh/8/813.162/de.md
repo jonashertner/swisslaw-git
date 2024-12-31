@@ -4,17 +4,16 @@ number: "813.162"
 title: Personalreglement des Kantonsspitals Winterthur (PR-KSW)
 short: PR-KSW
 language: de
-version: "2023-08-01"
-nachtrag: "122"
-valid_until: 2025-01-01
+version: "2025-01-01"
+nachtrag: "127"
 adopted: 2010-06-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_162-2010_06_14-2010_09_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_162-2010_06_14-2010_09_01-127.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Personalreglement des Kantonsspitals Winterthur (PR-KSW)
+# Personalreglement des Kantonsspitals Winterthur (PR-KSW)
 
 (vom 14. Juni 2010)<sup>1</sup>
 
@@ -28,7 +27,7 @@ beschliesst:
 
 #### § 1
 
-**Gegenstand und Geltungsbereich**
+**Gegenstand und Geltungs- bereich**
 
 <sup>1</sup> Diesem Reglement untersteht das Personal, das in einem öffentlich-rechtlichen Arbeitsverhältnis zum Kantonsspital Winterthur steht.
 
@@ -56,7 +55,9 @@ beschliesst:
 
 **1**
 
-1.10. 23 - 122 e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
+- 1\. 1. 25 - 127
+
+- e. die Schaffung von neuen Stellen, für die das Personalrecht des Kantons Zürich keine Richtposition vorsieht, sowie von neuen Stellen ab Lohnklasse 27,
 
 - f. die Anerkennung von Personalverbänden als Verhandlungspartner von Gesamtarbeitsverträgen für Personal des Kantonsspitals Winterthur,
 
@@ -114,7 +115,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>2</sup> Befristete Arbeitsverhältnisse sind zulässig:
 
-- a. im Rahmen von § 13 Abs. 2 PG, b.<sup>15</sup> für Stellen, die der Aus-, Fort- und Weiterbildung sowie der Forschung dienen, insbesondere Assistenzarzt- und Oberarztstellen,
+- a. im Rahmen von § 13 Abs. 2 PG<sup>4</sup>, b.<sup>15</sup> für Stellen, die der Aus-, Fort- und Weiterbildung sowie der Forschung dienen, insbesondere Assistenzarzt- und Oberarztstellen,
 
 - c. bei Anstellungen, bei denen der Lohn durch Drittmittel finanziert wird,
 
@@ -130,13 +131,13 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 **3**
 
-1.10. 23 - 122
+- 1\. 1. 25 - 127
 
 <sup>7</sup> Ist eine Mitarbeiterin am Ende eines befristeten Anstellungsverhältnisses schwanger oder im Mutterschaftsurlaub, verlängert sich das Anstellungsverhältnis bis zum Ende des Mutterschaftsurlaubs.
 
-**Sachlich zureichende Kündigungsgründe a. allgemein**
+**Sachlich  zureichende Kündigungsgründe a. allgemein**
 
-§ 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG sind insbesondere:
+§ 7.<sup>12</sup> <sup>1</sup> Sachlich zureichende Gründe für die Auflösung des Arbeitsverhältnisses gemäss § 18 Abs. 2 PG<sup>4</sup> sind insbesondere:
 
 - a. die Auflösung der Vereinbarung über eine Drittmittelfinanzierung und der Abbruch des finanzierten Projekts,
 
@@ -144,7 +145,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>2</sup> Die ordentlichen Kündigungsfristen sind einzuhalten.
 
-**b. ärztliches Kader**
+**b. ärztliches  Kader**
 
 § 7 a.<sup>11</sup> <sup>1</sup> Für das ärztliche Kader sind erhebliche Mängel insbesondere in den folgenden Bereichen sachlich zureichende Gründe für die Auflösung des Anstellungsverhältnisses:
 
@@ -156,7 +157,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>2</sup> Bei erheblichen Mängeln wird in der Regel keine Bewährungsfrist gewährt.
 
-**Anstellung nach der ordentlichen Pensionierung**
+**Anstellung nach der ordentlichen Pensionierung**
 
 § 8.<sup>12</sup> <sup>1</sup> In besonderen Fällen, insbesondere bei Personalgruppen mit Fachkräftemangel, ist eine befristete Verlängerung des Anstellungsverhältnisses oder eine befristete Wiederanstellung nach Vollendung des 65. Altersjahres sowie eine Verlängerung dieser Befristung bis zum 70. Altersjahr über ein Jahr hinaus möglich.
 
@@ -182,7 +183,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>3</sup> Die Lohnentwicklung orientiert sich am Arbeitsmarkt im Gesundheitswesen und berücksichtigt die finanzielle Situation des Kantonsspitals Winterthur.<sup>11</sup>
 
-**c. variabler Vergütungsbestandteil**
+**c. variabler  Vergütungsbestandteil**
 
 § 10.<sup>12</sup> <sup>1</sup> Die Vergütung der Mitglieder der Spitaldirektion und des mit öffentlich-rechtlichem Vertrag angestellten Personals kann einen variablen Bestandteil enthalten.
 
@@ -192,7 +193,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>4</sup> Der variable Vergütungsbestandteil wird jährlich in Abhängigkeit der Erreichung der Jahresziele festgelegt.
 
-**d. ärztliches Kader**
+**d. ärztliches  Kader**
 
 § 11.<sup>12</sup> <sup>1</sup> Die Vergütung des ärztlichen Kaders besteht aus einem Grundlohn und kann ergänzend eine Markt- und Funktionszulage sowie einen variablen Bestandteil enthalten. Sie wird nicht nach dem Lohnsystem des Kantons Zürich festgelegt.
 
@@ -200,19 +201,23 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 <sup>3</sup> Die Gesamtvergütung eines Mitglieds des ärztlichen Kaders beträgt höchstens 1 Mio. Franken pro Jahr. Sie umfasst insbesondere allfällige Entschädigungen Dritter und Einnahmen, die mit Gutachten, Zeugnissen und Berichten für Patientinnen und Patienten oder Dritte erzielt werden.
 
-<sup>4</sup> Der Grundlohn wird in der Regel bei der BVK Personalvorsorge des Kantons Zürich versichert. Die übrigen Vergütungsbestandteile können bei anderen Vorsorgeeinrichtungen versichert werden. Die Versicherung der Vergütung der Oberärztinnen und Oberärzte richtet sich nach § 14 Abs. 2 KSWG.
+<sup>4</sup> Der Grundlohn wird in der Regel bei der BVK Personalvorsorge des Kantons Zürich versichert. Die übrigen Vergütungsbestandteile können bei anderen Vorsorgeeinrichtungen versichert werden. Die Versicherung der Vergütung der Oberärztinnen und Oberärzte richtet sich nach § 14 Abs. 2 KSWG<sup>6</sup>.
 
 <sup>5</sup> Der Spitalrat erlässt ein Vergütungsreglement.
 
 **5**
 
-1.10. 23 - 122 § 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
+- 1\. 1. 25 - 127 § 12.<sup>12</sup> <sup>1</sup> Der Spitalrat regelt die Entschädigung für Nacht- und Wochenendarbeit gemäss § 132 der Vollzugsverordnung zum Personalgesetz vom 19. Mai 1999 (VVO)<sup>5</sup> sowie für Pikett- und Präsenzdienst gemäss § 133 VVO.
 
-**Nacht- und Wochenendarbeit, Pikett- und Präsenzdienst**
+**Nacht- und  Wochenendarbeit, Pikett- und Präsenzdienst**
 
 <sup>2</sup> Die Entschädigung entspricht mindestens dem kantonalen Ansatz.
 
-§ 13.<sup>13</sup>
+**Sollarbeitszeit**
+
+§ 13.<sup>13,</sup> <sup>17</sup> <sup>1</sup> Die Wochenarbeitszeit der Assistenzärztinnen und -ärzte sowie der stellvertretenden Oberärztinnen und -ärzte ohne Facharzttitel beträgt 46 Stunden.
+
+<sup>2</sup> Davon können durchschnittlich mindestens vier Stunden für Weiterbildung genutzt werden.
 
 **Versicherungen**
 
@@ -264,7 +269,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 § 19.<sup>12</sup> Vor der Übernahme einer Nebenbeschäftigung informiert die oder der Angestellte die Spitaldirektion. Diese entscheidet in Absprache mit der vorgesetzten Stelle der oder des Angestellten, ob eine Bewilligung eingeholt werden muss. Sie kann auch nachträglich und von sich aus das Einholen einer Bewilligung verlangen.
 
-**Öffentliche Ämter**
+**Öffentliche  Ämter**
 
 § 19 a.<sup>11</sup> Die Ausübung öffentlicher Ämter richtet sich nach dem Personalgesetz.
 
@@ -274,7 +279,7 @@ a.<sup>14</sup> des Umfangs von zusätzlichen Mitteln für die Lohnentwicklung g
 
 **7**
 
-1.10. 23 - 122
+- 1\. 1. 25 - 127
 
 ### E. Erfindungen und urheberrechtlich geschützte Werke
 
@@ -300,7 +305,7 @@ Das Kantonsspital Winterthur unterstützt die Entwicklung und Verwertung von Erf
 
 <sup>2</sup> Die Spitaldirektion kann den Angestellten die Verwertung überlassen. Angestellte, denen die Verwertung eines urheberrechtlich geschützten Werkes von erheblicher wirtschaftlicher oder technischer Bedeutung nicht überlassen wird, haben Anspruch auf eine angemessene Vergütung. Das Obligationenrecht[^22-1] gilt sinngemäss.
 
-**Weitere Arbeitsergebnisse**
+**Weitere  Arbeitsergebnisse**
 
 § 22 a.[^22-2] <sup>1</sup> Vorbehältlich §§ 21 und 22 stehen sämtliche in Ausübung der dienstlichen Tätigkeit geschaffenen Ergebnisse, insbesondere Protokolle, Skizzen, Laborbücher und Produkte, im Eigentum des Kantonsspitals Winterthur.
 
@@ -326,13 +331,29 @@ Die Spitaldirektion passt Bewilligungen, Auflagen und andere im Zeitpunkt des In
 
 Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Genehmigung durch den Regierungsrat[^23-1] in Kraft[^23-2].
 
-[^24-1]: Eingefügt durch B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
+### Übergangsbestimmungen zur Änderung vom 31. Oktober 2024
+
+(OS 79, 468)
+
+<sup>1</sup> Die Wochenarbeitszeit gemäss § 13 wird schrittweise wie folgt eingeführt:
+
+- a. vom 1. Januar bis 31. Dezember 2025: 49 Stunden pro Woche,
+
+- b. vom 1. Januar bis 31. Dezember 2026: 48 Stunden pro Woche,
+
+- c. vom 1. Januar bis 31. Dezember 2027: 47 Stunden pro Woche.
+
+<sup>2</sup> Die Spitaldirektion kann den Kliniken eine frühere Verkürzung der Wochenarbeitszeit erlauben.
+
+<sup>3</sup> Die Assistenzärztinnen und -ärzte sowie die stellvertretenden Oberärztinnen und -ärzte ohne Facharzttitel unterstützen das Kantonsspital Winterthur während der Einführung bei der Feststellung und Umsetzung von Projekten zur Effizienzsteigerung.
+
+[^hÜbergangsbestimmunge-1]: Eingefügt durch B vom 20. Dezember 2012 (OS 68, 227; ABl 2013-03-08). In Kraft seit 1. September 2010.
 
 ### Anhang
 
-[^24-1]
+[^hÜbergangsbestimmunge-1]
 
-### Ergänzungen und Abweichungen zu kantonalen Bestimmungen
+### Ergänzungen und Abweichungen zu kantonalen Bestimmungen 
 
 über Nacht-, Sonntags-, Schicht- und Pikettdienst (§ 12)
 
@@ -342,13 +363,13 @@ Dieses Personalreglement tritt am ersten Tag des zweiten Monats nach seiner Gene
 
 Dienstart a. Verlängerung Tagesarbeitszeit (20.00–06.00 Uhr)
 
-**Fr. 5.75/Std. (4 Ferienwochen/Jahr) Fr. 5.85/Std. (5 Ferienwochen/Jahr) Fr. 6.00/Std. (6 Ferienwochen/Jahr) Zusätzliche Entschädigung als Arbeitszeit gemäss Arbeitsgesetz**
+**Fr. 5.75/Std. (4 Ferienwochen/Jahr) Fr. 5.85/Std. (5 Ferienwochen/Jahr) Fr. 6.00/Std. (6 Ferienwochen/Jahr) Zusätzliche Entschädigung als Arbeitszeit gemäss Arbeitsgesetz**
 
 - b. Nachtdienst Finanzielle (23.00–06.00 Uhr) Entschädigung Fr. 120.00
 
 **10%, max. 0,80 Std.**
 
-**Zusätzliche Anrechnung von Wegzeit als Arbeitszeit bei einer vorgegebenen Interventionszeit von höchstens 30 Minuten**
+**Zusätzliche Anrechnung von Wegzeit als Arbeitszeit bei einer vorgegebenen Interventionszeit von höchstens 30 Minuten**
 
 - c. Pikett- oder Hintergrunddienst mit Pikettdienst
 
@@ -356,35 +377,33 @@ Dienstart a. Verlängerung Tagesarbeitszeit (20.00–06.00 Uhr)
 
 - 2\. Übrige Angestellte
 
-**Finanzielle Zusätzliche Anrechnung als Arbeitszeit**
+**Zusätzliche Anrechnung als Arbeitszeit bei einer vorgegebenen Interventionszeit von höchstens 30 Minuten Pikettdienstzeit Wegzeit 10% der Pikettdienstzeit 30 Min. 20% der Pikettdienstzeit\* 30 Min. 10% der Pikettdienstzeit 30 Min. **
 
-**bei einer vorgegebenen Interventionszeit**
-
-Pikett-/Hintergrunddienst Entschädigung
-
-**von höchstens 30 Minuten Pikettdienstzeit Wegzeit 10% der Pikettdienstzeit 30 Min. 20% der Pikettdienstzeit\* 30 Min.**
+Pikett-/Hintergrunddienst Finanzielle Entschädigung
 
 - a. Pikettdienst im Allgemeinen Fr. 1.60/Std.
 
 - b. Pikettdienst Pflegebereich ungeplant
 
-**Fr. 50.00 10% der Pikettdienstzeit 30 Min.**
+- c. Pikettdienst Nacht Hebammen Fr. 50.00
 
-- c. Pikettdienst Nacht Hebammen
+**2 Std.**
 
-**Fr. 100.00 2 Std.**
+- d. Pikettdienst Nacht Interdisziplinäre Fachbereiche OPS/Anästhesie Fr. 100.00
 
-- d. Pikettdienst Nacht Interdisziplinäre Fachbereiche OPS/Anästhesie
-
-**10% der Pikettdienstzeit 30 Min.**
+** 10% der Pikettdienstzeit 30 Min. **
 
 - e. Pikettdienst für Transporte der Neonatologie in andere Spitäler Fr. 50.00/Einsatz
 
-- f. Pikettdienst Medizinaltechnik und Elektrowerkstatt Sa./So./Feiertage, 07.00–17.00 Uhr Fr. 50.00/Einsatz
+- f. Pikettdienst Medizinaltechnik und Elektrowerkstatt Sa./So./Feiertage, 07.00–17.00 Uhr Fr. 50.00/Einsatz
 
-- g. Pikettdienst Informatik Mo.–Fr. 17.00–07.00 Uhr Fr. 50.00/Einsatz Sa./So. 24 Std. Fr. 50.00/Einsatz
+****
 
-- h. Pikettdienst Kardiologie Mo.–Fr. 17.00–08.00 Uhr Fr. 50.00/Einsatz Sa./So. Feiertage 24 Std. Fr. 75.00/Einsatz
+- g. Pikettdienst Informatik Mo.–Fr. 17.00–07.00 Uhr Fr. 50.00/Einsatz Sa./So. 24 Std. Fr. 50.00/Einsatz
+
+****
+
+- h. Pikettdienst Kardiologie Mo.–Fr. 17.00–08.00 Uhr Fr. 50.00/Einsatz Sa./So. Feiertage 24 Std. Fr. 75.00/Einsatz
 
 ## Weitere Fussnoten
 
@@ -398,5 +417,6 @@ Pikett-/Hintergrunddienst Entschädigung
 - [13] Aufgehoben durch B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2022 (ABl 2022-07-22).
 - [14] Eingefügt durch B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2023 (OS 78, 286).
 - [15] Fassung gemäss B vom 14. März 2022 (OS 77, 350; ABl 2022-04-08). In Kraft seit 1. August 2023 (OS 78, 286).
-- [16] Aufgehoben durch Urteil des Verwaltungsgerichts vom 2. März 2023 (AN. 2022.00005). 1.10. 23 - 122 9
+- [16] Aufgehoben durch Urteil des Verwaltungsgerichts vom 2. März 2023 (AN. 2022.00005).
+- [17] Eingefügt durch B vom 31. Oktober 2024 (OS 79, 468; ABl 2024-11-29). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 9
 - [*] Die zusätzliche Anrechnung der Pikettdienstzeit als Arbeitszeit erfolgt auch bei einer vorgegebenen Interventionszeit von mehr als 30 Minuten.
