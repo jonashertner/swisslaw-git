@@ -4,13 +4,12 @@ number: "640.11"
 title: Steuerverordnung
 short: StV
 language: de
-version: 2023-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-16
+version: 2025-01-01
+version_adopted: 2025-07-01
 adopted: 1992-11-10
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2583/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2927/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ StV
 
 (StV)
 
-vom 10.11.1992 (Stand 01.01.2023)
+vom 10.11.1992 (Stand 01.01.2025)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -43,42 +42,44 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Kontrollrechnung**
 
-<sup>1</sup> Bei der Steuerberechnung gemäss § 17a Abs. 6 des Gesetzes können abgezogen werden:
+<sup>1</sup> Bei der Steuerberechnung gemäss § 17a Abs. 6 des Steuergesetzes (StG) [^1b-1] können abgezogen werden:
 
 - 1\. die Kosten für den Unterhalt von Liegenschaften
 - 2\. die Kosten für die gewöhnliche Verwaltung von beweglichem Vermögen, soweit die daraus fliessenden Einkünfte besteuert werden
 
 <sup>2</sup> Andere Abzüge, insbesondere solche für Schuldzinsen, Renten und dauernde Lasten sind nicht zulässig.
 
+[^1b-1]: RB [640.1](https://www.rechtsbuch.tg.ch/data/640.1/de)
+
 #### § 1c
 
 **Ausschluss der Sozialabzüge**
 
-<sup>1</sup> Sozialabzüge gemäss § 36 und § 53 des Gesetzes sind nicht zulässig.
+<sup>1</sup> Sozialabzüge gemäss § 36 und § 53 StG sind nicht zulässig.
 
 #### § 1d
 
 **Anwendbare Tarife; Satzbestimmung**
 
-<sup>1</sup> Die jährliche Steuer nach dem Aufwand wird nach dem ordentlichen Einkommenssteuertarif gemäss § 37 beziehungsweise Vermögenssteuertarif § 54 des Gesetzes berechnet.
+<sup>1</sup> Die jährliche Steuer nach dem Aufwand wird nach dem ordentlichen Einkommenssteuertarif gemäss § 37 beziehungsweise Vermögenssteuertarif § 54 StG berechnet.
 
-<sup>2</sup> Das nicht unter § 17a Abs. 6 Ziff. 1 bis Ziff. 6 des Gesetzes fallende Einkommen und Vermögen des Steuerpflichtigen bleibt in Abweichung von § 10 Abs. 1 des Gesetzes auch für die Festsetzung des Steuersatzes ausser Betracht.
+<sup>2</sup> Das nicht unter § 17a Abs. 6 Ziff. 1 bis Ziff. 6 StG fallende Einkommen und Vermögen des Steuerpflichtigen bleibt in Abweichung von § 10 Abs. 1 StG auch für die Festsetzung des Steuersatzes ausser Betracht.
 
-<sup>3</sup> Steuergutschriften gemäss § 188a Abs. 2 des Gesetzes sind im geschuldeten Steuerbetrag eingeschlossen.
+<sup>3</sup> Steuergutschriften gemäss § 188a Abs. 2 StG sind im geschuldeten Steuerbetrag eingeschlossen.
 
 #### § 1e
 
 **Modifizierte Besteuerung**
 
-<sup>1</sup> Werden Einkünfte aus einem Vertragsstaat nur dann von dessen Steuern entlastet, wenn die Schweiz diese Einkünfte allein oder mit anderen Einkünften zum Satz des Gesamteinkommens besteuert, so muss der Steuerpflichtige neben den in § 17a Abs. 6 des Gesetzes bezeichneten Einkünften alle aufgrund des betreffenden Doppelbesteuerungsabkommens der Schweiz zugewiesenen Einkommensbestandteile aus dem Quellenstaat versteuern. Abziehbar sind nur die Kosten gemäss § 1b Abs. 1.
+<sup>1</sup> Werden Einkünfte aus einem Vertragsstaat nur dann von dessen Steuern entlastet, wenn die Schweiz diese Einkünfte allein oder mit anderen Einkünften zum Satz des Gesamteinkommens besteuert, so muss der Steuerpflichtige neben den in § 17a Abs. 6 StG bezeichneten Einkünften alle aufgrund des betreffenden Doppelbesteuerungsabkommens der Schweiz zugewiesenen Einkommensbestandteile aus dem Quellenstaat versteuern. Abziehbar sind nur die Kosten gemäss § 1b Abs. 1.
 
-<sup>2</sup> Der Steuersatz für diese Einkünfte bestimmt sich nach dem Grundsatz der Vollprogression gemäss § 10 Abs. 1 des Gesetzes.
+<sup>2</sup> Der Steuersatz für diese Einkünfte bestimmt sich nach dem Grundsatz der Vollprogression gemäss § 10 Abs. 1 StG.
 
 #### § 1f
 
 **Widerruf des Steuerstatus**
 
-<sup>1</sup> Haben unrichtige oder unvollständige Angaben gegenüber den Steuerbehörden dazu geführt, dass ein Steuerpflichtiger nach § 17a des Gesetzes besteuert worden ist, kann die entsprechende Besteuerung widerrufen und durch eine ordentliche Besteuerung ersetzt werden.
+<sup>1</sup> Haben unrichtige oder unvollständige Angaben gegenüber den Steuerbehörden dazu geführt, dass ein Steuerpflichtiger nach § 17a StG besteuert worden ist, kann die entsprechende Besteuerung widerrufen und durch eine ordentliche Besteuerung ersetzt werden.
 
 <sup>2</sup> Dabei gelten die Bestimmungen über das Nachsteuer- und Steuerstrafverfahren sinngemäss.
 
@@ -106,21 +107,21 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Überführung Geschäftsgrundstück ins Privatvermögen**
 
-<sup>1</sup> Bei Überführungen von Grundstücken des Geschäftsvermögens natürlicher Personen in das Privatvermögen nach § 20 Abs. 2 Ziff. 2 des Gesetzes gilt als massgebender Überführungswert der ortsüblich erzielbare Marktwert.
+<sup>1</sup> Bei Überführungen von Grundstücken des Geschäftsvermögens natürlicher Personen in das Privatvermögen nach § 20 Abs. 2 Ziff. 2 StG gilt als massgebender Überführungswert der ortsüblich erzielbare Marktwert.
 
-<sup>2</sup> Der Überführungswert gemäss Abs. 1 gilt neu als Anlagekosten des überführten Grundstücks gemäss § 133 des Gesetzes.
+<sup>2</sup> Der Überführungswert gemäss Abs. 1 gilt neu als Anlagekosten des überführten Grundstücks gemäss § 133 StG.
 
 #### § 4
 
 **Feuerwehrsold**
 
-<sup>1</sup> Zu den Kernaufgaben der Feuerwehr im Sinn von § 26 Ziff. 12 des Gesetzes gehören die Teilnahme an Übungen, Kursen, Inspektionen, Pikettdienste sowie Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen.
+<sup>1</sup> Zu den Kernaufgaben der Feuerwehr im Sinn von § 26 Ziff. 12 StG gehören die Teilnahme an Übungen, Kursen, Inspektionen, Pikettdienste sowie Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen.
 
 #### § 4a
 
 **Vereinfachtes Abrechnungsverfahren**
 
-<sup>1</sup> Das vereinfachte Verfahren nach § 38a des Gesetzes ist nicht anwendbar für:
+<sup>1</sup> Das vereinfachte Verfahren nach § 38a StG ist nicht anwendbar für:
 
 - 1\. Kapitalgesellschaften und Genossenschaften
 - 2\. die Mitarbeit des Ehegatten sowie der Kinder im eigenen Betrieb
@@ -129,9 +130,9 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Liquidationsgewinne**
 
-<sup>1</sup> Bei der Festsetzung der Liquidationsgewinne nach § 38b Abs. 1 des Gesetzes ist die Verordnung des Bundesrates über die Besteuerung der Liquidationsgewinne bei definitiver Aufgabe der selbständigen Erwerbstätigkeit (LGBV)[^5-1] sinngemäss anwendbar.
+<sup>1</sup> Bei der Festsetzung der Liquidationsgewinne nach § 38b Abs. 1 StG ist die Verordnung des Bundesrates über die Besteuerung der Liquidationsgewinne bei definitiver Aufgabe der selbständigen Erwerbstätigkeit (LGBV)[^5-1] sinngemäss anwendbar.
 
-<sup>2</sup> Die Abzugsfähigkeit von tatsächlich geleisteten Einkaufsbeiträgen in die berufliche Vorsorge nach § 38b Abs. 1 des Gesetzes steht unter dem Vorbehalt von Art. 79b Abs. 3 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^5-2].
+<sup>2</sup> Die Abzugsfähigkeit von tatsächlich geleisteten Einkaufsbeiträgen in die berufliche Vorsorge nach § 38b Abs. 1 StG steht unter dem Vorbehalt von Art. 79b Abs. 3 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^5-2].
 
 [^5-1]: SR [642.114](https://db.clex.ch/link/Bund/642.114/de)
 [^5-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
@@ -221,13 +222,13 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Vermögensverwaltungskosten**
 
-<sup>1</sup> Für die Verwahrung und Verwaltung von Wertschriften (ohne Darlehen, Bankguthaben aller Art und Beteiligungen nach § 22 Abs. 2 des Gesetzes) durch Dritte können für sämtliche abzugsfähigen Kosten pauschal 2 Promille des Steuerwertes der durch Dritte verwalteten Wertschriften des Privatvermögens, maximal Fr. 6'000 abgezogen werden. Der Nachweis höherer abzugsfähiger Kosten bleibt vorbehalten.
+<sup>1</sup> Für die Verwahrung und Verwaltung von Wertschriften (ohne Darlehen, Bankguthaben aller Art und Beteiligungen nach § 22 Abs. 2 StG) durch Dritte können für sämtliche abzugsfähigen Kosten pauschal 2 Promille des Steuerwertes der durch Dritte verwalteten Wertschriften des Privatvermögens, maximal Fr. 6'000 abgezogen werden. Der Nachweis höherer abzugsfähiger Kosten bleibt vorbehalten.
 
 #### § 11
 
 **Anlagekosten**
 
-<sup>1</sup> Bau- und Landkreditzinsen während der Bauphase gelten als Anlagekosten im Sinne von § 34 Abs. 1 Ziff. 3 des Gesetzes.
+<sup>1</sup> Bau- und Landkreditzinsen während der Bauphase gelten als Anlagekosten im Sinne von § 34 Abs. 1 Ziff. 3 StG.
 
 #### § 11a
 
@@ -243,7 +244,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 <sup>1</sup> Eine Behinderung liegt vor, wenn der betreffenden Person eine voraussichtlich dauernde körperliche, geistige oder psychische Beeinträchtigung erschwert oder verunmöglicht, alltägliche Verrichtungen vorzunehmen, soziale Kontakte zu pflegen, sich fortzubewegen, sich aus- oder fortzubilden oder eine Erwerbstätigkeit auszuüben.
 
-<sup>2</sup> Die durch die Behinderung bedingten Mehrkosten sind nach § 34 Abs. 1 Ziff. 12 des Gesetzes abzugsfähig.
+<sup>2</sup> Die durch die Behinderung bedingten Mehrkosten sind nach § 34 Abs. 1 Ziff. 12 StG abzugsfähig.
 
 <sup>3</sup> Für im Pflegeheim lebende Personen gelten in der Regel Fr. 2'000 pro Monat als private Lebenshaltungskosten. Die darüber hinausgehenden Beträge werden als behinderungsbedingte Kosten anerkannt.
 
@@ -253,7 +254,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Kinderbetreuungskosten**
 
-<sup>1</sup> Für die Drittbetreuung von Kindern nach § 34 Abs. 1 Ziff. 13 des Gesetzes können pro Kind in der Regel 75 Prozent der nachgewiesenen Kosten, maximal jedoch Fr. 10'100 in Abzug gebracht werden.
+<sup>1</sup> Für die Drittbetreuung von Kindern nach § 34 Abs. 1 Ziff. 13 StG können pro Kind in der Regel 75 Prozent der nachgewiesenen Kosten, maximal jedoch Fr. 10'100 in Abzug gebracht werden.
 
 <sup>2</sup> Die betreuende Person muss das 16. Altersjahr vollendet haben.
 
@@ -261,7 +262,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Unterstützungsabzug**
 
-<sup>1</sup> Erwerbsunfähig nach § 36 Abs. 2 des Gesetzes sind Personen, die zufolge Beeinträchtigung der körperlichen oder geistigen Gesundheit nicht arbeitsfähig sind.
+<sup>1</sup> Erwerbsunfähig nach § 36 Abs. 2 StG sind Personen, die zufolge Beeinträchtigung der körperlichen oder geistigen Gesundheit nicht arbeitsfähig sind.
 
 <sup>2</sup> Der Steuerpflichtige kommt zur Hauptsache für den Unterhalt auf, sofern er zu mehr als 50 Prozent des betreibungsrechtlichen Existenzminimums zum Unterhalt beiträgt.
 
@@ -269,14 +270,14 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Gemeinsame elterliche Sorge bei getrennt besteuerten Pflichtigen**
 
-<sup>1</sup> Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge und gemeinsamem Haushalt steht der Kinderabzug nach § 36 Abs. 2 Ziff. 1 des Gesetzes jenem Elternteil zu, der die grösseren finanziellen Beiträge leistet. Leisten beide Elternteile gleich hohe finanzielle Beiträge, bildet der bedeutendere Anteil an der tatsächlichen Betreuung das subsidiäre Kriterium.
+<sup>1</sup> Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge und gemeinsamem Haushalt steht der Kinderabzug nach § 36 Abs. 2 Ziff. 1 StG jenem Elternteil zu, der die grösseren finanziellen Beiträge leistet. Leisten beide Elternteile gleich hohe finanzielle Beiträge, bildet der bedeutendere Anteil an der tatsächlichen Betreuung das subsidiäre Kriterium.
 
-<sup>2</sup> Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge ohne gemeinsamem Haushalt wird der Kinderabzug nach § 36 Abs. 2 Ziff. 1 des Gesetzes wie folgt zugeteilt:
+<sup>2</sup> Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge ohne gemeinsamem Haushalt wird der Kinderabzug nach § 36 Abs. 2 Ziff. 1 StG wie folgt zugeteilt:
 
-- 1\. Befindet sich das Kind in alternierender Obhut beider Elternteile und fliessen keine Unterhaltsbeiträge nach § 34 Abs. 1 Ziff. 5 des Gesetzes, wird der Kinderabzug hälftig aufgeteilt
+- 1\. Befindet sich das Kind in alternierender Obhut beider Elternteile und fliessen keine Unterhaltsbeiträge nach § 34 Abs. 1 Ziff. 5 StG, wird der Kinderabzug hälftig aufgeteilt
 - 2\. Befindet sich das Kind nicht in alternierender Obhut, dann steht der Abzug dem mit dem Kind im gleichen Haushalt lebenden Elternteil zu
 
-<sup>3</sup> Der Vermögensfreibetrag gemäss § 53 Abs. 1 Ziff. 3 des Gesetzes steht jenem Elternteil zu, der den Kinderabzug nach § 36 Abs. 2 Ziff. 1 des Gesetzes beanspruchen kann. Bei hälftiger Teilung des Kinderabzuges wird auch der Vermögensfreibetrag entsprechend aufgeteilt.
+<sup>3</sup> Der Vermögensfreibetrag gemäss § 53 Abs. 1 Ziff. 3 StG steht jenem Elternteil zu, der den Kinderabzug nach § 36 Abs. 2 Ziff. 1 StG beanspruchen kann. Bei hälftiger Teilung des Kinderabzuges wird auch der Vermögensfreibetrag entsprechend aufgeteilt.
 
 ### 2.3. Vermögenssteuer
 
@@ -292,9 +293,9 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Vermögenssteuer bei Mitarbeiterbeteiligungen**
 
-<sup>1</sup> Mitarbeiterbeteiligungen nach § 19b Abs. 1 des Gesetzes sind zum Verkehrswert einzusetzen. Allfällige Sperrfristen sind angemessen zu berücksichtigen.
+<sup>1</sup> Mitarbeiterbeteiligungen nach § 19b Abs. 1 StG sind zum Verkehrswert einzusetzen. Allfällige Sperrfristen sind angemessen zu berücksichtigen.
 
-<sup>2</sup> Mitarbeiterbeteiligungen nach § 19b Abs. 3 und § 19c des Gesetzes sind bei Zuteilung ohne Steuerwert zu deklarieren.
+<sup>2</sup> Mitarbeiterbeteiligungen nach § 19b Abs. 3 und § 19c StG sind bei Zuteilung ohne Steuerwert zu deklarieren.
 
 #### § 13b
 
@@ -328,7 +329,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 <sup>4</sup> Die ordentlichen Gewinne eines Geschäftsjahres, das zwölf oder mehr Monate umfasst, werden für die Satzbestimmung auch bei unterjähriger Steuerpflicht nicht umgerechnet.
 
-<sup>5</sup> Bei Aufgabe der selbständigen Erwerbstätigkeit bleiben bei der Bemessung des Erwerbseinkommens die Bestimmungen nach § 38b des Gesetzes vorbehalten.
+<sup>5</sup> Bei Aufgabe der selbständigen Erwerbstätigkeit bleiben bei der Bemessung des Erwerbseinkommens die Bestimmungen nach § 38b StG vorbehalten.
 
 ## 3. Steuern der juristischen Personen
 
@@ -377,7 +378,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 - 1\. Falsche Ermittlung des der Quellensteuer unterliegenden Bruttolohns
 - 2\. falsche Ermittlung des satzbestimmenden Einkommens
 - 3\. falsche Tarifanwendung sowie
-- 4\. Nichtgewährung von Steuergutschriften im Sinn von § 188a Abs. 2 und Abs. 3 des Gesetzes
+- 4\. Nichtgewährung von Steuergutschriften im Sinn von § 188a Abs. 2 und Abs. 3 StG
 
 <sup>3</sup> Die Bestimmungen der Verordnung des Eidgenössischen Finanzdepartements über die Quellensteuer bei der direkten Bundessteuer (Quellensteuerverordnung, QStV)[^22-1] gelten sinngemäss auch für die Belange der Staats- und Gemeindesteuern.
 
@@ -447,7 +448,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 <sup>1–2</sup> …
 
-<sup>3</sup> Die AHV-Ausgleichskassen erhalten für den Bezug der nach § 38a des Gesetzes einkassierten Quellensteuern eine Provision von 10 Prozent.
+<sup>3</sup> Die AHV-Ausgleichskassen erhalten für den Bezug der nach § 38a StG einkassierten Quellensteuern eine Provision von 10 Prozent.
 
 <sup>4</sup> Die Abrechnung kann vom Schuldner der steuerbaren Leistung mittels elektronischem Lohnmeldeverfahren oder online mit eQuest übermittelt werden.
 
@@ -478,7 +479,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Wertvermehrende Aufwendungen**
 
-<sup>1</sup> Nicht als wertvermehrende Aufwendungen gelten namentlich Unterhaltskosten sowie Investitionen, die den Unterhaltskosten gleichgestellt sind, Betriebsverluste, Zinsausfall auf dem Eigenkapital, Mietzinsausfälle, Kosten nicht ausgeführter Projekte und nicht als Einkommen versteuerte eigene Arbeit.
+<sup>1</sup> Nicht als wertvermehrende Aufwendungen gelten insbesondere Unterhaltskosten sowie Investitionen, die den Unterhaltskosten gleichgestellt sind, Betriebsverluste, Zinsausfall auf dem Eigenkapital, Mietzinsausfälle, Kosten nicht ausgeführter Projekte und nicht als Einkommen versteuerte eigene Arbeit.
 
 #### § 29a
 
@@ -500,7 +501,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Überführung Grundstück ins Geschäftsvermögen**
 
-<sup>1</sup> Bei Überführungen von Grundstücken des Privatvermögens in das Geschäftsvermögen nach § 127 Abs. 2 Ziff. 3 des Gesetzes gilt als massgebender Überführungswert der ortsüblich erzielbare Marktwert.
+<sup>1</sup> Bei Überführungen von Grundstücken des Privatvermögens in das Geschäftsvermögen nach § 127 Abs. 2 Ziff. 3 StG gilt als massgebender Überführungswert der ortsüblich erzielbare Marktwert.
 
 <sup>2</sup> Der Überführungswert gemäss Abs. 1 gilt neu als Einkommenssteuerwert des überführten Grundstücks.
 
@@ -508,9 +509,9 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Umstrukturierung land- oder forstwirtschaftliche Betriebe**
 
-<sup>1</sup> Wird ein land- oder forstwirtschaftlicher Betrieb, nach Massgabe des Bundesrechts, im Zusammenhang mit einer Umstrukturierung (insbesondere Fusion, Spaltung oder Umwandlung) auf eine andere Personenunternehmung (Einzelfirma, Personengesellschaft) oder auf eine juristische Person übertragen und sind die Voraussetzungen von § 21 Abs. 1 des Gesetzes erfüllt, werden bei der Übertragung von Grundstücken keine Grundstückgewinn- und Handänderungssteuern erhoben.
+<sup>1</sup> Wird ein land- oder forstwirtschaftlicher Betrieb, nach Massgabe des Bundesrechts, im Zusammenhang mit einer Umstrukturierung (insbesondere Fusion, Spaltung oder Umwandlung) auf eine andere Personenunternehmung (Einzelfirma, Personengesellschaft) oder auf eine juristische Person übertragen und sind die Voraussetzungen von § 21 Abs. 1 StG erfüllt, werden bei der Übertragung von Grundstücken keine Grundstückgewinn- und Handänderungssteuern erhoben.
 
-<sup>2</sup> Werden während den der Umstrukturierung nachfolgenden fünf Jahren Beteiligungsrechte zu einem über dem übertragenen steuerlichen Eigenkapital liegenden Preis veräussert, werden die übertragenen stillen Reserven auf den Grundstücken mit der Grundstückgewinn- und Handänderungssteuer nach § 204 bis § 206 des Gesetzes nachbesteuert. Die Steuerbilanz der juristischen Person wird entsprechend angepasst.
+<sup>2</sup> Werden während den der Umstrukturierung nachfolgenden fünf Jahren Beteiligungsrechte zu einem über dem übertragenen steuerlichen Eigenkapital liegenden Preis veräussert, werden die übertragenen stillen Reserven auf den Grundstücken mit der Grundstückgewinn- und Handänderungssteuer nach § 204 bis § 206 StG nachbesteuert. Die Steuerbilanz der juristischen Person wird entsprechend angepasst.
 
 ## 6. Steuerbehörden
 
@@ -558,7 +559,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Öffnung der Steuerakten**
 
-<sup>1</sup> Ein wichtiger Grund gemäss § 147 Abs. 1 des Steuergesetzes liegt vor, wenn ein überwiegendes öffentliches Interesse an der Auskunft über die Steuerdaten besteht.
+<sup>1</sup> Ein wichtiger Grund gemäss § 147 Abs. 1 StG liegt vor, wenn ein überwiegendes öffentliches Interesse an der Auskunft über die Steuerdaten besteht.
 
 <sup>2</sup> Ein überwiegendes öffentliches Interesse liegt vor, wenn die Auskunft über die Steuerdaten für die Erfüllung der öffentlichen Aufgabe notwendig ist, nicht auf andere Weise beschafft werden kann und keinen unverhältnismässigen Eingriff in die Rechte des Steuerpflichtigen darstellt.
 
@@ -626,9 +627,9 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 <sup>4</sup> Reicht eine steuerpflichtige Person die Steuererklärung nicht fristgerecht ein oder läuft eine erstreckte Frist unbenutzt ab, erfolgt eine Mahnung mit neuer Fristansetzung. Ab der zweiten Mahnung wird jeweils eine Mahngebühr von Fr. 50 erhoben.
 
-<sup>5</sup> Die Kanzleigebühren werden mit der Steuerrechnung eröffnet und bezogen. Bei juristischen Personen erfolgen Eröffnung und Bezug zusammen mit der Rechnung für die Staats- und Gemeindesteuern. Deren Anfechtung richtet sich nach § 191a des Gesetzes.
+<sup>5</sup> Die Kanzleigebühren werden mit einer als Entscheid ausgestalteten Rechnung erhoben. Dessen Anfechtung richtet sich nach § 191a Abs. 1 StG.
 
-<sup>6</sup> Rechtskräftige Gebührenrechnungen gelten als definitive Rechtsöffnungstitel im Sinne von § 192 Abs. 4 des Gesetzes.
+<sup>6</sup> Rechtskräftige Gebührenrechnungen gelten als definitive Rechtsöffnungstitel im Sinne von § 192 Abs. 4 StG.
 
 #### § 39c
 
@@ -673,7 +674,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Periodische Steuern, Verfalltag für natürliche Personen**
 
-<sup>1</sup> Als Verfalltag im Sinne von § 189 Ziff. 2 des Gesetzes gilt für die Einkommens- und Vermögenssteuern:
+<sup>1</sup> Als Verfalltag im Sinne von § 189 Ziff. 2 StG gilt für die Einkommens- und Vermögenssteuern:
 
 - 1\. bei ganzjähriger Steuerpflicht oder bei Beginn der Steuerpflicht vor dem 1. Juni, der 31. August der Steuerperiode
 - 2\. bei Beginn der Steuerpflicht nach dem 31. Mai, der 90. Tag nach Beginn der Steuerpflicht, spätestens der 31. Dezember der Steuerperiode
@@ -699,7 +700,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Verfalltag für Liquidationsgewinne**
 
-<sup>1</sup> Für Liquidationsgewinne nach § 38b des Gesetzes gilt der ordentliche Verfalltermin nach § 41 Abs. 1 und Abs. 3.
+<sup>1</sup> Für Liquidationsgewinne nach § 38b StG gilt der ordentliche Verfalltermin nach § 41 Abs. 1 und Abs. 3.
 
 #### § 42
 
@@ -725,7 +726,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Bussen**
 
-<sup>1</sup> Bussen werden mit der Rechtskraft der Verfügung fällig.
+<sup>1</sup> Bussen werden mit der Rechtskraft der Verfügung fällig. Die Rechnungsstellung kann gleichzeitig mit der Zustellung der Bussenverfügung erfolgen.
 
 #### § 45
 
@@ -747,17 +748,19 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 <sup>1</sup> Die Steuerverwaltung erhebt Mahn- und Inkassogebühren für die von ihr bezogenen Steuerbetreffnisse, Bussen und Verfahrensgebühren. Geht nach Ablauf der Zahlungsfrist keine Zahlung ein, wird der steuerpflichtigen Person eine gebührenfreie Zahlungserinnerung zugestellt.
 
-<sup>2</sup> Bleibt die Zahlungserinnerung ohne Wirkung, wird die steuerpflichtige Person gemahnt. Jede Mahnung löst eine Mahngebühr von Fr. 50 aus und wird mit dieser in Rechnung gestellt. Deren Anfechtung richtet sich nach § 191a des Gesetzes.
+<sup>2</sup> Wer innert der in der Zahlungserinnerung gesetzten Frist die Ausstände nicht bezahlt, wird gemahnt. Jede Mahnung kostet maximal Fr. 50. Die Mahngebühr wird mit der Mahnung in Rechnung gestellt. Deren Anfechtung richtet sich nach § 191a StG.
 
-<sup>3</sup> Bleibt auch die Mahnung ohne Wirkung und muss die offene Forderung auf dem Betreibungsweg eingetrieben werden, ist der steuerpflichtigen Person eine Inkassogebühr von Fr. 80 aufzuerlegen.
+<sup>3</sup> Wer trotz Mahnung innert Frist die Ausstände nicht bezahlt, hat bei einer allfälligen Betreibung eine Inkassogebühr von maximal Fr. 80 zu entrichten.
 
-<sup>4</sup> Rechtskräftige Gebührenrechnungen gelten als definitive Rechtsöffnungstitel im Sinne von § 192 Abs. 4 des Gesetzes.
+<sup>3<sup>bis</sup></sup> Die Steuerverwaltung erlässt ein Gebührenreglement.
+
+<sup>4</sup> Rechtskräftige Gebührenrechnungen gelten als definitive Rechtsöffnungstitel im Sinne von § 192 Abs. 4 StG.
 
 #### § 46b
 
 **Steuergutschriften für minderjährige Kinder**
 
-<sup>1</sup> Im Kanton beschränkt Steuerpflichtige haben keinen Anspruch auf Steuergutschriften nach § 188a Abs. 2 des Gesetzes.
+<sup>1</sup> Im Kanton beschränkt Steuerpflichtige haben keinen Anspruch auf Steuergutschriften nach § 188a Abs. 2 StG.
 
 <sup>2</sup> Bei Beginn und Ende der unbeschränkten Steuerpflicht während der Steuerperiode wird die Steuergutschrift im Verhältnis der Dauer der Steuerpflicht gewährt. Im interkantonalen Verhältnis richtet sich die Anspruchsgewährung sinngemäss nach der Einheit der Steuerperiode.
 
@@ -769,13 +772,13 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Steuergutschriften und Schlussrechnungen**
 
-<sup>1</sup> Zuständig für die Gewährung der Steuergutschriften für minderjährige Kinder gemäss § 188a Abs. 2 des Gesetzes sind die Bezugsbehörden der jeweiligen Wohnsitzgemeinden der Anspruchsteller.
+<sup>1</sup> Zuständig für die Gewährung der Steuergutschriften für minderjährige Kinder gemäss § 188a Abs. 2 StG sind die Bezugsbehörden der jeweiligen Wohnsitzgemeinden der Anspruchsteller.
 
 <sup>2</sup> Die Steuergutschriften werden mit der Schlussrechnung festgesetzt und vom geschuldeten Steuerbetrag in Abzug gebracht. Sie sind separat auszuweisen.
 
-<sup>3</sup> Rechtsmittel gegen Steuergutschriften folgen den Bestimmungen der Anfechtung von Schlussrechnungen gemäss § 191a des Gesetzes.
+<sup>3</sup> Rechtsmittel gegen Steuergutschriften folgen den Bestimmungen der Anfechtung von Schlussrechnungen gemäss § 191a StG.
 
-<sup>4</sup> Steuergutschriften gemäss § 188a Abs. 2 des Gesetzes fliessen in die Steuerkraftberechnung ein.
+<sup>4</sup> Steuergutschriften gemäss § 188a Abs. 2 StG fliessen in die Steuerkraftberechnung ein.
 
 #### § 47
 
@@ -845,7 +848,9 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 <sup>2</sup> Ist die Überschuldung auf ausserordentliche Umstände (insbesondere Erwerbsunfähigkeit, Arbeitslosigkeit, hohe, nicht von Dritten gedeckte Krankheits- oder Pflegekosten) zurückzuführen, die in den persönlichen Verhältnissen begründet und nicht von der steuerpflichtigen Person verschuldet sind, liegt darin eine den Erlass rechtfertigende Ursache vor, unbesehen davon, ob allfällige, übrige Gläubiger im gleichen prozentualen Umfang auf ihre Forderungen verzichten.
 
-<sup>3</sup> Ist die Überschuldung von der steuerpflichtigen Person verschuldet, kann ein Erlass nur dann gewährt werden, wenn die übrigen Gläubiger, deren Forderungen ebenfalls der 3. Klasse gemäss Art. 219 Abs. 4 SchKG angehören, im gleichen prozentualen Umfang auf ihre Forderungen verzichten.
+<sup>3</sup> Ist die Überschuldung von der steuerpflichtigen Person verschuldet, kann ein Erlass nur dann gewährt werden, wenn die übrigen Gläubiger, deren Forderungen ebenfalls der 3. Klasse gemäss Art. 219 Abs. 4 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^50b-1] angehören, im gleichen prozentualen Umfang auf ihre Forderungen verzichten.
+
+[^50b-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
 ### 8.4. Steuersicherung
 
@@ -859,19 +864,11 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 #### § 52
 
-**Mitwirkungsentschädigung**
+**Kosten für Vollscanning**
 
-<sup>1</sup> Die Entschädigung der Gemeinde für die selbständige Veranlagung natürlicher Personen beträgt pro Steuerperiode:
+<sup>1–3</sup> …
 
-- 1\. für die ersten 10 Prozent der Steuerpflichtigen — Fr. 8 je Fall
-- 2\. für die nächsten 10 Prozent der Steuerpflichtigen — Fr. 13 je Fall
-- 3\. für Anteile über 20 Prozent der Steuerpflichtigen — Fr. 17 je Fall
-
-<sup>2</sup> Das zuständige Departement kann mit einzelnen Gemeinden Leistungsvereinbarungen betreffend eine über den Umfang von Abs. 1 hinausgehende Veranlagungstätigkeit vorsehen. Es bewilligt Inhalt und Umfang der Leistungsvereinbarung.
-
-<sup>3</sup> Zusammen mit der allgemeinen Mitwirkungsentschädigung nach § 201 Abs. 1 des Gesetzes sind damit sämtliche Leistungen der Gemeinde im Zusammenhang mit der Veranlagung, dem Bezug und der Ablieferung der Steuern abgegolten.
-
-<sup>4</sup> Für das Vollscanning der Steuerakten haben die Gemeinden eine Fallentschädigung von Fr. 5 zu entrichten, welche mit der allgemeinen Mitwirkungsentschädigung nach § 201 Abs. 1 des Gesetzes verrechnet wird.
+<sup>4</sup> Für das Vollscanning der Steuerakten haben die Gemeinden eine Fallentschädigung von Fr. 5 zu entrichten, welche mit der allgemeinen Mitwirkungsentschädigung nach § 201 Abs. 1 StG verrechnet wird.
 
 <sup>5</sup> …
 
@@ -885,7 +882,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Kürzung oder Verweigerung der Mitwirkungsentschädigung**
 
-<sup>1</sup> Das Departement für Finanzen und Soziales entscheidet über die Kürzung oder Verweigerung der Mitwirkungsentschädigung gemäss § 201 Abs. 3 des Gesetzes.
+<sup>1</sup> Das Departement für Finanzen und Soziales entscheidet über die Kürzung oder Verweigerung der Mitwirkungsentschädigung gemäss § 201 Abs. 3 StG.
 
 #### § 54a
 
@@ -933,7 +930,7 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Elektronische Erfassung**
 
-<sup>1</sup> Die Steuerverwaltung kann für die elektronische Erfassung im Sinn von § 153b des Gesetzes Dritte betrauen.
+<sup>1</sup> Die Steuerverwaltung kann für die elektronische Erfassung im Sinn von § 153b StG Dritte betrauen.
 
 #### § 60
 
@@ -965,9 +962,9 @@ vom 10.11.1992 (Stand 01.01.2023)
 
 **Alleinerziehende**
 
-<sup>1</sup> Für verwitwete, getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen zusammenleben und deren Unterhalt zur Hauptsache bestreiten, gilt § 37 Abs. 2 des Gesetzes sinngemäss.
+<sup>1</sup> Für verwitwete, getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen zusammenleben und deren Unterhalt zur Hauptsache bestreiten, gilt § 37 Abs. 2 StG sinngemäss.
 
-<sup>2</sup> Der Sozialabzug nach § 36 Abs. 2 Ziff. 5 des Gesetzes findet keine Anwendung mehr.
+<sup>2</sup> Der Sozialabzug nach § 36 Abs. 2 Ziff. 5 StG findet keine Anwendung mehr.
 
 #### § 63c–64
 
