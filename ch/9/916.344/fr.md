@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les effectifs maximums dans la product
 short: OEM
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/727"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-727-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-727-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20240101/fr"
 
 (Ordonnance sur les effectifs maximums, OEM)
 
-du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2024)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2025)
 
 Le Conseil fédéral suisse,
 
@@ -132,28 +132,31 @@ L’exploitant doit signaler à l’OFAG tout changement des faits pertinents po
 
 Un retrait de l’autorisation est possible en tout temps si les prescriptions en matière de protection des animaux ou de protection des eaux sont violées et qu’il n’est pas remédié aux dysfonctionnements dans le délai imparti par l’OFAG.
 
-## Section 4 Exploitations élevant des porcs qui mettent en valeur les sous-produits issus de la transformation du lait et de la fabrication de denrées alimentaires et exploitations procédant à des essais et à des recherches
+## Section 4 Exploitations élevant des porcs qui mettent en valeur des sous-produits issus de la transformation du lait et de la fabrication de denrées alimentaires des déchets alimentaires et exploitations procédant à des essais et à des recherches
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
 
 #### Art. 10
 
-**Effectifs autorisés pour les exploitations élevant des porcs qui mettent en valeur des sous-produits issus de la transformation du lait et de la fabrication de denrées alimentaires**
+**Effectifs autorisés pour les exploitations élevant des porcs qui mettent en valeur des sous-produits issus de la transformation du lait et de la fabrication de denrées alimentaires ou des déchets alimentaires**[^10-1]
 
 <sup>1</sup>
 
-Sur demande, l’OFAG autorise des effectifs plus élevés que ceux qui sont prévus à l’art. 2 aux exploitations élevant des porcs qui mettent en valeur les sous-produits issus de la transformation du lait ou de la fabrication de denrées alimentaires, à condition que, chaque année en moyenne:
+Sur demande, l’OFAG autorise des effectifs plus élevés que ceux prévus à l’art. 2 aux exploitations élevant des porcs qui mettent en valeur des sous-produits figurant dans la liste en annexe, issus de la transformation du lait et de la fabrication de denrées alimentaires, ou des déchets alimentaires, à condition que l’une des conditions suivantes soit remplie:
 
-- a. 25 % au moins des besoins énergétiques des porcs soient couverts grâce à des sous-produits issus de la transformation du lait;
-- b. 40 % au moins des besoins énergétiques des porcs soient couverts grâce à des sous-produits alimentaires non issus de la transformation du lait; ou
-- c. les sous-produits, issus ou non de la transformation du lait, soient utilisés pour l’alimentation des porcs et couvrent au moins 40 % des besoins énergétiques des porcs.
+- a. 25 % au moins des besoins énergétiques des porcs sont couverts en moyenne annuelle grâce à des sous-produits issus de la transformation du lait;
+- b. si moins de 25 % des besoins énergétiques des porcs sont couverts grâce à des sous-produits issus de la transformation du lait, 40 % au moins des besoins énergétiques sont couverts grâce à des sous-produits ou des déchets alimentaires.
 
 <sup>2</sup>
 
-L’autorisation n’est accordée que si:
+L’autorisation n’est accordée que si les conditions suivantes sont réunies:
 
-- a. le canton sur le territoire duquel les sous-produits sont créés atteste par écrit que l’élimination de ces sous-produits est une tâche d’utilité publique d’importance régionale;
-- b. la distance de l’entreprise de transformation du lait ou de fabrication de denrées alimentaires d’où sont issus les sous-produits est de 75 km au plus, par la route;
-- c. les sous-produits n’ont pas déjà été pris en charge par d’autres exploitations existantes ou ces dernières ne sont pas en mesure de continuer à les prendre en charge;
-- d. l’acquisition des sous-produits est garantie par un contrat écrit entre le demandeur et l’entreprise de transformation du lait ou de fabrication de denrées alimentaires d’où sont issus les sous-produits; le contrat doit comprendre des indications sur la teneur des sous-produits et la quantité de sous-produits mis en valeur par année;
+- a. le canton sur le territoire duquel les sous-produits ou les déchets alimentaires sont créés atteste par écrit que leur élimination est une tâche d’utilité publique d’importance régionale;
+- b. la distance de l’entreprise d’où sont issus les sous-produits ou les déchets alimentaires est de 100 km au plus, par la route;
+- c. les sous-produits ou les déchets alimentaires n’ont pas encore été pris en charge ou ne sont plus pris en charge par d’autres exploitations;
+- d. l’acquisition des sous-produits ou des déchets alimentaires est garantie par un contrat écrit entre le demandeur et l’entreprise d’où sont issus les sous-produits ou les déchets alimentaires destinés à nourrir les animaux; le contrat doit comprendre des indications sur la teneur des sous-produits ou des déchets alimentaires et la quantité de sous-produits ou de déchets alimentaires mis en valeur par année;
 - e. outre les porcs, le demandeur ne garde pas d’autres animaux pour lesquelles la présente ordonnance est valable; font exception les animaux de rente qui ne sont gardés que pour l’usage personnel ou les animaux de compagnie;
 - f.
 
@@ -162,17 +165,21 @@ L’autorisation n’est accordée que si:
   - 1\. les effectifs existants sont conformes aux prescriptions en matière de protection des animaux, et que
   - 2\. les effectifs demandés permettent de respecter les prescriptions en matière de protection des eaux.
 
-<sup>3</sup> L’OFAG accorde l’autorisation en tenant compte de la quantité de sous-produits mis en valeur.
+<sup>3</sup> L’OFAG accorde l’autorisation en tenant compte de la quantité de sous-produits et de déchets alimentaires dont la prise en charge a été réglée par contrat.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
 
 #### Art. 11
 
-**Liste des sous-produits**
+**Liste des sous-produits et des déchets alimentaires et valeur énergétique imputable[^11-1]**
 
-<sup>1</sup> Les sous-produits issus de la transformation du lait ou de la fabrication de denrées alimentaires qui sont pris en compte pour l’octroi d’une autorisation en vertu de l’art. 10 sont mentionnés dans l’annexe.
+<sup>1</sup> Les sous-produits et les déchets alimentaires pris en compte pour l’octroi d’une autorisation en vertu de l’art. 10 sont mentionnés en annexe.[^11-2]
+
+<sup>1bis</sup> Pour calculer la mesure dans laquelle les sous-produits et les déchets alimentaires couvrent les besoins énergétiques des porcs, c’est au plus la valeur énergétique indiquée en annexe qui est prise en compte.[^11-3]
 
 <sup>2</sup>
 
-L’OFAG peut modifier l’annexe. Il ajoute des sous-produits dans l’annexe lorsque ceux-ci remplissent les conditions suivantes:
+L’OFAG ajoute en annexe les sous-produits et les déchets alimentaires qui remplissent les conditions suivantes:[^11-4]
 
 - a. ils ne sont pas spécialement produits pour l’alimentation des porcs;
 - b. ils ont une forte teneur en eau et s’avarient en l’espace de 30 jours au maximum sans l’ajout de conservateurs;
@@ -180,11 +187,23 @@ L’OFAG peut modifier l’annexe. Il ajoute des sous-produits dans l’annexe l
 - d. ils sont produits de manière régulière, de telle sorte que l’alimentation est garantie tout au long de l’année;
 - e. il est plus judicieux de les utiliser pour l’alimentation des porcs que dans les aliments secs usuels pour animaux.
 
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+[^11-3]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+[^11-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+
 #### Art. 12
 
 **Effectifs autorisés pour les exploitations procédant à des essais et à des recherches**
 
-<sup>1</sup> L’OFAG autorise sur demande des effectifs plus élevés que ceux qui sont prévus à l’art. 2 pour les exploitations d’essais de la Confédération et les stations fédérales de recherches agronomiques, l’Aviforum, de Zollikofen, et le Centre d’épreuves d’engraissement et d’abattage du porc, de Sempach, dans la mesure où les activités d’essais et de recherches l’exigent.
+<sup>1</sup> L’OFAG autorise sur demande des effectifs plus élevés que ceux prévus à l’art. 2 pour la station fédérale de recherches agronomiques et les exploitations d’essais, dans la mesure où les activités d’essais l’exigent.[^12-1]
+
+<sup>1bis</sup>
+
+Une autorisation est octroyée aux exploitations d’essais si celles-ci peuvent démontrer:
+
+- a. que leur activité d’essais est scientifiquement fondée, et
+- b. qu’elles utilisent les résultats des tests pour soutenir la production animale suisse.[^12-2]
 
 <sup>2</sup>
 
@@ -192,6 +211,9 @@ L’autorisation n’est accordée que si le canton dans lequel se situe l’uni
 
 - a. les effectifs existants sont conformes aux prescriptions en matière de protection des animaux; et que
 - b. les effectifs demandés permettent de respecter les prescriptions en matière de protection des eaux.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+[^12-2]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
 
 #### Art. 13
 
@@ -251,24 +273,35 @@ Un retrait de l’autorisation est possible en tout temps si les prescriptions e
 
 **Montant de la taxe**
 
-<sup>1</sup> La taxe perçue par animal en surnombre et par année se monte à:
+<sup>1</sup>
 
-<table>
-<tr><td>a. concernant les porcins:</td><td></td></tr>
-<tr><td>1. truies d’élevage âgées de plus de 6 mois, allaitantes ou non alaitantes</td><td>450.—</td></tr>
-<tr><td>2. porcelets sevrés jusqu’à 35 kg</td><td>75.—</td></tr>
-<tr><td>3. porcs de renouvellement et porcs à l’engrais mâles et femelles de plus de 35 kg</td><td>75.—</td></tr>
-<tr><td>b. concernant la volaille de rente:</td><td></td></tr>
-<tr><td>1. poules pondeuses de plus de 18 semaines</td><td>12.—</td></tr>
-<tr><td>2. poulet de chair (plus de 42 jours d’engraissement)</td><td>5.—</td></tr>
-<tr><td>3. poulet de chair (jusqu’à 42 jours d’engraissement)</td><td>4.30</td></tr>
-<tr><td>4. poulet de chair (jusqu’à 35 jours d’engraissement)</td><td>3.80</td></tr>
-<tr><td>5. poulet de chair (jusqu’à 28 jours d’engraissement)</td><td>3.40</td></tr>
-<tr><td>6. dindes à l’engrais de plus de 6 semaines (engraissement)</td><td>15.—</td></tr>
-<tr><td>7. dindes à l’engrais jusqu’à 6 semaines (pré-engraissement)</td><td>5.—</td></tr>
-<tr><td>c. concernant les bovins:</td><td></td></tr>
-<tr><td>[tab] veaux à l’engrais (engraissement au lait entier ou à l’aide de succédanés)</td><td>200.—</td></tr>
-</table>
+La taxe perçue par animal en surnombre et par année se monte à:
+
+- a.
+
+  concernant les porcins:
+
+  - 1\. truies d’élevage âgées de plus de 6 mois, allaitantes ou non alaitantes 450.—
+  - 2\. porcelets sevrés jusqu’à 35 kg 75.—
+  - 3\. porcs de renouvellement et porcs à l’engrais mâles et femelles de plus de 35 kg 75.—
+
+- b.
+
+  concernant la volaille de rente:
+
+  - 1\. poules pondeuses de plus de 18 semaines 12.—
+  - 2\. poulet de chair (plus de 42 jours d’engraissement) 5.—
+  - 3\. poulet de chair (jusqu’à 42 jours d’engraissement) 4.30
+  - 4\. poulet de chair (jusqu’à 35 jours d’engraissement) 3.80
+  - 5\. poulet de chair (jusqu’à 28 jours d’engraissement) 3.40
+  - 6\. dindes à l’engrais de plus de 6 semaines (engraissement) 15.—
+  - 7\. dindes à l’engrais jusqu’à 6 semaines (pré-engraissement) 5.—
+
+- c.
+
+  concernant les bovins:
+
+  - veaux à l’engrais (engraissement au lait entier ou à l’aide de succédanés) 200.—
 
 <sup>2</sup> Si l’exploitant détient des animaux de plusieurs catégories, le calcul de la taxe se fonde sur le cas de figure le plus favorable pour lui.
 
@@ -318,40 +351,41 @@ L’ordonnance du 26 novembre 2003 sur les effectifs maximums[^23-1] est abrogé
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2014.
 
-Annexe
+Annexe[^t-1]
 
-(art. 11 et 24, al. 2)
+(art. 11)
 
-## Liste des sous-produits alimentaires visés à l’art. 11
+## Liste des sous-produits et des déchets alimentaires visés à l’art. 11
+
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
 
 <table>
-<tr><td>Dénomination</td><td>Sous-produit de …</td><td>MS (g/kg)</td><td>EDP (MJ/kg)</td></tr>
-<tr><td colspan="4">1. Sous-produits issus de la transformation du lait:</td></tr>
-<tr><td>1.1 Babeurre</td><td>Fabrication du beurre</td><td>65</td><td>1,1</td></tr>
-<tr><td>1.2 Babeurre 20 %</td><td>Fabrication du beurre</td><td>200</td><td>3,4</td></tr>
-<tr><td>1.3 Babeurre 30 %</td><td>Fabrication du beurre</td><td>300</td><td>5,1</td></tr>
-<tr><td>1.4 Déchets de fromage</td><td>Fabrication du fromage</td><td>700</td><td>17,5</td></tr>
-<tr><td>1.5 Lactosérum (= petit-lait)</td><td>Fabrication du fromage</td><td></td><td></td></tr>
-<tr><td>1.5.1 Fromage à pâte dure</td><td></td><td>60</td><td>0,9</td></tr>
-<tr><td>1.5.2 Fromage à pâte molle</td><td></td><td>53</td><td>0,8</td></tr>
-<tr><td>1.5.3 Sérac</td><td></td><td>60</td><td>0,9</td></tr>
-<tr><td>1.5.4 Lactosérum concentré</td><td></td><td></td><td></td></tr>
-<tr><td>– 12 %</td><td></td><td>120</td><td>1,8</td></tr>
-<tr><td>– 18 %</td><td></td><td>180</td><td>2,6</td></tr>
-<tr><td>– 25 %</td><td></td><td>250</td><td>3,7</td></tr>
-<tr><td>1.6 Perméat</td><td>Production de protéines à partir de lait écrémé ou de lactosérum</td><td>40</td><td>0,6</td></tr>
-<tr><td>1.7 Lait de rinçage</td><td>Transformation du lait</td><td>80</td><td>1,6</td></tr>
-<tr><td colspan="4">2. Sous-produits alimentaires non issus de la transformation du lait:</td></tr>
-<tr><td>2.1 Amidon de blé liquide</td><td>Production d’amidon</td><td>170</td><td>2,7</td></tr>
-<tr><td>2.2 Sous-produit de la production de tofu</td><td>Production de tofu</td><td>200</td><td>2,6</td></tr>
-<tr><td>2.3 Drêches de brasserie fraîches</td><td>Brasserie</td><td>220</td><td>2,2</td></tr>
-<tr><td>2.4 Déchets de légumes/soupe de déchets de légumes</td><td>Production de conserves de légumes</td><td>120</td><td>1,7</td></tr>
-<tr><td>2.5 Pâte</td><td>Fabrication de pâte</td><td>675</td><td>11,3</td></tr>
-<tr><td>2.6 Déchets de pain</td><td>Fabrication de produits de boulangerie</td><td>770</td><td>13,4</td></tr>
-<tr><td>2.7 Déchets de biscuits et sous-produits de boulangerie</td><td>Fabrication de produits de boulangerie</td><td>940</td><td>17,8</td></tr>
-<tr><td>2.8 Déchets de pommes de terre</td><td>Transformation des pommes de terre</td><td>150</td><td>1,9</td></tr>
-<tr><td>2.9 Levures</td><td>Brasserie/Boulangerie</td><td>100</td><td>1,4</td></tr>
-<tr><td>2.10 Restes de boissons avec perméat de lait</td><td>Production de boissons avec perméat de lait</td><td>100</td><td>1,7</td></tr>
-<tr><td colspan="4">MS = Matière sèche</td></tr>
-<tr><td colspan="4">EDP = Energie digestible porc</td></tr>
+<tr><th colspan="2">Dénomination</th><th>Sous-produit de …</th><th>Matière sèche (g/kg)</th><th>Valeur énergétique maximale imputable (MJ EDP/kg)</th></tr>
+<tr><td colspan="5">1. Sous-produits issus de la transformation du lait:</td></tr>
+<tr><td>1.1</td><td>Babeurre</td><td>Fabrication du beurre</td><td>65</td><td>1,1</td></tr>
+<tr><td>1.2</td><td>Babeurre 20 %</td><td>Fabrication du beurre</td><td>200</td><td>3,4</td></tr>
+<tr><td>1.3</td><td>Babeurre 30 %</td><td>Fabrication du beurre</td><td>300</td><td>5,1</td></tr>
+<tr><td>1.4</td><td>Déchets de fromage</td><td>Fabrication du fromage</td><td>700</td><td>17,5</td></tr>
+<tr><td>1.5</td><td>Lactosérum (= petit-lait)</td><td>Fabrication du fromage</td><td></td><td></td></tr>
+<tr><td>[tab] 1.5.1</td><td>[tab] Fromage à pâte dure</td><td></td><td>60</td><td>0,9</td></tr>
+<tr><td>[tab] 1.5.2</td><td>[tab] Fromage à pâte molle</td><td></td><td>53</td><td>0,8</td></tr>
+<tr><td>[tab] 1.5.3</td><td>[tab] Sérac</td><td></td><td>60</td><td>0,9</td></tr>
+<tr><td>[tab] 1.5.4</td><td>[tab] Lactosérum concentré</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>– 12 %</td><td></td><td>120</td><td>1,8</td></tr>
+<tr><td></td><td>– 18 %</td><td></td><td>180</td><td>2,6</td></tr>
+<tr><td></td><td>– 25 %</td><td></td><td>250</td><td>3,7</td></tr>
+<tr><td>1.6</td><td>Perméat</td><td>Production de protéines à partir de lait écrémé ou de lactosérum</td><td>40</td><td>0,6</td></tr>
+<tr><td>1.7</td><td>Lait de rinçage</td><td>Transformation du lait</td><td>80</td><td>1,6</td></tr>
+<tr><td colspan="5">2. Sous-produits non issus de la transformation du lait et déchets alimentaires:</td></tr>
+<tr><td>2.1</td><td>Amidon de blé liquide</td><td></td><td>170</td><td>2,7</td></tr>
+<tr><td>2.2</td><td>Sous-produit de la production de tofu</td><td></td><td>200</td><td>2,6</td></tr>
+<tr><td>2.3</td><td>Drêches de brasserie fraîches</td><td></td><td>220</td><td>2.2</td></tr>
+<tr><td>2.4</td><td>Déchets de légumes ou soupe de déchets de légumes</td><td></td><td>120</td><td>1,7</td></tr>
+<tr><td>2.5</td><td>Pâte</td><td></td><td>675</td><td>11.3</td></tr>
+<tr><td>2.6</td><td>Déchets de pain</td><td></td><td>770</td><td>13.4</td></tr>
+<tr><td>2.7</td><td>Déchets de biscuits et sous-produits de boulangerie</td><td></td><td>940</td><td>17.8</td></tr>
+<tr><td>2.8</td><td>Déchets de pommes de terre</td><td></td><td>150</td><td>1,9</td></tr>
+<tr><td>2.9</td><td>Levures</td><td></td><td>100</td><td>1,4</td></tr>
+<tr><td>2.10</td><td>Restes de boissons avec perméat de lait</td><td></td><td>100</td><td>1,7</td></tr>
+<tr><td colspan="5">EDP = Energie digestible porc</td></tr>
 </table>

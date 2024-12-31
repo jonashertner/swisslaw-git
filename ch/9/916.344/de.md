@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über Höchstbestände in der Fleisch- u
 short: HBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/727"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2013-727-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/727/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2013-727-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/727/20240101/de"
 
 (Höchstbestandesverordnung, HBV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2024)
+vom 23. Oktober 2013 (Stand am 1. Januar 2025)
 
 Der Schweizerische Bundesrat,
 
@@ -66,8 +66,11 @@ Betriebe müssen folgende Höchstbestände einhalten:
   - 6\. 9 000 Masttruten bis zum 42. Masttag (Trutenvormast),
   - 7\. 4 500 Masttruten ab dem 43. Masttag (Trutenausmast);
 
-- c. bei Tieren der Rindergattung:
-- 300 Mastkälber, die mit Vollmilch oder Milchersatz gemästet werden.
+- c.
+
+  bei Tieren der Rindergattung:
+
+  - 300 Mastkälber, die mit Vollmilch oder Milchersatz gemästet werden.
 
 <sup>2</sup> In der Poulet- und Trutenmast zählen auch der Einstalltag und der Ausstalltag als Masttage.
 
@@ -88,7 +91,7 @@ Für die Berechnung des zulässigen Gesamtbestandes im Sinne von Artikel 46 Absa
 
 Bei Betriebsgemeinschaften und Betriebszweiggemeinschaften werden für die Berechnung der Höchstbestände und des zulässigen Gesamtbestands die in den Artikeln 2 und 3 genannten Zahlen mit der Anzahl der beteiligten Betriebe multipliziert.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **20****23** 704).
+[^4-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 704](https://fedlex.data.admin.ch/eli/oc/2023/704)).
 
 ## 3. Abschnitt: Betriebe, die den ökologischen Leistungsnachweis erbringen, ohne dass sie Hofdünger abgeben
 
@@ -129,28 +132,31 @@ Die Bewilligung gilt für 15 Jahre. Reicht der Bewirtschafter oder die Bewirtsch
 
 Ein Entzug der Bewilligung ist jederzeit möglich, wenn Vorschriften des Tier- oder Gewässerschutzes missachtet und die Missstände nicht innert der vom BLW gesetzten Frist behoben werden.
 
-## 4. Abschnitt: Betriebe mit Schweinehaltung, die Nebenprodukte von Milch- und Lebensmittelverarbeitungsbetrieben verwerten, sowie Betriebe mit Versuchs- und Forschungstätigkeit
+## 4. Abschnitt: Betriebe mit Schweinehaltung, die Nebenprodukte von Milch- und Lebensmittelverarbeitungsbetrieben oder Lebensmittelabfälle verwerten, sowie Betriebe mit Versuchs- und Forschungstätigkeit
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
 
 #### Art. 10
 
-**Zulässige Bestände für Betriebe mit Schweinehaltung, die Nebenprodukte von Milch- und Lebensmittelverarbeitungsbetrieben verwerten**
+**Zulässige Bestände für Betriebe mit Schweinehaltung, die Nebenprodukte von Milch- und Lebensmittelverarbeitungsbetrieben oder Lebensmittelabfälle verwerten**[^10-1]
 
 <sup>1</sup>
 
-Das BLW bewilligt Betrieben mit Schweinehaltung, die Nebenprodukte von Milch- oder Lebensmittelverarbeitungsbetrieben verwerten, auf Gesuch hin höhere Bestände als diejenigen nach Artikel 2, wenn sie im Durchschnitt eines Jahres:
+Das BLW bewilligt Betrieben mit Schweinehaltung, die im Anhang genannte Nebenprodukte aus der Milch- und Lebensmittelverarbeitung oder Lebensmittelabfälle verwerten, auf Gesuch hin höhere Bestände als diejenigen nach Artikel 2, wenn eine der folgenden Voraussetzungen erfüllt ist:
 
-- a. mindestens 25 Prozent des Energiebedarfs der Schweine mit Nebenprodukten aus der Milchverarbeitung decken;
-- b. mindestens 40 Prozent des Energiebedarfs der Schweine mit Lebensmittelnebenprodukten decken, die nicht aus der Milchverarbeitung stammen; oder
-- c. mindestens 40 Prozent des Energiebedarfs der Schweine mit Nebenprodukten aus der Milchverarbeitung sowie mit Lebensmittelnebenprodukten, die nicht aus der Milchverarbeitung stammen, decken.
+- a. Mindestens 25 Prozent des Energiebedarfs der Schweine wird im Durchschnitt eines Jahres mit Nebenprodukten aus der Milchverarbeitung gedeckt.
+- b. Wird der Energiebedarf zu weniger als 25 Prozent mit Nebenprodukten aus der Milchverarbeitung gedeckt, so wird mindestens 40 Prozent des Energiebedarfs mit Nebenprodukten oder Lebensmittelabfällen gedeckt.
 
 <sup>2</sup>
 
 Die Bewilligung wird nur erteilt, wenn:
 
-- a. der Kanton, auf dessen Gebiet die Nebenprodukte anfallen, schriftlich bestätigt, dass die Entsorgungsaufgabe im öffentlichen Interesse liegt und von regionaler Bedeutung ist;
-- b. der Milch- oder Lebensmittelverarbeitungsbetrieb, von dem die Nebenprodukte stammen, in einer Fahrdistanz von höchstens 75 km liegt;
-- c. die Nebenprodukte bisher nicht von anderen Betrieben übernommen wurden oder diese nicht bereit sind, die Nebenprodukte weiterhin zu übernehmen;
-- d. die Abnahme der Nebenprodukte in einem schriftlichen Vertrag zwischen dem Gesuchsteller oder der Gesuchstellerin und dem Milch- oder Lebensmittelverarbeitungsbetrieb, von dem die Nebenprodukte stammen, vereinbart ist; der Vertrag muss Angaben zum Gehalt der Nebenprodukte und der Menge der pro Jahr verwerteten Nebenprodukte beinhalten;
+- a. der Kanton, auf dessen Gebiet die Nebenprodukte oder Lebensmittelabfälle anfallen, schriftlich bestätigt, dass die Entsorgungsaufgabe im öffentlichen Interesse liegt und von regionaler Bedeutung ist;
+- b. der Betrieb, von dem die Nebenprodukte oder Lebensmittelabfälle stammen, in einer Fahrdistanz von höchstens 100 km liegt;
+- c. die Nebenprodukte oder Lebensmittelabfälle noch nicht von anderen Betrieben übernommen wurden oder nicht mehr von anderen Betrieben übernommen werden;
+- d. die Abnahme der Nebenprodukte oder Lebensmittelabfälle in einem schriftlichen Vertrag zwischen dem Gesuchsteller oder der Gesuchstellerin und dem Betrieb, von dem die zu verfütternden Nebenprodukte oder Lebensmittelabfälle stammen, vereinbart ist; der Vertrag muss Angaben zum Gehalt der Nebenprodukte oder Lebensmittelabfälle und der Menge der pro Jahr verwerteten Nebenprodukte oder Lebensmittelabfälle enthalten;
 - e. der Gesuchsteller oder die Gesuchstellerin neben Schweinen keine anderen Tiere hält, für die diese Verordnung gilt, es sei denn, die Tiere werden als Nutztiere für den ausschliesslich persönlichen Gebrauch oder als Heimtiere gehalten;
 - f.
 
@@ -159,17 +165,21 @@ Die Bewilligung wird nur erteilt, wenn:
   - 1\. mit den bestehenden Beständen die Tierschutzvorschriften erfüllt sind, und
   - 2\. mit den beantragten Beständen die Gewässervorschriften eingehalten werden können.
 
-<sup>3</sup> Das BLW erteilt die Bewilligung entsprechend der Menge der verwerteten Nebenprodukte.
+<sup>3</sup> Das BLW erteilt die Bewilligung entsprechend den Mengen an Nebenprodukten und Lebensmittelabfällen, deren Übernahme vertraglich vereinbart ist.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
 
 #### Art. 11
 
-**Liste der Nebenprodukte**
+**Liste der Nebenprodukte und Lebensmittelabfälle sowie anrechenbarer Energiegehalt[^11-1]**
 
-<sup>1</sup> Die Nebenprodukte von Milch- oder Lebensmittelverarbeitungsbetrieben, die für die Erteilung einer Bewilligung nach Artikel 10 berücksichtigt werden, sind im Anhang aufgeführt.
+<sup>1</sup> Die Nebenprodukte und Lebensmittelabfälle, die für die Erteilung einer Bewilligung nach Artikel 10 berücksichtigt werden, sind im Anhang aufgeführt.[^11-2]
+
+<sup>1bis</sup> Für die Berechnung des Umfangs, in dem die Nebenprodukte und Lebensmittelabfälle den Energiebedarf der Schweine decken, wird höchstens der im Anhang angegebene Energiegehalt berücksichtigt.[^11-3]
 
 <sup>2</sup>
 
-Das BLW kann den Anhang ändern. Es nimmt Nebenprodukte in den Anhang auf, wenn diese die folgenden Anforderungen erfüllen:
+Das BLW nimmt Nebenprodukte und Lebensmittelabfälle in den Anhang auf, wenn diese die folgenden Anforderungen erfüllen:[^11-4]
 
 - a. Sie werden nicht eigens für die Fütterung von Schweinen hergestellt.
 - b. Sie sind stark wasserhaltig und verderben ohne Konservierungszusatz innerhalb von höchstens 30 Tagen.
@@ -177,11 +187,23 @@ Das BLW kann den Anhang ändern. Es nimmt Nebenprodukte in den Anhang auf, wenn 
 - d. Sie fallen regelmässig an, damit die Verfütterung über das ganze Jahr gewährleistet ist.
 - e. Ihr Einsatz in der Schweinefütterung ist sinnvoller als der Einsatz in einem herkömmlichen, trockenen Futtermittel.
 
+[^11-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+[^11-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+[^11-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+
 #### Art. 12
 
 **Zulässige Bestände für Betriebe mit Versuchs- und Forschungstätigkeit**
 
-<sup>1</sup> Das BLW bewilligt den Versuchsbetrieben des Bundes und den landwirtschaftlichen Forschungsanstalten des Bundes, dem Aviforum in Zollikofen sowie der Mast- und Schlachtleistungsprüfungsanstalt in Sempach auf Gesuch hin höhere Bestände als diejenigen nach Artikel 2, soweit dies zur Durchführung der Versuche und Prüfungen erforderlich ist.
+<sup>1</sup> Das BLW bewilligt der landwirtschaftlichen Forschungsanstalt des Bundes und den Versuchsbetrieben auf Gesuch hin höhere Bestände als diejenigen nach Artikel 2, soweit dies zur Durchführung der Versuche erforderlich ist.[^12-1]
+
+<sup>1bis</sup>
+
+Den Versuchsbetrieben wird die Bewilligung erteilt, wenn sie nachweisen, dass:
+
+- a. ihre Versuchstätigkeit auf einer wissenschaftlichen Grundlage basiert; und
+- b. sie die Versuchsergebnisse zur Unterstützung der Schweizer Tierproduktion einsetzten.[^12-2]
 
 <sup>2</sup>
 
@@ -189,6 +211,9 @@ Die Bewilligung wird nur erteilt, wenn der Kanton, in dem die Produktionsstätte
 
 - a. mit den bestehenden Beständen die Tierschutzvorschriften erfüllt sind; und
 - b. mit den beantragten Beständen die Gewässervorschriften eingehalten werden können.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
+[^12-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
 
 #### Art. 13
 
@@ -326,39 +351,41 @@ Die Höchstbestandesverordnung vom 26. November 2003[^23-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
-(Art. 11 und 24 Abs. 2)
+(Art. 11)
 
-## Liste der Lebensmittelnebenprodukte nach Artikel 11
+## Liste der Nebenprodukte und Lebensmittelabfälle nach Artikel 11
+
+[^t-1]: Fassung gemäss Ziff. II der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 688](https://fedlex.data.admin.ch/eli/oc/2024/688)).
 
 <table>
-<tr><td colspan="2">Bezeichnung</td><td></td><td colspan="3">Nebenprodukt der …</td><td colspan="2">TS (g/kg)</td><td>VES (MJ/kg)</td></tr>
-<tr><td colspan="4">1. Nebenprodukte der Milchverarbeitung:</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>1.1</td><td colspan="2">Buttermilch</td><td colspan="3">Butterherstellung</td><td colspan="2">65</td><td>1,1</td></tr>
-<tr><td>1.2</td><td colspan="2">Buttermilch 20 %</td><td colspan="3">Butterherstellung</td><td colspan="2">200</td><td>3,4</td></tr>
-<tr><td>1.3</td><td colspan="2">Buttermilch 30 %</td><td colspan="3">Butterherstellung</td><td colspan="2">300</td><td>5,1</td></tr>
-<tr><td>1.4</td><td colspan="2">Käseabfälle</td><td colspan="3">Käseherstellung</td><td colspan="2">700</td><td>17,5</td></tr>
-<tr><td>1.5</td><td colspan="2">Molke (=Schotte):</td><td colspan="3">Käseherstellung</td><td colspan="2"></td><td></td></tr>
-<tr><td>[tab] 1.5.1</td><td colspan="2">[tab] Hartkäse</td><td colspan="3"></td><td colspan="2">60</td><td>0,9</td></tr>
-<tr><td>[tab] 1.5.2</td><td colspan="2">[tab] Weichkäse</td><td colspan="3"></td><td colspan="2">53</td><td>0,8</td></tr>
-<tr><td>[tab] 1.5.3</td><td colspan="2">[tab] Ziger</td><td colspan="3"></td><td colspan="2">60</td><td>0,9</td></tr>
-<tr><td>[tab] 1.5.4</td><td colspan="2">[tab] Schottekonzentrat:</td><td colspan="3"></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td colspan="2">– 12 %</td><td colspan="3"></td><td colspan="2">120</td><td>1,8</td></tr>
-<tr><td></td><td colspan="2">– 18 %</td><td colspan="3"></td><td colspan="2">180</td><td>2,6</td></tr>
-<tr><td></td><td colspan="2">– 25 %</td><td colspan="3"></td><td colspan="2">250</td><td>3,7</td></tr>
-<tr><td>1.6</td><td colspan="2">Permeat</td><td colspan="3">Proteingewinnung aus Magermilch oder Molke</td><td colspan="2">40</td><td>0,6</td></tr>
-<tr><td>1.7</td><td colspan="2">Spülmilch</td><td colspan="3">Milchverarbeitung</td><td colspan="2">80</td><td>1,6</td></tr>
-<tr><td colspan="9">2. Lebensmittelnebenprodukte, die nicht aus der Milchverarbeitung stammen:</td></tr>
-<tr><td>2.1</td><td colspan="2">Weizenstärke flüssig</td><td colspan="3">Stärkeproduktion</td><td colspan="2">170</td><td>2,7</td></tr>
-<tr><td>2.2</td><td colspan="2">Nebenprodukt der Tofu-Herstellung</td><td colspan="3">Tofu-Herstellung</td><td colspan="2">200</td><td>2,6</td></tr>
-<tr><td>2.3</td><td colspan="2">Biertreber frisch</td><td colspan="3">Brauerei</td><td colspan="2">220</td><td>2.2</td></tr>
-<tr><td>2.4</td><td colspan="2">Gemüseabfälle / Gemüseabfallsuppe</td><td colspan="3">Gemüseverarbeitung</td><td colspan="2">120</td><td>1,7</td></tr>
-<tr><td>2.5</td><td colspan="2">Teige</td><td colspan="3">Herstellung von Teig</td><td colspan="2">675</td><td>11.3</td></tr>
-<tr><td>2.6</td><td colspan="2">Brotabfälle</td><td colspan="3">Herstellung von Backwaren</td><td colspan="2">770</td><td>13.4</td></tr>
-<tr><td>2.7</td><td colspan="2">Biskuitabfälle und Bäckereinebenprodukte</td><td colspan="3">Herstellung von Backwaren</td><td colspan="2">940</td><td>17.8</td></tr>
-<tr><td>2.8</td><td colspan="2">Kartoffelabfälle</td><td colspan="3">Kartoffelverarbeitung</td><td colspan="2">150</td><td>1,9</td></tr>
-<tr><td>2.9</td><td colspan="2">Hefen</td><td colspan="3">Brauerei/Bäckerei</td><td colspan="2">100</td><td>1,4</td></tr>
-<tr><td>2.10</td><td colspan="2">Getränkereste mit Milchpermeat</td><td colspan="3">Getränkeherstellung mit Milchpermeat</td><td colspan="2">100</td><td>1,7</td></tr>
-<tr><td colspan="9">TS = Trockensubstanz VES = Verdauliche Energie Schwein</td></tr>
+<tr><th colspan="2">Bezeichnung</th><th>Nebenprodukt der …</th><th>Trocken substanz (g/kg)</th><th>Maximal berücksichtigter Energiegehalt (MJ VES/kg)</th></tr>
+<tr><td colspan="5">1. Nebenprodukte der Milchverarbeitung:</td></tr>
+<tr><td>1.1</td><td>Buttermilch</td><td>Butterherstellung</td><td>65</td><td>1,1</td></tr>
+<tr><td>1.2</td><td>Buttermilch 20 %</td><td>Butterherstellung</td><td>200</td><td>3,4</td></tr>
+<tr><td>1.3</td><td>Buttermilch 30 %</td><td>Butterherstellung</td><td>300</td><td>5,1</td></tr>
+<tr><td>1.4</td><td>Käseabfälle</td><td>Käseherstellung</td><td>700</td><td>17,5</td></tr>
+<tr><td>1.5</td><td>Molke (=Schotte):</td><td>Käseherstellung</td><td></td><td></td></tr>
+<tr><td>[tab] 1.5.1</td><td>[tab] Hartkäse</td><td></td><td>60</td><td>0,9</td></tr>
+<tr><td>[tab] 1.5.2</td><td>[tab] Weichkäse</td><td></td><td>53</td><td>0,8</td></tr>
+<tr><td>[tab] 1.5.3</td><td>[tab] Ziger</td><td></td><td>60</td><td>0,9</td></tr>
+<tr><td>[tab] 1.5.4</td><td>[tab] Schottekonzentrat:</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>– 12 %</td><td></td><td>120</td><td>1,8</td></tr>
+<tr><td></td><td>– 18 %</td><td></td><td>180</td><td>2,6</td></tr>
+<tr><td></td><td>– 25 %</td><td></td><td>250</td><td>3,7</td></tr>
+<tr><td>1.6</td><td>Permeat</td><td>Proteingewinnung aus Magermilch oder Molke</td><td>40</td><td>0,6</td></tr>
+<tr><td>1.7</td><td>Spülmilch</td><td>Milchverarbeitung</td><td>80</td><td>1,6</td></tr>
+<tr><td colspan="5">2. Nebenprodukte, die nicht aus der Milchverarbeitung stammen, und Lebensmittelabfälle:</td></tr>
+<tr><td>2.1</td><td>Weizenstärke flüssig</td><td></td><td>170</td><td>2,7</td></tr>
+<tr><td>2.2</td><td>Nebenprodukt der Tofu-Herstellung</td><td></td><td>200</td><td>2,6</td></tr>
+<tr><td>2.3</td><td>Biertreber frisch</td><td></td><td>220</td><td>2.2</td></tr>
+<tr><td>2.4</td><td>Gemüseabfälle oder Gemüseabfallsuppe</td><td></td><td>120</td><td>1,7</td></tr>
+<tr><td>2.5</td><td>Teige</td><td></td><td>675</td><td>11.3</td></tr>
+<tr><td>2.6</td><td>Brotabfälle</td><td></td><td>770</td><td>13.4</td></tr>
+<tr><td>2.7</td><td>Biskuitabfälle und Bäckereinebenprodukte</td><td></td><td>940</td><td>17.8</td></tr>
+<tr><td>2.8</td><td>Kartoffelabfälle</td><td></td><td>150</td><td>1,9</td></tr>
+<tr><td>2.9</td><td>Hefen</td><td></td><td>100</td><td>1,4</td></tr>
+<tr><td>2.10</td><td>Getränkereste mit Milchpermeat</td><td></td><td>100</td><td>1,7</td></tr>
+<tr><td colspan="5">VES = Verdauliche Energie Schwein</td></tr>
 </table>
