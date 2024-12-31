@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240701-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250101-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. Juli 2024)
+vom 16. Dezember 2005 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -742,10 +742,11 @@ Ausländischen Ehegatten und ledigen Kindern unter 18 Jahren von Personen mit Ku
 
 **Eheungültigkeit**[^45a-1]
 
-Haben die zuständigen Behörden bei der Prüfung des Ehegattennachzugs nach den Artikeln 42–45 Anhaltspunkte dafür, dass für die Ehe ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 6 des Zivilgesetzbuchs[^45a-2] (ZGB) vorliegt, so melden sie dies der nach Artikel 106 ZGB zuständigen Behörde. Das Gesuch um Ehegattennachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.
+Haben die zuständigen Behörden bei der Prüfung des Ehegattennachzugs nach den Artikeln 42–45 Anhaltspunkte dafür, dass für die Ehe ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 105*a* des Zivilgesetzbuchs (ZGB)[^45a-2] vorliegt, so melden sie dies der nach Artikel 106 ZGB zuständigen Behörde.[^45a-3] Das Gesuch um Ehegattennachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.
 
-[^45a-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^45a-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^45a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45a-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 46
 
@@ -806,17 +807,38 @@ Das Erfordernis des Zusammenwohnens nach den Artikeln 42–44 besteht nicht, wen
 
 <sup>1</sup>
 
-Nach Auflösung der Ehe oder der Familiengemeinschaft besteht der Anspruch des Ehegatten und der Kinder auf Erteilung und Verlängerung der Aufenthaltsbewilligung nach den Artikeln 42 und 43 weiter, wenn:
+Nach Auflösung der Ehe oder der Familiengemeinschaft haben die Ehegatten und die Kinder Anspruch auf Erteilung und Verlängerung der Aufenthaltsbewilligung nach Artikel 42, 43 oder 44, der Kurzaufenthaltsbewilligung nach Artikel 45 in Verbindung mit Artikel 32 Absatz 3 oder auf Anordnung der vorläufigen Aufnahme nach Artikel 85*c* Absatz 1, wenn:[^50-1]
 
-- a.[^50-1] die Ehegemeinschaft mindestens drei Jahre bestanden hat und die Integrationskriterien nach Artikel 58*a* erfüllt sind; oder
+- a.[^50-2] die Ehegemeinschaft mindestens drei Jahre bestanden hat und die Integrationskriterien nach Artikel 58*a* erfüllt sind; oder
 - b. wichtige persönliche Gründe einen weiteren Aufenthalt in der Schweiz erforderlich machen.
 
-<sup>2</sup> Wichtige persönliche Gründe nach Absatz 1 Buchstabe b können namentlich vorliegen, wenn die Ehegattin oder der Ehegatte Opfer ehelicher Gewalt wurde oder die Ehe nicht aus freiem Willen geschlossen hat oder die soziale Wiedereingliederung im Herkunftsland stark gefährdet erscheint.[^50-2]
+<sup>2</sup>
+
+Wichtige persönliche Gründe nach Absatz 1 Buchstabe b können namentlich vorliegen, wenn:
+
+- a.
+
+  der Ehegatte oder ein Kind Opfer häuslicher Gewalt wurde, wobei die zuständigen Behörden insbesondere die folgenden Hinweise berücksichtigen:
+
+  - 1\. die Anerkennung als Opfer im Sinne von Artikel 1 Absatz 1 des Opferhilfegesetzes vom 23. März 2007[^50-3] durch die dafür zuständigen Behörden,
+  - 2\. die Bestätigung einer notwendigen Betreuung oder Schutzgewährung durch eine auf häusliche Gewalt spezialisierte und in der Regel öffentlich finanzierte Fachstelle,
+  - 3\. polizeiliche oder richterliche Massnahmen zum Schutz des Opfers,
+  - 4\. Arztberichte oder andere Gutachten,
+  - 5\. Polizeirapporte und Strafanzeigen, oder
+  - 6\. strafrechtliche Verurteilungen;
+
+- b. der Ehegatte die Ehe nicht aus freiem Willen geschlossen hat; oder
+- c. die soziale Wiedereingliederung im Herkunftsland stark gefährdet erscheint.[^50-4]
 
 <sup>3</sup> Die Frist zur Erteilung der Niederlassungsbewilligung richtet sich nach Artikel 34.
 
-[^50-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^50-2]: Fassung gemäss Ziff. I 1 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+<sup>4</sup> Für Konkubinatspartnerinnen und Konkubinatspartner, denen gemäss Artikel 30 Absatz 1 Buchstabe b aufgrund eines schwerwiegenden persönlichen Härtefalls eine Aufenthaltsbewilligung zum Verbleib bei der Konkubinatspartnerin oder dem Konkubinatspartner erteilt wurde, gelten die Absätze 1–3 sinngemäss.[^50-5]
+
+[^50-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Härtefallregelung bei häuslicher Gewalt), in Kraft seit 1. Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
+[^50-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^50-3]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^50-4]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Härtefallregelung bei häuslicher Gewalt), in Kraft seit 1. Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
+[^50-5]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Härtefallregelung bei häuslicher Gewalt), in Kraft seit 1. Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
 #### Art. 51
 
@@ -2110,11 +2132,12 @@ Ehegatten und ledige Kinder unter 18 Jahren von vorläufig aufgenommenen Persone
 
 <sup>2</sup> Bei ledigen Kindern unter 18 Jahren findet die Voraussetzung nach Absatz 1 Buchstabe d keine Anwendung. Von dieser Voraussetzung kann zudem abgewichen werden, wenn wichtige Gründe nach Artikel 49*a* Absatz 2 vorliegen.
 
-<sup>3</sup> Hat das SEM bei der Prüfung des Nachzugs Anhaltspunkte dafür, dass ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 6 ZGB[^85c-3] vorliegt, so meldet es dies der nach Artikel 106 ZGB zuständigen Behörde. Das Gesuch um Nachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.
+<sup>3</sup> Hat das SEM bei der Prüfung des Nachzugs nach Absatz 1 Anhaltspunkte dafür, dass ein Ungültigkeitsgrund nach Artikel 105 Ziffer 5 oder 105*a* ZGB[^85c-3] vorliegt, so meldet es dies der nach Artikel 106 ZGB zuständigen Behörde.[^85c-4] Das Gesuch um Nachzug wird bis zur Entscheidung dieser Behörde sistiert. Erhebt die Behörde Klage, so wird das Gesuch bis zum Vorliegen des rechtskräftigen Urteils sistiert.
 
 [^85c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Einschränkungen für Reisen ins Ausland und Anpassungen des Status der vorläufigen Aufnahme), in Kraft seit 1. Juni 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85c-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^85c-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^85c-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 86
 
@@ -3743,6 +3766,20 @@ Zum Zeitpunkt des Inkrafttretens der Änderung vom 20. Juni 2014 dieses Gesetzes
 
 [^126d-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^126d-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+
+#### Art. 126e und 126f
+
+[^126e126f-1]
+
+[^126e126f-1]: Treten zu einem späteren Zeitpunkt in Kraft ([BBl 2020 7911](https://fedlex.data.admin.ch/eli/fga/2020/2018); [2021 2999](https://fedlex.data.admin.ch/eli/fga/2021/2999)).
+
+#### Art. 126g
+
+**Übergangsbestimmung zur Änderung vom 14. Juni 2024**[^126g-1]
+
+Auf Gesuche nach Artikel 50, die vor Inkrafttreten der Änderung vom 14. Juni 2024 eingereicht wurden, ist das neue Recht anwendbar.
+
+[^126g-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Härtefallregelung bei häuslicher Gewalt), in Kraft seit 1. Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
 #### Art. 127
 

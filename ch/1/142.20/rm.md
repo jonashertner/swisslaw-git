@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240701-rm-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250101-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dal 1. da fanadur 2024)
+dals 16 da december 2005 (versiun dal 1. da schaner 2025)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -744,10 +744,11 @@ A conjugals esters ed ad uffants nubils sut 18 onns da persunas cun ina permissi
 
 **Nunvalaivladad da la lètg**[^45a-1]
 
-Sche la controlla da la reuniun dal conjugal tenor ils artitgels 42–45 porta indizis ch’igl existia in motiv da nunvalaivladad per la lètg tenor l’artitgel 105 cifra 5 u 6 dal Cudesch civil svizzer[^45a-2] (CCS), annunzian las autoritads cumpetentas quai a l’autoritad cumpetenta tenor l’artitgel 106 CCS. La dumonda per la reuniun dal conjugal vegn sistida, fin che questa autoritad ha prendì ina decisiun. Sche l’autoritad porta plant, vegn la dumonda sistida fin ch’ina sentenzia cun vigur legala è avant maun.
+Sche la controlla da la reuniun dal conjugal tenor ils artitgels 42–45 porta indizis ch’igl existia in motiv da nunvalaivladad per la lètg tenor l’artitgel 105 cifra 5 u 105*a* dal Cudesch civil svizzer[^45a-2] (CCS), annunzian las autoritads cumpetentas quai a l’autoritad cumpetenta tenor l’artitgel 106 CCS.[^45a-3] La dumonda per la reuniun dal conjugal vegn sistida, fin che questa autoritad ha prendì ina decisiun. Sche l’autoritad porta plant, vegn la dumonda sistida, fin ch’ina sentenzia cun vigur legala è avant maun.
 
 [^45a-1]: Integrà tras la cifra I 1 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^45a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45a-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 46
 
@@ -808,17 +809,38 @@ La pretensiun d’abitar ensemen tenor ils artitgels 42–44 n’exista betg, sc
 
 <sup>1</sup>
 
-Suenter la schliaziun da la lètg u da la cuminanza da famiglia han il conjugal ed ils uffants il dretg da survegnir e da pudair prolungar la permissiun da dimora tenor ils artitgels 42 e 43, sche:
+Suenter la schliaziun da la lètg u da la cuminanza da famiglia han ils conjugals ed ils uffants il dretg sin la concessiun e la prolungaziun da la permissiun da dimora tenor ils artitgels 42, 43 u 44, sin la concessiun e la prolungaziun da la permissiun da dimora curta tenor l’artitgel 45 en cumbinaziun cun l’artitgel 32 alinea 3 u sin l’ordinaziun da l’admissiun provisorica tenor l’artitgel 85*c* alinea 1, sche:[^50-1]
 
-- a.[^50-1] la cuminanza conjugala ha existì almain 3 onns ed ils criteris d’integraziun da l’artitgel 58*a* èn ademplids; u
+- a.[^50-2] la cuminanza conjugala ha existì almain 3 onns ed ils criteris d’integraziun da l’artitgel 58*a* èn ademplids; u
 - b. in’ulteriura dimora en Svizra daventa necessaria pervia da motivs persunals impurtants.
 
-<sup>2</sup> Motivs persunals impurtants tenor l’alinea 1 litera b pon esser avant maun cunzunt, sch’il conjugal è daventà in’unfrenda da violenza en la lètg u sche la lètg n’è betg vegnida concludida da libra voluntad u sche la reintegraziun sociala en il stadi da derivanza para d’esser fitg periclitada.[^50-2]
+<sup>2</sup>
+
+Motivs persunals impurtants tenor l’alinea 1 litera b pon esser avant maun en spezial, sche:
+
+- a.
+
+  il conjugal u in uffant è daventà victima da violenza a chasa; en quest cas resguardan las autoritads cumpetentas en spezial ils suandants indizis:
+
+  - 1\. la renconuschientscha da la persuna pertutgada sco victima en il senn da l’artitgel 1 alinea 1 da la Lescha dals 23 da mars 2007[^50-3] davart l’agid a victimas tras las autoritads cumpetentas en chaussa,
+  - 2\. la conferma da la necessitad d’ina assistenza u d’ina protecziun tras in post spezialisà cunter violenza a chasa, che vegn per regla finanzià dal maun public,
+  - 3\. mesiras polizialas u giudizialas per proteger la victima,
+  - 4\. rapports medicals u autras expertisas,
+  - 5\. rapports polizials e denunzias penalas, u
+  - 6\. sentenzias penalas;
+
+- b. il conjugal n’ha betg concludì la lètg da libra voluntad; u
+- c. la reintegraziun sociala en il stadi da derivanza para dad esser fermamain periclitada.[^50-4]
 
 <sup>3</sup> Il termin per conceder la permissiun da domicil sa drizza tenor l’artitgel 34.
 
-[^50-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^50-2]: Versiun tenor la cifra I 1 da la LF dals 15 da zer. 2012 davart mesiras cunter maridaglias sfurzadas, en vigur dapi il 1. da fan. 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+<sup>4</sup> Ils alineas 1–3 valan tenor il senn per partenaris da concubinat che han, pervia d’in cas da direzza persunal gravant, survegnì ina permissiun da dimora tenor l’artitgel 30 alinea 1 litera b per pudair restar tar l’auter partenari da concubinat.[^50-5]
+
+[^50-1]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (regulaziun da cas da direzza en cas da violenza a chasa), en vigur dapi il 1. da schan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
+[^50-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^50-3]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^50-4]: Versiun tenor la cifra I da la LF dals 14 da zer. 2024 (regulaziun da cas da direzza en cas da violenza a chasa), en vigur dapi il 1. da schan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
+[^50-5]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (regulaziun da cas da direzza en cas da violenza a chasa), en vigur dapi il 1. da schan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
 #### Art. 51
 
@@ -2112,11 +2134,12 @@ Per conjugals e per uffants nubils sut 18 onns da persunas ch’èn admessas pro
 
 <sup>2</sup> La premissa tenor l’alinea 1 litera d na vegn betg applitgada per uffants nubils sut 18 onns. Da questa premissa poi ultra da quai vegnir divergià, sch’i èn avant maun motivs impurtants tenor l’artitgel 49*a* alinea 2.
 
-<sup>3</sup> Sche la controlla da la reuniun porta indizis ch’igl existia in motiv da nunvalaivladad tenor l’artitgel 105 cifra 5 u 6 CCS[^85c-3], annunzia il SEM quai a l’autoritad cumpetenta tenor l’artitgel 106 CCS. La dumonda per la reuniun vegn sistida, fin che questa autoritad ha prendì ina decisiun. Sche l’autoritad porta plant, vegn la dumonda sistida, fin ch’ina sentenzia cun vigur legala è avant maun.
+<sup>3</sup> Sche la controlla da la reuniun tenor l’alinea 1 porta indizis ch’igl existia in motiv da nunvalaivladad tenor l’artitgel 105 cifra 5 u 105*a* CCS[^85c-3], annunzia il SEM quai a l’autoritad cumpetenta tenor l’artitgel 106 CCS.[^85c-4] La dumonda da reuniun vegn sistida, fin che questa autoritad ha prendì ina decisiun. Sche l’autoritad porta plant, vegn la dumonda sistida, fin ch’ina sentenzia cun vigur legala è avant maun.
 
 [^85c-1]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (restricziuns per viadis a l’exteriur ed adattaziuns dal status da l’admissiun provisorica), en vigur dapi il 1. da zer. 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85c-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^85c-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^85c-4]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 14 da zer. 2024 (mesiras cunter maridaglias cun persunas minorennas), en vigur dapi il 1. da schan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 86
 
@@ -3745,6 +3768,20 @@ Proceduras penalas administrativas pervia da violaziun da l’obligaziun da dili
 
 [^126d-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 25 da sett. 2015, en vigur dapi il 1. da mars 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^126d-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+
+#### Art. 126e e 126f
+
+[^126e126f-1]
+
+[^126e126f-1]: Entran en vigur pli tard ([BBl 2020 7911](https://fedlex.data.admin.ch/eli/fga/2020/2018); [2021 2999](https://fedlex.data.admin.ch/eli/fga/2021/2999)).
+
+#### Art. 126g
+
+**Disposiziun transitorica da la midada dals 14 da zercladur 2024**[^126g-1]
+
+Per dumondas tenor l’artitgel 50 che vegnan inoltradas avant l’entrada en vigur da la midada dals 14 da zercladur 2024, è applitgabel il dretg nov.
+
+[^126g-1]: Integrà tras la cifra I da la LF dals 14 da zer. 2024 (regulaziun da cas da direzza en cas da violenza a chasa), en vigur dapi il 1. da schan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
 #### Art. 127
 

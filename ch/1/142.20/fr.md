@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240701-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250101-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 1<sup>er</sup> juillet 2024)
+du 16 décembre 2005 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -748,10 +748,11 @@ Le conjoint étranger du titulaire d’une autorisation de courte durée ainsi q
 
 **Annulation du mariage**[^45a-1]
 
-Si l’examen des conditions du regroupement familial définies aux art. 42 à 45 révèle des indices d’une cause absolue d’annulation du mariage au sens de l’art. 105, ch. 5 ou 6, du code civil (CC)[^45a-2], les autorités compétentes en informent l’autorité visée à l’art. 106 CC. La procédure est suspendue jusqu’à la décision de cette autorité. Si celle-ci intente une action, la suspension est prolongée jusqu’à ce qu’un jugement soit rendu et entré en force.
+Si l’examen des conditions du regroupement familial définies aux art. 42 à 45 révèle des indices d’une cause absolue d’annulation du mariage au sens de l’art. 105, ch. 5, ou 105*a* du code civil (CC)[^45a-2], les autorités compétentes en informent l’autorité visée à l’art. 106 CC.[^45a-3] La procédure est suspendue jusqu’à la décision de cette autorité. Si celle-ci intente une action, la suspension est prolongée jusqu’à ce qu’un jugement soit rendu et entré en force.
 
 [^45a-1]: Introduit par le ch. I 1 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^45a-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45a-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 46
 
@@ -812,17 +813,38 @@ L’exigence du ménage commun prévue aux art. 42 à 44 n’est pas applicable 
 
 <sup>1</sup>
 
-Après dissolution de la famille, le droit du conjoint et des enfants à l’octroi d’une autorisation de séjour et à la prolongation de sa durée de validité en vertu des art. 42 et 43 subsiste dans les cas suivants:
+Après dissolution du mariage ou de la famille, le conjoint et les enfants ont droit à l’octroi d’une autorisation de séjour et à la prolongation de sa durée de validité en vertu de l’art. 42, 43 ou 44, à l’octroi d’une autorisation de courte durée et à la prolongation de sa durée de validité en vertu de l’art. 45 en relation avec l’art. 32, al. 3 ainsi qu’à une décision d’admission provisoire en vertu de l’art. 85*c*, al. 1, dans les cas suivants:[^50-1]
 
-- a.[^50-1] l’union conjugale a duré au moins trois ans et les critères d’intégration définis à l’art. 58*a* sont remplis, ou
+- a.[^50-2] l’union conjugale a duré au moins trois ans et les critères d’intégration définis à l’art. 58*a* sont remplis, ou
 - b. la poursuite du séjour en Suisse s’impose pour des raisons personnelles majeures.
 
-<sup>2</sup> Les raisons personnelles majeures visées à l’al. 1, let. b, sont notamment données lorsque le conjoint est victime de violence conjugale, que le mariage a été conclu en violation de la libre volonté d’un des époux ou que la réintégration sociale dans le pays de provenance semble fortement compromise.[^50-2]
+<sup>2</sup>
+
+Les raisons personnelles majeures visées à l’al. 1, let. b, sont notamment données lorsque:
+
+- a.
+
+  le conjoint ou un enfant sont victimes de violence domestique; les indices que les autorités compétentes doivent prendre en compte sont notamment:
+
+  - 1\. la reconnaissance de la qualité de victime au sens de l’art. 1, al. 1, de la loi du 23 mars 2007 sur l’aide aux victimes[^50-3] par les autorités chargées d’exécuter cette loi,
+  - 2\. la confirmation de la nécessité d’une prise en charge ou d’une protection par un service spécialisé dans la violence domestique généralement financé par des fonds publics,
+  - 3\. des mesures policières ou judiciaires visant à protéger la victime,
+  - 4\. des rapports médicaux ou d’autres expertises,
+  - 5\. des rapports de police et des plaintes pénales, ou
+  - 6\. des jugements pénaux;
+
+- b. le mariage a été conclu en violation de la libre volonté d’un des conjoints, ou
+- c. la réintégration sociale dans le pays de provenance semble fortement compromise.[^50-4]
 
 <sup>3</sup> Le délai d’octroi de l’autorisation d’établissement est réglé à l’art. 34.
 
-[^50-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^50-2]: Nouvelle teneur selon le ch. I 1 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+<sup>4</sup> Les al. 1 à 3 s’appliquent par analogie aux concubins qui, en vertu de l’art. 30, al. 1, let. b, ont obtenu une autorisation de séjour pour rester avec leur partenaire en raison d’un cas individuel d’une extrême gravité.[^50-5]
+
+[^50-1]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Réglementation des cas de rigueur en cas de violence domestique), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [FF 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
+[^50-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^50-3]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^50-4]: Nouvelle teneur selon le ch. I de la LF du 14 juin 2024 (Réglementation des cas de rigueur en cas de violence domestique), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [FF 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
+[^50-5]: Introduit par le ch. I de la LF du 14 juin 2024 (Réglementation des cas de rigueur en cas de violence domestique), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [FF 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
 #### Art. 51
 
@@ -2117,11 +2139,12 @@ Le conjoint et les enfants célibataires de moins de 18 ans d’une personne adm
 
 <sup>2</sup> La condition prévue à l’al. 1, let. d, ne s’applique pas aux enfants célibataires de moins de 18 ans. Il est en outre possible d’y déroger lorsque des raisons majeures au sens de l’art. 49*a*, al. 2, le justifient.
 
-<sup>3</sup> Si l’examen des conditions du regroupement familial révèle des indices d’une cause absolue d’annulation du mariage au sens de l’art. 105, ch. 5 ou 6, CC[^85c-3], le SEM en informe l’autorité visée à l’art. 106 CC. La procédure est suspendue jusqu’à la décision de cette autorité. Si celle-ci intente une action, la suspension est prolongée jusqu’à ce qu’un jugement soit rendu et entré en force.
+<sup>3</sup> Si l’examen des conditions du regroupement familial définies à l’al. 1 révèle des indices d’une cause absolue d’annulation au sens de l’art. 105, ch. 5, ou 105*a* CC[^85c-3], le SEM en informe l’autorité visée à l’art. 106 CC.[^85c-4] La procédure est suspendue jusqu’à la décision de cette autorité. Si celle-ci intente une action, la suspension est prolongée jusqu’à ce qu’un jugement soit rendu et entré en force.
 
 [^85c-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Restriction des voyages à l’étranger et modification du statut de l’admission à titre provisoire), en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [FF 2020 7237](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85c-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^85c-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^85c-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 86
 
@@ -3747,6 +3770,20 @@ Les procédures pénales administratives pour violation du devoir de diligence o
 
 [^126d-1]: Introduit par l’annexe ch. 1 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^126d-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+
+#### Art. 126e et 126f
+
+[^126e126f-1]
+
+[^126e126f-1]: Pas encore en vigueur ([FF 2020 7669](https://fedlex.data.admin.ch/eli/fga/2020/2018); [2021 2999](https://fedlex.data.admin.ch/eli/fga/2021/2999)).
+
+#### Art. 126g
+
+**Disposition transitoire relative à la modification du 14 juin 2024**[^126g-1]
+
+Le nouveau droit est applicable aux demandes déposées en vertu de l’art. 50 avant l’entrée en vigueur de la modification du 14 juin 2024.
+
+[^126g-1]: Introduit par le ch. I de la LF du 14 juin 2024 (Réglementation des cas de rigueur en cas de violence domestique), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [FF 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
 #### Art. 127
 

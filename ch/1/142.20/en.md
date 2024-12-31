@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20240701-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20250101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 1 July 2024)
+of 16 December 2005 (Status as of 1 January 2025)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -136,9 +136,9 @@ Foreign nationals who wish to enter Switzerland:
 
 <sup>1bis</sup> The Confederation shall work with the European Union agency responsible for the surveillance of the Schengen external borders. This cooperation shall in particular involve the development of planning instruments for the agency based on Regulation (EU) 2019/1896[^7-2].[^7-3]
 
-<sup>2</sup> The Federal Council regulates possible checks on persons at the border in accordance with these Agreements. If entry is refused, the authority responsible for the border control shall issue a removal order in accordance with Article 64.[^7-4]
+<sup>2</sup> The Federal Council regulates possible checks on persons at the border in accordance with these Agreements. If entry is refused, the authority responsible for the border control shall issue a return decision in accordance with Article 64.[^7-4]
 
-<sup>3</sup> If checks at the Swiss border are temporarily reintroduced in accordance with the Schengen Borders Code[^7-5] and entry is refused, the authority responsible for the border controls shall issue a reasoned and appealable decision on a form in accordance with Annex V Part B of the Schengen Borders Code.[^7-6] The refusal of entry may be enforced immediately. An appeal has no suspensive effect.[^7-7]
+<sup>3</sup> If checks at the Swiss border are temporarily reintroduced in accordance with the Schengen Borders Code[^7-5] and entry is refused, the authority responsible for the border controls shall issue a reasoned and appealable return decision on a form in accordance with Annex V Part B of the Schengen Borders Code.[^7-6] The refusal of entry may be enforced immediately. An appeal has no suspensive effect.[^7-7]
 
 [^7-1]: Amended by Art. 127 below, in force since 12 Dec. 2008 ([AS 2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. a).
 [^7-2]: Regulation (EU) 2019/1896 of the European Parliament and of the Council of 13. November 2019 on the European Border and Coast Guard and repealing Regulations (EU) No 1052/2013 and (EU) No 2016/1624, last amended by OJ L 295 of 14.11.2019, p. 1.
@@ -742,10 +742,11 @@ The foreign spouses and unmarried children under 18 of a person with a short sta
 
 **Annulment of marriage**[^45a-1]
 
-If, on assessing the reunification of spouses in accordance with Articles 42–45, the competent authorities have reason to believe that there are grounds under Article 105 numbers 5 or 6 of the Civil Code[^45a-2] (CC) for the marriage to be annulled, they shall report this to the competent authority under Article 106 CC. The request for the reunification of spouses is suspended until this authority makes its decision. If the authority raises an action for annulment, the request is suspended until a legally binding judgment has been issued.
+If, on assessing the reunification of spouses in accordance with Articles 42–45, the competent authorities have reason to believe that there are grounds under Article 105 numbers 5 or 105*a* of the Civil Code (CC)[^45a-2] for the marriage to be annulled, they shall report this to the competent authority under Article 106 CC.[^45a-3] The request for the reunification of spouses is suspended until this authority makes its decision. If the authority raises an action for annulment, the request is suspended until a legally binding judgment has been issued.
 
 [^45a-1]: Inserted by No I 1 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^45a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^45a-3]: Amended by Annex No 1 of the FA of 14 June 2024 (Measures against Marriages involving Minors), in force since 1 Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 46
 
@@ -806,17 +807,38 @@ The requirement of cohabitation in terms of Articles 42–44 does not apply if g
 
 <sup>1</sup>
 
-After the dissolution of the marriage or of the family household, the right of a spouse and the children to be granted a residence permit and to have their residence permit extended in accordance with Articles 42 and 43 subsists if:
+After the dissolution of the marriage or of the family household, the spouses and the children have the right to be granted and have extended a residence permit under Articles 42, 43 or 44, a short stay permit under Article 45 in conjunction with Article 32 paragraph 3 or to be granted temporary admission under Article 85*c* paragraph 1, provided:[^50-1]
 
-- a.[^50-1] the marriage lasted at least three years and the integration criteria set out in Article 58*a* are met; or
+- a.[^50-2] the marriage lasted at least three years and the integration criteria set out in Article 58*a* are met; or
 - b. important personal reasons make an extended residency in Switzerland necessary.
 
-<sup>2</sup> There are important personal reasons in terms of paragraph 1 letter b in particular if a spouse has been the victim of marital violence or did not marry of his or her own free will and social reintegration in the country of origin appears to be seriously prejudiced.[^50-2]
+<sup>2</sup>
+
+There are important personal reasons in terms of paragraph 1 letter b in particular if:
+
+- a.
+
+  the spouse or a child has been the victim of domestic violence, with regard to which the competent authorities shall take the following in particular into account:
+
+  - 1\. recognition as a victim in terms as Article 1 paragraph 1 of the Victim Support Act of 23 March 2007[^50-3] by the competent authorities,
+  - 2\. confirmation of the need for support or protection from an agency specialising in domestic violence, generally publicly funded,
+  - 3\. measures taken by the police or the courts to protect the victim,
+  - 4\. medical or other specialist reports,
+  - 5\. police reports and criminal complaints, or
+  - 6\. criminal convictions;
+
+- b. the spouse did not marry of his or her own free will; or
+- c. social reintegration in the country of origin appears to be seriously prejudiced.[^50-4]
 
 <sup>3</sup> The time limit for being granted a settlement permit is governed by Article 34.
 
-[^50-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
-[^50-2]: Amended by No I 1 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+<sup>4</sup> Paragraphs 1–3 apply *mutatis mutandis* to cohabiting partners who have been granted a residence permit to remain with their cohabitee in accordance with Article 30 paragraph 1 letter b because of serious personal hardship.[^50-5]
+
+[^50-1]: Amended by No I of the FA of 14 June 2024 (Hardship Regulations in Domestic Violence Cases), in force since 1 Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
+[^50-2]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^50-3]: [SR 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
+[^50-4]: Amended by No I of the FA of 14 June 2024 (Hardship Regulations in Domestic Violence Cases), in force since 1 Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
+[^50-5]: Inserted by No I of the FA of 14 June 2024 (Hardship Regulations in Domestic Violence Cases), in force since 1 Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
 #### Art. 51
 
@@ -1194,21 +1216,21 @@ A settlement permit may be revoked only if:
 
 #### Art. 64
 
-**Removal order**[^64-1]
+**Return decision**[^64-1]
 
 <sup>1</sup>
 
-The competent authorities shall issue an ordinary removal order if:
+The competent authorities shall issue an ordinary return decision if:
 
 - a. a foreign national does not possess a required permit;
 - b. a foreign national does not fulfil or no longer fulfils the entry requirements (Art. 5);
 - c. a foreign national is refused a permit, or the permit is revoked or not extended following a permitted period of stay.
 
-<sup>2</sup> Where foreign nationals who are illegally resident in Switzerland hold a valid residence document for another State that is bound by one of the Schengen-Association Agreements[^64-2] (a Schengen State), they must be requested without any formal procedure to proceed immediately to that State. If they fail to comply with this request, an order in accordance with paragraph 1 must be issued. If immediate departure is required on grounds of public security and order or internal or external security, an order must be issued without a prior request to leave*.*
+<sup>2</sup> Where foreign nationals who are illegally resident in Switzerland hold a valid residence document for another State that is bound by one of the Schengen-Association Agreements[^64-2] (a Schengen State), they must be requested without any formal procedure to proceed immediately to that State. If they fail to comply with this request, a decision in accordance with paragraph 1 must be issued. If immediate departure is required on grounds of public security and order or internal or external security, a decision must be issued without a prior request to leave*.*
 
-<sup>3</sup> An appeal against orders under paragraph 1 letters a and b must be filed within five working days of notification of the order. The appeal does not have suspensive effect. The appellate authority shall decide within ten days on whether suspensive effect will apply.
+<sup>3</sup> An appeal against decisions under paragraph 1 letters a and b must be filed within five working days of notification of the decision. The appeal does not have suspensive effect. The appellate authority shall decide within ten days on whether suspensive effect will apply.
 
-<sup>4</sup> The competent cantonal authorities shall immediately appoint a representative for any unaccompanied minor foreign national to safeguard the minor's interests during the removal proceedings*.*
+<sup>4</sup> The competent cantonal authorities shall immediately appoint a representative for any unaccompanied minor foreign national to safeguard the minor's interests during the return proceedings*.*
 
 <sup>5</sup> The Federal Council shall determine the role, responsibilities and duties of the representative mentioned in paragraph 4.[^64-3]
 
@@ -1220,11 +1242,11 @@ The competent authorities shall issue an ordinary removal order if:
 
 **Removal under the Dublin Association Agreements**[^64a-1]
 
-<sup>1</sup> If a different state that is bound by one of the Dublin Association Agreements (para. 4) is responsible for conducting an asylum procedure on the basis of Regulation (EC) No. 604/2013[^64a-2] (Dublin State), SEM shall issue a removal order against a person who is residing illegally in Switzerland.[^64a-3]
+<sup>1</sup> If a different state that is bound by one of the Dublin Association Agreements (para. 4) is responsible for conducting an asylum or return procedure on the basis of Regulation (EC) No. 604/2013[^64a-2] (Dublin State), SEM shall issue a return decision against a person who is residing illegally in Switzerland.[^64a-3]
 
-<sup>2</sup> An appeal must be filed within five working days of notification of the order. The appeal does not have suspensive effect. The foreign national may apply for the order to be suspended within the deadline for filing the appeal. The Federal Administrative Court shall decide on the matter within five days of receipt of the application. If the removal order is not suspended within this period, it may be enforced.
+<sup>2</sup> An appeal must be filed within five working days of notification of the decision. The appeal does not have suspensive effect. The foreign national may apply for the order to be suspended within the deadline for filing the appeal. The Federal Administrative Court shall decide on the matter within five days of receipt of the application. If the removal is not suspended within this period, it may be enforced.
 
-<sup>3</sup> The canton of residence of the foreign national concerned is responsible for the enforcement of the removal order and, if necessary, for the payment and funding of social and emergency assistance.
+<sup>3</sup> The canton of residence of the foreign national concerned is responsible for the enforcement of the removal and, if necessary, for the payment and funding of social and emergency assistance.
 
 <sup>3bis</sup> In the case of unaccompanied minors, Article 64 paragraph 4 applies.[^64a-4]
 
@@ -1237,9 +1259,9 @@ The competent authorities shall issue an ordinary removal order if:
 
 #### Art. 64b
 
-**Removal order on standard form**[^64b-1]
+**Return decision on standard form**[^64b-1]
 
-Where a person has entered Switzerland illegally, they are notified of the removal order by means of a standard form.
+Where a person has entered Switzerland illegally, they are notified of the return decision by means of a standard form.
 
 [^64b-1]: Inserted by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
@@ -1254,7 +1276,7 @@ Foreign nationals shall be removed without being subjected to any formal procedu
 - a. they are being readmitted by Belgium, Germany, Estonia, France, Italy, Latvia, Lithuania, Luxembourg, the Netherlands, Norway, Austria, Poland, Sweden, Slovakia, Slovenia, Spain or Hungary on the basis of a readmission agreement;
 - b.[^64c-2] they have been refused entry previously in accordance with Article 14 of the Schengen Borders Code[^64c-3].
 
-<sup>2</sup> If requested immediately by the person concerned, an order shall be issued on a standard form (Art. 64*b*).
+<sup>2</sup> If requested immediately by the person concerned, a decision shall be issued on a standard form (Art. 64*b*).
 
 [^64c-1]: Inserted by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 [^64c-2]: Amended by Annex No 1 of the FD of 15 Dec. 2017 (Adoption of Regulation [EU] 2016/1624 on the European Border and Coast Guard), in force since 15 Sept. 2018 ([AS 2018 3161](https://fedlex.data.admin.ch/eli/oc/2018/507); [BBl 2017 4155](https://fedlex.data.admin.ch/eli/fga/2017/1056)).
@@ -1264,11 +1286,11 @@ Foreign nationals shall be removed without being subjected to any formal procedu
 
 **Departure deadline and immediate enforcement**[^64d-1]
 
-<sup>1</sup> On issuing the removal order, an appropriate departure deadline of between seven and thirty days must be set*.* A longer period must be set or the departure deadline extended if special circumstances such as the family situation, health problems or a long period of stay so require*.*
+<sup>1</sup> On issuing the return decision, an appropriate departure deadline of between seven and thirty days must be set*.* A longer period must be set or the departure deadline extended if special circumstances such as the family situation, health problems or a long period of stay so require*.*
 
 <sup>2</sup>
 
-The removal order must be enforced immediately or a departure deadline less than seven days hence may be set where:
+The return decision shall be immediately enforceable or a departure deadline less than seven days hence may be set where:
 
 - a. the person concerned represents a threat to public security and order or represents a threat to internal or external security;
 - b. specific indications lead to the belief that the person concerned intends to evade deportation;
@@ -1292,9 +1314,9 @@ The following specific indications in particular lead to the belief that a perso
 
 #### Art. 64e
 
-**Obligations on giving notice of a removal order**[^64e-1]
+**Obligations on giving notice of a return decision**[^64e-1]
 
-On giving notice of a removal order, the competent authority may require the foreign national concerned:
+On giving notice of a return decision, the competent authority may require the foreign national concerned:
 
 - a. to report to an authority regularly;
 - b. to provide appropriate financial security;
@@ -1304,11 +1326,11 @@ On giving notice of a removal order, the competent authority may require the for
 
 #### Art. 64f
 
-**Translation of the removal order**[^64f-1]
+**Translation of the return decision**[^64f-1]
 
-<sup>1</sup> The competent authority shall ensure that, if requested, the removal order is translated in writing or verbally into a language understood by the person concerned or which he or she may be assumed to understand*.*
+<sup>1</sup> The competent authority shall ensure that, if requested, the return decision is translated in writing or verbally into a language understood by the person concerned or which he or she may be assumed to understand*.*
 
-<sup>2</sup> If notice is given of the removal order by means of a standard form under Article 64*b*, no translation is made. The person concerned shall be provided with an information sheet with an explanation of the removal order.
+<sup>2</sup> If notice is given of the return decision by means of a standard form under Article 64*b*, no translation is made. The person concerned shall be provided with an information sheet with an explanation of the return decision.
 
 [^64f-1]: Inserted by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
@@ -1322,7 +1344,7 @@ On giving notice of a removal order, the competent authority may require the for
 
 <sup>2bis</sup> An appeal may be filed against SEM’s objection decision within 48 hours of notification thereof. The appeal does not have suspensive effect. The appellate authority shall decide on the appeal within 72 hours.[^65-4]
 
-<sup>3</sup> Persons subject to a removal order are permitted to remain in the airport international transit zone for a maximum of 15 days in order to prepare for their onward journey, provided deportation (Article 69) or detention pending deportation or coercive detention (Art. 76, 77 and 78) is not ordered. The provisions on temporary admission (Article 83) and on the filing of an asylum application (Article 22 AsylA[^65-5]) are reserved.[^65-6]
+<sup>3</sup> Persons subject to return are permitted to remain in the airport international transit zone for a maximum of 15 days in order to prepare for their onward journey, provided deportation (Article 69) or detention pending deportation or coercive detention (Art. 76, 77 and 78) is not ordered. The provisions on temporary admission (Article 83) and on the filing of an asylum application (Article 22 AsylA[^65-5]) are reserved.[^65-6]
 
 [^65-1]: Amended by Art. 2 of the FD of 13 June 2008 on the Approval and the Implementation of the Exchange of Notes between Switzerland and the European Community on the Acceptance of the Schengen Borders Code, in force since 12 Dec. 2008 ([AS 2008 5629](https://fedlex.data.admin.ch/eli/oc/2008/779)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. b; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^65-2]: Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 establishing a Community Code on the rules governing the movement of persons across borders (Schengen Borders Code), OJ. L 77 of 23.3.2016, p. 1; last amended by Regulation (EU) 2017/458, OJ. L 74 of 18.03.2017, p. 1.
@@ -1343,9 +1365,9 @@ On giving notice of a removal order, the competent authority may require the for
 
 <sup>1</sup>
 
-SEM shall, subject to paragraph 5, order a ban on entry against foreign nationals who have been issued with a removal order if:
+SEM shall, subject to paragraph 5, order a ban on entry against foreign nationals who have been issued with a return decision if:
 
-- a. the removal order may be enforced immediately in accordance with Article 64*d* paragraph 2 letters a–c;
+- a. the return decision may be enforced immediately in accordance with Article 64*d* paragraph 2 letters a–c;
 - b. the person does not leave by the appointed deadline;
 - c. the person has violated or represents a threat to public security and order in Switzerland or abroad; or
 - d. the person has been convicted of an offence or of an attempted offence under Article 115 paragraph 1, 116, 117 or 118.[^67-2]
@@ -1390,10 +1412,10 @@ A ban on entry may be ordered against foreign nationals who:
 
 The competent authority shall enter in the Schengen Information System (SIS) the data on third-country citizens subject to any of the following return decisions:
 
-- a. a removal order in accordance with Article 64;
+- a. a return decision in accordance with Article 64;
 - b. an expulsion order in accordance with Article 68;
 - c. an order for expulsion from Switzerland in accordance with Article 66*a* or 66*a*<sup>bis</sup> SCC[^68a-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^68a-3] where enforcement has been ordered;
-- d. a removal order where enforcement has been ordered in accordance with Articles 44 and 45 AsylA[^68a-4].
+- d. a return decision where enforcement has been ordered in accordance with Articles 44 and 45 AsylA[^68a-4].
 
 <sup>2</sup> Data on third-country citizens against whom bans on entry in accordance with Articles 67 and 68 paragraph 3 and an order for expulsion from Switzerland have been issued shall entered by the competent authority in the SIS provided the requirements of Regulation (EU) 2018/1861[^68a-5] have been met.
 
@@ -1487,7 +1509,7 @@ The competent cantonal authority shall deport foreign nationals if:
 
 - a. they fail to comply with the departure deadline;
 - b. if their removal or expulsion may be enforced immediately;
-- c.[^69-1] they are being held in detention in accordance with Articles 76 and 77 and a legally binding expulsion or removal order or a legally binding decision on expulsion under Article 66*a* or 66*a*<sup>bis</sup> SCC[^69-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^69-3] has been issued.
+- c.[^69-1] they are being held in detention in accordance with Articles 76 and 77 and a legally binding expulsion order, a return decision or a legally binding decision on expulsion under Article 66*a* or 66*a*<sup>bis</sup> SCC[^69-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^69-3] has been issued.
 
 <sup>2</sup> In the case of foreign nationals who are able to travel lawfully to more than one state, the competent authority may deport them to the country of their choice.
 
@@ -1505,9 +1527,9 @@ The competent cantonal authority shall deport foreign nationals if:
 
 **Search**
 
-<sup>1</sup> During expulsion or removal proceedings, the competent cantonal authority may arrange for the person concerned as well as the belongings they are carrying to be searched in order to seize travel and identity documents. The search may be conducted only by a person of the same sex.
+<sup>1</sup> During expulsion or return proceedings, the competent cantonal authority may arrange for the person concerned as well as the belongings they are carrying to be searched in order to seize travel and identity documents. The search may be conducted only by a person of the same sex.
 
-<sup>2</sup> If the court of first instance has issued a decision, the judicial authority may order a search of a dwelling or of other premises if it is suspected that a person subject to a removal or expulsion order may be hiding there, or that travel and identity documents required for the procedure and enforcement are hidden there.[^70-1]
+<sup>2</sup> If the court of first instance has issued a decision, the judicial authority may order a search of a dwelling or of other premises if it is suspected that a person subject to a return decision or expulsion order may be hiding there, or that travel and identity documents required for the procedure and enforcement are hidden there.[^70-1]
 
 [^70-1]: Amended by Annex No 1 of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
@@ -1537,7 +1559,7 @@ The Federal Department of Justice and Police (FDJP) shall support the cantons re
 
 <sup>1</sup> SEM and the cantons shall work together in the case of international return interventions on the basis of Regulation (EU) 2019/1896[^71a-2]; they shall provide the required personnel. The Confederation shall make compensatory payments to the cantons for these interventions. The Federal Council shall regulate the amount and modalities of these compensatory payments.[^71a-3]
 
-<sup>2</sup> The FDJP may enter into agreements with the competent European Union agency for the surveillance of the Schengen external borders relating to the deployment of personnel from SEM and the cantons in connection with international return interventions and the deployment of third parties to monitor returns.
+<sup>2</sup> The FDJP may enter into agreements with the competent European Union agency for the surveillance of the Schengen external borders relating to the deployment of personnel from SEM and the cantons in connection with international return interventions and the deployment of third parties to monitor removals.
 
 <sup>3</sup> The FDJP shall enter into an agreement with the cantons on the modalities of the deployment of personnel.
 
@@ -1561,11 +1583,11 @@ The Federal Department of Justice and Police (FDJP) shall support the cantons re
 
 <sup>1</sup>
 
-The attending medical professional shall on request disclose the medical data required to assess the fitness to travel of persons subject to a legally binding removal or expulsion order to the following authorities insofar as these authorities require the data to fulfil their statutory duties:
+The attending medical professional shall on request disclose the medical data required to assess the fitness to travel of persons subject to a legally binding return decision or expulsion order to the following authorities insofar as these authorities require the data to fulfil their statutory duties:
 
 - a. the cantonal authorities responsible for removal or expulsion;
-- b. employees of SEM who are responsible for the centralised organisation and coordination of the compulsory execution of removal and expulsion orders;
-- c. the medical professionals responsible on behalf of SEM for medical supervision on execution of removal and expulsion orders at the time of departure.
+- b. employees of SEM who are responsible for the centralised organisation and coordination of the compulsory execution of return decisions and expulsion orders;
+- c. the medical professionals responsible on behalf of SEM for medical supervision on execution of return decisions and expulsion orders at the time of departure.
 
 <sup>2</sup> The Federal Council regulates the retention and deletion of the data.
 
@@ -1575,17 +1597,7 @@ The attending medical professional shall on request disclose the medical data re
 
 [^72-1]
 
-<sup>1</sup> In order to ensure the enforcement of removal or expulsion or expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^72-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^72-3], foreign nationals are required to undergo a COVID-19 test if this is necessary in order to comply with the entry requirements of the person's native country or country of origin or of the competent Dublin State or the requirements of the airline concerned.
-
-<sup>2</sup> The competent authorities shall inform the person concerned in advance about this requirement and about the possibility of the compulsory conduct of tests under paragraph 3.
-
-<sup>3</sup> If the person concerned refuses to undergo a COVID-19 test, the competent authorities for the enforcement of removal or expulsion or expulsion from Switzerland may conduct the test against the person's will, unless deportation can be enforced by other less stringent means. While conducting the test, no force may be used that could endanger the health of the person concerned. The compulsory conduct of COVID-19 tests is not permitted in the case of children and young persons under the age of 15.
-
-<sup>4</sup> The COVID-19 tests shall be conducted by medical personnel who have been specifically trained for the purpose. They shall use the least invasive form of test suitable for the person concerned. If the personnel take the view that conducting the test could harm the health of the person concerned, they shall not conduct the test.
-
 [^72-1]: Repealed by No IV 2 of the FA of 16 Dec. 2005 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)). Amended by No I of the FA of 1 Oct. 2021, in force since 2 Oct. 2021 to 31 Dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), extended from 17 Dec. 2022 to 30 June 2024 in accordance with No I of the FA of 16 Dec. 2022 (Covid-19 Test on Deportation) ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
-[^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^72-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 ### Section 5 Coercive Measures
 
@@ -1628,7 +1640,7 @@ If a person is detained, they must:
 The competent cantonal authority may require a person not to leave the area they were allocated to or not to enter a specific area if:
 
 - a. they do not hold a short stay, residence or settlement permit and they disrupt or represent a threat to public security and order; this measure serves in particular to combat illegal drug trafficking; or
-- b.[^74-1] they are subject to a legally binding expulsion or removal order and specific indications lead to the belief that the person concerned will not leave before the departure deadline or has failed to observe the departure deadline.
+- b.[^74-1] they are subject to a legally binding expulsion order or return decision and specific indications lead to the belief that the person concerned will not leave before the departure deadline or has failed to observe the departure deadline.
 - c.[^74-2] deportation has been postponed (Art. 69 para. 3).
 
 <sup>1bis</sup> The competent cantonal authority shall require a person who is accommodated in a special centre under Article 24*a* AsylA[^74-3] not to leave the area they were allocated to or not to enter a specific area.[^74-4]
@@ -1649,14 +1661,14 @@ The competent cantonal authority may require a person not to leave the area they
 
 <sup>1</sup>
 
-To facilitate the conduct of removal or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^75-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^75-2], the competent cantonal authority may detain a person who does not hold a short stay, residence or settlement permit for a maximum of six months while preparing to decide on that person’s residence status if that person:[^75-3]
+To facilitate the conduct of return or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^75-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^75-2], the competent cantonal authority may detain a person who does not hold a short stay, residence or settlement permit for a maximum of six months while preparing to decide on that person’s residence status if that person:[^75-3]
 
-- a.[^75-4] refuses during asylum proceedings, removal or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC to disclose their identity, submits several applications for asylum using various identities, or repeatedly fails to comply with a summons without sufficient reason or ignores other instructions issued by the authorities in the asylum procedure;
+- a.[^75-4] refuses during asylum proceedings, return or expulsion proceedings or criminal proceedings in which the potential penalty includes an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC or Article 49*a* or 49*a*<sup>bis</sup> MCC to disclose their identity, submits several applications for asylum using various identities, or repeatedly fails to comply with a summons without sufficient reason or ignores other instructions issued by the authorities in the asylum procedure;
 - b. leaves an area allocated to them in accordance with Article 74 or enters an area from which they are excluded;
 - c. enters Swiss territory despite a ban on entry and cannot be immediately removed;
-- d. has been made subject to a removal order and has submitted an application for asylum following the legally binding revocation (Art. 62 and 63) or non-renewal of the permit because they have violated or represent a threat to public security and order or because they represent a threat to internal or external security;
+- d. has been made subject to a return decision or expulsion order and has submitted an application for asylum following the legally binding revocation (Art. 62 and 63) or non-renewal of the permit because they have violated or represent a threat to public security and order or because they represent a threat to internal or external security;
 - e. submits an application for asylum after expulsion (Art. 68);
-- f. stays unlawfully in Switzerland and submits an application for asylum with the obvious intention of avoiding the imminent enforcement of a removal or expulsion order; such an intention shall be suspected if it were possible and reasonable to file the asylum application earlier and if the application is submitted in close chronological relation to detention, criminal proceedings, the enforcement of a penalty or the issue of a removal order;
+- f. stays unlawfully in Switzerland and submits an application for asylum with the obvious intention of avoiding the imminent enforcement of a return decision or expulsion order; such an intention shall be suspected if it were possible and reasonable to file the asylum application earlier and if the application is submitted in close chronological relation to detention, criminal proceedings, the enforcement of a penalty or the issue of a return decision;
 - g. seriously threatens other persons or significantly endangers the life and limb of other persons and is therefore being prosecuted or has been convicted;
 - h. has been convicted of a felony;
 - i.[^75-5] is a risk to Switzerland’s internal or external security according to findings made by fedpol or the FIS.
@@ -1677,7 +1689,7 @@ To facilitate the conduct of removal or expulsion proceedings or criminal procee
 
 <sup>1</sup>
 
-If the court of first instance has issued an expulsion or removal order or an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^76-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^76-2], the competent authority may ensure the enforcement of the decision by:[^76-3]
+If the court of first instance has issued an expulsion order or return decision or an order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^76-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^76-2], the competent authority may ensure the enforcement of the decision by:[^76-3]
 
 - a. leaving the person concerned in detention if, based on Article 75, they are already in detention;
 - b.
@@ -1688,7 +1700,7 @@ If the court of first instance has issued an expulsion or removal order or an or
   - 2\.[^76-5] ...
   - 3\.[^76-6] specific indications lead to the belief that they are seeking to evade deportation, in particular because they fail to comply with the obligation to cooperate in accordance with Article 90 of this Act and Article 8 paragraph 1 letter a or paragraph 4 AsylA[^76-7],
   - 4\. their previous conduct leads to the conclusion that they will refuse to comply with official instructions,
-  - 5\.[^76-8] the decision to remove the person concerned is issued in a federal centre and enforcement of the removal is imminent.
+  - 5\.[^76-8] the return decision is issued in a federal centre and enforcement of the removal is imminent.
   - 6\.[^76-9] ...
 
 <sup>1bis</sup> The detention order in Dublin cases is governed by Article 76*a.*[^76-10]
@@ -1729,7 +1741,7 @@ The competent authority may order the detention of the foreign national concerne
 
 The following specific indications suggest that the person concerned intends to evade removal:
 
-- a. The person concerned disregards official orders in the asylum or removal proceedings, in particular by refusing to disclose their identity, thus failing to comply with their duty to cooperate under Article 8 paragraph 1 letter a AsylA[^76a-3] or by repeatedly failing to comply with a summons without sufficient excuse.
+- a. The person concerned disregards official orders in the asylum or return proceedings, in particular by refusing to disclose their identity, thus failing to comply with their duty to cooperate under Article 8 paragraph 1 letter a AsylA[^76a-3] or by repeatedly failing to comply with a summons without sufficient excuse.
 - b. Their conduct in Switzerland or abroad leads to the conclusion that they wish to defy official orders.
 - c. They submit two or more asylum applications under different identities.
 - d. They leave the area that they are allocated to or enter an area from which they are excluded under Article 74.
@@ -1746,7 +1758,7 @@ The person concerned may remain or be placed in detention from the date of the d
 
 - a. seven weeks while preparing the decision on responsibility for the asylum application; this includes submitting the request to take charge to the other Dublin State, waiting for the response or tacit acceptance, and drafting and giving notice of the decision;
 - b. five weeks during proceedings under Article 5 of Regulation (EC) No 1560/2003[^76a-5];
-- c. six weeks to ensure enforcement from notice being given of the removal or expulsion decision or the date on which the suspensive effect of any appeal against a first instance decision on removal or expulsion ceases to apply and the transfer of the person concerned to the competent Dublin State.
+- c. six weeks to ensure enforcement from notice being given of the return or expulsion decision or the date on which the suspensive effect of any appeal against a first instance decision on return or expulsion ceases to apply and the transfer of the person concerned to the competent Dublin State.
 
 <sup>4</sup> If a person refuses to board the means of transport being used to effect the transfer to the competent Dublin State, or if they prevent the transfer in any other way through their personal conduct, they may, in order to guarantee the transfer, be placed in detention if a detention order under paragraph 3 letter c is no longer possible and a less restrictive measure will not achieve a satisfactory result. The person may be detained until transfer is again possible, but no longer than six weeks. The period of detention may be extended with the consent of a judicial authority if the person concerned remains unprepared to modify their conduct. The maximum duration of this period of detention is three months.
 
@@ -1778,11 +1790,11 @@ The competent cantonal authority may detain a person to ensure the enforcement o
 
 **Coercive detention**
 
-<sup>1</sup> If a person does not fulfil their obligation to leave Switzerland by the appointed deadline and if the legally enforceable removal or expulsion order or legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^78-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^78-2] cannot be enforced due to their personal conduct, they may be detained to ensure that the obligation to leave Switzerland is complied with, provided it is not permitted to order detention pending deportation and a more lenient measure would not achieve what is required.[^78-3]
+<sup>1</sup> If a person does not fulfil their obligation to leave Switzerland by the appointed deadline and if the legally enforceable return decision or expulsion order or legally enforceable order for expulsion from Switzerland under Article 66*a* or 66*a*<sup>bis</sup> SCC[^78-1] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^78-2] cannot be enforced due to their personal conduct, they may be detained to ensure that the obligation to leave Switzerland is complied with, provided it is not permitted to order detention pending deportation and a more lenient measure would not achieve what is required.[^78-3]
 
 <sup>2</sup> Detention may be ordered for one month. It may, however, be extended by two months with consent of the cantonal judicial authority if the person concerned remains unwilling to change their conduct and leave the country. Article 79 remains reserved.[^78-4]
 
-<sup>3</sup> Detention and its extension are ordered by the authorities of the canton which is responsible for enforcing the removal or expulsion order. If the person concerned is already in detention based on Articles 75, 76 or 77, they may be left in detention if the requirements of paragraph 1 are fulfilled.[^78-5]
+<sup>3</sup> Detention and its extension are ordered by the authorities of the canton which is responsible for enforcing the return decision or expulsion order. If the person concerned is already in detention based on Articles 75, 76 or 77, they may be left in detention if the requirements of paragraph 1 are fulfilled.[^78-5]
 
 <sup>4</sup> The first-time detention order must be reviewed at the latest after 96 hours by a judicial authority on the basis of an oral hearing. At the request of the detainee, the extension of detention must be reviewed by the judicial authority within eight working days on the basis of an oral hearing. The power of review is governed by Article 80 paragraphs 2 and 4.
 
@@ -1822,9 +1834,9 @@ The maximum term of detention may be extended with the consent of the cantonal j
 
 **Detention order and detention review**
 
-<sup>1</sup> Detention shall be ordered by the authorities of the canton responsible for enforcing the removal or expulsion order. In the case of persons staying in federal centres, the canton where the centre is located is responsible for ordering detention in preparation for departure. In cases covered by Article 76 paragraph 1 letter b number 5, detention shall be ordered by the canton where the centre is located.[^80-1]
+<sup>1</sup> Detention shall be ordered by the authorities of the canton responsible for enforcing the return decision or expulsion order. In the case of persons staying in federal centres, the canton where the centre is located is responsible for ordering detention in preparation for departure. In cases covered by Article 76 paragraph 1 letter b number 5, detention shall be ordered by the canton where the centre is located.[^80-1]
 
-<sup>1bis</sup> In cases under Article 76 paragraph 1 letter b number 5, detention is ordered by the canton in which the federal centres are located; if in accordance with Article 46 paragraph 1<sup>bis</sup> third sentence AsylA[^80-2] a canton other than the canton where the centres are located is responsible for executing removal, that canton is also responsible for ordering detention.[^80-3]
+<sup>1bis</sup> In cases under Article 76 paragraph 1 letter b number 5, detention is ordered by the canton in which the federal centres are located; if in accordance with Article 46 paragraph 1<sup>bis</sup> third sentence AsylA[^80-2] a canton other than the canton where the centres are located is responsible for enforcing removal, that canton is also responsible for ordering detention.[^80-3]
 
 <sup>2</sup> The legality and the appropriateness of detention must be reviewed at the latest within 96 hours by a judicial authority on the basis of an oral hearing. If detention pending deportation has been ordered in accordance with Article 77, the detention review procedure shall be carried out in writing.[^80-4]
 
@@ -1840,7 +1852,7 @@ The maximum term of detention may be extended with the consent of the cantonal j
 
 The detention order shall be revoked if:
 
-- a. the reason for detention ceases to apply or the removal or expulsion order proves to be unenforceable for legal or practical reasons;
+- a. the reason for detention ceases to apply or the return decision or expulsion order proves to be unenforceable for legal or practical reasons;
 - b. a request for release from detention is granted;
 - c. the detainee becomes subject to a custodial sentence or measure.
 
@@ -1876,7 +1888,7 @@ The following authorities are responsible for issuing detention orders under Art
 
 The detention order shall be revoked if:
 
-- a. the reason for detention ceases to apply or the removal or expulsion order proves to be unenforceable for legal or practical reasons;
+- a. the reason for detention ceases to apply or the return decision or expulsion order proves to be unenforceable for legal or practical reasons;
 - b. a request for release from detention is granted;
 - c. the detainee becomes subject to a custodial sentence or measure.
 
@@ -1902,7 +1914,7 @@ The detention order shall be revoked if:
 
 The detention arrangements are otherwise governed by:
 
-- a. Article 16 paragraph 3 and 17 of Directive 2008/115/EC[^81-4] for returns to a third country;
+- a. Article 16 paragraph 3 and 17 of Directive 2008/115/EC[^81-4] for removals to a third country;
 - b. Article 28 paragraph 4 of Regulation (EU) No 604/2013[^81-5] for Dublin transfers;
 - c.[^81-6] in accordance with Article 37 of the Convention of 20 November 1989[^81-7] on the Rights of the Child.[^81-8]
 
@@ -1938,7 +1950,7 @@ The Confederation shall contribute to the cantons’ operating costs for detaini
 
 - a. asylum seekers;
 - b. refugees and other foreign nationals who are detained in connection with the revocation of temporary admission;
-- c. foreign nationals whose detention has been ordered by SEM in connection with a removal order;
+- c. foreign nationals whose detention has been ordered by SEM in connection with a return decision;
 - d. refugees who are expelled in accordance with Article 65 AsylA[^82-3].
 
 <sup>3</sup>
@@ -1976,7 +1988,7 @@ The Confederation may contribute for a limited period in the form of a daily all
 
 <sup>7</sup>
 
-Temporary admission shall not be ordered in terms of paragraphs 2 and 4 if the person removed:[^83-5]
+Temporary admission shall not be ordered in terms of paragraphs 2 and 4 if the person subject to a return decision or an expulsion order:[^83-5]
 
 - a.[^83-6] has been sentenced to a long-term custodial sentence in Switzerland or abroad or has been made subject to a criminal law measure in terms of Article 59–61 or 64 of the SCC[^83-7];
 - b. has seriously or repeatedly violated or represented a threat to public security and order in Switzerland or abroad or represented a threat to internal or the external security; or
@@ -2119,11 +2131,12 @@ The spouse of a temporarily admitted persons and their unmarried children under 
 
 <sup>2</sup> In the case of single children under the age of 18, the requirement set out in paragraph 7 letter d does not apply. The requirement of Article 49*a* paragraph 2 may be also waived for good cause.
 
-<sup>3</sup> If, on assessing the reunification of spouses in accordance with Articles 42–45, SEM has reason to believe that there are grounds under Article 105 numbers 5 or 6 CC[^85c-3] for the marriage to be annulled, they shall report this to the competent authority under Article 106 CC. The request for the reunification of spouses is suspended until this authority makes its decision. If the authority raises an action for annulment, the request is suspended until a legally binding judgment has been issued.
+<sup>3</sup> If, on assessing the reunification in accordance with paragraph 1, SEM has reason to believe that there are grounds under Article 105 number 5 or 105*a* CC[^85c-3] for the marriage to be annulled, they shall report this to the competent authority under Article 106 CC.[^85c-4] The request for the reunification of spouses is suspended until this authority makes its decision. If the authority raises an action for annulment, the request is suspended until a legally binding judgment has been issued.
 
 [^85c-1]: Inserted by No I of the FA of 17 Dec. 2021 (Restrictions on Travelling Abroad and Modification of Temporary Admission Status), in force since 1 June 2024 ([AS 2024 188](https://fedlex.data.admin.ch/eli/oc/2024/188); [BBl 2020 7457](https://fedlex.data.admin.ch/eli/fga/2020/1945)).
 [^85c-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^85c-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^85c-4]: Amended by Annex No 1 of the FA of 14 June 2024 (Measures against Marriages involving Minors), in force since 1 Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 
 #### Art. 86
 
@@ -2830,7 +2843,7 @@ The data in accordance with Article 104 paragraph 3 and the results of the compa
 
 **Access to passenger data in individual cases**[^104c-1]
 
-<sup>1</sup> In order to conduct border controls, to combat illegal migration or to enforce removal orders, air carriers must on request provide the authorities responsible for border controls with passenger lists.
+<sup>1</sup> In order to conduct border controls, to combat illegal migration or to enforce return decisions, air carriers must on request provide the authorities responsible for border controls with passenger lists.
 
 <sup>2</sup>
 
@@ -3075,8 +3088,8 @@ The Federal Council shall regulate:
 
 The information system assists with:
 
-- a. the processing of personal data pertaining to foreign nationals in connection with the enforcement of removal, expulsion or judicial expulsion orders, voluntary return or return assistance or counselling, including the processing of sensitive personal data;
-- b. the administration and supervision of the various phases of the removal, expulsion or judicial expulsion process and the tasks related to return, including return assistance and counselling and the financial payments associated with return;
+- a. the processing of personal data pertaining to foreign nationals in connection with the enforcement of the return decisions, expulsion orders or judicial expulsion orders, voluntary return or return assistance or counselling, including the processing of sensitive personal data;
+- b. the administration and supervision of the various phases of the return, expulsion or judicial expulsion procedure and the tasks related to return, including return assistance and counselling and the financial payments associated with return;
 - c. the production of statistics;
 - d.[^109f-3] the transmission of statistics and of personal data in accordance with Article 105 paragraph 2 to the European Union agency responsible for the surveillance of the Schengen external borders based on Regulation (EU) 2019/1896[^109f-4].
 
@@ -3405,11 +3418,11 @@ Any person who:
 
 <sup>3</sup> If the offence is committed through negligence, the penalty is a fine.
 
-<sup>4</sup> If removal or expulsion proceedings are pending, criminal proceedings that have been commenced solely in respect of an offence under paragraph 1 letters a, b or d shall be adjourned until the removal or expulsion proceedings have reached a legally binding conclusion. If removal or expulsion proceedings are anticipated, the criminal proceedings may be adjourned.[^115-2]
+<sup>4</sup> If return or expulsion proceedings are pending, criminal proceedings that have been commenced solely in respect of an offence under paragraph 1 letters a, b or d shall be adjourned until the return or expulsion proceedings have reached a legally binding conclusion. If return or expulsion proceedings are anticipated, the criminal proceedings may be adjourned.[^115-2]
 
-<sup>5</sup> If a sentence is expected for an offence under paragraph 1 letters a, b or d the imposition or execution of which would preclude the imminent enforcement of a legally binding removal or expulsion order, the competent authority shall refrain from any prosecution, committal to court or the imposition of penalties.[^115-3]
+<sup>5</sup> If a sentence is expected for an offence under paragraph 1 letters a, b or d the imposition or execution of which would preclude the imminent enforcement of a legally binding return decision or expulsion order, the competent authority shall refrain from any prosecution, committal to court or the imposition of penalties.[^115-3]
 
-<sup>6</sup> Paragraphs 4 and 5 do not apply if the person concerned has re-entered Switzerland in disregard of a ban on entry or if it has not been possible to enforce a removal or expulsion order because of the person’s conduct.[^115-4]
+<sup>6</sup> Paragraphs 4 and 5 do not apply if the person concerned has re-entered Switzerland in disregard of a ban on entry or if it has not been possible to enforce a return decision or expulsion order because of the person’s conduct.[^115-4]
 
 [^115-1]: Amended by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^115-2]: Amended by No I of the FA of 14 Dec. 2018 (Procedural Regulations and Information Systems), in force since 1 June 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)).
@@ -3749,6 +3762,20 @@ Administrative criminal proceedings relating to a violation of the duty of care 
 
 [^126d-1]: Inserted by Annex No 1 of the FA of 25 Sept. 2015, in force since 1 March 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^126d-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+
+#### Art. 126e and 126f
+
+[^126e126f-1]
+
+[^126e126f-1]: Come into force at a later date ([BBl 2020 7911](https://fedlex.data.admin.ch/eli/fga/2020/2018); [2021 2999](https://fedlex.data.admin.ch/eli/fga/2021/2999)).
+
+#### Art. 126g
+
+**Transitional provision to the Amendment of 14 June 2024**[^126g-1]
+
+The new law applies to applications under Article 50 that are filed before the Amendment of 14 June 2024 comes into force.
+
+[^126g-1]: Inserted by No I of the FA of 14 June 2024 (Hardship Regulations in Domestic Violence Cases), in force since 1 Jan. 2025 ([AS 2024 713](https://fedlex.data.admin.ch/eli/oc/2024/713); [BBl 2023 2418](https://fedlex.data.admin.ch/eli/fga/2023/2418), [2851](https://fedlex.data.admin.ch/eli/fga/2023/2851)).
 
 #### Art. 127
 
