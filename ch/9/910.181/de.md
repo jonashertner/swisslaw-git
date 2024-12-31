@@ -3,18 +3,18 @@ sr: "910.181"
 title: Verordnung des WBF vom 22. September 1997 über die biologische Landwirtschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die biologische Landwirtschaft
 
-vom 22. September 1997 (Stand am 1. Januar 2024)
+vom 22. September 1997 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
@@ -72,7 +72,7 @@ Für die Verarbeitung von Lebensmitteln, ausgenommen Hefe und Wein, dürfen verw
 Zur Berechnung für die Zwecke von Artikel 18 Absatz 1 Buchstabe b der Bio-Verordnung werden:
 
 - a. Lebensmittelzusatzstoffe nach Anhang 3 Teil A, die in der Spalte für den Zusatzstoff-Code mit einem Sternchen gekennzeichnet sind, zu den Zutaten landwirtschaftlichen Ursprungs gerechnet;
-- b. Zubereitungen und Stoffe nach Absatz 1 Buchstaben b–e und Stoffe nach Anhang 3 Teil A, die in der Spalte für den Zusatzstoff-Code nicht mit einem Sternchen gekennzeichnet sind, nicht zu den Zutaten landwirtschaftlichen Ursprungs gerechnet.
+- b.[^3-9] Zubereitungen und Stoffe nach Absatz 1 Buchstaben b, d und e und Stoffe nach Anhang 3 Teil A, die in der Spalte für den Zusatzstoff-Code nicht mit einem Sternchen gekennzeichnet sind, nicht zu den Zutaten landwirtschaftlichen Ursprungs gerechnet.
 
 <sup>3</sup> Die Bestimmungen der Lebensmittelgesetzgebung sind vorbehalten.
 
@@ -84,6 +84,7 @@ Zur Berechnung für die Zwecke von Artikel 18 Absatz 1 Buchstabe b der Bio-Veror
 [^3-6]: Fassung gemäss Ziff. I der V des WBF vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
 [^3-7]: [SR 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
 [^3-8]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^3-9]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 3a
 
@@ -147,9 +148,10 @@ Ionenaustausch- und Adsorptionsharzverfahren sind nur bei der Aufbereitung von L
 
 <sup>1</sup> Bezüglich der gattungsspezifischen Anforderungen an die biologische Nutztierhaltung gelten die Bestimmungen nach Anhang 5.
 
-<sup>2</sup> Die Anforderungen an den Laufhof und den Aussenklimabereich sowie weitere Vorschriften für die Unterbringung bei den verschiedenen Tierarten sind in Anhang 6 festgelegt.
+<sup>2</sup> Die Anforderungen an die Gesamtfläche für Tiere der Schweinegattung sind in Anhang 6 festgelegt.[^4abis-2]
 
 [^4abis-1]: Ursprünglich Art. 4*a*. Eingefügt durch Ziff. I der V des WBF vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)).
+[^4abis-2]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 4a<sup>ter</sup>
 
@@ -162,7 +164,7 @@ Verboten sind folgende Futtermittelzusatzstoffe und -verarbeitungshilfsstoffe:
 - a. gentechnisch veränderte Organismen (GVO);
 - b. antimikrobielle Leistungsförderer;
 - c. Zusatzstoffe zur Verhütung der Kokzidiose und der Histomoniasis;
-- d. Aminosäuren und ihre Salze sowie analoge Produkte;
+- d.[^4ater-2] synthetische Aminosäuren und ihre Salze sowie analoge Produkte;
 - e. nicht proteinhaltige Stickstoffverbindungen (NPN-Verbindungen);
 - f. Stoffe und Herstellungsverfahren, die in Bezug auf die tatsächliche Beschaffenheit des Erzeugnisses irreführend sein könnten.
 
@@ -171,6 +173,7 @@ Verboten sind folgende Futtermittelzusatzstoffe und -verarbeitungshilfsstoffe:
 <sup>3</sup> Die Extraktion mit organischen Lösemitteln mit Ausnahme von Ethanol, die Fetthärtung und die Raffination durch eine chemische Behandlung sind verboten.
 
 [^4ater-1]: Ursprünglich Art. 4*a*<sup>bis</sup>. Eingefügt durch Ziff. I der V des WBF vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
+[^4ater-2]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 4b
 
@@ -194,9 +197,11 @@ Bei der Verarbeitung von biologischen Futtermitteln und der Fütterung von Tiere
 
 **Reinigungs- und Desinfektionsmittel**[^4c-1]
 
-Die Reinigungs- und Desinfektionsmittel nach Anhang 8 sind in der biologischen Nutztierhaltung zugelassen.
+<sup>1</sup> Die Stoffe nach Anhang 8 Ziffer 1 und die Produkte nach Anhang 8 Ziffer 2 sind in der biologischen Nutztierhaltung zugelassen.
 
-[^4c-1]: Eingefügt durch Ziff. I der V des WBF vom 23. Aug. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)).
+<sup>2</sup> Die Stoffe nach Anhang 8 Ziffer 3 dürfen nicht als Biozidprodukte zur Desinfektion verwendet werden.
+
+[^4c-1]: Eingefügt durch Ziff. I der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 4d
 
@@ -248,15 +253,16 @@ Imkereibetriebe dürfen ihre Erzeugnisse auch dann als biologische Erzeugnisse k
 
 <sup>1</sup> Bei der Wahl der Rassen ist der Fähigkeit der Tiere zur Anpassung an die Umweltbedingungen, ihrer Vitalität und ihrer Widerstandsfähigkeit gegen Krankheiten Rechnung zu tragen. Europäischen Rassen der *Apis mellifera* und ihren lokalen Ökotypen ist der Vorzug zu geben.
 
-<sup>2</sup> Zur Erneuerung des Bestands können jährlich 10 Prozent der Königinnen und Schwärme, die dieser Verordnung nicht entsprechen, der biologischen Einheit zugesetzt werden, sofern die Königinnen und Schwärme in den Bienenstöcken auf Waben oder Wachsböden aus biologischen Einheiten gesetzt werden. In diesem Fall gilt der Umstellungszeitraum nicht.
+<sup>2</sup> Zur Erneuerung des Bestands können jährlich 20 Prozent der Königinnen und Schwärme, die dieser Verordnung nicht entsprechen, der biologischen Einheit zugesetzt werden, sofern die Königinnen und Schwärme in den Bienenstöcken auf Waben oder Mittelwände aus biologischen Einheiten gesetzt werden. In diesen Fällen gilt der Umstellungszeitraum nicht.[^8-1]
 
-<sup>2bis</sup> Für Leistungsprüfungen nach Artikel 4 der Tierzuchtverordnung vom 14. November 2007[^8-1] können Bienen, die nicht aus Biobetrieben stammen, auf dem biologischen Betrieb gehalten werden, sofern sie in den Bienenstöcken auf Waben oder Wachsböden aus biologischen Einheiten gesetzt werden. In diesem Fall gilt der Umstellungszeitraum nicht.[^8-2]
+<sup>2bis</sup> Für Leistungsprüfungen nach Artikel 4 der Tierzuchtverordnung vom 14. November 2007[^8-2] können Bienen, die nicht aus Biobetrieben stammen, auf dem biologischen Betrieb gehalten werden, sofern sie in den Bienenstöcken auf Waben oder Wachsböden aus biologischen Einheiten gesetzt werden. In diesem Fall gilt der Umstellungszeitraum nicht.[^8-3]
 
-<sup>3</sup> Im Fall einer hohen Sterberate aus gesundheitlichen Gründen oder in Katastrophensituationen kann ein Bestand, nach vorgängiger schriftlicher Zustimmung durch die Zertifizierungsstelle, durch den Zukauf konventioneller Bienenvölker wiederaufgebaut werden, wenn Bienenvölker, die den Vorschriften dieser Verordnung entsprechen, nicht verfügbar sind; in diesem Fall gilt der Umstellungszeitraum von einem Jahr.[^8-3]
+<sup>3</sup> Im Fall einer hohen Sterberate aus gesundheitlichen Gründen oder in Katastrophensituationen kann ein Bestand, nach vorgängiger schriftlicher Zustimmung durch die Zertifizierungsstelle, durch den Zukauf konventioneller Bienenvölker wiederaufgebaut werden, wenn Bienenvölker, die den Vorschriften dieser Verordnung entsprechen, nicht verfügbar sind; in diesem Fall gilt der Umstellungszeitraum von einem Jahr.[^8-4]
 
-[^8-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)Ziff. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)Ziff. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 Abs. 1]. Siehe heute: die Tierzuchtverordnung vom 31. Okt. 2012 ([SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
-[^8-2]: Eingefügt durch Ziff. I der V des WBF vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
-[^8-3]: Fassung gemäss Ziff. I der V des WBF vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4895](https://fedlex.data.admin.ch/eli/oc/2004/735)).
+[^8-1]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+[^8-2]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)Ziff. II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)Ziff. II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 Abs. 1]. Siehe heute: die Tierzuchtverordnung vom 31. Okt. 2012 ([SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
+[^8-3]: Eingefügt durch Ziff. I der V des WBF vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
+[^8-4]: Fassung gemäss Ziff. I der V des WBF vom 10. Nov. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4895](https://fedlex.data.admin.ch/eli/oc/2004/735)).
 
 #### Art. 9
 
@@ -318,9 +324,11 @@ Zu jedem Bienenvolk hat der Betreiber ein Bienenvolkverzeichnis zu führen. Dari
 Die Krankheitsvorsorge in der Bienenhaltung beruht auf folgenden Grundsätzen:
 
 - a. Es müssen geeignete widerstandsfähige Rassen gewählt werden;
-- b. Es müssen geeignete Vorkehrungen zur Erhöhung der Krankheitsresistenz und Infektionsprophylaxe getroffen werden, z. B. regelmässige Verjüngung der Völker, systematische Inspektion der Bienenstöcke, um gesundheitliche Anomalien zu ermitteln, Kontrolle der männlichen Brut, regelmässige Desinfektion des Materials und der Ausrüstung mit für die Bioimkerei gemäss Anhang 8 zugelassenen Mitteln, unschädliche Beseitigung verseuchten Materials und verseuchter Quellen, regelmässige Erneuerung des Wachses und ausreichende Versorgung der Bienenstöcke mit Pollen und Honig.
+- b.[^13-1] Es müssen geeignete Vorkehrungen zur Erhöhung der Krankheitsresistenz und Infektionsprophylaxe getroffen werden, wie die regelmässige Verjüngung der Völker, die systematische Inspektion der Bienenstöcke, insbesondere der Brut, um gesundheitliche Anomalien zu ermitteln, die regelmässige Desinfektion des Materials und der Ausrüstung mit für die Bioimkerei nach Anhang 8 zugelassenen Stoffen, die regelmässige Wabenbauerneuerung und ausreichende Vorräte an Pollen und Honig in den Bienenstöcken.
 
 <sup>2</sup> Die Verwendung chemisch-synthetischer allopathischer Tierarzneimittel für präventive Behandlungen ist verboten.
+
+[^13-1]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 14
 
@@ -380,23 +388,42 @@ Die Krankheitsvorsorge in der Bienenhaltung beruht auf folgenden Grundsätzen:
 
 <sup>6</sup> Physikalische Behandlungen wie Dampf oder direkte Flamme sind zulässig.
 
-<sup>7</sup> Zur Säuberung und Desinfizierung von Materialien, Gebäuden, Einrichtungen, Werkzeug und Erzeugnissen, die in der Bienenzucht verwendet werden, sind nur die in Anhang 8 genannten geeigneten Stoffe zulässig.
+<sup>7</sup> Zur Säuberung und Desinfizierung von Materialien, Gebäuden, Einrichtungen, Werkzeug und Erzeugnissen, die in der Bienenzucht verwendet werden, sind nur die Stoffe nach Anhang 8 zulässig.[^16-1]
 
-## 2*a*. Abschnitt: Kontrollbescheinigung für Einfuhren
+[^16-1]: Fassung gemäss Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+
+## 2*a*. Abschnitt: Bestimmungen für die Aquakultur
 
 [^sec2a-1]
 
-[^sec2a-1]: Eingefügt durch Ziff. I der V des WBF vom 25. Nov. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 4292](https://fedlex.data.admin.ch/eli/oc/2002/696)).
+[^sec2a-1]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 16a
 
-**Verwaltung der Zugangsrechte zu Traces**[^16a-1]
+<sup>1</sup> Für die Umstellung von Algenzuchten und Aquakulturanlagen, für die Produktion und die Zucht von Algen, die in Aquakultur erzeugt werden, für die Sammlung von Wildalgen, für die Produktion, die Herkunft, die Fütterung und die Tiergesundheit von Aquakulturtieren und die Haltungspraktiken sowie für die Kontrollverfahren müssen die Vorgaben nach Anhang II Teil III der Verordnung (EU) 2018/848 in der Fassung gemäss Anhang 3*b* eingehalten werden.
+
+<sup>2</sup>
+
+Zudem gilt Folgendes:
+
+- a. Bei der Produktion von Salmoniden dürfen maximal 10 Prozent des gesamten Futterverzehrs bezogen auf die Trockensubstanz aus nicht biologischem Hämoglobinpulver bestehen.
+- b. In Aussen-Aquakulturanlagen dürfen bis zu 90 Prozent des Wassers im Kreislauf geführt werden.
+
+## 2*b*. Abschnitt: Kontrollbescheinigung für Einfuhren
+
+[^sec2b-1]
+
+[^sec2b-1]: Ursprünglich: *2a.* Abschnitt. Eingefügt durch Ziff. I der V des WBF vom 25. Nov. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 4292](https://fedlex.data.admin.ch/eli/oc/2002/696)).
+
+#### Art. 16a<sup>bis</sup>
+
+**Verwaltung der Zugangsrechte zu Traces**[^16abis-1]
 
 <sup>1</sup> Das BLW informiert die zuständige Stelle der Europäischen Kommission, wem es die Zugangsrechte zu Traces erteilt hat und koordiniert mit dieser Stelle die Zusammenarbeit und die Kontakte in Bezug auf Traces.
 
 <sup>2</sup> Es aktualisiert die Zugangsrechte bei Änderungen.
 
-[^16a-1]: Fassung gemäss Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
+[^16abis-1]: Ursprünglich: Art. 16*a*. Fassung gemäss Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
 #### Art. 16b
 
@@ -515,11 +542,11 @@ Soll eine Sendung vor der Verzollung einer oder mehreren Aufbereitungen im Sinne
 [^16f-4]: Aufgehoben durch Ziff. I der V des WBF vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16f-5]: Fassung gemäss Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
-## 2*b*. Abschnitt: Informationssystem für biologisches Saatgut und vegetatives Vermehrungsmaterial
+## 2*c*. Abschnitt: Informationssystem für biologisches Saatgut und vegetatives Vermehrungsmaterial
 
-[^sec2b-1]
+[^sec2c-1]
 
-[^sec2b-1]: Eingefügt durch Ziff. I der V des WBF vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5357](https://fedlex.data.admin.ch/eli/oc/2003/780)).
+[^sec2c-1]: Ursprünglich: *2**b**.* Eingefügt durch Ziff. I der V des WBF vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5357](https://fedlex.data.admin.ch/eli/oc/2003/780)).
 
 #### Art. 16g
 
@@ -549,13 +576,16 @@ Jede Eintragung muss mindestens folgende Angaben enthalten:
 - c. das Gebiet, in dem der Anbieter das Saatgut oder das vegetative Vermehrungsmaterial in der üblicherweise erforderlichen Zeit an den Verwender liefern kann;
 - d. das Land oder die Region, in dem bzw. in der die Sorte geprüft und für den Sortenkatalog zugelassen wurde;
 - e. den Termin, von dem an das Saatgut oder das vegetative Vermehrungsmaterial verfügbar ist;
-- f. den Namen und/oder die Codenummer der für die Kontrolle des Unternehmens zuständigen Kontrollbehörde oder -stelle.
+- f. den Namen und/oder die Codenummer der für die Kontrolle des Unternehmens zuständigen Kontrollbehörde oder -stelle;
+- g.[^16h-1] die gewichtsmässig verfügbare Menge für Saatgut und die zahlenmässig verfügbare Menge für vegetatives Vermehrungsmaterial.
+
+[^16h-1]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 16i
 
-**Liste des ausreichend verfügbaren Saatguts und vegetativem Vermehrungsmaterials**
+[^16i-1]
 
-Anhang 10 enthält die Liste der Arten oder Untergruppen der Arten, von welchen in der Schweiz ausreichende Mengen an Saatgut und vegetativem Vermehrungsmaterial aus biologischer Landwirtschaft und eine nahezu ausreichende Anzahl von Sorten aus biologischer Landwirtschaft vorhanden sind. Diese Liste muss im Informationssystem enthalten sein.
+[^16i-1]: Aufgehoben durch Ziff. I der V des WBF vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 #### Art. 16j
 
@@ -632,10 +662,13 @@ Biologische Produkte dürfen noch bis zum 31. Dezember 2007 gemäss den bisherig
 
 <sup>7</sup> Die Frist nach Absatz 6 wird für Ferkel bis 35 kg und für Junggeflügel bis zum 31. Dezember 2025 verlängert.[^u3-5]
 
+<sup>8</sup> Die Frist nach Absatz 7 wird bis zum 31. Dezember 2030 verlängert.[^u3-6]
+
 [^u3-2]: Eingefügt durch Ziff. I der V des WBF vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)).
 [^u3-3]: Eingefügt durch Ziff. I der V des WBF vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 [^u3-4]: Eingefügt durch Ziff. I der V des WBF vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
 [^u3-5]: Eingefügt durch Ziff. I der V des WBF vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^u3-6]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 ## Übergangsbestimmungen zur Änderung vom 1. September 2016
 
@@ -680,7 +713,10 @@ Biologische Produkte dürfen noch bis zum 31. Dezember 2007 gemäss den bisherig
 
 <sup>2</sup> Soweit es sich nicht um Lebensmittel für Personen mit besonderem Ernährungsbedarf nach Artikel 2 Buchstaben a–c VLBE[^u6-2] handelt, sind Ionenaustausch- und Adsorptionsharzverfahren für die Aufbereitung verarbeiteter biologischer Lebensmittel, noch bis zum 31. Dezember 2024 zugelassen. Am 31. Dezember 2024 vorhandene Bestände dürfen noch bis zu ihrer Erschöpfung abgegeben werden.
 
+<sup>3</sup> Die Fristen nach Absatz 2 werden bis zum 31. Dezember 2025 verlängert.[^u6-3]
+
 [^u6-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^u6-3]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 ## Übergangsbestimmungen zur Änderung vom 1. November 2023
 
@@ -692,13 +728,25 @@ Biologische Produkte dürfen noch bis zum 31. Dezember 2007 gemäss den bisherig
 
 <sup>2</sup> Bis zum 31. Dezember 2025 darf für die Herstellung von verarbeiteten Lebensmitteln Gellan (E 418) nach Anhang 3 Teil A aus nicht biologischer Produktion verwendet werden.
 
+<sup>3</sup> Die Frist nach Absatz 1 wird bis zum 31. Dezember 2025 verlängert.[^u7-2]
+
+[^u7-2]: Eingefügt durch Ziff. I der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+
+## Übergangsbestimmung zur Änderung vom 6. November 2024
+
+[^u8-1]
+
+[^u8-1]: [AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)
+
+Am 31. Dezember 2024 vorhandene Bestände an verarbeiteten Aquakulturerzeugnissen und Algen, die nach bisherigem Recht hergestellt wurden, dürfen noch bis zu ihrer Erschöpfung abgegeben werden.
+
 Anhang 1[^t-1]
 
 (Art. 1 und 16 Abs. 5)
 
 ## Zugelassene Pflanzenschutzmittel und Verwendungsvorschriften
 
-[^t-1]: Fassung gemäss Ziff. III Abs. 1 der V des WBF vom 1. Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)). Bereinigt gemäss Ziff. II Abs. 1 der V des WBF vom 18. Okt. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), vom 31. Okt. 2018 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), Ziff. II der V des WBF vom 23. Okt. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), Ziff. II Abs. 1 der V des WBF vom 11. Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) und vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^t-1]: Fassung gemäss Ziff. III Abs. 1 der V des WBF vom 1. Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)). Bereinigt gemäss Ziff. II Abs. 1 der V des WBF vom 18. Okt. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), vom 31. Okt. 2018 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), Ziff. II der V des WBF vom 23. Okt. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), Ziff. II Abs. 1 der V des WBF vom 11. Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)), vom 3. Nov. 2021 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)) und vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 Sämtliche gelisteten Pflanzenschutzmittel unterliegen den Anwendungsvorschriften nach der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^annex1-lvlu1-1] (PSMV). Strengere Verwendungsvorschriften für die biologische Produktion sind in der zweiten Spalte jeder Tabelle angegeben.
 
@@ -724,7 +772,7 @@ Sämtliche gelisteten Pflanzenschutzmittel unterliegen den Anwendungsvorschrifte
 <tr><td>Repellents pflanzlicher oder tierischer Herkunft</td><td>Nur auf nicht essbare Teile der Pflanze anzuwenden; im Falle der Verwendung von Schafsfett nur wenn Pflanzenmaterial nicht an Schafe oder Ziegen verfüttert wird</td></tr>
 <tr><td>*Salix spp. Cortex* (Weidenrindenextrakt)</td><td></td></tr>
 <tr><td>Senfmehl</td><td>Nur als Fungizid</td></tr>
-<tr><td>Terpene</td><td>Nur: Eugenol, Geraniol und Thymol</td></tr>
+<tr><td>Wässeriges Extrakt aus gekeimten Samenkörnern der Süsslupine *Lupinus albus*</td><td></td></tr>
 </table>
 
 [^annex1-lvlu1-lvl1-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
@@ -748,12 +796,13 @@ Sämtliche gelisteten Pflanzenschutzmittel unterliegen den Anwendungsvorschrifte
 <tr><td>Eisen-III-Phosphat (Eisen-III-Orthophosphat)</td><td></td></tr>
 <tr><td>Ethylen</td><td>Nur erlaubt zur: – Nachreifung von Bananen, Kiwis und Kakis, – Nachreifung von Zitrusfrüchten als Teil einer Strategie zur Vermeidung von Schäden durch Fruchtfliegen, – Blüteninduktion von Ananas, – Keimverhinderung bei Kartoffeln und Zwiebeln</td></tr>
 <tr><td>Fettsäuren (Seifenpräparate)</td><td>Alle Anwendungen erlaubt ausser als Herbizid</td></tr>
-<tr><td>Hilfsmittel zur Effizienzsteigerung wie Kiefernharzöle und Paraffinöle</td><td>Keine chemisch-synthetischen Stoffe</td></tr>
+<tr><td>Hilfsmittel zur Effizienzsteigerung wie Kiefernharzöle und Paraffinöle</td><td>Abgesehen von Hydroxypropylstärke keine chemisch-synthetischen Stoffe zulässig,</td></tr>
 <tr><td>Kalium- und Natriumhydrogencarbonat (Kalium-/Natriumbicarbonat)</td><td></td></tr>
 <tr><td>Kalkpräparate</td><td></td></tr>
 <tr><td>Kieselgur (Diatomeenerde)</td><td></td></tr>
 <tr><td>Kohlendioxid</td><td></td></tr>
 <tr><td>Kupferverbindungen in Form von: Kupferhydroxid, Kupferoxychlorid, (dreibasischem) Kupfersulfat, Kupferoxid, Kupferkalkbrühe (Bordeaux-Brühe)</td><td>Jahreshöchstmenge von 4 kg Kupfer-Metall je ha Rebbau: Jahreshöchstmenge von 6 kg Kupfer-Metall je ha; innert 5 aufeinander folgender Jahre maximal 20 kg Kupfer-Metall je ha</td></tr>
+<tr><td>Magnesiumhydrogenmetasilicat</td><td></td></tr>
 <tr><td>Maltodextrin</td><td>Nur als Insektizid und Akarizid</td></tr>
 <tr><td>Mechanische Abwehrmittel wie Kulturschutznetze, Schneckenzäune, beleimte Kunststoff-Fallen, Leimringe</td><td></td></tr>
 <tr><td>Natriumchlorid</td><td></td></tr>
@@ -763,6 +812,7 @@ Sämtliche gelisteten Pflanzenschutzmittel unterliegen den Anwendungsvorschrifte
 <tr><td>Rodentizide</td><td>Nur in Fallen. Ausschliesslich zur Bekämpfung von Schädlingen in Stallungen und Haltungseinrichtungen</td></tr>
 <tr><td>Schwefelkalk (Calciumpolysulfid)</td><td>Nur als Fungizid, Insektizid und Akarizid</td></tr>
 <tr><td>Schwefelpräparate</td><td></td></tr>
+<tr><td>Silicatmineral (Talkum E553b) Eisenpyrophosphat</td><td></td></tr>
 <tr><td>Tonerdepräparate</td><td></td></tr>
 <tr><td>Wasserstoffperoxid</td><td></td></tr>
 </table>
@@ -773,7 +823,7 @@ Anhang 2[^t-2]
 
 ## Zugelassene Dünger, Präparate und Substrate
 
-[^t-2]: Bereinigt gemäss Anhang 3 der Düngerbuch-Verordnung WBF vom 16. Nov. 2007 ([AS 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), Ziff. II Abs. 1 der V des WBF vom 18. Okt. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), Ziff. II der V des WBF vom 23. Okt. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), Ziff. II Abs. 1 der V des WBF vom 11. Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)), vom 3. Nov. 2021 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)) und vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
+[^t-2]: Bereinigt gemäss Anhang 3 der Düngerbuch-Verordnung WBF vom 16. Nov. 2007 ([AS 2007 6311](https://fedlex.data.admin.ch/eli/oc/2007/836)), Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)), Ziff. II Abs. 1 der V des WBF vom 18. Okt. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), Ziff. II der V des WBF vom 23. Okt. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), Ziff. II Abs. 1 der V des WBF vom 11. Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)), vom 3. Nov. 2021 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)), vom 1. Nov. 2023 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)) und vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 Dünger und Präparate können als biologisch-dynamisch bezeichnet werden, wenn sie nach den Richtlinien der biologisch-dynamischen Landwirtschaft hergestellt werden.
 
@@ -782,7 +832,9 @@ Die Bestimmungen der Dünger-Verordnung vom 1. November 2023[^annex2-lvlu1-1] bl
 <table>
 <tr><th>Bezeichnung</th><th colspan="3">Beschreibung; Anforderungen an die Zusammensetzung; Verwendungsvorschriften</th></tr>
 <tr><td colspan="4">1. Hofeigene Dünger</td></tr>
-<tr><td>Stallmist, Gülle Ernterückstände, Gründünger Stroh, anderes Mulchmaterial</td><td colspan="3"></td></tr>
+<tr><td>Stallmist, Gülle</td><td colspan="3"></td></tr>
+<tr><td>Ernterückstände, Gründünger</td><td colspan="3"></td></tr>
+<tr><td>Stroh, anderes Mulchmaterial</td><td colspan="3"></td></tr>
 <tr><td>Eierschalen</td><td colspan="3">Nur aus Freilandhaltung</td></tr>
 <tr><td colspan="4">2. Hoffremde Dünger und diesen gleichgestellte Erzeugnisse</td></tr>
 <tr><td colspan="4">**2.1. Erzeugnisse mineralischen Ursprungs**</td></tr>
@@ -807,7 +859,7 @@ Die Bestimmungen der Dünger-Verordnung vom 1. November 2023[^annex2-lvlu1-1] bl
 <tr><td>Getrockneter Stallmist und getrockneter Geflügelmist\*</td><td colspan="3">Tierarten müssen angegeben werden.</td></tr>
 <tr><td>Kompostierter Stallmist aus tierischen Exkrementen, einschliesslich Geflügelmist\*</td><td colspan="3">Tierarten müssen angegeben werden.</td></tr>
 <tr><td>Flüssige tierische Exkremente (Gülle, Jauche)\*</td><td colspan="3">Verwendung nach kontrollierter Fermentation und/oder geeigneter Verdünnung.</td></tr>
-<tr><td>Kompost oder Gärgut aus Haushaltabfällen\*</td><td colspan="3">Mittels Kompostierung oder bei der Vergärung unter Luftabschluss in der Biogasproduktion entstanden. Nur pflanzliche und tierische Abfälle. Aus geschlossenen und überwachten Sammelsystemen. Höchstgehalt der Trockenmasse in mg/kg: Cadmium: 0,7; Kupfer: 70; Nickel: 25; Blei: 45; Zink: 200; Quecksilber: 0,4; Chrom (insgesamt): 70; Chrom (VI): 0\*\*</td></tr>
+<tr><td>Kompost oder Gärgut aus Bioabfällen</td><td colspan="3">Mittels Kompostierung oder bei der Vergärung unter Luftabschluss in der Biogasproduktion entstanden. Nur pflanzliche und tierische Abfälle. Aus geschlossenen und überwachten Sammelsystemen. Höchstgehalt der Trockenmasse in mg/kg: Cadmium: 0,7; Kupfer: 70; Nickel: 25; Blei: 45; Zink: 200; Quecksilber: 0,4; Chrom (insgesamt): 70; Chrom (VI): 0\*\*</td></tr>
 <tr><td>Torf</td><td colspan="3">Nur für Pflanzenanzucht und Moorbeete.</td></tr>
 <tr><td>Substrat von Champignonkulturen</td><td colspan="3">Das Ausgangssubstrat darf nur aus den nach dieser Liste zulässigen Stoffen bestehen.</td></tr>
 <tr><td>Exkremente von Würmern (Wurmkompost) und Insekten</td><td colspan="3"></td></tr>
@@ -855,7 +907,7 @@ Die Bestimmungen der Dünger-Verordnung vom 1. November 2023[^annex2-lvlu1-1] bl
 <tr><td>Huminsäure, Fulvinsäure</td><td colspan="3">Ausschliesslich gewonnen mithilfe anorganischer Salze/Lösungen ausser Ammoniumsalze oder aus der Trinkwasseraufbereitung.</td></tr>
 <tr><td>Zurückgewonnenes Struvit und gefällte Phosphatsalze</td><td colspan="3">Produkte müssen den Anforderungen nach der Dünger-Verordnung entsprechen.</td></tr>
 <tr><td>Kaliumchlorid</td><td colspan="3">nur natürlichen Ursprungs</td></tr>
-<tr><td>**2.3 Spurennährstoffe**</td><td colspan="3"></td></tr>
+<tr><td colspan="4">2.3 Spurennährstoffe</td></tr>
 <tr><td>Spurennährstoffe\*</td><td colspan="3"></td></tr>
 <tr><td colspan="4">**2.4. Kulturen von Mikroorganismen zur Behandlung von Böden**</td></tr>
 <tr><td>Mikroorganismenpräparate (Pilze, Bakterien)\*</td><td colspan="3">Keine gentechnisch veränderten Mikroorganismen.</td></tr>
@@ -892,7 +944,7 @@ Anhang 3[^t-3]
 
 ## Erzeugnisse und Stoffe zur Herstellung von verarbeiteten Lebensmitteln
 
-[^t-3]: Fassung gemäss Ziff. III Abs. 2 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Bereinigt gemäss Ziff. II der V des WBF vom 28. Okt. 2015 ([AS 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), Ziff. III Abs. 2 der V des WBF vom 1. Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)) und Ziff. II Abs. 1 der V des WBF vom 18. Okt. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), vom 31. Okt. 2018 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), Ziff. II der V des WBF vom 23. Okt. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), Ziff. II Abs. 1 der V des WBF vom 11. Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)), vom 3. Nov. 2021 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)) und vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)). Siehe auch die UeB dieser Änd. hiervor.
+[^t-3]: Fassung gemäss Ziff. III Abs. 2 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Bereinigt gemäss Ziff. II der V des WBF vom 28. Okt. 2015 ([AS 2015 4519](https://fedlex.data.admin.ch/eli/oc/2015/754)), Ziff. III Abs. 2 der V des WBF vom 1. Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)) und Ziff. II Abs. 1 der V des WBF vom 18. Okt. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), vom 31. Okt. 2018 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), Ziff. II der V des WBF vom 23. Okt. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), Ziff. II Abs. 1 der V des WBF vom 11. Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)), vom 3. Nov. 2021 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)), vom 1. Nov. 2023 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)) und vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)). Siehe auch die UeB 1.11.2023 Änd. hiervor.
 
 ### Teil A: Zulässige Lebensmittelzusatzstoffe, einschliesslich Träger
 
@@ -905,23 +957,25 @@ Sämtliche Zusatzstoffe unterliegen den Anwendungseinschränkungen nach der Zusa
 <tr><td>E 160b\*</td><td>Annatto, Bixin, Norbixin</td><td>nicht zulässig</td><td>nur für roten Leicester-Käse, Double-Gloucester-Käse, Cheddar und Mimolette-Käse zulässig</td></tr>
 <tr><td>E 170</td><td>Calciumcarbonat</td><td>zulässig (darf nicht als Farb- oder Calciumzusatz verwendet werden)</td><td>zulässig (darf nicht als Farb- oder Calciumzusatz verwendet werden)</td></tr>
 <tr><td>E 220</td><td>Schwefeldioxid</td><td>nur für Obstweine (Wein aus anderem Obst als Weintrauben, einschl. Apfel und Birnenwein) zulässig bei Obstwein: 100 mg/l (\*) (\*) Höchstwerte beziehen sich auf die in allen Bestandteilen enthaltene Gesamtmenge, ausgedrückt in mg/l SO<sub>2</sub></td><td>nur für Met zulässig bei Met: 100 mg/l (\*)</td></tr>
+<tr><td>E 223</td><td>Natriummetabisulfit</td><td>nicht zulässig</td><td>nur für Krebstiere zulässig</td></tr>
 <tr><td>E 224</td><td>Kaliummetabisulfit</td><td>nur für Obstweine (Wein aus anderem Obst als Weintrauben, einschl. Apfel und Birnenwein) zulässig bei Obstwein: 100 mg/l (\*) (\*) Höchstwerte beziehen sich auf die in allen Bestandteilen enthaltene Gesamtmenge, ausgedrückt in mg/l SO<sub>2</sub></td><td>nur für Met zulässig bei Met: 100 mg/l (\*)</td></tr>
 <tr><td>E 250</td><td>Natriumnitrit</td><td>nicht zulässig</td><td colspan="2">nur für Fleischerzeugnisse zulässig nicht in Verbindung mit E 252 zulässig Richtwert für die Zugabemenge, ausgedrückt in NaNO<sub>2</sub>: 80 mg/kg Rückstandshöchstmenge, ausgedrückt in NaNO<sub>2</sub>: 50 mg/kg</td></tr>
 <tr><td>E 252</td><td>Kaliumnitrat</td><td>nicht zulässig</td><td colspan="2">nur für Fleischerzeugnisse zulässig nicht in Verbindung mit E 250 zulässig Richtwert für die Zugabemenge, ausgedrückt in NaNO<sub>3</sub>: 80 mg/kg Rückstandshöchstmenge, ausgedrückt in NaNO<sub>3</sub>: 50 mg/kg</td></tr>
 <tr><td>E 270</td><td>Milchsäure</td><td>zulässig</td><td>zulässig</td></tr>
 <tr><td>E 290</td><td>Kohlendioxid</td><td>zulässig</td><td>zulässig</td></tr>
 <tr><td>E 296</td><td>Apfelsäure</td><td>zulässig</td><td>nicht zulässig</td></tr>
-<tr><td>E 300</td><td>Ascorbinsäure</td><td>zulässig</td><td>nur für Fleischerzeugnisse zulässig</td></tr>
+<tr><td>E 300</td><td>Ascorbinsäure</td><td>zulässig</td><td>nur für Fleischerzeugnisse und Fleischzubereitungen zulässig</td></tr>
 <tr><td>E 301</td><td>Natriumascorbat</td><td>nicht zulässig</td><td>nur für Fleischerzeugnisse in Verbindung mit Nitrit oder Nitrat zulässig</td></tr>
 <tr><td>E 306\*</td><td>stark tocopherolhaltige Extrakte</td><td>nur als Antioxidationsmittel zulässig</td><td>nur als Antioxidationsmittel zulässig</td></tr>
-<tr><td>E 322\*</td><td>Lecithin</td><td>zulässig nur aus biologischer Produktion</td><td>nur für Milcherzeugnisse nur aus biologischer Produktion</td></tr>
-<tr><td>E 325</td><td>Natriumlactat</td><td>nicht zulässig</td><td>nur für Milch- und Fleischerzeugnisse zulässig</td></tr>
+<tr><td>E 322\*</td><td>Lecithin</td><td>zulässig nur aus biologischer Produktion</td><td>zulässig nur aus biologischer Produktion</td></tr>
+<tr><td>E 325</td><td>Natriumlactat</td><td>zulässig</td><td>nur für Erzeugnisse auf Milchbasis und Fleischerzeugnisse zulässig</td></tr>
 <tr><td>E 330</td><td>Zitronensäure</td><td>zulässig</td><td>zulässig</td></tr>
 <tr><td>E 331</td><td>Natriumcitrat</td><td>zulässig</td><td>zulässig</td></tr>
 <tr><td>E 333</td><td>Calciumcitrat</td><td>zulässig</td><td>nicht zulässig</td></tr>
 <tr><td>E 334</td><td>Weinsäure, L(+)–</td><td>zulässig</td><td>nur für Met zulässig</td></tr>
 <tr><td>E 335</td><td>Natriumtartrat</td><td>zulässig</td><td>nicht zulässig</td></tr>
 <tr><td>E 336</td><td>Kaliumtartrat</td><td>zulässig</td><td>nicht zulässig</td></tr>
+<tr><td>E 337</td><td>Natrium-Kaliumtartrat</td><td>zulässig</td><td>nicht zulässig</td></tr>
 <tr><td>E 341 (i)</td><td>Monocalciumphosphat</td><td>nur als Backtriebmittel zulässig</td><td>nicht zulässig</td></tr>
 <tr><td>E 392\*</td><td>Extrakte aus Rosmarin</td><td>Nur aus biologischer Produktion</td><td>Nur aus biologischer Produktion</td></tr>
 <tr><td>E 400</td><td>Alginsäure</td><td>zulässig</td><td>nur für Milcherzeugnisse zulässig</td></tr>
@@ -936,7 +990,8 @@ Sämtliche Zusatzstoffe unterliegen den Anwendungseinschränkungen nach der Zusa
 <tr><td>E 417</td><td>Tarakernmehl</td><td>nur als Verdickungsmittel zulässig nur aus biologischer Produktion</td><td colspan="2">nur als Verdickungsmittel zulässig nur aus biologischer Produktion</td></tr>
 <tr><td>E 418</td><td>Gellan</td><td>nur in der stark acylhaltigen Form zulässig nur aus biologischer Produktion</td><td>nur in der stark acylhaltigen Form zulässig nur aus biologischer Produktion</td></tr>
 <tr><td>E 422</td><td>Glycerin</td><td>nur für Pflanzenextrakte und Aromastoffe zulässig; nur als Feuchthaltemittel in Gelatinekapseln und zur Beschichtung von Filmtabletten zulässig nur pflanzlichen Ursprungs nur aus biologischer Produktion</td><td>nur für Aromastoffe zulässig; nur als Feuchthaltemittel in Gelatinekapseln und zur Beschichtung von Filmtabletten zulässig nur pflanzlichen Ursprungs nur aus biologischer Produktion</td></tr>
-<tr><td>E 440\*(i)</td><td>Pektin</td><td>zulässig</td><td>nur für Milcherzeugnisse zulässig</td></tr>
+<tr><td>E 440(i)\*</td><td>Pektin</td><td>zulässig</td><td>nur für Erzeugnisse auf Milchbasis zulässig</td></tr>
+<tr><td>E 460</td><td>Cellulose</td><td>nicht zulässig</td><td>nur für Gelatine zulässig</td></tr>
 <tr><td>E 464</td><td>Hydroxypropylmethylcellulose</td><td>nur für die Herstellung von Kapselhüllen zulässig</td><td>nur für die Herstellung von Kapselhüllen zulässig</td></tr>
 <tr><td>E 500</td><td>Natriumcarbonate</td><td>zulässig</td><td>zulässig</td></tr>
 <tr><td>E 501</td><td>Kaliumcarbonate</td><td>zulässig</td><td>nicht zulässig</td></tr>
@@ -999,7 +1054,7 @@ Sämtliche Zusatzstoffe unterliegen den Anwendungseinschränkungen nach der Zusa
 <tr><td>Siliciumdioxid als Gel oder kolloidale Lösung</td><td>zulässig</td><td>nicht zulässig</td></tr>
 <tr><td>Aktivkohle</td><td>zulässig</td><td>zulässig</td></tr>
 <tr><td>Talkum</td><td>nur in Einklang mit den spezifischen Reinheitsnormen für den Lebensmittelzusatzstoff E 553b zulässig</td><td>nicht zulässig</td></tr>
-<tr><td>Bentonit</td><td>zulässig</td><td>nur als Fermentationsregulierer für Met zulässig</td></tr>
+<tr><td>Bentonit</td><td>zulässig</td><td>nur als Verdickungsmittel für Met zulässig</td></tr>
 <tr><td>Cellulose</td><td>zulässig</td><td>nur für die Gelatineherstellung zulässig</td></tr>
 <tr><td>Kieselgur</td><td>zulässig</td><td>nur für die Gelatineherstellung zulässig</td></tr>
 <tr><td>Perlit</td><td>zulässig</td><td>nur für die Gelatineherstellung zulässig</td></tr>
@@ -1038,7 +1093,6 @@ Sämtliche Zusatzstoffe unterliegen den Anwendungseinschränkungen nach der Zusa
 <tr><th>Zutat</th><th>Besondere Bedingungen und Einschränkungen</th></tr>
 <tr><th>Arame-Algen (*Eisenia bicyclis*), sowohl unverarbeitet als auch als Erzeugnisse der ersten Verarbeitungsstufe, die mit diesen Algen in unmittelbarem Zusammenhang stehen</th><th></th></tr>
 <tr><th>Hijiki-Algen (*Hizikia fusiforme*), sowohl unverarbeitet als auch als Erzeugnisse der ersten Verarbeitungsstufe, die mit diesen Algen in unmittelbarem Zusammenhang stehen</th><th></th></tr>
-<tr><th>Algen, einschliesslich Seegras, die für die Herstellung herkömmlicher Lebensmittel verwendet werden dürfen</th><th>nur aus biologischer Aquakultur gemäss anerkannten internationalen Standards</th></tr>
 <tr><th>Rinde des Pau-d’Arco-Baums (*Handroanthus impetiginosus*) («lapacho»)</th><th>Anwendung nur in Kombucha und Kräuterteemischungen</th></tr>
 <tr><th>Därme</th><th>Aus natürlichen Rohstoffen tierischen oder pflanzlichen Ursprungs gewonnen</th></tr>
 <tr><th>Gelatine</th><th>aus anderen Tierarten als Schwein gewonnen</th></tr>
@@ -1070,16 +1124,16 @@ Anhang 3a[^t-4]
 
 Anhang 3b[^t-5]
 
-(Art. 3*c*)
+(Art. 3*c* und 16*a*)
 
 ## Erlasse der Europäischen Union betreffend biologische Landwirtschaft
 
-[^t-5]: Eingefügt durch Ziff. III Abs. 3 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Fassung gemäss Ziff. II Abs. 2 der V des WBF vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
+[^t-5]: Eingefügt durch Ziff. III Abs. 3 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Fassung gemäss Ziff. II Abs. 2 der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 - 1\. Massgebend ist die folgende Fassung der Verordnung (EU) 2018/848:
 - Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates, ABl. L 150 vom 14.6.2018, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2023/207, ABl. L 29 vom 1.2.2023, S. 6.
 - 2\. Für die Verordnung (EU) Nr. 1308/2013, auf die in der Verordnung (EU) 2018/848 verwiesen wird, ist die folgende Fassung massgebend:
-- Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 des Rates, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2021/2117, ABl. L 435 vom 6.12.2021, S. 262.
+- Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2024/1143, ABl. L 1143 vom 23.4.2024, S. 1.
 - 3\. Anstelle der Verordnung (EG) Nr. 606/2009 und der Verordnung (EG) Nr. 1234/2007, auf die in der Verordnung (EU) 2018/848 verwiesen wird, gelten die folgenden Verordnungen:
 
 <table>
@@ -1088,7 +1142,7 @@ Anhang 3b[^t-5]
 </table>
 
 [^annex3b-lvlu1-1]: Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers, ABl. L 149 vom 7.6.2019, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2022/68, ABl. L 12 vom 19.1.2022, S. 1.
-[^annex3b-lvlu1-2]: Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 des Rates, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2021/2117, ABl. L 435 vom 6.12.2021, S 262.
+[^annex3b-lvlu1-2]: Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2024/1143, ABl. L 1143 vom 23.4.2024, S. 1.
 
 Anhang 4[^t-6]
 
@@ -1100,11 +1154,11 @@ Anhang 4a[^t-7]
 
 Anhang 5[^t-8]
 
-(Art. 4a Abs. 1)
+(Art. 4*a*<sup>bis</sup> Abs. 1)
 
 ## Gattungsspezifische Anforderungen an die Nutztierhaltung
 
-[^t-8]: Eingefügt durch Ziff. II der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Bereinigt gemäss Ziff. II Abs. 1 der V des WBF vom 9. Nov. 2005 ([AS 2005 5531](https://fedlex.data.admin.ch/eli/oc/2005/750)), Ziff. I der V des WBF vom 26. Mai 2008 ([AS 2008 2907](https://fedlex.data.admin.ch/eli/oc/2008/400)), Ziff. I 1 der V des WBF vom 12. Nov. 2008 ([AS 2008 5829](https://fedlex.data.admin.ch/eli/oc/2008/803)), Ziff. III Abs. 1 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)) und Ziff. III Abs. 2 der V des WBF vom 1. Sept. 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)).
+[^t-8]: Eingefügt durch Ziff. II der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Bereinigt gemäss Ziff. II Abs. 1 der V des WBF vom 9. Nov. 2005 ([AS 2005 5531](https://fedlex.data.admin.ch/eli/oc/2005/750)), Ziff. I der V des WBF vom 26. Mai 2008 ([AS 2008 2907](https://fedlex.data.admin.ch/eli/oc/2008/400)), Ziff. I 1 der V des WBF vom 12. Nov. 2008 ([AS 2008 5829](https://fedlex.data.admin.ch/eli/oc/2008/803)), Ziff. III Abs. 1 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)), Ziff. III Abs. 2 der V des WBF vom 1. Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)) und Ziff. II Abs. 1 der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 Die Anforderungen für das RAUS-Programm der Direktzahlungsverordnung vom 23. Oktober 2013[^annex5-lvlu1-1] (DZV) sind einzuhalten. Für Tiere der Ziegen- und der Schafgattung, die nicht unter Artikel 73 Buchstaben c und d DZV fallen, gelten die Anforderungen sinngemäss.
 
@@ -1157,31 +1211,21 @@ Die Anforderungen für das RAUS-Programm der Direktzahlungsverordnung vom 23. Ok
 - 1\. Die Tagesration für Schweine enthält frisches, getrocknetes oder siliertes Raufutter.
 - 2\. Während der Säugeperiode erhalten Ferkel täglich Wühlerde oder andere gleichwertige Produkte.
 - 3\. Der Anteil nicht biologisch erzeugter Futterkomponenten kann bis auf 35 Prozent der gesamten Futterration von Schweinen, gemessen an der Trockensubstanz, erhöht werden, sofern Molkereiabfälle verwendet werden.
-- 4\. Die in Anhang 7 Teil B Ziffer 1 Buchstaben a und k genannten Erzeugnisse dürfen als Zusatzstoffe bei der Silageerzeugung verwendet werden.
+- 4\. Für Schweine über 35 kg darf in Absprache mit der Zertifizierungsstelle bis zum 31. Dezember 2030 nicht biologisches Kartoffelprotein eingesetzt werden, falls biologisches Kartoffelprotein nicht in ausreichender Menge verfügbar ist. Der Anteil des nicht biologischen Kartoffelproteins darf, bezogen auf die Trockensubstanz, pro Jahr höchstens 5 Prozent des gesamten Futterverzehrs der Schweine über 35 kg betragen.
 - 5\. Zur Deckung des ernährungsphysiologischen Bedarfs der Tiere ist der Zusatz der in Anhang 7 Teil A 1 (Futtermittel-Ausgangsprodukte mineralischen Ursprungs), Teil B 2a) (Vitamine und Provitamine) und Teil B 3 b) (Spurenelemente) genannten Erzeugnisse zulässig.
 - 6\. Zur Tierernährung dürfen die in Anhang 7 Teil B 1 b) (Antioxidationsmittel), Teil B 1g), i) (Bindemittel und Trennmittel), Teil B 2 b) (Aromastoffe), sowie in Kategorie 4 (zootechnische Zusatzstoffe) genannten Erzeugnisse für die in Bezug auf die vorgenannten Kategorien genannten Zwecke verwendet werden.
 - 7\. Futtermittel, Futtermittel-Ausgangserzeugnisse, Mischfuttermittel, Futtermittelzusatzstoffe, Verarbeitungshilfsstoffe für die Futtermittelherstellung und bestimmte Erzeugnisse für die Tierernährung dürfen nicht unter Verwendung von gentechnisch veränderte Organismen oder von deren Derivaten hergestellt worden sein oder solche enthalten.
 
 Anhang 6[^t-9]
 
-(Art. 4*a* Abs. 2)
+(Art. 4*a*<sup>bis</sup> Abs. 2)
 
-## Anforderungen an den Laufhof und den Aussenklimabereich
+## Gesamtfläche für Tiere der Schweinegattung
 
-[^t-9]: Eingefügt durch Ziff. II der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Fassung gemäss Ziff. II Abs. 2 der V des WBF vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
-
-### 1. Laufhof für Tiere der Rindergattung und Wasserbüffel, Schafe und Ziegen (Milch- und Fleischproduktion)
-
-Die Anforderungen nach Anhang 6 Buchstabe B DZV[^annex6-lvlu1-lvl1-1] sind einzuhalten.
-
-[^annex6-lvlu1-lvl1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-
-### 2. Gesamtfläche für Tiere der Schweinegattung
-
-Die Anforderungen an den Laufhof nach Anhang 6 Buchstabe B Ziffer 3 DZV sind einzuhalten.
+[^t-9]: Eingefügt durch Ziff. II der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Fassung gemäss Ziff. II Abs. 2 der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 <table>
-<tr><th>Tiere</th><th>Gesamtfläche (Stall und Laufhof) mindestens … m<sup>2</sup>/Tier</th></tr>
+<tr><th>Tiere</th><th>Gesamtfläche (Stall und Auslauffläche) mindestens … m<sup>2</sup>/Tier</th></tr>
 <tr><td>Nicht säugende Zuchtsauen</td><td>2,8</td></tr>
 <tr><td>Zuchteber</td><td>10</td></tr>
 <tr><td>Remonten und Mastschweine über 60 kg</td><td>1,65</td></tr>
@@ -1189,9 +1233,9 @@ Die Anforderungen an den Laufhof nach Anhang 6 Buchstabe B Ziffer 3 DZV sind ein
 <tr><td>Abgesetzte Ferkel</td><td>0,80</td></tr>
 </table>
 
-### 3. Aussenklimabereich für Nutzgeflügel
+Die Anforderungen an die minimalen Auslaufflächen nach Anhang 6 Buchstabe B Ziffer 3 DZV[^annex6-lvlu1-1] sind einzuhalten.
 
-Die Anforderungen nach Anhang 6 Buchstabe B Ziffer 4 DZV sind einzuhalten.
+[^annex6-lvlu1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 Anhang 7[^t-10]
 
@@ -1199,7 +1243,7 @@ Anhang 7[^t-10]
 
 ## Futtermittel-Ausgangsprodukte und Futtermittelzusatzstoffe
 
-[^t-10]: Eingefügt durch Ziff. II der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Fassung gemäss Ziff. II Abs. 2 der V des WBF vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)).
+[^t-10]: Eingefügt durch Ziff. II der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Fassung gemäss Ziff. II Abs. 2 der V des WBF vom 1. Nov. 2023 ([AS 2023 744](https://fedlex.data.admin.ch/eli/oc/2023/744)). Bereinigt gemäss Ziff. II Abs. 1 der V des WBF vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
 
 Die Bestimmungen der Futtermittel-Verordnung vom 26. Oktober 2011[^annex7-lvlu1-1] und der Futtermittelbuch-Verordnung vom 26. Oktober 2011[^annex7-lvlu1-2] (FMBV) bleiben vorbehalten.
 
@@ -1229,6 +1273,9 @@ Die Nummern im Katalog der Einzelfuttermittel sind Anhang 1.4 Ziffer 3 FMBV entn
 <tr><td>11.3.8</td><td>Magnesiumphosphat</td><td></td></tr>
 <tr><td>11.3.10</td><td>Mononatriumphosphat</td><td></td></tr>
 <tr><td>11.3.16</td><td>Calcium-Natrium-Phosphat</td><td></td></tr>
+<tr><td>11.3.17</td><td>Monoammoniumphosphat (Ammoniumhygrogenorthophosphat)</td><td>Nur für Aquakulturen</td></tr>
+<tr><td>11.3.19</td><td>Pentanatriumtriphosphat</td><td>Nur für Heimtiere</td></tr>
+<tr><td>11.3.27</td><td>Dinatriumdhydrogendiphosphat</td><td>Nur für Heimtiere</td></tr>
 <tr><td>11.4.1</td><td>Natriumchlorid</td><td></td></tr>
 <tr><td>11.4.2</td><td>Natriumbicarbonat</td><td></td></tr>
 <tr><td>11.4.4</td><td>Natriumcarbonat</td><td></td></tr>
@@ -1279,6 +1326,8 @@ Funktionsgruppe c) Emulgatoren, Stabilisatoren, Verdickungsstoffe und Geliermitt
 <tr><th>Kennnummer oder Funktionsgruppe</th><th>Bezeichnung</th><th>Besondere Bedingungen und Einschränkungen</th></tr>
 <tr><td>E 415</td><td>Xanthan</td><td></td></tr>
 <tr><td>E 412</td><td>Guarkernmehl</td><td></td></tr>
+<tr><td>1c322 1e322i</td><td>Lecithine</td><td>nur aus biologischen Rohstoffen, Verwendung beschränkt auf Futtermittel für Aquakulturtiere</td></tr>
+<tr><td>E 407</td><td>Carrageen</td><td>nur für Heimtiere</td></tr>
 </table>
 
 Funktionsgruppen g) Bindemittel und i) Trennmittel
@@ -1309,7 +1358,8 @@ Funktionsgruppe b) Aromastoffe
 
 <table>
 <tr><th>Kennnummer oder Funktionsgruppe</th><th>Bezeichnung</th><th>Besondere Bedingungen und Einschränkungen</th></tr>
-<tr><td>ex2b</td><td>Aromastoffe</td><td>Nur Extrakte aus landwirtschaftlichen Erzeugnissen, einschließlich Edelkastanienextrakt (*Castanea* *sativa* Mill.)</td></tr>
+<tr><td>ex2a</td><td>Astaxanthin</td><td>Nur aus biologischen Quellen wie Schalen biologisch erzeugter Krebstiere Nur im Futter für Lachse und Forellen im Rahmen ihrer physiologischen Bedürfnisse Ist kein Astaxanthin aus biologischen Quellen verfügbar, darf Astaxanthin aus natürlichen Quellen wie astaxanthinreichen *Phaffia rhodozyma* verwendet werden</td></tr>
+<tr><td>ex2b</td><td>Aromastoffe</td><td>Nur Extrakte aus landwirtschaftlichen Erzeugnissen, einschliesslich Edelkastanienextrakt (*Castanea* *sativa* Mill.)</td></tr>
 </table>
 
 ### 3. Kategorie: Ernährungsphysiologische Zusatzstoffe
@@ -1319,6 +1369,7 @@ Funktionsgruppe a) Vitamine, Provitamine und chemisch definierte Stoffe mit ähn
 <table>
 <tr><th>Kennnummer oder Funktionsgruppe</th><th>Bezeichnung</th><th>Besondere Bedingungen und Einschränkungen</th></tr>
 <tr><td>3a</td><td>Vitamine und Provitamine</td><td>Aus landwirtschaftlichen Erzeugnissen gewonnen Wenn nicht aus landwirtschaftlichen Erzeugnissen verfügbar, sind synthetisch gewonnene Vitamine und Provitamine zugelassen, wobei Folgendes gilt: – Für Monogastriden dürfen nur diejenigen verwendet werden, die mit aus landwirtschaftlichen Erzeugnissen gewonnenen Vitaminen identisch sind. – Für Wiederkäuer dürfen nur Vitamine A, D und E verwendet werden, die mit aus landwirtschaftlichen Erzeugnissen gewonnenen Vitaminen identisch sind.</td></tr>
+<tr><td>3a370</td><td>Taurin</td><td>Nur für Katzen und Hunde, falls verfügbar nicht synthetischen Ursprungs</td></tr>
 <tr><td>3a920</td><td>Betainanhydrat</td><td>Nur für Monogastriden Aus biologischer Produktion; falls nicht verfügbar, natürlichen Ursprungs</td></tr>
 </table>
 
@@ -1353,6 +1404,13 @@ Funktionsgruppe b) Spurenelemente
 <tr><td>3b817</td><td>Selenhefe, *Saccharomyces* *cerevisiae* NCYC R645, inaktiviert</td><td></td></tr>
 </table>
 
+Funktionsgruppe c) Aminosäuren, deren Salze und analoge Produkte
+
+<table>
+<tr><th>Kennnummer oder Funktionsgruppe</th><th>Bezeichnung</th><th>Besondere Bedingungen und Einschränkungen</th></tr>
+<tr><td>3c3.5.1 und 3c352</td><td>L-Histidin-Monohydrochlorid-Monohydrat</td><td>Hergestellt durch Fermentation. Darf Bestandteil der Futterration von Salmoniden sein, wenn durch andere in diesem Anhang aufgeführten Futtermittel keine ausreichende Menge an Histidin gewährleistet werden kann, um den Nahrungsmittelbedarf der Fische zu decken.</td></tr>
+</table>
+
 ### 4. Kategorie: Zootechnische Zusatzstoffe
 
 <table>
@@ -1366,49 +1424,53 @@ Anhang 8[^t-11]
 
 ## Reine Stoffe zur Reinigung und Desinfektion von Stallungen und Haltungseinrichtungen (z.B. Einrichtungen und Stallgerätschaften)
 
-[^t-11]: Eingefügt durch Ziff. II der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Bereinigt gemäss Ziff. II Abs. 1 der V des WBF vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
+[^t-11]: Eingefügt durch Ziff. II der V des WBF vom 23. Aug. 2000 ([AS 2000 2508](https://fedlex.data.admin.ch/eli/oc/2000/399)). Bereinigt gemäss Ziff. II Abs. 1 der V des WBF vom 27. Okt. 2010 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)) und vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 636](https://fedlex.data.admin.ch/eli/oc/2024/636)).
+
+Desinfektionsmittel sind Biozidprodukte. Sie dürfen in Verkehr gebracht und verwendet werden, wenn sie nach der Biozidprodukteverordnung vom 18. Mai 2005[^annex8-lvlu1-1] zugelassen, mitgeteilt oder anerkannt sind.
 
 ### 1. Zugelassene Stoffe
 
-– Kali- und Natronseifen
+[^annex8-lvlu1-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
-– Wasser und Dampf
+- – Kali- und Natronseifen
+- – Wasser und Dampf
+- – Kalkmilch
+- – Natriumhypochlorit (z.B. als Lauge)
+- – Ätznatron
+- – Ätzkali
+- – Wasserstoffperoxid
+- – natürliche Pflanzenessenzen
+- – Zitronensäure, Peressigsäure, Ameisensäure, Milchsäure, Oxalsäure und Essigsäure
+- – Alkohol
+- – Salpetersäure (Melkausrüstungen)
+- – Phosphorsäure (Melkausrüstungen)
+- – Formaldehyd
+- – Natriumcarbonat
+- – Branntkalk
+- – Kalk
 
-– Kalkmilch
+### 2.
 
-– Natriumhypochlorit (z.B. als Lauge)
+Ferner sind zugelassen:
 
-– Ätznatron
+- – Produkte für die Reinigung und Entkeimung von Melkgerätschaften, die in der Liste der Biozidprodukte zur Reinigung und Entkeimung von Melkma schinen zugelassen sind[^annex8-lvlu1-lvl2-1].
 
-– Ätzkali
+[^annex8-lvlu1-lvl2-1]: Die Liste der notifizierten Wirkstoffe kann bei der Anmeldestelle für Chemikalien, 3003 Bern, gegen Verrechnung bezogen oder kostenlos unter der Internetadresse: [www.cheminfo.ch](http://www.cheminfo.ch) abgerufen werden.
 
-– Wasserstoffperoxid
+### 3. Stoffe, die nicht als Biozidprodukte zur Desinfektion verwendet werden dürfen
 
-– natürliche Pflanzenessenzen
-
-– Zitronensäure, Peressigsäure, Ameisensäure, Milchsäure, Oxalsäure und Essigsäure
-
-– Alkohol
-
-– Salpetersäure (Melkausrüstungen)
-
-– Phosphorsäure (Melkausrüstungen)
-
-– Formaldehyd
-
-– Natriumcarbonat
-
-– Branntkalk
-
-– Kalk
-
-### 2. Ferner sind zugelassen:
-
-– Produkte auf Jodbasis als Zitzendesinfektionsmittel
-
-– Produkte für die Reinigung und Entkeimung von Melkgerätschaften, die in der Liste der Biozidprodukte zur Reinigung und Entkeimung von Melkma schinen zugelassen sind[^annex8-lvlu1-lvl2-1].
-
-[^annex8-lvlu1-lvl2-1]: Die Liste der notifizierten Wirkstoffe kann bei der Anmeldestelle für Chemikalien, 3003 Bern, gegen Verrechnung bezogen oder kostenlos unter der Internetadresse www.cheminfo.ch abgerufen werden.
+- – Ätznatron
+- – Ätzkali
+- – Oxalsäure
+- – Natürliche Pflanzenessenzen, ausser Leinöl, Lavendelöl und Pfefferminzöl
+- – Salpetersäure
+- – Phosphorsäure
+- – Natriumcarbonat
+- – Kupfersulfat
+- – Kaliumpermanganat
+- – Kamelienölkuchen aus natürlichen Kameliensamen
+- – Huminsäure
+- – Peroxyessigsäure, ausser Peressigsäure
 
 Anhang 9[^t-12]
 
