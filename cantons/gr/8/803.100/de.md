@@ -4,11 +4,12 @@ number: "803.100"
 title: Enteignungsgesetz des Kantons Graubünden
 language: de
 version: 2025-01-01
+corrected: 2024-11-12
 version_adopted: 2022-06-14
 adopted: 1958-10-26
 in_force: 1959-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/803.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3485/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -29,7 +30,7 @@ Vom Volke angenommen am 26. Oktober 1958[^ingress-1]
 
 <sup>1</sup> Dieses Gesetz gilt unter Vorbehalt des Bundesrechtes und des kantonalen Raumplanungsrechtes für alle Enteignungen und die Feststellung und Folgen enteignungsähnlicher Eigentumsbeschränkungen.
 
-<sup>2</sup> Ist eine Enteignung nach eidgenössischem und kantonalem Recht möglich, so kann der Enteigner bestimmen, nach welchem Rechte sie durchzuführen ist. Nach Erteilung des Enteignungsrechts besteht dieses Wahlrecht nicht mehr.
+<sup>2</sup> Ist eine Enteignung nach eidgenössischem und kantonalem Recht möglich, so kann der Enteigner bestimmen, nach welchem Rechte sie durchzuführen ist Nach Erteilung des Enteignungsrechts besteht dieses Wahlrecht nicht mehr.
 
 #### Art. 2
 

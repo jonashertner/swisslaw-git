@@ -4,11 +4,12 @@ number: "803.100"
 title: "Lescha d'expropriaziun dal chantun Grischun"
 language: rm
 version: 2025-01-01
+corrected: 2024-11-12
 version_adopted: 2022-06-14
 adopted: 1958-10-26
 in_force: 1959-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/803.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3485/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

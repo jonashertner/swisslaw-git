@@ -4,11 +4,12 @@ number: "803.100"
 title: Legge sulle espropriazioni del Cantone dei Grigioni
 language: it
 version: 2025-01-01
+corrected: 2024-11-12
 version_adopted: 2022-06-14
 adopted: 1958-10-26
 in_force: 1959-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/803.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3485/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3418/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
