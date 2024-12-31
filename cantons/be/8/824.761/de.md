@@ -4,13 +4,12 @@ number: "824.761"
 title: Kantonale Lärmschutzverordnung
 short: KLSV
 language: de
-version: 2020-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-24
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 2009-10-14
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/824.761"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1901/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3094/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,20 +18,20 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1901/pdf_file"
 
 (KLSV)
 
-vom 14.10.2009 (Stand 01.08.2020)
+vom 14.10.2009 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 36 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzgesetz, USG)[^ingress-1], Artikel 45 der Lärmschutz-Verordnung des Bundes vom 15. Dezember 1986 (LSV)[^ingress-2], Artikel 12 der Verordnung des Bundes vom 28. Februar 2007 über den Schutz des Publikums von Veranstaltungen vor gesundheitsgefährdenden Schalleinwirkungen und Laserstrahlen (Schall- und Laserverordnung, SLV)[^ingress-3] sowie Artikel 63 des Polizeigesetzes vom 8. Juni 1997 (PolG)[^ingress-4],
+gestützt auf Artikel 36 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzgesetz, USG)[^ingress-1], Artikel 8 des Bundesgesetzes vom 16. Juni 2017 über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (NISSG)[^ingress-2], Artikel 45 der eidgenössischen Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)[^ingress-3] sowie Artikel 183 des Polizeigesetzes vom 10. Februar 2019 (PolG)[^ingress-4],
 
 auf Antrag der Bau-, Verkehrs- und Energiedirektion,
 
 beschliesst:
 
-[^ingress-1]: SR 814.01
-[^ingress-2]: SR 814.41
-[^ingress-3]: SR 814.49
-[^ingress-4]: BSG 551.1
+[^ingress-1]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
+[^ingress-2]: SR [814.71](https://db.clex.ch/link/Bund/814.71/de)
+[^ingress-3]: SR [814.41](https://db.clex.ch/link/Bund/814.41/de)
+[^ingress-4]: BSG [551.1](https://www.belex.sites.be.ch/data/551.1/de)
 
 ## 1 Allgemeines
 
@@ -44,7 +43,7 @@ beschliesst:
 
 - a dem Umweltschutzgesetz und der Lärmschutz-Verordnung des Bundes,
 - b der kantonalen Polizeigesetzgebung,
-- c der Schall- und Laserverordnung des Bundes.
+- c der Bundesgesetzgebung über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall.
 
 #### Art. 2
 
@@ -212,11 +211,13 @@ beschliesst:
 
 <sup>1</sup> Muss der Kanton für die Errichtung, Änderung oder Sanierung von militärischen Anlagen tätig werden, so obliegt dies dem Amt für Gemeinden und Raumordnung.
 
-### 3.7 Immissionen nach der Schall- und Laserverordnung des Bundes
+### 3.7 Immissionen nach der Bundesgesetzgebung über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall
 
 #### Art. 18
 
-<sup>1</sup> Die Kontrolle der Einhaltung der Vorschriften der Schall- und Laserverordnung des Bundes obliegt der Kantonspolizei.
+<sup>1</sup> Der Kantonspolizei obliegt die Kontrolle der Einhaltung der Vorschriften des vierten Abschnitts (Veranstaltungen mit Schall) und des fünften Abschnitts (Laserpointer), unter Ausschluss des Vollzugs des Ein- und Durchfuhrverbots, der Verordnung vom 27. Februar 2019 zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG)[^18-1].
+
+[^18-1]: SR [814.711](https://db.clex.ch/link/Bund/814.711/de)
 
 ## 4 Rechtspflege
 

@@ -4,13 +4,12 @@ number: "824.761"
 title: Ordonnance cantonale sur la protection contre le bruit
 short: OCPB
 language: fr
-version: 2020-08-01
-valid_until: 2024-12-31
-version_adopted: 2020-06-24
+version: 2025-01-01
+version_adopted: 2024-11-20
 adopted: 2009-10-14
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/824.761"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1901/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3094/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,20 +18,20 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1901/pdf_file"
 
 (OCPB)
 
-du 14.10.2009 (état au 01.08.2020)
+du 14.10.2009 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 36 de la loi fédérale du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-1], l’article 45 de l’ordonnance fédérale du 15 décembre 1986 sur la protection contre le bruit (OPB)[^ingress-2], l’article 12 de l’ordonnance fédérale du 28 février 2007 sur la protection contre les nuisances sonores et les rayons laser lors de manifestations (ordonnance son et laser, OSLa)[^ingress-3], ainsi que l’article 63 de la loi du 8 juin 1997 sur la police (LPol)[^ingress-4],
+vu l’article 36 de la loi fédérale du 7 octobre 1983 sur la protection de l’environnement (LPE)[^ingress-1], l'article 8 de la loi fédérale du 16 juin 2017 sur la protection contre les dangers liés au rayonnement non ionisant et au son (LRNIS)[^ingress-2], l’article 45 de l’ordonnance fédérale du 15 décembre 1986 sur la protection contre le bruit (OPB)[^ingress-3] ainsi que l’article 183 de la loi du 10 février 2019 sur la police (LPol)[^ingress-4],
 
 sur proposition de la Direction des travaux publics, des transports et de l’énergie,
 
 arrête:
 
-[^ingress-1]: RS 814.01
-[^ingress-2]: RS 814.41
-[^ingress-3]: RS 814.49
-[^ingress-4]: RSB 551.1
+[^ingress-1]: RS [814.01](https://db.clex.ch/link/Bund/814.01/fr)
+[^ingress-2]: RS [814.71](https://db.clex.ch/link/Bund/814.71/fr)
+[^ingress-3]: RS [814.41](https://db.clex.ch/link/Bund/814.41/fr)
+[^ingress-4]: RSB [551.1](https://www.belex.sites.be.ch/data/551.1/fr)
 
 ## 1 Généralités
 
@@ -44,7 +43,7 @@ arrête:
 
 - a la loi fédérale sur la protection de l’environnement et l’ordonnance fédérale sur la protection contre le bruit,
 - b la législation cantonale sur la police,
-- c l’ordonnance fédérale son et laser.
+- c la législation fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son.
 
 #### Art. 2
 
@@ -212,11 +211,13 @@ arrête:
 
 <sup>1</sup> Lorsque la construction, la modification ou l’assainissement d’installations militaires nécessite l’intervention du canton, l’Office des affaires communales et de l’organisation du territoire est compétent.
 
-### 3.7 Immissions relevant de l’ordonnance fédérale son et laser
+### 3.7 Immissions relevant de la législation fédérale relative à la protection contre les dangers liés au rayonnement non ionisant et au son
 
 #### Art. 18
 
-<sup>1</sup> La Police cantonale est compétente pour le contrôle du respect des prescriptions de l’ordonnance fédérale son et laser.
+<sup>1</sup> La Police cantonale est compétente pour le contrôle du respect des prescriptions de la section 4 (Manifestations avec émissions sonores) et de la section 5 (Pointeurs laser; sauf pour appliquer l'interdiction d'importation et de transit) de l'ordonnance du 27 février 2019 relative à la loi fédérale sur la protection contre les dangers liés au rayonnement non ionisant et au son (O-LRNIS)[^18-1].
+
+[^18-1]: RS [814.711](https://db.clex.ch/link/Bund/814.711/fr)
 
 ## 4 Voies de droit
 
