@@ -4,11 +4,11 @@ title: Loi fédérale du 6 octobre 1995 sur le marché intérieur (LMI)
 short: LMI
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738"
 language: fr
-version: 2021-01-01
+version: 2025-01-01
 adopted: 1995-10-06
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1738_1738_1738-20210101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-1738_1738_1738-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/20210101/fr"
 
 (LMI)
 
-du 6 octobre 1995 (État le 1<sup>er</sup> janvier 2021)
+du 6 octobre 1995 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,8 +25,8 @@ vu les art. 94 et 95[^ingress-1] de la Constitution[^ingress-2],[^ingress-3] vu 
 
 arrête:
 
-[^ingress-1]: Les al. 1 et 2, 2<sup>e</sup> phrase, de cette disp. correspondent aux art. 31<sup>bis</sup>, al. 2, et 33, al. 2, de la Cst. du 29 mai 1874 [RS **1** 3].
-[^ingress-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: Les al. 1 et 2, 2<sup>e</sup> phrase, de cette disp. correspondent aux art. 31<sup>bis</sup>, al. 2, et 33, al. 2, de la Cst. du 29 mai 1874 [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3].
+[^ingress-2]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 [^ingress-4]: [FF 1995 I 1193](https://fedlex.data.admin.ch/eli/fga/1995/1_1213_1193_1025)
 
@@ -67,12 +67,13 @@ Elle vise en particulier à:
 
 <sup>6</sup> Lorsqu’une autorité d’exécution cantonale a constaté que l’accès au marché d’une marchandise, d’un service ou d’une prestation est conforme au droit fédéral ou en a autorisé l’accès au marché, sa décision est applicable dans toute la Suisse. L’autorité fédérale chargée de veiller à l’application uniforme du droit a qualité pour recourir. Elle peut exiger de l’autorité cantonale que la décision lui soit communiquée.[^2-3]
 
-<sup>7</sup> La transmission de l’exploitation d’un monopole cantonal ou communal à des entreprises privées doit faire l’objet d’un appel d’offres et ne peut discriminer des personnes ayant leur établissement ou leur siège en Suisse.[^2-4]
+<sup>7</sup> La transmission de l’exploitation d’un monopole cantonal ou communal à des entreprises privées doit faire l’objet d’un appel d’offres et ne peut discriminer des personnes ayant leur établissement ou leur siège en Suisse.[^2-4] Les dispositions légales spéciales priment.[^2-5]
 
 [^2-1]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 [^2-2]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 [^2-3]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 [^2-4]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^2-5]: Phrase introduite par l’annexe ch. 5 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art.3
 
@@ -107,7 +108,7 @@ Les restrictions ne répondent pas au principe de la proportionnalité lorsque:
 
 <sup>1</sup> Les certificats de capacité cantonaux ou reconnus au niveau cantonal et permettant d’exercer une activité lucrative sont valables sur tout le territoire suisse pour autant qu’ils ne fassent pas l’objet de restrictions au sens de l’art. 3.
 
-<sup>2</sup> ...[^4-1]
+<sup>2</sup> …[^4-1]
 
 <sup>3</sup> Si le certificat de capacité ne répond que partiellement aux exigences en vigueur au lieu de destination, l’intéressé peut apporter la preuve qu’il a acquis les connaissances requises d’une autre manière dans le cadre d’une formation ou d’une activité pratique.
 
@@ -116,7 +117,7 @@ Les restrictions ne répondent pas au principe de la proportionnalité lorsque:
 <sup>4</sup> Lorsque les cantons prévoient la reconnaissance mutuelle des certificats de capacité dans un accord intercantonal, les dispositions de ce dernier l’emportent sur la présente loi.
 
 [^4-1]: Abrogé par le ch. I de la LF du 16 déc. 2005, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^4-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^4-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^4-3]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 #### Art. 5
@@ -128,8 +129,8 @@ Les restrictions ne répondent pas au principe de la proportionnalité lorsque:
 <sup>2</sup> Les cantons, les communes et les autres organes assumant des tâches cantonales et communales veillent à ce que les projets de marchés publics de grande importance portant sur des fournitures, des services ou des travaux, de même que les critères de participation et d’attribution du marché, soient publiés dans un organe officiel. Ils tiennent compte à cet égard des engagements internationaux pris par la Confédération.
 
 [^5-1]: [FF 2017 2013](https://fedlex.data.admin.ch/eli/fga/2017/421)
-[^5-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
-[^5-3]: Introduite par l’annexe 7 ch. II 7 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^5-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
+[^5-3]: Phrase introduite par l’annexe 7 ch. II 7 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 6
 
@@ -141,13 +142,13 @@ Les restrictions ne répondent pas au principe de la proportionnalité lorsque:
 
 <sup>3</sup> L’al. 2 s’applique par analogie aux accords intercantonaux.
 
-## Section 3 ...
-
-[^sec3-1]
-
-[^sec3-1]: Abrogée par le ch. I de la LF du 16 déc. 2005, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+## Section 3 …
 
 #### Art. 7
+
+[^7-1]
+
+[^7-1]: Abrogé par le ch. I de la LF du 16 déc. 2005, avec effet au 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 ## Section 4 Recommandations et voies de droit
 
@@ -190,8 +191,8 @@ Les personnes concernées sont tenues de fournir à la Commission de la concurre
 <sup>2</sup> La Commission de la concurrence poursuit et juge les violations de l’obligation de renseigner conformément aux procédures prévues par la loi fédérale du 22 mars 1974[^8c-3] sur le droit pénal administratif.
 
 [^8c-1]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^8c-2]: Nouvelle teneur selon l’art. 333 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^8c-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^8c-2]: Nouvelle teneur selon l’art. 333 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^8c-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 9
 
@@ -213,10 +214,10 @@ Le droit cantonal prévoit au moins une voie de recours devant une autorité ind
 
 <sup>4</sup> Pour les décisions rendues par des organes de la Confédération, les dispositions générales de la procédure administrative fédérale sont applicables.
 
-[^9-1]: Nouvelle teneur selon l’annexe 7 ch. II 7 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
-[^9-2]: Nouvelle teneur selon l’annexe 7 ch. II 7 de la LF du 21 juin 2019 sur les marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^9-1]: Nouvelle teneur selon l’annexe 7 ch. II 7 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
+[^9-2]: Nouvelle teneur selon l’annexe 7 ch. II 7 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 [^9-3]: Introduit par le ch. I de la LF du 16 déc. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2006 ([RO 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 421](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^9-4]: Nouvelle teneur selon le ch. 138 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^9-4]: Nouvelle teneur selon l’annexe ch. 138 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 10
 

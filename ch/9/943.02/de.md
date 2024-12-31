@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 1995 über den Binnenmarkt (Binnenmarktgeset
 short: BGBM
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738"
 language: de
-version: 2021-01-01
+version: 2025-01-01
 adopted: 1995-10-06
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1996-1738_1738_1738-20210101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1996-1738_1738_1738-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/20210101/de"
 
 (Binnenmarktgesetz, BGBM)
 
-vom 6. Oktober 1995 (Stand am 1. Januar 2021)
+vom 6. Oktober 1995 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -26,7 +26,7 @@ gestützt auf die Artikel 94 und 95[^ingress-1] der Bundesverfassung[^ingress-2]
 beschliesst:
 
 [^ingress-1]: Abs. 1 und Abs. 2 Satz 2 dieser Bestimmung entsprechen den Art. 31<sup>bis</sup> Abs. 2 und 33 Abs. 2 aBV vom 29. Mai 1874 [BS **1** 3].
-[^ingress-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 [^ingress-4]: [BBl 1995 I 1213](https://fedlex.data.admin.ch/eli/fga/1995/1_1213_1193_1025)
 
@@ -67,12 +67,13 @@ Es soll insbesondere:
 
 <sup>6</sup> Hat eine zuständige kantonale Vollzugsbehörde festgestellt, dass der Marktzugang für eine Ware, Dienstleistung oder Arbeitsleistung mit dem Bundesrecht übereinstimmt, oder hat sie den Marktzugang bewilligt, so gilt dieser Entscheid für die ganze Schweiz. Der für den einheitlichen Gesetzesvollzug zuständigen Bundesbehörde steht das Beschwerderecht zu. Sie kann von der kantonalen Behörde die Eröffnung der Verfügung verlangen.[^2-3]
 
-<sup>7</sup> Die Übertragung der Nutzung kantonaler und kommunaler Monopole auf Private hat auf dem Weg der Ausschreibung zu erfolgen und darf Personen mit Niederlassung oder Sitz in der Schweiz nicht diskriminieren.[^2-4]
+<sup>7</sup> Die Übertragung der Nutzung kantonaler und kommunaler Monopole auf Private hat auf dem Weg der Ausschreibung zu erfolgen und darf Personen mit Niederlassung oder Sitz in der Schweiz nicht diskriminieren.[^2-4] Spezialgesetzliche Bestimmungen gehen vor.[^2-5]
 
 [^2-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 [^2-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 [^2-3]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 [^2-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^2-5]: Zweiter Satz eingefügt durch Anhang Ziff. 5 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 3
 
@@ -116,7 +117,7 @@ Nicht verhältnismässig sind Beschränkungen insbesondere, wenn:
 <sup>4</sup> Soweit die Kantone in einer interkantonalen Vereinbarung die gegenseitige Anerkennung von Fähigkeitsausweisen vorsehen, gehen deren Vorschriften diesem Gesetz vor.
 
 [^4-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2005, mit Wirkung seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^4-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^4-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^4-3]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 #### Art. 5
@@ -128,7 +129,7 @@ Nicht verhältnismässig sind Beschränkungen insbesondere, wenn:
 <sup>2</sup> Kantone und Gemeinden sowie andere Träger kantonaler und kommunaler Aufgaben sorgen dafür, dass die Vorhaben für umfangreiche öffentliche Einkäufe, Dienstleistungen und Bauten sowie die Kriterien für Teilnahme und Zuschlag amtlich publiziert werden. Sie berücksichtigen dabei die vom Bund eingegangenen staatsvertraglichen Verpflichtungen.
 
 [^5-1]: [BBl 2017 2175](https://fedlex.data.admin.ch/eli/fga/2017/421)
-[^5-2]: [SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^5-2]: [SR 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^5-3]: Dritter Satz eingefügt durch Anhang 7 Ziff. II 7 des BG vom 21. Juni 2019 über das öffentliche Beschaffungswesen, in Kraft seit 1. Jan. 2021 ([AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 6
@@ -143,11 +144,11 @@ Nicht verhältnismässig sind Beschränkungen insbesondere, wenn:
 
 ## 3. Abschnitt: ...
 
-[^sec3-1]
-
-[^sec3-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2005, mit Wirkung seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-
 #### Art. 7
+
+[^7-1]
+
+[^7-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2005, mit Wirkung seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 ## 4. Abschnitt: Empfehlungen und Rechtsschutz
 
@@ -190,8 +191,8 @@ Betroffene Personen sind verpflichtet, der Wettbewerbskommission alle für deren
 <sup>2</sup> Die Wettbewerbskommission verfolgt und beurteilt die Verletzung der Auskunftspflicht nach den Verfahrensvorschriften des Bundesgesetzes vom 22. März 1974[^8c-3] über das Verwaltungsstrafrecht.
 
 [^8c-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Juli 2006 ([AS 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [BBl 2005 465](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^8c-2]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^8c-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^8c-2]: Fassung gemäss Art. 333 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^8c-3]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 9
 

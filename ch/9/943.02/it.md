@@ -4,11 +4,11 @@ title: Legge federale del 6 ottobre 1995 sul mercato interno (LMI)
 short: LMI
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738"
 language: it
-version: 2021-01-01
+version: 2025-01-01
 adopted: 1995-10-06
 in_force: 1996-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1738_1738_1738-20210101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/1738_1738_1738/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1996-1738_1738_1738-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/1738_1738_1738/20210101/it"
 
 (LMI)
 
-del 6 ottobre 1995 (Stato 1° gennaio 2021)
+del 6 ottobre 1995 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,8 +26,8 @@ visti gli articoli 94 e 95[^ingress-1] della Costituzione federale[^ingress-2],[
 decreta:
 
 [^ingress-1]: I cpv. 1 e 2 secondo per. di questa disp. corrispondono agli art. 31<sup>bis</sup> cpv. 2 e 33 cpv. 2 della Cost. federale del 29 mag. 1874 [CS **1** 3].
-[^ingress-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-3]: Nuovo testo giusta il n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^ingress-2]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-3]: Nuovo testo giusta il n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 [^ingress-4]: [FF 1995 I 1025](https://fedlex.data.admin.ch/eli/fga/1995/1_1213_1193_1025)
 
 ## Sezione 1: Scopo e oggetto
@@ -47,7 +47,7 @@ Essa ha in particolare lo scopo di:
 
 <sup>3</sup> Per attività lucrativa ai sensi della presente legge s’intende ogni attività a scopo di lucro, eccetto quelle che rientrano negli ambiti di sovranità dello Stato.[^1-1]
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^1-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 ## Sezione 2: Principi del libero accesso al mercato
 
@@ -67,12 +67,13 @@ Essa ha in particolare lo scopo di:
 
 <sup>6</sup> Se, riguardo a una merce, a un servizio o a una prestazione lavorativa, un’autorità esecutiva cantonale competente ha riconosciuto conforme al diritto federale o autorizzato l’accesso al mercato, questa sua decisione vale in tutta la Svizzera. L’autorità federale competente per l’esecuzione uniforme della legge è legittimata al ricorso. Essa può esigere che l’autorità cantonale le comunichi tali decisioni.[^2-3]
 
-<sup>7</sup> Il trasferimento a privati di attività rientranti in monopoli cantonali o comunali si svolge su concorso e non deve discriminare le persone con domicilio o sede in Svizzera.[^2-4]
+<sup>7</sup> Il trasferimento a privati di attività rientranti in monopoli cantonali o comunali si svolge su concorso e non deve discriminare le persone con domicilio o sede in Svizzera.[^2-4] Sono fatte salve le disposizioni previste da leggi speciali.[^2-5]
 
-[^2-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^2-2]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^2-3]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^2-4]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^2-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^2-2]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^2-3]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^2-4]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^2-5]: Secondo per. introdotto dall’all. n. 5 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 3
 
@@ -99,7 +100,7 @@ Le restrizioni non sono conformi al principio di proporzionalità in particolare
 
 <sup>4</sup> Le decisioni concernenti le restrizioni sono prese con procedura semplice, rapida e gratuita.
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^3-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 #### Art. 4
 
@@ -115,9 +116,9 @@ Le restrizioni non sono conformi al principio di proporzionalità in particolare
 
 <sup>4</sup> Se i Cantoni prevedono il riconoscimento reciproco di certificati di capacità in un accordo intercantonale, le disposizioni di quest’ultimo sono poziori alla presente legge.
 
-[^4-1]: Abrogato dal n. I della LF del 16 dic. 2005, con effetto dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^4-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^4-3]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^4-1]: Abrogato dal n. I della LF del 16 dic. 2005, con effetto dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^4-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^4-3]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 #### Art. 5
 
@@ -128,7 +129,7 @@ Le restrizioni non sono conformi al principio di proporzionalità in particolare
 <sup>2</sup> I Cantoni, i Comuni, come pure gli altri enti preposti a compiti cantonali e comunali vegliano affinché i progetti relativi ad acquisti pubblici di considerevole importanza a prestazioni di servizi e a lavori di costruzione, come pure i criteri di partecipazione e di aggiudicazione dell’appalto, siano pubblicati su un organo ufficiale. Tengono conto degli obblighi internazionali della Confederazione.
 
 [^5-1]: [FF 2017 1901](https://fedlex.data.admin.ch/eli/fga/2017/421)
-[^5-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^5-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^5-3]: Nuovo testo giusta l’all. 7 n. II 7 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 6
@@ -147,7 +148,7 @@ Le restrizioni non sono conformi al principio di proporzionalità in particolare
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I della LF del 16 dic. 2005, con effetto dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^7-1]: Abrogato dal n. I della LF del 16 dic. 2005, con effetto dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 ## Sezione 4: Raccomandazioni e rimedi giuridici
 
@@ -163,7 +164,7 @@ Le restrizioni non sono conformi al principio di proporzionalità in particolare
 
 <sup>4</sup> Assicura, in collaborazione con i Cantoni e i servizi federali interessati, l’esecuzione dell’articolo 4 capoverso 3<sup>bis</sup> e a tal fine può emanare raccomandazioni.[^8-1]
 
-[^8-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^8-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 #### Art. 8a
 
@@ -171,7 +172,7 @@ Le restrizioni non sono conformi al principio di proporzionalità in particolare
 
 Su domanda, i servizi della Confederazione, dei Cantoni e dei Comuni collaborano agli accertamenti della Commissione della concorrenza e le mettono a disposizione i documenti necessari.
 
-[^8a-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^8a-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 #### Art. 8b
 
@@ -179,7 +180,7 @@ Su domanda, i servizi della Confederazione, dei Cantoni e dei Comuni collaborano
 
 Le persone interessate sono tenute a fornire alla Commissione della concorrenza tutte le informazioni occorrenti per i suoi accertamenti e a metterle a disposizione i documenti necessari.
 
-[^8b-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^8b-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 #### Art. 8c
 
@@ -189,9 +190,9 @@ Le persone interessate sono tenute a fornire alla Commissione della concorrenza 
 
 <sup>2</sup> La Commissione della concorrenza persegue e giudica le violazioni dell’obbligo di informare secondo le disposizioni procedurali della legge federale del 22 marzo 1974[^8c-3] sul diritto penale amministrativo.
 
-[^8c-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^8c-2]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^8c-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^8c-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^8c-2]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nel testo della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^8c-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 9
 
@@ -215,8 +216,8 @@ Il diritto cantonale prevede almeno un rimedio giuridico presso un’autorità i
 
 [^9-1]: Nuovo testo giusta l’all. 7 n. II 7 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 [^9-2]: Nuovo testo giusta l’all. 7 n. II 7 della LF del 21 giu. 2019 sugli appalti pubblici, in vigore dal 1° gen. 2021 ([RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)).
-[^9-3]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
-[^9-4]: Nuovo testo giusta l’all. n. 138 della LF del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^9-3]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^9-4]: Nuovo testo giusta l’all. n. 138 della LF del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 10
 
@@ -234,7 +235,7 @@ Il diritto cantonale prevede almeno un rimedio giuridico presso un’autorità i
 
 <sup>2</sup> Le autorità amministrative e giudiziarie trasmettono spontaneamente alla Commissione della concorrenza una copia completa delle decisioni e sentenze pronunciate in applicazione della presente legge. La Commissione della concorrenza raccoglie queste decisioni e sentenze e può pubblicarle periodicamente.
 
-[^10a-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364)2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
+[^10a-1]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° lug. 2006 ([RU 2006 2363](https://fedlex.data.admin.ch/eli/oc/2006/364), 2366; [FF 2005 409](https://fedlex.data.admin.ch/eli/fga/2005/54)).
 
 ## Sezione 5: Disposizioni finali
 
