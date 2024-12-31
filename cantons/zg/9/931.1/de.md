@@ -4,13 +4,12 @@ number: "931.1"
 title: Einführungsgesetz zum Bundesgesetz über den Wald
 short: EG Waldgesetz
 language: de
-version: 2020-01-01
-valid_until: 2024-12-31
-version_adopted: 2018-11-29
+version: 2025-01-01
+version_adopted: 2024-01-25
 adopted: 1998-12-17
 in_force: 1999-04-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/931.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2614/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2614/pdf_file"
 
 (EG Waldgesetz)
 
-Vom 17. Dezember 1998 (Stand 1. Januar 2020)
+Vom 17. Dezember 1998 (Stand 1. Januar 2025)
 
 Der Kantonsrat des Kantons Zug,
 
-in Vollziehung von Art. 50 des Bundesgesetzes über den Wald vom 4. Oktober 1991[^ingress-1] sowie gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-2],
+in Vollziehung von Art. 50 des Bundesgesetzes über den Wald (Waldgesetz, WaG) vom 4. Oktober 1991[^ingress-1] sowie gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-2],
 
 beschliesst:
 
@@ -36,7 +35,7 @@ beschliesst:
 
 **Waldbegriff**
 
-<sup>1</sup> Eine mit Waldbäumen oder Waldsträuchern bestockte Fläche gilt in der Regel als Wald, wenn sie folgende Mindestanforderungen erfüllt:
+<sup>1</sup> Als Wald gelten Flächen innerhalb statisch festgesetzter Waldgrenzen. Wo keine statischen Waldgrenzen bestehen, gilt eine mit Waldbäumen oder Waldsträuchern bestockte Fläche in der Regel als Wald, wenn sie folgende Mindestanforderungen erfüllt:
 
 - a) Fläche: 800 m²;
 - b) Breite: 12 m;
@@ -52,17 +51,17 @@ beschliesst:
 
 **Waldfeststellungsverfahren**
 
-<sup>1</sup> Wer ein schutzwürdiges Interesse nachweist, kann feststellen lassen, ob eine Fläche Wald ist. Waldfeststellungsentscheide werden im Amtsblatt veröffentlicht.
+<sup>1</sup> Wer ein schutzwürdiges Interesse nachweist, kann feststellen lassen, ob eine Fläche Wald ist. Das Amt für Wald und Wild führt zur Schaffung von Rechtssicherheit von Amtes wegen Waldfeststellungen durch und setzt die festgestellte Waldgrenze statisch fest. Waldfeststellungsentscheide sowie die Festlegung von statischen Waldgrenzen werden im Amtsblatt veröffentlicht.
 
-<sup>2</sup> Erfolgt die Waldfeststellung im Rahmen eines Vorhabens, das öffentlich aufzulegen ist, wird anstelle des Waldfeststellungsentscheides das Waldfeststellungsgesuch veröffentlicht. Die für das Vorhaben geltenden Auflagevorschriften gelangen sinngemäss auch auf das Waldfeststellungsverfahren zur Anwendung.
+<sup>2</sup> Erfolgt die Waldfeststellung im Rahmen eines Vorhabens, das öffentlich aufzulegen ist, kann gleichzeitig mit dem Vorhaben der Waldfeststellungsentscheid veröffentlicht werden. Die für das Vorhaben geltenden Auflagevorschriften gelangen sinngemäss auch beim Waldfeststellungsverfahren zur Anwendung.
 
-<sup>3</sup> Die Waldgrenzen werden vom Amt für Wald und Wild im Gelände festgelegt. Der Grundbuchgeometer oder die Grundbuchgeometerin sorgt für die vermessungstechnische Aufnahme und veranlasst die Eintragung in die Pläne für das Grundbuch.
+<sup>3</sup> Die Waldgrenzen werden vom Amt für Wald und Wild im Gelände festgelegt. Es veranlasst die vermessungstechnische Aufnahme und die Eintragung in den Plan für das Grundbuch.
 
 #### § 3
 
 **Rodungsbewilligungsverfahren**
 
-<sup>1</sup> Rodungsgesuche sind der Direktion des Innern einzureichen. Die Direktion des Innern veröffentlicht die Gesuche im Amtsblatt und legt sie während 20 Tagen zur Einsichtnahme auf. Wird die Rodung für ein Vorhaben anbegehrt, welches während einer anderen Frist aufzulegen ist, gilt diese andere Auflagefrist auch für das Rodungsgesuch.
+<sup>1</sup> Rodungsgesuche sind dem Amt für Wald und Wild einzureichen, sofern nicht der Bund dafür zuständig ist. Es veröffentlicht die Gesuche im Amtsblatt und legt sie während 20 Tagen zur Einsichtnahme auf. Wird die Rodung für ein Vorhaben anbegehrt, das während einer anderen Frist aufzulegen ist, gilt diese andere Auflagefrist auch für das Rodungsgesuch.
 
 <sup>2</sup> Innerhalb der Auflagefrist können die Betroffenen, die beschwerdeberechtigten Vereinigungen für Natur- und Heimatschutz nach Art. 46 Abs. 3 des Bundesgesetzes sowie die örtlich betroffene Einwohnergemeinde gegen das Rodungsvorhaben Einsprache erheben.
 
@@ -82,11 +81,11 @@ beschliesst:
 
 #### § 5
 
-**Abgrenzung von Wald und Bauzonen**
+**Abgrenzung von Wald und Nutzungszonen**
 
-<sup>1</sup> Erfordern der Erlass oder die Änderung von Nutzungsplänen ein Waldfeststellungsverfahren nach Art. 10 Abs. 2 oder nach Art. 13 Abs. 3 des Bundesgesetzes, reicht die Einwohnergemeinde der Direktion des Innern ein entsprechendes Gesuch ein.
+<sup>1</sup> …
 
-<sup>2</sup> Nach rechtskräftigem Abschluss des Waldfeststellungsverfahrens trägt die Einwohnergemeinde die festgestellten Waldgrenzen in ihre Bauzonenpläne ein.
+<sup>2</sup> Nach rechtskräftigem Abschluss des Waldfeststellungsverfahrens führt die Einwohnergemeinde die festgestellten Waldgrenzen in ihren Nutzungsplänen nach.
 
 #### § 6
 
@@ -106,9 +105,11 @@ beschliesst:
 
 #### § 7
 
-**Planung von Schutzmassnahmen**
+**Planungsgrundlagen Naturgefahren**
 
-<sup>1</sup> Das Amt für Wald und Wild erarbeitet die Planungsgrundlagen für den Schutz vor Naturereignissen, soweit Wald betroffen ist oder vom Wald Schutzwirkungen ausgehen können. Die kantonalen Planungs- und Baubehörden erarbeiten die Planungsgrundlagen in den übrigen Fällen. Sie sorgen für die Koordination mit der Planung des Amtes für Wald und Wild.
+<sup>1</sup> Das Amt für Wald und Wild führt den Ereigniskataster und erarbeitet in Koordination mit den anderen betroffenen Ämtern die Planungsgrundlagen für den Schutz vor Naturereignissen. Diese orientieren sich an den Strategien und Standards des Bundes.
+
+<sup>2</sup> Das Amt für Wald und Wild nimmt die Aufsicht über die Gewässer im Wald wahr und meldet wasserbaurelevante Beobachtungen dem kantonalen Tiefbauamt. Geringfügige Massnahmen des forstlichen Bachverbaus können über die Waldgesetzgebung geregelt werden.
 
 #### § 7bis
 
@@ -134,11 +135,17 @@ beschliesst:
 
 **Zugänglichkeit des Waldes**
 
-<sup>1</sup> Die Zugänglichkeit des Waldes für die Allgemeinheit ist gewährleistet.
+<sup>1</sup> Die Zugänglichkeit des Waldes für die Allgemeinheit ist gewährleistet. Die Betretung des Waldes geschieht auf eigene Gefahr.
 
 <sup>2</sup> Im Interesse der Walderhaltung sowie aus anderen öffentlichen Interessen kann die Zugänglichkeit des Waldes eingeschränkt werden, insbesondere zum Schutz wertvoller Pflanzenbestände, zum Schutz wildlebender Tiere und zur Sicherung der Waldverjüngung.
 
-<sup>3</sup> Wo es die Walderhaltung oder andere öffentliche Interessen erfordern, können störende Tätigkeiten im Wald eingeschränkt oder verboten werden, namentlich das Reiten, Radfahren oder Skifahren abseits von Strassen und befestigten Wegen.
+<sup>3</sup> Wo es die Walderhaltung oder andere öffentliche Interessen erfordern, können störende Tätigkeiten im Wald auf und abseits von Strassen und Wegen eingeschränkt oder verboten werden. Radfahren ist nur auf Waldstrassen sowie auf den im Richtplan bezeichneten Mountainbike-Routen erlaubt.
+
+<sup>4</sup> Im Wald und am Waldrand müssen Hunde in Sichtdistanz und so unter Aufsicht gehalten werden, dass sie jederzeit abrufbar sind und weder Mensch noch Tier belästigen oder gefährden. Vom 1. April bis 31. Juli gilt in diesen Gebieten eine Hundeleinenpflicht. Ausgenommen davon sind Diensthunde der Polizei und anerkannte Rettungshunde im Einsatz und im Training. Den Umgang mit Jagdgebrauchshunden regelt die Jagdgesetzgebung[^9-1].
+
+<sup>5</sup> Im Wald sind das Fliegenlassen von Drohnen bis 50 Meter über Boden sowie das Betreiben von Überwachungsgeräten für private Zwecke verboten. Ausnahmen benötigen eine Bewilligung des Amts für Wald und Wild. Die Waldeigentümerschaften sind über die Ausnahmebewilligungen zu informieren.
+
+[^9-1]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
 
 #### § 10
 
@@ -151,7 +158,7 @@ beschliesst:
 - c) zum Unterhalt von Energiegewinnungsanlagen, von Versorgungs- und Entsorgungseinrichtungen sowie von Gewässern;
 - d) zwecks Zufahrt zu einem bebauten Grundstück nach Massgabe einer entsprechenden privaten Berechtigung, wenn keine andere Strassenerschliessung besteht.
 
-<sup>2</sup> Im Einzelfall können weitere Ausnahmen bewilligt werden, wenn überwiegende Interessen dies rechtfertigen.
+<sup>2</sup> Im Einzelfall kann das Amt für Wald und Wild weitere Ausnahmen bewilligen, wenn überwiegende Interessen dies rechtfertigen.
 
 #### § 11
 
@@ -159,7 +166,7 @@ beschliesst:
 
 <sup>1</sup> Veranstaltungen im Wald mit mutmasslich über 100 Teilnehmenden oder Zuschauenden sind vorgängig dem Amt für Wald und Wild zu melden. Übersteigt die Teilnehmer- beziehungsweise Zuschauerzahl die Grenze von 250 Personen, bedarf die Veranstaltung einer Bewilligung des Amtes für Wald und Wild. Keine Melde- und Bewilligungspflicht besteht für Wanderungen auf Waldstrassen und Waldwegen.
 
-<sup>2</sup> Bewilligungspflichtig sind ebenso alle Veranstaltungen, deren Auswirkungen geeignet sind, den Wald als naturnahe Lebensgemeinschaft ernsthaft zu gefährden. Darunter fallen insbesondere Rad-, Ski- oder Reitsportveranstaltungen sowie Veranstaltungen, an denen akustische Verstärkeranlagen, Lichtorgeln oder andere technische Hilfsmittel verwendet werden.
+<sup>2</sup> Bewilligungspflichtig sind ebenso alle Veranstaltungen, deren Auswirkungen geeignet sind, den Wald als naturnahe Lebensgemeinschaft ernsthaft zu gefährden. Darunter fallen insbesondere Rad-, Ski- oder Reitsportveranstaltungen sowie Veranstaltungen, von denen erhebliche Licht- und Lärmemission ausgehen.
 
 <sup>3</sup> Die Bewilligung wird erteilt, wenn aufgrund der konkreten Umstände keine übermässige Beeinträchtigung für den Wald als naturnahe Lebensgemeinschaft zu erwarten ist. Die Bewilligung kann mit Auflagen und Bedingungen verbunden werden. Das Amt für Wald und Wild hört vor seinem Entscheid allfällige weitere betroffene Amtsstellen an.
 
@@ -179,7 +186,7 @@ beschliesst:
 
 <sup>1</sup> Die Waldplanung umschreibt die Rahmenbedingungen und bezeichnet die Zielsetzungen und Massnahmen für die Pflege und Nutzung des Waldes. Sie ist auf eine naturnahe, nachhaltige und zugleich wirtschaftliche Waldpflege und -nutzung auszurichten.
 
-<sup>2</sup> Sie umfasst das Kapitel Wald im kantonalen Richtplan, den Waldentwicklungsplan und die Waldwirtschaftspläne.
+<sup>2</sup> Die Instrumente der Waldplanung sind das Kapitel Wald im kantonalen Richtplan, der Waldentwicklungsplan und die Ausführungsplanung.
 
 <sup>3</sup> …
 
@@ -218,21 +225,21 @@ beschliesst:
 
 #### § 14
 
-**Waldwirtschaftspläne**
+**Ausführungsplanung**
 
-<sup>1</sup> Die Waldwirtschaftspläne legen die Pflege und Nutzung des Waldes eigentümerverbindlich auf Revier- und Betriebsstufe fest. Sie konkretisieren die im Kapitel Wald des kantonalen Richtplanes und die im Waldentwicklungsplan enthaltenen Zielsetzungen und koordinieren die Pflege- und Nutzungsmassnahmen der einzelnen Waldeigentumsberechtigten.
+<sup>1</sup> Die Ausführungsplanung konkretisiert die Festlegungen des Waldentwicklungsplans und regelt die Abgeltung. Sie dient als Grundlage für die Programmvereinbarungen mit dem Bund und die eigentümerverbindliche Sicherung von Massnahmen.
 
-<sup>2</sup> Für jeden Waldwirtschaftsplan wird die für den gesamten Perimeter zulässige maximale Holznutzungsmenge für einen bestimmten Zeitraum periodisch so festgesetzt, dass der Wald seine Funktionen dauernd, uneingeschränkt und somit nachhaltig erfüllen kann.
+<sup>2</sup> Auf Basis der Ausführungsplanung verfügt das Amt für Wald und Wild für Waldeigentümerschaften mit über 50 Hektaren Wald über eine Zeitdauer von höchstens 10 Jahren die maximale nachhaltige Holznutzungsmenge. Bei allen anderen Waldeigentümerschaften ist die Einhaltung der nachhaltigen Holznutzungsmenge durch die Revierforstleute über die Holzanzeichnung zu gewährleisten.
 
-<sup>3</sup> Die Erstellung der Waldwirtschaftspläne erfolgt in der Form von Vereinbarungen unter Vorbehalt von § 7<sup>bis</sup> und § 14 Abs. 2 EG Waldgesetz.
+<sup>3</sup> …
 
 #### § 15
 
 **Waldarbeiten**
 
-<sup>1</sup> Waldarbeiten sind nach Massgabe der Waldwirtschaftspläne und gemäss den Anordnungen und Weisungen der Forstbehörden auszuführen.
+<sup>1</sup> Waldarbeiten sind nach Massgabe der Ausführungsplanung naturnah, auf den Standort abgestimmt und gemäss den Anordnungen und Weisungen der Forstbehörden auszuführen. Im Wald mit besonderer Schutzfunktion gegen Naturgefahren kann das Amt für Wald und Wild Massnahmen zur Funktionserfüllung verfügen. Die Waldeigentümerschaften sind schadlos zu halten.
 
-<sup>2</sup> Wer Waldarbeiten ausführt, ist verantwortlich für die notwendigen Sicherheitsvorkehren insbesondere zur Gewährleistung der Arbeitssicherheit und zum Schutz öffentlicher Verkehrswege.
+<sup>2</sup> Wer Waldarbeiten ausführt, ist verantwortlich für die notwendigen Sicherheitsvorkehrungen, insbesondere zur Gewährleistung der Arbeitssicherheit und zum Schutz öffentlicher Verkehrswege.
 
 <sup>3</sup> Notwendige Verkehrsregelungen oder Sperrungen auf Kantons- oder Gemeindestrassen werden auf Antrag des Amtes für Wald und Wild von der Polizei und den Strassenunterhaltsdiensten durchgeführt. Die Kosten trägt dasjenige Gemeinwesen, auf dessen Strasse der Verkehr geregelt oder gesperrt werden muss.
 
@@ -240,11 +247,13 @@ beschliesst:
 
 **Verhütung und Behebung von Waldschäden**
 
-<sup>1</sup> Waldeigentumsberechtigte melden Schadengefahren und Schäden, die sie in ihren Waldungen feststellen, unverzüglich den Forstbehörden.
+<sup>1</sup> Waldeigentümerschaften melden Schadengefahren und Schäden, die sie in ihren Waldungen feststellen, unverzüglich dem Amt für Wald und Wild.
 
-<sup>2</sup> Die Forstbehörden ordnen die notwendigen forstlichen Schadenverhütungs- oder -behebungsmassnahmen an und überwachen die Durchführung. Sie können die Massnahmen auch selber durchführen.
+<sup>2</sup> Das Amt für Wald und Wild ordnet nach Rücksprache mit der Grundeigentümerschaft die notwendigen forstlichen Schadenverhütungs- oder -behebungsmassnahmen an und überwacht die Durchführung. Es kann die Massnahmen auch selber durchführen. Die Grundeigentümerschaft hat die Überwachung, Behandlung oder Vernichtung von Schadorganismen, die den Wald in seinen Funktionen erheblich gefährden können, zu dulden. Ist der Verursacher bekannt, hat dieser die Kosten zu tragen.
 
 <sup>3</sup> Die Verhütung von Waldschäden, die durch Wild verursacht werden, richtet sich nach dem Gesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel[^16-1].
+
+<sup>4</sup> Zur Waldbrandprävention kann das Amt für Wald und Wild ein Feuerverbot im Wald und in Waldesnähe verfügen. Ein absolutes Feuerverbot erfolgt in Absprache mit der Gebäudeversicherung Zug.
 
 [^16-1]: BGS [932.1](https://bgs.zg.ch/data/932.1/de)
 
@@ -252,7 +261,7 @@ beschliesst:
 
 **Erwerb, Veräusserung und Teilung von Wald**
 
-<sup>1</sup> Im Interesse der Walderhaltung und der Artenvielfalt von Fauna und Flora kann der Kanton Waldgrundstücke erwerben.
+<sup>1</sup> Im Interesse der Walderhaltung und der Biodiversität sowie zum Schutz vor Naturereignissen kann der Kanton Waldgrundstücke erwerben.
 
 <sup>2</sup> Gesuche um Veräusserung von gemeindlichem Wald und solche um Teilung von Wald werden von der Direktion des Innern entschieden. Bedarf die Veräusserung oder die Teilung zugleich einer Bewilligung nach dem Bundesgesetz über das bäuerliche Bodenrecht[^17-1], entscheidet die Volkswirtschaftsdirektion im Verfahren nach dem Einführungsgesetz zum Bundesgesetz über das bäuerliche Bodenrecht[^17-2]. Die Bewilligung bedarf der Zustimmung der Direktion des Innern.
 
@@ -332,52 +341,53 @@ beschliesst:
 
 #### § 24
 
-**Kantonsbeiträge für Massnahmen von besonderem öffentlichem Interesse**
+**Beiträge für Massnahmen von besonderem öffentlichem Interesse**
 
-<sup>1</sup> Der Kanton leistet Beiträge bis zu 70 Prozent an die beitragsberechtigten Kosten für forstliche Massnahmen, die von den Forstbehörden als von besonderem öffentlichem Interesse nach definierten Prioritäten anerkannt oder angeordnet werden:
+<sup>1</sup> Der Kanton leistet Beiträge an die beitragsberechtigten Kosten für forstliche Massnahmen, die von den Forstbehörden als von besonderem öffentlichem Interesse nach definierten Prioritäten anerkannt oder angeordnet werden:
 
 - a) zum Schutz von Menschen oder erheblichen Sachwerten vor Naturereignissen, davon ausgenommen ist der forstliche Wasserbau;
-- b) zur minimalen Pflege von Wäldern mit besonderer Schutzfunktion gegen Naturgefahren;
-- c) zur Anlage und Wiederherstellung von Wäldern mit Schutzfunktion;
+- b) zur Behandlung von Wäldern mit besonderer Schutzfunktion gegen Naturgefahren, besonderer Naturschutzfunktion und besonderer Erholungsfunktion;
+- c) zur Sicherung und Wiederherstellung von Wäldern mit Schutzfunktion;
 - d) zur Gewährleistung der Verkehrssicherheit entlang öffentlicher Strassen;
 - e) zur Verhütung und Behebung von Waldschäden;
-- f) zur Behandlung von Wäldern mit besonderer Naturschutzfunktion;
-- g) zur Behandlung von Wäldern mit besonderer Erholungsfunktion.
+- f) …
+- g) …
+- h) zur Förderung von Alt- und Totholz.
 
-<sup>2</sup> Sind keine Bundesbeiträge erhältlich oder sind die Kosten einer Massnahme nach Abs.1 aus anderen Gründen nicht voll gedeckt, kann der Kantonsbeitrag auf über 70 Prozent der beitragsberechtigten Kosten angehoben werden.
+<sup>2</sup> Die Massnahmen orientieren sich an den Bundesvorgaben und an der Waldplanung. Die beitragsberechtigten Restkosten der Massnahmen oder ausgewiesene, erhebliche Mehraufwendungen werden durch das Amt für Wald und Wild über Bundes- und Kantonsbeiträge gedeckt.
 
-<sup>3</sup> Erhebliche Mindererträge oder Mehraufwendungen, die Folge einer mit Abs. 1 verbundenen Nutzungsbeschränkung sind, werden vom Kanton abgegolten. Liegt die Massnahme vorwiegend im Interesse der Einwohnergemeinde, leistet diese die Abgeltung.
+<sup>3</sup> Führt die Umsetzung von Abs. 1 zu erheblichen Nutzungseinschränkungen, werden diese vom Kanton entschädigt. Liegt die Massnahme vorwiegend im Interesse der Einwohnergemeinde, leistet diese die Abgeltung.
 
 #### § 25
 
-**Kantonsbeiträge für anderweitige Massnahmen**
+**Beiträge für anderweitige Massnahmen**
 
-<sup>1</sup> Der Kanton kann im Rahmen des Staatsvoranschlages Beiträge bis zu 50 Prozent an die beitragsberechtigten Kosten leisten für:
+<sup>1</sup> Der Kanton kann im Rahmen des Staatsvoranschlags Beiträge bis zu 50 Prozent an die beitragsberechtigten Kosten leisten für
 
-- a) befristete waldbauliche Massnahmen wie Pflege, Holznutzung und -bringung, wenn die Gesamtkosten nicht gedeckt sind;
-- b) die Gewinnung von forstlichem Vermehrungsgut;
+- a) befristete waldbauliche Massnahmen zur Verjüngung und Pflege;
+- b) …
 - c) die Erstellung oder Beschaffung sowie den Unterhalt von Erschliessungsanlagen;
 - d) Massnahmen zur Verbesserung der Bewirtschaftungsstrukturen;
 - e) Selbsthilfemassnahmen der Wald- und der Holzwirtschaft.
 
-<sup>2</sup> Aus wichtigen Gründen kann der Kantonsbeitrag auf über 50 Prozent der beitragsberechtigten Kosten angehoben werden.
+<sup>2</sup> Erhält der Kanton für die in Abs. 1 aufgeführten Massnahmen Bundesbeiträge, kann der Beitrag auf bis zu 80 Prozent der beitragsberechtigten Kosten angehoben werden.
 
-<sup>3</sup> Das Amt für Wald und Wild erstellt eine Prioritätenordnung für die Verwendung der gemäss Staatsvoranschlag zur Verfügung stehenden Mittel.
+<sup>3</sup> …
 
 #### § 26
 
 **Bemessungsgrundsätze und Ausrichtung der Beiträge**
 
-<sup>1</sup> Die Kantonsbeiträge werden nach folgenden Kriterien abgestuft:
+<sup>1</sup> Bei der Vergabe der Beiträge werden folgende Kriterien berücksichtigt:
 
 - a) Walderhaltungsinteresse und anderweitiges öffentliches Interesse an der Massnahme;
 - b) Wirksamkeit und Verhältnismässigkeit der Massnahme;
 - c) Schwierigkeiten und Kosten der Massnahme;
-- d) Ertragskraft und Bewirtschaftungsverhältnisse im betreffenden Waldgebiet sowie Auswirkungen der Massnahme auf Ertragskraft und Bewirtschaftungsverhältnisse;
-- e) Höhe anderweitiger staatlicher Beiträge;
-- f) wirtschaftliche Leistungsfähigkeit des Beitragsempfängers oder der Beitragsempfängerin.
+- d) …
+- e) Höhe anderweitiger staatlicher Beiträge.
+- f) …
 
-<sup>2</sup> Die Direktion des Innern erlässt Bewertungsrichtlinien und kann Pauschalansätze festlegen.
+<sup>2</sup> Das Amt für Wald und Wild erstellt eine Prioritätenordnung für die Verwendung der gemäss Staatsvoranschlag zur Verfügung stehenden Mittel und kann Pauschalansätze festlegen.
 
 <sup>3</sup> Die Vorschriften der Bundesgesetzgebung über die Beitragsbemessung, die Ausrichtung der Beiträge sowie die Folgen von Nichterfüllung, mangelhafter Erfüllung und Zweckentfremdung sind im Übrigen sinngemäss anwendbar.
 
@@ -393,9 +403,9 @@ beschliesst:
 
 <sup>3</sup> Die Forstreviere werden von den Revierforstleuten des Kantons sowie denjenigen der Waldeigentumsberechtigten geleitet.
 
-<sup>4</sup> Waldeigentumsberechtigte können sich zu einer beförsterten Betriebsgemeinschaft zusammenschliessen oder sich vertraglich einem Forstrevier anschliessen. Die Bewilligung wird auf Gesuch der Waldeigentumsberechtigten durch die Direktion des Innern erteilt.
+<sup>4</sup> Waldeigentümerschaften können sich zu einer beförsterten Betriebsgemeinschaft zusammenschliessen oder sich vertraglich einem Forstrevier anschliessen. Die Bewilligung wird auf Gesuch der Waldeigentumsberechtigten durch das Amt für Wald und Wild erteilt.
 
-<sup>5</sup> Die Direktion des Innern führt ein Verzeichnis der Forstrevierzugehörigkeit.
+<sup>5</sup> Das Amt für Wald und Wild führt ein Verzeichnis der Forstrevierzugehörigkeit.
 
 #### § 28
 
@@ -404,18 +414,15 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat
 
 - a) beschliesst den Waldentwicklungsplan;
-- a<sup>bis</sup>) beschliesst die Perimeter der Wälder mit erhöhter oder besonderer Schutzfunktion gegen Naturgefahren;
+- a<sup>bis</sup>) beschliesst die parzellenscharfen Perimeter der Wälder mit erhöhter oder besonderer Schutzfunktion gegen Naturgefahren;
 - b) scheidet Waldreservate aus;
 - c) vergibt die Investitionskredite nach Art. 40 des Bundesgesetzes;
-- d) sichert Kantonsbeiträge an bauliche Massnahmen zum Schutz von Menschen oder erheblichen Sachwerten vor Naturereignissen zu;[^28-1]
-- e) sichert Kantonsbeiträge an den Neubau oder den wesentlichen Ausbau von Waldstrassen zu;[^28-2]
-- f) sichert Kantonsbeiträge an Massnahmen zur Verbesserung der Bewirtschaftungsstrukturen und an Selbsthilfemassnahmen der Wald- und der Holzwirtschaft zu;[^28-3]
-- g) ist zuständig für den Abschluss von Programmvereinbarungen im Sinne des Waldgesetzes vom 4. Oktober 1991[^28-4].
+- d) …
+- e) …
+- f) …
+- g) ist zuständig für den Abschluss von Programmvereinbarungen im Sinne des Waldgesetzes vom 4. Oktober 1991[^28-1].
 
-[^28-1]: Delegation an die Direktion des Innern für Kantonsbeiträge an bauliche Massnahmen zum Schutz von Menschen oder erheblichen Sachwerten vor Naturereignissen, sofern der Kantonsbeitrag den Betrag von Fr. 200'000.– nicht übersteigt (§ 4 Abs. 1 Ziff. 4 der Delegationsverordnung (DelV) vom 28. November 2017, BGS [153.3](https://bgs.zg.ch/data/153.3/de)).
-[^28-2]: Delegation an die Direktion des Innern für Kantonsbeiträge an den Neubau oder den wesentlichen Ausbau von Waldstrassen, sofern der Kantonsbeitrag den Betrag von Fr. 200'000.– nicht übersteigt (§ 4 Abs. 1 Ziff. 5 der Delegationsverordnung (DelV) vom 28. November 2017, BGS [153.3](https://bgs.zg.ch/data/153.3/de)).
-[^28-3]: Delegation an die Direktion des Innern für Kantonsbeiträge an Massnahmen zur Verbesserung der Bewirtschaftungsstrukturen und an Selbsthilfemassnahmen der Wald- und der Holzwirtschaft, sofern der Kantonsbeitrag den Betrag von Fr. 200'000.– nicht übersteigt (§ 4 Abs. 1 Ziff. 6 der Delegationsverordnung (DelV) vom 28. November 2017, BGS [153.3](https://bgs.zg.ch/data/153.3/de)).
-[^28-4]: SR [921](https://db.clex.ch/link/Bund/921/de)
+[^28-1]: SR [921](https://db.clex.ch/link/Bund/921/de)
 
 #### § 29
 
@@ -423,15 +430,20 @@ beschliesst:
 
 <sup>1</sup> Die Direktion des Innern
 
-- a) nimmt Waldfeststellungen vor, sofern es sich nicht um blosse Waldabgrenzungen handelt;
-- b) entscheidet über Rodungsgesuche, sofern nicht der Bund dafür zuständig ist;
+- a) …
+- b) …
 - c) entscheidet über Bewilligungsgesuche für forstliche Bauten und Anlagen im Wald;
 - d) entscheidet über Baugesuche für nichtforstliche Kleinbauten und -anlagen im Wald;
 - e) ordnet forstliche Massnahmen zum Schutz vor Naturereignissen an;
-- f) beschränkt dauerhaft den Zugang zum Wald und die Ausübung störender Tätigkeiten im Wald;
-- g) erlässt die maximalen Holznutzungsmengen;
+- f) beschränkt dauerhaft den Zugang zum Wald sowie die Ausübung störender Tätigkeiten im Wald und sorgt für die Kontrollen über das Betreten sowie das Befahren des Waldes;
+- g) …
 - h) entscheidet über Gesuche um Veräusserung oder Teilung von Wald, sofern nicht die Volkswirtschaftsdirektion dafür zuständig ist;
-- i) vergibt Forschungsaufträge und sichert Kantonsbeiträge an Forschungsarbeiten zu.
+- i) …
+- j) kann Enteignungen im Rahmen der Waldgesetzgebung vornehmen;
+- k) entscheidet, soweit der Kanton Walderschliessungsanlagen auf eigene Kosten erstellt, im Rahmen eines Perimeterverfahrens über die Höhe dieser Beiträge, sofern keine Einigung zustande kommt;
+- l) lässt den Waldentwicklungsplan vor der Beschlussfassung durch den Regierungsrat während 60 Tagen öffentlich auflegen, fasst die Eingaben in einem Bericht zusammen und nimmt gesamthaft Stellung;
+- m) erlässt die Waldfeststellungsrichtline;
+- n) gibt die Zustimmung für den forstlichen Wasserbau.
 
 #### § 30
 
@@ -441,15 +453,15 @@ beschliesst:
 
 <sup>2</sup> Das Amt für Wald und Wild erfüllt die durch das Bundesrecht den Kantonen übertragenen Aufgaben.
 
-<sup>3</sup> Das Amt für Wald und Wild kann forsttechnische Weisungen und eine Prioritätenordnung für das Beitragswesen erlassen.
+<sup>3</sup> …
 
 <sup>4</sup> Das Amt für Wald und Wild erhebt die Planungsgrundlagen, erarbeitet die waldspezifischen Planinhalte und sorgt für die Erfüllung der Planinhalte. Die Waldeigentumsberechtigten liefern die notwendigen betrieblichen Angaben.
 
-<sup>5</sup> Das Amt für Wald und Wild vereinbart mit den Waldeigentumsberechtigten die Inhalte der Waldwirtschaftspläne. Mit dem Wirtschaftsplan wird die Nutzungsbewilligung erteilt.
+<sup>5</sup> …
 
-<sup>6</sup> Das Amt für Wald und Wild betreut die kantonseigenen Waldungen. Es kann die betriebliche Infrastruktur auf privatrechtlicher Grundlage Dritten zur Verfügung stellen.
+<sup>6</sup> Das Amt für Wald und Wild betreut die kantonseigenen Waldungen sowie die Staatswaldstrassen. Es kann die betriebliche Infrastruktur auf privatrechtlicher Grundlage Dritten zur Verfügung stellen.
 
-<sup>7</sup> Das Amt für Wald und Wild erteilt Waldeigentumsberechtigten ohne Wirtschaftspläne die Nutzungsbewilligung.
+<sup>7</sup> …
 
 #### § 31
 
@@ -486,32 +498,24 @@ beschliesst:
 
 [^33-1]: BGS [312.1](https://bgs.zg.ch/data/312.1/de)
 
-## 8. Schlussbestimmungen
+## 8.
 
 #### § 34
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
-
-- a) § 137 Bst. b des Gesetzes betreffend die Einführung des schweizerischen Zivilgesetzbuches für den Kanton Zug vom 17. August 1911[^34-1];
-- b) das Forstgesetz für den Kanton Zug vom 16. Januar 1908[^34-2].
-
-[^34-1]: BGS [211.1](https://bgs.zg.ch/data/211.1/de)
-[^34-2]: GS 9, 294 (a.BGS III, 611)
+**…**
 
 #### § 35
 
-**Änderung bisherigen Rechts[^35-1]**
-
-[^35-1]: Die Änderung ist im entsprechenden Erlass publiziert und wird hier nicht abgedruckt.
+**…**
 
 #### § 36
 
-**Inkrafttreten**
+**…**
 
-<sup>1</sup> Dieses Gesetz tritt unter Vorbehalt des Referendums gemäss § 34 der Kantonsverfassung und der Genehmigung durch den Bund am 1. April 1999 in Kraft.
+#### § 37
 
-Vom Bund genehmigt am 8. März 1999 und 21. Dezember 2007.
+**Übergangsbestimmung zu § 9 Abs. 3**
+
+<sup>1</sup> § 9 Abs. 3 Satz 2 gilt erst ab Inkrafttreten der Teilkarte im Richtplan betreffend Velowegnetz für den Alltag und die Freizeit. Bis dahin können, wo es die Walderhaltung oder andere öffentliche Interessen erfordern, störende Tätigkeiten im Wald eingeschränkt oder verboten werden, namentlich das Reiten, Radfahren oder Skifahren abseits von Strassen und befestigten Wegen.
 
 GS 26, 311
