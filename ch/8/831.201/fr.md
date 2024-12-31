@@ -4,11 +4,11 @@ title: "Règlement du 17 janvier 1961 sur l'assurance-invalidité (RAI)"
 short: RAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20250101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20240101/fr"
 
 (RAI)[^t-1]
 
-du 17 janvier 1961 (État le 1<sup>er</sup> janvier 2024)
+du 17 janvier 1961 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. II 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon cette disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -50,28 +50,28 @@ Les dispositions du chap. I et des art. 34 à 43 du règlement du 31 octobre 194
 <table>
 <tr><th colspan="2">Revenu annuel provenant d’une activité lucrative</th><th></th><th>Taux de la cotisation en pour-cent du revenu</th></tr>
 <tr><th>d’au moins fr.</th><th colspan="2">mais inférieur à fr.</th><th></th></tr>
-<tr><td>9 800</td><td colspan="2">17 500</td><td>0,752</td></tr>
-<tr><td>17 500</td><td colspan="2">21 300</td><td>0,769</td></tr>
-<tr><td>21 300</td><td colspan="2">23 800</td><td>0,786</td></tr>
-<tr><td>23 800</td><td colspan="2">26 300</td><td>0,804</td></tr>
-<tr><td>26 300</td><td colspan="2">28 800</td><td>0,821</td></tr>
-<tr><td>28 800</td><td colspan="2">31 300</td><td>0,838</td></tr>
-<tr><td>31 300</td><td colspan="2">33 800</td><td>0,873</td></tr>
-<tr><td>33 800</td><td colspan="2">36 300</td><td>0,907</td></tr>
-<tr><td>36 300</td><td colspan="2">38 800</td><td>0,942</td></tr>
-<tr><td>38 800</td><td colspan="2">41 300</td><td>0,977</td></tr>
-<tr><td>41 300</td><td colspan="2">43 800</td><td>1,011</td></tr>
-<tr><td>43 800</td><td colspan="2">46 300</td><td>1,046</td></tr>
-<tr><td>46 300</td><td colspan="2">48 800</td><td>1,098</td></tr>
-<tr><td>48 800</td><td colspan="2">51 300</td><td>1,149</td></tr>
-<tr><td>51 300</td><td colspan="2">53 800</td><td>1,201</td></tr>
-<tr><td>53 800</td><td colspan="2">56 300</td><td>1,253</td></tr>
-<tr><td>56 300</td><td colspan="2">58 800</td><td>1,305</td></tr>
+<tr><td>10 100</td><td colspan="2">17 600</td><td>0,752</td></tr>
+<tr><td>17 600</td><td colspan="2">23 000</td><td>0,769</td></tr>
+<tr><td>23 000</td><td colspan="2">25 500</td><td>0,786</td></tr>
+<tr><td>25 500</td><td colspan="2">28 000</td><td>0,804</td></tr>
+<tr><td>28 000</td><td colspan="2">30 500</td><td>0,821</td></tr>
+<tr><td>30 500</td><td colspan="2">33 000</td><td>0,838</td></tr>
+<tr><td>33 000</td><td colspan="2">35 500</td><td>0,873</td></tr>
+<tr><td>35 500</td><td colspan="2">38 000</td><td>0,907</td></tr>
+<tr><td>38 000</td><td colspan="2">40 500</td><td>0,942</td></tr>
+<tr><td>40 500</td><td colspan="2">43 000</td><td>0,977</td></tr>
+<tr><td>43 000</td><td colspan="2">45 500</td><td>1,011</td></tr>
+<tr><td>45 500</td><td colspan="2">48 000</td><td>1,046</td></tr>
+<tr><td>48 000</td><td colspan="2">50 500</td><td>1,098</td></tr>
+<tr><td>50 500</td><td colspan="2">53 000</td><td>1,149</td></tr>
+<tr><td>53 000</td><td colspan="2">55 500</td><td>1,201</td></tr>
+<tr><td>55 500</td><td colspan="2">58 000</td><td>1,253</td></tr>
+<tr><td>58 000</td><td colspan="2">60 500</td><td>1,305</td></tr>
 </table>
 
-<sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 68 à 3400 francs par an. Les art. 28 à 30 RAVS sont applicables par analogie.
+<sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 70 à 3500 francs par an. Les art. 28 à 30 RAVS sont applicables par analogie.
 
-[^1bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 1987 ([RO 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 606](https://fedlex.data.admin.ch/eli/oc/2022/606)).
+[^1bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 1987 ([RO 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 466](https://fedlex.data.admin.ch/eli/oc/2024/466)).
 [^1bis-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 ## Chapitre I*a* Détection précoce
@@ -1488,7 +1488,7 @@ Lorsqu’un assuré dont la rente a été supprimée pour cause d’abaissement 
 
 <sup>2</sup> La réduction des rentes pour enfant correspondant à des rentes AI dont le pourcentage est inférieur aux 100 % d’une rente entière se calcule en fonction de la proportion à une rente entière.[^33bis-3]
 
-[^33bis-1]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4151](https://fedlex.data.admin.ch/eli/oc/2006/613)).
+[^33bis-1]: Introduit par le ch. II 1 de l’O du 11 oct. 1972 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Nouvelle teneur selon le ch. I de l’O du 22 sept. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4151](https://fedlex.data.admin.ch/eli/oc/2006/613)).
 [^33bis-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 [^33bis-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
@@ -1665,7 +1665,7 @@ Le besoin d’un accompagnement pour faire face aux nécessités de la vie au se
 
 [^chap3-lvlE-1]
 
-[^chap3-lvlE-1]: Introduit par le ch. I de l’ACF du 15 janv. 1968 ([RO 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Voir aussi les dips. trans. de cette mod. à la fin du texte.
+[^chap3-lvlE-1]: Introduite par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Voir aussi les dips. trans. de cette mod. à la fin du texte.
 
 #### Art. 39a
 
@@ -1751,15 +1751,15 @@ Pour les groupes de personnes mentionnés ci-dessous, le nombre d’actes ordina
 
 **Montant de la contribution d’assistance**[^39f-1]
 
-<sup>1</sup> La contribution d’assistance se monte à 34 fr. 30 par heure.
+<sup>1</sup> La contribution d’assistance se monte à 35 fr. 30 par heure.
 
-<sup>2</sup> Si l’assistant doit disposer de qualifications particulières pour fournir les prestations requises dans les domaines prévus à l’art. 39*c*, let. e à g, le montant de la contribution d’assistance s’élève à 51 fr. 50 par heure.
+<sup>2</sup> Si l’assistant doit disposer de qualifications particulières pour fournir les prestations requises dans les domaines prévus à l’art. 39*c*, let. e à g, le montant de la contribution d’assistance s’élève à 52 fr. 95 par heure.
 
-<sup>3</sup> L’office AI détermine le montant forfaitaire de la contribution d’assistance allouée pour les prestations de nuit en fonction de l’intensité de l’aide à apporter à l’assuré. Le montant de la contribution s’élève à 164 fr. 35 par nuit au maximum.
+<sup>3</sup> L’office AI détermine le montant forfaitaire de la contribution d’assistance allouée pour les prestations de nuit en fonction de l’intensité de l’aide à apporter à l’assuré. Le montant de la contribution s’élève à 169 fr. 10 par nuit au maximum.
 
 <sup>4</sup> L’art. 33<sup>ter</sup> LAVS[^39f-2] s’applique par analogie à l’adaptation des montants fixés aux al. 1 à 3 en fonction de l’évolution des salaires et des prix.
 
-[^39f-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 606](https://fedlex.data.admin.ch/eli/oc/2022/606)).
+[^39f-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 466](https://fedlex.data.admin.ch/eli/oc/2024/466)).
 [^39f-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 39g
@@ -1900,7 +1900,7 @@ L’office AI exécute, outre les tâches explicitement mentionnées dans la loi
 - b.[^41-2] recevoir les communications visées à l’art. 77 relatives au droit aux prestations;
 - c.[^41-3] transmettre immédiatement les communications concernant le droit aux indemnités journalières, aux rentes et aux allocations pour impotent pour les assurés majeurs en cours à la caisse de compensation compétente;
 - d.[^41-4] notifier les communications, les préavis et les décisions, ainsi que la correspondance y relative;
-- [tab] e. et f.[^41-5]…
+- e. et f.[^41-5] …
 - f<sup>bis</sup>. et f<sup>ter</sup>.[^41-6] …
 - g.[^41-7] donner des renseignements conformément à l’art. 27 LPGA;
 - h. conserver les dossiers AI;
@@ -2123,7 +2123,7 @@ L’OFAS peut, dans le cadre de ses contrôles relatifs au respect des critères
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^54-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^54-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 (RO **20****23** 750).
+[^54-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 55
 
@@ -2386,7 +2386,7 @@ Si les conditions permettant l’octroi d’une prestation sont manifestement re
 La décision sera notifiée en particulier:[^76-2]
 
 - a.[^76-3] aux personnes, aux institutions et aux assureurs auxquels le préavis de décision a été notifié;
-- [tab] b. et c.[^76-4] …
+- b. et c.[^76-4] …
 - d.[^76-5] à la Centrale de compensation, lorsqu’il ne s’agit pas de décisions concernant des rentes ou des allocations pour impotent pour les assurés majeurs;
 - e.[^76-6] …
 - f. aux agents d’exécution;
@@ -2582,13 +2582,14 @@ Lors d’une formation professionnelle initiale, les indemnités journalières s
 
 **Décompte des cotisations**[^81bis-1]
 
-<sup>1</sup> Les art. 37 et 38 du règlement du 24 novembre 2004 sur les allocations pour perte de gain (RAPG)[^81bis-2] sont applicables par analogie au prélèvement des cotisations sur les indemnités journalières considérées comme un revenu de travail au sens de l’AVS et à l’inscription de ces indemnités dans le compte individuel de la personne assurée. L’art. 37, al. 1 et 2, RAPG est également applicable par analogie aux centres de réadaptation auxquels le paiement des indemnités journalières a été confié (art. 80, al. 1).
+<sup>1</sup> Les art. 37 et 38 de l’ordonnance du 24 novembre 2004 sur les allocations pour perte de gain (OAPG)[^81bis-2] sont applicables par analogie au prélèvement des cotisations sur les indemnités journalières considérées comme un revenu de travail au sens de l’AVS et à l’inscription de ces indemnités dans le compte individuel de la personne assurée. L’art. 37, al. 1 et 2, OAPG est également applicable par analogie aux centres de réadaptation auxquels le paiement des indemnités journalières a été confié (art. 80, al. 1).[^81bis-3]
 
-<sup>2</sup> Aucune cotisation n’est prélevée sur l’allocation pour frais de garde et d’assistance.[^81bis-3]
+<sup>2</sup> Aucune cotisation n’est prélevée sur l’allocation pour frais de garde et d’assistance.[^81bis-4]
 
 [^81bis-1]: Introduit par le ch. III de l’O du 27 oct. 1987 ([RO 1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5635](https://fedlex.data.admin.ch/eli/oc/2005/769)).
 [^81bis-2]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
-[^81bis-3]: Introduit par le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^81bis-3]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^81bis-4]: Introduit par le ch. I de l’O du 28 sept. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
 ### III. Rentes, allocations pour impotent et contributions d’assistance
 
@@ -2650,7 +2651,9 @@ Lors d’une formation professionnelle initiale, les indemnités journalières s
 
 <sup>1</sup> Les employeurs, les institutions de prévoyance professionnelle, les assurances-maladie, les organismes d’assistance publics ou privés ou les assurances en responsabilité civile ayant leur siège en Suisse qui, en vue de l’octroi d’une rente de l’assurance-invalidité, ont fait une avance peuvent exiger qu’on leur verse l’arriéré de cette rente en compensation de leur avance et jusqu’à concurrence de celle-ci. Est cependant réservée la compensation prévue à l’art. 20 LAVS[^85bis-2]. Les organismes ayant consenti une avance doivent faire valoir leurs droits au moyen d’un formulaire spécial, au plus tôt lors de la demande de rente et, au plus tard au moment de la décision de l’office AI.
 
-<sup>2</sup> Sont considérées comme une avance, les prestations
+<sup>2</sup>
+
+Sont considérées comme une avance, les prestations:
 
 - a. librement consenties, que l’assuré s’est engagé à rembourser, pour autant qu’il ait convenu par écrit que l’arriéré serait versé au tiers ayant effectué l’avance;
 - b. versées contractuellement ou légalement, pour autant que le droit au remboursement, en cas de paiement d’une rente, puisse être déduit sans équivoque du contrat ou de la loi.

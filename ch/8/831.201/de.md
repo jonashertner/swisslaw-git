@@ -4,11 +4,11 @@ title: Verordnung vom 17. Januar 1961 über die Invalidenversicherung (IVV)
 short: IVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/29_29_29"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1961-01-17
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/29_29_29/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1961-29_29_29-20250101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1961/29_29_29/20240101/de"
 
 (IVV)[^t-1]
 
-vom 17. Januar 1961 (Stand am 1. Januar 2024)
+vom 17. Januar 1961 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. II 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -51,28 +51,28 @@ Die Bestimmungen des ersten Abschnittes sowie die Artikel 34–43 der Verordnung
 <table>
 <tr><th colspan="3">Jährliches Erwerbseinkommen in Franken</th><th></th><th>Beitragssatz in Prozent des Erwerbseinkommens</th></tr>
 <tr><th colspan="2">von mindestens</th><th colspan="2">aber weniger als</th><th></th></tr>
-<tr><td>9 800</td><td colspan="3">17 500</td><td>0,752</td></tr>
-<tr><td>17 500</td><td colspan="3">21 300</td><td>0,769</td></tr>
-<tr><td>21 300</td><td colspan="3">23 800</td><td>0,786</td></tr>
-<tr><td>23 800</td><td colspan="3">26 300</td><td>0,804</td></tr>
-<tr><td>26 300</td><td colspan="3">28 800</td><td>0,821</td></tr>
-<tr><td>28 800</td><td colspan="3">31 300</td><td>0,838</td></tr>
-<tr><td>31 300</td><td colspan="3">33 800</td><td>0,873</td></tr>
-<tr><td>33 800</td><td colspan="3">36 300</td><td>0,907</td></tr>
-<tr><td>36 300</td><td colspan="3">38 800</td><td>0,942</td></tr>
-<tr><td>38 800</td><td colspan="3">41 300</td><td>0,977</td></tr>
-<tr><td>41 300</td><td colspan="3">43 800</td><td>1,011</td></tr>
-<tr><td>43 800</td><td colspan="3">46 300</td><td>1,046</td></tr>
-<tr><td>46 300</td><td colspan="3">48 800</td><td>1,098</td></tr>
-<tr><td>48 800</td><td colspan="3">51 300</td><td>1,149</td></tr>
-<tr><td>51 300</td><td colspan="3">53 800</td><td>1,201</td></tr>
-<tr><td>53 800</td><td colspan="3">56 300</td><td>1,253</td></tr>
-<tr><td>56 300</td><td colspan="3">58 800</td><td>1,305</td></tr>
+<tr><td>10 100</td><td colspan="3">17 600</td><td>0,752</td></tr>
+<tr><td>17 600</td><td colspan="3">23 000</td><td>0,769</td></tr>
+<tr><td>23 000</td><td colspan="3">25 500</td><td>0,786</td></tr>
+<tr><td>25 500</td><td colspan="3">28 000</td><td>0,804</td></tr>
+<tr><td>28 000</td><td colspan="3">30 500</td><td>0,821</td></tr>
+<tr><td>30 500</td><td colspan="3">33 000</td><td>0,838</td></tr>
+<tr><td>33 000</td><td colspan="3">35 500</td><td>0,873</td></tr>
+<tr><td>35 500</td><td colspan="3">38 000</td><td>0,907</td></tr>
+<tr><td>38 000</td><td colspan="3">40 500</td><td>0,942</td></tr>
+<tr><td>40 500</td><td colspan="3">43 000</td><td>0,977</td></tr>
+<tr><td>43 000</td><td colspan="3">45 500</td><td>1,011</td></tr>
+<tr><td>45 500</td><td colspan="3">48 000</td><td>1,046</td></tr>
+<tr><td>48 000</td><td colspan="3">50 500</td><td>1,098</td></tr>
+<tr><td>50 500</td><td colspan="3">53 000</td><td>1,149</td></tr>
+<tr><td>53 000</td><td colspan="3">55 500</td><td>1,201</td></tr>
+<tr><td>55 500</td><td colspan="3">58 000</td><td>1,253</td></tr>
+<tr><td>58 000</td><td colspan="3">60 500</td><td>1,305</td></tr>
 </table>
 
-<sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 68–3400 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
+<sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 70–3500 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
 
-[^1bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 1987 ([AS 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 606](https://fedlex.data.admin.ch/eli/oc/2022/606)).
+[^1bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 1987 ([AS 1987 1088](https://fedlex.data.admin.ch/eli/oc/1987/1088_1088_1088)). Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 466](https://fedlex.data.admin.ch/eli/oc/2024/466)).
 [^1bis-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 ## Erster Abschnitt *a*: Früherfassung
@@ -1527,7 +1527,7 @@ Für die Kürzung der ausserordentlichen Kinderrenten nach Artikel 40 Absatz 2 I
 
 <sup>3</sup> …[^35-4]
 
-[^35-1]: Aufgehoben durch Ziff. I des BRB vom 15. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Fassung gemäss Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
+[^35-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 1976, in Kraft seit 1. Jan. 1977 ([AS 1976 2650](https://fedlex.data.admin.ch/eli/oc/1976/2650_2650_2650)).
 [^35-2]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^35-3]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^35-4]: Aufgehoben durch Ziff. I der V vom 21. Mai 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
@@ -1596,7 +1596,7 @@ Nicht als Heim gelten insbesondere kollektive Wohnformen, in denen die versicher
 
 <sup>3</sup> …[^36-4]
 
-[^36-1]: Aufgehoben durch Ziff. I des BRB vom 15. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^36-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^36-2]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^36-3]: Zweiter Satz eingefügt durch Ziff. I 1 der V vom 7. Okt. 2020 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4545](https://fedlex.data.admin.ch/eli/oc/2020/801)).
 [^36-4]: Aufgehoben durch Ziff. I der V vom 18. April 2012, mit Wirkung seit 1. Juni 2012 ([AS 2012 2403](https://fedlex.data.admin.ch/eli/oc/2012/292)).
@@ -1627,7 +1627,7 @@ Die Hilflosigkeit gilt als leicht, wenn die versicherte Person trotz der Abgabe 
 
 <sup>4</sup> Bei Minderjährigen ist nur der Mehrbedarf an Hilfeleistung und persönlicher überwachung im Vergleich zu nicht behinderten Minderjährigen gleichen Alters zu berücksichtigen.
 
-[^37-1]: Aufgehoben durch Ziff. I des BRB vom 15. Jan. 1968 ([AS 1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^37-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
 #### Art. 38
 
@@ -1645,7 +1645,7 @@ Ein Bedarf an lebenspraktischer Begleitung im Sinne von Artikel 42 Absatz 3 IVG 
 
 <sup>3</sup> Zu berücksichtigen ist nur die lebenspraktische Begleitung, die regelmässig und im Zusammenhang mit einer der Situationen nach Absatz 1 erforderlich ist. Nicht darunter fallen insbesondere Vertretungs- und Verwaltungstätigkeiten im Rahmen von Massnahmen des Erwachsenenschutzes nach den Artikeln 390–398 des Zivilgesetzbuches[^38-3].[^38-4]
 
-[^38-1]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^38-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^38-2]: Fassung gemäss Anhang Ziff. 4 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^38-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^38-4]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3177](https://fedlex.data.admin.ch/eli/oc/2014/537)).
@@ -1660,13 +1660,13 @@ Ein Bedarf an lebenspraktischer Begleitung im Sinne von Artikel 42 Absatz 3 IVG 
 
 <sup>3</sup> Bedarf eine minderjährige Person infolge Beeinträchtigung der Gesundheit zusätzlich einer dauernden Überwachung, so kann diese als Betreuung von zwei Stunden angerechnet werden. Eine besonders intensive behinderungsbedingte Überwachung ist als Betreuung von vier Stunden anrechenbar.
 
-[^39-1]: Aufgehoben durch Ziff. I der V vom 4. Dez. 2000 ([AS 2001 89](https://fedlex.data.admin.ch/eli/oc/2001/16)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^39-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
 ### E. Der Assistenzbeitrag
 
 [^chap3-lvlE-1]
 
-[^chap3-lvlE-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^chap3-lvlE-1]: Eingefügt durch Fasung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 39a
 
@@ -1752,15 +1752,15 @@ Für folgende Personengruppen wird die nach Absatz 2 Buchstabe a zu berücksicht
 
 **Höhe des Assistenzbeitrages**[^39f-1]
 
-<sup>1</sup> Der Assistenzbeitrag beträgt 34.30 Franken pro Stunde.
+<sup>1</sup> Der Assistenzbeitrag beträgt 35.30 Franken pro Stunde.
 
-<sup>2</sup> Muss die Assistenzperson für die benötigten Hilfeleistungen in den Bereichen nach Artikel 39*c* Buchstaben e–g über besondere Qualifikationen verfügen, so beträgt der Assistenzbeitrag 51.50 Franken pro Stunde.
+<sup>2</sup> Muss die Assistenzperson für die benötigten Hilfeleistungen in den Bereichen nach Artikel 39*c* Buchstaben e–g über besondere Qualifikationen verfügen, so beträgt der Assistenzbeitrag 52.95 Franken pro Stunde.
 
-<sup>3</sup> Die IV-Stelle legt den Assistenzbeitrag für den Nachtdienst nach Intensität der zu erbringenden Hilfeleistung pauschal fest. Er beträgt höchstens 164.35 Franken pro Nacht.
+<sup>3</sup> Die IV-Stelle legt den Assistenzbeitrag für den Nachtdienst nach Intensität der zu erbringenden Hilfeleistung pauschal fest. Er beträgt höchstens 169.10 Franken pro Nacht.
 
 <sup>4</sup> Für die Anpassung der Beträge nach den Absätzen 1–3 an die Lohn- und Preisentwicklung ist Artikel 33<sup>ter</sup> AHVG[^39f-2] sinngemäss anwendbar.
 
-[^39f-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 606](https://fedlex.data.admin.ch/eli/oc/2022/606)).
+[^39f-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 466](https://fedlex.data.admin.ch/eli/oc/2024/466)).
 [^39f-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 39g
@@ -1902,7 +1902,7 @@ Die IV-Stelle hat über die im Gesetz und in dieser Verordnung genannten Aufgabe
 - b.[^41-3] die Entgegennahme der mit dem Leistungsanspruch in Zusammenhang stehenden Meldungen nach Artikel 77;
 - c.[^41-4] die unverzügliche Weiterleitung von Meldungen über Ansprüche auf laufende Taggelder, Renten und Hilflosenentschädigungen für Volljährige an die zuständige Ausgleichskasse;
 - d.[^41-5] den Erlass der Mitteilungen, Vorbescheide und Verfügungen sowie die damit zusammenhängende Korrespondenz;
-- [tab] e. und f.[^41-6]…
+- e. und f.[^41-6] …
 - f<sup>bis</sup> und f<sup>ter</sup>.[^41-7] …
 - g.[^41-8] die Auskunftserteilung nach Artikel 27 ATSG;
 - h. die Aufbewahrung der IV-Akten;
@@ -2035,7 +2035,7 @@ Ist die Zuständigkeit streitig, so bestimmt das BSV die zuständige Ausgleichsk
 
 <sup>3</sup> Die IV-Stellen der Regionen errichten und betreiben die regionalen ärztlichen Dienste gemeinsam. …[^47-2]
 
-[^47-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^47-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 [^47-2]: Zweiter Satz aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
 #### Art. 48
@@ -2044,7 +2044,7 @@ Ist die Zuständigkeit streitig, so bestimmt das BSV die zuständige Ausgleichsk
 
 In den regionalen ärztlichen Diensten sind insbesondere die Fachdisziplinen Innere oder Allgemeine Medizin, Orthopädie, Rheumatologie, Pädiatrie und Psychiatrie vertreten.
 
-[^48-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
+[^48-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3859](https://fedlex.data.admin.ch/eli/oc/2003/561)).
 
 #### Art. 49
 
@@ -2058,7 +2058,7 @@ In den regionalen ärztlichen Diensten sind insbesondere die Fachdisziplinen Inn
 
 <sup>3</sup> Sie stehen den IV-Stellen der Region beratend zur Verfügung.
 
-[^49-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^49-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^49-2]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 ### D. Aufsicht
@@ -2077,7 +2077,7 @@ In den regionalen ärztlichen Diensten sind insbesondere die Fachdisziplinen Inn
 
 <sup>3</sup> Das BSV kann, nach Anhörung der IV-Stellen, Vorgaben für die Aus- und Weiterbildung des Fachpersonals der IV-Stellen und der regionalen ärztlichen Dienste machen. Es stellt die entsprechende Aus- und Weiterbildung sicher.
 
-[^50-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^50-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
 #### Art. 51
 
@@ -2085,7 +2085,7 @@ In den regionalen ärztlichen Diensten sind insbesondere die Fachdisziplinen Inn
 
 Das BSV kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen Kriterien bezüglich Wirksamkeit, Qualität und Einheitlichkeit nach Artikel 64*a* Absatz 2 IVG Massnahmen für die kantonalen IV-Stellen und die regionalen ärztlichen Dienste verlangen oder anordnen, um die notwendigen Optimierungen vorzunehmen.
 
-[^51-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^51-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
 #### Art. 52
 
@@ -2097,7 +2097,7 @@ Das BSV kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen Krite
 
 <sup>3</sup> Das BSV stellt den kantonalen IV-Stellen die zur Zielerreichung notwendigen Kennzahlen zur Verfügung.
 
-[^52-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^52-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^52-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 53
@@ -2110,7 +2110,7 @@ Das BSV kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen Krite
 
 <sup>3</sup> Für die finanzielle Aufsicht über die IV-Stelle für Versicherte im Ausland gilt Artikel 43 Absatz 2.
 
-[^53-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^53-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^53-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
@@ -2124,7 +2124,7 @@ Das BSV kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen Krite
 
 <sup>3</sup> Für die Revision der Rechnungsführung der IV-Stellen sind die Artikel 159 Buchstaben b und c sowie 160 Absätze 1 und 3–5 AHVV[^54-2] sinngemäss anwendbar.[^54-3]
 
-[^54-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^54-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^54-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 [^54-3]: Fassung gemäss Anhang Ziff. 3 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
@@ -2136,7 +2136,7 @@ Das BSV kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen Krite
 
 <sup>2</sup> Die Ausgleichskasse wird für Aufgaben, die sie für die IV wahrnimmt, entschädigt.
 
-[^55-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^55-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 [^55-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
 #### Art. 56
@@ -2157,7 +2157,7 @@ Das BSV kann im Rahmen der Überprüfungen der Einhaltung der vorgegebenen Krite
 
 <sup>2</sup> Allfällige Zuschüsse an die Verwaltungskosten der Ausgleichskassen aus dem Ausgleichsfonds werden durch das EDI festgesetzt.
 
-[^57-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^57-1]: Fassung gemäss Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
 #### Art. 58–64
 
@@ -2387,9 +2387,9 @@ Sind die Anspruchsvoraussetzungen offensichtlich erfüllt und wird den Begehren 
 
 Die Verfügung ist insbesondere zuzustellen:[^76-2]
 
-- [tab] a.[^76-3] den Personen, den Einrichtungen und den Versicherern, denen ein Vorbescheid zugestellt wurde;
-- [tab] b.−c.[^76-4] …
-- [tab] d.[^76-5] der Zentralen Ausgleichsstelle, soweit es sich nicht um Verfügungen über Renten oder Hilflosenentschädigungen für Volljährige handelt;
+- a.[^76-3] den Personen, den Einrichtungen und den Versicherern, denen ein Vorbescheid zugestellt wurde;
+- b.−c.[^76-4] …
+- d.[^76-5] der Zentralen Ausgleichsstelle, soweit es sich nicht um Verfügungen über Renten oder Hilflosenentschädigungen für Volljährige handelt;
 - e.[^76-6] …
 - f. den Durchführungsstellen;
 - g.[^76-7] dem Arzt oder der medizinischen Abklärungsstelle, die, ohne Durchführungsstelle zu sein, im Auftrag der Versicherung ein Gutachten erstellt haben;
@@ -2582,13 +2582,14 @@ Während der erstmaligen beruflichen Ausbildung werden die Taggelder, vorbehaltl
 
 **Beitragsabrechnung**[^81bis-1]
 
-<sup>1</sup> Für die Erfassung der Taggelder als Erwerbseinkommen im Sinne der AHV und ihre Eintragung in das individuelle Konto der versicherten Person gelten die Artikel 37 und 38 der Verordnung vom 24. November 2004[^81bis-2] zum Erwerbsersatzgesetz (EOV) sinngemäss. Artikel 37 Absätze 1 und 2 EOV ist auch sinngemäss anwendbar auf Eingliederungsstätten, die mit der Auszahlung von Taggeldern betraut werden (Art. 80 Abs. 1).
+<sup>1</sup> Für die Erfassung der Taggelder als Erwerbseinkommen im Sinne der AHV und ihre Eintragung in das individuelle Konto der versicherten Person gelten die Artikel 37 und 38 der Erwerbsersatzverordnung vom 24. November 2004[^81bis-2] (EOV) sinngemäss. Artikel 37 Absätze 1 und 2 EOV ist auch sinngemäss anwendbar auf Eingliederungsstätten, die mit der Auszahlung von Taggeldern betraut werden (Art. 80 Abs. 1).[^81bis-3]
 
-<sup>2</sup> Auf der Entschädigung für Betreuungskosten werden keine Beiträge erhoben.[^81bis-3]
+<sup>2</sup> Auf der Entschädigung für Betreuungskosten werden keine Beiträge erhoben.[^81bis-4]
 
 [^81bis-1]: Eingefügt durch Ziff. III der V vom 27. Okt. 1987 ([AS 1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397)). Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5635](https://fedlex.data.admin.ch/eli/oc/2005/769)).
 [^81bis-2]: [SR 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
-[^81bis-3]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
+[^81bis-3]: Fassung gemäss Anhang Ziff. 5 der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^81bis-4]: Eingefügt durch Ziff. I der V vom 28. Sept. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
 ### III. Renten, Hilflosenentschädigung und Assistenzbeitrag
 
@@ -2919,7 +2920,7 @@ Auf den Entschädigungen nach den Absätzen 1 und 2 müssen keine Beiträge beza
 - c. Erwerbsersatzordnung für Dienstleistende in Armee, Zivildienst und Zivilschutz;
 - d. Arbeitslosenversicherung.
 
-[^91-1]: Aufgehoben durch Ziff. I der V vom 15. Juni 1992 ([AS 1992 1251](https://fedlex.data.admin.ch/eli/oc/1992/1251_1251_1251)). Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
+[^91-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3721](https://fedlex.data.admin.ch/eli/oc/2002/576)).
 [^91-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^91-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 
@@ -3166,7 +3167,7 @@ Beiträge werden an folgende in der Schweiz zweckmässig und wirtschaftlich erbr
 - b. Kurse für Invalide oder deren Angehörige;
 - c.[^108bis-2] …
 - d. Leistungen zur Unterstützung und Förderung der Eingliederung Invalider;
-- [tab] e.[^108bis-3] begleitetes Wohnen für Invalide.
+- e.[^108bis-3] begleitetes Wohnen für Invalide.
 
 <sup>2</sup> Das BSV umschreibt die Leistungen im Einzelnen. Die Tätigkeit des Vorstandes und von Vereins- und Delegiertenversammlungen sowie Sammelaktionen für die Beschaffung finanzieller Mittel gelten nicht als anrechenbare Leistungen.
 
