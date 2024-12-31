@@ -4,13 +4,12 @@ number: "631.111"
 title: Verordnung über den Finanz- und Lastenausgleich
 short: FILAV
 language: de
-version: 2023-03-01
-valid_until: 2024-12-31
-version_adopted: 2023-01-11
+version: 2025-01-01
+version_adopted: 2024-11-06
 adopted: 2001-08-22
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/631.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2794/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3081/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2794/pdf_file"
 
 (FILAV)
 
-vom 22.08.2001 (Stand 01.03.2023)
+vom 22.08.2001 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -74,7 +73,7 @@ beschliesst:
 
 **Schülerzahlen**
 
-<sup>1</sup> Die für den Vollzug massgebenden Schülerzahlen werden durch das Amt für zentrale Dienste der Bildungs- und Kulturdirektion bei den Schulen erhoben. Es erlässt Weisungen bezüglich der Erfassung.
+<sup>1</sup> Die für den Vollzug massgebenden Schülerzahlen werden durch das Generalsekretariat der Bildungs- und Kulturdirektion bei den Schulen erhoben. Es erlässt Weisungen bezüglich der Erfassung.
 
 #### Art. 7
 
@@ -200,7 +199,7 @@ beschliesst:
 <sup>2</sup> Die Gemeindeanteile werden berechnet
 
 - a durch das Amt für zentrale Dienste der Bildungs- und Kulturdirektion für den Lastenausgleich Lehrergehälter,
-- b durch das Amt für Integration und Soziales für den Lastenausgleich Sozialhilfe,
+- b durch das Amt für Integration und Soziales für den Lastenausgleich Soziales,
 - c durch das Amt für öffentlichen Verkehr und Verkehrskoordination für den Lastenausgleich Öffentlicher Verkehr,
 - d durch die Finanzverwaltung für die Lastenausgleiche neue Aufgabenteilung, Ergänzungsleistungen und Familienzulagen für Nichterwerbstätige.
 
@@ -216,7 +215,7 @@ beschliesst:
 
 <sup>3</sup> Das Amt für Sozialversicherungen verfügt die Gemeindeanteile für die Lastenausgleiche Ergänzungsleistungen und Familienzulagen für Nichterwerbstätige bis spätestens Ende Mai des Folgejahres.
 
-<sup>4</sup> Das Amt für Integration und Soziales verfügt die Gemeindeanteile für den Lastenausgleich Sozialhilfe bis spätestens Ende Mai des Folgejahres.
+<sup>4</sup> Das Amt für Integration und Soziales verfügt die Gemeindeanteile für den Lastenausgleich Soziales bis spätestens Ende Mai des Folgejahres.
 
 <sup>5</sup> Die Finanzverwaltung verfügt die Gemeindeanteile für den Lastenausgleich neue Aufgabenteilung bis spätestens Ende Mai.
 

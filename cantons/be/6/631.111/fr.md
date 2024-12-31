@@ -4,13 +4,12 @@ number: "631.111"
 title: Ordonnance sur la péréquation financière et la compensation des charges
 short: OPFC
 language: fr
-version: 2023-03-01
-valid_until: 2024-12-31
-version_adopted: 2023-01-11
+version: 2025-01-01
+version_adopted: 2024-11-06
 adopted: 2001-08-22
 in_force: 2001-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/631.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2794/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3081/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2794/pdf_file"
 
 (OPFC)
 
-du 22.08.2001 (état au 01.03.2023)
+du 22.08.2001 (état au 01.01.2025)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -74,7 +73,7 @@ arrête:
 
 **Nombre d'élèves et nombre de classes**
 
-<sup>1</sup> L'Office des services centralisés de la Direction de l'instruction publique et de la culture relève auprès des écoles le nombre d'élèves déterminants pour l'exécution. Il édicte des directives concernant ce recensement.
+<sup>1</sup> Le Secrétariat général de la Direction de l'instruction publique et de la culture relève auprès des écoles le nombre d'élèves déterminants pour l'exécution. Il édicte des directives concernant ce recensement.
 
 #### Art. 7
 
@@ -200,7 +199,7 @@ arrête:
 <sup>2</sup> Les parts des communes sont calculées
 
 - a par l'Office des services centralisés de la Direction de l'instruction publique et de la culture pour la compensation des charges des traitements du corps enseignant,
-- b par l'Office de l'intégration et de l'action sociale pour la compensation des charges de l'aide sociale,
+- b par l'Office de l'intégration et de l'action sociale pour la compensation des charges de l'action sociale,
 - c par l’Office des transports publics et de la coordination des transports pour la compensation des charges des transports publics,
 - d par l’Administration des finances pour les compensations de charges liées à la nouvelle répartition des tâches, aux prestations complémentaires et aux allocations familiales en faveur des personnes sans activité lucrative.
 
@@ -216,7 +215,7 @@ arrête:
 
 <sup>3</sup> L’Office des assurances sociales arrête les parts des communes pour la compensation des charges des prestations complémentaires et des allocations familiales en faveur des personnes sans activité lucrative au plus tard à la fin du mois de mai de l’année suivante.
 
-<sup>4</sup> L'Office de l'intégration et de l'action sociale arrête les parts des communes pour la compensation des charges de l’aide sociale au plus tard à la fin du mois de mai de l’année suivante.
+<sup>4</sup> L'Office de l'intégration et de l'action sociale arrête les parts des communes pour la compensation des charges de l’action sociale au plus tard à la fin du mois de mai de l’année suivante.
 
 <sup>5</sup> L’Administration des finances arrête les parts des communes pour la compensation des charges liées à la nouvelle répartition des tâches au plus tard à la fin du mois de mai.
 
