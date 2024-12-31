@@ -4,13 +4,12 @@ number: "869.710"
 title: Verordnung über die Behindertenhilfe
 short: BHV
 language: de
-version: 2024-01-01
-valid_until: 2024-12-31
-version_adopted: 2023-12-12
+version: 2025-01-01
+version_adopted: 2024-06-18
 adopted: 2016-11-29
 in_force: 2017-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/869.710"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6088/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6459/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Heime / Alterswohnungen / Behindertenhilfe
 
 (BHV)
 
-Vom 29. November 2016 (Stand 1. Januar 2024)
+Vom 29. November 2016 (Stand 1. Januar 2025)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -428,9 +427,42 @@ beschliesst:
 
 **…**
 
+#### § 28a
+
+**Festlegung der Normkosten für ambulante personale Leistungen**
+
+<sup>1</sup> Für personale ambulante Leistungen legt der Regierungsrat die Normkosten alle vier Jahre, erstmals auf den 1. Januar 2025, pro anrechenbare (direkte) Begleitstunde in Form eines Referenzansatzes für die Fachleistungsstunde im Bereich Wohnen am Tag bei institutionellen Leistungserbringenden fest.
+
+<sup>2</sup> Der Teuerungsausgleich richtet sich nach § 21 Abs. 3.
+
+<sup>3</sup> Die Stundenansätze für die anderen Leistungstypen institutioneller ambulanter personaler Leistungen ergeben sich durch Multiplikation des Stundenansatzes gemäss Abs. 1 mit den Faktoren aus der nachfolgenden Tabelle:
+
+<table>
+<tr><th>Leistungskategorie</th><th>Anrechnungsfaktor</th></tr>
+<tr><td>Fachleistungsstunde institutionell Wohnen am Tag</td><td>1</td></tr>
+<tr><td>Fachleistungsstunde institutionell Wohnen in der Nacht</td><td>1,21</td></tr>
+<tr><td>Assistenzstunde institutionell Wohnen am Tag</td><td>0,56</td></tr>
+<tr><td>Assistenzstunde institutionell Wohnen in der Nacht</td><td>0,72</td></tr>
+<tr><td>Bereitschaftsdienst</td><td>0,01</td></tr>
+</table>
+
+<sup>4</sup> Für die Festlegung der Bedarfsstufe im Bereich Tagesstruktur kommen die Fachleistungsstunden institutionell Wohnen am Tag sowie die Assistenzstunde institutionell Wohnen am Tag zur Anwendung.
+
+<sup>5</sup> Die Stundenansätze für Assistenzleistungen für Wohnen am Tag und in der Nacht bei nicht institutionellem Leistungsbezug legt der Regierungsrat alle vier Jahre, erstmals auf den 1. Januar 2025, fest.
+
+<sup>6</sup> Leistungen zur Unterstützung des betreuenden familiären Umfelds werden als Pauschalen für Assistenz ausgerichtet. Der Regierungsrat legt die Pauschalen alle vier Jahre, erstmals auf den 1. Januar 2025, pro Stunde fest.
+
 #### § 29
 
 **…**
+
+#### § 29a
+
+**Festlegung der Normkosten für ambulante nicht personale Leistungen**
+
+<sup>1</sup> Für ambulante, nicht personale Leistungen im institutionellen Bereich legt der Regierungsrat alle vier Jahre, erstmals auf den 1. Januar 2025, Normkosten pro Fachleistungsstunde fest.
+
+<sup>2</sup> Der Teuerungsausgleich richtet sich nach § 21 Abs. 3.
 
 ### 5. Festlegung der Kosten des Sonderbedarfs, des Zusatzbedarfs und des ausserkantonalen Leistungsbezugs
 
@@ -651,7 +683,7 @@ beschliesst:
 
 <sup>8</sup> Das ASB regelt die Rückzahlungsmodalitäten.
 
-Schlussbestimmung
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren. Sie wird am 1. Januar 2017 wirksam. Auf den gleichen Zeitpunkt werden die Verordnung zur Anerkennung von Institutionen zur Förderung der Eingliederung von invaliden Erwachsenen (Anerkennungsverordnung) vom 16. Oktober 2007 (Stand 1. Januar 2012) und die Verordnung betreffend die Kostenübernahme von Leistungen in anerkannten Institutionen für invalide Erwachsene (Kostenübernahmeverordnung) vom 16. Oktober 2007 aufgehoben.
 
