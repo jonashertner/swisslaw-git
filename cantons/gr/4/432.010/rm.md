@@ -4,13 +4,13 @@ number: "432.010"
 title: Ordinaziun tar la lescha davart lieus da scolaziun en ils fatgs da la sanadad e socials
 short: OtLLSS
 language: rm
-version: 2014-01-01
-corrected: 2020-06-25
-version_adopted: 2013-12-10
+version: 2025-01-01
+valid_until: 2026-06-30
+version_adopted: 2025-02-25
 adopted: 2004-12-14
 in_force: 2004-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/432.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2406/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3539/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2406/pdf_file"
 
 (OtLLSS)
 
-dals 14-12-2004 (versiun dals 01-01-2014)
+dals 14-12-2004 (versiun dals 01-01-2025)
 
 sa basond sin l'art. 19 da la lescha davart lieus da scolaziun en ils fatgs da la sanadad e socials[^ingress-1]
 
@@ -81,7 +81,7 @@ relaschada da la regenza ils 14 da december 2004
 
 <sup>3</sup> Per fixar la contribuziun ston vegnir resguardadas cifras da cumparegliaziun – uschenavant che talas èn disponiblas – per medems studis u per studis sumegliants.
 
-## 2. Center da furmaziun per la sanadad ed ils fatgs socials (CSS)
+## 2. Center da furmaziun per la sanadad ed ils fatgs socials (CFSS)
 
 ### 2.1. Cussegl da scola e post da revisiun
 
@@ -123,13 +123,22 @@ relaschada da la regenza ils 14 da december 2004
 
 #### Art. 10
 
-**Retenziuns e reservas liadas ad in intent**
+**Retenziuns e reservas**
 
-<sup>1</sup> Per cuvrir perditas smanatschantas, ston vegnir furmadas retenziuns.
+<sup>1</sup> Ina retenziun sto vegnir furmada, sche las suandantas premissas èn ademplidas en moda cumulativa:
 
-<sup>2</sup> Sche meds budgetads ch'èn approvads na vegnan betg duvrads per acquisiziuns u per projects entaifer la perioda da quint, pon vegnir fatgas reservas liadas ad in intent.
+- a) i sa tracta d'ina obligaziun actuala che deriva d'in eveniment ch'è capità avant il di da referenza da la bilantscha;
+- b) per ademplir l'obligaziun resulta probablamain ina deflussiun da meds finanzials;
+- c) l'autezza da l'obligaziun po vegnir stimada en moda fidada;
+- d) l'import è essenzial.
 
-<sup>3</sup> Las retenziuns e las reservas liadas ad in intent ston vegnir cumprovadas avertamain, impundidas confurm a lur destinaziun e schliadas uschespert che las premissas èn scadidas.
+<sup>2</sup> Sche meds budgetads ch'èn approvads per acquisiziuns u per projects na vegnan betg duvrads entaifer la perioda da quint en cas d'ina finanziaziun cun agid d'ina contribuziun da deficit, pon vegnir fatgas reservas liadas ad in intent.
+
+<sup>3</sup> Las retenziuns e las reservas ston vegnir cumprovadas avertamain, impundidas confurm a lur destinaziun e schliadas, uschespert che las premissas èn scadidas.
+
+<sup>4</sup> En cas d'ina finanziaziun cun agid d'ina contribuziun globala ston ils gudogns annuals vegnir attribuids a las reservas generalas per cuvrir perditas futuras.
+
+<sup>5</sup> Tut en tut na dastgan las reservas generalas betg surpassar 12 pertschient dals custs bruts. Sche las reservas generalas cuntanschan la valur maximala, sto vegnir pajada enavos la contribuziun chantunala ch'è vegnida pajada sur quai ora.
 
 #### Art. 11
 
@@ -183,7 +192,7 @@ relaschada da la regenza ils 14 da december 2004
 
 **Calculaziun da la contribuziun**
 
-<sup>1</sup> La fixaziun da la contribuziun chantunala vegn fatga da l'uffizi fin mez avrigl da l'onn suandant.
+<sup>1</sup> La fixaziun da la contribuziun chantunala vegn fatga tras l'Uffizi per la furmaziun media-superiura (uffizi) fin mez avrigl da l'onn suandant.
 
 <sup>2</sup> La contribuziun chantunala cuvra il deficit da gestiun imputabel a 100 pertschient.
 
@@ -221,6 +230,16 @@ relaschada da la regenza ils 14 da december 2004
 
 <sup>2</sup> Els vegnan rendids enconuschents al cussegl grond en la sessiun da zercladur da l'onn suandant.
 
+### 2.4.a Ulteriuras contribuziuns
+
+#### Art. 20a
+
+**Procedura e pajament**
+
+<sup>1</sup> Il CFSS propona a l'uffizi mesiras per promover la scolaziun dal persunal da la medischina umana. A l'uffizi suttametta el annualmain in rapport davart la realisaziun da questas mesiras.
+
+<sup>2</sup> Las contribuziuns ch'il chantun conceda al CFSS a favur da mesiras per promover la scolaziun èn cuntegnidas en sia contribuziun globala.
+
 ### 2.5. Acquisiziun da spazi
 
 #### Art. 21
@@ -241,6 +260,79 @@ relaschada da la regenza ils 14 da december 2004
 
 <sup>2</sup> Lieus da scolaziun che survegnivan contribuziuns chantunalas avant l'entrada en vigur da questa ordinaziun ston far ina cunvegna da prestaziun fin la fin da l'onn 2006.
 
+## 3a. Contribuziuns a persunas en scolaziun da la scola spezialisada superiura (SSS) ed a studentas e students da la scola auta spezialisada (SAS)
+
+#### Art. 22a
+
+**Dretg da survegnir contribuziuns**
+
+<sup>1</sup> Il dretg da survegnir contribuziuns ha, tgi che:
+
+- a) è immatriculà per ina scolaziun da tgira SSS u per in studi da bachelor da tgira SAS; e
+- b) ha, al cumenzament da l'onn da scolaziun u da studi, ses domicil civil en il chantun u è burgaisa u burgais d'in stadi commember da la UE/AECL ed ha in punct da referiment en il chantun (cunfinaria u cunfinari).
+
+<sup>2</sup> Nagin dretg da survegnir contribuziuns n'ha, tgi che ha gia terminà ina scolaziun da tgira SSS, in studi da bachelor da tgira SAS ubain ina scolaziun a l'exteriur ch'è renconuschida sco equivalenta.
+
+#### Art. 22b
+
+**Cumposiziun da la contribuziun ed autezza da la contribuziun**
+
+<sup>1</sup> La contribuziun ch'è da pajar sa cumpona da la contribuziun da sustegn tenor l'alinea 2 ed eventualmain da la pauschala per l'obligaziun da mantegniment dals geniturs tenor l'alinea 3.
+
+<sup>2</sup> L'autezza da la contribuziun da sustegn è fixada en l'agiunta 1.
+
+<sup>3</sup> Per mintga uffant che la persuna en scolaziun u en studi sto assister u sustegnair, vegn pajada ina pauschala annuala da 2760 francs.
+
+#### Art. 22c
+
+**Durada dal dretg da survegnir contribuziuns**
+
+<sup>1</sup> La durada dal dretg da survegnir contribuziuns sa drizza tenor la durada regulara da la scolaziun u dal studi tschernì confurm al dretg federal.
+
+<sup>2</sup> En cas che la scolaziun u il studi vegn sistì u interrut, en cas che la persuna pertutgada banduna il chantun u en cas ch'il punct da referiment tenor l'artitgel 22a alinea 1 litera b croda davent, scada il dretg da survegnir contribuziuns a partir dal mais che suonda.
+
+#### Art. 22d
+
+**Dumonda da survegnir contribuziuns e modalitads**
+
+<sup>1</sup> La dumonda da survegnir contribuziuns è d'inoltrar a l'uffizi suenter il cumenzament da la scolaziun u dal studi cun las indicaziuns ed ils documents necessaris. La dumonda è d'inoltrar fin ils 15 da favrer, sch'i vegn cumenzà il semester da primavaira, e fin ils 15 d'october, sch'i vegn cumenzà il semester d'atun.
+
+<sup>2</sup> La contribuziun vegn mintgamai concedida per in onn da scolaziun respectivamain da studi. Suenter la fin da l'onn da scola respectivamain da studi sto vegnir inoltrada ina nova dumonda.
+
+<sup>3</sup> Sche la dumonda vegn inoltrada memia tard, vegn la contribuziun pajada pir a partir dal mais che suonda l'inoltraziun da la dumonda fin a la fin da l'onn da scolaziun respectivamain da studi.
+
+<sup>4</sup> In pajament retroactiv da contribuziuns è exclus.
+
+#### Art. 22e
+
+**Annunziar midadas**
+
+<sup>1</sup> Ina persuna che survegn contribuziuns sto annunziar a l'uffizi entaifer 14 dis, sch'ella ha bandunà il chantun, sch'ella ha pers la permissiun d'exercitar in'activitad da gudogn sco cunfinaria u cunfinari e sch'ella ha sistì la scolaziun u il studi.
+
+<sup>2</sup> Mintga autra midada da las relaziuns ch'è d'impurtanza per il pajament da contribuziuns, sto vegnir annunziada a l'uffizi entaifer 30 dis.
+
+#### Art. 22f
+
+**Modalitads da pajament**
+
+<sup>1</sup> La contribuziun tenor l'artitgel 22b vegn pajada mintga mez onn e mo en Svizra.
+
+#### Art. 22g
+
+**Restituziun e dumonda da restituir contribuziuns**
+
+<sup>1</sup> La contribuziun tenor l'artitgel 22b sto vegnir restituida dal tuttafatg u per part:
+
+- a) sche las obligaziuns da cooperar èn vegnidas violadas gravantamain u repetidamain;
+- b) sche la contribuziun è vegnida obtegnida cun far indicaziuns nunvairas u cun tegnair dascus fatgs relevants;
+- c) en cas d'ina exclusiun da la scolaziun u dal studi per motivs disciplinars;
+- d) sche la scolaziun u il studi vegn sistì.
+
+<sup>2</sup> D'ina dumonda da restituziun poi vegnir desistì dal tuttafatg u per part, sche:
+
+- a) la scolaziun u il studi vegn sistì per motivs da sanadad;
+- b) la nunreussida da la scolaziun u dal studi è definitiva.
+
 ## 4. Disposiziuns finalas
 
 #### Art. 23
@@ -248,6 +340,14 @@ relaschada da la regenza ils 14 da december 2004
 **Midadas dal dretg vertent[^23-1]**
 
 [^23-1]: Las midadas dal dretg vertent na vegnan betg inditgadas.
+
+#### Art. 23a
+
+**Emprima inoltraziun da la dumonda e pajament**
+
+<sup>1</sup> Sche la scolaziun u il studi è vegnì cumenzà il semester d'atun 2024, sto la dumonda da contribuziun tenor l'artitgel 22d per l'onn da scolaziun respectivamain da studi 2024/2025 vegnir inoltrada a l'uffizi fin ils 31 da mars 2025.
+
+<sup>2</sup> La contribuziun cumpletta per l'onn da scolaziun respectivamain da studi 2024/2025 vegn pajada fin la fin da l'onn da scola 2024/2025.
 
 #### Art. 24
 
