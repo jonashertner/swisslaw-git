@@ -1,52 +1,54 @@
 ---
 canton: GR
 number: "370.110"
-title: Verordnung über die Gebühren und Barauslagen des Verwaltungsgerichtes
+title: Verordnung über die Gebühren und Barauslagen in öffentlich-rechtlichen Verfahren vor dem Obergericht
 short: VGÖ
 language: de
-version: 2007-01-01
-corrected: 2014-10-09
-version_adopted: 2006-11-02
+version: 2025-01-01
+version_adopted: 2025-01-02
 adopted: 2025-01-02
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/370.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/128/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3505/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Gebühren und Barauslagen des Verwaltungsgerichtes
+# Verordnung über die Gebühren und Barauslagen in öffentlich-rechtlichen Verfahren vor dem Obergericht
 
-Gestützt auf Art. 75 Abs. 4 des Verwaltungsrechtspflegegesetzes (VRG)[^t-1]
+(VGÖ)
 
-vom Verwaltungsgericht des Kantons Graubünden erlassen am 2. November 2006
+Vom 02.01.2025 (Stand 01.01.2025)
 
-[^t-1]: BR 370.100 1.01.2007 1
+Gestützt auf Art. 51a Abs. 3 der Kantonsverfassung[^ingress-1] und Art. 75 Abs. 4 des Gesetzes über die Verwaltungsrechtspflege[^ingress-2]
+
+vom Obergericht erlassen am 2. Januar 2025
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-2]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
 #### Art. 1
 
 **Geltungsbereich**
 
-Diese Verordnung regelt die Gebühren und Barauslagen in Verfahren vor Verwaltungsgericht.
+<sup>1</sup> Diese Verordnung regelt die Gebühren für Ausfertigungen und Mitteilungen von Entscheiden sowie den Ersatz der Barauslagen in öffentlich-rechtlichen Verfahren vor dem Obergericht.
+
+<sup>2</sup> Für Aufwendungen nach Abschluss des Verfahrens gilt Artikel 12 der Verordnung über die Kosten in Verwaltungsverfahren[^1-1].
+
+[^1-1]: BR [370.120](https://www.gr-lex.gr.ch/data/370.120/de)
 
 #### Art. 2
 
 **Gebühren**
 
-<sup>1</sup> Die Gebühren für Ausfertigungen von Urteilen betragen:
+<sup>1</sup> Die Gebühren für Ausfertigungen von Entscheiden an die Verfahrensbeteiligten betragen:
 
-- a) 16 Franken je Originalseite für Ausfertigungen;
+- a) 18 Franken je Originalseite für Ausfertigungen;
+- b) 1 Franken je Seite für die Abgabe weiterer notwendiger Exemplare, wobei pro Empfänger maximal zwei Exemplare ausgefertigt werden.
 
-- b) 1 Franken je Seite für die Abgabe weiterer notwendiger Exemplare, wobei pro Empfänger nur ein Exemplar berechnet wird.
+<sup>2</sup> Die Ausfertigungsgebühr wird für jede angebrochene A4-Seite erhoben.
 
-<sup>2</sup> Die Ausfertigungsgebühr wird für jede angebrochene A4 Seite erhoben.
-
-<sup>3</sup> Die Gebühren für Mitteilungen betragen:
-
-- a) 16 Franken bei postalischer Zustellung;
-
-- b) 6 Franken bei elektronischer Zustellung.
+<sup>3</sup> Die Gebühren für Mitteilungen an die Verfahrensbeteiligten betragen 18 Franken bei postalischer Zustellung.
 
 #### Art. 3
 
@@ -58,14 +60,20 @@ Diese Verordnung regelt die Gebühren und Barauslagen in Verfahren vor Verwaltun
 
 #### Art. 4
 
-**Anpassung Kosten**
+**Anpassung der Kosten**
 
-Sind Ausfertigungen beziehungsweise Mitteilungen ausserordentlich umfangreich oder Barauslagen ungewöhnlich hoch oder liegen sonst besondere Umstände vor, können die Kosten angemessen erhöht oder reduziert werden.
+<sup>1</sup> Sind Ausfertigungen oder Mitteilungen ausserordentlich umfangreich oder Barauslagen ungewöhnlich hoch oder liegen sonst besondere Umstände vor, können die Kosten angemessen erhöht oder reduziert werden.
 
 #### Art. 5
 
-**Inkrafttreten**
+**Entschädigung für Zeugnis und schriftliche Auskunft**
 
-Diese Verordnung tritt am 1. Januar 2007 in Kraft und ersetzt die von der Regierung am 25. August 1980 erlassene Gebührenverordnung für das Verwaltungsgericht[^5-1].
+<sup>1</sup> Zeuginnen und Zeugen werden für ihre Einvernahme einschliesslich Hin- und Rückfahrt mit 30 Franken pro Stunde entschädigt.
 
-[^5-1]: BR 370.100 1.01.2007 1
+<sup>2</sup> Wird ein höherer Erwerbsausfall geltend gemacht, ist dieser von der Zeugin oder dem Zeugen nachzuweisen. Die Entschädigung beträgt höchstens 500 Franken pro Tag.
+
+<sup>3</sup> Die gleichen Ansätze gelten für schriftliche Auskünfte von Privatpersonen.
+
+<sup>4</sup> Den Zeuginnen und Zeugen werden auf Verlangen Spesen gemäss kantonalem Personalrecht ausgerichtet.
+
+2025-003
