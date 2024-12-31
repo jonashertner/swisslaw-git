@@ -4,11 +4,11 @@ title: "Lescha federala dals 4 d'october 1991 davart il guaud (Lescha dal guaud,
 short: LG
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: rm
-version: 2022-01-01
+version: 2025-01-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20220101-rm-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal guaud, LG)
 
-dals 4 d’october 1991 (versiun dal 1. da schaner 2022)
+dals 4 d’october 1991 (versiun dal 1. da schaner 2025)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -105,6 +105,24 @@ Ina permissiun excepziunala dastga vegnir concedida, sch’il petent cumprova ch
 <sup>5</sup> Permissiuns da runcar ston vegnir concedidas per ina durada limitada.
 
 [^5-1]: Integrà tras la cifra I da la LF dals 18 da mars 2016, en vigur dapi il 1. da schan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+
+#### Art. 5a
+
+**Implants d’energia da vent**[^5a-1]
+
+<sup>1</sup>
+
+Ils implants d’energia da vent e lur vias d’access en il guaud valan sco liads al lieu, sch’els èn d’interess naziunal e sch’igl exista gia in’avertura tras ina via per la construcziun e per il manaschi dals implants. La cumprova da l’esser lià al lieu sto vegnir furnida, sche l’implant d’energia da vent duai vegnir construì en in dals suandants territoris:
+
+- a. en in object che figurescha en in inventari tenor l’artitgel 5 da la Lescha federala dal 1. da fanadur 1966[^5a-2] davart la protecziun da la natira e da la patria (LPNP);
+- b. en in reservat da guaud tenor l’artitgel 20 alinea 4;
+- c. en in asil federal da selvaschina tenor l’artitgel 11 da la Lescha da chatscha dals 20 da zercladur 1986[^5a-3].
+
+<sup>2</sup> En cas d’implants d’energia da vent ch’èn situads ordaifer ils objects tenor l’artitgel 5 LPNP, vegn fatga la consideraziun dals interess tenor l’artitgel 3 LPNP.
+
+[^5a-1]: Integrà tras la cifra IV da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^5a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^5a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 6
 
@@ -469,7 +487,7 @@ La Confederaziun po surdar lavurs u sustegnair lavurs cun agids finanzials per i
 
 La Confederaziun ed ils chantuns procuran che las autoritads e la publicitad vegnian infurmadas davart l’impurtanza e davart il stadi dal guaud sco er davart l’economia forestala e davart l’economia da laina.
 
-### 1*a*. secziun**** Promoziun da la laina
+### 1*a*. secziun Promoziun da la laina
 
 [^chap5-sec1a-1]
 
@@ -673,7 +691,7 @@ La Confederaziun po conceder emprests restituibels senza tschains u a tschains b
 [^41-1]: Versiun tenor la cifra II 30 da la LF dals 6 d’oct. 2006 davart la nova concepziun da la gulivaziun da finanzas e da la repartiziun da las incumbensas tranter la Confederaziun ed ils chantuns (NGF), en vigur dapi il 1. da schan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^41-2]: Expressiun tenor la cifra 9 da l’agiunta da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
 
-### 3. secziun**** Ulteriuras mesiras
+### 3. secziun Ulteriuras mesiras
 
 [^chap5-sec3-1]
 
@@ -683,9 +701,13 @@ La Confederaziun po conceder emprests restituibels senza tschains u a tschains b
 
 <sup>1</sup> Per promover la qualitad e la vendita po il Cussegl federal decretar prescripziuns davart la designaziun voluntara da products forestals e da lur elavuraziuns.
 
-<sup>2</sup> Per la registraziun e per la protecziun da las designaziuns sco er per la procedura vala la Lescha federala dals 29 d’avrigl 1998[^41a-1] davart l’agricultura.
+<sup>2</sup> Per la registraziun, per la protecziun da las designaziuns, per las proceduras e per la protecziun giuridica vala la Lescha d’agricultura dals 29 d’avrigl 1998[^41a-1].[^41a-2]
+
+<sup>3</sup> Il Cussegl federal po delegar la controlla a terzas persunas.[^41a-3]
 
 [^41a-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^41a-2]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 16 da zer. 2023, en vigur dapi il 1. da schan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-3]: Integrà tras la cifra 2 da l’agiunta da la LF dals 16 da zer. 2023, en vigur dapi il 1. da schan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ## 6. chapitel Disposiziuns penalas
 
@@ -863,23 +885,23 @@ Las disposiziuns executivas chantunalas tar ils artitgels 16 alinea 1, 17 alinea
 
 **Aboliziun dal dretg vertent**
 
-Abolids vegnan:
+Ils suandants decrets vegnan abolids:
 
 - a. la Lescha federala dals 11 d’october 1902[^54-1] davart la surveglianza suprema da la Confederaziun sin la polizia forestala;
 - b. la Lescha federala dals 21 da mars 1969[^54-2] davart ils credits d’investiziun per l’economia forestala en muntogna;
 - c. il Conclus federal dals 21 da december 1956[^54-3] davart la participaziun da la Confederaziun a la reconstituziun dals guauds infectads dal cancer da la scorsa dal chastagner;
 - d. il Conclus federal dals 23 da zercladur 1988[^54-4] davart mesiras extraordinarias per la conservaziun dal guaud.
 
-[^54-1]: [BS **9** 521; [AS 1954 559](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)cifra I 5, [1956 1215](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311), [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)art. 60, [1969 500](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507), [1971 1190](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 23, [1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)art. 7]
+[^54-1]: [BS **9** 521; [AS 1954 559](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)cifra I 5; [1956 1215](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311); [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)art. 60; [1969 500](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507); [1971 1190](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I 23; [1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)art. 7]
 [^54-2]: [[AS 1970 761](https://fedlex.data.admin.ch/eli/oc/1970/761_760_760)]
-[^54-3]: [[AS 1957 317](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 11.12]
+[^54-3]: [[AS 1957 317](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I 11.12]
 [^54-4]: [[AS 1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)]
 
 #### Art. 55
 
 **Midada dal dretg vertent**
 
-### ...**
+### ...
 
 [^55-subdiv-1]
 

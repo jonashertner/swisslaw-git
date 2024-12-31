@@ -4,11 +4,11 @@ title: "Federal Act of 4 October 1991 on Forest (Forest Act, ForA)"
 short: ForA
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: en
-version: 2022-01-01
+version: 2025-01-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20220101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Forest Act, ForA)
 
-of 4 October 1991 (Status as of 1 January 2022)
+of 4 October 1991 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -42,7 +42,7 @@ decrees:
 This Act is intended to:
 
 - a. conserve the forest in its area and spatial distribution;
-- b. protect the forest as a near-natural community;
+- b. protect the forest as a close-to-nature community;
 - c. ensure that the forest can fulfil its functions, in particular its protective, social and economic functions (forest functions);
 - d. promote and maintain the forestry sector.
 
@@ -104,7 +104,25 @@ In exceptional cases a deforestation permit may be granted if the applicant prov
 
 <sup>5</sup> A time limit shall be set for deforestation permits.
 
-[^5-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); BBl **2****014** 4909).
+[^5-1]: Inserted by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+
+#### Art. 5a
+
+**Wind energy facilities**[^5a-1]
+
+<sup>1</sup>
+
+Wind energy facilities and their access routes in the forest are considered permanently installed if they are in the national interest and provided the access routes are adequate for the construction and operation of the plants. Proof of site permanency must be provided if the wind energy facility is to be erected in one of the following areas:
+
+- a. at a site listed in an inventory in accordance with Article 5 of the Federal Act of 1 July 1966[^5a-2] on the Protection of Nature and Cultural Heritage (NCHA);
+- b. in a forest reserve in accordance with Article 20 paragraph 4;
+- c. in a federal game reserve in accordance with Article 11 of the Hunting Act of 20 June 1986[^5a-3].
+
+<sup>2</sup> In the case of wind energy facilities not located at a site that falls under Article 5 NCHA, interests shall be weighed in application of Article 3 NCHA.
+
+[^5a-1]: Inserted by No IV of the FA of 29 Sept. 2023 on a Secure Electricity Supply from Renewable Energy, in force since 1 Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^5a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^5a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 6
 
@@ -121,7 +139,7 @@ Exceptional permits are granted by:
 
 Before the cantonal authority decides on a derogation, it shall hear the Federal Office for the Environment[^6-2] (Federal Office), if:
 
-- a. the area to be deforested exceeds 5000 m<sup>2</sup>; if several deforestation applications are made for one and the same project, the total area is decisive;
+- a. the area to be deforested exceeds 5000m<sup>2</sup>; if several deforestation applications are made for one and the same project, the total area is decisive;
 - b. the forest to be deforested is located in several cantons.
 
 [^6-1]: Amended by No I 17 of the Federal Act of 18 June 1999 on the Coordination and Simplification of Decision-Making Procedures, in force since 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
@@ -291,7 +309,7 @@ Where necessary for the protection of human life and significant material assets
 
 <sup>1</sup> The forest shall be managed in such a way that it can fulfil its functions without interruption or restriction (sustainability).
 
-<sup>2</sup> The cantons shall enact planning and management regulations; in doing this, they shall take into account the requirements of wood supply, near-natural silviculture and the protection of nature and cultural heritage.
+<sup>2</sup> The cantons shall enact planning and management regulations; in doing this, they shall take into account the requirements of wood supply, close-to-nature silviculture and the protection of nature and cultural heritage.
 
 <sup>3</sup> Should the state of the forest and forest conservation allow it, the maintenance and use of the forest may be dispensed with entirely or in part for ecological and landscape reasons.
 
@@ -371,7 +389,7 @@ In order to ensure worker safety, contractors engaging in wood harvesting in the
 
 <sup>2</sup> They shall regulate wild animal populations in such a way that forest conservation, in particular natural regeneration with tree species suited to the location, is guaranteed without protective measures. Where this is not possible, they undertake measures to prevent damage caused by wild animals.
 
-[^27-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 (AS **2****016** 3207; [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^27-1]: Amended by No I of the FA of 18 March 2016, in force since 1 Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 27a
 
@@ -469,7 +487,7 @@ The Confederation may commission or provide financial assistance for the followi
 
 The Confederation and cantons shall ensure that the authorities and public are informed about the significance and state of the forest and about the forestry and timber sector.
 
-### Section 1*a***** Timber Production
+### Section 1*a* Timber Production
 
 [^chap5-sec1a-1]
 
@@ -487,7 +505,7 @@ The Confederation shall promote the marketing and use of sustainably produced ti
 
 <sup>1</sup> The Confederation shall encourage the use of sustainably produced timber where appropriate in the planning, construction and operation of its own buildings and installations.
 
-<sup>2</sup> When purchasing wood products, it shall take account of factors such as sustainable and near natural forest management and the aim of reducing greenhouse gas emissions.
+<sup>2</sup> When purchasing wood products, it shall take account of factors such as sustainable and close-to-nature forest management and the aim of reducing greenhouse gas emissions.
 
 ### Section 2 Financing
 
@@ -602,13 +620,13 @@ The Confederation shall provide financial assistance for measures that contribut
 
 The Confederation provides financial assistance for measures that improve the profitability of sustainable forest management, in particular for:[^38a-3]
 
-- a. interoperational planning bases;
+- a. inter-operational planning bases;
 - b. measures to improve the management conditions of the forestry operations;
 - c. temporary joint measures by the forestry and timber sector for advertising and marketing promotion in the case of exceptional wood supply;
 - d. the storage of wood in the case of exceptional wood supply;
 - e.[^38a-4] promoting the training of forestry workers and the practical training of forestry experts at university level;
 - f.[^38a-5] measures that support the forest in being able to fulfil its functions even under changed climatic conditions, in particular for the management of young forest and propagation of plant material;
-- g.[^38a-6] adaptation or reconstitution of public infrastructure facilities, insofar as these are necessary as part of an overall forest management concept and take account of the forest as a near-natural habitat, and overdevelopment is avoided.
+- g.[^38a-6] adaptation or reconstitution of public infrastructure facilities, insofar as these are necessary as part of an overall forest management concept and take account of the forest as a close-to-nature habitat, and overdevelopment is avoided.
 
 <sup>2</sup>
 
@@ -673,7 +691,7 @@ The Confederation may grant interest-free or low-interest repayable credits:
 [^41-1]: Amended by No II 30 of the Federal Act of 6 Oct. 2006 on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFE), in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^41-2]: Term in accordance with Annex No 9 of the FA of 19 March 2021, in force since 1 Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)). This amendment has been made in the provisions specified in the AS.
 
-### Section 3**** Further Measures
+### Section 3 Further Measures
 
 [^chap5-sec3-1]
 
@@ -683,9 +701,13 @@ The Confederation may grant interest-free or low-interest repayable credits:
 
 <sup>1</sup> The Federal Council may issue regulations on the voluntary declaration of origin of forest products and their processed products in order to promote quality and sales.
 
-<sup>2</sup> The registration and protection of labels and the procedures are governed by the Federal Act of 29 April 1998[^41a-1] on Agriculture.
+<sup>2</sup> Registration, protection of labels, procedures and legal protection are governed by the Agriculture Act of 29 April 1998[^41a-1].[^41a-2]
+
+<sup>3</sup> The Federal Council may transfer responsibility for the above to third parties.[^41a-3]
 
 [^41a-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^41a-2]: Amended by Annex No 2 of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-3]: Inserted by Annex No 2 of the FA of 16 June 2023, in force since 1 Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ## Chapter 6 Criminal Provisions
 
@@ -730,7 +752,7 @@ Any person who wilfully and without authorisation[^43-1]:
 
 [^43-1]: Amended by Art. 333 of the Criminal Code ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in its Version according to the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^43-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); **19****59** 1343 Art. 11 No III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)No I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)No III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)No I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 para. 1]. See now: the Customs Act of 18 March 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^43-3]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639); [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 No III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644); [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)No I 1; [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)No III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)No I 1 Art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 para. 1]. See now: the Customs Act of 18 March 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 
 #### Art. 44
 
@@ -756,7 +778,7 @@ The cantons are responsible for prosecution.
 
 <sup>1</sup> Appeal proceedings are governed by the general provisions on the administration of federal justice.[^46-1]
 
-<sup>1bis</sup> and <sup>1ter</sup> ... [^46-2]
+<sup>1bis</sup> and <sup>1ter</sup> …[^46-2]
 
 <sup>2</sup> The Federal Office[^46-3] has the right of appeal under federal and cantonal law against rulings by the cantonal authorities made on the basis of this Act and its implementing provisions.
 
@@ -872,16 +894,16 @@ The following are repealed:
 
 [^54-1]: [BS **9** 521; [AS 1954 559](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)No I 5, [1956 1215](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311), [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)Art. 60, [1969 500](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507), [1971 1190](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 23, **1988** 1696 Art. 7]
 [^54-2]: [[AS 1970 761](https://fedlex.data.admin.ch/eli/oc/1970/761_760_760)]
-[^54-3]: [[AS 1957 317](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 11.12]
+[^54-3]: [[AS 1957 317](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 11.12]
 [^54-4]: [[AS 1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)]
 
 #### Art. 55
 
 **Amendment of current legislation**
 
-...[^55-1]
+…[^55-1]
 
-[^55-1]: The amendments may be consulted under AS **19****92** 2521.
+[^55-1]: The amendments may be consulted under [AS 1992 2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521).
 
 #### Art. 56
 
@@ -904,7 +926,5 @@ The following are repealed:
 <sup>2</sup> The Federal Council determines the commencement date.
 
 Commencement date:[^57-1] 1 January 1993
-
-Art. 40 and 54 let. b: 1 January 1994
 
 [^57-1]: FCD of 30 Nov. 1992.

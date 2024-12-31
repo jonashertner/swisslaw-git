@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 4. Oktober 1991 über den Wald (Waldgesetz, WaG)"
 short: WaG
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: de
-version: 2022-01-01
+version: 2025-01-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/de"
 
 (Waldgesetz, WaG)
 
-vom 4. Oktober 1991 (Stand am 1. Januar 2022)
+vom 4. Oktober 1991 (Stand am 1. Januar 2025)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -103,6 +103,24 @@ Eine Ausnahmebewilligung darf erteilt werden, wenn der Gesuchsteller nachweist, 
 <sup>5</sup> Rodungsbewilligungen sind zu befristen.
 
 [^5-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+
+#### Art. 5a
+
+**Windenergieanlagen**[^5a-1]
+
+<sup>1</sup>
+
+Windenergieanlagen und ihre Erschliessungswege im Wald gelten als standortgebunden, wenn sie von nationalem Interesse sind und für den Bau und den Betrieb der Anlagen bereits eine strassenmässige Erschliessung besteht. Der Nachweis der Standortgebundenheit ist zu erbringen, wenn die Windenergieanlage in einem der folgenden Gebiete erstellt werden soll:
+
+- a. in einem Objekt, das in einem Inventar nach Artikel 5 des Bundesgesetzes vom 1. Juli 1966[^5a-2] über den Natur- und Heimatschutz (NHG) aufgeführt ist;
+- b. in einem Waldreservat nach Artikel 20 Absatz 4;
+- c. in einem eidgenössischen Jagdbanngebiet nach Artikel 11 des Jagdgesetzes vom 20. Juni 1986[^5a-3].
+
+<sup>2</sup> Bei Windenergieanlagen, die sich ausserhalb der Objekte nach Artikel 5 NHG befinden, erfolgt die Interessenabwägung nach Artikel 3 NHG.
+
+[^5a-1]: Eingefügt durch Ziff. IV des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^5a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^5a-3]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 6
 
@@ -415,7 +433,7 @@ Der Bund und die Kantone ergreifen Massnahmen, welche den Wald darin unterstütz
 
 <sup>2</sup> Er sorgt in Zusammenarbeit mit den Kantonen für die theoretische und praktische forstliche Aus- und Weiterbildung auf Hochschulstufe.[^29-2]
 
-<sup>3</sup> ...[^29-3]
+<sup>3</sup> …[^29-3]
 
 <sup>4</sup> Für die Berufsbildung des Forstpersonals gilt die Gesetzgebung über die Berufsbildung. Der Bundesrat legt die forstlichen Ausbildungsbereiche fest, in denen das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation diese Gesetzgebung vollzieht.[^29-4]
 
@@ -467,7 +485,7 @@ Der Bund kann für folgende Zwecke Arbeiten in Auftrag geben oder mit Finanzhilf
 
 Bund und Kantone sorgen für die Information der Behörden und der Öffentlichkeit über die Bedeutung und den Zustand des Waldes sowie über die Wald- und Holzwirtschaft.
 
-### 1*a*. Abschnitt:**** Holzförderung
+### 1*a*. Abschnitt: Holzförderung
 
 [^chap5-sec1a-1]
 
@@ -505,7 +523,7 @@ Förderungsbeiträge nach diesem Gesetz werden im Rahmen der bewilligten Kredite
 
 <sup>2</sup> Der Bundesrat kann vorsehen, dass Beiträge nur an Empfänger ausgerichtet werden, die sich an Selbsthilfemassnahmen der Wald- und Holzwirtschaft beteiligen.
 
-[^35-1]: Fassung gemäss Ziff. II 30 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 (AS **20****07** 5779; [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^35-1]: Fassung gemäss Ziff. II 30 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 36
 
@@ -580,9 +598,9 @@ Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen glob
 - b.[^38-3] die Förderung der Artenvielfalt und der genetischen Vielfalt im Wald;
 - c. die Vernetzung von Waldlebensräumen;
 - d. die Erhaltung traditioneller Waldbewirtschaftungen;
-- e.[^38-4] ...
+- e.[^38-4] …
 
-<sup>2</sup> ...[^38-5]
+<sup>2</sup> …[^38-5]
 
 <sup>3</sup> Die Höhe der Finanzhilfen richtet sich nach der Bedeutung der Massnahmen für die biologische Vielfalt und nach der Wirksamkeit der Massnahmen.
 
@@ -633,12 +651,12 @@ Er gewährt Finanzhilfen:
 
 <sup>2</sup> In Abweichung zu Absatz 1 übernimmt er bis zu 50 Prozent der berufsspezifischen Kosten, namentlich für die ortsgebundene praktische Ausbildung des Forstpersonals und die Schaffung von Lehrmitteln für das Forstpersonal.[^39-3]
 
-<sup>3</sup> ...[^39-4]
+<sup>3</sup> …[^39-4]
 
 [^39-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^39-2]: Fassung gemäss Anhang Ziff. II 6 des Berufsbildungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2004 (AS **20****03** 4557; [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
+[^39-2]: Fassung gemäss Anhang Ziff. II 6 des Berufsbildungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
 [^39-3]: Fassung gemäss Anhang Ziff. II 6 des Berufsbildungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674); [BBl 2000 5686](https://fedlex.data.admin.ch/eli/fga/2000/1232)).
-[^39-4]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 (AS **201****6** 3207; [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+[^39-4]: Aufgehoben durch Ziff. I des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [BBl 2014 4909](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 40
 
@@ -671,7 +689,7 @@ Der Bund kann unverzinsliche oder niedrig verzinsliche, rückzahlbare Darlehen g
 [^41-1]: Fassung gemäss Ziff. II 30 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^41-2]: Ausdruck gemäss Anhang Ziff. 9 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
-### 3. Abschnitt:**** Weitere Massnahmen
+### 3. Abschnitt: Weitere Massnahmen
 
 [^chap5-sec3-1]
 
@@ -681,9 +699,13 @@ Der Bund kann unverzinsliche oder niedrig verzinsliche, rückzahlbare Darlehen g
 
 <sup>1</sup> Zur Förderung von Qualität und Absatz kann der Bundesrat Vorschriften über die freiwillige Kennzeichnung der Herkunft von waldwirtschaftlichen Erzeugnissen und deren Verarbeitungsprodukten erlassen.
 
-<sup>2</sup> Für die Registrierung und den Schutz der Bezeichnungen sowie die Verfahren gilt das Bundesgesetz vom 29. April 1998[^41a-1] über die Landwirtschaft.
+<sup>2</sup> Für die Registrierung, den Schutz der Bezeichnungen, die Verfahren und den Rechtsschutz gilt das Landwirtschaftsgesetz vom 29. April 1998[^41a-1].[^41a-2]
+
+<sup>3</sup> Der Bundesrat kann die Kontrolle Dritten übertragen.[^41a-3]
 
 [^41a-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^41a-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 16. Juni 2023, in Kraft seit 1. Jan. 2025 ([AS 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [BBl 2020 3955](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ## 6. Kapitel: Strafbestimmungen
 
@@ -754,7 +776,7 @@ Die Strafverfolgung ist Sache der Kantone.
 
 <sup>1</sup> Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.[^46-1]
 
-<sup>1bis</sup> und <sup>1ter</sup> ...[^46-2]
+<sup>1bis</sup> und <sup>1ter</sup> …[^46-2]
 
 <sup>2</sup> Das Bundesamt[^46-3] ist berechtigt, gegen Verfügungen der kantonalen Behörden in Anwendung dieses Gesetzes und seiner Ausführungserlasse, die Rechtsmittel des eidgenössischen und kantonalen Rechts zu ergreifen.
 
@@ -868,16 +890,16 @@ Es werden aufgehoben:
 - c. der Bundesbeschluss vom 21. Dezember 1956[^54-3] über die Beteiligung des Bundes an der Wiederherstellung der vom Kastanienrindenkrebs befallenen Wälder;
 - d. der Bundesbeschluss vom 23. Juni 1988[^54-4] über ausserordentliche Massnahmen zur Walderhaltung.
 
-[^54-1]: [BS **9** 521; [AS 1954 559](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)Ziff. I 5, [1956 1215](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311), [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)Art. 60, [1969 500](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507), [1971 1190](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191), [1](https://fedlex.data.admin.ch/eli/oc/1971/1_1_1)**977** 2249 Ziff. I 11.11, [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 23, **1988** 1696 Art. 7]
+[^54-1]: [BS **9** 521; [AS 1954 559](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)Ziff. I 5; [1956 1215](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311); [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)Art. 60; [1969 500](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507); [1971 1190](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 23; **1988** 1696 Art. 7]
 [^54-2]: [[AS 1970 761](https://fedlex.data.admin.ch/eli/oc/1970/761_760_760)]
-[^54-3]: [[AS 1957 317](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 11.12]
+[^54-3]: [[AS 1957 317](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 11.12]
 [^54-4]: [[AS 1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)]
 
 #### Art. 55
 
 **Änderung bisherigen Rechts**
 
-*...*[^55-1]
+…[^55-1]
 
 [^55-1]: Die Änderungen können unter [AS 1992 2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)konsultiert werden.
 

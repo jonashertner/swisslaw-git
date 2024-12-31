@@ -4,11 +4,11 @@ title: "Loi fédérale du 4 octobre 1991 sur les forêts (Loi sur les forêts, L
 short: LFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: fr
-version: 2022-01-01
+version: 2025-01-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/fr"
 
 (Loi sur les forêts, LFo)[^t-1]
 
-du 4 octobre 1991 (Etat le 1<sup>er</sup> janvier 2022)
+du 4 octobre 1991 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -107,6 +107,24 @@ Une autorisation peut être accordée à titre exceptionnel au requérant qui d�
 <sup>5</sup> Les dérogations à l’interdiction de défricher doivent être limitées dans le temps.
 
 [^5-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+
+#### Art. 5a
+
+**Installations éoliennes**[^5a-1]
+
+<sup>1</sup>
+
+En forêt, les installations éoliennes et leurs chemins de desserte sont considérés comme des constructions dont l’implantation est imposée par leur destination s’ils relèvent d’un intérêt national et si les infrastructures routières nécessaires à la construction et l’exploitation sont déjà présentes. La preuve que l’implantation de l’installation est imposée par sa destination doit être apportée lorsque la construction est prévue dans l’une des zones suivantes:
+
+- a. un objet inscrit dans un inventaire visé à l’art. 5 de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^5a-2];
+- b. une réserve forestière visée à l’art. 20, al. 4;
+- c. un district franc fédéral visé à l’art. 11 de la loi du 20 juin 1986 sur la chasse[^5a-3].
+
+<sup>2</sup> Pour les installations éoliennes situées en dehors d’objets visés à l’art. 5 LPN, la pesée des intérêts se fonde sur l’art. 3 LPN.
+
+[^5a-1]: Introduit par le ch. IV de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^5a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^5a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 6
 
@@ -410,7 +428,7 @@ La Confédération et les cantons prennent les mesures qui permettent à la for�
 
 ## Chapitre 5 Mesures d’encouragement
 
-### Section 1 Formation, vulgarisation, recherche, collecte de données****
+### Section 1 Formation, vulgarisation, recherche, collecte de données
 
 [^chap5-sec1-1]
 
@@ -477,7 +495,7 @@ La Confédération peut confier à des tiers ou soutenir par des aides financiè
 
 La Confédération et les cantons veillent à ce que les autorités et la population soient informées sur le rôle et sur l’état des forêts ainsi que sur l’économie forestière et l’industrie du bois.
 
-### Section 1*a***** Promotion du bois
+### Section 1*a* Promotion du bois
 
 [^chap5-sec1a-1]
 
@@ -549,11 +567,11 @@ La Confédération alloue aux cantons, sur la base de conventions-programmes, de
 - a. l’entretien des forêts protectrices, y compris la prévention et la réparation des dégâts qui les menacent;
 - b. la garantie des infrastructures servant à l’entretien des forêts protectrices, pour autant qu’elles respectent la forêt en tant que biocénose naturelle.
 
-<sup>1bis</sup> Exceptionnellement, elle peut, par voie de décision, allouer des indemnités pour des projets qui ont été lancés à la suite d'événements naturels extraordinaires.[^37-2]
+<sup>1bis</sup> Exceptionnellement, elle peut, par voie de décision, allouer des indemnités pour des projets qui ont été lancés à la suite d’événements naturels extraordinaires.[^37-2]
 
 <sup>2</sup> Le montant des indemnités dépend de l’aire des forêts protectrices à entretenir, du danger à prévenir et de l’efficacité des mesures.
 
-[^37-1]: Nouvelle teneur selon le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 (RO **200****7** 5779; [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^37-1]: Nouvelle teneur selon le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^37-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4775](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
 
 #### Art. 37a
@@ -680,7 +698,7 @@ La Confédération peut consentir des prêts remboursables, sans intérêt ou à
 [^41-1]: Nouvelle teneur selon le ch. II 30 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^41-2]: Nouvelle expression selon l’annexe ch. 9 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
-### Section 3**** Autres mesures
+### Section 3 Autres mesures
 
 [^chap5-sec3-1]
 
@@ -690,9 +708,13 @@ La Confédération peut consentir des prêts remboursables, sans intérêt ou à
 
 <sup>1</sup> Le Conseil fédéral peut édicter des prescriptions sur la désignation facultative indiquant l’origine des produits sylvicoles et des produits sylvicoles transformés, pour en promouvoir la qualité et l’écoulement.
 
-<sup>2</sup> La procédure d’enregistrement et la protection des appellations sont régies par la loi du 29 avril 1998 sur l’agriculture[^41a-1].
+<sup>2</sup> L’enregistrement, la protection des appellations, les procédures et les voies de droit sont régies par la loi du 29 avril 1998 sur l’agriculture[^41a-1].[^41a-2]
+
+<sup>3</sup> Le Conseil fédéral peut déléguer le contrôle à des tiers.[^41a-3]
 
 [^41a-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^41a-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-3]: Introduit par l’annexe ch. 2 de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3851](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ## Chapitre 6 Dispositions pénales
 
@@ -700,7 +722,7 @@ La Confédération peut consentir des prêts remboursables, sans intérêt ou à
 
 **Délits**
 
-<sup>1</sup> est punie d’une peine privative de liberté d'un an au plus ou d’une peine pécuniaire.[^42-1]
+<sup>1</sup> est punie d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.[^42-1]
 
 La personne qui intentionnellement:
 
@@ -737,7 +759,7 @@ La personne qui intentionnellement et sans autorisation:
 
 [^43-1]: Nouvelle teneur du par. selon l’art. 333 du CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 [^43-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^43-3]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), **19****59** 1397 art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la LF du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^43-3]: [RS **6** 469; [RO 1956 635](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1397](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)art. 11 ch. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)ch. I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)ch. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)ch. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)annexe 2 ch. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)ch. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)annexe ch. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 50. [RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 al. 1]. Voir actuellement la LF du 18 mars 2005 sur les douanes ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 
 #### Art. 44
 
@@ -769,7 +791,7 @@ La poursuite pénale est du ressort des cantons.
 
 <sup>3</sup> Le droit de recours des cantons, des communes et des associations pour la protection de la nature et du paysage est régi par les art. 12 à 12*g* de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^46-4].[^46-5] Il porte aussi sur les décisions prises en vertu des art. 5, 7, 8, 10, 12 et 13 de la présente loi.
 
-<sup>4</sup> Le Conseil fédéral peut prévoir une procédure d’opposition aux décisions de première instance dans ses dispositions d'exécution.[^46-6]
+<sup>4</sup> Le Conseil fédéral peut prévoir une procédure d’opposition aux décisions de première instance dans ses dispositions d’exécution.[^46-6]
 
 [^46-1]: Nouvelle teneur selon l’annexe ch. 127 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^46-2]: Introduits par l’annexe ch. 9 de la LF du 21 mars 2003 sur le génie génétique ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)). Abrogés par l’annexe ch. 127 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
@@ -877,9 +899,9 @@ Sont abrogés:
 - c. l’arrêté fédéral du 21 décembre 1956 concernant la participation de la Confédération à la reconstitution des forêts atteintes par le chancre de l’écorce du châtaignier[^54-3];
 - d. l’arrêté fédéral du 23 juin 1988 sur des mesures extraordinaires pour la conservation de la forêt[^54-4].
 
-[^54-1]: [RS **9** 511; [RO 1954 573](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)ch. I 5, [1956 1297](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311), **1965** 321 art. 60, [1969 509](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507), [1971 1191](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 23, [1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)art. 7]
+[^54-1]: [RS **9** 511; [RO 1954 573](https://fedlex.data.admin.ch/eli/oc/1954/559_573_455)ch. I 5; [1956 1297](https://fedlex.data.admin.ch/eli/oc/1956/1215_1297_1311); **1965** 321 art. 60; [1969 509](https://fedlex.data.admin.ch/eli/oc/1969/500_509_507); [1971 1191](https://fedlex.data.admin.ch/eli/oc/1971/1190_1191_1191); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 11.[11](https://fedlex.data.admin.ch/eli/oc/1977/11_11_11); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 23; [1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)art. 7]
 [^54-2]: [[RO 1970 760](https://fedlex.data.admin.ch/eli/oc/1970/761_760_760)]
-[^54-3]: [[RO 1957 317](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 11.12]
+[^54-3]: [[RO 1957 317](https://fedlex.data.admin.ch/eli/oc/1957/317_317_331); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 11.12]
 [^54-4]: [[RO 1988 1696](https://fedlex.data.admin.ch/eli/oc/1988/1696_1696_1696)]
 
 #### Art. 55
@@ -910,6 +932,6 @@ Sont abrogés:
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-Date de l’entrée en vigueur[^57-1]: 1<sup>er</sup> janvier 1993 Art. 40 let. b: 1<sup>e</sup><sup>r</sup> janvier 1994
+Date de l’entrée en vigueur[^57-1]: 1<sup>er</sup> janvier 1993 Art. 40 let. b: 1<sup>er</sup> janvier 1994
 
 [^57-1]: ACF du 30 nov. 1992

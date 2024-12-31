@@ -4,11 +4,11 @@ title: "Legge federale del 4 ottobre 1991 sulle foreste (Legge forestale, LFo)"
 short: LFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521"
 language: it
-version: 2022-01-01
+version: 2025-01-01
 adopted: 1991-10-04
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2521_2521_2521-20250101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/20220101/it"
 
 (Legge forestale, LFo)
 
-del 4 ottobre 1991 (Stato 1° gennaio 2022)
+del 4 ottobre 1991 (Stato 1° gennaio 2025)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -105,6 +105,24 @@ Può essere concessa deroga se il richiedente comprova l’esistenza di gravi mo
 <sup>5</sup> I permessi di dissodamento hanno validità limitata.
 
 [^5-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3207](https://fedlex.data.admin.ch/eli/oc/2016/538); [FF 2014 4237](https://fedlex.data.admin.ch/eli/fga/2014/1078)).
+
+#### Art. 5a
+
+**Impianti eolici**[^5a-1]
+
+<sup>1</sup>
+
+Gli impianti eolici, incluse le loro vie di collegamento, siti in foreste sono considerati vincolati all’ubicazione se sono di interesse nazionale e se sono già presenti vie di collegamento stradale utilizzabili per la costruzione e l’esercizio dell’impianto. Occorre fornire la prova dell’ubicazione vincolata nei casi in cui l’impianto eolico è previsto in una delle aree seguenti:
+
+- a. oggetto iscritto in un inventario secondo l’articolo 5 della legge federale del 1° luglio 1966[^5a-2] sulla protezione della natura e del paesaggio (LPN);
+- b. riserva forestale secondo l’articolo 20 capoverso 4 della presente legge;
+- c. bandita federale di caccia secondo l’articolo 11 della legge del 20 giugno 1986[^5a-3] sulla caccia.
+
+<sup>2</sup> Nel caso di impianti eolici situati al di fuori degli oggetti secondo l’articolo 5 LPN, la ponderazione degli interessi avviene conformemente a quanto disposto dall’articolo 3 LPN.
+
+[^5a-1]: Introdotto dal n. IV della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679): [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^5a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^5a-3]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
 
 #### Art. 6
 
@@ -351,7 +369,7 @@ Per garantire la sicurezza sul lavoro, i mandatari che svolgono lavori di raccol
 
 <sup>2</sup> Se l’alienazione o la spartizione sono anche subordinate ad autorizzazioni in virtù della legge federale del 4 ottobre 1991[^25-1] sul diritto fondiario rurale, i Cantoni provvedono a riunire le due procedure e concluderle con decisione unica.
 
-[^25-1]: RS **211.412****.****11**
+[^25-1]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
 
 ### Sezione 2: Prevenzione e riparazione dei danni alla foresta
 
@@ -413,7 +431,7 @@ La Confederazione e i Cantoni adottano provvedimenti che sostengono la foresta n
 
 ## Capitolo 5: Provvedimenti promozionali
 
-### Sezione 1: Formazione, consulenza, ricerca e raccolta di dati****
+### Sezione 1: Formazione, consulenza, ricerca e raccolta di dati
 
 [^chap5-sec1-1]
 
@@ -479,7 +497,7 @@ La Confederazione può affidare a terzi o sostenere finanziariamente:
 
 Confederazione e Cantoni provvedono ad informare le autorità e l’opinione pubblica sull’importanza e lo stato della foresta, nonché sull’economia forestale e del legno.
 
-### Sezione 1*a*:**** Promozione del legno
+### Sezione 1*a*: Promozione del legno
 
 [^chap5-sec1a-1]
 
@@ -681,9 +699,9 @@ La Confederazione può accordare mutui rimborsabili, senza interesse o a interes
 <sup>2</sup> I contributi destinati agli interventi intesi a far fronte a catastrofi naturali straordinarie sono limitati alla durata del singolo intervento.
 
 [^41-1]: Nuovo testo giusta il n. II 30 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^41-2]: Nuova espr. giusta l’all. n. 9 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); FF **2****020** 333).
+[^41-2]: Nuova espr. giusta l’all. n. 9 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
-### Sezione 3:**** Altre misure
+### Sezione 3: Altre misure
 
 [^chap5-sec3-1]
 
@@ -693,9 +711,13 @@ La Confederazione può accordare mutui rimborsabili, senza interesse o a interes
 
 <sup>1</sup> Per promuovere la qualità e lo smercio, il Consiglio federale può emanare norme sulla designazione facoltativa della provenienza dei prodotti forestali e dei loro prodotti trasformati.
 
-<sup>2</sup> La registrazione e la protezione delle designazioni, nonché la procedura sono rette dalla legge del 29 aprile 1998[^41a-1] sull’agricoltura.
+<sup>2</sup> La registrazione, la protezione delle designazioni, la procedura e la protezione giuridica sono rette dalla legge del 29 aprile 1998[^41a-1] sull’agricoltura.[^41a-2]
+
+<sup>3</sup> Il Consiglio federale può affidare a terzi i controlli.[^41a-3]
 
 [^41a-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^41a-2]: Nuovo testo giusta l’all. n. 2 della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
+[^41a-3]: Introdotto dall’all. n. 2 della LF del 16 giu. 2023, in vigore dal 1° gen. 2025 ([RU 2024 623](https://fedlex.data.admin.ch/eli/oc/2024/623); [FF 2020 3567](https://fedlex.data.admin.ch/eli/fga/2020/881)).
 
 ## Capitolo 6: Disposizioni penali
 
