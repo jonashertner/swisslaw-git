@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordinanza del DFI del 16 dicembre 2016 sui materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari (Ordinanza sui materiali e gli oggetti)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: it
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240701/it"
 
 (Ordinanza sui materiali e gli oggetti)
 
-del 16 dicembre 2016 (Stato 1° luglio 2024)
+del 16 dicembre 2016 (Stato 1° gennaio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -39,7 +39,7 @@ ordina:
 <sup>3</sup> Per i materiali a contatto con l’acqua potabile si applicano i requisiti dell’ordinanza del DFI del 16 dicembre 2016[^1-1] sull’acqua potabile e sull’acqua per piscine e docce accessibili al pubblico.[^1-2]
 
 [^1-1]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
-[^1-2]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^1-2]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 2
 
@@ -78,7 +78,7 @@ Si intende per:
 - o. *sostanza in nanoforma (nanoparticella)*: ogni sostanza libera, sotto forma di aggregato o agglomerato, in cui una o più dimensioni esterne siano comprese fra 1 e 100 nanometri od ogni sostanza che presenta un rapporto superficie specifica-volume superiore a 60 m<sup>2</sup>/cm<sup>3</sup>; questa sostanza è considerata nanoparticella soltanto quando è fabbricata specificatamente per poterne sfruttare le proprietà risultanti dalle dette dimensioni esterne della particella contenuta o dal rapporto superficie specifica-volume della sostanza;
 - p. *sostanza presente non intenzionalmente*: impurità nelle sostanze utilizzate, intermedio di reazione formatosi nel corso del processo di fabbricazione o prodotto di decomposizione o di reazione.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 ## Sezione 2: Etichettatura
 
@@ -140,7 +140,7 @@ La persona responsabile deve istituire e attuare un sistema di garanzia della qu
 
 <sup>2</sup> Quando i materiali e oggetti sono ricoperti da uno strato di stagno, nichelio, cromo, argento, oro o qualsiasi altro metallo, il rivestimento deve sempre essere in buono stato.
 
-[^8-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Abrogato dal n. I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^8-1]: Introdotto dalla cifra I dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Abrogato dalla cifra I dell’O del DFI dell’8 dic. 2023, con effetto dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 9
 
@@ -201,7 +201,7 @@ In deroga al capoverso 1, le sostanze qui appresso che non sono contenute nellʼ
 
 <sup>4</sup> Le sostanze prodotte intenzionalmente in nanoforma possono essere utilizzate solo se sono autorizzate secondo l’allegato 2.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 12
 
@@ -228,7 +228,7 @@ In deroga al capoverso 1, gli additivi che sono anche ammessi come additivi alim
 
 [^13-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
 [^13-2]: [RS 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
-[^13-3]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^13-3]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 #### Art. 14
 
@@ -262,8 +262,8 @@ Le sostanze secondo il capoverso 1 lettera b non devono appartenere alle seguent
 
 <sup>3</sup> La dichiarazione di conformità deve consentire di individuare facilmente i materiali, gli oggetti, i prodotti in una fase intermedia della fabbricazione o le sostanze per cui è rilasciata. Deve inoltre essere rinnovata quando modifiche significative della composizione o della fabbricazione determinano cambiamenti della migrazione dai materiali o dagli oggetti oppure quando sono disponibili nuovi dati scientifici.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^15-2]: Nuova espressione giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^15-2]: Nuova espressione giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
@@ -279,7 +279,7 @@ La documentazione deve contenere in particolare:
 - b. i calcoli, compresa la modellizzazione, e altre analisi;
 - c. le prove della sicurezza o un’argomentazione a dimostrazione della conformità.[^16-1]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## Sezione 6: Materiali e oggetti di plastica riciclata
 
@@ -346,7 +346,7 @@ Oltre alle prescrizioni di cui all’articolo 15, la dichiarazione di conformit�
 
 - b. per i materiali e gli oggetti in plastica riciclata: una dichiarazione attestante che il processo di riciclo è stato autorizzato dall’USAV, con indicazione del numero di autorizzazione, o che i materiali e gli oggetti possono essere immessi sul mercato ai sensi del regolamento (UE) 2022/1616.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 [^20-2]: Regolamento (CE) 2022/1616 della Commissione, del 15 settembre 2022, relativo ai materiali e agli oggetti di materia plastica riciclata destinati a venire a contatto con i prodotti alimentari e che abroga il regolamento (CE) n. 282/2008, versione della GU L 243 del 20.9.2022, pag. 3.
 
 ## Sezione 7: Materiali e oggetti in pellicola di cellulosa rigenerata
@@ -411,9 +411,9 @@ La superficie stampata della pellicola di cellulosa rigenerata non deve entrare 
 
 <sup>3</sup> La persona responsabile mette a disposizione delle autorità d’esecuzione, su richiesta, la documentazione atta a dimostrare i risultati delle analisi eseguite, le condizioni di test nonché il nome e l’indirizzo del laboratorio che ha eseguito le analisi.[^26-3]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^26-2]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^26-3]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^26-2]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^26-3]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## Sezione 9: Materiali e oggetti di carta e cartone
 
@@ -427,7 +427,7 @@ La carta e il cartone riciclati possono essere utilizzati unicamente:
 - b. per applicazioni specifiche, se è dimostrato che la migrazione di componenti nelle derrate alimentari soddisfa i requisiti di cui all’articolo 49 ODerr; oppure
 - c. se, mediante misure adeguate (ad esempio una barriera funzionale o elementi assorbenti), la migrazione di componenti nelle derrate alimentari soddisfa i requisiti di cui all’articolo 49 ODerr.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 ## Sezione 10: Paraffina, cere e coloranti
 
@@ -440,7 +440,7 @@ Le paraffine e le cere destinate alla fabbricazione di contenitori a diretto con
 - a.[^28-1] soddisfare i requisiti della *Pharmacopoea Helvetica*[^28-2];
 - b. essere prive di sostanze cancerogene.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 [^28-2]: La pubblicazione può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica, Vendita delle pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch.
 
 #### Art. 29
@@ -482,7 +482,7 @@ I siliconi (polisilossani) sono polimeri macromolecolari caratterizzati da legam
 
 <sup>2</sup> Sono ammessi anche tutti i sali delle sostanze per le quali è indicato «sì» nell’allegato 9, tabella 2, colonna 2, da acidi, fenoli o alcoli ammessi, fatte salve le limitazioni della tabella 2, colonne 3 e 4.[^32-1]
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## Sezione 12: Inchiostri per imballaggi
 
@@ -520,7 +520,7 @@ Gli inchiostri per imballaggi possono essere fabbricati soltanto con:
 - b. tutti i sali delle sostanze per le quali è indicato «sì» nell’allegato 10, tabella 3, colonna 2, da acidi, fenoli o alcoli ammessi, fatte salve le limitazioni della tabella 3, colonne 3 e 4;
 - c. altre sostanze la cui migrazione non è rilevabile in una derrata alimentare o nel simulante alimentare e che non sono classificate come «mutagene», «cancerogene» o «tossiche per la riproduzione» (sostanze CMR) delle categorie 1A, 1B o 2 secondo l’allegato 2 numero 1 OPChim[^35-2] sui prodotti chimici; se non sono stabiliti limiti di rilevazione specifici per determinate sostanze o gruppi di sostanze, si applica un limite di rilevazione di 0,01 mg/kg.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 [^35-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 35a
@@ -533,7 +533,7 @@ Gli inchiostri per imballaggi possono essere fabbricati soltanto con:
 
 <sup>3</sup> La dichiarazione di conformità deve consentire di individuare facilmente gli strati di inchiostro per imballaggi come componenti di materiali e oggetti, gli inchiostri per imballaggi e le sostanze destinate alla fabbricazione di inchiostri per imballaggi a cui si riferisce. Deve essere rinnovata quando modifiche significative della composizione o della produzione determinano cambiamenti della migrazione dai materiali o dagli oggetti oppure quando sono disponibili nuovi dati scientifici.
 
-[^35a-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^35a-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 35b
 
@@ -549,7 +549,7 @@ La documentazione deve contenere in particolare:
 - b. i calcoli, compresa la modellizzazione, e altre analisi;
 - c. le prove della sicurezza o un’argomentazione a dimostrazione della conformità.
 
-[^35b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^35b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ## Sezione 13: Materiali e oggetti attivi e intelligenti
 
@@ -586,7 +586,7 @@ Nei componenti di materiali e oggetti attivi e intelligenti possono essere utili
 
 <sup>3</sup> La quantità di sostanza attiva rilasciata non è computata nel valore della migrazione globale misurata ove, nell’ambito di una sezione specifica, è fissato un limite di migrazione globale per il materiale o lʼoggetto destinato a entrare in contatto con le derrate alimentari nel quale il componente è incorporato.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 [^37-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 #### Art. 38
@@ -628,7 +628,7 @@ Qualora diano l’impressione di essere commestibili, i materiali e gli oggetti 
 
 [^sec13a-1]
 
-[^sec13a-1]: Introdotta dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^sec13a-1]: Introdotta dalla cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 #### Art. 40a
 
@@ -704,7 +704,7 @@ Le autorizzazioni di cui all’articolo 10 dell’ordinanza del DFI del 23 novem
 
 <sup>2</sup> Gli materiali e oggetti non conformi agli altri requisiti della modifica del 23 ottobre 2019 possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 30 novembre 2020. Possono essere consegnati ai consumatori fino a esaurimento delle scorte.
 
-[^43a-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^43a-1]: Introdotto dalla cifra I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 #### Art. 43b
 
@@ -714,7 +714,7 @@ Le autorizzazioni di cui all’articolo 10 dell’ordinanza del DFI del 23 novem
 
 <sup>2</sup> I materiali e gli oggetti non conformi agli altri requisiti della modifica del 8 dicembre 2023 possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 31 gennaio 2025. Essi possono essere consegnati ai consumatori fino a esaurimento delle scorte.
 
-[^43b-1]: Introdotto dal n. I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^43b-1]: Introdotto dalla cifra I dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 44
 
@@ -728,7 +728,7 @@ Allegato 1
 
 ## Simbolo riportato sui materiali e sugli oggetti, indicante l’uso al quale sono destinati
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/it/xml/image/image1.png)
 
 Allegato 2[^t-1]
 
@@ -738,8 +738,8 @@ Allegato 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/250](https://fedlex.data.admin.ch/eli/oc/2024/250) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) e del 13 nov. 2025, in vigore dal 1° gen. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/755](https://fedlex.data.admin.ch/eli/oc/2024/755) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
@@ -747,7 +747,7 @@ Allegato 3[^t-2]
 
 ## Dichiarazione di conformità dei materiali e degli oggetti di plastica
 
-[^t-2]: Aggiornato dal n. II cpv. 3 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-2]: Aggiornato dalla cifra II cpv. 3 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 La dichiarazione di conformità di cui all’articolo 15 capoverso 2 deve contenere le seguenti informazioni:
 
@@ -782,7 +782,7 @@ Allegato 4[^t-3]
 
 ## Regole per la valutazione della conformità ai limiti di migrazione dei materiali e degli oggetti in plastica
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 2 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 2 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ### 1 Simulanti alimentari
 
@@ -1474,7 +1474,7 @@ Allegato 8[^t-4]
 
 ## Valori limite di rilascio di piombo e di cadmio per i materiali e gli oggetti di ceramica, vetro, smalto e simili
 
-[^t-4]: Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-4]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 - 1\. Le parti di materiali e oggetti di ceramica, vetro, smalto e simili che vengono a contatto con derrate alimentari possono rilasciare ad acido acetico al quattro per cento del volume, a una temperatura di 22 °C per una durata di 24 ore, al massimo i seguenti quantitativi (valori limite):
 
@@ -1496,7 +1496,7 @@ Allegato 8a[^t-5]
 
 ## Dichiarazione di conformità dei materiali e degli oggetti di ceramica
 
-[^t-5]: Introdotto dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-5]: Introdotto dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 La dichiarazione di conformità di cui all’articolo 26 capoverso 2<sup>bis</sup> deve contenere le seguenti informazioni:
 
@@ -1515,7 +1515,7 @@ Allegato 9[^t-6]
 
 [^annex9-lvlu1-1]
 
-[^t-6]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-6]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra I cpv. 1 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 [^annex9-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 10[^t-7]
@@ -1526,8 +1526,8 @@ Allegato 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Nuovo testo giusta il n. I cpv. 3 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) e dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)).
-[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/250](https://fedlex.data.admin.ch/eli/oc/2024/250) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-7]: Nuovo testo giusta la cifra I cpv. 3 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) e del 13 nov. 2025, in vigore dal 1° gen. 2025 ([RU 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
+[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/755](https://fedlex.data.admin.ch/eli/oc/2024/755) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 11
 
@@ -1535,7 +1535,7 @@ Allegato 11
 
 ## Simbolo «Non mangiare»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/it/xml/image/image2.png)
 
 Allegato 12
 
@@ -1577,7 +1577,7 @@ Allegato 13[^t-8]
 
 ## Requisiti particolari per le vernici e i rivestimenti
 
-[^t-8]: Introdotto dal n. II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-8]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dalla cifra II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 ### 1. BADGE, BFDGE e NOGE
 
@@ -1629,7 +1629,7 @@ Allegato 14[^t-9]
 
 ## Dichiarazione di conformità per le vernici e i rivestimenti
 
-[^t-9]: Introdotto dal n. II cpv. 1 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^t-9]: Introdotto dalla cifra II cpv. 1 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 La dichiarazione di conformità di cui all’articolo 40*b* capoverso 2 deve contenere le seguenti informazioni:
 
@@ -1652,7 +1652,7 @@ Allegato 15[^t-10]
 
 ## Dichiarazione di conformità per inchiostri per imballaggi
 
-[^t-10]: Introdotto dal n. II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-10]: Introdotto dalla cifra II cpv. 1 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 La dichiarazione di conformità secondo l’articolo 35*a* capoverso 2 deve contenere le informazioni rilevanti per ogni fase di fabbricazione contenute nel seguente elenco:
 

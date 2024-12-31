@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordonnance du DFI du 16 décembre 2016 sur les matériaux et objets destinés à entrer en contact avec les denrées alimentaires (Ordonnance sur les matériaux et objets)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: fr
-version: 2024-07-01
+version: 2025-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240701/fr"
 
 (Ordonnance sur les matériaux et objets)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2024)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -729,7 +729,7 @@ Annexe 1
 
 ## Symbole figurant sur les matériaux et objets indiquant l’usage auquel ils sont destinés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/fr/xml/image/image1.png)
 
 Annexe 2[^t-1]
 
@@ -739,8 +739,8 @@ Annexe 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) et le ch. I de l’O de l’OSAV du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/250](https://fedlex.data.admin.ch/eli/oc/2024/250) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) et le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: https://fedlex.data.admin.ch/eli/oc/2024/755 &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-2]
 
@@ -1533,8 +1533,8 @@ Annexe 10[^t-9]
 
 [^annex10-lvlu1-1]
 
-[^t-9]: Nouvelle teneur selon le ch. I al. 3 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) et le ch. I de l’O de l’OSAV du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)).
-[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/250](https://fedlex.data.admin.ch/eli/oc/2024/250) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-9]: Nouvelle teneur selon le ch. I al. 3 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I de l’O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)).
+[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/755](https://fedlex.data.admin.ch/eli/oc/2024/755) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 11
 
@@ -1542,7 +1542,7 @@ Annexe 11
 
 ## Symbole indiquant «Ne pas manger»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250101/fr/xml/image/image2.png)
 
 Annexe 12
 
