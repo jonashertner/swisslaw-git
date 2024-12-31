@@ -4,11 +4,11 @@ title: "Loi fédérale du 7 octobre 1983 sur la protection de l'environnement (L
 short: LPE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250101-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20240101/fr"
 
 (Loi sur la protection de l’environnement, LPE)
 
-du 7 octobre 1983 (État le 1<sup>er</sup> janvier 2024)
+du 7 octobre 1983 (État le 1<sup>er</sup> janvier 2025)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -108,15 +108,17 @@ Si les intérêts de la défense nationale l’exigent, le Conseil fédéral rè
 
 <sup>6</sup> Par déchets, on entend les choses meubles dont le détenteur se défait ou dont l’élimination est commandée par l’intérêt public.[^7-8]
 
-<sup>6bis</sup> L’élimination des déchets comprend leur valorisation ou leur stockage définitif ainsi que les étapes préalables que sont la collecte, le transport, le stockage provisoire et le traitement. Par traitement, on entend toute modification physique, biologique ou chimique des déchets.[^7-9]
+<sup>6bis</sup> L’élimination des déchets comprend leur valorisation ou leur stockage définitif ainsi que les étapes préalables que sont la collecte, le transport, le stockage provisoire et le traitement. Par traitement, on entend toute modification physique, biologique ou chimique des déchets ainsi que la préparation de ces derniers en vue de leur réutilisation.[^7-9] [^7-10]
 
-<sup>6ter</sup> Par utilisation, on entend toute opération impliquant des substances, des organismes ou des déchets, notamment leur production, leur importation, leur exportation, leur mise dans le commerce, leur emploi, leur entreposage, leur transport et leur élimination.[^7-10]
+<sup>6ter</sup> Par utilisation, on entend toute opération impliquant des substances, des organismes ou des déchets, notamment leur production, leur importation, leur exportation, leur mise dans le commerce, leur emploi, leur entreposage, leur transport et leur élimination.[^7-11]
 
 <sup>7</sup> Par installations, on entend les bâtiments, les voies de communication ou autres ouvrages fixes ainsi que les modifications de terrain. Les outils, machines, véhicules, bateaux et aéronefs sont assimilés aux installations.
 
-<sup>8</sup> Par informations sur l’environnement, on entend les informations relatives au domaine d’application de la présente loi et de la législation sur la protection de la nature et du paysage, la protection des sites naturels, la protection des eaux, la protection contre les dangers naturels, la sauvegarde des forêts, la chasse, la pêche, le génie génétique et la protection du climat.[^7-11]
+<sup>8</sup> Par informations sur l’environnement, on entend les informations relatives au domaine d’application de la présente loi et de la législation sur la protection de la nature et du paysage, la protection des sites naturels, la protection des eaux, la protection contre les dangers naturels, la sauvegarde des forêts, la chasse, la pêche, le génie génétique et la protection du climat.[^7-12]
 
-<sup>9</sup> Par biocarburants et biocombustibles, on entend les carburants et les combustibles liquides ou gazeux produits à partir de biomasse ou d’autres agents énergétiques renouvelables.[^7-12]
+<sup>9</sup> Par carburants renouvelables, on entend les carburants liquides ou gazeux produits à partir de biomasse ou d’autres agents énergétiques renouvelables.[^7-13]
+
+<sup>10</sup> Par combustibles renouvelables, on entend les combustibles solides, liquides ou gazeux produits à partir de biomasse ou d’autres agents énergétiques renouvelables.[^7-14]
 
 [^7-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-2]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
@@ -126,10 +128,12 @@ Si les intérêts de la défense nationale l’exigent, le Conseil fédéral rè
 [^7-6]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-7]: Introduit par l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-8]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^7-9]: Introduit par le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^7-10]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^7-11]: Introduit par l’art. 2 ch. 1 de l’AF du 27 sept. 2013 (Conv. d’Aarhus), en vigueur depuis le 1<sup>er</sup> juin 2014 ([RO 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 4027](https://fedlex.data.admin.ch/eli/fga/2012/596)).
-[^7-12]: Introduit par l’annexe de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^7-9]: Nouvelle teneur de la phrase selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^7-10]: Introduit par le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^7-11]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^7-12]: Introduit par l’art. 2 ch. 1 de l’AF du 27 sept. 2013 (Conv. d’Aarhus), en vigueur depuis le 1<sup>er</sup> juin 2014 ([RO 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [FF 2012 4027](https://fedlex.data.admin.ch/eli/fga/2012/596)).
+[^7-13]: Introduit par l’annexe de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^7-14]: Introduit par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 8
 
@@ -259,6 +263,20 @@ Le Conseil fédéral évalue au moins tous les quatre ans l’état de l’envir
 
 [^10g-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 [^10g-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+### Chapitre 5 Préservation des ressources naturelles et renforcement de l’économie circulaire
+
+[^tit1-chap5-1]
+
+[^tit1-chap5-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 10h
+
+<sup>1</sup> La Confédération et, dans la mesure de leurs compétences, les cantons veillent à ce que les ressources naturelles soient préservées. Ils s’engagent notamment à réduire tout au long du cycle de vie des produits et des ouvrages les nuisances à l’environnement, à boucler les cycles des matériaux et à améliorer l’efficacité dans l’utilisation des ressources. Ce faisant, ils tiennent compte des nuisances à l’environnement générées à l’étranger.
+
+<sup>2</sup> Le Conseil fédéral rend régulièrement compte à l’Assemblée fédérale de l’utilisation des ressources naturelles et de l’évolution de l’efficacité dans leur utilisation. Il indique les mesures supplémentaires à prendre et propose des objectifs qualitatifs et quantitatifs en matière de ressources axés sur le produit ou l’ouvrage ainsi que sur leur cycle de vie. Pour les mesurer, il s’appuie autant que possible sur des standards reconnus au niveau international.
+
+<sup>3</sup> La Confédération et les cantons contrôlent régulièrement si les dispositions juridiques qu’ils édictent entravent des initiatives prises par l’économie en vue de la préservation des ressources et du renforcement de l’économie circulaire.
 
 ## Titre 2 Limitation des nuisances
 
@@ -652,12 +670,31 @@ Le Conseil fédéral peut pourvoir à la création d’une caisse de compensatio
 
 #### Art. 30d
 
-**Valorisation**
+**Valorisation**[^30d-1]
 
-Le Conseil fédéral peut:
+<sup>1</sup> Les déchets doivent faire l’objet d’une réutilisation ou d’une valorisation matière si la technique le permet et si cela est économiquement supportable et plus respectueux de l’environnement que ne le serait un autre mode d’élimination ou la production de produits nouveaux.
 
-- a. prescrire que certains déchets doivent être valorisés si cela est économiquement supportable et plus respectueux de l’environnement que ne le seraient un autre mode d’élimination et la production de produits nouveaux;
-- b. restreindre les utilisations de certains matériaux et produits, si cela permet d’accroître les débouchés pour des produits d’un usage équivalent qui sont produits à partir de déchets valorisés, sans pour autant entraîner des coûts supplémentaires et des pertes de qualité importants.
+<sup>2</sup>
+
+Conformément aux principes de l’al. 1, doivent en particulier faire l’objet d’une valorisation matière:
+
+- a. les métaux valorisables contenus dans les résidus du traitement des déchets, des eaux usées et de l’air évacué;
+- b. les fractions valorisables contenues dans les matériaux d’excavation et les déblais de percement non pollués destinés à être stockés définitivement;
+- c. le phosphore contenu dans les boues d’épuration ainsi que dans les farines animales, la poudre d’os et les restes d’aliments;
+- d. les déchets aptes à être compostés ou fermentés;
+- e. l’azote des stations d’épuration des eaux usées.
+
+<sup>3</sup> Si une valorisation matière n’est pas possible selon les conditions de l’al. 1, les déchets font prioritairement l’objet d’une valorisation matière et énergie puis d’une valorisation énergie.
+
+<sup>4</sup> Sur la base des besoins nationaux, le Conseil fédéral fixe la quantité de phosphore contenu dans les eaux usées communales ou les boues d’épuration provenant de stations centrales d’épuration qui doit être réintroduite dans le cycle économique.
+
+<sup>5</sup> L’obligation de valorisation matière du phosphore contenu dans les boues d’épuration est considérée comme remplie lorsque le remettant de boues d’épuration démontre à l’autorité d’exécution que la quantité de phosphore fixée par le Conseil fédéral est réintroduite dans le cycle économique pour la quantité de boues d’épuration qu’il remet. Les coûts d’exploitation et de capital non couverts par les recettes des produits, comme l’acide phosphorique, sont à la charge des personnes qui sont à l’origine de la production de boues d’épuration.
+
+<sup>6</sup> Si l’exécution de l’obligation de valoriser le phosphore contenu dans les boues d’épuration est démontrée au sens de l’al. 5, les boues d’épuration peuvent être utilisées comme combustible de substitution sans qu’il soit nécessaire d’en récupérer le phosphore.
+
+<sup>7</sup> Le Conseil fédéral peut restreindre l’utilisation de matériaux et produits à certaines fins, si cela permet d’accroître les débouchés pour des produits d’un usage équivalent qui sont fabriqués à partir de déchets valorisés, sans pour autant entraîner des coûts supplémentaires et des pertes de qualité importants.
+
+[^30d-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 30e
 
@@ -786,16 +823,96 @@ Les cantons veillent à ce que les coûts de l’élimination des déchets urbai
 
 #### Art. 32a<sup>bis</sup>
 
-**Taxe d’élimination anticipée**[^32abis-1]
+**Financement par une organisation mandatée par la Confédération[^32abis-2]**[^32abis-1]
 
-<sup>1</sup> Le Conseil fédéral peut imposer le paiement d’une taxe d’élimination anticipée auprès d’une organisation privée mandatée et surveillée par la Confédération aux producteurs et aux importateurs qui mettent dans le commerce des produits qui, après usage, deviennent des déchets qui se répartissent sur un grand nombre de détenteurs et qui doivent être traités séparément ou dont la valorisation est jugée appropriée. Cette taxe est utilisée pour financer l’élimination des déchets, qu’elle soit assumée par des particuliers ou par des corporations de droit public.
+<sup>1</sup> Le Conseil fédéral peut imposer le paiement d’une taxe d’élimination anticipée auprès d’une organisation privée mandatée et surveillée par la Confédération aux producteurs, aux importateurs et aux entreprises étrangères de vente en ligne qui mettent dans le commerce en Suisse des produits qui, après usage, deviennent des déchets qui se répartissent sur un grand nombre de détenteurs et qui doivent être traités séparément ou dont la valorisation est jugée appropriée. Cette taxe est utilisée pour financer l’élimination des déchets, qu’elle soit assumée par des particuliers ou par des corporations de droit public.[^32abis-3]
 
-<sup>2</sup> Compte tenu du coût de l’élimination, le Conseil fédéral fixe un taux de taxation minimal et un taux de taxation maximal. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^32abis-2] fixe le taux de taxation, qui se situe dans cette fourchette.
+<sup>1bis</sup> Est considéré comme entreprise étrangère de vente en ligne quiconque, à titre professionnel ou commercial, propose à la vente en ligne des produits qu’il livre ou fait livrer aux consommateurs en Suisse et n’a ni siège social, ni domicile, ni établissement stable en Suisse.[^32abis-4]
+
+<sup>2</sup> Compte tenu du coût de l’élimination, le Conseil fédéral fixe un taux de taxation minimal et un taux de taxation maximal. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^32abis-5] fixe le taux de taxation, qui se situe dans cette fourchette.
 
 <sup>3</sup> Le Conseil fédéral définit les modalités de perception et d’affectation de la taxe. Il peut notamment prescrire que quiconque met dans le commerce des produits doit, par des moyens appropriés, informer le consommateur du montant de la taxe.
 
+<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) fournit à l’organisation privée les renseignements issus de la déclaration en douane qui sont requis pour la perception de la taxe d’élimination anticipée visée à l’al. 1.[^32abis-6]
+
+<sup>5</sup> L’importation des produits soumis à la taxe visée à l’al. 1 est exclue de la procédure de déclaration simplifiée des marchandises prévue par la législation douanière.[^32abis-7]
+
 [^32abis-1]: Anciennement art. 32*a*.
-[^32abis-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^32abis-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32abis-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32abis-4]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32abis-5]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^32abis-6]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32abis-7]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32a<sup>ter</sup>
+
+[^32ater-1]
+
+[^32ater-1]: Entre en vigueur ultérieurement ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648)).
+
+#### Art. 32a<sup>quater</sup>
+
+**Garantie du paiement des taxes prévues par la loi**[^32aquater-1]
+
+Le Conseil fédéral prend les mesures nécessaires pour garantir que les entreprises étrangères de vente en ligne se conforment à leur obligation de payer les taxes, en leur imposant notamment l’obligation de désigner un représentant en Suisse. Il tient compte des engagements internationaux pris par la Suisse.
+
+[^32aquater-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32a<sup>quinquies</sup>
+
+**Responsabilité solidaire du représentant**[^32aquinquies-1]
+
+Si l’obligation de désigner un représentant en Suisse est imposée au titre de mesure au sens de l’art. 32*a*<sup>quater</sup>, ce représentant répond solidairement de la taxe visée à l’art. 32*a*<sup>bis</sup> ou de la contribution visée à l’art. 32*a*<sup>ter</sup>.
+
+[^32aquinquies-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32a<sup>sexies</sup>
+
+**Exploitants de plateformes numériques**[^32asexies-1]
+
+<sup>1</sup> Si un exploitant de plateformes numériques rend possible la mise dans le commerce des produits visés aux art. 32*a*<sup>bis</sup> ou 32*a*<sup>ter</sup> en mettant en relation des entreprises étrangères de vente en ligne et des consommateurs au moyen d’une plateforme numérique de telle sorte qu’ils puissent y conclure entre eux des contrats, il est alors responsable de fournir à l’organisation privée ou à l’association de branche privée les renseignements et informations concernant l’assujettissement à la taxe ou à la contribution.
+
+<sup>2</sup> L’exploitant est tenu d’informer les utilisateurs de la plateforme numérique de leur assujettissement à la taxe visée à l’art. 32*a*<sup>bis</sup> ou à la contribution visée à l’art. 32*a*<sup>ter</sup>.
+
+<sup>3</sup> Est réputé exploitant d’une plateforme numérique quiconque exploite une plateforme au sens de l’art. 20*a* de la loi du 12 juin 2009 sur la TVA[^32asexies-2].
+
+[^32asexies-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32asexies-2]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+
+#### Art. 32a<sup>septies</sup>
+
+**Mesures administratives**[^32asepties-1]
+
+<sup>1</sup> L’Office peut ordonner des mesures à l’encontre d’un assujetti à la taxe ou à la contribution si cet assujetti ne s’acquitte pas de ses obligations en vertu des art. 32*a*<sup>bis</sup> à 32*a*<sup>quinquies</sup>.
+
+<sup>2</sup>
+
+Il peut ordonner les mesures administratives suivantes:
+
+- a. publication des noms ou des raisons sociales des assujettis;
+- b. interdiction d’importation frappant leurs produits;
+- c. mise en sûreté provisoire des produits à la frontière et vente aux enchères de ceux‑ci;
+- d. mise en sûreté provisoire des produits à la frontière et remise gratuite de ceux-ci à une organisation d’utilité publique;
+- e. mise en sûreté provisoire des produits à la frontière et destruction de ceux-ci s’ils sont endommagés, présentent des risques sécuritaires ou environnementaux ou ont été introduits illégalement.
+
+<sup>3</sup> Après déduction des charges de l’organisation privée visée à l’art. 32*a*<sup>bis</sup> ou de l’association de branche privée visée à l’art. 32*a*<sup>ter</sup>, le produit de la vente aux enchères visée à l’al. 2, let. c, est utilisé pour financer l’élimination des déchets.
+
+<sup>4</sup> L’Office peut publier les noms ou les raisons sociales des exploitants de plateformes numériques qui ne remplissent pas leurs obligations en vertu de l’art. 32*a*<sup>sexies</sup>.
+
+<sup>5</sup> Avant d’ordonner une mesure administrative, il entend les assujettis et les exploitants de plateformes numériques.
+
+<sup>6</sup> Les mesures prévues à l’al. 2, let. b et e, sont exécutées par l’OFDF; les mesures prévues à l’al. 2, let. a, c et d, sont exécutées par l’Office. Aux fins de l’exécution des mesures prévues à l’al. 2, let. c et d, l’OFDF remet à l’Office les produits ayant été provisoirement mis en sûreté à la frontière.
+
+[^32asepties-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32a<sup>octies</sup>
+
+**Prise en compte des réglementations des principaux partenaires commerciaux**[^32aocties-1]
+
+Le Conseil fédéral tient compte des réglementations des principaux partenaires commerciaux de la Suisse dans la mise en oeuvre des art. 32*a*<sup>bis</sup> à 32*a*<sup>septies</sup>.
+
+[^32aocties-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 32b
 
@@ -1133,42 +1250,45 @@ Sont soumis à la taxe:
 [^35c-5]: Nouvelle teneur selon l’annexe 2 ch. 6 de la LF du 21 juin 1996 sur l’imposition des huiles minérales, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 133](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-6]: Introduit par l’annexe 2 ch. 6 de la LF du 21 juin 1996 sur l’imposition des huiles minérales ([RO 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [FF 1995 III 133](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 6004](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 
-### Chapitre 7 Mise sur le marché de matières premières et de produits
+### Chapitre 7 Réduction des nuisances à l’environnement générées par les matières premières et les produits
 
 [^tit2-chap7-1][^tit2-chap7-2]
 
 [^tit2-chap7-1]: Introduit par l’annexe de la LF du 21 mars 2014, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
-[^tit2-chap7-2]: Nouvelle teneur selon ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1229](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^tit2-chap7-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 ### Section 1 Biocarburants et biocombustibles
 
-[^tit2-chap7-sec1-1]
+[^tit2-chap7-sec1-1][^tit2-chap7-sec1-2]
 
-[^tit2-chap7-sec1-1]: Introduit par le ch. II de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^tit2-chap7-sec1-1]: Introduite par les ch. I 3 et II de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub> ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^tit2-chap7-sec1-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 35d
 
-[^35d-1]
+<sup>1</sup> Les combustibles et carburants renouvelables ne peuvent être mis sur le marché que s’ils répondent à certains critères écologiques.
 
-<sup>1</sup> Si des biocarburants, des biocombustibles ou des mélanges contenant de tels carburants ou combustibles ne remplissent pas les conditions fixées à l’art. 12*b*, al. 1 et 3, de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^35d-2] et sont mis sur le marché en grandes quantités, le Conseil fédéral peut prévoir que les biocarburants et les biocombustibles qu’il définit ne peuvent être mis sur le marché que s’ils respectent des critères écologiques ou sociaux.
+<sup>2</sup> Les combustibles et carburants renouvelables obtenus à partir de denrées alimentaires ou de fourrages, ou qui sont en concurrence directe avec la production de denrées alimentaires, ne peuvent pas être mis sur le marché. Font exception les combustibles et carburants renouvelables faisant l’objet d’un bilan massique qui respectent les critères écologiques.
 
-<sup>2</sup> L’éthanol destiné à la combustion n’est pas soumis à homologation.
+<sup>3</sup> Le Conseil fédéral détermine ces critères. Il tient compte des réglementations et normes internationales comparables.
 
-<sup>3</sup>
+<sup>4</sup> Il peut prévoir des critères écologiques pour la mise sur le marché d’autres combustibles et carburants qui émettent nettement moins de gaz à effet de serre que les combustibles et carburants fossiles conventionnels.
 
-Compte tenu des dispositions de la législation sur l’imposition des huiles minérales, le Conseil fédéral fixe:
+<sup>5</sup>
 
-- a. les critères écologiques ou sociaux que les biocarburants et les biocombustibles soumis à homologation doivent remplir;
-- b. la procédure d’homologation.
+Il peut prévoir que les critères prévus par le présent article ne s’appliquent pas:
 
-[^35d-1]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^35d-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+- a. à l’éthanol destiné à la combustion;
+- b. aux combustibles et carburants renouvelables qui sont mis sur le marché en faibles quantités.
 
-### Section 2 Bois et produits dérivés du bois et autres matières premières ou produits
+<sup>6</sup> Il peut prévoir des dérogations supplémentaires si les conditions du marché le requièrent.
 
-[^tit2-chap7-sec2-1]
+### Section 2 Culture, extraction et production de bois et de produits dérivés du bois ainsi que d’autres matières premières ou produits
+
+[^tit2-chap7-sec2-1][^tit2-chap7-sec2-2]
 
 [^tit2-chap7-sec2-1]: Introduite par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1229](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^tit2-chap7-sec2-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 35e
 
@@ -1213,6 +1333,44 @@ Le Conseil fédéral règle:
 <sup>1</sup> Les autorités ou les tiers auxquels est déléguée la mise en œuvre de la présente loi ou auxquels sont délégués le contrôle ou la surveillance de la mise en œuvre de la présente loi peuvent, si l’exécution de la présente section l’exige, traiter des données personnelles, y compris des données sensibles relatives aux sanctions administratives et pénales.
 
 <sup>2</sup> Les autorités nationales compétentes peuvent communiquer des données personnelles à des autorités étrangères ainsi qu’à des institutions internationales, y compris des données sensibles relatives aux sanctions administratives et pénales, si l’exécution des prescriptions de l’Union européenne concernant la mise sur le marché de bois ou de produits dérivés du bois l’exige.
+
+### Section 3 Conception de produits et d’emballages respectueuse des ressources
+
+[^tit2-chap7-sec3-1]
+
+[^tit2-chap7-sec3-1]: Introduite par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 35i
+
+<sup>1</sup>
+
+Selon les nuisances à l’environnement générées par les produits et les emballages, le Conseil fédéral peut définir des exigences applicables à la mise sur le marché de ces derniers, concernant notamment:
+
+- a. la valorisation ainsi que la durée de vie, la disponibilité des pièces détachées et la réparabilité des produits;
+- b. la limitation des atteintes nuisibles et l’amélioration de l’efficacité dans l’utilisation des ressources tout au long du cycle de vie;
+- c. l’uniformité, la comparabilité, la visibilité et la compréhensibilité de l’étiquetage et de l’information;
+- d. l’introduction d’un indice de réparabilité.
+
+<sup>2</sup> Il tient compte des dispositions des principaux partenaires commerciaux de la Suisse dans la mise en œuvre de l’al. 1.
+
+### Section 4 Construction respectueuse des ressources
+
+[^tit2-chap7-sec4-1]
+
+[^tit2-chap7-sec4-1]: Introduite par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 35j
+
+<sup>1</sup>
+
+Selon les nuisances à l’environnement générées par des ouvrages et en tenant compte des engagements internationaux pris par la Suisse, le Conseil fédéral peut, dans le cadre d’une approche globale de la durabilité fondée sur les ouvrages et leur cycle de vie, fixer des exigences concernant:
+
+- a. l’utilisation de matériaux et d’éléments de construction préservant l’environnement;
+- b. l’utilisation de matériaux de construction issus de la valorisation matière des déchets de chantier;
+- c. la réversibilité des ouvrages, et
+- d. la réutilisation d’éléments de construction dans les ouvrages.
+
+<sup>2</sup> La Confédération assume son rôle de modèle dans la planification, la construction, l’exploitation, la rénovation et la déconstruction de ses propres ouvrages. Elle tient compte d’exigences accrues en matière de construction respectueuse des ressources ainsi que de solutions novatrices.
 
 ## Titre 3 Exécution, mesures d’encouragement et procédure
 
@@ -1264,7 +1422,7 @@ Ce faisant, il peut déclarer applicables des prescriptions et normes techniques
 Il peut conclure des accords internationaux relatifs à:
 
 - a. des prescriptions techniques;
-- [tab] a<sup>bis</sup>.[^39-2] des substances dangereuses pour l’environnement (art. 26 à 29);
+- a<sup>bis</sup>.[^39-2] des substances dangereuses pour l’environnement (art. 26 à 29);
 - b.[^39-3] la limitation et l’élimination des déchets;
 - c. la collaboration dans les régions frontalières par l’entremise de commissions internationales à caractère consultatif;
 - d. des banques de données et des enquêtes;
@@ -1291,7 +1449,7 @@ Il peut conclure des accords internationaux relatifs à:
 
 **Compétence exécutive de la Confédération**
 
-<sup>1</sup> La Confédération exécute les art. 12, al. 1, let. e (prescriptions sur les combustibles et carburants), 26 (contrôle autonome), 27 (information du preneur), 29 (prescriptions sur les substances), 29*a* à 29*h* (utilisation d’organismes), 30*b*, al. 3 (caisse de compensation relative à la consigne), 30*f* et 30*g* (importation et exportation de déchets), 31*a*, al. 2, et 31*c*, al. 3 (mesures de la Confédération relatives à l’élimination des déchets), 32*a*<sup>bis</sup> (taxe d’élimination anticipée), 32*e*, al. 1 à 4 (taxe destinée au financement des mesures), 35*a* à 35*c* (taxes d’incitation), 35*d* (biocarburants et biocombustibles), 35*e* à 35*h* (bois et produits dérivés du bois et autres matières premières ou produits), 39 (prescriptions d’exécution et accords internationaux), 40 (mise sur le marché d’installations fabriquées en série) et 46, al. 3 (renseignements sur les substances et les organismes); les cantons peuvent être appelés à coopérer à l’exécution de certaines tâches.[^41-1]
+<sup>1</sup> La Confédération exécute les art. 12, al. 1, let. e (prescriptions sur les combustibles et carburants), 26 (contrôle autonome), 27 (information du preneur), 29 (prescriptions sur les substances), 29*a* à 29*h* (utilisation d’organismes), 30*b*, al. 3 (caisse de compensation relative à la consigne), 30*f* et 30*g* (importation et exportation de déchets), 31*a*, al. 2, et 31*c*, al. 3 (mesures de la Confédération relatives à l’élimination des déchets), 32*a*<sup>bis</sup> à 32*a*<sup>septies</sup> (taxe d’élimination anticipée et contribution anticipée de recyclage), 32*e*, al. 1 à 4 (taxe pour le financement des mesures), 35*a* à 35*c* (taxes d’incitation), 35*d* (critères relatifs aux combustibles et aux carburants), 35*e* à 35*h* (bois et produits dérivés du bois et autres matières premières ou produits), 35*i* (conception de produits et d’emballages respectueuse des ressources), 39 (prescriptions d’exécution et accords internationaux), 40 (mise sur le marché d’installations fabriquées en série) et 46, al. 3 (renseignements sur les substances et les organismes); les cantons peuvent être appelés à coopérer à l’exécution de certaines tâches.[^41-1]
 
 <sup>2</sup> L’autorité fédérale qui exécute une autre loi fédérale ou un traité international est, dans l’accomplissement de cette tâche, responsable également de l’application de la loi sur la protection de l’environnement. Avant de prendre sa décision, elle consulte les cantons concernés. L’Office et les autres services fédéraux concernés collaborent à l’exécution conformément aux art. 62*a* et 62*b* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^41-2].[^41-3]
 
@@ -1299,7 +1457,7 @@ Il peut conclure des accords internationaux relatifs à:
 
 <sup>4</sup> Les autorités fédérales chargées de l’exécution tiennent compte des mesures prises par les cantons aux fins de protéger l’environnement.[^41-5]
 
-[^41-1]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1229](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^41-1]: Nouvelle teneur selon le ch. III de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^41-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^41-3]: Nouvelle teneur selon le ch. I 14 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^41-4]: Nouvelle teneur selon le ch. I 14 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
@@ -1318,6 +1476,10 @@ Il peut conclure des accords internationaux relatifs à:
 <sup>2</sup> Ils peuvent favoriser la conclusion d’accords sectoriels en indiquant des objectifs et des délais.
 
 <sup>3</sup> Avant d’édicter des prescriptions d’exécution, ils examinent les mesures que l’économie a prises de son plein gré. Si possible et si nécessaire, ils reprennent, partiellement ou totalement, des accords sectoriels dans le droit d’exécution.
+
+<sup>4</sup> Lorsqu’ils édictent les prescriptions d’exécution, ils tiennent compte des mesures que les entreprises ont déjà prises de leur plein gré, pour autant qu’elles produisent au moins le même effet en matière de protection de l’environnement que le droit d’exécution.[^41a-1]
+
+[^41a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 ### Section 3 Dispositions particulières d’exécution
 
@@ -1403,7 +1565,7 @@ Le Conseil fédéral peut prescrire des contrôles réguliers d’installations 
 
 **Secret de fonction[^47-1]**
 
-<sup>1</sup> et <sup>2</sup> …[^47-2]
+<sup>1 et <sup>2</sup></sup> …[^47-2]
 
 <sup>3</sup> Toutes les personnes chargées de l’application de la présente loi, de même que les experts ou les membres de commissions et groupes de travail, sont tenus de respecter le secret de fonction.
 
@@ -1422,21 +1584,44 @@ Le Conseil fédéral peut prescrire des contrôles réguliers d’installations 
 
 <sup>2</sup> Sur le plan fédéral, le montant des émoluments est fixé par le Conseil fédéral et, sur le plan cantonal, par l’autorité compétente selon le droit cantonal.
 
+#### Art. 48a
+
+**Projets pilotes**[^48a-1]
+
+Pour permettre la réalisation de projets pilotes innovants, le Conseil fédéral peut édicter des dispositions dérogatoires à la présente loi pour autant qu’elles soient limitées dans leur portée temporelle, géographique et matérielle et qu’elles soient destinées à acquérir de l’expérience en vue du développement ultérieur de la présente loi et de son exécution.
+
+[^48a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
 ### Chapitre 2 Mesures d’encouragement
 
 #### Art. 49
 
 **Formation et recherche**
 
-<sup>1</sup> La Confédération peut encourager la formation et la formation continue des personnes chargées d’assumer des tâches relevant de la présente loi.[^49-1]
+<sup>1</sup> La Confédération peut encourager la formation et la formation continue des spécialistes qui exercent des activités en lien avec la protection de l’environnement.[^49-1]
 
 <sup>2</sup> Elle peut commander et soutenir des travaux de recherche et des évaluations des choix technologiques.[^49-2]
 
-<sup>3</sup> Elle peut promouvoir le développement d’installations et de procédés qui permettent dans l’intérêt public de réduire les atteintes à l’environnement. En règle générale, les aides financières ne peuvent excéder 50 pour cent des coûts. Si les résultats des travaux de développement sont utilisés à des fins commerciales, ces aides doivent être remboursées à concurrence des bénéfices réalisés. Le Conseil fédéral évalue tous les cinq ans l’effet de ces mesures d’encouragement et présente un rapport aux Chambres fédérales.[^49-3]
+<sup>3</sup> Elle peut promouvoir le développement, la certification, la vérification ainsi que l’introduction sur le marché d’installations et de procédés qui permettent de réduire les nuisances à l’environnement dans l’intérêt public. En règle générale, les aides financières ne peuvent excéder 50 % des coûts. Si les résultats des travaux de développement sont utilisés à des fins commerciales, ces aides doivent être remboursées en fonction des bénéfices réalisés. Le Conseil fédéral évalue tous les cinq ans l’effet de ces mesures d’encouragement et présente un rapport aux Chambres fédérales.[^49-3]
 
-[^49-1]: Nouvelle teneur selon l’annexe ch. 31 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^49-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^49-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^49-3]: Introduit par le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^49-3]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 49a
+
+**Information, conseil et plateformes**[^49a-1]
+
+<sup>1</sup>
+
+La Confédération peut allouer des aides financières:
+
+- a. pour des projets d’information ou de conseil en lien avec la protection de l’environnement;
+- b. pour des plateformes destinées à préserver les ressources et à renforcer l’économie circulaire.
+
+<sup>2</sup> Les aides financières ne peuvent excéder 50 % des coûts.
+
+[^49a-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 50
 
@@ -1483,7 +1668,7 @@ La Confédération peut accorder des contributions:
 
 <sup>3</sup> Le Conseil fédéral veille à l’emploi efficace des ressources allouées en vertu de la présente loi et en rend compte à l’Assemblée fédérale.
 
-[^53-1]: Abrogé par l’annexe ch. 18 de la LF du 5 oct. 1990 sur les subventions ([RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [FF 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297_1)). Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4061](https://fedlex.data.admin.ch/eli/oc/2003/597); [FF 2002 7337](https://fedlex.data.admin.ch/eli/fga/2002/1272)).
+[^53-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4061](https://fedlex.data.admin.ch/eli/oc/2003/597); [FF 2002 7337](https://fedlex.data.admin.ch/eli/fga/2002/1272)).
 
 ### Chapitre 3 Procédure
 
@@ -1786,7 +1971,7 @@ L’action récursoire se prescrit selon l’art. 59*c*. Le délai de trois ans 
 
 <sup>1</sup>
 
-Sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire celui qui, intentionnellement:[^60-1]
+Sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:[^60-1]
 
 - a. aura omis de prendre les mesures de sécurité arrêtées en vue de la protection contre les catastrophes ou aura recouru à des entreposages ou à des procédés de fabrication interdits (art. 10);
 - b. aura mis dans le commerce des substances pour des utilisations dont il savait ou devait savoir qu’elles pouvaient constituer une menace pour l’environnement ou, indirectement, pour l’homme (art. 26);
@@ -1805,11 +1990,16 @@ Sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 - o. aura, sans autorisation, pris en charge, importé ou exporté des déchets spéciaux (art. 30*f*, al. 2, let. c et d);
 - p. aura enfreint les prescriptions sur les mouvements de déchets spéciaux (art. 30*f*, al. 1);
 - q.[^60-10] aura enfreint les prescriptions sur les déchets (art. 30*a*, let. b);
-- r.[^60-11] aura enfreint les prescriptions sur la première mise sur le marché de bois ou de produits dérivés du bois ou d’autres matières premières ou produits définis par le Conseil fédéral en vertu de l’art. 35*e*, al. 3 (art. 35*e* et 35*f*, al. 1 et 2, let. a).
+- r.[^60-11] aura enfreint les prescriptions sur la première mise sur le marché de bois ou de produits dérivés du bois ou d’autres matières premières ou produits définis par le Conseil fédéral en vertu de l’art. 35*e*, al. 3 (art. 35*e* et 35*f*, al. 1 et 2, let. a);
+- s.[^60-12] aura enfreint les prescriptions sur la conception de produits et d’emballages respectueuse des ressources (art. 35*i*, al. 1);
+- t.[^60-13] aura mis sur le marché des combustibles ou carburants renouvelables qui ne répondent pas aux critères écologiques de l’art. 35*d*, al. 1 ou 4, ou qui aura fourni à ce propos des indications fausses ou incomplètes;
+- u.[^60-14] aura contrevenu à l’interdiction prévue à l’art. 35*d*, al. 2.
 
-<sup>2</sup> Si l’auteur a agi par négligence, la peine sera une peine pécuniaire de 180 jours-amende au plus.[^60-12]
+<sup>2</sup> Si l’auteur a agi par négligence, la peine sera une peine pécuniaire de 180 jours-amende au plus.[^60-15]
 
-[^60-1]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+<sup>3</sup> L’OFDF poursuit et juge les délits visés à l’al. 1, let. t et u.[^60-16]
+
+[^60-1]: Nouvelle teneur selon le ch. III de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^60-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
@@ -1820,7 +2010,11 @@ Sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 [^60-9]: Abrogée par l’annexe ch. 4 de la LF du 21 mars 2003 sur le génie génétique, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [FF 2000 2283](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-10]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^60-11]: Introduite par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1229](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^60-12]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-12]: Introduite par l’annexe ch. 4 de la LF du 15 mars 2024 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nouvelle teneur selon le ch. III de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-13]: Introduite par l’annexe ch. 4 de la LF du 15 mars 2024 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nouvelle teneur selon le ch. III de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-14]: Introduite par le ch. III de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-15]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-16]: Introduit par l’annexe ch. 4 de la LF du 15 mars 2024 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Nouvelle teneur selon le ch. III de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61
 
@@ -1828,7 +2022,7 @@ Sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 <sup>1</sup>
 
-Sera puni d’une amende de 20 000 francs au plus celui qui, intentionnellement:[^61-1]
+Sera puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:[^61-1]
 
 - a. aura enfreint des limitations d’émissions édictées en vertu de la présente loi (art. 12 et 34, al. 1);
 - b. ne se sera pas conformé aux décisions relatives aux assainissements (art. 16 et 32*c*, al. 1);
@@ -1838,47 +2032,65 @@ Sera puni d’une amende de 20 000 francs au plus celui qui, intentionnellement:
 - f. aura incinéré des déchets ailleurs que dans des installations d’élimination (art. 30*c*, al. 2);
 - g. aura stocké définitivement des déchets ailleurs qu’en décharge contrôlée autorisée (art. 30*e*, al. 1);
 - h. aura contrevenu à l’obligation de communiquer à l’autorité les activités liées aux déchets (art. 30*f*, al. 4, 30*g*, al. 2, et 32*b*, al. 2 et 3);
-- i. aura enfreint les prescriptions sur les déchets (art. 30*a*, let. a et c, 30*b*, 30*c*, al. 3, 30*d*, 30*h*, al. 1, 32*a*<sup>bis</sup>, 32*b*, al. 4, et 32*e*, al. 1 à 4);
+- i.[^61-2] aura enfreint les prescriptions sur les déchets (art. 30*a*, let. a et c, 30*b*, 30*c*, al. 3, 30*d*, 30*h*, al. 1, 31*b*, al. 3, 32*a*<sup>bis</sup>, 32*b*, al. 4, et 32*e*, al. 1 à 4);
+- j.[^61-3] aura enfreint les prescriptions sur la construction respectueuse des ressources (art. 35*j*, al. 1);
 - k. aura enfreint les prescriptions sur les mouvements d’autres déchets (art. 30*g*, al. 1);
 - l. n’aura pas garanti la couverture des frais résultant de la fermeture et de l’assainissement d’une décharge contrôlée ainsi que des travaux ultérieurs (art. 32*b*, al. 1);
 - m. aura enfreint les prescriptions sur les atteintes physiques et l’utilisation des sols (art. 33, al. 2, et 34, al. 1 et 2) ainsi que sur les mesures visant à réduire les atteintes aux sols (art. 34, al. 3);
-- m<sup>bis</sup>.[^61-2] aura enfreint les prescriptions sur la traçabilité du bois ou des produits dérivés du bois ou d’autres matières premières ou produits définis par le Conseil fédéral en vertu de l’art. 35*e*, al. 3, pour lesquels une obligation de documenter a été introduite (art. 35*g*, al. 1);
-- n. aura enfreint les prescriptions sur la mise sur le marché d’installations fabriquées en série[^61-3] (art. 40);
+- m<sup>bis</sup>.[^61-4] aura enfreint les prescriptions sur la traçabilité du bois ou des produits dérivés du bois ou d’autres matières premières ou produits définis par le Conseil fédéral en vertu de l’art. 35*e*, al. 3, pour lesquels une obligation de documenter a été introduite (art. 35*g*, al. 1);
+- n. aura enfreint les prescriptions sur la mise sur le marché d’installations fabriquées en série[^61-5] (art. 40);
 - o. aura refusé de donner des renseignements ou fait de fausses déclarations à l’autorité compétente (art. 46);
-- p.[^61-4] aura enfreint les prescriptions sur la couverture de la responsabilité civile (art. 59*b*).
+- p.[^61-6] aura enfreint les prescriptions sur la couverture de la responsabilité civile (art. 59*b*).
 
 <sup>2</sup> Si l’auteur a agi par négligence, la peine sera l’amende.
 
 <sup>3</sup> La tentative et la complicité sont punissables.
 
-[^61-1]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^61-2]: Introduite par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1229](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^61-3]: Anciennement: expertises des types et marques d’épreuve.
-[^61-4]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^61-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^61-3]: Introduite par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [FF 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^61-4]: Introduite par le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [FF 2019 1229](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^61-5]: Anciennement: expertises des types et marques d’épreuve.
+[^61-6]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [FF 2009 4887](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 61a
 
-**Infractions aux prescriptions sur les taxes d’incitation et sur les biocarburants et biocombustibles[^61a-2]**[^61a-1]
+**Soustraction à une taxe d’incitation**[^61a-1]
 
-<sup>1</sup> Quiconque, intentionnellement ou par négligence, aura éludé une taxe au sens des art. 35*a*, 35*b* ou 35*b*<sup>bis</sup>, en aura mis en péril la perception ou aura procuré à lui-même ou à un tiers un avantage fiscal illicite relatif à l’acquittement de cette taxe (exonération ou remboursement) sera puni d’une amende pouvant atteindre le quintuple du montant concerné. S’il n’est pas possible de chiffrer précisément le montant à acquitter au titre de la taxe, il est estimé.[^61a-3]
+<sup>1</sup> Est puni d’une amende pouvant atteindre le quintuple de la valeur de l’avantage illicite quiconque, intentionnellement, se procure ou procure à un tiers un avantage fiscal illicite relatif à l’acquittement d’une taxe visée à l’art. 35*a*, notamment en se soustrayant à la taxe ou en obtenant, de manière illicite, une exemption, une bonification ou un remboursement de la taxe.
 
-<sup>2</sup> Quiconque, intentionnellement ou par négligence, met sur le marché des biocarburants ou des biocombustibles sans homologation au sens de l’art. 35*d* ou obtient de manière frauduleuse une autorisation en donnant des indications fausses, inexactes ou incomplètes, est puni d’une amende de 500 000 francs au plus.[^61a-4]
+<sup>2</sup> La tentative est punissable.
 
-<sup>3</sup> La tentative d’infraction au sens des al. 1 et 2 est punissable.[^61a-5]
+<sup>3</sup> Si l’auteur a agi par négligence, la peine est une amende pouvant atteindre le triple de l’avantage fiscal illicite.
 
-<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^61a-6] est l’autorité de poursuite et de jugement.[^61a-7]
+<sup>4</sup> Si l’avantage fiscal illicite ne peut être chiffré précisément, il est estimé dans le cadre de la procédure administrative.
 
-<sup>5</sup> Si l’acte constitue simultanément une infraction au sens des al. 1 à 3 et une infraction à un autre acte législatif fédéral que l’OFDF[^61a-8] est chargé de poursuivre, la peine applicable est celle prévue pour l’infraction la plus grave; cette peine peut être aggravée de manière appropriée.[^61a-9]
+<sup>5</sup> L’autorité de poursuite et de jugement est l’OFDF.
 
-[^61a-1]: Introduit par le ch. I de la LF du 21 déc. 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^61a-2]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^61a-3]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [FF 2002 6004](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^61a-4]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^61a-5]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^61a-6]: Nouvelle expression selon le ch. I 31 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-7]: Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^61a-8]: Nouvelle expression selon le ch. I 31 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-9]: Introduit par l’annexe de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [FF 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^61a-1]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 61b
+
+**Mise en péril d’une taxe d’incitation**[^61b-1]
+
+<sup>1</sup>
+
+Est puni d’une amende de 30 000 francs au plus quiconque, intentionnellement:
+
+- a. omet de déclarer ou déclare de façon inexacte des données et des biens déterminants pour la perception d’une taxe au sens de l’art. 35*a*, al. 1;
+- b. en déposant une demande de remboursement de la taxe au sens de l’art. 35*c*, al. 3, dissimule des faits importants ou présente des pièces justificatives fausses à l’appui de tels faits;
+- c. en tant que personne astreinte à fournir des renseignements, fait de fausses déclarations (art. 46);
+- d. ne tient, n’établit, ne conserve ou ne produit pas dûment les livres de comptes, pièces justificatives, papiers d’affaires et autres documents requis, ou ne remplit pas son obligation de renseigner (art. 46);
+- e. complique, entrave ou empêche l’exécution réglementaire d’un contrôle (art. 46, al. 1), ou
+- f. contrevient à une prescription d’exécution dont la violation est déclarée punissable par le Conseil fédéral.
+
+<sup>2</sup> La tentative est punissable.
+
+<sup>3</sup> Si l’auteur a agi par négligence, la peine est l’amende.
+
+<sup>4</sup> L’autorité de poursuite et de jugement est l’OFDF.
+
+[^61b-1]: Introduit par l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 62
 
@@ -1886,10 +2098,10 @@ Sera puni d’une amende de 20 000 francs au plus celui qui, intentionnellement:
 
 <sup>1</sup> Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^62-1] s’appliquent aux infractions à la présente loi.
 
-<sup>2</sup> Les infractions au sens de l’art. 61*a* sont également régies par les autres dispositions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif.[^62-2]
+<sup>2</sup> Les autres dispositions de la loi sur le droit pénal administratif s’appliquent en outre aux infractions visées aux art. 61*a* et 61*b*.[^62-2]
 
 [^62-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-2]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon le ch. I 3 de la LF du 20 déc. 2019 sur la reconduction des allégements fiscaux accordés pour le gaz naturel, le gaz liquide et les biocarburants et sur la modification de la loi sur le CO<sub>2</sub>, en vigueur du 1<sup>er</sup> juil. 2020 au 31 déc. 2023, prolongé jusqu’au 31 déc. 2024 ([RO 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); FF **2019** 545,[1](https://fedlex.data.admin.ch/eli/fga/2019/1)[5575](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^62-2]: Introduit par le ch. I de la LF du 21 déc. 1995 ([RO 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [FF 1993 II 1337](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## Titre 6 Dispositions finales
 

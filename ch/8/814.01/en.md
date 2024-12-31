@@ -4,11 +4,11 @@ title: "Federal Act of 7 October 1983 on the Protection of the Environment (Envi
 short: EPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122"
 language: en
-version: 2024-01-01
+version: 2025-01-01
 adopted: 1983-10-07
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20240101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1984-1122_1122_1122-20250101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/20250101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,15 +19,15 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Environmental Protection Act, EPA)
 
-of 7 October 1983 (Status as of 1 January 2024)
+of 7 October 1983 (Status as of 1 January 2025)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on the Article 74 paragraphs 1 of the Federal Constitution[^ingress-1],[^ingress-2] and having considered a Federal Council Dispatch dated 31 October 1979[^ingress-3],
+based on Article 74 paragraph 1 of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Federal Council Dispatch dated 31 October 1979[^ingress-3],
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^ingress-3]: [BBl 1979 III 749](https://fedlex.data.admin.ch/eli/fga/1979/3_749_741_713)
 
@@ -96,7 +96,7 @@ If the interests of national defence so require, the Federal Council regulates e
 
 <sup>3</sup> Air pollution means modification of the natural condition of the air, in particular, through smoke, soot, dust, gases, aerosols, steams, odours or waste heat.[^7-2]
 
-<sup>4</sup> Infrasound and ultra sound are regarded as noise.
+<sup>4</sup> Infrasound and ultrasound are regarded as noise.
 
 <sup>4bis</sup> Soil pollution is the physical, chemical and biological modification of the natural condition of the soil. Soil means the unsealed top layer of land where plants may grow.[^7-3]
 
@@ -110,15 +110,17 @@ If the interests of national defence so require, the Federal Council regulates e
 
 <sup>6</sup> Waste is any moveable material disposed of by its holder or the disposal of which is required in the public interest.[^7-8]
 
-<sup>6bis</sup> Disposal of waste includes its recovery or deposit in a landfill as well as the preliminary stages of collection, transport, storage and treatment. «Treatment» is any physical, chemical or biological modification of the waste.[^7-9]
+<sup>6bis</sup> Disposal of waste includes its recovery or deposit in a landfill as well as the preliminary stages of collection, transport, storage and treatment. Treatment is any physical, chemical or biological modification of the waste and preparation for its reuse.[^7-9],[^7-10]
 
-<sup>6ter</sup> Handling means any activity in connection with substances, organisms or waste, and in particular their manufacture, import, export, putting in circulation, use, storage, transport or disposal.[^7-10]
+<sup>6ter</sup> Handling means any activity in connection with substances, organisms or waste, and in particular their manufacture, import, export, putting in circulation, use, storage, transport or disposal.[^7-11]
 
 <sup>7</sup> Installations are buildings, traffic routes and other fixed facilities as well as modifications of the terrain. Appliances, machines, vehicles, ships and aircraft are also regarded as installations.
 
-<sup>8</sup> Environmental information is information in the fields addressed by this Act and in the fields addressed by legislation on the protection of nature and cultural heritage, landscape protection, waters protection, protection against natural hazards, forest conservation, hunting, fishing, gene technology and climate protection.[^7-11]
+<sup>8</sup> Environmental information is information in the fields addressed by this Act and in the fields addressed by legislation on the protection of nature and cultural heritage, landscape protection, waters protection, protection against natural hazards, forest conservation, hunting, fishing, gene technology and climate protection.[^7-12]
 
-<sup>9</sup> Biogenic motor and thermal fuels are liquid or gaseous motor and thermal fuels that are produced from biomass or other renewable energy sources.[^7-12]
+<sup>9</sup> Renewable motor fuels are liquid or gaseous motor fuels that are produced from biomass or by using other renewable energy sources.[^7-13]
+
+<sup>10</sup> Renewable thermal fuels are solid, liquid or gaseous thermal fuels that are produced from biomass or by using other renewable energy sources.[^7-14]
 
 [^7-1]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-2]: Amended by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
@@ -128,10 +130,12 @@ If the interests of national defence so require, the Federal Council regulates e
 [^7-6]: Inserted by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
 [^7-7]: Inserted by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^7-8]: Amended by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^7-9]: Inserted by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^7-10]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^7-11]: Inserted by Art. 2 No I of the FD of 27 Sept. 2013 (Aarhus Convention), in force since 1 June 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
-[^7-12]: Inserted by the Annex to the FA of 21 March 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^7-9]: Second sentence amended by No I of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^7-10]: Inserted by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^7-11]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
+[^7-12]: Inserted by Art. 2 No I of the FD of 27 Sept. 2013 (Aarhus Convention), in force since 1 June 2014 ([AS 2014 1021](https://fedlex.data.admin.ch/eli/oc/2014/234); [BBl 2012 4323](https://fedlex.data.admin.ch/eli/fga/2012/596)).
+[^7-13]: Inserted by the Annex to the FA of 21 March 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Amended by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^7-14]: Inserted by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 8
 
@@ -143,7 +147,7 @@ Effects are assessed individually, collectively and according to their actions i
 
 [^9-1]
 
-[^9-1]: Repealed by No I of the FA of 20 Dec. 2006, with effect from 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^9-1]: Repealed by No I of the FA of 20 Dec. 2006, with effect from 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 10
 
@@ -164,7 +168,7 @@ Effects are assessed individually, collectively and according to their actions i
 
 [^tit1-chap3-1]
 
-[^tit1-chap3-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit1-chap3-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 10a
 
@@ -210,7 +214,7 @@ The report contains all the information required to assess the project in accord
 
 <sup>1</sup> Any person may inspect the report and the results of the environmental impact assessment unless overriding public or private interests require secrecy.
 
-<sup>2</sup> Trade and business secrecy must be preserved in all cases.
+<sup>2</sup> Manufacturing and business secrecy shall be duly observed.
 
 ### Chapter 4 Environmental Information
 
@@ -245,7 +249,7 @@ The authorities shall inform the public adequately about environmental protectio
 
 **Environmental reports**
 
-The Federal Council shall assess the state of the environment in Switzerland at least every four years and shall submit a report on the results to the the Federal Assembly.
+The Federal Council shall assess the state of the environment in Switzerland at least every four years and shall submit a report on the results to the Federal Assembly.
 
 #### Art. 10g
 
@@ -261,6 +265,20 @@ The Federal Council shall assess the state of the environment in Switzerland at 
 
 [^10g-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
 [^10g-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+### Chapter 5 Conserving Natural Resources and Improving the Circular Economy
+
+[^tit1-chap5-1]
+
+[^tit1-chap5-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 10h
+
+<sup>1</sup> The Confederation and, within the scope of their responsibilities, the cantons shall ensure that natural resources are conserved. They shall in particular commit to reducing the environmental impact of products and buildings throughout their entire life cycle, closing any gaps in material cycles and improving resource efficiency. The environmental impact caused abroad shall be taken into account.
+
+<sup>2</sup> The Federal Council shall report regularly to the Federal Assembly on the consumption of natural resources and the development of resource efficiency. It shall identify any need for further action and submit proposals for qualitative and quantitative resource targets aimed at the product or building and its life cycle. As far as possible, it shall use internationally recognised standards to measure these targets.
+
+<sup>3</sup> The Confederation and the cantons shall regularly examine whether the legislation they have enacted is hindering industry initiatives to conserve resources and improve the circular economy.
 
 ## Title 2 Pollution Control
 
@@ -286,7 +304,7 @@ The Federal Council shall assess the state of the environment in Switzerland at 
 
 Emissions are limited by issuing:
 
-- a. maximum emission values;
+- a. emission limit values;
 - b. regulations on construction and equipment;
 - c. traffic or operating regulations;
 - d. regulations on the heat insulation of buildings;
@@ -317,7 +335,7 @@ The ambient limit values for air pollution must be set so that, in the light of 
 
 #### Art. 15
 
-**Ambient limit values<sup>25</sup> for noise and vibrations**
+**Ambient limit values for noise and vibrations**
 
 Ambient limit values for noise and vibrations must be set so that, in the light of current scientific knowledge and experience, ambient noise below these levels will not seriously disturb the well-being of the population.
 
@@ -650,12 +668,31 @@ It may arrange for the establishment of a deposit compensation fund and specific
 
 #### Art. 30d
 
-**Recovery**
+**Recovery**[^30d-1]
 
-The Federal Council may:
+<sup>1</sup> Waste must be reused or materially recovered if this is technically possible and economically viable and has less impact on the environment than an alternative form of disposal or the manufacture of new products.
 
-- a. require certain types of waste to be recovered if this is economically feasible and harms the environment less than other forms of disposal and the manufacture of new products;
-- b. restrict the use of substances and products for certain purposes if this will promote the sale of equivalent products made from recovered waste without significant loss of quality or additional cost.
+<sup>2</sup>
+
+In accordance with the principles set out in paragraph 1, the following in particular must be recovered:
+
+- a. recoverable metals from waste, wastewater and exhaust air treatment residues;
+- b. recoverable parts from uncontaminated excavated material destined for landfill;
+- c. phosphorus from sewage sludge and from animal and bone meal and food waste;
+- d. waste suitable for composting or fermentation;
+- e. nitrogen from wastewater treatment plants.
+
+<sup>3</sup> If material recovery is not possible in accordance with the conditions in paragraph 1, the waste must be prioritised first for material/energy recovery, and secondly for energy recovery only.
+
+<sup>4</sup> The Federal Council shall determine the quantity of phosphorus to be returned to the economic circuit from municipal wastewater or from sewage sludge produced by centralised wastewater treatment plants. It shall do so based on domestic requirements.
+
+<sup>5</sup> The obligation to materially recover phosphorus from sewage sludge shall be deemed fulfilled when the person delivering the sewage sludge proves to the enforcement authority that, for the delivered quantity of sewage sludge, the quantity of phosphorous stipulated by the Federal Council has been returned to the economic circuit. The operating and capital costs not covered by the proceeds from the products, such as phosphoric acid, shall be borne by the producers of sewage sludge.
+
+<sup>6</sup> If it is proved that the obligation to recover phosphorous from sewage sludge, as set out in paragraph 5, has been fulfilled, the sewage sludge may be used as a substitute fuel without the requirement to recover phosphorous from it.
+
+<sup>7</sup> The Federal Council may restrict the use of substances and products for certain purposes if this will promote the sale of equivalent products made from recovered waste without significant loss of quality or additional cost.
+
+[^30d-1]: Amended by No I of the FA of 15 June 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 30e
 
@@ -682,7 +719,7 @@ It requires, in particular, that special waste:
 
 <sup>3</sup> These authorisations are granted if environmentally compatible disposal is guaranteed.
 
-<sup>4</sup> ...[^30f-1]
+<sup>4</sup> …[^30f-1]
 
 [^30f-1]: Repealed by No I 2 of the FA of 21 Dec. 2007 on the Abolition and Simplification of Licensing Procedures, with effect from 1 June 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -692,7 +729,7 @@ It requires, in particular, that special waste:
 
 <sup>1</sup> The Federal Council may enact regulations in accordance with Article 30*f* paragraphs 1 and 2 on handling of other forms of waste, if environmentally compatible disposal is not guaranteed.
 
-<sup>2</sup> ...[^30g-1]
+<sup>2</sup> …[^30g-1]
 
 [^30g-1]: Repealed by No I 2 of the FA of 21 Dec. 2007 on the Abolition and Simplification of Licensing Procedures, with effect from 1 June 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
@@ -784,16 +821,96 @@ The cantons ensure that the cost of disposing of municipal waste, insofar as it 
 
 #### Art. 32a<sup>bis</sup>
 
-**Prepaid disposal fee**[^32abis-1]
+**Financing via organisations commissioned by the Confederation[^32abis-2]**[^32abis-1]
 
-<sup>1</sup> The Federal Council may require manufacturers and importers who put products into circulation which, after use by a large number of holders, become waste and have to be given special treatment or are suitable for recovery to pay a prepaid disposal fee to a private organisation appointed and supervised by the Confederation. This fee is used to finance the disposal of the waste by private individuals or public corporations.
+<sup>1</sup> The Federal Council may require manufacturers, importers and foreign online retail companies which put products into circulation in Switzerland which, after use by a large number of holders, become waste and have to be given special treatment or are suitable for recovery to pay a prepaid disposal fee to a private organisation appointed and supervised by the Confederation. This fee shall be used to finance the disposal of the waste by private individuals or public corporations.[^32abis-3]
 
-<sup>2</sup> The Federal Council sets the minimum and maximum amount of the fee on the basis of the cost of disposal. Within this framework, the Federal Department of the Environment, Transport, Energy and Communications[^32abis-2] determines the level of the fee.
+<sup>1bis</sup> A foreign online retail company is a company that offers products for sale online on a professional or commercial basis, delivers these products or has them delivered to consumers in Switzerland, and has neither a registered office, domicile nor a permanent establishment in Switzerland.[^32abis-4]
 
-<sup>3</sup> The Federal Council lays down the methods of collecting and using the fee. It may, in particular, require that persons putting products into circulation inform customers in an appropriate manner of the level of the fee.
+<sup>2</sup> The Federal Council shall set the minimum and maximum amount of the fee on the basis of the cost of disposal. Within this framework, the Federal Department of the Environment, Transport, Energy and Communications[^32abis-5] shall determine the level of the fee.
+
+<sup>3</sup> The Federal Council shall regulate the methods for collecting and using the fee. It may, in particular, require that persons putting products into circulation inform customers in an appropriate manner of the level of the fee.
+
+<sup>4</sup> The Federal Office for Customs and Border Security (FOCBS) shall provide the private organisation with the details from the customs declarations that are required for the collection of the prepaid disposal fee in accordance with paragraph 1.[^32abis-6]
+
+<sup>5</sup> The import of products subject to charges in accordance with paragraph 1 is excluded from the simplified goods declaration under customs legislation.[^32abis-7]
 
 [^32abis-1]: Originally Art. 32*a.*
-[^32abis-2]: The designation of the administrative entity was amended according to Art. 16 para. 3 of the Publication O of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This amendment has been made throughout the text.
+[^32abis-2]: Amended by No I of the FA of 15 June 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32abis-3]: Amended by No I of the FA of 15 June 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32abis-4]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32abis-5]: The designation of the administrative entity was amended according to Art. 16 para. 3 of the Publication O of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). This amendment has been made throughout the text.
+[^32abis-6]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32abis-7]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32a<sup>ter</sup>
+
+[^32ater-1]
+
+[^32ater-1]: Comes into force at a later date (([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32a<sup>quater</sup>
+
+**Ensuring payment of statutory charges**[^32aquater-1]
+
+The Federal Council shall take measures, in particular by imposing an obligation to designate a representative in Switzerland, to ensure that foreign online retail companies fulfil their obligations to pay charges. In doing so, it shall take Switzerland’s international obligations into account.
+
+[^32aquater-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32a<sup>quinquies</sup>
+
+**Joint and several liability of the representative**[^32aquinquies-1]
+
+If the obligation to designate a representative in Switzerland is determined as a measure under Article 32*a*<sup>quater</sup>, this representative shall be jointly and severally liable for the fee under Article 32*a*<sup>bis</sup> and for the contribution under Article 32*a*<sup>ter</sup>.
+
+[^32aquinquies-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32a<sup>sexies</sup>
+
+**Electronic platform operators**[^32asexies-1]
+
+<sup>1</sup> If an electronic platform operator enables products to be put into circulation in accordance with Article 32*a*<sup>bis</sup> or Article 32*a*<sup>ter</sup> by bringing foreign online retail companies into contact with consumers in order to conclude a contract on the platform, the operator shall be responsible for providing the private organisation or private sector organisation with information and details on the fee and contribution obligations.
+
+<sup>2</sup> The operator is obliged to inform users of its electronic platform of their fee and contribution obligations in accordance with Articles 32*a*<sup>bis</sup> and 32*a*<sup>ter</sup>.
+
+<sup>3</sup> An electronic platform operator is anyone who operates a platform in accordance with Article 20*a* of the Value Added Tax Act of 12 June 2009[^32asexies-2].
+
+[^32asexies-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^32asexies-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+
+#### Art. 32a<sup>septies</sup>
+
+**Administrative measures**[^32asepties-1]
+
+<sup>1</sup> The Federal Office may take administrative measures against persons liable to pay fees or contributions if they fail to fulfil their obligations under Articles 32*a*<sup>bis</sup>–32*a*<sup>quinquies</sup>.
+
+<sup>2</sup>
+
+It may impose the following administrative measures:
+
+- a. publication of the names of persons or entities liable to pay fees or contributions;
+- b. an import ban on their products;
+- c. temporary seizure of the products at the border and auctioning of these products;
+- d. temporary seizure of the products at the border and handover of these products free of charge to a charitable organisation;
+- e. temporary seizure of the products at the border and destruction of these products if they are damaged, pose a safety or environmental risk or have been imported illegally.
+
+<sup>3</sup> After expenses have been deducted, the proceeds from the auction in accordance with paragraph 2 letter c shall be allocated to the private organisation in accordance with Article 32*a*<sup>bis</sup> or the private sector organisation in accordance with Article 32*a*<sup>ter</sup> to finance the disposal of waste.
+
+<sup>4</sup> The Federal Office may publish the names of electronic platform operators that do not fulfil their obligations under Article 32*a*<sup>sexies</sup>.
+
+<sup>5</sup> It shall consult the persons or entities liable to pay fees and contributions and the electronic platform operators before deciding on the administrative measures.
+
+<sup>6</sup> The measures under paragraph 2 letters b and e shall be enforced by the FOCA, and those under paragraph 2 letters a, c and d shall be enforced by the Federal Office. For the purpose of enforcing the measures under paragraph 2 letters c and d, the FOCA shall hand over the products temporarily seized at the border to the Federal Office.
+
+[^32asepties-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 32a<sup>octies</sup>
+
+**Consideration of regulations of Switzerland’s main trading partners**[^32aocties-1]
+
+When implementing Articles 32*a*<sup>bis</sup>–32*a*<sup>septies</sup>, the Federal Council shall take into account the regulations of Switzerland’s main trading partners.
+
+[^32aocties-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 32b
 
@@ -828,13 +945,13 @@ If the proprietor of land removes material from a polluted site that does not re
 
 <sup>3</sup> Claims under paragraph 1 may be filed at the latest by 1 November 2021.
 
-[^32bbis-1]: Inserted by No I of the FA of 16 Dec. 2005, in force since 1 Nov. 2006 ([AS 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [BBl 2003 5008](https://fedlex.data.admin.ch/eli/fga/2003/773)[5043](https://fedlex.data.admin.ch/eli/fga/2003/775)).
+[^32bbis-1]: Inserted by No I of the FA of 16 Dec. 2005, in force since 1 Nov. 2006 ([AS 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [BBl 2003 5008](https://fedlex.data.admin.ch/eli/fga/2003/773), [5043](https://fedlex.data.admin.ch/eli/fga/2003/775)).
 
 ### Section 4 Remediation of Polluted Sites
 
 [^tit2-chap4-sec4-1]
 
-[^tit2-chap4-sec4-1]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Nov. 2006 ([AS 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [BBl 2003 5008](https://fedlex.data.admin.ch/eli/fga/2003/773)[5043](https://fedlex.data.admin.ch/eli/fga/2003/775)).
+[^tit2-chap4-sec4-1]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Nov. 2006 ([AS 2006 2677](https://fedlex.data.admin.ch/eli/oc/2006/410); [BBl 2003 5008](https://fedlex.data.admin.ch/eli/fga/2003/773), [5043](https://fedlex.data.admin.ch/eli/fga/2003/775)).
 
 #### Art. 32c
 
@@ -884,7 +1001,7 @@ The sale or division of immovable property on which a site is located that is en
 
 <sup>4</sup> The cantonal authority may have the entry in the register of polluted sites noted in the land register entry for the property in question.
 
-[^32dbis-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Nov. 2013, para. 3 and 4 in force since 1 July 2014 ([AS 2013 3241](https://fedlex.data.admin.ch/eli/oc/2013/618); [BBl 2012 9391](https://fedlex.data.admin.ch/eli/fga/2012/1726)[9403](https://fedlex.data.admin.ch/eli/fga/2012/1728)).
+[^32dbis-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 Nov. 2013, para. 3 and 4 in force since 1 July 2014 ([AS 2013 3241](https://fedlex.data.admin.ch/eli/oc/2013/618); [BBl 2012 9391](https://fedlex.data.admin.ch/eli/fga/2012/1726), [9403](https://fedlex.data.admin.ch/eli/fga/2012/1728)).
 
 #### Art. 32e
 
@@ -914,7 +1031,7 @@ The Federal Council determines the rates of the charge, taking special account o
 
   for waste deposited abroad:
 
-  - 1\. in the case of underground landfills; CHF 30/t,
+  - 1\. in the case of underground landfills: CHF 30/t,
   - 2\. in the case of other landfills: as much as it would cost to deposit the waste in a landfill in Switzerland.[^32e-2]
 
 <sup>2bis</sup> The Federal Council may adjust the rate of the charge under paragraph 2 in line with Swiss Consumer Price Index.[^32e-3]
@@ -945,7 +1062,7 @@ The Confederation uses the income from the charges exclusively to pay the costs 
 
 The payments are made only if the measures taken are environmentally compatible and cost-effective and correspond to the state of the art. They are paid to the cantons in accordance with the expenditure incurred and amount to:
 
-- a. for payments in accordance with paragraph 3 letter a, a flat-rate payment of 500 francs per site;
+- a. for payments in accordance with paragraph 3 letter a, a flat-rate payment of CHF 500 per site;
 - b.[^32e-8]
 
   for payments in accordance with paragraph 3 letter b:
@@ -957,7 +1074,7 @@ The payments are made only if the measures taken are environmentally compatible 
 
   for payments in accordance with paragraph 3 letter c:
 
-  - 1\. in the case of 300m shooting ranges, a flat-rate payment of 8000 francs per target,
+  - 1\. in the case of 300m shooting ranges, a flat-rate payment of CHF 8,000 per target,
   - 2\. in the case of other shooting ranges, 40 per cent of the chargeable costs;
 
 - d.[^32e-10] for payments in accordance with paragraph 3 letter d, 40 per cent of the chargeable costs.[^32e-11]
@@ -966,17 +1083,17 @@ The payments are made only if the measures taken are environmentally compatible 
 
 <sup>6</sup> Provision may be made under cantonal law for cantonal charges to finance the investigation, monitoring and remediation of polluted sites.
 
-[^32e-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-2]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-3]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-4]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-5]: Amended by No I of the FA of 20 March 2009 (Rights to Payment for the Remediation of Shooting Ranges), in force since 1 Oct. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719)[9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
-[^32e-6]: Amended by No I des BG of 27 Sept. 2019, in force since 1 March 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105)[3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-7]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 March 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105)[3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
-[^32e-8]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-9]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-10]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
-[^32e-11]: Amended by No I of the FA of 20 March 2009 (Rights to Payment for the Remediation of Shooting Ranges), in force since 1 Oct. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719)[9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
+[^32e-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-2]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-3]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-4]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-5]: Amended by No I of the FA of 20 March 2009 (Rights to Payment for the Remediation of Shooting Ranges), in force since 1 Oct. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719), [9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
+[^32e-6]: Amended by No I of the FA of 27 Sept. 2019, in force since 1 March 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105), [3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
+[^32e-7]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 March 2020 ([AS 2020 513](https://fedlex.data.admin.ch/eli/oc/2020/96); [BBl 2019 3257](https://fedlex.data.admin.ch/eli/fga/2019/1105), [3269](https://fedlex.data.admin.ch/eli/fga/2019/1107)).
+[^32e-8]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-9]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-10]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^32e-11]: Amended by No I of the FA of 20 March 2009 (Rights to Payment for the Remediation of Shooting Ranges), in force since 1 Oct. 2009 ([AS 2009 4739](https://fedlex.data.admin.ch/eli/oc/2009/556); [BBl 2008 9213](https://fedlex.data.admin.ch/eli/fga/2008/1719), [9223](https://fedlex.data.admin.ch/eli/fga/2008/1721)).
 
 ### Chapter 5 Soil Pollution
 
@@ -1043,11 +1160,11 @@ Volatile organic compounds are exempt from the tax if:
 
 <sup>5</sup> The Federal Council may exempt volatile organic compounds that are not environmentally hazardous from the tax.
 
-<sup>6</sup> The tax rate amounts to a maximum of five francs per kilogram of volatile organic compounds, plus a surcharge to take account of inflation from the date on which this provision comes into force.
+<sup>6</sup> The tax rate amounts to a maximum of CHF 5 per kilogram of volatile organic compounds, plus a surcharge to take account of inflation from the date on which this provision comes into force.
 
 <sup>7</sup>
 
-The Federal Council sets the rate of the tax with reference to air quality objectives, taking special account of:
+The Federal Council sets the rate of the tax with reference to the air quality objectives, taking special account of:
 
 - a. the pollution that volatile organic compounds cause to the environment;
 - b. the danger these compounds represent to the environment;
@@ -1066,7 +1183,7 @@ The Federal Council sets the rate of the tax with reference to air quality objec
 
 <sup>2</sup> Extra light heating oil with a sulphur content of more than 0.1 percent (% by mass) is exempted from the tax if it is in transit or being exported.
 
-<sup>3</sup> The tax rate amounts to a maximum of twenty francs per tonne of extra light heating oil with a sulphur content of more than 0.1 percent (% by mass), plus a surcharge to take account of inflation from the date on which this provision comes into force.
+<sup>3</sup> The tax rate amounts to a maximum of CHF 20 per tonne of extra light heating oil with a sulphur content of more than 0.1 percent (% by mass), plus a surcharge to take account of inflation from the date on which this provision comes into force.
 
 <sup>4</sup>
 
@@ -1124,49 +1241,52 @@ The following persons are liable:
 
 <sup>4</sup> Any person who in Switzerland produces substances or organisms that are subject to the tax must declare them.
 
-[^35c-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 No III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)No I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)No III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)No I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 para. 1]. See now: Customs Act 18 March 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
+[^35c-1]: [BS **6** 465; [AS 1956 587](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639), [1959 1343](https://fedlex.data.admin.ch/eli/oc/1959/1343_1397_1397)Art. 11 No III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644), [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)Annex No 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)No I 1, [1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)No III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)No I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)Annex 2 No 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)Art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)No I 1 Art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)Annex No II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 50. [AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)Art. 131 para. 1]. See now: Art. 70 of the Customs Act of 18 March 2005 ([SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)).
 [^35c-2]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 [^35c-3]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
 [^35c-4]: Amended by Annex 2 No 6 of the Mineral Oil Tax Act of 21 June 1996, in force since 1 Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-5]: Amended by Annex 2 No 6 of the Mineral Oil Tax Act of 21 June 1996, in force since 1 Jan. 1997 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)).
 [^35c-6]: Inserted by Annex 2 No 6 of the Mineral Oil Tax Act of 21 June 1996 ([AS 1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371); [BBl 1995 III 137](https://fedlex.data.admin.ch/eli/fga/1995/3_137_133_137)). Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
 
-### Chapter 7 Putting Raw Materials and Products into Circulation
+### Chapter 7 Reduction of the Environmental Impact caused by Raw Materials and Products
 
 [^tit2-chap7-1][^tit2-chap7-2]
 
-[^tit2-chap7-1]: Inserted by the Annex to the FA of 21 March 2014, in force since 1 August 2016 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
-[^tit2-chap7-2]: Amended by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^tit2-chap7-1]: Inserted by the Annex to the FA of 21 March 2014, in force since 1 Aug. 2016 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)).
+[^tit2-chap7-2]: Amended by No I of the FA of 15 June 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 ### Section 1 Biogenic Motor and Thermal Fuels
 
-[^tit2-sec1-1]
+[^tit2-chap7-sec1-1][^tit2-chap7-sec1-2]
 
-[^tit2-sec1-1]: Inserted by No II of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^tit2-chap7-sec1-1]: Inserted by No I 3 and II of the Federal Act of 20 Dec. 2019 on the extension of the time limit for tax relief for natural gas, liquefied petroleum gas and biogenic fuels and on the amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions (RO **2020** 1269; [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)). Amended by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^tit2-chap7-sec1-2]: Amended by No I of the FA of 15 June 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 35d
 
-[^35d-1]
+<sup>1</sup> Renewable thermal and motor fuels may only be put into circulation if they meet certain ecological requirements.
 
-<sup>1</sup> If a substantial volume of biogenic motor and thermal fuels or mixtures that contain biogenic motor and thermal fuels that do not meet the requirements of Article 12*b* paragraphs 1 and 3 of the Mineral Oil Tax Act of 21 June 1996[^35d-2] are put into circulation, the Federal Council may provide that certain biogenic motor and thermal fuels that it designates may only be put into circulation if they meet specific ecological or social requirements.
+<sup>2</sup> Renewable thermal and motor fuels that are produced from foodstuffs or animal feed or that directly compete with the production of foodstuffs may not be put into circulation. This does not apply to mass-balanced renewable thermal and motor fuels that meet the ecological requirements.
 
-<sup>2</sup> Ethanol used for thermal purposes is exempted from the authorisation requirement.
+<sup>3</sup> The Federal Council shall stipulate the ecological requirements. In doing so, it shall take account of comparable international regulations and standards.
 
-<sup>3</sup>
+<sup>4</sup> It may stipulate ecological requirements for putting into circulation other thermal and motor fuels that generate significantly lower greenhouse gas emissions than conventional fossil thermal and motor fuels.
 
-The Federal Council shall stipulate the following, taking account of the provisions of the legislation on the mineral oil tax:
+<sup>5</sup>
 
-- a. the ecological and social requirements that biogenic motor and thermal fuels requiring authorisation must meet;
-- b. the authorisation procedure.
+It may provide that the requirements under this Article do not apply to:
 
-[^35d-1]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^35d-2]: [SR 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+- a. ethanol used for thermal purposes;
+- b. renewable thermal and motor fuels that are only put into circulation in small quantities.
 
-### Section 2 Timber and Wood Products and other Raw Materials and Products
+<sup>6</sup> It may provide for further exceptions if this is necessary due to market conditions.
 
-[^tit2-sec1-sec2-1]
+### Section 2 Cultivation, Extraction and Production of Timber and Wood Products and other Raw Materials and Products
 
-[^tit2-sec1-sec2-1]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^tit2-chap7-sec2-1][^tit2-chap7-sec2-2]
+
+[^tit2-chap7-sec2-1]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^tit2-chap7-sec2-2]: Amended by No I of the FA of 15 June 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 35e
 
@@ -1212,6 +1332,44 @@ The Federal Council regulates:
 
 <sup>2</sup> The domestic authorities may disclose personal data, including sensitive personal data relating to administrative or criminal sanctions, to foreign authorities and international institutions for the purpose of implementing the provisions of the European Union concerning the putting into circulation of timber and wood products.
 
+### Section 3 Resource-conserving Design of Products and Packaging
+
+[^tit2-chap7-sec3-1]
+
+[^tit2-chap7-sec3-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 35i
+
+<sup>1</sup>
+
+Depending on the environmental impact caused by products and packaging, the Federal Council may lay down requirements for putting them into circulation, in particular with regard to:
+
+- a. usability and service life, availability of spare parts and reparability of products;
+- b. avoiding harmful effects and increasing resource efficiency during their life cycle;
+- c. uniform, comparable, visible and comprehensible labelling and information;
+- d. introduction of a repair index.
+
+<sup>2</sup> When implementing paragraph 1, the Federal Council shall take account of the regulations of Switzerland’s main trading partners.
+
+### Section 4 Resource-conserving Construction
+
+[^tit2-chap7-sec4-1]
+
+[^tit2-chap7-sec4-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 35j
+
+<sup>1</sup>
+
+As part of a comprehensive, building- and life cycle-based sustainability assessment in accordance with the environmental impact caused by buildings and taking account of Switzerland’s international obligations, the Federal Council may set requirements for:
+
+- a. the use of environmentally friendly building materials and components;
+- b. the use of building materials that originate from the material recovery of construction waste;
+- c. the removability of buildings; and
+- d. the reuse of components in buildings.
+
+<sup>2</sup> The Confederation shall act as a role model in the planning, construction, operation, renovation and removal of its own buildings. It shall take account of increased requirements for resource-saving construction and innovative solutions.
+
 ## Title 3 Enforcement, Promotional Measures and Procedure
 
 ### Chapter 1 Enforcement
@@ -1228,9 +1386,9 @@ Subject to the reservation of Article 41, the enforcement of this Act is the res
 
 **Cantonal implementing provisions**[^37-1]
 
-Cantonal implementing provisions on disaster prevention (Art. 10), the environmental impact assessment (Art. 10*a*), improvement (Art. 16–18), soundproofing of buildings (Art. 20 and 21) and waste (Art. 30–32 and 32*a*<sup>bis</sup>–32*e*) require the approval of the Confederation to be valid.
+Cantonal implementing provisions on disaster prevention (Art. 10), the environmental impact assessment (Art. 10*a*–10*d*), improvement (Art. 16–18), soundproofing of buildings (Art. 20 and 21) and waste (Art. 30–32 and 32*a*<sup>bis</sup>–32*e*) require the approval of the Confederation to be valid.
 
-[^37-1]: Amended by No I of the FA of 20 December 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357), [2012 2389](https://fedlex.data.admin.ch/eli/oc/2012/288); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^37-1]: Amended by No I of the FA of 20 March 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357), [2012 2389](https://fedlex.data.admin.ch/eli/oc/2012/288); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 ### Section 2 Enforcement by the Confederation
 
@@ -1262,13 +1420,13 @@ In doing so, it may declare internationally harmonised technical regulations and
 It may conclude international agreements on:[^39-2]
 
 - a. technical regulations;
-- [tab] a<sup>bis</sup>.[^39-3] environmentally hazardous substances (Art. 26–29);
+- a<sup>bis</sup>.[^39-3] environmentally hazardous substances (Art. 26–29);
 - b.[^39-4] waste avoidance and disposal;
 - c. cooperation in frontier zones by the establishment of international commissions with advisory status;
 - d. data collections and surveys;
 - e. research and training.
 
-<sup>3</sup> ...[^39-5]
+<sup>3</sup> …[^39-5]
 
 [^39-1]: Inserted by Annex No II 2 of the Chemicals Act of 15 Dec. 2000, in force since 1 Jan. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 [^39-2]: Amended by Annex No II 2 of the Chemicals Act of 15 Dec. 2000, in force since 1 Aug. 2005 ([AS 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [BBl 2000 687](https://fedlex.data.admin.ch/eli/fga/2000/195)).
@@ -1290,7 +1448,7 @@ It may conclude international agreements on:[^39-2]
 
 **Enforcement powers of the Confederation**
 
-<sup>1</sup> The Confederation enforces Article 12 paragraph 1 letter e (Regulations on thermal and motor fuels), 26 (self-regulation), 27 (Information for recipients), 29 (Regulations on substances), 29*a*–29*h* (Environmentally hazardous organisms), 30*b* paragraph 3 (Deposit compensation fund), 30*f* and 30*g* (Import and export of waste), 31*a* paragraph 2 and 31*c* paragraph 3 (Federal waste disposal measures), 32*a*<sup>bis</sup> (Pre-paid disposal fee), 32*e* paragraphs 1–4 (Charge to finance remediation), 35*a*–35*c* (Incentive taxes), 35*d* (Biogenic motor and thermal fuels), 35*e*–35*h* (Timber or wood products or other raw materials and products), 39 (Implementing provisions and international law agreements), 40 (Placing series-produced installations on the market) and 46 paragraph 3 (Information on substances and organisms); it may require the cantons to carry out certain duties.[^41-1]
+<sup>1</sup> The Confederation enforces Article 12 paragraph 1 letter e (Regulations on thermal and motor fuels), 26 (self-regulation), 27 (Information for recipients), 29 (Regulations on substances), 29*a*–29*h* (Environmentally hazardous organisms), 30*b* paragraph 3 (Deposit compensation fund), 30*f* and 30*g* (Import and export of waste), 31*a* paragraph 2 and 31*c* paragraph 3 (Federal waste disposal measures), 32*a*<sup>bis</sup>–32*a*<sup>septies</sup> (Pre-paid disposal fee and recycling contributions), 32*e* paragraphs 1–4 (Charge to finance remediation), 35*a*–35*c* (Incentive taxes), 35*d* (Requirements for motor and thermal fuels), 35*e*–35*h* (Timber or wood products or other raw materials and products), 35*i* (Resource-conserving design of products and packaging), 39 (Implementing provisions and international law agreements), 40 (Placing series-produced installations on the market) and 46 paragraph 3 (Information on substances and organisms); it may require the cantons to carry out certain duties.[^41-1]
 
 <sup>2</sup> Any federal authority that enforces another Federal Act or an international agreement is, in fulfilling this duty, also responsible for the enforcement of the Environmental Protection Act. It must consult the cantons concerned before making its decision. The Federal Office and the other federal agencies concerned cooperate in accordance with Articles 62*a* and 62*b* of the Government and Administration Organisation Act of 21 March 1997[^41-2] in relation to enforcement.[^41-3]
 
@@ -1298,11 +1456,11 @@ It may conclude international agreements on:[^39-2]
 
 <sup>4</sup> The federal enforcement authorities must take account of cantonal environmental protection measures.[^41-5]
 
-[^41-1]: Amended by No II of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011)[5813](https://fedlex.data.admin.ch/eli/fga/2019/2069)).
+[^41-1]: Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^41-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^41-3]: Amended by No I 14 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-making Procedures, in force since 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^41-4]: Amended by No I 14 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-making Procedures, in force since 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^41-5]: Originally para. 3.
+[^41-5]: Originally: Para. 3.
 
 ### Section 2*a* Cooperation with the Private Sector
 
@@ -1317,6 +1475,10 @@ It may conclude international agreements on:[^39-2]
 <sup>2</sup> They may promote sectoral agreements by setting quantitative targets and deadlines for meeting them.
 
 <sup>3</sup> Before enacting implementing regulations, they must examine voluntary private sector measures. Wherever possible and necessary, they shall incorporate sectoral agreements into the implementing regulations in whole or in part.
+
+<sup>4</sup> When enacting the implementing provisions, they shall take account of voluntary measures already taken by companies, provided these have at least the same effect on environmental protection as the implementing legislation.[^41a-1]
+
+[^41a-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 ### Section 3 Special Enforcement Provisions
 
@@ -1346,7 +1508,7 @@ The enforcement authorities may entrust public corporations or private entities 
 
 The Federal Council may issue regulations on the introduction of:
 
-- a. a voluntary system for an environmental label («eco-label»);
+- a. a voluntary system for an environmental label (‘eco-label’);
 - b. a voluntary system for the evaluation and improvement of environmental protection in establishments (environmental management and auditing).
 
 <sup>2</sup> In so doing, it must take account of international law and internationally recognised technical standards.
@@ -1421,21 +1583,44 @@ The Federal Council may require the regular inspection of installations such as 
 
 <sup>2</sup> The rates are set by the Federal Council at federal level and by the competent authority under cantonal law at cantonal level.
 
+#### Art. 48a
+
+**Pilot projects**[^48a-1]
+
+The Federal Council may issue provisions for the implementation of innovative pilot projects that derogate from this Act, provided that these provisions are limited in terms of time, place and subject matter and serve to gather experience for the further development of this Act and its enforcement.
+
+[^48a-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
 ### Chapter 2 Promotional Measures
 
 #### Art. 49
 
 **Training and research**
 
-<sup>1</sup> The Confederation may promote the basic and continuing education and training of personnel entrusted with duties in terms of this Act.[^49-1]
+<sup>1</sup> The Confederation may promote the education and training of specialists who carry out activities related to environmental protection.[^49-1]
 
 <sup>2</sup> It may commission or support research studies and technology assessments.[^49-2]
 
-<sup>3</sup> It may promote the development of installations and processes that can reduce pollution in the public interest. Financial aid may not normally exceed 50 per cent of the costs. In the event of the commercial exploitation of the development results, it must be refunded in proportion to the earnings made. The Federal Council makes a general assessment of the effect of the promotion and reports to the Federal Assembly on the results at five-yearly intervals.[^49-3]
+<sup>3</sup> It may promote the development, certification, verification and market introduction of installations and processes that can reduce pollution in the public interest. Financial aid may not normally exceed 50 per cent of the costs. In the event of the commercial exploitation of the development results, it must be refunded in proportion to the earnings made. Every five years, the Federal Council shall make a general assessment of the effect of the promotion and reports to the Federal Assembly on the results.[^49-3]
 
-[^49-1]: Amended by Annex No 18 of the FA of 5 Oct. 1990 on Financial Aid and Subsidies (Subsidies Act), in force since 1 April 1991 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); BBl **1997** I 369). The amendment in accordance with the FA of 20 June 2014 on Continuing Education and Training, in force since 1 Jan. 2017, relates to the French and Italian texts only ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^49-1]: Amended by No I of the FA of 15 June 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 [^49-2]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
-[^49-3]: Inserted by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
+[^49-3]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by No I of the FA of 15 June 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+
+#### Art. 49a
+
+**Information, advice and platforms**[^49a-1]
+
+<sup>1</sup>
+
+The Confederation may grant financial aid for:
+
+- a. information and advisory projects related to environmental protection;
+- b. platforms for conserving resources and improving the circular economy.
+
+<sup>2</sup> Financial aid may not exceed 50 per cent of the costs.
+
+[^49a-1]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 50
 
@@ -1463,7 +1648,7 @@ The Confederation may contribute towards the cost of building and equipping the 
 
 [^52-1]
 
-[^52-1]: Inserted by No 18 of the Subsidies Act of 5 Oct. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); [BBl 1987 I 369](https://fedlex.data.admin.ch/eli/fga/1987/1_369_369_297)). Repealed by No I of the FA of 19 March 2021 on Administrative Simplifications and Federal Budget Relief, with effect from 1 Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^52-1]: Repealed by No I 10 of the FA of 19 March 2021 on Administrative Simplifications and Federal Budget Relief, with effect from 1 Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 53
 
@@ -1482,7 +1667,7 @@ The Confederation may make contributions:
 
 <sup>3</sup> The Federal Council monitors the effective use of the funds authorised under this Act and reports to the Federal Assembly thereon.
 
-[^53-1]: Repealed by Annex No 18 of the Subsidies Act of 5 Oct. 1990 ([AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); BBl **1997** I 369). Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 (AS **2003** 4062; [BBl 2002 7911](https://fedlex.data.admin.ch/eli/fga/2002/1272)).
+[^53-1]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4061](https://fedlex.data.admin.ch/eli/oc/2003/597), 4062; [BBl 2002 7911](https://fedlex.data.admin.ch/eli/fga/2002/1272)).
 
 ### Chapter 3 Procedures
 
@@ -1490,7 +1675,7 @@ The Confederation may make contributions:
 
 [^tit3-chap3-sec1-1]
 
-[^tit3-chap3-sec1-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec1-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 54
 
@@ -1498,14 +1683,14 @@ The Confederation may make contributions:
 
 Appeal proceedings are governed by the general provisions on the administration of federal justice.
 
-[^54-1]: Amended by Annex No 91 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); BBl **2004** 4202).
-[^54-2]: Repealed by No I of the FA of 20 Dec. 2006, with effect from 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^54-1]: Amended by Annex No 91 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^54-2]: Repealed by No I of the FA of 20 Dec. 2006, with effect from 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 ### Section 2 Organisations’ Right of Appeal against Rulings on Installations
 
 [^tit3-chap3-sec2-1]
 
-[^tit3-chap3-sec2-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec2-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 55
 
@@ -1526,7 +1711,7 @@ Environmental protection organisations have the right of appeal against rulings 
 
 <sup>5</sup> The organisations may authorise their legally independent cantonal and supra-cantonal subsidiary organisations to file objections and on a case-by-case basis to file appeals that relate to their local field of activity.
 
-[^55-1]: Amended by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)). The provision on economic activity in para. 1 let. b comes into force on 1 July 2010 (see No III para. 3 of the said amendment).
+[^55-1]: Amended by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)). The provision on economic activity in para. 1 let. b comes into force on 1 July 2010 (see No III para. 3 of the said amendment).
 
 #### Art. 55a
 
@@ -1536,7 +1721,7 @@ Environmental protection organisations have the right of appeal against rulings 
 
 <sup>2</sup> If federal or cantonal law provides for an objection procedure, applications must also be published in accordance with paragraph 1.
 
-[^55a-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55a-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 55b
 
@@ -1550,7 +1735,7 @@ Environmental protection organisations have the right of appeal against rulings 
 
 <sup>4</sup> Paragraphs 2 and 3 also apply to objections and appeals under cantonal law against land use plans.
 
-[^55b-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55b-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 [^55b-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
 
 #### Art. 55c
@@ -1569,7 +1754,7 @@ Agreements between applicants and organisations on financial or other benefits a
 
 <sup>3</sup> The appeal authority does not consider an appeal if it constitutes an abuse of the law or if the organisation has demanded unlawful benefits in terms of paragraph 2.
 
-[^55c-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55c-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 [^55c-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 
 #### Art. 55d
@@ -1578,7 +1763,7 @@ Agreements between applicants and organisations on financial or other benefits a
 
 Construction work may begin before conclusion of the proceedings provided the outcome of the proceedings cannot have any influence on the work.
 
-[^55d-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55d-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 55e
 
@@ -1586,13 +1771,13 @@ Construction work may begin before conclusion of the proceedings provided the ou
 
 If the organisation loses the proceedings, it is liable for the costs of conducting the appeal before the federal authorities.
 
-[^55e-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^55e-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 ### Section 3 Organisations’ Right of Appeal against the Authorisation of Organisms
 
 [^tit3-chap3-sec3-1]
 
-[^tit3-chap3-sec3-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec3-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 55f
 
@@ -1611,20 +1796,20 @@ Environmental protection organisations have a right of appeal against any author
 
 [^tit3-chap3-sec4-1]
 
-[^tit3-chap3-sec4-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841)[5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
+[^tit3-chap3-sec4-1]: Inserted by No I of the FA of 20 Dec. 2006, in force since 1 July 2007 ([AS 2007 2701](https://fedlex.data.admin.ch/eli/oc/2007/357); [BBl 2005 5351](https://fedlex.data.admin.ch/eli/fga/2005/841), [5391](https://fedlex.data.admin.ch/eli/fga/2005/843)).
 
 #### Art. 56
 
 **Public authority appeal**
 
-<sup>1</sup> The Federal Office has a right of appeal under federal and cantonal law against rulings by the cantonal authorities made on the basis of this Act and its implementing provisions.[^56-1]
+<sup>1</sup> The Federal Office has the right of appeal under federal and cantonal law against rulings by the cantonal authorities made on the basis of this Act and its implementing provisions.[^56-1]
 
 <sup>2</sup> The cantons also have this right in cases where effects from neighbouring cantons on their territory are a matter of contention.
 
-<sup>3</sup> ...[^56-2]
+<sup>3</sup> …[^56-2]
 
 [^56-1]: Amended by No I 14 of the FA of 18 June 1999 on the Coordination and Simplification of Decision-making Procedures, in force since 1 Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^56-2]: Repealed by Annex No 91 of the Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); BBl **2004** 4202).
+[^56-2]: Repealed by Annex No 91 of the Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352), [1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 57
 
@@ -1783,7 +1968,7 @@ The right of recourse prescribes in accordance with Article 59*c*. The three-yea
 
 <sup>1</sup>
 
-Liable to a custodial sentence not exceeding three years or a monetary penalty is any person who wilfully:[^60-1]
+A custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who wilfully:[^60-1]
 
 - a. fails to take the safety measures prescribed for the prevention of disasters or fails to comply with the prohibition of certain production methods or the keeping of certain stocks (Art. 10);
 - b. puts substances into circulation which he knows or must assume may present a danger to the environment or indirectly endanger people when used in a certain manner (Art. 26);
@@ -1793,7 +1978,7 @@ Liable to a custodial sentence not exceeding three years or a monetary penalty i
 - f.[^60-3] handles organisms in such a manner that the principles contained in Article 29*a* paragraph 1 are infringed;
 - g.[^60-4] fails to take all the containment measures required when handling pathogenic organisms (Art. 29*b* para. 1);
 - h.[^60-5] without authorisation, releases pathogenic organisms for experimental purposes or puts them into circulation for uses in the environment (Art. 29*c* para. 1 and 29*d* paras. 3 and 4);
-- i.[^60-6] puts organisms into circulation that he knows or must assume will infringe the principles contained in Article 29a paragraph 1 when used in a certain manner (Art. 29*d* para. 1);
+- i.[^60-6] puts organisms into circulation that he knows or must assume will infringe the principles contained in Article 29*a* paragraph 1 when used in a certain manner (Art. 29*d* para. 1);
 - j.[^60-7] puts organisms into circulation without providing recipients with the required information and instructions (Art. 29*e* para. 1);
 - k.[^60-8] handles organisms contrary to the instructions (Art. 29*e* para. 2);
 - l.[^60-9] ...
@@ -1802,9 +1987,14 @@ Liable to a custodial sentence not exceeding three years or a monetary penalty i
 - o. accepts, imports or exports special waste without authorisation (Art. 30*f* para. 2 let. c and d);
 - p. infringes regulations on the movement of special waste (Art. 30*f* para. 1);
 - q.[^60-10] infringes regulations on waste (Art. 30*a* let. b);
-- r.[^60-11] infringes regulations on the putting into circulation for the first time of timber and wood products and raw materials and products specified by the Federal Council pursuant to Article 35*e* paragraph 3 (Art. 35*e* and 35*f* para. 1 and 2 let. a).
+- r.[^60-11] infringes regulations on the putting into circulation for the first time of timber and wood products and raw materials and products specified by the Federal Council pursuant to Article 35*e* paragraph 3 (Art. 35*e* and 35*f* para. 1 and 2 let. a);
+- s.[^60-12] infringes regulations on the resource-conserving design of products and packaging (Art. 35*i* para. 1);
+- t.[^60-13] puts renewable thermal or motor fuels into circulation that do not fulfil the ecological requirements set out in Article 35*d* paragraph 1 or 4, or provides false or incomplete information in this regard;
+- u.[^60-14] violates the prohibition set out in Article 35*d* paragraph 2.
 
-<sup>2</sup> If the offender acts negligently, he or she is liable to a monetary penalty not exceeding 180 daily penalty units.[^60-12]
+<sup>2</sup> If the offender acts through negligence, he or she shall be liable to a monetary penalty not exceeding 180 daily penalty units.[^60-15]
+
+<sup>3</sup> The FOCBS shall prosecute and adjudicate offences under paragraph 1 letters t and u.[^60-16]
 
 [^60-1]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^60-2]: Amended by Annex No 4 of the Gene Technology Act of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
@@ -1817,7 +2007,11 @@ Liable to a custodial sentence not exceeding three years or a monetary penalty i
 [^60-9]: Repealed by Annex No 4 of the Gene Technology Act of 21 March 2003, with effect from 1 Jan. 2004 ([AS 2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705); [BBl 2000 2391](https://fedlex.data.admin.ch/eli/fga/2000/484)).
 [^60-10]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 [^60-11]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^60-12]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-12]: Inserted by Annex No 4 of the FA of 15 March 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-13]: Inserted by Annex No 4 of the FA of 15 March 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-14]: Inserted by Annex No of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^60-15]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^60-16]: Inserted by Annex No 4 of the FA of 15 March 2024 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)). Amended by No III of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
 
 #### Art. 61
 
@@ -1825,7 +2019,7 @@ Liable to a custodial sentence not exceeding three years or a monetary penalty i
 
 <sup>1</sup>
 
-Liable to a fine not exceeding 20,000 francs is any person who wilfully:[^61-1]
+A fine not exceeding CHF 20,000 shall be imposed on any person who wilfully:[^61-1]
 
 - a. fails to comply with the limitations of emissions stipulated in this Act (Art. 12 and 34 para. 1);
 - b. fails to comply with remediation orders (Art. 16 and 32*c* para. 1);
@@ -1835,47 +2029,65 @@ Liable to a fine not exceeding 20,000 francs is any person who wilfully:[^61-1]
 - f. burns waste illegally outside installations (Art. 30*c* para. 2);
 - g. deposits waste outside authorised landfills (Art. 30*e* para. 1);
 - h. infringes the reporting duties in connection with waste (Art. 30*f* para. 4, 30*g* para. 2, 32*b* para. 2 and 3);
-- i. infringes the regulations on waste (Art. 30*a* let. a and c, 30*b*, 30*c* para. 3, 30*d*, 30*h* para. 1, 32*a**<sup>bis</sup>*, 32*b* para. 4 and 32*e* para. 1–4);
+- i.[^61-2] infringes the regulations on waste (Art. 30*a* let. a and c, 30*b*, 30*c* para. 3, 30*d*, 30*h* para. 1, 31*b* para. 3, 32*a*<sup>bis</sup>, 32*b* para. 4 and 32*e* para. 1–4);
+- j.[^61-3] infringes the regulations on resource-conserving construction (Art. 35*j* para. 1);
 - k. infringes the regulations on the movement of other forms of waste (Art. 30*g* para. 1);
 - l. fails to guarantee coverage of the costs of closure, after-care and remediation of a landfill (Art. 32*b* para. 1);
 - m. infringes the regulations on physical impacts on and the use of the soil (Art. 33 para. 2 and 34 para. 1 and 2) or on measures to reduce the soil pollution (Art. 34 para. 3);
-- m<sup>bis</sup>.[^61-2] infringes regulations on the traceability of timber and wood products and raw materials and products specified by the Federal Council pursuant to Article 35*e* paragraph 3 and for which a documentation requirement has been imposed (Art. 35*g* para. 1);
-- n. infringes the regulations on placing series-produced installations[^61-3] on the market (Art. 40);
+- m<sup>bis</sup>.[^61-4] infringes regulations on the traceability of timber and wood products and raw materials and products specified by the Federal Council pursuant to Article 35*e* paragraph 3 and for which a documentation requirement has been imposed (Art. 35*g* para. 1);
+- n. infringes the regulations on placing series-produced installations[^61-5] on the market (Art. 40);
 - o. refuses to provide information to the competent authority or provides incorrect information (Art. 46);
-- p.[^61-4] infringes the regulations on providing a guarantee for liability (Art. 59*b*).
+- p.[^61-6] infringes the regulations on providing a guarantee for liability (Art. 59*b*).
 
-<sup>2</sup> If the offender acts negligently, the penalty is a fine.
+<sup>2</sup> If the offender acts through negligence, the penalty is a fine.
 
 <sup>3</sup> Attempts and complicity are also offences.
 
 [^61-1]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
-[^61-2]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
-[^61-3]: Previously: type approval testing and labelling
-[^61-4]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
+[^61-2]: Amended by No I of the FA of 15 June 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^61-3]: Inserted by No I of the FA of 15 Sept. 2024, in force since 1 Jan. 2025 ([AS 2024 648](https://fedlex.data.admin.ch/eli/oc/2024/648); [BBl 2023 13](https://fedlex.data.admin.ch/eli/fga/2023/13), [437](https://fedlex.data.admin.ch/eli/fga/2023/437)).
+[^61-4]: Inserted by No I of the FA of 27 Sept. 2019, in force since 1 Jan. 2022 ([AS 2021 614](https://fedlex.data.admin.ch/eli/oc/2021/614); [BBl 2019 1251](https://fedlex.data.admin.ch/eli/fga/2019/275)).
+[^61-5]: Previously: type approval testing and labelling
+[^61-6]: Amended by No II 1 of the FA of 19 March 2010, in force since 1 Aug. 2010 ([AS 2010 3233](https://fedlex.data.admin.ch/eli/oc/2010/434); [BBl 2009 5435](https://fedlex.data.admin.ch/eli/fga/2009/947)).
 
 #### Art. 61a
 
-**Offences against the regulations on incentive taxes and on biogenic motor and thermal fuels[^61a-2]**[^61a-1]
+**Evasion of incentive taxes**[^61a-1]
 
-<sup>1</sup> Any person who wilfully or negligently evades payment or obstructs the collection of a tax in terms of Articles 35*a*, 35*b* or 35*b*<sup>bis</sup> or obtains for himself or another an unlawful tax advantage (exemption from or refund of tax) is liable to a fine not exceeding five times the amount of the tax that is evaded or the collection of which is obstructed, or of the advantage gained. If the amount of tax cannot be precisely quantified, it must be estimated.[^61a-3]
+<sup>1</sup> Any person who wilfully obtains an unlawful tax advantage for him- or herself or for another person in relation to the tax laid down in Article 35*a*, in particular by evading the tax or unlawfully obtaining an exemption from, refund or reimbursement of the tax, shall be liable to a fine of up to five times the amount of the unlawful tax advantage.
 
-<sup>2</sup> Any person who wilfully or negligently puts biogenic motor or thermal fuels into circulation without authorisation in terms of Article 35*d* or obtains authorisation by providing false, inaccurate or incomplete information is liable to a fine not exceeding 500 000 francs.[^61a-4]
+<sup>2</sup> An attempt is a criminal offence.
 
-<sup>3</sup> Any attempt to commit an offence under paragraphs 1 and 2 is an offence.[^61a-5]
+<sup>3</sup> If the offender acts through negligence, the penalty shall be a fine of up to three times the amount of the unlawful tax advantage.
 
-<sup>4</sup> The Federal Office for Customs and Border Security (FOCBS)[^61a-6] is the prosecuting and adjudicating authority.[^61a-7]
+<sup>4</sup> If the unlawful tax advantage cannot be determined precisely, it shall be estimated as part of the administrative procedure.
 
-<sup>5</sup> If any act is an offence in accordance with paragraphs 1 to 3 and at the same time another offence against federal legislation that must be judged by the FOCBS[^61a-8], the penalty carried by the more serious offence applies; this may be increased appropriately.[^61a-9]
+<sup>5</sup> The prosecuting and adjudicating authority is the FOCBS.
 
-[^61a-1]: Inserted by No I of the FA of 21 Dec. 1995, in force since 1 July 1997 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)).
-[^61a-2]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^61a-3]: Amended by No I of the FA of 20 June 2003, in force since 1 Jan. 2004 ([AS 2003 4215](https://fedlex.data.admin.ch/eli/oc/2003/624); [BBl 2002 6464](https://fedlex.data.admin.ch/eli/fga/2002/1014)).
-[^61a-4]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^61a-5]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^61a-6]: Name in accordance with No I 31 of the Ordinance of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-7]: Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
-[^61a-8]: Name in accordance with No I 31 of the Ordinance of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^61a-9]: Inserted by the Annex to the FA of 21 March 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^61a-1]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+
+#### Art. 61b
+
+**Obstructing the collection of incentive taxes**[^61b-1]
+
+<sup>1</sup>
+
+A fine not exceeding CHF 30,000 shall be imposed on any person who wilfully:
+
+- a. fails to declare or incorrectly declares data and objects relevant to the collection of the tax as set out in Article 35*a* paragraph 1;
+- b. conceals material facts in an application for a tax refund in accordance with Article 35*c* paragraph 3 or submits untrue evidence of such facts;
+- c. provides false information in his or her capacity as a person obliged to provide information (Art. 46);
+- d. fails to properly keep, make out, retain or submit accounting records, receipts, business documents and other records or fails to fulfil his or her duty to provide information (Art. 46);
+- e. impedes or obstructs the proper inspection process, or makes it impossible to carry out an inspection properly (Art. 46 para. 1); or
+- f. violates an implementing provision whose infringement has been declared a criminal offence by the Federal Council.
+
+<sup>2</sup> An attempt is a criminal offence.
+
+<sup>3</sup> If the offender acts through negligence, the penalty shall be a fine.
+
+<sup>4</sup> The prosecuting and adjudicating authority is the FOCBS.
+
+[^61b-1]: Inserted by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 #### Art. 62
 
@@ -1883,10 +2095,10 @@ Liable to a fine not exceeding 20,000 francs is any person who wilfully:[^61-1]
 
 <sup>1</sup> Articles 6 and 7 of the Federal Act of 22 March 1974[^62-1] on Administrative Criminal Law apply to offences under this Act.
 
-<sup>2</sup> For offences against Article 61*a*, the other provisions of the Federal Act of 22 March 1974 on Administrative Criminal Law also apply.[^62-2]
+<sup>2</sup> For offences under Articles 61*a* and 61*b*, the other provisions of the Federal Act on Administrative Criminal Law also apply.[^62-2]
 
 [^62-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^62-2]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by the Annex to the FA of 21 March 2014 Amended by No I 3 of the FA of 20 Dec. 2019 on the Extension of the Time Limit for Tax Relief for Natural Gas, Liquid Gas and Biogenic Fuels and on the Amendment of the Federal Act on the Reduction of CO<sub>2</sub> Emissions, in force from 1 July 2020 to 31 Dec. 2023, extended to 31 Dec. 2024 ([AS 2020 1269](https://fedlex.data.admin.ch/eli/oc/2020/243); [2022 262](https://fedlex.data.admin.ch/eli/oc/2022/262); [BBl 2019 5679](https://fedlex.data.admin.ch/eli/fga/2019/2011), [5813](https://fedlex.data.admin.ch/eli/fga/2019/2069); [2021 2252](https://fedlex.data.admin.ch/eli/fga/2021/2252), [2254](https://fedlex.data.admin.ch/eli/fga/2021/2254)).
+[^62-2]: Inserted by No I of the FA of 21 Dec. 1995 ([AS 1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155); [BBl 1993 II 1445](https://fedlex.data.admin.ch/eli/fga/1993/2_1445_1337_1213)). Amended by Annex No 4 of the FA of 15 March 2024, in force since 1 Jan. 2025 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## Title 6 Final Provisions
 
@@ -1902,13 +2114,13 @@ Liable to a fine not exceeding 20,000 francs is any person who wilfully:[^61-1]
 
 #### Art. 64
 
-**Adaptation of federal ordinances**
+**Amendment of federal ordinances**
 
 If regulations relating to environmental protection enacted under other federal acts contradict or fail to comply with the provisions of this Act, they must be adapted or supplemented in accordance with a schedule to be laid down by the Federal Council.
 
 #### Art. 65
 
-**Environmental law of the Cantons**
+**Cantonal environmental law**
 
 <sup>1</sup> Unless and until the Federal Council expressly exercises its power to enact ordinances, the cantons may enact their own regulations in terms of this Act, after consulting the Federal Department of the Environment, Transport, Energy and Communications.
 
@@ -1922,14 +2134,14 @@ If regulations relating to environmental protection enacted under other federal 
 
 Applications for payments towards the costs of measures under Article 32*e* paragraph 4 letter b number 2 shall in derogation from Article 36 of the Subsidies Act of 5 October 1990[^65a-2] be assessed in accordance with the law applicable after the date on which the application is filed if work began on the measures before the Amendment of 26 September 2014 comes into force. The applications must be filed two years at the latest after the Amendment comes into force.
 
-[^65a-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820)[3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
+[^65a-1]: Inserted by No I of the FA of 26 Sept. 2014, in force since 1 April 2015 ([AS 2015 865](https://fedlex.data.admin.ch/eli/oc/2015/164); [BBl 2014 3673](https://fedlex.data.admin.ch/eli/fga/2014/820), [3685](https://fedlex.data.admin.ch/eli/fga/2014/822)).
 [^65a-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 #### Art. 66
 
 **Amendment of federal legislation**
 
-...[^66-1]
+…[^66-1]
 
 [^66-1]: The amendments may be consulted under [AS 1984 1122](https://fedlex.data.admin.ch/eli/oc/1984/1122_1122_1122).
 
@@ -1943,4 +2155,4 @@ Applications for payments towards the costs of measures under Article 32*e* para
 
 Commencement date: 1 January 1985[^67-1]
 
-[^67-1]: FCD of 12 Sept. 1984.
+[^67-1]: FCD of 12 Sept. 1984
