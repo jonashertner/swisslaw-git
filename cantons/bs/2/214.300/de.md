@@ -4,13 +4,12 @@ number: "214.300"
 title: Geoinformationsgesetz
 short: KGeoIG
 language: de
-version: 2012-09-01
-valid_until: 2024-12-31
-version_adopted: 2011-11-16
+version: 2025-01-01
+version_adopted: 2022-10-20
 adopted: 2011-11-16
 in_force: 2012-09-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/214.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2612/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6465/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Geoinformationsgesetz | Sachenrecht: Spezielle Erlasse
 
 (KGeoIG)
 
-Vom 16. November 2011 (Stand 1. September 2012)
+Vom 16. November 2011 (Stand 1. Januar 2025)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -143,7 +142,9 @@ beschliesst:
 
 <sup>2</sup> Bevor die Gemeinde die Geodaten gemäss § 3 lit. b mittels direktem elektronischen Zugriff als öffentlich zugänglich erklärt, prüft sie die daraus entstehenden möglichen Auswirkungen auf die betroffenen Personen.
 
-<sup>3</sup> Werden die Geodaten gemäss § 3 mit Downloaddienst zugänglich gemacht, ist eine Vorabkontrolle durch die Beauftragte oder den Beauftragten für den Datenschutz gemäss § 13 des Informations- und Datenschutzgesetzes vom 9. Juni 2010 erforderlich.
+<sup>3</sup> Werden die Geodaten gemäss § 3 mit Downloaddienst zugänglich gemacht, ist vorab die oder der Datenschutzbeauftragte gemäss § 13 des Informations- und Datenschutzgesetzes (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010[^12-1] zu konsultieren.
+
+[^12-1]: SG [153.260](https://www.gesetzessammlung.bs.ch/data/153.260/de)
 
 #### § 13
 
@@ -282,7 +283,7 @@ beschliesst:
 [^25-1]: SG 211.100.
 [^25-2]: § 25 Abs. 1: Diese Änderungen werden hier nicht abgedruckt.
 
-Schlussbestimmung
+*Schlussbestimmung*
 
 Dieses Gesetz ist zu publizieren. Es unterliegt dem Referendum. Der Regierungsrat bestimmt nach Eintritt der Rechtskraft und der Genehmigung durch den Bund[^footer-1] den Zeitpunkt der Wirksamkeit.[^footer-2]
 
