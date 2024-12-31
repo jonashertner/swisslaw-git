@@ -4,7 +4,7 @@ number: "642.11"
 title: LOI du 04.07.2000 sur les impôts directs cantonaux (LI)
 short: LI
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?id=8df99d51-8df8-49ed-9ef5-2fa4817d0004"
 ---
 
@@ -537,7 +537,15 @@ décrète
 
 <sup>2</sup> Sont notamment considérées comme revenus provenant d'institutions de prévoyance professionnelle les prestations de caisses de pensions, de fondations patronales, d'institutions de libre passage, ainsi que d'assurances collectives et de groupe.
 
-<sup>3</sup> Les rentes viagères autres que celles dont l'imposition est prévue à l'alinéa 1 et les revenus provenant de contrat d'entretien viager sont imposables à raison de 40%.
+<sup>3</sup> Les assurances de rentes viagères ainsi que les contrats de rentes viagères et d'entretien viager sont imposables à raison de leur part de rendement. Celle-ci se détermine comme suit :
+
+- a. pour les prestations garanties provenant d'assurances de rentes viagères soumises à la loi du 2 avril 1908 sur le contrat d'assurance (LCA), le taux d'intérêt technique maximal (m) défini conformément à l'art. 36, al. 1, de la loi du 17 décembre 2004 sur la surveillance des assurances qui était applicable à la conclusion du contrat est déterminant pendant toute la durée de celui-ci :
+- 1\. si le taux d'intérêt est supérieur à zéro, la part de rendement se calcule au moyen de la formule suivante, en arrondissant le résultat au pourcentage entier le plus proche :
+- 2\. si le taux d'intérêt est nul ou négatif, la part de rendement est de 0 %;
+- b. pour les prestations excédentaires réalisées sur les assurances de rentes viagères qui sont soumises à la LCA, elle est de 70 %;
+- c. pour les prestations provenant d'assurances de rentes viagères étrangères ou de contrats de rentes viagères ou d'entretien viager, le rendement annualisé, augmenté de 0,5 point de pourcentage, des obligations émises par la Confédération pour une période de dix ans (r) au cours de l'année fiscale concernée et des neuf années précédentes est déterminant:
+- 1\. si le rendement est supérieur à zéro, la part de rendement se calcule au moyen de la formule suivante, en arrondissant le résultat au pourcentage entier le plus proche :
+- 2\. si le rendement est nul ou négatif, la part de rendement est de 0 %.
 
 [^sectionSectionVI-1]: Modif. 45 du 11.12.2024: Modification Al. 3; entrée en vigueur au 01.01.2025; Introduction Al. 3, a-c; entrée en vigueur au 01.01.2025
 [^26-1]: Loi fédérale du 25.06.1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (RS 831.40)
@@ -730,7 +738,7 @@ décrète
 <sup>1</sup> Sont déduits du revenu :
 
 - a. les intérêts passifs privés à concurrence du rendement imposable de la fortune au sens des articles 23, 23a et 24, augmenté d'un montant de 50'000 francs ;
-- b. les charges durables et 40% des rentes viagères versées par le débirentier ;
+- b. les charges durables et la part de rendement au sens de l'article 26, alinéa 3, lettre c, des prestations fondées sur des contrats de rentes viagères ou d'entretien viager ;
 - c. la pension alimentaire versée au conjoint divorcé ou imposé séparément selon l'article 10, et les contributions versées pour l'entretien d'enfants mineurs, imposables selon l'article 27, alinéa 1, lettre f, mais à l'exclusion des autres prestations faites en vertu d'une obligation d'entretien fondée sur le droit de la famille ;
 - d. les primes, cotisations et montants légaux, statutaires ou réglementaires versés en vue de l'acquisition des droits aux prestations de l'assurance-vieillesse et survivants[^37-1] , de l'assurance-invalidité et dans le cadre d'institutions de la prévoyance professionnelle au sens de la législation fédérale sur la prévoyance professionnelle, vieillesse et survivants, dont les prestations sont imposables selon l'article 26, alinéa 1 ;
 - e. les primes, cotisations et montants versés en vue de l'acquisition de droits contractuels dans des formes reconnues de la prévoyance individuelle liée, dont les prestations sont imposables selon l'article 26, alinéa 1, dans les limites autorisées par la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP) ;
@@ -752,7 +760,7 @@ décrète
 
 <sup>3</sup> Sont déduits des gains unitaires provenant des jeux d'argent non exonérés de l'impôt selon l'article 28, lettres jbis à k, 5% à titre de mise, mais au plus 5000 francs. Sont déduits des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l'article 28, lettre jbis, les mises prélevées du compte en ligne du joueur au cours de l'année fiscale, mais au plus 25 000 francs.
 
-[^sectionSectionV-1]: Modif. 4 du 21.12.2004: Modification Al. 1 h; entrée en vigueur au 01.01.2005; Introduction Al. 1 hbis; entrée en vigueur au 01.01.2005 · Modif. 8 du 14.12.2005: Modification Al. 1, i; entrée en vigueur au 01.01.2006 · Modif. 15 du 09.09.2008: Modification Al. 1 a; entrée en vigueur au 01.01.2009 · Modif. 21 du 14.12.2010: Modification Al. 1 h,i; entrée en vigueur au 01.01.2011; Introduction Al. 1 j,k; entrée en vigueur au 01.01.2011 · Modif. 29 du 08.10.2013: Introduction Al. 3; entrée en vigueur au 01.01.2014 · Modif. 30 du 07.10.2014: Introduction Al. 1, l; entrée en vigueur au 01.01.2016 · Modif. 33 du 14.12.2016: Modification Al. 1, l; entrée en vigueur au 01.01.2017; Modification Al. 1, l, 1-2; entrée en vigueur au 01.01.2017 · Modif. 36 du 12.12.2018: Modification Al. 1, k; entrée en vigueur au 01.01.2020; Modification Al. 3; entrée en vigueur au 01.01.2019 · Modif. 37 du 05.03.2019: Modification tArt; entrée en vigueur au 01.01.2020; Modification Al. 1; entrée en vigueur au 01.01.2020; Modification Al. 1, g; entrée en vigueur au 01.01.2020 · Modif. 41 du 14.12.2021: Modification Al. 1, k; entrée en vigueur au 01.01.2022 · Modif. 42 du 20.12.2022: Modification Al. 1, g; entrée en vigueur au 01.01.2023; Modification Al. 1, k; entrée en vigueur au 01.01.2024 · Modif. 45 du 11.12.2024: Introduction Art. 26, Al. 3, a-c; entrée en vigueur au 01.01.2025; Modification Al. 1, b; entrée en vigueur au 01.01.2025
+[^sectionSectionV-1]: Modif. 4 du 21.12.2004: Modification Al. 1 h; entrée en vigueur au 01.01.2005; Introduction Al. 1 hbis; entrée en vigueur au 01.01.2005 · Modif. 8 du 14.12.2005: Modification Al. 1, i; entrée en vigueur au 01.01.2006 · Modif. 15 du 09.09.2008: Modification Al. 1 a; entrée en vigueur au 01.01.2009 · Modif. 21 du 14.12.2010: Modification Al. 1 h,i; entrée en vigueur au 01.01.2011; Introduction Al. 1 j,k; entrée en vigueur au 01.01.2011 · Modif. 29 du 08.10.2013: Introduction Al. 3; entrée en vigueur au 01.01.2014 · Modif. 30 du 07.10.2014: Introduction Al. 1, l; entrée en vigueur au 01.01.2016 · Modif. 33 du 14.12.2016: Modification Al. 1, l; entrée en vigueur au 01.01.2017; Modification Al. 1, l, 1-2; entrée en vigueur au 01.01.2017 · Modif. 36 du 12.12.2018: Modification Al. 1, k; entrée en vigueur au 01.01.2020; Modification Al. 3; entrée en vigueur au 01.01.2019 · Modif. 37 du 05.03.2019: Modification tArt; entrée en vigueur au 01.01.2020; Modification Al. 1; entrée en vigueur au 01.01.2020; Modification Al. 1, g; entrée en vigueur au 01.01.2020 · Modif. 41 du 14.12.2021: Modification Al. 1, k; entrée en vigueur au 01.01.2022 · Modif. 42 du 20.12.2022: Modification Al. 1, g; entrée en vigueur au 01.01.2023; Modification Al. 1, k; entrée en vigueur au 01.01.2024 · Modif. 45 du 11.12.2024: Modification Al. 1, b; entrée en vigueur au 01.01.2025
 [^37-1]: Loi fédérale du 25.06.1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (RS 831.40)
 [^37-2]: Règlement du 24.11.2004 sur les allocations pour perte de gain (RS 834.11)
 [^37-3]: Loi fédérale du 25.06.1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité (RS 837.0)
@@ -1403,12 +1411,11 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 - a. les sociétés de capitaux (sociétés anonymes, sociétés en commandite par actions, sociétés à responsabilité limitée) et les sociétés coopératives;
 - b. les associations, fondations et autres personnes morales.
 
-<sup>2</sup> Les placements collectifs qui possèdent des immeubles en propriété directe au sens de l'article 58 de la loi fédérale du 23 juin 2006 sur les placements collectifs de capitaux (LPCC)[^84-1] sont assimilés aux autres personnes morales. Les sociétés d'investissement à capital fixe au sens de l'article 110 LPCC sont imposées comme des sociétés de capitaux.
+<sup>2</sup> Les placements collectifs qui possèdent des immeubles en propriété directe au sens des articles 58 ou 118a de la loi fédérale du 23 juin 2006 sur les placements collectifs de capitaux (LPCC) sont assimilés aux autres personnes morales. Les sociétés d'investissement à capital fixe au sens de l'article 110 LPCC sont imposées comme des sociétés de capitaux.
 
 <sup>3</sup> Les personnes morales étrangères ainsi que les sociétés commerciales et les communautés étrangères de personnes sans personnalité juridique sont assimilées aux personnes morales suisses dont elles se rapprochent le plus par leur forme juridique ou leur structure effective.
 
-[^chapterChapitreI-2]: Modif. 12 du 12.12.2007: Modification Al. 2; entrée en vigueur au 01.01.2008 · Modif. 45 du 11.12.2024: Introduction Art. 26, Al. 3, a-c; entrée en vigueur au 01.01.2025; Modification Al. 2; entrée en vigueur au 01.01.2025
-[^84-1]: Loi fédérale du 23.06.2006 sur les placements collectifs de capitaux (RS 951.31)
+[^chapterChapitreI-2]: Modif. 12 du 12.12.2007: Modification Al. 2; entrée en vigueur au 01.01.2008 · Modif. 45 du 11.12.2024: Modification Al. 2; entrée en vigueur au 01.01.2025
 
 ### Chapitre II Conditions de l'assujettissement
 
@@ -1824,11 +1831,13 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 **Taux [^sectionSectionI-1]**
 
-<sup>1</sup> L'impôt sur le bénéfice des sociétés de capitaux et des sociétés coopératives est de 3 1/3% du bénéfice net. L'article 277c demeure réservé.
+<sup>1</sup> L'impôt sur le bénéfice des sociétés de capitaux et des sociétés coopératives est de 3,1/3 % pour la tranche de bénéfice net imposable dans le Canton de Vaud jusqu'à 10 millions de francs. Pour la tranche excédentaire de bénéfice net imposable dans le Canton de Vaud, le taux est de 3,75%.
 
 <sup>2</sup> Le taux de l'impôt peut être majoré dans des cas particuliers en lien avec les relations internationales.
 
-[^sectionSectionI-1]: Modif. 28 du 30.04.2013: Modification Al. 1; entrée en vigueur au 01.01.2013 · Modif. 31 du 29.09.2015: Modification Al. 1; entrée en vigueur au 01.01.2019; Introduction Al. 2; entrée en vigueur au 01.01.2019 · Modif. 43 du 03.10.2023: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025
+<sup>3</sup> Pour le calcul du bénéfice net imposable dans le Canton de Vaud, les fractions inférieures à 100 francs sont abandonnées.
+
+[^sectionSectionI-1]: Modif. 28 du 30.04.2013: Modification Al. 1; entrée en vigueur au 01.01.2013 · Modif. 31 du 29.09.2015: Modification Al. 1; entrée en vigueur au 01.01.2019; Introduction Al. 2; entrée en vigueur au 01.01.2019 · Modif. 43 du 03.10.2023: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025
 
 #### Art. 106
 
@@ -1912,13 +1921,15 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 **Associations, fondations, autres personnes morales et placements collectifs de capitaux [^sectionSectionIII-4]**
 
-<sup>1</sup> L'impôt sur le bénéfice des associations, fondations et autres personnes morales est de 3 1/3% du bénéfice net.
+<sup>1</sup> L'impôt sur le bénéfice des associations, fondations et autres personnes morales est de 3,1/3 % pour la tranche de bénéfice net imposable dans le Canton de Vaud jusqu'à 10 millions de francs. Pour la tranche excédentaire de bénéfice net imposable dans le Canton de Vaud, le taux est de 3,75%.
 
 <sup>1bis</sup> L'impôt sur le bénéfice des placements collectifs de capitaux qui possèdent des immeubles en propriété directe est de 4.75% du bénéfice net.
 
 <sup>2</sup> Le bénéfice n'est pas imposé lorsqu'il n'excède pas 20'000 francs.
 
-[^sectionSectionIII-4]: Modif. 12 du 12.12.2007: Modification Al. 1; entrée en vigueur au 01.01.2008 · Modif. 32 du 08.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2018 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021; Introduction Al. 1bis; entrée en vigueur au 01.01.2021 · Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025
+<sup>3</sup> Pour le calcul du bénéfice net imposable dans le Canton de Vaud, les fractions inférieures à 100 francs sont abandonnées.
+
+[^sectionSectionIII-4]: Modif. 12 du 12.12.2007: Modification Al. 1; entrée en vigueur au 01.01.2008 · Modif. 32 du 08.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2018 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021; Introduction Al. 1bis; entrée en vigueur au 01.01.2021 · Modif. 43 du 03.10.2023: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 3; entrée en vigueur au 01.01.2025
 
 ### Titre III Impôt sur le capital
 
@@ -1938,11 +1949,11 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 **Définition du capital propre [^sectionSectionII-6]**
 
-<sup>1</sup> Le capital propre imposable des sociétés de capitaux et des sociétés coopératives comprend le capital-actions ou le capital social libéré, les réserves ouvertes et les réserves latentes constituées au moyen de bénéfices imposés. L'article 117 est réservé.
+<sup>1</sup> Le capital propre imposable des sociétés de capitaux et des sociétés coopératives comprend le capital-actions ou le capital social libéré, les réserves ouvertes et les réserves latentes constituées au moyen de bénéfices imposés ainsi que celles déclarées au titre de l'article 98a.
 
 <sup>2</sup> Est imposable au moins le capital-actions ou le capital social libéré.
 
-[^sectionSectionII-6]: Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025
+[^sectionSectionII-6]: Modif. 43 du 03.10.2023: Modification Al. 1; entrée en vigueur au 01.01.2025
 
 #### Art. 114
 
@@ -2825,13 +2836,13 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 - a. l'employeur, sur ses prestations au travailleur;
 - b. les créanciers et les débiteurs, sur l'état, le montant, les intérêts des dettes et des créances, ainsi que sur les sûretés dont elles sont assorties;
-- c. les assureurs, sur la valeur de rachat des assurances et sur les prestations payées ou dues en vertu de contrats d'assurance;
+- c. les assureurs, sur la valeur de rachat des assurances et sur les prestations payées ou dues en vertu de contrats d'assurance ; pour les assurances de rentes viagères soumises à la LCA, ils doivent fournir en outre une attestation sur l'année de la conclusion du contrat, sur le montant de la rente viagère garantie, sur la part totale de rendement imposable au sens de l'article 26, alinéa 3, ainsi que sur les prestations excédentaires et la part de rendement provenant de ces prestations au sens de l'article 26, alinéa 3, lettre b;
 - d. les fiduciaires, gérants de fortune, créanciers gagistes, mandataires et autres personnes qui ont ou avaient la possession ou l'administration de la fortune du contribuable, sur cette fortune et ses revenus;
 - e. les personnes qui sont ou étaient en relation d'affaires avec le contribuable, sur leurs prétentions et prestations réciproques.
 
 <sup>2</sup> Lorsque, malgré sommation, le contribuable ne produit pas les attestations requises, l'autorité fiscale peut les exiger directement du tiers. Le secret professionnel protégé légalement est réservé.
 
-[^sectionSectionIII-5]: Modif. 45 du 11.12.2024: Introduction Art. 26, Al. 3, a-c; entrée en vigueur au 01.01.2025; Modification Al. 1, c; entrée en vigueur au 01.01.2025 · Modif. 47 du 17.12.2025: Introduction Art. 5, Al. 1, abis; entrée en vigueur au 01.01.2026; Introduction Art. 138, Al. 2-3; entrée en vigueur au 01.01.2026; Introduction Art. 144, Al. 2; entrée en vigueur au 01.01.2026; Introduction Al. 3; entrée en vigueur au 01.01.2026; Introduction Art. 179, Al. 1, g; entrée en vigueur au 01.01.2026
+[^sectionSectionIII-5]: Modif. 45 du 11.12.2024: Modification Al. 1, c; entrée en vigueur au 01.01.2025 · Modif. 47 du 17.12.2025: Introduction Art. 5, Al. 1, abis; entrée en vigueur au 01.01.2026; Introduction Art. 138, Al. 2-3; entrée en vigueur au 01.01.2026; Introduction Art. 144, Al. 2; entrée en vigueur au 01.01.2026; Introduction Al. 3; entrée en vigueur au 01.01.2026; Introduction Art. 179, Al. 1, g; entrée en vigueur au 01.01.2026
 
 ### Section IV Renseignements de tiers
 
@@ -4232,7 +4243,7 @@ Le Conseil d'Etat arrête les dispositions d'application du présent article ; l
 
 <sup>4</sup> Si des réserves latentes, y compris la plus-value créée par la personne morale elle-même, qui ont été déclarées à la fin de l'imposition fondée sur les articles 108 et 109 aLI, existent et sont amorties selon alinéa 1, l'article 95b est applicable. Dans ce cas, le plafond des abattements de l'article 95b alinéa 1 est porté à 30%.
 
-[^277i-1]: Modif. 36 du 12.12.2018: Introduction Art. 277k; entrée en vigueur au 01.07.2019 · Modif. 43 du 03.10.2023: Modification Al. 1-2; entrée en vigueur au 01.07.2023; Introduction Al. 3-4; entrée en vigueur au 01.07.2023 · Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025
+[^277i-1]: Modif. 36 du 12.12.2018: Introduction Art. 277k; entrée en vigueur au 01.07.2019 · Modif. 43 du 03.10.2023: Modification Al. 1-2; entrée en vigueur au 01.07.2023; Introduction Al. 3-4; entrée en vigueur au 01.07.2023
 
 #### Art. 277l
 
