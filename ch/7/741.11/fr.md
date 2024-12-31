@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2024-04-01
+version: 2025-01-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20240401/fr"
 
 (OCR)[^t-1]
 
-du 13 novembre 1962 (État le 1<sup>er</sup> avril 2024)
+du 13 novembre 1962 (État le 1<sup>er</sup> janvier 2025)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -921,20 +921,22 @@ Au besoin, il est autorisé d’utiliser les feux de route; il faut toutefois y 
 
 #### Art. 33
 
-**Bruit à éviter**
+**Bruit à éviter**[^33-1]
 
 ### (art. 42, al. 1, LCR)
 
-Les conducteurs, les passagers et les auxiliaires ne causeront aucun bruit pouvant être évité, notamment dans les quartiers habités, près des lieux de repos et pendant la nuit. Il est interdit avant tout:
+Les conducteurs, les passagers et les auxiliaires ne causeront aucun bruit pouvant être évité. Il est interdit avant tout:
 
-- a. de faire fonctionner longtemps le démarreur, de faire tourner et chauffer inutilement le moteur d’un véhicule à l’arrêt;
-- b. de faire tourner à vide le moteur à un régime élevé, de circuler à un régime élevé en petite vitesse;
+- a. de faire chauffer et tourner inutilement le moteur d’un véhicule à l’arrêt;
+- b. de faire tourner à vide le moteur à un régime élevé ou de circuler à un régime élevé en petite vitesse;
 - c. d’accélérer trop rapidement, notamment au démarrage;
 - d. d’effectuer dans une localité des va-et-vient ou des circuits inutiles;
-- e. de circuler trop rapidement, notamment avec des véhicules à bandages métalliques, avec des charges non arrimées ou avec des remorques, dans les tournants et dans les montées;
-- f. de charger ou décharger sans précautions des véhicules ainsi que de transporter des bidons et d’autres charges bruyantes sans les arrimer ou les isoler les unes des autres;
+- e. de générer un bruit évitable avec le dispositif d’échappement, notamment de produire des pétarades en changeant de vitesse ou en décélérant brusquement;
+- f. de charger ou décharger sans précautions des véhicules;
 - g. de claquer les portières, le capot du moteur, le couvercle du coffre, etc.;
-- h. d’incommoder le voisinage en faisant fonctionner des appareils de radio et d’autres appareils restituant le son, installés ou transportés dans la voiture.
+- h. d’incommoder le voisinage en faisant fonctionner des appareils restituant le son, installés ou transportés dans le véhicule.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 607](https://fedlex.data.admin.ch/eli/oc/2024/607)).
 
 #### Art. 34
 

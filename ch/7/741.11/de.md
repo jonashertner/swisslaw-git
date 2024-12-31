@@ -4,11 +4,11 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2024-04-01
+version: 2025-01-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20240401/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20250101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20240401/de"
 
 (VRV)[^t-1]
 
-vom 13. November 1962 (Stand am 1. April 2024)
+vom 13. November 1962 (Stand am 1. Januar 2025)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -916,20 +916,22 @@ Bei Bedarf können die Fernlichter verwendet werden; in Ortschaften ist jedoch n
 
 #### Art. 33
 
-**Vermeiden von Lärm**
+**Vermeiden von Lärm**[^33-1]
 
 ### (Art. 42 Abs. 1 SVG)
 
-Fahrzeugführer, Mitfahrende und Hilfspersonen dürfen, namentlich in Wohn- und Erholungsgebieten und nachts, keinen vermeidbaren Lärm erzeugen. Untersagt sind vor allem:
+Fahrzeugführer, Mitfahrende und Hilfspersonen dürfen keinen vermeidbaren Lärm erzeugen. Untersagt sind vor allem:
 
-- a. andauerndes, unsachgemässes Benützen des Anlassers und unnötiges Vorwärmen und Laufenlassen des Motors stillstehender Fahrzeuge;
-- b. hohe Drehzahlen des Motors im Leerlauf, beim Fahren in niedrigen Gängen;
+- a. unnötiges Vorwärmen und Laufenlassen des Motors stillstehender Fahrzeuge;
+- b. hohe Drehzahlen des Motors im Leerlauf oder beim Fahren in niedrigen Gängen;
 - c. zu schnelles Beschleunigen des Fahrzeugs, namentlich beim Anfahren;
 - d. fortgesetztes unnötiges Herumfahren in Ortschaften;
-- e. zu schnelles Fahren, namentlich mit metallbereiften Fahrzeugen, beim Mitführen von unbefestigten Ladungen und von Anhängern, beim Befahren von Kurven und Steigungen;
-- f. unsorgfältiges Beladen und Entladen von Fahrzeugen sowie Mitführen von Kannen und ähnlichen lärmerzeugenden Ladungen ohne Befestigung oder Zwischenlagen;
-- g. Zuschlagen von Wagentüren, Motorhauben, Kofferdeckeln und dgl.;
-- h. Störungen durch Radioapparate und andere Tonwiedergabegeräte, die im Fahrzeug eingebaut sind oder mitgeführt werden.
+- e. Verursachen von vermeidbarem Lärm der Auspuffanlage, insbesondere das Erzeugen von Knallgeräuschen durch Schalten oder abrupte Gaswegnahme;
+- f. unsorgfältiges Beladen und Entladen von Fahrzeugen;
+- g. Zuschlagen von Wagentüren, Motorhauben, Kofferdeckeln und dergleichen;
+- h. Störungen durch Tonwiedergabegeräte, die im Fahrzeug eingebaut sind oder mitgeführt werden.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 (AS **20****24** 607).
 
 #### Art. 34
 
