@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 11. April 2018 über die Quellensteuer bei der di
 short: QStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: de
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-274-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20240101/de"
 
 (Quellensteuerverordnung, QStV)
 
-vom 11. April 2018 (Stand am 1. Januar 2024)
+vom 11. April 2018 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -113,6 +113,23 @@ Sie wird jedoch in der Schweiz an der Quelle besteuert, wenn:
 <sup>2</sup> Übermittelt der Arbeitgeber die Quellensteuerabrechnung elektronisch, so kann er Neuanstellungen mittels monatlicher Abrechnung melden.
 
 <sup>3</sup> Die Arbeitnehmerinnen und Arbeitnehmer müssen dem Arbeitgeber Änderungen von Sachverhalten melden, die für die Erhebung der Quellensteuer massgebend sind. Der Arbeitgeber meldet die Änderungen innerhalb der Fristen nach den Absätzen 1 und 2 der zuständigen Steuerbehörde.
+
+#### Art. 5a
+
+**Bescheinigung bei unterjähriger Beendigung des Arbeitsverhältnisses für in Frankreich wohnhafte Arbeitnehmerinnen und Arbeitnehmer**[^5a-1]
+
+Der bisherige Arbeitgeber muss der in Frankreich wohnhaften Arbeitnehmerin oder dem in Frankreich wohnhaften Arbeitnehmer bei unterjähriger Beendigung des Arbeitsverhältnisses auf deren oder dessen Verlangen eine Bescheinigung nach Artikel 127 Absatz 3 DBG ausstellen. Die Bescheinigung muss folgende Angaben enthalten:
+
+- a. Name, Vorname und Adresse der Arbeitnehmerin oder des Arbeitnehmers zum Zeitpunkt des Austritts;
+- b. Zeitraum der beschränkten Steuerpflicht während der Anstellung im Kalenderjahr;
+- c. durchschnittlicher Beschäftigungsgrad in Prozent im Zeitraum nach Buchstabe b;
+- d. Anzahl Arbeitstage in Form temporärer Einsätze im Ansässigkeitsstaat im Zeitraum nach Buchstabe b;
+- e. Anzahl Arbeitstage in Form temporärer Einsätze in Drittstaaten im Zeitraum nach Buchstabe b;
+- f. Anzahl Telearbeitstage oder Telearbeitsquote in Prozent im Ansässigkeitsstaat im Zeitraum nach Buchstabe b, ohne Berücksichtigung der temporären Einsätze nach den Buchstaben d und e;
+- g. Anzahl Übernachtungen in der Schweiz für Arbeitnehmerinnen und Arbeitnehmer, die der Vereinbarung vom 11. April 1983[^5a-2] zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern unterliegen.
+
+[^5a-1]: Eingefügt durch Ziff. I der V des EFD vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 586](https://fedlex.data.admin.ch/eli/oc/2024/586)).
+[^5a-2]: BBl **1983** II 535
 
 #### Art. 6
 
@@ -328,20 +345,20 @@ Anhang[^t-1]
 
 ## Quellensteuertarife
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EFD vom 1. Sept. 2023, in Kraft seit 1. Jan. 2024 (AS **202****3** 492).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EFD vom 22. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 478](https://fedlex.data.admin.ch/eli/oc/2024/478)).
 
 - 1\. Die Quellensteuer von Personen mit dem Tarifcode D beträgt 1 Prozent der Bruttoeinkünfte.
 - 2\. Die Quellensteuer auf Ersatzeinkünften mit dem Tarifcode G beträgt:
 
 <table>
 <tr><th></th><th>Franken</th></tr>
-<tr><td>bis 18 000 Franken jährliche Bruttoeinkünfte undfür je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>0.00 0.80;</td></tr>
+<tr><td>bis 18 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>0.00 0.80;</td></tr>
 <tr><td>für 36 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>144.00 2.35 mehr;</td></tr>
-<tr><td>für 60 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>708.00 4.25 mehr;</td></tr>
-<tr><td>für 90 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>1 983.00 7.45 mehr;</td></tr>
-<tr><td>für 120 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>4 218.00 10.30 mehr;</td></tr>
-<tr><td>für 180 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>10 398.00 13.05 mehr;</td></tr>
-<tr><td>für 780 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>88 698.00 11.50 mehr.</td></tr>
+<tr><td>für 60 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>708.00 4.20 mehr;</td></tr>
+<tr><td>für 90 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>1 968.00 7.35 mehr;</td></tr>
+<tr><td>für 120 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>4 173.00 10.20 mehr;</td></tr>
+<tr><td>für 180 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>10 293.00 12.85 mehr;</td></tr>
+<tr><td>für 780 000 Franken jährliche Bruttoeinkünfte und für je weitere 100 Franken jährliche Bruttoeinkünfte</td><td>87 393.00 11.50 mehr.</td></tr>
 </table>
 
 - 3. a. Die Quellensteuer auf dem Bruttobetrag der Kapitalleistungen nach Artikel 19 Absatz 1 beträgt für alleinstehende Personen:
@@ -350,7 +367,7 @@ Anhang[^t-1]
 <tr><td>– auf dem Betrag bis</td><td>25 000 Franken</td><td>0,00 %</td></tr>
 <tr><td>– auf dem Betrag über 25 000 bis</td><td>50 000 Franken</td><td>0,35 %</td></tr>
 <tr><td>– auf dem Betrag über 50 000 bis</td><td>75 000 Franken</td><td>0,55 %</td></tr>
-<tr><td>– auf dem Betrag über 75 000 bis</td><td>100 000 Franken</td><td>1,30 %</td></tr>
+<tr><td>– auf dem Betrag über 75 000 bis</td><td>100 000 Franken</td><td>1,25 %</td></tr>
 <tr><td>– auf dem Betrag über 100 000 bis</td><td>125 000 Franken</td><td>1,60 %</td></tr>
 <tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>1,95 %</td></tr>
 <tr><td>– auf dem Betrag über 150 000 bis</td><td>750 000 Franken</td><td>2,60 %</td></tr>
@@ -363,8 +380,8 @@ Anhang[^t-1]
 <tr><td>– auf dem Betrag bis</td><td>25 000 Franken</td><td>0,00 %</td></tr>
 <tr><td>– auf dem Betrag über 25 000 bis</td><td>50 000 Franken</td><td>0,15 %</td></tr>
 <tr><td>– auf dem Betrag über 50 000 bis</td><td>75 000 Franken</td><td>0,50 %</td></tr>
-<tr><td>– auf dem Betrag über 75 000 bis</td><td>100 000 Franken</td><td>0,85 %</td></tr>
-<tr><td>– auf dem Betrag über 100 000 bis</td><td>125 000 Franken</td><td>1,20 %</td></tr>
+<tr><td>– auf dem Betrag über 75 000 bis</td><td>100 000 Franken</td><td>0,80 %</td></tr>
+<tr><td>– auf dem Betrag über 100 000 bis</td><td>125 000 Franken</td><td>1,15 %</td></tr>
 <tr><td>– auf dem Betrag über 125 000 bis</td><td>150 000 Franken</td><td>1,75 %</td></tr>
 <tr><td>– auf dem Betrag über 150 000 bis</td><td>900 000 Franken</td><td>2,60 %</td></tr>
 <tr><td>– auf dem Betrag über</td><td>900 000 Franken</td><td>2,30 %</td></tr>

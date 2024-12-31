@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 11 avril 2018 sur l'imposition à la source dans le
 short: OIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20240101/fr"
 
 (Ordonnance sur l’imposition à la source, OIS)
 
-du 11 avril 2018 (État le 1<sup>er</sup> janvier 2024)
+du 11 avril 2018 (État le 1<sup>er</sup> janvier 2025)
 
 Le Département fédéral des finances (DFF),
 
@@ -113,6 +113,23 @@ Le contribuable est cependant imposé à la source en Suisse dans les cas suivan
 <sup>2</sup> Si l’employeur transmet le décompte de l’impôt à la source par voie électronique, il peut communiquer les engagements de personnel via le décompte mensuel.
 
 <sup>3</sup> Les employés doivent annoncer à leur employeur tout changement d’un état de fait déterminant pour la perception de l’impôt à la source. L’employeur transmet l’information à l’autorité fiscale compétente dans les délais fixés aux al. 1 et 2.
+
+#### Art. 5a
+
+**Attestation en cas de résiliation en cours d’année des rapports de travail des employés domiciliés en France**[^5a-1]
+
+En cas de résiliation en cours d’année des rapports de travail d’un employé domicilié en France, l’employeur concerné lui délivre sur demande l’attestation visée à l’art. 127, al. 3, LIFD. L’attestation doit contenir les informations suivantes:
+
+- a. nom, prénom et adresse de l’employé au moment du départ;
+- b. période de l’assujettissement limité pendant l’emploi au cours de l’année civile;
+- c. taux d’occupation moyen, en pour cent, au cours de la période visée à la let. b;
+- d. nombre de jours de travail liés à des missions temporaires réalisées dans l’État du domicile au cours de la période visée à la let. b;
+- e. nombre de jours de travail liés à des missions temporaires réalisées dans des États tiers au cours de la période visée à la let. b;
+- f. nombre de jours de télétravail ou taux de télétravail, en pour cent, sans prise en compte des missions temporaires visées aux let. e et f, dans l’État du domicile au cours de la période visée à la let. b;
+- g. nombre de nuitées en Suisse pour les employés soumis à l’accord du 11 avril 1983 entre le Conseil fédéral suisse et le Gouvernement de la République française relatif à l’imposition des rémunérations des travailleurs frontaliers[^5a-2].
+
+[^5a-1]: Introduit par le ch. I de l’O du DFF du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 586](https://fedlex.data.admin.ch/eli/oc/2024/586)).
+[^5a-2]: FF **1983** II 559
 
 #### Art. 6
 
@@ -328,26 +345,26 @@ Annexe[^t-1]
 
 ## Barèmes de l’impôt à la source
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFF du 1<sup>er</sup> sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 492](https://fedlex.data.admin.ch/eli/oc/2023/492)).
+[^t-1]: Mise à jour par le ch. I de l’O du DFF du 22 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 478](https://fedlex.data.admin.ch/eli/oc/2024/478)).
 
 - 1\. L’impôt à la source des personnes soumises au barème D est égal à 1 % des revenus bruts.
 - 2\. L’impôt à la source sur les revenus acquis en compensation qui sont soumis au barème G s’élève à:
 
 <table>
-<tr><td>0,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 18 000 francs, puis à</td></tr>
-<tr><td>0,80 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>144,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 36 000 francs, puis à</td></tr>
-<tr><td>2,35 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>708,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 60 000 francs, puis à</td></tr>
-<tr><td>4,25 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>1983,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 90 000 francs, puis à</td></tr>
-<tr><td>7,45 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>4218,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 120 000 francs, puis à</td></tr>
-<tr><td>10,30 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>10 398,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 180 000 francs, puis à</td></tr>
-<tr><td>13,05 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>88 698,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 780 000 francs, puis à</td></tr>
-<tr><td>11,50 francs</td><td>pour chaque tranche de 100 francs supplémentaire.</td></tr>
+<tr><td>0.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 18 000 francs, puis à</td></tr>
+<tr><td>0.80 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>144.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 36 000 francs, puis à</td></tr>
+<tr><td>2.35 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>708.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 60 000 francs, puis à</td></tr>
+<tr><td>4.20 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>1 968.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 90 000 francs, puis à</td></tr>
+<tr><td>7.35 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>4 173.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 120 000 francs, puis à</td></tr>
+<tr><td>10.20 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>10 293.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 180 000 francs, puis à</td></tr>
+<tr><td>12.85 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>87 393.00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 780 000 francs, puis à</td></tr>
+<tr><td>11.50 francs</td><td>pour chaque tranche de 100 francs supplémentaire.</td></tr>
 </table>
 
 - 3. a. Pour les personnes seules, l’impôt à la source perçu sur le montant brut des prestations en capital au sens de l’art. 19, al. 1, s’élève à:
@@ -356,7 +373,7 @@ Annexe[^t-1]
 <tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000 francs</td></tr>
 <tr><td>0,35 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000 francs</td></tr>
 <tr><td>0,55 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
-<tr><td>1,30 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
+<tr><td>1,25 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
 <tr><td>1,60 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
 <tr><td>1,95 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
 <tr><td>2,60 %</td><td>pour les montants supérieurs à 150 000 et allant jusqu’à</td><td>750 000 francs</td></tr>
@@ -369,11 +386,18 @@ Annexe[^t-1]
 <tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000 francs</td></tr>
 <tr><td>0,15 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000 francs</td></tr>
 <tr><td>0,50 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
-<tr><td>0,85 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
-<tr><td>1,20 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
+<tr><td>0,80 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
+<tr><td>1,15 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
 <tr><td>1,75 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
 <tr><td>2,60 %</td><td>pour les montants supérieurs à 150 000 et allant jusqu’à</td><td>900 000 francs</td></tr>
 <tr><td>2,30 %</td><td>pour les montants supérieurs à</td><td>900 000 francs</td></tr>
 </table>
 
-- [tab]
+- 4\. En application des dispositions de l’art. 20, l’impôt à la source n’est pas prélevé lorsque les revenus bruts imposables sont inférieurs à:
+
+<table>
+<tr><td>– pour les artistes, sportifs et conférenciers (art. 92 LIFD)</td><td>300 francs en ce qui concerne les prestations versées par le débiteur de la prestation imposable pour un événement;</td></tr>
+<tr><td>– pour les administrateurs (art. 93 LIFD)</td><td>300 francs en ce qui concerne le total des prestations versées par le débiteur de la prestation imposable pendant l’année fiscale;</td></tr>
+<tr><td>– pour les créanciers hypothécaires (art. 94 LIFD)</td><td>300 francs par année fiscale;</td></tr>
+<tr><td>– pour les bénéficiaires de rentes (art. 95 et 96 LIFD)</td><td>1000 francs par année fiscale.</td></tr>
+</table>
