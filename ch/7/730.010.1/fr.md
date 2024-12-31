@@ -4,11 +4,11 @@ title: "Ordonnance du DETEC du 1<sup>er</sup> novembre 2017 sur la garantie d'or
 short: OGOM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/764"
 language: fr
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-764-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-764-20250101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20220101/fr"
 
 (OGOM)
 
-du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2025)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -113,9 +113,9 @@ Les installations suivantes ne peuvent pas être enregistrées:
 
 **Transmission des données de production**
 
-<sup>1</sup> Les données de production doivent être transmises à l’organe d’exécution sur demande du producteur par un procédé automatisé directement depuis la station de mesure. Les installations visées à l’art. 8*a*, al. 3, de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité[^5-1] ne sont pas concernées par la transmission automatique.[^5-2]
+<sup>1</sup> Les données de production doivent être transmises à l’organe d’exécution sur demande du producteur par un procédé automatisé directement depuis la station de mesure. Les installations visées à l’art. 8*a*<sup>sexies</sup>, al. 5[^5-1], de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité[^5-2] ne sont pas concernées par la transmission automatique.[^5-3]
 
-<sup>2</sup> Si pour une installation dont la puissance nominale côté courant alternatif est inférieure ou égale à 30 kVA la transmission automatique n’est pas possible, les données peuvent être transmises par l’exploitant de la station de mesure, à condition qu’il soit juridiquement distinct du producteur, ou par l’auditeur via le portail de garantie d’origine de l’organe d’exécution.[^5-3]
+<sup>2</sup> Si pour une installation dont la puissance nominale côté courant alternatif est inférieure ou égale à 30 kVA la transmission automatique n’est pas possible, les données peuvent être transmises par l’exploitant de la station de mesure, à condition qu’il soit juridiquement distinct du producteur, ou par l’auditeur via le portail de garantie d’origine de l’organe d’exécution.[^5-4]
 
 <sup>3</sup> Pour les installations qui utilisent différents agents énergétiques pour produire de l’électricité (installations hybrides), la part des différents agents énergétiques doit elle aussi être transmise.
 
@@ -127,9 +127,10 @@ Les données de production doivent être transmises à l’organe d’exécution
 - b. à la fin du mois suivant pour les enregistrements trimestriels;
 - c. à la fin du mois de février de l’année suivante pour les enregistrements annuels.
 
-[^5-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^5-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2025 en application de l’art. 12, al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^5-2]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 [^5-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
 
 #### Art. 6
 
@@ -163,18 +164,19 @@ Les données de production doivent être transmises à l’organe d’exécution
 
 <sup>1</sup>
 
-Le marquage de l’électricité prévu par l’art. 9, al. 3, let. b LEne[^8-1] doit figurer au moins une fois par année civile sur la facture d’électricité ou en annexe de celle-ci, et comporter les indications suivantes:
+Le marquage de l’électricité prévu par l’art. 9, al. 3, let. b, LEne doit figurer au moins une fois par année civile sur la facture d’électricité ou en annexe de celle-ci. Il doit comprendre une comparaison graphique du produit livré et du mix du fournisseur de l’entreprise assujettie au marquage de l’électricité et comporter les indications suivantes:
 
 - a. pourcentage des agents énergétiques utilisés pour produire l’électricité fournie;
 - b. pourcentage d’électricité produite en Suisse et à l’étranger;
-- c. année de référence;
-- d. nom et adresse de l’entreprise soumise à l’obligation de marquage.
+- c. indications concernant les émissions de CO<sub>2</sub> provenant directement de la production d’électricité et la quantité de déchets radioactifs produits selon la garantie d’origine;
+- d. année de référence;
+- e. nom et adresse de l’entreprise soumise à l’obligation de marquage.[^8-1]
 
 <sup>2</sup> L’entreprise soumise à l’obligation de marquage est également tenue d’informer les consommateurs finaux lorsque la facture d’électricité est transmise par une autre entreprise.
 
 <sup>3</sup> Le marquage de l’électricité doit par ailleurs être effectué conformément à l’annexe 1.
 
-[^8-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^8-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## Section 3 Dispositions finales
 
@@ -202,19 +204,27 @@ Le renouvellement du certificat de conformité relatif aux indications visées �
 [^9b-1]: Introduit par le ch. I de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 [^9b-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
+#### Art. 9c
+
+**Disposition transitoire relative à la modification du 20 novembre 2024**[^9c-1]
+
+Les directives de l’art. 8, al. 1, et de l’annexe 1 de la présente ordonnance dans sa version du 20 novembre 2024 s’appliquent pour la première fois à l’année de livraison 2025.
+
+[^9c-1]: Introduit par l’annexe ch. 5 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
 #### Art. 10
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1 et 8)
 
 ## Exigences concernant le marquage de l’électricité
 
-[^t-1]: Mise à jour par le ch. II de l’O du DETEC du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^t-1]: Mise à jour par le ch. II de l’O du DETEC du 24 nov. 2021 ([RO 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)) et l’annexe ch. 5 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ### 1 Agents énergétiques et affectation
 
@@ -256,57 +266,6 @@ Annexe 1*[^t-1]*
 - 2\.1 Pour la livraison durant une année civile donnée, seules les garanties d’origine portant sur une période de production correspondant à cette même année civile sont acceptées.
 - 2\.2 Le marquage doit faire référence aux données de l’année civile précédente.
 - 2\.3 Le marquage se base sur les garanties d’origine ou de remplacement visées au ch. 1.3 qui ont été établies pour l’électricité produite durant l’année civile précédente.
-- 2\.4 Le marquage se fait au moyen d’un tableau (exemple: fig. 1 ou 2). Sa taille doit être de 10 × 7 cm minimum.
-- 2\.5 Si le tableau indique le mix du produit visé à l’art. 4, al. 2, OEne (exemple: fig. 2), il convient aussi de mentionner le lieu de publication commune visé à l’art. 4, al. 3, OEne.
-- Exemple d’un tableau de marquage de l’électricité répondant aux exigences minimales pour l’indication du mix du fournisseur:
-
-Figure 1
-
-<table>
-<tr><td colspan="6">Marquage de l’électricité</td></tr>
-<tr><td>Votre fournisseur de courant:</td><td>EAE ABC</td><td colspan="4">(ex.)</td></tr>
-<tr><td>Contact:</td><td colspan="4">www.evu-abc.ch, (ex.), tél. 099 999 99 99</td><td></td></tr>
-<tr><td>Année de référence:</td><td>2019</td><td colspan="4"></td></tr>
-<tr><td colspan="3">L’ensemble du courant fourni à nos clients a été produit à partir de:</td><td></td><td colspan="2"></td></tr>
-<tr><td>en %</td><td>**Total**</td><td colspan="4">**En Suisse**</td></tr>
-<tr><td>Énergies renouvelables</td><td>**58,0 %**</td><td colspan="4">**48,0 %**</td></tr>
-<tr><td>Énergie hydraulique</td><td>50,0 %</td><td colspan="4">40,0 %</td></tr>
-<tr><td>Autres énergies renouvelables</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Biomasse Déchets urbains</td><td>0,5 % 0,5 %</td><td colspan="4">0,5 % 0,5 %</td></tr>
-<tr><td>Courant au bénéfice de mesures d’encouragement<sup>1</sup></td><td>7,0 %</td><td colspan="4">7,0 %</td></tr>
-<tr><td>**Énergies non renouvelables**</td><td>**42,0 %**</td><td colspan="4">**27,0 %**</td></tr>
-<tr><td>Énergie nucléaire</td><td>41,0 %</td><td colspan="4">26,0 %</td></tr>
-<tr><td>Énergies fossiles</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Déchets urbains</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>**Total**</td><td>**100,0 %**</td><td colspan="4">**75,0 %**</td></tr>
-<tr><td colspan="6"><sup>1</sup> **Courant au bénéfice de mesures d’encouragement: 40 % d’énergie hydraulique, 20 % d’énergie solaire, 7 % d’énergie éolienne, 29 % de biomasse, 1 % de déchets urbains (part renouvelable), 3 % de géothermie**</td></tr>
-</table>
-
-- Exemple d’un tableau de marquage de l’électricité répondant aux exigences minimales pour l’indication du mix du produit:
-
-Figure 2
-
-<table>
-<tr><td colspan="4">Marquage de l’électricité</td></tr>
-<tr><td>Votre fournisseur de courant:</td><td>EAE ABC</td><td colspan="2">(ex.)</td></tr>
-<tr><td>Contact:</td><td colspan="2">www.evu-abc.ch (ex.), tél. 099 999 99 99</td><td></td></tr>
-<tr><td>Année de référence:</td><td>2019</td><td colspan="2"></td></tr>
-<tr><td colspan="4">Le courant que nous vous avons fourni (produit XYZ) a été produit à partir de:</td></tr>
-<tr><td>en %</td><td>**Total**</td><td colspan="2">**En Suisse**</td></tr>
-<tr><td>Énergies renouvelables</td><td>**99,0 %**</td><td colspan="2">**97,0 %**</td></tr>
-<tr><td>Énergie hydraulique</td><td>88,0 %</td><td colspan="2">88,0 %</td></tr>
-<tr><td>Autres énergies renouvelables</td><td>4,0 %</td><td colspan="2">2,0 %</td></tr>
-<tr><td>Énergie solaire</td><td>0,5 %</td><td colspan="2">0,5 %</td></tr>
-<tr><td>Énergie éolienne</td><td>2,0 %</td><td colspan="2">0,0 %</td></tr>
-<tr><td>Biomasse Déchets urbains</td><td>1,0 % 0,5 %</td><td colspan="2">1,0 % 0,5 %</td></tr>
-<tr><td>Courant au bénéfice de mesures d’encouragement<sup>1</sup></td><td>7,0 %</td><td colspan="2">7,0 %</td></tr>
-<tr><td>**Énergies non renouvelables**</td><td>**1,0 %**</td><td colspan="2">**1,0** **%**</td></tr>
-<tr><td>Énergie nucléaire</td><td>0,0 %</td><td colspan="2">0,0 %</td></tr>
-<tr><td>Énergies fossiles</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
-<tr><td>Déchets urbains</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
-<tr><td>**Total**</td><td>**100,0 %**</td><td colspan="2">**98,0 %**</td></tr>
-<tr><td colspan="4"><sup>1</sup> **Courant au bénéfice de mesures d’encouragement: 40 % d’énergie hydraulique, 20 % d’énergie solaire, 7 % d’énergie éolienne**, **29 % de biomasse, 1 % de déchets urbains (part renouvelable), 3 % de géothermie**</td></tr>
-</table>
 
 Annexe 2
 
@@ -326,6 +285,6 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^annex2-lvlu1-3]
 
-[^annex2-lvlu1-1]: [[RO 2006 5361](https://fedlex.data.admin.ch/eli/oc/2006/816), [2008 1221](https://fedlex.data.admin.ch/eli/oc/2008/225), [2011 4103](https://fedlex.data.admin.ch/eli/oc/2011/576), [2012 5825](https://fedlex.data.admin.ch/eli/oc/2012/679), [2013 3657](https://fedlex.data.admin.ch/eli/oc/2013/682)]
+[^annex2-lvlu1-1]: [[RO 2006 5361](https://fedlex.data.admin.ch/eli/oc/2006/816); [2008 1221](https://fedlex.data.admin.ch/eli/oc/2008/225); [2011 4103](https://fedlex.data.admin.ch/eli/oc/2011/576); [2012 5825](https://fedlex.data.admin.ch/eli/oc/2012/679); [2013 3657](https://fedlex.data.admin.ch/eli/oc/2013/682)]
 [^annex2-lvlu1-2]: [[RO 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28)]
 [^annex2-lvlu1-3]: Les mod. peuvent être consultées au [RO 2017 6939](https://fedlex.data.admin.ch/eli/oc/2017/764).

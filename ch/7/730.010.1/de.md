@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 1. November 2017 über den Herkunftsnachweis und 
 short: HKSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/764"
 language: de
-version: 2022-01-01
+version: 2025-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-764-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-764-20250101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/764/20220101/de"
 
 (HKSV)
 
-vom 1. November 2017 (Stand am 1. Januar 2022)
+vom 1. November 2017 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -113,9 +113,9 @@ Nicht registriert werden können Anlagen mit:
 
 **Übermittlung der Produktionsdaten**
 
-<sup>1</sup> Die Produktionsdaten müssen der Vollzugsstelle im Auftrag des Produzenten über ein automatisiertes Verfahren unmittelbar von der Messstelle aus übermittelt werden. Von der automatisierten Übermittlung ausgenommen sind Anlagen nach Artikel 8*a* Absatz 3 der Stromversorgungsverordnung vom 14. März 2008[^5-1].[^5-2]
+<sup>1</sup> Die Produktionsdaten müssen der Vollzugsstelle im Auftrag des Produzenten über ein automatisiertes Verfahren unmittelbar von der Messstelle aus übermittelt werden. Von der automatisierten Übermittlung ausgenommen sind Anlagen nach Artikel 8*a*<sup>sexies</sup> Absatz 5[^5-1] der Stromversorgungsverordnung vom 14. März 2008[^5-2].[^5-3]
 
-<sup>2</sup> Ist bei Anlagen mit einer wechselstromseitigen Nennleistung von 30 oder weniger kVA eine automatisierte Übermittlung nicht möglich, so können die Daten durch die Betreiberin der Messstelle, sofern diese vom Produzenten rechtlich entflochten ist, oder durch die Auditorin über das Herkunftsnachweis-Portal der Vollzugsstelle übermittelt werden.[^5-3]
+<sup>2</sup> Ist bei Anlagen mit einer wechselstromseitigen Nennleistung von 30 oder weniger kVA eine automatisierte Übermittlung nicht möglich, so können die Daten durch die Betreiberin der Messstelle, sofern diese vom Produzenten rechtlich entflochten ist, oder durch die Auditorin über das Herkunftsnachweis-Portal der Vollzugsstelle übermittelt werden.[^5-4]
 
 <sup>3</sup> Bei Anlagen, in denen zur Produktion von Elektrizität verschiedene Energieträger eingesetzt werden (Hybridanlagen), müssen zusätzlich die Anteile der verschiedenen Energieträger übermittelt werden.
 
@@ -127,9 +127,10 @@ Die Produktionsdaten müssen der Vollzugsstelle spätestens übermittelt werden:
 - b. bei quartalsweiser Erfassung: jeweils bis Ende des Folgemonats;
 - c. bei jährlicher Erfassung: jeweils bis Ende Februar des Folgejahres.
 
-[^5-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
-[^5-2]: Fassung gemäss Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^5-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Januar 2025 angepasst.
+[^5-2]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 [^5-3]: Fassung gemäss Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
+[^5-4]: Fassung gemäss Ziff. I der V des UVEK vom 20. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 917](https://fedlex.data.admin.ch/eli/oc/2019/164)).
 
 #### Art. 6
 
@@ -163,18 +164,19 @@ Die Produktionsdaten müssen der Vollzugsstelle spätestens übermittelt werden:
 
 <sup>1</sup>
 
-Die Stromkennzeichnung nach Artikel 9 Absatz 3 Buchstabe b EnG[^8-1] muss mindestens einmal pro Kalenderjahr auf der Elektrizitätsrechnung oder zusammen mit dieser erfolgen und folgende Angaben enthalten:
+Die Stromkennzeichnung nach Artikel 9 Absatz 3 Buchstabe b EnG muss mindestens einmal pro Kalenderjahr auf der Elektrizitätsrechnung oder zusammen mit dieser erfolgen. Sie muss eine grafische Gegenüberstellung des gelieferten Produkts mit dem Lieferantenmix des stromkennzeichnungspflichtigen Unternehmens mit den folgenden Angaben enthalten:
 
-- a. die prozentualen Anteile der eingesetzten Energieträger an der gelieferten Elektrizität;
-- b. die prozentualen Anteile der Elektrizität, die im Inland und im Ausland produziert wurden;
-- c. das Bezugsjahr;
-- d. den Namen und die Kontaktstelle des kennzeichnungspflichtigen Unternehmens.
+- a. den prozentualen Anteilen der eingesetzten Energieträger an der gelieferten Elektrizität;
+- b. den prozentualen Anteilen der Elektrizität, die im Inland und im Ausland produziert wurden;
+- c. den Angaben zu den durch die Stromproduktion direkt verursachten Emissionen an CO<sub>2</sub> sowie zu der Menge anfallender radioaktiver Abfälle gemäss dem Herkunftsnachweis;
+- d. dem Bezugsjahr;
+- e. dem Namen und der Kontaktstelle des kennzeichnungspflichtigen Unternehmens.[^8-1]
 
 <sup>2</sup> Das kennzeichnungspflichtige Unternehmen ist auch dann für die Information der Endverbraucherinnen und Endverbraucher verantwortlich, wenn die Elektrizitätsrechnung von einem anderen Unternehmen zugestellt wird.
 
 <sup>3</sup> Im Übrigen ist die Stromkennzeichnung gemäss Anhang 1 vorzunehmen.
 
-[^8-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^8-1]: Fassung gemäss Anhang Ziff. 5 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ## 3. Abschnitt: Schlussbestimmungen
 
@@ -202,19 +204,27 @@ Muss die Beglaubigung der Angaben nach Artikel 1 Absatz 2 Buchstaben c–g bei e
 [^9b-1]: Eingefügt durch Ziff. I der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
 [^9b-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
 
+#### Art. 9c
+
+**Übergangsbestimmung zur Änderung vom 20. November 2024**[^9c-1]
+
+Die Vorgaben nach Artikel 8 Absatz 1 und Anhang 1 dieser Verordnung in der Fassung vom 20. November 2024 gelten erstmals für das Lieferjahr 2025.
+
+[^9c-1]: Eingefügt durch Anhang Ziff. 5 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
 #### Art. 10
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 und 8)
 
 ## Anforderungen an die Stromkennzeichnung
 
-[^t-1]: Bereinigt gemäss Ziff. II der V des UVEK vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des UVEK vom 24. Nov. 2021 ([AS 2021 829](https://fedlex.data.admin.ch/eli/oc/2021/829)) und Anhang Ziff. 5 der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
 ### 1 Energieträger und Zuordnung
 
@@ -256,57 +266,6 @@ Anhang 1*[^t-1]*
 - 2\.1 Für die Lieferung in einem bestimmten Kalenderjahr sind nur Herkunftsnachweise mit einem Produktionszeitraum aus diesem Kalenderjahr zulässig.
 - 2\.2 Die Kennzeichnung muss sich auf die Daten des vorangegangenen Kalenderjahrs beziehen.
 - 2\.3 Grundlage für die Kennzeichnung bilden die Herkunfts- oder Ersatznachweise gemäss Ziffer 1.3, die für die im vergangenen Kalenderjahr produzierte Elektrizität ausgestellt wurden.
-- 2\.4 Die Kennzeichnung erfolgt mittels Tabelle, entsprechend dem Beispiel in Figur 1 oder Figur 2. Deren Masse müssen mindestens 10 × 7 cm betragen.
-- 2\.5 Wird in der Tabelle der Produktemix nach Artikel 4 Absatz 2 EnV angegeben (Beispiel: Figur 2), so ist auch auf den Fundort der gemeinsamen Veröffentlichung nach Artikel 4 Absatz 3 hinzuweisen.
-- Beispiel einer Tabelle zur Kennzeichnung von Elektrizität nach den Mindestanforderungen für die Angabe des Lieferantenmixes:
-
-Figur 1
-
-<table>
-<tr><td colspan="6">Stromkennzeichnung</td></tr>
-<tr><td>Ihr Stromlieferant:</td><td>EVU ABC</td><td colspan="4">(Bsp.)</td></tr>
-<tr><td>Kontakt:</td><td colspan="4">www.evu-abc.ch, (Bsp.), Tel. 099 999 99 99</td><td></td></tr>
-<tr><td>Bezugsjahr:</td><td>2019</td><td colspan="4"></td></tr>
-<tr><td colspan="3">Der gesamthaft unseren Kundinnen und Kunden gelieferte Strom wurde produziert aus:</td><td></td><td colspan="2"></td></tr>
-<tr><td>in %</td><td>**Total**</td><td colspan="4">**aus der Schweiz**</td></tr>
-<tr><td>erneuerbaren Energien</td><td>**58,0 %**</td><td colspan="4">**48,0 %**</td></tr>
-<tr><td>Wasserkraft</td><td>50,0 %</td><td colspan="4">40,0 %</td></tr>
-<tr><td>übrige erneuerbare Energien</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Biomasse Siedlungsabfälle</td><td>0,5 % 0,5 %</td><td colspan="4">0,5 % 0,5 %</td></tr>
-<tr><td>geförderter Strom<sup>1</sup></td><td>7,0 %</td><td colspan="4">7,0 %</td></tr>
-<tr><td>**nicht erneuerbaren Energien**</td><td>**42,0 %**</td><td colspan="4">**27,0 %**</td></tr>
-<tr><td>Kernenergie</td><td>41,0 %</td><td colspan="4">26,0 %</td></tr>
-<tr><td>fossile Energieträger</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>Siedlungsabfälle</td><td>1,0 %</td><td colspan="4">1,0 %</td></tr>
-<tr><td>**Total**</td><td>**100,0 %**</td><td colspan="4">**75,0 %**</td></tr>
-<tr><td colspan="6"><sup>1</sup> **Geförderter Strom: 40 % Wasserkraft, 20 % Sonnenenergie, 7 % Windener****gie, 29 % Biomasse, 1 % Siedlungsabfälle (erneuerbarer Anteil), 3 % Geothermie**</td></tr>
-</table>
-
-- Beispiel einer Tabelle zur Kennzeichnung von Elektrizität nach den Mindestanforderungen für die Angabe des Produktemixes:
-
-Figur 2
-
-<table>
-<tr><td colspan="4">Stromkennzeichnung</td></tr>
-<tr><td>Ihr Stromlieferant:</td><td>EVU ABC</td><td colspan="2">(Bsp.)</td></tr>
-<tr><td>Kontakt:</td><td colspan="2">www.evu-abc.ch (Bsp.), Tel. 099 999 99 99</td><td></td></tr>
-<tr><td>Bezugsjahr:</td><td>2019</td><td colspan="2"></td></tr>
-<tr><td colspan="4">Der Ihnen gelieferte Strom (Stromprodukt XYZ) wurde produziert aus:</td></tr>
-<tr><td>in %</td><td>**Total**</td><td colspan="2">**aus der Schweiz**</td></tr>
-<tr><td>erneuerbaren Energien</td><td>**99,0 %**</td><td colspan="2">**97,0 %**</td></tr>
-<tr><td>Wasserkraft</td><td>88,0 %</td><td colspan="2">88,0 %</td></tr>
-<tr><td>übrige erneuerbare Energien</td><td>4,0 %</td><td colspan="2">2,0 %</td></tr>
-<tr><td>Sonnenenergie</td><td>0,5 %</td><td colspan="2">0,5 %</td></tr>
-<tr><td>Windenergie</td><td>2,0 %</td><td colspan="2">0,0 %</td></tr>
-<tr><td>Biomasse Siedlungsabfälle</td><td>1,0 % 0,5 %</td><td colspan="2">1,0 % 0,5 %</td></tr>
-<tr><td>geförderter Strom<sup>1</sup></td><td>7,0 %</td><td colspan="2">7,0 %</td></tr>
-<tr><td>**nicht erneuerbaren Energien**</td><td>**1,0 %**</td><td colspan="2">**1,0** **%**</td></tr>
-<tr><td>Kernenergie</td><td>0,0 %</td><td colspan="2">0,0 %</td></tr>
-<tr><td>fossile Energieträger</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
-<tr><td>Siedlungsabfälle</td><td>1,0 %</td><td colspan="2">1,0 %</td></tr>
-<tr><td>**Total**</td><td>**100,0 %**</td><td colspan="2">**98,0 %**</td></tr>
-<tr><td colspan="4"><sup>1</sup> **Geförderter Strom: 40 % Wasserkraft, 20 % Sonnenenergie, 7 % Windenergie, 29 % Biomasse, 1 % Siedlungsabfälle (erneuerbarer Anteil), 3 % Geothermie**</td></tr>
-</table>
 
 Anhang 2
 
