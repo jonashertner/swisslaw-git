@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 21 aprile 2016 sulla promozione della presenza inte
 short: OPICin
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/292"
 language: it
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-292-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2016-292-20250101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20250101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20230101/it"
 
 (OPICin)
 
-del 21 aprile 2016 (Stato 1° gennaio 2023)
+del 21 aprile 2016 (Stato 1° gennaio 2025)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -40,7 +40,7 @@ La presente ordinanza disciplina le condizioni e la procedura per la concessione
 - b. aiuti finanziari al settore cinematografico svizzero quale compensazione per la non partecipazione al programma MEDIA dell’Unione europea e in vista della reintegrazione della Svizzera nel programma MEDIA (misure compensative MEDIA);
 - c.[^1-1] aiuti finanziari per promuovere lo sviluppo comune di progetti (sviluppo congiunto) di coproduzioni svizzere con l’estero sotto la responsabilità di una società di produzione estera.
 
-[^1-1]: Introdotta dal n. I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^1-1]: Introdotta dalla cifra I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 
 #### Art. 2
 
@@ -80,7 +80,7 @@ La presenza internazionale della cinematografia svizzera può essere sostenuta m
 
 <sup>2</sup> Gli obiettivi e gli indicatori per la valutazione degli strumenti di promozione sono stabiliti negli allegati 1 e 2.[^4-1]
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 5
 
@@ -124,8 +124,8 @@ Possono essere concessi aiuti finanziari per film di fiction, documentari e film
 - c.[^7-2] sono destinati a una prima commercializzazione nei cinema o alla diffusione attraverso una piattaforma digitale; e
 - d. non hanno accesso alle misure di sostegno alla distribuzione del programma MEDIA dell’Unione europea.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 8
 
@@ -140,7 +140,7 @@ Sono computabili le spese per le seguenti voci di preventivo, se maturano nel pe
 - e. le copie o i supporti elettronici nonché la codifica o la transcodifica;
 - f. il doppiaggio e la sottotitolazione.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 9
 
@@ -168,7 +168,7 @@ I progetti ricevono 5 punti supplementari in ciascuno dei casi seguenti:
 
 <sup>4</sup> Possono beneficiare di un sostegno i progetti che raggiungono almeno 75 punti. Le domande sono approvate nell’ordine della data di presentazione.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 10
 
@@ -178,7 +178,7 @@ I progetti ricevono 5 punti supplementari in ciascuno dei casi seguenti:
 
 <sup>2</sup> Se non dispone delle necessarie conoscenze specifiche, l’UFC sottopone per perizia le domande a esperti che conoscono i mercati di commercializzazione del Paese in questione.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 10a
 
@@ -188,7 +188,7 @@ I progetti ricevono 5 punti supplementari in ciascuno dei casi seguenti:
 
 <sup>2</sup> Possono presentare una domanda le società di produzione e le società di distribuzione mondiale con sede in Svizzera. Per il restante si applicano gli articoli 6–8 e 10.
 
-[^10a-1]: Introdotto dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^10a-1]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 11
 
@@ -206,7 +206,7 @@ L’aiuto finanziario può ammontare al massimo al 50 per cento delle spese comp
 
 <sup>3</sup> In caso di diffusione mediante servizi digitali su richiesta, il periodo di conteggio corrisponde ai primi 12 mesi della commercializzazione online.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 ### Sezione 3: Partecipazione di cineasti svizzeri a festival cinematografici, mercati del film o cerimonie di premiazione internazionali
 
@@ -237,7 +237,7 @@ Possono essere concessi aiuti finanziari per:
 
 <sup>2</sup> Possono beneficiare di un sostegno film svizzeri e film riconosciuti come coproduzioni svizzere con l’estero.[^14-1]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 
 #### Art. 15
 
@@ -245,7 +245,7 @@ Possono essere concessi aiuti finanziari per:
 
 L’UFC pubblica l’elenco dei principali festival cinematografici, mercati del film e cerimonie di premiazione internazionali per i quali può essere concesso un sostegno e i contributi forfettari o massimi applicabili alle singole manifestazioni e sezioni.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 
 #### Art. 16
 
@@ -262,7 +262,7 @@ Sono computabili le spese per le seguenti voci di preventivo:
 
 <sup>2</sup> Le spese per vitto e alloggio di cui al capoverso 1 lettera c sono determinate dai valori indicativi applicabili ai collaboratori del Dipartimento federale degli affari esteri.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 
 #### Art. 16a
 
@@ -272,7 +272,7 @@ Sono computabili le spese per le seguenti voci di preventivo:
 
 <sup>2</sup> Gli aiuti finanziari per la partecipazione a festival sono calcolati in forma forfettaria fino a 3000 franchi. L’importo forfettario è calcolato in base alla media delle spese computabili previste per la partecipazione al festival interessato o alla sezione interessata.
 
-[^16a-1]: Introdotto dal n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^16a-1]: Introdotto dalla cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 
 #### Art. 17
 
@@ -291,8 +291,8 @@ Le domande devono comprendere i documenti seguenti:
 
 <sup>3</sup> Le domande sono trattate nell’ordine della data di ricezione. Il pagamento dell’aiuto finanziario ha luogo entro i limiti dei crediti stanziati.[^17-2]
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 
 #### Art. 18
 
@@ -302,7 +302,7 @@ Le domande devono comprendere i documenti seguenti:
 
 <sup>2</sup> Gli altri aiuti finanziari sono versati su presentazione dei documenti giustificativi necessari, di un conteggio e di un breve rapporto. Tali documenti devono essere presentati entro due mesi dalla partecipazione.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 
 ### Sezione 4: Formazione continua di cineasti svizzeri
 
@@ -333,7 +333,7 @@ Possono essere concessi aiuti finanziari per la partecipazione a programmi di fo
 
 <sup>3</sup> L’UFC pubblica l’elenco dei programmi di formazione continua per i quali possono essere concessi aiuti finanziari.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 21
 
@@ -345,7 +345,7 @@ Sono computabili le spese per le seguenti voci di preventivo, purché raggiungan
 - b. spese di viaggio e spese aggiuntive per il soggiorno all’estero;
 - c. spese di traduzione, in particolare dei trattamenti e delle sceneggiature.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 22
 
@@ -363,7 +363,7 @@ Per la concessione dell’aiuto finanziario sono determinanti i criteri seguenti
 
 <sup>3</sup> È sussidiata una sola formazione continua per persona all’anno.[^22-1]
 
-[^22-1]: Introdotto dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^22-1]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 23
 
@@ -389,7 +389,7 @@ Alla domanda devono essere allegati i documenti seguenti:
 
 <sup>2</sup> L’importo massimo per una formazione continua è di 15 000 franchi.[^24-1]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 25
 
@@ -404,7 +404,7 @@ Gli aiuti finanziari superiori a 4000 franchi sono versati a rate:
 - a. la prima rata è versata quando è assicurata la partecipazione alla formazione continua ed è fornita prova del finanziamento residuo. Essa ammonta al massimo al 60 per cento;
 - b. la seconda rata è versata dopo che sono stati presentati il conteggio e il rapporto finale. I diplomi, gli attestati di partecipazione e altri certificati delle prestazioni fornite devono essere allegati spontaneamente al conteggio.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 ## Capitolo 3: Misure compensative MEDIA
 
@@ -428,8 +428,8 @@ Nei limiti del credito approvato, possono essere versati a titolo di misure comp
 
 <sup>2</sup> Gli obiettivi e gli indicatori per la valutazione degli strumenti di promozione sono stabiliti negli allegati 1 e 3.[^26-2]
 
-[^26-1]: Introdotta dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^26-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^26-1]: Introdotta dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 27
 
@@ -478,7 +478,7 @@ Può presentare una domanda di aiuto finanziario della promozione cinematografic
 - d. detiene la maggioranza dei diritti dell’opera per la quale chiede un sostegno;
 - e. ha allestito il conteggio per un eventuale sostegno a un pacchetto di progetti secondo gli articoli 36–43.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 
 #### Art. 30
 
@@ -516,7 +516,7 @@ Possono essere concessi aiuti finanziari per:
 Non sono concessi aiuti finanziari per i progetti seguenti:
 
 - a. riprese dal vivo, game show, talk show e reality show televisivi;
-- [tab] a<sup>bis</sup>.[^30-6] video musicali, videogiochi e libri interattivi;
+- a<sup>bis</sup>.[^30-6] video musicali, videogiochi e libri interattivi;
 - b. programmi d’informazione, servizi televisivi, reportage su viaggi, natura, paesaggi e animali e «docu-soap»;
 - c. film realizzati su ordinazione o a scopo pubblicitario, film con una finalità essenzialmente didattica, film che ledono la dignità umana, sono discriminanti, esaltano o minimizzano la violenza o hanno un carattere pornografico (art. 16 LCin);
 - d. progetti che, dopo essere stati respinti una prima volta, non sono stati rielaborati nei punti essenziali;
@@ -526,10 +526,10 @@ Non sono concessi aiuti finanziari per i progetti seguenti:
 
 [^30-1]: [RS 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
 [^30-2]: [RS 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
-[^30-3]: Nuovo testo giusta il n. I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
-[^30-4]: Introdotta dal n. I dell’O del DFI dell’8 giu. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^30-5]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^30-6]: Introdotta dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^30-3]: Nuovo testo giusta la cifra I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^30-4]: Introdotta dalla cifra I dell’O del DFI dell’8 giu. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^30-5]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^30-6]: Introdotta dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 31
 
@@ -554,8 +554,8 @@ Sono computabili le spese previste per lo sviluppo del progetto, dalla presentaz
 - i. produzione del trattamento video oppure del film pilota;
 - j. al massimo il sette per cento delle spese generali, se queste non sono già iscritte a preventivo separatamente.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^32-2]: Nuovo testo giusta il n. I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^32-2]: Nuovo testo giusta la cifra I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 
 #### Art. 33
 
@@ -577,7 +577,7 @@ Sono computabili le spese previste per lo sviluppo del progetto, dalla presentaz
 
 <sup>4</sup> Se i progetti che possono beneficiare di un sostegno eccedono i crediti disponibili alla scadenza del termine di presentazione, sono sostenuti i progetti con il punteggio più elevato.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^33-2]: [RS 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
 [^33-3]: [RS 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
 
@@ -602,8 +602,8 @@ Alla promozione di progetti singoli nel quadro della misura compensativa MEDIA �
 
 - d. per le serie: 60 000 franchi.[^34-2]
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 35
 
@@ -615,8 +615,8 @@ Alla promozione di progetti singoli nel quadro della misura compensativa MEDIA �
 
 <sup>3</sup> Se il conteggio del progetto non è allestito entro 18 mesi dal versamento della prima rata, deve essere presentato spontaneamente un rapporto intermedio corredato di un conteggio intermedio. Una proroga di sei mesi è possibile in casi motivati.[^35-2]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
-[^35-2]: Introdotto dal n. I dell’O del DFI dell’8 giu. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^35-2]: Introdotto dalla cifra I dell’O del DFI dell’8 giu. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 ### Sezione 3: Sviluppo di opere audiovisive con un potenziale europeo: promozione di pacchetti di progetti
 
@@ -650,7 +650,7 @@ Può presentare una domanda di aiuto finanziario della promozione cinematografic
 
 [^37-1]: [RS 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
 [^37-2]: [RS 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
-[^37-3]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^37-3]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 38
 
@@ -664,7 +664,7 @@ I progetti che compongono il pacchetto devono soddisfare i criteri per beneficia
 
 Sono computabili le spese presumibili per lo sviluppo del progetto, dalla presentazione della domanda fino all’inizio delle riprese, per le voci di preventivo di cui all’articolo 32.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 40
 
@@ -686,7 +686,7 @@ Sono computabili le spese presumibili per lo sviluppo del progetto, dalla presen
 
 <sup>4</sup> Se i progetti che possono beneficiare di un sostegno eccedono i crediti disponibili alla scadenza del termine di presentazione, sono sostenuti i progetti con il punteggio più elevato.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 41
 
@@ -716,9 +716,9 @@ Gli aiuti finanziari previsti per il pacchetto o i progetti che lo compongono no
 
 <sup>5</sup> L’ultima rata è versata una volta presentato il conteggio dell’intero pacchetto. Il conteggio deve essere esaminato da una persona o una società fiduciaria abilitata secondo la legge del 16 dicembre 2005[^43-4] sui revisori.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
-[^43-3]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^43-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^43-3]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^43-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### Sezione 4: Aiuti finanziari della promozione cinematografica selettiva per la distribuzione in Svizzera di film europei
@@ -775,13 +775,13 @@ Non sono concessi aiuti finanziari per:
 - h.[^45-7] film la cui distribuzione è stata sostenuta tramite il fondo di sostegno al cinema del Consiglio d’Europa «EURIMAGES»[^45-8] se la quota di finanziamento della Confederazione e la quota di finanziamento del fondo di sostegno al cinema «EURIMAGES» sono superiori al 50 per cento delle spese di distribuzione;
 - i. film ai quali è stata negata due volte una promozione della distribuzione ai sensi della presente ordinanza.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
-[^45-2]: Nuovo testo giusta il n. I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
-[^45-3]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^45-4]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^45-5]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^45-6]: Abrogata dal n. I dell’O del DFI del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^45-7]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^45-2]: Nuovo testo giusta la cifra I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^45-3]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^45-4]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^45-5]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^45-6]: Abrogata dalla cifra I dell’O del DFI del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^45-7]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 [^45-8]: Règles 2017–2018 – Programme de soutien à la distribution del 13 marzo 2017, disponibile gratuitamente su Internet all’indirizzo: www.coe.int/ &gt; FR &gt; Democratie &gt; Eurimages &gt; Programmes &gt; Distribution &gt; Réglementation en vigueur.
 
 #### Art. 46
@@ -796,8 +796,8 @@ Sono computabili le spese delle seguenti voci di preventivo:
 - d.[^46-1] costi per il materiale come copie, Digital Cinema Package (DCP) e codifica;
 - e.[^46-2] doppiaggio, sottotitolazione e audiodescrizione.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^46-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^46-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 47
 
@@ -823,7 +823,7 @@ I film sono suddivisi nelle categorie seguenti in base alle loro spese di realiz
 
 <sup>4</sup> È sostenuta la distribuzione dei film che nelle categorie di cui al capoverso 1 raggiungono il punteggio più elevato. In entrambe le categorie è sostenuta primariamente la distribuzione di film per bambini e giovani che raggiungono il punteggio più elevato. La priorità attribuita ai film per bambini e giovani non si applica ai film d’animazione.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 48
 
@@ -849,8 +849,8 @@ I film sono suddivisi nelle categorie seguenti in base alle loro spese di realiz
 
 <sup>5</sup> Determinante per il calcolo del contributo è il numero di schermi nella settimana in cui il film è proiettato sul maggior numero di schermi. In caso di uscita in diverse regioni linguistiche della Svizzera nell’arco di 12 mesi, sono prese in considerazione separatamente per regione le settimane in cui il film è stato proiettato sul maggior numero di schermi e in seguito addizionate.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^48-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^48-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 49
 
@@ -862,7 +862,7 @@ I film sono suddivisi nelle categorie seguenti in base alle loro spese di realiz
 
 <sup>3</sup> La seconda rata è versata dopo che è stato documentato il numero di proiezioni e schermi ed è stato presentato il conteggio.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 ### Sezione 5: Aiuti finanziari della promozione legata al successo per la distribuzione in Svizzera di film europei
 
@@ -872,7 +872,7 @@ I film sono suddivisi nelle categorie seguenti in base alle loro spese di realiz
 
 Può presentare una domanda di aiuto finanziario della promozione della distribuzione legata al successo di film europei in Svizzera qualsiasi società di distribuzione svizzera iscritta nel registro dei distributori che può provare di detenere i diritti cinematografici per la Svizzera per il corrispondente periodo di commercializzazione.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 
 #### Art. 51
 
@@ -896,8 +896,8 @@ Non sono ammessi alla promozione della distribuzione legata al successo:[^51-1]
 - b. film realizzati su ordinazione o a scopo pubblicitario, film con una finalità essenzialmente didattica, film che ledono la dignità umana, sono discriminanti, esaltano o minimizzano la violenza o hanno un carattere pornografico (art. 16 LCin);
 - c.[^51-2] film svizzeri e film riconosciuti come coproduzioni svizzere con l’estero con regia svizzera.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^51-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^51-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 52
 
@@ -924,8 +924,8 @@ Non sono ammessi alla promozione della distribuzione legata al successo:[^51-1]
 
 <sup>7</sup> Per società di distribuzione e anno sono accreditati al massimo 350 000 franchi.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
-[^52-2]: Nuovo testo giusta il n. I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^52-2]: Nuovo testo giusta la cifra I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 
 #### Art. 53
 
@@ -951,8 +951,8 @@ Sono computabili per il reinvestimento:
 <sup>4</sup> L’accredito deve essere reinvestito entro il termine di 12 mesi indicato nella comunicazione dell’importo dell’accredito.[^53-3]
 
 [^53-1]: [RS 443.113](https://fedlex.data.admin.ch/eli/cc/2016/291)
-[^53-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^53-3]: Introdotto dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^53-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^53-3]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 54
 
@@ -960,7 +960,7 @@ Sono computabili per il reinvestimento:
 
 Il reinvestimento degli accrediti non può superare il 60 per cento delle spese computabili.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 55
 
@@ -972,7 +972,7 @@ Il reinvestimento degli accrediti non può superare il 60 per cento delle spese 
 
 <sup>3</sup> La seconda rata è versata dopo che è stato presentato il conteggio. Il conteggio deve pervenire entro 12 mesi dalla scadenza del termine di reinvestimento, altrimenti la seconda rata decade. Previa richiesta tempestiva e motivata, è possibile una proroga unica di sei mesi.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 ### Sezione 6: Progetti di formazione continua con un orientamento europeo o internazionale
 
@@ -1019,8 +1019,8 @@ Possono essere concessi aiuti finanziari per:
   - 11\. specialisti in postproduzione,
   - 12\. persone del settore giuridico o finanziario attive nel settore audiovisivo.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^57-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^57-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 58
 
@@ -1065,7 +1065,7 @@ Sono computabili le spese seguenti:
 
 <sup>4</sup> Se i progetti che possono beneficiare di un sostegno eccedono i crediti disponibili alla scadenza del termine di presentazione, sono sostenuti i progetti con il punteggio più elevato.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 61
 
@@ -1083,8 +1083,8 @@ Sono computabili le spese seguenti:
 
 <sup>2</sup> L’ultima rata è versata dopo che sono stati presentati il conteggio e il rapporto finale.
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^62-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^62-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### Sezione 7: Accesso al mercato di cineasti europei e delle loro opere
 
@@ -1117,7 +1117,7 @@ Non possono essere concessi aiuti finanziari per:
 - b. la diffusione e la commercializzazione di prodotti propri;
 - c. videogiochi.
 
-[^64-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^64-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 65
 
@@ -1141,7 +1141,7 @@ Sono computabili le spese seguenti:[^66-1]
 
 <sup>2</sup> Per ogni progetto oggetto di una domanda di aiuto finanziario deve essere presentato un preventivo separato.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 67
 
@@ -1179,7 +1179,7 @@ Sono computabili le spese seguenti:[^66-1]
 
 <sup>4</sup> Se i progetti che possono beneficiare di un sostegno eccedono i crediti disponibili alla scadenza del termine di presentazione, sono sostenuti i progetti con il punteggio più elevato*.*
 
-[^67-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^67-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 68
 
@@ -1195,8 +1195,8 @@ L’aiuto finanziario non può superare il 60 per cento delle spese computabili.
 
 <sup>2</sup> L’ultima rata è versata dopo che sono stati presentati il conteggio e un rapporto finale.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^69-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^69-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### Sezione 8: Festival cinematografici che presentano film europei
 
@@ -1228,8 +1228,8 @@ Non possono essere concessi aiuti finanziari per festival:
 - a. dedicati a un tema specifico, quali la medicina, l’ambiente o la scienza;
 - b. incentrati su film pubblicitari, riprese dal vivo, serie televisive, videoclip, videogiochi, film amatoriali, film realizzati con il cellulare o opere artistiche senza carattere narrativo.
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^71-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^71-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 72
 
@@ -1294,7 +1294,7 @@ Non sono computabili:
 
 <sup>4</sup> Se i progetti che possono beneficiare di un sostegno eccedono i crediti disponibili alla scadenza del termine di presentazione, sono sostenuti i progetti con il punteggio più elevato.
 
-[^74-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^74-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 75
 
@@ -1324,7 +1324,7 @@ Non sono computabili:
 
 <sup>2</sup> Se un festival presenta sia lungometraggi che cortometraggi, quattro cortometraggi equivalgono a un lungometraggio.
 
-[^75-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^75-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 76
 
@@ -1334,13 +1334,13 @@ Non sono computabili:
 
 <sup>2</sup> La seconda rata è versata dopo che sono stati presentati il conteggio e il rapporto finale.
 
-[^76-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^76-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ### Sezione 9: Promozione della collaborazione europea nell’ambito della mediazione cinematografica
 
 [^chap3-sec9-1]
 
-[^chap3-sec9-1]: Introdotta dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^chap3-sec9-1]: Introdotta dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 76a
 
@@ -1443,13 +1443,13 @@ Sono computabili le spese seguenti:
 
 <sup>2</sup> L’ultima rata è versata dopo che sono stati presentati il conteggio e il rapporto finale.
 
-[^76g-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^76g-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 ## Capitolo 3*a*: Promozione dello sviluppo congiunto di coproduzioni svizzere con l’estero sotto la responsabilità di una società di produzione estera
 
 [^chap3a-1]
 
-[^chap3a-1]: Introdotto dal n. I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^chap3a-1]: Introdotto dalla cifra I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 
 #### Art. 76h
 
@@ -1607,7 +1607,7 @@ Si applicano i seguenti importi massimi:
 
 Il calcolo degli accrediti della promozione della distribuzione legata al successo (art. 52 cpv. 4) per l’anno civile 2018 è svolto secondo le aliquote di cui alla legge anteriore.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^77-1]: Nuovo testo giusta la cifra I dell’O del DFI dell’8 giu. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
 
 #### Art. 77a
 
@@ -1623,9 +1623,9 @@ Il calcolo degli accrediti della promozione della distribuzione legata al succes
 
 <sup>5</sup> Al reinvestimento degli accrediti secondo gli articoli 53–55 si applica il diritto vigente al momento della presentazione della domanda. Alle domande di reinvestimento presentate nel 2021 o nel 2022, in deroga all’articolo 54 si applica una quota pari al 70 per cento delle spese computabili.[^77a-3]
 
-[^77a-1]: Introdotto dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^77a-2]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
-[^77a-3]: Nuovo testo giusta il n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^77a-1]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^77a-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^77a-3]: Nuovo testo giusta la cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 77b
 
@@ -1633,7 +1633,7 @@ Il calcolo degli accrediti della promozione della distribuzione legata al succes
 
 Il calcolo degli accrediti della promozione della distribuzione legata al successo (art. 52 cpv. 4) per l’anno civile 2021 avviene in base alle nuove aliquote.
 
-[^77b-1]: Introdotto dal n. I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^77b-1]: Introdotto dalla cifra I dell’O del DFI del 18 feb. 2022, in vigore dal 1° gen. 2022 ([RU 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
 #### Art. 77c
 
@@ -1645,7 +1645,7 @@ Il calcolo degli accrediti della promozione della distribuzione legata al succes
 
 <sup>3</sup> Alle domande di reinvestimento degli accrediti secondo gli articoli 53–55 presentate nel 2023, in deroga all’articolo 54 si applica una quota pari al massimo al 70 per cento delle spese computabili.
 
-[^77c-1]: Introdotto dal n. I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^77c-1]: Introdotto dalla cifra I dell’O del DFI del 19 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 
 #### Art. 78
 
@@ -1657,8 +1657,11 @@ Il calcolo degli accrediti della promozione della distribuzione legata al succes
 
 <sup>3</sup> Gli allegati hanno effetto sino al 31 dicembre 2024.[^78-2]
 
-[^78-1]: Abrogato dal n. I dell’O del DFI del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^78-2]: Introdotto dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+<sup>4</sup> Il periodo di validità degli allegati è prorogato fino al 31 dicembre 2025.[^78-3]
+
+[^78-1]: Abrogato dalla cifra I dell’O del DFI del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^78-2]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^78-3]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 762](https://fedlex.data.admin.ch/eli/oc/2024/762)).
 
 Allegato 1[^t-1]
 
@@ -1666,7 +1669,7 @@ Allegato 1[^t-1]
 
 ## Obiettivi generali di promozione 2021–2024
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). In vigore fino al 31 dic. 2025 (vedi art. 78 cpv. 4).
 
 La promozione della presenza internazionale della cinematografia svizzera e le misure compensative MEDIA della Confederazione per il periodo 2021–2024 perseguono i seguenti obiettivi generali:
 
@@ -1680,7 +1683,7 @@ Allegato 2[^t-2]
 
 ## Regime di promozione 2021–2024 per la promozione della presenza internazionale della cinematografia svizzera
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). In vigore fino al 31 dic. 2025 (vedi art. 78 cpv. 4).
 
 ### 1 Obiettivi e indicatori
 
@@ -1730,7 +1733,7 @@ Allegato 3[^t-3]
 
 ## Regime di promozione 2021–2024 per le misure compensative MEDIA
 
-[^t-3]: Introdotto dal n. II cpv. 2 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^t-3]: Introdotto dal n. II cpv. 2 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). In vigore fino al 31 dic. 2025 (vedi art. 78 cpv. 4).
 
 ### 1 Obiettivi e indicatori
 

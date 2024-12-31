@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 21. April 2016 über die Förderung der internatio
 short: IPFiV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/292"
 language: de
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-292-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-292-20250101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20250101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20230101/de"
 
 (IPFiV)
 
-vom 21. April 2016 (Stand am 1. Januar 2023)
+vom 21. April 2016 (Stand am 1. Januar 2025)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -1659,8 +1659,11 @@ Die Berechnung der Gutschriften der erfolgsabhängigen Verleihförderung (Art. 5
 
 <sup>3</sup> Die Anhänge gelten bis zum 31. Dezember 2024.[^78-2]
 
+<sup>4</sup> Die Geltungsdauer der Anhänge wird bis zum 31. Dezember 2025 verlängert.[^78-3]
+
 [^78-1]: Aufgehoben durch Ziff. I der V des EDI vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^78-2]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^78-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 762](https://fedlex.data.admin.ch/eli/oc/2024/762)).
 
 Anhang 1[^t-1]
 
@@ -1668,7 +1671,7 @@ Anhang 1[^t-1]
 
 ## Allgemeine Förderziele 2021–2024
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). In Kraft bis zum 31. Dez. 2025 (siehe Art. 78 Abs. 4).
 
 Die Förderung der internationalen Präsenz des Schweizer Filmschaffens sowie die MEDIA-Ersatzmassnahmen des Bundes für die Periode 2021–2024 verfolgen die folgende übergreifende Ziele:
 
@@ -1682,7 +1685,7 @@ Anhang 2[^t-2]
 
 ## Förderungskonzept 2021–2024 für die Förderung der internationalen Präsenz des Schweizer Filmschaffens
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). In Kraft bis zum 31. Dez. 2025 (siehe Art. 78 Abs. 4).
 
 ### 1 Ziele und Indikatoren
 
@@ -1732,7 +1735,7 @@ Anhang 3[^t-3]
 
 ## Förderungskonzept 2021–2024 für die MEDIA-Ersatz-Massnahmen
 
-[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). In Kraft bis zum 31. Dez. 2025 (siehe Art. 78 Abs. 4).
 
 ### 1 Ziele und Indikatoren
 

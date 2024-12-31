@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 21 avril 2016 sur les mesures d'encouragement de la
 short: OPICin
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/292"
 language: fr
-version: 2023-01-01
+version: 2025-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-292-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-292-20250101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20250101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20230101/fr"
 
 (OPICin)
 
-du 21 avril 2016 (État le 1<sup>er</sup> janvier 2023)
+du 21 avril 2016 (État le 1<sup>er</sup> janvier 2025)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -88,13 +88,14 @@ La présence internationale de la cinématographie suisse peut être encouragée
 
 <sup>1</sup> L’Office fédéral de la culture est compétent pour l’octroi des aides financières dans le cadre des mesures d’encouragement de la présence internationale de la création cinématographique suisse.[^5-1]
 
-<sup>2</sup> d. faire un examen préliminaire des décomptes et vérifier que les obligations découlant du droit des subventions ont été respectées.
+<sup>2</sup>
 
 Les tâches suivantes sont assignées à la fondation «Swiss Films»:
 
 - a. informer la branche cinématographique des mesures d’aide à l’exportation et des aides à la participation à des festivals de films, à des marchés cinématographiques et à des remises de distinctions;
 - b. recevoir les demandes d’aides financières et les soumettre à un examen préliminaire;
 - c. organiser les expertises pour les demandes d’aide à l’exportation;
+- d. faire un examen préliminaire des décomptes et vérifier que les obligations découlant du droit des subventions ont été respectées.
 
 <sup>3</sup> L’étendue des tâches, l’indemnité ainsi que les modalités de la collaboration et du contrôle exercé par l’État sont réglées dans une convention de prestations passée entre la fondation «Swiss Films» et l’OFC.
 
@@ -1664,8 +1665,11 @@ La nouvelle base de calcul pour les bonifications de l’aide liée au succès p
 
 <sup>3</sup> Les annexes ont effet jusqu’au 31 décembre 2024.[^78-2]
 
+<sup>4</sup> La durée de validité des annexes est prolongée jusqu’au 31 décembre 2025.[^78-3]
+
 [^78-1]: Abrogé par le ch. I de l’O du DFI du 18 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^78-2]: Introduit par le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^78-3]: Introduit par le ch. I de l’O du DFI du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 762](https://fedlex.data.admin.ch/eli/oc/2024/762)).
 
 Annexe 1[^t-1]
 
@@ -1673,7 +1677,7 @@ Annexe 1[^t-1]
 
 ## Objectifs généraux de l’encouragement pour les années 2021 à 2024
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). En vigueur jusqu’au 31 déc. 2025 (voir art. 78, al. 4).
 
 - [tab] L’encouragement de la présence internationale de la création cinématographique suisse et les mesures compensatoires MEDIA de la Confédération pour les années 2021 à 2024 poursuivent les objectifs supérieurs suivants:
 - – renforcement de la visibilité de la création cinématographique suisse en Suisse et à l’étranger;
@@ -1686,7 +1690,7 @@ Annexe 2[^t-2]
 
 ## Régime d’encouragement concernant les mesures d’encouragement de la présence internationale de la création cinématographique suisse pour les années 2021 à 2024
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). En vigueur jusqu’au 31 déc. 2025 (voir art. 78, al. 4).
 
 ### 1 Objectifs et indicateurs
 
@@ -1736,7 +1740,7 @@ Annexe 3[^t-3]
 
 ## Régime d’encouragement concernant les mesures compensatoires MEDIA pour les années 2021 à 2024
 
-[^t-3]: Introduite par le ch. II al. 2 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^t-3]: Introduite par le ch. II al. 2 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). En vigueur jusqu’au 31 déc. 2025 (voir art. 78, al. 4).
 
 ### 1 Objectifs et indicateurs
 
