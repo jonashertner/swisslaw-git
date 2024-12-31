@@ -4,7 +4,7 @@ number: "832.11.2"
 title: "ARRÊTÉ du 23.05.2012 fixant les montants destinés à couvrir la part du coût, non prise en charge par l'assurance-maladie (financement résiduel), des soins effectués par des infirmiers et infirmières exerçant de façon professionnellement indépendante et par des organisations de soins à domicile privées (AFinRés)"
 short: AFinRés
 language: fr
-version: 2024-01-01
+version: 2025-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.11.2?id=5d4b1746-8549-4fa0-9a2a-d9c14c789811"
 ---
 
@@ -105,14 +105,14 @@ Annexes [^4-1]
 
 1
 
-[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/1?dmev=01.01.2024)
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/1?dmev=01.01.2025)
 
 2
 
-[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/2?dmev=01.01.2024)
+[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/2?dmev=01.01.2025)
 
 3
 
-[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/3?dmev=01.01.2024)
+[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/5d4b1746-8549-4fa0-9a2a-d9c14c789811/annexes/3?dmev=01.01.2025)
 
 [^4-1]: Modif. 2 du 11.12.2019: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2020 · Modif. 3 du 20.01.2021: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2021 · Modif. 4 du 17.04.2024: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2024; Introduction Annexes, Ann. 3; entrée en vigueur au 01.01.2024 · Modif. 5 du 03.07.2024: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2024 · Modif. 6 du 03.12.2025: Modification Annexes, Ann. 1-2; entrée en vigueur au 01.01.2025 · Modif. 7 du 29.06.2026: Introduction Annexes, Ann. 4; entrée en vigueur au 29.06.2026
