@@ -4,13 +4,12 @@ number: "843"
 title: Kantonale Lebensmittelverordnung
 short: KLMV
 language: de
-version: 2018-01-01
-valid_until: 2024-12-31
-version_adopted: 2017-12-19
+version: 2025-01-01
+version_adopted: 2024-12-10
 adopted: 1995-12-05
 in_force: 1996-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/843"
-pdf: "https://srl.lu.ch/api/de/versions/3202/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4350/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3202/pdf_file"
 
 (KLMV)
 
-vom 05.12.1995 (Stand 01.01.2018)
+vom 05.12.1995 (Stand 01.01.2025)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -74,7 +73,7 @@ beschliesst:
 
 <sup>2</sup> Für besondere Kontrollen kann der Kantonschemiker oder die Kantonschemikerin weitere Kontrollorgane einsetzen.
 
-<sup>3</sup> Als Kontrollorgane können nur Personen eingesetzt werden, welche die Voraussetzungen gemäss der eidgenössischen Verordnung über den Vollzug der Lebensmittelgesetzgebung (LMVV) vom 16. Dezember 2016[^4-1] erfüllen.
+<sup>3</sup> Als Kontrollorgane können nur Personen eingesetzt werden, welche die Voraussetzungen gemäss der eidgenössischen Verordnung über den Vollzug der Lebensmittelgesetzgebung (LMVV) vom 27. Mai 2020[^4-1] erfüllen.
 
 [^4-1]: SR [817.042](https://db.clex.ch/link/Bund/817.042/de)
 
@@ -145,22 +144,24 @@ beschliesst:
 - b. …
 - c. …
 
-<sup>2</sup> Für Kontrollen, die zu Beanstandungen führen, gilt der Gebührenrahmen nach Artikel 113 LMVV.
+<sup>2</sup> Für Kontrollen, die zu Beanstandungen führen, gilt der Gebührenrahmen nach Artikel 112 Absatz 2 LMVV[^12-2].
 
-<sup>3</sup> Für besondere Dienstleistungen und Kontrollen, die nicht von Amtes wegen durchgeführt werden, wie beispielsweise Etiketten- und Planbeurteilungen, sowie für besondere Aufwendungen bei Inspektionen, wie beispielsweise Fotografien und erweiterte Abklärungen, beträgt der Stundenansatz 80 bis 170 Franken.
+<sup>3</sup> Für Kontrollen, die zu Beanstandungen führen, für besondere Dienstleistungen und Kontrollen, die nicht von Amtes wegen durchgeführt werden, wie beispielsweise Etiketten- und Planbeurteilungen, sowie für besondere Aufwendungen bei Kontrollen, wie beispielsweise Fotografien und erweiterte Abklärungen, beträgt der Stundenansatz 40 bis 85 Aufwandpunkte. Der Wert eines Aufwandpunktes beträgt Fr. 2.30.
 
-<sup>4</sup> Die Gebührenhöhe für Laboruntersuchungen bemisst sich nach dem vom Verband der Kantonschemiker der Schweiz erarbeiteten Gebührentarif. Der Wert eines Aufwandpunktes beträgt Fr. 2.20.
+<sup>4</sup> Die Gebührenhöhe für Laboruntersuchungen bemisst sich nach dem vom Verband der Kantonschemiker der Schweiz erarbeiteten Gebührentarif. Der Wert eines Aufwandpunktes bemisst sich nach Absatz 3.
 
 <sup>5</sup> Daneben können folgende Gebühren anfallen:
 
-- a. Wegpauschale bei Probenerhebungen und Inspektionen — 15 Aufwandpunkte
-- b. erster beanstandeter Sachverhalt bei Inspektionen — 15 Aufwandpunkte
-- c. jeder weitere beanstandete Sachverhalt — 5 Aufwandpunkte
+- a. Wegpauschale bei Probenerhebungen und Kontrollen — 20 Aufwandpunkte
+- b. erster beanstandeter Sachverhalt bei Kontrollen — 25 Aufwandpunkte
+- c. jeder weitere beanstandete Sachverhalt — 10 Aufwandpunkte
+- d. Administration (pro Stunde) — 60 Aufwandpunkte
 
-<sup>6</sup> Im Übrigen gelten der Gebührentarif und die Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^12-2].
+<sup>6</sup> Im Übrigen gelten der Gebührentarif und die Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^12-3].
 
 [^12-1]: SR [817.0](https://db.clex.ch/link/Bund/817.0/de)
-[^12-2]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
+[^12-2]: SR [817.042](https://db.clex.ch/link/Bund/817.042/de)
+[^12-3]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
 
 ## 4 Rechtsschutz
 
@@ -168,7 +169,7 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Gegen Verfügungen der Kontrollorgane der Lebensmittelkontrolle sowie der Prüfungskommission für Lebensmittelkontrolleure und -kontrolleurinnen kann innerhalb von fünf Tagen schriftlich und begründet Einsprache bei der Dienststelle Lebensmittelkontrolle und Verbraucherschutz erhoben werden. Das Rechtsmittelverfahren gegen den Einspracheentscheid bestimmt sich nach dem Gesetz über die Verwaltungsrechtspflege vom 3. Juli 1972[^13-1], soweit das eidgenössische Recht nichts anderes vorsieht.
+<sup>1</sup> Gegen Verfügungen der Kontrollorgane der Lebensmittelkontrolle sowie der Prüfungskommission für Lebensmittelkontrolleure und -kontrolleurinnen kann innerhalb von zehn Tagen schriftlich und begründet Einsprache bei der Dienststelle Lebensmittelkontrolle und Verbraucherschutz erhoben werden. Das Rechtsmittelverfahren gegen den Einspracheentscheid bestimmt sich nach dem Gesetz über die Verwaltungsrechtspflege vom 3. Juli 1972[^13-1], soweit das eidgenössische Recht nichts anderes vorsieht.
 
 [^13-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
 
