@@ -4,13 +4,13 @@ number: "615.11"
 title: Gebührentarif
 short: GT
 language: de
-version: 2024-07-01
-valid_until: 2024-12-31
-version_adopted: 2023-11-07
+version: 2025-01-01
+valid_until: 2025-12-31
+version_adopted: 2024-06-25
 adopted: 2016-03-08
 in_force: 2016-07-15
 url: "https://bgs.so.ch/app/de/texts_of_law/615.11"
-pdf: "https://bgs.so.ch/api/de/versions/5434/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5527/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5434/pdf_file"
 
 (GT)
 
-Vom 08.03.2016 (Stand 01.07.2024)
+Vom 08.03.2016 (Stand 01.01.2025)
 
 Der Kantonsrat von Solothurn
 
@@ -154,7 +154,9 @@ beschliesst:
 
 **Haftung**
 
-<sup>1</sup> Für Gebühren und Auslagenersatz haften alle an einem Geschäft beteiligten Parteien solidarisch, ausgenommen gegnerische Prozessparteien.
+<sup>1</sup> Für Gebühren und Auslagenersatz haften alle an einem Geschäft beteiligten Parteien solidarisch, ausgenommen gegnerische Prozessparteien. Vorbehalten bleiben die Vorschriften der Schweizerischen Zivilprozessordnung (ZPO) vom 19. Dezember 2008[^13-1].
+
+[^13-1]: SR [272](https://db.clex.ch/link/Bund/272/de).
 
 #### § 14
 
@@ -384,8 +386,8 @@ beschliesst:
 
 <sup>1</sup> Folgende Gebühr ist geschuldet für die
 
-- a) Genehmigung von Vereinbarungen nach dem Volksschulgesetz vom 14. September 1969[^32-1] — 50-800
-- b) Genehmigung des Organisationsstatus von Zweckverbänden nach dem Volksschulgesetz vom 14. September 1969[^32-2] — 800-1'000
+- a) Genehmigung von Vereinbarungen nach dem Volksschulgesetz (VSG) vom 26. Januar 2022[^32-1] — 50-800
+- b) Genehmigung des Organisationsstatus von Zweckverbänden nach dem Volksschulgesetz (VSG) vom 26. Januar 2022[^32-2] — 800-1'000
 - c) Wiedererteilung der Unterrichtsberechtigung — 200-1'000
 
 [^32-1]: BGS [413.111](https://bgs.so.ch/data/413.111/de).
@@ -449,18 +451,7 @@ beschliesst:
 
 #### § 37
 
-**Gebäudeversicherung**
-
-<sup>1</sup> Für folgende Dienstleistungen der Gebäudeversicherung ist eine Gebühr geschuldet:
-
-- a) Beschwerdeentscheid der Verwaltungskommission der Solothurnischen Gebäudeversicherung (SGV) — 50-2'000
-- b) Verkehrswertschätzung von Grundstücken durch eine Schätzungskommission der SGV — 300-3'000
-- c) …
-- d) …
-- e) Bewilligung zur berufsmässigen Ausführung von Gebäudeblitzschutzvorrichtungen — 100
-- f) Auskünfte über Versicherungswerte — 50-300
-
-<sup>2</sup> Die Gebühren nach Absatz 1 gehen an die SGV.
+**…**
 
 ### 2.2.7. Gemeinden
 
@@ -1048,7 +1039,7 @@ beschliesst:
 - c) Löschung der Ermächtigung zur Ausübung des Notariats:
   - 1\. auf eigenes Gesuch — 350
   - 2\. nicht auf eigenes Gesuch — 350-10'000
-- d) Entgegennahme der Notariatsakten zur Aufbewahrung — 100-2'000
+- d) Entgegennahme der Notariatsakten zur Aufbewahrung — 100-5'000
 - e) Eintragung und Löschung eines Notars im Schweizerischen Register der Urkundspersonen — 200
 
 #### § 95
@@ -1967,7 +1958,7 @@ beschliesst:
 
 - a) Pauschalgebühren als Schlichtungsbehörde in Zivilsachen:
   - 1\. Bei Erledigung der Streitsache durch Klageanerkennung, Vergleich oder Klagerückzug oder bei Ausstellung einer Klagebewilligung — 50-100
-  - 2\. Für einen Urteilsvorschlag oder Entscheid — 50-200
+  - 2\. Für einen Entscheidvorschlag oder Entscheid — 50-200
 - b) Gebühren in Strafsachen: Für den Erlass eines Strafbefehls oder einer Einstellungsverfügung — 50
 - c) Gebühren für andere Tätigkeiten:
   - 1\. Durchführung einer Steigerung von anderen Gegenständen als Grundstücken, Vieh und Handelsware und Mitwirkung beim Verkauf von Waren, pro Stunde — 40
