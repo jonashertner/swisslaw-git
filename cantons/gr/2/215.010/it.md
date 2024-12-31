@@ -4,13 +4,12 @@ number: "215.010"
 title: Ordinanza relativa alla protezione dei minori e degli adulti
 short: OPMinA
 language: it
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-02
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2021-11-02
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/215.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3195/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3460/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3195/pdf_file"
 
 (OPMinA)
 
-del 02.11.2021 (stato 01.01.2022)
+del 02.11.2021 (stato 01.01.2025)
 
 emanata dal Governo il 2 novembre 2021
 
@@ -457,6 +456,6 @@ visto l'art. 66 della legge d'introduzione al Codice civile svizzero[^ingress-1]
 
 **Scambi professionali**
 
-<sup>1</sup> Il Dipartimento cura regolari scambi professionali con il Tribunale cantonale.
+<sup>1</sup> Il Dipartimento cura regolari scambi professionali con il Tribunale d'appello.
 
 2021-034

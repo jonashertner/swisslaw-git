@@ -4,13 +4,12 @@ number: "215.010"
 title: "Ordinaziun davart la protecziun d'uffants e da creschids"
 short: OPUC
 language: rm
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-02
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2021-11-02
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/215.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3195/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3195/pdf_file"
 
 (OPUC)
 
-dals 02-11-2021 (versiun dals 01-01-2022)
+dals 02-11-2021 (versiun dals 01-01-2025)
 
 Sa basond sin l'art. 66 da la Lescha introductiva tar il Cudesch civil svizzer[^ingress-1] e sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-2]
 
@@ -457,6 +456,6 @@ relaschada da la Regenza ils 2 da november 2021
 
 **Barat specific**
 
-<sup>1</sup> Cun la Dretgira chantunala tgira il departament barats specifics regulars.
+<sup>1</sup> Cun la Dretgira superiura tgira il departament barats specifics regulars.
 
 2021-034

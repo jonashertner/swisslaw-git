@@ -4,13 +4,12 @@ number: "215.010"
 title: Verordnung zum Kindes- und Erwachsenenschutz
 short: KESV
 language: de
-version: 2022-01-01
-valid_until: 2024-12-31
-version_adopted: 2021-11-02
+version: 2025-01-01
+version_adopted: 2023-04-04
 adopted: 2021-11-02
 in_force: 2022-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/215.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3195/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3195/pdf_file"
 
 (KESV)
 
-Vom 02.11.2021 (Stand 01.01.2022)
+Vom 02.11.2021 (Stand 01.01.2025)
 
 Gestützt auf Art. 66 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^ingress-1] und Art. 45 Abs. 1 der Kantonsverfassung[^ingress-2]
 
@@ -457,6 +456,6 @@ von der Regierung erlassen am 2. November 2021
 
 **Fachaustausch**
 
-<sup>1</sup> Das Departement pflegt mit dem Kantonsgericht einen regelmässigen Fachaustausch.
+<sup>1</sup> Das Departement pflegt mit dem Obergericht einen regelmässigen Fachaustausch.
 
 2021-034
